@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smith Optics Haywire Gafas de sol  Multi'
+title: 'Smith Optics Haywire Gafas de sol  Multi al 34.22 % de descuento'
 date: 2019/10/16 05:43:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xT5Y2jOqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xT5Y2jOqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 147.61 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Smith Optics Haywire Gafas de sol  Multicolor  Mtt Black   55 Unisex Adulto](https://www.amazon.com/dp/B07GDG52LL/?tag=redken08-20) a 97.1 EUR (original: 147.61 EUR) en el siguiente enlace!
+Ahora mismo tienes [Smith Optics Haywire Gafas de sol  Multicolor  Mtt Black   55 Unisex Adulto](https://www.amazon.com/dp/B07GDG52LL/?tag=redken08-20) a 97.1 EUR (original: 147.61 EUR) (34.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31xT5Y2jOqL._SL200_.jpg)](https://www.amazon.com/dp/B07GDG52LL/?tag=redken08-20)
 

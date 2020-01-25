@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'STANLEY STST1-70720 - Organizador SortMa'
+title: 'STANLEY STST1-70720 - Organizador SortMa al 32.58 % de descuento'
 date: 2020-01-11 14:04:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oyWa-9uNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oyWa-9uNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 10.68 EUR
 inStock: true
 ---
 
-Está [STANLEY STST1-70720 - Organizador SortMaster  Negro  Transparente](https://www.amazon.com/dp/B00CF17IMA/?tag=redken08-20) por 7.2 EUR (original: 10.68 EUR) en el siguiente enlace!
+Está [STANLEY STST1-70720 - Organizador SortMaster  Negro  Transparente](https://www.amazon.com/dp/B00CF17IMA/?tag=redken08-20) con 32.58 de descuento por 7.2 EUR (original: 10.68 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41oyWa-9uNL._SL200_.jpg)](https://www.amazon.com/dp/B00CF17IMA/?tag=redken08-20)
 

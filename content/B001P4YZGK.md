@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Matusalem Ron Añejo  15 años - 700 ml'
+title: 'Descuento del 31.31 % en Matusalem Ron Añejo  15 años - 700 ml'
 date: 2020-01-15 18:43:58
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 35.8 EUR
 inStock: true
 ---
 
-Tienes [Matusalem Ron Añejo  15 años - 700 ml](https://www.amazon.com/dp/B001P4YZGK/?tag=redken08-20) a precio de oferta de 24.59 EUR (original: 35.8 EUR) en el siguiente enlace!
+Tienes [Matusalem Ron Añejo  15 años - 700 ml](https://www.amazon.com/dp/B001P4YZGK/?tag=redken08-20) con un 31.31 % de descuento con precio de oferta de 24.59 EUR (original: 35.8 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B001P4YZGK/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compo 1418502011 Abono Azul Universal 10'
+title: 'Descuento del 69.83 % en Compo 1418502011 Abono Azul Universal 10'
 date: 2019/10/30 15:18:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xvr7VkJ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xvr7VkJ3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.21 EUR
 inStock: true
 ---
 
-Tienes [Compo 1418502011 Abono Azul Universal 10 Kg [Ideal para Todo Tipo de Tierras  Granulado  Máxima Calidad Garantizada  Tecnología Novatec]  51 X 26 X 7 Cm](https://www.amazon.com/dp/B06XPTYB67/?tag=redken08-20) a precio de oferta de 6.4 EUR (original: 21.21 EUR) en el siguiente enlace!
+Tienes [Compo 1418502011 Abono Azul Universal 10 Kg [Ideal para Todo Tipo de Tierras  Granulado  Máxima Calidad Garantizada  Tecnología Novatec]  51 X 26 X 7 Cm](https://www.amazon.com/dp/B06XPTYB67/?tag=redken08-20) con un 69.83 % de descuento con precio de oferta de 6.4 EUR (original: 21.21 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51xvr7VkJ3L._SL200_.jpg)](https://www.amazon.com/dp/B06XPTYB67/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Springer Riñonera  23 cm  2 L  N'
+title: 'Eastpak Springer Riñonera  23 cm  2 L  N al 28.57 % de descuento'
 date: 2019/12/25 10:35:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mCbk-ADNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mCbk-ADNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.46 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Eastpak Springer Riñonera  23 cm  2 L  Negro  Star Promising Gradient ](https://www.amazon.com/dp/B07X4PG5DZ/?tag=redken08-20) a 18.9 EUR (original: 26.46 EUR) en el siguiente enlace!
+Ahora mismo tienes [Eastpak Springer Riñonera  23 cm  2 L  Negro  Star Promising Gradient ](https://www.amazon.com/dp/B07X4PG5DZ/?tag=redken08-20) a 18.9 EUR (original: 26.46 EUR) (28.57 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mCbk-ADNL._SL200_.jpg)](https://www.amazon.com/dp/B07X4PG5DZ/?tag=redken08-20)
 

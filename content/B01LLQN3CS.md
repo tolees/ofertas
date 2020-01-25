@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Berserk And The Band Of The Hawk'
+title: 'Berserk And The Band Of The Hawk al 50.01 % de descuento'
 date: 2019/10/29 22:43:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/616fVeKULQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/616fVeKULQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Berserk And The Band Of The Hawk](https://www.amazon.com/dp/B01LLQN3CS/?tag=redken08-20) a 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Berserk And The Band Of The Hawk](https://www.amazon.com/dp/B01LLQN3CS/?tag=redken08-20) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/616fVeKULQL._SL200_.jpg)](https://www.amazon.com/dp/B01LLQN3CS/?tag=redken08-20)
 

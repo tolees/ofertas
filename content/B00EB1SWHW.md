@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Krups Dolce Gusto Mini Me KP1208 - Cafet'
+title: 'Descuento del 42.42 % en Krups Dolce Gusto Mini Me KP1208 - Cafet'
 date: 2020-01-12 21:19:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412lnaEpkdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412lnaEpkdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Tienes [Krups Dolce Gusto Mini Me KP1208 - Cafetera de cápsulas  15 bares de presión  color negro y gris](https://www.amazon.com/dp/B00EB1SWHW/?tag=redken08-20) a precio de oferta de 57 EUR (original: 99 EUR) en el siguiente enlace!
+Tienes [Krups Dolce Gusto Mini Me KP1208 - Cafetera de cápsulas  15 bares de presión  color negro y gris](https://www.amazon.com/dp/B00EB1SWHW/?tag=redken08-20) con un 42.42 % de descuento con precio de oferta de 57 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412lnaEpkdL._SL200_.jpg)](https://www.amazon.com/dp/B00EB1SWHW/?tag=redken08-20)
 

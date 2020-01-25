@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAST LEVEL- Funko Figura Pop Dragon Ball'
+title: 'LAST LEVEL- Funko Figura Pop Dragon Ball al 48.28 % de descuento'
 date: 2020-01-12 17:17:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i%2B1r95YsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i%2B1r95YsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [LAST LEVEL- Funko Figura Pop Dragon Ball: Videl  Multicolor  Talla única  FFK36389 ](https://www.amazon.com/dp/B07HB3LJPK/?tag=redken08-20) por 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [LAST LEVEL- Funko Figura Pop Dragon Ball: Videl  Multicolor  Talla única  FFK36389 ](https://www.amazon.com/dp/B07HB3LJPK/?tag=redken08-20) con 48.28 de descuento por 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41i%2B1r95YsL._SL200_.jpg)](https://www.amazon.com/dp/B07HB3LJPK/?tag=redken08-20)
 

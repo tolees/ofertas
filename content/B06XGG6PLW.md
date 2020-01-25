@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko - Pop! Vinilo Colección El señor d'
+title: 'Funko - Pop! Vinilo Colección El señor d al 27.96 % de descuento'
 date: 2019/12/03 09:54:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MYSqJ8gcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MYSqJ8gcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko - Pop! Vinilo Colección El señor de los Anillos - Figura Gandalf  13550 ](https://www.amazon.com/dp/B06XGG6PLW/?tag=redken08-20) por 11.49 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Funko - Pop! Vinilo Colección El señor de los Anillos - Figura Gandalf  13550 ](https://www.amazon.com/dp/B06XGG6PLW/?tag=redken08-20) con 27.96 de descuento por 11.49 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51MYSqJ8gcL._SL200_.jpg)](https://www.amazon.com/dp/B06XGG6PLW/?tag=redken08-20)
 

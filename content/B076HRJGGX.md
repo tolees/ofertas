@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Regi18 TR Pantalón  Sin género  N'
+title: 'adidas Regi18 TR Pantalón  Sin género  N al 41.26 % de descuento'
 date: 2019/12/15 12:23:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jf9w-OXjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jf9w-OXjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Regi18 TR Pantalón  Sin género  Negro  L](https://www.amazon.com/dp/B076HRJGGX/?tag=redken08-20) a 23.49 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Regi18 TR Pantalón  Sin género  Negro  L](https://www.amazon.com/dp/B076HRJGGX/?tag=redken08-20) a 23.49 EUR (original: 39.99 EUR) (41.26 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jf9w-OXjL._SL200_.jpg)](https://www.amazon.com/dp/B076HRJGGX/?tag=redken08-20)
 

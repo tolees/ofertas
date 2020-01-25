@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Phyto Phyto Elixir Champu 200 ml - 200 m'
+title: 'Phyto Phyto Elixir Champu 200 ml - 200 m al 25.36 % de descuento'
 date: 2019/11/08 13:39:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GajcTLTaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GajcTLTaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.05 EUR
 inStock: true
 ---
 
-Está [Phyto Phyto Elixir Champu 200 ml - 200 ml](https://www.amazon.com/dp/B01CHRUEZE/?tag=redken08-20) por 17.95 EUR (original: 24.05 EUR) en el siguiente enlace!
+Está [Phyto Phyto Elixir Champu 200 ml - 200 ml](https://www.amazon.com/dp/B01CHRUEZE/?tag=redken08-20) con 25.36 de descuento por 17.95 EUR (original: 24.05 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31GajcTLTaL._SL200_.jpg)](https://www.amazon.com/dp/B01CHRUEZE/?tag=redken08-20)
 

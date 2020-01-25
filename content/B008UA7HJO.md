@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortefiel Camisa Lino Blanco M'
+title: 'Cortefiel Camisa Lino Blanco M al 50.58 % de descuento'
 date: 2019/11/07 07:22:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tm2baXTeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tm2baXTeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Cortefiel Camisa Lino Blanco M](https://www.amazon.com/dp/B008UA7HJO/?tag=redken08-20) por 14.82 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Cortefiel Camisa Lino Blanco M](https://www.amazon.com/dp/B008UA7HJO/?tag=redken08-20) con 50.58 de descuento por 14.82 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tm2baXTeL._SL200_.jpg)](https://www.amazon.com/dp/B008UA7HJO/?tag=redken08-20)
 

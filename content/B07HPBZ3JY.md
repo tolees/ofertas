@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei Flexible Protective Silicone Case'
+title: 'Descuento del 80.36 % en Huawei Flexible Protective Silicone Case'
 date: 2019/12/20 01:11:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/212rCd9zAAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/212rCd9zAAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Tienes [Huawei Flexible Protective Silicone Case for Mate 20 Pro  Black](https://www.amazon.com/dp/B07HPBZ3JY/?tag=redken08-20) a precio de oferta de 5.89 GBP (original: 29.99 GBP) en el siguiente enlace!
+Tienes [Huawei Flexible Protective Silicone Case for Mate 20 Pro  Black](https://www.amazon.com/dp/B07HPBZ3JY/?tag=redken08-20) con un 80.36 % de descuento con precio de oferta de 5.89 GBP (original: 29.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/212rCd9zAAL._SL200_.jpg)](https://www.amazon.com/dp/B07HPBZ3JY/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling 100 PENS Estuches  21 cm  1.5 Li'
+title: 'Kipling 100 PENS Estuches  21 cm  1.5 Li al 30.00 % de descuento'
 date: 2019/12/25 16:02:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R4d82j6DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R4d82j6DL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39 EUR
 inStock: true
 ---
 
-Está [Kipling 100 PENS Estuches  21 cm  1.5 Liters  Azul  Deep Aqua C ](https://www.amazon.com/dp/B07NFGFQX4/?tag=redken08-20) por 27.3 EUR (original: 39 EUR) en el siguiente enlace!
+Está [Kipling 100 PENS Estuches  21 cm  1.5 Liters  Azul  Deep Aqua C ](https://www.amazon.com/dp/B07NFGFQX4/?tag=redken08-20) con 30.00 de descuento por 27.3 EUR (original: 39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51R4d82j6DL._SL200_.jpg)](https://www.amazon.com/dp/B07NFGFQX4/?tag=redken08-20)
 

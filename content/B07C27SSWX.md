@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjebasic Knit V-Neck Noos s'
+title: 'JACK & JONES Jjebasic Knit V-Neck Noos s al 45.22 % de descuento'
 date: 2019/11/17 21:02:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z5LjhmJvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z5LjhmJvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES Jjebasic Knit V-Neck Noos suéter  Negro Black  Small para Hombre](https://www.amazon.com/dp/B07C27SSWX/?tag=redken08-20) a 13.69 EUR (original: 24.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES Jjebasic Knit V-Neck Noos suéter  Negro Black  Small para Hombre](https://www.amazon.com/dp/B07C27SSWX/?tag=redken08-20) a 13.69 EUR (original: 24.99 EUR) (45.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41z5LjhmJvL._SL200_.jpg)](https://www.amazon.com/dp/B07C27SSWX/?tag=redken08-20)
 

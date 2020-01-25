@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Double Pack: Assassin s Creed Odyssey + '
+title: 'Double Pack: Assassin s Creed Odyssey +  al 30.19 % de descuento'
 date: 2020-01-15 08:46:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515bhh3Q8OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515bhh3Q8OL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Double Pack: Assassin s Creed Odyssey + Assassin s Creed Origins](https://www.amazon.com/dp/B07TQ6GDH3/?tag=redken08-20) por 34.9 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Double Pack: Assassin s Creed Odyssey + Assassin s Creed Origins](https://www.amazon.com/dp/B07TQ6GDH3/?tag=redken08-20) con 30.19 de descuento por 34.9 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515bhh3Q8OL._SL200_.jpg)](https://www.amazon.com/dp/B07TQ6GDH3/?tag=redken08-20)
 

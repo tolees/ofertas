@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Sportstyle Left Chest SS Ca'
+title: 'Under Armour Sportstyle Left Chest SS Ca al 48.12 % de descuento'
 date: 2019/12/17 08:53:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gUhwNYYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gUhwNYYdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26 EUR
 inStock: true
 ---
 
-Está [Under Armour Sportstyle Left Chest SS Camiseta  Hombre  Rojo  Red/Black 600   M](https://www.amazon.com/dp/B077XNHQ3B/?tag=redken08-20) por 13.49 EUR (original: 26 EUR) en el siguiente enlace!
+Está [Under Armour Sportstyle Left Chest SS Camiseta  Hombre  Rojo  Red/Black 600   M](https://www.amazon.com/dp/B077XNHQ3B/?tag=redken08-20) con 48.12 de descuento por 13.49 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gUhwNYYdL._SL200_.jpg)](https://www.amazon.com/dp/B077XNHQ3B/?tag=redken08-20)
 

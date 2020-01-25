@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Alejandra Sequin Camiseta  Bl'
+title: 'Pepe Jeans Alejandra Sequin Camiseta  Bl al 50.20 % de descuento'
 date: 2019/10/20 09:14:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MhoqpUb9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MhoqpUb9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Alejandra Sequin Camiseta  Blanco  Optic White 802   14-15 años  Talla del Fabricante: 164/14 años  para Niñas](https://www.amazon.com/dp/B07JH54KWT/?tag=redken08-20) por 12.45 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Pepe Jeans Alejandra Sequin Camiseta  Blanco  Optic White 802   14-15 años  Talla del Fabricante: 164/14 años  para Niñas](https://www.amazon.com/dp/B07JH54KWT/?tag=redken08-20) con 50.20 de descuento por 12.45 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31MhoqpUb9L._SL200_.jpg)](https://www.amazon.com/dp/B07JH54KWT/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Digipack House I a IV [DVD]'
+title: 'Digipack House I a IV [DVD] al 63.41 % de descuento'
 date: 2019/11/19 07:14:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518lzbx5G7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518lzbx5G7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 41 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Digipack House I a IV [DVD]](https://www.amazon.com/dp/B079RN5NRZ/?tag=redken08-20) a 15 EUR (original: 41 EUR) en el siguiente enlace!
+Ahora mismo tienes [Digipack House I a IV [DVD]](https://www.amazon.com/dp/B079RN5NRZ/?tag=redken08-20) a 15 EUR (original: 41 EUR) (63.41 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518lzbx5G7L._SL200_.jpg)](https://www.amazon.com/dp/B079RN5NRZ/?tag=redken08-20)
 

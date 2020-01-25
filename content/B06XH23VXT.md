@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Coastal 2 Parka  Hombre  Ro'
+title: 'Helly Hansen Coastal 2 Parka  Hombre  Ro al 34.87 % de descuento'
 date: 2019/12/27 12:11:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BFqpAOqyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BFqpAOqyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 270 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Coastal 2 Parka  Hombre  Rojo  Bandera   M](https://www.amazon.com/dp/B06XH23VXT/?tag=redken08-20) por 175.84 EUR (original: 270 EUR) en el siguiente enlace!
+Está [Helly Hansen Coastal 2 Parka  Hombre  Rojo  Bandera   M](https://www.amazon.com/dp/B06XH23VXT/?tag=redken08-20) con 34.87 de descuento por 175.84 EUR (original: 270 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BFqpAOqyL._SL200_.jpg)](https://www.amazon.com/dp/B06XH23VXT/?tag=redken08-20)
 

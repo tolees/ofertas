@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Laserjet Pro M130fn - Impresora multi'
+title: 'HP Laserjet Pro M130fn - Impresora multi al 28.03 % de descuento'
 date: 2020-01-12 17:32:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AQpZCWccL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AQpZCWccL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 165.35 EUR
 inStock: true
 ---
 
-Está [HP Laserjet Pro M130fn - Impresora multifunción  sin WiFi  con Fax  Color Blanco](https://www.amazon.com/dp/B01IN5WPU6/?tag=redken08-20) por 119.01 EUR (original: 165.35 EUR) en el siguiente enlace!
+Está [HP Laserjet Pro M130fn - Impresora multifunción  sin WiFi  con Fax  Color Blanco](https://www.amazon.com/dp/B01IN5WPU6/?tag=redken08-20) con 28.03 de descuento por 119.01 EUR (original: 165.35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41AQpZCWccL._SL200_.jpg)](https://www.amazon.com/dp/B01IN5WPU6/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Coast Star  Zapatillas de Gimnasi'
+title: 'adidas Coast Star  Zapatillas de Gimnasi al 49.99 % de descuento'
 date: 2020-01-18 11:47:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w-MJDIHQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w-MJDIHQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Está [adidas Coast Star  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/Collegiate Burgundy/FTWR White FTWR White/Collegiate Burgundy/FTWR White   42 EU](https://www.amazon.com/dp/B07SXMLHJZ/?tag=redken08-20) por 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!
+Está [adidas Coast Star  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/Collegiate Burgundy/FTWR White FTWR White/Collegiate Burgundy/FTWR White   42 EU](https://www.amazon.com/dp/B07SXMLHJZ/?tag=redken08-20) con 49.99 de descuento por 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31w-MJDIHQL._SL200_.jpg)](https://www.amazon.com/dp/B07SXMLHJZ/?tag=redken08-20)
 

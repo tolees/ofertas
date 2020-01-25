@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Worx Wx390.1 H3 - Martillo Taladro Atorn'
+title: 'Worx Wx390.1 H3 - Martillo Taladro Atorn al 26.49 % de descuento'
 date: 2019/11/29 06:56:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QaOsA0eLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QaOsA0eLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 184.95 EUR
 inStock: true
 ---
 
-Está [Worx Wx390.1 H3 - Martillo Taladro Atornillador  20 V  2.0 Ah  Negro](https://www.amazon.com/dp/B00TOM3VC4/?tag=redken08-20) por 135.95 EUR (original: 184.95 EUR) en el siguiente enlace!
+Está [Worx Wx390.1 H3 - Martillo Taladro Atornillador  20 V  2.0 Ah  Negro](https://www.amazon.com/dp/B00TOM3VC4/?tag=redken08-20) con 26.49 de descuento por 135.95 EUR (original: 184.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QaOsA0eLL._SL200_.jpg)](https://www.amazon.com/dp/B00TOM3VC4/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Elbas 2 Polo  Verde  Pale Gree'
+title: 'Napapijri Elbas 2 Polo  Verde  Pale Gree al 38.66 % de descuento'
 date: 2019/12/17 14:29:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31U4BazPMFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31U4BazPMFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Está [Napapijri Elbas 2 Polo  Verde  Pale Green New Ge1   Small para Hombre](https://www.amazon.com/dp/B07L9JVJSG/?tag=redken08-20) por 36.19 EUR (original: 59 EUR) en el siguiente enlace!
+Está [Napapijri Elbas 2 Polo  Verde  Pale Green New Ge1   Small para Hombre](https://www.amazon.com/dp/B07L9JVJSG/?tag=redken08-20) con 38.66 de descuento por 36.19 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31U4BazPMFL._SL200_.jpg)](https://www.amazon.com/dp/B07L9JVJSG/?tag=redken08-20)
 

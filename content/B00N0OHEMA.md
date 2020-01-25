@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TP-Link TL-SG105E - Conmutador con 5 Pue'
+title: 'TP-Link TL-SG105E - Conmutador con 5 Pue al 27.62 % de descuento'
 date: 2019/10/29 19:38:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aoxGgxlJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aoxGgxlJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [TP-Link TL-SG105E - Conmutador con 5 Puertos](https://www.amazon.com/dp/B00N0OHEMA/?tag=redken08-20) a 20.99 EUR (original: 29 EUR) en el siguiente enlace!
+Ahora mismo tienes [TP-Link TL-SG105E - Conmutador con 5 Puertos](https://www.amazon.com/dp/B00N0OHEMA/?tag=redken08-20) a 20.99 EUR (original: 29 EUR) (27.62 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aoxGgxlJL._SL200_.jpg)](https://www.amazon.com/dp/B00N0OHEMA/?tag=redken08-20)
 

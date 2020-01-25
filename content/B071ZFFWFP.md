@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics 1 52 m - Trípode ligero con'
+title: 'Descuento del 49.99 % en AmazonBasics 1 52 m - Trípode ligero con'
 date: 2019/11/14 23:17:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4146NGVrJzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4146NGVrJzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 56.99 EUR
 inStock: true
 ---
 
-Tienes [AmazonBasics 1 52 m - Trípode ligero con bolsa  2 unidades](https://www.amazon.com/dp/B071ZFFWFP/?tag=redken08-20) a precio de oferta de 28.5 EUR (original: 56.99 EUR) en el siguiente enlace!
+Tienes [AmazonBasics 1 52 m - Trípode ligero con bolsa  2 unidades](https://www.amazon.com/dp/B071ZFFWFP/?tag=redken08-20) con un 49.99 % de descuento con precio de oferta de 28.5 EUR (original: 56.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4146NGVrJzL._SL200_.jpg)](https://www.amazon.com/dp/B071ZFFWFP/?tag=redken08-20)
 

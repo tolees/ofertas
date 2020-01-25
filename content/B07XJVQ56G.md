@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TXXCI Acrylic Display Case/Box Dustproof'
+title: 'TXXCI Acrylic Display Case/Box Dustproof al 50.00 % de descuento'
 date: 2020-01-24 09:56:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ADI+2DcgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ADI+2DcgL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 123.98 GBP
 inStock: true
 ---
 
-Está [TXXCI Acrylic Display Case/Box Dustproof For Building Kit Models Compatible with Lego 42096 Technic Porsche 911  Modell Set not included ](https://www.amazon.com/dp/B07XJVQ56G/?tag=redken08-20) por 61.99 GBP (original: 123.98 GBP) en el siguiente enlace!
+Está [TXXCI Acrylic Display Case/Box Dustproof For Building Kit Models Compatible with Lego 42096 Technic Porsche 911  Modell Set not included ](https://www.amazon.com/dp/B07XJVQ56G/?tag=redken08-20) con 50.00 de descuento por 61.99 GBP (original: 123.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ADI+2DcgL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07XJVQ56G/?tag=redken08-20)
 

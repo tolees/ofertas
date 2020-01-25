@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cartera Pepe Jeans Burned horizontal con'
+title: 'Cartera Pepe Jeans Burned horizontal con al 31.58 % de descuento'
 date: 2019/12/06 20:53:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41czsOsyTvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41czsOsyTvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 38 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cartera Pepe Jeans Burned horizontal con cierre de clic Negra](https://www.amazon.com/dp/B07HPD4XPN/?tag=redken08-20) a 26 EUR (original: 38 EUR) en el siguiente enlace!
+Ahora mismo tienes [Cartera Pepe Jeans Burned horizontal con cierre de clic Negra](https://www.amazon.com/dp/B07HPD4XPN/?tag=redken08-20) a 26 EUR (original: 38 EUR) (31.58 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41czsOsyTvL._SL200_.jpg)](https://www.amazon.com/dp/B07HPD4XPN/?tag=redken08-20)
 

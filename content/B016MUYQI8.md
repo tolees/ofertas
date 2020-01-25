@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jakks Pacific - Warcraft Figura : Durota'
+title: 'Jakks Pacific - Warcraft Figura : Durota al 59.85 % de descuento'
 date: 2019/10/13 17:22:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ebyWhzQIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ebyWhzQIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jakks Pacific - Warcraft Figura : Durotan  PC ](https://www.amazon.com/dp/B016MUYQI8/?tag=redken08-20) a 12.04 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jakks Pacific - Warcraft Figura : Durotan  PC ](https://www.amazon.com/dp/B016MUYQI8/?tag=redken08-20) a 12.04 EUR (original: 29.99 EUR) (59.85 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ebyWhzQIL._SL200_.jpg)](https://www.amazon.com/dp/B016MUYQI8/?tag=redken08-20)
 

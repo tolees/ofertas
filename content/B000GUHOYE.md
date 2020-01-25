@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celestron 11036 NexStar 5 SE Computerise'
+title: 'Celestron 11036 NexStar 5 SE Computerise al 41.94 % de descuento'
 date: 2020-01-24 19:34:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EDuXq2KEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EDuXq2KEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 999 GBP
 inStock: true
 ---
 
-Está [Celestron 11036 NexStar 5 SE Computerised Telescope](https://www.amazon.com/dp/B000GUHOYE/?tag=redken08-20) por 580 GBP (original: 999 GBP) en el siguiente enlace!
+Está [Celestron 11036 NexStar 5 SE Computerised Telescope](https://www.amazon.com/dp/B000GUHOYE/?tag=redken08-20) con 41.94 de descuento por 580 GBP (original: 999 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51EDuXq2KEL._SL200_.jpg)](https://www.amazon.com/dp/B000GUHOYE/?tag=redken08-20)
 

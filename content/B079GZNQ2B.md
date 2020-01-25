@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TP-Link Router 4G móvil Wifi MiFi 4G Cat'
+title: 'TP-Link Router 4G móvil Wifi MiFi 4G Cat al 50.06 % de descuento'
 date: 2020-01-07 07:22:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518thDKj1ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518thDKj1ML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.9 EUR
 inStock: true
 ---
 
-Está [TP-Link Router 4G móvil Wifi MiFi 4G Cat4 con Batería 2000 mAh  WiFi de 150 Mbps  Ganador del premio de diseño Red Dot  hasta 10 dispositivos simultáneamente  Control de tráfico M7200 ](https://www.amazon.com/dp/B079GZNQ2B/?tag=redken08-20) por 44.9 EUR (original: 89.9 EUR) en el siguiente enlace!
+Está [TP-Link Router 4G móvil Wifi MiFi 4G Cat4 con Batería 2000 mAh  WiFi de 150 Mbps  Ganador del premio de diseño Red Dot  hasta 10 dispositivos simultáneamente  Control de tráfico M7200 ](https://www.amazon.com/dp/B079GZNQ2B/?tag=redken08-20) con 50.06 de descuento por 44.9 EUR (original: 89.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518thDKj1ML._SL200_.jpg)](https://www.amazon.com/dp/B079GZNQ2B/?tag=redken08-20)
 

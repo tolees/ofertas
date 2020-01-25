@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FTIMILD Men s Stand Collar Leather Jacke'
+title: 'FTIMILD Men s Stand Collar Leather Jacke al 57.51 % de descuento'
 date: 2019/12/27 08:11:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PwWkOYCbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PwWkOYCbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [FTIMILD Men s Stand Collar Leather Jacket Motorcycle Lightweight Faux Leather Outwear Black](https://www.amazon.com/dp/B07SS1VTY7/?tag=redken08-20) a 16.99 GBP (original: 39.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [FTIMILD Men s Stand Collar Leather Jacket Motorcycle Lightweight Faux Leather Outwear Black](https://www.amazon.com/dp/B07SS1VTY7/?tag=redken08-20) a 16.99 GBP (original: 39.99 GBP) (57.51 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PwWkOYCbL._SL200_.jpg)](https://www.amazon.com/dp/B07SS1VTY7/?tag=redken08-20)
 

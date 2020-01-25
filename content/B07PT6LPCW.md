@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURLa Dolce Vita Sweater Sudadera  M'
+title: 'RIP CURLa Dolce Vita Sweater Sudadera  M al 59.56 % de descuento'
 date: 2019/11/07 15:24:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n46YJV-EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n46YJV-EL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [RIP CURLa Dolce Vita Sweater Sudadera  Mujer  Sea Salt  S](https://www.amazon.com/dp/B07PT6LPCW/?tag=redken08-20) a 26.28 EUR (original: 64.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [RIP CURLa Dolce Vita Sweater Sudadera  Mujer  Sea Salt  S](https://www.amazon.com/dp/B07PT6LPCW/?tag=redken08-20) a 26.28 EUR (original: 64.99 EUR) (59.56 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51n46YJV-EL._SL200_.jpg)](https://www.amazon.com/dp/B07PT6LPCW/?tag=redken08-20)
 

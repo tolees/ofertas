@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj PUMA Time - Hombre PU911271001'
+title: 'Reloj PUMA Time - Hombre PU911271001 al 50.12 % de descuento'
 date: 2019/10/11 16:23:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YCLf-dCzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YCLf-dCzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Reloj PUMA Time - Hombre PU911271001](https://www.amazon.com/dp/B01N5VFAB8/?tag=redken08-20) a 39.9 EUR (original: 80 EUR) en el siguiente enlace!
+Ahora mismo tienes [Reloj PUMA Time - Hombre PU911271001](https://www.amazon.com/dp/B01N5VFAB8/?tag=redken08-20) a 39.9 EUR (original: 80 EUR) (50.12 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YCLf-dCzL._SL200_.jpg)](https://www.amazon.com/dp/B01N5VFAB8/?tag=redken08-20)
 

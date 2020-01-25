@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nerf N-Strike Elite Disruptor'
+title: 'Nerf N-Strike Elite Disruptor al 30.79 % de descuento'
 date: 2019/12/27 08:43:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qarlZZzdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qarlZZzdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Está [Nerf N-Strike Elite Disruptor](https://www.amazon.com/dp/B01MXLMEAP/?tag=redken08-20) por 8.99 GBP (original: 12.99 GBP) en el siguiente enlace!
+Está [Nerf N-Strike Elite Disruptor](https://www.amazon.com/dp/B01MXLMEAP/?tag=redken08-20) con 30.79 de descuento por 8.99 GBP (original: 12.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51qarlZZzdL._SL200_.jpg)](https://www.amazon.com/dp/B01MXLMEAP/?tag=redken08-20)
 

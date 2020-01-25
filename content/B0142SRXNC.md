@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'STAR WARS LGFLY - Cartera Tarjetero BB8'
+title: 'STAR WARS LGFLY - Cartera Tarjetero BB8 al 47.94 % de descuento'
 date: 2019/10/27 18:41:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UqUP8EdvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UqUP8EdvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Está [STAR WARS LGFLY - Cartera Tarjetero BB8](https://www.amazon.com/dp/B0142SRXNC/?tag=redken08-20) por 12.99 EUR (original: 24.95 EUR) en el siguiente enlace!
+Está [STAR WARS LGFLY - Cartera Tarjetero BB8](https://www.amazon.com/dp/B0142SRXNC/?tag=redken08-20) con 47.94 de descuento por 12.99 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UqUP8EdvL._SL200_.jpg)](https://www.amazon.com/dp/B0142SRXNC/?tag=redken08-20)
 

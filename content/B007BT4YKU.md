@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Core Items 3.0 Bolsa de Hombro  Neg'
+title: 'Descuento del 50.20 % en Nike Core Items 3.0 Bolsa de Hombro  Neg'
 date: 2020-01-16 12:50:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [Nike Core Items 3.0 Bolsa de Hombro  Negro  Black/Black/Black   Talla única](https://www.amazon.com/dp/B007BT4YKU/?tag=redken08-20) a precio de oferta de 12.45 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [Nike Core Items 3.0 Bolsa de Hombro  Negro  Black/Black/Black   Talla única](https://www.amazon.com/dp/B007BT4YKU/?tag=redken08-20) con un 50.20 % de descuento con precio de oferta de 12.45 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL200_.jpg)](https://www.amazon.com/dp/B007BT4YKU/?tag=redken08-20)
 

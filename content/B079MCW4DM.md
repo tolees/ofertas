@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair K68 RGB - Teclado mecánico Gamin'
+title: 'Descuento del 35.72 % en Corsair K68 RGB - Teclado mecánico Gamin'
 date: 2019/11/30 09:06:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PCOLK8xoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PCOLK8xoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139.99 EUR
 inStock: true
 ---
 
-Tienes [Corsair K68 RGB - Teclado mecánico Gaming  retroiluminación multicolor RGB  resistente al polvo y a las salpicaduras   Cherry MX Rojo  Suave y rápido  - [QWERTY Español]](https://www.amazon.com/dp/B079MCW4DM/?tag=redken08-20) a precio de oferta de 89.99 EUR (original: 139.99 EUR) en el siguiente enlace!
+Tienes [Corsair K68 RGB - Teclado mecánico Gaming  retroiluminación multicolor RGB  resistente al polvo y a las salpicaduras   Cherry MX Rojo  Suave y rápido  - [QWERTY Español]](https://www.amazon.com/dp/B079MCW4DM/?tag=redken08-20) con un 35.72 % de descuento con precio de oferta de 89.99 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PCOLK8xoL._SL200_.jpg)](https://www.amazon.com/dp/B079MCW4DM/?tag=redken08-20)
 

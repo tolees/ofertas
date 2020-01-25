@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Purina Gourmet Gold Doble Placer comida '
+title: 'Purina Gourmet Gold Doble Placer comida  al 31.94 % de descuento'
 date: 2020-01-01 20:29:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jwELpDJgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jwELpDJgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.56 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Purina Gourmet Gold Doble Placer comida para gatos de Pescado del Oceano 24 x 85 g](https://www.amazon.com/dp/B071YZKF5S/?tag=redken08-20) a 11.27 EUR (original: 16.56 EUR) en el siguiente enlace!
+Ahora mismo tienes [Purina Gourmet Gold Doble Placer comida para gatos de Pescado del Oceano 24 x 85 g](https://www.amazon.com/dp/B071YZKF5S/?tag=redken08-20) a 11.27 EUR (original: 16.56 EUR) (31.94 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jwELpDJgL._SL200_.jpg)](https://www.amazon.com/dp/B071YZKF5S/?tag=redken08-20)
 

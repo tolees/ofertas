@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Knorr Crema De Tomate Con Mascarpone - 1'
+title: 'Knorr Crema De Tomate Con Mascarpone - 1 al 87.50 % de descuento'
 date: 2020-01-22 11:19:24
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 23.92 EUR
 inStock: true
 ---
 
-Está [Knorr Crema De Tomate Con Mascarpone - 1000 ml](https://www.amazon.com/dp/B07SQ1XPR1/?tag=redken08-20) por 2.99 EUR (original: 23.92 EUR) en el siguiente enlace!
+Está [Knorr Crema De Tomate Con Mascarpone - 1000 ml](https://www.amazon.com/dp/B07SQ1XPR1/?tag=redken08-20) con 87.50 de descuento por 2.99 EUR (original: 23.92 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07SQ1XPR1/?tag=redken08-20)
 

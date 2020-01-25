@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lierac - Leche protectora revitalizante '
+title: 'Lierac - Leche protectora revitalizante  al 51.45 % de descuento'
 date: 2019/10/18 18:15:46 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 39.42 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lierac - Leche protectora revitalizante spf30 sunissime](https://www.amazon.com/dp/B06XSYXLM3/?tag=redken08-20) a 19.14 EUR (original: 39.42 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lierac - Leche protectora revitalizante spf30 sunissime](https://www.amazon.com/dp/B06XSYXLM3/?tag=redken08-20) a 19.14 EUR (original: 39.42 EUR) (51.45 %  de descuento) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B06XSYXLM3/?tag=redken08-20)
 

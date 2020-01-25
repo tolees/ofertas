@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA GL Foundation SS T Camis'
+title: 'Descuento del 48.12 % en Under Armour UA GL Foundation SS T Camis'
 date: 2019/12/16 10:12:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Fks8MgBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Fks8MgBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26 EUR
 inStock: true
 ---
 
-Tienes [Under Armour UA GL Foundation SS T Camiseta  Hombre  Negro  Black/White/Red 001   S](https://www.amazon.com/dp/B07DXVJYSX/?tag=redken08-20) a precio de oferta de 13.49 EUR (original: 26 EUR) en el siguiente enlace!
+Tienes [Under Armour UA GL Foundation SS T Camiseta  Hombre  Negro  Black/White/Red 001   S](https://www.amazon.com/dp/B07DXVJYSX/?tag=redken08-20) con un 48.12 % de descuento con precio de oferta de 13.49 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417Fks8MgBL._SL200_.jpg)](https://www.amazon.com/dp/B07DXVJYSX/?tag=redken08-20)
 

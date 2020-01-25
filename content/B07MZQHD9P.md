@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 39949 POP Animation: Scooby Doo- S'
+title: 'Funko 39949 POP Animation: Scooby Doo- S al 29.79 % de descuento'
 date: 2020-01-15 21:40:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JgRYKcSmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JgRYKcSmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.23 GBP
 inStock: true
 ---
 
-Está [Funko 39949 POP Animation: Scooby Doo- Shaggy with Sandwich Collectible Figure  Multicolor](https://www.amazon.com/dp/B07MZQHD9P/?tag=redken08-20) por 6.48 GBP (original: 9.23 GBP) en el siguiente enlace!
+Está [Funko 39949 POP Animation: Scooby Doo- Shaggy with Sandwich Collectible Figure  Multicolor](https://www.amazon.com/dp/B07MZQHD9P/?tag=redken08-20) con 29.79 de descuento por 6.48 GBP (original: 9.23 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JgRYKcSmL._SL200_.jpg)](https://www.amazon.com/dp/B07MZQHD9P/?tag=redken08-20)
 

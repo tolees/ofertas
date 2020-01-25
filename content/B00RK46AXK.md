@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VAUDE Drive Van XT - Tienda de campaña i'
+title: 'Descuento del 31.47 % en VAUDE Drive Van XT - Tienda de campaña i'
 date: 2019/12/20 08:50:36 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 950 EUR
 inStock: true
 ---
 
-Tienes [VAUDE Drive Van XT - Tienda de campaña iglú  Color Arena  Talla única](https://www.amazon.com/dp/B00RK46AXK/?tag=redken08-20) a precio de oferta de 650.99 EUR (original: 950 EUR) en el siguiente enlace!
+Tienes [VAUDE Drive Van XT - Tienda de campaña iglú  Color Arena  Talla única](https://www.amazon.com/dp/B00RK46AXK/?tag=redken08-20) con un 31.47 % de descuento con precio de oferta de 650.99 EUR (original: 950 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B00RK46AXK/?tag=redken08-20)
 

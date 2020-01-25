@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 500  Zapatillas para Hombre '
+title: 'New Balance 500  Zapatillas para Hombre  al 46.69 % de descuento'
 date: 2019/11/08 02:50:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ahsWevy%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ahsWevy%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 500  Zapatillas para Hombre  Azul  Navy/Silver Navy/Silver   40 EU](https://www.amazon.com/dp/B07KRH1VSN/?tag=redken08-20) a 39.98 EUR (original: 75 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Balance 500  Zapatillas para Hombre  Azul  Navy/Silver Navy/Silver   40 EU](https://www.amazon.com/dp/B07KRH1VSN/?tag=redken08-20) a 39.98 EUR (original: 75 EUR) (46.69 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ahsWevy%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07KRH1VSN/?tag=redken08-20)
 

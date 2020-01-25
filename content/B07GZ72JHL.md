@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tamron T81141 - Objetivo SP 15-30mm F/2.'
+title: 'Tamron T81141 - Objetivo SP 15-30mm F/2. al 25.99 % de descuento'
 date: 2020-01-16 15:49:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zysYQdHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zysYQdHxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1304.75 EUR
 inStock: true
 ---
 
-Está [Tamron T81141 - Objetivo SP 15-30mm F/2.8 Di VC USD G2 para Nikon](https://www.amazon.com/dp/B07GZ72JHL/?tag=redken08-20) por 965.62 EUR (original: 1304.75 EUR) en el siguiente enlace!
+Está [Tamron T81141 - Objetivo SP 15-30mm F/2.8 Di VC USD G2 para Nikon](https://www.amazon.com/dp/B07GZ72JHL/?tag=redken08-20) con 25.99 de descuento por 965.62 EUR (original: 1304.75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zysYQdHxL._SL200_.jpg)](https://www.amazon.com/dp/B07GZ72JHL/?tag=redken08-20)
 

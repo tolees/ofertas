@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Speedpocket Run Crop Leg'
+title: 'Descuento del 28.00 % en Under Armour UA Speedpocket Run Crop Leg'
 date: 2019/12/05 07:52:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fwHbwNEJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fwHbwNEJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Tienes [Under Armour UA Speedpocket Run Crop Leggings Capri  Mujer  Negro  Black/Black/Reflective 001   M](https://www.amazon.com/dp/B071FNWKTG/?tag=redken08-20) a precio de oferta de 57.6 EUR (original: 80 EUR) en el siguiente enlace!
+Tienes [Under Armour UA Speedpocket Run Crop Leggings Capri  Mujer  Negro  Black/Black/Reflective 001   M](https://www.amazon.com/dp/B071FNWKTG/?tag=redken08-20) con un 28.00 % de descuento con precio de oferta de 57.6 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31fwHbwNEJL._SL200_.jpg)](https://www.amazon.com/dp/B071FNWKTG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WWE 2K19 - Edición Estándar'
+title: 'WWE 2K19 - Edición Estándar al 82.37 % de descuento'
 date: 2019/10/28 19:37:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61xMyi4eIOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61xMyi4eIOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [WWE 2K19 - Edición Estándar](https://www.amazon.com/dp/B07DY2MB7Q/?tag=redken08-20) por 12.34 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [WWE 2K19 - Edición Estándar](https://www.amazon.com/dp/B07DY2MB7Q/?tag=redken08-20) con 82.37 de descuento por 12.34 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61xMyi4eIOL._SL200_.jpg)](https://www.amazon.com/dp/B07DY2MB7Q/?tag=redken08-20)
 

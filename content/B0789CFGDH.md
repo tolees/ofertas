@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Favorite GRPH Legging Logo '
+title: 'Under Armour Favorite GRPH Legging Logo  al 32.80 % de descuento'
 date: 2019/10/22 18:11:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41keEKcCl5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41keEKcCl5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Under Armour Favorite GRPH Legging Logo Pantalones  Mujer  Aluminium Light Heather/After Burn  S](https://www.amazon.com/dp/B0789CFGDH/?tag=redken08-20) por 26.88 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Under Armour Favorite GRPH Legging Logo Pantalones  Mujer  Aluminium Light Heather/After Burn  S](https://www.amazon.com/dp/B0789CFGDH/?tag=redken08-20) con 32.80 de descuento por 26.88 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41keEKcCl5L._SL200_.jpg)](https://www.amazon.com/dp/B0789CFGDH/?tag=redken08-20)
 

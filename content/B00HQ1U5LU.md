@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M One&Only 2.0 Woven S/S Camisas '
+title: 'Hurley M One&Only 2.0 Woven S/S Camisas  al 78.02 % de descuento'
 date: 2019/12/05 17:25:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414oU8DranL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414oU8DranL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley M One&Only 2.0 Woven S/S Camisas  Hombre  Blue Ox  S](https://www.amazon.com/dp/B00HQ1U5LU/?tag=redken08-20) a 10.99 EUR (original: 50 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hurley M One&Only 2.0 Woven S/S Camisas  Hombre  Blue Ox  S](https://www.amazon.com/dp/B00HQ1U5LU/?tag=redken08-20) a 10.99 EUR (original: 50 EUR) (78.02 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414oU8DranL._SL200_.jpg)](https://www.amazon.com/dp/B00HQ1U5LU/?tag=redken08-20)
 

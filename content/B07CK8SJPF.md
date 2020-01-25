@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shenmue I & II - Xbox One'
+title: 'Shenmue I & II - Xbox One al 48.84 % de descuento'
 date: 2019/11/02 15:02:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cRn7upjHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cRn7upjHL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Tienes [Shenmue I & II - Xbox One](https://www.amazon.com/dp/B07CK8SJPF/?tag=redken08-20) a precio de oferta de 17.9 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [Shenmue I & II - Xbox One](https://www.amazon.com/dp/B07CK8SJPF/?tag=redken08-20) con 48.84 de descuento por 17.9 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51cRn7upjHL._SL200_.jpg)](https://www.amazon.com/dp/B07CK8SJPF/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07CK8SJPF/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07CK8SJPF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

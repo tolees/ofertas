@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DiCAPac WP-565 Big - Bolsa estanca  colo'
+title: 'DiCAPac WP-565 Big - Bolsa estanca  colo al 35.93 % de descuento'
 date: 2019/11/03 11:51:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VMlYGXmML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VMlYGXmML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DiCAPac WP-565 Big - Bolsa estanca  color negro  talla única](https://www.amazon.com/dp/B005IAXVMG/?tag=redken08-20) a 23 EUR (original: 35.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [DiCAPac WP-565 Big - Bolsa estanca  color negro  talla única](https://www.amazon.com/dp/B005IAXVMG/?tag=redken08-20) a 23 EUR (original: 35.9 EUR) (35.93 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VMlYGXmML._SL200_.jpg)](https://www.amazon.com/dp/B005IAXVMG/?tag=redken08-20)
 

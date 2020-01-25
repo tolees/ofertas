@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Splatoon 2 - Nintendo Switch [Importació'
+title: 'Splatoon 2 - Nintendo Switch [Importació al 26.70 % de descuento'
 date: 2019/12/13 16:49:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ScYEwTahL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ScYEwTahL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Splatoon 2 - Nintendo Switch [Importación italiana]](https://www.amazon.com/dp/B01MSB0LJF/?tag=redken08-20) por 43.97 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Splatoon 2 - Nintendo Switch [Importación italiana]](https://www.amazon.com/dp/B01MSB0LJF/?tag=redken08-20) con 26.70 de descuento por 43.97 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61ScYEwTahL._SL200_.jpg)](https://www.amazon.com/dp/B01MSB0LJF/?tag=redken08-20)
 

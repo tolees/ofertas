@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Eils SS Polo  Azul  Clematis B'
+title: 'Napapijri Eils SS Polo  Azul  Clematis B al 50.00 % de descuento'
 date: 2020-01-21 21:17:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MDXvUWocL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MDXvUWocL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Napapijri Eils SS Polo  Azul  Clematis Blue VB1   Large para Hombre](https://www.amazon.com/dp/B07MVLQVWB/?tag=redken08-20) a 29.5 EUR (original: 59 EUR) en el siguiente enlace!
+Ahora mismo tienes [Napapijri Eils SS Polo  Azul  Clematis Blue VB1   Large para Hombre](https://www.amazon.com/dp/B07MVLQVWB/?tag=redken08-20) a 29.5 EUR (original: 59 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MDXvUWocL._SL200_.jpg)](https://www.amazon.com/dp/B07MVLQVWB/?tag=redken08-20)
 

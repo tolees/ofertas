@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kempa Shirt Core Polo Manga Corta  Hombr'
+title: 'Descuento del 46.66 % en Kempa Shirt Core Polo Manga Corta  Hombr'
 date: 2020-01-22 07:14:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xs5nPoSWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xs5nPoSWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.79 EUR
 inStock: true
 ---
 
-Tienes [Kempa Shirt Core Polo Manga Corta  Hombre  Rojo  XXL](https://www.amazon.com/dp/B00TJR5TRO/?tag=redken08-20) a precio de oferta de 9.49 EUR (original: 17.79 EUR) en el siguiente enlace!
+Tienes [Kempa Shirt Core Polo Manga Corta  Hombre  Rojo  XXL](https://www.amazon.com/dp/B00TJR5TRO/?tag=redken08-20) con un 46.66 % de descuento con precio de oferta de 9.49 EUR (original: 17.79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Xs5nPoSWL._SL200_.jpg)](https://www.amazon.com/dp/B00TJR5TRO/?tag=redken08-20)
 

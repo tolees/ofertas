@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Halloween Man 125 ml'
+title: 'Halloween Man 125 ml al 58.90 % de descuento'
 date: 2020-01-19 00:04:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IBwV-rJUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IBwV-rJUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 63.5 EUR
 inStock: true
 ---
 
-Está [Halloween Man 125 ml](https://www.amazon.com/dp/B009SANMNU/?tag=redken08-20) por 26.1 EUR (original: 63.5 EUR) en el siguiente enlace!
+Está [Halloween Man 125 ml](https://www.amazon.com/dp/B009SANMNU/?tag=redken08-20) con 58.90 de descuento por 26.1 EUR (original: 63.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IBwV-rJUL._SL200_.jpg)](https://www.amazon.com/dp/B009SANMNU/?tag=redken08-20)
 

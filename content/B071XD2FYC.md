@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko pop! Masters of the Universe - Evi'
+title: 'Funko pop! Masters of the Universe - Evi al 35.77 % de descuento'
 date: 2019-12-31 22:03:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tQeGfX9iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tQeGfX9iL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.17 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko pop! Masters of the Universe - Evil-Lyn 565  Vinyl Figure!](https://www.amazon.com/dp/B071XD2FYC/?tag=redken08-20) a 5.89 GBP (original: 9.17 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko pop! Masters of the Universe - Evil-Lyn 565  Vinyl Figure!](https://www.amazon.com/dp/B071XD2FYC/?tag=redken08-20) a 5.89 GBP (original: 9.17 GBP) (35.77 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tQeGfX9iL._SL200_.jpg)](https://www.amazon.com/dp/B071XD2FYC/?tag=redken08-20)
 

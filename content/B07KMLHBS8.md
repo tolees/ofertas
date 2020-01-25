@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volcom Stone Blank BSC S/S Camiseta  Hom'
+title: 'Volcom Stone Blank BSC S/S Camiseta  Hom al 50.66 % de descuento'
 date: 2019/11/24 22:19:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tLksDeiaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tLksDeiaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.2 EUR
 inStock: true
 ---
 
-Está [Volcom Stone Blank BSC S/S Camiseta  Hombre  Blanco  Extra-Large](https://www.amazon.com/dp/B07KMLHBS8/?tag=redken08-20) por 11.94 EUR (original: 24.2 EUR) en el siguiente enlace!
+Está [Volcom Stone Blank BSC S/S Camiseta  Hombre  Blanco  Extra-Large](https://www.amazon.com/dp/B07KMLHBS8/?tag=redken08-20) con 50.66 de descuento por 11.94 EUR (original: 24.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31tLksDeiaL._SL200_.jpg)](https://www.amazon.com/dp/B07KMLHBS8/?tag=redken08-20)
 

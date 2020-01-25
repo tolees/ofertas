@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas YATRA  Zapatillas de Deporte para'
+title: 'Adidas YATRA  Zapatillas de Deporte para al 49.99 % de descuento'
 date: 2020-01-15 12:07:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Está [Adidas YATRA  Zapatillas de Deporte para Mujer  Multicolor  Multicolor 000   36 EU](https://www.amazon.com/dp/B07MW3FY2C/?tag=redken08-20) por 27.48 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [Adidas YATRA  Zapatillas de Deporte para Mujer  Multicolor  Multicolor 000   36 EU](https://www.amazon.com/dp/B07MW3FY2C/?tag=redken08-20) con 49.99 de descuento por 27.48 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL200_.jpg)](https://www.amazon.com/dp/B07MW3FY2C/?tag=redken08-20)
 

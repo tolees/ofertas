@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Men s Air Max Command Leather Sneak'
+title: 'Nike Men s Air Max Command Leather Sneak al 56.20 % de descuento'
 date: 2019/11/11 09:41:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H5k2yt0oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H5k2yt0oL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 107.3 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Men s Air Max Command Leather Sneakers  Grey  Wlf Grey/Mtlc Drk Gry/Blck/Wht   6.5 UK](https://www.amazon.com/dp/B01HZQU8SU/?tag=redken08-20) a 47 GBP (original: 107.3 GBP) en el siguiente enlace!
+Ahora mismo tienes [Nike Men s Air Max Command Leather Sneakers  Grey  Wlf Grey/Mtlc Drk Gry/Blck/Wht   6.5 UK](https://www.amazon.com/dp/B01HZQU8SU/?tag=redken08-20) a 47 GBP (original: 107.3 GBP) (56.20 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41H5k2yt0oL._SL200_.jpg)](https://www.amazon.com/dp/B01HZQU8SU/?tag=redken08-20)
 

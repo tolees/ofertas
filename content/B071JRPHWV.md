@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRESemmé Mascarilla Diamante  180 ml - P'
+title: 'TRESemmé Mascarilla Diamante  180 ml - P al 63.80 % de descuento'
 date: 2019/11/05 08:08:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZvgPCMZyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZvgPCMZyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32.4 EUR
 inStock: true
 ---
 
-Está [TRESemmé Mascarilla Diamante  180 ml - Paquete de 6](https://www.amazon.com/dp/B071JRPHWV/?tag=redken08-20) por 11.73 EUR (original: 32.4 EUR) en el siguiente enlace!
+Está [TRESemmé Mascarilla Diamante  180 ml - Paquete de 6](https://www.amazon.com/dp/B071JRPHWV/?tag=redken08-20) con 63.80 de descuento por 11.73 EUR (original: 32.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ZvgPCMZyL._SL200_.jpg)](https://www.amazon.com/dp/B071JRPHWV/?tag=redken08-20)
 

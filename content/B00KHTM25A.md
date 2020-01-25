@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA HG Armour SS Camiseta  H'
+title: 'Under Armour UA HG Armour SS Camiseta  H al 51.70 % de descuento'
 date: 2019/12/16 19:49:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314PuBYP50L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314PuBYP50L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Under Armour UA HG Armour SS Camiseta  Hombre  Negro  Black/Steel 001   M](https://www.amazon.com/dp/B00KHTM25A/?tag=redken08-20) por 14.49 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Under Armour UA HG Armour SS Camiseta  Hombre  Negro  Black/Steel 001   M](https://www.amazon.com/dp/B00KHTM25A/?tag=redken08-20) con 51.70 de descuento por 14.49 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/314PuBYP50L._SL200_.jpg)](https://www.amazon.com/dp/B00KHTM25A/?tag=redken08-20)
 

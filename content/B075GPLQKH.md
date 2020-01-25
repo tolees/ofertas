@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 60180 City Great Vehicles Monster T'
+title: 'LEGO 60180 City Great Vehicles Monster T al 42.03 % de descuento'
 date: 2019/12/23 20:44:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517ZWjjOs3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517ZWjjOs3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Está [LEGO 60180 City Great Vehicles Monster Truck Toy with Driver and Stunt Show Accessories  Car Sets for Kids](https://www.amazon.com/dp/B075GPLQKH/?tag=redken08-20) por 8.69 GBP (original: 14.99 GBP) en el siguiente enlace!
+Está [LEGO 60180 City Great Vehicles Monster Truck Toy with Driver and Stunt Show Accessories  Car Sets for Kids](https://www.amazon.com/dp/B075GPLQKH/?tag=redken08-20) con 42.03 de descuento por 8.69 GBP (original: 14.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517ZWjjOs3L._SL200_.jpg)](https://www.amazon.com/dp/B075GPLQKH/?tag=redken08-20)
 

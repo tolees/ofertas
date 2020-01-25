@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego Worlds'
+title: 'Descuento del 64.39 % en Lego Worlds'
 date: 2020-01-24 18:05:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/61MVSI3SWXL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61MVSI3SWXL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Tienes [Lego Worlds](https://www.amazon.com/dp/B01N16CQYU/?tag=redken08-20) a precio de oferta de 8.9 EUR (original: 24.99 EUR) en el siguiente enlace!
+Tienes [Lego Worlds](https://www.amazon.com/dp/B01N16CQYU/?tag=redken08-20) con un 64.39 % de descuento con precio de oferta de 8.9 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61MVSI3SWXL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01N16CQYU/?tag=redken08-20)
 

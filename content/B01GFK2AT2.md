@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cupcake Surprise - Muñeca - Esther'
+title: 'Cupcake Surprise - Muñeca - Esther al 50.17 % de descuento'
 date: 2019/12/04 07:05:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515sLI%2BI3RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515sLI%2BI3RL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.94 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cupcake Surprise - Muñeca - Esther](https://www.amazon.com/dp/B01GFK2AT2/?tag=redken08-20) a 5.95 EUR (original: 11.94 EUR) en el siguiente enlace!
+Ahora mismo tienes [Cupcake Surprise - Muñeca - Esther](https://www.amazon.com/dp/B01GFK2AT2/?tag=redken08-20) a 5.95 EUR (original: 11.94 EUR) (50.17 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515sLI%2BI3RL._SL200_.jpg)](https://www.amazon.com/dp/B01GFK2AT2/?tag=redken08-20)
 

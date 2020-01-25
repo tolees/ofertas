@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Lite Racer CLN  Zapatillas para H'
+title: 'Adidas Lite Racer CLN  Zapatillas para H al 51.06 % de descuento'
 date: 2019/10/23 21:02:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F%2B7Zi3syL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F%2B7Zi3syL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [Adidas Lite Racer CLN  Zapatillas para Hombre  Negro  Core Black/Core Black/Carbon 0   40 2/3 EU](https://www.amazon.com/dp/B07DZXVWXJ/?tag=redken08-20) por 29.34 EUR (original: 59.95 EUR) en el siguiente enlace!
+Está [Adidas Lite Racer CLN  Zapatillas para Hombre  Negro  Core Black/Core Black/Carbon 0   40 2/3 EU](https://www.amazon.com/dp/B07DZXVWXJ/?tag=redken08-20) con 51.06 de descuento por 29.34 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41F%2B7Zi3syL._SL200_.jpg)](https://www.amazon.com/dp/B07DZXVWXJ/?tag=redken08-20)
 

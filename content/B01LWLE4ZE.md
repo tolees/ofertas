@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Walking Dead: A New Frontier'
+title: 'The Walking Dead: A New Frontier al 45.87 % de descuento'
 date: 2019/12/09 11:25:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61vNRkHGPzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61vNRkHGPzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [The Walking Dead: A New Frontier](https://www.amazon.com/dp/B01LWLE4ZE/?tag=redken08-20) por 18.94 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [The Walking Dead: A New Frontier](https://www.amazon.com/dp/B01LWLE4ZE/?tag=redken08-20) con 45.87 de descuento por 18.94 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61vNRkHGPzL._SL200_.jpg)](https://www.amazon.com/dp/B01LWLE4ZE/?tag=redken08-20)
 

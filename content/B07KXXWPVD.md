@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Back TO Work Mochila Tipo Casual'
+title: 'Eastpak Back TO Work Mochila Tipo Casual al 30.84 % de descuento'
 date: 2019/10/25 20:22:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x3bAFPDEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x3bAFPDEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Está [Eastpak Back TO Work Mochila Tipo Casual  43 cm  27 Liters  Azul  Humble Blue ](https://www.amazon.com/dp/B07KXXWPVD/?tag=redken08-20) por 48.41 EUR (original: 70 EUR) en el siguiente enlace!
+Está [Eastpak Back TO Work Mochila Tipo Casual  43 cm  27 Liters  Azul  Humble Blue ](https://www.amazon.com/dp/B07KXXWPVD/?tag=redken08-20) con 30.84 de descuento por 48.41 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31x3bAFPDEL._SL200_.jpg)](https://www.amazon.com/dp/B07KXXWPVD/?tag=redken08-20)
 

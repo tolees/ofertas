@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hudson ALCESTER Leather  Zapatillas para'
+title: 'Hudson ALCESTER Leather  Zapatillas para al 53.97 % de descuento'
 date: 2019/11/15 11:24:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Dx2DI4OoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Dx2DI4OoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 71.85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hudson ALCESTER Leather  Zapatillas para Hombre  Blanco  White 50   43 EU](https://www.amazon.com/dp/B07L6ZGRPW/?tag=redken08-20) a 33.07 EUR (original: 71.85 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hudson ALCESTER Leather  Zapatillas para Hombre  Blanco  White 50   43 EU](https://www.amazon.com/dp/B07L6ZGRPW/?tag=redken08-20) a 33.07 EUR (original: 71.85 EUR) (53.97 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Dx2DI4OoL._SL200_.jpg)](https://www.amazon.com/dp/B07L6ZGRPW/?tag=redken08-20)
 

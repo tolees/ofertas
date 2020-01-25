@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Vintage Logo CNY tee Camiseta d'
+title: 'Superdry Vintage Logo CNY tee Camiseta d al 35.86 % de descuento'
 date: 2019/12/05 11:45:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X%2B0aRhcpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X%2B0aRhcpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 36.73 EUR
 inStock: true
 ---
 
-Está [Superdry Vintage Logo CNY tee Camiseta de Tirantes  Blanco  Optic 01C   Medium para Hombre](https://www.amazon.com/dp/B07KMPYCTP/?tag=redken08-20) por 23.56 EUR (original: 36.73 EUR) en el siguiente enlace!
+Está [Superdry Vintage Logo CNY tee Camiseta de Tirantes  Blanco  Optic 01C   Medium para Hombre](https://www.amazon.com/dp/B07KMPYCTP/?tag=redken08-20) con 35.86 de descuento por 23.56 EUR (original: 36.73 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41X%2B0aRhcpL._SL200_.jpg)](https://www.amazon.com/dp/B07KMPYCTP/?tag=redken08-20)
 

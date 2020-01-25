@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AGPTEK Cortina de Luces LED 3 * 3M 300 L'
+title: 'AGPTEK Cortina de Luces LED 3 * 3M 300 L al 50.03 % de descuento'
 date: 2019/12/23 12:19:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DWjPOjKLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DWjPOjKLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [AGPTEK Cortina de Luces LED 3 * 3M 300 LED USB Luz Cadena Navidad Impermeable con 8 Modos y 15 Brillos  Recortable con Control Remoto para Fiesta/Boda/Navidad  Blanco Cálido](https://www.amazon.com/dp/B07WZCHXNH/?tag=redken08-20) por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [AGPTEK Cortina de Luces LED 3 * 3M 300 LED USB Luz Cadena Navidad Impermeable con 8 Modos y 15 Brillos  Recortable con Control Remoto para Fiesta/Boda/Navidad  Blanco Cálido](https://www.amazon.com/dp/B07WZCHXNH/?tag=redken08-20) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51DWjPOjKLL._SL200_.jpg)](https://www.amazon.com/dp/B07WZCHXNH/?tag=redken08-20)
 

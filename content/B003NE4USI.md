@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BLACK+DECKER A7063-QZ - Kit de 76 herram'
+title: 'BLACK+DECKER A7063-QZ - Kit de 76 herram al 34.67 % de descuento'
 date: 2020-01-17 15:09:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YJNGVUYbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YJNGVUYbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.9 EUR
 inStock: true
 ---
 
-Está [BLACK+DECKER A7063-QZ - Kit de 76 herramientas para coche](https://www.amazon.com/dp/B003NE4USI/?tag=redken08-20) por 32.6 EUR (original: 49.9 EUR) en el siguiente enlace!
+Está [BLACK+DECKER A7063-QZ - Kit de 76 herramientas para coche](https://www.amazon.com/dp/B003NE4USI/?tag=redken08-20) con 34.67 de descuento por 32.6 EUR (original: 49.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51YJNGVUYbL._SL200_.jpg)](https://www.amazon.com/dp/B003NE4USI/?tag=redken08-20)
 

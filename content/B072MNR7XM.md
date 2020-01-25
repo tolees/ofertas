@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Northweek Regular Wheel - Gafas de Sol p'
+title: 'Northweek Regular Wheel - Gafas de Sol p al 50.00 % de descuento'
 date: 2019/11/27 01:28:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eHhWactxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eHhWactxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Northweek Regular Wheel - Gafas de Sol para Hombre y Mujer  Polarizadas  Gris/Rojo](https://www.amazon.com/dp/B072MNR7XM/?tag=redken08-20) por 15 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Northweek Regular Wheel - Gafas de Sol para Hombre y Mujer  Polarizadas  Gris/Rojo](https://www.amazon.com/dp/B072MNR7XM/?tag=redken08-20) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31eHhWactxL._SL200_.jpg)](https://www.amazon.com/dp/B072MNR7XM/?tag=redken08-20)
 

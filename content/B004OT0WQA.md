@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Sponge Bob 3815: Heroic Heroes of t'
+title: 'LEGO Sponge Bob 3815: Heroic Heroes of t al 67.85 % de descuento'
 date: 2019/12/03 13:13:38 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 139.99 GBP
 inStock: true
 ---
 
-Está [LEGO Sponge Bob 3815: Heroic Heroes of the Deep](https://www.amazon.com/dp/B004OT0WQA/?tag=redken08-20) por 45 GBP (original: 139.99 GBP) en el siguiente enlace!
+Está [LEGO Sponge Bob 3815: Heroic Heroes of the Deep](https://www.amazon.com/dp/B004OT0WQA/?tag=redken08-20) con 67.85 de descuento por 45 GBP (original: 139.99 GBP) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B004OT0WQA/?tag=redken08-20)
 

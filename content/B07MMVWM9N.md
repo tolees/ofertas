@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Shirt Dress Vestido  Azul  Oil Blue '
+title: 'Lee Shirt Dress Vestido  Azul  Oil Blue  al 70.55 % de descuento'
 date: 2020-01-08 18:13:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-wSNKHKyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-wSNKHKyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Lee Shirt Dress Vestido  Azul  Oil Blue Mo   X-Small para Mujer](https://www.amazon.com/dp/B07MMVWM9N/?tag=redken08-20) por 29.44 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Lee Shirt Dress Vestido  Azul  Oil Blue Mo   X-Small para Mujer](https://www.amazon.com/dp/B07MMVWM9N/?tag=redken08-20) con 70.55 de descuento por 29.44 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31-wSNKHKyL._SL200_.jpg)](https://www.amazon.com/dp/B07MMVWM9N/?tag=redken08-20)
 

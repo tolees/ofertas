@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Gazelle  Zapatillas de deporte Un'
+title: 'adidas Gazelle  Zapatillas de deporte Un al 49.99 % de descuento'
 date: 2020-01-20 04:34:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F5qjIsfPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F5qjIsfPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 94.95 EUR
 inStock: true
 ---
 
-Está [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Gris  Dgh Solid Grey/White/Gold Metallic   45 1/3 EU](https://www.amazon.com/dp/B01IP4EFNK/?tag=redken08-20) por 47.48 EUR (original: 94.95 EUR) en el siguiente enlace!
+Está [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Gris  Dgh Solid Grey/White/Gold Metallic   45 1/3 EU](https://www.amazon.com/dp/B01IP4EFNK/?tag=redken08-20) con 49.99 de descuento por 47.48 EUR (original: 94.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41F5qjIsfPL._SL200_.jpg)](https://www.amazon.com/dp/B01IP4EFNK/?tag=redken08-20)
 

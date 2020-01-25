@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech G502 Lightspeed 910-005567 - Ra'
+title: 'Logitech G502 Lightspeed 910-005567 - Ra al 26.45 % de descuento'
 date: 2019/12/19 13:38:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PRmRRyfcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PRmRRyfcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 155 EUR
 inStock: true
 ---
 
-Está [Logitech G502 Lightspeed 910-005567 - Ratón Inalámbrico para Gaming  RGB  16.000 dpi  11 botones programables   Negro](https://www.amazon.com/dp/B07QKC4WWD/?tag=redken08-20) por 114 EUR (original: 155 EUR) en el siguiente enlace!
+Está [Logitech G502 Lightspeed 910-005567 - Ratón Inalámbrico para Gaming  RGB  16.000 dpi  11 botones programables   Negro](https://www.amazon.com/dp/B07QKC4WWD/?tag=redken08-20) con 26.45 de descuento por 114 EUR (original: 155 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PRmRRyfcL._SL200_.jpg)](https://www.amazon.com/dp/B07QKC4WWD/?tag=redken08-20)
 

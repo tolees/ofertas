@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas 18/19 Real Madrid Home with Lfp B'
+title: 'adidas 18/19 Real Madrid Home with Lfp B al 44.99 % de descuento'
 date: 2020-01-04 19:47:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [adidas 18/19 Real Madrid Home with Lfp Badge Camiseta  Hombre  Blanco  Core White/Black   S](https://www.amazon.com/dp/B07DD8P9DS/?tag=redken08-20) por 33 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [adidas 18/19 Real Madrid Home with Lfp Badge Camiseta  Hombre  Blanco  Core White/Black   S](https://www.amazon.com/dp/B07DD8P9DS/?tag=redken08-20) con 44.99 de descuento por 33 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL200_.jpg)](https://www.amazon.com/dp/B07DD8P9DS/?tag=redken08-20)
 

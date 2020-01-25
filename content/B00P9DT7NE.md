@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Originals Stan Smith  Zapatillas '
+title: 'Descuento del 46.62 % en adidas Originals Stan Smith  Zapatillas '
 date: 2020-01-10 19:38:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dylN4L%2BYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dylN4L%2BYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 94.95 EUR
 inStock: true
 ---
 
-Tienes [adidas Originals Stan Smith  Zapatillas de Deporte Unisex adulto  Negro  Black/Black/Black   36 EU](https://www.amazon.com/dp/B00P9DT7NE/?tag=redken08-20) a precio de oferta de 50.68 EUR (original: 94.95 EUR) en el siguiente enlace!
+Tienes [adidas Originals Stan Smith  Zapatillas de Deporte Unisex adulto  Negro  Black/Black/Black   36 EU](https://www.amazon.com/dp/B00P9DT7NE/?tag=redken08-20) con un 46.62 % de descuento con precio de oferta de 50.68 EUR (original: 94.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dylN4L%2BYL._SL200_.jpg)](https://www.amazon.com/dp/B00P9DT7NE/?tag=redken08-20)
 

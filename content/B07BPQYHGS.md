@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jura Old Single Malt Scotch Whisky  18 Y'
+title: 'Jura Old Single Malt Scotch Whisky  18 Y al 25.99 % de descuento'
 date: 2019/10/24 18:34:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bVjC4-ztL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bVjC4-ztL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.9 EUR
 inStock: true
 ---
 
-Está [Jura Old Single Malt Scotch Whisky  18 Year - 700 ml](https://www.amazon.com/dp/B07BPQYHGS/?tag=redken08-20) por 59.13 EUR (original: 79.9 EUR) en el siguiente enlace!
+Está [Jura Old Single Malt Scotch Whisky  18 Year - 700 ml](https://www.amazon.com/dp/B07BPQYHGS/?tag=redken08-20) con 25.99 de descuento por 59.13 EUR (original: 79.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bVjC4-ztL._SL200_.jpg)](https://www.amazon.com/dp/B07BPQYHGS/?tag=redken08-20)
 

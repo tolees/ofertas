@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sonic Mania - Edición Coleccionista [Imp'
+title: 'Descuento del 31.99 % en Sonic Mania - Edición Coleccionista [Imp'
 date: 2019/10/06 13:20:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61AUdsnmDkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61AUdsnmDkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109.99 EUR
 inStock: true
 ---
 
-Tienes [Sonic Mania - Edición Coleccionista [Importación USA]](https://www.amazon.com/dp/B01LVZ7YXP/?tag=redken08-20) a precio de oferta de 74.8 EUR (original: 109.99 EUR) en el siguiente enlace!
+Tienes [Sonic Mania - Edición Coleccionista [Importación USA]](https://www.amazon.com/dp/B01LVZ7YXP/?tag=redken08-20) con un 31.99 % de descuento con precio de oferta de 74.8 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61AUdsnmDkL._SL200_.jpg)](https://www.amazon.com/dp/B01LVZ7YXP/?tag=redken08-20)
 

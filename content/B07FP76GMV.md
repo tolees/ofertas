@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75239 Generator-Attacke B'
+title: 'LEGO Star Wars 75239 Generator-Attacke B al 37.65 % de descuento'
 date: 2019/11/04 11:34:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [LEGO Star Wars 75239 Generator-Attacke Bauset Bunt](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20) por 18.7 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [LEGO Star Wars 75239 Generator-Attacke Bauset Bunt](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20) con 37.65 de descuento por 18.7 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg)](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars: Battlefront II - Edición está'
+title: 'Descuento del 65.81 % en Star Wars: Battlefront II - Edición está'
 date: 2019/10/31 16:02:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RG8S4Ao7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RG8S4Ao7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [Star Wars: Battlefront II - Edición estándar](https://www.amazon.com/dp/B06ZZGGBT5/?tag=redken08-20) a precio de oferta de 17.09 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Star Wars: Battlefront II - Edición estándar](https://www.amazon.com/dp/B06ZZGGBT5/?tag=redken08-20) con un 65.81 % de descuento con precio de oferta de 17.09 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RG8S4Ao7L._SL200_.jpg)](https://www.amazon.com/dp/B06ZZGGBT5/?tag=redken08-20)
 

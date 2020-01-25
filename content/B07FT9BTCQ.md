@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Western Shirt Camisa  Marfil  Faded '
+title: 'Descuento del 45.91 % en Lee Western Shirt Camisa  Marfil  Faded '
 date: 2019/10/17 12:53:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BSt0p3W6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BSt0p3W6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60.09 EUR
 inStock: true
 ---
 
-Tienes [Lee Western Shirt Camisa  Marfil  Faded Green Lf   Small para Hombre](https://www.amazon.com/dp/B07FT9BTCQ/?tag=redken08-20) a precio de oferta de 32.5 EUR (original: 60.09 EUR) en el siguiente enlace!
+Tienes [Lee Western Shirt Camisa  Marfil  Faded Green Lf   Small para Hombre](https://www.amazon.com/dp/B07FT9BTCQ/?tag=redken08-20) con un 45.91 % de descuento con precio de oferta de 32.5 EUR (original: 60.09 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51BSt0p3W6L._SL200_.jpg)](https://www.amazon.com/dp/B07FT9BTCQ/?tag=redken08-20)
 

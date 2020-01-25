@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURLa Dolce Vita Tank Camiseta  Muje'
+title: 'RIP CURLa Dolce Vita Tank Camiseta  Muje al 52.86 % de descuento'
 date: 2019/11/09 04:38:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fefxzI3lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fefxzI3lL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [RIP CURLa Dolce Vita Tank Camiseta  Mujer  Sea Salt  M](https://www.amazon.com/dp/B07PMRJJ5C/?tag=redken08-20) por 11.78 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [RIP CURLa Dolce Vita Tank Camiseta  Mujer  Sea Salt  M](https://www.amazon.com/dp/B07PMRJJ5C/?tag=redken08-20) con 52.86 de descuento por 11.78 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fefxzI3lL._SL200_.jpg)](https://www.amazon.com/dp/B07PMRJJ5C/?tag=redken08-20)
 

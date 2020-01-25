@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hero Hero Sport Extreme M.Marquez Coloni'
+title: 'Descuento del 51.05 % en Hero Hero Sport Extreme M.Marquez Coloni'
 date: 2019/11/14 09:57:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E2K-a-sOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E2K-a-sOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.3 EUR
 inStock: true
 ---
 
-Tienes [Hero Hero Sport Extreme M.Marquez Colonia 100 Ml Vapo. Ñ-1 Xxx - 10 ml](https://www.amazon.com/dp/B075QH5KGB/?tag=redken08-20) a precio de oferta de 7.49 EUR (original: 15.3 EUR) en el siguiente enlace!
+Tienes [Hero Hero Sport Extreme M.Marquez Colonia 100 Ml Vapo. Ñ-1 Xxx - 10 ml](https://www.amazon.com/dp/B075QH5KGB/?tag=redken08-20) con un 51.05 % de descuento con precio de oferta de 7.49 EUR (original: 15.3 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51E2K-a-sOL._SL200_.jpg)](https://www.amazon.com/dp/B075QH5KGB/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Basket Classic LFS  Zapatillas Unis'
+title: 'PUMA Basket Classic LFS  Zapatillas Unis al 62.38 % de descuento'
 date: 2020-01-16 20:04:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412UjT4fShL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412UjT4fShL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 84.95 EUR
 inStock: true
 ---
 
-Está [PUMA Basket Classic LFS  Zapatillas Unisex Adultos  White-Black  43 EU](https://www.amazon.com/dp/B077MG6LLP/?tag=redken08-20) por 31.96 EUR (original: 84.95 EUR) en el siguiente enlace!
+Está [PUMA Basket Classic LFS  Zapatillas Unisex Adultos  White-Black  43 EU](https://www.amazon.com/dp/B077MG6LLP/?tag=redken08-20) con 62.38 de descuento por 31.96 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412UjT4fShL._SL200_.jpg)](https://www.amazon.com/dp/B077MG6LLP/?tag=redken08-20)
 

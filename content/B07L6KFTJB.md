@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Armour Down Hooded Chaqueta'
+title: 'Under Armour Armour Down Hooded Chaqueta al 53.13 % de descuento'
 date: 2019/12/19 21:15:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417quN9u8YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417quN9u8YL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 160 EUR
 inStock: true
 ---
 
-Está [Under Armour Armour Down Hooded Chaqueta  Hombre  Negro  LG](https://www.amazon.com/dp/B07L6KFTJB/?tag=redken08-20) por 74.99 EUR (original: 160 EUR) en el siguiente enlace!
+Está [Under Armour Armour Down Hooded Chaqueta  Hombre  Negro  LG](https://www.amazon.com/dp/B07L6KFTJB/?tag=redken08-20) con 53.13 de descuento por 74.99 EUR (original: 160 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417quN9u8YL._SL200_.jpg)](https://www.amazon.com/dp/B07L6KFTJB/?tag=redken08-20)
 

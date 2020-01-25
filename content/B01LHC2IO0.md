@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Noche de Miedo BD 1985 Fright Night [Blu'
+title: 'Noche de Miedo BD 1985 Fright Night [Blu al 32.12 % de descuento'
 date: 2019/10/18 22:05:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RcaPj0IbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RcaPj0IbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Está [Noche de Miedo BD 1985 Fright Night [Blu-ray]](https://www.amazon.com/dp/B01LHC2IO0/?tag=redken08-20) por 8.79 EUR (original: 12.95 EUR) en el siguiente enlace!
+Está [Noche de Miedo BD 1985 Fright Night [Blu-ray]](https://www.amazon.com/dp/B01LHC2IO0/?tag=redken08-20) con 32.12 de descuento por 8.79 EUR (original: 12.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RcaPj0IbL._SL200_.jpg)](https://www.amazon.com/dp/B01LHC2IO0/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas W Mh 3s Dk Pant Sport Trousers  M'
+title: 'adidas W Mh 3s Dk Pant Sport Trousers  M al 30.84 % de descuento'
 date: 2020-01-18 16:29:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Kqrc5lm8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Kqrc5lm8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas W Mh 3s Dk Pant Sport Trousers  Mujer  Black/White  S](https://www.amazon.com/dp/B07SDH83DK/?tag=redken08-20) a 31.12 EUR (original: 45 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas W Mh 3s Dk Pant Sport Trousers  Mujer  Black/White  S](https://www.amazon.com/dp/B07SDH83DK/?tag=redken08-20) a 31.12 EUR (original: 45 EUR) (30.84 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Kqrc5lm8L._SL200_.jpg)](https://www.amazon.com/dp/B07SDH83DK/?tag=redken08-20)
 

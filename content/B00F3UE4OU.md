@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weleda Crema Facial Baby Calendula  50 m'
+title: 'Weleda Crema Facial Baby Calendula  50 m al 75.81 % de descuento'
 date: 2019/10/28 19:06:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IZVsDkRfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IZVsDkRfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.6 EUR
 inStock: true
 ---
 
-Está [Weleda Crema Facial Baby Calendula  50 ml](https://www.amazon.com/dp/B00F3UE4OU/?tag=redken08-20) por 5.95 EUR (original: 24.6 EUR) en el siguiente enlace!
+Está [Weleda Crema Facial Baby Calendula  50 ml](https://www.amazon.com/dp/B00F3UE4OU/?tag=redken08-20) con 75.81 de descuento por 5.95 EUR (original: 24.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IZVsDkRfL._SL200_.jpg)](https://www.amazon.com/dp/B00F3UE4OU/?tag=redken08-20)
 

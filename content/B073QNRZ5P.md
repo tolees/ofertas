@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 311 Shaping Skinny Vaqueros  Harv'
+title: 'Levi s 311 Shaping Skinny Vaqueros  Harv al 52.00 % de descuento'
 date: 2019/11/13 15:37:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3110FMNWRqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3110FMNWRqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [Levi s 311 Shaping Skinny Vaqueros  Harvest Gold  32W / 32L para Mujer](https://www.amazon.com/dp/B073QNRZ5P/?tag=redken08-20) por 43.2 EUR (original: 90 EUR) en el siguiente enlace!
+Está [Levi s 311 Shaping Skinny Vaqueros  Harvest Gold  32W / 32L para Mujer](https://www.amazon.com/dp/B073QNRZ5P/?tag=redken08-20) con 52.00 de descuento por 43.2 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/3110FMNWRqL._SL200_.jpg)](https://www.amazon.com/dp/B073QNRZ5P/?tag=redken08-20)
 

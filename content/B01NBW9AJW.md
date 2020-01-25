@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SELECTED HOMME 16057321 Camisa  Azul  Li'
+title: 'SELECTED HOMME 16057321 Camisa  Azul  Li al 79.97 % de descuento'
 date: 2019/11/12 12:37:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QQwGAHdwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QQwGAHdwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [SELECTED HOMME 16057321 Camisa  Azul  Light Blue Stripes:White   Medium para Hombre](https://www.amazon.com/dp/B01NBW9AJW/?tag=redken08-20) por 8.01 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [SELECTED HOMME 16057321 Camisa  Azul  Light Blue Stripes:White   Medium para Hombre](https://www.amazon.com/dp/B01NBW9AJW/?tag=redken08-20) con 79.97 de descuento por 8.01 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QQwGAHdwL._SL200_.jpg)](https://www.amazon.com/dp/B01NBW9AJW/?tag=redken08-20)
 

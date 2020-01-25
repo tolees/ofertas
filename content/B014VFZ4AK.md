@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Carlita Cove - Zapatos de Tacón p'
+title: 'Clarks Carlita Cove - Zapatos de Tacón p al 39.96 % de descuento'
 date: 2019/12/27 12:07:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OnxrociaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OnxrociaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Está [Clarks Carlita Cove - Zapatos de Tacón para Mujer  Beige  Sand Patent   40](https://www.amazon.com/dp/B014VFZ4AK/?tag=redken08-20) por 48 EUR (original: 79.95 EUR) en el siguiente enlace!
+Está [Clarks Carlita Cove - Zapatos de Tacón para Mujer  Beige  Sand Patent   40](https://www.amazon.com/dp/B014VFZ4AK/?tag=redken08-20) con 39.96 de descuento por 48 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OnxrociaL._SL200_.jpg)](https://www.amazon.com/dp/B014VFZ4AK/?tag=redken08-20)
 

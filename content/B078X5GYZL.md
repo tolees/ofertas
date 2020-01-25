@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nautica Reloj Analogico para Hombre de C'
+title: 'Nautica Reloj Analogico para Hombre de C al 53.45 % de descuento'
 date: 2019/11/23 07:45:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KbDpdPVcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KbDpdPVcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 170 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nautica Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable NAPP25006](https://www.amazon.com/dp/B078X5GYZL/?tag=redken08-20) a 79.13 EUR (original: 170 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nautica Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable NAPP25006](https://www.amazon.com/dp/B078X5GYZL/?tag=redken08-20) a 79.13 EUR (original: 170 EUR) (53.45 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KbDpdPVcL._SL200_.jpg)](https://www.amazon.com/dp/B078X5GYZL/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Revlon Super Lustrous Brillo Labial  Siz'
+title: 'Revlon Super Lustrous Brillo Labial  Siz al 74.97 % de descuento'
 date: 2020-01-11 11:39:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3134JO3UTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3134JO3UTSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Revlon Super Lustrous Brillo Labial  Sizzling Coral ](https://www.amazon.com/dp/B00VRAJU12/?tag=redken08-20) a 1.99 EUR (original: 7.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Revlon Super Lustrous Brillo Labial  Sizzling Coral ](https://www.amazon.com/dp/B00VRAJU12/?tag=redken08-20) a 1.99 EUR (original: 7.95 EUR) (74.97 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/3134JO3UTSL._SL200_.jpg)](https://www.amazon.com/dp/B00VRAJU12/?tag=redken08-20)
 

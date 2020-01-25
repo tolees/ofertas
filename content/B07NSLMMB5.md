@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BASICFIL PLA 1.75mm  500 gr filamento de'
+title: 'BASICFIL PLA 1.75mm  500 gr filamento de al 29.75 % de descuento'
 date: 2020-01-13 17:52:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515BYtsHX7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515BYtsHX7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.74 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BASICFIL PLA 1.75mm  500 gr filamento de impresión 3D  Verde](https://www.amazon.com/dp/B07NSLMMB5/?tag=redken08-20) a 8.95 EUR (original: 12.74 EUR) en el siguiente enlace!
+Ahora mismo tienes [BASICFIL PLA 1.75mm  500 gr filamento de impresión 3D  Verde](https://www.amazon.com/dp/B07NSLMMB5/?tag=redken08-20) a 8.95 EUR (original: 12.74 EUR) (29.75 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515BYtsHX7L._SL200_.jpg)](https://www.amazon.com/dp/B07NSLMMB5/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M LTWT Boxed tee SS Camisetas  Ho'
+title: 'Hurley M LTWT Boxed tee SS Camisetas  Ho al 55.70 % de descuento'
 date: 2019/11/06 15:06:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414YEmZOF5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414YEmZOF5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Hurley M LTWT Boxed tee SS Camisetas  Hombre  Armory Navy  S](https://www.amazon.com/dp/B07K7YHX5Q/?tag=redken08-20) por 13.29 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Hurley M LTWT Boxed tee SS Camisetas  Hombre  Armory Navy  S](https://www.amazon.com/dp/B07K7YHX5Q/?tag=redken08-20) con 55.70 de descuento por 13.29 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414YEmZOF5L._SL200_.jpg)](https://www.amazon.com/dp/B07K7YHX5Q/?tag=redken08-20)
 

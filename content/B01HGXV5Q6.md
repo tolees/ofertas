@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kayhan Hombre Camisa Monaco Black  S '
+title: 'Kayhan Hombre Camisa Monaco Black  S  al 49.90 % de descuento'
 date: 2019/10/06 09:24:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41slDsebA8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41slDsebA8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Está [Kayhan Hombre Camisa Monaco Black  S ](https://www.amazon.com/dp/B01HGXV5Q6/?tag=redken08-20) por 19.99 EUR (original: 39.9 EUR) en el siguiente enlace!
+Está [Kayhan Hombre Camisa Monaco Black  S ](https://www.amazon.com/dp/B01HGXV5Q6/?tag=redken08-20) con 49.90 de descuento por 19.99 EUR (original: 39.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41slDsebA8L._SL200_.jpg)](https://www.amazon.com/dp/B01HGXV5Q6/?tag=redken08-20)
 

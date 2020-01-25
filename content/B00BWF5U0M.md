@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sabrent Concentrador de USB 2.0 con 4 sa'
+title: 'Sabrent Concentrador de USB 2.0 con 4 sa al 45.50 % de descuento'
 date: 2019/12/01 14:06:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ZIHiFS1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ZIHiFS1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 10.99 EUR
 inStock: true
 ---
 
-Está [Sabrent Concentrador de USB 2.0 con 4 salidas  interuptores de potencia individuales y LED  HB-UMLS ](https://www.amazon.com/dp/B00BWF5U0M/?tag=redken08-20) por 5.99 EUR (original: 10.99 EUR) en el siguiente enlace!
+Está [Sabrent Concentrador de USB 2.0 con 4 salidas  interuptores de potencia individuales y LED  HB-UMLS ](https://www.amazon.com/dp/B00BWF5U0M/?tag=redken08-20) con 45.50 de descuento por 5.99 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-ZIHiFS1L._SL200_.jpg)](https://www.amazon.com/dp/B00BWF5U0M/?tag=redken08-20)
 

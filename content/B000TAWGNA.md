@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pyrex Classic - Vaso medidor de 0 5 litr'
+title: 'Pyrex Classic - Vaso medidor de 0 5 litr al 25.24 % de descuento'
 date: 2019/11/20 07:36:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HD8xO7wqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HD8xO7wqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.4 EUR
 inStock: true
 ---
 
-Está [Pyrex Classic - Vaso medidor de 0 5 litros](https://www.amazon.com/dp/B000TAWGNA/?tag=redken08-20) por 9.27 EUR (original: 12.4 EUR) en el siguiente enlace!
+Está [Pyrex Classic - Vaso medidor de 0 5 litros](https://www.amazon.com/dp/B000TAWGNA/?tag=redken08-20) con 25.24 de descuento por 9.27 EUR (original: 12.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HD8xO7wqL._SL200_.jpg)](https://www.amazon.com/dp/B000TAWGNA/?tag=redken08-20)
 

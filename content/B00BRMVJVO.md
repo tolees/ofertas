@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ISSEY MIYAKE L EAU D ISSEY ABSOLUE Agua '
+title: 'ISSEY MIYAKE L EAU D ISSEY ABSOLUE Agua  al 46.46 % de descuento'
 date: 2019/12/11 17:00:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310Li3Obr1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310Li3Obr1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ISSEY MIYAKE L EAU D ISSEY ABSOLUE Agua de perfume vaporizador 90 ml](https://www.amazon.com/dp/B00BRMVJVO/?tag=redken08-20) a 53.54 EUR (original: 100 EUR) en el siguiente enlace!
+Ahora mismo tienes [ISSEY MIYAKE L EAU D ISSEY ABSOLUE Agua de perfume vaporizador 90 ml](https://www.amazon.com/dp/B00BRMVJVO/?tag=redken08-20) a 53.54 EUR (original: 100 EUR) (46.46 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310Li3Obr1L._SL200_.jpg)](https://www.amazon.com/dp/B00BRMVJVO/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Umbro Oblivion Camiseta de fútbol  Hombr'
+title: 'Umbro Oblivion Camiseta de fútbol  Hombr al 33.89 % de descuento'
 date: 2019/11/01 10:22:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q-F6jejFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q-F6jejFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9 EUR
 inStock: true
 ---
 
-Está [Umbro Oblivion Camiseta de fútbol  Hombre  Amarillo  XXL](https://www.amazon.com/dp/B01N3QBX1G/?tag=redken08-20) por 5.95 EUR (original: 9 EUR) en el siguiente enlace!
+Está [Umbro Oblivion Camiseta de fútbol  Hombre  Amarillo  XXL](https://www.amazon.com/dp/B01N3QBX1G/?tag=redken08-20) con 33.89 de descuento por 5.95 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Q-F6jejFL._SL200_.jpg)](https://www.amazon.com/dp/B01N3QBX1G/?tag=redken08-20)
 

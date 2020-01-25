@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FR·TEC -  Auriculares Gaming Headset Gen'
+title: 'FR·TEC -  Auriculares Gaming Headset Gen al 33.34 % de descuento'
 date: 2019/12/17 20:16:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bReKSKK5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bReKSKK5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FR·TEC -  Auriculares Gaming Headset Genbu - PS4  Xbox One  Nintendo Switch  PC  Mac](https://www.amazon.com/dp/B07K6NJSCM/?tag=redken08-20) a 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [FR·TEC -  Auriculares Gaming Headset Genbu - PS4  Xbox One  Nintendo Switch  PC  Mac](https://www.amazon.com/dp/B07K6NJSCM/?tag=redken08-20) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bReKSKK5L._SL200_.jpg)](https://www.amazon.com/dp/B07K6NJSCM/?tag=redken08-20)
 

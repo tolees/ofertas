@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seiko Reloj de Pulsera SRP513K1'
+title: 'Seiko Reloj de Pulsera SRP513K1 al 32.00 % de descuento'
 date: 2019/12/01 02:36:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SlArt9kNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SlArt9kNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 282.34 EUR
 inStock: true
 ---
 
-Está [Seiko Reloj de Pulsera SRP513K1](https://www.amazon.com/dp/B00IGAWAEU/?tag=redken08-20) por 191.99 EUR (original: 282.34 EUR) en el siguiente enlace!
+Está [Seiko Reloj de Pulsera SRP513K1](https://www.amazon.com/dp/B00IGAWAEU/?tag=redken08-20) con 32.00 de descuento por 191.99 EUR (original: 282.34 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51SlArt9kNL._SL200_.jpg)](https://www.amazon.com/dp/B00IGAWAEU/?tag=redken08-20)
 

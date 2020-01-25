@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony ICD-TX650 Slim Digital PCM/MP3 Ster'
+title: 'Sony ICD-TX650 Slim Digital PCM/MP3 Ster al 55.56 % de descuento'
 date: 2019/10/08 02:14:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FkIPLNciL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FkIPLNciL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 180 GBP
 inStock: true
 ---
 
-Está [Sony ICD-TX650 Slim Digital PCM/MP3 Stereo Voice Recorder with OLED Bright Display  Black](https://www.amazon.com/dp/B00TKEV9MU/?tag=redken08-20) por 79.99 GBP (original: 180 GBP) en el siguiente enlace!
+Está [Sony ICD-TX650 Slim Digital PCM/MP3 Stereo Voice Recorder with OLED Bright Display  Black](https://www.amazon.com/dp/B00TKEV9MU/?tag=redken08-20) con 55.56 de descuento por 79.99 GBP (original: 180 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31FkIPLNciL._SL200_.jpg)](https://www.amazon.com/dp/B00TKEV9MU/?tag=redken08-20)
 

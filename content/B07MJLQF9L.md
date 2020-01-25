@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Weave Leather Zapatillas  Blanco W'
+title: 'find. Weave Leather Zapatillas  Blanco W al 36.08 % de descuento'
 date: 2019/12/08 09:55:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BB25Sj2ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BB25Sj2ZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45.76 EUR
 inStock: true
 ---
 
-Está [find. Weave Leather Zapatillas  Blanco White  41 EU](https://www.amazon.com/dp/B07MJLQF9L/?tag=redken08-20) por 29.25 EUR (original: 45.76 EUR) en el siguiente enlace!
+Está [find. Weave Leather Zapatillas  Blanco White  41 EU](https://www.amazon.com/dp/B07MJLQF9L/?tag=redken08-20) con 36.08 de descuento por 29.25 EUR (original: 45.76 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BB25Sj2ZL._SL200_.jpg)](https://www.amazon.com/dp/B07MJLQF9L/?tag=redken08-20)
 

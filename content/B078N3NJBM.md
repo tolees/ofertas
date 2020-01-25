@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo ideapad 520S-14IKB - Ordenador Po'
+title: 'Descuento del 44.83 % en Lenovo ideapad 520S-14IKB - Ordenador Po'
 date: 2020-01-21 20:34:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O1L%2BnH9kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O1L%2BnH9kL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 815.59 EUR
 inStock: true
 ---
 
-Tienes [Lenovo ideapad 520S-14IKB - Ordenador Portátil 14" Full HD  Intel Core i3-7130U  RAM de 4GB  128GB SSD  Intel HD Graphics 620  Windows 10 Home  plata - Teclado QWERTY Español](https://www.amazon.com/dp/B078N3NJBM/?tag=redken08-20) a precio de oferta de 449.99 EUR (original: 815.59 EUR) en el siguiente enlace!
+Tienes [Lenovo ideapad 520S-14IKB - Ordenador Portátil 14" Full HD  Intel Core i3-7130U  RAM de 4GB  128GB SSD  Intel HD Graphics 620  Windows 10 Home  plata - Teclado QWERTY Español](https://www.amazon.com/dp/B078N3NJBM/?tag=redken08-20) con un 44.83 % de descuento con precio de oferta de 449.99 EUR (original: 815.59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41O1L%2BnH9kL._SL200_.jpg)](https://www.amazon.com/dp/B078N3NJBM/?tag=redken08-20)
 

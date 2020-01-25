@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Canopy Woven S/S Camisas  Hombr'
+title: 'Hurley M Canopy Woven S/S Camisas  Hombr al 46.55 % de descuento'
 date: 2019/11/12 08:33:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414U7NNusVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414U7NNusVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Está [Hurley M Canopy Woven S/S Camisas  Hombre  Anthracite  M](https://www.amazon.com/dp/B07K7YMVHK/?tag=redken08-20) por 29.4 EUR (original: 55 EUR) en el siguiente enlace!
+Está [Hurley M Canopy Woven S/S Camisas  Hombre  Anthracite  M](https://www.amazon.com/dp/B07K7YMVHK/?tag=redken08-20) con 46.55 de descuento por 29.4 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414U7NNusVL._SL200_.jpg)](https://www.amazon.com/dp/B07K7YMVHK/?tag=redken08-20)
 

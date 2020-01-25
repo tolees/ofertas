@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face M Drew Peak Sudadera  Hom'
+title: 'The North Face M Drew Peak Sudadera  Hom al 40.64 % de descuento'
 date: 2019/10/18 19:53:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v5XoskcAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v5XoskcAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Está [The North Face M Drew Peak Sudadera  Hombre  M](https://www.amazon.com/dp/B07T7P4LWB/?tag=redken08-20) por 47.49 EUR (original: 80 EUR) en el siguiente enlace!
+Está [The North Face M Drew Peak Sudadera  Hombre  M](https://www.amazon.com/dp/B07T7P4LWB/?tag=redken08-20) con 40.64 de descuento por 47.49 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41v5XoskcAL._SL200_.jpg)](https://www.amazon.com/dp/B07T7P4LWB/?tag=redken08-20)
 

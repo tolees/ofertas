@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Fairford Mid  Zapatillas Altas pa'
+title: 'Clarks Fairford Mid  Zapatillas Altas pa al 35.50 % de descuento'
 date: 2019/10/17 12:38:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cgP1pJuhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cgP1pJuhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Está [Clarks Fairford Mid  Zapatillas Altas para Hombre  Negro Black Leather  42 EU](https://www.amazon.com/dp/B07MJ7GNH1/?tag=redken08-20) por 70.95 EUR (original: 110 EUR) en el siguiente enlace!
+Está [Clarks Fairford Mid  Zapatillas Altas para Hombre  Negro Black Leather  42 EU](https://www.amazon.com/dp/B07MJ7GNH1/?tag=redken08-20) con 35.50 de descuento por 70.95 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31cgP1pJuhL._SL200_.jpg)](https://www.amazon.com/dp/B07MJ7GNH1/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon PowerShot G5 X - Cámara compacta d'
+title: 'Canon PowerShot G5 X - Cámara compacta d al 38.41 % de descuento'
 date: 2020-01-13 20:25:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414V9rQOhNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414V9rQOhNL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 749.99 EUR
 inStock: true
 ---
 
-Está [Canon PowerShot G5 X - Cámara compacta de 20.2 MP  Pantalla de 3"  Zoom óptico 4.2X  estabilizador Digital  vídeo Full HD   Color Negro](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20) por 461.95 EUR (original: 749.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Canon PowerShot G5 X - Cámara compacta de 20.2 MP  Pantalla de 3"  Zoom óptico 4.2X  estabilizador Digital  vídeo Full HD   Color Negro](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20) a 461.95 EUR (original: 749.99 EUR) (38.41 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414V9rQOhNL._SL200_.jpg)](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

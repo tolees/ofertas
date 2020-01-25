@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NBA 2K19 Standard Edition - Nintendo Swi'
+title: 'Descuento del 59.91 % en NBA 2K19 Standard Edition - Nintendo Swi'
 date: 2019/12/20 09:13:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OPxSGY44L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OPxSGY44L._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [NBA 2K19 Standard Edition - Nintendo Switch [Importación alemana]](https://www.amazon.com/dp/B07DKY47MV/?tag=redken08-20) a 28.06 EUR (original: 69.99 EUR) en el siguiente enlace!
+Tienes [NBA 2K19 Standard Edition - Nintendo Switch [Importación alemana]](https://www.amazon.com/dp/B07DKY47MV/?tag=redken08-20) con un 59.91 % de descuento con precio de oferta de 28.06 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51OPxSGY44L._SL200_.jpg)](https://www.amazon.com/dp/B07DKY47MV/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07DKY47MV/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07DKY47MV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

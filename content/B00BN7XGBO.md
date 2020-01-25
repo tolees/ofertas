@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lactacyd Íntimo - Gel de higiene íntima '
+title: 'Lactacyd Íntimo - Gel de higiene íntima  al 46.02 % de descuento'
 date: 2019/10/19 22:46:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415YH6iKAkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415YH6iKAkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lactacyd Íntimo - Gel de higiene íntima diario  pH equilibrado  sin jabón - Baño y ducha - Donación de 1€ por cada unidad vendida a beneficio de la lucha contra el cáncer* - 400ml](https://www.amazon.com/dp/B00BN7XGBO/?tag=redken08-20) a 6.99 EUR (original: 12.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lactacyd Íntimo - Gel de higiene íntima diario  pH equilibrado  sin jabón - Baño y ducha - Donación de 1€ por cada unidad vendida a beneficio de la lucha contra el cáncer* - 400ml](https://www.amazon.com/dp/B00BN7XGBO/?tag=redken08-20) a 6.99 EUR (original: 12.95 EUR) (46.02 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415YH6iKAkL._SL200_.jpg)](https://www.amazon.com/dp/B00BN7XGBO/?tag=redken08-20)
 

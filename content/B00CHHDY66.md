@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech MK270 - Pack de teclado y ratón'
+title: 'Descuento del 32.27 % en Logitech MK270 - Pack de teclado y ratón'
 date: 2020-01-23 16:36:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KmnB2o0YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KmnB2o0YL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Tienes [Logitech MK270 - Pack de teclado y ratón  2.4 GHz  inalámbrico  Windows   Negro [QWERTY Español]](https://www.amazon.com/dp/B00CHHDY66/?tag=redken08-20) a precio de oferta de 23.7 EUR (original: 34.99 EUR) en el siguiente enlace!
+Tienes [Logitech MK270 - Pack de teclado y ratón  2.4 GHz  inalámbrico  Windows   Negro [QWERTY Español]](https://www.amazon.com/dp/B00CHHDY66/?tag=redken08-20) con un 32.27 % de descuento con precio de oferta de 23.7 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KmnB2o0YL._SL200_.jpg)](https://www.amazon.com/dp/B00CHHDY66/?tag=redken08-20)
 

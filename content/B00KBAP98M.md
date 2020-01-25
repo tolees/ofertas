@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Donna Karan 59067 - Agua de perfume'
+title: 'Donna Karan 59067 - Agua de perfume al 60.36 % de descuento'
 date: 2019/10/31 17:37:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X%2ByCqZJZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X%2ByCqZJZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 83 EUR
 inStock: true
 ---
 
-Está [Donna Karan 59067 - Agua de perfume](https://www.amazon.com/dp/B00KBAP98M/?tag=redken08-20) por 32.9 EUR (original: 83 EUR) en el siguiente enlace!
+Está [Donna Karan 59067 - Agua de perfume](https://www.amazon.com/dp/B00KBAP98M/?tag=redken08-20) con 60.36 de descuento por 32.9 EUR (original: 83 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41X%2ByCqZJZL._SL200_.jpg)](https://www.amazon.com/dp/B00KBAP98M/?tag=redken08-20)
 

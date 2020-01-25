@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grifo de acero inoxidable Manija única G'
+title: 'Grifo de acero inoxidable Manija única G al 84.55 % de descuento'
 date: 2019/11/03 21:13:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x-aXexYbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x-aXexYbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109.99 EUR
 inStock: true
 ---
 
-Está [Grifo de acero inoxidable Manija única Grifo de cocina de un solo orificio Grifos montados en la cubierta Grifos de fregadero Grifo de cocina frío individual](https://www.amazon.com/dp/B07ZRRFTQ7/?tag=redken08-20) por 16.99 EUR (original: 109.99 EUR) en el siguiente enlace!
+Está [Grifo de acero inoxidable Manija única Grifo de cocina de un solo orificio Grifos montados en la cubierta Grifos de fregadero Grifo de cocina frío individual](https://www.amazon.com/dp/B07ZRRFTQ7/?tag=redken08-20) con 84.55 de descuento por 16.99 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41x-aXexYbL._SL200_.jpg)](https://www.amazon.com/dp/B07ZRRFTQ7/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Speed Stride Short Sleeve C'
+title: 'Under Armour Speed Stride Short Sleeve C al 53.32 % de descuento'
 date: 2019/10/27 22:36:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cWI2Ceb7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cWI2Ceb7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Speed Stride Short Sleeve Camiseta de Manga Corta  Hombre  Blanco  100   L](https://www.amazon.com/dp/B01FLFJH9I/?tag=redken08-20) a 13.07 EUR (original: 28 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Speed Stride Short Sleeve Camiseta de Manga Corta  Hombre  Blanco  100   L](https://www.amazon.com/dp/B01FLFJH9I/?tag=redken08-20) a 13.07 EUR (original: 28 EUR) (53.32 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cWI2Ceb7L._SL200_.jpg)](https://www.amazon.com/dp/B01FLFJH9I/?tag=redken08-20)
 

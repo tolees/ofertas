@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Suede Zapatos de Cordones Derby  G'
+title: 'find. Suede Zapatos de Cordones Derby  G al 70.00 % de descuento'
 date: 2019/10/18 07:50:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PverJ90zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PverJ90zL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [find. Suede Zapatos de Cordones Derby  Gris Grey  40 EU](https://www.amazon.com/dp/B07D44SWJY/?tag=redken08-20) por 18 EUR (original: 60 EUR) en el siguiente enlace!
+Está [find. Suede Zapatos de Cordones Derby  Gris Grey  40 EU](https://www.amazon.com/dp/B07D44SWJY/?tag=redken08-20) con 70.00 de descuento por 18 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31PverJ90zL._SL200_.jpg)](https://www.amazon.com/dp/B07D44SWJY/?tag=redken08-20)
 

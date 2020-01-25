@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canterbury Thermoreg Base Layer Top de M'
+title: 'Descuento del 45.69 % en Canterbury Thermoreg Base Layer Top de M'
 date: 2019/11/06 02:08:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41faK588bCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41faK588bCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 51 EUR
 inStock: true
 ---
 
-Tienes [Canterbury Thermoreg Base Layer Top de Manga Larga  Uomo  Azul Marino  M](https://www.amazon.com/dp/B01HEOKWZ2/?tag=redken08-20) a precio de oferta de 27.7 EUR (original: 51 EUR) en el siguiente enlace!
+Tienes [Canterbury Thermoreg Base Layer Top de Manga Larga  Uomo  Azul Marino  M](https://www.amazon.com/dp/B01HEOKWZ2/?tag=redken08-20) con un 45.69 % de descuento con precio de oferta de 27.7 EUR (original: 51 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41faK588bCL._SL200_.jpg)](https://www.amazon.com/dp/B01HEOKWZ2/?tag=redken08-20)
 

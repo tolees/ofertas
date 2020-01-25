@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bausch & Lomb - Biotrue One Day Esférica'
+title: 'Bausch & Lomb - Biotrue One Day Esférica al 65.85 % de descuento'
 date: 2019/12/18 08:41:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ySjzaLUgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ySjzaLUgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.9 EUR
 inStock: true
 ---
 
-Está [Bausch & Lomb - Biotrue One Day Esféricas - Lentes de Contacto](https://www.amazon.com/dp/B00EALB0S6/?tag=redken08-20) por 10.21 EUR (original: 29.9 EUR) en el siguiente enlace!
+Está [Bausch & Lomb - Biotrue One Day Esféricas - Lentes de Contacto](https://www.amazon.com/dp/B00EALB0S6/?tag=redken08-20) con 65.85 de descuento por 10.21 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ySjzaLUgL._SL200_.jpg)](https://www.amazon.com/dp/B00EALB0S6/?tag=redken08-20)
 

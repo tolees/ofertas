@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quntis Cargador PD USB C 60W Puerto Súpe'
+title: 'Quntis Cargador PD USB C 60W Puerto Súpe al 28.85 % de descuento'
 date: 2019/10/27 08:54:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fj7GeYXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fj7GeYXcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 51.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Quntis Cargador PD USB C 60W Puerto Súper Rápido Adaptador de Viaje Universal QC 3.0 Charger [Cable c a c 1 5m] Enchufe EU UK US para Macbook Pro  Google Pixel 2  Huawei P10/ P9/P20 Blanco ](https://www.amazon.com/dp/B07NYQPKCQ/?tag=redken08-20) a 36.99 EUR (original: 51.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Quntis Cargador PD USB C 60W Puerto Súper Rápido Adaptador de Viaje Universal QC 3.0 Charger [Cable c a c 1 5m] Enchufe EU UK US para Macbook Pro  Google Pixel 2  Huawei P10/ P9/P20 Blanco ](https://www.amazon.com/dp/B07NYQPKCQ/?tag=redken08-20) a 36.99 EUR (original: 51.99 EUR) (28.85 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fj7GeYXcL._SL200_.jpg)](https://www.amazon.com/dp/B07NYQPKCQ/?tag=redken08-20)
 

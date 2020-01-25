@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naturalia - Colchón cuna baby memory vis'
+title: 'Naturalia - Colchón cuna baby memory vis al 31.11 % de descuento'
 date: 2019/12/22 20:21:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FlmWYvBiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FlmWYvBiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [Naturalia - Colchón cuna baby memory visco  talla 140x70cm  color blanco / gris](https://www.amazon.com/dp/B00HWTENYQ/?tag=redken08-20) por 62 EUR (original: 90 EUR) en el siguiente enlace!
+Está [Naturalia - Colchón cuna baby memory visco  talla 140x70cm  color blanco / gris](https://www.amazon.com/dp/B00HWTENYQ/?tag=redken08-20) con 31.11 de descuento por 62 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31FlmWYvBiL._SL200_.jpg)](https://www.amazon.com/dp/B00HWTENYQ/?tag=redken08-20)
 

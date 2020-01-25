@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Tranverz Maleta  51 cm  42 L  co'
+title: 'Eastpak Tranverz Maleta  51 cm  42 L  co al 49.00 % de descuento'
 date: 2019/12/13 14:15:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414to9juuHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414to9juuHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Eastpak Tranverz Maleta  51 cm  42 L  color Gris](https://www.amazon.com/dp/B0771GLCZL/?tag=redken08-20) a 66.3 EUR (original: 130 EUR) en el siguiente enlace!
+Ahora mismo tienes [Eastpak Tranverz Maleta  51 cm  42 L  color Gris](https://www.amazon.com/dp/B0771GLCZL/?tag=redken08-20) a 66.3 EUR (original: 130 EUR) (49.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414to9juuHL._SL200_.jpg)](https://www.amazon.com/dp/B0771GLCZL/?tag=redken08-20)
 

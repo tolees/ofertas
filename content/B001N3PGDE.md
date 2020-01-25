@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ralph Lauren RALPH BY 0Ra4004 Gafas de s'
+title: 'Ralph Lauren RALPH BY 0Ra4004 Gafas de s al 30.55 % de descuento'
 date: 2019/12/25 14:03:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w9B8TexdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w9B8TexdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Está [Ralph Lauren RALPH BY 0Ra4004 Gafas de sol  Gunmetal/Grey Horn  59 para Mujer](https://www.amazon.com/dp/B001N3PGDE/?tag=redken08-20) por 48.58 EUR (original: 69.95 EUR) en el siguiente enlace!
+Está [Ralph Lauren RALPH BY 0Ra4004 Gafas de sol  Gunmetal/Grey Horn  59 para Mujer](https://www.amazon.com/dp/B001N3PGDE/?tag=redken08-20) con 30.55 de descuento por 48.58 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31w9B8TexdL._SL200_.jpg)](https://www.amazon.com/dp/B001N3PGDE/?tag=redken08-20)
 

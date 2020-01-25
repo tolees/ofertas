@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Shirt  Camisa Hombre  Azul  St'
+title: 'Lee Rider Shirt  Camisa Hombre  Azul  St al 71.98 % de descuento'
 date: 2019/10/12 02:41:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YljDwSiSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YljDwSiSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Está [Lee Rider Shirt  Camisa Hombre  Azul  Stone Rinse Afcw   Small](https://www.amazon.com/dp/B005SGIVTS/?tag=redken08-20) por 23.82 EUR (original: 85 EUR) en el siguiente enlace!
+Está [Lee Rider Shirt  Camisa Hombre  Azul  Stone Rinse Afcw   Small](https://www.amazon.com/dp/B005SGIVTS/?tag=redken08-20) con 71.98 de descuento por 23.82 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YljDwSiSL._SL200_.jpg)](https://www.amazon.com/dp/B005SGIVTS/?tag=redken08-20)
 

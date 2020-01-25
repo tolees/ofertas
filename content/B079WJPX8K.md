@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Kendal 6078761 Equipaje de Ma'
+title: 'Descuento del 26.09 % en Pepe Jeans Kendal 6078761 Equipaje de Ma'
 date: 2019/11/08 12:07:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TwK6S0PbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TwK6S0PbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 115 EUR
 inStock: true
 ---
 
-Tienes [Pepe Jeans Kendal 6078761 Equipaje de Mano  55 cm  38 litros  Multicolor](https://www.amazon.com/dp/B079WJPX8K/?tag=redken08-20) a precio de oferta de 85 EUR (original: 115 EUR) en el siguiente enlace!
+Tienes [Pepe Jeans Kendal 6078761 Equipaje de Mano  55 cm  38 litros  Multicolor](https://www.amazon.com/dp/B079WJPX8K/?tag=redken08-20) con un 26.09 % de descuento con precio de oferta de 85 EUR (original: 115 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TwK6S0PbL._SL200_.jpg)](https://www.amazon.com/dp/B079WJPX8K/?tag=redken08-20)
 

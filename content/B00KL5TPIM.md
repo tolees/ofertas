@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Far Cry 4'
+title: 'Descuento del 50.08 % en Far Cry 4'
 date: 2019/11/26 21:20:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61sV74lfP9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61sV74lfP9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Tienes [Far Cry 4](https://www.amazon.com/dp/B00KL5TPIM/?tag=redken08-20) a precio de oferta de 14.95 EUR (original: 29.95 EUR) en el siguiente enlace!
+Tienes [Far Cry 4](https://www.amazon.com/dp/B00KL5TPIM/?tag=redken08-20) con un 50.08 % de descuento con precio de oferta de 14.95 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61sV74lfP9L._SL200_.jpg)](https://www.amazon.com/dp/B00KL5TPIM/?tag=redken08-20)
 

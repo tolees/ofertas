@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'House Of Cards - Temporadas 1-6 [Blu-ray'
+title: 'House Of Cards - Temporadas 1-6 [Blu-ray al 44.35 % de descuento'
 date: 2019/11/26 22:58:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GZnRxMqoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GZnRxMqoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80.64 EUR
 inStock: true
 ---
 
-Está [House Of Cards - Temporadas 1-6 [Blu-ray]](https://www.amazon.com/dp/B07NBCSTHC/?tag=redken08-20) por 44.88 EUR (original: 80.64 EUR) en el siguiente enlace!
+Está [House Of Cards - Temporadas 1-6 [Blu-ray]](https://www.amazon.com/dp/B07NBCSTHC/?tag=redken08-20) con 44.35 de descuento por 44.88 EUR (original: 80.64 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GZnRxMqoL._SL200_.jpg)](https://www.amazon.com/dp/B07NBCSTHC/?tag=redken08-20)
 

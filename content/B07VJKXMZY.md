@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGHTAILING Conjunto de Luces  Star Wars'
+title: 'LIGHTAILING Conjunto de Luces  Star Wars al 62.51 % de descuento'
 date: 2019/12/05 05:33:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oNUCa8SvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oNUCa8SvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Está [LIGHTAILING Conjunto de Luces  Star Wars Slave I  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 75243  NO Incluido en el Modelo ](https://www.amazon.com/dp/B07VJKXMZY/?tag=redken08-20) por 29.99 EUR (original: 80 EUR) en el siguiente enlace!
+Está [LIGHTAILING Conjunto de Luces  Star Wars Slave I  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 75243  NO Incluido en el Modelo ](https://www.amazon.com/dp/B07VJKXMZY/?tag=redken08-20) con 62.51 de descuento por 29.99 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41oNUCa8SvL._SL200_.jpg)](https://www.amazon.com/dp/B07VJKXMZY/?tag=redken08-20)
 

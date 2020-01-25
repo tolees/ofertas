@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY Tanga de Encaje Soft Lace p'
+title: 'IRIS & LILLY Tanga de Encaje Soft Lace p al 59.96 % de descuento'
 date: 2019/12/27 16:58:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Fb3xf1huL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Fb3xf1huL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.24 EUR
 inStock: true
 ---
 
-Está [IRIS & LILLY Tanga de Encaje Soft Lace para Mujer  Pack de 2  Multicolor  White/Black   Small](https://www.amazon.com/dp/B01MXKVJYD/?tag=redken08-20) por 4.5 EUR (original: 11.24 EUR) en el siguiente enlace!
+Está [IRIS & LILLY Tanga de Encaje Soft Lace para Mujer  Pack de 2  Multicolor  White/Black   Small](https://www.amazon.com/dp/B01MXKVJYD/?tag=redken08-20) con 59.96 de descuento por 4.5 EUR (original: 11.24 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Fb3xf1huL._SL200_.jpg)](https://www.amazon.com/dp/B01MXKVJYD/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Devil May Cry - Definitive Edition'
+title: 'Devil May Cry - Definitive Edition al 42.51 % de descuento'
 date: 2019/10/28 07:35:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51V8ZRS5CZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51V8ZRS5CZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Devil May Cry - Definitive Edition](https://www.amazon.com/dp/B00R7DGBRE/?tag=redken08-20) por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Devil May Cry - Definitive Edition](https://www.amazon.com/dp/B00R7DGBRE/?tag=redken08-20) con 42.51 de descuento por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51V8ZRS5CZL._SL200_.jpg)](https://www.amazon.com/dp/B00R7DGBRE/?tag=redken08-20)
 

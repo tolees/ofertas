@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell  4513495 RT-SD 3 6/2 Li Kit  -  '
+title: 'Einhell  4513495 RT-SD 3 6/2 Li Kit  -   al 42.68 % de descuento'
 date: 2020-01-08 11:43:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Einhell  4513495 RT-SD 3 6/2 Li Kit  -  Atornillador inalámbrico con  caja de puntas de 32 piezas  bateria ión de litio  5.4 W  3.6 V  Rojo](https://www.amazon.com/dp/B00HNLQZXA/?tag=redken08-20) a 22.9 EUR (original: 39.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Einhell  4513495 RT-SD 3 6/2 Li Kit  -  Atornillador inalámbrico con  caja de puntas de 32 piezas  bateria ión de litio  5.4 W  3.6 V  Rojo](https://www.amazon.com/dp/B00HNLQZXA/?tag=redken08-20) a 22.9 EUR (original: 39.95 EUR) (42.68 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg)](https://www.amazon.com/dp/B00HNLQZXA/?tag=redken08-20)
 

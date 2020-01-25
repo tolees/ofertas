@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Basic Graphic Crew Sudadera  Azul  S'
+title: 'Lee Basic Graphic Crew Sudadera  Azul  S al 30.00 % de descuento'
 date: 2019/10/28 05:25:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31geE-duFiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31geE-duFiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Lee Basic Graphic Crew Sudadera  Azul  Sky Captain Hy   X-Large para Hombre](https://www.amazon.com/dp/B07JM97BGP/?tag=redken08-20) por 45.5 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Lee Basic Graphic Crew Sudadera  Azul  Sky Captain Hy   X-Large para Hombre](https://www.amazon.com/dp/B07JM97BGP/?tag=redken08-20) con 30.00 de descuento por 45.5 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31geE-duFiL._SL200_.jpg)](https://www.amazon.com/dp/B07JM97BGP/?tag=redken08-20)
 

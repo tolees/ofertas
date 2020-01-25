@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SHIMANO SLX 11V S/Plato S/CAZ 11X1 Biela'
+title: 'SHIMANO SLX 11V S/Plato S/CAZ 11X1 Biela al 37.41 % de descuento'
 date: 2019/12/16 05:14:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GRhf0OvNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GRhf0OvNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 103.5 EUR
 inStock: true
 ---
 
-Está [SHIMANO SLX 11V S/Plato S/CAZ 11X1 Bielas  Negro  175 mm](https://www.amazon.com/dp/B01ESOM9ZC/?tag=redken08-20) por 64.78 EUR (original: 103.5 EUR) en el siguiente enlace!
+Está [SHIMANO SLX 11V S/Plato S/CAZ 11X1 Bielas  Negro  175 mm](https://www.amazon.com/dp/B01ESOM9ZC/?tag=redken08-20) con 37.41 de descuento por 64.78 EUR (original: 103.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GRhf0OvNL._SL200_.jpg)](https://www.amazon.com/dp/B01ESOM9ZC/?tag=redken08-20)
 

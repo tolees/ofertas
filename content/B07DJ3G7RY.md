@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Uomo Snake Mocassino C  Mocasines p'
+title: 'Geox Uomo Snake Mocassino C  Mocasines p al 50.06 % de descuento'
 date: 2019/12/11 16:21:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cohKbbPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cohKbbPSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Está [Geox Uomo Snake Mocassino C  Mocasines para Hombre  Gris  Grey C1006   41 EU](https://www.amazon.com/dp/B07DJ3G7RY/?tag=redken08-20) por 34.96 EUR (original: 70 EUR) en el siguiente enlace!
+Está [Geox Uomo Snake Mocassino C  Mocasines para Hombre  Gris  Grey C1006   41 EU](https://www.amazon.com/dp/B07DJ3G7RY/?tag=redken08-20) con 50.06 de descuento por 34.96 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31cohKbbPSL._SL200_.jpg)](https://www.amazon.com/dp/B07DJ3G7RY/?tag=redken08-20)
 

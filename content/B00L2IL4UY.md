@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Traba 101L Cerrojo 101-l pintado  0'
+title: 'Traba 101L Cerrojo 101-l pintado  0 al 27.39 % de descuento'
 date: 2019/10/19 13:30:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RYmIjFqAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RYmIjFqAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.7 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Traba 101L Cerrojo 101-l pintado  0](https://www.amazon.com/dp/B00L2IL4UY/?tag=redken08-20) a 15.03 EUR (original: 20.7 EUR) en el siguiente enlace!
+Ahora mismo tienes [Traba 101L Cerrojo 101-l pintado  0](https://www.amazon.com/dp/B00L2IL4UY/?tag=redken08-20) a 15.03 EUR (original: 20.7 EUR) (27.39 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RYmIjFqAL._SL200_.jpg)](https://www.amazon.com/dp/B00L2IL4UY/?tag=redken08-20)
 

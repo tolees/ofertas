@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wilson Tour Slam Raqueta de Tenis Cuerda'
+title: 'Wilson Tour Slam Raqueta de Tenis Cuerda al 40.02 % de descuento'
 date: 2020-01-06 11:21:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Wilson Tour Slam Raqueta de Tenis Cuerdas de Adultos - WRT32200U3  Verde](https://www.amazon.com/dp/B00RZTV5B2/?tag=redken08-20) a 35.99 EUR (original: 60 EUR) en el siguiente enlace!
+Ahora mismo tienes [Wilson Tour Slam Raqueta de Tenis Cuerdas de Adultos - WRT32200U3  Verde](https://www.amazon.com/dp/B00RZTV5B2/?tag=redken08-20) a 35.99 EUR (original: 60 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg)](https://www.amazon.com/dp/B00RZTV5B2/?tag=redken08-20)
 

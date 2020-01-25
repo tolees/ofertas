@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Umi. by Amazon - Silla Gaming Oficina Es'
+title: 'Umi. by Amazon - Silla Gaming Oficina Es al 48.00 % de descuento'
 date: 2019/10/24 22:04:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H6KNSJ0VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H6KNSJ0VL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 299.99 EUR
 inStock: true
 ---
 
-Está [Umi. by Amazon - Silla Gaming Oficina Escritorio Gamer Ordenador Despacho Garantía de 2 años Sillas Ergonomica con Cojin Ajustable Color Rojo](https://www.amazon.com/dp/B07DBZTVM3/?tag=redken08-20) por 155.99 EUR (original: 299.99 EUR) en el siguiente enlace!
+Está [Umi. by Amazon - Silla Gaming Oficina Escritorio Gamer Ordenador Despacho Garantía de 2 años Sillas Ergonomica con Cojin Ajustable Color Rojo](https://www.amazon.com/dp/B07DBZTVM3/?tag=redken08-20) con 48.00 de descuento por 155.99 EUR (original: 299.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41H6KNSJ0VL._SL200_.jpg)](https://www.amazon.com/dp/B07DBZTVM3/?tag=redken08-20)
 

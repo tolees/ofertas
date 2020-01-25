@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste La Piquee 119 1 Cfa  Zapatillas '
+title: 'Lacoste La Piquee 119 1 Cfa  Zapatillas  al 48.99 % de descuento'
 date: 2019/11/10 13:51:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119 EUR
 inStock: true
 ---
 
-Está [Lacoste La Piquee 119 1 Cfa  Zapatillas para Mujer  Gris  Lt Gry/Wht 2q5   36 EU](https://www.amazon.com/dp/B07DJ6CTSW/?tag=redken08-20) por 60.7 EUR (original: 119 EUR) en el siguiente enlace!
+Está [Lacoste La Piquee 119 1 Cfa  Zapatillas para Mujer  Gris  Lt Gry/Wht 2q5   36 EU](https://www.amazon.com/dp/B07DJ6CTSW/?tag=redken08-20) con 48.99 de descuento por 60.7 EUR (original: 119 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg)](https://www.amazon.com/dp/B07DJ6CTSW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Tre'
+title: 'Descuento del 40.01 % en BRIKSMAX Kit de Iluminación Led para Tre'
 date: 2020-01-21 10:51:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413pNrOuHVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413pNrOuHVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [BRIKSMAX Kit de Iluminación Led para Tren De Pasajeros De Alta Velocidad -Compatible con Ladrillos de Construcción Lego Modelo 60051 -Juego de Legos no Incluido](https://www.amazon.com/dp/B07LGZGZNM/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX Kit de Iluminación Led para Tren De Pasajeros De Alta Velocidad -Compatible con Ladrillos de Construcción Lego Modelo 60051 -Juego de Legos no Incluido](https://www.amazon.com/dp/B07LGZGZNM/?tag=redken08-20) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413pNrOuHVL._SL200_.jpg)](https://www.amazon.com/dp/B07LGZGZNM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574 Core Zapatillas Hombre  '
+title: 'New Balance 574 Core Zapatillas Hombre   al 60.67 % de descuento'
 date: 2020-01-16 20:21:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   42 EU  8 UK ](https://www.amazon.com/dp/B06Y2YN3HM/?tag=redken08-20) por 35.4 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   42 EU  8 UK ](https://www.amazon.com/dp/B06Y2YN3HM/?tag=redken08-20) con 60.67 de descuento por 35.4 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg)](https://www.amazon.com/dp/B06Y2YN3HM/?tag=redken08-20)
 

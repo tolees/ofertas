@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rubie s Official Harley Quinn Suicide Sq'
+title: 'Rubie s Official Harley Quinn Suicide Sq al 28.01 % de descuento'
 date: 2019/11/12 13:32:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z5X5Qu5VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z5X5Qu5VL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rubie s Official Harley Quinn Suicide Squad para mujer  Talla S  6-10 ](https://www.amazon.com/dp/B01COL8S1A/?tag=redken08-20) a 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rubie s Official Harley Quinn Suicide Squad para mujer  Talla S  6-10 ](https://www.amazon.com/dp/B01COL8S1A/?tag=redken08-20) a 35.99 EUR (original: 49.99 EUR) (28.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Z5X5Qu5VL._SL200_.jpg)](https://www.amazon.com/dp/B01COL8S1A/?tag=redken08-20)
 

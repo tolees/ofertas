@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Wyatt Pm305905 Camisa    Blue'
+title: 'Pepe Jeans Wyatt Pm305905 Camisa    Blue al 50.05 % de descuento'
 date: 2019/11/29 10:34:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BfvEHhqKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BfvEHhqKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans Wyatt Pm305905 Camisa    Blue 551   Medium para Hombre](https://www.amazon.com/dp/B07JH3FMNK/?tag=redken08-20) a 25.45 EUR (original: 50.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans Wyatt Pm305905 Camisa    Blue 551   Medium para Hombre](https://www.amazon.com/dp/B07JH3FMNK/?tag=redken08-20) a 25.45 EUR (original: 50.95 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BfvEHhqKL._SL200_.jpg)](https://www.amazon.com/dp/B07JH3FMNK/?tag=redken08-20)
 

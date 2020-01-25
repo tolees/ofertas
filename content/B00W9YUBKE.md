@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional GSB 18-2-LI  1x GSB 1'
+title: 'Bosch Professional GSB 18-2-LI  1x GSB 1 al 45.54 % de descuento'
 date: 2019/10/13 11:36:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2Bd1-0nNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U%2Bd1-0nNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 369.05 EUR
 inStock: true
 ---
 
-Está [Bosch Professional GSB 18-2-LI  1x GSB 18V-21 Trapano Avvitatore  a 2 Velocità  2x Akku GBA 18V 2 0Ah  18 V   in L-BOXX](https://www.amazon.com/dp/B00W9YUBKE/?tag=redken08-20) por 200.98 EUR (original: 369.05 EUR) en el siguiente enlace!
+Está [Bosch Professional GSB 18-2-LI  1x GSB 18V-21 Trapano Avvitatore  a 2 Velocità  2x Akku GBA 18V 2 0Ah  18 V   in L-BOXX](https://www.amazon.com/dp/B00W9YUBKE/?tag=redken08-20) con 45.54 de descuento por 200.98 EUR (original: 369.05 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41U%2Bd1-0nNL._SL200_.jpg)](https://www.amazon.com/dp/B00W9YUBKE/?tag=redken08-20)
 

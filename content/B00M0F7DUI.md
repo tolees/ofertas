@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Sombra de Ojos Color Riche'
+title: 'L Oréal Paris Sombra de Ojos Color Riche al 28.20 % de descuento'
 date: 2019/11/14 22:08:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Leaw83XyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Leaw83XyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.95 EUR
 inStock: true
 ---
 
-Está [L Oréal Paris Sombra de Ojos Color Riche Monochome Matte 104](https://www.amazon.com/dp/B00M0F7DUI/?tag=redken08-20) por 4.99 EUR (original: 6.95 EUR) en el siguiente enlace!
+Está [L Oréal Paris Sombra de Ojos Color Riche Monochome Matte 104](https://www.amazon.com/dp/B00M0F7DUI/?tag=redken08-20) con 28.20 de descuento por 4.99 EUR (original: 6.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Leaw83XyL._SL200_.jpg)](https://www.amazon.com/dp/B00M0F7DUI/?tag=redken08-20)
 

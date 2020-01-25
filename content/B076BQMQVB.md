@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carrera Sport 4008/S Gafas  Matt Black/R'
+title: 'Carrera Sport 4008/S Gafas  Matt Black/R al 51.08 % de descuento'
 date: 2019/11/23 15:11:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jjS6OB8DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jjS6OB8DL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139 EUR
 inStock: true
 ---
 
-Está [Carrera Sport 4008/S Gafas  Matt Black/RD Red  60 Hombres](https://www.amazon.com/dp/B076BQMQVB/?tag=redken08-20) por 68 EUR (original: 139 EUR) en el siguiente enlace!
+Está [Carrera Sport 4008/S Gafas  Matt Black/RD Red  60 Hombres](https://www.amazon.com/dp/B076BQMQVB/?tag=redken08-20) con 51.08 de descuento por 68 EUR (original: 139 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31jjS6OB8DL._SL200_.jpg)](https://www.amazon.com/dp/B076BQMQVB/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Busquets Carpeta Anillas Recambio Bestia'
+title: 'Busquets Carpeta Anillas Recambio Bestia al 30.25 % de descuento'
 date: 2019/10/26 11:11:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ayqiI2iAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ayqiI2iAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Busquets Carpeta Anillas Recambio Bestial Wolf by DIS2](https://www.amazon.com/dp/B07DXSXLTX/?tag=redken08-20) a 8.3 EUR (original: 11.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Busquets Carpeta Anillas Recambio Bestial Wolf by DIS2](https://www.amazon.com/dp/B07DXSXLTX/?tag=redken08-20) a 8.3 EUR (original: 11.9 EUR) (30.25 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ayqiI2iAL._SL200_.jpg)](https://www.amazon.com/dp/B07DXSXLTX/?tag=redken08-20)
 

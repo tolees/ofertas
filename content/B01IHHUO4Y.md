@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortefiel Traje Hombre Gris Oscuro ES 52'
+title: 'Cortefiel Traje Hombre Gris Oscuro ES 52 al 34.00 % de descuento'
 date: 2019/11/18 09:12:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EmywgSCgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EmywgSCgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cortefiel Traje Hombre Gris Oscuro ES 52](https://www.amazon.com/dp/B01IHHUO4Y/?tag=redken08-20) a 105.2 EUR (original: 159.4 EUR) en el siguiente enlace!
+Ahora mismo tienes [Cortefiel Traje Hombre Gris Oscuro ES 52](https://www.amazon.com/dp/B01IHHUO4Y/?tag=redken08-20) a 105.2 EUR (original: 159.4 EUR) (34.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31EmywgSCgL._SL200_.jpg)](https://www.amazon.com/dp/B01IHHUO4Y/?tag=redken08-20)
 

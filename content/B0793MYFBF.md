@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Imperial Confort Paris - Colchón viscoel'
+title: 'Imperial Confort Paris - Colchón viscoel al 55.65 % de descuento'
 date: 2019/12/09 09:42:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aG1JMuIXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aG1JMuIXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 259.11 EUR
 inStock: true
 ---
 
-Está [Imperial Confort Paris - Colchón viscoelástico - 135 x 190 x 24 cm - Color blanco](https://www.amazon.com/dp/B0793MYFBF/?tag=redken08-20) por 114.92 EUR (original: 259.11 EUR) en el siguiente enlace!
+Está [Imperial Confort Paris - Colchón viscoelástico - 135 x 190 x 24 cm - Color blanco](https://www.amazon.com/dp/B0793MYFBF/?tag=redken08-20) con 55.65 de descuento por 114.92 EUR (original: 259.11 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aG1JMuIXL._SL200_.jpg)](https://www.amazon.com/dp/B0793MYFBF/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cofan 08101093 Rollo de Cinta de persian'
+title: 'Cofan 08101093 Rollo de Cinta de persian al 26.36 % de descuento'
 date: 2019/11/12 11:52:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413NXVPFcQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413NXVPFcQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.63 EUR
 inStock: true
 ---
 
-Está [Cofan 08101093 Rollo de Cinta de persiana  Gris  14 mm x 50 m](https://www.amazon.com/dp/B018EL0ZXI/?tag=redken08-20) por 13.72 EUR (original: 18.63 EUR) en el siguiente enlace!
+Está [Cofan 08101093 Rollo de Cinta de persiana  Gris  14 mm x 50 m](https://www.amazon.com/dp/B018EL0ZXI/?tag=redken08-20) con 26.36 de descuento por 13.72 EUR (original: 18.63 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413NXVPFcQL._SL200_.jpg)](https://www.amazon.com/dp/B018EL0ZXI/?tag=redken08-20)
 

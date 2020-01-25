@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DYC Whisky Escoces - 1000ml'
+title: 'Descuento del 48.37 % en DYC Whisky Escoces - 1000ml'
 date: 2019/10/22 08:10:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311qKa9hpyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311qKa9hpyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.61 EUR
 inStock: true
 ---
 
-Tienes [DYC Whisky Escoces - 1000ml](https://www.amazon.com/dp/B00MTX1UKA/?tag=redken08-20) a precio de oferta de 8.06 EUR (original: 15.61 EUR) en el siguiente enlace!
+Tienes [DYC Whisky Escoces - 1000ml](https://www.amazon.com/dp/B00MTX1UKA/?tag=redken08-20) con un 48.37 % de descuento con precio de oferta de 8.06 EUR (original: 15.61 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/311qKa9hpyL._SL200_.jpg)](https://www.amazon.com/dp/B00MTX1UKA/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett High Zip Plus Size Vaqueros'
+title: 'Lee Scarlett High Zip Plus Size Vaqueros al 65.30 % de descuento'
 date: 2019/11/04 14:56:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wFYHV58-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wFYHV58-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Scarlett High Zip Plus Size Vaqueros Skinny  Negro  Black 01   34W / 33L para Mujer](https://www.amazon.com/dp/B07H71FDNY/?tag=redken08-20) a 31.21 EUR (original: 89.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Scarlett High Zip Plus Size Vaqueros Skinny  Negro  Black 01   34W / 33L para Mujer](https://www.amazon.com/dp/B07H71FDNY/?tag=redken08-20) a 31.21 EUR (original: 89.95 EUR) (65.30 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31wFYHV58-L._SL200_.jpg)](https://www.amazon.com/dp/B07H71FDNY/?tag=redken08-20)
 

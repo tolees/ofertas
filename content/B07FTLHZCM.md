@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Graphic Tee  Camiseta Hombre  Marfil'
+title: 'Lee Graphic Tee  Camiseta Hombre  Marfil al 49.52 % de descuento'
 date: 2019/11/04 02:26:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31piGVUO2PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31piGVUO2PL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Está [Lee Graphic Tee  Camiseta Hombre  Marfil  Bright White Lj   X-Large](https://www.amazon.com/dp/B07FTLHZCM/?tag=redken08-20) por 15.12 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [Lee Graphic Tee  Camiseta Hombre  Marfil  Bright White Lj   X-Large](https://www.amazon.com/dp/B07FTLHZCM/?tag=redken08-20) con 49.52 de descuento por 15.12 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31piGVUO2PL._SL200_.jpg)](https://www.amazon.com/dp/B07FTLHZCM/?tag=redken08-20)
 

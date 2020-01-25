@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Horizon Explorer Chaqueta térmi'
+title: 'Descuento del 58.98 % en Columbia Horizon Explorer Chaqueta térmi'
 date: 2019/11/25 09:59:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EfH4pboRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EfH4pboRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 179.99 EUR
 inStock: true
 ---
 
-Tienes [Columbia Horizon Explorer Chaqueta térmica con Capucha  Poliéster  Azul/Naranja  Dark Mountain/Bright Copper   Talla: M](https://www.amazon.com/dp/B07DYXW5D6/?tag=redken08-20) a precio de oferta de 73.84 EUR (original: 179.99 EUR) en el siguiente enlace!
+Tienes [Columbia Horizon Explorer Chaqueta térmica con Capucha  Poliéster  Azul/Naranja  Dark Mountain/Bright Copper   Talla: M](https://www.amazon.com/dp/B07DYXW5D6/?tag=redken08-20) con un 58.98 % de descuento con precio de oferta de 73.84 EUR (original: 179.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EfH4pboRL._SL200_.jpg)](https://www.amazon.com/dp/B07DYXW5D6/?tag=redken08-20)
 

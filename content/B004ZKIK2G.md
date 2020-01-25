@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Accu Case 1531000002 - Caso'
+title: 'Accu Case 1531000002 - Caso al 75.14 % de descuento'
 date: 2019/11/21 10:05:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sHC1LZjiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sHC1LZjiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Accu Case 1531000002 - Caso](https://www.amazon.com/dp/B004ZKIK2G/?tag=redken08-20) por 24.61 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Accu Case 1531000002 - Caso](https://www.amazon.com/dp/B004ZKIK2G/?tag=redken08-20) con 75.14 de descuento por 24.61 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sHC1LZjiL._SL200_.jpg)](https://www.amazon.com/dp/B004ZKIK2G/?tag=redken08-20)
 

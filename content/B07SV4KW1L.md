@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'S&R Disco Tronzador Diamante 230 mm x22 '
+title: 'S&R Disco Tronzador Diamante 230 mm x22  al 63.19 % de descuento'
 date: 2020-01-09 15:14:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tYtAVPzxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tYtAVPzxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.9 EUR
 inStock: true
 ---
 
-Está [S&R Disco Tronzador Diamante 230 mm x22 2 para Hormigón  Piedra natural  piedra  Ladrillo. Turbo Disco Diamantado Universal para cortar todo tipo de materiales de construcción](https://www.amazon.com/dp/B07SV4KW1L/?tag=redken08-20) por 13.95 EUR (original: 37.9 EUR) en el siguiente enlace!
+Está [S&R Disco Tronzador Diamante 230 mm x22 2 para Hormigón  Piedra natural  piedra  Ladrillo. Turbo Disco Diamantado Universal para cortar todo tipo de materiales de construcción](https://www.amazon.com/dp/B07SV4KW1L/?tag=redken08-20) con 63.19 de descuento por 13.95 EUR (original: 37.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tYtAVPzxL._SL200_.jpg)](https://www.amazon.com/dp/B07SV4KW1L/?tag=redken08-20)
 

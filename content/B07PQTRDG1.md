@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373  Zapatillas para Hombre '
+title: 'New Balance 373  Zapatillas para Hombre  al 50.00 % de descuento'
 date: 2020-01-18 19:17:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Está [New Balance 373  Zapatillas para Hombre  Azul  Navy Navy   42 EU](https://www.amazon.com/dp/B07PQTRDG1/?tag=redken08-20) por 40 EUR (original: 80 EUR) en el siguiente enlace!
+Está [New Balance 373  Zapatillas para Hombre  Azul  Navy Navy   42 EU](https://www.amazon.com/dp/B07PQTRDG1/?tag=redken08-20) con 50.00 de descuento por 40 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL200_.jpg)](https://www.amazon.com/dp/B07PQTRDG1/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Syberia'
+title: 'Syberia al 42.87 % de descuento'
 date: 2019/10/18 13:02:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513T2ktzHfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513T2ktzHfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [Syberia](https://www.amazon.com/dp/B075XRSKVY/?tag=redken08-20) por 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [Syberia](https://www.amazon.com/dp/B075XRSKVY/?tag=redken08-20) con 42.87 de descuento por 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513T2ktzHfL._SL200_.jpg)](https://www.amazon.com/dp/B075XRSKVY/?tag=redken08-20)
 

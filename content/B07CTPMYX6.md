@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA TR96  Zapatillas Deporti'
+title: 'Under Armour UA TR96  Zapatillas Deporti al 37.00 % de descuento'
 date: 2019/12/16 07:55:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wPViG51vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wPViG51vL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour UA TR96  Zapatillas Deportivas para Interior para Hombre  Negro  Black/White/White  002  002   42 EU](https://www.amazon.com/dp/B07CTPMYX6/?tag=redken08-20) a 44.1 EUR (original: 70 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA TR96  Zapatillas Deportivas para Interior para Hombre  Negro  Black/White/White  002  002   42 EU](https://www.amazon.com/dp/B07CTPMYX6/?tag=redken08-20) a 44.1 EUR (original: 70 EUR) (37.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wPViG51vL._SL200_.jpg)](https://www.amazon.com/dp/B07CTPMYX6/?tag=redken08-20)
 

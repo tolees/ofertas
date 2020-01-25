@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ghassoul Rhassoul Gránulos 800g | Arcill'
+title: 'Ghassoul Rhassoul Gránulos 800g | Arcill al 27.79 % de descuento'
 date: 2019/11/17 21:32:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YkEHyr74L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YkEHyr74L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ghassoul Rhassoul Gránulos 800g | Arcilla roja marroquí para usar como mascarilla para la limpieza facial | Peeling natural para la cara y el cabello | Arcilla limpiadora para el cuidado personal.](https://www.amazon.com/dp/B07JMTQW3Q/?tag=redken08-20) a 12.99 EUR (original: 17.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Ghassoul Rhassoul Gránulos 800g | Arcilla roja marroquí para usar como mascarilla para la limpieza facial | Peeling natural para la cara y el cabello | Arcilla limpiadora para el cuidado personal.](https://www.amazon.com/dp/B07JMTQW3Q/?tag=redken08-20) a 12.99 EUR (original: 17.99 EUR) (27.79 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YkEHyr74L._SL200_.jpg)](https://www.amazon.com/dp/B07JMTQW3Q/?tag=redken08-20)
 

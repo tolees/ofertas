@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jané - 50272 - Burbuja de Lluvia Univers'
+title: 'Jané - 50272 - Burbuja de Lluvia Univers al 60.00 % de descuento'
 date: 2019/12/28 20:49:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qQgUerbyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qQgUerbyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jané - 50272 - Burbuja de Lluvia Universal Jané](https://www.amazon.com/dp/B00D1SVC4Q/?tag=redken08-20) a 9.98 EUR (original: 24.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jané - 50272 - Burbuja de Lluvia Universal Jané](https://www.amazon.com/dp/B00D1SVC4Q/?tag=redken08-20) a 9.98 EUR (original: 24.95 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51qQgUerbyL._SL200_.jpg)](https://www.amazon.com/dp/B00D1SVC4Q/?tag=redken08-20)
 

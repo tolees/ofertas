@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DOOGEE N20 2019 Smartphone Libre 4G  And'
+title: 'DOOGEE N20 2019 Smartphone Libre 4G  And al 40.00 % de descuento'
 date: 2019/12/23 07:13:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VHrRAuVbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VHrRAuVbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199.99 EUR
 inStock: true
 ---
 
-Está [DOOGEE N20 2019 Smartphone Libre 4G  Android 9.0 Telefonos Moviles Libres Dual Sim Octa Core 4GB RAM+64GB ROM  6.3 Pulgadas FHD+，Cámara 16MP+8MP+8MP+16MP  4350mAh Face ID+Huella Digital  Azul](https://www.amazon.com/dp/B07VMFYJLS/?tag=redken08-20) por 119.99 EUR (original: 199.99 EUR) en el siguiente enlace!
+Está [DOOGEE N20 2019 Smartphone Libre 4G  Android 9.0 Telefonos Moviles Libres Dual Sim Octa Core 4GB RAM+64GB ROM  6.3 Pulgadas FHD+，Cámara 16MP+8MP+8MP+16MP  4350mAh Face ID+Huella Digital  Azul](https://www.amazon.com/dp/B07VMFYJLS/?tag=redken08-20) con 40.00 de descuento por 119.99 EUR (original: 199.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VHrRAuVbL._SL200_.jpg)](https://www.amazon.com/dp/B07VMFYJLS/?tag=redken08-20)
 

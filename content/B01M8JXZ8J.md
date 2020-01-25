@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KUDA CN-520 Desbrozadora Motor de Gasoli'
+title: 'KUDA CN-520 Desbrozadora Motor de Gasoli al 33.58 % de descuento'
 date: 2019/11/26 06:50:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uVvGhJV6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uVvGhJV6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169.99 EUR
 inStock: true
 ---
 
-Está [KUDA CN-520 Desbrozadora Motor de Gasolina  2 tiempos  Barra Partida con 6 discos  cabezal metálico  cabezal reforzado y cabezal de plástico  arnés  roja  52 cc](https://www.amazon.com/dp/B01M8JXZ8J/?tag=redken08-20) por 112.9 EUR (original: 169.99 EUR) en el siguiente enlace!
+Está [KUDA CN-520 Desbrozadora Motor de Gasolina  2 tiempos  Barra Partida con 6 discos  cabezal metálico  cabezal reforzado y cabezal de plástico  arnés  roja  52 cc](https://www.amazon.com/dp/B01M8JXZ8J/?tag=redken08-20) con 33.58 de descuento por 112.9 EUR (original: 169.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51uVvGhJV6L._SL200_.jpg)](https://www.amazon.com/dp/B01M8JXZ8J/?tag=redken08-20)
 

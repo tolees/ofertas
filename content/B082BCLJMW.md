@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Icons Corner Pack de 2 Sillas Negra Pata'
+title: 'Icons Corner Pack de 2 Sillas Negra Pata al 84.00 % de descuento'
 date: 2020-01-22 11:56:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wm-QIG1-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wm-QIG1-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 349.9 EUR
 inStock: true
 ---
 
-Está [Icons Corner Pack de 2 Sillas Negra Patas de Madera Kandem Paris](https://www.amazon.com/dp/B082BCLJMW/?tag=redken08-20) por 55.99 EUR (original: 349.9 EUR) en el siguiente enlace!
+Está [Icons Corner Pack de 2 Sillas Negra Patas de Madera Kandem Paris](https://www.amazon.com/dp/B082BCLJMW/?tag=redken08-20) con 84.00 de descuento por 55.99 EUR (original: 349.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31wm-QIG1-L._SL200_.jpg)](https://www.amazon.com/dp/B082BCLJMW/?tag=redken08-20)
 

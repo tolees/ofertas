@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La Maldición de las Brujas BD 1990 The W'
+title: 'La Maldición de las Brujas BD 1990 The W al 40.00 % de descuento'
 date: 2019/11/17 23:11:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513XD5wVxqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513XD5wVxqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [La Maldición de las Brujas BD 1990 The Witches [Blu-ray]](https://www.amazon.com/dp/B01NALHRU5/?tag=redken08-20) a 7.77 EUR (original: 12.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [La Maldición de las Brujas BD 1990 The Witches [Blu-ray]](https://www.amazon.com/dp/B01NALHRU5/?tag=redken08-20) a 7.77 EUR (original: 12.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513XD5wVxqL._SL200_.jpg)](https://www.amazon.com/dp/B01NALHRU5/?tag=redken08-20)
 

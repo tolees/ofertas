@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Tech tee - Camiseta de Mang'
+title: 'Descuento del 46.77 % en Under Armour Tech tee - Camiseta de Mang'
 date: 2019/11/07 09:44:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FPjUrAS9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FPjUrAS9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Tienes [Under Armour Tech tee - Camiseta de Manga Larga para niño  Niños  1318200-400  Royal/Graphite  Youth Small](https://www.amazon.com/dp/B077XSDYHJ/?tag=redken08-20) a precio de oferta de 15.97 EUR (original: 30 EUR) en el siguiente enlace!
+Tienes [Under Armour Tech tee - Camiseta de Manga Larga para niño  Niños  1318200-400  Royal/Graphite  Youth Small](https://www.amazon.com/dp/B077XSDYHJ/?tag=redken08-20) con un 46.77 % de descuento con precio de oferta de 15.97 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51FPjUrAS9L._SL200_.jpg)](https://www.amazon.com/dp/B077XSDYHJ/?tag=redken08-20)
 

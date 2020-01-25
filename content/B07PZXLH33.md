@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo Ideapad 530S-14IKB  Ordenador Por'
+title: 'Descuento del 33.26 % en Lenovo Ideapad 530S-14IKB  Ordenador Por'
 date: 2020-01-23 17:09:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418v%2BYi8E9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418v%2BYi8E9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 899 EUR
 inStock: true
 ---
 
-Tienes [Lenovo Ideapad 530S-14IKB  Ordenador Portátil Full HD  Intel Core i5-8250U  RAM de 8GB  512GB SSD  Intel UHD Graphics 620  - Teclado QWERTY Español  SATA  Intel  Windows 10  14"](https://www.amazon.com/dp/B07PZXLH33/?tag=redken08-20) a precio de oferta de 599.99 EUR (original: 899 EUR) en el siguiente enlace!
+Tienes [Lenovo Ideapad 530S-14IKB  Ordenador Portátil Full HD  Intel Core i5-8250U  RAM de 8GB  512GB SSD  Intel UHD Graphics 620  - Teclado QWERTY Español  SATA  Intel  Windows 10  14"](https://www.amazon.com/dp/B07PZXLH33/?tag=redken08-20) con un 33.26 % de descuento con precio de oferta de 599.99 EUR (original: 899 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418v%2BYi8E9L._SL200_.jpg)](https://www.amazon.com/dp/B07PZXLH33/?tag=redken08-20)
 

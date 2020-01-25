@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Colorista Coloración Tempo'
+title: 'L Oreal Paris Colorista Coloración Tempo al 87.42 % de descuento'
 date: 2020-01-21 19:46:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RHaD6mMyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RHaD6mMyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.95 EUR
 inStock: true
 ---
 
-Está [L Oreal Paris Colorista Coloración Temporal Colorista Spray - Pink Hair](https://www.amazon.com/dp/B01MYMM9EX/?tag=redken08-20) por 1 EUR (original: 7.95 EUR) en el siguiente enlace!
+Está [L Oreal Paris Colorista Coloración Temporal Colorista Spray - Pink Hair](https://www.amazon.com/dp/B01MYMM9EX/?tag=redken08-20) con 87.42 de descuento por 1 EUR (original: 7.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RHaD6mMyL._SL200_.jpg)](https://www.amazon.com/dp/B01MYMM9EX/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K9CK Juego de Luces para Lego Technic La'
+title: 'K9CK Juego de Luces para Lego Technic La al 50.00 % de descuento'
 date: 2020-01-24 10:28:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KdvXxMWHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KdvXxMWHL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [K9CK Juego de Luces para Lego Technic Land Rover Defender 42110  Led Faro Kit de Iluminación Compatible con Modelo Lego - Versión RC  NO Incluido en el Modelo ](https://www.amazon.com/dp/B082KRMVHL/?tag=redken08-20) a 39.99 EUR (original: 79.98 EUR) en el siguiente enlace!
+Ahora mismo tienes [K9CK Juego de Luces para Lego Technic Land Rover Defender 42110  Led Faro Kit de Iluminación Compatible con Modelo Lego - Versión RC  NO Incluido en el Modelo ](https://www.amazon.com/dp/B082KRMVHL/?tag=redken08-20) a 39.99 EUR (original: 79.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KdvXxMWHL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B082KRMVHL/?tag=redken08-20)
 

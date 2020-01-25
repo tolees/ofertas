@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Element Topaz C3 Napa Navy - Casco Integ'
+title: 'Element Topaz C3 Napa Navy - Casco Integ al 40.00 % de descuento'
 date: 2019/12/04 17:39:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mDoHrX56L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mDoHrX56L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 68.25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Element Topaz C3 Napa Navy - Casco Integral  Talla 45   Color Azul Marino](https://www.amazon.com/dp/B07LGZR6GQ/?tag=redken08-20) a 40.95 EUR (original: 68.25 EUR) en el siguiente enlace!
+Ahora mismo tienes [Element Topaz C3 Napa Navy - Casco Integral  Talla 45   Color Azul Marino](https://www.amazon.com/dp/B07LGZR6GQ/?tag=redken08-20) a 40.95 EUR (original: 68.25 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mDoHrX56L._SL200_.jpg)](https://www.amazon.com/dp/B07LGZR6GQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GODNECE Technic Racing Car  1:10 2.4G RC'
+title: 'GODNECE Technic Racing Car  1:10 2.4G RC al 60.00 % de descuento'
 date: 2020-01-24 09:55:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51h7dagsUaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51h7dagsUaL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 349.98 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GODNECE Technic Racing Car  1:10 2.4G RC Race Car Model Kit Model Building Kits Difficult Building Blocks Technic Compatible with Lego 2615Pcs+  With Motor and Remote Control](https://www.amazon.com/dp/B082DZPKKJ/?tag=redken08-20) a 139.99 GBP (original: 349.98 GBP) en el siguiente enlace!
+Ahora mismo tienes [GODNECE Technic Racing Car  1:10 2.4G RC Race Car Model Kit Model Building Kits Difficult Building Blocks Technic Compatible with Lego 2615Pcs+  With Motor and Remote Control](https://www.amazon.com/dp/B082DZPKKJ/?tag=redken08-20) a 139.99 GBP (original: 349.98 GBP) (60.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51h7dagsUaL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B082DZPKKJ/?tag=redken08-20)
 

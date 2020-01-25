@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York Perfilador de Ojos M'
+title: 'Descuento del 29.18 % en Maybelline New York Perfilador de Ojos M'
 date: 2019/11/12 11:22:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qt5K6%2BX%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qt5K6%2BX%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.99 EUR
 inStock: true
 ---
 
-Tienes [Maybelline New York Perfilador de Ojos Master Kajal Pitch Black](https://www.amazon.com/dp/B00HFMMF04/?tag=redken08-20) a precio de oferta de 4.95 EUR (original: 6.99 EUR) en el siguiente enlace!
+Tienes [Maybelline New York Perfilador de Ojos Master Kajal Pitch Black](https://www.amazon.com/dp/B00HFMMF04/?tag=redken08-20) con un 29.18 % de descuento con precio de oferta de 4.95 EUR (original: 6.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qt5K6%2BX%2BL._SL200_.jpg)](https://www.amazon.com/dp/B00HFMMF04/?tag=redken08-20)
 

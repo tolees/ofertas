@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars - Cuaderno 3D  15 x 21 cm  Mer'
+title: 'Star Wars - Cuaderno 3D  15 x 21 cm  Mer al 67.34 % de descuento'
 date: 2019/12/26 20:23:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5196-1%2B6cZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5196-1%2B6cZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.22 EUR
 inStock: true
 ---
 
-Está [Star Wars - Cuaderno 3D  15 x 21 cm  Mercury 23796/17962 ](https://www.amazon.com/dp/B00NZ43TMY/?tag=redken08-20) por 5.95 EUR (original: 18.22 EUR) en el siguiente enlace!
+Está [Star Wars - Cuaderno 3D  15 x 21 cm  Mercury 23796/17962 ](https://www.amazon.com/dp/B00NZ43TMY/?tag=redken08-20) con 67.34 de descuento por 5.95 EUR (original: 18.22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/5196-1%2B6cZL._SL200_.jpg)](https://www.amazon.com/dp/B00NZ43TMY/?tag=redken08-20)
 

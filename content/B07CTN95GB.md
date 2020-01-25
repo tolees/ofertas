@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIND - Dark Night  Máscara de volumen ne'
+title: 'Descuento del 36.00 % en FIND - Dark Night  Máscara de volumen ne'
 date: 2019/10/08 12:42:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313HfS%2BTQRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313HfS%2BTQRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.5 EUR
 inStock: true
 ---
 
-Tienes [FIND - Dark Night  Máscara de volumen negra + Lápiz de ojos negro con sacapuntas ](https://www.amazon.com/dp/B07CTN95GB/?tag=redken08-20) a precio de oferta de 4.8 EUR (original: 7.5 EUR) en el siguiente enlace!
+Tienes [FIND - Dark Night  Máscara de volumen negra + Lápiz de ojos negro con sacapuntas ](https://www.amazon.com/dp/B07CTN95GB/?tag=redken08-20) con un 36.00 % de descuento con precio de oferta de 4.8 EUR (original: 7.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/313HfS%2BTQRL._SL200_.jpg)](https://www.amazon.com/dp/B07CTN95GB/?tag=redken08-20)
 

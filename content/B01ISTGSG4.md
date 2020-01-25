@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Serie | 6 EasyComfort TDS6040 - Ce'
+title: 'Bosch Serie | 6 EasyComfort TDS6040 - Ce al 46.55 % de descuento'
 date: 2019/12/07 00:29:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51x5A8GsTIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51x5A8GsTIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 275 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch Serie | 6 EasyComfort TDS6040 - Centro de planchado  2.400 W  5.8 bares de presión  color blanco y negro](https://www.amazon.com/dp/B01ISTGSG4/?tag=redken08-20) a 147 EUR (original: 275 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch Serie | 6 EasyComfort TDS6040 - Centro de planchado  2.400 W  5.8 bares de presión  color blanco y negro](https://www.amazon.com/dp/B01ISTGSG4/?tag=redken08-20) a 147 EUR (original: 275 EUR) (46.55 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51x5A8GsTIL._SL200_.jpg)](https://www.amazon.com/dp/B01ISTGSG4/?tag=redken08-20)
 

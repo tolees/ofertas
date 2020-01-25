@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tropico 6'
+title: 'Descuento del 30.46 % en Tropico 6'
 date: 2019/12/10 18:41:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Slepv-BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516Slepv-BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Tienes [Tropico 6](https://www.amazon.com/dp/B07QG9R4BP/?tag=redken08-20) a precio de oferta de 41.72 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [Tropico 6](https://www.amazon.com/dp/B07QG9R4BP/?tag=redken08-20) con un 30.46 % de descuento con precio de oferta de 41.72 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516Slepv-BL._SL200_.jpg)](https://www.amazon.com/dp/B07QG9R4BP/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LE COQ SPORTIF Deauville Winter Craft Bl'
+title: 'Descuento del 60.43 % en LE COQ SPORTIF Deauville Winter Craft Bl'
 date: 2019/10/20 10:11:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XwZIVZxGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XwZIVZxGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Tienes [LE COQ SPORTIF Deauville Winter Craft Black/Dress Blue  Zapatillas para Hombre  Negro Noir  41 EU](https://www.amazon.com/dp/B07DC7JB7F/?tag=redken08-20) a precio de oferta de 27.7 EUR (original: 70 EUR) en el siguiente enlace!
+Tienes [LE COQ SPORTIF Deauville Winter Craft Black/Dress Blue  Zapatillas para Hombre  Negro Noir  41 EU](https://www.amazon.com/dp/B07DC7JB7F/?tag=redken08-20) con un 60.43 % de descuento con precio de oferta de 27.7 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31XwZIVZxGL._SL200_.jpg)](https://www.amazon.com/dp/B07DC7JB7F/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste L1212 Camiseta Polo  Azul  Ruiss'
+title: 'Lacoste L1212 Camiseta Polo  Azul  Ruiss al 47.20 % de descuento'
 date: 2020-01-15 08:21:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xfEBO8oGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xfEBO8oGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89 EUR
 inStock: true
 ---
 
-Está [Lacoste L1212 Camiseta Polo  Azul  Ruisseau   L  Talla del fabricante: 5  para Hombre](https://www.amazon.com/dp/B002LTWLUK/?tag=redken08-20) por 46.99 EUR (original: 89 EUR) en el siguiente enlace!
+Está [Lacoste L1212 Camiseta Polo  Azul  Ruisseau   L  Talla del fabricante: 5  para Hombre](https://www.amazon.com/dp/B002LTWLUK/?tag=redken08-20) con 47.20 de descuento por 46.99 EUR (original: 89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31xfEBO8oGL._SL200_.jpg)](https://www.amazon.com/dp/B002LTWLUK/?tag=redken08-20)
 

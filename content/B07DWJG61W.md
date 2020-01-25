@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fantasy Flight Games- Star Wars X-Wing: '
+title: 'Fantasy Flight Games- Star Wars X-Wing:  al 45.19 % de descuento'
 date: 2020-01-20 18:42:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BzP2iACbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BzP2iACbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.95 EUR
 inStock: true
 ---
 
-Está [Fantasy Flight Games- Star Wars X-Wing: Renegados de Saw - Español  FFSWX74 ](https://www.amazon.com/dp/B07DWJG61W/?tag=redken08-20) por 20.8 EUR (original: 37.95 EUR) en el siguiente enlace!
+Está [Fantasy Flight Games- Star Wars X-Wing: Renegados de Saw - Español  FFSWX74 ](https://www.amazon.com/dp/B07DWJG61W/?tag=redken08-20) con 45.19 de descuento por 20.8 EUR (original: 37.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51BzP2iACbL._SL200_.jpg)](https://www.amazon.com/dp/B07DWJG61W/?tag=redken08-20)
 

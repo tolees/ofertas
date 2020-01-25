@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York - Master Strobing St'
+title: 'Descuento del 36.04 % en Maybelline New York - Master Strobing St'
 date: 2019/12/29 10:08:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.99 EUR
 inStock: true
 ---
 
-Tienes [Maybelline New York - Master Strobing Stick Iluminador  Tono 200 Medium pieles medias. - 9GR](https://www.amazon.com/dp/B01IJZX9F0/?tag=redken08-20) a precio de oferta de 5.75 EUR (original: 8.99 EUR) en el siguiente enlace!
+Tienes [Maybelline New York - Master Strobing Stick Iluminador  Tono 200 Medium pieles medias. - 9GR](https://www.amazon.com/dp/B01IJZX9F0/?tag=redken08-20) con un 36.04 % de descuento con precio de oferta de 5.75 EUR (original: 8.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL._SL200_.jpg)](https://www.amazon.com/dp/B01IJZX9F0/?tag=redken08-20)
 

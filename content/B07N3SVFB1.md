@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HKT by Hackett London Hkt LRC Polo   Gre'
+title: 'HKT by Hackett London Hkt LRC Polo   Gre al 40.65 % de descuento'
 date: 2019/11/21 22:21:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rAMjjBOZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rAMjjBOZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 81.01 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HKT by Hackett London Hkt LRC Polo   Grey/Navy 9BF   Medium para Hombre](https://www.amazon.com/dp/B07N3SVFB1/?tag=redken08-20) a 48.08 EUR (original: 81.01 EUR) en el siguiente enlace!
+Ahora mismo tienes [HKT by Hackett London Hkt LRC Polo   Grey/Navy 9BF   Medium para Hombre](https://www.amazon.com/dp/B07N3SVFB1/?tag=redken08-20) a 48.08 EUR (original: 81.01 EUR) (40.65 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rAMjjBOZL._SL200_.jpg)](https://www.amazon.com/dp/B07N3SVFB1/?tag=redken08-20)
 

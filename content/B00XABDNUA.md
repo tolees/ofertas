@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Haribo - Pasta Basta - Geles dulces con '
+title: 'Haribo - Pasta Basta - Geles dulces con  al 43.33 % de descuento'
 date: 2019/11/27 21:39:44 +0000
 thumbnailImage: 'http://images.amazon.com/images/P/B00XABDNUA.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B00XABDNUA.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.4 EUR
 inStock: true
 ---
 
-Está [Haribo - Pasta Basta - Geles dulces con sabor a manzana - 1.72 kg](https://www.amazon.com/dp/B00XABDNUA/?tag=redken08-20) por 8.16 EUR (original: 14.4 EUR) en el siguiente enlace!
+Está [Haribo - Pasta Basta - Geles dulces con sabor a manzana - 1.72 kg](https://www.amazon.com/dp/B00XABDNUA/?tag=redken08-20) con 43.33 de descuento por 8.16 EUR (original: 14.4 EUR) en el siguiente enlace!
 
 [![](http://images.amazon.com/images/P/B00XABDNUA.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.com/dp/B00XABDNUA/?tag=redken08-20)
 

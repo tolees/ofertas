@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Stone'
+title: 'Levi s 502 Regular Taper Vaqueros  Stone al 59.07 % de descuento'
 date: 2019/12/22 15:22:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros  Stonewash 95978 0182  33W / 30L para Hombre](https://www.amazon.com/dp/B079QHKZD1/?tag=redken08-20) a 36.84 EUR (original: 90 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros  Stonewash 95978 0182  33W / 30L para Hombre](https://www.amazon.com/dp/B079QHKZD1/?tag=redken08-20) a 36.84 EUR (original: 90 EUR) (59.07 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg)](https://www.amazon.com/dp/B079QHKZD1/?tag=redken08-20)
 

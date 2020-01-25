@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Button Down Camisa Casual  Azul  Bey'
+title: 'Lee Button Down Camisa Casual  Azul  Bey al 70.51 % de descuento'
 date: 2020-01-10 10:23:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RQCIxwXRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RQCIxwXRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Está [Lee Button Down Camisa Casual  Azul  Beyond Blue   XX-Large para Hombre](https://www.amazon.com/dp/B07M8VKDVW/?tag=redken08-20) por 20.63 EUR (original: 69.95 EUR) en el siguiente enlace!
+Está [Lee Button Down Camisa Casual  Azul  Beyond Blue   XX-Large para Hombre](https://www.amazon.com/dp/B07M8VKDVW/?tag=redken08-20) con 70.51 de descuento por 20.63 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RQCIxwXRL._SL200_.jpg)](https://www.amazon.com/dp/B07M8VKDVW/?tag=redken08-20)
 

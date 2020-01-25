@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fly London Jope690fly  Zapatillas para H'
+title: 'Fly London Jope690fly  Zapatillas para H al 75.37 % de descuento'
 date: 2019/11/14 16:48:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a91C32viL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a91C32viL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Fly London Jope690fly  Zapatillas para Hombre  Negro  Black 000   41 EU](https://www.amazon.com/dp/B07GL9TBVH/?tag=redken08-20) por 36.94 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Fly London Jope690fly  Zapatillas para Hombre  Negro  Black 000   41 EU](https://www.amazon.com/dp/B07GL9TBVH/?tag=redken08-20) con 75.37 de descuento por 36.94 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41a91C32viL._SL200_.jpg)](https://www.amazon.com/dp/B07GL9TBVH/?tag=redken08-20)
 

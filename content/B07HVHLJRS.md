@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Nmd_Racer Pk W Zapatillas de Gimn'
+title: 'adidas Nmd_Racer Pk W Zapatillas de Gimn al 60.80 % de descuento'
 date: 2019/10/10 20:31:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ouoXXlsdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ouoXXlsdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 179.95 EUR
 inStock: true
 ---
 
-Está [adidas Nmd_Racer Pk W Zapatillas de Gimnasia Mujer  Rosa  Trace Pink/Cloud White    41 1/3 EU  7.5 UK ](https://www.amazon.com/dp/B07HVHLJRS/?tag=redken08-20) por 70.54 EUR (original: 179.95 EUR) en el siguiente enlace!
+Está [adidas Nmd_Racer Pk W Zapatillas de Gimnasia Mujer  Rosa  Trace Pink/Cloud White    41 1/3 EU  7.5 UK ](https://www.amazon.com/dp/B07HVHLJRS/?tag=redken08-20) con 60.80 de descuento por 70.54 EUR (original: 179.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ouoXXlsdL._SL200_.jpg)](https://www.amazon.com/dp/B07HVHLJRS/?tag=redken08-20)
 

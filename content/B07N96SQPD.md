@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Schino-Regular D Pantalones  Verde '
+title: 'BOSS Schino-Regular D Pantalones  Verde  al 51.03 % de descuento'
 date: 2019/10/10 09:34:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tK7UO2RDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tK7UO2RDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [BOSS Schino-Regular D Pantalones  Verde  Open Green 346   31W/34L para Hombre](https://www.amazon.com/dp/B07N96SQPD/?tag=redken08-20) por 48.95 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [BOSS Schino-Regular D Pantalones  Verde  Open Green 346   31W/34L para Hombre](https://www.amazon.com/dp/B07N96SQPD/?tag=redken08-20) con 51.03 de descuento por 48.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tK7UO2RDL._SL200_.jpg)](https://www.amazon.com/dp/B07N96SQPD/?tag=redken08-20)
 

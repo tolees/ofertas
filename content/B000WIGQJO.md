@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Estee Lauder 50590 - Base de maquillaje'
+title: 'Estee Lauder 50590 - Base de maquillaje al 42.98 % de descuento'
 date: 2020-01-22 22:01:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CIncSb-1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CIncSb-1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 42 EUR
 inStock: true
 ---
 
-Está [Estee Lauder 50590 - Base de maquillaje](https://www.amazon.com/dp/B000WIGQJO/?tag=redken08-20) por 23.95 EUR (original: 42 EUR) en el siguiente enlace!
+Está [Estee Lauder 50590 - Base de maquillaje](https://www.amazon.com/dp/B000WIGQJO/?tag=redken08-20) con 42.98 de descuento por 23.95 EUR (original: 42 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CIncSb-1L._SL200_.jpg)](https://www.amazon.com/dp/B000WIGQJO/?tag=redken08-20)
 

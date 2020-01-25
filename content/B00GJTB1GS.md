@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face MC Murdo Parka Chaqueta D'
+title: 'The North Face MC Murdo Parka Chaqueta D al 37.78 % de descuento'
 date: 2019/10/18 15:45:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tGYe3SZ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tGYe3SZ6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 450 EUR
 inStock: true
 ---
 
-Está [The North Face MC Murdo Parka Chaqueta De Plumón  Hombre  British Khaki  XS](https://www.amazon.com/dp/B00GJTB1GS/?tag=redken08-20) por 279.99 EUR (original: 450 EUR) en el siguiente enlace!
+Está [The North Face MC Murdo Parka Chaqueta De Plumón  Hombre  British Khaki  XS](https://www.amazon.com/dp/B00GJTB1GS/?tag=redken08-20) con 37.78 de descuento por 279.99 EUR (original: 450 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tGYe3SZ6L._SL200_.jpg)](https://www.amazon.com/dp/B00GJTB1GS/?tag=redken08-20)
 

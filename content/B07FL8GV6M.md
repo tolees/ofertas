@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry O L Vintage Emb S/s Vee tee Cam'
+title: 'Superdry O L Vintage Emb S/s Vee tee Cam al 32.01 % de descuento'
 date: 2019/12/18 07:43:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nL3xg3abL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nL3xg3abL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Negro  Black 02a   Small para Hombre](https://www.amazon.com/dp/B07FL8GV6M/?tag=redken08-20) a 16.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Negro  Black 02a   Small para Hombre](https://www.amazon.com/dp/B07FL8GV6M/?tag=redken08-20) a 16.99 EUR (original: 24.99 EUR) (32.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nL3xg3abL._SL200_.jpg)](https://www.amazon.com/dp/B07FL8GV6M/?tag=redken08-20)
 

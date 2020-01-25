@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aigostar - Bombilla LED B5 T3 3U  E27  9'
+title: 'Descuento del 46.97 % en Aigostar - Bombilla LED B5 T3 3U  E27  9'
 date: 2020-01-07 13:06:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dBRdPSVkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dBRdPSVkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.99 EUR
 inStock: true
 ---
 
-Tienes [Aigostar - Bombilla LED B5 T3 3U  E27  9 W equivalente a 70 W  6400K  810 lúmenes  no regulable - Pack de 5](https://www.amazon.com/dp/B011REOTBI/?tag=redken08-20) a precio de oferta de 10.07 EUR (original: 18.99 EUR) en el siguiente enlace!
+Tienes [Aigostar - Bombilla LED B5 T3 3U  E27  9 W equivalente a 70 W  6400K  810 lúmenes  no regulable - Pack de 5](https://www.amazon.com/dp/B011REOTBI/?tag=redken08-20) con un 46.97 % de descuento con precio de oferta de 10.07 EUR (original: 18.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dBRdPSVkL._SL200_.jpg)](https://www.amazon.com/dp/B011REOTBI/?tag=redken08-20)
 

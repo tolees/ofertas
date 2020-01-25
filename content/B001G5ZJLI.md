@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tuscany Silver 8.44.2214 - Colgante de m'
+title: 'Tuscany Silver 8.44.2214 - Colgante de m al 60.00 % de descuento'
 date: 2019/12/17 07:16:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MsZquXjgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MsZquXjgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Está [Tuscany Silver 8.44.2214 - Colgante de mujer de plata de ley con cristales  46 cm](https://www.amazon.com/dp/B001G5ZJLI/?tag=redken08-20) por 38 EUR (original: 95 EUR) en el siguiente enlace!
+Está [Tuscany Silver 8.44.2214 - Colgante de mujer de plata de ley con cristales  46 cm](https://www.amazon.com/dp/B001G5ZJLI/?tag=redken08-20) con 60.00 de descuento por 38 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MsZquXjgL._SL200_.jpg)](https://www.amazon.com/dp/B001G5ZJLI/?tag=redken08-20)
 

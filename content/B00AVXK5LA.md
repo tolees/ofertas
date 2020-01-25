@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dyson 925067-01 - Cepillo tangle-free Tu'
+title: 'Dyson 925067-01 - Cepillo tangle-free Tu al 35.93 % de descuento'
 date: 2019/11/27 10:27:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515-1b7CMWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515-1b7CMWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dyson 925067-01 - Cepillo tangle-free Turbine](https://www.amazon.com/dp/B00AVXK5LA/?tag=redken08-20) a 47.99 EUR (original: 74.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dyson 925067-01 - Cepillo tangle-free Turbine](https://www.amazon.com/dp/B00AVXK5LA/?tag=redken08-20) a 47.99 EUR (original: 74.9 EUR) (35.93 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515-1b7CMWL._SL200_.jpg)](https://www.amazon.com/dp/B00AVXK5LA/?tag=redken08-20)
 

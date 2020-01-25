@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech B100 - Ratón óptico  color negr'
+title: 'Logitech B100 - Ratón óptico  color negr al 50.05 % de descuento'
 date: 2020-01-18 17:58:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iFF1KbkpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iFF1KbkpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Logitech B100 - Ratón óptico  color negro](https://www.amazon.com/dp/B00AZKNPZC/?tag=redken08-20) a 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Logitech B100 - Ratón óptico  color negro](https://www.amazon.com/dp/B00AZKNPZC/?tag=redken08-20) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31iFF1KbkpL._SL200_.jpg)](https://www.amazon.com/dp/B00AZKNPZC/?tag=redken08-20)
 

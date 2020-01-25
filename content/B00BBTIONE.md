@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bombay Sapphire London Dry Gin  1 x 1 l '
+title: 'Descuento del 40.01 % en Bombay Sapphire London Dry Gin  1 x 1 l '
 date: 2019/12/16 16:41:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I63001u3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I63001u3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [Bombay Sapphire London Dry Gin  1 x 1 l ](https://www.amazon.com/dp/B00BBTIONE/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Bombay Sapphire London Dry Gin  1 x 1 l ](https://www.amazon.com/dp/B00BBTIONE/?tag=redken08-20) con un 40.01 % de descuento con precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41I63001u3L._SL200_.jpg)](https://www.amazon.com/dp/B00BBTIONE/?tag=redken08-20)
 

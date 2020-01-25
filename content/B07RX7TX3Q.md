@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s unbasic  Hoodie Capucha   Dunsmui'
+title: 'Levi s unbasic  Hoodie Capucha   Dunsmui al 50.07 % de descuento'
 date: 2019/10/11 11:26:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s unbasic  Hoodie Capucha   Dunsmuir Floral Meteorite 0036   X-Small para Mujer](https://www.amazon.com/dp/B07RX7TX3Q/?tag=redken08-20) a 37.45 EUR (original: 75 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s unbasic  Hoodie Capucha   Dunsmuir Floral Meteorite 0036   X-Small para Mujer](https://www.amazon.com/dp/B07RX7TX3Q/?tag=redken08-20) a 37.45 EUR (original: 75 EUR) (50.07 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg)](https://www.amazon.com/dp/B07RX7TX3Q/?tag=redken08-20)
 

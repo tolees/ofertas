@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CTM - Funda de gafas - para hombre'
+title: 'Descuento del 48.96 % en CTM - Funda de gafas - para hombre'
 date: 2019/12/24 12:40:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-isPMI6jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-isPMI6jL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 20.71 EUR
 inStock: true
 ---
 
-Está [CTM - Funda de gafas - para hombre](https://www.amazon.com/dp/B0007ZDTEM/?tag=redken08-20) por 10.57 EUR (original: 20.71 EUR) en el siguiente enlace!
+Tienes [CTM - Funda de gafas - para hombre](https://www.amazon.com/dp/B0007ZDTEM/?tag=redken08-20) con un 48.96 % de descuento con precio de oferta de 10.57 EUR (original: 20.71 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-isPMI6jL._SL200_.jpg)](https://www.amazon.com/dp/B0007ZDTEM/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B0007ZDTEM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B0007ZDTEM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

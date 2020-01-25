@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack Crosscall Trekker-M1 Core Smartphon'
+title: 'Pack Crosscall Trekker-M1 Core Smartphon al 37.80 % de descuento'
 date: 2019/10/31 04:56:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bpUrcaKaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bpUrcaKaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 319.95 EUR
 inStock: true
 ---
 
-Está [Pack Crosscall Trekker-M1 Core Smartphone + Powerpack Powerbank  4.5" - 16 GB ROM - Dual Micro-SIM - Android  Negro/Rojo](https://www.amazon.com/dp/B07TMFCV46/?tag=redken08-20) por 199 EUR (original: 319.95 EUR) en el siguiente enlace!
+Está [Pack Crosscall Trekker-M1 Core Smartphone + Powerpack Powerbank  4.5" - 16 GB ROM - Dual Micro-SIM - Android  Negro/Rojo](https://www.amazon.com/dp/B07TMFCV46/?tag=redken08-20) con 37.80 de descuento por 199 EUR (original: 319.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bpUrcaKaL._SL200_.jpg)](https://www.amazon.com/dp/B07TMFCV46/?tag=redken08-20)
 

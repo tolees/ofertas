@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE HEAT COMPANY Calentador Multi - EXTR'
+title: 'THE HEAT COMPANY Calentador Multi - EXTR al 50.00 % de descuento'
 date: 2019/12/06 22:45:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pB6B3ic%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pB6B3ic%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Está [THE HEAT COMPANY Calentador Multi - EXTRA CÁLIDO - Calentador de transporte - Calentador Cuerpo - 20 horas de calor confiable - calor instantáneo - activado por aire - puro natural - 10 piezas](https://www.amazon.com/dp/B01FVUFFAI/?tag=redken08-20) por 9.95 EUR (original: 19.9 EUR) en el siguiente enlace!
+Está [THE HEAT COMPANY Calentador Multi - EXTRA CÁLIDO - Calentador de transporte - Calentador Cuerpo - 20 horas de calor confiable - calor instantáneo - activado por aire - puro natural - 10 piezas](https://www.amazon.com/dp/B01FVUFFAI/?tag=redken08-20) con 50.00 de descuento por 9.95 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51pB6B3ic%2BL._SL200_.jpg)](https://www.amazon.com/dp/B01FVUFFAI/?tag=redken08-20)
 

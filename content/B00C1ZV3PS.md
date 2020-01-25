@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spirella Ø17 x 24 5  3 litros   Verde co'
+title: 'Spirella Ø17 x 24 5  3 litros   Verde co al 52.65 % de descuento'
 date: 2019/10/29 10:36:21 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 37.99 EUR
 inStock: true
 ---
 
-Está [Spirella Ø17 x 24 5  3 litros   Verde colección Sydney  Papelera con Pedal  Metal](https://www.amazon.com/dp/B00C1ZV3PS/?tag=redken08-20) por 17.99 EUR (original: 37.99 EUR) en el siguiente enlace!
+Está [Spirella Ø17 x 24 5  3 litros   Verde colección Sydney  Papelera con Pedal  Metal](https://www.amazon.com/dp/B00C1ZV3PS/?tag=redken08-20) con 52.65 de descuento por 17.99 EUR (original: 37.99 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B00C1ZV3PS/?tag=redken08-20)
 
