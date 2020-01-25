@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Our World is Ended - Day One Edition al 65.27 % de descuento'
-date: 2020-01-11 23:15:26
+date: 2020-01-25 12:58:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg' ]
 comments: true

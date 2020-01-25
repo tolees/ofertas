@@ -14,10 +14,10 @@ comparePrice: 749.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Canon PowerShot G5 X - Cámara compacta de 20.2 MP  Pantalla de 3"  Zoom óptico 4.2X  estabilizador Digital  vídeo Full HD   Color Negro](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20) a 461.95 EUR (original: 749.99 EUR) (38.41 %  de descuento) en el siguiente enlace!
+Está [Canon PowerShot G5 X - Cámara compacta de 20.2 MP  Pantalla de 3"  Zoom óptico 4.2X  estabilizador Digital  vídeo Full HD   Color Negro](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20) con 38.41 de descuento por 461.95 EUR (original: 749.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414V9rQOhNL._SL200_.jpg)](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B016MN3HXA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
