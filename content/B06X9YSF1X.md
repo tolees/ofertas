@@ -14,10 +14,10 @@ comparePrice: 5.78 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rimmel London Super Gel Esmalte de Uñas Tono 91-47 gr](https://www.amazon.com/dp/B06X9YSF1X/?tag=redken08-20) a 2 EUR (original: 5.78 EUR) (65.40 %  de descuento) en el siguiente enlace!
+Está [Rimmel London Super Gel Esmalte de Uñas Tono 91-47 gr](https://www.amazon.com/dp/B06X9YSF1X/?tag=redken08-20) con 65.40 de descuento por 2 EUR (original: 5.78 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41G2xCjpFPL._SL200_.jpg)](https://www.amazon.com/dp/B06X9YSF1X/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B06X9YSF1X/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06X9YSF1X/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

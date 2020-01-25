@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Safety 1st Auto Close - Barrera de puert al 27.21 % de descuento'
-date: 2020-01-07 09:15:08
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eGJ5B23%2BL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eGJ5B23%2BL._SL200_.jpg' ]
+title: 'Safety 1st Auto Close - Barrera de puert al 25.63 % de descuento'
+date: 2020-01-25 09:16:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/31eGJ5B23+L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31eGJ5B23+L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00O50YUHA
 description:
-actualPrice: 31.3 EUR
-comparePrice: 43 EUR
+actualPrice: 31.98 EUR
+comparePrice: 43.0 EUR
 inStock: true
 ---
 
-Está [Safety 1st Auto Close - Barrera de puerta de seguridad  a presión  metálica  color blanco](https://www.amazon.com/dp/B00O50YUHA/?tag=redken08-20) con 27.21 de descuento por 31.3 EUR (original: 43 EUR) en el siguiente enlace!
+Está [Safety 1st Auto Close - Barrera de puerta de seguridad  a presión  metálica  color blanco](https://www.amazon.com/dp/B00O50YUHA/?tag=redken08-20) con 25.63 de descuento por 31.98 EUR (original: 43.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31eGJ5B23%2BL._SL200_.jpg)](https://www.amazon.com/dp/B00O50YUHA/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31eGJ5B23+L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00O50YUHA/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00O50YUHA/?tag=redken08-20)
 

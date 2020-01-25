@@ -14,10 +14,10 @@ comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 70671 Ninjago Lloyd s Journey Set with 2 Minifigures and Wolf Figure  Multicolour](https://www.amazon.com/dp/B07KTK6PP3/?tag=redken08-20) a 9.59 GBP (original: 12.99 GBP) (26.17 %  de descuento) en el siguiente enlace!
+Está [LEGO 70671 Ninjago Lloyd s Journey Set with 2 Minifigures and Wolf Figure  Multicolour](https://www.amazon.com/dp/B07KTK6PP3/?tag=redken08-20) con 26.17 de descuento por 9.59 GBP (original: 12.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515bqq%2BCRgL._SL200_.jpg)](https://www.amazon.com/dp/B07KTK6PP3/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KTK6PP3/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KTK6PP3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
