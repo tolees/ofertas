@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 52.51 % en Aceite esencial de lavanda  Mindbreaker '
+title: 'Aceite esencial de lavanda  Mindbreaker '
 date: 2019/10/23 12:29:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ks3pJYxBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ks3pJYxBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [Aceite esencial de lavanda  Mindbreaker 100% el aceite esencial del grado terapéutico orgánico puro  consigue un mejor sueño  aromatherapy  antiinflamatorio  alivia dolores de cabeza  120 ml ](https://www.amazon.com/dp/B07PP9BVBH/?tag=redken08-20) con un 52.51 % de descuento con precio de oferta de 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [Aceite esencial de lavanda  Mindbreaker 100% el aceite esencial del grado terapéutico orgánico puro  consigue un mejor sueño  aromatherapy  antiinflamatorio  alivia dolores de cabeza  120 ml ](https://www.amazon.com/dp/B07PP9BVBH/?tag=redken08-20) a precio de oferta de 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ks3pJYxBL._SL200_.jpg)](https://www.amazon.com/dp/B07PP9BVBH/?tag=redken08-20)
 

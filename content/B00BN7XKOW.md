@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 42.61 % en Neutrogena Loción Corporal Reparación In'
+title: 'Neutrogena Loción Corporal Reparación In'
 date: 2019-12-31 19:17:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KSxYG6fHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KSxYG6fHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.25 EUR
 inStock: true
 ---
 
-Tienes [Neutrogena Loción Corporal Reparación Intensa  Piel Muy Seca  - 400 ml.](https://www.amazon.com/dp/B00BN7XKOW/?tag=redken08-20) con un 42.61 % de descuento con precio de oferta de 9.9 EUR (original: 17.25 EUR) en el siguiente enlace!
+Tienes [Neutrogena Loción Corporal Reparación Intensa  Piel Muy Seca  - 400 ml.](https://www.amazon.com/dp/B00BN7XKOW/?tag=redken08-20) a precio de oferta de 9.9 EUR (original: 17.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KSxYG6fHL._SL200_.jpg)](https://www.amazon.com/dp/B00BN7XKOW/?tag=redken08-20)
 

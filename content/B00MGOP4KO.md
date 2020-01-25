@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Springer Riñonera  23 cm  2 L  G al 33.52 % de descuento'
+title: 'Eastpak Springer Riñonera  23 cm  2 L  G'
 date: 2019/11/04 04:23:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yFoxlbUYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yFoxlbUYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27 EUR
 inStock: true
 ---
 
-Está [Eastpak Springer Riñonera  23 cm  2 L  Gris  Black Denim ](https://www.amazon.com/dp/B00MGOP4KO/?tag=redken08-20) con 33.52 de descuento por 17.95 EUR (original: 27 EUR) en el siguiente enlace!
+Está [Eastpak Springer Riñonera  23 cm  2 L  Gris  Black Denim ](https://www.amazon.com/dp/B00MGOP4KO/?tag=redken08-20) por 17.95 EUR (original: 27 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yFoxlbUYL._SL200_.jpg)](https://www.amazon.com/dp/B00MGOP4KO/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Logo tee Camiseta  Negro  Black Ai01 al 50.00 % de descuento'
+title: 'Lee Logo tee Camiseta  Negro  Black Ai01'
 date: 2020-01-19 15:49:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VLRKCz6vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VLRKCz6vL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Lee Logo tee Camiseta  Negro  Black Ai01   XX-Large para Hombre](https://www.amazon.com/dp/B072QXWYJN/?tag=redken08-20) con 50.00 de descuento por 12.5 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Lee Logo tee Camiseta  Negro  Black Ai01   XX-Large para Hombre](https://www.amazon.com/dp/B072QXWYJN/?tag=redken08-20) por 12.5 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VLRKCz6vL._SL200_.jpg)](https://www.amazon.com/dp/B072QXWYJN/?tag=redken08-20)
 

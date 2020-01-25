@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Button Down Camisa  Azul  Beyond Blu al 55.40 % de descuento'
+title: 'Lee Button Down Camisa  Azul  Beyond Blu'
 date: 2019/11/19 07:00:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UbVRybNCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UbVRybNCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Lee Button Down Camisa  Azul  Beyond Blue   Large para Hombre](https://www.amazon.com/dp/B07N19FTTB/?tag=redken08-20) con 55.40 de descuento por 28.99 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Lee Button Down Camisa  Azul  Beyond Blue   Large para Hombre](https://www.amazon.com/dp/B07N19FTTB/?tag=redken08-20) por 28.99 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UbVRybNCL._SL200_.jpg)](https://www.amazon.com/dp/B07N19FTTB/?tag=redken08-20)
 

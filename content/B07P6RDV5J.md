@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'American Tourister Bon Air - Spinner Sma al 42.01 % de descuento'
+title: 'American Tourister Bon Air - Spinner Sma'
 date: 2019/11/03 13:12:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kbLApG-7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kbLApG-7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Está [American Tourister Bon Air - Spinner Small Strict Equipaje de Mano  55 cm  31.5 Liters  Azul  Blue Topaz ](https://www.amazon.com/dp/B07P6RDV5J/?tag=redken08-20) con 42.01 de descuento por 63.79 EUR (original: 110 EUR) en el siguiente enlace!
+Está [American Tourister Bon Air - Spinner Small Strict Equipaje de Mano  55 cm  31.5 Liters  Azul  Blue Topaz ](https://www.amazon.com/dp/B07P6RDV5J/?tag=redken08-20) por 63.79 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31kbLApG-7L._SL200_.jpg)](https://www.amazon.com/dp/B07P6RDV5J/?tag=redken08-20)
 

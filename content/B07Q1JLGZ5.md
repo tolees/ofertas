@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kingdom Come: Deliverance - Royal Editio al 45.09 % de descuento'
+title: 'Kingdom Come: Deliverance - Royal Editio'
 date: 2020-01-07 17:50:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CVCUoZzXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CVCUoZzXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kingdom Come: Deliverance - Royal Edition - Xbox One](https://www.amazon.com/dp/B07Q1JLGZ5/?tag=redken08-20) a 21.96 EUR (original: 39.99 EUR) (45.09 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Kingdom Come: Deliverance - Royal Edition - Xbox One](https://www.amazon.com/dp/B07Q1JLGZ5/?tag=redken08-20) a 21.96 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51CVCUoZzXL._SL200_.jpg)](https://www.amazon.com/dp/B07Q1JLGZ5/?tag=redken08-20)
 

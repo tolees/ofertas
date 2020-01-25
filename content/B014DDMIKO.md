@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Bradstreet Chukka Leather  Bo al 35.72 % de descuento'
+title: 'Timberland Bradstreet Chukka Leather  Bo'
 date: 2020-01-23 14:29:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yNpUxv61L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yNpUxv61L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Está [Timberland Bradstreet Chukka Leather  Botas Hombre  Marrón  MD Brown Full Grain   45.5 EU](https://www.amazon.com/dp/B014DDMIKO/?tag=redken08-20) con 35.72 de descuento por 89.99 EUR (original: 140 EUR) en el siguiente enlace!
+Está [Timberland Bradstreet Chukka Leather  Botas Hombre  Marrón  MD Brown Full Grain   45.5 EU](https://www.amazon.com/dp/B014DDMIKO/?tag=redken08-20) por 89.99 EUR (original: 140 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yNpUxv61L._SL200_.jpg)](https://www.amazon.com/dp/B014DDMIKO/?tag=redken08-20)
 

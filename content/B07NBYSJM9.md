@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES PREMIUM Jprtracker Jacket C al 55.47 % de descuento'
+title: 'JACK & JONES PREMIUM Jprtracker Jacket C'
 date: 2019/12/02 19:01:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417M6plNnQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417M6plNnQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES PREMIUM Jprtracker Jacket Chaqueta  Azul Estate Blue  XX-Large para Hombre](https://www.amazon.com/dp/B07NBYSJM9/?tag=redken08-20) a 35.62 EUR (original: 79.99 EUR) (55.47 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES PREMIUM Jprtracker Jacket Chaqueta  Azul Estate Blue  XX-Large para Hombre](https://www.amazon.com/dp/B07NBYSJM9/?tag=redken08-20) a 35.62 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417M6plNnQL._SL200_.jpg)](https://www.amazon.com/dp/B07NBYSJM9/?tag=redken08-20)
 

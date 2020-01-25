@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Impresora Multifuncional Canon PIXMA TR7 al 42.77 % de descuento'
+title: 'Impresora Multifuncional Canon PIXMA TR7'
 date: 2019/10/17 18:48:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CovDHbsPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CovDHbsPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Impresora Multifuncional Canon PIXMA TR7550 Negra Wifi de inyección de tinta con Fax y ADF](https://www.amazon.com/dp/B075BMNC5Y/?tag=redken08-20) a 91 EUR (original: 159 EUR) (42.77 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Impresora Multifuncional Canon PIXMA TR7550 Negra Wifi de inyección de tinta con Fax y ADF](https://www.amazon.com/dp/B075BMNC5Y/?tag=redken08-20) a 91 EUR (original: 159 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CovDHbsPL._SL200_.jpg)](https://www.amazon.com/dp/B075BMNC5Y/?tag=redken08-20)
 

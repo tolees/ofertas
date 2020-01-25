@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'We Vibe Sync Vibrador para Parejas - 66  al 47.02 % de descuento'
+title: 'We Vibe Sync Vibrador para Parejas - 66 '
 date: 2019/11/07 06:14:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m-qWZL9OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m-qWZL9OL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 189 EUR
 inStock: true
 ---
 
-Está [We Vibe Sync Vibrador para Parejas - 66 gr](https://www.amazon.com/dp/B01LQ1S8MS/?tag=redken08-20) con 47.02 de descuento por 100.14 EUR (original: 189 EUR) en el siguiente enlace!
+Está [We Vibe Sync Vibrador para Parejas - 66 gr](https://www.amazon.com/dp/B01LQ1S8MS/?tag=redken08-20) por 100.14 EUR (original: 189 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41m-qWZL9OL._SL200_.jpg)](https://www.amazon.com/dp/B01LQ1S8MS/?tag=redken08-20)
 

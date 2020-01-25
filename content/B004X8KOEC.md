@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eco Styler Olive Oil Styling Gel 473 ml al 33.39 % de descuento'
+title: 'Eco Styler Olive Oil Styling Gel 473 ml'
 date: 2020-01-16 10:22:16
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 5.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Eco Styler Olive Oil Styling Gel 473 ml](https://www.amazon.com/dp/B004X8KOEC/?tag=redken08-20) a 3.99 GBP (original: 5.99 GBP) (33.39 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Eco Styler Olive Oil Styling Gel 473 ml](https://www.amazon.com/dp/B004X8KOEC/?tag=redken08-20) a 3.99 GBP (original: 5.99 GBP) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B004X8KOEC/?tag=redken08-20)
 

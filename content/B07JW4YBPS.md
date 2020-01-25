@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett London Tie Placket Oxford Camisa al 28.84 % de descuento'
+title: 'Hackett London Tie Placket Oxford Camisa'
 date: 2019/12/04 08:59:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31crcd8-ZQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31crcd8-ZQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hackett London Tie Placket Oxford Camisa  Blanco  White 800   L para Hombre](https://www.amazon.com/dp/B07JW4YBPS/?tag=redken08-20) a 92.51 EUR (original: 130 EUR) (28.84 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Hackett London Tie Placket Oxford Camisa  Blanco  White 800   L para Hombre](https://www.amazon.com/dp/B07JW4YBPS/?tag=redken08-20) a 92.51 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31crcd8-ZQL._SL200_.jpg)](https://www.amazon.com/dp/B07JW4YBPS/?tag=redken08-20)
 

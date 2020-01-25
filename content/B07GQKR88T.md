@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 63.29 % en Bosch Tas1003 Cafetera Monodosis Multibe'
-date: 2020-01-21 15:00:47
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Aj%2BVYj0%2BL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Aj%2BVYj0%2BL._SL200_.jpg' ]
+title: 'Bosch TAS1003 TASSIMO Happy Cafetera de '
+date: 2020-01-25 16:09:24
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Aj+VYj0+L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Aj+VYj0+L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07GQKR88T
 description:
-actualPrice: 29 EUR
-comparePrice: 79 EUR
+actualPrice: 29.0 EUR
+comparePrice: 79.0 EUR
 inStock: true
 ---
 
-Tienes [Bosch Tas1003 Cafetera Monodosis Multibebida  1400 W  0.7 litros  plástico  Rojo/Negro](https://www.amazon.com/dp/B07GQKR88T/?tag=redken08-20) con un 63.29 % de descuento con precio de oferta de 29 EUR (original: 79 EUR) en el siguiente enlace!
+Tienes [Bosch TAS1003 TASSIMO Happy Cafetera de cápsulas  1400 W  color rojo y negro](https://www.amazon.com/dp/B07GQKR88T/?tag=redken08-20) a precio de oferta de 29.0 EUR (original: 79.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41Aj%2BVYj0%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07GQKR88T/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41Aj+VYj0+L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07GQKR88T/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07GQKR88T/?tag=redken08-20)
 

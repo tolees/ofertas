@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neutrogena Visibly Renew Loción Corporal al 34.03 % de descuento'
+title: 'Neutrogena Visibly Renew Loción Corporal'
 date: 2020-01-13 15:56:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21rxFTxcrBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21rxFTxcrBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.6 EUR
 inStock: true
 ---
 
-Está [Neutrogena Visibly Renew Loción Corporal Elasticidad Intensa - 750 ml.](https://www.amazon.com/dp/B06XSSLW4C/?tag=redken08-20) con 34.03 de descuento por 14.25 EUR (original: 21.6 EUR) en el siguiente enlace!
+Está [Neutrogena Visibly Renew Loción Corporal Elasticidad Intensa - 750 ml.](https://www.amazon.com/dp/B06XSSLW4C/?tag=redken08-20) por 14.25 EUR (original: 21.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21rxFTxcrBL._SL200_.jpg)](https://www.amazon.com/dp/B06XSSLW4C/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orlane  Crema diurna facial - 130 ml. al 40.21 % de descuento'
+title: 'Orlane  Crema diurna facial - 130 ml.'
 date: 2019/11/21 02:40:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m5WpuWOtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31m5WpuWOtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Orlane  Crema diurna facial - 130 ml.](https://www.amazon.com/dp/B00XVUQJ9M/?tag=redken08-20) a 59.79 EUR (original: 100 EUR) (40.21 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Orlane  Crema diurna facial - 130 ml.](https://www.amazon.com/dp/B00XVUQJ9M/?tag=redken08-20) a 59.79 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31m5WpuWOtL._SL200_.jpg)](https://www.amazon.com/dp/B00XVUQJ9M/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 501 Long Pantalones Cortos  Azul  al 60.09 % de descuento'
+title: 'Levi s 501 Long Pantalones Cortos  Azul '
 date: 2020-01-19 10:34:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jTczf2Q5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jTczf2Q5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Está [Levi s 501 Long Pantalones Cortos  Azul  Montgomery Stone Wash Short 0012   W32  Talla del Fabricante: 32  para Mujer](https://www.amazon.com/dp/B07KF56CRF/?tag=redken08-20) con 60.09 de descuento por 21.95 EUR (original: 55 EUR) en el siguiente enlace!
+Está [Levi s 501 Long Pantalones Cortos  Azul  Montgomery Stone Wash Short 0012   W32  Talla del Fabricante: 32  para Mujer](https://www.amazon.com/dp/B07KF56CRF/?tag=redken08-20) por 21.95 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jTczf2Q5L._SL200_.jpg)](https://www.amazon.com/dp/B07KF56CRF/?tag=redken08-20)
 

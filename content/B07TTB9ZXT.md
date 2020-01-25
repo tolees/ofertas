@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.67 % en Volante de carreras V900 con pedales y p'
+title: 'Volante de carreras V900 con pedales y p'
 date: 2019/10/09 17:00:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413gK%2BPHasL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413gK%2BPHasL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.99 EUR
 inStock: true
 ---
 
-Tienes [Volante de carreras V900 con pedales y palancas de cambio para multiplataforma](https://www.amazon.com/dp/B07TTB9ZXT/?tag=redken08-20) con un 37.67 % de descuento con precio de oferta de 81.02 EUR (original: 129.99 EUR) en el siguiente enlace!
+Tienes [Volante de carreras V900 con pedales y palancas de cambio para multiplataforma](https://www.amazon.com/dp/B07TTB9ZXT/?tag=redken08-20) a precio de oferta de 81.02 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413gK%2BPHasL._SL200_.jpg)](https://www.amazon.com/dp/B07TTB9ZXT/?tag=redken08-20)
 

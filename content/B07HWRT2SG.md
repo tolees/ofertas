@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant D1 Logo C-Neck Sweat Sudadera  Gris al 56.41 % de descuento'
+title: 'Gant D1 Logo C-Neck Sweat Sudadera  Gris'
 date: 2019/11/12 23:10:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BaUL-lNiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BaUL-lNiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gant D1 Logo C-Neck Sweat Sudadera  Gris  Light Grey Melange 94   158 para Niños](https://www.amazon.com/dp/B07HWRT2SG/?tag=redken08-20) a 30.51 EUR (original: 69.99 EUR) (56.41 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Gant D1 Logo C-Neck Sweat Sudadera  Gris  Light Grey Melange 94   158 para Niños](https://www.amazon.com/dp/B07HWRT2SG/?tag=redken08-20) a 30.51 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BaUL-lNiL._SL200_.jpg)](https://www.amazon.com/dp/B07HWRT2SG/?tag=redken08-20)
 

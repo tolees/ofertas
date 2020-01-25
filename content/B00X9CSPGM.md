@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Larchmont Waterproof  Zapatil al 52.15 % de descuento'
+title: 'Timberland Larchmont Waterproof  Zapatil'
 date: 2020-01-11 21:50:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IB8yU45ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IB8yU45ZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 165 EUR
 inStock: true
 ---
 
-Está [Timberland Larchmont Waterproof  Zapatillas Chukka para Hombre  Marrón  MD Brown Full Grain   40 EU](https://www.amazon.com/dp/B00X9CSPGM/?tag=redken08-20) con 52.15 de descuento por 78.95 EUR (original: 165 EUR) en el siguiente enlace!
+Está [Timberland Larchmont Waterproof  Zapatillas Chukka para Hombre  Marrón  MD Brown Full Grain   40 EU](https://www.amazon.com/dp/B00X9CSPGM/?tag=redken08-20) por 78.95 EUR (original: 165 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IB8yU45ZL._SL200_.jpg)](https://www.amazon.com/dp/B00X9CSPGM/?tag=redken08-20)
 

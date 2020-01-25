@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 27.27 % en BenQ W1090 Proyector 1080P  modo Deporte'
+title: 'BenQ W1090 Proyector 1080P  modo Deporte'
 date: 2019/12/21 10:58:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hG7O7pbxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hG7O7pbxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 659.99 EUR
 inStock: true
 ---
 
-Tienes [BenQ W1090 Proyector 1080P  modo Deporte  pantalla grande de 100" en tan solo 2 5 m  altavoz incorporado de 10 W  2000 lúmenes  DLP ](https://www.amazon.com/dp/B01M0RAYE8/?tag=redken08-20) con un 27.27 % de descuento con precio de oferta de 479.99 EUR (original: 659.99 EUR) en el siguiente enlace!
+Tienes [BenQ W1090 Proyector 1080P  modo Deporte  pantalla grande de 100" en tan solo 2 5 m  altavoz incorporado de 10 W  2000 lúmenes  DLP ](https://www.amazon.com/dp/B01M0RAYE8/?tag=redken08-20) a precio de oferta de 479.99 EUR (original: 659.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31hG7O7pbxL._SL200_.jpg)](https://www.amazon.com/dp/B01M0RAYE8/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nespresso EN550.BM Lattissima Touch Auto al 57.14 % de descuento'
+title: 'Nespresso EN550.BM Lattissima Touch Auto'
 date: 2019/12/13 12:03:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d6tBrPZrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d6tBrPZrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 279.99 GBP
 inStock: true
 ---
 
-Está [Nespresso EN550.BM Lattissima Touch Automatic Coffee Machine  Matt Black](https://www.amazon.com/dp/B013GGO0IC/?tag=redken08-20) con 57.14 de descuento por 119.99 GBP (original: 279.99 GBP) en el siguiente enlace!
+Está [Nespresso EN550.BM Lattissima Touch Automatic Coffee Machine  Matt Black](https://www.amazon.com/dp/B013GGO0IC/?tag=redken08-20) por 119.99 GBP (original: 279.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41d6tBrPZrL._SL200_.jpg)](https://www.amazon.com/dp/B013GGO0IC/?tag=redken08-20)
 

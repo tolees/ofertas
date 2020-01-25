@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.05 % en Verschiedene - Joy-it Camera Module RB-C'
+title: 'Verschiedene - Joy-it Camera Module RB-C'
 date: 2020-01-20 12:15:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M5oDmoeKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M5oDmoeKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 72.08 GBP
 inStock: true
 ---
 
-Tienes [Verschiedene - Joy-it Camera Module RB-Camera-WW](https://www.amazon.com/dp/B01BBZCUI2/?tag=redken08-20) con un 40.05 % de descuento con precio de oferta de 43.21 GBP (original: 72.08 GBP) en el siguiente enlace!
+Tienes [Verschiedene - Joy-it Camera Module RB-Camera-WW](https://www.amazon.com/dp/B01BBZCUI2/?tag=redken08-20) a precio de oferta de 43.21 GBP (original: 72.08 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51M5oDmoeKL._SL200_.jpg)](https://www.amazon.com/dp/B01BBZCUI2/?tag=redken08-20)
 

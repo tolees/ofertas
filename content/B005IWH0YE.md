@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motorola MBP 8 - Vigilabebés audio "plug al 29.76 % de descuento'
+title: 'Motorola MBP 8 - Vigilabebés audio "plug'
 date: 2020-01-13 09:24:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CeOzgoFuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CeOzgoFuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Motorola MBP 8 - Vigilabebés audio "plug-n-go" con modo eco y luz nocturna  color blanco](https://www.amazon.com/dp/B005IWH0YE/?tag=redken08-20) con 29.76 de descuento por 28.09 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Motorola MBP 8 - Vigilabebés audio "plug-n-go" con modo eco y luz nocturna  color blanco](https://www.amazon.com/dp/B005IWH0YE/?tag=redken08-20) por 28.09 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CeOzgoFuL._SL200_.jpg)](https://www.amazon.com/dp/B005IWH0YE/?tag=redken08-20)
 

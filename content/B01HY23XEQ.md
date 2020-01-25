@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Black Rinse Yc al 53.17 % de descuento'
+title: 'Lee Rider Jeans Vaqueros  Black Rinse Yc'
 date: 2019/12/26 10:46:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RELjNt5cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RELjNt5cL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Está [Lee Rider Jeans Vaqueros  Black Rinse Yc47  33W / 30L para Hombre](https://www.amazon.com/dp/B01HY23XEQ/?tag=redken08-20) con 53.17 de descuento por 42.12 EUR (original: 89.95 EUR) en el siguiente enlace!
+Está [Lee Rider Jeans Vaqueros  Black Rinse Yc47  33W / 30L para Hombre](https://www.amazon.com/dp/B01HY23XEQ/?tag=redken08-20) por 42.12 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RELjNt5cL._SL200_.jpg)](https://www.amazon.com/dp/B01HY23XEQ/?tag=redken08-20)
 

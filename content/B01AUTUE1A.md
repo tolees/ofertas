@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Barra De Labios Color 24H  al 75.79 % de descuento'
+title: 'L Oréal Paris Barra De Labios Color 24H '
 date: 2019/12/06 17:09:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eTlCZX2sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eTlCZX2sL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Oréal Paris Barra De Labios Color 24H 1231 Barra De Labios](https://www.amazon.com/dp/B01AUTUE1A/?tag=redken08-20) a 3.51 EUR (original: 14.5 EUR) (75.79 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [L Oréal Paris Barra De Labios Color 24H 1231 Barra De Labios](https://www.amazon.com/dp/B01AUTUE1A/?tag=redken08-20) a 3.51 EUR (original: 14.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31eTlCZX2sL._SL200_.jpg)](https://www.amazon.com/dp/B01AUTUE1A/?tag=redken08-20)
 

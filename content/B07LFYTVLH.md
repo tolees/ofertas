@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Avery C  Zapatillas para Mujer  N al 49.19 % de descuento'
+title: 'Geox D Avery C  Zapatillas para Mujer  N'
 date: 2020-01-21 13:00:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y9Tr-qTGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y9Tr-qTGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Está [Geox D Avery C  Zapatillas para Mujer  Negro  Black C9999   38 EU](https://www.amazon.com/dp/B07LFYTVLH/?tag=redken08-20) con 49.19 de descuento por 50.76 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [Geox D Avery C  Zapatillas para Mujer  Negro  Black C9999   38 EU](https://www.amazon.com/dp/B07LFYTVLH/?tag=redken08-20) por 50.76 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31y9Tr-qTGL._SL200_.jpg)](https://www.amazon.com/dp/B07LFYTVLH/?tag=redken08-20)
 

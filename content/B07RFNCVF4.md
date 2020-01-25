@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Coast Star  Zapatillas para Mujer al 39.96 % de descuento'
+title: 'adidas Coast Star  Zapatillas para Mujer'
 date: 2019/12/02 19:25:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31snfHILBBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31snfHILBBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Coast Star  Zapatillas para Mujer  Blanco  Footwear White/Gold Metallic/Grey 0   38 2/3 EU](https://www.amazon.com/dp/B07RFNCVF4/?tag=redken08-20) a 48 EUR (original: 79.95 EUR) (39.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Coast Star  Zapatillas para Mujer  Blanco  Footwear White/Gold Metallic/Grey 0   38 2/3 EU](https://www.amazon.com/dp/B07RFNCVF4/?tag=redken08-20) a 48 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31snfHILBBL._SL200_.jpg)](https://www.amazon.com/dp/B07RFNCVF4/?tag=redken08-20)
 

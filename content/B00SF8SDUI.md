@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Women s 3301 Low Waist Super  al 71.76 % de descuento'
+title: 'G-STAR RAW Women s 3301 Low Waist Super '
 date: 2019/11/13 07:23:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TZ7Jxr8iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TZ7Jxr8iL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [G-STAR RAW Women s 3301 Low Waist Super Skinny Jeans  Blue  Dk Aged 7047-89   26W / 32L](https://www.amazon.com/dp/B00SF8SDUI/?tag=redken08-20) a 24 GBP (original: 85 GBP) (71.76 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [G-STAR RAW Women s 3301 Low Waist Super Skinny Jeans  Blue  Dk Aged 7047-89   26W / 32L](https://www.amazon.com/dp/B00SF8SDUI/?tag=redken08-20) a 24 GBP (original: 85 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TZ7Jxr8iL._SL200_.jpg)](https://www.amazon.com/dp/B00SF8SDUI/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Clarkdale Gobi  Botas Chelsea par al 63.61 % de descuento'
+title: 'Clarks Clarkdale Gobi  Botas Chelsea par'
 date: 2019/10/26 12:38:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GHFYL47ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GHFYL47ZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Clarks Clarkdale Gobi  Botas Chelsea para Hombre  Grau Taupe Suede  39.5 EU](https://www.amazon.com/dp/B07MQ2JVN5/?tag=redken08-20) con 63.61 de descuento por 54.58 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Clarks Clarkdale Gobi  Botas Chelsea para Hombre  Grau Taupe Suede  39.5 EU](https://www.amazon.com/dp/B07MQ2JVN5/?tag=redken08-20) por 54.58 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GHFYL47ZL._SL200_.jpg)](https://www.amazon.com/dp/B07MQ2JVN5/?tag=redken08-20)
 

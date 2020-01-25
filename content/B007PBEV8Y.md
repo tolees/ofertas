@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Converse Chuck Taylor Core Lea Ox  Zapat al 32.51 % de descuento'
+title: 'Converse Chuck Taylor Core Lea Ox  Zapat'
 date: 2019/10/09 09:01:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xJTEgbSxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xJTEgbSxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Está [Converse Chuck Taylor Core Lea Ox  Zapatillas De Cuero Unisex Adulto  Negro  39.5 EU](https://www.amazon.com/dp/B007PBEV8Y/?tag=redken08-20) con 32.51 de descuento por 53.99 EUR (original: 80 EUR) en el siguiente enlace!
+Está [Converse Chuck Taylor Core Lea Ox  Zapatillas De Cuero Unisex Adulto  Negro  39.5 EU](https://www.amazon.com/dp/B007PBEV8Y/?tag=redken08-20) por 53.99 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31xJTEgbSxL._SL200_.jpg)](https://www.amazon.com/dp/B007PBEV8Y/?tag=redken08-20)
 

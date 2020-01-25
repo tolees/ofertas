@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YUCUN 2.5 Pulgadas SATA III Disco Duro s al 51.11 % de descuento'
+title: 'YUCUN 2.5 Pulgadas SATA III Disco Duro s'
 date: 2019/12/08 17:08:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pFELe1CsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pFELe1CsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 179.99 EUR
 inStock: true
 ---
 
-Está [YUCUN 2.5 Pulgadas SATA III Disco Duro sólido Interno de Estado sólido 1TB SSD](https://www.amazon.com/dp/B07JPFGT78/?tag=redken08-20) con 51.11 de descuento por 87.99 EUR (original: 179.99 EUR) en el siguiente enlace!
+Está [YUCUN 2.5 Pulgadas SATA III Disco Duro sólido Interno de Estado sólido 1TB SSD](https://www.amazon.com/dp/B07JPFGT78/?tag=redken08-20) por 87.99 EUR (original: 179.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31pFELe1CsL._SL200_.jpg)](https://www.amazon.com/dp/B07JPFGT78/?tag=redken08-20)
 

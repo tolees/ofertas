@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 61.56 % en Scotch & Soda Nos Ralston Vaqueros Strai'
+title: 'Scotch & Soda Nos Ralston Vaqueros Strai'
 date: 2020-01-21 00:01:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UAZO0tSrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UAZO0tSrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Tienes [Scotch & Soda Nos Ralston Vaqueros Straight  Azul  Beaten Back 1841   W33/L36 para Hombre](https://www.amazon.com/dp/B07CL5LRRH/?tag=redken08-20) con un 61.56 % de descuento con precio de oferta de 38.42 EUR (original: 99.95 EUR) en el siguiente enlace!
+Tienes [Scotch & Soda Nos Ralston Vaqueros Straight  Azul  Beaten Back 1841   W33/L36 para Hombre](https://www.amazon.com/dp/B07CL5LRRH/?tag=redken08-20) a precio de oferta de 38.42 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31UAZO0tSrL._SL200_.jpg)](https://www.amazon.com/dp/B07CL5LRRH/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange Youth Tonic Logo Camiset al 37.71 % de descuento'
+title: 'Armani Exchange Youth Tonic Logo Camiset'
 date: 2019/11/12 14:25:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AEaZFxNhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AEaZFxNhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Está [Armani Exchange Youth Tonic Logo Camiseta  Verde  June Bug 1843   Medium para Hombre](https://www.amazon.com/dp/B07KMTY8SH/?tag=redken08-20) con 37.71 de descuento por 34.26 EUR (original: 55 EUR) en el siguiente enlace!
+Está [Armani Exchange Youth Tonic Logo Camiseta  Verde  June Bug 1843   Medium para Hombre](https://www.amazon.com/dp/B07KMTY8SH/?tag=redken08-20) por 34.26 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41AEaZFxNhL._SL200_.jpg)](https://www.amazon.com/dp/B07KMTY8SH/?tag=redken08-20)
 

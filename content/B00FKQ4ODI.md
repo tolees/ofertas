@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO: Marvel Super Heroes al 39.68 % de descuento'
+title: 'LEGO: Marvel Super Heroes'
 date: 2019/11/09 18:04:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XNS2tMdcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XNS2tMdcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO: Marvel Super Heroes](https://www.amazon.com/dp/B00FKQ4ODI/?tag=redken08-20) a 24.12 EUR (original: 39.99 EUR) (39.68 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO: Marvel Super Heroes](https://www.amazon.com/dp/B00FKQ4ODI/?tag=redken08-20) a 24.12 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51XNS2tMdcL._SL200_.jpg)](https://www.amazon.com/dp/B00FKQ4ODI/?tag=redken08-20)
 

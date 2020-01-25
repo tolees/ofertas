@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Mujer Essential Hooded Down  al 37.82 % de descuento'
+title: 'Tommy Jeans Mujer Essential Hooded Down '
 date: 2019/11/14 15:56:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yfuw23%2BDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yfuw23%2BDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 209 EUR
 inStock: true
 ---
 
-Está [Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta   Azul  Black Iris 002  Small](https://www.amazon.com/dp/B07JYTVWPD/?tag=redken08-20) con 37.82 de descuento por 129.95 EUR (original: 209 EUR) en el siguiente enlace!
+Está [Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta   Azul  Black Iris 002  Small](https://www.amazon.com/dp/B07JYTVWPD/?tag=redken08-20) por 129.95 EUR (original: 209 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Yfuw23%2BDL._SL200_.jpg)](https://www.amazon.com/dp/B07JYTVWPD/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 35799 Pop! Bobble - Paquete de 2 P al 32.01 % de descuento'
+title: 'Funko 35799 Pop! Bobble - Paquete de 2 P'
 date: 2019/11/23 18:43:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B3xXr-ElL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B3xXr-ElL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32.9 EUR
 inStock: true
 ---
 
-Está [Funko 35799 Pop! Bobble - Paquete de 2 Piezas: Marvel: Movie Moments: Thor vs Thanos  Multi](https://www.amazon.com/dp/B07HBBC1M5/?tag=redken08-20) con 32.01 de descuento por 22.37 EUR (original: 32.9 EUR) en el siguiente enlace!
+Está [Funko 35799 Pop! Bobble - Paquete de 2 Piezas: Marvel: Movie Moments: Thor vs Thanos  Multi](https://www.amazon.com/dp/B07HBBC1M5/?tag=redken08-20) por 22.37 EUR (original: 32.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51B3xXr-ElL._SL200_.jpg)](https://www.amazon.com/dp/B07HBBC1M5/?tag=redken08-20)
 

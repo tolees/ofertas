@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung T835 Galaxy Tab S4 LTE Tablet-PC al 35.44 % de descuento'
+title: 'Samsung T835 Galaxy Tab S4 LTE Tablet-PC'
 date: 2019/12/10 08:40:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KxKhv%2BzAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KxKhv%2BzAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 759 EUR
 inStock: true
 ---
 
-Está [Samsung T835 Galaxy Tab S4 LTE Tablet-PC  4GB RAM  schwarz](https://www.amazon.com/dp/B07G3DHY8C/?tag=redken08-20) con 35.44 de descuento por 490 EUR (original: 759 EUR) en el siguiente enlace!
+Está [Samsung T835 Galaxy Tab S4 LTE Tablet-PC  4GB RAM  schwarz](https://www.amazon.com/dp/B07G3DHY8C/?tag=redken08-20) por 490 EUR (original: 759 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KxKhv%2BzAL._SL200_.jpg)](https://www.amazon.com/dp/B07G3DHY8C/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sniper: Ghost Warrior - Contracts PS4  F al 37.73 % de descuento'
+title: 'Sniper: Ghost Warrior - Contracts PS4  F'
 date: 2019/12/31 11:25:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h%2BCh%2BG%2B3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h%2BCh%2BG%2B3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Sniper: Ghost Warrior - Contracts PS4  French Version ](https://www.amazon.com/dp/B07SRB8MR2/?tag=redken08-20) con 37.73 de descuento por 24.9 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Sniper: Ghost Warrior - Contracts PS4  French Version ](https://www.amazon.com/dp/B07SRB8MR2/?tag=redken08-20) por 24.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51h%2BCh%2BG%2B3L._SL200_.jpg)](https://www.amazon.com/dp/B07SRB8MR2/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ThunderX3 TM20GR- Ratón gaming profesion al 47.05 % de descuento'
+title: 'ThunderX3 TM20GR- Ratón gaming profesion'
 date: 2019/11/27 16:50:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ldzwqHoWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ldzwqHoWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.25 EUR
 inStock: true
 ---
 
-Está [ThunderX3 TM20GR- Ratón gaming profesional- Sensor óptico  Conmutador mecánico Omron  4000 DPI  Personalización absoluta  Base metálica  diseño ergonómico  Color Negro](https://www.amazon.com/dp/B01FY87HIA/?tag=redken08-20) con 47.05 de descuento por 13.9 EUR (original: 26.25 EUR) en el siguiente enlace!
+Está [ThunderX3 TM20GR- Ratón gaming profesional- Sensor óptico  Conmutador mecánico Omron  4000 DPI  Personalización absoluta  Base metálica  diseño ergonómico  Color Negro](https://www.amazon.com/dp/B01FY87HIA/?tag=redken08-20) por 13.9 EUR (original: 26.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ldzwqHoWL._SL200_.jpg)](https://www.amazon.com/dp/B01FY87HIA/?tag=redken08-20)
 

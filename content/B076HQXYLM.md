@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Con18 PES Jkt Sport Jacket  Hombr al 43.96 % de descuento'
+title: 'adidas Con18 PES Jkt Sport Jacket  Hombr'
 date: 2020-01-05 18:50:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rK7-vSBlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rK7-vSBlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [adidas Con18 PES Jkt Sport Jacket  Hombre   Onix/Naranja   M](https://www.amazon.com/dp/B076HQXYLM/?tag=redken08-20) con 43.96 de descuento por 27.99 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [adidas Con18 PES Jkt Sport Jacket  Hombre   Onix/Naranja   M](https://www.amazon.com/dp/B076HQXYLM/?tag=redken08-20) por 27.99 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rK7-vSBlL._SL200_.jpg)](https://www.amazon.com/dp/B076HQXYLM/?tag=redken08-20)
 

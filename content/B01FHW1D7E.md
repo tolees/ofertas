@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 61.30 % en Under Armour UA Secret Society S/S Camis'
+title: 'Under Armour UA Secret Society S/S Camis'
 date: 2019/11/07 10:05:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tV5k7DmAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tV5k7DmAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Tienes [Under Armour UA Secret Society S/S Camiseta Deporte  Hombre  Gris  Rhino Gray   XL](https://www.amazon.com/dp/B01FHW1D7E/?tag=redken08-20) con un 61.30 % de descuento con precio de oferta de 11.59 EUR (original: 29.95 EUR) en el siguiente enlace!
+Tienes [Under Armour UA Secret Society S/S Camiseta Deporte  Hombre  Gris  Rhino Gray   XL](https://www.amazon.com/dp/B01FHW1D7E/?tag=redken08-20) a precio de oferta de 11.59 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tV5k7DmAL._SL200_.jpg)](https://www.amazon.com/dp/B01FHW1D7E/?tag=redken08-20)
 

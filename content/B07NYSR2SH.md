@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interruptor de sensor de infrarrojos  in al 47.89 % de descuento'
+title: 'Interruptor de sensor de infrarrojos  in'
 date: 2019/12/08 23:46:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pq2PsM1mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pq2PsM1mL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.28 EUR
 inStock: true
 ---
 
-Está [Interruptor de sensor de infrarrojos  interruptor de sensor de alta sensibilidad multifuncional para caja de luz de espejo de inducción  sensor de grifo y más  DC12V](https://www.amazon.com/dp/B07NYSR2SH/?tag=redken08-20) con 47.89 de descuento por 6.92 EUR (original: 13.28 EUR) en el siguiente enlace!
+Está [Interruptor de sensor de infrarrojos  interruptor de sensor de alta sensibilidad multifuncional para caja de luz de espejo de inducción  sensor de grifo y más  DC12V](https://www.amazon.com/dp/B07NYSR2SH/?tag=redken08-20) por 6.92 EUR (original: 13.28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pq2PsM1mL._SL200_.jpg)](https://www.amazon.com/dp/B07NYSR2SH/?tag=redken08-20)
 

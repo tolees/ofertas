@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Canasto de tela  alto  cú al 38.61 % de descuento'
+title: 'AmazonBasics - Canasto de tela  alto  cú'
 date: 2019/12/21 19:26:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uQbvgkPBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uQbvgkPBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.59 EUR
 inStock: true
 ---
 
-Está [AmazonBasics - Canasto de tela  alto  cúbico  rosa apagado](https://www.amazon.com/dp/B07QFR6Y1M/?tag=redken08-20) con 38.61 de descuento por 9.57 EUR (original: 15.59 EUR) en el siguiente enlace!
+Está [AmazonBasics - Canasto de tela  alto  cúbico  rosa apagado](https://www.amazon.com/dp/B07QFR6Y1M/?tag=redken08-20) por 9.57 EUR (original: 15.59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31uQbvgkPBL._SL200_.jpg)](https://www.amazon.com/dp/B07QFR6Y1M/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Liga Core Maillot  Hombre  Electric al 46.82 % de descuento'
+title: 'Puma Liga Core Maillot  Hombre  Electric'
 date: 2019/10/21 04:22:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-7nEwIiRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-7nEwIiRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.95 EUR
 inStock: true
 ---
 
-Está [Puma Liga Core Maillot  Hombre  Electric Blue Lemonade/White  3XL](https://www.amazon.com/dp/B079KLQSDQ/?tag=redken08-20) con 46.82 de descuento por 7.95 EUR (original: 14.95 EUR) en el siguiente enlace!
+Está [Puma Liga Core Maillot  Hombre  Electric Blue Lemonade/White  3XL](https://www.amazon.com/dp/B079KLQSDQ/?tag=redken08-20) por 7.95 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-7nEwIiRL._SL200_.jpg)](https://www.amazon.com/dp/B079KLQSDQ/?tag=redken08-20)
 

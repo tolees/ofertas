@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS Max  de 256GB  - Gris es al 30.05 % de descuento'
+title: 'Apple iPhone XS Max  de 256GB  - Gris es'
 date: 2019/12/31 00:12:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1329 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Apple iPhone XS Max  de 256GB  - Gris espacial](https://www.amazon.com/dp/B07HLB8Q8Q/?tag=redken08-20) a 929.65 EUR (original: 1329 EUR) (30.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Apple iPhone XS Max  de 256GB  - Gris espacial](https://www.amazon.com/dp/B07HLB8Q8Q/?tag=redken08-20) a 929.65 EUR (original: 1329 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg)](https://www.amazon.com/dp/B07HLB8Q8Q/?tag=redken08-20)
 

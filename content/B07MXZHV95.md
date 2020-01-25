@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 46.02 % en SALOMON Explore Camiseta  Hombre  Verde '
+title: 'SALOMON Explore Camiseta  Hombre  Verde '
 date: 2019/12/01 13:40:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CRk8U4k7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CRk8U4k7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Tienes [SALOMON Explore Camiseta  Hombre  Verde  Everglade   XXL](https://www.amazon.com/dp/B07MXZHV95/?tag=redken08-20) con un 46.02 % de descuento con precio de oferta de 26.99 EUR (original: 50 EUR) en el siguiente enlace!
+Tienes [SALOMON Explore Camiseta  Hombre  Verde  Everglade   XXL](https://www.amazon.com/dp/B07MXZHV95/?tag=redken08-20) a precio de oferta de 26.99 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CRk8U4k7L._SL200_.jpg)](https://www.amazon.com/dp/B07MXZHV95/?tag=redken08-20)
 

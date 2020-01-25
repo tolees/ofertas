@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Accord Parfait Base de Maq al 52.16 % de descuento'
+title: 'L Oreal Paris Accord Parfait Base de Maq'
 date: 2019/10/17 16:37:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31APQZRfpaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31APQZRfpaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Oreal Paris Accord Parfait Base de Maquillaje con Acabado Natural  Tono Medio 5D Sable Dore - 30 ml](https://www.amazon.com/dp/B015GYR3CW/?tag=redken08-20) a 9.4 EUR (original: 19.65 EUR) (52.16 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [L Oreal Paris Accord Parfait Base de Maquillaje con Acabado Natural  Tono Medio 5D Sable Dore - 30 ml](https://www.amazon.com/dp/B015GYR3CW/?tag=redken08-20) a 9.4 EUR (original: 19.65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31APQZRfpaL._SL200_.jpg)](https://www.amazon.com/dp/B015GYR3CW/?tag=redken08-20)
 

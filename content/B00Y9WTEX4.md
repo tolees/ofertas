@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 59.41 % en Star Wars - Classic Saga Interactive Dar'
+title: 'Star Wars - Classic Saga Interactive Dar'
 date: 2019/11/24 22:01:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TAB0KOuPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TAB0KOuPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169.99 EUR
 inStock: true
 ---
 
-Tienes [Star Wars - Classic Saga Interactive Darth Vader  de 45 cm  Giochi Preziosi 13431   Italiano](https://www.amazon.com/dp/B00Y9WTEX4/?tag=redken08-20) con un 59.41 % de descuento con precio de oferta de 69 EUR (original: 169.99 EUR) en el siguiente enlace!
+Tienes [Star Wars - Classic Saga Interactive Darth Vader  de 45 cm  Giochi Preziosi 13431   Italiano](https://www.amazon.com/dp/B00Y9WTEX4/?tag=redken08-20) a precio de oferta de 69 EUR (original: 169.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TAB0KOuPL._SL200_.jpg)](https://www.amazon.com/dp/B00Y9WTEX4/?tag=redken08-20)
 

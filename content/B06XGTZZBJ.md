@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop Vinyl: Valerian: Da  Multicolo al 65.11 % de descuento'
+title: 'Funko Pop Vinyl: Valerian: Da  Multicolo'
 date: 2019/12/16 13:50:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v8TZqE5yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v8TZqE5yL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop Vinyl: Valerian: Da  Multicolor  10 cm  14340 ](https://www.amazon.com/dp/B06XGTZZBJ/?tag=redken08-20) a 5.23 EUR (original: 14.99 EUR) (65.11 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop Vinyl: Valerian: Da  Multicolor  10 cm  14340 ](https://www.amazon.com/dp/B06XGTZZBJ/?tag=redken08-20) a 5.23 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41v8TZqE5yL._SL200_.jpg)](https://www.amazon.com/dp/B06XGTZZBJ/?tag=redken08-20)
 

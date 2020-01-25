@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Woxter Mic Studio 50  micrófono de Conde al 30.94 % de descuento'
+title: 'Woxter Mic Studio 50  micrófono de Conde'
 date: 2020-01-22 18:02:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GI%2BKRZrTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GI%2BKRZrTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Woxter Mic Studio 50  micrófono de Condensador con conexión USB.](https://www.amazon.com/dp/B079FR7DLH/?tag=redken08-20) a 20.71 EUR (original: 29.99 EUR) (30.94 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Woxter Mic Studio 50  micrófono de Condensador con conexión USB.](https://www.amazon.com/dp/B079FR7DLH/?tag=redken08-20) a 20.71 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GI%2BKRZrTL._SL200_.jpg)](https://www.amazon.com/dp/B079FR7DLH/?tag=redken08-20)
 

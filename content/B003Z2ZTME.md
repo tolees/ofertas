@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Head & Shoulders Champú para Hombres - 2 al 60.26 % de descuento'
+title: 'Head & Shoulders Champú para Hombres - 2'
 date: 2019/11/06 04:42:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AsqVMuM4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AsqVMuM4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.04 EUR
 inStock: true
 ---
 
-Está [Head & Shoulders Champú para Hombres - 250 ml](https://www.amazon.com/dp/B003Z2ZTME/?tag=redken08-20) con 60.26 de descuento por 2.4 EUR (original: 6.04 EUR) en el siguiente enlace!
+Está [Head & Shoulders Champú para Hombres - 250 ml](https://www.amazon.com/dp/B003Z2ZTME/?tag=redken08-20) por 2.4 EUR (original: 6.04 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31AsqVMuM4L._SL200_.jpg)](https://www.amazon.com/dp/B003Z2ZTME/?tag=redken08-20)
 

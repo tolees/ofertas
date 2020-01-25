@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9481 Spielzeug-Maricela al 50.63 % de descuento'
+title: 'Playmobil 9481 Spielzeug-Maricela'
 date: 2020-01-08 15:04:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mhwreooDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mhwreooDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 3.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 9481 Spielzeug-Maricela](https://www.amazon.com/dp/B079MV8VYH/?tag=redken08-20) con 50.63 de descuento por 1.97 EUR (original: 3.99 EUR) en el siguiente enlace!
+Está [Playmobil 9481 Spielzeug-Maricela](https://www.amazon.com/dp/B079MV8VYH/?tag=redken08-20) por 1.97 EUR (original: 3.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51mhwreooDL._SL200_.jpg)](https://www.amazon.com/dp/B079MV8VYH/?tag=redken08-20)
 

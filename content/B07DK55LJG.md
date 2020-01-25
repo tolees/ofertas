@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Jr Alonisso Boy G  Zapatillas Altas al 50.00 % de descuento'
+title: 'Geox Jr Alonisso Boy G  Zapatillas Altas'
 date: 2019/10/20 15:52:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FH6ebljHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FH6ebljHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.9 EUR
 inStock: true
 ---
 
-Está [Geox Jr Alonisso Boy G  Zapatillas Altas para Niños  Azul  Navy/Dk Orange C4218   33 EU](https://www.amazon.com/dp/B07DK55LJG/?tag=redken08-20) con 50.00 de descuento por 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!
+Está [Geox Jr Alonisso Boy G  Zapatillas Altas para Niños  Azul  Navy/Dk Orange C4218   33 EU](https://www.amazon.com/dp/B07DK55LJG/?tag=redken08-20) por 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FH6ebljHL._SL200_.jpg)](https://www.amazon.com/dp/B07DK55LJG/?tag=redken08-20)
 

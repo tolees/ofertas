@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Masters 319 1 SMA  Zapatillas pa al 50.76 % de descuento'
+title: 'Lacoste Masters 319 1 SMA  Zapatillas pa'
 date: 2019/11/22 02:11:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sByXWVKhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sByXWVKhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Masters 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Dk Grn 1r5   40.5 EU](https://www.amazon.com/dp/B07L9TRZBC/?tag=redken08-20) a 48.75 EUR (original: 99 EUR) (50.76 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Masters 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Dk Grn 1r5   40.5 EU](https://www.amazon.com/dp/B07L9TRZBC/?tag=redken08-20) a 48.75 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31sByXWVKhL._SL200_.jpg)](https://www.amazon.com/dp/B07L9TRZBC/?tag=redken08-20)
 

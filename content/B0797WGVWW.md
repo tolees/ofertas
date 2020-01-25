@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Hue White and Color Ambiance Kit al 26.65 % de descuento'
+title: 'Philips Hue White and Color Ambiance Kit'
 date: 2020-01-21 20:35:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LJSsXRc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LJSsXRc9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 149.95 EUR
 inStock: true
 ---
 
-Está [Philips Hue White and Color Ambiance Kit de Inicio 2 Bombillas Y Puente E27  9.5 W  Iluminación Inteligente  Compatible con Amazon Alexa  Apple Homekit y Google Assistant ](https://www.amazon.com/dp/B0797WGVWW/?tag=redken08-20) con 26.65 de descuento por 109.99 EUR (original: 149.95 EUR) en el siguiente enlace!
+Está [Philips Hue White and Color Ambiance Kit de Inicio 2 Bombillas Y Puente E27  9.5 W  Iluminación Inteligente  Compatible con Amazon Alexa  Apple Homekit y Google Assistant ](https://www.amazon.com/dp/B0797WGVWW/?tag=redken08-20) por 109.99 EUR (original: 149.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31LJSsXRc9L._SL200_.jpg)](https://www.amazon.com/dp/B0797WGVWW/?tag=redken08-20)
 

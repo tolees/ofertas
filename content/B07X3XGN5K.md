@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aogled Foco Empotrable LED 5W 400LM 230V al 47.47 % de descuento'
+title: 'Aogled Foco Empotrable LED 5W 400LM 230V'
 date: 2019/11/05 23:20:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517A4L%2BsiOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517A4L%2BsiOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Aogled Foco Empotrable LED 5W 400LM 230V Empotrar Luz en el Techo Blanco Cálido 3000K Redondo Ultra Delgado Tamaño de Orificio Abierto 68mm No Regulable Sin Parpadeo IP44 Downlight Paquete de 5](https://www.amazon.com/dp/B07X3XGN5K/?tag=redken08-20) a 30.99 EUR (original: 59 EUR) (47.47 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Aogled Foco Empotrable LED 5W 400LM 230V Empotrar Luz en el Techo Blanco Cálido 3000K Redondo Ultra Delgado Tamaño de Orificio Abierto 68mm No Regulable Sin Parpadeo IP44 Downlight Paquete de 5](https://www.amazon.com/dp/B07X3XGN5K/?tag=redken08-20) a 30.99 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517A4L%2BsiOL._SL200_.jpg)](https://www.amazon.com/dp/B07X3XGN5K/?tag=redken08-20)
 

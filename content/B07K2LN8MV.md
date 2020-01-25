@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA HOVR Havoc 2  Zapatos de al 79.11 % de descuento'
+title: 'Under Armour UA HOVR Havoc 2  Zapatos de'
 date: 2020-01-03 07:24:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T1yHex2PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T1yHex2PL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 120 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour UA HOVR Havoc 2  Zapatos de Baloncesto para Hombre  Negro  Black/White/Black  002  002   50.5 EU](https://www.amazon.com/dp/B07K2LN8MV/?tag=redken08-20) a 25.07 EUR (original: 120 EUR) (79.11 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA HOVR Havoc 2  Zapatos de Baloncesto para Hombre  Negro  Black/White/Black  002  002   50.5 EU](https://www.amazon.com/dp/B07K2LN8MV/?tag=redken08-20) a 25.07 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41T1yHex2PL._SL200_.jpg)](https://www.amazon.com/dp/B07K2LN8MV/?tag=redken08-20)
 

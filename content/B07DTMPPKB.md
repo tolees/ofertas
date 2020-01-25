@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Bh9193 Chaqueta  Azul  Navy Blue al 53.92 % de descuento'
+title: 'Lacoste Bh9193 Chaqueta  Azul  Navy Blue'
 date: 2019/10/12 09:17:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CFilfyx0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CFilfyx0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 180 EUR
 inStock: true
 ---
 
-Está [Lacoste Bh9193 Chaqueta  Azul  Navy Blue 166   Small  Talla del Fabricante: 48  para Hombre](https://www.amazon.com/dp/B07DTMPPKB/?tag=redken08-20) con 53.92 de descuento por 82.94 EUR (original: 180 EUR) en el siguiente enlace!
+Está [Lacoste Bh9193 Chaqueta  Azul  Navy Blue 166   Small  Talla del Fabricante: 48  para Hombre](https://www.amazon.com/dp/B07DTMPPKB/?tag=redken08-20) por 82.94 EUR (original: 180 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CFilfyx0L._SL200_.jpg)](https://www.amazon.com/dp/B07DTMPPKB/?tag=redken08-20)
 

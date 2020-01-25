@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Caol Ila 15 Unpeated Whisky Escocés - 70 al 25.86 % de descuento'
+title: 'Caol Ila 15 Unpeated Whisky Escocés - 70'
 date: 2019/11/19 08:36:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hyCxTlcIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hyCxTlcIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 111 EUR
 inStock: true
 ---
 
-Está [Caol Ila 15 Unpeated Whisky Escocés - 700 ml](https://www.amazon.com/dp/B07HZP6VFC/?tag=redken08-20) con 25.86 de descuento por 82.3 EUR (original: 111 EUR) en el siguiente enlace!
+Está [Caol Ila 15 Unpeated Whisky Escocés - 700 ml](https://www.amazon.com/dp/B07HZP6VFC/?tag=redken08-20) por 82.3 EUR (original: 111 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hyCxTlcIL._SL200_.jpg)](https://www.amazon.com/dp/B07HZP6VFC/?tag=redken08-20)
 

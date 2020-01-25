@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Core18 PES Jkt Chaqueta  Hombre   al 31.15 % de descuento'
+title: 'adidas Core18 PES Jkt Chaqueta  Hombre  '
 date: 2020-01-20 20:03:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XV6U%2BsMjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XV6U%2BsMjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 23.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Core18 PES Jkt Chaqueta  Hombre  Negro  Black/White   XL](https://www.amazon.com/dp/B076HQRHDH/?tag=redken08-20) a 16.49 EUR (original: 23.95 EUR) (31.15 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Core18 PES Jkt Chaqueta  Hombre  Negro  Black/White   XL](https://www.amazon.com/dp/B076HQRHDH/?tag=redken08-20) a 16.49 EUR (original: 23.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XV6U%2BsMjL._SL200_.jpg)](https://www.amazon.com/dp/B076HQRHDH/?tag=redken08-20)
 

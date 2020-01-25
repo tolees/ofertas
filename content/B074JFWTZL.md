@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Dermo Expertise Arcillas P al 30.15 % de descuento'
+title: 'L Oreal Paris Dermo Expertise Arcillas P'
 date: 2019/10/12 14:28:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31He67YdyUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31He67YdyUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.95 EUR
 inStock: true
 ---
 
-Está [L Oreal Paris Dermo Expertise Arcillas Puras Mascarilla Clarificante - 1 Mascarilla](https://www.amazon.com/dp/B074JFWTZL/?tag=redken08-20) con 30.15 de descuento por 6.95 EUR (original: 9.95 EUR) en el siguiente enlace!
+Está [L Oreal Paris Dermo Expertise Arcillas Puras Mascarilla Clarificante - 1 Mascarilla](https://www.amazon.com/dp/B074JFWTZL/?tag=redken08-20) por 6.95 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31He67YdyUL._SL200_.jpg)](https://www.amazon.com/dp/B074JFWTZL/?tag=redken08-20)
 

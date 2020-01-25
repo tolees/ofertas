@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon Z6 System Digitalkamera Kit 24-70  al 26.39 % de descuento'
+title: 'Nikon Z6 System Digitalkamera Kit 24-70 '
 date: 2019/11/29 20:32:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jcPtJywtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jcPtJywtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 2649 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nikon Z6 System Digitalkamera Kit 24-70 mm 1:4 S + FTZ Bajonettadapter](https://www.amazon.com/dp/B07H2XJ8WM/?tag=redken08-20) a 1950 EUR (original: 2649 EUR) (26.39 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Nikon Z6 System Digitalkamera Kit 24-70 mm 1:4 S + FTZ Bajonettadapter](https://www.amazon.com/dp/B07H2XJ8WM/?tag=redken08-20) a 1950 EUR (original: 2649 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jcPtJywtL._SL200_.jpg)](https://www.amazon.com/dp/B07H2XJ8WM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIU JO Shoes Alexa-Running  Zapatillas p al 44.83 % de descuento'
+title: 'LIU JO Shoes Alexa-Running  Zapatillas p'
 date: 2019/11/10 06:02:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pHHY5PJDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pHHY5PJDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109 EUR
 inStock: true
 ---
 
-Está [LIU JO Shoes Alexa-Running  Zapatillas para Mujer   Black/White 00054   35 EU](https://www.amazon.com/dp/B07L6WW8FF/?tag=redken08-20) con 44.83 de descuento por 60.14 EUR (original: 109 EUR) en el siguiente enlace!
+Está [LIU JO Shoes Alexa-Running  Zapatillas para Mujer   Black/White 00054   35 EU](https://www.amazon.com/dp/B07L6WW8FF/?tag=redken08-20) por 60.14 EUR (original: 109 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pHHY5PJDL._SL200_.jpg)](https://www.amazon.com/dp/B07L6WW8FF/?tag=redken08-20)
 

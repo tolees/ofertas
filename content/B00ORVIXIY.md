@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.07 % en LOMOS mesas de café Finja en Blanco Comp'
+title: 'LOMOS mesas de café Finja en Blanco Comp'
 date: 2019/12/07 20:07:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EwwInLWOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EwwInLWOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Tienes [LOMOS mesas de café Finja en Blanco Compuesto de 2 mesas auxiliares de Madera](https://www.amazon.com/dp/B00ORVIXIY/?tag=redken08-20) con un 30.07 % de descuento con precio de oferta de 69.9 EUR (original: 99.95 EUR) en el siguiente enlace!
+Tienes [LOMOS mesas de café Finja en Blanco Compuesto de 2 mesas auxiliares de Madera](https://www.amazon.com/dp/B00ORVIXIY/?tag=redken08-20) a precio de oferta de 69.9 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EwwInLWOL._SL200_.jpg)](https://www.amazon.com/dp/B00ORVIXIY/?tag=redken08-20)
 

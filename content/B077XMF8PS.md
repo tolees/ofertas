@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA siro 3/4 Camisa de Manga al 52.07 % de descuento'
+title: 'Under Armour UA siro 3/4 Camisa de Manga'
 date: 2019/10/22 14:19:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kmArjzuFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kmArjzuFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Está [Under Armour UA siro 3/4 Camisa de Manga Larga  Hombre  Deceit / / Techno Teal  439   XL](https://www.amazon.com/dp/B077XMF8PS/?tag=redken08-20) con 52.07 de descuento por 21.57 EUR (original: 45 EUR) en el siguiente enlace!
+Está [Under Armour UA siro 3/4 Camisa de Manga Larga  Hombre  Deceit / / Techno Teal  439   XL](https://www.amazon.com/dp/B077XMF8PS/?tag=redken08-20) por 21.57 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kmArjzuFL._SL200_.jpg)](https://www.amazon.com/dp/B077XMF8PS/?tag=redken08-20)
 

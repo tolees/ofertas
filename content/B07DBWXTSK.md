@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma RS-150 Wn s  Zapatillas para Mujer  al 67.35 % de descuento'
+title: 'Puma RS-150 Wn s  Zapatillas para Mujer '
 date: 2019/11/07 10:49:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cg8aPVLtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cg8aPVLtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Puma RS-150 Wn s  Zapatillas para Mujer  Rosa  Mauve Morn-Mauve Morn   37 EU](https://www.amazon.com/dp/B07DBWXTSK/?tag=redken08-20) con 67.35 de descuento por 32.63 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Puma RS-150 Wn s  Zapatillas para Mujer  Rosa  Mauve Morn-Mauve Morn   37 EU](https://www.amazon.com/dp/B07DBWXTSK/?tag=redken08-20) por 32.63 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31cg8aPVLtL._SL200_.jpg)](https://www.amazon.com/dp/B07DBWXTSK/?tag=redken08-20)
 

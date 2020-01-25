@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance ML373  Zapatillas para Hombr al 33.79 % de descuento'
+title: 'New Balance ML373  Zapatillas para Hombr'
 date: 2019/11/22 11:09:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n8-hj6VqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n8-hj6VqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Está [New Balance ML373  Zapatillas para Hombre  Negro  Black Grey   43 EU](https://www.amazon.com/dp/B01M7OSZS8/?tag=redken08-20) con 33.79 de descuento por 52.97 EUR (original: 80 EUR) en el siguiente enlace!
+Está [New Balance ML373  Zapatillas para Hombre  Negro  Black Grey   43 EU](https://www.amazon.com/dp/B01M7OSZS8/?tag=redken08-20) por 52.97 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41n8-hj6VqL._SL200_.jpg)](https://www.amazon.com/dp/B01M7OSZS8/?tag=redken08-20)
 

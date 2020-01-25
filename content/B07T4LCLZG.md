@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Don Algodón  Mochila de mujer escolar  c al 30.02 % de descuento'
+title: 'Don Algodón  Mochila de mujer escolar  c'
 date: 2019/10/29 07:17:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yfFu0cdmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yfFu0cdmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Don Algodón  Mochila de mujer escolar  con estuche](https://www.amazon.com/dp/B07T4LCLZG/?tag=redken08-20) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Don Algodón  Mochila de mujer escolar  con estuche](https://www.amazon.com/dp/B07T4LCLZG/?tag=redken08-20) por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yfFu0cdmL._SL200_.jpg)](https://www.amazon.com/dp/B07T4LCLZG/?tag=redken08-20)
 

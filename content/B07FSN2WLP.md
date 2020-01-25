@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rockport Dress Sport 2 Fast FLT Plain To al 70.26 % de descuento'
+title: 'Rockport Dress Sport 2 Fast FLT Plain To'
 date: 2020-01-16 19:27:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kfaXIQM%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kfaXIQM%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119.82 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rockport Dress Sport 2 Fast FLT Plain Toe  Zapatos de Cordones Derby para Hombre  Negro  41 EU](https://www.amazon.com/dp/B07FSN2WLP/?tag=redken08-20) a 35.63 EUR (original: 119.82 EUR) (70.26 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Rockport Dress Sport 2 Fast FLT Plain Toe  Zapatos de Cordones Derby para Hombre  Negro  41 EU](https://www.amazon.com/dp/B07FSN2WLP/?tag=redken08-20) a 35.63 EUR (original: 119.82 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31kfaXIQM%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07FSN2WLP/?tag=redken08-20)
 

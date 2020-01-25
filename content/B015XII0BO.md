@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ClarksFranson Plain - Derby hombre  Marr al 45.34 % de descuento'
+title: 'ClarksFranson Plain - Derby hombre  Marr'
 date: 2019/12/15 17:09:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zZHUaPbxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zZHUaPbxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ClarksFranson Plain - Derby hombre  Marrón  Brown Nubuck   44.5](https://www.amazon.com/dp/B015XII0BO/?tag=redken08-20) a 54.63 EUR (original: 99.95 EUR) (45.34 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [ClarksFranson Plain - Derby hombre  Marrón  Brown Nubuck   44.5](https://www.amazon.com/dp/B015XII0BO/?tag=redken08-20) a 54.63 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zZHUaPbxL._SL200_.jpg)](https://www.amazon.com/dp/B015XII0BO/?tag=redken08-20)
 

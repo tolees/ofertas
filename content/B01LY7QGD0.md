@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nebulus Chaqueta Avignon Negro L al 85.73 % de descuento'
+title: 'Nebulus Chaqueta Avignon Negro L'
 date: 2019/10/30 22:26:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JwEKhMA-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JwEKhMA-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 179 EUR
 inStock: true
 ---
 
-Está [Nebulus Chaqueta Avignon Negro L](https://www.amazon.com/dp/B01LY7QGD0/?tag=redken08-20) con 85.73 de descuento por 25.55 EUR (original: 179 EUR) en el siguiente enlace!
+Está [Nebulus Chaqueta Avignon Negro L](https://www.amazon.com/dp/B01LY7QGD0/?tag=redken08-20) por 25.55 EUR (original: 179 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JwEKhMA-L._SL200_.jpg)](https://www.amazon.com/dp/B01LY7QGD0/?tag=redken08-20)
 

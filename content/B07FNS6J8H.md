@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE LEGO MOVIE 2 70823 Emmets Dreirad! al 33.96 % de descuento'
+title: 'THE LEGO MOVIE 2 70823 Emmets Dreirad!'
 date: 2019/12/30 21:45:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wfX%2BxsoyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wfX%2BxsoyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [THE LEGO MOVIE 2 70823 Emmets Dreirad!](https://www.amazon.com/dp/B07FNS6J8H/?tag=redken08-20) a 9.9 EUR (original: 14.99 EUR) (33.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [THE LEGO MOVIE 2 70823 Emmets Dreirad!](https://www.amazon.com/dp/B07FNS6J8H/?tag=redken08-20) a 9.9 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wfX%2BxsoyL._SL200_.jpg)](https://www.amazon.com/dp/B07FNS6J8H/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Activewear Leggings Deportivos Mujer   M al 70.00 % de descuento'
+title: 'Activewear Leggings Deportivos Mujer   M'
 date: 2019/11/01 13:06:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sod72kPcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sod72kPcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Activewear Leggings Deportivos Mujer   Morado  Oxblood   42  Talla del Fabricante: Large ](https://www.amazon.com/dp/B06X3T7YMP/?tag=redken08-20) a 9 EUR (original: 30 EUR) (70.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Activewear Leggings Deportivos Mujer   Morado  Oxblood   42  Talla del Fabricante: Large ](https://www.amazon.com/dp/B06X3T7YMP/?tag=redken08-20) a 9 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sod72kPcL._SL200_.jpg)](https://www.amazon.com/dp/B06X3T7YMP/?tag=redken08-20)
 

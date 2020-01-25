@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Max - Estuche con Tres Compar al 50.08 % de descuento'
+title: 'Pepe Jeans Max - Estuche con Tres Compar'
 date: 2019/11/02 00:07:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BPgDTLqfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BPgDTLqfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Max - Estuche con Tres Compartimentos  22 cm  Marrón](https://www.amazon.com/dp/B07NCJJWGG/?tag=redken08-20) con 50.08 de descuento por 9.96 EUR (original: 19.95 EUR) en el siguiente enlace!
+Está [Pepe Jeans Max - Estuche con Tres Compartimentos  22 cm  Marrón](https://www.amazon.com/dp/B07NCJJWGG/?tag=redken08-20) por 9.96 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BPgDTLqfL._SL200_.jpg)](https://www.amazon.com/dp/B07NCJJWGG/?tag=redken08-20)
 

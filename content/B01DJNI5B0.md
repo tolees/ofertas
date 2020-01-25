@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Wmns Court Borough Low  Zapatillas  al 51.68 % de descuento'
+title: 'Nike Wmns Court Borough Low  Zapatillas '
 date: 2019/12/09 10:01:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ntu9RdV9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ntu9RdV9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Wmns Court Borough Low  Zapatillas de Baloncesto Unisex Adulto  Blanco  White   38 EU](https://www.amazon.com/dp/B01DJNI5B0/?tag=redken08-20) a 28.99 EUR (original: 60 EUR) (51.68 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Nike Wmns Court Borough Low  Zapatillas de Baloncesto Unisex Adulto  Blanco  White   38 EU](https://www.amazon.com/dp/B01DJNI5B0/?tag=redken08-20) a 28.99 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ntu9RdV9L._SL200_.jpg)](https://www.amazon.com/dp/B01DJNI5B0/?tag=redken08-20)
 

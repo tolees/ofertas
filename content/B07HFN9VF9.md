@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Lumber Jack Check Shirt C al 47.68 % de descuento'
+title: 'Tommy Hilfiger Lumber Jack Check Shirt C'
 date: 2019/11/15 09:46:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QFHj38rjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QFHj38rjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tommy Hilfiger Lumber Jack Check Shirt Camisa  Rojo  Goji Berry/Multi 902   Medium para Hombre](https://www.amazon.com/dp/B07HFN9VF9/?tag=redken08-20) a 47.04 EUR (original: 89.9 EUR) (47.68 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tommy Hilfiger Lumber Jack Check Shirt Camisa  Rojo  Goji Berry/Multi 902   Medium para Hombre](https://www.amazon.com/dp/B07HFN9VF9/?tag=redken08-20) a 47.04 EUR (original: 89.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QFHj38rjL._SL200_.jpg)](https://www.amazon.com/dp/B07HFN9VF9/?tag=redken08-20)
 

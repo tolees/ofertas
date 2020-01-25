@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 78.74 % en Hudson Dotty Kid Suede  Zapatos de tacón'
+title: 'Hudson Dotty Kid Suede  Zapatos de tacón'
 date: 2019/11/15 12:51:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41unc5tZ7wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41unc5tZ7wL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 132.64 EUR
 inStock: true
 ---
 
-Tienes [Hudson Dotty Kid Suede  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Black 01   39 EU](https://www.amazon.com/dp/B07L6ZZGYQ/?tag=redken08-20) con un 78.74 % de descuento con precio de oferta de 28.2 EUR (original: 132.64 EUR) en el siguiente enlace!
+Tienes [Hudson Dotty Kid Suede  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Black 01   39 EU](https://www.amazon.com/dp/B07L6ZZGYQ/?tag=redken08-20) a precio de oferta de 28.2 EUR (original: 132.64 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41unc5tZ7wL._SL200_.jpg)](https://www.amazon.com/dp/B07L6ZZGYQ/?tag=redken08-20)
 

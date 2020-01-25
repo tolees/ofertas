@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Western Shirt Camisa  Warp Red  L pa al 42.83 % de descuento'
+title: 'Lee Western Shirt Camisa  Warp Red  L pa'
 date: 2019/11/23 03:20:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sWFAYM%2BvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sWFAYM%2BvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Lee Western Shirt Camisa  Warp Red  L para Hombre](https://www.amazon.com/dp/B07N19MGZF/?tag=redken08-20) con 42.83 de descuento por 37.16 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Lee Western Shirt Camisa  Warp Red  L para Hombre](https://www.amazon.com/dp/B07N19MGZF/?tag=redken08-20) por 37.16 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51sWFAYM%2BvL._SL200_.jpg)](https://www.amazon.com/dp/B07N19MGZF/?tag=redken08-20)
 

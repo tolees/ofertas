@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Cars 2: Collector s Edition al 73.08 % de descuento'
+title: 'Project Cars 2: Collector s Edition'
 date: 2019/10/28 15:07:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eGsgqUa4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eGsgqUa4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 160 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Project Cars 2: Collector s Edition](https://www.amazon.com/dp/B072BNFKT4/?tag=redken08-20) a 43.08 EUR (original: 160 EUR) (73.08 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Project Cars 2: Collector s Edition](https://www.amazon.com/dp/B072BNFKT4/?tag=redken08-20) a 43.08 EUR (original: 160 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51eGsgqUa4L._SL200_.jpg)](https://www.amazon.com/dp/B072BNFKT4/?tag=redken08-20)
 

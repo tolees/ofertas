@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Classic CT  Zapatos de Baloncesto  al 50.02 % de descuento'
+title: 'Asics Classic CT  Zapatos de Baloncesto '
 date: 2019/10/08 14:18:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HgEqH3U6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HgEqH3U6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Asics Classic CT  Zapatos de Baloncesto para Hombre   Deep Marosc/Cream 500   44.5 EU](https://www.amazon.com/dp/B07QNS1MLR/?tag=redken08-20) con 50.02 de descuento por 29.99 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Asics Classic CT  Zapatos de Baloncesto para Hombre   Deep Marosc/Cream 500   44.5 EU](https://www.amazon.com/dp/B07QNS1MLR/?tag=redken08-20) por 29.99 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HgEqH3U6L._SL200_.jpg)](https://www.amazon.com/dp/B07QNS1MLR/?tag=redken08-20)
 

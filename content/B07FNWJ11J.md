@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DUPLO 10883 - Mein erster Abschlepp al 32.53 % de descuento'
+title: 'LEGO DUPLO 10883 - Mein erster Abschlepp'
 date: 2020-01-01 09:05:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HpKr03DdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HpKr03DdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO DUPLO 10883 - Mein erster Abschleppwagen](https://www.amazon.com/dp/B07FNWJ11J/?tag=redken08-20) a 6.74 EUR (original: 9.99 EUR) (32.53 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO DUPLO 10883 - Mein erster Abschleppwagen](https://www.amazon.com/dp/B07FNWJ11J/?tag=redken08-20) a 6.74 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51HpKr03DdL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ11J/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Jaylon F  Botas Clasicas para Hom al 44.87 % de descuento'
+title: 'Geox U Jaylon F  Botas Clasicas para Hom'
 date: 2020-01-07 12:10:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YKH7U6kcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YKH7U6kcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 115 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox U Jaylon F  Botas Clasicas para Hombre  Negro  Black C9999   42.5 EU](https://www.amazon.com/dp/B07LFRTWCS/?tag=redken08-20) a 63.4 EUR (original: 115 EUR) (44.87 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox U Jaylon F  Botas Clasicas para Hombre  Negro  Black C9999   42.5 EU](https://www.amazon.com/dp/B07LFRTWCS/?tag=redken08-20) a 63.4 EUR (original: 115 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31YKH7U6kcL._SL200_.jpg)](https://www.amazon.com/dp/B07LFRTWCS/?tag=redken08-20)
 

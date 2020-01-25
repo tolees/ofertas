@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shots Toys Vibrador - 1 unidad al 60.10 % de descuento'
+title: 'Shots Toys Vibrador - 1 unidad'
 date: 2019/10/11 23:27:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EXUuQKWJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EXUuQKWJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 38.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Shots Toys Vibrador - 1 unidad](https://www.amazon.com/dp/B0039TCULQ/?tag=redken08-20) a 15.54 EUR (original: 38.95 EUR) (60.10 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Shots Toys Vibrador - 1 unidad](https://www.amazon.com/dp/B0039TCULQ/?tag=redken08-20) a 15.54 EUR (original: 38.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31EXUuQKWJL._SL200_.jpg)](https://www.amazon.com/dp/B0039TCULQ/?tag=redken08-20)
 

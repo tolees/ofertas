@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toshiba Hayabusa - Memoria USB 2.0 de 64 al 50.30 % de descuento'
+title: 'Toshiba Hayabusa - Memoria USB 2.0 de 64'
 date: 2019/12/29 11:22:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319N17L9I%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319N17L9I%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Está [Toshiba Hayabusa - Memoria USB 2.0 de 64 GB  color blanco](https://www.amazon.com/dp/B016E7EBPM/?tag=redken08-20) con 50.30 de descuento por 9.89 EUR (original: 19.9 EUR) en el siguiente enlace!
+Está [Toshiba Hayabusa - Memoria USB 2.0 de 64 GB  color blanco](https://www.amazon.com/dp/B016E7EBPM/?tag=redken08-20) por 9.89 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319N17L9I%2BL._SL200_.jpg)](https://www.amazon.com/dp/B016E7EBPM/?tag=redken08-20)
 

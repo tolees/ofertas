@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Leg al 64.29 % de descuento'
+title: 'BRIKSMAX Kit de Iluminación Led para Leg'
 date: 2020-01-21 18:52:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zjuigto7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zjuigto7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars PORG Compatible con Ladrillos de Construcción Lego Modelo 75230  Juego de Legos no Incluido](https://www.amazon.com/dp/B07YY1TBTM/?tag=redken08-20) a 24.99 EUR (original: 69.99 EUR) (64.29 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars PORG Compatible con Ladrillos de Construcción Lego Modelo 75230  Juego de Legos no Incluido](https://www.amazon.com/dp/B07YY1TBTM/?tag=redken08-20) a 24.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zjuigto7L._SL200_.jpg)](https://www.amazon.com/dp/B07YY1TBTM/?tag=redken08-20)
 

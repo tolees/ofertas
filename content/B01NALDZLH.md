@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Classic Slip-on Platform  Zapatilla al 40.01 % de descuento'
+title: 'Vans Classic Slip-on Platform  Zapatilla'
 date: 2019/12/05 14:24:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BXi2PBubL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BXi2PBubL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Está [Vans Classic Slip-on Platform  Zapatillas sin Cordones para Mujer  Negro  Black Blk   41 EU](https://www.amazon.com/dp/B01NALDZLH/?tag=redken08-20) con 40.01 de descuento por 44.99 EUR (original: 75 EUR) en el siguiente enlace!
+Está [Vans Classic Slip-on Platform  Zapatillas sin Cordones para Mujer  Negro  Black Blk   41 EU](https://www.amazon.com/dp/B01NALDZLH/?tag=redken08-20) por 44.99 EUR (original: 75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BXi2PBubL._SL200_.jpg)](https://www.amazon.com/dp/B01NALDZLH/?tag=redken08-20)
 

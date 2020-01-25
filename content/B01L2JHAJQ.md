@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste 2000959 Lacoste.12.12 Lady - Rel al 56.00 % de descuento'
+title: 'Lacoste 2000959 Lacoste.12.12 Lady - Rel'
 date: 2019/12/12 06:50:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jtz5DDODL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jtz5DDODL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 125 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste 2000959 Lacoste.12.12 Lady - Reloj analógico de pulsera para mujer](https://www.amazon.com/dp/B01L2JHAJQ/?tag=redken08-20) a 55 EUR (original: 125 EUR) (56.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lacoste 2000959 Lacoste.12.12 Lady - Reloj analógico de pulsera para mujer](https://www.amazon.com/dp/B01L2JHAJQ/?tag=redken08-20) a 55 EUR (original: 125 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Jtz5DDODL._SL200_.jpg)](https://www.amazon.com/dp/B01L2JHAJQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cartier - La Panthère Gel de ducha al 49.24 % de descuento'
+title: 'Cartier - La Panthère Gel de ducha'
 date: 2020-01-12 14:35:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ZNGnoYCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ZNGnoYCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 43.34 EUR
 inStock: true
 ---
 
-Está [Cartier - La Panthère Gel de ducha](https://www.amazon.com/dp/B00IRBB1O8/?tag=redken08-20) con 49.24 de descuento por 22 EUR (original: 43.34 EUR) en el siguiente enlace!
+Está [Cartier - La Panthère Gel de ducha](https://www.amazon.com/dp/B00IRBB1O8/?tag=redken08-20) por 22 EUR (original: 43.34 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411ZNGnoYCL._SL200_.jpg)](https://www.amazon.com/dp/B00IRBB1O8/?tag=redken08-20)
 

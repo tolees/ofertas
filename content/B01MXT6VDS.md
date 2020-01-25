@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Rapid  Zapatillas de Runnin al 50.91 % de descuento'
+title: 'Under Armour Rapid  Zapatillas de Runnin'
 date: 2019/11/26 11:26:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HGfC3RJRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HGfC3RJRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Está [Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Black/Black/Anthracite  004  004   42.5 EU](https://www.amazon.com/dp/B01MXT6VDS/?tag=redken08-20) con 50.91 de descuento por 27 EUR (original: 55 EUR) en el siguiente enlace!
+Está [Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Black/Black/Anthracite  004  004   42.5 EU](https://www.amazon.com/dp/B01MXT6VDS/?tag=redken08-20) por 27 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HGfC3RJRL._SL200_.jpg)](https://www.amazon.com/dp/B01MXT6VDS/?tag=redken08-20)
 

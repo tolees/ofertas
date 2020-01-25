@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas 3ª Equipación Valencia CF Camiset al 25.03 % de descuento'
+title: 'adidas 3ª Equipación Valencia CF Camiset'
 date: 2019/12/11 18:09:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4113f2OCg8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4113f2OCg8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 23.65 EUR
 inStock: true
 ---
 
-Está [adidas 3ª Equipación Valencia CF Camiseta  Hombre  Naranja  Narsol   XL](https://www.amazon.com/dp/B01HZESFXC/?tag=redken08-20) con 25.03 de descuento por 17.73 EUR (original: 23.65 EUR) en el siguiente enlace!
+Está [adidas 3ª Equipación Valencia CF Camiseta  Hombre  Naranja  Narsol   XL](https://www.amazon.com/dp/B01HZESFXC/?tag=redken08-20) por 17.73 EUR (original: 23.65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4113f2OCg8L._SL200_.jpg)](https://www.amazon.com/dp/B01HZESFXC/?tag=redken08-20)
 

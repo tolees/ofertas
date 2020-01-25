@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samyang F1220510101 - Objetivo fotográfi al 32.57 % de descuento'
+title: 'Samyang F1220510101 - Objetivo fotográfi'
 date: 2019/10/27 08:49:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qQoRCC3TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qQoRCC3TL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 369 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samyang F1220510101 - Objetivo fotográfico CSC-Mirrorless para Fuji X  Distancia Focal Fija 12mm  Apertura f/2-22 NCS CS  diámetro Filtro: 67mm   Negro](https://www.amazon.com/dp/B00MSVTLBS/?tag=redken08-20) a 248.83 EUR (original: 369 EUR) (32.57 %  de descuento) en el siguiente enlace!
+Tienes [Samyang F1220510101 - Objetivo fotográfico CSC-Mirrorless para Fuji X  Distancia Focal Fija 12mm  Apertura f/2-22 NCS CS  diámetro Filtro: 67mm   Negro](https://www.amazon.com/dp/B00MSVTLBS/?tag=redken08-20) a precio de oferta de 248.83 EUR (original: 369 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qQoRCC3TL._SL200_.jpg)](https://www.amazon.com/dp/B00MSVTLBS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00MSVTLBS/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00MSVTLBS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

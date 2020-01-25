@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lower East LE156 T-Shirt  Weiß/Grau Mela al 30.19 % de descuento'
+title: 'Lower East LE156 T-Shirt  Weiß/Grau Mela'
 date: 2019/12/15 12:49:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c3J1i-ROL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c3J1i-ROL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.95 EUR
 inStock: true
 ---
 
-Está [Lower East LE156 T-Shirt  Weiß/Grau Melange/Forged Iron/Schwarz/Rot  S  5er-Pack](https://www.amazon.com/dp/B07P8SGD7P/?tag=redken08-20) con 30.19 de descuento por 20.21 EUR (original: 28.95 EUR) en el siguiente enlace!
+Está [Lower East LE156 T-Shirt  Weiß/Grau Melange/Forged Iron/Schwarz/Rot  S  5er-Pack](https://www.amazon.com/dp/B07P8SGD7P/?tag=redken08-20) por 20.21 EUR (original: 28.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31c3J1i-ROL._SL200_.jpg)](https://www.amazon.com/dp/B07P8SGD7P/?tag=redken08-20)
 

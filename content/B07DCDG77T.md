@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Ebernon Mid  Zapatillas Altas para  al 29.23 % de descuento'
+title: 'Nike Ebernon Mid  Zapatillas Altas para '
 date: 2019/12/20 11:14:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41giSAPuNwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41giSAPuNwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 73.46 EUR
 inStock: true
 ---
 
-Está [Nike Ebernon Mid  Zapatillas Altas para Mujer  Negro  Black/White 001   37.5 EU](https://www.amazon.com/dp/B07DCDG77T/?tag=redken08-20) con 29.23 de descuento por 51.99 EUR (original: 73.46 EUR) en el siguiente enlace!
+Está [Nike Ebernon Mid  Zapatillas Altas para Mujer  Negro  Black/White 001   37.5 EU](https://www.amazon.com/dp/B07DCDG77T/?tag=redken08-20) por 51.99 EUR (original: 73.46 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41giSAPuNwL._SL200_.jpg)](https://www.amazon.com/dp/B07DCDG77T/?tag=redken08-20)
 

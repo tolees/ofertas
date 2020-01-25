@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bang & Olufsen 1297880 Beoplay A1 Blueto al 48.00 % de descuento'
+title: 'Bang & Olufsen 1297880 Beoplay A1 Blueto'
 date: 2019/11/29 19:12:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516s2HsjSVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516s2HsjSVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 250 EUR
 inStock: true
 ---
 
-Está [Bang & Olufsen 1297880 Beoplay A1 Bluetooth Lautsprecher  Wetterfest  sand stone](https://www.amazon.com/dp/B06XDJF59H/?tag=redken08-20) con 48.00 de descuento por 129.99 EUR (original: 250 EUR) en el siguiente enlace!
+Está [Bang & Olufsen 1297880 Beoplay A1 Bluetooth Lautsprecher  Wetterfest  sand stone](https://www.amazon.com/dp/B06XDJF59H/?tag=redken08-20) por 129.99 EUR (original: 250 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516s2HsjSVL._SL200_.jpg)](https://www.amazon.com/dp/B06XDJF59H/?tag=redken08-20)
 

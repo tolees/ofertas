@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D-link DCS-5020L/E - Cámara de vigilanci al 66.21 % de descuento'
+title: 'D-link DCS-5020L/E - Cámara de vigilanci'
 date: 2019/11/02 13:04:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e5QeygNkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e5QeygNkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 147.9 EUR
 inStock: true
 ---
 
-Está [D-link DCS-5020L/E - Cámara de vigilancia en domo WiFi de 0.3 Mp  blanco](https://www.amazon.com/dp/B00D4EBCHY/?tag=redken08-20) con 66.21 de descuento por 49.97 EUR (original: 147.9 EUR) en el siguiente enlace!
+Está [D-link DCS-5020L/E - Cámara de vigilancia en domo WiFi de 0.3 Mp  blanco](https://www.amazon.com/dp/B00D4EBCHY/?tag=redken08-20) por 49.97 EUR (original: 147.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41e5QeygNkL._SL200_.jpg)](https://www.amazon.com/dp/B00D4EBCHY/?tag=redken08-20)
 

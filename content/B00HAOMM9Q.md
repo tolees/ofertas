@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Science4you - Fábrica de jabones - jugue al 25.21 % de descuento'
+title: 'Science4you - Fábrica de jabones - jugue'
 date: 2019/11/28 06:45:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513azLHzEQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513azLHzEQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Science4you - Fábrica de jabones - juguete científico y educativo.](https://www.amazon.com/dp/B00HAOMM9Q/?tag=redken08-20) con 25.21 de descuento por 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Science4you - Fábrica de jabones - juguete científico y educativo.](https://www.amazon.com/dp/B00HAOMM9Q/?tag=redken08-20) por 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513azLHzEQL._SL200_.jpg)](https://www.amazon.com/dp/B00HAOMM9Q/?tag=redken08-20)
 

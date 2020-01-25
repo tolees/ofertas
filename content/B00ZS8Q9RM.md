@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Shoes ADYS700071  Zapatilla Hombre  N al 37.66 % de descuento'
+title: 'DC Shoes ADYS700071  Zapatilla Hombre  N'
 date: 2020-01-24 19:23:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hIfxCgfKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hIfxCgfKL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85.0 EUR
 inStock: true
 ---
 
-Está [DC Shoes ADYS700071  Zapatilla Hombre  Negro  Black/White Bkw   40.5 EU](https://www.amazon.com/dp/B00ZS8Q9RM/?tag=redken08-20) con 37.66 de descuento por 52.99 EUR (original: 85.0 EUR) en el siguiente enlace!
+Está [DC Shoes ADYS700071  Zapatilla Hombre  Negro  Black/White Bkw   40.5 EU](https://www.amazon.com/dp/B00ZS8Q9RM/?tag=redken08-20) por 52.99 EUR (original: 85.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31hIfxCgfKL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00ZS8Q9RM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Taladro  G★LAXIA 510W Taladro Eléctrico  al 30.01 % de descuento'
+title: 'Taladro  G★LAXIA 510W Taladro Eléctrico '
 date: 2019/11/16 10:17:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jBqLyfp9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jBqLyfp9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Taladro  G★LAXIA 510W Taladro Eléctrico  0-3000RPM Velocidad Variable  Portabroca de 10mm  Función Horizontal  Botón de Bloqueo de Velocidad](https://www.amazon.com/dp/B07QXVWGKG/?tag=redken08-20) con 30.01 de descuento por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Taladro  G★LAXIA 510W Taladro Eléctrico  0-3000RPM Velocidad Variable  Portabroca de 10mm  Función Horizontal  Botón de Bloqueo de Velocidad](https://www.amazon.com/dp/B07QXVWGKG/?tag=redken08-20) por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51jBqLyfp9L._SL200_.jpg)](https://www.amazon.com/dp/B07QXVWGKG/?tag=redken08-20)
 

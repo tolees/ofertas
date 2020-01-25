@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The walking dead  8ª temporada  [Blu-ray al 38.45 % de descuento'
+title: 'The walking dead  8ª temporada  [Blu-ray'
 date: 2019/11/26 19:25:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QffScnuNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QffScnuNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.1 EUR
 inStock: true
 ---
 
-Está [The walking dead  8ª temporada  [Blu-ray]](https://www.amazon.com/dp/B07FDMZ24K/?tag=redken08-20) con 38.45 de descuento por 20.99 EUR (original: 34.1 EUR) en el siguiente enlace!
+Está [The walking dead  8ª temporada  [Blu-ray]](https://www.amazon.com/dp/B07FDMZ24K/?tag=redken08-20) por 20.99 EUR (original: 34.1 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QffScnuNL._SL200_.jpg)](https://www.amazon.com/dp/B07FDMZ24K/?tag=redken08-20)
 

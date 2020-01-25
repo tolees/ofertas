@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES PREMIUM Jprcarl Band Shirt  al 69.99 % de descuento'
+title: 'JACK & JONES PREMIUM Jprcarl Band Shirt '
 date: 2019/10/17 09:49:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411A5SxRNGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411A5SxRNGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES PREMIUM Jprcarl Band Shirt L/s One Pocket Camisa   Flag Slim Fit   Medium para Hombre](https://www.amazon.com/dp/B07NPY6LQQ/?tag=redken08-20) a 12 EUR (original: 39.99 EUR) (69.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES PREMIUM Jprcarl Band Shirt L/s One Pocket Camisa   Flag Slim Fit   Medium para Hombre](https://www.amazon.com/dp/B07NPY6LQQ/?tag=redken08-20) a 12 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411A5SxRNGL._SL200_.jpg)](https://www.amazon.com/dp/B07NPY6LQQ/?tag=redken08-20)
 

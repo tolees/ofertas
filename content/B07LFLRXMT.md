@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Women s 315 Shaping Boot Bootcut  al 63.25 % de descuento'
+title: 'Levi s Women s 315 Shaping Boot Bootcut '
 date: 2019/11/30 15:41:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XwqknuTOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XwqknuTOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 GBP
 inStock: true
 ---
 
-Está [Levi s Women s 315 Shaping Boot Bootcut Jeans  Blue  London Bridge 0055   W32/L32  Size 32 ](https://www.amazon.com/dp/B07LFLRXMT/?tag=redken08-20) con 63.25 de descuento por 29.4 GBP (original: 80 GBP) en el siguiente enlace!
+Está [Levi s Women s 315 Shaping Boot Bootcut Jeans  Blue  London Bridge 0055   W32/L32  Size 32 ](https://www.amazon.com/dp/B07LFLRXMT/?tag=redken08-20) por 29.4 GBP (original: 80 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XwqknuTOL._SL200_.jpg)](https://www.amazon.com/dp/B07LFLRXMT/?tag=redken08-20)
 

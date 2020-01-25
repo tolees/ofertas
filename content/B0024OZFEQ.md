@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 71.77 % en Alpen 9084090 Estuche Brocas Alpen Kombi'
+title: 'Alpen 9084090 Estuche Brocas Alpen Kombi'
 date: 2019/10/30 15:11:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nMCBPs2JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nMCBPs2JL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 31.99 EUR
 inStock: true
 ---
 
-Tienes [Alpen 9084090 Estuche Brocas Alpen Kombiset 16 Piezas](https://www.amazon.com/dp/B0024OZFEQ/?tag=redken08-20) con un 71.77 % de descuento con precio de oferta de 9.03 EUR (original: 31.99 EUR) en el siguiente enlace!
+Tienes [Alpen 9084090 Estuche Brocas Alpen Kombiset 16 Piezas](https://www.amazon.com/dp/B0024OZFEQ/?tag=redken08-20) a precio de oferta de 9.03 EUR (original: 31.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51nMCBPs2JL._SL200_.jpg)](https://www.amazon.com/dp/B0024OZFEQ/?tag=redken08-20)
 

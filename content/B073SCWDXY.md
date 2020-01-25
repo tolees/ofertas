@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Sudadera Detroit para Hombre  Azul al 37.00 % de descuento'
+title: 'find. Sudadera Detroit para Hombre  Azul'
 date: 2019/12/13 15:18:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wJfRlcJyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wJfRlcJyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Sudadera Detroit para Hombre  Azul  Navy 001   X-Large](https://www.amazon.com/dp/B073SCWDXY/?tag=redken08-20) a 17.64 EUR (original: 28 EUR) (37.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [find. Sudadera Detroit para Hombre  Azul  Navy 001   X-Large](https://www.amazon.com/dp/B073SCWDXY/?tag=redken08-20) a 17.64 EUR (original: 28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wJfRlcJyL._SL200_.jpg)](https://www.amazon.com/dp/B073SCWDXY/?tag=redken08-20)
 

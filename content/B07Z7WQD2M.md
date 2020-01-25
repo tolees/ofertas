@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Álvarez Gómez - Flores Mediterráneas Ver al 50.13 % de descuento'
+title: 'Álvarez Gómez - Flores Mediterráneas Ver'
 date: 2020-01-21 02:54:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2B7zil8uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f%2B7zil8uL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Álvarez Gómez - Flores Mediterráneas Verbena y Azahar  Agua de Colonia - Frasco de 150 ml](https://www.amazon.com/dp/B07Z7WQD2M/?tag=redken08-20) a 9.95 EUR (original: 19.95 EUR) (50.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Álvarez Gómez - Flores Mediterráneas Verbena y Azahar  Agua de Colonia - Frasco de 150 ml](https://www.amazon.com/dp/B07Z7WQD2M/?tag=redken08-20) a 9.95 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41f%2B7zil8uL._SL200_.jpg)](https://www.amazon.com/dp/B07Z7WQD2M/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA M Locker III SL  Negro   al 40.95 % de descuento'
+title: 'Under Armour UA M Locker III SL  Negro  '
 date: 2020-01-22 11:41:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dMknW8y%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dMknW8y%2BL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 22 EUR
 inStock: true
 ---
 
-Está [Under Armour UA M Locker III SL  Negro  44 EU](https://www.amazon.com/dp/B01GSWXFFA/?tag=redken08-20) con 40.95 de descuento por 12.99 EUR (original: 22 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA M Locker III SL  Negro  44 EU](https://www.amazon.com/dp/B01GSWXFFA/?tag=redken08-20) a 12.99 EUR (original: 22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dMknW8y%2BL._SL200_.jpg)](https://www.amazon.com/dp/B01GSWXFFA/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01GSWXFFA/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01GSWXFFA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

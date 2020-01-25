@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon 1074C013 PowerShot SX620 HS Digita al 32.27 % de descuento'
+title: 'Canon 1074C013 PowerShot SX620 HS Digita'
 date: 2019/12/03 06:48:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41upzftrFPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41upzftrFPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 219.99 GBP
 inStock: true
 ---
 
-Está [Canon 1074C013 PowerShot SX620 HS Digital Camera - White](https://www.amazon.com/dp/B01FTV3YXO/?tag=redken08-20) con 32.27 de descuento por 149 GBP (original: 219.99 GBP) en el siguiente enlace!
+Está [Canon 1074C013 PowerShot SX620 HS Digital Camera - White](https://www.amazon.com/dp/B01FTV3YXO/?tag=redken08-20) por 149 GBP (original: 219.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41upzftrFPL._SL200_.jpg)](https://www.amazon.com/dp/B01FTV3YXO/?tag=redken08-20)
 

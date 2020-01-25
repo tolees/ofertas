@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puig Azur Edt Vapo 200 Ml 1 Unidad 1200  al 46.23 % de descuento'
+title: 'Puig Azur Edt Vapo 200 Ml 1 Unidad 1200 '
 date: 2019/10/23 23:39:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TvODUD-dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TvODUD-dL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puig Azur Edt Vapo 200 Ml 1 Unidad 1200 g](https://www.amazon.com/dp/B07CKMZ1QJ/?tag=redken08-20) a 10.2 EUR (original: 18.97 EUR) (46.23 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Puig Azur Edt Vapo 200 Ml 1 Unidad 1200 g](https://www.amazon.com/dp/B07CKMZ1QJ/?tag=redken08-20) a 10.2 EUR (original: 18.97 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TvODUD-dL._SL200_.jpg)](https://www.amazon.com/dp/B07CKMZ1QJ/?tag=redken08-20)
 

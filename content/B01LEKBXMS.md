@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 41.22 % en Rimmel London  Lápiz de ojos - 1 Unidad'
+title: 'Rimmel London  Lápiz de ojos - 1 Unidad'
 date: 2019/12/13 04:04:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vPzoQmmGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vPzoQmmGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9 EUR
 inStock: true
 ---
 
-Tienes [Rimmel London  Lápiz de ojos - 1 Unidad](https://www.amazon.com/dp/B01LEKBXMS/?tag=redken08-20) con un 41.22 % de descuento con precio de oferta de 5.29 EUR (original: 9 EUR) en el siguiente enlace!
+Tienes [Rimmel London  Lápiz de ojos - 1 Unidad](https://www.amazon.com/dp/B01LEKBXMS/?tag=redken08-20) a precio de oferta de 5.29 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vPzoQmmGL._SL200_.jpg)](https://www.amazon.com/dp/B01LEKBXMS/?tag=redken08-20)
 

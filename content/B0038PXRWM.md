@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lifeventure Unisex s Soap Leaves x 50 Tr al 29.80 % de descuento'
+title: 'Lifeventure Unisex s Soap Leaves x 50 Tr'
 date: 2020-01-16 08:59:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NWh0IAxfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NWh0IAxfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 3.49 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Lifeventure Unisex s Soap Leaves x 50 Travel  White  Small](https://www.amazon.com/dp/B0038PXRWM/?tag=redken08-20) a 2.45 GBP (original: 3.49 GBP) (29.80 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lifeventure Unisex s Soap Leaves x 50 Travel  White  Small](https://www.amazon.com/dp/B0038PXRWM/?tag=redken08-20) a 2.45 GBP (original: 3.49 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31NWh0IAxfL._SL200_.jpg)](https://www.amazon.com/dp/B0038PXRWM/?tag=redken08-20)
 

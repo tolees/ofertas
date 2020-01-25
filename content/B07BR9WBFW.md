@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Qsan XCubeNAS XN3004T - Cabina de Almace al 94.02 % de descuento'
+title: 'Qsan XCubeNAS XN3004T - Cabina de Almace'
 date: 2020-01-16 08:52:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/219G11yGVNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/219G11yGVNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12516.14 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Qsan XCubeNAS XN3004T - Cabina de Almacenamiento  Color Negro](https://www.amazon.com/dp/B07BR9WBFW/?tag=redken08-20) a 747.87 EUR (original: 12516.14 EUR) (94.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Qsan XCubeNAS XN3004T - Cabina de Almacenamiento  Color Negro](https://www.amazon.com/dp/B07BR9WBFW/?tag=redken08-20) a 747.87 EUR (original: 12516.14 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/219G11yGVNL._SL200_.jpg)](https://www.amazon.com/dp/B07BR9WBFW/?tag=redken08-20)
 

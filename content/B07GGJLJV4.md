@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 34.92 % en Pepe Jeans Art Camiseta  Gris  Grey Marl'
+title: 'Pepe Jeans Art Camiseta  Gris  Grey Marl'
 date: 2019/10/10 08:47:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4131LHn6-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4131LHn6-8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Tienes [Pepe Jeans Art Camiseta  Gris  Grey Marl 933   9-10 años  Talla del Fabricante: 10  para Niños](https://www.amazon.com/dp/B07GGJLJV4/?tag=redken08-20) con un 34.92 % de descuento con precio de oferta de 12.95 EUR (original: 19.9 EUR) en el siguiente enlace!
+Tienes [Pepe Jeans Art Camiseta  Gris  Grey Marl 933   9-10 años  Talla del Fabricante: 10  para Niños](https://www.amazon.com/dp/B07GGJLJV4/?tag=redken08-20) a precio de oferta de 12.95 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4131LHn6-8L._SL200_.jpg)](https://www.amazon.com/dp/B07GGJLJV4/?tag=redken08-20)
 

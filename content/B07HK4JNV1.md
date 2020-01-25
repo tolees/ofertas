@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xiaomi Redmi Note 6 Pro Smartphone de 6. al 27.71 % de descuento'
+title: 'Xiaomi Redmi Note 6 Pro Smartphone de 6.'
 date: 2020-01-24 10:32:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vxJoiB8YL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vxJoiB8YL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 249.0 EUR
 inStock: true
 ---
 
-Está [Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20) con 27.71 de descuento por 179.99 EUR (original: 249.0 EUR) en el siguiente enlace!
+Está [Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20) por 179.99 EUR (original: 249.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vxJoiB8YL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20)
 

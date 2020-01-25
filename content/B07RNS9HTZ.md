@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair M55 RGB Pro  Ratón Óptico  Tamañ al 33.89 % de descuento'
+title: 'Corsair M55 RGB Pro  Ratón Óptico  Tamañ'
 date: 2020-01-11 12:32:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SejFxwE2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SejFxwE2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Corsair M55 RGB Pro  Ratón Óptico  Tamaño Único  Negro](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20) con 33.89 de descuento por 33.05 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Corsair M55 RGB Pro  Ratón Óptico  Tamaño Único  Negro](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20) por 33.05 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31SejFxwE2L._SL200_.jpg)](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20)
 

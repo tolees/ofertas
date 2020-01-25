@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fila Morro Bay Slipper W Chanclas Pompei al 28.94 % de descuento'
+title: 'Fila Morro Bay Slipper W Chanclas Pompei'
 date: 2019/12/03 15:42:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n6H5LDDyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n6H5LDDyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 23.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Fila Morro Bay Slipper W Chanclas Pompeian Red](https://www.amazon.com/dp/B07MZ9JGQS/?tag=redken08-20) a 17.02 EUR (original: 23.95 EUR) (28.94 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Fila Morro Bay Slipper W Chanclas Pompeian Red](https://www.amazon.com/dp/B07MZ9JGQS/?tag=redken08-20) a 17.02 EUR (original: 23.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41n6H5LDDyL._SL200_.jpg)](https://www.amazon.com/dp/B07MZ9JGQS/?tag=redken08-20)
 

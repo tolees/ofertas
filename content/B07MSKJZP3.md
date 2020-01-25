@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Ashcroft Plain  Zapatos de Cordon al 52.20 % de descuento'
+title: 'Clarks Ashcroft Plain  Zapatos de Cordon'
 date: 2019/11/10 01:15:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qOUcewN0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qOUcewN0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Está [Clarks Ashcroft Plain  Zapatos de Cordones Brogue para Hombre  Negro Black Leather  42 EU](https://www.amazon.com/dp/B07MSKJZP3/?tag=redken08-20) con 52.20 de descuento por 43 EUR (original: 89.95 EUR) en el siguiente enlace!
+Está [Clarks Ashcroft Plain  Zapatos de Cordones Brogue para Hombre  Negro Black Leather  42 EU](https://www.amazon.com/dp/B07MSKJZP3/?tag=redken08-20) por 43 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31qOUcewN0L._SL200_.jpg)](https://www.amazon.com/dp/B07MSKJZP3/?tag=redken08-20)
 

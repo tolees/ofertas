@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Estro 19 JSY T-Shirt  Niños  Whit al 39.87 % de descuento'
+title: 'adidas Estro 19 JSY T-Shirt  Niños  Whit'
 date: 2019/12/15 17:09:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Estro 19 JSY T-Shirt  Niños  White  L](https://www.amazon.com/dp/B07K1BT4MK/?tag=redken08-20) a 8.99 EUR (original: 14.95 EUR) (39.87 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Estro 19 JSY T-Shirt  Niños  White  L](https://www.amazon.com/dp/B07K1BT4MK/?tag=redken08-20) a 8.99 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL200_.jpg)](https://www.amazon.com/dp/B07K1BT4MK/?tag=redken08-20)
 

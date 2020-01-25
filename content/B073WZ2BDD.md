@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.10 % en Rimmel London Magnifeyes Palette Blush E'
+title: 'Rimmel London Magnifeyes Palette Blush E'
 date: 2020-01-04 09:05:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41puOj2k-IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41puOj2k-IL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 10 EUR
 inStock: true
 ---
 
-Tienes [Rimmel London Magnifeyes Palette Blush Edition Paleta de Sombras Tono 2 - 14.16 gr](https://www.amazon.com/dp/B073WZ2BDD/?tag=redken08-20) con un 36.10 % de descuento con precio de oferta de 6.39 EUR (original: 10 EUR) en el siguiente enlace!
+Tienes [Rimmel London Magnifeyes Palette Blush Edition Paleta de Sombras Tono 2 - 14.16 gr](https://www.amazon.com/dp/B073WZ2BDD/?tag=redken08-20) a precio de oferta de 6.39 EUR (original: 10 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41puOj2k-IL._SL200_.jpg)](https://www.amazon.com/dp/B073WZ2BDD/?tag=redken08-20)
 

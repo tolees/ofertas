@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga al 59.49 % de descuento'
+title: 'Superga'
 date: 2019/11/12 03:03:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MHmRRAXLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MHmRRAXLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superga](https://www.amazon.com/dp/B00TKLTENY/?tag=redken08-20) a 32 EUR (original: 79 EUR) (59.49 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Superga](https://www.amazon.com/dp/B00TKLTENY/?tag=redken08-20) a 32 EUR (original: 79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MHmRRAXLL._SL200_.jpg)](https://www.amazon.com/dp/B00TKLTENY/?tag=redken08-20)
 

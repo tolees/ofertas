@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volcom Frickin MDRN STCH 19 Shorts  Homb al 52.98 % de descuento'
+title: 'Volcom Frickin MDRN STCH 19 Shorts  Homb'
 date: 2019/11/11 19:13:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lwe8HxFDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lwe8HxFDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Volcom Frickin MDRN STCH 19 Shorts  Hombre  Blue  31](https://www.amazon.com/dp/B07KTQDFZ4/?tag=redken08-20) con 52.98 de descuento por 23.51 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Volcom Frickin MDRN STCH 19 Shorts  Hombre  Blue  31](https://www.amazon.com/dp/B07KTQDFZ4/?tag=redken08-20) por 23.51 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lwe8HxFDL._SL200_.jpg)](https://www.amazon.com/dp/B07KTQDFZ4/?tag=redken08-20)
 

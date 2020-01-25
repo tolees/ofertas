@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Tiro Woolie Hat  Unisex Adulto  B al 31.95 % de descuento'
+title: 'adidas Tiro Woolie Hat  Unisex Adulto  B'
 date: 2019/12/29 14:55:48 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 16.15 EUR
 inStock: true
 ---
 
-Está [adidas Tiro Woolie Hat  Unisex Adulto  Black/White  OSFL](https://www.amazon.com/dp/B07KCPV6ZH/?tag=redken08-20) con 31.95 de descuento por 10.99 EUR (original: 16.15 EUR) en el siguiente enlace!
+Está [adidas Tiro Woolie Hat  Unisex Adulto  Black/White  OSFL](https://www.amazon.com/dp/B07KCPV6ZH/?tag=redken08-20) por 10.99 EUR (original: 16.15 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07KCPV6ZH/?tag=redken08-20)
 

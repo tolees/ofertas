@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Cyber-Shot DSC-WX500 - Cámara compa al 42.16 % de descuento'
+title: 'Sony Cyber-Shot DSC-WX500 - Cámara compa'
 date: 2019/10/26 10:27:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 400 EUR
 inStock: true
 ---
 
-Está [Sony Cyber-Shot DSC-WX500 - Cámara compacta de 18 MP con Pantalla de 3" y Sensor Exmor R  Color Negro](https://www.amazon.com/dp/B00W46KROM/?tag=redken08-20) con 42.16 de descuento por 231.34 EUR (original: 400 EUR) en el siguiente enlace!
+Está [Sony Cyber-Shot DSC-WX500 - Cámara compacta de 18 MP con Pantalla de 3" y Sensor Exmor R  Color Negro](https://www.amazon.com/dp/B00W46KROM/?tag=redken08-20) por 231.34 EUR (original: 400 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg)](https://www.amazon.com/dp/B00W46KROM/?tag=redken08-20)
 

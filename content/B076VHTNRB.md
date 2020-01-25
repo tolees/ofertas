@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 42.22 % en Lego Batman - Mochila - Lego Batman'
+title: 'Lego Batman - Mochila - Lego Batman'
 date: 2019/10/06 20:09:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H9fInmASL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H9fInmASL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.95 EUR
 inStock: true
 ---
 
-Tienes [Lego Batman - Mochila - Lego Batman](https://www.amazon.com/dp/B076VHTNRB/?tag=redken08-20) con un 42.22 % de descuento con precio de oferta de 10.95 EUR (original: 18.95 EUR) en el siguiente enlace!
+Tienes [Lego Batman - Mochila - Lego Batman](https://www.amazon.com/dp/B076VHTNRB/?tag=redken08-20) a precio de oferta de 10.95 EUR (original: 18.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51H9fInmASL._SL200_.jpg)](https://www.amazon.com/dp/B076VHTNRB/?tag=redken08-20)
 

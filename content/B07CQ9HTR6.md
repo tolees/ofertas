@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shadow Of The Tomb Raider: Croft Edition al 50.01 % de descuento'
+title: 'Shadow Of The Tomb Raider: Croft Edition'
 date: 2019/10/27 19:42:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ma9GUz7hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ma9GUz7hL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Shadow Of The Tomb Raider: Croft Edition](https://www.amazon.com/dp/B07CQ9HTR6/?tag=redken08-20) a 49.99 EUR (original: 99.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Shadow Of The Tomb Raider: Croft Edition](https://www.amazon.com/dp/B07CQ9HTR6/?tag=redken08-20) a 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ma9GUz7hL._SL200_.jpg)](https://www.amazon.com/dp/B07CQ9HTR6/?tag=redken08-20)
 

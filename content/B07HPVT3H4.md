@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Banana moon Ronky  Zapatillas para Mujer al 55.00 % de descuento'
+title: 'Banana moon Ronky  Zapatillas para Mujer'
 date: 2019/12/04 07:55:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V6uFlGXfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V6uFlGXfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 52.44 EUR
 inStock: true
 ---
 
-Está [Banana moon Ronky  Zapatillas para Mujer  Azul  Marine 005   36 EU](https://www.amazon.com/dp/B07HPVT3H4/?tag=redken08-20) con 55.00 de descuento por 23.6 EUR (original: 52.44 EUR) en el siguiente enlace!
+Está [Banana moon Ronky  Zapatillas para Mujer  Azul  Marine 005   36 EU](https://www.amazon.com/dp/B07HPVT3H4/?tag=redken08-20) por 23.6 EUR (original: 52.44 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31V6uFlGXfL._SL200_.jpg)](https://www.amazon.com/dp/B07HPVT3H4/?tag=redken08-20)
 

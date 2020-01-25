@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Phantom BP Fever Bañadores  Hom al 49.09 % de descuento'
+title: 'Hurley M Phantom BP Fever Bañadores  Hom'
 date: 2019/11/03 18:10:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nk0aNGD5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nk0aNGD5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Hurley M Phantom BP Fever Bañadores  Hombre  Anthracite  34](https://www.amazon.com/dp/B07PG4L1TY/?tag=redken08-20) con 49.09 de descuento por 33.09 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Hurley M Phantom BP Fever Bañadores  Hombre  Anthracite  34](https://www.amazon.com/dp/B07PG4L1TY/?tag=redken08-20) por 33.09 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Nk0aNGD5L._SL200_.jpg)](https://www.amazon.com/dp/B07PG4L1TY/?tag=redken08-20)
 

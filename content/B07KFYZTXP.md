@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 47.94 % en PUMA Source Mid Buzzer  Zapatillas Altas'
+title: 'PUMA Source Mid Buzzer  Zapatillas Altas'
 date: 2019/12/17 13:56:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119.95 EUR
 inStock: true
 ---
 
-Tienes [PUMA Source Mid Buzzer  Zapatillas Altas Unisex Adulto  Black-Nrgy Red-Blue Turquoise  46 EU](https://www.amazon.com/dp/B07KFYZTXP/?tag=redken08-20) con un 47.94 % de descuento con precio de oferta de 62.45 EUR (original: 119.95 EUR) en el siguiente enlace!
+Tienes [PUMA Source Mid Buzzer  Zapatillas Altas Unisex Adulto  Black-Nrgy Red-Blue Turquoise  46 EU](https://www.amazon.com/dp/B07KFYZTXP/?tag=redken08-20) a precio de oferta de 62.45 EUR (original: 119.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg)](https://www.amazon.com/dp/B07KFYZTXP/?tag=redken08-20)
 

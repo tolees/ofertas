@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Descuento del 50.00 % en GODNECE Technic Racing Car  1:8 Race Car'
-date: 2020-01-23 17:44:34
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rXmEtBRoL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rXmEtBRoL._SL200_.jpg' ]
+title: 'GODNECE Technic Racing Car  1:8 Race Car'
+date: 2020-01-25 17:40:50
+thumbnailImage: 'https://m.media-amazon.com/images/I/41rXmEtBRoL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41rXmEtBRoL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,10 +14,10 @@ comparePrice: 169.98 GBP
 inStock: true
 ---
 
-Tienes [GODNECE Technic Racing Car  1:8 Race Car Model Kit Model Building Kits Difficult Building Blocks Technic Compatible with Lego 2838Pcs  ](https://www.amazon.com/dp/B082W7QHVL/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 84.99 GBP (original: 169.98 GBP) en el siguiente enlace!
+Ahora mismo tienes [GODNECE Technic Racing Car  1:8 Race Car Model Kit Model Building Kits Difficult Building Blocks Technic Compatible with Lego 2838Pcs  ](https://www.amazon.com/dp/B082W7QHVL/?tag=redken08-20) a 84.99 GBP (original: 169.98 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41rXmEtBRoL._SL200_.jpg)](https://www.amazon.com/dp/B082W7QHVL/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41rXmEtBRoL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B082W7QHVL/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B082W7QHVL/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B082W7QHVL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

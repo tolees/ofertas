@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75229 Star Wars Death Star Escape B al 32.01 % de descuento'
+title: 'LEGO 75229 Star Wars Death Star Escape B'
 date: 2019/11/29 09:23:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515ThWbs%2B%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515ThWbs%2B%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Está [LEGO 75229 Star Wars Death Star Escape Battlefront Games Set Collection with Luke Skywalker  Princess Leia and Stormtrooper](https://www.amazon.com/dp/B07FP6ZWNC/?tag=redken08-20) con 32.01 de descuento por 16.99 GBP (original: 24.99 GBP) en el siguiente enlace!
+Está [LEGO 75229 Star Wars Death Star Escape Battlefront Games Set Collection with Luke Skywalker  Princess Leia and Stormtrooper](https://www.amazon.com/dp/B07FP6ZWNC/?tag=redken08-20) por 16.99 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515ThWbs%2B%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6ZWNC/?tag=redken08-20)
 

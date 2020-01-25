@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Silver Ridge Short AM4283 Short al 61.84 % de descuento'
+title: 'Columbia Silver Ridge Short AM4283 Short'
 date: 2020-01-20 23:56:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hkBYeUvML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hkBYeUvML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [Columbia Silver Ridge Short AM4283 Shorts  Hombre  Gris  Grill   30](https://www.amazon.com/dp/B00OCSE2ZK/?tag=redken08-20) con 61.84 de descuento por 19.06 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [Columbia Silver Ridge Short AM4283 Shorts  Hombre  Gris  Grill   30](https://www.amazon.com/dp/B00OCSE2ZK/?tag=redken08-20) por 19.06 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hkBYeUvML._SL200_.jpg)](https://www.amazon.com/dp/B00OCSE2ZK/?tag=redken08-20)
 

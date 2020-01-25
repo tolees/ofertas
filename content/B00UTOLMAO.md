@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Legendarte P-068 Cuadro El Beso. Impresi al 33.37 % de descuento'
+title: 'Legendarte P-068 Cuadro El Beso. Impresi'
 date: 2020-01-16 22:31:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-tKLktTtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61-tKLktTtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 83.5 EUR
 inStock: true
 ---
 
-Está [Legendarte P-068 Cuadro El Beso. Impresión Digital sobre Lienzo. Pintura de Gustav Klimt  Multicolor  80x100](https://www.amazon.com/dp/B00UTOLMAO/?tag=redken08-20) con 33.37 de descuento por 55.64 EUR (original: 83.5 EUR) en el siguiente enlace!
+Está [Legendarte P-068 Cuadro El Beso. Impresión Digital sobre Lienzo. Pintura de Gustav Klimt  Multicolor  80x100](https://www.amazon.com/dp/B00UTOLMAO/?tag=redken08-20) por 55.64 EUR (original: 83.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61-tKLktTtL._SL200_.jpg)](https://www.amazon.com/dp/B00UTOLMAO/?tag=redken08-20)
 

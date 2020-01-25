@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fossil Reloj Analógico para Mujer de Cua al 60.00 % de descuento'
+title: 'Fossil Reloj Analógico para Mujer de Cua'
 date: 2019/11/11 13:35:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fQ8nW6IxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fQ8nW6IxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119 EUR
 inStock: true
 ---
 
-Está [Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4440](https://www.amazon.com/dp/B07B4R6YJW/?tag=redken08-20) con 60.00 de descuento por 47.6 EUR (original: 119 EUR) en el siguiente enlace!
+Está [Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4440](https://www.amazon.com/dp/B07B4R6YJW/?tag=redken08-20) por 47.6 EUR (original: 119 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fQ8nW6IxL._SL200_.jpg)](https://www.amazon.com/dp/B07B4R6YJW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Montse Interiors  S.L. Cuadrante o Cojín al 43.89 % de descuento'
+title: 'Montse Interiors  S.L. Cuadrante o Cojín'
 date: 2019/12/03 07:52:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318NHHnD7ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318NHHnD7ML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Montse Interiors  S.L. Cuadrante o Cojín Decoración Rústico 45x45 + Relleno  Portofino Beige ](https://www.amazon.com/dp/B07XQLWHRY/?tag=redken08-20) con 43.89 de descuento por 8.95 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Montse Interiors  S.L. Cuadrante o Cojín Decoración Rústico 45x45 + Relleno  Portofino Beige ](https://www.amazon.com/dp/B07XQLWHRY/?tag=redken08-20) por 8.95 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318NHHnD7ML._SL200_.jpg)](https://www.amazon.com/dp/B07XQLWHRY/?tag=redken08-20)
 

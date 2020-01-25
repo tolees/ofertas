@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Herringbone Tie Waist Pantalone al 58.17 % de descuento'
+title: 'New Look Herringbone Tie Waist Pantalone'
 date: 2019/12/16 11:03:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410VLaD5eVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410VLaD5eVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.3 EUR
 inStock: true
 ---
 
-Está [New Look Herringbone Tie Waist Pantalones  Negro  Black Pattern 9   W36  Talla del Fabricante: 18  para Mujer](https://www.amazon.com/dp/B07HZSBQSM/?tag=redken08-20) con 58.17 de descuento por 11 EUR (original: 26.3 EUR) en el siguiente enlace!
+Está [New Look Herringbone Tie Waist Pantalones  Negro  Black Pattern 9   W36  Talla del Fabricante: 18  para Mujer](https://www.amazon.com/dp/B07HZSBQSM/?tag=redken08-20) por 11 EUR (original: 26.3 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410VLaD5eVL._SL200_.jpg)](https://www.amazon.com/dp/B07HZSBQSM/?tag=redken08-20)
 

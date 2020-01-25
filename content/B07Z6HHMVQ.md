@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Equipo fotográfico portátil de Photo Boo al 62.97 % de descuento'
+title: 'Equipo fotográfico portátil de Photo Boo'
 date: 2020-01-17 01:32:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IaXkT-H5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IaXkT-H5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 43.61 EUR
 inStock: true
 ---
 
-Está [Equipo fotográfico portátil de Photo Booster de Mini Cabina de fotografía portátil Caja de luz de fotografía Plegable con Brillo 2x20 Cubo Tira de LED 8"6 Colores de Fondo  Multi-Colord ](https://www.amazon.com/dp/B07Z6HHMVQ/?tag=redken08-20) con 62.97 de descuento por 16.15 EUR (original: 43.61 EUR) en el siguiente enlace!
+Está [Equipo fotográfico portátil de Photo Booster de Mini Cabina de fotografía portátil Caja de luz de fotografía Plegable con Brillo 2x20 Cubo Tira de LED 8"6 Colores de Fondo  Multi-Colord ](https://www.amazon.com/dp/B07Z6HHMVQ/?tag=redken08-20) por 16.15 EUR (original: 43.61 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IaXkT-H5L._SL200_.jpg)](https://www.amazon.com/dp/B07Z6HHMVQ/?tag=redken08-20)
 

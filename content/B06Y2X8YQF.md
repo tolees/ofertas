@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574 Core Zapatillas Hombre   al 37.02 % de descuento'
+title: 'New Balance 574 Core Zapatillas Hombre  '
 date: 2020-01-17 08:03:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dl8oESB%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dl8oESB%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   42 EU  8 UK ](https://www.amazon.com/dp/B06Y2X8YQF/?tag=redken08-20) con 37.02 de descuento por 62.95 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   42 EU  8 UK ](https://www.amazon.com/dp/B06Y2X8YQF/?tag=redken08-20) por 62.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dl8oESB%2BL._SL200_.jpg)](https://www.amazon.com/dp/B06Y2X8YQF/?tag=redken08-20)
 

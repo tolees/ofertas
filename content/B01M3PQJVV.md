@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 32.50 % en Honeywell Home Y6R910WF6042 Lyric T6 Wi-'
+title: 'Honeywell Home Y6R910WF6042 Lyric T6 Wi-'
 date: 2019/11/08 15:38:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BW0VakafL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BW0VakafL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199.99 EUR
 inStock: true
 ---
 
-Tienes [Honeywell Home Y6R910WF6042 Lyric T6 Wi-Fi Raumthermostat und verdrahtete Empfängerbox  Wandmontage  Schwarz](https://www.amazon.com/dp/B01M3PQJVV/?tag=redken08-20) con un 32.50 % de descuento con precio de oferta de 135 EUR (original: 199.99 EUR) en el siguiente enlace!
+Tienes [Honeywell Home Y6R910WF6042 Lyric T6 Wi-Fi Raumthermostat und verdrahtete Empfängerbox  Wandmontage  Schwarz](https://www.amazon.com/dp/B01M3PQJVV/?tag=redken08-20) a precio de oferta de 135 EUR (original: 199.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BW0VakafL._SL200_.jpg)](https://www.amazon.com/dp/B01M3PQJVV/?tag=redken08-20)
 

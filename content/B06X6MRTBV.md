@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Vs Set  Zapatillas de Deporte par al 48.61 % de descuento'
+title: 'adidas Vs Set  Zapatillas de Deporte par'
 date: 2019/12/20 01:38:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WUEzGeaNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WUEzGeaNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [adidas Vs Set  Zapatillas de Deporte para Hombre  Azul  Collegiate Navy/FTWR White/FTWR White   36 EU](https://www.amazon.com/dp/B06X6MRTBV/?tag=redken08-20) con 48.61 de descuento por 25.67 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [adidas Vs Set  Zapatillas de Deporte para Hombre  Azul  Collegiate Navy/FTWR White/FTWR White   36 EU](https://www.amazon.com/dp/B06X6MRTBV/?tag=redken08-20) por 25.67 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WUEzGeaNL._SL200_.jpg)](https://www.amazon.com/dp/B06X6MRTBV/?tag=redken08-20)
 

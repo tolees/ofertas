@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Esprit 119ee1i004 suéter  Blanco  Off Wh al 33.34 % de descuento'
+title: 'Esprit 119ee1i004 suéter  Blanco  Off Wh'
 date: 2019/12/19 20:36:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nEyxb73PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nEyxb73PL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Esprit 119ee1i004 suéter  Blanco  Off White 2 111   Small para Mujer](https://www.amazon.com/dp/B07XVQHMD7/?tag=redken08-20) con 33.34 de descuento por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Esprit 119ee1i004 suéter  Blanco  Off White 2 111   Small para Mujer](https://www.amazon.com/dp/B07XVQHMD7/?tag=redken08-20) por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nEyxb73PL._SL200_.jpg)](https://www.amazon.com/dp/B07XVQHMD7/?tag=redken08-20)
 

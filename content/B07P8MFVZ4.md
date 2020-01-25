@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rip Curl Kelly Combi Pant Pantalon  Muje al 71.93 % de descuento'
+title: 'Rip Curl Kelly Combi Pant Pantalon  Muje'
 date: 2019/11/07 11:40:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BX94Cl5wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BX94Cl5wL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rip Curl Kelly Combi Pant Pantalon  Mujer  Stellar  S](https://www.amazon.com/dp/B07P8MFVZ4/?tag=redken08-20) a 21.05 EUR (original: 74.99 EUR) (71.93 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Rip Curl Kelly Combi Pant Pantalon  Mujer  Stellar  S](https://www.amazon.com/dp/B07P8MFVZ4/?tag=redken08-20) a 21.05 EUR (original: 74.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BX94Cl5wL._SL200_.jpg)](https://www.amazon.com/dp/B07P8MFVZ4/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIFA 20  La caja contiene un código de d al 43.56 % de descuento'
+title: 'FIFA 20  La caja contiene un código de d'
 date: 2020-01-10 07:28:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hPvc4ioeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hPvc4ioeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 61.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FIFA 20  La caja contiene un código de descarga - Origin  - Edición Estándar](https://www.amazon.com/dp/B07SSCW8L4/?tag=redken08-20) a 34.99 EUR (original: 61.99 EUR) (43.56 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [FIFA 20  La caja contiene un código de descarga - Origin  - Edición Estándar](https://www.amazon.com/dp/B07SSCW8L4/?tag=redken08-20) a 34.99 EUR (original: 61.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51hPvc4ioeL._SL200_.jpg)](https://www.amazon.com/dp/B07SSCW8L4/?tag=redken08-20)
 

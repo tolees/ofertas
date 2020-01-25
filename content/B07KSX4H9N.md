@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Solar Lt Trainer M  Zapatillas de al 47.98 % de descuento'
+title: 'Adidas Solar Lt Trainer M  Zapatillas de'
 date: 2019/11/19 17:38:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cYMpa343L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cYMpa343L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Adidas Solar Lt Trainer M  Zapatillas de Deporte para Hombre   Multicolor 000   41 1/3 EU](https://www.amazon.com/dp/B07KSX4H9N/?tag=redken08-20) a 41.59 EUR (original: 79.95 EUR) (47.98 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Adidas Solar Lt Trainer M  Zapatillas de Deporte para Hombre   Multicolor 000   41 1/3 EU](https://www.amazon.com/dp/B07KSX4H9N/?tag=redken08-20) a 41.59 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cYMpa343L._SL200_.jpg)](https://www.amazon.com/dp/B07KSX4H9N/?tag=redken08-20)
 

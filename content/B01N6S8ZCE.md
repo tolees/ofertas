@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 057cc1c002  Short Mujer  A al 82.95 % de descuento'
+title: 'edc by Esprit 057cc1c002  Short Mujer  A'
 date: 2019/11/15 08:12:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gbPEJoduL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gbPEJoduL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [edc by Esprit 057cc1c002  Short Mujer  Azul  Blue Light Wash   W29  Talla del Fabricante: 29 ](https://www.amazon.com/dp/B01N6S8ZCE/?tag=redken08-20) a 6.82 EUR (original: 39.99 EUR) (82.95 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [edc by Esprit 057cc1c002  Short Mujer  Azul  Blue Light Wash   W29  Talla del Fabricante: 29 ](https://www.amazon.com/dp/B01N6S8ZCE/?tag=redken08-20) a 6.82 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gbPEJoduL._SL200_.jpg)](https://www.amazon.com/dp/B01N6S8ZCE/?tag=redken08-20)
 

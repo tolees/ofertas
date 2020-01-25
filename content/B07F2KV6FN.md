@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SALOMON XA Short  Mujer  Gris  Urban Chi al 53.08 % de descuento'
+title: 'SALOMON XA Short  Mujer  Gris  Urban Chi'
 date: 2019/10/13 16:01:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BXgigeyqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BXgigeyqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [SALOMON XA Short  Mujer  Gris  Urban Chic   XL](https://www.amazon.com/dp/B07F2KV6FN/?tag=redken08-20) con 53.08 de descuento por 23.46 EUR (original: 50 EUR) en el siguiente enlace!
+Está [SALOMON XA Short  Mujer  Gris  Urban Chic   XL](https://www.amazon.com/dp/B07F2KV6FN/?tag=redken08-20) por 23.46 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BXgigeyqL._SL200_.jpg)](https://www.amazon.com/dp/B07F2KV6FN/?tag=redken08-20)
 

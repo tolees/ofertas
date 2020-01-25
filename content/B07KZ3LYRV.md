@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield Cal Poplin Print Camisa Casu al 62.45 % de descuento'
+title: 'Springfield Cal Poplin Print Camisa Casu'
 date: 2019/11/14 19:47:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LWq9GvUML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LWq9GvUML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Está [Springfield Cal Poplin Print Camisa Casual   Blanco 99   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.com/dp/B07KZ3LYRV/?tag=redken08-20) con 62.45 de descuento por 9.76 EUR (original: 25.99 EUR) en el siguiente enlace!
+Está [Springfield Cal Poplin Print Camisa Casual   Blanco 99   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.com/dp/B07KZ3LYRV/?tag=redken08-20) por 9.76 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51LWq9GvUML._SL200_.jpg)](https://www.amazon.com/dp/B07KZ3LYRV/?tag=redken08-20)
 

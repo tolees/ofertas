@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas DEERUPT Runner  Zapatillas para H al 26.14 % de descuento'
+title: 'adidas DEERUPT Runner  Zapatillas para H'
 date: 2019/12/06 19:42:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bSU5qZstL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bSU5qZstL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [adidas DEERUPT Runner  Zapatillas para Hombre  Blanco  Footwear White/Core Black/Grey 0   43 1/3 EU](https://www.amazon.com/dp/B07NGQC9HS/?tag=redken08-20) con 26.14 de descuento por 73.82 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [adidas DEERUPT Runner  Zapatillas para Hombre  Blanco  Footwear White/Core Black/Grey 0   43 1/3 EU](https://www.amazon.com/dp/B07NGQC9HS/?tag=redken08-20) por 73.82 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31bSU5qZstL._SL200_.jpg)](https://www.amazon.com/dp/B07NGQC9HS/?tag=redken08-20)
 

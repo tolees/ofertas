@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Court Borough Low  PS   Zapatos de  al 27.74 % de descuento'
+title: 'Nike Court Borough Low  PS   Zapatos de '
 date: 2019/11/01 17:16:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413kEBPNWKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413kEBPNWKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35.91 EUR
 inStock: true
 ---
 
-Está [Nike Court Borough Low  PS   Zapatos de Baloncesto para Niños  Negro  Black/Black 001   27.5 EU](https://www.amazon.com/dp/B072QGDY6G/?tag=redken08-20) con 27.74 de descuento por 25.95 EUR (original: 35.91 EUR) en el siguiente enlace!
+Está [Nike Court Borough Low  PS   Zapatos de Baloncesto para Niños  Negro  Black/Black 001   27.5 EU](https://www.amazon.com/dp/B072QGDY6G/?tag=redken08-20) por 25.95 EUR (original: 35.91 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413kEBPNWKL._SL200_.jpg)](https://www.amazon.com/dp/B072QGDY6G/?tag=redken08-20)
 

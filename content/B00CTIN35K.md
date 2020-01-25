@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 32.72 % en Educa Borrás - Aprendo inglés  Juego Edu'
+title: 'Educa Borrás - Aprendo inglés  Juego Edu'
 date: 2019/10/11 11:55:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xTpKOMudL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xTpKOMudL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Tienes [Educa Borrás - Aprendo inglés  Juego Educativo  15747 ](https://www.amazon.com/dp/B00CTIN35K/?tag=redken08-20) con un 32.72 % de descuento con precio de oferta de 26.88 EUR (original: 39.95 EUR) en el siguiente enlace!
+Tienes [Educa Borrás - Aprendo inglés  Juego Educativo  15747 ](https://www.amazon.com/dp/B00CTIN35K/?tag=redken08-20) a precio de oferta de 26.88 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51xTpKOMudL._SL200_.jpg)](https://www.amazon.com/dp/B00CTIN35K/?tag=redken08-20)
 

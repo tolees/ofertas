@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURL Summer Lovin Hoodie Sudadera  M al 74.86 % de descuento'
+title: 'RIP CURL Summer Lovin Hoodie Sudadera  M'
 date: 2019/10/07 13:52:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413tSkVaxkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413tSkVaxkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [RIP CURL Summer Lovin Hoodie Sudadera  Mujer  Red  L](https://www.amazon.com/dp/B07PMLL8VB/?tag=redken08-20) a 16.34 EUR (original: 64.99 EUR) (74.86 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [RIP CURL Summer Lovin Hoodie Sudadera  Mujer  Red  L](https://www.amazon.com/dp/B07PMLL8VB/?tag=redken08-20) a 16.34 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413tSkVaxkL._SL200_.jpg)](https://www.amazon.com/dp/B07PMLL8VB/?tag=redken08-20)
 

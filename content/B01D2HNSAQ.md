@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 63.78 % en King Cock Plus Dildo - 400 gr'
+title: 'King Cock Plus Dildo - 400 gr'
 date: 2019/10/26 13:39:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Qmfh2o0QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Qmfh2o0QL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 62.95 EUR
 inStock: true
 ---
 
-Tienes [King Cock Plus Dildo - 400 gr](https://www.amazon.com/dp/B01D2HNSAQ/?tag=redken08-20) con un 63.78 % de descuento con precio de oferta de 22.8 EUR (original: 62.95 EUR) en el siguiente enlace!
+Tienes [King Cock Plus Dildo - 400 gr](https://www.amazon.com/dp/B01D2HNSAQ/?tag=redken08-20) a precio de oferta de 22.8 EUR (original: 62.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Qmfh2o0QL._SL200_.jpg)](https://www.amazon.com/dp/B01D2HNSAQ/?tag=redken08-20)
 

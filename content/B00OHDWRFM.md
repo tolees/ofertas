@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Pagno JKT - Chaqueta técnica para  al 45.40 % de descuento'
+title: 'Kappa Pagno JKT - Chaqueta técnica para '
 date: 2019/10/14 11:11:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zKQAljm9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zKQAljm9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Está [Kappa Pagno JKT - Chaqueta técnica para Hombre  Color Azul Marino/Blanco  Talla XXL](https://www.amazon.com/dp/B00OHDWRFM/?tag=redken08-20) con 45.40 de descuento por 40.95 EUR (original: 75 EUR) en el siguiente enlace!
+Está [Kappa Pagno JKT - Chaqueta técnica para Hombre  Color Azul Marino/Blanco  Talla XXL](https://www.amazon.com/dp/B00OHDWRFM/?tag=redken08-20) por 40.95 EUR (original: 75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zKQAljm9L._SL200_.jpg)](https://www.amazon.com/dp/B00OHDWRFM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Western Digital WDBK3E2560PSL-WESN 256 G al 32.71 % de descuento'
+title: 'Western Digital WDBK3E2560PSL-WESN 256 G'
 date: 2019/11/12 18:36:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NBzS8NqML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NBzS8NqML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 106.99 GBP
 inStock: true
 ---
 
-Está [Western Digital WDBK3E2560PSL-WESN 256 GB My Passport SSD Portable External Solid State Drive  Black/Grey](https://www.amazon.com/dp/B06XNN2WQM/?tag=redken08-20) con 32.71 de descuento por 71.99 GBP (original: 106.99 GBP) en el siguiente enlace!
+Está [Western Digital WDBK3E2560PSL-WESN 256 GB My Passport SSD Portable External Solid State Drive  Black/Grey](https://www.amazon.com/dp/B06XNN2WQM/?tag=redken08-20) por 71.99 GBP (original: 106.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31NBzS8NqML._SL200_.jpg)](https://www.amazon.com/dp/B06XNN2WQM/?tag=redken08-20)
 

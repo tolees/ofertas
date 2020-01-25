@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lower East LE105 T-Shirt  Weiß/Grau Mela al 35.37 % de descuento'
+title: 'Lower East LE105 T-Shirt  Weiß/Grau Mela'
 date: 2019/12/22 20:44:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315IVo-K44L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315IVo-K44L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lower East LE105 T-Shirt  Weiß/Grau Melange/Olympia Blau/Folkstone Grey/Schwarz  L  5er-Pack](https://www.amazon.com/dp/B07P7NJRQ7/?tag=redken08-20) a 18.71 EUR (original: 28.95 EUR) (35.37 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lower East LE105 T-Shirt  Weiß/Grau Melange/Olympia Blau/Folkstone Grey/Schwarz  L  5er-Pack](https://www.amazon.com/dp/B07P7NJRQ7/?tag=redken08-20) a 18.71 EUR (original: 28.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/315IVo-K44L._SL200_.jpg)](https://www.amazon.com/dp/B07P7NJRQ7/?tag=redken08-20)
 

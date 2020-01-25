@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.94 % en Citizen Reloj de Pulsera VR60J002Y'
+title: 'Citizen Reloj de Pulsera VR60J002Y'
 date: 2019/11/07 03:41:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UUALg5JvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UUALg5JvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Tienes [Citizen Reloj de Pulsera VR60J002Y](https://www.amazon.com/dp/B01G9TTTFM/?tag=redken08-20) con un 40.94 % de descuento con precio de oferta de 20.67 EUR (original: 35 EUR) en el siguiente enlace!
+Tienes [Citizen Reloj de Pulsera VR60J002Y](https://www.amazon.com/dp/B01G9TTTFM/?tag=redken08-20) a precio de oferta de 20.67 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51UUALg5JvL._SL200_.jpg)](https://www.amazon.com/dp/B01G9TTTFM/?tag=redken08-20)
 

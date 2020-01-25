@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spotted Zebra - Vestidos de niveles de p al 43.75 % de descuento'
+title: 'Spotted Zebra - Vestidos de niveles de p'
 date: 2019/10/27 08:08:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HG4JQcfxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HG4JQcfxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Spotted Zebra - Vestidos de niveles de punto sin mangas para niña  2 unidades   Mixed Fruit/Yellow  US S  6-7   EU 116 CM ](https://www.amazon.com/dp/B07HCM8WS9/?tag=redken08-20) a 9 EUR (original: 16 EUR) (43.75 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Spotted Zebra - Vestidos de niveles de punto sin mangas para niña  2 unidades   Mixed Fruit/Yellow  US S  6-7   EU 116 CM ](https://www.amazon.com/dp/B07HCM8WS9/?tag=redken08-20) a 9 EUR (original: 16 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51HG4JQcfxL._SL200_.jpg)](https://www.amazon.com/dp/B07HCM8WS9/?tag=redken08-20)
 

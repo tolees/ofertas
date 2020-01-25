@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41394 - Krankenhaus von Heartlake C al 25.02 % de descuento'
+title: 'LEGO 41394 - Krankenhaus von Heartlake C'
 date: 2020-01-15 09:15:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51novEzXAgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51novEzXAgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [LEGO 41394 - Krankenhaus von Heartlake City  Friends  Bauset](https://www.amazon.com/dp/B07W8XYTQ8/?tag=redken08-20) con 25.02 de descuento por 44.98 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [LEGO 41394 - Krankenhaus von Heartlake City  Friends  Bauset](https://www.amazon.com/dp/B07W8XYTQ8/?tag=redken08-20) por 44.98 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51novEzXAgL._SL200_.jpg)](https://www.amazon.com/dp/B07W8XYTQ8/?tag=redken08-20)
 

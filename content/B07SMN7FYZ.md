@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Introducing Echo Show 8 | 8" HD smart di al 50.00 % de descuento'
+title: 'Introducing Echo Show 8 | 8" HD smart di'
 date: 2020-01-02 13:07:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I0KKT4lfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I0KKT4lfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119.99 GBP
 inStock: true
 ---
 
-Está [Introducing Echo Show 8 | 8" HD smart display with Alexa  Charcoal fabric](https://www.amazon.com/dp/B07SMN7FYZ/?tag=redken08-20) con 50.00 de descuento por 59.99 GBP (original: 119.99 GBP) en el siguiente enlace!
+Está [Introducing Echo Show 8 | 8" HD smart display with Alexa  Charcoal fabric](https://www.amazon.com/dp/B07SMN7FYZ/?tag=redken08-20) por 59.99 GBP (original: 119.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41I0KKT4lfL._SL200_.jpg)](https://www.amazon.com/dp/B07SMN7FYZ/?tag=redken08-20)
 

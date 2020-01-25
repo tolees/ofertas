@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Classic Icon Belt  Cinturón Mujer al 50.00 % de descuento'
+title: 'Levi s Classic Icon Belt  Cinturón Mujer'
 date: 2019/10/21 11:25:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jfn1zGHDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jfn1zGHDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Está [Levi s Classic Icon Belt  Cinturón Mujer  Marrón  Brown   95 cm  Talla del fabricante: 95 ](https://www.amazon.com/dp/B017XHVB3W/?tag=redken08-20) con 50.00 de descuento por 22.5 EUR (original: 45 EUR) en el siguiente enlace!
+Está [Levi s Classic Icon Belt  Cinturón Mujer  Marrón  Brown   95 cm  Talla del fabricante: 95 ](https://www.amazon.com/dp/B017XHVB3W/?tag=redken08-20) por 22.5 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Jfn1zGHDL._SL200_.jpg)](https://www.amazon.com/dp/B017XHVB3W/?tag=redken08-20)
 

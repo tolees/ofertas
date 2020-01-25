@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Crew Windbreaker Jacket - C al 45.39 % de descuento'
+title: 'Helly Hansen Crew Windbreaker Jacket - C'
 date: 2019/11/24 18:18:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aGtvQTTjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aGtvQTTjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Crew Windbreaker Jacket - Chaqueta deportiva para Hombre  Verde  Verde 706   Medium](https://www.amazon.com/dp/B07F2QCG4D/?tag=redken08-20) con 45.39 de descuento por 70.99 EUR (original: 130 EUR) en el siguiente enlace!
+Está [Helly Hansen Crew Windbreaker Jacket - Chaqueta deportiva para Hombre  Verde  Verde 706   Medium](https://www.amazon.com/dp/B07F2QCG4D/?tag=redken08-20) por 70.99 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aGtvQTTjL._SL200_.jpg)](https://www.amazon.com/dp/B07F2QCG4D/?tag=redken08-20)
 

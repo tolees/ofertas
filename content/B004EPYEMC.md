@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scitec Nutrition Whey Protein Proteína C al 28.22 % de descuento'
+title: 'Scitec Nutrition Whey Protein Proteína C'
 date: 2020-01-03 09:32:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZbK%2BxrboL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZbK%2BxrboL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Scitec Nutrition Whey Protein Proteína Chocolate Blanco - 920 g](https://www.amazon.com/dp/B004EPYEMC/?tag=redken08-20) a 18.59 EUR (original: 25.9 EUR) (28.22 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Scitec Nutrition Whey Protein Proteína Chocolate Blanco - 920 g](https://www.amazon.com/dp/B004EPYEMC/?tag=redken08-20) a 18.59 EUR (original: 25.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZbK%2BxrboL._SL200_.jpg)](https://www.amazon.com/dp/B004EPYEMC/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 39.49 % en Brennenstuhl 149928 Cable de Plástico 23'
+title: 'Brennenstuhl 149928 Cable de Plástico 23'
 date: 2019/10/15 23:45:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ELh3PaToL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ELh3PaToL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.9 EUR
 inStock: true
 ---
 
-Tienes [Brennenstuhl 149928 Cable de Plástico 230 V  Negro 3 metros](https://www.amazon.com/dp/B004AQTFWY/?tag=redken08-20) con un 39.49 % de descuento con precio de oferta de 5.99 EUR (original: 9.9 EUR) en el siguiente enlace!
+Tienes [Brennenstuhl 149928 Cable de Plástico 230 V  Negro 3 metros](https://www.amazon.com/dp/B004AQTFWY/?tag=redken08-20) a precio de oferta de 5.99 EUR (original: 9.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ELh3PaToL._SL200_.jpg)](https://www.amazon.com/dp/B004AQTFWY/?tag=redken08-20)
 

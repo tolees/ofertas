@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer Predator XB271HU - Monitor de 27"   al 27.27 % de descuento'
+title: 'Acer Predator XB271HU - Monitor de 27"  '
 date: 2019/11/21 09:27:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416pU1fxGRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416pU1fxGRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 549.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Acer Predator XB271HU - Monitor de 27"  Wide Quad HD  2560 x 1440 Pixeles  LCD  TN  1000:1  16 78 millones de colores   color negro y rojo](https://www.amazon.com/dp/B01EN5JN5K/?tag=redken08-20) a 400 EUR (original: 549.99 EUR) (27.27 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Acer Predator XB271HU - Monitor de 27"  Wide Quad HD  2560 x 1440 Pixeles  LCD  TN  1000:1  16 78 millones de colores   color negro y rojo](https://www.amazon.com/dp/B01EN5JN5K/?tag=redken08-20) a 400 EUR (original: 549.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416pU1fxGRL._SL200_.jpg)](https://www.amazon.com/dp/B01EN5JN5K/?tag=redken08-20)
 

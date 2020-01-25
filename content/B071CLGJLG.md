@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Decowood DCW02 Cómoda Horizontal 2 Cajas al 36.65 % de descuento'
+title: 'Decowood DCW02 Cómoda Horizontal 2 Cajas'
 date: 2019/11/04 13:36:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R2pGSmtzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R2pGSmtzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70.18 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Decowood DCW02 Cómoda Horizontal 2 Cajas de 3 Lamas con Patas  Madera  Azul  100x25.5x80 cm](https://www.amazon.com/dp/B071CLGJLG/?tag=redken08-20) a 44.46 EUR (original: 70.18 EUR) (36.65 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Decowood DCW02 Cómoda Horizontal 2 Cajas de 3 Lamas con Patas  Madera  Azul  100x25.5x80 cm](https://www.amazon.com/dp/B071CLGJLG/?tag=redken08-20) a 44.46 EUR (original: 70.18 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31R2pGSmtzL._SL200_.jpg)](https://www.amazon.com/dp/B071CLGJLG/?tag=redken08-20)
 

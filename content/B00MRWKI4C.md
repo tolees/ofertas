@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BACI MEDIA ALTA NEGRA CON ENCAJE ANCHO Y al 46.88 % de descuento'
+title: 'BACI MEDIA ALTA NEGRA CON ENCAJE ANCHO Y'
 date: 2019/10/07 01:59:33 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 20.99 EUR
 inStock: true
 ---
 
-Está [BACI MEDIA ALTA NEGRA CON ENCAJE ANCHO Y LAZO](https://www.amazon.com/dp/B00MRWKI4C/?tag=redken08-20) con 46.88 de descuento por 11.15 EUR (original: 20.99 EUR) en el siguiente enlace!
+Está [BACI MEDIA ALTA NEGRA CON ENCAJE ANCHO Y LAZO](https://www.amazon.com/dp/B00MRWKI4C/?tag=redken08-20) por 11.15 EUR (original: 20.99 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B00MRWKI4C/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volcom Ermont Chaqueta  Hombre  Camoufla al 46.11 % de descuento'
+title: 'Volcom Ermont Chaqueta  Hombre  Camoufla'
 date: 2019/11/12 09:07:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CAt6-ndAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CAt6-ndAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [Volcom Ermont Chaqueta  Hombre  Camouflage  XS](https://www.amazon.com/dp/B07KMTW35R/?tag=redken08-20) con 46.11 de descuento por 48.5 EUR (original: 90 EUR) en el siguiente enlace!
+Está [Volcom Ermont Chaqueta  Hombre  Camouflage  XS](https://www.amazon.com/dp/B07KMTW35R/?tag=redken08-20) por 48.5 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CAt6-ndAL._SL200_.jpg)](https://www.amazon.com/dp/B07KMTW35R/?tag=redken08-20)
 

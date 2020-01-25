@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iMW - Mando de consola con cable para NE al 25.02 % de descuento'
+title: 'iMW - Mando de consola con cable para NE'
 date: 2019/11/29 07:22:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413qfE5dKpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413qfE5dKpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [iMW - Mando de consola con cable para NES Classic Edition](https://www.amazon.com/dp/B07BT3N4BT/?tag=redken08-20) a 8.99 EUR (original: 11.99 EUR) (25.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [iMW - Mando de consola con cable para NES Classic Edition](https://www.amazon.com/dp/B07BT3N4BT/?tag=redken08-20) a 8.99 EUR (original: 11.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413qfE5dKpL._SL200_.jpg)](https://www.amazon.com/dp/B07BT3N4BT/?tag=redken08-20)
 

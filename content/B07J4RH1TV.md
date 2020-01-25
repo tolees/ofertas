@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.94 % en Optimum Nutrition Suplemento Dietético e'
+title: 'Optimum Nutrition Suplemento Dietético e'
 date: 2019/11/27 01:01:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415vi51NWmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415vi51NWmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.99 EUR
 inStock: true
 ---
 
-Tienes [Optimum Nutrition Suplemento Dietético en Polvo "Gold Standard 100% Planta"  Sabor de Chocolate - 684 gr](https://www.amazon.com/dp/B07J4RH1TV/?tag=redken08-20) con un 37.94 % de descuento con precio de oferta de 17.99 EUR (original: 28.99 EUR) en el siguiente enlace!
+Tienes [Optimum Nutrition Suplemento Dietético en Polvo "Gold Standard 100% Planta"  Sabor de Chocolate - 684 gr](https://www.amazon.com/dp/B07J4RH1TV/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415vi51NWmL._SL200_.jpg)](https://www.amazon.com/dp/B07J4RH1TV/?tag=redken08-20)
 

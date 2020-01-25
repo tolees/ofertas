@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Un Adorn Mid  Botas Slouch para M al 40.00 % de descuento'
+title: 'Clarks Un Adorn Mid  Botas Slouch para M'
 date: 2019/11/01 14:21:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yxcz9ZyxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yxcz9ZyxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 120 EUR
 inStock: true
 ---
 
-Está [Clarks Un Adorn Mid  Botas Slouch para Mujer  Negro  Black Leather   39.5 EU](https://www.amazon.com/dp/B07BCMTR63/?tag=redken08-20) con 40.00 de descuento por 72 EUR (original: 120 EUR) en el siguiente enlace!
+Está [Clarks Un Adorn Mid  Botas Slouch para Mujer  Negro  Black Leather   39.5 EU](https://www.amazon.com/dp/B07BCMTR63/?tag=redken08-20) por 72 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31yxcz9ZyxL._SL200_.jpg)](https://www.amazon.com/dp/B07BCMTR63/?tag=redken08-20)
 

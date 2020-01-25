@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Lighting myGarden Aplique 4000K  al 51.97 % de descuento'
+title: 'Philips Lighting myGarden Aplique 4000K '
 date: 2019/11/04 21:04:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fdxfovbWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fdxfovbWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Philips Lighting myGarden Aplique 4000K  IP44  iluminación exterior  resistente a la humedad y la intemperie  6 W  negro](https://www.amazon.com/dp/B01DVV6XRS/?tag=redken08-20) a 18.73 EUR (original: 39 EUR) (51.97 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Philips Lighting myGarden Aplique 4000K  IP44  iluminación exterior  resistente a la humedad y la intemperie  6 W  negro](https://www.amazon.com/dp/B01DVV6XRS/?tag=redken08-20) a 18.73 EUR (original: 39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fdxfovbWL._SL200_.jpg)](https://www.amazon.com/dp/B01DVV6XRS/?tag=redken08-20)
 

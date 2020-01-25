@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 40243 POP Vinyl Animation: BT21-RJ al 43.46 % de descuento'
+title: 'Funko 40243 POP Vinyl Animation: BT21-RJ'
 date: 2020-01-25 09:42:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/313vHpEeWFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313vHpEeWFL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.9 EUR
 inStock: true
 ---
 
-Está [Funko 40243 POP Vinyl Animation: BT21-RJ BT21 RJ Sammelbares Spielzeug  Mehrfarben](https://www.amazon.com/dp/B07QFS2NVB/?tag=redken08-20) con 43.46 de descuento por 8.99 EUR (original: 15.9 EUR) en el siguiente enlace!
+Está [Funko 40243 POP Vinyl Animation: BT21-RJ BT21 RJ Sammelbares Spielzeug  Mehrfarben](https://www.amazon.com/dp/B07QFS2NVB/?tag=redken08-20) por 8.99 EUR (original: 15.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/313vHpEeWFL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07QFS2NVB/?tag=redken08-20)
 

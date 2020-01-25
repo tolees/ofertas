@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Nebula C  Zapatillas para Hombre  al 51.20 % de descuento'
+title: 'Geox U Nebula C  Zapatillas para Hombre '
 date: 2019/12/12 16:19:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xkauV6rRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xkauV6rRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.9 EUR
 inStock: true
 ---
 
-Está [Geox U Nebula C  Zapatillas para Hombre  Negro  Black C9999   43 EU](https://www.amazon.com/dp/B07LFRHYTJ/?tag=redken08-20) con 51.20 de descuento por 63.39 EUR (original: 129.9 EUR) en el siguiente enlace!
+Está [Geox U Nebula C  Zapatillas para Hombre  Negro  Black C9999   43 EU](https://www.amazon.com/dp/B07LFRHYTJ/?tag=redken08-20) por 63.39 EUR (original: 129.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31xkauV6rRL._SL200_.jpg)](https://www.amazon.com/dp/B07LFRHYTJ/?tag=redken08-20)
 

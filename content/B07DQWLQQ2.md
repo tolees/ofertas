@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mega Man 11 al 32.94 % de descuento'
+title: 'Mega Man 11'
 date: 2019/11/10 14:03:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kd2IWyxUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kd2IWyxUL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mega Man 11](https://www.amazon.com/dp/B07DQWLQQ2/?tag=redken08-20) a 20.11 EUR (original: 29.99 EUR) (32.94 %  de descuento) en el siguiente enlace!
+Está [Mega Man 11](https://www.amazon.com/dp/B07DQWLQQ2/?tag=redken08-20) por 20.11 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51kd2IWyxUL._SL200_.jpg)](https://www.amazon.com/dp/B07DQWLQQ2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07DQWLQQ2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DQWLQQ2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

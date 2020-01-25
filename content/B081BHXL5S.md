@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 55.55 % en Cronicas De Un Pueblo  Serie Completa Tv'
+title: 'Cronicas De Un Pueblo  Serie Completa Tv'
 date: 2019/12/02 22:50:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lBKNSfO7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lBKNSfO7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Tienes [Cronicas De Un Pueblo  Serie Completa Tve  17dvd](https://www.amazon.com/dp/B081BHXL5S/?tag=redken08-20) con un 55.55 % de descuento con precio de oferta de 20 EUR (original: 44.99 EUR) en el siguiente enlace!
+Tienes [Cronicas De Un Pueblo  Serie Completa Tve  17dvd](https://www.amazon.com/dp/B081BHXL5S/?tag=redken08-20) a precio de oferta de 20 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51lBKNSfO7L._SL200_.jpg)](https://www.amazon.com/dp/B081BHXL5S/?tag=redken08-20)
 

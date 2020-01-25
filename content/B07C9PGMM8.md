@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY Jacksy Vaqueros Straight  Negro   al 61.13 % de descuento'
+title: 'REPLAY Jacksy Vaqueros Straight  Negro  '
 date: 2019/10/27 07:40:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gQqkxZzFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gQqkxZzFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119 EUR
 inStock: true
 ---
 
-Está [REPLAY Jacksy Vaqueros Straight  Negro  Black 98   W24/L32 para Mujer](https://www.amazon.com/dp/B07C9PGMM8/?tag=redken08-20) con 61.13 de descuento por 46.25 EUR (original: 119 EUR) en el siguiente enlace!
+Está [REPLAY Jacksy Vaqueros Straight  Negro  Black 98   W24/L32 para Mujer](https://www.amazon.com/dp/B07C9PGMM8/?tag=redken08-20) por 46.25 EUR (original: 119 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gQqkxZzFL._SL200_.jpg)](https://www.amazon.com/dp/B07C9PGMM8/?tag=redken08-20)
 

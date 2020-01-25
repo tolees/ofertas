@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.00 % en find. Mendel Sports Zapatos de Cordones '
+title: 'find. Mendel Sports Zapatos de Cordones '
 date: 2019/12/07 08:34:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zRxkvShaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zRxkvShaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39 EUR
 inStock: true
 ---
 
-Tienes [find. Mendel Sports Zapatos de Cordones Derby  Negro Black  39/40 EU](https://www.amazon.com/dp/B07MZYKQSZ/?tag=redken08-20) con un 35.00 % de descuento con precio de oferta de 25.35 EUR (original: 39 EUR) en el siguiente enlace!
+Tienes [find. Mendel Sports Zapatos de Cordones Derby  Negro Black  39/40 EU](https://www.amazon.com/dp/B07MZYKQSZ/?tag=redken08-20) a precio de oferta de 25.35 EUR (original: 39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zRxkvShaL._SL200_.jpg)](https://www.amazon.com/dp/B07MZYKQSZ/?tag=redken08-20)
 

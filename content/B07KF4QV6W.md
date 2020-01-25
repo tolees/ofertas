@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Housemark Graphic tee Camiseta  A al 40.20 % de descuento'
+title: 'Levi s Housemark Graphic tee Camiseta  A'
 date: 2019/11/14 23:26:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z4H65-BGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z4H65-BGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Levi s Housemark Graphic tee Camiseta  Azul  Hm Ssnl Dress Blue 0211   X-Large para Hombre](https://www.amazon.com/dp/B07KF4QV6W/?tag=redken08-20) con 40.20 de descuento por 14.95 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Levi s Housemark Graphic tee Camiseta  Azul  Hm Ssnl Dress Blue 0211   X-Large para Hombre](https://www.amazon.com/dp/B07KF4QV6W/?tag=redken08-20) por 14.95 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41z4H65-BGL._SL200_.jpg)](https://www.amazon.com/dp/B07KF4QV6W/?tag=redken08-20)
 

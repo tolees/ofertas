@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jfwvision Mixed Castlerock  al 53.08 % de descuento'
+title: 'JACK & JONES Jfwvision Mixed Castlerock '
 date: 2019/10/24 19:51:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41isBzVVeIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41isBzVVeIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jfwvision Mixed Castlerock  Zapatillas para Hombre  Gris  41 EU](https://www.amazon.com/dp/B071CMTK8D/?tag=redken08-20) con 53.08 de descuento por 21.11 EUR (original: 44.99 EUR) en el siguiente enlace!
+Está [JACK & JONES Jfwvision Mixed Castlerock  Zapatillas para Hombre  Gris  41 EU](https://www.amazon.com/dp/B071CMTK8D/?tag=redken08-20) por 21.11 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41isBzVVeIL._SL200_.jpg)](https://www.amazon.com/dp/B071CMTK8D/?tag=redken08-20)
 

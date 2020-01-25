@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rider Pu All Day al 39.98 % de descuento'
+title: 'Rider Pu All Day'
 date: 2019/10/25 00:39:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3125PsrB6BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3125PsrB6BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [Rider Pu All Day](https://www.amazon.com/dp/B073RNS3BC/?tag=redken08-20) con 39.98 de descuento por 15 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [Rider Pu All Day](https://www.amazon.com/dp/B073RNS3BC/?tag=redken08-20) por 15 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/3125PsrB6BL._SL200_.jpg)](https://www.amazon.com/dp/B073RNS3BC/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Johnnie Walker Blue Whisky Escocés - 700 al 40.51 % de descuento'
+title: 'Johnnie Walker Blue Whisky Escocés - 700'
 date: 2020-01-24 19:44:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ivH6iYEZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ivH6iYEZL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 216.83 EUR
 inStock: true
 ---
 
-Está [Johnnie Walker Blue Whisky Escocés - 700 ml](https://www.amazon.com/dp/B009RUKXT2/?tag=redken08-20) con 40.51 de descuento por 129.0 EUR (original: 216.83 EUR) en el siguiente enlace!
+Está [Johnnie Walker Blue Whisky Escocés - 700 ml](https://www.amazon.com/dp/B009RUKXT2/?tag=redken08-20) por 129.0 EUR (original: 216.83 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ivH6iYEZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B009RUKXT2/?tag=redken08-20)
 

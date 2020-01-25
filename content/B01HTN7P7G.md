@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salewa Ws Multi Track  Zapatillas de Sen al 45.94 % de descuento'
+title: 'Salewa Ws Multi Track  Zapatillas de Sen'
 date: 2019/11/03 19:23:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OEMxlfmHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OEMxlfmHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 147.89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Salewa Ws Multi Track  Zapatillas de Senderismo Mujer  Multicolor  Dark Denim/Aruba Blue 8670   40](https://www.amazon.com/dp/B01HTN7P7G/?tag=redken08-20) a 79.95 EUR (original: 147.89 EUR) (45.94 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Salewa Ws Multi Track  Zapatillas de Senderismo Mujer  Multicolor  Dark Denim/Aruba Blue 8670   40](https://www.amazon.com/dp/B01HTN7P7G/?tag=redken08-20) a 79.95 EUR (original: 147.89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OEMxlfmHL._SL200_.jpg)](https://www.amazon.com/dp/B01HTN7P7G/?tag=redken08-20)
 

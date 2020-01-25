@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Lápiz de Labios Lip Liner  al 26.03 % de descuento'
+title: 'L Oréal Paris Lápiz de Labios Lip Liner '
 date: 2020-01-22 16:59:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21oOQ4nNRsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21oOQ4nNRsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Oréal Paris Lápiz de Labios Lip Liner Couture by Color Riche 300](https://www.amazon.com/dp/B00TGV5N2O/?tag=redken08-20) a 7.36 EUR (original: 9.95 EUR) (26.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [L Oréal Paris Lápiz de Labios Lip Liner Couture by Color Riche 300](https://www.amazon.com/dp/B00TGV5N2O/?tag=redken08-20) a 7.36 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21oOQ4nNRsL._SL200_.jpg)](https://www.amazon.com/dp/B00TGV5N2O/?tag=redken08-20)
 

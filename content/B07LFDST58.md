@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Sunset 1 Pocket Shirt Camisa  Mul al 30.00 % de descuento'
+title: 'Levi s Sunset 1 Pocket Shirt Camisa  Mul'
 date: 2020-01-06 18:17:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XgwIPFRYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XgwIPFRYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Sunset 1 Pocket Shirt Camisa  Multicolor  Rushmeyer Indigo 0425   XX-Large para Hombre](https://www.amazon.com/dp/B07LFDST58/?tag=redken08-20) a 48.3 EUR (original: 69 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Levi s Sunset 1 Pocket Shirt Camisa  Multicolor  Rushmeyer Indigo 0425   XX-Large para Hombre](https://www.amazon.com/dp/B07LFDST58/?tag=redken08-20) a 48.3 EUR (original: 69 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51XgwIPFRYL._SL200_.jpg)](https://www.amazon.com/dp/B07LFDST58/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'American Crew Champú Anticaspa 250 ml al 30.50 % de descuento'
+title: 'American Crew Champú Anticaspa 250 ml'
 date: 2019/11/08 18:44:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SHFKE2o1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SHFKE2o1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [American Crew Champú Anticaspa 250 ml](https://www.amazon.com/dp/B00HCGD7VY/?tag=redken08-20) a 9 EUR (original: 12.95 EUR) (30.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [American Crew Champú Anticaspa 250 ml](https://www.amazon.com/dp/B00HCGD7VY/?tag=redken08-20) a 9 EUR (original: 12.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41SHFKE2o1L._SL200_.jpg)](https://www.amazon.com/dp/B00HCGD7VY/?tag=redken08-20)
 

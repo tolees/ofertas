@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Edward Plain  Zapatos de Cordones al 39.97 % de descuento'
+title: 'Clarks Edward Plain  Zapatos de Cordones'
 date: 2019/10/24 12:51:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313ER0Tm2JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313ER0Tm2JL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Clarks Edward Plain  Zapatos de Cordones Derby para Hombre  Marrón  British Tan Leather-   39.5 EU](https://www.amazon.com/dp/B07FRBFX2Q/?tag=redken08-20) con 39.97 de descuento por 60 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Clarks Edward Plain  Zapatos de Cordones Derby para Hombre  Marrón  British Tan Leather-   39.5 EU](https://www.amazon.com/dp/B07FRBFX2Q/?tag=redken08-20) por 60 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/313ER0Tm2JL._SL200_.jpg)](https://www.amazon.com/dp/B07FRBFX2Q/?tag=redken08-20)
 

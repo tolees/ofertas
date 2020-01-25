@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Damen Straight Leg Hose  black  XL  al 74.45 % de descuento'
+title: 'Puma Damen Straight Leg Hose  black  XL '
 date: 2020-01-24 21:53:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/418sL3j4WyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418sL3j4WyL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [Puma Damen Straight Leg Hose  black  XL  512809 01](https://www.amazon.com/dp/B00S2FZK3M/?tag=redken08-20) con 74.45 de descuento por 12.76 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [Puma Damen Straight Leg Hose  black  XL  512809 01](https://www.amazon.com/dp/B00S2FZK3M/?tag=redken08-20) por 12.76 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/418sL3j4WyL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00S2FZK3M/?tag=redken08-20)
 

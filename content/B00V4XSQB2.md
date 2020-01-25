@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scholl Plantillas Gel Activ Uso Diario H al 41.18 % de descuento'
+title: 'Scholl Plantillas Gel Activ Uso Diario H'
 date: 2019/12/18 08:09:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wITANvNeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wITANvNeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.56 EUR
 inStock: true
 ---
 
-Está [Scholl Plantillas Gel Activ Uso Diario Hombre  40-46.5  1 par](https://www.amazon.com/dp/B00V4XSQB2/?tag=redken08-20) con 41.18 de descuento por 9.74 EUR (original: 16.56 EUR) en el siguiente enlace!
+Está [Scholl Plantillas Gel Activ Uso Diario Hombre  40-46.5  1 par](https://www.amazon.com/dp/B00V4XSQB2/?tag=redken08-20) por 9.74 EUR (original: 16.56 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wITANvNeL._SL200_.jpg)](https://www.amazon.com/dp/B00V4XSQB2/?tag=redken08-20)
 

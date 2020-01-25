@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HH LIFA Crew LS Baselayer   al 39.28 % de descuento'
+title: 'Helly Hansen HH LIFA Crew LS Baselayer  '
 date: 2019/12/25 06:25:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qyD%2BmMELL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qyD%2BmMELL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Helly Hansen HH LIFA Crew LS Baselayer  Hombre  Negro  M](https://www.amazon.com/dp/B06XHGPDFQ/?tag=redken08-20) con 39.28 de descuento por 24.29 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Helly Hansen HH LIFA Crew LS Baselayer  Hombre  Negro  M](https://www.amazon.com/dp/B06XHGPDFQ/?tag=redken08-20) por 24.29 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qyD%2BmMELL._SL200_.jpg)](https://www.amazon.com/dp/B06XHGPDFQ/?tag=redken08-20)
 

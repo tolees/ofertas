@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dockers by Gerli 43dr202  Zapatillas Alt al 54.72 % de descuento'
+title: 'Dockers by Gerli 43dr202  Zapatillas Alt'
 date: 2019/11/04 13:08:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZJOIWz3uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZJOIWz3uL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Está [Dockers by Gerli 43dr202  Zapatillas Altas para Mujer  Amarillo  Golden Tan 910   39 EU](https://www.amazon.com/dp/B07DJDY9K1/?tag=redken08-20) con 54.72 de descuento por 31.67 EUR (original: 69.95 EUR) en el siguiente enlace!
+Está [Dockers by Gerli 43dr202  Zapatillas Altas para Mujer  Amarillo  Golden Tan 910   39 EU](https://www.amazon.com/dp/B07DJDY9K1/?tag=redken08-20) por 31.67 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZJOIWz3uL._SL200_.jpg)](https://www.amazon.com/dp/B07DJDY9K1/?tag=redken08-20)
 

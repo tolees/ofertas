@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Pulse 8 T6E6N2001  Zapatillas  al 53.86 % de descuento'
+title: 'Asics Gel-Pulse 8 T6E6N2001  Zapatillas '
 date: 2019/11/02 15:19:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51x9LPC2EkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51x9LPC2EkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Asics Gel-Pulse 8 T6E6N2001  Zapatillas de Running Mujer  Rosa  Diva Pink /     White /     Dark Purple   37.5 EU](https://www.amazon.com/dp/B01NB8O3TB/?tag=redken08-20) a 55.35 EUR (original: 119.95 EUR) (53.86 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Asics Gel-Pulse 8 T6E6N2001  Zapatillas de Running Mujer  Rosa  Diva Pink /     White /     Dark Purple   37.5 EU](https://www.amazon.com/dp/B01NB8O3TB/?tag=redken08-20) a 55.35 EUR (original: 119.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51x9LPC2EkL._SL200_.jpg)](https://www.amazon.com/dp/B01NB8O3TB/?tag=redken08-20)
 

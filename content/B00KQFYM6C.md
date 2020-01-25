@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Control Nature XL Preservativos - Pack d al 28.94 % de descuento'
+title: 'Control Nature XL Preservativos - Pack d'
 date: 2019/10/27 15:14:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516FR57HXhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516FR57HXhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Control Nature XL Preservativos - Pack de 12 preservativos](https://www.amazon.com/dp/B00KQFYM6C/?tag=redken08-20) a 6.36 EUR (original: 8.95 EUR) (28.94 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Control Nature XL Preservativos - Pack de 12 preservativos](https://www.amazon.com/dp/B00KQFYM6C/?tag=redken08-20) a 6.36 EUR (original: 8.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516FR57HXhL._SL200_.jpg)](https://www.amazon.com/dp/B00KQFYM6C/?tag=redken08-20)
 

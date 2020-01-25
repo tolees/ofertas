@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9081 - Geldautomat al 40.24 % de descuento'
+title: 'Playmobil 9081 - Geldautomat'
 date: 2019/12/13 17:01:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61TMFXGyO%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61TMFXGyO%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 9081 - Geldautomat](https://www.amazon.com/dp/B01LWT5KBH/?tag=redken08-20) con 40.24 de descuento por 5.97 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [Playmobil 9081 - Geldautomat](https://www.amazon.com/dp/B01LWT5KBH/?tag=redken08-20) por 5.97 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61TMFXGyO%2BL._SL200_.jpg)](https://www.amazon.com/dp/B01LWT5KBH/?tag=redken08-20)
 

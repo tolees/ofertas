@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yamaha AS-301 - Amplificador híbrido  95 al 25.07 % de descuento'
+title: 'Yamaha AS-301 - Amplificador híbrido  95'
 date: 2019/11/05 10:09:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ErFZGrirL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ErFZGrirL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 359 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Yamaha AS-301 - Amplificador híbrido  95W  estéreo  entrada digital  plateado](https://www.amazon.com/dp/B00MYDLHUI/?tag=redken08-20) a 269 EUR (original: 359 EUR) (25.07 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Yamaha AS-301 - Amplificador híbrido  95W  estéreo  entrada digital  plateado](https://www.amazon.com/dp/B00MYDLHUI/?tag=redken08-20) a 269 EUR (original: 359 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ErFZGrirL._SL200_.jpg)](https://www.amazon.com/dp/B00MYDLHUI/?tag=redken08-20)
 

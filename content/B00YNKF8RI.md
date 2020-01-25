@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma 359135 - Zapatillas de deporte para al 73.53 % de descuento'
+title: 'Puma 359135 - Zapatillas de deporte para'
 date: 2019/10/11 10:57:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41slGTb89mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41slGTb89mL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 101.09 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma 359135 - Zapatillas de deporte para hombre  Negro  Black   42 EU](https://www.amazon.com/dp/B00YNKF8RI/?tag=redken08-20) a 26.76 EUR (original: 101.09 EUR) (73.53 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Puma 359135 - Zapatillas de deporte para hombre  Negro  Black   42 EU](https://www.amazon.com/dp/B00YNKF8RI/?tag=redken08-20) a 26.76 EUR (original: 101.09 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41slGTb89mL._SL200_.jpg)](https://www.amazon.com/dp/B00YNKF8RI/?tag=redken08-20)
 

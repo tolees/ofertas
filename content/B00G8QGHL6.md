@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Continental 0150006 - Cubierta de Ciclis al 38.55 % de descuento'
+title: 'Continental 0150006 - Cubierta de Ciclis'
 date: 2019/10/06 16:24:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JG8kcZ%2BmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JG8kcZ%2BmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.82 EUR
 inStock: true
 ---
 
-Está [Continental 0150006 - Cubierta de Ciclismo  Color Negro](https://www.amazon.com/dp/B00G8QGHL6/?tag=redken08-20) con 38.55 de descuento por 10.95 EUR (original: 17.82 EUR) en el siguiente enlace!
+Está [Continental 0150006 - Cubierta de Ciclismo  Color Negro](https://www.amazon.com/dp/B00G8QGHL6/?tag=redken08-20) por 10.95 EUR (original: 17.82 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JG8kcZ%2BmL._SL200_.jpg)](https://www.amazon.com/dp/B00G8QGHL6/?tag=redken08-20)
 

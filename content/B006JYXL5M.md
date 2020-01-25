@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El motor eléctrico se basa leche Nuby Na al 90.66 % de descuento'
+title: 'El motor eléctrico se basa leche Nuby Na'
 date: 2020-01-22 16:08:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IO1T7XL%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IO1T7XL%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 104 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [El motor eléctrico se basa leche Nuby Natural Touch](https://www.amazon.com/dp/B006JYXL5M/?tag=redken08-20) a 9.71 EUR (original: 104 EUR) (90.66 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [El motor eléctrico se basa leche Nuby Natural Touch](https://www.amazon.com/dp/B006JYXL5M/?tag=redken08-20) a 9.71 EUR (original: 104 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31IO1T7XL%2BL._SL200_.jpg)](https://www.amazon.com/dp/B006JYXL5M/?tag=redken08-20)
 

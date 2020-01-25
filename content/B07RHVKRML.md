@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 51.48 % en Bloodstained: Ritual of the night'
+title: 'Bloodstained: Ritual of the night'
 date: 2020-01-11 23:52:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51efBSC2OtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51efBSC2OtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 41.01 EUR
 inStock: true
 ---
 
-Tienes [Bloodstained: Ritual of the night](https://www.amazon.com/dp/B07RHVKRML/?tag=redken08-20) con un 51.48 % de descuento con precio de oferta de 19.9 EUR (original: 41.01 EUR) en el siguiente enlace!
+Tienes [Bloodstained: Ritual of the night](https://www.amazon.com/dp/B07RHVKRML/?tag=redken08-20) a precio de oferta de 19.9 EUR (original: 41.01 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51efBSC2OtL._SL200_.jpg)](https://www.amazon.com/dp/B07RHVKRML/?tag=redken08-20)
 

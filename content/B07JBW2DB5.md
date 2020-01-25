@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 63.53 % en Hackett Aston Martin Racing Polo  Negro '
+title: 'Hackett Aston Martin Racing Polo  Negro '
 date: 2019/12/04 08:59:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PdvXczIuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PdvXczIuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Tienes [Hackett Aston Martin Racing Polo  Negro  Black/Multi 9eg   Medium para Hombre](https://www.amazon.com/dp/B07JBW2DB5/?tag=redken08-20) con un 63.53 % de descuento con precio de oferta de 47.41 EUR (original: 130 EUR) en el siguiente enlace!
+Tienes [Hackett Aston Martin Racing Polo  Negro  Black/Multi 9eg   Medium para Hombre](https://www.amazon.com/dp/B07JBW2DB5/?tag=redken08-20) a precio de oferta de 47.41 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PdvXczIuL._SL200_.jpg)](https://www.amazon.com/dp/B07JBW2DB5/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toki Retrocollector Edition al 34.21 % de descuento'
+title: 'Toki Retrocollector Edition'
 date: 2020-01-08 21:25:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hTJpxYjmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hTJpxYjmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Toki Retrocollector Edition](https://www.amazon.com/dp/B07F8NHRMY/?tag=redken08-20) con 34.21 de descuento por 32.89 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Toki Retrocollector Edition](https://www.amazon.com/dp/B07F8NHRMY/?tag=redken08-20) por 32.89 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51hTJpxYjmL._SL200_.jpg)](https://www.amazon.com/dp/B07F8NHRMY/?tag=redken08-20)
 

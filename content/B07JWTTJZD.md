@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bohemian Rhapsody Blu-Ray [Blu-ray] al 52.43 % de descuento'
+title: 'Bohemian Rhapsody Blu-Ray [Blu-ray]'
 date: 2019/11/01 14:56:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sqJMNvN6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sqJMNvN6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.9 EUR
 inStock: true
 ---
 
-Está [Bohemian Rhapsody Blu-Ray [Blu-ray]](https://www.amazon.com/dp/B07JWTTJZD/?tag=redken08-20) con 52.43 de descuento por 8.99 EUR (original: 18.9 EUR) en el siguiente enlace!
+Está [Bohemian Rhapsody Blu-Ray [Blu-ray]](https://www.amazon.com/dp/B07JWTTJZD/?tag=redken08-20) por 8.99 EUR (original: 18.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sqJMNvN6L._SL200_.jpg)](https://www.amazon.com/dp/B07JWTTJZD/?tag=redken08-20)
 

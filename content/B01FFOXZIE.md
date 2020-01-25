@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.36 % en Philips QP210/50 - Cuchilla de recambio '
+title: 'Philips QP210/50 - Cuchilla de recambio '
 date: 2019/11/28 15:24:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dvwdihGmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dvwdihGmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Tienes [Philips QP210/50 - Cuchilla de recambio para Philips OneBlade  Versión Inglesa   1 cuchilla](https://www.amazon.com/dp/B01FFOXZIE/?tag=redken08-20) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Tienes [Philips QP210/50 - Cuchilla de recambio para Philips OneBlade  Versión Inglesa   1 cuchilla](https://www.amazon.com/dp/B01FFOXZIE/?tag=redken08-20) a precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51dvwdihGmL._SL200_.jpg)](https://www.amazon.com/dp/B01FFOXZIE/?tag=redken08-20)
 

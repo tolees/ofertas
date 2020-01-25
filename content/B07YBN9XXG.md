@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bose SoundLink Mini Bluetooth speaker II al 30.60 % de descuento'
+title: 'Bose SoundLink Mini Bluetooth speaker II'
 date: 2019/12/26 20:36:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tYdY-PRHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tYdY-PRHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.95 EUR
 inStock: true
 ---
 
-Está [Bose SoundLink Mini Bluetooth speaker II - Special Edition  Silber](https://www.amazon.com/dp/B07YBN9XXG/?tag=redken08-20) con 30.60 de descuento por 111 EUR (original: 159.95 EUR) en el siguiente enlace!
+Está [Bose SoundLink Mini Bluetooth speaker II - Special Edition  Silber](https://www.amazon.com/dp/B07YBN9XXG/?tag=redken08-20) por 111 EUR (original: 159.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tYdY-PRHL._SL200_.jpg)](https://www.amazon.com/dp/B07YBN9XXG/?tag=redken08-20)
 

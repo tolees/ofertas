@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Windbreaker Jacket Chaquetas  H al 31.34 % de descuento'
+title: 'Hurley M Windbreaker Jacket Chaquetas  H'
 date: 2019/12/05 17:03:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XUvx9szEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XUvx9szEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Está [Hurley M Windbreaker Jacket Chaquetas  Hombre  Mystic Navy  L](https://www.amazon.com/dp/B07SQZN3GR/?tag=redken08-20) con 31.34 de descuento por 48.06 EUR (original: 70 EUR) en el siguiente enlace!
+Está [Hurley M Windbreaker Jacket Chaquetas  Hombre  Mystic Navy  L](https://www.amazon.com/dp/B07SQZN3GR/?tag=redken08-20) por 48.06 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XUvx9szEL._SL200_.jpg)](https://www.amazon.com/dp/B07SQZN3GR/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NUU Mobile A4L Unlocked Smartphone | 4G  al 28.58 % de descuento'
+title: 'NUU Mobile A4L Unlocked Smartphone | 4G '
 date: 2019/12/07 19:12:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BNVRfkdaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BNVRfkdaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [NUU Mobile A4L Unlocked Smartphone | 4G UK Sim Free Android Smartphone | Dual Sim Mobile Phone - 5MP HD Camera | Dual EU & UK Version  Grey   16GB ](https://www.amazon.com/dp/B07PMDY4QK/?tag=redken08-20) a 49.99 GBP (original: 69.99 GBP) (28.58 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [NUU Mobile A4L Unlocked Smartphone | 4G UK Sim Free Android Smartphone | Dual Sim Mobile Phone - 5MP HD Camera | Dual EU & UK Version  Grey   16GB ](https://www.amazon.com/dp/B07PMDY4QK/?tag=redken08-20) a 49.99 GBP (original: 69.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BNVRfkdaL._SL200_.jpg)](https://www.amazon.com/dp/B07PMDY4QK/?tag=redken08-20)
 

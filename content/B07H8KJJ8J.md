@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Castellanísimos Mocasines de Mujer en Pi al 60.53 % de descuento'
+title: 'Castellanísimos Mocasines de Mujer en Pi'
 date: 2020-01-12 09:44:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LuCj1UljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LuCj1UljL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 152 EUR
 inStock: true
 ---
 
-Está [Castellanísimos Mocasines de Mujer en Piel Florentic Burdeos con Borlas](https://www.amazon.com/dp/B07H8KJJ8J/?tag=redken08-20) con 60.53 de descuento por 59.99 EUR (original: 152 EUR) en el siguiente enlace!
+Está [Castellanísimos Mocasines de Mujer en Piel Florentic Burdeos con Borlas](https://www.amazon.com/dp/B07H8KJJ8J/?tag=redken08-20) por 59.99 EUR (original: 152 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31LuCj1UljL._SL200_.jpg)](https://www.amazon.com/dp/B07H8KJJ8J/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 42.71 % en JACK & JONES Jcojames Sweat Hood Camp Ca'
+title: 'JACK & JONES Jcojames Sweat Hood Camp Ca'
 date: 2019/10/24 00:15:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bwLeepMkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bwLeepMkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [JACK & JONES Jcojames Sweat Hood Camp Capucha  Verde  Evergreen Detail: Melange   Large para Hombre](https://www.amazon.com/dp/B07K4XJXKT/?tag=redken08-20) con un 42.71 % de descuento con precio de oferta de 17.18 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [JACK & JONES Jcojames Sweat Hood Camp Capucha  Verde  Evergreen Detail: Melange   Large para Hombre](https://www.amazon.com/dp/B07K4XJXKT/?tag=redken08-20) a precio de oferta de 17.18 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bwLeepMkL._SL200_.jpg)](https://www.amazon.com/dp/B07K4XJXKT/?tag=redken08-20)
 

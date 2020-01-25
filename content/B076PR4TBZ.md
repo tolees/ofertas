@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SUAOKI - 150Wh Generador Portátil Solar  al 60.00 % de descuento'
+title: 'SUAOKI - 150Wh Generador Portátil Solar '
 date: 2019/12/17 19:15:27 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 299.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SUAOKI - 150Wh Generador Portátil Solar  Estación Almacenamiento Suministro de Energía Potencia  Carga QC3.0 con una AC 220V Salida  4 Puertos USB  linternas LED Emergencia para Camping  Senderismo ](https://www.amazon.com/dp/B076PR4TBZ/?tag=redken08-20) a 119.99 EUR (original: 299.99 EUR) (60.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [SUAOKI - 150Wh Generador Portátil Solar  Estación Almacenamiento Suministro de Energía Potencia  Carga QC3.0 con una AC 220V Salida  4 Puertos USB  linternas LED Emergencia para Camping  Senderismo ](https://www.amazon.com/dp/B076PR4TBZ/?tag=redken08-20) a 119.99 EUR (original: 299.99 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B076PR4TBZ/?tag=redken08-20)
 

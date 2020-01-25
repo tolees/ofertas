@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Elite V Camiseta  Unisex Adulto  Az al 47.20 % de descuento'
+title: 'Joma Elite V Camiseta  Unisex Adulto  Az'
 date: 2019/10/13 10:44:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J11QuwYML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J11QuwYML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.74 EUR
 inStock: true
 ---
 
-Está [Joma Elite V Camiseta  Unisex Adulto  Azul Marino  M](https://www.amazon.com/dp/B01ERYTT4M/?tag=redken08-20) con 47.20 de descuento por 10.95 EUR (original: 20.74 EUR) en el siguiente enlace!
+Está [Joma Elite V Camiseta  Unisex Adulto  Azul Marino  M](https://www.amazon.com/dp/B01ERYTT4M/?tag=redken08-20) por 10.95 EUR (original: 20.74 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41J11QuwYML._SL200_.jpg)](https://www.amazon.com/dp/B01ERYTT4M/?tag=redken08-20)
 

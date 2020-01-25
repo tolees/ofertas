@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam Lazr Sport  Zapat al 66.30 % de descuento'
+title: 'New Balance Fresh Foam Lazr Sport  Zapat'
 date: 2019/11/18 22:21:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41415P2Y9HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41415P2Y9HL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Gris  Shark Skin/Magnet/White CG   44 EU](https://www.amazon.com/dp/B0791ZJMCF/?tag=redken08-20) con 66.30 de descuento por 30.33 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Gris  Shark Skin/Magnet/White CG   44 EU](https://www.amazon.com/dp/B0791ZJMCF/?tag=redken08-20) por 30.33 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41415P2Y9HL._SL200_.jpg)](https://www.amazon.com/dp/B0791ZJMCF/?tag=redken08-20)
 

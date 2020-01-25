@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scotch & Soda Allover Printed Polo Camis al 80.14 % de descuento'
+title: 'Scotch & Soda Allover Printed Polo Camis'
 date: 2019/12/15 10:42:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VqwEbDBUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VqwEbDBUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Scotch & Soda Allover Printed Polo Camisa   Combo A 17   X-Large para Hombre](https://www.amazon.com/dp/B07L1HPJW1/?tag=redken08-20) a 9.92 EUR (original: 49.95 EUR) (80.14 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Scotch & Soda Allover Printed Polo Camisa   Combo A 17   X-Large para Hombre](https://www.amazon.com/dp/B07L1HPJW1/?tag=redken08-20) a 9.92 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VqwEbDBUL._SL200_.jpg)](https://www.amazon.com/dp/B07L1HPJW1/?tag=redken08-20)
 

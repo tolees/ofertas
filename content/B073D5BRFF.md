@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diadora - Zapatillas de Deporte Game Met al 73.94 % de descuento'
+title: 'Diadora - Zapatillas de Deporte Game Met'
 date: 2019/12/05 09:13:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JN-qbX67L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JN-qbX67L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [Diadora - Zapatillas de Deporte Game Metallic para Hombre y Mujer ES 42](https://www.amazon.com/dp/B073D5BRFF/?tag=redken08-20) con 73.94 de descuento por 23.45 EUR (original: 90 EUR) en el siguiente enlace!
+Está [Diadora - Zapatillas de Deporte Game Metallic para Hombre y Mujer ES 42](https://www.amazon.com/dp/B073D5BRFF/?tag=redken08-20) por 23.45 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JN-qbX67L._SL200_.jpg)](https://www.amazon.com/dp/B073D5BRFF/?tag=redken08-20)
 

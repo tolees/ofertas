@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Hybrid Astro  Zapatillas de Running al 50.02 % de descuento'
+title: 'PUMA Hybrid Astro  Zapatillas de Running'
 date: 2019/10/10 07:19:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416foNfCFnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416foNfCFnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119.95 EUR
 inStock: true
 ---
 
-Está [PUMA Hybrid Astro  Zapatillas de Running para Hombre - Gris  Castlerock-Puma Black-Nrgy Red 01  - 44 EU](https://www.amazon.com/dp/B07KG1D3VH/?tag=redken08-20) con 50.02 de descuento por 59.95 EUR (original: 119.95 EUR) en el siguiente enlace!
+Está [PUMA Hybrid Astro  Zapatillas de Running para Hombre - Gris  Castlerock-Puma Black-Nrgy Red 01  - 44 EU](https://www.amazon.com/dp/B07KG1D3VH/?tag=redken08-20) por 59.95 EUR (original: 119.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416foNfCFnL._SL200_.jpg)](https://www.amazon.com/dp/B07KG1D3VH/?tag=redken08-20)
 

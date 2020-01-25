@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York - Superstay Matte In al 50.45 % de descuento'
+title: 'Maybelline New York - Superstay Matte In'
 date: 2020-01-02 11:37:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H8Z3CPmUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H8Z3CPmUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [Maybelline New York - Superstay Matte Ink City Edition  Barra de Labios Mate  Tono 125 Inspirer](https://www.amazon.com/dp/B07F44CVFQ/?tag=redken08-20) con 50.45 de descuento por 4.95 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [Maybelline New York - Superstay Matte Ink City Edition  Barra de Labios Mate  Tono 125 Inspirer](https://www.amazon.com/dp/B07F44CVFQ/?tag=redken08-20) por 4.95 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31H8Z3CPmUL._SL200_.jpg)](https://www.amazon.com/dp/B07F44CVFQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.00 % en Salomon HYDRO 45 BELT Riñonera'
+title: 'Salomon HYDRO 45 BELT Riñonera'
 date: 2020-01-23 07:17:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P5lRxHzlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P5lRxHzlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Tienes [Salomon HYDRO 45 BELT Riñonera](https://www.amazon.com/dp/B07F6ZTSWW/?tag=redken08-20) con un 40.00 % de descuento con precio de oferta de 18 EUR (original: 30 EUR) en el siguiente enlace!
+Tienes [Salomon HYDRO 45 BELT Riñonera](https://www.amazon.com/dp/B07F6ZTSWW/?tag=redken08-20) a precio de oferta de 18 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41P5lRxHzlL._SL200_.jpg)](https://www.amazon.com/dp/B07F6ZTSWW/?tag=redken08-20)
 

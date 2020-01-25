@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MERAKI Pantalones Capri Mujer  Gris  Mar al 70.00 % de descuento'
+title: 'MERAKI Pantalones Capri Mujer  Gris  Mar'
 date: 2019/10/08 18:43:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TLujMt4TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TLujMt4TL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MERAKI Pantalones Capri Mujer  Gris  Marl Charcoal   48  Talla del fabricante: XXX-Large ](https://www.amazon.com/dp/B074Q6VPXL/?tag=redken08-20) a 6.57 EUR (original: 21.9 EUR) (70.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [MERAKI Pantalones Capri Mujer  Gris  Marl Charcoal   48  Talla del fabricante: XXX-Large ](https://www.amazon.com/dp/B074Q6VPXL/?tag=redken08-20) a 6.57 EUR (original: 21.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31TLujMt4TL._SL200_.jpg)](https://www.amazon.com/dp/B074Q6VPXL/?tag=redken08-20)
 

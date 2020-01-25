@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon AF-S NIKKOR f/1.8G Lens - 50 mm al 25.50 % de descuento'
+title: 'Nikon AF-S NIKKOR f/1.8G Lens - 50 mm'
 date: 2019/12/24 18:35:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s6sKccnRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s6sKccnRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nikon AF-S NIKKOR f/1.8G Lens - 50 mm](https://www.amazon.com/dp/B004Y1AYAC/?tag=redken08-20) a 149 GBP (original: 199.99 GBP) (25.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Nikon AF-S NIKKOR f/1.8G Lens - 50 mm](https://www.amazon.com/dp/B004Y1AYAC/?tag=redken08-20) a 149 GBP (original: 199.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51s6sKccnRL._SL200_.jpg)](https://www.amazon.com/dp/B004Y1AYAC/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Las cicatrices de Drácula - BD [Blu-ray] al 30.03 % de descuento'
+title: 'Las cicatrices de Drácula - BD [Blu-ray]'
 date: 2019/10/22 22:21:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EdkHKynwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EdkHKynwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Las cicatrices de Drácula - BD [Blu-ray]](https://www.amazon.com/dp/B07SCHFBW8/?tag=redken08-20) a 8.39 EUR (original: 11.99 EUR) (30.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Las cicatrices de Drácula - BD [Blu-ray]](https://www.amazon.com/dp/B07SCHFBW8/?tag=redken08-20) a 8.39 EUR (original: 11.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EdkHKynwL._SL200_.jpg)](https://www.amazon.com/dp/B07SCHFBW8/?tag=redken08-20)
 

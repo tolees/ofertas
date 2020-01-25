@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Daybreaker 1/2 Zip Fleece B al 36.02 % de descuento'
+title: 'Helly Hansen Daybreaker 1/2 Zip Fleece B'
 date: 2019/12/07 07:41:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T5M3fGcjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T5M3fGcjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen Daybreaker 1/2 Zip Fleece Bufanda  Hombre  Negro  XL](https://www.amazon.com/dp/B005KQ3ISA/?tag=redken08-20) a 31.99 EUR (original: 50 EUR) (36.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen Daybreaker 1/2 Zip Fleece Bufanda  Hombre  Negro  XL](https://www.amazon.com/dp/B005KQ3ISA/?tag=redken08-20) a 31.99 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41T5M3fGcjL._SL200_.jpg)](https://www.amazon.com/dp/B005KQ3ISA/?tag=redken08-20)
 

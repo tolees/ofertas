@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.78 % en HP OfficeJet 250 Mobile AiO - Impresora '
+title: 'HP OfficeJet 250 Mobile AiO - Impresora '
 date: 2019/10/30 05:03:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ivTvdqmtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ivTvdqmtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 354.45 EUR
 inStock: true
 ---
 
-Tienes [HP OfficeJet 250 Mobile AiO - Impresora multifunción  Inyección de tinta térmica  600 x 600 DPI  600 x 600 DPI  A4  216 x 356 mm  Color ](https://www.amazon.com/dp/B01IQS8UHC/?tag=redken08-20) con un 30.78 % de descuento con precio de oferta de 245.35 EUR (original: 354.45 EUR) en el siguiente enlace!
+Tienes [HP OfficeJet 250 Mobile AiO - Impresora multifunción  Inyección de tinta térmica  600 x 600 DPI  600 x 600 DPI  A4  216 x 356 mm  Color ](https://www.amazon.com/dp/B01IQS8UHC/?tag=redken08-20) a precio de oferta de 245.35 EUR (original: 354.45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ivTvdqmtL._SL200_.jpg)](https://www.amazon.com/dp/B01IQS8UHC/?tag=redken08-20)
 

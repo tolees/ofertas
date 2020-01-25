@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMRON C102 Total Inhalador 2 en 1 con du al 41.67 % de descuento'
+title: 'OMRON C102 Total Inhalador 2 en 1 con du'
 date: 2019/12/01 12:32:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KznMcCweL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KznMcCweL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [OMRON C102 Total Inhalador 2 en 1 con ducha nasal: alivia de manera eficaz la obstrucción nasal y los síntomas de alergia en niños y adultos](https://www.amazon.com/dp/B07GBFLR3L/?tag=redken08-20) a 34.99 EUR (original: 59.99 EUR) (41.67 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [OMRON C102 Total Inhalador 2 en 1 con ducha nasal: alivia de manera eficaz la obstrucción nasal y los síntomas de alergia en niños y adultos](https://www.amazon.com/dp/B07GBFLR3L/?tag=redken08-20) a 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KznMcCweL._SL200_.jpg)](https://www.amazon.com/dp/B07GBFLR3L/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ringke Fusion-X Diseñado para Funda Sams al 66.70 % de descuento'
+title: 'Ringke Fusion-X Diseñado para Funda Sams'
 date: 2019/12/14 08:01:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AHW9WjZvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AHW9WjZvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ringke Fusion-X Diseñado para Funda Samsung Galaxy A50  Funda Galaxy A50s  Funda Galaxy A30s  Protección Resistente Impactos TPU + PC Carcasa Galaxy A50 / A50s / A30s - Camo Black](https://www.amazon.com/dp/B07RWMNW6D/?tag=redken08-20) a 9.99 EUR (original: 30 EUR) (66.70 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Ringke Fusion-X Diseñado para Funda Samsung Galaxy A50  Funda Galaxy A50s  Funda Galaxy A30s  Protección Resistente Impactos TPU + PC Carcasa Galaxy A50 / A50s / A30s - Camo Black](https://www.amazon.com/dp/B07RWMNW6D/?tag=redken08-20) a 9.99 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51AHW9WjZvL._SL200_.jpg)](https://www.amazon.com/dp/B07RWMNW6D/?tag=redken08-20)
 

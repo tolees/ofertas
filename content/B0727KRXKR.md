@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Xperia XA1 - Smartphone con pantall al 50.18 % de descuento'
+title: 'Sony Xperia XA1 - Smartphone con pantall'
 date: 2019/12/24 11:05:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yODSAhZWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yODSAhZWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 279 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony Xperia XA1 - Smartphone con pantalla HD de 5"  Octa Core 2.3 GHz  RAM de 3 GB  memoria interna de 32 GB  cámara de 23 MP  Android  Negro](https://www.amazon.com/dp/B0727KRXKR/?tag=redken08-20) a 139 EUR (original: 279 EUR) (50.18 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony Xperia XA1 - Smartphone con pantalla HD de 5"  Octa Core 2.3 GHz  RAM de 3 GB  memoria interna de 32 GB  cámara de 23 MP  Android  Negro](https://www.amazon.com/dp/B0727KRXKR/?tag=redken08-20) a 139 EUR (original: 279 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31yODSAhZWL._SL200_.jpg)](https://www.amazon.com/dp/B0727KRXKR/?tag=redken08-20)
 

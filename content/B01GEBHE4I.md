@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black Crevice Abrigo Corto Negro / Naran al 74.83 % de descuento'
+title: 'Black Crevice Abrigo Corto Negro / Naran'
 date: 2019/10/11 07:35:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k05eUjqtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k05eUjqtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139.99 EUR
 inStock: true
 ---
 
-Está [Black Crevice Abrigo Corto Negro / Naranja S](https://www.amazon.com/dp/B01GEBHE4I/?tag=redken08-20) con 74.83 de descuento por 35.23 EUR (original: 139.99 EUR) en el siguiente enlace!
+Está [Black Crevice Abrigo Corto Negro / Naranja S](https://www.amazon.com/dp/B01GEBHE4I/?tag=redken08-20) por 35.23 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41k05eUjqtL._SL200_.jpg)](https://www.amazon.com/dp/B01GEBHE4I/?tag=redken08-20)
 

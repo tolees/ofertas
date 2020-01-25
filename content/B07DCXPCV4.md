@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Real Madrid Fbl Balón  Hombre  Gr al 46.97 % de descuento'
+title: 'adidas Real Madrid Fbl Balón  Hombre  Gr'
 date: 2019/12/25 18:44:03 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Real Madrid Fbl Balón  Hombre  Gris  ónitéc/onifue  / Blanco  5](https://www.amazon.com/dp/B07DCXPCV4/?tag=redken08-20) a 10.6 EUR (original: 19.99 EUR) (46.97 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Real Madrid Fbl Balón  Hombre  Gris  ónitéc/onifue  / Blanco  5](https://www.amazon.com/dp/B07DCXPCV4/?tag=redken08-20) a 10.6 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07DCXPCV4/?tag=redken08-20)
 

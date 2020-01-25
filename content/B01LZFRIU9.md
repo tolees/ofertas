@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Vi Figura de Vinilo  colección de  al 44.56 % de descuento'
-date: 2020-01-24 17:58:42
+title: 'Funko Vi Figura de Vinilo  colección de '
+date: 2020-01-25 18:03:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41G010Nb6vL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41G010Nb6vL._AC_._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko Vi Figura de Vinilo  colección de Pop  seria League of Legends  Multicolor  10302 ](https://www.amazon.com/dp/B01LZFRIU9/?tag=redken08-20) con 44.56 de descuento por 8.31 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Funko Vi Figura de Vinilo  colección de Pop  seria League of Legends  Multicolor  10302 ](https://www.amazon.com/dp/B01LZFRIU9/?tag=redken08-20) por 8.31 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41G010Nb6vL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01LZFRIU9/?tag=redken08-20)
 

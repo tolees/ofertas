@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Beauty Calendario de Adviento 201 al 34.78 % de descuento'
+title: 'Amazon Beauty Calendario de Adviento 201'
 date: 2019/11/26 22:59:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KCUNsT3zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KCUNsT3zL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Amazon Beauty Calendario de Adviento 2019  versión española ](https://www.amazon.com/dp/B07XQKBF34/?tag=redken08-20) a 45 EUR (original: 69 EUR) (34.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Amazon Beauty Calendario de Adviento 2019  versión española ](https://www.amazon.com/dp/B07XQKBF34/?tag=redken08-20) a 45 EUR (original: 69 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KCUNsT3zL._SL200_.jpg)](https://www.amazon.com/dp/B07XQKBF34/?tag=redken08-20)
 

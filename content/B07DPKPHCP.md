@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Strappy Mix Bra L T-Shirt  Mujer  W al 60.85 % de descuento'
+title: 'PUMA Strappy Mix Bra L T-Shirt  Mujer  W'
 date: 2019/11/13 09:57:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K3SsHs5GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K3SsHs5GL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Está [PUMA Strappy Mix Bra L T-Shirt  Mujer  Winsome Orchid  L](https://www.amazon.com/dp/B07DPKPHCP/?tag=redken08-20) con 60.85 de descuento por 15.64 EUR (original: 39.95 EUR) en el siguiente enlace!
+Está [PUMA Strappy Mix Bra L T-Shirt  Mujer  Winsome Orchid  L](https://www.amazon.com/dp/B07DPKPHCP/?tag=redken08-20) por 15.64 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41K3SsHs5GL._SL200_.jpg)](https://www.amazon.com/dp/B07DPKPHCP/?tag=redken08-20)
 

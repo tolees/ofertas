@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Tassel Suéter para Mujer  Negro  B al 70.00 % de descuento'
+title: 'find. Tassel Suéter para Mujer  Negro  B'
 date: 2019/11/24 03:18:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cDLgoXtPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cDLgoXtPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [find. Tassel Suéter para Mujer  Negro  Black/white   42  Talla del Fabricante: Large ](https://www.amazon.com/dp/B01N4E9TUN/?tag=redken08-20) con 70.00 de descuento por 9 EUR (original: 30 EUR) en el siguiente enlace!
+Está [find. Tassel Suéter para Mujer  Negro  Black/white   42  Talla del Fabricante: Large ](https://www.amazon.com/dp/B01N4E9TUN/?tag=redken08-20) por 9 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cDLgoXtPL._SL200_.jpg)](https://www.amazon.com/dp/B01N4E9TUN/?tag=redken08-20)
 

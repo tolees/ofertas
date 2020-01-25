@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 66.78 % en Transportador de viaje para gatos rígido'
+title: 'Transportador de viaje para gatos rígido'
 date: 2019/12/16 12:40:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NdQdQztSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NdQdQztSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 67.7 EUR
 inStock: true
 ---
 
-Tienes [Transportador de viaje para gatos rígido - Bolso de mano acolchado y plegable con puertas de malla para una ventilación óptima  para gatos  cachorros y perros pequeños  44 9 x 33 x 35 6 cm ](https://www.amazon.com/dp/B01KAWUHQY/?tag=redken08-20) con un 66.78 % de descuento con precio de oferta de 22.49 EUR (original: 67.7 EUR) en el siguiente enlace!
+Tienes [Transportador de viaje para gatos rígido - Bolso de mano acolchado y plegable con puertas de malla para una ventilación óptima  para gatos  cachorros y perros pequeños  44 9 x 33 x 35 6 cm ](https://www.amazon.com/dp/B01KAWUHQY/?tag=redken08-20) a precio de oferta de 22.49 EUR (original: 67.7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51NdQdQztSL._SL200_.jpg)](https://www.amazon.com/dp/B01KAWUHQY/?tag=redken08-20)
 

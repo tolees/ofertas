@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'APEX Construct al 39.98 % de descuento'
+title: 'APEX Construct'
 date: 2019/12/31 12:15:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VzVl2MfYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VzVl2MfYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [APEX Construct](https://www.amazon.com/dp/B07CZNQP8K/?tag=redken08-20) con 39.98 de descuento por 18 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [APEX Construct](https://www.amazon.com/dp/B07CZNQP8K/?tag=redken08-20) por 18 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51VzVl2MfYL._SL200_.jpg)](https://www.amazon.com/dp/B07CZNQP8K/?tag=redken08-20)
 

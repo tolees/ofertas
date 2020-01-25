@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Operación - Hasbro Gaming  Hasbro B2176B al 32.70 % de descuento'
+title: 'Operación - Hasbro Gaming  Hasbro B2176B'
 date: 2019/12/30 10:56:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61kNVqUHF5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61kNVqUHF5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Operación - Hasbro Gaming  Hasbro B2176B09 ](https://www.amazon.com/dp/B01GG1BHZI/?tag=redken08-20) con 32.70 de descuento por 20.19 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Operación - Hasbro Gaming  Hasbro B2176B09 ](https://www.amazon.com/dp/B01GG1BHZI/?tag=redken08-20) por 20.19 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61kNVqUHF5L._SL200_.jpg)](https://www.amazon.com/dp/B01GG1BHZI/?tag=redken08-20)
 

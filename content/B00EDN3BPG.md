@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Creato Masa rápida para moldear  alginat al 34.79 % de descuento'
+title: 'Creato Masa rápida para moldear  alginat'
 date: 2019/10/26 08:41:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dV0BWHYZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dV0BWHYZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.43 EUR
 inStock: true
 ---
 
-Está [Creato Masa rápida para moldear  alginato para moldear en Bolsa sintética  1000 Gramos](https://www.amazon.com/dp/B00EDN3BPG/?tag=redken08-20) con 34.79 de descuento por 19.19 EUR (original: 29.43 EUR) en el siguiente enlace!
+Está [Creato Masa rápida para moldear  alginato para moldear en Bolsa sintética  1000 Gramos](https://www.amazon.com/dp/B00EDN3BPG/?tag=redken08-20) por 19.19 EUR (original: 29.43 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dV0BWHYZL._SL200_.jpg)](https://www.amazon.com/dp/B00EDN3BPG/?tag=redken08-20)
 

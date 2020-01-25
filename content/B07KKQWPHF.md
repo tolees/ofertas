@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naf Naf Kend3 Mono  Negro  Écru/Noir 342 al 26.54 % de descuento'
+title: 'Naf Naf Kend3 Mono  Negro  Écru/Noir 342'
 date: 2019/12/07 00:19:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HapVDFeaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HapVDFeaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Naf Naf Kend3 Mono  Negro  Écru/Noir 342   42 para Mujer](https://www.amazon.com/dp/B07KKQWPHF/?tag=redken08-20) a 62.44 EUR (original: 85 EUR) (26.54 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Naf Naf Kend3 Mono  Negro  Écru/Noir 342   42 para Mujer](https://www.amazon.com/dp/B07KKQWPHF/?tag=redken08-20) a 62.44 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31HapVDFeaL._SL200_.jpg)](https://www.amazon.com/dp/B07KKQWPHF/?tag=redken08-20)
 

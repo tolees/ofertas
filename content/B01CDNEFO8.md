@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony HT-CT390 2.1 Soundbar mit 300W Ausg al 45.29 % de descuento'
+title: 'Sony HT-CT390 2.1 Soundbar mit 300W Ausg'
 date: 2019/11/22 08:55:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O5D%2B3uHOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O5D%2B3uHOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 329 EUR
 inStock: true
 ---
 
-Está [Sony HT-CT390 2.1 Soundbar mit 300W Ausgangsleistung  NFC und Bluetooth  schwarz](https://www.amazon.com/dp/B01CDNEFO8/?tag=redken08-20) con 45.29 de descuento por 179.99 EUR (original: 329 EUR) en el siguiente enlace!
+Está [Sony HT-CT390 2.1 Soundbar mit 300W Ausgangsleistung  NFC und Bluetooth  schwarz](https://www.amazon.com/dp/B01CDNEFO8/?tag=redken08-20) por 179.99 EUR (original: 329 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31O5D%2B3uHOL._SL200_.jpg)](https://www.amazon.com/dp/B01CDNEFO8/?tag=redken08-20)
 

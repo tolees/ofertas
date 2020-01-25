@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POWER GUIDANCE Barbell Squat Pad Protect al 40.05 % de descuento'
+title: 'POWER GUIDANCE Barbell Squat Pad Protect'
 date: 2019/12/05 18:49:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XduMoB-tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XduMoB-tL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Está [POWER GUIDANCE Barbell Squat Pad Protectora del Cuello y del Hombro Ideal para Squats  Lunges  Hip Thrusts  Levantamiento de Pesas](https://www.amazon.com/dp/B01LYYFG1H/?tag=redken08-20) con 40.05 de descuento por 11.96 EUR (original: 19.95 EUR) en el siguiente enlace!
+Está [POWER GUIDANCE Barbell Squat Pad Protectora del Cuello y del Hombro Ideal para Squats  Lunges  Hip Thrusts  Levantamiento de Pesas](https://www.amazon.com/dp/B01LYYFG1H/?tag=redken08-20) por 11.96 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XduMoB-tL._SL200_.jpg)](https://www.amazon.com/dp/B01LYYFG1H/?tag=redken08-20)
 

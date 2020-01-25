@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Breathe Lace Zapatillas Muj al 42.90 % de descuento'
+title: 'Under Armour Breathe Lace Zapatillas Muj'
 date: 2020-01-18 12:40:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55.95 EUR
 inStock: true
 ---
 
-Está [Under Armour Breathe Lace Zapatillas Mujer  Blanco  White 104   37.5 EU](https://www.amazon.com/dp/B07HKNMP1G/?tag=redken08-20) con 42.90 de descuento por 31.95 EUR (original: 55.95 EUR) en el siguiente enlace!
+Está [Under Armour Breathe Lace Zapatillas Mujer  Blanco  White 104   37.5 EU](https://www.amazon.com/dp/B07HKNMP1G/?tag=redken08-20) por 31.95 EUR (original: 55.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL200_.jpg)](https://www.amazon.com/dp/B07HKNMP1G/?tag=redken08-20)
 

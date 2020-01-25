@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Camiseta para Hombre  Gris  Grey M al 70.00 % de descuento'
+title: 'find. Camiseta para Hombre  Gris  Grey M'
 date: 2019/10/15 17:22:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412xFVUOYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412xFVUOYdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12 EUR
 inStock: true
 ---
 
-Está [find. Camiseta para Hombre  Gris  Grey Marl 001   Medium](https://www.amazon.com/dp/B073SCHN1N/?tag=redken08-20) con 70.00 de descuento por 3.6 EUR (original: 12 EUR) en el siguiente enlace!
+Está [find. Camiseta para Hombre  Gris  Grey Marl 001   Medium](https://www.amazon.com/dp/B073SCHN1N/?tag=redken08-20) por 3.6 EUR (original: 12 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412xFVUOYdL._SL200_.jpg)](https://www.amazon.com/dp/B073SCHN1N/?tag=redken08-20)
 

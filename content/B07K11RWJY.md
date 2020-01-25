@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas EQT Support 91/18  Zapatillas de  al 51.83 % de descuento'
+title: 'adidas EQT Support 91/18  Zapatillas de '
 date: 2019/10/08 20:54:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417IYLMf6wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417IYLMf6wL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas EQT Support 91/18  Zapatillas de Gimnasia para Hombre  Negro Core Black/FTWR White  46 EU](https://www.amazon.com/dp/B07K11RWJY/?tag=redken08-20) a 81.87 EUR (original: 169.95 EUR) (51.83 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas EQT Support 91/18  Zapatillas de Gimnasia para Hombre  Negro Core Black/FTWR White  46 EU](https://www.amazon.com/dp/B07K11RWJY/?tag=redken08-20) a 81.87 EUR (original: 169.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417IYLMf6wL._SL200_.jpg)](https://www.amazon.com/dp/B07K11RWJY/?tag=redken08-20)
 

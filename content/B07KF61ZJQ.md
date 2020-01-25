@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Herren Tapered Fit Jeans 502 Regu al 64.68 % de descuento'
+title: 'Levi s Herren Tapered Fit Jeans 502 Regu'
 date: 2020-01-23 12:17:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JWUhj87zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JWUhj87zL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Está [Levi s Herren Tapered Fit Jeans 502 Regular Taper  Blau  Creeping Thyme Adv 0412   W32/L30](https://www.amazon.com/dp/B07KF61ZJQ/?tag=redken08-20) con 64.68 de descuento por 38.85 EUR (original: 110 EUR) en el siguiente enlace!
+Está [Levi s Herren Tapered Fit Jeans 502 Regular Taper  Blau  Creeping Thyme Adv 0412   W32/L30](https://www.amazon.com/dp/B07KF61ZJQ/?tag=redken08-20) por 38.85 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JWUhj87zL._SL200_.jpg)](https://www.amazon.com/dp/B07KF61ZJQ/?tag=redken08-20)
 

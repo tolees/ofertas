@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 60234 City Town People Pack - Fun F al 31.41 % de descuento'
+title: 'LEGO 60234 City Town People Pack - Fun F'
 date: 2019/12/27 20:47:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lj9N0tq2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lj9N0tq2L._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Está [LEGO 60234 City Town People Pack - Fun Fair Building Set with 14 Minifigures  Toys for Kids 5 Years Old](https://www.amazon.com/dp/B07KTVR1H2/?tag=redken08-20) con 31.41 de descuento por 24 GBP (original: 34.99 GBP) en el siguiente enlace!
+Tienes [LEGO 60234 City Town People Pack - Fun Fair Building Set with 14 Minifigures  Toys for Kids 5 Years Old](https://www.amazon.com/dp/B07KTVR1H2/?tag=redken08-20) a precio de oferta de 24 GBP (original: 34.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51lj9N0tq2L._SL200_.jpg)](https://www.amazon.com/dp/B07KTVR1H2/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07KTVR1H2/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KTVR1H2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

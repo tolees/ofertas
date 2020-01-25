@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 70090 Family Fun Wassersport-S al 51.54 % de descuento'
+title: 'Playmobil 70090 Family Fun Wassersport-S'
 date: 2019/12/05 22:38:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TVK84MEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TVK84MEWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 70090 Family Fun Wassersport-Schule  bunt](https://www.amazon.com/dp/B07JLFKJTC/?tag=redken08-20) con 51.54 de descuento por 12.11 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [Playmobil 70090 Family Fun Wassersport-Schule  bunt](https://www.amazon.com/dp/B07JLFKJTC/?tag=redken08-20) por 12.11 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TVK84MEWL._SL200_.jpg)](https://www.amazon.com/dp/B07JLFKJTC/?tag=redken08-20)
 

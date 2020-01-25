@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Kristof A  Zapatillas para Hombre al 65.70 % de descuento'
+title: 'Geox U Kristof A  Zapatillas para Hombre'
 date: 2020-01-07 17:57:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 115 EUR
 inStock: true
 ---
 
-Está [Geox U Kristof A  Zapatillas para Hombre  Negro  Black C9999   40 EU](https://www.amazon.com/dp/B07LFV9N1L/?tag=redken08-20) con 65.70 de descuento por 39.44 EUR (original: 115 EUR) en el siguiente enlace!
+Está [Geox U Kristof A  Zapatillas para Hombre  Negro  Black C9999   40 EU](https://www.amazon.com/dp/B07LFV9N1L/?tag=redken08-20) por 39.44 EUR (original: 115 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL200_.jpg)](https://www.amazon.com/dp/B07LFV9N1L/?tag=redken08-20)
 

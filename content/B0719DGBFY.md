@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Camiseta Estampada para Hombre  Ne al 42.89 % de descuento'
+title: 'find. Camiseta Estampada para Hombre  Ne'
 date: 2020-01-13 09:16:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413LhgWihyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413LhgWihyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.88 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Camiseta Estampada para Hombre  Negro  Charcoal   Small](https://www.amazon.com/dp/B0719DGBFY/?tag=redken08-20) a 4.5 EUR (original: 7.88 EUR) (42.89 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [find. Camiseta Estampada para Hombre  Negro  Charcoal   Small](https://www.amazon.com/dp/B0719DGBFY/?tag=redken08-20) a 4.5 EUR (original: 7.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413LhgWihyL._SL200_.jpg)](https://www.amazon.com/dp/B0719DGBFY/?tag=redken08-20)
 

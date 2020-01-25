@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Avalon Wint Chaqueta  Azul  BL al 50.00 % de descuento'
+title: 'Napapijri Avalon Wint Chaqueta  Azul  BL'
 date: 2019/11/28 12:56:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199 EUR
 inStock: true
 ---
 
-Está [Napapijri Avalon Wint Chaqueta  Azul  BLU Marine 176   XX-Large para Hombre](https://www.amazon.com/dp/B07MVKXN6D/?tag=redken08-20) con 50.00 de descuento por 99.5 EUR (original: 199 EUR) en el siguiente enlace!
+Está [Napapijri Avalon Wint Chaqueta  Azul  BLU Marine 176   XX-Large para Hombre](https://www.amazon.com/dp/B07MVKXN6D/?tag=redken08-20) por 99.5 EUR (original: 199 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg)](https://www.amazon.com/dp/B07MVKXN6D/?tag=redken08-20)
 

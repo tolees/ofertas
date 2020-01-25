@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574 Sport  Entrenadores para al 57.54 % de descuento'
+title: 'New Balance 574 Sport  Entrenadores para'
 date: 2019/11/08 12:57:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vd64J14rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vd64J14rL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 574 Sport  Entrenadores para Mujer  Rosa Oyster Pink  40.5 EU](https://www.amazon.com/dp/B07DVHVNTN/?tag=redken08-20) a 42.46 EUR (original: 100 EUR) (57.54 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance 574 Sport  Entrenadores para Mujer  Rosa Oyster Pink  40.5 EU](https://www.amazon.com/dp/B07DVHVNTN/?tag=redken08-20) a 42.46 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Vd64J14rL._SL200_.jpg)](https://www.amazon.com/dp/B07DVHVNTN/?tag=redken08-20)
 

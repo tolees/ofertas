@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Runfalcon  Zapatillas De Carreter al 37.53 % de descuento'
+title: 'adidas Runfalcon  Zapatillas De Carreter'
 date: 2020-01-18 13:18:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rcu6X8IRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rcu6X8IRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [adidas Runfalcon  Zapatillas De Carretera para Mujer  Legend Ink/Cloud White/Clear Pink  36 2/3 EU](https://www.amazon.com/dp/B07SCC9MCN/?tag=redken08-20) con 37.53 de descuento por 24.98 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [adidas Runfalcon  Zapatillas De Carretera para Mujer  Legend Ink/Cloud White/Clear Pink  36 2/3 EU](https://www.amazon.com/dp/B07SCC9MCN/?tag=redken08-20) por 24.98 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rcu6X8IRL._SL200_.jpg)](https://www.amazon.com/dp/B07SCC9MCN/?tag=redken08-20)
 

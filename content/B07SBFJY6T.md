@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Country X Kamanda  Zapatillas de  al 60.15 % de descuento'
+title: 'adidas Country X Kamanda  Zapatillas de '
 date: 2019/12/17 19:30:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315Nj0wTrZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315Nj0wTrZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Country X Kamanda  Zapatillas de Balonmano para Hombre  Blanco  Footwear White/Collegiate Navy/Gum 0   46 2/3 EU](https://www.amazon.com/dp/B07SBFJY6T/?tag=redken08-20) a 51.79 EUR (original: 129.95 EUR) (60.15 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Country X Kamanda  Zapatillas de Balonmano para Hombre  Blanco  Footwear White/Collegiate Navy/Gum 0   46 2/3 EU](https://www.amazon.com/dp/B07SBFJY6T/?tag=redken08-20) a 51.79 EUR (original: 129.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/315Nj0wTrZL._SL200_.jpg)](https://www.amazon.com/dp/B07SBFJY6T/?tag=redken08-20)
 

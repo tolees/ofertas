@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gracelaza 5 PCS Nail Art Diseño Pintura  al 47.45 % de descuento'
+title: 'Gracelaza 5 PCS Nail Art Diseño Pintura '
 date: 2019/11/27 06:32:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wNfs%2B6YYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wNfs%2B6YYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.99 EUR
 inStock: true
 ---
 
-Está [Gracelaza 5 PCS Nail Art Diseño Pintura que puntea la herramienta Pluma Pincel de dibujo polaco](https://www.amazon.com/dp/B075SSNT3B/?tag=redken08-20) con 47.45 de descuento por 9.98 EUR (original: 18.99 EUR) en el siguiente enlace!
+Está [Gracelaza 5 PCS Nail Art Diseño Pintura que puntea la herramienta Pluma Pincel de dibujo polaco](https://www.amazon.com/dp/B075SSNT3B/?tag=redken08-20) por 9.98 EUR (original: 18.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wNfs%2B6YYL._SL200_.jpg)](https://www.amazon.com/dp/B075SSNT3B/?tag=redken08-20)
 

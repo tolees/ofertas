@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Phantom Bird 18  Bañadores  Hom al 40.98 % de descuento'
+title: 'Hurley M Phantom Bird 18  Bañadores  Hom'
 date: 2020-01-20 11:39:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-cmIda--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-cmIda--L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Hurley M Phantom Bird 18  Bañadores  Hombre  Azul  Blue Fury   34](https://www.amazon.com/dp/B07K26ZTPT/?tag=redken08-20) con 40.98 de descuento por 38.36 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Hurley M Phantom Bird 18  Bañadores  Hombre  Azul  Blue Fury   34](https://www.amazon.com/dp/B07K26ZTPT/?tag=redken08-20) por 38.36 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-cmIda--L._SL200_.jpg)](https://www.amazon.com/dp/B07K26ZTPT/?tag=redken08-20)
 

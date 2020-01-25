@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Vikky Platform Ribbon Bold  Zapatil al 64.64 % de descuento'
+title: 'Puma Vikky Platform Ribbon Bold  Zapatil'
 date: 2019/10/16 08:34:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HRHJcuzdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HRHJcuzdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.74 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Vikky Platform Ribbon Bold  Zapatillas para Mujer  Peach Beige  40.5 EU](https://www.amazon.com/dp/B077MKTWRD/?tag=redken08-20) a 26.43 EUR (original: 74.74 EUR) (64.64 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Puma Vikky Platform Ribbon Bold  Zapatillas para Mujer  Peach Beige  40.5 EU](https://www.amazon.com/dp/B077MKTWRD/?tag=redken08-20) a 26.43 EUR (original: 74.74 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HRHJcuzdL._SL200_.jpg)](https://www.amazon.com/dp/B077MKTWRD/?tag=redken08-20)
 

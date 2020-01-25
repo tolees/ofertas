@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agenda Poderosa 2019-20 · Girl Power  Sp al 50.00 % de descuento'
+title: 'Agenda Poderosa 2019-20 · Girl Power  Sp'
 date: 2019/10/14 10:00:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TgISLYepL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TgISLYepL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16 EUR
 inStock: true
 ---
 
-Está [Agenda Poderosa 2019-20 · Girl Power  Spice Girls ](https://www.amazon.com/dp/B07SH84HBK/?tag=redken08-20) con 50.00 de descuento por 8 EUR (original: 16 EUR) en el siguiente enlace!
+Está [Agenda Poderosa 2019-20 · Girl Power  Spice Girls ](https://www.amazon.com/dp/B07SH84HBK/?tag=redken08-20) por 8 EUR (original: 16 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31TgISLYepL._SL200_.jpg)](https://www.amazon.com/dp/B07SH84HBK/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jacket Chaqueta Vaquera  Marfi al 45.02 % de descuento'
+title: 'Lee Rider Jacket Chaqueta Vaquera  Marfi'
 date: 2019/11/12 21:45:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ztfmsZEgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ztfmsZEgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Rider Jacket Chaqueta Vaquera  Marfil  Missouri Light WZ   X-Small para Mujer](https://www.amazon.com/dp/B07FTKWLNV/?tag=redken08-20) a 54.95 EUR (original: 99.95 EUR) (45.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lee Rider Jacket Chaqueta Vaquera  Marfil  Missouri Light WZ   X-Small para Mujer](https://www.amazon.com/dp/B07FTKWLNV/?tag=redken08-20) a 54.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ztfmsZEgL._SL200_.jpg)](https://www.amazon.com/dp/B07FTKWLNV/?tag=redken08-20)
 

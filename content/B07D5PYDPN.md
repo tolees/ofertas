@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Playoff Polo 2.0  Hombre  G al 60.07 % de descuento'
+title: 'Under Armour Playoff Polo 2.0  Hombre  G'
 date: 2019/10/19 06:25:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31St%2BxEeAFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31St%2BxEeAFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Está [Under Armour Playoff Polo 2.0  Hombre  Gris  Steel/Pitch Gray 036   M](https://www.amazon.com/dp/B07D5PYDPN/?tag=redken08-20) con 60.07 de descuento por 25.95 EUR (original: 64.99 EUR) en el siguiente enlace!
+Está [Under Armour Playoff Polo 2.0  Hombre  Gris  Steel/Pitch Gray 036   M](https://www.amazon.com/dp/B07D5PYDPN/?tag=redken08-20) por 25.95 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31St%2BxEeAFL._SL200_.jpg)](https://www.amazon.com/dp/B07D5PYDPN/?tag=redken08-20)
 

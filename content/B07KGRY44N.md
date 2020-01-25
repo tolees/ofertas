@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ted Baker Astrina  Zapatillas para Mujer al 37.37 % de descuento'
+title: 'Ted Baker Astrina  Zapatillas para Mujer'
 date: 2019/11/20 09:22:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318A%2BxD7n-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318A%2BxD7n-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 125.09 EUR
 inStock: true
 ---
 
-Está [Ted Baker Astrina  Zapatillas para Mujer  Azul  Navy Ble   42 EU](https://www.amazon.com/dp/B07KGRY44N/?tag=redken08-20) con 37.37 de descuento por 78.35 EUR (original: 125.09 EUR) en el siguiente enlace!
+Está [Ted Baker Astrina  Zapatillas para Mujer  Azul  Navy Ble   42 EU](https://www.amazon.com/dp/B07KGRY44N/?tag=redken08-20) por 78.35 EUR (original: 125.09 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318A%2BxD7n-L._SL200_.jpg)](https://www.amazon.com/dp/B07KGRY44N/?tag=redken08-20)
 

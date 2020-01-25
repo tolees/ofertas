@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.98 % en Acrylic Display Case for Minifigures Bri'
+title: 'Acrylic Display Case for Minifigures Bri'
 date: 2020-01-19 02:24:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BRO4qrDTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BRO4qrDTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.98 GBP
 inStock: true
 ---
 
-Tienes [Acrylic Display Case for Minifigures Brick Building Block， Toys Model Display Box，Perspex Dustproof Showcase](https://www.amazon.com/dp/B07WHWNYHH/?tag=redken08-20) con un 30.98 % de descuento con precio de oferta de 11.03 GBP (original: 15.98 GBP) en el siguiente enlace!
+Tienes [Acrylic Display Case for Minifigures Brick Building Block， Toys Model Display Box，Perspex Dustproof Showcase](https://www.amazon.com/dp/B07WHWNYHH/?tag=redken08-20) a precio de oferta de 11.03 GBP (original: 15.98 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BRO4qrDTL._SL200_.jpg)](https://www.amazon.com/dp/B07WHWNYHH/?tag=redken08-20)
 

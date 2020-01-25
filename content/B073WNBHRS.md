@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sennheiser Momentum Free  Wireless Bluet al 50.00 % de descuento'
+title: 'Sennheiser Momentum Free  Wireless Bluet'
 date: 2019/11/30 10:58:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413ix7OwDhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413ix7OwDhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169.99 GBP
 inStock: true
 ---
 
-Está [Sennheiser Momentum Free  Wireless Bluetooth Headphones - Black](https://www.amazon.com/dp/B073WNBHRS/?tag=redken08-20) con 50.00 de descuento por 85 GBP (original: 169.99 GBP) en el siguiente enlace!
+Está [Sennheiser Momentum Free  Wireless Bluetooth Headphones - Black](https://www.amazon.com/dp/B073WNBHRS/?tag=redken08-20) por 85 GBP (original: 169.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413ix7OwDhL._SL200_.jpg)](https://www.amazon.com/dp/B073WNBHRS/?tag=redken08-20)
 

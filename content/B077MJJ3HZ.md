@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma St Runner V2 Nl  Zapatillas de Cros al 37.71 % de descuento'
+title: 'Puma St Runner V2 Nl  Zapatillas de Cros'
 date: 2019/12/10 22:17:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CV3ozYOSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CV3ozYOSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Está [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Negro  Puma Black-Puma White-Paradise Pink   36 EU](https://www.amazon.com/dp/B077MJJ3HZ/?tag=redken08-20) con 37.71 de descuento por 34.23 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Negro  Puma Black-Puma White-Paradise Pink   36 EU](https://www.amazon.com/dp/B077MJJ3HZ/?tag=redken08-20) por 34.23 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CV3ozYOSL._SL200_.jpg)](https://www.amazon.com/dp/B077MJJ3HZ/?tag=redken08-20)
 

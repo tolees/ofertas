@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HKT by Hackett London Hkt Washed Canvas  al 46.15 % de descuento'
+title: 'HKT by Hackett London Hkt Washed Canvas '
 date: 2019/11/22 07:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GBwgc8I6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GBwgc8I6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 48.69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HKT by Hackett London Hkt Washed Canvas Belt Cinturón  Azul  Blue 551   No Aplica  Talla del fabricante: Medium  para Hombre](https://www.amazon.com/dp/B07N3Z3CFT/?tag=redken08-20) a 26.22 EUR (original: 48.69 EUR) (46.15 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [HKT by Hackett London Hkt Washed Canvas Belt Cinturón  Azul  Blue 551   No Aplica  Talla del fabricante: Medium  para Hombre](https://www.amazon.com/dp/B07N3Z3CFT/?tag=redken08-20) a 26.22 EUR (original: 48.69 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GBwgc8I6L._SL200_.jpg)](https://www.amazon.com/dp/B07N3Z3CFT/?tag=redken08-20)
 

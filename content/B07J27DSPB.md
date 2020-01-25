@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jcochallenge Polo SS Noos   al 69.99 % de descuento'
+title: 'JACK & JONES Jcochallenge Polo SS Noos  '
 date: 2019/11/28 18:56:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LLVqZgSPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LLVqZgSPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jcochallenge Polo SS Noos  Gris  Light Grey Melange Fit: Reg   Small para Hombre](https://www.amazon.com/dp/B07J27DSPB/?tag=redken08-20) con 69.99 de descuento por 7.5 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [JACK & JONES Jcochallenge Polo SS Noos  Gris  Light Grey Melange Fit: Reg   Small para Hombre](https://www.amazon.com/dp/B07J27DSPB/?tag=redken08-20) por 7.5 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41LLVqZgSPL._SL200_.jpg)](https://www.amazon.com/dp/B07J27DSPB/?tag=redken08-20)
 

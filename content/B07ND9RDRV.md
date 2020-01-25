@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41167 Disney Frozen II Arendelle Ca al 26.67 % de descuento'
+title: 'LEGO 41167 Disney Frozen II Arendelle Ca'
 date: 2019/12/10 14:44:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BSUBzOoML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BSUBzOoML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.99 GBP
 inStock: true
 ---
 
-Está [LEGO 41167 Disney Frozen II Arendelle Castle Village with Princess  Anna and Elsa plus Kristoff Mini dolls Princess  Castle  Market Rowing Boat  Cat  2 Birds  Toy Set for Girls and Boys 5+ Years Old](https://www.amazon.com/dp/B07ND9RDRV/?tag=redken08-20) con 26.67 de descuento por 54.99 GBP (original: 74.99 GBP) en el siguiente enlace!
+Está [LEGO 41167 Disney Frozen II Arendelle Castle Village with Princess  Anna and Elsa plus Kristoff Mini dolls Princess  Castle  Market Rowing Boat  Cat  2 Birds  Toy Set for Girls and Boys 5+ Years Old](https://www.amazon.com/dp/B07ND9RDRV/?tag=redken08-20) por 54.99 GBP (original: 74.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51BSUBzOoML._SL200_.jpg)](https://www.amazon.com/dp/B07ND9RDRV/?tag=redken08-20)
 

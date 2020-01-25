@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.33 % en Bristol BA2151 - Caña de calavera para d'
+title: 'Bristol BA2151 - Caña de calavera para d'
 date: 2019/11/02 08:03:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XwcB31Y8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XwcB31Y8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.05 EUR
 inStock: true
 ---
 
-Tienes [Bristol BA2151 - Caña de calavera para disfraz  para hombre  talla única](https://www.amazon.com/dp/B0758DLSKX/?tag=redken08-20) con un 33.33 % de descuento con precio de oferta de 4.7 EUR (original: 7.05 EUR) en el siguiente enlace!
+Tienes [Bristol BA2151 - Caña de calavera para disfraz  para hombre  talla única](https://www.amazon.com/dp/B0758DLSKX/?tag=redken08-20) a precio de oferta de 4.7 EUR (original: 7.05 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31XwcB31Y8L._SL200_.jpg)](https://www.amazon.com/dp/B0758DLSKX/?tag=redken08-20)
 

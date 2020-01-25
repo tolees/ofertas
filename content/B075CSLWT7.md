@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Paprika - Edición 2017 [Blu-ray] al 47.48 % de descuento'
+title: 'Paprika - Edición 2017 [Blu-ray]'
 date: 2019/12/03 23:30:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61vYsQrVQTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61vYsQrVQTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.52 EUR
 inStock: true
 ---
 
-Está [Paprika - Edición 2017 [Blu-ray]](https://www.amazon.com/dp/B075CSLWT7/?tag=redken08-20) con 47.48 de descuento por 5 EUR (original: 9.52 EUR) en el siguiente enlace!
+Está [Paprika - Edición 2017 [Blu-ray]](https://www.amazon.com/dp/B075CSLWT7/?tag=redken08-20) por 5 EUR (original: 9.52 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61vYsQrVQTL._SL200_.jpg)](https://www.amazon.com/dp/B075CSLWT7/?tag=redken08-20)
 

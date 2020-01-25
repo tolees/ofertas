@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch UniversalImpact 700 - Taladro Perc al 36.09 % de descuento'
+title: 'Bosch UniversalImpact 700 - Taladro Perc'
 date: 2020-01-01 15:24:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h-du7UbHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h-du7UbHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [Bosch UniversalImpact 700 - Taladro Percutor  700 W  Empuñadura adicional  Tope de profundidad  Maletín ](https://www.amazon.com/dp/B06XR59JWK/?tag=redken08-20) con 36.09 de descuento por 63.9 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [Bosch UniversalImpact 700 - Taladro Percutor  700 W  Empuñadura adicional  Tope de profundidad  Maletín ](https://www.amazon.com/dp/B06XR59JWK/?tag=redken08-20) por 63.9 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41h-du7UbHL._SL200_.jpg)](https://www.amazon.com/dp/B06XR59JWK/?tag=redken08-20)
 

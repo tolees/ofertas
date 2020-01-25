@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Axis  Zapatillas Unisex Adulto  Bla al 40.04 % de descuento'
+title: 'Puma Axis  Zapatillas Unisex Adulto  Bla'
 date: 2019/10/28 21:08:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HqYb-sjRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HqYb-sjRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Axis  Zapatillas Unisex Adulto  Blanco White-High Rise 02  40 EU](https://www.amazon.com/dp/B07F2JYTQ9/?tag=redken08-20) a 32.95 EUR (original: 54.95 EUR) (40.04 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Puma Axis  Zapatillas Unisex Adulto  Blanco White-High Rise 02  40 EU](https://www.amazon.com/dp/B07F2JYTQ9/?tag=redken08-20) a 32.95 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HqYb-sjRL._SL200_.jpg)](https://www.amazon.com/dp/B07F2JYTQ9/?tag=redken08-20)
 

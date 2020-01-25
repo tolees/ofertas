@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei P8 Lite - Smartphone libre Androi al 50.19 % de descuento'
+title: 'Huawei P8 Lite - Smartphone libre Androi'
 date: 2019/11/05 23:44:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dKtM3KQzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dKtM3KQzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 269 EUR
 inStock: true
 ---
 
-Está [Huawei P8 Lite - Smartphone libre Android  pantalla 5"  Octa-core  2 GB RAM  16 GB  cámara 13 MP   color negro](https://www.amazon.com/dp/B00WPW3CQ0/?tag=redken08-20) con 50.19 de descuento por 134 EUR (original: 269 EUR) en el siguiente enlace!
+Está [Huawei P8 Lite - Smartphone libre Android  pantalla 5"  Octa-core  2 GB RAM  16 GB  cámara 13 MP   color negro](https://www.amazon.com/dp/B00WPW3CQ0/?tag=redken08-20) por 134 EUR (original: 269 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dKtM3KQzL._SL200_.jpg)](https://www.amazon.com/dp/B00WPW3CQ0/?tag=redken08-20)
 

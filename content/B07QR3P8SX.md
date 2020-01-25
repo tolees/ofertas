@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nautica Reloj Analógico para Hombre de C al 62.15 % de descuento'
+title: 'Nautica Reloj Analógico para Hombre de C'
 date: 2019/12/11 04:28:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GCYQQgQdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GCYQQgQdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 223.08 EUR
 inStock: true
 ---
 
-Está [Nautica Reloj Analógico para Hombre de Cuarzo con Correa en Caucho A13650G](https://www.amazon.com/dp/B07QR3P8SX/?tag=redken08-20) con 62.15 de descuento por 84.43 EUR (original: 223.08 EUR) en el siguiente enlace!
+Está [Nautica Reloj Analógico para Hombre de Cuarzo con Correa en Caucho A13650G](https://www.amazon.com/dp/B07QR3P8SX/?tag=redken08-20) por 84.43 EUR (original: 223.08 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GCYQQgQdL._SL200_.jpg)](https://www.amazon.com/dp/B07QR3P8SX/?tag=redken08-20)
 

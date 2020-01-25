@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Izas Dimasa Chaqueta de Punto  Mujer  Mo al 26.50 % de descuento'
+title: 'Izas Dimasa Chaqueta de Punto  Mujer  Mo'
 date: 2019/10/17 20:58:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Lco5qPVeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Lco5qPVeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Izas Dimasa Chaqueta de Punto  Mujer  Morado  XL](https://www.amazon.com/dp/B01KG37KRQ/?tag=redken08-20) a 37.45 EUR (original: 50.95 EUR) (26.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Izas Dimasa Chaqueta de Punto  Mujer  Morado  XL](https://www.amazon.com/dp/B01KG37KRQ/?tag=redken08-20) a 37.45 EUR (original: 50.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Lco5qPVeL._SL200_.jpg)](https://www.amazon.com/dp/B01KG37KRQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Woven Graphic Wordmark Shor al 47.96 % de descuento'
+title: 'Under Armour Woven Graphic Wordmark Shor'
 date: 2019/12/17 16:31:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eHGLrLl-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eHGLrLl-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Woven Graphic Wordmark Short Pantalón Corto  Hombre  Azul  Royal/Steel 400   M](https://www.amazon.com/dp/B071LH1MPF/?tag=redken08-20) a 12.49 EUR (original: 24 EUR) (47.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Woven Graphic Wordmark Short Pantalón Corto  Hombre  Azul  Royal/Steel 400   M](https://www.amazon.com/dp/B071LH1MPF/?tag=redken08-20) a 12.49 EUR (original: 24 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41eHGLrLl-L._SL200_.jpg)](https://www.amazon.com/dp/B071LH1MPF/?tag=redken08-20)
 

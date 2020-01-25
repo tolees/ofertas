@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.52 % en Nikon D750 - Cámara réflex digital de 24'
+title: 'Nikon D750 - Cámara réflex digital de 24'
 date: 2019/12/27 12:31:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1999 EUR
 inStock: true
 ---
 
-Tienes [Nikon D750 - Cámara réflex digital de 24.3 Mp  pantalla 3.2"  vídeo Full HD   color negro - Solo cuerpo ](https://www.amazon.com/dp/B00NINZLKK/?tag=redken08-20) con un 30.52 % de descuento con precio de oferta de 1388.99 EUR (original: 1999 EUR) en el siguiente enlace!
+Tienes [Nikon D750 - Cámara réflex digital de 24.3 Mp  pantalla 3.2"  vídeo Full HD   color negro - Solo cuerpo ](https://www.amazon.com/dp/B00NINZLKK/?tag=redken08-20) a precio de oferta de 1388.99 EUR (original: 1999 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg)](https://www.amazon.com/dp/B00NINZLKK/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Escaper Mesh V PS  Zapatillas Unise al 43.15 % de descuento'
+title: 'Puma Escaper Mesh V PS  Zapatillas Unise'
 date: 2019/11/06 16:06:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B5hGDDWDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B5hGDDWDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.95 EUR
 inStock: true
 ---
 
-Está [Puma Escaper Mesh V PS  Zapatillas Unisex Niños  Rosa Bud White-Bright Peach  35 EU](https://www.amazon.com/dp/B07DBWQQVX/?tag=redken08-20) con 43.15 de descuento por 19.87 EUR (original: 34.95 EUR) en el siguiente enlace!
+Está [Puma Escaper Mesh V PS  Zapatillas Unisex Niños  Rosa Bud White-Bright Peach  35 EU](https://www.amazon.com/dp/B07DBWQQVX/?tag=redken08-20) por 19.87 EUR (original: 34.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41B5hGDDWDL._SL200_.jpg)](https://www.amazon.com/dp/B07DBWQQVX/?tag=redken08-20)
 

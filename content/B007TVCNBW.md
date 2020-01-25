@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kartell Easy Lámpara E14  Rojo  13 x 33  al 71.11 % de descuento'
+title: 'Kartell Easy Lámpara E14  Rojo  13 x 33 '
 date: 2019/11/06 22:28:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b%2B1B4SjuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b%2B1B4SjuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kartell Easy Lámpara E14  Rojo  13 x 33 x 13 cm](https://www.amazon.com/dp/B007TVCNBW/?tag=redken08-20) a 31.49 EUR (original: 109 EUR) (71.11 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Kartell Easy Lámpara E14  Rojo  13 x 33 x 13 cm](https://www.amazon.com/dp/B007TVCNBW/?tag=redken08-20) a 31.49 EUR (original: 109 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31b%2B1B4SjuL._SL200_.jpg)](https://www.amazon.com/dp/B007TVCNBW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'hummel Fundamental 3-Pack Socks  Unisex  al 26.64 % de descuento'
+title: 'hummel Fundamental 3-Pack Socks  Unisex '
 date: 2019/10/07 10:16:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dVN75oDhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dVN75oDhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [hummel Fundamental 3-Pack Socks  Unisex Adulto  Blanco  14](https://www.amazon.com/dp/B01B7G5CCG/?tag=redken08-20) a 9.5 EUR (original: 12.95 EUR) (26.64 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [hummel Fundamental 3-Pack Socks  Unisex Adulto  Blanco  14](https://www.amazon.com/dp/B01B7G5CCG/?tag=redken08-20) a 9.5 EUR (original: 12.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dVN75oDhL._SL200_.jpg)](https://www.amazon.com/dp/B01B7G5CCG/?tag=redken08-20)
 

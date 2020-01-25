@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hasbro Family Fun Pack al 25.06 % de descuento'
+title: 'Hasbro Family Fun Pack'
 date: 2020-01-16 09:24:24
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Está [Hasbro Family Fun Pack](https://www.amazon.com/dp/B015QCUDUI/?tag=redken08-20) con 25.06 de descuento por 14.95 EUR (original: 19.95 EUR) en el siguiente enlace!
+Está [Hasbro Family Fun Pack](https://www.amazon.com/dp/B015QCUDUI/?tag=redken08-20) por 14.95 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B015QCUDUI/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kallos Cherry Mascarilla - 275 ml al 52.83 % de descuento'
+title: 'Kallos Cherry Mascarilla - 275 ml'
 date: 2019/10/19 12:29:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wlywVan0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wlywVan0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 2.12 EUR
 inStock: true
 ---
 
-Está [Kallos Cherry Mascarilla - 275 ml](https://www.amazon.com/dp/B01IVWAJU4/?tag=redken08-20) con 52.83 de descuento por 1 EUR (original: 2.12 EUR) en el siguiente enlace!
+Está [Kallos Cherry Mascarilla - 275 ml](https://www.amazon.com/dp/B01IVWAJU4/?tag=redken08-20) por 1 EUR (original: 2.12 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wlywVan0L._SL200_.jpg)](https://www.amazon.com/dp/B01IVWAJU4/?tag=redken08-20)
 

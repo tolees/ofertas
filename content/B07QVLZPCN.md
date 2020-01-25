@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Baseline Court Pantalones C al 44.47 % de descuento'
+title: 'Under Armour Baseline Court Pantalones C'
 date: 2019/11/28 12:46:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vv9R2hvWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vv9R2hvWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 36 EUR
 inStock: true
 ---
 
-Está [Under Armour Baseline Court Pantalones Cortos  Hombre  Negro  XXL](https://www.amazon.com/dp/B07QVLZPCN/?tag=redken08-20) con 44.47 de descuento por 19.99 EUR (original: 36 EUR) en el siguiente enlace!
+Está [Under Armour Baseline Court Pantalones Cortos  Hombre  Negro  XXL](https://www.amazon.com/dp/B07QVLZPCN/?tag=redken08-20) por 19.99 EUR (original: 36 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vv9R2hvWL._SL200_.jpg)](https://www.amazon.com/dp/B07QVLZPCN/?tag=redken08-20)
 

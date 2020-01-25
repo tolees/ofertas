@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Camisa tejana de man al 52.78 % de descuento'
+title: 'Amazon Essentials - Camisa tejana de man'
 date: 2019/11/13 13:03:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RCZkCN8iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RCZkCN8iL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27 EUR
 inStock: true
 ---
 
-Está [Amazon Essentials - Camisa tejana de manga larga y corte recto para hombre  Azul medio  US L  EU L ](https://www.amazon.com/dp/B07HL1LVTL/?tag=redken08-20) con 52.78 de descuento por 12.75 EUR (original: 27 EUR) en el siguiente enlace!
+Está [Amazon Essentials - Camisa tejana de manga larga y corte recto para hombre  Azul medio  US L  EU L ](https://www.amazon.com/dp/B07HL1LVTL/?tag=redken08-20) por 12.75 EUR (original: 27 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RCZkCN8iL._SL200_.jpg)](https://www.amazon.com/dp/B07HL1LVTL/?tag=redken08-20)
 

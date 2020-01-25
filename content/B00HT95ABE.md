@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell Pistola de aire caliente - decap al 52.10 % de descuento'
+title: 'Einhell Pistola de aire caliente - decap'
 date: 2020-01-24 16:33:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Zu1YASJbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Zu1YASJbL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Einhell Pistola de aire caliente - decapador   TH-HA 2000/1  con rascador de pintura y 4 accesorios  2 velocidades  2000 W  230 - 240 V  ref.4520179 ](https://www.amazon.com/dp/B00HT95ABE/?tag=redken08-20) a 11.95 EUR (original: 24.95 EUR) (52.10 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Einhell Pistola de aire caliente - decapador   TH-HA 2000/1  con rascador de pintura y 4 accesorios  2 velocidades  2000 W  230 - 240 V  ref.4520179 ](https://www.amazon.com/dp/B00HT95ABE/?tag=redken08-20) a 11.95 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Zu1YASJbL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00HT95ABE/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Cortavientos Hombre  Negro  Red/bl al 70.00 % de descuento'
+title: 'find. Cortavientos Hombre  Negro  Red/bl'
 date: 2019/10/12 01:13:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IlCub4t2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IlCub4t2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Cortavientos Hombre  Negro  Red/black   Medium](https://www.amazon.com/dp/B075YXWNFF/?tag=redken08-20) a 10.5 EUR (original: 35 EUR) (70.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [find. Cortavientos Hombre  Negro  Red/black   Medium](https://www.amazon.com/dp/B075YXWNFF/?tag=redken08-20) a 10.5 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IlCub4t2L._SL200_.jpg)](https://www.amazon.com/dp/B075YXWNFF/?tag=redken08-20)
 

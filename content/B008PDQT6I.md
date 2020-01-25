@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio Collection B640WC-5AEF  Reloj Digi al 61.87 % de descuento'
+title: 'Casio Collection B640WC-5AEF  Reloj Digi'
 date: 2019/11/08 10:59:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YRnZagvAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YRnZagvAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 88.89 EUR
 inStock: true
 ---
 
-Está [Casio Collection B640WC-5AEF  Reloj Digital Unisex  Acero Inoxidable  Marrón](https://www.amazon.com/dp/B008PDQT6I/?tag=redken08-20) con 61.87 de descuento por 33.89 EUR (original: 88.89 EUR) en el siguiente enlace!
+Está [Casio Collection B640WC-5AEF  Reloj Digital Unisex  Acero Inoxidable  Marrón](https://www.amazon.com/dp/B008PDQT6I/?tag=redken08-20) por 33.89 EUR (original: 88.89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YRnZagvAL._SL200_.jpg)](https://www.amazon.com/dp/B008PDQT6I/?tag=redken08-20)
 

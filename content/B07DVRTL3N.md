@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 66.79 % en New Balance 247v2  Entrenadores para Muj'
+title: 'New Balance 247v2  Entrenadores para Muj'
 date: 2019/11/10 09:11:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mh4cQBrSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mh4cQBrSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Tienes [New Balance 247v2  Entrenadores para Mujer  Negro Black  41.5 EU](https://www.amazon.com/dp/B07DVRTL3N/?tag=redken08-20) con un 66.79 % de descuento con precio de oferta de 29.89 EUR (original: 90 EUR) en el siguiente enlace!
+Tienes [New Balance 247v2  Entrenadores para Mujer  Negro Black  41.5 EU](https://www.amazon.com/dp/B07DVRTL3N/?tag=redken08-20) a precio de oferta de 29.89 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Mh4cQBrSL._SL200_.jpg)](https://www.amazon.com/dp/B07DVRTL3N/?tag=redken08-20)
 

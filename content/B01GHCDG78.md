@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 38.00 % en Mengshen Mini DLP Proyector  Portátil Re'
+title: 'Mengshen Mini DLP Proyector  Portátil Re'
 date: 2019/11/14 15:09:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DWOsjhnvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DWOsjhnvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 299.99 EUR
 inStock: true
 ---
 
-Tienes [Mengshen Mini DLP Proyector  Portátil Recargable Proyectores HD 50000 Horas 1080P Soportado USB/VGA/AV/IR/SD con Altavoces Incorporado Cine en Casa MS-GP1SWhite](https://www.amazon.com/dp/B01GHCDG78/?tag=redken08-20) con un 38.00 % de descuento con precio de oferta de 185.99 EUR (original: 299.99 EUR) en el siguiente enlace!
+Tienes [Mengshen Mini DLP Proyector  Portátil Recargable Proyectores HD 50000 Horas 1080P Soportado USB/VGA/AV/IR/SD con Altavoces Incorporado Cine en Casa MS-GP1SWhite](https://www.amazon.com/dp/B01GHCDG78/?tag=redken08-20) a precio de oferta de 185.99 EUR (original: 299.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DWOsjhnvL._SL200_.jpg)](https://www.amazon.com/dp/B01GHCDG78/?tag=redken08-20)
 

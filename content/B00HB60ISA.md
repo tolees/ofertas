@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CrocsLights Star Wars  Niños Zueco  Negr al 64.44 % de descuento'
+title: 'CrocsLights Star Wars  Niños Zueco  Negr'
 date: 2019/10/06 09:14:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XSleM2YAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XSleM2YAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.9 EUR
 inStock: true
 ---
 
-Está [CrocsLights Star Wars  Niños Zueco  Negro  Black/Flame   25-26 EU](https://www.amazon.com/dp/B00HB60ISA/?tag=redken08-20) con 64.44 de descuento por 19.52 EUR (original: 54.9 EUR) en el siguiente enlace!
+Está [CrocsLights Star Wars  Niños Zueco  Negro  Black/Flame   25-26 EU](https://www.amazon.com/dp/B00HB60ISA/?tag=redken08-20) por 19.52 EUR (original: 54.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XSleM2YAL._SL200_.jpg)](https://www.amazon.com/dp/B00HB60ISA/?tag=redken08-20)
 

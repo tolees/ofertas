@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REDWAGON Denim Jacket - Chaqueta Niñas   al 69.99 % de descuento'
+title: 'REDWAGON Denim Jacket - Chaqueta Niñas  '
 date: 2019/12/23 18:08:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gheAtzUwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gheAtzUwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 36.99 EUR
 inStock: true
 ---
 
-Está [REDWAGON Denim Jacket - Chaqueta Niñas  Azul  Blue   5 años](https://www.amazon.com/dp/B01LZAKOSA/?tag=redken08-20) con 69.99 de descuento por 11.1 EUR (original: 36.99 EUR) en el siguiente enlace!
+Está [REDWAGON Denim Jacket - Chaqueta Niñas  Azul  Blue   5 años](https://www.amazon.com/dp/B01LZAKOSA/?tag=redken08-20) por 11.1 EUR (original: 36.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51gheAtzUwL._SL200_.jpg)](https://www.amazon.com/dp/B01LZAKOSA/?tag=redken08-20)
 

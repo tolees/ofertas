@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Waterpik WP-660EU - Irrigador dental  10 al 30.53 % de descuento'
+title: 'Waterpik WP-660EU - Irrigador dental  10'
 date: 2020-01-22 14:47:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SqrnN7IFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SqrnN7IFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 94.99 EUR
 inStock: true
 ---
 
-Está [Waterpik WP-660EU - Irrigador dental  100-240V  depósito de agua de 650 ml  Blanco](https://www.amazon.com/dp/B073WGYSF9/?tag=redken08-20) con 30.53 de descuento por 65.99 EUR (original: 94.99 EUR) en el siguiente enlace!
+Está [Waterpik WP-660EU - Irrigador dental  100-240V  depósito de agua de 650 ml  Blanco](https://www.amazon.com/dp/B073WGYSF9/?tag=redken08-20) por 65.99 EUR (original: 94.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41SqrnN7IFL._SL200_.jpg)](https://www.amazon.com/dp/B073WGYSF9/?tag=redken08-20)
 

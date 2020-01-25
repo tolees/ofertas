@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 21148 Minecraft Steve BigFig Action al 26.17 % de descuento'
+title: 'LEGO 21148 Minecraft Steve BigFig Action'
 date: 2019/12/12 08:56:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RJM4dp7bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RJM4dp7bL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Está [LEGO 21148 Minecraft Steve BigFig Action Figure Parrot Building Set  Toys for Kids 7 Years Old and Older](https://www.amazon.com/dp/B07FP2KS3X/?tag=redken08-20) con 26.17 de descuento por 9.59 GBP (original: 12.99 GBP) en el siguiente enlace!
+Está [LEGO 21148 Minecraft Steve BigFig Action Figure Parrot Building Set  Toys for Kids 7 Years Old and Older](https://www.amazon.com/dp/B07FP2KS3X/?tag=redken08-20) por 9.59 GBP (original: 12.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RJM4dp7bL._SL200_.jpg)](https://www.amazon.com/dp/B07FP2KS3X/?tag=redken08-20)
 

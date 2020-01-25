@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AURIQUE BAL1026 Sudadera  Negro  Black/w al 70.00 % de descuento'
+title: 'AURIQUE BAL1026 Sudadera  Negro  Black/w'
 date: 2019/10/22 11:34:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419gIsm4NOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419gIsm4NOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AURIQUE BAL1026 Sudadera  Negro  Black/white   Large](https://www.amazon.com/dp/B079Y5CNVC/?tag=redken08-20) a 6.6 EUR (original: 22 EUR) (70.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [AURIQUE BAL1026 Sudadera  Negro  Black/white   Large](https://www.amazon.com/dp/B079Y5CNVC/?tag=redken08-20) a 6.6 EUR (original: 22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419gIsm4NOL._SL200_.jpg)](https://www.amazon.com/dp/B079Y5CNVC/?tag=redken08-20)
 

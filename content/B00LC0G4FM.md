@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hugo Boss 58396 - Agua de perfume al 60.98 % de descuento'
+title: 'Hugo Boss 58396 - Agua de perfume'
 date: 2019/10/11 10:07:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Lrh9rZYTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Lrh9rZYTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 92 EUR
 inStock: true
 ---
 
-Está [Hugo Boss 58396 - Agua de perfume](https://www.amazon.com/dp/B00LC0G4FM/?tag=redken08-20) con 60.98 de descuento por 35.9 EUR (original: 92 EUR) en el siguiente enlace!
+Está [Hugo Boss 58396 - Agua de perfume](https://www.amazon.com/dp/B00LC0G4FM/?tag=redken08-20) por 35.9 EUR (original: 92 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Lrh9rZYTL._SL200_.jpg)](https://www.amazon.com/dp/B00LC0G4FM/?tag=redken08-20)
 

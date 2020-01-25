@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.63 % en FIFA 20 - Edición Estándar'
+title: 'FIFA 20 - Edición Estándar'
 date: 2020-01-14 12:03:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gAO30eupL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gAO30eupL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 71.99 EUR
 inStock: true
 ---
 
-Tienes [FIFA 20 - Edición Estándar](https://www.amazon.com/dp/B07SQB27PP/?tag=redken08-20) con un 37.63 % de descuento con precio de oferta de 44.9 EUR (original: 71.99 EUR) en el siguiente enlace!
+Tienes [FIFA 20 - Edición Estándar](https://www.amazon.com/dp/B07SQB27PP/?tag=redken08-20) a precio de oferta de 44.9 EUR (original: 71.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51gAO30eupL._SL200_.jpg)](https://www.amazon.com/dp/B07SQB27PP/?tag=redken08-20)
 

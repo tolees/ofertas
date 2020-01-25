@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Iconic Flat Strappy Sanda al 59.80 % de descuento'
+title: 'Tommy Hilfiger Iconic Flat Strappy Sanda'
 date: 2019/11/01 04:07:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KYlwEGkbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KYlwEGkbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Está [Tommy Hilfiger Iconic Flat Strappy Sandal  Chanclas para Mujer  Azul  Aqua Haze 447   40 EU](https://www.amazon.com/dp/B07L3FDWSB/?tag=redken08-20) con 59.80 de descuento por 40.16 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [Tommy Hilfiger Iconic Flat Strappy Sandal  Chanclas para Mujer  Azul  Aqua Haze 447   40 EU](https://www.amazon.com/dp/B07L3FDWSB/?tag=redken08-20) por 40.16 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KYlwEGkbL._SL200_.jpg)](https://www.amazon.com/dp/B07L3FDWSB/?tag=redken08-20)
 

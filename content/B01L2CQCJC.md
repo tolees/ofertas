@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.48 % en GoPro AGTSM-001 - Soporte para manillar/'
+title: 'GoPro AGTSM-001 - Soporte para manillar/'
 date: 2019/11/15 16:15:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ol5l8RKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ol5l8RKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [GoPro AGTSM-001 - Soporte para manillar/tija del sillín/bastón de esquí de 9 a 35 mm de diámetro  color negro](https://www.amazon.com/dp/B01L2CQCJC/?tag=redken08-20) con un 37.48 % de descuento con precio de oferta de 25 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [GoPro AGTSM-001 - Soporte para manillar/tija del sillín/bastón de esquí de 9 a 35 mm de diámetro  color negro](https://www.amazon.com/dp/B01L2CQCJC/?tag=redken08-20) a precio de oferta de 25 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-ol5l8RKL._SL200_.jpg)](https://www.amazon.com/dp/B01L2CQCJC/?tag=redken08-20)
 

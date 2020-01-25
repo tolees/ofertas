@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Devir - Viento del Norte  BGVINO  al 50.03 % de descuento'
+title: 'Devir - Viento del Norte  BGVINO '
 date: 2019/10/21 13:44:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/613xJnaoorL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/613xJnaoorL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Devir - Viento del Norte  BGVINO ](https://www.amazon.com/dp/B00PLRM9A6/?tag=redken08-20) con 50.03 de descuento por 19.99 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Devir - Viento del Norte  BGVINO ](https://www.amazon.com/dp/B00PLRM9A6/?tag=redken08-20) por 19.99 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/613xJnaoorL._SL200_.jpg)](https://www.amazon.com/dp/B00PLRM9A6/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Goodthreads Soft Cotton Shawl Cardigan S al 60.62 % de descuento'
+title: 'Goodthreads Soft Cotton Shawl Cardigan S'
 date: 2019/12/04 19:05:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TPJKD41GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TPJKD41GL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Goodthreads Soft Cotton Shawl Cardigan Sweater sudadera  Gris  heather grey Hea   XXXXXX-Large](https://www.amazon.com/dp/B07F17MSLK/?tag=redken08-20) con 60.62 de descuento por 15.75 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Goodthreads Soft Cotton Shawl Cardigan Sweater sudadera  Gris  heather grey Hea   XXXXXX-Large](https://www.amazon.com/dp/B07F17MSLK/?tag=redken08-20) por 15.75 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TPJKD41GL._SL200_.jpg)](https://www.amazon.com/dp/B07F17MSLK/?tag=redken08-20)
 

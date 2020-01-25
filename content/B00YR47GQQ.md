@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Novation LAUNCHPADMK2 - Launchpad mk2 al 37.21 % de descuento'
+title: 'Novation LAUNCHPADMK2 - Launchpad mk2'
 date: 2019/12/10 22:29:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LavR0jfxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LavR0jfxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129 EUR
 inStock: true
 ---
 
-Está [Novation LAUNCHPADMK2 - Launchpad mk2](https://www.amazon.com/dp/B00YR47GQQ/?tag=redken08-20) con 37.21 de descuento por 81 EUR (original: 129 EUR) en el siguiente enlace!
+Está [Novation LAUNCHPADMK2 - Launchpad mk2](https://www.amazon.com/dp/B00YR47GQQ/?tag=redken08-20) por 81 EUR (original: 129 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51LavR0jfxL._SL200_.jpg)](https://www.amazon.com/dp/B00YR47GQQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373 Core   Zapatillas para H al 31.35 % de descuento'
+title: 'New Balance 373 Core   Zapatillas para H'
 date: 2019/10/16 07:50:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xd6tvYhXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xd6tvYhXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Está [New Balance 373 Core   Zapatillas para Hombre  Gris  Grey   38 EU](https://www.amazon.com/dp/B06XFQB4RN/?tag=redken08-20) con 31.35 de descuento por 54.92 EUR (original: 80 EUR) en el siguiente enlace!
+Está [New Balance 373 Core   Zapatillas para Hombre  Gris  Grey   38 EU](https://www.amazon.com/dp/B06XFQB4RN/?tag=redken08-20) por 54.92 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xd6tvYhXL._SL200_.jpg)](https://www.amazon.com/dp/B06XFQB4RN/?tag=redken08-20)
 

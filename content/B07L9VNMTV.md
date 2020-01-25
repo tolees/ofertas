@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Carnaby EVO 319 1 SMA  Zapatilla al 58.71 % de descuento'
+title: 'Lacoste Carnaby EVO 319 1 SMA  Zapatilla'
 date: 2019/12/06 10:22:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310l%2ByvxtsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310l%2ByvxtsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Lacoste Carnaby EVO 319 1 SMA  Zapatillas para Hombre  Azul  Nvy/Dk Red 5a5   40 EU](https://www.amazon.com/dp/B07L9VNMTV/?tag=redken08-20) con 58.71 de descuento por 40.88 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Lacoste Carnaby EVO 319 1 SMA  Zapatillas para Hombre  Azul  Nvy/Dk Red 5a5   40 EU](https://www.amazon.com/dp/B07L9VNMTV/?tag=redken08-20) por 40.88 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310l%2ByvxtsL._SL200_.jpg)](https://www.amazon.com/dp/B07L9VNMTV/?tag=redken08-20)
 

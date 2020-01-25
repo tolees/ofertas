@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett Classic Logo tee Camiseta  Blanc al 42.82 % de descuento'
+title: 'Hackett Classic Logo tee Camiseta  Blanc'
 date: 2019/12/04 08:59:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Zj72L%2BGUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Zj72L%2BGUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hackett Classic Logo tee Camiseta  Blanco  White 800   Large para Hombre](https://www.amazon.com/dp/B07N3WKLDV/?tag=redken08-20) a 25.73 EUR (original: 45 EUR) (42.82 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Hackett Classic Logo tee Camiseta  Blanco  White 800   Large para Hombre](https://www.amazon.com/dp/B07N3WKLDV/?tag=redken08-20) a 25.73 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Zj72L%2BGUL._SL200_.jpg)](https://www.amazon.com/dp/B07N3WKLDV/?tag=redken08-20)
 

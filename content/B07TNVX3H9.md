@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Stand: Apocalipsis  BD  [Blu-ray] al 49.83 % de descuento'
+title: 'The Stand: Apocalipsis  BD  [Blu-ray]'
 date: 2019/11/27 22:56:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515YEpUem8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515YEpUem8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The Stand: Apocalipsis  BD  [Blu-ray]](https://www.amazon.com/dp/B07TNVX3H9/?tag=redken08-20) a 7.5 EUR (original: 14.95 EUR) (49.83 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [The Stand: Apocalipsis  BD  [Blu-ray]](https://www.amazon.com/dp/B07TNVX3H9/?tag=redken08-20) a 7.5 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515YEpUem8L._SL200_.jpg)](https://www.amazon.com/dp/B07TNVX3H9/?tag=redken08-20)
 

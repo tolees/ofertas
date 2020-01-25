@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 56.00 % en AMD - Radeon Pro Graphics Card WX8200 - '
+title: 'AMD - Radeon Pro Graphics Card WX8200 - '
 date: 2020-01-17 17:26:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LLdp6pXfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LLdp6pXfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1078.29 GBP
 inStock: true
 ---
 
-Tienes [AMD - Radeon Pro Graphics Card WX8200 - 8GB HBM2  PCIe 3.0  4x Mini-DisplayPort  VR Ready](https://www.amazon.com/dp/B07H4WZL1F/?tag=redken08-20) con un 56.00 % de descuento con precio de oferta de 474.44 GBP (original: 1078.29 GBP) en el siguiente enlace!
+Tienes [AMD - Radeon Pro Graphics Card WX8200 - 8GB HBM2  PCIe 3.0  4x Mini-DisplayPort  VR Ready](https://www.amazon.com/dp/B07H4WZL1F/?tag=redken08-20) a precio de oferta de 474.44 GBP (original: 1078.29 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31LLdp6pXfL._SL200_.jpg)](https://www.amazon.com/dp/B07H4WZL1F/?tag=redken08-20)
 

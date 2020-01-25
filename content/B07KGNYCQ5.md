@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ted Baker Waverdi  Zapatillas sin Cordon al 50.72 % de descuento'
+title: 'Ted Baker Waverdi  Zapatillas sin Cordon'
 date: 2019/11/09 00:01:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EROnYM9qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EROnYM9qL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 145.64 EUR
 inStock: true
 ---
 
-Está [Ted Baker Waverdi  Zapatillas sin Cordones para Mujer  Negro  Black Blk   40 EU](https://www.amazon.com/dp/B07KGNYCQ5/?tag=redken08-20) con 50.72 de descuento por 71.77 EUR (original: 145.64 EUR) en el siguiente enlace!
+Está [Ted Baker Waverdi  Zapatillas sin Cordones para Mujer  Negro  Black Blk   40 EU](https://www.amazon.com/dp/B07KGNYCQ5/?tag=redken08-20) por 71.77 EUR (original: 145.64 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31EROnYM9qL._SL200_.jpg)](https://www.amazon.com/dp/B07KGNYCQ5/?tag=redken08-20)
 

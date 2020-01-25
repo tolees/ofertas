@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikolinos Cadaques W8k_v19  Sandalias Pu al 49.65 % de descuento'
+title: 'Pikolinos Cadaques W8k_v19  Sandalias Pu'
 date: 2019/11/08 08:57:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IPc9CFrrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IPc9CFrrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Pikolinos Cadaques W8k_v19  Sandalias Punta Cerrada para Mujer  Naranja Lava  38 EU](https://www.amazon.com/dp/B07MFVMKZS/?tag=redken08-20) con 49.65 de descuento por 49.85 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Pikolinos Cadaques W8k_v19  Sandalias Punta Cerrada para Mujer  Naranja Lava  38 EU](https://www.amazon.com/dp/B07MFVMKZS/?tag=redken08-20) por 49.85 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IPc9CFrrL._SL200_.jpg)](https://www.amazon.com/dp/B07MFVMKZS/?tag=redken08-20)
 

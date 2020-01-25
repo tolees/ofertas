@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alpha Industries MA-1 D-Tec  Chaqueta Bo al 55.00 % de descuento'
+title: 'Alpha Industries MA-1 D-Tec  Chaqueta Bo'
 date: 2020-01-09 14:13:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FAdbx8rGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FAdbx8rGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199.9 EUR
 inStock: true
 ---
 
-Está [Alpha Industries MA-1 D-Tec  Chaqueta Bomber para Hombre  Verde  Rep.Grey 257   M](https://www.amazon.com/dp/B01I6SXPT0/?tag=redken08-20) con 55.00 de descuento por 89.95 EUR (original: 199.9 EUR) en el siguiente enlace!
+Está [Alpha Industries MA-1 D-Tec  Chaqueta Bomber para Hombre  Verde  Rep.Grey 257   M](https://www.amazon.com/dp/B01I6SXPT0/?tag=redken08-20) por 89.95 EUR (original: 199.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FAdbx8rGL._SL200_.jpg)](https://www.amazon.com/dp/B01I6SXPT0/?tag=redken08-20)
 

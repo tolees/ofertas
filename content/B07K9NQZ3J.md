@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 51.72 % en Hurley M One&Only Solid tee Camisetas  H'
+title: 'Hurley M One&Only Solid tee Camisetas  H'
 date: 2019/11/08 17:12:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CXgjWzwyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CXgjWzwyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [Hurley M One&Only Solid tee Camisetas  Hombre  Spruce Fog  S](https://www.amazon.com/dp/B07K9NQZ3J/?tag=redken08-20) con un 51.72 % de descuento con precio de oferta de 12.07 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [Hurley M One&Only Solid tee Camisetas  Hombre  Spruce Fog  S](https://www.amazon.com/dp/B07K9NQZ3J/?tag=redken08-20) a precio de oferta de 12.07 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CXgjWzwyL._SL200_.jpg)](https://www.amazon.com/dp/B07K9NQZ3J/?tag=redken08-20)
 

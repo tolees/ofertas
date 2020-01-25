@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Better Call Saul Blu Ray [Blu-ray] al 25.03 % de descuento'
+title: 'Better Call Saul Blu Ray [Blu-ray]'
 date: 2019/11/29 22:02:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YF9KcC6YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YF9KcC6YL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Better Call Saul Blu Ray [Blu-ray]](https://www.amazon.com/dp/B015QMDVY8/?tag=redken08-20) a 7.46 EUR (original: 9.95 EUR) (25.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Better Call Saul Blu Ray [Blu-ray]](https://www.amazon.com/dp/B015QMDVY8/?tag=redken08-20) a 7.46 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51YF9KcC6YL._SL200_.jpg)](https://www.amazon.com/dp/B015QMDVY8/?tag=redken08-20)
 

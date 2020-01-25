@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Killington Chukka  Zapatillas al 51.01 % de descuento'
+title: 'Timberland Killington Chukka  Zapatillas'
 date: 2019/10/25 12:49:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4135Yc8SHnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4135Yc8SHnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 136.67 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Timberland Killington Chukka  Zapatillas Altas para Hombre  Negro  Black Nubuck 1   46 EU](https://www.amazon.com/dp/B01LYTPNGR/?tag=redken08-20) a 66.95 EUR (original: 136.67 EUR) (51.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Timberland Killington Chukka  Zapatillas Altas para Hombre  Negro  Black Nubuck 1   46 EU](https://www.amazon.com/dp/B01LYTPNGR/?tag=redken08-20) a 66.95 EUR (original: 136.67 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4135Yc8SHnL._SL200_.jpg)](https://www.amazon.com/dp/B01LYTPNGR/?tag=redken08-20)
 

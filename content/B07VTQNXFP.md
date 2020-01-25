@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disney Frozen II Elsa Puppe al 38.53 % de descuento'
+title: 'Disney Frozen II Elsa Puppe'
 date: 2019/12/17 07:29:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U9c%2BMFhuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U9c%2BMFhuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Disney Frozen II Elsa Puppe](https://www.amazon.com/dp/B07VTQNXFP/?tag=redken08-20) a 21.51 EUR (original: 34.99 EUR) (38.53 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Disney Frozen II Elsa Puppe](https://www.amazon.com/dp/B07VTQNXFP/?tag=redken08-20) a 21.51 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41U9c%2BMFhuL._SL200_.jpg)](https://www.amazon.com/dp/B07VTQNXFP/?tag=redken08-20)
 

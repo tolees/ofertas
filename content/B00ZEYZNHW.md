@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 34.38 % en Street Fighter V'
+title: 'Street Fighter V'
 date: 2020-01-20 17:48:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rYmJuaUgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rYmJuaUgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [Street Fighter V](https://www.amazon.com/dp/B00ZEYZNHW/?tag=redken08-20) con un 34.38 % de descuento con precio de oferta de 19.68 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Street Fighter V](https://www.amazon.com/dp/B00ZEYZNHW/?tag=redken08-20) a precio de oferta de 19.68 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rYmJuaUgL._SL200_.jpg)](https://www.amazon.com/dp/B00ZEYZNHW/?tag=redken08-20)
 

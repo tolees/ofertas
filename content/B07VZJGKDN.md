@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motorola Moto E6 Plus  pantalla 6 1" max al 27.75 % de descuento'
+title: 'Motorola Moto E6 Plus  pantalla 6 1" max'
 date: 2020-01-13 09:07:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ldXTuWGbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ldXTuWGbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159 EUR
 inStock: true
 ---
 
-Está [Motorola Moto E6 Plus  pantalla 6 1" max vision  doble cámara de 13 MP  64GB/4 GB  Android 9.0  Dual SIM  Gris Gunmetal + Funda](https://www.amazon.com/dp/B07VZJGKDN/?tag=redken08-20) con 27.75 de descuento por 114.88 EUR (original: 159 EUR) en el siguiente enlace!
+Está [Motorola Moto E6 Plus  pantalla 6 1" max vision  doble cámara de 13 MP  64GB/4 GB  Android 9.0  Dual SIM  Gris Gunmetal + Funda](https://www.amazon.com/dp/B07VZJGKDN/?tag=redken08-20) por 114.88 EUR (original: 159 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ldXTuWGbL._SL200_.jpg)](https://www.amazon.com/dp/B07VZJGKDN/?tag=redken08-20)
 

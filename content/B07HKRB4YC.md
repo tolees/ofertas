@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Maleta de mano de ruedas  al 25.00 % de descuento'
+title: 'AmazonBasics - Maleta de mano de ruedas '
 date: 2019/11/24 12:12:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dtDH0%2BTGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dtDH0%2BTGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Maleta de mano de ruedas  metálica  55 cm  Negro](https://www.amazon.com/dp/B07HKRB4YC/?tag=redken08-20) a 48.74 EUR (original: 64.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Maleta de mano de ruedas  metálica  55 cm  Negro](https://www.amazon.com/dp/B07HKRB4YC/?tag=redken08-20) a 48.74 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dtDH0%2BTGL._SL200_.jpg)](https://www.amazon.com/dp/B07HKRB4YC/?tag=redken08-20)
 

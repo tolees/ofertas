@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chanel Maquillaje Le teint Ultra 40 al 50.11 % de descuento'
+title: 'Chanel Maquillaje Le teint Ultra 40'
 date: 2019/11/01 05:50:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iFdAyAs1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iFdAyAs1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 92 EUR
 inStock: true
 ---
 
-Está [Chanel Maquillaje Le teint Ultra 40](https://www.amazon.com/dp/B079LGPLWR/?tag=redken08-20) con 50.11 de descuento por 45.9 EUR (original: 92 EUR) en el siguiente enlace!
+Está [Chanel Maquillaje Le teint Ultra 40](https://www.amazon.com/dp/B079LGPLWR/?tag=redken08-20) por 45.9 EUR (original: 92 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iFdAyAs1L._SL200_.jpg)](https://www.amazon.com/dp/B079LGPLWR/?tag=redken08-20)
 

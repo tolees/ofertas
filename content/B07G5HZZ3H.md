@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Air Zoom Vapor X HC  Zapatillas de  al 52.31 % de descuento'
+title: 'Nike Air Zoom Vapor X HC  Zapatillas de '
 date: 2019/11/19 05:19:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318qdOA36yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318qdOA36yL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Está [Nike Air Zoom Vapor X HC  Zapatillas de Deporte para Niños  Multicolor Black/Vast Grey/Summit White 101  37.5 EU](https://www.amazon.com/dp/B07G5HZZ3H/?tag=redken08-20) con 52.31 de descuento por 66.76 EUR (original: 140 EUR) en el siguiente enlace!
+Está [Nike Air Zoom Vapor X HC  Zapatillas de Deporte para Niños  Multicolor Black/Vast Grey/Summit White 101  37.5 EU](https://www.amazon.com/dp/B07G5HZZ3H/?tag=redken08-20) por 66.76 EUR (original: 140 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318qdOA36yL._SL200_.jpg)](https://www.amazon.com/dp/B07G5HZZ3H/?tag=redken08-20)
 

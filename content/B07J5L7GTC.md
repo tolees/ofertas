@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optimum Nutrition Gold Standard 100% Pla al 32.05 % de descuento'
+title: 'Optimum Nutrition Gold Standard 100% Pla'
 date: 2019/12/22 20:26:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WAURexaOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WAURexaOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.99 EUR
 inStock: true
 ---
 
-Está [Optimum Nutrition Gold Standard 100% Plant Proteína Vegana Vainilla - 684 gr](https://www.amazon.com/dp/B07J5L7GTC/?tag=redken08-20) con 32.05 de descuento por 19.7 EUR (original: 28.99 EUR) en el siguiente enlace!
+Está [Optimum Nutrition Gold Standard 100% Plant Proteína Vegana Vainilla - 684 gr](https://www.amazon.com/dp/B07J5L7GTC/?tag=redken08-20) por 19.7 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WAURexaOL._SL200_.jpg)](https://www.amazon.com/dp/B07J5L7GTC/?tag=redken08-20)
 

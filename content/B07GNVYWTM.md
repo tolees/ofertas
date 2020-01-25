@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M DRI-FIT ONE&ONLY 2.0 HAT GORRAS al 33.83 % de descuento'
+title: 'Hurley M DRI-FIT ONE&ONLY 2.0 HAT GORRAS'
 date: 2019/12/03 17:49:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412gSSjEG2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412gSSjEG2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley M DRI-FIT ONE&ONLY 2.0 HAT GORRAS / SOMBREROS  Hombre](https://www.amazon.com/dp/B07GNVYWTM/?tag=redken08-20) a 19.85 EUR (original: 30 EUR) (33.83 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Hurley M DRI-FIT ONE&ONLY 2.0 HAT GORRAS / SOMBREROS  Hombre](https://www.amazon.com/dp/B07GNVYWTM/?tag=redken08-20) a 19.85 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412gSSjEG2L._SL200_.jpg)](https://www.amazon.com/dp/B07GNVYWTM/?tag=redken08-20)
 

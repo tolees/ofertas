@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SHOE THE BEAR Emmy Fringes  Zapatillas A al 80.26 % de descuento'
+title: 'SHOE THE BEAR Emmy Fringes  Zapatillas A'
 date: 2019/11/14 15:41:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OEKR9Sx3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OEKR9Sx3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 160 EUR
 inStock: true
 ---
 
-Está [SHOE THE BEAR Emmy Fringes  Zapatillas Altas para Mujer  Beige  Taupe   38 EU](https://www.amazon.com/dp/B01ESVJISG/?tag=redken08-20) con 80.26 de descuento por 31.58 EUR (original: 160 EUR) en el siguiente enlace!
+Está [SHOE THE BEAR Emmy Fringes  Zapatillas Altas para Mujer  Beige  Taupe   38 EU](https://www.amazon.com/dp/B01ESVJISG/?tag=redken08-20) por 31.58 EUR (original: 160 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51OEKR9Sx3L._SL200_.jpg)](https://www.amazon.com/dp/B01ESVJISG/?tag=redken08-20)
 

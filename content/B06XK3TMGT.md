@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fisher-Price Proyector osito dormilón  j al 39.50 % de descuento'
+title: 'Fisher-Price Proyector osito dormilón  j'
 date: 2019/12/16 10:02:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mN61MPYAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mN61MPYAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32.99 EUR
 inStock: true
 ---
 
-Está [Fisher-Price Proyector osito dormilón  juguete de cuna para bebé  Mattel DYW48 ](https://www.amazon.com/dp/B06XK3TMGT/?tag=redken08-20) con 39.50 de descuento por 19.96 EUR (original: 32.99 EUR) en el siguiente enlace!
+Está [Fisher-Price Proyector osito dormilón  juguete de cuna para bebé  Mattel DYW48 ](https://www.amazon.com/dp/B06XK3TMGT/?tag=redken08-20) por 19.96 EUR (original: 32.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31mN61MPYAL._SL200_.jpg)](https://www.amazon.com/dp/B06XK3TMGT/?tag=redken08-20)
 

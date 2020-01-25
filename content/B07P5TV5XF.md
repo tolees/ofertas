@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'deAO RC Camiones de Serie Camión de Cons al 30.43 % de descuento'
+title: 'deAO RC Camiones de Serie Camión de Cons'
 date: 2019/12/19 12:06:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RNZfbbeyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RNZfbbeyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.11 EUR
 inStock: true
 ---
 
-Está [deAO RC Camiones de Serie Camión de Construcción a Radio Control Vehículo de Obras con Luces y Sonidos Nivel Principiante  Camión Mezclador ](https://www.amazon.com/dp/B07P5TV5XF/?tag=redken08-20) con 30.43 de descuento por 13.99 EUR (original: 20.11 EUR) en el siguiente enlace!
+Está [deAO RC Camiones de Serie Camión de Construcción a Radio Control Vehículo de Obras con Luces y Sonidos Nivel Principiante  Camión Mezclador ](https://www.amazon.com/dp/B07P5TV5XF/?tag=redken08-20) por 13.99 EUR (original: 20.11 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RNZfbbeyL._SL200_.jpg)](https://www.amazon.com/dp/B07P5TV5XF/?tag=redken08-20)
 

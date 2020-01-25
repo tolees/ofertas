@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch PSS 250 AE Lijadora en Maletín de  al 50.82 % de descuento'
+title: 'Bosch PSS 250 AE Lijadora en Maletín de '
 date: 2019/11/29 11:28:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XWW1NDEEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XWW1NDEEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch PSS 250 AE Lijadora en Maletín de Transporte  250 W](https://www.amazon.com/dp/B000ARDYXS/?tag=redken08-20) a 49.18 EUR (original: 99.99 EUR) (50.82 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bosch PSS 250 AE Lijadora en Maletín de Transporte  250 W](https://www.amazon.com/dp/B000ARDYXS/?tag=redken08-20) a 49.18 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XWW1NDEEL._SL200_.jpg)](https://www.amazon.com/dp/B000ARDYXS/?tag=redken08-20)
 

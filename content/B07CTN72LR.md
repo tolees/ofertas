@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Micro G Pursuit SE  Zapa al 37.00 % de descuento'
+title: 'Under Armour UA Micro G Pursuit SE  Zapa'
 date: 2019/12/16 18:22:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A6iAHmwlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A6iAHmwlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Micro G Pursuit SE  Zapatillas de Running para Hombre  Negro  Black 003   40 EU](https://www.amazon.com/dp/B07CTN72LR/?tag=redken08-20) con 37.00 de descuento por 44.1 EUR (original: 70 EUR) en el siguiente enlace!
+Está [Under Armour UA Micro G Pursuit SE  Zapatillas de Running para Hombre  Negro  Black 003   40 EU](https://www.amazon.com/dp/B07CTN72LR/?tag=redken08-20) por 44.1 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41A6iAHmwlL._SL200_.jpg)](https://www.amazon.com/dp/B07CTN72LR/?tag=redken08-20)
 

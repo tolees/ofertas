@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortefiel  Jersey Mujer  Negro  L al 47.49 % de descuento'
+title: 'Cortefiel  Jersey Mujer  Negro  L'
 date: 2019/12/02 06:45:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RHj1dnvvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RHj1dnvvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cortefiel  Jersey Mujer  Negro  L](https://www.amazon.com/dp/B01INABJH6/?tag=redken08-20) a 21 EUR (original: 39.99 EUR) (47.49 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Cortefiel  Jersey Mujer  Negro  L](https://www.amazon.com/dp/B01INABJH6/?tag=redken08-20) a 21 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RHj1dnvvL._SL200_.jpg)](https://www.amazon.com/dp/B01INABJH6/?tag=redken08-20)
 

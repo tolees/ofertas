@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OBEEII Vestidos Princesa Sofia Disfraz p al 46.76 % de descuento'
+title: 'OBEEII Vestidos Princesa Sofia Disfraz p'
 date: 2020-01-24 02:17:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vSuV+cqfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vSuV+cqfL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [OBEEII Vestidos Princesa Sofia Disfraz para niñas Vestido de Fiesta Halloween Cumpleaños Cosplay Partido Prom 6-7 Años](https://www.amazon.com/dp/B07VPDZTJ5/?tag=redken08-20) a 21.29 EUR (original: 39.99 EUR) (46.76 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [OBEEII Vestidos Princesa Sofia Disfraz para niñas Vestido de Fiesta Halloween Cumpleaños Cosplay Partido Prom 6-7 Años](https://www.amazon.com/dp/B07VPDZTJ5/?tag=redken08-20) a 21.29 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31vSuV+cqfL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07VPDZTJ5/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Escape  Agua de perfume par al 58.01 % de descuento'
+title: 'Calvin Klein Escape  Agua de perfume par'
 date: 2020-01-12 17:35:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Mcu03ezcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Mcu03ezcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 91.35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Calvin Klein Escape  Agua de perfume para mujeres - 100 ml.](https://www.amazon.com/dp/B0009OAGTM/?tag=redken08-20) a 38.36 EUR (original: 91.35 EUR) (58.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Calvin Klein Escape  Agua de perfume para mujeres - 100 ml.](https://www.amazon.com/dp/B0009OAGTM/?tag=redken08-20) a 38.36 EUR (original: 91.35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Mcu03ezcL._SL200_.jpg)](https://www.amazon.com/dp/B0009OAGTM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 46.14 % en Versace Eros Eau de Toilette Vaporizador'
+title: 'Versace Eros Eau de Toilette Vaporizador'
 date: 2020-01-23 15:33:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yXZFRg5NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yXZFRg5NL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 81.6 EUR
 inStock: true
 ---
 
-Tienes [Versace Eros Eau de Toilette Vaporizador 100 ml](https://www.amazon.com/dp/B00B4TR3KG/?tag=redken08-20) con un 46.14 % de descuento con precio de oferta de 43.95 EUR (original: 81.6 EUR) en el siguiente enlace!
+Tienes [Versace Eros Eau de Toilette Vaporizador 100 ml](https://www.amazon.com/dp/B00B4TR3KG/?tag=redken08-20) a precio de oferta de 43.95 EUR (original: 81.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51yXZFRg5NL._SL200_.jpg)](https://www.amazon.com/dp/B00B4TR3KG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas X 18.3 AG  Botas de fútbol para H al 42.48 % de descuento'
+title: 'Adidas X 18.3 AG  Botas de fútbol para H'
 date: 2019/11/13 11:43:36 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Adidas X 18.3 AG  Botas de fútbol para Hombre  000  43.5 EU](https://www.amazon.com/dp/B07MSHP51G/?tag=redken08-20) a 45.99 EUR (original: 79.95 EUR) (42.48 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Adidas X 18.3 AG  Botas de fútbol para Hombre  000  43.5 EU](https://www.amazon.com/dp/B07MSHP51G/?tag=redken08-20) a 45.99 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B07MSHP51G/?tag=redken08-20)
 

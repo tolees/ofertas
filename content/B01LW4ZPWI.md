@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sonnenbrille L683s Gafas de sol  al 33.05 % de descuento'
+title: 'Lacoste Sonnenbrille L683s Gafas de sol '
 date: 2019/11/10 12:30:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31amHAkDuoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31amHAkDuoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 145 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Sonnenbrille L683s Gafas de sol  Burgundy/White/Purple  55 Unisex-niños](https://www.amazon.com/dp/B01LW4ZPWI/?tag=redken08-20) a 97.08 EUR (original: 145 EUR) (33.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Sonnenbrille L683s Gafas de sol  Burgundy/White/Purple  55 Unisex-niños](https://www.amazon.com/dp/B01LW4ZPWI/?tag=redken08-20) a 97.08 EUR (original: 145 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31amHAkDuoL._SL200_.jpg)](https://www.amazon.com/dp/B01LW4ZPWI/?tag=redken08-20)
 

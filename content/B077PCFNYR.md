@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Roma Suede  Zapatillas Unisex Adult al 63.88 % de descuento'
+title: 'Puma Roma Suede  Zapatillas Unisex Adult'
 date: 2019/10/15 19:27:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41khsJFSPfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41khsJFSPfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 84.95 EUR
 inStock: true
 ---
 
-Está [Puma Roma Suede  Zapatillas Unisex Adulto  Negro Black White Team Gold-Amazon Green  38 EU](https://www.amazon.com/dp/B077PCFNYR/?tag=redken08-20) con 63.88 de descuento por 30.68 EUR (original: 84.95 EUR) en el siguiente enlace!
+Está [Puma Roma Suede  Zapatillas Unisex Adulto  Negro Black White Team Gold-Amazon Green  38 EU](https://www.amazon.com/dp/B077PCFNYR/?tag=redken08-20) por 30.68 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41khsJFSPfL._SL200_.jpg)](https://www.amazon.com/dp/B077PCFNYR/?tag=redken08-20)
 

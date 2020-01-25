@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Lyte V  Zapatillas Unisex Adul al 55.04 % de descuento'
+title: 'Asics Gel-Lyte V  Zapatillas Unisex Adul'
 date: 2020-01-01 20:42:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T5xUBJwoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T5xUBJwoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 128.99 EUR
 inStock: true
 ---
 
-Está [Asics Gel-Lyte V  Zapatillas Unisex Adulto  Blanco  Bianco   36 EU](https://www.amazon.com/dp/B01MQNF1WY/?tag=redken08-20) con 55.04 de descuento por 58 EUR (original: 128.99 EUR) en el siguiente enlace!
+Está [Asics Gel-Lyte V  Zapatillas Unisex Adulto  Blanco  Bianco   36 EU](https://www.amazon.com/dp/B01MQNF1WY/?tag=redken08-20) por 58 EUR (original: 128.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41T5xUBJwoL._SL200_.jpg)](https://www.amazon.com/dp/B01MQNF1WY/?tag=redken08-20)
 

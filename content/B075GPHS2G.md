@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 21140 Minecraft The Chicken Coop Bu al 27.96 % de descuento'
+title: 'LEGO 21140 Minecraft The Chicken Coop Bu'
 date: 2019/12/10 21:51:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Está [LEGO 21140 Minecraft The Chicken Coop Building Set  Buildable Farm Toy for Kids](https://www.amazon.com/dp/B075GPHS2G/?tag=redken08-20) con 27.96 de descuento por 14.4 GBP (original: 19.99 GBP) en el siguiente enlace!
+Está [LEGO 21140 Minecraft The Chicken Coop Building Set  Buildable Farm Toy for Kids](https://www.amazon.com/dp/B075GPHS2G/?tag=redken08-20) por 14.4 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL200_.jpg)](https://www.amazon.com/dp/B075GPHS2G/?tag=redken08-20)
 

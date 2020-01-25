@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Imaginarium- Set de construcción con Pie al 49.25 % de descuento'
+title: 'Imaginarium- Set de construcción con Pie'
 date: 2019/12/24 15:38:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qy7Yj9i0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qy7Yj9i0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Imaginarium- Set de construcción con Piezas con Motor  Multicolor  87579 ](https://www.amazon.com/dp/B00ZCHBJ9M/?tag=redken08-20) a 35.5 EUR (original: 69.95 EUR) (49.25 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Imaginarium- Set de construcción con Piezas con Motor  Multicolor  87579 ](https://www.amazon.com/dp/B00ZCHBJ9M/?tag=redken08-20) a 35.5 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51qy7Yj9i0L._SL200_.jpg)](https://www.amazon.com/dp/B00ZCHBJ9M/?tag=redken08-20)
 

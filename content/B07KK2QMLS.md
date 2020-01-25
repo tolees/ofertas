@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Ruckel Ridge Plus Waterproof  Z al 60.00 % de descuento'
+title: 'Columbia Ruckel Ridge Plus Waterproof  Z'
 date: 2020-01-22 11:21:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hYkf7YNLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hYkf7YNLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Ruckel Ridge Plus Waterproof  Zapatos Impermeables de Senderismo para Hombre  Marrón  Cordovan  Madder Brown 231   50 EU](https://www.amazon.com/dp/B07KK2QMLS/?tag=redken08-20) a 48 EUR (original: 119.99 EUR) (60.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Columbia Ruckel Ridge Plus Waterproof  Zapatos Impermeables de Senderismo para Hombre  Marrón  Cordovan  Madder Brown 231   50 EU](https://www.amazon.com/dp/B07KK2QMLS/?tag=redken08-20) a 48 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hYkf7YNLL._SL200_.jpg)](https://www.amazon.com/dp/B07KK2QMLS/?tag=redken08-20)
 

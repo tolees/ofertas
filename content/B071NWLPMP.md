@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Camiseta Vintage para Hombre  Azul al 47.50 % de descuento'
+title: 'find. Camiseta Vintage para Hombre  Azul'
 date: 2019/12/08 20:25:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fkCNNJ3GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fkCNNJ3GL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Camiseta Vintage para Hombre  Azul  Navy   Small](https://www.amazon.com/dp/B071NWLPMP/?tag=redken08-20) a 7.35 EUR (original: 14 EUR) (47.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [find. Camiseta Vintage para Hombre  Azul  Navy   Small](https://www.amazon.com/dp/B071NWLPMP/?tag=redken08-20) a 7.35 EUR (original: 14 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fkCNNJ3GL._SL200_.jpg)](https://www.amazon.com/dp/B071NWLPMP/?tag=redken08-20)
 

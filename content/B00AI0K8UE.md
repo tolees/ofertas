@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Listerine Enjuague Bucal  Protección Die al 25.67 % de descuento'
+title: 'Listerine Enjuague Bucal  Protección Die'
 date: 2020-01-03 07:30:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mvuy583DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mvuy583DL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Listerine Enjuague Bucal  Protección Dientes y Encías - 1000 ml](https://www.amazon.com/dp/B00AI0K8UE/?tag=redken08-20) a 6.95 EUR (original: 9.35 EUR) (25.67 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Listerine Enjuague Bucal  Protección Dientes y Encías - 1000 ml](https://www.amazon.com/dp/B00AI0K8UE/?tag=redken08-20) a 6.95 EUR (original: 9.35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Mvuy583DL._SL200_.jpg)](https://www.amazon.com/dp/B00AI0K8UE/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KMP Protective Case  12   MacBook  pink al 50.13 % de descuento'
+title: 'KMP Protective Case  12   MacBook  pink'
 date: 2019/10/23 06:40:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oAuHPHvLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oAuHPHvLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [KMP Protective Case  12   MacBook  pink](https://www.amazon.com/dp/B01AUMWRAS/?tag=redken08-20) a 9.95 EUR (original: 19.95 EUR) (50.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [KMP Protective Case  12   MacBook  pink](https://www.amazon.com/dp/B01AUMWRAS/?tag=redken08-20) a 9.95 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31oAuHPHvLL._SL200_.jpg)](https://www.amazon.com/dp/B01AUMWRAS/?tag=redken08-20)
 

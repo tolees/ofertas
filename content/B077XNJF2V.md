@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Mk1 Short 7In. Pantalón Cor al 57.83 % de descuento'
+title: 'Under Armour Mk1 Short 7In. Pantalón Cor'
 date: 2019/10/17 18:43:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tGcXrz8eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tGcXrz8eL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Está [Under Armour Mk1 Short 7In. Pantalón Corto  Hombre  Gris  Overcast Gray/Graphite 941   3XL](https://www.amazon.com/dp/B077XNJF2V/?tag=redken08-20) con 57.83 de descuento por 14.76 EUR (original: 35 EUR) en el siguiente enlace!
+Está [Under Armour Mk1 Short 7In. Pantalón Corto  Hombre  Gris  Overcast Gray/Graphite 941   3XL](https://www.amazon.com/dp/B077XNJF2V/?tag=redken08-20) por 14.76 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31tGcXrz8eL._SL200_.jpg)](https://www.amazon.com/dp/B077XNJF2V/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jorwash tee SS V Neck Camis al 66.20 % de descuento'
+title: 'JACK & JONES Jorwash tee SS V Neck Camis'
 date: 2019/11/04 11:10:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mOLUFsV5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mOLUFsV5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jorwash tee SS V Neck Camiseta  Amarillo  Yolk Yellow Fit: Slim   Small para Hombre](https://www.amazon.com/dp/B07RTWGSXY/?tag=redken08-20) con 66.20 de descuento por 6.08 EUR (original: 17.99 EUR) en el siguiente enlace!
+Está [JACK & JONES Jorwash tee SS V Neck Camiseta  Amarillo  Yolk Yellow Fit: Slim   Small para Hombre](https://www.amazon.com/dp/B07RTWGSXY/?tag=redken08-20) por 6.08 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mOLUFsV5L._SL200_.jpg)](https://www.amazon.com/dp/B07RTWGSXY/?tag=redken08-20)
 

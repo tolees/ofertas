@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Victoria Deportivo Basket Piel - Zapatil al 30.06 % de descuento'
+title: 'Victoria Deportivo Basket Piel - Zapatil'
 date: 2019/12/27 11:47:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Kui5%2BkTuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Kui5%2BkTuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.9 EUR
 inStock: true
 ---
 
-Está [Victoria Deportivo Basket Piel - Zapatillas de Deporte Unisex  color Blanco y Negro Brillante  Negro 10   talla 36](https://www.amazon.com/dp/B01EIN8N2G/?tag=redken08-20) con 30.06 de descuento por 34.9 EUR (original: 49.9 EUR) en el siguiente enlace!
+Está [Victoria Deportivo Basket Piel - Zapatillas de Deporte Unisex  color Blanco y Negro Brillante  Negro 10   talla 36](https://www.amazon.com/dp/B01EIN8N2G/?tag=redken08-20) por 34.9 EUR (original: 49.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Kui5%2BkTuL._SL200_.jpg)](https://www.amazon.com/dp/B01EIN8N2G/?tag=redken08-20)
 

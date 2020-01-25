@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Hombre Summer Print Camp  Ca al 78.17 % de descuento'
+title: 'Tommy Jeans Hombre Summer Print Camp  Ca'
 date: 2019/11/09 15:22:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zYf1GVNSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zYf1GVNSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Está [Tommy Jeans Hombre Summer Print Camp  Camisa Manga Corta  Blanco  Cactus Aop / Classic White 901  Medium](https://www.amazon.com/dp/B07BXZKHF2/?tag=redken08-20) con 78.17 de descuento por 16.37 EUR (original: 75 EUR) en el siguiente enlace!
+Está [Tommy Jeans Hombre Summer Print Camp  Camisa Manga Corta  Blanco  Cactus Aop / Classic White 901  Medium](https://www.amazon.com/dp/B07BXZKHF2/?tag=redken08-20) por 16.37 EUR (original: 75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zYf1GVNSL._SL200_.jpg)](https://www.amazon.com/dp/B07BXZKHF2/?tag=redken08-20)
 

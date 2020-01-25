@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 48.56 % en Bosch Akkuschrauber IXO  mit Solarlampe '
+title: 'Bosch Akkuschrauber IXO  mit Solarlampe '
 date: 2019/11/03 12:22:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411qANF2ofL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411qANF2ofL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Tienes [Bosch Akkuschrauber IXO  mit Solarlampe  10 Bits  Micro USB Ladegerät  Karton  3 6 Volt  1 5 Ah ](https://www.amazon.com/dp/B06XHMY6RC/?tag=redken08-20) con un 48.56 % de descuento con precio de oferta de 36 EUR (original: 69.99 EUR) en el siguiente enlace!
+Tienes [Bosch Akkuschrauber IXO  mit Solarlampe  10 Bits  Micro USB Ladegerät  Karton  3 6 Volt  1 5 Ah ](https://www.amazon.com/dp/B06XHMY6RC/?tag=redken08-20) a precio de oferta de 36 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411qANF2ofL._SL200_.jpg)](https://www.amazon.com/dp/B06XHMY6RC/?tag=redken08-20)
 

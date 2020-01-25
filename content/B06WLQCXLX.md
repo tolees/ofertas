@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trio Lighting Lugano Colgante  Cromo  8. al 49.17 % de descuento'
+title: 'Trio Lighting Lugano Colgante  Cromo  8.'
 date: 2019/10/30 15:02:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310UIiN15RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310UIiN15RL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 170.27 EUR
 inStock: true
 ---
 
-Está [Trio Lighting Lugano Colgante  Cromo  8.5 x 100 x 150 cm](https://www.amazon.com/dp/B06WLQCXLX/?tag=redken08-20) con 49.17 de descuento por 86.54 EUR (original: 170.27 EUR) en el siguiente enlace!
+Está [Trio Lighting Lugano Colgante  Cromo  8.5 x 100 x 150 cm](https://www.amazon.com/dp/B06WLQCXLX/?tag=redken08-20) por 86.54 EUR (original: 170.27 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310UIiN15RL._SL200_.jpg)](https://www.amazon.com/dp/B06WLQCXLX/?tag=redken08-20)
 

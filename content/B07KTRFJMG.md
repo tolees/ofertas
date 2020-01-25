@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volcom FRCKN MDN Strch SHT Shorts  Hombr al 72.66 % de descuento'
+title: 'Volcom FRCKN MDN Strch SHT Shorts  Hombr'
 date: 2019/12/04 16:34:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316Kd6TB9AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316Kd6TB9AL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Volcom FRCKN MDN Strch SHT Shorts  Hombre  Blue  26](https://www.amazon.com/dp/B07KTRFJMG/?tag=redken08-20) con 72.66 de descuento por 13.67 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Volcom FRCKN MDN Strch SHT Shorts  Hombre  Blue  26](https://www.amazon.com/dp/B07KTRFJMG/?tag=redken08-20) por 13.67 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/316Kd6TB9AL._SL200_.jpg)](https://www.amazon.com/dp/B07KTRFJMG/?tag=redken08-20)
 

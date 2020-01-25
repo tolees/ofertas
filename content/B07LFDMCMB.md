@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Slim 2pk Crewneck Camiseta   LS 2 al 31.77 % de descuento'
+title: 'Levi s Slim 2pk Crewneck Camiseta   LS 2'
 date: 2019/10/11 07:46:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MxP8iz%2BzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MxP8iz%2BzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Levi s Slim 2pk Crewneck Camiseta   LS 2 Pack Dress Blues/Med Grey Heather 0002   Small para Hombre](https://www.amazon.com/dp/B07LFDMCMB/?tag=redken08-20) con 31.77 de descuento por 27.29 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Levi s Slim 2pk Crewneck Camiseta   LS 2 Pack Dress Blues/Med Grey Heather 0002   Small para Hombre](https://www.amazon.com/dp/B07LFDMCMB/?tag=redken08-20) por 27.29 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MxP8iz%2BzL._SL200_.jpg)](https://www.amazon.com/dp/B07LFDMCMB/?tag=redken08-20)
 

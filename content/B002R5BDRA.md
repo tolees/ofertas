@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jo H20 Lubricante Base De Agua 480 Ml al 77.04 % de descuento'
+title: 'Jo H20 Lubricante Base De Agua 480 Ml'
 date: 2019/10/27 19:13:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LTQsG4UTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LTQsG4UTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 92.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jo H20 Lubricante Base De Agua 480 Ml](https://www.amazon.com/dp/B002R5BDRA/?tag=redken08-20) a 21.35 EUR (original: 92.99 EUR) (77.04 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Jo H20 Lubricante Base De Agua 480 Ml](https://www.amazon.com/dp/B002R5BDRA/?tag=redken08-20) a 21.35 EUR (original: 92.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41LTQsG4UTL._SL200_.jpg)](https://www.amazon.com/dp/B002R5BDRA/?tag=redken08-20)
 

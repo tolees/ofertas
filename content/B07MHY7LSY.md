@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 37019 POP Keychain: Toy Story-Buzz al 41.75 % de descuento'
+title: 'Funko 37019 POP Keychain: Toy Story-Buzz'
 date: 2020-01-11 14:05:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B-GiMpbEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B-GiMpbEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.85 GBP
 inStock: true
 ---
 
-Está [Funko 37019 POP Keychain: Toy Story-Buzz Collectible Figure  Multicolour](https://www.amazon.com/dp/B07MHY7LSY/?tag=redken08-20) con 41.75 de descuento por 3.99 GBP (original: 6.85 GBP) en el siguiente enlace!
+Está [Funko 37019 POP Keychain: Toy Story-Buzz Collectible Figure  Multicolour](https://www.amazon.com/dp/B07MHY7LSY/?tag=redken08-20) por 3.99 GBP (original: 6.85 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51B-GiMpbEL._SL200_.jpg)](https://www.amazon.com/dp/B07MHY7LSY/?tag=redken08-20)
 

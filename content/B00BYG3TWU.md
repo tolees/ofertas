@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike T-Lite Xi Sp15 - Zapatillas para ho al 27.48 % de descuento'
+title: 'Nike T-Lite Xi Sp15 - Zapatillas para ho'
 date: 2019/10/20 19:05:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zzd3YaNYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zzd3YaNYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Nike T-Lite Xi Sp15 - Zapatillas para hombre  BLANCO NEGRO  40.5 EU](https://www.amazon.com/dp/B00BYG3TWU/?tag=redken08-20) con 27.48 de descuento por 36.26 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Nike T-Lite Xi Sp15 - Zapatillas para hombre  BLANCO NEGRO  40.5 EU](https://www.amazon.com/dp/B00BYG3TWU/?tag=redken08-20) por 36.26 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Zzd3YaNYL._SL200_.jpg)](https://www.amazon.com/dp/B00BYG3TWU/?tag=redken08-20)
 

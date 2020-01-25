@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPSOL MOTO SPORT 4T 10W-40 al 29.35 % de descuento'
+title: 'REPSOL MOTO SPORT 4T 10W-40'
 date: 2019/10/30 15:43:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H4Y0vsigL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H4Y0vsigL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.28 EUR
 inStock: true
 ---
 
-Está [REPSOL MOTO SPORT 4T 10W-40](https://www.amazon.com/dp/B0036GNIJK/?tag=redken08-20) con 29.35 de descuento por 19.98 EUR (original: 28.28 EUR) en el siguiente enlace!
+Está [REPSOL MOTO SPORT 4T 10W-40](https://www.amazon.com/dp/B0036GNIJK/?tag=redken08-20) por 19.98 EUR (original: 28.28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41H4Y0vsigL._SL200_.jpg)](https://www.amazon.com/dp/B0036GNIJK/?tag=redken08-20)
 

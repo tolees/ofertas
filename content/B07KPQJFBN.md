@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Driftline Camiseta Tipo Pol al 57.18 % de descuento'
+title: 'Helly Hansen Driftline Camiseta Tipo Pol'
 date: 2019/12/26 14:55:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gn4Hj5EwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gn4Hj5EwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Driftline Camiseta Tipo Polo de Manga Corta con Tejido de Secado rápido y Logo HH en el Pecho  Hombre  Rojo  Alerta   S](https://www.amazon.com/dp/B07KPQJFBN/?tag=redken08-20) con 57.18 de descuento por 25.69 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Helly Hansen Driftline Camiseta Tipo Polo de Manga Corta con Tejido de Secado rápido y Logo HH en el Pecho  Hombre  Rojo  Alerta   S](https://www.amazon.com/dp/B07KPQJFBN/?tag=redken08-20) por 25.69 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31gn4Hj5EwL._SL200_.jpg)](https://www.amazon.com/dp/B07KPQJFBN/?tag=redken08-20)
 

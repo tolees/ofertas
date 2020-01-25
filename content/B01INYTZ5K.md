@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Court Royale  PSV   Zapatillas de T al 45.13 % de descuento'
+title: 'Nike Court Royale  PSV   Zapatillas de T'
 date: 2019/10/12 10:18:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bhCssXnCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bhCssXnCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Nike Court Royale  PSV   Zapatillas de Tenis Unisex Niños  Azul  Obsidian/White 400   30 EU](https://www.amazon.com/dp/B01INYTZ5K/?tag=redken08-20) con 45.13 de descuento por 21.95 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Nike Court Royale  PSV   Zapatillas de Tenis Unisex Niños  Azul  Obsidian/White 400   30 EU](https://www.amazon.com/dp/B01INYTZ5K/?tag=redken08-20) por 21.95 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bhCssXnCL._SL200_.jpg)](https://www.amazon.com/dp/B01INYTZ5K/?tag=redken08-20)
 

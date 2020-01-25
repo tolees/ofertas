@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Simpsons Pop Maggie Simpson  Multi al 45.14 % de descuento'
+title: 'Funko Simpsons Pop Maggie Simpson  Multi'
 date: 2019/12/22 08:46:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EINuK4BpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EINuK4BpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Simpsons Pop Maggie Simpson  Multicolor  33879 ](https://www.amazon.com/dp/B07DFDW2W1/?tag=redken08-20) a 8.75 EUR (original: 15.95 EUR) (45.14 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko Simpsons Pop Maggie Simpson  Multicolor  33879 ](https://www.amazon.com/dp/B07DFDW2W1/?tag=redken08-20) a 8.75 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31EINuK4BpL._SL200_.jpg)](https://www.amazon.com/dp/B07DFDW2W1/?tag=redken08-20)
 

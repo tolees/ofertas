@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Collistar Perfecta Plus Eye Contorno Per al 55.79 % de descuento'
+title: 'Collistar Perfecta Plus Eye Contorno Per'
 date: 2019/10/21 12:09:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jrpiaxNtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jrpiaxNtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60.4 EUR
 inStock: true
 ---
 
-Está [Collistar Perfecta Plus Eye Contorno Perfection Cream 15 ml](https://www.amazon.com/dp/B00K6RA4MG/?tag=redken08-20) con 55.79 de descuento por 26.7 EUR (original: 60.4 EUR) en el siguiente enlace!
+Está [Collistar Perfecta Plus Eye Contorno Perfection Cream 15 ml](https://www.amazon.com/dp/B00K6RA4MG/?tag=redken08-20) por 26.7 EUR (original: 60.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jrpiaxNtL._SL200_.jpg)](https://www.amazon.com/dp/B00K6RA4MG/?tag=redken08-20)
 

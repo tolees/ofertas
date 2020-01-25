@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York Polvo Master Sculpt  al 25.25 % de descuento'
+title: 'Maybelline New York Polvo Master Sculpt '
 date: 2019/10/09 06:37:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i%2BipBmHWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i%2BipBmHWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.17 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Maybelline New York Polvo Master Sculpt Base de Maquillaje  Tono: 002](https://www.amazon.com/dp/B00X9XKSI4/?tag=redken08-20) a 8.35 EUR (original: 11.17 EUR) (25.25 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Maybelline New York Polvo Master Sculpt Base de Maquillaje  Tono: 002](https://www.amazon.com/dp/B00X9XKSI4/?tag=redken08-20) a 8.35 EUR (original: 11.17 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41i%2BipBmHWL._SL200_.jpg)](https://www.amazon.com/dp/B00X9XKSI4/?tag=redken08-20)
 

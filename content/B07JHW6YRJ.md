@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Feel It Pant Pantalones  Mujer  Ver al 50.81 % de descuento'
+title: 'Puma Feel It Pant Pantalones  Mujer  Ver'
 date: 2019/11/12 16:55:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w8KwzPUML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w8KwzPUML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [Puma Feel It Pant Pantalones  Mujer  Verde  Ponderosa Pine Heather   S](https://www.amazon.com/dp/B07JHW6YRJ/?tag=redken08-20) con 50.81 de descuento por 29.49 EUR (original: 59.95 EUR) en el siguiente enlace!
+Está [Puma Feel It Pant Pantalones  Mujer  Verde  Ponderosa Pine Heather   S](https://www.amazon.com/dp/B07JHW6YRJ/?tag=redken08-20) por 29.49 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41w8KwzPUML._SL200_.jpg)](https://www.amazon.com/dp/B07JHW6YRJ/?tag=redken08-20)
 

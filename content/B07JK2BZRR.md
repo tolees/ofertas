@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cronicas Vampíricas Temporada 1-8  Serie al 54.64 % de descuento'
+title: 'Cronicas Vampíricas Temporada 1-8  Serie'
 date: 2019/11/27 07:41:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51szEobrHPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51szEobrHPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 102.49 EUR
 inStock: true
 ---
 
-Está [Cronicas Vampíricas Temporada 1-8  Serie Completa  Blu-Ray [Blu-ray]](https://www.amazon.com/dp/B07JK2BZRR/?tag=redken08-20) con 54.64 de descuento por 46.49 EUR (original: 102.49 EUR) en el siguiente enlace!
+Está [Cronicas Vampíricas Temporada 1-8  Serie Completa  Blu-Ray [Blu-ray]](https://www.amazon.com/dp/B07JK2BZRR/?tag=redken08-20) por 46.49 EUR (original: 102.49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51szEobrHPL._SL200_.jpg)](https://www.amazon.com/dp/B07JK2BZRR/?tag=redken08-20)
 

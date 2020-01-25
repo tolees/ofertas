@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.01 % en edc by Esprit 089cc1e028 Vestido  Azul  '
+title: 'edc by Esprit 089cc1e028 Vestido  Azul  '
 date: 2019/12/24 11:10:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Lh5UM5Z0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Lh5UM5Z0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [edc by Esprit 089cc1e028 Vestido  Azul  Navy 2 401   Small para Mujer](https://www.amazon.com/dp/B07S19QYNN/?tag=redken08-20) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [edc by Esprit 089cc1e028 Vestido  Azul  Navy 2 401   Small para Mujer](https://www.amazon.com/dp/B07S19QYNN/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Lh5UM5Z0L._SL200_.jpg)](https://www.amazon.com/dp/B07S19QYNN/?tag=redken08-20)
 

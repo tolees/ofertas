@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.73 % en MEDION MD61264 - Ordenador portátil conv'
+title: 'MEDION MD61264 - Ordenador portátil conv'
 date: 2020-01-02 05:28:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vcyj0ncfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vcyj0ncfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 449 EUR
 inStock: true
 ---
 
-Tienes [MEDION MD61264 - Ordenador portátil convertible de 14" Full HD  Intel Pentium N5000  RAM de 4 GB DDR4  SSD de 128 GB  Intel Graphics  Windows 10 Home  Gris Titanium](https://www.amazon.com/dp/B07NGTVNLF/?tag=redken08-20) con un 26.73 % de descuento con precio de oferta de 329 EUR (original: 449 EUR) en el siguiente enlace!
+Tienes [MEDION MD61264 - Ordenador portátil convertible de 14" Full HD  Intel Pentium N5000  RAM de 4 GB DDR4  SSD de 128 GB  Intel Graphics  Windows 10 Home  Gris Titanium](https://www.amazon.com/dp/B07NGTVNLF/?tag=redken08-20) a precio de oferta de 329 EUR (original: 449 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vcyj0ncfL._SL200_.jpg)](https://www.amazon.com/dp/B07NGTVNLF/?tag=redken08-20)
 

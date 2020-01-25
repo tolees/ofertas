@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calcetines de Lana Merino 3 Pares  Negro al 26.97 % de descuento'
+title: 'Calcetines de Lana Merino 3 Pares  Negro'
 date: 2019/11/29 09:46:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yMnNOsb5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yMnNOsb5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.95 EUR
 inStock: true
 ---
 
-Está [Calcetines de Lana Merino 3 Pares  Negro  EU 39-42 ](https://www.amazon.com/dp/B07DNCZ7MT/?tag=redken08-20) con 26.97 de descuento por 18.95 EUR (original: 25.95 EUR) en el siguiente enlace!
+Está [Calcetines de Lana Merino 3 Pares  Negro  EU 39-42 ](https://www.amazon.com/dp/B07DNCZ7MT/?tag=redken08-20) por 18.95 EUR (original: 25.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yMnNOsb5L._SL200_.jpg)](https://www.amazon.com/dp/B07DNCZ7MT/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gillette Fusion ProGlide - Maquinilla de al 31.72 % de descuento'
+title: 'Gillette Fusion ProGlide - Maquinilla de'
 date: 2019/12/03 09:34:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Trf6Zx13L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Trf6Zx13L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gillette Fusion ProGlide - Maquinilla de Afeitar + 10 Cuchillas de Afeitar](https://www.amazon.com/dp/B01B4POC3A/?tag=redken08-20) a 27.99 EUR (original: 40.99 EUR) (31.72 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Gillette Fusion ProGlide - Maquinilla de Afeitar + 10 Cuchillas de Afeitar](https://www.amazon.com/dp/B01B4POC3A/?tag=redken08-20) a 27.99 EUR (original: 40.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Trf6Zx13L._SL200_.jpg)](https://www.amazon.com/dp/B01B4POC3A/?tag=redken08-20)
 

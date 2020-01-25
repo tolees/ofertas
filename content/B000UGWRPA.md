@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Singer BSM 203 Quita pelusas  Azul  Gris al 31.63 % de descuento'
+title: 'Singer BSM 203 Quita pelusas  Azul  Gris'
 date: 2019/10/23 07:18:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Dhu6ZVbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Dhu6ZVbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19 EUR
 inStock: true
 ---
 
-Está [Singer BSM 203 Quita pelusas  Azul  Gris  Color blanco](https://www.amazon.com/dp/B000UGWRPA/?tag=redken08-20) con 31.63 de descuento por 12.99 EUR (original: 19 EUR) en el siguiente enlace!
+Está [Singer BSM 203 Quita pelusas  Azul  Gris  Color blanco](https://www.amazon.com/dp/B000UGWRPA/?tag=redken08-20) por 12.99 EUR (original: 19 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411Dhu6ZVbL._SL200_.jpg)](https://www.amazon.com/dp/B000UGWRPA/?tag=redken08-20)
 

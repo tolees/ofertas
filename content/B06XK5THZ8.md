@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 42.05 % en Tecnimax TMXCAMUW Cable de alimentación '
+title: 'Tecnimax TMXCAMUW Cable de alimentación '
 date: 2019/11/02 18:28:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o6Ih4-Z3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o6Ih4-Z3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1.95 EUR
 inStock: true
 ---
 
-Tienes [Tecnimax TMXCAMUW Cable de alimentación Micro USB  Blanco](https://www.amazon.com/dp/B06XK5THZ8/?tag=redken08-20) con un 42.05 % de descuento con precio de oferta de 1.13 EUR (original: 1.95 EUR) en el siguiente enlace!
+Tienes [Tecnimax TMXCAMUW Cable de alimentación Micro USB  Blanco](https://www.amazon.com/dp/B06XK5THZ8/?tag=redken08-20) a precio de oferta de 1.13 EUR (original: 1.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31o6Ih4-Z3L._SL200_.jpg)](https://www.amazon.com/dp/B06XK5THZ8/?tag=redken08-20)
 

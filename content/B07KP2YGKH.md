@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas 6P 3S Cap Cotto - Gorra  Unisex A al 40.00 % de descuento'
+title: 'adidas 6P 3S Cap Cotto - Gorra  Unisex A'
 date: 2020-01-12 13:04:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311iPn1P4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311iPn1P4gL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Está [adidas 6P 3S Cap Cotto - Gorra  Unisex Adulto  Black/White  OSFL](https://www.amazon.com/dp/B07KP2YGKH/?tag=redken08-20) con 40.00 de descuento por 10.77 EUR (original: 17.95 EUR) en el siguiente enlace!
+Está [adidas 6P 3S Cap Cotto - Gorra  Unisex Adulto  Black/White  OSFL](https://www.amazon.com/dp/B07KP2YGKH/?tag=redken08-20) por 10.77 EUR (original: 17.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/311iPn1P4gL._SL200_.jpg)](https://www.amazon.com/dp/B07KP2YGKH/?tag=redken08-20)
 

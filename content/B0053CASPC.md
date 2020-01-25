@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Terminator Salvation [DVD] al 37.44 % de descuento'
+title: 'Terminator Salvation [DVD]'
 date: 2019/11/03 15:02:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51erReMLDEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51erReMLDEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.11 EUR
 inStock: true
 ---
 
-Está [Terminator Salvation [DVD]](https://www.amazon.com/dp/B0053CASPC/?tag=redken08-20) con 37.44 de descuento por 6.95 EUR (original: 11.11 EUR) en el siguiente enlace!
+Está [Terminator Salvation [DVD]](https://www.amazon.com/dp/B0053CASPC/?tag=redken08-20) por 6.95 EUR (original: 11.11 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51erReMLDEL._SL200_.jpg)](https://www.amazon.com/dp/B0053CASPC/?tag=redken08-20)
 

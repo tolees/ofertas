@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Vintage Authentic tee Camiseta  al 49.81 % de descuento'
+title: 'Superdry Vintage Authentic tee Camiseta '
 date: 2019/11/05 20:02:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xnYNYX%2BKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xnYNYX%2BKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superdry Vintage Authentic tee Camiseta  Turquesa  Pastel Mint Marl Rq7   Large para Hombre](https://www.amazon.com/dp/B07JHSKXML/?tag=redken08-20) a 19.95 EUR (original: 39.75 EUR) (49.81 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Superdry Vintage Authentic tee Camiseta  Turquesa  Pastel Mint Marl Rq7   Large para Hombre](https://www.amazon.com/dp/B07JHSKXML/?tag=redken08-20) a 19.95 EUR (original: 39.75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xnYNYX%2BKL._SL200_.jpg)](https://www.amazon.com/dp/B07JHSKXML/?tag=redken08-20)
 

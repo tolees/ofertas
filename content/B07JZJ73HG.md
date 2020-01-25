@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Essential Hilfiger tee S/ al 67.14 % de descuento'
+title: 'Tommy Hilfiger Essential Hilfiger tee S/'
 date: 2019/11/15 12:19:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31f2HzDzoGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31f2HzDzoGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Está [Tommy Hilfiger Essential Hilfiger tee S/s Camiseta  Blanco  Bright White 123   92 para Niñas](https://www.amazon.com/dp/B07JZJ73HG/?tag=redken08-20) con 67.14 de descuento por 6.54 EUR (original: 19.9 EUR) en el siguiente enlace!
+Está [Tommy Hilfiger Essential Hilfiger tee S/s Camiseta  Blanco  Bright White 123   92 para Niñas](https://www.amazon.com/dp/B07JZJ73HG/?tag=redken08-20) por 6.54 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31f2HzDzoGL._SL200_.jpg)](https://www.amazon.com/dp/B07JZJ73HG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley - Camiseta para hombre  Blanco  X al 74.47 % de descuento'
+title: 'Hurley - Camiseta para hombre  Blanco  X'
 date: 2019/10/12 16:36:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tC9DZvrgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tC9DZvrgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley - Camiseta para hombre  Blanco  XXL  High Bars Prm Tee Ss](https://www.amazon.com/dp/B07KCWNTVT/?tag=redken08-20) a 7.66 EUR (original: 30 EUR) (74.47 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Hurley - Camiseta para hombre  Blanco  XXL  High Bars Prm Tee Ss](https://www.amazon.com/dp/B07KCWNTVT/?tag=redken08-20) a 7.66 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tC9DZvrgL._SL200_.jpg)](https://www.amazon.com/dp/B07KCWNTVT/?tag=redken08-20)
 

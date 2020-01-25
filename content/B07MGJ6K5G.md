@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spike Volleyball  Versión Española  al 85.73 % de descuento'
+title: 'Spike Volleyball  Versión Española '
 date: 2019/11/07 07:27:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PIV4sy%2B7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PIV4sy%2B7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [Spike Volleyball  Versión Española ](https://www.amazon.com/dp/B07MGJ6K5G/?tag=redken08-20) con 85.73 de descuento por 9.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [Spike Volleyball  Versión Española ](https://www.amazon.com/dp/B07MGJ6K5G/?tag=redken08-20) por 9.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51PIV4sy%2B7L._SL200_.jpg)](https://www.amazon.com/dp/B07MGJ6K5G/?tag=redken08-20)
 

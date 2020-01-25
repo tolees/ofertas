@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.42 % en L Oreal Paris Dermo Expertise Tratamient'
+title: 'L Oreal Paris Dermo Expertise Tratamient'
 date: 2019/11/30 16:04:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rgkpGLbPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rgkpGLbPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12 EUR
 inStock: true
 ---
 
-Tienes [L Oreal Paris Dermo Expertise Tratamiento Anti- Arrugas Expert  Crema De Día  Retino Péptidos +45- 50ml](https://www.amazon.com/dp/B01H5VOAOI/?tag=redken08-20) con un 50.42 % de descuento con precio de oferta de 5.95 EUR (original: 12 EUR) en el siguiente enlace!
+Tienes [L Oreal Paris Dermo Expertise Tratamiento Anti- Arrugas Expert  Crema De Día  Retino Péptidos +45- 50ml](https://www.amazon.com/dp/B01H5VOAOI/?tag=redken08-20) a precio de oferta de 5.95 EUR (original: 12 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rgkpGLbPL._SL200_.jpg)](https://www.amazon.com/dp/B01H5VOAOI/?tag=redken08-20)
 

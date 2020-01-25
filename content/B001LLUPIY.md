@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auchentoshan Three Wood Single Malt Scot al 37.80 % de descuento'
+title: 'Auchentoshan Three Wood Single Malt Scot'
 date: 2020-01-24 20:40:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/416GJMFiy6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416GJMFiy6L._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 52.41 EUR
 inStock: true
 ---
 
-Está [Auchentoshan Three Wood Single Malt Scotch Whisky  40% - 700ml](https://www.amazon.com/dp/B001LLUPIY/?tag=redken08-20) con 37.80 de descuento por 32.6 EUR (original: 52.41 EUR) en el siguiente enlace!
+Está [Auchentoshan Three Wood Single Malt Scotch Whisky  40% - 700ml](https://www.amazon.com/dp/B001LLUPIY/?tag=redken08-20) por 32.6 EUR (original: 52.41 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/416GJMFiy6L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B001LLUPIY/?tag=redken08-20)
 

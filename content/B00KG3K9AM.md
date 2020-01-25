@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Noctua NA-SEC1  4-Pin Extension Cables   al 41.93 % de descuento'
+title: 'Noctua NA-SEC1  4-Pin Extension Cables  '
 date: 2019/12/25 15:51:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kaiaHaxVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kaiaHaxVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.99 GBP
 inStock: true
 ---
 
-Está [Noctua NA-SEC1  4-Pin Extension Cables  30cm  Black ](https://www.amazon.com/dp/B00KG3K9AM/?tag=redken08-20) con 41.93 de descuento por 4.64 GBP (original: 7.99 GBP) en el siguiente enlace!
+Está [Noctua NA-SEC1  4-Pin Extension Cables  30cm  Black ](https://www.amazon.com/dp/B00KG3K9AM/?tag=redken08-20) por 4.64 GBP (original: 7.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kaiaHaxVL._SL200_.jpg)](https://www.amazon.com/dp/B00KG3K9AM/?tag=redken08-20)
 

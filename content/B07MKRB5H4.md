@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Ef8827 Vestido  Negro  Noir 031  al 50.31 % de descuento'
+title: 'Lacoste Ef8827 Vestido  Negro  Noir 031 '
 date: 2019/10/13 08:11:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gYflcbnlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gYflcbnlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 165 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Ef8827 Vestido  Negro  Noir 031   X-Small para Mujer](https://www.amazon.com/dp/B07MKRB5H4/?tag=redken08-20) a 81.99 EUR (original: 165 EUR) (50.31 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Ef8827 Vestido  Negro  Noir 031   X-Small para Mujer](https://www.amazon.com/dp/B07MKRB5H4/?tag=redken08-20) a 81.99 EUR (original: 165 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31gYflcbnlL._SL200_.jpg)](https://www.amazon.com/dp/B07MKRB5H4/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Henry London Reloj Analógico para Unisex al 77.36 % de descuento'
+title: 'Henry London Reloj Analógico para Unisex'
 date: 2019/10/20 04:22:09 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 133.18 EUR
 inStock: true
 ---
 
-Está [Henry London Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable HL34-M-0375](https://www.amazon.com/dp/B07FJN9QN4/?tag=redken08-20) con 77.36 de descuento por 30.15 EUR (original: 133.18 EUR) en el siguiente enlace!
+Está [Henry London Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable HL34-M-0375](https://www.amazon.com/dp/B07FJN9QN4/?tag=redken08-20) por 30.15 EUR (original: 133.18 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B07FJN9QN4/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salewa Saco de Dormir vivac para Condici al 49.81 % de descuento'
+title: 'Salewa Saco de Dormir vivac para Condici'
 date: 2019/12/08 16:18:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412wzRxWLRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412wzRxWLRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Salewa Saco de Dormir vivac para Condiciones Muy frías  Adultos  Rojo/Plateado  Talla Única](https://www.amazon.com/dp/B01A11UYFI/?tag=redken08-20) con 49.81 de descuento por 75.29 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Salewa Saco de Dormir vivac para Condiciones Muy frías  Adultos  Rojo/Plateado  Talla Única](https://www.amazon.com/dp/B01A11UYFI/?tag=redken08-20) por 75.29 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412wzRxWLRL._SL200_.jpg)](https://www.amazon.com/dp/B01A11UYFI/?tag=redken08-20)
 

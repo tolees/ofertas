@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Menerva Sport 318 1 CAM  Zapatil al 42.45 % de descuento'
+title: 'Lacoste Menerva Sport 318 1 CAM  Zapatil'
 date: 2019/11/20 23:20:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EvStpfw3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EvStpfw3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Lacoste Menerva Sport 318 1 CAM  Zapatillas para Hombre  Azul  Nvy/Dk BLU Nd1   40 EU](https://www.amazon.com/dp/B07CZBG7K5/?tag=redken08-20) con 42.45 de descuento por 56.97 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Lacoste Menerva Sport 318 1 CAM  Zapatillas para Hombre  Azul  Nvy/Dk BLU Nd1   40 EU](https://www.amazon.com/dp/B07CZBG7K5/?tag=redken08-20) por 56.97 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EvStpfw3L._SL200_.jpg)](https://www.amazon.com/dp/B07CZBG7K5/?tag=redken08-20)
 

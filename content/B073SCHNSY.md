@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Sudadera para Hombre  Azul  Mariti al 62.50 % de descuento'
+title: 'find. Sudadera para Hombre  Azul  Mariti'
 date: 2020-01-13 14:49:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.4 EUR
 inStock: true
 ---
 
-Está [find. Sudadera para Hombre  Azul  Maritime Blue 004   Large](https://www.amazon.com/dp/B073SCHNSY/?tag=redken08-20) con 62.50 de descuento por 8.4 EUR (original: 22.4 EUR) en el siguiente enlace!
+Está [find. Sudadera para Hombre  Azul  Maritime Blue 004   Large](https://www.amazon.com/dp/B073SCHNSY/?tag=redken08-20) por 8.4 EUR (original: 22.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg)](https://www.amazon.com/dp/B073SCHNSY/?tag=redken08-20)
 

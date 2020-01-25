@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Padded Pak R Mochila  24 L  Negr al 40.10 % de descuento'
+title: 'Eastpak Padded Pak R Mochila  24 L  Negr'
 date: 2019/12/13 20:21:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pi-8ZZ0uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pi-8ZZ0uL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Eastpak Padded Pak R Mochila  24 L  Negro  Black   40 x 18 x 30 cm](https://www.amazon.com/dp/B000CRBEJ2/?tag=redken08-20) con 40.10 de descuento por 29.95 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Eastpak Padded Pak R Mochila  24 L  Negro  Black   40 x 18 x 30 cm](https://www.amazon.com/dp/B000CRBEJ2/?tag=redken08-20) por 29.95 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pi-8ZZ0uL._SL200_.jpg)](https://www.amazon.com/dp/B000CRBEJ2/?tag=redken08-20)
 

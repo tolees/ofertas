@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland 6 in Premium Waterproof Botas al 48.67 % de descuento'
+title: 'Timberland 6 in Premium Waterproof Botas'
 date: 2019/11/21 20:12:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HZgRZSKzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HZgRZSKzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Timberland 6 in Premium Waterproof Botas Clasicas Unisex Niños  Negro  Black Nubuck   36 EU](https://www.amazon.com/dp/B003ZDKOUA/?tag=redken08-20) con 48.67 de descuento por 77 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Timberland 6 in Premium Waterproof Botas Clasicas Unisex Niños  Negro  Black Nubuck   36 EU](https://www.amazon.com/dp/B003ZDKOUA/?tag=redken08-20) por 77 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31HZgRZSKzL._SL200_.jpg)](https://www.amazon.com/dp/B003ZDKOUA/?tag=redken08-20)
 

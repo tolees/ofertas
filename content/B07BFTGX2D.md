@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IMC Toys- MUÑECO PIPÍ   1  al 65.04 % de descuento'
+title: 'IMC Toys- MUÑECO PIPÍ   1 '
 date: 2019/10/24 10:22:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ok9ypqwPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ok9ypqwPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [IMC Toys- MUÑECO PIPÍ   1 ](https://www.amazon.com/dp/B07BFTGX2D/?tag=redken08-20) con 65.04 de descuento por 13.98 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [IMC Toys- MUÑECO PIPÍ   1 ](https://www.amazon.com/dp/B07BFTGX2D/?tag=redken08-20) por 13.98 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ok9ypqwPL._SL200_.jpg)](https://www.amazon.com/dp/B07BFTGX2D/?tag=redken08-20)
 

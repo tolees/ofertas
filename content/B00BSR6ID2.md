@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 79.55 % en Geox J Agata D  Mocasines para Niños  Ne'
+title: 'Geox J Agata D  Mocasines para Niños  Ne'
 date: 2019/11/04 21:49:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3195MmpEjFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3195MmpEjFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.9 EUR
 inStock: true
 ---
 
-Tienes [Geox J Agata D  Mocasines para Niños  Negro  Black   28 EU](https://www.amazon.com/dp/B00BSR6ID2/?tag=redken08-20) con un 79.55 % de descuento con precio de oferta de 12.25 EUR (original: 59.9 EUR) en el siguiente enlace!
+Tienes [Geox J Agata D  Mocasines para Niños  Negro  Black   28 EU](https://www.amazon.com/dp/B00BSR6ID2/?tag=redken08-20) a precio de oferta de 12.25 EUR (original: 59.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/3195MmpEjFL._SL200_.jpg)](https://www.amazon.com/dp/B00BSR6ID2/?tag=redken08-20)
 

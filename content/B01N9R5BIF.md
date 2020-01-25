@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Camisa de Cuadros para Hombre  Roj al 70.00 % de descuento'
+title: 'find. Camisa de Cuadros para Hombre  Roj'
 date: 2019/10/14 21:11:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sg9ayKTTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sg9ayKTTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27 EUR
 inStock: true
 ---
 
-Está [find. Camisa de Cuadros para Hombre  Rojo  Checkered   X-Large](https://www.amazon.com/dp/B01N9R5BIF/?tag=redken08-20) con 70.00 de descuento por 8.1 EUR (original: 27 EUR) en el siguiente enlace!
+Está [find. Camisa de Cuadros para Hombre  Rojo  Checkered   X-Large](https://www.amazon.com/dp/B01N9R5BIF/?tag=redken08-20) por 8.1 EUR (original: 27 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51sg9ayKTTL._SL200_.jpg)](https://www.amazon.com/dp/B01N9R5BIF/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CARE OF by PUMA Zapatillas bajas en cuer al 30.00 % de descuento'
+title: 'CARE OF by PUMA Zapatillas bajas en cuer'
 date: 2020-01-23 11:59:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yGDU41PRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yGDU41PRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [CARE OF by PUMA Zapatillas bajas en cuero para hombre  Beige  45 EU](https://www.amazon.com/dp/B07R8GDB7B/?tag=redken08-20) a 48.3 EUR (original: 69 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [CARE OF by PUMA Zapatillas bajas en cuero para hombre  Beige  45 EU](https://www.amazon.com/dp/B07R8GDB7B/?tag=redken08-20) a 48.3 EUR (original: 69 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31yGDU41PRL._SL200_.jpg)](https://www.amazon.com/dp/B07R8GDB7B/?tag=redken08-20)
 

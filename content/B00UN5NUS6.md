@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Biotherm Homme Aquapower 72H Hidratante  al 32.72 % de descuento'
+title: 'Biotherm Homme Aquapower 72H Hidratante '
 date: 2019/12/07 18:53:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nKNoFMjPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nKNoFMjPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 46 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Biotherm Homme Aquapower 72H Hidratante Glacial Concentré 50 ml](https://www.amazon.com/dp/B00UN5NUS6/?tag=redken08-20) a 30.95 EUR (original: 46 EUR) (32.72 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Biotherm Homme Aquapower 72H Hidratante Glacial Concentré 50 ml](https://www.amazon.com/dp/B00UN5NUS6/?tag=redken08-20) a 30.95 EUR (original: 46 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nKNoFMjPL._SL200_.jpg)](https://www.amazon.com/dp/B00UN5NUS6/?tag=redken08-20)
 

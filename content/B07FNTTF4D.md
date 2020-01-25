@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City 60221 Tauchyacht al 32.67 % de descuento'
+title: 'LEGO City 60221 Tauchyacht'
 date: 2019/12/20 01:18:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OxkAiCVxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OxkAiCVxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City 60221 Tauchyacht](https://www.amazon.com/dp/B07FNTTF4D/?tag=redken08-20) a 13.46 EUR (original: 19.99 EUR) (32.67 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60221 Tauchyacht](https://www.amazon.com/dp/B07FNTTF4D/?tag=redken08-20) a 13.46 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51OxkAiCVxL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTTF4D/?tag=redken08-20)
 

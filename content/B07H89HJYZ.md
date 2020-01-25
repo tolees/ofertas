@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[3 Pack] Funda Huawei Mate 20 Lite  Weid al 57.93 % de descuento'
+title: '[3 Pack] Funda Huawei Mate 20 Lite  Weid'
 date: 2019/11/20 11:30:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WUUpUIh9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WUUpUIh9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.99 EUR
 inStock: true
 ---
 
-Está [[3 Pack] Funda Huawei Mate 20 Lite  Weideworld 3D Patrón Flexible Ultra Slim TPU Silicona Back Carcasa Funda para Huawei Mate 20 Lite  Amor](https://www.amazon.com/dp/B07H89HJYZ/?tag=redken08-20) con 57.93 de descuento por 7.99 EUR (original: 18.99 EUR) en el siguiente enlace!
+Está [[3 Pack] Funda Huawei Mate 20 Lite  Weideworld 3D Patrón Flexible Ultra Slim TPU Silicona Back Carcasa Funda para Huawei Mate 20 Lite  Amor](https://www.amazon.com/dp/B07H89HJYZ/?tag=redken08-20) por 7.99 EUR (original: 18.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51WUUpUIh9L._SL200_.jpg)](https://www.amazon.com/dp/B07H89HJYZ/?tag=redken08-20)
 

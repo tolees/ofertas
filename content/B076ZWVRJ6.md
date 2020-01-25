@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Daplin R T S/s Camiseta   Bla al 33.26 % de descuento'
+title: 'G-STAR RAW Daplin R T S/s Camiseta   Bla'
 date: 2019/11/12 09:58:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UtzxvDhiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UtzxvDhiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Está [G-STAR RAW Daplin R T S/s Camiseta   Black Htr 390   Small para Hombre](https://www.amazon.com/dp/B076ZWVRJ6/?tag=redken08-20) con 33.26 de descuento por 19.99 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [G-STAR RAW Daplin R T S/s Camiseta   Black Htr 390   Small para Hombre](https://www.amazon.com/dp/B076ZWVRJ6/?tag=redken08-20) por 19.99 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UtzxvDhiL._SL200_.jpg)](https://www.amazon.com/dp/B076ZWVRJ6/?tag=redken08-20)
 

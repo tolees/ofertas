@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Color Riche 230 Coral Show al 49.46 % de descuento'
+title: 'L Oreal Paris Color Riche 230 Coral Show'
 date: 2020-01-18 11:57:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UhDWhLovL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UhDWhLovL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.95 EUR
 inStock: true
 ---
 
-Está [L Oreal Paris Color Riche 230 Coral Showroom Barra de Labios Coral](https://www.amazon.com/dp/B00EJDBKNU/?tag=redken08-20) con 49.46 de descuento por 7.05 EUR (original: 13.95 EUR) en el siguiente enlace!
+Está [L Oreal Paris Color Riche 230 Coral Showroom Barra de Labios Coral](https://www.amazon.com/dp/B00EJDBKNU/?tag=redken08-20) por 7.05 EUR (original: 13.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31UhDWhLovL._SL200_.jpg)](https://www.amazon.com/dp/B00EJDBKNU/?tag=redken08-20)
 

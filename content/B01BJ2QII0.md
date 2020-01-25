@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Artesanía Cerdá 2100001123 Spiderman Moc al 85.72 % de descuento'
+title: 'Artesanía Cerdá 2100001123 Spiderman Moc'
 date: 2019/11/09 09:32:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zuZnX8aTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zuZnX8aTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Artesanía Cerdá 2100001123 Spiderman Mochila Infantil  Color Rojo](https://www.amazon.com/dp/B01BJ2QII0/?tag=redken08-20) con 85.72 de descuento por 14.14 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Artesanía Cerdá 2100001123 Spiderman Mochila Infantil  Color Rojo](https://www.amazon.com/dp/B01BJ2QII0/?tag=redken08-20) por 14.14 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51zuZnX8aTL._SL200_.jpg)](https://www.amazon.com/dp/B01BJ2QII0/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 32.30 % en Reebok Classic Leather  Zapatillas de De'
+title: 'Reebok Classic Leather  Zapatillas de De'
 date: 2020-01-05 19:54:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BJyV06%2BRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BJyV06%2BRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Tienes [Reebok Classic Leather  Zapatillas de Deporte para Hombre  Negro  Black/Gum 2   43 EU](https://www.amazon.com/dp/B01BZYABSK/?tag=redken08-20) con un 32.30 % de descuento con precio de oferta de 60.9 EUR (original: 89.95 EUR) en el siguiente enlace!
+Tienes [Reebok Classic Leather  Zapatillas de Deporte para Hombre  Negro  Black/Gum 2   43 EU](https://www.amazon.com/dp/B01BZYABSK/?tag=redken08-20) a precio de oferta de 60.9 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BJyV06%2BRL._SL200_.jpg)](https://www.amazon.com/dp/B01BZYABSK/?tag=redken08-20)
 

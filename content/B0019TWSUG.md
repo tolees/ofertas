@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP CB325EE 364XL High Yield Original Ink al 28.63 % de descuento'
+title: 'HP CB325EE 364XL High Yield Original Ink'
 date: 2019/11/23 10:44:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511QBf5TLNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511QBf5TLNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.61 GBP
 inStock: true
 ---
 
-Está [HP CB325EE 364XL High Yield Original Ink Cartridge  Yellow  Pack of 1](https://www.amazon.com/dp/B0019TWSUG/?tag=redken08-20) con 28.63 de descuento por 9 GBP (original: 12.61 GBP) en el siguiente enlace!
+Está [HP CB325EE 364XL High Yield Original Ink Cartridge  Yellow  Pack of 1](https://www.amazon.com/dp/B0019TWSUG/?tag=redken08-20) por 9 GBP (original: 12.61 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/511QBf5TLNL._SL200_.jpg)](https://www.amazon.com/dp/B0019TWSUG/?tag=redken08-20)
 

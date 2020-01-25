@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Raid SS Camiseta  Hombre al 64.09 % de descuento'
+title: 'Under Armour UA Raid SS Camiseta  Hombre'
 date: 2019/10/13 06:39:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HAJJSwsNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HAJJSwsNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 33 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Raid SS Camiseta  Hombre  Gris  True Gray Heather/Black 025   XL](https://www.amazon.com/dp/B00KXAENL4/?tag=redken08-20) con 64.09 de descuento por 11.85 EUR (original: 33 EUR) en el siguiente enlace!
+Está [Under Armour UA Raid SS Camiseta  Hombre  Gris  True Gray Heather/Black 025   XL](https://www.amazon.com/dp/B00KXAENL4/?tag=redken08-20) por 11.85 EUR (original: 33 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31HAJJSwsNL._SL200_.jpg)](https://www.amazon.com/dp/B00KXAENL4/?tag=redken08-20)
 

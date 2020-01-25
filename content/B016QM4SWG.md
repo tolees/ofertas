@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 44.39 % en Tommy Hilfiger Core Stretch Slim Poplin '
+title: 'Tommy Hilfiger Core Stretch Slim Poplin '
 date: 2019/12/09 09:52:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zOTgTolrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zOTgTolrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.9 EUR
 inStock: true
 ---
 
-Tienes [Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Negro  Flag Black 083   XX-Large para Hombre](https://www.amazon.com/dp/B016QM4SWG/?tag=redken08-20) con un 44.39 % de descuento con precio de oferta de 49.99 EUR (original: 89.9 EUR) en el siguiente enlace!
+Tienes [Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Negro  Flag Black 083   XX-Large para Hombre](https://www.amazon.com/dp/B016QM4SWG/?tag=redken08-20) a precio de oferta de 49.99 EUR (original: 89.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zOTgTolrL._SL200_.jpg)](https://www.amazon.com/dp/B016QM4SWG/?tag=redken08-20)
 

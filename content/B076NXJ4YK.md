@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair HS50 Stereo Gaming Headset  Unid al 46.67 % de descuento'
+title: 'Corsair HS50 Stereo Gaming Headset  Unid'
 date: 2019/11/22 23:34:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412WfuqnYAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412WfuqnYAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Está [Corsair HS50 Stereo Gaming Headset  Unidirectional Noise Cancelling  Optimised Unidirectional Microphone  On-Ear Control with PC  Xbox One  PS4  Nintendo Switch and Mobile Compatibility  - Carbon](https://www.amazon.com/dp/B076NXJ4YK/?tag=redken08-20) con 46.67 de descuento por 31.99 GBP (original: 59.99 GBP) en el siguiente enlace!
+Está [Corsair HS50 Stereo Gaming Headset  Unidirectional Noise Cancelling  Optimised Unidirectional Microphone  On-Ear Control with PC  Xbox One  PS4  Nintendo Switch and Mobile Compatibility  - Carbon](https://www.amazon.com/dp/B076NXJ4YK/?tag=redken08-20) por 31.99 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412WfuqnYAL._SL200_.jpg)](https://www.amazon.com/dp/B076NXJ4YK/?tag=redken08-20)
 

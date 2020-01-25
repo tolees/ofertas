@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIND - Deep Forest - Trío de sombras de  al 25.00 % de descuento'
+title: 'FIND - Deep Forest - Trío de sombras de '
 date: 2019/11/13 13:07:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ONGc2JW6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ONGc2JW6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6 EUR
 inStock: true
 ---
 
-Está [FIND - Deep Forest - Trío de sombras de ojos  n.10  n.11  n.12 ](https://www.amazon.com/dp/B07CTN98BN/?tag=redken08-20) con 25.00 de descuento por 4.5 EUR (original: 6 EUR) en el siguiente enlace!
+Está [FIND - Deep Forest - Trío de sombras de ojos  n.10  n.11  n.12 ](https://www.amazon.com/dp/B07CTN98BN/?tag=redken08-20) por 4.5 EUR (original: 6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ONGc2JW6L._SL200_.jpg)](https://www.amazon.com/dp/B07CTN98BN/?tag=redken08-20)
 

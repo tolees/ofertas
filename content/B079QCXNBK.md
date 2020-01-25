@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.00 % en Hackett London MR CLASC Crew Sudadera  G'
+title: 'Hackett London MR CLASC Crew Sudadera  G'
 date: 2019/11/22 09:15:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416fwkdMERL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416fwkdMERL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 87.82 EUR
 inStock: true
 ---
 
-Tienes [Hackett London MR CLASC Crew Sudadera  Gris  L para Hombre](https://www.amazon.com/dp/B079QCXNBK/?tag=redken08-20) con un 35.00 % de descuento con precio de oferta de 57.08 EUR (original: 87.82 EUR) en el siguiente enlace!
+Tienes [Hackett London MR CLASC Crew Sudadera  Gris  L para Hombre](https://www.amazon.com/dp/B079QCXNBK/?tag=redken08-20) a precio de oferta de 57.08 EUR (original: 87.82 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416fwkdMERL._SL200_.jpg)](https://www.amazon.com/dp/B079QCXNBK/?tag=redken08-20)
 

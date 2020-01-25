@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dockers by Gerli 44sy201-700660  Zapatil al 35.07 % de descuento'
+title: 'Dockers by Gerli 44sy201-700660  Zapatil'
 date: 2019/12/02 10:07:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UbkTBjAcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UbkTBjAcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.13 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dockers by Gerli 44sy201-700660  Zapatillas para Mujer  Azul  Navy 660   39 EU](https://www.amazon.com/dp/B07L8DYG7F/?tag=redken08-20) a 24.11 EUR (original: 37.13 EUR) (35.07 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Dockers by Gerli 44sy201-700660  Zapatillas para Mujer  Azul  Navy 660   39 EU](https://www.amazon.com/dp/B07L8DYG7F/?tag=redken08-20) a 24.11 EUR (original: 37.13 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UbkTBjAcL._SL200_.jpg)](https://www.amazon.com/dp/B07L8DYG7F/?tag=redken08-20)
 

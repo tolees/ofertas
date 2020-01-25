@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Berber WOM H Sudadera  Negro   al 51.42 % de descuento'
+title: 'Napapijri Berber WOM H Sudadera  Negro  '
 date: 2019/12/19 15:20:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nslWDjfpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nslWDjfpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Napapijri Berber WOM H Sudadera  Negro  Black 041   XL para Mujer](https://www.amazon.com/dp/B07MMLM85Q/?tag=redken08-20) a 48.09 EUR (original: 99 EUR) (51.42 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Napapijri Berber WOM H Sudadera  Negro  Black 041   XL para Mujer](https://www.amazon.com/dp/B07MMLM85Q/?tag=redken08-20) a 48.09 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nslWDjfpL._SL200_.jpg)](https://www.amazon.com/dp/B07MMLM85Q/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HARRY POTTER Bolso de Lona Hogwarts Cres al 27.75 % de descuento'
+title: 'HARRY POTTER Bolso de Lona Hogwarts Cres'
 date: 2019/11/02 15:38:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JpQ%2Bdee0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JpQ%2Bdee0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.7 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HARRY POTTER Bolso de Lona Hogwarts Crest  Tela  Beige  Unico](https://www.amazon.com/dp/B01F3QEF6A/?tag=redken08-20) a 19.29 EUR (original: 26.7 EUR) (27.75 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [HARRY POTTER Bolso de Lona Hogwarts Crest  Tela  Beige  Unico](https://www.amazon.com/dp/B01F3QEF6A/?tag=redken08-20) a 19.29 EUR (original: 26.7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JpQ%2Bdee0L._SL200_.jpg)](https://www.amazon.com/dp/B01F3QEF6A/?tag=redken08-20)
 

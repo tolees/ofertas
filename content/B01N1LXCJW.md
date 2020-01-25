@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Paños de algodón  30 5 x  al 28.56 % de descuento'
+title: 'AmazonBasics - Paños de algodón  30 5 x '
 date: 2019/10/18 02:09:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61E1M3eDOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61E1M3eDOuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Paños de algodón  30 5 x 30 5 cm   pack de 24 - Lavenda](https://www.amazon.com/dp/B01N1LXCJW/?tag=redken08-20) a 14.28 EUR (original: 19.99 EUR) (28.56 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Paños de algodón  30 5 x 30 5 cm   pack de 24 - Lavenda](https://www.amazon.com/dp/B01N1LXCJW/?tag=redken08-20) a 14.28 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61E1M3eDOuL._SL200_.jpg)](https://www.amazon.com/dp/B01N1LXCJW/?tag=redken08-20)
 

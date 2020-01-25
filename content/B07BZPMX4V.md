@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nerf Laser Ops Pro - Pack 2 Lanzadores   al 48.71 % de descuento'
+title: 'Nerf Laser Ops Pro - Pack 2 Lanzadores  '
 date: 2019/12/24 16:22:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EgAvStsbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EgAvStsbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 58 EUR
 inStock: true
 ---
 
-Está [Nerf Laser Ops Pro - Pack 2 Lanzadores  Hasbro E2281EU4 ](https://www.amazon.com/dp/B07BZPMX4V/?tag=redken08-20) con 48.71 de descuento por 29.75 EUR (original: 58 EUR) en el siguiente enlace!
+Está [Nerf Laser Ops Pro - Pack 2 Lanzadores  Hasbro E2281EU4 ](https://www.amazon.com/dp/B07BZPMX4V/?tag=redken08-20) por 29.75 EUR (original: 58 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51EgAvStsbL._SL200_.jpg)](https://www.amazon.com/dp/B07BZPMX4V/?tag=redken08-20)
 

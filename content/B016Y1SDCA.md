@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hamaca portátil y ultraligera de nailon  al 58.41 % de descuento'
+title: 'Hamaca portátil y ultraligera de nailon '
 date: 2019/12/06 20:53:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Er9qiC6FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Er9qiC6FL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hamaca portátil y ultraligera de nailon de Yosoo  azul y gris ](https://www.amazon.com/dp/B016Y1SDCA/?tag=redken08-20) a 6.9 EUR (original: 16.59 EUR) (58.41 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Hamaca portátil y ultraligera de nailon de Yosoo  azul y gris ](https://www.amazon.com/dp/B016Y1SDCA/?tag=redken08-20) a 6.9 EUR (original: 16.59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Er9qiC6FL._SL200_.jpg)](https://www.amazon.com/dp/B016Y1SDCA/?tag=redken08-20)
 

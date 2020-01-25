@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orient Reloj Analógico para Hombre de Au al 58.40 % de descuento'
+title: 'Orient Reloj Analógico para Hombre de Au'
 date: 2019/10/31 00:04:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51neulm0tHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51neulm0tHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 250 EUR
 inStock: true
 ---
 
-Está [Orient Reloj Analógico para Hombre de Automático con Correa en Cuero FEV0U003DH](https://www.amazon.com/dp/B07DY85QGF/?tag=redken08-20) con 58.40 de descuento por 104 EUR (original: 250 EUR) en el siguiente enlace!
+Está [Orient Reloj Analógico para Hombre de Automático con Correa en Cuero FEV0U003DH](https://www.amazon.com/dp/B07DY85QGF/?tag=redken08-20) por 104 EUR (original: 250 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51neulm0tHL._SL200_.jpg)](https://www.amazon.com/dp/B07DY85QGF/?tag=redken08-20)
 

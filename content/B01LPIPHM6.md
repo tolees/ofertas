@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Caterpillar ELUDE WP  Men s Chukka Boots al 50.00 % de descuento'
+title: 'Caterpillar ELUDE WP  Men s Chukka Boots'
 date: 2020-01-23 14:28:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CZxcjC9xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CZxcjC9xL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 115 GBP
 inStock: true
 ---
 
-Está [Caterpillar ELUDE WP  Men s Chukka Boots   Brown  Mens Brown Sugar   12 UK  46 EU ](https://www.amazon.com/dp/B01LPIPHM6/?tag=redken08-20) con 50.00 de descuento por 57.5 GBP (original: 115 GBP) en el siguiente enlace!
+Está [Caterpillar ELUDE WP  Men s Chukka Boots   Brown  Mens Brown Sugar   12 UK  46 EU ](https://www.amazon.com/dp/B01LPIPHM6/?tag=redken08-20) por 57.5 GBP (original: 115 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CZxcjC9xL._SL200_.jpg)](https://www.amazon.com/dp/B01LPIPHM6/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Men s 514 Regular Fit Straight Je al 66.34 % de descuento'
+title: 'Levi s Men s 514 Regular Fit Straight Je'
 date: 2019/11/24 09:50:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Li3yxPyNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Li3yxPyNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 GBP
 inStock: true
 ---
 
-Está [Levi s Men s 514 Regular Fit Straight Jeans  Blue  Stnewash 95977    W31 / L32](https://www.amazon.com/dp/B00VF0L7IS/?tag=redken08-20) con 66.34 de descuento por 23.56 GBP (original: 70 GBP) en el siguiente enlace!
+Está [Levi s Men s 514 Regular Fit Straight Jeans  Blue  Stnewash 95977    W31 / L32](https://www.amazon.com/dp/B00VF0L7IS/?tag=redken08-20) por 23.56 GBP (original: 70 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Li3yxPyNL._SL200_.jpg)](https://www.amazon.com/dp/B00VF0L7IS/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crocs Crocband Clog Kids  Zuecos Unisex  al 66.46 % de descuento'
+title: 'Crocs Crocband Clog Kids  Zuecos Unisex '
 date: 2019/12/24 13:55:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FzYeh-8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FzYeh-8UL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 31.99 EUR
 inStock: true
 ---
 
-Está [Crocs Crocband Clog Kids  Zuecos Unisex Niños  Azul  Cerulean Blue   19/20 EU](https://www.amazon.com/dp/B01HEXFQLI/?tag=redken08-20) con 66.46 de descuento por 10.73 EUR (original: 31.99 EUR) en el siguiente enlace!
+Está [Crocs Crocband Clog Kids  Zuecos Unisex Niños  Azul  Cerulean Blue   19/20 EU](https://www.amazon.com/dp/B01HEXFQLI/?tag=redken08-20) por 10.73 EUR (original: 31.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FzYeh-8UL._SL200_.jpg)](https://www.amazon.com/dp/B01HEXFQLI/?tag=redken08-20)
 

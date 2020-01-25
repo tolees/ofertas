@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 70.85 % en New Balance 247v2  Zapatillas para Mujer'
+title: 'New Balance 247v2  Zapatillas para Mujer'
 date: 2020-01-03 18:17:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mvR3lWl7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mvR3lWl7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Tienes [New Balance 247v2  Zapatillas para Mujer  Rosa  Pink Pink   37.5 EU](https://www.amazon.com/dp/B07HFZXN9C/?tag=redken08-20) con un 70.85 % de descuento con precio de oferta de 29.15 EUR (original: 100 EUR) en el siguiente enlace!
+Tienes [New Balance 247v2  Zapatillas para Mujer  Rosa  Pink Pink   37.5 EU](https://www.amazon.com/dp/B07HFZXN9C/?tag=redken08-20) a precio de oferta de 29.15 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mvR3lWl7L._SL200_.jpg)](https://www.amazon.com/dp/B07HFZXN9C/?tag=redken08-20)
 

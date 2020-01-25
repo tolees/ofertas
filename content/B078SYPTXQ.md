@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Speedcross 4 GTX W  Zapatillas d al 37.47 % de descuento'
+title: 'Salomon Speedcross 4 GTX W  Zapatillas d'
 date: 2019/12/25 16:26:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mqhdp85yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mqhdp85yL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 149.95 EUR
 inStock: true
 ---
 
-Está [Salomon Speedcross 4 GTX W  Zapatillas de Trail Running para Mujer  Verde  Balsam Green/Tropical Green/Beach G   36 EU](https://www.amazon.com/dp/B078SYPTXQ/?tag=redken08-20) con 37.47 de descuento por 93.76 EUR (original: 149.95 EUR) en el siguiente enlace!
+Está [Salomon Speedcross 4 GTX W  Zapatillas de Trail Running para Mujer  Verde  Balsam Green/Tropical Green/Beach G   36 EU](https://www.amazon.com/dp/B078SYPTXQ/?tag=redken08-20) por 93.76 EUR (original: 149.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mqhdp85yL._SL200_.jpg)](https://www.amazon.com/dp/B078SYPTXQ/?tag=redken08-20)
 

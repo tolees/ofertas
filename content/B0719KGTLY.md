@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Team Issue Wordmark Camiset al 56.73 % de descuento'
+title: 'Under Armour Team Issue Wordmark Camiset'
 date: 2019/11/14 19:06:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DtZB-MvsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DtZB-MvsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Team Issue Wordmark Camiseta de Manga Corta  Hombre  Blanco  100   XL](https://www.amazon.com/dp/B0719KGTLY/?tag=redken08-20) a 11.25 EUR (original: 26 EUR) (56.73 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Team Issue Wordmark Camiseta de Manga Corta  Hombre  Blanco  100   XL](https://www.amazon.com/dp/B0719KGTLY/?tag=redken08-20) a 11.25 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31DtZB-MvsL._SL200_.jpg)](https://www.amazon.com/dp/B0719KGTLY/?tag=redken08-20)
 

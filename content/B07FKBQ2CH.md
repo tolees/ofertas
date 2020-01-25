@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike M NSW Club tee T-Shirt  Hombre  dk  al 25.21 % de descuento'
+title: 'Nike M NSW Club tee T-Shirt  Hombre  dk '
 date: 2019/11/12 18:53:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a9dNrXWPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a9dNrXWPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Nike M NSW Club tee T-Shirt  Hombre  dk Grey Heather/ Black   S](https://www.amazon.com/dp/B07FKBQ2CH/?tag=redken08-20) con 25.21 de descuento por 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Nike M NSW Club tee T-Shirt  Hombre  dk Grey Heather/ Black   S](https://www.amazon.com/dp/B07FKBQ2CH/?tag=redken08-20) por 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41a9dNrXWPL._SL200_.jpg)](https://www.amazon.com/dp/B07FKBQ2CH/?tag=redken08-20)
 

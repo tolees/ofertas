@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blade Runner 2049 Blade Runner 2049-Funk al 63.31 % de descuento'
+title: 'Blade Runner 2049 Blade Runner 2049-Funk'
 date: 2020-01-18 18:33:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B-cakq%2BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B-cakq%2BAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Blade Runner 2049 Blade Runner 2049-Funko Pop Figura de Vinilo Sapper  Multicolor  Standard  Funko 21596 ](https://www.amazon.com/dp/B074HMVTC9/?tag=redken08-20) con 63.31 de descuento por 5.5 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Blade Runner 2049 Blade Runner 2049-Funko Pop Figura de Vinilo Sapper  Multicolor  Standard  Funko 21596 ](https://www.amazon.com/dp/B074HMVTC9/?tag=redken08-20) por 5.5 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51B-cakq%2BAL._SL200_.jpg)](https://www.amazon.com/dp/B074HMVTC9/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bellota 4539-24 Sierra Arco al 71.24 % de descuento'
+title: 'Bellota 4539-24 Sierra Arco'
 date: 2019/11/15 15:15:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HkQyboIYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HkQyboIYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 10.43 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bellota 4539-24 Sierra Arco](https://www.amazon.com/dp/B00F2NKL4U/?tag=redken08-20) a 3 EUR (original: 10.43 EUR) (71.24 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bellota 4539-24 Sierra Arco](https://www.amazon.com/dp/B00F2NKL4U/?tag=redken08-20) a 3 EUR (original: 10.43 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31HkQyboIYL._SL200_.jpg)](https://www.amazon.com/dp/B00F2NKL4U/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Makita GA9050 - Amoladora 230 Mm 2000W 6 al 33.80 % de descuento'
+title: 'Makita GA9050 - Amoladora 230 Mm 2000W 6'
 date: 2019/11/10 20:08:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GJDuTOgWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GJDuTOgWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 135.96 EUR
 inStock: true
 ---
 
-Está [Makita GA9050 - Amoladora 230 Mm 2000W 6600 Rpm 4.7 Kg Sin Bloqueo Interruptor](https://www.amazon.com/dp/B006BREVYW/?tag=redken08-20) con 33.80 de descuento por 90 EUR (original: 135.96 EUR) en el siguiente enlace!
+Está [Makita GA9050 - Amoladora 230 Mm 2000W 6600 Rpm 4.7 Kg Sin Bloqueo Interruptor](https://www.amazon.com/dp/B006BREVYW/?tag=redken08-20) por 90 EUR (original: 135.96 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GJDuTOgWL._SL200_.jpg)](https://www.amazon.com/dp/B006BREVYW/?tag=redken08-20)
 

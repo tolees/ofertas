@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373  Entrenadores para Hombr al 35.30 % de descuento'
+title: 'New Balance 373  Entrenadores para Hombr'
 date: 2019/11/23 08:20:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fK5Es9o7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fK5Es9o7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 78.83 EUR
 inStock: true
 ---
 
-Está [New Balance 373  Entrenadores para Hombre  Blanco  Rain Cloud Rain Cloud   40 EU](https://www.amazon.com/dp/B07KWCS9W7/?tag=redken08-20) con 35.30 de descuento por 51 EUR (original: 78.83 EUR) en el siguiente enlace!
+Está [New Balance 373  Entrenadores para Hombre  Blanco  Rain Cloud Rain Cloud   40 EU](https://www.amazon.com/dp/B07KWCS9W7/?tag=redken08-20) por 51 EUR (original: 78.83 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fK5Es9o7L._SL200_.jpg)](https://www.amazon.com/dp/B07KWCS9W7/?tag=redken08-20)
 

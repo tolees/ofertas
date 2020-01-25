@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toshiba N300 HDWD105UZSVA - Disco duro i al 27.33 % de descuento'
+title: 'Toshiba N300 HDWD105UZSVA - Disco duro i'
 date: 2019/11/04 14:21:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sjhBxZb-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sjhBxZb-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169 EUR
 inStock: true
 ---
 
-Está [Toshiba N300 HDWD105UZSVA - Disco duro interno  4 TB](https://www.amazon.com/dp/B01N9SN9ST/?tag=redken08-20) con 27.33 de descuento por 122.82 EUR (original: 169 EUR) en el siguiente enlace!
+Está [Toshiba N300 HDWD105UZSVA - Disco duro interno  4 TB](https://www.amazon.com/dp/B01N9SN9ST/?tag=redken08-20) por 122.82 EUR (original: 169 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sjhBxZb-L._SL200_.jpg)](https://www.amazon.com/dp/B01N9SN9ST/?tag=redken08-20)
 

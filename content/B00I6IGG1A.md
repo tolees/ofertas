@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ergobaby 360 - Mochila portabebé  color  al 38.14 % de descuento'
+title: 'Ergobaby 360 - Mochila portabebé  color '
 date: 2019/12/29 18:14:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B7vRnhuHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B7vRnhuHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ergobaby 360 - Mochila portabebé  color negro](https://www.amazon.com/dp/B00I6IGG1A/?tag=redken08-20) a 98.92 EUR (original: 159.9 EUR) (38.14 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Ergobaby 360 - Mochila portabebé  color negro](https://www.amazon.com/dp/B00I6IGG1A/?tag=redken08-20) a 98.92 EUR (original: 159.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51B7vRnhuHL._SL200_.jpg)](https://www.amazon.com/dp/B00I6IGG1A/?tag=redken08-20)
 

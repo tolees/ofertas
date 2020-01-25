@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Cali-0 Summer  Zapatillas Unisex Ad al 62.50 % de descuento'
+title: 'Puma Cali-0 Summer  Zapatillas Unisex Ad'
 date: 2019/10/31 13:31:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416EJgAnSNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416EJgAnSNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Puma Cali-0 Summer  Zapatillas Unisex Adulto  Azul  Fair Aqua White   47 EU](https://www.amazon.com/dp/B07DBWWNM3/?tag=redken08-20) con 62.50 de descuento por 37.48 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Puma Cali-0 Summer  Zapatillas Unisex Adulto  Azul  Fair Aqua White   47 EU](https://www.amazon.com/dp/B07DBWWNM3/?tag=redken08-20) por 37.48 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416EJgAnSNL._SL200_.jpg)](https://www.amazon.com/dp/B07DBWWNM3/?tag=redken08-20)
 

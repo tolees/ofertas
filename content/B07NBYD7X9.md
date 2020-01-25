@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego Movie 2 Mochila para Niños al 43.89 % de descuento'
+title: 'Lego Movie 2 Mochila para Niños'
 date: 2019/10/08 15:30:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fB2f3%2BhFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fB2f3%2BhFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lego Movie 2 Mochila para Niños](https://www.amazon.com/dp/B07NBYD7X9/?tag=redken08-20) a 8.95 EUR (original: 15.95 EUR) (43.89 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lego Movie 2 Mochila para Niños](https://www.amazon.com/dp/B07NBYD7X9/?tag=redken08-20) a 8.95 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51fB2f3%2BhFL._SL200_.jpg)](https://www.amazon.com/dp/B07NBYD7X9/?tag=redken08-20)
 

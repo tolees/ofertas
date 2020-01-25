@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SmugPets 315 Bolsas biodegradables para  al 35.02 % de descuento'
+title: 'SmugPets 315 Bolsas biodegradables para '
 date: 2020-01-22 20:50:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nJMVskw7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nJMVskw7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SmugPets 315 Bolsas biodegradables para excrementos con dispensador y Clip para Correa - Extragrandes y perfumadas](https://www.amazon.com/dp/B01AR3ITXO/?tag=redken08-20) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [SmugPets 315 Bolsas biodegradables para excrementos con dispensador y Clip para Correa - Extragrandes y perfumadas](https://www.amazon.com/dp/B01AR3ITXO/?tag=redken08-20) a 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51nJMVskw7L._SL200_.jpg)](https://www.amazon.com/dp/B01AR3ITXO/?tag=redken08-20)
 

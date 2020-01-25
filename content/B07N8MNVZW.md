@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack & Jones NOS Jjialvin Jjjacket Sa 00 al 36.01 % de descuento'
+title: 'Jack & Jones NOS Jjialvin Jjjacket Sa 00'
 date: 2019/12/15 20:23:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R%2BK-KVnDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R%2BK-KVnDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jack & Jones NOS Jjialvin Jjjacket Sa 002 Noos Chaqueta Vaquera  Azul Blue Denim  L para Hombre](https://www.amazon.com/dp/B07N8MNVZW/?tag=redken08-20) a 31.99 EUR (original: 49.99 EUR) (36.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Jack & Jones NOS Jjialvin Jjjacket Sa 002 Noos Chaqueta Vaquera  Azul Blue Denim  L para Hombre](https://www.amazon.com/dp/B07N8MNVZW/?tag=redken08-20) a 31.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41R%2BK-KVnDL._SL200_.jpg)](https://www.amazon.com/dp/B07N8MNVZW/?tag=redken08-20)
 

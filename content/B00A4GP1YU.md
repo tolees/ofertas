@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Óreal Paris Quad Pro E1  Sombra De Ojo al 62.44 % de descuento'
+title: 'L Óreal Paris Quad Pro E1  Sombra De Ojo'
 date: 2019/12/10 05:36:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O7LXfecaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O7LXfecaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Óreal Paris Quad Pro E1  Sombra De Ojos  Color Riche - 1 Sombra De Ojos](https://www.amazon.com/dp/B00A4GP1YU/?tag=redken08-20) a 5.24 EUR (original: 13.95 EUR) (62.44 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [L Óreal Paris Quad Pro E1  Sombra De Ojos  Color Riche - 1 Sombra De Ojos](https://www.amazon.com/dp/B00A4GP1YU/?tag=redken08-20) a 5.24 EUR (original: 13.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51O7LXfecaL._SL200_.jpg)](https://www.amazon.com/dp/B00A4GP1YU/?tag=redken08-20)
 

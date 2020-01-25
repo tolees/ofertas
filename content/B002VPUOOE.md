@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.72 % en Johnnie Walker Red Whisky Escocés - 700 '
+title: 'Johnnie Walker Red Whisky Escocés - 700 '
 date: 2019/11/08 11:50:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4115B7eqWRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4115B7eqWRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.99 EUR
 inStock: true
 ---
 
-Tienes [Johnnie Walker Red Whisky Escocés - 700 ml](https://www.amazon.com/dp/B002VPUOOE/?tag=redken08-20) con un 26.72 % de descuento con precio de oferta de 12.45 EUR (original: 16.99 EUR) en el siguiente enlace!
+Tienes [Johnnie Walker Red Whisky Escocés - 700 ml](https://www.amazon.com/dp/B002VPUOOE/?tag=redken08-20) a precio de oferta de 12.45 EUR (original: 16.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4115B7eqWRL._SL200_.jpg)](https://www.amazon.com/dp/B002VPUOOE/?tag=redken08-20)
 

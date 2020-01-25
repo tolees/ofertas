@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ellesse Lombardy Abrigo  Hombre  Azul  D al 29.91 % de descuento'
+title: 'Ellesse Lombardy Abrigo  Hombre  Azul  D'
 date: 2019/10/22 21:59:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sa%2BnJBenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sa%2BnJBenL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 77.43 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ellesse Lombardy Abrigo  Hombre  Azul  Dress Blue   XS](https://www.amazon.com/dp/B075LPFMBX/?tag=redken08-20) a 54.27 EUR (original: 77.43 EUR) (29.91 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Ellesse Lombardy Abrigo  Hombre  Azul  Dress Blue   XS](https://www.amazon.com/dp/B075LPFMBX/?tag=redken08-20) a 54.27 EUR (original: 77.43 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Sa%2BnJBenL._SL200_.jpg)](https://www.amazon.com/dp/B075LPFMBX/?tag=redken08-20)
 

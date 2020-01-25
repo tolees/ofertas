@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s SS Original Hm tee Camiseta  Azul al 40.04 % de descuento'
+title: 'Levi s SS Original Hm tee Camiseta  Azul'
 date: 2020-01-13 10:49:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418XIqjq0QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418XIqjq0QL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Levi s SS Original Hm tee Camiseta  Azul  Skyway 0023   Medium para Hombre](https://www.amazon.com/dp/B07KF4TNP1/?tag=redken08-20) con 40.04 de descuento por 14.99 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Levi s SS Original Hm tee Camiseta  Azul  Skyway 0023   Medium para Hombre](https://www.amazon.com/dp/B07KF4TNP1/?tag=redken08-20) por 14.99 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418XIqjq0QL._SL200_.jpg)](https://www.amazon.com/dp/B07KF4TNP1/?tag=redken08-20)
 

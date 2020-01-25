@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Tanjun  Zapatillas de Running para  al 38.53 % de descuento'
+title: 'Nike Tanjun  Zapatillas de Running para '
 date: 2020-01-24 10:43:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CJvqmdcFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CJvqmdcFL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Está [Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/White 011   41 EU](https://www.amazon.com/dp/B00XWPWSH8/?tag=redken08-20) con 38.53 de descuento por 39.95 EUR (original: 64.99 EUR) en el siguiente enlace!
+Está [Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/White 011   41 EU](https://www.amazon.com/dp/B00XWPWSH8/?tag=redken08-20) por 39.95 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41CJvqmdcFL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00XWPWSH8/?tag=redken08-20)
 

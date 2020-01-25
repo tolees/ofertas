@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA HG Racer Tank Camiseta s al 61.28 % de descuento'
+title: 'Under Armour UA HG Racer Tank Camiseta s'
 date: 2019/12/14 07:52:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iBx6l6kuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iBx6l6kuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour UA HG Racer Tank Camiseta sin Mangas  Mujer  Naranja  Playful Peach/Metallic Silver 164   M](https://www.amazon.com/dp/B01FFGMGI2/?tag=redken08-20) a 9.66 EUR (original: 24.95 EUR) (61.28 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA HG Racer Tank Camiseta sin Mangas  Mujer  Naranja  Playful Peach/Metallic Silver 164   M](https://www.amazon.com/dp/B01FFGMGI2/?tag=redken08-20) a 9.66 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iBx6l6kuL._SL200_.jpg)](https://www.amazon.com/dp/B01FFGMGI2/?tag=redken08-20)
 

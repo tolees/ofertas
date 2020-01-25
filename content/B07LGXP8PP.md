@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Stretch Down Vest Chaleco al 45.04 % de descuento'
+title: 'The North Face Stretch Down Vest Chaleco'
 date: 2019/12/03 14:15:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RI0Fv-lXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RI0Fv-lXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 190 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The North Face Stretch Down Vest Chaleco  Mujer  Grisaille Grey  L](https://www.amazon.com/dp/B07LGXP8PP/?tag=redken08-20) a 104.42 EUR (original: 190 EUR) (45.04 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [The North Face Stretch Down Vest Chaleco  Mujer  Grisaille Grey  L](https://www.amazon.com/dp/B07LGXP8PP/?tag=redken08-20) a 104.42 EUR (original: 190 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RI0Fv-lXL._SL200_.jpg)](https://www.amazon.com/dp/B07LGXP8PP/?tag=redken08-20)
 

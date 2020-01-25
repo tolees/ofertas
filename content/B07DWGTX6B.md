@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neo Geo Mini - Gamepad Mini  Blanco  Neo al 40.01 % de descuento'
+title: 'Neo Geo Mini - Gamepad Mini  Blanco  Neo'
 date: 2019/10/23 23:17:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414ebwcdwcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414ebwcdwcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Neo Geo Mini - Gamepad Mini  Blanco  Neo Geo ](https://www.amazon.com/dp/B07DWGTX6B/?tag=redken08-20) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Neo Geo Mini - Gamepad Mini  Blanco  Neo Geo ](https://www.amazon.com/dp/B07DWGTX6B/?tag=redken08-20) por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414ebwcdwcL._SL200_.jpg)](https://www.amazon.com/dp/B07DWGTX6B/?tag=redken08-20)
 

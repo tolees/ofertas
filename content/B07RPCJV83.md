@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Cloudfoam Pure  Zapatillas de Run al 49.58 % de descuento'
+title: 'adidas Cloudfoam Pure  Zapatillas de Run'
 date: 2020-01-17 13:43:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oTeOjZPcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oTeOjZPcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.38 EUR
 inStock: true
 ---
 
-Está [adidas Cloudfoam Pure  Zapatillas de Running para Mujer  Azul  Glow Blue/Grey Two F17/Real Blue Glow Blue/Grey Two F17/Real Blue   38 EU](https://www.amazon.com/dp/B07RPCJV83/?tag=redken08-20) con 49.58 de descuento por 34.98 EUR (original: 69.38 EUR) en el siguiente enlace!
+Está [adidas Cloudfoam Pure  Zapatillas de Running para Mujer  Azul  Glow Blue/Grey Two F17/Real Blue Glow Blue/Grey Two F17/Real Blue   38 EU](https://www.amazon.com/dp/B07RPCJV83/?tag=redken08-20) por 34.98 EUR (original: 69.38 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41oTeOjZPcL._SL200_.jpg)](https://www.amazon.com/dp/B07RPCJV83/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funda para Xiaomi Mi 9/Mi 9 SE Teléfono  al 32.17 % de descuento'
+title: 'Funda para Xiaomi Mi 9/Mi 9 SE Teléfono '
 date: 2019/10/22 21:01:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OUSAexnEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OUSAexnEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Funda para Xiaomi Mi 9/Mi 9 SE Teléfono Móvil Silicona Liquida Bumper Case y Flexible Scratchproof Ultra Slim Anti-Rasguño Protectora Caso  Black  Xiaomi Mi 9 SE ](https://www.amazon.com/dp/B07PWK2JMT/?tag=redken08-20) con 32.17 de descuento por 13.56 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Funda para Xiaomi Mi 9/Mi 9 SE Teléfono Móvil Silicona Liquida Bumper Case y Flexible Scratchproof Ultra Slim Anti-Rasguño Protectora Caso  Black  Xiaomi Mi 9 SE ](https://www.amazon.com/dp/B07PWK2JMT/?tag=redken08-20) por 13.56 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31OUSAexnEL._SL200_.jpg)](https://www.amazon.com/dp/B07PWK2JMT/?tag=redken08-20)
 

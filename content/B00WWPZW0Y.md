@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES PREMIUM Jjprparma Shirt L/s al 36.20 % de descuento'
+title: 'JACK & JONES PREMIUM Jjprparma Shirt L/s'
 date: 2019/12/14 21:06:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4104GyMRYfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4104GyMRYfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Está [JACK & JONES PREMIUM Jjprparma Shirt L/s Noos Camisa  Schwarz  Black/Super Slim   L para Hombre](https://www.amazon.com/dp/B00WWPZW0Y/?tag=redken08-20) con 36.20 de descuento por 25.49 EUR (original: 39.95 EUR) en el siguiente enlace!
+Está [JACK & JONES PREMIUM Jjprparma Shirt L/s Noos Camisa  Schwarz  Black/Super Slim   L para Hombre](https://www.amazon.com/dp/B00WWPZW0Y/?tag=redken08-20) por 25.49 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4104GyMRYfL._SL200_.jpg)](https://www.amazon.com/dp/B00WWPZW0Y/?tag=redken08-20)
 

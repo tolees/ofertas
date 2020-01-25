@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Questarstrike  Zapatillas de Depo al 42.81 % de descuento'
+title: 'Adidas Questarstrike  Zapatillas de Depo'
 date: 2019/10/15 20:27:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RmgPivEeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RmgPivEeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Adidas Questarstrike  Zapatillas de Deporte para Hombre  000  42 EU](https://www.amazon.com/dp/B07JNCWVH6/?tag=redken08-20) con 42.81 de descuento por 57.16 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Adidas Questarstrike  Zapatillas de Deporte para Hombre  000  42 EU](https://www.amazon.com/dp/B07JNCWVH6/?tag=redken08-20) por 57.16 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RmgPivEeL._SL200_.jpg)](https://www.amazon.com/dp/B07JNCWVH6/?tag=redken08-20)
 

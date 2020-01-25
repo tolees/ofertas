@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LE COQ SPORTIF Zepp  Zapatillas Unisex A al 70.26 % de descuento'
+title: 'LE COQ SPORTIF Zepp  Zapatillas Unisex A'
 date: 2019/10/15 09:59:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z%2B5jjFJCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z%2B5jjFJCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Está [LE COQ SPORTIF Zepp  Zapatillas Unisex Adulto  Blanco Optical White  46 EU](https://www.amazon.com/dp/B07DVVLYS3/?tag=redken08-20) con 70.26 de descuento por 28.25 EUR (original: 95 EUR) en el siguiente enlace!
+Está [LE COQ SPORTIF Zepp  Zapatillas Unisex Adulto  Blanco Optical White  46 EU](https://www.amazon.com/dp/B07DVVLYS3/?tag=redken08-20) por 28.25 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31z%2B5jjFJCL._SL200_.jpg)](https://www.amazon.com/dp/B07DVVLYS3/?tag=redken08-20)
 

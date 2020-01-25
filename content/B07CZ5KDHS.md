@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 42.07 % en Puma St Runner V2 SD  Zapatillas Unisex '
+title: 'Puma St Runner V2 SD  Zapatillas Unisex '
 date: 2019/10/19 08:26:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KrbtVXduL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KrbtVXduL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Tienes [Puma St Runner V2 SD  Zapatillas Unisex Adulto  Verde  Forest Night-Forest Night-Whisper White 04   44.5 EU](https://www.amazon.com/dp/B07CZ5KDHS/?tag=redken08-20) con un 42.07 % de descuento con precio de oferta de 34.73 EUR (original: 59.95 EUR) en el siguiente enlace!
+Tienes [Puma St Runner V2 SD  Zapatillas Unisex Adulto  Verde  Forest Night-Forest Night-Whisper White 04   44.5 EU](https://www.amazon.com/dp/B07CZ5KDHS/?tag=redken08-20) a precio de oferta de 34.73 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KrbtVXduL._SL200_.jpg)](https://www.amazon.com/dp/B07CZ5KDHS/?tag=redken08-20)
 

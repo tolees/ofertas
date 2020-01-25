@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Verbatim 404785 - Pack de 5 Blue Ray BD- al 36.16 % de descuento'
+title: 'Verbatim 404785 - Pack de 5 Blue Ray BD-'
 date: 2019/10/10 23:08:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518rZy61eyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518rZy61eyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 56.25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Verbatim 404785 - Pack de 5 Blue Ray BD-RE 50GB](https://www.amazon.com/dp/B004EHZLWW/?tag=redken08-20) a 35.91 EUR (original: 56.25 EUR) (36.16 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Verbatim 404785 - Pack de 5 Blue Ray BD-RE 50GB](https://www.amazon.com/dp/B004EHZLWW/?tag=redken08-20) a 35.91 EUR (original: 56.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518rZy61eyL._SL200_.jpg)](https://www.amazon.com/dp/B004EHZLWW/?tag=redken08-20)
 

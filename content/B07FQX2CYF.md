@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Triactive Up  Zapatillas para Hom al 73.89 % de descuento'
+title: 'Clarks Triactive Up  Zapatillas para Hom'
 date: 2020-01-11 19:50:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TQZ4KpgkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TQZ4KpgkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 120 EUR
 inStock: true
 ---
 
-Está [Clarks Triactive Up  Zapatillas para Hombre  Negro  Black Combi-   40 EU](https://www.amazon.com/dp/B07FQX2CYF/?tag=redken08-20) con 73.89 de descuento por 31.33 EUR (original: 120 EUR) en el siguiente enlace!
+Está [Clarks Triactive Up  Zapatillas para Hombre  Negro  Black Combi-   40 EU](https://www.amazon.com/dp/B07FQX2CYF/?tag=redken08-20) por 31.33 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31TQZ4KpgkL._SL200_.jpg)](https://www.amazon.com/dp/B07FQX2CYF/?tag=redken08-20)
 

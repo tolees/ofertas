@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TPF Comercial 0007699330005 Mandil de so al 38.24 % de descuento'
+title: 'TPF Comercial 0007699330005 Mandil de so'
 date: 2019/12/18 21:54:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rkoMOK1YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rkoMOK1YL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.02 EUR
 inStock: true
 ---
 
-Está [TPF Comercial 0007699330005 Mandil de soldador](https://www.amazon.com/dp/B000VCXUYA/?tag=redken08-20) con 38.24 de descuento por 13.6 EUR (original: 22.02 EUR) en el siguiente enlace!
+Está [TPF Comercial 0007699330005 Mandil de soldador](https://www.amazon.com/dp/B000VCXUYA/?tag=redken08-20) por 13.6 EUR (original: 22.02 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rkoMOK1YL._SL200_.jpg)](https://www.amazon.com/dp/B000VCXUYA/?tag=redken08-20)
 

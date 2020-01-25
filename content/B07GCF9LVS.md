@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 48.74 % en edc by Esprit 118cc2f007 Camisa  Azul  N'
+title: 'edc by Esprit 118cc2f007 Camisa  Azul  N'
 date: 2019/12/06 10:44:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wXEkZG5UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wXEkZG5UL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [edc by Esprit 118cc2f007 Camisa  Azul  Navy 400   Large para Hombre](https://www.amazon.com/dp/B07GCF9LVS/?tag=redken08-20) con un 48.74 % de descuento con precio de oferta de 20.5 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [edc by Esprit 118cc2f007 Camisa  Azul  Navy 400   Large para Hombre](https://www.amazon.com/dp/B07GCF9LVS/?tag=redken08-20) a precio de oferta de 20.5 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wXEkZG5UL._SL200_.jpg)](https://www.amazon.com/dp/B07GCF9LVS/?tag=redken08-20)
 

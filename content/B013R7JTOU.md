@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wunder-Baum MTR0067 -  Perfumador  Aroma al 67.00 % de descuento'
+title: 'Wunder-Baum MTR0067 -  Perfumador  Aroma'
 date: 2019/10/13 11:51:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d7W7W3RBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d7W7W3RBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Wunder-Baum MTR0067 -  Perfumador  Aroma Ocean Paradise](https://www.amazon.com/dp/B013R7JTOU/?tag=redken08-20) a 1.65 EUR (original: 5 EUR) (67.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Wunder-Baum MTR0067 -  Perfumador  Aroma Ocean Paradise](https://www.amazon.com/dp/B013R7JTOU/?tag=redken08-20) a 1.65 EUR (original: 5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31d7W7W3RBL._SL200_.jpg)](https://www.amazon.com/dp/B013R7JTOU/?tag=redken08-20)
 

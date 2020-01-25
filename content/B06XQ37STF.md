@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual TS_Patricia Chaqueta Punto  Bla al 38.72 % de descuento'
+title: 'Desigual TS_Patricia Chaqueta Punto  Bla'
 date: 2019/11/22 17:03:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O1-XjBgGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O1-XjBgGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Desigual TS_Patricia Chaqueta Punto  Blanco  Crudo 1001   Small para Mujer](https://www.amazon.com/dp/B06XQ37STF/?tag=redken08-20) a 48.99 EUR (original: 79.95 EUR) (38.72 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Desigual TS_Patricia Chaqueta Punto  Blanco  Crudo 1001   Small para Mujer](https://www.amazon.com/dp/B06XQ37STF/?tag=redken08-20) a 48.99 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51O1-XjBgGL._SL200_.jpg)](https://www.amazon.com/dp/B06XQ37STF/?tag=redken08-20)
 

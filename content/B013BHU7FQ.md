@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ben & Lea 11321 - Pijama de dos piezas p al 61.62 % de descuento'
+title: 'Ben & Lea 11321 - Pijama de dos piezas p'
 date: 2019/11/19 19:23:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z0YVoEpML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z0YVoEpML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.39 EUR
 inStock: true
 ---
 
-Está [Ben & Lea 11321 - Pijama de dos piezas para niÃ±as  Azul  navy   2 aÃ±os  92 cm ](https://www.amazon.com/dp/B013BHU7FQ/?tag=redken08-20) con 61.62 de descuento por 6.29 EUR (original: 16.39 EUR) en el siguiente enlace!
+Está [Ben & Lea 11321 - Pijama de dos piezas para niÃ±as  Azul  navy   2 aÃ±os  92 cm ](https://www.amazon.com/dp/B013BHU7FQ/?tag=redken08-20) por 6.29 EUR (original: 16.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Z0YVoEpML._SL200_.jpg)](https://www.amazon.com/dp/B013BHU7FQ/?tag=redken08-20)
 

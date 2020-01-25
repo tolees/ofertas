@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Estadio Santiago Bernabeu LED Edition  R al 25.11 % de descuento'
+title: 'Estadio Santiago Bernabeu LED Edition  R'
 date: 2019/12/28 13:04:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51u1LIRSeeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51u1LIRSeeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Estadio Santiago Bernabeu LED Edition  Real Madrid CF  - Nanostad - Puzzle 3D  Producto Oficial Licenciado ](https://www.amazon.com/dp/B01G5MKVY6/?tag=redken08-20) a 29.95 EUR (original: 39.99 EUR) (25.11 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Estadio Santiago Bernabeu LED Edition  Real Madrid CF  - Nanostad - Puzzle 3D  Producto Oficial Licenciado ](https://www.amazon.com/dp/B01G5MKVY6/?tag=redken08-20) a 29.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51u1LIRSeeL._SL200_.jpg)](https://www.amazon.com/dp/B01G5MKVY6/?tag=redken08-20)
 

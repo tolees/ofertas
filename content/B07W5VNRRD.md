@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jorbrit Knit Crew Neck Jers al 34.51 % de descuento'
+title: 'JACK & JONES Jorbrit Knit Crew Neck Jers'
 date: 2019/12/21 10:15:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zezVRo7DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zezVRo7DL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 47 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES Jorbrit Knit Crew Neck Jersey  Azul  Cloud Dancer Fit:Knit FIT   L para Hombre](https://www.amazon.com/dp/B07W5VNRRD/?tag=redken08-20) a 30.78 EUR (original: 47 EUR) (34.51 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES Jorbrit Knit Crew Neck Jersey  Azul  Cloud Dancer Fit:Knit FIT   L para Hombre](https://www.amazon.com/dp/B07W5VNRRD/?tag=redken08-20) a 30.78 EUR (original: 47 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zezVRo7DL._SL200_.jpg)](https://www.amazon.com/dp/B07W5VNRRD/?tag=redken08-20)
 

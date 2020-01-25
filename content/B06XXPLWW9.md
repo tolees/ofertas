@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Sun Ridge Polo de Manga Corta   al 59.99 % de descuento'
+title: 'Columbia Sun Ridge Polo de Manga Corta  '
 date: 2019/11/17 00:03:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310gwcrKZpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310gwcrKZpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Columbia Sun Ridge Polo de Manga Corta  Hombre  Negro  Black   XS](https://www.amazon.com/dp/B06XXPLWW9/?tag=redken08-20) con 59.99 de descuento por 20 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Columbia Sun Ridge Polo de Manga Corta  Hombre  Negro  Black   XS](https://www.amazon.com/dp/B06XXPLWW9/?tag=redken08-20) por 20 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310gwcrKZpL._SL200_.jpg)](https://www.amazon.com/dp/B06XXPLWW9/?tag=redken08-20)
 

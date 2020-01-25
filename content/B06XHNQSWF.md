@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox JR Federico A  Zapatos de Cordones  al 68.22 % de descuento'
+title: 'Geox JR Federico A  Zapatos de Cordones '
 date: 2019/11/08 17:34:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tgZsqkOnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tgZsqkOnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Geox JR Federico A  Zapatos de Cordones para Niños  Negro  Black   33 EU](https://www.amazon.com/dp/B06XHNQSWF/?tag=redken08-20) con 68.22 de descuento por 20.66 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Geox JR Federico A  Zapatos de Cordones para Niños  Negro  Black   33 EU](https://www.amazon.com/dp/B06XHNQSWF/?tag=redken08-20) por 20.66 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tgZsqkOnL._SL200_.jpg)](https://www.amazon.com/dp/B06XHNQSWF/?tag=redken08-20)
 

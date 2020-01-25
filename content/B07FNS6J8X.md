@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City 60217 Löschflugzeug der Feuerw al 33.78 % de descuento'
+title: 'LEGO City 60217 Löschflugzeug der Feuerw'
 date: 2019/12/30 21:45:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JR%2BYwVqGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JR%2BYwVqGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City 60217 Löschflugzeug der Feuerwehr  Kinderspielzeug](https://www.amazon.com/dp/B07FNS6J8X/?tag=redken08-20) a 26.48 EUR (original: 39.99 EUR) (33.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60217 Löschflugzeug der Feuerwehr  Kinderspielzeug](https://www.amazon.com/dp/B07FNS6J8X/?tag=redken08-20) a 26.48 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JR%2BYwVqGL._SL200_.jpg)](https://www.amazon.com/dp/B07FNS6J8X/?tag=redken08-20)
 

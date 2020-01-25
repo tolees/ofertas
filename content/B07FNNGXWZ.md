@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjiace Jjharper WW Olive Ni al 59.56 % de descuento'
+title: 'JACK & JONES Jjiace Jjharper WW Olive Ni'
 date: 2019/12/17 14:17:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SC2zsMLPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SC2zsMLPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.09 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jjiace Jjharper WW Olive Night Ltd Pantalones  Verde  W29/L30 para Hombre](https://www.amazon.com/dp/B07FNNGXWZ/?tag=redken08-20) con 59.56 de descuento por 15 EUR (original: 37.09 EUR) en el siguiente enlace!
+Está [JACK & JONES Jjiace Jjharper WW Olive Night Ltd Pantalones  Verde  W29/L30 para Hombre](https://www.amazon.com/dp/B07FNNGXWZ/?tag=redken08-20) por 15 EUR (original: 37.09 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41SC2zsMLPL._SL200_.jpg)](https://www.amazon.com/dp/B07FNNGXWZ/?tag=redken08-20)
 

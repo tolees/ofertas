@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURL Squad Block Boy SS tee Camiseta al 46.77 % de descuento'
+title: 'RIP CURL Squad Block Boy SS tee Camiseta'
 date: 2019/10/10 11:40:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NrnhZTTzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NrnhZTTzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [RIP CURL Squad Block Boy SS tee Camiseta  Niños  Black  8](https://www.amazon.com/dp/B07PRSSVPQ/?tag=redken08-20) con 46.77 de descuento por 10.64 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [RIP CURL Squad Block Boy SS tee Camiseta  Niños  Black  8](https://www.amazon.com/dp/B07PRSSVPQ/?tag=redken08-20) por 10.64 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41NrnhZTTzL._SL200_.jpg)](https://www.amazon.com/dp/B07PRSSVPQ/?tag=redken08-20)
 

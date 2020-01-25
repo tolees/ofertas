@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Marsella Camisetas Equip. M/C  Homb al 39.00 % de descuento'
+title: 'Joma Marsella Camisetas Equip. M/C  Homb'
 date: 2019/12/28 19:44:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JqaPuir1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JqaPuir1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9 EUR
 inStock: true
 ---
 
-Está [Joma Marsella Camisetas Equip. M/C  Hombre  Marino  XL](https://www.amazon.com/dp/B07FKN7J6P/?tag=redken08-20) con 39.00 de descuento por 5.49 EUR (original: 9 EUR) en el siguiente enlace!
+Está [Joma Marsella Camisetas Equip. M/C  Hombre  Marino  XL](https://www.amazon.com/dp/B07FKN7J6P/?tag=redken08-20) por 5.49 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31JqaPuir1L._SL200_.jpg)](https://www.amazon.com/dp/B07FKN7J6P/?tag=redken08-20)
 

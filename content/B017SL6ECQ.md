@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Core Hilfiger Regular Pol al 47.76 % de descuento'
+title: 'Tommy Hilfiger Core Hilfiger Regular Pol'
 date: 2019/10/08 08:05:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412F7JgqewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412F7JgqewL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tommy Hilfiger Core Hilfiger Regular Polo  Negro  Flag Black 060   Medium para Hombre](https://www.amazon.com/dp/B017SL6ECQ/?tag=redken08-20) a 41.74 EUR (original: 79.9 EUR) (47.76 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tommy Hilfiger Core Hilfiger Regular Polo  Negro  Flag Black 060   Medium para Hombre](https://www.amazon.com/dp/B017SL6ECQ/?tag=redken08-20) a 41.74 EUR (original: 79.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412F7JgqewL._SL200_.jpg)](https://www.amazon.com/dp/B017SL6ECQ/?tag=redken08-20)
 

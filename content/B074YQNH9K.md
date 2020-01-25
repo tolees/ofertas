@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Silla de camping con enfr al 49.98 % de descuento'
+title: 'AmazonBasics - Silla de camping con enfr'
 date: 2019/11/17 08:37:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BylWGtwfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BylWGtwfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30.99 EUR
 inStock: true
 ---
 
-Está [AmazonBasics - Silla de camping con enfriador  Azul  Acolchada  XL ](https://www.amazon.com/dp/B074YQNH9K/?tag=redken08-20) con 49.98 de descuento por 15.5 EUR (original: 30.99 EUR) en el siguiente enlace!
+Está [AmazonBasics - Silla de camping con enfriador  Azul  Acolchada  XL ](https://www.amazon.com/dp/B074YQNH9K/?tag=redken08-20) por 15.5 EUR (original: 30.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BylWGtwfL._SL200_.jpg)](https://www.amazon.com/dp/B074YQNH9K/?tag=redken08-20)
 

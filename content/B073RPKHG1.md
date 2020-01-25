@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HH Tech T Camiseta  Hombre  al 36.22 % de descuento'
+title: 'Helly Hansen HH Tech T Camiseta  Hombre '
 date: 2020-01-16 17:33:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MorpPgDoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MorpPgDoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen HH Tech T Camiseta  Hombre  Gris  Gris Oscuro 980   Large  Tamaño del Fabricante:L ](https://www.amazon.com/dp/B073RPKHG1/?tag=redken08-20) a 12.75 EUR (original: 19.99 EUR) (36.22 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen HH Tech T Camiseta  Hombre  Gris  Gris Oscuro 980   Large  Tamaño del Fabricante:L ](https://www.amazon.com/dp/B073RPKHG1/?tag=redken08-20) a 12.75 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31MorpPgDoL._SL200_.jpg)](https://www.amazon.com/dp/B073RPKHG1/?tag=redken08-20)
 

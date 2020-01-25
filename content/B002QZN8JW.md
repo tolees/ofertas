@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.41 % en Optimum Nutrition Suplemento Dietético e'
+title: 'Optimum Nutrition Suplemento Dietético e'
 date: 2020-01-01 12:27:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51meaIbi8bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51meaIbi8bL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 93.2 EUR
 inStock: true
 ---
 
-Tienes [Optimum Nutrition Suplemento Dietético en Polvo "Platinum HydroWhey Proteína"  Sabor Chocolate - 1600 g](https://www.amazon.com/dp/B002QZN8JW/?tag=redken08-20) con un 36.41 % de descuento con precio de oferta de 59.27 EUR (original: 93.2 EUR) en el siguiente enlace!
+Tienes [Optimum Nutrition Suplemento Dietético en Polvo "Platinum HydroWhey Proteína"  Sabor Chocolate - 1600 g](https://www.amazon.com/dp/B002QZN8JW/?tag=redken08-20) a precio de oferta de 59.27 EUR (original: 93.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51meaIbi8bL._SL200_.jpg)](https://www.amazon.com/dp/B002QZN8JW/?tag=redken08-20)
 

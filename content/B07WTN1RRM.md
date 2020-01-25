@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fred Perry Felpa uomo Mod. FP-M7535-31 B al 30.85 % de descuento'
+title: 'Fred Perry Felpa uomo Mod. FP-M7535-31 B'
 date: 2019/11/22 13:42:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BfqVU6RIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BfqVU6RIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 136 EUR
 inStock: true
 ---
 
-Está [Fred Perry Felpa uomo Mod. FP-M7535-31 BLU Navy XXL](https://www.amazon.com/dp/B07WTN1RRM/?tag=redken08-20) con 30.85 de descuento por 94.04 EUR (original: 136 EUR) en el siguiente enlace!
+Está [Fred Perry Felpa uomo Mod. FP-M7535-31 BLU Navy XXL](https://www.amazon.com/dp/B07WTN1RRM/?tag=redken08-20) por 94.04 EUR (original: 136 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BfqVU6RIL._SL200_.jpg)](https://www.amazon.com/dp/B07WTN1RRM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ESS Logo tee Camiseta  Mujer  Negro al 29.87 % de descuento'
+title: 'PUMA ESS Logo tee Camiseta  Mujer  Negro'
 date: 2019/12/23 10:58:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LsXBWV0yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LsXBWV0yL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA ESS Logo tee Camiseta  Mujer  Negro  Cotton Black   XS](https://www.amazon.com/dp/B07DFQMVPT/?tag=redken08-20) a 13.99 EUR (original: 19.95 EUR) (29.87 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [PUMA ESS Logo tee Camiseta  Mujer  Negro  Cotton Black   XS](https://www.amazon.com/dp/B07DFQMVPT/?tag=redken08-20) a 13.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31LsXBWV0yL._SL200_.jpg)](https://www.amazon.com/dp/B07DFQMVPT/?tag=redken08-20)
 

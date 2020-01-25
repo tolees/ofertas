@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Smash Platform Vt  Zapatillas para  al 67.55 % de descuento'
+title: 'Puma Smash Platform Vt  Zapatillas para '
 date: 2019/11/21 18:23:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TYriqeZhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TYriqeZhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 84.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Smash Platform Vt  Zapatillas para Mujer  Negro Black White 03  40 EU](https://www.amazon.com/dp/B07DB1TNZT/?tag=redken08-20) a 27.57 EUR (original: 84.95 EUR) (67.55 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Puma Smash Platform Vt  Zapatillas para Mujer  Negro Black White 03  40 EU](https://www.amazon.com/dp/B07DB1TNZT/?tag=redken08-20) a 27.57 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TYriqeZhL._SL200_.jpg)](https://www.amazon.com/dp/B07DB1TNZT/?tag=redken08-20)
 

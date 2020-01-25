@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Highrise - Architect s Edition al 52.74 % de descuento'
+title: 'Project Highrise - Architect s Edition'
 date: 2020-01-11 18:10:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KYPqbzaWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KYPqbzaWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Project Highrise - Architect s Edition](https://www.amazon.com/dp/B07HG8JYMM/?tag=redken08-20) con 52.74 de descuento por 18.9 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Project Highrise - Architect s Edition](https://www.amazon.com/dp/B07HG8JYMM/?tag=redken08-20) por 18.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KYPqbzaWL._SL200_.jpg)](https://www.amazon.com/dp/B07HG8JYMM/?tag=redken08-20)
 

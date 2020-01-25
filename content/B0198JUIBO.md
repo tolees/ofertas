@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dickies Kerman Pantalones  Beige  Khaki  al 45.51 % de descuento'
+title: 'dickies Kerman Pantalones  Beige  Khaki '
 date: 2019/11/07 11:08:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vsh2xzlIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vsh2xzlIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Está [dickies Kerman Pantalones  Beige  Khaki KH     Tamaño del Fabricante:33/34  para Hombre](https://www.amazon.com/dp/B0198JUIBO/?tag=redken08-20) con 45.51 de descuento por 32.15 EUR (original: 59 EUR) en el siguiente enlace!
+Está [dickies Kerman Pantalones  Beige  Khaki KH     Tamaño del Fabricante:33/34  para Hombre](https://www.amazon.com/dp/B0198JUIBO/?tag=redken08-20) por 32.15 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Vsh2xzlIL._SL200_.jpg)](https://www.amazon.com/dp/B0198JUIBO/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Leader Vt SL  Zapatillas de Running al 30.03 % de descuento'
+title: 'Puma Leader Vt SL  Zapatillas de Running'
 date: 2019/11/09 18:55:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zwH5Nvt%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zwH5Nvt%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [Puma Leader Vt SL  Zapatillas de Running Unisex Adulto  Negro  Puma Black- Puma White - Indigo Bunting   42 EU](https://www.amazon.com/dp/B07DBZXJJ4/?tag=redken08-20) con 30.03 de descuento por 41.95 EUR (original: 59.95 EUR) en el siguiente enlace!
+Está [Puma Leader Vt SL  Zapatillas de Running Unisex Adulto  Negro  Puma Black- Puma White - Indigo Bunting   42 EU](https://www.amazon.com/dp/B07DBZXJJ4/?tag=redken08-20) por 41.95 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zwH5Nvt%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07DBZXJJ4/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies Streetwear Male Pants New York - al 67.33 % de descuento'
+title: 'Dickies Streetwear Male Pants New York -'
 date: 2019/11/21 13:32:30 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dickies Streetwear Male Pants New York - Pantalones deportivos para hombre  Dark Olive  31/32](https://www.amazon.com/dp/B00EOQPKSI/?tag=redken08-20) a 22.54 EUR (original: 69 EUR) (67.33 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Dickies Streetwear Male Pants New York - Pantalones deportivos para hombre  Dark Olive  31/32](https://www.amazon.com/dp/B00EOQPKSI/?tag=redken08-20) a 22.54 EUR (original: 69 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B00EOQPKSI/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Speedo 811775C750 Gafas de Natación  Uni al 42.31 % de descuento'
+title: 'Speedo 811775C750 Gafas de Natación  Uni'
 date: 2020-01-21 15:24:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dChFzakFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dChFzakFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Speedo 811775C750 Gafas de Natación  Unisex Adulto  Azul  Bondi  / Blanco/Transparente  Talla Única](https://www.amazon.com/dp/B07HQQY8SY/?tag=redken08-20) a 15 EUR (original: 26 EUR) (42.31 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Speedo 811775C750 Gafas de Natación  Unisex Adulto  Azul  Bondi  / Blanco/Transparente  Talla Única](https://www.amazon.com/dp/B07HQQY8SY/?tag=redken08-20) a 15 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dChFzakFL._SL200_.jpg)](https://www.amazon.com/dp/B07HQQY8SY/?tag=redken08-20)
 

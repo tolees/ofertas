@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA W Rapid  Zapatillas de R al 54.36 % de descuento'
+title: 'Under Armour UA W Rapid  Zapatillas de R'
 date: 2019/10/28 22:17:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u8OpwL5GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u8OpwL5GL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Está [Under Armour UA W Rapid  Zapatillas de Running para Mujer  Blanco White 104  42 EU](https://www.amazon.com/dp/B07BHBRRGD/?tag=redken08-20) con 54.36 de descuento por 25.1 EUR (original: 55 EUR) en el siguiente enlace!
+Está [Under Armour UA W Rapid  Zapatillas de Running para Mujer  Blanco White 104  42 EU](https://www.amazon.com/dp/B07BHBRRGD/?tag=redken08-20) por 25.1 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31u8OpwL5GL._SL200_.jpg)](https://www.amazon.com/dp/B07BHBRRGD/?tag=redken08-20)
 

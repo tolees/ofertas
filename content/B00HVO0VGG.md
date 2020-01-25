@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 63.88 % en A-DERMA Gel de Ducha Surgras 750ML'
+title: 'A-DERMA Gel de Ducha Surgras 750ML'
 date: 2019/10/22 05:54:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IYsl9xhnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IYsl9xhnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.55 EUR
 inStock: true
 ---
 
-Tienes [A-DERMA Gel de Ducha Surgras 750ML](https://www.amazon.com/dp/B00HVO0VGG/?tag=redken08-20) con un 63.88 % de descuento con precio de oferta de 9.95 EUR (original: 27.55 EUR) en el siguiente enlace!
+Tienes [A-DERMA Gel de Ducha Surgras 750ML](https://www.amazon.com/dp/B00HVO0VGG/?tag=redken08-20) a precio de oferta de 9.95 EUR (original: 27.55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31IYsl9xhnL._SL200_.jpg)](https://www.amazon.com/dp/B00HVO0VGG/?tag=redken08-20)
 

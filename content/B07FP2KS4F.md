@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE LEGO MOVIE 2 70821 Emmets und Bennys al 25.01 % de descuento'
+title: 'THE LEGO MOVIE 2 70821 Emmets und Bennys'
 date: 2019/12/23 18:08:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p-ooQbJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p-ooQbJjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [THE LEGO MOVIE 2 70821 Emmets und Bennys Bau- und Reparaturwerkstatt!](https://www.amazon.com/dp/B07FP2KS4F/?tag=redken08-20) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [THE LEGO MOVIE 2 70821 Emmets und Bennys Bau- und Reparaturwerkstatt!](https://www.amazon.com/dp/B07FP2KS4F/?tag=redken08-20) a 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51p-ooQbJjL._SL200_.jpg)](https://www.amazon.com/dp/B07FP2KS4F/?tag=redken08-20)
 
