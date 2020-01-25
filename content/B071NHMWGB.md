@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 12332 Pop! TV: Game Of Thrones - B al 35.47 % de descuento'
-date: 2019/12/25 00:24:34 +0000
+title: 'Game of Thrones Figura BRAN Stark  Multi al 50.10 % de descuento'
+date: 2019/12/26 10:10:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eGMkp396L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eGMkp396L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B071NHMWGB
 description:
-actualPrice: 5.95 GBP
-comparePrice: 9.22 GBP
+actualPrice: 7.48 EUR
+comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko 12332 Pop! TV: Game Of Thrones - Bran Stark Vinyl Figure](https://www.amazon.com/dp/B071NHMWGB/?tag=redken08-20) con 35.47 de descuento por 5.95 GBP (original: 9.22 GBP) en el siguiente enlace!
+Está [Game of Thrones Figura BRAN Stark  Multicolor  Standard  Funko 12332 ](https://www.amazon.com/dp/B071NHMWGB/?tag=redken08-20) con 50.10 de descuento por 7.48 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51eGMkp396L._SL200_.jpg)](https://www.amazon.com/dp/B071NHMWGB/?tag=redken08-20)
 

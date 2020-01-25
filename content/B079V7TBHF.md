@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.03 % en Wrangler Slim Vaqueros  Azul  Perfect Bl'
-date: 2020-01-23 23:21:54
+date: 2020-01-24 23:29:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VZZtSfLlL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VZZtSfLlL._AC_._SL200_.jpg' ]
 comments: true
