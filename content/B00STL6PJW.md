@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 33.33 % en Hasbro Gaming Gaming Clasico Pictureka  '
-date: 2020-01-21 21:29:27
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jrQFowofL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jrQFowofL._SL200_.jpg' ]
+title: 'Descuento del 26.80 % en Hasbro Gaming Gaming Clasico Pictureka  '
+date: 2020-01-26 13:32:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/51jrQFowofL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51jrQFowofL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00STL6PJW
 description:
-actualPrice: 10 EUR
-comparePrice: 15 EUR
+actualPrice: 10.98 EUR
+comparePrice: 15.0 EUR
 inStock: true
 ---
 
-Tienes [Hasbro Gaming Gaming Clasico Pictureka  Versión Española   B0731105 ](https://www.amazon.com/dp/B00STL6PJW/?tag=redken08-20) con un 33.33 % de descuento con precio de oferta de 10 EUR (original: 15 EUR) en el siguiente enlace!
+Tienes [Hasbro Gaming Gaming Clasico Pictureka  Versión Española   B0731105 ](https://www.amazon.com/dp/B00STL6PJW/?tag=redken08-20) con un 26.80 % de descuento con precio de oferta de 10.98 EUR (original: 15.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51jrQFowofL._SL200_.jpg)](https://www.amazon.com/dp/B00STL6PJW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51jrQFowofL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00STL6PJW/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00STL6PJW/?tag=redken08-20)
 

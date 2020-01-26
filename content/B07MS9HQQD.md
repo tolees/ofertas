@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 37018 POP Keychain: Toy Story-Wood al 42.26 % de descuento'
-date: 2020-01-24 01:28:53
+title: 'Funko 37018 POP Keychain: Toy Story-Wood al 41.67 % de descuento'
+date: 2020-01-26 17:26:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KEcpcmZaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KEcpcmZaL._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07MS9HQQD
 description:
 actualPrice: 3.99 GBP
-comparePrice: 6.91 GBP
+comparePrice: 6.84 GBP
 inStock: true
 ---
 
-Está [Funko 37018 POP Keychain: Toy Story-Woody Collectible Figure  Multicolor](https://www.amazon.com/dp/B07MS9HQQD/?tag=redken08-20) con 42.26 de descuento por 3.99 GBP (original: 6.91 GBP) en el siguiente enlace!
+Está [Funko 37018 POP Keychain: Toy Story-Woody Collectible Figure  Multicolor](https://www.amazon.com/dp/B07MS9HQQD/?tag=redken08-20) con 41.67 de descuento por 3.99 GBP (original: 6.84 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KEcpcmZaL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MS9HQQD/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levoit Humidificador Ultrasónico 6L Bebé al 30.00 % de descuento'
-date: 2020-01-25 17:21:36
+date: 2020-01-26 19:29:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/415GYFeJHZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415GYFeJHZL._AC_._SL200_.jpg' ]
 comments: true

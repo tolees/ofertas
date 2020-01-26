@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cardhu 18 Años Whisky Escocés - 700 ml al 28.02 % de descuento'
-date: 2020-01-24 00:23:35
+date: 2020-01-26 16:17:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/415ytIK9sIL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415ytIK9sIL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGOO Smart Robot Car Kit V3.0 Plus Com al 29.30 % de descuento'
-date: 2020-01-25 01:43:30
+date: 2020-01-26 17:43:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/61RfeByqVdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61RfeByqVdL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Rotulador punta media STABILO pointMax - al 31.49 % de descuento'
-date: 2019/12/18 11:50:40 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51k80RV4hzL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51k80RV4hzL._SL200_.jpg' ]
+date: 2020-01-26 14:24:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/51k80RV4hzL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51k80RV4hzL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Rotulador punta media STABILO pointMax - Estuche con 12 colores](https://www.amazon.com/dp/B01NADLD9I/?tag=redken08-20) con 31.49 de descuento por 9.9 EUR (original: 14.45 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51k80RV4hzL._SL200_.jpg)](https://www.amazon.com/dp/B01NADLD9I/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51k80RV4hzL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01NADLD9I/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01NADLD9I/?tag=redken08-20)
 

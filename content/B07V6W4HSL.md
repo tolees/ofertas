@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guirnalda Luces Exterior  Blanco Cálido  al 68.43 % de descuento'
-date: 2020-01-25 12:53:59
+date: 2020-01-26 17:04:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jTF2ar8CL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jTF2ar8CL._AC_._SL200_.jpg' ]
 comments: true

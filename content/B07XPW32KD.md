@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TXXCI Acrylic Display Case/Box Dustproof al 50.00 % de descuento'
-date: 2020-01-25 17:37:22
+date: 2020-01-26 17:43:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uhq8svoVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uhq8svoVL._SL200_.jpg' ]
 comments: true
