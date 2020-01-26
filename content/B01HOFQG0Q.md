@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La casa de los bebés de Baby Nurse con 1 al 40.05 % de descuento'
+title: 'La casa de los bebés de Baby Nurse con 1'
 date: 2019/12/11 11:13:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41imh3EGixL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41imh3EGixL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [La casa de los bebés de Baby Nurse con 13 accesorios  Smoby 220318 ](https://www.amazon.com/dp/B01HOFQG0Q/?tag=redken08-20) a 59.94 EUR (original: 99.99 EUR) (40.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [La casa de los bebés de Baby Nurse con 13 accesorios  Smoby 220318 ](https://www.amazon.com/dp/B01HOFQG0Q/?tag=redken08-20) a 59.94 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41imh3EGixL._SL200_.jpg)](https://www.amazon.com/dp/B01HOFQG0Q/?tag=redken08-20)
 

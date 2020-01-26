@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon XA Pro 3D GTX  Zapatillas de Tra al 37.13 % de descuento'
+title: 'Salomon XA Pro 3D GTX  Zapatillas de Tra'
 date: 2019/11/08 18:13:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w1WSTV7zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w1WSTV7zL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.95 EUR
 inStock: true
 ---
 
-Está [Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Negro/Lima  Black/Lime Green/White   42 2/3 EU](https://www.amazon.com/dp/B07CZ7HJVP/?tag=redken08-20) con 37.13 de descuento por 100.56 EUR (original: 159.95 EUR) en el siguiente enlace!
+Está [Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Negro/Lima  Black/Lime Green/White   42 2/3 EU](https://www.amazon.com/dp/B07CZ7HJVP/?tag=redken08-20) por 100.56 EUR (original: 159.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41w1WSTV7zL._SL200_.jpg)](https://www.amazon.com/dp/B07CZ7HJVP/?tag=redken08-20)
 

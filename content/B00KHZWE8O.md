@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tour De France 2014 al 69.46 % de descuento'
+title: 'Tour De France 2014'
 date: 2019/10/18 01:53:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518csruRAhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518csruRAhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55.99 EUR
 inStock: true
 ---
 
-Está [Tour De France 2014](https://www.amazon.com/dp/B00KHZWE8O/?tag=redken08-20) con 69.46 de descuento por 17.1 EUR (original: 55.99 EUR) en el siguiente enlace!
+Está [Tour De France 2014](https://www.amazon.com/dp/B00KHZWE8O/?tag=redken08-20) por 17.1 EUR (original: 55.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518csruRAhL._SL200_.jpg)](https://www.amazon.com/dp/B00KHZWE8O/?tag=redken08-20)
 

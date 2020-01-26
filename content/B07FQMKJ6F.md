@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Un Aldric Walk  Zapatos de Cordon al 56.04 % de descuento'
+title: 'Clarks Un Aldric Walk  Zapatos de Cordon'
 date: 2019/10/19 04:03:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RQq3rU-gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RQq3rU-gL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Clarks Un Aldric Walk  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather-   45 EU](https://www.amazon.com/dp/B07FQMKJ6F/?tag=redken08-20) a 48.36 EUR (original: 110 EUR) (56.04 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Clarks Un Aldric Walk  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather-   45 EU](https://www.amazon.com/dp/B07FQMKJ6F/?tag=redken08-20) a 48.36 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RQq3rU-gL._SL200_.jpg)](https://www.amazon.com/dp/B07FQMKJ6F/?tag=redken08-20)
 

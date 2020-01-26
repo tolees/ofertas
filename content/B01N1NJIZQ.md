@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 32.54 % en Black & Decker bdcdc18bafc broca'
+title: 'Black & Decker bdcdc18bafc broca'
 date: 2020-01-12 16:36:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z9nvAbk1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z9nvAbk1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 131.66 EUR
 inStock: true
 ---
 
-Tienes [Black & Decker bdcdc18bafc broca](https://www.amazon.com/dp/B01N1NJIZQ/?tag=redken08-20) con un 32.54 % de descuento con precio de oferta de 88.82 EUR (original: 131.66 EUR) en el siguiente enlace!
+Tienes [Black & Decker bdcdc18bafc broca](https://www.amazon.com/dp/B01N1NJIZQ/?tag=redken08-20) a precio de oferta de 88.82 EUR (original: 131.66 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Z9nvAbk1L._SL200_.jpg)](https://www.amazon.com/dp/B01N1NJIZQ/?tag=redken08-20)
 

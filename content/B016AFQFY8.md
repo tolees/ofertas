@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dormio Zafiro Colchón viscoelástico  Bla al 35.07 % de descuento'
+title: 'Dormio Zafiro Colchón viscoelástico  Bla'
 date: 2019/12/19 09:22:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XNgylrh5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XNgylrh5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 194 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dormio Zafiro Colchón viscoelástico  Blanco  135 x 190 x 24 cm  Todas las medidas ](https://www.amazon.com/dp/B016AFQFY8/?tag=redken08-20) a 125.96 EUR (original: 194 EUR) (35.07 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Dormio Zafiro Colchón viscoelástico  Blanco  135 x 190 x 24 cm  Todas las medidas ](https://www.amazon.com/dp/B016AFQFY8/?tag=redken08-20) a 125.96 EUR (original: 194 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XNgylrh5L._SL200_.jpg)](https://www.amazon.com/dp/B016AFQFY8/?tag=redken08-20)
 

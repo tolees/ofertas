@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Evolution II Triclimate C al 42.94 % de descuento'
+title: 'The North Face Evolution II Triclimate C'
 date: 2019/10/30 21:25:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gsSKDZwHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gsSKDZwHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 240 EUR
 inStock: true
 ---
 
-Está [The North Face Evolution II Triclimate Chaqueta  Hombre  TNF Black  L](https://www.amazon.com/dp/B00LOD1FNI/?tag=redken08-20) con 42.94 de descuento por 136.95 EUR (original: 240 EUR) en el siguiente enlace!
+Está [The North Face Evolution II Triclimate Chaqueta  Hombre  TNF Black  L](https://www.amazon.com/dp/B00LOD1FNI/?tag=redken08-20) por 136.95 EUR (original: 240 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gsSKDZwHL._SL200_.jpg)](https://www.amazon.com/dp/B00LOD1FNI/?tag=redken08-20)
 

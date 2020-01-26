@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Blue Drop  28W al 49.99 % de descuento'
+title: 'Lee Rider Jeans Vaqueros  Blue Drop  28W'
 date: 2020-01-24 20:12:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DahiZ-vVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DahiZ-vVL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Lee Rider Jeans Vaqueros  Blue Drop  28W / 32L para Hombre](https://www.amazon.com/dp/B07BPZCW29/?tag=redken08-20) con 49.99 de descuento por 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Lee Rider Jeans Vaqueros  Blue Drop  28W / 32L para Hombre](https://www.amazon.com/dp/B07BPZCW29/?tag=redken08-20) por 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41DahiZ-vVL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07BPZCW29/?tag=redken08-20)
 

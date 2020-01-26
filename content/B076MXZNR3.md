@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Terrex Swift R2 GTX  Zapatillas d al 34.27 % de descuento'
+title: 'adidas Terrex Swift R2 GTX  Zapatillas d'
 date: 2019/12/08 17:01:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ygda4QJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ygda4QJjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139.95 EUR
 inStock: true
 ---
 
-Está [adidas Terrex Swift R2 GTX  Zapatillas de Running para Asfalto para Hombre  Negro  Core Black/Core Black/Core Black 0   40 EU](https://www.amazon.com/dp/B076MXZNR3/?tag=redken08-20) con 34.27 de descuento por 91.99 EUR (original: 139.95 EUR) en el siguiente enlace!
+Está [adidas Terrex Swift R2 GTX  Zapatillas de Running para Asfalto para Hombre  Negro  Core Black/Core Black/Core Black 0   40 EU](https://www.amazon.com/dp/B076MXZNR3/?tag=redken08-20) por 91.99 EUR (original: 139.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ygda4QJjL._SL200_.jpg)](https://www.amazon.com/dp/B076MXZNR3/?tag=redken08-20)
 

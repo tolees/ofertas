@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L-Triptófano de Navit Plus. Triptófano 5 al 48.50 % de descuento'
+title: 'L-Triptófano de Navit Plus. Triptófano 5'
 date: 2019/10/21 10:10:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zWClRAtwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zWClRAtwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Está [L-Triptófano de Navit Plus. Triptófano 500 mg + B6 + B3 + B2 + Melatonina |60 cápsulas vegetales | Tratamiento 2 meses | Complemento alimenticio para regular el sueño  estrés y bienestar. Fab en CE.](https://www.amazon.com/dp/B075WVQZ7G/?tag=redken08-20) con 48.50 de descuento por 10.3 EUR (original: 20 EUR) en el siguiente enlace!
+Está [L-Triptófano de Navit Plus. Triptófano 500 mg + B6 + B3 + B2 + Melatonina |60 cápsulas vegetales | Tratamiento 2 meses | Complemento alimenticio para regular el sueño  estrés y bienestar. Fab en CE.](https://www.amazon.com/dp/B075WVQZ7G/?tag=redken08-20) por 10.3 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zWClRAtwL._SL200_.jpg)](https://www.amazon.com/dp/B075WVQZ7G/?tag=redken08-20)
 

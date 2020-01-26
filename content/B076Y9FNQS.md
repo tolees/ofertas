@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic tee-B Camiseta  Blanco  H al 31.57 % de descuento'
+title: 'Levi s Graphic tee-B Camiseta  Blanco  H'
 date: 2019/11/10 18:44:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yWcYFen5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yWcYFen5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Está [Levi s Graphic tee-B Camiseta  Blanco  Hm LS Better White 0010   Small para Hombre](https://www.amazon.com/dp/B076Y9FNQS/?tag=redken08-20) con 31.57 de descuento por 23.95 EUR (original: 35 EUR) en el siguiente enlace!
+Está [Levi s Graphic tee-B Camiseta  Blanco  Hm LS Better White 0010   Small para Hombre](https://www.amazon.com/dp/B076Y9FNQS/?tag=redken08-20) por 23.95 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31yWcYFen5L._SL200_.jpg)](https://www.amazon.com/dp/B076Y9FNQS/?tag=redken08-20)
 

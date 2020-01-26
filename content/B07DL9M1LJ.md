@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Element Cornell Classic ZH Sudadera con  al 45.25 % de descuento'
+title: 'Element Cornell Classic ZH Sudadera con '
 date: 2019/12/01 17:21:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413beiJgBLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413beiJgBLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 63 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Element Cornell Classic ZH Sudadera con Capucha y Cremallera  Hombre  Negro  Flint Black   M](https://www.amazon.com/dp/B07DL9M1LJ/?tag=redken08-20) a 34.49 EUR (original: 63 EUR) (45.25 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Element Cornell Classic ZH Sudadera con Capucha y Cremallera  Hombre  Negro  Flint Black   M](https://www.amazon.com/dp/B07DL9M1LJ/?tag=redken08-20) a 34.49 EUR (original: 63 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413beiJgBLL._SL200_.jpg)](https://www.amazon.com/dp/B07DL9M1LJ/?tag=redken08-20)
 

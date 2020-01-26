@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.34 % en Orient Reloj Cronógrafo para Hombre de C'
+title: 'Orient Reloj Cronógrafo para Hombre de C'
 date: 2019/12/01 01:52:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YuWenZaLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YuWenZaLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 202.29 EUR
 inStock: true
 ---
 
-Tienes [Orient Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FTV02003D0](https://www.amazon.com/dp/B074CRLKDJ/?tag=redken08-20) con un 26.34 % de descuento con precio de oferta de 149 EUR (original: 202.29 EUR) en el siguiente enlace!
+Tienes [Orient Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FTV02003D0](https://www.amazon.com/dp/B074CRLKDJ/?tag=redken08-20) a precio de oferta de 149 EUR (original: 202.29 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51YuWenZaLL._SL200_.jpg)](https://www.amazon.com/dp/B074CRLKDJ/?tag=redken08-20)
 

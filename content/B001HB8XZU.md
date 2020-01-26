@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cat Footwear Colorado  Botas para Hombre al 42.63 % de descuento'
+title: 'Cat Footwear Colorado  Botas para Hombre'
 date: 2019/10/28 16:47:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TkqH9hNwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TkqH9hNwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cat Footwear Colorado  Botas para Hombre  Marrón  Chocolate   44 EU](https://www.amazon.com/dp/B001HB8XZU/?tag=redken08-20) a 79.75 EUR (original: 139 EUR) (42.63 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Cat Footwear Colorado  Botas para Hombre  Marrón  Chocolate   44 EU](https://www.amazon.com/dp/B001HB8XZU/?tag=redken08-20) a 79.75 EUR (original: 139 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TkqH9hNwL._SL200_.jpg)](https://www.amazon.com/dp/B001HB8XZU/?tag=redken08-20)
 

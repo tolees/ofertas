@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen KOS - Polo  Hombre  Azul Na al 36.15 % de descuento'
+title: 'Helly Hansen KOS - Polo  Hombre  Azul Na'
 date: 2019/12/06 13:07:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Nkp4SJOAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Nkp4SJOAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Helly Hansen KOS - Polo  Hombre  Azul Navy 597  2XL](https://www.amazon.com/dp/B07KQWWJ69/?tag=redken08-20) con 36.15 de descuento por 41.5 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Helly Hansen KOS - Polo  Hombre  Azul Navy 597  2XL](https://www.amazon.com/dp/B07KQWWJ69/?tag=redken08-20) por 41.5 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Nkp4SJOAL._SL200_.jpg)](https://www.amazon.com/dp/B07KQWWJ69/?tag=redken08-20)
 

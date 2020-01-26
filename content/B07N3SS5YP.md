@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HKT by Hackett London Hkt SS tee Camiset al 27.84 % de descuento'
+title: 'HKT by Hackett London Hkt SS tee Camiset'
 date: 2019/12/01 08:46:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SEJa%2BFORL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SEJa%2BFORL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.79 EUR
 inStock: true
 ---
 
-Está [HKT by Hackett London Hkt SS tee Camiseta  Rojo  Washed Red 228   Small para Hombre](https://www.amazon.com/dp/B07N3SS5YP/?tag=redken08-20) con 27.84 de descuento por 18.61 EUR (original: 25.79 EUR) en el siguiente enlace!
+Está [HKT by Hackett London Hkt SS tee Camiseta  Rojo  Washed Red 228   Small para Hombre](https://www.amazon.com/dp/B07N3SS5YP/?tag=redken08-20) por 18.61 EUR (original: 25.79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31SEJa%2BFORL._SL200_.jpg)](https://www.amazon.com/dp/B07N3SS5YP/?tag=redken08-20)
 

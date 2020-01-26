@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Eggo Long  Top de Manga Larga al 40.17 % de descuento'
+title: 'Pepe Jeans Eggo Long  Top de Manga Larga'
 date: 2019/11/05 08:03:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lnecLvx5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lnecLvx5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Negro  Black 999   Medium](https://www.amazon.com/dp/B00E8IDXCC/?tag=redken08-20) con 40.17 de descuento por 17.95 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Negro  Black 999   Medium](https://www.amazon.com/dp/B00E8IDXCC/?tag=redken08-20) por 17.95 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lnecLvx5L._SL200_.jpg)](https://www.amazon.com/dp/B00E8IDXCC/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wolfenstein Youngblood - Edición Deluxe  al 50.24 % de descuento'
+title: 'Wolfenstein Youngblood - Edición Deluxe '
 date: 2019/12/20 10:50:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518kqCxmZQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518kqCxmZQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Wolfenstein Youngblood - Edición Deluxe Xbox One](https://www.amazon.com/dp/B07DP2NW7F/?tag=redken08-20) a 19.9 EUR (original: 39.99 EUR) (50.24 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Wolfenstein Youngblood - Edición Deluxe Xbox One](https://www.amazon.com/dp/B07DP2NW7F/?tag=redken08-20) a 19.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518kqCxmZQL._SL200_.jpg)](https://www.amazon.com/dp/B07DP2NW7F/?tag=redken08-20)
 

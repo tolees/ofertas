@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WWE 2K20 - Standard Edition - PlayStatio al 49.09 % de descuento'
+title: 'WWE 2K20 - Standard Edition - PlayStatio'
 date: 2019/12/07 08:55:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xLit4s1PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xLit4s1PL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [WWE 2K20 - Standard Edition - PlayStation 4 [Importación alemana]](https://www.amazon.com/dp/B07QB6K5TC/?tag=redken08-20) con 49.09 de descuento por 35.63 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [WWE 2K20 - Standard Edition - PlayStation 4 [Importación alemana]](https://www.amazon.com/dp/B07QB6K5TC/?tag=redken08-20) por 35.63 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51xLit4s1PL._SL200_.jpg)](https://www.amazon.com/dp/B07QB6K5TC/?tag=redken08-20)
 

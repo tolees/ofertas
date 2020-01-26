@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'STAR WARS - Puzzle  diseño Droidi  1000  al 28.66 % de descuento'
+title: 'STAR WARS - Puzzle  diseño Droidi  1000 '
 date: 2019/10/21 19:14:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515oUgnLzTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515oUgnLzTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [STAR WARS - Puzzle  diseño Droidi  1000 Piezas  Ravensburger 19682 ](https://www.amazon.com/dp/B01GJN55OW/?tag=redken08-20) con 28.66 de descuento por 14.26 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [STAR WARS - Puzzle  diseño Droidi  1000 Piezas  Ravensburger 19682 ](https://www.amazon.com/dp/B01GJN55OW/?tag=redken08-20) por 14.26 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515oUgnLzTL._SL200_.jpg)](https://www.amazon.com/dp/B01GJN55OW/?tag=redken08-20)
 

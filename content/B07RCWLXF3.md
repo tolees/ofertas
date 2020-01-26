@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 59.37 % en JACK & JONES 12152663 Camiseta  Blanco C'
+title: 'JACK & JONES 12152663 Camiseta  Blanco C'
 date: 2019/11/23 12:50:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K8AzmabzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K8AzmabzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Tienes [JACK & JONES 12152663 Camiseta  Blanco Cloud Dancer  XL para Hombre](https://www.amazon.com/dp/B07RCWLXF3/?tag=redken08-20) con un 59.37 % de descuento con precio de oferta de 6.09 EUR (original: 14.99 EUR) en el siguiente enlace!
+Tienes [JACK & JONES 12152663 Camiseta  Blanco Cloud Dancer  XL para Hombre](https://www.amazon.com/dp/B07RCWLXF3/?tag=redken08-20) a precio de oferta de 6.09 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41K8AzmabzL._SL200_.jpg)](https://www.amazon.com/dp/B07RCWLXF3/?tag=redken08-20)
 

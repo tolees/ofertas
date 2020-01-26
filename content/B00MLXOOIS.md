@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony CMT-X3CD Micro-HiFi System  CD  USB al 47.89 % de descuento'
+title: 'Sony CMT-X3CD Micro-HiFi System  CD  USB'
 date: 2020-01-13 09:48:20
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 189.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony CMT-X3CD Micro-HiFi System  CD  USB  Bluetooth  20 Watt  weiß](https://www.amazon.com/dp/B00MLXOOIS/?tag=redken08-20) a 99 EUR (original: 189.99 EUR) (47.89 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony CMT-X3CD Micro-HiFi System  CD  USB  Bluetooth  20 Watt  weiß](https://www.amazon.com/dp/B00MLXOOIS/?tag=redken08-20) a 99 EUR (original: 189.99 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B00MLXOOIS/?tag=redken08-20)
 

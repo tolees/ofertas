@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vanja Lector Tarjeta de Memoria SD/Micro al 49.41 % de descuento'
+title: 'Vanja Lector Tarjeta de Memoria SD/Micro'
 date: 2020-01-18 10:07:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cl5SAA68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cl5SAA68L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.99 EUR
 inStock: true
 ---
 
-Está [Vanja Lector Tarjeta de Memoria SD/Micro SD  Adaptador Micro USB OTG y Lector de Tarjetas USB 2.0 Computadoras de Escritorio y Portátiles/Teléfonos Inteligentes/Tabletas con Función OTG](https://www.amazon.com/dp/B01JJ1VDQK/?tag=redken08-20) con 49.41 de descuento por 8.09 EUR (original: 15.99 EUR) en el siguiente enlace!
+Está [Vanja Lector Tarjeta de Memoria SD/Micro SD  Adaptador Micro USB OTG y Lector de Tarjetas USB 2.0 Computadoras de Escritorio y Portátiles/Teléfonos Inteligentes/Tabletas con Función OTG](https://www.amazon.com/dp/B01JJ1VDQK/?tag=redken08-20) por 8.09 EUR (original: 15.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Cl5SAA68L._SL200_.jpg)](https://www.amazon.com/dp/B01JJ1VDQK/?tag=redken08-20)
 

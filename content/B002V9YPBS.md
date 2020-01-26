@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Odlo Bl Top Crew Neck L/S Active Warm Ca al 32.53 % de descuento'
+title: 'Odlo Bl Top Crew Neck L/S Active Warm Ca'
 date: 2019/12/28 17:41:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JtA9HJcvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JtA9HJcvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Odlo Bl Top Crew Neck L/S Active Warm Camiseta  Hombre  Black  L](https://www.amazon.com/dp/B002V9YPBS/?tag=redken08-20) con 32.53 de descuento por 26.99 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Odlo Bl Top Crew Neck L/S Active Warm Camiseta  Hombre  Black  L](https://www.amazon.com/dp/B002V9YPBS/?tag=redken08-20) por 26.99 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JtA9HJcvL._SL200_.jpg)](https://www.amazon.com/dp/B002V9YPBS/?tag=redken08-20)
 

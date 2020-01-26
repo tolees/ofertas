@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 60.13 % en Under Armour Tech SSC Graphic Camiseta  '
+title: 'Under Armour Tech SSC Graphic Camiseta  '
 date: 2019/10/25 13:18:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cCCKnl1GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cCCKnl1GL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Tienes [Under Armour Tech SSC Graphic Camiseta  Mujer  Blanco  White/Lime Fizz/Charcoal 101   XS](https://www.amazon.com/dp/B07FGL5VF4/?tag=redken08-20) con un 60.13 % de descuento con precio de oferta de 11.96 EUR (original: 30 EUR) en el siguiente enlace!
+Tienes [Under Armour Tech SSC Graphic Camiseta  Mujer  Blanco  White/Lime Fizz/Charcoal 101   XS](https://www.amazon.com/dp/B07FGL5VF4/?tag=redken08-20) a precio de oferta de 11.96 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31cCCKnl1GL._SL200_.jpg)](https://www.amazon.com/dp/B07FGL5VF4/?tag=redken08-20)
 

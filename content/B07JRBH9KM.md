@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Mujer Garment Dye Tee Camise al 29.63 % de descuento'
+title: 'Tommy Jeans Mujer Garment Dye Tee Camise'
 date: 2020-01-13 14:51:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310TJYNx0lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310TJYNx0lL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tommy Jeans Mujer Garment Dye Tee Camiseta   Morado  Hyacinth 580  X-Small](https://www.amazon.com/dp/B07JRBH9KM/?tag=redken08-20) a 19 EUR (original: 27 EUR) (29.63 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tommy Jeans Mujer Garment Dye Tee Camiseta   Morado  Hyacinth 580  X-Small](https://www.amazon.com/dp/B07JRBH9KM/?tag=redken08-20) a 19 EUR (original: 27 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310TJYNx0lL._SL200_.jpg)](https://www.amazon.com/dp/B07JRBH9KM/?tag=redken08-20)
 

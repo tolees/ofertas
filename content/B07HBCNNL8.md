@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS Max  512 GB  - Space Gra al 30.32 % de descuento'
+title: 'Apple iPhone XS Max  512 GB  - Space Gra'
 date: 2019/11/03 20:59:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1649 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Apple iPhone XS Max  512 GB  - Space Grau](https://www.amazon.com/dp/B07HBCNNL8/?tag=redken08-20) a 1149 EUR (original: 1649 EUR) (30.32 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Apple iPhone XS Max  512 GB  - Space Grau](https://www.amazon.com/dp/B07HBCNNL8/?tag=redken08-20) a 1149 EUR (original: 1649 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg)](https://www.amazon.com/dp/B07HBCNNL8/?tag=redken08-20)
 

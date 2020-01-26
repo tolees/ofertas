@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mustard M 16028 - Soporte magnético para al 60.50 % de descuento'
+title: 'Mustard M 16028 - Soporte magnético para'
 date: 2020-01-06 23:00:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318S8tNRK2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318S8tNRK2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 10 EUR
 inStock: true
 ---
 
-Está [Mustard M 16028 - Soporte magnético para clips con diseño de Einstein](https://www.amazon.com/dp/B00NIVEQ6M/?tag=redken08-20) con 60.50 de descuento por 3.95 EUR (original: 10 EUR) en el siguiente enlace!
+Está [Mustard M 16028 - Soporte magnético para clips con diseño de Einstein](https://www.amazon.com/dp/B00NIVEQ6M/?tag=redken08-20) por 3.95 EUR (original: 10 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318S8tNRK2L._SL200_.jpg)](https://www.amazon.com/dp/B00NIVEQ6M/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Atwood  Zapatillas Unisex Niños  Ne al 36.00 % de descuento'
+title: 'Vans Atwood  Zapatillas Unisex Niños  Ne'
 date: 2019/12/01 20:18:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sxuELrbfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sxuELrbfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Está [Vans Atwood  Zapatillas Unisex Niños  Negro  Black/Black 186   37 EU](https://www.amazon.com/dp/B00BIJ0TYY/?tag=redken08-20) con 36.00 de descuento por 28.8 EUR (original: 45 EUR) en el siguiente enlace!
+Está [Vans Atwood  Zapatillas Unisex Niños  Negro  Black/Black 186   37 EU](https://www.amazon.com/dp/B00BIJ0TYY/?tag=redken08-20) por 28.8 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sxuELrbfL._SL200_.jpg)](https://www.amazon.com/dp/B00BIJ0TYY/?tag=redken08-20)
 

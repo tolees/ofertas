@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PDP - Funda Slim Travel Case Edición Mar al 46.70 % de descuento'
+title: 'PDP - Funda Slim Travel Case Edición Mar'
 date: 2020-01-16 08:09:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zy0ai2eXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zy0ai2eXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PDP - Funda Slim Travel Case Edición Mario Camo  Nintendo Switch ](https://www.amazon.com/dp/B07GX4B6SN/?tag=redken08-20) a 7.99 EUR (original: 14.99 EUR) (46.70 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [PDP - Funda Slim Travel Case Edición Mario Camo  Nintendo Switch ](https://www.amazon.com/dp/B07GX4B6SN/?tag=redken08-20) a 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51zy0ai2eXL._SL200_.jpg)](https://www.amazon.com/dp/B07GX4B6SN/?tag=redken08-20)
 

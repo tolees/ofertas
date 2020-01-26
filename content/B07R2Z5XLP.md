@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Boy s Gorra  Niños  Verde   al 33.39 % de descuento'
+title: 'Under Armour Boy s Gorra  Niños  Verde  '
 date: 2019/11/27 12:51:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VUDmuLclL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VUDmuLclL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18 EUR
 inStock: true
 ---
 
-Está [Under Armour Boy s Gorra  Niños  Verde  XS/S](https://www.amazon.com/dp/B07R2Z5XLP/?tag=redken08-20) con 33.39 de descuento por 11.99 EUR (original: 18 EUR) en el siguiente enlace!
+Está [Under Armour Boy s Gorra  Niños  Verde  XS/S](https://www.amazon.com/dp/B07R2Z5XLP/?tag=redken08-20) por 11.99 EUR (original: 18 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VUDmuLclL._SL200_.jpg)](https://www.amazon.com/dp/B07R2Z5XLP/?tag=redken08-20)
 

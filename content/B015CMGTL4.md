@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 29.67 % en Rimmel London The Only One Lipstick Barr'
+title: 'Rimmel London The Only One Lipstick Barr'
 date: 2019/12/22 21:50:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wIPNa8K7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wIPNa8K7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6 EUR
 inStock: true
 ---
 
-Tienes [Rimmel London The Only One Lipstick Barra De Labios Mate Tono 510 - 3.4 gr](https://www.amazon.com/dp/B015CMGTL4/?tag=redken08-20) con un 29.67 % de descuento con precio de oferta de 4.22 EUR (original: 6 EUR) en el siguiente enlace!
+Tienes [Rimmel London The Only One Lipstick Barra De Labios Mate Tono 510 - 3.4 gr](https://www.amazon.com/dp/B015CMGTL4/?tag=redken08-20) a precio de oferta de 4.22 EUR (original: 6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31wIPNa8K7L._SL200_.jpg)](https://www.amazon.com/dp/B015CMGTL4/?tag=redken08-20)
 

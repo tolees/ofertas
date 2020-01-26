@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mad Catz - S.U.R.F.R Mando Bluetooth  Co al 37.52 % de descuento'
+title: 'Mad Catz - S.U.R.F.R Mando Bluetooth  Co'
 date: 2019/10/21 19:22:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4171Kd5UDvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4171Kd5UDvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mad Catz - S.U.R.F.R Mando Bluetooth  Color Negro](https://www.amazon.com/dp/B00UHDLVD0/?tag=redken08-20) a 39.99 EUR (original: 64 EUR) (37.52 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Mad Catz - S.U.R.F.R Mando Bluetooth  Color Negro](https://www.amazon.com/dp/B00UHDLVD0/?tag=redken08-20) a 39.99 EUR (original: 64 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4171Kd5UDvL._SL200_.jpg)](https://www.amazon.com/dp/B00UHDLVD0/?tag=redken08-20)
 

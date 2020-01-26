@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Mini X-line - Set de 25 unidades p al 39.13 % de descuento'
+title: 'Bosch Mini X-line - Set de 25 unidades p'
 date: 2019/10/13 15:20:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oZKzFXa8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oZKzFXa8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch Mini X-line - Set de 25 unidades para atornillar](https://www.amazon.com/dp/B001IBOPWE/?tag=redken08-20) a 10.95 EUR (original: 17.99 EUR) (39.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bosch Mini X-line - Set de 25 unidades para atornillar](https://www.amazon.com/dp/B001IBOPWE/?tag=redken08-20) a 10.95 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51oZKzFXa8L._SL200_.jpg)](https://www.amazon.com/dp/B001IBOPWE/?tag=redken08-20)
 

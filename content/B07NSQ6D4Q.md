@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 31.82 % en Funko 39334 POP Movies: Ghostbusters-Sca'
+title: 'Funko 39334 POP Movies: Ghostbusters-Sca'
 date: 2019/12/27 00:28:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tTqGggC5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tTqGggC5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.27 GBP
 inStock: true
 ---
 
-Tienes [Funko 39334 POP Movies: Ghostbusters-Scary Library Ghost Collectible Figure  Multicolor](https://www.amazon.com/dp/B07NSQ6D4Q/?tag=redken08-20) con un 31.82 % de descuento con precio de oferta de 6.32 GBP (original: 9.27 GBP) en el siguiente enlace!
+Tienes [Funko 39334 POP Movies: Ghostbusters-Scary Library Ghost Collectible Figure  Multicolor](https://www.amazon.com/dp/B07NSQ6D4Q/?tag=redken08-20) a precio de oferta de 6.32 GBP (original: 9.27 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tTqGggC5L._SL200_.jpg)](https://www.amazon.com/dp/B07NSQ6D4Q/?tag=redken08-20)
 

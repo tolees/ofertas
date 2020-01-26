@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 13693 63650 Actionfigur Trollhunte al 35.74 % de descuento'
+title: 'Funko 13693 63650 Actionfigur Trollhunte'
 date: 2019/12/11 04:40:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o5Rr58LVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o5Rr58LVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 13693 63650 Actionfigur Trollhunters: Jim Armored  Multicolour](https://www.amazon.com/dp/B06XGW3KRV/?tag=redken08-20) a 8.99 EUR (original: 13.99 EUR) (35.74 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 13693 63650 Actionfigur Trollhunters: Jim Armored  Multicolour](https://www.amazon.com/dp/B06XGW3KRV/?tag=redken08-20) a 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51o5Rr58LVL._SL200_.jpg)](https://www.amazon.com/dp/B06XGW3KRV/?tag=redken08-20)
 

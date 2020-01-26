@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black Crevice Forro Polar Gris ES 50 al 75.01 % de descuento'
+title: 'Black Crevice Forro Polar Gris ES 50'
 date: 2019/11/11 20:56:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RIDM-qiWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RIDM-qiWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Black Crevice Forro Polar Gris ES 50](https://www.amazon.com/dp/B01GCXLPL6/?tag=redken08-20) a 14.99 EUR (original: 59.99 EUR) (75.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Black Crevice Forro Polar Gris ES 50](https://www.amazon.com/dp/B01GCXLPL6/?tag=redken08-20) a 14.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RIDM-qiWL._SL200_.jpg)](https://www.amazon.com/dp/B01GCXLPL6/?tag=redken08-20)
 

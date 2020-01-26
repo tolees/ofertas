@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Q7553X - Cartucho de tóner al 55.30 % de descuento'
+title: 'HP Q7553X - Cartucho de tóner'
 date: 2020-01-14 03:30:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 234.9 EUR
 inStock: true
 ---
 
-Está [HP Q7553X - Cartucho de tóner](https://www.amazon.com/dp/B000JGG7HA/?tag=redken08-20) con 55.30 de descuento por 105 EUR (original: 234.9 EUR) en el siguiente enlace!
+Está [HP Q7553X - Cartucho de tóner](https://www.amazon.com/dp/B000JGG7HA/?tag=redken08-20) por 105 EUR (original: 234.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL200_.jpg)](https://www.amazon.com/dp/B000JGG7HA/?tag=redken08-20)
 

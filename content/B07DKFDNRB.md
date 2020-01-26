@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling Gabbie S  Bolsos Bandolera para  al 50.00 % de descuento'
+title: 'Kipling Gabbie S  Bolsos Bandolera para '
 date: 2020-01-17 17:05:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KFtztuzlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KFtztuzlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Está [Kipling Gabbie S  Bolsos Bandolera para Mujer  Azul  Dynamic Blue   29x22x16.5 centimeters  B x H x T ](https://www.amazon.com/dp/B07DKFDNRB/?tag=redken08-20) con 50.00 de descuento por 39.5 EUR (original: 79 EUR) en el siguiente enlace!
+Está [Kipling Gabbie S  Bolsos Bandolera para Mujer  Azul  Dynamic Blue   29x22x16.5 centimeters  B x H x T ](https://www.amazon.com/dp/B07DKFDNRB/?tag=redken08-20) por 39.5 EUR (original: 79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KFtztuzlL._SL200_.jpg)](https://www.amazon.com/dp/B07DKFDNRB/?tag=redken08-20)
 

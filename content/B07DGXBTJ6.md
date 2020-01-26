@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Duramo 9  Zapatillas de Deporte p al 31.61 % de descuento'
+title: 'adidas Duramo 9  Zapatillas de Deporte p'
 date: 2019/11/12 11:06:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AMbWRCQHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AMbWRCQHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Duramo 9  Zapatillas de Deporte para Mujer  Multicolor  Gr A TR A/Ftwbla/Gricua 000   38 EU](https://www.amazon.com/dp/B07DGXBTJ6/?tag=redken08-20) a 41 EUR (original: 59.95 EUR) (31.61 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Duramo 9  Zapatillas de Deporte para Mujer  Multicolor  Gr A TR A/Ftwbla/Gricua 000   38 EU](https://www.amazon.com/dp/B07DGXBTJ6/?tag=redken08-20) a 41 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41AMbWRCQHL._SL200_.jpg)](https://www.amazon.com/dp/B07DGXBTJ6/?tag=redken08-20)
 

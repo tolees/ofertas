@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack & Jones Tim Original - Vaqueros sli al 41.22 % de descuento'
+title: 'Jack & Jones Tim Original - Vaqueros sli'
 date: 2019/12/13 19:33:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tuXnRPiEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tuXnRPiEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.94 EUR
 inStock: true
 ---
 
-Está [Jack & Jones Tim Original - Vaqueros slim para hombre  Azul  W34/L36](https://www.amazon.com/dp/B00H2ZMDRY/?tag=redken08-20) con 41.22 de descuento por 46.99 EUR (original: 79.94 EUR) en el siguiente enlace!
+Está [Jack & Jones Tim Original - Vaqueros slim para hombre  Azul  W34/L36](https://www.amazon.com/dp/B00H2ZMDRY/?tag=redken08-20) por 46.99 EUR (original: 79.94 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tuXnRPiEL._SL200_.jpg)](https://www.amazon.com/dp/B00H2ZMDRY/?tag=redken08-20)
 

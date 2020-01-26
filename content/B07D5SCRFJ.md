@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ESS Logo tee Camiseta  Mujer  Gris  al 42.41 % de descuento'
+title: 'PUMA ESS Logo tee Camiseta  Mujer  Gris '
 date: 2019/12/23 10:58:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414co5%2B5suL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414co5%2B5suL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA ESS Logo tee Camiseta  Mujer  Gris  Light Gray Heather   XS](https://www.amazon.com/dp/B07D5SCRFJ/?tag=redken08-20) a 11.49 EUR (original: 19.95 EUR) (42.41 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [PUMA ESS Logo tee Camiseta  Mujer  Gris  Light Gray Heather   XS](https://www.amazon.com/dp/B07D5SCRFJ/?tag=redken08-20) a 11.49 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414co5%2B5suL._SL200_.jpg)](https://www.amazon.com/dp/B07D5SCRFJ/?tag=redken08-20)
 

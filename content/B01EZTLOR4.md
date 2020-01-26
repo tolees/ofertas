@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ozone OZNEON3K - Ratón Gaming 3K Neon al 60.17 % de descuento'
+title: 'Ozone OZNEON3K - Ratón Gaming 3K Neon'
 date: 2019/12/18 06:40:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BqJ5YBaQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BqJ5YBaQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.9 EUR
 inStock: true
 ---
 
-Está [Ozone OZNEON3K - Ratón Gaming 3K Neon](https://www.amazon.com/dp/B01EZTLOR4/?tag=redken08-20) con 60.17 de descuento por 13.9 EUR (original: 34.9 EUR) en el siguiente enlace!
+Está [Ozone OZNEON3K - Ratón Gaming 3K Neon](https://www.amazon.com/dp/B01EZTLOR4/?tag=redken08-20) por 13.9 EUR (original: 34.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BqJ5YBaQL._SL200_.jpg)](https://www.amazon.com/dp/B01EZTLOR4/?tag=redken08-20)
 

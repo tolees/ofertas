@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.46 % en Netgear JGS524PE 24-Port Gigabit Etherne'
+title: 'Netgear JGS524PE 24-Port Gigabit Etherne'
 date: 2019/10/29 06:40:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418C5AFN%2B6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418C5AFN%2B6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 236.99 EUR
 inStock: true
 ---
 
-Tienes [Netgear JGS524PE 24-Port Gigabit Ethernet LAN PoE Switch Smart Managed Plus  mit 12x PoE 100W  Desktop- oder Rack-Montage mit ProSAFE Lifetime-Garantie  schwarz](https://www.amazon.com/dp/B00F3XSM6I/?tag=redken08-20) con un 26.46 % de descuento con precio de oferta de 174.29 EUR (original: 236.99 EUR) en el siguiente enlace!
+Tienes [Netgear JGS524PE 24-Port Gigabit Ethernet LAN PoE Switch Smart Managed Plus  mit 12x PoE 100W  Desktop- oder Rack-Montage mit ProSAFE Lifetime-Garantie  schwarz](https://www.amazon.com/dp/B00F3XSM6I/?tag=redken08-20) a precio de oferta de 174.29 EUR (original: 236.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418C5AFN%2B6L._SL200_.jpg)](https://www.amazon.com/dp/B00F3XSM6I/?tag=redken08-20)
 

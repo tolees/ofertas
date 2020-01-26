@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Camisa de cambray co al 40.00 % de descuento'
+title: 'Amazon Essentials - Camisa de cambray co'
 date: 2019/10/14 08:58:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P59Li0CPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P59Li0CPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Amazon Essentials - Camisa de cambray con manga larga y corte recto para hombre  Rinsed  US XL  EU XL - XXL ](https://www.amazon.com/dp/B07J6J4ZMH/?tag=redken08-20) con 40.00 de descuento por 15 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Amazon Essentials - Camisa de cambray con manga larga y corte recto para hombre  Rinsed  US XL  EU XL - XXL ](https://www.amazon.com/dp/B07J6J4ZMH/?tag=redken08-20) por 15 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51P59Li0CPL._SL200_.jpg)](https://www.amazon.com/dp/B07J6J4ZMH/?tag=redken08-20)
 

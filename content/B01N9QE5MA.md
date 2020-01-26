@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Paceca Auth Pantalón  Mujer  Negro al 47.50 % de descuento'
+title: 'Kappa Paceca Auth Pantalón  Mujer  Negro'
 date: 2019/10/08 11:55:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xTF3y%2BAAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xTF3y%2BAAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 38 EUR
 inStock: true
 ---
 
-Está [Kappa Paceca Auth Pantalón  Mujer  Negro  L](https://www.amazon.com/dp/B01N9QE5MA/?tag=redken08-20) con 47.50 de descuento por 19.95 EUR (original: 38 EUR) en el siguiente enlace!
+Está [Kappa Paceca Auth Pantalón  Mujer  Negro  L](https://www.amazon.com/dp/B01N9QE5MA/?tag=redken08-20) por 19.95 EUR (original: 38 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xTF3y%2BAAL._SL200_.jpg)](https://www.amazon.com/dp/B01N9QE5MA/?tag=redken08-20)
 

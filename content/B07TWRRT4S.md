@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AUKEY Teclado Mecánico LED-Backlit con S al 38.47 % de descuento'
+title: 'AUKEY Teclado Mecánico LED-Backlit con S'
 date: 2019/10/17 16:54:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iu1-8GrDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iu1-8GrDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Está [AUKEY Teclado Mecánico LED-Backlit con Switches Blue  105 Teclas  Layout Español  100% Anti-ghosting Teclado Gaming con Panel de Metal para Jugadores y Mecanógrafos  Negro ](https://www.amazon.com/dp/B07TWRRT4S/?tag=redken08-20) con 38.47 de descuento por 39.99 EUR (original: 64.99 EUR) en el siguiente enlace!
+Está [AUKEY Teclado Mecánico LED-Backlit con Switches Blue  105 Teclas  Layout Español  100% Anti-ghosting Teclado Gaming con Panel de Metal para Jugadores y Mecanógrafos  Negro ](https://www.amazon.com/dp/B07TWRRT4S/?tag=redken08-20) por 39.99 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iu1-8GrDL._SL200_.jpg)](https://www.amazon.com/dp/B07TWRRT4S/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Batería de Controlador Xbox One  2500mAH al 50.01 % de descuento'
+title: 'Batería de Controlador Xbox One  2500mAH'
 date: 2019/10/24 15:24:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RIHgP2H0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RIHgP2H0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Batería de Controlador Xbox One  2500mAH NI-MH Batería Recargable para Xbox One / One S / One X / One Controladores inalámbricos Elite  Paquete de 2 Baterías 1 con cable de carga](https://www.amazon.com/dp/B07JJ4QPXM/?tag=redken08-20) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Batería de Controlador Xbox One  2500mAH NI-MH Batería Recargable para Xbox One / One S / One X / One Controladores inalámbricos Elite  Paquete de 2 Baterías 1 con cable de carga](https://www.amazon.com/dp/B07JJ4QPXM/?tag=redken08-20) a 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RIHgP2H0L._SL200_.jpg)](https://www.amazon.com/dp/B07JJ4QPXM/?tag=redken08-20)
 

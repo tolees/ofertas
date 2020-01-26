@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett Amr Col Block Polo  Azul  Middle al 33.83 % de descuento'
+title: 'Hackett Amr Col Block Polo  Azul  Middle'
 date: 2019/11/22 08:55:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jNt3s%2BGyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jNt3s%2BGyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 83.08 EUR
 inStock: true
 ---
 
-Está [Hackett Amr Col Block Polo  Azul  Middle Blue 531   X-Large para Hombre](https://www.amazon.com/dp/B07N3Z3CHT/?tag=redken08-20) con 33.83 de descuento por 54.97 EUR (original: 83.08 EUR) en el siguiente enlace!
+Está [Hackett Amr Col Block Polo  Azul  Middle Blue 531   X-Large para Hombre](https://www.amazon.com/dp/B07N3Z3CHT/?tag=redken08-20) por 54.97 EUR (original: 83.08 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jNt3s%2BGyL._SL200_.jpg)](https://www.amazon.com/dp/B07N3Z3CHT/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Vest_Rotterdam Vestido  Negro 2 al 66.94 % de descuento'
+title: 'Desigual Vest_Rotterdam Vestido  Negro 2'
 date: 2019/11/08 23:17:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415sMyru-ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415sMyru-ZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Desigual Vest_Rotterdam Vestido  Negro 2000  40 para Mujer](https://www.amazon.com/dp/B06XPXBSPZ/?tag=redken08-20) a 33.04 EUR (original: 99.95 EUR) (66.94 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Desigual Vest_Rotterdam Vestido  Negro 2000  40 para Mujer](https://www.amazon.com/dp/B06XPXBSPZ/?tag=redken08-20) a 33.04 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415sMyru-ZL._SL200_.jpg)](https://www.amazon.com/dp/B06XPXBSPZ/?tag=redken08-20)
 

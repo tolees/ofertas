@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Halite Polo  Rojo  Dk Baron 4 al 36.93 % de descuento'
+title: 'G-STAR RAW Halite Polo  Rojo  Dk Baron 4'
 date: 2020-01-20 16:35:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qG1BqNZaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qG1BqNZaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 47.52 EUR
 inStock: true
 ---
 
-Está [G-STAR RAW Halite Polo  Rojo  Dk Baron 4749   XX-Small para Hombre](https://www.amazon.com/dp/B07NDMYPPJ/?tag=redken08-20) con 36.93 de descuento por 29.97 EUR (original: 47.52 EUR) en el siguiente enlace!
+Está [G-STAR RAW Halite Polo  Rojo  Dk Baron 4749   XX-Small para Hombre](https://www.amazon.com/dp/B07NDMYPPJ/?tag=redken08-20) por 29.97 EUR (original: 47.52 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31qG1BqNZaL._SL200_.jpg)](https://www.amazon.com/dp/B07NDMYPPJ/?tag=redken08-20)
 

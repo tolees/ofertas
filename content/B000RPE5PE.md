@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trust - Mini Lector de Tarjetas USB Robs al 30.31 % de descuento'
+title: 'Trust - Mini Lector de Tarjetas USB Robs'
 date: 2019/11/20 08:59:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EjFwjwUTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EjFwjwUTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Está [Trust - Mini Lector de Tarjetas USB Robson  color blanco](https://www.amazon.com/dp/B000RPE5PE/?tag=redken08-20) con 30.31 de descuento por 9.75 EUR (original: 13.99 EUR) en el siguiente enlace!
+Está [Trust - Mini Lector de Tarjetas USB Robson  color blanco](https://www.amazon.com/dp/B000RPE5PE/?tag=redken08-20) por 9.75 EUR (original: 13.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EjFwjwUTL._SL200_.jpg)](https://www.amazon.com/dp/B000RPE5PE/?tag=redken08-20)
 

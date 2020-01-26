@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Dubliner Jacket Chaqueta Ch al 51.52 % de descuento'
+title: 'Helly Hansen Dubliner Jacket Chaqueta Ch'
 date: 2020-01-21 14:52:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ppTipWpNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ppTipWpNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 120 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Dubliner Jacket Chaqueta Chubasquero para Hombre de Uso Diario y para Actividades marítimas con la tecnología Helly Tech  Negro  M](https://www.amazon.com/dp/B01EOX0B7U/?tag=redken08-20) con 51.52 de descuento por 58.18 EUR (original: 120 EUR) en el siguiente enlace!
+Está [Helly Hansen Dubliner Jacket Chaqueta Chubasquero para Hombre de Uso Diario y para Actividades marítimas con la tecnología Helly Tech  Negro  M](https://www.amazon.com/dp/B01EOX0B7U/?tag=redken08-20) por 58.18 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ppTipWpNL._SL200_.jpg)](https://www.amazon.com/dp/B01EOX0B7U/?tag=redken08-20)
 

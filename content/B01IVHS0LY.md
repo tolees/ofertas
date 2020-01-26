@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dixan Detergente Total Duo Caps en Cápsu al 41.12 % de descuento'
+title: 'Dixan Detergente Total Duo Caps en Cápsu'
 date: 2019/11/17 16:52:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516ys4dZi-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516ys4dZi-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Está [Dixan Detergente Total Duo Caps en Cápsulas - 36 Lavados](https://www.amazon.com/dp/B01IVHS0LY/?tag=redken08-20) con 41.12 de descuento por 7.06 EUR (original: 11.99 EUR) en el siguiente enlace!
+Está [Dixan Detergente Total Duo Caps en Cápsulas - 36 Lavados](https://www.amazon.com/dp/B01IVHS0LY/?tag=redken08-20) por 7.06 EUR (original: 11.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516ys4dZi-L._SL200_.jpg)](https://www.amazon.com/dp/B01IVHS0LY/?tag=redken08-20)
 

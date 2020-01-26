@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok RC Neon Retro tee Camiseta  Hombr al 25.15 % de descuento'
+title: 'Reebok RC Neon Retro tee Camiseta  Hombr'
 date: 2019/11/22 17:39:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ICi4V9AHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ICi4V9AHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.86 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Reebok RC Neon Retro tee Camiseta  Hombre  brgrin  M](https://www.amazon.com/dp/B07KGRHD3M/?tag=redken08-20) a 22.35 EUR (original: 29.86 EUR) (25.15 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Reebok RC Neon Retro tee Camiseta  Hombre  brgrin  M](https://www.amazon.com/dp/B07KGRHD3M/?tag=redken08-20) a 22.35 EUR (original: 29.86 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ICi4V9AHL._SL200_.jpg)](https://www.amazon.com/dp/B07KGRHD3M/?tag=redken08-20)
 

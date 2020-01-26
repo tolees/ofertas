@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crash Team Racing Nitro Fueled al 27.88 % de descuento'
+title: 'Crash Team Racing Nitro Fueled'
 date: 2020-01-14 12:47:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RTm5XRMKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RTm5XRMKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Crash Team Racing Nitro Fueled](https://www.amazon.com/dp/B07MZGGV78/?tag=redken08-20) con 27.88 de descuento por 28.84 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Crash Team Racing Nitro Fueled](https://www.amazon.com/dp/B07MZGGV78/?tag=redken08-20) por 28.84 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RTm5XRMKL._SL200_.jpg)](https://www.amazon.com/dp/B07MZGGV78/?tag=redken08-20)
 

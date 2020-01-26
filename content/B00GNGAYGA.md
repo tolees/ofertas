@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sonnenbrille L3603s Gafas de sol al 61.24 % de descuento'
+title: 'Lacoste Sonnenbrille L3603s Gafas de sol'
 date: 2019/10/11 10:08:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21ktRqLyGKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21ktRqLyGKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Sonnenbrille L3603s Gafas de sol  Blanco  Weiß   48.0 Unisex Adulto](https://www.amazon.com/dp/B00GNGAYGA/?tag=redken08-20) a 30.62 EUR (original: 79 EUR) (61.24 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Sonnenbrille L3603s Gafas de sol  Blanco  Weiß   48.0 Unisex Adulto](https://www.amazon.com/dp/B00GNGAYGA/?tag=redken08-20) a 30.62 EUR (original: 79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21ktRqLyGKL._SL200_.jpg)](https://www.amazon.com/dp/B00GNGAYGA/?tag=redken08-20)
 

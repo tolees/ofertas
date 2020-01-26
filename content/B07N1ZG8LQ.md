@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mizuno Wave Exceed Tour 3 AC Zapatillas  al 52.52 % de descuento'
+title: 'Mizuno Wave Exceed Tour 3 AC Zapatillas '
 date: 2019/12/05 18:57:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412d-MSFXML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412d-MSFXML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 84.9 EUR
 inStock: true
 ---
 
-Está [Mizuno Wave Exceed Tour 3 AC Zapatillas de Tenis  Hombre  Azul  Reflex Blue/White/Nasturtium 27   42 EU](https://www.amazon.com/dp/B07N1ZG8LQ/?tag=redken08-20) con 52.52 de descuento por 40.31 EUR (original: 84.9 EUR) en el siguiente enlace!
+Está [Mizuno Wave Exceed Tour 3 AC Zapatillas de Tenis  Hombre  Azul  Reflex Blue/White/Nasturtium 27   42 EU](https://www.amazon.com/dp/B07N1ZG8LQ/?tag=redken08-20) por 40.31 EUR (original: 84.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412d-MSFXML._SL200_.jpg)](https://www.amazon.com/dp/B07N1ZG8LQ/?tag=redken08-20)
 

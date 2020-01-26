@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Cosmo_Tenn_MX  Zapatillas para Homb al 48.14 % de descuento'
+title: 'BOSS Cosmo_Tenn_MX  Zapatillas para Homb'
 date: 2019/11/22 16:35:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AzF2RctYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AzF2RctYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 170 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BOSS Cosmo_Tenn_MX  Zapatillas para Hombre  Negro  Black 1   41 EU](https://www.amazon.com/dp/B07K7XWZT6/?tag=redken08-20) a 88.16 EUR (original: 170 EUR) (48.14 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BOSS Cosmo_Tenn_MX  Zapatillas para Hombre  Negro  Black 1   41 EU](https://www.amazon.com/dp/B07K7XWZT6/?tag=redken08-20) a 88.16 EUR (original: 170 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31AzF2RctYL._SL200_.jpg)](https://www.amazon.com/dp/B07K7XWZT6/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego Id al 45.46 % de descuento'
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Id'
 date: 2020-01-24 10:02:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/513MDCjmcbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513MDCjmcbL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Led Beleuchtungsset für Lego Ideas Doctor Who  Kompatibel Mit Lego 21304 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07W6CFWDH/?tag=redken08-20) con 45.46 de descuento por 29.99 EUR (original: 54.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Led Beleuchtungsset für Lego Ideas Doctor Who  Kompatibel Mit Lego 21304 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07W6CFWDH/?tag=redken08-20) por 29.99 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/513MDCjmcbL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07W6CFWDH/?tag=redken08-20)
 

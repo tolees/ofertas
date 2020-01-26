@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luz de sensor de movimiento  luz nocturn al 74.02 % de descuento'
+title: 'Luz de sensor de movimiento  luz nocturn'
 date: 2019/12/09 00:04:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21hVqmKUuTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21hVqmKUuTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.67 EUR
 inStock: true
 ---
 
-Está [Luz de sensor de movimiento  luz nocturna de LED con batería inalámbrica  luces de escalera tipo palo  luces de disco  luces de seguridad para el pasillo  baño  dormitorio  cocina  paquete de 3 ](https://www.amazon.com/dp/B07PQV1SX5/?tag=redken08-20) con 74.02 de descuento por 7.19 EUR (original: 27.67 EUR) en el siguiente enlace!
+Está [Luz de sensor de movimiento  luz nocturna de LED con batería inalámbrica  luces de escalera tipo palo  luces de disco  luces de seguridad para el pasillo  baño  dormitorio  cocina  paquete de 3 ](https://www.amazon.com/dp/B07PQV1SX5/?tag=redken08-20) por 7.19 EUR (original: 27.67 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21hVqmKUuTL._SL200_.jpg)](https://www.amazon.com/dp/B07PQV1SX5/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Aerons Long Chaqueta  Mujer  N al 45.46 % de descuento'
+title: 'Napapijri Aerons Long Chaqueta  Mujer  N'
 date: 2019/10/13 14:08:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WnkZ9kWXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WnkZ9kWXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 259 EUR
 inStock: true
 ---
 
-Está [Napapijri Aerons Long Chaqueta  Mujer  Negro  Black 041   Large](https://www.amazon.com/dp/B079K6WNKY/?tag=redken08-20) con 45.46 de descuento por 141.27 EUR (original: 259 EUR) en el siguiente enlace!
+Está [Napapijri Aerons Long Chaqueta  Mujer  Negro  Black 041   Large](https://www.amazon.com/dp/B079K6WNKY/?tag=redken08-20) por 141.27 EUR (original: 259 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WnkZ9kWXL._SL200_.jpg)](https://www.amazon.com/dp/B079K6WNKY/?tag=redken08-20)
 

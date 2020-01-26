@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Silver Ridge II Camisa de Manga al 46.16 % de descuento'
+title: 'Columbia Silver Ridge II Camisa de Manga'
 date: 2019/11/24 06:48:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DFuXIFRGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DFuXIFRGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Está [Columbia Silver Ridge II Camisa de Manga Larga  Hombre  Rojo  Tapestry   M](https://www.amazon.com/dp/B07KSP2CL9/?tag=redken08-20) con 46.16 de descuento por 34.99 EUR (original: 64.99 EUR) en el siguiente enlace!
+Está [Columbia Silver Ridge II Camisa de Manga Larga  Hombre  Rojo  Tapestry   M](https://www.amazon.com/dp/B07KSP2CL9/?tag=redken08-20) por 34.99 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DFuXIFRGL._SL200_.jpg)](https://www.amazon.com/dp/B07KSP2CL9/?tag=redken08-20)
 

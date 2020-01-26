@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nestlé Caja Roja Bombones De Chocolate E al 27.86 % de descuento'
+title: 'Nestlé Caja Roja Bombones De Chocolate E'
 date: 2019/12/13 06:43:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rTg4oo0ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rTg4oo0ZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 48.5 EUR
 inStock: true
 ---
 
-Está [Nestlé Caja Roja Bombones De Chocolate Estuche Navidad - Caja edición limitada de 2Kg](https://www.amazon.com/dp/B07KGKYR3B/?tag=redken08-20) con 27.86 de descuento por 34.99 EUR (original: 48.5 EUR) en el siguiente enlace!
+Está [Nestlé Caja Roja Bombones De Chocolate Estuche Navidad - Caja edición limitada de 2Kg](https://www.amazon.com/dp/B07KGKYR3B/?tag=redken08-20) por 34.99 EUR (original: 48.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rTg4oo0ZL._SL200_.jpg)](https://www.amazon.com/dp/B07KGKYR3B/?tag=redken08-20)
 

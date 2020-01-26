@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 69.82 % en Lancaster - Desodorante en Crema - - 125'
+title: 'Lancaster - Desodorante en Crema - - 125'
 date: 2019/11/14 13:37:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A-0nGuzCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A-0nGuzCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.5 EUR
 inStock: true
 ---
 
-Tienes [Lancaster - Desodorante en Crema - - 125 ml](https://www.amazon.com/dp/B001KYYFLK/?tag=redken08-20) con un 69.82 % de descuento con precio de oferta de 8.3 EUR (original: 27.5 EUR) en el siguiente enlace!
+Tienes [Lancaster - Desodorante en Crema - - 125 ml](https://www.amazon.com/dp/B001KYYFLK/?tag=redken08-20) a precio de oferta de 8.3 EUR (original: 27.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31A-0nGuzCL._SL200_.jpg)](https://www.amazon.com/dp/B001KYYFLK/?tag=redken08-20)
 

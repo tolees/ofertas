@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Michael Kors 40S9CHFP1L - Náuticos de Cu al 64.71 % de descuento'
+title: 'Michael Kors 40S9CHFP1L - Náuticos de Cu'
 date: 2019/10/11 21:29:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kyfE8V4ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kyfE8V4ML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139.17 EUR
 inStock: true
 ---
 
-Está [Michael Kors 40S9CHFP1L - Náuticos de Cuero Mujer  Color Beige  Talla 40 EU](https://www.amazon.com/dp/B07L1YDN6B/?tag=redken08-20) con 64.71 de descuento por 49.12 EUR (original: 139.17 EUR) en el siguiente enlace!
+Está [Michael Kors 40S9CHFP1L - Náuticos de Cuero Mujer  Color Beige  Talla 40 EU](https://www.amazon.com/dp/B07L1YDN6B/?tag=redken08-20) por 49.12 EUR (original: 139.17 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31kyfE8V4ML._SL200_.jpg)](https://www.amazon.com/dp/B07L1YDN6B/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Botín de Ante con Tacón Western Mu al 53.19 % de descuento'
+title: 'find. Botín de Ante con Tacón Western Mu'
 date: 2020-01-08 13:24:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oZ6fU4R-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oZ6fU4R-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35.25 EUR
 inStock: true
 ---
 
-Está [find. Botín de Ante con Tacón Western Mujer  Azul  Navy Navy   37 EU](https://www.amazon.com/dp/B079FWGHPF/?tag=redken08-20) con 53.19 de descuento por 16.5 EUR (original: 35.25 EUR) en el siguiente enlace!
+Está [find. Botín de Ante con Tacón Western Mujer  Azul  Navy Navy   37 EU](https://www.amazon.com/dp/B079FWGHPF/?tag=redken08-20) por 16.5 EUR (original: 35.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31oZ6fU4R-L._SL200_.jpg)](https://www.amazon.com/dp/B079FWGHPF/?tag=redken08-20)
 

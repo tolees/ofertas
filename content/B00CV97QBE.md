@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'De Longhi Dolce Gusto Mini Me EDG305.BG  al 34.34 % de descuento'
+title: 'De Longhi Dolce Gusto Mini Me EDG305.BG '
 date: 2019/11/24 15:32:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h6yDcpkmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h6yDcpkmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [De Longhi Dolce Gusto Mini Me EDG305.BG - Cafetera de cápsulas  15 bares de presión  color negro y gris](https://www.amazon.com/dp/B00CV97QBE/?tag=redken08-20) con 34.34 de descuento por 65 EUR (original: 99 EUR) en el siguiente enlace!
+Está [De Longhi Dolce Gusto Mini Me EDG305.BG - Cafetera de cápsulas  15 bares de presión  color negro y gris](https://www.amazon.com/dp/B00CV97QBE/?tag=redken08-20) por 65 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41h6yDcpkmL._SL200_.jpg)](https://www.amazon.com/dp/B00CV97QBE/?tag=redken08-20)
 

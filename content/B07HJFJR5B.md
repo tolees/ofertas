@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Polaroid PLD 2068/S/X Gafas de Sol  Mult al 42.86 % de descuento'
+title: 'Polaroid PLD 2068/S/X Gafas de Sol  Mult'
 date: 2019/11/04 18:10:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mEMGdEfQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mEMGdEfQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Polaroid PLD 2068/S/X Gafas de Sol  Multicolor  Ruthenium   58 para Hombre](https://www.amazon.com/dp/B07HJFJR5B/?tag=redken08-20) a 40 EUR (original: 70 EUR) (42.86 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Polaroid PLD 2068/S/X Gafas de Sol  Multicolor  Ruthenium   58 para Hombre](https://www.amazon.com/dp/B07HJFJR5B/?tag=redken08-20) a 40 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31mEMGdEfQL._SL200_.jpg)](https://www.amazon.com/dp/B07HJFJR5B/?tag=redken08-20)
 

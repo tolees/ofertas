@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Honor Play  black  unlocked al 41.78 % de descuento'
+title: 'Honor Play  black  unlocked'
 date: 2019/11/27 12:01:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415oqXgKDmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415oqXgKDmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 366.77 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Honor Play  black  unlocked](https://www.amazon.com/dp/B01LYV3QUE/?tag=redken08-20) a 213.55 GBP (original: 366.77 GBP) (41.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Honor Play  black  unlocked](https://www.amazon.com/dp/B01LYV3QUE/?tag=redken08-20) a 213.55 GBP (original: 366.77 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415oqXgKDmL._SL200_.jpg)](https://www.amazon.com/dp/B01LYV3QUE/?tag=redken08-20)
 

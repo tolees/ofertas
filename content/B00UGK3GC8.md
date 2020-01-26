@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Professionnel Vitamino Color Fre al 66.14 % de descuento'
+title: 'L Oréal Professionnel Vitamino Color Fre'
 date: 2019/11/04 03:53:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AB0p%2BtX3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AB0p%2BtX3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Oréal Professionnel Vitamino Color Fresh Feel Bodifying - Mascarilla de cabello  150 ml](https://www.amazon.com/dp/B00UGK3GC8/?tag=redken08-20) a 9.99 EUR (original: 29.5 EUR) (66.14 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [L Oréal Professionnel Vitamino Color Fresh Feel Bodifying - Mascarilla de cabello  150 ml](https://www.amazon.com/dp/B00UGK3GC8/?tag=redken08-20) a 9.99 EUR (original: 29.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31AB0p%2BtX3L._SL200_.jpg)](https://www.amazon.com/dp/B00UGK3GC8/?tag=redken08-20)
 

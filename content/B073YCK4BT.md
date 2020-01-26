@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Esprit 107ee1b038  Pantalones Mujer  Gri al 79.10 % de descuento'
+title: 'Esprit 107ee1b038  Pantalones Mujer  Gri'
 date: 2019/11/11 15:44:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BAc%2BFijL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BAc%2BFijL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Esprit 107ee1b038  Pantalones Mujer  Gris  Dark Grey 020   W34/L32](https://www.amazon.com/dp/B073YCK4BT/?tag=redken08-20) con 79.10 de descuento por 12.54 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Esprit 107ee1b038  Pantalones Mujer  Gris  Dark Grey 020   W34/L32](https://www.amazon.com/dp/B073YCK4BT/?tag=redken08-20) por 12.54 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41B%2BAc%2BFijL._SL200_.jpg)](https://www.amazon.com/dp/B073YCK4BT/?tag=redken08-20)
 

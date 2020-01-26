@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Ua Hg Print Armour Capri Pa al 69.64 % de descuento'
+title: 'Under Armour Ua Hg Print Armour Capri Pa'
 date: 2019/10/10 10:27:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O2Hn0eqfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O2Hn0eqfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Ua Hg Print Armour Capri Pantalones Pirata  Mujer  Rojo  Coral Cove   XL](https://www.amazon.com/dp/B074JLD1WN/?tag=redken08-20) a 13.66 EUR (original: 45 EUR) (69.64 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Ua Hg Print Armour Capri Pantalones Pirata  Mujer  Rojo  Coral Cove   XL](https://www.amazon.com/dp/B074JLD1WN/?tag=redken08-20) a 13.66 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41O2Hn0eqfL._SL200_.jpg)](https://www.amazon.com/dp/B074JLD1WN/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 67.68 % en Cortefiel C7Cc Camiseta Raya Indigo Cami'
+title: 'Cortefiel C7Cc Camiseta Raya Indigo Cami'
 date: 2019/11/08 00:49:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Di7PEtO7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Di7PEtO7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.99 EUR
 inStock: true
 ---
 
-Tienes [Cortefiel C7Cc Camiseta Raya Indigo Camiseta  Hombre  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.com/dp/B07KZ5MXG8/?tag=redken08-20) con un 67.68 % de descuento con precio de oferta de 7.43 EUR (original: 22.99 EUR) en el siguiente enlace!
+Tienes [Cortefiel C7Cc Camiseta Raya Indigo Camiseta  Hombre  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.com/dp/B07KZ5MXG8/?tag=redken08-20) a precio de oferta de 7.43 EUR (original: 22.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Di7PEtO7L._SL200_.jpg)](https://www.amazon.com/dp/B07KZ5MXG8/?tag=redken08-20)
 

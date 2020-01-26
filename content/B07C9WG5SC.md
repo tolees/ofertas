@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Daren Jeans Vaqueros Straight  Azul  al 63.76 % de descuento'
+title: 'Lee Daren Jeans Vaqueros Straight  Azul '
 date: 2019/11/05 03:55:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hFMrlg0kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hFMrlg0kL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Daren Jeans Vaqueros Straight  Azul  Bright Sea CB   29W / 34L para Hombre](https://www.amazon.com/dp/B07C9WG5SC/?tag=redken08-20) a 36.22 EUR (original: 99.95 EUR) (63.76 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lee Daren Jeans Vaqueros Straight  Azul  Bright Sea CB   29W / 34L para Hombre](https://www.amazon.com/dp/B07C9WG5SC/?tag=redken08-20) a 36.22 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hFMrlg0kL._SL200_.jpg)](https://www.amazon.com/dp/B07C9WG5SC/?tag=redken08-20)
 

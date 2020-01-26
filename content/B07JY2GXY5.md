@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Leggins largos de de al 25.00 % de descuento'
+title: 'Amazon Essentials - Leggins largos de de'
 date: 2019/10/29 12:00:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QZZ5aL2qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QZZ5aL2qL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Amazon Essentials - Leggins largos de deporte para niña  Confeti  US S  EU 116 CM ](https://www.amazon.com/dp/B07JY2GXY5/?tag=redken08-20) a 6.75 EUR (original: 9 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Amazon Essentials - Leggins largos de deporte para niña  Confeti  US S  EU 116 CM ](https://www.amazon.com/dp/B07JY2GXY5/?tag=redken08-20) a 6.75 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QZZ5aL2qL._SL200_.jpg)](https://www.amazon.com/dp/B07JY2GXY5/?tag=redken08-20)
 

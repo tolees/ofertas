@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Soho Vaqueros  Old Navy  27W  al 43.02 % de descuento'
+title: 'Pepe Jeans Soho Vaqueros  Old Navy  27W '
 date: 2019/12/17 17:15:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mPCXy-gPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mPCXy-gPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Soho Vaqueros  Old Navy  27W / 28L para Mujer](https://www.amazon.com/dp/B07MZPTHHS/?tag=redken08-20) con 43.02 de descuento por 37.04 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Pepe Jeans Soho Vaqueros  Old Navy  27W / 28L para Mujer](https://www.amazon.com/dp/B07MZPTHHS/?tag=redken08-20) por 37.04 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31mPCXy-gPL._SL200_.jpg)](https://www.amazon.com/dp/B07MZPTHHS/?tag=redken08-20)
 

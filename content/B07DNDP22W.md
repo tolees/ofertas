@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DANISH ENDURANCE Calcetines de Lana Meri al 30.15 % de descuento'
+title: 'DANISH ENDURANCE Calcetines de Lana Meri'
 date: 2019/10/06 18:44:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UgPmAOkjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UgPmAOkjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DANISH ENDURANCE Calcetines de Lana Merino  Negro - 1 Par  EU 39-42 ](https://www.amazon.com/dp/B07DNDP22W/?tag=redken08-20) a 6.95 EUR (original: 9.95 EUR) (30.15 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [DANISH ENDURANCE Calcetines de Lana Merino  Negro - 1 Par  EU 39-42 ](https://www.amazon.com/dp/B07DNDP22W/?tag=redken08-20) a 6.95 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UgPmAOkjL._SL200_.jpg)](https://www.amazon.com/dp/B07DNDP22W/?tag=redken08-20)
 

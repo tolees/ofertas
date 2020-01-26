@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Landoh Shirt L/s Camisa  Azul al 68.49 % de descuento'
+title: 'G-STAR RAW Landoh Shirt L/s Camisa  Azul'
 date: 2019/10/15 13:30:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jgp3SgRDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jgp3SgRDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [G-STAR RAW Landoh Shirt L/s Camisa  Azul  Legion Blue 862   Small para Hombre](https://www.amazon.com/dp/B0752SPCGL/?tag=redken08-20) a 28.34 EUR (original: 89.95 EUR) (68.49 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [G-STAR RAW Landoh Shirt L/s Camisa  Azul  Legion Blue 862   Small para Hombre](https://www.amazon.com/dp/B0752SPCGL/?tag=redken08-20) a 28.34 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Jgp3SgRDL._SL200_.jpg)](https://www.amazon.com/dp/B0752SPCGL/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Step Urban Mix  Zapatillas para H al 48.93 % de descuento'
+title: 'Clarks Step Urban Mix  Zapatillas para H'
 date: 2019/11/06 15:29:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hh04kJWhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hh04kJWhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Clarks Step Urban Mix  Zapatillas para Hombre  Negro  Black-   45 EU](https://www.amazon.com/dp/B07FQX2F7J/?tag=redken08-20) a 35.72 EUR (original: 69.95 EUR) (48.93 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Clarks Step Urban Mix  Zapatillas para Hombre  Negro  Black-   45 EU](https://www.amazon.com/dp/B07FQX2F7J/?tag=redken08-20) a 35.72 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hh04kJWhL._SL200_.jpg)](https://www.amazon.com/dp/B07FQX2F7J/?tag=redken08-20)
 

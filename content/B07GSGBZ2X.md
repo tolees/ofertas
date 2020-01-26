@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 51.49 % en JACK & JONES Jjitim Jjoriginal Am 816 Va'
+title: 'JACK & JONES Jjitim Jjoriginal Am 816 Va'
 date: 2019/11/09 13:13:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CW19HoLhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CW19HoLhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [JACK & JONES Jjitim Jjoriginal Am 816 Vaqueros Slim Fit  Negro Black Denim  W32/L32  Talla del Fabricante: 32  para Hombre](https://www.amazon.com/dp/B07GSGBZ2X/?tag=redken08-20) con un 51.49 % de descuento con precio de oferta de 19.4 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [JACK & JONES Jjitim Jjoriginal Am 816 Vaqueros Slim Fit  Negro Black Denim  W32/L32  Talla del Fabricante: 32  para Hombre](https://www.amazon.com/dp/B07GSGBZ2X/?tag=redken08-20) a precio de oferta de 19.4 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CW19HoLhL._SL200_.jpg)](https://www.amazon.com/dp/B07GSGBZ2X/?tag=redken08-20)
 

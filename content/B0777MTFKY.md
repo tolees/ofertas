@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA W Squad 2  Zapatillas de al 48.83 % de descuento'
+title: 'Under Armour UA W Squad 2  Zapatillas de'
 date: 2019/10/20 22:19:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YrLFWGYoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YrLFWGYoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 72.48 EUR
 inStock: true
 ---
 
-Está [Under Armour UA W Squad 2  Zapatillas de Deporte para Mujer  Negro  Black   38 EU](https://www.amazon.com/dp/B0777MTFKY/?tag=redken08-20) con 48.83 de descuento por 37.09 EUR (original: 72.48 EUR) en el siguiente enlace!
+Está [Under Armour UA W Squad 2  Zapatillas de Deporte para Mujer  Negro  Black   38 EU](https://www.amazon.com/dp/B0777MTFKY/?tag=redken08-20) por 37.09 EUR (original: 72.48 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YrLFWGYoL._SL200_.jpg)](https://www.amazon.com/dp/B0777MTFKY/?tag=redken08-20)
 

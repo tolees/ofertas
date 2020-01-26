@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.00 % en New Balance 247v2  Zapatillas para Hombr'
+title: 'New Balance 247v2  Zapatillas para Hombr'
 date: 2019/10/29 06:23:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411y0-REagL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411y0-REagL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Tienes [New Balance 247v2  Zapatillas para Hombre  Rojo  NB Burgundy/Silver FG   44 EU](https://www.amazon.com/dp/B07DJ5ZLRL/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 45 EUR (original: 90 EUR) en el siguiente enlace!
+Tienes [New Balance 247v2  Zapatillas para Hombre  Rojo  NB Burgundy/Silver FG   44 EU](https://www.amazon.com/dp/B07DJ5ZLRL/?tag=redken08-20) a precio de oferta de 45 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411y0-REagL._SL200_.jpg)](https://www.amazon.com/dp/B07DJ5ZLRL/?tag=redken08-20)
 

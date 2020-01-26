@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 64.66 % en Under Armour 1320610 UA Slim Leg Crop - '
+title: 'Under Armour 1320610 UA Slim Leg Crop - '
 date: 2019/10/22 17:24:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QkN3XB7bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QkN3XB7bL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Tienes [Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa para mujer  Gris  035   XS](https://www.amazon.com/dp/B077XNP8SW/?tag=redken08-20) con un 64.66 % de descuento con precio de oferta de 17.67 EUR (original: 50 EUR) en el siguiente enlace!
+Tienes [Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa para mujer  Gris  035   XS](https://www.amazon.com/dp/B077XNP8SW/?tag=redken08-20) a precio de oferta de 17.67 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QkN3XB7bL._SL200_.jpg)](https://www.amazon.com/dp/B077XNP8SW/?tag=redken08-20)
 

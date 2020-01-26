@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Esparre Winter C 319 1 CMA  Zapa al 30.00 % de descuento'
+title: 'Lacoste Esparre Winter C 319 1 CMA  Zapa'
 date: 2019/12/06 09:50:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KpNfEncJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KpNfEncJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 125 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Esparre Winter C 319 1 CMA  Zapatillas para Hombre  Negro Black 02h  40 EU](https://www.amazon.com/dp/B07L9NVC4K/?tag=redken08-20) a 87.5 EUR (original: 125 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Esparre Winter C 319 1 CMA  Zapatillas para Hombre  Negro Black 02h  40 EU](https://www.amazon.com/dp/B07L9NVC4K/?tag=redken08-20) a 87.5 EUR (original: 125 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KpNfEncJL._SL200_.jpg)](https://www.amazon.com/dp/B07L9NVC4K/?tag=redken08-20)
 

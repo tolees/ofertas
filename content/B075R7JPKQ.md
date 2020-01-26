@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam Cruz v2 Knit  Zap al 48.67 % de descuento'
+title: 'New Balance Fresh Foam Cruz v2 Knit  Zap'
 date: 2019/10/22 01:23:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414A9bp4K3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414A9bp4K3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [New Balance Fresh Foam Cruz v2 Knit  Zapatillas de Running para Hombre  Negro  Black/Magnet/White Kb2   40.5 EU](https://www.amazon.com/dp/B075R7JPKQ/?tag=redken08-20) con 48.67 de descuento por 46.2 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance Fresh Foam Cruz v2 Knit  Zapatillas de Running para Hombre  Negro  Black/Magnet/White Kb2   40.5 EU](https://www.amazon.com/dp/B075R7JPKQ/?tag=redken08-20) por 46.2 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414A9bp4K3L._SL200_.jpg)](https://www.amazon.com/dp/B075R7JPKQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nippon Marathon al 33.32 % de descuento'
+title: 'Nippon Marathon'
 date: 2020-01-19 17:35:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ajAZLY2tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ajAZLY2tL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nippon Marathon](https://www.amazon.com/dp/B07SMK14WK/?tag=redken08-20) a 13.33 EUR (original: 19.99 EUR) (33.32 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Nippon Marathon](https://www.amazon.com/dp/B07SMK14WK/?tag=redken08-20) a 13.33 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ajAZLY2tL._SL200_.jpg)](https://www.amazon.com/dp/B07SMK14WK/?tag=redken08-20)
 

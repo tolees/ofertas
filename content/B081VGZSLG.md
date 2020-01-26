@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IMEKIS Kid Girls Princess Dress Frozen E al 70.05 % de descuento'
+title: 'IMEKIS Kid Girls Princess Dress Frozen E'
 date: 2019/12/09 18:10:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RfLirwrpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RfLirwrpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30.99 GBP
 inStock: true
 ---
 
-Está [IMEKIS Kid Girls Princess Dress Frozen Elsa Anna Dress Up Snowflakes Snow Queen Fancy Party Outfit Christmas Halloween Carnival Fairy Tale Clothes Ice Queen Deluxe Costume Blue 5-6 Years](https://www.amazon.com/dp/B081VGZSLG/?tag=redken08-20) con 70.05 de descuento por 9.28 GBP (original: 30.99 GBP) en el siguiente enlace!
+Está [IMEKIS Kid Girls Princess Dress Frozen Elsa Anna Dress Up Snowflakes Snow Queen Fancy Party Outfit Christmas Halloween Carnival Fairy Tale Clothes Ice Queen Deluxe Costume Blue 5-6 Years](https://www.amazon.com/dp/B081VGZSLG/?tag=redken08-20) por 9.28 GBP (original: 30.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RfLirwrpL._SL200_.jpg)](https://www.amazon.com/dp/B081VGZSLG/?tag=redken08-20)
 

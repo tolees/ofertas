@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shots Juguetes Eróticos 1 Unidad 110 g al 55.21 % de descuento'
+title: 'Shots Juguetes Eróticos 1 Unidad 110 g'
 date: 2019/11/07 12:47:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dFWHhbutL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dFWHhbutL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.9 EUR
 inStock: true
 ---
 
-Está [Shots Juguetes Eróticos 1 Unidad 110 g](https://www.amazon.com/dp/B00N3OIJ5S/?tag=redken08-20) con 55.21 de descuento por 5.33 EUR (original: 11.9 EUR) en el siguiente enlace!
+Está [Shots Juguetes Eróticos 1 Unidad 110 g](https://www.amazon.com/dp/B00N3OIJ5S/?tag=redken08-20) por 5.33 EUR (original: 11.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dFWHhbutL._SL200_.jpg)](https://www.amazon.com/dp/B00N3OIJ5S/?tag=redken08-20)
 

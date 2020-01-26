@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW D-STAQ Mid Waist Skinny Ankle al 84.48 % de descuento'
+title: 'G-STAR RAW D-STAQ Mid Waist Skinny Ankle'
 date: 2019/10/28 11:50:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LKDMezAlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LKDMezAlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119.95 EUR
 inStock: true
 ---
 
-Está [G-STAR RAW D-STAQ Mid Waist Skinny Ankle Chino Vaqueros  Negro  Dk Black 9285-6484   23W / 30L para Mujer](https://www.amazon.com/dp/B07CZ83JQS/?tag=redken08-20) con 84.48 de descuento por 18.62 EUR (original: 119.95 EUR) en el siguiente enlace!
+Está [G-STAR RAW D-STAQ Mid Waist Skinny Ankle Chino Vaqueros  Negro  Dk Black 9285-6484   23W / 30L para Mujer](https://www.amazon.com/dp/B07CZ83JQS/?tag=redken08-20) por 18.62 EUR (original: 119.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31LKDMezAlL._SL200_.jpg)](https://www.amazon.com/dp/B07CZ83JQS/?tag=redken08-20)
 

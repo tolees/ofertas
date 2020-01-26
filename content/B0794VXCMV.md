@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fire HD 8 Kids Edition Tablet  8" HD Dis al 34.62 % de descuento'
+title: 'Fire HD 8 Kids Edition Tablet  8" HD Dis'
 date: 2019/11/23 20:11:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NQEuvZWjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NQEuvZWjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Fire HD 8 Kids Edition Tablet  8" HD Display  32 GB  Pink Kid-Proof Case](https://www.amazon.com/dp/B0794VXCMV/?tag=redken08-20) a 84.99 GBP (original: 129.99 GBP) (34.62 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Fire HD 8 Kids Edition Tablet  8" HD Display  32 GB  Pink Kid-Proof Case](https://www.amazon.com/dp/B0794VXCMV/?tag=redken08-20) a 84.99 GBP (original: 129.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51NQEuvZWjL._SL200_.jpg)](https://www.amazon.com/dp/B0794VXCMV/?tag=redken08-20)
 

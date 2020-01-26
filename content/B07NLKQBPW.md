@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Versace Jeans CoutureBorsaMujerBolso de  al 34.49 % de descuento'
+title: 'Versace Jeans CoutureBorsaMujerBolso de '
 date: 2019/11/17 12:00:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418a7EZt3VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418a7EZt3VL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 234 EUR
 inStock: true
 ---
 
-Está [Versace Jeans CoutureBorsaMujerBolso de manoNegro  Negro  7x18x24 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLKQBPW/?tag=redken08-20) con 34.49 de descuento por 153.3 EUR (original: 234 EUR) en el siguiente enlace!
+Está [Versace Jeans CoutureBorsaMujerBolso de manoNegro  Negro  7x18x24 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLKQBPW/?tag=redken08-20) por 153.3 EUR (original: 234 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418a7EZt3VL._SL200_.jpg)](https://www.amazon.com/dp/B07NLKQBPW/?tag=redken08-20)
 

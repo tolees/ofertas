@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '¡Shazam! Blu-Ray Uhd 4k [Blu-ray] al 48.06 % de descuento'
+title: '¡Shazam! Blu-Ray Uhd 4k [Blu-ray]'
 date: 2019/11/26 19:21:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ntau2pxqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ntau2pxqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [¡Shazam! Blu-Ray Uhd 4k [Blu-ray]](https://www.amazon.com/dp/B07SWKBYX8/?tag=redken08-20) a 13.5 EUR (original: 25.99 EUR) (48.06 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [¡Shazam! Blu-Ray Uhd 4k [Blu-ray]](https://www.amazon.com/dp/B07SWKBYX8/?tag=redken08-20) a 13.5 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Ntau2pxqL._SL200_.jpg)](https://www.amazon.com/dp/B07SWKBYX8/?tag=redken08-20)
 

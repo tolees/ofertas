@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Finsbury Vaqueros Pitillo Hom al 70.70 % de descuento'
+title: 'Pepe Jeans Finsbury Vaqueros Pitillo Hom'
 date: 2019/10/11 23:55:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SbVXZy2eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SbVXZy2eL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.9 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Finsbury Vaqueros Pitillo Hombre  Gris  Wiser Wash Grey Used Denim Wy0   W40/L34 para](https://www.amazon.com/dp/B07NCBLJM7/?tag=redken08-20) con 70.70 de descuento por 26.34 EUR (original: 89.9 EUR) en el siguiente enlace!
+Está [Pepe Jeans Finsbury Vaqueros Pitillo Hombre  Gris  Wiser Wash Grey Used Denim Wy0   W40/L34 para](https://www.amazon.com/dp/B07NCBLJM7/?tag=redken08-20) por 26.34 EUR (original: 89.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31SbVXZy2eL._SL200_.jpg)](https://www.amazon.com/dp/B07NCBLJM7/?tag=redken08-20)
 

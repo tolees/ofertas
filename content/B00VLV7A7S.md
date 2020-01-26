@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 6197 City Action Satellite Met al 27.91 % de descuento'
+title: 'Playmobil 6197 City Action Satellite Met'
 date: 2019/12/04 13:19:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-qL12uh%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61-qL12uh%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil 6197 City Action Satellite Meteoroid Laser with Destroyable Meteor](https://www.amazon.com/dp/B00VLV7A7S/?tag=redken08-20) a 14.41 GBP (original: 19.99 GBP) (27.91 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Playmobil 6197 City Action Satellite Meteoroid Laser with Destroyable Meteor](https://www.amazon.com/dp/B00VLV7A7S/?tag=redken08-20) a 14.41 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61-qL12uh%2BL._SL200_.jpg)](https://www.amazon.com/dp/B00VLV7A7S/?tag=redken08-20)
 

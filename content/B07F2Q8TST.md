@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Loke Chaqueta  Hombre  Amar al 57.35 % de descuento'
+title: 'Helly Hansen Loke Chaqueta  Hombre  Amar'
 date: 2019/11/23 13:11:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WbMpOUOzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WbMpOUOzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Loke Chaqueta  Hombre  Amarillo  2XL](https://www.amazon.com/dp/B07F2Q8TST/?tag=redken08-20) con 57.35 de descuento por 42.65 EUR (original: 100 EUR) en el siguiente enlace!
+Está [Helly Hansen Loke Chaqueta  Hombre  Amarillo  2XL](https://www.amazon.com/dp/B07F2Q8TST/?tag=redken08-20) por 42.65 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WbMpOUOzL._SL200_.jpg)](https://www.amazon.com/dp/B07F2Q8TST/?tag=redken08-20)
 

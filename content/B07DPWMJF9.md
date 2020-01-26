@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam 1080v9  Zapatilla al 51.78 % de descuento'
+title: 'New Balance Fresh Foam 1080v9  Zapatilla'
 date: 2019/11/18 02:18:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FvW5Z7e2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FvW5Z7e2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 170 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance Fresh Foam 1080v9  Zapatillas de Running para Hombre  Azul  Deep Ozone Blue/Dark Neptune/Black   40 EU](https://www.amazon.com/dp/B07DPWMJF9/?tag=redken08-20) a 81.97 EUR (original: 170 EUR) (51.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance Fresh Foam 1080v9  Zapatillas de Running para Hombre  Azul  Deep Ozone Blue/Dark Neptune/Black   40 EU](https://www.amazon.com/dp/B07DPWMJF9/?tag=redken08-20) a 81.97 EUR (original: 170 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FvW5Z7e2L._SL200_.jpg)](https://www.amazon.com/dp/B07DPWMJF9/?tag=redken08-20)
 

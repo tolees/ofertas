@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.22 % en adidas Squad 17 Sho Pantalón Corto  Homb'
+title: 'adidas Squad 17 Sho Pantalón Corto  Homb'
 date: 2019/10/23 21:54:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411g48At3tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411g48At3tL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [adidas Squad 17 Sho Pantalón Corto  Hombre  Negro  Negro / Blanco   M](https://www.amazon.com/dp/B01MRJR0WX/?tag=redken08-20) con un 40.22 % de descuento con precio de oferta de 11.95 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [adidas Squad 17 Sho Pantalón Corto  Hombre  Negro  Negro / Blanco   M](https://www.amazon.com/dp/B01MRJR0WX/?tag=redken08-20) a precio de oferta de 11.95 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411g48At3tL._SL200_.jpg)](https://www.amazon.com/dp/B01MRJR0WX/?tag=redken08-20)
 

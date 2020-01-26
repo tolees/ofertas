@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 70.02 % en Lee Wool Loco Sherpa Chaqueta  Rojo  War'
+title: 'Lee Wool Loco Sherpa Chaqueta  Rojo  War'
 date: 2019/11/22 19:07:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xw1nsIKRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xw1nsIKRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 179.95 EUR
 inStock: true
 ---
 
-Tienes [Lee Wool Loco Sherpa Chaqueta  Rojo  Warp Red Kg   XX-Large para Hombre](https://www.amazon.com/dp/B07N15PZHB/?tag=redken08-20) con un 70.02 % de descuento con precio de oferta de 53.95 EUR (original: 179.95 EUR) en el siguiente enlace!
+Tienes [Lee Wool Loco Sherpa Chaqueta  Rojo  Warp Red Kg   XX-Large para Hombre](https://www.amazon.com/dp/B07N15PZHB/?tag=redken08-20) a precio de oferta de 53.95 EUR (original: 179.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xw1nsIKRL._SL200_.jpg)](https://www.amazon.com/dp/B07N15PZHB/?tag=redken08-20)
 

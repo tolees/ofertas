@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LCQI Dardos Punta Acero Bandera Inglater al 25.16 % de descuento'
+title: 'LCQI Dardos Punta Acero Bandera Inglater'
 date: 2020-01-14 21:16:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BiC6sEaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BiC6sEaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LCQI Dardos Punta Acero Bandera Inglaterra Gran Bretaña UK](https://www.amazon.com/dp/B07YGTNH27/?tag=redken08-20) a 5.95 EUR (original: 7.95 EUR) (25.16 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LCQI Dardos Punta Acero Bandera Inglaterra Gran Bretaña UK](https://www.amazon.com/dp/B07YGTNH27/?tag=redken08-20) a 5.95 EUR (original: 7.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41j%2BiC6sEaL._SL200_.jpg)](https://www.amazon.com/dp/B07YGTNH27/?tag=redken08-20)
 

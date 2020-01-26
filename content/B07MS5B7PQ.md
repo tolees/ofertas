@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.99 % en First Man: El Primer Hombre - Edición Es'
+title: 'First Man: El Primer Hombre - Edición Es'
 date: 2019/11/11 12:31:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qAtnZveVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qAtnZveVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.72 EUR
 inStock: true
 ---
 
-Tienes [First Man: El Primer Hombre - Edición Especial Metal Limitada [Blu-ray]](https://www.amazon.com/dp/B07MS5B7PQ/?tag=redken08-20) con un 37.99 % de descuento con precio de oferta de 16.57 EUR (original: 26.72 EUR) en el siguiente enlace!
+Tienes [First Man: El Primer Hombre - Edición Especial Metal Limitada [Blu-ray]](https://www.amazon.com/dp/B07MS5B7PQ/?tag=redken08-20) a precio de oferta de 16.57 EUR (original: 26.72 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qAtnZveVL._SL200_.jpg)](https://www.amazon.com/dp/B07MS5B7PQ/?tag=redken08-20)
 

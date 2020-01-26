@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wella  Mousse y espuma - 500 ml. al 56.92 % de descuento'
+title: 'Wella  Mousse y espuma - 500 ml.'
 date: 2019/10/31 17:18:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s9TcgEosL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s9TcgEosL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 33.66 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Wella  Mousse y espuma - 500 ml.](https://www.amazon.com/dp/B010TGYEMY/?tag=redken08-20) a 14.5 EUR (original: 33.66 EUR) (56.92 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Wella  Mousse y espuma - 500 ml.](https://www.amazon.com/dp/B010TGYEMY/?tag=redken08-20) a 14.5 EUR (original: 33.66 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31s9TcgEosL._SL200_.jpg)](https://www.amazon.com/dp/B010TGYEMY/?tag=redken08-20)
 

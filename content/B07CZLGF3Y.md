@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 48.60 % en Under Armour Tech 3In 2 Pack Ropa Interi'
+title: 'Under Armour Tech 3In 2 Pack Ropa Interi'
 date: 2019/12/18 14:07:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411JywmoQTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411JywmoQTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Tienes [Under Armour Tech 3In 2 Pack Ropa Interior  Hombre  Azul  Royal/Academy 400   S](https://www.amazon.com/dp/B07CZLGF3Y/?tag=redken08-20) con un 48.60 % de descuento con precio de oferta de 17.99 EUR (original: 35 EUR) en el siguiente enlace!
+Tienes [Under Armour Tech 3In 2 Pack Ropa Interior  Hombre  Azul  Royal/Academy 400   S](https://www.amazon.com/dp/B07CZLGF3Y/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411JywmoQTL._SL200_.jpg)](https://www.amazon.com/dp/B07CZLGF3Y/?tag=redken08-20)
 

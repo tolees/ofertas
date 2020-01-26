@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Favorite Legging WM Graphic al 61.98 % de descuento'
+title: 'Under Armour Favorite Legging WM Graphic'
 date: 2019/11/09 18:31:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B9tdT4xBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B9tdT4xBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Favorite Legging WM Graphic Pantalón  Mujer  Gris  L](https://www.amazon.com/dp/B01M4LO6PK/?tag=redken08-20) a 20.91 EUR (original: 55 EUR) (61.98 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Favorite Legging WM Graphic Pantalón  Mujer  Gris  L](https://www.amazon.com/dp/B01M4LO6PK/?tag=redken08-20) a 20.91 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41B9tdT4xBL._SL200_.jpg)](https://www.amazon.com/dp/B01M4LO6PK/?tag=redken08-20)
 

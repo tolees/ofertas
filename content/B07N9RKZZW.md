@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diesel S-akura Shirt Camisa  Negro  Blac al 72.04 % de descuento'
+title: 'Diesel S-akura Shirt Camisa  Negro  Blac'
 date: 2019/10/06 19:24:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tzw6CVzKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tzw6CVzKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Diesel S-akura Shirt Camisa  Negro  Black 900   X-Large para Hombre](https://www.amazon.com/dp/B07N9RKZZW/?tag=redken08-20) con 72.04 de descuento por 27.68 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Diesel S-akura Shirt Camisa  Negro  Black 900   X-Large para Hombre](https://www.amazon.com/dp/B07N9RKZZW/?tag=redken08-20) por 27.68 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tzw6CVzKL._SL200_.jpg)](https://www.amazon.com/dp/B07N9RKZZW/?tag=redken08-20)
 

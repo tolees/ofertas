@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia 1840921 F.K.T.  Cortavientos ul al 68.17 % de descuento'
+title: 'Columbia 1840921 F.K.T.  Cortavientos ul'
 date: 2019/11/04 21:19:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416-ptkZYzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416-ptkZYzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [Columbia 1840921 F.K.T.  Cortavientos ultraligero  Hombre   Nailon   Azul  Deep Lagoon Embossed Print/Zour Zip    Talla XXL](https://www.amazon.com/dp/B07KRWC3NW/?tag=redken08-20) con 68.17 de descuento por 25.46 EUR (original: 79.99 EUR) en el siguiente enlace!
+Está [Columbia 1840921 F.K.T.  Cortavientos ultraligero  Hombre   Nailon   Azul  Deep Lagoon Embossed Print/Zour Zip    Talla XXL](https://www.amazon.com/dp/B07KRWC3NW/?tag=redken08-20) por 25.46 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416-ptkZYzL._SL200_.jpg)](https://www.amazon.com/dp/B07KRWC3NW/?tag=redken08-20)
 

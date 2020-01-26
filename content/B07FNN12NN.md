@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 41361 Friends Mias Fohlenstall  bun al 30.02 % de descuento'
+title: 'Lego 41361 Friends Mias Fohlenstall  bun'
 date: 2020-01-07 06:31:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hOYNDGSRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hOYNDGSRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Lego 41361 Friends Mias Fohlenstall  bunt](https://www.amazon.com/dp/B07FNN12NN/?tag=redken08-20) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Lego 41361 Friends Mias Fohlenstall  bunt](https://www.amazon.com/dp/B07FNN12NN/?tag=redken08-20) por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51hOYNDGSRL._SL200_.jpg)](https://www.amazon.com/dp/B07FNN12NN/?tag=redken08-20)
 

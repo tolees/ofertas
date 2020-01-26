@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 45.12 % en Funko 36673 POP Bobble: Avengers Endgame'
+title: 'Funko 36673 POP Bobble: Avengers Endgame'
 date: 2019/12/11 21:52:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ytkr01OBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ytkr01OBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.11 GBP
 inStock: true
 ---
 
-Tienes [Funko 36673 POP Bobble: Avengers Endgame: War Machine  Multi](https://www.amazon.com/dp/B07KPTBSP2/?tag=redken08-20) con un 45.12 % de descuento con precio de oferta de 5 GBP (original: 9.11 GBP) en el siguiente enlace!
+Tienes [Funko 36673 POP Bobble: Avengers Endgame: War Machine  Multi](https://www.amazon.com/dp/B07KPTBSP2/?tag=redken08-20) a precio de oferta de 5 GBP (original: 9.11 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ytkr01OBL._SL200_.jpg)](https://www.amazon.com/dp/B07KPTBSP2/?tag=redken08-20)
 

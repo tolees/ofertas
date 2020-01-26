@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toshiba TransMemory U301 - Memoria USB d al 53.57 % de descuento'
+title: 'Toshiba TransMemory U301 - Memoria USB d'
 date: 2019/10/12 18:09:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AfU5p1rTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AfU5p1rTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.9 EUR
 inStock: true
 ---
 
-Está [Toshiba TransMemory U301 - Memoria USB de 32 GB  Color Blanco](https://www.amazon.com/dp/B00X9GK5PW/?tag=redken08-20) con 53.57 de descuento por 5.99 EUR (original: 12.9 EUR) en el siguiente enlace!
+Está [Toshiba TransMemory U301 - Memoria USB de 32 GB  Color Blanco](https://www.amazon.com/dp/B00X9GK5PW/?tag=redken08-20) por 5.99 EUR (original: 12.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31AfU5p1rTL._SL200_.jpg)](https://www.amazon.com/dp/B00X9GK5PW/?tag=redken08-20)
 

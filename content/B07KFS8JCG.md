@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Identity T-Shirt Rundhals Camiseta  al 44.92 % de descuento'
+title: 'BOSS Identity T-Shirt Rundhals Camiseta '
 date: 2019/11/07 11:12:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D63tf9ixL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D63tf9ixL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.95 EUR
 inStock: true
 ---
 
-Está [BOSS Identity T-Shirt Rundhals Camiseta  Gris  Medium Grey 032   Large para Hombre](https://www.amazon.com/dp/B07KFS8JCG/?tag=redken08-20) con 44.92 de descuento por 24.76 EUR (original: 44.95 EUR) en el siguiente enlace!
+Está [BOSS Identity T-Shirt Rundhals Camiseta  Gris  Medium Grey 032   Large para Hombre](https://www.amazon.com/dp/B07KFS8JCG/?tag=redken08-20) por 24.76 EUR (original: 44.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41D63tf9ixL._SL200_.jpg)](https://www.amazon.com/dp/B07KFS8JCG/?tag=redken08-20)
 

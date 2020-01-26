@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'APART Fashion 25151 Vestido  Multicolor  al 78.13 % de descuento'
+title: 'APART Fashion 25151 Vestido  Multicolor '
 date: 2019/10/29 22:13:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h7zeSnvrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h7zeSnvrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 143.88 EUR
 inStock: true
 ---
 
-Está [APART Fashion 25151 Vestido  Multicolor Schwarz-Beere  46 para Mujer](https://www.amazon.com/dp/B071DPDTYD/?tag=redken08-20) con 78.13 de descuento por 31.46 EUR (original: 143.88 EUR) en el siguiente enlace!
+Está [APART Fashion 25151 Vestido  Multicolor Schwarz-Beere  46 para Mujer](https://www.amazon.com/dp/B071DPDTYD/?tag=redken08-20) por 31.46 EUR (original: 143.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31h7zeSnvrL._SL200_.jpg)](https://www.amazon.com/dp/B071DPDTYD/?tag=redken08-20)
 

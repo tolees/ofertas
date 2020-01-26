@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'T-shirt Kappa Lucera al 29.39 % de descuento'
+title: 'T-shirt Kappa Lucera'
 date: 2020-01-13 09:08:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.99 EUR
 inStock: true
 ---
 
-Está [T-shirt Kappa Lucera](https://www.amazon.com/dp/B0753DGSBK/?tag=redken08-20) con 29.39 de descuento por 11.29 EUR (original: 15.99 EUR) en el siguiente enlace!
+Está [T-shirt Kappa Lucera](https://www.amazon.com/dp/B0753DGSBK/?tag=redken08-20) por 11.29 EUR (original: 15.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL200_.jpg)](https://www.amazon.com/dp/B0753DGSBK/?tag=redken08-20)
 

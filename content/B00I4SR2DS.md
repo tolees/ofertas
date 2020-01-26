@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortador de comprimidos transparente con al 53.78 % de descuento'
+title: 'Cortador de comprimidos transparente con'
 date: 2019/10/19 21:19:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bY6HHZqRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bY6HHZqRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.12 EUR
 inStock: true
 ---
 
-Está [Cortador de comprimidos transparente con contenedor](https://www.amazon.com/dp/B00I4SR2DS/?tag=redken08-20) con 53.78 de descuento por 7.45 EUR (original: 16.12 EUR) en el siguiente enlace!
+Está [Cortador de comprimidos transparente con contenedor](https://www.amazon.com/dp/B00I4SR2DS/?tag=redken08-20) por 7.45 EUR (original: 16.12 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31bY6HHZqRL._SL200_.jpg)](https://www.amazon.com/dp/B00I4SR2DS/?tag=redken08-20)
 

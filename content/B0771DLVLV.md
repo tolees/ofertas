@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SHOBDW Invierno Mujeres Moda Informal má al 50.03 % de descuento'
+title: 'SHOBDW Invierno Mujeres Moda Informal má'
 date: 2019/11/30 08:33:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xacfTvkJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xacfTvkJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim sólido Abajo Chaqueta Abrigo  Rojo  S ](https://www.amazon.com/dp/B0771DLVLV/?tag=redken08-20) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim sólido Abajo Chaqueta Abrigo  Rojo  S ](https://www.amazon.com/dp/B0771DLVLV/?tag=redken08-20) por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xacfTvkJL._SL200_.jpg)](https://www.amazon.com/dp/B0771DLVLV/?tag=redken08-20)
 

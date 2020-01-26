@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Vajilla de 18 piezas  Por al 25.01 % de descuento'
+title: 'AmazonBasics - Vajilla de 18 piezas  Por'
 date: 2019/12/09 19:20:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n7YMhdazL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n7YMhdazL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Vajilla de 18 piezas  Porcelana blanca con borde  6 servicios](https://www.amazon.com/dp/B07F7TZGWJ/?tag=redken08-20) a 29.96 EUR (original: 39.95 EUR) (25.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Vajilla de 18 piezas  Porcelana blanca con borde  6 servicios](https://www.amazon.com/dp/B07F7TZGWJ/?tag=redken08-20) a 29.96 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31n7YMhdazL._SL200_.jpg)](https://www.amazon.com/dp/B07F7TZGWJ/?tag=redken08-20)
 

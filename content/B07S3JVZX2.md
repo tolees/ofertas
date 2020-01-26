@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack & Jones NOS Jcojonah tee SS Crew Ne al 58.17 % de descuento'
+title: 'Jack & Jones NOS Jcojonah tee SS Crew Ne'
 date: 2019/12/06 04:51:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4144Mb1kEcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4144Mb1kEcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jack & Jones NOS Jcojonah tee SS Crew Neck STS Camiseta  Azul  Sky Captainslim   Medium para Hombre](https://www.amazon.com/dp/B07S3JVZX2/?tag=redken08-20) a 6.27 EUR (original: 14.99 EUR) (58.17 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Jack & Jones NOS Jcojonah tee SS Crew Neck STS Camiseta  Azul  Sky Captainslim   Medium para Hombre](https://www.amazon.com/dp/B07S3JVZX2/?tag=redken08-20) a 6.27 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4144Mb1kEcL._SL200_.jpg)](https://www.amazon.com/dp/B07S3JVZX2/?tag=redken08-20)
 

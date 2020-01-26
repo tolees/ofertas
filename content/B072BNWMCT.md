@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mediterráneo-41193 FISICA Fisicanova  Ci al 69.99 % de descuento'
+title: 'Mediterráneo-41193 FISICA Fisicanova  Ci'
 date: 2019/11/28 19:16:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DDlC1uVGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DDlC1uVGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [Mediterráneo-41193 FISICA Fisicanova  Cife Spain 41193 ](https://www.amazon.com/dp/B072BNWMCT/?tag=redken08-20) con 69.99 de descuento por 17.99 EUR (original: 59.95 EUR) en el siguiente enlace!
+Está [Mediterráneo-41193 FISICA Fisicanova  Cife Spain 41193 ](https://www.amazon.com/dp/B072BNWMCT/?tag=redken08-20) por 17.99 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51DDlC1uVGL._SL200_.jpg)](https://www.amazon.com/dp/B072BNWMCT/?tag=redken08-20)
 

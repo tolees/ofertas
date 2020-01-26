@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Love Moschino - Jc5600pp18la0500  Unisex al 31.50 % de descuento'
+title: 'Love Moschino - Jc5600pp18la0500  Unisex'
 date: 2019/11/24 22:19:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416i91Wow4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416i91Wow4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 92.5 EUR
 inStock: true
 ---
 
-Está [Love Moschino - Jc5600pp18la0500  Unisex adulto  Rojo  Rosso   9x2x20 cm  W x H L ](https://www.amazon.com/dp/B07KJKS3TP/?tag=redken08-20) con 31.50 de descuento por 63.36 EUR (original: 92.5 EUR) en el siguiente enlace!
+Está [Love Moschino - Jc5600pp18la0500  Unisex adulto  Rojo  Rosso   9x2x20 cm  W x H L ](https://www.amazon.com/dp/B07KJKS3TP/?tag=redken08-20) por 63.36 EUR (original: 92.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416i91Wow4L._SL200_.jpg)](https://www.amazon.com/dp/B07KJKS3TP/?tag=redken08-20)
 

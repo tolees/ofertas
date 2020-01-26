@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars Jedi Fallen Order - PS4 al 37.51 % de descuento'
+title: 'Star Wars Jedi Fallen Order - PS4'
 date: 2020-01-23 13:09:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Mt7XwMY5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Mt7XwMY5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 71.99 EUR
 inStock: true
 ---
 
-Está [Star Wars Jedi Fallen Order - PS4](https://www.amazon.com/dp/B07QPPRT8J/?tag=redken08-20) con 37.51 de descuento por 44.99 EUR (original: 71.99 EUR) en el siguiente enlace!
+Está [Star Wars Jedi Fallen Order - PS4](https://www.amazon.com/dp/B07QPPRT8J/?tag=redken08-20) por 44.99 EUR (original: 71.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Mt7XwMY5L._SL200_.jpg)](https://www.amazon.com/dp/B07QPPRT8J/?tag=redken08-20)
 

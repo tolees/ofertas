@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tom Clancy s Rainbow Six Siege - Gold Ed al 54.99 % de descuento'
+title: 'Tom Clancy s Rainbow Six Siege - Gold Ed'
 date: 2019/12/15 14:05:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RMCGeI9WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RMCGeI9WL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tom Clancy s Rainbow Six Siege - Gold Edition Year 4](https://www.amazon.com/dp/B07Q5VB7VY/?tag=redken08-20) a 27.0 EUR (original: 59.99 EUR) (54.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tom Clancy s Rainbow Six Siege - Gold Edition Year 4](https://www.amazon.com/dp/B07Q5VB7VY/?tag=redken08-20) a 27.0 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RMCGeI9WL._SL200_.jpg)](https://www.amazon.com/dp/B07Q5VB7VY/?tag=redken08-20)
 

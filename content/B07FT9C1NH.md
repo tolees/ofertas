@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider  Vaqueros slim para Hombre  Az al 50.03 % de descuento'
+title: 'Lee Rider  Vaqueros slim para Hombre  Az'
 date: 2019/11/04 12:32:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZSbV1PBDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZSbV1PBDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Lee Rider  Vaqueros slim para Hombre  Azul  Blue Days Ib  W30/L32](https://www.amazon.com/dp/B07FT9C1NH/?tag=redken08-20) con 50.03 de descuento por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Lee Rider  Vaqueros slim para Hombre  Azul  Blue Days Ib  W30/L32](https://www.amazon.com/dp/B07FT9C1NH/?tag=redken08-20) por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZSbV1PBDL._SL200_.jpg)](https://www.amazon.com/dp/B07FT9C1NH/?tag=redken08-20)
 

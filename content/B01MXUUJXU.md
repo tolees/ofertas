@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neosens  S090 Restored Skin Aris  Zapato al 61.88 % de descuento'
+title: 'Neosens  S090 Restored Skin Aris  Zapato'
 date: 2019/12/08 20:08:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yQUOZoVGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yQUOZoVGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 190 EUR
 inStock: true
 ---
 
-Está [Neosens  S090 Restored Skin Aris  Zapatos de Cordones Derby para Hombre  Marrón  Cuero   45](https://www.amazon.com/dp/B01MXUUJXU/?tag=redken08-20) con 61.88 de descuento por 72.42 EUR (original: 190 EUR) en el siguiente enlace!
+Está [Neosens  S090 Restored Skin Aris  Zapatos de Cordones Derby para Hombre  Marrón  Cuero   45](https://www.amazon.com/dp/B01MXUUJXU/?tag=redken08-20) por 72.42 EUR (original: 190 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yQUOZoVGL._SL200_.jpg)](https://www.amazon.com/dp/B01MXUUJXU/?tag=redken08-20)
 

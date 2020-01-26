@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'It  1990  [DVD] al 50.08 % de descuento'
+title: 'It  1990  [DVD]'
 date: 2019/11/30 14:26:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DojsFrVPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DojsFrVPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 5.99 EUR
 inStock: true
 ---
 
-Está [It  1990  [DVD]](https://www.amazon.com/dp/B002CEMJTW/?tag=redken08-20) con 50.08 de descuento por 2.99 EUR (original: 5.99 EUR) en el siguiente enlace!
+Está [It  1990  [DVD]](https://www.amazon.com/dp/B002CEMJTW/?tag=redken08-20) por 2.99 EUR (original: 5.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DojsFrVPL._SL200_.jpg)](https://www.amazon.com/dp/B002CEMJTW/?tag=redken08-20)
 

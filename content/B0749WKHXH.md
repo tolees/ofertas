@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Los Sims 4 - Edición Estándar al 61.18 % de descuento'
+title: 'Los Sims 4 - Edición Estándar'
 date: 2019/10/27 20:11:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wyrePn6zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wyrePn6zL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 51.5 EUR
 inStock: true
 ---
 
-Está [Los Sims 4 - Edición Estándar](https://www.amazon.com/dp/B0749WKHXH/?tag=redken08-20) con 61.18 de descuento por 19.99 EUR (original: 51.5 EUR) en el siguiente enlace!
+Está [Los Sims 4 - Edición Estándar](https://www.amazon.com/dp/B0749WKHXH/?tag=redken08-20) por 19.99 EUR (original: 51.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wyrePn6zL._SL200_.jpg)](https://www.amazon.com/dp/B0749WKHXH/?tag=redken08-20)
 

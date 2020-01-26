@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 49.81 % en Onkyo CS-265  Y  - Sistema mini  Bluetoo'
+title: 'Onkyo CS-265  Y  - Sistema mini  Bluetoo'
 date: 2019/12/14 09:14:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vHcavuraL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vHcavuraL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 249 EUR
 inStock: true
 ---
 
-Tienes [Onkyo CS-265  Y  - Sistema mini  Bluetooth  NFC  USB frontal   color amarillo](https://www.amazon.com/dp/B00O8LASFY/?tag=redken08-20) con un 49.81 % de descuento con precio de oferta de 124.97 EUR (original: 249 EUR) en el siguiente enlace!
+Tienes [Onkyo CS-265  Y  - Sistema mini  Bluetooth  NFC  USB frontal   color amarillo](https://www.amazon.com/dp/B00O8LASFY/?tag=redken08-20) a precio de oferta de 124.97 EUR (original: 249 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vHcavuraL._SL200_.jpg)](https://www.amazon.com/dp/B00O8LASFY/?tag=redken08-20)
 

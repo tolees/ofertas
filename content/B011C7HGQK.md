@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disney Infinity 3.0 - Figura Judy  Serie al 42.70 % de descuento'
+title: 'Disney Infinity 3.0 - Figura Judy  Serie'
 date: 2019/10/06 22:02:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514twt412hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514twt412hL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Disney Infinity 3.0 - Figura Judy  Serie Zootopía](https://www.amazon.com/dp/B011C7HGQK/?tag=redken08-20) con 42.70 de descuento por 8.59 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Disney Infinity 3.0 - Figura Judy  Serie Zootopía](https://www.amazon.com/dp/B011C7HGQK/?tag=redken08-20) por 8.59 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/514twt412hL._SL200_.jpg)](https://www.amazon.com/dp/B011C7HGQK/?tag=redken08-20)
 

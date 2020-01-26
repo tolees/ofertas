@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dermacol - Barra de Labios Pretty Matte  al 47.39 % de descuento'
+title: 'Dermacol - Barra de Labios Pretty Matte '
 date: 2020-01-21 01:40:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fYEYrDxdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fYEYrDxdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.99 EUR
 inStock: true
 ---
 
-Está [Dermacol - Barra de Labios Pretty Matte No. 05-1 unidad](https://www.amazon.com/dp/B01N9BXCA0/?tag=redken08-20) con 47.39 de descuento por 4.73 EUR (original: 8.99 EUR) en el siguiente enlace!
+Está [Dermacol - Barra de Labios Pretty Matte No. 05-1 unidad](https://www.amazon.com/dp/B01N9BXCA0/?tag=redken08-20) por 4.73 EUR (original: 8.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fYEYrDxdL._SL200_.jpg)](https://www.amazon.com/dp/B01N9BXCA0/?tag=redken08-20)
 

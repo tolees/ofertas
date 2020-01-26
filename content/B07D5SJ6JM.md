@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ESS Logo Pants  Mujer  Negro  Cotto al 35.46 % de descuento'
+title: 'PUMA ESS Logo Pants  Mujer  Negro  Cotto'
 date: 2019/12/16 08:13:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319k1y5MTQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319k1y5MTQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.45 EUR
 inStock: true
 ---
 
-Está [PUMA ESS Logo Pants  Mujer  Negro  Cotton Black   M](https://www.amazon.com/dp/B07D5SJ6JM/?tag=redken08-20) con 35.46 de descuento por 14.49 EUR (original: 22.45 EUR) en el siguiente enlace!
+Está [PUMA ESS Logo Pants  Mujer  Negro  Cotton Black   M](https://www.amazon.com/dp/B07D5SJ6JM/?tag=redken08-20) por 14.49 EUR (original: 22.45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319k1y5MTQL._SL200_.jpg)](https://www.amazon.com/dp/B07D5SJ6JM/?tag=redken08-20)
 

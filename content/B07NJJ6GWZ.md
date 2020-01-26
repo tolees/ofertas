@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.37 % en Lower East LE105 T-Shirt  Forged Iron  L'
+title: 'Lower East LE105 T-Shirt  Forged Iron  L'
 date: 2019/12/22 10:08:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313Sf337PVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313Sf337PVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.95 EUR
 inStock: true
 ---
 
-Tienes [Lower East LE105 T-Shirt  Forged Iron  L  5er-Pack](https://www.amazon.com/dp/B07NJJ6GWZ/?tag=redken08-20) con un 35.37 % de descuento con precio de oferta de 18.71 EUR (original: 28.95 EUR) en el siguiente enlace!
+Tienes [Lower East LE105 T-Shirt  Forged Iron  L  5er-Pack](https://www.amazon.com/dp/B07NJJ6GWZ/?tag=redken08-20) a precio de oferta de 18.71 EUR (original: 28.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/313Sf337PVL._SL200_.jpg)](https://www.amazon.com/dp/B07NJJ6GWZ/?tag=redken08-20)
 

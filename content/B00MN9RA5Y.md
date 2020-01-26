@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lower East Fitness Camiseta manga corta  al 49.96 % de descuento'
+title: 'Lower East Fitness Camiseta manga corta '
 date: 2019/11/09 22:44:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u0qPPUgPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u0qPPUgPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.95 EUR
 inStock: true
 ---
 
-Está [Lower East Fitness Camiseta manga corta Hombre  Azul  M](https://www.amazon.com/dp/B00MN9RA5Y/?tag=redken08-20) con 49.96 de descuento por 5.98 EUR (original: 11.95 EUR) en el siguiente enlace!
+Está [Lower East Fitness Camiseta manga corta Hombre  Azul  M](https://www.amazon.com/dp/B00MN9RA5Y/?tag=redken08-20) por 5.98 EUR (original: 11.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31u0qPPUgPL._SL200_.jpg)](https://www.amazon.com/dp/B00MN9RA5Y/?tag=redken08-20)
 

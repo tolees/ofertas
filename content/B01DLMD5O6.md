@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 52.42 % en Sony SEL50F18F.SYX - Objetivo Fijo  FE 5'
+title: 'Sony SEL50F18F.SYX - Objetivo Fijo  FE 5'
 date: 2019/12/23 20:02:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LS1wijtQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 330 EUR
 inStock: true
 ---
 
-Tienes [Sony SEL50F18F.SYX - Objetivo Fijo  FE 50mm  F1.8   Negro](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20) con un 52.42 % de descuento con precio de oferta de 157 EUR (original: 330 EUR) en el siguiente enlace!
+Tienes [Sony SEL50F18F.SYX - Objetivo Fijo  FE 50mm  F1.8   Negro](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20) a precio de oferta de 157 EUR (original: 330 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41LS1wijtQL._SL200_.jpg)](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20)
 

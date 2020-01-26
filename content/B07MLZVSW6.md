@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riuty Juguete Rascador con para Gatos  P al 71.90 % de descuento'
+title: 'Riuty Juguete Rascador con para Gatos  P'
 date: 2019/12/08 23:55:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518eH-Yw3mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518eH-Yw3mL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 33.77 EUR
 inStock: true
 ---
 
-Está [Riuty Juguete Rascador con para Gatos  Pet Scratcher Cardboard Pet Climbing Frame Garras Scratching Mat Pad Cat Grass Olor con Juguete Interactivo del ratón](https://www.amazon.com/dp/B07MLZVSW6/?tag=redken08-20) con 71.90 de descuento por 9.49 EUR (original: 33.77 EUR) en el siguiente enlace!
+Está [Riuty Juguete Rascador con para Gatos  Pet Scratcher Cardboard Pet Climbing Frame Garras Scratching Mat Pad Cat Grass Olor con Juguete Interactivo del ratón](https://www.amazon.com/dp/B07MLZVSW6/?tag=redken08-20) por 9.49 EUR (original: 33.77 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518eH-Yw3mL._SL200_.jpg)](https://www.amazon.com/dp/B07MLZVSW6/?tag=redken08-20)
 

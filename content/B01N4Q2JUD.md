@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 30522 The Batman Movie Exclusive Po al 42.50 % de descuento'
+title: 'Lego 30522 The Batman Movie Exclusive Po'
 date: 2020-01-25 01:38:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51X3wnK+vbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51X3wnK+vbL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Lego 30522 The Batman Movie Exclusive Polybag Batman in the Phantom Zone](https://www.amazon.com/dp/B01N4Q2JUD/?tag=redken08-20) a 4.6 GBP (original: 8.0 GBP) (42.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lego 30522 The Batman Movie Exclusive Polybag Batman in the Phantom Zone](https://www.amazon.com/dp/B01N4Q2JUD/?tag=redken08-20) a 4.6 GBP (original: 8.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51X3wnK+vbL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01N4Q2JUD/?tag=redken08-20)
 

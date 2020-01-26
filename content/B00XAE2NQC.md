@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.23 % en Finish Todo en 1 Original Limón Pastilla'
+title: 'Finish Todo en 1 Original Limón Pastilla'
 date: 2019/10/25 19:01:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410OoKOLnGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410OoKOLnGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.18 EUR
 inStock: true
 ---
 
-Tienes [Finish Todo en 1 Original Limón Pastillas para Lavavajillas - 86 pastillas](https://www.amazon.com/dp/B00XAE2NQC/?tag=redken08-20) con un 26.23 % de descuento con precio de oferta de 10.46 EUR (original: 14.18 EUR) en el siguiente enlace!
+Tienes [Finish Todo en 1 Original Limón Pastillas para Lavavajillas - 86 pastillas](https://www.amazon.com/dp/B00XAE2NQC/?tag=redken08-20) a precio de oferta de 10.46 EUR (original: 14.18 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410OoKOLnGL._SL200_.jpg)](https://www.amazon.com/dp/B00XAE2NQC/?tag=redken08-20)
 

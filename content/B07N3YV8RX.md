@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HKT by Hackett London Hkt Jersey SS Polo al 54.68 % de descuento'
+title: 'HKT by Hackett London Hkt Jersey SS Polo'
 date: 2019/11/20 09:44:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31K8VHUTXRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31K8VHUTXRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 52.67 EUR
 inStock: true
 ---
 
-Está [HKT by Hackett London Hkt Jersey SS Polo  Azul  Dark Blue 581   Medium para Hombre](https://www.amazon.com/dp/B07N3YV8RX/?tag=redken08-20) con 54.68 de descuento por 23.87 EUR (original: 52.67 EUR) en el siguiente enlace!
+Está [HKT by Hackett London Hkt Jersey SS Polo  Azul  Dark Blue 581   Medium para Hombre](https://www.amazon.com/dp/B07N3YV8RX/?tag=redken08-20) por 23.87 EUR (original: 52.67 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31K8VHUTXRL._SL200_.jpg)](https://www.amazon.com/dp/B07N3YV8RX/?tag=redken08-20)
 

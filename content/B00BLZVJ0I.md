@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.40 % en Einhell TH-VC 1820 S  -Aspirador seco - '
+title: 'Einhell TH-VC 1820 S  -Aspirador seco - '
 date: 2019/12/03 09:14:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mKKNKhQcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mKKNKhQcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Tienes [Einhell TH-VC 1820 S  -Aspirador seco - húmedo  inox  180 mbar  1250 W  230 V  80 dB  ref. 2342167 ](https://www.amazon.com/dp/B00BLZVJ0I/?tag=redken08-20) con un 36.40 % de descuento con precio de oferta de 34.95 EUR (original: 54.95 EUR) en el siguiente enlace!
+Tienes [Einhell TH-VC 1820 S  -Aspirador seco - húmedo  inox  180 mbar  1250 W  230 V  80 dB  ref. 2342167 ](https://www.amazon.com/dp/B00BLZVJ0I/?tag=redken08-20) a precio de oferta de 34.95 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31mKKNKhQcL._SL200_.jpg)](https://www.amazon.com/dp/B00BLZVJ0I/?tag=redken08-20)
 

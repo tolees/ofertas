@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 66.69 % en Controlador Bluetooth  JUMPFISCH Control'
+title: 'Controlador Bluetooth  JUMPFISCH Control'
 date: 2019/10/29 10:41:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417YxyJWotL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417YxyJWotL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35.99 EUR
 inStock: true
 ---
 
-Tienes [Controlador Bluetooth  JUMPFISCH Controlador inalámbrico Mini Gamepad para gafas VR  iOS Android Smartphone  Tablet portátil Reproductor de música Cámara TV](https://www.amazon.com/dp/B07JF2C2HV/?tag=redken08-20) con un 66.69 % de descuento con precio de oferta de 11.99 EUR (original: 35.99 EUR) en el siguiente enlace!
+Tienes [Controlador Bluetooth  JUMPFISCH Controlador inalámbrico Mini Gamepad para gafas VR  iOS Android Smartphone  Tablet portátil Reproductor de música Cámara TV](https://www.amazon.com/dp/B07JF2C2HV/?tag=redken08-20) a precio de oferta de 11.99 EUR (original: 35.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417YxyJWotL._SL200_.jpg)](https://www.amazon.com/dp/B07JF2C2HV/?tag=redken08-20)
 

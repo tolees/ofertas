@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scuderia Ferrari Reloj Analógico para Ho al 35.00 % de descuento'
+title: 'Scuderia Ferrari Reloj Analógico para Ho'
 date: 2019/12/03 00:44:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RNdclN8aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RNdclN8aL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 175 EUR
 inStock: true
 ---
 
-Está [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 830563](https://www.amazon.com/dp/B07G4RJVWV/?tag=redken08-20) con 35.00 de descuento por 113.75 EUR (original: 175 EUR) en el siguiente enlace!
+Está [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 830563](https://www.amazon.com/dp/B07G4RJVWV/?tag=redken08-20) por 113.75 EUR (original: 175 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RNdclN8aL._SL200_.jpg)](https://www.amazon.com/dp/B07G4RJVWV/?tag=redken08-20)
 

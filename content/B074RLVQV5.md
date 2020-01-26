@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Red Tape Tirley  Zapatos de Cordones Der al 65.10 % de descuento'
+title: 'Red Tape Tirley  Zapatos de Cordones Der'
 date: 2019/11/12 12:33:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aFIvhRZSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aFIvhRZSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55.25 EUR
 inStock: true
 ---
 
-Está [Red Tape Tirley  Zapatos de Cordones Derby para Hombre  Marrón  Tan Suede 0   43 EU](https://www.amazon.com/dp/B074RLVQV5/?tag=redken08-20) con 65.10 de descuento por 19.28 EUR (original: 55.25 EUR) en el siguiente enlace!
+Está [Red Tape Tirley  Zapatos de Cordones Derby para Hombre  Marrón  Tan Suede 0   43 EU](https://www.amazon.com/dp/B074RLVQV5/?tag=redken08-20) por 19.28 EUR (original: 55.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aFIvhRZSL._SL200_.jpg)](https://www.amazon.com/dp/B074RLVQV5/?tag=redken08-20)
 

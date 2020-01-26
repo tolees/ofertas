@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein underwear BOTTOMS UP - THON al 31.67 % de descuento'
+title: 'Calvin Klein underwear BOTTOMS UP - THON'
 date: 2020-01-25 12:25:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bmVAlHggL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bmVAlHggL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.62 EUR
 inStock: true
 ---
 
-Está [Calvin Klein underwear BOTTOMS UP - THONG - Ropa interior para mujer  Blanco  White 100   36](https://www.amazon.com/dp/B00EVPRX82/?tag=redken08-20) con 31.67 de descuento por 9.99 EUR (original: 14.62 EUR) en el siguiente enlace!
+Está [Calvin Klein underwear BOTTOMS UP - THONG - Ropa interior para mujer  Blanco  White 100   36](https://www.amazon.com/dp/B00EVPRX82/?tag=redken08-20) por 9.99 EUR (original: 14.62 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bmVAlHggL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00EVPRX82/?tag=redken08-20)
 

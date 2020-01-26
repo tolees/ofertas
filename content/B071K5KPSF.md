@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 42.32 % en Lee Logo Sweatshirt Sudadera  Negro  Bla'
+title: 'Lee Logo Sweatshirt Sudadera  Negro  Bla'
 date: 2019/12/01 18:30:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414lQfqSWEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414lQfqSWEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Tienes [Lee Logo Sweatshirt Sudadera  Negro  Black Ub01   XX-Large para Hombre](https://www.amazon.com/dp/B071K5KPSF/?tag=redken08-20) con un 42.32 % de descuento con precio de oferta de 37.49 EUR (original: 65 EUR) en el siguiente enlace!
+Tienes [Lee Logo Sweatshirt Sudadera  Negro  Black Ub01   XX-Large para Hombre](https://www.amazon.com/dp/B071K5KPSF/?tag=redken08-20) a precio de oferta de 37.49 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414lQfqSWEL._SL200_.jpg)](https://www.amazon.com/dp/B071K5KPSF/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher G 180Q Pistole Quick Connect  2. al 31.70 % de descuento'
+title: 'Kärcher G 180Q Pistole Quick Connect  2.'
 date: 2019/11/06 08:44:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B7dsdezOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B7dsdezOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 46.78 EUR
 inStock: true
 ---
 
-Está [Kärcher G 180Q Pistole Quick Connect  2.642-889.0 ](https://www.amazon.com/dp/B01N2ZWSTC/?tag=redken08-20) con 31.70 de descuento por 31.95 EUR (original: 46.78 EUR) en el siguiente enlace!
+Está [Kärcher G 180Q Pistole Quick Connect  2.642-889.0 ](https://www.amazon.com/dp/B01N2ZWSTC/?tag=redken08-20) por 31.95 EUR (original: 46.78 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31B7dsdezOL._SL200_.jpg)](https://www.amazon.com/dp/B01N2ZWSTC/?tag=redken08-20)
 

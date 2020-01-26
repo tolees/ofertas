@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Razer BlackWidow Chroma V2 Tournament Ed al 27.70 % de descuento'
+title: 'Razer BlackWidow Chroma V2 Tournament Ed'
 date: 2019/11/29 17:55:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518HvmQIaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518HvmQIaaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Razer BlackWidow Chroma V2 Tournament Edition - Teclado para juegos  switch amarillo silencioso y lineal  teclas retroiluminadas programables  RGB compacto  qwerty español  negro](https://www.amazon.com/dp/B075CPTYM6/?tag=redken08-20) a 108.45 EUR (original: 149.99 EUR) (27.70 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Razer BlackWidow Chroma V2 Tournament Edition - Teclado para juegos  switch amarillo silencioso y lineal  teclas retroiluminadas programables  RGB compacto  qwerty español  negro](https://www.amazon.com/dp/B075CPTYM6/?tag=redken08-20) a 108.45 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518HvmQIaaL._SL200_.jpg)](https://www.amazon.com/dp/B075CPTYM6/?tag=redken08-20)
 

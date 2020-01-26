@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lancome Douceur Lait Galateis Tp 400 ml al 29.51 % de descuento'
+title: 'Lancome Douceur Lait Galateis Tp 400 ml'
 date: 2019/11/04 18:15:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319I4-Q2k5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319I4-Q2k5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 46.46 EUR
 inStock: true
 ---
 
-Está [Lancome Douceur Lait Galateis Tp 400 ml](https://www.amazon.com/dp/B001BOJSEI/?tag=redken08-20) con 29.51 de descuento por 32.75 EUR (original: 46.46 EUR) en el siguiente enlace!
+Está [Lancome Douceur Lait Galateis Tp 400 ml](https://www.amazon.com/dp/B001BOJSEI/?tag=redken08-20) por 32.75 EUR (original: 46.46 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319I4-Q2k5L._SL200_.jpg)](https://www.amazon.com/dp/B001BOJSEI/?tag=redken08-20)
 

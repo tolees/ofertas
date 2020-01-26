@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 66.66 % en Samsung Silicone Cover - Funda para Sams'
+title: 'Samsung Silicone Cover - Funda para Sams'
 date: 2019/12/30 12:22:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DI3aGGY1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DI3aGGY1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.9 EUR
 inStock: true
 ---
 
-Tienes [Samsung Silicone Cover - Funda para Samsung Galaxy S9  color gris](https://www.amazon.com/dp/B079FWYQJP/?tag=redken08-20) con un 66.66 % de descuento con precio de oferta de 9.97 EUR (original: 29.9 EUR) en el siguiente enlace!
+Tienes [Samsung Silicone Cover - Funda para Samsung Galaxy S9  color gris](https://www.amazon.com/dp/B079FWYQJP/?tag=redken08-20) a precio de oferta de 9.97 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31DI3aGGY1L._SL200_.jpg)](https://www.amazon.com/dp/B079FWYQJP/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mortlach 12 Whisky Escocés Single Malt - al 29.46 % de descuento'
+title: 'Mortlach 12 Whisky Escocés Single Malt -'
 date: 2019/12/19 05:12:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zg-h-GsyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zg-h-GsyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55.5 EUR
 inStock: true
 ---
 
-Está [Mortlach 12 Whisky Escocés Single Malt - 700 ml](https://www.amazon.com/dp/B07JQ6PK1T/?tag=redken08-20) con 29.46 de descuento por 39.15 EUR (original: 55.5 EUR) en el siguiente enlace!
+Está [Mortlach 12 Whisky Escocés Single Malt - 700 ml](https://www.amazon.com/dp/B07JQ6PK1T/?tag=redken08-20) por 39.15 EUR (original: 55.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51zg-h-GsyL._SL200_.jpg)](https://www.amazon.com/dp/B07JQ6PK1T/?tag=redken08-20)
 

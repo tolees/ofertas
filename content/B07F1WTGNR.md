@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Malibu Waves Cross Slide  San al 46.23 % de descuento'
+title: 'Timberland Malibu Waves Cross Slide  San'
 date: 2019/11/21 15:54:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PMATW69OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PMATW69OL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.39 EUR
 inStock: true
 ---
 
-Está [Timberland Malibu Waves Cross Slide  Sandalias con Punta Abierta para Mujer  Negro  Black Embossed Suede   41 EU](https://www.amazon.com/dp/B07F1WTGNR/?tag=redken08-20) con 46.23 de descuento por 40 EUR (original: 74.39 EUR) en el siguiente enlace!
+Está [Timberland Malibu Waves Cross Slide  Sandalias con Punta Abierta para Mujer  Negro  Black Embossed Suede   41 EU](https://www.amazon.com/dp/B07F1WTGNR/?tag=redken08-20) por 40 EUR (original: 74.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31PMATW69OL._SL200_.jpg)](https://www.amazon.com/dp/B07F1WTGNR/?tag=redken08-20)
 

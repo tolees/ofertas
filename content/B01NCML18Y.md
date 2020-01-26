@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 56.36 % en Merrell Annex Trak Low  Zapatillas para '
+title: 'Merrell Annex Trak Low  Zapatillas para '
 date: 2019/11/01 10:00:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PoB5amVNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PoB5amVNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Tienes [Merrell Annex Trak Low  Zapatillas para Hombre  Verde  Cloudy   44 EU](https://www.amazon.com/dp/B01NCML18Y/?tag=redken08-20) con un 56.36 % de descuento con precio de oferta de 61.09 EUR (original: 140 EUR) en el siguiente enlace!
+Tienes [Merrell Annex Trak Low  Zapatillas para Hombre  Verde  Cloudy   44 EU](https://www.amazon.com/dp/B01NCML18Y/?tag=redken08-20) a precio de oferta de 61.09 EUR (original: 140 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PoB5amVNL._SL200_.jpg)](https://www.amazon.com/dp/B01NCML18Y/?tag=redken08-20)
 

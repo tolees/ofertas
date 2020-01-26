@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Sudadera de algodón con cre al 53.28 % de descuento'
+title: 'Under Armour Sudadera de algodón con cre'
 date: 2019/10/23 10:54:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oVQdsZ4oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oVQdsZ4oL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Está [Under Armour Sudadera de algodón con cremallera  Niños  Gris  L](https://www.amazon.com/dp/B07KH1MKKT/?tag=redken08-20) con 53.28 de descuento por 21.02 EUR (original: 44.99 EUR) en el siguiente enlace!
+Está [Under Armour Sudadera de algodón con cremallera  Niños  Gris  L](https://www.amazon.com/dp/B07KH1MKKT/?tag=redken08-20) por 21.02 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41oVQdsZ4oL._SL200_.jpg)](https://www.amazon.com/dp/B07KH1MKKT/?tag=redken08-20)
 

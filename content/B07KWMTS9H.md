@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coronel Tapiocca Bolso bandolera Urban C al 51.96 % de descuento'
+title: 'Coronel Tapiocca Bolso bandolera Urban C'
 date: 2019/10/26 07:37:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zug6wLDnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zug6wLDnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.95 EUR
 inStock: true
 ---
 
-Está [Coronel Tapiocca Bolso bandolera Urban Caqui Hombre](https://www.amazon.com/dp/B07KWMTS9H/?tag=redken08-20) con 51.96 de descuento por 16.79 EUR (original: 34.95 EUR) en el siguiente enlace!
+Está [Coronel Tapiocca Bolso bandolera Urban Caqui Hombre](https://www.amazon.com/dp/B07KWMTS9H/?tag=redken08-20) por 16.79 EUR (original: 34.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Zug6wLDnL._SL200_.jpg)](https://www.amazon.com/dp/B07KWMTS9H/?tag=redken08-20)
 

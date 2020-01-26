@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy S8 - Smartphone libre  5. al 28.92 % de descuento'
+title: 'Samsung Galaxy S8 - Smartphone libre  5.'
 date: 2019/11/05 02:24:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414QbPyEHnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414QbPyEHnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 809 EUR
 inStock: true
 ---
 
-Está [Samsung Galaxy S8 - Smartphone libre  5.8    4GB RAM  64GB  12MP   Gris  - [Versión italiana: No incluye Samsung Pay ni acceso a promociones Samsung Members]](https://www.amazon.com/dp/B06XW9CFZH/?tag=redken08-20) con 28.92 de descuento por 575 EUR (original: 809 EUR) en el siguiente enlace!
+Está [Samsung Galaxy S8 - Smartphone libre  5.8    4GB RAM  64GB  12MP   Gris  - [Versión italiana: No incluye Samsung Pay ni acceso a promociones Samsung Members]](https://www.amazon.com/dp/B06XW9CFZH/?tag=redken08-20) por 575 EUR (original: 809 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414QbPyEHnL._SL200_.jpg)](https://www.amazon.com/dp/B06XW9CFZH/?tag=redken08-20)
 

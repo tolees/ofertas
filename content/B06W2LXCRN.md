@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Duracell - Plus AA  Pilas Alcalinas  paq al 54.38 % de descuento'
+title: 'Duracell - Plus AA  Pilas Alcalinas  paq'
 date: 2019/11/27 10:32:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516iqfO4QvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516iqfO4QvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.9 EUR
 inStock: true
 ---
 
-Está [Duracell - Plus AA  Pilas Alcalinas  paquete de 18 con apertura simplificada  1.5 Voltios LR06 MX1500  el embalaje puede variar ](https://www.amazon.com/dp/B06W2LXCRN/?tag=redken08-20) con 54.38 de descuento por 9.99 EUR (original: 21.9 EUR) en el siguiente enlace!
+Está [Duracell - Plus AA  Pilas Alcalinas  paquete de 18 con apertura simplificada  1.5 Voltios LR06 MX1500  el embalaje puede variar ](https://www.amazon.com/dp/B06W2LXCRN/?tag=redken08-20) por 9.99 EUR (original: 21.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516iqfO4QvL._SL200_.jpg)](https://www.amazon.com/dp/B06W2LXCRN/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 32.51 % en Playmobil 9289 Royal Pavilion with Pegas'
+title: 'Playmobil 9289 Royal Pavilion with Pegas'
 date: 2020-01-25 17:38:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61kKyq-CQ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61kKyq-CQ8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40.79 GBP
 inStock: true
 ---
 
-Tienes [Playmobil 9289 Royal Pavilion with Pegasus carriage](https://www.amazon.com/dp/B075BKMSGD/?tag=redken08-20) con un 32.51 % de descuento con precio de oferta de 27.53 GBP (original: 40.79 GBP) en el siguiente enlace!
+Tienes [Playmobil 9289 Royal Pavilion with Pegasus carriage](https://www.amazon.com/dp/B075BKMSGD/?tag=redken08-20) a precio de oferta de 27.53 GBP (original: 40.79 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61kKyq-CQ8L._SL200_.jpg)](https://www.amazon.com/dp/B075BKMSGD/?tag=redken08-20)
 

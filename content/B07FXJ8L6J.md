@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Desaparecer SS Camisa Ma al 62.96 % de descuento'
+title: 'Under Armour UA Desaparecer SS Camisa Ma'
 date: 2019/11/06 18:51:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i1bnzlUuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i1bnzlUuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour UA Desaparecer SS Camisa Manga Corta  Mujer  White/Tonal  100   L](https://www.amazon.com/dp/B07FXJ8L6J/?tag=redken08-20) a 18.52 EUR (original: 50 EUR) (62.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA Desaparecer SS Camisa Manga Corta  Mujer  White/Tonal  100   L](https://www.amazon.com/dp/B07FXJ8L6J/?tag=redken08-20) a 18.52 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31i1bnzlUuL._SL200_.jpg)](https://www.amazon.com/dp/B07FXJ8L6J/?tag=redken08-20)
 

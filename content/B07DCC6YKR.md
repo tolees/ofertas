@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Smash Platform SD  Zapatillas para  al 55.06 % de descuento'
+title: 'Puma Smash Platform SD  Zapatillas para '
 date: 2019/11/23 05:44:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ga2cggPZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ga2cggPZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Está [Puma Smash Platform SD  Zapatillas para Mujer  Rosa  Peach Bud Whisper White   42.5 EU](https://www.amazon.com/dp/B07DCC6YKR/?tag=redken08-20) con 55.06 de descuento por 35.93 EUR (original: 79.95 EUR) en el siguiente enlace!
+Está [Puma Smash Platform SD  Zapatillas para Mujer  Rosa  Peach Bud Whisper White   42.5 EU](https://www.amazon.com/dp/B07DCC6YKR/?tag=redken08-20) por 35.93 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ga2cggPZL._SL200_.jpg)](https://www.amazon.com/dp/B07DCC6YKR/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 44.84 % en Lacoste FRNT Runner 118 1 SPM  Zapatilla'
+title: 'Lacoste FRNT Runner 118 1 SPM  Zapatilla'
 date: 2019/10/07 10:19:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gHttraavL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gHttraavL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119 EUR
 inStock: true
 ---
 
-Tienes [Lacoste FRNT Runner 118 1 SPM  Zapatillas para Hombre  Negro  Blk/dk Gry   43 EU](https://www.amazon.com/dp/B077DXCP8F/?tag=redken08-20) con un 44.84 % de descuento con precio de oferta de 65.64 EUR (original: 119 EUR) en el siguiente enlace!
+Tienes [Lacoste FRNT Runner 118 1 SPM  Zapatillas para Hombre  Negro  Blk/dk Gry   43 EU](https://www.amazon.com/dp/B077DXCP8F/?tag=redken08-20) a precio de oferta de 65.64 EUR (original: 119 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gHttraavL._SL200_.jpg)](https://www.amazon.com/dp/B077DXCP8F/?tag=redken08-20)
 

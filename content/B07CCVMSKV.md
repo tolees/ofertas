@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scottex Acolchado Papel Higiénico - 63 r al 30.01 % de descuento'
+title: 'Scottex Acolchado Papel Higiénico - 63 r'
 date: 2020-01-24 00:23:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VaP0h0v2L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VaP0h0v2L._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Scottex Acolchado Papel Higiénico - 63 rollos](https://www.amazon.com/dp/B07CCVMSKV/?tag=redken08-20) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Scottex Acolchado Papel Higiénico - 63 rollos](https://www.amazon.com/dp/B07CCVMSKV/?tag=redken08-20) por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51VaP0h0v2L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CCVMSKV/?tag=redken08-20)
 

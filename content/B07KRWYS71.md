@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Cascade Explorer Camisa de Mang al 64.58 % de descuento'
+title: 'Columbia Cascade Explorer Camisa de Mang'
 date: 2019/11/10 13:58:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y7k6aT8lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y7k6aT8lL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Está [Columbia Cascade Explorer Camisa de Manga Corta a Cuadros  Hombre  Verde  Cypress Plaid   S](https://www.amazon.com/dp/B07KRWYS71/?tag=redken08-20) con 64.58 de descuento por 19.48 EUR (original: 54.99 EUR) en el siguiente enlace!
+Está [Columbia Cascade Explorer Camisa de Manga Corta a Cuadros  Hombre  Verde  Cypress Plaid   S](https://www.amazon.com/dp/B07KRWYS71/?tag=redken08-20) por 19.48 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41y7k6aT8lL._SL200_.jpg)](https://www.amazon.com/dp/B07KRWYS71/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nintendo NINTENDO NES Console Bi-Fold Wa al 27.42 % de descuento'
+title: 'Nintendo NINTENDO NES Console Bi-Fold Wa'
 date: 2020-01-20 12:39:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JAI%2B87hyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JAI%2B87hyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.39 EUR
 inStock: true
 ---
 
-Está [Nintendo NINTENDO NES Console Bi-Fold Wallet  Multi-Colour  MW270709NTN  Monedero  16 cm  Gris  Grey ](https://www.amazon.com/dp/B078MGGWBZ/?tag=redken08-20) con 27.42 de descuento por 19.88 EUR (original: 27.39 EUR) en el siguiente enlace!
+Está [Nintendo NINTENDO NES Console Bi-Fold Wallet  Multi-Colour  MW270709NTN  Monedero  16 cm  Gris  Grey ](https://www.amazon.com/dp/B078MGGWBZ/?tag=redken08-20) por 19.88 EUR (original: 27.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JAI%2B87hyL._SL200_.jpg)](https://www.amazon.com/dp/B078MGGWBZ/?tag=redken08-20)
 

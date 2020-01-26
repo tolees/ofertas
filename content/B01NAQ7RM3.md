@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RAY-BAN 0Rb2183 Gafas de Sol  Black  53  al 70.54 % de descuento'
+title: 'RAY-BAN 0Rb2183 Gafas de Sol  Black  53 '
 date: 2019/11/07 19:30:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wEqogZmZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wEqogZmZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 179 EUR
 inStock: true
 ---
 
-Está [RAY-BAN 0Rb2183 Gafas de Sol  Black  53 Unisex-Adulto](https://www.amazon.com/dp/B01NAQ7RM3/?tag=redken08-20) con 70.54 de descuento por 52.73 EUR (original: 179 EUR) en el siguiente enlace!
+Está [RAY-BAN 0Rb2183 Gafas de Sol  Black  53 Unisex-Adulto](https://www.amazon.com/dp/B01NAQ7RM3/?tag=redken08-20) por 52.73 EUR (original: 179 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31wEqogZmZL._SL200_.jpg)](https://www.amazon.com/dp/B01NAQ7RM3/?tag=redken08-20)
 

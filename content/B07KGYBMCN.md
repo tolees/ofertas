@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BILLABONG Inversed tee SS Camiseta  Blan al 30.00 % de descuento'
+title: 'BILLABONG Inversed tee SS Camiseta  Blan'
 date: 2019/10/15 08:00:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gq-evTP7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gq-evTP7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BILLABONG Inversed tee SS Camiseta  Blanco  White 10   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.com/dp/B07KGYBMCN/?tag=redken08-20) a 17.5 EUR (original: 25 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BILLABONG Inversed tee SS Camiseta  Blanco  White 10   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.com/dp/B07KGYBMCN/?tag=redken08-20) a 17.5 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31gq-evTP7L._SL200_.jpg)](https://www.amazon.com/dp/B07KGYBMCN/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nanos Camisa   Negro 14   3 años  Tamaño al 74.42 % de descuento'
+title: 'Nanos Camisa   Negro 14   3 años  Tamaño'
 date: 2019/10/26 19:04:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61KvSnsoWVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61KvSnsoWVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.9 EUR
 inStock: true
 ---
 
-Está [Nanos Camisa   Negro 14   3 años  Tamaño del Fabricante:3  para Niños](https://www.amazon.com/dp/B07HGFTZ7W/?tag=redken08-20) con 74.42 de descuento por 17.88 EUR (original: 69.9 EUR) en el siguiente enlace!
+Está [Nanos Camisa   Negro 14   3 años  Tamaño del Fabricante:3  para Niños](https://www.amazon.com/dp/B07HGFTZ7W/?tag=redken08-20) por 17.88 EUR (original: 69.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61KvSnsoWVL._SL200_.jpg)](https://www.amazon.com/dp/B07HGFTZ7W/?tag=redken08-20)
 

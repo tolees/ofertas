@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Syberia 3 al 40.01 % de descuento'
+title: 'Syberia 3'
 date: 2019/10/28 09:14:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d7C2UcOhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d7C2UcOhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Syberia 3](https://www.amazon.com/dp/B07GJ2J9BB/?tag=redken08-20) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Syberia 3](https://www.amazon.com/dp/B07GJ2J9BB/?tag=redken08-20) a 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51d7C2UcOhL._SL200_.jpg)](https://www.amazon.com/dp/B07GJ2J9BB/?tag=redken08-20)
 

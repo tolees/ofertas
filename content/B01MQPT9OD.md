@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 52.66 % en ELEGOO Conjunto Mas Completo y Avanzado '
+title: 'ELEGOO Conjunto Mas Completo y Avanzado '
 date: 2020-01-16 11:23:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61M7EjebKRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61M7EjebKRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Tienes [ELEGOO Conjunto Mas Completo y Avanzado de Iniciación Compatible con Arduino IDE Mega 2560 con Guías Tutorial en Español y Conjunto con Placa Controladora Mega 2560 R3  Servomotor  Motor Paso a Paso](https://www.amazon.com/dp/B01MQPT9OD/?tag=redken08-20) con un 52.66 % de descuento con precio de oferta de 33.13 EUR (original: 69.99 EUR) en el siguiente enlace!
+Tienes [ELEGOO Conjunto Mas Completo y Avanzado de Iniciación Compatible con Arduino IDE Mega 2560 con Guías Tutorial en Español y Conjunto con Placa Controladora Mega 2560 R3  Servomotor  Motor Paso a Paso](https://www.amazon.com/dp/B01MQPT9OD/?tag=redken08-20) a precio de oferta de 33.13 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61M7EjebKRL._SL200_.jpg)](https://www.amazon.com/dp/B01MQPT9OD/?tag=redken08-20)
 

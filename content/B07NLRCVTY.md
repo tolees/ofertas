@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Edge Entertainment - Petrichor - Español al 29.99 % de descuento'
+title: 'Edge Entertainment - Petrichor - Español'
 date: 2019/12/30 13:58:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bFr8CetsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bFr8CetsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Edge Entertainment - Petrichor - Español  EEMBPE01 ](https://www.amazon.com/dp/B07NLRCVTY/?tag=redken08-20) a 35 EUR (original: 49.99 EUR) (29.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Edge Entertainment - Petrichor - Español  EEMBPE01 ](https://www.amazon.com/dp/B07NLRCVTY/?tag=redken08-20) a 35 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bFr8CetsL._SL200_.jpg)](https://www.amazon.com/dp/B07NLRCVTY/?tag=redken08-20)
 

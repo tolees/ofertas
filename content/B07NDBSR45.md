@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.00 % en LEGO 42098 Technic Car Transporter - to '
+title: 'LEGO 42098 Technic Car Transporter - to '
 date: 2020-01-12 08:27:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Di7%2BFiTyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Di7%2BFiTyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 42098 Technic Car Transporter - to - Truck and Show Cars  2 in 1 Model  Advanced Construction Set](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20) con un 25.00 % de descuento con precio de oferta de 104.99 GBP (original: 139.99 GBP) en el siguiente enlace!
+Tienes [LEGO 42098 Technic Car Transporter - to - Truck and Show Cars  2 in 1 Model  Advanced Construction Set](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20) a precio de oferta de 104.99 GBP (original: 139.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Di7%2BFiTyL._SL200_.jpg)](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20)
 

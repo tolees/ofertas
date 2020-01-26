@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Piz Buin Piz Buin Wet Skin Transparent S al 77.11 % de descuento'
+title: 'Piz Buin Piz Buin Wet Skin Transparent S'
 date: 2020-01-08 17:09:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z7MoQyn4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z7MoQyn4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.8 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Piz Buin Piz Buin Wet Skin Transparent Sun Spray Spf15 150 ml](https://www.amazon.com/dp/B00BXF9EH6/?tag=redken08-20) a 4.99 EUR (original: 21.8 EUR) (77.11 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Piz Buin Piz Buin Wet Skin Transparent Sun Spray Spf15 150 ml](https://www.amazon.com/dp/B00BXF9EH6/?tag=redken08-20) a 4.99 EUR (original: 21.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31z7MoQyn4L._SL200_.jpg)](https://www.amazon.com/dp/B00BXF9EH6/?tag=redken08-20)
 

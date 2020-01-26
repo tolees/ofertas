@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant Stretch Cotton Cable Crew  Jersey P al 55.93 % de descuento'
+title: 'Gant Stretch Cotton Cable Crew  Jersey P'
 date: 2019/11/12 22:27:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qypAvwcXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qypAvwcXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139.99 EUR
 inStock: true
 ---
 
-Está [Gant Stretch Cotton Cable Crew  Jersey Para Mujer  Gris  Grey Melange 93   34  Talla fabricante XS ](https://www.amazon.com/dp/B00JJI7KEI/?tag=redken08-20) con 55.93 de descuento por 61.7 EUR (original: 139.99 EUR) en el siguiente enlace!
+Está [Gant Stretch Cotton Cable Crew  Jersey Para Mujer  Gris  Grey Melange 93   34  Talla fabricante XS ](https://www.amazon.com/dp/B00JJI7KEI/?tag=redken08-20) por 61.7 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qypAvwcXL._SL200_.jpg)](https://www.amazon.com/dp/B00JJI7KEI/?tag=redken08-20)
 

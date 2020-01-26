@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Socialism Horror Falsa Sangre Pastilla B al 33.33 % de descuento'
+title: 'Socialism Horror Falsa Sangre Pastilla B'
 date: 2019/10/15 20:46:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KzL6ZZB1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KzL6ZZB1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 0.75 EUR
 inStock: true
 ---
 
-Está [Socialism Horror Falsa Sangre Pastilla Broma de Halloween Juguete Vampiro Cápsulas Fiesta Scary-Red-1 Tamaño](https://www.amazon.com/dp/B07TX9FSC6/?tag=redken08-20) con 33.33 de descuento por 0.5 EUR (original: 0.75 EUR) en el siguiente enlace!
+Está [Socialism Horror Falsa Sangre Pastilla Broma de Halloween Juguete Vampiro Cápsulas Fiesta Scary-Red-1 Tamaño](https://www.amazon.com/dp/B07TX9FSC6/?tag=redken08-20) por 0.5 EUR (original: 0.75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KzL6ZZB1L._SL200_.jpg)](https://www.amazon.com/dp/B07TX9FSC6/?tag=redken08-20)
 

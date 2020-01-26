@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rochas  Agua de colonia para mujeres - 5 al 41.60 % de descuento'
+title: 'Rochas  Agua de colonia para mujeres - 5'
 date: 2019/12/13 19:15:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VCWSE0AdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VCWSE0AdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 62 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rochas  Agua de colonia para mujeres - 50 ml.](https://www.amazon.com/dp/B07BF9B2LS/?tag=redken08-20) a 36.21 EUR (original: 62 EUR) (41.60 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Rochas  Agua de colonia para mujeres - 50 ml.](https://www.amazon.com/dp/B07BF9B2LS/?tag=redken08-20) a 36.21 EUR (original: 62 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31VCWSE0AdL._SL200_.jpg)](https://www.amazon.com/dp/B07BF9B2LS/?tag=redken08-20)
 

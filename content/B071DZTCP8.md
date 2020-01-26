@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ARNETTE Brapp Gafas de sol  Matte Black  al 51.38 % de descuento'
+title: 'ARNETTE Brapp Gafas de sol  Matte Black '
 date: 2019/11/15 11:14:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315HG-BC3rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315HG-BC3rL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109 EUR
 inStock: true
 ---
 
-Está [ARNETTE Brapp Gafas de sol  Matte Black  62 para Hombre](https://www.amazon.com/dp/B071DZTCP8/?tag=redken08-20) con 51.38 de descuento por 53 EUR (original: 109 EUR) en el siguiente enlace!
+Está [ARNETTE Brapp Gafas de sol  Matte Black  62 para Hombre](https://www.amazon.com/dp/B071DZTCP8/?tag=redken08-20) por 53 EUR (original: 109 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/315HG-BC3rL._SL200_.jpg)](https://www.amazon.com/dp/B071DZTCP8/?tag=redken08-20)
 

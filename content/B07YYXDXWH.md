@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAYJOY Funda Xiaomi Mi A3  Ligera Carcas al 44.40 % de descuento'
+title: 'LAYJOY Funda Xiaomi Mi A3  Ligera Carcas'
 date: 2019/12/27 22:43:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q9HmKDmZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q9HmKDmZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 10.99 EUR
 inStock: true
 ---
 
-Está [LAYJOY Funda Xiaomi Mi A3  Ligera Carcasa Silicona Suave TPU Gel Bumper Case de Protectora [Antideslizante] [Anti-Golpes] Cover para Xiaomi Mi A3  2019  6 088 Pulgadas -Negro](https://www.amazon.com/dp/B07YYXDXWH/?tag=redken08-20) con 44.40 de descuento por 6.11 EUR (original: 10.99 EUR) en el siguiente enlace!
+Está [LAYJOY Funda Xiaomi Mi A3  Ligera Carcasa Silicona Suave TPU Gel Bumper Case de Protectora [Antideslizante] [Anti-Golpes] Cover para Xiaomi Mi A3  2019  6 088 Pulgadas -Negro](https://www.amazon.com/dp/B07YYXDXWH/?tag=redken08-20) por 6.11 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Q9HmKDmZL._SL200_.jpg)](https://www.amazon.com/dp/B07YYXDXWH/?tag=redken08-20)
 

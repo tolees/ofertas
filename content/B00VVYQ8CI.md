@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Slim Vaqueros  Dk Aged 5 al 65.90 % de descuento'
+title: 'G-STAR RAW 3301 Slim Vaqueros  Dk Aged 5'
 date: 2019/11/10 10:26:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b1mfkSEDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b1mfkSEDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.95 EUR
 inStock: true
 ---
 
-Está [G-STAR RAW 3301 Slim Vaqueros  Dk Aged 51001-5245  28W / 32L para Hombre](https://www.amazon.com/dp/B00VVYQ8CI/?tag=redken08-20) con 65.90 de descuento por 44.31 EUR (original: 129.95 EUR) en el siguiente enlace!
+Está [G-STAR RAW 3301 Slim Vaqueros  Dk Aged 51001-5245  28W / 32L para Hombre](https://www.amazon.com/dp/B00VVYQ8CI/?tag=redken08-20) por 44.31 EUR (original: 129.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31b1mfkSEDL._SL200_.jpg)](https://www.amazon.com/dp/B00VVYQ8CI/?tag=redken08-20)
 

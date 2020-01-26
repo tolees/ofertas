@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans UA Classic Slip-on  Zapatillas para al 66.81 % de descuento'
+title: 'Vans UA Classic Slip-on  Zapatillas para'
 date: 2019/10/13 17:10:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ANeetWLJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ANeetWLJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Vans UA Classic Slip-on  Zapatillas para Mujer  Blanco  Sayings   36 EU](https://www.amazon.com/dp/B01I2DJTJY/?tag=redken08-20) a 23.23 EUR (original: 70 EUR) (66.81 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Vans UA Classic Slip-on  Zapatillas para Mujer  Blanco  Sayings   36 EU](https://www.amazon.com/dp/B01I2DJTJY/?tag=redken08-20) a 23.23 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ANeetWLJL._SL200_.jpg)](https://www.amazon.com/dp/B01I2DJTJY/?tag=redken08-20)
 

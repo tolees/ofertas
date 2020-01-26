@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Bradstreet Plain Toe Oxford   al 50.00 % de descuento'
+title: 'Timberland Bradstreet Plain Toe Oxford  '
 date: 2019/10/11 14:06:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2ByoyiTcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T%2ByoyiTcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Está [Timberland Bradstreet Plain Toe Oxford  Zapatillas Bajas para Hombre  Marrón  Saddle 2jf   42 EU](https://www.amazon.com/dp/B01NBOCPUE/?tag=redken08-20) con 50.00 de descuento por 70 EUR (original: 140 EUR) en el siguiente enlace!
+Está [Timberland Bradstreet Plain Toe Oxford  Zapatillas Bajas para Hombre  Marrón  Saddle 2jf   42 EU](https://www.amazon.com/dp/B01NBOCPUE/?tag=redken08-20) por 70 EUR (original: 140 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41T%2ByoyiTcL._SL200_.jpg)](https://www.amazon.com/dp/B01NBOCPUE/?tag=redken08-20)
 

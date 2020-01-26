@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buffalo London 415-1271 Cow Suede  Zapat al 81.83 % de descuento'
+title: 'Buffalo London 415-1271 Cow Suede  Zapat'
 date: 2019/11/11 21:25:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rTBIVZnCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rTBIVZnCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Está [Buffalo London 415-1271 Cow Suede  Zapatos de Cordones Derby para Mujer  Azul Oscuro  39 EU](https://www.amazon.com/dp/B01DTEADZU/?tag=redken08-20) con 81.83 de descuento por 18.15 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [Buffalo London 415-1271 Cow Suede  Zapatos de Cordones Derby para Mujer  Azul Oscuro  39 EU](https://www.amazon.com/dp/B01DTEADZU/?tag=redken08-20) por 18.15 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rTBIVZnCL._SL200_.jpg)](https://www.amazon.com/dp/B01DTEADZU/?tag=redken08-20)
 

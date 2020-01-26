@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mars Gaming - Fuente de alimentación par al 29.74 % de descuento'
+title: 'Mars Gaming - Fuente de alimentación par'
 date: 2019/11/26 13:56:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51apjrDXDkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51apjrDXDkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 36.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mars Gaming - Fuente de alimentación para PC](https://www.amazon.com/dp/B01C41OGZC/?tag=redken08-20) a 25.99 EUR (original: 36.99 EUR) (29.74 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Mars Gaming - Fuente de alimentación para PC](https://www.amazon.com/dp/B01C41OGZC/?tag=redken08-20) a 25.99 EUR (original: 36.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51apjrDXDkL._SL200_.jpg)](https://www.amazon.com/dp/B01C41OGZC/?tag=redken08-20)
 

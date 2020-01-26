@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Filamento PLA Plus de la impresora SUNLU al 64.39 % de descuento'
+title: 'Filamento PLA Plus de la impresora SUNLU'
 date: 2019/10/14 18:27:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nGCHLxnFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nGCHLxnFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Filamento PLA Plus de la impresora SUNLU 3D  filamento PLA de 1.75 mm  filamento de impresión 3D de bajo olor  precisión dimensional +/- 0.02 mm  filamento 3D del carrete 3D  Verde PLA+](https://www.amazon.com/dp/B073P9LZWB/?tag=redken08-20) a 14.24 EUR (original: 39.99 EUR) (64.39 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Filamento PLA Plus de la impresora SUNLU 3D  filamento PLA de 1.75 mm  filamento de impresión 3D de bajo olor  precisión dimensional +/- 0.02 mm  filamento 3D del carrete 3D  Verde PLA+](https://www.amazon.com/dp/B073P9LZWB/?tag=redken08-20) a 14.24 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51nGCHLxnFL._SL200_.jpg)](https://www.amazon.com/dp/B073P9LZWB/?tag=redken08-20)
 

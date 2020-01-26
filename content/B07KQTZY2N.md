@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Ballet Pump Bailarinas  Negro Blac al 35.00 % de descuento'
+title: 'find. Ballet Pump Bailarinas  Negro Blac'
 date: 2019/12/07 10:20:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dvHaNQP9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dvHaNQP9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Ballet Pump Bailarinas  Negro Black  41 EU](https://www.amazon.com/dp/B07KQTZY2N/?tag=redken08-20) a 19.5 EUR (original: 30 EUR) (35.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [find. Ballet Pump Bailarinas  Negro Black  41 EU](https://www.amazon.com/dp/B07KQTZY2N/?tag=redken08-20) a 19.5 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dvHaNQP9L._SL200_.jpg)](https://www.amazon.com/dp/B07KQTZY2N/?tag=redken08-20)
 

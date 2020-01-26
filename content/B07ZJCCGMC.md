@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMERIL Luz Nocturna con Sensor de Movimi al 30.02 % de descuento'
+title: 'OMERIL Luz Nocturna con Sensor de Movimi'
 date: 2020-01-22 07:31:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ikgchjdzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ikgchjdzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [OMERIL Luz Nocturna con Sensor de Movimiento  2 Piezas   Luz Armario con 7 LED  3 Modos y Imán Incorporado  Luz Presencia LED Pilas para Armario  Dormitorio  Escalera  Pasillo  Cocina  Baño  Garaje](https://www.amazon.com/dp/B07ZJCCGMC/?tag=redken08-20) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [OMERIL Luz Nocturna con Sensor de Movimiento  2 Piezas   Luz Armario con 7 LED  3 Modos y Imán Incorporado  Luz Presencia LED Pilas para Armario  Dormitorio  Escalera  Pasillo  Cocina  Baño  Garaje](https://www.amazon.com/dp/B07ZJCCGMC/?tag=redken08-20) por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ikgchjdzL._SL200_.jpg)](https://www.amazon.com/dp/B07ZJCCGMC/?tag=redken08-20)
 

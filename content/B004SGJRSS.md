@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma 352634  Zapatillas Unisex Adulto  N al 62.33 % de descuento'
+title: 'Puma 352634  Zapatillas Unisex Adulto  N'
 date: 2019/11/26 08:26:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KXXnZFZqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KXXnZFZqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 84.95 EUR
 inStock: true
 ---
 
-Está [Puma 352634  Zapatillas Unisex Adulto  Negro  Black-White 03   43 EU](https://www.amazon.com/dp/B004SGJRSS/?tag=redken08-20) con 62.33 de descuento por 32 EUR (original: 84.95 EUR) en el siguiente enlace!
+Está [Puma 352634  Zapatillas Unisex Adulto  Negro  Black-White 03   43 EU](https://www.amazon.com/dp/B004SGJRSS/?tag=redken08-20) por 32 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KXXnZFZqL._SL200_.jpg)](https://www.amazon.com/dp/B004SGJRSS/?tag=redken08-20)
 

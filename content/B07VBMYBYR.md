@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YOSICIL Princesa Disfraz Frozen Elsa Ver al 32.09 % de descuento'
+title: 'YOSICIL Princesa Disfraz Frozen Elsa Ver'
 date: 2019/12/23 17:18:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519jgxJ8C1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519jgxJ8C1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32.22 EUR
 inStock: true
 ---
 
-Está [YOSICIL Princesa Disfraz Frozen Elsa Verde Disfraces Princesas Disfraz Infantil niña Bordado Fancy Dress con Mangas de Encaje Transparente Princesa Cosplay Vestido para Niñas 100cm-150cm](https://www.amazon.com/dp/B07VBMYBYR/?tag=redken08-20) con 32.09 de descuento por 21.88 EUR (original: 32.22 EUR) en el siguiente enlace!
+Está [YOSICIL Princesa Disfraz Frozen Elsa Verde Disfraces Princesas Disfraz Infantil niña Bordado Fancy Dress con Mangas de Encaje Transparente Princesa Cosplay Vestido para Niñas 100cm-150cm](https://www.amazon.com/dp/B07VBMYBYR/?tag=redken08-20) por 21.88 EUR (original: 32.22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/519jgxJ8C1L._SL200_.jpg)](https://www.amazon.com/dp/B07VBMYBYR/?tag=redken08-20)
 

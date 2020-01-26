@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black Crown Piton 3.0 - Peso Palas - 355 al 56.53 % de descuento'
+title: 'Black Crown Piton 3.0 - Peso Palas - 355'
 date: 2020-01-17 16:20:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iGz6SqCAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iGz6SqCAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 200 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Black Crown Piton 3.0 - Peso Palas - 355-365 grs](https://www.amazon.com/dp/B00OQNVUJW/?tag=redken08-20) a 86.95 EUR (original: 200 EUR) (56.53 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Black Crown Piton 3.0 - Peso Palas - 355-365 grs](https://www.amazon.com/dp/B00OQNVUJW/?tag=redken08-20) a 86.95 EUR (original: 200 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iGz6SqCAL._SL200_.jpg)](https://www.amazon.com/dp/B00OQNVUJW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Emporio Armani 111210 Calzoncillos  Negr al 41.67 % de descuento'
+title: 'Emporio Armani 111210 Calzoncillos  Negr'
 date: 2019/11/28 00:32:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GLTVm1KAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GLTVm1KAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Emporio Armani 111210 Calzoncillos  Negro  Black   Medium  Tamaño del Fabricante:M   Pack de 2 para Hombre](https://www.amazon.com/dp/B004ZPYKFC/?tag=redken08-20) con 41.67 de descuento por 17.5 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Emporio Armani 111210 Calzoncillos  Negro  Black   Medium  Tamaño del Fabricante:M   Pack de 2 para Hombre](https://www.amazon.com/dp/B004ZPYKFC/?tag=redken08-20) por 17.5 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GLTVm1KAL._SL200_.jpg)](https://www.amazon.com/dp/B004ZPYKFC/?tag=redken08-20)
 

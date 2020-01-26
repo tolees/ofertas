@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.01 % en Razer Abyssus V2 - Essential Gaming Rato'
+title: 'Razer Abyssus V2 - Essential Gaming Rato'
 date: 2019/12/02 22:33:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o6ozg3qdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o6ozg3qdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [Razer Abyssus V2 - Essential Gaming Raton  Color Negro](https://www.amazon.com/dp/B07BTK95YC/?tag=redken08-20) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Razer Abyssus V2 - Essential Gaming Raton  Color Negro](https://www.amazon.com/dp/B07BTK95YC/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31o6ozg3qdL._SL200_.jpg)](https://www.amazon.com/dp/B07BTK95YC/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BIC Kids Plastidecor - Blíster de 12 uni al 31.79 % de descuento'
+title: 'BIC Kids Plastidecor - Blíster de 12 uni'
 date: 2020-01-05 11:31:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512-qA%2BtXDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512-qA%2BtXDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 2.8 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BIC Kids Plastidecor - Blíster de 12 unidades  ceras para colorear  colores surtidos](https://www.amazon.com/dp/B00B6GRVS6/?tag=redken08-20) a 1.91 EUR (original: 2.8 EUR) (31.79 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BIC Kids Plastidecor - Blíster de 12 unidades  ceras para colorear  colores surtidos](https://www.amazon.com/dp/B00B6GRVS6/?tag=redken08-20) a 1.91 EUR (original: 2.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/512-qA%2BtXDL._SL200_.jpg)](https://www.amazon.com/dp/B00B6GRVS6/?tag=redken08-20)
 

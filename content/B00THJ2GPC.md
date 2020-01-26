@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Downshifter 8  GS   Zapatillas de A al 55.75 % de descuento'
+title: 'Nike Downshifter 8  GS   Zapatillas de A'
 date: 2019/11/04 22:26:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-kWS5yShL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-kWS5yShL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Nike Downshifter 8  GS   Zapatillas de Atletismo para Hombre  Multicolor  Cool Grey/Blue Fury/Pure Platinum/White 012   40 EU](https://www.amazon.com/dp/B00THJ2GPC/?tag=redken08-20) con 55.75 de descuento por 22.12 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Nike Downshifter 8  GS   Zapatillas de Atletismo para Hombre  Multicolor  Cool Grey/Blue Fury/Pure Platinum/White 012   40 EU](https://www.amazon.com/dp/B00THJ2GPC/?tag=redken08-20) por 22.12 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-kWS5yShL._SL200_.jpg)](https://www.amazon.com/dp/B00THJ2GPC/?tag=redken08-20)
 

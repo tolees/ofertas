@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois Healthy Mix Concealer Corrector al 47.79 % de descuento'
+title: 'Bourjois Healthy Mix Concealer Corrector'
 date: 2019/12/24 23:47:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lmEUzPG2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lmEUzPG2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois Healthy Mix Concealer Corrector Tono 53 Dark - 29 gr.](https://www.amazon.com/dp/B01NAJZ6OR/?tag=redken08-20) a 4.96 EUR (original: 9.5 EUR) (47.79 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bourjois Healthy Mix Concealer Corrector Tono 53 Dark - 29 gr.](https://www.amazon.com/dp/B01NAJZ6OR/?tag=redken08-20) a 4.96 EUR (original: 9.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lmEUzPG2L._SL200_.jpg)](https://www.amazon.com/dp/B01NAJZ6OR/?tag=redken08-20)
 

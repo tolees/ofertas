@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Producciones Hammer - Trilogía De Terror al 59.92 % de descuento'
+title: 'Producciones Hammer - Trilogía De Terror'
 date: 2020-01-25 06:57:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51L3LfClZZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51L3LfClZZL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Está [Producciones Hammer - Trilogía De Terror [Blu-ray]](https://www.amazon.com/dp/B018RJHIIC/?tag=redken08-20) con 59.92 de descuento por 10.0 EUR (original: 24.95 EUR) en el siguiente enlace!
+Está [Producciones Hammer - Trilogía De Terror [Blu-ray]](https://www.amazon.com/dp/B018RJHIIC/?tag=redken08-20) por 10.0 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51L3LfClZZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B018RJHIIC/?tag=redken08-20)
 

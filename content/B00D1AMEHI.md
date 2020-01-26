@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Iron Man 3 [Blu-ray] al 64.04 % de descuento'
+title: 'Iron Man 3 [Blu-ray]'
 date: 2019/12/02 09:09:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xVqVWP1tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xVqVWP1tL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 33.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Iron Man 3 [Blu-ray]](https://www.amazon.com/dp/B00D1AMEHI/?tag=redken08-20) a 12.17 EUR (original: 33.84 EUR) (64.04 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Iron Man 3 [Blu-ray]](https://www.amazon.com/dp/B00D1AMEHI/?tag=redken08-20) a 12.17 EUR (original: 33.84 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51xVqVWP1tL._SL200_.jpg)](https://www.amazon.com/dp/B00D1AMEHI/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Waterproof Camera FHD 1080P Underwater C al 38.46 % de descuento'
+title: 'Waterproof Camera FHD 1080P Underwater C'
 date: 2019/10/22 10:56:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61hajRuE3xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61hajRuE3xL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Waterproof Camera FHD 1080P Underwater Camera 24MP Waterproof Digital Camera Selfie Dual Screen 16X Digital Zoom Digital Camera for Snorkeling](https://www.amazon.com/dp/B07TVGBJ5Y/?tag=redken08-20) a 79.99 GBP (original: 129.99 GBP) (38.46 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Waterproof Camera FHD 1080P Underwater Camera 24MP Waterproof Digital Camera Selfie Dual Screen 16X Digital Zoom Digital Camera for Snorkeling](https://www.amazon.com/dp/B07TVGBJ5Y/?tag=redken08-20) a 79.99 GBP (original: 129.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61hajRuE3xL._SL200_.jpg)](https://www.amazon.com/dp/B07TVGBJ5Y/?tag=redken08-20)
 

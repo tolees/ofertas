@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optimum Nutrition Suplemento Alimentacio al 41.53 % de descuento'
+title: 'Optimum Nutrition Suplemento Alimentacio'
 date: 2019/10/15 14:08:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ee6-pEnQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ee6-pEnQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35.9 EUR
 inStock: true
 ---
 
-Está [Optimum Nutrition Suplemento Alimentacio en Polvo BCAA  Manzana y Pera - 266 g](https://www.amazon.com/dp/B01DZYPY8A/?tag=redken08-20) con 41.53 de descuento por 20.99 EUR (original: 35.9 EUR) en el siguiente enlace!
+Está [Optimum Nutrition Suplemento Alimentacio en Polvo BCAA  Manzana y Pera - 266 g](https://www.amazon.com/dp/B01DZYPY8A/?tag=redken08-20) por 20.99 EUR (original: 35.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ee6-pEnQL._SL200_.jpg)](https://www.amazon.com/dp/B01DZYPY8A/?tag=redken08-20)
 

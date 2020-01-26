@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Death end re;Quest al 41.57 % de descuento'
+title: 'Death end re;Quest'
 date: 2019/10/17 16:21:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61p39IpkA-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61p39IpkA-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Death end re;Quest](https://www.amazon.com/dp/B07KK2K6WP/?tag=redken08-20) a 35.05 EUR (original: 59.99 EUR) (41.57 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Death end re;Quest](https://www.amazon.com/dp/B07KK2K6WP/?tag=redken08-20) a 35.05 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61p39IpkA-L._SL200_.jpg)](https://www.amazon.com/dp/B07KK2K6WP/?tag=redken08-20)
 

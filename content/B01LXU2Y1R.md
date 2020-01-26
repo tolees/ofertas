@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett London Tailored Logo  Polo manga al 26.95 % de descuento'
+title: 'Hackett London Tailored Logo  Polo manga'
 date: 2019/11/22 07:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a715oIdxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a715oIdxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 73.96 EUR
 inStock: true
 ---
 
-Está [Hackett London Tailored Logo  Polo manga corta para Hombre  Negro  Charcoal   S](https://www.amazon.com/dp/B01LXU2Y1R/?tag=redken08-20) con 26.95 de descuento por 54.03 EUR (original: 73.96 EUR) en el siguiente enlace!
+Está [Hackett London Tailored Logo  Polo manga corta para Hombre  Negro  Charcoal   S](https://www.amazon.com/dp/B01LXU2Y1R/?tag=redken08-20) por 54.03 EUR (original: 73.96 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41a715oIdxL._SL200_.jpg)](https://www.amazon.com/dp/B01LXU2Y1R/?tag=redken08-20)
 

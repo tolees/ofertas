@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun 20S - Recambio para Afeitadora Elé al 76.91 % de descuento'
+title: 'Braun 20S - Recambio para Afeitadora Elé'
 date: 2019/12/16 19:27:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ik-meyTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ik-meyTBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Está [Braun 20S - Recambio para Afeitadora Eléctrica Hombre Cruzer  Láminas de Recambio con Portacuchillas  Color Plata](https://www.amazon.com/dp/B008LQZQFO/?tag=redken08-20) con 76.91 de descuento por 8.08 EUR (original: 35 EUR) en el siguiente enlace!
+Está [Braun 20S - Recambio para Afeitadora Eléctrica Hombre Cruzer  Láminas de Recambio con Portacuchillas  Color Plata](https://www.amazon.com/dp/B008LQZQFO/?tag=redken08-20) por 8.08 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ik-meyTBL._SL200_.jpg)](https://www.amazon.com/dp/B008LQZQFO/?tag=redken08-20)
 

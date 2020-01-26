@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Classic Nylon Zapatilla de Runnin al 35.03 % de descuento'
+title: 'Reebok Classic Nylon Zapatilla de Runnin'
 date: 2020-01-08 13:45:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ydw0C4u4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ydw0C4u4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Está [Reebok Classic Nylon Zapatilla de Running Hombre  Blanco  White / Light Grey   42](https://www.amazon.com/dp/B000AP0SAM/?tag=redken08-20) con 35.03 de descuento por 45.45 EUR (original: 69.95 EUR) en el siguiente enlace!
+Está [Reebok Classic Nylon Zapatilla de Running Hombre  Blanco  White / Light Grey   42](https://www.amazon.com/dp/B000AP0SAM/?tag=redken08-20) por 45.45 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ydw0C4u4L._SL200_.jpg)](https://www.amazon.com/dp/B000AP0SAM/?tag=redken08-20)
 

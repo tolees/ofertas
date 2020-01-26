@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 52.12 % en Gillette mach-3 Cartridge - Pack de 4'
+title: 'Gillette mach-3 Cartridge - Pack de 4'
 date: 2020-01-23 17:46:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51swtjuoSCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51swtjuoSCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.6 EUR
 inStock: true
 ---
 
-Tienes [Gillette mach-3 Cartridge - Pack de 4](https://www.amazon.com/dp/B00NNU0ATU/?tag=redken08-20) con un 52.12 % de descuento con precio de oferta de 6.99 EUR (original: 14.6 EUR) en el siguiente enlace!
+Tienes [Gillette mach-3 Cartridge - Pack de 4](https://www.amazon.com/dp/B00NNU0ATU/?tag=redken08-20) a precio de oferta de 6.99 EUR (original: 14.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51swtjuoSCL._SL200_.jpg)](https://www.amazon.com/dp/B00NNU0ATU/?tag=redken08-20)
 

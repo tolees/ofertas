@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Nova 2 Wn s  Zapatillas Deportivas  al 77.14 % de descuento'
+title: 'PUMA Nova 2 Wn s  Zapatillas Deportivas '
 date: 2020-01-05 12:22:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Q919yZ4sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Q919yZ4sL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Está [PUMA Nova 2 Wn s  Zapatillas Deportivas para Mujer  Negro Black-Heather  37 EU](https://www.amazon.com/dp/B07KG99FDP/?tag=redken08-20) con 77.14 de descuento por 20.56 EUR (original: 89.95 EUR) en el siguiente enlace!
+Está [PUMA Nova 2 Wn s  Zapatillas Deportivas para Mujer  Negro Black-Heather  37 EU](https://www.amazon.com/dp/B07KG99FDP/?tag=redken08-20) por 20.56 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Q919yZ4sL._SL200_.jpg)](https://www.amazon.com/dp/B07KG99FDP/?tag=redken08-20)
 

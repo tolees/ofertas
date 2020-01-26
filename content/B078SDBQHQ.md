@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Stan Smith Bold  Zapatillas de de al 79.05 % de descuento'
+title: 'adidas Stan Smith Bold  Zapatillas de de'
 date: 2019/11/09 11:46:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oIGkkkPYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oIGkkkPYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109.95 EUR
 inStock: true
 ---
 
-Está [adidas Stan Smith Bold  Zapatillas de deporte para Mujer  Azul  Noble Indigo/Noble Indigo/Noble Indigo 0   36 EU](https://www.amazon.com/dp/B078SDBQHQ/?tag=redken08-20) con 79.05 de descuento por 23.03 EUR (original: 109.95 EUR) en el siguiente enlace!
+Está [adidas Stan Smith Bold  Zapatillas de deporte para Mujer  Azul  Noble Indigo/Noble Indigo/Noble Indigo 0   36 EU](https://www.amazon.com/dp/B078SDBQHQ/?tag=redken08-20) por 23.03 EUR (original: 109.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41oIGkkkPYL._SL200_.jpg)](https://www.amazon.com/dp/B078SDBQHQ/?tag=redken08-20)
 

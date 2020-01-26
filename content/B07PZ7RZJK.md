@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Frill Sleeve Chaqueta  Gris  Li al 29.64 % de descuento'
+title: 'New Look Frill Sleeve Chaqueta  Gris  Li'
 date: 2019/12/15 13:08:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XHsSxUsJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XHsSxUsJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.37 EUR
 inStock: true
 ---
 
-Está [New Look Frill Sleeve Chaqueta  Gris  Light Grey 2   42 ES ES para Mujer](https://www.amazon.com/dp/B07PZ7RZJK/?tag=redken08-20) con 29.64 de descuento por 8.0 EUR (original: 11.37 EUR) en el siguiente enlace!
+Está [New Look Frill Sleeve Chaqueta  Gris  Light Grey 2   42 ES ES para Mujer](https://www.amazon.com/dp/B07PZ7RZJK/?tag=redken08-20) por 8.0 EUR (original: 11.37 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XHsSxUsJL._SL200_.jpg)](https://www.amazon.com/dp/B07PZ7RZJK/?tag=redken08-20)
 

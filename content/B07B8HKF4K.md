@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson Expression Home XP-5100 - Impresor al 29.41 % de descuento'
+title: 'Epson Expression Home XP-5100 - Impresor'
 date: 2019/12/26 22:52:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LxTv3ryvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LxTv3ryvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110.99 EUR
 inStock: true
 ---
 
-Está [Epson Expression Home XP-5100 - Impresora Color  Negro Mate](https://www.amazon.com/dp/B07B8HKF4K/?tag=redken08-20) con 29.41 de descuento por 78.35 EUR (original: 110.99 EUR) en el siguiente enlace!
+Está [Epson Expression Home XP-5100 - Impresora Color  Negro Mate](https://www.amazon.com/dp/B07B8HKF4K/?tag=redken08-20) por 78.35 EUR (original: 110.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41LxTv3ryvL._SL200_.jpg)](https://www.amazon.com/dp/B07B8HKF4K/?tag=redken08-20)
 

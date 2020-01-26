@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.61 % en Jack Daniels Gentleman - Whisky   70 cl'
+title: 'Jack Daniels Gentleman - Whisky   70 cl'
 date: 2019/11/03 20:26:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zJsCH0vOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zJsCH0vOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40.94 EUR
 inStock: true
 ---
 
-Tienes [Jack Daniels Gentleman - Whisky   70 cl](https://www.amazon.com/dp/B004CYNYNK/?tag=redken08-20) con un 36.61 % de descuento con precio de oferta de 25.95 EUR (original: 40.94 EUR) en el siguiente enlace!
+Tienes [Jack Daniels Gentleman - Whisky   70 cl](https://www.amazon.com/dp/B004CYNYNK/?tag=redken08-20) a precio de oferta de 25.95 EUR (original: 40.94 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51zJsCH0vOL._SL200_.jpg)](https://www.amazon.com/dp/B004CYNYNK/?tag=redken08-20)
 

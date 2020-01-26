@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Rocket 9  Zapatillas de Deport al 30.00 % de descuento'
+title: 'Asics Gel-Rocket 9  Zapatillas de Deport'
 date: 2019/12/30 08:07:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erzCJGHOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erzCJGHOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 52 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Asics Gel-Rocket 9  Zapatillas de Deporte Interior para Mujer  Azul Blue/White 400  39.5 EU](https://www.amazon.com/dp/B07QPZZPRC/?tag=redken08-20) a 36.4 EUR (original: 52 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Asics Gel-Rocket 9  Zapatillas de Deporte Interior para Mujer  Azul Blue/White 400  39.5 EU](https://www.amazon.com/dp/B07QPZZPRC/?tag=redken08-20) a 36.4 EUR (original: 52 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41erzCJGHOL._SL200_.jpg)](https://www.amazon.com/dp/B07QPZZPRC/?tag=redken08-20)
 

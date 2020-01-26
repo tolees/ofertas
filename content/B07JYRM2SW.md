@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans TJM Contrast Pocket tee Cami al 56.69 % de descuento'
+title: 'Tommy Jeans TJM Contrast Pocket tee Cami'
 date: 2020-01-10 20:16:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VKeb52V5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VKeb52V5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.9 EUR
 inStock: true
 ---
 
-Está [Tommy Jeans TJM Contrast Pocket tee Camiseta  Multicolor  Black Iris/Flame Scarlet 904   X-Large para Hombre](https://www.amazon.com/dp/B07JYRM2SW/?tag=redken08-20) con 56.69 de descuento por 12.95 EUR (original: 29.9 EUR) en el siguiente enlace!
+Está [Tommy Jeans TJM Contrast Pocket tee Camiseta  Multicolor  Black Iris/Flame Scarlet 904   X-Large para Hombre](https://www.amazon.com/dp/B07JYRM2SW/?tag=redken08-20) por 12.95 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31VKeb52V5L._SL200_.jpg)](https://www.amazon.com/dp/B07JYRM2SW/?tag=redken08-20)
 

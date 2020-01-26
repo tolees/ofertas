@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dreamlock vehículo articulado retrofrict al 39.75 % de descuento'
+title: 'dreamlock vehículo articulado retrofrict'
 date: 2020-01-15 22:50:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j5p6cDnjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j5p6cDnjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40.55 EUR
 inStock: true
 ---
 
-Está [dreamlock vehículo articulado retrofriction de construcción 199 pcs 5804 AZ](https://www.amazon.com/dp/B07JL8LWNY/?tag=redken08-20) con 39.75 de descuento por 24.43 EUR (original: 40.55 EUR) en el siguiente enlace!
+Está [dreamlock vehículo articulado retrofriction de construcción 199 pcs 5804 AZ](https://www.amazon.com/dp/B07JL8LWNY/?tag=redken08-20) por 24.43 EUR (original: 40.55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51j5p6cDnjL._SL200_.jpg)](https://www.amazon.com/dp/B07JL8LWNY/?tag=redken08-20)
 

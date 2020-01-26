@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Intey Softbox Iluminacion Kit Fotografia al 38.47 % de descuento'
+title: 'Intey Softbox Iluminacion Kit Fotografia'
 date: 2019/11/08 12:46:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DtWvK3IqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DtWvK3IqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 51.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Intey Softbox Iluminacion Kit Fotografia con Luz Continua Ventana de Luz 50x70cm  Tripode  Bombilla 135W de Fotografía de Estudio Fotográfico](https://www.amazon.com/dp/B01MTK7MDC/?tag=redken08-20) a 31.99 EUR (original: 51.99 EUR) (38.47 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Intey Softbox Iluminacion Kit Fotografia con Luz Continua Ventana de Luz 50x70cm  Tripode  Bombilla 135W de Fotografía de Estudio Fotográfico](https://www.amazon.com/dp/B01MTK7MDC/?tag=redken08-20) a 31.99 EUR (original: 51.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DtWvK3IqL._SL200_.jpg)](https://www.amazon.com/dp/B01MTK7MDC/?tag=redken08-20)
 

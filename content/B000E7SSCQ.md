@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Moschino Cheap & Chic  Agua de tocador p al 60.43 % de descuento'
+title: 'Moschino Cheap & Chic  Agua de tocador p'
 date: 2019/12/10 17:52:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KKQG-0g3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KKQG-0g3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80.87 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Moschino Cheap & Chic  Agua de tocador para hombres - 100 ml.](https://www.amazon.com/dp/B000E7SSCQ/?tag=redken08-20) a 32 EUR (original: 80.87 EUR) (60.43 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Moschino Cheap & Chic  Agua de tocador para hombres - 100 ml.](https://www.amazon.com/dp/B000E7SSCQ/?tag=redken08-20) a 32 EUR (original: 80.87 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KKQG-0g3L._SL200_.jpg)](https://www.amazon.com/dp/B000E7SSCQ/?tag=redken08-20)
 

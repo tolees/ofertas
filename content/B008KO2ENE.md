@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cafetera italiana MONIX Cream 9 tazas |  al 33.18 % de descuento'
+title: 'Cafetera italiana MONIX Cream 9 tazas | '
 date: 2019/12/03 15:07:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41334IFnTjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41334IFnTjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.31 EUR
 inStock: true
 ---
 
-Está [Cafetera italiana MONIX Cream 9 tazas | MONIX Induccion Vitro Gas Electrico](https://www.amazon.com/dp/B008KO2ENE/?tag=redken08-20) con 33.18 de descuento por 17.58 EUR (original: 26.31 EUR) en el siguiente enlace!
+Está [Cafetera italiana MONIX Cream 9 tazas | MONIX Induccion Vitro Gas Electrico](https://www.amazon.com/dp/B008KO2ENE/?tag=redken08-20) por 17.58 EUR (original: 26.31 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41334IFnTjL._SL200_.jpg)](https://www.amazon.com/dp/B008KO2ENE/?tag=redken08-20)
 

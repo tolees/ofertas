@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas 8K K  Zapatillas de Deporte Unise al 48.15 % de descuento'
+title: 'Adidas 8K K  Zapatillas de Deporte Unise'
 date: 2019/10/31 20:55:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G1Yu0KdzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G1Yu0KdzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Adidas 8K K  Zapatillas de Deporte Unisex niño  Naranja  Corneb/Ftwbla/Griuno 000   32 EU](https://www.amazon.com/dp/B075GXF2PD/?tag=redken08-20) a 25.9 EUR (original: 49.95 EUR) (48.15 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Adidas 8K K  Zapatillas de Deporte Unisex niño  Naranja  Corneb/Ftwbla/Griuno 000   32 EU](https://www.amazon.com/dp/B075GXF2PD/?tag=redken08-20) a 25.9 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41G1Yu0KdzL._SL200_.jpg)](https://www.amazon.com/dp/B075GXF2PD/?tag=redken08-20)
 

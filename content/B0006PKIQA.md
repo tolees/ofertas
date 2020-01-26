@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvis - Pasta de dientes - 75 ml al 26.11 % de descuento'
+title: 'Marvis - Pasta de dientes - 75 ml'
 date: 2019/12/20 12:35:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41paeUD9-WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41paeUD9-WL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Marvis - Pasta de dientes - 75 ml](https://www.amazon.com/dp/B0006PKIQA/?tag=redken08-20) a 7.02 EUR (original: 9.5 EUR) (26.11 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Marvis - Pasta de dientes - 75 ml](https://www.amazon.com/dp/B0006PKIQA/?tag=redken08-20) a 7.02 EUR (original: 9.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41paeUD9-WL._SL200_.jpg)](https://www.amazon.com/dp/B0006PKIQA/?tag=redken08-20)
 

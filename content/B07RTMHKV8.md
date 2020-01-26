@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 49.71 % en New Look Emily Crochet  Blusa para Mujer'
+title: 'New Look Emily Crochet  Blusa para Mujer'
 date: 2019/12/23 08:16:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SAlUG%2BurL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SAlUG%2BurL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.85 EUR
 inStock: true
 ---
 
-Tienes [New Look Emily Crochet  Blusa para Mujer  Negro  Black 1   Small  Talla del fabricante: Small ](https://www.amazon.com/dp/B07RTMHKV8/?tag=redken08-20) con un 49.71 % de descuento con precio de oferta de 13 EUR (original: 25.85 EUR) en el siguiente enlace!
+Tienes [New Look Emily Crochet  Blusa para Mujer  Negro  Black 1   Small  Talla del fabricante: Small ](https://www.amazon.com/dp/B07RTMHKV8/?tag=redken08-20) a precio de oferta de 13 EUR (original: 25.85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41SAlUG%2BurL._SL200_.jpg)](https://www.amazon.com/dp/B07RTMHKV8/?tag=redken08-20)
 

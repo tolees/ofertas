@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alluflon Tradizione Italia Crepera  alum al 31.42 % de descuento'
+title: 'Alluflon Tradizione Italia Crepera  alum'
 date: 2019/12/28 22:16:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41npGu7mq7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41npGu7mq7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.03 EUR
 inStock: true
 ---
 
-Está [Alluflon Tradizione Italia Crepera  aluminio  negro  22 cm](https://www.amazon.com/dp/B01N5LRQQS/?tag=redken08-20) con 31.42 de descuento por 8.25 EUR (original: 12.03 EUR) en el siguiente enlace!
+Está [Alluflon Tradizione Italia Crepera  aluminio  negro  22 cm](https://www.amazon.com/dp/B01N5LRQQS/?tag=redken08-20) por 8.25 EUR (original: 12.03 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41npGu7mq7L._SL200_.jpg)](https://www.amazon.com/dp/B01N5LRQQS/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRUTH & FABLE Vestido Mujer de Encaje  V al 62.50 % de descuento'
+title: 'TRUTH & FABLE Vestido Mujer de Encaje  V'
 date: 2019/12/21 20:02:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kOvsPCWnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kOvsPCWnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 92 EUR
 inStock: true
 ---
 
-Está [TRUTH & FABLE Vestido Mujer de Encaje  Verde  Green   40  Talla del fabricante: Medium ](https://www.amazon.com/dp/B078BMNLSL/?tag=redken08-20) con 62.50 de descuento por 34.5 EUR (original: 92 EUR) en el siguiente enlace!
+Está [TRUTH & FABLE Vestido Mujer de Encaje  Verde  Green   40  Talla del fabricante: Medium ](https://www.amazon.com/dp/B078BMNLSL/?tag=redken08-20) por 34.5 EUR (original: 92 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kOvsPCWnL._SL200_.jpg)](https://www.amazon.com/dp/B078BMNLSL/?tag=redken08-20)
 

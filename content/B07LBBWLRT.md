@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Giulian Camisa   Multicolour M al 62.94 % de descuento'
+title: 'Napapijri Giulian Camisa   Multicolour M'
 date: 2019/11/07 13:02:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Kz30cKYGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Kz30cKYGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Está [Napapijri Giulian Camisa   Multicolour M01   47  Talla del Fabricante: XX-Large  para Hombre](https://www.amazon.com/dp/B07LBBWLRT/?tag=redken08-20) con 62.94 de descuento por 29.28 EUR (original: 79 EUR) en el siguiente enlace!
+Está [Napapijri Giulian Camisa   Multicolour M01   47  Talla del Fabricante: XX-Large  para Hombre](https://www.amazon.com/dp/B07LBBWLRT/?tag=redken08-20) por 29.28 EUR (original: 79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Kz30cKYGL._SL200_.jpg)](https://www.amazon.com/dp/B07LBBWLRT/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 53.33 % en Tommy Hilfiger Womens Multi dial Quartz '
+title: 'Tommy Hilfiger Womens Multi dial Quartz '
 date: 2019/10/17 15:08:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516mP7FeecL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516mP7FeecL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 GBP
 inStock: true
 ---
 
-Tienes [Tommy Hilfiger Womens Multi dial Quartz Watch with Leather Strap 1781817](https://www.amazon.com/dp/B074PXYRJC/?tag=redken08-20) con un 53.33 % de descuento con precio de oferta de 70 GBP (original: 150 GBP) en el siguiente enlace!
+Tienes [Tommy Hilfiger Womens Multi dial Quartz Watch with Leather Strap 1781817](https://www.amazon.com/dp/B074PXYRJC/?tag=redken08-20) a precio de oferta de 70 GBP (original: 150 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516mP7FeecL._SL200_.jpg)](https://www.amazon.com/dp/B074PXYRJC/?tag=redken08-20)
 

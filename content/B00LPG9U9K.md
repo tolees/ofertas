@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 501 Original Fit Vaqueros  Haber  al 34.87 % de descuento'
+title: 'Levi s 501 Original Fit Vaqueros  Haber '
 date: 2019/11/28 21:30:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M9KpaEHCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M9KpaEHCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 92 EUR
 inStock: true
 ---
 
-Está [Levi s 501 Original Fit Vaqueros  Haber  38W / 34L para Hombre](https://www.amazon.com/dp/B00LPG9U9K/?tag=redken08-20) con 34.87 de descuento por 59.92 EUR (original: 92 EUR) en el siguiente enlace!
+Está [Levi s 501 Original Fit Vaqueros  Haber  38W / 34L para Hombre](https://www.amazon.com/dp/B00LPG9U9K/?tag=redken08-20) por 59.92 EUR (original: 92 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41M9KpaEHCL._SL200_.jpg)](https://www.amazon.com/dp/B00LPG9U9K/?tag=redken08-20)
 

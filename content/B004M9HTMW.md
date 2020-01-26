@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tristar Br-1009 Tostadora  650 W  Metal  al 33.83 % de descuento'
+title: 'Tristar Br-1009 Tostadora  650 W  Metal '
 date: 2019/11/06 12:32:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pbOBRrViL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pbOBRrViL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.63 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tristar Br-1009 Tostadora  650 W  Metal  2 Ranuras  Blanco](https://www.amazon.com/dp/B004M9HTMW/?tag=redken08-20) a 12.99 EUR (original: 19.63 EUR) (33.83 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tristar Br-1009 Tostadora  650 W  Metal  2 Ranuras  Blanco](https://www.amazon.com/dp/B004M9HTMW/?tag=redken08-20) a 12.99 EUR (original: 19.63 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31pbOBRrViL._SL200_.jpg)](https://www.amazon.com/dp/B004M9HTMW/?tag=redken08-20)
 

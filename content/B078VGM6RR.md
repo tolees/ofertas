@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.76 % en Sony WFSP700NY.CE7 - Auriculares deporti'
+title: 'Sony WFSP700NY.CE7 - Auriculares deporti'
 date: 2019/11/15 06:09:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VHDIc2eaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VHDIc2eaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 200 EUR
 inStock: true
 ---
 
-Tienes [Sony WFSP700NY.CE7 - Auriculares deportivos totalmente inalámbricos  cancelación de ruido  modo sonido ambiente  Bluetooth    color amarillo](https://www.amazon.com/dp/B078VGM6RR/?tag=redken08-20) con un 40.76 % de descuento con precio de oferta de 118.48 EUR (original: 200 EUR) en el siguiente enlace!
+Tienes [Sony WFSP700NY.CE7 - Auriculares deportivos totalmente inalámbricos  cancelación de ruido  modo sonido ambiente  Bluetooth    color amarillo](https://www.amazon.com/dp/B078VGM6RR/?tag=redken08-20) a precio de oferta de 118.48 EUR (original: 200 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31VHDIc2eaL._SL200_.jpg)](https://www.amazon.com/dp/B078VGM6RR/?tag=redken08-20)
 

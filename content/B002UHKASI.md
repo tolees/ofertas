@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch X-Line - Maletín de 54 unidades pa al 74.28 % de descuento'
+title: 'Bosch X-Line - Maletín de 54 unidades pa'
 date: 2019/10/29 18:20:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51li7ov%2BkQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51li7ov%2BkQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [Bosch X-Line - Maletín de 54 unidades para taladrar y atornillar](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20) con 74.28 de descuento por 9 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [Bosch X-Line - Maletín de 54 unidades para taladrar y atornillar](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20) por 9 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51li7ov%2BkQL._SL200_.jpg)](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20)
 

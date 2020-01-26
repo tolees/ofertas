@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 48.20 % de descuento'
+title: 'Levi s The Perfect Tee  Camiseta  Mujer '
 date: 2019/11/14 23:26:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m%2BjXOLj6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m%2BjXOLj6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  New Red Box Taba White 0370   XL](https://www.amazon.com/dp/B07D4RVH6W/?tag=redken08-20) con 48.20 de descuento por 12.95 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  New Red Box Taba White 0370   XL](https://www.amazon.com/dp/B07D4RVH6W/?tag=redken08-20) por 12.95 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41m%2BjXOLj6L._SL200_.jpg)](https://www.amazon.com/dp/B07D4RVH6W/?tag=redken08-20)
 

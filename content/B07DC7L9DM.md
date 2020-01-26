@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma RS-150 Nylon Wn s  Zapatillas para  al 49.53 % de descuento'
+title: 'Puma RS-150 Nylon Wn s  Zapatillas para '
 date: 2019/10/15 15:43:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EuUdLktmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EuUdLktmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Puma RS-150 Nylon Wn s  Zapatillas para Mujer  Negro Black White  40.5 EU](https://www.amazon.com/dp/B07DC7L9DM/?tag=redken08-20) con 49.53 de descuento por 50.44 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Puma RS-150 Nylon Wn s  Zapatillas para Mujer  Negro Black White  40.5 EU](https://www.amazon.com/dp/B07DC7L9DM/?tag=redken08-20) por 50.44 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EuUdLktmL._SL200_.jpg)](https://www.amazon.com/dp/B07DC7L9DM/?tag=redken08-20)
 

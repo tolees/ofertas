@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Van s - Mochila MN Old Skool III Bac Van al 35.51 % de descuento'
+title: 'Van s - Mochila MN Old Skool III Bac Van'
 date: 2020-01-22 14:10:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YxGVG6rmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YxGVG6rmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Van s - Mochila MN Old Skool III Bac Vans Trekking G Vans](https://www.amazon.com/dp/B07QKKTYFL/?tag=redken08-20) a 24.5 EUR (original: 37.99 EUR) (35.51 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Van s - Mochila MN Old Skool III Bac Vans Trekking G Vans](https://www.amazon.com/dp/B07QKKTYFL/?tag=redken08-20) a 24.5 EUR (original: 37.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YxGVG6rmL._SL200_.jpg)](https://www.amazon.com/dp/B07QKKTYFL/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Superstar Foundation - Zapatillas al 49.92 % de descuento'
+title: 'Adidas Superstar Foundation - Zapatillas'
 date: 2019/12/19 23:50:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41avZ%2BSyzkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41avZ%2BSyzkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.74 EUR
 inStock: true
 ---
 
-Está [Adidas Superstar Foundation - Zapatillas para hombre  color Negro  Core Black/ftwr White/core Black   38 EU](https://www.amazon.com/dp/B00PNUHXCK/?tag=redken08-20) con 49.92 de descuento por 49.95 EUR (original: 99.74 EUR) en el siguiente enlace!
+Está [Adidas Superstar Foundation - Zapatillas para hombre  color Negro  Core Black/ftwr White/core Black   38 EU](https://www.amazon.com/dp/B00PNUHXCK/?tag=redken08-20) por 49.95 EUR (original: 99.74 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41avZ%2BSyzkL._SL200_.jpg)](https://www.amazon.com/dp/B00PNUHXCK/?tag=redken08-20)
 

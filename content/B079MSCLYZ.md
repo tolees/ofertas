@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.48 % en Owlboy'
+title: 'Owlboy'
 date: 2019/12/14 07:59:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aCA5szPuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aCA5szPuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [Owlboy](https://www.amazon.com/dp/B079MSCLYZ/?tag=redken08-20) con un 33.48 % de descuento con precio de oferta de 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Owlboy](https://www.amazon.com/dp/B079MSCLYZ/?tag=redken08-20) a precio de oferta de 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51aCA5szPuL._SL200_.jpg)](https://www.amazon.com/dp/B079MSCLYZ/?tag=redken08-20)
 

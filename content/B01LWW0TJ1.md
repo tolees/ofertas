@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Libratone Q Adapt - Auricular OnEar inal al 40.26 % de descuento'
+title: 'Libratone Q Adapt - Auricular OnEar inal'
 date: 2019/10/26 10:21:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X9OVMgcxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X9OVMgcxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 249.9 EUR
 inStock: true
 ---
 
-Está [Libratone Q Adapt - Auricular OnEar inalámbrico  Bluetooth  color beige](https://www.amazon.com/dp/B01LWW0TJ1/?tag=redken08-20) con 40.26 de descuento por 149.28 EUR (original: 249.9 EUR) en el siguiente enlace!
+Está [Libratone Q Adapt - Auricular OnEar inalámbrico  Bluetooth  color beige](https://www.amazon.com/dp/B01LWW0TJ1/?tag=redken08-20) por 149.28 EUR (original: 249.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41X9OVMgcxL._SL200_.jpg)](https://www.amazon.com/dp/B01LWW0TJ1/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ISDIN Ureadin Gel De Baño Hidratante al 79.51 % de descuento'
+title: 'ISDIN Ureadin Gel De Baño Hidratante'
 date: 2019/10/22 23:02:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31f6%2BrjkgRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31f6%2BrjkgRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 48.8 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ISDIN Ureadin Gel De Baño Hidratante](https://www.amazon.com/dp/B07FGH1GWQ/?tag=redken08-20) a 10 EUR (original: 48.8 EUR) (79.51 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [ISDIN Ureadin Gel De Baño Hidratante](https://www.amazon.com/dp/B07FGH1GWQ/?tag=redken08-20) a 10 EUR (original: 48.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31f6%2BrjkgRL._SL200_.jpg)](https://www.amazon.com/dp/B07FGH1GWQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Just Cause 4 al 50.13 % de descuento'
+title: 'Just Cause 4'
 date: 2019/11/23 10:30:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dHhgoJIuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dHhgoJIuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Just Cause 4](https://www.amazon.com/dp/B07DNTQGKK/?tag=redken08-20) a 9.95 EUR (original: 19.95 EUR) (50.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Just Cause 4](https://www.amazon.com/dp/B07DNTQGKK/?tag=redken08-20) a 9.95 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51dHhgoJIuL._SL200_.jpg)](https://www.amazon.com/dp/B07DNTQGKK/?tag=redken08-20)
 

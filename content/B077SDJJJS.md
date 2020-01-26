@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Razer Invicta Quartz Edition - Alfombril al 63.07 % de descuento'
+title: 'Razer Invicta Quartz Edition - Alfombril'
 date: 2019/10/29 01:01:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ycMAZY4EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ycMAZY4EL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Razer Invicta Quartz Edition - Alfombrilla de ratón para Juegos  Color Rosa](https://www.amazon.com/dp/B077SDJJJS/?tag=redken08-20) a 24 EUR (original: 64.99 EUR) (63.07 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Razer Invicta Quartz Edition - Alfombrilla de ratón para Juegos  Color Rosa](https://www.amazon.com/dp/B077SDJJJS/?tag=redken08-20) a 24 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ycMAZY4EL._SL200_.jpg)](https://www.amazon.com/dp/B077SDJJJS/?tag=redken08-20)
 

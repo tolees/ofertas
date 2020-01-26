@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samyang SA7081 - Objetivo 14 mm F2.8 par al 33.57 % de descuento'
+title: 'Samyang SA7081 - Objetivo 14 mm F2.8 par'
 date: 2019/12/29 09:22:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jwjZV8etL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jwjZV8etL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 719 EUR
 inStock: true
 ---
 
-Está [Samyang SA7081 - Objetivo 14 mm F2.8 para Montura Nikon F](https://www.amazon.com/dp/B07GYXHRJ1/?tag=redken08-20) con 33.57 de descuento por 477.63 EUR (original: 719 EUR) en el siguiente enlace!
+Está [Samyang SA7081 - Objetivo 14 mm F2.8 para Montura Nikon F](https://www.amazon.com/dp/B07GYXHRJ1/?tag=redken08-20) por 477.63 EUR (original: 719 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jwjZV8etL._SL200_.jpg)](https://www.amazon.com/dp/B07GYXHRJ1/?tag=redken08-20)
 

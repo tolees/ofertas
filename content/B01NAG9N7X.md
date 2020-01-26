@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Honeywell 6246153-41/7 Bacou Histrio BTP al 73.65 % de descuento'
+title: 'Honeywell 6246153-41/7 Bacou Histrio BTP'
 date: 2019/12/18 18:50:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wAEiJTi0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wAEiJTi0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.81 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Honeywell 6246153-41/7 Bacou Histrio BTP  S3 SRC  Size 41](https://www.amazon.com/dp/B01NAG9N7X/?tag=redken08-20) a 14.44 EUR (original: 54.81 EUR) (73.65 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Honeywell 6246153-41/7 Bacou Histrio BTP  S3 SRC  Size 41](https://www.amazon.com/dp/B01NAG9N7X/?tag=redken08-20) a 14.44 EUR (original: 54.81 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wAEiJTi0L._SL200_.jpg)](https://www.amazon.com/dp/B01NAG9N7X/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett High Vaqueros  Azul  Sitka  al 43.73 % de descuento'
+title: 'Lee Scarlett High Vaqueros  Azul  Sitka '
 date: 2020-01-13 19:55:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DBOsXFOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DBOsXFOuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Scarlett High Vaqueros  Azul  Sitka Worn In Jq   27W/31L para Mujer](https://www.amazon.com/dp/B07M8VHHV1/?tag=redken08-20) a 44.99 EUR (original: 79.95 EUR) (43.73 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lee Scarlett High Vaqueros  Azul  Sitka Worn In Jq   27W/31L para Mujer](https://www.amazon.com/dp/B07M8VHHV1/?tag=redken08-20) a 44.99 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DBOsXFOuL._SL200_.jpg)](https://www.amazon.com/dp/B07M8VHHV1/?tag=redken08-20)
 

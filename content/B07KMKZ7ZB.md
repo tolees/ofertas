@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volcom Crisp Stone BSC TT Camiseta  Homb al 52.20 % de descuento'
+title: 'Volcom Crisp Stone BSC TT Camiseta  Homb'
 date: 2019/11/11 19:13:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gW0Z5UMzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gW0Z5UMzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Volcom Crisp Stone BSC TT Camiseta  Hombre  True Red  S](https://www.amazon.com/dp/B07KMKZ7ZB/?tag=redken08-20) con 52.20 de descuento por 11.95 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Volcom Crisp Stone BSC TT Camiseta  Hombre  True Red  S](https://www.amazon.com/dp/B07KMKZ7ZB/?tag=redken08-20) por 11.95 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gW0Z5UMzL._SL200_.jpg)](https://www.amazon.com/dp/B07KMKZ7ZB/?tag=redken08-20)
 

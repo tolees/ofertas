@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Narcos - Temporadas 1-3  6BD  [Blu-ray] al 53.58 % de descuento'
+title: 'Narcos - Temporadas 1-3  6BD  [Blu-ray]'
 date: 2019/11/27 00:41:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AFLUI9NYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AFLUI9NYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [Narcos - Temporadas 1-3  6BD  [Blu-ray]](https://www.amazon.com/dp/B07VLLN9LH/?tag=redken08-20) con 53.58 de descuento por 32.49 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [Narcos - Temporadas 1-3  6BD  [Blu-ray]](https://www.amazon.com/dp/B07VLLN9LH/?tag=redken08-20) por 32.49 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51AFLUI9NYL._SL200_.jpg)](https://www.amazon.com/dp/B07VLLN9LH/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Royal Canin C-08314 S.N. Mini Starter -  al 53.24 % de descuento'
+title: 'Royal Canin C-08314 S.N. Mini Starter - '
 date: 2020-01-04 10:32:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QRJEqlY7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QRJEqlY7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.6 EUR
 inStock: true
 ---
 
-Está [Royal Canin C-08314 S.N. Mini Starter - 1 Kg](https://www.amazon.com/dp/B004FP9STU/?tag=redken08-20) con 53.24 de descuento por 6.36 EUR (original: 13.6 EUR) en el siguiente enlace!
+Está [Royal Canin C-08314 S.N. Mini Starter - 1 Kg](https://www.amazon.com/dp/B004FP9STU/?tag=redken08-20) por 6.36 EUR (original: 13.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QRJEqlY7L._SL200_.jpg)](https://www.amazon.com/dp/B004FP9STU/?tag=redken08-20)
 

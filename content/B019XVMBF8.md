@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Batman - DRM46 - La Baticueva al 46.34 % de descuento'
+title: 'Batman - DRM46 - La Baticueva'
 date: 2019/10/08 21:12:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tPGuEGAzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tPGuEGAzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 77.99 EUR
 inStock: true
 ---
 
-Está [Batman - DRM46 - La Baticueva](https://www.amazon.com/dp/B019XVMBF8/?tag=redken08-20) con 46.34 de descuento por 41.85 EUR (original: 77.99 EUR) en el siguiente enlace!
+Está [Batman - DRM46 - La Baticueva](https://www.amazon.com/dp/B019XVMBF8/?tag=redken08-20) por 41.85 EUR (original: 77.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tPGuEGAzL._SL200_.jpg)](https://www.amazon.com/dp/B019XVMBF8/?tag=redken08-20)
 

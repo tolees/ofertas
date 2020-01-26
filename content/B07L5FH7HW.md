@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Girl Elsa Shoes Princess Dress Up Girls  al 52.41 % de descuento'
+title: 'Girl Elsa Shoes Princess Dress Up Girls '
 date: 2019/12/22 08:26:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JqrTPNEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JqrTPNEWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.99 GBP
 inStock: true
 ---
 
-Está [Girl Elsa Shoes Princess Dress Up Girls Halloween Fancy Princess Shoes for Cosplay Party Birthday Gift  Blue  7.5 UK Child](https://www.amazon.com/dp/B07L5FH7HW/?tag=redken08-20) con 52.41 de descuento por 9.99 GBP (original: 20.99 GBP) en el siguiente enlace!
+Está [Girl Elsa Shoes Princess Dress Up Girls Halloween Fancy Princess Shoes for Cosplay Party Birthday Gift  Blue  7.5 UK Child](https://www.amazon.com/dp/B07L5FH7HW/?tag=redken08-20) por 9.99 GBP (original: 20.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JqrTPNEWL._SL200_.jpg)](https://www.amazon.com/dp/B07L5FH7HW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 45.24 % en LOOK by Crewcuts - Camiseta de manga lar'
+title: 'LOOK by Crewcuts - Camiseta de manga lar'
 date: 2019/12/15 13:55:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Do9meiV4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Do9meiV4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.39 EUR
 inStock: true
 ---
 
-Tienes [LOOK by Crewcuts - Camiseta de manga larga para niña  liso/estampado  2 unidades   Blue Stripe/Pink  6-7](https://www.amazon.com/dp/B07KQYHM2B/?tag=redken08-20) con un 45.24 % de descuento con precio de oferta de 14.45 EUR (original: 26.39 EUR) en el siguiente enlace!
+Tienes [LOOK by Crewcuts - Camiseta de manga larga para niña  liso/estampado  2 unidades   Blue Stripe/Pink  6-7](https://www.amazon.com/dp/B07KQYHM2B/?tag=redken08-20) a precio de oferta de 14.45 EUR (original: 26.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Do9meiV4L._SL200_.jpg)](https://www.amazon.com/dp/B07KQYHM2B/?tag=redken08-20)
 

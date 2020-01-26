@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 54.72 % en Compo 1433112011 Fertilizante Geranios 5'
+title: 'Compo 1433112011 Fertilizante Geranios 5'
 date: 2019/11/02 21:35:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IlMXXDZYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IlMXXDZYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 5.08 EUR
 inStock: true
 ---
 
-Tienes [Compo 1433112011 Fertilizante Geranios 500 ml  23x7x6.3 cm](https://www.amazon.com/dp/B015KRW4AQ/?tag=redken08-20) con un 54.72 % de descuento con precio de oferta de 2.3 EUR (original: 5.08 EUR) en el siguiente enlace!
+Tienes [Compo 1433112011 Fertilizante Geranios 500 ml  23x7x6.3 cm](https://www.amazon.com/dp/B015KRW4AQ/?tag=redken08-20) a precio de oferta de 2.3 EUR (original: 5.08 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IlMXXDZYL._SL200_.jpg)](https://www.amazon.com/dp/B015KRW4AQ/?tag=redken08-20)
 

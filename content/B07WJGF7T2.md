@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGHTAILING Licht-Set Für  Creator NASA  al 53.76 % de descuento'
+title: 'LIGHTAILING Licht-Set Für  Creator NASA '
 date: 2019/12/11 04:44:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iVd8ZAugL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iVd8ZAugL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Está [LIGHTAILING Licht-Set Für  Creator NASA Apollo 11  Modell - LED Licht-Set Kompatibel Mit Lego 10266 Modell Nicht Enthalten ](https://www.amazon.com/dp/B07WJGF7T2/?tag=redken08-20) con 53.76 de descuento por 36.99 EUR (original: 80 EUR) en el siguiente enlace!
+Está [LIGHTAILING Licht-Set Für  Creator NASA Apollo 11  Modell - LED Licht-Set Kompatibel Mit Lego 10266 Modell Nicht Enthalten ](https://www.amazon.com/dp/B07WJGF7T2/?tag=redken08-20) por 36.99 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51iVd8ZAugL._SL200_.jpg)](https://www.amazon.com/dp/B07WJGF7T2/?tag=redken08-20)
 

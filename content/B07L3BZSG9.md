@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75938 Jurassic World T. Rex vs Dino al 27.50 % de descuento'
+title: 'LEGO 75938 Jurassic World T. Rex vs Dino'
 date: 2019/11/29 09:26:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UK4fr9WJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UK4fr9WJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75938 Jurassic World T. Rex vs Dino-Mech Battle Action Figures  Mighty Dinosaurs Toys for Kids](https://www.amazon.com/dp/B07L3BZSG9/?tag=redken08-20) a 57.99 GBP (original: 79.99 GBP) (27.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75938 Jurassic World T. Rex vs Dino-Mech Battle Action Figures  Mighty Dinosaurs Toys for Kids](https://www.amazon.com/dp/B07L3BZSG9/?tag=redken08-20) a 57.99 GBP (original: 79.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51UK4fr9WJL._SL200_.jpg)](https://www.amazon.com/dp/B07L3BZSG9/?tag=redken08-20)
 

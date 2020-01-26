@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Paule 4  Polo Hombre  Blanco  Natur al 63.96 % de descuento'
+title: 'BOSS Paule 4  Polo Hombre  Blanco  Natur'
 date: 2020-01-14 20:10:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pnkpmdw0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pnkpmdw0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BOSS Paule 4  Polo Hombre  Blanco  Natural   XX-Large](https://www.amazon.com/dp/B07N8S2RTG/?tag=redken08-20) a 36.02 EUR (original: 99.95 EUR) (63.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BOSS Paule 4  Polo Hombre  Blanco  Natural   XX-Large](https://www.amazon.com/dp/B07N8S2RTG/?tag=redken08-20) a 36.02 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31pnkpmdw0L._SL200_.jpg)](https://www.amazon.com/dp/B07N8S2RTG/?tag=redken08-20)
 

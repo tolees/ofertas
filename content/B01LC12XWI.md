@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikolinos Sandalia Mykonos para Mujer al 57.22 % de descuento'
+title: 'Pikolinos Sandalia Mykonos para Mujer'
 date: 2019/11/13 17:38:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KqP9y6NUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KqP9y6NUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89 EUR
 inStock: true
 ---
 
-Está [Pikolinos Sandalia Mykonos para Mujer](https://www.amazon.com/dp/B01LC12XWI/?tag=redken08-20) con 57.22 de descuento por 38.07 EUR (original: 89 EUR) en el siguiente enlace!
+Está [Pikolinos Sandalia Mykonos para Mujer](https://www.amazon.com/dp/B01LC12XWI/?tag=redken08-20) por 38.07 EUR (original: 89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KqP9y6NUL._SL200_.jpg)](https://www.amazon.com/dp/B01LC12XWI/?tag=redken08-20)
 

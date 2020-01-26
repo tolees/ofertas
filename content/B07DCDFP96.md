@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma RS-150 Satin Wn s  Zapatillas para  al 71.65 % de descuento'
+title: 'Puma RS-150 Satin Wn s  Zapatillas para '
 date: 2019/11/04 09:10:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zLrJp%2BQ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zLrJp%2BQ2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma RS-150 Satin Wn s  Zapatillas para Mujer  Negro Black Black  42.5 EU](https://www.amazon.com/dp/B07DCDFP96/?tag=redken08-20) a 28.34 EUR (original: 99.95 EUR) (71.65 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Puma RS-150 Satin Wn s  Zapatillas para Mujer  Negro Black Black  42.5 EU](https://www.amazon.com/dp/B07DCDFP96/?tag=redken08-20) a 28.34 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zLrJp%2BQ2L._SL200_.jpg)](https://www.amazon.com/dp/B07DCDFP96/?tag=redken08-20)
 

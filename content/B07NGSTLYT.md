@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MEDION MD61263 - Ordenador portátil conv al 29.83 % de descuento'
+title: 'MEDION MD61263 - Ordenador portátil conv'
 date: 2019/10/22 07:20:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nXeex%2B4YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nXeex%2B4YL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 399 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MEDION MD61263 - Ordenador portátil convertible de 14" Full HD  Intel Pentium N4000  RAM de 4 GB DDR4  Disco Flash de 64 GB  Intel Graphics  Windows 10 Home  Gris Titanium](https://www.amazon.com/dp/B07NGSTLYT/?tag=redken08-20) a 279.99 EUR (original: 399 EUR) (29.83 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [MEDION MD61263 - Ordenador portátil convertible de 14" Full HD  Intel Pentium N4000  RAM de 4 GB DDR4  Disco Flash de 64 GB  Intel Graphics  Windows 10 Home  Gris Titanium](https://www.amazon.com/dp/B07NGSTLYT/?tag=redken08-20) a 279.99 EUR (original: 399 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nXeex%2B4YL._SL200_.jpg)](https://www.amazon.com/dp/B07NGSTLYT/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Driftline Polo  Polo para H al 35.83 % de descuento'
+title: 'Helly Hansen Driftline Polo  Polo para H'
 date: 2019/12/04 12:59:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D5xRddwKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D5xRddwKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Driftline Polo  Polo para Hombre  Azul  Azul 509   X-Small](https://www.amazon.com/dp/B07PYRD7DB/?tag=redken08-20) con 35.83 de descuento por 38.5 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Helly Hansen Driftline Polo  Polo para Hombre  Azul  Azul 509   X-Small](https://www.amazon.com/dp/B07PYRD7DB/?tag=redken08-20) por 38.5 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31D5xRddwKL._SL200_.jpg)](https://www.amazon.com/dp/B07PYRD7DB/?tag=redken08-20)
 

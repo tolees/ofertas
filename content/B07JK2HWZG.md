@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack Fear The Walking Dead Temporada 1 - al 77.06 % de descuento'
+title: 'Pack Fear The Walking Dead Temporada 1 -'
 date: 2019/12/01 11:21:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xu%2BvZCK2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xu%2BvZCK2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.88 EUR
 inStock: true
 ---
 
-Está [Pack Fear The Walking Dead Temporada 1 - 4 [DVD]](https://www.amazon.com/dp/B07JK2HWZG/?tag=redken08-20) con 77.06 de descuento por 8 EUR (original: 34.88 EUR) en el siguiente enlace!
+Está [Pack Fear The Walking Dead Temporada 1 - 4 [DVD]](https://www.amazon.com/dp/B07JK2HWZG/?tag=redken08-20) por 8 EUR (original: 34.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Xu%2BvZCK2L._SL200_.jpg)](https://www.amazon.com/dp/B07JK2HWZG/?tag=redken08-20)
 

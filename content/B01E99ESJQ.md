@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma - Sudadera campus ii 1/2 cremallera al 33.02 % de descuento'
+title: 'Joma - Sudadera campus ii 1/2 cremallera'
 date: 2019/10/15 14:59:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nI6BldaQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nI6BldaQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32.77 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Joma - Sudadera campus ii 1/2 cremallera royal para hombre  Marino - 331  XS](https://www.amazon.com/dp/B01E99ESJQ/?tag=redken08-20) a 21.95 EUR (original: 32.77 EUR) (33.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Joma - Sudadera campus ii 1/2 cremallera royal para hombre  Marino - 331  XS](https://www.amazon.com/dp/B01E99ESJQ/?tag=redken08-20) a 21.95 EUR (original: 32.77 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nI6BldaQL._SL200_.jpg)](https://www.amazon.com/dp/B01E99ESJQ/?tag=redken08-20)
 

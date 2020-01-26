@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'STANLEY STMT1-74306 - Carro metálico par al 27.97 % de descuento'
+title: 'STANLEY STMT1-74306 - Carro metálico par'
 date: 2019/12/03 02:30:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z0f%2BAWsrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z0f%2BAWsrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 422.95 EUR
 inStock: true
 ---
 
-Está [STANLEY STMT1-74306 - Carro metálico para taller 7 cajones](https://www.amazon.com/dp/B01GUXW4IQ/?tag=redken08-20) con 27.97 de descuento por 304.64 EUR (original: 422.95 EUR) en el siguiente enlace!
+Está [STANLEY STMT1-74306 - Carro metálico para taller 7 cajones](https://www.amazon.com/dp/B01GUXW4IQ/?tag=redken08-20) por 304.64 EUR (original: 422.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Z0f%2BAWsrL._SL200_.jpg)](https://www.amazon.com/dp/B01GUXW4IQ/?tag=redken08-20)
 

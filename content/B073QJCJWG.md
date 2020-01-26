@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS RP-AC55- Repetidor Extensor de Red  al 27.55 % de descuento'
+title: 'ASUS RP-AC55- Repetidor Extensor de Red '
 date: 2019/12/11 08:09:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YFk-ihcyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YFk-ihcyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69 EUR
 inStock: true
 ---
 
-Está [ASUS RP-AC55- Repetidor Extensor de Red WiFi AC1200 Doble Banda  Puerto LAN Gigabit  Modo Punto Acceso  indicador LED señal ](https://www.amazon.com/dp/B073QJCJWG/?tag=redken08-20) con 27.55 de descuento por 49.99 EUR (original: 69 EUR) en el siguiente enlace!
+Está [ASUS RP-AC55- Repetidor Extensor de Red WiFi AC1200 Doble Banda  Puerto LAN Gigabit  Modo Punto Acceso  indicador LED señal ](https://www.amazon.com/dp/B073QJCJWG/?tag=redken08-20) por 49.99 EUR (original: 69 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31YFk-ihcyL._SL200_.jpg)](https://www.amazon.com/dp/B073QJCJWG/?tag=redken08-20)
 

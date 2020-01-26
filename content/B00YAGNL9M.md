@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech K400 Plus - Teclado inalámbrico al 44.33 % de descuento'
+title: 'Logitech K400 Plus - Teclado inalámbrico'
 date: 2020-01-18 17:35:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jfi5sLCoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jfi5sLCoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.89 EUR
 inStock: true
 ---
 
-Está [Logitech K400 Plus - Teclado inalámbrico para televisores conectados a PC  Qwerty español  color blanco](https://www.amazon.com/dp/B00YAGNL9M/?tag=redken08-20) con 44.33 de descuento por 24.99 EUR (original: 44.89 EUR) en el siguiente enlace!
+Está [Logitech K400 Plus - Teclado inalámbrico para televisores conectados a PC  Qwerty español  color blanco](https://www.amazon.com/dp/B00YAGNL9M/?tag=redken08-20) por 24.99 EUR (original: 44.89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31jfi5sLCoL._SL200_.jpg)](https://www.amazon.com/dp/B00YAGNL9M/?tag=redken08-20)
 

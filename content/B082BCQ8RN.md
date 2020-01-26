@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Icons Corner Pack de 2 Sillas Gris Patas al 84.00 % de descuento'
+title: 'Icons Corner Pack de 2 Sillas Gris Patas'
 date: 2020-01-08 08:36:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i7wjJOoaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i7wjJOoaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 349.9 EUR
 inStock: true
 ---
 
-Está [Icons Corner Pack de 2 Sillas Gris Patas de Madera Kandem Paris](https://www.amazon.com/dp/B082BCQ8RN/?tag=redken08-20) con 84.00 de descuento por 55.99 EUR (original: 349.9 EUR) en el siguiente enlace!
+Está [Icons Corner Pack de 2 Sillas Gris Patas de Madera Kandem Paris](https://www.amazon.com/dp/B082BCQ8RN/?tag=redken08-20) por 55.99 EUR (original: 349.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31i7wjJOoaL._SL200_.jpg)](https://www.amazon.com/dp/B082BCQ8RN/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Ultimate Shirt Blusa  Azul  Bleached al 53.09 % de descuento'
+title: 'Lee Ultimate Shirt Blusa  Azul  Bleached'
 date: 2019/11/04 03:22:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41isuUrT47L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41isuUrT47L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.95 EUR
 inStock: true
 ---
 
-Está [Lee Ultimate Shirt Blusa  Azul  Bleached Denim Es   Medium para Mujer](https://www.amazon.com/dp/B07BQ1PRNG/?tag=redken08-20) con 53.09 de descuento por 30.47 EUR (original: 64.95 EUR) en el siguiente enlace!
+Está [Lee Ultimate Shirt Blusa  Azul  Bleached Denim Es   Medium para Mujer](https://www.amazon.com/dp/B07BQ1PRNG/?tag=redken08-20) por 30.47 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41isuUrT47L._SL200_.jpg)](https://www.amazon.com/dp/B07BQ1PRNG/?tag=redken08-20)
 

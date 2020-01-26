@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'auna V-20 - Equipo estéreo   Minicadena  al 43.08 % de descuento'
+title: 'auna V-20 - Equipo estéreo   Minicadena '
 date: 2019/10/13 07:17:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IqQdcYjiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IqQdcYjiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.99 EUR
 inStock: true
 ---
 
-Está [auna V-20 - Equipo estéreo   Minicadena   Reproductor de CD   Sintonizador Dab+   Receptor FM   Bluetooth   Conexión NFC   USB   MP3   Mando a Distancia   Pantalla LED con Reloj   AUX   Negro](https://www.amazon.com/dp/B01LZAKW9T/?tag=redken08-20) con 43.08 de descuento por 73.99 EUR (original: 129.99 EUR) en el siguiente enlace!
+Está [auna V-20 - Equipo estéreo   Minicadena   Reproductor de CD   Sintonizador Dab+   Receptor FM   Bluetooth   Conexión NFC   USB   MP3   Mando a Distancia   Pantalla LED con Reloj   AUX   Negro](https://www.amazon.com/dp/B01LZAKW9T/?tag=redken08-20) por 73.99 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IqQdcYjiL._SL200_.jpg)](https://www.amazon.com/dp/B01LZAKW9T/?tag=redken08-20)
 

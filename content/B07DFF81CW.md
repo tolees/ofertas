@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 31748 Pocket POP Keychain: Overwat al 41.92 % de descuento'
+title: 'Funko 31748 Pocket POP Keychain: Overwat'
 date: 2020-01-13 06:01:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HQBA4uwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HQBA4uwJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.87 GBP
 inStock: true
 ---
 
-Está [Funko 31748 Pocket POP Keychain: Overwatch: Mercy S3  Multi  Standard](https://www.amazon.com/dp/B07DFF81CW/?tag=redken08-20) con 41.92 de descuento por 3.99 GBP (original: 6.87 GBP) en el siguiente enlace!
+Está [Funko 31748 Pocket POP Keychain: Overwatch: Mercy S3  Multi  Standard](https://www.amazon.com/dp/B07DFF81CW/?tag=redken08-20) por 3.99 GBP (original: 6.87 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51HQBA4uwJL._SL200_.jpg)](https://www.amazon.com/dp/B07DFF81CW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diset- Rufus  el Perrito meón  60189  al 54.22 % de descuento'
+title: 'Diset- Rufus  el Perrito meón  60189 '
 date: 2019/12/06 14:39:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SeCq70l4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SeCq70l4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.95 EUR
 inStock: true
 ---
 
-Está [Diset- Rufus  el Perrito meón  60189 ](https://www.amazon.com/dp/B06ZZ6TZ5C/?tag=redken08-20) con 54.22 de descuento por 16 EUR (original: 34.95 EUR) en el siguiente enlace!
+Está [Diset- Rufus  el Perrito meón  60189 ](https://www.amazon.com/dp/B06ZZ6TZ5C/?tag=redken08-20) por 16 EUR (original: 34.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51SeCq70l4L._SL200_.jpg)](https://www.amazon.com/dp/B06ZZ6TZ5C/?tag=redken08-20)
 

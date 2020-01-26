@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bandas de resistencia ejercicio con asas al 45.22 % de descuento'
+title: 'Bandas de resistencia ejercicio con asas'
 date: 2019/12/09 12:33:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BqZqXtatL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BqZqXtatL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bandas de resistencia ejercicio con asas deportes casa y gimnasio Entrenamiento](https://www.amazon.com/dp/B01J7YNT2U/?tag=redken08-20) a 9.97 EUR (original: 18.2 EUR) (45.22 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bandas de resistencia ejercicio con asas deportes casa y gimnasio Entrenamiento](https://www.amazon.com/dp/B01J7YNT2U/?tag=redken08-20) a 9.97 EUR (original: 18.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BqZqXtatL._SL200_.jpg)](https://www.amazon.com/dp/B01J7YNT2U/?tag=redken08-20)
 

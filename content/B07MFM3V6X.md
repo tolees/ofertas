@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Oliver Cap  Zapatos de Cordones D al 74.83 % de descuento'
+title: 'Clarks Oliver Cap  Zapatos de Cordones D'
 date: 2019/11/21 08:11:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41809CAF9ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41809CAF9ZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Clarks Oliver Cap  Zapatos de Cordones Derby para Hombre  Marrón Dark Brown Lea  42 EU](https://www.amazon.com/dp/B07MFM3V6X/?tag=redken08-20) con 74.83 de descuento por 37.76 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Clarks Oliver Cap  Zapatos de Cordones Derby para Hombre  Marrón Dark Brown Lea  42 EU](https://www.amazon.com/dp/B07MFM3V6X/?tag=redken08-20) por 37.76 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41809CAF9ZL._SL200_.jpg)](https://www.amazon.com/dp/B07MFM3V6X/?tag=redken08-20)
 

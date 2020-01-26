@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.65 % en Pepe Jeans Spike Vaqueros  Azul  Fonce D'
+title: 'Pepe Jeans Spike Vaqueros  Azul  Fonce D'
 date: 2019/12/28 21:34:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uQpA0zE-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uQpA0zE-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Tienes [Pepe Jeans Spike Vaqueros  Azul  Fonce Denim H05   W32/L36 para Hombre](https://www.amazon.com/dp/B06XCPBT9Q/?tag=redken08-20) con un 37.65 % de descuento con precio de oferta de 53 EUR (original: 85 EUR) en el siguiente enlace!
+Tienes [Pepe Jeans Spike Vaqueros  Azul  Fonce Denim H05   W32/L36 para Hombre](https://www.amazon.com/dp/B06XCPBT9Q/?tag=redken08-20) a precio de oferta de 53 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uQpA0zE-L._SL200_.jpg)](https://www.amazon.com/dp/B06XCPBT9Q/?tag=redken08-20)
 

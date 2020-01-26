@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Carina L  Zapatillas para Mujer  Bl al 47.57 % de descuento'
+title: 'PUMA Carina L  Zapatillas para Mujer  Bl'
 date: 2020-01-21 18:31:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lyNIr%2BCXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lyNIr%2BCXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [PUMA Carina L  Zapatillas para Mujer  Black White Silver  40 EU](https://www.amazon.com/dp/B07JWQBV9W/?tag=redken08-20) con 47.57 de descuento por 31.46 EUR (original: 60 EUR) en el siguiente enlace!
+Está [PUMA Carina L  Zapatillas para Mujer  Black White Silver  40 EU](https://www.amazon.com/dp/B07JWQBV9W/?tag=redken08-20) por 31.46 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lyNIr%2BCXL._SL200_.jpg)](https://www.amazon.com/dp/B07JWQBV9W/?tag=redken08-20)
 

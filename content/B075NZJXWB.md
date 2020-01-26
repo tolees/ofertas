@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple - Funda de Piel  para el iPad Pro  al 50.62 % de descuento'
+title: 'Apple - Funda de Piel  para el iPad Pro '
 date: 2019/12/28 20:01:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318EPNrYHcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318EPNrYHcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 149 EUR
 inStock: true
 ---
 
-Está [Apple - Funda de Piel  para el iPad Pro de 10 5 Pulgadas  - Rojo](https://www.amazon.com/dp/B075NZJXWB/?tag=redken08-20) con 50.62 de descuento por 73.57 EUR (original: 149 EUR) en el siguiente enlace!
+Está [Apple - Funda de Piel  para el iPad Pro de 10 5 Pulgadas  - Rojo](https://www.amazon.com/dp/B075NZJXWB/?tag=redken08-20) por 73.57 EUR (original: 149 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318EPNrYHcL._SL200_.jpg)](https://www.amazon.com/dp/B075NZJXWB/?tag=redken08-20)
 

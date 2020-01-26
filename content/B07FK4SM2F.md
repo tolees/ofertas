@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Millet MIV8007_L Chaqueta  Hombre  Posei al 51.00 % de descuento'
+title: 'Millet MIV8007_L Chaqueta  Hombre  Posei'
 date: 2019/11/15 14:01:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4165RWzuYyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4165RWzuYyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 310.91 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Millet MIV8007_L Chaqueta  Hombre  Poseidon  L](https://www.amazon.com/dp/B07FK4SM2F/?tag=redken08-20) a 152.35 EUR (original: 310.91 EUR) (51.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Millet MIV8007_L Chaqueta  Hombre  Poseidon  L](https://www.amazon.com/dp/B07FK4SM2F/?tag=redken08-20) a 152.35 EUR (original: 310.91 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4165RWzuYyL._SL200_.jpg)](https://www.amazon.com/dp/B07FK4SM2F/?tag=redken08-20)
 

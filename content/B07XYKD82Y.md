@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gang Beasts al 26.68 % de descuento'
+title: 'Gang Beasts'
 date: 2019/12/13 18:51:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QOoNHy%2B7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QOoNHy%2B7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Gang Beasts](https://www.amazon.com/dp/B07XYKD82Y/?tag=redken08-20) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Gang Beasts](https://www.amazon.com/dp/B07XYKD82Y/?tag=redken08-20) por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QOoNHy%2B7L._SL200_.jpg)](https://www.amazon.com/dp/B07XYKD82Y/?tag=redken08-20)
 

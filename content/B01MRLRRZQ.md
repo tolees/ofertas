@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ESS Jersey Shorts 9` Pantalones Cor al 68.88 % de descuento'
+title: 'PUMA ESS Jersey Shorts 9` Pantalones Cor'
 date: 2019/11/04 06:44:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kJwMShy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kJwMShy8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA ESS Jersey Shorts 9` Pantalones Cortos  Hombre  Gris  M](https://www.amazon.com/dp/B01MRLRRZQ/?tag=redken08-20) a 9.32 EUR (original: 29.95 EUR) (68.88 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [PUMA ESS Jersey Shorts 9` Pantalones Cortos  Hombre  Gris  M](https://www.amazon.com/dp/B01MRLRRZQ/?tag=redken08-20) a 9.32 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kJwMShy8L._SL200_.jpg)](https://www.amazon.com/dp/B01MRLRRZQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Stan Smith  Zapatillas Unisex Niñ al 61.13 % de descuento'
+title: 'Adidas Stan Smith  Zapatillas Unisex Niñ'
 date: 2020-01-11 15:47:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BiFl2KYTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BiFl2KYTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Está [Adidas Stan Smith  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Green 0   28 EU](https://www.amazon.com/dp/B01GUZJ9NW/?tag=redken08-20) con 61.13 de descuento por 21.36 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [Adidas Stan Smith  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Green 0   28 EU](https://www.amazon.com/dp/B01GUZJ9NW/?tag=redken08-20) por 21.36 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BiFl2KYTL._SL200_.jpg)](https://www.amazon.com/dp/B01GUZJ9NW/?tag=redken08-20)
 

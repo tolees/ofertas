@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Ninjago 70646 Drachenmeister Jay al 33.36 % de descuento'
+title: 'LEGO Ninjago 70646 Drachenmeister Jay'
 date: 2019/11/06 10:57:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gYp2-kXxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gYp2-kXxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [LEGO Ninjago 70646 Drachenmeister Jay](https://www.amazon.com/dp/B0765BRCQM/?tag=redken08-20) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [LEGO Ninjago 70646 Drachenmeister Jay](https://www.amazon.com/dp/B0765BRCQM/?tag=redken08-20) por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51gYp2-kXxL._SL200_.jpg)](https://www.amazon.com/dp/B0765BRCQM/?tag=redken08-20)
 

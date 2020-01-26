@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Henry London Reloj Analógico para Unisex al 40.31 % de descuento'
+title: 'Henry London Reloj Analógico para Unisex'
 date: 2019/12/15 21:34:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ai1RHjizL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ai1RHjizL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 157.47 EUR
 inStock: true
 ---
 
-Está [Henry London Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable 5018479077626](https://www.amazon.com/dp/B014JRQO9K/?tag=redken08-20) con 40.31 de descuento por 94 EUR (original: 157.47 EUR) en el siguiente enlace!
+Está [Henry London Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable 5018479077626](https://www.amazon.com/dp/B014JRQO9K/?tag=redken08-20) por 94 EUR (original: 157.47 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ai1RHjizL._SL200_.jpg)](https://www.amazon.com/dp/B014JRQO9K/?tag=redken08-20)
 

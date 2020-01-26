@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fuell Cell Propel  Zapatilla al 50.00 % de descuento'
+title: 'New Balance Fuell Cell Propel  Zapatilla'
 date: 2019-12-31 17:53:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 120 EUR
 inStock: true
 ---
 
-Está [New Balance Fuell Cell Propel  Zapatillas de Running para Mujer  Negro  Black/Lead Black/Lead   37.5 EU](https://www.amazon.com/dp/B07HG56SHW/?tag=redken08-20) con 50.00 de descuento por 60 EUR (original: 120 EUR) en el siguiente enlace!
+Está [New Balance Fuell Cell Propel  Zapatillas de Running para Mujer  Negro  Black/Lead Black/Lead   37.5 EU](https://www.amazon.com/dp/B07HG56SHW/?tag=redken08-20) por 60 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg)](https://www.amazon.com/dp/B07HG56SHW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual 19WAXP01 - Bolso de hombro de S al 58.04 % de descuento'
+title: 'Desigual 19WAXP01 - Bolso de hombro de S'
 date: 2020-01-24 13:34:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51snA6CMKaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51snA6CMKaL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [Desigual 19WAXP01 - Bolso de hombro de Sintético Mujer 15x6.8x20 cm  B x H x T ](https://www.amazon.com/dp/B07MXVNHD5/?tag=redken08-20) con 58.04 de descuento por 20.96 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [Desigual 19WAXP01 - Bolso de hombro de Sintético Mujer 15x6.8x20 cm  B x H x T ](https://www.amazon.com/dp/B07MXVNHD5/?tag=redken08-20) por 20.96 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51snA6CMKaL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MXVNHD5/?tag=redken08-20)
 

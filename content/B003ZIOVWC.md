@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Johnnie Walker King George V. Whisky Esc al 25.56 % de descuento'
+title: 'Johnnie Walker King George V. Whisky Esc'
 date: 2019/11/20 10:50:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XSwT7GxeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XSwT7GxeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 450 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Johnnie Walker King George V. Whisky Escocés - 700 ml](https://www.amazon.com/dp/B003ZIOVWC/?tag=redken08-20) a 335 EUR (original: 450 EUR) (25.56 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Johnnie Walker King George V. Whisky Escocés - 700 ml](https://www.amazon.com/dp/B003ZIOVWC/?tag=redken08-20) a 335 EUR (original: 450 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XSwT7GxeL._SL200_.jpg)](https://www.amazon.com/dp/B003ZIOVWC/?tag=redken08-20)
 

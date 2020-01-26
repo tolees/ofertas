@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Slim Oxford Camisa  Rosa  Pink 01  al 50.00 % de descuento'
+title: 'find. Slim Oxford Camisa  Rosa  Pink 01 '
 date: 2019/12/05 11:55:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/616EkzQOPuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/616EkzQOPuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Slim Oxford Camisa  Rosa  Pink 01   50](https://www.amazon.com/dp/B01MXYIJGA/?tag=redken08-20) a 8.95 EUR (original: 17.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [find. Slim Oxford Camisa  Rosa  Pink 01   50](https://www.amazon.com/dp/B01MXYIJGA/?tag=redken08-20) a 8.95 EUR (original: 17.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/616EkzQOPuL._SL200_.jpg)](https://www.amazon.com/dp/B01MXYIJGA/?tag=redken08-20)
 

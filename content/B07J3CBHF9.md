@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Undeniable Duffel 4.0 MD Bo al 43.36 % de descuento'
+title: 'Under Armour Undeniable Duffel 4.0 MD Bo'
 date: 2019/12/17 09:10:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xnKa4uIrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xnKa4uIrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Está [Under Armour Undeniable Duffel 4.0 MD Bolsa Deportiva  Unisex Adulto  marrón  OSFA](https://www.amazon.com/dp/B07J3CBHF9/?tag=redken08-20) con 43.36 de descuento por 25.49 EUR (original: 45 EUR) en el siguiente enlace!
+Está [Under Armour Undeniable Duffel 4.0 MD Bolsa Deportiva  Unisex Adulto  marrón  OSFA](https://www.amazon.com/dp/B07J3CBHF9/?tag=redken08-20) por 25.49 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xnKa4uIrL._SL200_.jpg)](https://www.amazon.com/dp/B07J3CBHF9/?tag=redken08-20)
 

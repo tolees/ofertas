@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike M NSW Short JSY Club Pantalón Corto al 48.85 % de descuento'
+title: 'Nike M NSW Short JSY Club Pantalón Corto'
 date: 2019/11/03 16:42:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313Qwjf-XqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313Qwjf-XqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39 EUR
 inStock: true
 ---
 
-Está [Nike M NSW Short JSY Club Pantalón Corto  Sin género  Negro/Blanco  S](https://www.amazon.com/dp/B01HGQZGC2/?tag=redken08-20) con 48.85 de descuento por 19.95 EUR (original: 39 EUR) en el siguiente enlace!
+Está [Nike M NSW Short JSY Club Pantalón Corto  Sin género  Negro/Blanco  S](https://www.amazon.com/dp/B01HGQZGC2/?tag=redken08-20) por 19.95 EUR (original: 39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/313Qwjf-XqL._SL200_.jpg)](https://www.amazon.com/dp/B01HGQZGC2/?tag=redken08-20)
 

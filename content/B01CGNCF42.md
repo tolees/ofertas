@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schwarzkopf Laca - 300 ml al 45.81 % de descuento'
+title: 'Schwarzkopf Laca - 300 ml'
 date: 2019/10/30 21:12:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41egsi5Jh3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41egsi5Jh3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Schwarzkopf Laca - 300 ml](https://www.amazon.com/dp/B01CGNCF42/?tag=redken08-20) a 6.99 EUR (original: 12.9 EUR) (45.81 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Schwarzkopf Laca - 300 ml](https://www.amazon.com/dp/B01CGNCF42/?tag=redken08-20) a 6.99 EUR (original: 12.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41egsi5Jh3L._SL200_.jpg)](https://www.amazon.com/dp/B01CGNCF42/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SMTALY C2 Cámara IP Exterior  1080P IP66 al 53.64 % de descuento'
+title: 'SMTALY C2 Cámara IP Exterior  1080P IP66'
 date: 2019/11/02 14:32:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kHvwC2CTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kHvwC2CTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109.99 EUR
 inStock: true
 ---
 
-Está [SMTALY C2 Cámara IP Exterior  1080P IP66 Impermeable  36 LEDs IR Visión Nocturna  Audio Bidireccional  Detección de Movimiento para Hogar/Baby Monitor/Mascotas/Tienda  iOS/Android/PC  Blanco](https://www.amazon.com/dp/B07MG3RV7K/?tag=redken08-20) con 53.64 de descuento por 50.99 EUR (original: 109.99 EUR) en el siguiente enlace!
+Está [SMTALY C2 Cámara IP Exterior  1080P IP66 Impermeable  36 LEDs IR Visión Nocturna  Audio Bidireccional  Detección de Movimiento para Hogar/Baby Monitor/Mascotas/Tienda  iOS/Android/PC  Blanco](https://www.amazon.com/dp/B07MG3RV7K/?tag=redken08-20) por 50.99 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kHvwC2CTL._SL200_.jpg)](https://www.amazon.com/dp/B07MG3RV7K/?tag=redken08-20)
 

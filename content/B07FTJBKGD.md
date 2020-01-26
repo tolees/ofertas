@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Logo tee Camiseta  Marfil  Radiant Y al 50.00 % de descuento'
+title: 'Lee Logo tee Camiseta  Marfil  Radiant Y'
 date: 2019/11/13 13:58:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GC%2B2hEsZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GC%2B2hEsZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Lee Logo tee Camiseta  Marfil  Radiant Yellow LG   Medium para Hombre](https://www.amazon.com/dp/B07FTJBKGD/?tag=redken08-20) con 50.00 de descuento por 12.5 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Lee Logo tee Camiseta  Marfil  Radiant Yellow LG   Medium para Hombre](https://www.amazon.com/dp/B07FTJBKGD/?tag=redken08-20) por 12.5 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GC%2B2hEsZL._SL200_.jpg)](https://www.amazon.com/dp/B07FTJBKGD/?tag=redken08-20)
 

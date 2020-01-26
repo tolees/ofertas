@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fuel Cell Impulse  Zapatilla al 46.81 % de descuento'
+title: 'New Balance Fuel Cell Impulse  Zapatilla'
 date: 2019/10/22 01:24:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U7msFwY2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U7msFwY2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Está [New Balance Fuel Cell Impulse  Zapatillas de Running para Hombre  Blanco  White/Deep Ozone Blue/Black Wg   40.5 EU](https://www.amazon.com/dp/B07BL2XQXY/?tag=redken08-20) con 46.81 de descuento por 74.46 EUR (original: 140 EUR) en el siguiente enlace!
+Está [New Balance Fuel Cell Impulse  Zapatillas de Running para Hombre  Blanco  White/Deep Ozone Blue/Black Wg   40.5 EU](https://www.amazon.com/dp/B07BL2XQXY/?tag=redken08-20) por 74.46 EUR (original: 140 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41U7msFwY2L._SL200_.jpg)](https://www.amazon.com/dp/B07BL2XQXY/?tag=redken08-20)
 

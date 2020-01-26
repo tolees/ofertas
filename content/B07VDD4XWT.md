@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 65.37 % en Reebok Ost Blocked Crew Neck Sudadera  H'
+title: 'Reebok Ost Blocked Crew Neck Sudadera  H'
 date: 2019/12/15 13:53:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BwCKniloL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BwCKniloL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 63.03 EUR
 inStock: true
 ---
 
-Tienes [Reebok Ost Blocked Crew Neck Sudadera  Hombre  hernvy  L](https://www.amazon.com/dp/B07VDD4XWT/?tag=redken08-20) con un 65.37 % de descuento con precio de oferta de 21.83 EUR (original: 63.03 EUR) en el siguiente enlace!
+Tienes [Reebok Ost Blocked Crew Neck Sudadera  Hombre  hernvy  L](https://www.amazon.com/dp/B07VDD4XWT/?tag=redken08-20) a precio de oferta de 21.83 EUR (original: 63.03 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BwCKniloL._SL200_.jpg)](https://www.amazon.com/dp/B07VDD4XWT/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic Set-In Neck  Camiseta par al 40.00 % de descuento'
+title: 'Levi s Graphic Set-In Neck  Camiseta par'
 date: 2019/10/19 14:34:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-OHadN2xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-OHadN2xL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Levi s Graphic Set-In Neck  Camiseta para Hombre  Rojo  Crimson 0141   Small](https://www.amazon.com/dp/B00VLN9RIG/?tag=redken08-20) con 40.00 de descuento por 15 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Levi s Graphic Set-In Neck  Camiseta para Hombre  Rojo  Crimson 0141   Small](https://www.amazon.com/dp/B00VLN9RIG/?tag=redken08-20) por 15 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-OHadN2xL._SL200_.jpg)](https://www.amazon.com/dp/B00VLN9RIG/?tag=redken08-20)
 

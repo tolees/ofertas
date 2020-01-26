@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant D1. Ditzy Husk Mirco Print Reg BD C al 40.05 % de descuento'
+title: 'Gant D1. Ditzy Husk Mirco Print Reg BD C'
 date: 2019/11/13 22:04:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iXDk35RFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iXDk35RFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [Gant D1. Ditzy Husk Mirco Print Reg BD Camisa  Blanco  White 110   Large para Hombre](https://www.amazon.com/dp/B07HXB1FCT/?tag=redken08-20) con 40.05 de descuento por 53.95 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [Gant D1. Ditzy Husk Mirco Print Reg BD Camisa  Blanco  White 110   Large para Hombre](https://www.amazon.com/dp/B07HXB1FCT/?tag=redken08-20) por 53.95 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iXDk35RFL._SL200_.jpg)](https://www.amazon.com/dp/B07HXB1FCT/?tag=redken08-20)
 

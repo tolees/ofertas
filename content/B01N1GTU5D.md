@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Roma Basic Zapatillas deportivas Ho al 59.65 % de descuento'
+title: 'PUMA Roma Basic Zapatillas deportivas Ho'
 date: 2019/12/26 02:36:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41euLSIDIQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41euLSIDIQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.95 EUR
 inStock: true
 ---
 
-Está [PUMA Roma Basic Zapatillas deportivas Hombre  black-white-puma silver  38 EU  5 UK ](https://www.amazon.com/dp/B01N1GTU5D/?tag=redken08-20) con 59.65 de descuento por 30.24 EUR (original: 74.95 EUR) en el siguiente enlace!
+Está [PUMA Roma Basic Zapatillas deportivas Hombre  black-white-puma silver  38 EU  5 UK ](https://www.amazon.com/dp/B01N1GTU5D/?tag=redken08-20) por 30.24 EUR (original: 74.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41euLSIDIQL._SL200_.jpg)](https://www.amazon.com/dp/B01N1GTU5D/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.28 % en Hellblade Senua s Sacrifice'
+title: 'Hellblade Senua s Sacrifice'
 date: 2019/12/26 19:37:14 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 30.75 EUR
 inStock: true
 ---
 
-Tienes [Hellblade Senua s Sacrifice](https://www.amazon.com/dp/B07J4PNNYN/?tag=redken08-20) con un 35.28 % de descuento con precio de oferta de 19.9 EUR (original: 30.75 EUR) en el siguiente enlace!
+Tienes [Hellblade Senua s Sacrifice](https://www.amazon.com/dp/B07J4PNNYN/?tag=redken08-20) a precio de oferta de 19.9 EUR (original: 30.75 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07J4PNNYN/?tag=redken08-20)
 

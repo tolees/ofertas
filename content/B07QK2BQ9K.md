@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CASIO Reloj Hombre de Digital con Correa al 25.44 % de descuento'
+title: 'CASIO Reloj Hombre de Digital con Correa'
 date: 2019/11/03 20:50:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pP841hGvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pP841hGvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.43 EUR
 inStock: true
 ---
 
-Está [CASIO Reloj Hombre de Digital con Correa en Resina F-91WG-9QEF](https://www.amazon.com/dp/B07QK2BQ9K/?tag=redken08-20) con 25.44 de descuento por 12.25 EUR (original: 16.43 EUR) en el siguiente enlace!
+Está [CASIO Reloj Hombre de Digital con Correa en Resina F-91WG-9QEF](https://www.amazon.com/dp/B07QK2BQ9K/?tag=redken08-20) por 12.25 EUR (original: 16.43 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pP841hGvL._SL200_.jpg)](https://www.amazon.com/dp/B07QK2BQ9K/?tag=redken08-20)
 

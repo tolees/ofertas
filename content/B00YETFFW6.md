@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Biomecanics 151157  Zapatos de primeros  al 27.84 % de descuento'
+title: 'Biomecanics 151157  Zapatos de primeros '
 date: 2019/12/21 22:32:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EwM3-syCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EwM3-syCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Biomecanics 151157  Zapatos de primeros pasos Unisex Bebés  Blanco  Sauvage   23 EU](https://www.amazon.com/dp/B00YETFFW6/?tag=redken08-20) con 27.84 de descuento por 36.08 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Biomecanics 151157  Zapatos de primeros pasos Unisex Bebés  Blanco  Sauvage   23 EU](https://www.amazon.com/dp/B00YETFFW6/?tag=redken08-20) por 36.08 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31EwM3-syCL._SL200_.jpg)](https://www.amazon.com/dp/B00YETFFW6/?tag=redken08-20)
 

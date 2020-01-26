@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 58.93 % en New Balance Fresh Foam Cruz v2  Zapatill'
+title: 'New Balance Fresh Foam Cruz v2  Zapatill'
 date: 2019/11/01 09:10:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z8LLB2XML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z8LLB2XML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Tienes [New Balance Fresh Foam Cruz v2  Zapatillas para Hombre  Verde  Vintage Cedar/Faded Rosin/Moonbeam Nm2   41.5 EU](https://www.amazon.com/dp/B075R6YZYD/?tag=redken08-20) con un 58.93 % de descuento con precio de oferta de 39.02 EUR (original: 95 EUR) en el siguiente enlace!
+Tienes [New Balance Fresh Foam Cruz v2  Zapatillas para Hombre  Verde  Vintage Cedar/Faded Rosin/Moonbeam Nm2   41.5 EU](https://www.amazon.com/dp/B075R6YZYD/?tag=redken08-20) a precio de oferta de 39.02 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Z8LLB2XML._SL200_.jpg)](https://www.amazon.com/dp/B075R6YZYD/?tag=redken08-20)
 

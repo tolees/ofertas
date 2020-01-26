@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lisciani - 47680 - Manualidades - I  m C al 53.08 % de descuento'
+title: 'Lisciani - 47680 - Manualidades - I  m C'
 date: 2019/12/05 12:33:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61nO2nE4bSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61nO2nE4bSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.88 EUR
 inStock: true
 ---
 
-Está [Lisciani - 47680 - Manualidades - I  m Creative - Paper Animations - Papel Enrollado](https://www.amazon.com/dp/B00TWG1PFC/?tag=redken08-20) con 53.08 de descuento por 7.92 EUR (original: 16.88 EUR) en el siguiente enlace!
+Está [Lisciani - 47680 - Manualidades - I  m Creative - Paper Animations - Papel Enrollado](https://www.amazon.com/dp/B00TWG1PFC/?tag=redken08-20) por 7.92 EUR (original: 16.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61nO2nE4bSL._SL200_.jpg)](https://www.amazon.com/dp/B00TWG1PFC/?tag=redken08-20)
 

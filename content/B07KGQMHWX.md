@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ted Baker Floxen  Zapatos de tacón con P al 54.86 % de descuento'
+title: 'Ted Baker Floxen  Zapatos de tacón con P'
 date: 2019/11/09 09:22:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o3kobkHpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o3kobkHpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.84 EUR
 inStock: true
 ---
 
-Está [Ted Baker Floxen  Zapatos de tacón con Punta Abierta para Mujer  Negro  Black Blk   36 EU](https://www.amazon.com/dp/B07KGQMHWX/?tag=redken08-20) con 54.86 de descuento por 58.61 EUR (original: 129.84 EUR) en el siguiente enlace!
+Está [Ted Baker Floxen  Zapatos de tacón con Punta Abierta para Mujer  Negro  Black Blk   36 EU](https://www.amazon.com/dp/B07KGQMHWX/?tag=redken08-20) por 58.61 EUR (original: 129.84 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41o3kobkHpL._SL200_.jpg)](https://www.amazon.com/dp/B07KGQMHWX/?tag=redken08-20)
 

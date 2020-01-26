@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.90 % en Eli - Collar con Colgante para Mujer de '
+title: 'Eli - Collar con Colgante para Mujer de '
 date: 2019/11/25 02:36:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nFaKHFwHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nFaKHFwHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Tienes [Eli - Collar con Colgante para Mujer de Plata de Ley con Cristales Swarovski 45 cm](https://www.amazon.com/dp/B00DQ8NJEW/?tag=redken08-20) con un 25.90 % de descuento con precio de oferta de 20 EUR (original: 26.99 EUR) en el siguiente enlace!
+Tienes [Eli - Collar con Colgante para Mujer de Plata de Ley con Cristales Swarovski 45 cm](https://www.amazon.com/dp/B00DQ8NJEW/?tag=redken08-20) a precio de oferta de 20 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nFaKHFwHL._SL200_.jpg)](https://www.amazon.com/dp/B00DQ8NJEW/?tag=redken08-20)
 

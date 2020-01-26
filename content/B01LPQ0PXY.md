@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Arcillas Puras Mascarilla  al 29.80 % de descuento'
+title: 'L Oréal Paris Arcillas Puras Mascarilla '
 date: 2020-01-19 17:59:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BiCmB6FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BiCmB6FL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.9 EUR
 inStock: true
 ---
 
-Está [L Oréal Paris Arcillas Puras Mascarilla Facial  Limpiadora Negra - 50 ml](https://www.amazon.com/dp/B01LPQ0PXY/?tag=redken08-20) con 29.80 de descuento por 6.95 EUR (original: 9.9 EUR) en el siguiente enlace!
+Está [L Oréal Paris Arcillas Puras Mascarilla Facial  Limpiadora Negra - 50 ml](https://www.amazon.com/dp/B01LPQ0PXY/?tag=redken08-20) por 6.95 EUR (original: 9.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Q%2BiCmB6FL._SL200_.jpg)](https://www.amazon.com/dp/B01LPQ0PXY/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Rc2012 Cinturón  Negro  Noir 031 al 46.75 % de descuento'
+title: 'Lacoste Rc2012 Cinturón  Negro  Noir 031'
 date: 2019/11/18 06:47:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XZzilzFlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XZzilzFlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 73.14 EUR
 inStock: true
 ---
 
-Está [Lacoste Rc2012 Cinturón  Negro  Noir 031   90  Talla del fabricante:  para Hombre](https://www.amazon.com/dp/B07MPRVLSX/?tag=redken08-20) con 46.75 de descuento por 38.95 EUR (original: 73.14 EUR) en el siguiente enlace!
+Está [Lacoste Rc2012 Cinturón  Negro  Noir 031   90  Talla del fabricante:  para Hombre](https://www.amazon.com/dp/B07MPRVLSX/?tag=redken08-20) por 38.95 EUR (original: 73.14 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XZzilzFlL._SL200_.jpg)](https://www.amazon.com/dp/B07MPRVLSX/?tag=redken08-20)
 

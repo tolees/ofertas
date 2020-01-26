@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 10318-PDQ Pop! Keychain: The Flash al 41.92 % de descuento'
+title: 'Funko 10318-PDQ Pop! Keychain: The Flash'
 date: 2020-01-08 14:15:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417EIxopgrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417EIxopgrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.87 GBP
 inStock: true
 ---
 
-Está [Funko 10318-PDQ Pop! Keychain: The Flash - The Flash](https://www.amazon.com/dp/B01G9STMPA/?tag=redken08-20) con 41.92 de descuento por 3.99 GBP (original: 6.87 GBP) en el siguiente enlace!
+Está [Funko 10318-PDQ Pop! Keychain: The Flash - The Flash](https://www.amazon.com/dp/B01G9STMPA/?tag=redken08-20) por 3.99 GBP (original: 6.87 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417EIxopgrL._SL200_.jpg)](https://www.amazon.com/dp/B01G9STMPA/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY Braguita de Talle Alto Algo al 36.89 % de descuento'
+title: 'IRIS & LILLY Braguita de Talle Alto Algo'
 date: 2019/10/30 14:02:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3117jy3smHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3117jy3smHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [IRIS & LILLY Braguita de Talle Alto Algodón para Mujer  Pack de 5  Blanco  White   Small](https://www.amazon.com/dp/B01LYWU40M/?tag=redken08-20) a 9.46 EUR (original: 14.99 EUR) (36.89 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [IRIS & LILLY Braguita de Talle Alto Algodón para Mujer  Pack de 5  Blanco  White   Small](https://www.amazon.com/dp/B01LYWU40M/?tag=redken08-20) a 9.46 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/3117jy3smHL._SL200_.jpg)](https://www.amazon.com/dp/B01LYWU40M/?tag=redken08-20)
 

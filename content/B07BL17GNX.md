@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574v2  Zapatillas para Mujer al 50.00 % de descuento'
+title: 'New Balance 574v2  Zapatillas para Mujer'
 date: 2019/11/07 02:25:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YR-V7JogL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YR-V7JogL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 574v2  Zapatillas para Mujer  Rosa  Violet GLO/White ESD   38 EU](https://www.amazon.com/dp/B07BL17GNX/?tag=redken08-20) a 45 EUR (original: 90 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance 574v2  Zapatillas para Mujer  Rosa  Violet GLO/White ESD   38 EU](https://www.amazon.com/dp/B07BL17GNX/?tag=redken08-20) a 45 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YR-V7JogL._SL200_.jpg)](https://www.amazon.com/dp/B07BL17GNX/?tag=redken08-20)
 

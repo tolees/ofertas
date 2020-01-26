@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.91 % en Caterpillar Colorado  Botas Hombre  Beig'
+title: 'Caterpillar Colorado  Botas Hombre  Beig'
 date: 2019/10/14 11:39:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 103 EUR
 inStock: true
 ---
 
-Tienes [Caterpillar Colorado  Botas Hombre  Beige  Honey Mariner   42 EU](https://www.amazon.com/dp/B009RJURDK/?tag=redken08-20) con un 37.91 % de descuento con precio de oferta de 63.95 EUR (original: 103 EUR) en el siguiente enlace!
+Tienes [Caterpillar Colorado  Botas Hombre  Beige  Honey Mariner   42 EU](https://www.amazon.com/dp/B009RJURDK/?tag=redken08-20) a precio de oferta de 63.95 EUR (original: 103 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg)](https://www.amazon.com/dp/B009RJURDK/?tag=redken08-20)
 

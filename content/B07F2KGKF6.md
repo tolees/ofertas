@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Sonnenbrille Ck2156S 60 Gaf al 83.48 % de descuento'
+title: 'Calvin Klein Sonnenbrille Ck2156S 60 Gaf'
 date: 2019/12/28 13:11:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RqoWavlUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RqoWavlUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 181 EUR
 inStock: true
 ---
 
-Está [Calvin Klein Sonnenbrille Ck2156S 60 Gafas de sol  Gris  Gr   54.0 para Hombre](https://www.amazon.com/dp/B07F2KGKF6/?tag=redken08-20) con 83.48 de descuento por 29.91 EUR (original: 181 EUR) en el siguiente enlace!
+Está [Calvin Klein Sonnenbrille Ck2156S 60 Gafas de sol  Gris  Gr   54.0 para Hombre](https://www.amazon.com/dp/B07F2KGKF6/?tag=redken08-20) por 29.91 EUR (original: 181 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RqoWavlUL._SL200_.jpg)](https://www.amazon.com/dp/B07F2KGKF6/?tag=redken08-20)
 

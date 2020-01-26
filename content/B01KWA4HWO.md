@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Colección Kubrick Blu-Ray [Blu-ray] al 48.56 % de descuento'
+title: 'Colección Kubrick Blu-Ray [Blu-ray]'
 date: 2019/11/29 11:17:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517ZuqkyryL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517ZuqkyryL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Colección Kubrick Blu-Ray [Blu-ray]](https://www.amazon.com/dp/B01KWA4HWO/?tag=redken08-20) a 19.49 EUR (original: 37.89 EUR) (48.56 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Colección Kubrick Blu-Ray [Blu-ray]](https://www.amazon.com/dp/B01KWA4HWO/?tag=redken08-20) a 19.49 EUR (original: 37.89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517ZuqkyryL._SL200_.jpg)](https://www.amazon.com/dp/B01KWA4HWO/?tag=redken08-20)
 

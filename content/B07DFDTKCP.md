@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAST LEVEL Vinyl Figura Pop Kingdom Hear al 48.28 % de descuento'
+title: 'LAST LEVEL Vinyl Figura Pop Kingdom Hear'
 date: 2019/10/15 21:33:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l2pxECdtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l2pxECdtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [LAST LEVEL Vinyl Figura Pop Kingdom Hearts 3 : Riku  Multicolor  FFK34053 ](https://www.amazon.com/dp/B07DFDTKCP/?tag=redken08-20) con 48.28 de descuento por 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [LAST LEVEL Vinyl Figura Pop Kingdom Hearts 3 : Riku  Multicolor  FFK34053 ](https://www.amazon.com/dp/B07DFDTKCP/?tag=redken08-20) por 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41l2pxECdtL._SL200_.jpg)](https://www.amazon.com/dp/B07DFDTKCP/?tag=redken08-20)
 

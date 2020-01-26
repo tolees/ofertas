@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bomann MA 451 Cortafiambres al 47.80 % de descuento'
+title: 'Bomann MA 451 Cortafiambres'
 date: 2019/10/25 15:07:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fiIpGmWCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fiIpGmWCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 88.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bomann MA 451 Cortafiambres](https://www.amazon.com/dp/B00SOHQYGK/?tag=redken08-20) a 46.41 EUR (original: 88.9 EUR) (47.80 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bomann MA 451 Cortafiambres](https://www.amazon.com/dp/B00SOHQYGK/?tag=redken08-20) a 46.41 EUR (original: 88.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fiIpGmWCL._SL200_.jpg)](https://www.amazon.com/dp/B00SOHQYGK/?tag=redken08-20)
 

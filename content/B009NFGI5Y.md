@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mattel Games Y9598 - Scrabble Original W al 31.34 % de descuento'
+title: 'Mattel Games Y9598 - Scrabble Original W'
 date: 2020-01-07 17:17:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51egEwud%2B4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51egEwud%2B4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Mattel Games Y9598 - Scrabble Original Wörterspiel und Brettspiel geeignet für 2 - 4 Spieler  Familienspiele und Wortspiele ab 10 Jahren](https://www.amazon.com/dp/B009NFGI5Y/?tag=redken08-20) con 31.34 de descuento por 20.59 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Mattel Games Y9598 - Scrabble Original Wörterspiel und Brettspiel geeignet für 2 - 4 Spieler  Familienspiele und Wortspiele ab 10 Jahren](https://www.amazon.com/dp/B009NFGI5Y/?tag=redken08-20) por 20.59 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51egEwud%2B4L._SL200_.jpg)](https://www.amazon.com/dp/B009NFGI5Y/?tag=redken08-20)
 

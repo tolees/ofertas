@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Un Aldric Park  Zapatos de Cordon al 52.62 % de descuento'
+title: 'Clarks Un Aldric Park  Zapatos de Cordon'
 date: 2019/11/05 01:33:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318zDOJirLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318zDOJirLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Está [Clarks Un Aldric Park  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather   44.5 EU](https://www.amazon.com/dp/B075G4DMYS/?tag=redken08-20) con 52.62 de descuento por 52.12 EUR (original: 110 EUR) en el siguiente enlace!
+Está [Clarks Un Aldric Park  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather   44.5 EU](https://www.amazon.com/dp/B075G4DMYS/?tag=redken08-20) por 52.12 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318zDOJirLL._SL200_.jpg)](https://www.amazon.com/dp/B075G4DMYS/?tag=redken08-20)
 

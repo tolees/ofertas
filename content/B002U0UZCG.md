@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 69.99 % en Obey Your Body Peeling Facial'
+title: 'Obey Your Body Peeling Facial'
 date: 2020-01-12 05:50:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JQZ1FI5QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JQZ1FI5QL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.95 EUR
 inStock: true
 ---
 
-Tienes [Obey Your Body Peeling Facial](https://www.amazon.com/dp/B002U0UZCG/?tag=redken08-20) con un 69.99 % de descuento con precio de oferta de 48 EUR (original: 159.95 EUR) en el siguiente enlace!
+Tienes [Obey Your Body Peeling Facial](https://www.amazon.com/dp/B002U0UZCG/?tag=redken08-20) a precio de oferta de 48 EUR (original: 159.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31JQZ1FI5QL._SL200_.jpg)](https://www.amazon.com/dp/B002U0UZCG/?tag=redken08-20)
 

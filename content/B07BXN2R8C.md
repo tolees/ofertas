@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smartwares DIC-23112 Wlan Türklingel/ IP al 30.10 % de descuento'
+title: 'Smartwares DIC-23112 Wlan Türklingel/ IP'
 date: 2019/10/21 06:29:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ngB6AkofL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ngB6AkofL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199 EUR
 inStock: true
 ---
 
-Está [Smartwares DIC-23112 Wlan Türklingel/ IP Video Türsprechanlage  mit Ful HD Weitwinkelkamera  Aufnahmefunktion und Bewegungsmelder  App gesteuert](https://www.amazon.com/dp/B07BXN2R8C/?tag=redken08-20) con 30.10 de descuento por 139.11 EUR (original: 199 EUR) en el siguiente enlace!
+Está [Smartwares DIC-23112 Wlan Türklingel/ IP Video Türsprechanlage  mit Ful HD Weitwinkelkamera  Aufnahmefunktion und Bewegungsmelder  App gesteuert](https://www.amazon.com/dp/B07BXN2R8C/?tag=redken08-20) por 139.11 EUR (original: 199 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ngB6AkofL._SL200_.jpg)](https://www.amazon.com/dp/B07BXN2R8C/?tag=redken08-20)
 

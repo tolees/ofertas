@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma ESS Logo TR op SRL Pantalones de Jo al 52.47 % de descuento'
+title: 'Puma ESS Logo TR op SRL Pantalones de Jo'
 date: 2019/11/22 13:26:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416e-wAOj1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416e-wAOj1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma ESS Logo TR op SRL Pantalones de Jogging  Hombre  Negro Black  XL](https://www.amazon.com/dp/B07D5WMWHT/?tag=redken08-20) a 18.99 EUR (original: 39.95 EUR) (52.47 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Puma ESS Logo TR op SRL Pantalones de Jogging  Hombre  Negro Black  XL](https://www.amazon.com/dp/B07D5WMWHT/?tag=redken08-20) a 18.99 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416e-wAOj1L._SL200_.jpg)](https://www.amazon.com/dp/B07D5WMWHT/?tag=redken08-20)
 

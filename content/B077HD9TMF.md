@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Blusa Cruzada Mujer  Multicolor  M al 62.50 % de descuento'
+title: 'find. Blusa Cruzada Mujer  Multicolor  M'
 date: 2019/12/28 12:58:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Kp35zDGqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Kp35zDGqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.6 EUR
 inStock: true
 ---
 
-Está [find. Blusa Cruzada Mujer  Multicolor  Multicoloured   40  Talla del fabricante: Medium ](https://www.amazon.com/dp/B077HD9TMF/?tag=redken08-20) con 62.50 de descuento por 11.1 EUR (original: 29.6 EUR) en el siguiente enlace!
+Está [find. Blusa Cruzada Mujer  Multicolor  Multicoloured   40  Talla del fabricante: Medium ](https://www.amazon.com/dp/B077HD9TMF/?tag=redken08-20) por 11.1 EUR (original: 29.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Kp35zDGqL._SL200_.jpg)](https://www.amazon.com/dp/B077HD9TMF/?tag=redken08-20)
 

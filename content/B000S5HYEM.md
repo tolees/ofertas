@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Herlitz 8842700 Packbandabroller für Gro al 38.21 % de descuento'
+title: 'Herlitz 8842700 Packbandabroller für Gro'
 date: 2020-01-16 09:11:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jgIwcjRRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jgIwcjRRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.29 EUR
 inStock: true
 ---
 
-Está [Herlitz 8842700 Packbandabroller für Grossrollen Ind. Abrisse](https://www.amazon.com/dp/B000S5HYEM/?tag=redken08-20) con 38.21 de descuento por 5.74 EUR (original: 9.29 EUR) en el siguiente enlace!
+Está [Herlitz 8842700 Packbandabroller für Grossrollen Ind. Abrisse](https://www.amazon.com/dp/B000S5HYEM/?tag=redken08-20) por 5.74 EUR (original: 9.29 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jgIwcjRRL._SL200_.jpg)](https://www.amazon.com/dp/B000S5HYEM/?tag=redken08-20)
 

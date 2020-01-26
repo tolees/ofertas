@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 41.56 % en Intel Core i3-8100 Retail -  1151/Quad C'
+title: 'Intel Core i3-8100 Retail -  1151/Quad C'
 date: 2020-01-22 17:15:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-DDKwErFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-DDKwErFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 184.79 GBP
 inStock: true
 ---
 
-Tienes [Intel Core i3-8100 Retail -  1151/Quad Core/3.60GHz/6MB/Coffee Lake/65W/Graphics ](https://www.amazon.com/dp/B0759FTRZL/?tag=redken08-20) con un 41.56 % de descuento con precio de oferta de 108 GBP (original: 184.79 GBP) en el siguiente enlace!
+Tienes [Intel Core i3-8100 Retail -  1151/Quad Core/3.60GHz/6MB/Coffee Lake/65W/Graphics ](https://www.amazon.com/dp/B0759FTRZL/?tag=redken08-20) a precio de oferta de 108 GBP (original: 184.79 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-DDKwErFL._SL200_.jpg)](https://www.amazon.com/dp/B0759FTRZL/?tag=redken08-20)
 

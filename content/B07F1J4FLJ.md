@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DUNLOP Nitro 25 - Raqueta de Tenis Unise al 52.41 % de descuento'
+title: 'DUNLOP Nitro 25 - Raqueta de Tenis Unise'
 date: 2019/12/22 20:21:18 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Está [DUNLOP Nitro 25 - Raqueta de Tenis Unisex para Adulto  Rojo y Blanco  Pulgar](https://www.amazon.com/dp/B07F1J4FLJ/?tag=redken08-20) con 52.41 de descuento por 18.99 EUR (original: 39.9 EUR) en el siguiente enlace!
+Está [DUNLOP Nitro 25 - Raqueta de Tenis Unisex para Adulto  Rojo y Blanco  Pulgar](https://www.amazon.com/dp/B07F1J4FLJ/?tag=redken08-20) por 18.99 EUR (original: 39.9 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07F1J4FLJ/?tag=redken08-20)
 

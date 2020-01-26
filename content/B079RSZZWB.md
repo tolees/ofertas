@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Dani PL503849 Camiseta  Gris  al 66.23 % de descuento'
+title: 'Pepe Jeans Dani PL503849 Camiseta  Gris '
 date: 2019/11/01 12:31:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W4KinZfaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W4KinZfaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans Dani PL503849 Camiseta  Gris  Grey Marl 933   Small para Mujer](https://www.amazon.com/dp/B079RSZZWB/?tag=redken08-20) a 11.82 EUR (original: 35 EUR) (66.23 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans Dani PL503849 Camiseta  Gris  Grey Marl 933   Small para Mujer](https://www.amazon.com/dp/B079RSZZWB/?tag=redken08-20) a 11.82 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41W4KinZfaL._SL200_.jpg)](https://www.amazon.com/dp/B079RSZZWB/?tag=redken08-20)
 

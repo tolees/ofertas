@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 21554 Pop Movies Blade Runner 2049 al 28.73 % de descuento'
+title: 'Funko 21554 Pop Movies Blade Runner 2049'
 date: 2020-01-24 17:24:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/517hdB10LRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517hdB10LRL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.12 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 21554 Pop Movies Blade Runner 2049 Officer K](https://www.amazon.com/dp/B074HKVJFB/?tag=redken08-20) a 6.5 GBP (original: 9.12 GBP) (28.73 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 21554 Pop Movies Blade Runner 2049 Officer K](https://www.amazon.com/dp/B074HKVJFB/?tag=redken08-20) a 6.5 GBP (original: 9.12 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/517hdB10LRL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B074HKVJFB/?tag=redken08-20)
 

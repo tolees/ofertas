@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Copa Mundial  Zapatillas de Fútbo al 40.65 % de descuento'
+title: 'adidas Copa Mundial  Zapatillas de Fútbo'
 date: 2019/10/21 19:52:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BLvi%2BmLlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BLvi%2BmLlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 149.95 EUR
 inStock: true
 ---
 
-Está [adidas Copa Mundial  Zapatillas de Fútbol para Hombre  Negro/Blanco  45 1/3 EU](https://www.amazon.com/dp/B000OWGBIO/?tag=redken08-20) con 40.65 de descuento por 89 EUR (original: 149.95 EUR) en el siguiente enlace!
+Está [adidas Copa Mundial  Zapatillas de Fútbol para Hombre  Negro/Blanco  45 1/3 EU](https://www.amazon.com/dp/B000OWGBIO/?tag=redken08-20) por 89 EUR (original: 149.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BLvi%2BmLlL._SL200_.jpg)](https://www.amazon.com/dp/B000OWGBIO/?tag=redken08-20)
 

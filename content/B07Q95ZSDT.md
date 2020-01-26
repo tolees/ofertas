@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Cajón de Escritorio con 8 pomos  ap al 26.10 % de descuento'
+title: 'LEGO Cajón de Escritorio con 8 pomos  ap'
 date: 2019/11/30 18:05:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bay1BzvpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bay1BzvpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Cajón de Escritorio con 8 pomos  apilable  Color Azul  Grande  Large](https://www.amazon.com/dp/B07Q95ZSDT/?tag=redken08-20) a 16.99 EUR (original: 22.99 EUR) (26.10 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO Cajón de Escritorio con 8 pomos  apilable  Color Azul  Grande  Large](https://www.amazon.com/dp/B07Q95ZSDT/?tag=redken08-20) a 16.99 EUR (original: 22.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2Bay1BzvpL._SL200_.jpg)](https://www.amazon.com/dp/B07Q95ZSDT/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Stanley Vaqueros Straight  Az al 70.59 % de descuento'
+title: 'Pepe Jeans Stanley Vaqueros Straight  Az'
 date: 2019/12/17 07:41:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41At0pzVDQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41At0pzVDQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Stanley Vaqueros Straight  Azul  Medium Used Denim Wy2   W33/L34 para Hombre](https://www.amazon.com/dp/B07NCBRTSN/?tag=redken08-20) con 70.59 de descuento por 29.12 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Pepe Jeans Stanley Vaqueros Straight  Azul  Medium Used Denim Wy2   W33/L34 para Hombre](https://www.amazon.com/dp/B07NCBRTSN/?tag=redken08-20) por 29.12 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41At0pzVDQL._SL200_.jpg)](https://www.amazon.com/dp/B07NCBRTSN/?tag=redken08-20)
 

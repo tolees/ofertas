@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjecorp Logo Sweat Hood Noo al 30.01 % de descuento'
+title: 'JACK & JONES Jjecorp Logo Sweat Hood Noo'
 date: 2020-01-25 18:09:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NY90VYYLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NY90VYYLL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jjecorp Logo Sweat Hood Noos Capucha  Negro  Black Detail:Reg Fit   X-Small para Hombre](https://www.amazon.com/dp/B07C5X3TNT/?tag=redken08-20) con 30.01 de descuento por 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [JACK & JONES Jjecorp Logo Sweat Hood Noos Capucha  Negro  Black Detail:Reg Fit   X-Small para Hombre](https://www.amazon.com/dp/B07C5X3TNT/?tag=redken08-20) por 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41NY90VYYLL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07C5X3TNT/?tag=redken08-20)
 

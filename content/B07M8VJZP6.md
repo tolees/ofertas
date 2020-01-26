@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Luke Corduroy Pantalones  Gris  Lead al 51.02 % de descuento'
+title: 'Lee Luke Corduroy Pantalones  Gris  Lead'
 date: 2019/11/24 07:40:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418RHZ4peoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418RHZ4peoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Está [Lee Luke Corduroy Pantalones  Gris  Lead Grey 30   36W / 32L para Hombre](https://www.amazon.com/dp/B07M8VJZP6/?tag=redken08-20) con 51.02 de descuento por 44.06 EUR (original: 89.95 EUR) en el siguiente enlace!
+Está [Lee Luke Corduroy Pantalones  Gris  Lead Grey 30   36W / 32L para Hombre](https://www.amazon.com/dp/B07M8VJZP6/?tag=redken08-20) por 44.06 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418RHZ4peoL._SL200_.jpg)](https://www.amazon.com/dp/B07M8VJZP6/?tag=redken08-20)
 

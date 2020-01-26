@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 65.99 % en Smith Colson RT Dl5 63 Gafas de Sol  Hom'
+title: 'Smith Colson RT Dl5 63 Gafas de Sol  Hom'
 date: 2019/12/27 12:44:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rIbAhJIGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rIbAhJIGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 219 EUR
 inStock: true
 ---
 
-Tienes [Smith Colson RT Dl5 63 Gafas de Sol  Hombre  Negro  Matte Black/Grey LZ ](https://www.amazon.com/dp/B01BE1MR0E/?tag=redken08-20) con un 65.99 % de descuento con precio de oferta de 74.48 EUR (original: 219 EUR) en el siguiente enlace!
+Tienes [Smith Colson RT Dl5 63 Gafas de Sol  Hombre  Negro  Matte Black/Grey LZ ](https://www.amazon.com/dp/B01BE1MR0E/?tag=redken08-20) a precio de oferta de 74.48 EUR (original: 219 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rIbAhJIGL._SL200_.jpg)](https://www.amazon.com/dp/B01BE1MR0E/?tag=redken08-20)
 

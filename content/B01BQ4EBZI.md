@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EAU ROCHAS shower gel 500 ml al 48.78 % de descuento'
+title: 'EAU ROCHAS shower gel 500 ml'
 date: 2019/12/13 02:01:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TjzFP6czL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TjzFP6czL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37 EUR
 inStock: true
 ---
 
-Está [EAU ROCHAS shower gel 500 ml](https://www.amazon.com/dp/B01BQ4EBZI/?tag=redken08-20) con 48.78 de descuento por 18.95 EUR (original: 37 EUR) en el siguiente enlace!
+Está [EAU ROCHAS shower gel 500 ml](https://www.amazon.com/dp/B01BQ4EBZI/?tag=redken08-20) por 18.95 EUR (original: 37 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31TjzFP6czL._SL200_.jpg)](https://www.amazon.com/dp/B01BQ4EBZI/?tag=redken08-20)
 

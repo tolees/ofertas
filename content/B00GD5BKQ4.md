@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Versa 18790001 Perchero de pie Negro  Me al 40.20 % de descuento'
+title: 'Versa 18790001 Perchero de pie Negro  Me'
 date: 2019/11/09 18:40:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gBs9wtmpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gBs9wtmpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 61.09 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Versa 18790001 Perchero de pie Negro  Metal lacado  185x32x32 cm  9 colgadores](https://www.amazon.com/dp/B00GD5BKQ4/?tag=redken08-20) a 36.53 EUR (original: 61.09 EUR) (40.20 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Versa 18790001 Perchero de pie Negro  Metal lacado  185x32x32 cm  9 colgadores](https://www.amazon.com/dp/B00GD5BKQ4/?tag=redken08-20) a 36.53 EUR (original: 61.09 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31gBs9wtmpL._SL200_.jpg)](https://www.amazon.com/dp/B00GD5BKQ4/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Frantics al 35.47 % de descuento'
+title: 'Frantics'
 date: 2019/10/28 15:25:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RWIbmWmpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RWIbmWmpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Frantics](https://www.amazon.com/dp/B0798FVVZX/?tag=redken08-20) a 12.9 EUR (original: 19.99 EUR) (35.47 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Frantics](https://www.amazon.com/dp/B0798FVVZX/?tag=redken08-20) a 12.9 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RWIbmWmpL._SL200_.jpg)](https://www.amazon.com/dp/B0798FVVZX/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Colchón Viscoelástico Ergo-therapy 90X19 al 87.98 % de descuento'
+title: 'Colchón Viscoelástico Ergo-therapy 90X19'
 date: 2019/10/07 07:02:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aoC0yuSLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aoC0yuSLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 499 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Colchón Viscoelástico Ergo-therapy 90X190  18 cm de altura  2 cm de Viscoelástica de 65 Kg/m³  Independencia de lechos  Firmeza media  Alta durabilidad](https://www.amazon.com/dp/B00U7C5TYS/?tag=redken08-20) a 59.99 EUR (original: 499 EUR) (87.98 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Colchón Viscoelástico Ergo-therapy 90X190  18 cm de altura  2 cm de Viscoelástica de 65 Kg/m³  Independencia de lechos  Firmeza media  Alta durabilidad](https://www.amazon.com/dp/B00U7C5TYS/?tag=redken08-20) a 59.99 EUR (original: 499 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aoC0yuSLL._SL200_.jpg)](https://www.amazon.com/dp/B00U7C5TYS/?tag=redken08-20)
 

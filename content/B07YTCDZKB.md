@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Big Bang Theory Temporada 12 [DVD] al 49.99 % de descuento'
+title: 'The Big Bang Theory Temporada 12 [DVD]'
 date: 2019/12/01 19:53:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L6YjNDayL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L6YjNDayL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [The Big Bang Theory Temporada 12 [DVD]](https://www.amazon.com/dp/B07YTCDZKB/?tag=redken08-20) con 49.99 de descuento por 17.5 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [The Big Bang Theory Temporada 12 [DVD]](https://www.amazon.com/dp/B07YTCDZKB/?tag=redken08-20) por 17.5 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41L6YjNDayL._SL200_.jpg)](https://www.amazon.com/dp/B07YTCDZKB/?tag=redken08-20)
 

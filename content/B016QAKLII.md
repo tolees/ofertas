@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Parma 16 SHO Sport Shorts  Hombre al 60.20 % de descuento'
+title: 'adidas Parma 16 SHO Sport Shorts  Hombre'
 date: 2020-01-21 16:11:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41diYD0f3VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41diYD0f3VL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Parma 16 SHO Sport Shorts  Hombre  Azul  Azul/Blanco   M](https://www.amazon.com/dp/B016QAKLII/?tag=redken08-20) a 7.16 EUR (original: 17.99 EUR) (60.20 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Parma 16 SHO Sport Shorts  Hombre  Azul  Azul/Blanco   M](https://www.amazon.com/dp/B016QAKLII/?tag=redken08-20) a 7.16 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41diYD0f3VL._SL200_.jpg)](https://www.amazon.com/dp/B016QAKLII/?tag=redken08-20)
 

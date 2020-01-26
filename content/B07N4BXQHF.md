@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.00 % en Tommy Hilfiger Essential Printed T-Shirt'
+title: 'Tommy Hilfiger Essential Printed T-Shirt'
 date: 2019/10/21 07:06:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310SOhRaJHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310SOhRaJHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.8 EUR
 inStock: true
 ---
 
-Tienes [Tommy Hilfiger Essential Printed T-Shirt SS Camiseta  Azul  Midnight 403   L para Mujer](https://www.amazon.com/dp/B07N4BXQHF/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 39.9 EUR (original: 79.8 EUR) en el siguiente enlace!
+Tienes [Tommy Hilfiger Essential Printed T-Shirt SS Camiseta  Azul  Midnight 403   L para Mujer](https://www.amazon.com/dp/B07N4BXQHF/?tag=redken08-20) a precio de oferta de 39.9 EUR (original: 79.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310SOhRaJHL._SL200_.jpg)](https://www.amazon.com/dp/B07N4BXQHF/?tag=redken08-20)
 

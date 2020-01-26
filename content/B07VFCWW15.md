@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Western Digital  SSD Portátil  2 TB  Ámb al 79.78 % de descuento'
+title: 'Western Digital  SSD Portátil  2 TB  Ámb'
 date: 2020-01-10 23:11:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UUVG8iuLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UUVG8iuLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 444.99 EUR
 inStock: true
 ---
 
-Está [Western Digital  SSD Portátil  2 TB  Ámbar](https://www.amazon.com/dp/B07VFCWW15/?tag=redken08-20) con 79.78 de descuento por 89.99 EUR (original: 444.99 EUR) en el siguiente enlace!
+Está [Western Digital  SSD Portátil  2 TB  Ámbar](https://www.amazon.com/dp/B07VFCWW15/?tag=redken08-20) por 89.99 EUR (original: 444.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UUVG8iuLL._SL200_.jpg)](https://www.amazon.com/dp/B07VFCWW15/?tag=redken08-20)
 

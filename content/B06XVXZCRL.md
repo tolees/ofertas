@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 74.32 % en Funko 599386031 - Figura Tekken - Nina W'
+title: 'Funko 599386031 - Figura Tekken - Nina W'
 date: 2019/12/04 13:39:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v6uoz2mfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v6uoz2mfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Tienes [Funko 599386031 - Figura Tekken - Nina Williams Silver](https://www.amazon.com/dp/B06XVXZCRL/?tag=redken08-20) con un 74.32 % de descuento con precio de oferta de 4.61 EUR (original: 17.95 EUR) en el siguiente enlace!
+Tienes [Funko 599386031 - Figura Tekken - Nina Williams Silver](https://www.amazon.com/dp/B06XVXZCRL/?tag=redken08-20) a precio de oferta de 4.61 EUR (original: 17.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41v6uoz2mfL._SL200_.jpg)](https://www.amazon.com/dp/B06XVXZCRL/?tag=redken08-20)
 

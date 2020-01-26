@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deus Ex: Mankind Divided - Day One Editi al 40.22 % de descuento'
+title: 'Deus Ex: Mankind Divided - Day One Editi'
 date: 2019/11/10 12:34:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ejrBFG23L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ejrBFG23L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Deus Ex: Mankind Divided - Day One Edition](https://www.amazon.com/dp/B00W3PI8OA/?tag=redken08-20) a 11.95 EUR (original: 19.99 EUR) (40.22 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Deus Ex: Mankind Divided - Day One Edition](https://www.amazon.com/dp/B00W3PI8OA/?tag=redken08-20) a 11.95 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ejrBFG23L._SL200_.jpg)](https://www.amazon.com/dp/B00W3PI8OA/?tag=redken08-20)
 

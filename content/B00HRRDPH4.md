@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sylvanian Families - Treehouse al 31.81 % de descuento'
+title: 'Sylvanian Families - Treehouse'
 date: 2019/12/10 22:02:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61GdeuWxf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61GdeuWxf0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sylvanian Families - Treehouse](https://www.amazon.com/dp/B00HRRDPH4/?tag=redken08-20) a 37.5 GBP (original: 54.99 GBP) (31.81 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sylvanian Families - Treehouse](https://www.amazon.com/dp/B00HRRDPH4/?tag=redken08-20) a 37.5 GBP (original: 54.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61GdeuWxf0L._SL200_.jpg)](https://www.amazon.com/dp/B00HRRDPH4/?tag=redken08-20)
 

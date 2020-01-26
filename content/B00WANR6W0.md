@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies Michigan Short - short Hombre  N al 80.78 % de descuento'
+title: 'Dickies Michigan Short - short Hombre  N'
 date: 2019/11/21 06:17:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-c9YoTmnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-c9YoTmnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dickies Michigan Short - short Hombre  Negro  Black   Small](https://www.amazon.com/dp/B00WANR6W0/?tag=redken08-20) a 10.57 EUR (original: 55 EUR) (80.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Dickies Michigan Short - short Hombre  Negro  Black   Small](https://www.amazon.com/dp/B00WANR6W0/?tag=redken08-20) a 10.57 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31-c9YoTmnL._SL200_.jpg)](https://www.amazon.com/dp/B00WANR6W0/?tag=redken08-20)
 

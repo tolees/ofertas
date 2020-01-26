@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Anne Moller Pour Homme Control Triple Ac al 73.68 % de descuento'
+title: 'Anne Moller Pour Homme Control Triple Ac'
 date: 2020-01-08 04:56:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rG-G13ufL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rG-G13ufL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.36 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Anne Moller Pour Homme Control Triple Action Desodorante - 75 ml](https://www.amazon.com/dp/B01FV4SXXA/?tag=redken08-20) a 2.99 EUR (original: 11.36 EUR) (73.68 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Anne Moller Pour Homme Control Triple Action Desodorante - 75 ml](https://www.amazon.com/dp/B01FV4SXXA/?tag=redken08-20) a 2.99 EUR (original: 11.36 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rG-G13ufL._SL200_.jpg)](https://www.amazon.com/dp/B01FV4SXXA/?tag=redken08-20)
 

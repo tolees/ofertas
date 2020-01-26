@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75223 Star Wars Microfighters Naboo al 27.25 % de descuento'
+title: 'LEGO 75223 Star Wars Microfighters Naboo'
 date: 2019/12/19 09:29:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51quC5pEziL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51quC5pEziL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.99 GBP
 inStock: true
 ---
 
-Está [LEGO 75223 Star Wars Microfighters Naboo Starfighter Battlefront Games Set Collection with Young Anakin Skywalker and R2-D2 Droid Dome](https://www.amazon.com/dp/B07FP2KPXQ/?tag=redken08-20) con 27.25 de descuento por 6.54 GBP (original: 8.99 GBP) en el siguiente enlace!
+Está [LEGO 75223 Star Wars Microfighters Naboo Starfighter Battlefront Games Set Collection with Young Anakin Skywalker and R2-D2 Droid Dome](https://www.amazon.com/dp/B07FP2KPXQ/?tag=redken08-20) por 6.54 GBP (original: 8.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51quC5pEziL._SL200_.jpg)](https://www.amazon.com/dp/B07FP2KPXQ/?tag=redken08-20)
 

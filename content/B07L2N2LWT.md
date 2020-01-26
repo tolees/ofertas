@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sharkoon Drakonia II Gaming Maus  optisc al 37.73 % de descuento'
+title: 'Sharkoon Drakonia II Gaming Maus  optisc'
 date: 2020-01-24 18:54:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iF73vg3fL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iF73vg3fL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Sharkoon Drakonia II Gaming Maus  optischer Sensor PixArt 3360  15.000 DPI  12 programmierbare Tasten  grün](https://www.amazon.com/dp/B07L2N2LWT/?tag=redken08-20) con 37.73 de descuento por 24.9 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Sharkoon Drakonia II Gaming Maus  optischer Sensor PixArt 3360  15.000 DPI  12 programmierbare Tasten  grün](https://www.amazon.com/dp/B07L2N2LWT/?tag=redken08-20) por 24.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41iF73vg3fL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07L2N2LWT/?tag=redken08-20)
 

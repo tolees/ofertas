@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brabantia Cubo de Basura con Pedal  Acer al 29.98 % de descuento'
+title: 'Brabantia Cubo de Basura con Pedal  Acer'
 date: 2019/12/22 14:52:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WuKSeNZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WuKSeNZBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.25 EUR
 inStock: true
 ---
 
-Está [Brabantia Cubo de Basura con Pedal  Acero Inoxidable  Mate  3 l](https://www.amazon.com/dp/B01LZMY6MC/?tag=redken08-20) con 29.98 de descuento por 19.08 EUR (original: 27.25 EUR) en el siguiente enlace!
+Está [Brabantia Cubo de Basura con Pedal  Acero Inoxidable  Mate  3 l](https://www.amazon.com/dp/B01LZMY6MC/?tag=redken08-20) por 19.08 EUR (original: 27.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31WuKSeNZBL._SL200_.jpg)](https://www.amazon.com/dp/B01LZMY6MC/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Trail Glove 5  Zapatillas Deport al 50.48 % de descuento'
+title: 'Merrell Trail Glove 5  Zapatillas Deport'
 date: 2020-01-23 09:08:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uBu9V-D3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uBu9V-D3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 120 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Azul  Sailor Blue   50 EU](https://www.amazon.com/dp/B07KMBZSYT/?tag=redken08-20) a 59.43 EUR (original: 120 EUR) (50.48 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Azul  Sailor Blue   50 EU](https://www.amazon.com/dp/B07KMBZSYT/?tag=redken08-20) a 59.43 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uBu9V-D3L._SL200_.jpg)](https://www.amazon.com/dp/B07KMBZSYT/?tag=redken08-20)
 

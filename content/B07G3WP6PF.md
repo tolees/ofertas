@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'APC Instruments Luthier Gold - Instrumen al 34.51 % de descuento'
+title: 'APC Instruments Luthier Gold - Instrumen'
 date: 2019/10/18 11:12:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Zy2dnwvcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Zy2dnwvcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 2342.61 EUR
 inStock: true
 ---
 
-Está [APC Instruments Luthier Gold - Instrumento de cuerdas](https://www.amazon.com/dp/B07G3WP6PF/?tag=redken08-20) con 34.51 de descuento por 1534.26 EUR (original: 2342.61 EUR) en el siguiente enlace!
+Está [APC Instruments Luthier Gold - Instrumento de cuerdas](https://www.amazon.com/dp/B07G3WP6PF/?tag=redken08-20) por 1534.26 EUR (original: 2342.61 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Zy2dnwvcL._SL200_.jpg)](https://www.amazon.com/dp/B07G3WP6PF/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Vikky Platform  Zapatillas para Muj al 50.52 % de descuento'
+title: 'Puma Vikky Platform  Zapatillas para Muj'
 date: 2019/12/21 17:13:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417oQG%2BiAXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417oQG%2BiAXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.95 EUR
 inStock: true
 ---
 
-Está [Puma Vikky Platform  Zapatillas para Mujer  Beige  Pebble   37.5 EU](https://www.amazon.com/dp/B075F8DFXP/?tag=redken08-20) con 50.52 de descuento por 32.14 EUR (original: 64.95 EUR) en el siguiente enlace!
+Está [Puma Vikky Platform  Zapatillas para Mujer  Beige  Pebble   37.5 EU](https://www.amazon.com/dp/B075F8DFXP/?tag=redken08-20) por 32.14 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417oQG%2BiAXL._SL200_.jpg)](https://www.amazon.com/dp/B075F8DFXP/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Polar A360 - Pulsómetro  Color Blanco  T al 43.98 % de descuento'
+title: 'Polar A360 - Pulsómetro  Color Blanco  T'
 date: 2020-01-16 06:42:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CPuE5s-6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CPuE5s-6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 200 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Polar A360 - Pulsómetro  Color Blanco  Talla M](https://www.amazon.com/dp/B01FKEBI4C/?tag=redken08-20) a 112.03 EUR (original: 200 EUR) (43.98 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Polar A360 - Pulsómetro  Color Blanco  Talla M](https://www.amazon.com/dp/B01FKEBI4C/?tag=redken08-20) a 112.03 EUR (original: 200 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CPuE5s-6L._SL200_.jpg)](https://www.amazon.com/dp/B01FKEBI4C/?tag=redken08-20)
 

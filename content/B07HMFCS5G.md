@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS  64GB  - Plata al 41.29 % de descuento'
+title: 'Apple iPhone XS  64GB  - Plata'
 date: 2020-01-22 11:12:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aEaDIrljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aEaDIrljL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1039 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Apple iPhone XS  64GB  - Plata](https://www.amazon.com/dp/B07HMFCS5G/?tag=redken08-20) a 609.99 EUR (original: 1039 EUR) (41.29 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Apple iPhone XS  64GB  - Plata](https://www.amazon.com/dp/B07HMFCS5G/?tag=redken08-20) a 609.99 EUR (original: 1039 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51aEaDIrljL._SL200_.jpg)](https://www.amazon.com/dp/B07HMFCS5G/?tag=redken08-20)
 

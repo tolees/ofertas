@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yo-Kai Watch 2: Mentespectros al 66.49 % de descuento'
+title: 'Yo-Kai Watch 2: Mentespectros'
 date: 2019/12/21 10:08:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/615j%2BI388BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/615j%2BI388BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Yo-Kai Watch 2: Mentespectros](https://www.amazon.com/dp/B074QW7RSK/?tag=redken08-20) con 66.49 de descuento por 13.4 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Yo-Kai Watch 2: Mentespectros](https://www.amazon.com/dp/B074QW7RSK/?tag=redken08-20) por 13.4 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/615j%2BI388BL._SL200_.jpg)](https://www.amazon.com/dp/B074QW7RSK/?tag=redken08-20)
 

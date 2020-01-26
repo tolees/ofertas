@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 28.20 % en Vans Colorblock tee - Camiseta para Homb'
+title: 'Vans Colorblock tee - Camiseta para Homb'
 date: 2019/10/15 12:37:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4182abSqKlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4182abSqKlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [Vans Colorblock tee - Camiseta para Hombre   Blanco  White/black   Small](https://www.amazon.com/dp/B06Y5CLKVQ/?tag=redken08-20) con un 28.20 % de descuento con precio de oferta de 17.95 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [Vans Colorblock tee - Camiseta para Hombre   Blanco  White/black   Small](https://www.amazon.com/dp/B06Y5CLKVQ/?tag=redken08-20) a precio de oferta de 17.95 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4182abSqKlL._SL200_.jpg)](https://www.amazon.com/dp/B06Y5CLKVQ/?tag=redken08-20)
 

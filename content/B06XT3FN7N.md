@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans New Virginia  Camiseta Para M al 32.20 % de descuento'
+title: 'Pepe Jeans New Virginia  Camiseta Para M'
 date: 2019/11/07 10:11:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sGFddHM8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sGFddHM8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans New Virginia  Camiseta Para Mujer  Azul  Navy   Medium](https://www.amazon.com/dp/B06XT3FN7N/?tag=redken08-20) a 16.95 EUR (original: 25 EUR) (32.20 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans New Virginia  Camiseta Para Mujer  Azul  Navy   Medium](https://www.amazon.com/dp/B06XT3FN7N/?tag=redken08-20) a 16.95 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sGFddHM8L._SL200_.jpg)](https://www.amazon.com/dp/B06XT3FN7N/?tag=redken08-20)
 

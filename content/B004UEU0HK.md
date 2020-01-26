@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rochas 24205 - Agua de colonia al 35.61 % de descuento'
+title: 'Rochas 24205 - Agua de colonia'
 date: 2019/10/24 17:16:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hKx3UF7UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hKx3UF7UL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 72 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rochas 24205 - Agua de colonia](https://www.amazon.com/dp/B004UEU0HK/?tag=redken08-20) a 46.36 EUR (original: 72 EUR) (35.61 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Rochas 24205 - Agua de colonia](https://www.amazon.com/dp/B004UEU0HK/?tag=redken08-20) a 46.36 EUR (original: 72 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hKx3UF7UL._SL200_.jpg)](https://www.amazon.com/dp/B004UEU0HK/?tag=redken08-20)
 

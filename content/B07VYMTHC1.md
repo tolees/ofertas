@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Razer Kitty Gaming Bundle con Basilisk E al 37.50 % de descuento'
+title: 'Razer Kitty Gaming Bundle con Basilisk E'
 date: 2019/12/11 17:48:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TuUk12NQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TuUk12NQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Razer Kitty Gaming Bundle con Basilisk Essential  Kraken X Lite  Goliathus Mobile Stealth  Mouse Bungee V2 y Kitty Ears](https://www.amazon.com/dp/B07VYMTHC1/?tag=redken08-20) a 99.99 EUR (original: 159.99 EUR) (37.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Razer Kitty Gaming Bundle con Basilisk Essential  Kraken X Lite  Goliathus Mobile Stealth  Mouse Bungee V2 y Kitty Ears](https://www.amazon.com/dp/B07VYMTHC1/?tag=redken08-20) a 99.99 EUR (original: 159.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TuUk12NQL._SL200_.jpg)](https://www.amazon.com/dp/B07VYMTHC1/?tag=redken08-20)
 

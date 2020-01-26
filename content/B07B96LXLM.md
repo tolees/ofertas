@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Core Hilfiger Regular Pol al 47.21 % de descuento'
+title: 'Tommy Hilfiger Core Hilfiger Regular Pol'
 date: 2019/11/13 08:35:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zgUUzhTCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zgUUzhTCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.9 EUR
 inStock: true
 ---
 
-Está [Tommy Hilfiger Core Hilfiger Regular Polo  Gris  Cloud Htr 501   Small para Hombre](https://www.amazon.com/dp/B07B96LXLM/?tag=redken08-20) con 47.21 de descuento por 42.18 EUR (original: 79.9 EUR) en el siguiente enlace!
+Está [Tommy Hilfiger Core Hilfiger Regular Polo  Gris  Cloud Htr 501   Small para Hombre](https://www.amazon.com/dp/B07B96LXLM/?tag=redken08-20) por 42.18 EUR (original: 79.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zgUUzhTCL._SL200_.jpg)](https://www.amazon.com/dp/B07B96LXLM/?tag=redken08-20)
 

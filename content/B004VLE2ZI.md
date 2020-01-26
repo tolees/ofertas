@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wella Sp Deep Cleanser Shampoo Champú -  al 45.05 % de descuento'
+title: 'Wella Sp Deep Cleanser Shampoo Champú - '
 date: 2019/10/13 13:19:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vGxOUI7SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vGxOUI7SL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Wella Sp Deep Cleanser Shampoo Champú - 1000 ml](https://www.amazon.com/dp/B004VLE2ZI/?tag=redken08-20) a 25 EUR (original: 45.5 EUR) (45.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Wella Sp Deep Cleanser Shampoo Champú - 1000 ml](https://www.amazon.com/dp/B004VLE2ZI/?tag=redken08-20) a 25 EUR (original: 45.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31vGxOUI7SL._SL200_.jpg)](https://www.amazon.com/dp/B004VLE2ZI/?tag=redken08-20)
 

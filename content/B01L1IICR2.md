@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sennheiser HD 599 - Auriculares de Diade al 40.56 % de descuento'
+title: 'Sennheiser HD 599 - Auriculares de Diade'
 date: 2019/10/14 20:46:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ogas4RaUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ogas4RaUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 249 EUR
 inStock: true
 ---
 
-Está [Sennheiser HD 599 - Auriculares de Diadema Abiertos  6.3 mm/3.5 mm   Color Marfil](https://www.amazon.com/dp/B01L1IICR2/?tag=redken08-20) con 40.56 de descuento por 148 EUR (original: 249 EUR) en el siguiente enlace!
+Está [Sennheiser HD 599 - Auriculares de Diadema Abiertos  6.3 mm/3.5 mm   Color Marfil](https://www.amazon.com/dp/B01L1IICR2/?tag=redken08-20) por 148 EUR (original: 249 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Ogas4RaUL._SL200_.jpg)](https://www.amazon.com/dp/B01L1IICR2/?tag=redken08-20)
 

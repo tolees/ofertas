@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brother DCP-L2510D A4 Mono Laser Printer al 45.74 % de descuento'
+title: 'Brother DCP-L2510D A4 Mono Laser Printer'
 date: 2020-01-02 11:44:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jt3PKtfeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jt3PKtfeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129 GBP
 inStock: true
 ---
 
-Está [Brother DCP-L2510D A4 Mono Laser Printer  PC Connected  Print  Copy  Scan and 2 Sided Printing](https://www.amazon.com/dp/B078GNYR4G/?tag=redken08-20) con 45.74 de descuento por 69.99 GBP (original: 129 GBP) en el siguiente enlace!
+Está [Brother DCP-L2510D A4 Mono Laser Printer  PC Connected  Print  Copy  Scan and 2 Sided Printing](https://www.amazon.com/dp/B078GNYR4G/?tag=redken08-20) por 69.99 GBP (original: 129 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31jt3PKtfeL._SL200_.jpg)](https://www.amazon.com/dp/B078GNYR4G/?tag=redken08-20)
 

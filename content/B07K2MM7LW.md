@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Kanadia Trail F36056  Zapatillas  al 47.47 % de descuento'
+title: 'adidas Kanadia Trail F36056  Zapatillas '
 date: 2019/12/04 18:25:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316iv3SWpmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316iv3SWpmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 67.49 EUR
 inStock: true
 ---
 
-Está [adidas Kanadia Trail F36056  Zapatillas de Entrenamiento para Hombre - Negro  Black F36056  - 44 EU](https://www.amazon.com/dp/B07K2MM7LW/?tag=redken08-20) con 47.47 de descuento por 35.45 EUR (original: 67.49 EUR) en el siguiente enlace!
+Está [adidas Kanadia Trail F36056  Zapatillas de Entrenamiento para Hombre - Negro  Black F36056  - 44 EU](https://www.amazon.com/dp/B07K2MM7LW/?tag=redken08-20) por 35.45 EUR (original: 67.49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/316iv3SWpmL._SL200_.jpg)](https://www.amazon.com/dp/B07K2MM7LW/?tag=redken08-20)
 

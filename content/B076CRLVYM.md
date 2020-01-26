@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.00 % en American Tourister - Bon Air - Spinner M'
+title: 'American Tourister - Bon Air - Spinner M'
 date: 2019/11/27 16:36:16 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Tienes [American Tourister - Bon Air - Spinner Maleta 75 cm  91 L  Rojo  Magma Red ](https://www.amazon.com/dp/B076CRLVYM/?tag=redken08-20) con un 40.00 % de descuento con precio de oferta de 84 EUR (original: 140 EUR) en el siguiente enlace!
+Tienes [American Tourister - Bon Air - Spinner Maleta 75 cm  91 L  Rojo  Magma Red ](https://www.amazon.com/dp/B076CRLVYM/?tag=redken08-20) a precio de oferta de 84 EUR (original: 140 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B076CRLVYM/?tag=redken08-20)
 

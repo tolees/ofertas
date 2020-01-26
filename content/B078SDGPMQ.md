@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jfwscorpion PU Cognac Pre18 al 44.51 % de descuento'
+title: 'JACK & JONES Jfwscorpion PU Cognac Pre18'
 date: 2019/11/15 13:52:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jf9-5jz3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jf9-5jz3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES Jfwscorpion PU Cognac Pre18  Zapatillas para Hombre  Marrón  40 EU](https://www.amazon.com/dp/B078SDGPMQ/?tag=redken08-20) a 22.19 EUR (original: 39.99 EUR) (44.51 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES Jfwscorpion PU Cognac Pre18  Zapatillas para Hombre  Marrón  40 EU](https://www.amazon.com/dp/B078SDGPMQ/?tag=redken08-20) a 22.19 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jf9-5jz3L._SL200_.jpg)](https://www.amazon.com/dp/B078SDGPMQ/?tag=redken08-20)
 

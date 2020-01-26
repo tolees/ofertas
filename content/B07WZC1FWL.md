@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asbww | Dron GPS con Cámara Full HD 1080 al 33.34 % de descuento'
+title: 'Asbww | Dron GPS con Cámara Full HD 1080'
 date: 2019/12/23 09:35:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41meCze8lUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41meCze8lUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Está [Asbww | Dron GPS con Cámara Full HD 1080p para Principiantes - Drone Cuadricóptero RC con Retorno Automático / Fotos y Vídeo HD 1080p / Transmisión en Tiempo Real FPV](https://www.amazon.com/dp/B07WZC1FWL/?tag=redken08-20) con 33.34 de descuento por 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!
+Está [Asbww | Dron GPS con Cámara Full HD 1080p para Principiantes - Drone Cuadricóptero RC con Retorno Automático / Fotos y Vídeo HD 1080p / Transmisión en Tiempo Real FPV](https://www.amazon.com/dp/B07WZC1FWL/?tag=redken08-20) por 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41meCze8lUL._SL200_.jpg)](https://www.amazon.com/dp/B07WZC1FWL/?tag=redken08-20)
 

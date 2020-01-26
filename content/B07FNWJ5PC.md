@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Ninjago - Monasterio del Spinjitzu  al 30.10 % de descuento'
+title: 'LEGO Ninjago - Monasterio del Spinjitzu '
 date: 2020-01-04 07:30:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uV446GgJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uV446GgJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [LEGO Ninjago - Monasterio del Spinjitzu  juguete creativo e imaginativo de construcción con templo para aventuras ninja  70670 ](https://www.amazon.com/dp/B07FNWJ5PC/?tag=redken08-20) con 30.10 de descuento por 62.9 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [LEGO Ninjago - Monasterio del Spinjitzu  juguete creativo e imaginativo de construcción con templo para aventuras ninja  70670 ](https://www.amazon.com/dp/B07FNWJ5PC/?tag=redken08-20) por 62.9 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51uV446GgJL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ5PC/?tag=redken08-20)
 

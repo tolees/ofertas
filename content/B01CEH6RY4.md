@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.96 % en Pokemon Luna'
+title: 'Pokemon Luna'
 date: 2019/11/08 19:03:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61mlZw%2B9NvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61mlZw%2B9NvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45.99 EUR
 inStock: true
 ---
 
-Tienes [Pokemon Luna](https://www.amazon.com/dp/B01CEH6RY4/?tag=redken08-20) con un 30.96 % de descuento con precio de oferta de 31.75 EUR (original: 45.99 EUR) en el siguiente enlace!
+Tienes [Pokemon Luna](https://www.amazon.com/dp/B01CEH6RY4/?tag=redken08-20) a precio de oferta de 31.75 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61mlZw%2B9NvL._SL200_.jpg)](https://www.amazon.com/dp/B01CEH6RY4/?tag=redken08-20)
 

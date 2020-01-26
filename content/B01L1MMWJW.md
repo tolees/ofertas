@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ozone Rage Z50 - Auricular Gaming  Color al 57.34 % de descuento'
+title: 'Ozone Rage Z50 - Auricular Gaming  Color'
 date: 2020-01-16 22:35:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ef8lqemEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ef8lqemEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 48.99 EUR
 inStock: true
 ---
 
-Está [Ozone Rage Z50 - Auricular Gaming  Color Amarillo](https://www.amazon.com/dp/B01L1MMWJW/?tag=redken08-20) con 57.34 de descuento por 20.9 EUR (original: 48.99 EUR) en el siguiente enlace!
+Está [Ozone Rage Z50 - Auricular Gaming  Color Amarillo](https://www.amazon.com/dp/B01L1MMWJW/?tag=redken08-20) por 20.9 EUR (original: 48.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Ef8lqemEL._SL200_.jpg)](https://www.amazon.com/dp/B01L1MMWJW/?tag=redken08-20)
 

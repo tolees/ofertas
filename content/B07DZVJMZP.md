@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Mochila juvenil para equi al 49.99 % de descuento'
+title: 'AmazonBasics - Mochila juvenil para equi'
 date: 2020-01-03 10:07:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qzvsMQIHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qzvsMQIHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Mochila juvenil para equipo de béisbol  Negro](https://www.amazon.com/dp/B07DZVJMZP/?tag=redken08-20) a 17.5 EUR (original: 34.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Mochila juvenil para equipo de béisbol  Negro](https://www.amazon.com/dp/B07DZVJMZP/?tag=redken08-20) a 17.5 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qzvsMQIHL._SL200_.jpg)](https://www.amazon.com/dp/B07DZVJMZP/?tag=redken08-20)
 

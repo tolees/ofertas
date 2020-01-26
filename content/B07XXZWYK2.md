@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Princess Elsa Dress Elsa Frozen Dress Sn al 77.07 % de descuento'
+title: 'Princess Elsa Dress Elsa Frozen Dress Sn'
 date: 2019/12/30 00:36:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w0BV2saqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w0BV2saqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 108.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Princess Elsa Dress Elsa Frozen Dress Snow Queen Costumes for Girls Cosplay Halloween Birthday Party Fancy Dress UP](https://www.amazon.com/dp/B07XXZWYK2/?tag=redken08-20) a 24.99 GBP (original: 108.99 GBP) (77.07 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Princess Elsa Dress Elsa Frozen Dress Snow Queen Costumes for Girls Cosplay Halloween Birthday Party Fancy Dress UP](https://www.amazon.com/dp/B07XXZWYK2/?tag=redken08-20) a 24.99 GBP (original: 108.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41w0BV2saqL._SL200_.jpg)](https://www.amazon.com/dp/B07XXZWYK2/?tag=redken08-20)
 

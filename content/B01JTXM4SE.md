@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Killington  Botas Unisex Niño al 40.58 % de descuento'
+title: 'Timberland Killington  Botas Unisex Niño'
 date: 2019/12/27 17:22:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S9Py7xgfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S9Py7xgfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.03 EUR
 inStock: true
 ---
 
-Está [Timberland Killington  Botas Unisex Niños  Beige  Wheat Nubuck 231   37 EU](https://www.amazon.com/dp/B01JTXM4SE/?tag=redken08-20) con 40.58 de descuento por 43.99 EUR (original: 74.03 EUR) en el siguiente enlace!
+Está [Timberland Killington  Botas Unisex Niños  Beige  Wheat Nubuck 231   37 EU](https://www.amazon.com/dp/B01JTXM4SE/?tag=redken08-20) por 43.99 EUR (original: 74.03 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41S9Py7xgfL._SL200_.jpg)](https://www.amazon.com/dp/B01JTXM4SE/?tag=redken08-20)
 

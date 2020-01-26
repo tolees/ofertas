@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canadian Peak Anorak al 40.00 % de descuento'
+title: 'Canadian Peak Anorak'
 date: 2020-01-11 08:08:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w9VIDTgBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w9VIDTgBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Canadian Peak Anorak](https://www.amazon.com/dp/B082V5FMTW/?tag=redken08-20) a 59.4 EUR (original: 99 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Canadian Peak Anorak](https://www.amazon.com/dp/B082V5FMTW/?tag=redken08-20) a 59.4 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41w9VIDTgBL._SL200_.jpg)](https://www.amazon.com/dp/B082V5FMTW/?tag=redken08-20)
 

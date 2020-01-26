@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Plastificadora A4 al 50.02 % de descuento'
+title: 'AmazonBasics - Plastificadora A4'
 date: 2019/12/16 08:28:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rD9YuN-IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rD9YuN-IL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Plastificadora A4](https://www.amazon.com/dp/B00D44TLTK/?tag=redken08-20) a 11.24 EUR (original: 22.49 EUR) (50.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Plastificadora A4](https://www.amazon.com/dp/B00D44TLTK/?tag=redken08-20) a 11.24 EUR (original: 22.49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rD9YuN-IL._SL200_.jpg)](https://www.amazon.com/dp/B00D44TLTK/?tag=redken08-20)
 

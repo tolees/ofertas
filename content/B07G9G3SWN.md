@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Camisetas Señora  Mujer  Siena Mage al 37.47 % de descuento'
+title: 'Joma Camisetas Señora  Mujer  Siena Mage'
 date: 2019/12/29 10:15:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PB7QUgDBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PB7QUgDBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.98 EUR
 inStock: true
 ---
 
-Está [Joma Camisetas Señora  Mujer  Siena Magenta  M](https://www.amazon.com/dp/B07G9G3SWN/?tag=redken08-20) con 37.47 de descuento por 4.99 EUR (original: 7.98 EUR) en el siguiente enlace!
+Está [Joma Camisetas Señora  Mujer  Siena Magenta  M](https://www.amazon.com/dp/B07G9G3SWN/?tag=redken08-20) por 4.99 EUR (original: 7.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PB7QUgDBL._SL200_.jpg)](https://www.amazon.com/dp/B07G9G3SWN/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Tech Pant Pantalones  Hombr al 45.71 % de descuento'
+title: 'Under Armour Tech Pant Pantalones  Hombr'
 date: 2019/10/18 00:51:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A8Y1kurnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A8Y1kurnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Under Armour Tech Pant Pantalones  Hombre  Azul  Academy 408   30W / 34L](https://www.amazon.com/dp/B07DPTL9C9/?tag=redken08-20) con 45.71 de descuento por 35.29 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Under Armour Tech Pant Pantalones  Hombre  Azul  Academy 408   30W / 34L](https://www.amazon.com/dp/B07DPTL9C9/?tag=redken08-20) por 35.29 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31A8Y1kurnL._SL200_.jpg)](https://www.amazon.com/dp/B07DPTL9C9/?tag=redken08-20)
 

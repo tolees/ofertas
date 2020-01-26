@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.06 % en The North Face Sudadera Drew Peak  Hombr'
+title: 'The North Face Sudadera Drew Peak  Hombr'
 date: 2019/11/09 16:52:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Tienes [The North Face Sudadera Drew Peak  Hombre  Negro  TNF Black   M](https://www.amazon.com/dp/B00B7XCG7Y/?tag=redken08-20) con un 40.06 % de descuento con precio de oferta de 47.95 EUR (original: 80 EUR) en el siguiente enlace!
+Tienes [The North Face Sudadera Drew Peak  Hombre  Negro  TNF Black   M](https://www.amazon.com/dp/B00B7XCG7Y/?tag=redken08-20) a precio de oferta de 47.95 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg)](https://www.amazon.com/dp/B00B7XCG7Y/?tag=redken08-20)
 

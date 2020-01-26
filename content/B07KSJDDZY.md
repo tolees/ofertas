@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung 860 QVO 4 TB SATA 2.5" Internal  al 38.63 % de descuento'
+title: 'Samsung 860 QVO 4 TB SATA 2.5" Internal '
 date: 2019/11/23 11:45:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412tlQvl6cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412tlQvl6cL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 509.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung 860 QVO 4 TB SATA 2.5" Internal SSD](https://www.amazon.com/dp/B07KSJDDZY/?tag=redken08-20) a 312.99 GBP (original: 509.99 GBP) (38.63 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung 860 QVO 4 TB SATA 2.5" Internal SSD](https://www.amazon.com/dp/B07KSJDDZY/?tag=redken08-20) a 312.99 GBP (original: 509.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412tlQvl6cL._SL200_.jpg)](https://www.amazon.com/dp/B07KSJDDZY/?tag=redken08-20)
 

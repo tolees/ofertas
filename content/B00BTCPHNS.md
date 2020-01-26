@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Flip - Funda para móvil Galaxy S al 68.73 % de descuento'
+title: 'Samsung Flip - Funda para móvil Galaxy S'
 date: 2019/10/21 14:23:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XQVlApraL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XQVlApraL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26 EUR
 inStock: true
 ---
 
-Está [Samsung Flip - Funda para móvil Galaxy S4  Con tapa  protección del terminal  sustituye a la tapa trasera   rosa- Versión Extranjera](https://www.amazon.com/dp/B00BTCPHNS/?tag=redken08-20) con 68.73 de descuento por 8.13 EUR (original: 26 EUR) en el siguiente enlace!
+Está [Samsung Flip - Funda para móvil Galaxy S4  Con tapa  protección del terminal  sustituye a la tapa trasera   rosa- Versión Extranjera](https://www.amazon.com/dp/B00BTCPHNS/?tag=redken08-20) por 8.13 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XQVlApraL._SL200_.jpg)](https://www.amazon.com/dp/B00BTCPHNS/?tag=redken08-20)
 

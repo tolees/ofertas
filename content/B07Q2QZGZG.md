@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jortraveller tee SS Crew Ne al 66.82 % de descuento'
+title: 'JACK & JONES Jortraveller tee SS Crew Ne'
 date: 2019/11/04 13:33:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MbpbVBdiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MbpbVBdiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES Jortraveller tee SS Crew Neck TG Camiseta  Gris  Tap Shoe Fit: Reg   X-Small  Talla del Fabricante: XX-Large  para Hombre](https://www.amazon.com/dp/B07Q2QZGZG/?tag=redken08-20) a 4.31 EUR (original: 12.99 EUR) (66.82 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES Jortraveller tee SS Crew Neck TG Camiseta  Gris  Tap Shoe Fit: Reg   X-Small  Talla del Fabricante: XX-Large  para Hombre](https://www.amazon.com/dp/B07Q2QZGZG/?tag=redken08-20) a 4.31 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MbpbVBdiL._SL200_.jpg)](https://www.amazon.com/dp/B07Q2QZGZG/?tag=redken08-20)
 

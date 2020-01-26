@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Finocam 623531020  Agenda  Tamaño Único  al 30.00 % de descuento'
+title: 'Finocam 623531020  Agenda  Tamaño Único '
 date: 2020-01-11 23:48:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bVyLb1yiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bVyLb1yiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Finocam 623531020  Agenda  Tamaño Único  Multicolor](https://www.amazon.com/dp/B07TGWW1K4/?tag=redken08-20) a 6.3 EUR (original: 9 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Finocam 623531020  Agenda  Tamaño Único  Multicolor](https://www.amazon.com/dp/B07TGWW1K4/?tag=redken08-20) a 6.3 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bVyLb1yiL._SL200_.jpg)](https://www.amazon.com/dp/B07TGWW1K4/?tag=redken08-20)
 

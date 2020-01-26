@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop! - Star Wars: Red Cup Figura d al 59.56 % de descuento'
+title: 'Funko Pop! - Star Wars: Red Cup Figura d'
 date: 2019/10/19 09:58:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41epN6IuN%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41epN6IuN%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop! - Star Wars: Red Cup Figura de Vinilo  Funko 26982 ](https://www.amazon.com/dp/B079YMNMPB/?tag=redken08-20) a 6.45 EUR (original: 15.95 EUR) (59.56 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop! - Star Wars: Red Cup Figura de Vinilo  Funko 26982 ](https://www.amazon.com/dp/B079YMNMPB/?tag=redken08-20) a 6.45 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41epN6IuN%2BL._SL200_.jpg)](https://www.amazon.com/dp/B079YMNMPB/?tag=redken08-20)
 

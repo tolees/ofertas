@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Brama Classic - Camiseta térmica pa al 67.02 % de descuento'
+title: 'Joma Brama Classic - Camiseta térmica pa'
 date: 2019/10/31 06:43:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F7S3nrxcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F7S3nrxcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Está [Joma Brama Classic - Camiseta térmica para Mujer  Color Negro  Talla M-L](https://www.amazon.com/dp/B00BDCPOJG/?tag=redken08-20) con 67.02 de descuento por 6.58 EUR (original: 19.95 EUR) en el siguiente enlace!
+Está [Joma Brama Classic - Camiseta térmica para Mujer  Color Negro  Talla M-L](https://www.amazon.com/dp/B00BDCPOJG/?tag=redken08-20) por 6.58 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31F7S3nrxcL._SL200_.jpg)](https://www.amazon.com/dp/B00BDCPOJG/?tag=redken08-20)
 

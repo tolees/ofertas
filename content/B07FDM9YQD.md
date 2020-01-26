@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Label Vntge Emb S/S tee Camiset al 36.17 % de descuento'
+title: 'Superdry Label Vntge Emb S/S tee Camiset'
 date: 2019/11/26 01:03:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C0GEn8S6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C0GEn8S6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [Superdry Label Vntge Emb S/S tee Camiseta de Tirantes  Negro  Black 02A   Medium para Hombre](https://www.amazon.com/dp/B07FDM9YQD/?tag=redken08-20) con 36.17 de descuento por 15.95 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [Superdry Label Vntge Emb S/S tee Camiseta de Tirantes  Negro  Black 02A   Medium para Hombre](https://www.amazon.com/dp/B07FDM9YQD/?tag=redken08-20) por 15.95 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31C0GEn8S6L._SL200_.jpg)](https://www.amazon.com/dp/B07FDM9YQD/?tag=redken08-20)
 

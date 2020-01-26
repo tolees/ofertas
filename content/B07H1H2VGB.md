@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.24 % en New Balance WT81536 Camiseta  Gris  Athl'
+title: 'New Balance WT81536 Camiseta  Gris  Athl'
 date: 2019/11/06 15:20:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nLSHSlU8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nLSHSlU8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [New Balance WT81536 Camiseta  Gris  Athletic Grey/White AGW   X-Small  Tamaño del Fabricante:XS  para Mujer](https://www.amazon.com/dp/B07H1H2VGB/?tag=redken08-20) con un 50.24 % de descuento con precio de oferta de 12.44 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [New Balance WT81536 Camiseta  Gris  Athletic Grey/White AGW   X-Small  Tamaño del Fabricante:XS  para Mujer](https://www.amazon.com/dp/B07H1H2VGB/?tag=redken08-20) a precio de oferta de 12.44 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nLSHSlU8L._SL200_.jpg)](https://www.amazon.com/dp/B07H1H2VGB/?tag=redken08-20)
 

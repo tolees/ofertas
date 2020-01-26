@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Negro al 30.35 % de descuento'
+title: 'Levi s 502 Regular Taper Vaqueros  Negro'
 date: 2019/10/28 10:39:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ve55bD4WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ve55bD4WL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 98.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros  Negro  Nightshade 0031   40W / 38L para Hombre](https://www.amazon.com/dp/B07LFDH7KW/?tag=redken08-20) a 68.95 EUR (original: 98.99 EUR) (30.35 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros  Negro  Nightshade 0031   40W / 38L para Hombre](https://www.amazon.com/dp/B07LFDH7KW/?tag=redken08-20) a 68.95 EUR (original: 98.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Ve55bD4WL._SL200_.jpg)](https://www.amazon.com/dp/B07LFDH7KW/?tag=redken08-20)
 

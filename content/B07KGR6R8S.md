@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Burton Sadie Chaquetas  Mujer  Quail  S al 48.48 % de descuento'
+title: 'Burton Sadie Chaquetas  Mujer  Quail  S'
 date: 2019/11/08 12:37:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Xt2KR-RcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Xt2KR-RcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 160 EUR
 inStock: true
 ---
 
-Está [Burton Sadie Chaquetas  Mujer  Quail  S](https://www.amazon.com/dp/B07KGR6R8S/?tag=redken08-20) con 48.48 de descuento por 82.44 EUR (original: 160 EUR) en el siguiente enlace!
+Está [Burton Sadie Chaquetas  Mujer  Quail  S](https://www.amazon.com/dp/B07KGR6R8S/?tag=redken08-20) por 82.44 EUR (original: 160 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Xt2KR-RcL._SL200_.jpg)](https://www.amazon.com/dp/B07KGR6R8S/?tag=redken08-20)
 

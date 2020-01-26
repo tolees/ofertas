@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Connemara Peated Single Malt Irish Whisk al 48.73 % de descuento'
+title: 'Connemara Peated Single Malt Irish Whisk'
 date: 2020-01-24 10:05:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GaGh4rj0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GaGh4rj0L._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 38.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Connemara Peated Single Malt Irish Whiske  40% - 700ml](https://www.amazon.com/dp/B00BERLBG0/?tag=redken08-20) a 19.99 EUR (original: 38.99 EUR) (48.73 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Connemara Peated Single Malt Irish Whiske  40% - 700ml](https://www.amazon.com/dp/B00BERLBG0/?tag=redken08-20) a 19.99 EUR (original: 38.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51GaGh4rj0L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00BERLBG0/?tag=redken08-20)
 

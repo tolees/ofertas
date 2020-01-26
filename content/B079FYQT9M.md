@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY Braguita Estilo Culotte Muj al 59.96 % de descuento'
+title: 'IRIS & LILLY Braguita Estilo Culotte Muj'
 date: 2019/12/27 16:56:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qJ85-tRsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qJ85-tRsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.24 EUR
 inStock: true
 ---
 
-Está [IRIS & LILLY Braguita Estilo Culotte Mujer  Pack de 5  Multicolor  Deep Sea Coral/ Citronelle/ Violet Tulip   Small](https://www.amazon.com/dp/B079FYQT9M/?tag=redken08-20) con 59.96 de descuento por 4.5 EUR (original: 11.24 EUR) en el siguiente enlace!
+Está [IRIS & LILLY Braguita Estilo Culotte Mujer  Pack de 5  Multicolor  Deep Sea Coral/ Citronelle/ Violet Tulip   Small](https://www.amazon.com/dp/B079FYQT9M/?tag=redken08-20) por 4.5 EUR (original: 11.24 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qJ85-tRsL._SL200_.jpg)](https://www.amazon.com/dp/B079FYQT9M/?tag=redken08-20)
 

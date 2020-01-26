@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dove Aceite de Ducha de Argán 200 ml - [ al 33.18 % de descuento'
+title: 'Dove Aceite de Ducha de Argán 200 ml - ['
 date: 2019/11/09 10:36:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LMKKwt%2BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LMKKwt%2BiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dove Aceite de Ducha de Argán 200 ml - [Pack de 2]](https://www.amazon.com/dp/B06Y2QCQLG/?tag=redken08-20) a 6 EUR (original: 8.98 EUR) (33.18 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Dove Aceite de Ducha de Argán 200 ml - [Pack de 2]](https://www.amazon.com/dp/B06Y2QCQLG/?tag=redken08-20) a 6 EUR (original: 8.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31LMKKwt%2BiL._SL200_.jpg)](https://www.amazon.com/dp/B06Y2QCQLG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.44 % en HP CF279A 79A Cartucho de Tóner Original'
+title: 'HP CF279A 79A Cartucho de Tóner Original'
 date: 2019/12/11 10:21:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g23WgU9qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g23WgU9qL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 73.9 EUR
 inStock: true
 ---
 
-Tienes [HP CF279A 79A Cartucho de Tóner Original  1 unidad  negro](https://www.amazon.com/dp/B01LZJ41VJ/?tag=redken08-20) con un 36.44 % de descuento con precio de oferta de 46.97 EUR (original: 73.9 EUR) en el siguiente enlace!
+Tienes [HP CF279A 79A Cartucho de Tóner Original  1 unidad  negro](https://www.amazon.com/dp/B01LZJ41VJ/?tag=redken08-20) a precio de oferta de 46.97 EUR (original: 73.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41g23WgU9qL._SL200_.jpg)](https://www.amazon.com/dp/B01LZJ41VJ/?tag=redken08-20)
 

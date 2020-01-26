@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Import Cee - Mando Dualshock 4  Color Ve al 38.43 % de descuento'
+title: 'Import Cee - Mando Dualshock 4  Color Ve'
 date: 2019/10/10 14:46:55 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 74.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Import Cee - Mando Dualshock 4  Color Verde Camouflage - Reedición  PS4  [importación]](https://www.amazon.com/dp/B01MQTRR0D/?tag=redken08-20) a 46.17 EUR (original: 74.99 EUR) (38.43 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Import Cee - Mando Dualshock 4  Color Verde Camouflage - Reedición  PS4  [importación]](https://www.amazon.com/dp/B01MQTRR0D/?tag=redken08-20) a 46.17 EUR (original: 74.99 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B01MQTRR0D/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. MDR 40625 vestidos mujer  Verde  G al 62.50 % de descuento'
+title: 'find. MDR 40625 vestidos mujer  Verde  G'
 date: 2020-01-17 07:01:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. MDR 40625 vestidos mujer  Verde  Green   44  Talla del fabricante: X-Large ](https://www.amazon.com/dp/B077HWQMSY/?tag=redken08-20) a 12 EUR (original: 32 EUR) (62.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [find. MDR 40625 vestidos mujer  Verde  Green   44  Talla del fabricante: X-Large ](https://www.amazon.com/dp/B077HWQMSY/?tag=redken08-20) a 12 EUR (original: 32 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL200_.jpg)](https://www.amazon.com/dp/B077HWQMSY/?tag=redken08-20)
 

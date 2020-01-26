@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Hombre Garment Dye Henley Ca al 67.55 % de descuento'
+title: 'Tommy Jeans Hombre Garment Dye Henley Ca'
 date: 2019/11/14 11:06:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n2wAjWbuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n2wAjWbuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Tommy Jeans Hombre Garment Dye Henley Camisa Manga Larga  Verde  Deep Lichen 392  Medium](https://www.amazon.com/dp/B078LDQZXS/?tag=redken08-20) con 67.55 de descuento por 21.09 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Tommy Jeans Hombre Garment Dye Henley Camisa Manga Larga  Verde  Deep Lichen 392  Medium](https://www.amazon.com/dp/B078LDQZXS/?tag=redken08-20) por 21.09 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41n2wAjWbuL._SL200_.jpg)](https://www.amazon.com/dp/B078LDQZXS/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Challenger Chaqueta Sudadera  H al 52.34 % de descuento'
+title: 'Columbia Challenger Chaqueta Sudadera  H'
 date: 2020-01-14 12:18:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t0CGVd%2BfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t0CGVd%2BfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Está [Columbia Challenger Chaqueta Sudadera  Hombre  Negro  Black   XXS](https://www.amazon.com/dp/B076BTKG5Z/?tag=redken08-20) con 52.34 de descuento por 71.48 EUR (original: 149.99 EUR) en el siguiente enlace!
+Está [Columbia Challenger Chaqueta Sudadera  Hombre  Negro  Black   XXS](https://www.amazon.com/dp/B076BTKG5Z/?tag=redken08-20) por 71.48 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41t0CGVd%2BfL._SL200_.jpg)](https://www.amazon.com/dp/B076BTKG5Z/?tag=redken08-20)
 

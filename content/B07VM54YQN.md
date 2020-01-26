@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Powerextra dji Osmo Action 3 x Baterías  al 64.62 % de descuento'
+title: 'Powerextra dji Osmo Action 3 x Baterías '
 date: 2019/11/16 08:14:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qtertZbiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qtertZbiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.99 EUR
 inStock: true
 ---
 
-Está [Powerextra dji Osmo Action 3 x Baterías con Cargador de 3 Canales para dji Osmo Action Cámara](https://www.amazon.com/dp/B07VM54YQN/?tag=redken08-20) con 64.62 de descuento por 45.99 EUR (original: 129.99 EUR) en el siguiente enlace!
+Está [Powerextra dji Osmo Action 3 x Baterías con Cargador de 3 Canales para dji Osmo Action Cámara](https://www.amazon.com/dp/B07VM54YQN/?tag=redken08-20) por 45.99 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qtertZbiL._SL200_.jpg)](https://www.amazon.com/dp/B07VM54YQN/?tag=redken08-20)
 

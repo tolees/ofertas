@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shimano Alivio CSHG4009134 - Cassette Hg al 26.20 % de descuento'
+title: 'Shimano Alivio CSHG4009134 - Cassette Hg'
 date: 2019/11/07 12:16:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61qXIZ638KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61qXIZ638KL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.5 EUR
 inStock: true
 ---
 
-Está [Shimano Alivio CSHG4009134 - Cassette Hg400 12/36 9V.  11/34 9V](https://www.amazon.com/dp/B00LNH9CLW/?tag=redken08-20) con 26.20 de descuento por 18.08 EUR (original: 24.5 EUR) en el siguiente enlace!
+Está [Shimano Alivio CSHG4009134 - Cassette Hg400 12/36 9V.  11/34 9V](https://www.amazon.com/dp/B00LNH9CLW/?tag=redken08-20) por 18.08 EUR (original: 24.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61qXIZ638KL._SL200_.jpg)](https://www.amazon.com/dp/B00LNH9CLW/?tag=redken08-20)
 

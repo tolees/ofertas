@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 High Waist Skinny Vaquer al 86.10 % de descuento'
+title: 'G-STAR RAW 3301 High Waist Skinny Vaquer'
 date: 2019/10/10 19:47:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417wMrNabpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417wMrNabpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.95 EUR
 inStock: true
 ---
 
-Está [G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  medium blue aged 8968-9362   23W / 36L para Mujer](https://www.amazon.com/dp/B07BJHGJ7J/?tag=redken08-20) con 86.10 de descuento por 18.06 EUR (original: 129.95 EUR) en el siguiente enlace!
+Está [G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  medium blue aged 8968-9362   23W / 36L para Mujer](https://www.amazon.com/dp/B07BJHGJ7J/?tag=redken08-20) por 18.06 EUR (original: 129.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417wMrNabpL._SL200_.jpg)](https://www.amazon.com/dp/B07BJHGJ7J/?tag=redken08-20)
 

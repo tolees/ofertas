@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.15 % en E27 Retro Bombilla  Vintage Straight Wir'
+title: 'E27 Retro Bombilla  Vintage Straight Wir'
 date: 2019/12/23 18:51:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rMCJpzLCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rMCJpzLCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.69 EUR
 inStock: true
 ---
 
-Tienes [E27 Retro Bombilla  Vintage Straight Wire LáMpara De Vidrio Engrosada Bombilla IluminacióN DecoracióN para CafeteríA Restaurante Bar Y Sala De Estar 220V  3# ](https://www.amazon.com/dp/B07RQGZ6DL/?tag=redken08-20) con un 37.15 % de descuento con precio de oferta de 10.49 EUR (original: 16.69 EUR) en el siguiente enlace!
+Tienes [E27 Retro Bombilla  Vintage Straight Wire LáMpara De Vidrio Engrosada Bombilla IluminacióN DecoracióN para CafeteríA Restaurante Bar Y Sala De Estar 220V  3# ](https://www.amazon.com/dp/B07RQGZ6DL/?tag=redken08-20) a precio de oferta de 10.49 EUR (original: 16.69 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rMCJpzLCL._SL200_.jpg)](https://www.amazon.com/dp/B07RQGZ6DL/?tag=redken08-20)
 

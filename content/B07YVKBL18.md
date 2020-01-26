@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dreamworks Pack  23 discos  [DVD] al 47.78 % de descuento'
+title: 'Dreamworks Pack  23 discos  [DVD]'
 date: 2019/11/26 18:44:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ps029lYCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ps029lYCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 95.71 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dreamworks Pack  23 discos  [DVD]](https://www.amazon.com/dp/B07YVKBL18/?tag=redken08-20) a 49.98 EUR (original: 95.71 EUR) (47.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Dreamworks Pack  23 discos  [DVD]](https://www.amazon.com/dp/B07YVKBL18/?tag=redken08-20) a 49.98 EUR (original: 95.71 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ps029lYCL._SL200_.jpg)](https://www.amazon.com/dp/B07YVKBL18/?tag=redken08-20)
 

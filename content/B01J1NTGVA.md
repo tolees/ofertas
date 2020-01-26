@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Bombilla LED estándar E27  13 W  al 43.71 % de descuento'
+title: 'Philips Bombilla LED estándar E27  13 W '
 date: 2019/11/11 16:33:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Rmlbsie1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Rmlbsie1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Philips Bombilla LED estándar E27  13 W equivalentes a 100 W en incandescencia  1521 lúmenes  luz blanca cálida  pack de 2](https://www.amazon.com/dp/B01J1NTGVA/?tag=redken08-20) a 10.69 EUR (original: 18.99 EUR) (43.71 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Philips Bombilla LED estándar E27  13 W equivalentes a 100 W en incandescencia  1521 lúmenes  luz blanca cálida  pack de 2](https://www.amazon.com/dp/B01J1NTGVA/?tag=redken08-20) a 10.69 EUR (original: 18.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Rmlbsie1L._SL200_.jpg)](https://www.amazon.com/dp/B01J1NTGVA/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Gris  al 51.45 % de descuento'
+title: 'Levi s 502 Regular Taper Vaqueros  Gris '
 date: 2019/11/07 19:53:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N0zxAjGIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N0zxAjGIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Está [Levi s 502 Regular Taper Vaqueros  Gris  Headed East 0275   28W / 32L para Hombre](https://www.amazon.com/dp/B07D2GJQ6J/?tag=redken08-20) con 51.45 de descuento por 53.41 EUR (original: 110 EUR) en el siguiente enlace!
+Está [Levi s 502 Regular Taper Vaqueros  Gris  Headed East 0275   28W / 32L para Hombre](https://www.amazon.com/dp/B07D2GJQ6J/?tag=redken08-20) por 53.41 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41N0zxAjGIL._SL200_.jpg)](https://www.amazon.com/dp/B07D2GJQ6J/?tag=redken08-20)
 

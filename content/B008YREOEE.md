@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Basic O-Neck tee S/S Noos C al 52.25 % de descuento'
+title: 'JACK & JONES Basic O-Neck tee S/S Noos C'
 date: 2020-01-24 10:10:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41665%2B04m3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41665%2B04m3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.64 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Basic O-Neck tee S/S Noos Camiseta  Grau  Light Grey Melange JJ Light Grey Melange   2XL para Hombre](https://www.amazon.com/dp/B008YREOEE/?tag=redken08-20) con 52.25 de descuento por 6.99 EUR (original: 14.64 EUR) en el siguiente enlace!
+Está [JACK & JONES Basic O-Neck tee S/S Noos Camiseta  Grau  Light Grey Melange JJ Light Grey Melange   2XL para Hombre](https://www.amazon.com/dp/B008YREOEE/?tag=redken08-20) por 6.99 EUR (original: 14.64 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41665%2B04m3L._SL200_.jpg)](https://www.amazon.com/dp/B008YREOEE/?tag=redken08-20)
 

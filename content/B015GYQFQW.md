@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Accord Parfait  Base Maqui al 51.00 % de descuento'
+title: 'L Oreal Paris Accord Parfait  Base Maqui'
 date: 2019/11/19 11:50:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YndJLBYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YndJLBYdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15 EUR
 inStock: true
 ---
 
-Está [L Oreal Paris Accord Parfait  Base Maquillaje Acabado Natural  Tono Claro 2N Vanille - 30 ml](https://www.amazon.com/dp/B015GYQFQW/?tag=redken08-20) con 51.00 de descuento por 7.35 EUR (original: 15 EUR) en el siguiente enlace!
+Está [L Oreal Paris Accord Parfait  Base Maquillaje Acabado Natural  Tono Claro 2N Vanille - 30 ml](https://www.amazon.com/dp/B015GYQFQW/?tag=redken08-20) por 7.35 EUR (original: 15 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31YndJLBYdL._SL200_.jpg)](https://www.amazon.com/dp/B015GYQFQW/?tag=redken08-20)
 

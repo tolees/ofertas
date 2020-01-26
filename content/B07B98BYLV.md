@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Un Geo Lace  Zapatos de Cordones  al 47.37 % de descuento'
+title: 'Clarks Un Geo Lace  Zapatos de Cordones '
 date: 2019/11/07 19:02:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vTy5Z64dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vTy5Z64dL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Clarks Un Geo Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck   44.5 EU](https://www.amazon.com/dp/B07B98BYLV/?tag=redken08-20) a 57.89 EUR (original: 110 EUR) (47.37 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Clarks Un Geo Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck   44.5 EU](https://www.amazon.com/dp/B07B98BYLV/?tag=redken08-20) a 57.89 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31vTy5Z64dL._SL200_.jpg)](https://www.amazon.com/dp/B07B98BYLV/?tag=redken08-20)
 

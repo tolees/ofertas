@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rugby 18 - Versión Española al 68.58 % de descuento'
+title: 'Rugby 18 - Versión Española'
 date: 2020-01-03 10:53:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-9ko3oqSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-9ko3oqSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rugby 18 - Versión Española](https://www.amazon.com/dp/B075V9YTKK/?tag=redken08-20) a 21.99 EUR (original: 69.99 EUR) (68.58 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Rugby 18 - Versión Española](https://www.amazon.com/dp/B075V9YTKK/?tag=redken08-20) a 21.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51-9ko3oqSL._SL200_.jpg)](https://www.amazon.com/dp/B075V9YTKK/?tag=redken08-20)
 
