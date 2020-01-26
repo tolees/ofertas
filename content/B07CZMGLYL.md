@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Sc30 Sleeveless tee Tanque '
+title: 'Under Armour Sc30 Sleeveless tee Tanque  al 28.05 % de descuento'
 date: 2020-01-17 08:55:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej3dKECFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ej3dKECFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Está [Under Armour Sc30 Sleeveless tee Tanque  Niños  Negro  Black/Red Rage 001   XS](https://www.amazon.com/dp/B07CZMGLYL/?tag=redken08-20) por 19.42 EUR (original: 26.99 EUR) en el siguiente enlace!
+Está [Under Armour Sc30 Sleeveless tee Tanque  Niños  Negro  Black/Red Rage 001   XS](https://www.amazon.com/dp/B07CZMGLYL/?tag=redken08-20) con 28.05 de descuento por 19.42 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ej3dKECFL._SL200_.jpg)](https://www.amazon.com/dp/B07CZMGLYL/?tag=redken08-20)
 

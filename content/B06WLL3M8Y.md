@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Ninjago - Área de entrenamiento  70'
+title: 'LEGO Ninjago - Área de entrenamiento  70 al 26.53 % de descuento'
 date: 2019/10/11 11:11:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Zx6ehJ1pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Zx6ehJ1pL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Ninjago - Área de entrenamiento  70606 ](https://www.amazon.com/dp/B06WLL3M8Y/?tag=redken08-20) a 7.34 EUR (original: 9.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Ninjago - Área de entrenamiento  70606 ](https://www.amazon.com/dp/B06WLL3M8Y/?tag=redken08-20) a 7.34 EUR (original: 9.99 EUR) (26.53 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Zx6ehJ1pL._SL200_.jpg)](https://www.amazon.com/dp/B06WLL3M8Y/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s The Perfect Tee  Camiseta  Mujer '
+title: 'Descuento del 33.50 % en Levi s The Perfect Tee  Camiseta  Mujer '
 date: 2019/12/01 16:01:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BznDLPN0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BznDLPN0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Tienes [Levi s The Perfect Tee  Camiseta  Mujer  Rojo  Box Tab Brilliant Red 0635   M](https://www.amazon.com/dp/B07LFF2R3L/?tag=redken08-20) a precio de oferta de 13.3 EUR (original: 20 EUR) en el siguiente enlace!
+Tienes [Levi s The Perfect Tee  Camiseta  Mujer  Rojo  Box Tab Brilliant Red 0635   M](https://www.amazon.com/dp/B07LFF2R3L/?tag=redken08-20) con un 33.50 % de descuento con precio de oferta de 13.3 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BznDLPN0L._SL200_.jpg)](https://www.amazon.com/dp/B07LFF2R3L/?tag=redken08-20)
 

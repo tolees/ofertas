@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K9CK Luces LED para Ideas Friends Centra'
+title: 'K9CK Luces LED para Ideas Friends Centra al 50.00 % de descuento'
 date: 2020-01-21 10:48:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Mp2C8D2JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Mp2C8D2JL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.98 EUR
 inStock: true
 ---
 
-Está [K9CK Luces LED para Ideas Friends Central Perk 21319  Kit de Iluminación Luz con Control Remoto Compatible con Bloques de construcción  NO Incluido en el Modelo ](https://www.amazon.com/dp/B083HTR6YG/?tag=redken08-20) por 29.99 EUR (original: 59.98 EUR) en el siguiente enlace!
+Está [K9CK Luces LED para Ideas Friends Central Perk 21319  Kit de Iluminación Luz con Control Remoto Compatible con Bloques de construcción  NO Incluido en el Modelo ](https://www.amazon.com/dp/B083HTR6YG/?tag=redken08-20) con 50.00 de descuento por 29.99 EUR (original: 59.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Mp2C8D2JL._SL200_.jpg)](https://www.amazon.com/dp/B083HTR6YG/?tag=redken08-20)
 

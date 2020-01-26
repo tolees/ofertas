@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vernee M6 Teléfono Móvil Android  Pantal'
+title: 'Vernee M6 Teléfono Móvil Android  Pantal al 39.25 % de descuento'
 date: 2019/11/30 09:38:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51V9Dha0xHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51V9Dha0xHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Está [Vernee M6 Teléfono Móvil Android  Pantalla 5.7 Pulgadas  3300 mAh  4GB RAM+64GB ROM  Cámara Doble 16MP+13MP  Desbloqueo Rápido Huella  Dual SIM y Dual Navegación  Smartphone Libre 4G - Azul](https://www.amazon.com/dp/B07F1MZMF1/?tag=redken08-20) por 97.19 EUR (original: 159.99 EUR) en el siguiente enlace!
+Está [Vernee M6 Teléfono Móvil Android  Pantalla 5.7 Pulgadas  3300 mAh  4GB RAM+64GB ROM  Cámara Doble 16MP+13MP  Desbloqueo Rápido Huella  Dual SIM y Dual Navegación  Smartphone Libre 4G - Azul](https://www.amazon.com/dp/B07F1MZMF1/?tag=redken08-20) con 39.25 de descuento por 97.19 EUR (original: 159.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51V9Dha0xHL._SL200_.jpg)](https://www.amazon.com/dp/B07F1MZMF1/?tag=redken08-20)
 

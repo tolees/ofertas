@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Flower-Bio-cannacrecimiento1000cc.c.16'
+title: 'Flower-Bio-cannacrecimiento1000cc.c.16 al 30.84 % de descuento'
 date: 2019/10/29 12:19:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WzXbONlzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WzXbONlzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.36 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Flower-Bio-cannacrecimiento1000cc.c.16](https://www.amazon.com/dp/B00IMH8A0A/?tag=redken08-20) a 9.24 EUR (original: 13.36 EUR) en el siguiente enlace!
+Ahora mismo tienes [Flower-Bio-cannacrecimiento1000cc.c.16](https://www.amazon.com/dp/B00IMH8A0A/?tag=redken08-20) a 9.24 EUR (original: 13.36 EUR) (30.84 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31WzXbONlzL._SL200_.jpg)](https://www.amazon.com/dp/B00IMH8A0A/?tag=redken08-20)
 

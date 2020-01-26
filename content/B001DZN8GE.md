@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson Durabrite Ultra Ink para Stylus SX'
+title: 'Epson Durabrite Ultra Ink para Stylus SX al 33.89 % de descuento'
 date: 2020-01-20 17:59:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jHTUZtLfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jHTUZtLfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 31.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Epson Durabrite Ultra Ink para Stylus SX600/B40W/BX600FW  negro  Ya disponible en Amazon Dash Replenishment](https://www.amazon.com/dp/B001DZN8GE/?tag=redken08-20) a 21.15 EUR (original: 31.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Epson Durabrite Ultra Ink para Stylus SX600/B40W/BX600FW  negro  Ya disponible en Amazon Dash Replenishment](https://www.amazon.com/dp/B001DZN8GE/?tag=redken08-20) a 21.15 EUR (original: 31.99 EUR) (33.89 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jHTUZtLfL._SL200_.jpg)](https://www.amazon.com/dp/B001DZN8GE/?tag=redken08-20)
 

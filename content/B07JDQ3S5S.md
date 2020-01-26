@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NEW C 2 Unidades  Protector de Pantalla '
+title: 'NEW C 2 Unidades  Protector de Pantalla  al 44.94 % de descuento'
 date: 2019/11/27 14:02:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KhOkVnbrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KhOkVnbrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.99 EUR
 inStock: true
 ---
 
-Está [NEW C 2 Unidades  Protector de Pantalla para Huawei Mate 20 Lite  Honor Play  Vidrio Cristal Templado](https://www.amazon.com/dp/B07JDQ3S5S/?tag=redken08-20) por 4.95 EUR (original: 8.99 EUR) en el siguiente enlace!
+Está [NEW C 2 Unidades  Protector de Pantalla para Huawei Mate 20 Lite  Honor Play  Vidrio Cristal Templado](https://www.amazon.com/dp/B07JDQ3S5S/?tag=redken08-20) con 44.94 de descuento por 4.95 EUR (original: 8.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KhOkVnbrL._SL200_.jpg)](https://www.amazon.com/dp/B07JDQ3S5S/?tag=redken08-20)
 

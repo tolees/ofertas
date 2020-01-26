@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Hue White & Color Ambiance E27 L'
+title: 'Descuento del 25.07 % en Philips Hue White & Color Ambiance E27 L'
 date: 2019/12/14 20:19:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21E7YKLP8YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21E7YKLP8YL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Tienes [Philips Hue White & Color Ambiance E27 LED Lampe Erweiterung  3. Generation  dimmbar  bis zu 16 Millionen Farben  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot  - 9.5W](https://www.amazon.com/dp/B01LVXIM42/?tag=redken08-20) a precio de oferta de 44.95 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [Philips Hue White & Color Ambiance E27 LED Lampe Erweiterung  3. Generation  dimmbar  bis zu 16 Millionen Farben  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot  - 9.5W](https://www.amazon.com/dp/B01LVXIM42/?tag=redken08-20) con un 25.07 % de descuento con precio de oferta de 44.95 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21E7YKLP8YL._SL200_.jpg)](https://www.amazon.com/dp/B01LVXIM42/?tag=redken08-20)
 

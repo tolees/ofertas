@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Complejo multivitamínico para hombre y m'
+title: 'Complejo multivitamínico para hombre y m al 35.02 % de descuento'
 date: 2019/12/27 17:47:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qDWnti5KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qDWnti5KL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Complejo multivitamínico para hombre y mujer  a base de vitaminas y minerales. Reduce el cansancio  la fatiga y refuerza el sistema inmunitario. 90 cápsulas vegetales. Vegano y sin gluten.](https://www.amazon.com/dp/B00QI4ZGOM/?tag=redken08-20) por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Complejo multivitamínico para hombre y mujer  a base de vitaminas y minerales. Reduce el cansancio  la fatiga y refuerza el sistema inmunitario. 90 cápsulas vegetales. Vegano y sin gluten.](https://www.amazon.com/dp/B00QI4ZGOM/?tag=redken08-20) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qDWnti5KL._SL200_.jpg)](https://www.amazon.com/dp/B00QI4ZGOM/?tag=redken08-20)
 

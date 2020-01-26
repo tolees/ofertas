@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans TJW Shortsleeve Stretch tee '
+title: 'Tommy Jeans TJW Shortsleeve Stretch tee  al 30.00 % de descuento'
 date: 2019/10/09 17:00:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TjeoQZdHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TjeoQZdHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tommy Jeans TJW Shortsleeve Stretch tee Camiseta  Gris  LT Grey HTR 038   XL para Mujer](https://www.amazon.com/dp/B07LBBDGL8/?tag=redken08-20) a 14 EUR (original: 20 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tommy Jeans TJW Shortsleeve Stretch tee Camiseta  Gris  LT Grey HTR 038   XL para Mujer](https://www.amazon.com/dp/B07LBBDGL8/?tag=redken08-20) a 14 EUR (original: 20 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TjeoQZdHL._SL200_.jpg)](https://www.amazon.com/dp/B07LBBDGL8/?tag=redken08-20)
 

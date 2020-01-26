@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic Set-In Neck  Camiseta par'
+title: 'Levi s Graphic Set-In Neck  Camiseta par al 40.65 % de descuento'
 date: 2019/12/17 18:33:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dmnoDLF-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dmnoDLF-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Está [Levi s Graphic Set-In Neck  Camiseta para Hombre  Blanco  C18978 Graphic H215-Hm White Graphic H215-Hm 36.4 140   X-Large](https://www.amazon.com/dp/B00VLN9R3Q/?tag=redken08-20) por 11.87 EUR (original: 20 EUR) en el siguiente enlace!
+Está [Levi s Graphic Set-In Neck  Camiseta para Hombre  Blanco  C18978 Graphic H215-Hm White Graphic H215-Hm 36.4 140   X-Large](https://www.amazon.com/dp/B00VLN9R3Q/?tag=redken08-20) con 40.65 de descuento por 11.87 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dmnoDLF-L._SL200_.jpg)](https://www.amazon.com/dp/B00VLN9R3Q/?tag=redken08-20)
 

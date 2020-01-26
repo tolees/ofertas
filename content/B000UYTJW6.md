@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Makita 5903RK Sierra Circular  2 W  22.9'
+title: 'Makita 5903RK Sierra Circular  2 W  22.9 al 26.63 % de descuento'
 date: 2019/10/20 19:10:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p42zcRXiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p42zcRXiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 407.85 EUR
 inStock: true
 ---
 
-Está [Makita 5903RK Sierra Circular  2 W  22.9 cm](https://www.amazon.com/dp/B000UYTJW6/?tag=redken08-20) por 299.25 EUR (original: 407.85 EUR) en el siguiente enlace!
+Está [Makita 5903RK Sierra Circular  2 W  22.9 cm](https://www.amazon.com/dp/B000UYTJW6/?tag=redken08-20) con 26.63 de descuento por 299.25 EUR (original: 407.85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41p42zcRXiL._SL200_.jpg)](https://www.amazon.com/dp/B000UYTJW6/?tag=redken08-20)
 

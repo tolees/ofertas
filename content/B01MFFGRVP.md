@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kingdom Hearts Hd 1.5 + 2.5 Remix'
+title: 'Kingdom Hearts Hd 1.5 + 2.5 Remix al 47.19 % de descuento'
 date: 2019/12/05 10:45:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61%2B1VHfyPyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61%2B1VHfyPyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 48.99 EUR
 inStock: true
 ---
 
-Está [Kingdom Hearts Hd 1.5 + 2.5 Remix](https://www.amazon.com/dp/B01MFFGRVP/?tag=redken08-20) por 25.87 EUR (original: 48.99 EUR) en el siguiente enlace!
+Está [Kingdom Hearts Hd 1.5 + 2.5 Remix](https://www.amazon.com/dp/B01MFFGRVP/?tag=redken08-20) con 47.19 de descuento por 25.87 EUR (original: 48.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61%2B1VHfyPyL._SL200_.jpg)](https://www.amazon.com/dp/B01MFFGRVP/?tag=redken08-20)
 

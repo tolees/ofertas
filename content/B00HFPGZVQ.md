@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lego Star Wars Chewbacca Key Light [With'
-date: 2020-01-24 10:23:23
+title: 'Lego Star Wars Chewbacca Key Light [With al 40.42 % de descuento'
+date: 2020-01-26 10:37:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ujwsvCf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ujwsvCf0L._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Está [Lego Star Wars Chewbacca Key Light [With Battery]](https://www.amazon.com/dp/B00HFPGZVQ/?tag=redken08-20) por 7.74 EUR (original: 12.99 EUR) en el siguiente enlace!
+Está [Lego Star Wars Chewbacca Key Light [With Battery]](https://www.amazon.com/dp/B00HFPGZVQ/?tag=redken08-20) con 40.42 de descuento por 7.74 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ujwsvCf0L._SL200_.jpg)](https://www.amazon.com/dp/B00HFPGZVQ/?tag=redken08-20)
 

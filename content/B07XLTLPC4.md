@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Assassin s Creed: The Rebel Collection'
+title: 'Assassin s Creed: The Rebel Collection al 25.63 % de descuento'
 date: 2020-01-16 13:09:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FjUy08q%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FjUy08q%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Assassin s Creed: The Rebel Collection](https://www.amazon.com/dp/B07XLTLPC4/?tag=redken08-20) por 37.18 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Assassin s Creed: The Rebel Collection](https://www.amazon.com/dp/B07XLTLPC4/?tag=redken08-20) con 25.63 de descuento por 37.18 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51FjUy08q%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07XLTLPC4/?tag=redken08-20)
 

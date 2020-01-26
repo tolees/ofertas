@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko- Pop Vinilo: Big Bang Theory S2: S'
-date: 2020-01-25 09:52:26
+title: 'Funko- Pop Vinilo: Big Bang Theory S2: S al 48.28 % de descuento'
+date: 2020-01-26 10:14:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EcNykYd8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EcNykYd8L._AC_._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko- Pop Vinilo: Big Bang Theory S2: Stuart Figura Coleccionable  Multicolor  38583 ](https://www.amazon.com/dp/B07N5WR2GF/?tag=redken08-20) por 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Funko- Pop Vinilo: Big Bang Theory S2: Stuart Figura Coleccionable  Multicolor  38583 ](https://www.amazon.com/dp/B07N5WR2GF/?tag=redken08-20) con 48.28 de descuento por 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31EcNykYd8L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07N5WR2GF/?tag=redken08-20)
 

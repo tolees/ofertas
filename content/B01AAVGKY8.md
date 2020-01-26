@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Only & Sons 22004029-Jeans Hombre Negro '
+title: 'Only & Sons 22004029-Jeans Hombre Negro  al 59.99 % de descuento'
 date: 2019/10/26 15:38:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bBedcpPeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bBedcpPeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.67 EUR
 inStock: true
 ---
 
-Está [Only & Sons 22004029-Jeans Hombre Negro  Black  31W x 34L](https://www.amazon.com/dp/B01AAVGKY8/?tag=redken08-20) por 11.87 EUR (original: 29.67 EUR) en el siguiente enlace!
+Está [Only & Sons 22004029-Jeans Hombre Negro  Black  31W x 34L](https://www.amazon.com/dp/B01AAVGKY8/?tag=redken08-20) con 59.99 de descuento por 11.87 EUR (original: 29.67 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bBedcpPeL._SL200_.jpg)](https://www.amazon.com/dp/B01AAVGKY8/?tag=redken08-20)
 

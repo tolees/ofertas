@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Ivo Trail  Zapatillas para Homb'
+title: 'Columbia Ivo Trail  Zapatillas para Homb al 39.99 % de descuento'
 date: 2020-01-06 19:03:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   43.5 EU](https://www.amazon.com/dp/B07JHCGGMY/?tag=redken08-20) por 60 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   43.5 EU](https://www.amazon.com/dp/B07JHCGGMY/?tag=redken08-20) con 39.99 de descuento por 60 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg)](https://www.amazon.com/dp/B07JHCGGMY/?tag=redken08-20)
 

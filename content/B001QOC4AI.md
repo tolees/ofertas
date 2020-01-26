@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 501 Original Fit Vaqueros  Black '
+title: 'Descuento del 30.78 % en Levi s 501 Original Fit Vaqueros  Black '
 date: 2019/11/30 19:52:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nN4CKVpBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nN4CKVpBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Tienes [Levi s 501 Original Fit Vaqueros  Black 0165  34W / 36L para Hombre](https://www.amazon.com/dp/B001QOC4AI/?tag=redken08-20) a precio de oferta de 62.3 EUR (original: 90 EUR) en el siguiente enlace!
+Tienes [Levi s 501 Original Fit Vaqueros  Black 0165  34W / 36L para Hombre](https://www.amazon.com/dp/B001QOC4AI/?tag=redken08-20) con un 30.78 % de descuento con precio de oferta de 62.3 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nN4CKVpBL._SL200_.jpg)](https://www.amazon.com/dp/B001QOC4AI/?tag=redken08-20)
 

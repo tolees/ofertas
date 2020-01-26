@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Colon Azul Profesional Detergente de lav'
+title: 'Descuento del 31.84 % en Colon Azul Profesional Detergente de lav'
 date: 2020-01-23 13:04:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ENVf8wZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ENVf8wZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [Colon Azul Profesional Detergente de lavadora Líquido - 9 kg](https://www.amazon.com/dp/B01BMCT1ZY/?tag=redken08-20) a precio de oferta de 20.44 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Colon Azul Profesional Detergente de lavadora Líquido - 9 kg](https://www.amazon.com/dp/B01BMCT1ZY/?tag=redken08-20) con un 31.84 % de descuento con precio de oferta de 20.44 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-ENVf8wZL._SL200_.jpg)](https://www.amazon.com/dp/B01BMCT1ZY/?tag=redken08-20)
 

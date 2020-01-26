@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geomag - Color 120 Piezas  Juego de cons'
+title: 'Geomag - Color 120 Piezas  Juego de cons al 25.00 % de descuento'
 date: 2019/11/29 17:28:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/618A8A6hqgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/618A8A6hqgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.2 EUR
 inStock: true
 ---
 
-Está [Geomag - Color 120 Piezas  Juego de construcción  255 ](https://www.amazon.com/dp/B0080BEKRK/?tag=redken08-20) por 36.9 EUR (original: 49.2 EUR) en el siguiente enlace!
+Está [Geomag - Color 120 Piezas  Juego de construcción  255 ](https://www.amazon.com/dp/B0080BEKRK/?tag=redken08-20) con 25.00 de descuento por 36.9 EUR (original: 49.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/618A8A6hqgL._SL200_.jpg)](https://www.amazon.com/dp/B0080BEKRK/?tag=redken08-20)
 

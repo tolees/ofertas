@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars Trilogía Episodios I-Iii  2011'
+title: 'Star Wars Trilogía Episodios I-Iii  2011 al 30.78 % de descuento'
 date: 2019/11/26 19:45:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BBlnmwLAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BBlnmwLAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Star Wars Trilogía Episodios I-Iii  2011  [Blu-ray]](https://www.amazon.com/dp/B005C2UFTC/?tag=redken08-20) a 17.99 EUR (original: 25.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Star Wars Trilogía Episodios I-Iii  2011  [Blu-ray]](https://www.amazon.com/dp/B005C2UFTC/?tag=redken08-20) a 17.99 EUR (original: 25.99 EUR) (30.78 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51BBlnmwLAL._SL200_.jpg)](https://www.amazon.com/dp/B005C2UFTC/?tag=redken08-20)
 

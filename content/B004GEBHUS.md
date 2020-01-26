@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Crew Midlayer Chaqueta Impe'
+title: 'Helly Hansen Crew Midlayer Chaqueta Impe al 50.00 % de descuento'
 date: 2019/11/08 11:05:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j31MxvZXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j31MxvZXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Crew Midlayer Chaqueta Impermeable  Hombre  Blanco  Bright White   M](https://www.amazon.com/dp/B004GEBHUS/?tag=redken08-20) por 75 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Helly Hansen Crew Midlayer Chaqueta Impermeable  Hombre  Blanco  Bright White   M](https://www.amazon.com/dp/B004GEBHUS/?tag=redken08-20) con 50.00 de descuento por 75 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31j31MxvZXL._SL200_.jpg)](https://www.amazon.com/dp/B004GEBHUS/?tag=redken08-20)
 

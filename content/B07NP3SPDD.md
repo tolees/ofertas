@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Academy19 Track Jacket Chaqueta  Ho'
+title: 'Nike Academy19 Track Jacket Chaqueta  Ho al 43.43 % de descuento'
 date: 2019/11/01 20:02:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UxBv22m6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UxBv22m6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Academy19 Track Jacket Chaqueta  Hombre  Bright Crimson/White/White  M](https://www.amazon.com/dp/B07NP3SPDD/?tag=redken08-20) a 22.63 EUR (original: 40 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike Academy19 Track Jacket Chaqueta  Hombre  Bright Crimson/White/White  M](https://www.amazon.com/dp/B07NP3SPDD/?tag=redken08-20) a 22.63 EUR (original: 40 EUR) (43.43 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UxBv22m6L._SL200_.jpg)](https://www.amazon.com/dp/B07NP3SPDD/?tag=redken08-20)
 

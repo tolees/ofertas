@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Die Unglaublichen - Standard Editio'
+title: 'LEGO Die Unglaublichen - Standard Editio al 36.24 % de descuento'
 date: 2020-01-20 09:08:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RcJsCVI8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RcJsCVI8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [LEGO Die Unglaublichen - Standard Edition - Nintendo Switch [Importación alemana]](https://www.amazon.com/dp/B07CD5S3PV/?tag=redken08-20) por 38.25 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [LEGO Die Unglaublichen - Standard Edition - Nintendo Switch [Importación alemana]](https://www.amazon.com/dp/B07CD5S3PV/?tag=redken08-20) con 36.24 de descuento por 38.25 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RcJsCVI8L._SL200_.jpg)](https://www.amazon.com/dp/B07CD5S3PV/?tag=redken08-20)
 

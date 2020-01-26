@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Wmns Tanjun  Zapatillas de Running '
+title: 'Nike Wmns Tanjun  Zapatillas de Running  al 25.21 % de descuento'
 date: 2019/12/17 17:11:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4188GHlC5LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4188GHlC5LL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 66 EUR
 inStock: true
 ---
 
-Está [Nike Wmns Tanjun  Zapatillas de Running para Mujer  Negro  Black/White 011   42 EU](https://www.amazon.com/dp/B01D0BRI8C/?tag=redken08-20) por 49.36 EUR (original: 66 EUR) en el siguiente enlace!
+Está [Nike Wmns Tanjun  Zapatillas de Running para Mujer  Negro  Black/White 011   42 EU](https://www.amazon.com/dp/B01D0BRI8C/?tag=redken08-20) con 25.21 de descuento por 49.36 EUR (original: 66 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4188GHlC5LL._SL200_.jpg)](https://www.amazon.com/dp/B01D0BRI8C/?tag=redken08-20)
 

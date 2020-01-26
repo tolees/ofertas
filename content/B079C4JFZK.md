@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjecorp Logo tee SS Crew Ne'
+title: 'JACK & JONES Jjecorp Logo tee SS Crew Ne al 40.04 % de descuento'
 date: 2020-01-13 11:06:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d9lkn7JIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d9lkn7JIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES Jjecorp Logo tee SS Crew Neck Noos Camiseta  Azul  Navy Blazer Detail: Slim Fit   XX-Large para Hombre](https://www.amazon.com/dp/B079C4JFZK/?tag=redken08-20) a 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES Jjecorp Logo tee SS Crew Neck Noos Camiseta  Azul  Navy Blazer Detail: Slim Fit   XX-Large para Hombre](https://www.amazon.com/dp/B079C4JFZK/?tag=redken08-20) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41d9lkn7JIL._SL200_.jpg)](https://www.amazon.com/dp/B079C4JFZK/?tag=redken08-20)
 

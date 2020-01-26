@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TELMU - Telescopio Astronomico F60050M/5'
+title: 'TELMU - Telescopio Astronomico F60050M/5 al 25.56 % de descuento'
 date: 2019/10/30 08:59:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QtP6mXDJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QtP6mXDJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [TELMU - Telescopio Astronomico F60050M/5 Longitud Focal 600 MM Ultra-Alto Claro De 50 MM para Telescopio Celestron](https://www.amazon.com/dp/B07CTHYLNJ/?tag=redken08-20) a 66.99 EUR (original: 89.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [TELMU - Telescopio Astronomico F60050M/5 Longitud Focal 600 MM Ultra-Alto Claro De 50 MM para Telescopio Celestron](https://www.amazon.com/dp/B07CTHYLNJ/?tag=redken08-20) a 66.99 EUR (original: 89.99 EUR) (25.56 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QtP6mXDJL._SL200_.jpg)](https://www.amazon.com/dp/B07CTHYLNJ/?tag=redken08-20)
 

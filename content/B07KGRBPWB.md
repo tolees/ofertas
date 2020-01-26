@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Ost Spacer Track Jacket Chaqueta '
+title: 'Reebok Ost Spacer Track Jacket Chaqueta  al 34.00 % de descuento'
 date: 2019/11/21 03:35:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xuKGQTORL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xuKGQTORL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 48.27 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Reebok Ost Spacer Track Jacket Chaqueta  Hombre  Negro  XL](https://www.amazon.com/dp/B07KGRBPWB/?tag=redken08-20) a 31.86 EUR (original: 48.27 EUR) en el siguiente enlace!
+Ahora mismo tienes [Reebok Ost Spacer Track Jacket Chaqueta  Hombre  Negro  XL](https://www.amazon.com/dp/B07KGRBPWB/?tag=redken08-20) a 31.86 EUR (original: 48.27 EUR) (34.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31xuKGQTORL._SL200_.jpg)](https://www.amazon.com/dp/B07KGRBPWB/?tag=redken08-20)
 

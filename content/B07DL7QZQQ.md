@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Element Cornell Classic Ho Fleece  Hombr'
+title: 'Element Cornell Classic Ho Fleece  Hombr al 45.30 % de descuento'
 date: 2019/11/18 13:40:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qA3oS93AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qA3oS93AL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 57 EUR
 inStock: true
 ---
 
-Está [Element Cornell Classic Ho Fleece  Hombre  Flint Black  S](https://www.amazon.com/dp/B07DL7QZQQ/?tag=redken08-20) por 31.18 EUR (original: 57 EUR) en el siguiente enlace!
+Está [Element Cornell Classic Ho Fleece  Hombre  Flint Black  S](https://www.amazon.com/dp/B07DL7QZQQ/?tag=redken08-20) con 45.30 de descuento por 31.18 EUR (original: 57 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qA3oS93AL._SL200_.jpg)](https://www.amazon.com/dp/B07DL7QZQQ/?tag=redken08-20)
 

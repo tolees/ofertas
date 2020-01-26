@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pjmasks edt spray 50ml + gel ducha 100ml'
+title: 'Pjmasks edt spray 50ml + gel ducha 100ml al 76.68 % de descuento'
 date: 2019/10/21 19:38:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GEE%2B8Yi-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GEE%2B8Yi-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 23.58 EUR
 inStock: true
 ---
 
-Está [Pjmasks edt spray 50ml + gel ducha 100ml + 4 rotuladores + bolsa merie.](https://www.amazon.com/dp/B077Y3CNNF/?tag=redken08-20) por 5.5 EUR (original: 23.58 EUR) en el siguiente enlace!
+Está [Pjmasks edt spray 50ml + gel ducha 100ml + 4 rotuladores + bolsa merie.](https://www.amazon.com/dp/B077Y3CNNF/?tag=redken08-20) con 76.68 de descuento por 5.5 EUR (original: 23.58 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51GEE%2B8Yi-L._SL200_.jpg)](https://www.amazon.com/dp/B077Y3CNNF/?tag=redken08-20)
 

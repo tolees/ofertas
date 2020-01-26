@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GORE Wear Camiseta interior cortavientos'
+title: 'GORE Wear Camiseta interior cortavientos al 35.80 % de descuento'
 date: 2019/12/02 10:40:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315VN4LgeJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315VN4LgeJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [GORE Wear Camiseta interior cortavientos de hombre  M  Negro  100024](https://www.amazon.com/dp/B075S3RRBQ/?tag=redken08-20) por 38.49 EUR (original: 59.95 EUR) en el siguiente enlace!
+Está [GORE Wear Camiseta interior cortavientos de hombre  M  Negro  100024](https://www.amazon.com/dp/B075S3RRBQ/?tag=redken08-20) con 35.80 de descuento por 38.49 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/315VN4LgeJL._SL200_.jpg)](https://www.amazon.com/dp/B075S3RRBQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Shoes Research tee-Shirt  Hombre  Bla'
+title: 'Descuento del 45.84 % en DC Shoes Research tee-Shirt  Hombre  Bla'
 date: 2019/10/06 20:42:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sODwxGc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sODwxGc9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Tienes [DC Shoes Research tee-Shirt  Hombre  Black Iris/Snow White  L](https://www.amazon.com/dp/B07KPSRRCJ/?tag=redken08-20) a precio de oferta de 18.95 EUR (original: 34.99 EUR) en el siguiente enlace!
+Tienes [DC Shoes Research tee-Shirt  Hombre  Black Iris/Snow White  L](https://www.amazon.com/dp/B07KPSRRCJ/?tag=redken08-20) con un 45.84 % de descuento con precio de oferta de 18.95 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sODwxGc9L._SL200_.jpg)](https://www.amazon.com/dp/B07KPSRRCJ/?tag=redken08-20)
 

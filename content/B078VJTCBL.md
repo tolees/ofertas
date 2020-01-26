@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS Lyra Mini - Kit de 2 Sistemas Wi-Fi'
+title: 'ASUS Lyra Mini - Kit de 2 Sistemas Wi-Fi al 49.68 % de descuento'
 date: 2020-01-12 09:44:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3153xtp7Q3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3153xtp7Q3L._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 179 EUR
 inStock: true
 ---
 
-Tienes [ASUS Lyra Mini - Kit de 2 Sistemas Wi-Fi Mesh Doble Banda AC1300 Gigabit  App de gestión  Smart Connect  única Red  compatible con Ai Mesh wifi ](https://www.amazon.com/dp/B078VJTCBL/?tag=redken08-20) a precio de oferta de 90.08 EUR (original: 179 EUR) en el siguiente enlace!
+Ahora mismo tienes [ASUS Lyra Mini - Kit de 2 Sistemas Wi-Fi Mesh Doble Banda AC1300 Gigabit  App de gestión  Smart Connect  única Red  compatible con Ai Mesh wifi ](https://www.amazon.com/dp/B078VJTCBL/?tag=redken08-20) a 90.08 EUR (original: 179 EUR) (49.68 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/3153xtp7Q3L._SL200_.jpg)](https://www.amazon.com/dp/B078VJTCBL/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B078VJTCBL/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B078VJTCBL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

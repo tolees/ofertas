@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9334 - Sheriff'
+title: 'Descuento del 50.50 % en Playmobil 9334 - Sheriff'
 date: 2020-01-16 06:11:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tvV4a2R7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tvV4a2R7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 2.99 EUR
 inStock: true
 ---
 
-Tienes [Playmobil 9334 - Sheriff](https://www.amazon.com/dp/B0767DNHKL/?tag=redken08-20) a precio de oferta de 1.48 EUR (original: 2.99 EUR) en el siguiente enlace!
+Tienes [Playmobil 9334 - Sheriff](https://www.amazon.com/dp/B0767DNHKL/?tag=redken08-20) con un 50.50 % de descuento con precio de oferta de 1.48 EUR (original: 2.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tvV4a2R7L._SL200_.jpg)](https://www.amazon.com/dp/B0767DNHKL/?tag=redken08-20)
 

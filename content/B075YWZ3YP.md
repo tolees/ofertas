@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Parka Ligera Hombre  Beige  Stone '
+title: 'find. Parka Ligera Hombre  Beige  Stone  al 61.90 % de descuento'
 date: 2019/12/21 16:22:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419GmoaLLmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419GmoaLLmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 31.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Parka Ligera Hombre  Beige  Stone   Medium](https://www.amazon.com/dp/B075YWZ3YP/?tag=redken08-20) a 12 EUR (original: 31.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [find. Parka Ligera Hombre  Beige  Stone   Medium](https://www.amazon.com/dp/B075YWZ3YP/?tag=redken08-20) a 12 EUR (original: 31.5 EUR) (61.90 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419GmoaLLmL._SL200_.jpg)](https://www.amazon.com/dp/B075YWZ3YP/?tag=redken08-20)
 

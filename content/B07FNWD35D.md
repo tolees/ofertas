@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75237 Star Wars TIE Fighter Attack '
+title: 'LEGO 75237 Star Wars TIE Fighter Attack  al 33.46 % de descuento'
 date: 2019/12/11 22:55:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nf9voPcDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nf9voPcDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75237 Star Wars TIE Fighter Attack Battlefront Games Set Collection with Pilot and Rebel Fleet Trooper Minifigures and Starter Bricks](https://www.amazon.com/dp/B07FNWD35D/?tag=redken08-20) a 11.97 GBP (original: 17.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75237 Star Wars TIE Fighter Attack Battlefront Games Set Collection with Pilot and Rebel Fleet Trooper Minifigures and Starter Bricks](https://www.amazon.com/dp/B07FNWD35D/?tag=redken08-20) a 11.97 GBP (original: 17.99 GBP) (33.46 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Nf9voPcDL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWD35D/?tag=redken08-20)
 

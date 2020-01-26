@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Cat tee Camiseta  Mujer  Gris  Ligh'
+title: 'PUMA Cat tee Camiseta  Mujer  Gris  Ligh al 61.69 % de descuento'
 date: 2019/10/31 04:43:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wipTtFVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wipTtFVsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.95 EUR
 inStock: true
 ---
 
-Está [PUMA Cat tee Camiseta  Mujer  Gris  Light Gray Heather   XS](https://www.amazon.com/dp/B07JH2ZRTL/?tag=redken08-20) por 13.39 EUR (original: 34.95 EUR) en el siguiente enlace!
+Está [PUMA Cat tee Camiseta  Mujer  Gris  Light Gray Heather   XS](https://www.amazon.com/dp/B07JH2ZRTL/?tag=redken08-20) con 61.69 de descuento por 13.39 EUR (original: 34.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wipTtFVsL._SL200_.jpg)](https://www.amazon.com/dp/B07JH2ZRTL/?tag=redken08-20)
 

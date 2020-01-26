@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa - Kombo Mid Footwear Unisex  Alte '
+title: 'Kappa - Kombo Mid Footwear Unisex  Alte  al 33.36 % de descuento'
 date: 2019/12/04 08:57:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RHiBEi3nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RHiBEi3nL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [Kappa - Kombo Mid Footwear Unisex  Alte Scarpe Da Ginnastica  unisex  Beige  4150 beige/brown   37](https://www.amazon.com/dp/B00FMV4I8W/?tag=redken08-20) por 39.95 EUR (original: 59.95 EUR) en el siguiente enlace!
+Está [Kappa - Kombo Mid Footwear Unisex  Alte Scarpe Da Ginnastica  unisex  Beige  4150 beige/brown   37](https://www.amazon.com/dp/B00FMV4I8W/?tag=redken08-20) con 33.36 de descuento por 39.95 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RHiBEi3nL._SL200_.jpg)](https://www.amazon.com/dp/B00FMV4I8W/?tag=redken08-20)
 

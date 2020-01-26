@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Onimusha: Warlords'
+title: 'Descuento del 34.36 % en Onimusha: Warlords'
 date: 2019/10/12 13:34:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yet30bnYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yet30bnYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Tienes [Onimusha: Warlords](https://www.amazon.com/dp/B07GWNK8GH/?tag=redken08-20) a precio de oferta de 39.38 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [Onimusha: Warlords](https://www.amazon.com/dp/B07GWNK8GH/?tag=redken08-20) con un 34.36 % de descuento con precio de oferta de 39.38 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Yet30bnYL._SL200_.jpg)](https://www.amazon.com/dp/B07GWNK8GH/?tag=redken08-20)
 

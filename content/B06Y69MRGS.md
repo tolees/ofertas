@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fujifilm Instax Mini 9 - Cámara instantá'
+title: 'Fujifilm Instax Mini 9 - Cámara instantá al 25.01 % de descuento'
 date: 2020-01-07 16:47:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419HMrDfvLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419HMrDfvLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Fujifilm Instax Mini 9 - Cámara instantánea  Solo cámara  Azul Marino](https://www.amazon.com/dp/B06Y69MRGS/?tag=redken08-20) a 62.99 EUR (original: 84 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fujifilm Instax Mini 9 - Cámara instantánea  Solo cámara  Azul Marino](https://www.amazon.com/dp/B06Y69MRGS/?tag=redken08-20) a 62.99 EUR (original: 84 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419HMrDfvLL._SL200_.jpg)](https://www.amazon.com/dp/B06Y69MRGS/?tag=redken08-20)
 

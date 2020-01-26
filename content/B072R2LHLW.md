@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Men s Timberline Ridge Jacket B'
+title: 'Descuento del 63.63 % en Columbia Men s Timberline Ridge Jacket B'
 date: 2019/12/05 15:56:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hSGK7jhuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hSGK7jhuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 219.99 GBP
 inStock: true
 ---
 
-Tienes [Columbia Men s Timberline Ridge Jacket Black  Black  XL](https://www.amazon.com/dp/B072R2LHLW/?tag=redken08-20) a precio de oferta de 80 GBP (original: 219.99 GBP) en el siguiente enlace!
+Tienes [Columbia Men s Timberline Ridge Jacket Black  Black  XL](https://www.amazon.com/dp/B072R2LHLW/?tag=redken08-20) con un 63.63 % de descuento con precio de oferta de 80 GBP (original: 219.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hSGK7jhuL._SL200_.jpg)](https://www.amazon.com/dp/B072R2LHLW/?tag=redken08-20)
 

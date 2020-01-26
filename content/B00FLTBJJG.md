@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wicked Aqua Mocha Java Lubricante - 158 '
+title: 'Descuento del 34.33 % en Wicked Aqua Mocha Java Lubricante - 158 '
 date: 2019/10/25 15:52:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NaLv2126L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NaLv2126L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12 EUR
 inStock: true
 ---
 
-Tienes [Wicked Aqua Mocha Java Lubricante - 158 gr](https://www.amazon.com/dp/B00FLTBJJG/?tag=redken08-20) a precio de oferta de 7.88 EUR (original: 12 EUR) en el siguiente enlace!
+Tienes [Wicked Aqua Mocha Java Lubricante - 158 gr](https://www.amazon.com/dp/B00FLTBJJG/?tag=redken08-20) con un 34.33 % de descuento con precio de oferta de 7.88 EUR (original: 12 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31NaLv2126L._SL200_.jpg)](https://www.amazon.com/dp/B00FLTBJJG/?tag=redken08-20)
 

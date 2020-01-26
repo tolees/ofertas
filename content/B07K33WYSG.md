@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M One & Only Tank Tops  Hombre  T'
+title: 'Hurley M One & Only Tank Tops  Hombre  T al 39.12 % de descuento'
 date: 2019/11/26 06:51:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-FeRHxfDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-FeRHxfDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.45 EUR
 inStock: true
 ---
 
-Está [Hurley M One & Only Tank Tops  Hombre  Topaz Mist htr  L](https://www.amazon.com/dp/B07K33WYSG/?tag=redken08-20) por 12.45 EUR (original: 20.45 EUR) en el siguiente enlace!
+Está [Hurley M One & Only Tank Tops  Hombre  Topaz Mist htr  L](https://www.amazon.com/dp/B07K33WYSG/?tag=redken08-20) con 39.12 de descuento por 12.45 EUR (original: 20.45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31-FeRHxfDL._SL200_.jpg)](https://www.amazon.com/dp/B07K33WYSG/?tag=redken08-20)
 

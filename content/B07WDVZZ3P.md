@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Syberia trilogy'
+title: 'Syberia trilogy al 32.05 % de descuento'
 date: 2020-01-10 11:16:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X3p6rNnOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X3p6rNnOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Syberia trilogy](https://www.amazon.com/dp/B07WDVZZ3P/?tag=redken08-20) a 30.57 EUR (original: 44.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Syberia trilogy](https://www.amazon.com/dp/B07WDVZZ3P/?tag=redken08-20) a 30.57 EUR (original: 44.99 EUR) (32.05 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41X3p6rNnOL._SL200_.jpg)](https://www.amazon.com/dp/B07WDVZZ3P/?tag=redken08-20)
 

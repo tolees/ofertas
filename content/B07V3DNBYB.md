@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vampyr'
+title: 'Descuento del 35.55 % en Vampyr'
 date: 2020-01-21 11:41:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [Vampyr](https://www.amazon.com/dp/B07V3DNBYB/?tag=redken08-20) a precio de oferta de 32.22 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Vampyr](https://www.amazon.com/dp/B07V3DNBYB/?tag=redken08-20) con un 35.55 % de descuento con precio de oferta de 32.22 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg)](https://www.amazon.com/dp/B07V3DNBYB/?tag=redken08-20)
 

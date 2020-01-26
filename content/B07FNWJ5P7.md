@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO NINJAGO 70665 - Samurai-Roboter'
+title: 'LEGO NINJAGO 70665 - Samurai-Roboter al 36.56 % de descuento'
 date: 2020-01-21 00:23:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [LEGO NINJAGO 70665 - Samurai-Roboter](https://www.amazon.com/dp/B07FNWJ5P7/?tag=redken08-20) por 9.51 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [LEGO NINJAGO 70665 - Samurai-Roboter](https://www.amazon.com/dp/B07FNWJ5P7/?tag=redken08-20) con 36.56 de descuento por 9.51 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ5P7/?tag=redken08-20)
 

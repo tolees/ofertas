@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'STANLEY 0-66-358 - Destornillador con ca'
+title: 'Descuento del 28.24 % en STANLEY 0-66-358 - Destornillador con ca'
 date: 2019/12/10 14:26:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ohQ1ZTxOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ohQ1ZTxOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.42 EUR
 inStock: true
 ---
 
-Tienes [STANLEY 0-66-358 - Destornillador con carraca y 6 Puntas](https://www.amazon.com/dp/B003KQ5EFM/?tag=redken08-20) a precio de oferta de 6.76 EUR (original: 9.42 EUR) en el siguiente enlace!
+Tienes [STANLEY 0-66-358 - Destornillador con carraca y 6 Puntas](https://www.amazon.com/dp/B003KQ5EFM/?tag=redken08-20) con un 28.24 % de descuento con precio de oferta de 6.76 EUR (original: 9.42 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ohQ1ZTxOL._SL200_.jpg)](https://www.amazon.com/dp/B003KQ5EFM/?tag=redken08-20)
 

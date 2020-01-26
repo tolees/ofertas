@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Billetera Pepe Jeans Burned horizontal c'
+title: 'Billetera Pepe Jeans Burned horizontal c al 30.26 % de descuento'
 date: 2019/11/26 13:24:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cUuf%2BqT-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cUuf%2BqT-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 38 EUR
 inStock: true
 ---
 
-Está [Billetera Pepe Jeans Burned horizontal con Billetera extraible Azul](https://www.amazon.com/dp/B07HP9SBRB/?tag=redken08-20) por 26.5 EUR (original: 38 EUR) en el siguiente enlace!
+Está [Billetera Pepe Jeans Burned horizontal con Billetera extraible Azul](https://www.amazon.com/dp/B07HP9SBRB/?tag=redken08-20) con 30.26 de descuento por 26.5 EUR (original: 38 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cUuf%2BqT-L._SL200_.jpg)](https://www.amazon.com/dp/B07HP9SBRB/?tag=redken08-20)
 

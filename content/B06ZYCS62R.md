@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikkon D7500 - Cámara réflex Digital de '
+title: 'Nikkon D7500 - Cámara réflex Digital de  al 46.72 % de descuento'
 date: 2020-01-20 04:37:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aCol7rxQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aCol7rxQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1849 EUR
 inStock: true
 ---
 
-Está [Nikkon D7500 - Cámara réflex Digital de 20.9 MP  Pantalla LCD 3.2"  4K/UHD  SnapBridge  Bluetooth  WiFi  Color Negro - Kit con Objetivo AF-S DX 18-140 mm f/3.5-5.6G ED VR](https://www.amazon.com/dp/B06ZYCS62R/?tag=redken08-20) por 985.22 EUR (original: 1849 EUR) en el siguiente enlace!
+Está [Nikkon D7500 - Cámara réflex Digital de 20.9 MP  Pantalla LCD 3.2"  4K/UHD  SnapBridge  Bluetooth  WiFi  Color Negro - Kit con Objetivo AF-S DX 18-140 mm f/3.5-5.6G ED VR](https://www.amazon.com/dp/B06ZYCS62R/?tag=redken08-20) con 46.72 de descuento por 985.22 EUR (original: 1849 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51aCol7rxQL._SL200_.jpg)](https://www.amazon.com/dp/B06ZYCS62R/?tag=redken08-20)
 

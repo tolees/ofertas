@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen T-Shirt Camiseta de Manga C'
+title: 'Helly Hansen T-Shirt Camiseta de Manga C al 37.30 % de descuento'
 date: 2019/12/01 12:35:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NvUr-ra9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NvUr-ra9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Blanco  S](https://www.amazon.com/dp/B073RP4XBG/?tag=redken08-20) por 18.81 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Blanco  S](https://www.amazon.com/dp/B073RP4XBG/?tag=redken08-20) con 37.30 de descuento por 18.81 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31NvUr-ra9L._SL200_.jpg)](https://www.amazon.com/dp/B073RP4XBG/?tag=redken08-20)
 

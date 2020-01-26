@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair Glaive RGB Pro - Ratón cómodo pa'
+title: 'Corsair Glaive RGB Pro - Ratón cómodo pa al 25.00 % de descuento'
 date: 2019/11/03 20:42:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jWWxitJzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jWWxitJzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Corsair Glaive RGB Pro - Ratón cómodo para Juegos FPS/MOBA  agarres Intercambiables  retroiluminación LED RGB  18.000 PPP  óptico  Negro](https://www.amazon.com/dp/B07PWJ43MB/?tag=redken08-20) a 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Corsair Glaive RGB Pro - Ratón cómodo para Juegos FPS/MOBA  agarres Intercambiables  retroiluminación LED RGB  18.000 PPP  óptico  Negro](https://www.amazon.com/dp/B07PWJ43MB/?tag=redken08-20) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jWWxitJzL._SL200_.jpg)](https://www.amazon.com/dp/B07PWJ43MB/?tag=redken08-20)
 

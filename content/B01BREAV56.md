@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sylvanian Families - Village Cake Shop'
+title: 'Sylvanian Families - Village Cake Shop al 47.49 % de descuento'
 date: 2019/12/30 22:53:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61CVXP2p28L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61CVXP2p28L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Está [Sylvanian Families - Village Cake Shop](https://www.amazon.com/dp/B01BREAV56/?tag=redken08-20) por 21 GBP (original: 39.99 GBP) en el siguiente enlace!
+Está [Sylvanian Families - Village Cake Shop](https://www.amazon.com/dp/B01BREAV56/?tag=redken08-20) con 47.49 de descuento por 21 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61CVXP2p28L._SL200_.jpg)](https://www.amazon.com/dp/B01BREAV56/?tag=redken08-20)
 

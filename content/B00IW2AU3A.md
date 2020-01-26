@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Matrix 60320 - Acondicionador  1000 ml'
+title: 'Matrix 60320 - Acondicionador  1000 ml al 33.59 % de descuento'
 date: 2019/11/04 20:48:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21-X%2BR6maKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21-X%2BR6maKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.64 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Matrix 60320 - Acondicionador  1000 ml](https://www.amazon.com/dp/B00IW2AU3A/?tag=redken08-20) a 19.02 EUR (original: 28.64 EUR) en el siguiente enlace!
+Ahora mismo tienes [Matrix 60320 - Acondicionador  1000 ml](https://www.amazon.com/dp/B00IW2AU3A/?tag=redken08-20) a 19.02 EUR (original: 28.64 EUR) (33.59 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21-X%2BR6maKL._SL200_.jpg)](https://www.amazon.com/dp/B00IW2AU3A/?tag=redken08-20)
 

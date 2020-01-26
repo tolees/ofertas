@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia South Canyon Chaqueta Forrada D'
+title: 'Columbia South Canyon Chaqueta Forrada D al 37.09 % de descuento'
 date: 2019/12/01 19:34:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JDSQtfE6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JDSQtfE6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 179.99 EUR
 inStock: true
 ---
 
-Está [Columbia South Canyon Chaqueta Forrada De Sherpa  Mujer  Marrón  Camel Brown   M](https://www.amazon.com/dp/B07R7XNSFR/?tag=redken08-20) por 113.24 EUR (original: 179.99 EUR) en el siguiente enlace!
+Está [Columbia South Canyon Chaqueta Forrada De Sherpa  Mujer  Marrón  Camel Brown   M](https://www.amazon.com/dp/B07R7XNSFR/?tag=redken08-20) con 37.09 de descuento por 113.24 EUR (original: 179.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JDSQtfE6L._SL200_.jpg)](https://www.amazon.com/dp/B07R7XNSFR/?tag=redken08-20)
 

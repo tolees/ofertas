@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Simpsons Pop Mr Burns  Multicolor '
+title: 'Descuento del 35.86 % en Funko Simpsons Pop Mr Burns  Multicolor '
 date: 2020-01-24 02:09:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kbR%2BpySlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kbR%2BpySlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Tienes [Funko Simpsons Pop Mr Burns  Multicolor  FK33883 ](https://www.amazon.com/dp/B07DFCLFVM/?tag=redken08-20) a precio de oferta de 10.23 EUR (original: 15.95 EUR) en el siguiente enlace!
+Tienes [Funko Simpsons Pop Mr Burns  Multicolor  FK33883 ](https://www.amazon.com/dp/B07DFCLFVM/?tag=redken08-20) con un 35.86 % de descuento con precio de oferta de 10.23 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31kbR%2BpySlL._SL200_.jpg)](https://www.amazon.com/dp/B07DFCLFVM/?tag=redken08-20)
 

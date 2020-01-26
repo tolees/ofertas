@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dead Or Alive 6 PS4'
+title: 'Dead Or Alive 6 PS4 al 61.44 % de descuento'
 date: 2019/11/12 18:11:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412E1K2kXnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412E1K2kXnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dead Or Alive 6 PS4](https://www.amazon.com/dp/B07DLGGD83/?tag=redken08-20) a 26.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dead Or Alive 6 PS4](https://www.amazon.com/dp/B07DLGGD83/?tag=redken08-20) a 26.99 EUR (original: 69.99 EUR) (61.44 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412E1K2kXnL._SL200_.jpg)](https://www.amazon.com/dp/B07DLGGD83/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Classic Pique S/s Polo  Blanco '
+title: 'Superdry Classic Pique S/s Polo  Blanco  al 57.72 % de descuento'
 date: 2019/11/11 11:01:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xHwujDV6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xHwujDV6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [Superdry Classic Pique S/s Polo  Blanco  Optic 01c   X-Small para Hombre](https://www.amazon.com/dp/B01N2HLD6S/?tag=redken08-20) por 21.12 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [Superdry Classic Pique S/s Polo  Blanco  Optic 01c   X-Small para Hombre](https://www.amazon.com/dp/B01N2HLD6S/?tag=redken08-20) con 57.72 de descuento por 21.12 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xHwujDV6L._SL200_.jpg)](https://www.amazon.com/dp/B01N2HLD6S/?tag=redken08-20)
 

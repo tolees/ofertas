@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '3DS Miitopía'
+title: '3DS Miitopía al 50.11 % de descuento'
 date: 2020-01-07 08:17:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61NcfEzIbgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61NcfEzIbgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [3DS Miitopía](https://www.amazon.com/dp/B072LD6BYS/?tag=redken08-20) a 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [3DS Miitopía](https://www.amazon.com/dp/B072LD6BYS/?tag=redken08-20) a 19.95 EUR (original: 39.99 EUR) (50.11 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61NcfEzIbgL._SL200_.jpg)](https://www.amazon.com/dp/B072LD6BYS/?tag=redken08-20)
 

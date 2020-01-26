@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BG Runway - BM-MP01 - Alfombrilla Pro Ga'
+title: 'BG Runway - BM-MP01 - Alfombrilla Pro Ga al 34.89 % de descuento'
 date: 2019/11/19 13:02:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/211zxBIPVqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/211zxBIPVqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 5.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BG Runway - BM-MP01 - Alfombrilla Pro Gaming  Color Negro](https://www.amazon.com/dp/B008HZ8SQS/?tag=redken08-20) a 3.9 EUR (original: 5.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [BG Runway - BM-MP01 - Alfombrilla Pro Gaming  Color Negro](https://www.amazon.com/dp/B008HZ8SQS/?tag=redken08-20) a 3.9 EUR (original: 5.99 EUR) (34.89 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/211zxBIPVqL._SL200_.jpg)](https://www.amazon.com/dp/B008HZ8SQS/?tag=redken08-20)
 

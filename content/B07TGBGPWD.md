@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tarjeta Regalo puntos MeliáRewards para '
+title: 'Tarjeta Regalo puntos MeliáRewards para  al 30.00 % de descuento'
 date: 2019/12/31 06:54:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q8u%2Bjs14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q8u%2Bjs14L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 560 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tarjeta Regalo puntos MeliáRewards para canjear por noches  tratamientos de spa y desayunos  comidas o cenas en hoteles Meliá  80.000 Puntos ](https://www.amazon.com/dp/B07TGBGPWD/?tag=redken08-20) a 392 EUR (original: 560 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tarjeta Regalo puntos MeliáRewards para canjear por noches  tratamientos de spa y desayunos  comidas o cenas en hoteles Meliá  80.000 Puntos ](https://www.amazon.com/dp/B07TGBGPWD/?tag=redken08-20) a 392 EUR (original: 560 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41q8u%2Bjs14L._SL200_.jpg)](https://www.amazon.com/dp/B07TGBGPWD/?tag=redken08-20)
 

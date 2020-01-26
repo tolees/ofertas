@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fred Perry Men s Twin Tipped Shirt-M3600'
+title: 'Fred Perry Men s Twin Tipped Shirt-M3600 al 41.67 % de descuento'
 date: 2019/10/22 06:13:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c317CNgTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c317CNgTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 72 GBP
 inStock: true
 ---
 
-Está [Fred Perry Men s Twin Tipped Shirt-M3600  French Navy/Bronze/Port  Large](https://www.amazon.com/dp/B01N0VCB9E/?tag=redken08-20) por 42 GBP (original: 72 GBP) en el siguiente enlace!
+Está [Fred Perry Men s Twin Tipped Shirt-M3600  French Navy/Bronze/Port  Large](https://www.amazon.com/dp/B01N0VCB9E/?tag=redken08-20) con 41.67 de descuento por 42 GBP (original: 72 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41c317CNgTL._SL200_.jpg)](https://www.amazon.com/dp/B01N0VCB9E/?tag=redken08-20)
 

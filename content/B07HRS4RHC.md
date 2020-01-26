@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Relaxdays Árbol Rascador para Gatos con '
+title: 'Relaxdays Árbol Rascador para Gatos con  al 31.61 % de descuento'
 date: 2019/12/22 21:16:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FnksVZHgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FnksVZHgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [Relaxdays Árbol Rascador para Gatos con Cama Cueva  Sisal  Gris  56 x 31 x 31 cm](https://www.amazon.com/dp/B07HRS4RHC/?tag=redken08-20) por 23.93 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [Relaxdays Árbol Rascador para Gatos con Cama Cueva  Sisal  Gris  56 x 31 x 31 cm](https://www.amazon.com/dp/B07HRS4RHC/?tag=redken08-20) con 31.61 de descuento por 23.93 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FnksVZHgL._SL200_.jpg)](https://www.amazon.com/dp/B07HRS4RHC/?tag=redken08-20)
 

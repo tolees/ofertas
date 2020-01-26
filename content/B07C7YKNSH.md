@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ao International Tennis'
+title: 'Ao International Tennis al 57.88 % de descuento'
 date: 2020-01-16 08:16:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517fuAeu4cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517fuAeu4cL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 42.74 EUR
 inStock: true
 ---
 
-Está [Ao International Tennis](https://www.amazon.com/dp/B07C7YKNSH/?tag=redken08-20) por 18 EUR (original: 42.74 EUR) en el siguiente enlace!
+Está [Ao International Tennis](https://www.amazon.com/dp/B07C7YKNSH/?tag=redken08-20) con 57.88 de descuento por 18 EUR (original: 42.74 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517fuAeu4cL._SL200_.jpg)](https://www.amazon.com/dp/B07C7YKNSH/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shiseido 70511 - Protección solar  50 ml'
+title: 'Shiseido 70511 - Protección solar  50 ml al 37.11 % de descuento'
 date: 2019/11/30 18:04:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515bHtY6CXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515bHtY6CXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Está [Shiseido 70511 - Protección solar  50 ml](https://www.amazon.com/dp/B00TX72SGK/?tag=redken08-20) por 28.3 EUR (original: 45 EUR) en el siguiente enlace!
+Está [Shiseido 70511 - Protección solar  50 ml](https://www.amazon.com/dp/B00TX72SGK/?tag=redken08-20) con 37.11 de descuento por 28.3 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515bHtY6CXL._SL200_.jpg)](https://www.amazon.com/dp/B00TX72SGK/?tag=redken08-20)
 

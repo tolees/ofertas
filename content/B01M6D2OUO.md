@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Rocket Figura de Vinilo  colección'
+title: 'Funko Rocket Figura de Vinilo  colección al 44.96 % de descuento'
 date: 2020-01-10 22:23:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ixhy0FtgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ixhy0FtgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko Rocket Figura de Vinilo  colección de Pop  seria Guardians of The Galaxy 2  Multicolor  13270 ](https://www.amazon.com/dp/B01M6D2OUO/?tag=redken08-20) por 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Funko Rocket Figura de Vinilo  colección de Pop  seria Guardians of The Galaxy 2  Multicolor  13270 ](https://www.amazon.com/dp/B01M6D2OUO/?tag=redken08-20) con 44.96 de descuento por 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ixhy0FtgL._SL200_.jpg)](https://www.amazon.com/dp/B01M6D2OUO/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Architecture 21028 - New York City '
+title: 'LEGO Architecture 21028 - New York City  al 36.01 % de descuento'
 date: 2020-01-23 01:26:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eda0bZppL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eda0bZppL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Architecture 21028 - New York City  Skyline-Kollektion  Bausteine](https://www.amazon.com/dp/B012NOGGHQ/?tag=redken08-20) a 31.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Architecture 21028 - New York City  Skyline-Kollektion  Bausteine](https://www.amazon.com/dp/B012NOGGHQ/?tag=redken08-20) a 31.99 EUR (original: 49.99 EUR) (36.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51eda0bZppL._SL200_.jpg)](https://www.amazon.com/dp/B012NOGGHQ/?tag=redken08-20)
 

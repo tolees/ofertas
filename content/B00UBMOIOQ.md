@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP CF360X 508X Cartucho de Tóner Origina'
+title: 'HP CF360X 508X Cartucho de Tóner Origina al 33.43 % de descuento'
 date: 2019/11/02 07:15:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bFAHpy9QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bFAHpy9QL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 277.9 EUR
 inStock: true
 ---
 
-Está [HP CF360X 508X Cartucho de Tóner Original de alto rendimiento  1 unidad  negro](https://www.amazon.com/dp/B00UBMOIOQ/?tag=redken08-20) por 185 EUR (original: 277.9 EUR) en el siguiente enlace!
+Está [HP CF360X 508X Cartucho de Tóner Original de alto rendimiento  1 unidad  negro](https://www.amazon.com/dp/B00UBMOIOQ/?tag=redken08-20) con 33.43 de descuento por 185 EUR (original: 277.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bFAHpy9QL._SL200_.jpg)](https://www.amazon.com/dp/B00UBMOIOQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei E5573Cs-322 - Wi-Fi móvil  150Mbp'
+title: 'Huawei E5573Cs-322 - Wi-Fi móvil  150Mbp al 36.72 % de descuento'
 date: 2019/10/17 16:57:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o7txs3mwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o7txs3mwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Huawei E5573Cs-322 - Wi-Fi móvil  150Mbps de velocidad de descarga  Wi-Fi Hotspot/router de bajo consumo energético  ranura de tarjeta SIM  hasta un máximo de 10 usuarios  1 usuario vía USB   negro](https://www.amazon.com/dp/B071HBBQLB/?tag=redken08-20) a 49.99 EUR (original: 79 EUR) en el siguiente enlace!
+Ahora mismo tienes [Huawei E5573Cs-322 - Wi-Fi móvil  150Mbps de velocidad de descarga  Wi-Fi Hotspot/router de bajo consumo energético  ranura de tarjeta SIM  hasta un máximo de 10 usuarios  1 usuario vía USB   negro](https://www.amazon.com/dp/B071HBBQLB/?tag=redken08-20) a 49.99 EUR (original: 79 EUR) (36.72 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31o7txs3mwL._SL200_.jpg)](https://www.amazon.com/dp/B071HBBQLB/?tag=redken08-20)
 

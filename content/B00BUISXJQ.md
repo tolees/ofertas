@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nioxin Sistema 6 Acondicionador - 300 ml'
+title: 'Nioxin Sistema 6 Acondicionador - 300 ml al 51.71 % de descuento'
 date: 2020-01-23 08:17:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.78 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nioxin Sistema 6 Acondicionador - 300 ml.](https://www.amazon.com/dp/B00BUISXJQ/?tag=redken08-20) a 11 EUR (original: 22.78 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nioxin Sistema 6 Acondicionador - 300 ml.](https://www.amazon.com/dp/B00BUISXJQ/?tag=redken08-20) a 11 EUR (original: 22.78 EUR) (51.71 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL200_.jpg)](https://www.amazon.com/dp/B00BUISXJQ/?tag=redken08-20)
 

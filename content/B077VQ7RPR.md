@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 501 Levi s Original Fit Vaqueros '
+title: 'Levi s 501 Levi s Original Fit Vaqueros  al 50.05 % de descuento'
 date: 2019/11/10 00:36:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413VcT16ApL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413VcT16ApL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s 501 Levi s Original Fit Vaqueros  Rocky Road Cool  28W / 32L para Hombre](https://www.amazon.com/dp/B077VQ7RPR/?tag=redken08-20) a 54.95 EUR (original: 110 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s 501 Levi s Original Fit Vaqueros  Rocky Road Cool  28W / 32L para Hombre](https://www.amazon.com/dp/B077VQ7RPR/?tag=redken08-20) a 54.95 EUR (original: 110 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413VcT16ApL._SL200_.jpg)](https://www.amazon.com/dp/B077VQ7RPR/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack: Dragon Ball Xenoverse + Dragon Bal'
+title: 'Pack: Dragon Ball Xenoverse + Dragon Bal al 33.68 % de descuento'
 date: 2019/10/28 20:20:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cRw2NDiDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cRw2NDiDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pack: Dragon Ball Xenoverse + Dragon Ball Xenoverse 2](https://www.amazon.com/dp/B07HG7HBTY/?tag=redken08-20) a 26.52 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pack: Dragon Ball Xenoverse + Dragon Ball Xenoverse 2](https://www.amazon.com/dp/B07HG7HBTY/?tag=redken08-20) a 26.52 EUR (original: 39.99 EUR) (33.68 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51cRw2NDiDL._SL200_.jpg)](https://www.amazon.com/dp/B07HG7HBTY/?tag=redken08-20)
 

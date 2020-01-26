@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Heritage 6 Inch Premium  Men '
+title: 'Descuento del 50.53 % en Timberland Heritage 6 Inch Premium  Men '
 date: 2019/11/18 13:53:06 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 190 GBP
 inStock: true
 ---
 
-Tienes [Timberland Heritage 6 Inch Premium  Men s Ankle Boots Lace-up Boots  Brown  Medium Brown Nubuck   9 UK   EU ](https://www.amazon.com/dp/B000VMRCOO/?tag=redken08-20) a precio de oferta de 93.99 GBP (original: 190 GBP) en el siguiente enlace!
+Tienes [Timberland Heritage 6 Inch Premium  Men s Ankle Boots Lace-up Boots  Brown  Medium Brown Nubuck   9 UK   EU ](https://www.amazon.com/dp/B000VMRCOO/?tag=redken08-20) con un 50.53 % de descuento con precio de oferta de 93.99 GBP (original: 190 GBP) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B000VMRCOO/?tag=redken08-20)
 

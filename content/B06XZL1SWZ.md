@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Horizon: Zero Dawn - Steelbook  exkl. be'
+title: 'Horizon: Zero Dawn - Steelbook  exkl. be al 50.64 % de descuento'
 date: 2019/12/02 07:41:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OA1ZDbQXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OA1ZDbQXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.67 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Horizon: Zero Dawn - Steelbook  exkl. bei Amazon.de  - [enthält kein Game] [Importación alemana]](https://www.amazon.com/dp/B06XZL1SWZ/?tag=redken08-20) a 9.71 EUR (original: 19.67 EUR) en el siguiente enlace!
+Ahora mismo tienes [Horizon: Zero Dawn - Steelbook  exkl. bei Amazon.de  - [enthält kein Game] [Importación alemana]](https://www.amazon.com/dp/B06XZL1SWZ/?tag=redken08-20) a 9.71 EUR (original: 19.67 EUR) (50.64 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51OA1ZDbQXL._SL200_.jpg)](https://www.amazon.com/dp/B06XZL1SWZ/?tag=redken08-20)
 

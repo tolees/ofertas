@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett London MR CLASC Jogger Pantalone'
+title: 'Hackett London MR CLASC Jogger Pantalone al 30.67 % de descuento'
 date: 2019/10/14 07:51:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DoL%2B6D3rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DoL%2B6D3rL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 57.62 EUR
 inStock: true
 ---
 
-Está [Hackett London MR CLASC Jogger Pantalones   Navy/Blue 5di   L para Hombre](https://www.amazon.com/dp/B079SPTYGY/?tag=redken08-20) por 39.95 EUR (original: 57.62 EUR) en el siguiente enlace!
+Está [Hackett London MR CLASC Jogger Pantalones   Navy/Blue 5di   L para Hombre](https://www.amazon.com/dp/B079SPTYGY/?tag=redken08-20) con 30.67 de descuento por 39.95 EUR (original: 57.62 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31DoL%2B6D3rL._SL200_.jpg)](https://www.amazon.com/dp/B079SPTYGY/?tag=redken08-20)
 

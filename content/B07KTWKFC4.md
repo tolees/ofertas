@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 70684 NINJAGO Spinjitzu Slam-Kai VS'
+title: 'LEGO 70684 NINJAGO Spinjitzu Slam-Kai VS al 25.01 % de descuento'
 date: 2019/12/19 09:29:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517HS5S-akL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517HS5S-akL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 70684 NINJAGO Spinjitzu Slam-Kai VS Samurai Ninja Toy with 2 Tornado Spinner Launchers  Masters of Spinjitzu Playset](https://www.amazon.com/dp/B07KTWKFC4/?tag=redken08-20) a 13.49 GBP (original: 17.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 70684 NINJAGO Spinjitzu Slam-Kai VS Samurai Ninja Toy with 2 Tornado Spinner Launchers  Masters of Spinjitzu Playset](https://www.amazon.com/dp/B07KTWKFC4/?tag=redken08-20) a 13.49 GBP (original: 17.99 GBP) (25.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517HS5S-akL._SL200_.jpg)](https://www.amazon.com/dp/B07KTWKFC4/?tag=redken08-20)
 

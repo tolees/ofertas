@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Juniors  - Persecución por los teja'
+title: 'LEGO Juniors  - Persecución por los teja al 30.01 % de descuento'
 date: 2019/12/18 22:57:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rnn9KxkfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rnn9KxkfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Está [LEGO Juniors  - Persecución por los tejados de Elastigirl  10759 ](https://www.amazon.com/dp/B0765CFDRF/?tag=redken08-20) por 18.89 EUR (original: 26.99 EUR) en el siguiente enlace!
+Está [LEGO Juniors  - Persecución por los tejados de Elastigirl  10759 ](https://www.amazon.com/dp/B0765CFDRF/?tag=redken08-20) con 30.01 de descuento por 18.89 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rnn9KxkfL._SL200_.jpg)](https://www.amazon.com/dp/B0765CFDRF/?tag=redken08-20)
 

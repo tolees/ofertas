@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL Country - Los cofres - Cofre E'
+title: 'PLAYMOBIL Country - Los cofres - Cofre E al 33.41 % de descuento'
 date: 2019/12/17 00:00:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HYsYVJEEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HYsYVJEEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.87 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PLAYMOBIL Country - Los cofres - Cofre Establo de Caballos - 5418](https://www.amazon.com/dp/B00JBBG4BI/?tag=redken08-20) a 39.87 EUR (original: 59.87 EUR) en el siguiente enlace!
+Ahora mismo tienes [PLAYMOBIL Country - Los cofres - Cofre Establo de Caballos - 5418](https://www.amazon.com/dp/B00JBBG4BI/?tag=redken08-20) a 39.87 EUR (original: 59.87 EUR) (33.41 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51HYsYVJEEL._SL200_.jpg)](https://www.amazon.com/dp/B00JBBG4BI/?tag=redken08-20)
 

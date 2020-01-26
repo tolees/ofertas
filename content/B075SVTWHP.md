@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41335 Friends Heartlake Mia s Tree '
+title: 'LEGO 41335 Friends Heartlake Mia s Tree  al 25.01 % de descuento'
 date: 2019/12/30 17:27:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t7GK4hjuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t7GK4hjuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Está [LEGO 41335 Friends Heartlake Mia s Tree House Playset  Mia and Daniel Mini Dolls  Build and Play Fun Toys for Kids](https://www.amazon.com/dp/B075SVTWHP/?tag=redken08-20) por 18.74 GBP (original: 24.99 GBP) en el siguiente enlace!
+Está [LEGO 41335 Friends Heartlake Mia s Tree House Playset  Mia and Daniel Mini Dolls  Build and Play Fun Toys for Kids](https://www.amazon.com/dp/B075SVTWHP/?tag=redken08-20) con 25.01 de descuento por 18.74 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51t7GK4hjuL._SL200_.jpg)](https://www.amazon.com/dp/B075SVTWHP/?tag=redken08-20)
 

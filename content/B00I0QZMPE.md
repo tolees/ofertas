@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AVerMedia Live Gamer Portable Lite  capt'
+title: 'Descuento del 29.30 % en AVerMedia Live Gamer Portable Lite  capt'
 date: 2020-01-13 20:58:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oJ1wUzxUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oJ1wUzxUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Tienes [AVerMedia Live Gamer Portable Lite  capturadora  YouTube y Twitch  HD 1080p  latencia ultra baja  USB  streaming de juegos de juegos y captura de juegos para PS4  Nintendo Switch  GL310 ](https://www.amazon.com/dp/B00I0QZMPE/?tag=redken08-20) a precio de oferta de 69.99 EUR (original: 99 EUR) en el siguiente enlace!
+Tienes [AVerMedia Live Gamer Portable Lite  capturadora  YouTube y Twitch  HD 1080p  latencia ultra baja  USB  streaming de juegos de juegos y captura de juegos para PS4  Nintendo Switch  GL310 ](https://www.amazon.com/dp/B00I0QZMPE/?tag=redken08-20) con un 29.30 % de descuento con precio de oferta de 69.99 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41oJ1wUzxUL._SL200_.jpg)](https://www.amazon.com/dp/B00I0QZMPE/?tag=redken08-20)
 

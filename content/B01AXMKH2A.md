@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips OneBlade Pro QP6520/30 - Recorta'
+title: 'Philips OneBlade Pro QP6520/30 - Recorta al 25.00 % de descuento'
 date: 2020-01-14 12:46:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T89g1yNzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T89g1yNzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [Philips OneBlade Pro QP6520/30 - Recortador de barba con peine de precisión de 14 longitudes y base de carga  recorta  perfila y afeita  recargable](https://www.amazon.com/dp/B01AXMKH2A/?tag=redken08-20) por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!
+Está [Philips OneBlade Pro QP6520/30 - Recortador de barba con peine de precisión de 14 longitudes y base de carga  recorta  perfila y afeita  recargable](https://www.amazon.com/dp/B01AXMKH2A/?tag=redken08-20) con 25.00 de descuento por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41T89g1yNzL._SL200_.jpg)](https://www.amazon.com/dp/B01AXMKH2A/?tag=redken08-20)
 

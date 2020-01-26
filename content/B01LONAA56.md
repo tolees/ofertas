@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch TDS6030 EasyComfort Serie 6 - Cent'
+title: 'Descuento del 34.32 % en Bosch TDS6030 EasyComfort Serie 6 - Cent'
 date: 2019/11/27 19:06:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QQPv9OvNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QQPv9OvNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169 EUR
 inStock: true
 ---
 
-Tienes [Bosch TDS6030 EasyComfort Serie 6 - Centro de planchado  2.400 W  5.7 bares  con 370 g de supervapor  función iTemp  color blanco y violeta](https://www.amazon.com/dp/B01LONAA56/?tag=redken08-20) a precio de oferta de 111 EUR (original: 169 EUR) en el siguiente enlace!
+Tienes [Bosch TDS6030 EasyComfort Serie 6 - Centro de planchado  2.400 W  5.7 bares  con 370 g de supervapor  función iTemp  color blanco y violeta](https://www.amazon.com/dp/B01LONAA56/?tag=redken08-20) con un 34.32 % de descuento con precio de oferta de 111 EUR (original: 169 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QQPv9OvNL._SL200_.jpg)](https://www.amazon.com/dp/B01LONAA56/?tag=redken08-20)
 

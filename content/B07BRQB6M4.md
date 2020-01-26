@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Kanmei 2  Zapatillas de Running pa'
+title: 'Asics Kanmei 2  Zapatillas de Running pa al 53.35 % de descuento'
 date: 2020-01-25 15:19:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NlkLTfzmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NlkLTfzmL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60.0 EUR
 inStock: true
 ---
 
-Está [Asics Kanmei 2  Zapatillas de Running para Mujer  Negro  Black/Black 001   38 EU](https://www.amazon.com/dp/B07BRQB6M4/?tag=redken08-20) por 27.99 EUR (original: 60.0 EUR) en el siguiente enlace!
+Está [Asics Kanmei 2  Zapatillas de Running para Mujer  Negro  Black/Black 001   38 EU](https://www.amazon.com/dp/B07BRQB6M4/?tag=redken08-20) con 53.35 de descuento por 27.99 EUR (original: 60.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41NlkLTfzmL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07BRQB6M4/?tag=redken08-20)
 

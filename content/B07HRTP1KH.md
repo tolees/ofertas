@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo TAB P10 - Tablet de 10" FullHD  P'
+title: 'Lenovo TAB P10 - Tablet de 10" FullHD  P al 40.59 % de descuento'
 date: 2019/10/12 18:23:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BFqVv1R0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BFqVv1R0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 299 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lenovo TAB P10 - Tablet de 10" FullHD  Procesador Qualcomm Snapdragon 450  RAM de 3GB  memoria interna de 32GB  Android 8.1  Bluetooth 4.0 + Wifi  color negro](https://www.amazon.com/dp/B07HRTP1KH/?tag=redken08-20) a 177.65 EUR (original: 299 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lenovo TAB P10 - Tablet de 10" FullHD  Procesador Qualcomm Snapdragon 450  RAM de 3GB  memoria interna de 32GB  Android 8.1  Bluetooth 4.0 + Wifi  color negro](https://www.amazon.com/dp/B07HRTP1KH/?tag=redken08-20) a 177.65 EUR (original: 299 EUR) (40.59 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BFqVv1R0L._SL200_.jpg)](https://www.amazon.com/dp/B07HRTP1KH/?tag=redken08-20)
 

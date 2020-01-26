@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Favorite Legging WM Ar Legg'
+title: 'Under Armour Favorite Legging WM Ar Legg al 52.89 % de descuento'
 date: 2019/12/16 15:50:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Bfu2nVVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Bfu2nVVsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Favorite Legging WM Ar Leggings  Mujer  Negro  Black/Onyx White 001   XS](https://www.amazon.com/dp/B07CZRJT12/?tag=redken08-20) a 16.49 EUR (original: 35 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Favorite Legging WM Ar Leggings  Mujer  Negro  Black/Onyx White 001   XS](https://www.amazon.com/dp/B07CZRJT12/?tag=redken08-20) a 16.49 EUR (original: 35 EUR) (52.89 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Bfu2nVVsL._SL200_.jpg)](https://www.amazon.com/dp/B07CZRJT12/?tag=redken08-20)
 

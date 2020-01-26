@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Greencut 8435574309204 Taladro Columna 6'
+title: 'Greencut 8435574309204 Taladro Columna 6 al 28.57 % de descuento'
 date: 2019/11/04 13:33:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414BUyHB1tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414BUyHB1tL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139.99 EUR
 inStock: true
 ---
 
-Está [Greencut 8435574309204 Taladro Columna 600W Potencia 5 velocidades 50mm perforación  ROJO](https://www.amazon.com/dp/B07XHCL4N8/?tag=redken08-20) por 99.99 EUR (original: 139.99 EUR) en el siguiente enlace!
+Está [Greencut 8435574309204 Taladro Columna 600W Potencia 5 velocidades 50mm perforación  ROJO](https://www.amazon.com/dp/B07XHCL4N8/?tag=redken08-20) con 28.57 de descuento por 99.99 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414BUyHB1tL._SL200_.jpg)](https://www.amazon.com/dp/B07XHCL4N8/?tag=redken08-20)
 

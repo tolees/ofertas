@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Sun Ridge Polo  Hombre  Azul  B'
+title: 'Columbia Sun Ridge Polo  Hombre  Azul  B al 76.56 % de descuento'
 date: 2019/11/14 14:06:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315Dw1QRMfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315Dw1QRMfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Columbia Sun Ridge Polo  Hombre  Azul  Blue Sky   S](https://www.amazon.com/dp/B07KRSFLXS/?tag=redken08-20) por 11.72 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Columbia Sun Ridge Polo  Hombre  Azul  Blue Sky   S](https://www.amazon.com/dp/B07KRSFLXS/?tag=redken08-20) con 76.56 de descuento por 11.72 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/315Dw1QRMfL._SL200_.jpg)](https://www.amazon.com/dp/B07KRSFLXS/?tag=redken08-20)
 

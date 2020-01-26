@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DUPLO 10903 - Feuerwehrwache'
+title: 'LEGO DUPLO 10903 - Feuerwehrwache al 30.01 % de descuento'
 date: 2019/12/10 19:53:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Jlfr5s-7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Jlfr5s-7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [LEGO DUPLO 10903 - Feuerwehrwache](https://www.amazon.com/dp/B07FNMTS87/?tag=redken08-20) por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [LEGO DUPLO 10903 - Feuerwehrwache](https://www.amazon.com/dp/B07FNMTS87/?tag=redken08-20) con 30.01 de descuento por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Jlfr5s-7L._SL200_.jpg)](https://www.amazon.com/dp/B07FNMTS87/?tag=redken08-20)
 

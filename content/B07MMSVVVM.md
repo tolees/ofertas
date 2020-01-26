@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NieR Automata - Game Of The YoRHa Edició'
+title: 'NieR Automata - Game Of The YoRHa Edició al 30.23 % de descuento'
 date: 2020-01-17 12:11:31
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [NieR Automata - Game Of The YoRHa Edición](https://www.amazon.com/dp/B07MMSVVVM/?tag=redken08-20) por 27.9 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [NieR Automata - Game Of The YoRHa Edición](https://www.amazon.com/dp/B07MMSVVVM/?tag=redken08-20) con 30.23 de descuento por 27.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07MMSVVVM/?tag=redken08-20)
 

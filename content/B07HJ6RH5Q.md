@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko - POP Vinyl Animación Morty: Profe'
+title: 'Funko - POP Vinyl Animación Morty: Profe al 46.39 % de descuento'
 date: 2019/12/16 18:16:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bwD7l%2BjtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bwD7l%2BjtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko - POP Vinyl Animación Morty: Profesor Rick  35590 ](https://www.amazon.com/dp/B07HJ6RH5Q/?tag=redken08-20) a 8.55 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko - POP Vinyl Animación Morty: Profesor Rick  35590 ](https://www.amazon.com/dp/B07HJ6RH5Q/?tag=redken08-20) a 8.55 EUR (original: 15.95 EUR) (46.39 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bwD7l%2BjtL._SL200_.jpg)](https://www.amazon.com/dp/B07HJ6RH5Q/?tag=redken08-20)
 

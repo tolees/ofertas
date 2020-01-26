@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W Ardmore Parka  Mujer  Bla'
+title: 'Helly Hansen W Ardmore Parka  Mujer  Bla al 51.07 % de descuento'
 date: 2019/10/09 14:00:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gVhdmcibL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gVhdmcibL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 200 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen W Ardmore Parka  Mujer  Black  S](https://www.amazon.com/dp/B06XGYNF7Q/?tag=redken08-20) a 97.87 EUR (original: 200 EUR) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen W Ardmore Parka  Mujer  Black  S](https://www.amazon.com/dp/B06XGYNF7Q/?tag=redken08-20) a 97.87 EUR (original: 200 EUR) (51.07 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gVhdmcibL._SL200_.jpg)](https://www.amazon.com/dp/B06XGYNF7Q/?tag=redken08-20)
 

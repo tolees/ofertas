@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Run Tall Graphic Camisa Man'
+title: 'Under Armour Run Tall Graphic Camisa Man al 53.14 % de descuento'
 date: 2019/10/29 16:09:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TYry-dRIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TYry-dRIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Está [Under Armour Run Tall Graphic Camisa Manga Corta  Hombre  Grove/Artillery Green/Reflective  XL](https://www.amazon.com/dp/B07F1R5YTJ/?tag=redken08-20) por 16.4 EUR (original: 35 EUR) en el siguiente enlace!
+Está [Under Armour Run Tall Graphic Camisa Manga Corta  Hombre  Grove/Artillery Green/Reflective  XL](https://www.amazon.com/dp/B07F1R5YTJ/?tag=redken08-20) con 53.14 de descuento por 16.4 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31TYry-dRIL._SL200_.jpg)](https://www.amazon.com/dp/B07F1R5YTJ/?tag=redken08-20)
 

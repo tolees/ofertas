@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ducomi® Master Classic - Gafas de Sol co'
+title: 'Ducomi® Master Classic - Gafas de Sol co al 56.82 % de descuento'
 date: 2020-01-21 21:36:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419ayJ9rDpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419ayJ9rDpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ducomi® Master Classic - Gafas de Sol con Madera de Caña de Bambú - Protección UV400  Negro  Azul ](https://www.amazon.com/dp/B01NA9JXAK/?tag=redken08-20) a 12.95 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Ducomi® Master Classic - Gafas de Sol con Madera de Caña de Bambú - Protección UV400  Negro  Azul ](https://www.amazon.com/dp/B01NA9JXAK/?tag=redken08-20) a 12.95 EUR (original: 29.99 EUR) (56.82 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419ayJ9rDpL._SL200_.jpg)](https://www.amazon.com/dp/B01NA9JXAK/?tag=redken08-20)
 

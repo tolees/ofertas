@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Gardiner Camisa Casual  Rojo  '
+title: 'Napapijri Gardiner Camisa Casual  Rojo   al 50.00 % de descuento'
 date: 2020-01-04 11:26:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JEufOxcOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JEufOxcOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Napapijri Gardiner Camisa Casual  Rojo  Red Check 01C   L para Hombre](https://www.amazon.com/dp/B07MMLNZFK/?tag=redken08-20) a 44.5 EUR (original: 89 EUR) en el siguiente enlace!
+Ahora mismo tienes [Napapijri Gardiner Camisa Casual  Rojo  Red Check 01C   L para Hombre](https://www.amazon.com/dp/B07MMLNZFK/?tag=redken08-20) a 44.5 EUR (original: 89 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JEufOxcOL._SL200_.jpg)](https://www.amazon.com/dp/B07MMLNZFK/?tag=redken08-20)
 

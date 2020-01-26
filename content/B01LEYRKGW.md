@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ID Italian Design | Cepillo Alisador Ste'
+title: 'ID Italian Design | Cepillo Alisador Ste al 49.49 % de descuento'
 date: 2020-01-22 09:26:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uSVijlo3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uSVijlo3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Está [ID Italian Design | Cepillo Alisador Steam Brush Pro 2.0 de Color Blanco - 80W](https://www.amazon.com/dp/B01LEYRKGW/?tag=redken08-20) por 39.9 EUR (original: 79 EUR) en el siguiente enlace!
+Está [ID Italian Design | Cepillo Alisador Steam Brush Pro 2.0 de Color Blanco - 80W](https://www.amazon.com/dp/B01LEYRKGW/?tag=redken08-20) con 49.49 de descuento por 39.9 EUR (original: 79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uSVijlo3L._SL200_.jpg)](https://www.amazon.com/dp/B01LEYRKGW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Winsor & Newton Cotman - Set studio de a'
+title: 'Winsor & Newton Cotman - Set studio de a al 59.40 % de descuento'
 date: 2019/10/19 02:45:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xNFPaPZKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xNFPaPZKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 95.93 EUR
 inStock: true
 ---
 
-Está [Winsor & Newton Cotman - Set studio de acuarela  45 medio godets](https://www.amazon.com/dp/B000XYHYI4/?tag=redken08-20) por 38.95 EUR (original: 95.93 EUR) en el siguiente enlace!
+Está [Winsor & Newton Cotman - Set studio de acuarela  45 medio godets](https://www.amazon.com/dp/B000XYHYI4/?tag=redken08-20) con 59.40 de descuento por 38.95 EUR (original: 95.93 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xNFPaPZKL._SL200_.jpg)](https://www.amazon.com/dp/B000XYHYI4/?tag=redken08-20)
 

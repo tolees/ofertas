@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Canyon Point Mid  Zapatos Imper'
+title: 'Columbia Canyon Point Mid  Zapatos Imper al 60.10 % de descuento'
 date: 2019/11/23 07:40:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BnhOGQsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417%2BnhOGQsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [Columbia Canyon Point Mid  Zapatos Impermeables de Senderismo para Mujer  Marrón  Cordovan  Sunset Red 231   36.5 EU](https://www.amazon.com/dp/B07CW75FJM/?tag=redken08-20) por 39.9 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [Columbia Canyon Point Mid  Zapatos Impermeables de Senderismo para Mujer  Marrón  Cordovan  Sunset Red 231   36.5 EU](https://www.amazon.com/dp/B07CW75FJM/?tag=redken08-20) con 60.10 de descuento por 39.9 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417%2BnhOGQsL._SL200_.jpg)](https://www.amazon.com/dp/B07CW75FJM/?tag=redken08-20)
 

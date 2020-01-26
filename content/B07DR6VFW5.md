@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley Drifit Disperse Pantalones  Hombr'
+title: 'Hurley Drifit Disperse Pantalones  Hombr al 52.02 % de descuento'
 date: 2019/11/02 05:26:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RzbIXo2sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RzbIXo2sL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley Drifit Disperse Pantalones  Hombre  Black  L](https://www.amazon.com/dp/B07DR6VFW5/?tag=redken08-20) a 28.79 EUR (original: 60 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hurley Drifit Disperse Pantalones  Hombre  Black  L](https://www.amazon.com/dp/B07DR6VFW5/?tag=redken08-20) a 28.79 EUR (original: 60 EUR) (52.02 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RzbIXo2sL._SL200_.jpg)](https://www.amazon.com/dp/B07DR6VFW5/?tag=redken08-20)
 

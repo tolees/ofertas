@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ben Sherman LS Core Gingham Shirt Camisa'
+title: 'Ben Sherman LS Core Gingham Shirt Camisa al 39.71 % de descuento'
 date: 2019/11/19 22:43:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nSuBdENSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nSuBdENSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.89 EUR
 inStock: true
 ---
 
-Está [Ben Sherman LS Core Gingham Shirt Camisa  Azul  Dark Blue 26   X-Large para Hombre](https://www.amazon.com/dp/B073ZLK8VV/?tag=redken08-20) por 42.14 EUR (original: 69.89 EUR) en el siguiente enlace!
+Está [Ben Sherman LS Core Gingham Shirt Camisa  Azul  Dark Blue 26   X-Large para Hombre](https://www.amazon.com/dp/B073ZLK8VV/?tag=redken08-20) con 39.71 de descuento por 42.14 EUR (original: 69.89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51nSuBdENSL._SL200_.jpg)](https://www.amazon.com/dp/B073ZLK8VV/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Northbounder Turbodown Parka  H'
+title: 'Columbia Northbounder Turbodown Parka  H al 36.96 % de descuento'
 date: 2019/12/22 22:27:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QDj2kZYBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QDj2kZYBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 229.99 EUR
 inStock: true
 ---
 
-Está [Columbia Northbounder Turbodown Parka  Hombre  Verde  Olive Green Heather   L](https://www.amazon.com/dp/B07RCNQQ2L/?tag=redken08-20) por 144.99 EUR (original: 229.99 EUR) en el siguiente enlace!
+Está [Columbia Northbounder Turbodown Parka  Hombre  Verde  Olive Green Heather   L](https://www.amazon.com/dp/B07RCNQQ2L/?tag=redken08-20) con 36.96 de descuento por 144.99 EUR (original: 229.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QDj2kZYBL._SL200_.jpg)](https://www.amazon.com/dp/B07RCNQQ2L/?tag=redken08-20)
 

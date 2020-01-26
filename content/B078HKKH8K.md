@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY Tanga con Encaje de Algodón'
+title: 'IRIS & LILLY Tanga con Encaje de Algodón al 30.02 % de descuento'
 date: 2019/11/29 16:14:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IhiwRHhJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IhiwRHhJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [IRIS & LILLY Tanga con Encaje de Algodón Mujer  Pack de 2  Multicolor  Melange/white    Talla del fabricante: Small ](https://www.amazon.com/dp/B078HKKH8K/?tag=redken08-20) por 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [IRIS & LILLY Tanga con Encaje de Algodón Mujer  Pack de 2  Multicolor  Melange/white    Talla del fabricante: Small ](https://www.amazon.com/dp/B078HKKH8K/?tag=redken08-20) con 30.02 de descuento por 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IhiwRHhJL._SL200_.jpg)](https://www.amazon.com/dp/B078HKKH8K/?tag=redken08-20)
 

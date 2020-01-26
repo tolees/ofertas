@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack & Jones NOS JJESLUB Knit Crew Neck '
+title: 'Jack & Jones NOS JJESLUB Knit Crew Neck  al 49.98 % de descuento'
 date: 2019/10/29 17:47:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311AODwUEmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311AODwUEmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jack & Jones NOS JJESLUB Knit Crew Neck STS Jersey  Azul Infinity  L para Hombre](https://www.amazon.com/dp/B07MFVYT6Y/?tag=redken08-20) a 15 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jack & Jones NOS JJESLUB Knit Crew Neck STS Jersey  Azul Infinity  L para Hombre](https://www.amazon.com/dp/B07MFVYT6Y/?tag=redken08-20) a 15 EUR (original: 29.99 EUR) (49.98 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/311AODwUEmL._SL200_.jpg)](https://www.amazon.com/dp/B07MFVYT6Y/?tag=redken08-20)
 

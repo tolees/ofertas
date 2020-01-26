@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rubie s Official Disney Princess Classic'
+title: 'Descuento del 49.12 % en Rubie s Official Disney Princess Classic'
 date: 2019/12/23 16:27:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gpq9TB2sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gpq9TB2sL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.99 GBP
 inStock: true
 ---
 
-Tienes [Rubie s Official Disney Princess Classic Elsa Costume - Medium](https://www.amazon.com/dp/B00FYZ5Q3C/?tag=redken08-20) a precio de oferta de 6.1 GBP (original: 11.99 GBP) en el siguiente enlace!
+Tienes [Rubie s Official Disney Princess Classic Elsa Costume - Medium](https://www.amazon.com/dp/B00FYZ5Q3C/?tag=redken08-20) con un 49.12 % de descuento con precio de oferta de 6.1 GBP (original: 11.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Gpq9TB2sL._SL200_.jpg)](https://www.amazon.com/dp/B00FYZ5Q3C/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kingwin Damen -    Titan    Farblos blau'
+title: 'Kingwin Damen -    Titan    Farblos blau al 34.44 % de descuento'
 date: 2020-01-19 02:34:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kingwin Damen -    Titan    Farblos blau Opale ](https://www.amazon.com/dp/B06XZS7PYN/?tag=redken08-20) a 11.8 EUR (original: 18 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kingwin Damen -    Titan    Farblos blau Opale ](https://www.amazon.com/dp/B06XZS7PYN/?tag=redken08-20) a 11.8 EUR (original: 18 EUR) (34.44 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL200_.jpg)](https://www.amazon.com/dp/B06XZS7PYN/?tag=redken08-20)
 

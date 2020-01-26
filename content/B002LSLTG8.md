@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Snazaroo - Paleta de pintura facial unis'
+title: 'Snazaroo - Paleta de pintura facial unis al 36.72 % de descuento'
 date: 2019/11/28 09:55:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kYYXErxwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kYYXErxwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.06 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Snazaroo - Paleta de pintura facial unisex](https://www.amazon.com/dp/B002LSLTG8/?tag=redken08-20) a 9.53 EUR (original: 15.06 EUR) en el siguiente enlace!
+Ahora mismo tienes [Snazaroo - Paleta de pintura facial unisex](https://www.amazon.com/dp/B002LSLTG8/?tag=redken08-20) a 9.53 EUR (original: 15.06 EUR) (36.72 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51kYYXErxwL._SL200_.jpg)](https://www.amazon.com/dp/B002LSLTG8/?tag=redken08-20)
 

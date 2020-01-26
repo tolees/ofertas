@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Burberry Brit Rhythm Woman Eau De Toilet'
+title: 'Burberry Brit Rhythm Woman Eau De Toilet al 54.01 % de descuento'
 date: 2019/11/06 23:08:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41muTYbtFmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41muTYbtFmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 67 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Burberry Brit Rhythm Woman Eau De Toilette 50Ml Vapo.](https://www.amazon.com/dp/B00PVHT70G/?tag=redken08-20) a 30.81 EUR (original: 67 EUR) en el siguiente enlace!
+Ahora mismo tienes [Burberry Brit Rhythm Woman Eau De Toilette 50Ml Vapo.](https://www.amazon.com/dp/B00PVHT70G/?tag=redken08-20) a 30.81 EUR (original: 67 EUR) (54.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41muTYbtFmL._SL200_.jpg)](https://www.amazon.com/dp/B00PVHT70G/?tag=redken08-20)
 

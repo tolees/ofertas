@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agenda 2020 con Vista Semanal - Planific'
+title: 'Agenda 2020 con Vista Semanal - Planific al 43.48 % de descuento'
 date: 2019/12/22 14:45:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Agenda 2020 con Vista Semanal - Planificador 2020 Semana Vista - Diario Espiral que Inspira Productividad - Tapa Blanda  Intervalos de 30 minutos - Calendario Semanal A4 - 21 x 28cm  en Español](https://www.amazon.com/dp/B07S1GX5GL/?tag=redken08-20) por 16.95 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Agenda 2020 con Vista Semanal - Planificador 2020 Semana Vista - Diario Espiral que Inspira Productividad - Tapa Blanda  Intervalos de 30 minutos - Calendario Semanal A4 - 21 x 28cm  en Español](https://www.amazon.com/dp/B07S1GX5GL/?tag=redken08-20) con 43.48 de descuento por 16.95 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg)](https://www.amazon.com/dp/B07S1GX5GL/?tag=redken08-20)
 

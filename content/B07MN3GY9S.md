@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett High Vaqueros  Gris  Grey A'
+title: 'Descuento del 56.16 % en Lee Scarlett High Vaqueros  Gris  Grey A'
 date: 2019/11/28 11:30:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XT8E3hYRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XT8E3hYRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80.95 EUR
 inStock: true
 ---
 
-Tienes [Lee Scarlett High Vaqueros  Gris  Grey Alma Iu   26W/31L para Mujer](https://www.amazon.com/dp/B07MN3GY9S/?tag=redken08-20) a precio de oferta de 35.49 EUR (original: 80.95 EUR) en el siguiente enlace!
+Tienes [Lee Scarlett High Vaqueros  Gris  Grey Alma Iu   26W/31L para Mujer](https://www.amazon.com/dp/B07MN3GY9S/?tag=redken08-20) con un 56.16 % de descuento con precio de oferta de 35.49 EUR (original: 80.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31XT8E3hYRL._SL200_.jpg)](https://www.amazon.com/dp/B07MN3GY9S/?tag=redken08-20)
 

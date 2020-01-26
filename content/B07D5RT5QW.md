@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Tech 9In 2 Pack Ropa Interi'
+title: 'Under Armour Tech 9In 2 Pack Ropa Interi al 48.60 % de descuento'
 date: 2019/12/16 18:56:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ok5heacjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ok5heacjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Tech 9In 2 Pack Ropa Interior  Hombre  Gris  Mod Gray Light Heather/Jet Gray Light Heather 011   M](https://www.amazon.com/dp/B07D5RT5QW/?tag=redken08-20) a 17.99 EUR (original: 35 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Tech 9In 2 Pack Ropa Interior  Hombre  Gris  Mod Gray Light Heather/Jet Gray Light Heather 011   M](https://www.amazon.com/dp/B07D5RT5QW/?tag=redken08-20) a 17.99 EUR (original: 35 EUR) (48.60 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ok5heacjL._SL200_.jpg)](https://www.amazon.com/dp/B07D5RT5QW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris - Age Perfect  crema hidra'
+title: 'L Oreal Paris - Age Perfect  crema hidra al 36.87 % de descuento'
 date: 2019/12/01 09:01:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ms1g0p6mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ms1g0p6mL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.9 EUR
 inStock: true
 ---
 
-Está [L Oreal Paris - Age Perfect  crema hidratante de día  pieles maduras  50 ml](https://www.amazon.com/dp/B00G7NSML8/?tag=redken08-20) por 6.25 EUR (original: 9.9 EUR) en el siguiente enlace!
+Está [L Oreal Paris - Age Perfect  crema hidratante de día  pieles maduras  50 ml](https://www.amazon.com/dp/B00G7NSML8/?tag=redken08-20) con 36.87 de descuento por 6.25 EUR (original: 9.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ms1g0p6mL._SL200_.jpg)](https://www.amazon.com/dp/B00G7NSML8/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sage BES810BSS the Duo Temp Pro Espresso'
+title: 'Sage BES810BSS the Duo Temp Pro Espresso al 47.62 % de descuento'
 date: 2019/11/29 23:42:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410vn4oWGzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410vn4oWGzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 379.95 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sage BES810BSS the Duo Temp Pro Espresso Machine - Silver](https://www.amazon.com/dp/B00NPYDJ6U/?tag=redken08-20) a 199 GBP (original: 379.95 GBP) en el siguiente enlace!
+Ahora mismo tienes [Sage BES810BSS the Duo Temp Pro Espresso Machine - Silver](https://www.amazon.com/dp/B00NPYDJ6U/?tag=redken08-20) a 199 GBP (original: 379.95 GBP) (47.62 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410vn4oWGzL._SL200_.jpg)](https://www.amazon.com/dp/B00NPYDJ6U/?tag=redken08-20)
 

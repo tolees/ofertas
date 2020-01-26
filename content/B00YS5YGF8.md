@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wella Illumina Tinte 8/69-60 ml'
+title: 'Wella Illumina Tinte 8/69-60 ml al 37.59 % de descuento'
 date: 2019/11/09 14:48:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hA0Dy9YyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hA0Dy9YyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.66 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Wella Illumina Tinte 8/69-60 ml](https://www.amazon.com/dp/B00YS5YGF8/?tag=redken08-20) a 12.27 EUR (original: 19.66 EUR) en el siguiente enlace!
+Ahora mismo tienes [Wella Illumina Tinte 8/69-60 ml](https://www.amazon.com/dp/B00YS5YGF8/?tag=redken08-20) a 12.27 EUR (original: 19.66 EUR) (37.59 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31hA0Dy9YyL._SL200_.jpg)](https://www.amazon.com/dp/B00YS5YGF8/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D-Link DXS-1100-10TS - Switch 10GbE Gest'
+title: 'Descuento del 48.81 % en D-Link DXS-1100-10TS - Switch 10GbE Gest'
 date: 2019/10/19 00:42:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zd-RilqAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zd-RilqAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1064.9 EUR
 inStock: true
 ---
 
-Tienes [D-Link DXS-1100-10TS - Switch 10GbE Gestionable Layer 2  8 Puertos 10 GBase-T y 2 Puertos SFP+  1U  Control Ancho de Banda  VLAN  Control de tormentas de tráfico  IGMP  detección de bucles ](https://www.amazon.com/dp/B00PVDH0LS/?tag=redken08-20) a precio de oferta de 545.13 EUR (original: 1064.9 EUR) en el siguiente enlace!
+Tienes [D-Link DXS-1100-10TS - Switch 10GbE Gestionable Layer 2  8 Puertos 10 GBase-T y 2 Puertos SFP+  1U  Control Ancho de Banda  VLAN  Control de tormentas de tráfico  IGMP  detección de bucles ](https://www.amazon.com/dp/B00PVDH0LS/?tag=redken08-20) con un 48.81 % de descuento con precio de oferta de 545.13 EUR (original: 1064.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zd-RilqAL._SL200_.jpg)](https://www.amazon.com/dp/B00PVDH0LS/?tag=redken08-20)
 

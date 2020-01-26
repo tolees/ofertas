@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Assassin s Creed Odyssey - Ultimate Edit'
+title: 'Descuento del 60.00 % en Assassin s Creed Odyssey - Ultimate Edit'
 date: 2019/12/14 17:53:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412rh-fNVGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412rh-fNVGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 114.99 EUR
 inStock: true
 ---
 
-Tienes [Assassin s Creed Odyssey - Ultimate Edition | Código Uplay para PC](https://www.amazon.com/dp/B07JKRJDFX/?tag=redken08-20) a precio de oferta de 46 EUR (original: 114.99 EUR) en el siguiente enlace!
+Tienes [Assassin s Creed Odyssey - Ultimate Edition | Código Uplay para PC](https://www.amazon.com/dp/B07JKRJDFX/?tag=redken08-20) con un 60.00 % de descuento con precio de oferta de 46 EUR (original: 114.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412rh-fNVGL._SL200_.jpg)](https://www.amazon.com/dp/B07JKRJDFX/?tag=redken08-20)
 

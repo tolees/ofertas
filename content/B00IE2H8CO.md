@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Devir - Through The Ages: Historia de La'
+title: 'Descuento del 50.02 % en Devir - Through The Ages: Historia de La'
 date: 2019/10/12 20:05:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OEP1VgTGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OEP1VgTGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Tienes [Devir - Through The Ages: Historia de Las Civilizaciones  25357 ](https://www.amazon.com/dp/B00IE2H8CO/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 60 EUR) en el siguiente enlace!
+Tienes [Devir - Through The Ages: Historia de Las Civilizaciones  25357 ](https://www.amazon.com/dp/B00IE2H8CO/?tag=redken08-20) con un 50.02 % de descuento con precio de oferta de 29.99 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51OEP1VgTGL._SL200_.jpg)](https://www.amazon.com/dp/B00IE2H8CO/?tag=redken08-20)
 

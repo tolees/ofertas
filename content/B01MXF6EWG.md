@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil - Knight s Catapult Carry Case'
+title: 'Descuento del 56.33 % en Playmobil - Knight s Catapult Carry Case'
 date: 2019/12/03 13:22:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51moJIxtrDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51moJIxtrDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.74 GBP
 inStock: true
 ---
 
-Tienes [Playmobil - Knight s Catapult Carry Case](https://www.amazon.com/dp/B01MXF6EWG/?tag=redken08-20) a precio de oferta de 3.38 GBP (original: 7.74 GBP) en el siguiente enlace!
+Tienes [Playmobil - Knight s Catapult Carry Case](https://www.amazon.com/dp/B01MXF6EWG/?tag=redken08-20) con un 56.33 % de descuento con precio de oferta de 3.38 GBP (original: 7.74 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51moJIxtrDL._SL200_.jpg)](https://www.amazon.com/dp/B01MXF6EWG/?tag=redken08-20)
 

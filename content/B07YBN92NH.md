@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ghost Parade'
+title: 'Ghost Parade al 27.68 % de descuento'
 date: 2020-01-11 09:07:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UlmT1kFEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UlmT1kFEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ghost Parade](https://www.amazon.com/dp/B07YBN92NH/?tag=redken08-20) a 28.92 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Ghost Parade](https://www.amazon.com/dp/B07YBN92NH/?tag=redken08-20) a 28.92 EUR (original: 39.99 EUR) (27.68 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51UlmT1kFEL._SL200_.jpg)](https://www.amazon.com/dp/B07YBN92NH/?tag=redken08-20)
 

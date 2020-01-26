@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Lyte Runner  Zapatillas para H'
+title: 'Asics Gel-Lyte Runner  Zapatillas para H al 61.92 % de descuento'
 date: 2019/11/07 07:42:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yh1XeRqsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yh1XeRqsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Está [Asics Gel-Lyte Runner  Zapatillas para Hombre  Rosa Pale Mauve 1717  44.5 EU](https://www.amazon.com/dp/B078NKGT1P/?tag=redken08-20) por 32.37 EUR (original: 85 EUR) en el siguiente enlace!
+Está [Asics Gel-Lyte Runner  Zapatillas para Hombre  Rosa Pale Mauve 1717  44.5 EU](https://www.amazon.com/dp/B078NKGT1P/?tag=redken08-20) con 61.92 de descuento por 32.37 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Yh1XeRqsL._SL200_.jpg)](https://www.amazon.com/dp/B078NKGT1P/?tag=redken08-20)
 

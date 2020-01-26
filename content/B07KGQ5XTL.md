@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo PHAB 2 - Tablet de 7" HD  Procesa'
+title: 'Lenovo PHAB 2 - Tablet de 7" HD  Procesa al 39.70 % de descuento'
 date: 2019/11/07 18:30:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/219VR9AC8lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/219VR9AC8lL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199 EUR
 inStock: true
 ---
 
-Está [Lenovo PHAB 2 - Tablet de 7" HD  Procesador MediaTek 8735  RAM de 3GB  Memoria Interna de 32GB  Android  Bluetooth 4.0 + WiFi  Color Gris](https://www.amazon.com/dp/B07KGQ5XTL/?tag=redken08-20) por 119.99 EUR (original: 199 EUR) en el siguiente enlace!
+Está [Lenovo PHAB 2 - Tablet de 7" HD  Procesador MediaTek 8735  RAM de 3GB  Memoria Interna de 32GB  Android  Bluetooth 4.0 + WiFi  Color Gris](https://www.amazon.com/dp/B07KGQ5XTL/?tag=redken08-20) con 39.70 de descuento por 119.99 EUR (original: 199 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/219VR9AC8lL._SL200_.jpg)](https://www.amazon.com/dp/B07KGQ5XTL/?tag=redken08-20)
 

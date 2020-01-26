@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ben Hur. Edición 50 Aniversario  Blu-Ray'
+title: 'Ben Hur. Edición 50 Aniversario  Blu-Ray al 50.05 % de descuento'
 date: 2019/11/26 19:23:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dx-d8LRKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dx-d8LRKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [Ben Hur. Edición 50 Aniversario  Blu-Ray- Iconic [Blu-ray]](https://www.amazon.com/dp/B07HN88WML/?tag=redken08-20) por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [Ben Hur. Edición 50 Aniversario  Blu-Ray- Iconic [Blu-ray]](https://www.amazon.com/dp/B07HN88WML/?tag=redken08-20) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Dx-d8LRKL._SL200_.jpg)](https://www.amazon.com/dp/B07HN88WML/?tag=redken08-20)
 

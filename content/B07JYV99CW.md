@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Christa C-nk tee SS Camis'
+title: 'Tommy Hilfiger Christa C-nk tee SS Camis al 44.99 % de descuento'
 date: 2019/12/25 14:03:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410lUx2bGPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410lUx2bGPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tommy Hilfiger Christa C-nk tee SS Camiseta  Gris  Light Grey Htr 039   Medium para Mujer](https://www.amazon.com/dp/B07JYV99CW/?tag=redken08-20) a 21.95 EUR (original: 39.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tommy Hilfiger Christa C-nk tee SS Camiseta  Gris  Light Grey Htr 039   Medium para Mujer](https://www.amazon.com/dp/B07JYV99CW/?tag=redken08-20) a 21.95 EUR (original: 39.9 EUR) (44.99 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410lUx2bGPL._SL200_.jpg)](https://www.amazon.com/dp/B07JYV99CW/?tag=redken08-20)
 

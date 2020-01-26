@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pop! Smallfoot - Figura de Vinilo Migo'
+title: 'Pop! Smallfoot - Figura de Vinilo Migo al 56.43 % de descuento'
 date: 2019/10/22 12:05:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rX6brhahL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rX6brhahL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pop! Smallfoot - Figura de Vinilo Migo](https://www.amazon.com/dp/B07DFJJ58J/?tag=redken08-20) a 6.95 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pop! Smallfoot - Figura de Vinilo Migo](https://www.amazon.com/dp/B07DFJJ58J/?tag=redken08-20) a 6.95 EUR (original: 15.95 EUR) (56.43 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rX6brhahL._SL200_.jpg)](https://www.amazon.com/dp/B07DFJJ58J/?tag=redken08-20)
 

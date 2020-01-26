@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brabantia Bo Touch Bin Cubo de Basura  N'
+title: 'Brabantia Bo Touch Bin Cubo de Basura  N al 30.00 % de descuento'
 date: 2019/10/27 14:06:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aZh5ABuYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aZh5ABuYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brabantia Bo Touch Bin Cubo de Basura  Negro Mate  3 x 11 litros](https://www.amazon.com/dp/B073ZHCZFW/?tag=redken08-20) a 111.3 EUR (original: 159 EUR) en el siguiente enlace!
+Ahora mismo tienes [Brabantia Bo Touch Bin Cubo de Basura  Negro Mate  3 x 11 litros](https://www.amazon.com/dp/B073ZHCZFW/?tag=redken08-20) a 111.3 EUR (original: 159 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31aZh5ABuYL._SL200_.jpg)](https://www.amazon.com/dp/B073ZHCZFW/?tag=redken08-20)
 

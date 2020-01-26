@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Microsoft - Wired Keyboard 600  Negro  Q'
+title: 'Microsoft - Wired Keyboard 600  Negro  Q al 28.10 % de descuento'
 date: 2019/11/07 21:11:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wUlFnt%2BXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wUlFnt%2BXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.9 EUR
 inStock: true
 ---
 
-Está [Microsoft - Wired Keyboard 600  Negro  QWERTY español](https://www.amazon.com/dp/B0055ZWOSG/?tag=redken08-20) por 13.59 EUR (original: 18.9 EUR) en el siguiente enlace!
+Está [Microsoft - Wired Keyboard 600  Negro  QWERTY español](https://www.amazon.com/dp/B0055ZWOSG/?tag=redken08-20) con 28.10 de descuento por 13.59 EUR (original: 18.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wUlFnt%2BXL._SL200_.jpg)](https://www.amazon.com/dp/B0055ZWOSG/?tag=redken08-20)
 

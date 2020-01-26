@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auchentoshan 12Y Whisky Single Malt - 70'
+title: 'Auchentoshan 12Y Whisky Single Malt - 70 al 31.62 % de descuento'
 date: 2019/12/02 19:41:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414MC%2BaH0LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414MC%2BaH0LL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.63 EUR
 inStock: true
 ---
 
-Está [Auchentoshan 12Y Whisky Single Malt - 700 ml](https://www.amazon.com/dp/B0036POGEW/?tag=redken08-20) por 27.1 EUR (original: 39.63 EUR) en el siguiente enlace!
+Está [Auchentoshan 12Y Whisky Single Malt - 700 ml](https://www.amazon.com/dp/B0036POGEW/?tag=redken08-20) con 31.62 de descuento por 27.1 EUR (original: 39.63 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414MC%2BaH0LL._SL200_.jpg)](https://www.amazon.com/dp/B0036POGEW/?tag=redken08-20)
 

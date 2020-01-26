@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seiko Reloj de Pulsera SNE361P1'
+title: 'Seiko Reloj de Pulsera SNE361P1 al 50.21 % de descuento'
 date: 2019/12/27 18:27:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HxXQuDYeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HxXQuDYeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 239 EUR
 inStock: true
 ---
 
-Está [Seiko Reloj de Pulsera SNE361P1](https://www.amazon.com/dp/B00MCBF46U/?tag=redken08-20) por 119 EUR (original: 239 EUR) en el siguiente enlace!
+Está [Seiko Reloj de Pulsera SNE361P1](https://www.amazon.com/dp/B00MCBF46U/?tag=redken08-20) con 50.21 de descuento por 119 EUR (original: 239 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HxXQuDYeL._SL200_.jpg)](https://www.amazon.com/dp/B00MCBF46U/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Super Mario Bros 2'
+title: 'New Super Mario Bros 2 al 25.66 % de descuento'
 date: 2019/12/21 15:31:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/615Zr291F7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/615Zr291F7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Super Mario Bros 2](https://www.amazon.com/dp/B008AJEGBC/?tag=redken08-20) a 34.19 EUR (original: 45.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Super Mario Bros 2](https://www.amazon.com/dp/B008AJEGBC/?tag=redken08-20) a 34.19 EUR (original: 45.99 EUR) (25.66 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/615Zr291F7L._SL200_.jpg)](https://www.amazon.com/dp/B008AJEGBC/?tag=redken08-20)
 

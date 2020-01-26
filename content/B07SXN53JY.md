@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIFA 20 - Edición Legacy'
+title: 'FIFA 20 - Edición Legacy al 27.63 % de descuento'
 date: 2020-01-21 21:46:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518rtYnBs4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518rtYnBs4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50.99 EUR
 inStock: true
 ---
 
-Está [FIFA 20 - Edición Legacy](https://www.amazon.com/dp/B07SXN53JY/?tag=redken08-20) por 36.9 EUR (original: 50.99 EUR) en el siguiente enlace!
+Está [FIFA 20 - Edición Legacy](https://www.amazon.com/dp/B07SXN53JY/?tag=redken08-20) con 27.63 de descuento por 36.9 EUR (original: 50.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518rtYnBs4L._SL200_.jpg)](https://www.amazon.com/dp/B07SXN53JY/?tag=redken08-20)
 

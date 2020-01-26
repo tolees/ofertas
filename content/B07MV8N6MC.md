@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for Harry Pott'
+title: 'Descuento del 60.01 % en BRIKSMAX Led Lighting Kit for Harry Pott'
 date: 2020-01-26 01:28:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/415xuvbUiML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415xuvbUiML._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 GBP
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Lighting Kit for Harry Potter and The Chamber of Secrets Hogwarts Whomping Willow- Compatible with Lego 75953 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07MV8N6MC/?tag=redken08-20) a precio de oferta de 27.99 GBP (original: 69.99 GBP) en el siguiente enlace!
+Tienes [BRIKSMAX Led Lighting Kit for Harry Potter and The Chamber of Secrets Hogwarts Whomping Willow- Compatible with Lego 75953 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07MV8N6MC/?tag=redken08-20) con un 60.01 % de descuento con precio de oferta de 27.99 GBP (original: 69.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/415xuvbUiML._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MV8N6MC/?tag=redken08-20)
 

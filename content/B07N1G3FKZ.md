@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Days Gone - Edición Especial'
+title: 'Days Gone - Edición Especial al 25.89 % de descuento'
 date: 2020-01-19 07:48:57
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [Days Gone - Edición Especial](https://www.amazon.com/dp/B07N1G3FKZ/?tag=redken08-20) por 59.28 EUR (original: 79.99 EUR) en el siguiente enlace!
+Está [Days Gone - Edición Especial](https://www.amazon.com/dp/B07N1G3FKZ/?tag=redken08-20) con 25.89 de descuento por 59.28 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07N1G3FKZ/?tag=redken08-20)
 

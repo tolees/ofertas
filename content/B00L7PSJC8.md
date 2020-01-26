@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nasalmer Bebés Spray Contra la Congestió'
+title: 'Nasalmer Bebés Spray Contra la Congestió al 34.64 % de descuento'
 date: 2019/12/16 07:36:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qY%2Bw4mV9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qY%2Bw4mV9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.95 EUR
 inStock: true
 ---
 
-Está [Nasalmer Bebés Spray Contra la Congestión Nasal - Solucipertónica 125 mlón Hi](https://www.amazon.com/dp/B00L7PSJC8/?tag=redken08-20) por 5.85 EUR (original: 8.95 EUR) en el siguiente enlace!
+Está [Nasalmer Bebés Spray Contra la Congestión Nasal - Solucipertónica 125 mlón Hi](https://www.amazon.com/dp/B00L7PSJC8/?tag=redken08-20) con 34.64 de descuento por 5.85 EUR (original: 8.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51qY%2Bw4mV9L._SL200_.jpg)](https://www.amazon.com/dp/B00L7PSJC8/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'E.T. El Extraterrestre  4K UHD + BD  [Bl'
+title: 'E.T. El Extraterrestre  4K UHD + BD  [Bl al 59.93 % de descuento'
 date: 2019/11/28 19:41:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rsv0ItzpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rsv0ItzpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.98 EUR
 inStock: true
 ---
 
-Está [E.T. El Extraterrestre  4K UHD + BD  [Blu-ray]](https://www.amazon.com/dp/B074WHPHDN/?tag=redken08-20) por 10.41 EUR (original: 25.98 EUR) en el siguiente enlace!
+Está [E.T. El Extraterrestre  4K UHD + BD  [Blu-ray]](https://www.amazon.com/dp/B074WHPHDN/?tag=redken08-20) con 59.93 de descuento por 10.41 EUR (original: 25.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rsv0ItzpL._SL200_.jpg)](https://www.amazon.com/dp/B074WHPHDN/?tag=redken08-20)
 

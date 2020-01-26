@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour SC30 LS Hooded tee Sudadera'
+title: 'Under Armour SC30 LS Hooded tee Sudadera al 50.28 % de descuento'
 date: 2019/10/19 09:47:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413wf14XrLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413wf14XrLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Under Armour SC30 LS Hooded tee Sudadera  Hombre  Azul  400   M](https://www.amazon.com/dp/B071VTG7QF/?tag=redken08-20) por 24.86 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Under Armour SC30 LS Hooded tee Sudadera  Hombre  Azul  400   M](https://www.amazon.com/dp/B071VTG7QF/?tag=redken08-20) con 50.28 de descuento por 24.86 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413wf14XrLL._SL200_.jpg)](https://www.amazon.com/dp/B071VTG7QF/?tag=redken08-20)
 

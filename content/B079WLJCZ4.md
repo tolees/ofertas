@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Legend Of Kay: Anniversary'
+title: 'Descuento del 30.01 % en Legend Of Kay: Anniversary'
 date: 2019/12/16 19:38:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DQaYHtpdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DQaYHtpdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [Legend Of Kay: Anniversary](https://www.amazon.com/dp/B079WLJCZ4/?tag=redken08-20) a precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Legend Of Kay: Anniversary](https://www.amazon.com/dp/B079WLJCZ4/?tag=redken08-20) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51DQaYHtpdL._SL200_.jpg)](https://www.amazon.com/dp/B079WLJCZ4/?tag=redken08-20)
 

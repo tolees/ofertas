@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Captain Toad: Treasure Tracker'
+title: 'Descuento del 37.61 % en Captain Toad: Treasure Tracker'
 date: 2019/11/25 07:15:40 +0000
 thumbnailImage: 'http://images.amazon.com/images/P/B07BF17RNV.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07BF17RNV.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [Captain Toad: Treasure Tracker](https://www.amazon.com/dp/B07BF17RNV/?tag=redken08-20) a precio de oferta de 24.95 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [Captain Toad: Treasure Tracker](https://www.amazon.com/dp/B07BF17RNV/?tag=redken08-20) con un 37.61 % de descuento con precio de oferta de 24.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](http://images.amazon.com/images/P/B07BF17RNV.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.com/dp/B07BF17RNV/?tag=redken08-20)
 

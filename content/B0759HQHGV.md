@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop!- DC Batwoman Figura de Vinilo'
+title: 'Funko Pop!- DC Batwoman Figura de Vinilo al 46.70 % de descuento'
 date: 2019/12/16 13:52:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qLoFZRpiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qLoFZRpiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop!- DC Batwoman Figura de Vinilo  22890 ](https://www.amazon.com/dp/B0759HQHGV/?tag=redken08-20) a 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop!- DC Batwoman Figura de Vinilo  22890 ](https://www.amazon.com/dp/B0759HQHGV/?tag=redken08-20) a 7.99 EUR (original: 14.99 EUR) (46.70 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qLoFZRpiL._SL200_.jpg)](https://www.amazon.com/dp/B0759HQHGV/?tag=redken08-20)
 

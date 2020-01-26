@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Playmobil 9250 Top Agents Dr. Drone s Co'
-date: 2020-01-25 09:32:32
-thumbnailImage: 'https://m.media-amazon.com/images/I/61SLuo3+0WL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/61SLuo3+0WL._AC_._SL200_.jpg' ]
+title: 'Descuento del 50.08 % en Playmobil 9250 - Dr. Drone s Command Cen'
+date: 2020-01-25 17:57:21
+thumbnailImage: 'https://m.media-amazon.com/images/I/61jU9lj3peL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61jU9lj3peL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06W5Q8PLW
 description:
-actualPrice: 34.95 GBP
-comparePrice: 59.99 GBP
+actualPrice: 34.94 EUR
+comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Tienes [Playmobil 9250 Top Agents Dr. Drone s Command Base Toy Set  Multi](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20) a precio de oferta de 34.95 GBP (original: 59.99 GBP) en el siguiente enlace!
+Tienes [Playmobil 9250 - Dr. Drone s Command Center](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20) con un 50.08 % de descuento con precio de oferta de 34.94 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61SLuo3+0WL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/61jU9lj3peL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tamron T81077 - Objetivo para Nikon  70-'
+title: 'Tamron T81077 - Objetivo para Nikon  70- al 31.80 % de descuento'
 date: 2019/10/27 13:12:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31K1JNmDaJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31K1JNmDaJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 799 EUR
 inStock: true
 ---
 
-Está [Tamron T81077 - Objetivo para Nikon  70-210 mm F/4  lente LD ecubrimiento de flúor  construcción resistente a la humedad diámetro frontal de filtro de 67 mm ](https://www.amazon.com/dp/B07BNCMFGC/?tag=redken08-20) por 544.95 EUR (original: 799 EUR) en el siguiente enlace!
+Está [Tamron T81077 - Objetivo para Nikon  70-210 mm F/4  lente LD ecubrimiento de flúor  construcción resistente a la humedad diámetro frontal de filtro de 67 mm ](https://www.amazon.com/dp/B07BNCMFGC/?tag=redken08-20) con 31.80 de descuento por 544.95 EUR (original: 799 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31K1JNmDaJL._SL200_.jpg)](https://www.amazon.com/dp/B07BNCMFGC/?tag=redken08-20)
 

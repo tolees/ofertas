@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA BBall Hard Work SS Camis'
+title: 'Under Armour UA BBall Hard Work SS Camis al 59.19 % de descuento'
 date: 2019/10/20 10:53:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iltpNfRQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iltpNfRQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26 EUR
 inStock: true
 ---
 
-Está [Under Armour UA BBall Hard Work SS Camiseta de Manga Corta  Hombre  Blanco  100   L](https://www.amazon.com/dp/B0728BLQSG/?tag=redken08-20) por 10.61 EUR (original: 26 EUR) en el siguiente enlace!
+Está [Under Armour UA BBall Hard Work SS Camiseta de Manga Corta  Hombre  Blanco  100   L](https://www.amazon.com/dp/B0728BLQSG/?tag=redken08-20) con 59.19 de descuento por 10.61 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iltpNfRQL._SL200_.jpg)](https://www.amazon.com/dp/B0728BLQSG/?tag=redken08-20)
 

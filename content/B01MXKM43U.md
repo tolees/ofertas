@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett Cropped  Jeans Mujer  Negro'
+title: 'Lee Scarlett Cropped  Jeans Mujer  Negro al 54.60 % de descuento'
 date: 2019/10/19 16:39:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W27/L33  Talla del fabricante: 27 ](https://www.amazon.com/dp/B01MXKM43U/?tag=redken08-20) a 40.84 EUR (original: 89.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W27/L33  Talla del fabricante: 27 ](https://www.amazon.com/dp/B01MXKM43U/?tag=redken08-20) a 40.84 EUR (original: 89.95 EUR) (54.60 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg)](https://www.amazon.com/dp/B01MXKM43U/?tag=redken08-20)
 

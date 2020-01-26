@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Delegate + Bolso bandolera  39 c'
+title: 'Eastpak Delegate + Bolso bandolera  39 c al 27.17 % de descuento'
 date: 2019/11/09 21:06:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410p-pStOhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410p-pStOhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Eastpak Delegate + Bolso bandolera  39 cm  20 liters  Gris  Sunday Grey ](https://www.amazon.com/dp/B07KXTKJPG/?tag=redken08-20) por 43.7 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Eastpak Delegate + Bolso bandolera  39 cm  20 liters  Gris  Sunday Grey ](https://www.amazon.com/dp/B07KXTKJPG/?tag=redken08-20) con 27.17 de descuento por 43.7 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410p-pStOhL._SL200_.jpg)](https://www.amazon.com/dp/B07KXTKJPG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superzings - Serie 3 - Caja 24 vehículos'
+title: 'Superzings - Serie 3 - Caja 24 vehículos al 39.98 % de descuento'
 date: 2019/12/29 11:02:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rvS1dpNOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rvS1dpNOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 48 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superzings - Serie 3 - Caja 24 vehículos pull-back y 24 figuras](https://www.amazon.com/dp/B07MCLR3Z6/?tag=redken08-20) a 28.81 EUR (original: 48 EUR) en el siguiente enlace!
+Ahora mismo tienes [Superzings - Serie 3 - Caja 24 vehículos pull-back y 24 figuras](https://www.amazon.com/dp/B07MCLR3Z6/?tag=redken08-20) a 28.81 EUR (original: 48 EUR) (39.98 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rvS1dpNOL._SL200_.jpg)](https://www.amazon.com/dp/B07MCLR3Z6/?tag=redken08-20)
 

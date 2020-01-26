@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-Star RAW Core Strap Flat  Sandalias de'
+title: 'G-Star RAW Core Strap Flat  Sandalias de al 69.04 % de descuento'
 date: 2019/10/15 13:31:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lsbOxbV2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lsbOxbV2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [G-Star RAW Core Strap Flat  Sandalias de Talón Abierto para Mujer  Blanco  White 110   37 EU](https://www.amazon.com/dp/B0798CNQCF/?tag=redken08-20) por 30.94 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [G-Star RAW Core Strap Flat  Sandalias de Talón Abierto para Mujer  Blanco  White 110   37 EU](https://www.amazon.com/dp/B0798CNQCF/?tag=redken08-20) con 69.04 de descuento por 30.94 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31lsbOxbV2L._SL200_.jpg)](https://www.amazon.com/dp/B0798CNQCF/?tag=redken08-20)
 

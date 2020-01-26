@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjegingham Shirt L/s Camisa'
+title: 'JACK & JONES Jjegingham Shirt L/s Camisa al 40.01 % de descuento'
 date: 2020-01-07 11:13:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5172T32zxFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5172T32zxFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   Large para Hombre](https://www.amazon.com/dp/B07C1TVXYC/?tag=redken08-20) por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [JACK & JONES Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   Large para Hombre](https://www.amazon.com/dp/B07C1TVXYC/?tag=redken08-20) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/5172T32zxFL._SL200_.jpg)](https://www.amazon.com/dp/B07C1TVXYC/?tag=redken08-20)
 

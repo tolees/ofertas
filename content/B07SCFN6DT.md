@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Real Madrid Mini Home Kids Equipa'
+title: 'adidas Real Madrid Mini Home Kids Equipa al 34.30 % de descuento'
 date: 2019/12/12 10:32:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zEpswGsqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zEpswGsqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Está [adidas Real Madrid Mini Home Kids Equipamiento de Fútbol  Unisex Niños  Blanco  White   2-3Y](https://www.amazon.com/dp/B07SCFN6DT/?tag=redken08-20) por 36.13 EUR (original: 54.99 EUR) en el siguiente enlace!
+Está [adidas Real Madrid Mini Home Kids Equipamiento de Fútbol  Unisex Niños  Blanco  White   2-3Y](https://www.amazon.com/dp/B07SCFN6DT/?tag=redken08-20) con 34.30 de descuento por 36.13 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zEpswGsqL._SL200_.jpg)](https://www.amazon.com/dp/B07SCFN6DT/?tag=redken08-20)
 

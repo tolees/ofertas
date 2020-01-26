@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Crop Tank Top  Mujer  Bluebird  3'
+title: 'adidas Crop Tank Top  Mujer  Bluebird  3 al 45.13 % de descuento'
 date: 2019/10/23 18:37:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RPfVoT0rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RPfVoT0rL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Crop Tank Top  Mujer  Bluebird  38](https://www.amazon.com/dp/B07SRC6P7J/?tag=redken08-20) a 13.69 EUR (original: 24.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Crop Tank Top  Mujer  Bluebird  38](https://www.amazon.com/dp/B07SRC6P7J/?tag=redken08-20) a 13.69 EUR (original: 24.95 EUR) (45.13 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RPfVoT0rL._SL200_.jpg)](https://www.amazon.com/dp/B07SRC6P7J/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ray-Ban Erika Classic Gafas de sol  Marr'
+title: 'Ray-Ban Erika Classic Gafas de sol  Marr al 54.55 % de descuento'
 date: 2019/10/13 12:25:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QKmCA%2BNtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QKmCA%2BNtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 132 EUR
 inStock: true
 ---
 
-Está [Ray-Ban Erika Classic Gafas de sol  Marrón  Tortoise/Gunmetal/Brown Gradient   54 Unisex-Adulto](https://www.amazon.com/dp/B005OBQMBQ/?tag=redken08-20) por 60 EUR (original: 132 EUR) en el siguiente enlace!
+Está [Ray-Ban Erika Classic Gafas de sol  Marrón  Tortoise/Gunmetal/Brown Gradient   54 Unisex-Adulto](https://www.amazon.com/dp/B005OBQMBQ/?tag=redken08-20) con 54.55 de descuento por 60 EUR (original: 132 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31QKmCA%2BNtL._SL200_.jpg)](https://www.amazon.com/dp/B005OBQMBQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans TJM Tommy Classics Solid Pol'
+title: 'Tommy Jeans TJM Tommy Classics Solid Pol al 55.38 % de descuento'
 date: 2019/11/08 12:26:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vHlCM6g6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vHlCM6g6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tommy Jeans TJM Tommy Classics Solid Polo  Violett  Fuchsia Purple 573   S para Hombre](https://www.amazon.com/dp/B07LBLCFMB/?tag=redken08-20) a 24.54 EUR (original: 55 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tommy Jeans TJM Tommy Classics Solid Polo  Violett  Fuchsia Purple 573   S para Hombre](https://www.amazon.com/dp/B07LBLCFMB/?tag=redken08-20) a 24.54 EUR (original: 55 EUR) (55.38 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31vHlCM6g6L._SL200_.jpg)](https://www.amazon.com/dp/B07LBLCFMB/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Court Royale  GS   Zapatillas de Gi'
+title: 'Descuento del 36.98 % en Nike Court Royale  GS   Zapatillas de Gi'
 date: 2019/11/09 20:34:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zhnTwwkfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zhnTwwkfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Tienes [Nike Court Royale  GS   Zapatillas de Gimnasia para Niños  Blanco  White/Obsidian/Univ Red/Gum Lt Brown 107   36 1/2 EU](https://www.amazon.com/dp/B07RNRKKGG/?tag=redken08-20) a precio de oferta de 31.51 EUR (original: 50 EUR) en el siguiente enlace!
+Tienes [Nike Court Royale  GS   Zapatillas de Gimnasia para Niños  Blanco  White/Obsidian/Univ Red/Gum Lt Brown 107   36 1/2 EU](https://www.amazon.com/dp/B07RNRKKGG/?tag=redken08-20) con un 36.98 % de descuento con precio de oferta de 31.51 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zhnTwwkfL._SL200_.jpg)](https://www.amazon.com/dp/B07RNRKKGG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Th4237 Camiseta  Azul  Capitaine'
+title: 'Lacoste Th4237 Camiseta  Azul  Capitaine al 38.08 % de descuento'
 date: 2019/10/13 09:05:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cw0rWGNhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cw0rWGNhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Lacoste Th4237 Camiseta  Azul  Capitaine X0u   Large  Talla del Fabricante: 5  para Hombre](https://www.amazon.com/dp/B07JDTDQXF/?tag=redken08-20) por 37.15 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Lacoste Th4237 Camiseta  Azul  Capitaine X0u   Large  Talla del Fabricante: 5  para Hombre](https://www.amazon.com/dp/B07JDTDQXF/?tag=redken08-20) con 38.08 de descuento por 37.15 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cw0rWGNhL._SL200_.jpg)](https://www.amazon.com/dp/B07JDTDQXF/?tag=redken08-20)
 

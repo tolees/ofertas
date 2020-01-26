@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '5.0MP 1920P Cámara IP Exterior  Vitorcam'
+title: '5.0MP 1920P Cámara IP Exterior  Vitorcam al 46.16 % de descuento'
 date: 2019/12/31 12:21:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i2MBoL04L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i2MBoL04L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 259.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [5.0MP 1920P Cámara IP Exterior  Vitorcam Cámara PTZ Vigilancia Exterior WiFi Motorizada P/T 5 X Zoom Soporte PoE + Modo WiFi](https://www.amazon.com/dp/B07WVBKW8G/?tag=redken08-20) a 139.99 EUR (original: 259.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [5.0MP 1920P Cámara IP Exterior  Vitorcam Cámara PTZ Vigilancia Exterior WiFi Motorizada P/T 5 X Zoom Soporte PoE + Modo WiFi](https://www.amazon.com/dp/B07WVBKW8G/?tag=redken08-20) a 139.99 EUR (original: 259.99 EUR) (46.16 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41i2MBoL04L._SL200_.jpg)](https://www.amazon.com/dp/B07WVBKW8G/?tag=redken08-20)
 

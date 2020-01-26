@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRESemmé Champú Repara y Fortalece - Paq'
+title: 'TRESemmé Champú Repara y Fortalece - Paq al 35.59 % de descuento'
 date: 2019/11/30 17:31:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M7479Z5uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M7479Z5uL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [TRESemmé Champú Repara y Fortalece - Paquete de 3 x 700 ml - Total: 2100 ml](https://www.amazon.com/dp/B078ZZNDB6/?tag=redken08-20) a 11.11 EUR (original: 17.25 EUR) en el siguiente enlace!
+Ahora mismo tienes [TRESemmé Champú Repara y Fortalece - Paquete de 3 x 700 ml - Total: 2100 ml](https://www.amazon.com/dp/B078ZZNDB6/?tag=redken08-20) a 11.11 EUR (original: 17.25 EUR) (35.59 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41M7479Z5uL._SL200_.jpg)](https://www.amazon.com/dp/B078ZZNDB6/?tag=redken08-20)
 

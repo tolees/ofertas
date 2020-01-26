@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'amscan - Velas de cumpleaños Mario Bros '
+title: 'amscan - Velas de cumpleaños Mario Bros  al 50.74 % de descuento'
 date: 2020-01-22 20:02:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wc718u3gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wc718u3gL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.1 EUR
 inStock: true
 ---
 
-Está [amscan - Velas de cumpleaños Mario Bros  171554 ](https://www.amazon.com/dp/B01AUXHPNG/?tag=redken08-20) por 3.99 EUR (original: 8.1 EUR) en el siguiente enlace!
+Está [amscan - Velas de cumpleaños Mario Bros  171554 ](https://www.amazon.com/dp/B01AUXHPNG/?tag=redken08-20) con 50.74 de descuento por 3.99 EUR (original: 8.1 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wc718u3gL._SL200_.jpg)](https://www.amazon.com/dp/B01AUXHPNG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri'
+title: 'Napapijri al 65.13 % de descuento'
 date: 2019/10/24 08:00:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312P30P0nGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312P30P0nGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Napapijri](https://www.amazon.com/dp/B0796BNZDW/?tag=redken08-20) por 34.52 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Napapijri](https://www.amazon.com/dp/B0796BNZDW/?tag=redken08-20) con 65.13 de descuento por 34.52 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/312P30P0nGL._SL200_.jpg)](https://www.amazon.com/dp/B0796BNZDW/?tag=redken08-20)
 

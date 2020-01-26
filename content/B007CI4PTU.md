@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nestle KitKat Schoko-Riegel  Milch-Schok'
+title: 'Nestle KitKat Schoko-Riegel  Milch-Schok al 42.37 % de descuento'
 date: 2019/10/25 09:28:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nvK1jCcwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nvK1jCcwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nestle KitKat Schoko-Riegel  Milch-Schokolade  24er Pack  24 x 41 5g  Großpackung](https://www.amazon.com/dp/B007CI4PTU/?tag=redken08-20) a 8.99 EUR (original: 15.6 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nestle KitKat Schoko-Riegel  Milch-Schokolade  24er Pack  24 x 41 5g  Großpackung](https://www.amazon.com/dp/B007CI4PTU/?tag=redken08-20) a 8.99 EUR (original: 15.6 EUR) (42.37 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51nvK1jCcwL._SL200_.jpg)](https://www.amazon.com/dp/B007CI4PTU/?tag=redken08-20)
 

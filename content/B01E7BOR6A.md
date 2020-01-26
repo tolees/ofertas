@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MORINGA +AÇAI 60 COMP 800MG PRISMA'
+title: 'MORINGA +AÇAI 60 COMP 800MG PRISMA al 28.49 % de descuento'
 date: 2019/10/08 10:32:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d6vn4hb2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d6vn4hb2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MORINGA +AÇAI 60 COMP 800MG PRISMA](https://www.amazon.com/dp/B01E7BOR6A/?tag=redken08-20) a 9.26 EUR (original: 12.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [MORINGA +AÇAI 60 COMP 800MG PRISMA](https://www.amazon.com/dp/B01E7BOR6A/?tag=redken08-20) a 9.26 EUR (original: 12.95 EUR) (28.49 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41d6vn4hb2L._SL200_.jpg)](https://www.amazon.com/dp/B01E7BOR6A/?tag=redken08-20)
 

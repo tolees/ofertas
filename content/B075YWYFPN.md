@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Cortavientos Hombre  Rojo  Red   X'
+title: 'find. Cortavientos Hombre  Rojo  Red   X al 70.00 % de descuento'
 date: 2019/10/08 02:14:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pdLa2TcXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pdLa2TcXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Cortavientos Hombre  Rojo  Red   XX-Large](https://www.amazon.com/dp/B075YWYFPN/?tag=redken08-20) a 10.5 EUR (original: 35 EUR) en el siguiente enlace!
+Ahora mismo tienes [find. Cortavientos Hombre  Rojo  Red   XX-Large](https://www.amazon.com/dp/B075YWYFPN/?tag=redken08-20) a 10.5 EUR (original: 35 EUR) (70.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pdLa2TcXL._SL200_.jpg)](https://www.amazon.com/dp/B075YWYFPN/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lego Ninjago 70673 ShuriCopter  Bauset'
-date: 2020-01-24 09:59:39
+title: 'Lego Ninjago 70673 ShuriCopter  Bauset al 33.44 % de descuento'
+date: 2020-01-26 10:02:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dmGgo2wxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dmGgo2wxL._AC_._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lego Ninjago 70673 ShuriCopter  Bauset](https://www.amazon.com/dp/B07KTWLXB6/?tag=redken08-20) a 19.96 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego Ninjago 70673 ShuriCopter  Bauset](https://www.amazon.com/dp/B07KTWLXB6/?tag=redken08-20) a 19.96 EUR (original: 29.99 EUR) (33.44 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51dmGgo2wxL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTWLXB6/?tag=redken08-20)
 

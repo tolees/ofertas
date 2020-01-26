@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Boxed Sportstyle SS Cami'
+title: 'Under Armour UA Boxed Sportstyle SS Cami al 48.12 % de descuento'
 date: 2019/12/17 12:55:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kMnIdZylL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kMnIdZylL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Azul  Royal/Graphite 400   S](https://www.amazon.com/dp/B078FHD1KN/?tag=redken08-20) por 13.49 EUR (original: 26 EUR) en el siguiente enlace!
+Está [Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Azul  Royal/Graphite 400   S](https://www.amazon.com/dp/B078FHD1KN/?tag=redken08-20) con 48.12 de descuento por 13.49 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kMnIdZylL._SL200_.jpg)](https://www.amazon.com/dp/B078FHD1KN/?tag=redken08-20)
 

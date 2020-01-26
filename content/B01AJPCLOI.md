@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 6920 City Action Police Squad '
+title: 'Playmobil 6920 City Action Police Squad  al 36.81 % de descuento'
 date: 2019/12/18 07:19:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lcwDU3xSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lcwDU3xSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Está [Playmobil 6920 City Action Police Squad Car with Lights and Sound](https://www.amazon.com/dp/B01AJPCLOI/?tag=redken08-20) por 18.95 GBP (original: 29.99 GBP) en el siguiente enlace!
+Está [Playmobil 6920 City Action Police Squad Car with Lights and Sound](https://www.amazon.com/dp/B01AJPCLOI/?tag=redken08-20) con 36.81 de descuento por 18.95 GBP (original: 29.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51lcwDU3xSL._SL200_.jpg)](https://www.amazon.com/dp/B01AJPCLOI/?tag=redken08-20)
 

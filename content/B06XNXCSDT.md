@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko - POP! Vinilo Colección Juego de t'
+title: 'Funko - POP! Vinilo Colección Juego de t al 45.30 % de descuento'
 date: 2020-01-25 18:03:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ej9QAKaQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ej9QAKaQL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko - POP! Vinilo Colección Juego de tronos - Figura Jon Snow  12215 ](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20) por 8.2 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Funko - POP! Vinilo Colección Juego de tronos - Figura Jon Snow  12215 ](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20) con 45.30 de descuento por 8.2 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Ej9QAKaQL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20)
 

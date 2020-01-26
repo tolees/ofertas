@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mantona 20142 - Bolsa para cámara Color '
+title: 'Mantona 20142 - Bolsa para cámara Color  al 50.66 % de descuento'
 date: 2020-01-03 11:45:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CB1bfp%2BrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CB1bfp%2BrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 33.54 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mantona 20142 - Bolsa para cámara Color Rojo](https://www.amazon.com/dp/B00NVMSJT8/?tag=redken08-20) a 16.55 EUR (original: 33.54 EUR) en el siguiente enlace!
+Ahora mismo tienes [Mantona 20142 - Bolsa para cámara Color Rojo](https://www.amazon.com/dp/B00NVMSJT8/?tag=redken08-20) a 16.55 EUR (original: 33.54 EUR) (50.66 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51CB1bfp%2BrL._SL200_.jpg)](https://www.amazon.com/dp/B00NVMSJT8/?tag=redken08-20)
 

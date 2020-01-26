@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MisterCraft D de 216 - Maqueta de devoit'
+title: 'MisterCraft D de 216 - Maqueta de devoit al 49.90 % de descuento'
 date: 2020-01-03 18:45:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MisterCraft D de 216 - Maqueta de devoitine D de 520 cl](https://www.amazon.com/dp/B01LZDCMKV/?tag=redken08-20) a 13.02 EUR (original: 25.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [MisterCraft D de 216 - Maqueta de devoitine D de 520 cl](https://www.amazon.com/dp/B01LZDCMKV/?tag=redken08-20) a 13.02 EUR (original: 25.99 EUR) (49.90 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL200_.jpg)](https://www.amazon.com/dp/B01LZDCMKV/?tag=redken08-20)
 

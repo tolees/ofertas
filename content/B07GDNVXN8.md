@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Malone Vaqueros Skinny  Negro  Black'
+title: 'Lee Malone Vaqueros Skinny  Negro  Black al 52.75 % de descuento'
 date: 2020-01-22 17:42:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312mgOE0ajL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312mgOE0ajL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Está [Lee Malone Vaqueros Skinny  Negro  Black Rinse 47   28W / 34L para Hombre](https://www.amazon.com/dp/B07GDNVXN8/?tag=redken08-20) por 42.5 EUR (original: 89.95 EUR) en el siguiente enlace!
+Está [Lee Malone Vaqueros Skinny  Negro  Black Rinse 47   28W / 34L para Hombre](https://www.amazon.com/dp/B07GDNVXN8/?tag=redken08-20) con 52.75 de descuento por 42.5 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/312mgOE0ajL._SL200_.jpg)](https://www.amazon.com/dp/B07GDNVXN8/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Olympus Pen-F - Cámara Evil con estabili'
+title: 'Olympus Pen-F - Cámara Evil con estabili al 30.61 % de descuento'
 date: 2019/11/11 21:31:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GHcuBlMfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GHcuBlMfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1199 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Olympus Pen-F - Cámara Evil con estabilizador  Color Plata](https://www.amazon.com/dp/B01AURIESW/?tag=redken08-20) a 832 EUR (original: 1199 EUR) en el siguiente enlace!
+Ahora mismo tienes [Olympus Pen-F - Cámara Evil con estabilizador  Color Plata](https://www.amazon.com/dp/B01AURIESW/?tag=redken08-20) a 832 EUR (original: 1199 EUR) (30.61 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51GHcuBlMfL._SL200_.jpg)](https://www.amazon.com/dp/B01AURIESW/?tag=redken08-20)
 

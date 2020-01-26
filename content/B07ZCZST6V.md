@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brillos corporales  Purpurinas Polvo  Pu'
+title: 'Brillos corporales  Purpurinas Polvo  Pu al 38.48 % de descuento'
 date: 2020-01-16 15:36:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510H-xSNw2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510H-xSNw2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brillos corporales  Purpurinas Polvo  Purpurina para Cara Cuerpo Maquillaje Pelo Rostro Uñas Mejilla  Glitter Flakes Paillette para Rostro  Brillante Decoración para Pelo](https://www.amazon.com/dp/B07ZCZST6V/?tag=redken08-20) a 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Brillos corporales  Purpurinas Polvo  Purpurina para Cara Cuerpo Maquillaje Pelo Rostro Uñas Mejilla  Glitter Flakes Paillette para Rostro  Brillante Decoración para Pelo](https://www.amazon.com/dp/B07ZCZST6V/?tag=redken08-20) a 15.99 EUR (original: 25.99 EUR) (38.48 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/510H-xSNw2L._SL200_.jpg)](https://www.amazon.com/dp/B07ZCZST6V/?tag=redken08-20)
 

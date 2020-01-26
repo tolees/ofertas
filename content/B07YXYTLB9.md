@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salsa 27'
+title: 'Salsa 27 al 52.17 % de descuento'
 date: 2019/10/20 09:37:53 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 55.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Salsa 27](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20) a 26.4 EUR (original: 55.2 EUR) en el siguiente enlace!
+Ahora mismo tienes [Salsa 27](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20) a 26.4 EUR (original: 55.2 EUR) (52.17 %  de descuento) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20)
 

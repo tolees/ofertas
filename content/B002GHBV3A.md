@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Severin KS 9892 Mini-Frigorífico  102 L '
+title: 'Severin KS 9892 Mini-Frigorífico  102 L  al 40.96 % de descuento'
 date: 2019/11/21 08:41:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21EmddcIUsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21EmddcIUsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 229 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Severin KS 9892 Mini-Frigorífico  102 L  color blanco](https://www.amazon.com/dp/B002GHBV3A/?tag=redken08-20) a 135.2 EUR (original: 229 EUR) en el siguiente enlace!
+Ahora mismo tienes [Severin KS 9892 Mini-Frigorífico  102 L  color blanco](https://www.amazon.com/dp/B002GHBV3A/?tag=redken08-20) a 135.2 EUR (original: 229 EUR) (40.96 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21EmddcIUsL._SL200_.jpg)](https://www.amazon.com/dp/B002GHBV3A/?tag=redken08-20)
 

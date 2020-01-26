@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Salcantay Chaqueta Interchange '
+title: 'Columbia Salcantay Chaqueta Interchange  al 47.37 % de descuento'
 date: 2019/10/10 15:37:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j4QznPJ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j4QznPJ-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 269.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Salcantay Chaqueta Interchange  Mujer   Dark Azul/Nocturnal   XS](https://www.amazon.com/dp/B07RCGKQRH/?tag=redken08-20) a 142.1 EUR (original: 269.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Salcantay Chaqueta Interchange  Mujer   Dark Azul/Nocturnal   XS](https://www.amazon.com/dp/B07RCGKQRH/?tag=redken08-20) a 142.1 EUR (original: 269.99 EUR) (47.37 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31j4QznPJ-L._SL200_.jpg)](https://www.amazon.com/dp/B07RCGKQRH/?tag=redken08-20)
 

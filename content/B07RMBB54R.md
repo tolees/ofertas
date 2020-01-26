@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funkoverse Strategy Game DC Comics 101 E'
+title: 'Funkoverse Strategy Game DC Comics 101 E al 45.39 % de descuento'
 date: 2019/11/22 11:26:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QNyaPUobL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QNyaPUobL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.45 EUR
 inStock: true
 ---
 
-Está [Funkoverse Strategy Game DC Comics 101 Expandalone](https://www.amazon.com/dp/B07RMBB54R/?tag=redken08-20) por 14.99 EUR (original: 27.45 EUR) en el siguiente enlace!
+Está [Funkoverse Strategy Game DC Comics 101 Expandalone](https://www.amazon.com/dp/B07RMBB54R/?tag=redken08-20) con 45.39 de descuento por 14.99 EUR (original: 27.45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QNyaPUobL._SL200_.jpg)](https://www.amazon.com/dp/B07RMBB54R/?tag=redken08-20)
 

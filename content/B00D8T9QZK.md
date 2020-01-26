@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy S4 Mini - Smartphone Libr'
+title: 'Samsung Galaxy S4 Mini - Smartphone Libr al 53.38 % de descuento'
 date: 2019/11/05 22:43:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CfdHp1Q6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CfdHp1Q6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 405.42 EUR
 inStock: true
 ---
 
-Está [Samsung Galaxy S4 Mini - Smartphone Libre Android  Pantalla 4.3"  cámara 8 MP  8 GB  Dual-Core 1.7 GHz  1.5 GB RAM   Blanco- Versión Extranjera](https://www.amazon.com/dp/B00D8T9QZK/?tag=redken08-20) por 189 EUR (original: 405.42 EUR) en el siguiente enlace!
+Está [Samsung Galaxy S4 Mini - Smartphone Libre Android  Pantalla 4.3"  cámara 8 MP  8 GB  Dual-Core 1.7 GHz  1.5 GB RAM   Blanco- Versión Extranjera](https://www.amazon.com/dp/B00D8T9QZK/?tag=redken08-20) con 53.38 de descuento por 189 EUR (original: 405.42 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CfdHp1Q6L._SL200_.jpg)](https://www.amazon.com/dp/B00D8T9QZK/?tag=redken08-20)
 

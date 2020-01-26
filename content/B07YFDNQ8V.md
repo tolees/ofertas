@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mc Haus - Sofa Evy gris claro 2 plazas d'
+title: 'Mc Haus - Sofa Evy gris claro 2 plazas d al 42.86 % de descuento'
 date: 2019/11/29 13:58:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Etcu1HikL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Etcu1HikL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 349.99 EUR
 inStock: true
 ---
 
-Está [Mc Haus - Sofa Evy gris claro 2 plazas diseño nordico salon comedor 160x80x76cm](https://www.amazon.com/dp/B07YFDNQ8V/?tag=redken08-20) por 199.99 EUR (original: 349.99 EUR) en el siguiente enlace!
+Está [Mc Haus - Sofa Evy gris claro 2 plazas diseño nordico salon comedor 160x80x76cm](https://www.amazon.com/dp/B07YFDNQ8V/?tag=redken08-20) con 42.86 de descuento por 199.99 EUR (original: 349.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Etcu1HikL._SL200_.jpg)](https://www.amazon.com/dp/B07YFDNQ8V/?tag=redken08-20)
 

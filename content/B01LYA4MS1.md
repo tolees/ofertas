@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional Bohrhammer GBH 2-28 F'
+title: 'Bosch Professional Bohrhammer GBH 2-28 F al 36.75 % de descuento'
 date: 2019/10/23 19:03:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KgBdxeBBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KgBdxeBBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 339.15 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch Professional Bohrhammer GBH 2-28 F  SDS-plus-Wechselfutter  13 mm Schnellspannbohrfutter  bis 28 mm Bohr-Ø  Rückschlag-Schutz  Handwerker-Koffer ](https://www.amazon.com/dp/B01LYA4MS1/?tag=redken08-20) a 214.5 EUR (original: 339.15 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch Professional Bohrhammer GBH 2-28 F  SDS-plus-Wechselfutter  13 mm Schnellspannbohrfutter  bis 28 mm Bohr-Ø  Rückschlag-Schutz  Handwerker-Koffer ](https://www.amazon.com/dp/B01LYA4MS1/?tag=redken08-20) a 214.5 EUR (original: 339.15 EUR) (36.75 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KgBdxeBBL._SL200_.jpg)](https://www.amazon.com/dp/B01LYA4MS1/?tag=redken08-20)
 

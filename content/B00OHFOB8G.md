@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Cesena - Sudadera con capucha para'
+title: 'Kappa Cesena - Sudadera con capucha para al 47.74 % de descuento'
 date: 2019/11/13 17:38:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PFaf7m8eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PFaf7m8eL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 42 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Cesena - Sudadera con capucha para niños  negro  YS  6 años ](https://www.amazon.com/dp/B00OHFOB8G/?tag=redken08-20) a 21.95 EUR (original: 42 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kappa Cesena - Sudadera con capucha para niños  negro  YS  6 años ](https://www.amazon.com/dp/B00OHFOB8G/?tag=redken08-20) a 21.95 EUR (original: 42 EUR) (47.74 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PFaf7m8eL._SL200_.jpg)](https://www.amazon.com/dp/B00OHFOB8G/?tag=redken08-20)
 

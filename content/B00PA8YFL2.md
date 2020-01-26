@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jinzu Ginebra - 700 ml'
+title: 'Jinzu Ginebra - 700 ml al 32.34 % de descuento'
 date: 2019/10/31 11:16:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aFPZEBQML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aFPZEBQML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 43.82 EUR
 inStock: true
 ---
 
-Está [Jinzu Ginebra - 700 ml](https://www.amazon.com/dp/B00PA8YFL2/?tag=redken08-20) por 29.65 EUR (original: 43.82 EUR) en el siguiente enlace!
+Está [Jinzu Ginebra - 700 ml](https://www.amazon.com/dp/B00PA8YFL2/?tag=redken08-20) con 32.34 de descuento por 29.65 EUR (original: 43.82 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aFPZEBQML._SL200_.jpg)](https://www.amazon.com/dp/B00PA8YFL2/?tag=redken08-20)
 

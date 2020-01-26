@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant D1. Stretch Cotton Cable Dress Vest'
+title: 'Gant D1. Stretch Cotton Cable Dress Vest al 32.76 % de descuento'
 date: 2019/11/20 09:04:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31648eR3MOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31648eR3MOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 179.99 EUR
 inStock: true
 ---
 
-Está [Gant D1. Stretch Cotton Cable Dress Vestido  Azul  Evening Blue   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.com/dp/B073S8GDPB/?tag=redken08-20) por 121.02 EUR (original: 179.99 EUR) en el siguiente enlace!
+Está [Gant D1. Stretch Cotton Cable Dress Vestido  Azul  Evening Blue   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.com/dp/B073S8GDPB/?tag=redken08-20) con 32.76 de descuento por 121.02 EUR (original: 179.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31648eR3MOL._SL200_.jpg)](https://www.amazon.com/dp/B073S8GDPB/?tag=redken08-20)
 

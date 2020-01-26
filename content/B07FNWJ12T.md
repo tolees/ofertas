@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus'
+title: 'THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus al 33.34 % de descuento'
 date: 2019/12/19 22:31:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514SyurffVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514SyurffVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20) por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20) con 33.34 de descuento por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/514SyurffVL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20)
 

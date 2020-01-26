@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA RS 9.8 Space  Zapatillas Unisex Adu'
+title: 'PUMA RS 9.8 Space  Zapatillas Unisex Adu al 73.96 % de descuento'
 date: 2019/12/23 22:58:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ppD60IP0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ppD60IP0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA RS 9.8 Space  Zapatillas Unisex Adulto  Pastel Parchment White  44.5 EU](https://www.amazon.com/dp/B07KG22YRR/?tag=redken08-20) a 23.42 EUR (original: 89.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [PUMA RS 9.8 Space  Zapatillas Unisex Adulto  Pastel Parchment White  44.5 EU](https://www.amazon.com/dp/B07KG22YRR/?tag=redken08-20) a 23.42 EUR (original: 89.95 EUR) (73.96 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ppD60IP0L._SL200_.jpg)](https://www.amazon.com/dp/B07KG22YRR/?tag=redken08-20)
 

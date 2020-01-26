@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pilot Frixion - Pack de 12 rotuladores'
+title: 'Pilot Frixion - Pack de 12 rotuladores al 29.41 % de descuento'
 date: 2019/10/31 17:37:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fnB%2BkspQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fnB%2BkspQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pilot Frixion - Pack de 12 rotuladores](https://www.amazon.com/dp/B00CWX4KLI/?tag=redken08-20) a 8.4 EUR (original: 11.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pilot Frixion - Pack de 12 rotuladores](https://www.amazon.com/dp/B00CWX4KLI/?tag=redken08-20) a 8.4 EUR (original: 11.9 EUR) (29.41 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fnB%2BkspQL._SL200_.jpg)](https://www.amazon.com/dp/B00CWX4KLI/?tag=redken08-20)
 

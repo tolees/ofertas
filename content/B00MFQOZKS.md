@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tectonic - Reloj Analógico de Cuarzo Uni'
+title: 'Tectonic - Reloj Analógico de Cuarzo Uni al 74.98 % de descuento'
 date: 2019/11/16 21:48:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q7YnYvmNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q7YnYvmNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Está [Tectonic - Reloj Analógico de Cuarzo Unisex  Correa de Cuero Color Negro](https://www.amazon.com/dp/B00MFQOZKS/?tag=redken08-20) por 24.99 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [Tectonic - Reloj Analógico de Cuarzo Unisex  Correa de Cuero Color Negro](https://www.amazon.com/dp/B00MFQOZKS/?tag=redken08-20) con 74.98 de descuento por 24.99 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41q7YnYvmNL._SL200_.jpg)](https://www.amazon.com/dp/B00MFQOZKS/?tag=redken08-20)
 

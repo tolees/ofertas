@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Volante para Nintendo Swi'
+title: 'AmazonBasics - Volante para Nintendo Swi al 66.73 % de descuento'
 date: 2019/11/29 11:45:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KGSgV7WuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KGSgV7WuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.13 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Volante para Nintendo Switch - Amarillo neón  pack de 2 ](https://www.amazon.com/dp/B074F1RYPM/?tag=redken08-20) a 5.7 EUR (original: 17.13 EUR) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Volante para Nintendo Switch - Amarillo neón  pack de 2 ](https://www.amazon.com/dp/B074F1RYPM/?tag=redken08-20) a 5.7 EUR (original: 17.13 EUR) (66.73 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KGSgV7WuL._SL200_.jpg)](https://www.amazon.com/dp/B074F1RYPM/?tag=redken08-20)
 

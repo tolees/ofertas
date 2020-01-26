@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak The One Bolso bandolera  21 cm  '
+title: 'Eastpak The One Bolso bandolera  21 cm   al 45.00 % de descuento'
 date: 2019/12/08 15:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p5zrXnO5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p5zrXnO5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Eastpak The One Bolso bandolera  21 cm  2.5 L  Gris  Sunday Grey ](https://www.amazon.com/dp/B003PPCYCE/?tag=redken08-20) por 16.5 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Eastpak The One Bolso bandolera  21 cm  2.5 L  Gris  Sunday Grey ](https://www.amazon.com/dp/B003PPCYCE/?tag=redken08-20) con 45.00 de descuento por 16.5 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51p5zrXnO5L._SL200_.jpg)](https://www.amazon.com/dp/B003PPCYCE/?tag=redken08-20)
 

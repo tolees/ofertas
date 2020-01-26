@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Saint Seiya Box 2 [DVD]'
+title: 'Saint Seiya Box 2 [DVD] al 53.60 % de descuento'
 date: 2019/11/23 09:04:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61gN8AdoJ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61gN8AdoJ3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30.71 EUR
 inStock: true
 ---
 
-Está [Saint Seiya Box 2 [DVD]](https://www.amazon.com/dp/B00SHRZQPM/?tag=redken08-20) por 14.25 EUR (original: 30.71 EUR) en el siguiente enlace!
+Está [Saint Seiya Box 2 [DVD]](https://www.amazon.com/dp/B00SHRZQPM/?tag=redken08-20) con 53.60 de descuento por 14.25 EUR (original: 30.71 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61gN8AdoJ3L._SL200_.jpg)](https://www.amazon.com/dp/B00SHRZQPM/?tag=redken08-20)
 

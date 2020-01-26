@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko POP! 14312 Pocket POP Keychain: Ov'
+title: 'Funko POP! 14312 Pocket POP Keychain: Ov al 40.06 % de descuento'
 date: 2019/12/10 21:36:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kW7XpviyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kW7XpviyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.84 GBP
 inStock: true
 ---
 
-Está [Funko POP! 14312 Pocket POP Keychain: Overwatch: Tracer  Multi Colour](https://www.amazon.com/dp/B06XGTZYJ3/?tag=redken08-20) por 4.1 GBP (original: 6.84 GBP) en el siguiente enlace!
+Está [Funko POP! 14312 Pocket POP Keychain: Overwatch: Tracer  Multi Colour](https://www.amazon.com/dp/B06XGTZYJ3/?tag=redken08-20) con 40.06 de descuento por 4.1 GBP (original: 6.84 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kW7XpviyL._SL200_.jpg)](https://www.amazon.com/dp/B06XGTZYJ3/?tag=redken08-20)
 

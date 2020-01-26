@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Pred Trn J Goalkeeper Gloves  Uni'
+title: 'adidas Pred Trn J Goalkeeper Gloves  Uni al 50.14 % de descuento'
 date: 2019/11/15 06:39:05 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Está [adidas Pred Trn J Goalkeeper Gloves  Unisex niños  Active Red/Solar Red/Black  6](https://www.amazon.com/dp/B07K6VWSZV/?tag=redken08-20) por 8.97 EUR (original: 17.99 EUR) en el siguiente enlace!
+Está [adidas Pred Trn J Goalkeeper Gloves  Unisex niños  Active Red/Solar Red/Black  6](https://www.amazon.com/dp/B07K6VWSZV/?tag=redken08-20) con 50.14 de descuento por 8.97 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B07K6VWSZV/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Runfalcon  Zapatillas de Trail Ru'
+title: 'Adidas Runfalcon  Zapatillas de Trail Ru al 49.99 % de descuento'
 date: 2020-01-20 22:27:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qRqhbDtaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qRqhbDtaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [Adidas Runfalcon  Zapatillas de Trail Running para Mujer  Blanco  FTWR White/FTWR White/Core Black   42 EU](https://www.amazon.com/dp/B07K2LN4QZ/?tag=redken08-20) por 24.98 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [Adidas Runfalcon  Zapatillas de Trail Running para Mujer  Blanco  FTWR White/FTWR White/Core Black   42 EU](https://www.amazon.com/dp/B07K2LN4QZ/?tag=redken08-20) con 49.99 de descuento por 24.98 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31qRqhbDtaL._SL200_.jpg)](https://www.amazon.com/dp/B07K2LN4QZ/?tag=redken08-20)
 

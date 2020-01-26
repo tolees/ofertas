@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma - Top Elite v Azul para Mujer'
+title: 'Joma - Top Elite v Azul para Mujer al 50.10 % de descuento'
 date: 2019/10/18 10:39:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519FzW-oQzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519FzW-oQzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 23.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Joma - Top Elite v Azul para Mujer](https://www.amazon.com/dp/B01ERXZYT2/?tag=redken08-20) a 11.95 EUR (original: 23.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Joma - Top Elite v Azul para Mujer](https://www.amazon.com/dp/B01ERXZYT2/?tag=redken08-20) a 11.95 EUR (original: 23.95 EUR) (50.10 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/519FzW-oQzL._SL200_.jpg)](https://www.amazon.com/dp/B01ERXZYT2/?tag=redken08-20)
 

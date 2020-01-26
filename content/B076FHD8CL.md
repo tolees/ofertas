@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cooler Master MasterLiquid Lite 120 - En'
+title: 'Cooler Master MasterLiquid Lite 120 - En al 40.65 % de descuento'
 date: 2019/12/05 08:33:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wFHUEhxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wFHUEhxCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 61.45 EUR
 inStock: true
 ---
 
-Está [Cooler Master MasterLiquid Lite 120 - Enfriador líquido para CPU Todo en uno con Bomba de cámara Doble  Intel/AMD con Soporte AM4. 1 ML240L RGB](https://www.amazon.com/dp/B076FHD8CL/?tag=redken08-20) por 36.47 EUR (original: 61.45 EUR) en el siguiente enlace!
+Está [Cooler Master MasterLiquid Lite 120 - Enfriador líquido para CPU Todo en uno con Bomba de cámara Doble  Intel/AMD con Soporte AM4. 1 ML240L RGB](https://www.amazon.com/dp/B076FHD8CL/?tag=redken08-20) con 40.65 de descuento por 36.47 EUR (original: 61.45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wFHUEhxCL._SL200_.jpg)](https://www.amazon.com/dp/B076FHD8CL/?tag=redken08-20)
 

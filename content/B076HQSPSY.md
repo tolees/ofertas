@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Core18 Hoody Y Sweatshirt  Unisex'
+title: 'adidas Core18 Hoody Y Sweatshirt  Unisex al 41.44 % de descuento'
 date: 2019/12/25 15:09:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dWhXCn2hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dWhXCn2hL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [adidas Core18 Hoody Y Sweatshirt  Unisex Niños  Azul  Azul/Blanco   9-10Y](https://www.amazon.com/dp/B076HQSPSY/?tag=redken08-20) por 20.49 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [adidas Core18 Hoody Y Sweatshirt  Unisex Niños  Azul  Azul/Blanco   9-10Y](https://www.amazon.com/dp/B076HQSPSY/?tag=redken08-20) con 41.44 de descuento por 20.49 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dWhXCn2hL._SL200_.jpg)](https://www.amazon.com/dp/B076HQSPSY/?tag=redken08-20)
 

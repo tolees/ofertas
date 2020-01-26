@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'The Glenrothes 12 años Single Malt Scotc'
-date: 2020-01-23 06:04:07
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-9Dp%2B-TEL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-9Dp%2B-TEL._SL200_.jpg' ]
+title: 'The Glenrothes 12 años Single Malt Scotc al 33.71 % de descuento'
+date: 2020-01-26 09:20:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/51-9Dp+-TEL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51-9Dp+-TEL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,9 +14,9 @@ comparePrice: 47.67 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The Glenrothes 12 años Single Malt Scotch Whisky Premium  40% - 700ml](https://www.amazon.com/dp/B07H9WRDWM/?tag=redken08-20) a 31.6 EUR (original: 47.67 EUR) en el siguiente enlace!
+Ahora mismo tienes [The Glenrothes 12 años Single Malt Scotch Whisky Premium  40% - 700ml](https://www.amazon.com/dp/B07H9WRDWM/?tag=redken08-20) a 31.6 EUR (original: 47.67 EUR) (33.71 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51-9Dp%2B-TEL._SL200_.jpg)](https://www.amazon.com/dp/B07H9WRDWM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51-9Dp+-TEL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07H9WRDWM/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07H9WRDWM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Q4 BND Tech Trackster Pants  Hombre'
+title: 'Puma Q4 BND Tech Trackster Pants  Hombre al 78.53 % de descuento'
 date: 2019/10/13 17:48:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IDyg7Mu8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IDyg7Mu8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Q4 BND Tech Trackster Pants  Hombre  Black Heather  S](https://www.amazon.com/dp/B07DG24GSZ/?tag=redken08-20) a 15.02 EUR (original: 69.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma Q4 BND Tech Trackster Pants  Hombre  Black Heather  S](https://www.amazon.com/dp/B07DG24GSZ/?tag=redken08-20) a 15.02 EUR (original: 69.95 EUR) (78.53 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31IDyg7Mu8L._SL200_.jpg)](https://www.amazon.com/dp/B07DG24GSZ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Comics T-Shirt Mono Batman White L'
+title: 'DC Comics T-Shirt Mono Batman White L al 69.83 % de descuento'
 date: 2019/11/14 20:01:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B3DlofHaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B3DlofHaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Está [DC Comics T-Shirt Mono Batman White L](https://www.amazon.com/dp/B06XPNVFPJ/?tag=redken08-20) por 10.56 EUR (original: 35 EUR) en el siguiente enlace!
+Está [DC Comics T-Shirt Mono Batman White L](https://www.amazon.com/dp/B06XPNVFPJ/?tag=redken08-20) con 69.83 de descuento por 10.56 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2B3DlofHaL._SL200_.jpg)](https://www.amazon.com/dp/B06XPNVFPJ/?tag=redken08-20)
 

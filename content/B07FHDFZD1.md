@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Axis SL  Zapatillas de Deporte Unis'
+title: 'Puma Axis SL  Zapatillas de Deporte Unis al 36.49 % de descuento'
 date: 2019/11/05 19:32:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bbpRSGbqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bbpRSGbqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Está [Puma Axis SL  Zapatillas de Deporte Unisex Adulto  Negro Black Silver  43 EU](https://www.amazon.com/dp/B07FHDFZD1/?tag=redken08-20) por 34.9 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [Puma Axis SL  Zapatillas de Deporte Unisex Adulto  Negro Black Silver  43 EU](https://www.amazon.com/dp/B07FHDFZD1/?tag=redken08-20) con 36.49 de descuento por 34.9 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bbpRSGbqL._SL200_.jpg)](https://www.amazon.com/dp/B07FHDFZD1/?tag=redken08-20)
 

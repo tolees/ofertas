@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orofluido Original Champú Libre de Sulfa'
+title: 'Orofluido Original Champú Libre de Sulfa al 25.53 % de descuento'
 date: 2019/11/16 07:10:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ETiyAYixL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ETiyAYixL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Orofluido Original Champú Libre de Sulfatos Todo Tipo de Cabello 200 ml](https://www.amazon.com/dp/B00X5LAUQ0/?tag=redken08-20) a 5.95 EUR (original: 7.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Orofluido Original Champú Libre de Sulfatos Todo Tipo de Cabello 200 ml](https://www.amazon.com/dp/B00X5LAUQ0/?tag=redken08-20) a 5.95 EUR (original: 7.99 EUR) (25.53 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ETiyAYixL._SL200_.jpg)](https://www.amazon.com/dp/B00X5LAUQ0/?tag=redken08-20)
 
