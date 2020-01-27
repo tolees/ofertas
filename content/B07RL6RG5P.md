@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 42.86 % en FREDI Cámara IP Exterior Cámara de Vigil'
-date: 2020-01-10 21:31:39
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DBFAOH2kL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DBFAOH2kL._SL200_.jpg' ]
+date: 2020-01-27 10:47:25
+thumbnailImage: 'https://m.media-amazon.com/images/I/41DBFAOH2kL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41DBFAOH2kL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [FREDI Cámara IP Exterior Cámara de Vigilancia con IR Vision Nocturna  IP65 Impermeable Seguridad Inalámbrica Cámara HD 1080P /Audio Bidireccional/Detección de Movimiento](https://www.amazon.com/dp/B07RL6RG5P/?tag=redken08-20) con un 42.86 % de descuento con precio de oferta de 79.99 EUR (original: 139.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41DBFAOH2kL._SL200_.jpg)](https://www.amazon.com/dp/B07RL6RG5P/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41DBFAOH2kL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RL6RG5P/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07RL6RG5P/?tag=redken08-20)
 

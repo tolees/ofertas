@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en LEGO 60223 City Great Vehicles Harvester'
-date: 2020-01-24 09:19:13
+date: 2020-01-27 12:48:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jQCr4hHnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jQCr4hHnL._AC_._SL200_.jpg' ]
 comments: true
