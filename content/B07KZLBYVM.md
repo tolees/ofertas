@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KESOTO 1/12 Cama de Madera en Miniatura  al 44.44 % de descuento'
-date: 2020-01-24 10:25:28
+date: 2020-01-27 02:16:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BNzzziyJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BNzzziyJL._AC_._SL200_.jpg' ]
 comments: true

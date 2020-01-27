@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Tal al 55.01 % de descuento'
-date: 2020-01-21 18:48:19
+date: 2020-01-27 02:10:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Hara8stAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Hara8stAL._SL200_.jpg' ]
 comments: true

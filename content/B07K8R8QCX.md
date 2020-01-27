@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'infactory Bauspielzeug: Selbstklebendes  al 61.63 % de descuento'
-date: 2020-01-26 01:42:48
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lWilHwhtL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lWilHwhtL._SL200_.jpg' ]
+date: 2020-01-27 01:49:21
+thumbnailImage: 'https://m.media-amazon.com/images/I/51lWilHwhtL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51lWilHwhtL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [infactory Bauspielzeug: Selbstklebendes Spielbaustein-Tape für gängige Systeme  1 m  schwarz  Spielbaustein-Bänder ](https://www.amazon.com/dp/B07K8R8QCX/?tag=redken08-20) con 61.63 de descuento por 4.95 EUR (original: 12.9 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51lWilHwhtL._SL200_.jpg)](https://www.amazon.com/dp/B07K8R8QCX/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51lWilHwhtL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07K8R8QCX/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07K8R8QCX/?tag=redken08-20)
 

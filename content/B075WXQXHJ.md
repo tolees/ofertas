@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.88 % en L CARNITINA-Navit Plus. Complemento alim'
-date: 2020-01-26 02:01:35
+date: 2020-01-27 02:02:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IvuTE3b9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IvuTE3b9L._AC_._SL200_.jpg' ]
 comments: true
