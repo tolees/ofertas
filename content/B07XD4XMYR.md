@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'APEMAN A80 Cámara Deportiva 4K WiFi 20MP al 38.19 % de descuento'
-date: 2020-01-12 09:16:14
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512gtIU7U1L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512gtIU7U1L._SL200_.jpg' ]
+title: 'APEMAN A80 Cámara Deportiva 4K WiFi 20MP al 37.28 % de descuento'
+date: 2020-01-27 15:12:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/512gtIU7U1L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/512gtIU7U1L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07XD4XMYR
 description:
-actualPrice: 67.99 EUR
+actualPrice: 68.99 EUR
 comparePrice: 109.99 EUR
 inStock: true
 ---
 
-Está [APEMAN A80 Cámara Deportiva 4K WiFi 20MP Cámara de Video Acuática Agua de 40M Estabilización Giroscópica Modo de Submarinismo 2 baterías de 20 Accesorios con Estuche de Transporte](https://www.amazon.com/dp/B07XD4XMYR/?tag=redken08-20) con 38.19 de descuento por 67.99 EUR (original: 109.99 EUR) en el siguiente enlace!
+Está [APEMAN A80 Cámara Deportiva 4K WiFi 20MP Cámara de Video Acuática Agua de 40M Estabilización Giroscópica Modo de Submarinismo 2 baterías de 20 Accesorios con Estuche de Transporte](https://www.amazon.com/dp/B07XD4XMYR/?tag=redken08-20) con 37.28 de descuento por 68.99 EUR (original: 109.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/512gtIU7U1L._SL200_.jpg)](https://www.amazon.com/dp/B07XD4XMYR/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/512gtIU7U1L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07XD4XMYR/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07XD4XMYR/?tag=redken08-20)
 

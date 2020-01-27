@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Precision al 60.00 % de descuento'
-date: 2020-01-23 14:14:35
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ERFKhMqAL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ERFKhMqAL._SL200_.jpg' ]
+date: 2020-01-27 14:10:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/31WETsO5+OL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31WETsO5+OL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Precision](https://www.amazon.com/dp/B01HRF2LO8/?tag=redken08-20) con 60.00 de descuento por 21.98 EUR (original: 54.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ERFKhMqAL._SL200_.jpg)](https://www.amazon.com/dp/B01HRF2LO8/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31WETsO5+OL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01HRF2LO8/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01HRF2LO8/?tag=redken08-20)
 
