@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Samsung HW-N400 - Barra de Sonido inalám al 37.69 % de descuento'
-date: 2019/10/10 09:07:37 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RdnmtwRtL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RdnmtwRtL._SL200_.jpg' ]
+title: 'Samsung HW-N400  Barra de Sonido Inalámb al 36.19 % de descuento'
+date: 2020-01-27 08:39:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/31RdnmtwRtL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31RdnmtwRtL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07CHBNYQ1
 description:
-actualPrice: 124 EUR
-comparePrice: 199 EUR
+actualPrice: 126.99 EUR
+comparePrice: 199.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung HW-N400 - Barra de Sonido inalámbrica estéreo 2 Ch  Color Negro](https://www.amazon.com/dp/B07CHBNYQ1/?tag=redken08-20) a 124 EUR (original: 199 EUR) (37.69 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung HW-N400  Barra de Sonido Inalámbrica Estéreo 2 Ch  1  Negro](https://www.amazon.com/dp/B07CHBNYQ1/?tag=redken08-20) a 126.99 EUR (original: 199.0 EUR) (36.19 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31RdnmtwRtL._SL200_.jpg)](https://www.amazon.com/dp/B07CHBNYQ1/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31RdnmtwRtL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CHBNYQ1/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07CHBNYQ1/?tag=redken08-20)
 

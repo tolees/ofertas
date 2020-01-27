@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 55.71 % en Lego Movie Pijamas de Manga Corta para n'
-date: 2020-01-23 18:31:23
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZyeIC7TgL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZyeIC7TgL._SL200_.jpg' ]
+date: 2020-01-27 09:58:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ZyeIC7TgL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ZyeIC7TgL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Lego Movie Pijamas de Manga Corta para niños La Lego película Rojo 5-6 Años](https://www.amazon.com/dp/B07P6BV8XH/?tag=redken08-20) con un 55.71 % de descuento con precio de oferta de 7.95 EUR (original: 17.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ZyeIC7TgL._SL200_.jpg)](https://www.amazon.com/dp/B07P6BV8XH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ZyeIC7TgL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07P6BV8XH/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07P6BV8XH/?tag=redken08-20)
 

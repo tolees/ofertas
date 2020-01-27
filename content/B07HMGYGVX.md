@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AmazonBasics - Toallas de uso diario  2  al 37.54 % de descuento'
-date: 2020-01-24 20:50:57
+date: 2020-01-27 07:48:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lRxLoVRTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lRxLoVRTL._SL200_.jpg' ]
 comments: true
