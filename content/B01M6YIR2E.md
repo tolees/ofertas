@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Dead Redemption 2  Xbox One  al 59.29 % de descuento'
-date: 2020-01-26 16:04:36
+date: 2020-01-28 13:31:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zD9wnlzJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zD9wnlzJL._AC_._SL200_.jpg' ]
 comments: true

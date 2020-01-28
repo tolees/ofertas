@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.99 % en Philips L OR Barista LM8012/60 - Cafeter'
-date: 2020-01-27 10:19:41
+date: 2020-01-28 16:34:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HrU7YFjBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HrU7YFjBL._AC_._SL200_.jpg' ]
 comments: true

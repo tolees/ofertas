@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.85 % en IKOHS NETBOT S12 - Robot Aspirador 4 en '
-date: 2020-01-26 12:38:38
+date: 2020-01-28 17:04:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AH7mdWoBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AH7mdWoBL._AC_._SL200_.jpg' ]
 comments: true

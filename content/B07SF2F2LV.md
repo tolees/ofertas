@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G903 Lightspeed kabellose Gamin al 46.98 % de descuento'
-date: 2020-01-27 08:41:22
+date: 2020-01-28 12:39:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/315XMNDJkfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315XMNDJkfL._AC_._SL200_.jpg' ]
 comments: true

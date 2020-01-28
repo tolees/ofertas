@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Deik Juego de 5 Utensilios Antiadherente'
-date: 2020-01-26 14:02:33
+date: 2020-01-28 16:33:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mD8YyCUVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mD8YyCUVL._AC_._SL200_.jpg' ]
 comments: true

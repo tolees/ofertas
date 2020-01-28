@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.04 % en Lenovo 120S-14IAP - Ordenador portátil d'
-date: 2020-01-27 10:26:26
+date: 2020-01-28 13:03:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ge69ZK-DL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ge69ZK-DL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en LEGO 75254  Star Wars AT-ST-Räuber  Baus'
-date: 2020-01-25 17:37:18
+date: 2020-01-28 13:56:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JOcPKBUnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JOcPKBUnL._SL200_.jpg' ]
 comments: true

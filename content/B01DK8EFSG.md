@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Habor Cocina  Digital Termometro de Horn al 60.03 % de descuento'
-date: 2020-01-11 11:45:59
-thumbnailImage: 'None._SL200_'
-images: [ 'None._SL200_' ]
+date: 2020-01-28 14:14:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/31ysEkEKrJL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31ysEkEKrJL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Habor Cocina  Digital Termometro de Horno con Pincho de Acero Inoxidable  de 5s con Botón de ° C / ° F  Pantalla LCD  BBQ  Comida  Pavo  Caramelo  Leche  1 Pack  Negro  Metal](https://www.amazon.com/dp/B01DK8EFSG/?tag=redken08-20) a 7.99 EUR (original: 19.99 EUR) (60.03 %  de descuento) en el siguiente enlace!
 
-[![](None._SL200_)](https://www.amazon.com/dp/B01DK8EFSG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31ysEkEKrJL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01DK8EFSG/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01DK8EFSG/?tag=redken08-20)
 
