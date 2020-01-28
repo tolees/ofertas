@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Azur Performer Plus GC4516/40 -  al 31.66 % de descuento'
-date: 2020-01-27 07:09:15
+date: 2020-01-28 08:20:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mq38KljRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mq38KljRL._AC_._SL200_.jpg' ]
 comments: true

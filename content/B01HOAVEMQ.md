@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cadena solar de luces LED Salcar de 5 me al 45.05 % de descuento'
-date: 2020-01-06 17:17:13
+date: 2020-01-28 09:25:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518e5N-jeaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518e5N-jeaL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Poseidon Gold Eau de Toilette para Hombr al 29.20 % de descuento'
-date: 2020-01-26 21:48:30
+date: 2020-01-28 09:25:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CwzVJfBmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CwzVJfBmL._AC_._SL200_.jpg' ]
 comments: true
