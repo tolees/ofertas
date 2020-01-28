@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pinzas de Precisión Kit 12pcs Kieenass A al 40.02 % de descuento'
-date: 2020-01-06 15:47:42
+date: 2020-01-28 12:12:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uvD3TULUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uvD3TULUL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Rowenta Compact Power Cyclonic RO3753EA '
-date: 2020-01-24 21:50:20
+date: 2020-01-28 11:36:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/412gain9seL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412gain9seL._AC_._SL200_.jpg' ]
 comments: true

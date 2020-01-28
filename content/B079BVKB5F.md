@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'JACK & JONES Jjepaulos Polo SS Noos  Gri al 45.02 % de descuento'
-date: 2020-01-10 13:16:11
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gKxt%2BfFZL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gKxt%2BfFZL._SL200_.jpg' ]
+date: 2020-01-28 11:44:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/41u4XcVmmtL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41u4XcVmmtL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [JACK & JONES Jjepaulos Polo SS Noos  Gris  Dark Grey Detail: Slim Fit-Melange   Large para Hombre](https://www.amazon.com/dp/B079BVKB5F/?tag=redken08-20) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41gKxt%2BfFZL._SL200_.jpg)](https://www.amazon.com/dp/B079BVKB5F/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41u4XcVmmtL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B079BVKB5F/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B079BVKB5F/?tag=redken08-20)
 
