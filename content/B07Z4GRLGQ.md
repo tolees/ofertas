@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.01 % en Auriculares Cascos Gaming PS4 Gamer PC c'
-date: 2020-01-13 01:08:33
+date: 2020-01-27 20:27:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VzDkkhCbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VzDkkhCbL._SL200_.jpg' ]
 comments: true

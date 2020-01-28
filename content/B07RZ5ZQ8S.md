@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tefal First Cook - Set de sartenes Negro al 25.03 % de descuento'
-date: 2020-01-22 07:25:21
+date: 2020-01-27 20:26:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CiAV0DL%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CiAV0DL%2BL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rii K18 Plus -Teclado inalámbrico touchp al 45.56 % de descuento'
-date: 2020-01-13 01:03:11
+date: 2020-01-27 20:25:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e8tDeqdgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e8tDeqdgL._SL200_.jpg' ]
 comments: true

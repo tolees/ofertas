@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Descuento del 25.44 % en MEDION MD61266 - Ordenador portátil conv'
-date: 2020-01-23 21:11:12
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TfBrWwGZL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TfBrWwGZL._SL200_.jpg' ]
+date: 2020-01-27 18:27:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/31TfBrWwGZL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31TfBrWwGZL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NGTGBYY
 description:
-actualPrice: 469 EUR
-comparePrice: 629 EUR
+actualPrice: 469.0 EUR
+comparePrice: 629.0 EUR
 inStock: true
 ---
 
-Tienes [MEDION MD61266 - Ordenador portátil convertible de 14" Full HD  Intel Core i3-7020U  RAM de 8 GB DDR4  SSD de 256 GB  Intel Graphics  Windows 10 Home  Gris Titanium](https://www.amazon.com/dp/B07NGTGBYY/?tag=redken08-20) con un 25.44 % de descuento con precio de oferta de 469 EUR (original: 629 EUR) en el siguiente enlace!
+Tienes [MEDION MD61266 - Ordenador portátil convertible de 14" Full HD  Intel Core i3-7020U  RAM de 8 GB DDR4  SSD de 256 GB  Intel Graphics  Windows 10 Home  Gris Titanium](https://www.amazon.com/dp/B07NGTGBYY/?tag=redken08-20) con un 25.44 % de descuento con precio de oferta de 469.0 EUR (original: 629.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31TfBrWwGZL._SL200_.jpg)](https://www.amazon.com/dp/B07NGTGBYY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31TfBrWwGZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NGTGBYY/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07NGTGBYY/?tag=redken08-20)
 

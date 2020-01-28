@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en SanDisk Ultra Memoria Flash USB 3.0 de 1'
-date: 2020-01-25 14:38:56
+date: 2020-01-27 16:03:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CEA7ALWpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CEA7ALWpL._AC_._SL200_.jpg' ]
 comments: true

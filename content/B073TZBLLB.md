@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.96 % en Lego Star Wars Kinder FLANELL / BIBER Be'
-date: 2020-01-26 10:21:25
+date: 2020-01-27 18:26:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51x3EveX6BL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51x3EveX6BL._AC_._SL200_.jpg' ]
 comments: true

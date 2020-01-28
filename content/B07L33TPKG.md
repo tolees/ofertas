@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.29 % en Asics Gel-Fujitrabuco 7  Zapatillas de E'
-date: 2020-01-25 23:35:26
+date: 2020-01-27 16:13:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AWdugbLNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AWdugbLNL._AC_._SL200_.jpg' ]
 comments: true
