@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego de Tronos Puzzle 3D de Madera  56  al 31.90 % de descuento'
-date: 2020-01-26 18:31:49
+date: 2020-01-29 12:33:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/61YZI3xy-FL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61YZI3xy-FL._AC_._SL200_.jpg' ]
 comments: true

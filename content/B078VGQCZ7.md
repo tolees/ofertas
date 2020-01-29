@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Sony WFSP700NP.CE7 - Auriculares deporti al 42.50 % de descuento'
-date: 2019/11/18 16:04:06 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X4DX-BLhL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X4DX-BLhL._SL200_.jpg' ]
+title: 'Sony WFSP700NP.CE7 - Auriculares deporti al 34.49 % de descuento'
+date: 2020-01-29 14:08:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/31X4DX-BLhL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31X4DX-BLhL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B078VGQCZ7
 description:
-actualPrice: 115 EUR
-comparePrice: 200 EUR
+actualPrice: 131.02 EUR
+comparePrice: 200.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony WFSP700NP.CE7 - Auriculares deportivos totalmente inalámbricos  cancelación de ruido  modo sonido ambiente  Bluetooth    color rosa](https://www.amazon.com/dp/B078VGQCZ7/?tag=redken08-20) a 115 EUR (original: 200 EUR) (42.50 %  de descuento) en el siguiente enlace!
+Está [Sony WFSP700NP.CE7 - Auriculares deportivos totalmente inalámbricos  cancelación de ruido  modo sonido ambiente  Bluetooth    color rosa](https://www.amazon.com/dp/B078VGQCZ7/?tag=redken08-20) con 34.49 de descuento por 131.02 EUR (original: 200.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31X4DX-BLhL._SL200_.jpg)](https://www.amazon.com/dp/B078VGQCZ7/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31X4DX-BLhL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B078VGQCZ7/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B078VGQCZ7/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B078VGQCZ7/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

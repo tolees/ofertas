@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Popcat  Zapatos de Playa y Piscina  al 64.03 % de descuento'
-date: 2020-01-27 21:44:59
+date: 2020-01-29 12:44:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ebl2mQkNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ebl2mQkNL._AC_._SL200_.jpg' ]
 comments: true

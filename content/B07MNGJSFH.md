@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.14 % en Braun MGK7020 10 En 1 - Recortadora Barb'
-date: 2020-01-14 09:56:09
+date: 2020-01-29 12:44:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F2Vr%2B-P5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F2Vr%2B-P5L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Yoga 530-14ARR Portátil táctil Co al 33.33 % de descuento'
-date: 2020-01-28 09:22:57
+date: 2020-01-29 13:22:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31acB1ydXjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31acB1ydXjL._AC_._SL200_.jpg' ]
 comments: true

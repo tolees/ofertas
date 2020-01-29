@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Leg al 66.01 % de descuento'
-date: 2020-01-28 11:28:30
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Te al 64.45 % de descuento'
+date: 2020-01-28 19:05:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fh3GhoDPL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fh3GhoDPL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TWRWFF8
 description:
-actualPrice: 33.99 EUR
-comparePrice: 99.99 EUR
+actualPrice: 31.99 EUR
+comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Kit de Iluminación Led para Lego Technic Cargadora con Orugas  Compatible con Ladrillos de Construcción Lego Modelo 42094  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TWRWFF8/?tag=redken08-20) con 66.01 de descuento por 33.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Led Beleuchtungsset für Lego Technic Raupenlader  Kompatibel Mit Lego 42094 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TWRWFF8/?tag=redken08-20) con 64.45 de descuento por 31.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51fh3GhoDPL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TWRWFF8/?tag=redken08-20)
 

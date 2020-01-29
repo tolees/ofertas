@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech M330 Silent Plus Ratón Inalámbr al 54.34 % de descuento'
-date: 2020-01-21 16:44:51
+date: 2020-01-29 13:34:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iEF8PkyTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iEF8PkyTL._SL200_.jpg' ]
 comments: true
