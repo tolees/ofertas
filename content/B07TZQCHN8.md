@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego Id al 66.67 % de descuento'
-date: 2020-01-25 18:11:18
+title: 'BRIKSMAX Kit de Iluminación Led para Leg al 67.01 % de descuento'
+date: 2020-01-29 11:50:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dimpRDQaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dimpRDQaL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TZQCHN8
 description:
-actualPrice: 29.99 EUR
-comparePrice: 89.99 EUR
+actualPrice: 32.99 EUR
+comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Ideas Pop-Up-Buch  Kompatibel Mit Lego 21315 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TZQCHN8/?tag=redken08-20) a 29.99 EUR (original: 89.99 EUR) (66.67 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Ideas Libro Desplegable  Compatible con Ladrillos de Construcción Lego Modelo 21315  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TZQCHN8/?tag=redken08-20) a 32.99 EUR (original: 99.99 EUR) (67.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dimpRDQaL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TZQCHN8/?tag=redken08-20)
 

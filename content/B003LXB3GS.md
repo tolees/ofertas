@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.34 % en Westinghouse Lighting Vegas Ventilador d'
-date: 2020-01-28 17:37:18
+date: 2020-01-29 19:48:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31abKAiRdgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31abKAiRdgL._AC_._SL200_.jpg' ]
 comments: true

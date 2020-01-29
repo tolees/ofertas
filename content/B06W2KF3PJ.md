@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGOO Conjunto Básico de Iniciación Com al 54.07 % de descuento'
-date: 2020-01-25 13:05:07
+date: 2020-01-29 20:19:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/61ZtDiWTzrL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61ZtDiWTzrL._AC_._SL200_.jpg' ]
 comments: true

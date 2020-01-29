@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'WD My Passport - Disco Duro Portátil de  al 36.64 % de descuento'
-date: 2020-01-12 19:02:40
+title: 'Descuento del 49.65 % en WD My Passport 3 TB Portable Hard Drive '
+date: 2020-01-13 08:24:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B01LQQHBK8
 description:
-actualPrice: 95.04 EUR
-comparePrice: 149.99 EUR
+actualPrice: 69.99 GBP
+comparePrice: 139 GBP
 inStock: true
 ---
 
-Está [WD My Passport - Disco Duro Portátil de 3 TB y Software de Copia de Seguridad Automática  Negro](https://www.amazon.com/dp/B01LQQHBK8/?tag=redken08-20) con 36.64 de descuento por 95.04 EUR (original: 149.99 EUR) en el siguiente enlace!
+Tienes [WD My Passport 3 TB Portable Hard Drive and Auto Backup Software for PC  Xbox One and PlayStation 4 - Black](https://www.amazon.com/dp/B01LQQHBK8/?tag=redken08-20) con un 49.65 % de descuento con precio de oferta de 69.99 GBP (original: 139 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL._SL200_.jpg)](https://www.amazon.com/dp/B01LQQHBK8/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01LQQHBK8/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01LQQHBK8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

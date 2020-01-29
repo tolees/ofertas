@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Briksmax Ship in a Bottle Led Lighting K al 61.68 % de descuento'
-date: 2020-01-28 18:51:28
+title: 'BRIKSMAX Kit de Iluminación Led para Bar al 58.34 % de descuento'
+date: 2020-01-28 19:43:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+BJQZmofL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+BJQZmofL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KLZ2LWK
 description:
-actualPrice: 22.99 GBP
-comparePrice: 59.99 GBP
+actualPrice: 24.99 EUR
+comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Briksmax Ship in a Bottle Led Lighting Kit- Compatible with Lego 21313 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07KLZ2LWK/?tag=redken08-20) a 22.99 GBP (original: 59.99 GBP) (61.68 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Barco En Botella-Compatible con Ladrillos de Construcción Lego Modelo 21313  Juego de Legos no Incluido](https://www.amazon.com/dp/B07KLZ2LWK/?tag=redken08-20) a 24.99 EUR (original: 59.99 EUR) (58.34 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+BJQZmofL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KLZ2LWK/?tag=redken08-20)
 
