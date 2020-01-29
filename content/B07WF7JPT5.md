@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Asterix & Obelix XXL3: The Crystal Menhi al 30.53 % de descuento'
-date: 2019/12/15 22:50:42 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qjO6tMF9L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qjO6tMF9L._SL200_.jpg' ]
+title: 'ASTERIX Y OBELIX XXL 3 - THE CRYSTAL MEN al 37.28 % de descuento'
+date: 2020-01-29 09:07:19
+thumbnailImage: 'https://m.media-amazon.com/images/I/41qjO6tMF9L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41qjO6tMF9L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07WF7JPT5
 description:
-actualPrice: 55.57 EUR
+actualPrice: 50.17 EUR
 comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [Asterix & Obelix XXL3: The Crystal Menhir - Collectors Edition](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20) con 30.53 de descuento por 55.57 EUR (original: 79.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [ASTERIX Y OBELIX XXL 3 - THE CRYSTAL MENHIR COLLECTOR EDITION](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20) a 50.17 EUR (original: 79.99 EUR) (37.28 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41qjO6tMF9L._SL200_.jpg)](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41qjO6tMF9L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

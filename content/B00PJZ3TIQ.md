@@ -14,10 +14,10 @@ comparePrice: 11.13 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Durex Play Lubricante Base de Agua Original 50 ml](https://www.amazon.com/dp/B00PJZ3TIQ/?tag=redken08-20) a 7.08 EUR (original: 11.13 EUR) (36.39 %  de descuento) en el siguiente enlace!
+Está [Durex Play Lubricante Base de Agua Original 50 ml](https://www.amazon.com/dp/B00PJZ3TIQ/?tag=redken08-20) con 36.39 de descuento por 7.08 EUR (original: 11.13 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B00PJZ3TIQ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00PJZ3TIQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00PJZ3TIQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

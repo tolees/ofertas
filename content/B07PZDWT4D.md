@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 42472 5 Star Nun Collectible Figur al 49.45 % de descuento'
-date: 2020-01-27 09:26:48
+title: 'Funko 42472 5 Star Nun Collectible Figur al 51.25 % de descuento'
+date: 2020-01-29 10:44:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LTJSFB0JL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LTJSFB0JL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PZDWT4D
 description:
-actualPrice: 4.61 GBP
-comparePrice: 9.12 GBP
+actualPrice: 4.47 GBP
+comparePrice: 9.17 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 42472 5 Star Nun Collectible Figure  Multicolour](https://www.amazon.com/dp/B07PZDWT4D/?tag=redken08-20) a 4.61 GBP (original: 9.12 GBP) (49.45 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 42472 5 Star Nun Collectible Figure  Multicolour](https://www.amazon.com/dp/B07PZDWT4D/?tag=redken08-20) a 4.47 GBP (original: 9.17 GBP) (51.25 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LTJSFB0JL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07PZDWT4D/?tag=redken08-20)
 

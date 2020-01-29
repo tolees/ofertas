@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.70 % en Hitman 2 - Standard Edition'
-date: 2019/12/09 15:45:39 +0000
+date: 2020-01-29 09:23:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BVt9wSsBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BVt9wSsBL._SL200_.jpg' ]
 comments: true

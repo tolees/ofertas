@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.61 % en Logitech MK850 Performance 920-008228 - '
-date: 2020-01-27 19:39:23
+date: 2020-01-29 09:00:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gQCXOS0jL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gQCXOS0jL._AC_._SL200_.jpg' ]
 comments: true

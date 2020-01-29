@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Tab E7 TB-7104F 8GB  Tablet HD  P al 43.83 % de descuento'
-date: 2020-01-28 07:57:07
+date: 2020-01-29 08:39:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Q5ZbRK9LL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Q5ZbRK9LL._AC_._SL200_.jpg' ]
 comments: true
