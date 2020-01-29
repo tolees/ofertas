@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Tucano Guscio - Funda tipo libro con tap al 25.01 % de descuento'
-date: 2020-01-20 18:58:12
-thumbnailImage: 'None._SL200_'
-images: [ 'None._SL200_' ]
+date: 2020-01-29 00:07:51
+thumbnailImage: 'https://m.media-amazon.com/images/I/51HBhDWBYiL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51HBhDWBYiL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,9 +14,9 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tucano Guscio - Funda tipo libro con tapa extraíble  compatible con  iPad Air 1  iPad Air 2  iPad Pro 9 7"  y iPad 9 7" 2017 / 2018. Tapa negra y carcasa posterior transparente.](https://www.amazon.com/dp/B075DVQ1HD/?tag=redken08-20) a 29.92 EUR (original: 39.9 EUR) (25.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tucano Guscio - Funda tipo libro con tapa extraíble  compatible con  iPad Air 1  iPad Air 2  iPad Pro 9 7”  y iPad 9 7” 2017 / 2018. Tapa negra y carcasa posterior transparente.](https://www.amazon.com/dp/B075DVQ1HD/?tag=redken08-20) a 29.92 EUR (original: 39.9 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![](None._SL200_)](https://www.amazon.com/dp/B075DVQ1HD/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51HBhDWBYiL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B075DVQ1HD/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B075DVQ1HD/?tag=redken08-20)
 

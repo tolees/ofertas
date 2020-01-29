@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medisana HU 662 Calientacamas  150 x 80  al 51.63 % de descuento'
-date: 2020-01-26 07:46:00
+date: 2020-01-28 20:17:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lRgcUc1PL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lRgcUc1PL._AC_._SL200_.jpg' ]
 comments: true

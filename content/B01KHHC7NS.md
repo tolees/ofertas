@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yamaha MusicCast WX-010 - Altavoz Amplif al 41.42 % de descuento'
-date: 2020-01-20 08:44:16
+date: 2020-01-28 20:25:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415NkrLHdKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415NkrLHdKL._SL200_.jpg' ]
 comments: true

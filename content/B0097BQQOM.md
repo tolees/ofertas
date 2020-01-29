@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER MT300KA-QS Multiherramienta al 43.50 % de descuento'
-date: 2020-01-27 18:42:01
+date: 2020-01-28 20:18:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yLpI+xKeL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yLpI+xKeL._AC_._SL200_.jpg' ]
 comments: true

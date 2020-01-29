@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'TK.DILIGARM Look At You Becoming A Medic al 45.02 % de descuento'
-date: 2020-01-23 09:52:01
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gJEBZKS%2BL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gJEBZKS%2BL._SL200_.jpg' ]
+date: 2020-01-28 19:42:37
+thumbnailImage: 'https://m.media-amazon.com/images/I/41gJEBZKS+L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41gJEBZKS+L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [TK.DILIGARM Look At You Becoming A Medical Coder and Shit Coffee Mug  Programmer Mug - Funny Programming Gift for Men and Women - Gag Coffee Cup for Computer Coding - Best Themed Gift Idea for Coders](https://www.amazon.com/dp/B07MKL65JN/?tag=redken08-20) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41gJEBZKS%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07MKL65JN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41gJEBZKS+L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MKL65JN/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07MKL65JN/?tag=redken08-20)
 

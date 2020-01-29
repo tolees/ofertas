@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.37 % en Lenovo S145-15IWL - Ordenador portátil 1'
-date: 2020-01-27 14:12:27
+date: 2020-01-29 01:39:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w0dqpYMWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w0dqpYMWL._AC_._SL200_.jpg' ]
 comments: true

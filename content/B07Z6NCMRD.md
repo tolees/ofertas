@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.14 % en ASUS K543UA-GQ2698 - Portátil de 15 6" H'
-date: 2020-01-27 18:44:44
+date: 2020-01-29 02:52:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qT+5Iqj1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qT+5Iqj1L._AC_._SL200_.jpg' ]
 comments: true

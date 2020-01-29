@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola One Action - Smartphone Dual SI al 35.84 % de descuento'
-date: 2020-01-24 12:06:35
+date: 2020-01-28 22:29:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VjPi0mRmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VjPi0mRmL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP M180n - Impresora multifunción Color  al 26.03 % de descuento'
-date: 2020-01-26 12:39:59
+date: 2020-01-29 06:59:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/412qp-qU6ML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412qp-qU6ML._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HONOR Watch im klassischen Uhrendesign m al 31.29 % de descuento'
-date: 2019/10/29 20:35:59 +0000
+date: 2020-01-28 20:00:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SNoUcwEHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SNoUcwEHL._SL200_.jpg' ]
 comments: true

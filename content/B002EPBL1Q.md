@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Talisker 10 Whisky Escocés - 700 ml al 28.41 % de descuento'
-date: 2020-01-22 14:09:39
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oyPda0sBL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oyPda0sBL._SL200_.jpg' ]
+date: 2020-01-29 05:01:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/41oyPda0sBL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41oyPda0sBL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Talisker 10 Whisky Escocés - 700 ml](https://www.amazon.com/dp/B002EPBL1Q/?tag=redken08-20) a 32.35 EUR (original: 45.19 EUR) (28.41 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41oyPda0sBL._SL200_.jpg)](https://www.amazon.com/dp/B002EPBL1Q/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41oyPda0sBL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B002EPBL1Q/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B002EPBL1Q/?tag=redken08-20)
 

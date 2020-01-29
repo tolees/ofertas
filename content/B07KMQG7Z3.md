@@ -14,10 +14,10 @@ comparePrice: 15.38 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Cortina de ducha de PEVA de peso medio  paisaje urbano  183 x 183 cm](https://www.amazon.com/dp/B07KMQG7Z3/?tag=redken08-20) a 6.99 EUR (original: 15.38 EUR) (54.55 %  de descuento) en el siguiente enlace!
+Está [AmazonBasics - Cortina de ducha de PEVA de peso medio  paisaje urbano  183 x 183 cm](https://www.amazon.com/dp/B07KMQG7Z3/?tag=redken08-20) con 54.55 de descuento por 6.99 EUR (original: 15.38 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61xavpj2EIL._SL200_.jpg)](https://www.amazon.com/dp/B07KMQG7Z3/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KMQG7Z3/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KMQG7Z3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

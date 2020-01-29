@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remington AC9096 Silk - Secador de Pelo  al 35.53 % de descuento'
-date: 2019/12/30 17:58:06 +0000
+date: 2020-01-28 20:32:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m2lDqEcvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m2lDqEcvL._SL200_.jpg' ]
 comments: true

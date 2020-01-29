@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games Star Wars - Tantive al 50.17 % de descuento'
-date: 2020-01-23 09:52:16
+date: 2020-01-28 19:49:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UVmEsifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413UVmEsifL._SL200_.jpg' ]
 comments: true

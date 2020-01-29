@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Hurley M DRI-FIT Breathe 19  Bermudas  H al 79.91 % de descuento'
-date: 2020-01-15 12:22:30
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kVZWVN9NL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kVZWVN9NL._SL200_.jpg' ]
+title: 'Hurley M DRI-FIT Breathe 19  Bermudas  H al 46.51 % de descuento'
+date: 2020-01-28 18:01:47
+thumbnailImage: 'https://m.media-amazon.com/images/I/41TO4PDTdLL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41TO4PDTdLL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B076FFVLYW
 description:
-actualPrice: 11.05 EUR
-comparePrice: 55 EUR
+actualPrice: 29.42 EUR
+comparePrice: 55.0 EUR
 inStock: true
 ---
 
-Está [Hurley M DRI-FIT Breathe 19  Bermudas  Hombre  Negro  28](https://www.amazon.com/dp/B076FFVLYW/?tag=redken08-20) con 79.91 de descuento por 11.05 EUR (original: 55 EUR) en el siguiente enlace!
+Está [Hurley M DRI-FIT Breathe 19  Bermudas  Hombre  Negro  28](https://www.amazon.com/dp/B076FFVLYW/?tag=redken08-20) con 46.51 de descuento por 29.42 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51kVZWVN9NL._SL200_.jpg)](https://www.amazon.com/dp/B076FFVLYW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41TO4PDTdLL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B076FFVLYW/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B076FFVLYW/?tag=redken08-20)
 

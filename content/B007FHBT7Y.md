@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 1-79-206 - Taller movil modular al 35.29 % de descuento'
-date: 2020-01-27 16:10:50
+date: 2020-01-28 20:18:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41m2xzbCMdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41m2xzbCMdL._AC_._SL200_.jpg' ]
 comments: true

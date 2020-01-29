@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 44418 POP Holiday-Santa Claus Coll al 45.47 % de descuento'
-date: 2020-01-27 17:31:12
+date: 2020-01-28 18:42:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg' ]
 comments: true

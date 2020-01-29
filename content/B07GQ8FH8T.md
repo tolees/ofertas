@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.29 % en Bosch TAS1006 Tassimo Happy Cafetera Mon'
-date: 2020-01-19 18:47:17
+date: 2020-01-28 20:34:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZkFWgNKEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZkFWgNKEL._SL200_.jpg' ]
 comments: true

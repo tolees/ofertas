@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.99 % en Wrangler ICONS Camisa Vaquera  Azul  1 Y'
-date: 2020-01-25 11:07:51
+date: 2020-01-28 20:28:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JI9BN23wL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JI9BN23wL._AC_._SL200_.jpg' ]
 comments: true
