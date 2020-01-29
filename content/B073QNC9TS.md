@@ -14,10 +14,10 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s The Pocket tee Camiseta  Blanco  Corydalis Marshmallow Knit 70   Medium para Mujer](https://www.amazon.com/dp/B073QNC9TS/?tag=redken08-20) a 15.24 EUR (original: 30 EUR) (49.20 %  de descuento) en el siguiente enlace!
+Está [Levi s The Pocket tee Camiseta  Blanco  Corydalis Marshmallow Knit 70   Medium para Mujer](https://www.amazon.com/dp/B073QNC9TS/?tag=redken08-20) con 49.20 de descuento por 15.24 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-439JSWtL._SL200_.jpg)](https://www.amazon.com/dp/B073QNC9TS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B073QNC9TS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B073QNC9TS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

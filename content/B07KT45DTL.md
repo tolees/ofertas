@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.01 % en Mini Altavoz con Forma de Coche Colorido'
-date: 2020-01-27 11:25:10
+date: 2020-01-29 15:42:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PMTU-Q-CL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PMTU-Q-CL._AC_._SL200_.jpg' ]
 comments: true

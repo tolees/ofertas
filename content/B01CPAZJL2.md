@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 68.67 % en Haribo Torcidas Geles Dulces - 300 gr'
-date: 2020-01-24 18:40:24
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Zu3OgjSL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Zu3OgjSL._SL200_.jpg' ]
+date: 2020-01-29 15:47:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/413Zu3OgjSL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/413Zu3OgjSL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Haribo Torcidas Geles Dulces - 300 gr](https://www.amazon.com/dp/B01CPAZJL2/?tag=redken08-20) con un 68.67 % de descuento con precio de oferta de 2.66 EUR (original: 8.49 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/413Zu3OgjSL._SL200_.jpg)](https://www.amazon.com/dp/B01CPAZJL2/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/413Zu3OgjSL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01CPAZJL2/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01CPAZJL2/?tag=redken08-20)
 

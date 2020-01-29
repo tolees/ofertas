@@ -14,10 +14,10 @@ comparePrice: 349 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Constantin Durmont Calendar - Reloj analógico de caballero automático con correa de piel marrón - sumergible a 30 metros](https://www.amazon.com/dp/B005DKKA6G/?tag=redken08-20) a 78.7 EUR (original: 349 EUR) (77.45 %  de descuento) en el siguiente enlace!
+Está [Constantin Durmont Calendar - Reloj analógico de caballero automático con correa de piel marrón - sumergible a 30 metros](https://www.amazon.com/dp/B005DKKA6G/?tag=redken08-20) con 77.45 de descuento por 78.7 EUR (original: 349 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51sH70f3RfL._SL200_.jpg)](https://www.amazon.com/dp/B005DKKA6G/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B005DKKA6G/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B005DKKA6G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
