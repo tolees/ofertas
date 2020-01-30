@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tectonic 41-6103-14 - Reloj de cuarzo un al 74.98 % de descuento'
-date: 2020-01-24 09:44:24
+date: 2020-01-30 08:01:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PrDt7OLYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PrDt7OLYL._AC_._SL200_.jpg' ]
 comments: true

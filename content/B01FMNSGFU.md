@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KAPORAL Nodus Abrigo  Gris  2XL para Hom al 48.31 % de descuento'
-date: 2020-01-27 15:42:35
+date: 2020-01-30 08:56:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fcnGZ64gL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fcnGZ64gL._AC_._SL200_.jpg' ]
 comments: true
