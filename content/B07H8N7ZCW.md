@@ -14,10 +14,10 @@ comparePrice: 30.62 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kérastase  Champú y acondicionador - 1 unidad](https://www.amazon.com/dp/B07H8N7ZCW/?tag=redken08-20) a 19.42 EUR (original: 30.62 EUR) (36.58 %  de descuento) en el siguiente enlace!
+Está [Kérastase  Champú y acondicionador - 1 unidad](https://www.amazon.com/dp/B07H8N7ZCW/?tag=redken08-20) con 36.58 de descuento por 19.42 EUR (original: 30.62 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xzeHFJWeL._SL200_.jpg)](https://www.amazon.com/dp/B07H8N7ZCW/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07H8N7ZCW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07H8N7ZCW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

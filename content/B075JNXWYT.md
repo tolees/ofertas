@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Barbero MG3730/15 - Recortador d al 34.01 % de descuento'
-date: 2020-01-27 22:39:58
+date: 2020-01-30 11:24:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kygZHhy0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kygZHhy0L._AC_._SL200_.jpg' ]
 comments: true

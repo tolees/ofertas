@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.05 % en Google Wifi - Router inalámbrico  3 Pack'
-date: 2020-01-29 10:27:12
+date: 2020-01-30 12:41:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/212yuX23jeL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/212yuX23jeL._AC_._SL200_.jpg' ]
 comments: true

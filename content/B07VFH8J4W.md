@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'OBEEII Vestidos Niñas Fiesta Bordado de  al 51.15 % de descuento'
-date: 2020-01-28 19:50:44
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EOvx%2BH6qL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EOvx%2BH6qL._SL200_.jpg' ]
+date: 2020-01-30 11:24:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/41EOvx+H6qL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41EOvx+H6qL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [OBEEII Vestidos Niñas Fiesta Bordado de Tul para Fiesta Comunion Vestido de Princesa Cumpleaños Cóctel Ceremonia Boda Prom Morado 3-4 Años](https://www.amazon.com/dp/B07VFH8J4W/?tag=redken08-20) con 51.15 de descuento por 14.65 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41EOvx%2BH6qL._SL200_.jpg)](https://www.amazon.com/dp/B07VFH8J4W/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41EOvx+H6qL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07VFH8J4W/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07VFH8J4W/?tag=redken08-20)
 

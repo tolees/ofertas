@@ -14,10 +14,10 @@ comparePrice: 159.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ergobaby 360 - Mochila portabebé  color negro](https://www.amazon.com/dp/B00I6IGG1A/?tag=redken08-20) a 98.92 EUR (original: 159.9 EUR) (38.14 %  de descuento) en el siguiente enlace!
+Está [Ergobaby 360 - Mochila portabebé  color negro](https://www.amazon.com/dp/B00I6IGG1A/?tag=redken08-20) con 38.14 de descuento por 98.92 EUR (original: 159.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51B7vRnhuHL._SL200_.jpg)](https://www.amazon.com/dp/B00I6IGG1A/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00I6IGG1A/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00I6IGG1A/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

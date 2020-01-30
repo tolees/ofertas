@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Flymo Hover Vac 280 Electric Hover Colle al 56.24 % de descuento'
-date: 2020-01-29 12:09:47
+date: 2020-01-30 12:39:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+98llFXBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+98llFXBL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Puma Turin Ii Zapatillas Unisex adulto   al 49.95 % de descuento'
-date: 2020-01-10 09:28:38
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL200_.jpg' ]
+date: 2020-01-30 10:26:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/41U6TWsEtDL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41U6TWsEtDL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Puma Turin Ii Zapatillas Unisex adulto  Azul  Peacoat-Puma White 5   44.5 EU  10 UK ](https://www.amazon.com/dp/B07DCDKZLS/?tag=redken08-20) con 49.95 de descuento por 27.5 EUR (original: 54.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL200_.jpg)](https://www.amazon.com/dp/B07DCDKZLS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41U6TWsEtDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DCDKZLS/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07DCDKZLS/?tag=redken08-20)
 
