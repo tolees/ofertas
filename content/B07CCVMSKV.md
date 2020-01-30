@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Acolchado Papel Higiénico - 63 r al 30.01 % de descuento'
-date: 2020-01-29 07:58:44
+date: 2020-01-30 14:25:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VaP0h0v2L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VaP0h0v2L._AC_._SL200_.jpg' ]
 comments: true

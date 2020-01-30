@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borderlands 3 - Edición Estándar  PlaySt al 25.23 % de descuento'
-date: 2020-01-28 08:43:17
+date: 2020-01-30 13:17:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51E+B-k76lL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51E+B-k76lL._AC_._SL200_.jpg' ]
 comments: true

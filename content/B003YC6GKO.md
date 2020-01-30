@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Paco Rabanne Lady Million Agua de perfum al 44.02 % de descuento'
-date: 2020-01-27 15:36:44
-thumbnailImage: 'https://m.media-amazon.com/images/I/41lyAhAJI6L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41lyAhAJI6L._AC_._SL200_.jpg' ]
+date: 2020-01-30 13:33:02
+thumbnailImage: 'https://m.media-amazon.com/images/I/419y5T4nR5L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/419y5T4nR5L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Paco Rabanne Lady Million Agua de perfume Vaporizador 30 ml](https://www.amazon.com/dp/B003YC6GKO/?tag=redken08-20) a 29.95 EUR (original: 53.5 EUR) (44.02 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41lyAhAJI6L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B003YC6GKO/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/419y5T4nR5L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B003YC6GKO/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B003YC6GKO/?tag=redken08-20)
 

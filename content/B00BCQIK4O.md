@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.42 % en Philips DryCare Advanced HP8232/00 Secad'
-date: 2020-01-29 13:08:27
+date: 2020-01-30 16:26:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w5GPGXf-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w5GPGXf-L._AC_._SL200_.jpg' ]
 comments: true

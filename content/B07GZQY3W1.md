@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Refrigerador de aire acondicionado  manó al 46.03 % de descuento'
-date: 2020-01-28 17:42:28
+date: 2020-01-30 16:43:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51r4GFRceXL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51r4GFRceXL._AC_._SL200_.jpg' ]
 comments: true
