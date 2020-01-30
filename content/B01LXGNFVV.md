@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 9003 Super 4 Skyjet with Dr. X al 53.84 % de descuento'
-date: 2020-01-25 01:35:50
+title: 'Playmobil 9003 Super 4 Skyjet with Dr. X al 54.24 % de descuento'
+date: 2020-01-30 02:47:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/61Yn9cdJcyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61Yn9cdJcyL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01LXGNFVV
 description:
-actualPrice: 6.92 GBP
+actualPrice: 6.86 GBP
 comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil 9003 Super 4 Skyjet with Dr. X and Robot](https://www.amazon.com/dp/B01LXGNFVV/?tag=redken08-20) a 6.92 GBP (original: 14.99 GBP) (53.84 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Playmobil 9003 Super 4 Skyjet with Dr. X and Robot](https://www.amazon.com/dp/B01LXGNFVV/?tag=redken08-20) a 6.86 GBP (original: 14.99 GBP) (54.24 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61Yn9cdJcyL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01LXGNFVV/?tag=redken08-20)
 

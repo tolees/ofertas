@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lüfterloser Mini-PC-Stick Windows 10 Pro al 35.30 % de descuento'
-date: 2020-01-28 11:59:43
+date: 2020-01-30 02:43:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hKbl5nVaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hKbl5nVaL._AC_._SL200_.jpg' ]
 comments: true

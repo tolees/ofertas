@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 39.96 % en Medisana PM 100 Oxímetro de pulso  medic'
-date: 2019/12/26 13:02:58 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BFg3iAo2L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BFg3iAo2L._SL200_.jpg' ]
+title: 'Descuento del 37.73 % en Medisana PM 100 Oxímetro de pulso  medic'
+date: 2020-01-30 06:02:45
+thumbnailImage: 'https://m.media-amazon.com/images/I/31BFg3iAo2L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31BFg3iAo2L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00NWUVL5S
 description:
-actualPrice: 26.99 EUR
+actualPrice: 27.99 EUR
 comparePrice: 44.95 EUR
 inStock: true
 ---
 
-Tienes [Medisana PM 100 Oxímetro de pulso  medición de la saturación de oxígeno en sangre  oxímetro de pulso de dedo con pantalla OLED y operación con una sola pulsación](https://www.amazon.com/dp/B00NWUVL5S/?tag=redken08-20) con un 39.96 % de descuento con precio de oferta de 26.99 EUR (original: 44.95 EUR) en el siguiente enlace!
+Tienes [Medisana PM 100 Oxímetro de pulso  medición de la saturación de oxígeno en sangre  oxímetro de pulso de dedo con pantalla OLED y operación con una sola pulsación](https://www.amazon.com/dp/B00NWUVL5S/?tag=redken08-20) con un 37.73 % de descuento con precio de oferta de 27.99 EUR (original: 44.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31BFg3iAo2L._SL200_.jpg)](https://www.amazon.com/dp/B00NWUVL5S/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31BFg3iAo2L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00NWUVL5S/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00NWUVL5S/?tag=redken08-20)
 
