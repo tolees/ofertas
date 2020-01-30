@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Descuento del 52.91 % en Panama Jack Tania  Botas Altas para Muje'
-date: 2020-01-11 10:08:30
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HIi4iJSaL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HIi4iJSaL._SL200_.jpg' ]
+date: 2020-01-30 18:54:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/41IDBsCGyWL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41IDBsCGyWL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07DLXKKZ1
 description:
-actualPrice: 89 EUR
-comparePrice: 189 EUR
+actualPrice: 89.0 EUR
+comparePrice: 189.0 EUR
 inStock: true
 ---
 
-Tienes [Panama Jack Tania  Botas Altas para Mujer  Azul  Marino B31   36 EU](https://www.amazon.com/dp/B07DLXKKZ1/?tag=redken08-20) con un 52.91 % de descuento con precio de oferta de 89 EUR (original: 189 EUR) en el siguiente enlace!
+Tienes [Panama Jack Tania  Botas Altas para Mujer  Azul  Marino B31   36 EU](https://www.amazon.com/dp/B07DLXKKZ1/?tag=redken08-20) con un 52.91 % de descuento con precio de oferta de 89.0 EUR (original: 189.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41HIi4iJSaL._SL200_.jpg)](https://www.amazon.com/dp/B07DLXKKZ1/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41IDBsCGyWL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DLXKKZ1/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07DLXKKZ1/?tag=redken08-20)
 

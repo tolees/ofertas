@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Logitech MX Master 2S - Ratón inalámbric al 47.83 % de descuento'
-date: 2020-01-29 12:03:09
+title: 'Logitech MX Master 2S Ratón inalámbrico  al 47.83 % de descuento'
+date: 2020-01-30 18:36:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qc6XU1MWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qc6XU1MWL._AC_._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 114.99 EUR
 inStock: true
 ---
 
-Está [Logitech MX Master 2S - Ratón inalámbrico con Bluetooth para Mac y Windows  Grafito](https://www.amazon.com/dp/B071KZS3MF/?tag=redken08-20) con 47.83 de descuento por 59.99 EUR (original: 114.99 EUR) en el siguiente enlace!
+Está [Logitech MX Master 2S Ratón inalámbrico  Múltiples Dispositivos  Bluetooth o 2.4GHz  Receptor USB Unifying  4000 DPI Seguimiento en Cualquier Superficie  7 Botones  PC/Mac/i Pad OS Flounder](https://www.amazon.com/dp/B071KZS3MF/?tag=redken08-20) con 47.83 de descuento por 59.99 EUR (original: 114.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qc6XU1MWL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B071KZS3MF/?tag=redken08-20)
 

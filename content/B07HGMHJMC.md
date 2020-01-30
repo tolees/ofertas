@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Lenovo Ideapad 530S-14IKB - Ordenador po'
-date: 2020-01-27 12:47:07
+date: 2020-01-30 20:27:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/418v+Yi8E9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418v+Yi8E9L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme  Portable SSD  hasta 550 al 39.71 % de descuento'
-date: 2020-01-29 17:55:52
+date: 2020-01-30 20:14:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ce7LVtXnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ce7LVtXnL._AC_._SL200_.jpg' ]
 comments: true

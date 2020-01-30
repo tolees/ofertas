@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 84.98 % en Lego DC Super-Villanos PlayStation 4  Ed'
-date: 2020-01-29 15:05:42
+date: 2020-01-30 18:24:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51opabohBPL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51opabohBPL._AC_._SL200_.jpg' ]
 comments: true

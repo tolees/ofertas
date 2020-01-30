@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 44.20 % en Ron Zacapa Centenario Royal Solera Gran '
-date: 2020-01-22 15:55:00
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310d9G3imDL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310d9G3imDL._SL200_.jpg' ]
+date: 2020-01-30 18:55:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/310d9G3imDL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/310d9G3imDL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Ron Zacapa Centenario Royal Solera Gran Reserva Especial - 700 ml](https://www.amazon.com/dp/B01M29RYKS/?tag=redken08-20) con un 44.20 % de descuento con precio de oferta de 162.48 EUR (original: 291.19 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/310d9G3imDL._SL200_.jpg)](https://www.amazon.com/dp/B01M29RYKS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/310d9G3imDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01M29RYKS/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01M29RYKS/?tag=redken08-20)
 

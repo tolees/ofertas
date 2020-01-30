@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clips 539-6000-44 - Reloj de Pulsera Hom al 74.70 % de descuento'
-date: 2020-01-29 18:59:03
+date: 2020-01-30 20:19:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/412tmg8TvfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412tmg8TvfL._AC_._SL200_.jpg' ]
 comments: true

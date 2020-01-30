@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto G7 Plus - Smartphone Andro al 33.44 % de descuento'
-date: 2020-01-28 17:58:56
+date: 2020-01-30 18:07:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fJYEYQaqL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fJYEYQaqL._AC_._SL200_.jpg' ]
 comments: true
