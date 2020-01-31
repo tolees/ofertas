@@ -14,10 +14,10 @@ comparePrice: 89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Panasonic ER-GB80-S503 - Cortapelos impermeable con Peine-Guía 3 en 1 barba  cabello y cuerpo  recargable  acero inoxidable  lavable  batería larga duración  39 ajustes  3 peines incluidos   plata](https://www.amazon.com/dp/B00NIOCCEC/?tag=redken08-20) a 55.59 EUR (original: 89 EUR) (37.54 %  de descuento) en el siguiente enlace!
+Está [Panasonic ER-GB80-S503 - Cortapelos impermeable con Peine-Guía 3 en 1 barba  cabello y cuerpo  recargable  acero inoxidable  lavable  batería larga duración  39 ajustes  3 peines incluidos   plata](https://www.amazon.com/dp/B00NIOCCEC/?tag=redken08-20) con 37.54 de descuento por 55.59 EUR (original: 89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51qApDpkhvL._SL200_.jpg)](https://www.amazon.com/dp/B00NIOCCEC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00NIOCCEC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00NIOCCEC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 6.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [OTB Akku für Fuji NP-40 / Pentax D-LI85 / Samsung SLB-0737/0837 Li-Ion  600 mAh Schwarz](https://www.amazon.com/dp/B01M0IRNJQ/?tag=redken08-20) a 4.38 EUR (original: 6.99 EUR) (37.34 %  de descuento) en el siguiente enlace!
+Está [OTB Akku für Fuji NP-40 / Pentax D-LI85 / Samsung SLB-0737/0837 Li-Ion  600 mAh Schwarz](https://www.amazon.com/dp/B01M0IRNJQ/?tag=redken08-20) con 37.34 de descuento por 4.38 EUR (original: 6.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nQYVo8XEL._SL200_.jpg)](https://www.amazon.com/dp/B01M0IRNJQ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01M0IRNJQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01M0IRNJQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

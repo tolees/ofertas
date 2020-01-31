@@ -14,10 +14,10 @@ comparePrice: 33.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pop Deluxe: Star Wars The Rise of Skywalker-Supreme Leader Kylo REN Disney Figura Coleccionable  Multicolor  39914 ](https://www.amazon.com/dp/B07QTD66QS/?tag=redken08-20) a 23.69 EUR (original: 33.95 EUR) (30.22 %  de descuento) en el siguiente enlace!
+Está [Funko- Pop Deluxe: Star Wars The Rise of Skywalker-Supreme Leader Kylo REN Disney Figura Coleccionable  Multicolor  39914 ](https://www.amazon.com/dp/B07QTD66QS/?tag=redken08-20) con 30.22 de descuento por 23.69 EUR (original: 33.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41TKqby3HvL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07QTD66QS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07QTD66QS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07QTD66QS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
