@@ -14,10 +14,10 @@ comparePrice: 19.88 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cellini CRU grappa  1 x 0 7 l ](https://www.amazon.com/dp/B009VHWYWA/?tag=redken08-20) a 12.82 EUR (original: 19.88 EUR) (35.51 %  de descuento) en el siguiente enlace!
+Está [Cellini CRU grappa  1 x 0 7 l ](https://www.amazon.com/dp/B009VHWYWA/?tag=redken08-20) con 35.51 de descuento por 12.82 EUR (original: 19.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31fpnCS66eL._SL200_.jpg)](https://www.amazon.com/dp/B009VHWYWA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B009VHWYWA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B009VHWYWA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

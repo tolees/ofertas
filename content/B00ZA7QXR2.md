@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crock-Pot CSC025X Olla de cocción Lenta  al 28.78 % de descuento'
-date: 2020-01-29 21:35:36
+date: 2020-01-31 09:12:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/419hIZeg8xL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419hIZeg8xL._AC_._SL200_.jpg' ]
 comments: true

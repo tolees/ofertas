@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.58 % en Scottex Original Papel Higiénico - 96 Ro'
-date: 2020-01-29 17:23:42
+date: 2020-01-31 08:14:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/516wKVfyS9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516wKVfyS9L._AC_._SL200_.jpg' ]
 comments: true

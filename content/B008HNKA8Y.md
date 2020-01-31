@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Los Vengadores  3D + Blu-ray  [Blu-ray] al 59.37 % de descuento'
-date: 2019/12/12 21:28:14 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DjR0WQR2L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DjR0WQR2L._SL200_.jpg' ]
+date: 2020-01-31 09:32:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/51DjR0WQR2L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51DjR0WQR2L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Los Vengadores  3D + Blu-ray  [Blu-ray]](https://www.amazon.com/dp/B008HNKA8Y/?tag=redken08-20) con 59.37 de descuento por 12.17 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51DjR0WQR2L._SL200_.jpg)](https://www.amazon.com/dp/B008HNKA8Y/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51DjR0WQR2L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B008HNKA8Y/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B008HNKA8Y/?tag=redken08-20)
 

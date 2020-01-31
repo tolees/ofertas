@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Umi. Essentials - Auriculares de botón i al 70.02 % de descuento'
-date: 2019/12/22 09:08:46 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ughOAhmoL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ughOAhmoL._SL200_.jpg' ]
+title: 'Umi. by Amazon - Auriculares de botón in al 67.02 % de descuento'
+date: 2020-01-31 08:57:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ughOAhmoL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ughOAhmoL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07N3TYDWG
 description:
-actualPrice: 29.98 EUR
+actualPrice: 32.98 EUR
 comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [Umi. Essentials - Auriculares de botón inalámbricos  TWS  W5s con Bluetooth 5.0 y certificación IPX7 compatibles con iPhone Samsung Huawei y Estuche metálico con Base de Carga  Rojo ](https://www.amazon.com/dp/B07N3TYDWG/?tag=redken08-20) con 70.02 de descuento por 29.98 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [Umi. by Amazon - Auriculares de botón inalámbricos  TWS  W5s con Bluetooth 5.0 y certificación IPX7 compatibles con iPhone  Samsung  Huawei y estuche metálico con base de carga  rojo ](https://www.amazon.com/dp/B07N3TYDWG/?tag=redken08-20) con 67.02 de descuento por 32.98 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ughOAhmoL._SL200_.jpg)](https://www.amazon.com/dp/B07N3TYDWG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ughOAhmoL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07N3TYDWG/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07N3TYDWG/?tag=redken08-20)
 
