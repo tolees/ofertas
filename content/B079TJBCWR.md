@@ -14,10 +14,10 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko Pop!- 30850 Deadpool Figura de Vinilo  Multicolor](https://www.amazon.com/dp/B079TJBCWR/?tag=redken08-20) con 28.55 de descuento por 10.71 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop!- 30850 Deadpool Figura de Vinilo  Multicolor](https://www.amazon.com/dp/B079TJBCWR/?tag=redken08-20) a 10.71 EUR (original: 14.99 EUR) (28.55 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41z59c47HUL._SL200_.jpg)](https://www.amazon.com/dp/B079TJBCWR/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B079TJBCWR/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B079TJBCWR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

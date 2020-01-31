@@ -14,10 +14,10 @@ comparePrice: 145 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste L821S 220 52 Gafas de Sol  Rose Havana  Unisex-niños](https://www.amazon.com/dp/B01KXG0X8E/?tag=redken08-20) a 58.06 EUR (original: 145 EUR) (59.96 %  de descuento) en el siguiente enlace!
+Está [Lacoste L821S 220 52 Gafas de Sol  Rose Havana  Unisex-niños](https://www.amazon.com/dp/B01KXG0X8E/?tag=redken08-20) con 59.96 de descuento por 58.06 EUR (original: 145 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41f-CEqUWpL._SL200_.jpg)](https://www.amazon.com/dp/B01KXG0X8E/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01KXG0X8E/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01KXG0X8E/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
