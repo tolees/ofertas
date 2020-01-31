@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 38.47 % en BRIKSMAX Technic Porsche 911 GT3 RS Led '
-date: 2020-01-27 02:00:15
+title: 'Descuento del 61.44 % en BRIKSMAX Technic Porsche 911 GT3 RS Led '
+date: 2020-01-28 09:40:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ag6+OieDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ag6+OieDL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KWNX9R7
 description:
-actualPrice: 39.99 EUR
-comparePrice: 64.99 EUR
+actualPrice: 26.99 GBP
+comparePrice: 69.99 GBP
 inStock: true
 ---
 
-Tienes [BRIKSMAX Technic Porsche 911 GT3 RS Led Beleuchtungsset - Kompatibel Mit Lego 42056 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07KWNX9R7/?tag=redken08-20) con un 38.47 % de descuento con precio de oferta de 39.99 EUR (original: 64.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX Technic Porsche 911 GT3 RS Led Lighting Kit- Compatible with Lego 42056 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07KWNX9R7/?tag=redken08-20) con un 61.44 % de descuento con precio de oferta de 26.99 GBP (original: 69.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Ag6+OieDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KWNX9R7/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG XBOOM PK5 - Altavoz Portátil  20 W  I al 60.06 % de descuento'
-date: 2019/10/26 07:35:49 +0000
+date: 2020-01-30 22:33:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415Ut5CCisL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415Ut5CCisL._SL200_.jpg' ]
 comments: true

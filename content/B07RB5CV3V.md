@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.45 % en PUMA Originals Gym Sack Bolsa De Cuerdas'
-date: 2020-01-27 08:44:12
+date: 2020-01-31 00:21:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ICd4YX3+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ICd4YX3+L._AC_._SL200_.jpg' ]
 comments: true

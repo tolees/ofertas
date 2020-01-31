@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXX Technik Bausteine Auto Jeep Wrangler al 50.00 % de descuento'
-date: 2020-01-29 19:25:59
+date: 2020-01-30 22:53:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qrU50nw4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qrU50nw4L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Willful Smartwatch  Reloj Inteligente An al 66.17 % de descuento'
-date: 2020-01-30 01:15:43
+date: 2020-01-31 02:01:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n-wdFRreL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n-wdFRreL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.84 % en Motorola One Action - Smartphone Dual SI'
-date: 2020-01-29 23:01:10
+date: 2020-01-31 01:06:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VjPi0mRmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VjPi0mRmL._AC_._SL200_.jpg' ]
 comments: true

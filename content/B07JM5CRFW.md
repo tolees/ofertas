@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL City Life 70048 Rettungsheliko al 29.64 % de descuento'
-date: 2020-01-29 19:33:31
+date: 2020-01-30 23:01:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cRnXCd1TL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cRnXCd1TL._AC_._SL200_.jpg' ]
 comments: true

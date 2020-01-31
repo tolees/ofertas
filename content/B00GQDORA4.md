@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.09 % en Rode VideoMic Go - Micrófono de condensa'
-date: 2020-01-25 15:55:18
+date: 2020-01-31 00:06:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kerKnHO0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kerKnHO0L._AC_._SL200_.jpg' ]
 comments: true

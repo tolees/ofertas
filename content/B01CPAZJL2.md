@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Torcidas Geles Dulces - 300 gr al 68.67 % de descuento'
-date: 2020-01-29 15:47:53
+date: 2020-01-30 23:43:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/413Zu3OgjSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413Zu3OgjSL._AC_._SL200_.jpg' ]
 comments: true

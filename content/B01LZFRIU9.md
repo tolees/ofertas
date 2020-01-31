@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Vi Figura de Vinilo  colección de  al 43.83 % de descuento'
-date: 2020-01-29 19:22:08
+date: 2020-01-31 05:03:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41G010Nb6vL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41G010Nb6vL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Hagri al 82.01 % de descuento'
-date: 2020-01-30 02:41:21
+date: 2020-01-31 04:35:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nCcRvZ8sL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nCcRvZ8sL._AC_._SL200_.jpg' ]
 comments: true

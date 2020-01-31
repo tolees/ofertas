@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 37435 POP Games: Overwatch-Reaper  al 45.18 % de descuento'
-date: 2020-01-29 10:42:12
+title: 'Funko 37435 POP Games: Overwatch-Reaper  al 45.65 % de descuento'
+date: 2020-01-30 22:34:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/4159jz1jLZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4159jz1jLZL._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07KPTBPV3
 description:
 actualPrice: 5.0 GBP
-comparePrice: 9.12 GBP
+comparePrice: 9.2 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 37435 POP Games: Overwatch-Reaper  Wraith  Collectible Figure  Multicolour](https://www.amazon.com/dp/B07KPTBPV3/?tag=redken08-20) a 5.0 GBP (original: 9.12 GBP) (45.18 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 37435 POP Games: Overwatch-Reaper  Wraith  Collectible Figure  Multicolour](https://www.amazon.com/dp/B07KPTBPV3/?tag=redken08-20) a 5.0 GBP (original: 9.2 GBP) (45.65 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4159jz1jLZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KPTBPV3/?tag=redken08-20)
 
