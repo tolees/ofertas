@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YANGOO Pulsera Actividad Inteligente Imp al 49.24 % de descuento'
-date: 2020-01-30 13:07:21
+date: 2020-02-01 00:36:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51u4wEmrdBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51u4wEmrdBL._AC_._SL200_.jpg' ]
 comments: true

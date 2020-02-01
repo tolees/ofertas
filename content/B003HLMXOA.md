@@ -14,10 +14,10 @@ comparePrice: 3.61 EUR
 inStock: true
 ---
 
-Está [Revlon Super Lustrous - Pintalabios](https://www.amazon.com/dp/B003HLMXOA/?tag=redken08-20) con 44.88 de descuento por 1.99 EUR (original: 3.61 EUR) en el siguiente enlace!
+Ahora mismo tienes [Revlon Super Lustrous - Pintalabios](https://www.amazon.com/dp/B003HLMXOA/?tag=redken08-20) a 1.99 EUR (original: 3.61 EUR) (44.88 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412ATL3ym7L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B003HLMXOA/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B003HLMXOA/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B003HLMXOA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

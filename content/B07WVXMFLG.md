@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.35 % en Xnuoyo Cepillo de Limpieza Facial 5 en 1'
-date: 2020-01-28 21:30:30
+date: 2020-02-01 02:02:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rYrGvT84L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rYrGvT84L._AC_._SL200_.jpg' ]
 comments: true

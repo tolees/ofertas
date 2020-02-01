@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.17 % en Sony FDRX3000R - Kit de cámara Action CA'
-date: 2020-01-04 20:13:17
+date: 2020-02-01 03:32:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BQIzYOl2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BQIzYOl2L._SL200_.jpg' ]
 comments: true

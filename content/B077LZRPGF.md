@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.00 % en Timex Reloj Analógico para Mujer de Cuar'
-date: 2020-01-19 00:13:36
+date: 2020-02-01 03:50:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TOLHQIq0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TOLHQIq0L._SL200_.jpg' ]
 comments: true

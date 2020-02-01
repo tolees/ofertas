@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.60 % en XuanPad Mini Proyector Multimedia Vídeo '
-date: 2020-01-28 14:37:21
+date: 2020-01-31 23:41:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/418knE5ozaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418knE5ozaL._AC_._SL200_.jpg' ]
 comments: true

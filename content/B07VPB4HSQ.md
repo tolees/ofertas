@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.01 % en OBEEII Vestidos Princesa Sofia Disfraz p'
-date: 2020-01-29 03:11:41
+date: 2020-01-31 22:05:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MdNxLfSDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MdNxLfSDL._AC_._SL200_.jpg' ]
 comments: true

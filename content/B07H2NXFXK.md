@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Gant D1. Triangle Texture Fullzip Chaque al 56.05 % de descuento'
-date: 2019/12/15 05:33:19 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xCcLy7ttL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xCcLy7ttL._SL200_.jpg' ]
+title: 'Gant D1. Triangle Texture Fullzip Chaque al 46.66 % de descuento'
+date: 2020-02-01 04:41:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/41xCcLy7ttL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41xCcLy7ttL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07H2NXFXK
 description:
-actualPrice: 65.92 EUR
+actualPrice: 80.0 EUR
 comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gant D1. Triangle Texture Fullzip Chaqueta Punto  Gris  Dk Charcoal Melange 97   Small para Hombre](https://www.amazon.com/dp/B07H2NXFXK/?tag=redken08-20) a 65.92 EUR (original: 149.99 EUR) (56.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Gant D1. Triangle Texture Fullzip Chaqueta Punto  Gris  Dk Charcoal Melange 97   Small para Hombre](https://www.amazon.com/dp/B07H2NXFXK/?tag=redken08-20) a 80.0 EUR (original: 149.99 EUR) (46.66 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41xCcLy7ttL._SL200_.jpg)](https://www.amazon.com/dp/B07H2NXFXK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41xCcLy7ttL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07H2NXFXK/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07H2NXFXK/?tag=redken08-20)
 

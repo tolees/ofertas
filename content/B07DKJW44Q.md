@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Kipling - Art Mini  Bolsos maletín Mujer'
-date: 2019/11/29 21:26:49 +0000
+date: 2020-02-01 01:01:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y7o-hYYXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y7o-hYYXL._SL200_.jpg' ]
 comments: true

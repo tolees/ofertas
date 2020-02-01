@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Levi s unbasic  Hoodie Capucha  Multicol al 52.68 % de descuento'
-date: 2020-01-08 10:25:52
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg' ]
+date: 2020-02-01 02:16:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/51J8kMHYmxL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51J8kMHYmxL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07RZ8GL9B
 description:
 actualPrice: 35.49 EUR
-comparePrice: 75 EUR
+comparePrice: 75.0 EUR
 inStock: true
 ---
 
-Está [Levi s unbasic  Hoodie Capucha  Multicolor  Dunsmuir Floral Meteorite 0036   Medium para Mujer](https://www.amazon.com/dp/B07RZ8GL9B/?tag=redken08-20) con 52.68 de descuento por 35.49 EUR (original: 75 EUR) en el siguiente enlace!
+Está [Levi s unbasic  Hoodie Capucha  Multicolor  Dunsmuir Floral Meteorite 0036   Medium para Mujer](https://www.amazon.com/dp/B07RZ8GL9B/?tag=redken08-20) con 52.68 de descuento por 35.49 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg)](https://www.amazon.com/dp/B07RZ8GL9B/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51J8kMHYmxL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RZ8GL9B/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07RZ8GL9B/?tag=redken08-20)
 

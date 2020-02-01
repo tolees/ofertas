@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bulova Marine Star 98B258 - Reloj de pul al 37.30 % de descuento'
-date: 2019/12/14 21:55:31 +0000
+date: 2020-02-01 03:59:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nd-SfW4QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nd-SfW4QL._SL200_.jpg' ]
 comments: true

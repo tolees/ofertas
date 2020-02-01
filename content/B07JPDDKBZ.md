@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DAM TEKKIWEAR. DMX222BKRED. Pulsera Inte al 84.50 % de descuento'
-date: 2020-01-18 10:52:02
+date: 2020-02-01 00:49:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pnDSeYbsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pnDSeYbsL._SL200_.jpg' ]
 comments: true

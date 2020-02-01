@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 52.95 % en BRIKSMAX Volkswagen T1 Camper Van Led Li'
-date: 2020-01-20 10:39:42
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pwNIwF5uL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pwNIwF5uL._SL200_.jpg' ]
+title: 'Descuento del 48.01 % en BRIKSMAX Volkswagen T1 Campingbus Led Be'
+date: 2020-01-31 05:19:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/41pwNIwF5uL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41pwNIwF5uL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KWLMNHN
 description:
-actualPrice: 23.99 GBP
-comparePrice: 50.99 GBP
+actualPrice: 25.99 EUR
+comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [BRIKSMAX Volkswagen T1 Camper Van Led Lighting Kit- Compatible with Lego 10220 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07KWLMNHN/?tag=redken08-20) con un 52.95 % de descuento con precio de oferta de 23.99 GBP (original: 50.99 GBP) en el siguiente enlace!
+Tienes [BRIKSMAX Volkswagen T1 Campingbus Led Beleuchtungsset - Kompatibel Mit Lego 10220 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07KWLMNHN/?tag=redken08-20) con un 48.01 % de descuento con precio de oferta de 25.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41pwNIwF5uL._SL200_.jpg)](https://www.amazon.com/dp/B07KWLMNHN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41pwNIwF5uL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KWLMNHN/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07KWLMNHN/?tag=redken08-20)
 

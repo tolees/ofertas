@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 45.47 % en Funko 44418 POP Holiday-Santa Claus Coll'
-date: 2020-01-30 22:32:58
+title: 'Descuento del 45.71 % en Funko 44418 POP Holiday-Santa Claus Coll'
+date: 2020-02-01 02:33:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07RN8FRN3
 description:
 actualPrice: 5.0 GBP
-comparePrice: 9.17 GBP
+comparePrice: 9.21 GBP
 inStock: true
 ---
 
-Tienes [Funko 44418 POP Holiday-Santa Claus Collectible Figure  Multicolour](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20) con un 45.47 % de descuento con precio de oferta de 5.0 GBP (original: 9.17 GBP) en el siguiente enlace!
+Tienes [Funko 44418 POP Holiday-Santa Claus Collectible Figure  Multicolour](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20) con un 45.71 % de descuento con precio de oferta de 5.0 GBP (original: 9.21 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20)
 

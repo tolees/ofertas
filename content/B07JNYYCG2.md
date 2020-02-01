@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FridgeCam by Smarter  Latest Version wit al 67.33 % de descuento'
-date: 2020-01-25 14:30:45
+date: 2020-02-01 02:09:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PwjYHZLgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PwjYHZLgL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.14 % en Seiko Reloj Analogico para Hombre de Cua'
-date: 2020-01-19 01:19:39
+date: 2020-02-01 04:04:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y3WayIRmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y3WayIRmL._SL200_.jpg' ]
 comments: true

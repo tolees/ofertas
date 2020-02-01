@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ticwatch S Sport - Reloj inteligente con al 40.50 % de descuento'
-date: 2020-01-30 12:54:42
+date: 2020-01-31 22:36:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dc-0gvhyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dc-0gvhyL._SL200_.jpg' ]
 comments: true

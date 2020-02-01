@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 57.06 % en Clarks - Botines de Cuero Hombre  Color '
-date: 2019/11/09 20:53:06 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EY9EltaeL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EY9EltaeL._SL200_.jpg' ]
+title: 'Descuento del 67.64 % en Clarks - Botines de Cuero Hombre  Color '
+date: 2020-02-01 03:48:45
+thumbnailImage: 'https://m.media-amazon.com/images/I/41EY9EltaeL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41EY9EltaeL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07MLSSWWV
 description:
-actualPrice: 60.12 EUR
-comparePrice: 140 EUR
+actualPrice: 45.31 EUR
+comparePrice: 140.0 EUR
 inStock: true
 ---
 
-Tienes [Clarks - Botines de Cuero Hombre  Color Gris  Talla 40 EU](https://www.amazon.com/dp/B07MLSSWWV/?tag=redken08-20) con un 57.06 % de descuento con precio de oferta de 60.12 EUR (original: 140 EUR) en el siguiente enlace!
+Tienes [Clarks - Botines de Cuero Hombre  Color Gris  Talla 40 EU](https://www.amazon.com/dp/B07MLSSWWV/?tag=redken08-20) con un 67.64 % de descuento con precio de oferta de 45.31 EUR (original: 140.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41EY9EltaeL._SL200_.jpg)](https://www.amazon.com/dp/B07MLSSWWV/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41EY9EltaeL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MLSSWWV/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07MLSSWWV/?tag=redken08-20)
 

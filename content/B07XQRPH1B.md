@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 43.11 % en BRIKSMAX Led Beleuchtungsset für Lego St'
-date: 2019/12/28 09:17:16 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ekIRJj4RL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ekIRJj4RL._SL200_.jpg' ]
+title: 'Descuento del 58.34 % en BRIKSMAX Led Lighting Kit for LEGO Star '
+date: 2020-01-31 21:42:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ekIRJj4RL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ekIRJj4RL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07XQRPH1B
 description:
-actualPrice: 32.99 EUR
-comparePrice: 57.99 EUR
+actualPrice: 24.99 GBP
+comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Das Imperium schlägt zurück Snowspeeder Kompatibel Mit Lego 75259 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07XQRPH1B/?tag=redken08-20) con un 43.11 % de descuento con precio de oferta de 32.99 EUR (original: 57.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Snowspeeder Compatible with Lego 75259 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07XQRPH1B/?tag=redken08-20) con un 58.34 % de descuento con precio de oferta de 24.99 GBP (original: 59.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ekIRJj4RL._SL200_.jpg)](https://www.amazon.com/dp/B07XQRPH1B/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ekIRJj4RL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07XQRPH1B/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07XQRPH1B/?tag=redken08-20)
 

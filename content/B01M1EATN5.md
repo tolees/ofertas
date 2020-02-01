@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUNLU WOOD Filamento  PLA Madera 1.75 1k al 27.51 % de descuento'
-date: 2020-01-27 20:40:35
+date: 2020-01-31 21:17:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KMgO7usQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KMgO7usQL._AC_._SL200_.jpg' ]
 comments: true

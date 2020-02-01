@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 22981 Pop 8-Bit Teenage Mutant Nin al 45.37 % de descuento'
-date: 2020-01-30 10:40:36
+date: 2020-01-31 21:37:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xSp8ghfTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xSp8ghfTL._AC_._SL200_.jpg' ]
 comments: true

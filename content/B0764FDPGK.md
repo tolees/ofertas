@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pop Fraggle Rock Red with Doozer Vinyl F al 46.73 % de descuento'
-date: 2020-01-30 12:52:26
+date: 2020-01-31 21:46:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41d9vDiQYQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41d9vDiQYQL._AC_._SL200_.jpg' ]
 comments: true

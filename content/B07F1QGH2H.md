@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hatteker Cortapelos Profesional Hombre C al 44.29 % de descuento'
-date: 2020-01-27 21:15:38
+date: 2020-01-31 22:19:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jJUGuOepL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jJUGuOepL._AC_._SL200_.jpg' ]
 comments: true
