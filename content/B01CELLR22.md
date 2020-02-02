@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Hasbro Gaming Clasico Cluedo  Versión Es al 30.03 % de descuento'
-date: 2020-01-22 11:37:00
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HvfDdgRaL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HvfDdgRaL._SL200_.jpg' ]
+date: 2020-02-01 18:58:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/51HvfDdgRaL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51HvfDdgRaL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01CELLR22
 description:
 actualPrice: 20.99 EUR
-comparePrice: 30 EUR
+comparePrice: 30.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hasbro Gaming Clasico Cluedo  Versión Española   38712546 ](https://www.amazon.com/dp/B01CELLR22/?tag=redken08-20) a 20.99 EUR (original: 30 EUR) (30.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Hasbro Gaming Clasico Cluedo  Versión Española   38712546 ](https://www.amazon.com/dp/B01CELLR22/?tag=redken08-20) a 20.99 EUR (original: 30.0 EUR) (30.03 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51HvfDdgRaL._SL200_.jpg)](https://www.amazon.com/dp/B01CELLR22/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51HvfDdgRaL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01CELLR22/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01CELLR22/?tag=redken08-20)
 

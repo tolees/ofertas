@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XMASKING Estrella Cometa de 95 cm en Tub al 47.86 % de descuento'
-date: 2020-01-16 19:20:12
+date: 2020-02-01 09:06:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kXZWVIHML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kXZWVIHML._SL200_.jpg' ]
 comments: true

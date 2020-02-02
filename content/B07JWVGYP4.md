@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Nikiski  Botas Bajas para Mujer al 35.40 % de descuento'
-date: 2020-01-29 13:43:53
+date: 2020-02-02 15:20:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iH1xUdKBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iH1xUdKBL._AC_._SL200_.jpg' ]
 comments: true

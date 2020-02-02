@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.64 % en Ibiza Sound PORT12VHF- BT Sistema de son'
-date: 2020-01-30 23:52:51
+date: 2020-02-01 10:10:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Jho3UTjaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Jho3UTjaL._AC_._SL200_.jpg' ]
 comments: true

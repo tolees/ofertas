@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en K9CK Luces LED para Technic Grúa Todoter'
-date: 2020-01-29 19:35:04
+date: 2020-02-02 13:34:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yFL9uTmXL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yFL9uTmXL._AC_._SL200_.jpg' ]
 comments: true

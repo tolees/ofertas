@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'G-STAR RAW Lynn Mid Waist Skinny Vaquero al 61.49 % de descuento'
-date: 2019/10/31 15:09:09 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nxm7gz6wL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nxm7gz6wL._SL200_.jpg' ]
+title: 'G-STAR RAW Lynn Mid Waist Skinny  Vaquer al 61.49 % de descuento'
+date: 2020-02-02 18:50:02
+thumbnailImage: 'https://m.media-amazon.com/images/I/31Z1EpPTt6L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31Z1EpPTt6L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,9 +14,9 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [G-STAR RAW Lynn Mid Waist Skinny Vaqueros  Azul  Medium Aged 6550-071   24W / 28L para Mujer](https://www.amazon.com/dp/B00MR16OGY/?tag=redken08-20) a 38.49 EUR (original: 99.95 EUR) (61.49 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [G-STAR RAW Lynn Mid Waist Skinny  Vaqueros  Medium Aged 6550  24W / 28L para Mujer](https://www.amazon.com/dp/B00MR16OGY/?tag=redken08-20) a 38.49 EUR (original: 99.95 EUR) (61.49 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41nxm7gz6wL._SL200_.jpg)](https://www.amazon.com/dp/B00MR16OGY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31Z1EpPTt6L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00MR16OGY/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00MR16OGY/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ybarra Salsa Alioli - 225 ml al 35.29 % de descuento'
-date: 2020-01-29 10:21:51
+date: 2020-02-01 19:18:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ja4G0onML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ja4G0onML._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.29 % en Take Two Interactive  - Red Dead Redempt'
-date: 2020-01-26 06:27:34
+date: 2020-02-01 09:12:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51HXRsezm8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51HXRsezm8L._AC_._SL200_.jpg' ]
 comments: true

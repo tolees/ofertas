@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 58.84 % en Columbia Chaqueta Impermeable para Mujer'
-date: 2019/11/22 01:10:59 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NvCi5mzVL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NvCi5mzVL._SL200_.jpg' ]
+title: 'Descuento del 60.64 % en Columbia Chaqueta Impermeable para Mujer'
+date: 2020-02-01 21:23:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/41NvCi5mzVL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41NvCi5mzVL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B072X1WBHM
 description:
-actualPrice: 61.73 EUR
+actualPrice: 59.04 EUR
 comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Tienes [Columbia Chaqueta Impermeable para Mujer  Largo Medio  Powder Lite Mid Jacket  Beige  Light Cloud   Talla M](https://www.amazon.com/dp/B072X1WBHM/?tag=redken08-20) con un 58.84 % de descuento con precio de oferta de 61.73 EUR (original: 149.99 EUR) en el siguiente enlace!
+Tienes [Columbia Chaqueta Impermeable para Mujer  Largo Medio  Powder Lite Mid Jacket  Beige  Light Cloud   Talla M](https://www.amazon.com/dp/B072X1WBHM/?tag=redken08-20) con un 60.64 % de descuento con precio de oferta de 59.04 EUR (original: 149.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41NvCi5mzVL._SL200_.jpg)](https://www.amazon.com/dp/B072X1WBHM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41NvCi5mzVL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B072X1WBHM/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B072X1WBHM/?tag=redken08-20)
 

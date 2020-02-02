@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Timberland Newport Bay-Canvas  Zapatilla al 62.02 % de descuento'
-date: 2020-01-11 11:39:10
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SjTsQxXwL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SjTsQxXwL._SL200_.jpg' ]
+title: 'Timberland NeWaterproofort Bay Oxford  Z al 60.00 % de descuento'
+date: 2020-02-01 16:33:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/41SjTsQxXwL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41SjTsQxXwL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07GS2VCDG
 description:
-actualPrice: 18.99 EUR
-comparePrice: 50 EUR
+actualPrice: 20.0 EUR
+comparePrice: 50.0 EUR
 inStock: true
 ---
 
-Está [Timberland Newport Bay-Canvas  Zapatillas Unisex Niños  Azul  Black Iris   36 EU](https://www.amazon.com/dp/B07GS2VCDG/?tag=redken08-20) con 62.02 de descuento por 18.99 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Timberland NeWaterproofort Bay Oxford  Zapatillas Unisex-Niños  Azul  Navy Canvas   36 EU](https://www.amazon.com/dp/B07GS2VCDG/?tag=redken08-20) con 60.00 de descuento por 20.0 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41SjTsQxXwL._SL200_.jpg)](https://www.amazon.com/dp/B07GS2VCDG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41SjTsQxXwL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07GS2VCDG/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07GS2VCDG/?tag=redken08-20)
 

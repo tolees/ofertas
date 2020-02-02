@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.28 % en Pop! Avengers Infinity War - Figura de V'
-date: 2020-01-24 02:09:51
+date: 2020-02-01 12:53:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/316bakw2oJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316bakw2oJL._AC_._SL200_.jpg' ]
 comments: true

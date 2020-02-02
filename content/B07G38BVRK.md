@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Chicco Miinimo2 Silla de paseo ultracomp al 41.42 % de descuento'
-date: 2019/12/24 16:02:23 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418uiPQaeSL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418uiPQaeSL._SL200_.jpg' ]
+date: 2020-02-02 11:04:09
+thumbnailImage: 'https://m.media-amazon.com/images/I/418uiPQaeSL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/418uiPQaeSL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07G38BVRK
 description:
-actualPrice: 140 EUR
-comparePrice: 239 EUR
+actualPrice: 140.0 EUR
+comparePrice: 239.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Chicco Miinimo2 Silla de paseo ultracompacta y ligera  solo 6 kg  color negro  Pure Black Special Edition ](https://www.amazon.com/dp/B07G38BVRK/?tag=redken08-20) a 140 EUR (original: 239 EUR) (41.42 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Chicco Miinimo2 Silla de paseo ultracompacta y ligera  solo 6 kg  color negro  Pure Black Special Edition ](https://www.amazon.com/dp/B07G38BVRK/?tag=redken08-20) a 140.0 EUR (original: 239.0 EUR) (41.42 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/418uiPQaeSL._SL200_.jpg)](https://www.amazon.com/dp/B07G38BVRK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/418uiPQaeSL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07G38BVRK/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07G38BVRK/?tag=redken08-20)
 

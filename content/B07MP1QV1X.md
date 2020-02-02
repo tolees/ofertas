@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 43.11 % en BRIKSMAX Led Beleuchtungsset für James B'
-date: 2020-01-31 05:17:10
+title: 'Descuento del 44.01 % en BRIKSMAX James Bond Aston Martin DB5 Led'
+date: 2020-02-01 02:33:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i3883WyXL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i3883WyXL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MP1QV1X
 description:
-actualPrice: 32.99 EUR
-comparePrice: 57.99 EUR
+actualPrice: 27.99 GBP
+comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Beleuchtungsset für James Bond Bricks Spielzeug Aston-Martin DB5  Kompatibel Mit Lego 10262 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07MP1QV1X/?tag=redken08-20) con un 43.11 % de descuento con precio de oferta de 32.99 EUR (original: 57.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX James Bond Aston Martin DB5 Led Lighting Kit- Compatible with Lego 10262 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07MP1QV1X/?tag=redken08-20) con un 44.01 % de descuento con precio de oferta de 27.99 GBP (original: 49.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41i3883WyXL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MP1QV1X/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.76 % en Philips Avent SCF551/03 - Vaso con boqui'
-date: 2020-01-25 10:56:09
+date: 2020-02-02 17:34:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oDGLwnYZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oDGLwnYZL._AC_._SL200_.jpg' ]
 comments: true

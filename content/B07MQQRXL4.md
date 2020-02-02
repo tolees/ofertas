@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ANTIMI Bluetooth Headphones Wireless Ear al 67.30 % de descuento'
-date: 2020-01-28 01:28:34
+date: 2020-02-01 12:28:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cdLqMxE6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cdLqMxE6L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EMS Electroestimulador Muscular Abdomina al 88.50 % de descuento'
-date: 2020-01-26 16:16:21
+date: 2020-02-01 17:15:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/516k3WY-2LL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516k3WY-2LL._AC_._SL200_.jpg' ]
 comments: true

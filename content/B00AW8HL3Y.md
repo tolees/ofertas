@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.48 % en Curver 206313 - Cómoda  Style de 3 cajon'
-date: 2020-02-01 03:32:25
+date: 2020-02-02 09:37:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZoDEP8LsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZoDEP8LsL._AC_._SL200_.jpg' ]
 comments: true

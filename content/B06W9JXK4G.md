@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AMD RYZEN 7 1800X 16 MB 4.0GHz Octa Core al 41.93 % de descuento'
-date: 2020-02-01 00:58:17
+date: 2020-02-02 10:50:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lmPSEZKpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lmPSEZKpL._AC_._SL200_.jpg' ]
 comments: true

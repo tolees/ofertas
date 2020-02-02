@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'The Body Source Pulseras Repelentes de M al 43.78 % de descuento'
-date: 2020-01-15 21:59:02
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/612X0heuWNL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/612X0heuWNL._SL200_.jpg' ]
+date: 2020-02-02 10:16:32
+thumbnailImage: 'https://m.media-amazon.com/images/I/612X0heuWNL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/612X0heuWNL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [The Body Source Pulseras Repelentes de Mosquitos  10 Piezas  No Contiene DEET y Libres de Sustancias Tóxicas o Nocivas  con Citronela e Impermeables  para Adultos y Niños](https://www.amazon.com/dp/B01ERF2FW4/?tag=redken08-20) a 8.99 EUR (original: 15.99 EUR) (43.78 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/612X0heuWNL._SL200_.jpg)](https://www.amazon.com/dp/B01ERF2FW4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/612X0heuWNL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01ERF2FW4/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01ERF2FW4/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en GODNECE Technic Racing Car  1:10 2.4G RC'
-date: 2020-01-31 05:04:00
+date: 2020-02-02 04:40:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51h7dagsUaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51h7dagsUaL._AC_._SL200_.jpg' ]
 comments: true

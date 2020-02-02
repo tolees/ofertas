@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for Harry Pott al 60.01 % de descuento'
-date: 2020-01-27 01:31:40
+date: 2020-02-01 20:35:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/415xuvbUiML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415xuvbUiML._AC_._SL200_.jpg' ]
 comments: true

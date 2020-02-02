@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.27 % en Logitech MK270 - Pack de teclado y ratón'
-date: 2020-01-30 17:25:27
+date: 2020-02-01 09:39:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KmnB2o0YL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KmnB2o0YL._AC_._SL200_.jpg' ]
 comments: true

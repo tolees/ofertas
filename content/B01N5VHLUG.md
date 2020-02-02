@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Philips Audio Fidelio X2HR - Auriculares al 57.63 % de descuento'
-date: 2019/10/06 20:25:26 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BOIgl%2Bj-L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BOIgl%2Bj-L._SL200_.jpg' ]
+title: 'Philips Audio Fidelio X2HR - Auriculares al 40.15 % de descuento'
+date: 2020-02-02 09:10:32
+thumbnailImage: 'https://m.media-amazon.com/images/I/41BOIgl+j-L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41BOIgl+j-L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01N5VHLUG
 description:
-actualPrice: 148.29 EUR
-comparePrice: 349.99 EUR
+actualPrice: 92.76 EUR
+comparePrice: 154.99 EUR
 inStock: true
 ---
 
-Está [Philips Audio Fidelio X2HR - Auriculares de alta resolución  color negro](https://www.amazon.com/dp/B01N5VHLUG/?tag=redken08-20) con 57.63 de descuento por 148.29 EUR (original: 349.99 EUR) en el siguiente enlace!
+Está [Philips Audio Fidelio X2HR - Auriculares de alta resolución  color negro](https://www.amazon.com/dp/B01N5VHLUG/?tag=redken08-20) con 40.15 de descuento por 92.76 EUR (original: 154.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41BOIgl%2Bj-L._SL200_.jpg)](https://www.amazon.com/dp/B01N5VHLUG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41BOIgl+j-L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01N5VHLUG/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01N5VHLUG/?tag=redken08-20)
 

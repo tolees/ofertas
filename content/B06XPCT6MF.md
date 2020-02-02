@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.39 % en Panasonic EW1611W503 Irrigador bucal elé'
-date: 2020-02-01 07:13:20
+date: 2020-02-02 13:26:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w9HcBAOhL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w9HcBAOhL._AC_._SL200_.jpg' ]
 comments: true

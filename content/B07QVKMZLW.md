@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Receptor Bluetooth Jack 3.5 MM  ieGeek A al 36.38 % de descuento'
-date: 2020-01-31 21:58:33
+date: 2020-02-02 13:09:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31D1175MIgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31D1175MIgL._AC_._SL200_.jpg' ]
 comments: true

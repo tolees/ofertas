@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Life Is Strange 2 al 36.66 % de descuento'
-date: 2020-01-29 20:05:42
+date: 2020-02-01 14:10:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/517K+qLOVQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517K+qLOVQL._AC_._SL200_.jpg' ]
 comments: true
