@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.01 % en Adaptador Bluetooth Transmisor Receptor '
-date: 2020-02-02 13:08:51
+date: 2020-02-03 13:42:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qlkCqxIcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qlkCqxIcL._AC_._SL200_.jpg' ]
 comments: true

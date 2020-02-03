@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Condis 95 Piezas Bloques de Construcción'
-date: 2020-02-02 13:14:53
+date: 2020-02-03 14:06:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/61GWVccHSOL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61GWVccHSOL._AC_._SL200_.jpg' ]
 comments: true

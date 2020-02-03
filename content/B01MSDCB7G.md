@@ -14,10 +14,10 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Ninjago Movie 23480K Lego Kai Classic Costume  7-8 Years](https://www.amazon.com/dp/B01MSDCB7G/?tag=redken08-20) a 13.49 GBP (original: 24.99 GBP) (46.02 %  de descuento) en el siguiente enlace!
+Está [LEGO Ninjago Movie 23480K Lego Kai Classic Costume  7-8 Years](https://www.amazon.com/dp/B01MSDCB7G/?tag=redken08-20) con 46.02 de descuento por 13.49 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rYfuWdgFL._SL200_.jpg)](https://www.amazon.com/dp/B01MSDCB7G/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MSDCB7G/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MSDCB7G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
