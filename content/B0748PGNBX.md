@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose Soundlink Bose - Altavoz Multimedia al 47.49 % de descuento'
-date: 2019/11/25 14:43:16 +0000
+date: 2020-02-03 19:47:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DQwEgpHcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DQwEgpHcL._SL200_.jpg' ]
 comments: true

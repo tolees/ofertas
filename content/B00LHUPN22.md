@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin SurgeStrip - Regleta de protecció al 28.58 % de descuento'
-date: 2020-02-02 18:23:05
+date: 2020-02-03 19:47:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41V7E43mjNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41V7E43mjNL._AC_._SL200_.jpg' ]
 comments: true

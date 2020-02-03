@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3M Mono de seguridad en polipropileno al 58.65 % de descuento'
-date: 2020-02-02 11:33:44
+date: 2020-02-03 20:50:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Zh23s2oSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Zh23s2oSL._AC_._SL200_.jpg' ]
 comments: true

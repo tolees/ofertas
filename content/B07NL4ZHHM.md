@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 27.21 % en Lenovo ideapad 530S-15IKB Ordenador Port'
-date: 2020-01-04 08:55:02
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B8dWVWT2L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B8dWVWT2L._SL200_.jpg' ]
+title: 'Descuento del 31.76 % en Lenovo ideapad 530S-15IKB Ordenador Port'
+date: 2020-02-03 20:10:43
+thumbnailImage: 'https://m.media-amazon.com/images/I/41+8dWVWT2L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41+8dWVWT2L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NL4ZHHM
 description:
-actualPrice: 799.99 EUR
-comparePrice: 1099 EUR
+actualPrice: 749.99 EUR
+comparePrice: 1099.0 EUR
 inStock: true
 ---
 
-Tienes [Lenovo ideapad 530S-15IKB Ordenador Portátil 15.6" FullHD  Intel Core i7-8550U  RAM de 8GB  512GB SSD  Intel Graphics  Windows 10  Gris - Teclado QWERTY Español](https://www.amazon.com/dp/B07NL4ZHHM/?tag=redken08-20) con un 27.21 % de descuento con precio de oferta de 799.99 EUR (original: 1099 EUR) en el siguiente enlace!
+Tienes [Lenovo ideapad 530S-15IKB Ordenador Portátil 15.6" FullHD  Intel Core i7-8550U  RAM de 8GB  512GB SSD  Intel Graphics  Windows 10  Gris - Teclado QWERTY Español](https://www.amazon.com/dp/B07NL4ZHHM/?tag=redken08-20) con un 31.76 % de descuento con precio de oferta de 749.99 EUR (original: 1099.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41%2B8dWVWT2L._SL200_.jpg)](https://www.amazon.com/dp/B07NL4ZHHM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41+8dWVWT2L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NL4ZHHM/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07NL4ZHHM/?tag=redken08-20)
 

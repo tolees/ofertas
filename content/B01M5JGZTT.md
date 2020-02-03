@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.03 % en Moma Bikes Bicicleta Infantil  Montaña  '
-date: 2020-01-28 12:59:33
+date: 2020-02-03 20:28:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/515C2IIakkL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515C2IIakkL._AC_._SL200_.jpg' ]
 comments: true

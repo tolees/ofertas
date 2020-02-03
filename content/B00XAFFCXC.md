@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA MEN Sensitive Gel de afeitar para  al 31.08 % de descuento'
-date: 2020-01-12 08:13:01
+date: 2020-02-03 19:06:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IEIzNbX9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IEIzNbX9L._SL200_.jpg' ]
 comments: true

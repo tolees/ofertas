@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.25 % en Ultimate Ears Boom 3 Altavoz portátil  B'
-date: 2020-01-24 06:14:54
+date: 2020-02-03 20:41:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AAxMhuCBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AAxMhuCBL._AC_._SL200_.jpg' ]
 comments: true

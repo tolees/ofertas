@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Safety 1st Auto Close - Barrera de puert al 25.63 % de descuento'
-date: 2020-01-25 09:16:00
+date: 2020-02-03 20:27:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eGJ5B23+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eGJ5B23+L._AC_._SL200_.jpg' ]
 comments: true

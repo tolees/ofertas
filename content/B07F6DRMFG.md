@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.02 % en JACK & JONES Jjeholmen Sweat Crew Neck N'
-date: 2020-01-06 13:32:30
+date: 2020-02-03 19:43:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AlT9hFrbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AlT9hFrbL._SL200_.jpg' ]
 comments: true

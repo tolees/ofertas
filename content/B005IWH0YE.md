@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola MBP 8 - Vigilabebés audio "plug al 31.98 % de descuento'
-date: 2020-01-29 12:43:43
+date: 2020-02-03 20:57:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CeOzgoFuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CeOzgoFuL._AC_._SL200_.jpg' ]
 comments: true

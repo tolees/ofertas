@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.78 % en Lenovo ThinkPad E590 - Ordenador portáti'
-date: 2020-01-31 00:01:10
+date: 2020-02-03 20:03:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fT6T3Dt8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fT6T3Dt8L._AC_._SL200_.jpg' ]
 comments: true

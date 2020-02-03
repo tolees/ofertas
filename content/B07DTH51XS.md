@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion 590-a0101ns - Ordenador de s al 26.09 % de descuento'
-date: 2020-01-30 09:41:35
+date: 2020-02-03 20:51:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-8sqh547L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-8sqh547L._AC_._SL200_.jpg' ]
 comments: true

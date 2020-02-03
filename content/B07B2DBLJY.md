@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.40 % en Rowenta Aspirador Escoba sin Cable Air F'
-date: 2020-01-22 07:37:27
+date: 2020-02-03 20:03:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WSn1KJYGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WSn1KJYGL._SL200_.jpg' ]
 comments: true
