@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Superzings - Serie 4 - Display de 24 veh al 32.73 % de descuento'
-date: 2020-01-24 10:43:39
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ykrkShLkL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ykrkShLkL._SL200_.jpg' ]
+title: 'Superzings - Serie 4 - Display de 24 veh al 36.79 % de descuento'
+date: 2020-02-03 07:51:37
+thumbnailImage: 'https://m.media-amazon.com/images/I/51ykrkShLkL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51ykrkShLkL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07P7LGHH9
 description:
-actualPrice: 32.29 EUR
-comparePrice: 48 EUR
+actualPrice: 30.34 EUR
+comparePrice: 48.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superzings - Serie 4 - Display de 24 vehículos BlasterJet con figuras SuperZings  Colección completa ](https://www.amazon.com/dp/B07P7LGHH9/?tag=redken08-20) a 32.29 EUR (original: 48 EUR) (32.73 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Superzings - Serie 4 - Display de 24 vehículos BlasterJet con figuras SuperZings  Colección completa ](https://www.amazon.com/dp/B07P7LGHH9/?tag=redken08-20) a 30.34 EUR (original: 48.0 EUR) (36.79 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51ykrkShLkL._SL200_.jpg)](https://www.amazon.com/dp/B07P7LGHH9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51ykrkShLkL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07P7LGHH9/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07P7LGHH9/?tag=redken08-20)
 

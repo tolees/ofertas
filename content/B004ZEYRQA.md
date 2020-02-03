@@ -14,10 +14,10 @@ comparePrice: 202.94 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Westinghouse Lighting Comet Tiffany Ventilador de Techo E14  60 W  Espresso](https://www.amazon.com/dp/B004ZEYRQA/?tag=redken08-20) a 145.05 EUR (original: 202.94 EUR) (28.53 %  de descuento) en el siguiente enlace!
+Está [Westinghouse Lighting Comet Tiffany Ventilador de Techo E14  60 W  Espresso](https://www.amazon.com/dp/B004ZEYRQA/?tag=redken08-20) con 28.53 de descuento por 145.05 EUR (original: 202.94 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31GmhzMlzeL._SL200_.jpg)](https://www.amazon.com/dp/B004ZEYRQA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B004ZEYRQA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B004ZEYRQA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
