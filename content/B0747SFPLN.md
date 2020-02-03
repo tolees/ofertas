@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soporte de TV 32-55"Montaje Fijo de Pare al 70.09 % de descuento'
-date: 2020-02-01 06:07:46
+date: 2020-02-03 08:49:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dONADKMQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dONADKMQL._AC_._SL200_.jpg' ]
 comments: true

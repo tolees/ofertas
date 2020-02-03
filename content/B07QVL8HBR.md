@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei P30 Lite - Smartphone de 6.15"  W al 39.26 % de descuento'
-date: 2020-02-02 06:39:13
+date: 2020-02-03 09:32:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r4bgS1aqL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r4bgS1aqL._AC_._SL200_.jpg' ]
 comments: true

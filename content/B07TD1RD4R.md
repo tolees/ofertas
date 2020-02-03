@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 76.68 % en Pistola de Silicona 50W Tilswall Pistola'
-date: 2020-02-01 16:29:25
+date: 2020-02-03 09:24:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SuTRMBNmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SuTRMBNmL._AC_._SL200_.jpg' ]
 comments: true
