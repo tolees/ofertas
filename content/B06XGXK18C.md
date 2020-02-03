@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 34.00 % en Funko Pop Disney Cars 3 13242 Cruz Ramir'
-date: 2019/12/14 23:00:36 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413o6zR6TML._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413o6zR6TML._SL200_.jpg' ]
+title: 'Descuento del 35.77 % en Funko Pop Disney Cars 3 13242 Cruz Ramir'
+date: 2020-02-02 20:37:31
+thumbnailImage: 'https://m.media-amazon.com/images/I/413o6zR6TML._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/413o6zR6TML._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06XGXK18C
 description:
-actualPrice: 5.94 GBP
-comparePrice: 9.0 GBP
+actualPrice: 5.89 GBP
+comparePrice: 9.17 GBP
 inStock: true
 ---
 
-Tienes [Funko Pop Disney Cars 3 13242 Cruz Ramirez](https://www.amazon.com/dp/B06XGXK18C/?tag=redken08-20) con un 34.00 % de descuento con precio de oferta de 5.94 GBP (original: 9.0 GBP) en el siguiente enlace!
+Tienes [Funko Pop Disney Cars 3 13242 Cruz Ramirez](https://www.amazon.com/dp/B06XGXK18C/?tag=redken08-20) con un 35.77 % de descuento con precio de oferta de 5.89 GBP (original: 9.17 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/413o6zR6TML._SL200_.jpg)](https://www.amazon.com/dp/B06XGXK18C/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/413o6zR6TML._AC_._SL200_.jpg)](https://www.amazon.com/dp/B06XGXK18C/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B06XGXK18C/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timex Reloj Cronógrafo para Hombre de Cu al 67.78 % de descuento'
-date: 2020-01-23 22:23:16
+date: 2020-02-02 22:44:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/415IbJjDK3L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415IbJjDK3L._AC_._SL200_.jpg' ]
 comments: true

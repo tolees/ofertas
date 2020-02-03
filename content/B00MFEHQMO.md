@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta SO2320F2 Comfort Compact Calefac al 34.73 % de descuento'
-date: 2020-01-29 12:18:33
+date: 2020-02-02 21:43:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Hrwaz9XdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Hrwaz9XdL._AC_._SL200_.jpg' ]
 comments: true

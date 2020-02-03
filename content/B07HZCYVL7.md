@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Timex Reloj de Pulsera TW2R85500 al 68.15 % de descuento'
-date: 2020-01-23 22:45:47
+title: 'Timex Reloj de Pulsera TW2R85500 al 39.91 % de descuento'
+date: 2020-02-02 23:08:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+XQNRULCL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+XQNRULCL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07HZCYVL7
 description:
-actualPrice: 20.7 EUR
+actualPrice: 39.06 EUR
 comparePrice: 65.0 EUR
 inStock: true
 ---
 
-Está [Timex Reloj de Pulsera TW2R85500](https://www.amazon.com/dp/B07HZCYVL7/?tag=redken08-20) con 68.15 de descuento por 20.7 EUR (original: 65.0 EUR) en el siguiente enlace!
+Está [Timex Reloj de Pulsera TW2R85500](https://www.amazon.com/dp/B07HZCYVL7/?tag=redken08-20) con 39.91 de descuento por 39.06 EUR (original: 65.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+XQNRULCL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HZCYVL7/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.33 % en Fantasy Flight Games- AT-ST  FFSWL08 '
-date: 2020-01-27 16:45:11
+date: 2020-02-02 20:03:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41z-o-gxFbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41z-o-gxFbL._AC_._SL200_.jpg' ]
 comments: true

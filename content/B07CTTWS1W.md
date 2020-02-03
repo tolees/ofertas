@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'X3 | Potente cúrcuma orgánica con glucos al 32.06 % de descuento'
-date: 2020-02-01 11:42:00
+title: 'X3 | Potente cúrcuma orgánica con glucos al 25.07 % de descuento'
+date: 2020-02-02 23:57:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41isLKsTvNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41isLKsTvNL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07CTTWS1W
 description:
-actualPrice: 16.95 EUR
-comparePrice: 24.95 EUR
+actualPrice: 12.7 EUR
+comparePrice: 16.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [X3 | Potente cúrcuma orgánica con glucosamina  condroitina y colágeno | Elimina el dolor en músculos  articulaciones y huesos | Potente antiinflamatorio con acción analgésica | 90 cápsulas](https://www.amazon.com/dp/B07CTTWS1W/?tag=redken08-20) a 16.95 EUR (original: 24.95 EUR) (32.06 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [X3 | Potente cúrcuma orgánica con glucosamina  condroitina y colágeno | Elimina el dolor en músculos  articulaciones y huesos | Potente antiinflamatorio con acción analgésica | 90 cápsulas](https://www.amazon.com/dp/B07CTTWS1W/?tag=redken08-20) a 12.7 EUR (original: 16.95 EUR) (25.07 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41isLKsTvNL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CTTWS1W/?tag=redken08-20)
 
