@@ -14,10 +14,10 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [POC POCito Retina Máscaras Nieve  Unisex niños  Rosa  Fluorescent Pink   One Size](https://www.amazon.com/dp/B01GTNIKMG/?tag=redken08-20) a 70.95 EUR (original: 100 EUR) (29.05 %  de descuento) en el siguiente enlace!
+Está [POC POCito Retina Máscaras Nieve  Unisex niños  Rosa  Fluorescent Pink   One Size](https://www.amazon.com/dp/B01GTNIKMG/?tag=redken08-20) con 29.05 de descuento por 70.95 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KsTSD9wxL._SL200_.jpg)](https://www.amazon.com/dp/B01GTNIKMG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01GTNIKMG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01GTNIKMG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

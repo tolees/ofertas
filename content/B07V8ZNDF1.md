@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Zephyrus G GA502DU-BQ015 - Port al 30.77 % de descuento'
-date: 2020-01-29 20:11:48
+date: 2020-02-03 15:16:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y-EM158uL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y-EM158uL._AC_._SL200_.jpg' ]
 comments: true
