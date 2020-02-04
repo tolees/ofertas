@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LinkinPerk - Cable HDMI 2.0 de Fibra ópt al 30.17 % de descuento'
-date: 2019/12/13 18:02:23 +0000
+date: 2020-02-04 08:32:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-XfPfTI2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-XfPfTI2L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LeaderPro 60W Pistola de Encolar viene u al 25.81 % de descuento'
-date: 2020-01-28 12:48:41
+date: 2020-02-04 07:01:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51X54DAe2sL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51X54DAe2sL._AC_._SL200_.jpg' ]
 comments: true
