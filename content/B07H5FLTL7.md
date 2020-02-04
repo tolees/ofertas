@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.19 % en CLUB CUBANA Camisa Hawaiana Florar Casua'
-date: 2020-02-02 08:35:42
+date: 2020-02-04 20:36:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hdZUccshL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hdZUccshL._AC_._SL200_.jpg' ]
 comments: true
