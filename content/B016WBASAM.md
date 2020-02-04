@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.54 % en SportPlus Bluetooth 4.0 Herzfrequenz-Bru'
-date: 2020-02-02 04:46:10
+date: 2020-02-04 05:10:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41G8sNYYo1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41G8sNYYo1L._AC_._SL200_.jpg' ]
 comments: true

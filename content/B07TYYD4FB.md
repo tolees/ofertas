@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en TXXCI LED Light Kit Compatible with Lego'
-date: 2020-02-02 04:49:44
+date: 2020-02-04 04:54:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L09mFdktL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L09mFdktL._AC_._SL200_.jpg' ]
 comments: true

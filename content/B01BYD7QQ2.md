@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Genius 9000N Cepillo de Dientes E al 55.38 % de descuento'
-date: 2020-01-31 06:07:32
+date: 2020-02-03 21:48:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51s7xr0c6sL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51s7xr0c6sL._AC_._SL200_.jpg' ]
 comments: true

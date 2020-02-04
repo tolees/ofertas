@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.20 % en Hasbro Gaming C2124100 - Wer ist es? Kin'
-date: 2020-01-20 04:42:59
+date: 2020-02-04 05:22:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sAS%2BgLXML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sAS%2BgLXML._SL200_.jpg' ]
 comments: true

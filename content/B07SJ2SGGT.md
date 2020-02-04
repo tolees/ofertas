@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 66.68 % en BRIKSMAX Led Lighting Kit for Lego Ideas'
-date: 2020-02-02 20:38:27
+date: 2020-02-03 21:06:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41h8zfmHSFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41h8zfmHSFL._AC_._SL200_.jpg' ]
 comments: true

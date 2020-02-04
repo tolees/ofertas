@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Attikee Upgraded Bluetooth 5.0 Beanie Ha al 50.02 % de descuento'
-date: 2020-02-03 04:33:47
+date: 2020-02-04 04:47:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51R25b4uHJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51R25b4uHJL._AC_._SL200_.jpg' ]
 comments: true
