@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxi-Cosi CabrioFix Silla de Auto  Recli al 34.64 % de descuento'
-date: 2020-01-30 14:04:10
+date: 2020-02-04 19:51:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31m9bjWz03L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31m9bjWz03L._AC_._SL200_.jpg' ]
 comments: true

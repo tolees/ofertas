@@ -14,10 +14,10 @@ comparePrice: 6.94 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Guardians of the Galaxy Vol 2  Pocket POP! Keychain: Marvel: Star-Lord](https://www.amazon.com/dp/B01MXBV87H/?tag=redken08-20) a 3.5 GBP (original: 6.94 GBP) (49.57 %  de descuento) en el siguiente enlace!
+Está [Guardians of the Galaxy Vol 2  Pocket POP! Keychain: Marvel: Star-Lord](https://www.amazon.com/dp/B01MXBV87H/?tag=redken08-20) con 49.57 de descuento por 3.5 GBP (original: 6.94 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419EGaV9FJL._SL200_.jpg)](https://www.amazon.com/dp/B01MXBV87H/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MXBV87H/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MXBV87H/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Helly Hansen Daybreaker Fleece Jacket Ch al 53.35 % de descuento'
-date: 2019/11/29 03:03:44 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318recuxSxL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318recuxSxL._SL200_.jpg' ]
+title: 'Helly Hansen Daybreaker Fleece Jacket Ch al 48.50 % de descuento'
+date: 2020-02-04 19:50:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/31j7uaeZXXL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31j7uaeZXXL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00EFRXJQ6
 description:
-actualPrice: 27.99 EUR
-comparePrice: 60 EUR
+actualPrice: 30.9 EUR
+comparePrice: 60.0 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Daybreaker Fleece Jacket Chaqueta  Hombre  Negro  2XL](https://www.amazon.com/dp/B00EFRXJQ6/?tag=redken08-20) con 53.35 de descuento por 27.99 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Helly Hansen Daybreaker Fleece Jacket Chaqueta  Hombre  Negro  2XL](https://www.amazon.com/dp/B00EFRXJQ6/?tag=redken08-20) con 48.50 de descuento por 30.9 EUR (original: 60.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/318recuxSxL._SL200_.jpg)](https://www.amazon.com/dp/B00EFRXJQ6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31j7uaeZXXL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00EFRXJQ6/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00EFRXJQ6/?tag=redken08-20)
 

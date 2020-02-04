@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'firestartoys.com R2-D2 Star Wars Alarm C al 40.00 % de descuento'
-date: 2020-01-30 12:45:58
+date: 2020-02-04 19:18:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/412QmUvk6CL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412QmUvk6CL._AC_._SL200_.jpg' ]
 comments: true
