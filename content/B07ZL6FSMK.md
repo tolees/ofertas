@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Zephyrus GA502DU-AL025 - Portát al 30.77 % de descuento'
-date: 2020-02-03 06:45:22
+date: 2020-02-04 11:31:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KpMIRVu7L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KpMIRVu7L._AC_._SL200_.jpg' ]
 comments: true

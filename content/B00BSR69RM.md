@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Geox 43c9999 J Agata C  Zapatos de Vesti al 75.65 % de descuento'
-date: 2019/11/16 10:54:56 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417xYl6iYqL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417xYl6iYqL._SL200_.jpg' ]
+title: 'Geox 43c9999 J Agata C  Zapatos de Vesti al 82.29 % de descuento'
+date: 2020-02-04 11:24:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/417xYl6iYqL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/417xYl6iYqL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00BSR69RM
 description:
-actualPrice: 15.83 EUR
-comparePrice: 65 EUR
+actualPrice: 11.51 EUR
+comparePrice: 65.0 EUR
 inStock: true
 ---
 
-Está [Geox 43c9999 J Agata C  Zapatos de Vestir para Niñas  Negro  BLACKC9999   28 EU](https://www.amazon.com/dp/B00BSR69RM/?tag=redken08-20) con 75.65 de descuento por 15.83 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Geox 43c9999 J Agata C  Zapatos de Vestir para Niñas  Negro  BLACKC9999   28 EU](https://www.amazon.com/dp/B00BSR69RM/?tag=redken08-20) con 82.29 de descuento por 11.51 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/417xYl6iYqL._SL200_.jpg)](https://www.amazon.com/dp/B00BSR69RM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/417xYl6iYqL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00BSR69RM/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00BSR69RM/?tag=redken08-20)
 

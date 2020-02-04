@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Durex Natural Comfort Preservativos - 24 al 28.32 % de descuento'
-date: 2020-01-27 22:20:38
+date: 2020-02-04 10:42:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uk83SiSiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uk83SiSiL._AC_._SL200_.jpg' ]
 comments: true

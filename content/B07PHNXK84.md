@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite Checkmate - Mochila para portá al 25.73 % de descuento'
-date: 2020-02-02 00:54:24
+date: 2020-02-04 11:18:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JyxhbgqgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JyxhbgqgL._AC_._SL200_.jpg' ]
 comments: true
