@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus Cable USB Tipo C Nailon Trenzado  al 26.90 % de descuento'
-date: 2020-02-03 10:05:11
+date: 2020-02-04 14:52:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XGlCzEs1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XGlCzEs1L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.79 % en BAIGIO Bolso Fiesta Mujer Lentejuelas  C'
-date: 2020-02-02 13:36:16
+date: 2020-02-04 17:34:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iwnU2NeKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iwnU2NeKL._AC_._SL200_.jpg' ]
 comments: true

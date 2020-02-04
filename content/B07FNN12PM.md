@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 60237 City Kurve und Kreuzung  bunt al 36.44 % de descuento'
-date: 2020-01-26 17:39:43
+date: 2020-02-04 17:37:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Xx79D+xSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Xx79D+xSL._AC_._SL200_.jpg' ]
 comments: true

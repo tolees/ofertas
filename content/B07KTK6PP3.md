@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.68 % en Lego Ninjago 70671 Angriff des Eis-Samur'
-date: 2020-02-03 13:05:48
+date: 2020-02-04 13:11:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SvRWcrWnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SvRWcrWnL._AC_._SL200_.jpg' ]
 comments: true

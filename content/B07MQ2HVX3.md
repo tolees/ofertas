@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Clarks Un Larvik Lace  Zapatos de Cordon al 40.05 % de descuento'
-date: 2020-01-21 08:04:38
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL200_.jpg' ]
+title: 'Clarks Un Larvik Lace  Zapatos de Cordon al 50.05 % de descuento'
+date: 2020-02-04 14:35:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/314OKVFMJML._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/314OKVFMJML._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07MQ2HVX3
 description:
-actualPrice: 65.95 EUR
-comparePrice: 110 EUR
+actualPrice: 54.95 EUR
+comparePrice: 110.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Clarks Un Larvik Lace  Zapatos de Cordones Derby para Hombre  Marrón Brown Leather  42 EU](https://www.amazon.com/dp/B07MQ2HVX3/?tag=redken08-20) a 65.95 EUR (original: 110 EUR) (40.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Clarks Un Larvik Lace  Zapatos de Cordones Derby para Hombre  Marrón Brown Leather  42 EU](https://www.amazon.com/dp/B07MQ2HVX3/?tag=redken08-20) a 54.95 EUR (original: 110.0 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL200_.jpg)](https://www.amazon.com/dp/B07MQ2HVX3/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/314OKVFMJML._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MQ2HVX3/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07MQ2HVX3/?tag=redken08-20)
 
