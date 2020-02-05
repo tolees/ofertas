@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 51.00 % en LG PK3 XBOOM Go Bluetooth Party Speaker '
-date: 2020-01-03 11:47:55
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uA02ff82L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uA02ff82L._SL200_.jpg' ]
+title: 'Descuento del 50.01 % en LG PK3 XBOOM Go Bluetooth Party Speaker '
+date: 2020-02-05 12:11:05
+thumbnailImage: 'https://m.media-amazon.com/images/I/41uA02ff82L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41uA02ff82L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07CMD1BC4
 description:
-actualPrice: 49 GBP
+actualPrice: 49.99 GBP
 comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Tienes [LG PK3 XBOOM Go Bluetooth Party Speaker - Black](https://www.amazon.com/dp/B07CMD1BC4/?tag=redken08-20) con un 51.00 % de descuento con precio de oferta de 49 GBP (original: 99.99 GBP) en el siguiente enlace!
+Tienes [LG PK3 XBOOM Go Bluetooth Party Speaker - Black](https://www.amazon.com/dp/B07CMD1BC4/?tag=redken08-20) con un 50.01 % de descuento con precio de oferta de 49.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41uA02ff82L._SL200_.jpg)](https://www.amazon.com/dp/B07CMD1BC4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41uA02ff82L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CMD1BC4/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07CMD1BC4/?tag=redken08-20)
 

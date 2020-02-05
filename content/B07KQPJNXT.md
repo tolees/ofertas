@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 62.85 % en Salomon XA Discovery GTX  Zapatillas de '
-date: 2020-02-03 15:11:08
+title: 'Descuento del 64.48 % en Salomon XA Discovery GTX  Zapatillas de '
+date: 2020-02-05 15:09:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/417Q3xrJwDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417Q3xrJwDL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KQPJNXT
 description:
-actualPrice: 48.27 EUR
+actualPrice: 46.16 EUR
 comparePrice: 129.95 EUR
 inStock: true
 ---
 
-Tienes [Salomon XA Discovery GTX  Zapatillas de Trail Running para Hombre  Verde Trekking Green Lime Green Black  43 1/3 EU](https://www.amazon.com/dp/B07KQPJNXT/?tag=redken08-20) con un 62.85 % de descuento con precio de oferta de 48.27 EUR (original: 129.95 EUR) en el siguiente enlace!
+Tienes [Salomon XA Discovery GTX  Zapatillas de Trail Running para Hombre  Verde Trekking Green Lime Green Black  43 1/3 EU](https://www.amazon.com/dp/B07KQPJNXT/?tag=redken08-20) con un 64.48 % de descuento con precio de oferta de 46.16 EUR (original: 129.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/417Q3xrJwDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KQPJNXT/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel NUC/Mainstream-G Mini PC Core i7 8 al 54.23 % de descuento'
-date: 2020-02-04 05:14:57
+date: 2020-02-05 11:58:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/315U1NUPDuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315U1NUPDuL._AC_._SL200_.jpg' ]
 comments: true

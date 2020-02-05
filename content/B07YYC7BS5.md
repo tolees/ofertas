@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en Trueno Sala'
-date: 2020-01-27 16:52:15
+date: 2020-02-05 12:26:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/21sNS4G+mNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21sNS4G+mNL._AC_._SL200_.jpg' ]
 comments: true

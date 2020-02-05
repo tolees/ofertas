@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maleta de cabina Mickey Colored rígida 5 al 44.35 % de descuento'
-date: 2020-02-02 21:06:04
+date: 2020-02-05 12:37:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/419+qFgYAAL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419+qFgYAAL._AC_._SL200_.jpg' ]
 comments: true

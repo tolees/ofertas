@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.07 % en Hisense H50B7500 - TV 50  4K Ultra HD Sm'
-date: 2020-02-02 11:55:31
+date: 2020-02-05 13:04:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WJ9oc01iL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WJ9oc01iL._AC_._SL200_.jpg' ]
 comments: true

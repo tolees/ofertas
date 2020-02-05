@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Fujifilm X-E3 - Cuerpo de cámara EVIL de al 29.44 % de descuento'
-date: 2019/12/20 23:48:48 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uyTdcwveL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uyTdcwveL._SL200_.jpg' ]
+title: 'Fujifilm X-E3 - Cuerpo de cámara EVIL de al 27.47 % de descuento'
+date: 2020-02-05 13:14:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/51uyTdcwveL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51uyTdcwveL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B075JJGXVR
 description:
-actualPrice: 493.18 EUR
-comparePrice: 699 EUR
+actualPrice: 506.99 EUR
+comparePrice: 699.0 EUR
 inStock: true
 ---
 
-Está [Fujifilm X-E3 - Cuerpo de cámara EVIL de 24.3 MP  color plata](https://www.amazon.com/dp/B075JJGXVR/?tag=redken08-20) con 29.44 de descuento por 493.18 EUR (original: 699 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fujifilm X-E3 - Cuerpo de cámara EVIL de 24.3 MP  color plata](https://www.amazon.com/dp/B075JJGXVR/?tag=redken08-20) a 506.99 EUR (original: 699.0 EUR) (27.47 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51uyTdcwveL._SL200_.jpg)](https://www.amazon.com/dp/B075JJGXVR/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51uyTdcwveL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B075JJGXVR/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B075JJGXVR/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B075JJGXVR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'HP Omen 600 - Ratón con Cable Gaming 120 al 49.99 % de descuento'
-date: 2020-01-29 10:06:56
+title: 'HP Omen 600 - Ratón con Cable Gaming 120 al 50.03 % de descuento'
+date: 2020-02-05 16:50:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O2hDubIPL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O2hDubIPL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B071JR6NHL
 description:
-actualPrice: 30.0 EUR
+actualPrice: 29.98 EUR
 comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HP Omen 600 - Ratón con Cable Gaming 12000 PPP  Negro y Rojo](https://www.amazon.com/dp/B071JR6NHL/?tag=redken08-20) a 30.0 EUR (original: 59.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [HP Omen 600 - Ratón con Cable Gaming 12000 PPP  Negro y Rojo](https://www.amazon.com/dp/B071JR6NHL/?tag=redken08-20) a 29.98 EUR (original: 59.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41O2hDubIPL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B071JR6NHL/?tag=redken08-20)
 

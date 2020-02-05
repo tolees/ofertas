@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Logitech B100 - Ratón óptico  color negr al 50.05 % de descuento'
-date: 2020-01-29 10:31:29
+title: 'Logitech B100 Ratón con Cable  3 Botones al 40.94 % de descuento'
+date: 2020-02-05 13:11:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31iFF1KbkpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31iFF1KbkpL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00AZKNPZC
 description:
-actualPrice: 4.99 EUR
+actualPrice: 5.9 EUR
 comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Logitech B100 - Ratón óptico  color negro](https://www.amazon.com/dp/B00AZKNPZC/?tag=redken08-20) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Logitech B100 Ratón con Cable  3 Botones  Seguimiento Óptico  Ambidiestro  PC/Mac/Portátil  Negro](https://www.amazon.com/dp/B00AZKNPZC/?tag=redken08-20) a 5.9 EUR (original: 9.99 EUR) (40.94 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31iFF1KbkpL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00AZKNPZC/?tag=redken08-20)
 

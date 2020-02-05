@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thunder X3 TK40- Teclado gaming Híbrido  al 52.35 % de descuento'
-date: 2020-02-03 04:51:56
+date: 2020-02-05 16:16:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uTAtWxX0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uTAtWxX0L._AC_._SL200_.jpg' ]
 comments: true

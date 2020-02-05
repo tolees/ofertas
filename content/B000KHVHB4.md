@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 43.14 % en Eaton/Protection Box 5 Tel@+TV DIN - 669'
+title: 'Eaton/Protection Box 5 Tel@+TV DIN - 669 al 43.14 % de descuento'
 date: 2019/11/09 01:09:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ar8cbjwDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ar8cbjwDL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 50.95 EUR
 inStock: true
 ---
 
-Tienes [Eaton/Protection Box 5 Tel@+TV DIN - 66936 - Regleta de protección contra sobretensiones  5 Tomas DIN de Salida con protección Tel/Internet +TV Audio/Vídeo  canoso](https://www.amazon.com/dp/B000KHVHB4/?tag=redken08-20) con un 43.14 % de descuento con precio de oferta de 28.97 EUR (original: 50.95 EUR) en el siguiente enlace!
+Está [Eaton/Protection Box 5 Tel@+TV DIN - 66936 - Regleta de protección contra sobretensiones  5 Tomas DIN de Salida con protección Tel/Internet +TV Audio/Vídeo  canoso](https://www.amazon.com/dp/B000KHVHB4/?tag=redken08-20) con 43.14 de descuento por 28.97 EUR (original: 50.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ar8cbjwDL._SL200_.jpg)](https://www.amazon.com/dp/B000KHVHB4/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B000KHVHB4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B000KHVHB4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
