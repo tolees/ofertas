@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Vinilo: Big Bang Theory S2: S al 48.28 % de descuento'
-date: 2020-02-03 21:26:44
+date: 2020-02-05 03:43:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EcNykYd8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EcNykYd8L._AC_._SL200_.jpg' ]
 comments: true

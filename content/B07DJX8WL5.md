@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TEKKIWEAR. DMX121BK. Smartwatch Phone H1 al 62.94 % de descuento'
-date: 2020-02-03 20:28:21
+date: 2020-02-04 23:10:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nbwItCmLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nbwItCmLL._AC_._SL200_.jpg' ]
 comments: true

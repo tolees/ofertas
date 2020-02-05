@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sphero R2-D2 App-Enabled Droid de Sphero al 40.00 % de descuento'
-date: 2020-01-28 11:01:00
+title: 'Sphero Star Wars R2D2 | Appgesteuerter D al 55.00 % de descuento'
+date: 2020-02-05 03:14:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qxkvzYs5L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qxkvzYs5L._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B071LLZKG7
 description:
 actualPrice: 89.99 EUR
-comparePrice: 149.99 EUR
+comparePrice: 199.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sphero R2-D2 App-Enabled Droid de Sphero](https://www.amazon.com/dp/B071LLZKG7/?tag=redken08-20) a 89.99 EUR (original: 149.99 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sphero Star Wars R2D2 | Appgesteuerter Droide](https://www.amazon.com/dp/B071LLZKG7/?tag=redken08-20) a 89.99 EUR (original: 199.99 EUR) (55.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51qxkvzYs5L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B071LLZKG7/?tag=redken08-20)
 

@@ -14,10 +14,10 @@ comparePrice: 489 EUR
 inStock: true
 ---
 
-Está [Gre FA6080 - Filtro de arena 8m3/h  con bomba de 0 86 CV](https://www.amazon.com/dp/B00DVKGRHQ/?tag=redken08-20) con 60.74 de descuento por 192 EUR (original: 489 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gre FA6080 - Filtro de arena 8m3/h  con bomba de 0 86 CV](https://www.amazon.com/dp/B00DVKGRHQ/?tag=redken08-20) a 192 EUR (original: 489 EUR) (60.74 %  de descuento) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B00DVKGRHQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00DVKGRHQ/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00DVKGRHQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

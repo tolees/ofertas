@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'De Longhi Dolce Gusto Piccolo EDG200.B - al 31.78 % de descuento'
-date: 2020-02-04 23:07:21
+date: 2020-02-04 23:07:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Q2-cbHhLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Q2-cbHhLL._AC_._SL200_.jpg' ]
 comments: true

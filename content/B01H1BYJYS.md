@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic Lumix DMC-GX80K - Cámara EVIL  al 33.07 % de descuento'
-date: 2020-02-01 18:52:20
+date: 2020-02-04 23:07:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/411wFT0IdtL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411wFT0IdtL._AC_._SL200_.jpg' ]
 comments: true
