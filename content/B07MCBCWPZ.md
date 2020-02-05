@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ratón Ergonómico Inalámbrico Ratón Verti al 43.35 % de descuento'
-date: 2020-02-02 09:25:22
+date: 2020-02-05 10:20:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vey2cM5ZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vey2cM5ZL._AC_._SL200_.jpg' ]
 comments: true

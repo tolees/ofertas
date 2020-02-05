@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES NOS JacLee Trunks 5 Pack Bó al 25.72 % de descuento'
-date: 2020-02-04 07:46:41
+date: 2020-02-05 10:19:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gC1WT2YtL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gC1WT2YtL._AC_._SL200_.jpg' ]
 comments: true

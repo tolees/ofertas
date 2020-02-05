@@ -14,10 +14,10 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Disney Infinity 3.0 - Star Wars: Starter Pack  Incluye Figura Anakin Y Ashoka ](https://www.amazon.com/dp/B00X5FH3EI/?tag=redken08-20) con 83.41 de descuento por 9.95 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Disney Infinity 3.0 - Star Wars: Starter Pack  Incluye Figura Anakin Y Ashoka ](https://www.amazon.com/dp/B00X5FH3EI/?tag=redken08-20) a 9.95 EUR (original: 59.99 EUR) (83.41 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TQuAsIjpL._SL200_.jpg)](https://www.amazon.com/dp/B00X5FH3EI/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00X5FH3EI/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00X5FH3EI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
