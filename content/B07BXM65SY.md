@@ -14,10 +14,10 @@ comparePrice: 51.64 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Salsa](https://www.amazon.com/dp/B07BXM65SY/?tag=redken08-20) a 24.7 EUR (original: 51.64 EUR) (52.17 %  de descuento) en el siguiente enlace!
+Está [Salsa](https://www.amazon.com/dp/B07BXM65SY/?tag=redken08-20) con 52.17 de descuento por 24.7 EUR (original: 51.64 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21m6gvEUZBL._SL200_.jpg)](https://www.amazon.com/dp/B07BXM65SY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07BXM65SY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07BXM65SY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

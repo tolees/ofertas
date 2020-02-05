@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Nacon - Revolution Pro Controller 2  Ver al 27.76 % de descuento'
-date: 2019/12/16 22:26:32 +0000
-thumbnailImage: ''
-images: [ '' ]
+date: 2020-02-05 17:06:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/41yNyiLICEL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41yNyiLICEL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Nacon - Revolution Pro Controller 2  Versión Española  PS4 ](https://www.amazon.com/dp/B075QFWVY4/?tag=redken08-20) a 93.9 EUR (original: 129.99 EUR) (27.76 %  de descuento) en el siguiente enlace!
 
-[![]()](https://www.amazon.com/dp/B075QFWVY4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41yNyiLICEL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B075QFWVY4/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B075QFWVY4/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 30985 Kurt Angle  Ring Gear  POP V al 50.00 % de descuento'
-date: 2020-02-03 12:52:38
+date: 2020-02-05 19:01:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ME1mONk4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ME1mONk4L._AC_._SL200_.jpg' ]
 comments: true

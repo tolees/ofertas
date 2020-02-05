@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 83.01 % en Collar Mujer  J.Rosée “Tú Eres Mi Única '
-date: 2020-02-04 09:57:03
+date: 2020-02-05 18:08:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ihJLplwpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ihJLplwpL._AC_._SL200_.jpg' ]
 comments: true

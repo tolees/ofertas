@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families Igloo Tent al 50.03 % de descuento'
-date: 2020-02-03 13:12:08
+date: 2020-02-05 19:18:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/5118K364s8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5118K364s8L._AC_._SL200_.jpg' ]
 comments: true
