@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wolfcraft 6182000 6182000-1"Master 600"  al 27.04 % de descuento'
-date: 2020-02-01 18:06:08
+date: 2020-02-06 10:55:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Q3zxjal8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Q3zxjal8L._AC_._SL200_.jpg' ]
 comments: true

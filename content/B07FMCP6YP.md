@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Headphones BT Smart 6 Voice Assis al 44.82 % de descuento'
-date: 2020-01-11 09:21:32
+date: 2020-02-06 17:41:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CHEjvGUJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CHEjvGUJL._SL200_.jpg' ]
 comments: true

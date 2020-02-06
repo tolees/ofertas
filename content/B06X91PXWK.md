@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars Ren w Kylo Ren’s Tie Silencer  al 62.51 % de descuento'
-date: 2020-02-05 03:43:15
+date: 2020-02-06 10:09:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/61QmTABBcfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61QmTABBcfL._AC_._SL200_.jpg' ]
 comments: true

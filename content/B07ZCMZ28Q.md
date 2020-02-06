@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.02 % en Yigou Riñonera Deportiva  Riñonera Cintu'
-date: 2020-02-03 20:52:19
+date: 2020-02-06 10:21:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eIzAu-MSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eIzAu-MSL._AC_._SL200_.jpg' ]
 comments: true

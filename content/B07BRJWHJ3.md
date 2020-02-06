@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.25 % en LEVIS FOOTWEAR AND ACCESSORIESBanana Sli'
-date: 2020-02-04 18:19:05
+date: 2020-02-06 12:30:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/418dvV8o8eL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418dvV8o8eL._AC_._SL200_.jpg' ]
 comments: true

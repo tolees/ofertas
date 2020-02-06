@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'GORE WEAR R5 Mallas cortas de running pa al 46.83 % de descuento'
-date: 2020-01-24 10:40:24
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419PeDhYYKL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419PeDhYYKL._SL200_.jpg' ]
+title: 'GORE WEAR R5 Mallas cortas de running pa al 59.96 % de descuento'
+date: 2020-02-06 12:36:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/419PeDhYYKL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/419PeDhYYKL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B075RGKRK2
 description:
-actualPrice: 29.75 EUR
+actualPrice: 22.4 EUR
 comparePrice: 55.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [GORE WEAR R5 Mallas cortas de running para mujer  Talla: 38  Color: Gris oscuro/Negro](https://www.amazon.com/dp/B075RGKRK2/?tag=redken08-20) a 29.75 EUR (original: 55.95 EUR) (46.83 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [GORE WEAR R5 Mallas cortas de running para mujer  Talla: 38  Color: Gris oscuro/Negro](https://www.amazon.com/dp/B075RGKRK2/?tag=redken08-20) a 22.4 EUR (original: 55.95 EUR) (59.96 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/419PeDhYYKL._SL200_.jpg)](https://www.amazon.com/dp/B075RGKRK2/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/419PeDhYYKL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B075RGKRK2/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B075RGKRK2/?tag=redken08-20)
 

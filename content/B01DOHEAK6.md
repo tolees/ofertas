@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Trango SHANGU IP  Zapatillas de Deporte  al 49.70 % de descuento'
-date: 2020-02-05 14:32:13
+title: 'Trango SHANGU IP  Zapatillas de Deporte  al 52.78 % de descuento'
+date: 2020-02-06 14:47:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iKMaBGgjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iKMaBGgjL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01DOHEAK6
 description:
-actualPrice: 66.14 EUR
+actualPrice: 62.09 EUR
 comparePrice: 131.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Trango SHANGU IP  Zapatillas de Deporte Exterior Unisex Adulto  Negro  Negro/Naranja 004   44 EU](https://www.amazon.com/dp/B01DOHEAK6/?tag=redken08-20) a 66.14 EUR (original: 131.5 EUR) (49.70 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Trango SHANGU IP  Zapatillas de Deporte Exterior Unisex Adulto  Negro  Negro/Naranja 004   44 EU](https://www.amazon.com/dp/B01DOHEAK6/?tag=redken08-20) a 62.09 EUR (original: 131.5 EUR) (52.78 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41iKMaBGgjL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01DOHEAK6/?tag=redken08-20)
 

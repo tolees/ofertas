@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Pepe Jeans Wyatt Pm305905 Camisa    Blue al 50.05 % de descuento'
-date: 2019/11/29 10:34:33 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BfvEHhqKL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BfvEHhqKL._SL200_.jpg' ]
+title: 'Pepe Jeans Wyatt Pm305905 Camisa    Blue al 72.51 % de descuento'
+date: 2020-02-06 12:09:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41BfvEHhqKL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41BfvEHhqKL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07JH3FMNK
 description:
-actualPrice: 25.45 EUR
-comparePrice: 50.95 EUR
+actualPrice: 23.37 EUR
+comparePrice: 85.0 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Wyatt Pm305905 Camisa    Blue 551   Medium para Hombre](https://www.amazon.com/dp/B07JH3FMNK/?tag=redken08-20) con 50.05 de descuento por 25.45 EUR (original: 50.95 EUR) en el siguiente enlace!
+Está [Pepe Jeans Wyatt Pm305905 Camisa    Blue 551   Medium para Hombre](https://www.amazon.com/dp/B07JH3FMNK/?tag=redken08-20) con 72.51 de descuento por 23.37 EUR (original: 85.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41BfvEHhqKL._SL200_.jpg)](https://www.amazon.com/dp/B07JH3FMNK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41BfvEHhqKL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07JH3FMNK/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07JH3FMNK/?tag=redken08-20)
 

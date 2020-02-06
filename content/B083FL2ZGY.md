@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.39 % en NAIXUES Smartwatch  Reloj Inteligente IP'
-date: 2020-01-30 18:54:22
+date: 2020-02-06 09:58:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/511c6fA2jiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511c6fA2jiL._AC_._SL200_.jpg' ]
 comments: true
