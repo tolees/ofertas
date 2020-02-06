@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigostar Queen 30CDZ - Hervidor de agua  al 50.01 % de descuento'
-date: 2020-01-29 19:45:41
+date: 2020-02-06 20:18:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sXwx6oEDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sXwx6oEDL._AC_._SL200_.jpg' ]
 comments: true

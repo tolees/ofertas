@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remington i-Light IPL6780 - Depiladora d al 44.29 % de descuento'
-date: 2020-02-04 16:34:01
+date: 2020-02-06 20:32:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pL2IWv5rL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pL2IWv5rL._AC_._SL200_.jpg' ]
 comments: true

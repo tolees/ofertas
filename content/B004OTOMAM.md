@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 0-90-948 - Llave ajustable 30 x  al 40.51 % de descuento'
-date: 2020-02-04 08:47:45
+date: 2020-02-06 20:06:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MdmddP-EL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MdmddP-EL._AC_._SL200_.jpg' ]
 comments: true
