@@ -14,10 +14,10 @@ comparePrice: 15 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PEKITAS Protector Colchón/Cubre colchón Impermeable Acolchado - Minicuna 50 X 80 cm Fabricado En España](https://www.amazon.com/dp/B06VXXB9WW/?tag=redken08-20) a 6 EUR (original: 15 EUR) (60.00 %  de descuento) en el siguiente enlace!
+Está [PEKITAS Protector Colchón/Cubre colchón Impermeable Acolchado - Minicuna 50 X 80 cm Fabricado En España](https://www.amazon.com/dp/B06VXXB9WW/?tag=redken08-20) con 60.00 de descuento por 6 EUR (original: 15 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4161CHcUPyL._SL200_.jpg)](https://www.amazon.com/dp/B06VXXB9WW/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B06VXXB9WW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06VXXB9WW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
