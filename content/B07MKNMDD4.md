@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'BLACK+DECKER BEW230BC-QS Lijadora de Det al 32.89 % de descuento'
-date: 2020-01-20 16:36:52
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxfEU5YdL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CxfEU5YdL._SL200_.jpg' ]
+date: 2020-02-05 20:38:07
+thumbnailImage: 'https://m.media-amazon.com/images/I/41CxfEU5YdL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41CxfEU5YdL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [BLACK+DECKER BEW230BC-QS Lijadora de Detalle Mouse 55W  11.000 RPM  diámetro órbita 1.5 mm  Incluye 15 Accesorios y Bolsa de Transporte](https://www.amazon.com/dp/B07MKNMDD4/?tag=redken08-20) con 32.89 de descuento por 26.81 EUR (original: 39.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41CxfEU5YdL._SL200_.jpg)](https://www.amazon.com/dp/B07MKNMDD4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41CxfEU5YdL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MKNMDD4/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07MKNMDD4/?tag=redken08-20)
 

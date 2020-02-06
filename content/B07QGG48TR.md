@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.75 % en PUMA Collective Woven Jacket Chaqueta de'
-date: 2020-01-31 08:40:52
+date: 2020-02-05 20:12:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u64R+US8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u64R+US8L._AC_._SL200_.jpg' ]
 comments: true

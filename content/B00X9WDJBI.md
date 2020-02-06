@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.95 % en L Oreal Paris Dermo Expertise Crema de D'
-date: 2020-02-03 11:39:31
+date: 2020-02-05 20:36:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ciMh2CDLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ciMh2CDLL._AC_._SL200_.jpg' ]
 comments: true

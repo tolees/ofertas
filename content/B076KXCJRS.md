@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.37 % en Funko 22981 Pop 8-Bit Teenage Mutant Nin'
-date: 2020-01-31 21:37:13
+date: 2020-02-06 02:59:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xSp8ghfTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xSp8ghfTL._AC_._SL200_.jpg' ]
 comments: true
