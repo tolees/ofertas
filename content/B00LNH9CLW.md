@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Shimano Alivio CSHG4009134 - Cassette Hg al 26.20 % de descuento'
-date: 2019/11/07 12:16:33 +0000
+date: 2020-02-07 04:06:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61qXIZ638KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61qXIZ638KL._SL200_.jpg' ]
 comments: true

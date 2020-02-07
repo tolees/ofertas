@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgante  J.Rosée Collares Mujer Plata d al 87.01 % de descuento'
-date: 2020-02-05 18:04:05
+date: 2020-02-06 23:26:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/413m22jLZjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413m22jLZjL._AC_._SL200_.jpg' ]
 comments: true

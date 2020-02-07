@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Corsair M55 RGB Pro  Ratón Óptico  Tamañ al 33.89 % de descuento'
-date: 2020-01-11 12:32:44
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SejFxwE2L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SejFxwE2L._SL200_.jpg' ]
+title: 'Corsair M55 PRO RGB  Ambidextrous Multi- al 44.48 % de descuento'
+date: 2020-02-01 21:03:54
+thumbnailImage: 'https://m.media-amazon.com/images/I/31SejFxwE2L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31SejFxwE2L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07RNS9HTZ
 description:
-actualPrice: 33.05 EUR
-comparePrice: 49.99 EUR
+actualPrice: 24.98 GBP
+comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Está [Corsair M55 RGB Pro  Ratón Óptico  Tamaño Único  Negro](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20) con 33.89 de descuento por 33.05 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Corsair M55 PRO RGB  Ambidextrous Multi-Grip Optical Gaming Mouse  12400 DPI Optical Sensor  Lightweight  8 Programmable Buttons  RGB Multi-Colour Backlighting   Black](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20) con 44.48 de descuento por 24.98 GBP (original: 44.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31SejFxwE2L._SL200_.jpg)](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31SejFxwE2L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20)
 

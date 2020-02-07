@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bluetooth Adapter Bluetooth USB Adapter  al 37.52 % de descuento'
-date: 2020-02-05 19:02:01
+date: 2020-02-07 01:37:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FDqYNgBQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FDqYNgBQL._AC_._SL200_.jpg' ]
 comments: true

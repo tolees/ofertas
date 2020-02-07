@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Olympus Pen E-PL9 - Cámara de Sistema Co al 28.48 % de descuento'
-date: 2019/12/30 10:23:23 +0000
+date: 2020-02-07 09:39:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FdkjiOexL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FdkjiOexL._SL200_.jpg' ]
 comments: true

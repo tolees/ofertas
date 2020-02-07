@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.76 % en Lijadora Eléctrica  TACKLIFE Lijadora Or'
-date: 2020-02-04 20:31:48
+date: 2020-02-07 09:58:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51h3tnMqioL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51h3tnMqioL._AC_._SL200_.jpg' ]
 comments: true

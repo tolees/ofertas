@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Puma Basket Heart Patent Wn s  Zapatilla al 78.17 % de descuento'
-date: 2019/10/30 22:26:11 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Uv2fmmPRL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Uv2fmmPRL._SL200_.jpg' ]
+title: 'Puma Basket Heart Patent Wn s  Zapatilla al 71.99 % de descuento'
+date: 2020-02-06 22:37:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Uv2fmmPRL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Uv2fmmPRL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07CZ3PRC3
 description:
-actualPrice: 21.82 EUR
+actualPrice: 28.0 EUR
 comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Naranja  Dusty Coral   39 EU](https://www.amazon.com/dp/B07CZ3PRC3/?tag=redken08-20) a 21.82 EUR (original: 99.95 EUR) (78.17 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Naranja  Dusty Coral   39 EU](https://www.amazon.com/dp/B07CZ3PRC3/?tag=redken08-20) a 28.0 EUR (original: 99.95 EUR) (71.99 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41Uv2fmmPRL._SL200_.jpg)](https://www.amazon.com/dp/B07CZ3PRC3/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41Uv2fmmPRL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CZ3PRC3/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07CZ3PRC3/?tag=redken08-20)
 

@@ -14,10 +14,10 @@ comparePrice: 149 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Carrera 154/S Gafas de sol  Negro  BLACK   51 Unisex Adulto](https://www.amazon.com/dp/B079WCMX8N/?tag=redken08-20) a 77 EUR (original: 149 EUR) (48.32 %  de descuento) en el siguiente enlace!
+Está [Carrera 154/S Gafas de sol  Negro  BLACK   51 Unisex Adulto](https://www.amazon.com/dp/B079WCMX8N/?tag=redken08-20) con 48.32 de descuento por 77 EUR (original: 149 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KWF3B6aBL._SL200_.jpg)](https://www.amazon.com/dp/B079WCMX8N/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B079WCMX8N/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B079WCMX8N/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Rider  Vaqueros Slim para Hombre  Az al 49.99 % de descuento'
-date: 2020-01-29 14:15:04
+date: 2020-02-07 10:42:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PP-KDcQ+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PP-KDcQ+L._AC_._SL200_.jpg' ]
 comments: true

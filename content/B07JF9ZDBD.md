@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Konesky Fitness Tracker Monitor de Ritmo al 45.01 % de descuento'
-date: 2020-01-24 20:01:44
+date: 2020-02-06 23:15:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-rGI-3qTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-rGI-3qTL._AC_._SL200_.jpg' ]
 comments: true
