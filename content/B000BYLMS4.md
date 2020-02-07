@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.03 % en Converse Chuck Taylor All Star Season Ox'
-date: 2020-01-24 17:42:59
+date: 2020-02-07 11:56:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Rc8kRcMlL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Rc8kRcMlL._AC_._SL200_.jpg' ]
 comments: true

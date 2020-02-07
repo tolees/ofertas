@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Versace Jeans CouturePortafoglioMujerCar al 34.03 % de descuento'
-date: 2020-01-30 12:19:06
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W2NzlnHeL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31W2NzlnHeL._SL200_.jpg' ]
+title: 'Versace Jeans CouturePortafoglioMujerCar al 33.34 % de descuento'
+date: 2020-02-07 13:10:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/31W2NzlnHeL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31W2NzlnHeL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NLLY9QL
 description:
-actualPrice: 69.27 EUR
-comparePrice: 105 EUR
+actualPrice: 69.99 EUR
+comparePrice: 105.0 EUR
 inStock: true
 ---
 
-Está [Versace Jeans CouturePortafoglioMujerCarterasRosa  Fuxia  2x12.5x22 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLLY9QL/?tag=redken08-20) con 34.03 de descuento por 69.27 EUR (original: 105 EUR) en el siguiente enlace!
+Está [Versace Jeans CouturePortafoglioMujerCarterasRosa  Fuxia  2x12.5x22 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLLY9QL/?tag=redken08-20) con 33.34 de descuento por 69.99 EUR (original: 105.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31W2NzlnHeL._SL200_.jpg)](https://www.amazon.com/dp/B07NLLY9QL/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31W2NzlnHeL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NLLY9QL/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07NLLY9QL/?tag=redken08-20)
 

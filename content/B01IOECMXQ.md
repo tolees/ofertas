@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Sennheiser HD 2.30i - Auriculares de Dia al 55.07 % de descuento'
-date: 2020-01-20 21:27:28
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XIDtSj30L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XIDtSj30L._SL200_.jpg' ]
+title: 'Sennheiser HD 2.30i - Auriculares de Dia al 64.16 % de descuento'
+date: 2020-02-07 12:26:30
+thumbnailImage: 'https://m.media-amazon.com/images/I/31XIDtSj30L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31XIDtSj30L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01IOECMXQ
 description:
-actualPrice: 39.99 EUR
-comparePrice: 89 EUR
+actualPrice: 31.9 EUR
+comparePrice: 89.0 EUR
 inStock: true
 ---
 
-Está [Sennheiser HD 2.30i - Auriculares de Diadema Cerrados  3.5 mm  Compatible con iOS   Color Negro](https://www.amazon.com/dp/B01IOECMXQ/?tag=redken08-20) con 55.07 de descuento por 39.99 EUR (original: 89 EUR) en el siguiente enlace!
+Está [Sennheiser HD 2.30i - Auriculares de Diadema Cerrados  3.5 mm  Compatible con iOS   Color Negro](https://www.amazon.com/dp/B01IOECMXQ/?tag=redken08-20) con 64.16 de descuento por 31.9 EUR (original: 89.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31XIDtSj30L._SL200_.jpg)](https://www.amazon.com/dp/B01IOECMXQ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31XIDtSj30L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01IOECMXQ/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01IOECMXQ/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 26.56 % en Brother ADS2200 - Escáner documental sob'
-date: 2020-02-04 09:41:35
+title: 'Descuento del 26.93 % en Brother ADS2200 - Escáner documental sob'
+date: 2020-02-07 12:12:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VKiYmC1QL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VKiYmC1QL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B076B6KDVQ
 description:
-actualPrice: 280.54 EUR
+actualPrice: 279.11 EUR
 comparePrice: 381.99 EUR
 inStock: true
 ---
 
-Tienes [Brother ADS2200 - Escáner documental sobremesa con dúplex](https://www.amazon.com/dp/B076B6KDVQ/?tag=redken08-20) con un 26.56 % de descuento con precio de oferta de 280.54 EUR (original: 381.99 EUR) en el siguiente enlace!
+Tienes [Brother ADS2200 - Escáner documental sobremesa con dúplex](https://www.amazon.com/dp/B076B6KDVQ/?tag=redken08-20) con un 26.93 % de descuento con precio de oferta de 279.11 EUR (original: 381.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31VKiYmC1QL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B076B6KDVQ/?tag=redken08-20)
 

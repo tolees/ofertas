@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.03 % en Desigual 19WAXAAI - Bolso de hombro de S'
-date: 2020-01-31 13:23:47
+date: 2020-02-07 12:29:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ga2SSWLBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ga2SSWLBL._AC_._SL200_.jpg' ]
 comments: true
