@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Muvit I/O MIOSMW009 Reloj de Actividad y al 61.27 % de descuento'
-date: 2020-02-05 12:40:49
+date: 2020-02-08 09:27:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dVm4rPjyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dVm4rPjyL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SGILE Pizarra Magnética Infantil  Grande al 30.78 % de descuento'
-date: 2020-01-26 17:36:39
+date: 2020-02-08 08:57:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iTLS14YYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iTLS14YYL._AC_._SL200_.jpg' ]
 comments: true

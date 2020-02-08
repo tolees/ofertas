@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Hat in Time al 33.43 % de descuento'
-date: 2020-02-06 15:29:24
+date: 2020-02-08 08:07:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D2sKNueUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D2sKNueUL._AC_._SL200_.jpg' ]
 comments: true

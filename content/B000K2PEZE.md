@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mannesmann - M29899 - Juego de puntas de al 47.75 % de descuento'
-date: 2020-02-07 09:09:01
+date: 2020-02-08 10:16:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wwroT77hL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wwroT77hL._AC_._SL200_.jpg' ]
 comments: true
