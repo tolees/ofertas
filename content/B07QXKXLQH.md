@@ -14,10 +14,10 @@ comparePrice: 699 EUR
 inStock: true
 ---
 
-Está [MEDION Ultrafino S6445 - MD61389 - Ordenador portátil de 15.6" FHD  Intel Core i5-8265U  8 GB RAM  256 GB SSD  Intel UHD Graphics  Windows 10 Home Plus  color gris - Teclado QWERTY Español](https://www.amazon.com/dp/B07QXKXLQH/?tag=redken08-20) con 29.90 de descuento por 490.01 EUR (original: 699 EUR) en el siguiente enlace!
+Ahora mismo tienes [MEDION Ultrafino S6445 - MD61389 - Ordenador portátil de 15.6" FHD  Intel Core i5-8265U  8 GB RAM  256 GB SSD  Intel UHD Graphics  Windows 10 Home Plus  color gris - Teclado QWERTY Español](https://www.amazon.com/dp/B07QXKXLQH/?tag=redken08-20) a 490.01 EUR (original: 699 EUR) (29.90 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dl8ze616L._SL200_.jpg)](https://www.amazon.com/dp/B07QXKXLQH/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07QXKXLQH/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07QXKXLQH/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

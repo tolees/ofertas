@@ -14,10 +14,10 @@ comparePrice: 329 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SAMYANG 8 mm f/3.5 UMC CS II fisheye lens - for Canon](https://www.amazon.com/dp/B009YTQFF2/?tag=redken08-20) a 244.94 EUR (original: 329 EUR) (25.55 %  de descuento) en el siguiente enlace!
+Está [SAMYANG 8 mm f/3.5 UMC CS II fisheye lens - for Canon](https://www.amazon.com/dp/B009YTQFF2/?tag=redken08-20) con 25.55 de descuento por 244.94 EUR (original: 329 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GWpEsNSjL._SL200_.jpg)](https://www.amazon.com/dp/B009YTQFF2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B009YTQFF2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B009YTQFF2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
