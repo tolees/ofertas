@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell Pistola de aire caliente - decap al 52.10 % de descuento'
-date: 2020-02-07 14:50:01
+date: 2020-02-08 15:23:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Zu1YASJbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Zu1YASJbL._AC_._SL200_.jpg' ]
 comments: true

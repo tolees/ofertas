@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ufesa PV1100 Activa - Plancha de Vapor   al 49.86 % de descuento'
-date: 2019/11/04 21:43:08 +0000
+date: 2020-02-08 16:02:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AexRGW%2BQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AexRGW%2BQL._SL200_.jpg' ]
 comments: true

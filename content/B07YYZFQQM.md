@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '12che Minifigures Custom Weapons Set  Ar al 29.99 % de descuento'
-date: 2020-02-07 09:54:05
+date: 2020-02-08 15:59:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/5123srYZW6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5123srYZW6L._AC_._SL200_.jpg' ]
 comments: true

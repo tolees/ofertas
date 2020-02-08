@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone XS  64GB  - Plata al 35.61 % de descuento'
-date: 2020-02-06 23:25:43
+date: 2020-02-08 14:05:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aEaDIrljL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aEaDIrljL._AC_._SL200_.jpg' ]
 comments: true

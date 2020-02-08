@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Radiador de Cuarzo Ready Warm 71 al 26.28 % de descuento'
-date: 2020-01-28 17:50:54
+date: 2020-02-08 11:50:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41H82BqWGQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41H82BqWGQL._AC_._SL200_.jpg' ]
 comments: true

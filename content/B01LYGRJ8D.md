@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Panama Jack Herren Panama 03 Aviator Com al 43.19 % de descuento'
-date: 2020-02-04 08:22:20
-thumbnailImage: 'https://m.media-amazon.com/images/I/41FbhdfTgdL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41FbhdfTgdL._AC_._SL200_.jpg' ]
+title: 'Panama Jack Herren Panama 03 Aviator Com al 43.66 % de descuento'
+date: 2020-02-08 15:45:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/41KLTf8fC1L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41KLTf8fC1L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01LYGRJ8D
 description:
-actualPrice: 107.37 EUR
+actualPrice: 106.48 EUR
 comparePrice: 189.0 EUR
 inStock: true
 ---
 
-Está [Panama Jack Herren Panama 03 Aviator Combat Boots  Braun  Cuero C22   44 EU](https://www.amazon.com/dp/B01LYGRJ8D/?tag=redken08-20) con 43.19 de descuento por 107.37 EUR (original: 189.0 EUR) en el siguiente enlace!
+Está [Panama Jack Herren Panama 03 Aviator Combat Boots  Lederfarben  44 EU](https://www.amazon.com/dp/B01LYGRJ8D/?tag=redken08-20) con 43.66 de descuento por 106.48 EUR (original: 189.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41FbhdfTgdL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01LYGRJ8D/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41KLTf8fC1L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01LYGRJ8D/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01LYGRJ8D/?tag=redken08-20)
 

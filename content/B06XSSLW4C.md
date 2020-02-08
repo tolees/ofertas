@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Visibly Renew Loción Corporal al 34.03 % de descuento'
-date: 2020-01-13 15:56:43
+date: 2020-02-08 15:50:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21rxFTxcrBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21rxFTxcrBL._SL200_.jpg' ]
 comments: true

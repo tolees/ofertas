@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75255 Star Wars Yoda  Bauset  Mehrf al 25.32 % de descuento'
-date: 2020-02-06 13:22:58
+title: 'LEGO 75255 Star Wars Yoda  Bauset  Mehrf al 28.53 % de descuento'
+date: 2020-02-08 16:17:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QMdrCFCmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QMdrCFCmL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07NDB2SFH
 description:
-actualPrice: 74.67 EUR
+actualPrice: 71.46 EUR
 comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75255 Star Wars Yoda  Bauset  Mehrfarbig](https://www.amazon.com/dp/B07NDB2SFH/?tag=redken08-20) a 74.67 EUR (original: 99.99 EUR) (25.32 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75255 Star Wars Yoda  Bauset  Mehrfarbig](https://www.amazon.com/dp/B07NDB2SFH/?tag=redken08-20) a 71.46 EUR (original: 99.99 EUR) (28.53 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51QMdrCFCmL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NDB2SFH/?tag=redken08-20)
 
