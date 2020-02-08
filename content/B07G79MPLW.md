@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI OPTI x MAG241CR - Monitor de 23.6" F al 26.61 % de descuento'
-date: 2020-02-05 23:41:14
+date: 2020-02-07 15:37:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ce5+Gc7KL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ce5+Gc7KL._AC_._SL200_.jpg' ]
 comments: true

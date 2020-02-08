@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Xperia 10 - Smartphone de 6" Full H al 26.89 % de descuento'
-date: 2020-02-07 03:29:24
+date: 2020-02-08 04:09:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/311MgrMNZjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311MgrMNZjL._AC_._SL200_.jpg' ]
 comments: true

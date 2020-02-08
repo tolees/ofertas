@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Swarovski Colgante Anillo Stone Round Ri al 50.00 % de descuento'
-date: 2020-02-06 17:22:18
+date: 2020-02-07 17:27:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kZDXsdXbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kZDXsdXbL._AC_._SL200_.jpg' ]
 comments: true

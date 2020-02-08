@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Epson EH-TW650 | Proyector Home Cinema F al 25.72 % de descuento'
-date: 2020-02-05 22:42:27
+title: 'Epson EH-TW650 | Proyector Home Cinema F al 28.17 % de descuento'
+date: 2020-02-08 04:48:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qkqn5bKcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qkqn5bKcL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B074ZDK4VN
 description:
-actualPrice: 519.98 EUR
+actualPrice: 502.83 EUR
 comparePrice: 699.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Epson EH-TW650 | Proyector Home Cinema Full HD 1080p con Wi-Fi | 3100 lúmenes | Contraste 15.000:1 | Lámpara Larga Duración 7500 horas | Pantalla Hasta 300” | Tecnología 3LCD](https://www.amazon.com/dp/B074ZDK4VN/?tag=redken08-20) a 519.98 EUR (original: 699.99 EUR) (25.72 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Epson EH-TW650 | Proyector Home Cinema Full HD 1080p con Wi-Fi | 3100 lúmenes | Contraste 15.000:1 | Lámpara Larga Duración 7500 horas | Pantalla Hasta 300” | Tecnología 3LCD](https://www.amazon.com/dp/B074ZDK4VN/?tag=redken08-20) a 502.83 EUR (original: 699.99 EUR) (28.17 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qkqn5bKcL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B074ZDK4VN/?tag=redken08-20)
 

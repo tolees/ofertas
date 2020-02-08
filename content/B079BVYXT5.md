@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Sprocket Plus - Impresora fotográfica al 37.80 % de descuento'
-date: 2020-01-31 23:52:30
+date: 2020-02-07 18:49:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+NqD-hDTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+NqD-hDTL._AC_._SL200_.jpg' ]
 comments: true

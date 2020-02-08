@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Levi s Francine Down Pckble Jkt Chaqueta al 44.57 % de descuento'
-date: 2019/12/28 12:43:30 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414zKRtO2LL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414zKRtO2LL._SL200_.jpg' ]
+title: 'Levi s Francine Down Pckble Jkt Chaqueta al 50.00 % de descuento'
+date: 2020-02-07 20:53:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/414zKRtO2LL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/414zKRtO2LL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07LFNNDH7
 description:
-actualPrice: 72.06 EUR
-comparePrice: 130 EUR
+actualPrice: 65.0 EUR
+comparePrice: 130.0 EUR
 inStock: true
 ---
 
-Está [Levi s Francine Down Pckble Jkt Chaqueta  Azul  Sodalite Blue 0002   Large para Mujer](https://www.amazon.com/dp/B07LFNNDH7/?tag=redken08-20) con 44.57 de descuento por 72.06 EUR (original: 130 EUR) en el siguiente enlace!
+Está [Levi s Francine Down Pckble Jkt Chaqueta  Azul  Sodalite Blue 0002   Large para Mujer](https://www.amazon.com/dp/B07LFNNDH7/?tag=redken08-20) con 50.00 de descuento por 65.0 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/414zKRtO2LL._SL200_.jpg)](https://www.amazon.com/dp/B07LFNNDH7/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/414zKRtO2LL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07LFNNDH7/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07LFNNDH7/?tag=redken08-20)
 

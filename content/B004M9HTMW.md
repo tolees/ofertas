@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.83 % en Tristar Br-1009 Tostadora  650 W  Metal '
-date: 2019/11/06 12:32:07 +0000
+date: 2020-02-07 18:54:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pbOBRrViL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pbOBRrViL._SL200_.jpg' ]
 comments: true

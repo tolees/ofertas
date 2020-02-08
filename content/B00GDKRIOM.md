@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lee Luke Vaqueros  Clean Black  26W / 32 al 62.12 % de descuento'
-date: 2020-02-01 22:21:57
+title: 'Lee Luke Vaqueros  Clean Black  26W / 32 al 69.91 % de descuento'
+date: 2020-02-07 17:37:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31T-DCpbVuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31T-DCpbVuL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00GDKRIOM
 description:
-actualPrice: 34.07 EUR
+actualPrice: 27.07 EUR
 comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Luke Vaqueros  Clean Black  26W / 32L para Hombre](https://www.amazon.com/dp/B00GDKRIOM/?tag=redken08-20) a 34.07 EUR (original: 89.95 EUR) (62.12 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lee Luke Vaqueros  Clean Black  26W / 32L para Hombre](https://www.amazon.com/dp/B00GDKRIOM/?tag=redken08-20) a 27.07 EUR (original: 89.95 EUR) (69.91 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31T-DCpbVuL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00GDKRIOM/?tag=redken08-20)
 
