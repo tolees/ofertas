@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Town - Calendario de Adviento  al 29.98 % de descuento'
-date: 2020-02-07 02:36:33
+date: 2020-02-09 07:54:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-i5Gjf2xL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-i5Gjf2xL._AC_._SL200_.jpg' ]
 comments: true

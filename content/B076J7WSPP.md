@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VOYOR 6-In-1 Limpiador de Poros BR410 Li al 45.01 % de descuento'
-date: 2020-02-04 12:53:35
+date: 2020-02-08 17:40:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/519-RrOI9DL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519-RrOI9DL._AC_._SL200_.jpg' ]
 comments: true

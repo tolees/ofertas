@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Makita BL1830 18V 3Ah LXT Li-ion Battery al 61.68 % de descuento'
-date: 2019/12/13 09:02:09 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SFt0VqLkL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SFt0VqLkL._SL200_.jpg' ]
+title: 'Makita BL1830 18V 3Ah LXT Li-ion Battery al 68.34 % de descuento'
+date: 2020-02-08 17:06:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/51SFt0VqLkL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51SFt0VqLkL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B000EDVTQM
 description:
-actualPrice: 22.99 GBP
+actualPrice: 18.99 GBP
 comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Makita BL1830 18V 3Ah LXT Li-ion Battery](https://www.amazon.com/dp/B000EDVTQM/?tag=redken08-20) a 22.99 GBP (original: 59.99 GBP) (61.68 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Makita BL1830 18V 3Ah LXT Li-ion Battery](https://www.amazon.com/dp/B000EDVTQM/?tag=redken08-20) a 18.99 GBP (original: 59.99 GBP) (68.34 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51SFt0VqLkL._SL200_.jpg)](https://www.amazon.com/dp/B000EDVTQM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51SFt0VqLkL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B000EDVTQM/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B000EDVTQM/?tag=redken08-20)
 

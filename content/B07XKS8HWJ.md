@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.20 % en LileZbox - Soporte Expositor de acrílico'
-date: 2020-02-07 02:46:17
+date: 2020-02-08 16:41:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Te1Lnn8VL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Te1Lnn8VL._AC_._SL200_.jpg' ]
 comments: true

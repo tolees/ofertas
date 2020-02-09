@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein CK Rev.Adj. New Mono Belt 3 al 40.30 % de descuento'
-date: 2019/12/11 23:29:15 +0000
+date: 2020-02-08 18:04:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nUB5GUaCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nUB5GUaCL._SL200_.jpg' ]
 comments: true

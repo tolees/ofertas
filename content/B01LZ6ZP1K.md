@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Turbo Exprimidor Cecojuicer Zitr al 28.78 % de descuento'
-date: 2020-02-05 13:25:37
+date: 2020-02-08 21:36:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W7GXQWtUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W7GXQWtUL._AC_._SL200_.jpg' ]
 comments: true

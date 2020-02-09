@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Licor del Polo - Enjuague Bucal Frozen S al 25.42 % de descuento'
-date: 2020-02-06 20:59:11
+date: 2020-02-09 08:30:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/414qXf6wdBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414qXf6wdBL._AC_._SL200_.jpg' ]
 comments: true

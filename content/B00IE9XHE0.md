@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 6000 Systemkamera  24 Megapix al 55.62 % de descuento'
-date: 2020-02-05 18:39:59
+date: 2020-02-08 18:17:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OVe3eaSjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OVe3eaSjL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Fire TV Stick 4K Ultra HD con man al 25.00 % de descuento'
-date: 2020-02-07 14:17:49
+date: 2020-02-09 03:05:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eZ0xzwDLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eZ0xzwDLL._AC_._SL200_.jpg' ]
 comments: true

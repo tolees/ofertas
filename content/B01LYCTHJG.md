@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.80 % en Tefal Comfort Grip - Juego de 3 Sartenes'
-date: 2020-02-01 00:18:04
+date: 2020-02-08 21:30:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jce1koRuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jce1koRuL._AC_._SL200_.jpg' ]
 comments: true

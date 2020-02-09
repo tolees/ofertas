@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AIKELA Bluetooth Kopfhörer Kabellos in E al 42.88 % de descuento'
-date: 2020-02-07 17:41:43
+date: 2020-02-08 23:35:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/510bI0egNHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510bI0egNHL._AC_._SL200_.jpg' ]
 comments: true
