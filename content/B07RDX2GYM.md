@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NEW C 2 Unidades  Protector de Pantalla  al 44.94 % de descuento'
-date: 2020-01-12 12:31:38
+date: 2020-02-10 18:05:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KxkLvI%2BNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KxkLvI%2BNL._SL200_.jpg' ]
 comments: true

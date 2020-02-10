@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.19 % en TP-Link EAP225-Outdoor Punto de Acceso A'
-date: 2020-01-24 19:39:11
+date: 2020-02-10 13:55:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/2177LLXUzbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/2177LLXUzbL._AC_._SL200_.jpg' ]
 comments: true

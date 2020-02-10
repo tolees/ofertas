@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSONITE Pro-DLX 5 - Wheeled Business C al 28.55 % de descuento'
-date: 2020-02-07 01:04:41
+date: 2020-02-10 14:05:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-Qr9Gv0aL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-Qr9Gv0aL._AC_._SL200_.jpg' ]
 comments: true

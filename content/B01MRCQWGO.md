@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung C27H711 27" Wide Quad HD VA Moni al 38.55 % de descuento'
-date: 2020-02-09 03:25:54
+date: 2020-02-10 20:29:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CIB2-dwYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CIB2-dwYL._AC_._SL200_.jpg' ]
 comments: true

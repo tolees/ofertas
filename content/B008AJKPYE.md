@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 2 608 000 495 Sierra  al 55.09 % de descuento'
-date: 2020-01-14 08:18:53
+date: 2020-02-10 16:14:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL._SL200_.jpg' ]
 comments: true

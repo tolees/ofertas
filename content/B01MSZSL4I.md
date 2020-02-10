@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.73 % en Sennheiser HD 4.50 BTNC - Auriculares in'
-date: 2020-02-08 20:13:20
+date: 2020-02-10 18:47:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41z87mOUi0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41z87mOUi0L._AC_._SL200_.jpg' ]
 comments: true
