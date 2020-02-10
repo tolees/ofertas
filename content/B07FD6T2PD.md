@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BrizLabs Cadena Luces Solares 2 Paquete  al 37.05 % de descuento'
-date: 2020-01-30 22:25:47
+date: 2020-02-10 11:14:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bHP5OsOsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bHP5OsOsL._AC_._SL200_.jpg' ]
 comments: true

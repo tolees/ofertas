@@ -14,10 +14,10 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Está [LEGO 31090 Creator 3in1 Underwater Robot Crane and Submarine  Seaside Adventures Building Set with Manta Ray Fish  Toys for Kids 7 Years Old and Older](https://www.amazon.com/dp/B07FNSF23L/?tag=redken08-20) con 27.35 de descuento por 13.07 GBP (original: 17.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 31090 Creator 3in1 Underwater Robot Crane and Submarine  Seaside Adventures Building Set with Manta Ray Fish  Toys for Kids 7 Years Old and Older](https://www.amazon.com/dp/B07FNSF23L/?tag=redken08-20) a 13.07 GBP (original: 17.99 GBP) (27.35 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51idPBuDolL._SL200_.jpg)](https://www.amazon.com/dp/B07FNSF23L/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FNSF23L/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07FNSF23L/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

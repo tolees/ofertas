@@ -14,10 +14,10 @@ comparePrice: 146.64 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rum Jamaica 21 años Appleton Estate 21 0 70 Rhum Ron con el caso](https://www.amazon.com/dp/B003ZIS7UO/?tag=redken08-20) a 87.4 EUR (original: 146.64 EUR) (40.40 %  de descuento) en el siguiente enlace!
+Está [Rum Jamaica 21 años Appleton Estate 21 0 70 Rhum Ron con el caso](https://www.amazon.com/dp/B003ZIS7UO/?tag=redken08-20) con 40.40 de descuento por 87.4 EUR (original: 146.64 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FzAajkYiL._SL200_.jpg)](https://www.amazon.com/dp/B003ZIS7UO/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B003ZIS7UO/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B003ZIS7UO/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

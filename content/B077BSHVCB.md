@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.88 % en ASUS DSL-AC51 - Módem Router ADSL/VDSL A'
-date: 2020-02-07 18:50:53
+date: 2020-02-10 11:43:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/416K2ZA5A5L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416K2ZA5A5L._AC_._SL200_.jpg' ]
 comments: true

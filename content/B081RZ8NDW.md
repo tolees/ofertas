@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tablets P9 10.1 Pulgadas Full HD  Androi al 65.72 % de descuento'
-date: 2020-02-03 09:20:15
+date: 2020-02-10 11:39:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IUne6sNpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IUne6sNpL._AC_._SL200_.jpg' ]
 comments: true

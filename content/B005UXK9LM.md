@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Banks Ron 5 años - 700 ml al 37.26 % de descuento'
-date: 2020-02-02 10:17:57
+title: 'Banks Ron 5 años - 700 ml al 43.49 % de descuento'
+date: 2020-02-10 12:17:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/3107fOGWb0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3107fOGWb0L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B005UXK9LM
 description:
-actualPrice: 17.63 EUR
+actualPrice: 15.88 EUR
 comparePrice: 28.1 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Banks Ron 5 años - 700 ml](https://www.amazon.com/dp/B005UXK9LM/?tag=redken08-20) a 17.63 EUR (original: 28.1 EUR) (37.26 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Banks Ron 5 años - 700 ml](https://www.amazon.com/dp/B005UXK9LM/?tag=redken08-20) a 15.88 EUR (original: 28.1 EUR) (43.49 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/3107fOGWb0L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B005UXK9LM/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.18 % en Yamaha - Barra de sonido Music Cast Bar '
-date: 2020-02-04 07:10:41
+date: 2020-02-10 11:33:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vU8O0uHPL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vU8O0uHPL._AC_._SL200_.jpg' ]
 comments: true
