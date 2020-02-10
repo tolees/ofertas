@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Darksiders III - Edición Estándar al 81.38 % de descuento'
-date: 2020-01-04 16:45:17
-thumbnailImage: 'None._SL200_'
-images: [ 'None._SL200_' ]
+title: 'Darksiders III - Edición Estándar al 78.80 % de descuento'
+date: 2020-02-09 21:27:22
+thumbnailImage: 'https://m.media-amazon.com/images/I/51zvM9ez8QL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51zvM9ez8QL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FKJF3SX
 description:
-actualPrice: 11.17 EUR
+actualPrice: 12.72 EUR
 comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Darksiders III - Edición Estándar](https://www.amazon.com/dp/B07FKJF3SX/?tag=redken08-20) a 11.17 EUR (original: 59.99 EUR) (81.38 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Darksiders III - Edición Estándar](https://www.amazon.com/dp/B07FKJF3SX/?tag=redken08-20) a 12.72 EUR (original: 59.99 EUR) (78.80 %  de descuento) en el siguiente enlace!
 
-[![](None._SL200_)](https://www.amazon.com/dp/B07FKJF3SX/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51zvM9ez8QL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FKJF3SX/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07FKJF3SX/?tag=redken08-20)
 

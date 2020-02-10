@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.79 % en Beurer EM 39 Electroestimulador EMS Cint'
-date: 2020-02-05 08:16:38
+date: 2020-02-09 16:43:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T9maI8+qL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T9maI8+qL._AC_._SL200_.jpg' ]
 comments: true

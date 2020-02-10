@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polar M200 - Reloj de Running con GPS y  al 33.96 % de descuento'
-date: 2020-02-06 18:42:30
+date: 2020-02-09 14:48:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dofNifZ2L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dofNifZ2L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.17 % en HOMIEE Mochila para Portátil con Puerto '
-date: 2020-02-08 03:25:13
+date: 2020-02-09 21:32:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/5108FqjNOrL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5108FqjNOrL._AC_._SL200_.jpg' ]
 comments: true

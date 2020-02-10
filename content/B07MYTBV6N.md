@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TEMI Dinosaur Toy Figure with Activity P al 41.35 % de descuento'
-date: 2020-02-06 18:59:23
+date: 2020-02-09 15:15:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51boIlcPScL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51boIlcPScL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Pulsera Actividad AIMIUVEI Pulsera Intel'
-date: 2020-02-06 14:17:03
+date: 2020-02-09 12:37:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nZiEz2kZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nZiEz2kZL._AC_._SL200_.jpg' ]
 comments: true

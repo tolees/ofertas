@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remington Compact Control IPL3500 - Depi al 46.56 % de descuento'
-date: 2020-02-01 03:39:19
+date: 2020-02-09 10:24:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41m285ddQbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41m285ddQbL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 55.01 % en BRIKSMAX Kit de Iluminación Led para Tal'
-date: 2020-01-28 19:46:32
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Hara8stAL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Hara8stAL._SL200_.jpg' ]
+title: 'Descuento del 34.73 % en BRIKSMAX Led Beleuchtungsset für Eck Gar'
+date: 2020-02-08 16:25:47
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Hara8stAL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Hara8stAL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07PQ7XSBP
 description:
-actualPrice: 44.99 EUR
-comparePrice: 99.99 EUR
+actualPrice: 46.99 EUR
+comparePrice: 71.99 EUR
 inStock: true
 ---
 
-Tienes [BRIKSMAX Kit de Iluminación Led para Taller de la Esquina-Compatible con Ladrillos de Construcción Lego Modelo 10264-Juego de Legos no Incluido](https://www.amazon.com/dp/B07PQ7XSBP/?tag=redken08-20) con un 55.01 % de descuento con precio de oferta de 44.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX Led Beleuchtungsset für Eck Garage  Kompatibel Mit Lego 10264 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07PQ7XSBP/?tag=redken08-20) con un 34.73 % de descuento con precio de oferta de 46.99 EUR (original: 71.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51Hara8stAL._SL200_.jpg)](https://www.amazon.com/dp/B07PQ7XSBP/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51Hara8stAL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07PQ7XSBP/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07PQ7XSBP/?tag=redken08-20)
 

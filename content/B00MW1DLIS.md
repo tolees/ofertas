@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.10 % en Rexxor 239-6067-44 - Reloj de cuarzo par'
-date: 2020-02-06 18:39:46
+date: 2020-02-09 14:07:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41E46-aVPWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41E46-aVPWL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Lego Ci al 68.90 % de descuento'
-date: 2020-02-07 18:10:07
+date: 2020-02-09 15:24:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41l9lo27pCL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41l9lo27pCL._AC_._SL200_.jpg' ]
 comments: true

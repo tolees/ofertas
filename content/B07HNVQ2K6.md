@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.02 % en V2000 Auriculares 7.1 Canales 3.5mm Jack'
-date: 2020-02-05 21:42:39
+date: 2020-02-10 06:14:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cd8Iuu8YL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cd8Iuu8YL._AC_._SL200_.jpg' ]
 comments: true

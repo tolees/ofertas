@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'J.Rosée Pendientes Mujer Plata de Ley 92 al 57.26 % de descuento'
-date: 2020-02-08 11:21:17
+date: 2020-02-09 19:31:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Nzd-rk1iL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Nzd-rk1iL._AC_._SL200_.jpg' ]
 comments: true

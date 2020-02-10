@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.16 % en Original Xiaomi MiBand Fitness Tracker  '
-date: 2020-02-09 00:06:28
+date: 2020-02-10 03:42:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zIEiYklaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zIEiYklaL._AC_._SL200_.jpg' ]
 comments: true

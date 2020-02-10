@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate 1 TB Expansion  Edición Especial al 28.58 % de descuento'
-date: 2020-02-08 11:12:16
+date: 2020-02-09 16:21:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nMFhO266L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nMFhO266L._AC_._SL200_.jpg' ]
 comments: true

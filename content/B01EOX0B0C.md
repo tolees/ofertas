@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.57 % en Helly Hansen Dubliner Jacket Chaqueta Ch'
-date: 2020-01-28 17:31:50
+date: 2020-02-10 00:14:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ppTipWpNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ppTipWpNL._AC_._SL200_.jpg' ]
 comments: true
