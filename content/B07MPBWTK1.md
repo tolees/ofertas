@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Transmisor FM  Manos Libres Bluetooth pa al 46.68 % de descuento'
-date: 2020-02-01 16:32:58
+date: 2020-02-10 09:33:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GgXyc+LZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GgXyc+LZL._AC_._SL200_.jpg' ]
 comments: true
