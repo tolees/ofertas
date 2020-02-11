@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eléctrica Depiladora Cejas - Xpreen Afei al 40.02 % de descuento'
-date: 2020-02-02 09:33:58
+date: 2020-02-11 09:33:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/411Zf2dS3+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411Zf2dS3+L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.03 % en Furreal Friends - Peluche interactivo JJ'
-date: 2020-02-06 07:42:30
+date: 2020-02-11 08:33:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sUGzk2VsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sUGzk2VsL._AC_._SL200_.jpg' ]
 comments: true
