@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'American Crew Boost Powder Polvo Antigra al 39.45 % de descuento'
-date: 2020-02-07 07:54:43
+date: 2020-02-11 00:39:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QzcByIlRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QzcByIlRL._AC_._SL200_.jpg' ]
 comments: true

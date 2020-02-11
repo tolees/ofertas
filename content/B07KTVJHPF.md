@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 31.74 % en LEGO 60226 - City Mars-Forschungsshuttle'
-date: 2020-02-08 23:29:53
+title: 'Descuento del 33.34 % en LEGO 60226 - City Mars-Forschungsshuttle'
+date: 2020-02-10 23:31:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AhIenYAHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AhIenYAHL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KTVJHPF
 description:
-actualPrice: 20.47 EUR
+actualPrice: 19.99 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60226 - City Mars-Forschungsshuttle  Bauset](https://www.amazon.com/dp/B07KTVJHPF/?tag=redken08-20) con un 31.74 % de descuento con precio de oferta de 20.47 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [LEGO 60226 - City Mars-Forschungsshuttle  Bauset](https://www.amazon.com/dp/B07KTVJHPF/?tag=redken08-20) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51AhIenYAHL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTVJHPF/?tag=redken08-20)
 

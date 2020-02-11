@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO City 60222 Pistenraupe al 34.67 % de descuento'
-date: 2020-02-03 14:48:19
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fG-h06rxL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fG-h06rxL._SL200_.jpg' ]
+title: 'LEGO City 60222 Pistenraupe al 30.37 % de descuento'
+date: 2020-02-10 21:27:47
+thumbnailImage: 'https://m.media-amazon.com/images/I/51fG-h06rxL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51fG-h06rxL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FNS6P6C
 description:
-actualPrice: 13.06 EUR
+actualPrice: 13.92 EUR
 comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City 60222 Pistenraupe](https://www.amazon.com/dp/B07FNS6P6C/?tag=redken08-20) a 13.06 EUR (original: 19.99 EUR) (34.67 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60222 Pistenraupe](https://www.amazon.com/dp/B07FNS6P6C/?tag=redken08-20) a 13.92 EUR (original: 19.99 EUR) (30.37 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51fG-h06rxL._SL200_.jpg)](https://www.amazon.com/dp/B07FNS6P6C/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51fG-h06rxL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FNS6P6C/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07FNS6P6C/?tag=redken08-20)
 

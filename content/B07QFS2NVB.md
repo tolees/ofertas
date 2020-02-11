@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 40243 POP Vinyl Animation: BT21-RJ al 43.46 % de descuento'
-date: 2020-02-09 23:24:52
+date: 2020-02-10 23:37:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/313vHpEeWFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313vHpEeWFL._AC_._SL200_.jpg' ]
 comments: true

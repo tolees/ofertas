@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Creative Sound Blaster Z - Tarjeta de So al 27.54 % de descuento'
-date: 2020-02-01 01:11:39
+date: 2020-02-10 21:50:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ESyVy4rHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ESyVy4rHL._AC_._SL200_.jpg' ]
 comments: true
