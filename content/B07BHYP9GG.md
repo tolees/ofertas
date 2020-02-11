@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maleta de cabina Pepe Jeans Cambridge Ro al 31.57 % de descuento'
-date: 2020-02-11 10:30:43
+date: 2020-02-11 10:32:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kF-mBYopL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kF-mBYopL._AC_._SL200_.jpg' ]
 comments: true

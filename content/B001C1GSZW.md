@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.96 % en Wahl ColorPro - Cortapelos con estuche d'
-date: 2020-02-05 20:31:15
+date: 2020-02-11 11:17:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XtLB6Km9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XtLB6Km9L._AC_._SL200_.jpg' ]
 comments: true

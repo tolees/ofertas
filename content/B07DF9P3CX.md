@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pop! Disney The Nightmare Before Christm al 48.28 % de descuento'
-date: 2020-01-28 19:36:19
+title: 'Pop! Disney The Nightmare Before Christm al 41.19 % de descuento'
+date: 2020-02-11 11:40:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ex-uWNrZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ex-uWNrZL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07DF9P3CX
 description:
-actualPrice: 8.25 EUR
+actualPrice: 9.38 EUR
 comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Pop! Disney The Nightmare Before Christmas - Figura de Vinilo Dr. Finkelstein](https://www.amazon.com/dp/B07DF9P3CX/?tag=redken08-20) con 48.28 de descuento por 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Pop! Disney The Nightmare Before Christmas - Figura de Vinilo Dr. Finkelstein](https://www.amazon.com/dp/B07DF9P3CX/?tag=redken08-20) con 41.19 de descuento por 9.38 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ex-uWNrZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DF9P3CX/?tag=redken08-20)
 
