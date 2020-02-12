@@ -14,10 +14,10 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Está [LEGO 60219 City Great Vehicles Construction Loader Building Truck Toy with Road Worker Minifigure](https://www.amazon.com/dp/B07FNMXFQ9/?tag=redken08-20) con 28.23 de descuento por 7.17 GBP (original: 9.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60219 City Great Vehicles Construction Loader Building Truck Toy with Road Worker Minifigure](https://www.amazon.com/dp/B07FNMXFQ9/?tag=redken08-20) a 7.17 GBP (original: 9.99 GBP) (28.23 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513et77M7BL._SL200_.jpg)](https://www.amazon.com/dp/B07FNMXFQ9/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FNMXFQ9/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07FNMXFQ9/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
