@@ -14,10 +14,10 @@ comparePrice: 799 EUR
 inStock: true
 ---
 
-Está [Tamron SP - Objetivo para Canon DSLR  Distancia Focal Fija 35mm  Apertura f/1.8  Di  VC  USD  diámetro Filtro: 67 mm   Negro](https://www.amazon.com/dp/B014SQ2VQM/?tag=redken08-20) con 31.22 de descuento por 549.53 EUR (original: 799 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tamron SP - Objetivo para Canon DSLR  Distancia Focal Fija 35mm  Apertura f/1.8  Di  VC  USD  diámetro Filtro: 67 mm   Negro](https://www.amazon.com/dp/B014SQ2VQM/?tag=redken08-20) a 549.53 EUR (original: 799 EUR) (31.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41SlPdYOcOL._SL200_.jpg)](https://www.amazon.com/dp/B014SQ2VQM/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B014SQ2VQM/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B014SQ2VQM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

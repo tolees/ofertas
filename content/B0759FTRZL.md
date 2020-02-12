@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.69 % en Intel Core i3-8100 Retail -  1151/Quad C'
-date: 2020-02-10 23:26:27
+date: 2020-02-12 15:18:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-DDKwErFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-DDKwErFL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Cyber-shot DSC-RX100M4 - Cámara com al 44.84 % de descuento'
-date: 2020-02-11 08:28:39
+date: 2020-02-12 15:28:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41StNRN6UDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41StNRN6UDL._AC_._SL200_.jpg' ]
 comments: true

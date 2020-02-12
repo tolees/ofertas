@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.50 % en HOMIEE Oxímetro de Pulso  Pulsioxímetro '
-date: 2020-02-10 07:47:23
+date: 2020-02-12 15:11:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w+4sR889L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w+4sR889L._AC_._SL200_.jpg' ]
 comments: true
