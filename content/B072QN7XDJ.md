@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Colnatur Sport Limón 345gr al 35.00 % de descuento'
-date: 2020-01-10 08:13:23
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VVxJPhzHL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VVxJPhzHL._SL200_.jpg' ]
+title: 'Colnatur Sport - Proteína colágeno hidro al 56.52 % de descuento'
+date: 2020-02-12 12:03:08
+thumbnailImage: 'https://m.media-amazon.com/images/I/41VVxJPhzHL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41VVxJPhzHL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B072QN7XDJ
 description:
-actualPrice: 14.95 EUR
-comparePrice: 23 EUR
+actualPrice: 10.0 EUR
+comparePrice: 23.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Colnatur Sport Limón 345gr](https://www.amazon.com/dp/B072QN7XDJ/?tag=redken08-20) a 14.95 EUR (original: 23 EUR) (35.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Colnatur Sport - Proteína colágeno hidrolizada  Sabor Limón  345gr](https://www.amazon.com/dp/B072QN7XDJ/?tag=redken08-20) a 10.0 EUR (original: 23.0 EUR) (56.52 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41VVxJPhzHL._SL200_.jpg)](https://www.amazon.com/dp/B072QN7XDJ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41VVxJPhzHL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B072QN7XDJ/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B072QN7XDJ/?tag=redken08-20)
 

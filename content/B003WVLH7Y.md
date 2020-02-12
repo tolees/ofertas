@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.89 % en Panasonic ES-RF31 Wet and Dry Electric 4'
-date: 2020-02-01 00:56:20
+date: 2020-02-12 08:17:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zsuVzeumL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zsuVzeumL._AC_._SL200_.jpg' ]
 comments: true

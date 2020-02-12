@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SumUp Air Lector de Tarjeta Inteligente  al 31.07 % de descuento'
-date: 2020-01-28 13:48:16
+date: 2020-02-12 12:05:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XdbFqnl1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XdbFqnl1L._AC_._SL200_.jpg' ]
 comments: true

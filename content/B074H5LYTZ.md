@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Light & Easy Brights - Pla al 49.50 % de descuento'
-date: 2019/12/20 14:49:55 +0000
+date: 2020-02-12 08:20:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J7iEeX18L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J7iEeX18L._SL200_.jpg' ]
 comments: true

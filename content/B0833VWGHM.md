@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.32 % en Cudy AX3000 WiFi 6 Adaptador PCIe  Tarje'
-date: 2020-02-10 23:46:52
+date: 2020-02-12 07:47:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mQSlm9-QL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mQSlm9-QL._AC_._SL200_.jpg' ]
 comments: true

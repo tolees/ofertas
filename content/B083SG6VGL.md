@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gomyhom Rosa 24K  Rosa de Oro Chapada en al 49.24 % de descuento'
-date: 2020-02-03 19:54:55
+date: 2020-02-12 12:14:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41g2EuPe21L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41g2EuPe21L._AC_._SL200_.jpg' ]
 comments: true

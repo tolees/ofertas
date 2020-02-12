@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.01 % en Pecute Funda de Asiento para Perros  Pro'
-date: 2020-02-08 08:43:17
+date: 2020-02-12 10:07:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51n8CiZ1vWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51n8CiZ1vWL._AC_._SL200_.jpg' ]
 comments: true

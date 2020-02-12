@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips  Afeitadora Femenina con una Cuc al 30.56 % de descuento'
-date: 2020-01-31 09:22:52
+date: 2020-02-12 10:10:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31NoA7t3MxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31NoA7t3MxL._AC_._SL200_.jpg' ]
 comments: true

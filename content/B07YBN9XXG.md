@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose SoundLink Mini Bluetooth speaker II al 38.11 % de descuento'
-date: 2020-02-04 07:06:40
+date: 2020-02-12 08:14:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tYdY-PRHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tYdY-PRHL._AC_._SL200_.jpg' ]
 comments: true

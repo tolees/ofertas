@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calcetines de Compresión 1 par  Amarillo al 62.58 % de descuento'
-date: 2020-02-03 09:49:18
+date: 2020-02-12 12:04:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wYWm1RKQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wYWm1RKQL._AC_._SL200_.jpg' ]
 comments: true

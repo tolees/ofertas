@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NEWSTYLE Set Para El Cuidado Del Bebé 12 al 60.02 % de descuento'
-date: 2019/12/29 19:01:41 +0000
+date: 2020-02-12 10:10:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EiQhswQrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EiQhswQrL._SL200_.jpg' ]
 comments: true
