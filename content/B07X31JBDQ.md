@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tronsmart T2 Plus Altavoz Bluetooth 20W  al 36.01 % de descuento'
-date: 2020-02-10 07:44:57
+date: 2020-02-12 17:03:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/410tLr0KaJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410tLr0KaJL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FITFORT Hub USB C - 7 En 1 USB C Adaptad al 43.60 % de descuento'
-date: 2020-01-27 20:02:19
+date: 2020-02-12 17:07:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CV69lXhkL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CV69lXhkL._AC_._SL200_.jpg' ]
 comments: true

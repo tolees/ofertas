@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LOHOTEK Guantes de Ciclismo de Bicicleta al 35.31 % de descuento'
-date: 2020-01-07 17:53:32
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OsNGwYmzL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OsNGwYmzL._SL200_.jpg' ]
+date: 2020-02-12 19:39:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/51OsNGwYmzL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51OsNGwYmzL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [LOHOTEK Guantes de Ciclismo de Bicicleta de Montaña Motocicleta Guantes de Bicicleta de Carretera de Medio-Dedo para Hombres Mujeres Acolchado Antideslizante Transpirable  Azul Medio Dedo   S ](https://www.amazon.com/dp/B07NJNLLYF/?tag=redken08-20) con 35.31 de descuento por 10.99 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51OsNGwYmzL._SL200_.jpg)](https://www.amazon.com/dp/B07NJNLLYF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51OsNGwYmzL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NJNLLYF/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07NJNLLYF/?tag=redken08-20)
 

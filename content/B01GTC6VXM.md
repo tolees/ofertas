@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en HP Odyssey - Mochila para portátiles de '
-date: 2020-02-11 00:33:38
+date: 2020-02-12 19:39:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KHAd2jDTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KHAd2jDTL._AC_._SL200_.jpg' ]
 comments: true

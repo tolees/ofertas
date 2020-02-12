@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Essential Polo  Azul  Sea Captain al 50.00 % de descuento'
-date: 2020-02-09 18:13:00
+date: 2020-02-12 19:41:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dJuy0ITxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dJuy0ITxL._AC_._SL200_.jpg' ]
 comments: true

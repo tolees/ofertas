@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.80 % en Nuevo Mando a Distancia Universal para S'
-date: 2020-02-01 09:19:32
+date: 2020-02-12 17:11:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GBUKRcu1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GBUKRcu1L._AC_._SL200_.jpg' ]
 comments: true

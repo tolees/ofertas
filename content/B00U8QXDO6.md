@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.38 % en Beter Swing - Lima ergonómica láser'
-date: 2020-02-02 14:30:58
+date: 2020-02-12 17:03:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/21fYWCI93bL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21fYWCI93bL._AC_._SL200_.jpg' ]
 comments: true

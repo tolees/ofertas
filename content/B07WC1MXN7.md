@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ECOVACS Robotics DEEBOT OZMO 950 Robot c al 25.04 % de descuento'
-date: 2020-02-10 03:15:50
+date: 2020-02-12 17:33:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/413tBcbvXJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413tBcbvXJL._AC_._SL200_.jpg' ]
 comments: true
