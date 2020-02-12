@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic TX-TG1611SPH - Teléfono Fijo I al 25.26 % de descuento'
-date: 2020-02-08 17:44:15
+date: 2020-02-11 20:50:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/411lY3ZEhRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411lY3ZEhRL._AC_._SL200_.jpg' ]
 comments: true

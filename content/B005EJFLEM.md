@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Duracell - Plus AAA  Pilas Alcalinas  pa al 30.35 % de descuento'
-date: 2020-02-05 22:10:19
+date: 2020-02-11 13:29:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ePa+K-f9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ePa+K-f9L._AC_._SL200_.jpg' ]
 comments: true

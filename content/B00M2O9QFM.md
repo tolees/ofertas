@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'CYBEX Silver 2-in-1 Kinder-Autositz Pall al 49.09 % de descuento'
-date: 2019/10/23 06:13:28 +0000
+title: 'Cybex Silver Pallas 2-Fix 515111003 Sill al 39.39 % de descuento'
+date: 2019/12/08 23:08:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41scP6lgqhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41scP6lgqhL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00M2O9QFM
 description:
-actualPrice: 157.81 EUR
-comparePrice: 309.95 EUR
+actualPrice: 199.99 EUR
+comparePrice: 329.95 EUR
 inStock: true
 ---
 
-Está [CYBEX Silver 2-in-1 Kinder-Autositz Pallas 2-Fix  Für Autos mit und ohne ISOFIX  Gruppe 1/2/3  9-36 kg   Ab ca. 9 Monate bis ca. 12 Jahre  Rumba Red](https://www.amazon.com/dp/B00M2O9QFM/?tag=redken08-20) con 49.09 de descuento por 157.81 EUR (original: 309.95 EUR) en el siguiente enlace!
+Está [Cybex Silver Pallas 2-Fix 515111003 Silla de Coche 2 en 1  Grupo 1/2/3  Colección de Color 2019  Rojo  Rumba Red ](https://www.amazon.com/dp/B00M2O9QFM/?tag=redken08-20) con 39.39 de descuento por 199.99 EUR (original: 329.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41scP6lgqhL._SL200_.jpg)](https://www.amazon.com/dp/B00M2O9QFM/?tag=redken08-20)
 

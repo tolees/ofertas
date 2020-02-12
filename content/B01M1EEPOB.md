@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple EarPods con conector Lightning al 31.07 % de descuento'
-date: 2020-02-04 19:44:58
+date: 2020-02-11 20:50:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/21ySQx1LzUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21ySQx1LzUL._AC_._SL200_.jpg' ]
 comments: true

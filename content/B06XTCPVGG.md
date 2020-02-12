@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lagunilla - Vino Tinto Crianza Botella 7 al 28.02 % de descuento'
-date: 2020-02-10 18:03:45
+date: 2020-02-11 19:38:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51r5LqbgsTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51r5LqbgsTL._AC_._SL200_.jpg' ]
 comments: true

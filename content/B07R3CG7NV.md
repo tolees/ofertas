@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.64 % en Bugaboo Cameleon 3 Plus  Cochecito y Sil'
-date: 2019/12/27 12:04:25 +0000
+date: 2020-02-11 16:35:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41orcuYaL2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41orcuYaL2L._SL200_.jpg' ]
 comments: true

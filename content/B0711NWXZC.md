@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Puma One 17.4 AG  Zapatillas de Fútbol p al 59.96 % de descuento'
-date: 2019/10/25 06:55:33 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415KBwl-iAL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415KBwl-iAL._SL200_.jpg' ]
+title: 'Puma One 17.4 AG  Zapatillas de Fútbol p al 55.51 % de descuento'
+date: 2020-02-11 14:40:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/41JvwcS-E9L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41JvwcS-E9L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B0711NWXZC
 description:
-actualPrice: 20 EUR
-comparePrice: 49.95 EUR
+actualPrice: 20.0 EUR
+comparePrice: 44.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma One 17.4 AG  Zapatillas de Fútbol para Hombre  Azul  Atomic Blue-White-Safety Yellow   44 EU](https://www.amazon.com/dp/B0711NWXZC/?tag=redken08-20) a 20 EUR (original: 49.95 EUR) (59.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Puma One 17.4 AG  Zapatillas de Fútbol para Hombre  Azul  Atomic Blue-White-Safety Yellow   44 EU](https://www.amazon.com/dp/B0711NWXZC/?tag=redken08-20) a 20.0 EUR (original: 44.95 EUR) (55.51 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/415KBwl-iAL._SL200_.jpg)](https://www.amazon.com/dp/B0711NWXZC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41JvwcS-E9L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B0711NWXZC/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B0711NWXZC/?tag=redken08-20)
 

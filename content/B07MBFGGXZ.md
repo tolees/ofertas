@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INTEY Faja Reductora Adelgazante Neopren al 56.69 % de descuento'
-date: 2020-02-10 17:16:46
+date: 2020-02-11 19:02:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yR4+1+AiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yR4+1+AiL._AC_._SL200_.jpg' ]
 comments: true

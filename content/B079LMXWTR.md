@@ -14,10 +14,10 @@ comparePrice: 699 EUR
 inStock: true
 ---
 
-Está [Olympus Pen E-PL9 - Cámara de Sistema Compacto de 16 MP  Pantalla de 3"  Zoom eléctrico  películas 4k  WiFi  Kit con Objetivo Compacto M. Zuiko Digital ED de 14-42 mm   Negro y Plateado](https://www.amazon.com/dp/B079LMXWTR/?tag=redken08-20) con 28.48 de descuento por 499.9 EUR (original: 699 EUR) en el siguiente enlace!
+Ahora mismo tienes [Olympus Pen E-PL9 - Cámara de Sistema Compacto de 16 MP  Pantalla de 3"  Zoom eléctrico  películas 4k  WiFi  Kit con Objetivo Compacto M. Zuiko Digital ED de 14-42 mm   Negro y Plateado](https://www.amazon.com/dp/B079LMXWTR/?tag=redken08-20) a 499.9 EUR (original: 699 EUR) (28.48 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51FdkjiOexL._SL200_.jpg)](https://www.amazon.com/dp/B079LMXWTR/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B079LMXWTR/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B079LMXWTR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

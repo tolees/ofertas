@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo TAB10 - Tablet de 10.1" HD  Proce al 40.40 % de descuento'
-date: 2020-02-06 07:41:31
+date: 2020-02-11 13:49:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51neT4YzIFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51neT4YzIFL._AC_._SL200_.jpg' ]
 comments: true

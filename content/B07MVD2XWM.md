@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 74.03 % en Ferilinso Funda para Samsung Galaxy M20 '
-date: 2019/10/13 19:08:14 +0000
+date: 2020-02-11 16:22:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4133zZKvROL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4133zZKvROL._SL200_.jpg' ]
 comments: true
