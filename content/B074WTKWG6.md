@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Bang & Olufsen Beoplay E8 - Auriculares  al 47.92 % de descuento'
-date: 2019/10/29 21:32:05 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y4rhjFF%2BL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y4rhjFF%2BL._SL200_.jpg' ]
+title: 'Bang & Olufsen Beoplay E8 - Auriculares  al 49.81 % de descuento'
+date: 2020-02-12 23:03:56
+thumbnailImage: 'https://m.media-amazon.com/images/I/31y4rhjFF+L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31y4rhjFF+L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B074WTKWG6
 description:
-actualPrice: 156.23 EUR
-comparePrice: 300 EUR
+actualPrice: 150.57 EUR
+comparePrice: 300.0 EUR
 inStock: true
 ---
 
-Está [Bang & Olufsen Beoplay E8 - Auriculares inalámbricos con Bluetooth  negro](https://www.amazon.com/dp/B074WTKWG6/?tag=redken08-20) con 47.92 de descuento por 156.23 EUR (original: 300 EUR) en el siguiente enlace!
+Está [Bang & Olufsen Beoplay E8 - Auriculares inalámbricos con Bluetooth  negro](https://www.amazon.com/dp/B074WTKWG6/?tag=redken08-20) con 49.81 de descuento por 150.57 EUR (original: 300.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31y4rhjFF%2BL._SL200_.jpg)](https://www.amazon.com/dp/B074WTKWG6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31y4rhjFF+L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B074WTKWG6/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B074WTKWG6/?tag=redken08-20)
 

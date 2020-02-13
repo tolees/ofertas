@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio EDIFICE Reloj en caja sólida de ac al 58.32 % de descuento'
-date: 2020-02-07 11:52:23
+date: 2020-02-12 23:05:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41spPtgSkfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41spPtgSkfL._AC_._SL200_.jpg' ]
 comments: true

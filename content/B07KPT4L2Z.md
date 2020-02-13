@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Vinilo: Kiss: Catman Figura C al 32.30 % de descuento'
-date: 2020-02-11 21:35:12
+date: 2020-02-13 04:41:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41SxPyKEGaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41SxPyKEGaL._AC_._SL200_.jpg' ]
 comments: true

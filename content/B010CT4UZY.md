@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teka MWE 225 G Microondas de libre insta al 32.58 % de descuento'
-date: 2020-02-01 02:27:38
+date: 2020-02-13 03:51:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ViBNGhUmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ViBNGhUmL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.33 % en Philips 55PUS6704/12 - Smart TV LED 4K U'
-date: 2020-02-04 16:45:11
+date: 2020-02-13 08:12:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iJ99Z5EEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iJ99Z5EEL._AC_._SL200_.jpg' ]
 comments: true

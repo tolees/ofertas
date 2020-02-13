@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot Roomba 615 - Robot aspirador para al 35.18 % de descuento'
-date: 2020-02-11 13:04:37
+date: 2020-02-12 22:33:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZyPyxsgJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZyPyxsgJL._AC_._SL200_.jpg' ]
 comments: true

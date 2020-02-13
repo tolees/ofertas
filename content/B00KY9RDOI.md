@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75052  Greedo Minifigure  al 30.08 % de descuento'
-date: 2020-02-10 23:29:20
+date: 2020-02-12 23:22:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41B2kATir9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41B2kATir9L._AC_._SL200_.jpg' ]
 comments: true
@@ -14,10 +14,10 @@ comparePrice: 20.01 GBP
 inStock: true
 ---
 
-Está [LEGO Star Wars 75052  Greedo Minifigure with Blaster Pistol](https://www.amazon.com/dp/B00KY9RDOI/?tag=redken08-20) con 30.08 de descuento por 13.99 GBP (original: 20.01 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars 75052  Greedo Minifigure with Blaster Pistol](https://www.amazon.com/dp/B00KY9RDOI/?tag=redken08-20) a 13.99 GBP (original: 20.01 GBP) (30.08 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41B2kATir9L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00KY9RDOI/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00KY9RDOI/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00KY9RDOI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

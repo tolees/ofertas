@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf - Zombie Strike Flipfury  Hasbro A9 al 56.63 % de descuento'
-date: 2020-01-31 14:39:40
+date: 2020-02-13 07:00:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cLgww6XuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cLgww6XuL._AC_._SL200_.jpg' ]
 comments: true

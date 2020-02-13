@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'K9CK Juego de Luces para Lego Technic Po al 50.00 % de descuento'
-date: 2020-02-11 08:15:31
+date: 2020-02-13 07:41:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41S-00ygzML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41S-00ygzML._AC_._SL200_.jpg' ]
 comments: true

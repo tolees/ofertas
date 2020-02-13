@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo L24e Monitor de  23 8"  Pantalla  al 28.06 % de descuento'
-date: 2020-02-03 19:44:34
+date: 2020-02-12 23:05:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BavqidXpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BavqidXpL._AC_._SL200_.jpg' ]
 comments: true
