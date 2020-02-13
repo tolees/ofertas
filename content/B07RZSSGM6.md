@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Strix Scar III G731GU-EV044 - P al 31.25 % de descuento'
-date: 2020-02-07 20:36:27
+date: 2020-02-13 15:04:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/418W+Gw5I1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418W+Gw5I1L._AC_._SL200_.jpg' ]
 comments: true

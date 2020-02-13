@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.97 % en Krups Dolce Gusto Infinissima KP1705 - C'
-date: 2020-02-05 18:40:51
+date: 2020-02-13 17:58:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RSXEWdNuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RSXEWdNuL._AC_._SL200_.jpg' ]
 comments: true

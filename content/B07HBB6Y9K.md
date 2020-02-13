@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 36429 POP Movies: Zoolander-Mugatu al 30.40 % de descuento'
-date: 2020-02-11 15:24:27
+title: 'Funko 36429 POP Movies: Zoolander-Mugatu al 30.02 % de descuento'
+date: 2020-02-13 15:14:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31efvNkv36L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31efvNkv36L._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07HBB6Y9K
 description:
 actualPrice: 6.48 GBP
-comparePrice: 9.31 GBP
+comparePrice: 9.26 GBP
 inStock: true
 ---
 
-Está [Funko 36429 POP Movies: Zoolander-Mugatu  Styles may vary  Collectible Figure  Multicolor](https://www.amazon.com/dp/B07HBB6Y9K/?tag=redken08-20) con 30.40 de descuento por 6.48 GBP (original: 9.31 GBP) en el siguiente enlace!
+Está [Funko 36429 POP Movies: Zoolander-Mugatu  Styles may vary  Collectible Figure  Multicolor](https://www.amazon.com/dp/B07HBB6Y9K/?tag=redken08-20) con 30.02 de descuento por 6.48 GBP (original: 9.26 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31efvNkv36L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HBB6Y9K/?tag=redken08-20)
 

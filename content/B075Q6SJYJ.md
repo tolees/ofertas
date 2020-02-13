@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crosstour Cámara de Coche Dash CAM 1080P al 50.01 % de descuento'
-date: 2019/10/07 13:29:21 +0000
+date: 2020-02-13 17:51:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QklM5sd7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QklM5sd7L._SL200_.jpg' ]
 comments: true

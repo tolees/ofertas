@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer EM 37 Electroestimulador EMS Cint al 40.69 % de descuento'
-date: 2020-02-05 10:35:47
+date: 2020-02-13 16:05:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/415AF-DqGuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415AF-DqGuL._AC_._SL200_.jpg' ]
 comments: true

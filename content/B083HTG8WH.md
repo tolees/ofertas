@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en DXX Technik Bausteine Liebherr Kran LTM1'
-date: 2020-02-08 16:25:41
+date: 2020-02-13 15:31:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51e888rnPJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51e888rnPJL._AC_._SL200_.jpg' ]
 comments: true

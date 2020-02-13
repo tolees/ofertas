@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'J.Rosée Pendientes Mujer  Pendientes Per al 92.62 % de descuento'
-date: 2020-02-05 15:11:02
+date: 2020-02-13 15:40:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uyB6KQsXL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uyB6KQsXL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.39 % en VR Gafas de Realidad Virtual  Gafas vr C'
-date: 2020-02-01 08:46:34
+date: 2020-02-13 15:47:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cpNHt1gWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cpNHt1gWL._AC_._SL200_.jpg' ]
 comments: true

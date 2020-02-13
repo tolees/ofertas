@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 30.67 % en LEGO 70418 Hidden Side J.B.’s Geisterlab'
-date: 2020-02-12 15:22:38
+title: 'Descuento del 35.77 % en LEGO 70418 Hidden Side J.B.’s Geisterlab'
+date: 2020-02-13 15:25:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hqlv1NSSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hqlv1NSSL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07ND6CGGP
 description:
-actualPrice: 13.86 EUR
+actualPrice: 12.84 EUR
 comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 70418 Hidden Side J.B.’s Geisterlabor Kinderspielzeug  Augmented Reality Funktionen](https://www.amazon.com/dp/B07ND6CGGP/?tag=redken08-20) con un 30.67 % de descuento con precio de oferta de 13.86 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [LEGO 70418 Hidden Side J.B.’s Geisterlabor Kinderspielzeug  Augmented Reality Funktionen](https://www.amazon.com/dp/B07ND6CGGP/?tag=redken08-20) con un 35.77 % de descuento con precio de oferta de 12.84 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51hqlv1NSSL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07ND6CGGP/?tag=redken08-20)
 

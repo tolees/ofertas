@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.59 % en JAIMIE JACOBS Cartera Hombre Nano Boy Ca'
-date: 2020-02-07 10:58:49
+date: 2020-02-13 15:24:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JLjLV7cWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JLjLV7cWL._AC_._SL200_.jpg' ]
 comments: true
