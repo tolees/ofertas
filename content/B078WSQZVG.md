@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cycleafer® Luz trasera de bicicleta reca al 73.34 % de descuento'
-date: 2020-02-02 13:14:48
+date: 2020-02-13 12:35:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Lh6n8OVjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Lh6n8OVjL._AC_._SL200_.jpg' ]
 comments: true
