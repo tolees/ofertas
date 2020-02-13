@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fujifilm X-E3 - Cuerpo de cámara EVIL de al 27.47 % de descuento'
-date: 2020-02-08 09:03:17
+date: 2020-02-13 09:21:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uyTdcwveL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uyTdcwveL._AC_._SL200_.jpg' ]
 comments: true

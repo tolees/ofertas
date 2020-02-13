@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HYLOGY Oxímetro de Pulso Pulsioximetro d al 40.83 % de descuento'
-date: 2020-01-21 00:42:16
+date: 2020-02-13 10:34:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pl0XSZCFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pl0XSZCFL._SL200_.jpg' ]
 comments: true

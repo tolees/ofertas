@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'TACKLIFE 1500W 4700RPM Sierra Circular   al 53.87 % de descuento'
-date: 2019/11/13 17:28:13 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FM6%2BuPt7L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FM6%2BuPt7L._SL200_.jpg' ]
+date: 2020-02-13 10:04:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/51oA0TVaX0L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51oA0TVaX0L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [TACKLIFE 1500W 4700RPM Sierra Circular  Sierra Compatible Hoja: 185 y 190mm  Corte 63mm  90º   45mm  45º   Protector de Aluminio  Motor de Cobre Puro  Cable de 3 Metros  Cortar Madera Metal PES01A](https://www.amazon.com/dp/B074QJT3LF/?tag=redken08-20) con 53.87 de descuento por 59.97 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51FM6%2BuPt7L._SL200_.jpg)](https://www.amazon.com/dp/B074QJT3LF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51oA0TVaX0L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B074QJT3LF/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B074QJT3LF/?tag=redken08-20)
 

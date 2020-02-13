@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.72 % en Nuevo Echo Dot  3.ª generación  - Altavo'
-date: 2020-02-10 17:51:36
+date: 2020-02-13 10:54:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Eq8z0N7bL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Eq8z0N7bL._AC_._SL200_.jpg' ]
 comments: true
