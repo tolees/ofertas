@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'LEGO 41372 Friends Stephanie s Gymnastic al 31.97 % de descuento'
-date: 2019/12/18 07:07:23 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xTAlYbV3L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xTAlYbV3L._SL200_.jpg' ]
+title: 'LEGO 41372 - Friends Stephanies Gymnasti al 46.28 % de descuento'
+date: 2020-02-13 23:21:58
+thumbnailImage: 'https://m.media-amazon.com/images/I/51xTAlYbV3L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51xTAlYbV3L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KTK6MWC
 description:
-actualPrice: 17 GBP
-comparePrice: 24.99 GBP
+actualPrice: 16.11 EUR
+comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 41372 Friends Stephanie s Gymnastics Show Playset with 3 Sport Disciplines Accessories  Stephanie and Mia Mini Dolls](https://www.amazon.com/dp/B07KTK6MWC/?tag=redken08-20) a 17 GBP (original: 24.99 GBP) (31.97 %  de descuento) en el siguiente enlace!
+Está [LEGO 41372 - Friends Stephanies Gymnastik-Show  Bauset](https://www.amazon.com/dp/B07KTK6MWC/?tag=redken08-20) con 46.28 de descuento por 16.11 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51xTAlYbV3L._SL200_.jpg)](https://www.amazon.com/dp/B07KTK6MWC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51xTAlYbV3L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTK6MWC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KTK6MWC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KTK6MWC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

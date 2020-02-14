@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo S145-15AST - Ordenador portátil U al 28.57 % de descuento'
-date: 2020-02-13 07:06:39
+date: 2020-02-14 08:24:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lKse72ScL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lKse72ScL._AC_._SL200_.jpg' ]
 comments: true

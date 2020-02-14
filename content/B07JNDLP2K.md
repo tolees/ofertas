@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.27 % en DAM. DMZ047BK. Brazalete Inteligente S96'
-date: 2020-02-03 06:49:47
+date: 2020-02-14 07:49:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hE9SEOWfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hE9SEOWfL._AC_._SL200_.jpg' ]
 comments: true
