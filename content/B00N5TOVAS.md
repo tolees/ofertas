@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 66.66 % en Medisana HU 665 Calientacamas  150 x 80 '
-date: 2020-02-06 12:14:06
+date: 2020-02-14 07:34:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KgqHYn0tL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KgqHYn0tL._AC_._SL200_.jpg' ]
 comments: true

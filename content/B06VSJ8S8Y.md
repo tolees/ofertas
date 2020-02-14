@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 9245 DreamWorks Dragons Gobber al 25.27 % de descuento'
-date: 2020-02-11 15:44:57
+title: 'Playmobil 9245 DreamWorks Dragons Gobber al 25.77 % de descuento'
+date: 2020-02-14 07:21:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/5115k+bZSyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5115k+bZSyL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06VSJ8S8Y
 description:
-actualPrice: 8.96 GBP
+actualPrice: 8.9 GBP
 comparePrice: 11.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil 9245 DreamWorks Dragons Gobber with Catapult](https://www.amazon.com/dp/B06VSJ8S8Y/?tag=redken08-20) a 8.96 GBP (original: 11.99 GBP) (25.27 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Playmobil 9245 DreamWorks Dragons Gobber with Catapult](https://www.amazon.com/dp/B06VSJ8S8Y/?tag=redken08-20) a 8.9 GBP (original: 11.99 GBP) (25.77 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5115k+bZSyL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B06VSJ8S8Y/?tag=redken08-20)
 

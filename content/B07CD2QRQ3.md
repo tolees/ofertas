@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 74.97 % en L Oréal Paris Colorista Hair Makeup Rasp'
-date: 2020-02-05 20:20:11
+date: 2020-02-14 07:01:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jlseWl91L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jlseWl91L._AC_._SL200_.jpg' ]
 comments: true

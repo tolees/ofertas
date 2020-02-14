@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.88 % en Honor View 20 - Smartphone  Pantalla de '
-date: 2020-02-12 12:10:14
+date: 2020-02-14 01:22:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KNU80B6AL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KNU80B6AL._AC_._SL200_.jpg' ]
 comments: true

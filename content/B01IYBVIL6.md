@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carolina Herrera Good Girl Eau de Parfum al 37.66 % de descuento'
-date: 2020-02-11 21:02:19
+date: 2020-02-13 22:23:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/318GeppYEcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318GeppYEcL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Warner Bros Interactive Spain  VG  Lego  al 44.63 % de descuento'
-date: 2020-01-30 09:49:26
+title: 'Warner Bros Interactive Spain  VG  Lego  al 46.70 % de descuento'
+date: 2020-02-14 07:35:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KAL-ndGNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KAL-ndGNL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00Y2W1DNA
 description:
-actualPrice: 8.3 EUR
+actualPrice: 7.99 EUR
 comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Warner Bros Interactive Spain  VG  Lego Dimensions - Fun Pack - Bane [Importación Alemana]](https://www.amazon.com/dp/B00Y2W1DNA/?tag=redken08-20) con 44.63 de descuento por 8.3 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Warner Bros Interactive Spain  VG  Lego Dimensions - Fun Pack - Bane [Importación Alemana]](https://www.amazon.com/dp/B00Y2W1DNA/?tag=redken08-20) con 46.70 de descuento por 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KAL-ndGNL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00Y2W1DNA/?tag=redken08-20)
 
