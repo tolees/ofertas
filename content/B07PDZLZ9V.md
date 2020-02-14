@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A50 - Smartphone de 6.4"  al 26.08 % de descuento'
-date: 2020-01-30 04:07:13
+date: 2020-02-14 15:02:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XV0DaDBFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XV0DaDBFL._AC_._SL200_.jpg' ]
 comments: true

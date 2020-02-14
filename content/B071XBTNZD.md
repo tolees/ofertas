@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.02 % en Tacklife Cuchillo Plegable Profesional  '
-date: 2020-02-13 09:37:36
+date: 2020-02-14 15:08:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u06IrZJWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u06IrZJWL._AC_._SL200_.jpg' ]
 comments: true

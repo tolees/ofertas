@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mannesmann M29166 - Maletín con juego de al 33.48 % de descuento'
-date: 2020-02-12 23:37:23
+date: 2020-02-14 10:07:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Sabq7g-3L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Sabq7g-3L._AC_._SL200_.jpg' ]
 comments: true

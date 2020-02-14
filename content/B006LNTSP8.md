@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MK220 - Pack de teclado y ratón al 29.17 % de descuento'
-date: 2020-02-10 17:58:53
+date: 2020-02-14 15:38:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MAscWVyBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MAscWVyBL._AC_._SL200_.jpg' ]
 comments: true

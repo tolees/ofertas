@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ieGeek Cámara de Vigilancia WiFi Interio al 32.01 % de descuento'
-date: 2020-02-12 16:11:28
+date: 2020-02-14 11:33:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Gl5Kd3wQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Gl5Kd3wQL._AC_._SL200_.jpg' ]
 comments: true

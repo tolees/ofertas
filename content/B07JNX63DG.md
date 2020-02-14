@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.61 % en DAM. DMZ055BK. Brazalete Inteligente con'
-date: 2020-02-07 12:33:22
+date: 2020-02-14 17:28:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n5X2mieFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n5X2mieFL._AC_._SL200_.jpg' ]
 comments: true
