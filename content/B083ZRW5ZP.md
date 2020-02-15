@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TONGJI Acrylic Display Case For Lego Ide al 50.00 % de descuento'
-date: 2020-02-12 23:19:19
+date: 2020-02-14 23:17:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51idRww2MRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51idRww2MRL._AC_._SL200_.jpg' ]
 comments: true

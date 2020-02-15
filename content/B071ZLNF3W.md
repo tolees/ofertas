@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto E4 - Smartphone Libre de 5 al 44.30 % de descuento'
-date: 2020-02-13 23:05:18
+date: 2020-02-15 03:28:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31W5424OMiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31W5424OMiL._AC_._SL200_.jpg' ]
 comments: true

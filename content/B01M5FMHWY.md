@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Descuento del 34.27 % en Air Wick ambientador eléctrico Completo '
+date: 2020-02-14 19:38:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/51CSO-lY++L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51CSO-lY++L._AC_._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B01M5FMHWY
+description:
+actualPrice: 3.99 EUR
+comparePrice: 6.07 EUR
+inStock: true
+---
+
+Tienes [Air Wick ambientador eléctrico Completo  0  Aparato + Recambio](https://www.amazon.com/dp/B01M5FMHWY/?tag=redken08-20) con un 34.27 % de descuento con precio de oferta de 3.99 EUR (original: 6.07 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/51CSO-lY++L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01M5FMHWY/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B01M5FMHWY/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
