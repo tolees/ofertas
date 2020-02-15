@@ -14,10 +14,10 @@ comparePrice: 9.76 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [B Blesiya 1:100 Escala Modelo Poste de Luz LED Lamppost para Modelismo 5 Piezas - 120 mm](https://www.amazon.com/dp/B07K4CNVKF/?tag=redken08-20) a 6.83 EUR (original: 9.76 EUR) (30.02 %  de descuento) en el siguiente enlace!
+Está [B Blesiya 1:100 Escala Modelo Poste de Luz LED Lamppost para Modelismo 5 Piezas - 120 mm](https://www.amazon.com/dp/B07K4CNVKF/?tag=redken08-20) con 30.02 de descuento por 6.83 EUR (original: 9.76 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318gfReEoGL._SL200_.jpg)](https://www.amazon.com/dp/B07K4CNVKF/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07K4CNVKF/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07K4CNVKF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Value Backpack 15.6 - Mochila para po al 66.76 % de descuento'
-date: 2020-02-14 08:51:15
+date: 2020-02-15 09:07:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41q4rMTAWNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41q4rMTAWNL._AC_._SL200_.jpg' ]
 comments: true

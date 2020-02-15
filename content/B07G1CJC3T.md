@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.82 % en ghd curve creative curl - Rizador con ba'
-date: 2020-02-14 01:50:37
+date: 2020-02-15 11:10:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i1MJYlXGL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i1MJYlXGL._AC_._SL200_.jpg' ]
 comments: true

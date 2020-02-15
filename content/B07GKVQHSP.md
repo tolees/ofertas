@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi 8 - Smartphone de 6.21"  Octa- al 32.79 % de descuento'
-date: 2020-02-14 10:04:59
+date: 2020-02-15 12:06:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41z88TEv--L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41z88TEv--L._AC_._SL200_.jpg' ]
 comments: true
