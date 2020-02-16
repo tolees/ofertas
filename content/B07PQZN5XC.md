@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 4K UHD 2019 50RU7405  serie RU74 al 26.19 % de descuento'
-date: 2020-02-15 18:31:16
+date: 2020-02-16 20:40:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41egzEETe-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41egzEETe-L._AC_._SL200_.jpg' ]
 comments: true

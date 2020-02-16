@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago - Pijama para Niños 6-7 Año al 42.96 % de descuento'
-date: 2020-02-13 23:29:43
+date: 2020-02-16 20:06:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/518iuYn3baL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518iuYn3baL._AC_._SL200_.jpg' ]
 comments: true

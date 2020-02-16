@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revell Modellbausatz Star Wars Rebel U-W al 40.30 % de descuento'
-date: 2020-02-15 15:24:03
+date: 2020-02-16 20:06:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JMcWXwuIL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JMcWXwuIL._AC_._SL200_.jpg' ]
 comments: true

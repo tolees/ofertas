@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.60 % en TP-Link TL-WR841N - WiFi router inalámbr'
-date: 2020-02-14 21:36:28
+date: 2020-02-16 19:34:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Sm+swaTWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Sm+swaTWL._AC_._SL200_.jpg' ]
 comments: true
