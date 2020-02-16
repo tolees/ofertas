@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Avent SCH400/30  Set Para Cuidad al 34.26 % de descuento'
-date: 2020-02-15 11:16:10
+date: 2020-02-16 18:05:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zEgrZxUdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zEgrZxUdL._AC_._SL200_.jpg' ]
 comments: true

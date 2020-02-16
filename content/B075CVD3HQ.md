@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TUXWANG Kit de Costura con 90 Piezas Acc al 30.02 % de descuento'
-date: 2020-02-13 17:16:40
+date: 2020-02-16 18:29:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tT4cP5+SL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tT4cP5+SL._AC_._SL200_.jpg' ]
 comments: true

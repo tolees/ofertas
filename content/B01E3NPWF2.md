@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.02 % en Chicco Wellbeing - Set de regalo con bib'
-date: 2020-02-14 16:15:48
+date: 2020-02-16 16:11:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-tB-gFq9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-tB-gFq9L._AC_._SL200_.jpg' ]
 comments: true
