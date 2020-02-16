@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KLIM™ Fusion - Auriculares con micrófono al 43.38 % de descuento'
-date: 2020-02-14 09:55:36
+date: 2020-02-16 12:18:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-XogS3WSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-XogS3WSL._AC_._SL200_.jpg' ]
 comments: true

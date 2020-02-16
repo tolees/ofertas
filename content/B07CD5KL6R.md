@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.71 % en MEDION S3409 - MD 60999 - Ordenador port'
-date: 2020-02-15 12:33:05
+date: 2020-02-16 14:39:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nGr4Mf9VL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nGr4Mf9VL._AC_._SL200_.jpg' ]
 comments: true
