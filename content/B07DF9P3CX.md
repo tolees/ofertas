@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pop! Disney The Nightmare Before Christm al 41.19 % de descuento'
-date: 2020-02-14 07:41:43
+date: 2020-02-16 07:41:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ex-uWNrZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ex-uWNrZL._AC_._SL200_.jpg' ]
 comments: true

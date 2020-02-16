@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en GODNECE Technic Racing Car  1:8 Race Car'
-date: 2020-02-14 15:27:23
+date: 2020-02-15 23:26:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OD40mRdrL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OD40mRdrL._AC_._SL200_.jpg' ]
 comments: true

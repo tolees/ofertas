@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 74.65 % en DIM Generous Sujetador  Negro  95B para '
-date: 2020-02-05 11:00:24
+date: 2020-02-15 17:13:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VS4brCRcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VS4brCRcL._AC_._SL200_.jpg' ]
 comments: true

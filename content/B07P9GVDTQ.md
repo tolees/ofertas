@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACEPC T11 Windows 10 Pro Mini PC  4GB Ra al 27.78 % de descuento'
-date: 2020-02-13 23:18:12
+date: 2020-02-15 23:21:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gCAOIygsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gCAOIygsL._AC_._SL200_.jpg' ]
 comments: true

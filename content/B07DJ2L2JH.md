@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'New Balance Gw500v1  Zapatillas de Depor al 53.19 % de descuento'
-date: 2020-01-20 08:07:26
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gcpw33pbL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gcpw33pbL._SL200_.jpg' ]
+title: 'New Balance Gw500v1  Zapatillas de Depor al 65.92 % de descuento'
+date: 2020-02-16 11:04:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/41gcpw33pbL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41gcpw33pbL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07DJ2L2JH
 description:
-actualPrice: 35.11 EUR
-comparePrice: 75 EUR
+actualPrice: 25.56 EUR
+comparePrice: 75.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Azul  Navy/Light Blue Pt   44 EU](https://www.amazon.com/dp/B07DJ2L2JH/?tag=redken08-20) a 35.11 EUR (original: 75 EUR) (53.19 %  de descuento) en el siguiente enlace!
+Está [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Azul  Navy/Light Blue Pt   44 EU](https://www.amazon.com/dp/B07DJ2L2JH/?tag=redken08-20) con 65.92 de descuento por 25.56 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41gcpw33pbL._SL200_.jpg)](https://www.amazon.com/dp/B07DJ2L2JH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41gcpw33pbL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DJ2L2JH/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07DJ2L2JH/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DJ2L2JH/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

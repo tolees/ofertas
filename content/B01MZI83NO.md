@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Tamron SP 70-200 mm F/2.8 Di VC USD G2 - al 27.27 % de descuento'
-date: 2020-02-14 10:35:31
+title: 'Tamron SP 70-200 mm F/2.8 Di VC USD G2 - al 27.26 % de descuento'
+date: 2020-02-15 19:48:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sRToaDLUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sRToaDLUL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01MZI83NO
 description:
-actualPrice: 1162.99 EUR
+actualPrice: 1163.04 EUR
 comparePrice: 1599.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tamron SP 70-200 mm F/2.8 Di VC USD G2 - Objetivo para Nikon  estabilizador óptico VC en Tres Modos  Sensor Full Frame 24 x 36  AF USD  Dos Lentes XLD  SP  Negro](https://www.amazon.com/dp/B01MZI83NO/?tag=redken08-20) a 1162.99 EUR (original: 1599.0 EUR) (27.27 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tamron SP 70-200 mm F/2.8 Di VC USD G2 - Objetivo para Nikon  estabilizador óptico VC en Tres Modos  Sensor Full Frame 24 x 36  AF USD  Dos Lentes XLD  SP  Negro](https://www.amazon.com/dp/B01MZI83NO/?tag=redken08-20) a 1163.04 EUR (original: 1599.0 EUR) (27.26 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41sRToaDLUL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01MZI83NO/?tag=redken08-20)
 

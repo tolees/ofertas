@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.48 % en Western Digital My Cloud Home Duo  Almac'
-date: 2020-02-14 15:24:27
+date: 2020-02-15 16:20:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YUudbvNuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YUudbvNuL._AC_._SL200_.jpg' ]
 comments: true

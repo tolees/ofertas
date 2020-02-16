@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TAOCOCO Regleta inteligente  Smart Power al 62.01 % de descuento'
-date: 2020-02-01 09:56:13
+date: 2020-02-16 10:07:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f96Fj7rcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f96Fj7rcL._AC_._SL200_.jpg' ]
 comments: true

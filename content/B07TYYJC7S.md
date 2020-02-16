@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Archi al 70.01 % de descuento'
-date: 2020-02-13 23:18:08
+date: 2020-02-15 23:19:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VYx4OQQRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VYx4OQQRL._AC_._SL200_.jpg' ]
 comments: true

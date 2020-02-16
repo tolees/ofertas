@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barriguitas Edificio loco loco  Famosa 7 al 46.70 % de descuento'
-date: 2020-02-13 10:06:20
+date: 2020-02-15 13:03:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/413Uye-I0xL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413Uye-I0xL._AC_._SL200_.jpg' ]
 comments: true

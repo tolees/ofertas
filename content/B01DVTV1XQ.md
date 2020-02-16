@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.94 % en URAQT Princesa Traje del Vestido  Traje '
-date: 2020-02-03 15:38:27
+date: 2020-02-15 13:46:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oDQ+23wkL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oDQ+23wkL._AC_._SL200_.jpg' ]
 comments: true

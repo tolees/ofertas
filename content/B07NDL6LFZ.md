@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en G-STAR RAW Vodan Quilted Chaqueta Bomber'
-date: 2020-02-13 10:04:48
+date: 2020-02-15 23:20:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OkaypCqyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OkaypCqyL._AC_._SL200_.jpg' ]
 comments: true

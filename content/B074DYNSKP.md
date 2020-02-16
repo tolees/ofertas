@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony DSX-A410BT MP3 Autoradio  Dual Blue al 36.37 % de descuento'
-date: 2020-02-14 15:28:39
+title: 'Sony DSX-A410BT MP3 Autoradio  Dual Blue al 38.40 % de descuento'
+date: 2020-02-16 07:22:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Sz5skV0fL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Sz5skV0fL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B074DYNSKP
 description:
-actualPrice: 69.99 EUR
+actualPrice: 67.76 EUR
 comparePrice: 110.0 EUR
 inStock: true
 ---
 
-Está [Sony DSX-A410BT MP3 Autoradio  Dual Bluetooth  NFC  USB  AUX Anschluss  Beleuchtung  4 x 55 Watt  Freisprechen  rot](https://www.amazon.com/dp/B074DYNSKP/?tag=redken08-20) con 36.37 de descuento por 69.99 EUR (original: 110.0 EUR) en el siguiente enlace!
+Está [Sony DSX-A410BT MP3 Autoradio  Dual Bluetooth  NFC  USB  AUX Anschluss  Beleuchtung  4 x 55 Watt  Freisprechen  rot](https://www.amazon.com/dp/B074DYNSKP/?tag=redken08-20) con 38.40 de descuento por 67.76 EUR (original: 110.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Sz5skV0fL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B074DYNSKP/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Impresora PageWide Pro 452dw - Impres al 37.29 % de descuento'
-date: 2020-02-12 14:54:56
+date: 2020-02-15 18:28:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZfyRXkxiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZfyRXkxiL._AC_._SL200_.jpg' ]
 comments: true

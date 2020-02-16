@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 40888 POP. Disney: Frozen 2 - Youn al 46.12 % de descuento'
-date: 2020-02-14 23:15:58
+date: 2020-02-15 23:20:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rXx5eE+zL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rXx5eE+zL._AC_._SL200_.jpg' ]
 comments: true

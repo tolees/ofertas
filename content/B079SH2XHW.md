@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pinypon By Piny - Casa de Estudiantes  F al 39.88 % de descuento'
-date: 2020-02-13 23:29:46
+date: 2020-02-15 23:35:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OufUTZdcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OufUTZdcL._AC_._SL200_.jpg' ]
 comments: true

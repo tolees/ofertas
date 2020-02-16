@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HolyHigh Reloj Inteligente Smartwatch Mu al 72.00 % de descuento'
-date: 2020-02-13 09:35:56
+date: 2020-02-15 18:11:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RdaEOMvNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RdaEOMvNL._AC_._SL200_.jpg' ]
 comments: true

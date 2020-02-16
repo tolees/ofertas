@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 66.01 % en BENYAR Cronógrafo de Cuero de Moda Reloj'
-date: 2020-02-08 11:00:08
+date: 2020-02-16 10:59:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tea8DB3jL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tea8DB3jL._AC_._SL200_.jpg' ]
 comments: true

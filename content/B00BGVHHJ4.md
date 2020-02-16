@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Fruit of the Loom- Polo de Manga Corta P al 33.33 % de descuento'
-date: 2019/12/09 07:16:34 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aTEkOnZ9L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aTEkOnZ9L._SL200_.jpg' ]
+title: 'Fruit of the Loom- Polo de Manga Corta P al 33.36 % de descuento'
+date: 2020-02-15 19:49:24
+thumbnailImage: 'https://m.media-amazon.com/images/I/31aTEkOnZ9L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31aTEkOnZ9L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00BGVHHJ4
 description:
-actualPrice: 10.2 EUR
-comparePrice: 15.3 EUR
+actualPrice: 9.45 EUR
+comparePrice: 14.18 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Fruit of the Loom- Polo de Manga Corta Premium Entallado para Mujer  Mediana  M /Rosa Claro ](https://www.amazon.com/dp/B00BGVHHJ4/?tag=redken08-20) a 10.2 EUR (original: 15.3 EUR) (33.33 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Fruit of the Loom- Polo de Manga Corta Premium Entallado para Mujer  Mediana  M /Rosa Claro ](https://www.amazon.com/dp/B00BGVHHJ4/?tag=redken08-20) a 9.45 EUR (original: 14.18 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31aTEkOnZ9L._SL200_.jpg)](https://www.amazon.com/dp/B00BGVHHJ4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31aTEkOnZ9L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00BGVHHJ4/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00BGVHHJ4/?tag=redken08-20)
 
