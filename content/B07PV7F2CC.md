@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.49 % en SMARTOMI 1 cartucho de tóner negro de al'
-date: 2020-02-03 06:37:56
+date: 2020-02-17 00:56:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vYuKWGFhL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vYuKWGFhL._AC_._SL200_.jpg' ]
 comments: true

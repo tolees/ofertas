@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Caffè Vergnano 1882 Gran Aroma Ganze Boh al 26.62 % de descuento'
-date: 2020-02-09 04:34:42
+title: 'Caffè Vergnano 1882 Gran Aroma Ganze Boh al 33.36 % de descuento'
+date: 2020-02-17 05:03:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zZP5lFihL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zZP5lFihL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B002I2BMRS
 description:
-actualPrice: 11.0 EUR
+actualPrice: 9.99 EUR
 comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Caffè Vergnano 1882 Gran Aroma Ganze Bohnen  1 kg](https://www.amazon.com/dp/B002I2BMRS/?tag=redken08-20) a 11.0 EUR (original: 14.99 EUR) (26.62 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Caffè Vergnano 1882 Gran Aroma Ganze Bohnen  1 kg](https://www.amazon.com/dp/B002I2BMRS/?tag=redken08-20) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41zZP5lFihL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B002I2BMRS/?tag=redken08-20)
 

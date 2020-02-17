@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.02 % en Tronsmart Groove Altavoz Exterior Blueto'
-date: 2020-02-14 23:23:13
+date: 2020-02-17 07:31:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ub+iClBgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ub+iClBgL._AC_._SL200_.jpg' ]
 comments: true

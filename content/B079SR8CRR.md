@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pinypon - Pack de 6 figuras Pinypon y be al 29.61 % de descuento'
-date: 2020-02-15 23:34:33
+date: 2020-02-17 04:08:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-pJWo+KKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-pJWo+KKL._AC_._SL200_.jpg' ]
 comments: true

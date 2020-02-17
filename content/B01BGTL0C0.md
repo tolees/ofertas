@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'G-STAR RAW 5620 Elwood 3D Skinny Jeans   al 50.00 % de descuento'
-date: 2020-02-12 19:44:49
+title: 'G-STAR RAW 5620 Elwood 3D Skinny Jeans   al 52.73 % de descuento'
+date: 2020-02-17 00:14:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yhEke+0RL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yhEke+0RL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01BGTL0C0
 description:
-actualPrice: 69.97 EUR
+actualPrice: 66.16 EUR
 comparePrice: 139.95 EUR
 inStock: true
 ---
 
-Está [G-STAR RAW 5620 Elwood 3D Skinny Jeans  Gris  dk Aged Cobler 7863-3143   34W / 32L para Hombre](https://www.amazon.com/dp/B01BGTL0C0/?tag=redken08-20) con 50.00 de descuento por 69.97 EUR (original: 139.95 EUR) en el siguiente enlace!
+Está [G-STAR RAW 5620 Elwood 3D Skinny Jeans  Gris  dk Aged Cobler 7863-3143   34W / 32L para Hombre](https://www.amazon.com/dp/B01BGTL0C0/?tag=redken08-20) con 52.73 de descuento por 66.16 EUR (original: 139.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41yhEke+0RL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01BGTL0C0/?tag=redken08-20)
 

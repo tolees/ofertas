@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en Levi s Men s 527 Boot Cut Jeans  Blue  E'
-date: 2020-01-16 22:04:38
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ATXDOP7kL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ATXDOP7kL._SL200_.jpg' ]
+date: 2020-02-17 05:03:17
+thumbnailImage: 'https://m.media-amazon.com/images/I/41JNDdAtlDL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41JNDdAtlDL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00I7QKTQ4
 description:
-actualPrice: 34 GBP
-comparePrice: 85 GBP
+actualPrice: 34.0 GBP
+comparePrice: 85.0 GBP
 inStock: true
 ---
 
-Tienes [Levi s Men s 527 Boot Cut Jeans  Blue  Explorer   34W x 34L](https://www.amazon.com/dp/B00I7QKTQ4/?tag=redken08-20) con un 60.00 % de descuento con precio de oferta de 34 GBP (original: 85 GBP) en el siguiente enlace!
+Tienes [Levi s Men s 527 Boot Cut Jeans  Blue  Explorer   34W x 34L](https://www.amazon.com/dp/B00I7QKTQ4/?tag=redken08-20) con un 60.00 % de descuento con precio de oferta de 34.0 GBP (original: 85.0 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ATXDOP7kL._SL200_.jpg)](https://www.amazon.com/dp/B00I7QKTQ4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41JNDdAtlDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00I7QKTQ4/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00I7QKTQ4/?tag=redken08-20)
 

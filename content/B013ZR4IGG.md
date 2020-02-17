@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.09 % en Philips Sonicare FlexCare Platinum Zahnb'
-date: 2020-02-13 07:33:48
+date: 2020-02-17 07:16:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41daxuEgnVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41daxuEgnVL._AC_._SL200_.jpg' ]
 comments: true

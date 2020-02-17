@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 33182 POP Directors J.J Abrams Col al 29.92 % de descuento'
-date: 2020-02-15 23:19:01
+date: 2020-02-17 03:51:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+EwUd3YNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+EwUd3YNL._AC_._SL200_.jpg' ]
 comments: true
