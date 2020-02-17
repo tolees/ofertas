@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cycleafer® Luz de Bicicleta Recargable U al 30.71 % de descuento'
-date: 2020-02-15 18:32:31
+date: 2020-02-17 08:03:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Xaboqcv5L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Xaboqcv5L._AC_._SL200_.jpg' ]
 comments: true

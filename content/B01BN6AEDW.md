@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Solac PC1500 Niagara-Placha Vertical  Co al 35.99 % de descuento'
-date: 2020-02-11 13:13:37
+date: 2020-02-17 07:45:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZHE8-ZIsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZHE8-ZIsL._AC_._SL200_.jpg' ]
 comments: true

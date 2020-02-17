@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'BÉABA - Babycook Duo  Robot de cocina 4  al 31.49 % de descuento'
-date: 2019/10/28 17:32:14 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WTZ65KABL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WTZ65KABL._SL200_.jpg' ]
+title: 'BÉABA - Babycook Duo  Robot de cocina 4  al 29.65 % de descuento'
+date: 2020-02-17 09:34:08
+thumbnailImage: 'https://m.media-amazon.com/images/I/31WTZ65KABL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31WTZ65KABL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B019FKEZBK
 description:
-actualPrice: 136.33 EUR
-comparePrice: 199 EUR
+actualPrice: 139.99 EUR
+comparePrice: 199.0 EUR
 inStock: true
 ---
 
-Está [BÉABA - Babycook Duo  Robot de cocina 4 en 1  Néon](https://www.amazon.com/dp/B019FKEZBK/?tag=redken08-20) con 31.49 de descuento por 136.33 EUR (original: 199 EUR) en el siguiente enlace!
+Está [BÉABA - Babycook Duo  Robot de cocina 4 en 1  Néon](https://www.amazon.com/dp/B019FKEZBK/?tag=redken08-20) con 29.65 de descuento por 139.99 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31WTZ65KABL._SL200_.jpg)](https://www.amazon.com/dp/B019FKEZBK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31WTZ65KABL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B019FKEZBK/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B019FKEZBK/?tag=redken08-20)
 

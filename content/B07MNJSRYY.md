@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.17 % en Crucial Ballistix Sport LT BLS8G4D32AESB'
-date: 2020-02-14 16:13:28
+date: 2020-02-17 09:47:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL200_.jpg' ]
 comments: true
