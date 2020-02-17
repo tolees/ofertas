@@ -14,10 +14,10 @@ comparePrice: 89.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 76131 Avengers Compound Battle Superhero Playset  Thanos and Hulk Figures  Iron Man  Captain Marvel and Nebula Minifigures  Colourful](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20) a 63.64 GBP (original: 89.99 GBP) (29.28 %  de descuento) en el siguiente enlace!
+Está [LEGO 76131 Avengers Compound Battle Superhero Playset  Thanos and Hulk Figures  Iron Man  Captain Marvel and Nebula Minifigures  Colourful](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20) con 29.28 de descuento por 63.64 GBP (original: 89.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51z9aoOLNZL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

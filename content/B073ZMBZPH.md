@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD My Book Duo Disco duro externo de Sob al 65.01 % de descuento'
-date: 2020-02-14 19:58:59
+date: 2020-02-17 11:31:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31yyf+9XFuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31yyf+9XFuL._AC_._SL200_.jpg' ]
 comments: true

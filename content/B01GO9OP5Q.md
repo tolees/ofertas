@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Gran Turismo Sport - Edición Estánd al 71.69 % de descuento'
-date: 2019/11/22 11:58:38 +0000
+date: 2020-02-17 12:03:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ovPF48wGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ovPF48wGL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo C24 - Monitor de 23 8"  FullHD  1 al 30.24 % de descuento'
-date: 2020-02-08 13:42:48
+date: 2020-02-17 10:32:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41INz5aK18L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41INz5aK18L._AC_._SL200_.jpg' ]
 comments: true
