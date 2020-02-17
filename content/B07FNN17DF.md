@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO DUPLO 10897 - Meine erste Minnie Ma al 30.03 % de descuento'
-date: 2020-02-10 21:26:50
+title: 'LEGO DUPLO 10897 - Meine erste Minnie Ma al 25.03 % de descuento'
+date: 2020-02-17 13:35:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eMPXGl--L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eMPXGl--L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNN17DF
 description:
-actualPrice: 6.99 EUR
+actualPrice: 7.49 EUR
 comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO DUPLO 10897 - Meine erste Minnie Maus](https://www.amazon.com/dp/B07FNN17DF/?tag=redken08-20) a 6.99 EUR (original: 9.99 EUR) (30.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO DUPLO 10897 - Meine erste Minnie Maus](https://www.amazon.com/dp/B07FNN17DF/?tag=redken08-20) a 7.49 EUR (original: 9.99 EUR) (25.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51eMPXGl--L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FNN17DF/?tag=redken08-20)
 

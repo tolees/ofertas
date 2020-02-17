@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.73 % en Atornillador Eléctrico 6N.m  TECCPO Dest'
-date: 2020-02-16 10:05:35
+date: 2020-02-17 15:02:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51In2-fGLYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51In2-fGLYL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Chromebook 15  15 6 Zoll Full-HD IP al 34.87 % de descuento'
-date: 2020-02-07 15:11:21
+date: 2020-02-17 15:10:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nwIi0J4PL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nwIi0J4PL._AC_._SL200_.jpg' ]
 comments: true

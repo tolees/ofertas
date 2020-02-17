@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[en.casa] Pedestal para Lavadora con Caj al 42.04 % de descuento'
-date: 2020-02-16 10:35:38
+date: 2020-02-17 14:49:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RyqlvCFyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RyqlvCFyL._AC_._SL200_.jpg' ]
 comments: true
