@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KASTEWILL Bluetooth Adapter 5.0 Transmit al 34.43 % de descuento'
-date: 2020-02-14 15:28:44
+date: 2020-02-18 11:56:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QlNJrHWLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QlNJrHWLL._AC_._SL200_.jpg' ]
 comments: true

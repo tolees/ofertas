@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ZenBook Flip 15 UX562FA  90NB0LK1-M al 49.95 % de descuento'
-date: 2020-02-06 13:54:24
+date: 2020-02-18 12:22:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-sqAU5qQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-sqAU5qQL._AC_._SL200_.jpg' ]
 comments: true

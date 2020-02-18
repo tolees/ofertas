@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.50 % en Gliss - Champú Ultimate Oil Elixir para '
-date: 2020-02-17 09:21:09
+date: 2020-02-18 12:18:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L+owaiADL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L+owaiADL._AC_._SL200_.jpg' ]
 comments: true

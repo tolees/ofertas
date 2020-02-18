@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.61 % en PLAYMOBIL Magic 70096 Beautysalon mit Pe'
-date: 2020-02-17 04:11:02
+date: 2020-02-18 12:02:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TaGkM08gL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TaGkM08gL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars: Battlefront II - Edición está al 62.01 % de descuento'
-date: 2020-02-17 08:54:37
+date: 2020-02-18 11:56:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jZxf+ygQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jZxf+ygQL._AC_._SL200_.jpg' ]
 comments: true
