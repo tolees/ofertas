@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TELMU 10X42 Telescopio Monocular para Mo al 32.51 % de descuento'
-date: 2020-02-01 00:18:58
+date: 2020-02-18 10:03:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51W5nh2R+-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51W5nh2R+-L._AC_._SL200_.jpg' ]
 comments: true

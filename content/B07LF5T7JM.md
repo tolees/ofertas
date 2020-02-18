@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Color Block tee Camiseta  Mult al 50.00 % de descuento'
-date: 2020-02-16 10:28:57
+date: 2020-02-18 11:27:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WEHDUUN1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WEHDUUN1L._AC_._SL200_.jpg' ]
 comments: true

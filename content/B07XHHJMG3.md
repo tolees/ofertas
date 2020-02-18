@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.44 % en SKEY Compresor de Aire Coche Portatil Bo'
-date: 2020-02-11 20:26:36
+date: 2020-02-18 09:19:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ffpcTLHKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ffpcTLHKL._AC_._SL200_.jpg' ]
 comments: true

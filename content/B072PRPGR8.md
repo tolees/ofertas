@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.95 % en Acer Switch 5  SW512-52-5819  30 48 cm  '
-date: 2020-02-06 13:09:34
+date: 2020-02-18 11:29:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uX7Z1tu0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uX7Z1tu0L._AC_._SL200_.jpg' ]
 comments: true

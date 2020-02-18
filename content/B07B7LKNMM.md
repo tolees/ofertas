@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.67 % en Ejeas V6 Pro Auriculares Intercomunicado'
-date: 2020-02-15 18:51:19
+date: 2020-02-18 08:45:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EcL+GDtEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EcL+GDtEL._AC_._SL200_.jpg' ]
 comments: true

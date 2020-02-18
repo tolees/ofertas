@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial CT102464BD160B - Memoria RAM de  al 28.15 % de descuento'
-date: 2020-02-14 08:08:00
+date: 2020-02-18 09:31:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Tu0ITu5hL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Tu0ITu5hL._AC_._SL200_.jpg' ]
 comments: true

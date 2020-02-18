@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Adventure 21396-56 - Tosta al 35.01 % de descuento'
-date: 2020-01-30 10:33:35
+date: 2020-02-18 07:15:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yLPtrslIL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yLPtrslIL._AC_._SL200_.jpg' ]
 comments: true
