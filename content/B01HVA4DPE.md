@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PJ Masks - Pack de 5 figuras  Bandai 245 al 40.02 % de descuento'
-date: 2020-02-12 19:46:58
+date: 2020-02-17 20:42:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/416enm3UZbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416enm3UZbL._AC_._SL200_.jpg' ]
 comments: true

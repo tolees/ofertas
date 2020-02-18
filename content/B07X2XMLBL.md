@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sendowtek Wake Up Light  Despertador Luz al 52.86 % de descuento'
-date: 2020-02-11 15:48:07
+date: 2020-02-17 20:09:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iPI-jALoL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iPI-jALoL._AC_._SL200_.jpg' ]
 comments: true

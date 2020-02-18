@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony KD55XF7004BAEP - Smart TV de 55" 4K al 45.02 % de descuento'
-date: 2020-02-16 10:05:46
+title: 'Sony KD55XF7004BAEP - Smart TV de 55" 4K al 46.96 % de descuento'
+date: 2020-02-17 17:38:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tdODxgjjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tdODxgjjL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07CNQZ4W3
 description:
-actualPrice: 494.27 EUR
+actualPrice: 476.87 EUR
 comparePrice: 899.0 EUR
 inStock: true
 ---
 
-Está [Sony KD55XF7004BAEP - Smart TV de 55" 4K Ultra HD con Soporte de ángulo  Negro Mate](https://www.amazon.com/dp/B07CNQZ4W3/?tag=redken08-20) con 45.02 de descuento por 494.27 EUR (original: 899.0 EUR) en el siguiente enlace!
+Está [Sony KD55XF7004BAEP - Smart TV de 55" 4K Ultra HD con Soporte de ángulo  Negro Mate](https://www.amazon.com/dp/B07CNQZ4W3/?tag=redken08-20) con 46.96 de descuento por 476.87 EUR (original: 899.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51tdODxgjjL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CNQZ4W3/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX High-Speed Passenger Train Led  al 58.34 % de descuento'
-date: 2020-02-16 15:20:58
+date: 2020-02-17 19:57:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/413pNrOuHVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413pNrOuHVL._AC_._SL200_.jpg' ]
 comments: true

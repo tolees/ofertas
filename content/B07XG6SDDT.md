@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ETEKCITY Pulsera de Actividad Inteligent al 30.01 % de descuento'
-date: 2020-02-14 17:55:42
+date: 2020-02-17 18:55:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DW+PD3zHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DW+PD3zHL._AC_._SL200_.jpg' ]
 comments: true

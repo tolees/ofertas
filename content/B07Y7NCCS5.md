@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.33 % en MEDION M80 - Ordenador de sobremesa  Int'
-date: 2020-01-01 16:37:54
+date: 2020-02-17 20:23:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BuGBknjiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BuGBknjiL._SL200_.jpg' ]
 comments: true

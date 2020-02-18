@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Harpoon - Ratón óptico para jueg al 33.41 % de descuento'
-date: 2020-02-15 23:23:17
+date: 2020-02-17 20:15:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31sLIJC2yQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31sLIJC2yQL._AC_._SL200_.jpg' ]
 comments: true

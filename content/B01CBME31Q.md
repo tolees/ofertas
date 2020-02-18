@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'DC Comics 8404 Funko Pop Movies: Suicide al 25.92 % de descuento'
-date: 2020-02-15 15:16:48
+title: 'DC Comics 8404 Funko Pop Movies: Suicide al 26.24 % de descuento'
+date: 2020-02-17 19:49:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rWZhrWgsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rWZhrWgsL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01CBME31Q
 description:
-actualPrice: 6.86 GBP
+actualPrice: 6.83 GBP
 comparePrice: 9.26 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [DC Comics 8404 Funko Pop Movies: Suicide Squad Action Figure  Rick Flag](https://www.amazon.com/dp/B01CBME31Q/?tag=redken08-20) a 6.86 GBP (original: 9.26 GBP) (25.92 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [DC Comics 8404 Funko Pop Movies: Suicide Squad Action Figure  Rick Flag](https://www.amazon.com/dp/B01CBME31Q/?tag=redken08-20) a 6.83 GBP (original: 9.26 GBP) (26.24 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51rWZhrWgsL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01CBME31Q/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Baby Trick or Treat al 47.09 % de descuento'
-date: 2020-02-16 15:27:31
+date: 2020-02-17 20:07:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51REKZBX4jL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51REKZBX4jL._AC_._SL200_.jpg' ]
 comments: true

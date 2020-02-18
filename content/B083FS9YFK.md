@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Leg al 36.37 % de descuento'
-date: 2020-02-16 15:50:47
+title: 'BRIKSMAX Led Lighting Kit for LEGO Star  al 71.01 % de descuento'
+date: 2020-02-17 04:02:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TfpKtBXlL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TfpKtBXlL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B083FS9YFK
 description:
-actualPrice: 34.99 EUR
-comparePrice: 54.99 EUR
+actualPrice: 28.99 GBP
+comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Halcón Milenario Compatible con Ladrillos de Construcción Lego Modelo 75257  Juego de Legos no Incluido](https://www.amazon.com/dp/B083FS9YFK/?tag=redken08-20) a 34.99 EUR (original: 54.99 EUR) (36.37 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Millennium Falcon Compatible with LEGO 75257 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B083FS9YFK/?tag=redken08-20) a 28.99 GBP (original: 99.99 GBP) (71.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51TfpKtBXlL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B083FS9YFK/?tag=redken08-20)
 

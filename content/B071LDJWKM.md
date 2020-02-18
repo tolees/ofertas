@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE Cúter  UKH01 Cuchillo con 5 Hoj al 35.02 % de descuento'
-date: 2020-02-16 13:40:43
+date: 2020-02-17 22:20:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dgxgmYUCL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dgxgmYUCL._AC_._SL200_.jpg' ]
 comments: true

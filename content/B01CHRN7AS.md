@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.87 % en Pata Negra Reserva 2013 Vino Tinto D.O V'
-date: 2020-02-13 18:36:10
+date: 2020-02-17 20:53:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/513TygcBu1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513TygcBu1L._AC_._SL200_.jpg' ]
 comments: true

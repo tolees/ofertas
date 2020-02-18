@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crema Facial de Acido Hialuronico Vegano al 50.08 % de descuento'
-date: 2020-02-10 19:12:28
+date: 2020-02-17 20:24:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MrpJqiaRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MrpJqiaRL._AC_._SL200_.jpg' ]
 comments: true

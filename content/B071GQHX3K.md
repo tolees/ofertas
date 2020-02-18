@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 33.97 % en Johnnie Walker Blue Label Whisky Edición'
-date: 2019/11/11 09:09:09 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DQ-BhL4eL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DQ-BhL4eL._SL200_.jpg' ]
+title: 'Descuento del 28.16 % en Johnnie Walker Blue Label Whisky Edición'
+date: 2020-02-18 05:05:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/41DQ-BhL4eL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41DQ-BhL4eL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B071GQHX3K
 description:
-actualPrice: 139.99 EUR
-comparePrice: 212 EUR
+actualPrice: 135.0 EUR
+comparePrice: 187.91 EUR
 inStock: true
 ---
 
-Tienes [Johnnie Walker Blue Label Whisky Edición Limitada Barcelona - 700 ml](https://www.amazon.com/dp/B071GQHX3K/?tag=redken08-20) con un 33.97 % de descuento con precio de oferta de 139.99 EUR (original: 212 EUR) en el siguiente enlace!
+Tienes [Johnnie Walker Blue Label Whisky Edición Limitada Barcelona - 700 ml](https://www.amazon.com/dp/B071GQHX3K/?tag=redken08-20) con un 28.16 % de descuento con precio de oferta de 135.0 EUR (original: 187.91 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41DQ-BhL4eL._SL200_.jpg)](https://www.amazon.com/dp/B071GQHX3K/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41DQ-BhL4eL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B071GQHX3K/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B071GQHX3K/?tag=redken08-20)
 
