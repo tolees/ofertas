@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.35 % en Vieta Pro Round Up - Altavoz inalámbrico'
-date: 2020-02-17 12:33:50
+date: 2020-02-18 18:44:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MCeiNYyrL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MCeiNYyrL._AC_._SL200_.jpg' ]
 comments: true

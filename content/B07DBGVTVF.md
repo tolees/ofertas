@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Ideapad 320-15AST - Ordenador Por al 33.33 % de descuento'
-date: 2020-02-17 16:23:32
+date: 2020-02-18 18:16:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gzDX24P2L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gzDX24P2L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'HP Sprocket 200 - Impresora fotográfica  al 33.36 % de descuento'
-date: 2019/11/03 18:52:54 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ltv3kKZpL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ltv3kKZpL._SL200_.jpg' ]
+title: 'HP Sprocket 200 1AS85A  Impresora  Bluet al 43.76 % de descuento'
+date: 2020-02-18 19:07:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/31ltv3kKZpL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31ltv3kKZpL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07H7CBWM6
 description:
-actualPrice: 99.9 EUR
+actualPrice: 84.31 EUR
 comparePrice: 149.9 EUR
 inStock: true
 ---
 
-Está [HP Sprocket 200 - Impresora fotográfica portátil  tecnología de impresión Zink  Bluetooth  Fotos 5 x 7.6 cm   Blanco](https://www.amazon.com/dp/B07H7CBWM6/?tag=redken08-20) con 33.36 de descuento por 99.9 EUR (original: 149.9 EUR) en el siguiente enlace!
+Está [HP Sprocket 200 1AS85A  Impresora  Bluetooth  Tamaño Único  Blanco](https://www.amazon.com/dp/B07H7CBWM6/?tag=redken08-20) con 43.76 de descuento por 84.31 EUR (original: 149.9 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31ltv3kKZpL._SL200_.jpg)](https://www.amazon.com/dp/B07H7CBWM6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31ltv3kKZpL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07H7CBWM6/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07H7CBWM6/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.75 % en YANGOO Pulsera Actividad Inteligente Imp'
-date: 2020-02-13 16:46:57
+date: 2020-02-18 18:55:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-K-cq-0iL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-K-cq-0iL._AC_._SL200_.jpg' ]
 comments: true
