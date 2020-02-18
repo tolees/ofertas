@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Smint Caramelo Comprimido sin Azúcar Smi al 29.85 % de descuento'
-date: 2019/10/08 02:46:39 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BgUB6QzEL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BgUB6QzEL._SL200_.jpg' ]
+title: 'Smint Tin Menta  Caramelo Comprimido Sin al 25.48 % de descuento'
+date: 2020-02-18 15:31:45
+thumbnailImage: 'https://m.media-amazon.com/images/I/51PUt9oREEL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51PUt9oREEL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00GUJ5S3Y
 description:
-actualPrice: 15.39 EUR
+actualPrice: 16.35 EUR
 comparePrice: 21.94 EUR
 inStock: true
 ---
 
-Está [Smint Caramelo Comprimido sin Azúcar Smint Tin con Sabor a Menta - 12 unidades de 35 gr/ud](https://www.amazon.com/dp/B00GUJ5S3Y/?tag=redken08-20) con 29.85 de descuento por 15.39 EUR (original: 21.94 EUR) en el siguiente enlace!
+Está [Smint Tin Menta  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr/ud](https://www.amazon.com/dp/B00GUJ5S3Y/?tag=redken08-20) con 25.48 de descuento por 16.35 EUR (original: 21.94 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51%2BgUB6QzEL._SL200_.jpg)](https://www.amazon.com/dp/B00GUJ5S3Y/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51PUt9oREEL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00GUJ5S3Y/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00GUJ5S3Y/?tag=redken08-20)
 

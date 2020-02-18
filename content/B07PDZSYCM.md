@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'tado° Control de Climatización Inteligen al 25.00 % de descuento'
-date: 2020-02-14 19:15:25
+date: 2020-02-18 15:47:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31li+4HUC+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31li+4HUC+L._AC_._SL200_.jpg' ]
 comments: true
