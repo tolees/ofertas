@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AiRunTech Cinturón de Correr para Botell al 25.81 % de descuento'
-date: 2020-02-12 10:12:06
+date: 2020-02-19 09:20:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/411k3yNuXZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411k3yNuXZL._AC_._SL200_.jpg' ]
 comments: true

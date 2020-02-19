@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop!- DC Batwoman Figura de Vinilo al 46.70 % de descuento'
-date: 2019/12/16 13:52:50 +0000
+date: 2020-02-19 10:36:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qLoFZRpiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qLoFZRpiL._SL200_.jpg' ]
 comments: true

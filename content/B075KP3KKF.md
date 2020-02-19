@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MBT SHUGULI M  Zapatos de Cordones Oxfor al 47.75 % de descuento'
-date: 2020-02-12 12:43:44
+date: 2020-02-19 10:42:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31D7BPF7WPL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31D7BPF7WPL._AC_._SL200_.jpg' ]
 comments: true
