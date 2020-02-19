@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Lee Logo tee Camiseta  Negro  Black Ai01'
-date: 2020-02-15 12:49:30
+date: 2020-02-19 15:21:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VLRKCz6vL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VLRKCz6vL._AC_._SL200_.jpg' ]
 comments: true

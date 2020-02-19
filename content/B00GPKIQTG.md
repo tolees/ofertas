@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aveeno Baby Daily Care Hair & Body Wash  al 50.33 % de descuento'
-date: 2020-02-18 04:42:00
+date: 2020-02-19 16:36:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31bCjdm8CML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31bCjdm8CML._AC_._SL200_.jpg' ]
 comments: true

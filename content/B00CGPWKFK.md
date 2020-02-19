@@ -14,10 +14,10 @@ comparePrice: 15 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Matrix Cream Developer 6% 20 Vol - Cuidado capilar  1000 ml](https://www.amazon.com/dp/B00CGPWKFK/?tag=redken08-20) a 9.96 EUR (original: 15 EUR) (33.60 %  de descuento) en el siguiente enlace!
+Está [Matrix Cream Developer 6% 20 Vol - Cuidado capilar  1000 ml](https://www.amazon.com/dp/B00CGPWKFK/?tag=redken08-20) con 33.60 de descuento por 9.96 EUR (original: 15 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31e-0awqSlL._SL200_.jpg)](https://www.amazon.com/dp/B00CGPWKFK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00CGPWKFK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00CGPWKFK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

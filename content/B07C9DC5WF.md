@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.00 % en Naipo Mesa de Masaje Plegable de 2 Secci'
-date: 2020-02-10 14:08:50
+date: 2020-02-19 14:36:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41puq2keQtL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41puq2keQtL._AC_._SL200_.jpg' ]
 comments: true

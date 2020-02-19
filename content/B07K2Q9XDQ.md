@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.83 % en Levi s LS Battery Hm Shirt Camisa  Blanc'
-date: 2020-02-18 14:08:16
+date: 2020-02-19 17:34:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zfRLMcVpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zfRLMcVpL._AC_._SL200_.jpg' ]
 comments: true
