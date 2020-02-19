@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 44821 POP TV: Game of Thrones-Theo al 26.29 % de descuento'
-date: 2020-02-18 19:59:37
+date: 2020-02-19 20:02:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PFhNJBTDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PFhNJBTDL._AC_._SL200_.jpg' ]
 comments: true

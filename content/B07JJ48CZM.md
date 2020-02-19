@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.37 % en Paquete de 5 parches de lentejuelas bord'
-date: 2020-02-17 20:12:30
+date: 2020-02-19 20:11:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/5130P3clcvL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5130P3clcvL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LAST LEVEL- Funko 17 Figura Pop Dragon B al 48.28 % de descuento'
-date: 2020-01-12 17:17:09
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41457hHTOvL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41457hHTOvL._SL200_.jpg' ]
+title: 'Funko 36393 Dirty Dancing: Baby POP Viny al 25.15 % de descuento'
+date: 2020-02-19 11:58:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41457hHTOvL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41457hHTOvL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07HBBC9B5
 description:
-actualPrice: 8.25 EUR
-comparePrice: 15.95 EUR
+actualPrice: 8.99 EUR
+comparePrice: 12.01 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LAST LEVEL- Funko 17 Figura Pop Dragon Ball: C17 Android  Multicolor  Talla única  FFK36398 ](https://www.amazon.com/dp/B07HBBC9B5/?tag=redken08-20) a 8.25 EUR (original: 15.95 EUR) (48.28 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 36393 Dirty Dancing: Baby POP Vinyl  Multi  Einheitsgröße](https://www.amazon.com/dp/B07HBBC9B5/?tag=redken08-20) a 8.99 EUR (original: 12.01 EUR) (25.15 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41457hHTOvL._SL200_.jpg)](https://www.amazon.com/dp/B07HBBC9B5/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41457hHTOvL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HBBC9B5/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07HBBC9B5/?tag=redken08-20)
 

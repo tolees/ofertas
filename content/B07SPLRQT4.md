@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel NUC/Mainstream-G Core i5 8GB  256- al 55.24 % de descuento'
-date: 2020-02-17 20:02:12
+date: 2020-02-19 20:00:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/315U1NUPDuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315U1NUPDuL._AC_._SL200_.jpg' ]
 comments: true

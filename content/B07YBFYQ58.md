@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.79 % en Calentador de Mano Recargable Calentador'
-date: 2020-02-11 08:27:53
+date: 2020-02-19 19:55:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Ih-WcbHUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Ih-WcbHUL._AC_._SL200_.jpg' ]
 comments: true
