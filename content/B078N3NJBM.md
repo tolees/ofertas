@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ideapad 520S-14IKB - Ordenador Po al 50.96 % de descuento'
-date: 2020-02-17 14:35:45
+date: 2020-02-18 19:35:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O1L+nH9kL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O1L+nH9kL._AC_._SL200_.jpg' ]
 comments: true

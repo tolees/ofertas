@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.26 % en Apple iPhone XS  de 512GB  - Oro'
-date: 2020-02-17 20:42:42
+date: 2020-02-19 01:15:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EDX0DWF-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EDX0DWF-L._AC_._SL200_.jpg' ]
 comments: true

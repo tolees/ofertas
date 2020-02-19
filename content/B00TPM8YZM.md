@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sesderma Hidraderm Hyal Leche Corporal - al 33.47 % de descuento'
-date: 2020-01-28 12:17:17
+date: 2020-02-18 20:22:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hUXQdZ7AL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hUXQdZ7AL._AC_._SL200_.jpg' ]
 comments: true

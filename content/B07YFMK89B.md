@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Bluetooth 5.0 de Hasta 50 Ho al 40.01 % de descuento'
-date: 2020-02-17 11:59:00
+date: 2020-02-19 04:10:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r2ynn9rXL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r2ynn9rXL._AC_._SL200_.jpg' ]
 comments: true

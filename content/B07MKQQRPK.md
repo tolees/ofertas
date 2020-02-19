@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Towinle Caja Pulseras Gomas 6800 Bandas '
-date: 2020-02-13 15:32:58
+date: 2020-02-19 04:10:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/61SB3-YftfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61SB3-YftfL._AC_._SL200_.jpg' ]
 comments: true

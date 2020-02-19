@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 44.00 % en D-Link 1282655 DSL-35MF UK ADSL Microfil'
-date: 2020-02-07 21:38:11
+title: 'Descuento del 92.96 % en D-Link 1282655 DSL-35MF UK ADSL Microfil'
+date: 2020-02-18 21:21:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MWAOm3dWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MWAOm3dWL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B000KQFAKE
 description:
-actualPrice: 4.34 GBP
-comparePrice: 7.75 GBP
+actualPrice: 0.5 GBP
+comparePrice: 7.1 GBP
 inStock: true
 ---
 
-Tienes [D-Link 1282655 DSL-35MF UK ADSL Microfilter White](https://www.amazon.com/dp/B000KQFAKE/?tag=redken08-20) con un 44.00 % de descuento con precio de oferta de 4.34 GBP (original: 7.75 GBP) en el siguiente enlace!
+Tienes [D-Link 1282655 DSL-35MF UK ADSL Microfilter White](https://www.amazon.com/dp/B000KQFAKE/?tag=redken08-20) con un 92.96 % de descuento con precio de oferta de 0.5 GBP (original: 7.1 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31MWAOm3dWL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B000KQFAKE/?tag=redken08-20)
 
