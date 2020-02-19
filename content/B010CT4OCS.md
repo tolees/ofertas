@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 31.50 % en Teka MWE 225 FI -  Microondas de integra'
-date: 2020-01-22 00:11:52
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T4nv5z%2BbL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T4nv5z%2BbL._SL200_.jpg' ]
+title: 'Descuento del 32.00 % en Teka Integración | Modelo MWE 225 FI | M'
+date: 2020-02-19 11:35:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/41T4nv5z+bL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41T4nv5z+bL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B010CT4OCS
 description:
-actualPrice: 137 EUR
-comparePrice: 200 EUR
+actualPrice: 136.0 EUR
+comparePrice: 200.0 EUR
 inStock: true
 ---
 
-Tienes [Teka MWE 225 FI -  Microondas de integración+ Grill de 20L  800 W  Botones  Acero inoxidable](https://www.amazon.com/dp/B010CT4OCS/?tag=redken08-20) con un 31.50 % de descuento con precio de oferta de 137 EUR (original: 200 EUR) en el siguiente enlace!
+Tienes [Teka Integración | Modelo MWE 225 FI | Microondas con Grill |Capacidad de 20 litros | 5 Niveles de Potencia | 800 W | Color: Acero Inoxidable y Cristal  1250  Gris y negro](https://www.amazon.com/dp/B010CT4OCS/?tag=redken08-20) con un 32.00 % de descuento con precio de oferta de 136.0 EUR (original: 200.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41T4nv5z%2BbL._SL200_.jpg)](https://www.amazon.com/dp/B010CT4OCS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41T4nv5z+bL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B010CT4OCS/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B010CT4OCS/?tag=redken08-20)
 

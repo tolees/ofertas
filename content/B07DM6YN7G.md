@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Resident Evil 2 - Edición Estándar al 54.41 % de descuento'
-date: 2020-02-16 20:43:24
+date: 2020-02-19 13:15:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qVrUlatgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qVrUlatgL._AC_._SL200_.jpg' ]
 comments: true

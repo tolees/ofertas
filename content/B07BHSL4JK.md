@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.61 % en HAIROXOL-Cápsulas tratamiento anti-caída'
-date: 2020-02-17 08:10:17
+date: 2020-02-19 14:10:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mnrb78aOL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mnrb78aOL._AC_._SL200_.jpg' ]
 comments: true

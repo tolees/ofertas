@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mochila Antirrobo Impermeable  Mochila P al 38.62 % de descuento'
-date: 2020-02-10 11:00:50
+date: 2020-02-19 12:07:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gyBijCY1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gyBijCY1L._AC_._SL200_.jpg' ]
 comments: true

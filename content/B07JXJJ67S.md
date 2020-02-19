@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL City Life 70015 Mein Lieblings al 34.41 % de descuento'
-date: 2020-02-17 12:09:38
+date: 2020-02-19 12:12:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/513KDtj4BjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513KDtj4BjL._AC_._SL200_.jpg' ]
 comments: true

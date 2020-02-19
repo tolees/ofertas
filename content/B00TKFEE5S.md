@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.78 % en Seagate STEA2000400 - Disco duro de 2 TB'
-date: 2020-02-15 19:05:56
+date: 2020-02-19 11:24:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vHOg-KVEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vHOg-KVEL._AC_._SL200_.jpg' ]
 comments: true

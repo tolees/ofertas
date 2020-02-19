@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Marve al 78.01 % de descuento'
-date: 2019/12/29 08:29:59 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416XN6kdkuL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416XN6kdkuL._SL200_.jpg' ]
+date: 2020-02-19 11:54:43
+thumbnailImage: 'https://m.media-amazon.com/images/I/416XN6kdkuL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/416XN6kdkuL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [BRIKSMAX Led Lighting Kit for LEGO Marvel Avengers War Machine Action Figure- Compatible with Lego 76124 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TTNH41B/?tag=redken08-20) con 78.01 de descuento por 21.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/416XN6kdkuL._SL200_.jpg)](https://www.amazon.com/dp/B07TTNH41B/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/416XN6kdkuL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TTNH41B/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07TTNH41B/?tag=redken08-20)
 

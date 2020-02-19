@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.75 % en Cecotec Robot Aspirador Conga Serie 1090'
-date: 2020-02-17 13:48:16
+date: 2020-02-19 13:45:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jFfu7c2oL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jFfu7c2oL._AC_._SL200_.jpg' ]
 comments: true
