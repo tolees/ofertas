@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Donna Karan Dkny Be Delicious - Agua de  al 59.42 % de descuento'
-date: 2019/10/18 12:54:05 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GyQiniBeL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GyQiniBeL._SL200_.jpg' ]
+title: 'Donna Karan Dkny Be Delicious - Agua de  al 54.09 % de descuento'
+date: 2020-02-20 07:45:48
+thumbnailImage: 'https://m.media-amazon.com/images/I/41GyQiniBeL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41GyQiniBeL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B000E7STLQ
 description:
-actualPrice: 36.32 EUR
-comparePrice: 89.5 EUR
+actualPrice: 36.22 EUR
+comparePrice: 78.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Donna Karan Dkny Be Delicious - Agua de perfume para mujer  100 ml](https://www.amazon.com/dp/B000E7STLQ/?tag=redken08-20) a 36.32 EUR (original: 89.5 EUR) (59.42 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Donna Karan Dkny Be Delicious - Agua de perfume para mujer  100 ml](https://www.amazon.com/dp/B000E7STLQ/?tag=redken08-20) a 36.22 EUR (original: 78.9 EUR) (54.09 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41GyQiniBeL._SL200_.jpg)](https://www.amazon.com/dp/B000E7STLQ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41GyQiniBeL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B000E7STLQ/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B000E7STLQ/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link UH720 - USB 3.0  hub de 7 Puerto al 47.19 % de descuento'
-date: 2020-02-19 06:12:31
+date: 2020-02-20 07:47:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31sZrDKTmiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31sZrDKTmiL._AC_._SL200_.jpg' ]
 comments: true

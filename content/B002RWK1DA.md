@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Pedigree Dentastix de uso diario para hi al 28.67 % de descuento'
-date: 2020-01-11 14:11:51
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rPlk3E92L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rPlk3E92L._SL200_.jpg' ]
+date: 2020-02-20 07:46:20
+thumbnailImage: 'https://m.media-amazon.com/images/I/41rPlk3E92L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41rPlk3E92L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Pedigree Dentastix de uso diario para higiene oral para perros medianos - Pack de 10 x 7 sticks - Total: 70 sticks](https://www.amazon.com/dp/B002RWK1DA/?tag=redken08-20) a 19.9 EUR (original: 27.9 EUR) (28.67 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41rPlk3E92L._SL200_.jpg)](https://www.amazon.com/dp/B002RWK1DA/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41rPlk3E92L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B002RWK1DA/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B002RWK1DA/?tag=redken08-20)
 

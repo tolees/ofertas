@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.40 % en Logitech K400 Plus Touch Wireless Tastat'
-date: 2020-02-01 02:07:43
+date: 2020-02-19 20:47:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MV9clhq5L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MV9clhq5L._AC_._SL200_.jpg' ]
 comments: true

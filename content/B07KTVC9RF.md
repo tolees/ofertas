@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 70674 NINJAGO Fire Fang Snake Toy f al 37.48 % de descuento'
-date: 2020-02-17 03:52:56
+date: 2020-02-20 03:51:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/513xCgYvuiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513xCgYvuiL._AC_._SL200_.jpg' ]
 comments: true

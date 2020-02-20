@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bluetooth Kopfhörer  Donerton Bluetooth  al 70.77 % de descuento'
-date: 2020-02-19 03:58:14
+date: 2020-02-20 04:05:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bqnzZagnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bqnzZagnL._AC_._SL200_.jpg' ]
 comments: true
