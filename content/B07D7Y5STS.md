@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.00 % en Levi s Graphic Set-in Neck  Camiseta par'
-date: 2020-02-05 15:54:38
+date: 2020-02-20 09:33:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FMiw3XhVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FMiw3XhVL._AC_._SL200_.jpg' ]
 comments: true

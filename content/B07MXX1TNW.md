@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Asics Gel-Sonoma 4  Zapatillas de Runnin al 45.77 % de descuento'
-date: 2020-02-12 08:01:51
+title: 'Asics Gel-Sonoma 4  Zapatillas de Runnin al 38.29 % de descuento'
+date: 2020-02-20 08:59:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qPqy4YhKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qPqy4YhKL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MXX1TNW
 description:
-actualPrice: 47.45 EUR
+actualPrice: 53.99 EUR
 comparePrice: 87.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Asics Gel-Sonoma 4  Zapatillas de Running para Hombre  Negro  Black/Stone Grey 002   42.5 EU](https://www.amazon.com/dp/B07MXX1TNW/?tag=redken08-20) a 47.45 EUR (original: 87.49 EUR) (45.77 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Asics Gel-Sonoma 4  Zapatillas de Running para Hombre  Negro  Black/Stone Grey 002   42.5 EU](https://www.amazon.com/dp/B07MXX1TNW/?tag=redken08-20) a 53.99 EUR (original: 87.49 EUR) (38.29 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qPqy4YhKL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MXX1TNW/?tag=redken08-20)
 

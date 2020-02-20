@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic ES-CV51-S803 Afeitadora Premiu al 48.19 % de descuento'
-date: 2020-02-18 12:03:20
+date: 2020-02-20 11:39:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f-G5BiuvL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f-G5BiuvL._AC_._SL200_.jpg' ]
 comments: true

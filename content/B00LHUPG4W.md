@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin BSV103 SurgeCube - Protección con al 56.02 % de descuento'
-date: 2020-02-18 07:42:31
+date: 2020-02-20 12:32:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/417e9-wiHVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417e9-wiHVL._AC_._SL200_.jpg' ]
 comments: true

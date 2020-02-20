@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Emisor Térmico Ready Warm 2000 T al 30.76 % de descuento'
-date: 2020-01-27 23:14:58
+date: 2020-02-20 14:03:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dweBessLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dweBessLL._AC_._SL200_.jpg' ]
 comments: true

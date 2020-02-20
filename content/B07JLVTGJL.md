@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HOMSCAM Pulsera Actividad  Pulsera Intel al 48.58 % de descuento'
-date: 2020-02-07 08:32:09
+date: 2020-02-20 16:55:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GQNuiH6AL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GQNuiH6AL._AC_._SL200_.jpg' ]
 comments: true

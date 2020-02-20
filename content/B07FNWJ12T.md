@@ -14,10 +14,10 @@ comparePrice: 79.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 70828 Movie 2 with 2 Buildable Figures Unikitty as Disco Kitty and Zebe  plus Tempo and Melody Mini dolls Constrution Set](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20) a 49.96 GBP (original: 79.99 GBP) (37.54 %  de descuento) en el siguiente enlace!
+Está [LEGO 70828 Movie 2 with 2 Buildable Figures Unikitty as Disco Kitty and Zebe  plus Tempo and Melody Mini dolls Constrution Set](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20) con 37.54 de descuento por 49.96 GBP (original: 79.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/514SyurffVL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

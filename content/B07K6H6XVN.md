@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.69 % en Beelink BT3Pro II Mini PC Computer Windo'
-date: 2020-02-18 20:06:47
+date: 2020-02-20 12:12:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wBW29q-uL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wBW29q-uL._AC_._SL200_.jpg' ]
 comments: true

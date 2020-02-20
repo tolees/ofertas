@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE Carrete para Manguera  20+2m Ma al 32.64 % de descuento'
-date: 2020-02-18 15:45:32
+date: 2020-02-20 11:41:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XxfGPm7RL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XxfGPm7RL._AC_._SL200_.jpg' ]
 comments: true

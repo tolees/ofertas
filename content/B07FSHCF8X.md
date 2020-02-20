@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.38 % en Memoria Flash Universal 32 GB  aleación '
-date: 2020-01-25 16:46:23
+date: 2020-02-20 15:10:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Cx-1dctuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Cx-1dctuL._AC_._SL200_.jpg' ]
 comments: true

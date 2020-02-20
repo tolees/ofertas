@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3D Kit Huella Niños Familias Adultos Kit al 38.00 % de descuento'
-date: 2020-01-24 16:54:28
+date: 2020-02-20 13:04:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ms0aPBzYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ms0aPBzYL._AC_._SL200_.jpg' ]
 comments: true

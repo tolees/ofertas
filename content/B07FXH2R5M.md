@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 83.58 % en Multímetro Digital Profesional  LOMVUM T'
-date: 2020-02-18 19:28:28
+date: 2020-02-20 08:32:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iLisoQCHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iLisoQCHL._AC_._SL200_.jpg' ]
 comments: true

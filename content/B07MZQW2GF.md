@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pepe Jeans London Koko Sky  Zapatillas p al 58.31 % de descuento'
-date: 2020-02-02 12:07:31
+title: 'Pepe Jeans London Koko Sky  Zapatillas p al 45.00 % de descuento'
+date: 2020-02-20 08:32:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41B+h2vpx8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41B+h2vpx8L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MZQW2GF
 description:
-actualPrice: 35.44 EUR
+actualPrice: 46.75 EUR
 comparePrice: 85.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans London Koko Sky  Zapatillas para Mujer  Stone 856  36 EU](https://www.amazon.com/dp/B07MZQW2GF/?tag=redken08-20) a 35.44 EUR (original: 85.0 EUR) (58.31 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans London Koko Sky  Zapatillas para Mujer  Stone 856  36 EU](https://www.amazon.com/dp/B07MZQW2GF/?tag=redken08-20) a 46.75 EUR (original: 85.0 EUR) (45.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41B+h2vpx8L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MZQW2GF/?tag=redken08-20)
 
