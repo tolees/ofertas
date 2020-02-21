@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Max Factor Velvet Mattes Lipstick  Tono  al 67.87 % de descuento'
-date: 2020-02-19 10:39:32
+date: 2020-02-21 12:52:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31B+Egs7YeL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31B+Egs7YeL._AC_._SL200_.jpg' ]
 comments: true

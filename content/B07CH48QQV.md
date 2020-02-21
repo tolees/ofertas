@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arteza Lápices de acuarela con forma tri al 39.44 % de descuento'
-date: 2020-02-20 11:46:16
+date: 2020-02-21 15:40:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kgfQDrQnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kgfQDrQnL._AC_._SL200_.jpg' ]
 comments: true

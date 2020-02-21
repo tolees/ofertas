@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Levi s Sportswear Logo Graphic - Camiset'
-date: 2020-02-16 12:14:39
+date: 2020-02-21 12:56:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xr+7quJ0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xr+7quJ0L._AC_._SL200_.jpg' ]
 comments: true
