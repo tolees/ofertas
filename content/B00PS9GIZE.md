@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Medisana HP-40E Almohadilla eléctrica    al 39.33 % de descuento'
-date: 2020-01-28 12:12:42
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g6K3kNr7L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51g6K3kNr7L._SL200_.jpg' ]
+date: 2020-02-21 09:07:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/51g6K3kNr7L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51g6K3kNr7L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Medisana HP-40E Almohadilla eléctrica   super polar  3 ajustes de temperatura  protección contra sobrecalentamiento  desconexión automática  lavable  para espalda  cuello  hombros  2ª generación](https://www.amazon.com/dp/B00PS9GIZE/?tag=redken08-20) a 19.99 EUR (original: 32.95 EUR) (39.33 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51g6K3kNr7L._SL200_.jpg)](https://www.amazon.com/dp/B00PS9GIZE/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51g6K3kNr7L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00PS9GIZE/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00PS9GIZE/?tag=redken08-20)
 

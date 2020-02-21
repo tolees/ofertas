@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amzdeal Caja de Luz Fotografía 60x60x60c al 26.67 % de descuento'
-date: 2020-02-17 19:02:42
+date: 2020-02-21 08:02:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/416GifKpC7L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416GifKpC7L._AC_._SL200_.jpg' ]
 comments: true

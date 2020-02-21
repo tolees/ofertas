@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Honor 20 Lite - Smartphone de 6.21"  RAM al 36.79 % de descuento'
-date: 2020-02-20 04:09:02
+title: 'Honor 20 Lite - Smartphone de 6.21"  RAM al 36.93 % de descuento'
+date: 2020-02-21 09:21:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zXXV9sV3L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zXXV9sV3L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07RFYP5H6
 description:
-actualPrice: 188.99 EUR
+actualPrice: 188.59 EUR
 comparePrice: 299.0 EUR
 inStock: true
 ---
 
-Está [Honor 20 Lite - Smartphone de 6.21"  RAM de 4 GB  Memoria de 128 GB  Dual SIM  Cámara Frontal de 32 MP  Triple Cámara Trasera 24+8+2MP  Android   Color Azul [Versión Española]](https://www.amazon.com/dp/B07RFYP5H6/?tag=redken08-20) con 36.79 de descuento por 188.99 EUR (original: 299.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Honor 20 Lite - Smartphone de 6.21"  RAM de 4 GB  Memoria de 128 GB  Dual SIM  Cámara Frontal de 32 MP  Triple Cámara Trasera 24+8+2MP  Android   Color Azul [Versión Española]](https://www.amazon.com/dp/B07RFYP5H6/?tag=redken08-20) a 188.59 EUR (original: 299.0 EUR) (36.93 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41zXXV9sV3L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RFYP5H6/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07RFYP5H6/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07RFYP5H6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
