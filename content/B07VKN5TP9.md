@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ENEGON 9V USB Directa Recargable Batería al 68.34 % de descuento'
-date: 2020-02-08 17:24:29
+date: 2020-02-20 20:33:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yC5bHoiOL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yC5bHoiOL._AC_._SL200_.jpg' ]
 comments: true

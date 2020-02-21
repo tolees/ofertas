@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.75 % en Finether Aspirador sin Cable 2 en 1  Asp'
-date: 2020-02-15 15:41:24
+date: 2020-02-20 19:16:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OQfHTeV7L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OQfHTeV7L._AC_._SL200_.jpg' ]
 comments: true

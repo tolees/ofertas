@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop Star Wars Solo 26982 Lando Cal al 30.47 % de descuento'
-date: 2020-02-18 19:53:04
+date: 2020-02-20 19:54:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41epN6IuN+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41epN6IuN+L._AC_._SL200_.jpg' ]
 comments: true

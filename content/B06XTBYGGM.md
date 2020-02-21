@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PRIXTON at300hr - Pulsera de Actividad d al 38.29 % de descuento'
-date: 2020-02-09 08:13:57
+date: 2020-02-20 21:49:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vWvuG6yAL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vWvuG6yAL._AC_._SL200_.jpg' ]
 comments: true

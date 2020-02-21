@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WR802N - Enrutador inalámbric al 27.63 % de descuento'
-date: 2020-02-01 19:20:05
+date: 2020-02-20 21:02:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zptAbcUzL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zptAbcUzL._AC_._SL200_.jpg' ]
 comments: true
