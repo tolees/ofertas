@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Victure Grabadora de Voz Digital Portáti al 30.01 % de descuento'
-date: 2020-02-13 09:17:47
+date: 2020-02-21 11:05:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IpgY02sXL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IpgY02sXL._AC_._SL200_.jpg' ]
 comments: true

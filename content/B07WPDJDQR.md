@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.00 % en TACKLIFE 800W Martillo Perforador  2.8J '
-date: 2020-02-11 13:13:30
+date: 2020-02-21 10:32:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sY-dXSoiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sY-dXSoiL._AC_._SL200_.jpg' ]
 comments: true
