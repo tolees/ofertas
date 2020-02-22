@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.61 % en TCL 65DC762 Smart TV de 65 Pulgadas con '
-date: 2020-02-21 17:06:43
+date: 2020-02-22 19:02:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oELEhwovL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oELEhwovL._AC_._SL200_.jpg' ]
 comments: true

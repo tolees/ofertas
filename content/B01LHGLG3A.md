@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 72.82 % en Sony NW-WM1A - Reproductor audio Walkman'
-date: 2020-02-17 14:24:28
+date: 2020-02-22 18:54:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/416i7Lie6IL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416i7Lie6IL._AC_._SL200_.jpg' ]
 comments: true

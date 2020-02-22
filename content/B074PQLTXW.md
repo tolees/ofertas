@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.06 % en Ball Rescuer: Bote Presurizador de Pelot'
-date: 2020-02-13 16:49:37
+date: 2020-02-22 17:46:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ki-SRVd3L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ki-SRVd3L._AC_._SL200_.jpg' ]
 comments: true

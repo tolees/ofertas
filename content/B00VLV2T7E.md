@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil Dentista con Paciente 6662 al 28.79 % de descuento'
-date: 2020-02-21 12:14:39
+title: 'Playmobil Dentista con Paciente 6662 al 28.86 % de descuento'
+date: 2020-02-22 12:18:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/61EmN53y54L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61EmN53y54L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00VLV2T7E
 description:
-actualPrice: 9.97 EUR
+actualPrice: 9.96 EUR
 comparePrice: 14.0 EUR
 inStock: true
 ---
 
-Está [Playmobil Dentista con Paciente 6662](https://www.amazon.com/dp/B00VLV2T7E/?tag=redken08-20) con 28.79 de descuento por 9.97 EUR (original: 14.0 EUR) en el siguiente enlace!
+Está [Playmobil Dentista con Paciente 6662](https://www.amazon.com/dp/B00VLV2T7E/?tag=redken08-20) con 28.86 de descuento por 9.96 EUR (original: 14.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61EmN53y54L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00VLV2T7E/?tag=redken08-20)
 

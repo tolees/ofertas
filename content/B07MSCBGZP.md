@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AISIRER Bombilla Inteligente Bombillas L al 46.53 % de descuento'
-date: 2020-02-18 20:50:57
+date: 2020-02-22 16:40:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dLsP32DpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dLsP32DpL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B PRO 2 2500 CrossAction - Cepillo  al 31.89 % de descuento'
-date: 2020-02-14 21:01:32
+date: 2020-02-22 20:06:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51T4vDV5sML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51T4vDV5sML._AC_._SL200_.jpg' ]
 comments: true

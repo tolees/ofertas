@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Kraken Tournament Edition - Auricu al 40.00 % de descuento'
-date: 2020-02-20 22:04:34
+date: 2020-02-22 12:40:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/3148MC1CzuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3148MC1CzuL._AC_._SL200_.jpg' ]
 comments: true

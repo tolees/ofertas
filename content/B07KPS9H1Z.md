@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Funko- Pop Bobble: Star Wars: Ewok Villa al 48.97 % de descuento'
-date: 2019/10/18 02:49:45 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312RqmoHx2L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312RqmoHx2L._SL200_.jpg' ]
+title: 'Funko 37526 POP Star Wars: Return of the al 35.66 % de descuento'
+date: 2020-02-22 19:54:07
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ku93qzPYL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ku93qzPYL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KPS9H1Z
 description:
-actualPrice: 8.14 EUR
-comparePrice: 15.95 EUR
+actualPrice: 5.99 GBP
+comparePrice: 9.31 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pop Bobble: Star Wars: Ewok Village Leia Figura Coleccionable   37526 ](https://www.amazon.com/dp/B07KPS9H1Z/?tag=redken08-20) a 8.14 EUR (original: 15.95 EUR) (48.97 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 37526 POP Star Wars: Return of the Jedi-Ewok Village Leia Collectible Figure  Multicolor](https://www.amazon.com/dp/B07KPS9H1Z/?tag=redken08-20) a 5.99 GBP (original: 9.31 GBP) (35.66 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/312RqmoHx2L._SL200_.jpg)](https://www.amazon.com/dp/B07KPS9H1Z/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ku93qzPYL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KPS9H1Z/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07KPS9H1Z/?tag=redken08-20)
 

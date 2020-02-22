@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pack Navidad 2019  BD - 20 discos [ al 50.48 % de descuento'
-date: 2020-02-18 14:47:30
+date: 2020-02-22 15:50:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ynPe5RXfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ynPe5RXfL._AC_._SL200_.jpg' ]
 comments: true
