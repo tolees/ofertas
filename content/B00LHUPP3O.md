@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin BSV804 SurgeStrip - Tira de prote al 32.51 % de descuento'
-date: 2020-02-17 15:33:28
+date: 2020-02-21 19:52:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+74IvHtCL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+74IvHtCL._AC_._SL200_.jpg' ]
 comments: true

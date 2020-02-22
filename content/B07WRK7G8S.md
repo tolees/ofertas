@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.73 % en Black Shark 2 8GB+128GB Negro con Switch'
-date: 2020-02-08 10:59:14
+date: 2020-02-21 17:12:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qlYNpc65L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qlYNpc65L._AC_._SL200_.jpg' ]
 comments: true

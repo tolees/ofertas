@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Xiaomi Redmi Airdots  Blueto al 36.94 % de descuento'
-date: 2020-02-20 09:47:16
+date: 2020-02-21 16:18:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Kch-qfBUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Kch-qfBUL._AC_._SL200_.jpg' ]
 comments: true

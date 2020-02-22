@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.03 % en Hasbro Gaming Clasico Cluedo  Versión Es'
-date: 2020-02-01 18:58:00
+date: 2020-02-21 20:26:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51HvfDdgRaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51HvfDdgRaL._AC_._SL200_.jpg' ]
 comments: true

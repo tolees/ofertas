@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic KX-TG1612 - Teléfono Fijo inal al 27.32 % de descuento'
-date: 2020-02-09 14:40:14
+date: 2020-02-21 19:21:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NHZA5e+rL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NHZA5e+rL._AC_._SL200_.jpg' ]
 comments: true

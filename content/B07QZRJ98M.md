@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YI Cámara de Vigilancia WiFi Dome X Cáma al 25.00 % de descuento'
-date: 2020-02-06 20:33:49
+date: 2020-02-21 18:25:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/413XvmErmUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413XvmErmUL._AC_._SL200_.jpg' ]
 comments: true

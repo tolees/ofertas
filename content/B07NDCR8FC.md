@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual 19WAYA01 - Cartera para mujer d al 50.08 % de descuento'
-date: 2020-02-16 18:16:20
+date: 2020-02-21 19:14:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ufQzCATgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ufQzCATgL._AC_._SL200_.jpg' ]
 comments: true

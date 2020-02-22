@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 74.97 % en Revlon Super Lustrous Brillo Labial  #24'
-date: 2020-02-20 06:59:20
+date: 2020-02-21 21:06:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/3134JO3UTSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3134JO3UTSL._AC_._SL200_.jpg' ]
 comments: true

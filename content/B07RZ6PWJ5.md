@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 707 Resto Gaming Chair  al 54.55 % de descuento'
-date: 2020-02-18 23:31:03
+date: 2020-02-22 00:25:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KxD78pjRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KxD78pjRL._AC_._SL200_.jpg' ]
 comments: true

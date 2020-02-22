@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin BSV603 SurgeStrip - Tira de prote al 32.01 % de descuento'
-date: 2020-02-19 08:56:54
+date: 2020-02-22 07:19:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qiNhuRZ3L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qiNhuRZ3L._AC_._SL200_.jpg' ]
 comments: true
