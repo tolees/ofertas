@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 40.33 % en Funko 41169 POP Vinyl Directors: Jason B'
-date: 2020-02-18 19:53:50
+title: 'Descuento del 40.46 % en Funko 41169 POP Vinyl Directors: Jason B'
+date: 2020-02-22 11:51:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V5IfsOO1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V5IfsOO1L._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07QCQB2RJ
 description:
 actualPrice: 5.49 GBP
-comparePrice: 9.2 GBP
+comparePrice: 9.22 GBP
 inStock: true
 ---
 
-Tienes [Funko 41169 POP Vinyl Directors: Jason Blum Collectible Figure  Multicolour](https://www.amazon.com/dp/B07QCQB2RJ/?tag=redken08-20) con un 40.33 % de descuento con precio de oferta de 5.49 GBP (original: 9.2 GBP) en el siguiente enlace!
+Tienes [Funko 41169 POP Vinyl Directors: Jason Blum Collectible Figure  Multicolour](https://www.amazon.com/dp/B07QCQB2RJ/?tag=redken08-20) con un 40.46 % de descuento con precio de oferta de 5.49 GBP (original: 9.22 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31V5IfsOO1L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07QCQB2RJ/?tag=redken08-20)
 

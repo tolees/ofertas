@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.82 % en Tusscle Calcetines Yoga  2 Pares Pilates'
-date: 2020-02-11 14:58:30
+date: 2020-02-22 11:03:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51j0hcUMJtL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51j0hcUMJtL._AC_._SL200_.jpg' ]
 comments: true

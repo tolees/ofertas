@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 58.34 % en Xnuoyo 17.3 Pulgadas Mochila Hombre  Imp'
-date: 2020-02-14 11:44:53
+date: 2020-02-22 11:27:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QftFC3D9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QftFC3D9L._AC_._SL200_.jpg' ]
 comments: true

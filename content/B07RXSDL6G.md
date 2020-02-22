@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.04 % en QGhappy Cable USB Tipo C 5A 3Pack[0.5M 1'
-date: 2020-02-21 10:17:28
+date: 2020-02-22 10:21:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oFN4zgi6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oFN4zgi6L._AC_._SL200_.jpg' ]
 comments: true

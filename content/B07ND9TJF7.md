@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75249 Star Wars Widerstands Y-Wing  al 30.32 % de descuento'
-date: 2020-02-18 20:02:06
+date: 2020-02-22 09:28:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Y4ahQUjDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Y4ahQUjDL._AC_._SL200_.jpg' ]
 comments: true

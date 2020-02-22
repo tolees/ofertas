@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.47 % en YABER Arrancador de Coches 12000mAh  800'
-date: 2020-02-21 08:02:04
+date: 2020-02-22 08:46:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mEiSA-qUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mEiSA-qUL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'ghd original - Plancha de pelo profesion al 30.57 % de descuento'
-date: 2020-02-13 17:46:52
+title: 'ghd original - Plancha de pelo profesion al 26.85 % de descuento'
+date: 2020-02-22 09:21:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-R0Q4PLvL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-R0Q4PLvL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B000CSLJDW
 description:
-actualPrice: 103.45 EUR
+actualPrice: 108.99 EUR
 comparePrice: 149.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ghd original - Plancha de pelo profesional  tecnología cerámica](https://www.amazon.com/dp/B000CSLJDW/?tag=redken08-20) a 103.45 EUR (original: 149.0 EUR) (30.57 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [ghd original - Plancha de pelo profesional  tecnología cerámica](https://www.amazon.com/dp/B000CSLJDW/?tag=redken08-20) a 108.99 EUR (original: 149.0 EUR) (26.85 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41-R0Q4PLvL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B000CSLJDW/?tag=redken08-20)
 

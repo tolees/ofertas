@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.79 % en Puig  Agua Fresca - 200 ml'
-date: 2020-02-21 08:51:43
+date: 2020-02-22 09:06:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OPJ2eYWsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OPJ2eYWsL._AC_._SL200_.jpg' ]
 comments: true
