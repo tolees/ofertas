@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone XS  de 256GB  - Gris espaci al 29.78 % de descuento'
-date: 2020-02-22 09:56:21
+date: 2020-02-23 16:03:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t9poOATPL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t9poOATPL._AC_._SL200_.jpg' ]
 comments: true

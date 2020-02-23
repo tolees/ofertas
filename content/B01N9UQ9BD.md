@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Pulsera de Mujer con Acero Inoxid al 50.00 % de descuento'
-date: 2020-02-22 15:54:20
+date: 2020-02-23 17:23:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RKfgGbhkL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RKfgGbhkL._AC_._SL200_.jpg' ]
 comments: true

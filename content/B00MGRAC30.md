@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Essential Top Load 15.6" - Funda band al 55.03 % de descuento'
-date: 2020-02-16 21:08:34
+date: 2020-02-23 16:18:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xA7aDei4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xA7aDei4L._AC_._SL200_.jpg' ]
 comments: true
