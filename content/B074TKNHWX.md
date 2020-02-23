@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Parrot Mambo Mission - Dron cuadricópter al 43.43 % de descuento'
-date: 2020-02-19 13:23:41
+title: 'Parrot Mambo Mission - Dron cuadricópter al 40.97 % de descuento'
+date: 2020-02-23 20:06:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xEENek3SL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xEENek3SL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B074TKNHWX
 description:
-actualPrice: 89.95 EUR
+actualPrice: 93.85 EUR
 comparePrice: 159.0 EUR
 inStock: true
 ---
 
-Está [Parrot Mambo Mission - Dron cuadricóptero  30 Km/h  10 minutos de vuelo  100 metros de alcance  + Mando Flypad + Soporte smartphone + Cañon + 50 bolas + Pinza Grabber](https://www.amazon.com/dp/B074TKNHWX/?tag=redken08-20) con 43.43 de descuento por 89.95 EUR (original: 159.0 EUR) en el siguiente enlace!
+Está [Parrot Mambo Mission - Dron cuadricóptero  30 Km/h  10 minutos de vuelo  100 metros de alcance  + Mando Flypad + Soporte smartphone + Cañon + 50 bolas + Pinza Grabber](https://www.amazon.com/dp/B074TKNHWX/?tag=redken08-20) con 40.97 de descuento por 93.85 EUR (original: 159.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41xEENek3SL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B074TKNHWX/?tag=redken08-20)
 

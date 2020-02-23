@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego Ce al 40.33 % de descuento'
-date: 2020-02-21 04:00:22
+title: 'BRIKSMAX Led Lighting Kit for LEGO Frien al 50.01 % de descuento'
+date: 2020-02-21 11:53:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RgNC1i8XL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RgNC1i8XL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07ZNQ78FS
 description:
-actualPrice: 36.99 EUR
-comparePrice: 61.99 EUR
+actualPrice: 29.99 GBP
+comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Está [BRIKSMAX Led Beleuchtungsset für Lego Central Perk Friends Kompatibel Mit Lego 21319 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07ZNQ78FS/?tag=redken08-20) con 40.33 de descuento por 36.99 EUR (original: 61.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Friends Central Perk Compatible with LEGO 21319 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07ZNQ78FS/?tag=redken08-20) con 50.01 de descuento por 29.99 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51RgNC1i8XL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07ZNQ78FS/?tag=redken08-20)
 

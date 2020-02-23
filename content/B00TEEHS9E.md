@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.01 % en PREXTEX - Coche de Policía Teledirigido '
-date: 2020-02-21 20:13:06
+date: 2020-02-23 20:15:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/516CSykcuEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516CSykcuEL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ghd original - Plancha de pelo profesion al 26.85 % de descuento'
-date: 2020-02-22 09:21:11
+date: 2020-02-23 21:33:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-R0Q4PLvL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-R0Q4PLvL._AC_._SL200_.jpg' ]
 comments: true

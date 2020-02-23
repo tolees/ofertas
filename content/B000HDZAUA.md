@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.84 % en Tamron A17E - Objetivo para Canon  70-30'
-date: 2020-02-19 13:32:51
+date: 2020-02-23 20:17:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/513ixQsNveL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513ixQsNveL._AC_._SL200_.jpg' ]
 comments: true

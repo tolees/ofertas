@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Rimmel London Magnifeyes Palette Spice E al 28.40 % de descuento'
-date: 2020-02-11 18:33:51
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418urlillJL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418urlillJL._SL200_.jpg' ]
+title: 'Rimmel London Magnifeyes Palette Spice E al 32.00 % de descuento'
+date: 2020-02-23 20:21:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/418urlillJL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/418urlillJL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07BRZWNK6
 description:
-actualPrice: 7.16 EUR
-comparePrice: 10 EUR
+actualPrice: 6.8 EUR
+comparePrice: 10.0 EUR
 inStock: true
 ---
 
-Está [Rimmel London Magnifeyes Palette Spice Edition Paleta de Sombras Tono 5 - 14.16 gr](https://www.amazon.com/dp/B07BRZWNK6/?tag=redken08-20) con 28.40 de descuento por 7.16 EUR (original: 10 EUR) en el siguiente enlace!
+Está [Rimmel London Magnifeyes Palette Spice Edition Paleta de Sombras Tono 5 - 14.16 gr](https://www.amazon.com/dp/B07BRZWNK6/?tag=redken08-20) con 32.00 de descuento por 6.8 EUR (original: 10.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/418urlillJL._SL200_.jpg)](https://www.amazon.com/dp/B07BRZWNK6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/418urlillJL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07BRZWNK6/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07BRZWNK6/?tag=redken08-20)
 

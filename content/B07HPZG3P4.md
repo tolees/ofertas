@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Fortnite Omega Figura De Vinilo  M al 34.92 % de descuento'
-date: 2020-02-20 12:14:50
+title: 'Funko Fortnite Omega Figura De Vinilo  M al 28.97 % de descuento'
+date: 2020-02-23 20:08:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xqzuJu1TL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xqzuJu1TL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07HPZG3P4
 description:
-actualPrice: 10.38 EUR
+actualPrice: 11.33 EUR
 comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko Fortnite Omega Figura De Vinilo  Multicolor  36017 ](https://www.amazon.com/dp/B07HPZG3P4/?tag=redken08-20) con 34.92 de descuento por 10.38 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Funko Fortnite Omega Figura De Vinilo  Multicolor  36017 ](https://www.amazon.com/dp/B07HPZG3P4/?tag=redken08-20) con 28.97 de descuento por 11.33 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41xqzuJu1TL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HPZG3P4/?tag=redken08-20)
 
