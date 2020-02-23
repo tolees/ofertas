@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 39.24 % en Funko 28888 No Actionfigur Game of Thron'
-date: 2020-01-27 01:44:43
+title: 'Descuento del 26.68 % en Funko Pop!- Colección Vinilo Game of Thr'
+date: 2020-02-23 12:04:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gL0q9ZW0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gL0q9ZW0L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079THSRRV
 description:
-actualPrice: 8.5 EUR
-comparePrice: 13.99 EUR
+actualPrice: 10.99 EUR
+comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Tienes [Funko 28888 No Actionfigur Game of Thrones: S8 Daenerys  Weiß Coat   Multi](https://www.amazon.com/dp/B079THSRRV/?tag=redken08-20) con un 39.24 % de descuento con precio de oferta de 8.5 EUR (original: 13.99 EUR) en el siguiente enlace!
+Tienes [Funko Pop!- Colección Vinilo Game of Thrones Daenerys Figura Coleccionable  Multicolor  única  28888 ](https://www.amazon.com/dp/B079THSRRV/?tag=redken08-20) con un 26.68 % de descuento con precio de oferta de 10.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41gL0q9ZW0L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B079THSRRV/?tag=redken08-20)
 

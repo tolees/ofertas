@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop!- Bailando Figura de Vinilo Da al 37.42 % de descuento'
-date: 2020-02-22 12:11:19
+date: 2020-02-23 12:17:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Un+jYSMNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Un+jYSMNL._AC_._SL200_.jpg' ]
 comments: true

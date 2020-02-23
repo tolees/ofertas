@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Forza Horizon 4 - Xbox One al 52.99 % de descuento'
-date: 2020-02-20 14:28:09
+title: 'Forza Horizon 4 - Xbox One al 36.72 % de descuento'
+date: 2020-02-23 13:47:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GNKgHe+rL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GNKgHe+rL._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07DNFPNRS
 description:
 actualPrice: 32.9 EUR
-comparePrice: 69.99 EUR
+comparePrice: 51.99 EUR
 inStock: true
 ---
 
-Está [Forza Horizon 4 - Xbox One](https://www.amazon.com/dp/B07DNFPNRS/?tag=redken08-20) con 52.99 de descuento por 32.9 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [Forza Horizon 4 - Xbox One](https://www.amazon.com/dp/B07DNFPNRS/?tag=redken08-20) con 36.72 de descuento por 32.9 EUR (original: 51.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51GNKgHe+rL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DNFPNRS/?tag=redken08-20)
 
