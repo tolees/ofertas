@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil DreamWorks Spirit 70118 Barn w al 35.03 % de descuento'
-date: 2020-02-21 03:56:03
+title: 'PLAYMOBIL DreamWorks Spirit 70118 Pferde al 44.72 % de descuento'
+date: 2020-02-22 12:13:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ifbY8o0hL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ifbY8o0hL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07JLFKJSP
 description:
-actualPrice: 29.99 GBP
-comparePrice: 46.16 GBP
+actualPrice: 33.16 EUR
+comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil DreamWorks Spirit 70118 Barn with Lucky  Pru and Abigail for Children Ages 4+](https://www.amazon.com/dp/B07JLFKJSP/?tag=redken08-20) a 29.99 GBP (original: 46.16 GBP) (35.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [PLAYMOBIL DreamWorks Spirit 70118 Pferdestall mit Lucky  Pru & Abigail  Ab 4 Jahren](https://www.amazon.com/dp/B07JLFKJSP/?tag=redken08-20) a 33.16 EUR (original: 59.99 EUR) (44.72 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ifbY8o0hL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07JLFKJSP/?tag=redken08-20)
 

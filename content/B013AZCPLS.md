@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.47 % en Anker AK-A2021321 - Cargador de pared co'
-date: 2020-01-24 11:30:56
+date: 2020-02-23 06:39:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Yk8yueIDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Yk8yueIDL._AC_._SL200_.jpg' ]
 comments: true

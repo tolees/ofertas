@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pop! Austin Powers - Figura de Vinilo Dr al 28.53 % de descuento'
-date: 2020-02-21 04:08:39
+title: 'Pop! Austin Powers - Figura de Vinilo Dr al 33.73 % de descuento'
+date: 2020-02-23 04:03:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iE2r3N5lL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iE2r3N5lL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07DFJCMVH
 description:
-actualPrice: 11.4 EUR
+actualPrice: 10.57 EUR
 comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Pop! Austin Powers - Figura de Vinilo Dr. Evil](https://www.amazon.com/dp/B07DFJCMVH/?tag=redken08-20) con 28.53 de descuento por 11.4 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Pop! Austin Powers - Figura de Vinilo Dr. Evil](https://www.amazon.com/dp/B07DFJCMVH/?tag=redken08-20) con 33.73 de descuento por 10.57 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41iE2r3N5lL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DFJCMVH/?tag=redken08-20)
 

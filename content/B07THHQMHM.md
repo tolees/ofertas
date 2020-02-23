@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.79 % en Anker 10 W Cargador inalámbrico PowerWav'
-date: 2020-01-24 08:27:15
+date: 2020-02-23 08:55:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cZj6olx0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cZj6olx0L._AC_._SL200_.jpg' ]
 comments: true

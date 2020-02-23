@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO STAR  al 50.01 % de descuento'
-date: 2020-02-21 03:55:13
+date: 2020-02-23 03:55:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hbDbtVRTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hbDbtVRTL._AC_._SL200_.jpg' ]
 comments: true
