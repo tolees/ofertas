@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Polar M430 Reloj de Running con GPS y Fr al 39.79 % de descuento'
-date: 2020-02-14 20:49:20
+title: 'Polar M430 Reloj de Running con GPS y Fr al 40.00 % de descuento'
+date: 2020-02-23 22:31:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KZjuG5PnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KZjuG5PnL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B073WDMZVT
 description:
-actualPrice: 138.49 EUR
+actualPrice: 137.99 EUR
 comparePrice: 230.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Polar M430 Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Multideporte - actividad 24/7 - Negro  M/L](https://www.amazon.com/dp/B073WDMZVT/?tag=redken08-20) a 138.49 EUR (original: 230.0 EUR) (39.79 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Polar M430 Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Multideporte - actividad 24/7 - Negro  M/L](https://www.amazon.com/dp/B073WDMZVT/?tag=redken08-20) a 137.99 EUR (original: 230.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41KZjuG5PnL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B073WDMZVT/?tag=redken08-20)
 
