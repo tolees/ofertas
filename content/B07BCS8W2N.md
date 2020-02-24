@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Power Steam VR8216F0 - Centro pl al 36.11 % de descuento'
-date: 2020-02-20 17:33:45
+date: 2020-02-24 20:34:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41A9jAa6xLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41A9jAa6xLL._AC_._SL200_.jpg' ]
 comments: true
