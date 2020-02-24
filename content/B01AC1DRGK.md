@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75148 - Encounter on Jakk al 38.95 % de descuento'
-date: 2020-02-23 04:04:13
+date: 2020-02-24 11:58:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Zbvk4x0jL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Zbvk4x0jL._AC_._SL200_.jpg' ]
 comments: true

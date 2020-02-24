@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2020 Nueva Cámara para Niños  Cámara de  al 39.40 % de descuento'
-date: 2020-02-02 19:29:59
+date: 2020-02-24 10:21:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xR6iOHASL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xR6iOHASL._AC_._SL200_.jpg' ]
 comments: true

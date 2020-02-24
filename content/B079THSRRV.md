@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop!- Colección Vinilo Game of Thr al 26.68 % de descuento'
-date: 2020-02-23 12:04:54
+date: 2020-02-24 12:10:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gL0q9ZW0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gL0q9ZW0L._AC_._SL200_.jpg' ]
 comments: true

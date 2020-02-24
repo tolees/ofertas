@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lifewit Bolsa Térmica Porta Alimentos Gr al 48.99 % de descuento'
-date: 2020-02-20 14:09:21
+date: 2020-02-24 10:20:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BCIcTTwSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BCIcTTwSL._AC_._SL200_.jpg' ]
 comments: true

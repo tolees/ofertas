@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.93 % en Jeanne Piaubert Suprem`Advance Premium S'
-date: 2020-02-17 08:03:17
+date: 2020-02-24 11:26:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Jmxax+W9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Jmxax+W9L._AC_._SL200_.jpg' ]
 comments: true

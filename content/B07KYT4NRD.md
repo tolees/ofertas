@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite Guardit 2.0 Mochila - Mochila  al 52.32 % de descuento'
-date: 2020-02-23 08:16:06
+date: 2020-02-24 11:12:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31e5Z1+zuoL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31e5Z1+zuoL._AC_._SL200_.jpg' ]
 comments: true
