@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.10 % en Dodot Aqua Pure Toallitas Bebé con 99% A'
-date: 2020-02-23 12:53:37
+date: 2020-02-24 15:57:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZLLg-mGsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZLLg-mGsL._AC_._SL200_.jpg' ]
 comments: true

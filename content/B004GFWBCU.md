@@ -14,10 +14,10 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop!- Pop Movies: Friday The 13th-Jason Voorhees Vinyl: Horror   Talla única  2292 ](https://www.amazon.com/dp/B004GFWBCU/?tag=redken08-20) a 11.13 EUR (original: 14.99 EUR) (25.75 %  de descuento) en el siguiente enlace!
+Está [Funko Pop!- Pop Movies: Friday The 13th-Jason Voorhees Vinyl: Horror   Talla única  2292 ](https://www.amazon.com/dp/B004GFWBCU/?tag=redken08-20) con 25.75 de descuento por 11.13 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sQMiXhRhL._SL200_.jpg)](https://www.amazon.com/dp/B004GFWBCU/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B004GFWBCU/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B004GFWBCU/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

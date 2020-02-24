@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.01 % en Mr Wonderful Funda Portátil/PC 13.3" Pul'
-date: 2020-02-18 13:02:24
+date: 2020-02-24 16:07:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cWno-pTHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cWno-pTHL._AC_._SL200_.jpg' ]
 comments: true
