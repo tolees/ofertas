@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.51 % en Star Wars Jedi Fallen Order - PS4'
-date: 2020-02-23 13:47:06
+date: 2020-02-24 19:40:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Mt7XwMY5L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Mt7XwMY5L._AC_._SL200_.jpg' ]
 comments: true

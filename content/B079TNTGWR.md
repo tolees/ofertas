@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop!- Pop Marvel: X-Men-Colossus F al 38.63 % de descuento'
-date: 2020-02-06 14:12:39
+date: 2020-02-24 18:26:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Jm8smXgVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Jm8smXgVL._AC_._SL200_.jpg' ]
 comments: true

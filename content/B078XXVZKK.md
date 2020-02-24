@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'De Blob 2 al 56.65 % de descuento'
-date: 2020-02-21 19:44:21
+title: 'De Blob 2 al 49.28 % de descuento'
+date: 2020-02-24 17:35:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Om0hFA-jL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Om0hFA-jL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B078XXVZKK
 description:
-actualPrice: 13.0 EUR
+actualPrice: 15.21 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [De Blob 2](https://www.amazon.com/dp/B078XXVZKK/?tag=redken08-20) con 56.65 de descuento por 13.0 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [De Blob 2](https://www.amazon.com/dp/B078XXVZKK/?tag=redken08-20) con 49.28 de descuento por 15.21 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Om0hFA-jL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B078XXVZKK/?tag=redken08-20)
 

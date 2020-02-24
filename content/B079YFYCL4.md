@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Pop Star Wars Solo 26979 Tobias Be al 51.77 % de descuento'
-date: 2020-02-22 19:53:22
+title: 'Funko Pop Star Wars Solo 26979 Tobias Be al 51.46 % de descuento'
+date: 2020-02-24 19:50:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Gik6PZXqL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Gik6PZXqL._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B079YFYCL4
 description:
 actualPrice: 4.49 GBP
-comparePrice: 9.31 GBP
+comparePrice: 9.25 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop Star Wars Solo 26979 Tobias Becket](https://www.amazon.com/dp/B079YFYCL4/?tag=redken08-20) a 4.49 GBP (original: 9.31 GBP) (51.77 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop Star Wars Solo 26979 Tobias Becket](https://www.amazon.com/dp/B079YFYCL4/?tag=redken08-20) a 4.49 GBP (original: 9.25 GBP) (51.46 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Gik6PZXqL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B079YFYCL4/?tag=redken08-20)
 

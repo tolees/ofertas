@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 30.01 % en LEGO City 60214 Feuerwehreinsatz im Burg'
-date: 2020-02-10 21:26:01
+title: 'Descuento del 40.01 % en LEGO City Fire - Rescate del Incendio en'
+date: 2020-02-16 09:58:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LNPGDGcmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LNPGDGcmL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNMXFPZ
 description:
-actualPrice: 20.99 EUR
+actualPrice: 17.99 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO City 60214 Feuerwehreinsatz im Burger-Restaurant](https://www.amazon.com/dp/B07FNMXFPZ/?tag=redken08-20) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [LEGO City Fire - Rescate del Incendio en la Hamburguesería  Set de Construcción de Aventuras de Bomberos  Incluye Camión y Moto de Juguete  60214 ](https://www.amazon.com/dp/B07FNMXFPZ/?tag=redken08-20) con un 40.01 % de descuento con precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51LNPGDGcmL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FNMXFPZ/?tag=redken08-20)
 

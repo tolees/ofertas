@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.52 % en DAM TEKKIWEAR. DMV119RED. Brazalete Inte'
-date: 2020-02-20 14:49:20
+date: 2020-02-24 19:07:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bt+t-EW2L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bt+t-EW2L._AC_._SL200_.jpg' ]
 comments: true

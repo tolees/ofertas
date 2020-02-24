@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Petusco - Naomi Coral Piel de vacuno tip al 31.43 % de descuento'
-date: 2020-02-06 10:33:13
+date: 2020-02-24 18:44:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31OVTUROnnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31OVTUROnnL._AC_._SL200_.jpg' ]
 comments: true

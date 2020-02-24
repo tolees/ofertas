@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.83 % en LEGO NINJAGO 70668 - Jays Donner-Jet'
-date: 2020-02-17 13:36:08
+date: 2020-02-24 17:25:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vFjmqTvLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vFjmqTvLL._AC_._SL200_.jpg' ]
 comments: true

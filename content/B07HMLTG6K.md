@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.21 % en RioRiva Calcetines de colores envueltos '
-date: 2020-02-18 14:11:03
+date: 2020-02-24 17:50:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AFllT8vnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AFllT8vnL._AC_._SL200_.jpg' ]
 comments: true
