@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tamron SP - Objetivo para Canon DSLR  Di al 31.07 % de descuento'
-date: 2020-02-21 10:07:26
+date: 2020-02-24 08:21:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41SlPdYOcOL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41SlPdYOcOL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VIA FORTIS Banda Elástica de Resistencia al 35.34 % de descuento'
-date: 2020-01-24 12:27:14
+date: 2020-02-24 09:49:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41j9qU8-ZLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41j9qU8-ZLL._AC_._SL200_.jpg' ]
 comments: true

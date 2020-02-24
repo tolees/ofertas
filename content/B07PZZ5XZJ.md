@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.70 % en Mochila de senderismo plegable ultra liv'
-date: 2020-02-22 10:02:22
+date: 2020-02-24 09:35:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AkJyoGG7L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AkJyoGG7L._AC_._SL200_.jpg' ]
 comments: true

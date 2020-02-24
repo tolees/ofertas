@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tristar SZ-1918 Aspirador de Escoba Vert al 47.28 % de descuento'
-date: 2020-02-09 14:22:30
+date: 2020-02-24 09:33:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/3133KvgdL3L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3133KvgdL3L._AC_._SL200_.jpg' ]
 comments: true

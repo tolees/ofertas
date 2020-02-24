@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.53 % en Under Armour UA Qualifier Storm Packable'
-date: 2020-01-22 09:25:21
+date: 2020-02-24 09:04:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eCexdFJJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eCexdFJJL._SL200_.jpg' ]
 comments: true
