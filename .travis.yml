@@ -23,5 +23,6 @@ after_success:
 - sed -i "s#https://github.com#https://${GHTOKEN}@github.com#g" .git/config
 - sed -i "s#git@github.com:#https://${GHTOKEN}@github.com/#g" .git/config
 - echo "ofertas.tole.es" > public/CNAME
+- touch public/.nojekyll
 - ghp-import -m "Generate Hugo site" -b master public
 - git push --force origin master
