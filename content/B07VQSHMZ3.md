@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ENKEEO Ciclocomputadores Inalámbrica Rec al 56.68 % de descuento'
-date: 2020-02-02 21:51:05
+date: 2020-02-24 14:16:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41J2VjhBvxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41J2VjhBvxL._AC_._SL200_.jpg' ]
 comments: true

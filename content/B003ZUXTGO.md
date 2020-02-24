@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reloj Casio para Hombre EF-558D-1AVEF al 34.41 % de descuento'
-date: 2020-02-23 07:42:30
+date: 2020-02-24 13:21:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51B7+l58MJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51B7+l58MJL._AC_._SL200_.jpg' ]
 comments: true

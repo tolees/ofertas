@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung SM-T280 Galaxy Tab A  - Tablet d al 33.97 % de descuento'
-date: 2020-02-22 15:56:27
+date: 2020-02-24 14:33:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DSXN3X9yL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DSXN3X9yL._AC_._SL200_.jpg' ]
 comments: true
