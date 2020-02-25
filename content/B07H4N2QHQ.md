@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.01 % en Juego de rodillos de ruedas Ab 3 en 1 Ro'
-date: 2020-02-23 11:03:18
+date: 2020-02-25 13:43:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f9m+VM1tL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f9m+VM1tL._AC_._SL200_.jpg' ]
 comments: true

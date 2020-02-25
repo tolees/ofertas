@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.21 % en Shimmer y Shine Alfombra mágica voladora'
-date: 2020-02-24 11:15:48
+date: 2020-02-25 12:17:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ticJtc9zL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ticJtc9zL._AC_._SL200_.jpg' ]
 comments: true

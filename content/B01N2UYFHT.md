@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Bourjois Healthy Mix Base de Maquillaje  al 50.71 % de descuento'
-date: 2019/12/26 15:27:08 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zqaqwaeQL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zqaqwaeQL._SL200_.jpg' ]
+title: 'Bourjois Healthy Mix Base de Maquillaje  al 53.22 % de descuento'
+date: 2020-02-25 11:53:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/31zqaqwaeQL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31zqaqwaeQL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01N2UYFHT
 description:
-actualPrice: 5.89 EUR
+actualPrice: 5.59 EUR
 comparePrice: 11.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois Healthy Mix Base de Maquillaje Tono 52 Vanilla - 125 gr.](https://www.amazon.com/dp/B01N2UYFHT/?tag=redken08-20) a 5.89 EUR (original: 11.95 EUR) (50.71 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bourjois Healthy Mix Base de Maquillaje Tono 52 Vanilla  30 ml](https://www.amazon.com/dp/B01N2UYFHT/?tag=redken08-20) a 5.59 EUR (original: 11.95 EUR) (53.22 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31zqaqwaeQL._SL200_.jpg)](https://www.amazon.com/dp/B01N2UYFHT/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31zqaqwaeQL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01N2UYFHT/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01N2UYFHT/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.48 % en Linksys WRT54GL-EU - Router Wi-Fi Wirele'
-date: 2020-02-13 19:30:56
+date: 2020-02-25 13:18:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kDtCN6w9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kDtCN6w9L._AC_._SL200_.jpg' ]
 comments: true
