@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 2 607 017 082 Bosch 0 al 43.14 % de descuento'
-date: 2020-02-21 13:22:36
+date: 2020-02-24 21:31:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Clf03x6nL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Clf03x6nL._AC_._SL200_.jpg' ]
 comments: true

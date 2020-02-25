@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B TriZone 600 - Cepillo eléctrico r al 48.33 % de descuento'
-date: 2020-02-16 18:24:52
+date: 2020-02-24 23:25:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51syjBWnvLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51syjBWnvLL._AC_._SL200_.jpg' ]
 comments: true

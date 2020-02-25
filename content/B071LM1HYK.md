@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Z4N74AA - Monitor curvo Full HD de 27 al 39.37 % de descuento'
-date: 2020-02-22 13:45:51
+date: 2020-02-24 21:05:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dtUvo4eFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dtUvo4eFL._AC_._SL200_.jpg' ]
 comments: true

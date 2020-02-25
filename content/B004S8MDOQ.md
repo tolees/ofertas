@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lote de 4 vasitos para bebé Nuby  300 ml al 50.19 % de descuento'
-date: 2020-02-15 08:51:48
+date: 2020-02-25 07:16:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/3118hdwO+ZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3118hdwO+ZL._AC_._SL200_.jpg' ]
 comments: true

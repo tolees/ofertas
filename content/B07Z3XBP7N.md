@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.35 % en ESOLOM Bluetooth Adapter Audio 5.0 Bluet'
-date: 2020-02-23 12:16:10
+date: 2020-02-25 04:02:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/413WykuzvFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413WykuzvFL._AC_._SL200_.jpg' ]
 comments: true

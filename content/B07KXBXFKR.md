@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bronchotos Pediátrico – Jarabe tos seca  al 38.35 % de descuento'
-date: 2020-02-18 13:02:54
+date: 2020-02-25 00:20:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HYkHVdkBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HYkHVdkBL._AC_._SL200_.jpg' ]
 comments: true

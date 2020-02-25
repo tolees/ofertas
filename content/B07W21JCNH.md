@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LIGHTAILING Light Set For  Star Wars Y-W al 55.02 % de descuento'
-date: 2020-02-23 03:55:24
+date: 2020-02-25 04:09:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z5LW+8XxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z5LW+8XxL._AC_._SL200_.jpg' ]
 comments: true

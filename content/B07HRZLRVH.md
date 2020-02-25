@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.96 % en Lenovo 520S-14IKB - Ordenador portátil 1'
-date: 2020-02-18 12:24:04
+date: 2020-02-24 22:23:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fxc5bB2DL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fxc5bB2DL._AC_._SL200_.jpg' ]
 comments: true

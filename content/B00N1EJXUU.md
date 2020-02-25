@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Pop! Vinyl Bobblehead - Marvel s G al 42.82 % de descuento'
-date: 2020-02-24 03:56:26
+title: 'Funko Pop!- Bailando Figura de Vinilo Da al 37.42 % de descuento'
+date: 2020-02-24 18:26:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Un+jYSMNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Un+jYSMNL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00N1EJXUU
 description:
-actualPrice: 8.0 EUR
-comparePrice: 13.99 EUR
+actualPrice: 9.38 EUR
+comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko Pop! Vinyl Bobblehead - Marvel s Guardians Of The Galaxy -Dancing Groot](https://www.amazon.com/dp/B00N1EJXUU/?tag=redken08-20) con 42.82 de descuento por 8.0 EUR (original: 13.99 EUR) en el siguiente enlace!
+Está [Funko Pop!- Bailando Figura de Vinilo Dancing Groot  colección Guardians of The Galaxy  Multicolor  5104 ](https://www.amazon.com/dp/B00N1EJXUU/?tag=redken08-20) con 37.42 de descuento por 9.38 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Un+jYSMNL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00N1EJXUU/?tag=redken08-20)
 
