@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Memoria USB Universal de 128 GB  Pen Dri al 30.39 % de descuento'
-date: 2020-02-21 11:42:11
+date: 2020-02-25 09:12:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/414Hp9pPATL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414Hp9pPATL._AC_._SL200_.jpg' ]
 comments: true

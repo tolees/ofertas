@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Naga Trinity - Ratón para Juegos M al 27.28 % de descuento'
-date: 2020-02-22 12:49:46
+date: 2020-02-25 10:45:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wwhTMpGqL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wwhTMpGqL._AC_._SL200_.jpg' ]
 comments: true

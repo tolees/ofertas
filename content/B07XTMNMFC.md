@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Z: Kakarot - Edición Colecci al 25.04 % de descuento'
-date: 2020-02-18 17:31:35
+date: 2020-02-25 09:24:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/517nhA+dwyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517nhA+dwyL._AC_._SL200_.jpg' ]
 comments: true

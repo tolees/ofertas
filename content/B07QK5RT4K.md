@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en EZVIZ C6T - Cámara de Seguridad Pan/Tilt'
-date: 2020-01-30 14:48:58
+date: 2020-02-25 09:35:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/31w9cWN1AaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31w9cWN1AaL._AC_._SL200_.jpg' ]
 comments: true

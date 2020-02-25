@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Geox U844VA 00022 Zapato Casual Hombre M'
-date: 2020-02-21 10:21:34
+date: 2020-02-25 10:21:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wbXiputHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wbXiputHL._AC_._SL200_.jpg' ]
 comments: true

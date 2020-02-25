@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 49.99 % en Philips BT9297/15 - Barbero con guía lás'
-date: 2020-01-10 15:43:30
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IeVxipVaL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IeVxipVaL._SL200_.jpg' ]
+title: 'Descuento del 28.67 % en Philips BT9297/15 - Barbero con guía lás'
+date: 2020-02-25 10:31:22
+thumbnailImage: 'https://m.media-amazon.com/images/I/41IeVxipVaL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41IeVxipVaL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01MRCBL48
 description:
-actualPrice: 50 EUR
-comparePrice: 99.99 EUR
+actualPrice: 59.0 EUR
+comparePrice: 82.71 EUR
 inStock: true
 ---
 
-Tienes [Philips BT9297/15 - Barbero con guía láser  incluye recortador de precisión  cuchillas de acero inoxidable  ac / batería  negro  plata](https://www.amazon.com/dp/B01MRCBL48/?tag=redken08-20) con un 49.99 % de descuento con precio de oferta de 50 EUR (original: 99.99 EUR) en el siguiente enlace!
+Tienes [Philips BT9297/15 - Barbero con guía láser  incluye recortador de precisión  cuchillas de acero inoxidable  ac / batería  negro  plata](https://www.amazon.com/dp/B01MRCBL48/?tag=redken08-20) con un 28.67 % de descuento con precio de oferta de 59.0 EUR (original: 82.71 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41IeVxipVaL._SL200_.jpg)](https://www.amazon.com/dp/B01MRCBL48/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41IeVxipVaL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01MRCBL48/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01MRCBL48/?tag=redken08-20)
 

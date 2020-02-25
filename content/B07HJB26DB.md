@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enchufe Inteligente WiFi TECKIN 16A 3300 al 39.41 % de descuento'
-date: 2020-02-24 10:08:29
+date: 2020-02-25 10:09:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31aGIEXNzgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31aGIEXNzgL._AC_._SL200_.jpg' ]
 comments: true

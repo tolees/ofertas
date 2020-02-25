@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips MCM2300 - Microcadena con reprod al 25.00 % de descuento'
-date: 2020-02-20 10:21:40
+date: 2020-02-25 10:17:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vLJb-kJTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vLJb-kJTL._AC_._SL200_.jpg' ]
 comments: true
