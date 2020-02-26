@@ -14,10 +14,10 @@ comparePrice: 19.5 EUR
 inStock: true
 ---
 
-Está [Colnatur Complex - Proteína colágeno  sabor neutro  330G](https://www.amazon.com/dp/B015KGWSNK/?tag=redken08-20) con 42.56 de descuento por 11.2 EUR (original: 19.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Colnatur Complex - Proteína colágeno  sabor neutro  330G](https://www.amazon.com/dp/B015KGWSNK/?tag=redken08-20) a 11.2 EUR (original: 19.5 EUR) (42.56 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41D9JDiXbEL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B015KGWSNK/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B015KGWSNK/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B015KGWSNK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

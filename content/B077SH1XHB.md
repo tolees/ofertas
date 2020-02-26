@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.91 % en Lacoste L1212 Camiseta Polo  Azul  Elect'
-date: 2020-02-10 08:37:53
+date: 2020-02-26 09:45:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wlqJlEkiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wlqJlEkiL._AC_._SL200_.jpg' ]
 comments: true

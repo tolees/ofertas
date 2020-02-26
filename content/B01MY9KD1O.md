@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.32 % en Vanguard Alta Fly 62T - Maleta trolley d'
-date: 2020-02-22 07:04:16
+date: 2020-02-26 10:58:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41k7BjQcRiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41k7BjQcRiL._AC_._SL200_.jpg' ]
 comments: true
