@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 28.22 % en Funko - Pop! Vinilo Colección Harry Pott'
-date: 2020-02-20 09:37:16
+title: 'Descuento del 30.75 % en Funko - Pop! Vinilo Colección Harry Pott'
+date: 2020-02-26 17:05:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41awb69zsVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41awb69zsVL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00TQ6RORQ
 description:
-actualPrice: 10.76 EUR
+actualPrice: 10.38 EUR
 comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Tienes [Funko - Pop! Vinilo Colección Harry Potter - Figura Harry Potter  5858 ](https://www.amazon.com/dp/B00TQ6RORQ/?tag=redken08-20) con un 28.22 % de descuento con precio de oferta de 10.76 EUR (original: 14.99 EUR) en el siguiente enlace!
+Tienes [Funko - Pop! Vinilo Colección Harry Potter - Figura Harry Potter  5858 ](https://www.amazon.com/dp/B00TQ6RORQ/?tag=redken08-20) con un 30.75 % de descuento con precio de oferta de 10.38 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41awb69zsVL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00TQ6RORQ/?tag=redken08-20)
 

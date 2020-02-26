@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tensiómetro de Brazo  HYLOGY Tensiómetro al 30.56 % de descuento'
-date: 2020-02-20 09:05:43
+date: 2020-02-26 15:37:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41z759aYamL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41z759aYamL._AC_._SL200_.jpg' ]
 comments: true

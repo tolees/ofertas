@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.32 % en Epson WFDS530 - Escáner de Documentos en'
-date: 2020-02-14 14:40:08
+date: 2020-02-26 14:03:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nURRkiT4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nURRkiT4L._AC_._SL200_.jpg' ]
 comments: true

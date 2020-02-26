@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REEXBON 【Versión actualizada】 Linterna F al 43.43 % de descuento'
-date: 2020-02-15 09:55:30
+date: 2020-02-26 14:15:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/512fK4z0vdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512fK4z0vdL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jeerhope Cable USB Tipo C USB C [3PACK 1 al 66.69 % de descuento'
-date: 2020-02-25 06:20:15
+date: 2020-02-26 14:43:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TJubk72gL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TJubk72gL._AC_._SL200_.jpg' ]
 comments: true
