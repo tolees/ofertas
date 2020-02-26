@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Lee Rider  Vaqueros Slim para Hombre  Az al 49.99 % de descuento'
-date: 2020-01-29 08:31:42
-thumbnailImage: 'https://m.media-amazon.com/images/I/41PP-KDcQ+L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41PP-KDcQ+L._AC_._SL200_.jpg' ]
+date: 2020-02-26 08:32:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/41rVoWWT1WL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41rVoWWT1WL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Lee Rider  Vaqueros Slim para Hombre  Azul  Broken Blue Sx   W31/L30](https://www.amazon.com/dp/B07FTSCMDD/?tag=redken08-20) con 49.99 de descuento por 44.98 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41PP-KDcQ+L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FTSCMDD/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41rVoWWT1WL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FTSCMDD/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07FTSCMDD/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.39 % en TRESemmé Mascarilla Botanique Coco - Paq'
-date: 2020-02-24 09:08:17
+date: 2020-02-26 08:35:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NZin9Jq9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NZin9Jq9L._AC_._SL200_.jpg' ]
 comments: true
