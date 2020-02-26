@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic 42092 - Rettungshubschraube al 26.68 % de descuento'
-date: 2020-02-18 17:29:41
+date: 2020-02-25 21:19:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Qqp8p41iL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Qqp8p41iL._AC_._SL200_.jpg' ]
 comments: true

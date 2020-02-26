@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Power A - Lunch Box Tin Kit + Mario GS D al 62.58 % de descuento'
-date: 2020-02-21 09:34:31
+date: 2020-02-25 18:57:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iJO0nQ71L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iJO0nQ71L._AC_._SL200_.jpg' ]
 comments: true

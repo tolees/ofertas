@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Alpha 15 A3DDK-001XES  Ordenador Por al 37.14 % de descuento'
-date: 2020-02-19 13:41:00
+date: 2020-02-25 19:59:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JDJG9uFVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JDJG9uFVL._AC_._SL200_.jpg' ]
 comments: true

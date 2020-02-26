@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.97 % en Sony Xperia 10 Plus - Smartphone de 6 5"'
-date: 2020-02-23 22:55:09
+date: 2020-02-26 01:33:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KQBJhyJOL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KQBJhyJOL._AC_._SL200_.jpg' ]
 comments: true

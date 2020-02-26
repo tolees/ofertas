@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.29 % en PRIXTON at300hr - Pulsera de Actividad d'
-date: 2020-02-21 22:28:18
+date: 2020-02-25 18:42:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vWvuG6yAL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vWvuG6yAL._AC_._SL200_.jpg' ]
 comments: true

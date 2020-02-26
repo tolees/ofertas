@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LIGHTAILING Licht-Set Für  Volkswagen T1 al 52.02 % de descuento'
-date: 2020-02-24 20:07:40
+date: 2020-02-25 20:15:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/519AVgi+fHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519AVgi+fHL._AC_._SL200_.jpg' ]
 comments: true

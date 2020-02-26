@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Xnuoyo Mochila de Bandolera  Bolso de Pe'
-date: 2020-02-24 18:48:06
+date: 2020-02-25 19:36:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Dzt38L9qL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Dzt38L9qL._AC_._SL200_.jpg' ]
 comments: true

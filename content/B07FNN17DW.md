@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 26.62 % en LEGO 60213 City Fire Dock Side Fire Boat'
-date: 2020-02-03 19:25:22
+title: 'LEGO City 60213 Feuerwehr am Hafen al 33.36 % de descuento'
+date: 2020-02-24 17:24:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51w9tQiNx4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51w9tQiNx4L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07FNN17DW
 description:
-actualPrice: 11.0 GBP
-comparePrice: 14.99 GBP
+actualPrice: 9.99 EUR
+comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60213 City Fire Dock Side Fire Boat Building Set with Water Cannon and Fireman Minifigure  Bath Toy for 5 Years Old](https://www.amazon.com/dp/B07FNN17DW/?tag=redken08-20) con un 26.62 % de descuento con precio de oferta de 11.0 GBP (original: 14.99 GBP) en el siguiente enlace!
+Está [LEGO City 60213 Feuerwehr am Hafen](https://www.amazon.com/dp/B07FNN17DW/?tag=redken08-20) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51w9tQiNx4L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FNN17DW/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07FNN17DW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FNN17DW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

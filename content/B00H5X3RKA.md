@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.06 % en Lego Legends of Chima Cragger Boys Pyjam'
-date: 2020-02-24 19:53:02
+date: 2020-02-26 03:50:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51H6PiFpCgL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51H6PiFpCgL._AC_._SL200_.jpg' ]
 comments: true

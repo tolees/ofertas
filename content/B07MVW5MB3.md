@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Z3700 - Ratón inalámbrico 1200 DPI  c al 40.02 % de descuento'
-date: 2020-02-24 14:41:09
+date: 2020-02-25 20:30:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/21mgdrLOe+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21mgdrLOe+L._AC_._SL200_.jpg' ]
 comments: true

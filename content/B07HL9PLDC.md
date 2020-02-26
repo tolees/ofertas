@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'READ Reloj para Hombre  Reloj de Cuarzo  al 65.60 % de descuento'
-date: 2020-02-24 17:07:30
+date: 2020-02-25 22:14:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/416xXLJMrdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416xXLJMrdL._AC_._SL200_.jpg' ]
 comments: true
