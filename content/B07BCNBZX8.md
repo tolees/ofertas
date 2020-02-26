@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta RR6943WH  Smart Force Essential  al 36.67 % de descuento'
-date: 2020-02-18 17:58:11
+date: 2020-02-26 12:25:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31suJV7HoQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31suJV7HoQL._AC_._SL200_.jpg' ]
 comments: true

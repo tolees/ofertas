@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Philips HC7460/15 - Cortapelos con cuchi'
-date: 2020-02-21 18:04:46
+date: 2020-02-26 12:27:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mWfaRgkoL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mWfaRgkoL._AC_._SL200_.jpg' ]
 comments: true

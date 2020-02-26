@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo L22e-20 21.5" Full HD Plana Negro al 42.45 % de descuento'
-date: 2020-02-25 12:18:15
+date: 2020-02-26 13:34:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qB-HwrSvL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qB-HwrSvL._AC_._SL200_.jpg' ]
 comments: true

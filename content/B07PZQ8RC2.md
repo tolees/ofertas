@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.19 % en Mortal Kombat 11 - Standard Edition'
-date: 2020-02-25 07:40:03
+date: 2020-02-26 12:33:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51T4L1hPDVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51T4L1hPDVL._AC_._SL200_.jpg' ]
 comments: true
