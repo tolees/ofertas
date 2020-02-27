@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 67.87 % en INTEY 3 N1 Detector de Pared  Metal Stud'
-date: 2020-02-26 16:02:38
+date: 2020-02-27 16:20:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41b9eQqSfUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41b9eQqSfUL._AC_._SL200_.jpg' ]
 comments: true

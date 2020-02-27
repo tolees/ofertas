@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tacklife Cuchillo Plegable Profesional   al 35.02 % de descuento'
-date: 2020-02-24 09:46:37
+date: 2020-02-27 17:16:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u06IrZJWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u06IrZJWL._AC_._SL200_.jpg' ]
 comments: true

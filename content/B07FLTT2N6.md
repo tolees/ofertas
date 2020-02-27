@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Android 9.0 TV Box- Bqeel TV Box 4GB+64G'
-date: 2020-02-25 20:52:29
+date: 2020-02-27 15:10:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bU70GKvAL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bU70GKvAL._AC_._SL200_.jpg' ]
 comments: true

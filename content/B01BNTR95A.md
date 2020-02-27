@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Protector Padel Vibor-A Negro al 30.00 % de descuento'
-date: 2020-02-15 17:48:25
+date: 2020-02-27 16:53:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t0uum1eqL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t0uum1eqL._AC_._SL200_.jpg' ]
 comments: true

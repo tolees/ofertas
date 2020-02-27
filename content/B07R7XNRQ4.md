@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Columbia 1420421  Chaqueta Forro Polar H al 66.79 % de descuento'
-date: 2020-01-19 21:17:28
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yy3nHderL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yy3nHderL._SL200_.jpg' ]
+title: 'Columbia 1420421  Chaqueta Forro Polar H al 51.49 % de descuento'
+date: 2020-02-27 17:07:25
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Yy3nHderL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Yy3nHderL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07R7XNRQ4
 description:
-actualPrice: 16.6 EUR
+actualPrice: 24.25 EUR
 comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Collegiate Navy   XS](https://www.amazon.com/dp/B07R7XNRQ4/?tag=redken08-20) con 66.79 de descuento por 16.6 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Collegiate Navy   XS](https://www.amazon.com/dp/B07R7XNRQ4/?tag=redken08-20) con 51.49 de descuento por 24.25 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41Yy3nHderL._SL200_.jpg)](https://www.amazon.com/dp/B07R7XNRQ4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41Yy3nHderL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07R7XNRQ4/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07R7XNRQ4/?tag=redken08-20)
 
