@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.92 % en 72 Lapices de Colores Profesionales lapi'
-date: 2020-02-26 04:10:28
+date: 2020-02-27 12:13:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51b+QgPZ95L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51b+QgPZ95L._AC_._SL200_.jpg' ]
 comments: true

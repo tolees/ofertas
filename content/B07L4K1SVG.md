@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bonsenkitchen Envasadora al Vacío Domest al 28.27 % de descuento'
-date: 2020-02-12 11:58:05
+date: 2020-02-27 13:31:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rKleXproL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rKleXproL._AC_._SL200_.jpg' ]
 comments: true

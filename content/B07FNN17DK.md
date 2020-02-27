@@ -14,10 +14,10 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60207 City Police Sky Police Drone Chase Helicopter Toy with Net Shooter  Jail Break Sets for Kids](https://www.amazon.com/dp/B07FNN17DK/?tag=redken08-20) a 11.97 GBP (original: 17.99 GBP) (33.46 %  de descuento) en el siguiente enlace!
+Está [LEGO 60207 City Police Sky Police Drone Chase Helicopter Toy with Net Shooter  Jail Break Sets for Kids](https://www.amazon.com/dp/B07FNN17DK/?tag=redken08-20) con 33.46 de descuento por 11.97 GBP (original: 17.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51gNDDfCPML._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FNN17DK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNN17DK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FNN17DK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

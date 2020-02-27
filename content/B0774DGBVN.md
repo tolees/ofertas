@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.45 % en Calcetines antideslizantes de algodón  3'
-date: 2020-01-24 11:35:38
+date: 2020-02-27 12:45:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XOmI8HY2L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XOmI8HY2L._AC_._SL200_.jpg' ]
 comments: true

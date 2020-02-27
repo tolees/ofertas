@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 36.72 % en Playmobil-9100 Maletín Grande Cuidado de'
-date: 2020-02-16 15:47:09
+title: 'Descuento del 59.60 % en Playmobil-9100 Maletín Grande Cuidado de'
+date: 2020-02-27 12:10:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51d75EhNFAL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51d75EhNFAL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01N3YV1GJ
 description:
-actualPrice: 12.53 EUR
+actualPrice: 8.0 EUR
 comparePrice: 19.8 EUR
 inStock: true
 ---
 
-Tienes [Playmobil-9100 Maletín Grande Cuidado de Caballos  Multicolor  única  9100 ](https://www.amazon.com/dp/B01N3YV1GJ/?tag=redken08-20) con un 36.72 % de descuento con precio de oferta de 12.53 EUR (original: 19.8 EUR) en el siguiente enlace!
+Tienes [Playmobil-9100 Maletín Grande Cuidado de Caballos  Multicolor  única  9100 ](https://www.amazon.com/dp/B01N3YV1GJ/?tag=redken08-20) con un 59.60 % de descuento con precio de oferta de 8.0 EUR (original: 19.8 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51d75EhNFAL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01N3YV1GJ/?tag=redken08-20)
 
