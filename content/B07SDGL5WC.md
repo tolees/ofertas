@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Got2b - Perfume de cabello Ocean Vibe -  al 57.07 % de descuento'
+date: 2020-02-26 23:09:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/312ZTowYt5L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/312ZTowYt5L._AC_._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07SDGL5WC
+description:
+actualPrice: 9.66 EUR
+comparePrice: 22.5 EUR
+inStock: true
+---
+
+Está [Got2b - Perfume de cabello Ocean Vibe - 5 unidades de 75ml - Schwarzkopf](https://www.amazon.com/dp/B07SDGL5WC/?tag=redken08-20) con 57.07 de descuento por 9.66 EUR (original: 22.5 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/312ZTowYt5L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07SDGL5WC/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B07SDGL5WC/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reloj PUMA Time - Hombre PU911361004 al 61.05 % de descuento'
-date: 2020-02-05 22:28:55
+date: 2020-02-27 01:01:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pdKQWq6zL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pdKQWq6zL._AC_._SL200_.jpg' ]
 comments: true

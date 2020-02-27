@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.77 % en Patron Silver Tequila - 700 ml'
-date: 2020-02-24 15:47:03
+date: 2020-02-26 21:14:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41s2a7aGgWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41s2a7aGgWL._AC_._SL200_.jpg' ]
 comments: true

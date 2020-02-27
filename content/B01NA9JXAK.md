@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.82 % en Ducomi® Master Classic - Gafas de Sol co'
-date: 2020-02-15 23:35:25
+date: 2020-02-26 20:22:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/419ayJ9rDpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419ayJ9rDpL._AC_._SL200_.jpg' ]
 comments: true

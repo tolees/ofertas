@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.51 % en Mpow Bluetooth Headset  Bluetooth Earpie'
-date: 2020-02-17 19:52:32
+date: 2020-02-26 19:53:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OtiGkwu4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OtiGkwu4L._AC_._SL200_.jpg' ]
 comments: true

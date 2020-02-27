@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 30.01 % en LEGO 60209 City Police Sky Police Diamon'
-date: 2020-01-14 08:41:55
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xrHWft5zL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xrHWft5zL._SL200_.jpg' ]
+title: 'Descuento del 31.82 % en LEGO City - Police Policía Aérea: Robo d'
+date: 2020-02-26 15:03:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/51xrHWft5zL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51xrHWft5zL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FP6QRDL
 description:
-actualPrice: 31.49 GBP
-comparePrice: 44.99 GBP
+actualPrice: 37.49 EUR
+comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60209 City Police Sky Police Diamond Heist with Chase Helicopter and Truck Toys plus Jetpack  4 Minifigures and Light and Sound Brick  Jail Break Sets for Kids](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20) con un 30.01 % de descuento con precio de oferta de 31.49 GBP (original: 44.99 GBP) en el siguiente enlace!
+Tienes [LEGO City - Police Policía Aérea: Robo del Diamante  juguete divertido y creativo de construcción con vehículos  luces y sonido  60209 ](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20) con un 31.82 % de descuento con precio de oferta de 37.49 EUR (original: 54.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51xrHWft5zL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51xrHWft5zL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WA901ND - Punto de acceso ina al 29.82 % de descuento'
-date: 2020-02-15 14:58:40
+date: 2020-02-26 20:31:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/410SS5MWwkL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410SS5MWwkL._AC_._SL200_.jpg' ]
 comments: true

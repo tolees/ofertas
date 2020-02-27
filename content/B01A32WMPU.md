@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.90 % en ZENBRE Altavoz Bluetooth  Z3 10W Altavoz'
-date: 2020-02-25 12:28:31
+date: 2020-02-27 00:35:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YRo+b+DpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YRo+b+DpL._AC_._SL200_.jpg' ]
 comments: true

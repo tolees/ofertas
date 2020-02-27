@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony ILCE-7M2 Alpha7 II - Cámara EVIL de al 47.67 % de descuento'
+title: 'Descuento del 47.67 % en Sony ILCE-7M2 Alpha7 II - Cámara EVIL de'
 date: 2020-02-24 09:49:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nWdx1ZzTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nWdx1ZzTL._AC_._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 1800.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony ILCE-7M2 Alpha7 II - Cámara EVIL de 24.3 MP con montura tipo E y sensor de fotograma completo  estabilizador de 5 ejes  Full HD  color negro](https://www.amazon.com/dp/B00Q2KEUFI/?tag=redken08-20) a 942.0 EUR (original: 1800.0 EUR) (47.67 %  de descuento) en el siguiente enlace!
+Tienes [Sony ILCE-7M2 Alpha7 II - Cámara EVIL de 24.3 MP con montura tipo E y sensor de fotograma completo  estabilizador de 5 ejes  Full HD  color negro](https://www.amazon.com/dp/B00Q2KEUFI/?tag=redken08-20) con un 47.67 % de descuento con precio de oferta de 942.0 EUR (original: 1800.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51nWdx1ZzTL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00Q2KEUFI/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00Q2KEUFI/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00Q2KEUFI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

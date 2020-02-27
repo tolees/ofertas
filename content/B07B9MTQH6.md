@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Theo Klein-9501 Cafetería Con Pantalla T al 30.18 % de descuento'
-date: 2020-02-24 20:19:04
+date: 2020-02-26 20:20:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41axyK-NFFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41axyK-NFFL._AC_._SL200_.jpg' ]
 comments: true

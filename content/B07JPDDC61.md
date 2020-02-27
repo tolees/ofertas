@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'DAM TEKKIWEAR. DMZ009BK. Pulsera Intelig al 69.00 % de descuento'
-date: 2019/11/30 20:48:22 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ROjBBxDbL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ROjBBxDbL._SL200_.jpg' ]
+date: 2020-02-26 20:10:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ROjBBxDbL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ROjBBxDbL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07JPDDC61
 description:
 actualPrice: 39.99 EUR
-comparePrice: 129 EUR
+comparePrice: 129.0 EUR
 inStock: true
 ---
 
-Está [DAM TEKKIWEAR. DMZ009BK. Pulsera Inteligente Bluetooth Ak-Y2S Pantalla A Color  Monitor Cardíaco  O2 En Sangre  Notificaciones para iOS Y Android. Negro](https://www.amazon.com/dp/B07JPDDC61/?tag=redken08-20) con 69.00 de descuento por 39.99 EUR (original: 129 EUR) en el siguiente enlace!
+Está [DAM TEKKIWEAR. DMZ009BK. Pulsera Inteligente Bluetooth Ak-Y2S Pantalla A Color  Monitor Cardíaco  O2 En Sangre  Notificaciones para iOS Y Android. Negro](https://www.amazon.com/dp/B07JPDDC61/?tag=redken08-20) con 69.00 de descuento por 39.99 EUR (original: 129.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ROjBBxDbL._SL200_.jpg)](https://www.amazon.com/dp/B07JPDDC61/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ROjBBxDbL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07JPDDC61/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07JPDDC61/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.34 % en Joma Academy Chandal Caballero  Hombre  '
-date: 2020-02-12 08:18:11
+date: 2020-02-26 20:31:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/315S5CC9LOL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315S5CC9LOL._AC_._SL200_.jpg' ]
 comments: true
