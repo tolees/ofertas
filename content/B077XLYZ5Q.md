@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Sportstyle Pique Track Jack al 40.50 % de descuento'
-date: 2020-02-10 16:14:48
+date: 2020-02-27 10:59:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/419rEYG9JOL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419rEYG9JOL._AC_._SL200_.jpg' ]
 comments: true

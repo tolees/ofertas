@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Under Armour UA Qualifier Half Zip Parte al 63.96 % de descuento'
-date: 2019/11/05 15:11:29 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31saGVFxhgL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31saGVFxhgL._SL200_.jpg' ]
+title: 'Under Armour UA Qualifier Half Zip Parte al 62.31 % de descuento'
+date: 2020-02-27 07:17:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/31saGVFxhgL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31saGVFxhgL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07CZJKH71
 description:
-actualPrice: 23.42 EUR
-comparePrice: 64.99 EUR
+actualPrice: 24.5 EUR
+comparePrice: 65.0 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Qualifier Half Zip Parte Superior del Calentamiento  Mujer  Negro  Black/Black/Reflective 001   L](https://www.amazon.com/dp/B07CZJKH71/?tag=redken08-20) con 63.96 de descuento por 23.42 EUR (original: 64.99 EUR) en el siguiente enlace!
+Está [Under Armour UA Qualifier Half Zip Parte Superior del Calentamiento  Mujer  Negro  Black/Black/Reflective 001   L](https://www.amazon.com/dp/B07CZJKH71/?tag=redken08-20) con 62.31 de descuento por 24.5 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31saGVFxhgL._SL200_.jpg)](https://www.amazon.com/dp/B07CZJKH71/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31saGVFxhgL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CZJKH71/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07CZJKH71/?tag=redken08-20)
 

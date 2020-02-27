@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Tree  al 40.00 % de descuento'
-date: 2020-02-25 11:54:43
+date: 2020-02-27 11:53:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iTVP0-9RL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iTVP0-9RL._AC_._SL200_.jpg' ]
 comments: true

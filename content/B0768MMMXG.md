@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.50 % en L Oréal Paris Men Expert Barber Club Cre'
-date: 2020-02-18 15:35:04
+date: 2020-02-27 10:53:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W8EwvjcWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W8EwvjcWL._AC_._SL200_.jpg' ]
 comments: true

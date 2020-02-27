@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.12 % en Alcatel 3 - Smartphone  RAM de 3 GB  Cam'
-date: 2020-02-24 10:04:34
+date: 2020-02-27 09:28:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RpJywzlGL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RpJywzlGL._AC_._SL200_.jpg' ]
 comments: true

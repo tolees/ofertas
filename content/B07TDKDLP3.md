@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.27 % en MEDION X30 PCC968 - Ordenador de sobreme'
-date: 2020-02-24 10:11:24
+date: 2020-02-27 10:22:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UDJ++pgQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UDJ++pgQL._AC_._SL200_.jpg' ]
 comments: true

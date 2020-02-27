@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.76 % en Dibea Aspiradora escoba sin Cable Aspira'
-date: 2020-02-24 08:25:54
+date: 2020-02-27 07:20:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31n71C1DABL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31n71C1DABL._AC_._SL200_.jpg' ]
 comments: true
