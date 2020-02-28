@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.57 % en Leibniz PiCK UP! Black´n White 24 x 28 g'
-date: 2020-02-12 20:14:40
+date: 2020-02-27 22:52:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CHUgKFy2L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CHUgKFy2L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Descuento del 31.55 % en LEGO 70678 NINJAGO Castle of the Forsake'
-date: 2019/11/06 09:53:11 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pwzg-mcJL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pwzg-mcJL._SL200_.jpg' ]
+title: 'Lego Ninjago 70678 Festung im ewigen Eis al 30.50 % de descuento'
+date: 2020-02-24 17:26:54
+thumbnailImage: 'https://m.media-amazon.com/images/I/51-XBfWTCCL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51-XBfWTCCL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KTK6PNY
 description:
-actualPrice: 61.6 GBP
-comparePrice: 89.99 GBP
+actualPrice: 69.49 EUR
+comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 70678 NINJAGO Castle of the Forsaken Emperor Set with Ice Dragon Toy  Masters of Spinjitzu Playset](https://www.amazon.com/dp/B07KTK6PNY/?tag=redken08-20) con un 31.55 % de descuento con precio de oferta de 61.6 GBP (original: 89.99 GBP) en el siguiente enlace!
+Está [Lego Ninjago 70678 Festung im ewigen Eis  Bauset](https://www.amazon.com/dp/B07KTK6PNY/?tag=redken08-20) con 30.50 de descuento por 69.49 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51pwzg-mcJL._SL200_.jpg)](https://www.amazon.com/dp/B07KTK6PNY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51-XBfWTCCL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTK6PNY/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07KTK6PNY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KTK6PNY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kit de Blanqueamiento Dental Gel Blanque al 34.49 % de descuento'
-date: 2020-02-26 11:13:38
+date: 2020-02-27 19:57:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dZM7PcXJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dZM7PcXJL._AC_._SL200_.jpg' ]
 comments: true

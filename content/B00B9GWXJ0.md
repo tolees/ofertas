@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Series 9 9385cc Afeitadora Eléctri al 44.45 % de descuento'
-date: 2020-02-26 14:52:52
+date: 2020-02-28 02:57:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Yes-xYEsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Yes-xYEsL._AC_._SL200_.jpg' ]
 comments: true

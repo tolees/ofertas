@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 39552 POP Vinyl Squarepants S3: Sp al 33.33 % de descuento'
-date: 2020-02-25 20:00:01
+date: 2020-02-27 20:11:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kDzshpPrL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kDzshpPrL._AC_._SL200_.jpg' ]
 comments: true

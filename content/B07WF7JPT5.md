@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'ASTERIX Y OBELIX XXL 3 - THE CRYSTAL MEN al 41.38 % de descuento'
-date: 2020-02-20 13:27:09
+title: 'ASTERIX Y OBELIX XXL 3 - THE CRYSTAL MEN al 39.10 % de descuento'
+date: 2020-02-27 19:19:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qjO6tMF9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qjO6tMF9L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07WF7JPT5
 description:
-actualPrice: 46.89 EUR
+actualPrice: 48.71 EUR
 comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ASTERIX Y OBELIX XXL 3 - THE CRYSTAL MENHIR COLLECTOR EDITION](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20) a 46.89 EUR (original: 79.99 EUR) (41.38 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [ASTERIX Y OBELIX XXL 3 - THE CRYSTAL MENHIR COLLECTOR EDITION](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20) a 48.71 EUR (original: 79.99 EUR) (39.10 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qjO6tMF9L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20)
 
