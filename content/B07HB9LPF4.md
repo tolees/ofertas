@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker White Walker Whisky Escoc al 25.84 % de descuento'
-date: 2020-02-21 16:35:51
+date: 2020-02-28 08:13:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/3105lq+YUuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3105lq+YUuL._AC_._SL200_.jpg' ]
 comments: true

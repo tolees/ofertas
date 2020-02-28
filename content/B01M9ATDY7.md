@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Honeywell Home Y6R910RW8021 T6R Termosta al 35.99 % de descuento'
-date: 2020-02-25 13:09:49
+date: 2020-02-28 10:35:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31k20jCCqoL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31k20jCCqoL._AC_._SL200_.jpg' ]
 comments: true

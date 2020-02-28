@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.62 % en Sony Xperia XA1 Ultra - Smartphone con p'
-date: 2020-02-27 07:45:11
+date: 2020-02-28 09:56:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KJxp5xn5L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KJxp5xn5L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.36 % en Bosch 2 607 010 533 - Set de 8 brocas he'
-date: 2020-02-11 08:47:03
+date: 2020-02-28 07:42:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tCbGlmVSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tCbGlmVSL._AC_._SL200_.jpg' ]
 comments: true

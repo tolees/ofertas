@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.94 % en BOPAI Mochila Antirrobo de Capacidad Int'
-date: 2020-02-22 11:28:12
+date: 2020-02-28 10:26:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/416TQbEzWVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416TQbEzWVL._AC_._SL200_.jpg' ]
 comments: true
