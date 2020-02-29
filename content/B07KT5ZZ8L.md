@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DC-77 16MP 4X Zoom Videocámara Digital d al 32.00 % de descuento'
-date: 2020-02-21 13:42:25
+date: 2020-02-28 17:28:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DMT0LoHxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DMT0LoHxL._AC_._SL200_.jpg' ]
 comments: true

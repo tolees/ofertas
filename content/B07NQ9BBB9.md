@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Samsung Galaxy Watch Active  Schwarz al 29.89 % de descuento'
-date: 2019/12/22 17:46:39 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YXbhqTIiL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YXbhqTIiL._SL200_.jpg' ]
+title: 'Samsung Galaxy Watch Active  Schwarz al 36.19 % de descuento'
+date: 2020-02-28 12:17:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/41w9RcP0XcL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41w9RcP0XcL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NQ9BBB9
 description:
-actualPrice: 174.58 EUR
-comparePrice: 249 EUR
+actualPrice: 158.89 EUR
+comparePrice: 249.0 EUR
 inStock: true
 ---
 
-Está [Samsung Galaxy Watch Active  Schwarz](https://www.amazon.com/dp/B07NQ9BBB9/?tag=redken08-20) con 29.89 de descuento por 174.58 EUR (original: 249 EUR) en el siguiente enlace!
+Está [Samsung Galaxy Watch Active  Schwarz](https://www.amazon.com/dp/B07NQ9BBB9/?tag=redken08-20) con 36.19 de descuento por 158.89 EUR (original: 249.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31YXbhqTIiL._SL200_.jpg)](https://www.amazon.com/dp/B07NQ9BBB9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41w9RcP0XcL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NQ9BBB9/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07NQ9BBB9/?tag=redken08-20)
 

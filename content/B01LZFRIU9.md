@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.90 % en Funko Vi Figura de Vinilo  colección de '
-date: 2020-02-27 04:14:51
+date: 2020-02-29 04:08:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41G010Nb6vL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41G010Nb6vL._AC_._SL200_.jpg' ]
 comments: true

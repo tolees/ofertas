@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Panasonic Lumix DMC-TZ100EG-K - Cámara C al 38.71 % de descuento'
-date: 2020-02-01 00:02:49
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ktw3sSLsL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ktw3sSLsL._SL200_.jpg' ]
+title: 'Panasonic Lumix DMC-TZ100EG-K - Cámara C al 37.85 % de descuento'
+date: 2020-02-28 13:56:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ktw3sSLsL._SL500_._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ktw3sSLsL._SL500_._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01BWMAUYU
 description:
-actualPrice: 429 EUR
+actualPrice: 435.0 EUR
 comparePrice: 699.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Panasonic Lumix DMC-TZ100EG-K - Cámara Compacta Premium de 21.1 MP  Sensor de 1"  Objetivo F2.8-F5.9 de 25-250mm  Zoom de 10X  4K  WiFi  Bluetooth  Raw   Color Negro](https://www.amazon.com/dp/B01BWMAUYU/?tag=redken08-20) a 429 EUR (original: 699.9 EUR) (38.71 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Panasonic Lumix DMC-TZ100EG-K - Cámara Compacta Premium de 21.1 MP  Sensor de 1"  Objetivo F2.8-F5.9 de 25-250mm  Zoom de 10X  4K  WiFi  Bluetooth  Raw   Color Negro](https://www.amazon.com/dp/B01BWMAUYU/?tag=redken08-20) a 435.0 EUR (original: 699.9 EUR) (37.85 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ktw3sSLsL._SL200_.jpg)](https://www.amazon.com/dp/B01BWMAUYU/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ktw3sSLsL._SL500_._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01BWMAUYU/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01BWMAUYU/?tag=redken08-20)
 

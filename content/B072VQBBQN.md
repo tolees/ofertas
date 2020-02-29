@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Exprimidor Eléctrico ZitrusEasy  al 51.59 % de descuento'
-date: 2020-02-26 13:33:14
+date: 2020-02-28 14:49:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ekkjm9G6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ekkjm9G6L._AC_._SL200_.jpg' ]
 comments: true

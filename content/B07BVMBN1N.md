@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.93 % en HoneyHolly Botella de Agua Acero Inoxida'
-date: 2020-02-20 13:20:30
+date: 2020-02-28 19:15:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tE3NvV86L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tE3NvV86L._AC_._SL200_.jpg' ]
 comments: true

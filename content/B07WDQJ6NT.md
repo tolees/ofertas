@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung Galaxy A30s - Smartphone de 6.4" al 26.58 % de descuento'
-date: 2020-02-27 17:37:18
+title: 'Samsung Galaxy A30s - Smartphone de 6.4" al 26.61 % de descuento'
+date: 2020-02-28 19:49:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31UFJkwAhaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31UFJkwAhaL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07WDQJ6NT
 description:
-actualPrice: 204.84 EUR
+actualPrice: 204.75 EUR
 comparePrice: 279.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung Galaxy A30s - Smartphone de 6.4" Super AMOLED  4 GB RAM  64 GB ROM  16 MP ultra angular  Dual SIM  versión española  negro](https://www.amazon.com/dp/B07WDQJ6NT/?tag=redken08-20) a 204.84 EUR (original: 279.0 EUR) (26.58 %  de descuento) en el siguiente enlace!
+Está [Samsung Galaxy A30s - Smartphone de 6.4" Super AMOLED  4 GB RAM  64 GB ROM  16 MP ultra angular  Dual SIM  versión española  negro](https://www.amazon.com/dp/B07WDQJ6NT/?tag=redken08-20) con 26.61 de descuento por 204.75 EUR (original: 279.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31UFJkwAhaL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07WDQJ6NT/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07WDQJ6NT/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07WDQJ6NT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

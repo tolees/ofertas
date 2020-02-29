@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION MD61266 - Ordenador portátil conv al 25.44 % de descuento'
-date: 2020-02-26 01:19:10
+date: 2020-02-28 18:16:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ESdErIanL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ESdErIanL._AC_._SL200_.jpg' ]
 comments: true

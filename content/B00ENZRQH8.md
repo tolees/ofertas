@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL-P18105G G Powerzoom-Objektiv  1 al 36.57 % de descuento'
-date: 2020-02-23 05:05:09
+date: 2020-02-28 16:14:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41y6ghOeb6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41y6ghOeb6L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'San Ignacio Premium Nona - Bateria de co al 71.08 % de descuento'
-date: 2020-02-26 12:32:29
+date: 2020-02-28 18:23:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41N15g8mwfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41N15g8mwfL._AC_._SL200_.jpg' ]
 comments: true

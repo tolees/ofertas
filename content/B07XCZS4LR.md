@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guirnalda de Luces Solares  50 LED 8 Mod al 62.09 % de descuento'
-date: 2020-02-16 19:03:14
+date: 2020-02-28 20:15:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51G9p-JJhcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51G9p-JJhcL._AC_._SL200_.jpg' ]
 comments: true

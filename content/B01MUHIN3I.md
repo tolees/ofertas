@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Silk-épil 7 7-561 - Pack depilador al 36.57 % de descuento'
-date: 2020-02-25 04:43:42
+date: 2020-02-28 14:43:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IqVonvZoL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IqVonvZoL._AC_._SL200_.jpg' ]
 comments: true

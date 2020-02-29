@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Tune110BT In-Ear Bluetooth-Kopfhörer al 36.78 % de descuento'
-date: 2020-02-05 03:24:09
+date: 2020-02-29 04:03:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31blFapjsrL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31blFapjsrL._AC_._SL200_.jpg' ]
 comments: true

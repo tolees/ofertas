@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.68 % en TP-Link TL-WA860RE - Repetidor de red Wi'
-date: 2020-02-23 14:16:28
+date: 2020-02-28 14:15:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XGwMS1eqL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XGwMS1eqL._AC_._SL200_.jpg' ]
 comments: true

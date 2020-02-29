@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.12 % en Alcatel 3v - Smartphone de 6"  Quad-Core'
-date: 2020-02-27 11:32:30
+date: 2020-02-28 19:05:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+-h7hGuTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+-h7hGuTL._AC_._SL200_.jpg' ]
 comments: true

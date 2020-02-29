@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko-39454 Pop Town Los Cazafantasmas P al 38.55 % de descuento'
-date: 2020-02-27 04:15:23
+date: 2020-02-28 20:09:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GOi5tdJZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GOi5tdJZL._AC_._SL200_.jpg' ]
 comments: true

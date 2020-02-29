@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic RP-HTX80BE-C Auriculares Bluet al 54.11 % de descuento'
-date: 2020-02-27 18:31:56
+date: 2020-02-28 22:14:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vfs1dcWxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vfs1dcWxL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung SAEPTA12EW - Transformador  cabl al 76.79 % de descuento'
-date: 2020-02-23 07:22:38
+date: 2020-02-29 02:09:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XvmrFdurL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XvmrFdurL._AC_._SL200_.jpg' ]
 comments: true

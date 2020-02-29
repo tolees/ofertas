@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.80 % en L Oréal Paris Arcillas Puras Mascarilla '
-date: 2020-02-18 12:24:31
+date: 2020-02-28 16:24:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Q+iCmB6FL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Q+iCmB6FL._AC_._SL200_.jpg' ]
 comments: true

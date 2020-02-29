@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bakibo Auriculares Inalámbricos Bluetoot al 64.07 % de descuento'
-date: 2020-02-27 09:28:56
+date: 2020-02-28 18:24:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XpXwUIuHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XpXwUIuHL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.10 % en Sony DSC-RX10 - Cámara compacta de 20.2 '
-date: 2020-01-29 18:28:11
+date: 2020-02-28 15:47:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xfTU+o5WL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xfTU+o5WL._AC_._SL200_.jpg' ]
 comments: true

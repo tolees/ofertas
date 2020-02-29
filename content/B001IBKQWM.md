@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional - Juego de 7 brocas m al 57.56 % de descuento'
-date: 2020-02-10 13:27:41
+date: 2020-02-28 18:45:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pc8xp3A6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pc8xp3A6L._AC_._SL200_.jpg' ]
 comments: true
