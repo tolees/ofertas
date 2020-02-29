@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Swatch Reloj Analógico para Hombre de Cu al 28.53 % de descuento'
-date: 2020-02-22 11:50:42
+date: 2020-02-29 10:21:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DdEZ4kG7L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DdEZ4kG7L._AC_._SL200_.jpg' ]
 comments: true

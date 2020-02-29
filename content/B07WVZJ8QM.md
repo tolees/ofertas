@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.28 % en Tokyo Ghoul: Re Call To Exist'
-date: 2020-02-28 09:25:33
+date: 2020-02-29 10:57:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SvJmgbtfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SvJmgbtfL._AC_._SL200_.jpg' ]
 comments: true

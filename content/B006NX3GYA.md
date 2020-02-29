@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigaset DA210 - Teléfono Fijo con Cable  al 30.02 % de descuento'
-date: 2020-02-21 11:58:42
+date: 2020-02-29 10:16:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RpY-eNUcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RpY-eNUcL._AC_._SL200_.jpg' ]
 comments: true

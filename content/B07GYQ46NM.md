@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Netgear Orbi Wifi Mesh AC3000 RBS40V  re al 29.16 % de descuento'
-date: 2019/11/07 14:03:43 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RCAcnH2BL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RCAcnH2BL._SL200_.jpg' ]
+title: 'Netgear Orbi RBS40V-100EUS Voice Mesh WL al 37.63 % de descuento'
+date: 2019/12/11 19:54:11 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kfvy5EfiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kfvy5EfiL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07GYQ46NM
 description:
-actualPrice: 233.78 EUR
-comparePrice: 329.99 EUR
+actualPrice: 193.33 EUR
+comparePrice: 309.99 EUR
 inStock: true
 ---
 
-Está [Netgear Orbi Wifi Mesh AC3000 RBS40V  repetidor WiFi adicional con altavoz Alexa integrado  cobertura tribanda de hasta 125 mq  compatible con todos los sistemas Orbi](https://www.amazon.com/dp/B07GYQ46NM/?tag=redken08-20) con 29.16 de descuento por 233.78 EUR (original: 329.99 EUR) en el siguiente enlace!
+Está [Netgear Orbi RBS40V-100EUS Voice Mesh WLAN Smart Lautsprecher  Erweiterung um 125 m² Abdeckung  integrierte Amazon Alexa  Repeater für Orbi Mesh-WiFi-Systeme  High Speed Satellit Smart Home Speaker ](https://www.amazon.com/dp/B07GYQ46NM/?tag=redken08-20) con 37.63 de descuento por 193.33 EUR (original: 309.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41RCAcnH2BL._SL200_.jpg)](https://www.amazon.com/dp/B07GYQ46NM/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41Kfvy5EfiL._SL200_.jpg)](https://www.amazon.com/dp/B07GYQ46NM/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07GYQ46NM/?tag=redken08-20)
 
