@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.53 % en Fujifilm X-E3 - Cámara Evil de 24.3 MP y'
-date: 2020-02-22 19:32:23
+date: 2020-03-01 13:48:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/519vMOV4mGL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519vMOV4mGL._AC_._SL200_.jpg' ]
 comments: true

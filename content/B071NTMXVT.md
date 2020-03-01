@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOUCHBeauty Sonic Facial Massage Device  al 68.41 % de descuento'
-date: 2020-02-23 09:48:09
+date: 2020-03-01 13:43:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/31qo6QHvp9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31qo6QHvp9L._AC_._SL200_.jpg' ]
 comments: true

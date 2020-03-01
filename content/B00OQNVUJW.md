@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black Crown Piton 3.0 - Peso Palas - 355 al 56.53 % de descuento'
-date: 2020-01-17 16:20:31
+date: 2020-03-01 19:46:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iGz6SqCAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iGz6SqCAL._SL200_.jpg' ]
 comments: true

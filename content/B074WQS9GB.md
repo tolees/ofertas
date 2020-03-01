@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.35 % en Mini Amoladora  TACKLIFE-PCG01B-3.7V Amo'
-date: 2020-02-29 17:21:46
+date: 2020-03-01 18:01:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/414Xu5tx0BL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414Xu5tx0BL._AC_._SL200_.jpg' ]
 comments: true

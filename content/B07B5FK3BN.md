@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B PRO 2000 - Estación de Cuidado Bu al 48.88 % de descuento'
-date: 2020-02-28 21:45:22
+date: 2020-03-01 17:33:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SRlH4U8SL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SRlH4U8SL._AC_._SL200_.jpg' ]
 comments: true

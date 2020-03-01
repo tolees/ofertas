@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 74.70 % en TW Steel Marc Coblen Edition Chrono con '
-date: 2019/12/26 07:36:35 +0000
+date: 2020-03-01 16:01:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YlpPuVSGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YlpPuVSGL._SL200_.jpg' ]
 comments: true

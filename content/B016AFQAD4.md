@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.08 % en Dormio Zafiro - Colchón viscoelástico  B'
-date: 2020-02-29 13:56:57
+date: 2020-03-01 14:39:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CVSnuHxKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CVSnuHxKL._AC_._SL200_.jpg' ]
 comments: true

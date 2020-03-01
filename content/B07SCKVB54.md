@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Gaming PS4 Cascos Gaming de  al 46.68 % de descuento'
-date: 2020-02-27 08:02:27
+date: 2020-03-01 12:40:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51N2F3EnEZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51N2F3EnEZL._AC_._SL200_.jpg' ]
 comments: true

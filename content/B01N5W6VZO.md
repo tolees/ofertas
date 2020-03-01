@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.91 % en Braun Silk-épil 5 5-511 Wet & Dry - Depi'
-date: 2020-02-20 10:32:29
+date: 2020-03-01 18:40:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/417qg4r5ydL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417qg4r5ydL._AC_._SL200_.jpg' ]
 comments: true

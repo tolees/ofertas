@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 32.50 % en Honeywell Home Y6R910WF6042 Lyric T6 Wi-'
-date: 2019/11/08 15:38:49 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BW0VakafL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BW0VakafL._SL200_.jpg' ]
+title: 'Descuento del 34.17 % en Honeywell Home Y6R910WF6042 Termostato p'
+date: 2020-02-28 18:12:51
+thumbnailImage: 'https://m.media-amazon.com/images/I/31+W0VakafL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31+W0VakafL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01M3PQJVV
 description:
-actualPrice: 135 EUR
-comparePrice: 199.99 EUR
+actualPrice: 131.0 EUR
+comparePrice: 199.0 EUR
 inStock: true
 ---
 
-Tienes [Honeywell Home Y6R910WF6042 Lyric T6 Wi-Fi Raumthermostat und verdrahtete Empfängerbox  Wandmontage  Schwarz](https://www.amazon.com/dp/B01M3PQJVV/?tag=redken08-20) con un 32.50 % de descuento con precio de oferta de 135 EUR (original: 199.99 EUR) en el siguiente enlace!
+Tienes [Honeywell Home Y6R910WF6042 Termostato programable Inteligente WiFi cableado T6  Montaje en Pared](https://www.amazon.com/dp/B01M3PQJVV/?tag=redken08-20) con un 34.17 % de descuento con precio de oferta de 131.0 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31%2BW0VakafL._SL200_.jpg)](https://www.amazon.com/dp/B01M3PQJVV/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31+W0VakafL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01M3PQJVV/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01M3PQJVV/?tag=redken08-20)
 
