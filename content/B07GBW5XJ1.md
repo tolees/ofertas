@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.69 % en Baseus Soporte Móvil Coche Soporte del C'
-date: 2020-02-27 17:36:11
+date: 2020-03-01 11:40:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qQvLt7HfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qQvLt7HfL._AC_._SL200_.jpg' ]
 comments: true

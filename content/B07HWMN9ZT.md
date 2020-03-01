@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone XS Max  de 512GB  - Plata al 30.15 % de descuento'
-date: 2020-02-28 21:20:24
+date: 2020-03-01 09:37:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL200_.jpg' ]
 comments: true

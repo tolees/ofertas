@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.97 % en Kit de pruebas de ascendencia de MyHerit'
-date: 2020-02-28 13:52:57
+date: 2020-03-01 10:06:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZUnsEHsKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZUnsEHsKL._AC_._SL200_.jpg' ]
 comments: true

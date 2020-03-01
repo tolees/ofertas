@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.79 % en Mpow Bluetooth 4.0 USB Dongle Adapter  B'
-date: 2020-02-28 11:51:25
+date: 2020-03-01 11:55:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kHSO0k-GL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kHSO0k-GL._AC_._SL200_.jpg' ]
 comments: true
