@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LAST LEVEL- Funko Figura Pop FORTNITE: Z al 37.30 % de descuento'
-date: 2020-02-26 20:09:37
+date: 2020-03-01 04:09:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/519ecPx+0AL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519ecPx+0AL._AC_._SL200_.jpg' ]
 comments: true

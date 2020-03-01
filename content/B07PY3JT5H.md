@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 25MX - Monitor  25"  velocidad de 144 al 26.94 % de descuento'
-date: 2020-02-24 12:38:02
+date: 2020-02-29 11:10:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QLdbpW-4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QLdbpW-4L._AC_._SL200_.jpg' ]
 comments: true

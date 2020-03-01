@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Select Solera - Balón de balón de balón  al 40.80 % de descuento'
-date: 2020-02-27 15:21:46
+date: 2020-02-29 16:42:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/516fwktXn1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516fwktXn1L._AC_._SL200_.jpg' ]
 comments: true

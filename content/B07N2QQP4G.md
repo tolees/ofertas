@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Tostador Plano Horizontal Turbo  al 26.52 % de descuento'
-date: 2020-02-28 20:12:57
+date: 2020-02-29 20:23:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t0qZnLtYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t0qZnLtYL._AC_._SL200_.jpg' ]
 comments: true

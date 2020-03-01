@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borderlands 3 - Standard Edition Code in al 33.34 % de descuento'
-date: 2020-02-17 05:05:25
+date: 2020-03-01 04:52:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/61vCgiPapyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61vCgiPapyL._AC_._SL200_.jpg' ]
 comments: true

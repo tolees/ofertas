@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Tiamat 2.2 V2 - Auriculares para G al 64.29 % de descuento'
-date: 2020-02-29 04:41:34
+date: 2020-03-01 08:01:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KpjJ+i7tL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KpjJ+i7tL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 67.51 % en Lightailing Light Set for  Star Wars Sup'
-date: 2020-02-27 20:03:42
+date: 2020-02-29 19:57:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/411X71mRl+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411X71mRl+L._AC_._SL200_.jpg' ]
 comments: true

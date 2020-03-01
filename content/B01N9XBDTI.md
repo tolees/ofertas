@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips HD2581/90 Daily Collection HD258 al 37.56 % de descuento'
-date: 2020-02-28 20:28:20
+date: 2020-02-29 21:48:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NGr8dEelL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NGr8dEelL._AC_._SL200_.jpg' ]
 comments: true

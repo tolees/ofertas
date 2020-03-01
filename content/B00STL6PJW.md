@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Gaming Clasico Pictureka   al 26.80 % de descuento'
-date: 2020-02-25 08:32:08
+date: 2020-02-29 11:05:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jrQFowofL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jrQFowofL._AC_._SL200_.jpg' ]
 comments: true

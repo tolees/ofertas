@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.67 % en Philips Avent SCF285/02 - Esterilizador '
-date: 2020-02-24 16:52:37
+date: 2020-02-29 15:07:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+EPwcdxGL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+EPwcdxGL._AC_._SL200_.jpg' ]
 comments: true

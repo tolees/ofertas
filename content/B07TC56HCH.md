@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 71.01 % en BRIKSMAX Kit de Iluminación Led para Leg'
-date: 2020-02-28 20:25:36
+date: 2020-03-01 04:15:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XgJYeaISL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XgJYeaISL._AC_._SL200_.jpg' ]
 comments: true

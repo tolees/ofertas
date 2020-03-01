@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Ideas al 75.01 % de descuento'
-date: 2020-02-27 19:56:04
+title: 'BRIKSMAX Kit de Iluminación Led para Leg al 69.01 % de descuento'
+date: 2020-02-28 20:25:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41E6Fn-bCTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41E6Fn-bCTL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TXVSGVV
 description:
-actualPrice: 24.99 GBP
-comparePrice: 99.99 GBP
+actualPrice: 30.99 EUR
+comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Led Lighting Kit for LEGO Ideas Voltron Legendary Defender- Compatible with Lego 21311 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TXVSGVV/?tag=redken08-20) con 75.01 de descuento por 24.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Está [BRIKSMAX Kit de Iluminación Led para Lego Ideas Voltron  Compatible con Ladrillos de Construcción Lego Modelo 21311  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TXVSGVV/?tag=redken08-20) con 69.01 de descuento por 30.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41E6Fn-bCTL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TXVSGVV/?tag=redken08-20)
 

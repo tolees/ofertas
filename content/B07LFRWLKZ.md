@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.06 % en Waterpik Complete Care 9.5 - Cepillo de '
-date: 2019/11/25 09:18:02 +0000
+date: 2020-02-29 19:03:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-xLt006xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-xLt006xL._SL200_.jpg' ]
 comments: true

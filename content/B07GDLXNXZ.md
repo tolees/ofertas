@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.09 % en Xiaomi MI A2 - Smartphone DE 5.9"  Qualc'
-date: 2020-02-28 07:28:18
+date: 2020-02-29 16:22:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FplfIiZJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FplfIiZJL._AC_._SL200_.jpg' ]
 comments: true

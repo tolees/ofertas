@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'RATEL Tira de Sellado Junta de 30 m 4 x  al 25.02 % de descuento'
-date: 2020-02-18 18:19:48
+title: 'RATEL Tira de Sellado Junta de 30 m 4 x  al 52.02 % de descuento'
+date: 2020-02-29 13:54:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/519QPiPyYJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519QPiPyYJL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SJ4GHW7
 description:
-actualPrice: 8.99 EUR
-comparePrice: 11.99 EUR
+actualPrice: 11.99 EUR
+comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [RATEL Tira de Sellado Junta de 30 m 4 x 7.5 m   Goma burlete para Puerta Ventana Antigolpes Resistente al Agua Autoadhesiva con 1 tijera y 1 cinta métrica para bloquear grietas y huecos  blanco ](https://www.amazon.com/dp/B07SJ4GHW7/?tag=redken08-20) a 8.99 EUR (original: 11.99 EUR) (25.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [RATEL Tira de Sellado Junta de 30 m 4 x 7.5 m   Goma burlete para Puerta Ventana Antigolpes Resistente al Agua Autoadhesiva con 1 tijera y 1 cinta métrica para bloquear grietas y huecos  blanco ](https://www.amazon.com/dp/B07SJ4GHW7/?tag=redken08-20) a 11.99 EUR (original: 24.99 EUR) (52.02 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/519QPiPyYJL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07SJ4GHW7/?tag=redken08-20)
 

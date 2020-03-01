@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto G5 - Smartphone Libre de 5 al 50.25 % de descuento'
-date: 2020-02-28 10:42:20
+date: 2020-02-29 18:07:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/415mrlnDa-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415mrlnDa-L._AC_._SL200_.jpg' ]
 comments: true

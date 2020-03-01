@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rodillo de espuma 2 en 1 Juego de 4 rodi al 44.08 % de descuento'
-date: 2020-02-17 08:00:02
+date: 2020-03-01 08:16:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eDpXu0QlL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eDpXu0QlL._AC_._SL200_.jpg' ]
 comments: true
