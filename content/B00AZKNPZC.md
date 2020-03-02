@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech B100 Ratón con Cable  3 Botones al 40.94 % de descuento'
-date: 2020-02-25 17:16:26
+date: 2020-03-02 15:20:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31iFF1KbkpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31iFF1KbkpL._AC_._SL200_.jpg' ]
 comments: true

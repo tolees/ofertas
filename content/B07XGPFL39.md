@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Inalámbrico Mando para Nintendo Switch   al 30.01 % de descuento'
-date: 2020-02-27 08:36:30
+date: 2020-03-02 16:08:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41novbX-mEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41novbX-mEL._AC_._SL200_.jpg' ]
 comments: true

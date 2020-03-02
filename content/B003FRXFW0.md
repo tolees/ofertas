@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech H110 Auriculares con Cable  Son al 50.03 % de descuento'
-date: 2020-02-27 20:23:13
+date: 2020-03-02 15:51:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/21NjQSGBYAL._SL500_._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21NjQSGBYAL._SL500_._AC_._SL200_.jpg' ]
 comments: true
