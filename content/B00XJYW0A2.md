@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Classic Leather - Zapatillas de c al 60.13 % de descuento'
-date: 2020-02-24 11:09:00
+date: 2020-03-02 13:58:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hxPVkx5YL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hxPVkx5YL._AC_._SL200_.jpg' ]
 comments: true

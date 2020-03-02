@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clementoni - Puzzle 3 x 48  Avengers  25 al 40.67 % de descuento'
-date: 2020-03-01 12:51:50
+date: 2020-03-02 15:02:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DBx8ty5zL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DBx8ty5zL._AC_._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Verde Camuflaje  PS4 ](https://www.amazon.com/dp/B01MT8UETS/?tag=redken08-20) a 37.99 EUR (original: 55 EUR) (30.93 %  de descuento) en el siguiente enlace!
+Está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Verde Camuflaje  PS4 ](https://www.amazon.com/dp/B01MT8UETS/?tag=redken08-20) con 30.93 de descuento por 37.99 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51W9V4Ve3JL._SL200_.jpg)](https://www.amazon.com/dp/B01MT8UETS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MT8UETS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MT8UETS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

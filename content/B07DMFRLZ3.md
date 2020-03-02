@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.51 % en Philips Avent SCD301/01 - Set de recién '
-date: 2020-03-01 09:26:06
+date: 2020-03-02 13:22:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ku+dz3L6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ku+dz3L6L._AC_._SL200_.jpg' ]
 comments: true

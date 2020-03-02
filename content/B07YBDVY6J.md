@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bubble Bobble 4 Friends - Special Editio al 42.39 % de descuento'
-date: 2020-02-27 07:45:35
+date: 2020-03-02 13:11:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51p8yVFUF2L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51p8yVFUF2L._AC_._SL200_.jpg' ]
 comments: true

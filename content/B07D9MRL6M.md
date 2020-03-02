@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.26 % en Ferilinso Funda Para Xiaomi Redmi Note 8'
-date: 2020-02-17 18:31:57
+date: 2020-03-02 11:10:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51S+SaiPXJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51S+SaiPXJL._AC_._SL200_.jpg' ]
 comments: true

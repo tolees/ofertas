@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RATEL Kit de Chaleco Táctico para Niños  al 53.35 % de descuento'
-date: 2020-02-29 17:41:19
+date: 2020-03-02 12:33:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xiB4s20CL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xiB4s20CL._AC_._SL200_.jpg' ]
 comments: true

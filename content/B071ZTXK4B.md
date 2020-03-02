@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GAFA DE SOL KYPERS GERI PGR 008  Unisex  al 31.87 % de descuento'
-date: 2020-03-01 09:21:30
+date: 2020-03-02 14:21:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31F7dEUirFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31F7dEUirFL._AC_._SL200_.jpg' ]
 comments: true

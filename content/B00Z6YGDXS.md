@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.70 % en Barriguitas Edificio loco loco  Famosa 7'
-date: 2020-03-01 10:46:31
+date: 2020-03-02 12:02:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/413Uye-I0xL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413Uye-I0xL._AC_._SL200_.jpg' ]
 comments: true

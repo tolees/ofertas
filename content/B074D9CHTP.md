@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Reloj Analogico-Digital para Mujer al 51.19 % de descuento'
-date: 2020-02-25 13:20:26
+date: 2020-03-02 11:04:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+dYkYaQpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+dYkYaQpL._AC_._SL200_.jpg' ]
 comments: true

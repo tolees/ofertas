@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iMac  27 pulgadas   pantalla Retin al 28.81 % de descuento'
-date: 2020-02-28 14:33:42
+date: 2020-03-02 13:59:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qLeywkVNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qLeywkVNL._AC_._SL200_.jpg' ]
 comments: true

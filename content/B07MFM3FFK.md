@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Clarks Clarkdale Moon  Zapatos de Cordon al 72.46 % de descuento'
-date: 2020-02-05 11:29:17
+title: 'Clarks Clarkdale Moon  Zapatos de Cordon al 76.64 % de descuento'
+date: 2020-03-02 10:34:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Z3EmcuHiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Z3EmcuHiL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MFM3FFK
 description:
-actualPrice: 38.56 EUR
+actualPrice: 32.71 EUR
 comparePrice: 140.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Clarks Clarkdale Moon  Zapatos de Cordones Derby para Hombre  Marrón  Burgundy Suede Burgundy Suede   42.5 EU](https://www.amazon.com/dp/B07MFM3FFK/?tag=redken08-20) a 38.56 EUR (original: 140.0 EUR) (72.46 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Clarks Clarkdale Moon  Zapatos de Cordones Derby para Hombre  Marrón  Burgundy Suede Burgundy Suede   42.5 EU](https://www.amazon.com/dp/B07MFM3FFK/?tag=redken08-20) a 32.71 EUR (original: 140.0 EUR) (76.64 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Z3EmcuHiL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MFM3FFK/?tag=redken08-20)
 
