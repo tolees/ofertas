@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Leg al 61.01 % de descuento'
-date: 2020-02-29 04:18:09
+title: 'BRIKSMAX Led Lighting Kit for LEGO Star  al 68.01 % de descuento'
+date: 2020-03-01 03:56:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UYfQp1jBL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UYfQp1jBL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07TZPGNBR
 description:
-actualPrice: 38.99 EUR
-comparePrice: 99.99 EUR
+actualPrice: 31.99 GBP
+comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Kylo Ren s Tie Fighter  Compatible con Ladrillos de Construcción Lego Modelo 75179  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TZPGNBR/?tag=redken08-20) a 38.99 EUR (original: 99.99 EUR) (61.01 %  de descuento) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Star Wars Kylo Ren s Tie Fighter- Compatible with Lego 75179 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TZPGNBR/?tag=redken08-20) con 68.01 de descuento por 31.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UYfQp1jBL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TZPGNBR/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07TZPGNBR/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07TZPGNBR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

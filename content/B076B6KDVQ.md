@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brother ADS2200 - Escáner documental sob al 26.93 % de descuento'
-date: 2020-02-29 03:10:57
+date: 2020-03-02 00:13:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VKiYmC1QL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VKiYmC1QL._AC_._SL200_.jpg' ]
 comments: true

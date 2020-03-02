@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.07 % en LEGO 70418 Hidden Side J.B.’s Geisterlab'
-date: 2020-03-01 04:00:42
+date: 2020-03-02 04:06:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hqlv1NSSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hqlv1NSSL._AC_._SL200_.jpg' ]
 comments: true

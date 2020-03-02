@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 43333 POP Bobble Marvel: Holiday-G al 28.77 % de descuento'
-date: 2020-03-01 03:52:33
+date: 2020-03-02 03:55:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31F9ph0c89L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31F9ph0c89L._AC_._SL200_.jpg' ]
 comments: true

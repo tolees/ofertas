@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.18 % en PDP - Mando Pro Faceoff Deluxe + Audio C'
-date: 2020-02-28 22:23:53
+date: 2020-03-01 22:50:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IzkMhuwZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IzkMhuwZL._AC_._SL200_.jpg' ]
 comments: true

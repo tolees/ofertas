@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.12 % en Tommy Hilfiger - Th Core Satchel  Bolsos'
-date: 2020-02-28 15:41:24
+date: 2020-03-01 22:49:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fn577cERL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fn577cERL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy S10 - Smartphone de 6.1”  al 34.00 % de descuento'
-date: 2020-02-29 17:22:20
+date: 2020-03-02 00:45:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31iaxdDXBkL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31iaxdDXBkL._AC_._SL200_.jpg' ]
 comments: true

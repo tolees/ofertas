@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revell 06759 Star Wars Episode VIII Buil al 34.29 % de descuento'
-date: 2020-02-22 11:52:43
+date: 2020-03-02 03:56:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/61JZErGcbLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61JZErGcbLL._AC_._SL200_.jpg' ]
 comments: true
