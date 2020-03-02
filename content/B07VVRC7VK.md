@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Citadel Forged with Fire - Xbox One al 63.39 % de descuento'
-date: 2020-03-01 10:33:34
+date: 2020-03-02 18:10:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QdlvskFlL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QdlvskFlL._AC_._SL200_.jpg' ]
 comments: true

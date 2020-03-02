@@ -14,10 +14,10 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60215 City Fire Fire Station Garage Building Set with Truck Toy  Water Scooter  Drone and 3 Firefighter Minifigures plus Light and Sound Brick  Fireman Toys for Kids](https://www.amazon.com/dp/B07FNN17CM/?tag=redken08-20) a 41.97 GBP (original: 59.99 GBP) (30.04 %  de descuento) en el siguiente enlace!
+Está [LEGO 60215 City Fire Fire Station Garage Building Set with Truck Toy  Water Scooter  Drone and 3 Firefighter Minifigures plus Light and Sound Brick  Fireman Toys for Kids](https://www.amazon.com/dp/B07FNN17CM/?tag=redken08-20) con 30.04 de descuento por 41.97 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516VNBUggAL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FNN17CM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNN17CM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FNN17CM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
