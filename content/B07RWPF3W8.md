@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 55PUS6704/12 - Smart TV LED 4K U al 33.33 % de descuento'
-date: 2020-02-13 08:12:16
+date: 2020-03-02 06:58:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iJ99Z5EEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iJ99Z5EEL._AC_._SL200_.jpg' ]
 comments: true
