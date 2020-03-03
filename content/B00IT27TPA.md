@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.50 % en Carmex COS 003 Bálsamo labial - 1 tubo'
-date: 2020-02-26 01:33:09
+date: 2020-03-02 22:59:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/414jYymvq+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414jYymvq+L._AC_._SL200_.jpg' ]
 comments: true

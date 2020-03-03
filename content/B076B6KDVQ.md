@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.93 % en Brother ADS2200 - Escáner documental sob'
-date: 2020-03-02 00:13:59
+date: 2020-03-03 01:42:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VKiYmC1QL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VKiYmC1QL._AC_._SL200_.jpg' ]
 comments: true

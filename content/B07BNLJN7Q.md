@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Horno Conveccion Sobremesa Bake& al 26.24 % de descuento'
-date: 2020-02-21 08:34:37
+date: 2020-03-02 21:26:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yyTTzsI9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yyTTzsI9L._AC_._SL200_.jpg' ]
 comments: true

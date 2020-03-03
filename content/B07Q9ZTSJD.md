@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.19 % en HP OfficeJet Pro 9010 - Impresora multif'
-date: 2020-02-29 20:19:26
+date: 2020-03-02 20:09:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WKPAP-BeL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WKPAP-BeL._AC_._SL200_.jpg' ]
 comments: true

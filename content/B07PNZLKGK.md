@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Nuevo Version] Andven Autoradio Bluetoo al 44.46 % de descuento'
-date: 2020-03-01 12:09:39
+date: 2020-03-03 04:06:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LUlodXTSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LUlodXTSL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 61.68 % en Briksmax Led Lighting Kit for San Franci'
-date: 2020-02-29 19:54:50
+date: 2020-03-02 19:52:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cf7vKVn7L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cf7vKVn7L._AC_._SL200_.jpg' ]
 comments: true

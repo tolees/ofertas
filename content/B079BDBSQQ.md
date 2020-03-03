@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amzdeal Caja de Luz Fotografia 80 x 80 x al 30.85 % de descuento'
-date: 2020-02-01 02:44:05
+date: 2020-03-02 22:04:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JW6+Kq1xL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JW6+Kq1xL._AC_._SL200_.jpg' ]
 comments: true

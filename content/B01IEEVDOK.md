@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot Roomba 960 Robot Aspirador  Succi al 51.19 % de descuento'
-date: 2020-02-29 22:30:23
+date: 2020-03-02 20:10:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gDZXa6euL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gDZXa6euL._AC_._SL200_.jpg' ]
 comments: true

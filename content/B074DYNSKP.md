@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.37 % en Sony DSX-A410BT MP3 Autoradio  Dual Blue'
-date: 2020-03-01 12:07:32
+date: 2020-03-03 03:59:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Sz5skV0fL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Sz5skV0fL._AC_._SL200_.jpg' ]
 comments: true

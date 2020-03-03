@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot Braava Jet 240 Wischroboter mit P al 51.53 % de descuento'
-date: 2020-03-01 18:30:47
+date: 2020-03-02 20:24:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/21HSz7sLX+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21HSz7sLX+L._AC_._SL200_.jpg' ]
 comments: true

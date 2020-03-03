@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Arizona Classic Straight Pantal al 57.27 % de descuento'
-date: 2020-02-29 07:56:43
+date: 2020-03-03 02:00:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ooeF0tV3L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ooeF0tV3L._AC_._SL200_.jpg' ]
 comments: true

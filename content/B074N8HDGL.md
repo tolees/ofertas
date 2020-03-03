@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 7 - Smartphone de 32 GB Col al 64.95 % de descuento'
-date: 2020-03-01 17:56:10
+date: 2020-03-02 19:19:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51alIVdTysL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51alIVdTysL._AC_._SL200_.jpg' ]
 comments: true
