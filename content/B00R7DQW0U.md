@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.21 % en Final Fantasy X/X-2: HD Remaster'
-date: 2020-02-29 12:15:53
+date: 2020-03-03 10:03:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nwO-c5npL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nwO-c5npL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RAVPOWER Mini Cargador de Coche 24W 4 8A al 30.79 % de descuento'
-date: 2020-02-16 12:18:20
+date: 2020-03-03 08:39:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41B1-6024wL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41B1-6024wL._AC_._SL200_.jpg' ]
 comments: true

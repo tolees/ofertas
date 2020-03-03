@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Suunto - Traverse Alpha - Reloj GPS Outd al 25.37 % de descuento'
-date: 2020-02-29 20:15:13
+date: 2020-03-03 10:01:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cDq4YmiZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cDq4YmiZL._AC_._SL200_.jpg' ]
 comments: true

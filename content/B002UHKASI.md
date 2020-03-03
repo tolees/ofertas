@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Bosch X-Line - Maletín de 54 unidades pa al 74.28 % de descuento'
-date: 2019/10/29 18:20:12 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51li7ov%2BkQL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51li7ov%2BkQL._SL200_.jpg' ]
+title: 'Bosch Home and Garden 2 607 010 610 Bosc al 32.24 % de descuento'
+date: 2020-03-03 08:22:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/41-sXkKYwSL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41-sXkKYwSL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B002UHKASI
 description:
-actualPrice: 9 EUR
+actualPrice: 23.71 EUR
 comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch X-Line - Maletín de 54 unidades para taladrar y atornillar](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20) a 9 EUR (original: 34.99 EUR) (74.28 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bosch Home and Garden 2 607 010 610 Bosch X-Line - Maletín de 54 unidades para taladrar y atornillar  0 W  0 V  Verde  Rojo  Set Piezas](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20) a 23.71 EUR (original: 34.99 EUR) (32.24 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51li7ov%2BkQL._SL200_.jpg)](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41-sXkKYwSL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20)
 

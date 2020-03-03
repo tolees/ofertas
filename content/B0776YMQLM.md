@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Funda de piel  para el MacBook de  al 45.93 % de descuento'
-date: 2020-02-27 17:12:34
+date: 2020-03-03 10:11:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XZuhw5IfL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XZuhw5IfL._AC_._SL200_.jpg' ]
 comments: true

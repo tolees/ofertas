@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FIFA 20 - Edición Legacy al 41.26 % de descuento'
-date: 2020-03-02 09:17:19
+date: 2020-03-03 10:20:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/518rtYnBs4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518rtYnBs4L._AC_._SL200_.jpg' ]
 comments: true
