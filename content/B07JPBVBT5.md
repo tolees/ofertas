@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DAM. DMZ038BL. Smartwatch L2 Plus con Mo al 69.44 % de descuento'
-date: 2020-02-28 19:14:35
+date: 2020-03-03 11:28:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Oq3P1jOuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Oq3P1jOuL._AC_._SL200_.jpg' ]
 comments: true

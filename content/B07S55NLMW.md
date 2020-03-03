@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FIFA 20 - Standard Edition - [PlayStatio al 42.86 % de descuento'
-date: 2020-03-01 12:06:39
+date: 2020-03-03 12:13:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QsRs-LAuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QsRs-LAuL._AC_._SL200_.jpg' ]
 comments: true

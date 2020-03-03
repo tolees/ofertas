@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PREMYO Bandas Reflectantes Set de 4 Ajus al 31.10 % de descuento'
-date: 2020-01-25 09:10:05
+date: 2020-03-03 10:38:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oA5pNrWiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oA5pNrWiL._AC_._SL200_.jpg' ]
 comments: true

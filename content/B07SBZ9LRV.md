@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.26 % en 4G LTE Tablet 10 Pulgadas YOTOPT - Andro'
-date: 2020-02-21 20:04:10
+date: 2020-03-03 13:32:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TtJI8bwcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TtJI8bwcL._AC_._SL200_.jpg' ]
 comments: true

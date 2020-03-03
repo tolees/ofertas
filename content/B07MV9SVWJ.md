@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Cindy  Cartera para Mujer  Azul  al 30.00 % de descuento'
-date: 2020-03-01 09:24:16
+date: 2020-03-03 12:07:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yJmKyjuCL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yJmKyjuCL._AC_._SL200_.jpg' ]
 comments: true

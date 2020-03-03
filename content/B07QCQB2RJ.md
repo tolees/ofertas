@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.65 % en Funko 41169 POP Vinyl Directors: Jason B'
-date: 2020-02-28 11:52:46
+date: 2020-03-03 11:52:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V5IfsOO1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V5IfsOO1L._AC_._SL200_.jpg' ]
 comments: true

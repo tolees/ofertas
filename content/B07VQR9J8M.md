@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FITTOO Leggings Mallas Mujer Pantalones  al 40.03 % de descuento'
-date: 2020-02-23 17:33:36
+date: 2020-03-03 11:57:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31OVmcxgz5L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31OVmcxgz5L._AC_._SL200_.jpg' ]
 comments: true

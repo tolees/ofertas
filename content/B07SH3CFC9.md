@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego St al 35.01 % de descuento'
-date: 2020-03-01 04:06:03
+title: 'BRIKSMAX Led Lighting Kit for Lego Darth al 50.01 % de descuento'
+date: 2020-03-01 19:58:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WUQLwfOzL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WUQLwfOzL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SH3CFC9
 description:
-actualPrice: 25.99 EUR
-comparePrice: 39.99 EUR
+actualPrice: 19.99 GBP
+comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Darth Vader Transformation  Kompatibel Mit Lego 75183 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07SH3CFC9/?tag=redken08-20) a 25.99 EUR (original: 39.99 EUR) (35.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Lighting Kit for Lego Darth Vader Transformation-Compatible with Lego 75183 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07SH3CFC9/?tag=redken08-20) a 19.99 GBP (original: 39.99 GBP) (50.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51WUQLwfOzL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07SH3CFC9/?tag=redken08-20)
 

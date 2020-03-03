@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.84 % en Assassin’s Creed III Remastered'
-date: 2020-01-30 09:02:56
+date: 2020-03-03 11:20:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oJHYxHQeL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oJHYxHQeL._AC_._SL200_.jpg' ]
 comments: true

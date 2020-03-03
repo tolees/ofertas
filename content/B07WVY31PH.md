@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.87 % en Wireless Headphones  IPX7 Bluetooth 5.0 '
-date: 2019/11/16 21:23:14 +0000
+date: 2020-03-03 13:26:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HlJY1icPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HlJY1icPL._SL200_.jpg' ]
 comments: true
