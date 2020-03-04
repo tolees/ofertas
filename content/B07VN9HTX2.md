@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Xbox One S Gears 5 al 43.16 % de descuento'
-date: 2020-01-01 20:31:22
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51crK6L-aUL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51crK6L-aUL._SL200_.jpg' ]
+title: 'Xbox One S Gears 5 al 40.13 % de descuento'
+date: 2020-03-04 06:23:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/51crK6L-aUL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51crK6L-aUL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07VN9HTX2
 description:
-actualPrice: 169.95 EUR
-comparePrice: 299 EUR
+actualPrice: 179.0 EUR
+comparePrice: 299.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Xbox One S Gears 5](https://www.amazon.com/dp/B07VN9HTX2/?tag=redken08-20) a 169.95 EUR (original: 299 EUR) (43.16 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Xbox One S Gears 5](https://www.amazon.com/dp/B07VN9HTX2/?tag=redken08-20) a 179.0 EUR (original: 299.0 EUR) (40.13 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51crK6L-aUL._SL200_.jpg)](https://www.amazon.com/dp/B07VN9HTX2/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51crK6L-aUL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07VN9HTX2/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07VN9HTX2/?tag=redken08-20)
 

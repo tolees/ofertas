@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en Armani Exchange Reloj Analógico para Hom'
-date: 2020-03-02 09:09:31
+date: 2020-03-03 18:10:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aZx9y01xL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aZx9y01xL._AC_._SL200_.jpg' ]
 comments: true

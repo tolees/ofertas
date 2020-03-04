@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bovon Brazalete Deportivo para Correr  B al 43.78 % de descuento'
-date: 2020-02-12 16:18:22
+date: 2020-03-03 20:18:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CmGNEg8xL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CmGNEg8xL._AC_._SL200_.jpg' ]
 comments: true

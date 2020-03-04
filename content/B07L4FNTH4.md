@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60227 - City Mond Raumstation  Baus al 26.05 % de descuento'
-date: 2020-02-25 17:30:17
+title: 'LEGO 60227 City Lunar Space Station  Spa al 30.01 % de descuento'
+date: 2020-03-02 20:51:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51brJzGqexL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51brJzGqexL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07L4FNTH4
 description:
-actualPrice: 36.97 EUR
-comparePrice: 49.99 EUR
+actualPrice: 31.49 GBP
+comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60227 - City Mond Raumstation  Bauset](https://www.amazon.com/dp/B07L4FNTH4/?tag=redken08-20) a 36.97 EUR (original: 49.99 EUR) (26.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60227 City Lunar Space Station  Spaceship Adventures Toys for Kids inspired by NASA  Mars Expedition Series](https://www.amazon.com/dp/B07L4FNTH4/?tag=redken08-20) a 31.49 GBP (original: 44.99 GBP) (30.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51brJzGqexL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07L4FNTH4/?tag=redken08-20)
 

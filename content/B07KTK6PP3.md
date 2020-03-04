@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lego Ninjago 70671 Angriff des Eis-Samur al 26.68 % de descuento'
-date: 2020-02-13 07:26:29
+title: 'Lego Ninjago 70671 Angriff des Eis-Samur al 30.15 % de descuento'
+date: 2020-03-03 17:36:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SvRWcrWnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SvRWcrWnL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KTK6PP3
 description:
-actualPrice: 10.99 EUR
+actualPrice: 10.47 EUR
 comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lego Ninjago 70671 Angriff des Eis-Samurai  Bauset](https://www.amazon.com/dp/B07KTK6PP3/?tag=redken08-20) a 10.99 EUR (original: 14.99 EUR) (26.68 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lego Ninjago 70671 Angriff des Eis-Samurai  Bauset](https://www.amazon.com/dp/B07KTK6PP3/?tag=redken08-20) a 10.47 EUR (original: 14.99 EUR) (30.15 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51SvRWcrWnL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTK6PP3/?tag=redken08-20)
 

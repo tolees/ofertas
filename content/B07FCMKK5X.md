@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.95 % en SanDisk Extreme - Tarjeta de memoria mic'
-date: 2020-02-29 20:49:36
+date: 2020-03-03 22:40:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VC2j-DDYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VC2j-DDYL._AC_._SL200_.jpg' ]
 comments: true

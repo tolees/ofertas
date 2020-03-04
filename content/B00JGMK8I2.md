@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEVIS FOOTWEAR AND ACCESSORIES Vintage T al 44.10 % de descuento'
-date: 2020-03-01 10:09:21
+date: 2020-03-03 20:23:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/512kH6euJkL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512kH6euJkL._AC_._SL200_.jpg' ]
 comments: true

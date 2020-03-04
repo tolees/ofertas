@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LIGHTAILING Light Set For   Expert Detec al 41.68 % de descuento'
-date: 2020-02-28 03:56:52
+date: 2020-03-04 02:47:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ehCkaegaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ehCkaegaL._AC_._SL200_.jpg' ]
 comments: true
