@@ -14,8 +14,7 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 41166 Disney Frozen II Elsa s Wagon Adventure
-with Princess Elsa Mini Doll and 2 Reindeer Figures  Easy Build Preschool Toy for 4-7 Years Old with Bricks Base Plate](https://www.amazon.com/dp/B07NDBFFDM/?tag=redken08-20) a 18 GBP (original: 24.99 GBP) (27.97 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 41166 Disney Frozen II Elsa s Wagon Adventurewith Princess Elsa Mini Doll and 2 Reindeer Figures  Easy Build Preschool Toy for 4-7 Years Old with Bricks Base Plate](https://www.amazon.com/dp/B07NDBFFDM/?tag=redken08-20) a 18 GBP (original: 24.99 GBP) (27.97 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517LRBuxQ%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07NDBFFDM/?tag=redken08-20)
 
