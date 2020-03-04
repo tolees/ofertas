@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 27.64 % en PLAYMOBIL City Life 70014 Mein Stadthaus'
-date: 2019/12/13 13:51:46 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CZGJ5ZLuL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CZGJ5ZLuL._SL200_.jpg' ]
+title: 'Descuento del 34.41 % en PLAYMOBIL City Life 70014 Mein Stadthaus'
+date: 2020-03-04 09:48:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/518S-LuFbZL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/518S-LuFbZL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07JMCBSX4
 description:
-actualPrice: 39.79 EUR
+actualPrice: 36.07 EUR
 comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Tienes [PLAYMOBIL City Life 70014 Mein Stadthaus  Ab 4 Jahren](https://www.amazon.com/dp/B07JMCBSX4/?tag=redken08-20) con un 27.64 % de descuento con precio de oferta de 39.79 EUR (original: 54.99 EUR) en el siguiente enlace!
+Tienes [PLAYMOBIL City Life 70014 Mein Stadthaus  Ab 4 Jahren](https://www.amazon.com/dp/B07JMCBSX4/?tag=redken08-20) con un 34.41 % de descuento con precio de oferta de 36.07 EUR (original: 54.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51CZGJ5ZLuL._SL200_.jpg)](https://www.amazon.com/dp/B07JMCBSX4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/518S-LuFbZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07JMCBSX4/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07JMCBSX4/?tag=redken08-20)
 

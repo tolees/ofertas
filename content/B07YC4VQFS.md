@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ESR 2Pack/6.6ft Cable USB C a L Cable【MF al 30.56 % de descuento'
-date: 2020-02-24 18:05:24
+date: 2020-03-04 08:39:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-jBmmWhdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-jBmmWhdL._AC_._SL200_.jpg' ]
 comments: true

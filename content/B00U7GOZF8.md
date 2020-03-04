@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Black+Decker Akku Heckenschere  mit E-Dr al 27.83 % de descuento'
-date: 2019/11/11 16:06:48 +0000
+title: 'BLACK+DECKER GTC1845L20-QW - Cortasetos  al 48.93 % de descuento'
+date: 2019/11/20 10:38:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pS57r1imL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pS57r1imL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00U7GOZF8
 description:
-actualPrice: 86.57 EUR
-comparePrice: 119.95 EUR
+actualPrice: 56.15 EUR
+comparePrice: 109.95 EUR
 inStock: true
 ---
 
-Está [Black+Decker Akku Heckenschere  mit E-Drive Technologie zum Schneiden harter und dicker Äste sowie mittlerer bis großer Hecken - 18mm Schnittstärke - 18V - 2 6kg leicht  GTC1845L20](https://www.amazon.com/dp/B00U7GOZF8/?tag=redken08-20) con 27.83 de descuento por 86.57 EUR (original: 119.95 EUR) en el siguiente enlace!
+Está [BLACK+DECKER GTC1845L20-QW - Cortasetos 18V con batería litio de 2Ah  espada de 45 cm](https://www.amazon.com/dp/B00U7GOZF8/?tag=redken08-20) con 48.93 de descuento por 56.15 EUR (original: 109.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pS57r1imL._SL200_.jpg)](https://www.amazon.com/dp/B00U7GOZF8/?tag=redken08-20)
 

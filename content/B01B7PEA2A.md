@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price Mattel DLD84 - Cebra Parlan al 31.12 % de descuento'
-date: 2020-03-02 04:12:15
+date: 2020-03-04 10:08:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hN1qoVvXL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hN1qoVvXL._AC_._SL200_.jpg' ]
 comments: true

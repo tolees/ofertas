@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.64 % en Philips Sonicare CleanCare HX3212/03 - C'
-date: 2020-03-03 08:13:22
+date: 2020-03-04 08:30:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/21Bg8hZLBoL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21Bg8hZLBoL._AC_._SL200_.jpg' ]
 comments: true
