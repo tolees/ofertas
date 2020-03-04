@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en Garmin Fenix 5- Reloj multideporte  con '
-date: 2020-02-27 15:42:43
+date: 2020-03-04 15:27:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/412bWTV7ezL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412bWTV7ezL._AC_._SL200_.jpg' ]
 comments: true
