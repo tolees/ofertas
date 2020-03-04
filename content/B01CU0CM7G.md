@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Naipo Masajeador de Cuello y Hombros Bás al 45.00 % de descuento'
-date: 2020-02-19 08:27:40
+date: 2020-03-04 11:53:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Olzw7udpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Olzw7udpL._AC_._SL200_.jpg' ]
 comments: true

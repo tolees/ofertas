@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.23 % en Charles Wilson Sudadera con Cremallera C'
-date: 2020-01-26 19:57:27
+date: 2020-03-04 12:40:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KO9sPZa4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KO9sPZa4L._AC_._SL200_.jpg' ]
 comments: true

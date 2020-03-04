@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL50F18F.SYX Objetivo Fijo  FE 50  al 51.82 % de descuento'
-date: 2020-03-02 11:51:33
+date: 2020-03-04 12:47:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LS1wijtQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LS1wijtQL._AC_._SL200_.jpg' ]
 comments: true

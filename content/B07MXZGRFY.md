@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMERIL Tira LED RGB 6M Impermeable  Tira al 29.18 % de descuento'
-date: 2020-01-31 21:17:26
+date: 2020-03-04 11:51:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WWhNAojIL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WWhNAojIL._AC_._SL200_.jpg' ]
 comments: true

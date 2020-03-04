@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO MOVIE 2 70837 Shimmer and Shine Spa al 43.69 % de descuento'
-date: 2020-03-02 11:55:37
+title: 'The Lego Movie 2 70837 Schimmerndes Glit al 45.01 % de descuento'
+date: 2020-03-04 02:51:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yWE7XgidL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yWE7XgidL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KQBXKVR
 description:
-actualPrice: 33.78 GBP
-comparePrice: 59.99 GBP
+actualPrice: 38.49 EUR
+comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO MOVIE 2 70837 Shimmer and Shine Sparkle Spa Playset](https://www.amazon.com/dp/B07KQBXKVR/?tag=redken08-20) a 33.78 GBP (original: 59.99 GBP) (43.69 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [The Lego Movie 2 70837 Schimmerndes Glitzer-Spa  Bauset](https://www.amazon.com/dp/B07KQBXKVR/?tag=redken08-20) a 38.49 EUR (original: 69.99 EUR) (45.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51yWE7XgidL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KQBXKVR/?tag=redken08-20)
 
