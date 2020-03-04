@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Philips Serie 9000 S9711/41 - Máquina de al 27.19 % de descuento'
-date: 2020-02-25 17:16:32
+title: 'Philips Serie 9000 S9711/41 - Máquina de al 27.24 % de descuento'
+date: 2020-03-04 19:03:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TNvpyueML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TNvpyueML._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B076DFF7QH
 description:
-actualPrice: 196.59 EUR
+actualPrice: 196.45 EUR
 comparePrice: 269.99 EUR
 inStock: true
 ---
 
-Está [Philips Serie 9000 S9711/41 - Máquina de afeitar con cabezales de 8 direcciones  seco/húmedo y 3 modos  60 min de batería incluye perfilador de barba con 5 posiciones y funda de viaje  plata](https://www.amazon.com/dp/B076DFF7QH/?tag=redken08-20) con 27.19 de descuento por 196.59 EUR (original: 269.99 EUR) en el siguiente enlace!
+Está [Philips Serie 9000 S9711/41 - Máquina de afeitar con cabezales de 8 direcciones  seco/húmedo y 3 modos  60 min de batería incluye perfilador de barba con 5 posiciones y funda de viaje  plata](https://www.amazon.com/dp/B076DFF7QH/?tag=redken08-20) con 27.24 de descuento por 196.45 EUR (original: 269.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51TNvpyueML._AC_._SL200_.jpg)](https://www.amazon.com/dp/B076DFF7QH/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sundried sin BPA estanca al aire libre   al 53.67 % de descuento'
-date: 2020-02-25 14:14:24
+date: 2020-03-04 16:25:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T-FX96A0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T-FX96A0L._AC_._SL200_.jpg' ]
 comments: true

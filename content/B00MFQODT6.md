@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 68.71 % en Mx Onda - Reloj Analógico de Cuarzo para'
-date: 2020-02-05 14:35:51
+date: 2020-03-04 19:14:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tJfa6UKxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tJfa6UKxL._AC_._SL200_.jpg' ]
 comments: true

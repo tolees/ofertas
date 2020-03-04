@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo TO 4012 Tostadora Automática De al 31.63 % de descuento'
-date: 2020-02-29 11:05:55
+date: 2020-03-04 17:09:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31NhwcxmoyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31NhwcxmoyL._AC_._SL200_.jpg' ]
 comments: true

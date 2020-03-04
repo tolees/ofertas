@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NWOUIIAY Cortapelos IPX7 Impermeable Tod al 26.68 % de descuento'
-date: 2020-02-25 10:38:35
+date: 2020-03-04 16:06:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WbgVcyftL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WbgVcyftL._AC_._SL200_.jpg' ]
 comments: true
