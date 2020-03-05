@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony ILCE-7M2 Alpha7 II - Cámara EVIL de al 52.83 % de descuento'
-date: 2020-03-04 10:16:38
+date: 2020-03-05 21:04:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nWdx1ZzTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nWdx1ZzTL._AC_._SL200_.jpg' ]
 comments: true

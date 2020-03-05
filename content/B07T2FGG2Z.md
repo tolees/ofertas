@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Sony WF-1000XM3 Truly Wireless Noise Can al 27.27 % de descuento'
-date: 2020-03-01 13:57:37
-thumbnailImage: 'https://m.media-amazon.com/images/I/31KhlRJN1JL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31KhlRJN1JL._AC_._SL200_.jpg' ]
+title: 'Sony WF-1000XM3 True Wireless Noise Canc al 28.11 % de descuento'
+date: 2020-03-05 04:45:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/31jawtPMLuL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31jawtPMLuL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07T2FGG2Z
 description:
-actualPrice: 167.28 GBP
-comparePrice: 230.0 GBP
+actualPrice: 179.0 EUR
+comparePrice: 249.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony WF-1000XM3 Truly Wireless Noise Cancelling Headphones  Up to 32 Hours Battery  Stable Bluetooth Connection  Wearing Detection  Volume Touch Control  Optimised for Google Assistant & Amazon Alexa](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20) a 167.28 GBP (original: 230.0 GBP) (27.27 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony WF-1000XM3 True Wireless Noise Cancelling Kopfhörer  bis zu 32h Akkulaufzeit  stabile Bluetooth Verbindung  Amazon Alexa  komplett kabellose Earbuds incl. Ladecase  schwarz](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20) a 179.0 EUR (original: 249.0 EUR) (28.11 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31KhlRJN1JL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31jawtPMLuL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20)
 
