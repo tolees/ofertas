@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toshiba Satellite Pro R50-C-1E8 - Ordena al 29.02 % de descuento'
-date: 2020-03-04 09:36:10
+date: 2020-03-05 13:20:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mcmithXyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mcmithXyL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 67.95 % en ZOZOSEP Azucarero para medir el azúcar A'
-date: 2020-02-20 17:15:52
+date: 2020-03-05 13:15:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31v00i+UtuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31v00i+UtuL._AC_._SL200_.jpg' ]
 comments: true

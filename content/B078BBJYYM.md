@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en NOVOO Hub USB C con 2xUSB 3.0  HDMI  Lec'
-date: 2020-01-24 13:13:26
+date: 2020-03-05 13:28:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vszPozIiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vszPozIiL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.61 % en Tefal First Cook - Set de sartenes de Al'
-date: 2020-02-24 23:04:59
+date: 2020-03-05 14:16:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nxa15j4DL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nxa15j4DL._AC_._SL200_.jpg' ]
 comments: true
