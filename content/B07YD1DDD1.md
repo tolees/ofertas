@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZUNTO Estanteria Baño Autoadhesivo Estan al 45.01 % de descuento'
-date: 2020-02-08 16:55:03
+date: 2020-03-05 17:16:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/519Pcn5PyKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519Pcn5PyKL._AC_._SL200_.jpg' ]
 comments: true
