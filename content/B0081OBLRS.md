@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEVI S 501 Original Fit Men s Jeans  Blu al 60.00 % de descuento'
-date: 2020-01-29 08:08:29
+date: 2020-03-05 11:46:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Gdv5UZi-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Gdv5UZi-L._AC_._SL200_.jpg' ]
 comments: true

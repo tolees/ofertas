@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'ECOOLBUY WiFi Inteligente Bajo Techo  en al 66.87 % de descuento'
-date: 2020-01-14 14:04:57
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QkqLEA9bL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QkqLEA9bL._SL200_.jpg' ]
+date: 2020-03-05 10:47:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/41QkqLEA9bL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41QkqLEA9bL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [ECOOLBUY WiFi Inteligente Bajo Techo  en Exteriores Temperatura Humedad Sensor Funciona con Alexa Google Home IFTTT para Home House Greenhouse Basement Garage](https://www.amazon.com/dp/B07XL3YT5Q/?tag=redken08-20) con 66.87 de descuento por 25.91 EUR (original: 78.21 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41QkqLEA9bL._SL200_.jpg)](https://www.amazon.com/dp/B07XL3YT5Q/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41QkqLEA9bL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07XL3YT5Q/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07XL3YT5Q/?tag=redken08-20)
 

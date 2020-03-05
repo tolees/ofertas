@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'fischertechnik Dynamic S Kugelbahn mit K al 48.90 % de descuento'
-date: 2020-03-02 20:10:20
+date: 2020-03-05 10:36:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bOSVGiRmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bOSVGiRmL._AC_._SL200_.jpg' ]
 comments: true

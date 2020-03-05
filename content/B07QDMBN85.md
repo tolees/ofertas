@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.51 % en Annsky Tensiómetro de Brazo Digital  Aut'
-date: 2020-02-04 12:43:23
+date: 2020-03-05 12:09:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51i2cf3yYcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51i2cf3yYcL._AC_._SL200_.jpg' ]
 comments: true

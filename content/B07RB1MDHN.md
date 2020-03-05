@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AWESAFE Cámara de Coche Dash CAM 1080P F al 25.01 % de descuento'
-date: 2020-03-03 07:43:20
+date: 2020-03-05 10:56:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51p0d9Tuv9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51p0d9Tuv9L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.56 % en Ravensburger Kinderspiele 21353 Monsters'
-date: 2020-03-01 04:07:02
+date: 2020-03-05 10:36:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/610QYYl6sDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/610QYYl6sDL._AC_._SL200_.jpg' ]
 comments: true

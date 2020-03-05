@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Playmobil 70173 Ghostbusters Toy  Multic al 53.65 % de descuento'
-date: 2019/12/30 09:20:30 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XHLcpoJNL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XHLcpoJNL._SL200_.jpg' ]
+title: 'Playmobil Ghostbusters 70173 Collection  al 48.51 % de descuento'
+date: 2020-03-05 10:29:10
+thumbnailImage: 'https://m.media-amazon.com/images/I/51XHLcpoJNL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51XHLcpoJNL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07JLS3ZTC
 description:
-actualPrice: 17.82 GBP
-comparePrice: 38.45 GBP
+actualPrice: 19.98 GBP
+comparePrice: 38.8 GBP
 inStock: true
 ---
 
-Está [Playmobil 70173 Ghostbusters Toy  Multicolor](https://www.amazon.com/dp/B07JLS3ZTC/?tag=redken08-20) con 53.65 de descuento por 17.82 GBP (original: 38.45 GBP) en el siguiente enlace!
+Está [Playmobil Ghostbusters 70173 Collection Figure E. Spengler for Children Ages 6+](https://www.amazon.com/dp/B07JLS3ZTC/?tag=redken08-20) con 48.51 de descuento por 19.98 GBP (original: 38.8 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51XHLcpoJNL._SL200_.jpg)](https://www.amazon.com/dp/B07JLS3ZTC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51XHLcpoJNL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07JLS3ZTC/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07JLS3ZTC/?tag=redken08-20)
 

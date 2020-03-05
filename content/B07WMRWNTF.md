@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en GODNECE Bausteine Classic  7692 Teile Kr'
-date: 2020-03-04 02:54:54
+date: 2020-03-05 10:37:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/514e4hjqEPL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514e4hjqEPL._AC_._SL200_.jpg' ]
 comments: true

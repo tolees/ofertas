@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.02 % en INTEY Aspirador de Ventanas  Limpiacrist'
-date: 2020-02-27 18:50:42
+date: 2020-03-05 12:49:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xS3SpXQ-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xS3SpXQ-L._AC_._SL200_.jpg' ]
 comments: true
