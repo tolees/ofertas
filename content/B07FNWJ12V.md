@@ -14,10 +14,10 @@ comparePrice: 54.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75241 Star Wars Echo Base Defense incl. Mini Imperial AT-AT Walker from Episode 5 The Empire Strikes Back Target Shooting Set](https://www.amazon.com/dp/B07FNWJ12V/?tag=redken08-20) a 38.95 GBP (original: 54.99 GBP) (29.17 %  de descuento) en el siguiente enlace!
+Está [LEGO 75241 Star Wars Echo Base Defense incl. Mini Imperial AT-AT Walker from Episode 5 The Empire Strikes Back Target Shooting Set](https://www.amazon.com/dp/B07FNWJ12V/?tag=redken08-20) con 29.17 de descuento por 38.95 GBP (original: 54.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51gxZl-GEtL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ12V/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNWJ12V/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FNWJ12V/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

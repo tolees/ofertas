@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lenovo 81MT001SSP  Ordenador Portátil  L al 27.82 % de descuento'
-date: 2020-02-28 13:28:34
+title: 'Lenovo 81MT001SSP  Ordenador Portátil  L al 29.37 % de descuento'
+date: 2020-03-05 05:43:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+tPPC6N4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+tPPC6N4L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PZQHNHF
 description:
-actualPrice: 274.28 EUR
+actualPrice: 268.4 EUR
 comparePrice: 379.99 EUR
 inStock: true
 ---
 
-Está [Lenovo 81MT001SSP  Ordenador Portátil  Linux  Tamaño Único  Multicolor](https://www.amazon.com/dp/B07PZQHNHF/?tag=redken08-20) con 27.82 de descuento por 274.28 EUR (original: 379.99 EUR) en el siguiente enlace!
+Está [Lenovo 81MT001SSP  Ordenador Portátil  Linux  Tamaño Único  Multicolor](https://www.amazon.com/dp/B07PZQHNHF/?tag=redken08-20) con 29.37 de descuento por 268.4 EUR (original: 379.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31+tPPC6N4L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07PZQHNHF/?tag=redken08-20)
 

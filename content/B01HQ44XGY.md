@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Donna Karan DKNY Be Tempted Eau de Perfu al 57.50 % de descuento'
-date: 2020-02-18 09:31:57
+title: 'Donna Karan DKNY Be Tempted Eau de Perfu al 57.94 % de descuento'
+date: 2020-03-04 22:22:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41klcBx18nL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41klcBx18nL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01HQ44XGY
 description:
-actualPrice: 28.9 EUR
+actualPrice: 28.6 EUR
 comparePrice: 68.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Donna Karan DKNY Be Tempted Eau de Perfumé - 50 ml](https://www.amazon.com/dp/B01HQ44XGY/?tag=redken08-20) a 28.9 EUR (original: 68.0 EUR) (57.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Donna Karan DKNY Be Tempted Eau de Perfumé - 50 ml](https://www.amazon.com/dp/B01HQ44XGY/?tag=redken08-20) a 28.6 EUR (original: 68.0 EUR) (57.94 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41klcBx18nL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01HQ44XGY/?tag=redken08-20)
 

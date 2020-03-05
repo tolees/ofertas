@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.34 % en Etekcity Masajeador de Espalda Masajeado'
-date: 2020-02-25 07:01:34
+date: 2020-03-04 22:00:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/413yJ3eCCLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413yJ3eCCLL._AC_._SL200_.jpg' ]
 comments: true

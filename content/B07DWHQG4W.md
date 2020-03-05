@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neo Geo Mini - Gamepad Mini  Negro  Neo  al 40.15 % de descuento'
-date: 2019/11/18 23:38:56 +0000
+date: 2020-03-05 06:03:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qfQ0DM9XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qfQ0DM9XL._SL200_.jpg' ]
 comments: true
