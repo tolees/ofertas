@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Balay 3VK301BC - Lavavajillas compacto d al 26.65 % de descuento'
-date: 2020-02-10 21:02:41
+date: 2020-03-05 08:34:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O5YW-jrlL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O5YW-jrlL._AC_._SL200_.jpg' ]
 comments: true

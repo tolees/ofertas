@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Smart Battery Case  for iPhone XR  al 61.07 % de descuento'
-date: 2020-02-22 16:28:09
+date: 2020-03-05 08:05:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/21NU1Qp1XjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21NU1Qp1XjL._AC_._SL200_.jpg' ]
 comments: true

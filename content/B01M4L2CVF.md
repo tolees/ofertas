@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.67 % en Estuche de Maquillaje Kemier Studio Rued'
-date: 2020-03-02 15:02:31
+date: 2020-03-05 08:21:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NZMAWSK0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NZMAWSK0L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.75 % en Reloj inteligente BOZLUN para mujeres co'
-date: 2020-02-18 09:32:37
+date: 2020-03-05 09:36:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xz4tgHquL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xz4tgHquL._AC_._SL200_.jpg' ]
 comments: true

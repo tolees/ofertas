@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS VP278H TFT 27" Negro Full HD Matt - al 33.86 % de descuento'
-date: 2020-03-03 20:40:44
+date: 2020-03-05 08:59:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DOawISmxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DOawISmxL._AC_._SL200_.jpg' ]
 comments: true

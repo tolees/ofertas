@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.67 % en Rotulador STABILO Pen 68 - Estuche premi'
-date: 2020-01-28 17:24:17
+date: 2020-03-05 08:14:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NgiUVm7sL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NgiUVm7sL._AC_._SL200_.jpg' ]
 comments: true
