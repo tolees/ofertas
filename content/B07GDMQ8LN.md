@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.42 % en Rimmel London Scandaleyes Wow Wings Másc'
-date: 2020-01-31 23:58:32
+date: 2020-03-06 09:03:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K8CNzj-5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K8CNzj-5L._SL200_.jpg' ]
 comments: true

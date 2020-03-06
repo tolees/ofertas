@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Medisana HP-40E Almohadilla eléctrica    al 39.33 % de descuento'
-date: 2020-02-26 07:20:33
+title: 'Medisana HP-40E Almohadilla eléctrica    al 45.40 % de descuento'
+date: 2020-03-06 07:47:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51g6K3kNr7L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51g6K3kNr7L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00PS9GIZE
 description:
-actualPrice: 19.99 EUR
+actualPrice: 17.99 EUR
 comparePrice: 32.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Medisana HP-40E Almohadilla eléctrica   super polar  3 ajustes de temperatura  protección contra sobrecalentamiento  desconexión automática  lavable  para espalda  cuello  hombros  2ª generación](https://www.amazon.com/dp/B00PS9GIZE/?tag=redken08-20) a 19.99 EUR (original: 32.95 EUR) (39.33 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Medisana HP-40E Almohadilla eléctrica   super polar  3 ajustes de temperatura  protección contra sobrecalentamiento  desconexión automática  lavable  para espalda  cuello  hombros  2ª generación](https://www.amazon.com/dp/B00PS9GIZE/?tag=redken08-20) a 17.99 EUR (original: 32.95 EUR) (45.40 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51g6K3kNr7L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00PS9GIZE/?tag=redken08-20)
 

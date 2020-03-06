@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VLIKE Estación meteorológica con 1PCS se al 37.50 % de descuento'
-date: 2020-03-04 16:20:58
+date: 2020-03-06 09:14:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tc-AL9waL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tc-AL9waL._AC_._SL200_.jpg' ]
 comments: true
