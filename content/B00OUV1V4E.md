@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Sourcil Precision Lápiz de ceja al 58.53 % de descuento'
-date: 2020-02-19 17:19:59
+date: 2020-03-06 09:40:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/314N0Tov2gL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/314N0Tov2gL._AC_._SL200_.jpg' ]
 comments: true

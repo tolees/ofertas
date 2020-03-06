@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zwilling TWIN POLLUX - Bloque para 5 cuc al 65.64 % de descuento'
-date: 2020-02-25 17:52:48
+date: 2020-03-06 11:15:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KBrHD2gYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KBrHD2gYL._AC_._SL200_.jpg' ]
 comments: true

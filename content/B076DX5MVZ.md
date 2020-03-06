@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.02 % en Bolsas de Vacio 3 Rolls 20x500cm con Caj'
-date: 2020-03-04 18:05:17
+date: 2020-03-06 10:58:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51545l8CsPL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51545l8CsPL._AC_._SL200_.jpg' ]
 comments: true

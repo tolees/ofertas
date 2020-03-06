@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel Core i3-8100 Retail -  1151/Quad C al 44.26 % de descuento'
-date: 2020-03-04 11:48:19
+date: 2020-03-06 10:20:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-DDKwErFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-DDKwErFL._AC_._SL200_.jpg' ]
 comments: true

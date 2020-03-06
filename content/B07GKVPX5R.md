@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FITTOO Mallas Pantalones Deportivos Legg al 40.03 % de descuento'
-date: 2020-01-14 10:43:30
+date: 2020-03-06 10:53:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bV5nxkomL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bV5nxkomL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.47 % en Tefal Expertise - Sartén de aluminio de '
-date: 2020-01-30 09:20:12
+date: 2020-03-06 10:43:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+89GPCxsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+89GPCxsL._AC_._SL200_.jpg' ]
 comments: true
