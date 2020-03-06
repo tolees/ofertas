@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lámpara Escritorio LED  OMERIL Luz Lectu al 44.02 % de descuento'
-date: 2020-03-04 23:02:40
+date: 2020-03-05 23:35:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31a4gv5uxjL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31a4gv5uxjL._AC_._SL200_.jpg' ]
 comments: true

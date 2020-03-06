@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Tekken 7 - Standard Edition al 71.50 % de descuento'
-date: 2020-02-28 05:02:04
+title: 'Tekken 7 - Standard Edition al 73.00 % de descuento'
+date: 2020-03-06 06:08:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51q9O5q3xdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51q9O5q3xdL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01IBCJUGI
 description:
-actualPrice: 19.95 EUR
+actualPrice: 18.9 EUR
 comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [Tekken 7 - Standard Edition](https://www.amazon.com/dp/B01IBCJUGI/?tag=redken08-20) con 71.50 de descuento por 19.95 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [Tekken 7 - Standard Edition](https://www.amazon.com/dp/B01IBCJUGI/?tag=redken08-20) con 73.00 de descuento por 18.9 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51q9O5q3xdL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01IBCJUGI/?tag=redken08-20)
 
