@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech H390 Auriculares con Cable  Son al 35.54 % de descuento'
-date: 2020-03-02 14:36:55
+date: 2020-03-06 19:36:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41il5PD-6AL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41il5PD-6AL._AC_._SL200_.jpg' ]
 comments: true

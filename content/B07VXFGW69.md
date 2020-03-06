@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 28.09 % en Dusk Diver - Day One Edition pour PS4'
-date: 2019/12/11 23:34:07 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ju-7poajL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ju-7poajL._SL200_.jpg' ]
+title: 'Descuento del 46.01 % en Dusk Diver - Day One Edition pour PS4'
+date: 2020-03-06 19:02:49
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Ju-7poajL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Ju-7poajL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07VXFGW69
 description:
-actualPrice: 35.95 EUR
+actualPrice: 26.99 EUR
 comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [Dusk Diver - Day One Edition pour PS4](https://www.amazon.com/dp/B07VXFGW69/?tag=redken08-20) con un 28.09 % de descuento con precio de oferta de 35.95 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Dusk Diver - Day One Edition pour PS4](https://www.amazon.com/dp/B07VXFGW69/?tag=redken08-20) con un 46.01 % de descuento con precio de oferta de 26.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51Ju-7poajL._SL200_.jpg)](https://www.amazon.com/dp/B07VXFGW69/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51Ju-7poajL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07VXFGW69/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07VXFGW69/?tag=redken08-20)
 

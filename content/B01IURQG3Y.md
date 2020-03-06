@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Lindor Lata de Bombones de Chocola al 51.56 % de descuento'
-date: 2020-02-26 21:15:17
+date: 2020-03-06 18:45:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CMVk00QML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CMVk00QML._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Clasico Risk  Versión Espa al 28.04 % de descuento'
-date: 2020-03-02 17:05:03
+date: 2020-03-06 16:55:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/519AzRJPoyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519AzRJPoyL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TEKKIWEAR. DMT185WHBRW. Smartwatch Depor al 71.23 % de descuento'
-date: 2020-03-02 20:35:28
+date: 2020-03-06 20:21:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51H4bhoXUdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51H4bhoXUdL._AC_._SL200_.jpg' ]
 comments: true

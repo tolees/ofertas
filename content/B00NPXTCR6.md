@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.46 % en Tommy Hilfiger Tailored Core Twill Class'
-date: 2019/12/05 19:52:23 +0000
+date: 2020-03-06 18:01:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nmdMFEjGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nmdMFEjGL._SL200_.jpg' ]
 comments: true
