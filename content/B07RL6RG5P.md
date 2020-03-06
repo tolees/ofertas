@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.86 % en FREDI Cámara IP Exterior Cámara de Vigil'
-date: 2020-02-25 09:47:00
+date: 2020-03-06 15:54:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DBFAOH2kL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DBFAOH2kL._AC_._SL200_.jpg' ]
 comments: true

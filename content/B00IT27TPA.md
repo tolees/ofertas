@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carmex COS 003 Bálsamo labial - 1 tubo al 42.50 % de descuento'
-date: 2020-03-02 22:59:26
+date: 2020-03-06 16:16:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/414jYymvq+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414jYymvq+L._AC_._SL200_.jpg' ]
 comments: true
