@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taladro Percutor  LOMVUM 810W Taladro El al 76.88 % de descuento'
-date: 2020-02-07 14:22:42
+date: 2020-03-06 11:56:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BeRTsqTcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BeRTsqTcL._AC_._SL200_.jpg' ]
 comments: true

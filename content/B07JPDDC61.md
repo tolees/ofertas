@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.00 % en DAM TEKKIWEAR. DMZ009BK. Pulsera Intelig'
-date: 2020-03-02 16:01:31
+date: 2020-03-06 13:35:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ROjBBxDbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ROjBBxDbL._AC_._SL200_.jpg' ]
 comments: true

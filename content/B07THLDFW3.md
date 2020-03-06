@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iWalker Guantes Gimnasios de Crossfit pa al 43.50 % de descuento'
-date: 2020-03-04 22:50:33
+date: 2020-03-06 14:24:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uv+CFIwXL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uv+CFIwXL._AC_._SL200_.jpg' ]
 comments: true
