@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Angel Schlesser - Eau de cologne bergamo al 60.76 % de descuento'
-date: 2020-03-06 01:22:24
-thumbnailImage: 'https://m.media-amazon.com/images/I/41LOLX0oYOL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41LOLX0oYOL._AC_._SL200_.jpg' ]
+date: 2020-03-07 07:15:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/31BE-OlJpQL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31BE-OlJpQL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Angel Schlesser - Eau de cologne bergamota 150 ml](https://www.amazon.com/dp/B01H5OQQ3S/?tag=redken08-20) a 14.95 EUR (original: 38.1 EUR) (60.76 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41LOLX0oYOL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01H5OQQ3S/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31BE-OlJpQL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01H5OQQ3S/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01H5OQQ3S/?tag=redken08-20)
 

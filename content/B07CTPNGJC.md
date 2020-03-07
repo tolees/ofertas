@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alminatur Papilla de Multicereales con P al 45.83 % de descuento'
-date: 2020-01-26 18:36:07
+date: 2020-03-06 23:39:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bZ9QmIJbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bZ9QmIJbL._AC_._SL200_.jpg' ]
 comments: true

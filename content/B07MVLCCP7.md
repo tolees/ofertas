@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.05 % en Gant D1. The Quilted Windcheater Chaquet'
-date: 2020-03-05 00:37:49
+date: 2020-03-07 00:16:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+WufA8b0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+WufA8b0L._AC_._SL200_.jpg' ]
 comments: true

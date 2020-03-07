@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch MUC88B68ES AutoCook - Olla exprés  al 36.79 % de descuento'
-date: 2020-03-05 12:03:38
+date: 2020-03-07 11:05:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cMZBqTLhL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cMZBqTLhL._AC_._SL200_.jpg' ]
 comments: true

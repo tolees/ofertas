@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Hasbro Gaming B0408100 - Kroko Doc Kinde al 40.02 % de descuento'
-date: 2020-03-04 18:25:17
+title: 'Hasbro Gaming B0408100 - Kroko Doc Kinde al 44.02 % de descuento'
+date: 2020-03-07 02:31:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/61w7XQGTIbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61w7XQGTIbL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00OTKOKFS
 description:
-actualPrice: 14.99 EUR
+actualPrice: 13.99 EUR
 comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [Hasbro Gaming B0408100 - Kroko Doc Kinderspiel](https://www.amazon.com/dp/B00OTKOKFS/?tag=redken08-20) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [Hasbro Gaming B0408100 - Kroko Doc Kinderspiel](https://www.amazon.com/dp/B00OTKOKFS/?tag=redken08-20) con 44.02 de descuento por 13.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61w7XQGTIbL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00OTKOKFS/?tag=redken08-20)
 

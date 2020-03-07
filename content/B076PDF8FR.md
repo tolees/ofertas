@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Rollos Gofrados Set de 2 Rollos  al 53.09 % de descuento'
-date: 2020-03-04 20:37:25
+date: 2020-03-07 11:02:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51P5lyBGa-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51P5lyBGa-L._AC_._SL200_.jpg' ]
 comments: true

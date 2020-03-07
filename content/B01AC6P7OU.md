@@ -14,10 +14,10 @@ comparePrice: 18.4 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Men s Park VI Park VI T-shirt  Black  Black/White   M](https://www.amazon.com/dp/B01AC6P7OU/?tag=redken08-20) a 13.45 GBP (original: 18.4 GBP) (26.90 %  de descuento) en el siguiente enlace!
+Está [Nike Men s Park VI Park VI T-shirt  Black  Black/White   M](https://www.amazon.com/dp/B01AC6P7OU/?tag=redken08-20) con 26.90 de descuento por 13.45 GBP (original: 18.4 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Jj1MhXhaL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01AC6P7OU/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01AC6P7OU/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01AC6P7OU/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

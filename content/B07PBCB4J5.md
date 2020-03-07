@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-XB700 - Auriculares inalámbricos al 34.51 % de descuento'
-date: 2020-02-01 20:36:12
+date: 2020-03-07 09:32:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Frsba5qeL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Frsba5qeL._AC_._SL200_.jpg' ]
 comments: true

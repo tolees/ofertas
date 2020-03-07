@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.00 % en Cámara Yuntab Warrior G1S de 32 GB para '
-date: 2020-03-04 15:49:30
+date: 2020-03-07 12:35:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BGbjn9nZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BGbjn9nZL._AC_._SL200_.jpg' ]
 comments: true

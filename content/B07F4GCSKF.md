@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Maybelline New York - Superstay Matte In al 34.93 % de descuento'
-date: 2020-01-02 11:38:13
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Btf8wFZAL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2Btf8wFZAL._SL200_.jpg' ]
+title: 'Maybelline New York - Superstay Matte In al 40.94 % de descuento'
+date: 2020-03-07 13:33:10
+thumbnailImage: 'https://m.media-amazon.com/images/I/31+tf8wFZAL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31+tf8wFZAL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07F4GCSKF
 description:
-actualPrice: 6.5 EUR
+actualPrice: 5.9 EUR
 comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [Maybelline New York - Superstay Matte Ink City Edition  Pintalabios  Tono  N ° 115 Founder](https://www.amazon.com/dp/B07F4GCSKF/?tag=redken08-20) con 34.93 de descuento por 6.5 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [Maybelline New York - Superstay Matte Ink City Edition  Pintalabios  Tono  N ° 115 Founder](https://www.amazon.com/dp/B07F4GCSKF/?tag=redken08-20) con 40.94 de descuento por 5.9 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31%2Btf8wFZAL._SL200_.jpg)](https://www.amazon.com/dp/B07F4GCSKF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31+tf8wFZAL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07F4GCSKF/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07F4GCSKF/?tag=redken08-20)
 

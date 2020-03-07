@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Intel E10GSFPSR SFP+ 10300Mbit/s 850nm n al 70.58 % de descuento'
-date: 2020-03-04 11:48:24
+title: 'Intel E10GSFPSR SFP+ 10300Mbit/s 850nm n al 70.31 % de descuento'
+date: 2020-03-07 02:21:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wHu5HfGaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wHu5HfGaL._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B002NOTU8O
 description:
 actualPrice: 25.0 GBP
-comparePrice: 84.98 GBP
+comparePrice: 84.2 GBP
 inStock: true
 ---
 
-Está [Intel E10GSFPSR SFP+ 10300Mbit/s 850nm network transceiver module - network transceiver modules  SFP+  LC  SR  0-70 °C ](https://www.amazon.com/dp/B002NOTU8O/?tag=redken08-20) con 70.58 de descuento por 25.0 GBP (original: 84.98 GBP) en el siguiente enlace!
+Está [Intel E10GSFPSR SFP+ 10300Mbit/s 850nm network transceiver module - network transceiver modules  SFP+  LC  SR  0-70 °C ](https://www.amazon.com/dp/B002NOTU8O/?tag=redken08-20) con 70.31 de descuento por 25.0 GBP (original: 84.2 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41wHu5HfGaL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B002NOTU8O/?tag=redken08-20)
 

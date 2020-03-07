@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.59 % en Auriculares Bluetooth  Syllable S101 Aur'
-date: 2020-02-24 08:47:12
+date: 2020-03-07 12:31:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/411ieLc0q1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411ieLc0q1L._AC_._SL200_.jpg' ]
 comments: true
