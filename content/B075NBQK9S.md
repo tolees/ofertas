@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trangoworld Bern Chaqueta  Hombre  Gris  al 54.12 % de descuento'
-date: 2020-02-25 14:55:06
+date: 2020-03-07 15:03:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Kp2WBAWVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Kp2WBAWVL._AC_._SL200_.jpg' ]
 comments: true

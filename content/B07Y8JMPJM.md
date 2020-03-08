@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION Ultrafino S6445 - MD61389 - Orden al 33.33 % de descuento'
-date: 2020-03-06 19:30:16
+date: 2020-03-07 20:12:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41R34kp6KHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41R34kp6KHL._AC_._SL200_.jpg' ]
 comments: true

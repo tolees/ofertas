@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pioneer SE-MJ553BT - Auriculares inalámb al 41.42 % de descuento'
-date: 2020-02-27 14:42:25
+date: 2020-03-08 00:49:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/417yrjELbyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417yrjELbyL._AC_._SL200_.jpg' ]
 comments: true

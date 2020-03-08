@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Victure AC700 Cámara Deportiva 4K Wi-Fi  al 37.50 % de descuento'
-date: 2020-03-06 19:16:11
+date: 2020-03-07 19:32:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51j6L-4h6BL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51j6L-4h6BL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 48.51 % en Playmobil Ghostbusters 70173 Collection '
-date: 2020-03-06 18:34:05
+title: 'Descuento del 48.22 % en Playmobil Ghostbusters 70173 Collection '
+date: 2020-03-08 02:30:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XHLcpoJNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XHLcpoJNL._AC_._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07JLS3ZTC
 description:
 actualPrice: 19.98 GBP
-comparePrice: 38.8 GBP
+comparePrice: 38.59 GBP
 inStock: true
 ---
 
-Tienes [Playmobil Ghostbusters 70173 Collection Figure E. Spengler for Children Ages 6+](https://www.amazon.com/dp/B07JLS3ZTC/?tag=redken08-20) con un 48.51 % de descuento con precio de oferta de 19.98 GBP (original: 38.8 GBP) en el siguiente enlace!
+Tienes [Playmobil Ghostbusters 70173 Collection Figure E. Spengler for Children Ages 6+](https://www.amazon.com/dp/B07JLS3ZTC/?tag=redken08-20) con un 48.22 % de descuento con precio de oferta de 19.98 GBP (original: 38.59 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51XHLcpoJNL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07JLS3ZTC/?tag=redken08-20)
 

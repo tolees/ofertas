@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.07 % en Auriculares abiertos Beats EP - Blanco'
-date: 2020-03-05 17:42:55
+date: 2020-03-07 20:21:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/4165TLzQjEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4165TLzQjEL._AC_._SL200_.jpg' ]
 comments: true

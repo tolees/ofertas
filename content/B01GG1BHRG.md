@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cara Splash Desafio - Hasbro Gaming  Has al 41.43 % de descuento'
-date: 2020-03-06 13:05:48
+date: 2020-03-07 17:33:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51drQKEE6JL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51drQKEE6JL._AC_._SL200_.jpg' ]
 comments: true

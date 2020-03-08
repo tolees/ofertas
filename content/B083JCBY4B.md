@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXX Technik Bausteine Bulldozer Spielzeu al 50.00 % de descuento'
-date: 2020-03-06 10:37:19
+date: 2020-03-07 18:39:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OlQPsWooL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OlQPsWooL._AC_._SL200_.jpg' ]
 comments: true
