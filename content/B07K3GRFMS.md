@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '505 Games Control PlayStation 4  Edición al 30.34 % de descuento'
-date: 2020-03-07 08:21:33
+title: '505 Games Control PlayStation 4  Edición al 43.11 % de descuento'
+date: 2020-03-08 19:53:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Bl507JvdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Bl507JvdL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07K3GRFMS
 description:
-actualPrice: 42.85 EUR
+actualPrice: 34.99 EUR
 comparePrice: 61.51 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [505 Games Control PlayStation 4  Edición Estándar](https://www.amazon.com/dp/B07K3GRFMS/?tag=redken08-20) a 42.85 EUR (original: 61.51 EUR) (30.34 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [505 Games Control PlayStation 4  Edición Estándar](https://www.amazon.com/dp/B07K3GRFMS/?tag=redken08-20) a 34.99 EUR (original: 61.51 EUR) (43.11 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Bl507JvdL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07K3GRFMS/?tag=redken08-20)
 

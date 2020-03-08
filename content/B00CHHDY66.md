@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MK270 Combo Teclado y Ratón ina al 32.27 % de descuento'
-date: 2020-03-04 20:33:10
+date: 2020-03-08 19:44:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KmnB2o0YL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KmnB2o0YL._AC_._SL200_.jpg' ]
 comments: true

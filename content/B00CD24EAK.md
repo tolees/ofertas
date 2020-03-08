@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY FMHT0-96230 - Alicate pelacables al 33.26 % de descuento'
-date: 2020-03-07 16:56:09
+date: 2020-03-08 20:10:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rng7pzw8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rng7pzw8L._AC_._SL200_.jpg' ]
 comments: true
