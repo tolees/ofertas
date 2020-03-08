@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.39 % en Puma Buzz Mochila  Unisex Adulto  Negro '
-date: 2020-03-07 15:44:28
+date: 2020-03-08 18:26:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KjH87jUcL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KjH87jUcL._AC_._SL200_.jpg' ]
 comments: true

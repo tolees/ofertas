@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Curren hombres reloj de cuarzo analógico al 40.15 % de descuento'
-date: 2020-03-06 11:35:22
+date: 2020-03-08 18:34:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f47XzrdPL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f47XzrdPL._AC_._SL200_.jpg' ]
 comments: true

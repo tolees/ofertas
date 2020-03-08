@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FITTOO Leggings Sin Costuras Corte de Ma al 48.60 % de descuento'
-date: 2020-01-27 16:45:53
+date: 2020-03-08 17:04:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bSMnvc7TL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bSMnvc7TL._AC_._SL200_.jpg' ]
 comments: true

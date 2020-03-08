@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.70 % en FITTOO Leggings Mallas Mujer Pantalones '
-date: 2020-01-27 16:45:36
+date: 2020-03-08 17:04:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/411dwL0U9UL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411dwL0U9UL._AC_._SL200_.jpg' ]
 comments: true
