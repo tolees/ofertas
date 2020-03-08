@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ideapad 330-15ARR - Ordenador Por al 30.46 % de descuento'
-date: 2020-03-06 13:18:54
+date: 2020-03-08 15:17:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yMrMfVaVL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yMrMfVaVL._AC_._SL200_.jpg' ]
 comments: true

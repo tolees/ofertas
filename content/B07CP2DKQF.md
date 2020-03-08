@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.66 % en Rocf Rossini Vintage Gafas de sol ovalad'
-date: 2020-02-28 12:28:18
+date: 2020-03-08 13:49:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jrL++ADrL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jrL++ADrL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGIANT Altavoz PC Barra de Sonido USB  al 38.90 % de descuento'
-date: 2020-03-04 14:54:48
+date: 2020-03-08 13:50:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hAjOO7jdL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hAjOO7jdL._AC_._SL200_.jpg' ]
 comments: true

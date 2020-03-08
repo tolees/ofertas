@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'J.Rosée  Pendientes para Mujer Plata de  al 80.05 % de descuento'
-date: 2020-03-06 19:32:11
+date: 2020-03-08 13:32:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+VggsLlYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+VggsLlYL._AC_._SL200_.jpg' ]
 comments: true
