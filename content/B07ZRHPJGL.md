@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NUBILY Mochila para Portátil Hombre 17.3 al 69.13 % de descuento'
-date: 2020-02-27 10:22:47
+date: 2020-03-08 09:03:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KcoWvMb3L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KcoWvMb3L._AC_._SL200_.jpg' ]
 comments: true
