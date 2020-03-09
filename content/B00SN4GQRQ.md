@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.71 % en Chicco - Calienta biberón de casa y viaj'
-date: 2020-03-05 22:11:18
+date: 2020-03-09 10:08:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rltfA3SbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rltfA3SbL._AC_._SL200_.jpg' ]
 comments: true

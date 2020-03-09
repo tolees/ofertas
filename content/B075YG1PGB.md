@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEVERIN Hervidor de Agua  1 L  2.200 W a al 37.15 % de descuento'
-date: 2020-02-22 22:18:22
+date: 2020-03-09 09:30:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eagN6AKpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eagN6AKpL._AC_._SL200_.jpg' ]
 comments: true

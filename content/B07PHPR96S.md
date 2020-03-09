@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.02 % en SweetLF Afeitadora Electrica Hombre Máqu'
-date: 2020-03-05 18:31:31
+date: 2020-03-09 09:03:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KueMKD-jL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KueMKD-jL._AC_._SL200_.jpg' ]
 comments: true
