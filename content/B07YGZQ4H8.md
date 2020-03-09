@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston Canvas Select Plus Tarjeta micr al 30.79 % de descuento'
-date: 2020-03-07 16:54:32
+date: 2020-03-09 14:39:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41H0dBfajxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41H0dBfajxL._AC_._SL200_.jpg' ]
 comments: true

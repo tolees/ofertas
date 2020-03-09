@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.50 % en Prensa Hamburguesas Rellenas con 60 Pape'
-date: 2020-03-07 09:32:51
+date: 2020-03-09 14:32:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uJlwvY-eL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uJlwvY-eL._AC_._SL200_.jpg' ]
 comments: true

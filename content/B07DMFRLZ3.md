@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Avent SCD301/01 - Set de recién  al 52.51 % de descuento'
-date: 2020-03-07 15:34:23
+date: 2020-03-09 15:03:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ku+dz3L6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ku+dz3L6L._AC_._SL200_.jpg' ]
 comments: true
