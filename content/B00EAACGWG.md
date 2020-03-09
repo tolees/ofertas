@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.15 % en Rowenta pelo Optiliss Elite SF3122 Planc'
-date: 2020-02-29 10:23:57
+date: 2020-03-09 18:47:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31U2-Qx3yGL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31U2-Qx3yGL._AC_._SL200_.jpg' ]
 comments: true

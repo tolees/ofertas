@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Razer Huntsman - Teclado mecánico gaming al 43.81 % de descuento'
-date: 2019/11/30 11:34:50 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pzEbffs3L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pzEbffs3L._SL200_.jpg' ]
+title: 'Razer Huntsman  Teclado con Switches Opt al 43.75 % de descuento'
+date: 2020-03-09 18:31:07
+thumbnailImage: 'https://m.media-amazon.com/images/I/41pzEbffs3L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41pzEbffs3L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07CZGJCQH
 description:
-actualPrice: 89.9 EUR
+actualPrice: 89.99 EUR
 comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Está [Razer Huntsman - Teclado mecánico gaming con switches optomecánicos  barra estabilizadora de teclas  memoria híbrida local  RGB Chroma  [QWERTY Español]](https://www.amazon.com/dp/B07CZGJCQH/?tag=redken08-20) con 43.81 de descuento por 89.9 EUR (original: 159.99 EUR) en el siguiente enlace!
+Está [Razer Huntsman  Teclado con Switches Opto Mecánicos Mejorados  1  Standard](https://www.amazon.com/dp/B07CZGJCQH/?tag=redken08-20) con 43.75 de descuento por 89.99 EUR (original: 159.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41pzEbffs3L._SL200_.jpg)](https://www.amazon.com/dp/B07CZGJCQH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41pzEbffs3L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CZGJCQH/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07CZGJCQH/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Impresora Multifuncional Canon PIXMA MX4 al 42.30 % de descuento'
-date: 2020-02-28 15:56:50
+date: 2020-03-09 18:07:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jlTQ7bdrL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jlTQ7bdrL._AC_._SL200_.jpg' ]
 comments: true

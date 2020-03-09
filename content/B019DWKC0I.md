@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en Russell Hobbs NutriBoost - Batidora de V'
-date: 2020-03-08 06:13:26
+date: 2020-03-09 15:46:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QlKBnwwEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QlKBnwwEL._AC_._SL200_.jpg' ]
 comments: true

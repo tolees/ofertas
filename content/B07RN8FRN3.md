@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.00 % en Funko 44418 POP Holiday-Santa Claus Coll'
-date: 2020-03-07 18:20:55
+date: 2020-03-09 18:23:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg' ]
 comments: true

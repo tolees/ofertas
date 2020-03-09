@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.92 % en Café FORTALEZA - Cápsulas de Café Cortad'
-date: 2020-03-07 17:46:21
+date: 2020-03-09 15:38:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DDShdvQ+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DDShdvQ+L._AC_._SL200_.jpg' ]
 comments: true

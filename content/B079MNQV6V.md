@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 9457 Hausmeister mit Kiosk al 31.13 % de descuento'
-date: 2020-03-08 10:39:06
+title: 'Playmobil 9457 Hausmeister mit Kiosk al 50.05 % de descuento'
+date: 2020-03-09 18:33:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41v9KtanoTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41v9KtanoTL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079MNQV6V
 description:
-actualPrice: 6.88 EUR
+actualPrice: 4.99 EUR
 comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 9457 Hausmeister mit Kiosk](https://www.amazon.com/dp/B079MNQV6V/?tag=redken08-20) con 31.13 de descuento por 6.88 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [Playmobil 9457 Hausmeister mit Kiosk](https://www.amazon.com/dp/B079MNQV6V/?tag=redken08-20) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41v9KtanoTL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B079MNQV6V/?tag=redken08-20)
 

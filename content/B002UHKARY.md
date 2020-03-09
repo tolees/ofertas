@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.24 % en Bosch X-Line - Maletín de 34 unidades pa'
-date: 2020-03-08 09:36:57
+date: 2020-03-09 19:05:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jqE45JNnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jqE45JNnL._AC_._SL200_.jpg' ]
 comments: true
