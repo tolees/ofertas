@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.97 % en Beats by Dr. Dre EP - Auriculares abiert'
-date: 2020-03-07 11:30:01
+date: 2020-03-09 11:18:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31muhuGtpYL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31muhuGtpYL._AC_._SL200_.jpg' ]
 comments: true

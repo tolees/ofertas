@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.29 % en Bosch TAS1003 TASSIMO Happy Cafetera de '
-date: 2020-03-03 17:15:26
+date: 2020-03-09 13:05:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Aj+VYj0+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Aj+VYj0+L._AC_._SL200_.jpg' ]
 comments: true

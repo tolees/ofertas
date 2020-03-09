@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Bluetooth Deportivos  Syllab al 63.78 % de descuento'
-date: 2020-03-07 13:20:45
+date: 2020-03-09 11:08:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XO19LOJLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XO19LOJLL._AC_._SL200_.jpg' ]
 comments: true
