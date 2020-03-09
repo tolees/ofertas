@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Impresora de inyección de tinta Canon PI al 28.95 % de descuento'
-date: 2020-03-06 01:36:19
+date: 2020-03-08 22:24:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qjEMlIAFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qjEMlIAFL._AC_._SL200_.jpg' ]
 comments: true

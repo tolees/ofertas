@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.98 % en Funko-39454 Pop Town Los Cazafantasmas P'
-date: 2020-03-08 02:35:56
+date: 2020-03-09 02:41:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GOi5tdJZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GOi5tdJZL._AC_._SL200_.jpg' ]
 comments: true

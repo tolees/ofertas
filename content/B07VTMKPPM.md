@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bqeel Mini PC 【4GB+64GB】 Procesador Inte al 30.00 % de descuento'
-date: 2020-02-26 20:07:25
+date: 2020-03-09 02:34:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Z3tmRJFCL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Z3tmRJFCL._AC_._SL200_.jpg' ]
 comments: true

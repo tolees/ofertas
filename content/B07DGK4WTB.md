@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun 9 en 1 MGK3085 - Corta Barbas homb al 36.38 % de descuento'
-date: 2020-03-03 14:04:13
+date: 2020-03-08 22:35:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51HS3Nx-DWL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51HS3Nx-DWL._AC_._SL200_.jpg' ]
 comments: true
