@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.14 % en Bosch Home and Garden 2607017195 Bosch V'
-date: 2020-03-09 08:11:30
+date: 2020-03-10 08:39:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kw2MgC4BL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kw2MgC4BL._AC_._SL200_.jpg' ]
 comments: true

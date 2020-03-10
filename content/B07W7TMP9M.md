@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60256 City Rennwagen-Duell Spielzeu al 25.36 % de descuento'
-date: 2020-02-18 09:13:00
+title: 'LEGO 60256 Rennwagen-Duell City Spielzeu al 25.36 % de descuento'
+date: 2020-03-10 09:50:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IVHgrxqOL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IVHgrxqOL._AC_._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [LEGO 60256 City Rennwagen-Duell Spielzeug](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20) con 25.36 de descuento por 14.92 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [LEGO 60256 Rennwagen-Duell City Spielzeug mit 2 Rennfahrer-Minifiguren  Rallyefahrzeugen für Kinder ab 5 Jahren](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20) con 25.36 de descuento por 14.92 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51IVHgrxqOL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20)
 

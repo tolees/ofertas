@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.91 % en Philips Barbero MG3730/15 - Recortador d'
-date: 2020-03-07 20:05:25
+date: 2020-03-10 09:21:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kygZHhy0L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kygZHhy0L._AC_._SL200_.jpg' ]
 comments: true

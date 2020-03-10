@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 27.96 % en KESU Ultra Slim Disco Duro Externo Portá'
-date: 2020-01-22 13:18:25
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416iC6w7XgL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416iC6w7XgL._SL200_.jpg' ]
+date: 2020-03-10 08:23:17
+thumbnailImage: 'https://m.media-amazon.com/images/I/416iC6w7XgL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/416iC6w7XgL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [KESU Ultra Slim Disco Duro Externo Portátil 2.5" 500GB  USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  PS4  Color Negro ](https://www.amazon.com/dp/B07GKJMQ1N/?tag=redken08-20) con un 27.96 % de descuento con precio de oferta de 38.39 EUR (original: 53.29 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/416iC6w7XgL._SL200_.jpg)](https://www.amazon.com/dp/B07GKJMQ1N/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/416iC6w7XgL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07GKJMQ1N/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07GKJMQ1N/?tag=redken08-20)
 

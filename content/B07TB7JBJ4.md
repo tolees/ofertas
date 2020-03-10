@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.01 % en VicTsing Pack Teclado y Ratón Inalámbric'
-date: 2020-03-01 20:05:49
+date: 2020-03-10 08:23:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-Mw6TBVuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-Mw6TBVuL._AC_._SL200_.jpg' ]
 comments: true

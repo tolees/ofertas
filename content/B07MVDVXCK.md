@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.51 % en Lápiz Capacitivo con Estación de Carga m'
-date: 2020-03-05 10:10:58
+date: 2020-03-10 09:10:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41s0ivWSuxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41s0ivWSuxL._AC_._SL200_.jpg' ]
 comments: true

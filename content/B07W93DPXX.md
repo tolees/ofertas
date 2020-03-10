@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BESCHOI Mochilas Escolares Juveniles par al 33.35 % de descuento'
-date: 2020-03-04 14:55:58
+date: 2020-03-10 08:23:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41p7tiYGF8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41p7tiYGF8L._AC_._SL200_.jpg' ]
 comments: true
