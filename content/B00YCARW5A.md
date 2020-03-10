@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.47 % en Revlon RVDR5212E Hot air brush Caliente '
-date: 2020-03-09 09:15:38
+date: 2020-03-10 10:15:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hMWwilXyL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hMWwilXyL._AC_._SL200_.jpg' ]
 comments: true

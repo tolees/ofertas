@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.06 % en Casio Reloj Analógico para Unisex Adulto'
-date: 2020-02-11 09:54:23
+date: 2020-03-10 13:32:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-VJOFut4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-VJOFut4L._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.00 % en Houzetek Comedero Automático Gatos/Perro'
-date: 2020-03-08 20:10:34
+date: 2020-03-10 12:52:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/415g6A1Zz4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415g6A1Zz4L._AC_._SL200_.jpg' ]
 comments: true

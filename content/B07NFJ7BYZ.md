@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Reloj Analógico para Unisex Adulto al 53.06 % de descuento'
-date: 2020-02-20 10:05:08
+date: 2020-03-10 13:32:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Vr4ekN9tL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Vr4ekN9tL._AC_._SL200_.jpg' ]
 comments: true

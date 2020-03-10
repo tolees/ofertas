@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming B0408100 - Kroko Doc Kinde al 44.02 % de descuento'
-date: 2020-03-08 10:28:53
+date: 2020-03-10 10:33:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/61w7XQGTIbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61w7XQGTIbL._AC_._SL200_.jpg' ]
 comments: true

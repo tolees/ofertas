@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo HO232 Horno eléctrico de sobrem al 42.43 % de descuento'
-date: 2020-02-28 14:07:02
+date: 2020-03-10 11:05:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NcqslxvZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NcqslxvZL._AC_._SL200_.jpg' ]
 comments: true

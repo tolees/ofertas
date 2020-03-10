@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares abiertos Beats EP - Negro al 40.97 % de descuento'
-date: 2020-03-09 11:18:22
+date: 2020-03-10 11:34:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Bkn0R3ziL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Bkn0R3ziL._AC_._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en American Tourister Bon Air - Spinner Sma'
-date: 2020-03-04 13:04:32
+date: 2020-03-10 11:24:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YlPBfBaGL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YlPBfBaGL._AC_._SL200_.jpg' ]
 comments: true

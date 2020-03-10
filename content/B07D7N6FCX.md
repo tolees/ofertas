@@ -14,10 +14,10 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Newskill Thanatos Switch Brown - Teclado mecánico gaming  estructura metálica  efectos RGB   color negro](https://www.amazon.com/dp/B07D7N6FCX/?tag=redken08-20) a 39.95 EUR (original: 54.95 EUR) (27.30 %  de descuento) en el siguiente enlace!
+Está [Newskill Thanatos Switch Brown - Teclado mecánico gaming  estructura metálica  efectos RGB   color negro](https://www.amazon.com/dp/B07D7N6FCX/?tag=redken08-20) con 27.30 de descuento por 39.95 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fGt-nKubL._SL200_.jpg)](https://www.amazon.com/dp/B07D7N6FCX/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07D7N6FCX/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07D7N6FCX/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
