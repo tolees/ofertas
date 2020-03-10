@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DISK66267K Classic DC Costume  Boys al 67.01 % de descuento'
-date: 2020-03-09 10:23:35
+date: 2020-03-10 18:24:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wD1nNQ9FL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wD1nNQ9FL._AC_._SL200_.jpg' ]
 comments: true

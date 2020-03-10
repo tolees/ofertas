@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG OLED55B9ALEXA - Smart TV OLED 4K UHD  al 44.71 % de descuento'
-date: 2020-03-09 09:44:20
+date: 2020-03-10 19:07:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qmczrhOhL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qmczrhOhL._AC_._SL200_.jpg' ]
 comments: true

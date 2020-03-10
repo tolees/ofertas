@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Krups Dolce Gusto Infinissima KP1705 - C al 26.97 % de descuento'
-date: 2020-02-29 14:24:24
+title: ' al 26.97 % de descuento'
+date: 2020-03-10 19:31:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RSXEWdNuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RSXEWdNuL._AC_._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 89.0 EUR
 inStock: true
 ---
 
-Está [Krups Dolce Gusto Infinissima KP1705 - Cafetera de cápsulas  15 bares de presión  color rojo](https://www.amazon.com/dp/B07GJVY4D1/?tag=redken08-20) con 26.97 de descuento por 65.0 EUR (original: 89.0 EUR) en el siguiente enlace!
+Está [](https://www.amazon.com/dp/B07GJVY4D1/?tag=redken08-20) con 26.97 de descuento por 65.0 EUR (original: 89.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41RSXEWdNuL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07GJVY4D1/?tag=redken08-20)
 
