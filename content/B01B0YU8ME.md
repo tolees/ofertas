@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Purity - Hervidor de Agua  al 43.44 % de descuento'
-date: 2020-01-27 11:17:36
+date: 2020-03-10 16:52:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f0Pl6I97L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f0Pl6I97L._AC_._SL200_.jpg' ]
 comments: true

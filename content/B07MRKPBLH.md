@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en OMRON RS7 Intelli IT - Tensiómetro de mu'
-date: 2020-01-04 07:04:48
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ctf35vR-L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ctf35vR-L._SL200_.jpg' ]
+date: 2020-03-10 15:13:34
+thumbnailImage: 'https://m.media-amazon.com/images/I/31ctf35vR-L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31ctf35vR-L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [OMRON RS7 Intelli IT - Tensiómetro de muñeca con sensor de posición y conectividad Bluetooth para uso doméstico o externo  color negro](https://www.amazon.com/dp/B07MRKPBLH/?tag=redken08-20) con un 33.34 % de descuento con precio de oferta de 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31ctf35vR-L._SL200_.jpg)](https://www.amazon.com/dp/B07MRKPBLH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31ctf35vR-L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MRKPBLH/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07MRKPBLH/?tag=redken08-20)
 
