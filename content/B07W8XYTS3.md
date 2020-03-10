@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.09 % en LEGO 70431 - Der Leuchtturm der Dunkelhe'
-date: 2020-02-22 09:28:31
+title: 'Descuento del 26.27 % en LEGO 70431 - Der Leuchtturm der Dunkelhe'
+date: 2020-03-09 21:16:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51q-G-HZExL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51q-G-HZExL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07W8XYTS3
 description:
-actualPrice: 37.45 EUR
+actualPrice: 36.86 EUR
 comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 70431 - Der Leuchtturm der Dunkelheit  Hidden Side  Bauset](https://www.amazon.com/dp/B07W8XYTS3/?tag=redken08-20) con un 25.09 % de descuento con precio de oferta de 37.45 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [LEGO 70431 - Der Leuchtturm der Dunkelheit  Hidden Side  Bauset](https://www.amazon.com/dp/B07W8XYTS3/?tag=redken08-20) con un 26.27 % de descuento con precio de oferta de 36.86 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51q-G-HZExL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07W8XYTS3/?tag=redken08-20)
 

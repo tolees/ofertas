@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB22L - Altavoz inalámbrico por al 45.83 % de descuento'
-date: 2020-03-08 19:34:47
+date: 2020-03-09 20:31:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eyxvpC+dL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eyxvpC+dL._AC_._SL200_.jpg' ]
 comments: true

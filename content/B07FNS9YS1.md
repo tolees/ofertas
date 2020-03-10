@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41367 - Friends Stephanies Reitturn al 30.01 % de descuento'
-date: 2019/12/13 15:24:34 +0000
+title: 'LEGO 41367 Friends Stephanie s Horse Jum al 42.87 % de descuento'
+date: 2020-02-15 08:49:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w1X8RdG1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w1X8RdG1L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNS9YS1
 description:
-actualPrice: 27.99 EUR
-comparePrice: 39.99 EUR
+actualPrice: 19.99 GBP
+comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Está [LEGO 41367 - Friends Stephanies Reitturnier](https://www.amazon.com/dp/B07FNS9YS1/?tag=redken08-20) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [LEGO 41367 Friends Stephanie s Horse Jumping Playset  Mini-dolls and Accessories  Toy Horse Stable Sets for Kids  Multi-Colour](https://www.amazon.com/dp/B07FNS9YS1/?tag=redken08-20) con 42.87 de descuento por 19.99 GBP (original: 34.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51w1X8RdG1L._SL200_.jpg)](https://www.amazon.com/dp/B07FNS9YS1/?tag=redken08-20)
 

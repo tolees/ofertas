@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.94 % en LEGO Friends - Caja Corazón de Verano de'
-date: 2020-03-07 18:47:45
+date: 2020-03-10 02:39:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VVMxx+goL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VVMxx+goL._AC_._SL200_.jpg' ]
 comments: true

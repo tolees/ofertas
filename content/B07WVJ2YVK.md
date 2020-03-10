@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MII-V Mini PC Desktop Ordenador License  al 35.02 % de descuento'
-date: 2020-03-09 02:34:20
+date: 2020-03-10 02:36:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-ZxWFcPsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-ZxWFcPsL._AC_._SL200_.jpg' ]
 comments: true
