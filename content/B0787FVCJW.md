@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 26.99 % en Brother MFCJ895DW - Equipo multifunción '
-date: 2020-02-22 01:22:30
-thumbnailImage: 'https://m.media-amazon.com/images/I/4148BCaRqhL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/4148BCaRqhL._AC_._SL200_.jpg' ]
+date: 2020-03-11 16:04:17
+thumbnailImage: 'https://m.media-amazon.com/images/I/4148BCaRqhL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/4148BCaRqhL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Brother MFCJ895DW - Equipo multifunción de tinta A4 con fax  impresión dúplex y NFC  pantalla táctil de 2.7"  USB 2.0  Wifi  Ethernet  Wifi Direct  memoria de 128 MB  blanco](https://www.amazon.com/dp/B0787FVCJW/?tag=redken08-20) con un 26.99 % de descuento con precio de oferta de 119.0 EUR (original: 162.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/4148BCaRqhL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B0787FVCJW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/4148BCaRqhL._SL200_.jpg)](https://www.amazon.com/dp/B0787FVCJW/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B0787FVCJW/?tag=redken08-20)
 
