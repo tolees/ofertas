@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Bosch Home and Garden 2607017195 Bosch V al 47.14 % de descuento'
-date: 2020-03-10 08:39:02
-thumbnailImage: 'https://m.media-amazon.com/images/I/51kw2MgC4BL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51kw2MgC4BL._AC_._SL200_.jpg' ]
+date: 2020-03-11 12:57:45
+thumbnailImage: 'https://m.media-amazon.com/images/I/51kw2MgC4BL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51kw2MgC4BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Bosch Home and Garden 2607017195 Bosch V-Line Titanio - Maletín de 91 unidades para taladrar y atornillar  0 W  0 V  Set Piezas](https://www.amazon.com/dp/B00GGKMNTO/?tag=redken08-20) a 28.75 EUR (original: 54.39 EUR) (47.14 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51kw2MgC4BL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00GGKMNTO/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51kw2MgC4BL._SL200_.jpg)](https://www.amazon.com/dp/B00GGKMNTO/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00GGKMNTO/?tag=redken08-20)
 
