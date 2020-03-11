@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Reebok Classic Leather - Zapatillas de c al 62.68 % de descuento'
-date: 2020-03-06 11:06:57
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hxPVkx5YL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hxPVkx5YL._SL200_.jpg' ]
+title: 'Reebok Classic Leather - Zapatillas de c al 56.39 % de descuento'
+date: 2020-03-11 11:05:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/41hxPVkx5YL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41hxPVkx5YL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00U1ILL1S
 description:
-actualPrice: 33.57 EUR
+actualPrice: 39.23 EUR
 comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Está [Reebok Classic Leather - Zapatillas de cuero para hombre  color negro  black / gum 2   talla 40.5](https://www.amazon.com/dp/B00U1ILL1S/?tag=redken08-20) con 62.68 de descuento por 33.57 EUR (original: 89.95 EUR) en el siguiente enlace!
+Está [Reebok Classic Leather - Zapatillas de cuero para hombre  color negro  black / gum 2   talla 40.5](https://www.amazon.com/dp/B00U1ILL1S/?tag=redken08-20) con 56.39 de descuento por 39.23 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41hxPVkx5YL._SL200_.jpg)](https://www.amazon.com/dp/B00U1ILL1S/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41hxPVkx5YL._SL200_.jpg)](https://www.amazon.com/dp/B00U1ILL1S/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00U1ILL1S/?tag=redken08-20)
 

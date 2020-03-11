@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.13 % en BAO CORE Kids 1:24 Scale F1 Formula 1 Bl'
-date: 2020-03-10 02:22:31
+date: 2020-03-11 10:25:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ypIXGLQQL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ypIXGLQQL._AC_._SL200_.jpg' ]
 comments: true

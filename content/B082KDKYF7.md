@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'it if it Technic Sport Car Toy Building  al 30.25 % de descuento'
-date: 2020-03-10 02:23:00
-thumbnailImage: 'https://m.media-amazon.com/images/I/51T0bUyOb3L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51T0bUyOb3L._AC_._SL200_.jpg' ]
+date: 2020-03-11 10:25:45
+thumbnailImage: 'https://m.media-amazon.com/images/I/51T0bUyOb3L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51T0bUyOb3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [it if it Technic Sport Car Toy Building Block Set  RC Car Model Building Bricks Compatible with Lego  1:10 Racing Vehicles Collection  for Adults Children  3168Pcs ](https://www.amazon.com/dp/B082KDKYF7/?tag=redken08-20) con 30.25 de descuento por 82.99 GBP (original: 118.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51T0bUyOb3L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B082KDKYF7/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51T0bUyOb3L._SL200_.jpg)](https://www.amazon.com/dp/B082KDKYF7/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B082KDKYF7/?tag=redken08-20)
 

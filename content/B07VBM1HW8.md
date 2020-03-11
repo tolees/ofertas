@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'GODNECE Light Set for Lego  Led Lighting al 50.00 % de descuento'
-date: 2020-03-09 10:25:42
-thumbnailImage: 'https://m.media-amazon.com/images/I/41hm2Y3G-iL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41hm2Y3G-iL._AC_._SL200_.jpg' ]
+date: 2020-03-11 10:26:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41hm2Y3G-iL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41hm2Y3G-iL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [GODNECE Light Set for Lego  Led Lighting Kit for Lego Led Light kit Compatible With LEGO Star Wars Tantive IV 75244  NOT Included The Model ](https://www.amazon.com/dp/B07VBM1HW8/?tag=redken08-20) con 50.00 de descuento por 52.99 GBP (original: 105.98 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41hm2Y3G-iL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07VBM1HW8/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41hm2Y3G-iL._SL200_.jpg)](https://www.amazon.com/dp/B07VBM1HW8/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07VBM1HW8/?tag=redken08-20)
 

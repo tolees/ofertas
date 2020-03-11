@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 48.95 % en SanDisk Extreme - Tarjeta de memoria mic'
-date: 2020-03-07 11:05:33
-thumbnailImage: 'https://m.media-amazon.com/images/I/51VC2j-DDYL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51VC2j-DDYL._AC_._SL200_.jpg' ]
+date: 2020-03-11 10:18:48
+thumbnailImage: 'https://m.media-amazon.com/images/I/51VC2j-DDYL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51VC2j-DDYL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.com/dp/B07FCMKK5X/?tag=redken08-20) con un 48.95 % de descuento con precio de oferta de 23.99 EUR (original: 46.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51VC2j-DDYL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FCMKK5X/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51VC2j-DDYL._SL200_.jpg)](https://www.amazon.com/dp/B07FCMKK5X/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07FCMKK5X/?tag=redken08-20)
 

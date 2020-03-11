@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 33.37 % en The LEGO Batman Movie MiniFigure - Batma'
-date: 2019/12/26 00:34:09 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HDhCwse6L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HDhCwse6L._SL200_.jpg' ]
+title: 'Descuento del 39.97 % en The LEGO Batman Movie MiniFigure - Batma'
+date: 2020-03-11 10:24:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/41-Hv0xYZIL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41-Hv0xYZIL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01MT9CCZG
 description:
-actualPrice: 5.99 GBP
-comparePrice: 8.99 GBP
+actualPrice: 4.79 GBP
+comparePrice: 7.98 GBP
 inStock: true
 ---
 
-Tienes [The LEGO Batman Movie MiniFigure - Batman w/ Utility Belt and Bat-a-Rang](https://www.amazon.com/dp/B01MT9CCZG/?tag=redken08-20) con un 33.37 % de descuento con precio de oferta de 5.99 GBP (original: 8.99 GBP) en el siguiente enlace!
+Tienes [The LEGO Batman Movie MiniFigure - Batman w/ Utility Belt and Bat-a-Rang](https://www.amazon.com/dp/B01MT9CCZG/?tag=redken08-20) con un 39.97 % de descuento con precio de oferta de 4.79 GBP (original: 7.98 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41HDhCwse6L._SL200_.jpg)](https://www.amazon.com/dp/B01MT9CCZG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41-Hv0xYZIL._SL200_.jpg)](https://www.amazon.com/dp/B01MT9CCZG/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01MT9CCZG/?tag=redken08-20)
 
