@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COOAU Cámara Deportiva 4K WiFi 20MP Cama al 31.11 % de descuento'
-date: 2020-03-08 14:16:33
+date: 2020-03-10 20:15:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RP75ngNLL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RP75ngNLL._AC_._SL200_.jpg' ]
 comments: true

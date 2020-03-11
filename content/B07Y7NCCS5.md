@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION AKOYA M80 - PCC964 Ordenador de s al 36.67 % de descuento'
-date: 2020-03-09 15:07:56
+date: 2020-03-10 22:32:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+uGBknjiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+uGBknjiL._AC_._SL200_.jpg' ]
 comments: true

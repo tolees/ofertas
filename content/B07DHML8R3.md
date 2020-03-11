@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crock-Pot Lift & Serve Digital Slow Cook al 50.01 % de descuento'
-date: 2020-03-09 12:09:18
+date: 2020-03-11 03:53:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i127+N9pL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i127+N9pL._AC_._SL200_.jpg' ]
 comments: true

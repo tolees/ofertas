@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Sonicare ProtectiveClean 5100 El al 55.56 % de descuento'
-date: 2020-03-09 14:09:58
+date: 2020-03-11 05:25:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iGeSvn+FL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iGeSvn+FL._AC_._SL200_.jpg' ]
 comments: true

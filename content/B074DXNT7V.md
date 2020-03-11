@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Western Digital My Cloud Home - Almacena al 43.82 % de descuento'
-date: 2019/12/19 10:09:01 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg' ]
+title: 'Western Digital My Cloud Home - Almacena al 51.13 % de descuento'
+date: 2020-03-10 23:02:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/31BwYe54vnL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31BwYe54vnL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B074DXNT7V
 description:
-actualPrice: 174.16 EUR
+actualPrice: 151.49 EUR
 comparePrice: 309.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Western Digital My Cloud Home - Almacenamiento en Red NAS de 6 TB  1 bahía](https://www.amazon.com/dp/B074DXNT7V/?tag=redken08-20) a 174.16 EUR (original: 309.99 EUR) (43.82 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Western Digital My Cloud Home - Almacenamiento en Red NAS de 6 TB  1 bahía](https://www.amazon.com/dp/B074DXNT7V/?tag=redken08-20) a 151.49 EUR (original: 309.99 EUR) (51.13 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg)](https://www.amazon.com/dp/B074DXNT7V/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31BwYe54vnL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B074DXNT7V/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B074DXNT7V/?tag=redken08-20)
 
