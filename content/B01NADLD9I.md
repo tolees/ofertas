@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.49 % en Rotulador punta media STABILO pointMax -'
-date: 2020-03-05 08:16:16
+date: 2020-03-11 07:36:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51k80RV4hzL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51k80RV4hzL._AC_._SL200_.jpg' ]
 comments: true

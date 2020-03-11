@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.11 % en Rotulador punta fina STABILO point 88 - '
-date: 2020-03-05 08:15:02
+date: 2020-03-11 07:34:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xaJk+DOvL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xaJk+DOvL._AC_._SL200_.jpg' ]
 comments: true
