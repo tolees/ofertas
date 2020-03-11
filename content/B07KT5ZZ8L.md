@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'DC-77 16MP 4X Zoom Videocámara Digital d al 32.00 % de descuento'
-date: 2020-02-28 17:28:48
-thumbnailImage: 'https://m.media-amazon.com/images/I/41DMT0LoHxL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41DMT0LoHxL._AC_._SL200_.jpg' ]
+date: 2020-03-11 16:01:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/41DMT0LoHxL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41DMT0LoHxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [DC-77 16MP 4X Zoom Videocámara Digital de Alta definición con cámara de Video de 2 4 Pulgadas Pantalla TFT LCD de 8GB Apagado automático](https://www.amazon.com/dp/B07KT5ZZ8L/?tag=redken08-20) con 32.00 de descuento por 15.13 EUR (original: 22.25 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41DMT0LoHxL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KT5ZZ8L/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41DMT0LoHxL._SL200_.jpg)](https://www.amazon.com/dp/B07KT5ZZ8L/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07KT5ZZ8L/?tag=redken08-20)
 

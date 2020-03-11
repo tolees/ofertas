@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Levi s Coit Down Puffer Chaqueta  Negro  al 45.03 % de descuento'
-date: 2020-01-19 12:18:50
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg' ]
+title: 'Levi s Coit Down Puffer Chaqueta  Negro  al 51.73 % de descuento'
+date: 2020-03-11 14:20:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/418Oo2JUstL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/418Oo2JUstL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07LFFD85V
 description:
-actualPrice: 109.95 EUR
-comparePrice: 200 EUR
+actualPrice: 96.54 EUR
+comparePrice: 200.0 EUR
 inStock: true
 ---
 
-Está [Levi s Coit Down Puffer Chaqueta  Negro  Black 0003   Large para Hombre](https://www.amazon.com/dp/B07LFFD85V/?tag=redken08-20) con 45.03 de descuento por 109.95 EUR (original: 200 EUR) en el siguiente enlace!
+Está [Levi s Coit Down Puffer Chaqueta  Negro  Black 0003   Large para Hombre](https://www.amazon.com/dp/B07LFFD85V/?tag=redken08-20) con 51.73 de descuento por 96.54 EUR (original: 200.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg)](https://www.amazon.com/dp/B07LFFD85V/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/418Oo2JUstL._SL200_.jpg)](https://www.amazon.com/dp/B07LFFD85V/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07LFFD85V/?tag=redken08-20)
 

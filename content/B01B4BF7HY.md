@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Durex Invisible Extra Sensitivo Preserva al 36.39 % de descuento'
-date: 2020-03-02 13:02:25
-thumbnailImage: 'https://m.media-amazon.com/images/I/41EkmJ3eq6L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41EkmJ3eq6L._AC_._SL200_.jpg' ]
+date: 2020-03-11 15:51:41
+thumbnailImage: 'https://m.media-amazon.com/images/I/41EkmJ3eq6L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41EkmJ3eq6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Durex Invisible Extra Sensitivo Preservativos - Paquete de 12](https://www.amazon.com/dp/B01B4BF7HY/?tag=redken08-20) con 36.39 de descuento por 9.77 EUR (original: 15.36 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41EkmJ3eq6L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01B4BF7HY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41EkmJ3eq6L._SL200_.jpg)](https://www.amazon.com/dp/B01B4BF7HY/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01B4BF7HY/?tag=redken08-20)
 
