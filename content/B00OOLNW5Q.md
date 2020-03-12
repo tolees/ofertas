@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'G-STAR RAW Women s Lynn Mid Waist Skinny al 77.86 % de descuento'
-date: 2020-02-09 13:25:57
-thumbnailImage: 'https://m.media-amazon.com/images/I/410c4LRNanL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/410c4LRNanL._AC_._SL200_.jpg' ]
+title: 'G-STAR RAW Women s lynn mid ski wn Jeans al 77.86 % de descuento'
+date: 2020-03-12 09:53:32
+thumbnailImage: 'https://m.media-amazon.com/images/I/410c4LRNanL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/410c4LRNanL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,9 +14,9 @@ comparePrice: 140.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [G-STAR RAW Women s Lynn Mid Waist Skinny  Jeans  Blue Light Aged Destroy Raw  28W / 32L](https://www.amazon.com/dp/B00OOLNW5Q/?tag=redken08-20) a 30.99 GBP (original: 140.0 GBP) (77.86 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [G-STAR RAW Women s lynn mid ski wn Jeans  lt Aged Destroy  W28/L32](https://www.amazon.com/dp/B00OOLNW5Q/?tag=redken08-20) a 30.99 GBP (original: 140.0 GBP) (77.86 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/410c4LRNanL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00OOLNW5Q/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/410c4LRNanL._SL200_.jpg)](https://www.amazon.com/dp/B00OOLNW5Q/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00OOLNW5Q/?tag=redken08-20)
 

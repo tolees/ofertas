@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Playmobil 6848 Grand Princess Castle al 48.00 % de descuento'
-date: 2020-03-11 02:28:13
-thumbnailImage: 'https://m.media-amazon.com/images/I/618bJ6wDpbL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/618bJ6wDpbL._AC_._SL200_.jpg' ]
+date: 2020-03-12 10:26:51
+thumbnailImage: 'https://m.media-amazon.com/images/I/618bJ6wDpbL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/618bJ6wDpbL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Playmobil 6848 Grand Princess Castle](https://www.amazon.com/dp/B01EKBD0W4/?tag=redken08-20) con 48.00 de descuento por 64.99 GBP (original: 124.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/618bJ6wDpbL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01EKBD0W4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/618bJ6wDpbL._SL200_.jpg)](https://www.amazon.com/dp/B01EKBD0W4/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01EKBD0W4/?tag=redken08-20)
 

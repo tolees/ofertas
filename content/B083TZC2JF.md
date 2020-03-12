@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en TONGJI Vitrina de Acrílico Compatible co'
-date: 2020-03-11 10:37:21
+date: 2020-03-12 10:47:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/410YlXKkU4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410YlXKkU4L._SL200_.jpg' ]
 comments: true

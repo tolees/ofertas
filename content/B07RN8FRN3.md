@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Funko 44418 POP Holiday-Santa Claus Coll al 46.00 % de descuento'
-date: 2020-03-09 18:23:40
-thumbnailImage: 'https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg' ]
+title: 'Funko 44418 POP Holiday-Santa Claus Coll al 45.30 % de descuento'
+date: 2020-03-12 10:22:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/41KNyuTn8mL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41KNyuTn8mL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07RN8FRN3
 description:
 actualPrice: 5.0 GBP
-comparePrice: 9.26 GBP
+comparePrice: 9.14 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 44418 POP Holiday-Santa Claus Collectible Figure  Multicolour](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20) a 5.0 GBP (original: 9.26 GBP) (46.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 44418 POP Holiday-Santa Claus Collectible Figure  Multicolour](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20) a 5.0 GBP (original: 9.14 GBP) (45.30 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41KNyuTn8mL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41KNyuTn8mL._SL200_.jpg)](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20)
 
