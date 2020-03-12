@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION MD 18500 Saugroboter mit Ladestat al 25.00 % de descuento'
-date: 2020-03-11 13:13:15
+date: 2020-03-12 17:15:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JSL+TJJFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JSL+TJJFL._SL200_.jpg' ]
 comments: true
