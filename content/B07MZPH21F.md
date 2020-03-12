@@ -14,10 +14,10 @@ comparePrice: 12.15 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 37776 5 Star: Juego de Tronos S10: Night King Figura Coleccionable](https://www.amazon.com/dp/B07MZPH21F/?tag=redken08-20) a 8.55 EUR (original: 12.15 EUR) (29.63 %  de descuento) en el siguiente enlace!
+Está [Funko 37776 5 Star: Juego de Tronos S10: Night King Figura Coleccionable](https://www.amazon.com/dp/B07MZPH21F/?tag=redken08-20) con 29.63 de descuento por 8.55 EUR (original: 12.15 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NsrEvi62L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MZPH21F/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07MZPH21F/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MZPH21F/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
