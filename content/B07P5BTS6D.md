@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Condis 95 Piezas Bloques de Construcción al 50.01 % de descuento'
-date: 2020-03-09 18:42:26
-thumbnailImage: 'https://m.media-amazon.com/images/I/61GWVccHSOL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/61GWVccHSOL._AC_._SL200_.jpg' ]
+date: 2020-03-11 18:52:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/61GWVccHSOL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61GWVccHSOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Condis 95 Piezas Bloques de Construcción Magnéticos para Niños  Juegos de Viaje Construcciones Magneticas Imanes Regalos Cumpleaños Juguetes Educativos para Niños Niñas de 2 3 4 5 6 7 8 Años Infantil](https://www.amazon.com/dp/B07P5BTS6D/?tag=redken08-20) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61GWVccHSOL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07P5BTS6D/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/61GWVccHSOL._SL200_.jpg)](https://www.amazon.com/dp/B07P5BTS6D/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07P5BTS6D/?tag=redken08-20)
 

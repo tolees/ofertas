@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Sylvanian Families Country Kitchen Set al 38.76 % de descuento'
-date: 2020-03-11 02:23:28
-thumbnailImage: 'https://m.media-amazon.com/images/I/41HLU405zvL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41HLU405zvL._AC_._SL200_.jpg' ]
+date: 2020-03-12 02:26:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/41HLU405zvL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41HLU405zvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Sylvanian Families Country Kitchen Set](https://www.amazon.com/dp/B003SSDZUS/?tag=redken08-20) con 38.76 de descuento por 22.99 GBP (original: 37.54 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41HLU405zvL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B003SSDZUS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41HLU405zvL._SL200_.jpg)](https://www.amazon.com/dp/B003SSDZUS/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B003SSDZUS/?tag=redken08-20)
 

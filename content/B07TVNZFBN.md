@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego St al 40.99 % de descuento'
-date: 2020-03-09 02:29:55
+title: 'Descuento del 71.01 % en BRIKSMAX Led Lighting Kit for LEGO Star '
+date: 2020-03-10 18:32:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WSUE9Ey9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WSUE9Ey9L._AC_._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07TVNZFBN
 description:
-actualPrice: 35.99 EUR
-comparePrice: 60.99 EUR
+actualPrice: 28.99 GBP
+comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Slave I  Kompatibel Mit Lego 75243 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TVNZFBN/?tag=redken08-20) a 35.99 EUR (original: 60.99 EUR) (40.99 %  de descuento) en el siguiente enlace!
+Tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Slave I- Compatible with Lego 75243 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TVNZFBN/?tag=redken08-20) con un 71.01 % de descuento con precio de oferta de 28.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51WSUE9Ey9L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TVNZFBN/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07TVNZFBN/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07TVNZFBN/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

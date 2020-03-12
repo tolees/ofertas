@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'UGG Neumel  Botas para Hombre  Negro  Bl al 37.02 % de descuento'
-date: 2020-03-10 06:28:57
-thumbnailImage: 'https://m.media-amazon.com/images/I/31Vkz9d2NzL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31Vkz9d2NzL._AC_._SL200_.jpg' ]
+date: 2020-03-11 19:01:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/31Vkz9d2NzL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31Vkz9d2NzL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [UGG Neumel  Botas para Hombre  Negro  Black Blk   48.5 EU](https://www.amazon.com/dp/B00HZ3TEMU/?tag=redken08-20) con 37.02 de descuento por 94.44 EUR (original: 149.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31Vkz9d2NzL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00HZ3TEMU/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31Vkz9d2NzL._SL200_.jpg)](https://www.amazon.com/dp/B00HZ3TEMU/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00HZ3TEMU/?tag=redken08-20)
 

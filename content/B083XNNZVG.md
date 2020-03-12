@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'DXX Technik Bausteine Auto G500 AWD Wago al 50.00 % de descuento'
-date: 2020-03-11 02:30:16
-thumbnailImage: 'https://m.media-amazon.com/images/I/51a6nh0SO2L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51a6nh0SO2L._AC_._SL200_.jpg' ]
+date: 2020-03-12 02:33:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/51a6nh0SO2L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51a6nh0SO2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [DXX Technik Bausteine Auto G500 AWD Wagon Racing Auto  1662Teile 1:10 2.4G Geländewagen Bausteine Konstruktionsspielzeug](https://www.amazon.com/dp/B083XNNZVG/?tag=redken08-20) a 106.99 EUR (original: 213.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51a6nh0SO2L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B083XNNZVG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51a6nh0SO2L._SL200_.jpg)](https://www.amazon.com/dp/B083XNNZVG/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B083XNNZVG/?tag=redken08-20)
 

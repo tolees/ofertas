@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Barbie Ambulancia Hospital 2 en 1  acces al 26.85 % de descuento'
-date: 2020-03-11 02:37:14
-thumbnailImage: 'https://m.media-amazon.com/images/I/51CBnzFu4qL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51CBnzFu4qL._AC_._SL200_.jpg' ]
+date: 2020-03-12 02:41:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/51CBnzFu4qL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51CBnzFu4qL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Barbie Ambulancia Hospital 2 en 1  accesorios de muñecas  Mattel FRM19 ](https://www.amazon.com/dp/B079JBMVFW/?tag=redken08-20) con 26.85 de descuento por 51.2 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51CBnzFu4qL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B079JBMVFW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51CBnzFu4qL._SL200_.jpg)](https://www.amazon.com/dp/B079JBMVFW/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B079JBMVFW/?tag=redken08-20)
 

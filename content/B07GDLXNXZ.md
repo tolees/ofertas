@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Xiaomi MI A2 - Smartphone DE 5.9"  Qualc al 25.09 % de descuento'
-date: 2020-03-10 21:30:09
-thumbnailImage: 'https://m.media-amazon.com/images/I/51FplfIiZJL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51FplfIiZJL._AC_._SL200_.jpg' ]
+date: 2020-03-12 01:24:09
+thumbnailImage: 'https://m.media-amazon.com/images/I/51FplfIiZJL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51FplfIiZJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Xiaomi MI A2 - Smartphone DE 5.9"  Qualcomm Snapdragon 660 a 2.2 GHz  RAM de 4 GB  Memoria de 64 GB  cámara Dual de 12/20MP  Android  Color Azul [Versión española]](https://www.amazon.com/dp/B07GDLXNXZ/?tag=redken08-20) con 25.09 de descuento por 209.0 EUR (original: 279.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51FplfIiZJL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07GDLXNXZ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51FplfIiZJL._SL200_.jpg)](https://www.amazon.com/dp/B07GDLXNXZ/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07GDLXNXZ/?tag=redken08-20)
 

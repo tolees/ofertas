@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 37.66 % en Sylvanian Families - Country Bathroom Se'
-date: 2020-03-11 02:23:43
-thumbnailImage: 'https://m.media-amazon.com/images/I/31+qt9ojdTL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31+qt9ojdTL._AC_._SL200_.jpg' ]
+date: 2020-03-12 02:26:30
+thumbnailImage: 'https://m.media-amazon.com/images/I/31+qt9ojdTL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31+qt9ojdTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Sylvanian Families - Country Bathroom Set](https://www.amazon.com/dp/B00HRRD10K/?tag=redken08-20) con un 37.66 % de descuento con precio de oferta de 15.58 GBP (original: 24.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31+qt9ojdTL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00HRRD10K/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31+qt9ojdTL._SL200_.jpg)](https://www.amazon.com/dp/B00HRRD10K/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00HRRD10K/?tag=redken08-20)
 
