@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'TP-Link TL-SG1016D - Gigabit Ethernet co al 38.08 % de descuento'
-date: 2019/11/28 15:50:17 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-FMVYF6FL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-FMVYF6FL._SL200_.jpg' ]
+title: 'TP-Link TL-SG1016D - Gigabit Ethernet co al 40.13 % de descuento'
+date: 2020-03-13 03:49:02
+thumbnailImage: 'https://m.media-amazon.com/images/I/41MBNYmPfAL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41MBNYmPfAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B003UWRYBI
 description:
-actualPrice: 52.75 EUR
+actualPrice: 51.0 EUR
 comparePrice: 85.19 EUR
 inStock: true
 ---
 
-Está [TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos  Conmutador no Gestionado  Plug and Play  Metal  Escritorio  montaje en bastidor  sin Ventilador  Vida Útil Limitada ](https://www.amazon.com/dp/B003UWRYBI/?tag=redken08-20) con 38.08 de descuento por 52.75 EUR (original: 85.19 EUR) en el siguiente enlace!
+Está [TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos  Conmutador no Gestionado  Plug and Play  Metal  Escritorio  montaje en bastidor  sin Ventilador  Vida Útil Limitada ](https://www.amazon.com/dp/B003UWRYBI/?tag=redken08-20) con 40.13 de descuento por 51.0 EUR (original: 85.19 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41-FMVYF6FL._SL200_.jpg)](https://www.amazon.com/dp/B003UWRYBI/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41MBNYmPfAL._SL200_.jpg)](https://www.amazon.com/dp/B003UWRYBI/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B003UWRYBI/?tag=redken08-20)
 

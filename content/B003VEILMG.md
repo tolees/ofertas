@@ -14,10 +14,10 @@ comparePrice: 105.91 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch Professional 12V System Akku Bohrschrauber GSR 12V-15  ohne Akkus & Ladegerät  im Karton ](https://www.amazon.com/dp/B003VEILMG/?tag=redken08-20) a 47.9 EUR (original: 105.91 EUR) (54.77 %  de descuento) en el siguiente enlace!
+Está [Bosch Professional 12V System Akku Bohrschrauber GSR 12V-15  ohne Akkus & Ladegerät  im Karton ](https://www.amazon.com/dp/B003VEILMG/?tag=redken08-20) con 54.77 de descuento por 47.9 EUR (original: 105.91 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41RfKYnpvqL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B003VEILMG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B003VEILMG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B003VEILMG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

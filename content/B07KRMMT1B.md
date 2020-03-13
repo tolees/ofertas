@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en New Balance 373  Zapatillas para Mujer  '
-date: 2020-02-05 03:15:30
-thumbnailImage: 'https://m.media-amazon.com/images/I/41jLzySOs-L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41jLzySOs-L._AC_._SL200_.jpg' ]
+date: 2020-03-12 23:20:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/41jLzySOs-L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41jLzySOs-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [New Balance 373  Zapatillas para Mujer  Gris  Grey Grey   37.5 EU](https://www.amazon.com/dp/B07KRMMT1B/?tag=redken08-20) con un 40.00 % de descuento con precio de oferta de 48.0 EUR (original: 80.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41jLzySOs-L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KRMMT1B/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41jLzySOs-L._SL200_.jpg)](https://www.amazon.com/dp/B07KRMMT1B/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07KRMMT1B/?tag=redken08-20)
 

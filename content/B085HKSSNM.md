@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dittzz Acrylic Display Box  Dustproof Di al 30.77 % de descuento'
-date: 2020-03-11 18:30:50
+date: 2020-03-12 18:32:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41p6NX7-H0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41p6NX7-H0L._SL200_.jpg' ]
 comments: true

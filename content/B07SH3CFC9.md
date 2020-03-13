@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for Lego Darth al 50.01 % de descuento'
-date: 2020-03-11 18:30:44
+date: 2020-03-13 02:25:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WUQLwfOzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WUQLwfOzL._SL200_.jpg' ]
 comments: true

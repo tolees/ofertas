@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 68.91 % en Elastoplast Sport Adjustable Knee Stabil'
-date: 2020-03-11 05:25:08
-thumbnailImage: 'https://m.media-amazon.com/images/I/417ONaN231L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/417ONaN231L._AC_._SL200_.jpg' ]
+date: 2020-03-12 21:33:30
+thumbnailImage: 'https://m.media-amazon.com/images/I/417ONaN231L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/417ONaN231L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Elastoplast Sport Adjustable Knee Stabiliser Extra Firm Support](https://www.amazon.com/dp/B01GHTMTRO/?tag=redken08-20) con un 68.91 % de descuento con precio de oferta de 8.39 GBP (original: 26.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/417ONaN231L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01GHTMTRO/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/417ONaN231L._SL200_.jpg)](https://www.amazon.com/dp/B01GHTMTRO/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01GHTMTRO/?tag=redken08-20)
 

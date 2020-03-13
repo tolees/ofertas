@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Olimp Sport Nutrition Suplemento Aliment al 29.57 % de descuento'
-date: 2020-03-07 02:28:29
-thumbnailImage: 'https://m.media-amazon.com/images/I/414lbEK7i7L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/414lbEK7i7L._AC_._SL200_.jpg' ]
+date: 2020-03-13 02:29:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/414lbEK7i7L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/414lbEK7i7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Olimp Sport Nutrition Suplemento Alimenticio Vita-Min Multiple Sport - 60 Cápsulas](https://www.amazon.com/dp/B001FFCK3E/?tag=redken08-20) a 10.53 EUR (original: 14.95 EUR) (29.57 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/414lbEK7i7L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B001FFCK3E/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/414lbEK7i7L._SL200_.jpg)](https://www.amazon.com/dp/B001FFCK3E/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B001FFCK3E/?tag=redken08-20)
 

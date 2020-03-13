@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'fischertechnik Dynamic S Kugelbahn mit K al 49.87 % de descuento'
-date: 2020-03-08 02:33:34
-thumbnailImage: 'https://m.media-amazon.com/images/I/51bOSVGiRmL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51bOSVGiRmL._AC_._SL200_.jpg' ]
+date: 2020-03-13 02:32:21
+thumbnailImage: 'https://m.media-amazon.com/images/I/51bOSVGiRmL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51bOSVGiRmL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [fischertechnik Dynamic S Kugelbahn mit Klang - für Kinder ab 7 Jahren - 3 Modelle - einfache Kugelbahn  Action-Kugelbahn und Kugelbahn mit zwei Kreisläufen](https://www.amazon.com/dp/B01BGL4BR4/?tag=redken08-20) a 17.52 EUR (original: 34.95 EUR) (49.87 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51bOSVGiRmL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01BGL4BR4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51bOSVGiRmL._SL200_.jpg)](https://www.amazon.com/dp/B01BGL4BR4/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01BGL4BR4/?tag=redken08-20)
 
