@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 34.38 % en Huawei MediaPad M5 Lite 10 - Tablet DE 1'
-date: 2020-03-09 10:45:55
-thumbnailImage: 'https://m.media-amazon.com/images/I/417R6kAEN6L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/417R6kAEN6L._AC_._SL200_.jpg' ]
+date: 2020-03-13 11:33:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/417R6kAEN6L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/417R6kAEN6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Huawei MediaPad M5 Lite 10 - Tablet DE 10.1" Full HD  LTE  RAM de 3 GB  ROM de 32 GB  Android 8.0  EMUI 8.0  Color Gris](https://www.amazon.com/dp/B07G3JFHJR/?tag=redken08-20) con un 34.38 % de descuento con precio de oferta de 229.0 EUR (original: 349.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/417R6kAEN6L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07G3JFHJR/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/417R6kAEN6L._SL200_.jpg)](https://www.amazon.com/dp/B07G3JFHJR/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07G3JFHJR/?tag=redken08-20)
 

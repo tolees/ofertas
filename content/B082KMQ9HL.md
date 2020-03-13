@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proyector  WiMiUS 4500 Lúmenes Proyector al 31.03 % de descuento'
-date: 2020-03-11 11:51:22
+date: 2020-03-13 17:09:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bgwHXQK3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bgwHXQK3L._SL200_.jpg' ]
 comments: true

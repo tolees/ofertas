@@ -14,10 +14,10 @@ comparePrice: 6.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Unique Party 72117 - 2m Disney Frozen Happy Birthday Banner in Light Blue](https://www.amazon.com/dp/B00UJUN8G4/?tag=redken08-20) a 2.99 GBP (original: 6.99 GBP) (57.22 %  de descuento) en el siguiente enlace!
+Está [Unique Party 72117 - 2m Disney Frozen Happy Birthday Banner in Light Blue](https://www.amazon.com/dp/B00UJUN8G4/?tag=redken08-20) con 57.22 de descuento por 2.99 GBP (original: 6.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/315mA1eGxuL._SL200_.jpg)](https://www.amazon.com/dp/B00UJUN8G4/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00UJUN8G4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00UJUN8G4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

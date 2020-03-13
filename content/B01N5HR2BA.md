@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.41 % en Crocs Flip Flops  Chanclas Unisex Adulto'
-date: 2020-03-11 19:07:23
+date: 2020-03-13 10:07:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vtDeqEevL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vtDeqEevL._SL200_.jpg' ]
 comments: true

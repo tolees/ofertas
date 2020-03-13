@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bluetooth 5.0 Headphones  Mpow S10 Wirel al 34.63 % de descuento'
-date: 2020-03-11 10:24:25
+date: 2020-03-13 10:25:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51o8FXRbaoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51o8FXRbaoL._SL200_.jpg' ]
 comments: true

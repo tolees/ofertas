@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en AWESAFE Cámara de Coche Dash CAM 1080P F'
-date: 2020-03-05 10:56:06
-thumbnailImage: 'https://m.media-amazon.com/images/I/51p0d9Tuv9L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51p0d9Tuv9L._AC_._SL200_.jpg' ]
+date: 2020-03-13 15:32:19
+thumbnailImage: 'https://m.media-amazon.com/images/I/51p0d9Tuv9L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51p0d9Tuv9L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [AWESAFE Cámara de Coche Dash CAM 1080P Full HD 170 Ángulo con WDR G-Sensor  Detección de Movimiento  Grabación en Bucle  Visión Nocturna  Monitor de Aparcamiento](https://www.amazon.com/dp/B07RB1MDHN/?tag=redken08-20) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51p0d9Tuv9L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RB1MDHN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51p0d9Tuv9L._SL200_.jpg)](https://www.amazon.com/dp/B07RB1MDHN/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07RB1MDHN/?tag=redken08-20)
 
