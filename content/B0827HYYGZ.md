@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAMSWAN Báscula Grasa Corporal Más de 14 al 60.01 % de descuento'
-date: 2020-03-12 10:43:21
+date: 2020-03-13 18:47:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vX6FQ5ojL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vX6FQ5ojL._SL200_.jpg' ]
 comments: true
