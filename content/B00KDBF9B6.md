@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'whiskas Dentabites de 40g para higiene o al 49.75 % de descuento'
-date: 2020-03-10 08:52:12
-thumbnailImage: 'https://m.media-amazon.com/images/I/41S0MALz3mL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41S0MALz3mL._AC_._SL200_.jpg' ]
+date: 2020-03-13 08:27:25
+thumbnailImage: 'https://m.media-amazon.com/images/I/41S0MALz3mL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41S0MALz3mL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [whiskas Dentabites de 40g para higiene oral de uso diario para gatos  Pack de 8 ](https://www.amazon.com/dp/B00KDBF9B6/?tag=redken08-20) a 8.0 EUR (original: 15.92 EUR) (49.75 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41S0MALz3mL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00KDBF9B6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41S0MALz3mL._SL200_.jpg)](https://www.amazon.com/dp/B00KDBF9B6/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00KDBF9B6/?tag=redken08-20)
 

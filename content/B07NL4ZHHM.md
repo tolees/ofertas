@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.31 % en Lenovo ideapad 530S-15IKB Ordenador Port'
-date: 2020-03-12 08:15:34
+date: 2020-03-13 08:44:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+8dWVWT2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+8dWVWT2L._SL200_.jpg' ]
 comments: true
