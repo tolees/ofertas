@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 6 Pro Smartphone de 6. al 27.71 % de descuento'
-date: 2020-03-12 16:47:11
+date: 2020-03-13 20:48:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iaslJv2vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iaslJv2vL._SL200_.jpg' ]
 comments: true
