@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Alex Perry Regalo Día de la Madre pendie al 78.01 % de descuento'
-date: 2020-03-06 12:10:23
-thumbnailImage: 'https://m.media-amazon.com/images/I/417jNY1ZwNL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/417jNY1ZwNL._AC_._SL200_.jpg' ]
+date: 2020-03-14 09:04:54
+thumbnailImage: 'https://m.media-amazon.com/images/I/417jNY1ZwNL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/417jNY1ZwNL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Alex Perry Regalo Día de la Madre pendientes mujer plata swarovski joyas para mujer pendientes regalos san valentin pendientes para boda niñas novia regalo para mujer madre e hija profesora](https://www.amazon.com/dp/B07J6HH5KH/?tag=redken08-20) con 78.01 de descuento por 21.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/417jNY1ZwNL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07J6HH5KH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/417jNY1ZwNL._SL200_.jpg)](https://www.amazon.com/dp/B07J6HH5KH/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07J6HH5KH/?tag=redken08-20)
 
