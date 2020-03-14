@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 32.24 % en Bosch Home and Garden 2 607 010 610 Bosc'
-date: 2020-03-03 08:22:53
-thumbnailImage: 'https://m.media-amazon.com/images/I/41-sXkKYwSL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41-sXkKYwSL._AC_._SL200_.jpg' ]
+date: 2020-03-14 12:31:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41-sXkKYwSL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41-sXkKYwSL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Bosch Home and Garden 2 607 010 610 Bosch X-Line - Maletín de 54 unidades para taladrar y atornillar  0 W  0 V  Verde  Rojo  Set Piezas](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20) con un 32.24 % de descuento con precio de oferta de 23.71 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41-sXkKYwSL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41-sXkKYwSL._SL200_.jpg)](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B002UHKASI/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Smart Band 4 - Tracker de acti al 25.51 % de descuento'
-date: 2020-03-12 23:53:22
+date: 2020-03-14 10:36:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ckaxkIxEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ckaxkIxEL._SL200_.jpg' ]
 comments: true

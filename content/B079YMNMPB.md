@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Pop Star Wars Solo 26982 Lando Cal al 54.38 % de descuento'
-date: 2020-03-12 02:22:50
+title: 'Funko Pop Star Wars Solo 26982 Lando Cal al 61.14 % de descuento'
+date: 2020-03-14 10:22:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41epN6IuN+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41epN6IuN+L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079YMNMPB
 description:
-actualPrice: 4.17 GBP
-comparePrice: 9.14 GBP
+actualPrice: 3.61 GBP
+comparePrice: 9.29 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop Star Wars Solo 26982 Lando Calrissian](https://www.amazon.com/dp/B079YMNMPB/?tag=redken08-20) a 4.17 GBP (original: 9.14 GBP) (54.38 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop Star Wars Solo 26982 Lando Calrissian](https://www.amazon.com/dp/B079YMNMPB/?tag=redken08-20) a 3.61 GBP (original: 9.29 GBP) (61.14 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41epN6IuN+L._SL200_.jpg)](https://www.amazon.com/dp/B079YMNMPB/?tag=redken08-20)
 

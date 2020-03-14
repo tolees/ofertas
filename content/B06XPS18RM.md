@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calzado Deportivo Masculino de Seguridad al 53.76 % de descuento'
-date: 2020-03-11 11:56:15
+date: 2020-03-14 10:07:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oEUHn1jzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oEUHn1jzL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung MC28M6055CW/EU Combination Micro al 28.40 % de descuento'
-date: 2020-03-12 19:02:02
+date: 2020-03-14 09:57:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YwwHw53bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YwwHw53bL._SL200_.jpg' ]
 comments: true
