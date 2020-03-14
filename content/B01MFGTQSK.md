@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vicloon 100 Pcs Barras Luminosas Pulsera al 40.03 % de descuento'
-date: 2020-03-12 02:40:15
+date: 2020-03-14 02:40:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zzOrVG7QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zzOrVG7QL._SL200_.jpg' ]
 comments: true

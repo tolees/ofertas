@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.34 % en LEGO MOVIE 2 70837 Shimmer and Shine Spa'
-date: 2020-03-12 18:27:38
+date: 2020-03-14 02:26:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IzEDjhq-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IzEDjhq-L._SL200_.jpg' ]
 comments: true
