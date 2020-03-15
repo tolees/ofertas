@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Huntsman  Teclado con Switches Opt al 43.75 % de descuento'
-date: 2020-03-13 12:23:38
+date: 2020-03-15 13:03:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pzEbffs3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pzEbffs3L._SL200_.jpg' ]
 comments: true

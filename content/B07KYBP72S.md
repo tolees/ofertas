@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Dilwe Soporte de Placa L  Soporte de cám al 54.90 % de descuento'
-date: 2020-02-28 19:28:24
-thumbnailImage: 'https://m.media-amazon.com/images/I/41FI+anRzTL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41FI+anRzTL._AC_._SL200_.jpg' ]
+title: 'Dilwe Soporte de Placa L  Soporte de cám al 47.87 % de descuento'
+date: 2020-03-15 07:56:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/41FI+anRzTL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41FI+anRzTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KYBP72S
 description:
-actualPrice: 8.79 EUR
-comparePrice: 19.49 EUR
+actualPrice: 10.89 EUR
+comparePrice: 20.89 EUR
 inStock: true
 ---
 
-Está [Dilwe Soporte de Placa L  Soporte de cámara Forma de L Soporte de Soporte de Placa de liberación rápida para cámara con riel Deslizante Canon Nikon Sony Pentax](https://www.amazon.com/dp/B07KYBP72S/?tag=redken08-20) con 54.90 de descuento por 8.79 EUR (original: 19.49 EUR) en el siguiente enlace!
+Está [Dilwe Soporte de Placa L  Soporte de cámara Forma de L Soporte de Soporte de Placa de liberación rápida para cámara con riel Deslizante Canon Nikon Sony Pentax](https://www.amazon.com/dp/B07KYBP72S/?tag=redken08-20) con 47.87 de descuento por 10.89 EUR (original: 20.89 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41FI+anRzTL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KYBP72S/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41FI+anRzTL._SL200_.jpg)](https://www.amazon.com/dp/B07KYBP72S/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07KYBP72S/?tag=redken08-20)
 

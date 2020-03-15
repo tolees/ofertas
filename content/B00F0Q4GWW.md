@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.26 % en Universal 69-UN-99 - Boquilla para aspir'
-date: 2020-03-13 08:11:10
+date: 2020-03-15 10:10:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/413RKamEy4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413RKamEy4L._SL200_.jpg' ]
 comments: true

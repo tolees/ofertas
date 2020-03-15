@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tom Tailor 7980801  Botas Clasicas para  al 28.66 % de descuento'
-date: 2020-03-12 20:05:32
+date: 2020-03-15 11:08:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vyWZF9cYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vyWZF9cYL._SL200_.jpg' ]
 comments: true

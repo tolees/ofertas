@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.96 % en AUKEY Quick Charge 3.0 Cargador USB 60W '
-date: 2020-03-11 17:31:18
+date: 2020-03-15 11:46:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ajAdh5PQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ajAdh5PQL._SL200_.jpg' ]
 comments: true

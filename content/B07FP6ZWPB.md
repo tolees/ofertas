@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO 76131 Hauptquartier Avengers Compou al 29.99 % de descuento'
-date: 2020-03-06 08:55:22
-thumbnailImage: 'https://m.media-amazon.com/images/I/51z9aoOLNZL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51z9aoOLNZL._AC_._SL200_.jpg' ]
+title: 'LEGO 76131 - Marvel Super Heroes Avenger al 31.83 % de descuento'
+date: 2020-03-12 12:04:20
+thumbnailImage: 'https://m.media-amazon.com/images/I/51kqIO01xeL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51kqIO01xeL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FP6ZWPB
 description:
-actualPrice: 63.0 GBP
-comparePrice: 89.99 GBP
+actualPrice: 68.16 EUR
+comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 76131 Hauptquartier Avengers Compound Battle Superhero Playset  Thanos and Hulk Figures  Iron Man  Captain Marvel and Nebula Minifigures  Colourful](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20) a 63.0 GBP (original: 89.99 GBP) (29.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 76131 - Marvel Super Heroes Avengers-Hauptquartier](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20) a 68.16 EUR (original: 99.99 EUR) (31.83 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51z9aoOLNZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51kqIO01xeL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07FP6ZWPB/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.06 % en Ecovacs Deebot OZMO 900 - Robot Aspirado'
-date: 2020-03-11 09:42:42
+date: 2020-03-15 16:33:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31J2v65Q7+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31J2v65Q7+L._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 43.40 % en Pro Breeze Purificador de Aire Mini con '
-date: 2019/12/26 20:23:42 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuJofd3YL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZuJofd3YL._SL200_.jpg' ]
+date: 2020-03-15 09:33:31
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ZuJofd3YL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ZuJofd3YL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Pro Breeze Purificador de Aire Mini con Auténtico Filtro HEPA e Ionizador - Limpiador de Aire Personal de Escritorio con Luz Nocturna - para Hogar  Trabajo  Oficinas | USB y Alimentación Principal](https://www.amazon.com/dp/B07DTDWDDS/?tag=redken08-20) con un 43.40 % de descuento con precio de oferta de 29.99 EUR (original: 52.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ZuJofd3YL._SL200_.jpg)](https://www.amazon.com/dp/B07DTDWDDS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ZuJofd3YL._SL200_.jpg)](https://www.amazon.com/dp/B07DTDWDDS/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07DTDWDDS/?tag=redken08-20)
 
