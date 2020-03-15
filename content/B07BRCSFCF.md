@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 62.38 % en Asics Kanmei 2  Zapatillas de Running pa'
-date: 2020-01-21 13:55:33
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AZha6Y7DL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AZha6Y7DL._SL200_.jpg' ]
+title: 'Descuento del 25.93 % en Asics Kanmei 2  Zapatillas de Running pa'
+date: 2020-03-15 20:05:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/41NlkLTfzmL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41NlkLTfzmL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07BRCSFCF
 description:
-actualPrice: 22.57 EUR
-comparePrice: 60 EUR
+actualPrice: 28.0 EUR
+comparePrice: 37.8 EUR
 inStock: true
 ---
 
-Tienes [Asics Kanmei 2  Zapatillas de Running para Mujer  Negro  Black/Black 001   39.5 EU](https://www.amazon.com/dp/B07BRCSFCF/?tag=redken08-20) con un 62.38 % de descuento con precio de oferta de 22.57 EUR (original: 60 EUR) en el siguiente enlace!
+Tienes [Asics Kanmei 2  Zapatillas de Running para Mujer  Negro  Black/Black 001   39.5 EU](https://www.amazon.com/dp/B07BRCSFCF/?tag=redken08-20) con un 25.93 % de descuento con precio de oferta de 28.0 EUR (original: 37.8 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31AZha6Y7DL._SL200_.jpg)](https://www.amazon.com/dp/B07BRCSFCF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41NlkLTfzmL._SL200_.jpg)](https://www.amazon.com/dp/B07BRCSFCF/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07BRCSFCF/?tag=redken08-20)
 

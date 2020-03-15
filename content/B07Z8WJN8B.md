@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tronsmart T6 Mini Altavoces Bluetooth 15 al 55.02 % de descuento'
-date: 2020-03-14 18:42:26
+date: 2020-03-15 18:44:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rUr3EdpiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rUr3EdpiL._SL200_.jpg' ]
 comments: true

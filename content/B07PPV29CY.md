@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxesla Adaptador de Bluetooth 4.0 Bluet al 30.03 % de descuento'
-date: 2020-03-14 18:42:17
+date: 2020-03-15 18:44:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/416HNqQnJeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416HNqQnJeL._SL200_.jpg' ]
 comments: true

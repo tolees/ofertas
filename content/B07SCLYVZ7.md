@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Lee Rider Jacket Chaqueta Vaquera  Azul '
-date: 2020-02-24 19:04:53
-thumbnailImage: 'https://m.media-amazon.com/images/I/4156EKOIhWL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/4156EKOIhWL._AC_._SL200_.jpg' ]
+date: 2020-03-15 19:03:47
+thumbnailImage: 'https://m.media-amazon.com/images/I/4156EKOIhWL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/4156EKOIhWL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Lee Rider Jacket Chaqueta Vaquera  Azul  Cerulean EI   XX-Large para Hombre](https://www.amazon.com/dp/B07SCLYVZ7/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 54.98 EUR (original: 109.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/4156EKOIhWL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07SCLYVZ7/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/4156EKOIhWL._SL200_.jpg)](https://www.amazon.com/dp/B07SCLYVZ7/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07SCLYVZ7/?tag=redken08-20)
 
