@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.99 % en Revell Build & Play - Star Wars Resistan'
-date: 2020-03-13 02:37:54
+date: 2020-03-15 02:33:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/616zCTx21zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/616zCTx21zL._SL200_.jpg' ]
 comments: true

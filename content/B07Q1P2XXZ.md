@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '【Vuelta al Colegio】 REYLEO Organizador d al 45.50 % de descuento'
-date: 2020-03-13 19:07:22
+date: 2020-03-14 19:27:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cTUBUqTDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cTUBUqTDL._SL200_.jpg' ]
 comments: true

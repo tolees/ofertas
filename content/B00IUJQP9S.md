@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.76 % en BERING Reloj Analógico para Hombre de Cu'
-date: 2020-03-13 00:56:51
+date: 2020-03-15 07:21:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ho7wbgfqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ho7wbgfqL._SL200_.jpg' ]
 comments: true

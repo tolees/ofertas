@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LAST LEVEL- Funko Figura Pop FORTNITE: T al 32.54 % de descuento'
-date: 2020-01-03 15:03:49
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PuqRi%2BB8L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PuqRi%2BB8L._SL200_.jpg' ]
+title: 'Funko Last Level Figura Pop FORTNITE: TR al 46.77 % de descuento'
+date: 2020-03-15 02:42:58
+thumbnailImage: 'https://m.media-amazon.com/images/I/51PuqRi+B8L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51PuqRi+B8L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07L48FRQQ
 description:
-actualPrice: 10.76 EUR
+actualPrice: 8.49 EUR
 comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [LAST LEVEL- Funko Figura Pop FORTNITE: TRICERA Ops  Multicolor  FFK36024 ](https://www.amazon.com/dp/B07L48FRQQ/?tag=redken08-20) con 32.54 de descuento por 10.76 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Funko Last Level Figura Pop FORTNITE: TRICERA Ops  Multicolor  36024 ](https://www.amazon.com/dp/B07L48FRQQ/?tag=redken08-20) con 46.77 de descuento por 8.49 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51PuqRi%2BB8L._SL200_.jpg)](https://www.amazon.com/dp/B07L48FRQQ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51PuqRi+B8L._SL200_.jpg)](https://www.amazon.com/dp/B07L48FRQQ/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07L48FRQQ/?tag=redken08-20)
 

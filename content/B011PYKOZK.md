@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EXZACT Smart - Escala Analizadora Inteli al 42.87 % de descuento'
-date: 2020-03-13 10:41:14
+date: 2020-03-14 18:42:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/311YMp-nX-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311YMp-nX-L._SL200_.jpg' ]
 comments: true
