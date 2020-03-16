@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'ASUS TUF Gaming FX505DY-BQ024 - Portátil al 25.19 % de descuento'
-date: 2020-03-08 12:22:41
-thumbnailImage: 'https://m.media-amazon.com/images/I/41cK+jyAyoL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41cK+jyAyoL._AC_._SL200_.jpg' ]
+date: 2020-03-16 10:29:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/41cK+jyAyoL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41cK+jyAyoL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,10 +14,10 @@ comparePrice: 799.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ASUS TUF Gaming FX505DY-BQ024 - Portátil Gaming 15.6" FullHD  Ryzen 5 3550H  8GB RAM  512GB SSD  AMD Radeon RX560X-4GB  Sin sistema operativo  Negro Red Matter - Teclado QWERTY Español](https://www.amazon.com/dp/B07X36MJLD/?tag=redken08-20) a 598.5 EUR (original: 799.99 EUR) (25.19 %  de descuento) en el siguiente enlace!
+Está [ASUS TUF Gaming FX505DY-BQ024 - Portátil Gaming 15.6" FullHD  Ryzen 5 3550H  8GB RAM  512GB SSD  AMD Radeon RX560X-4GB  Sin sistema operativo  Negro Red Matter - Teclado QWERTY Español](https://www.amazon.com/dp/B07X36MJLD/?tag=redken08-20) con 25.19 de descuento por 598.5 EUR (original: 799.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41cK+jyAyoL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07X36MJLD/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41cK+jyAyoL._SL200_.jpg)](https://www.amazon.com/dp/B07X36MJLD/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07X36MJLD/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07X36MJLD/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

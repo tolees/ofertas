@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Reloj Analógico-Digital par al 40.00 % de descuento'
-date: 2020-03-12 16:53:45
+date: 2020-03-16 16:09:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nEawqpDzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nEawqpDzL._SL200_.jpg' ]
 comments: true

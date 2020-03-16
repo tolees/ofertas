@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Robot STEM Toy | 3 In 1 Fun Creative Set al 30.83 % de descuento'
-date: 2020-03-15 02:25:05
+date: 2020-03-16 10:26:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ULVcjbCLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ULVcjbCLL._SL200_.jpg' ]
 comments: true

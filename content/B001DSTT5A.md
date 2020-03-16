@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lexibook  CG1300 Ajedrez electrónico Che al 25.08 % de descuento'
-date: 2020-03-12 17:05:40
+date: 2020-03-16 16:32:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GgNgcA9VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GgNgcA9VL._SL200_.jpg' ]
 comments: true

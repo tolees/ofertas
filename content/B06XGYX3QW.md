@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Vinyl: Valerian: Doghan Daguis  10 al 61.63 % de descuento'
-date: 2020-03-14 10:38:57
+date: 2020-03-16 10:39:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uHoXroPfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uHoXroPfL._SL200_.jpg' ]
 comments: true
