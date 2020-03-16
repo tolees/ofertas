@@ -14,10 +14,10 @@ comparePrice: 2000.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony Alpha ILCE-7M2K - Cámara EVIL con montura tipo E y sensor de fotograma completo  color negro](https://www.amazon.com/dp/B00Q2KEVA2/?tag=redken08-20) a 934.92 EUR (original: 2000.0 EUR) (53.25 %  de descuento) en el siguiente enlace!
+Está [Sony Alpha ILCE-7M2K - Cámara EVIL con montura tipo E y sensor de fotograma completo  color negro](https://www.amazon.com/dp/B00Q2KEVA2/?tag=redken08-20) con 53.25 de descuento por 934.92 EUR (original: 2000.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dKx7eF5oL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00Q2KEVA2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00Q2KEVA2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00Q2KEVA2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

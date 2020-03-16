@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.83 % en Persil Washing Powder  8.385 kg  Non Bio'
-date: 2020-03-14 00:55:21
+date: 2020-03-15 22:20:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WIqvkKFoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WIqvkKFoL._SL200_.jpg' ]
 comments: true

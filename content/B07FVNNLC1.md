@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medidor Laser de Distancia LOMVUM 50M Pr al 83.58 % de descuento'
-date: 2020-03-13 20:25:17
+date: 2020-03-15 22:25:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51h9cmlXolL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51h9cmlXolL._SL200_.jpg' ]
 comments: true

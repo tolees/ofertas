@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION E4251 - Ordenador portátil de 14" al 29.38 % de descuento'
-date: 2020-03-12 09:19:34
+date: 2020-03-16 00:10:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/418qlUYyXrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418qlUYyXrL._SL200_.jpg' ]
 comments: true

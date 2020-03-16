@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.21 % en Lenovo Ideapad 330-15ARR- Ordenador Port'
-date: 2020-03-13 09:04:38
+date: 2020-03-15 22:07:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yMrMfVaVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yMrMfVaVL._SL200_.jpg' ]
 comments: true
