@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Harpoon RGB Ratón Óptico para Ju al 50.02 % de descuento'
-date: 2020-03-14 21:55:39
+date: 2020-03-16 09:42:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31sLIJC2yQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31sLIJC2yQL._SL200_.jpg' ]
 comments: true

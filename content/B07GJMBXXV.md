@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigital WiFi Repetidor Router  300Mbps E al 45.96 % de descuento'
-date: 2020-03-12 10:19:30
+date: 2020-03-16 08:13:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31z+QV23JxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31z+QV23JxL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS RT-AX88U - Router Gaming AX6000 Dob al 31.66 % de descuento'
-date: 2020-03-15 06:15:40
+date: 2020-03-16 08:32:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cMGB6cgZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cMGB6cgZL._SL200_.jpg' ]
 comments: true

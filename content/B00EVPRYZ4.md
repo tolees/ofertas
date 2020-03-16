@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Calvin Klein Thong Tanga  Schwarz  Black al 42.00 % de descuento'
-date: 2020-03-01 22:12:39
-thumbnailImage: 'https://m.media-amazon.com/images/I/41bUYh5sPAL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41bUYh5sPAL._AC_._SL200_.jpg' ]
+date: 2020-03-16 09:13:24
+thumbnailImage: 'https://m.media-amazon.com/images/I/41bUYh5sPAL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41bUYh5sPAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Calvin Klein Thong Tanga  Schwarz  Black 001   40  Talla del fabricante: Medium  para Mujer](https://www.amazon.com/dp/B00EVPRYZ4/?tag=redken08-20) con 42.00 de descuento por 8.99 EUR (original: 15.5 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41bUYh5sPAL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00EVPRYZ4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41bUYh5sPAL._SL200_.jpg)](https://www.amazon.com/dp/B00EVPRYZ4/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00EVPRYZ4/?tag=redken08-20)
 

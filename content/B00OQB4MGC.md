@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.05 % en High Peak Bermuda Tarp Grau Tienda  Gris'
-date: 2020-03-13 20:31:28
+date: 2020-03-16 09:18:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kOlcmHddL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kOlcmHddL._SL200_.jpg' ]
 comments: true
