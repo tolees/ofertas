@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Magic 9473 Schneetroll mit Sch al 50.03 % de descuento'
-date: 2020-03-14 10:36:48
+date: 2020-03-17 10:59:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AYzCF1umL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AYzCF1umL._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Apple Smart Battery Case  for iPhone XR  al 61.07 % de descuento'
-date: 2020-03-05 08:05:29
-thumbnailImage: 'https://m.media-amazon.com/images/I/21NU1Qp1XjL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/21NU1Qp1XjL._AC_._SL200_.jpg' ]
+date: 2020-03-17 11:42:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/21NU1Qp1XjL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/21NU1Qp1XjL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Apple Smart Battery Case  for iPhone XR  - White](https://www.amazon.com/dp/B07MX2VDYY/?tag=redken08-20) con 61.07 de descuento por 58.0 EUR (original: 149.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/21NU1Qp1XjL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MX2VDYY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/21NU1Qp1XjL._SL200_.jpg)](https://www.amazon.com/dp/B07MX2VDYY/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07MX2VDYY/?tag=redken08-20)
 

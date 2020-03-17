@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Lenovo L27i-28 68 58 cm  27 Zoll Full HD al 35.70 % de descuento'
-date: 2019/10/22 19:23:29 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZMVyezKML._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZMVyezKML._SL200_.jpg' ]
+title: 'Lenovo L27i-28 pantalla para PC 68 6 cm  al 34.68 % de descuento'
+date: 2020-03-17 13:03:48
+thumbnailImage: 'https://m.media-amazon.com/images/I/31ZMVyezKML._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31ZMVyezKML._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07F9WWSHC
 description:
-actualPrice: 127.95 EUR
-comparePrice: 199 EUR
+actualPrice: 129.99 EUR
+comparePrice: 199.0 EUR
 inStock: true
 ---
 
-Está [Lenovo L27i-28 68 58 cm  27 Zoll Full HD IPS matt  Monitor  VGA  HDMI  4ms Reaktionszeit  AMD FreeSync  schwarz](https://www.amazon.com/dp/B07F9WWSHC/?tag=redken08-20) con 35.70 de descuento por 127.95 EUR (original: 199 EUR) en el siguiente enlace!
+Está [Lenovo L27i-28 pantalla para PC 68 6 cm  27"  Full HD Plana Negro - Monitor  68 6 cm  27"   1920 x 1080 Pixeles  Full HD  4 ms  Negro ](https://www.amazon.com/dp/B07F9WWSHC/?tag=redken08-20) con 34.68 de descuento por 129.99 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31ZMVyezKML._SL200_.jpg)](https://www.amazon.com/dp/B07F9WWSHC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31ZMVyezKML._SL200_.jpg)](https://www.amazon.com/dp/B07F9WWSHC/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07F9WWSHC/?tag=redken08-20)
 

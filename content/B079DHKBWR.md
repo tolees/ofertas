@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.82 % en Casio Reloj Digital para Hombre de Cuarz'
-date: 2020-03-15 10:40:57
+date: 2020-03-17 13:04:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eoZGp-HSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eoZGp-HSL._SL200_.jpg' ]
 comments: true

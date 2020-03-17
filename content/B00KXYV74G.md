@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Kraken USB - Auriculares al 50.16 % de descuento'
-date: 2020-03-11 20:35:05
+date: 2020-03-17 12:32:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-COaoMByL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-COaoMByL._SL200_.jpg' ]
 comments: true

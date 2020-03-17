@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jojoin 35 Piezas Kit Seguridad Bebe  Kit al 36.01 % de descuento'
-date: 2020-03-11 12:03:48
+date: 2020-03-17 13:33:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bE5q2IKfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bE5q2IKfL._SL200_.jpg' ]
 comments: true
