@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.79 % en Victure 1080P Cámara IP WiFi Cámara de V'
-date: 2020-03-16 08:36:57
+date: 2020-03-17 17:06:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-FCNZVb+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-FCNZVb+L._SL200_.jpg' ]
 comments: true

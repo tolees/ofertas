@@ -14,10 +14,10 @@ comparePrice: 349.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Panasonic Lumix DC-FZ82 - Cámara Bridge de 18.1 MP   Zoom de 60X  Objetivo F2.8-5.9 de 20-1200 mm  tecnología DFD  4K  WIFI   Color Negro](https://www.amazon.com/dp/B01NARXQ2E/?tag=redken08-20) a 253.92 EUR (original: 349.9 EUR) (27.43 %  de descuento) en el siguiente enlace!
+Está [Panasonic Lumix DC-FZ82 - Cámara Bridge de 18.1 MP   Zoom de 60X  Objetivo F2.8-5.9 de 20-1200 mm  tecnología DFD  4K  WIFI   Color Negro](https://www.amazon.com/dp/B01NARXQ2E/?tag=redken08-20) con 27.43 de descuento por 253.92 EUR (original: 349.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41oTLaQPwtL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01NARXQ2E/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01NARXQ2E/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01NARXQ2E/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
