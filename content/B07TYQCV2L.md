@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 44988 POP Marvel: Fantastic Four - al 28.45 % de descuento'
-date: 2020-03-15 10:23:12
+date: 2020-03-17 10:26:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KXV3ufjnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KXV3ufjnL._SL200_.jpg' ]
 comments: true

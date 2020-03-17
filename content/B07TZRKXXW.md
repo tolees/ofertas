@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 35.22 % en BRIKSMAX Led Beleuchtungsset für Lego St'
-date: 2020-03-16 02:35:04
+title: 'Descuento del 56.01 % en BRIKSMAX Kit de Iluminación Led para Ego'
+date: 2020-03-16 02:44:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TZRKXXW
 description:
-actualPrice: 45.99 EUR
-comparePrice: 70.99 EUR
+actualPrice: 43.99 EUR
+comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kylo Ren s Command Shuttle  Kompatibel Mit Lego 75104 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TZRKXXW/?tag=redken08-20) con un 35.22 % de descuento con precio de oferta de 45.99 EUR (original: 70.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX Kit de Iluminación Led para Ego Star Wars Kylo Ren s Command Shuttle  Compatible con Ladrillos de Construcción Lego Modelo 75104  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TZRKXXW/?tag=redken08-20) con un 56.01 % de descuento con precio de oferta de 43.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg)](https://www.amazon.com/dp/B07TZRKXXW/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.30 % en Corsair K65 Rapidfire RGB Teclado Mecáni'
-date: 2020-03-16 00:44:55
+date: 2020-03-17 09:37:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GnNn5HTpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GnNn5HTpL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Logitech K380 Wireless Multi-Device Keyb al 30.12 % de descuento'
-date: 2020-03-15 02:22:17
+title: 'Logitech K380 Wireless Multi-Device Keyb al 34.30 % de descuento'
+date: 2020-03-17 10:28:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IuZk+N5XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IuZk+N5XL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B013SL1YXO
 description:
-actualPrice: 24.45 GBP
+actualPrice: 22.99 GBP
 comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Está [Logitech K380 Wireless Multi-Device Keyboard for Windows  Apple iOS  Apple TV android or Chrome  Bluetooth  Compact Space-Saving Design  PC/Mac/Laptop/Smartphone/Tablet  QWERTY UK Layout - Black](https://www.amazon.com/dp/B013SL1YXO/?tag=redken08-20) con 30.12 de descuento por 24.45 GBP (original: 34.99 GBP) en el siguiente enlace!
+Está [Logitech K380 Wireless Multi-Device Keyboard for Windows  Apple iOS  Apple TV android or Chrome  Bluetooth  Compact Space-Saving Design  PC/Mac/Laptop/Smartphone/Tablet  QWERTY UK Layout - Black](https://www.amazon.com/dp/B013SL1YXO/?tag=redken08-20) con 34.30 de descuento por 22.99 GBP (original: 34.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41IuZk+N5XL._SL200_.jpg)](https://www.amazon.com/dp/B013SL1YXO/?tag=redken08-20)
 
