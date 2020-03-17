@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Switch Nintendo Labo - Set de personaliz al 82.08 % de descuento'
-date: 2020-03-15 17:48:20
+date: 2020-03-16 18:17:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UtRf621uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UtRf621uL._SL200_.jpg' ]
 comments: true

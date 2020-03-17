@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Johnnie Walker Gold Whisky Escocés - 700 al 25.58 % de descuento'
-date: 2020-03-06 18:09:58
-thumbnailImage: 'https://m.media-amazon.com/images/I/31bHIJ2ugyL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31bHIJ2ugyL._AC_._SL200_.jpg' ]
+title: 'Johnnie Walker Gold Whisky Escocés - 700 al 37.01 % de descuento'
+date: 2020-03-17 08:34:09
+thumbnailImage: 'https://m.media-amazon.com/images/I/31bHIJ2ugyL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31bHIJ2ugyL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B009SLYYCW
 description:
-actualPrice: 34.85 EUR
+actualPrice: 29.5 EUR
 comparePrice: 46.83 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Johnnie Walker Gold Whisky Escocés - 700 ml](https://www.amazon.com/dp/B009SLYYCW/?tag=redken08-20) a 34.85 EUR (original: 46.83 EUR) (25.58 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Johnnie Walker Gold Whisky Escocés - 700 ml](https://www.amazon.com/dp/B009SLYYCW/?tag=redken08-20) a 29.5 EUR (original: 46.83 EUR) (37.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31bHIJ2ugyL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B009SLYYCW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31bHIJ2ugyL._SL200_.jpg)](https://www.amazon.com/dp/B009SLYYCW/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B009SLYYCW/?tag=redken08-20)
 

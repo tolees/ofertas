@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'L CARNITINA-Navit Plus. Complemento alim al 45.33 % de descuento'
-date: 2020-03-08 13:42:27
-thumbnailImage: 'https://m.media-amazon.com/images/I/41IvuTE3b9L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41IvuTE3b9L._AC_._SL200_.jpg' ]
+date: 2020-03-16 21:24:21
+thumbnailImage: 'https://m.media-amazon.com/images/I/41HutVSM0dL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41HutVSM0dL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [L CARNITINA-Navit Plus. Complemento alimenticio natural para la pérdida de peso y potente quemador de grasa deportivo. Gana mayor aporte de energía y resistencia.Aminoácidos deportivos. 120 cápsulas.](https://www.amazon.com/dp/B075WXQXHJ/?tag=redken08-20) a 15.85 EUR (original: 28.99 EUR) (45.33 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41IvuTE3b9L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B075WXQXHJ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41HutVSM0dL._SL200_.jpg)](https://www.amazon.com/dp/B075WXQXHJ/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B075WXQXHJ/?tag=redken08-20)
 

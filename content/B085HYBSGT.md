@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Dittzz Acrylic Display Box with LED Ligh al 30.05 % de descuento'
-date: 2020-03-07 02:27:20
-thumbnailImage: 'https://m.media-amazon.com/images/I/51oZL6cZH-L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51oZL6cZH-L._AC_._SL200_.jpg' ]
+date: 2020-03-16 18:37:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/51oZL6cZH-L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51oZL6cZH-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Dittzz Acrylic Display Box with LED Light  Dustproof Display Case ShowCase for LEGO Technic 42083 Bugatti Chiron  NOT Included The Model ](https://www.amazon.com/dp/B085HYBSGT/?tag=redken08-20) a 269.99 GBP (original: 385.99 GBP) (30.05 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51oZL6cZH-L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B085HYBSGT/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51oZL6cZH-L._SL200_.jpg)](https://www.amazon.com/dp/B085HYBSGT/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B085HYBSGT/?tag=redken08-20)
 

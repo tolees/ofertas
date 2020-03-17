@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 67.50 % en BENYAR Relojes Cronógrafo para Hombre Mo'
-date: 2020-03-13 23:43:01
+date: 2020-03-16 21:21:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nIeOOjyhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nIeOOjyhL._SL200_.jpg' ]
 comments: true

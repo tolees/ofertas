@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Sharp LC-55UI8652E - UHD Smart TV Slim d al 46.26 % de descuento'
-date: 2020-03-10 16:03:53
-thumbnailImage: 'https://m.media-amazon.com/images/I/510GQyle9WL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/510GQyle9WL._AC_._SL200_.jpg' ]
+title: 'Sharp LC-55UI8652E - UHD Smart TV Slim d al 47.45 % de descuento'
+date: 2020-03-16 21:48:09
+thumbnailImage: 'https://m.media-amazon.com/images/I/510GQyle9WL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/510GQyle9WL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07DG1QXBK
 description:
-actualPrice: 429.9 EUR
-comparePrice: 799.99 EUR
+actualPrice: 399.99 EUR
+comparePrice: 761.15 EUR
 inStock: true
 ---
 
-Está [Sharp LC-55UI8652E - UHD Smart TV Slim de 55"  resolución 3840 x 2160  HDR+  3X HDMI  2X USB  1x USB 3.0  Color Negro](https://www.amazon.com/dp/B07DG1QXBK/?tag=redken08-20) con 46.26 de descuento por 429.9 EUR (original: 799.99 EUR) en el siguiente enlace!
+Está [Sharp LC-55UI8652E - UHD Smart TV Slim de 55"  resolución 3840 x 2160  HDR+  3X HDMI  2X USB  1x USB 3.0  Color Negro](https://www.amazon.com/dp/B07DG1QXBK/?tag=redken08-20) con 47.45 de descuento por 399.99 EUR (original: 761.15 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/510GQyle9WL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DG1QXBK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/510GQyle9WL._SL200_.jpg)](https://www.amazon.com/dp/B07DG1QXBK/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07DG1QXBK/?tag=redken08-20)
 

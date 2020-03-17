@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GODNECE Technic Off-road Car  2.4G RC Of al 50.00 % de descuento'
-date: 2020-03-14 18:34:13
+date: 2020-03-16 18:23:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Id7hR592L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Id7hR592L._SL200_.jpg' ]
 comments: true
