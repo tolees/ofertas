@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.91 % en Pioneer SE-MJ553BT - Auriculares inalámb'
-date: 2020-03-16 14:28:25
+date: 2020-03-17 23:42:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/417yrjELbyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417yrjELbyL._SL200_.jpg' ]
 comments: true

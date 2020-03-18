@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 24MK400H-B - Monitor Gaming FHD de 59 al 28.06 % de descuento'
-date: 2020-03-16 05:51:36
+date: 2020-03-17 21:02:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MM-IW74OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MM-IW74OL._SL200_.jpg' ]
 comments: true

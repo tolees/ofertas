@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LED Tira De TV  Diyife 2.5M 75 Leds Mult al 47.39 % de descuento'
-date: 2020-03-05 17:03:50
-thumbnailImage: 'https://m.media-amazon.com/images/I/51DaKigw7lL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51DaKigw7lL._AC_._SL200_.jpg' ]
+date: 2020-03-17 17:45:50
+thumbnailImage: 'https://m.media-amazon.com/images/I/51DaKigw7lL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51DaKigw7lL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [LED Tira De TV  Diyife 2.5M 75 Leds Multicolor RetroiluminacióN con FR Remoto de TV 5050RGB Bias LluminacióN para HDTV de 40-60 Pulgadas  Alimentado por USB para TV/PC](https://www.amazon.com/dp/B07VJYRBB1/?tag=redken08-20) a 9.99 EUR (original: 18.99 EUR) (47.39 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51DaKigw7lL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07VJYRBB1/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51DaKigw7lL._SL200_.jpg)](https://www.amazon.com/dp/B07VJYRBB1/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07VJYRBB1/?tag=redken08-20)
 

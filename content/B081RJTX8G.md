@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Leg al 45.00 % de descuento'
-date: 2020-03-15 18:50:21
+title: 'Descuento del 50.01 % en BRIKSMAX Led Lighting Kit for LEGO Techn'
+date: 2020-03-17 10:24:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oeqBli15L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oeqBli15L._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B081RJTX8G
 description:
-actualPrice: 54.99 EUR
-comparePrice: 99.99 EUR
+actualPrice: 49.99 GBP
+comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Technic Land Rover Defender Compatible con Ladrillos de Construcción Lego Modelo 42110  Juego de Legos no Incluido](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20) a 54.99 EUR (original: 99.99 EUR) (45.00 %  de descuento) en el siguiente enlace!
+Tienes [BRIKSMAX Led Lighting Kit for LEGO Technic Land Rover Defender Compatible with LEGO 42110 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20) con un 50.01 % de descuento con precio de oferta de 49.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51oeqBli15L._SL200_.jpg)](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

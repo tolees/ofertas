@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 78.52 % en LEGO DISK66168K Brick Costume Kids Iconi'
-date: 2020-03-15 18:24:28
+date: 2020-03-17 18:22:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JagWI+vPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JagWI+vPL._SL200_.jpg' ]
 comments: true

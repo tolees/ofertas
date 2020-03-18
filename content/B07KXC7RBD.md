@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apisérum Defensas Cápsulas - Mantiene y  al 52.84 % de descuento'
-date: 2020-03-15 19:18:31
+date: 2020-03-17 23:32:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZzQX2UQ2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZzQX2UQ2L._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'HP CB436A 36A Cartucho de Tóner Original al 36.69 % de descuento'
-date: 2020-02-01 04:46:46
-thumbnailImage: 'https://m.media-amazon.com/images/I/41JT5ybHY1L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41JT5ybHY1L._AC_._SL200_.jpg' ]
+title: 'HP CB436A 36A Cartucho de Tóner Original al 73.59 % de descuento'
+date: 2020-03-18 00:18:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/41JT5ybHY1L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41JT5ybHY1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B000XVLZNC
 description:
-actualPrice: 64.51 EUR
+actualPrice: 26.91 EUR
 comparePrice: 101.9 EUR
 inStock: true
 ---
 
-Está [HP CB436A 36A Cartucho de Tóner Original  1 unidad  negro](https://www.amazon.com/dp/B000XVLZNC/?tag=redken08-20) con 36.69 de descuento por 64.51 EUR (original: 101.9 EUR) en el siguiente enlace!
+Está [HP CB436A 36A Cartucho de Tóner Original  1 unidad  negro](https://www.amazon.com/dp/B000XVLZNC/?tag=redken08-20) con 73.59 de descuento por 26.91 EUR (original: 101.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41JT5ybHY1L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B000XVLZNC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41JT5ybHY1L._SL200_.jpg)](https://www.amazon.com/dp/B000XVLZNC/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B000XVLZNC/?tag=redken08-20)
 

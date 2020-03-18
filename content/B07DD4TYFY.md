@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Modern Jaspe Camiseta  Bl al 51.72 % de descuento'
-date: 2020-03-10 12:29:03
-thumbnailImage: 'https://m.media-amazon.com/images/I/31KxqEJcpvL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31KxqEJcpvL._AC_._SL200_.jpg' ]
+date: 2020-03-17 18:04:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/31HnCoMHuGL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31HnCoMHuGL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Tommy Hilfiger Modern Jaspe Camiseta  Blanco  Classic White 100   Large para Hombre](https://www.amazon.com/dp/B07DD4TYFY/?tag=redken08-20) a 14.0 EUR (original: 29.0 EUR) (51.72 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31KxqEJcpvL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DD4TYFY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31HnCoMHuGL._SL200_.jpg)](https://www.amazon.com/dp/B07DD4TYFY/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07DD4TYFY/?tag=redken08-20)
 

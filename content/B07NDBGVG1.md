@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Technic 42097 - Spinnenkran al 27.05 % de descuento'
-date: 2020-02-25 09:28:25
+title: 'LEGO 42097 Technic Compact Crawler Crane al 29.99 % de descuento'
+date: 2020-03-11 08:37:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RaQve+1PL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RaQve+1PL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07NDBGVG1
 description:
-actualPrice: 65.65 EUR
-comparePrice: 89.99 EUR
+actualPrice: 56.0 GBP
+comparePrice: 79.99 GBP
 inStock: true
 ---
 
-Está [LEGO Technic 42097 - Spinnenkran](https://www.amazon.com/dp/B07NDBGVG1/?tag=redken08-20) con 27.05 de descuento por 65.65 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [LEGO 42097 Technic Compact Crawler Crane and Tower Crane  2 in 1 Spiderlike Model  Construction Set](https://www.amazon.com/dp/B07NDBGVG1/?tag=redken08-20) con 29.99 de descuento por 56.0 GBP (original: 79.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51RaQve+1PL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NDBGVG1/?tag=redken08-20)
 

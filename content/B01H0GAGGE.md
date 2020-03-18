@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Warner Bros Interactive Spain Lego Dimen al 66.57 % de descuento'
-date: 2020-03-16 18:52:59
+title: 'Warner Bros Interactive Spain Lego Dimen al 70.46 % de descuento'
+date: 2020-03-17 18:56:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/5127Dd0sfmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5127Dd0sfmL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01H0GAGGE
 description:
-actualPrice: 15.04 EUR
+actualPrice: 13.29 EUR
 comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Está [Warner Bros Interactive Spain Lego Dimensions: Fantastic Beasts  Story Pack ](https://www.amazon.com/dp/B01H0GAGGE/?tag=redken08-20) con 66.57 de descuento por 15.04 EUR (original: 44.99 EUR) en el siguiente enlace!
+Está [Warner Bros Interactive Spain Lego Dimensions: Fantastic Beasts  Story Pack ](https://www.amazon.com/dp/B01H0GAGGE/?tag=redken08-20) con 70.46 de descuento por 13.29 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5127Dd0sfmL._SL200_.jpg)](https://www.amazon.com/dp/B01H0GAGGE/?tag=redken08-20)
 
