@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Olympus V311030BE000 - Objetivo para Mic al 33.78 % de descuento'
-date: 2020-03-04 21:45:41
-thumbnailImage: 'https://m.media-amazon.com/images/I/41kgrEdbBDL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41kgrEdbBDL._AC_._SL200_.jpg' ]
+date: 2020-03-18 19:37:31
+thumbnailImage: 'https://m.media-amazon.com/images/I/41kgrEdbBDL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41kgrEdbBDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Olympus V311030BE000 - Objetivo para Micro Cuatro Tercios  distancia focal fija 45mm  apertura f/1.8-1 8  zoom óptico 1x   color negro](https://www.amazon.com/dp/B00CPLQ7GI/?tag=redken08-20) con 33.78 de descuento por 197.99 EUR (original: 299.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41kgrEdbBDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00CPLQ7GI/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41kgrEdbBDL._SL200_.jpg)](https://www.amazon.com/dp/B00CPLQ7GI/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00CPLQ7GI/?tag=redken08-20)
 

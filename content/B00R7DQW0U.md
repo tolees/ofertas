@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Final Fantasy X/X-2: HD Remaster al 25.21 % de descuento'
-date: 2020-03-03 10:03:07
-thumbnailImage: 'https://m.media-amazon.com/images/I/51nwO-c5npL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51nwO-c5npL._AC_._SL200_.jpg' ]
+date: 2020-03-18 20:24:05
+thumbnailImage: 'https://m.media-amazon.com/images/I/51nwO-c5npL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51nwO-c5npL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Final Fantasy X/X-2: HD Remaster](https://www.amazon.com/dp/B00R7DQW0U/?tag=redken08-20) a 14.95 EUR (original: 19.99 EUR) (25.21 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51nwO-c5npL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00R7DQW0U/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51nwO-c5npL._SL200_.jpg)](https://www.amazon.com/dp/B00R7DQW0U/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00R7DQW0U/?tag=redken08-20)
 

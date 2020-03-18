@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'TACKLIFE 1800W 4700RPM Sierra Circular   al 46.42 % de descuento'
-date: 2020-02-20 07:47:17
-thumbnailImage: 'https://m.media-amazon.com/images/I/51FejGzNL+L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51FejGzNL+L._AC_._SL200_.jpg' ]
+title: 'TACKLIFE 1800W 4700RPM Sierra Circular   al 63.13 % de descuento'
+date: 2020-03-18 20:15:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/51FejGzNL+L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51FejGzNL+L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FG7QP6L
 description:
-actualPrice: 66.97 EUR
+actualPrice: 46.09 EUR
 comparePrice: 124.99 EUR
 inStock: true
 ---
 
-Está [TACKLIFE 1800W 4700RPM Sierra Circular  Cuchilla de 24T 190MM  Sierra Compacta con Protector de Aluminio  Extractor de Polvo Oblicuo  Corte 67mm  90°   47mm  45°   Cable de 3 Metros - ECS01A](https://www.amazon.com/dp/B07FG7QP6L/?tag=redken08-20) con 46.42 de descuento por 66.97 EUR (original: 124.99 EUR) en el siguiente enlace!
+Está [TACKLIFE 1800W 4700RPM Sierra Circular  Cuchilla de 24T 190MM  Sierra Compacta con Protector de Aluminio  Extractor de Polvo Oblicuo  Corte 67mm  90°   47mm  45°   Cable de 3 Metros - ECS01A](https://www.amazon.com/dp/B07FG7QP6L/?tag=redken08-20) con 63.13 de descuento por 46.09 EUR (original: 124.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51FejGzNL+L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FG7QP6L/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51FejGzNL+L._SL200_.jpg)](https://www.amazon.com/dp/B07FG7QP6L/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07FG7QP6L/?tag=redken08-20)
 
