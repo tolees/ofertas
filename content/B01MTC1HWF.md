@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'JACK & JONES - Jorabe - Jersey de Punto  al 49.99 % de descuento'
-date: 2019/12/25 20:40:50 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ahV%2BgeYCL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ahV%2BgeYCL._SL200_.jpg' ]
+title: 'JACK & JONES - Jorabe - Jersey de Punto  al 54.99 % de descuento'
+date: 2020-03-18 06:56:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/51vD61mb1yL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51vD61mb1yL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01MTC1HWF
 description:
-actualPrice: 20 EUR
+actualPrice: 18.0 EUR
 comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES - Jorabe - Jersey de Punto - Deauville Mauve](https://www.amazon.com/dp/B01MTC1HWF/?tag=redken08-20) a 20 EUR (original: 39.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES - Jorabe - Jersey de Punto - Deauville Mauve](https://www.amazon.com/dp/B01MTC1HWF/?tag=redken08-20) a 18.0 EUR (original: 39.99 EUR) (54.99 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ahV%2BgeYCL._SL200_.jpg)](https://www.amazon.com/dp/B01MTC1HWF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51vD61mb1yL._SL200_.jpg)](https://www.amazon.com/dp/B01MTC1HWF/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01MTC1HWF/?tag=redken08-20)
 

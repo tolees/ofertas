@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'COOAU Cámara Deportiva 4K WiFi 20MP Cama al 31.11 % de descuento'
-date: 2020-03-12 22:00:41
+title: 'COOAU Cámara Deportiva 4K WiFi 20MP Cama al 28.89 % de descuento'
+date: 2020-03-18 14:47:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RP75ngNLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RP75ngNLL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MMCXLVF
 description:
-actualPrice: 61.99 EUR
+actualPrice: 63.99 EUR
 comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [COOAU Cámara Deportiva 4K WiFi 20MP Camara Acción Sumergible Agua de 40M con Control Remoto y Micrófono Externo  Camara Acuática con 2 Baterías de 1200 mAh y Varios Kits para Bicicleta Casco Buceo  2 ](https://www.amazon.com/dp/B07MMCXLVF/?tag=redken08-20) con 31.11 de descuento por 61.99 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [COOAU Cámara Deportiva 4K WiFi 20MP Camara Acción Sumergible Agua de 40M con Control Remoto y Micrófono Externo  Camara Acuática con 2 Baterías de 1200 mAh y Varios Kits para Bicicleta Casco Buceo  2 ](https://www.amazon.com/dp/B07MMCXLVF/?tag=redken08-20) con 28.89 de descuento por 63.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51RP75ngNLL._SL200_.jpg)](https://www.amazon.com/dp/B07MMCXLVF/?tag=redken08-20)
 

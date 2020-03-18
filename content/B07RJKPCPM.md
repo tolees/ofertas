@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Cozy 3D  Zapatillas Bajas al 52.38 % de descuento'
-date: 2020-03-17 08:44:14
+date: 2020-03-18 11:35:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FfNMGsrCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FfNMGsrCL._SL200_.jpg' ]
 comments: true

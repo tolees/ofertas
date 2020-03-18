@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.83 % en NAIXUES 2019 Smartwatch Niños  Reloj Int'
-date: 2020-03-15 18:16:46
+date: 2020-03-18 12:23:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bsO3JrITL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bsO3JrITL._SL200_.jpg' ]
 comments: true

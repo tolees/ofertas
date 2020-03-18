@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Salomon  Aksium  Máscara de esquí unisex al 44.01 % de descuento'
-date: 2020-02-20 19:46:09
-thumbnailImage: 'https://m.media-amazon.com/images/I/41bU9OtAcwL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41bU9OtAcwL._AC_._SL200_.jpg' ]
+date: 2020-03-18 11:50:58
+thumbnailImage: 'https://m.media-amazon.com/images/I/41bU9OtAcwL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41bU9OtAcwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Salomon  Aksium  Máscara de esquí unisex  Negro-Blanco/Negro  Solar Black   L40515800](https://www.amazon.com/dp/B07DQN18RX/?tag=redken08-20) a 27.99 EUR (original: 49.99 EUR) (44.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41bU9OtAcwL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DQN18RX/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41bU9OtAcwL._SL200_.jpg)](https://www.amazon.com/dp/B07DQN18RX/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07DQN18RX/?tag=redken08-20)
 

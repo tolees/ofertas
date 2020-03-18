@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75250 Star Wars Pasaana Speeder Jag al 26.01 % de descuento'
-date: 2020-03-03 17:37:41
+title: 'LEGO 75250 Star Wars Pasaana Speeder Cha al 29.98 % de descuento'
+date: 2020-03-11 05:25:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RUk5m4nNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RUk5m4nNL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07ND6C3RK
 description:
-actualPrice: 36.99 EUR
-comparePrice: 49.99 EUR
+actualPrice: 31.5 GBP
+comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75250 Star Wars Pasaana Speeder Jagd  Bauset  Mehrfarbig](https://www.amazon.com/dp/B07ND6C3RK/?tag=redken08-20) a 36.99 EUR (original: 49.99 EUR) (26.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75250 Star Wars Pasaana Speeder Chase Treadspeeder Tracked Vehicle Building Set  The Rise of Skywalker Collection  Multicolour](https://www.amazon.com/dp/B07ND6C3RK/?tag=redken08-20) a 31.5 GBP (original: 44.99 GBP) (29.98 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51RUk5m4nNL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07ND6C3RK/?tag=redken08-20)
 

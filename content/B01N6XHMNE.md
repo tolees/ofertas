@@ -14,10 +14,10 @@ comparePrice: 159.42 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mon Guerlain Eau de parfum - Perfume femenino - 100ml](https://www.amazon.com/dp/B01N6XHMNE/?tag=redken08-20) a 60.9 EUR (original: 159.42 EUR) (61.80 %  de descuento) en el siguiente enlace!
+Está [Mon Guerlain Eau de parfum - Perfume femenino - 100ml](https://www.amazon.com/dp/B01N6XHMNE/?tag=redken08-20) con 61.80 de descuento por 60.9 EUR (original: 159.42 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41d6BVOXZ7L._SL200_.jpg)](https://www.amazon.com/dp/B01N6XHMNE/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01N6XHMNE/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01N6XHMNE/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.58 % en adidas Continental 80 C  Zapatillas de D'
-date: 2020-03-17 12:33:37
+date: 2020-03-18 14:42:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GS0zbSjUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GS0zbSjUL._SL200_.jpg' ]
 comments: true

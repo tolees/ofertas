@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Echo Dot  3.ª generación  - Altavoz inte al 41.67 % de descuento'
-date: 2020-03-17 08:26:19
+date: 2020-03-18 14:45:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/410NAOZ6TML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410NAOZ6TML._SL200_.jpg' ]
 comments: true

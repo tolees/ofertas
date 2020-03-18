@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour UA Heatgear Long Sleeve Cam al 25.14 % de descuento'
-date: 2020-03-17 11:09:01
+date: 2020-03-18 12:22:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-EXU0KznL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-EXU0KznL._SL200_.jpg' ]
 comments: true

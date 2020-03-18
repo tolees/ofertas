@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming - Juego de mesa Detector d al 60.95 % de descuento'
-date: 2020-03-14 15:06:20
+date: 2020-03-18 12:35:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Q1DCBa78L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Q1DCBa78L._SL200_.jpg' ]
 comments: true
