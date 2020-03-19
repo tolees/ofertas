@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 70016 City Life My Little Town al 42.49 % de descuento'
-date: 2020-03-17 18:34:20
+title: 'PLAYMOBIL City Life 70016 Mein Blumenlad al 40.64 % de descuento'
+date: 2020-03-18 21:24:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pTZDsweaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pTZDsweaL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07JKWP1DK
 description:
-actualPrice: 23.0 GBP
-comparePrice: 39.99 GBP
+actualPrice: 23.74 EUR
+comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 70016 City Life My Little Town Flower Shop with Stickers](https://www.amazon.com/dp/B07JKWP1DK/?tag=redken08-20) con 42.49 de descuento por 23.0 GBP (original: 39.99 GBP) en el siguiente enlace!
+Está [PLAYMOBIL City Life 70016 Mein Blumenladen  Ab 4 Jahren](https://www.amazon.com/dp/B07JKWP1DK/?tag=redken08-20) con 40.64 de descuento por 23.74 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51pTZDsweaL._SL200_.jpg)](https://www.amazon.com/dp/B07JKWP1DK/?tag=redken08-20)
 

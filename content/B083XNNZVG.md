@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXX Technik Bausteine Auto G500 AWD Wago al 50.00 % de descuento'
-date: 2020-03-18 12:25:14
+date: 2020-03-19 13:22:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51a6nh0SO2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51a6nh0SO2L._SL200_.jpg' ]
 comments: true

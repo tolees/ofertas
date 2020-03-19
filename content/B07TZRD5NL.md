@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '72 Lapices de Colores Profesionales lapi al 34.40 % de descuento'
-date: 2020-03-18 12:18:28
+date: 2020-03-19 13:32:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51b+QgPZ95L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51b+QgPZ95L._SL200_.jpg' ]
 comments: true

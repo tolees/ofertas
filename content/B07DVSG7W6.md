@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.71 % en Jack Wolfskin Unisex-Erwachsene Warwick '
-date: 2020-03-11 11:09:12
+date: 2020-03-19 11:47:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r4OyGMjoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r4OyGMjoL._SL200_.jpg' ]
 comments: true
