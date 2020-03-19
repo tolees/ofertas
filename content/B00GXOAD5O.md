@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Funko Pop! - Vinyl: Game of Thrones: Tyr al 44.96 % de descuento'
-date: 2019/10/08 01:44:12 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bc4iBKEIL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bc4iBKEIL._SL200_.jpg' ]
+title: 'POP! Vinyl 3779 Actionfigur Game of Thro al 42.89 % de descuento'
+date: 2020-03-18 21:05:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/51+c4iBKEIL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51+c4iBKEIL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00GXOAD5O
 description:
-actualPrice: 8.25 EUR
-comparePrice: 14.99 EUR
+actualPrice: 7.99 EUR
+comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Está [Funko Pop! - Vinyl: Game of Thrones: Tyrion in Battle Armour  3779 ](https://www.amazon.com/dp/B00GXOAD5O/?tag=redken08-20) con 44.96 de descuento por 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [POP! Vinyl 3779 Actionfigur Game of Thrones: Tyrion Lannister In Battle Armor  Multi](https://www.amazon.com/dp/B00GXOAD5O/?tag=redken08-20) con 42.89 de descuento por 7.99 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51%2Bc4iBKEIL._SL200_.jpg)](https://www.amazon.com/dp/B00GXOAD5O/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51+c4iBKEIL._SL200_.jpg)](https://www.amazon.com/dp/B00GXOAD5O/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00GXOAD5O/?tag=redken08-20)
 

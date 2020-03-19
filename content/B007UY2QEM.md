@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.31 % en Just Watches 48-S1992-BL-BK - Reloj anal'
-date: 2020-03-14 18:29:39
+date: 2020-03-18 21:25:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LsmdY7GFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LsmdY7GFL._SL200_.jpg' ]
 comments: true

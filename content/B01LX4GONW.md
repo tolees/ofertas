@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Sonicare DiamondClean Electric T al 73.70 % de descuento'
-date: 2020-03-17 20:03:52
+date: 2020-03-19 05:42:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gfcZCjLcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gfcZCjLcL._SL200_.jpg' ]
 comments: true
