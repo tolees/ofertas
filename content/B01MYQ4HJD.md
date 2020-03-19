@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.82 % en Logitech G203 Prodigy Ratón Gaming con c'
-date: 2020-03-16 11:09:26
+date: 2020-03-19 11:07:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Ggu6QYh+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Ggu6QYh+L._SL200_.jpg' ]
 comments: true
