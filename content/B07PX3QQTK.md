@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 36.20 % en Funko 42990 POP. Vinyl: Movies: Big - Zo'
-date: 2020-03-18 20:39:06
+title: 'Descuento del 48.67 % en Funko POP! Movies: Big - Zoltar 6"'
+date: 2020-03-19 12:53:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QLS-9hrNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QLS-9hrNL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PX3QQTK
 description:
-actualPrice: 12.99 GBP
-comparePrice: 20.36 GBP
+actualPrice: 10.26 USD
+comparePrice: 19.99 USD
 inStock: true
 ---
 
-Tienes [Funko 42990 POP. Vinyl: Movies: Big - Zoltar Collectible Figure  Multicolour](https://www.amazon.com/dp/B07PX3QQTK/?tag=redken08-20) con un 36.20 % de descuento con precio de oferta de 12.99 GBP (original: 20.36 GBP) en el siguiente enlace!
+Tienes [Funko POP! Movies: Big - Zoltar 6"](https://www.amazon.com/dp/B07PX3QQTK/?tag=redken08-20) con un 48.67 % de descuento con precio de oferta de 10.26 USD (original: 19.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51QLS-9hrNL._SL200_.jpg)](https://www.amazon.com/dp/B07PX3QQTK/?tag=redken08-20)
 

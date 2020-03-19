@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.32 % en Tacens Anima AK0 - Teclado profesional  '
-date: 2020-03-17 17:06:11
+date: 2020-03-19 17:08:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41R50w7OHTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41R50w7OHTL._SL200_.jpg' ]
 comments: true

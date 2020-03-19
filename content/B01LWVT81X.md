@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'WD My Book 8 TB Desktop Hard Drive - Bla al 52.72 % de descuento'
-date: 2019/11/25 20:17:56 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-aaHcGViL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-aaHcGViL._SL200_.jpg' ]
+title: 'WD My Book Disco Duro Externo de Sobreme al 33.33 % de descuento'
+date: 2020-03-13 20:32:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01LWVT81X
 description:
-actualPrice: 112.99 GBP
-comparePrice: 239 GBP
+actualPrice: 180.0 EUR
+comparePrice: 269.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [WD My Book 8 TB Desktop Hard Drive - Black](https://www.amazon.com/dp/B01LWVT81X/?tag=redken08-20) a 112.99 GBP (original: 239 GBP) (52.72 %  de descuento) en el siguiente enlace!
+Está [WD My Book Disco Duro Externo de Sobremesa de 8 TB  3.5"  USB 3.0  Negro](https://www.amazon.com/dp/B01LWVT81X/?tag=redken08-20) con 33.33 de descuento por 180.0 EUR (original: 269.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31-aaHcGViL._SL200_.jpg)](https://www.amazon.com/dp/B01LWVT81X/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg)](https://www.amazon.com/dp/B01LWVT81X/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01LWVT81X/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01LWVT81X/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

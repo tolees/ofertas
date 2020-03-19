@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.06 % en Philips Avent SCF041/27-2 - Tetinas natu'
-date: 2020-03-11 17:43:28
+date: 2020-03-19 20:42:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/410iVS6XugL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410iVS6XugL._SL200_.jpg' ]
 comments: true

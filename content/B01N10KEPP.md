@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cable HDMI Premium 1.4V 3D Alta Velocida al 31.94 % de descuento'
-date: 2020-03-11 17:46:54
+date: 2020-03-19 18:44:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SUnMoyVxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SUnMoyVxL._SL200_.jpg' ]
 comments: true
