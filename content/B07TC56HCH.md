@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Leg al 71.01 % de descuento'
-date: 2020-03-05 10:49:40
-thumbnailImage: 'https://m.media-amazon.com/images/I/51XgJYeaISL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51XgJYeaISL._AC_._SL200_.jpg' ]
+date: 2020-03-19 21:23:47
+thumbnailImage: 'https://m.media-amazon.com/images/I/51XgJYeaISL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51XgJYeaISL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [BRIKSMAX Kit de Iluminación Led para Lego Super Heroes Duelo en el Sancta Sanctorum  Compatible con Ladrillos de Construcción Lego Modelo 76108  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TC56HCH/?tag=redken08-20) con 71.01 de descuento por 28.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51XgJYeaISL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TC56HCH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51XgJYeaISL._SL200_.jpg)](https://www.amazon.com/dp/B07TC56HCH/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07TC56HCH/?tag=redken08-20)
 

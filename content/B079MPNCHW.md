@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PLAYMOBIL Mars Research Vehicle al 25.03 % de descuento'
-date: 2020-03-18 21:12:12
+title: 'PLAYMOBIL Space 9489 Mars-Erkundungsfahr al 42.19 % de descuento'
+date: 2020-03-19 13:28:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cBWT0b8FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cBWT0b8FL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079MPNCHW
 description:
-actualPrice: 33.73 USD
-comparePrice: 44.99 USD
+actualPrice: 23.12 EUR
+comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [PLAYMOBIL Mars Research Vehicle](https://www.amazon.com/dp/B079MPNCHW/?tag=redken08-20) con 25.03 de descuento por 33.73 USD (original: 44.99 USD) en el siguiente enlace!
+Está [PLAYMOBIL Space 9489 Mars-Erkundungsfahrzeug  Ab 6 Jahren](https://www.amazon.com/dp/B079MPNCHW/?tag=redken08-20) con 42.19 de descuento por 23.12 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51cBWT0b8FL._SL200_.jpg)](https://www.amazon.com/dp/B079MPNCHW/?tag=redken08-20)
 
