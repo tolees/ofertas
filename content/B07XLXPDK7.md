@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo C27-20 68  Monitor de 27" Full HD al 27.64 % de descuento'
-date: 2020-03-19 08:04:37
+date: 2020-03-20 09:17:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/410OY5LbTvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410OY5LbTvL._SL200_.jpg' ]
 comments: true

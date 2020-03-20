@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.93 % en L Oréal Men Expert Cofre Vitalift Crema '
-date: 2020-03-19 08:01:31
+date: 2020-03-20 09:03:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41d+ohkuRXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41d+ohkuRXL._SL200_.jpg' ]
 comments: true
