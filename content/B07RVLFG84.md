@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 26.29 % en Funko 44821 POP TV: Game of Thrones-Theo'
-date: 2020-02-21 04:05:48
-thumbnailImage: 'https://m.media-amazon.com/images/I/41PFhNJBTDL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41PFhNJBTDL._AC_._SL200_.jpg' ]
+title: 'Descuento del 49.75 % en Funko 44821 POP TV: Game of Thrones-Theo'
+date: 2020-03-20 13:11:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/41PFhNJBTDL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41PFhNJBTDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07RVLFG84
 description:
-actualPrice: 11.72 EUR
+actualPrice: 7.99 EUR
 comparePrice: 15.9 EUR
 inStock: true
 ---
 
-Tienes [Funko 44821 POP TV: Game of Thrones-Theon w/Flaming Arrows  GW  Sammelbares Spielzeug  Mehrfarben](https://www.amazon.com/dp/B07RVLFG84/?tag=redken08-20) con un 26.29 % de descuento con precio de oferta de 11.72 EUR (original: 15.9 EUR) en el siguiente enlace!
+Tienes [Funko 44821 POP TV: Game of Thrones-Theon w/Flaming Arrows  GW  Sammelbares Spielzeug  Mehrfarben](https://www.amazon.com/dp/B07RVLFG84/?tag=redken08-20) con un 49.75 % de descuento con precio de oferta de 7.99 EUR (original: 15.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41PFhNJBTDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RVLFG84/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41PFhNJBTDL._SL200_.jpg)](https://www.amazon.com/dp/B07RVLFG84/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07RVLFG84/?tag=redken08-20)
 

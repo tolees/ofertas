@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Bee Cargador Inalámbrico 5W con Sopo al 46.17 % de descuento'
-date: 2020-03-18 20:23:43
+date: 2020-03-20 17:19:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/418m200M-FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418m200M-FL._SL200_.jpg' ]
 comments: true

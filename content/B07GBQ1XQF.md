@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Waterpik WP-663EU Aquarius - Irrigador d al 31.58 % de descuento'
-date: 2020-03-19 16:04:03
+date: 2020-03-20 20:55:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LFMIIfEdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LFMIIfEdL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NETVIP Receptor Bluetooth Adaptador Audi al 60.02 % de descuento'
-date: 2020-03-12 02:35:32
+date: 2020-03-21 05:02:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41e8RXtHerL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41e8RXtHerL._SL200_.jpg' ]
 comments: true

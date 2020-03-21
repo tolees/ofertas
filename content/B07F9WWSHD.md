@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 32.78 % en Lenovo L22e-20 21.5" Full HD Plana Negro'
-date: 2020-03-18 22:12:07
+title: 'Descuento del 32.78 % en Lenovo L22e -Monitor de 21.5"  Pantalla '
+date: 2020-03-20 19:10:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qB-HwrSvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qB-HwrSvL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 119.0 EUR
 inStock: true
 ---
 
-Tienes [Lenovo L22e-20 21.5" Full HD Plana Negro pantalla para PC - Monitor  54 6 cm  21.5"   1920 x 1080 Pixeles  Full HD  4 ms  Negro ](https://www.amazon.com/dp/B07F9WWSHD/?tag=redken08-20) con un 32.78 % de descuento con precio de oferta de 79.99 EUR (original: 119.0 EUR) en el siguiente enlace!
+Tienes [Lenovo L22e -Monitor de 21.5"  Pantalla Full HD   1920 x 1080 Pixeles  tiempo de respuesta de 4ms   Color Negro](https://www.amazon.com/dp/B07F9WWSHD/?tag=redken08-20) con un 32.78 % de descuento con precio de oferta de 79.99 EUR (original: 119.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51qB-HwrSvL._SL200_.jpg)](https://www.amazon.com/dp/B07F9WWSHD/?tag=redken08-20)
 

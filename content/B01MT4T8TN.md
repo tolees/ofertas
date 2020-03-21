@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'TP-Link EAP110-Outdoor - Punto de Acceso al 25.79 % de descuento'
-date: 2020-02-12 21:13:19
-thumbnailImage: 'https://m.media-amazon.com/images/I/21WU3XL6zEL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/21WU3XL6zEL._AC_._SL200_.jpg' ]
+date: 2020-03-20 14:25:54
+thumbnailImage: 'https://m.media-amazon.com/images/I/21WU3XL6zEL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/21WU3XL6zEL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [TP-Link EAP110-Outdoor - Punto de Acceso  inalámbrico  para Exteriores  Resistente al Agua  Ideal para Wi-Fi de jardín  PoE de Soporte pasivo  Instalación Flexible ](https://www.amazon.com/dp/B01MT4T8TN/?tag=redken08-20) con 25.79 de descuento por 44.45 EUR (original: 59.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/21WU3XL6zEL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01MT4T8TN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/21WU3XL6zEL._SL200_.jpg)](https://www.amazon.com/dp/B01MT4T8TN/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01MT4T8TN/?tag=redken08-20)
 

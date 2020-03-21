@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 624v5  Zapatillas Deportivas al 66.83 % de descuento'
-date: 2020-03-19 15:38:20
+date: 2020-03-21 02:00:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YBN70jnbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YBN70jnbL._SL200_.jpg' ]
 comments: true

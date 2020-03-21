@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.57 % en Gillette ProGlide Men s Razor Handle + 4'
-date: 2020-03-19 14:38:49
+date: 2020-03-20 15:58:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31TaPHJhSWL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31TaPHJhSWL._SL500_._SL200_.jpg' ]
 comments: true

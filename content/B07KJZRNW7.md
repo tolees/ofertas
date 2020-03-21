@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.12 % en Safety 1st DOLPHY  Warm Gray  - Mueble C'
-date: 2020-03-18 21:40:21
+date: 2020-03-20 18:36:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Vnaq2cl0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Vnaq2cl0L._SL200_.jpg' ]
 comments: true

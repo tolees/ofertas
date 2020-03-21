@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp LC-55UI8652E - UHD Smart TV Slim d al 47.45 % de descuento'
-date: 2020-03-16 21:48:09
+date: 2020-03-20 14:34:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/510GQyle9WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510GQyle9WL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LIGHTAILING Light Set For  Star Wars TIE al 61.68 % de descuento'
-date: 2020-03-18 12:02:07
+date: 2020-03-21 04:42:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FLCiDWUgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FLCiDWUgL._SL200_.jpg' ]
 comments: true

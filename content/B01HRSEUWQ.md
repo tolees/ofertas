@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Foodsaver FFS005X-01 Envasadora al vacío al 26.67 % de descuento'
-date: 2020-03-12 10:27:44
+date: 2020-03-20 16:13:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/4128phsNgJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4128phsNgJL._SL200_.jpg' ]
 comments: true

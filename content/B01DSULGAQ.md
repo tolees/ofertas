@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'VAUDE Men s Escape Light Jacke  Blau  Bl al 46.20 % de descuento'
-date: 2020-03-20 04:45:39
+title: 'VAUDE Men s Escape Light Jacke  Blau  Bl al 26.56 % de descuento'
+date: 2020-03-21 04:56:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FWX8+qb3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FWX8+qb3L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01DSULGAQ
 description:
-actualPrice: 53.8 EUR
+actualPrice: 73.44 EUR
 comparePrice: 100.0 EUR
 inStock: true
 ---
 
-Está [VAUDE Men s Escape Light Jacke  Blau  Blau  Eclipse    Large  Herstellergröße: 52 ](https://www.amazon.com/dp/B01DSULGAQ/?tag=redken08-20) con 46.20 de descuento por 53.8 EUR (original: 100.0 EUR) en el siguiente enlace!
+Está [VAUDE Men s Escape Light Jacke  Blau  Blau  Eclipse    Large  Herstellergröße: 52 ](https://www.amazon.com/dp/B01DSULGAQ/?tag=redken08-20) con 26.56 de descuento por 73.44 EUR (original: 100.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41FWX8+qb3L._SL200_.jpg)](https://www.amazon.com/dp/B01DSULGAQ/?tag=redken08-20)
 
