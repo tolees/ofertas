@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.17 % en LEGO 40650601 Minifigures Display case'
-date: 2020-03-20 04:48:50
+date: 2020-03-21 13:04:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lefJz5RRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lefJz5RRL._SL200_.jpg' ]
 comments: true

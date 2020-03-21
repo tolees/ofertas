@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.17 % en ASUS TUF Gaming FX505DV-AL014 - Portátil'
-date: 2020-03-19 19:04:03
+date: 2020-03-21 12:31:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zejPCATXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zejPCATXL._SL200_.jpg' ]
 comments: true

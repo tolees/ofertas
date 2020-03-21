@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 85.85 % en READ Reloj Deportivo Impermeable para Ho'
-date: 2020-03-19 08:20:26
+date: 2020-03-21 18:40:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kewxNw6CL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kewxNw6CL._SL500_._SL200_.jpg' ]
 comments: true

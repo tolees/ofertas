@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KEF Q150B Q150 Bookshelf Speakers  Pair  al 50.00 % de descuento'
-date: 2020-03-19 15:09:03
+date: 2020-03-21 14:53:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vNlOtTn7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vNlOtTn7L._SL200_.jpg' ]
 comments: true
