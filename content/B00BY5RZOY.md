@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.89 % en Samsonite Termo Young Spinner L Maleta  '
-date: 2020-03-16 17:46:56
+date: 2020-03-21 10:33:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mir-ZELZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mir-ZELZL._SL200_.jpg' ]
 comments: true

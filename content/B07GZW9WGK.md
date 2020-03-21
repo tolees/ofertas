@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RECCI Cubrecolchón 90x190/200 - Cubre Co al 31.26 % de descuento'
-date: 2020-03-19 11:21:17
+date: 2020-03-21 08:46:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uf-aOs7qL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uf-aOs7qL._SL200_.jpg' ]
 comments: true

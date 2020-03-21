@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pistola de arie caliente  Tacklife HGP69 al 53.35 % de descuento'
-date: 2020-03-19 11:16:05
+date: 2020-03-21 10:40:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pax+EihzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pax+EihzL._SL200_.jpg' ]
 comments: true

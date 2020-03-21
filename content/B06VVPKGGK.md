@@ -14,10 +14,10 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO DC Comics Super Heroes 76085 Justice League Battle Of Atlantis Toy](https://www.amazon.com/dp/B06VVPKGGK/?tag=redken08-20) a 13.99 GBP (original: 19.99 GBP) (30.02 %  de descuento) en el siguiente enlace!
+Está [LEGO DC Comics Super Heroes 76085 Justice League Battle Of Atlantis Toy](https://www.amazon.com/dp/B06VVPKGGK/?tag=redken08-20) con 30.02 de descuento por 13.99 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51jrs-ZPclL._SL200_.jpg)](https://www.amazon.com/dp/B06VVPKGGK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B06VVPKGGK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06VVPKGGK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
