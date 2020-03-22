@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.12 % en Professor Puzzle Metal Earth Star Wars I'
-date: 2020-03-21 12:45:26
+date: 2020-03-22 13:00:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wklTlzbpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wklTlzbpL._SL200_.jpg' ]
 comments: true

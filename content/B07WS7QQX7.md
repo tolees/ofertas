@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for Technic Co al 56.61 % de descuento'
-date: 2020-03-19 20:49:05
+date: 2020-03-22 12:54:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UV5w0g6mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UV5w0g6mL._SL200_.jpg' ]
 comments: true

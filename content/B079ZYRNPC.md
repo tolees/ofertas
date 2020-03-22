@@ -14,10 +14,10 @@ comparePrice: 8.82 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AXE Desodorante Spray Oro Temptation sin aluminio 150 ml  3 Pack  3 x 150 ml ](https://www.amazon.com/dp/B079ZYRNPC/?tag=redken08-20) a 4.89 EUR (original: 8.82 EUR) (44.56 %  de descuento) en el siguiente enlace!
+Está [AXE Desodorante Spray Oro Temptation sin aluminio 150 ml  3 Pack  3 x 150 ml ](https://www.amazon.com/dp/B079ZYRNPC/?tag=redken08-20) con 44.56 de descuento por 4.89 EUR (original: 8.82 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41na4GNVagL._SL200_.jpg)](https://www.amazon.com/dp/B079ZYRNPC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B079ZYRNPC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B079ZYRNPC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

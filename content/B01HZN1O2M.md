@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.35 % en Geles Inibsa | Pack 2 uds Gel Dermatológ'
-date: 2020-03-19 13:44:54
+date: 2020-03-22 13:20:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XxwXy6NCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XxwXy6NCL._SL200_.jpg' ]
 comments: true

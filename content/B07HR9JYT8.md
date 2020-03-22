@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chivas Regal XV Whisky Escocés de Mezcla al 37.32 % de descuento'
-date: 2020-03-21 10:41:13
+date: 2020-03-22 15:20:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CT-0Yz5FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CT-0Yz5FL._SL200_.jpg' ]
 comments: true

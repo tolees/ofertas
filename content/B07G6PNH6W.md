@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Huawei MediaPad M5 lite WiFi Tablet-PC 2 al 33.44 % de descuento'
-date: 2019/11/28 22:54:31 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41socNpjfUL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41socNpjfUL._SL200_.jpg' ]
+title: 'Huawei MediaPad M5 Lite 10 - Tablet de 1 al 33.38 % de descuento'
+date: 2020-03-20 17:22:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/41X2U5KzNfL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41X2U5KzNfL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07G6PNH6W
 description:
-actualPrice: 199 EUR
-comparePrice: 299 EUR
+actualPrice: 199.2 EUR
+comparePrice: 299.0 EUR
 inStock: true
 ---
 
-Está [Huawei MediaPad M5 lite WiFi Tablet-PC 25 6 cm  10 1 Zoll   Full HD  Kirin 659  3 GB RAM  32 GB interner Speicher  Android 8.0  EMUI 8.0  grau](https://www.amazon.com/dp/B07G6PNH6W/?tag=redken08-20) con 33.44 de descuento por 199 EUR (original: 299 EUR) en el siguiente enlace!
+Ahora mismo tienes [Huawei MediaPad M5 Lite 10 - Tablet de 10.1" Full HD  Wifi  RAM de 3 GB  ROM de 32 GB  Android 8.0  EMUI 8.0  Procesador Octacore 2.4 GHz  Color Gris](https://www.amazon.com/dp/B07G6PNH6W/?tag=redken08-20) a 199.2 EUR (original: 299.0 EUR) (33.38 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41socNpjfUL._SL200_.jpg)](https://www.amazon.com/dp/B07G6PNH6W/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41X2U5KzNfL._SL200_.jpg)](https://www.amazon.com/dp/B07G6PNH6W/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07G6PNH6W/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07G6PNH6W/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
