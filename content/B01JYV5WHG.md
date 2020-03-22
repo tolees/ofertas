@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AUKEY Cable USB C a USB A 3.0   1m x 3   al 44.41 % de descuento'
-date: 2020-03-11 11:06:35
+date: 2020-03-22 08:25:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/414XxJx0NKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414XxJx0NKL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 17.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AUKEY Cable USB C a USB A 3.0   1m x 3   Cable USB Tipo C de Carga y Sincronización para  Samsung Galaxy S9+ / S9 / S8+ / S8   MacBook Pro 2016   HUAWEI P10 usw. - Negro](https://www.amazon.com/dp/B01JYV5WHG/?tag=redken08-20) a 9.99 EUR (original: 17.97 EUR) (44.41 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [AUKEY Cable USB C a USB A 3.0   1m x 3   Cable USB Tipo C de Carga y Sincronización para Samsung Galaxy Note 9 S10 S10+ S10e S9 S8 S8+ LG V30 V20 G6 G5 Nexus 6P 5X Moto Z3 Google Pixel Nintendo Switch](https://www.amazon.com/dp/B01JYV5WHG/?tag=redken08-20) a 9.99 EUR (original: 17.97 EUR) (44.41 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/414XxJx0NKL._SL200_.jpg)](https://www.amazon.com/dp/B01JYV5WHG/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.91 % en Levi s Men s Sunset 1 Pkt Slim Casual Sh'
-date: 2020-03-21 03:19:00
+date: 2020-03-22 08:57:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Eui+kKjVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Eui+kKjVL._SL200_.jpg' ]
 comments: true

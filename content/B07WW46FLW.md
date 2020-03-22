@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.74 % en Cable USB Tipo C  ZKAPOR [4Pack 0.3M 1M '
-date: 2020-03-14 10:10:05
+date: 2020-03-22 10:31:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lgtl93sDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lgtl93sDL._SL200_.jpg' ]
 comments: true

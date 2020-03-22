@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fitbit Versa Lite - Reloj Deportivo Smar al 40.01 % de descuento'
-date: 2020-03-19 17:12:30
+date: 2020-03-22 09:03:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/31sz2cuIuxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31sz2cuIuxL._SL200_.jpg' ]
 comments: true

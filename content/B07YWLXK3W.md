@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE Sierra Ingletadora 2000W  3200  al 32.02 % de descuento'
-date: 2020-03-18 16:30:09
+date: 2020-03-22 10:41:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Z81tTx5WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Z81tTx5WL._SL200_.jpg' ]
 comments: true

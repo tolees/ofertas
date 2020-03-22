@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Men s 502 Regular Tapered Fit Jea al 53.75 % de descuento'
-date: 2020-03-21 04:50:38
+date: 2020-03-22 08:59:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg' ]
 comments: true
