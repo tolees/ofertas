@@ -14,10 +14,10 @@ comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75964 Harry Potter Advent Calendar](https://www.amazon.com/dp/B07P3VWTWF/?tag=redken08-20) a 19.5 GBP (original: 34.99 GBP) (44.27 %  de descuento) en el siguiente enlace!
+Está [LEGO 75964 Harry Potter Advent Calendar](https://www.amazon.com/dp/B07P3VWTWF/?tag=redken08-20) con 44.27 de descuento por 19.5 GBP (original: 34.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51iMtENCn3L._SL200_.jpg)](https://www.amazon.com/dp/B07P3VWTWF/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07P3VWTWF/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07P3VWTWF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

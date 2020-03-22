@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Impresora 3D GEEETECH A10 Prusa I3 Kit d al 25.67 % de descuento'
-date: 2020-03-16 17:35:56
+date: 2020-03-22 07:30:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eAHMOTU5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eAHMOTU5L._SL200_.jpg' ]
 comments: true

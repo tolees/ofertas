@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ghost Recon - Figura Nomad Breakpoint al 60.13 % de descuento'
-date: 2020-03-20 15:31:56
+date: 2020-03-21 19:48:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/61q2obwvMWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61q2obwvMWL._SL200_.jpg' ]
 comments: true

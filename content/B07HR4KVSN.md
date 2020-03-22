@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en ASTRO Gaming A40 TR-X Edition Wired Gami'
-date: 2020-03-21 01:48:36
+date: 2020-03-22 07:27:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rrE6Bgr1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rrE6Bgr1L._SL200_.jpg' ]
 comments: true

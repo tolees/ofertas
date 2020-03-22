@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Star Wars Chewbacca Key Light [With al 40.42 % de descuento'
-date: 2020-03-19 13:32:36
+date: 2020-03-21 21:16:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aiy3H015L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aiy3H015L._SL200_.jpg' ]
 comments: true

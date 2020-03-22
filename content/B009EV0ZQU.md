@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rain-X 880008 Fusion Wiper Blade - 24" al 56.97 % de descuento'
-date: 2020-03-20 22:48:52
+date: 2020-03-22 05:57:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31czG4aNx3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31czG4aNx3L._SL200_.jpg' ]
 comments: true

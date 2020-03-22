@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 26031 POP Vinyl: Animation: Tokyo  al 32.46 % de descuento'
-date: 2020-03-20 20:43:35
+title: 'Funko 26031 POP Vinyl: Animation: Tokyo  al 32.40 % de descuento'
+date: 2020-03-22 04:42:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SUfbCQjPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SUfbCQjPL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07HJ89PGH
 description:
 actualPrice: 6.97 GBP
-comparePrice: 10.32 GBP
+comparePrice: 10.31 GBP
 inStock: true
 ---
 
-Está [Funko 26031 POP Vinyl: Animation: Tokyo Ghoul: Rize  Multi](https://www.amazon.com/dp/B07HJ89PGH/?tag=redken08-20) con 32.46 de descuento por 6.97 GBP (original: 10.32 GBP) en el siguiente enlace!
+Está [Funko 26031 POP Vinyl: Animation: Tokyo Ghoul: Rize  Multi](https://www.amazon.com/dp/B07HJ89PGH/?tag=redken08-20) con 32.40 de descuento por 6.97 GBP (original: 10.31 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51SUfbCQjPL._SL200_.jpg)](https://www.amazon.com/dp/B07HJ89PGH/?tag=redken08-20)
 

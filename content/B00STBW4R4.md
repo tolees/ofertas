@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.04 % en L Oréal Paris Men Expert Hydra Energetic'
-date: 2020-03-20 20:13:52
+date: 2020-03-21 23:40:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qDyK4tZAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qDyK4tZAL._SL200_.jpg' ]
 comments: true

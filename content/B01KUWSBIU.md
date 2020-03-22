@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BT Bluetooth 4.0 USB Dongle Adapter Blue al 62.54 % de descuento'
-date: 2020-03-20 12:45:23
+date: 2020-03-21 20:42:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qZLxt+NaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qZLxt+NaL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 73.64 % en Champion Women s Jersey Pant  Granite He'
-date: 2020-03-20 14:16:13
+date: 2020-03-22 00:25:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uD6y9BC4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uD6y9BC4L._SL200_.jpg' ]
 comments: true

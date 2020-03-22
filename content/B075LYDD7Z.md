@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone X  64GB  - Silber al 42.33 % de descuento'
-date: 2020-03-19 21:16:01
+date: 2020-03-21 21:06:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/415Ef7dzmOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415Ef7dzmOL._SL200_.jpg' ]
 comments: true

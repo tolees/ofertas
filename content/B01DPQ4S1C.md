@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Thrustmaster TMX Force Feedback - Volant al 45.87 % de descuento'
-date: 2019/12/13 21:58:10 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cUr17W4wL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cUr17W4wL._SL200_.jpg' ]
+title: 'Thrustmaster TMX Force Feedback  Lenkrad al 32.42 % de descuento'
+date: 2020-03-22 04:58:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/51cUr17W4wL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51cUr17W4wL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01DPQ4S1C
 description:
-actualPrice: 85.97 EUR
-comparePrice: 158.81 EUR
+actualPrice: 110.0 EUR
+comparePrice: 162.78 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Thrustmaster TMX Force Feedback - Volante de Carreras con pedales grandes para XboxOne/PC con Licencia Oficial Xbox](https://www.amazon.com/dp/B01DPQ4S1C/?tag=redken08-20) a 85.97 EUR (original: 158.81 EUR) (45.87 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Thrustmaster TMX Force Feedback  Lenkrad inkl. 2-Pedalset  Force Feedback  270° - 900°  Xbox One / PC ](https://www.amazon.com/dp/B01DPQ4S1C/?tag=redken08-20) a 110.0 EUR (original: 162.78 EUR) (32.42 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51cUr17W4wL._SL200_.jpg)](https://www.amazon.com/dp/B01DPQ4S1C/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51cUr17W4wL._SL200_.jpg)](https://www.amazon.com/dp/B01DPQ4S1C/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01DPQ4S1C/?tag=redken08-20)
 
