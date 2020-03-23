@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Under Armour UA Athlete SS Camiseta de M al 51.46 % de descuento'
-date: 2019/10/30 16:30:26 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ner2gM6fL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ner2gM6fL._SL200_.jpg' ]
+title: 'Under Armour UA Athlete SS Camiseta de M al 56.35 % de descuento'
+date: 2020-03-23 14:08:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/3111W8rvl5L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/3111W8rvl5L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B071LGWWS5
 description:
-actualPrice: 12.62 EUR
-comparePrice: 26 EUR
+actualPrice: 11.35 EUR
+comparePrice: 26.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour UA Athlete SS Camiseta de Manga Corta  Hombre  Negro  001   XL](https://www.amazon.com/dp/B071LGWWS5/?tag=redken08-20) a 12.62 EUR (original: 26 EUR) (51.46 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA Athlete SS Camiseta de Manga Corta  Hombre  Negro  001   XL](https://www.amazon.com/dp/B071LGWWS5/?tag=redken08-20) a 11.35 EUR (original: 26.0 EUR) (56.35 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ner2gM6fL._SL200_.jpg)](https://www.amazon.com/dp/B071LGWWS5/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/3111W8rvl5L._SL200_.jpg)](https://www.amazon.com/dp/B071LGWWS5/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B071LGWWS5/?tag=redken08-20)
 

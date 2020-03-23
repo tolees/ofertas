@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGG Female Classic Mini II Classic Boot  al 50.00 % de descuento'
-date: 2020-03-21 04:50:29
+date: 2020-03-23 15:19:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/3179sEEciQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3179sEEciQL._SL200_.jpg' ]
 comments: true

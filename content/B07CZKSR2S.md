@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon XA Pro 3D GTX  Zapatillas de Tra al 37.91 % de descuento'
-date: 2019/11/06 16:44:47 +0000
+date: 2020-03-23 14:43:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w1WSTV7zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w1WSTV7zL._SL200_.jpg' ]
 comments: true
