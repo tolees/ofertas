@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en auna IR-160 - Radio Internet   WiFi   US'
-date: 2020-03-20 20:31:02
+date: 2020-03-23 12:20:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/4130eoJAA-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4130eoJAA-L._SL200_.jpg' ]
 comments: true

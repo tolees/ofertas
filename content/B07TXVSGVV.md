@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego Id al 43.11 % de descuento'
-date: 2020-03-21 13:21:00
+title: 'BRIKSMAX Kit de Iluminación Led para Leg al 69.01 % de descuento'
+date: 2020-03-21 21:15:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41E6Fn-bCTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41E6Fn-bCTL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TXVSGVV
 description:
-actualPrice: 32.99 EUR
-comparePrice: 57.99 EUR
+actualPrice: 30.99 EUR
+comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Led Beleuchtungsset für Lego Ideas Voltron  Kompatibel Mit Lego 21311 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TXVSGVV/?tag=redken08-20) con 43.11 de descuento por 32.99 EUR (original: 57.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Kit de Iluminación Led para Lego Ideas Voltron  Compatible con Ladrillos de Construcción Lego Modelo 21311  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TXVSGVV/?tag=redken08-20) con 69.01 de descuento por 30.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41E6Fn-bCTL._SL200_.jpg)](https://www.amazon.com/dp/B07TXVSGVV/?tag=redken08-20)
 

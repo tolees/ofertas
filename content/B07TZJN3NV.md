@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FLYLINKTECH 3000mAh Dyson V6 21.6v Bater al 61.64 % de descuento'
-date: 2020-03-21 09:55:13
+date: 2020-03-23 10:46:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41njj3DJHQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41njj3DJHQL._SL200_.jpg' ]
 comments: true

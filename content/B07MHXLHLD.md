@@ -14,10 +14,10 @@ comparePrice: 11.64 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pop Vinilo: Games: Fortnite: Loot Lama Figura Coleccionable  Multicolor  única  39048 ](https://www.amazon.com/dp/B07MHXLHLD/?tag=redken08-20) a 8.38 EUR (original: 11.64 EUR) (28.01 %  de descuento) en el siguiente enlace!
+Está [Funko- Pop Vinilo: Games: Fortnite: Loot Lama Figura Coleccionable  Multicolor  única  39048 ](https://www.amazon.com/dp/B07MHXLHLD/?tag=redken08-20) con 28.01 de descuento por 8.38 EUR (original: 11.64 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vdPJguF1L._SL200_.jpg)](https://www.amazon.com/dp/B07MHXLHLD/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07MHXLHLD/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MHXLHLD/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

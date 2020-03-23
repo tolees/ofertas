@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Hagri al 82.01 % de descuento'
-date: 2020-02-04 19:05:21
-thumbnailImage: 'https://m.media-amazon.com/images/I/51nCcRvZ8sL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51nCcRvZ8sL._AC_._SL200_.jpg' ]
+date: 2020-03-23 12:42:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/51nCcRvZ8sL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51nCcRvZ8sL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Hagrid s Hut: Buckbeak s Rescue Compatible with LEGO 75947 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07XCJP51J/?tag=redken08-20) a 17.99 GBP (original: 99.99 GBP) (82.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51nCcRvZ8sL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07XCJP51J/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51nCcRvZ8sL._SL200_.jpg)](https://www.amazon.com/dp/B07XCJP51J/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07XCJP51J/?tag=redken08-20)
 
