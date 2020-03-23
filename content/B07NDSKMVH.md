@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'MEDION X30 RGB - Ordenador de sobremesa  al 44.38 % de descuento'
-date: 2020-03-10 11:25:37
-thumbnailImage: 'https://m.media-amazon.com/images/I/41KzlXg7GIL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41KzlXg7GIL._AC_._SL200_.jpg' ]
+date: 2020-03-23 08:34:37
+thumbnailImage: 'https://m.media-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [MEDION X30 RGB - Ordenador de sobremesa gaming  Intel Core i5-8400  8GB RAM  1TB HDD  Nvidia GTX1060-6GB  Windows 10  Negro](https://www.amazon.com/dp/B07NDSKMVH/?tag=redken08-20) con 44.38 de descuento por 499.99 EUR (original: 899.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41KzlXg7GIL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NDSKMVH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg)](https://www.amazon.com/dp/B07NDSKMVH/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07NDSKMVH/?tag=redken08-20)
 

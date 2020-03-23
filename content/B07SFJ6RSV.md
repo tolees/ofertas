@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'NEW C 2 Unidades  Protector de Pantalla  al 44.94 % de descuento'
-date: 2020-03-08 18:51:57
-thumbnailImage: 'https://m.media-amazon.com/images/I/51E0RRMxm0L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51E0RRMxm0L._AC_._SL200_.jpg' ]
+date: 2020-03-23 09:32:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/51E0RRMxm0L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51E0RRMxm0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [NEW C 2 Unidades  Protector de Pantalla para Huawei P30 Lite Vidrio Cristal Templado](https://www.amazon.com/dp/B07SFJ6RSV/?tag=redken08-20) a 4.9 EUR (original: 8.9 EUR) (44.94 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51E0RRMxm0L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07SFJ6RSV/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51E0RRMxm0L._SL200_.jpg)](https://www.amazon.com/dp/B07SFJ6RSV/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07SFJ6RSV/?tag=redken08-20)
 

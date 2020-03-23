@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IKOHS THERA Retro - Cafetera Express par al 30.19 % de descuento'
-date: 2020-03-21 10:06:56
+date: 2020-03-23 09:32:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51H4Yusu4iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51H4Yusu4iL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRIPTOMAX 30 comprimidos. Complemento al al 43.45 % de descuento'
-date: 2020-03-22 09:17:15
+date: 2020-03-23 09:44:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wTxXxmL5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wTxXxmL5L._SL200_.jpg' ]
 comments: true
