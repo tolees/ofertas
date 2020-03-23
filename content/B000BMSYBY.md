@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Cisco CP-PWR-CUBE-3= IP Phone Power Tran al 53.34 % de descuento'
-date: 2019/11/29 10:18:52 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g2ooJMSeL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51g2ooJMSeL._SL200_.jpg' ]
+title: 'Descuento del 48.52 % en Cisco CP-PWR-CUBE-3 IP Phone Power Suppl'
+date: 2020-02-22 13:08:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/51g2ooJMSeL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51g2ooJMSeL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B000BMSYBY
 description:
-actualPrice: 9 GBP
-comparePrice: 19.29 GBP
+actualPrice: 11.99 EUR
+comparePrice: 23.29 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cisco CP-PWR-CUBE-3= IP Phone Power Transformer for 7800 Phone Series  UK Power Cord ](https://www.amazon.com/dp/B000BMSYBY/?tag=redken08-20) a 9 GBP (original: 19.29 GBP) (53.34 %  de descuento) en el siguiente enlace!
+Tienes [Cisco CP-PWR-CUBE-3 IP Phone Power Supply Netzteil](https://www.amazon.com/dp/B000BMSYBY/?tag=redken08-20) con un 48.52 % de descuento con precio de oferta de 11.99 EUR (original: 23.29 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51g2ooJMSeL._SL200_.jpg)](https://www.amazon.com/dp/B000BMSYBY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51g2ooJMSeL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B000BMSYBY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000BMSYBY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B000BMSYBY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

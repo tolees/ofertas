@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.35 % en Funko Vinyl Vixens - Harley Quinn'
-date: 2020-03-22 04:44:55
+date: 2020-03-23 04:47:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hWn3E6TWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hWn3E6TWL._SL200_.jpg' ]
 comments: true

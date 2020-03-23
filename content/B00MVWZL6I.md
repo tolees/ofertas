@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crock-Pot SCV400RD-050  210 W  3.5 litro al 57.22 % de descuento'
-date: 2020-03-21 19:13:52
+date: 2020-03-22 19:39:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eBYCnJ+8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eBYCnJ+8L._SL200_.jpg' ]
 comments: true

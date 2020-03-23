@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Receptor Bluetooth  Adaptador de Audio I'
-date: 2020-03-21 05:02:49
+date: 2020-03-22 21:11:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KqNJGqTvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KqNJGqTvL._SL200_.jpg' ]
 comments: true

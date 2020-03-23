@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 70014 City Life My Little Town al 39.66 % de descuento'
-date: 2020-03-18 20:53:50
+title: 'PLAYMOBIL City Life 70014 Mein Stadthaus al 38.73 % de descuento'
+date: 2020-03-21 13:20:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dL3nZHeiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dL3nZHeiL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07JMCBSX4
 description:
-actualPrice: 33.18 GBP
-comparePrice: 54.99 GBP
+actualPrice: 33.69 EUR
+comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 70014 City Life My Little Town House with Furniture](https://www.amazon.com/dp/B07JMCBSX4/?tag=redken08-20) con 39.66 de descuento por 33.18 GBP (original: 54.99 GBP) en el siguiente enlace!
+Está [PLAYMOBIL City Life 70014 Mein Stadthaus  Ab 4 Jahren](https://www.amazon.com/dp/B07JMCBSX4/?tag=redken08-20) con 38.73 de descuento por 33.69 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51dL3nZHeiL._SL200_.jpg)](https://www.amazon.com/dp/B07JMCBSX4/?tag=redken08-20)
 

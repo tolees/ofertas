@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Talking Tables Tea Party Scalloped Flora al 49.13 % de descuento'
-date: 2020-03-21 18:54:08
+date: 2020-03-23 03:02:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UedFQ5IOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UedFQ5IOL._SL200_.jpg' ]
 comments: true

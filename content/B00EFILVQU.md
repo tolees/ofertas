@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Canon EF-S 55-250mm F4-5.6 IS STM Lens f al 49.84 % de descuento'
-date: 2020-03-21 04:56:37
+title: 'Canon EF-S 55-250mm F4-5.6 IS STM Lens f al 48.18 % de descuento'
+date: 2020-03-22 19:01:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/412G0gYZXzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412G0gYZXzL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00EFILVQU
 description:
-actualPrice: 149.99 USD
+actualPrice: 154.95 USD
 comparePrice: 299.0 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Canon EF-S 55-250mm F4-5.6 IS STM Lens for Canon SLR Cameras](https://www.amazon.com/dp/B00EFILVQU/?tag=redken08-20) a 149.99 USD (original: 299.0 USD) (49.84 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Canon EF-S 55-250mm F4-5.6 IS STM Lens for Canon SLR Cameras](https://www.amazon.com/dp/B00EFILVQU/?tag=redken08-20) a 154.95 USD (original: 299.0 USD) (48.18 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412G0gYZXzL._SL200_.jpg)](https://www.amazon.com/dp/B00EFILVQU/?tag=redken08-20)
 

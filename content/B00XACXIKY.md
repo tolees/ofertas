@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.58 % en Durex Preservativos Ultrafinos Sensitivo'
-date: 2020-03-15 20:04:39
+date: 2020-03-22 18:01:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/414Xzwqr2TL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414Xzwqr2TL._SL200_.jpg' ]
 comments: true

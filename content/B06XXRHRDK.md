@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Batman Series Riddler Pop! Vinyl Figure al 25.70 % de descuento'
-date: 2020-03-22 04:45:18
+date: 2020-03-23 04:48:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/5154htiUmCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5154htiUmCL._SL200_.jpg' ]
 comments: true

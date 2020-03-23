@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.15 % en Ziploc Snack Bags  Easy Open Tabs  Ideal'
-date: 2020-03-20 13:46:37
+date: 2020-03-22 23:31:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ijotJXigL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ijotJXigL._SL200_.jpg' ]
 comments: true

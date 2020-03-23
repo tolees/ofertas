@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75113 Constraction Star Wars Rey Bu al 49.97 % de descuento'
-date: 2020-03-20 20:45:04
+date: 2020-03-22 20:44:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mB3epvAGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mB3epvAGL._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Timberland 6 Inch Premium Waterproof  Bo al 33.06 % de descuento'
-date: 2019/11/08 14:19:49 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MjWf6gpgL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MjWf6gpgL._SL200_.jpg' ]
+title: 'Timberland Men s 6 Inch Premium Lace-up  al 60.56 % de descuento'
+date: 2020-03-23 05:05:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/41f5bzO8KJL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41f5bzO8KJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B017KYHCTU
 description:
-actualPrice: 140.58 EUR
-comparePrice: 210 EUR
+actualPrice: 70.99 GBP
+comparePrice: 180.0 GBP
 inStock: true
 ---
 
-Está [Timberland 6 Inch Premium Waterproof  Botas para Hombre  Amarillo  Wheat Nubuck   41.5 EU](https://www.amazon.com/dp/B017KYHCTU/?tag=redken08-20) con 33.06 de descuento por 140.58 EUR (original: 210 EUR) en el siguiente enlace!
+Está [Timberland Men s 6 Inch Premium Lace-up Boots  Yellow  Wheat Nubuck   7.5 UK  41.5 EU ](https://www.amazon.com/dp/B017KYHCTU/?tag=redken08-20) con 60.56 de descuento por 70.99 GBP (original: 180.0 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41MjWf6gpgL._SL200_.jpg)](https://www.amazon.com/dp/B017KYHCTU/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41f5bzO8KJL._SL200_.jpg)](https://www.amazon.com/dp/B017KYHCTU/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B017KYHCTU/?tag=redken08-20)
 

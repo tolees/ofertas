@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Olympus Pen E-PL9 - Cámara de Sistema Co al 26.34 % de descuento'
-date: 2019/11/08 06:56:20 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BV7xOCfyL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BV7xOCfyL._SL200_.jpg' ]
+title: 'Descuento del 26.73 % en Olympus PEN E-PL9 Micro Four Thirds Syst'
+date: 2020-03-23 05:08:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/41+V7xOCfyL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41+V7xOCfyL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B079LBWG6Z
 description:
-actualPrice: 404.4 EUR
-comparePrice: 549 EUR
+actualPrice: 329.0 EUR
+comparePrice: 449.0 EUR
 inStock: true
 ---
 
-Está [Olympus Pen E-PL9 - Cámara de Sistema Compacto de 16 MP  Pantalla de 3"  Zoom eléctrico  películas 4k  WiFi  Blanco](https://www.amazon.com/dp/B079LBWG6Z/?tag=redken08-20) con 26.34 de descuento por 404.4 EUR (original: 549 EUR) en el siguiente enlace!
+Tienes [Olympus PEN E-PL9 Micro Four Thirds Systemkamera  16 Megapixel  Bildstabilisator  elektronischer Sucher  4k-Video  weiß](https://www.amazon.com/dp/B079LBWG6Z/?tag=redken08-20) con un 26.73 % de descuento con precio de oferta de 329.0 EUR (original: 449.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41%2BV7xOCfyL._SL200_.jpg)](https://www.amazon.com/dp/B079LBWG6Z/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41+V7xOCfyL._SL200_.jpg)](https://www.amazon.com/dp/B079LBWG6Z/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B079LBWG6Z/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B079LBWG6Z/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
