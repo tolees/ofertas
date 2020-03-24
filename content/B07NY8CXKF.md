@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Harry Potter 75958 - Beauxbatons Kutsche: Ankunft in Hogwarts](https://www.amazon.com/dp/B07NY8CXKF/?tag=redken08-20) a 36.21 EUR (original: 49.99 EUR) (27.57 %  de descuento) en el siguiente enlace!
+Está [LEGO Harry Potter 75958 - Beauxbatons Kutsche: Ankunft in Hogwarts](https://www.amazon.com/dp/B07NY8CXKF/?tag=redken08-20) con 27.57 de descuento por 36.21 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51kGEnx1XGL._SL200_.jpg)](https://www.amazon.com/dp/B07NY8CXKF/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07NY8CXKF/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07NY8CXKF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

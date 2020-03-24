@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.50 % en YanBan Cabezal de cepillo de dientes par'
-date: 2020-03-22 10:31:55
+date: 2020-03-24 11:22:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51j+IjOTNlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51j+IjOTNlL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Multicentrum  Complemento Alimenticio co al 32.42 % de descuento'
-date: 2020-03-21 08:34:54
+date: 2020-03-24 11:10:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mB9XTZ68L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mB9XTZ68L._SL200_.jpg' ]
 comments: true

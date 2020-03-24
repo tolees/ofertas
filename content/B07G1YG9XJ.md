@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.02 % en TACKLIFE Llaves de Vaso Hexagonales Prof'
-date: 2020-03-23 08:10:35
+date: 2020-03-24 10:41:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51HfyJOfcOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51HfyJOfcOL._SL200_.jpg' ]
 comments: true
