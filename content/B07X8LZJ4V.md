@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LileZbox - Expositor de acrílico para Fi al 38.30 % de descuento'
-date: 2020-03-22 05:04:04
+date: 2020-03-24 05:06:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Xvpz6VxqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Xvpz6VxqL._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'ELEGOO Conjunto Avanzado de Iniciación C al 33.19 % de descuento'
-date: 2020-03-08 12:05:25
-thumbnailImage: 'https://m.media-amazon.com/images/I/61igZcgJXJL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/61igZcgJXJL._AC_._SL200_.jpg' ]
+title: 'ELEGOO Conjunto Avanzado de Iniciación C al 25.76 % de descuento'
+date: 2020-03-23 16:37:48
+thumbnailImage: 'https://m.media-amazon.com/images/I/61igZcgJXJL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61igZcgJXJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01M9J4GCU
 description:
-actualPrice: 44.09 EUR
+actualPrice: 48.99 EUR
 comparePrice: 65.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ELEGOO Conjunto Avanzado de Iniciación Compatible con Arduino IDE con Tutorial en Español y UNO R3 Placa  Relé  Modulo de Fuente de Alimentación  Pantalla LCD 1602  Motor Paso a Paso  Breadboard  etc.](https://www.amazon.com/dp/B01M9J4GCU/?tag=redken08-20) a 44.09 EUR (original: 65.99 EUR) (33.19 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [ELEGOO Conjunto Avanzado de Iniciación Compatible con Arduino IDE con Tutorial en Español y UNO R3 Placa  Relé  Modulo de Fuente de Alimentación  Pantalla LCD 1602  Motor Paso a Paso  Breadboard  etc.](https://www.amazon.com/dp/B01M9J4GCU/?tag=redken08-20) a 48.99 EUR (original: 65.99 EUR) (25.76 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61igZcgJXJL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01M9J4GCU/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/61igZcgJXJL._SL200_.jpg)](https://www.amazon.com/dp/B01M9J4GCU/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01M9J4GCU/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Satellite Polybag Set 30365  B al 33.39 % de descuento'
-date: 2020-03-23 04:41:23
+date: 2020-03-24 04:42:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GgSY9SsxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GgSY9SsxL._SL200_.jpg' ]
 comments: true

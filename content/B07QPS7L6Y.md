@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.72 % en RAVIAD Cable USB Tipo C [4Pack 0.5M 1M 2'
-date: 2020-03-22 23:05:14
+date: 2020-03-24 09:37:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wAj9hUfvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wAj9hUfvL._SL200_.jpg' ]
 comments: true

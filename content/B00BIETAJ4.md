@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Regalo My Cot Extra Long Portable Bed  I al 40.01 % de descuento'
-date: 2020-03-20 22:20:56
+date: 2020-03-23 17:45:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+JusIpAiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+JusIpAiL._SL200_.jpg' ]
 comments: true

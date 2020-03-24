@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.02 % en STAR WARS BATTLEFRONT II - Standard | Có'
-date: 2020-03-21 09:02:13
+date: 2020-03-24 02:36:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GtB5GtjoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GtB5GtjoL._SL200_.jpg' ]
 comments: true

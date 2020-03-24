@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.64 % en BRA PRIOR - Grill asador con rayas  alum'
-date: 2020-03-19 11:50:24
+date: 2020-03-23 18:51:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JeUO9giSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JeUO9giSL._SL200_.jpg' ]
 comments: true

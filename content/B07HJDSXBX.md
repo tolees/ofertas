@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Funko 34496 Pop-Vinyl: Television: Money al 47.15 % de descuento'
-date: 2020-02-13 07:28:30
-thumbnailImage: 'https://m.media-amazon.com/images/I/41ApTNO7YsL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41ApTNO7YsL._AC_._SL200_.jpg' ]
+title: 'Funko 34496 Pop-Vinyl: Television: Money al 45.44 % de descuento'
+date: 2020-03-23 21:00:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ApTNO7YsL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ApTNO7YsL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07HJDSXBX
 description:
-actualPrice: 8.98 EUR
-comparePrice: 16.99 EUR
+actualPrice: 8.5 EUR
+comparePrice: 15.58 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 34496 Pop-Vinyl: Television: Money Heist: The Professor  Multi](https://www.amazon.com/dp/B07HJDSXBX/?tag=redken08-20) a 8.98 EUR (original: 16.99 EUR) (47.15 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 34496 Pop-Vinyl: Television: Money Heist: The Professor  Multi](https://www.amazon.com/dp/B07HJDSXBX/?tag=redken08-20) a 8.5 EUR (original: 15.58 EUR) (45.44 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41ApTNO7YsL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HJDSXBX/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ApTNO7YsL._SL200_.jpg)](https://www.amazon.com/dp/B07HJDSXBX/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07HJDSXBX/?tag=redken08-20)
 

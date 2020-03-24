@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.02 % en Dittzz Vertical Display Stand For LEGO 7'
-date: 2020-03-23 04:44:24
+date: 2020-03-24 04:51:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41V-42EDlbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41V-42EDlbL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.05 % en Tmade 4 Sizes Pom pom Maker kit DIY Pom-'
-date: 2020-03-22 12:59:40
+date: 2020-03-23 20:51:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51H74O34uLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51H74O34uLL._SL200_.jpg' ]
 comments: true

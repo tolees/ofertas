@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GTRACING Bluetooth USB Adapter Transmitt al 60.02 % de descuento'
-date: 2020-03-22 04:43:47
+date: 2020-03-23 20:56:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/3194uSZ6zrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3194uSZ6zrL._SL200_.jpg' ]
 comments: true

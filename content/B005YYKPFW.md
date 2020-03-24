@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.37 % en Panasonic NN-J151 - Microondas con Grill'
-date: 2020-03-14 20:43:23
+date: 2020-03-24 09:04:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31huOMNVzZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31huOMNVzZL._SL200_.jpg' ]
 comments: true

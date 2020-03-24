@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Urban Beauty United Diva Duo - Sacapunta al 54.15 % de descuento'
-date: 2020-03-19 10:10:55
+date: 2020-03-23 16:21:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cnCl5FX2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cnCl5FX2L._SL200_.jpg' ]
 comments: true
