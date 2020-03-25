@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dittzz Acrylic Display Box with LED Ligh al 30.28 % de descuento'
-date: 2020-03-22 12:47:33
+date: 2020-03-24 12:43:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D4sbs2sIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D4sbs2sIL._SL200_.jpg' ]
 comments: true

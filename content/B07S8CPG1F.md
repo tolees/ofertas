@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'eMini NUC Mini PC Barebone  Intel Pentiu al 36.36 % de descuento'
-date: 2020-03-19 21:00:41
+date: 2020-03-25 04:51:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yfPRWtk4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yfPRWtk4L._SL200_.jpg' ]
 comments: true

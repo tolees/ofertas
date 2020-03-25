@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ziploc Slider Stand-and-Fill Storage Bag al 49.54 % de descuento'
-date: 2020-03-22 20:01:34
+date: 2020-03-24 15:51:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TpPNWAEXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TpPNWAEXL._SL200_.jpg' ]
 comments: true

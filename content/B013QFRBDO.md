@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.73 % en Gigaset S850HX Universal-Mobilteil – Sch'
-date: 2020-03-24 04:52:54
+date: 2020-03-25 05:01:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pBNSw0suL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pBNSw0suL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Quest XI: Ecos de un Pasado Perdi al 28.65 % de descuento'
-date: 2020-03-17 19:47:14
+date: 2020-03-24 13:25:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BMZR39FXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BMZR39FXL._SL200_.jpg' ]
 comments: true

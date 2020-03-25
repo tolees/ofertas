@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.58 % en LEGO 11006 Classic Creative Blue Bricks '
-date: 2020-03-21 13:02:18
+date: 2020-03-24 16:51:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nkIgu0p-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nkIgu0p-L._SL200_.jpg' ]
 comments: true

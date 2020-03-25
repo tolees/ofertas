@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hair 4x4 Brazilian Kinky Curly Lace Clos al 58.51 % de descuento'
-date: 2020-03-22 21:02:35
+date: 2020-03-24 12:57:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vhsA0UNpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vhsA0UNpL._SL200_.jpg' ]
 comments: true

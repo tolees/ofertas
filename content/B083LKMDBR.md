@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en K9CK Luces LED para Lego Technic Bugatti'
-date: 2020-03-22 13:21:41
+date: 2020-03-24 13:15:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RX33M4LHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RX33M4LHL._SL200_.jpg' ]
 comments: true

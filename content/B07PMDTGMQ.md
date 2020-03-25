@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.05 % en Funko Po Shop Exclusive: x POP! TV Vinyl'
-date: 2020-03-23 04:48:58
+date: 2020-03-24 12:50:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sY9uF5luL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sY9uF5luL._SL200_.jpg' ]
 comments: true

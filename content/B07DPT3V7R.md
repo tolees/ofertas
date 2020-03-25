@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ingenious Toys® technic RC car 2.4GHz /  al 50.06 % de descuento'
-date: 2020-03-22 20:52:41
+date: 2020-03-24 20:46:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/61Ll-5tYYSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61Ll-5tYYSL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 56.43 % en Funko- Pop Vinilo: Castlevania: Adrian T'
-date: 2020-03-23 13:11:43
+title: 'Descuento del 38.09 % en Funko 38551 POP Vinyl: Castlevania: Adri'
+date: 2020-03-24 13:09:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W+pQ9UB0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W+pQ9UB0L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KPHL1ZB
 description:
-actualPrice: 6.95 EUR
-comparePrice: 15.95 EUR
+actualPrice: 8.5 EUR
+comparePrice: 13.73 EUR
 inStock: true
 ---
 
-Tienes [Funko- Pop Vinilo: Castlevania: Adrian Tepes Figura Coleccionable  Multicolor  38551 ](https://www.amazon.com/dp/B07KPHL1ZB/?tag=redken08-20) con un 56.43 % de descuento con precio de oferta de 6.95 EUR (original: 15.95 EUR) en el siguiente enlace!
+Tienes [Funko 38551 POP Vinyl: Castlevania: Adrian Tepes Sammelbares Spielzeug  Mehrfarben](https://www.amazon.com/dp/B07KPHL1ZB/?tag=redken08-20) con un 38.09 % de descuento con precio de oferta de 8.5 EUR (original: 13.73 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41W+pQ9UB0L._SL200_.jpg)](https://www.amazon.com/dp/B07KPHL1ZB/?tag=redken08-20)
 

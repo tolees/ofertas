@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic Lumix DMC-FZ2000- Cámara digit al 36.08 % de descuento'
-date: 2020-03-22 06:09:36
+date: 2020-03-25 06:08:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/418l62KyXyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418l62KyXyL._SL200_.jpg' ]
 comments: true

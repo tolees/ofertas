@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.38 % en MEDION E4251 - Ordenador portátil de 14"'
-date: 2020-03-19 22:30:54
+date: 2020-03-24 15:06:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/418qlUYyXrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418qlUYyXrL._SL200_.jpg' ]
 comments: true

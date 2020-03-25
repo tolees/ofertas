@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tipmant Reloj Inteligente Mujer Hombre S al 63.66 % de descuento'
-date: 2020-03-12 16:38:31
+date: 2020-03-24 16:15:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51N7DB7m-zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51N7DB7m-zL._SL200_.jpg' ]
 comments: true

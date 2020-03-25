@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'HP CE255A 55A Cartucho de Tóner Original al 27.33 % de descuento'
-date: 2020-01-14 14:34:09
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iMPRl5XOL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iMPRl5XOL._SL200_.jpg' ]
+date: 2020-03-24 23:19:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/41iMPRl5XOL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41iMPRl5XOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B002EDLQRW
 description:
-actualPrice: 138 EUR
+actualPrice: 138.0 EUR
 comparePrice: 189.9 EUR
 inStock: true
 ---
 
-Está [HP CE255A 55A Cartucho de Tóner Original  1 unidad  negro](https://www.amazon.com/dp/B002EDLQRW/?tag=redken08-20) con 27.33 de descuento por 138 EUR (original: 189.9 EUR) en el siguiente enlace!
+Está [HP CE255A 55A Cartucho de Tóner Original  1 unidad  negro](https://www.amazon.com/dp/B002EDLQRW/?tag=redken08-20) con 27.33 de descuento por 138.0 EUR (original: 189.9 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41iMPRl5XOL._SL200_.jpg)](https://www.amazon.com/dp/B002EDLQRW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41iMPRl5XOL._SL200_.jpg)](https://www.amazon.com/dp/B002EDLQRW/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B002EDLQRW/?tag=redken08-20)
 

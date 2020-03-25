@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.34 % en YI Cámara de Vigilancia Interior 1080P D'
-date: 2020-03-14 15:04:44
+date: 2020-03-24 18:31:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41X8F1-gbvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41X8F1-gbvL._SL200_.jpg' ]
 comments: true

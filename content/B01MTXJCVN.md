@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Epson WFDS360W - Escáner de Color móvil  al 36.74 % de descuento'
-date: 2020-03-19 13:35:40
+title: 'Epson WFDS360W - Escáner de Color móvil  al 39.78 % de descuento'
+date: 2020-03-24 20:24:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-76nrabOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-76nrabOL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01MTXJCVN
 description:
-actualPrice: 229.0 EUR
+actualPrice: 218.0 EUR
 comparePrice: 361.99 EUR
 inStock: true
 ---
 
-Está [Epson WFDS360W - Escáner de Color móvil A4  Capacidad de USB  Negro](https://www.amazon.com/dp/B01MTXJCVN/?tag=redken08-20) con 36.74 de descuento por 229.0 EUR (original: 361.99 EUR) en el siguiente enlace!
+Está [Epson WFDS360W - Escáner de Color móvil A4  Capacidad de USB  Negro](https://www.amazon.com/dp/B01MTXJCVN/?tag=redken08-20) con 39.78 de descuento por 218.0 EUR (original: 361.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31-76nrabOL._SL200_.jpg)](https://www.amazon.com/dp/B01MTXJCVN/?tag=redken08-20)
 
