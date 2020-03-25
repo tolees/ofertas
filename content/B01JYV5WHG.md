@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.41 % en AUKEY Cable USB C a USB A 3.0   1m x 3  '
-date: 2020-03-22 08:25:24
+date: 2020-03-25 10:02:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/414XxJx0NKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414XxJx0NKL._SL200_.jpg' ]
 comments: true
