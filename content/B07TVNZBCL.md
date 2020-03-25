@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Archi al 60.01 % de descuento'
-date: 2020-01-28 09:46:21
-thumbnailImage: 'https://m.media-amazon.com/images/I/41ZywahHTbL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41ZywahHTbL._AC_._SL200_.jpg' ]
+title: 'BRIKSMAX Kit de Iluminación Led para Leg al 71.01 % de descuento'
+date: 2020-03-24 21:13:24
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ZywahHTbL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ZywahHTbL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07TVNZBCL
 description:
-actualPrice: 23.99 GBP
-comparePrice: 59.99 GBP
+actualPrice: 28.99 EUR
+comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Architecture New York- Compatible with Lego 21028 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TVNZBCL/?tag=redken08-20) a 23.99 GBP (original: 59.99 GBP) (60.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Architecture New York City  Compatible con Ladrillos de Construcción Lego Modelo 21028  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TVNZBCL/?tag=redken08-20) a 28.99 EUR (original: 99.99 EUR) (71.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41ZywahHTbL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TVNZBCL/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ZywahHTbL._SL200_.jpg)](https://www.amazon.com/dp/B07TVNZBCL/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07TVNZBCL/?tag=redken08-20)
 

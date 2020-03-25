@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 36.51 % en Playmobil 9061 Family Fun Aquarium Shop'
-date: 2020-02-16 15:23:20
-thumbnailImage: 'https://m.media-amazon.com/images/I/51-o4n68JEL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51-o4n68JEL._AC_._SL200_.jpg' ]
+title: 'Descuento del 29.13 % en Playmobil 9061 Family Fun Aquarium Shop'
+date: 2020-03-25 12:49:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/51-o4n68JEL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51-o4n68JEL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01LZ37RJI
 description:
-actualPrice: 10.78 GBP
-comparePrice: 16.98 GBP
+actualPrice: 13.5 GBP
+comparePrice: 19.05 GBP
 inStock: true
 ---
 
-Tienes [Playmobil 9061 Family Fun Aquarium Shop](https://www.amazon.com/dp/B01LZ37RJI/?tag=redken08-20) con un 36.51 % de descuento con precio de oferta de 10.78 GBP (original: 16.98 GBP) en el siguiente enlace!
+Tienes [Playmobil 9061 Family Fun Aquarium Shop](https://www.amazon.com/dp/B01LZ37RJI/?tag=redken08-20) con un 29.13 % de descuento con precio de oferta de 13.5 GBP (original: 19.05 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51-o4n68JEL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01LZ37RJI/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51-o4n68JEL._SL200_.jpg)](https://www.amazon.com/dp/B01LZ37RJI/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01LZ37RJI/?tag=redken08-20)
 

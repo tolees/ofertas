@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'TACKLIFE T8 Max Arrancador de Coche - 10 al 27.28 % de descuento'
-date: 2020-03-14 14:02:19
+title: 'TACKLIFE T8 MAX Arrancador de Coche - 10 al 27.28 % de descuento'
+date: 2020-03-25 13:40:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EHRsmqb1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EHRsmqb1L._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 109.99 EUR
 inStock: true
 ---
 
-Está [TACKLIFE T8 Max Arrancador de Coche - 1000A Pico 20000mAh Jump Starter  Batería Arrancador de Coche  Motor Todo Gas o Diesel Hasta 6.5L   Bateria Externa con Puertos de Carga Dual  LED Linterna](https://www.amazon.com/dp/B07GGWJYM7/?tag=redken08-20) con 27.28 de descuento por 79.99 EUR (original: 109.99 EUR) en el siguiente enlace!
+Está [TACKLIFE T8 MAX Arrancador de Coche - 1000A 20000mAh Arrancador de batería  Para todo Motor de Gasolina o de Diesel Hasta 6.500cc   Bateria Externa con Luz LED  Puertos de Carga Dual](https://www.amazon.com/dp/B07GGWJYM7/?tag=redken08-20) con 27.28 de descuento por 79.99 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41EHRsmqb1L._SL200_.jpg)](https://www.amazon.com/dp/B07GGWJYM7/?tag=redken08-20)
 

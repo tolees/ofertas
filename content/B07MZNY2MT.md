@@ -14,10 +14,10 @@ comparePrice: 10.38 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 40106 POP Disney: Little Mermaid-Prince Eric Collectible Figure  Multicolor](https://www.amazon.com/dp/B07MZNY2MT/?tag=redken08-20) a 7.29 GBP (original: 10.38 GBP) (29.77 %  de descuento) en el siguiente enlace!
+Está [Funko 40106 POP Disney: Little Mermaid-Prince Eric Collectible Figure  Multicolor](https://www.amazon.com/dp/B07MZNY2MT/?tag=redken08-20) con 29.77 de descuento por 7.29 GBP (original: 10.38 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/411BCm-kxJL._SL200_.jpg)](https://www.amazon.com/dp/B07MZNY2MT/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07MZNY2MT/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MZNY2MT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

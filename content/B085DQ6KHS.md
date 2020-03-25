@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GODNECE Excavator Model Kit  2.4G 4CH Re al 50.00 % de descuento'
-date: 2020-03-24 04:49:08
+date: 2020-03-25 12:46:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41j3tkbyVML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41j3tkbyVML._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en HP Omen Obelisk 875-0004ns - Ordenador d'
-date: 2020-03-24 07:40:52
+date: 2020-03-25 12:34:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kLeZU4CXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kLeZU4CXL._SL200_.jpg' ]
 comments: true
