@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Durex Gel Intense Orgasmic Estimulador d al 26.56 % de descuento'
-date: 2020-03-22 21:08:09
+title: 'Durex Gel Intense Orgasmic Estimulador d al 27.78 % de descuento'
+date: 2020-03-26 19:15:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OfCx6iYeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OfCx6iYeL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01MT3UVF9
 description:
-actualPrice: 8.38 EUR
+actualPrice: 8.24 EUR
 comparePrice: 11.41 EUR
 inStock: true
 ---
 
-Está [Durex Gel Intense Orgasmic Estimulador del clítoris - 10 ml](https://www.amazon.com/dp/B01MT3UVF9/?tag=redken08-20) con 26.56 de descuento por 8.38 EUR (original: 11.41 EUR) en el siguiente enlace!
+Está [Durex Gel Intense Orgasmic Estimulador del clítoris - 10 ml](https://www.amazon.com/dp/B01MT3UVF9/?tag=redken08-20) con 27.78 de descuento por 8.24 EUR (original: 11.41 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41OfCx6iYeL._SL200_.jpg)](https://www.amazon.com/dp/B01MT3UVF9/?tag=redken08-20)
 

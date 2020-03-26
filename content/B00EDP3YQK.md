@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.07 % en Remington S9600 Silk - Plancha de Pelo  '
-date: 2020-03-18 20:14:23
+date: 2020-03-26 17:58:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oMVN9TM0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oMVN9TM0L._SL200_.jpg' ]
 comments: true
