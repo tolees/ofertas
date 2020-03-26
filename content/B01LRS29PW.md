@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bébé Confort MiloFix Silla de auto de 0  al 57.31 % de descuento'
-date: 2020-03-25 11:40:17
+date: 2020-03-26 11:53:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sUCEau2SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sUCEau2SL._SL200_.jpg' ]
 comments: true

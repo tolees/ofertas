@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 43.11 % en BRIKSMAX Led Beleuchtungsset für Lego Te'
-date: 2020-03-24 13:02:22
+title: 'BRIKSMAX Led Lighting Kit for LEGO Techn al 56.01 % de descuento'
+date: 2020-03-24 20:44:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TuKBtaZ2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TuKBtaZ2L._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07TB8BT8J
 description:
-actualPrice: 32.99 EUR
-comparePrice: 57.99 EUR
+actualPrice: 21.99 GBP
+comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Beleuchtungsset für Lego Technic Chevrolet Corvette ZR1  Kompatibel Mit Lego 42093 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TB8BT8J/?tag=redken08-20) con un 43.11 % de descuento con precio de oferta de 32.99 EUR (original: 57.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Technic Chevrolet Corvette ZR1 Replica-Compatible with Lego 42093 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07TB8BT8J/?tag=redken08-20) con 56.01 de descuento por 21.99 GBP (original: 49.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51TuKBtaZ2L._SL200_.jpg)](https://www.amazon.com/dp/B07TB8BT8J/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07TB8BT8J/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07TB8BT8J/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
