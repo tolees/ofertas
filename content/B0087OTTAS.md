@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.41 % en Bosch PST 650 - Sierra de calar 230V  50'
-date: 2020-03-23 18:58:26
+date: 2020-03-25 21:03:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-p3f20ygL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-p3f20ygL._SL200_.jpg' ]
 comments: true

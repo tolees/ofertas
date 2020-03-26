@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Philips S5290/12 Elektrischer Nass-und T al 36.37 % de descuento'
-date: 2020-02-23 20:54:31
-thumbnailImage: 'https://m.media-amazon.com/images/I/51iFr4QVhOL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51iFr4QVhOL._AC_._SL200_.jpg' ]
+date: 2020-03-25 19:41:06
+thumbnailImage: 'https://m.media-amazon.com/images/I/51iFr4QVhOL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51iFr4QVhOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Philips S5290/12 Elektrischer Nass-und Trockenrasierer Series 5000 mit MultiPrecision-Klingen  Präzisionstrimmer](https://www.amazon.com/dp/B07FKN3VBJ/?tag=redken08-20) con 36.37 de descuento por 69.99 EUR (original: 109.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51iFr4QVhOL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FKN3VBJ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51iFr4QVhOL._SL200_.jpg)](https://www.amazon.com/dp/B07FKN3VBJ/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07FKN3VBJ/?tag=redken08-20)
 

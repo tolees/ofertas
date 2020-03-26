@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Ninja al 44.01 % de descuento'
-date: 2020-03-24 12:44:38
+date: 2020-03-25 20:41:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZbQrgyoCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZbQrgyoCL._SL200_.jpg' ]
 comments: true

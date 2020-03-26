@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 73.34 % en Altavoz 30W Portátil Bluetooth 4.2 AY  I'
-date: 2020-03-24 13:13:03
+date: 2020-03-25 21:09:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51e3kpa8IrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51e3kpa8IrL._SL200_.jpg' ]
 comments: true

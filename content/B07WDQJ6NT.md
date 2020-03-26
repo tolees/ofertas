@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A30s - Smartphone de 6.4" al 28.67 % de descuento'
-date: 2020-03-24 10:44:56
+date: 2020-03-25 19:19:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31UFJkwAhaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31UFJkwAhaL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini PC  ACEPC T11 Windows 10 Pro  64-bi al 28.57 % de descuento'
-date: 2020-03-25 04:39:33
+date: 2020-03-26 04:43:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nHODJ+W8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nHODJ+W8L._SL200_.jpg' ]
 comments: true

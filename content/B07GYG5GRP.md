@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smart ZigBee Outlet Plug para Echo Plus  al 28.88 % de descuento'
-date: 2020-03-20 07:36:11
+date: 2020-03-25 22:50:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/319bM-3oU7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319bM-3oU7L._SL200_.jpg' ]
 comments: true

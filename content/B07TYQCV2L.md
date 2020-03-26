@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.20 % en Funko 44988 POP Marvel: Fantastic Four -'
-date: 2020-03-23 20:44:43
+date: 2020-03-25 20:43:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KXV3ufjnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KXV3ufjnL._SL200_.jpg' ]
 comments: true
