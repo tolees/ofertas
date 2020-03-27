@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Prozis Vitamina D3-120 Unidades al 60.37 % de descuento'
-date: 2020-03-26 08:49:41
+date: 2020-03-27 09:38:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f-GSHKi+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f-GSHKi+L._SL200_.jpg' ]
 comments: true

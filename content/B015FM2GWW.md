@@ -14,10 +14,10 @@ comparePrice: 11.5 EUR
 inStock: true
 ---
 
-Está [LEGO - Pack de 3 bolígrafos de gel  51513 ](https://www.amazon.com/dp/B015FM2GWW/?tag=redken08-20) con 39.57 de descuento por 6.95 EUR (original: 11.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO - Pack de 3 bolígrafos de gel  51513 ](https://www.amazon.com/dp/B015FM2GWW/?tag=redken08-20) a 6.95 EUR (original: 11.5 EUR) (39.57 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412jw7J6pWL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B015FM2GWW/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B015FM2GWW/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B015FM2GWW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

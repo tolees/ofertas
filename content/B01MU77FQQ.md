@@ -14,10 +14,10 @@ comparePrice: 125.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Logitech MK850 Combo Teclado y Ratón Multidispositivos  2 4 GHz/Bluetooth  Escructura Curvada  Ratón Inalámbrico  12 Botones Programables  Batería de 3 Años  PC/Mac  Disposición QWERTY Español - Negro](https://www.amazon.com/dp/B01MU77FQQ/?tag=redken08-20) a 49.97 EUR (original: 125.0 EUR) (60.02 %  de descuento) en el siguiente enlace!
+Está [Logitech MK850 Combo Teclado y Ratón Multidispositivos  2 4 GHz/Bluetooth  Escructura Curvada  Ratón Inalámbrico  12 Botones Programables  Batería de 3 Años  PC/Mac  Disposición QWERTY Español - Negro](https://www.amazon.com/dp/B01MU77FQQ/?tag=redken08-20) con 60.02 de descuento por 49.97 EUR (original: 125.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41gQCXOS0jL._SL200_.jpg)](https://www.amazon.com/dp/B01MU77FQQ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MU77FQQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MU77FQQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
