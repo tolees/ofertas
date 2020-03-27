@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Ghostbu al 43.11 % de descuento'
-date: 2020-03-25 20:52:00
+date: 2020-03-26 20:59:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/515eLeXPrbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515eLeXPrbL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.83 % en Memoria Flash Universal 64 GB  aleación '
-date: 2020-03-21 07:55:20
+date: 2020-03-27 06:59:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41drvf+DlUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41drvf+DlUL._SL200_.jpg' ]
 comments: true

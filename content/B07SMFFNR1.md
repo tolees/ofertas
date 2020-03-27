@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iNeego Bloques de Construcción 1000 Piez al 49.89 % de descuento'
-date: 2020-03-24 21:12:22
+date: 2020-03-26 21:04:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/61T8ERh7hmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61T8ERh7hmL._SL200_.jpg' ]
 comments: true

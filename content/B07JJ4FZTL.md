@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vigilabebés Inalambrico con Cámara  BOIF al 58.83 % de descuento'
-date: 2020-03-23 13:07:15
+date: 2020-03-26 19:55:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gBBNWyCnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gBBNWyCnL._SL200_.jpg' ]
 comments: true

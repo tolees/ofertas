@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calico Critters Kitchen Play Set al 27.87 % de descuento'
-date: 2020-03-24 20:58:14
+date: 2020-03-27 05:03:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jx7j00KRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jx7j00KRL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMRON M3 - Tensiómetro de brazo digital  al 44.80 % de descuento'
-date: 2020-03-22 22:10:21
+date: 2020-03-26 20:25:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vZ-jY2caL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vZ-jY2caL._SL200_.jpg' ]
 comments: true
