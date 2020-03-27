@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Bosch Professional - Juego de 7 brocas m al 63.93 % de descuento'
-date: 2020-03-09 06:11:33
-thumbnailImage: 'https://m.media-amazon.com/images/I/41pc8xp3A6L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41pc8xp3A6L._AC_._SL200_.jpg' ]
+title: 'Bosch Professional - Juego de 7 brocas m al 57.56 % de descuento'
+date: 2020-03-27 10:45:37
+thumbnailImage: 'https://m.media-amazon.com/images/I/41pc8xp3A6L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41pc8xp3A6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B001IBKQWM
 description:
-actualPrice: 16.15 EUR
+actualPrice: 19.0 EUR
 comparePrice: 44.77 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch Professional - Juego de 7 brocas multiuso Robust Line CYL-9 MultiConstruction  4 5 6 6 8 10 12 mm ](https://www.amazon.com/dp/B001IBKQWM/?tag=redken08-20) a 16.15 EUR (original: 44.77 EUR) (63.93 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bosch Professional - Juego de 7 brocas multiuso Robust Line CYL-9 MultiConstruction  4 5 6 6 8 10 12 mm ](https://www.amazon.com/dp/B001IBKQWM/?tag=redken08-20) a 19.0 EUR (original: 44.77 EUR) (57.56 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41pc8xp3A6L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B001IBKQWM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41pc8xp3A6L._SL200_.jpg)](https://www.amazon.com/dp/B001IBKQWM/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B001IBKQWM/?tag=redken08-20)
 

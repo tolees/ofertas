@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.06 % en LG 24MK400H-B - Monitor Gaming FHD de 59'
-date: 2020-03-24 16:03:10
+date: 2020-03-27 09:55:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MM-IW74OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MM-IW74OL._SL200_.jpg' ]
 comments: true

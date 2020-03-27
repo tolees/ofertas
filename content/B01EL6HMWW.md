@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.90 % en IQ Lego Star Wars Kylo Ren LED Head Lamp'
-date: 2020-03-26 12:56:32
+date: 2020-03-27 13:16:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VFbIbCKnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VFbIbCKnL._SL200_.jpg' ]
 comments: true

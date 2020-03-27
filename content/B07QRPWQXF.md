@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'HOVNEE Regleta Vertical Enchufes de 12 T al 28.01 % de descuento'
-date: 2020-03-02 20:19:33
-thumbnailImage: 'https://m.media-amazon.com/images/I/416qHkt7ozL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/416qHkt7ozL._AC_._SL200_.jpg' ]
+date: 2020-03-27 11:16:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/416qHkt7ozL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/416qHkt7ozL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [HOVNEE Regleta Vertical Enchufes de 12 Tomas Corrientes y 5 Rápida USB Tomas  Alargadora Cable de 2m con Protección y Interruptor  Base Múltiple  Tapón de Seguridad  2500W/10A  17-EN-1 ](https://www.amazon.com/dp/B07QRPWQXF/?tag=redken08-20) con 28.01 de descuento por 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/416qHkt7ozL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07QRPWQXF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/416qHkt7ozL._SL200_.jpg)](https://www.amazon.com/dp/B07QRPWQXF/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07QRPWQXF/?tag=redken08-20)
 

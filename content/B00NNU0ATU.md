@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette mach-3 Cartridge – Pack de 4 al 52.12 % de descuento'
-date: 2020-03-24 15:53:15
+date: 2020-03-27 10:20:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZiBjjU1-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZiBjjU1-L._SL200_.jpg' ]
 comments: true

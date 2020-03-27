@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fujifilm Instax Mini 9 - Cámara instantá al 30.96 % de descuento'
-date: 2020-03-24 18:21:16
+date: 2020-03-27 12:15:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NCaAaBPfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NCaAaBPfL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Película 2 - Fiestabús Pop-Up  set  al 45.00 % de descuento'
-date: 2020-03-26 07:54:08
+title: 'THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus al 46.95 % de descuento'
+date: 2020-03-27 04:59:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ICLFaXacL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ICLFaXacL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNWJ12T
 description:
-actualPrice: 54.99 EUR
-comparePrice: 99.99 EUR
+actualPrice: 47.74 EUR
+comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Película 2 - Fiestabús Pop-Up  set divertido para construir autobús de juguete convertible en pista de baile  70828 ](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20) a 54.99 EUR (original: 99.99 EUR) (45.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20) a 47.74 EUR (original: 89.99 EUR) (46.95 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ICLFaXacL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20)
 

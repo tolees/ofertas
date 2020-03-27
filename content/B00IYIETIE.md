@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.14 % en Braun CJ3000 WH - Exprimidor zumo de nar'
-date: 2020-03-18 20:18:11
+date: 2020-03-27 12:24:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BBIdXepoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BBIdXepoL._SL200_.jpg' ]
 comments: true

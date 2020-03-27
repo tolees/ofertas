@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Victure Vigilabebés Inalambrico con cáma al 34.00 % de descuento'
-date: 2020-03-24 19:07:32
+date: 2020-03-27 10:55:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EJuTFfRyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EJuTFfRyL._SL200_.jpg' ]
 comments: true

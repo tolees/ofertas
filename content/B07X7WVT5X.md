@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brixtoys Bay ® Model Creator - classic c al 30.03 % de descuento'
-date: 2020-03-24 20:46:44
+date: 2020-03-27 12:46:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IFepBy2mL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IFepBy2mL._SL500_._SL200_.jpg' ]
 comments: true

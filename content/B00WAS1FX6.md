@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.52 % en Intel NUC Kit NUC5i7RYH Barebone System '
-date: 2020-03-26 12:48:40
+date: 2020-03-27 13:20:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n7B2llMiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n7B2llMiL._SL200_.jpg' ]
 comments: true
