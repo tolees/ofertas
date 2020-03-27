@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 52.50 % en Funko FK3876 Pop! TV: Juego de Tronos- G'
-date: 2020-03-26 13:19:19
+title: 'Descuento del 36.57 % en Funko 3876 Ghost Game of Thrones Direwol'
+date: 2020-03-27 04:43:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/516iphMdo9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516iphMdo9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00GXOK37C
 description:
-actualPrice: 7.12 EUR
-comparePrice: 14.99 EUR
+actualPrice: 6.4 GBP
+comparePrice: 10.09 GBP
 inStock: true
 ---
 
-Tienes [Funko FK3876 Pop! TV: Juego de Tronos- Ghost Fantasma](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20) con un 52.50 % de descuento con precio de oferta de 7.12 EUR (original: 14.99 EUR) en el siguiente enlace!
+Tienes [Funko 3876 Ghost Game of Thrones Direwolf Bobble Head - Vinyl Collectors 3.75 Inch Dire Wolf Figure](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20) con un 36.57 % de descuento con precio de oferta de 6.4 GBP (original: 10.09 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516iphMdo9L._SL200_.jpg)](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20)
 

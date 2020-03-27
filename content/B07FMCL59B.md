@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Headphones BT Travel 7 ANC  Activ al 36.61 % de descuento'
-date: 2020-03-24 01:41:18
+date: 2020-03-27 13:35:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/410148dt45L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410148dt45L._SL200_.jpg' ]
 comments: true

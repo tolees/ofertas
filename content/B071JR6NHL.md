@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Omen 600 - Ratón con Cable Gaming 120 al 50.03 % de descuento'
-date: 2020-03-17 12:11:18
+date: 2020-03-27 13:38:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O2hDubIPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O2hDubIPL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 50.78 % en Funko POP! Marvel: Avengers Infinity War'
-date: 2020-03-26 12:47:26
+title: 'Descuento del 53.53 % en Funko POP! Marvel: Avengers Infinity War'
+date: 2020-03-27 13:23:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zMI8PrV-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zMI8PrV-L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07G4W8VCV
 description:
-actualPrice: 7.87 USD
+actualPrice: 7.43 USD
 comparePrice: 15.99 USD
 inStock: true
 ---
 
-Tienes [Funko POP! Marvel: Avengers Infinity War - Eitri 6" Amazon Exclusive](https://www.amazon.com/dp/B07G4W8VCV/?tag=redken08-20) con un 50.78 % de descuento con precio de oferta de 7.87 USD (original: 15.99 USD) en el siguiente enlace!
+Tienes [Funko POP! Marvel: Avengers Infinity War - Eitri 6" Amazon Exclusive](https://www.amazon.com/dp/B07G4W8VCV/?tag=redken08-20) con un 53.53 % de descuento con precio de oferta de 7.43 USD (original: 15.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41zMI8PrV-L._SL200_.jpg)](https://www.amazon.com/dp/B07G4W8VCV/?tag=redken08-20)
 

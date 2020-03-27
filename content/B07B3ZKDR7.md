@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crosstour 4K 16MP Cámara Deportiva Acuat al 26.53 % de descuento'
-date: 2020-03-25 15:16:45
+date: 2020-03-27 13:27:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tD4OrVVcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tD4OrVVcL._SL200_.jpg' ]
 comments: true

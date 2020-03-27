@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas VL Court 2.0 CMF I  Zapatillas de al 64.19 % de descuento'
-date: 2020-03-15 17:06:05
+date: 2020-03-27 13:39:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fWkKATt2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fWkKATt2L._SL200_.jpg' ]
 comments: true
