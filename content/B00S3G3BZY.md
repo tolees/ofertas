@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips NT3160/10 - Recortador de vello  al 30.69 % de descuento'
-date: 2020-03-26 11:03:52
+date: 2020-03-27 17:08:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dScs9vyWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dScs9vyWL._SL200_.jpg' ]
 comments: true

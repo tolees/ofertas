@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Cook@Home - Robot de cocin al 25.64 % de descuento'
-date: 2020-03-25 18:53:13
+date: 2020-03-27 17:07:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/416+Vid2A-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416+Vid2A-L._SL200_.jpg' ]
 comments: true
