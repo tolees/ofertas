@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Nikon D750 - Cámara réflex digital de 24 al 29.97 % de descuento'
-date: 2020-01-27 10:12:00
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg' ]
+title: 'Nikon D750 - Cámara réflex digital de 24 al 44.61 % de descuento'
+date: 2020-03-27 14:48:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07GXLFWDB
 description:
-actualPrice: 1399.9 EUR
-comparePrice: 1999 EUR
+actualPrice: 1107.2 EUR
+comparePrice: 1999.0 EUR
 inStock: true
 ---
 
-Está [Nikon D750 - Cámara réflex digital de 24.3 Mp  pantalla 3.2"  vídeo Full HD   color negro - Solo cuerpo - [Versión Nikonistas]](https://www.amazon.com/dp/B07GXLFWDB/?tag=redken08-20) con 29.97 de descuento por 1399.9 EUR (original: 1999 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nikon D750 - Cámara réflex digital de 24.3 Mp  pantalla 3.2"  vídeo Full HD   color negro - Solo cuerpo - [Versión Nikonistas]](https://www.amazon.com/dp/B07GXLFWDB/?tag=redken08-20) a 1107.2 EUR (original: 1999.0 EUR) (44.61 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg)](https://www.amazon.com/dp/B07GXLFWDB/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg)](https://www.amazon.com/dp/B07GXLFWDB/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07GXLFWDB/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07GXLFWDB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

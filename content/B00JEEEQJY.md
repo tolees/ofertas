@@ -14,10 +14,10 @@ comparePrice: 29.05 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MARTIDERM Photo-Age 10 ampollas](https://www.amazon.com/dp/B00JEEEQJY/?tag=redken08-20) a 19 EUR (original: 29.05 EUR) (34.60 %  de descuento) en el siguiente enlace!
+Está [MARTIDERM Photo-Age 10 ampollas](https://www.amazon.com/dp/B00JEEEQJY/?tag=redken08-20) con 34.60 de descuento por 19 EUR (original: 29.05 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319TpGWk15L._SL200_.jpg)](https://www.amazon.com/dp/B00JEEEQJY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00JEEEQJY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00JEEEQJY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
