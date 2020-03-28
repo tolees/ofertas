@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigoss Transmisor Bluetooth USB Adaptado al 48.40 % de descuento'
-date: 2020-03-26 21:06:44
+date: 2020-03-27 21:18:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xptdP5oPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xptdP5oPL._SL200_.jpg' ]
 comments: true

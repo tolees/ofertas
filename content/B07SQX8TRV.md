@@ -14,10 +14,10 @@ comparePrice: 10.19 GBP
 inStock: true
 ---
 
-Está [Funko Heroes: Birds of Prey - Roman Sionis / Chase  Styles May Vary  Collectible Figure  Assorted Colors](https://www.amazon.com/dp/B07SQX8TRV/?tag=redken08-20) con 29.44 de descuento por 7.19 GBP (original: 10.19 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko Heroes: Birds of Prey - Roman Sionis / Chase  Styles May Vary  Collectible Figure  Assorted Colors](https://www.amazon.com/dp/B07SQX8TRV/?tag=redken08-20) a 7.19 GBP (original: 10.19 GBP) (29.44 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31h5LVYp6uL._SL200_.jpg)](https://www.amazon.com/dp/B07SQX8TRV/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07SQX8TRV/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07SQX8TRV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

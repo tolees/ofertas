@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TONGJI Acrylic Display Case For Lego 213 al 50.00 % de descuento'
-date: 2020-03-25 20:45:26
+date: 2020-03-27 20:45:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/4178Tj3AzfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4178Tj3AzfL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B083XQLXMR
 description:
-actualPrice: 26.99 GBP
-comparePrice: 53.98 GBP
+actualPrice: 33.99 GBP
+comparePrice: 67.98 GBP
 inStock: true
 ---
 
-Está [TONGJI Acrylic Display Case For Lego 21319 Ideas Central Perk Friends  Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.com/dp/B083XQLXMR/?tag=redken08-20) con 50.00 de descuento por 26.99 GBP (original: 53.98 GBP) en el siguiente enlace!
+Está [TONGJI Acrylic Display Case For Lego 21319 Ideas Central Perk Friends  Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.com/dp/B083XQLXMR/?tag=redken08-20) con 50.00 de descuento por 33.99 GBP (original: 67.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4178Tj3AzfL._SL200_.jpg)](https://www.amazon.com/dp/B083XQLXMR/?tag=redken08-20)
 

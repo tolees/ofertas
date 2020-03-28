@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 61.01 % en Yosoo C Forma Decoración Levitación Magn'
-date: 2020-03-26 21:04:05
+date: 2020-03-27 21:18:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51o31C-KQSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51o31C-KQSL._SL200_.jpg' ]
 comments: true

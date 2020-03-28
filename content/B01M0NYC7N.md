@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jata GR195 Plancha de Asar Cocina por Ig al 49.14 % de descuento'
-date: 2020-03-19 17:32:39
+date: 2020-03-27 20:03:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wDznzOZdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wDznzOZdL._SL200_.jpg' ]
 comments: true

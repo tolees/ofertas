@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Lego Batman  al 61.24 % de descuento'
-date: 2020-03-27 05:06:18
+date: 2020-03-28 05:10:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/415W5uI0L3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415W5uI0L3L._SL200_.jpg' ]
 comments: true

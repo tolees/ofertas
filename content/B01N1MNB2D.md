@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.41 % en Twozies - Pack Siempre Uni-Dos con 6 Bab'
-date: 2020-03-26 13:13:28
+date: 2020-03-27 21:14:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Bt1+gWZ3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Bt1+gWZ3L._SL200_.jpg' ]
 comments: true

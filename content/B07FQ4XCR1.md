@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kindle  ahora con luz frontal integrada  al 27.78 % de descuento'
-date: 2020-03-27 08:26:58
+date: 2020-03-28 09:28:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mls4lzcNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mls4lzcNL._SL200_.jpg' ]
 comments: true

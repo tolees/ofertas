@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en DXX Acryl Schaukasten Vitrine  Schaukast'
-date: 2020-03-08 02:28:25
-thumbnailImage: 'https://m.media-amazon.com/images/I/41eodup5NdL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41eodup5NdL._AC_._SL200_.jpg' ]
+date: 2020-03-28 05:00:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/41eodup5NdL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41eodup5NdL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Star Wars 75159 Death Star Ohne Modell ](https://www.amazon.com/dp/B083K4YMBG/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 129.99 EUR (original: 259.98 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41eodup5NdL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B083K4YMBG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41eodup5NdL._SL200_.jpg)](https://www.amazon.com/dp/B083K4YMBG/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B083K4YMBG/?tag=redken08-20)
 
