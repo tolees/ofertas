@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amoladora Angular 1300W  TACKLIFE 125 mm al 25.00 % de descuento'
-date: 2020-03-20 11:48:43
+date: 2020-03-28 09:45:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/514JnqMNKSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514JnqMNKSL._SL200_.jpg' ]
 comments: true

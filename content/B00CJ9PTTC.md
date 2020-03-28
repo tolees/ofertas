@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 50.17 % en TATAY 4431401 - Standard Escobilla De Ba'
-date: 2020-03-05 18:08:57
-thumbnailImage: 'https://m.media-amazon.com/images/I/21uaXb0+wuL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/21uaXb0+wuL._AC_._SL200_.jpg' ]
+date: 2020-03-28 13:01:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/21uaXb0+wuL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/21uaXb0+wuL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [TATAY 4431401 - Standard Escobilla De Baño Wc  PP  Blanco  12.00X12.00X38.00 Cm](https://www.amazon.com/dp/B00CJ9PTTC/?tag=redken08-20) con un 50.17 % de descuento con precio de oferta de 2.99 EUR (original: 6.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/21uaXb0+wuL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00CJ9PTTC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/21uaXb0+wuL._SL200_.jpg)](https://www.amazon.com/dp/B00CJ9PTTC/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00CJ9PTTC/?tag=redken08-20)
 

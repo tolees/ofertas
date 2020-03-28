@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Conjunto de luces Lightailing para  Star al 60.00 % de descuento'
-date: 2019/12/03 22:59:14 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f9z8v6doL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f9z8v6doL._SL200_.jpg' ]
+title: 'Lightailing Licht-Set Für  Star Wars Tod al 62.51 % de descuento'
+date: 2020-03-27 13:28:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KBTTCNG
 description:
-actualPrice: 79.99 EUR
-comparePrice: 200 EUR
+actualPrice: 74.99 EUR
+comparePrice: 200.0 EUR
 inStock: true
 ---
 
-Está [Conjunto de luces Lightailing para  Star Wars Estrella De La Muerte  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 10188  NO incluido en el modelo ](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20) con 60.00 de descuento por 79.99 EUR (original: 200 EUR) en el siguiente enlace!
+Está [Lightailing Licht-Set Für  Star Wars Todesstern  Modell - LED Licht-Set Kompatibel Mit Lego 10188 Modell NICHT Enthalten ](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20) con 62.51 de descuento por 74.99 EUR (original: 200.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51f9z8v6doL._SL200_.jpg)](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg)](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20)
 

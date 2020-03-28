@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.04 % en Philips Avent Biberón Natural SCF035/17 '
-date: 2020-03-20 09:55:15
+date: 2020-03-28 12:07:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/310MgozkfbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310MgozkfbL._SL200_.jpg' ]
 comments: true

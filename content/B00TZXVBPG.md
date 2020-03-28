@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 40.95 % en Severin KB 2922 Nevera Eléctrica Portáti'
-date: 2020-02-04 16:03:56
-thumbnailImage: 'https://m.media-amazon.com/images/I/41Wh4KM8HDL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41Wh4KM8HDL._AC_._SL200_.jpg' ]
+date: 2020-03-28 14:01:51
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Wh4KM8HDL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Wh4KM8HDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Severin KB 2922 Nevera Eléctrica Portátil con Función de Enfriamiento y de Preservación del Calor  20 L  Incl. 2 Tomas de Corrient: 220-240 V / 12 V Dc  Verde - Gris](https://www.amazon.com/dp/B00TZXVBPG/?tag=redken08-20) con un 40.95 % de descuento con precio de oferta de 64.9 EUR (original: 109.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41Wh4KM8HDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00TZXVBPG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41Wh4KM8HDL._SL200_.jpg)](https://www.amazon.com/dp/B00TZXVBPG/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00TZXVBPG/?tag=redken08-20)
 

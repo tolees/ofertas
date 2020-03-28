@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'FREDI Cámara de Vigilancia para exterior al 57.70 % de descuento'
-date: 2020-01-15 09:10:11
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AZIV6-LFL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AZIV6-LFL._SL200_.jpg' ]
+title: 'FREDI Cámara de Vigilancia para exterior al 61.54 % de descuento'
+date: 2020-03-28 15:34:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/41AZIV6-LFL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41AZIV6-LFL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07PTY1WBC
 description:
-actualPrice: 54.99 EUR
+actualPrice: 49.99 EUR
 comparePrice: 129.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FREDI Cámara de Vigilancia para exteriore  1080P HD Inalámbrica Seguridad/Cámara Impermeable IP Sistema de cámara con Audio bidireccional  visión Nocturna  detección de Movimiento-Blanco](https://www.amazon.com/dp/B07PTY1WBC/?tag=redken08-20) a 54.99 EUR (original: 129.99 EUR) (57.70 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [FREDI Cámara de Vigilancia para exteriore  1080P HD Inalámbrica Seguridad/Cámara Impermeable IP Sistema de cámara con Audio bidireccional  visión Nocturna  detección de Movimiento-Blanco](https://www.amazon.com/dp/B07PTY1WBC/?tag=redken08-20) a 49.99 EUR (original: 129.99 EUR) (61.54 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41AZIV6-LFL._SL200_.jpg)](https://www.amazon.com/dp/B07PTY1WBC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41AZIV6-LFL._SL200_.jpg)](https://www.amazon.com/dp/B07PTY1WBC/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07PTY1WBC/?tag=redken08-20)
 

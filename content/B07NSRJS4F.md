@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Rocks: Johnny Cash - Johnny C al 52.14 % de descuento'
-date: 2020-03-27 04:49:59
+date: 2020-03-28 12:58:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FiMPhwqfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FiMPhwqfL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VicTsing FM Transmitter for Car  Bluetoo al 31.60 % de descuento'
-date: 2020-03-27 12:46:10
+date: 2020-03-28 12:47:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Q7CNL3rGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Q7CNL3rGL._SL200_.jpg' ]
 comments: true

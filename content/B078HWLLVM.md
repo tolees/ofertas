@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monix Pisa - Set de cubiertos de 24 piez al 39.96 % de descuento'
-date: 2020-03-23 18:51:25
+date: 2020-03-28 16:05:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41R4z6y0LmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41R4z6y0LmL._SL200_.jpg' ]
 comments: true

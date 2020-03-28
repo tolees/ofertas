@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACVIOO Gel Lubricante Anal Íntimo a Base al 50.02 % de descuento'
-date: 2020-03-25 17:01:49
+date: 2020-03-28 11:28:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+Kh2fRJGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+Kh2fRJGL._SL200_.jpg' ]
 comments: true
