@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.29 % en Oral-B PRO 2 2000 - Cepillo Eléctrico Re'
-date: 2020-03-24 06:35:24
+date: 2020-03-29 09:37:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg' ]
 comments: true

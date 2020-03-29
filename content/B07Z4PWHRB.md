@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Correas para Xiaomi Mi Band 4 Mi Band 3  al 31.27 % de descuento'
-date: 2020-03-16 08:32:08
+date: 2020-03-29 09:20:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iYbzo5SSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iYbzo5SSL._SL200_.jpg' ]
 comments: true

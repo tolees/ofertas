@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Mini Excel Eco SO9265F0 Calefact al 26.72 % de descuento'
-date: 2020-03-21 08:31:38
+date: 2020-03-29 07:25:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51x6RpU3NML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51x6RpU3NML._SL200_.jpg' ]
 comments: true

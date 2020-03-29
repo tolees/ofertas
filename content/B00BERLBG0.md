@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.73 % en Connemara Peated Single Malt Irish Whisk'
-date: 2020-03-21 16:33:28
+date: 2020-03-28 22:43:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GaGh4rj0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GaGh4rj0L._SL200_.jpg' ]
 comments: true

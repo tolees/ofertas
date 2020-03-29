@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 502 Regular Taper Vaqueros  Azul  al 70.76 % de descuento'
-date: 2020-03-27 12:05:03
+date: 2020-03-28 19:55:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg' ]
 comments: true

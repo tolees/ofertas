@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nokia Lumia 640 XL - Smartphone 5.7"  3G al 37.24 % de descuento'
-date: 2020-03-26 08:19:09
+date: 2020-03-28 23:55:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Qe4wpbWzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Qe4wpbWzL._SL200_.jpg' ]
 comments: true

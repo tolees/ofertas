@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'YAMAY Smartwatch  Impermeable Reloj Inte al 39.81 % de descuento'
-date: 2020-01-26 20:46:04
-thumbnailImage: 'https://m.media-amazon.com/images/I/41mMW+OpjiL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41mMW+OpjiL._AC_._SL200_.jpg' ]
+date: 2020-03-28 20:22:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/41mMW+OpjiL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41mMW+OpjiL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [YAMAY Smartwatch  Impermeable Reloj Inteligente con Cronómetro  Pulsera Actividad Inteligente para Deporte  Reloj de Fitness con Podómetro Smartwatch Mujer Hombre niños para Xiaomi HuaweiI Teléfono](https://www.amazon.com/dp/B07SQXBNT9/?tag=redken08-20) a 36.11 EUR (original: 59.99 EUR) (39.81 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41mMW+OpjiL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07SQXBNT9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41mMW+OpjiL._SL200_.jpg)](https://www.amazon.com/dp/B07SQXBNT9/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07SQXBNT9/?tag=redken08-20)
 

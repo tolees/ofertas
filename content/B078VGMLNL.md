@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.48 % en Sony WI-C300  Auriculares  Inalámbrico  '
-date: 2020-03-21 18:20:22
+date: 2020-03-28 22:00:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31iTdrCIPPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31iTdrCIPPL._SL200_.jpg' ]
 comments: true

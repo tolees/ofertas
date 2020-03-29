@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Loctite Super Glue-3 Original Mini Trio  al 25.37 % de descuento'
-date: 2020-03-23 11:31:31
+date: 2020-03-29 08:45:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/410zO8wVhcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410zO8wVhcL._SL200_.jpg' ]
 comments: true

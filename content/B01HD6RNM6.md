@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Salomon XA Pro 3D GTX  Zapatillas de Tra al 31.66 % de descuento'
-date: 2020-03-24 08:53:54
-thumbnailImage: 'https://m.media-amazon.com/images/I/41iN0LeARfL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41iN0LeARfL._SL200_.jpg' ]
+title: 'Salomon XA Pro 3D GTX  Zapatillas de Tra al 34.63 % de descuento'
+date: 2020-03-28 21:16:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/417SC+26ApL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/417SC+26ApL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01HD6RNM6
 description:
-actualPrice: 68.99 EUR
+actualPrice: 65.99 EUR
 comparePrice: 100.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Azul Marino  Navy Blazer/Hawaiian Ocean/Dawn Blue   40 EU](https://www.amazon.com/dp/B01HD6RNM6/?tag=redken08-20) a 68.99 EUR (original: 100.95 EUR) (31.66 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Azul Marino  Navy Blazer/Hawaiian Ocean/Dawn Blue   40 EU](https://www.amazon.com/dp/B01HD6RNM6/?tag=redken08-20) a 65.99 EUR (original: 100.95 EUR) (34.63 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41iN0LeARfL._SL200_.jpg)](https://www.amazon.com/dp/B01HD6RNM6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/417SC+26ApL._SL200_.jpg)](https://www.amazon.com/dp/B01HD6RNM6/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01HD6RNM6/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Siemens EX845LYC1E iQ700 Kochfeld Elektr al 57.29 % de descuento'
-date: 2020-03-21 09:04:24
+date: 2020-03-28 19:28:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kFFA3FmyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kFFA3FmyL._SL200_.jpg' ]
 comments: true

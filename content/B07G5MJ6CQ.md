@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Overwatch D.Va and Reinhardt 75973  al 35.01 % de descuento'
-date: 2020-03-27 21:09:12
+date: 2020-03-29 04:51:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ezF4qHK1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ezF4qHK1L._SL200_.jpg' ]
 comments: true

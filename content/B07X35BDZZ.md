@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.39 % en Calcetines de Algodón Mujer Calcetines T'
-date: 2020-03-27 12:16:23
+date: 2020-03-28 18:35:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eusJ9LXkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eusJ9LXkL._SL200_.jpg' ]
 comments: true
