@@ -14,10 +14,10 @@ comparePrice: 54.99 GBP
 inStock: true
 ---
 
-Está [LEGO 76144 Super Heroes Marvel Avengers Endgame Hulk Helicopter Rescue with Hulk Action Figure  Pepper Potts as Rescue   Building Set for Kids 8+](https://www.amazon.com/dp/B07RB6NKW1/?tag=redken08-20) con 29.99 de descuento por 38.5 GBP (original: 54.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 76144 Super Heroes Marvel Avengers Endgame Hulk Helicopter Rescue with Hulk Action Figure  Pepper Potts as Rescue   Building Set for Kids 8+](https://www.amazon.com/dp/B07RB6NKW1/?tag=redken08-20) a 38.5 GBP (original: 54.99 GBP) (29.99 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51zuJ1cIZtL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RB6NKW1/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07RB6NKW1/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07RB6NKW1/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

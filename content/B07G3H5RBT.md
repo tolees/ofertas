@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'SanDisk Extreme PRO - Tarjeta de memoria al 45.79 % de descuento'
-date: 2020-02-22 20:34:21
-thumbnailImage: 'https://m.media-amazon.com/images/I/4151jA9H0WL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/4151jA9H0WL._AC_._SL200_.jpg' ]
+title: 'SanDisk Extreme PRO - Tarjeta de memoria al 52.85 % de descuento'
+date: 2020-03-29 10:57:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/4151jA9H0WL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/4151jA9H0WL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07G3H5RBT
 description:
-actualPrice: 35.23 EUR
+actualPrice: 30.64 EUR
 comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.com/dp/B07G3H5RBT/?tag=redken08-20) a 35.23 EUR (original: 64.99 EUR) (45.79 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.com/dp/B07G3H5RBT/?tag=redken08-20) a 30.64 EUR (original: 64.99 EUR) (52.85 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/4151jA9H0WL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07G3H5RBT/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/4151jA9H0WL._SL200_.jpg)](https://www.amazon.com/dp/B07G3H5RBT/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07G3H5RBT/?tag=redken08-20)
 

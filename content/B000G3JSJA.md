@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Solac H101 - Quitapelusas electrico o a  al 48.39 % de descuento'
-date: 2020-03-21 13:31:14
+date: 2020-03-29 12:46:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CCuUfQKML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CCuUfQKML._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego St al 50.86 % de descuento'
-date: 2020-03-27 13:30:52
+title: 'BRIKSMAX Kit de Iluminación Led para Leg al 40.01 % de descuento'
+date: 2020-03-27 21:26:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TPmCf3upL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TPmCf3upL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B083FSGK6F
 description:
-actualPrice: 28.99 EUR
-comparePrice: 58.99 EUR
+actualPrice: 29.99 EUR
+comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Resistance Tie Interceptor mit Allianz-Pilot Kompatibel Mit Lego 75242 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B083FSGK6F/?tag=redken08-20) con 50.86 de descuento por 28.99 EUR (original: 58.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Interceptor Tie Black Ace Compatible con Ladrillos de Construcción Lego Modelo 75242  Juego de Legos no Incluido](https://www.amazon.com/dp/B083FSGK6F/?tag=redken08-20) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41TPmCf3upL._SL200_.jpg)](https://www.amazon.com/dp/B083FSGK6F/?tag=redken08-20)
 

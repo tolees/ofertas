@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 28.80 % en Funko- Pop Vinilo: Games: Fortnite: Loot'
-date: 2020-03-27 13:30:23
+title: 'Descuento del 40.03 % en Funko 39048 POP Vinyl: Games: Fortnite: '
+date: 2020-03-27 21:12:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vdPJguF1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vdPJguF1L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MHXLHLD
 description:
-actualPrice: 8.28 EUR
-comparePrice: 11.63 EUR
+actualPrice: 7.79 EUR
+comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Tienes [Funko- Pop Vinilo: Games: Fortnite: Loot Lama Figura Coleccionable  Multicolor  única  39048 ](https://www.amazon.com/dp/B07MHXLHLD/?tag=redken08-20) con un 28.80 % de descuento con precio de oferta de 8.28 EUR (original: 11.63 EUR) en el siguiente enlace!
+Tienes [Funko 39048 POP Vinyl: Games: Fortnite: Loot Lama Sammelbares Spielzeug  Mehrfarben](https://www.amazon.com/dp/B07MHXLHLD/?tag=redken08-20) con un 40.03 % de descuento con precio de oferta de 7.79 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vdPJguF1L._SL200_.jpg)](https://www.amazon.com/dp/B07MHXLHLD/?tag=redken08-20)
 

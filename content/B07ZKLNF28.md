@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.35 % en Bluetooth Headset COMEXION V5.0 Bluetoot'
-date: 2020-03-27 13:18:34
+date: 2020-03-29 12:53:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MU1A7c6SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MU1A7c6SL._SL200_.jpg' ]
 comments: true

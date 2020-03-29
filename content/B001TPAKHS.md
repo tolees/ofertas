@@ -14,10 +14,10 @@ comparePrice: 31.99 GBP
 inStock: true
 ---
 
-Está [Johnnie Walker Black Label - Blended Scotch Whisky 70cl with Gift Box](https://www.amazon.com/dp/B001TPAKHS/?tag=redken08-20) con 28.10 de descuento por 23 GBP (original: 31.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Johnnie Walker Black Label - Blended Scotch Whisky 70cl with Gift Box](https://www.amazon.com/dp/B001TPAKHS/?tag=redken08-20) a 23 GBP (original: 31.99 GBP) (28.10 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HIzkCLPbL._SL200_.jpg)](https://www.amazon.com/dp/B001TPAKHS/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B001TPAKHS/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B001TPAKHS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

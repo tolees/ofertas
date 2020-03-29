@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Bluetooth Inalambricos 5.0 A al 48.58 % de descuento'
-date: 2020-03-27 21:20:04
+date: 2020-03-29 13:15:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51co9VDNSfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51co9VDNSfL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HolyHigh Auriculares Bluetooth 5.0 Inalá al 50.01 % de descuento'
-date: 2020-03-22 17:46:28
+date: 2020-03-29 11:14:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/412II8tkvcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412II8tkvcL._SL200_.jpg' ]
 comments: true

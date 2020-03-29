@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel BOXNUC8i3CYSN1 NUC 8 Home  a Mini  al 44.28 % de descuento'
-date: 2020-03-27 13:23:21
+date: 2020-03-29 12:48:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/313INypkRiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313INypkRiL._SL200_.jpg' ]
 comments: true

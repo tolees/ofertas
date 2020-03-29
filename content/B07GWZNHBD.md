@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO THE LEGO MOVIE 2 Movie Maker 70820  al 34.21 % de descuento'
-date: 2020-03-27 04:55:22
+title: 'LEGO THE LEGO MOVIE 2 Movie Maker 70820  al 35.19 % de descuento'
+date: 2020-03-29 12:53:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eAESJh5bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eAESJh5bL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07GWZNHBD
 description:
-actualPrice: 32.89 USD
+actualPrice: 32.4 USD
 comparePrice: 49.99 USD
 inStock: true
 ---
 
-Está [LEGO THE LEGO MOVIE 2 Movie Maker 70820 Building Kit For Kids  Build and Play Creative Director Roleplay Toy with Free Movie Maker App  482 Pieces ](https://www.amazon.com/dp/B07GWZNHBD/?tag=redken08-20) con 34.21 de descuento por 32.89 USD (original: 49.99 USD) en el siguiente enlace!
+Está [LEGO THE LEGO MOVIE 2 Movie Maker 70820 Building Kit For Kids  Build and Play Creative Director Roleplay Toy with Free Movie Maker App  482 Pieces ](https://www.amazon.com/dp/B07GWZNHBD/?tag=redken08-20) con 35.19 de descuento por 32.4 USD (original: 49.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51eAESJh5bL._SL200_.jpg)](https://www.amazon.com/dp/B07GWZNHBD/?tag=redken08-20)
 
