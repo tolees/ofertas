@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.18 % en Reslad Camisa vaquera para hombre Slim F'
-date: 2020-03-17 09:49:10
+date: 2020-03-29 18:01:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oE5X09H-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oE5X09H-L._SL200_.jpg' ]
 comments: true

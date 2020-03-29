@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xnuoyo 10000mAh Mini Power Bank Cargador al 60.02 % de descuento'
-date: 2020-03-27 19:46:47
+date: 2020-03-29 18:35:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ITkPytjmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ITkPytjmL._SL200_.jpg' ]
 comments: true

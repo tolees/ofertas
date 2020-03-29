@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.78 % en Logitech G430 - Auriculares Gaming  para'
-date: 2020-03-26 10:57:16
+date: 2020-03-29 14:05:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aoeIpX6nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aoeIpX6nL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.61 % en Pharmaton Complex  multivitamínico con G'
-date: 2020-03-25 16:46:06
+date: 2020-03-29 18:40:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-A2oQRxRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-A2oQRxRL._SL200_.jpg' ]
 comments: true

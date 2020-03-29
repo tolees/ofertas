@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ecovacs DM82 Robot limpiador de pisos  1 al 29.74 % de descuento'
-date: 2020-03-20 17:39:29
+date: 2020-03-29 14:07:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cJ2IMqe0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cJ2IMqe0L._SL200_.jpg' ]
 comments: true

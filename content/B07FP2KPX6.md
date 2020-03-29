@@ -14,10 +14,10 @@ comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Star Wars 75243 Slave I – 20 Jahre LEGO Star Wars  Bauset](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20) a 89.99 EUR (original: 119.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Está [LEGO Star Wars 75243 Slave I – 20 Jahre LEGO Star Wars  Bauset](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20) con 25.00 de descuento por 89.99 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51nica0MUxL._SL200_.jpg)](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
