@@ -14,10 +14,10 @@ comparePrice: 176.95 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Manfrotto MB BP-D1 D1 drone backpack for DJI Phantom Drones](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20) a 69.98 GBP (original: 176.95 GBP) (60.45 %  de descuento) en el siguiente enlace!
+Está [Manfrotto MB BP-D1 D1 drone backpack for DJI Phantom Drones](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20) con 60.45 de descuento por 69.98 GBP (original: 176.95 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41wIqMKzzRL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

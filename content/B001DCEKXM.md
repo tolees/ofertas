@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.55 % en Suunto Core All - Reloj de exterior para'
-date: 2020-03-29 09:21:16
+date: 2020-03-30 11:32:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PFZBDjKTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PFZBDjKTL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kelme - Zapatillas Precision Elite 2.0 al 50.01 % de descuento'
-date: 2020-03-20 12:35:21
+date: 2020-03-30 10:42:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/311-ywE0d1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311-ywE0d1L._SL200_.jpg' ]
 comments: true

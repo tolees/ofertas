@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.31 % en ELEGOO Actualizado 37-en-1 Kit de Módulo'
-date: 2020-03-15 09:16:15
+date: 2020-03-30 11:32:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/613TPpF422L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/613TPpF422L._SL200_.jpg' ]
 comments: true
