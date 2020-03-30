@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beelink BT3 Pro II Mini PC Ordenador de  al 30.85 % de descuento'
-date: 2020-03-27 21:16:16
+date: 2020-03-29 21:13:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CORlsi87L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CORlsi87L._SL200_.jpg' ]
 comments: true

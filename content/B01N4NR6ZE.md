@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 33.09 % en FUNKO POP! 12699 TELEVISION: Twin Peaks '
-date: 2020-03-11 10:20:44
+title: 'Descuento del 41.90 % en FUNKO POP! 12699 TELEVISION: Twin Peaks '
+date: 2020-03-30 04:39:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41H87cT8d3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41H87cT8d3L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01N4NR6ZE
 description:
-actualPrice: 6.29 GBP
-comparePrice: 9.4 GBP
+actualPrice: 5.99 GBP
+comparePrice: 10.31 GBP
 inStock: true
 ---
 
-Tienes [FUNKO POP! 12699 TELEVISION: Twin Peaks - Leland Palmer](https://www.amazon.com/dp/B01N4NR6ZE/?tag=redken08-20) con un 33.09 % de descuento con precio de oferta de 6.29 GBP (original: 9.4 GBP) en el siguiente enlace!
+Tienes [FUNKO POP! 12699 TELEVISION: Twin Peaks - Leland Palmer](https://www.amazon.com/dp/B01N4NR6ZE/?tag=redken08-20) con un 41.90 % de descuento con precio de oferta de 5.99 GBP (original: 10.31 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41H87cT8d3L._SL200_.jpg)](https://www.amazon.com/dp/B01N4NR6ZE/?tag=redken08-20)
 

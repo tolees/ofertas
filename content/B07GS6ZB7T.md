@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G502 HERO Ratón Gaming con Cabl al 46.24 % de descuento'
-date: 2020-03-24 14:13:47
+date: 2020-03-29 21:23:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ccvquN3JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ccvquN3JL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 43.68 % en Funko Pop! Marvel: Ant-Man & The Wasp - '
-date: 2020-03-27 21:06:00
+title: 'Descuento del 48.62 % en Funko Pop! Marvel: Ant-Man & The Wasp - '
+date: 2020-03-29 20:58:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vmkZjPLBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vmkZjPLBL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MK3QG4S
 description:
-actualPrice: 16.89 USD
+actualPrice: 15.41 USD
 comparePrice: 29.99 USD
 inStock: true
 ---
 
-Tienes [Funko Pop! Marvel: Ant-Man & The Wasp - 10 Inch Giant Man  Amazon Exclusive](https://www.amazon.com/dp/B07MK3QG4S/?tag=redken08-20) con un 43.68 % de descuento con precio de oferta de 16.89 USD (original: 29.99 USD) en el siguiente enlace!
+Tienes [Funko Pop! Marvel: Ant-Man & The Wasp - 10 Inch Giant Man  Amazon Exclusive](https://www.amazon.com/dp/B07MK3QG4S/?tag=redken08-20) con un 48.62 % de descuento con precio de oferta de 15.41 USD (original: 29.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vmkZjPLBL._SL200_.jpg)](https://www.amazon.com/dp/B07MK3QG4S/?tag=redken08-20)
 

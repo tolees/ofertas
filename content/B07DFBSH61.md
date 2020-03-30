@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 33251 Lord of The Rings: Witch Kin al 38.24 % de descuento'
-date: 2020-03-28 04:55:17
+title: 'Funko 33251 Lord of The Rings: Witch Kin al 44.97 % de descuento'
+date: 2020-03-30 04:57:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/5159q7fpTwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5159q7fpTwL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07DFBSH61
 description:
-actualPrice: 9.82 EUR
+actualPrice: 8.75 EUR
 comparePrice: 15.9 EUR
 inStock: true
 ---
 
-Está [Funko 33251 Lord of The Rings: Witch King POP Vinylfigur  Multi  Standard](https://www.amazon.com/dp/B07DFBSH61/?tag=redken08-20) con 38.24 de descuento por 9.82 EUR (original: 15.9 EUR) en el siguiente enlace!
+Está [Funko 33251 Lord of The Rings: Witch King POP Vinylfigur  Multi  Standard](https://www.amazon.com/dp/B07DFBSH61/?tag=redken08-20) con 44.97 de descuento por 8.75 EUR (original: 15.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5159q7fpTwL._SL200_.jpg)](https://www.amazon.com/dp/B07DFBSH61/?tag=redken08-20)
 
