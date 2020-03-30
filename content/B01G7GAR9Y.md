@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Princess 201975 Duo Juicer – Exprimidor  al 26.39 % de descuento'
-date: 2020-03-28 08:11:44
+date: 2020-03-30 07:58:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YpP5-niGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YpP5-niGL._SL200_.jpg' ]
 comments: true

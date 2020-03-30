@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levoit Purificador de Aire para Hogar  O al 42.86 % de descuento'
-date: 2020-03-28 13:19:25
+date: 2020-03-30 09:33:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fLu0I8s4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fLu0I8s4L._SL200_.jpg' ]
 comments: true

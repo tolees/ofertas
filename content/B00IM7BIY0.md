@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 2608551079 Set de 32  al 43.64 % de descuento'
-date: 2020-03-22 08:25:17
+date: 2020-03-30 08:08:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31K3-GOIJQL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31K3-GOIJQL._SL500_._SL200_.jpg' ]
 comments: true
