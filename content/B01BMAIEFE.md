@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 53.23 % en Sony ILCE6300LB Compact System Camera wi'
+title: 'Sony ILCE6300LB Compact System Camera wi al 53.23 % de descuento'
 date: 2020-03-30 17:02:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/410GBoyVwVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410GBoyVwVL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 1250.0 GBP
 inStock: true
 ---
 
-Tienes [Sony ILCE6300LB Compact System Camera with SELP1650 Power Zoom Lens  24.2 MP  APS-C Image Sensor  - Black](https://www.amazon.com/dp/B01BMAIEFE/?tag=redken08-20) con un 53.23 % de descuento con precio de oferta de 584.66 GBP (original: 1250.0 GBP) en el siguiente enlace!
+Está [Sony ILCE6300LB Compact System Camera with SELP1650 Power Zoom Lens  24.2 MP  APS-C Image Sensor  - Black](https://www.amazon.com/dp/B01BMAIEFE/?tag=redken08-20) con 53.23 de descuento por 584.66 GBP (original: 1250.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/410GBoyVwVL._SL200_.jpg)](https://www.amazon.com/dp/B01BMAIEFE/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01BMAIEFE/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01BMAIEFE/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

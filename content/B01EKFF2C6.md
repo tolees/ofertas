@@ -14,10 +14,10 @@ comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil 5338 City Action Airport with Control Tower](https://www.amazon.com/dp/B01EKFF2C6/?tag=redken08-20) a 22.25 GBP (original: 49.99 GBP) (55.49 %  de descuento) en el siguiente enlace!
+Está [Playmobil 5338 City Action Airport with Control Tower](https://www.amazon.com/dp/B01EKFF2C6/?tag=redken08-20) con 55.49 de descuento por 22.25 GBP (original: 49.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61LCZSe2-gL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01EKFF2C6/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01EKFF2C6/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01EKFF2C6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

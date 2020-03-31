@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Under Armour Woven Graphic Short Pantaló al 63.04 % de descuento'
-date: 2020-03-24 12:25:06
+title: 'Under Armour Woven Graphic Short Pantaló al 65.68 % de descuento'
+date: 2020-03-31 08:26:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KOyQpKi9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KOyQpKi9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07L13LQFM
 description:
-actualPrice: 10.35 EUR
+actualPrice: 9.61 EUR
 comparePrice: 28.0 EUR
 inStock: true
 ---
 
-Está [Under Armour Woven Graphic Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black 013   S](https://www.amazon.com/dp/B07L13LQFM/?tag=redken08-20) con 63.04 de descuento por 10.35 EUR (original: 28.0 EUR) en el siguiente enlace!
+Está [Under Armour Woven Graphic Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black 013   S](https://www.amazon.com/dp/B07L13LQFM/?tag=redken08-20) con 65.68 de descuento por 9.61 EUR (original: 28.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41KOyQpKi9L._SL200_.jpg)](https://www.amazon.com/dp/B07L13LQFM/?tag=redken08-20)
 
