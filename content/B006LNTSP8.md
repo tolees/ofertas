@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MK220 Combo Teclado y Ratón Ina al 32.01 % de descuento'
-date: 2020-03-24 10:44:42
+date: 2020-03-30 15:47:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MAscWVyBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MAscWVyBL._SL200_.jpg' ]
 comments: true

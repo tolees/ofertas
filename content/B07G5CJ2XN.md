@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SeeKool MII Mini PC Ordenador de sobreme al 36.11 % de descuento'
-date: 2020-03-29 05:00:24
+date: 2020-03-30 13:16:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OM4NZAy8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OM4NZAy8L._SL200_.jpg' ]
 comments: true

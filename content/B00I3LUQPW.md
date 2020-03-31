@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-EX15LP Auriculares In-Ear  Negr al 40.10 % de descuento'
-date: 2020-03-17 11:32:27
+date: 2020-03-30 17:15:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Jx5cwJOXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Jx5cwJOXL._SL200_.jpg' ]
 comments: true

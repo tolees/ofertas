@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Dittzz Acrylic Display Box with LED Ligh'
-date: 2020-03-28 12:49:31
+date: 2020-03-30 12:51:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uq4P0euBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uq4P0euBL._SL200_.jpg' ]
 comments: true

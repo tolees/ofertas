@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Under Armour UA W HOVR Sonic 2  Zapatill al 73.51 % de descuento'
-date: 2020-03-09 09:52:25
-thumbnailImage: 'https://m.media-amazon.com/images/I/41qtyhQfqHL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41qtyhQfqHL._AC_._SL200_.jpg' ]
+title: 'Under Armour UA W HOVR Sonic 2  Zapatill al 72.64 % de descuento'
+date: 2020-03-30 18:02:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/41qtyhQfqHL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41qtyhQfqHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07CTLPBGC
 description:
-actualPrice: 31.79 EUR
+actualPrice: 32.83 EUR
 comparePrice: 120.0 EUR
 inStock: true
 ---
 
-Está [Under Armour UA W HOVR Sonic 2  Zapatillas de Running para Mujer  Negro  Black/White/White  003  003   35.5 EU](https://www.amazon.com/dp/B07CTLPBGC/?tag=redken08-20) con 73.51 de descuento por 31.79 EUR (original: 120.0 EUR) en el siguiente enlace!
+Está [Under Armour UA W HOVR Sonic 2  Zapatillas de Running para Mujer  Negro  Black/White/White  003  003   35.5 EU](https://www.amazon.com/dp/B07CTLPBGC/?tag=redken08-20) con 72.64 de descuento por 32.83 EUR (original: 120.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41qtyhQfqHL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CTLPBGC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41qtyhQfqHL._SL200_.jpg)](https://www.amazon.com/dp/B07CTLPBGC/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07CTLPBGC/?tag=redken08-20)
 

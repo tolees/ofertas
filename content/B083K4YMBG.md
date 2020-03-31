@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en DXX Acryl Schaukasten Vitrine  Schaukast'
-date: 2020-03-30 05:00:01
+date: 2020-03-31 05:02:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eodup5NdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eodup5NdL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI Kids 12816 - Tijera escolar 13 cm al 72.24 % de descuento'
-date: 2020-03-25 22:36:30
+date: 2020-03-31 05:24:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YURmN2egL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YURmN2egL._SL200_.jpg' ]
 comments: true

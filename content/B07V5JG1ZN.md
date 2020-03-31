@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.05 % en Brixtoys Bay ® Technic Mechanical Master'
-date: 2020-03-28 12:49:00
+date: 2020-03-30 12:50:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51k6xgNGeqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51k6xgNGeqL._SL200_.jpg' ]
 comments: true

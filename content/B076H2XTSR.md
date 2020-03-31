@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cargador Inalámbrico  ELEGIANT Cargador  al 43.35 % de descuento'
-date: 2020-03-20 15:18:35
+date: 2020-03-30 16:16:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dQwwKODgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dQwwKODgL._SL200_.jpg' ]
 comments: true

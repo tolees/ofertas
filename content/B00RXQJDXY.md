@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.08 % en Tristar RK-6117 - Arrocera  Capacidad 0.'
-date: 2020-03-29 14:31:44
+date: 2020-03-31 06:09:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41V29UAYntL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41V29UAYntL._SL200_.jpg' ]
 comments: true

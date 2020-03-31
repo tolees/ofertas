@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sandisk Cruzer Blade - Memoria USB de 2. al 39.62 % de descuento'
-date: 2020-03-25 15:49:15
+date: 2020-03-30 16:21:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jUuuy2VcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jUuuy2VcL._SL200_.jpg' ]
 comments: true

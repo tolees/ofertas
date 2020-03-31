@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.59 % en Diary of a 6th Grade Ninja'
-date: 2020-03-29 12:53:42
+date: 2020-03-30 13:00:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51i4czA0n7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51i4czA0n7L._SL200_.jpg' ]
 comments: true

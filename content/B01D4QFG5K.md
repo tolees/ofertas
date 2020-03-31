@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revell Star Wars Boba Fett s Slave I  Ki al 49.41 % de descuento'
-date: 2020-03-15 09:03:37
+date: 2020-03-31 05:19:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51alAgLgMuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51alAgLgMuL._SL200_.jpg' ]
 comments: true

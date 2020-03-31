@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Star Wars Remote Control D-O Rolling Toy al 35.84 % de descuento'
-date: 2020-03-25 21:00:26
+title: 'Star Wars Remote Control D-O Rolling Toy al 35.91 % de descuento'
+date: 2020-03-30 12:59:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vbarec7yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vbarec7yL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07R4PZ1BX
 description:
-actualPrice: 38.49 USD
+actualPrice: 38.45 USD
 comparePrice: 59.99 USD
 inStock: true
 ---
 
-Está [Star Wars Remote Control D-O Rolling Toy  The Rise of Skywalker Electronic Droid Toy with Sounds  Kids Ages 5 & Up](https://www.amazon.com/dp/B07R4PZ1BX/?tag=redken08-20) con 35.84 de descuento por 38.49 USD (original: 59.99 USD) en el siguiente enlace!
+Está [Star Wars Remote Control D-O Rolling Toy  The Rise of Skywalker Electronic Droid Toy with Sounds  Kids Ages 5 & Up](https://www.amazon.com/dp/B07R4PZ1BX/?tag=redken08-20) con 35.91 de descuento por 38.45 USD (original: 59.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vbarec7yL._SL200_.jpg)](https://www.amazon.com/dp/B07R4PZ1BX/?tag=redken08-20)
 
