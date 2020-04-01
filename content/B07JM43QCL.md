@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 84.92 % en Lee Luke Vaqueros  Dark Diamond Ft  26W '
-date: 2019/10/14 13:12:36 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ewh9ihiL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ewh9ihiL._SL200_.jpg' ]
+title: 'Descuento del 84.15 % en Lee Luke Jeans  Dark Diamond Ft  26W / 3'
+date: 2020-04-01 07:01:25
+thumbnailImage: 'https://m.media-amazon.com/images/I/41aGlb1J98L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41aGlb1J98L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07JM43QCL
 description:
-actualPrice: 13.56 EUR
+actualPrice: 14.26 EUR
 comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Tienes [Lee Luke Vaqueros  Dark Diamond Ft  26W / 32L para Hombre](https://www.amazon.com/dp/B07JM43QCL/?tag=redken08-20) con un 84.92 % de descuento con precio de oferta de 13.56 EUR (original: 89.95 EUR) en el siguiente enlace!
+Tienes [Lee Luke Jeans  Dark Diamond Ft  26W / 32L para Hombre](https://www.amazon.com/dp/B07JM43QCL/?tag=redken08-20) con un 84.15 % de descuento con precio de oferta de 14.26 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/411ewh9ihiL._SL200_.jpg)](https://www.amazon.com/dp/B07JM43QCL/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41aGlb1J98L._SL200_.jpg)](https://www.amazon.com/dp/B07JM43QCL/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07JM43QCL/?tag=redken08-20)
 

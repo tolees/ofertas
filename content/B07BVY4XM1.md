@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'seQoya - Colorado | Reloj de Madera con  al 78.35 % de descuento'
-date: 2020-03-19 23:50:49
+date: 2020-04-01 00:23:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UA-DuZ3IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UA-DuZ3IL._SL200_.jpg' ]
 comments: true

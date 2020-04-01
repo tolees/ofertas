@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Azul  al 62.69 % de descuento'
-date: 2020-03-30 18:48:26
+title: 'Levi s 502 Regular Taper Vaqueros  Azul  al 52.24 % de descuento'
+date: 2020-04-01 07:09:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079QLY7CV
 description:
-actualPrice: 33.58 EUR
+actualPrice: 42.98 EUR
 comparePrice: 90.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros  Azul  Prewash 95977 0181   34W / 34L para Hombre](https://www.amazon.com/dp/B079QLY7CV/?tag=redken08-20) a 33.58 EUR (original: 90.0 EUR) (62.69 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros  Azul  Prewash 95977 0181   34W / 34L para Hombre](https://www.amazon.com/dp/B079QLY7CV/?tag=redken08-20) a 42.98 EUR (original: 90.0 EUR) (52.24 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg)](https://www.amazon.com/dp/B079QLY7CV/?tag=redken08-20)
 

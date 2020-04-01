@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Descuento del 63.01 % en BRIKSMAX Kit de Iluminación Led para Leg'
-date: 2019/12/13 14:43:40 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IUybFrbSL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IUybFrbSL._SL200_.jpg' ]
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Ci al 45.46 % de descuento'
+date: 2020-02-17 12:04:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/51IUybFrbSL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51IUybFrbSL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07RY91GHB
 description:
-actualPrice: 36.99 EUR
-comparePrice: 99.99 EUR
+actualPrice: 29.99 EUR
+comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Tienes [BRIKSMAX Kit de Iluminación Led para Lego City Vehicles Camioneta y Caravana-Compatible con Ladrillos de Construcción Lego Modelo 60182  Juego de Legos no Incluido](https://www.amazon.com/dp/B07RY91GHB/?tag=redken08-20) con un 63.01 % de descuento con precio de oferta de 36.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Led Beleuchtungsset für Lego City Fahrzeuge Pickup und Wohnwagen  Kompatibel Mit Lego 60182 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07RY91GHB/?tag=redken08-20) con 45.46 de descuento por 29.99 EUR (original: 54.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51IUybFrbSL._SL200_.jpg)](https://www.amazon.com/dp/B07RY91GHB/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51IUybFrbSL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RY91GHB/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07RY91GHB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07RY91GHB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

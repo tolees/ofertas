@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Luz de Lectura Recargable  14 LED Luz de al 25.28 % de descuento'
-date: 2020-03-30 18:15:33
+date: 2020-03-31 18:50:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dT25sVFHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dT25sVFHL._SL200_.jpg' ]
 comments: true

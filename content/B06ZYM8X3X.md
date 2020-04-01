@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 327E8QJAB - Monitor de 32" FHD   al 26.76 % de descuento'
-date: 2020-03-29 15:08:24
+date: 2020-04-01 05:57:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41giB5Z9wgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41giB5Z9wgL._SL200_.jpg' ]
 comments: true

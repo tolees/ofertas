@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hoverkart Profesional | Hoverkart Metal  al 25.42 % de descuento'
-date: 2020-03-28 13:48:40
+date: 2020-03-31 12:32:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iCdWIRuaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iCdWIRuaL._SL200_.jpg' ]
 comments: true

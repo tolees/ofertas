@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.31 % en Safety 1st Easy Close Metal - Extensión '
-date: 2020-03-23 09:28:33
+date: 2020-03-31 18:48:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/11CYqLK4vyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/11CYqLK4vyL._SL200_.jpg' ]
 comments: true

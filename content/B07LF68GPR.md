@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'BIC Cristal Multicolour - Pack de 15 uni al 28.04 % de descuento'
-date: 2020-01-27 10:17:15
-thumbnailImage: 'https://m.media-amazon.com/images/I/51hyE4nzbZL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51hyE4nzbZL._AC_._SL200_.jpg' ]
+title: 'BIC Cristal Multicolour - Pack de 15 uni al 67.00 % de descuento'
+date: 2020-04-01 05:14:52
+thumbnailImage: 'https://m.media-amazon.com/images/I/51hyE4nzbZL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51hyE4nzbZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07LF68GPR
 description:
-actualPrice: 5.39 EUR
-comparePrice: 7.49 EUR
+actualPrice: 2.99 EUR
+comparePrice: 9.06 EUR
 inStock: true
 ---
 
-Está [BIC Cristal Multicolour - Pack de 15 unidades  bolígrafos de punta ancha  1 6 mm   colores surtidos](https://www.amazon.com/dp/B07LF68GPR/?tag=redken08-20) con 28.04 de descuento por 5.39 EUR (original: 7.49 EUR) en el siguiente enlace!
+Está [BIC Cristal Multicolour - Pack de 15 unidades  bolígrafos de punta ancha  1 6 mm   colores surtidos](https://www.amazon.com/dp/B07LF68GPR/?tag=redken08-20) con 67.00 de descuento por 2.99 EUR (original: 9.06 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51hyE4nzbZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07LF68GPR/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51hyE4nzbZL._SL200_.jpg)](https://www.amazon.com/dp/B07LF68GPR/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07LF68GPR/?tag=redken08-20)
 

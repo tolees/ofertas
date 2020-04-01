@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.34 % en Arealer Masajeador de Hombros Eléctrico '
-date: 2020-03-28 10:04:28
+date: 2020-03-31 15:08:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wRAnV6iPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wRAnV6iPL._SL200_.jpg' ]
 comments: true

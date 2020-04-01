@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brother ADS-1200 - Escáner departamental al 25.55 % de descuento'
-date: 2020-03-29 07:58:29
+date: 2020-03-31 20:29:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QRf3pOnBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QRf3pOnBL._SL200_.jpg' ]
 comments: true

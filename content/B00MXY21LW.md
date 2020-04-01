@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edifier Studio R1700BT – Sistema de Alta al 25.96 % de descuento'
-date: 2020-03-30 17:20:57
+date: 2020-03-31 19:27:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/410P0hXk5JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410P0hXk5JL._SL200_.jpg' ]
 comments: true

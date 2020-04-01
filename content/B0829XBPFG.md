@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 50.00 % en GODNECE Technic Off-road Car  2.4G RC Of'
-date: 2020-03-24 20:47:10
+title: 'Descuento del 60.00 % en GODNECE Technic Off-road Car  2.4G RC Of'
+date: 2020-03-31 12:46:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Id7hR592L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Id7hR592L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0829XBPFG
 description:
-actualPrice: 49.99 GBP
-comparePrice: 99.98 GBP
+actualPrice: 59.99 GBP
+comparePrice: 149.97 GBP
 inStock: true
 ---
 
-Tienes [GODNECE Technic Off-road Car  2.4G RC Off-road Vehicle Climbing ATV Model Building Kits Difficult Building Blocks Technic Compatible with Lego 522Pcs ](https://www.amazon.com/dp/B0829XBPFG/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 49.99 GBP (original: 99.98 GBP) en el siguiente enlace!
+Tienes [GODNECE Technic Off-road Car  2.4G RC Off-road Vehicle Climbing ATV Model Building Kits Difficult Building Blocks Technic Compatible with Lego 522Pcs ](https://www.amazon.com/dp/B0829XBPFG/?tag=redken08-20) con un 60.00 % de descuento con precio de oferta de 59.99 GBP (original: 149.97 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Id7hR592L._SL200_.jpg)](https://www.amazon.com/dp/B0829XBPFG/?tag=redken08-20)
 

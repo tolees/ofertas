@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.71 % en Calico Critters CC1489 Mango Monkey Fami'
-date: 2020-03-29 13:10:26
+date: 2020-03-31 12:55:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/5121ll-XaxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5121ll-XaxL._SL200_.jpg' ]
 comments: true

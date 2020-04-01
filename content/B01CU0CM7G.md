@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Naipo - Masajeador eléctrico de hombros  al 50.01 % de descuento'
-date: 2020-03-27 13:40:52
+date: 2020-03-31 15:45:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Olzw7udpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Olzw7udpL._SL200_.jpg' ]
 comments: true

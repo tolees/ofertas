@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.44 % en Bolsas de Vacío 6 Rollos 20x300cm y 28x3'
-date: 2020-03-27 16:33:33
+date: 2020-03-31 16:39:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51E8vo9wXGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51E8vo9wXGL._SL200_.jpg' ]
 comments: true

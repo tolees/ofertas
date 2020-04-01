@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'JACK JONES Jorexplore Parka Hombre  Verd al 40.01 % de descuento'
-date: 2019/12/12 22:43:41 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PJCUTCqeL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PJCUTCqeL._SL200_.jpg' ]
+date: 2020-03-31 18:01:50
+thumbnailImage: 'https://m.media-amazon.com/images/I/41PJCUTCqeL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41PJCUTCqeL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [JACK JONES Jorexplore Parka Hombre  Verde  Forest Nightgrün   Medium](https://www.amazon.com/dp/B07WCBQV5M/?tag=redken08-20) a 47.99 EUR (original: 79.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41PJCUTCqeL._SL200_.jpg)](https://www.amazon.com/dp/B07WCBQV5M/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41PJCUTCqeL._SL200_.jpg)](https://www.amazon.com/dp/B07WCBQV5M/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07WCBQV5M/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 64.16 % en TEENO 20V Taladro Atornillador Bateria  '
-date: 2020-03-28 15:10:40
+date: 2020-03-31 15:55:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WpvmcebeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WpvmcebeL._SL200_.jpg' ]
 comments: true

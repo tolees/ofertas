@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Película 2 - Fiestabús Pop-Up  set  al 45.00 % de descuento'
-date: 2020-03-29 13:21:11
+date: 2020-03-31 13:08:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ICLFaXacL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ICLFaXacL._SL200_.jpg' ]
 comments: true
