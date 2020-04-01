@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE 42 Piezas Juegos de Puntas  DNS al 39.30 % de descuento'
-date: 2020-03-29 08:53:12
+date: 2020-04-01 16:38:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tH5M7A39L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tH5M7A39L._SL200_.jpg' ]
 comments: true
