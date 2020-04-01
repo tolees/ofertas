@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.63 % en Yuntab K17 Tablet táctil IPS 10.1 pulgad'
-date: 2020-03-23 11:11:00
+date: 2020-04-01 08:29:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BVrojpyHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BVrojpyHL._SL200_.jpg' ]
 comments: true

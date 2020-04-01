@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Microsoft Bluetooth Mobile Mouse 3600  M al 41.98 % de descuento'
-date: 2020-03-26 04:57:51
+title: 'Microsoft Bluetooth Mobile Mouse 3600 -  al 31.93 % de descuento'
+date: 2020-03-30 12:50:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/310oJhQfdML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310oJhQfdML._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00HVAXDM4
 description:
-actualPrice: 20.3 EUR
-comparePrice: 34.99 EUR
+actualPrice: 15.99 GBP
+comparePrice: 23.49 GBP
 inStock: true
 ---
 
-Está [Microsoft Bluetooth Mobile Mouse 3600  Maus  schwarz  kabellos über Bluetooth  für Rechts- und Linkshänder geeignet ](https://www.amazon.com/dp/B00HVAXDM4/?tag=redken08-20) con 41.98 de descuento por 20.3 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [Microsoft Bluetooth Mobile Mouse 3600 - Black](https://www.amazon.com/dp/B00HVAXDM4/?tag=redken08-20) con 31.93 de descuento por 15.99 GBP (original: 23.49 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/310oJhQfdML._SL200_.jpg)](https://www.amazon.com/dp/B00HVAXDM4/?tag=redken08-20)
 

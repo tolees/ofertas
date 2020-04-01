@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.84 % en Durex Preservativos Placer Prolongado co'
-date: 2020-03-20 12:10:30
+date: 2020-04-01 12:02:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qy0i2FV4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qy0i2FV4L._SL200_.jpg' ]
 comments: true

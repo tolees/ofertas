@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.68 % en Bluetooth Speakers  Anker Soundcore Blue'
-date: 2020-03-31 04:45:36
+date: 2020-04-01 12:48:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41R9aUG5nwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41R9aUG5nwL._SL200_.jpg' ]
 comments: true

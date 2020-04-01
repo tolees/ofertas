@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FIFA 20 - Edición Estándar al 58.47 % de descuento'
-date: 2020-03-30 16:10:48
+date: 2020-04-01 10:32:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KMTCThxdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KMTCThxdL._SL200_.jpg' ]
 comments: true

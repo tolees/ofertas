@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'New Balance 574 Core Zapatillas Hombre   al 26.75 % de descuento'
-date: 2020-03-27 13:20:56
+title: 'New Balance 574 Core Zapatillas Hombre   al 58.85 % de descuento'
+date: 2020-04-01 08:19:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B075K9TSXH
 description:
-actualPrice: 64.09 EUR
+actualPrice: 36.0 EUR
 comparePrice: 87.49 EUR
 inStock: true
 ---
 
-Está [New Balance 574 Core Zapatillas Hombre  Negro  Blackout ETE   43 EU  9 UK ](https://www.amazon.com/dp/B075K9TSXH/?tag=redken08-20) con 26.75 de descuento por 64.09 EUR (original: 87.49 EUR) en el siguiente enlace!
+Está [New Balance 574 Core Zapatillas Hombre  Negro  Blackout ETE   43 EU  9 UK ](https://www.amazon.com/dp/B075K9TSXH/?tag=redken08-20) con 58.85 de descuento por 36.0 EUR (original: 87.49 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg)](https://www.amazon.com/dp/B075K9TSXH/?tag=redken08-20)
 
