@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.02 % en Columbia Trail Shaker Braga para El Cuel'
-date: 2020-04-01 01:30:29
+date: 2020-04-02 10:08:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ohLvjZ16L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ohLvjZ16L._SL200_.jpg' ]
 comments: true
