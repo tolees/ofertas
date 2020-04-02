@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel NUC 7 Business Mini PC  NUC7i3DNHN al 29.74 % de descuento'
-date: 2020-03-31 05:01:18
+date: 2020-04-02 12:49:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rXRaM5VuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rXRaM5VuL._SL200_.jpg' ]
 comments: true

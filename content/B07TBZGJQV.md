@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HolyHigh Auriculares Inalambricos Blueto al 47.15 % de descuento'
-date: 2020-03-26 18:31:29
+date: 2020-04-02 14:32:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RBT12xisL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RBT12xisL._SL200_.jpg' ]
 comments: true

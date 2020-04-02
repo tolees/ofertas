@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE 1800W 4700RPM Sierra Circular   al 46.42 % de descuento'
-date: 2020-03-27 12:23:57
+date: 2020-04-02 15:16:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FejGzNL+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FejGzNL+L._SL200_.jpg' ]
 comments: true

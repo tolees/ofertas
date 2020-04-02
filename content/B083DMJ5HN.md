@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXX Technik Bausteine FRR-F1 Racing Auto al 55.00 % de descuento'
-date: 2020-03-31 13:06:05
+date: 2020-04-02 12:57:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EFpS6it+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EFpS6it+L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 36669 POP Bobble: Avengers Endgame al 50.45 % de descuento'
-date: 2020-03-30 12:47:35
+date: 2020-04-02 12:41:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y26ZtskaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y26ZtskaL._SL200_.jpg' ]
 comments: true

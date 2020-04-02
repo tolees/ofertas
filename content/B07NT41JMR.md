@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Umi. by amazon Auriculares inalámbricos  al 54.39 % de descuento'
-date: 2020-03-31 13:17:05
+date: 2020-04-02 13:01:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n4Xy0+dYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n4Xy0+dYL._SL200_.jpg' ]
 comments: true

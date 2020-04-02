@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Great Vehicles Construction Lo al 29.93 % de descuento'
-date: 2020-03-31 12:52:26
+date: 2020-04-02 12:49:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oZWvraJSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oZWvraJSL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.56 % en TAZEMAT 48 Hojas Marcapágina Originales '
-date: 2020-03-31 13:18:23
+date: 2020-04-02 13:10:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JN8TP2x4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JN8TP2x4L._SL200_.jpg' ]
 comments: true

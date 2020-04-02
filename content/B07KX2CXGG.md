@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZARRS Pegatina de Espuma Brillo 100 Pack al 30.03 % de descuento'
-date: 2020-03-31 13:18:16
+date: 2020-04-02 13:09:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wxd6fFUYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wxd6fFUYL._SL200_.jpg' ]
 comments: true

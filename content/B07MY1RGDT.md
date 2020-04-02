@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.26 % en Vbiger Mochilas Escolares Niña 3 en 1 pa'
-date: 2020-03-31 13:10:41
+date: 2020-04-02 13:11:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SAIBwH1cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SAIBwH1cL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 9063 Family Fun Aquarium Enclo al 40.83 % de descuento'
-date: 2020-03-28 12:50:44
+title: 'Playmobil 9063 Family Fun Aquarium Enclo al 40.96 % de descuento'
+date: 2020-04-02 12:46:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kxK6JIWDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kxK6JIWDL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01LYRGY7E
 description:
-actualPrice: 8.87 GBP
+actualPrice: 8.85 GBP
 comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Está [Playmobil 9063 Family Fun Aquarium Enclosure](https://www.amazon.com/dp/B01LYRGY7E/?tag=redken08-20) con 40.83 de descuento por 8.87 GBP (original: 14.99 GBP) en el siguiente enlace!
+Está [Playmobil 9063 Family Fun Aquarium Enclosure](https://www.amazon.com/dp/B01LYRGY7E/?tag=redken08-20) con 40.96 de descuento por 8.85 GBP (original: 14.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51kxK6JIWDL._SL200_.jpg)](https://www.amazon.com/dp/B01LYRGY7E/?tag=redken08-20)
 
