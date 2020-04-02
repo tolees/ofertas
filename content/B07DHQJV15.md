@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.17 % en Limxems Cargador Inalámbrico 10W Qi Wire'
-date: 2020-03-21 19:31:42
+date: 2020-04-02 06:30:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31oI2DJNEEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31oI2DJNEEL._SL200_.jpg' ]
 comments: true

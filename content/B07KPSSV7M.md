@@ -14,10 +14,10 @@ comparePrice: 10.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop! Icons: Henson - Jim Henson with Kermit](https://www.amazon.com/dp/B07KPSSV7M/?tag=redken08-20) a 8.23 USD (original: 10.99 USD) (25.11 %  de descuento) en el siguiente enlace!
+Está [Funko Pop! Icons: Henson - Jim Henson with Kermit](https://www.amazon.com/dp/B07KPSSV7M/?tag=redken08-20) con 25.11 de descuento por 8.23 USD (original: 10.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41QKL5StNCL._SL200_.jpg)](https://www.amazon.com/dp/B07KPSSV7M/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KPSSV7M/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KPSSV7M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

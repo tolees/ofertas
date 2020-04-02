@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 36442 POP Vinyl: Rocks: Rick James al 30.43 % de descuento'
-date: 2020-03-19 20:44:54
+title: 'Funko Pop! Rocks: Rick James - Super Fre al 36.40 % de descuento'
+date: 2020-03-21 12:50:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dpSLAmnUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dpSLAmnUL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07HB4VW2L
 description:
-actualPrice: 7.18 GBP
-comparePrice: 10.32 GBP
+actualPrice: 6.99 USD
+comparePrice: 10.99 USD
 inStock: true
 ---
 
-Está [Funko 36442 POP Vinyl: Rocks: Rick James  SuperFreak   Multi](https://www.amazon.com/dp/B07HB4VW2L/?tag=redken08-20) con 30.43 de descuento por 7.18 GBP (original: 10.32 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop! Rocks: Rick James - Super Freak Toy  Multicolor](https://www.amazon.com/dp/B07HB4VW2L/?tag=redken08-20) a 6.99 USD (original: 10.99 USD) (36.40 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dpSLAmnUL._SL200_.jpg)](https://www.amazon.com/dp/B07HB4VW2L/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07HB4VW2L/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07HB4VW2L/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

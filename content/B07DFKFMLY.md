@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pulsera de Actividad Inteligente Imperme al 25.94 % de descuento'
-date: 2020-03-16 17:33:57
+date: 2020-04-02 08:14:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WFB1pVO0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WFB1pVO0L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Strictly Briks Classic Baseplates 10" x '
-date: 2020-03-31 12:48:37
+date: 2020-04-02 04:53:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RZkLAVeRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RZkLAVeRL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110 - Auriculares cerrados  n al 33.53 % de descuento'
-date: 2020-03-31 18:17:45
+date: 2020-04-02 08:40:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg' ]
 comments: true

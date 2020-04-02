@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 26.62 % en LEGO 60220 4+ City Great Vehicles Garbag'
-date: 2019/12/07 20:47:25 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lQNndux8L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lQNndux8L._SL200_.jpg' ]
+title: 'Descuento del 30.02 % en LEGO City 60220 Müllabfuhr'
+date: 2020-03-20 17:20:36
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Gx0TTOgHL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Gx0TTOgHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FNW6WQ1
 description:
-actualPrice: 11 GBP
-comparePrice: 14.99 GBP
+actualPrice: 13.99 EUR
+comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60220 4+ City Great Vehicles Garbage Truck Toy with 2 Minifigures and Accessories  Vehicle Toys for Kids](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20) con un 26.62 % de descuento con precio de oferta de 11 GBP (original: 14.99 GBP) en el siguiente enlace!
+Tienes [LEGO City 60220 Müllabfuhr](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51lQNndux8L._SL200_.jpg)](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51Gx0TTOgHL._SL200_.jpg)](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20)
 

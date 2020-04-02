@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO Reno Smartphone  Pantalla 6.4" AMOL al 38.88 % de descuento'
-date: 2020-04-01 01:09:30
+date: 2020-04-02 05:15:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wy7S5gwsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wy7S5gwsL._SL200_.jpg' ]
 comments: true

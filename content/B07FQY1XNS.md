@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 68.09 % en Brick Loot LED Lighting Kit for Lego Tec'
-date: 2020-03-31 04:55:17
+date: 2020-04-01 21:02:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yNpkcae0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yNpkcae0L._SL200_.jpg' ]
 comments: true

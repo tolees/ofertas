@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unisex Riverdale Impreso Simple Estudian al 60.00 % de descuento'
-date: 2020-03-31 05:25:17
+date: 2020-04-02 05:10:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r0SdCAq6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r0SdCAq6L._SL200_.jpg' ]
 comments: true

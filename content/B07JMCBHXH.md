@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 52.16 % en Playmobil Ghostbusters 70172 Collection '
-date: 2020-02-26 12:00:17
-thumbnailImage: 'https://m.media-amazon.com/images/I/51LDYKlzbJL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51LDYKlzbJL._AC_._SL200_.jpg' ]
+title: 'Descuento del 51.07 % en PLAYMOBIL Ghostbusters Collector s Editi'
+date: 2020-04-02 04:49:45
+thumbnailImage: 'https://m.media-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07JMCBHXH
 description:
-actualPrice: 18.45 GBP
-comparePrice: 38.57 GBP
+actualPrice: 24.46 USD
+comparePrice: 49.99 USD
 inStock: true
 ---
 
-Tienes [Playmobil Ghostbusters 70172 Collection Figure P. Venkman for Children Ages 6+](https://www.amazon.com/dp/B07JMCBHXH/?tag=redken08-20) con un 52.16 % de descuento con precio de oferta de 18.45 GBP (original: 38.57 GBP) en el siguiente enlace!
+Tienes [PLAYMOBIL Ghostbusters Collector s Edition P. Venkman](https://www.amazon.com/dp/B07JMCBHXH/?tag=redken08-20) con un 51.07 % de descuento con precio de oferta de 24.46 USD (original: 49.99 USD) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51LDYKlzbJL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07JMCBHXH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg)](https://www.amazon.com/dp/B07JMCBHXH/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07JMCBHXH/?tag=redken08-20)
 

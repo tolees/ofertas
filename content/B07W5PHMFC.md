@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'JACK & JONES Jcomilla Sweat Hood Capucha al 34.48 % de descuento'
-date: 2020-03-01 10:06:21
-thumbnailImage: 'https://m.media-amazon.com/images/I/41rgrqxxb3L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41rgrqxxb3L._AC_._SL200_.jpg' ]
+title: 'JACK & JONES Jcomilla Sweat Hood Capucha al 51.26 % de descuento'
+date: 2020-04-01 19:05:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41rgrqxxb3L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41rgrqxxb3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07W5PHMFC
 description:
-actualPrice: 26.2 EUR
+actualPrice: 19.49 EUR
 comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jcomilla Sweat Hood Capucha  Multicolor  Sky Captain Detail: W. New Lgm   Small para Hombre](https://www.amazon.com/dp/B07W5PHMFC/?tag=redken08-20) con 34.48 de descuento por 26.2 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [JACK & JONES Jcomilla Sweat Hood Capucha  Multicolor  Sky Captain Detail: W. New Lgm   Small para Hombre](https://www.amazon.com/dp/B07W5PHMFC/?tag=redken08-20) con 51.26 de descuento por 19.49 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41rgrqxxb3L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07W5PHMFC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41rgrqxxb3L._SL200_.jpg)](https://www.amazon.com/dp/B07W5PHMFC/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07W5PHMFC/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en Polar M430 Reloj de Running con GPS y Fr'
-date: 2020-03-29 21:31:38
+date: 2020-04-01 20:31:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KZjuG5PnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KZjuG5PnL._SL200_.jpg' ]
 comments: true

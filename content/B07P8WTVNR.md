@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'MEGA GKG97 Game of Thrones Daenerys & Dr al 38.62 % de descuento'
-date: 2020-03-22 04:41:09
+title: 'MEGA GKG97 Game of Thrones Daenerys & Dr al 33.26 % de descuento'
+date: 2020-04-02 04:42:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/5150FHVyg2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5150FHVyg2L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07P8WTVNR
 description:
-actualPrice: 34.99 GBP
-comparePrice: 57.01 GBP
+actualPrice: 37.5 GBP
+comparePrice: 56.19 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [MEGA GKG97 Game of Thrones Daenerys & Drogon  Multicolour](https://www.amazon.com/dp/B07P8WTVNR/?tag=redken08-20) a 34.99 GBP (original: 57.01 GBP) (38.62 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [MEGA GKG97 Game of Thrones Daenerys & Drogon  Multicolour](https://www.amazon.com/dp/B07P8WTVNR/?tag=redken08-20) a 37.5 GBP (original: 56.19 GBP) (33.26 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5150FHVyg2L._SL200_.jpg)](https://www.amazon.com/dp/B07P8WTVNR/?tag=redken08-20)
 
