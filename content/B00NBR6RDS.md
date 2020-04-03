@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony MDR-Zx110Apb - Auriculares para Sma al 25.25 % de descuento'
-date: 2020-03-31 12:47:10
+title: 'Sony MDR-Zx110Apb - Auriculares para Sma al 25.50 % de descuento'
+date: 2020-04-02 17:03:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jAIHFqidL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jAIHFqidL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00NBR6RDS
 description:
-actualPrice: 14.95 EUR
+actualPrice: 14.9 EUR
 comparePrice: 20.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony MDR-Zx110Apb - Auriculares para Smartphone  Diadema  Mando de Control  Micrófono  1000 MW  Android y iPhone   Negro  20 X 15 X 3 5 cm](https://www.amazon.com/dp/B00NBR6RDS/?tag=redken08-20) a 14.95 EUR (original: 20.0 EUR) (25.25 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony MDR-Zx110Apb - Auriculares para Smartphone  Diadema  Mando de Control  Micrófono  1000 MW  Android y iPhone   Negro  20 X 15 X 3 5 cm](https://www.amazon.com/dp/B00NBR6RDS/?tag=redken08-20) a 14.9 EUR (original: 20.0 EUR) (25.50 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41jAIHFqidL._SL200_.jpg)](https://www.amazon.com/dp/B00NBR6RDS/?tag=redken08-20)
 

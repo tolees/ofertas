@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Versus by Versace Reloj Analogico para H al 49.16 % de descuento'
-date: 2020-04-01 14:02:14
+date: 2020-04-02 17:20:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41k5ruktMGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41k5ruktMGL._SL200_.jpg' ]
 comments: true

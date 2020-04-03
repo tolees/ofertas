@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Presentamos el sistema wifi de malla Ama al 30.11 % de descuento'
-date: 2020-03-29 20:53:05
+date: 2020-04-02 18:45:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/21Xhr-IwBeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21Xhr-IwBeL._SL200_.jpg' ]
 comments: true

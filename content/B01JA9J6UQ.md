@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.81 % en TOORUN M26 Bluetooth Headset V4.1 with N'
-date: 2020-04-01 12:48:16
+date: 2020-04-02 20:48:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FaYCQow3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FaYCQow3L._SL200_.jpg' ]
 comments: true

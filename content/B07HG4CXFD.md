@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'New Balance FuelCell Propel  Zapatillas  al 54.59 % de descuento'
-date: 2020-03-09 18:02:41
-thumbnailImage: 'https://m.media-amazon.com/images/I/41XnEffiP8L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41XnEffiP8L._AC_._SL200_.jpg' ]
+title: 'New Balance FuelCell Propel  Zapatillas  al 26.44 % de descuento'
+date: 2020-04-02 20:38:32
+thumbnailImage: 'https://m.media-amazon.com/images/I/41XnEffiP8L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41XnEffiP8L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07HG4CXFD
 description:
-actualPrice: 54.49 EUR
-comparePrice: 120.0 EUR
+actualPrice: 42.48 EUR
+comparePrice: 57.75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance FuelCell Propel  Zapatillas de Running para Hombre  Negro  Black/Lead Black/Lead   40.5 EU](https://www.amazon.com/dp/B07HG4CXFD/?tag=redken08-20) a 54.49 EUR (original: 120.0 EUR) (54.59 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance FuelCell Propel  Zapatillas de Running para Hombre  Negro  Black/Lead Black/Lead   40.5 EU](https://www.amazon.com/dp/B07HG4CXFD/?tag=redken08-20) a 42.48 EUR (original: 57.75 EUR) (26.44 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41XnEffiP8L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HG4CXFD/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41XnEffiP8L._SL200_.jpg)](https://www.amazon.com/dp/B07HG4CXFD/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07HG4CXFD/?tag=redken08-20)
 

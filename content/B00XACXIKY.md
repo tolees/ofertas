@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Durex Preservativos Ultrafinos Sensitivo al 47.21 % de descuento'
-date: 2020-04-01 15:21:40
+date: 2020-04-02 18:06:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/414Xzwqr2TL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414Xzwqr2TL._SL200_.jpg' ]
 comments: true

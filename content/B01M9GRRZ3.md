@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Netgear Orbi Pro SRK60 WiFi Mesh profesi al 32.09 % de descuento'
-date: 2020-03-05 08:33:21
-thumbnailImage: 'https://m.media-amazon.com/images/I/41gf7WpCcvL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41gf7WpCcvL._AC_._SL200_.jpg' ]
+date: 2020-04-02 19:32:15
+thumbnailImage: 'https://m.media-amazon.com/images/I/41gf7WpCcvL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41gf7WpCcvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Netgear Orbi Pro SRK60 WiFi Mesh profesional compatible con Alexa  1 router wifi + 1 repetidor  cobertura hasta 350m2 para oficinias y negocios](https://www.amazon.com/dp/B01M9GRRZ3/?tag=redken08-20) con 32.09 de descuento por 359.9 EUR (original: 529.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41gf7WpCcvL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01M9GRRZ3/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41gf7WpCcvL._SL200_.jpg)](https://www.amazon.com/dp/B01M9GRRZ3/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01M9GRRZ3/?tag=redken08-20)
 

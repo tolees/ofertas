@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GODNECE Technic Racing Car  1:10 2.4G Mo al 50.00 % de descuento'
-date: 2020-04-01 20:52:01
+date: 2020-04-03 04:48:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oTGi8MtVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oTGi8MtVL._SL200_.jpg' ]
 comments: true

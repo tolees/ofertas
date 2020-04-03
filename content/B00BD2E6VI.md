@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.57 % en Hasbro Gaming Gaming Tabú Clásico  Hasbr'
-date: 2020-03-30 20:53:14
+date: 2020-04-02 18:07:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EEqxQ-7dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EEqxQ-7dL._SL200_.jpg' ]
 comments: true

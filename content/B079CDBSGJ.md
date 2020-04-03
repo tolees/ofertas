@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjepaulos Polo SS Noos  Bla al 35.02 % de descuento'
-date: 2020-04-01 11:04:08
+date: 2020-04-02 19:26:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LohGtFr4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LohGtFr4L._SL200_.jpg' ]
 comments: true

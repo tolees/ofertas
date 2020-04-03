@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Classic Large Creative Brick Box 10 al 26.67 % de descuento'
-date: 2020-04-02 04:48:13
+date: 2020-04-03 04:49:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51c7ys2jzHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51c7ys2jzHL._SL200_.jpg' ]
 comments: true
