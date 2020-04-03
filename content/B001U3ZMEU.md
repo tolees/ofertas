@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en LEGO City 7639 - Wohnmobil'
-date: 2020-03-29 13:15:31
+date: 2020-04-03 12:56:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-wjG-AVbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-wjG-AVbL._SL200_.jpg' ]
 comments: true

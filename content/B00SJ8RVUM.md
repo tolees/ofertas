@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch barras de pegamento 2609256D29 7 m al 31.81 % de descuento'
-date: 2020-04-01 19:45:08
+date: 2020-04-03 08:34:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jbqdmg7kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jbqdmg7kL._SL200_.jpg' ]
 comments: true

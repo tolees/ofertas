@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.05 % en Pegatinas de espuma – 700 piezas autoadh'
-date: 2020-04-02 13:09:07
+date: 2020-04-03 13:19:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UxjgAYg6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UxjgAYg6L._SL200_.jpg' ]
 comments: true

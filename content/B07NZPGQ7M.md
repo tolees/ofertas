@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Star Wa al 43.11 % de descuento'
-date: 2020-04-01 12:59:29
+date: 2020-04-03 13:00:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yCm8FDRdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yCm8FDRdL._SL200_.jpg' ]
 comments: true

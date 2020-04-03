@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TAZEMAT 36 Hojas Plantillas para Pintar  al 44.30 % de descuento'
-date: 2020-04-02 13:10:15
+date: 2020-04-03 13:20:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dPD9uJJAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dPD9uJJAL._SL200_.jpg' ]
 comments: true

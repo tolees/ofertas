@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Llave de impacto Brushless  POPOMAN 350N'
-date: 2020-03-29 15:20:52
+date: 2020-04-03 13:06:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uN1MpcX5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uN1MpcX5L._SL200_.jpg' ]
 comments: true

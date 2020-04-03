@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 38.18 % en Western Digital 8 TB My Cloud EX2 Ultra-'
-date: 2020-03-18 15:16:10
+title: 'Descuento del 40.06 % en Western Digital Expert Series EX2 Ultra '
+date: 2020-04-03 13:14:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zi7c8jB4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zi7c8jB4L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01BIGSRLS
 description:
-actualPrice: 319.0 EUR
-comparePrice: 516.0 EUR
+actualPrice: 359.65 EUR
+comparePrice: 599.99 EUR
 inStock: true
 ---
 
-Tienes [Western Digital 8 TB My Cloud EX2 Ultra-Netzwerkspeicher](https://www.amazon.com/dp/B01BIGSRLS/?tag=redken08-20) con un 38.18 % de descuento con precio de oferta de 319.0 EUR (original: 516.0 EUR) en el siguiente enlace!
+Tienes [Western Digital Expert Series EX2 Ultra My Cloud - Almacenamiento en Red  8TB](https://www.amazon.com/dp/B01BIGSRLS/?tag=redken08-20) con un 40.06 % de descuento con precio de oferta de 359.65 EUR (original: 599.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31zi7c8jB4L._SL200_.jpg)](https://www.amazon.com/dp/B01BIGSRLS/?tag=redken08-20)
 

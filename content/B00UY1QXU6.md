@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alienwork Retro Reloj Mecánico Automátic al 29.50 % de descuento'
-date: 2020-04-01 08:01:42
+date: 2020-04-03 14:40:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RycXSuRiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RycXSuRiL._SL200_.jpg' ]
 comments: true

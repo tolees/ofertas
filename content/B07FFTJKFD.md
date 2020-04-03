@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juguetes Montessori Puzzle 3D DIY 200 Pi al 41.17 % de descuento'
-date: 2020-04-02 05:07:31
+date: 2020-04-03 13:19:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QtAdO6TyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QtAdO6TyL._SL200_.jpg' ]
 comments: true

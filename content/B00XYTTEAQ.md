@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.65 % en Logitech K400 Plus Teclado Inalámbrico c'
-date: 2020-04-01 16:32:31
+date: 2020-04-03 13:09:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MNxoa+W+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MNxoa+W+L._SL200_.jpg' ]
 comments: true

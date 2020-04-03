@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lightailing Licht-Set Für  Star Wars Tod al 62.51 % de descuento'
-date: 2020-04-01 12:59:35
+title: 'Lightailing Light Set for  Star Wars Dea al 61.12 % de descuento'
+date: 2020-04-03 04:45:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07KBTTCNG
 description:
-actualPrice: 74.99 EUR
-comparePrice: 200.0 EUR
+actualPrice: 69.99 GBP
+comparePrice: 180.0 GBP
 inStock: true
 ---
 
-Está [Lightailing Licht-Set Für  Star Wars Todesstern  Modell - LED Licht-Set Kompatibel Mit Lego 10188 Modell NICHT Enthalten ](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20) con 62.51 de descuento por 74.99 EUR (original: 200.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lightailing Light Set for  Star Wars Death Star  Building Blocks Model - Led Light kit Compatible with Lego 10188 NOT Included The Model ](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20) a 69.99 GBP (original: 180.0 GBP) (61.12 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg)](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.56 % en TAZEMAT 48 Hojas Papel de Rascar Dinosau'
-date: 2020-04-02 13:10:28
+date: 2020-04-03 13:20:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YOW-DFdZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YOW-DFdZL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.27 % en Juego de 27 rollos de cinta adhesiva de '
-date: 2020-04-02 13:09:10
+date: 2020-04-03 13:19:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/518fZD7dW8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518fZD7dW8L._SL200_.jpg' ]
 comments: true

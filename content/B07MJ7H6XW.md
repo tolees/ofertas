@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Bampton Lace  Zapatos de Cordones al 71.38 % de descuento'
-date: 2020-04-02 10:32:51
+date: 2020-04-03 14:02:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SrtVML4kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SrtVML4kL._SL200_.jpg' ]
 comments: true
