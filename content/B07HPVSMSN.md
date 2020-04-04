@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Police Patrol Car 60239 Buildi al 30.03 % de descuento'
-date: 2020-04-02 20:04:12
+date: 2020-04-03 20:50:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BQDTxYoeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BQDTxYoeL._SL200_.jpg' ]
 comments: true

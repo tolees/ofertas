@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.01 % en [2 Pack] Bluetooth Earpiece Wireless Han'
-date: 2020-04-02 20:49:05
+date: 2020-04-04 04:50:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ud7IQDHUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ud7IQDHUL._SL200_.jpg' ]
 comments: true

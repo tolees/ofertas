@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Baze Malbus 75525 Star Wa al 32.00 % de descuento'
-date: 2020-04-01 21:01:35
+date: 2020-04-03 20:53:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51do0iLkVUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51do0iLkVUL._SL200_.jpg' ]
 comments: true

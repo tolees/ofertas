@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remington MB4045 - Kit Recortador de Bar al 42.97 % de descuento'
-date: 2020-04-02 09:37:36
+date: 2020-04-04 08:55:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t+7jKA1JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t+7jKA1JL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bluetooth Headset HonShoop Bluetooth 5.0 al 67.01 % de descuento'
-date: 2020-04-02 20:49:07
+date: 2020-04-03 20:57:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sCjFa9GRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sCjFa9GRL._SL200_.jpg' ]
 comments: true

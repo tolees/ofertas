@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.34 % en LEGO The Movie 2 Rex’s Rexplorer; 70835 '
-date: 2020-03-29 12:53:06
+date: 2020-04-03 20:57:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xfN9mSnEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xfN9mSnEL._SL200_.jpg' ]
 comments: true

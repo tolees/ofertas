@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.48 % en 6ml 12 colores Acrílico profesional Pint'
-date: 2020-04-02 21:10:44
+date: 2020-04-04 05:20:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/516OnlVF4PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516OnlVF4PL._SL200_.jpg' ]
 comments: true

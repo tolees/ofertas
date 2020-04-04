@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G602 Ratón Inalámbrico  2 500 d al 32.13 % de descuento'
-date: 2020-04-02 02:43:11
+date: 2020-04-04 08:29:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n2bpVLQ6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n2bpVLQ6L._SL200_.jpg' ]
 comments: true

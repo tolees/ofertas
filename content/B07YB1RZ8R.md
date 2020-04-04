@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.55 % en WinWonder Kit de Arcilla de Modelado 24 '
-date: 2020-04-03 05:10:29
+date: 2020-04-04 05:20:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51j-DPO0YGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51j-DPO0YGL._SL200_.jpg' ]
 comments: true

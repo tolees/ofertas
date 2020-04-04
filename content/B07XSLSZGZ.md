@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NOWKIN Rotuladores de Pintura Acrílica 1 al 30.78 % de descuento'
-date: 2020-04-02 05:06:59
+date: 2020-04-04 05:19:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/61lakXW3WUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61lakXW3WUL._SL200_.jpg' ]
 comments: true

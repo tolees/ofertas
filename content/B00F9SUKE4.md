@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs SteamGlide Professional 20 al 44.45 % de descuento'
-date: 2020-04-03 04:35:25
+date: 2020-04-04 04:55:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wtUjwpsfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wtUjwpsfL._SL200_.jpg' ]
 comments: true

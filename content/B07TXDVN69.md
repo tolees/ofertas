@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 30.05 % en Levi s Graphic tee Camiseta  Negro  Boxt'
-date: 2020-03-14 13:34:16
+title: 'Descuento del 35.00 % en Levi s Graphic tee Camiseta  Negro  Boxt'
+date: 2020-04-03 17:21:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ec8cP+XxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ec8cP+XxL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TXDVN69
 description:
-actualPrice: 13.99 EUR
+actualPrice: 13.0 EUR
 comparePrice: 20.0 EUR
 inStock: true
 ---
 
-Tienes [Levi s Graphic tee Camiseta  Negro  Boxtab SS T2 Mineral Black 0002   Medium para Hombre](https://www.amazon.com/dp/B07TXDVN69/?tag=redken08-20) con un 30.05 % de descuento con precio de oferta de 13.99 EUR (original: 20.0 EUR) en el siguiente enlace!
+Tienes [Levi s Graphic tee Camiseta  Negro  Boxtab SS T2 Mineral Black 0002   Medium para Hombre](https://www.amazon.com/dp/B07TXDVN69/?tag=redken08-20) con un 35.00 % de descuento con precio de oferta de 13.0 EUR (original: 20.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ec8cP+XxL._SL200_.jpg)](https://www.amazon.com/dp/B07TXDVN69/?tag=redken08-20)
 

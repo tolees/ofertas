@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon PowerShot G1X Mark III - Cámara ré al 26.41 % de descuento'
-date: 2020-04-02 14:38:45
+date: 2020-04-03 18:18:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u-t1IdxFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u-t1IdxFL._SL200_.jpg' ]
 comments: true

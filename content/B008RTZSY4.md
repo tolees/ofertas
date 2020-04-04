@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tipp-Ex Shake n Squeeze Corrector Líquid al 40.08 % de descuento'
-date: 2020-04-03 05:09:43
+date: 2020-04-04 05:21:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/414KHbWnp4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414KHbWnp4L._SL200_.jpg' ]
 comments: true

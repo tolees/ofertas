@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Cristal Shine bolígrafos punta media al 48.57 % de descuento'
-date: 2020-04-02 05:10:24
+date: 2020-04-04 05:22:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WmP5d6q4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WmP5d6q4L._SL200_.jpg' ]
 comments: true

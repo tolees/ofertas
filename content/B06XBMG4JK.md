@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 69.76 % en Westworld 14367 S1 Funko Pop Vinyl  Mult'
-date: 2020-03-08 02:18:58
-thumbnailImage: 'https://m.media-amazon.com/images/I/51b+cYL4eHL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51b+cYL4eHL._AC_._SL200_.jpg' ]
+title: 'Descuento del 48.38 % en Funko 14367 Actionfigur Westworld: Teddy'
+date: 2020-03-18 02:39:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/51b+cYL4eHL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51b+cYL4eHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06XBMG4JK
 description:
-actualPrice: 2.8 GBP
-comparePrice: 9.26 GBP
+actualPrice: 4.13 EUR
+comparePrice: 8.0 EUR
 inStock: true
 ---
 
-Tienes [Westworld 14367 S1 Funko Pop Vinyl  Multi](https://www.amazon.com/dp/B06XBMG4JK/?tag=redken08-20) con un 69.76 % de descuento con precio de oferta de 2.8 GBP (original: 9.26 GBP) en el siguiente enlace!
+Tienes [Funko 14367 Actionfigur Westworld: Teddy  Multi](https://www.amazon.com/dp/B06XBMG4JK/?tag=redken08-20) con un 48.38 % de descuento con precio de oferta de 4.13 EUR (original: 8.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51b+cYL4eHL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B06XBMG4JK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51b+cYL4eHL._SL200_.jpg)](https://www.amazon.com/dp/B06XBMG4JK/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B06XBMG4JK/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel NUC7CJYH Mini PC NUC Kit - Intel C al 31.54 % de descuento'
-date: 2020-03-22 12:55:50
+date: 2020-04-03 20:54:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NBoyqYNJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NBoyqYNJL._SL200_.jpg' ]
 comments: true

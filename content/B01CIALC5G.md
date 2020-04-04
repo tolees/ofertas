@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Compact Power Cyclonic RO3753 As al 32.50 % de descuento'
-date: 2020-04-01 19:56:36
+date: 2020-04-03 17:28:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/412gain9seL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412gain9seL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Megarollo Papel Higiénico - 36 R al 31.62 % de descuento'
-date: 2020-03-19 13:20:34
+date: 2020-04-03 15:34:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/518jGX5oiWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518jGX5oiWL._SL200_.jpg' ]
 comments: true
