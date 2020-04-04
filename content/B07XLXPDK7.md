@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.66 % en Lenovo C27 - Monitor de 27"  Pantalla Fu'
-date: 2020-04-01 12:46:10
+date: 2020-04-04 11:46:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/410OY5LbTvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410OY5LbTvL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 60.24 % en AMD Ryzen Threadripper 2950X Processor -'
-date: 2019/12/10 08:43:01 +0000
+title: 'Descuento del 60.46 % en YD295XA8AFWOF AMD Ryzen Threadripper 295'
+date: 2019/12/17 14:23:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PpwEHzHOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PpwEHzHOL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07GFN6CVF
 description:
-actualPrice: 330 GBP
-comparePrice: 829.99 GBP
+actualPrice: 392.07 EUR
+comparePrice: 991.54 EUR
 inStock: true
 ---
 
-Tienes [AMD Ryzen Threadripper 2950X Processor -  16 Core/32 Threads  - YD295XA8AFWOF](https://www.amazon.com/dp/B07GFN6CVF/?tag=redken08-20) con un 60.24 % de descuento con precio de oferta de 330 GBP (original: 829.99 GBP) en el siguiente enlace!
+Tienes [YD295XA8AFWOF AMD Ryzen Threadripper 2950X  16x 3.50GHz  boxed ohne Kühler Schwarz](https://www.amazon.com/dp/B07GFN6CVF/?tag=redken08-20) con un 60.46 % de descuento con precio de oferta de 392.07 EUR (original: 991.54 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PpwEHzHOL._SL200_.jpg)](https://www.amazon.com/dp/B07GFN6CVF/?tag=redken08-20)
 

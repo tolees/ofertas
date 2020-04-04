@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.62 % en MAJOZ0 LED Lighting Kit for LEGO 21313 I'
-date: 2020-04-03 12:43:27
+date: 2020-04-04 12:46:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u+Pkf6z+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u+Pkf6z+L._SL200_.jpg' ]
 comments: true

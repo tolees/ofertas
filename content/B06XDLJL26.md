@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.97 % en Apple EarPods con clavija de 3 5 mm'
-date: 2020-03-25 12:19:17
+date: 2020-04-04 14:18:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/21X8Axa8rjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21X8Axa8rjL._SL200_.jpg' ]
 comments: true

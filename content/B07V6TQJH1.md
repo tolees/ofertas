@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Max Factor Colour Elixir Lipstick  Barra al 57.81 % de descuento'
-date: 2020-04-02 14:43:14
+date: 2020-04-04 15:41:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LcRG15QaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LcRG15QaL._SL200_.jpg' ]
 comments: true

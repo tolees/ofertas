@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.08 % en Xiaomi Redmi Airdots - Auriculares inalá'
-date: 2020-04-03 06:25:24
+date: 2020-04-04 10:51:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Kch-qfBUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Kch-qfBUL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '12 Subrayadores Color Pastel de SmartPan al 40.22 % de descuento'
-date: 2020-04-02 05:10:05
+date: 2020-04-04 13:14:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sW6dQhBiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sW6dQhBiL._SL200_.jpg' ]
 comments: true
