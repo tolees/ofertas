@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE T6 Arrancador de Coche -18000mA al 32.00 % de descuento'
-date: 2020-04-02 16:01:38
+date: 2020-04-05 10:43:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NOvr3m19L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NOvr3m19L._SL200_.jpg' ]
 comments: true

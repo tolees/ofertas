@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 14-dk0017ns - Ordenador portátil de 1 al 31.25 % de descuento'
-date: 2020-04-02 15:51:47
+date: 2020-04-05 08:57:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/412VYVxzjYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412VYVxzjYL._SL200_.jpg' ]
 comments: true
