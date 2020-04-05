@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.06 % en Tefal C620SET3  - Juego de 3 Sartenes Al'
-date: 2020-03-15 08:47:16
+date: 2020-04-05 17:03:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/414lGd6bb5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414lGd6bb5L._SL200_.jpg' ]
 comments: true

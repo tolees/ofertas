@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Metal MP3 Reproductor Bluetooth con Pant al 35.83 % de descuento'
-date: 2020-04-04 08:40:28
+date: 2020-04-05 18:20:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31U9fmvu3LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31U9fmvu3LL._SL200_.jpg' ]
 comments: true
