@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sierra Sable  TECCPO 1050W Sierra Altern al 25.00 % de descuento'
-date: 2020-04-03 17:41:12
+date: 2020-04-04 22:05:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Z3pwwQEIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Z3pwwQEIL._SL200_.jpg' ]
 comments: true

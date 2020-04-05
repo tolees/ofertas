@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.25 % en Watch Dogs 2 - Standard Edition'
-date: 2020-03-27 20:32:47
+date: 2020-04-04 19:16:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/61ocRea-QwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61ocRea-QwL._SL200_.jpg' ]
 comments: true

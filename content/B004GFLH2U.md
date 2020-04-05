@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.01 % en LEGO Star Wars Minifigure - General Grie'
-date: 2020-04-04 04:52:06
+date: 2020-04-05 04:56:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qUtNUq+9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qUtNUq+9L._SL200_.jpg' ]
 comments: true

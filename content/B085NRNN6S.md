@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GODNECE Technic Off-road Car  1:8 Off-ro al 50.00 % de descuento'
-date: 2020-04-03 04:48:39
+date: 2020-04-05 04:47:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51T1S6KZl2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51T1S6KZl2L._SL200_.jpg' ]
 comments: true

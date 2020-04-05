@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.77 % en Funko POP Exclusive Mystery Starter Pack'
-date: 2020-04-02 20:49:42
+date: 2020-04-04 20:55:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/61FVHn5ONiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61FVHn5ONiL._SL200_.jpg' ]
 comments: true

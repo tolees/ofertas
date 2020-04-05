@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 45119 POP Animation: Evangelion -  al 38.26 % de descuento'
-date: 2020-04-03 20:58:35
+date: 2020-04-04 21:01:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41og2mwroiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41og2mwroiL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Silk n SkinVivid  Masajeador facial con  al 51.44 % de descuento'
-date: 2020-04-02 18:43:43
+date: 2020-04-04 18:17:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-dKpt-sKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-dKpt-sKL._SL200_.jpg' ]
 comments: true

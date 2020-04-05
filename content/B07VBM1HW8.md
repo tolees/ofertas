@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en GODNECE Light Set for Lego  Led Lighting'
-date: 2020-04-04 04:47:12
+date: 2020-04-05 04:49:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hm2Y3G-iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hm2Y3G-iL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Liss & Curl SF4522F0 Plancha de  al 37.12 % de descuento'
-date: 2020-04-03 18:13:36
+date: 2020-04-05 08:15:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/416kRyW4GuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416kRyW4GuL._SL200_.jpg' ]
 comments: true

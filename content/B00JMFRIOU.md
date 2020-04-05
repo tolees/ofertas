@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.08 % en BIC Kids Plastidecor- Blíster de 24 unid'
-date: 2020-04-01 13:07:03
+date: 2020-04-05 05:14:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kgDFjX1sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kgDFjX1sL._SL200_.jpg' ]
 comments: true

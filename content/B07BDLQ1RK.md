@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'American Tourister Sunside Spinner 55/20 al 33.61 % de descuento'
-date: 2020-02-12 16:56:40
-thumbnailImage: 'https://m.media-amazon.com/images/I/41b4isMY50L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41b4isMY50L._AC_._SL200_.jpg' ]
+date: 2020-04-04 17:02:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/41b4isMY50L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41b4isMY50L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [American Tourister Sunside Spinner 55/20 Equipaje de Mano  55 cm  35 litros  Azul  Navy ](https://www.amazon.com/dp/B07BDLQ1RK/?tag=redken08-20) con 33.61 de descuento por 79.0 EUR (original: 119.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41b4isMY50L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07BDLQ1RK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41b4isMY50L._SL200_.jpg)](https://www.amazon.com/dp/B07BDLQ1RK/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07BDLQ1RK/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Netgear R6260 Router WiFi AC1600 Doble B al 53.86 % de descuento'
-date: 2020-04-03 05:31:24
+title: 'Netgear R6260 Router WiFi AC1600 Doble B al 42.79 % de descuento'
+date: 2020-04-04 20:52:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WLgt6KRKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WLgt6KRKL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07F3PYNYG
 description:
-actualPrice: 32.29 EUR
+actualPrice: 40.04 EUR
 comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Netgear R6260 Router WiFi AC1600 Doble Banda  4 Puertos Gigabit](https://www.amazon.com/dp/B07F3PYNYG/?tag=redken08-20) a 32.29 EUR (original: 69.99 EUR) (53.86 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Netgear R6260 Router WiFi AC1600 Doble Banda  4 Puertos Gigabit](https://www.amazon.com/dp/B07F3PYNYG/?tag=redken08-20) a 40.04 EUR (original: 69.99 EUR) (42.79 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31WLgt6KRKL._SL200_.jpg)](https://www.amazon.com/dp/B07F3PYNYG/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.12 % en Under Armour Men s Printed Blitzing 3.0 '
-date: 2020-04-03 15:57:14
+date: 2020-04-04 18:13:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D+8mOEREL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D+8mOEREL._SL200_.jpg' ]
 comments: true
