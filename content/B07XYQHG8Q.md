@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.23 % en TAZEMAT 30 Hojas Papel de Rascar Pulsera'
-date: 2020-04-03 13:20:17
+date: 2020-04-05 13:14:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ozx5dgVtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ozx5dgVtL._SL200_.jpg' ]
 comments: true

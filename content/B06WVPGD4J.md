@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 9282 - Skischule al 46.38 % de descuento'
-date: 2020-03-20 21:05:05
+title: 'Playmobil-9282 Escuela de Esquí  única   al 36.79 % de descuento'
+date: 2020-04-05 13:18:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/610ilK+3K6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/610ilK+3K6L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06WVPGD4J
 description:
-actualPrice: 7.77 EUR
-comparePrice: 14.49 EUR
+actualPrice: 9.5 EUR
+comparePrice: 15.03 EUR
 inStock: true
 ---
 
-Está [Playmobil 9282 - Skischule](https://www.amazon.com/dp/B06WVPGD4J/?tag=redken08-20) con 46.38 de descuento por 7.77 EUR (original: 14.49 EUR) en el siguiente enlace!
+Está [Playmobil-9282 Escuela de Esquí  única  9282 ](https://www.amazon.com/dp/B06WVPGD4J/?tag=redken08-20) con 36.79 de descuento por 9.5 EUR (original: 15.03 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/610ilK+3K6L._SL200_.jpg)](https://www.amazon.com/dp/B06WVPGD4J/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tekken 7 - Standard Edition al 71.50 % de descuento'
-date: 2020-04-03 09:43:45
+date: 2020-04-05 13:24:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51q9O5q3xdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51q9O5q3xdL._SL200_.jpg' ]
 comments: true

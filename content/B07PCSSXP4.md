@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.16 % en TedGem Ventilador USB  Mini Ventilador U'
-date: 2020-03-29 22:09:18
+date: 2020-04-05 11:41:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dn+1w2SUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dn+1w2SUL._SL200_.jpg' ]
 comments: true

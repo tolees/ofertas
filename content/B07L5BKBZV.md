@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRA Efficient - Batería 4 piezas  de alu al 46.36 % de descuento'
-date: 2020-03-29 12:02:05
+date: 2020-04-05 15:02:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wub8G6DoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wub8G6DoL._SL200_.jpg' ]
 comments: true

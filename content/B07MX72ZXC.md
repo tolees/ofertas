@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 62.51 % en Conjunto de luces Lightailing para  Star'
-date: 2020-04-03 13:18:16
+title: 'Descuento del 65.00 % en Lightailing Light Set for  Star Wars Sup'
+date: 2020-04-03 20:54:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/411X71mRl+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411X71mRl+L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MX72ZXC
 description:
-actualPrice: 74.99 EUR
-comparePrice: 200.0 EUR
+actualPrice: 69.99 USD
+comparePrice: 200.0 USD
 inStock: true
 ---
 
-Tienes [Conjunto de luces Lightailing para  Star Wars Destructor Estelar  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 10221 NO incluido en el modelo ](https://www.amazon.com/dp/B07MX72ZXC/?tag=redken08-20) con un 62.51 % de descuento con precio de oferta de 74.99 EUR (original: 200.0 EUR) en el siguiente enlace!
+Tienes [Lightailing Light Set for  Star Wars Super Star Destroyer  Building Blocks Model - Led Light kit Compatible with Lego 10221 NOT Included The Model ](https://www.amazon.com/dp/B07MX72ZXC/?tag=redken08-20) con un 65.00 % de descuento con precio de oferta de 69.99 USD (original: 200.0 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/411X71mRl+L._SL200_.jpg)](https://www.amazon.com/dp/B07MX72ZXC/?tag=redken08-20)
 

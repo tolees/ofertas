@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Cristal Soft bolígrafos punta media  al 48.92 % de descuento'
-date: 2020-04-02 07:32:59
+date: 2020-04-05 13:18:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lbhSZ+kZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lbhSZ+kZL._SL200_.jpg' ]
 comments: true

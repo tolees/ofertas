@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FLYLAND Bluetooth Adapter  Wireless Audi al 42.89 % de descuento'
-date: 2020-04-03 12:43:17
+date: 2020-04-05 12:45:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gPJMD8xJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gPJMD8xJL._SL200_.jpg' ]
 comments: true

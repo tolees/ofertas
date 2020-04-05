@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.09 % en Suavinex – Crema antiestrías para embara'
-date: 2020-03-22 13:26:54
+date: 2020-04-05 13:45:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/319EUpMt5AL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319EUpMt5AL._SL200_.jpg' ]
 comments: true
