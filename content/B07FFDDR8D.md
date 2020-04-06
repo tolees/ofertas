@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Karcher SB 800S TV Sistema de Sonido Blu al 40.00 % de descuento'
-date: 2020-04-03 18:20:38
+date: 2020-04-06 08:01:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pirIQ8zoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pirIQ8zoL._SL200_.jpg' ]
 comments: true

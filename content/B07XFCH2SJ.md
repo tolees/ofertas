@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.54 % en Tableta de Escritura Color LCD 10 Pulgad'
-date: 2020-04-05 07:08:50
+date: 2020-04-06 09:04:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D-FLQ5iiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D-FLQ5iiL._SL200_.jpg' ]
 comments: true

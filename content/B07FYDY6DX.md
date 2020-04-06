@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Naipo Masajeador de Piernas Compression  al 37.50 % de descuento'
-date: 2020-04-04 07:09:10
+date: 2020-04-06 07:24:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EzfpaoYVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EzfpaoYVL._SL200_.jpg' ]
 comments: true

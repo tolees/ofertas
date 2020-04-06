@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta VR8220F0 Powersteam - Centro pla al 52.40 % de descuento'
-date: 2020-04-04 23:10:15
+date: 2020-04-06 07:16:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/415v-qb7BQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415v-qb7BQL._SL200_.jpg' ]
 comments: true
