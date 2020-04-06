@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.68 % en ELEGIANT Pulsera de Actividad Inteligent'
-date: 2020-03-31 11:27:41
+date: 2020-04-06 11:24:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51by5tNUrSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51by5tNUrSL._SL200_.jpg' ]
 comments: true

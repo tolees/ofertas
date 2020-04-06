@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 32.94 % en LEGO Star Wars 75258 Die dunkle Bedrohun'
-date: 2020-03-14 09:26:30
+title: 'Descuento del 30.01 % en LEGO Star Wars 75258 Die dunkle Bedrohun'
+date: 2020-04-06 12:25:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VfwOtQLNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VfwOtQLNL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNMXK7Z
 description:
-actualPrice: 20.11 EUR
+actualPrice: 20.99 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO Star Wars 75258 Die dunkle Bedrohung Anakin’s Podracer – 20 Jahre LEGO Star Wars  Bauset](https://www.amazon.com/dp/B07FNMXK7Z/?tag=redken08-20) con un 32.94 % de descuento con precio de oferta de 20.11 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [LEGO Star Wars 75258 Die dunkle Bedrohung Anakin’s Podracer – 20 Jahre LEGO Star Wars  Bauset](https://www.amazon.com/dp/B07FNMXK7Z/?tag=redken08-20) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51VfwOtQLNL._SL200_.jpg)](https://www.amazon.com/dp/B07FNMXK7Z/?tag=redken08-20)
 

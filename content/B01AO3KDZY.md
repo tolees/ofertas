@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calico Critters CC1489 Mango Monkey Fami al 36.68 % de descuento'
-date: 2020-04-03 12:55:09
+date: 2020-04-06 13:05:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/5121ll-XaxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5121ll-XaxL._SL200_.jpg' ]
 comments: true

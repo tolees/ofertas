@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO DUPLO Eisenbahnbrücke und Schienen  al 33.13 % de descuento'
-date: 2020-01-18 09:23:25
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K5%2BLp65iL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K5%2BLp65iL._SL200_.jpg' ]
+title: 'LEGO DUPLO Eisenbahnbrücke und Schienen  al 29.69 % de descuento'
+date: 2020-04-06 12:25:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/51FpcuGQzBL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51FpcuGQzBL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B0765CFDRJ
 description:
-actualPrice: 16.71 EUR
+actualPrice: 17.57 EUR
 comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO DUPLO Eisenbahnbrücke und Schienen 10872 Konstruktionsspielzeug](https://www.amazon.com/dp/B0765CFDRJ/?tag=redken08-20) a 16.71 EUR (original: 24.99 EUR) (33.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO DUPLO Eisenbahnbrücke und Schienen 10872 Konstruktionsspielzeug](https://www.amazon.com/dp/B0765CFDRJ/?tag=redken08-20) a 17.57 EUR (original: 24.99 EUR) (29.69 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51K5%2BLp65iL._SL200_.jpg)](https://www.amazon.com/dp/B0765CFDRJ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51FpcuGQzBL._SL200_.jpg)](https://www.amazon.com/dp/B0765CFDRJ/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B0765CFDRJ/?tag=redken08-20)
 

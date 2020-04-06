@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en LEGO City 60221 Tauchyacht'
-date: 2020-03-30 12:25:53
+date: 2020-04-06 12:25:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hSHoExTQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hSHoExTQL._SL200_.jpg' ]
 comments: true

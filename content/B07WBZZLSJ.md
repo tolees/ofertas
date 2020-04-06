@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LEGO 70427 - Hidden Side Portal  Hidden  al 25.01 % de descuento'
-date: 2020-03-30 12:27:44
-thumbnailImage: 'https://m.media-amazon.com/images/I/5168rRN8M5L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/5168rRN8M5L._SL200_.jpg' ]
+date: 2020-04-06 12:28:02
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Ct6JR5e+L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Ct6JR5e+L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [LEGO 70427 - Hidden Side Portal  Hidden Side  Bauset](https://www.amazon.com/dp/B07WBZZLSJ/?tag=redken08-20) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/5168rRN8M5L._SL200_.jpg)](https://www.amazon.com/dp/B07WBZZLSJ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51Ct6JR5e+L._SL200_.jpg)](https://www.amazon.com/dp/B07WBZZLSJ/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07WBZZLSJ/?tag=redken08-20)
 

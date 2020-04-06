@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en MaxTronic Coche RC 4x4 Radiocontrol 1:18'
-date: 2020-04-04 10:40:26
+date: 2020-04-06 11:15:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Y+IZ2eBmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Y+IZ2eBmL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.02 % en Levi s Down Dehon Pkbl Puffer Chaqueta  '
-date: 2020-04-03 09:03:16
+date: 2020-04-06 11:18:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cP-hzrbLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cP-hzrbLL._SL200_.jpg' ]
 comments: true
