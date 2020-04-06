@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Plantronics Explorer 50 Bluetooth Headse al 31.94 % de descuento'
-date: 2020-04-04 12:55:27
+title: 'Plantronics Explorer 50 Bluetooth Headse al 31.18 % de descuento'
+date: 2020-04-05 20:47:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kSWvn9YXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kSWvn9YXL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00W3TAMG8
 description:
-actualPrice: 20.41 USD
+actualPrice: 20.64 USD
 comparePrice: 29.99 USD
 inStock: true
 ---
 
-Está [Plantronics Explorer 50 Bluetooth Headset - Retail Packaging - Black - 202340-21](https://www.amazon.com/dp/B00W3TAMG8/?tag=redken08-20) con 31.94 de descuento por 20.41 USD (original: 29.99 USD) en el siguiente enlace!
+Está [Plantronics Explorer 50 Bluetooth Headset - Retail Packaging - Black - 202340-21](https://www.amazon.com/dp/B00W3TAMG8/?tag=redken08-20) con 31.18 de descuento por 20.64 USD (original: 29.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41kSWvn9YXL._SL200_.jpg)](https://www.amazon.com/dp/B00W3TAMG8/?tag=redken08-20)
 

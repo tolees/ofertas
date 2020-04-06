@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony SEL-1670Z Zeiss Standard-Zoom-Objek al 26.61 % de descuento'
+title: 'Descuento del 26.61 % en Sony SEL-1670Z Zeiss Standard-Zoom-Objek'
 date: 2020-03-21 16:23:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/415A7j0gTYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415A7j0gTYL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 724.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony SEL-1670Z Zeiss Standard-Zoom-Objektiv  16-70 mm  F4  OSS  APS-C  geeignet für A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20) a 531.32 EUR (original: 724.0 EUR) (26.61 %  de descuento) en el siguiente enlace!
+Tienes [Sony SEL-1670Z Zeiss Standard-Zoom-Objektiv  16-70 mm  F4  OSS  APS-C  geeignet für A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20) con un 26.61 % de descuento con precio de oferta de 531.32 EUR (original: 724.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/415A7j0gTYL._SL200_.jpg)](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

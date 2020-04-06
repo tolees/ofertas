@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.99 % en JACK & JONES - Jorabe - Jersey de Punto '
-date: 2020-04-03 21:20:43
+date: 2020-04-05 19:40:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vD61mb1yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vD61mb1yL._SL200_.jpg' ]
 comments: true

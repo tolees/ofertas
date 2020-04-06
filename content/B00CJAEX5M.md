@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech F710 Gamepad Inalámbrico  2 4 G al 38.82 % de descuento'
-date: 2020-03-31 20:42:06
+date: 2020-04-06 00:13:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C63dGrrrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C63dGrrrL._SL200_.jpg' ]
 comments: true

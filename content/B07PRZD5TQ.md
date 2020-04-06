@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'New Balance 997h  Zapatillas para Hombre al 76.16 % de descuento'
-date: 2020-04-02 11:21:41
+title: 'New Balance 997h  Zapatillas para Hombre al 79.09 % de descuento'
+date: 2020-04-05 19:10:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mk1O8Y5GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mk1O8Y5GL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PRZD5TQ
 description:
-actualPrice: 21.46 EUR
+actualPrice: 18.82 EUR
 comparePrice: 90.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 997h  Zapatillas para Hombre  Marfil  Off White Off White   36 EU](https://www.amazon.com/dp/B07PRZD5TQ/?tag=redken08-20) a 21.46 EUR (original: 90.0 EUR) (76.16 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance 997h  Zapatillas para Hombre  Marfil  Off White Off White   36 EU](https://www.amazon.com/dp/B07PRZD5TQ/?tag=redken08-20) a 18.82 EUR (original: 90.0 EUR) (79.09 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Mk1O8Y5GL._SL200_.jpg)](https://www.amazon.com/dp/B07PRZD5TQ/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rotulador punta fina STABILO point 88 -  al 33.88 % de descuento'
-date: 2020-04-05 05:14:12
+date: 2020-04-06 05:18:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41k6lzDtUTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41k6lzDtUTL._SL200_.jpg' ]
 comments: true

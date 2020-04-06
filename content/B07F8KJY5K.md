@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 58.01 % en Salomon AGILE Pequeña mochila  12 set'
-date: 2020-04-02 12:02:10
+date: 2020-04-05 19:56:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41559v+k3cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41559v+k3cL._SL200_.jpg' ]
 comments: true

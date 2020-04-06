@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en GODNECE Technic Sports Car  1:8 Static S'
-date: 2020-04-03 20:47:13
+date: 2020-04-05 20:42:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51U7x+qJkPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51U7x+qJkPL._SL200_.jpg' ]
 comments: true

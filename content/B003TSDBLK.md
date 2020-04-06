@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Kids Set para Colorear - 8 rotulador al 42.42 % de descuento'
-date: 2020-04-04 17:25:05
+date: 2020-04-05 21:04:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GbMTxWVoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GbMTxWVoL._SL200_.jpg' ]
 comments: true

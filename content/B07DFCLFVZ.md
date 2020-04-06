@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 29.90 % en Funko 32117 POP Vinyl Kid Flash  Multi  '
-date: 2020-04-03 12:44:33
+title: 'Descuento del 65.98 % en Funko 32117 POP Vinyl Kid Flash  Multi  '
+date: 2020-04-06 04:43:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41glWT8R7NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41glWT8R7NL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07DFCLFVZ
 description:
-actualPrice: 6.8 GBP
+actualPrice: 3.3 GBP
 comparePrice: 9.7 GBP
 inStock: true
 ---
 
-Tienes [Funko 32117 POP Vinyl Kid Flash  Multi  Standard](https://www.amazon.com/dp/B07DFCLFVZ/?tag=redken08-20) con un 29.90 % de descuento con precio de oferta de 6.8 GBP (original: 9.7 GBP) en el siguiente enlace!
+Tienes [Funko 32117 POP Vinyl Kid Flash  Multi  Standard](https://www.amazon.com/dp/B07DFCLFVZ/?tag=redken08-20) con un 65.98 % de descuento con precio de oferta de 3.3 GBP (original: 9.7 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41glWT8R7NL._SL200_.jpg)](https://www.amazon.com/dp/B07DFCLFVZ/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.01 % en Calico Critters School Bus'
-date: 2020-04-04 05:02:05
+date: 2020-04-06 05:01:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dM+lkPrGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dM+lkPrGL._SL200_.jpg' ]
 comments: true
