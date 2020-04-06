@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.12 % en TAZEMAT 42 Hojas Plantillas para Pintar '
-date: 2020-04-05 13:14:35
+date: 2020-04-06 13:23:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wn73iyD0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wn73iyD0L._SL200_.jpg' ]
 comments: true

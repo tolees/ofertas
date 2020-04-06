@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Gigaset S850HX Universal-Mobilteil – Sch al 30.84 % de descuento'
-date: 2020-04-05 21:01:45
+title: 'Gigaset S850HX Universal-Mobilteil – Sch al 31.24 % de descuento'
+date: 2020-04-06 21:06:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pBNSw0suL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pBNSw0suL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B013QFRBDO
 description:
-actualPrice: 55.32 EUR
+actualPrice: 55.0 EUR
 comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [Gigaset S850HX Universal-Mobilteil – Schnurloses IP-Telefon  zum Anschluss an Basisstation oder Router – Mobilteil mit innovativer Technologie in hochwertigem Design  platin-schwarz](https://www.amazon.com/dp/B013QFRBDO/?tag=redken08-20) con 30.84 de descuento por 55.32 EUR (original: 79.99 EUR) en el siguiente enlace!
+Está [Gigaset S850HX Universal-Mobilteil – Schnurloses IP-Telefon  zum Anschluss an Basisstation oder Router – Mobilteil mit innovativer Technologie in hochwertigem Design  platin-schwarz](https://www.amazon.com/dp/B013QFRBDO/?tag=redken08-20) con 31.24 de descuento por 55.0 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41pBNSw0suL._SL200_.jpg)](https://www.amazon.com/dp/B013QFRBDO/?tag=redken08-20)
 

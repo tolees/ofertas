@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.49 % en Makeblock mBot Robot Kit  DIY Mechanical'
-date: 2020-04-02 04:54:42
+date: 2020-04-06 20:55:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MI1saaNLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MI1saaNLL._SL200_.jpg' ]
 comments: true

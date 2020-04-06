@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO 21155 Minecraft Mine Steve Minifigu al 25.00 % de descuento'
-date: 2019/12/11 22:55:16 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U9Kz6IM3L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U9Kz6IM3L._SL200_.jpg' ]
+title: 'LEGO Minecraft 21155 - Die Creeper Mine  al 25.59 % de descuento'
+date: 2020-04-06 12:26:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/51U9Kz6IM3L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51U9Kz6IM3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07ND6CJNR
 description:
-actualPrice: 59.99 GBP
-comparePrice: 79.99 GBP
+actualPrice: 59.52 EUR
+comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [LEGO 21155 Minecraft Mine Steve Minifigure  Blacksmith  Husk  Creeper and Animal Figures plus TNT Elements the Nether Micro World Toys for Kids](https://www.amazon.com/dp/B07ND6CJNR/?tag=redken08-20) con 25.00 de descuento por 59.99 GBP (original: 79.99 GBP) en el siguiente enlace!
+Está [LEGO Minecraft 21155 - Die Creeper Mine  Bauset](https://www.amazon.com/dp/B07ND6CJNR/?tag=redken08-20) con 25.59 de descuento por 59.52 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51U9Kz6IM3L._SL200_.jpg)](https://www.amazon.com/dp/B07ND6CJNR/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51U9Kz6IM3L._SL200_.jpg)](https://www.amazon.com/dp/B07ND6CJNR/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07ND6CJNR/?tag=redken08-20)
 

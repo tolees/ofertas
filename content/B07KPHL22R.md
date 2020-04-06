@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Vinilo: Persona 5: ANN Figura al 50.16 % de descuento'
-date: 2020-04-04 13:17:16
+date: 2020-04-06 13:15:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PHlJv451L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PHlJv451L._SL200_.jpg' ]
 comments: true

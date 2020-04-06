@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 58.85 % en Our World is Ended - Day One Edition'
-date: 2020-02-15 11:26:35
-thumbnailImage: 'https://m.media-amazon.com/images/I/61U1qcR3CuL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/61U1qcR3CuL._AC_._SL200_.jpg' ]
+title: 'Descuento del 63.75 % en Our World is Ended - Day One Edition'
+date: 2020-04-06 17:02:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07M7PCDF9
 description:
-actualPrice: 20.57 EUR
+actualPrice: 18.12 EUR
 comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [Our World is Ended - Day One Edition](https://www.amazon.com/dp/B07M7PCDF9/?tag=redken08-20) con un 58.85 % de descuento con precio de oferta de 20.57 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Our World is Ended - Day One Edition](https://www.amazon.com/dp/B07M7PCDF9/?tag=redken08-20) con un 63.75 % de descuento con precio de oferta de 18.12 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61U1qcR3CuL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07M7PCDF9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg)](https://www.amazon.com/dp/B07M7PCDF9/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07M7PCDF9/?tag=redken08-20)
 

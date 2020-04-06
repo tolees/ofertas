@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Under Armour UA W Charged Escape 3  Zapa al 59.99 % de descuento'
-date: 2020-02-03 07:33:57
-thumbnailImage: 'https://m.media-amazon.com/images/I/417jVbSB-sL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/417jVbSB-sL._AC_._SL200_.jpg' ]
+title: 'Descuento del 78.37 % en Under Armour UA W Charged Escape 3  Zapa'
+date: 2020-04-06 17:49:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/417jVbSB-sL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/417jVbSB-sL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07HKV6PR1
 description:
-actualPrice: 36.01 EUR
+actualPrice: 19.47 EUR
 comparePrice: 90.0 EUR
 inStock: true
 ---
 
-Está [Under Armour UA W Charged Escape 3  Zapatillas de Running para Mujer  Negro  Black/Black/Black  002  002   35.5 EU](https://www.amazon.com/dp/B07HKV6PR1/?tag=redken08-20) con 59.99 de descuento por 36.01 EUR (original: 90.0 EUR) en el siguiente enlace!
+Tienes [Under Armour UA W Charged Escape 3  Zapatillas de Running para Mujer  Negro  Black/Black/Black  002  002   35.5 EU](https://www.amazon.com/dp/B07HKV6PR1/?tag=redken08-20) con un 78.37 % de descuento con precio de oferta de 19.47 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/417jVbSB-sL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HKV6PR1/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/417jVbSB-sL._SL200_.jpg)](https://www.amazon.com/dp/B07HKV6PR1/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07HKV6PR1/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07HKV6PR1/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

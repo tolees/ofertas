@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 43.22 % en Funko Pop! Movies: A Beautiful Day in Th'
-date: 2020-03-29 12:55:39
+title: 'Descuento del 43.13 % en Funko Pop! Movies: A Beautiful Day in Th'
+date: 2020-04-06 20:50:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/416iYqfr60L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416iYqfr60L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07Q2MTHW4
 description:
-actualPrice: 6.24 USD
+actualPrice: 6.25 USD
 comparePrice: 10.99 USD
 inStock: true
 ---
 
-Tienes [Funko Pop! Movies: A Beautiful Day in The Neighborhood - Mr. Rogers](https://www.amazon.com/dp/B07Q2MTHW4/?tag=redken08-20) con un 43.22 % de descuento con precio de oferta de 6.24 USD (original: 10.99 USD) en el siguiente enlace!
+Tienes [Funko Pop! Movies: A Beautiful Day in The Neighborhood - Mr. Rogers](https://www.amazon.com/dp/B07Q2MTHW4/?tag=redken08-20) con un 43.13 % de descuento con precio de oferta de 6.25 USD (original: 10.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/416iYqfr60L._SL200_.jpg)](https://www.amazon.com/dp/B07Q2MTHW4/?tag=redken08-20)
 
