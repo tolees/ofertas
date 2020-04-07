@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEELOK Lentejuelas Redondas Planas 24 bo al 50.10 % de descuento'
-date: 2020-04-06 13:24:13
+date: 2020-04-07 13:29:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/5151wAH3DVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5151wAH3DVL._SL200_.jpg' ]
 comments: true

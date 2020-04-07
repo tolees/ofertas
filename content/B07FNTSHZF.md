@@ -14,10 +14,10 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Está [LEGO 41366 Friends Olivia s Cupcake Café Playset  Olivia and Emma mini-dolls Toy Scooter and Accessories  Fun Set for Kids](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20) con 27.97 de descuento por 18.0 GBP (original: 24.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 41366 Friends Olivia s Cupcake Café Playset  Olivia and Emma mini-dolls Toy Scooter and Accessories  Fun Set for Kids](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20) a 18.0 GBP (original: 24.99 GBP) (27.97 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51B3LFejy6L._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

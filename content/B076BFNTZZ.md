@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.98 % en Tytoo Kit de Tatuaje de Purpurina para C'
-date: 2020-04-06 13:23:28
+date: 2020-04-07 13:29:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ic8FHmfBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ic8FHmfBL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Scimitar Pro RGB - Ratón óptico  al 44.47 % de descuento'
-date: 2020-03-23 07:12:39
+date: 2020-04-07 10:34:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VRyc6lh4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VRyc6lh4L._SL200_.jpg' ]
 comments: true

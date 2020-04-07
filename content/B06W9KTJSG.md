@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 35.70 % en Top Trumps Star Wars Top Trumps Match Bo'
-date: 2020-03-29 20:46:19
+title: 'Descuento del 34.02 % en Top Trumps Star Wars Top Trumps Match Bo'
+date: 2020-04-07 12:48:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/61sJzDmhGfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61sJzDmhGfL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06W9KTJSG
 description:
-actualPrice: 14.5 GBP
-comparePrice: 22.55 GBP
+actualPrice: 14.49 GBP
+comparePrice: 21.96 GBP
 inStock: true
 ---
 
-Tienes [Top Trumps Star Wars Top Trumps Match Board Game](https://www.amazon.com/dp/B06W9KTJSG/?tag=redken08-20) con un 35.70 % de descuento con precio de oferta de 14.5 GBP (original: 22.55 GBP) en el siguiente enlace!
+Tienes [Top Trumps Star Wars Top Trumps Match Board Game](https://www.amazon.com/dp/B06W9KTJSG/?tag=redken08-20) con un 34.02 % de descuento con precio de oferta de 14.49 GBP (original: 21.96 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61sJzDmhGfL._SL200_.jpg)](https://www.amazon.com/dp/B06W9KTJSG/?tag=redken08-20)
 

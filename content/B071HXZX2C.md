@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate Game Drive para Xbox STEA4000407 al 26.67 % de descuento'
-date: 2020-04-05 10:27:32
+date: 2020-04-07 14:16:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JBZ6LExzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JBZ6LExzL._SL200_.jpg' ]
 comments: true

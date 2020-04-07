@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubiquiti UAP-AC-PRO - Punto de acceso  c al 29.61 % de descuento'
-date: 2020-03-30 17:34:03
+date: 2020-04-07 14:34:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/310Q5lYkMXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310Q5lYkMXL._SL200_.jpg' ]
 comments: true

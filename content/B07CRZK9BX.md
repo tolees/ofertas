@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital My Book Disco Duro Exter al 30.78 % de descuento'
-date: 2020-04-05 08:32:18
+date: 2020-04-07 09:52:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31RrHf4-TnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31RrHf4-TnL._SL200_.jpg' ]
 comments: true

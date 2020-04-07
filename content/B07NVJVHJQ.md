@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.35 % en LIGHTAILING Light Set For  Creator Exper'
-date: 2020-04-04 04:45:30
+date: 2020-04-07 12:45:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51POkTkFYnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51POkTkFYnL._SL200_.jpg' ]
 comments: true

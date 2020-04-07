@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Hochdruckreiniger UniversalAquatak al 56.25 % de descuento'
-date: 2020-03-20 04:45:21
+date: 2020-04-07 13:30:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hnw-mWfmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hnw-mWfmL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 5047 1.2.3 Safari Set - Multi- al 41.14 % de descuento'
-date: 2020-04-05 12:49:04
+title: 'Playmobil 5047 1.2.3 Safari Set - Multi- al 40.25 % de descuento'
+date: 2020-04-07 12:54:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/61BqNrZSTZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61BqNrZSTZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00CZFLMI2
 description:
-actualPrice: 32.99 GBP
+actualPrice: 33.49 GBP
 comparePrice: 56.05 GBP
 inStock: true
 ---
 
-Está [Playmobil 5047 1.2.3 Safari Set - Multi-Coloured](https://www.amazon.com/dp/B00CZFLMI2/?tag=redken08-20) con 41.14 de descuento por 32.99 GBP (original: 56.05 GBP) en el siguiente enlace!
+Está [Playmobil 5047 1.2.3 Safari Set - Multi-Coloured](https://www.amazon.com/dp/B00CZFLMI2/?tag=redken08-20) con 40.25 de descuento por 33.49 GBP (original: 56.05 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61BqNrZSTZL._SL200_.jpg)](https://www.amazon.com/dp/B00CZFLMI2/?tag=redken08-20)
 
