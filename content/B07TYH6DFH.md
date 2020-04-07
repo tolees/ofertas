@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic tee Camiseta  Azul  Boxta al 30.05 % de descuento'
-date: 2020-03-26 12:19:11
+date: 2020-04-07 08:16:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/411coIsshHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411coIsshHL._SL200_.jpg' ]
 comments: true

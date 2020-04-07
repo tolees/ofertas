@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AUNA Connect System Equipo estéreo - Equ al 60.00 % de descuento'
-date: 2020-04-02 20:40:21
+date: 2020-04-07 09:01:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cf5BMaZ5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cf5BMaZ5L._SL200_.jpg' ]
 comments: true

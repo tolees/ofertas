@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pioneer TS-SW2002D2 Subwoofer de Poca Pr al 58.12 % de descuento'
-date: 2020-04-03 13:22:51
+date: 2020-04-07 08:34:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41G0+8ZfWaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41G0+8ZfWaL._SL200_.jpg' ]
 comments: true
