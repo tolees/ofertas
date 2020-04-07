@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 6250958 Overwatch 75974 Bastion Bui al 36.01 % de descuento'
-date: 2020-04-05 04:53:42
+date: 2020-04-07 04:53:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/515t7knIrkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515t7knIrkL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baby Dan Slim fit - Barrera de seguridad al 26.02 % de descuento'
-date: 2020-04-06 01:35:44
+date: 2020-04-07 02:55:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kqFzr5UwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kqFzr5UwL._SL200_.jpg' ]
 comments: true

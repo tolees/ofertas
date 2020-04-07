@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Advent Calendar 60235 Building al 31.34 % de descuento'
-date: 2020-04-05 04:54:04
+date: 2020-04-07 04:53:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/510na3oOH8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510na3oOH8L._SL200_.jpg' ]
 comments: true

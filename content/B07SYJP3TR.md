@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 30.01 % en BRIKSMAX Led Lighting Kit for LEGO Star '
-date: 2020-04-05 04:49:53
+title: 'Descuento del 41.67 % en BRIKSMAX Led Beleuchtungsset für Lego St'
+date: 2020-04-05 13:04:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oPpWZbERL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oPpWZbERL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SYJP3TR
 description:
-actualPrice: 27.99 GBP
-comparePrice: 39.99 GBP
+actualPrice: 34.99 EUR
+comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Imperial Star Destroyer-Compatible with Lego 75055 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07SYJP3TR/?tag=redken08-20) con un 30.01 % de descuento con precio de oferta de 27.99 GBP (original: 39.99 GBP) en el siguiente enlace!
+Tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Imperial Star Destroyer  Kompatibel Mit Lego 75055 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07SYJP3TR/?tag=redken08-20) con un 41.67 % de descuento con precio de oferta de 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51oPpWZbERL._SL200_.jpg)](https://www.amazon.com/dp/B07SYJP3TR/?tag=redken08-20)
 

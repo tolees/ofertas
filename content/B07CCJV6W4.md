@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 43.55 % en 30 pieza Neodimio Imán 10x3 mm Unidad im'
-date: 2020-03-21 08:39:22
+title: 'Descuento del 56.10 % en 30 pieza Neodimio Imán 10x3 mm Unidad im'
+date: 2020-04-07 06:01:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ullxprZGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ullxprZGL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07CCJV6W4
 description:
-actualPrice: 4.51 EUR
-comparePrice: 7.99 EUR
+actualPrice: 7.99 EUR
+comparePrice: 18.2 EUR
 inStock: true
 ---
 
-Tienes [30 pieza Neodimio Imán 10x3 mm Unidad imán Extrem Fuerte 2 5 kg de fuerza  N48 Mini Imanes Neodimio Raro Tierra](https://www.amazon.com/dp/B07CCJV6W4/?tag=redken08-20) con un 43.55 % de descuento con precio de oferta de 4.51 EUR (original: 7.99 EUR) en el siguiente enlace!
+Tienes [30 pieza Neodimio Imán 10x3 mm Unidad imán Extrem Fuerte 2 5 kg de fuerza  N48 Mini Imanes Neodimio Raro Tierra](https://www.amazon.com/dp/B07CCJV6W4/?tag=redken08-20) con un 56.10 % de descuento con precio de oferta de 7.99 EUR (original: 18.2 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ullxprZGL._SL200_.jpg)](https://www.amazon.com/dp/B07CCJV6W4/?tag=redken08-20)
 

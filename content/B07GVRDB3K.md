@@ -14,10 +14,10 @@ comparePrice: 9.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City Great Vehicles Construction Loader 60219 Building Kit  88 Pieces ](https://www.amazon.com/dp/B07GVRDB3K/?tag=redken08-20) a 6.94 USD (original: 9.99 USD) (30.53 %  de descuento) en el siguiente enlace!
+Está [LEGO City Great Vehicles Construction Loader 60219 Building Kit  88 Pieces ](https://www.amazon.com/dp/B07GVRDB3K/?tag=redken08-20) con 30.53 de descuento por 6.94 USD (original: 9.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51oZWvraJSL._SL200_.jpg)](https://www.amazon.com/dp/B07GVRDB3K/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07GVRDB3K/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07GVRDB3K/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

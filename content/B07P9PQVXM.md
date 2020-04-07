@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 68.01 % en FANDARE Mochila Hombres/Mujeres Bolsa de'
-date: 2020-04-06 05:19:14
+date: 2020-04-07 05:20:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Vm+jqYneL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Vm+jqYneL._SL200_.jpg' ]
 comments: true
