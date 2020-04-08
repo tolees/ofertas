@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 60.12 % en LEGO Star Wars 75239 Generator-Attacke B'
-date: 2020-04-07 05:05:23
+title: 'Descuento del 28.17 % en LEGO 75239 Star Wars Action Battle Hoth '
+date: 2020-04-08 12:07:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FP76GMV
 description:
-actualPrice: 11.96 EUR
-comparePrice: 29.99 EUR
+actualPrice: 17.95 GBP
+comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO Star Wars 75239 Generator-Attacke Bauset Bunt](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20) con un 60.12 % de descuento con precio de oferta de 11.96 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [LEGO 75239 Star Wars Action Battle Hoth Generator Attack Target Shooting Set  Episode 5 The Empire Strikes Back  Colourful](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20) con un 28.17 % de descuento con precio de oferta de 17.95 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg)](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20)
 

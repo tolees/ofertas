@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Assassin’s Creed III Remastered al 43.13 % de descuento'
-date: 2020-04-06 09:33:41
+title: 'Assassin’s Creed III Remastered al 34.58 % de descuento'
+date: 2020-04-08 13:47:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oJHYxHQeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oJHYxHQeL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07NSH26RS
 description:
-actualPrice: 19.9 EUR
+actualPrice: 22.89 EUR
 comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [Assassin’s Creed III Remastered](https://www.amazon.com/dp/B07NSH26RS/?tag=redken08-20) con 43.13 de descuento por 19.9 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [Assassin’s Creed III Remastered](https://www.amazon.com/dp/B07NSH26RS/?tag=redken08-20) con 34.58 de descuento por 22.89 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51oJHYxHQeL._SL200_.jpg)](https://www.amazon.com/dp/B07NSH26RS/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston A400 SSD SA400S37/120G  -  Disc al 31.16 % de descuento'
-date: 2020-04-07 13:32:24
+date: 2020-04-08 14:11:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg' ]
 comments: true

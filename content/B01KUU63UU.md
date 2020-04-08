@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer EM 32 Electroestimulador EMS Cint al 38.80 % de descuento'
-date: 2020-04-07 06:56:58
+date: 2020-04-08 14:02:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51deWCdMfdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51deWCdMfdL._SL200_.jpg' ]
 comments: true
