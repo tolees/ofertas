@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Suunto Traverse Alpha Black Red al 42.29 % de descuento'
-date: 2020-04-05 12:43:41
+date: 2020-04-07 22:40:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/519UCqVufHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519UCqVufHL._SL200_.jpg' ]
 comments: true

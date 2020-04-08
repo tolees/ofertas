@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.19 % en Razer Abyssus Essential - Gaming Raton  '
-date: 2020-04-04 10:05:17
+date: 2020-04-08 06:13:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31o6ozg3qdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31o6ozg3qdL._SL200_.jpg' ]
 comments: true

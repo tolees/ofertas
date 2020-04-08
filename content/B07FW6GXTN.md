@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en Angel Infantes Zapatos Cordones 11092A p'
-date: 2020-03-31 17:40:48
+date: 2020-04-07 22:17:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pYGM3T60L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pYGM3T60L._SL200_.jpg' ]
 comments: true

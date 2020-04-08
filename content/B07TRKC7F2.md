@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XOSS Cadencia/Velocidad Sensor para la c al 30.01 % de descuento'
-date: 2020-04-03 19:16:51
+date: 2020-04-08 05:34:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KTOAroBOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KTOAroBOL._SL200_.jpg' ]
 comments: true

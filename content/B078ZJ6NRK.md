@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.57 % en Amaza Clasificadores Carpetas de Acordeó'
-date: 2020-04-07 05:20:26
+date: 2020-04-08 06:04:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yf9StnC8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yf9StnC8L._SL200_.jpg' ]
 comments: true

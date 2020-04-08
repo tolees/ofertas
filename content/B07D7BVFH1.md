@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Rimmel London Maxi Blush Colorete al 50.93 % de descuento'
-date: 2020-03-24 23:49:24
+title: 'Rimmel London Maxi Blush Colorete al 72.90 % de descuento'
+date: 2020-04-07 16:31:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/418Hwe4bypL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418Hwe4bypL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07D7BVFH1
 description:
-actualPrice: 4.49 EUR
+actualPrice: 2.48 EUR
 comparePrice: 9.15 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rimmel London Maxi Blush Colorete](https://www.amazon.com/dp/B07D7BVFH1/?tag=redken08-20) a 4.49 EUR (original: 9.15 EUR) (50.93 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Maxi Blush Colorete](https://www.amazon.com/dp/B07D7BVFH1/?tag=redken08-20) a 2.48 EUR (original: 9.15 EUR) (72.90 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/418Hwe4bypL._SL200_.jpg)](https://www.amazon.com/dp/B07D7BVFH1/?tag=redken08-20)
 

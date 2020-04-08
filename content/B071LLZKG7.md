@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en Sphero R2-D2 App-Enabled Droid de Sphero'
-date: 2020-03-26 13:14:57
+date: 2020-04-07 22:17:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qxkvzYs5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qxkvzYs5L._SL200_.jpg' ]
 comments: true

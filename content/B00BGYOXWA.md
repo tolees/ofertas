@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calico Critters Caravan Family Camper al 38.13 % de descuento'
-date: 2020-04-06 05:01:17
+date: 2020-04-08 05:18:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xZ3Inm2GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xZ3Inm2GL._SL200_.jpg' ]
 comments: true

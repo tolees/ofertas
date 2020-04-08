@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Har al 38.34 % de descuento'
-date: 2020-03-31 05:13:47
+title: 'BRIKSMAX Led Beleuchtungsset für Harry P al 38.34 % de descuento'
+date: 2020-04-05 13:05:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aysrXFldL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aysrXFldL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Kit de Iluminación Led para Harry Potter-Gran Comedor de Hogwarts-Compatible con Ladrillos de Construcción Lego Modelo 75954-Juego de Legos no Incluido](https://www.amazon.com/dp/B07M6NBCJ7/?tag=redken08-20) con 38.34 de descuento por 36.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Led Beleuchtungsset für Harry Potter–Die große Halle von Hogwarts  Kompatibel Mit Lego 75954 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07M6NBCJ7/?tag=redken08-20) con 38.34 de descuento por 36.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51aysrXFldL._SL200_.jpg)](https://www.amazon.com/dp/B07M6NBCJ7/?tag=redken08-20)
 

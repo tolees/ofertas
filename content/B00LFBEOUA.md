@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Logitech G402 Hyperion Fury Wired Gaming al 65.21 % de descuento'
-date: 2019/12/13 20:09:29 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41448v1RpLL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41448v1RpLL._SL200_.jpg' ]
+title: 'Logitech G402 Hyperion Fury Ratón Gaming al 41.67 % de descuento'
+date: 2020-04-01 17:15:08
+thumbnailImage: 'https://m.media-amazon.com/images/I/31nlfClYn7L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31nlfClYn7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00LFBEOUA
 description:
-actualPrice: 17.39 GBP
-comparePrice: 49.99 GBP
+actualPrice: 34.99 EUR
+comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Logitech G402 Hyperion Fury Wired Gaming Mouse  4 000 DPI  Lightweight  8 Programmable Buttons  Compatible with PC / Mac - Black](https://www.amazon.com/dp/B00LFBEOUA/?tag=redken08-20) a 17.39 GBP (original: 49.99 GBP) (65.21 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Logitech G402 Hyperion Fury Ratón Gaming con Cable  Seguimento Óptico 4 000 DPI  Peso Reducido  8 Botones Programables  PC/Mac  Negro](https://www.amazon.com/dp/B00LFBEOUA/?tag=redken08-20) a 34.99 EUR (original: 59.99 EUR) (41.67 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41448v1RpLL._SL200_.jpg)](https://www.amazon.com/dp/B00LFBEOUA/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31nlfClYn7L._SL200_.jpg)](https://www.amazon.com/dp/B00LFBEOUA/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00LFBEOUA/?tag=redken08-20)
 

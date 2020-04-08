@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A40 - Smartphone de 5.9"  al 26.91 % de descuento'
-date: 2020-04-05 08:49:37
+date: 2020-04-07 19:57:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Xn1cTHLFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Xn1cTHLFL._SL200_.jpg' ]
 comments: true

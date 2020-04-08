@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjeunion Knit Crew Neck Noo al 69.99 % de descuento'
-date: 2020-04-05 10:21:51
+date: 2020-04-07 16:06:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/417bmEUeYCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417bmEUeYCL._SL200_.jpg' ]
 comments: true

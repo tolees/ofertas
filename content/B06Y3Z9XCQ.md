@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 64.01 % en Mega Bloks- Luau Dave Build-A-Minion Des'
-date: 2020-04-04 05:08:32
+date: 2020-04-07 21:56:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sqyQoUnOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sqyQoUnOL._SL200_.jpg' ]
 comments: true

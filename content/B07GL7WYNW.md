@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Smartwatch FTW4018 al 40.00 % de descuento'
-date: 2020-03-21 07:30:49
+date: 2020-04-07 21:44:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dnXXKyJkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dnXXKyJkL._SL200_.jpg' ]
 comments: true

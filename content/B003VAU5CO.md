@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.50 % en Nixon Reloj Unisex de Digital con Correa'
-date: 2020-04-02 07:40:21
+date: 2020-04-08 04:14:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qjbVhtnJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qjbVhtnJL._SL200_.jpg' ]
 comments: true

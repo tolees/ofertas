@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Niimo 3D Kit Huella Niños Familias Adult al 38.00 % de descuento'
-date: 2020-04-06 21:13:17
+date: 2020-04-08 06:05:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/412rOZnweaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412rOZnweaL._SL200_.jpg' ]
 comments: true

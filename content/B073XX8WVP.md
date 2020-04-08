@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acmebon Mochila Escolar de Ocio Ligera y al 32.51 % de descuento'
-date: 2020-04-05 21:16:39
+date: 2020-04-07 22:11:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Zkh+2mJOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Zkh+2mJOL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.28 % en FIFA 20 - Standard Edition - [PlayStatio'
-date: 2020-04-06 21:00:15
+date: 2020-04-07 21:37:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QsRs-LAuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QsRs-LAuL._SL200_.jpg' ]
 comments: true
