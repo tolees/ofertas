@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Police Patrol Car 60239 Buildi al 30.03 % de descuento'
-date: 2020-04-03 20:50:15
+date: 2020-04-08 08:05:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BQDTxYoeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BQDTxYoeL._SL200_.jpg' ]
 comments: true
@@ -14,10 +14,10 @@ comparePrice: 9.99 USD
 inStock: true
 ---
 
-Está [LEGO City Police Patrol Car 60239 Building Kit  92 Pieces ](https://www.amazon.com/dp/B07HPVSMSN/?tag=redken08-20) con 30.03 de descuento por 6.99 USD (original: 9.99 USD) en el siguiente enlace!
+Ahora mismo tienes [LEGO City Police Patrol Car 60239 Building Kit  92 Pieces ](https://www.amazon.com/dp/B07HPVSMSN/?tag=redken08-20) a 6.99 USD (original: 9.99 USD) (30.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51BQDTxYoeL._SL200_.jpg)](https://www.amazon.com/dp/B07HPVSMSN/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07HPVSMSN/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07HPVSMSN/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

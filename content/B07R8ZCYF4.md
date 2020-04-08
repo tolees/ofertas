@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hisense H32BE5000 - TV LED 32  HD  2 HDM al 27.38 % de descuento'
-date: 2020-04-04 18:49:29
+date: 2020-04-08 07:53:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GTKiFsacL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GTKiFsacL._SL200_.jpg' ]
 comments: true

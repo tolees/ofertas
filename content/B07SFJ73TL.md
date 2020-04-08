@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Nike Court Royale  Zapatillas de Tenis p al 33.65 % de descuento'
-date: 2020-03-02 10:24:41
-thumbnailImage: 'https://m.media-amazon.com/images/I/315nrtBvECL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/315nrtBvECL._AC_._SL200_.jpg' ]
+date: 2020-04-08 08:05:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/315nrtBvECL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/315nrtBvECL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Nike Court Royale  Zapatillas de Tenis para Hombre  Multicolor  Mahogany/Pale Ivory/Dusty Peach 200   40 1/2 EU](https://www.amazon.com/dp/B07SFJ73TL/?tag=redken08-20) con 33.65 de descuento por 36.49 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/315nrtBvECL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07SFJ73TL/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/315nrtBvECL._SL200_.jpg)](https://www.amazon.com/dp/B07SFJ73TL/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07SFJ73TL/?tag=redken08-20)
 
