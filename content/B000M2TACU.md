@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.10 % en Trixie Bolsa Alimento  Nylon  40 cm  Neg'
-date: 2020-04-07 07:25:13
+date: 2020-04-08 09:17:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WzRFBnKKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WzRFBnKKL._SL200_.jpg' ]
 comments: true

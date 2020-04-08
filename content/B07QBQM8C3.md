@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 32.20 % en Funko 43335 POP. Bobble Marvel: Holiday-'
-date: 2020-03-31 20:40:30
+title: 'Descuento del 36.40 % en Funko Pop! Marvel: Holiday - Captain Ame'
+date: 2020-04-07 04:56:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/419VPn-7vPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419VPn-7vPL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07QBQM8C3
 description:
-actualPrice: 6.99 GBP
-comparePrice: 10.31 GBP
+actualPrice: 6.99 USD
+comparePrice: 10.99 USD
 inStock: true
 ---
 
-Tienes [Funko 43335 POP. Bobble Marvel: Holiday-Captain America Capt Collectible Figure  Multicolour](https://www.amazon.com/dp/B07QBQM8C3/?tag=redken08-20) con un 32.20 % de descuento con precio de oferta de 6.99 GBP (original: 10.31 GBP) en el siguiente enlace!
+Tienes [Funko Pop! Marvel: Holiday - Captain America Snowman](https://www.amazon.com/dp/B07QBQM8C3/?tag=redken08-20) con un 36.40 % de descuento con precio de oferta de 6.99 USD (original: 10.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/419VPn-7vPL._SL200_.jpg)](https://www.amazon.com/dp/B07QBQM8C3/?tag=redken08-20)
 

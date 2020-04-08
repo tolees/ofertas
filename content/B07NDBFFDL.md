@@ -14,10 +14,10 @@ comparePrice: 16.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Star Wars TM - Cañón de la Estrella de la Muerte  Incluye Minifigura de Obi-Wan Kenobi  Juguete de Construcción con Disparador de La Guerra de Las Galaxias  a partir de 7 años  75246 ](https://www.amazon.com/dp/B07NDBFFDL/?tag=redken08-20) a 12.17 EUR (original: 16.99 EUR) (28.37 %  de descuento) en el siguiente enlace!
+Está [LEGO Star Wars TM - Cañón de la Estrella de la Muerte  Incluye Minifigura de Obi-Wan Kenobi  Juguete de Construcción con Disparador de La Guerra de Las Galaxias  a partir de 7 años  75246 ](https://www.amazon.com/dp/B07NDBFFDL/?tag=redken08-20) con 28.37 de descuento por 12.17 EUR (original: 16.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51wUYfLTE3L._SL200_.jpg)](https://www.amazon.com/dp/B07NDBFFDL/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07NDBFFDL/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07NDBFFDL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

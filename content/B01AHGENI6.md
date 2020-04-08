@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.69 % en Citizen Reloj Analógico para Unisex de C'
-date: 2020-03-22 20:38:26
+date: 2020-04-08 09:40:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41omFE4X3NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41omFE4X3NL._SL200_.jpg' ]
 comments: true
