@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 70432 - Geister-Jahrmarkt  Hidden S al 28.01 % de descuento'
-date: 2020-04-06 12:27:55
+date: 2020-04-09 12:27:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uA1LzQbML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uA1LzQbML._SL200_.jpg' ]
 comments: true

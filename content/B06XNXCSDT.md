@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop! TV: Game of Thrones - Das Lie al 35.95 % de descuento'
+title: 'Descuento del 35.95 % en Funko Pop! TV: Game of Thrones - Das Lie'
 date: 2020-04-08 12:49:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ej9QAKaQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ej9QAKaQL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Está [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Jon Snow König des Nordens Vinyl Figur](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20) con 35.95 de descuento por 8.96 EUR (original: 13.99 EUR) en el siguiente enlace!
+Tienes [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Jon Snow König des Nordens Vinyl Figur](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20) con un 35.95 % de descuento con precio de oferta de 8.96 EUR (original: 13.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Ej9QAKaQL._SL200_.jpg)](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

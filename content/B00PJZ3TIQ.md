@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.60 % en Durex Play Lubricante Base de Agua Origi'
-date: 2020-04-07 08:22:53
+date: 2020-04-09 11:16:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XQeNAlxOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XQeNAlxOL._SL200_.jpg' ]
 comments: true
