@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Creative BT-W2 Bluetooth Audio USB Trans al 25.01 % de descuento'
-date: 2020-04-08 12:45:40
+date: 2020-04-09 15:30:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Vd5gmgNVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Vd5gmgNVL._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'MaGeek® [Pack de 5] 0 3m Cables Micro US al 33.36 % de descuento'
-date: 2020-02-07 13:32:49
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ywND1ExPL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ywND1ExPL._SL200_.jpg' ]
+date: 2020-04-09 15:48:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ywND1ExPL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ywND1ExPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [MaGeek® [Pack de 5] 0 3m Cables Micro USB Sincroniza y Carga para Samsung  HTC  Sony  Motorola  LG  Google  Nokia etc. Blanco ](https://www.amazon.com/dp/B00WMAQOHE/?tag=redken08-20) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ywND1ExPL._SL200_.jpg)](https://www.amazon.com/dp/B00WMAQOHE/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41ywND1ExPL._SL200_.jpg)](https://www.amazon.com/dp/B00WMAQOHE/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00WMAQOHE/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro B2606 Magic Gathering Arena of th al 33.34 % de descuento'
-date: 2020-04-08 11:44:15
+date: 2020-04-09 14:29:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Kms1f64oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Kms1f64oL._SL200_.jpg' ]
 comments: true

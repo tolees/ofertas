@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Hasbro Gaming - Juego infantil Elefun  H al 31.25 % de descuento'
-date: 2020-04-08 13:43:03
+title: 'Hasbro Gaming - Juego infantil Elefun  H al 32.50 % de descuento'
+date: 2020-04-09 16:03:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/61iWhUTcfqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61iWhUTcfqL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01DJA7C3A
 description:
-actualPrice: 27.5 EUR
+actualPrice: 27.0 EUR
 comparePrice: 40.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hasbro Gaming - Juego infantil Elefun  Hasbro B7714175 ](https://www.amazon.com/dp/B01DJA7C3A/?tag=redken08-20) a 27.5 EUR (original: 40.0 EUR) (31.25 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Hasbro Gaming - Juego infantil Elefun  Hasbro B7714175 ](https://www.amazon.com/dp/B01DJA7C3A/?tag=redken08-20) a 27.0 EUR (original: 40.0 EUR) (32.50 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61iWhUTcfqL._SL200_.jpg)](https://www.amazon.com/dp/B01DJA7C3A/?tag=redken08-20)
 

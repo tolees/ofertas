@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Jenga Pass Challenge al 43.40 % de descuento'
-date: 2020-04-08 11:45:03
+date: 2020-04-09 14:30:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mR23CiskL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mR23CiskL._SL200_.jpg' ]
 comments: true

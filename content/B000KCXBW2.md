@@ -14,10 +14,10 @@ comparePrice: 54.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Birki s Unisex Adults  PROFI BIRKI AS Clogs And Mules  Brown - Brown  8 UK](https://www.amazon.com/dp/B000KCXBW2/?tag=redken08-20) a 40.5 GBP (original: 54.0 GBP) (25.00 %  de descuento) en el siguiente enlace!
+Está [Birki s Unisex Adults  PROFI BIRKI AS Clogs And Mules  Brown - Brown  8 UK](https://www.amazon.com/dp/B000KCXBW2/?tag=redken08-20) con 25.00 de descuento por 40.5 GBP (original: 54.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31e0THk-tzL._SL200_.jpg)](https://www.amazon.com/dp/B000KCXBW2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000KCXBW2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B000KCXBW2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

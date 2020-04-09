@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Classic Green Baseplate 2304 Supple al 50.05 % de descuento'
-date: 2020-04-08 12:36:26
+date: 2020-04-09 15:12:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TPN3I0wBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TPN3I0wBL._SL200_.jpg' ]
 comments: true

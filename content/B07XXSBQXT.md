@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.57 % en Mini PC Windows 10 Pro  ACEPC T11 4GB DD'
-date: 2020-04-08 12:03:35
+date: 2020-04-09 14:44:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nHODJ+W8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nHODJ+W8L._SL200_.jpg' ]
 comments: true

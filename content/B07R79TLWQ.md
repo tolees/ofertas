@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 64.31 % en Vestidos Mujer Casual Playa Largos Veran'
-date: 2020-04-04 12:16:35
+date: 2020-04-09 15:28:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UDQJeaMmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UDQJeaMmL._SL200_.jpg' ]
 comments: true

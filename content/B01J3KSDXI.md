@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Speak Out Game al 45.02 % de descuento'
-date: 2020-04-08 11:44:03
+date: 2020-04-09 14:30:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ko2U2LC4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ko2U2LC4L._SL200_.jpg' ]
 comments: true

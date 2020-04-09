@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Emsa 512753 Food Clip & Close  Plastik   al 30.15 % de descuento'
-date: 2020-04-08 13:01:52
+date: 2020-04-09 15:33:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bGItzZW7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bGItzZW7L._SL200_.jpg' ]
 comments: true

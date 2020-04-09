@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.31 % en Jellas 22PCS Extractor de Tornillos  Bro'
-date: 2020-04-07 13:54:13
+date: 2020-04-09 15:00:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pR3xJgEnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pR3xJgEnL._SL200_.jpg' ]
 comments: true

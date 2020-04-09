@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.01 % en LEGO 71711 NINJAGO Jays Cyber-Drache Mec'
+title: 'LEGO 71711 NINJAGO Jays Cyber-Drache Mec al 26.01 % de descuento'
 date: 2020-04-08 08:33:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/515qxUYoUkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515qxUYoUkL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 71711 NINJAGO Jays Cyber-Drache Mech  Bauset mit den Minifiguren Jay  Nya und Unagami](https://www.amazon.com/dp/B07W6QBJ8G/?tag=redken08-20) con un 26.01 % de descuento con precio de oferta de 36.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [LEGO 71711 NINJAGO Jays Cyber-Drache Mech  Bauset mit den Minifiguren Jay  Nya und Unagami](https://www.amazon.com/dp/B07W6QBJ8G/?tag=redken08-20) con 26.01 de descuento por 36.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/515qxUYoUkL._SL200_.jpg)](https://www.amazon.com/dp/B07W6QBJ8G/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07W6QBJ8G/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07W6QBJ8G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

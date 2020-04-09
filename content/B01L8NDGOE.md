@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TomTom GO 620 - Navegador 6 pulgadas  ll al 43.20 % de descuento'
-date: 2020-04-02 19:22:53
+date: 2020-04-09 15:04:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DA7FjJKEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DA7FjJKEL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Switch Nintendo Labo: Toy-Con Kit de veh al 57.29 % de descuento'
-date: 2020-04-07 22:08:06
+date: 2020-04-09 16:19:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uI9QLhRxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uI9QLhRxL._SL200_.jpg' ]
 comments: true

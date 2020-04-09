@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER A7063-QZ - Kit de 76 herram al 34.67 % de descuento'
-date: 2020-04-08 13:28:00
+date: 2020-04-09 16:01:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LkmCvuJfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LkmCvuJfL._SL200_.jpg' ]
 comments: true

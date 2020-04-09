@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley 193968 Mobile Work Center al 25.13 % de descuento'
-date: 2020-04-08 12:24:58
+date: 2020-04-09 15:05:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/411Bqv8UVgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411Bqv8UVgL._SL200_.jpg' ]
 comments: true

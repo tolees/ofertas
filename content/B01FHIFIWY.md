@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 64.03 % en Hasbro B74021020 Cranium Dark Game'
-date: 2020-04-08 11:44:05
+title: 'Descuento del 35.74 % en Hasbro B74021020 Cranium Dark Game'
+date: 2020-04-09 14:29:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ws07arvWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ws07arvWL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B01FHIFIWY
 description:
 actualPrice: 8.99 GBP
-comparePrice: 24.99 GBP
+comparePrice: 13.99 GBP
 inStock: true
 ---
 
-Tienes [Hasbro B74021020 Cranium Dark Game](https://www.amazon.com/dp/B01FHIFIWY/?tag=redken08-20) con un 64.03 % de descuento con precio de oferta de 8.99 GBP (original: 24.99 GBP) en el siguiente enlace!
+Tienes [Hasbro B74021020 Cranium Dark Game](https://www.amazon.com/dp/B01FHIFIWY/?tag=redken08-20) con un 35.74 % de descuento con precio de oferta de 8.99 GBP (original: 13.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ws07arvWL._SL200_.jpg)](https://www.amazon.com/dp/B01FHIFIWY/?tag=redken08-20)
 

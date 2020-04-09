@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hisense H55U7BE - Smart TV ULED 55  4K U al 40.08 % de descuento'
-date: 2020-04-07 22:09:57
+date: 2020-04-09 13:28:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51q9itOsH1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51q9itOsH1L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - The Caravan al 25.04 % de descuento'
-date: 2020-04-08 12:19:00
+date: 2020-04-09 14:53:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/61zL5wjE0XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61zL5wjE0XL._SL200_.jpg' ]
 comments: true

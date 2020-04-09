@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Ideas al 77.01 % de descuento'
-date: 2020-04-08 12:09:17
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Id al 45.46 % de descuento'
+date: 2020-04-09 07:38:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hypQH9lHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hypQH9lHL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TVP1MQJ
 description:
-actualPrice: 22.99 GBP
-comparePrice: 99.99 GBP
+actualPrice: 29.99 EUR
+comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Ideas TRON Legacy- Compatible with Lego 21314 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TVP1MQJ/?tag=redken08-20) a 22.99 GBP (original: 99.99 GBP) (77.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Ideas TRON Legacy  Kompatibel Mit Lego 21314 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TVP1MQJ/?tag=redken08-20) a 29.99 EUR (original: 54.99 EUR) (45.46 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51hypQH9lHL._SL200_.jpg)](https://www.amazon.com/dp/B07TVP1MQJ/?tag=redken08-20)
 

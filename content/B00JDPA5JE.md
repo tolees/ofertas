@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.39 % en Morphy Richards Chroma Square Sensor Bin'
-date: 2020-04-08 12:06:16
+date: 2020-04-09 14:44:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kzn2Ab7IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kzn2Ab7IL._SL200_.jpg' ]
 comments: true
