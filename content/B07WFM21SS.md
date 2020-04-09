@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigoss Altavoz Bluetooth Portátil Sonido al 60.01 % de descuento'
-date: 2020-04-06 05:09:18
+date: 2020-04-09 08:00:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aVkbZemvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aVkbZemvL._SL200_.jpg' ]
 comments: true

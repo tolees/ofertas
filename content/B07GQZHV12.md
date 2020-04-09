@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.78 % en Cable Micro USB  AVIWIS [3-Unidades 2M] '
-date: 2020-03-12 11:35:16
+date: 2020-04-09 07:19:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XsW4fUgRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XsW4fUgRL._SL200_.jpg' ]
 comments: true

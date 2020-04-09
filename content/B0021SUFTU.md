@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.13 % en BIC Velleda Pizarra Blanca con Rotulador'
-date: 2020-04-06 12:28:33
+date: 2020-04-08 16:10:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-Sb2IQQ4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-Sb2IQQ4L._SL200_.jpg' ]
 comments: true

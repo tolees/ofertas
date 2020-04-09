@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Milan Capsule Uno - Bolígrafo al 69.92 % de descuento'
-date: 2020-04-05 16:28:01
+date: 2020-04-08 18:23:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41329KSS9yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41329KSS9yL._SL200_.jpg' ]
 comments: true

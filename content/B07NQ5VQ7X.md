@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.12 % en Auriculares Bluetooth  Tepoinn Bluetooth'
-date: 2020-04-07 06:15:40
+date: 2020-04-09 06:56:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iw+mJKbkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iw+mJKbkL._SL200_.jpg' ]
 comments: true

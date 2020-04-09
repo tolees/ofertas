@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Logitech® Professional Presenter R700 -  al 34.30 % de descuento'
-date: 2019/12/23 19:26:57 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HvkSTbptL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HvkSTbptL._SL200_.jpg' ]
+title: 'Logitech R700 Presenter  Kabellose 2.4 G al 56.66 % de descuento'
+date: 2020-02-23 19:57:36
+thumbnailImage: 'https://m.media-amazon.com/images/I/313hQhHU+8L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/313hQhHU+8L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00AIIIKPQ
 description:
-actualPrice: 52.99 EUR
-comparePrice: 80.65 EUR
+actualPrice: 39.0 EUR
+comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [Logitech® Professional Presenter R700 - N/A - 2.4GHZ - N/A - EMEA - RED LASER CR/ARCA HENDRIX](https://www.amazon.com/dp/B00AIIIKPQ/?tag=redken08-20) con 34.30 de descuento por 52.99 EUR (original: 80.65 EUR) en el siguiente enlace!
+Está [Logitech R700 Presenter  Kabellose 2.4 GHz Verbindung via USB-Empfänger  30m Reichweite  Roter Laserpointer  LCD-Display mit Timer und Batterieanzeige  6 Tasten  PC - schwarz  Englische Verpackung](https://www.amazon.com/dp/B00AIIIKPQ/?tag=redken08-20) con 56.66 de descuento por 39.0 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31HvkSTbptL._SL200_.jpg)](https://www.amazon.com/dp/B00AIIIKPQ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/313hQhHU+8L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00AIIIKPQ/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00AIIIKPQ/?tag=redken08-20)
 

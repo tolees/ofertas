@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Jura Journey Single Malt Whisky  70 cl al 37.14 % de descuento'
-date: 2019/12/17 23:09:39 +0000
-thumbnailImage: 'None._SL200_'
-images: [ 'None._SL200_' ]
+title: 'Jura Journey Single Malt Scotch Whisky - al 32.67 % de descuento'
+date: 2020-01-10 09:52:40
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zKsdIOE1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zKsdIOE1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07BPQY7W1
 description:
-actualPrice: 22 GBP
-comparePrice: 35 GBP
+actualPrice: 20.3 EUR
+comparePrice: 30.15 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jura Journey Single Malt Whisky  70 cl](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20) a 22 GBP (original: 35 GBP) (37.14 %  de descuento) en el siguiente enlace!
+Está [Jura Journey Single Malt Scotch Whisky - 0.7 L](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20) con 32.67 de descuento por 20.3 EUR (original: 30.15 EUR) en el siguiente enlace!
 
-[![](None._SL200_)](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41zKsdIOE1L._SL200_.jpg)](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

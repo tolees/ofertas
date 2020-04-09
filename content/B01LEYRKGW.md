@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ID Italian Design | Cepillo Alisador Ste al 58.08 % de descuento'
-date: 2020-04-07 13:10:17
+date: 2020-04-08 16:47:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uSVijlo3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uSVijlo3L._SL200_.jpg' ]
 comments: true

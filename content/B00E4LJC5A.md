@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calico Critters Baby Friends al 34.09 % de descuento'
-date: 2020-04-08 05:18:11
+date: 2020-04-09 07:23:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31BSrOtZZ6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31BSrOtZZ6L._SL200_.jpg' ]
 comments: true

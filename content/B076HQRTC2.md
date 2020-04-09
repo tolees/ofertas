@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.11 % en adidas Core18 Hoody Sudadera con Capucha'
-date: 2020-04-02 19:56:31
+date: 2020-04-09 08:55:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg' ]
 comments: true

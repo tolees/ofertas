@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Multiherramienta oscilante multifunción  al 75.00 % de descuento'
-date: 2020-04-07 22:01:13
+date: 2020-04-09 08:20:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41A1wUs1BqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41A1wUs1BqL._SL200_.jpg' ]
 comments: true

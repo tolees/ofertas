@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LATEC Pulsera Actividad [Última Versión] al 38.34 % de descuento'
-date: 2020-04-07 08:05:48
+date: 2020-04-09 09:38:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/5197lMQ7YsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5197lMQ7YsL._SL200_.jpg' ]
 comments: true

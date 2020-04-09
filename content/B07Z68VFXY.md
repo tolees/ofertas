@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigostar 30IMX - Licuadora y extractor d al 42.86 % de descuento'
-date: 2020-03-28 06:07:38
+date: 2020-04-09 06:43:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/513Abu6XU2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513Abu6XU2L._SL200_.jpg' ]
 comments: true

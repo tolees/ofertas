@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Luces Discoteca OMERIL Bola Discoteca co al 40.52 % de descuento'
-date: 2020-04-06 11:19:32
+date: 2020-04-09 04:15:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Pn0z-q5CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Pn0z-q5CL._SL200_.jpg' ]
 comments: true

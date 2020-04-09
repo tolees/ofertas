@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 55Q64R QLED 4K 2019 - Smart TV d al 47.35 % de descuento'
-date: 2020-04-07 10:16:19
+date: 2020-04-09 10:31:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vDQ2DemEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vDQ2DemEL._SL200_.jpg' ]
 comments: true

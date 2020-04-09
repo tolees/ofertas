@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE Cinturón para Herramientas  Pro al 55.05 % de descuento'
-date: 2020-04-07 22:01:10
+date: 2020-04-09 08:20:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/513qkB4pCdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513qkB4pCdL._SL200_.jpg' ]
 comments: true

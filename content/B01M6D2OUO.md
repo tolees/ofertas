@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 13270 Movies: Guardians of the Gal al 29.29 % de descuento'
-date: 2020-03-24 12:39:22
+title: 'Funko Rocket Figura de Vinilo  colección al 43.96 % de descuento'
+date: 2020-03-25 05:08:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ixhy0FtgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ixhy0FtgL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01M6D2OUO
 description:
-actualPrice: 7.29 GBP
-comparePrice: 10.31 GBP
+actualPrice: 8.4 EUR
+comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 13270 Movies: Guardians of the Galaxy Vol 2 -  Rocket Vinyl Figure](https://www.amazon.com/dp/B01M6D2OUO/?tag=redken08-20) a 7.29 GBP (original: 10.31 GBP) (29.29 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko Rocket Figura de Vinilo  colección de Pop  seria Guardians of The Galaxy 2  Multicolor  13270 ](https://www.amazon.com/dp/B01M6D2OUO/?tag=redken08-20) a 8.4 EUR (original: 14.99 EUR) (43.96 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Ixhy0FtgL._SL200_.jpg)](https://www.amazon.com/dp/B01M6D2OUO/?tag=redken08-20)
 

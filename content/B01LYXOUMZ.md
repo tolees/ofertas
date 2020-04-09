@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus Phoenix-Sandwichera  800 W  2 Ind al 31.13 % de descuento'
-date: 2020-04-06 07:41:06
+date: 2020-04-08 16:19:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/415gm4Ow8zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415gm4Ow8zL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DEWALT Screwdriver Bit Set  Impact Ready al 37.55 % de descuento'
-date: 2020-04-07 21:15:59
+date: 2020-04-08 21:25:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/61sgoZTlhDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61sgoZTlhDL._SL200_.jpg' ]
 comments: true

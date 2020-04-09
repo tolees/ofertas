@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Paco Rabanne 1 Million  Agua de tocador  al 35.56 % de descuento'
-date: 2020-02-21 06:31:18
-thumbnailImage: 'https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._AC_._SL200_.jpg' ]
+date: 2020-04-08 16:03:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Paco Rabanne 1 Million  Agua de tocador para hombres - 50 ml.](https://www.amazon.com/dp/B002LSTMB2/?tag=redken08-20) con 35.56 de descuento por 39.95 EUR (original: 62.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._AC_._SL200_.jpg)](https://www.amazon.com/dp/B002LSTMB2/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._SL200_.jpg)](https://www.amazon.com/dp/B002LSTMB2/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B002LSTMB2/?tag=redken08-20)
 

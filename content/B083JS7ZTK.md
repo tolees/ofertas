@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Raqueta Matamoscas Eléctrico Zapper Mosq al 47.07 % de descuento'
-date: 2020-04-07 16:49:34
+date: 2020-04-08 18:47:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51s5PTAnmfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51s5PTAnmfL._SL200_.jpg' ]
 comments: true

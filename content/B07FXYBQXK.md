@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bolsa de Herramientas  TECCPO Profession al 62.56 % de descuento'
-date: 2020-04-07 22:01:34
+date: 2020-04-09 08:19:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yGr4-+06L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yGr4-+06L._SL200_.jpg' ]
 comments: true

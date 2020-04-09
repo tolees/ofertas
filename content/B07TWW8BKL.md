@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'YITHINC Caja de Regalo DIY Álbum de Foto al 67.52 % de descuento'
-date: 2020-02-28 11:15:19
-thumbnailImage: 'https://m.media-amazon.com/images/I/51Uu-5xOsyL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51Uu-5xOsyL._AC_._SL200_.jpg' ]
+date: 2020-04-09 08:56:58
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Uu-5xOsyL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Uu-5xOsyL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [YITHINC Caja de Regalo DIY Álbum de Fotos Hecho a Mano Creative Explosion Box como Regalo de Cumpleaños y Caja de Sorpresa sobre el Amor Abierto](https://www.amazon.com/dp/B07TWW8BKL/?tag=redken08-20) a 12.99 EUR (original: 39.99 EUR) (67.52 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Uu-5xOsyL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TWW8BKL/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51Uu-5xOsyL._SL200_.jpg)](https://www.amazon.com/dp/B07TWW8BKL/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07TWW8BKL/?tag=redken08-20)
 

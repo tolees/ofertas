@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO Lego301516 8879 Remote Control Infr al 33.33 % de descuento'
-date: 2019/12/17 07:12:16 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C5JUBi44L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C5JUBi44L._SL200_.jpg' ]
+title: 'LEGO Functions Power Functions IR Speed  al 66.71 % de descuento'
+date: 2020-04-02 12:49:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/41JlmzJw39L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41JlmzJw39L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B003FOA2VK
 description:
-actualPrice: 20 GBP
-comparePrice: 30 GBP
+actualPrice: 4.99 USD
+comparePrice: 14.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Lego301516 8879 Remote Control Infrared Ir-Rx](https://www.amazon.com/dp/B003FOA2VK/?tag=redken08-20) a 20 GBP (original: 30 GBP) (33.33 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO Functions Power Functions IR Speed Remote Control 8879  1 Piece ](https://www.amazon.com/dp/B003FOA2VK/?tag=redken08-20) a 4.99 USD (original: 14.99 USD) (66.71 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41C5JUBi44L._SL200_.jpg)](https://www.amazon.com/dp/B003FOA2VK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41JlmzJw39L._SL200_.jpg)](https://www.amazon.com/dp/B003FOA2VK/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B003FOA2VK/?tag=redken08-20)
 
