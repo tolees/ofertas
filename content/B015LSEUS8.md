@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arteck Bluetooth Keyboard  Stainless Ste al 50.01 % de descuento'
-date: 2020-04-07 20:48:59
+date: 2020-04-10 06:22:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Q9nBWd5JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Q9nBWd5JL._SL200_.jpg' ]
 comments: true

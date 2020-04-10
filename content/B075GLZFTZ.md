@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 34.55 % en LEGO 10869 DUPLO Town Farm Adventures Bu'
-date: 2019/12/21 20:27:52 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ybdMSGcCL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ybdMSGcCL._SL200_.jpg' ]
+title: 'Descuento del 26.67 % en LEGO Duplo 10869 - Ausflug auf den Bauer'
+date: 2020-01-29 13:34:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/61QKB6us4VL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61QKB6us4VL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B075GLZFTZ
 description:
-actualPrice: 35.99 GBP
-comparePrice: 54.99 GBP
+actualPrice: 43.99 EUR
+comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 10869 DUPLO Town Farm Adventures Building Set  with Tractor and Animals Figures  Toy for Kids Age 2-5](https://www.amazon.com/dp/B075GLZFTZ/?tag=redken08-20) con un 34.55 % de descuento con precio de oferta de 35.99 GBP (original: 54.99 GBP) en el siguiente enlace!
+Tienes [LEGO Duplo 10869 - Ausflug auf den Bauernhof  Lernspielzeug für Kinder](https://www.amazon.com/dp/B075GLZFTZ/?tag=redken08-20) con un 26.67 % de descuento con precio de oferta de 43.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/61ybdMSGcCL._SL200_.jpg)](https://www.amazon.com/dp/B075GLZFTZ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/61QKB6us4VL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B075GLZFTZ/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B075GLZFTZ/?tag=redken08-20)
 

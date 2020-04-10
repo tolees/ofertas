@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.33 % en Hasbro Gaming Simon Swipe'
-date: 2020-04-08 20:05:45
+date: 2020-04-09 22:34:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dIYLPDWOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dIYLPDWOL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75239 Star Wars Action Battle Hoth Generator Attack Target Shooting Set  Episode 5 The Empire Strikes Back  Colourful](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20) a 17.95 GBP (original: 24.99 GBP) (28.17 %  de descuento) en el siguiente enlace!
+Está [LEGO 75239 Star Wars Action Battle Hoth Generator Attack Target Shooting Set  Episode 5 The Empire Strikes Back  Colourful](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20) con 28.17 de descuento por 17.95 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg)](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FP76GMV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

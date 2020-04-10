@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO THE LEGO MOVIE 2 Minifigures 71023  al 41.60 % de descuento'
-date: 2020-04-02 12:49:34
+date: 2020-04-09 23:21:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zsiscyeFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zsiscyeFL._SL200_.jpg' ]
 comments: true

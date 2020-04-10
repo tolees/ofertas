@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.72 % en Reproductor MP3  Wodgreat MP4 Player 8GB'
-date: 2020-04-08 18:03:14
+date: 2020-04-09 18:58:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NY2t+TFBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NY2t+TFBL._SL200_.jpg' ]
 comments: true

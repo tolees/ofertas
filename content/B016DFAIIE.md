@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.48 % en STAEDTLER 323 TB26JB 1.0 mm Triplus Colo'
-date: 2020-04-08 19:48:40
+date: 2020-04-09 22:25:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Q47ssPWsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Q47ssPWsL._SL200_.jpg' ]
 comments: true

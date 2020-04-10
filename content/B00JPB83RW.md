@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.35 % en FINTIE Slimshell Case For Kindle Paperwh'
-date: 2020-04-08 20:09:51
+date: 2020-04-10 06:35:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/61a9BInXPoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61a9BInXPoL._SL200_.jpg' ]
 comments: true

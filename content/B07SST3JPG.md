@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Darksiders Genesis - Xbox One al 37.51 % de descuento'
-date: 2020-04-08 13:51:51
+date: 2020-04-10 00:32:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iPcE9ibnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iPcE9ibnL._SL200_.jpg' ]
 comments: true

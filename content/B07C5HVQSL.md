@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.01 % en Spa Luxetique Rose Bath Gift Set  Premiu'
-date: 2020-04-08 20:07:13
+date: 2020-04-09 22:35:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AmYPtfxVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AmYPtfxVL._SL200_.jpg' ]
 comments: true

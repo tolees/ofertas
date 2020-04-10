@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fuyit Wood Slices 30 Pcs 5-6cm Drilled H al 30.79 % de descuento'
-date: 2020-04-08 19:54:42
+date: 2020-04-09 22:28:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mn3PyCSEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mn3PyCSEL._SL200_.jpg' ]
 comments: true

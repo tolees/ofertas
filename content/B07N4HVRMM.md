@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.40 % en KidKraft- Cocina de madera de juguete Up'
-date: 2020-04-08 13:31:27
+date: 2020-04-10 00:19:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/419l8-1LBdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419l8-1LBdL._SL200_.jpg' ]
 comments: true

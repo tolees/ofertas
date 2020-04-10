@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trail Watcher SD Card Reader Trail Camer al 53.87 % de descuento'
-date: 2020-04-08 20:25:47
+date: 2020-04-09 22:53:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kPqYt7FmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kPqYt7FmL._SL200_.jpg' ]
 comments: true

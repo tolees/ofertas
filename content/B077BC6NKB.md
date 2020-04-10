@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.87 % en Hasbro FurReal Friends E0497EU4 Frisiers'
-date: 2020-04-08 13:07:30
+date: 2020-04-10 00:06:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/61TQi0mmR-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61TQi0mmR-L._SL200_.jpg' ]
 comments: true

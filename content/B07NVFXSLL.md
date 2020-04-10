@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CRYSTAL ART Crystal Card Kits 18x18cm  M al 33.37 % de descuento'
-date: 2020-04-08 21:59:52
+date: 2020-04-10 00:02:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41k9rZw4MfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41k9rZw4MfL._SL200_.jpg' ]
 comments: true

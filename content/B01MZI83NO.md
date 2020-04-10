@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tamron SP 70-200 mm F/2.8 Di VC USD G2 - al 26.64 % de descuento'
-date: 2020-04-08 13:59:55
+date: 2020-04-09 19:27:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sRToaDLUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sRToaDLUL._SL200_.jpg' ]
 comments: true

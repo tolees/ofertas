@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 31.54 % en LEGO Duplo Town - Comisaría de policía  '
-date: 2019/12/22 21:01:18 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg' ]
+title: 'Descuento del 30.11 % en LEGO DUPLO 10902 - Polizeistation'
+date: 2020-04-09 20:29:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/51+FGS4oc0L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51+FGS4oc0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FNTSHZC
 description:
-actualPrice: 20.53 EUR
+actualPrice: 20.96 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO Duplo Town - Comisaría de policía  Juguete Creativo de construcción y Aventuras  10902 ](https://www.amazon.com/dp/B07FNTSHZC/?tag=redken08-20) con un 31.54 % de descuento con precio de oferta de 20.53 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [LEGO DUPLO 10902 - Polizeistation](https://www.amazon.com/dp/B07FNTSHZC/?tag=redken08-20) con un 30.11 % de descuento con precio de oferta de 20.96 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSHZC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51+FGS4oc0L._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSHZC/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07FNTSHZC/?tag=redken08-20)
 

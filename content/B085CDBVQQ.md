@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ODLICNO Mando para Nintendo Switch Bluet al 39.48 % de descuento'
-date: 2020-04-08 13:52:23
+date: 2020-04-10 00:33:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/410+DmaYMdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410+DmaYMdL._SL200_.jpg' ]
 comments: true

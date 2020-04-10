@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Pop! Rocks: Johnny Cash - Johnny C al 36.40 % de descuento'
-date: 2020-04-07 21:07:17
+title: 'Funko Pop! Rocks: Johnny Cash - Johnny C al 52.23 % de descuento'
+date: 2020-04-09 23:19:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FiMPhwqfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FiMPhwqfL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07NSRJS4F
 description:
-actualPrice: 6.99 USD
+actualPrice: 5.25 USD
 comparePrice: 10.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop! Rocks: Johnny Cash - Johnny Cash in Black](https://www.amazon.com/dp/B07NSRJS4F/?tag=redken08-20) a 6.99 USD (original: 10.99 USD) (36.40 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop! Rocks: Johnny Cash - Johnny Cash in Black](https://www.amazon.com/dp/B07NSRJS4F/?tag=redken08-20) a 5.25 USD (original: 10.99 USD) (52.23 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41FiMPhwqfL._SL200_.jpg)](https://www.amazon.com/dp/B07NSRJS4F/?tag=redken08-20)
 

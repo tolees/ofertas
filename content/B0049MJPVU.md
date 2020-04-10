@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Selection Chocolate Box - 40 Prali al 28.52 % de descuento'
-date: 2020-04-08 20:05:49
+date: 2020-04-09 22:35:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n8qK+Ir6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n8qK+Ir6L._SL200_.jpg' ]
 comments: true

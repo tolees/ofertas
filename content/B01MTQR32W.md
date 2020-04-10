@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caydo 1200 Pieces 1cm Assorted Elastic P al 44.47 % de descuento'
-date: 2020-04-08 20:35:21
+date: 2020-04-09 23:02:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/61SFvE4IOnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61SFvE4IOnL._SL200_.jpg' ]
 comments: true

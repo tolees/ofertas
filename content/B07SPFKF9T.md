@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! AD Icons: Bill Nye - Bill Nye al 43.13 % de descuento'
-date: 2020-04-04 20:57:03
+date: 2020-04-09 23:21:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/315ri2XThDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315ri2XThDL._SL200_.jpg' ]
 comments: true

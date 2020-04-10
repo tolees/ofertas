@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Bee Bluetooth Earpiece V5.0 Wireless al 71.68 % de descuento'
-date: 2020-04-03 20:57:35
+date: 2020-04-10 06:53:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/4191zkz6LBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4191zkz6LBL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.78 % en Western Digital My Book Disco Duro Exter'
-date: 2020-04-07 09:52:49
+date: 2020-04-09 18:33:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31RrHf4-TnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31RrHf4-TnL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kitchen Craft Kanne  1 1 l  Creme  aus d al 28.64 % de descuento'
-date: 2020-04-08 21:58:54
+date: 2020-04-10 00:02:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/21sc0T80tyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21sc0T80tyL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moderno Minimalista 80 W Lámpara de tech al 50.96 % de descuento'
-date: 2020-04-07 20:48:43
+date: 2020-04-09 22:30:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f59TwmmeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f59TwmmeL._SL200_.jpg' ]
 comments: true

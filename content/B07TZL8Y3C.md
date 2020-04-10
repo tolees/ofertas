@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.13 % en Instant Zest Rice Cooker  Grain Maker  a'
-date: 2020-04-08 12:18:34
+date: 2020-04-09 22:58:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mAz9a6A6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mAz9a6A6L._SL200_.jpg' ]
 comments: true

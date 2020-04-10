@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deep Black Lies: a chilling psychologica al 50.25 % de descuento'
-date: 2020-04-08 20:03:57
+date: 2020-04-09 22:33:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iqwroUGuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iqwroUGuL._SL200_.jpg' ]
 comments: true

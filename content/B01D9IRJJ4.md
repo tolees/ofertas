@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.70 % en BQAN 1Pc Acrylic Nail Art Brush With Pin'
-date: 2020-04-07 22:16:01
+date: 2020-04-10 08:23:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31UgHhC-T1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31UgHhC-T1L._SL200_.jpg' ]
 comments: true

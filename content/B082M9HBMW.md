@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.01 % en Maegoo Mando Inalámbrico para Nintendo S'
-date: 2020-04-08 13:51:43
+date: 2020-04-10 00:23:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aA7EG2QsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aA7EG2QsL._SL200_.jpg' ]
 comments: true

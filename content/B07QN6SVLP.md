@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.64 % en Hasbro Gaming Disney/Pixar Toy Story Buz'
-date: 2020-04-08 11:46:19
+date: 2020-04-09 22:34:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51O8IZSdOUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51O8IZSdOUL._SL200_.jpg' ]
 comments: true

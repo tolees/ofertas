@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Crema Facial En Gel Hydro Boo al 33.01 % de descuento'
-date: 2020-03-30 21:02:55
+date: 2020-04-09 21:23:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+b8VcTAxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+b8VcTAxL._SL200_.jpg' ]
 comments: true
