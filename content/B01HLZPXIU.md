@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Etekcity EK4352H Báscula Electrónica Mul al 27.29 % de descuento'
-date: 2020-04-09 15:58:55
+date: 2020-04-10 16:31:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SuQIL0AtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SuQIL0AtL._SL200_.jpg' ]
 comments: true

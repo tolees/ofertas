@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.30 % en Monopoly Electronic Banking  Versión Esp'
-date: 2020-04-09 16:03:58
+date: 2020-04-10 16:27:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-2SDE-k9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-2SDE-k9L._SL200_.jpg' ]
 comments: true

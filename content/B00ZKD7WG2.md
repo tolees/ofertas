@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.46 % en Villeroy & Boch Toy s Delight Dip-Set  4'
-date: 2020-04-09 15:53:34
+date: 2020-04-10 16:22:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31t5uhnTqlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31t5uhnTqlL._SL200_.jpg' ]
 comments: true

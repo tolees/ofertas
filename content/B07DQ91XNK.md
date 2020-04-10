@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate Portable STGX2000400  Unidad de  al 25.56 % de descuento'
-date: 2020-04-08 14:39:55
+date: 2020-04-10 16:31:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nMFhO266L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nMFhO266L._SL200_.jpg' ]
 comments: true

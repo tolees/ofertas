@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ecovacs Deboot Slim 2 Robot aspirador  1 al 39.30 % de descuento'
-date: 2020-04-08 08:54:12
+date: 2020-04-10 18:38:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wVc8IuQBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wVc8IuQBL._SL200_.jpg' ]
 comments: true

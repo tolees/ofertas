@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AVerMedia LGP Lite - Capturadora YouTube al 29.30 % de descuento'
-date: 2020-04-09 16:21:14
+date: 2020-04-10 16:49:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oJ1wUzxUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oJ1wUzxUL._SL200_.jpg' ]
 comments: true

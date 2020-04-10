@@ -14,10 +14,10 @@ comparePrice: 109.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Bristan MH SNK EF C Manhattan Easyfit Kitchen Sink Mixer Tap with Swivel Spout  Chrome](https://www.amazon.com/dp/B00MNJZA56/?tag=redken08-20) a 57.17 GBP (original: 109.0 GBP) (47.55 %  de descuento) en el siguiente enlace!
+Está [Bristan MH SNK EF C Manhattan Easyfit Kitchen Sink Mixer Tap with Swivel Spout  Chrome](https://www.amazon.com/dp/B00MNJZA56/?tag=redken08-20) con 47.55 de descuento por 57.17 GBP (original: 109.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ma8SKTsNL._SL200_.jpg)](https://www.amazon.com/dp/B00MNJZA56/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00MNJZA56/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00MNJZA56/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

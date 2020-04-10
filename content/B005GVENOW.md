@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer KS 25 Balanza de cocina con bol t al 66.23 % de descuento'
-date: 2020-04-09 15:58:24
+date: 2020-04-10 16:32:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RFQQWinoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RFQQWinoL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung Galaxy Note10+ SM-N975F - Smartp al 25.55 % de descuento'
-date: 2020-04-08 06:07:28
+title: 'Samsung Galaxy Note10+ SM-N975F - Smartp al 25.61 % de descuento'
+date: 2020-04-10 17:51:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31g0fzvfgvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31g0fzvfgvL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07VYT8BMC
 description:
-actualPrice: 825.62 EUR
+actualPrice: 825.0 EUR
 comparePrice: 1109.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung Galaxy Note10+ SM-N975F - Smartphone  Dual SIM  12 GB RAM  256 GB Memoria  10 MP Dual Pixel AF  Blanco  White ](https://www.amazon.com/dp/B07VYT8BMC/?tag=redken08-20) a 825.62 EUR (original: 1109.0 EUR) (25.55 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung Galaxy Note10+ SM-N975F - Smartphone  Dual SIM  12 GB RAM  256 GB Memoria  10 MP Dual Pixel AF  Blanco  White ](https://www.amazon.com/dp/B07VYT8BMC/?tag=redken08-20) a 825.0 EUR (original: 1109.0 EUR) (25.61 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31g0fzvfgvL._SL200_.jpg)](https://www.amazon.com/dp/B07VYT8BMC/?tag=redken08-20)
 
