@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Samsung Portable SSD T5 2 TB USB 3.1 Ext al 27.30 % de descuento'
-date: 2019/12/22 22:16:02 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EXg6Xja2L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EXg6Xja2L._SL200_.jpg' ]
+title: 'Samsung T5 2TB - Disco Estado sólido SSD al 48.97 % de descuento'
+date: 2020-04-10 00:13:54
+thumbnailImage: 'https://m.media-amazon.com/images/I/31TzT7--frL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31TzT7--frL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B074MCNDSK
 description:
-actualPrice: 268.99 GBP
-comparePrice: 369.99 GBP
+actualPrice: 392.92 EUR
+comparePrice: 769.99 EUR
 inStock: true
 ---
 
-Está [Samsung Portable SSD T5 2 TB USB 3.1 External SSD](https://www.amazon.com/dp/B074MCNDSK/?tag=redken08-20) con 27.30 de descuento por 268.99 GBP (original: 369.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Samsung T5 2TB - Disco Estado sólido SSD Externo  2TB  USB   Color Negro](https://www.amazon.com/dp/B074MCNDSK/?tag=redken08-20) a 392.92 EUR (original: 769.99 EUR) (48.97 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31EXg6Xja2L._SL200_.jpg)](https://www.amazon.com/dp/B074MCNDSK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31TzT7--frL._SL200_.jpg)](https://www.amazon.com/dp/B074MCNDSK/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B074MCNDSK/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B074MCNDSK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

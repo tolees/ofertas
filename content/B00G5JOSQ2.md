@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Kindle Fire - 7 Inch - 8 Gb'
-date: 2020-04-09 15:20:10
+date: 2020-04-10 15:55:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Gcg6Del2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Gcg6Del2L._SL200_.jpg' ]
 comments: true

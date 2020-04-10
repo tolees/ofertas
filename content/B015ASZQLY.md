@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.02 % en APEX MR-1030 GAC  Calcite & KDF-55 Count'
-date: 2020-04-07 21:04:27
+date: 2020-04-10 15:02:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+0jY980CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+0jY980CL._SL200_.jpg' ]
 comments: true

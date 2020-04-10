@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en Levi s Haight Harrington Jacket Chaqueta'
-date: 2020-04-06 16:27:43
+date: 2020-04-10 10:03:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31PZr0knUjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31PZr0knUjL._SL200_.jpg' ]
 comments: true

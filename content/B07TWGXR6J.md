@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS VivoBook X512FA 15.6 Inch Full HD L al 33.86 % de descuento'
-date: 2020-04-09 06:36:15
+date: 2020-04-10 14:37:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WnAG4kdkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WnAG4kdkL._SL200_.jpg' ]
 comments: true

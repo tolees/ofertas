@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Plantronics Voyager 5200 - Bluetooth Hea al 29.16 % de descuento'
-date: 2020-04-09 14:55:51
+date: 2020-04-10 14:57:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41A+Y2hlM4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41A+Y2hlM4L._SL200_.jpg' ]
 comments: true

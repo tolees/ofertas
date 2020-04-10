@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en YI 4pc Home Camera  1080p Wi-Fi IP Secur'
-date: 2020-04-08 21:24:02
+date: 2020-04-10 15:55:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a30o1wKzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a30o1wKzL._SL200_.jpg' ]
 comments: true

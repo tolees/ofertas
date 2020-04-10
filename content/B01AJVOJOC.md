@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.41 % en Whirlpool W10827015 SxS Refrigerator Pan'
-date: 2020-04-08 21:02:34
+date: 2020-04-10 15:52:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JLR98LzVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JLR98LzVL._SL200_.jpg' ]
 comments: true

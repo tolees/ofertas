@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diary of a 6th Grade Ninja al 42.59 % de descuento'
-date: 2020-04-07 21:25:18
+date: 2020-04-10 15:23:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51i4czA0n7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51i4czA0n7L._SL200_.jpg' ]
 comments: true

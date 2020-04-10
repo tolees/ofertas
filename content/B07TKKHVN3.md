@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tensiómetro de Brazo  AUCEE Tensiómetro  al 37.51 % de descuento'
-date: 2020-04-08 14:08:19
+date: 2020-04-10 09:59:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oSskj1jtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oSskj1jtL._SL200_.jpg' ]
 comments: true

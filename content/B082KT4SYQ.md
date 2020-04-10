@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tensiómetro de brazo  OUDEKAY Monitor de al 53.34 % de descuento'
-date: 2020-04-08 14:09:12
+date: 2020-04-10 09:59:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vy03dCD+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vy03dCD+L._SL200_.jpg' ]
 comments: true

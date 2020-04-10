@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Days Gone - Playstation 4 al 66.66 % de descuento'
-date: 2020-04-08 21:28:18
+title: 'Days Gone - Playstation 4 al 59.16 % de descuento'
+date: 2020-04-10 16:01:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/61uEb1xDThL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61uEb1xDThL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01GW8XRCG
 description:
-actualPrice: 20.0 USD
+actualPrice: 24.5 USD
 comparePrice: 59.99 USD
 inStock: true
 ---
 
-Está [Days Gone - Playstation 4](https://www.amazon.com/dp/B01GW8XRCG/?tag=redken08-20) con 66.66 de descuento por 20.0 USD (original: 59.99 USD) en el siguiente enlace!
+Está [Days Gone - Playstation 4](https://www.amazon.com/dp/B01GW8XRCG/?tag=redken08-20) con 59.16 de descuento por 24.5 USD (original: 59.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61uEb1xDThL._SL200_.jpg)](https://www.amazon.com/dp/B01GW8XRCG/?tag=redken08-20)
 

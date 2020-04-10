@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en Leifheit Wandrollenhalter Parat ComfortL'
-date: 2020-04-09 15:39:23
+date: 2020-04-10 16:06:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31X3fawT88L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31X3fawT88L._SL200_.jpg' ]
 comments: true

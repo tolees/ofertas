@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Harry Potter Collection  8pk/4K Ultra HD al 36.59 % de descuento'
-date: 2020-04-08 20:36:23
+title: 'Harry Potter Collection  8pk/4K Ultra HD al 32.96 % de descuento'
+date: 2020-04-10 14:57:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UeuGq4LhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UeuGq4LhL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B075W1LFWP
 description:
-actualPrice: 113.49 USD
+actualPrice: 119.99 USD
 comparePrice: 178.99 USD
 inStock: true
 ---
 
-Está [Harry Potter Collection  8pk/4K Ultra HD + Blu-ray ](https://www.amazon.com/dp/B075W1LFWP/?tag=redken08-20) con 36.59 de descuento por 113.49 USD (original: 178.99 USD) en el siguiente enlace!
+Está [Harry Potter Collection  8pk/4K Ultra HD + Blu-ray ](https://www.amazon.com/dp/B075W1LFWP/?tag=redken08-20) con 32.96 de descuento por 119.99 USD (original: 178.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51UeuGq4LhL._SL200_.jpg)](https://www.amazon.com/dp/B075W1LFWP/?tag=redken08-20)
 

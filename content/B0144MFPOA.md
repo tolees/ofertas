@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Woder WD-S-8K-DC Water Filtration System al 32.99 % de descuento'
-date: 2020-04-07 21:03:54
+date: 2020-04-10 15:02:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wHWQ1qkXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wHWQ1qkXL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion Gaming 17-cd0222ng  17 3 Zol al 50.95 % de descuento'
-date: 2020-04-09 15:41:19
+date: 2020-04-10 16:03:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gKuTa+hhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gKuTa+hhL._SL200_.jpg' ]
 comments: true

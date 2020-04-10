@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming C0447100 - Pipi Party Kind al 40.02 % de descuento'
-date: 2020-04-09 15:35:47
+date: 2020-04-10 15:57:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JhSAbnmFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JhSAbnmFL._SL200_.jpg' ]
 comments: true

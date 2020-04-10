@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'COSORI Calentador de Café de Acero Inoxi al 25.01 % de descuento'
-date: 2020-01-28 20:19:38
-thumbnailImage: 'https://m.media-amazon.com/images/I/41BZC-CIwNL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41BZC-CIwNL._AC_._SL200_.jpg' ]
+title: 'COSORI Mantenedor de Café Caliente de Ac al 25.01 % de descuento'
+date: 2020-04-10 09:40:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/41BZC-CIwNL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41BZC-CIwNL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,9 +14,9 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [COSORI Calentador de Café de Acero Inoxidable para Oficina y Hogar  Pantalla LED  Accesorios para Café  Té  Agua  Cacao  Leche  24 Vatios](https://www.amazon.com/dp/B07CLGCVJG/?tag=redken08-20) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [COSORI Mantenedor de Café Caliente de Acero Inoxidable para Oficina y Hogar  Pantalla LED  Accesorios para Café  Té  Agua  Cacao  Leche  24 Vatios](https://www.amazon.com/dp/B07CLGCVJG/?tag=redken08-20) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41BZC-CIwNL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07CLGCVJG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41BZC-CIwNL._SL200_.jpg)](https://www.amazon.com/dp/B07CLGCVJG/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07CLGCVJG/?tag=redken08-20)
 

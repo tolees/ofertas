@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.35 % en Geles Inibsa - Gel de ducha para el cuid'
-date: 2020-04-08 07:36:29
+date: 2020-04-10 10:04:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XxwXy6NCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XxwXy6NCL._SL200_.jpg' ]
 comments: true
