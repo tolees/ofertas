@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.06 % en Lenovo 15.6" High Performance Laptop  In'
-date: 2020-04-10 07:03:19
+date: 2020-04-11 07:23:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vpDviaJmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vpDviaJmL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus Mytoast Duplo Legend Tostador  14 al 41.67 % de descuento'
-date: 2020-04-10 06:03:18
+date: 2020-04-11 08:04:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/413wX4P3SfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413wX4P3SfL._SL200_.jpg' ]
 comments: true

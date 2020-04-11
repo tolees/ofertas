@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KOALA Double Sided Glossy Inkjet Photo P al 30.79 % de descuento'
-date: 2020-04-09 14:23:13
+date: 2020-04-10 22:26:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51b-iFJsEEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51b-iFJsEEL._SL200_.jpg' ]
 comments: true

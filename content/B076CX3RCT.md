@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.20 % en Panasonic ES-CV51-S803 Afeitadora Premiu'
-date: 2020-04-09 09:07:27
+date: 2020-04-11 02:55:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f-G5BiuvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f-G5BiuvL._SL200_.jpg' ]
 comments: true

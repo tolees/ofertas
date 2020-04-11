@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 42.00 % en Microsoft Office Home and Student 2016 |'
-date: 2020-04-09 07:52:09
+title: 'Descuento del 52.66 % en Microsoft Office Home and Student 2016 |'
+date: 2020-04-11 08:06:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01EA1NNN0
 description:
-actualPrice: 87.0 EUR
+actualPrice: 71.0 EUR
 comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Tienes [Microsoft Office Home and Student 2016 | PC | Box](https://www.amazon.com/dp/B01EA1NNN0/?tag=redken08-20) con un 42.00 % de descuento con precio de oferta de 87.0 EUR (original: 149.99 EUR) en el siguiente enlace!
+Tienes [Microsoft Office Home and Student 2016 | PC | Box](https://www.amazon.com/dp/B01EA1NNN0/?tag=redken08-20) con un 52.66 % de descuento con precio de oferta de 71.0 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg)](https://www.amazon.com/dp/B01EA1NNN0/?tag=redken08-20)
 

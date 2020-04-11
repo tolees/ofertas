@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.01 % en KINLO Aufkleber Küchenschränke Weiß 2 St'
-date: 2020-04-09 23:48:36
+date: 2020-04-11 07:47:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/412H8z2UULL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412H8z2UULL._SL200_.jpg' ]
 comments: true

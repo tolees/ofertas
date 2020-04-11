@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAJOZ0 Technic Car Mclaren P1 Building S al 30.11 % de descuento'
-date: 2020-04-10 06:39:20
+date: 2020-04-11 06:53:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ROlsJSDEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ROlsJSDEL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel GGX27 - Toy Story 4 Bunny  17 cm  al 55.86 % de descuento'
-date: 2020-04-09 07:54:54
+date: 2020-04-11 08:09:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VYsSsMa-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VYsSsMa-L._SL200_.jpg' ]
 comments: true

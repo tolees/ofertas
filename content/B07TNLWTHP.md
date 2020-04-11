@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Levi s The Original Camiseta  Verde  Hm '
-date: 2020-04-07 22:17:29
+date: 2020-04-10 19:50:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg' ]
 comments: true

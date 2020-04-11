@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.83 % en GTRACING Gaming Chair with Bluetooth Spe'
-date: 2020-04-08 21:54:58
+date: 2020-04-11 07:44:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PSNKVSezL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PSNKVSezL._SL200_.jpg' ]
 comments: true

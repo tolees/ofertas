@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pentel 100526 - Juego de ceras pastel al al 55.70 % de descuento'
-date: 2020-03-29 04:41:30
+title: 'Pentel PHN4-50 Oil Pastels - Pack of 50 al 46.05 % de descuento'
+date: 2020-04-10 14:59:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/518KBXtoAlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518KBXtoAlL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B000WKKN5A
 description:
-actualPrice: 9.79 EUR
-comparePrice: 22.1 EUR
+actualPrice: 7.99 GBP
+comparePrice: 14.81 GBP
 inStock: true
 ---
 
-Está [Pentel 100526 - Juego de ceras pastel al aceite  50 unidades   multicolor](https://www.amazon.com/dp/B000WKKN5A/?tag=redken08-20) con 55.70 de descuento por 9.79 EUR (original: 22.1 EUR) en el siguiente enlace!
+Está [Pentel PHN4-50 Oil Pastels - Pack of 50](https://www.amazon.com/dp/B000WKKN5A/?tag=redken08-20) con 46.05 de descuento por 7.99 GBP (original: 14.81 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/518KBXtoAlL._SL200_.jpg)](https://www.amazon.com/dp/B000WKKN5A/?tag=redken08-20)
 

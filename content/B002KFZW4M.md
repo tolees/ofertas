@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer MG 16 Mini-Massager 646.15  rot al 43.78 % de descuento'
-date: 2020-04-10 00:06:54
+date: 2020-04-11 07:55:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sETtU-bML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sETtU-bML._SL200_.jpg' ]
 comments: true

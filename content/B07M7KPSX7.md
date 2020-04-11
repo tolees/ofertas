@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XRSC [2 PACK] Nintendo Switch Screen Pro al 47.05 % de descuento'
-date: 2020-04-09 14:47:24
+date: 2020-04-10 22:43:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51c-Rfe3Q1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51c-Rfe3Q1L._SL200_.jpg' ]
 comments: true

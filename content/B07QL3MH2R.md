@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Star Wars Jedi: Fallen Order - PC'
-date: 2020-04-10 07:11:44
+date: 2020-04-11 07:36:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XD2ST3n9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XD2ST3n9L._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Drumond Park The LOGO Board Game - The F al 45.44 % de descuento'
-date: 2019/12/22 16:52:40 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg' ]
+title: 'Drumond Park The LOGO Board Game - The F al 41.04 % de descuento'
+date: 2020-04-10 22:31:10
+thumbnailImage: 'https://m.media-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B001VEIXIK
 description:
-actualPrice: 18 GBP
+actualPrice: 19.45 GBP
 comparePrice: 32.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Drumond Park The LOGO Board Game - The Family Board Game of Brands and Products You Know and Love | a Family Christmas Gift For Adults And Kids Suitable From 12+ Years](https://www.amazon.com/dp/B001VEIXIK/?tag=redken08-20) a 18 GBP (original: 32.99 GBP) (45.44 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Drumond Park The LOGO Board Game - The Family Board Game of Brands and Products You Know and Love | Family Games For Adults And Kids Suitable From 12+ Years](https://www.amazon.com/dp/B001VEIXIK/?tag=redken08-20) a 19.45 GBP (original: 32.99 GBP) (41.04 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg)](https://www.amazon.com/dp/B001VEIXIK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg)](https://www.amazon.com/dp/B001VEIXIK/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B001VEIXIK/?tag=redken08-20)
 

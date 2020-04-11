@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 37.59 % en BIC Kids Evolution Triangle ECOlutions L'
-date: 2020-04-09 13:45:58
-thumbnailImage: 'https://m.media-amazon.com/images/I/51VyFLAP0yL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51VyFLAP0yL._SL200_.jpg' ]
+date: 2020-04-11 00:14:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/51SpKtu3uqL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51SpKtu3uqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [BIC Kids Evolution Triangle ECOlutions Lápices de colores Triangulares - colores Surtidos  Blíster de 12 unidades](https://www.amazon.com/dp/B000KTB4UG/?tag=redken08-20) con un 37.59 % de descuento con precio de oferta de 2.49 EUR (original: 3.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51VyFLAP0yL._SL200_.jpg)](https://www.amazon.com/dp/B000KTB4UG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51SpKtu3uqL._SL200_.jpg)](https://www.amazon.com/dp/B000KTB4UG/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B000KTB4UG/?tag=redken08-20)
 

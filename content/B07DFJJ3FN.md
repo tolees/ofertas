@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC Super-Villains - Xbox One al 49.97 % de descuento'
-date: 2020-04-10 07:06:52
+date: 2020-04-11 07:43:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/514WypcjluL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514WypcjluL._SL200_.jpg' ]
 comments: true

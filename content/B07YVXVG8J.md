@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAR WARS Jedi Fallen Order - [Xbox One  al 33.32 % de descuento'
-date: 2020-04-10 07:12:13
+date: 2020-04-11 07:36:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OmNW-hnkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OmNW-hnkL._SL200_.jpg' ]
 comments: true

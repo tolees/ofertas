@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 76.43 % en LEGO Movie 2  The Second Part  Blu-Ray '
-date: 2020-04-09 23:23:03
+title: 'Descuento del 50.00 % en LEGO Movie 2  The Second Part  Blu-Ray '
+date: 2020-04-10 23:31:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gW6H4BVaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gW6H4BVaL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MHQ5FDY
 description:
-actualPrice: 4.71 USD
+actualPrice: 9.99 USD
 comparePrice: 19.98 USD
 inStock: true
 ---
 
-Tienes [LEGO Movie 2  The Second Part  Blu-Ray ](https://www.amazon.com/dp/B07MHQ5FDY/?tag=redken08-20) con un 76.43 % de descuento con precio de oferta de 4.71 USD (original: 19.98 USD) en el siguiente enlace!
+Tienes [LEGO Movie 2  The Second Part  Blu-Ray ](https://www.amazon.com/dp/B07MHQ5FDY/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 9.99 USD (original: 19.98 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51gW6H4BVaL._SL200_.jpg)](https://www.amazon.com/dp/B07MHQ5FDY/?tag=redken08-20)
 

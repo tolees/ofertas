@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crock-Pot SCCPVL600S Cook  N Carry 6-Qua al 40.01 % de descuento'
-date: 2020-04-09 22:56:41
+date: 2020-04-10 23:01:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-s0Nx3iEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-s0Nx3iEL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Theo Klein 2813 - Bosch Car Service Park al 37.67 % de descuento'
-date: 2020-04-09 07:54:31
+date: 2020-04-11 08:08:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KakkMuhbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KakkMuhbL._SL200_.jpg' ]
 comments: true
