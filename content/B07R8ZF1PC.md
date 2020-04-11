@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Mirabox Game Capture Card 4K@30FPS / 108'
-date: 2020-04-10 06:46:23
+date: 2020-04-11 15:14:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rbR2DJMjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rbR2DJMjL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tamron T80177 - Objetivo SP 150-600 mm F al 37.91 % de descuento'
-date: 2020-04-10 05:09:41
+date: 2020-04-11 16:20:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Uy7rQT2UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Uy7rQT2UL._SL200_.jpg' ]
 comments: true

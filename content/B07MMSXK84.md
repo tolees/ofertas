@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro E5679EU4 FurReal König der Löwen- al 35.40 % de descuento'
-date: 2020-04-10 15:59:16
+date: 2020-04-11 16:12:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51b9bvwX14L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51b9bvwX14L._SL200_.jpg' ]
 comments: true

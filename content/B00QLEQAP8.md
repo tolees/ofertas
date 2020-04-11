@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 66.71 % en NuPro - Kit de protectores de pantalla p'
-date: 2020-04-09 08:17:07
+date: 2020-04-11 08:36:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cmSVTnwnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cmSVTnwnL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.76 % en La Lego Película 2: El Videojuego'
-date: 2020-04-09 08:59:43
+date: 2020-04-11 08:59:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XQHNen6JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XQHNen6JL._SL200_.jpg' ]
 comments: true

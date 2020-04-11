@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KitchenCraft Living Nostalgia Küchenspül al 25.33 % de descuento'
-date: 2020-04-10 15:53:35
+date: 2020-04-11 16:01:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-PSL2dDyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-PSL2dDyL._SL200_.jpg' ]
 comments: true

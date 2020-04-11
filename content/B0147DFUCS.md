@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mighty No.9 - Ray-Edition al 38.36 % de descuento'
-date: 2020-04-10 07:50:00
+date: 2020-04-11 08:21:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL200_.jpg' ]
 comments: true

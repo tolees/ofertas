@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cool Coast Products - CoronaVirus Too So al 30.03 % de descuento'
-date: 2020-04-10 15:16:15
+date: 2020-04-11 15:23:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41g0xMh3GsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41g0xMh3GsL._SL200_.jpg' ]
 comments: true

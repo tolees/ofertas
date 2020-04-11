@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for Lego Ideas al 66.68 % de descuento'
-date: 2020-04-10 14:49:47
+title: 'BRIKSMAX Kit de Iluminación Led para Leg al 61.68 % de descuento'
+date: 2020-04-10 16:39:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SJ2SGGT
 description:
-actualPrice: 19.99 GBP
-comparePrice: 59.99 GBP
+actualPrice: 22.99 EUR
+comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Led Lighting Kit for Lego Ideas WALL E-Compatible with Lego 21303 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07SJ2SGGT/?tag=redken08-20) con 66.68 de descuento por 19.99 GBP (original: 59.99 GBP) en el siguiente enlace!
+Está [BRIKSMAX Kit de Iluminación Led para Lego Ideas Wall E  Compatible con Ladrillos de Construcción Lego Modelo 21303  Juego de Legos no Incluido](https://www.amazon.com/dp/B07SJ2SGGT/?tag=redken08-20) con 61.68 de descuento por 22.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg)](https://www.amazon.com/dp/B07SJ2SGGT/?tag=redken08-20)
 

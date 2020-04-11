@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'ASUS ZenBook Duo UX481 Full HD 14 Inch D al 34.60 % de descuento'
-date: 2020-04-09 14:40:32
+title: 'ASUS ZenBook Duo UX481 Full HD 14 Inch D al 40.05 % de descuento'
+date: 2020-04-11 14:50:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t9gwQ8szL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t9gwQ8szL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07XYV1ZSN
 description:
-actualPrice: 1308.0 GBP
+actualPrice: 1199.0 GBP
 comparePrice: 2000.0 GBP
 inStock: true
 ---
 
-Está [ASUS ZenBook Duo UX481 Full HD 14 Inch Dual Screen Laptop  Intel i7-10510U Processor  NVIDIA MX250 Graphics  512 GB PCI-e SSD  16 GB RAM  ScreenPad Plus ](https://www.amazon.com/dp/B07XYV1ZSN/?tag=redken08-20) con 34.60 de descuento por 1308.0 GBP (original: 2000.0 GBP) en el siguiente enlace!
+Está [ASUS ZenBook Duo UX481 Full HD 14 Inch Dual Screen Laptop  Intel i7-10510U Processor  NVIDIA MX250 Graphics  512 GB PCI-e SSD  16 GB RAM  ScreenPad Plus ](https://www.amazon.com/dp/B07XYV1ZSN/?tag=redken08-20) con 40.05 de descuento por 1199.0 GBP (original: 2000.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51t9gwQ8szL._SL200_.jpg)](https://www.amazon.com/dp/B07XYV1ZSN/?tag=redken08-20)
 

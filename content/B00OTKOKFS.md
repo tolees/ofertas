@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.02 % en Hasbro Gaming B0408100 - Kroko Doc Kinde'
-date: 2020-04-10 15:58:08
+date: 2020-04-11 16:10:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/61w7XQGTIbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61w7XQGTIbL._SL200_.jpg' ]
 comments: true

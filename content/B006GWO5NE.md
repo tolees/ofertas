@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon PowerFast USB to Micro USB Cable  al 29.83 % de descuento'
-date: 2020-04-10 06:27:34
+date: 2020-04-11 14:42:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yQ1i9iLBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yQ1i9iLBL._SL200_.jpg' ]
 comments: true

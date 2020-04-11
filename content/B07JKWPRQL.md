@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 50.02 % en Playmobil 70013 Western Westernkutsche  '
-date: 2020-04-09 08:03:51
+title: 'Descuento del 30.11 % en Playmobil 70013 Western Stagecoach'
+date: 2020-04-09 22:46:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dH3ieFZOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dH3ieFZOL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07JKWPRQL
 description:
-actualPrice: 15.99 EUR
-comparePrice: 31.99 EUR
+actualPrice: 20.96 GBP
+comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Tienes [Playmobil 70013 Western Westernkutsche  bunt](https://www.amazon.com/dp/B07JKWPRQL/?tag=redken08-20) con un 50.02 % de descuento con precio de oferta de 15.99 EUR (original: 31.99 EUR) en el siguiente enlace!
+Tienes [Playmobil 70013 Western Stagecoach](https://www.amazon.com/dp/B07JKWPRQL/?tag=redken08-20) con un 30.11 % de descuento con precio de oferta de 20.96 GBP (original: 29.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51dH3ieFZOL._SL200_.jpg)](https://www.amazon.com/dp/B07JKWPRQL/?tag=redken08-20)
 

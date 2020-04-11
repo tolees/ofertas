@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Yellow Labrador Fam al 27.90 % de descuento'
-date: 2020-04-10 14:55:06
+date: 2020-04-11 14:59:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C0wHr24UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C0wHr24UL._SL200_.jpg' ]
 comments: true

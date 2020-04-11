@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY FATMAX FMHT0-75081 - Llave ajust al 33.39 % de descuento'
-date: 2020-03-31 17:48:26
+date: 2020-04-11 09:04:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LbsGOuhrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LbsGOuhrL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.05 % en Videocámara Camara de Video Ultra HD 2.7'
-date: 2020-04-09 08:54:14
+date: 2020-04-11 08:54:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VS2yX8wLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VS2yX8wLL._SL200_.jpg' ]
 comments: true

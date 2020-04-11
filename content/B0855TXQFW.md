@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en GODNECE Military Tank Model  1:72 Tank B'
-date: 2020-04-10 14:43:11
+date: 2020-04-11 14:55:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51z0EHcWRrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51z0EHcWRrL._SL200_.jpg' ]
 comments: true

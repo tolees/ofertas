@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter: Complete 8-Film Collection al 53.00 % de descuento'
-date: 2020-04-10 14:57:03
+date: 2020-04-11 15:25:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51p2reVhOiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51p2reVhOiL._SL200_.jpg' ]
 comments: true

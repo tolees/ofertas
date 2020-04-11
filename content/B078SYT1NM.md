@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Salomon Speedcross 4 GTX  Zapatillas de  al 42.44 % de descuento'
-date: 2019/12/25 13:45:05 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41crqsr61rL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41crqsr61rL._SL200_.jpg' ]
+title: 'Salomon Men s Trail Running Shoes  SPEED al 43.58 % de descuento'
+date: 2020-02-14 09:00:21
+thumbnailImage: 'https://m.media-amazon.com/images/I/41crqsr61rL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41crqsr61rL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B078SYT1NM
 description:
-actualPrice: 92.09 EUR
-comparePrice: 159.99 EUR
+actualPrice: 78.99 GBP
+comparePrice: 140.0 GBP
 inStock: true
 ---
 
-Está [Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Azul  Poseidon/Navy Blazer/Lime Green   45 1/3 EU](https://www.amazon.com/dp/B078SYT1NM/?tag=redken08-20) con 42.44 de descuento por 92.09 EUR (original: 159.99 EUR) en el siguiente enlace!
+Está [Salomon Men s Trail Running Shoes  SPEEDCROSS 4 GTX  Colour: Blue  Poseidon/Navy Blazer/Lime Green   Size: UK - Size 10.5](https://www.amazon.com/dp/B078SYT1NM/?tag=redken08-20) con 43.58 de descuento por 78.99 GBP (original: 140.0 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41crqsr61rL._SL200_.jpg)](https://www.amazon.com/dp/B078SYT1NM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41crqsr61rL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B078SYT1NM/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B078SYT1NM/?tag=redken08-20)
 

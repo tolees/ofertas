@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.83 % en PUNTO DE CRUZ HALLOWEEN: Patrones para b'
-date: 2020-04-09 14:47:09
+date: 2020-04-11 14:56:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51M2pIAeNYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51M2pIAeNYL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Inter Link 99200220 Regalbox Regalkorb A al 69.30 % de descuento'
-date: 2020-04-10 16:09:37
+date: 2020-04-11 16:25:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fYrJyz4RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fYrJyz4RL._SL200_.jpg' ]
 comments: true

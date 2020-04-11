@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.87 % en Dell Inspiron 15.6 Inch HD Touchscreen F'
-date: 2020-04-10 15:20:22
+date: 2020-04-11 15:34:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CxIIgzfhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CxIIgzfhL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caja de Luz A4 16 Colores con 300 Letras al 25.03 % de descuento'
-date: 2020-04-09 08:55:59
+date: 2020-04-11 08:49:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hM6iM1VML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hM6iM1VML._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.09 % en FROZEN 2 [Blu-ray]'
-date: 2020-04-10 14:57:05
+date: 2020-04-11 15:25:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hCLg2PbOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hCLg2PbOL._SL200_.jpg' ]
 comments: true

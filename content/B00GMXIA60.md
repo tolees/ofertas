@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli Kids Pom Poms - Assorted Colours  P al 28.85 % de descuento'
-date: 2020-04-10 14:28:32
+date: 2020-04-11 14:39:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EiMs6KN9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EiMs6KN9L._SL200_.jpg' ]
 comments: true

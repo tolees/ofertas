@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.68 % en Lego 42096 Technic Porsche 911 RSR  bunt'
-date: 2020-04-10 16:05:14
+date: 2020-04-11 16:16:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg' ]
 comments: true
