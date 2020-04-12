@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monopoly Electronic Banking  Versión Esp al 27.30 % de descuento'
-date: 2020-04-10 16:27:08
+date: 2020-04-11 16:37:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-2SDE-k9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-2SDE-k9L._SL200_.jpg' ]
 comments: true

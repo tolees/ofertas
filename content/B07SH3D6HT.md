@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Witcher 3: Wild Hunt - Nintendo Switch al 25.00 % de descuento'
-date: 2020-04-10 15:34:40
+date: 2020-04-11 23:39:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ClHWcidyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ClHWcidyL._SL200_.jpg' ]
 comments: true

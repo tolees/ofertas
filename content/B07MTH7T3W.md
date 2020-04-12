@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.97 % en Tiny Pong Solo Table Tennis Kids Electro'
-date: 2020-04-09 23:19:52
+date: 2020-04-11 23:17:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/515DlrFlXYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515DlrFlXYL._SL200_.jpg' ]
 comments: true

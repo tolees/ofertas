@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60253 Eiswagen City Spielzeug mit S al 25.36 % de descuento'
-date: 2020-03-19 09:16:43
+title: 'Descuento del 33.30 % en LEGO 60253 City Great Vehicles Ice-Cream'
+date: 2020-03-29 15:50:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LnqIJ-ANL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LnqIJ-ANL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07W4KSKXZ
 description:
-actualPrice: 14.92 EUR
-comparePrice: 19.99 EUR
+actualPrice: 12.0 GBP
+comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Está [LEGO 60253 Eiswagen City Spielzeug mit Skater- und Hundefigur  für Kinder ab 5 Jahren](https://www.amazon.com/dp/B07W4KSKXZ/?tag=redken08-20) con 25.36 de descuento por 14.92 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [LEGO 60253 City Great Vehicles Ice-Cream Truck Toy with Skater and Dog Figure for Kids 5+ Year Old](https://www.amazon.com/dp/B07W4KSKXZ/?tag=redken08-20) con un 33.30 % de descuento con precio de oferta de 12.0 GBP (original: 17.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51LnqIJ-ANL._SL200_.jpg)](https://www.amazon.com/dp/B07W4KSKXZ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07W4KSKXZ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07W4KSKXZ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

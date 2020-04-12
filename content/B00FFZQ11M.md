@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.08 % en BLACK+DECKER Tool Tote Bag for Matrix Sy'
-date: 2020-04-10 15:17:21
+date: 2020-04-11 23:17:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VRYf6k2UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VRYf6k2UL._SL200_.jpg' ]
 comments: true

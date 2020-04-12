@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Heroes: Birds of Prey - Roman Sion al 28.91 % de descuento'
-date: 2020-04-10 06:34:54
+date: 2020-04-12 06:45:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZbX-0X2VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZbX-0X2VL._SL200_.jpg' ]
 comments: true

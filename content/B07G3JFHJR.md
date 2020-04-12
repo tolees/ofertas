@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei MediaPad M5 Lite 10 - Tablet DE 1 al 28.65 % de descuento'
-date: 2020-04-05 10:07:12
+date: 2020-04-12 09:14:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/417R6kAEN6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417R6kAEN6L._SL200_.jpg' ]
 comments: true

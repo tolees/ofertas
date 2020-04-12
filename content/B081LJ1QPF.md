@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kitchen Timer  WECKEW 2 Pack Digital Kit al 31.29 % de descuento'
-date: 2020-04-10 06:38:38
+date: 2020-04-12 06:52:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qArNc98GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qArNc98GL._SL200_.jpg' ]
 comments: true

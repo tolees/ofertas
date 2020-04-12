@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAJOZ0 Technic Car Ford Mustang Building al 30.24 % de descuento'
-date: 2020-04-10 14:43:32
+date: 2020-04-12 06:53:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QviORoUyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QviORoUyL._SL200_.jpg' ]
 comments: true

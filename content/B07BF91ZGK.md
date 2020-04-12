@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XL-S Medical Captagrasas para Perder Pes al 39.54 % de descuento'
-date: 2020-04-05 15:35:59
+date: 2020-04-11 18:58:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41v9a72Xg0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41v9a72Xg0L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'External CD Drive  USB 3.0 Portable CD/D al 26.10 % de descuento'
-date: 2020-04-10 06:37:57
+date: 2020-04-12 06:47:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41otm0vTl2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41otm0vTl2L._SL200_.jpg' ]
 comments: true

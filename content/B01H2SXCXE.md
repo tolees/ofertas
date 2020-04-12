@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '10 x Strong Kitchen Plinth Clips Kick Bo al 51.13 % de descuento'
-date: 2020-04-10 06:37:07
+date: 2020-04-12 06:51:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31gnT79bqnL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31gnT79bqnL._SL500_._SL200_.jpg' ]
 comments: true

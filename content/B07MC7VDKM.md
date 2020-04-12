@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Laptop 2 - Ordenador p al 33.09 % de descuento'
-date: 2020-04-10 00:18:31
+date: 2020-04-12 00:33:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/3189GxxeZ0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3189GxxeZ0L._SL200_.jpg' ]
 comments: true

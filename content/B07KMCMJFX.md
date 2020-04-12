@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.41 % en Lenovo 65W USB 20V 3.25A Laptop Charger '
-date: 2020-04-10 06:37:54
+date: 2020-04-12 06:47:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CSQRP0msL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CSQRP0msL._SL200_.jpg' ]
 comments: true

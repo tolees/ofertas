@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Adidas Core18 Sw Top Sudadera  Hombre  A al 25.13 % de descuento'
-date: 2020-03-18 15:05:58
+title: 'Adidas Core18 Sw Top Sudadera  Hombre  A al 26.57 % de descuento'
+date: 2020-04-11 20:01:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tXMycABsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tXMycABsL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B076HQRJL2
 description:
-actualPrice: 23.95 EUR
+actualPrice: 23.49 EUR
 comparePrice: 31.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   XS](https://www.amazon.com/dp/B076HQRJL2/?tag=redken08-20) a 23.95 EUR (original: 31.99 EUR) (25.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   XS](https://www.amazon.com/dp/B076HQRJL2/?tag=redken08-20) a 23.49 EUR (original: 31.99 EUR) (26.57 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41tXMycABsL._SL200_.jpg)](https://www.amazon.com/dp/B076HQRJL2/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Series 3 ProSkin 3040 s - Afeitado al 35.98 % de descuento'
-date: 2020-04-10 08:25:07
+date: 2020-04-12 12:07:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51--uR3dZDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51--uR3dZDL._SL200_.jpg' ]
 comments: true

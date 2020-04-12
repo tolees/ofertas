@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24pc Silver Chrome Kitchen Bathroom Tile al 34.80 % de descuento'
-date: 2020-04-10 06:38:01
+date: 2020-04-12 06:51:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EJRJAX3UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EJRJAX3UL._SL200_.jpg' ]
 comments: true

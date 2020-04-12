@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.68 % en adidas V Racer 2.0  Zapatillas para Homb'
-date: 2020-04-09 22:24:30
+date: 2020-04-11 16:59:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BHn07wL+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BHn07wL+L._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 24.16 GBP
 inStock: true
 ---
 
-Está [Funko 39547 POP Town Squarepants-Spongebob with Pineapple Collectible Figure  Multicolor](https://www.amazon.com/dp/B07NSN6R2X/?tag=redken08-20) con 46.23 de descuento por 12.99 GBP (original: 24.16 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 39547 POP Town Squarepants-Spongebob with Pineapple Collectible Figure  Multicolor](https://www.amazon.com/dp/B07NSN6R2X/?tag=redken08-20) a 12.99 GBP (original: 24.16 GBP) (46.23 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ck+8-ktwL._SL200_.jpg)](https://www.amazon.com/dp/B07NSN6R2X/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07NSN6R2X/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07NSN6R2X/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

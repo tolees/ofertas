@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion Gaming 15-dk0007ng  15 6 Zol al 42.22 % de descuento'
-date: 2020-04-10 00:09:00
+date: 2020-04-12 00:00:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+kFDPDKqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+kFDPDKqL._SL200_.jpg' ]
 comments: true

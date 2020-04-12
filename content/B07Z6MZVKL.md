@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.04 % en Asus ROG Zephyrus S GX701GWR-H6063T - Po'
-date: 2020-03-14 16:50:38
+date: 2020-04-12 08:35:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bAhV79rmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bAhV79rmL._SL200_.jpg' ]
 comments: true

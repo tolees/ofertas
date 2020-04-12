@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMRON M2 - Tensiómetro de brazo  detecci al 36.75 % de descuento'
-date: 2020-04-09 11:04:13
+date: 2020-04-12 09:45:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41I3kpO7AuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41I3kpO7AuL._SL200_.jpg' ]
 comments: true

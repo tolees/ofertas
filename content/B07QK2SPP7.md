@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL FLIP 5 Waterproof Portable Bluetooth al 25.01 % de descuento'
-date: 2020-04-03 12:49:14
+date: 2020-04-12 07:13:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cvEaywM6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cvEaywM6L._SL200_.jpg' ]
 comments: true

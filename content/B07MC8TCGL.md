@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Disney The Lion King Mighty Roar  al 32.04 % de descuento'
-date: 2020-04-10 23:11:35
+date: 2020-04-11 23:17:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wg-oBl3zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wg-oBl3zL._SL200_.jpg' ]
 comments: true

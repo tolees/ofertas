@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel Energel XM Retractable Gel Pen wi al 62.40 % de descuento'
-date: 2020-04-10 22:45:15
+date: 2020-04-11 22:52:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31C5WPcRIrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31C5WPcRIrL._SL200_.jpg' ]
 comments: true

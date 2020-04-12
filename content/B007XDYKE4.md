@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Targus CN415EU 15 - 15.6-Inch Classic+ C al 37.91 % de descuento'
-date: 2020-04-10 06:38:13
+date: 2020-04-12 06:46:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Zw2YfxF6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Zw2YfxF6L._SL200_.jpg' ]
 comments: true

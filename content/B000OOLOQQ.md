@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley STA193950 Fatmax Technician Bag  al 37.55 % de descuento'
-date: 2020-04-09 23:04:05
+date: 2020-04-11 23:16:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kHFKHC1oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kHFKHC1oL._SL200_.jpg' ]
 comments: true

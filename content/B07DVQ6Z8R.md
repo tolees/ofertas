@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BenQ EX3203R - Monitor Curvo Gaming de 3 al 54.55 % de descuento'
-date: 2020-04-10 00:08:57
+date: 2020-04-11 17:50:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Pvt0-0zLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Pvt0-0zLL._SL200_.jpg' ]
 comments: true

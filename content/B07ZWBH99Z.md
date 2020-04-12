@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jumanji: The Next Level [Blu-ray] al 34.64 % de descuento'
-date: 2020-04-09 22:55:15
+date: 2020-04-11 23:04:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qP6PYnSQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qP6PYnSQL._SL200_.jpg' ]
 comments: true

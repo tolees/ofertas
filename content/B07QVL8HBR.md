@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.26 % en Huawei P30 Lite - Smartphone de 6.15"  W'
-date: 2020-04-11 04:52:10
+date: 2020-04-12 05:33:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r4bgS1aqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r4bgS1aqL._SL200_.jpg' ]
 comments: true

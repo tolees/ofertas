@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Primal Pantry Protein Bars - Mixed B al 27.59 % de descuento'
-date: 2020-04-09 22:47:19
+date: 2020-04-11 23:01:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TduCoPRtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TduCoPRtL._SL200_.jpg' ]
 comments: true

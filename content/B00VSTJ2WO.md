@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Audio SHB3075BK/00 On-Ear Kopfhö al 42.03 % de descuento'
-date: 2020-04-11 07:38:49
+date: 2020-04-12 07:50:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41obCBLFOIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41obCBLFOIL._SL200_.jpg' ]
 comments: true

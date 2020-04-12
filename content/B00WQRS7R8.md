@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.72 % en Candygirl Girls  DIY Satin Covered Headb'
-date: 2020-04-09 23:40:28
+date: 2020-04-11 23:38:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oDXbQpHmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oDXbQpHmL._SL200_.jpg' ]
 comments: true

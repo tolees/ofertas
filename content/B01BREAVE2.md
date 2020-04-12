@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.19 % en SYLVANIAN FAMILIES- Cake Decorating Set '
-date: 2020-04-10 16:46:30
+date: 2020-04-11 16:56:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mUllfhaJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mUllfhaJL._SL200_.jpg' ]
 comments: true

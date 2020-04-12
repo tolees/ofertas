@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel BL77-BO 0 7mm  1 Stück trocknet b al 38.89 % de descuento'
-date: 2020-04-11 00:03:09
+date: 2020-04-12 00:08:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NRbyyIuPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NRbyyIuPL._SL200_.jpg' ]
 comments: true

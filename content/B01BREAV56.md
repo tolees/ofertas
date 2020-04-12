@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.28 % en SYLVANIAN FAMILIES- Village Cake Shop Mi'
-date: 2020-04-10 16:45:48
+date: 2020-04-12 00:44:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/61CVXP2p28L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61CVXP2p28L._SL200_.jpg' ]
 comments: true

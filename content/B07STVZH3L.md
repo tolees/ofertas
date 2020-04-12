@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.51 % en Darksiders Genesis - PS4'
-date: 2020-04-10 00:33:08
+date: 2020-04-12 00:48:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51x3ZzuoGmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51x3ZzuoGmL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel Energel X BL107 Retractable Gel R al 28.61 % de descuento'
-date: 2020-04-10 22:46:51
+date: 2020-04-12 07:01:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/413NrIQXa1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413NrIQXa1L._SL200_.jpg' ]
 comments: true

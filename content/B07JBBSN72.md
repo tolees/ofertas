@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'E-Reader Funda para Bq Cervantes 4 Funda al 53.33 % de descuento'
-date: 2020-04-10 00:16:33
+date: 2020-04-12 00:30:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lP0fVtYNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lP0fVtYNL._SL200_.jpg' ]
 comments: true

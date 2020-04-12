@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.83 % en Logitech MX Master 2S Ratón inalámbrico '
-date: 2020-03-18 20:25:18
+date: 2020-04-12 12:46:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qc6XU1MWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qc6XU1MWL._SL200_.jpg' ]
 comments: true

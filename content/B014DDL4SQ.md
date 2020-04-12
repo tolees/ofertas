@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Cavity Protection Toothpaste Pum al 41.18 % de descuento'
-date: 2020-04-09 22:47:03
+date: 2020-04-11 23:01:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31qAWrywUUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31qAWrywUUL._SL200_.jpg' ]
 comments: true

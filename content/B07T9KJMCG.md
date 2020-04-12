@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wireless Bluetooth Headphones Over Ear   al 58.90 % de descuento'
-date: 2020-04-10 22:24:46
+date: 2020-04-11 22:36:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fxFNsBOcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fxFNsBOcL._SL200_.jpg' ]
 comments: true

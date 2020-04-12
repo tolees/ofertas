@@ -14,10 +14,10 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Está [Controller for Switch  BestOff Left and Right Controllers Compatible for Nintendo Switch Console as a Joy Con Controller](https://www.amazon.com/dp/B07VS5ZHVK/?tag=redken08-20) con 28.34 de descuento por 42.99 GBP (original: 59.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Controller for Switch  BestOff Left and Right Controllers Compatible for Nintendo Switch Console as a Joy Con Controller](https://www.amazon.com/dp/B07VS5ZHVK/?tag=redken08-20) a 42.99 GBP (original: 59.99 GBP) (28.34 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41YXi6ex35L._SL200_.jpg)](https://www.amazon.com/dp/B07VS5ZHVK/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07VS5ZHVK/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07VS5ZHVK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

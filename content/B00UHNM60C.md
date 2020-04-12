@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSTITCH Air Compressor Combo Kit  3-Too al 26.29 % de descuento'
-date: 2020-04-10 15:46:59
+date: 2020-04-11 23:51:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/512RP9Q8YCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512RP9Q8YCL._SL200_.jpg' ]
 comments: true

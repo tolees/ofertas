@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.00 % en Pentel Hybrid Gel Grip Rollerball Pen 0.'
-date: 2020-04-10 22:45:21
+date: 2020-04-11 22:52:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/21gEiMuzmVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21gEiMuzmVL._SL200_.jpg' ]
 comments: true

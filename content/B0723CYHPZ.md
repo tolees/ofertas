@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WorkTunes Connect Hearing Protector with al 36.46 % de descuento'
-date: 2020-04-10 14:58:01
+date: 2020-04-12 07:13:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51HsgZiV7wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51HsgZiV7wL._SL200_.jpg' ]
 comments: true

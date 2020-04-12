@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP OfficeJet Pro 9020 - Impresora multif al 32.78 % de descuento'
-date: 2020-04-10 23:10:42
+date: 2020-04-12 12:51:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31BTtfmczbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31BTtfmczbL._SL200_.jpg' ]
 comments: true

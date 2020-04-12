@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Science4you - La Ciencia del Slime - Bri al 34.93 % de descuento'
-date: 2020-04-10 00:26:38
+date: 2020-04-12 08:32:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ChxDDJ+PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ChxDDJ+PL._SL200_.jpg' ]
 comments: true

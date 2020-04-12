@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.89 % en Rebel Heir: Book One: The Rush Series  V'
-date: 2020-04-09 23:10:30
+date: 2020-04-11 23:22:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JNgUHQqoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JNgUHQqoL._SL200_.jpg' ]
 comments: true

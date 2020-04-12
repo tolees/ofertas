@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli - Etiquetas Adhesivas multi3 para I al 36.34 % de descuento'
-date: 2020-04-10 00:13:24
+date: 2020-04-12 00:14:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PrPkXn7+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PrPkXn7+L._SL200_.jpg' ]
 comments: true

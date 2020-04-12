@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scandalous al 75.19 % de descuento'
-date: 2020-04-09 22:33:20
+date: 2020-04-11 22:42:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fHD9wh-jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fHD9wh-jL._SL200_.jpg' ]
 comments: true

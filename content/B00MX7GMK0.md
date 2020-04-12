@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grisport 74049 Valsugana C Dakar V.9 Men al 29.72 % de descuento'
-date: 2020-04-08 19:48:43
+date: 2020-04-12 06:34:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KBJKcdP9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KBJKcdP9L._SL200_.jpg' ]
 comments: true
