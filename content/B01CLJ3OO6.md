@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.24 % en Inter Link Sammlervitrine Hängevitrine W'
-date: 2020-04-11 16:26:51
+date: 2020-04-13 08:07:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rT2axX6jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rT2axX6jL._SL200_.jpg' ]
 comments: true

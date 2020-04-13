@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Office Home and Student 2016 | al 52.66 % de descuento'
-date: 2020-04-11 08:06:55
+date: 2020-04-13 07:56:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg' ]
 comments: true

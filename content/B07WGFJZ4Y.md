@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.75 % en Küchenarmatur  TACKLIFE DAKF6F 360° Dreh'
-date: 2020-04-11 07:47:34
+date: 2020-04-13 07:42:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lTuwqvq8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lTuwqvq8L._SL200_.jpg' ]
 comments: true

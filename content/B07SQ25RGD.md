@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 4K UHD 2019 UE55RU8005 - Smart T al 42.66 % de descuento'
-date: 2020-04-11 21:52:15
+date: 2020-04-13 06:38:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/412KNEtVZbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412KNEtVZbL._SL200_.jpg' ]
 comments: true

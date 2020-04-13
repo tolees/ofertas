@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 5386 Egyptian Pharaoh s Pyrami al 28.63 % de descuento'
-date: 2020-04-11 07:00:07
+title: 'Playmobil Pirámide del Faraón 5386 al 29.36 % de descuento'
+date: 2020-04-12 00:45:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51R0dsehOwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51R0dsehOwL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01EKFF2KS
 description:
-actualPrice: 49.95 GBP
-comparePrice: 69.99 GBP
+actualPrice: 52.49 EUR
+comparePrice: 74.31 EUR
 inStock: true
 ---
 
-Está [Playmobil 5386 Egyptian Pharaoh s Pyramid with Many Hidden Tombs and Traps](https://www.amazon.com/dp/B01EKFF2KS/?tag=redken08-20) con 28.63 de descuento por 49.95 GBP (original: 69.99 GBP) en el siguiente enlace!
+Está [Playmobil Pirámide del Faraón 5386](https://www.amazon.com/dp/B01EKFF2KS/?tag=redken08-20) con 29.36 de descuento por 52.49 EUR (original: 74.31 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51R0dsehOwL._SL200_.jpg)](https://www.amazon.com/dp/B01EKFF2KS/?tag=redken08-20)
 

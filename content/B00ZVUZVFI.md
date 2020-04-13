@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WMF Gourmet Schüsselset 4-teilig  Schüss al 29.99 % de descuento'
-date: 2020-04-11 16:13:52
+date: 2020-04-13 07:51:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31THmA9mS6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31THmA9mS6L._SL200_.jpg' ]
 comments: true

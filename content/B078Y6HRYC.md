@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.11 % en Regal Schwerlastregal Regal 180x90x45 St'
-date: 2020-04-11 16:26:51
+date: 2020-04-13 00:10:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tXnJvjc6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tXnJvjc6L._SL200_.jpg' ]
 comments: true

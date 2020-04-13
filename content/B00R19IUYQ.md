@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AverMedia ExtremeCap 910 HD Recorder wit al 31.93 % de descuento'
-date: 2020-04-11 15:14:39
+date: 2020-04-13 07:15:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/413KwvHd9nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413KwvHd9nL._SL200_.jpg' ]
 comments: true

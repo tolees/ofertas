@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Aleppo Soap- 100% Natural Handmade Olive'
-date: 2020-04-11 22:58:29
+date: 2020-04-13 07:06:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ll5L66JEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ll5L66JEL._SL200_.jpg' ]
 comments: true

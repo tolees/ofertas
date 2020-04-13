@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.99 % en AFUT Fotostudio 1 5 x 2 1 M klassische H'
-date: 2020-04-12 00:13:02
+date: 2020-04-13 00:15:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/61OPaFEUXIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61OPaFEUXIL._SL200_.jpg' ]
 comments: true

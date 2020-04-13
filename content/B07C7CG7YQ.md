@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI Kids 15126 - Rollo gomets abecedari al 28.88 % de descuento'
-date: 2020-04-12 00:14:58
+date: 2020-04-13 00:19:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+kYFXNk-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+kYFXNk-L._SL200_.jpg' ]
 comments: true

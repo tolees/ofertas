@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Viedouce 2 Paquetes Delantales Cintura C al 56.69 % de descuento'
-date: 2020-04-07 21:52:13
+date: 2020-04-13 00:26:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/4121-+Fz0UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4121-+Fz0UL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.45 % en Pop! Kingdom Hearts 3 - Figura de Vinilo'
-date: 2020-04-12 00:26:16
+date: 2020-04-13 00:27:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yo-wJuQ5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yo-wJuQ5L._SL200_.jpg' ]
 comments: true

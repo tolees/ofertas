@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxmer Lámpara Vintage Colgante Luz Indu al 62.87 % de descuento'
-date: 2020-04-11 19:31:45
+date: 2020-04-13 06:40:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xPaMmU8NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xPaMmU8NL._SL200_.jpg' ]
 comments: true

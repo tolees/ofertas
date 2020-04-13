@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.83 % en Oral-B 2950N Pro 2 - Cepillo Eléctrico R'
-date: 2020-04-07 06:44:37
+date: 2020-04-13 08:16:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pABiCh0sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pABiCh0sL._SL200_.jpg' ]
 comments: true

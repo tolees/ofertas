@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10767 - Disney Pixar’s Toy Story  D al 30.12 % de descuento'
-date: 2020-04-11 08:10:10
+date: 2020-04-13 08:09:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51neQ+-CY4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51neQ+-CY4L._SL200_.jpg' ]
 comments: true

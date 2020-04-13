@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carnival Games - PlayStation 4 al 62.52 % de descuento'
-date: 2020-04-11 23:39:33
+date: 2020-04-13 07:36:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/61XIzSbRbxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61XIzSbRbxL._SL200_.jpg' ]
 comments: true

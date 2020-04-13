@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAMSWAN VR Headset  Virtual Reality Head al 33.34 % de descuento'
-date: 2020-04-11 07:15:23
+date: 2020-04-13 07:13:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41s0FIwX87L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41s0FIwX87L._SL200_.jpg' ]
 comments: true

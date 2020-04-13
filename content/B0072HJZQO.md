@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Inter Link 13500020 Regal weiß Bücherreg al 35.89 % de descuento'
-date: 2020-04-11 16:26:09
+date: 2020-04-13 00:10:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Q3dHOKwzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Q3dHOKwzL._SL200_.jpg' ]
 comments: true

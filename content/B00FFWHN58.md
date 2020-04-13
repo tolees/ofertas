@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fintie Folio Case for Kindle Fire HD 8.9 al 38.90 % de descuento'
-date: 2020-04-11 15:36:50
+date: 2020-04-13 07:24:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51x15+yUyWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51x15+yUyWL._SL200_.jpg' ]
 comments: true

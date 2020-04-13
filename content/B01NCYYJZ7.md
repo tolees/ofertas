@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yo-kai Watch Kai Reloj Temporada 2  Misc al 74.34 % de descuento'
-date: 2020-04-10 00:17:45
+date: 2020-04-13 00:22:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MFqt8cypL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MFqt8cypL._SL200_.jpg' ]
 comments: true

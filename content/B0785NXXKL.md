@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.33 % en Öuesen LED 24W lámpara de techo resisten'
-date: 2020-04-11 08:28:20
+date: 2020-04-13 08:22:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/414dn7KBcHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414dn7KBcHL._SL200_.jpg' ]
 comments: true

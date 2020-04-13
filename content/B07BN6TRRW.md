@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sonic Mania Plus al 33.64 % de descuento'
-date: 2020-04-11 08:42:28
+date: 2020-04-13 08:17:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rhXW4V5rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rhXW4V5rL._SL200_.jpg' ]
 comments: true

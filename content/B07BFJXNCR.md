@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Regalo 192-Inch Double Door Super Wide A al 25.03 % de descuento'
-date: 2020-04-11 23:31:27
+date: 2020-04-13 07:37:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qXw4vdw8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qXw4vdw8L._SL200_.jpg' ]
 comments: true
