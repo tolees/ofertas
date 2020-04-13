@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Battleship Classic Board Game Strategy G al 29.84 % de descuento'
-date: 2020-04-11 15:30:38
+date: 2020-04-12 15:31:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Hwhs3IVML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Hwhs3IVML._SL200_.jpg' ]
 comments: true

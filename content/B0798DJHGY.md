@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.93 % en Hasbro FurReal Cuddlin  Cara'
-date: 2020-04-11 14:46:07
+date: 2020-04-12 14:48:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PYOX5fNvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PYOX5fNvL._SL200_.jpg' ]
 comments: true

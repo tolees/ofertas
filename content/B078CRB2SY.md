@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original Fit Vaqueros  Rocky  al 54.64 % de descuento'
-date: 2020-04-10 14:01:40
+date: 2020-04-12 15:10:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/413VcT16ApL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413VcT16ApL._SL200_.jpg' ]
 comments: true

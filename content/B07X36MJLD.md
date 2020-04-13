@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS TUF Gaming FX505DY-BQ024 - Portátil al 28.44 % de descuento'
-date: 2020-04-11 09:01:21
+date: 2020-04-12 16:30:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cK+jyAyoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cK+jyAyoL._SL200_.jpg' ]
 comments: true

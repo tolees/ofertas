@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kitchen Knife Set with Block - 13 Stainl al 26.01 % de descuento'
-date: 2020-04-11 14:49:00
+date: 2020-04-12 14:51:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nsO-2BHeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nsO-2BHeL._SL200_.jpg' ]
 comments: true

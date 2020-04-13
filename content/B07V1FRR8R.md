@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Modern Minimalist 36W Lamps Compass Lámp al 50.96 % de descuento'
-date: 2020-04-11 22:39:57
+date: 2020-04-12 22:41:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XTbXOpy6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XTbXOpy6L._SL200_.jpg' ]
 comments: true

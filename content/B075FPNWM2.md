@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.27 % en Teeno Li - Taladro destornillador sin ca'
-date: 2020-04-07 10:03:11
+date: 2020-04-12 15:57:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg' ]
 comments: true

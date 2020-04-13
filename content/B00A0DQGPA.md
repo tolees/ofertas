@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clementoni 13405.2 - Memo Kompakt Minnie al 39.88 % de descuento'
-date: 2020-04-12 00:04:39
+date: 2020-04-13 00:06:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hMcy4G67L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hMcy4G67L._SL200_.jpg' ]
 comments: true

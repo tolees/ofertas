@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 48.45 % en Nikon AF-S DX 18-140mm f/3.5-5.6G ED VR '
-date: 2019/12/27 16:10:53 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OJXTYOVOL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OJXTYOVOL._SL200_.jpg' ]
+title: 'Descuento del 37.49 % en Nikon AF-S DX NIKKOR 18-140 f/3.5-5.6G E'
+date: 2020-02-22 13:47:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/41OJXTYOVOL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41OJXTYOVOL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00ECGX8FM
 description:
-actualPrice: 299 GBP
-comparePrice: 579.99 GBP
+actualPrice: 361.95 EUR
+comparePrice: 579.0 EUR
 inStock: true
 ---
 
-Tienes [Nikon AF-S DX 18-140mm f/3.5-5.6G ED VR Lens - Black](https://www.amazon.com/dp/B00ECGX8FM/?tag=redken08-20) con un 48.45 % de descuento con precio de oferta de 299 GBP (original: 579.99 GBP) en el siguiente enlace!
+Tienes [Nikon AF-S DX NIKKOR 18-140 f/3.5-5.6G ED VR - Objetivo para Nikon  distancia focal 18-140mm  apertura f/3.5-5.6  estabilizador  diámetro: 67mm  color negro](https://www.amazon.com/dp/B00ECGX8FM/?tag=redken08-20) con un 37.49 % de descuento con precio de oferta de 361.95 EUR (original: 579.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41OJXTYOVOL._SL200_.jpg)](https://www.amazon.com/dp/B00ECGX8FM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41OJXTYOVOL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00ECGX8FM/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00ECGX8FM/?tag=redken08-20)
 

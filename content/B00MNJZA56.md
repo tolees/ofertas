@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.96 % en Bristan MH SNK EF C Manhattan Easyfit Ki'
-date: 2020-04-11 22:47:46
+date: 2020-04-12 22:51:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ma8SKTsNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ma8SKTsNL._SL200_.jpg' ]
 comments: true

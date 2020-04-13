@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kitchen Knife Block Set with Colour Codi al 40.19 % de descuento'
-date: 2020-04-11 14:49:04
+date: 2020-04-12 14:52:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UP9Bno-RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UP9Bno-RL._SL200_.jpg' ]
 comments: true

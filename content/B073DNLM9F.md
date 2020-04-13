@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tactical Pen for Self-Defense + LED Tact al 35.06 % de descuento'
-date: 2020-04-11 15:22:30
+date: 2020-04-12 15:27:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/511RNXS-X7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511RNXS-X7L._SL200_.jpg' ]
 comments: true

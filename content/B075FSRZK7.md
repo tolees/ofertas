@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.50 % en Jumanji: Welcome to the Jungle [4K Ultra'
-date: 2020-04-11 15:27:10
+date: 2020-04-12 15:29:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/616LxUpc40L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/616LxUpc40L._SL200_.jpg' ]
 comments: true

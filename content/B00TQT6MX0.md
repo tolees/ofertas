@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming The Game of Life Junior Ga al 26.05 % de descuento'
-date: 2020-04-11 14:45:39
+date: 2020-04-12 14:47:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/512y0fbdDZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512y0fbdDZL._SL200_.jpg' ]
 comments: true

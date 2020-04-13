@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 30523 Batman Movie The Joker Battle al 56.93 % de descuento'
-date: 2020-04-11 23:26:53
+date: 2020-04-12 23:31:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iWgfauydL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iWgfauydL._SL200_.jpg' ]
 comments: true

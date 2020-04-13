@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Lego Jurassic World - Nintendo Switch'
-date: 2020-04-11 07:37:55
+date: 2020-04-12 15:36:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+r3YSkQQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+r3YSkQQL._SL200_.jpg' ]
 comments: true

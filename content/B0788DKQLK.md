@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.02 % en INTEY Funda Moto Tamaño XXL de 26.5 * 10'
-date: 2020-04-10 12:19:29
+date: 2020-04-12 21:05:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Nfw0vCR+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Nfw0vCR+L._SL200_.jpg' ]
 comments: true

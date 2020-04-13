@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.22 % en Rotulador puntafina STABILO point 88 - E'
-date: 2020-03-28 18:06:14
+date: 2020-04-12 15:20:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Dq6qt0sTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Dq6qt0sTL._SL200_.jpg' ]
 comments: true

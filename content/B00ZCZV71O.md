@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VTech Kidizoom Smartwatch DX - Purple al 29.24 % de descuento'
-date: 2020-04-10 23:38:06
+date: 2020-04-12 23:55:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uTcjQW7wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uTcjQW7wL._SL200_.jpg' ]
 comments: true

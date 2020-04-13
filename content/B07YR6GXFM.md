@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'got cabezon? - White Outer & Black Inner al 33.34 % de descuento'
-date: 2020-04-08 04:59:32
+date: 2020-04-12 15:14:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vlwt6dNRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vlwt6dNRL._SL200_.jpg' ]
 comments: true

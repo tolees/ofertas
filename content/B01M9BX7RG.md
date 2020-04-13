@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Silla de paseo compacta iCOO Acrobat has al 42.70 % de descuento'
-date: 2020-03-12 11:15:24
+date: 2020-04-12 16:45:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WFcqkfNLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WFcqkfNLL._SL200_.jpg' ]
 comments: true

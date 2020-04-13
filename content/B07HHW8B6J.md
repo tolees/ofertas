@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Makita XT612M 18V LXT Lithium-Ion Brushl al 59.80 % de descuento'
-date: 2020-04-11 23:19:05
+date: 2020-04-12 23:20:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51844xDidbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51844xDidbL._SL200_.jpg' ]
 comments: true

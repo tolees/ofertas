@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI GS65 9SE-461 Stealth  39 6 cm/15 6 Z al 68.90 % de descuento'
-date: 2020-04-12 00:00:24
+date: 2020-04-13 00:02:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MKyKaFuqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MKyKaFuqL._SL200_.jpg' ]
 comments: true

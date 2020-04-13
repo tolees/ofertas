@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.34 % en BlueParrott B450-XT Noise Cancelling Blu'
-date: 2020-04-11 15:18:48
+date: 2020-04-12 15:22:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eLIDuqe6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eLIDuqe6L._SL200_.jpg' ]
 comments: true

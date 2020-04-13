@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Star Wars Jedi: Fallen Order - Xbox One al 33.34 % de descuento'
-date: 2020-04-11 07:36:27
+title: 'Star Wars Jedi: Fallen Order - Xbox One al 36.67 % de descuento'
+date: 2020-04-12 15:55:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iaEDhNFlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iaEDhNFlL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07QQ8W3HG
 description:
-actualPrice: 39.99 USD
+actualPrice: 37.99 USD
 comparePrice: 59.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Star Wars Jedi: Fallen Order - Xbox One](https://www.amazon.com/dp/B07QQ8W3HG/?tag=redken08-20) a 39.99 USD (original: 59.99 USD) (33.34 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Star Wars Jedi: Fallen Order - Xbox One](https://www.amazon.com/dp/B07QQ8W3HG/?tag=redken08-20) a 37.99 USD (original: 59.99 USD) (36.67 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51iaEDhNFlL._SL200_.jpg)](https://www.amazon.com/dp/B07QQ8W3HG/?tag=redken08-20)
 

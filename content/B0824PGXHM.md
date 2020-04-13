@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.44 % en Young & Ming Funda para Xiaomi Redmi Not'
-date: 2020-04-10 19:10:25
+date: 2020-04-12 17:08:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FKqes5M9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FKqes5M9L._SL200_.jpg' ]
 comments: true

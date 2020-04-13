@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fire HD 8 Tablet  32 GB  Blue—with Speci al 35.00 % de descuento'
-date: 2020-04-11 22:45:59
+date: 2020-04-12 22:48:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/414ciBL2CVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414ciBL2CVL._SL200_.jpg' ]
 comments: true

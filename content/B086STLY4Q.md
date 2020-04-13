@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAJOZ0 Technic Car McLaren 720s Building al 30.13 % de descuento'
-date: 2020-04-11 14:56:10
+date: 2020-04-12 14:59:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RyR5PpU4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RyR5PpU4L._SL200_.jpg' ]
 comments: true

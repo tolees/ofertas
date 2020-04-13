@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Modern Techodo LED Moderno Simple and Co al 50.96 % de descuento'
-date: 2020-04-11 22:39:39
+date: 2020-04-12 22:41:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41F7SsuUpyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41F7SsuUpyL._SL200_.jpg' ]
 comments: true

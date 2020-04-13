@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.16 % en Regal Tip BR-575-YJ Yellow Jacket Retrac'
-date: 2020-04-11 23:30:33
+date: 2020-04-12 23:41:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/312tLq7lhEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312tLq7lhEL._SL200_.jpg' ]
 comments: true

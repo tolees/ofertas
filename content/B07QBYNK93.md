@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scissors  VERONES 8 Inch Soft Comfort-Gr al 40.02 % de descuento'
-date: 2020-04-11 14:40:32
+date: 2020-04-12 22:39:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oTUj8BzEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oTUj8BzEL._SL200_.jpg' ]
 comments: true

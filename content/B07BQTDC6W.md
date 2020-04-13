@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KOALA Inkjet Photo Paper A4 Glossy 100 S al 36.17 % de descuento'
-date: 2020-04-11 14:39:44
+date: 2020-04-12 22:39:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IJioipABL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IJioipABL._SL200_.jpg' ]
 comments: true

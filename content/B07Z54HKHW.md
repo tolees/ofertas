@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zombieland: Double Tap [Blu-ray] [2019]  al 33.36 % de descuento'
-date: 2020-04-11 22:34:11
+date: 2020-04-12 22:37:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eI3du1E-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eI3du1E-L._SL200_.jpg' ]
 comments: true

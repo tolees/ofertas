@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Trivial Pursuit Family Edi al 25.81 % de descuento'
-date: 2020-04-09 06:33:46
+date: 2020-04-12 22:47:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XGKM5fzEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XGKM5fzEL._SL200_.jpg' ]
 comments: true
