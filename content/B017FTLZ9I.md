@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KS Tools 713.1103 módulo de abolladuras  al 25.43 % de descuento'
-date: 2020-04-12 16:45:13
+date: 2020-04-13 17:05:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/419OTu7VTyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419OTu7VTyL._SL200_.jpg' ]
 comments: true

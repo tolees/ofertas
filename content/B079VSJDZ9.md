@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro FurReal E0367EU4 - Kleiner Patien al 40.46 % de descuento'
-date: 2020-04-11 16:12:08
+date: 2020-04-13 16:06:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/61zz4FIgZ8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61zz4FIgZ8L._SL200_.jpg' ]
 comments: true

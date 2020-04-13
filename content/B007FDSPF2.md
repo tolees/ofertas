@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.27 % en Twister - Hasbro Gaming  Hasbro 98831175'
-date: 2020-03-14 15:38:27
+date: 2020-04-13 13:14:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TK6fdfZzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TK6fdfZzL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LTDNB Cargador Inalámbrico 10W Qi Wirele al 50.02 % de descuento'
-date: 2020-04-11 09:24:49
+date: 2020-04-13 08:46:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VjJ07bcoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VjJ07bcoL._SL200_.jpg' ]
 comments: true

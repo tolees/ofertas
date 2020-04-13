@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Just Dance 2020 - Xbox One Standard Edit al 35.01 % de descuento'
-date: 2020-04-12 15:39:48
+date: 2020-04-13 15:53:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GTb0zfcvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GTb0zfcvL._SL200_.jpg' ]
 comments: true

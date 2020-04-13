@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Consola de Juegos Portátil  Consola de J al 27.89 % de descuento'
-date: 2020-04-11 08:59:27
+date: 2020-04-13 08:38:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/512o0lHtQaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512o0lHtQaL._SL200_.jpg' ]
 comments: true

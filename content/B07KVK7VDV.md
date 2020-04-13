@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.10 % en Tela de proyección Lux-Screen Formato 10'
-date: 2020-03-23 16:10:40
+date: 2020-04-13 10:04:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OdhrktEgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OdhrktEgL._SL200_.jpg' ]
 comments: true

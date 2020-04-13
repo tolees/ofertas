@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en HolyHigh Auriculares Bluetooth 5.0 Inalá'
-date: 2020-04-08 14:13:31
+date: 2020-04-13 09:53:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/412II8tkvcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412II8tkvcL._SL200_.jpg' ]
 comments: true

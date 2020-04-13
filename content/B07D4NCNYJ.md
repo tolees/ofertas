@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krups Dispensador de cerveza The Sub Com al 42.50 % de descuento'
-date: 2020-03-28 09:46:34
+date: 2020-04-13 17:19:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31HV2dtBj1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31HV2dtBj1L._SL200_.jpg' ]
 comments: true

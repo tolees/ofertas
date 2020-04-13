@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Kids Kid Couleur rotuladores punta m al 50.06 % de descuento'
-date: 2020-04-12 11:14:11
+date: 2020-04-13 15:08:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/518pWQhESQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518pWQhESQL._SL200_.jpg' ]
 comments: true

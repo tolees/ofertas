@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playskool Mr. Potato Head Tater Tub Set  al 46.68 % de descuento'
-date: 2020-04-11 23:52:03
+date: 2020-04-13 15:54:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JxkHnp-gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JxkHnp-gL._SL200_.jpg' ]
 comments: true

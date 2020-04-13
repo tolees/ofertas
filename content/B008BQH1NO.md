@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon - Funda de cuero para Kindle Pape al 41.30 % de descuento'
-date: 2020-04-11 08:51:16
+date: 2020-04-13 08:29:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YgOuV00EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YgOuV00EL._SL200_.jpg' ]
 comments: true

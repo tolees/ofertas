@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMRON M3 Comfort - Tensiómetro de brazo  al 48.31 % de descuento'
-date: 2020-04-02 16:22:01
+date: 2020-04-13 15:32:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41toOh3++7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41toOh3++7L._SL200_.jpg' ]
 comments: true

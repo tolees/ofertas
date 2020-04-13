@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DEWALT  DWST17806  Tstak Tool Box  Deep al 38.95 % de descuento'
-date: 2020-04-11 23:50:59
+date: 2020-04-13 15:49:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kKKswoaLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kKKswoaLL._SL200_.jpg' ]
 comments: true

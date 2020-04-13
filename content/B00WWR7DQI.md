@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Super Heroes - Classics al 26.12 % de descuento'
-date: 2020-04-11 08:57:59
+date: 2020-04-13 08:37:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vsVz-ksdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vsVz-ksdL._SL200_.jpg' ]
 comments: true

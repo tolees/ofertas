@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic EW1211W845 Irrigador Bucal Elé al 44.08 % de descuento'
-date: 2020-04-12 07:54:23
+date: 2020-04-13 09:50:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/419RJcNrI1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419RJcNrI1L._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Philips Lumea Essential BRI861/00 - Depi al 45.17 % de descuento'
-date: 2020-02-15 13:28:14
-thumbnailImage: 'https://m.media-amazon.com/images/I/31Yg3mnfGwL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31Yg3mnfGwL._AC_._SL200_.jpg' ]
+title: 'Philips Lumea Essential BRI861/00 - Depi al 25.51 % de descuento'
+date: 2020-04-13 15:32:03
+thumbnailImage: 'https://m.media-amazon.com/images/I/31Yg3mnfGwL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31Yg3mnfGwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01LNVF7PW
 description:
-actualPrice: 109.65 EUR
+actualPrice: 148.98 EUR
 comparePrice: 199.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Philips Lumea Essential BRI861/00 - Depiladora Luz Pulsada para la Depilación Permanente del Vello Visible en Casa con 1 Cabezal: Cuerpo  Blanco y Verde](https://www.amazon.com/dp/B01LNVF7PW/?tag=redken08-20) a 109.65 EUR (original: 199.99 EUR) (45.17 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Philips Lumea Essential BRI861/00 - Depiladora luz pulsada para la depilación permanente del vello visible en casa con 1 cabezal  Color rosa](https://www.amazon.com/dp/B01LNVF7PW/?tag=redken08-20) a 148.98 EUR (original: 199.99 EUR) (25.51 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31Yg3mnfGwL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01LNVF7PW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31Yg3mnfGwL._SL200_.jpg)](https://www.amazon.com/dp/B01LNVF7PW/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01LNVF7PW/?tag=redken08-20)
 

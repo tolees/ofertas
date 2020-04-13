@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP Television: Bob Ross al 30.02 % de descuento'
-date: 2020-04-09 15:31:43
+date: 2020-04-13 16:01:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/514mWsb7uiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514mWsb7uiL._SL200_.jpg' ]
 comments: true

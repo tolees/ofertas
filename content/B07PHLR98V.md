@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Watch GT Active Smartwatch  46 mm al 64.26 % de descuento'
-date: 2020-04-07 09:34:06
+date: 2020-04-13 08:35:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oaQRAnS+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oaQRAnS+L._SL200_.jpg' ]
 comments: true

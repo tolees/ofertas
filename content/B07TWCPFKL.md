@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.51 % en Kit de monopie para cámara Cayer AT35  P'
-date: 2020-04-11 08:52:16
+date: 2020-04-13 08:45:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/413xv0IFgUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413xv0IFgUL._SL200_.jpg' ]
 comments: true

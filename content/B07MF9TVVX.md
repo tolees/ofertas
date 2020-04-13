@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.96 % en SeeKool Pandora 11 Juegos clásicos Conso'
-date: 2020-04-11 09:00:10
+date: 2020-04-13 08:38:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TJ0i4sBhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TJ0i4sBhL._SL200_.jpg' ]
 comments: true

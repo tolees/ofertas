@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Cecomixer Easy - Batidora Amasad al 41.06 % de descuento'
-date: 2020-04-11 16:49:21
+date: 2020-04-13 16:57:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nV4qLd86L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nV4qLd86L._SL200_.jpg' ]
 comments: true

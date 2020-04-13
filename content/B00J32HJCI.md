@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dell 8GB DDR3L-1600 PC3L-12800 204Pin So al 59.01 % de descuento'
-date: 2020-04-09 07:11:08
+date: 2020-04-13 15:34:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Q5c2kMikL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Q5c2kMikL._SL200_.jpg' ]
 comments: true

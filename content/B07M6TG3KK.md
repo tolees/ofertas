@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.02 % en NERF Fortnite Sp-L Elite Dart Blaster'
-date: 2020-04-11 16:08:30
+date: 2020-04-13 15:26:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/3163BfSkprL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3163BfSkprL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger 26633 Card Game Memory al 37.34 % de descuento'
-date: 2020-04-11 15:02:45
+date: 2020-04-13 14:53:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51G6PP72-QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51G6PP72-QL._SL200_.jpg' ]
 comments: true

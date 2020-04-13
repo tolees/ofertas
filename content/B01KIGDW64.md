@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calico Critters Ice Skating Friends al 37.94 % de descuento'
-date: 2020-04-11 15:49:25
+date: 2020-04-13 15:46:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/413iZhGVZJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413iZhGVZJL._SL200_.jpg' ]
 comments: true

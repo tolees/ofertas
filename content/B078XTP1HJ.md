@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 64.29 % en Kitchen Emperor Cuchillo de Cocina  Prof'
-date: 2020-04-12 16:39:10
+date: 2020-04-13 16:56:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Na69hD7iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Na69hD7iL._SL200_.jpg' ]
 comments: true

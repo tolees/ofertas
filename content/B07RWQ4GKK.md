@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.89 % en The Simulation Hypothesis: An MIT Comput'
-date: 2020-04-12 07:49:54
+date: 2020-04-13 15:58:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51S2AqygvBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51S2AqygvBL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Mario + Rabbids Kingdom Battle - Nintend al 58.14 % de descuento'
-date: 2020-04-11 15:56:53
+title: 'Mario + Rabbids Kingdom Battle - Nintend al 63.41 % de descuento'
+date: 2020-04-13 15:52:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IFnBhKeQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IFnBhKeQL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B071JRMKBH
 description:
-actualPrice: 25.11 USD
+actualPrice: 21.95 USD
 comparePrice: 59.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Mario + Rabbids Kingdom Battle - Nintendo Switch Standard Edition](https://www.amazon.com/dp/B071JRMKBH/?tag=redken08-20) a 25.11 USD (original: 59.99 USD) (58.14 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Mario + Rabbids Kingdom Battle - Nintendo Switch Standard Edition](https://www.amazon.com/dp/B071JRMKBH/?tag=redken08-20) a 21.95 USD (original: 59.99 USD) (63.41 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51IFnBhKeQL._SL200_.jpg)](https://www.amazon.com/dp/B071JRMKBH/?tag=redken08-20)
 
