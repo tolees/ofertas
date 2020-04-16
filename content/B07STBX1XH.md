@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 58.75 % en Proyector YABER Mini Portátil Proyector '
-date: 2020-04-13 08:45:44
+date: 2020-04-14 17:14:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gO94gwxJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gO94gwxJL._SL200_.jpg' ]
 comments: true

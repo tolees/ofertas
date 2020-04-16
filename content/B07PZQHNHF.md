@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo 81MT001SSP  Ordenador Portátil  L al 29.55 % de descuento'
-date: 2020-04-12 21:09:12
+date: 2020-04-14 22:07:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+tPPC6N4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+tPPC6N4L._SL200_.jpg' ]
 comments: true

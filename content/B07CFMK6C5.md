@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Spyro Reignited Trilogy al 37.61 % de descuento'
-date: 2019/12/29 09:22:59 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg' ]
+title: 'Spyro Reignited Trilogy al 30.11 % de descuento'
+date: 2020-04-14 19:45:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07CFMK6C5
 description:
-actualPrice: 24.95 EUR
+actualPrice: 27.95 EUR
 comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Spyro Reignited Trilogy](https://www.amazon.com/dp/B07CFMK6C5/?tag=redken08-20) con 37.61 de descuento por 24.95 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Spyro Reignited Trilogy](https://www.amazon.com/dp/B07CFMK6C5/?tag=redken08-20) con 30.11 de descuento por 27.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg)](https://www.amazon.com/dp/B07CFMK6C5/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg)](https://www.amazon.com/dp/B07CFMK6C5/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07CFMK6C5/?tag=redken08-20)
 

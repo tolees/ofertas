@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beard Grooming Kit by Benjamin Bernard - al 25.00 % de descuento'
-date: 2020-04-11 16:41:55
+date: 2020-04-14 09:01:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Gr3NGlBeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Gr3NGlBeL._SL200_.jpg' ]
 comments: true

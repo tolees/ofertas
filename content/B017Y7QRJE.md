@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Milwaukee 48-22-4255 48224255 Reaming Pe al 25.82 % de descuento'
-date: 2020-04-12 06:42:14
+date: 2020-04-15 22:50:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31g6sY8nUAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31g6sY8nUAL._SL200_.jpg' ]
 comments: true

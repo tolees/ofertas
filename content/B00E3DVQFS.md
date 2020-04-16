@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.36 % en Duracell Rechargeable AA 2500 mAh Batter'
-date: 2020-04-12 23:09:45
+date: 2020-04-15 23:11:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t4N+nUC2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t4N+nUC2L._SL200_.jpg' ]
 comments: true

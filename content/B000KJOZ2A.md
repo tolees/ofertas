@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q-Connect - Cinta Adhesiva Kf02164  33 M al 46.15 % de descuento'
-date: 2020-04-13 00:18:34
+date: 2020-04-15 00:25:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/4116gR6DHPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4116gR6DHPL._SL200_.jpg' ]
 comments: true

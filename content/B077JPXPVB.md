@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 54.21 % en GOXAWEE Herramienta rotativa multifunció'
-date: 2020-02-14 07:11:44
-thumbnailImage: 'https://m.media-amazon.com/images/I/518H2qI-KZL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/518H2qI-KZL._AC_._SL200_.jpg' ]
+date: 2020-04-14 08:55:32
+thumbnailImage: 'https://m.media-amazon.com/images/I/518H2qI-KZL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/518H2qI-KZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [GOXAWEE Herramienta rotativa multifunción 240W Amoladora Recta Electrica con Avanzado Eje flexible 3mm y 170 accesorios para bricolaje herramientas](https://www.amazon.com/dp/B077JPXPVB/?tag=redken08-20) con un 54.21 % de descuento con precio de oferta de 59.98 EUR (original: 130.98 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/518H2qI-KZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B077JPXPVB/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/518H2qI-KZL._SL200_.jpg)](https://www.amazon.com/dp/B077JPXPVB/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B077JPXPVB/?tag=redken08-20)
 

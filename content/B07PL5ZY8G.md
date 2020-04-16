@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.86 % en Park Tool PCS-10.2 Montageständer  blau '
-date: 2020-04-13 00:16:49
+date: 2020-04-15 23:54:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31AQ+M7JkVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31AQ+M7JkVL._SL200_.jpg' ]
 comments: true

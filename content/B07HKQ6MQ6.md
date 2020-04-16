@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.39 % en KOALA Inkjet Photo Paper A4 Glossy 20 Sh'
-date: 2020-04-12 22:39:30
+date: 2020-04-14 14:42:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ENjl7XoJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ENjl7XoJL._SL200_.jpg' ]
 comments: true

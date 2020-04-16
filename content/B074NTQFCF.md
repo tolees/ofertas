@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SALCAR Caja con USB 3.0 para Disco Duro  al 55.64 % de descuento'
-date: 2020-04-13 17:16:50
+date: 2020-04-15 16:54:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XwRziGVVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XwRziGVVL._SL200_.jpg' ]
 comments: true

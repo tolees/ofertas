@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KOALA Double Sided Matte Inkjet Photo Pa al 33.35 % de descuento'
-date: 2020-04-12 22:39:24
+date: 2020-04-14 14:42:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BoZBje4cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BoZBje4cL._SL200_.jpg' ]
 comments: true

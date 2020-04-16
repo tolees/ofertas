@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Star Wars SW Movie E7 Robot Inteligente  al 49.48 % de descuento'
-date: 2020-04-13 08:19:33
+title: 'Star Wars SW Movie E7 Robot Inteligente  al 55.30 % de descuento'
+date: 2020-04-14 08:56:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ESAgBa9pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ESAgBa9pL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01L93GCTO
 description:
-actualPrice: 50.51 EUR
+actualPrice: 44.7 EUR
 comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Star Wars SW Movie E7 Robot Inteligente R2D2  Multicolor  Hasbro B7493EU0 ](https://www.amazon.com/dp/B01L93GCTO/?tag=redken08-20) a 50.51 EUR (original: 99.99 EUR) (49.48 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Star Wars SW Movie E7 Robot Inteligente R2D2  Multicolor  Hasbro B7493EU0 ](https://www.amazon.com/dp/B01L93GCTO/?tag=redken08-20) a 44.7 EUR (original: 99.99 EUR) (55.30 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ESAgBa9pL._SL200_.jpg)](https://www.amazon.com/dp/B01L93GCTO/?tag=redken08-20)
 

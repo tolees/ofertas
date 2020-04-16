@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk SDSQXAO-128G-GNCZN microSDXC UHS al 48.79 % de descuento'
-date: 2020-04-13 14:52:40
+date: 2020-04-14 14:59:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dsC4jf8JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dsC4jf8JL._SL200_.jpg' ]
 comments: true

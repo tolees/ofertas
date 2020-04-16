@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Django Unchained [Blu-ray] al 59.89 % de descuento'
-date: 2020-04-13 15:45:01
+date: 2020-04-14 15:57:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/514Sgw76OVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514Sgw76OVL._SL200_.jpg' ]
 comments: true

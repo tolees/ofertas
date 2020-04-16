@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 39914 POP Deluxe: Star Wars The Ri al 40.35 % de descuento'
-date: 2020-04-11 16:02:52
+date: 2020-04-15 15:34:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bbBwV4XCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bbBwV4XCL._SL200_.jpg' ]
 comments: true

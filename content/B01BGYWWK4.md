@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.54 % en Magno - Gel de ducha Marine Fresh - 550m'
-date: 2020-04-13 07:07:34
+date: 2020-04-15 12:27:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FgSpkqvVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FgSpkqvVL._SL200_.jpg' ]
 comments: true

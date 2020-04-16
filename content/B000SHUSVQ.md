@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.20 % en Pentel P200 Automatic Pencil  0.5 mm - B'
-date: 2020-04-12 22:59:56
+date: 2020-04-15 23:04:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FPdShpqhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FPdShpqhL._SL200_.jpg' ]
 comments: true

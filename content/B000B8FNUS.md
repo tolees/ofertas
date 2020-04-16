@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leifheit Wandrollenhalter Parat Plus Com al 42.78 % de descuento'
-date: 2020-04-12 23:42:21
+date: 2020-04-14 23:43:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RIPmhdMAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RIPmhdMAL._SL200_.jpg' ]
 comments: true

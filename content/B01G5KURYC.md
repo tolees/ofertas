@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.15 % en Zolion® Laptop Stand solide haut de gamm'
-date: 2020-04-08 05:35:11
+date: 2020-04-14 00:17:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Wc5P-W9QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Wc5P-W9QL._SL200_.jpg' ]
 comments: true

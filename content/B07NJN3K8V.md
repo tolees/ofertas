@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Legion Y530 - Ordenador portátil  al 34.58 % de descuento'
-date: 2020-04-13 08:27:11
+date: 2020-04-14 09:09:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41x-Wdi6SgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41x-Wdi6SgL._SL200_.jpg' ]
 comments: true

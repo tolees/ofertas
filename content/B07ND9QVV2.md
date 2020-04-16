@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO 70421 Hidden Side El Fuego s Stunt  al 25.78 % de descuento'
-date: 2019/12/25 00:37:16 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514z7qb5%2BLL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514z7qb5%2BLL._SL200_.jpg' ]
+title: 'LEGO 70421 Hidden Side EL Fuego´s Stunt  al 25.01 % de descuento'
+date: 2020-04-15 00:05:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/51CGU0tnRHL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51CGU0tnRHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07ND9QVV2
 description:
-actualPrice: 25.97 GBP
-comparePrice: 34.99 GBP
+actualPrice: 29.99 EUR
+comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [LEGO 70421 Hidden Side El Fuego s Stunt Truck Toy  AR Games App  Interactive Augmented Reality Ghost Playset for iPhone/Android](https://www.amazon.com/dp/B07ND9QVV2/?tag=redken08-20) con 25.78 de descuento por 25.97 GBP (original: 34.99 GBP) en el siguiente enlace!
+Está [LEGO 70421 Hidden Side EL Fuego´s Stunt Truck Kinderspielzeug  Augmented Reality Funktionen](https://www.amazon.com/dp/B07ND9QVV2/?tag=redken08-20) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/514z7qb5%2BLL._SL200_.jpg)](https://www.amazon.com/dp/B07ND9QVV2/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51CGU0tnRHL._SL200_.jpg)](https://www.amazon.com/dp/B07ND9QVV2/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07ND9QVV2/?tag=redken08-20)
 

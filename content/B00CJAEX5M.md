@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.82 % en Logitech F710 Gamepad Inalámbrico  2 4 G'
-date: 2020-04-13 08:36:41
+date: 2020-04-14 13:14:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C63dGrrrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C63dGrrrL._SL200_.jpg' ]
 comments: true

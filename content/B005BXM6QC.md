@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 58.70 % en Pentel EnerGel NV Gel Ink Pen   0.7mm   '
-date: 2020-04-11 23:47:33
+date: 2020-04-14 07:41:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/515Nr1Eor0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515Nr1Eor0L._SL200_.jpg' ]
 comments: true

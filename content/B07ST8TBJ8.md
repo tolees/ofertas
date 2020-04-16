@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en HolyHigh Auriculares Bluetooth 5.0 Auric'
-date: 2020-03-25 12:49:52
+date: 2020-04-15 12:31:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wk-TCUGUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wk-TCUGUL._SL200_.jpg' ]
 comments: true

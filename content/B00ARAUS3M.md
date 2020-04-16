@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Descuento del 32.60 % en Bosch Professional GBA 18 V 4.0 Ah CoolP'
-date: 2019/12/31 14:08:40 +0000
-thumbnailImage: 'None._SL200_'
-images: [ 'None._SL200_' ]
+title: 'Bosch Professional 18V System Akku GBA 1 al 56.66 % de descuento'
+date: 2020-02-29 19:18:20
+thumbnailImage: 'https://m.media-amazon.com/images/I/4188lo5UtTL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/4188lo5UtTL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00ARAUS3M
 description:
-actualPrice: 28.95 GBP
-comparePrice: 42.95 GBP
+actualPrice: 45.9 EUR
+comparePrice: 105.91 EUR
 inStock: true
 ---
 
-Tienes [Bosch Professional GBA 18 V 4.0 Ah CoolPack Lithium-Ion Battery](https://www.amazon.com/dp/B00ARAUS3M/?tag=redken08-20) con un 32.60 % de descuento con precio de oferta de 28.95 GBP (original: 42.95 GBP) en el siguiente enlace!
+Está [Bosch Professional 18V System Akku GBA 18V 4.0Ah](https://www.amazon.com/dp/B00ARAUS3M/?tag=redken08-20) con 56.66 de descuento por 45.9 EUR (original: 105.91 EUR) en el siguiente enlace!
 
-[![](None._SL200_)](https://www.amazon.com/dp/B00ARAUS3M/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/4188lo5UtTL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00ARAUS3M/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00ARAUS3M/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00ARAUS3M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

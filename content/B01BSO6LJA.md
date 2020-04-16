@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Sonicare DailyClean HX3212/03  C al 33.64 % de descuento'
-date: 2020-03-31 15:03:43
+date: 2020-04-14 18:49:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/21Bg8hZLBoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21Bg8hZLBoL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kindle Fire Charger [UL Listed] Compatib al 33.35 % de descuento'
-date: 2020-04-12 23:22:54
+date: 2020-04-14 07:33:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gm7weDuYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gm7weDuYL._SL200_.jpg' ]
 comments: true

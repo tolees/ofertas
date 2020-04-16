@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.47 % en Pentel Superb Ball Pen - Blue - Pack of '
-date: 2020-04-12 22:59:45
+date: 2020-04-15 23:03:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/21ONks3CupL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21ONks3CupL._SL200_.jpg' ]
 comments: true

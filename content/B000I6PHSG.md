@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avery C32016-25 Printable Double-Sided S al 41.33 % de descuento'
-date: 2020-04-12 22:39:09
+date: 2020-04-15 14:42:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51E8YJ1RDsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51E8YJ1RDsL._SL200_.jpg' ]
 comments: true

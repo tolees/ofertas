@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1917 [Blu-ray] al 37.77 % de descuento'
-date: 2020-04-12 23:11:37
+date: 2020-04-14 07:09:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51THm2tH+bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51THm2tH+bL._SL200_.jpg' ]
 comments: true

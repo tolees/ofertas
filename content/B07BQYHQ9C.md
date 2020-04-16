@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.35 % en Movimientos para DIY Caja de Música Musi'
-date: 2020-04-12 00:42:39
+date: 2020-04-15 08:34:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O2gHh-VyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O2gHh-VyL._SL200_.jpg' ]
 comments: true

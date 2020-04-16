@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joker  Blu-ray  al 58.43 % de descuento'
-date: 2020-04-13 15:24:50
+date: 2020-04-14 23:15:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/519rvY718lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519rvY718lL._SL200_.jpg' ]
 comments: true

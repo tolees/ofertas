@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.63 % en Hasbro Gaming E3278100 Monopoly Game of '
-date: 2020-04-08 13:08:39
+date: 2020-04-13 23:48:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/513tezIptsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513tezIptsL._SL200_.jpg' ]
 comments: true

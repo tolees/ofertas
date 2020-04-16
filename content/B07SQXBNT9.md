@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YAMAY Smartwatch  Impermeable Reloj Inte al 39.81 % de descuento'
-date: 2020-03-28 20:22:28
+date: 2020-04-14 17:43:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mMW+OpjiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mMW+OpjiL._SL200_.jpg' ]
 comments: true

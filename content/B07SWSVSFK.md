@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Outer Worlds   Xbox One al 50.01 % de descuento'
-date: 2020-04-12 15:55:29
+date: 2020-04-13 23:41:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/511y6C6tV9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511y6C6tV9L._SL200_.jpg' ]
 comments: true

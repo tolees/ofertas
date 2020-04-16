@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.79 % en FELiCON K109 Juegos De una Sola Mano Tec'
-date: 2020-04-13 17:08:38
+date: 2020-04-14 17:18:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/514TgOV6UyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514TgOV6UyL._SL200_.jpg' ]
 comments: true

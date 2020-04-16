@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Slice 10548 Craft Cutter Knife With Remo al 66.18 % de descuento'
-date: 2020-04-11 06:40:16
+date: 2020-04-15 22:44:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kcxB-ofHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kcxB-ofHL._SL200_.jpg' ]
 comments: true

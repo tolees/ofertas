@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gifts Treat Navidad Botella de Vino Tint al 45.55 % de descuento'
-date: 2020-04-12 00:30:16
+date: 2020-04-15 00:34:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41agZ3Nv3PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41agZ3Nv3PL._SL200_.jpg' ]
 comments: true

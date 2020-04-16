@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.27 % en LEGO Star Wars Minifigure - Jango Fett  '
-date: 2020-04-08 05:11:54
+date: 2020-04-14 07:40:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gVgFFPmfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gVgFFPmfL._SL200_.jpg' ]
 comments: true

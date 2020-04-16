@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.32 % en Cecotec Aspirador Ciclónico Vertical Con'
-date: 2020-04-12 17:46:10
+date: 2020-04-14 10:38:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31U2sSAJO0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31U2sSAJO0L._SL200_.jpg' ]
 comments: true

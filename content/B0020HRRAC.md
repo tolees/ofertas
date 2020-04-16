@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.55 % en Craft Weste Visibility Vest Warnweste  n'
-date: 2020-04-13 15:58:19
+date: 2020-04-14 16:04:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41A9cWTqiWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41A9cWTqiWL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Personalized Cutting Board - 9 Design &  al 28.06 % de descuento'
-date: 2020-04-12 15:27:30
+date: 2020-04-14 15:29:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/519IQ2KpYFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519IQ2KpYFL._SL200_.jpg' ]
 comments: true

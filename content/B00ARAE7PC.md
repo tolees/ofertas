@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.06 % en BIC 4 colores Shine Bolígrafo Retráctil '
-date: 2020-04-12 21:19:09
+date: 2020-04-15 22:23:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fpUuLiaqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fpUuLiaqL._SL200_.jpg' ]
 comments: true

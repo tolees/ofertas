@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.01 % en #DoYourYoga Yoga Mat Bag »Ghanpati« from'
-date: 2020-04-13 14:52:30
+date: 2020-04-15 23:01:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kB3-6HqsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kB3-6HqsL._SL200_.jpg' ]
 comments: true

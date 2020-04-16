@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone XS  de 256GB  - Oro al 30.60 % de descuento'
-date: 2020-04-07 03:03:18
+date: 2020-04-14 08:07:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EDX0DWF-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EDX0DWF-L._SL200_.jpg' ]
 comments: true

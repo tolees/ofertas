@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOROK Display Stand Soporte para Lego 75 al 25.01 % de descuento'
-date: 2020-04-12 08:30:44
+date: 2020-04-14 00:22:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YM6YudQZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YM6YudQZL._SL200_.jpg' ]
 comments: true

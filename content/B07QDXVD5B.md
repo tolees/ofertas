@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '12che LED Light Kit for Lego Speed Champ al 52.08 % de descuento'
-date: 2020-04-11 14:54:05
+date: 2020-04-14 22:57:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vBNipAT-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vBNipAT-L._SL200_.jpg' ]
 comments: true

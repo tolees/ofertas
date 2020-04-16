@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chenille Kraft Natural Wood Craft Sticks al 39.39 % de descuento'
-date: 2020-04-11 23:38:06
+date: 2020-04-14 07:22:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41N-ZTi8csL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41N-ZTi8csL._SL200_.jpg' ]
 comments: true

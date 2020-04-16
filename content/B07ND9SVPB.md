@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75254  Star Wars AT-ST-Räuber  Baus al 28.37 % de descuento'
-date: 2020-03-31 20:11:09
+title: 'LEGO 75254  Star Wars AT-ST-Räuber  Baus al 26.67 % de descuento'
+date: 2020-04-15 16:24:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/512MhaN4NML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512MhaN4NML._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07ND9SVPB
 description:
-actualPrice: 42.97 EUR
+actualPrice: 43.99 EUR
 comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [LEGO 75254  Star Wars AT-ST-Räuber  Bauset  Mehrfarbig](https://www.amazon.com/dp/B07ND9SVPB/?tag=redken08-20) con 28.37 de descuento por 42.97 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75254  Star Wars AT-ST-Räuber  Bauset  Mehrfarbig](https://www.amazon.com/dp/B07ND9SVPB/?tag=redken08-20) a 43.99 EUR (original: 59.99 EUR) (26.67 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/512MhaN4NML._SL200_.jpg)](https://www.amazon.com/dp/B07ND9SVPB/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07ND9SVPB/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07ND9SVPB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.02 % en Discos Desmaquillantes Reutilizables Alg'
-date: 2020-03-22 18:31:39
+date: 2020-04-14 12:06:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/513fAj9ewLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513fAj9ewLL._SL200_.jpg' ]
 comments: true

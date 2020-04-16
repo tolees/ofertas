@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exerz Office Tray Set Mesh 4pcs - 2 Tier al 25.01 % de descuento'
-date: 2020-04-12 14:56:37
+date: 2020-04-14 06:55:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xFrSu1OGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xFrSu1OGL._SL200_.jpg' ]
 comments: true

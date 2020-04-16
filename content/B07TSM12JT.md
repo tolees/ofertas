@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spa Luxetique Vanilla Bath Gift Sets  Pr al 35.02 % de descuento'
-date: 2020-04-12 22:46:14
+date: 2020-04-14 22:50:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51I3HKSwloL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51I3HKSwloL._SL200_.jpg' ]
 comments: true

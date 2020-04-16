@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.17 % en Intex 57190NP Swim Centre Family Lounge '
-date: 2020-04-13 07:13:27
+date: 2020-04-15 07:05:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JFOXHphLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JFOXHphLL._SL200_.jpg' ]
 comments: true

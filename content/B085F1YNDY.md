@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sierra de Calar sin Cable  POPOMAN Sierr al 47.37 % de descuento'
-date: 2020-04-08 06:00:19
+date: 2020-04-14 08:55:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/519r3EHOWUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519r3EHOWUL._SL200_.jpg' ]
 comments: true

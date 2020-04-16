@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en STAR WARS: THE RISE OF SKYWALKER [Blu-ra'
-date: 2020-04-12 15:30:51
+date: 2020-04-14 15:20:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51m-uLktUiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51m-uLktUiL._SL200_.jpg' ]
 comments: true

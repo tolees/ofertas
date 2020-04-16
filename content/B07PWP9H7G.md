@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIBERIA Xbox one Headset  PS4 Headset  G al 41.67 % de descuento'
-date: 2020-04-13 07:12:50
+date: 2020-04-14 07:17:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BMWf+FlYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BMWf+FlYL._SL200_.jpg' ]
 comments: true

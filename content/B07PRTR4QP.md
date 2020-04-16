@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.01 % en Pistola de aire caliente TECCPO 2000W  5'
-date: 2020-04-12 11:00:10
+date: 2020-04-13 19:04:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51h+I6OItGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51h+I6OItGL._SL200_.jpg' ]
 comments: true

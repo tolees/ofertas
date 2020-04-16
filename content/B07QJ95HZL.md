@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TAIFU 9V AC DC Adapter Universal Charger al 81.07 % de descuento'
-date: 2020-04-12 23:10:34
+date: 2020-04-13 23:14:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PMMuJbCdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PMMuJbCdL._SL200_.jpg' ]
 comments: true

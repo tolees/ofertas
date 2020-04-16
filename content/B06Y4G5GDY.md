@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Tiny Arcade Pac-Man Miniature Arcade Gam al 41.43 % de descuento'
-date: 2020-04-11 15:56:56
+title: 'Tiny Arcade Pac-Man Miniature Arcade Gam al 36.38 % de descuento'
+date: 2020-04-14 08:12:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/410Mrcn+BeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410Mrcn+BeL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06Y4G5GDY
 description:
-actualPrice: 12.88 USD
+actualPrice: 13.99 USD
 comparePrice: 21.99 USD
 inStock: true
 ---
 
-Está [Tiny Arcade Pac-Man Miniature Arcade Game](https://www.amazon.com/dp/B06Y4G5GDY/?tag=redken08-20) con 41.43 de descuento por 12.88 USD (original: 21.99 USD) en el siguiente enlace!
+Está [Tiny Arcade Pac-Man Miniature Arcade Game](https://www.amazon.com/dp/B06Y4G5GDY/?tag=redken08-20) con 36.38 de descuento por 13.99 USD (original: 21.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/410Mrcn+BeL._SL200_.jpg)](https://www.amazon.com/dp/B06Y4G5GDY/?tag=redken08-20)
 

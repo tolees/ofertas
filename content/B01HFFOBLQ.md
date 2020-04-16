@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rotulador con Punta Fina de Pincel de Pe al 32.85 % de descuento'
-date: 2020-04-12 00:49:20
+date: 2020-04-15 00:46:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MWENfe2eL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MWENfe2eL._SL200_.jpg' ]
 comments: true

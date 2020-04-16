@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MP3 Player  Bluetooth 8GB MP3 Player mit al 47.51 % de descuento'
-date: 2020-04-13 16:28:22
+date: 2020-04-14 16:43:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zsARSPBbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zsARSPBbL._SL200_.jpg' ]
 comments: true

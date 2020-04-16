@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Columbia Nikiski 503  Botas Bajas para M al 79.68 % de descuento'
-date: 2020-04-10 16:55:40
+title: 'Columbia Nikiski 503  Botas Bajas para M al 80.50 % de descuento'
+date: 2020-04-13 23:39:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AJ1em4wbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AJ1em4wbL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07JH35QHG
 description:
-actualPrice: 24.38 EUR
+actualPrice: 23.4 EUR
 comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Nikiski 503  Botas Bajas para Mujer  Rojo  Rich Wine  Dare   36 EU](https://www.amazon.com/dp/B07JH35QHG/?tag=redken08-20) a 24.38 EUR (original: 119.99 EUR) (79.68 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Columbia Nikiski 503  Botas Bajas para Mujer  Rojo  Rich Wine  Dare   36 EU](https://www.amazon.com/dp/B07JH35QHG/?tag=redken08-20) a 23.4 EUR (original: 119.99 EUR) (80.50 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41AJ1em4wbL._SL200_.jpg)](https://www.amazon.com/dp/B07JH35QHG/?tag=redken08-20)
 

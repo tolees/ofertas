@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JXD Nueva Consola de Videojuegos Retro d al 30.06 % de descuento'
-date: 2020-04-13 08:38:36
+date: 2020-04-14 09:28:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NLx1W8UiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NLx1W8UiL._SL200_.jpg' ]
 comments: true

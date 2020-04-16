@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WMF Stelio Eierkocher  für 1-7 Eier  350 al 43.32 % de descuento'
-date: 2020-04-13 00:00:39
+date: 2020-04-15 00:03:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V3NBw4UZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V3NBw4UZL._SL200_.jpg' ]
 comments: true

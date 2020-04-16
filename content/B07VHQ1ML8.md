@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bolsa de Regalo Bolsas Regalo Caramelo G al 55.94 % de descuento'
-date: 2020-04-13 07:07:08
+date: 2020-04-15 15:00:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31yTNFQmlaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31yTNFQmlaL._SL200_.jpg' ]
 comments: true

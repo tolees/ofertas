@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-SG1016D - Gigabit Ethernet co al 40.13 % de descuento'
-date: 2020-03-13 03:49:02
+date: 2020-04-15 21:21:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MBNYmPfAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MBNYmPfAL._SL200_.jpg' ]
 comments: true

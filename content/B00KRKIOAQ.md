@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'C.K T2250 Cable Stripper  Multi-Colour al 36.83 % de descuento'
-date: 2020-04-13 14:59:18
+date: 2020-04-15 23:14:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/414OjNx1EGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414OjNx1EGL._SL200_.jpg' ]
 comments: true

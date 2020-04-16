@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monopoly- Junior Electronico  Versión Es al 31.59 % de descuento'
-date: 2020-04-13 16:50:31
+date: 2020-04-14 16:58:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XIR8khnEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XIR8khnEL._SL200_.jpg' ]
 comments: true

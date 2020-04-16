@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '99AMZ Handyhalter fürs Auto & Handy Ring al 40.20 % de descuento'
-date: 2020-04-12 08:07:53
+date: 2020-04-15 08:01:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oHpQhFQUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oHpQhFQUL._SL200_.jpg' ]
 comments: true

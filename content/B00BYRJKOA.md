@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel Permanent Markers Bullet Point -  al 43.60 % de descuento'
-date: 2020-04-12 23:00:18
+date: 2020-04-15 23:04:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wbfSnTJtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wbfSnTJtL._SL200_.jpg' ]
 comments: true

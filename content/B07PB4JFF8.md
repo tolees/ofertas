@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 25.07 % en Pokémon: Escudo'
-date: 2020-02-27 15:36:58
-thumbnailImage: 'https://m.media-amazon.com/images/I/51NxWpMni2L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51NxWpMni2L._AC_._SL200_.jpg' ]
+date: 2020-04-14 00:25:32
+thumbnailImage: 'https://m.media-amazon.com/images/I/51NxWpMni2L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51NxWpMni2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Pokémon: Escudo](https://www.amazon.com/dp/B07PB4JFF8/?tag=redken08-20) con un 25.07 % de descuento con precio de oferta de 44.95 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51NxWpMni2L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07PB4JFF8/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51NxWpMni2L._SL200_.jpg)](https://www.amazon.com/dp/B07PB4JFF8/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07PB4JFF8/?tag=redken08-20)
 

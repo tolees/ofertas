@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amaza 150pcs Etiquetas de Papel Kraft 7c al 71.98 % de descuento'
-date: 2020-04-13 08:17:47
+date: 2020-04-14 09:00:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Qu1jtOrDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Qu1jtOrDL._SL200_.jpg' ]
 comments: true

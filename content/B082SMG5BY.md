@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BERTASCHE Laptoptasche 14 Zoll Notebookt al 46.81 % de descuento'
-date: 2020-04-08 05:15:30
+date: 2020-04-13 23:53:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51X3EJPfu8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51X3EJPfu8L._SL200_.jpg' ]
 comments: true

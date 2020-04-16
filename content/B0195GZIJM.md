@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko POP! Marvel Deadpool Two Swords -  al 29.42 % de descuento'
-date: 2020-03-17 08:23:44
+title: 'FUNKO POP!7486 MARVEL: Deadpool - Two Sw al 32.20 % de descuento'
+date: 2020-03-24 12:39:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KRD7pdQzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KRD7pdQzL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0195GZIJM
 description:
-actualPrice: 10.58 EUR
-comparePrice: 14.99 EUR
+actualPrice: 6.99 GBP
+comparePrice: 10.31 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko POP! Marvel Deadpool Two Swords - Figurina de vinilo](https://www.amazon.com/dp/B0195GZIJM/?tag=redken08-20) a 10.58 EUR (original: 14.99 EUR) (29.42 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [FUNKO POP!7486 MARVEL: Deadpool - Two Sword](https://www.amazon.com/dp/B0195GZIJM/?tag=redken08-20) a 6.99 GBP (original: 10.31 GBP) (32.20 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41KRD7pdQzL._SL200_.jpg)](https://www.amazon.com/dp/B0195GZIJM/?tag=redken08-20)
 

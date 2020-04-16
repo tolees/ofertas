@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.93 % en DYNASONIC - Altavoz Bluetooth Portatil K'
-date: 2020-04-04 08:31:53
+date: 2020-04-15 09:33:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jIuxKfbcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jIuxKfbcL._SL200_.jpg' ]
 comments: true

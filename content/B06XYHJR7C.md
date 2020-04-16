@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro - Kristallica  kindgerechtes Gesc al 25.01 % de descuento'
-date: 2020-04-12 23:58:16
+date: 2020-04-14 23:59:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/61WCiAM8jEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61WCiAM8jEL._SL200_.jpg' ]
 comments: true

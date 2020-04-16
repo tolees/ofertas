@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.80 % en J.A. Henckels International 13550-005 St'
-date: 2020-04-12 23:43:11
+date: 2020-04-14 07:36:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hCSD2+CLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hCSD2+CLL._SL200_.jpg' ]
 comments: true

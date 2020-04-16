@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Loción Corporal Reparación In al 42.61 % de descuento'
-date: 2020-03-31 13:09:24
+date: 2020-04-14 06:22:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KSxYG6fHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KSxYG6fHL._SL200_.jpg' ]
 comments: true

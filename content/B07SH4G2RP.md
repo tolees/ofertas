@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 71.07 % en ❄ Afdiscounts ❄ Fibernails fiber glass t'
-date: 2020-04-09 06:33:07
+date: 2020-04-15 22:50:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vDstxgadL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vDstxgadL._SL200_.jpg' ]
 comments: true

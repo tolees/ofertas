@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.79 % en Galt Toys Science Lab Kit'
-date: 2020-04-13 15:00:50
+date: 2020-04-15 23:11:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/618ugwumeZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/618ugwumeZL._SL200_.jpg' ]
 comments: true

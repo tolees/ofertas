@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'XRSC [2 PACK] Nintendo Switch Screen Pro al 49.14 % de descuento'
-date: 2020-04-12 07:00:01
+title: 'XRSC [2 PACK] Nintendo Switch Screen Pro al 45.50 % de descuento'
+date: 2020-04-15 14:59:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51c-Rfe3Q1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51c-Rfe3Q1L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07M7KPSX7
 description:
-actualPrice: 5.59 GBP
+actualPrice: 5.99 GBP
 comparePrice: 10.99 GBP
 inStock: true
 ---
 
-Está [XRSC [2 PACK] Nintendo Switch Screen Protector  Tempered Glass Screen Protector for Nintendo Switch  Glass Screen Guard for Nintendo Switch-[Shatter-proof][Anti-scratch][9H Hardness][Bubble Free]](https://www.amazon.com/dp/B07M7KPSX7/?tag=redken08-20) con 49.14 de descuento por 5.59 GBP (original: 10.99 GBP) en el siguiente enlace!
+Está [XRSC [2 PACK] Nintendo Switch Screen Protector  Tempered Glass Screen Protector for Nintendo Switch  Glass Screen Guard for Nintendo Switch-[Shatter-proof][Anti-scratch][9H Hardness][Bubble Free]](https://www.amazon.com/dp/B07M7KPSX7/?tag=redken08-20) con 45.50 de descuento por 5.99 GBP (original: 10.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51c-Rfe3Q1L._SL200_.jpg)](https://www.amazon.com/dp/B07M7KPSX7/?tag=redken08-20)
 

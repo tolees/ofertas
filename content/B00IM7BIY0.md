@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.12 % en Bosch Professional 2608551079 Set de 32 '
-date: 2020-04-11 08:38:28
+date: 2020-04-15 08:15:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31K3-GOIJQL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31K3-GOIJQL._SL500_._SL200_.jpg' ]
 comments: true

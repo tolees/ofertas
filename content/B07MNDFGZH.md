@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bammax Bicicleta sin Pedales  Bici sin P al 37.50 % de descuento'
-date: 2020-04-12 08:03:22
+date: 2020-04-15 12:35:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YJ+23DQHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YJ+23DQHL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMEN 15-dc1015ng  15 6 Zoll / FHD IPS 60 al 40.37 % de descuento'
-date: 2020-04-10 00:09:21
+date: 2020-04-15 23:39:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51h+OFFSeGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51h+OFFSeGL._SL200_.jpg' ]
 comments: true

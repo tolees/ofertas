@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 63.01 % en BRIKSMAX Kit de Iluminación Led para Leg'
-date: 2019/12/30 10:08:57 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GXmXwEZqL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GXmXwEZqL._SL200_.jpg' ]
+title: 'Descuento del 70.01 % en BRIKSMAX Led Lighting Kit for LEGO City '
+date: 2020-02-09 23:17:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/51GXmXwEZqL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51GXmXwEZqL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07TTNHRHT
 description:
-actualPrice: 36.99 EUR
-comparePrice: 99.99 EUR
+actualPrice: 29.99 GBP
+comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Tienes [BRIKSMAX Kit de Iluminación Led para Lego City Fire Parque de Bomberos  Compatible con Ladrillos de Construcción Lego Modelo 60215  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TTNHRHT/?tag=redken08-20) con un 63.01 % de descuento con precio de oferta de 36.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX Led Lighting Kit for LEGO City Fire Station- Compatible with Lego 60215 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TTNHRHT/?tag=redken08-20) con un 70.01 % de descuento con precio de oferta de 29.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51GXmXwEZqL._SL200_.jpg)](https://www.amazon.com/dp/B07TTNHRHT/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51GXmXwEZqL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07TTNHRHT/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07TTNHRHT/?tag=redken08-20)
 

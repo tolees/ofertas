@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Arteck Ultra-Slim Bluetooth Keyboard Com'
-date: 2020-04-11 22:36:08
+date: 2020-04-14 14:38:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Hewm-kQCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Hewm-kQCL._SL200_.jpg' ]
 comments: true

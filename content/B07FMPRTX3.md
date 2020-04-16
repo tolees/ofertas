@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en Jabra Talk 15 Bluetooth Headset for Hand'
-date: 2020-04-12 15:22:55
+date: 2020-04-14 07:15:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VyS9xmw7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VyS9xmw7L._SL200_.jpg' ]
 comments: true

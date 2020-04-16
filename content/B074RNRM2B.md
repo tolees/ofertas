@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra - Tarjeta de memoria micro al 46.11 % de descuento'
-date: 2020-04-12 16:30:02
+date: 2020-04-15 16:29:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MQ9ndxA7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MQ9ndxA7L._SL200_.jpg' ]
 comments: true

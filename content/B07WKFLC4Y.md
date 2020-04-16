@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.95 % en Ajustable 2068 Reloj de metal Correa Cor'
-date: 2020-04-13 00:00:02
+date: 2020-04-14 23:57:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/414XGFC70rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414XGFC70rL._SL200_.jpg' ]
 comments: true

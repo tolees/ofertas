@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PARMIGIANO REGGIANO SLICE 24 MONTHS PDO- al 25.82 % de descuento'
-date: 2020-04-12 22:58:31
+date: 2020-04-14 06:57:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Juq-Jy0NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Juq-Jy0NL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.59 % en BIC Kids Evolution Triangle ECOlutions L'
-date: 2020-04-12 00:31:18
+date: 2020-04-15 20:23:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SpKtu3uqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SpKtu3uqL._SL200_.jpg' ]
 comments: true

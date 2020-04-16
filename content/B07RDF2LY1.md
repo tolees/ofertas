@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fanless Mini PC Stick Windows 10 Pro  64 al 28.57 % de descuento'
-date: 2020-04-11 22:45:05
+date: 2020-04-14 22:51:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ISi7HRodL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ISi7HRodL._SL200_.jpg' ]
 comments: true

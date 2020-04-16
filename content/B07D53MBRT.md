@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Monopoly Gamer Mario Kart al 39.30 % de descuento'
-date: 2020-04-13 14:47:46
+date: 2020-04-15 22:51:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LkuH-xmBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LkuH-xmBL._SL200_.jpg' ]
 comments: true

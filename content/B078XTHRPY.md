@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.12 % en Kitchen Emperor Cuchillo Santoku Damasco'
-date: 2020-04-13 00:32:17
+date: 2020-04-15 08:21:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/513IBJt3cAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513IBJt3cAL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming - Juego infantil Vater loc al 61.58 % de descuento'
-date: 2020-04-13 16:49:31
+date: 2020-04-14 16:57:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/61f2hYgSOZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61f2hYgSOZL._SL200_.jpg' ]
 comments: true

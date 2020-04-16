@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CANARY: Flex Indoor Outdoor HD Security  al 35.19 % de descuento'
-date: 2020-04-12 23:57:26
+date: 2020-04-14 08:08:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WUjg0-UKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WUjg0-UKL._SL200_.jpg' ]
 comments: true

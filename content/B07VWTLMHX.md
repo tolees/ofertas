@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Powerextra Marco Digital de Fotos Videos al 67.06 % de descuento'
-date: 2020-04-13 17:04:18
+date: 2020-04-14 17:15:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lzDo2KsZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lzDo2KsZL._SL200_.jpg' ]
 comments: true

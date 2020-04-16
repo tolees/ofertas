@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Star Wars Jedi: Fallen Order - Standard '
-date: 2020-04-12 17:17:48
+date: 2020-04-14 16:03:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mEXzaSvVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mEXzaSvVL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.78 % en Acer Swift 5 SF514-52T Notebook -  Intel'
-date: 2020-04-13 14:50:51
+date: 2020-04-15 15:05:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XmqKtwuQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XmqKtwuQL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Westinghouse Lighting Turbo Swirl Ventil al 39.58 % de descuento'
-date: 2020-03-16 22:02:47
+title: 'Westinghouse Lighting Turbo Swirl Ventil al 32.87 % de descuento'
+date: 2020-04-14 10:34:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/317mNxvFJyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317mNxvFJyL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0016KUYAO
 description:
-actualPrice: 57.6 EUR
+actualPrice: 64.0 EUR
 comparePrice: 95.34 EUR
 inStock: true
 ---
 
-Está [Westinghouse Lighting Turbo Swirl Ventilador de Techo E14  60 W  Titanio](https://www.amazon.com/dp/B0016KUYAO/?tag=redken08-20) con 39.58 de descuento por 57.6 EUR (original: 95.34 EUR) en el siguiente enlace!
+Está [Westinghouse Lighting Turbo Swirl Ventilador de Techo E14  60 W  Titanio](https://www.amazon.com/dp/B0016KUYAO/?tag=redken08-20) con 32.87 de descuento por 64.0 EUR (original: 95.34 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/317mNxvFJyL._SL200_.jpg)](https://www.amazon.com/dp/B0016KUYAO/?tag=redken08-20)
 

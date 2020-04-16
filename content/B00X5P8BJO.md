@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Arteck Universal Backlit 7-Colors & Adju al 58.01 % de descuento'
-date: 2020-03-31 12:42:08
+title: 'Arteck HB030B Universal Slim Portable Wi al 58.01 % de descuento'
+date: 2020-04-09 22:55:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-839EU-xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-839EU-xL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00X5P8BJO
 description:
-actualPrice: 20.99 GBP
-comparePrice: 49.99 GBP
+actualPrice: 20.99 USD
+comparePrice: 49.99 USD
 inStock: true
 ---
 
-Está [Arteck Universal Backlit 7-Colors & Adjustable Brightness Ultra Light & Slim Portable Wireless Bluetooth 3.0 Keyboard for iOS iPad Pro  iPad Air  iPad Mini  Android  MacOS  Windows Tablets PC Smartphone Built in Rechargeable 6-Month Battery](https://www.amazon.com/dp/B00X5P8BJO/?tag=redken08-20) con 58.01 de descuento por 20.99 GBP (original: 49.99 GBP) en el siguiente enlace!
+Está [Arteck HB030B Universal Slim Portable Wireless Bluetooth 3.0 7-Colors Backlit Keyboard with Built in Rechargeable Battery  Black](https://www.amazon.com/dp/B00X5P8BJO/?tag=redken08-20) con 58.01 de descuento por 20.99 USD (original: 49.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41-839EU-xL._SL200_.jpg)](https://www.amazon.com/dp/B00X5P8BJO/?tag=redken08-20)
 

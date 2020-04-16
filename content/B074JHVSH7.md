@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 66.89 % en Trading in Death: Weapons  Warfare and T'
-date: 2020-04-13 14:43:17
+date: 2020-04-14 22:47:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wrllU+4WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wrllU+4WL._SL200_.jpg' ]
 comments: true

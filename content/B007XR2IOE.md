@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pot Noodle Chicken & Mushroom Flavour  K al 28.06 % de descuento'
-date: 2020-04-11 23:01:00
+date: 2020-04-15 07:02:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dVX6FxOdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dVX6FxOdL._SL200_.jpg' ]
 comments: true

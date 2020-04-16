@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 50.30 % en Toshiba Hayabusa - Memoria USB 2.0 de 64'
-date: 2019/12/29 11:22:41 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319N17L9I%2BL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319N17L9I%2BL._SL200_.jpg' ]
+title: 'Descuento del 31.69 % en Toshiba by Kioxia 64GB TransMemory U202 '
+date: 2020-04-14 15:03:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/319N17L9I+L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/319N17L9I+L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B016E7EBPM
 description:
-actualPrice: 9.89 EUR
-comparePrice: 19.9 EUR
+actualPrice: 8.45 GBP
+comparePrice: 12.37 GBP
 inStock: true
 ---
 
-Tienes [Toshiba Hayabusa - Memoria USB 2.0 de 64 GB  color blanco](https://www.amazon.com/dp/B016E7EBPM/?tag=redken08-20) con un 50.30 % de descuento con precio de oferta de 9.89 EUR (original: 19.9 EUR) en el siguiente enlace!
+Tienes [Toshiba by Kioxia 64GB TransMemory U202 USB2 White](https://www.amazon.com/dp/B016E7EBPM/?tag=redken08-20) con un 31.69 % de descuento con precio de oferta de 8.45 GBP (original: 12.37 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/319N17L9I%2BL._SL200_.jpg)](https://www.amazon.com/dp/B016E7EBPM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/319N17L9I+L._SL200_.jpg)](https://www.amazon.com/dp/B016E7EBPM/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B016E7EBPM/?tag=redken08-20)
 

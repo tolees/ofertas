@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'PRO PRBT0018 - Bote Porta Herramientas   al 25.00 % de descuento'
-date: 2020-01-27 01:28:53
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HoujAyLDL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HoujAyLDL._SL200_.jpg' ]
+title: 'PRO PRBT0018 - Bote Porta Herramientas   al 28.75 % de descuento'
+date: 2020-04-14 00:12:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/316wgBU1-0L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/316wgBU1-0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01N1JSBZ4
 description:
-actualPrice: 3 EUR
-comparePrice: 4 EUR
+actualPrice: 2.85 EUR
+comparePrice: 4.0 EUR
 inStock: true
 ---
 
-Está [PRO PRBT0018 - Bote Porta Herramientas  Negro](https://www.amazon.com/dp/B01N1JSBZ4/?tag=redken08-20) con 25.00 de descuento por 3 EUR (original: 4 EUR) en el siguiente enlace!
+Está [PRO PRBT0018 - Bote Porta Herramientas  Negro](https://www.amazon.com/dp/B01N1JSBZ4/?tag=redken08-20) con 28.75 de descuento por 2.85 EUR (original: 4.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41HoujAyLDL._SL200_.jpg)](https://www.amazon.com/dp/B01N1JSBZ4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/316wgBU1-0L._SL200_.jpg)](https://www.amazon.com/dp/B01N1JSBZ4/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01N1JSBZ4/?tag=redken08-20)
 

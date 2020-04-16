@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chef Knife  MOSFiATA Kitchen Knife 8 inc al 45.31 % de descuento'
-date: 2020-04-13 06:49:00
+date: 2020-04-14 14:56:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aDfbJFbKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aDfbJFbKL._SL200_.jpg' ]
 comments: true

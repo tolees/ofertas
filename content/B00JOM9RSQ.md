@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.53 % en Fantasy Flight Games Star Wars - Tantive'
-date: 2020-04-03 15:04:26
+date: 2020-04-14 22:00:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/413UVmEsifL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413UVmEsifL._SL200_.jpg' ]
 comments: true

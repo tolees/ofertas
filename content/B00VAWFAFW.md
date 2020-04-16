@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'HP OfficeJet Pro 9020 - Impresora multif al 32.78 % de descuento'
-date: 2020-04-12 12:51:10
+title: 'HP OfficeJet Pro 9020 - Impresora multif al 31.14 % de descuento'
+date: 2020-04-15 13:59:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31BTtfmczbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31BTtfmczbL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00VAWFAFW
 description:
-actualPrice: 201.0 EUR
+actualPrice: 205.9 EUR
 comparePrice: 299.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HP OfficeJet Pro 9020 - Impresora multifunción](https://www.amazon.com/dp/B00VAWFAFW/?tag=redken08-20) a 201.0 EUR (original: 299.0 EUR) (32.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [HP OfficeJet Pro 9020 - Impresora multifunción](https://www.amazon.com/dp/B00VAWFAFW/?tag=redken08-20) a 205.9 EUR (original: 299.0 EUR) (31.14 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31BTtfmczbL._SL200_.jpg)](https://www.amazon.com/dp/B00VAWFAFW/?tag=redken08-20)
 

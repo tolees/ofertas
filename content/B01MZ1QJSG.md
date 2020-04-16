@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bart Schürze für Bartgestaltung- Sammel  al 37.52 % de descuento'
-date: 2020-04-13 07:49:16
+date: 2020-04-14 08:17:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/417XXeVAYdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417XXeVAYdL._SL200_.jpg' ]
 comments: true

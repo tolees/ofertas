@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.60 % en Funko Pop!: AD Icons - Albert Einstein'
-date: 2020-04-13 15:23:56
+date: 2020-04-15 15:16:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31W6x0HXv5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31W6x0HXv5L._SL200_.jpg' ]
 comments: true

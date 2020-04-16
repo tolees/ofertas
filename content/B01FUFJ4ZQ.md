@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Bloxels Build Your Own Video Game al 68.41 % de descuento'
-date: 2020-04-11 07:42:50
+date: 2020-04-14 08:11:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51b-iv3JWGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51b-iv3JWGL._SL200_.jpg' ]
 comments: true

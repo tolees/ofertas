@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei P Smart Z Sapphire Blue 6.59" 4gb al 39.82 % de descuento'
-date: 2020-04-12 23:10:36
+date: 2020-04-15 21:05:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dsALdYWwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dsALdYWwL._SL200_.jpg' ]
 comments: true

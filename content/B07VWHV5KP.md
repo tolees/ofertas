@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 75.00 % en Make Me Gladiator'
-date: 2020-04-12 15:57:43
+date: 2020-04-14 16:03:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/81WqDyGD03L._SL500_._SL200_.png'
 images: [ 'https://m.media-amazon.com/images/I/81WqDyGD03L._SL500_._SL200_.png' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Nier Automata al 50.09 % de descuento'
-date: 2019/12/15 15:11:08 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mP-vlgB2L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mP-vlgB2L._SL200_.jpg' ]
+date: 2020-04-14 00:29:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/41mP-vlgB2L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41mP-vlgB2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Nier Automata](https://www.amazon.com/dp/B06XPKL8GS/?tag=redken08-20) con 50.09 de descuento por 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41mP-vlgB2L._SL200_.jpg)](https://www.amazon.com/dp/B06XPKL8GS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41mP-vlgB2L._SL200_.jpg)](https://www.amazon.com/dp/B06XPKL8GS/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B06XPKL8GS/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.57 % en Star Wars - Playset Rogue One Fuego Rápi'
-date: 2020-04-13 08:18:58
+date: 2020-04-14 08:56:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oWR1O6CjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oWR1O6CjL._SL200_.jpg' ]
 comments: true

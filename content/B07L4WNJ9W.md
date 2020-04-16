@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Far Cry New Dawn - Standard Edition - Xb al 60.02 % de descuento'
-date: 2020-04-11 23:49:22
+date: 2020-04-14 16:13:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qz1keKmvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qz1keKmvL._SL200_.jpg' ]
 comments: true

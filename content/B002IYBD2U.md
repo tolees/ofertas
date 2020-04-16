@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.42 % en Pentel Refill Ink for BL57/BL77 EnerGel '
-date: 2020-04-11 23:46:33
+date: 2020-04-14 07:41:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41t0qccl9CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41t0qccl9CL._SL200_.jpg' ]
 comments: true

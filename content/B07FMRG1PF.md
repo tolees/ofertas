@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Atkins Protein Wafer Crisps  Lemon Vanil al 25.16 % de descuento'
-date: 2020-04-12 23:45:55
+date: 2020-04-15 07:26:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rEWSxlbfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rEWSxlbfL._SL200_.jpg' ]
 comments: true

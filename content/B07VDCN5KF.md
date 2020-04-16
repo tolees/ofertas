@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOPAI Mochila Pase de Hombres y Mujeres  al 58.10 % de descuento'
-date: 2020-04-04 17:37:28
+date: 2020-04-14 09:30:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cMCOC6AlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cMCOC6AlL._SL200_.jpg' ]
 comments: true

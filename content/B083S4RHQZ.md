@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reproductor MP3  Wodgreat MP4 Player 8GB al 38.72 % de descuento'
-date: 2020-04-12 18:27:14
+date: 2020-04-14 17:47:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NY2t+TFBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NY2t+TFBL._SL200_.jpg' ]
 comments: true
