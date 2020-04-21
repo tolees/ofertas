@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B PRO 2 2000 - Cepillo Eléctrico Re al 33.29 % de descuento'
-date: 2020-04-15 13:03:16
+date: 2020-04-17 07:47:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg' ]
 comments: true

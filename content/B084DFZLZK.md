@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Last Full Measure  The al 29.98 % de descuento'
-date: 2020-04-15 07:14:50
+date: 2020-04-17 23:20:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51c1sAnV1YL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51c1sAnV1YL._SL200_.jpg' ]
 comments: true

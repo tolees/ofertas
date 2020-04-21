@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MLG Tools Trampa para Ratas. XXL * 6 Uni al 31.30 % de descuento'
-date: 2020-04-14 09:23:33
+date: 2020-04-16 09:16:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LngHzT6WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LngHzT6WL._SL200_.jpg' ]
 comments: true

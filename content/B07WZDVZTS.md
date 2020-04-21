@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.85 % en Kafuty 4G Lector de Libros Electrónicos '
-date: 2020-04-14 17:00:50
+date: 2020-04-16 18:10:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cyWNSvq-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cyWNSvq-L._SL200_.jpg' ]
 comments: true

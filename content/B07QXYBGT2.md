@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Z: Kakarot al 27.78 % de descuento'
-date: 2020-04-11 16:44:12
+date: 2020-04-20 14:02:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/517hYggQGsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517hYggQGsL._SL200_.jpg' ]
 comments: true

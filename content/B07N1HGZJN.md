@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.18 % en Fisher-Price Slow Much Fun Stroller Slot'
-date: 2020-04-14 23:48:30
+date: 2020-04-17 00:23:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/416RZ-K3FGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416RZ-K3FGL._SL200_.jpg' ]
 comments: true

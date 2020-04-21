@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.96 % en Bristan J SFSNK EF C Java Single Flow Ea'
-date: 2020-04-12 14:51:40
+date: 2020-04-16 16:20:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UyB1mTLeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UyB1mTLeL._SL200_.jpg' ]
 comments: true

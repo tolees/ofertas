@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Irrigador Bucal Portátil con 6 Boquillas al 61.12 % de descuento'
-date: 2020-04-15 15:11:20
+date: 2020-04-20 08:51:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51R0OUqhG9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51R0OUqhG9L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taladro Percutor a Batería  POPOMAN Tala al 31.58 % de descuento'
-date: 2020-04-15 08:56:49
+date: 2020-04-18 10:39:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51y+pCQhkVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51y+pCQhkVL._SL200_.jpg' ]
 comments: true

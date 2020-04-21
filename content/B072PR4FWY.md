@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exco - Alfombrilla gruesa de goma antide al 25.02 % de descuento'
-date: 2020-04-15 07:59:30
+date: 2020-04-17 16:39:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/61lpFdYiWWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61lpFdYiWWL._SL200_.jpg' ]
 comments: true

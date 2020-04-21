@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gel de Aloe Vera  100% Orgánico Aloe Ver al 43.35 % de descuento'
-date: 2020-04-13 12:18:34
+date: 2020-04-19 18:16:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51O11KpV75L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51O11KpV75L._SL200_.jpg' ]
 comments: true

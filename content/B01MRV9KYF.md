@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Adidas Speedex 16.1 Boxeo Zapatillas - S al 61.57 % de descuento'
-date: 2020-03-23 16:37:17
+title: 'Adidas Speedex 16.1 Boxeo Zapatillas - 3 al 61.58 % de descuento'
+date: 2020-04-17 17:36:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uR1C68jSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uR1C68jSL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01MRV9KYF
 description:
-actualPrice: 54.95 EUR
-comparePrice: 142.99 EUR
+actualPrice: 57.94 EUR
+comparePrice: 150.79 EUR
 inStock: true
 ---
 
-Está [Adidas Speedex 16.1 Boxeo Zapatillas - SS18-39.3](https://www.amazon.com/dp/B01MRV9KYF/?tag=redken08-20) con 61.57 de descuento por 54.95 EUR (original: 142.99 EUR) en el siguiente enlace!
+Está [Adidas Speedex 16.1 Boxeo Zapatillas - 39.3](https://www.amazon.com/dp/B01MRV9KYF/?tag=redken08-20) con 61.58 de descuento por 57.94 EUR (original: 150.79 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41uR1C68jSL._SL200_.jpg)](https://www.amazon.com/dp/B01MRV9KYF/?tag=redken08-20)
 

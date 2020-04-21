@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.30 % en Bakers Twine 100M Cadena de Algodón para'
-date: 2020-04-12 00:39:34
+date: 2020-04-16 09:07:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51L6kv-CDaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51L6kv-CDaL._SL200_.jpg' ]
 comments: true

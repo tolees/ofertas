@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Hi-Spec 17 Piece Kids Tool Kit with Blue al 26.88 % de descuento'
-date: 2020-04-14 23:12:49
+title: 'Hi-Spec 17 Piece Kids Tool Kit with Blue al 26.98 % de descuento'
+date: 2020-04-17 08:13:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Yihim8BbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Yihim8BbL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07P8LJY8D
 description:
-actualPrice: 23.75 GBP
-comparePrice: 32.48 GBP
+actualPrice: 23.57 GBP
+comparePrice: 32.28 GBP
 inStock: true
 ---
 
-Está [Hi-Spec 17 Piece Kids Tool Kit with Blue Truck Tool Box  Kids Apron with Pockets  Safety Glasses  Level  REAL Small Size Hand Tools  Safety Scissors DIY Construction Educational Childrens Tool Set](https://www.amazon.com/dp/B07P8LJY8D/?tag=redken08-20) con 26.88 de descuento por 23.75 GBP (original: 32.48 GBP) en el siguiente enlace!
+Está [Hi-Spec 17 Piece Kids Tool Kit with Blue Truck Tool Box  Kids Apron with Pockets  Safety Glasses  Level  REAL Small Size Hand Tools  Safety Scissors DIY Construction Educational Childrens Tool Set](https://www.amazon.com/dp/B07P8LJY8D/?tag=redken08-20) con 26.98 de descuento por 23.57 GBP (original: 32.28 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Yihim8BbL._SL200_.jpg)](https://www.amazon.com/dp/B07P8LJY8D/?tag=redken08-20)
 

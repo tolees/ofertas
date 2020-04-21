@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.48 % en didisky 2 unidades LED linterna  5 modos'
-date: 2020-04-15 20:23:41
+date: 2020-04-19 09:06:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51x9O5lPoQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51x9O5lPoQL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yifen Base de Carga 4 en 1 de Silicona p al 53.81 % de descuento'
-date: 2020-04-01 16:37:31
+date: 2020-04-18 18:10:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T9Ig7KN6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T9Ig7KN6L._SL200_.jpg' ]
 comments: true

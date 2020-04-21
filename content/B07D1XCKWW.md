@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Corsair Vengeance RGB PRO 16 GB  2 x 8 G al 65.91 % de descuento'
-date: 2020-04-09 06:48:57
-thumbnailImage: 'https://m.media-amazon.com/images/I/41cN0qyJ8LL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41cN0qyJ8LL._SL200_.jpg' ]
+title: 'Corsair Vengeance RGB Pro Módulo de Memo al 28.91 % de descuento'
+date: 2020-04-18 21:48:38
+thumbnailImage: 'https://m.media-amazon.com/images/I/4105zAvDMAL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/4105zAvDMAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07D1XCKWW
 description:
-actualPrice: 89.99 GBP
-comparePrice: 263.99 GBP
+actualPrice: 114.99 EUR
+comparePrice: 161.75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Corsair Vengeance RGB PRO 16 GB  2 x 8 GB  DDR4 3200 MHz C16 XMP 2.0 Enthusiast RGB LED Illuminated Memory Kit - Black](https://www.amazon.com/dp/B07D1XCKWW/?tag=redken08-20) a 89.99 GBP (original: 263.99 GBP) (65.91 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Corsair Vengeance RGB Pro Módulo de Memoria de Alto Rendimiento 16GB  2 x 8GB DDR4 3200MHz XMP 2.0 C16  Iluminación LED RGB  Negro](https://www.amazon.com/dp/B07D1XCKWW/?tag=redken08-20) a 114.99 EUR (original: 161.75 EUR) (28.91 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41cN0qyJ8LL._SL200_.jpg)](https://www.amazon.com/dp/B07D1XCKWW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/4105zAvDMAL._SL200_.jpg)](https://www.amazon.com/dp/B07D1XCKWW/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07D1XCKWW/?tag=redken08-20)
 

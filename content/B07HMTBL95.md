@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.89 % en Cadbury Dairy Milk Chocolate Bar  95 g'
-date: 2020-04-15 07:04:06
+date: 2020-04-16 16:32:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a2qPjTuFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a2qPjTuFL._SL200_.jpg' ]
 comments: true

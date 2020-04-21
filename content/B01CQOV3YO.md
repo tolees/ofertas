@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.11 % en Bluetooth Speakers  DOSS SoundBox Touch '
-date: 2020-04-08 20:32:55
+date: 2020-04-17 21:52:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51O-IAiSrML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51O-IAiSrML._SL200_.jpg' ]
 comments: true

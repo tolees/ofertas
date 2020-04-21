@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Clip 3 Portable Waterproof Wireless  al 28.59 % de descuento'
-date: 2020-04-14 07:15:18
+date: 2020-04-17 22:46:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Y5EBf-n7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Y5EBf-n7L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego de herramientas de 65 piezas DEKO  al 42.99 % de descuento'
-date: 2020-04-14 08:55:50
+date: 2020-04-16 08:59:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/5134P4uwB5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5134P4uwB5L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.34 % en Festina Reloj Analógico para Hombre de C'
-date: 2020-04-14 15:54:18
+date: 2020-04-20 03:16:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+venV8HAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+venV8HAL._SL200_.jpg' ]
 comments: true

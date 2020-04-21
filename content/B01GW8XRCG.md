@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Days Gone - Playstation 4 al 66.68 % de descuento'
-date: 2020-04-15 23:28:01
+date: 2020-04-17 00:24:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/61uEb1xDThL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61uEb1xDThL._SL200_.jpg' ]
 comments: true

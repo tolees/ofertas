@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli 1277 - Etiquetas  100 hojas al 42.26 % de descuento'
-date: 2020-04-15 00:25:10
+date: 2020-04-16 08:50:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg' ]
 comments: true

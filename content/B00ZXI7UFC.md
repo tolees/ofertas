@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.49 % en Panasonic Lumix DMC-G7KEC - Cámara EVIL '
-date: 2020-04-10 12:04:40
+date: 2020-04-16 20:48:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nBayOR3aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nBayOR3aL._SL200_.jpg' ]
 comments: true

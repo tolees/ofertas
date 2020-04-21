@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.24 % en BEZOX Lima y Elevador de Uñas Encarnadas'
-date: 2020-04-14 16:59:53
+date: 2020-04-17 08:30:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IoxDrzz+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IoxDrzz+L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LG 65SM8500ALEXA - Smart TV NanoCell 4K  al 50.33 % de descuento'
-date: 2020-04-02 18:49:24
+title: 'LG 65SM8500ALEXA - Smart TV NanoCell 4K  al 52.75 % de descuento'
+date: 2020-04-16 14:37:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51k++xHP-gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51k++xHP-gL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SD16BPS
 description:
-actualPrice: 893.5 EUR
+actualPrice: 849.99 EUR
 comparePrice: 1799.0 EUR
 inStock: true
 ---
 
-Está [LG 65SM8500ALEXA - Smart TV NanoCell 4K UHD de 165 cm  65"  con Alexa Integrada  procesador Inteligente Alpha 7 Gen. 2  Deep Learning  100% HDR y Dolby Atmos  Color Negro](https://www.amazon.com/dp/B07SD16BPS/?tag=redken08-20) con 50.33 de descuento por 893.5 EUR (original: 1799.0 EUR) en el siguiente enlace!
+Está [LG 65SM8500ALEXA - Smart TV NanoCell 4K UHD de 165 cm  65"  con Alexa Integrada  procesador Inteligente Alpha 7 Gen. 2  Deep Learning  100% HDR y Dolby Atmos  Color Negro](https://www.amazon.com/dp/B07SD16BPS/?tag=redken08-20) con 52.75 de descuento por 849.99 EUR (original: 1799.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51k++xHP-gL._SL200_.jpg)](https://www.amazon.com/dp/B07SD16BPS/?tag=redken08-20)
 

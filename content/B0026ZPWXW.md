@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel Quicker Clicker Automatic Pencil  al 63.30 % de descuento'
-date: 2020-04-14 07:41:10
+date: 2020-04-17 21:21:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pSQyb1e-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pSQyb1e-L._SL200_.jpg' ]
 comments: true

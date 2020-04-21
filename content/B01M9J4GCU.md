@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.76 % en ELEGOO Conjunto Avanzado de Iniciación C'
-date: 2020-04-08 06:29:38
+date: 2020-04-19 17:55:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/61igZcgJXJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61igZcgJXJL._SL200_.jpg' ]
 comments: true

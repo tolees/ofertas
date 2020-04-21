@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.19 % en Apli 1281  Etiquetas  100  Blanco'
-date: 2020-04-15 00:25:12
+date: 2020-04-18 01:15:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg' ]
 comments: true

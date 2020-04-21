@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.03 % en Valueline VLAP22255B02 Adaptador de Cabl'
-date: 2020-04-14 12:45:43
+date: 2020-04-18 23:25:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TK4283PiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TK4283PiL._SL200_.jpg' ]
 comments: true

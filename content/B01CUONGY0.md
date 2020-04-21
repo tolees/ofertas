@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.21 % en Hoover TE-75 - Aspiradora  700 W  A  27 '
-date: 2020-04-04 12:36:54
+date: 2020-04-17 13:32:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31O0VSbvPnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31O0VSbvPnL._SL200_.jpg' ]
 comments: true

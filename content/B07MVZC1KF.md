@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LoraTap Interruptor Persianas WiFi  Inte al 26.68 % de descuento'
-date: 2020-04-02 13:35:30
+date: 2020-04-16 18:52:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31HOZpGUFvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31HOZpGUFvL._SL200_.jpg' ]
 comments: true

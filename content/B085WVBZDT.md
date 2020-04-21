@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.02 % en Mazhar Natural Beige Cotton Rope Handmad'
-date: 2020-04-14 00:04:04
+date: 2020-04-16 00:02:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/513T01kMNLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513T01kMNLL._SL200_.jpg' ]
 comments: true

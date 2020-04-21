@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daemon X Machina al 35.01 % de descuento'
-date: 2020-03-22 15:48:10
+date: 2020-04-20 20:10:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ns3LDSpVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ns3LDSpVL._SL200_.jpg' ]
 comments: true

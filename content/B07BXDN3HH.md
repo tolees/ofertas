@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Fortalecedor de agarre de mano Kit de en'
-date: 2020-04-15 18:16:02
+date: 2020-04-20 18:50:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NqyJQK2BL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NqyJQK2BL._SL200_.jpg' ]
 comments: true

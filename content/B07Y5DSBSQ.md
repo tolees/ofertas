@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GRIDINLUX. Batería de cocina. 8 piezas d al 49.53 % de descuento'
-date: 2020-03-27 15:46:27
+date: 2020-04-20 13:43:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51i64o5t2nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51i64o5t2nL._SL200_.jpg' ]
 comments: true

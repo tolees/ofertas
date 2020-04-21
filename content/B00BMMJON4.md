@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Descuento del 26.74 % en Geox U Dublin A - Zapatillas para hombre'
-date: 2019/12/27 06:10:48 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MVI7iEu-L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MVI7iEu-L._SL200_.jpg' ]
+title: 'Geox U Dublin A  Derby para Hombre  Negr al 46.00 % de descuento'
+date: 2020-04-16 09:09:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/4144Bf8fXdL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/4144Bf8fXdL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00BMMJON4
 description:
-actualPrice: 73.19 EUR
+actualPrice: 53.95 EUR
 comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Tienes [Geox U Dublin A - Zapatillas para hombre  Negro  BLACKC9999   42 EU](https://www.amazon.com/dp/B00BMMJON4/?tag=redken08-20) con un 26.74 % de descuento con precio de oferta de 73.19 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [Geox U Dublin A  Derby para Hombre  Negro  BLACKC9999   42 EU](https://www.amazon.com/dp/B00BMMJON4/?tag=redken08-20) con 46.00 de descuento por 53.95 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31MVI7iEu-L._SL200_.jpg)](https://www.amazon.com/dp/B00BMMJON4/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/4144Bf8fXdL._SL200_.jpg)](https://www.amazon.com/dp/B00BMMJON4/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00BMMJON4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00BMMJON4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

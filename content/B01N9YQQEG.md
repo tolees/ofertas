@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.85 % en Makita 90352 P-90532 Home Repair Kit  Bl'
-date: 2020-04-15 15:09:43
+date: 2020-04-17 00:08:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51si7fR5LdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51si7fR5LdL._SL200_.jpg' ]
 comments: true

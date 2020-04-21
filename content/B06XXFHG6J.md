@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy S8 Smartphone  4GB RAM  6 al 62.92 % de descuento'
-date: 2020-04-14 22:20:36
+date: 2020-04-19 19:01:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xv4J3jaLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xv4J3jaLL._SL200_.jpg' ]
 comments: true

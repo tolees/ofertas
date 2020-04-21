@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IRWIN VISE-GRIP Wire Stripping Tool / Wi al 38.75 % de descuento'
-date: 2020-04-08 21:25:02
+date: 2020-04-17 00:21:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vxm49BJuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vxm49BJuL._SL200_.jpg' ]
 comments: true

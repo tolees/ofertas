@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 33.91 % en LEGO 43178 - Cinderellas Schlossfest  Di'
-date: 2020-04-15 20:15:05
+title: 'Descuento del 30.01 % en LEGO 43178 - Cinderellas Schlossfest  Di'
+date: 2020-04-16 20:28:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/512d7V1XiFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512d7V1XiFL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07WBZZLRZ
 description:
-actualPrice: 19.82 EUR
+actualPrice: 20.99 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 43178 - Cinderellas Schlossfest  Disney Princess  Bauset](https://www.amazon.com/dp/B07WBZZLRZ/?tag=redken08-20) con un 33.91 % de descuento con precio de oferta de 19.82 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [LEGO 43178 - Cinderellas Schlossfest  Disney Princess  Bauset](https://www.amazon.com/dp/B07WBZZLRZ/?tag=redken08-20) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/512d7V1XiFL._SL200_.jpg)](https://www.amazon.com/dp/B07WBZZLRZ/?tag=redken08-20)
 

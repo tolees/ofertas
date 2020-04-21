@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 66.71 % en NuPro Displayschutzfolie für Kindle und '
-date: 2020-04-13 16:08:15
+date: 2020-04-16 17:36:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cmSVTnwnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cmSVTnwnL._SL200_.jpg' ]
 comments: true

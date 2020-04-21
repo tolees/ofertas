@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX HX-HSCSC-BK Cloud Stinger Core -  al 25.23 % de descuento'
-date: 2020-04-09 07:52:39
+date: 2020-04-17 14:37:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MqbHN+YHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MqbHN+YHL._SL200_.jpg' ]
 comments: true

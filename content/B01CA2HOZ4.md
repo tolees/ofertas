@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chop Sabers Light Up LightSaber Chopstic al 63.42 % de descuento'
-date: 2020-04-14 15:29:14
+date: 2020-04-16 16:42:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xRryDnaBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xRryDnaBL._SL200_.jpg' ]
 comments: true

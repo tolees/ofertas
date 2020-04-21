@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Descuento del 28.78 % en LEGO 76124 Marvel Avengers War Machine A'
-date: 2020-03-26 08:40:42
-thumbnailImage: 'https://m.media-amazon.com/images/I/51kVvm1xbVL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51kVvm1xbVL._SL200_.jpg' ]
+title: 'LEGO Marvel Super Heroes 76124 War Machi al 25.72 % de descuento'
+date: 2020-04-18 00:21:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/51lK6t2JLtL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51lK6t2JLtL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FP2GRY3
 description:
-actualPrice: 21.36 GBP
-comparePrice: 29.99 GBP
+actualPrice: 25.99 EUR
+comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 76124 Marvel Avengers War Machine Action Figure  Ant-Man Minifigure  Super Heroes Playset  Colourful](https://www.amazon.com/dp/B07FP2GRY3/?tag=redken08-20) con un 28.78 % de descuento con precio de oferta de 21.36 GBP (original: 29.99 GBP) en el siguiente enlace!
+Está [LEGO Marvel Super Heroes 76124 War Machine Buster](https://www.amazon.com/dp/B07FP2GRY3/?tag=redken08-20) con 25.72 de descuento por 25.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51kVvm1xbVL._SL200_.jpg)](https://www.amazon.com/dp/B07FP2GRY3/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51lK6t2JLtL._SL200_.jpg)](https://www.amazon.com/dp/B07FP2GRY3/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07FP2GRY3/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FP2GRY3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

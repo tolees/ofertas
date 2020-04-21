@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ghost Parade al 37.51 % de descuento'
-date: 2020-04-14 12:28:25
+date: 2020-04-18 20:28:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UlmT1kFEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UlmT1kFEL._SL200_.jpg' ]
 comments: true

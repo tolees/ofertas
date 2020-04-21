@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.49 % en Hasbro Connect 4 Game'
-date: 2020-04-15 07:19:44
+date: 2020-04-17 21:31:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/5154mQi+rzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5154mQi+rzL._SL200_.jpg' ]
 comments: true

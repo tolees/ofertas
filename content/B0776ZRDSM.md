@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Original Fine Pique Polo  al 32.75 % de descuento'
-date: 2020-03-31 18:05:55
+date: 2020-04-20 11:24:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CmYx8vNzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CmYx8vNzL._SL200_.jpg' ]
 comments: true

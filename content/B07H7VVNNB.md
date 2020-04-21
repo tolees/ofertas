@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Simple Woodturning Tools Carbide Lathe T al 40.68 % de descuento'
-date: 2020-04-14 15:58:31
+date: 2020-04-16 17:03:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SrFT3EzSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SrFT3EzSL._SL200_.jpg' ]
 comments: true

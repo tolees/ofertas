@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en DXX Technik Bausteine Gabelstapler  1719'
-date: 2020-04-14 16:25:43
+date: 2020-04-16 17:48:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kcj4dogBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kcj4dogBL._SL200_.jpg' ]
 comments: true

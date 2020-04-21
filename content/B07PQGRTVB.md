@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 22m - Monitor LED de 21.5"  Full HD   al 43.52 % de descuento'
-date: 2020-04-15 18:14:14
+date: 2020-04-20 09:46:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AA9TnMn7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AA9TnMn7L._SL200_.jpg' ]
 comments: true

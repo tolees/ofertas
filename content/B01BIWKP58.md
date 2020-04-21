@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Crucial CT8G4SFS824A 8 GB  DDR4  2400 MT al 54.29 % de descuento'
-date: 2020-04-15 06:59:41
+title: 'Crucial CT8G4SFS824A 8 GB  DDR4  2400 MT al 47.44 % de descuento'
+date: 2020-04-17 08:08:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51esjcOy79L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51esjcOy79L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01BIWKP58
 description:
-actualPrice: 35.65 GBP
+actualPrice: 40.99 GBP
 comparePrice: 77.99 GBP
 inStock: true
 ---
 
-Está [Crucial CT8G4SFS824A 8 GB  DDR4  2400 MT/s  PC4-19200  Single Rank x8  SODIMM  260-Pin  Memory](https://www.amazon.com/dp/B01BIWKP58/?tag=redken08-20) con 54.29 de descuento por 35.65 GBP (original: 77.99 GBP) en el siguiente enlace!
+Está [Crucial CT8G4SFS824A 8 GB  DDR4  2400 MT/s  PC4-19200  Single Rank x8  SODIMM  260-Pin  Memory](https://www.amazon.com/dp/B01BIWKP58/?tag=redken08-20) con 47.44 de descuento por 40.99 GBP (original: 77.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51esjcOy79L._SL200_.jpg)](https://www.amazon.com/dp/B01BIWKP58/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.01 % en Umi by Amazon Auriculares inalámbricos B'
-date: 2020-04-05 09:02:41
+date: 2020-04-20 08:57:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HfUAmXElL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HfUAmXElL._SL200_.jpg' ]
 comments: true

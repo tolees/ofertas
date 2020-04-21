@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.72 % en AMD Athlon 200GE 3.2GHz 4MB L3 Caja - Pr'
-date: 2020-04-14 19:42:33
+date: 2020-04-20 19:21:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HAJaokSxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HAJaokSxL._SL200_.jpg' ]
 comments: true

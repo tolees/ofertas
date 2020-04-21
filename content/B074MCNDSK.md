@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.25 % en Samsung T5 2TB - Disco Estado sólido SSD'
-date: 2020-04-15 11:23:14
+date: 2020-04-21 09:09:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31TzT7--frL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31TzT7--frL._SL200_.jpg' ]
 comments: true

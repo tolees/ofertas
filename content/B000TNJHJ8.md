@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Galt Toys Paint a Tea Set al 33.36 % de descuento'
-date: 2020-04-09 22:27:13
+date: 2020-04-17 08:04:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QXdbVgNLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QXdbVgNLL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Dockers Bic Alpha Original Skinny-Stretc al 51.59 % de descuento'
-date: 2020-04-08 08:40:22
+title: 'Dockers Bic Alpha Original Skinny-Stretc al 67.17 % de descuento'
+date: 2020-04-18 14:58:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ooxby6vfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ooxby6vfL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B017IN0GNM
 description:
-actualPrice: 38.73 EUR
+actualPrice: 26.26 EUR
 comparePrice: 80.0 EUR
 inStock: true
 ---
 
-Está [Dockers Bic Alpha Original Skinny-Stretch Twill  Pantalones para Hombre  Negro  BLACK 70   W38/L32](https://www.amazon.com/dp/B017IN0GNM/?tag=redken08-20) con 51.59 de descuento por 38.73 EUR (original: 80.0 EUR) en el siguiente enlace!
+Está [Dockers Bic Alpha Original Skinny-Stretch Twill  Pantalones para Hombre  Negro  BLACK 70   W38/L32](https://www.amazon.com/dp/B017IN0GNM/?tag=redken08-20) con 67.17 de descuento por 26.26 EUR (original: 80.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ooxby6vfL._SL200_.jpg)](https://www.amazon.com/dp/B017IN0GNM/?tag=redken08-20)
 

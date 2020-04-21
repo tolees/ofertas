@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD Red - Disco duro para NAS  4 TB al 36.97 % de descuento'
-date: 2020-04-14 08:59:21
+date: 2020-04-20 13:41:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/414cRcjvrQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414cRcjvrQL._SL200_.jpg' ]
 comments: true

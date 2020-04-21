@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.30 % en Fossil Reloj Cronógrafo para Hombre de C'
-date: 2020-04-11 03:48:02
+date: 2020-04-21 05:49:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QBZVCiX2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QBZVCiX2L._SL200_.jpg' ]
 comments: true

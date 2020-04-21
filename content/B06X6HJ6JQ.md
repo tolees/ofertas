@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.73 % en Puma Reloj Digital para Hombre de Cuarzo'
-date: 2020-03-11 18:48:15
+date: 2020-04-16 07:02:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cHeAXZH3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cHeAXZH3L._SL200_.jpg' ]
 comments: true

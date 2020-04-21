@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.02 % en Hasbro Gaming Battleship Shots'
-date: 2020-04-15 07:19:38
+date: 2020-04-17 22:38:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pPrgcXKfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pPrgcXKfL._SL200_.jpg' ]
 comments: true

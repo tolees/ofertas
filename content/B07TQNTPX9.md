@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Levi s The Original Camiseta  Verde  Hm  al 50.00 % de descuento'
-date: 2020-04-10 13:28:40
+title: 'Levi s The Original Camiseta  Verde  Hm  al 28.04 % de descuento'
+date: 2020-04-20 19:50:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TQNTPX9
 description:
-actualPrice: 12.5 EUR
+actualPrice: 17.99 EUR
 comparePrice: 25.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s The Original Camiseta  Verde  Hm Patch OG Hm tee Olive Night 0010   Large para Hombre](https://www.amazon.com/dp/B07TQNTPX9/?tag=redken08-20) a 12.5 EUR (original: 25.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Levi s The Original Camiseta  Verde  Hm Patch OG Hm tee Olive Night 0010   Large para Hombre](https://www.amazon.com/dp/B07TQNTPX9/?tag=redken08-20) a 17.99 EUR (original: 25.0 EUR) (28.04 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg)](https://www.amazon.com/dp/B07TQNTPX9/?tag=redken08-20)
 

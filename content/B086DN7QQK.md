@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ColiCor Display Stand Soporte para Lego  al 27.79 % de descuento'
-date: 2020-04-14 17:08:05
+date: 2020-04-16 18:20:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QqdjB3EDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QqdjB3EDL._SL200_.jpg' ]
 comments: true

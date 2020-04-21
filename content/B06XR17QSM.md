@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.51 % en Bosch EasyImpact 550 - Taladro percutor '
-date: 2020-04-08 08:46:36
+title: 'Descuento del 40.44 % en Bosch EasyImpact 550 - Taladro percutor '
+date: 2020-04-21 06:35:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51z9BOT-bTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51z9BOT-bTL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06XR17QSM
 description:
-actualPrice: 49.9 EUR
+actualPrice: 39.9 EUR
 comparePrice: 66.99 EUR
 inStock: true
 ---
 
-Tienes [Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín ](https://www.amazon.com/dp/B06XR17QSM/?tag=redken08-20) con un 25.51 % de descuento con precio de oferta de 49.9 EUR (original: 66.99 EUR) en el siguiente enlace!
+Tienes [Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín ](https://www.amazon.com/dp/B06XR17QSM/?tag=redken08-20) con un 40.44 % de descuento con precio de oferta de 39.9 EUR (original: 66.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51z9BOT-bTL._SL200_.jpg)](https://www.amazon.com/dp/B06XR17QSM/?tag=redken08-20)
 

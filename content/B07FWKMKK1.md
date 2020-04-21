@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.15 % en Mattel GFB55 - Disney Pixar Toy Story 4 '
-date: 2020-04-14 08:27:19
+date: 2020-04-16 08:33:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iWwbMvYxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iWwbMvYxL._SL200_.jpg' ]
 comments: true

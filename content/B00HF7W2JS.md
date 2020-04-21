@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.25 % en KIND Bars  Nuts and Spices Variety Pack '
-date: 2020-04-14 07:47:04
+date: 2020-04-16 17:10:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZzPuknuOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZzPuknuOL._SL200_.jpg' ]
 comments: true

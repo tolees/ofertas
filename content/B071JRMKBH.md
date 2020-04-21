@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 61.74 % en Mario + Rabbids Kingdom Battle - Nintend'
-date: 2020-04-14 15:56:00
+date: 2020-04-17 22:06:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IFnBhKeQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IFnBhKeQL._SL200_.jpg' ]
 comments: true

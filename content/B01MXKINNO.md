@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pulsar Reloj de Pulsera PZ4006X1 al 63.38 % de descuento'
-date: 2020-04-08 03:33:46
+date: 2020-04-18 13:07:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pQzvjuXAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pQzvjuXAL._SL200_.jpg' ]
 comments: true

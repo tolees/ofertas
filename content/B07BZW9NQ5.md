@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming E2420100 - Schnapp n Happe al 64.21 % de descuento'
-date: 2020-04-14 16:09:14
+date: 2020-04-18 00:17:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JmOfB47hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JmOfB47hL._SL200_.jpg' ]
 comments: true

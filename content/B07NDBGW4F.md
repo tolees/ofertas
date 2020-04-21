@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO 41165 Disney Frozen II Anna s Canoe al 29.96 % de descuento'
-date: 2020-03-14 02:26:19
-thumbnailImage: 'https://m.media-amazon.com/images/I/51dZFswXH8L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51dZFswXH8L._SL200_.jpg' ]
+title: 'LEGO 41165 Disney Annas Kanufahrt  Bause al 30.02 % de descuento'
+date: 2020-04-16 20:27:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NDBGW4F
 description:
-actualPrice: 12.6 GBP
-comparePrice: 17.99 GBP
+actualPrice: 13.99 EUR
+comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [LEGO 41165 Disney Frozen II Anna s Canoe Expeditionwith Princess Anna and Olaf Mini dolls Plus Bunny Rabbit Figure  Easy Build Preschool Toy for 4-7 Years Old with Bricks Base Plate](https://www.amazon.com/dp/B07NDBGW4F/?tag=redken08-20) con 29.96 de descuento por 12.6 GBP (original: 17.99 GBP) en el siguiente enlace!
+Está [LEGO 41165 Disney Annas Kanufahrt  Bauset  Mehrfarbig](https://www.amazon.com/dp/B07NDBGW4F/?tag=redken08-20) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51dZFswXH8L._SL200_.jpg)](https://www.amazon.com/dp/B07NDBGW4F/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg)](https://www.amazon.com/dp/B07NDBGW4F/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07NDBGW4F/?tag=redken08-20)
 

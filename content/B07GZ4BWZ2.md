@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black+Decker BEH710K-QS Taladro Percutor al 25.05 % de descuento'
-date: 2020-04-06 07:37:12
+date: 2020-04-19 08:25:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/412bugMIPOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412bugMIPOL._SL200_.jpg' ]
 comments: true

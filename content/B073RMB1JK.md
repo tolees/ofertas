@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Silver HT - Funda para eReader Libro ele al 39.75 % de descuento'
-date: 2020-04-14 09:01:04
+date: 2020-04-18 02:35:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Pyq+tQBwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Pyq+tQBwL._SL200_.jpg' ]
 comments: true

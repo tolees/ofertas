@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Avent SCF553/03 - Vaso con boqui al 50.06 % de descuento'
-date: 2020-04-14 10:53:06
+date: 2020-04-18 10:40:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41S+O82NX9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41S+O82NX9L._SL200_.jpg' ]
 comments: true

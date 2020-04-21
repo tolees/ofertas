@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Botas para Hombre De Seguridad Puntera D al 53.76 % de descuento'
-date: 2020-04-10 07:43:56
+title: 'Black Hammer Mens Safety Boots Steel Toe al 58.58 % de descuento'
+date: 2020-04-16 06:54:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AwwlGViwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AwwlGViwL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01CSUKUQ8
 description:
-actualPrice: 36.99 EUR
-comparePrice: 79.99 EUR
+actualPrice: 28.99 GBP
+comparePrice: 69.99 GBP
 inStock: true
 ---
 
-Está [Botas para Hombre De Seguridad Puntera De Acero Zapatos De Trabajo Senderismo Plantilla De Protección Unisex-Adulto S1P SRC CE Aprobado Black Hammer 9952 Black Hammer  45 EU ](https://www.amazon.com/dp/B01CSUKUQ8/?tag=redken08-20) con 53.76 de descuento por 36.99 EUR (original: 79.99 EUR) en el siguiente enlace!
+Está [Black Hammer Mens Safety Boots Steel Toe Cap Work Shoes Ankle Trainers Hiker Protective Mid Sole S1P SRC 9952  11 UK  Black](https://www.amazon.com/dp/B01CSUKUQ8/?tag=redken08-20) con 58.58 de descuento por 28.99 GBP (original: 69.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41AwwlGViwL._SL200_.jpg)](https://www.amazon.com/dp/B01CSUKUQ8/?tag=redken08-20)
 

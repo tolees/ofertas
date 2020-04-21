@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Set para Cuidado del Bebé  Conveniente B al 45.18 % de descuento'
-date: 2020-04-15 17:12:47
+date: 2020-04-17 03:46:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WwM4myclL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WwM4myclL._SL200_.jpg' ]
 comments: true

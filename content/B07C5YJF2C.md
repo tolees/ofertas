@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en JACK & JONES Jjitim Jjoriginal JJ 119 Li'
-date: 2020-04-14 15:56:55
+date: 2020-04-17 14:40:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41b9XWx3jgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41b9XWx3jgL._SL200_.jpg' ]
 comments: true

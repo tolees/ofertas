@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Nicewell Food Scale  22lb Digital Kitche'
-date: 2020-04-07 21:05:14
+date: 2020-04-17 22:51:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZT1DVxy7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZT1DVxy7L._SL200_.jpg' ]
 comments: true

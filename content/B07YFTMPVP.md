@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.45 % en COOAU 4K Camara Deportiva 20MP WiFi Sume'
-date: 2020-04-14 09:38:23
+date: 2020-04-20 08:03:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iNnRjsubL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iNnRjsubL._SL200_.jpg' ]
 comments: true

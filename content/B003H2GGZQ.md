@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aveeno Daily Moisturising Body Lotion -  al 34.73 % de descuento'
-date: 2020-04-15 07:01:56
+date: 2020-04-17 19:04:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+5mc4f+SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+5mc4f+SL._SL200_.jpg' ]
 comments: true

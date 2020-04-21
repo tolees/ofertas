@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hisense H55BE7000  Smart Tv 55  4K Ultra al 29.86 % de descuento'
-date: 2020-03-23 10:08:34
+date: 2020-04-19 17:34:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/4126OIYntEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4126OIYntEL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clatronic AS 2958 Cortafiambres  Corte A al 32.26 % de descuento'
-date: 2020-04-08 20:12:40
+date: 2020-04-18 01:16:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yjMOsD4pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yjMOsD4pL._SL200_.jpg' ]
 comments: true

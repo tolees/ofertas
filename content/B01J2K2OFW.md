@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'The Witcher 3: Wild Hunt - Game Of The Y al 48.46 % de descuento'
-date: 2020-03-06 09:22:57
-thumbnailImage: 'https://m.media-amazon.com/images/I/61xtg4ItezL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/61xtg4ItezL._AC_._SL200_.jpg' ]
+title: 'The Witcher 3: Wild Hunt - Game Of The Y al 35.45 % de descuento'
+date: 2020-04-18 14:04:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/61xtg4ItezL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61xtg4ItezL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01J2K2OFW
 description:
-actualPrice: 19.9 EUR
-comparePrice: 38.61 EUR
+actualPrice: 20.59 EUR
+comparePrice: 31.9 EUR
 inStock: true
 ---
 
-Está [The Witcher 3: Wild Hunt - Game Of The Year Edition](https://www.amazon.com/dp/B01J2K2OFW/?tag=redken08-20) con 48.46 de descuento por 19.9 EUR (original: 38.61 EUR) en el siguiente enlace!
+Está [The Witcher 3: Wild Hunt - Game Of The Year Edition](https://www.amazon.com/dp/B01J2K2OFW/?tag=redken08-20) con 35.45 de descuento por 20.59 EUR (original: 31.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61xtg4ItezL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01J2K2OFW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/61xtg4ItezL._SL200_.jpg)](https://www.amazon.com/dp/B01J2K2OFW/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01J2K2OFW/?tag=redken08-20)
 

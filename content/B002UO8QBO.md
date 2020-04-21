@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.82 % en Rolson Tools 60379 Magnetic Pick Up Tool'
-date: 2020-04-15 23:13:20
+date: 2020-04-17 00:07:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+aeLSMjRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+aeLSMjRL._SL200_.jpg' ]
 comments: true

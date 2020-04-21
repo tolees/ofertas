@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 31.22 % en Funko Pop! Town: Nightmare Before Christ'
-date: 2020-04-10 15:11:29
+title: 'Descuento del 25.37 % en Funko Pop! Town: Nightmare Before Christ'
+date: 2020-04-17 22:45:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wlfPMFPQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wlfPMFPQL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PX3QQ3C
 description:
-actualPrice: 22.69 USD
+actualPrice: 24.62 USD
 comparePrice: 32.99 USD
 inStock: true
 ---
 
-Tienes [Funko Pop! Town: Nightmare Before Christmas - Jack Skellington with Jack s House](https://www.amazon.com/dp/B07PX3QQ3C/?tag=redken08-20) con un 31.22 % de descuento con precio de oferta de 22.69 USD (original: 32.99 USD) en el siguiente enlace!
+Tienes [Funko Pop! Town: Nightmare Before Christmas - Jack Skellington with Jack s House](https://www.amazon.com/dp/B07PX3QQ3C/?tag=redken08-20) con un 25.37 % de descuento con precio de oferta de 24.62 USD (original: 32.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51wlfPMFPQL._SL200_.jpg)](https://www.amazon.com/dp/B07PX3QQ3C/?tag=redken08-20)
 

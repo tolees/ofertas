@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sierra Circular  HYCHIKA Mini Sierra Cir al 40.05 % de descuento'
-date: 2020-04-15 10:48:18
+date: 2020-04-16 15:41:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GkYLcsu8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GkYLcsu8L._SL200_.jpg' ]
 comments: true

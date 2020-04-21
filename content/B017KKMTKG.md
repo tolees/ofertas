@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Woodluv Slimline Bamboo Kitchen Islands '
-date: 2020-04-10 14:37:43
+date: 2020-04-17 08:10:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dOjoltZLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dOjoltZLL._SL200_.jpg' ]
 comments: true

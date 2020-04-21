@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SILIK para Mujer Entrenamiento Deportivo al 29.64 % de descuento'
-date: 2020-04-03 08:53:57
+date: 2020-04-19 17:17:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/319-bddtk7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319-bddtk7L._SL200_.jpg' ]
 comments: true

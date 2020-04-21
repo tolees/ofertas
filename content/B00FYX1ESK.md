@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 75.04 % en Battlefield 4 [Instant Access]'
-date: 2020-04-14 08:11:46
+date: 2020-04-17 00:23:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f7QZ0u5VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f7QZ0u5VL._SL200_.jpg' ]
 comments: true

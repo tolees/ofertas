@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GOW Hits al 25.46 % de descuento'
-date: 2020-04-07 06:28:11
+date: 2020-04-21 08:42:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/516A60Qcr1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516A60Qcr1L._SL200_.jpg' ]
 comments: true

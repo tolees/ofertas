@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.95 % en adidas Galaxy 26  Zapatillas de Running '
-date: 2020-03-24 18:32:34
+date: 2020-04-18 08:25:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NFbWex0NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NFbWex0NL._SL200_.jpg' ]
 comments: true

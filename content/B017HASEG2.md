@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro B5286ES2 Disney Prinzessin Schimm al 32.86 % de descuento'
-date: 2020-04-15 07:39:54
+date: 2020-04-16 08:02:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uRMQYfXdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uRMQYfXdL._SL200_.jpg' ]
 comments: true

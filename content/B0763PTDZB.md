@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.39 % en MolinQ Cartera para Tarjetas de Crédito '
-date: 2020-04-14 16:52:21
+date: 2020-04-16 08:54:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xQ+pVVRRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xQ+pVVRRL._SL200_.jpg' ]
 comments: true

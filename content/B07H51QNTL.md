@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Princes Tuna Chunks In Brine Pack  4 x 1'
-date: 2020-04-15 15:11:16
+date: 2020-04-17 20:20:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41t3A5pKeHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41t3A5pKeHL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 COTU Classic  Zapatillas de al 52.56 % de descuento'
-date: 2020-04-08 09:29:00
+date: 2020-04-16 10:04:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg' ]
 comments: true

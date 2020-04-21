@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Persil Non Bio Washing Detergent Powder  al 45.83 % de descuento'
-date: 2020-04-13 17:23:50
+date: 2020-04-17 20:20:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WIqvkKFoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WIqvkKFoL._SL200_.jpg' ]
 comments: true

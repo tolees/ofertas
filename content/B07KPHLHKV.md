@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.21 % en Funko Pop! Marvel: Captain Marvel - Goos'
-date: 2020-04-13 15:23:36
+date: 2020-04-17 22:35:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BiHyB5m7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BiHyB5m7L._SL200_.jpg' ]
 comments: true

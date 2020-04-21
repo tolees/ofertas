@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Final Fantasy XV  Royal Edition PS4 al 67.15 % de descuento'
-date: 2020-04-15 00:53:30
+title: 'Final Fantasy XV  Royal Edition PS4 al 46.95 % de descuento'
+date: 2020-04-20 13:31:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51i2AkHKXQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51i2AkHKXQL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0794TLTTR
 description:
-actualPrice: 16.42 EUR
+actualPrice: 26.52 EUR
 comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Final Fantasy XV  Royal Edition PS4](https://www.amazon.com/dp/B0794TLTTR/?tag=redken08-20) con 67.15 de descuento por 16.42 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Final Fantasy XV  Royal Edition PS4](https://www.amazon.com/dp/B0794TLTTR/?tag=redken08-20) con 46.95 de descuento por 26.52 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51i2AkHKXQL._SL200_.jpg)](https://www.amazon.com/dp/B0794TLTTR/?tag=redken08-20)
 

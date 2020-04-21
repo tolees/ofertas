@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ibiza Sound PORT12VHF- BT Sistema de son al 26.64 % de descuento'
-date: 2020-04-13 22:25:56
+date: 2020-04-19 10:50:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Jho3UTjaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Jho3UTjaL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec 3490 Elite Conga Serie Robot Asp al 30.08 % de descuento'
-date: 2020-04-15 16:15:57
+date: 2020-04-16 18:52:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wBvRNSmbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wBvRNSmbL._SL200_.jpg' ]
 comments: true

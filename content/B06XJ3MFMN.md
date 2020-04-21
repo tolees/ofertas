@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Nespresso Krups Essenza Mini XN1101 - Ca al 50.83 % de descuento'
-date: 2020-04-08 06:44:15
-thumbnailImage: 'https://m.media-amazon.com/images/I/31FbJNETOaL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31FbJNETOaL._SL200_.jpg' ]
+date: 2020-04-17 16:10:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/41lq-fhxMPL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41lq-fhxMPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Nespresso Krups Essenza Mini XN1101 - Cafetera monodosis de cápsulas Nespresso  compacta  19 bares  apagado automático  color blanco  Pack Cápsulas bienvenida incluido ](https://www.amazon.com/dp/B06XJ3MFMN/?tag=redken08-20) con 50.83 de descuento por 59.0 EUR (original: 119.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31FbJNETOaL._SL200_.jpg)](https://www.amazon.com/dp/B06XJ3MFMN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41lq-fhxMPL._SL200_.jpg)](https://www.amazon.com/dp/B06XJ3MFMN/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B06XJ3MFMN/?tag=redken08-20)
 

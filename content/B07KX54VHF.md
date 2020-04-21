@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 25.12 % en LEGO 75957 Harry Potter Knight Bus Toy  '
-date: 2020-03-14 20:39:15
-thumbnailImage: 'https://m.media-amazon.com/images/I/512WW7IAIJL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/512WW7IAIJL._SL200_.jpg' ]
+title: 'Descuento del 25.01 % en LEGO Harry Potter - Autobús Noctámbulo  '
+date: 2020-04-19 13:20:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KX54VHF
 description:
-actualPrice: 26.2 GBP
-comparePrice: 34.99 GBP
+actualPrice: 29.99 EUR
+comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 75957 Harry Potter Knight Bus Toy  Triple-decker Collectible Set with Minifigures](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) con un 25.12 % de descuento con precio de oferta de 26.2 GBP (original: 34.99 GBP) en el siguiente enlace!
+Tienes [LEGO Harry Potter - Autobús Noctámbulo  Juguete de Construcción del Mágico Autobús de 3 Plantas  Incluye 3 Minifiguras  75957 ](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/512WW7IAIJL._SL200_.jpg)](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg)](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20)
 

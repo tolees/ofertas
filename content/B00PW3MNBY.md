@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bristan CSH EFSNK C Cashew Easyfit Kitch al 37.63 % de descuento'
-date: 2020-04-15 22:54:07
+date: 2020-04-17 00:05:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Q4dqTAHSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Q4dqTAHSL._SL200_.jpg' ]
 comments: true

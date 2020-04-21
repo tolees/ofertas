@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.04 % en Levi s Perfect-tee Camiseta de Manga Cor'
-date: 2020-04-09 10:18:15
+date: 2020-04-17 17:12:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sFhdK2skL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sFhdK2skL._SL200_.jpg' ]
 comments: true

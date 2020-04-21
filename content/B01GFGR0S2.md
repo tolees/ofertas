@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lixada Cubrezapatos Térmico Impermeable  al 40.03 % de descuento'
-date: 2020-03-31 14:54:31
+date: 2020-04-17 13:45:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hLrus1CDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hLrus1CDL._SL200_.jpg' ]
 comments: true
