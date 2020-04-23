@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Compex SP 8.0 Electroestimulador  Unisex al 30.02 % de descuento'
-date: 2020-04-11 07:35:50
+title: 'Compex SP 8.0 Electroestimulador  Unisex al 30.25 % de descuento'
+date: 2020-04-21 16:33:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41su8JqQTsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41su8JqQTsL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00NDA9OY2
 description:
-actualPrice: 860.0 EUR
+actualPrice: 857.18 EUR
 comparePrice: 1229.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Compex SP 8.0 Electroestimulador  Unisex  Negro  0](https://www.amazon.com/dp/B00NDA9OY2/?tag=redken08-20) a 860.0 EUR (original: 1229.0 EUR) (30.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Compex SP 8.0 Electroestimulador  Unisex  Negro  0](https://www.amazon.com/dp/B00NDA9OY2/?tag=redken08-20) a 857.18 EUR (original: 1229.0 EUR) (30.25 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41su8JqQTsL._SL200_.jpg)](https://www.amazon.com/dp/B00NDA9OY2/?tag=redken08-20)
 

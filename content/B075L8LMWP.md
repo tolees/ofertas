@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Memoria Flash USB 128MB 10 Piezas Pen Dr al 31.54 % de descuento'
-date: 2020-04-03 01:02:18
+date: 2020-04-22 09:34:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eiWF93GXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eiWF93GXL._SL200_.jpg' ]
 comments: true

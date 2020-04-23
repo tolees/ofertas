@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'PUMA Flyer Runner  Zapatillas de Running al 38.96 % de descuento'
-date: 2020-04-03 17:46:03
-thumbnailImage: 'https://m.media-amazon.com/images/I/41aBQKmRTFL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41aBQKmRTFL._SL200_.jpg' ]
+date: 2020-04-22 15:04:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/31oSAZLplnL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31oSAZLplnL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Negro Black Black White  43 EU](https://www.amazon.com/dp/B07DBWVFT9/?tag=redken08-20) con 38.96 de descuento por 30.49 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41aBQKmRTFL._SL200_.jpg)](https://www.amazon.com/dp/B07DBWVFT9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31oSAZLplnL._SL200_.jpg)](https://www.amazon.com/dp/B07DBWVFT9/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07DBWVFT9/?tag=redken08-20)
 

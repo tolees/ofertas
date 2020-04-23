@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.28 % en PETKIT Botella de Agua de Viaje para Mas'
-date: 2020-03-27 20:13:48
+date: 2020-04-21 11:12:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ydRlZZK2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ydRlZZK2L._SL200_.jpg' ]
 comments: true

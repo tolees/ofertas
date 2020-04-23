@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Hasbro Gaming - Juego infantil Corona Co al 30.13 % de descuento'
-date: 2020-04-20 15:56:51
+title: 'Hasbro Gaming - Juego infantil Corona Co al 32.93 % de descuento'
+date: 2020-04-22 17:34:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51T6OQKugzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51T6OQKugzL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07DD72NKR
 description:
-actualPrice: 6.98 EUR
+actualPrice: 6.7 EUR
 comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hasbro Gaming - Juego infantil Corona Comilona Hasbro E2420175 ](https://www.amazon.com/dp/B07DD72NKR/?tag=redken08-20) a 6.98 EUR (original: 9.99 EUR) (30.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Hasbro Gaming - Juego infantil Corona Comilona Hasbro E2420175 ](https://www.amazon.com/dp/B07DD72NKR/?tag=redken08-20) a 6.7 EUR (original: 9.99 EUR) (32.93 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51T6OQKugzL._SL200_.jpg)](https://www.amazon.com/dp/B07DD72NKR/?tag=redken08-20)
 

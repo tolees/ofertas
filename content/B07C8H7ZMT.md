@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'URAQT 16 pcs Grandes Playa Toalla Clips  al 43.11 % de descuento'
-date: 2020-04-07 19:16:30
+date: 2020-04-22 10:16:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Lj9P578ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Lj9P578ZL._SL200_.jpg' ]
 comments: true

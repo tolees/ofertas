@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini Ventiladores de Sobremesa  Ventilad al 34.15 % de descuento'
-date: 2020-04-20 18:59:22
+date: 2020-04-21 20:39:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ueR5rZv-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ueR5rZv-L._SL200_.jpg' ]
 comments: true

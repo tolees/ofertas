@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.33 % en D-Link DGS-1100-05 - Switch 5 Puertos Gi'
-date: 2020-04-07 12:16:51
+date: 2020-04-22 14:18:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eJHbEHnnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eJHbEHnnL._SL200_.jpg' ]
 comments: true

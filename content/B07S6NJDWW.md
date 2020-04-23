@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.04 % en PUMA Flyer Runner  Zapatillas de Running'
-date: 2020-04-19 09:08:40
+date: 2020-04-22 20:34:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WFsPuX6wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WFsPuX6wL._SL200_.jpg' ]
 comments: true

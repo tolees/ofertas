@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brother HL-L3210CW - Impresora láser col al 35.50 % de descuento'
-date: 2020-04-15 07:25:35
+date: 2020-04-21 13:56:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IR32mhZeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IR32mhZeL._SL200_.jpg' ]
 comments: true

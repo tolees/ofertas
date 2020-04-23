@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BaByliss MEN E650E Perfilador para nariz al 25.00 % de descuento'
-date: 2020-04-20 11:15:01
+date: 2020-04-21 11:28:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/21bo2neMddL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21bo2neMddL._SL200_.jpg' ]
 comments: true

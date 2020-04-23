@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NBA 2k20 al 29.54 % de descuento'
-date: 2020-04-15 09:05:36
+date: 2020-04-21 17:26:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zAXzVXefL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zAXzVXefL._SL200_.jpg' ]
 comments: true

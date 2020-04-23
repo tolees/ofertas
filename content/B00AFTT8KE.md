@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Reloj Analógico para Mujer de Cua al 30.00 % de descuento'
-date: 2020-04-11 22:35:26
+date: 2020-04-22 06:23:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41v0y9vRtYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41v0y9vRtYL._SL200_.jpg' ]
 comments: true

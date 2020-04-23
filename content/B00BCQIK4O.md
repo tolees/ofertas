@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips HP8232/00 DryCare Advanced - Sec al 25.29 % de descuento'
-date: 2020-04-20 12:49:45
+date: 2020-04-21 13:16:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w5GPGXf-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w5GPGXf-L._SL200_.jpg' ]
 comments: true

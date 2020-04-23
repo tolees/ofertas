@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BaByliss Pro MiraCurl BAB2665E - Rizador al 34.66 % de descuento'
-date: 2020-04-17 23:21:59
+date: 2020-04-21 15:52:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/319oh8AJKZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319oh8AJKZL._SL200_.jpg' ]
 comments: true

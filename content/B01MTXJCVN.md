@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.72 % en Epson WFDS360W - Escáner de Color móvil '
-date: 2020-04-20 21:22:45
+date: 2020-04-22 16:33:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-76nrabOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-76nrabOL._SL200_.jpg' ]
 comments: true

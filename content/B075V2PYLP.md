@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Irrigador Dental Profesional Portátil 30 al 34.62 % de descuento'
-date: 2020-04-20 06:58:27
+date: 2020-04-22 08:07:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41e06L3E6gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41e06L3E6gL._SL200_.jpg' ]
 comments: true

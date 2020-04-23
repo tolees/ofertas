@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Levi s The Original Camiseta  Rojo  Hm P'
-date: 2020-04-15 14:49:48
+date: 2020-04-22 14:32:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JMqQE4E6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JMqQE4E6L._SL200_.jpg' ]
 comments: true

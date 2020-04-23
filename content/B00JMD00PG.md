@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 41.51 % en Canson Iris - Cartulina  50 Unidades  Co'
-date: 2020-04-02 21:09:36
+title: 'Descuento del 48.45 % en Canson Iris - Cartulina  50 Unidades  Co'
+date: 2020-04-23 00:35:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rNR0zFIBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rNR0zFIBL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B00JMD00PG
 description:
 actualPrice: 5.65 EUR
-comparePrice: 9.66 EUR
+comparePrice: 10.96 EUR
 inStock: true
 ---
 
-Tienes [Canson Iris - Cartulina  50 Unidades  Color Gris Perla](https://www.amazon.com/dp/B00JMD00PG/?tag=redken08-20) con un 41.51 % de descuento con precio de oferta de 5.65 EUR (original: 9.66 EUR) en el siguiente enlace!
+Tienes [Canson Iris - Cartulina  50 Unidades  Color Gris Perla](https://www.amazon.com/dp/B00JMD00PG/?tag=redken08-20) con un 48.45 % de descuento con precio de oferta de 5.65 EUR (original: 10.96 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31rNR0zFIBL._SL200_.jpg)](https://www.amazon.com/dp/B00JMD00PG/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en Sabrent Concentrador USB 3.0 con 4 Puert'
-date: 2020-04-11 09:05:28
+date: 2020-04-21 10:34:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gJElF6FgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gJElF6FgL._SL200_.jpg' ]
 comments: true

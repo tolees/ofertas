@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 36.04 % en Levi s The Original tee Camiseta  Gris  '
-date: 2020-04-13 10:52:24
+title: 'Descuento del 28.04 % en Levi s The Original tee Camiseta  Gris  '
+date: 2020-04-21 15:21:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bsnMfXsZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bsnMfXsZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TNLXT4M
 description:
-actualPrice: 15.99 EUR
+actualPrice: 17.99 EUR
 comparePrice: 25.0 EUR
 inStock: true
 ---
 
-Tienes [Levi s The Original tee Camiseta  Gris  Cotton + Patch Medium Grey Heather Emb 0015   X-Small para Hombre](https://www.amazon.com/dp/B07TNLXT4M/?tag=redken08-20) con un 36.04 % de descuento con precio de oferta de 15.99 EUR (original: 25.0 EUR) en el siguiente enlace!
+Tienes [Levi s The Original tee Camiseta  Gris  Cotton + Patch Medium Grey Heather Emb 0015   X-Small para Hombre](https://www.amazon.com/dp/B07TNLXT4M/?tag=redken08-20) con un 28.04 % de descuento con precio de oferta de 17.99 EUR (original: 25.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bsnMfXsZL._SL200_.jpg)](https://www.amazon.com/dp/B07TNLXT4M/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KOOPAO Cable USB C a Jack 3.5 mm Cable A al 47.09 % de descuento'
-date: 2020-03-23 10:11:20
+date: 2020-04-21 11:42:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NAvM6vQtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NAvM6vQtL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aogled LED Lámpara de Techo 24W 2400LM 4 al 32.01 % de descuento'
-date: 2020-04-10 10:08:20
+date: 2020-04-21 10:57:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31gTT2FZnjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31gTT2FZnjL._SL200_.jpg' ]
 comments: true

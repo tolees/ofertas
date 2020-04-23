@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'SanDisk Ultra - Tarjeta de memoria micro al 46.11 % de descuento'
-date: 2020-04-15 16:29:49
-thumbnailImage: 'https://m.media-amazon.com/images/I/41MQ9ndxA7L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41MQ9ndxA7L._SL200_.jpg' ]
+date: 2020-04-22 22:53:15
+thumbnailImage: 'https://m.media-amazon.com/images/I/415LvvAnxvL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/415LvvAnxvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [SanDisk Ultra - Tarjeta de memoria microSDXC de 400 GB con adaptador SD  velocidad de lectura hasta 100 MB/s  Clase 10  U1 y A1](https://www.amazon.com/dp/B074RNRM2B/?tag=redken08-20) a 73.82 EUR (original: 136.99 EUR) (46.11 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41MQ9ndxA7L._SL200_.jpg)](https://www.amazon.com/dp/B074RNRM2B/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/415LvvAnxvL._SL200_.jpg)](https://www.amazon.com/dp/B074RNRM2B/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B074RNRM2B/?tag=redken08-20)
 

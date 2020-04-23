@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TECKIN Smart Plug  13A WiFi Plug 2 Packs al 26.68 % de descuento'
-date: 2020-04-20 10:03:46
+date: 2020-04-21 22:39:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/317nfoSl3PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317nfoSl3PL._SL200_.jpg' ]
 comments: true

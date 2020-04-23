@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Essential Stripes Detail  al 37.26 % de descuento'
-date: 2020-04-19 19:35:04
+date: 2020-04-21 12:45:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31OwPg4mj4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31OwPg4mj4L._SL200_.jpg' ]
 comments: true

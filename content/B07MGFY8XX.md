@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antimosquitos Repelente Ultrasónico de C al 48.50 % de descuento'
-date: 2020-04-12 09:31:49
+date: 2020-04-22 14:38:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41U2hiDzGfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41U2hiDzGfL._SL200_.jpg' ]
 comments: true

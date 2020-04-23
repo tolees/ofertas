@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.15 % en Kingston A400 SSD SA400S37/1920G - Disco'
-date: 2020-04-21 01:52:18
+date: 2020-04-22 19:24:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/415CwmD3g-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415CwmD3g-L._SL200_.jpg' ]
 comments: true

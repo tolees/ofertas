@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION ERAZER P6705 - Ordenador portátil al 28.43 % de descuento'
-date: 2020-04-20 11:28:15
+date: 2020-04-21 12:08:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/417mKWD2klL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417mKWD2klL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tiza de Pelo  Cabello Tiza  Coloración t al 38.48 % de descuento'
-date: 2020-03-24 13:53:58
+date: 2020-04-21 20:31:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NkwHmS4ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NkwHmS4ZL._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO 41391 - Friseursalon von Heartlake  al 30.12 % de descuento'
-date: 2020-02-22 17:31:35
-thumbnailImage: 'https://m.media-amazon.com/images/I/516+Uzm0oGL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/516+Uzm0oGL._AC_._SL200_.jpg' ]
+title: 'LEGO 41391 - Friseursalon von Heartlake  al 27.76 % de descuento'
+date: 2020-04-22 08:37:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Zsf05sRIL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Zsf05sRIL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07W5PXDVR
 description:
-actualPrice: 13.97 EUR
+actualPrice: 14.44 EUR
 comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 41391 - Friseursalon von Heartlake City  Friends  Bauset](https://www.amazon.com/dp/B07W5PXDVR/?tag=redken08-20) a 13.97 EUR (original: 19.99 EUR) (30.12 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 41391 - Friseursalon von Heartlake City  Friends  Bauset](https://www.amazon.com/dp/B07W5PXDVR/?tag=redken08-20) a 14.44 EUR (original: 19.99 EUR) (27.76 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/516+Uzm0oGL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07W5PXDVR/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51Zsf05sRIL._SL200_.jpg)](https://www.amazon.com/dp/B07W5PXDVR/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07W5PXDVR/?tag=redken08-20)
 

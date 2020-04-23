@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD Elements Portable   externe Festplatt al 34.00 % de descuento'
-date: 2020-04-18 20:25:59
+date: 2020-04-21 16:34:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL200_.jpg' ]
 comments: true
