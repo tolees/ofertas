@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Gigabyte GeForce GTX 1060 GV-N1060WF2OC- al 43.77 % de descuento'
-date: 2020-03-10 14:29:55
-thumbnailImage: 'https://m.media-amazon.com/images/I/51CUeVUGfPL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51CUeVUGfPL._AC_._SL200_.jpg' ]
+title: 'Gigabyte GeForce GTX 1060 - Tarjeta gráf al 43.48 % de descuento'
+date: 2020-01-18 10:07:34
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CUeVUGfPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CUeVUGfPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01LZ2TDZO
 description:
-actualPrice: 185.0 EUR
-comparePrice: 329.0 EUR
+actualPrice: 189.9 EUR
+comparePrice: 335.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gigabyte GeForce GTX 1060 GV-N1060WF2OC-6GDGrafikkarte schwarz](https://www.amazon.com/dp/B01LZ2TDZO/?tag=redken08-20) a 185.0 EUR (original: 329.0 EUR) (43.77 %  de descuento) en el siguiente enlace!
+Está [Gigabyte GeForce GTX 1060 - Tarjeta gráfica Windforce2 OC 6GB  1280 Core  1556 MHz GPU  1771 MHz Boost   color negro](https://www.amazon.com/dp/B01LZ2TDZO/?tag=redken08-20) con 43.48 de descuento por 189.9 EUR (original: 335.97 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51CUeVUGfPL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01LZ2TDZO/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51CUeVUGfPL._SL200_.jpg)](https://www.amazon.com/dp/B01LZ2TDZO/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01LZ2TDZO/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01LZ2TDZO/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

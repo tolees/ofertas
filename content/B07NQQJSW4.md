@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AOFO Regleta Enchufes de 3 Tomas y 6 Pue al 25.94 % de descuento'
-date: 2020-04-13 20:01:02
+date: 2020-04-23 08:32:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kMUF0sPsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kMUF0sPsL._SL200_.jpg' ]
 comments: true

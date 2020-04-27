@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seiko Reloj Analógico Automático para Ho al 31.48 % de descuento'
-date: 2020-04-12 07:52:06
+date: 2020-04-23 08:12:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Is4OCnVlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Is4OCnVlL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Festina Reloj Analógico para Hombre de C al 29.34 % de descuento'
-date: 2020-04-21 22:56:05
+date: 2020-04-23 08:44:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+venV8HAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+venV8HAL._SL200_.jpg' ]
 comments: true
