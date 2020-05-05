@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Levi s 2pk Crewneck 1 Camiseta  Multicol al 56.06 % de descuento'
-date: 2020-03-17 21:27:44
+title: 'Levi s Men s 2pk Crewneck 1 T-Shirt  Mul al 69.43 % de descuento'
+date: 2020-04-07 14:53:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XfNevNI1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XfNevNI1L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07LF8HTRM
 description:
-actualPrice: 15.38 EUR
-comparePrice: 35.0 EUR
+actualPrice: 9.17 GBP
+comparePrice: 30.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Slim Crew White/Med Heather Grey 0003   Medium para Hombre](https://www.amazon.com/dp/B07LF8HTRM/?tag=redken08-20) a 15.38 EUR (original: 35.0 EUR) (56.06 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Levi s Men s 2pk Crewneck 1 T-Shirt  Multicolour  2 Pack Slim Crew White/Med Heather Grey 0003   Medium](https://www.amazon.com/dp/B07LF8HTRM/?tag=redken08-20) a 9.17 GBP (original: 30.0 GBP) (69.43 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31XfNevNI1L._SL200_.jpg)](https://www.amazon.com/dp/B07LF8HTRM/?tag=redken08-20)
 

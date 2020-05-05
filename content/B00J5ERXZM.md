@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 36.35 % en De Longhi Dolce Gusto Jovia EDG250.B - C'
-date: 2020-03-28 15:21:40
-thumbnailImage: 'https://m.media-amazon.com/images/I/41Vogh5zT-L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41Vogh5zT-L._SL200_.jpg' ]
+title: 'Descuento del 68.89 % en Nescafé Dolce Gusto Jovia by De Longhi -'
+date: 2020-01-13 10:12:59
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fSPtv5upL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fSPtv5upL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00J5ERXZM
 description:
-actualPrice: 56.65 EUR
-comparePrice: 89.0 EUR
+actualPrice: 28 GBP
+comparePrice: 89.99 GBP
 inStock: true
 ---
 
-Tienes [De Longhi Dolce Gusto Jovia EDG250.B - Cafetera de cápsulas  15 bares de presión  color negro](https://www.amazon.com/dp/B00J5ERXZM/?tag=redken08-20) con un 36.35 % de descuento con precio de oferta de 56.65 EUR (original: 89.0 EUR) en el siguiente enlace!
+Tienes [Nescafé Dolce Gusto Jovia by De Longhi - EDG250B Coffee Machine - Black](https://www.amazon.com/dp/B00J5ERXZM/?tag=redken08-20) con un 68.89 % de descuento con precio de oferta de 28 GBP (original: 89.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41Vogh5zT-L._SL200_.jpg)](https://www.amazon.com/dp/B00J5ERXZM/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41fSPtv5upL._SL200_.jpg)](https://www.amazon.com/dp/B00J5ERXZM/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00J5ERXZM/?tag=redken08-20)
 

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 55.27 % en Bosch Professional Laser Entfernungsmess'
-date: 2020-02-14 04:23:17
-thumbnailImage: 'https://m.media-amazon.com/images/I/41gm5C5qL5L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41gm5C5qL5L._AC_._SL200_.jpg' ]
+title: 'Descuento del 72.80 % en Bosch Professional GLM 40 - Medidor láse'
+date: 2020-01-12 08:49:14
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gm5C5qL5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gm5C5qL5L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00R0Z7TFM
 description:
-actualPrice: 55.91 EUR
-comparePrice: 125.0 EUR
+actualPrice: 34.29 EUR
+comparePrice: 126.05 EUR
 inStock: true
 ---
 
-Tienes [Bosch Professional Laser Entfernungsmesser GLM 40  Flächen-/Volumenberechnung  max. Messbereich: 40 m  Flächen-Volumenberechnung  2x 1 5-V Batterien  Schutztasche ](https://www.amazon.com/dp/B00R0Z7TFM/?tag=redken08-20) con un 55.27 % de descuento con precio de oferta de 55.91 EUR (original: 125.0 EUR) en el siguiente enlace!
+Tienes [Bosch Professional GLM 40 - Medidor láser de distancias  alcance 40 m  función pitágoras  con funda ](https://www.amazon.com/dp/B00R0Z7TFM/?tag=redken08-20) con un 72.80 % de descuento con precio de oferta de 34.29 EUR (original: 126.05 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41gm5C5qL5L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00R0Z7TFM/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41gm5C5qL5L._SL200_.jpg)](https://www.amazon.com/dp/B00R0Z7TFM/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00R0Z7TFM/?tag=redken08-20)
 
