@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Pop! Captain Marvel - Figura de Vinilo V al 48.28 % de descuento'
-date: 2020-01-13 23:31:50
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N%2B%2BICSnrL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N%2B%2BICSnrL._SL200_.jpg' ]
+title: 'Funko 36342 POP Captain Marvel-Vers Coll al 48.82 % de descuento'
+date: 2020-03-17 10:25:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/41N++ICSnrL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41N++ICSnrL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07HB3HKHY
 description:
-actualPrice: 8.25 EUR
-comparePrice: 15.95 EUR
+actualPrice: 5.0 GBP
+comparePrice: 9.77 GBP
 inStock: true
 ---
 
-Está [Pop! Captain Marvel - Figura de Vinilo Vers](https://www.amazon.com/dp/B07HB3HKHY/?tag=redken08-20) con 48.28 de descuento por 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Funko 36342 POP Captain Marvel-Vers Collectible Figure  Multicolor](https://www.amazon.com/dp/B07HB3HKHY/?tag=redken08-20) con 48.82 de descuento por 5.0 GBP (original: 9.77 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41N%2B%2BICSnrL._SL200_.jpg)](https://www.amazon.com/dp/B07HB3HKHY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41N++ICSnrL._SL200_.jpg)](https://www.amazon.com/dp/B07HB3HKHY/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07HB3HKHY/?tag=redken08-20)
 
