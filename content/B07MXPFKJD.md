@@ -14,10 +14,10 @@ comparePrice: 2.0 GBP
 inStock: true
 ---
 
-Está [Cadbury Brownie Original Chocolate  150 g](https://www.amazon.com/dp/B07MXPFKJD/?tag=redken08-20) con 25.00 de descuento por 1.5 GBP (original: 2.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Cadbury Brownie Original Chocolate  150 g](https://www.amazon.com/dp/B07MXPFKJD/?tag=redken08-20) a 1.5 GBP (original: 2.0 GBP) (25.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51GA5CP9GJL._SL200_.jpg)](https://www.amazon.com/dp/B07MXPFKJD/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07MXPFKJD/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07MXPFKJD/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
