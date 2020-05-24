@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 30.03 % en LEGO 60228 City Deep Space Rocket and La'
-date: 2020-03-06 18:02:05
-thumbnailImage: 'https://m.media-amazon.com/images/I/51qwZjGlqgL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51qwZjGlqgL._AC_._SL200_.jpg' ]
+title: 'Descuento del 30.50 % en LEGO 60228 - City Weltraumrakete mit Kon'
+date: 2020-04-20 12:34:11
+thumbnailImage: 'https://m.media-amazon.com/images/I/519c2TpwtjL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/519c2TpwtjL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KTSGWDJ
 description:
-actualPrice: 62.97 GBP
-comparePrice: 89.99 GBP
+actualPrice: 69.49 EUR
+comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60228 City Deep Space Rocket and Launch Control Mars Expedition Set  Space Toys for Kids inspired by NASA with Astronauts  Scientists and Robot Minifigures](https://www.amazon.com/dp/B07KTSGWDJ/?tag=redken08-20) con un 30.03 % de descuento con precio de oferta de 62.97 GBP (original: 89.99 GBP) en el siguiente enlace!
+Tienes [LEGO 60228 - City Weltraumrakete mit Kontrollzentrum  Bauset](https://www.amazon.com/dp/B07KTSGWDJ/?tag=redken08-20) con un 30.50 % de descuento con precio de oferta de 69.49 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51qwZjGlqgL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTSGWDJ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/519c2TpwtjL._SL200_.jpg)](https://www.amazon.com/dp/B07KTSGWDJ/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07KTSGWDJ/?tag=redken08-20)
 
