@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Philips 55PUS6704/12 - Smart TV LED 4K U al 39.44 % de descuento'
-date: 2020-04-04 13:49:32
+title: 'Philips 55PUS6704/12 - Smart TV LED 4K U al 26.16 % de descuento'
+date: 2020-05-26 06:06:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iJ99Z5EEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iJ99Z5EEL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07RWPF3W8
 description:
-actualPrice: 360.83 EUR
+actualPrice: 439.99 EUR
 comparePrice: 595.86 EUR
 inStock: true
 ---
 
-Está [Philips 55PUS6704/12 - Smart TV LED 4K UHD  55 pulgadas  Resolución de pantalla 3840 x 2160  Relación de aspecto 16:9   Negro brillante](https://www.amazon.com/dp/B07RWPF3W8/?tag=redken08-20) con 39.44 de descuento por 360.83 EUR (original: 595.86 EUR) en el siguiente enlace!
+Está [Philips 55PUS6704/12 - Smart TV LED 4K UHD  55 pulgadas  Resolución de pantalla 3840 x 2160  Relación de aspecto 16:9   Negro brillante](https://www.amazon.com/dp/B07RWPF3W8/?tag=redken08-20) con 26.16 de descuento por 439.99 EUR (original: 595.86 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41iJ99Z5EEL._SL200_.jpg)](https://www.amazon.com/dp/B07RWPF3W8/?tag=redken08-20)
 

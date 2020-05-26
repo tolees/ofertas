@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Medievil al 40.01 % de descuento'
-date: 2020-04-20 20:30:13
+title: 'Medievil al 33.64 % de descuento'
+date: 2020-05-26 06:09:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xcwcDmW6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xcwcDmW6L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TC28NVG
 description:
-actualPrice: 17.99 EUR
+actualPrice: 19.9 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Medievil](https://www.amazon.com/dp/B07TC28NVG/?tag=redken08-20) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Medievil](https://www.amazon.com/dp/B07TC28NVG/?tag=redken08-20) con 33.64 de descuento por 19.9 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51xcwcDmW6L._SL200_.jpg)](https://www.amazon.com/dp/B07TC28NVG/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funda Transparente Compatible para Huawe al 52.73 % de descuento'
-date: 2020-04-20 20:40:12
+date: 2020-05-26 07:41:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PwhTVOMHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PwhTVOMHL._SL200_.jpg' ]
 comments: true
