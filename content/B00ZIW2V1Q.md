@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Watch Dogs 2 - Standard Edition al 33.56 % de descuento'
-date: 2020-04-22 10:46:20
+title: 'Watch Dogs 2 - Standard Edition al 25.13 % de descuento'
+date: 2020-06-01 07:32:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/61ocRea-QwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61ocRea-QwL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00ZIW2V1Q
 description:
-actualPrice: 19.9 EUR
-comparePrice: 29.95 EUR
+actualPrice: 14.9 EUR
+comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Está [Watch Dogs 2 - Standard Edition](https://www.amazon.com/dp/B00ZIW2V1Q/?tag=redken08-20) con 33.56 de descuento por 19.9 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [Watch Dogs 2 - Standard Edition](https://www.amazon.com/dp/B00ZIW2V1Q/?tag=redken08-20) con 25.13 de descuento por 14.9 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61ocRea-QwL._SL200_.jpg)](https://www.amazon.com/dp/B00ZIW2V1Q/?tag=redken08-20)
 

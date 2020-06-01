@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Vans Herren Classic T-Shirt  Weiß  WHITE al 30.03 % de descuento'
-date: 2020-01-11 20:29:58
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DKELaiCsL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DKELaiCsL._SL200_.jpg' ]
+date: 2020-05-31 17:49:43
+thumbnailImage: 'https://m.media-amazon.com/images/I/31DKELaiCsL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31DKELaiCsL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B003XDU3IA
 description:
 actualPrice: 20.99 EUR
-comparePrice: 30 EUR
+comparePrice: 30.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Vans Herren Classic T-Shirt  Weiß  WHITE-BLACK YB2   Medium](https://www.amazon.com/dp/B003XDU3IA/?tag=redken08-20) a 20.99 EUR (original: 30 EUR) (30.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Vans Herren Classic T-Shirt  Weiß  WHITE-BLACK YB2   Medium](https://www.amazon.com/dp/B003XDU3IA/?tag=redken08-20) a 20.99 EUR (original: 30.0 EUR) (30.03 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31DKELaiCsL._SL200_.jpg)](https://www.amazon.com/dp/B003XDU3IA/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31DKELaiCsL._SL200_.jpg)](https://www.amazon.com/dp/B003XDU3IA/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B003XDU3IA/?tag=redken08-20)
 
