@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 28.35 % en Funko 44991 POP Marvel: Fantastic Four -'
-date: 2020-03-16 02:26:14
+title: 'Descuento del 38.58 % en Funko POP! Marvel: Fantastic Four - Doct'
+date: 2020-04-17 22:55:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vbRQDPelL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vbRQDPelL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TXLJPRQ
 description:
-actualPrice: 7.0 GBP
-comparePrice: 9.77 GBP
+actualPrice: 6.75 USD
+comparePrice: 10.99 USD
 inStock: true
 ---
 
-Tienes [Funko 44991 POP Marvel: Fantastic Four - Doctor Doom Collectible Toy  Multicolour](https://www.amazon.com/dp/B07TXLJPRQ/?tag=redken08-20) con un 28.35 % de descuento con precio de oferta de 7.0 GBP (original: 9.77 GBP) en el siguiente enlace!
+Tienes [Funko POP! Marvel: Fantastic Four - Doctor Doom  Multicolor  44991 ](https://www.amazon.com/dp/B07TXLJPRQ/?tag=redken08-20) con un 38.58 % de descuento con precio de oferta de 6.75 USD (original: 10.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vbRQDPelL._SL200_.jpg)](https://www.amazon.com/dp/B07TXLJPRQ/?tag=redken08-20)
 

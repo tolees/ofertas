@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 38.41 % en Huawei P30 Lite - Smartphone de 6.15"  W'
-date: 2020-04-20 12:20:50
-thumbnailImage: 'https://m.media-amazon.com/images/I/415bgK33xsL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/415bgK33xsL._SL200_.jpg' ]
+title: 'Descuento del 41.56 % en Huawei P30 Lite - Smartphone de 6.15"  W'
+date: 2020-06-04 19:00:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/417sQEEXZXL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/417sQEEXZXL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07QZRWJ6D
 description:
-actualPrice: 214.95 EUR
+actualPrice: 203.97 EUR
 comparePrice: 349.0 EUR
 inStock: true
 ---
 
-Tienes [Huawei P30 Lite - Smartphone de 6.15"  WiFi  Kirin 710  RAM de 4 GB  memoria de 128 GB  cámara de 48+2+8 MP  Android 9  Color Blanco](https://www.amazon.com/dp/B07QZRWJ6D/?tag=redken08-20) con un 38.41 % de descuento con precio de oferta de 214.95 EUR (original: 349.0 EUR) en el siguiente enlace!
+Tienes [Huawei P30 Lite - Smartphone de 6.15"  WiFi  Kirin 710  RAM de 4 GB  memoria de 128 GB  cámara de 48+2+8 MP  Android 9  Color Blanco](https://www.amazon.com/dp/B07QZRWJ6D/?tag=redken08-20) con un 41.56 % de descuento con precio de oferta de 203.97 EUR (original: 349.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/415bgK33xsL._SL200_.jpg)](https://www.amazon.com/dp/B07QZRWJ6D/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/417sQEEXZXL._SL200_.jpg)](https://www.amazon.com/dp/B07QZRWJ6D/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07QZRWJ6D/?tag=redken08-20)
 

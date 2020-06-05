@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.10 % en Flybar My First Foam Pogo Jumper for Kid'
-date: 2020-04-17 08:25:05
+date: 2020-06-04 17:16:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i4WnDCbML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i4WnDCbML._SL200_.jpg' ]
 comments: true

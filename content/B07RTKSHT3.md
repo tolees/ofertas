@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.99 % en Oral-B Genius 8000 Cepillo Eléctrico Con'
-date: 2020-06-01 06:35:39
+date: 2020-06-05 09:02:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/512JJ2rEIRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512JJ2rEIRL._SL200_.jpg' ]
 comments: true

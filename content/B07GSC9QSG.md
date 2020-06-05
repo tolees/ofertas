@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.15 % en classic Family Game Mini Consola HDMI - '
-date: 2020-04-16 09:24:20
+title: 'Descuento del 25.15 % en Famille Mini Classic Console- Précharge '
+date: 2020-06-04 14:56:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/412gY33Q4yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412gY33Q4yL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 68.0 EUR
 inStock: true
 ---
 
-Tienes [classic Family Game Mini Consola HDMI - con 621 Videojuego de TV](https://www.amazon.com/dp/B07GSC9QSG/?tag=redken08-20) con un 25.15 % de descuento con precio de oferta de 50.9 EUR (original: 68.0 EUR) en el siguiente enlace!
+Tienes [Famille Mini Classic Console- Précharge 621 Jeux vidéo TV HDMI- Sortie](https://www.amazon.com/dp/B07GSC9QSG/?tag=redken08-20) con un 25.15 % de descuento con precio de oferta de 50.9 EUR (original: 68.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412gY33Q4yL._SL200_.jpg)](https://www.amazon.com/dp/B07GSC9QSG/?tag=redken08-20)
 

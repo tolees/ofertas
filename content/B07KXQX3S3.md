@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk 128GB MicroSDXC UHS-I Memory Car al 25.72 % de descuento'
-date: 2020-04-17 00:17:13
+title: 'SanDisk SDSQXAO-128G-GNCZN microSDXC UHS al 46.35 % de descuento'
+date: 2020-06-04 16:27:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yVFXvFQnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yVFXvFQnL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KXQX3S3
 description:
-actualPrice: 25.99 USD
-comparePrice: 34.99 USD
+actualPrice: 21.99 GBP
+comparePrice: 40.99 GBP
 inStock: true
 ---
 
-Está [SanDisk 128GB MicroSDXC UHS-I Memory Card for Nintendo Switch - SDSQXAO-128G-GNCZN](https://www.amazon.com/dp/B07KXQX3S3/?tag=redken08-20) con 25.72 de descuento por 25.99 USD (original: 34.99 USD) en el siguiente enlace!
+Está [SanDisk SDSQXAO-128G-GNCZN microSDXC UHS-I Card for Nintendo Switch  128 GB  Nintendo Licensed Product](https://www.amazon.com/dp/B07KXQX3S3/?tag=redken08-20) con 46.35 de descuento por 21.99 GBP (original: 40.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41yVFXvFQnL._SL200_.jpg)](https://www.amazon.com/dp/B07KXQX3S3/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B CrossAction - Cabezales de Recamb al 30.78 % de descuento'
-date: 2020-06-01 06:37:56
+date: 2020-06-05 06:53:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51y1DP4GBdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51y1DP4GBdL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 28.57 % en Ravensburger GraviTrax Starter Set - Mar'
-date: 2020-03-16 01:51:10
+title: 'Descuento del 25.02 % en Ravensburger Gravitrax Starter Set Marbl'
+date: 2020-06-05 02:29:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51j6ZHMErnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51j6ZHMErnL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07B7HNLMG
 description:
-actualPrice: 25.0 GBP
-comparePrice: 35.0 GBP
+actualPrice: 44.98 USD
+comparePrice: 59.99 USD
 inStock: true
 ---
 
-Tienes [Ravensburger GraviTrax Starter Set - Marble Run & STEM Toy for Boys & Girls age 8 years and up - Multi Award Winning Toy - English Version ](https://www.amazon.com/dp/B07B7HNLMG/?tag=redken08-20) con un 28.57 % de descuento con precio de oferta de 25.0 GBP (original: 35.0 GBP) en el siguiente enlace!
+Tienes [Ravensburger Gravitrax Starter Set Marble Run & STEM Toy For Kids Age 8 & Up - Endless Indoor Activity for Families](https://www.amazon.com/dp/B07B7HNLMG/?tag=redken08-20) con un 25.02 % de descuento con precio de oferta de 44.98 USD (original: 59.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51j6ZHMErnL._SL200_.jpg)](https://www.amazon.com/dp/B07B7HNLMG/?tag=redken08-20)
 

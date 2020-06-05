@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO Speed Champions 75893 - 2018 Dodge  al 25.06 % de descuento'
-date: 2020-04-02 12:32:40
-thumbnailImage: 'https://m.media-amazon.com/images/I/512VwAj5-rL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/512VwAj5-rL._SL200_.jpg' ]
+title: 'LEGO® Speed Champions Dodge Challenger S al 66.70 % de descuento'
+date: 2020-06-04 19:51:51
+thumbnailImage: 'https://m.media-amazon.com/images/I/51w5yMAE-rL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51w5yMAE-rL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FNSDZDN
 description:
-actualPrice: 29.97 EUR
-comparePrice: 39.99 EUR
+actualPrice: 31.6 EUR
+comparePrice: 94.9 EUR
 inStock: true
 ---
 
-Está [LEGO Speed Champions 75893 - 2018 Dodge Challenger SRT Demon und 1970 Dodge Charger R/T  Rallyeauto](https://www.amazon.com/dp/B07FNSDZDN/?tag=redken08-20) con 25.06 de descuento por 29.97 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [LEGO® Speed Champions Dodge Challenger SRT Demon 2018 et Dodge Charger R/T 1970 Jeu de construction 7 Ans et Plus  478 Pièces  75893](https://www.amazon.com/dp/B07FNSDZDN/?tag=redken08-20) con 66.70 de descuento por 31.6 EUR (original: 94.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/512VwAj5-rL._SL200_.jpg)](https://www.amazon.com/dp/B07FNSDZDN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51w5yMAE-rL._SL200_.jpg)](https://www.amazon.com/dp/B07FNSDZDN/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07FNSDZDN/?tag=redken08-20)
 

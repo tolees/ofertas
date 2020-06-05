@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 39.36 % en Games - Quien es quien Extra  Hasbro B22'
-date: 2019/12/31 12:15:06 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/612haghwsUL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/612haghwsUL._SL200_.jpg' ]
+title: 'Descuento del 31.07 % en Hasbro Gaming Quién es quién Extra  B222'
+date: 2020-06-04 16:38:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/612haghwsUL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/612haghwsUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00STL6KY2
 description:
-actualPrice: 25.47 EUR
-comparePrice: 42 EUR
+actualPrice: 28.95 EUR
+comparePrice: 42.0 EUR
 inStock: true
 ---
 
-Tienes [Games - Quien es quien Extra  Hasbro B2226175 ](https://www.amazon.com/dp/B00STL6KY2/?tag=redken08-20) con un 39.36 % de descuento con precio de oferta de 25.47 EUR (original: 42 EUR) en el siguiente enlace!
+Tienes [Hasbro Gaming Quién es quién Extra  B2226175 ](https://www.amazon.com/dp/B00STL6KY2/?tag=redken08-20) con un 31.07 % de descuento con precio de oferta de 28.95 EUR (original: 42.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/612haghwsUL._SL200_.jpg)](https://www.amazon.com/dp/B00STL6KY2/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/612haghwsUL._SL200_.jpg)](https://www.amazon.com/dp/B00STL6KY2/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00STL6KY2/?tag=redken08-20)
 

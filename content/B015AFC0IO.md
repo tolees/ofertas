@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.26 % en Somat Spezial Salz  1 2 kg'
-date: 2020-04-17 23:50:57
+date: 2020-06-05 01:45:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DnRsvX-lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DnRsvX-lL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola One Zoom - Smartphone con Alexa al 37.09 % de descuento'
-date: 2020-05-26 09:14:33
+date: 2020-06-05 07:38:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hWgk4hegL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hWgk4hegL._SL200_.jpg' ]
 comments: true

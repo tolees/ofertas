@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Galaxy Salted Caramel Chocolate Block 13 al 33.33 % de descuento'
-date: 2020-04-15 23:06:05
+date: 2020-06-05 02:27:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QtF7d2OCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QtF7d2OCL._SL200_.jpg' ]
 comments: true

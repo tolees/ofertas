@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Plastificadora A4 A5 A7  ABOX Pixseal II al 45.00 % de descuento'
-date: 2020-05-31 17:19:26
+date: 2020-06-05 08:01:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XSHm8Td+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XSHm8Td+L._SL200_.jpg' ]
 comments: true
