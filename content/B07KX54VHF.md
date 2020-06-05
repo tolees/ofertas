@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Harry Potter und der Gefangene von  al 25.01 % de descuento'
-date: 2020-06-05 01:22:20
+title: 'LEGO Le Magicobus Harry Potter Bus Viole al 25.01 % de descuento'
+date: 2020-06-04 09:46:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [LEGO Harry Potter und der Gefangene von Askaban – Der Fahrende Ritter  75957   Bauset](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [LEGO Le Magicobus Harry Potter Bus Violet à 3 Niveaux Jeu d Assemblage  75957](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg)](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20)
 

@@ -14,10 +14,10 @@ comparePrice: 6.55 GBP
 inStock: true
 ---
 
-Está [Filippo Berio Extra Virgin Olive Oil  750 ml](https://www.amazon.com/dp/B01CNIMTM8/?tag=redken08-20) con 25.19 de descuento por 4.9 GBP (original: 6.55 GBP) en el siguiente enlace!
+Ahora mismo tienes [Filippo Berio Extra Virgin Olive Oil  750 ml](https://www.amazon.com/dp/B01CNIMTM8/?tag=redken08-20) a 4.9 GBP (original: 6.55 GBP) (25.19 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31e6g8BIDkL._SL200_.jpg)](https://www.amazon.com/dp/B01CNIMTM8/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01CNIMTM8/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01CNIMTM8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

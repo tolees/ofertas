@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 30.00 % en WD_Black 12TB D10 Game Drive for Xbox On'
-date: 2020-02-02 14:58:39
-thumbnailImage: 'https://m.media-amazon.com/images/I/414+6I6i7nL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/414+6I6i7nL._AC_._SL200_.jpg' ]
+title: 'Descuento del 29.55 % en WD Black D10 - Game Drive de 12 TB y 720'
+date: 2020-06-04 09:39:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/414+6I6i7nL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/414+6I6i7nL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07WF8LQL5
 description:
-actualPrice: 209.99 GBP
-comparePrice: 299.99 GBP
+actualPrice: 232.49 EUR
+comparePrice: 329.99 EUR
 inStock: true
 ---
 
-Tienes [WD_Black 12TB D10 Game Drive for Xbox One 7200rpm with Active Cooling to store your Massive Xbox Game Collection](https://www.amazon.com/dp/B07WF8LQL5/?tag=redken08-20) con un 30.00 % de descuento con precio de oferta de 209.99 GBP (original: 299.99 GBP) en el siguiente enlace!
+Tienes [WD Black D10 - Game Drive de 12 TB y 7200 r.p.m. con refrigeración activa para guardar tu enorme colección de juegos](https://www.amazon.com/dp/B07WF8LQL5/?tag=redken08-20) con un 29.55 % de descuento con precio de oferta de 232.49 EUR (original: 329.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/414+6I6i7nL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07WF8LQL5/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/414+6I6i7nL._SL200_.jpg)](https://www.amazon.com/dp/B07WF8LQL5/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07WF8LQL5/?tag=redken08-20)
 

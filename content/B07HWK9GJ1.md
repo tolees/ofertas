@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'HUAWEI Smart View Flip Case 16 2 cm  6.3 al 33.33 % de descuento'
-date: 2020-01-28 09:09:26
-thumbnailImage: 'https://m.media-amazon.com/images/I/313Louni8WL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/313Louni8WL._AC_._SL200_.jpg' ]
+title: 'Descuento del 77.16 % en Huawei Smart View Flip Cover/Case for Ma'
+date: 2020-06-04 10:24:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/313Louni8WL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/313Louni8WL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07HWK9GJ1
 description:
-actualPrice: 10.0 EUR
-comparePrice: 15.0 EUR
+actualPrice: 7.99 GBP
+comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [HUAWEI Smart View Flip Case 16 2 cm  6.39"  Folio Negro - Fundas para teléfonos móviles  Folio  Mate 20 Pro  16 2 cm  6.39"   Negro ](https://www.amazon.com/dp/B07HWK9GJ1/?tag=redken08-20) a 10.0 EUR (original: 15.0 EUR) (33.33 %  de descuento) en el siguiente enlace!
+Tienes [Huawei Smart View Flip Cover/Case for Mate 20 Pro  Black](https://www.amazon.com/dp/B07HWK9GJ1/?tag=redken08-20) con un 77.16 % de descuento con precio de oferta de 7.99 GBP (original: 34.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/313Louni8WL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HWK9GJ1/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/313Louni8WL._SL200_.jpg)](https://www.amazon.com/dp/B07HWK9GJ1/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07HWK9GJ1/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07HWK9GJ1/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

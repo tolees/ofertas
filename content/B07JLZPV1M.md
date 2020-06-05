@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Action Battle Endor Assau al 31.68 % de descuento'
-date: 2020-03-28 08:57:38
+date: 2020-06-04 10:13:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51egWMlEGoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51egWMlEGoL._SL200_.jpg' ]
 comments: true
