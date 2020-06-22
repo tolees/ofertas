@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 25.18 % en SanDisk Extreme PRO 64GB SDXC Memory Car'
-date: 2020-04-16 16:29:07
-thumbnailImage: 'https://m.media-amazon.com/images/I/519URXkIUTL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/519URXkIUTL._SL200_.jpg' ]
+title: 'Descuento del 37.05 % en SanDisk Extreme PRO - Tarjeta de Memoria'
+date: 2020-06-21 23:01:15
+thumbnailImage: 'https://m.media-amazon.com/images/I/51eQxcYpAgL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51eQxcYpAgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07H9J1YXN
 description:
-actualPrice: 17.95 GBP
-comparePrice: 23.99 GBP
+actualPrice: 16.99 EUR
+comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Tienes [SanDisk Extreme PRO 64GB SDXC Memory Card up to 170MB/s  Class 10  U3  V30](https://www.amazon.com/dp/B07H9J1YXN/?tag=redken08-20) con un 25.18 % de descuento con precio de oferta de 17.95 GBP (original: 23.99 GBP) en el siguiente enlace!
+Tienes [SanDisk Extreme PRO - Tarjeta de Memoria SDXC de 64 GB  4k  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.com/dp/B07H9J1YXN/?tag=redken08-20) con un 37.05 % de descuento con precio de oferta de 16.99 EUR (original: 26.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/519URXkIUTL._SL200_.jpg)](https://www.amazon.com/dp/B07H9J1YXN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51eQxcYpAgL._SL200_.jpg)](https://www.amazon.com/dp/B07H9J1YXN/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07H9J1YXN/?tag=redken08-20)
 

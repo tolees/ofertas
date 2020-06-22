@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cybex - Silla de coche grupo 0+/1 Sirona al 31.11 % de descuento'
-date: 2020-06-04 10:58:19
+date: 2020-06-16 16:21:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YiJLJNj8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YiJLJNj8L._SL200_.jpg' ]
 comments: true

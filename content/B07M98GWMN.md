@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JUNING Herramientas de Desmontaje para D al 38.90 % de descuento'
-date: 2020-04-11 16:47:35
+date: 2020-06-21 19:05:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t+3sZlhOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t+3sZlhOL._SL200_.jpg' ]
 comments: true

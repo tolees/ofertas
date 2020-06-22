@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.03 % en CGID E01 Estilo Vintage Retro Lennon ins'
-date: 2020-03-31 16:20:57
+date: 2020-06-21 12:54:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uFVU+qe+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uFVU+qe+L._SL200_.jpg' ]
 comments: true

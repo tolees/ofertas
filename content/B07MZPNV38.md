@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Hatch Vaqueros Slim   Wiser W al 50.05 % de descuento'
-date: 2020-03-31 18:04:33
+date: 2020-06-19 16:35:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41x3f2hX-WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41x3f2hX-WL._SL200_.jpg' ]
 comments: true

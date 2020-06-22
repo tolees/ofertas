@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 4K UHD 2019 43RU7025 - Smart TV  al 30.29 % de descuento'
-date: 2020-06-05 00:43:35
+date: 2020-06-21 20:50:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DkfEUKl4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DkfEUKl4L._SL200_.jpg' ]
 comments: true

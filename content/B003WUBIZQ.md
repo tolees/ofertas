@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Case Logic QHDC101K - Estuche compacto p al 46.98 % de descuento'
-date: 2020-04-17 14:12:38
+date: 2020-06-16 13:01:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VtD-nX5mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VtD-nX5mL._SL200_.jpg' ]
 comments: true

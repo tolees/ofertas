@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bionaire BTF001X Ventilador de torre  40 al 28.48 % de descuento'
-date: 2020-06-05 09:15:02
+date: 2020-06-16 12:09:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31E3Ik3m5xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31E3Ik3m5xL._SL200_.jpg' ]
 comments: true

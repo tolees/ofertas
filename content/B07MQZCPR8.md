@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Le Coq Sportif Break COCARDE  Zapatillas al 50.41 % de descuento'
-date: 2020-04-07 17:11:20
-thumbnailImage: 'https://m.media-amazon.com/images/I/3144js8hTrL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/3144js8hTrL._SL200_.jpg' ]
+title: 'Le Coq Sportif Break COCARDE  Zapatillas al 43.55 % de descuento'
+date: 2020-06-21 15:20:43
+thumbnailImage: 'https://m.media-amazon.com/images/I/31Sb7+ibDSL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31Sb7+ibDSL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07MQZCPR8
 description:
-actualPrice: 47.11 EUR
+actualPrice: 53.63 EUR
 comparePrice: 95.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Le Coq Sportif Break COCARDE  Zapatillas Unisex Adulto  Blanc Optical White Tricolore  43 EU](https://www.amazon.com/dp/B07MQZCPR8/?tag=redken08-20) a 47.11 EUR (original: 95.0 EUR) (50.41 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Le Coq Sportif Break COCARDE  Zapatillas Unisex Adulto  Blanc Optical White Tricolore  43 EU](https://www.amazon.com/dp/B07MQZCPR8/?tag=redken08-20) a 53.63 EUR (original: 95.0 EUR) (43.55 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/3144js8hTrL._SL200_.jpg)](https://www.amazon.com/dp/B07MQZCPR8/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31Sb7+ibDSL._SL200_.jpg)](https://www.amazon.com/dp/B07MQZCPR8/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07MQZCPR8/?tag=redken08-20)
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Rexona Active Pro+ Desodorante Antitrans al 33.11 % de descuento'
-date: 2020-01-27 13:39:33
-thumbnailImage: 'https://m.media-amazon.com/images/I/41Dd3WNp+1L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41Dd3WNp+1L._AC_._SL200_.jpg' ]
+date: 2020-06-18 14:57:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Dd3WNp+1L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Dd3WNp+1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Rexona Active Pro+ Desodorante Antitranspirante Invisible  Hombre - Pack de 6 x 200 ml  Total: 1200 ml ](https://www.amazon.com/dp/B07QN7DFLH/?tag=redken08-20) a 12.0 EUR (original: 17.94 EUR) (33.11 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41Dd3WNp+1L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07QN7DFLH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41Dd3WNp+1L._SL200_.jpg)](https://www.amazon.com/dp/B07QN7DFLH/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07QN7DFLH/?tag=redken08-20)
 
