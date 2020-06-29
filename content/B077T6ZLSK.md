@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Matifi Lámpara Ultravioleta para secado  al 41.09 % de descuento'
-date: 2020-01-02 20:33:17
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aeB2thgZL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aeB2thgZL._SL200_.jpg' ]
+title: 'Matifi Lámpara Ultravioleta para secado  al 28.58 % de descuento'
+date: 2020-06-27 16:06:17
+thumbnailImage: 'https://m.media-amazon.com/images/I/41KQw6YMMtL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41KQw6YMMtL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B077T6ZLSK
 description:
-actualPrice: 16.49 EUR
-comparePrice: 27.99 EUR
+actualPrice: 24.99 EUR
+comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [Matifi Lámpara Ultravioleta para secado de uñas. 48W. Tecnología UV LED. Ideal para uñas de gel y todo tipo de manicura. Con 4 modos de temporizador](https://www.amazon.com/dp/B077T6ZLSK/?tag=redken08-20) con 41.09 de descuento por 16.49 EUR (original: 27.99 EUR) en el siguiente enlace!
+Está [Matifi Lámpara Ultravioleta para secado de uñas. 48W. Tecnología UV LED. Ideal para uñas de gel y todo tipo de manicura. Con 4 modos de temporizador](https://www.amazon.com/dp/B077T6ZLSK/?tag=redken08-20) con 28.58 de descuento por 24.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31aeB2thgZL._SL200_.jpg)](https://www.amazon.com/dp/B077T6ZLSK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41KQw6YMMtL._SL200_.jpg)](https://www.amazon.com/dp/B077T6ZLSK/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B077T6ZLSK/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FitBeast Kit de Entrenamiento para Ejerc al 55.01 % de descuento'
-date: 2020-06-14 19:28:08
+date: 2020-06-24 19:05:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GPh+h8PWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GPh+h8PWL._SL200_.jpg' ]
 comments: true

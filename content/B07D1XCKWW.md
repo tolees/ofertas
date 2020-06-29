@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Vengeance RGB Pro Módulo de Memo al 28.91 % de descuento'
-date: 2020-04-18 21:48:38
+date: 2020-06-28 17:04:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/4105zAvDMAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4105zAvDMAL._SL200_.jpg' ]
 comments: true

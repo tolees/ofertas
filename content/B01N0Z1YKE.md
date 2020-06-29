@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Xiaomi 362887 In-Ear Headphones with Pis al 51.63 % de descuento'
-date: 2020-04-18 09:08:06
-thumbnailImage: 'https://m.media-amazon.com/images/I/41Tmp+ImCsL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41Tmp+ImCsL._SL200_.jpg' ]
+title: 'Xiaomi 14273 - Auriculares  color negro al 41.22 % de descuento'
+date: 2020-06-26 20:07:41
+thumbnailImage: 'https://m.media-amazon.com/images/I/31wK4lB0qqL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31wK4lB0qqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01N0Z1YKE
 description:
-actualPrice: 6.53 GBP
-comparePrice: 13.5 GBP
+actualPrice: 4.99 EUR
+comparePrice: 8.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Xiaomi 362887 In-Ear Headphones with Piston Basic Black](https://www.amazon.com/dp/B01N0Z1YKE/?tag=redken08-20) a 6.53 GBP (original: 13.5 GBP) (51.63 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Xiaomi 14273 - Auriculares  color negro](https://www.amazon.com/dp/B01N0Z1YKE/?tag=redken08-20) a 4.99 EUR (original: 8.49 EUR) (41.22 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41Tmp+ImCsL._SL200_.jpg)](https://www.amazon.com/dp/B01N0Z1YKE/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31wK4lB0qqL._SL200_.jpg)](https://www.amazon.com/dp/B01N0Z1YKE/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01N0Z1YKE/?tag=redken08-20)
 

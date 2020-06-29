@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Godmorn Cafetera Italiana Cafetera espre al 27.28 % de descuento'
-date: 2020-06-19 15:33:19
+date: 2020-06-24 15:34:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KreqzjSPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KreqzjSPL._SL200_.jpg' ]
 comments: true

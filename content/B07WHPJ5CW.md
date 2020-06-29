@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mi Primer Calendario de SmartPanda - Jug al 36.68 % de descuento'
-date: 2020-06-20 15:48:09
+date: 2020-06-23 19:32:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-ZV6Gv1BL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-ZV6Gv1BL._SL200_.jpg' ]
 comments: true

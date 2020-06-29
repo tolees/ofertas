@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Fundamentals Sports Bag XS Bag  Uni al 44.91 % de descuento'
-date: 2020-06-22 09:35:07
+date: 2020-06-23 13:20:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lCjdYk0NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lCjdYk0NL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.21 % en Hunt : Showdown - Xbox One'
-date: 2020-06-16 12:23:28
+date: 2020-06-28 18:43:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/412dnPwoHaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412dnPwoHaL._SL200_.jpg' ]
 comments: true

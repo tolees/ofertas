@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUGO Reloj Analógico para Unisex Adulto  al 30.15 % de descuento'
-date: 2020-06-22 07:21:10
+date: 2020-06-23 10:50:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41386r7WrLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41386r7WrLL._SL200_.jpg' ]
 comments: true

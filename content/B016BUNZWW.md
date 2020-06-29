@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.37 % en ASUS Tengo rt3117bt Auto/Interior 90w Ne'
-date: 2020-06-20 01:30:52
+date: 2020-06-23 22:00:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41voGeQ-1ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41voGeQ-1ZL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio  EF-552-1AVEF EDIFICE - Reloj en c al 58.32 % de descuento'
-date: 2020-03-30 14:54:28
+date: 2020-06-25 13:17:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41spPtgSkfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41spPtgSkfL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OTHA Mini Proyector Portátil 3D  Proyect al 48.83 % de descuento'
-date: 2020-06-21 17:03:22
+date: 2020-06-29 07:04:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ho2-Y1z9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ho2-Y1z9L._SL200_.jpg' ]
 comments: true

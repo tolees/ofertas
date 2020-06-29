@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp LC-49UI8652E - UHD Smart TV Slim d al 51.36 % de descuento'
-date: 2020-06-20 21:43:49
+date: 2020-06-28 09:33:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51isV4iMWTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51isV4iMWTL._SL200_.jpg' ]
 comments: true

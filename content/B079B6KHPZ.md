@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Darksiders III - Xbox One al 55.01 % de descuento'
-date: 2020-04-08 19:02:28
+title: 'Darksiders III - Xbox One al 25.00 % de descuento'
+date: 2020-06-25 18:51:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Alpcp0HRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Alpcp0HRL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079B6KHPZ
 description:
-actualPrice: 26.99 EUR
-comparePrice: 59.99 EUR
+actualPrice: 15.0 EUR
+comparePrice: 20.0 EUR
 inStock: true
 ---
 
-Está [Darksiders III - Xbox One](https://www.amazon.com/dp/B079B6KHPZ/?tag=redken08-20) con 55.01 de descuento por 26.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Darksiders III - Xbox One](https://www.amazon.com/dp/B079B6KHPZ/?tag=redken08-20) con 25.00 de descuento por 15.0 EUR (original: 20.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Alpcp0HRL._SL200_.jpg)](https://www.amazon.com/dp/B079B6KHPZ/?tag=redken08-20)
 

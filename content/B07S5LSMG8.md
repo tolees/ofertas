@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'New Balance 574v2  Zapatillas para Mujer al 41.91 % de descuento'
-date: 2020-06-19 11:09:38
+title: 'New Balance 574v2  Zapatillas para Mujer al 33.66 % de descuento'
+date: 2020-06-25 08:58:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41viYARlYtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41viYARlYtL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07S5LSMG8
 description:
-actualPrice: 52.28 EUR
+actualPrice: 59.71 EUR
 comparePrice: 90.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 574v2  Zapatillas para Mujer  Azul  Navy Soc   36 EU](https://www.amazon.com/dp/B07S5LSMG8/?tag=redken08-20) a 52.28 EUR (original: 90.0 EUR) (41.91 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance 574v2  Zapatillas para Mujer  Azul  Navy Soc   36 EU](https://www.amazon.com/dp/B07S5LSMG8/?tag=redken08-20) a 59.71 EUR (original: 90.0 EUR) (33.66 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41viYARlYtL._SL200_.jpg)](https://www.amazon.com/dp/B07S5LSMG8/?tag=redken08-20)
 

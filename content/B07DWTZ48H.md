@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'OTHA Proyector Portátil  Mini Proyector  al 28.87 % de descuento'
-date: 2020-02-11 00:10:11
-thumbnailImage: 'https://m.media-amazon.com/images/I/41l8cYtghfL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41l8cYtghfL._AC_._SL200_.jpg' ]
+title: 'OTHA Proyector Mini Portátil  Mini Proye al 39.39 % de descuento'
+date: 2020-06-26 17:26:25
+thumbnailImage: 'https://m.media-amazon.com/images/I/41l8cYtghfL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41l8cYtghfL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07DWTZ48H
 description:
-actualPrice: 169.99 EUR
-comparePrice: 238.99 EUR
+actualPrice: 239.99 EUR
+comparePrice: 395.99 EUR
 inStock: true
 ---
 
-Está [OTHA Proyector Portátil  Mini Proyector Android 7.1.2  Proyector DLP  Soporte 1080P Bluetooth HDMI Airplay Wifidisplay Eshare  para Cine  en Casa Inalámbrico  Compatible con Fire TV Stick/ PS3/ PS4](https://www.amazon.com/dp/B07DWTZ48H/?tag=redken08-20) con 28.87 de descuento por 169.99 EUR (original: 238.99 EUR) en el siguiente enlace!
+Está [OTHA Proyector Mini Portátil  Mini Proyector Android 7.1.2  Proyector DLP  Soporte 1080P Bluetooth HDMI Airplay Wifidisplay Eshare  para Cine en Casa Inalámbrico  Compatible con Fire TV Stick/PS3/PS4](https://www.amazon.com/dp/B07DWTZ48H/?tag=redken08-20) con 39.39 de descuento por 239.99 EUR (original: 395.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41l8cYtghfL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DWTZ48H/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41l8cYtghfL._SL200_.jpg)](https://www.amazon.com/dp/B07DWTZ48H/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07DWTZ48H/?tag=redken08-20)
 

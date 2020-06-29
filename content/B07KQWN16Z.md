@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Protector De Lentes para GoPro Hero 5  T al 41.88 % de descuento'
-date: 2020-06-19 00:01:15
+date: 2020-06-22 18:01:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31QHr7Ky8xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31QHr7Ky8xL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.27 % en Hugo BOSS Reloj Cronógrafo para Hombre d'
-date: 2020-06-21 12:43:26
+date: 2020-06-25 17:22:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MjoeBxbVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MjoeBxbVL._SL200_.jpg' ]
 comments: true

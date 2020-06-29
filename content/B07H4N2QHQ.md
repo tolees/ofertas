@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Set de Ejercitar Rodillo Abdominales  3  al 28.01 % de descuento'
-date: 2020-06-18 11:26:44
+date: 2020-06-25 17:58:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f9m+VM1tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f9m+VM1tL._SL200_.jpg' ]
 comments: true

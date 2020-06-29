@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'HUAWEI Watch GT 2  46 mm  Smart Watch  1 al 35.00 % de descuento'
-date: 2020-04-02 06:26:05
-thumbnailImage: 'https://m.media-amazon.com/images/I/41h2DMNIkVL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41h2DMNIkVL._SL200_.jpg' ]
+title: 'Huawei Watch GT2 Sport - Smartwatch con  al 25.10 % de descuento'
+date: 2020-06-27 19:40:52
+thumbnailImage: 'https://m.media-amazon.com/images/I/41PxMrdaYlL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41PxMrdaYlL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07XH9KHLR
 description:
-actualPrice: 129.99 GBP
-comparePrice: 199.99 GBP
+actualPrice: 179.0 EUR
+comparePrice: 239.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HUAWEI Watch GT 2  46 mm  Smart Watch  1.39 Inch AMOLED Display with 3D Glass Screen  2 Weeks Battery Life  GPS  15 Sport Modes  3D Glass Screen  Bluetooth Calling Smartwatch  Matte Black](https://www.amazon.com/dp/B07XH9KHLR/?tag=redken08-20) a 129.99 GBP (original: 199.99 GBP) (35.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Huawei Watch GT2 Sport - Smartwatch con Caja de 46 Mm  Hasta 2 Semanas de Batería  Pantalla Táctil Amoled de 1.39"  GPS  15 Modos Deportivos  Llamadas Bluetooth   Negro Mate](https://www.amazon.com/dp/B07XH9KHLR/?tag=redken08-20) a 179.0 EUR (original: 239.0 EUR) (25.10 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41h2DMNIkVL._SL200_.jpg)](https://www.amazon.com/dp/B07XH9KHLR/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41PxMrdaYlL._SL200_.jpg)](https://www.amazon.com/dp/B07XH9KHLR/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07XH9KHLR/?tag=redken08-20)
 

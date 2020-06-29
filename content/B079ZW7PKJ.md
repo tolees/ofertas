@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Reloj Digital para Hombre de Cuarz al 25.17 % de descuento'
-date: 2020-06-20 16:14:26
+date: 2020-06-28 09:14:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tcOPQnXoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tcOPQnXoL._SL200_.jpg' ]
 comments: true

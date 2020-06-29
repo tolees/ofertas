@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iMangoo Adaptador de Carga para lápiz de al 26.68 % de descuento'
-date: 2020-06-17 10:46:22
+date: 2020-06-27 19:31:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DKChMgcTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DKChMgcTL._SL200_.jpg' ]
 comments: true

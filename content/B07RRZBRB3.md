@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Genius X 20000 Luxe Edition Cepil al 56.16 % de descuento'
-date: 2020-06-21 16:04:20
+date: 2020-06-25 18:00:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KUKyFDApL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KUKyFDApL._SL200_.jpg' ]
 comments: true

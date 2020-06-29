@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.96 % en Samsung 43RU7405 serie RU7400 2019 - Sma'
-date: 2020-06-21 07:54:04
+date: 2020-06-25 17:58:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41egzEETe-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41egzEETe-L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VARLION LW TI 8.8 ROJA 2020 al 53.05 % de descuento'
-date: 2020-06-15 23:10:53
+date: 2020-06-22 21:47:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gkv3kAjFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gkv3kAjFL._SL200_.jpg' ]
 comments: true

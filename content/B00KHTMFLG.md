@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 40.15 % en Under Armour UA HG Armour SS Camiseta  H'
-date: 2020-03-18 14:38:32
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IY9ou2OxL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IY9ou2OxL._SL200_.jpg' ]
+title: 'Descuento del 48.37 % en Under Armour UA Heatgear Short Sleeve Ca'
+date: 2020-06-22 18:16:43
+thumbnailImage: 'https://m.media-amazon.com/images/I/41bivfsd4EL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41bivfsd4EL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00KHTMFLG
 description:
-actualPrice: 17.95 EUR
-comparePrice: 29.99 EUR
+actualPrice: 15.49 EUR
+comparePrice: 30.0 EUR
 inStock: true
 ---
 
-Tienes [Under Armour UA HG Armour SS Camiseta  Hombre  Rojo  Red/Steel 600   M](https://www.amazon.com/dp/B00KHTMFLG/?tag=redken08-20) con un 40.15 % de descuento con precio de oferta de 17.95 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Rojo  Red/Steel 600   M](https://www.amazon.com/dp/B00KHTMFLG/?tag=redken08-20) con un 48.37 % de descuento con precio de oferta de 15.49 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41IY9ou2OxL._SL200_.jpg)](https://www.amazon.com/dp/B00KHTMFLG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41bivfsd4EL._SL200_.jpg)](https://www.amazon.com/dp/B00KHTMFLG/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00KHTMFLG/?tag=redken08-20)
 

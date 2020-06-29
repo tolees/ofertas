@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ruavieja Licor de Té con Jengibre - 700  al 40.19 % de descuento'
-date: 2020-06-21 05:22:17
+date: 2020-06-25 09:18:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JD4Dc26QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JD4Dc26QL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.35 % en Kemier Bolso Transparente Estuche de Via'
-date: 2020-06-18 06:42:34
+date: 2020-06-25 22:05:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CQaK76xHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CQaK76xHL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel BTS - Muñeco V  figura de colecci al 66.72 % de descuento'
-date: 2020-06-22 12:52:45
+date: 2020-06-25 15:37:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KaBkXiqdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KaBkXiqdL._SL200_.jpg' ]
 comments: true

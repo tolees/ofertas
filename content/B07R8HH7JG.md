@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Vans OLD SKOOL III BACKPACK Mochila tipo'
-date: 2020-06-22 10:07:37
+date: 2020-06-25 15:37:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HGK0lVVGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HGK0lVVGL._SL200_.jpg' ]
 comments: true

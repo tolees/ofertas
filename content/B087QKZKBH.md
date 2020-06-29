@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Papalook PA327 - Cámara web HD con micró al 28.58 % de descuento'
-date: 2020-06-18 19:34:29
+date: 2020-06-27 08:05:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ibR3mJTuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ibR3mJTuL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Medion S22003 MD34639 - Ordenador de Sob'
-date: 2020-06-19 23:31:06
+date: 2020-06-29 04:45:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31G9CmthXaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31G9CmthXaL._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 36.68 % en Easton Marlowe 6 PR Calcetines Sutilment'
-date: 2020-02-27 08:44:51
-thumbnailImage: 'https://m.media-amazon.com/images/I/511N197r6QL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/511N197r6QL._AC_._SL200_.jpg' ]
+date: 2020-06-27 22:35:32
+thumbnailImage: 'https://m.media-amazon.com/images/I/511N197r6QL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/511N197r6QL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Easton Marlowe 6 PR Calcetines Sutilmente Estampados Hombre - 6pk #4-6  gris carbón - 43-46 talla de calzado UE](https://www.amazon.com/dp/B07C7YDGFP/?tag=redken08-20) con un 36.68 % de descuento con precio de oferta de 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/511N197r6QL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07C7YDGFP/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/511N197r6QL._SL200_.jpg)](https://www.amazon.com/dp/B07C7YDGFP/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07C7YDGFP/?tag=redken08-20)
 

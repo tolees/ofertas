@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Realm Backpack Mochila Tipo Casual  al 53.95 % de descuento'
-date: 2020-06-22 07:10:00
+date: 2020-06-23 08:22:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jYJYc7UlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jYJYc7UlL._SL200_.jpg' ]
 comments: true

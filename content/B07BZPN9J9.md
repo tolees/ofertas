@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Samsonite Disney Ultimate 2.0 Mochila 35'
-date: 2020-06-22 08:07:17
+date: 2020-06-25 18:05:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/4192p32SfAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4192p32SfAL._SL200_.jpg' ]
 comments: true

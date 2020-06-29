@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hunt : Showdown - PS4 al 38.01 % de descuento'
-date: 2020-06-15 16:33:03
+date: 2020-06-28 18:43:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GG8TpVguL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GG8TpVguL._SL200_.jpg' ]
 comments: true

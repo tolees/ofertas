@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigoss Autoradio Bluetooth Radio Coche M al 54.01 % de descuento'
-date: 2020-06-17 19:11:18
+date: 2020-06-28 12:41:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/5109BPqWYcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5109BPqWYcL._SL200_.jpg' ]
 comments: true

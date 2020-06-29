@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.64 % en Pattex No Mas Clavos Para Todo HighTack '
-date: 2020-06-15 23:32:32
+date: 2020-06-24 11:27:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lu2qAPt1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lu2qAPt1L._SL200_.jpg' ]
 comments: true

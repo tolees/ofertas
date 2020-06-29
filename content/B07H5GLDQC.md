@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yamay Auricular Bluetooth v4.1  Auricula al 50.92 % de descuento'
-date: 2020-06-15 08:47:06
+date: 2020-06-25 17:45:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31UhI-j6NUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31UhI-j6NUL._SL200_.jpg' ]
 comments: true

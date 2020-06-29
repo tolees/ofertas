@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.35 % en Safety 1st Rainbow Silla de Paseo ultral'
-date: 2020-06-21 13:24:05
+date: 2020-06-23 12:38:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41590j+0BrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41590j+0BrL._SL200_.jpg' ]
 comments: true

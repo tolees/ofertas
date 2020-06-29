@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.84 % en GX· Difusor Alexa humidificador Ultrasón'
-date: 2020-06-20 12:28:04
+date: 2020-06-23 05:35:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Sb5DQS3EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Sb5DQS3EL._SL200_.jpg' ]
 comments: true

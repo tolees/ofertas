@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch UniversalImpact 700 - Taladro Perc al 39.99 % de descuento'
-date: 2020-06-22 13:44:06
+date: 2020-06-25 10:05:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41h-du7UbHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41h-du7UbHL._SL200_.jpg' ]
 comments: true

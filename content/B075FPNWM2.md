@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.27 % en Taladro Atornillador 12V  TEENO 41Pcs Ki'
-date: 2020-06-21 17:40:40
+date: 2020-06-24 10:40:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg' ]
 comments: true

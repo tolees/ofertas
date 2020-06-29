@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.52 % en DJI Osmo Mobile 3  Estabilizador de 3 Ej'
-date: 2020-06-14 23:42:36
+date: 2020-06-28 23:59:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/21n6Sl3IkLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21n6Sl3IkLL._SL200_.jpg' ]
 comments: true

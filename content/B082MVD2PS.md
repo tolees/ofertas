@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.14 % en Resident Evil 3 Remake - PS4'
-date: 2020-06-16 17:15:40
+date: 2020-06-28 16:14:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/510Ogl0nw4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510Ogl0nw4L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.93 % en Logitech Z607 5.1 Sistema de Altavoces B'
-date: 2020-06-16 19:04:58
+date: 2020-06-27 13:37:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31IDI0Qnt1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31IDI0Qnt1L._SL200_.jpg' ]
 comments: true

@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Einhell TE-DH 1027 32 J - Martillo demol al 27.43 % de descuento'
+date: 2020-06-27 12:26:49
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Rj0TLZ50L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Rj0TLZ50L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00UWIDGQA
+description:
+actualPrice: 195.9 EUR
+comparePrice: 269.95 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Einhell TE-DH 1027 32 J - Martillo demoledor-picador  1.500 W  empuñadura antideslizante  cable de goma  ref.4139090 ](https://www.amazon.com/dp/B00UWIDGQA/?tag=redken08-20) a 195.9 EUR (original: 269.95 EUR) (27.43 %  de descuento) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/41Rj0TLZ50L._SL200_.jpg)](https://www.amazon.com/dp/B00UWIDGQA/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B00UWIDGQA/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marco Digital de Fotos y Videos  RegeMou al 25.00 % de descuento'
-date: 2020-06-15 12:07:52
+date: 2020-06-27 15:40:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ADARaMiTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ADARaMiTL._SL200_.jpg' ]
 comments: true

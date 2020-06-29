@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.48 % en Lepfun Laxuri Calcetines de Compresión M'
-date: 2020-06-19 08:05:28
+date: 2020-06-28 21:25:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41g8VxI-K2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41g8VxI-K2L._SL200_.jpg' ]
 comments: true

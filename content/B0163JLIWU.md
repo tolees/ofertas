@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monitor AOC U2879VF - Pantalla para PC d al 33.33 % de descuento'
-date: 2020-06-18 09:03:36
+date: 2020-06-28 15:43:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41I42GXfUjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41I42GXfUjL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'WD Elements Portable   externe Festplatt al 34.00 % de descuento'
-date: 2020-04-21 16:34:20
+title: 'WD Elements externe Festplatte 5 TB  USB al 34.00 % de descuento'
+date: 2020-06-28 14:56:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Está [WD Elements Portable   externe Festplatte - 5 TB - USB 3.0 - WDBU6Y0050BBK-WESN](https://www.amazon.com/dp/B07X41PWTY/?tag=redken08-20) con 34.00 de descuento por 99.0 EUR (original: 149.99 EUR) en el siguiente enlace!
+Está [WD Elements externe Festplatte 5 TB  USB 3.0-Schnittstelle  Plug-and-Play  kompakt und leicht  schwarz](https://www.amazon.com/dp/B07X41PWTY/?tag=redken08-20) con 34.00 de descuento por 99.0 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL200_.jpg)](https://www.amazon.com/dp/B07X41PWTY/?tag=redken08-20)
 

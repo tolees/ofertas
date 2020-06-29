@@ -14,10 +14,10 @@ comparePrice: 7.99 GBP
 inStock: true
 ---
 
-Está [BG Electrical Single Light Switch  Brushed Steel  2-Way  10AX](https://www.amazon.com/dp/B007CVCTR2/?tag=redken08-20) con 45.68 de descuento por 4.34 GBP (original: 7.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [BG Electrical Single Light Switch  Brushed Steel  2-Way  10AX](https://www.amazon.com/dp/B007CVCTR2/?tag=redken08-20) a 4.34 GBP (original: 7.99 GBP) (45.68 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41cwsRxfSKL._SL200_.jpg)](https://www.amazon.com/dp/B007CVCTR2/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B007CVCTR2/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B007CVCTR2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
