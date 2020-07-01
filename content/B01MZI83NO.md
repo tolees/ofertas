@@ -14,10 +14,10 @@ comparePrice: 1599.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tamron SP 70-200 mm F/2.8 Di VC USD G2 - Objetivo para Nikon  estabilizador óptico VC en Tres Modos  Sensor Full Frame 24 x 36  AF USD  Dos Lentes XLD  SP  Negro](https://www.amazon.com/dp/B01MZI83NO/?tag=redken08-20) a 620.0 EUR (original: 1599.0 EUR) (61.23 %  de descuento) en el siguiente enlace!
+Está [Tamron SP 70-200 mm F/2.8 Di VC USD G2 - Objetivo para Nikon  estabilizador óptico VC en Tres Modos  Sensor Full Frame 24 x 36  AF USD  Dos Lentes XLD  SP  Negro](https://www.amazon.com/dp/B01MZI83NO/?tag=redken08-20) con 61.23 de descuento por 620.0 EUR (original: 1599.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41sRToaDLUL._SL200_.jpg)](https://www.amazon.com/dp/B01MZI83NO/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MZI83NO/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MZI83NO/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

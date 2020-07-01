@@ -14,10 +14,10 @@ comparePrice: 20.85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The Antiquary Scotch Whisky Aged 12 Years - 700ml](https://www.amazon.com/dp/B007MLWM3I/?tag=redken08-20) a 12.0 EUR (original: 20.85 EUR) (42.45 %  de descuento) en el siguiente enlace!
+Está [The Antiquary Scotch Whisky Aged 12 Years - 700ml](https://www.amazon.com/dp/B007MLWM3I/?tag=redken08-20) con 42.45 de descuento por 12.0 EUR (original: 20.85 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/413Bcy7f6vL._SL200_.jpg)](https://www.amazon.com/dp/B007MLWM3I/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B007MLWM3I/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B007MLWM3I/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
