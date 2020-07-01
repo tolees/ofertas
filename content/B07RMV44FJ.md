@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.51 % en Telémetro láser 50m  TECCPO Medidor láse'
-date: 2020-06-29 07:31:25
+date: 2020-06-30 17:08:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/510OfNWBNtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510OfNWBNtL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cámara web Full HD 1080P con micrófono   al 27.51 % de descuento'
-date: 2020-06-18 06:02:09
+date: 2020-06-29 20:00:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Pt2zF0shL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Pt2zF0shL._SL200_.jpg' ]
 comments: true

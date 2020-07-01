@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.34 % en Festina Reloj Análogo clásico para Hombr'
-date: 2020-06-24 05:20:39
+date: 2020-06-30 04:11:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41V85+2XYZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41V85+2XYZL._SL200_.jpg' ]
 comments: true

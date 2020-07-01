@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24x Color de la mezcla Lámina impresa 2d al 71.45 % de descuento'
-date: 2020-06-28 08:29:30
+date: 2020-06-29 15:04:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/612RmjQTJBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/612RmjQTJBL._SL200_.jpg' ]
 comments: true

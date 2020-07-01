@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.26 % en MATEIN Mochila Viaje Hombre Antirrobo Im'
-date: 2020-06-21 11:16:17
+date: 2020-06-30 06:30:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IrhQb18UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IrhQb18UL._SL200_.jpg' ]
 comments: true

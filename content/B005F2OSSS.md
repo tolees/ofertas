@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips PT860/16 Power Touch - Afeitador al 28.58 % de descuento'
-date: 2020-06-22 12:26:14
+date: 2020-06-30 16:34:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Cz-46lkrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Cz-46lkrL._SL200_.jpg' ]
 comments: true

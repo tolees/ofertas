@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.99 % en TACKLIFE 1200A Arrancador de Coche KP120'
-date: 2020-06-19 16:27:56
+date: 2020-06-29 11:35:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xi8mNF5jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xi8mNF5jL._SL200_.jpg' ]
 comments: true

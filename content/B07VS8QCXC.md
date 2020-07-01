@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Seagate Expansion Amazon Special Edition al 28.38 % de descuento'
-date: 2020-06-04 10:38:28
-thumbnailImage: 'https://m.media-amazon.com/images/I/31J+GQnzGNL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31J+GQnzGNL._SL200_.jpg' ]
+title: 'Seagate Portable  5 TB  Disco duro exter al 25.88 % de descuento'
+date: 2020-06-30 05:46:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/31nMFhO266L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31nMFhO266L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07VS8QCXC
 description:
-actualPrice: 92.73 GBP
-comparePrice: 129.48 GBP
+actualPrice: 125.99 EUR
+comparePrice: 169.99 EUR
 inStock: true
 ---
 
-Está [Seagate Expansion Amazon Special Edition 5TB External Portable Hard Drive  6.35cm  2.5in  ](https://www.amazon.com/dp/B07VS8QCXC/?tag=redken08-20) con 28.38 de descuento por 92.73 GBP (original: 129.48 GBP) en el siguiente enlace!
+Está [Seagate Portable  5 TB  Disco duro externo  HDD  USB 3.0 para PC  ordenador portátil y Mac  STGX5000400 ](https://www.amazon.com/dp/B07VS8QCXC/?tag=redken08-20) con 25.88 de descuento por 125.99 EUR (original: 169.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31J+GQnzGNL._SL200_.jpg)](https://www.amazon.com/dp/B07VS8QCXC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31nMFhO266L._SL200_.jpg)](https://www.amazon.com/dp/B07VS8QCXC/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07VS8QCXC/?tag=redken08-20)
 

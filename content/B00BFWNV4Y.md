@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Repsol RP135U55 Aceite de Motor para Coc al 27.30 % de descuento'
-date: 2020-06-20 18:38:32
-thumbnailImage: 'https://m.media-amazon.com/images/I/41xKtKw2WkL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41xKtKw2WkL._SL200_.jpg' ]
+date: 2020-07-01 08:38:19
+thumbnailImage: 'https://m.media-amazon.com/images/I/41yjOwFm0ML._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41yjOwFm0ML._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Repsol RP135U55 Aceite de Motor para Coche  Multicolor  5 L](https://www.amazon.com/dp/B00BFWNV4Y/?tag=redken08-20) a 26.9 EUR (original: 37.0 EUR) (27.30 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41xKtKw2WkL._SL200_.jpg)](https://www.amazon.com/dp/B00BFWNV4Y/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41yjOwFm0ML._SL200_.jpg)](https://www.amazon.com/dp/B00BFWNV4Y/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00BFWNV4Y/?tag=redken08-20)
 

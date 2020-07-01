@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Levi s Slim 2pk Crewneck 1 Camiseta  Mul'
-date: 2020-06-26 13:47:25
+date: 2020-06-30 16:11:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XJLEWel8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XJLEWel8L._SL200_.jpg' ]
 comments: true

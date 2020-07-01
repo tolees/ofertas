@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apisérum Pack Defensas Cápsulas - 3 mese al 39.23 % de descuento'
-date: 2020-06-24 09:04:40
+date: 2020-06-30 10:49:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oEqqnCsbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oEqqnCsbL._SL200_.jpg' ]
 comments: true

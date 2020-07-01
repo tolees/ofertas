@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Watch GT2 Sport - Smartwatch con  al 25.10 % de descuento'
-date: 2020-06-27 19:40:52
+date: 2020-06-29 13:54:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PxMrdaYlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PxMrdaYlL._SL200_.jpg' ]
 comments: true

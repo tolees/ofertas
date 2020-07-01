@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.87 % en TRESemmé Champú en Seco Fresco y Limpio '
-date: 2020-06-28 11:15:56
+date: 2020-06-30 09:03:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CBtwR6e7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CBtwR6e7L._SL200_.jpg' ]
 comments: true

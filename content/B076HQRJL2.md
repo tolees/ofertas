@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.70 % en Adidas Core18 Sw Top Sudadera  Hombre  A'
-date: 2020-06-28 15:34:48
+date: 2020-06-29 19:50:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tXMycABsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tXMycABsL._SL200_.jpg' ]
 comments: true

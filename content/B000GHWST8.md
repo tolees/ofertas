@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.49 % en Calvin Klein Euphoria Eau de Toilette Va'
-date: 2020-06-27 20:32:59
+date: 2020-06-30 13:53:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zz6G5mVtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zz6G5mVtL._SL200_.jpg' ]
 comments: true

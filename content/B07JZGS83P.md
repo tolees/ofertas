@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.32 % en LABISTS Raspberry Pi 3 B+ Starter Kit co'
-date: 2020-06-28 22:04:19
+date: 2020-07-01 08:45:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YCCMDOxFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YCCMDOxFL._SL200_.jpg' ]
 comments: true

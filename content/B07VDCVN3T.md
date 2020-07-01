@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Gamenote Colourful Origami Kit with 55-P al 33.35 % de descuento'
-date: 2020-04-17 00:01:49
+title: 'Gamenote color kit de origami para niños al 42.32 % de descuento'
+date: 2020-06-29 09:26:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ojwf1iSKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ojwf1iSKL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07VDCVN3T
 description:
-actualPrice: 17.99 GBP
-comparePrice: 26.99 GBP
+actualPrice: 14.99 EUR
+comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Está [Gamenote Colourful Origami Kit with 55-Page Instructional Book 118 Double Sided Vivid Origami Papers 54 Projects Origami for Kids Beginners Trainning and School Craft Lessons](https://www.amazon.com/dp/B07VDCVN3T/?tag=redken08-20) con 33.35 de descuento por 17.99 GBP (original: 26.99 GBP) en el siguiente enlace!
+Está [Gamenote color kit de origami para niños 118 archivo de origami vívido de doble cara 55 páginas que enseña libro de origami  adecuado para niños / clase de manualidades escolares](https://www.amazon.com/dp/B07VDCVN3T/?tag=redken08-20) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ojwf1iSKL._SL200_.jpg)](https://www.amazon.com/dp/B07VDCVN3T/?tag=redken08-20)
 

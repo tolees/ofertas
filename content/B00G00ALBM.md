@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Komono Reloj Analógico de Cuarzo Unisex  al 43.78 % de descuento'
-date: 2020-06-21 18:30:46
+date: 2020-06-29 13:31:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41B77yp1F9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41B77yp1F9L._SL200_.jpg' ]
 comments: true

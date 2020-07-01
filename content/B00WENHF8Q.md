@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Case Logic HDC11K - Funda rígida para Di al 40.04 % de descuento'
-date: 2020-04-18 09:14:13
+title: 'Case Logic HDC11K - Funda rígida para di al 40.04 % de descuento'
+date: 2020-06-30 21:01:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Y6NDZ0YxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Y6NDZ0YxL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [Case Logic HDC11K - Funda rígida para Disco Duro de 2.5"  Color Negro](https://www.amazon.com/dp/B00WENHF8Q/?tag=redken08-20) con 40.04 de descuento por 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [Case Logic HDC11K - Funda rígida para disco duro de 2.5"  color negro](https://www.amazon.com/dp/B00WENHF8Q/?tag=redken08-20) con 40.04 de descuento por 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Y6NDZ0YxL._SL200_.jpg)](https://www.amazon.com/dp/B00WENHF8Q/?tag=redken08-20)
 

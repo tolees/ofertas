@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.39 % en Pharmaton | Multivitamínico con ginseng '
-date: 2020-06-28 08:27:18
+date: 2020-06-29 11:26:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-A2oQRxRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-A2oQRxRL._SL200_.jpg' ]
 comments: true

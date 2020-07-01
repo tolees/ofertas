@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intex 57520NP - Moto acuática hinchable  al 30.15 % de descuento'
-date: 2020-06-16 10:46:36
+date: 2020-06-30 17:57:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n-Ze9Dp9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n-Ze9Dp9L._SL200_.jpg' ]
 comments: true

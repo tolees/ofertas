@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.01 % en Creative Sound BlasterX G1 - Tarjeta de '
-date: 2020-06-21 12:31:47
+date: 2020-06-30 03:00:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/318NKQ+m+-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318NKQ+m+-L._SL200_.jpg' ]
 comments: true

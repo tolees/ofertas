@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DIM Generous Minimizer Sujetador reducto al 63.06 % de descuento'
-date: 2020-06-17 04:48:52
+date: 2020-06-30 04:56:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sN3wp3ajL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sN3wp3ajL._SL200_.jpg' ]
 comments: true

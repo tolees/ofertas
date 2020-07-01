@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.55 % en Wolfcraft 3425000 3425000-1"microfix S M'
-date: 2020-06-19 17:08:24
+date: 2020-06-30 18:08:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/419C+9hFV9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419C+9hFV9L._SL200_.jpg' ]
 comments: true

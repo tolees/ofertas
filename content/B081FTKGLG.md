@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Shadow of the Tomb Raider - Definitive E al 35.64 % de descuento'
-date: 2020-06-28 11:10:45
+date: 2020-06-29 12:18:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51o4mEgYq9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51o4mEgYq9L._SL200_.jpg' ]
 comments: true

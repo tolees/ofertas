@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.83 % en Brazalete Deportivo para Corre con Airpo'
-date: 2020-06-19 13:09:36
+date: 2020-06-30 08:56:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eHTz3lNdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eHTz3lNdL._SL200_.jpg' ]
 comments: true

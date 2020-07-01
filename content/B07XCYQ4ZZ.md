@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Doosl Tableta de Escritura LCD  Tableta  al 47.39 % de descuento'
-date: 2020-06-20 16:45:33
+date: 2020-07-01 09:11:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AzJm5GlKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AzJm5GlKL._SL200_.jpg' ]
 comments: true

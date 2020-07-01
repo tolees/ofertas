@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Epic Flip V2  Zapatos de Playa y Pi al 34.89 % de descuento'
-date: 2020-06-25 12:13:47
+date: 2020-06-29 13:56:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/410aU-x1k3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410aU-x1k3L._SL200_.jpg' ]
 comments: true

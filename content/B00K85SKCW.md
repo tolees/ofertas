@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.11 % en BRA Terra - Set de 3 sartenes  aluminio '
-date: 2020-06-23 20:24:59
+date: 2020-06-29 22:35:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QSTiT4I-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QSTiT4I-L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'upHere PWM Ventilador PC 120mm 5V ARGB L al 40.91 % de descuento'
-date: 2020-06-27 08:05:08
+date: 2020-06-29 12:33:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qL+JiBAzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qL+JiBAzL._SL200_.jpg' ]
 comments: true

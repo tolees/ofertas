@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BY BENYAR Reloj Casual de Cuarzo para Ho al 83.20 % de descuento'
-date: 2020-06-25 20:17:13
+date: 2020-06-29 14:12:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Lnp6SIL4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Lnp6SIL4L._SL200_.jpg' ]
 comments: true

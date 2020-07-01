@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Festina Reloj Análogo clásico para Hombr al 50.40 % de descuento'
-date: 2020-06-21 14:13:43
+date: 2020-06-29 08:50:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mYVtZKXSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mYVtZKXSL._SL200_.jpg' ]
 comments: true

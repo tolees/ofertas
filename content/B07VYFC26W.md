@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Bosch Unlimited Serie 6 BCS611AM - Aspir al 46.07 % de descuento'
-date: 2020-04-13 19:13:22
+title: 'Bosch Unlimited Serie 6 BCS611AM - Aspir al 37.59 % de descuento'
+date: 2020-06-29 09:43:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hwXWoY7XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hwXWoY7XL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07VYFC26W
 description:
-actualPrice: 215.2 EUR
+actualPrice: 249.0 EUR
 comparePrice: 399.0 EUR
 inStock: true
 ---
 
-Está [Bosch Unlimited Serie 6 BCS611AM - Aspirador escoba sin cable  hasta 30 minutos de duración  18 V  incluye 1 Batería Extraíble  Power for ALL   color blanco](https://www.amazon.com/dp/B07VYFC26W/?tag=redken08-20) con 46.07 de descuento por 215.2 EUR (original: 399.0 EUR) en el siguiente enlace!
+Está [Bosch Unlimited Serie 6 BCS611AM - Aspirador escoba sin cable  hasta 30 minutos de duración  18 V  incluye 1 Batería Extraíble  Power for ALL   color blanco](https://www.amazon.com/dp/B07VYFC26W/?tag=redken08-20) con 37.59 de descuento por 249.0 EUR (original: 399.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31hwXWoY7XL._SL200_.jpg)](https://www.amazon.com/dp/B07VYFC26W/?tag=redken08-20)
 

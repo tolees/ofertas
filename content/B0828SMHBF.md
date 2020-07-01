@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LTDNB Cable USB Tipo C [3Pack 1M +1M+2M] al 33.36 % de descuento'
-date: 2020-06-25 05:40:45
+date: 2020-07-01 08:31:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/412MVxP7cBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412MVxP7cBL._SL200_.jpg' ]
 comments: true

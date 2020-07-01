@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.41 % en Trust 20058 Urban - Funda Universal con '
-date: 2020-06-22 08:45:52
+date: 2020-06-30 17:45:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yaQaBg9SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yaQaBg9SL._SL200_.jpg' ]
 comments: true
