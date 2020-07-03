@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony XS FB6930  Kit Altavoces  Negro al 25.01 % de descuento'
-date: 2020-06-25 10:17:42
+date: 2020-07-01 18:42:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/417ikxiHdiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417ikxiHdiL._SL200_.jpg' ]
 comments: true

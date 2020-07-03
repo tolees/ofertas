@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.65 % en Tensiómetro de Muñeca  HYLOGY Monitor de'
-date: 2020-06-29 17:13:10
+date: 2020-07-02 11:37:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NIJYVAT3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NIJYVAT3L._SL200_.jpg' ]
 comments: true

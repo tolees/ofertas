@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remington S8598 Keratin Protect - Planch al 26.24 % de descuento'
-date: 2020-06-19 15:06:42
+date: 2020-07-01 19:05:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tq66CTvvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tq66CTvvL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.00 % en Panasonic RP-HTX90NE-K - Auriculares Ina'
-date: 2020-06-29 14:53:44
+date: 2020-07-01 14:21:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xbQmR0riL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xbQmR0riL._SL200_.jpg' ]
 comments: true

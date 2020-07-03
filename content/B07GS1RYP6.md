@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.31 % en Diablo III - Eternal Collection'
-date: 2020-06-22 14:01:10
+date: 2020-07-02 07:38:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mvfdn+JuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mvfdn+JuL._SL200_.jpg' ]
 comments: true

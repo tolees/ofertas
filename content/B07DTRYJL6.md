@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'AmazonBasics USB A Cable with Lightning  al 47.35 % de descuento'
+date: 2019/11/24 20:33:23 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kxo8UvtTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kxo8UvtTL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07DTRYJL6
+description:
+actualPrice: 7.64 GBP
+comparePrice: 14.51 GBP
+inStock: true
+---
+
+Ahora mismo tienes [AmazonBasics USB A Cable with Lightning Connector  Advanced Collection - 10 Feet  3 Meters  - Single - Blue](https://www.amazon.com/dp/B07DTRYJL6/?tag=redken08-20) a 7.64 GBP (original: 14.51 GBP) (47.35 %  de descuento) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41Kxo8UvtTL._SL200_.jpg)](https://www.amazon.com/dp/B07DTRYJL6/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B07DTRYJL6/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Cartucheras - Dulces de regaliz al 33.50 % de descuento'
-date: 2020-06-23 07:25:39
+date: 2020-07-01 20:02:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UcTUifhZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UcTUifhZL._SL200_.jpg' ]
 comments: true

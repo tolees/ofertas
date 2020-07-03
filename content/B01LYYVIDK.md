@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.22 % en Calvin Klein Reloj Analogico para Hombre'
-date: 2020-06-27 19:01:06
+date: 2020-07-02 16:51:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xeaJv+8yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xeaJv+8yL._SL200_.jpg' ]
 comments: true

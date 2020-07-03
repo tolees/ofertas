@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.85 % en Vans Atwood Canvas  Zapatillas para Homb'
-date: 2020-06-30 10:30:21
+date: 2020-07-01 18:43:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31U6mf3l2RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31U6mf3l2RL._SL200_.jpg' ]
 comments: true

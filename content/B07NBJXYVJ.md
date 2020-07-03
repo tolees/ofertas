@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Descuento del 42.50 % en Head Graphene 360 Alpha Elite 2019  Adul'
+date: 2019/11/26 10:54:17 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413lEo1FW9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413lEo1FW9L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07NBJXYVJ
+description:
+actualPrice: 115 EUR
+comparePrice: 200 EUR
+inStock: true
+---
+
+Tienes [Head Graphene 360 Alpha Elite 2019  Adultos Unisex  Multicolor  Talla Unica](https://www.amazon.com/dp/B07NBJXYVJ/?tag=redken08-20) con un 42.50 % de descuento con precio de oferta de 115 EUR (original: 200 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/413lEo1FW9L._SL200_.jpg)](https://www.amazon.com/dp/B07NBJXYVJ/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B07NBJXYVJ/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

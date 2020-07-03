@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soporte de Portátil Ergonomic Ventilado  al 38.90 % de descuento'
-date: 2020-06-24 23:46:04
+date: 2020-07-02 02:13:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Wr8P+A29L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Wr8P+A29L._SL200_.jpg' ]
 comments: true

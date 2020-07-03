@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 4K UHD 2019 65RU8005 - Smart TV  al 45.48 % de descuento'
-date: 2020-06-30 10:26:45
+date: 2020-07-02 12:04:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/412KNEtVZbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412KNEtVZbL._SL200_.jpg' ]
 comments: true

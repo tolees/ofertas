@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOUCHBeauty Pluma para el acné con terap al 42.42 % de descuento'
-date: 2020-06-25 17:42:58
+date: 2020-07-01 17:52:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wynyyjOyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wynyyjOyL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kit Cuidado Set Barba con Libre Champu B al 29.43 % de descuento'
-date: 2020-06-28 08:40:20
+date: 2020-07-02 04:26:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/514VAMjpMLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514VAMjpMLL._SL200_.jpg' ]
 comments: true

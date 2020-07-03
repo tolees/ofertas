@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trials of Mana al 32.23 % de descuento'
-date: 2020-06-15 08:54:27
+date: 2020-07-02 14:30:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ikxArHzBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ikxArHzBL._SL200_.jpg' ]
 comments: true

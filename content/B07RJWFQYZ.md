@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Raid - Difusor electrico Protection+ Ant al 45.61 % de descuento'
-date: 2020-06-30 20:03:21
+date: 2020-07-01 22:15:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51B4VFDx85L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51B4VFDx85L._SL200_.jpg' ]
 comments: true

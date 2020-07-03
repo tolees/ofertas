@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Limpiador Facial Gel de Agua  al 54.26 % de descuento'
-date: 2020-06-29 16:36:20
+date: 2020-07-01 13:04:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/318QCe2yA0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318QCe2yA0L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antaño Vino Tinto D.O Rioja - Pack de 6  al 38.33 % de descuento'
-date: 2020-06-29 14:26:19
+date: 2020-07-02 19:15:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ztQ9GvRZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ztQ9GvRZL._SL200_.jpg' ]
 comments: true

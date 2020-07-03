@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.48 % en Belkin BSV804 SurgeStrip - Tira de prote'
-date: 2020-06-28 21:25:54
+date: 2020-07-01 15:21:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+74IvHtCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+74IvHtCL._SL200_.jpg' ]
 comments: true

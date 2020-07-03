@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.01 % en [Upgraded] 1Mii Receptor Bluetooth 5.0  '
-date: 2020-06-26 19:25:34
+date: 2020-07-02 19:48:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uZnGmgiRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uZnGmgiRL._SL200_.jpg' ]
 comments: true

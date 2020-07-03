@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lexar Tarjeta Lexar Professional 633x 1T al 30.73 % de descuento'
-date: 2020-06-29 22:00:54
+date: 2020-07-01 11:02:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51e-QRo1NwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51e-QRo1NwL._SL200_.jpg' ]
 comments: true

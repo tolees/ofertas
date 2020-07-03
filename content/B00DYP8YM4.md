@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Crema Para Manos - 75 ml. al 45.00 % de descuento'
-date: 2020-06-29 20:15:52
+date: 2020-07-02 19:59:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PGBml2nTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PGBml2nTL._SL200_.jpg' ]
 comments: true

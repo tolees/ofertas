@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch TCZ6004  Pastillas de Limpieza y D al 50.30 % de descuento'
-date: 2020-06-24 10:23:35
+date: 2020-07-02 15:13:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/311Wv5-qZKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311Wv5-qZKL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remington S9500 Pearl - Plancha de Pelo  al 66.64 % de descuento'
-date: 2020-06-30 11:50:45
+date: 2020-07-02 06:20:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MpB6J+eaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MpB6J+eaL._SL200_.jpg' ]
 comments: true

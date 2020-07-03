@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.16 % en PALMOLIVE NATURALS DELICATE CARE WITH AL'
-date: 2020-06-29 16:23:54
+date: 2020-07-01 13:55:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/4109YwiLdbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4109YwiLdbL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.68 % en Einhell Kit con Cargador y batería de re'
-date: 2020-01-04 19:48:07
+date: 2020-07-01 14:34:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Sqr82xeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Sqr82xeL._SL200_.jpg' ]
 comments: true

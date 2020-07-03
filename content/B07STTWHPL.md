@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Band 4 Pulsera de Fitness Intelig al 62.17 % de descuento'
-date: 2020-06-29 22:30:51
+date: 2020-07-02 18:24:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31OVB4Zq-wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31OVB4Zq-wL._SL200_.jpg' ]
 comments: true

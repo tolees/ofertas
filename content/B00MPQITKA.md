@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en Cluse Reloj Analógico de Cuarzo para Muj'
-date: 2020-06-15 22:42:59
+date: 2020-07-02 02:33:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wqFM8KQSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wqFM8KQSL._SL200_.jpg' ]
 comments: true

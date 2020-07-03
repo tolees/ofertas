@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.43 % en Einhell TE-DH 1027 32 J - Martillo demol'
-date: 2020-06-27 12:26:49
+date: 2020-07-01 12:54:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Rj0TLZ50L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Rj0TLZ50L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeholmen Sweat Hood Noos C al 40.02 % de descuento'
-date: 2020-06-21 18:05:39
+date: 2020-07-03 05:45:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VKdTs3glL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VKdTs3glL._SL200_.jpg' ]
 comments: true

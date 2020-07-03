@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.75 % en Arppe 2090010101 Flexi New Classic Cordo'
-date: 2020-06-25 21:25:01
+date: 2020-07-01 14:58:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dO1uHbFiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dO1uHbFiL._SL200_.jpg' ]
 comments: true

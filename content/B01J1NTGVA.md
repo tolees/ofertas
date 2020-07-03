@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Bombilla LED estándar E27  13 W  al 45.02 % de descuento'
-date: 2020-07-01 09:09:47
+date: 2020-07-02 15:05:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/21DcDi1+pHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21DcDi1+pHL._SL200_.jpg' ]
 comments: true

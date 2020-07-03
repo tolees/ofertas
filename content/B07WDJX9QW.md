@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vitafit Báscula de Baño Digital de Alta  al 44.30 % de descuento'
-date: 2020-06-20 06:33:27
+date: 2020-07-01 15:51:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/31OJgya13RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31OJgya13RL._SL200_.jpg' ]
 comments: true
