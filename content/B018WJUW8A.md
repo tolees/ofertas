@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Manfrotto MFMBBP-D1 - Mochila Profesiona al 33.74 % de descuento'
-date: 2020-04-05 17:51:26
+title: 'Manfrotto Aviator D1 Drohnen Rucksack al 45.37 % de descuento'
+date: 2020-07-08 12:00:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wIqMKzzRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wIqMKzzRL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B018WJUW8A
 description:
-actualPrice: 131.85 EUR
-comparePrice: 199.0 EUR
+actualPrice: 121.85 EUR
+comparePrice: 223.05 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Manfrotto MFMBBP-D1 - Mochila Profesional para Drones dji](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20) a 131.85 EUR (original: 199.0 EUR) (33.74 %  de descuento) en el siguiente enlace!
+Está [Manfrotto Aviator D1 Drohnen Rucksack](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20) con 45.37 de descuento por 121.85 EUR (original: 223.05 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41wIqMKzzRL._SL200_.jpg)](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B018WJUW8A/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

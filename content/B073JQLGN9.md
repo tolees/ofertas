@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Tangle Teezer Thick y Curly Salsa red  1 al 27.63 % de descuento'
-date: 2020-01-22 17:56:13
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bJz%2BvD3QL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bJz%2BvD3QL._SL200_.jpg' ]
+title: 'Tangle Teezer TC-CR-010617 Thick y Curly al 35.69 % de descuento'
+date: 2020-07-06 07:33:54
+thumbnailImage: 'https://m.media-amazon.com/images/I/41bJz+vD3QL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41bJz+vD3QL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B073JQLGN9
 description:
-actualPrice: 7.99 EUR
+actualPrice: 7.1 EUR
 comparePrice: 11.04 EUR
 inStock: true
 ---
 
-Está [Tangle Teezer Thick y Curly Salsa red  1 pieza](https://www.amazon.com/dp/B073JQLGN9/?tag=redken08-20) con 27.63 de descuento por 7.99 EUR (original: 11.04 EUR) en el siguiente enlace!
+Está [Tangle Teezer TC-CR-010617 Thick y Curly Salsa Red  1 Pieza](https://www.amazon.com/dp/B073JQLGN9/?tag=redken08-20) con 35.69 de descuento por 7.1 EUR (original: 11.04 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41bJz%2BvD3QL._SL200_.jpg)](https://www.amazon.com/dp/B073JQLGN9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41bJz+vD3QL._SL200_.jpg)](https://www.amazon.com/dp/B073JQLGN9/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B073JQLGN9/?tag=redken08-20)
 

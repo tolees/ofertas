@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.35 % en Luchild Almohada para lactancia Almohada'
-date: 2020-07-02 10:24:43
+date: 2020-07-06 18:15:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bjIndzW-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bjIndzW-L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.76 % en Corsair CMW32GX4M2C3200C16 VENGEANCE RGB'
-date: 2020-06-05 00:46:19
+date: 2020-07-08 06:55:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uiD7xnqcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uiD7xnqcL._SL200_.jpg' ]
 comments: true

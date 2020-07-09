@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.46 % en PLAYMOBIL Ghostbusters Muñeco Marshmallo'
-date: 2020-07-02 22:14:17
+date: 2020-07-04 11:53:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51g2Yo0tFDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51g2Yo0tFDL._SL200_.jpg' ]
 comments: true

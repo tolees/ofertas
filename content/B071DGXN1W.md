@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aofmee Bath Bombs Gift Set  7pcs Fizzies al 35.02 % de descuento'
-date: 2020-06-04 21:14:28
+date: 2020-07-08 09:48:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VDifcf5yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VDifcf5yL._SL200_.jpg' ]
 comments: true

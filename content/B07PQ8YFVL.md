@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black+Decker BXJB1200E Batidora de Vaso  al 37.78 % de descuento'
-date: 2020-07-02 21:13:43
+date: 2020-07-04 03:31:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JjaljV3BL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JjaljV3BL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.92 % en Colgate 1032-39773  Maximum Protection P'
-date: 2020-06-26 16:29:36
+date: 2020-07-06 19:22:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/415WldZFD2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415WldZFD2L._SL200_.jpg' ]
 comments: true

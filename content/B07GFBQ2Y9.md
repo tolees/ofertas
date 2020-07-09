@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.97 % en Canon Zoemini Pv-123 - Mini Impresora  B'
-date: 2020-07-01 17:46:29
+date: 2020-07-06 11:45:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hpJFKM5TL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hpJFKM5TL._SL200_.jpg' ]
 comments: true

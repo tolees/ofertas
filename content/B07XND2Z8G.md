@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LUDOS Turbo Auriculares con Micrófono y  al 50.10 % de descuento'
-date: 2020-06-15 14:22:14
+date: 2020-07-07 21:35:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bbZIR1oeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bbZIR1oeL._SL200_.jpg' ]
 comments: true

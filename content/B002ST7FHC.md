@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Descuento del 36.86 % en STANLEY FATMAX 1-95-611 - Mochila FatMax'
-date: 2019/11/18 18:25:42 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KORHtPuYL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KORHtPuYL._SL200_.jpg' ]
+title: 'Stanley 195611 Fatmax Tool Backpack al 50.86 % de descuento'
+date: 2020-07-08 06:34:34
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Y+Wn6IUkL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Y+Wn6IUkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B002ST7FHC
 description:
-actualPrice: 37.85 EUR
-comparePrice: 59.95 EUR
+actualPrice: 29.99 GBP
+comparePrice: 61.03 GBP
 inStock: true
 ---
 
-Tienes [STANLEY FATMAX 1-95-611 - Mochila FatMax  46 x 36 x 27 cm](https://www.amazon.com/dp/B002ST7FHC/?tag=redken08-20) con un 36.86 % de descuento con precio de oferta de 37.85 EUR (original: 59.95 EUR) en el siguiente enlace!
+Está [Stanley 195611 Fatmax Tool Backpack](https://www.amazon.com/dp/B002ST7FHC/?tag=redken08-20) con 50.86 de descuento por 29.99 GBP (original: 61.03 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51KORHtPuYL._SL200_.jpg)](https://www.amazon.com/dp/B002ST7FHC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41Y+Wn6IUkL._SL200_.jpg)](https://www.amazon.com/dp/B002ST7FHC/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B002ST7FHC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B002ST7FHC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

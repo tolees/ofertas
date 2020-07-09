@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Regina Blitz Household Towel  8 Rolls  5 al 28.57 % de descuento'
-date: 2020-06-05 00:28:55
+date: 2020-07-09 01:56:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/512yeXHse0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512yeXHse0L._SL200_.jpg' ]
 comments: true

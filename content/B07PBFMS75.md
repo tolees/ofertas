@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.02 % en INPHIC Ratón inalámbrico  Slim Silent Cl'
-date: 2020-06-26 13:36:19
+date: 2020-07-05 08:46:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vQUalMHyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vQUalMHyL._SL200_.jpg' ]
 comments: true

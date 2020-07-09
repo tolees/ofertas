@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cortapelos Impermeable con Peine-guía To al 26.35 % de descuento'
-date: 2020-07-02 15:39:03
+date: 2020-07-06 12:58:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MiQHyAFJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MiQHyAFJL._SL200_.jpg' ]
 comments: true

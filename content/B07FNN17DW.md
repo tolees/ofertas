@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Fire - Llamas en el Muelle  ju al 39.96 % de descuento'
-date: 2020-06-30 13:25:33
+date: 2020-07-09 04:34:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/518XpMERBrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518XpMERBrL._SL200_.jpg' ]
 comments: true

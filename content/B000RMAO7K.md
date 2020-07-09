@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil  Chanclas Unisex Adulto al 49.77 % de descuento'
-date: 2020-06-30 20:39:32
+date: 2020-07-08 13:13:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41D9Le7pkaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41D9Le7pkaL._SL200_.jpg' ]
 comments: true

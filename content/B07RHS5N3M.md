@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Raid - Recambio para Difusor Eléctrico A al 41.68 % de descuento'
-date: 2020-07-03 08:29:16
+date: 2020-07-08 18:38:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WPDxP2fnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WPDxP2fnL._SL200_.jpg' ]
 comments: true

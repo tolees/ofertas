@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.89 % en Chicco - Barra de alivio post picaduras '
-date: 2020-07-02 12:56:48
+date: 2020-07-08 22:14:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FZSMiN6xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FZSMiN6xL._SL200_.jpg' ]
 comments: true

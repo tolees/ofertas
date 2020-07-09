@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Osram Smart Bombilla Led Globo Filamento al 27.29 % de descuento'
-date: 2020-07-01 14:41:03
-thumbnailImage: 'https://m.media-amazon.com/images/I/31LT3eCvU+L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31LT3eCvU+L._SL200_.jpg' ]
+title: 'OSRAM SMART+ LED Filament Globe  Bluetoo al 67.87 % de descuento'
+date: 2020-01-20 04:41:43
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LT3eCvU%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LT3eCvU%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07CCWFWBB
 description:
-actualPrice: 25.44 EUR
-comparePrice: 34.99 EUR
+actualPrice: 12.85 EUR
+comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Osram Smart Bombilla Led Globo Filamento Regulable E27  5.5 W  Blanco](https://www.amazon.com/dp/B07CCWFWBB/?tag=redken08-20) con 27.29 de descuento por 25.44 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [OSRAM SMART+ LED Filament Globe  Bluetooth Lampe mit E27 Sockel  dimmbar  ersetzt 50W Glühbirne  warmweiß   Kompatibel mit Apple Homekit und LEDVANCE Smart+ App für Android](https://www.amazon.com/dp/B07CCWFWBB/?tag=redken08-20) con 67.87 de descuento por 12.85 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31LT3eCvU+L._SL200_.jpg)](https://www.amazon.com/dp/B07CCWFWBB/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31LT3eCvU%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07CCWFWBB/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07CCWFWBB/?tag=redken08-20)
 

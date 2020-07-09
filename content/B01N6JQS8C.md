@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Kingston A400 SSD SA400S37/120G  -  Disc al 28.66 % de descuento'
-date: 2020-07-01 19:59:00
+title: 'Kingston A400 SSD SA400S37/120G  -  Disc al 31.39 % de descuento'
+date: 2020-07-09 06:19:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01N6JQS8C
 description:
-actualPrice: 26.39 EUR
+actualPrice: 25.38 EUR
 comparePrice: 36.99 EUR
 inStock: true
 ---
 
-Está [Kingston A400 SSD SA400S37/120G  -  Disco duro sólido interno 2.5"  SATA 120GB](https://www.amazon.com/dp/B01N6JQS8C/?tag=redken08-20) con 28.66 de descuento por 26.39 EUR (original: 36.99 EUR) en el siguiente enlace!
+Está [Kingston A400 SSD SA400S37/120G  -  Disco duro sólido interno 2.5"  SATA 120GB](https://www.amazon.com/dp/B01N6JQS8C/?tag=redken08-20) con 31.39 de descuento por 25.38 EUR (original: 36.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg)](https://www.amazon.com/dp/B01N6JQS8C/?tag=redken08-20)
 

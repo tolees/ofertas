@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rwest X Calcetines de compresión Medias  al 60.02 % de descuento'
-date: 2020-07-03 07:40:30
+date: 2020-07-06 15:34:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OYJONM2jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OYJONM2jL._SL200_.jpg' ]
 comments: true

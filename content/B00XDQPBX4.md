@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lay s - Gourmet - Patatas Fritas con Sal al 33.77 % de descuento'
-date: 2020-07-03 07:10:08
+date: 2020-07-06 12:45:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UfRgJfTIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UfRgJfTIL._SL200_.jpg' ]
 comments: true

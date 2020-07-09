@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Briksmax Led Lighting Kit for Architectu al 38.01 % de descuento'
-date: 2020-03-29 20:44:45
+title: 'BRIKSMAX Led Beleuchtungsset für Archite al 38.47 % de descuento'
+date: 2020-07-09 06:23:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/413YHLfa9iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413YHLfa9iL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07QPRJ8FD
 description:
-actualPrice: 30.99 GBP
-comparePrice: 49.99 GBP
+actualPrice: 39.99 EUR
+comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Briksmax Led Lighting Kit for Architecture Statue of Liberty-Compatible with Lego 21042 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07QPRJ8FD/?tag=redken08-20) a 30.99 GBP (original: 49.99 GBP) (38.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Architecture Freiheitsstatue  Kompatibel Mit Lego 21042 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07QPRJ8FD/?tag=redken08-20) a 39.99 EUR (original: 64.99 EUR) (38.47 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/413YHLfa9iL._SL200_.jpg)](https://www.amazon.com/dp/B07QPRJ8FD/?tag=redken08-20)
 

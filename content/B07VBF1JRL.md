@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hunletai Cable iPhone Cable Lightning [3 al 49.80 % de descuento'
-date: 2020-07-01 07:10:31
+date: 2020-07-07 09:31:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zsogqNIeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zsogqNIeL._SL200_.jpg' ]
 comments: true

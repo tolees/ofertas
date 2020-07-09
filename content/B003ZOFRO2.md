@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bel Premium Bolas de Algodon  70 piezas al 52.83 % de descuento'
-date: 2020-06-04 18:56:33
+date: 2020-07-04 14:15:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i1M5bn-+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i1M5bn-+L._SL200_.jpg' ]
 comments: true

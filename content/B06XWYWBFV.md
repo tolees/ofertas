@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Maybelline New York - Polvos Fijadores T al 30.11 % de descuento'
+date: 2020-07-06 12:06:05
+thumbnailImage: 'https://m.media-amazon.com/images/I/413cw0ogOfL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/413cw0ogOfL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B06XWYWBFV
+description:
+actualPrice: 6.36 EUR
+comparePrice: 9.1 EUR
+inStock: true
+---
+
+Está [Maybelline New York - Polvos Fijadores Translúcidos Master Fix 01 Translucent - 6 gr](https://www.amazon.com/dp/B06XWYWBFV/?tag=redken08-20) con 30.11 de descuento por 6.36 EUR (original: 9.1 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/413cw0ogOfL._SL200_.jpg)](https://www.amazon.com/dp/B06XWYWBFV/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B06XWYWBFV/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

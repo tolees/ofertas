@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.85 % en Bosch Mini X-Line - Set de 15 brocas mix'
-date: 2020-06-29 08:39:01
+date: 2020-07-04 20:15:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZBDxfK2wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZBDxfK2wL._SL200_.jpg' ]
 comments: true

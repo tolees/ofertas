@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NETVIP WiFi Repetidor de Red WiFi Amplif al 47.51 % de descuento'
-date: 2020-06-30 05:55:38
+date: 2020-07-06 07:40:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YFcTC6SuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YFcTC6SuL._SL200_.jpg' ]
 comments: true

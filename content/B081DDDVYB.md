@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Bluetooth 5.0  TWS Auricular al 42.51 % de descuento'
-date: 2020-06-20 21:26:31
+date: 2020-07-09 01:32:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31yx0xLKQnL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31yx0xLKQnL._SL500_._SL200_.jpg' ]
 comments: true

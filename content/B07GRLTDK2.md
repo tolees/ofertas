@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy Watch - Reloj Inteligente al 45.26 % de descuento'
-date: 2020-06-30 20:33:40
+date: 2020-07-08 18:19:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ognm1IQwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ognm1IQwL._SL200_.jpg' ]
 comments: true

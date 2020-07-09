@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Timberland Bradstreet Leather Sensorflex al 35.72 % de descuento'
-date: 2019/12/04 06:08:03 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg' ]
+title: 'Timberland Bradstreet Leather Sensorflex al 60.04 % de descuento'
+date: 2020-07-07 12:20:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B014YHPMHK
 description:
-actualPrice: 89.99 EUR
-comparePrice: 140 EUR
+actualPrice: 55.95 EUR
+comparePrice: 140.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Negro  Black Full Grain   43 EU](https://www.amazon.com/dp/B014YHPMHK/?tag=redken08-20) a 89.99 EUR (original: 140 EUR) (35.72 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Negro Nubuck  43 EU](https://www.amazon.com/dp/B014YHPMHK/?tag=redken08-20) a 55.95 EUR (original: 140.0 EUR) (60.04 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg)](https://www.amazon.com/dp/B014YHPMHK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg)](https://www.amazon.com/dp/B014YHPMHK/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B014YHPMHK/?tag=redken08-20)
 

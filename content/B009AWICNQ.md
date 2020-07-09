@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 32.13 % en Calico Critters Outback Koala Family'
-date: 2020-06-04 15:08:13
-thumbnailImage: 'https://m.media-amazon.com/images/I/41vJxG3g4UL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41vJxG3g4UL._SL200_.jpg' ]
+date: 2020-07-08 02:24:37
+thumbnailImage: 'https://m.media-amazon.com/images/I/41FO6NcqLXL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41FO6NcqLXL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Calico Critters Outback Koala Family](https://www.amazon.com/dp/B009AWICNQ/?tag=redken08-20) con un 32.13 % de descuento con precio de oferta de 16.96 USD (original: 24.99 USD) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41vJxG3g4UL._SL200_.jpg)](https://www.amazon.com/dp/B009AWICNQ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41FO6NcqLXL._SL200_.jpg)](https://www.amazon.com/dp/B009AWICNQ/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B009AWICNQ/?tag=redken08-20)
 

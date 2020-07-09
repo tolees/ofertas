@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Acer High Performance Spin 11.6in FHD IP'
-date: 2020-06-04 15:07:45
+date: 2020-07-08 02:28:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fp5NZc2vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fp5NZc2vL._SL200_.jpg' ]
 comments: true

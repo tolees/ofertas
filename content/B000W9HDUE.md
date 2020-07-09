@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Descuento del 71.37 % en Revlon Super Lustrous Pintalabios  #725 '
-date: 2020-02-04 09:54:40
-thumbnailImage: 'https://m.media-amazon.com/images/I/31WvrTms-UL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31WvrTms-UL._AC_._SL200_.jpg' ]
+title: 'Descuento del 71.37 % en Revlon Super Lustrous Pintalabios  Love '
+date: 2020-07-08 16:26:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/31hpFfLI7sL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31hpFfLI7sL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,9 +14,9 @@ comparePrice: 6.95 EUR
 inStock: true
 ---
 
-Tienes [Revlon Super Lustrous Pintalabios  #725 Love That Red ](https://www.amazon.com/dp/B000W9HDUE/?tag=redken08-20) con un 71.37 % de descuento con precio de oferta de 1.99 EUR (original: 6.95 EUR) en el siguiente enlace!
+Tienes [Revlon Super Lustrous Pintalabios  Love That Red ](https://www.amazon.com/dp/B000W9HDUE/?tag=redken08-20) con un 71.37 % de descuento con precio de oferta de 1.99 EUR (original: 6.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31WvrTms-UL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B000W9HDUE/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31hpFfLI7sL._SL200_.jpg)](https://www.amazon.com/dp/B000W9HDUE/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B000W9HDUE/?tag=redken08-20)
 

@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Oral-B Sensi Ultrathin - Cabezales de Re al 35.91 % de descuento'
+date: 2020-07-04 07:33:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/516ZQsMG1gL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/516ZQsMG1gL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07RRY5WX2
+description:
+actualPrice: 24.99 EUR
+comparePrice: 38.99 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Oral-B Sensi Ultrathin - Cabezales de Recambio  Tamaño del Buzón  Pack de 8+2 Unidades](https://www.amazon.com/dp/B07RRY5WX2/?tag=redken08-20) a 24.99 EUR (original: 38.99 EUR) (35.91 %  de descuento) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/516ZQsMG1gL._SL200_.jpg)](https://www.amazon.com/dp/B07RRY5WX2/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B07RRY5WX2/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

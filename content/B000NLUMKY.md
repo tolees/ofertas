@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Reloj Digital para Mujer de Cuarzo al 34.67 % de descuento'
-date: 2020-07-01 19:12:56
+date: 2020-07-05 18:50:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/417MwNYLuFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417MwNYLuFL._SL200_.jpg' ]
 comments: true

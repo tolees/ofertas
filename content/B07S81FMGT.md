@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WisFox Packs de Teclado y Ratón Inalámbr al 42.51 % de descuento'
-date: 2020-07-01 09:25:28
+date: 2020-07-06 08:45:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LSrnILNDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LSrnILNDL._SL200_.jpg' ]
 comments: true

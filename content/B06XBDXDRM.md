@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'SumUp Air Lector de Tarjeta Inteligente  al 31.07 % de descuento'
-date: 2020-02-12 12:05:59
-thumbnailImage: 'https://m.media-amazon.com/images/I/41XdbFqnl1L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41XdbFqnl1L._AC_._SL200_.jpg' ]
+title: 'Lector De Tarjetas Portátil Sumup Air-Pa al 50.01 % de descuento'
+date: 2020-07-07 07:53:21
+thumbnailImage: 'https://m.media-amazon.com/images/I/41XdbFqnl1L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41XdbFqnl1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06XBDXDRM
 description:
-actualPrice: 19.99 EUR
-comparePrice: 29.0 EUR
+actualPrice: 29.99 EUR
+comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [SumUp Air Lector de Tarjeta Inteligente Interior/Exterior Blanco Bluetooth - Lector de Tarjetas de Memoria  Interior/Exterior  Blanco  Bluetooth  OLED  Android iOS  84 mm ](https://www.amazon.com/dp/B06XBDXDRM/?tag=redken08-20) con 31.07 de descuento por 19.99 EUR (original: 29.0 EUR) en el siguiente enlace!
+Está [Lector De Tarjetas Portátil Sumup Air-Pago Con Tarjeta De Débito  Crédito  Apple  Google Pay y más- Terminal Móvil Con Tecnología RFID NFC- Pago Con Solo Acercar Su Tarjeta-Teléfono O Chip & Pin](https://www.amazon.com/dp/B06XBDXDRM/?tag=redken08-20) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41XdbFqnl1L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B06XBDXDRM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41XdbFqnl1L._SL200_.jpg)](https://www.amazon.com/dp/B06XBDXDRM/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B06XBDXDRM/?tag=redken08-20)
 

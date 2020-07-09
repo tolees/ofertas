@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Atornillador de impacto  TECCPO 18V 180  al 48.86 % de descuento'
-date: 2020-07-03 08:56:48
+date: 2020-07-06 13:03:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aZcIHBdML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aZcIHBdML._SL200_.jpg' ]
 comments: true

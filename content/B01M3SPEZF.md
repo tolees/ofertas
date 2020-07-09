@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 37.68 % en Einhell Kit con Cargador y batería de re'
-date: 2020-07-01 14:34:07
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Sqr82xeL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Sqr82xeL._SL200_.jpg' ]
+title: 'Descuento del 50.02 % en Original Einhell Starter Kit Akku und La'
+date: 2020-02-21 04:46:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/419Sqr82xeL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/419Sqr82xeL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01M3SPEZF
 description:
-actualPrice: 49.95 EUR
-comparePrice: 80.15 EUR
+actualPrice: 59.95 EUR
+comparePrice: 119.95 EUR
 inStock: true
 ---
 
-Tienes [Einhell Kit con Cargador y batería de repuesto de 18 V  4 Ah  0 W  21 V  Negro  Rojo  4.0  Tiempo de Carga: 60 Minutos  ref. 4512042 ](https://www.amazon.com/dp/B01M3SPEZF/?tag=redken08-20) con un 37.68 % de descuento con precio de oferta de 49.95 EUR (original: 80.15 EUR) en el siguiente enlace!
+Tienes [Original Einhell Starter Kit Akku und Ladegerät Power X-Change  Lithium Ionen  18 V  4 0 Ah Akku und Schnellladegerät  passend für alle Power X-Change Geräte ](https://www.amazon.com/dp/B01M3SPEZF/?tag=redken08-20) con un 50.02 % de descuento con precio de oferta de 59.95 EUR (original: 119.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/419Sqr82xeL._SL200_.jpg)](https://www.amazon.com/dp/B01M3SPEZF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/419Sqr82xeL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01M3SPEZF/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01M3SPEZF/?tag=redken08-20)
 

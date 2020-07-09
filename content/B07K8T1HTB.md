@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exerz Bandejas de 3 capas de alambre con al 32.85 % de descuento'
-date: 2020-04-16 18:23:30
+date: 2020-07-09 05:39:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iqPxuLcuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iqPxuLcuL._SL200_.jpg' ]
 comments: true

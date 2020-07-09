@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monix Mineral Lote de Sartenes  Aluminio al 30.20 % de descuento'
-date: 2020-06-30 08:55:18
+date: 2020-07-06 09:32:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-juHpqNQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-juHpqNQL._SL200_.jpg' ]
 comments: true

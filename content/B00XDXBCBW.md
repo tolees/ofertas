@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.74 % en Collistar Sensitive Skin Espuma de Afeit'
-date: 2020-07-01 06:45:36
+date: 2020-07-04 08:03:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31gvLFgXwOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31gvLFgXwOL._SL200_.jpg' ]
 comments: true

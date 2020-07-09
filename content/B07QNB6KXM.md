@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.30 % en TedGem Ventilador USB  Ventilador PC Min'
-date: 2020-07-01 18:33:40
+date: 2020-07-06 09:10:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51W-zkOs1-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51W-zkOs1-L._SL200_.jpg' ]
 comments: true

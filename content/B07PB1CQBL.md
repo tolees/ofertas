@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose Frames - Gafas de sol con altavoces al 30.77 % de descuento'
-date: 2020-06-30 15:56:09
+date: 2020-07-08 00:51:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lR4nwzLAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lR4nwzLAL._SL200_.jpg' ]
 comments: true

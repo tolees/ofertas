@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Loción Corporal Hidratación I al 61.73 % de descuento'
-date: 2020-06-25 11:46:17
+date: 2020-07-08 03:25:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LVBrGvQ5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LVBrGvQ5L._SL200_.jpg' ]
 comments: true

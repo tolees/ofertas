@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Naipo Respaldo de Masaje Cojín Asiento M'
-date: 2020-07-03 07:22:37
+date: 2020-07-06 11:20:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vSXmREqmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vSXmREqmL._SL200_.jpg' ]
 comments: true

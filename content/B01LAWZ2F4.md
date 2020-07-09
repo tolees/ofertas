@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.53 % en Tenswall Humidificador Ultrasónico 400ml'
-date: 2020-07-02 08:26:23
+date: 2020-07-08 15:16:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oPxMxleYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oPxMxleYL._SL200_.jpg' ]
 comments: true

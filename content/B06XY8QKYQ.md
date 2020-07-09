@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.03 % en Lékué Pack Escalfador de Huevos  Acero I'
-date: 2020-07-02 16:50:12
+date: 2020-07-04 03:45:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r9ShJFdwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r9ShJFdwL._SL200_.jpg' ]
 comments: true

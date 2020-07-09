@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.78 % en Gritin Brazalete Deportivo para Correr  '
-date: 2020-07-02 15:22:09
+date: 2020-07-08 09:39:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/5117nyfvwTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5117nyfvwTL._SL200_.jpg' ]
 comments: true

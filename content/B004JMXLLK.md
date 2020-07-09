@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.15 % en Revlon Professional ProYou Activador de '
-date: 2020-07-01 18:04:48
+date: 2020-07-05 19:49:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/3145uAVYwAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3145uAVYwAL._SL200_.jpg' ]
 comments: true

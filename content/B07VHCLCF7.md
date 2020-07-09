@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'El Rey León BD  imagen real  [Blu-ray] al 52.37 % de descuento'
-date: 2020-07-01 08:23:11
+title: 'El Rey León BD  imagen real  [Blu-ray] al 52.29 % de descuento'
+date: 2020-07-08 19:04:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/5113iUC8tmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5113iUC8tmL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07VHCLCF7
 description:
 actualPrice: 10.95 EUR
-comparePrice: 22.99 EUR
+comparePrice: 22.95 EUR
 inStock: true
 ---
 
-Está [El Rey León BD  imagen real  [Blu-ray]](https://www.amazon.com/dp/B07VHCLCF7/?tag=redken08-20) con 52.37 de descuento por 10.95 EUR (original: 22.99 EUR) en el siguiente enlace!
+Está [El Rey León BD  imagen real  [Blu-ray]](https://www.amazon.com/dp/B07VHCLCF7/?tag=redken08-20) con 52.29 de descuento por 10.95 EUR (original: 22.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5113iUC8tmL._SL200_.jpg)](https://www.amazon.com/dp/B07VHCLCF7/?tag=redken08-20)
 

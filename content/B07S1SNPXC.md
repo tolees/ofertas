@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.41 % en Humbgo Cubierta de Cámara Cover-Webcam C'
-date: 2020-06-27 07:01:13
+date: 2020-07-04 07:15:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iqZv9QTaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iqZv9QTaL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 77.19 % en Apple Funda Leather Folio  para el iPhon'
-date: 2020-06-27 19:54:53
+date: 2020-07-03 22:04:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/21aHtnqTBaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21aHtnqTBaL._SL200_.jpg' ]
 comments: true

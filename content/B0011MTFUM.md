@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.62 % en Calico Critters  Hopscotch Rabbit Family'
-date: 2020-06-04 14:51:59
+date: 2020-07-08 11:50:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cF1TXtBPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cF1TXtBPL._SL200_.jpg' ]
 comments: true
