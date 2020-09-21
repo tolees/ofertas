@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.25 % en Sony X750H 55-inch 4K Ultra HD LED TV -2'
-date: 2020-09-17 21:40:13
+date: 2020-09-21 14:20:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NZB3Dry9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NZB3Dry9L._SL200_.jpg' ]
 comments: true

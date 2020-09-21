@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips OneBlade Hybrid Stubble Trimmer  al 46.67 % de descuento'
-date: 2020-09-16 16:57:53
+date: 2020-09-21 14:54:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41op7ptzo+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41op7ptzo+L._SL200_.jpg' ]
 comments: true

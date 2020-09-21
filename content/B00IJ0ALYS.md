@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.13 % en DEWALT 20V MAX Cordless Drill Combo Kit '
-date: 2020-09-16 08:54:48
+date: 2020-09-21 13:44:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oc-lFamNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oc-lFamNL._SL200_.jpg' ]
 comments: true
