@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60256 City Nitro Wheels Racing Cars al 27.35 % de descuento'
-date: 2020-09-15 09:54:43
+title: 'LEGO 60256 Rennwagen-Duell City Spielzeu al 29.09 % de descuento'
+date: 2020-09-15 20:27:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VUfzrd2RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VUfzrd2RL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07W7TMP9M
 description:
-actualPrice: 13.07 GBP
-comparePrice: 17.99 GBP
+actualPrice: 13.82 EUR
+comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60256 City Nitro Wheels Racing Cars Toy with 2 Race Drivers Minifigures  Rally Vehicles for Kids 5+ Year Old](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20) a 13.07 GBP (original: 17.99 GBP) (27.35 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60256 Rennwagen-Duell City Spielzeug mit 2 Rennfahrer-Minifiguren  Rallyefahrzeugen für Kinder ab 5 Jahren](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20) a 13.82 EUR (original: 19.49 EUR) (29.09 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51VUfzrd2RL._SL200_.jpg)](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20)
 

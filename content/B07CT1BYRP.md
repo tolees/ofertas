@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tefal Emotion - Juego de 3 Sartenes Alum al 43.41 % de descuento'
-date: 2020-08-27 08:44:24
+date: 2020-09-21 10:41:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Kr+oh9NLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Kr+oh9NLL._SL200_.jpg' ]
 comments: true

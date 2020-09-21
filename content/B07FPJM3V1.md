@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bovon Soporte Movil Bicicleta  Anti Vibr al 27.77 % de descuento'
-date: 2020-08-28 22:11:07
+date: 2020-09-21 11:49:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JG2yxby6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JG2yxby6L._SL200_.jpg' ]
 comments: true

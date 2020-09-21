@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 66.92 % en H.Koenig RP2 Raclette 2 Personas  Planch'
-date: 2020-09-19 21:26:36
+date: 2020-09-21 11:42:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/416Kpz6n5DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416Kpz6n5DL._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Braun Series 5 5197 Clean&Charge - Afeit al 38.37 % de descuento'
-date: 2020-09-15 08:20:59
-thumbnailImage: 'https://m.media-amazon.com/images/I/51Hmbe3nihL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51Hmbe3nihL._SL200_.jpg' ]
+title: 'Braun Series 5 5197cc Men s Electric Foi al 52.00 % de descuento'
+date: 2020-03-31 12:13:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/519tD2gc8ZL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/519tD2gc8ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B071WVXLZB
 description:
-actualPrice: 149.0 EUR
-comparePrice: 241.75 EUR
+actualPrice: 119.99 GBP
+comparePrice: 249.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Braun Series 5 5197 Clean&Charge - Afeitadora eléctrica hombre  afeitadora barba  en húmedo y seco  máquina de afeitar barba con recortadora de precisión  negro](https://www.amazon.com/dp/B071WVXLZB/?tag=redken08-20) a 149.0 EUR (original: 241.75 EUR) (38.37 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Braun Series 5 5197cc Men s Electric Foil Shaver  Wet and Dry with Clean and Charge Station  Pop Up Precision Trimer  Rechargeable and Cordless Razor Black/Blue/Chrome](https://www.amazon.com/dp/B071WVXLZB/?tag=redken08-20) a 119.99 GBP (original: 249.99 GBP) (52.00 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Hmbe3nihL._SL200_.jpg)](https://www.amazon.com/dp/B071WVXLZB/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/519tD2gc8ZL._SL200_.jpg)](https://www.amazon.com/dp/B071WVXLZB/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B071WVXLZB/?tag=redken08-20)
 

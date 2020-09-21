@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'TP-Link Archer C6 Dualband Gigabit WLAN- al 28.92 % de descuento'
-date: 2020-08-26 23:02:30
+title: 'Descuento del 36.67 % en TP-Link Archer C6 - AC1200 Router inalám'
+date: 2020-09-21 11:03:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zNy6sDRkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zNy6sDRkL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07GVR9TG7
 description:
-actualPrice: 35.47 EUR
-comparePrice: 49.9 EUR
+actualPrice: 37.99 EUR
+comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [TP-Link Archer C6 Dualband Gigabit WLAN-Router  867Mbit/s 5GHz + 300Mbit/s 2 4GHz  4 Gigabit LAN-Port  Mu-MIMO  IPTV  VPN  4 externe Antennen  schwarz](https://www.amazon.com/dp/B07GVR9TG7/?tag=redken08-20) a 35.47 EUR (original: 49.9 EUR) (28.92 %  de descuento) en el siguiente enlace!
+Tienes [TP-Link Archer C6 - AC1200 Router inalámbrico Gigabit  WiFi MU-MIMO de Banda Dual  Modo Multi  4 Antenas  4 Puertos LAN de 1000/100/10 Mbps  1 Puerto WAN de 1000/100/10 Mbps](https://www.amazon.com/dp/B07GVR9TG7/?tag=redken08-20) con un 36.67 % de descuento con precio de oferta de 37.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41zNy6sDRkL._SL200_.jpg)](https://www.amazon.com/dp/B07GVR9TG7/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07GVR9TG7/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07GVR9TG7/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

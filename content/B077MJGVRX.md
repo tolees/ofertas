@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PUMA Smash V2 L  Zapatillas Unisex-Adult al 41.94 % de descuento'
-date: 2020-08-27 11:59:33
+title: 'PUMA Smash V2 L  Zapatillas para Hombre  al 32.83 % de descuento'
+date: 2020-09-21 11:32:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B077MJGVRX
 description:
-actualPrice: 29.0 EUR
+actualPrice: 33.55 EUR
 comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [PUMA Smash V2 L  Zapatillas Unisex-Adulto  Blanco White Black  42.5 EU](https://www.amazon.com/dp/B077MJGVRX/?tag=redken08-20) con 41.94 de descuento por 29.0 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [PUMA Smash V2 L  Zapatillas para Hombre  Blanco White Black  42.5 EU](https://www.amazon.com/dp/B077MJGVRX/?tag=redken08-20) con 32.83 de descuento por 33.55 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg)](https://www.amazon.com/dp/B077MJGVRX/?tag=redken08-20)
 

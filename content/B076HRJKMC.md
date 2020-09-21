@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.55 % en Adidas CORE18 Hoody Sudadera con Capucha'
-date: 2020-09-20 07:30:07
+date: 2020-09-21 11:29:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iU1gKNCaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iU1gKNCaL._SL200_.jpg' ]
 comments: true

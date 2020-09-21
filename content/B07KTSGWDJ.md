@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60228 - City Weltraumrakete mit Kon al 26.93 % de descuento'
-date: 2020-09-18 16:20:38
+title: 'LEGO 60228 - City Weltraumrakete mit Kon al 28.31 % de descuento'
+date: 2020-09-21 11:10:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KTSGWDJ
 description:
-actualPrice: 71.22 EUR
+actualPrice: 69.88 EUR
 comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60228 - City Weltraumrakete mit Kontrollzentrum  Bauset](https://www.amazon.com/dp/B07KTSGWDJ/?tag=redken08-20) a 71.22 EUR (original: 97.47 EUR) (26.93 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60228 - City Weltraumrakete mit Kontrollzentrum  Bauset](https://www.amazon.com/dp/B07KTSGWDJ/?tag=redken08-20) a 69.88 EUR (original: 97.47 EUR) (28.31 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg)](https://www.amazon.com/dp/B07KTSGWDJ/?tag=redken08-20)
 

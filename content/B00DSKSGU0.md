@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cybex - Silla de coche grupo 2/3 Solutio al 31.37 % de descuento'
-date: 2020-09-18 10:05:12
+date: 2020-09-21 11:52:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wYDuP5IDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wYDuP5IDL._SL200_.jpg' ]
 comments: true

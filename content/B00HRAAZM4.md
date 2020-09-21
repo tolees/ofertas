@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Basket Classic LFS  Zapatillas para al 28.20 % de descuento'
-date: 2020-09-18 10:07:06
+date: 2020-09-21 11:53:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/311K8hQCtlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311K8hQCtlL._SL200_.jpg' ]
 comments: true
