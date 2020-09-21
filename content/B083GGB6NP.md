@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Definitive Technology D15 Demand Series  al 60.27 % de descuento'
-date: 2020-09-18 00:02:54
+date: 2020-09-21 15:28:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/21zB4Kt0L9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21zB4Kt0L9L._SL200_.jpg' ]
 comments: true

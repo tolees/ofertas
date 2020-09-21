@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Noble Collection Wizard Chess Set al 28.42 % de descuento'
-date: 2020-09-16 23:27:43
+date: 2020-09-21 15:11:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hEd2OBZLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hEd2OBZLL._SL200_.jpg' ]
 comments: true

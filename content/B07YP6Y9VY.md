@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.11 % en Intel Core i9-10920X Desktop Processor 1'
-date: 2020-09-17 23:36:39
+date: 2020-09-21 15:28:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QrE16ESEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QrE16ESEL._SL200_.jpg' ]
 comments: true

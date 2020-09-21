@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brewista BA6VKETLS Artisan Gooseneck Var al 53.05 % de descuento'
-date: 2020-09-18 00:02:44
+date: 2020-09-21 15:15:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31DgR+q+z6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31DgR+q+z6L._SL200_.jpg' ]
 comments: true
