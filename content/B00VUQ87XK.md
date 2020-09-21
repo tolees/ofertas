@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Kappa Trust Footwear Unisex  Zapatillas  al 53.04 % de descuento'
+date: 2019/11/15 08:55:08 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419z4mlOjJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419z4mlOjJL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00VUQ87XK
+description:
+actualPrice: 28.15 EUR
+comparePrice: 59.95 EUR
+inStock: true
+---
+
+Está [Kappa Trust Footwear Unisex  Zapatillas Adulto  Gris-Grau  1610 Grey/White   40 EU](https://www.amazon.com/dp/B00VUQ87XK/?tag=redken08-20) con 53.04 de descuento por 28.15 EUR (original: 59.95 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/419z4mlOjJL._SL200_.jpg)](https://www.amazon.com/dp/B00VUQ87XK/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B00VUQ87XK/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
