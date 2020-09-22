@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.97 % en Beats EP - Auriculares supraaurales con '
-date: 2020-09-20 14:30:17
+date: 2020-09-22 15:00:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VUNMWC+PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VUNMWC+PL._SL200_.jpg' ]
 comments: true
