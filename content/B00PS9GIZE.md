@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.47 % en Medisana HP-40E Almohadilla eléctrica   '
-date: 2020-09-20 16:13:15
+date: 2020-09-22 20:29:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51g6K3kNr7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51g6K3kNr7L._SL200_.jpg' ]
 comments: true

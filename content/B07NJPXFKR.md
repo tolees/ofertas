@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.34 % en Echo Show 5 reacondicionado certificado '
-date: 2020-09-19 19:42:45
+date: 2020-09-22 20:24:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EjFtAlMNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EjFtAlMNL._SL200_.jpg' ]
 comments: true

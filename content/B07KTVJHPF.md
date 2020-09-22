@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60226 - City Mars-Forschungsshuttle al 31.24 % de descuento'
-date: 2020-09-21 14:27:35
+date: 2020-09-22 20:12:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51p0jbc9ltL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51p0jbc9ltL._SL200_.jpg' ]
 comments: true
