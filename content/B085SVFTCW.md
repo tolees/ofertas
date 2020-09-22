@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanytol - Limpiador Desinfectante Multiu al 65.43 % de descuento'
-date: 2020-09-21 16:35:12
+date: 2020-09-22 21:15:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KwBgAORFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KwBgAORFL._SL200_.jpg' ]
 comments: true
