@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.02 % en Puma Smash Wns V2 L  Baskets Basses Femm'
-date: 2020-09-18 03:25:03
+date: 2020-09-22 01:33:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RAvmHrrJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RAvmHrrJL._SL200_.jpg' ]
 comments: true
