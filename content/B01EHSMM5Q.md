@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VITANATUR COLLAGEN ANTIOX 360g - Complem al 34.57 % de descuento'
-date: 2020-09-21 12:10:37
+date: 2020-09-22 12:31:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fMo9L4r5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fMo9L4r5L._SL200_.jpg' ]
 comments: true
