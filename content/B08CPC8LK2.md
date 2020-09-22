@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.02 % en Blue Ridge'
-date: 2020-09-21 11:20:06
+date: 2020-09-22 17:08:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IUsYVeAkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IUsYVeAkL._SL200_.jpg' ]
 comments: true

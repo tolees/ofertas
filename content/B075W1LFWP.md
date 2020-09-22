@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.77 % en Harry Potter Collection  8pk/4K Ultra HD'
-date: 2020-09-21 16:57:22
+date: 2020-09-22 17:04:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UeuGq4LhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UeuGq4LhL._SL200_.jpg' ]
 comments: true
