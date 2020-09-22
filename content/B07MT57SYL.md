@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings Series 3: Rivals of Kaboom  5 al 48.05 % de descuento'
-date: 2020-09-18 14:58:38
+date: 2020-09-22 06:45:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-ySijI+lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-ySijI+lL._SL200_.jpg' ]
 comments: true

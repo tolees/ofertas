@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LeapFrog 21507 LeapStart Preschool Presc al 30.43 % de descuento'
-date: 2020-09-17 02:43:30
+date: 2020-09-22 06:32:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/517BujOTK8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517BujOTK8L._SL200_.jpg' ]
 comments: true
