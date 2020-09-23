@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.52 % en Pack Harry Potter - Colección Completa G'
-date: 2020-09-22 04:57:32
+date: 2020-09-23 17:24:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vK5lclyGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vK5lclyGL._SL200_.jpg' ]
 comments: true

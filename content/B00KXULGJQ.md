@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.26 % en TP-Link RE200 WLAN Repeater  433Mbit/s 5'
-date: 2020-09-22 04:55:06
+date: 2020-09-23 17:10:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/317zDQOxJGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317zDQOxJGL._SL200_.jpg' ]
 comments: true
