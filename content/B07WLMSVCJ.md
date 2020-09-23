@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60251 City Great Vehicles Monster T al 44.38 % de descuento'
-date: 2020-09-22 15:46:48
+date: 2020-09-23 20:58:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/517G2-WRxML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517G2-WRxML._SL200_.jpg' ]
 comments: true

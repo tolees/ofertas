@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hosaire Funda para Disco Duro Externo 2. al 30.23 % de descuento'
-date: 2020-09-22 10:15:51
+date: 2020-09-23 20:51:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41c9LTH91cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41c9LTH91cL._SL200_.jpg' ]
 comments: true
