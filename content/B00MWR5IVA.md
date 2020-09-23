@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Logitech M280 Ratón Inalámbrico  2 4 GHz al 36.52 % de descuento'
+date: 2020-09-23 06:49:34
+thumbnailImage: 'https://m.media-amazon.com/images/I/316vbpUQ5yL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/316vbpUQ5yL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00MWR5IVA
+description:
+actualPrice: 18.98 EUR
+comparePrice: 29.9 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Logitech M280 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico 1000 DPI  3 Botones  Batería 18 Meses  PC/Mac/Portátil - Negro](https://www.amazon.com/dp/B00MWR5IVA/?tag=redken08-20) a 18.98 EUR (original: 29.9 EUR) (36.52 %  de descuento) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/316vbpUQ5yL._SL200_.jpg)](https://www.amazon.com/dp/B00MWR5IVA/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B00MWR5IVA/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
