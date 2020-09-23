@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kibath 1151414 higiene íntima para susti al 62.28 % de descuento'
-date: 2020-09-20 18:42:33
+date: 2020-09-23 19:33:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Tps9+uivL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Tps9+uivL._SL200_.jpg' ]
 comments: true
