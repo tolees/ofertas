@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.37 % en Levi s Housemark Graphic tee Camiseta  V'
-date: 2020-09-21 20:33:51
+date: 2020-09-23 11:19:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/410pxI+HUYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410pxI+HUYL._SL200_.jpg' ]
 comments: true
