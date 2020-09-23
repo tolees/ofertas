@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.61 % en Skechers Beverlee-High Tea  Sandalias de'
-date: 2020-09-19 17:08:44
+date: 2020-09-23 09:52:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/514jz+0nxXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514jz+0nxXL._SL200_.jpg' ]
 comments: true
