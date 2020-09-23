@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas Gazelle  Zapatillas de deporte Un al 30.83 % de descuento'
-date: 2020-09-22 08:38:07
+title: 'adidas Gazelle  Zapatillas de deporte Un al 31.83 % de descuento'
+date: 2020-09-23 14:15:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ub5cOTJML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ub5cOTJML._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01EI9JWKM
 description:
-actualPrice: 68.99 EUR
+actualPrice: 67.99 EUR
 comparePrice: 99.74 EUR
 inStock: true
 ---
 
-Está [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Core Black/White/Gold Metalic   44 EU](https://www.amazon.com/dp/B01EI9JWKM/?tag=redken08-20) con 30.83 de descuento por 68.99 EUR (original: 99.74 EUR) en el siguiente enlace!
+Está [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Core Black/White/Gold Metalic   44 EU](https://www.amazon.com/dp/B01EI9JWKM/?tag=redken08-20) con 31.83 de descuento por 67.99 EUR (original: 99.74 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ub5cOTJML._SL200_.jpg)](https://www.amazon.com/dp/B01EI9JWKM/?tag=redken08-20)
 
