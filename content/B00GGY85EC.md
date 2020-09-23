@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AmScope 120X-1200X 52-pcs Kids Beginner  al 27.28 % de descuento'
-date: 2020-09-21 13:33:37
+date: 2020-09-23 13:02:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FO0nOEhvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FO0nOEhvL._SL200_.jpg' ]
 comments: true

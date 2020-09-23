@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 65SM8100AUA Alexa Built-in Nano 8 Ser al 25.19 % de descuento'
-date: 2020-09-21 13:46:29
+date: 2020-09-23 13:24:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51P5Mjhm+FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51P5Mjhm+FL._SL200_.jpg' ]
 comments: true

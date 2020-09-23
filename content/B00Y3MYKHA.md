@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joyride al 38.90 % de descuento'
-date: 2020-09-21 13:48:42
+date: 2020-09-23 13:14:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/519dUIuflKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519dUIuflKL._SL200_.jpg' ]
 comments: true
