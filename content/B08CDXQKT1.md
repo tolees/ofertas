@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.75 % en Bolsas Reutilizables 40Pack bolsas conge'
-date: 2020-09-22 12:32:43
+date: 2020-09-23 12:53:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fWh+GvquL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fWh+GvquL._SL200_.jpg' ]
 comments: true

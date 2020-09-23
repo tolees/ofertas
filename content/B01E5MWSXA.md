@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.96 % en JACK & JONES Jjiliam Jjoriginal Am 014 L'
-date: 2020-09-22 12:27:34
+date: 2020-09-23 12:39:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/311hTaaGjaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311hTaaGjaL._SL200_.jpg' ]
 comments: true
