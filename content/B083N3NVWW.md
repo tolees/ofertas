@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.73 % en Le Mans  66 [Blu-ray]'
-date: 2020-09-22 12:27:16
+date: 2020-09-23 18:25:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ymS1e1-PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ymS1e1-PL._SL200_.jpg' ]
 comments: true
