@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACCUWEIGHT Balance de Cuisine Électroniq al 30.02 % de descuento'
-date: 2020-09-21 19:38:01
+date: 2020-09-23 01:41:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31j20bhnFwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31j20bhnFwL._SL200_.jpg' ]
 comments: true
