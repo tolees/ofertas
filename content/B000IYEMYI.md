@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch MFQ3540 Batidora y Amasadora con A al 34.69 % de descuento'
-date: 2020-09-22 14:25:47
+date: 2020-09-23 15:08:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TgbpWH9NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TgbpWH9NL._SL200_.jpg' ]
 comments: true
