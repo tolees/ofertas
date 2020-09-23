@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YISSVIC Humidificador Ultrasónico Silenc al 43.34 % de descuento'
-date: 2020-09-21 11:40:13
+date: 2020-09-23 08:32:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/316DmL2TdIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316DmL2TdIL._SL200_.jpg' ]
 comments: true
