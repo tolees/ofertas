@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WORKPRO Juego de Herramientas Básicas y  al 27.51 % de descuento'
-date: 2020-09-23 06:23:36
+date: 2020-09-24 06:30:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+nNRw4muL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+nNRw4muL._SL200_.jpg' ]
 comments: true
