@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.97 % en LEGO 21046 - Architecture Empire State B'
-date: 2020-09-18 09:28:39
+date: 2020-09-24 07:27:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg' ]
 comments: true
