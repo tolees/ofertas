@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.09 % en NOBES LCD Tablette D écriture 8.5 Pouces'
-date: 2020-09-23 01:31:53
+date: 2020-09-24 02:10:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QyOxi8C6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QyOxi8C6L._SL200_.jpg' ]
 comments: true

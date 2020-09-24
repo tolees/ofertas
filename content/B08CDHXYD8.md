@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.39 % en Kit Soins Barbe pour Hommes  Derma Rolle'
-date: 2020-09-22 20:23:39
+date: 2020-09-24 02:26:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+K47agsQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+K47agsQL._SL200_.jpg' ]
 comments: true

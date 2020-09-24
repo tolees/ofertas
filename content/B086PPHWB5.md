@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.58 % en F1 2020 - Seventy Edition'
-date: 2020-09-23 01:44:17
+date: 2020-09-24 02:29:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JZ4AJASpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JZ4AJASpL._SL200_.jpg' ]
 comments: true
