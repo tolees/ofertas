@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 10220 - Creator Volkswagen T1 Campi al 26.87 % de descuento'
-date: 2020-09-22 17:02:34
+date: 2020-09-23 23:06:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/5151ZpHOVgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5151ZpHOVgL._SL200_.jpg' ]
 comments: true
