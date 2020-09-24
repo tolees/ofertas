@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.25 % en Rioddas External CD Drive  USB 3.0 Porta'
-date: 2020-09-23 11:04:44
+date: 2020-09-24 11:14:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+yDpx-mfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+yDpx-mfL._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LEGO Technic 42098 - Autotransporter al 27.03 % de descuento'
-date: 2020-09-22 20:05:33
-thumbnailImage: 'https://m.media-amazon.com/images/I/51Di7+FiTyL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51Di7+FiTyL._SL200_.jpg' ]
+date: 2020-09-24 11:07:05
+thumbnailImage: 'https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [LEGO Technic 42098 - Autotransporter](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20) a 106.69 EUR (original: 146.21 EUR) (27.03 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Di7+FiTyL._SL200_.jpg)](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg)](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20)
 
