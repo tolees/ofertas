@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-SG1005D 5-Port Gigabit/Netzwe al 41.97 % de descuento'
-date: 2020-09-23 19:25:32
+date: 2020-09-24 19:27:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/317hNOQceKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317hNOQceKL._SL200_.jpg' ]
 comments: true
