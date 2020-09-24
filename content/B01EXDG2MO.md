@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.76 % en TP-Link TL-SG108 V3 8-Ports Gigabit Netz'
-date: 2020-09-22 19:45:20
+date: 2020-09-24 01:41:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg' ]
 comments: true
