@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.50 % en Pinypon- CuboMix and Match de 10 Figuras'
-date: 2020-09-22 18:22:41
+date: 2020-09-24 00:38:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lSJQhYv1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lSJQhYv1L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.12 % en TRIXIE Set Higiene Dental  Pasta y cepil'
-date: 2020-09-23 00:10:45
+date: 2020-09-24 00:17:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/415LmVN1s6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415LmVN1s6L._SL200_.jpg' ]
 comments: true
