@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 83.28 % en Sennheiser Ambeo Smart - Microauricular '
-date: 2020-09-21 19:50:19
+date: 2020-09-25 19:51:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/314icNrRgVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/314icNrRgVL._SL200_.jpg' ]
 comments: true
