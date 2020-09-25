@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.77 % en Transmetteur FM Bluetooth 5.0 Adaptateur'
-date: 2020-09-24 19:44:43
+date: 2020-09-25 20:19:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51d6Tuoj4WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51d6Tuoj4WL._SL200_.jpg' ]
 comments: true
