@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.29 % en HyperX HX-HSCS-BK Cloud Stinger - Cascos'
-date: 2020-09-18 16:28:52
+date: 2020-09-25 15:32:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41m8hUyCaML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41m8hUyCaML._SL200_.jpg' ]
 comments: true
