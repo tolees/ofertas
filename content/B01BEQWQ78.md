@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MagiDeal Coussinet Casque Coussin Rempla al 37.54 % de descuento'
-date: 2020-09-24 02:07:46
+date: 2020-09-25 14:04:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31DH8hCCQ2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31DH8hCCQ2L._SL200_.jpg' ]
 comments: true
