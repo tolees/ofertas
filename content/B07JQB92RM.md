@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.76 % en Jack & Jones Jjitom Jjoriginal Am 815 ST'
-date: 2020-09-24 12:44:33
+date: 2020-09-25 13:15:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31TGC9k2FNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31TGC9k2FNL._SL200_.jpg' ]
 comments: true
