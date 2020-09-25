@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.33 % en Pentel Liquid Gel Refill - Black  Box of'
-date: 2020-09-22 00:52:51
+date: 2020-09-25 07:07:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Fj3k2k-tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Fj3k2k-tL._SL200_.jpg' ]
 comments: true
