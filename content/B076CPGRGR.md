@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BraceTek Cadre Empreintes Bébé  Kit Empr al 44.46 % de descuento'
-date: 2020-09-24 07:38:00
+date: 2020-09-25 08:08:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FwLiNes1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FwLiNes1L._SL200_.jpg' ]
 comments: true

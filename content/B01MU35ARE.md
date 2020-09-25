@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Club C 85  Zapatillas Deportivas  al 35.02 % de descuento'
-date: 2020-09-23 14:15:17
+date: 2020-09-25 08:32:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL200_.jpg' ]
 comments: true

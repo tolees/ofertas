@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Savon Le Naturel - Extra Pur de Marseill al 35.14 % de descuento'
-date: 2020-09-22 14:26:37
+date: 2020-09-25 08:56:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/21geQeZHS+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21geQeZHS+L._SL200_.jpg' ]
 comments: true

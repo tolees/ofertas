@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31104 Creator 3-in-1 Monster Burger al 33.32 % de descuento'
-date: 2020-09-23 20:57:51
+date: 2020-09-25 08:24:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51l0-Zwo6vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51l0-Zwo6vL._SL200_.jpg' ]
 comments: true

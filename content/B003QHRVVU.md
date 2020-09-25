@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.53 % en Reebok CL LTHR 2232 - Zapatillas de depo'
-date: 2020-09-24 08:15:17
+date: 2020-09-25 08:30:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xrdYFgu2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xrdYFgu2L._SL200_.jpg' ]
 comments: true

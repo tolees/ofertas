@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lámpara de Mesa de Cristal Tomshine Lámp al 37.51 % de descuento'
-date: 2020-09-22 17:48:31
+date: 2020-09-25 08:21:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/414-Q-ek0WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414-Q-ek0WL._SL200_.jpg' ]
 comments: true
