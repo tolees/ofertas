@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.70 % en DEWALT Titanium Drill Bit Set  10-Piece '
-date: 2020-09-23 20:08:09
+date: 2020-09-25 02:19:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/61WxWI7ucML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61WxWI7ucML._SL200_.jpg' ]
 comments: true
