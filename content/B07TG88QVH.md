@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.02 % en LIGHTAILING Conjunto de Luces  Architect'
-date: 2020-09-24 06:43:54
+date: 2020-09-25 12:51:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZLesxuRUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZLesxuRUL._SL200_.jpg' ]
 comments: true
