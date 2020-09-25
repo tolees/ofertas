@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.01 % en Naipo Masajeador de Percusión Portátil c'
-date: 2020-09-23 11:49:22
+date: 2020-09-25 18:14:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mN2N2k6sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mN2N2k6sL._SL200_.jpg' ]
 comments: true

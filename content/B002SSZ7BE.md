@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MTV Unplugged al 47.65 % de descuento'
-date: 2020-09-24 09:49:47
+date: 2020-09-25 18:04:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KTWsFhDHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KTWsFhDHL._SL200_.jpg' ]
 comments: true
