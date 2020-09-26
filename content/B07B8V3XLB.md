@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Hilfiger Regular Pol al 38.74 % de descuento'
-date: 2020-09-25 12:32:31
+date: 2020-09-26 12:47:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31K67ZEd43L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31K67ZEd43L._SL200_.jpg' ]
 comments: true
