@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Evax Fina y Segura Normal Compresas 16 U al 51.71 % de descuento'
-date: 2020-09-25 14:29:35
+date: 2020-09-26 20:00:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51s6q7uExpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51s6q7uExpL._SL200_.jpg' ]
 comments: true
