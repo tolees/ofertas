@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grohe SilverFlex -Flexo de ducha TwistFr al 39.57 % de descuento'
-date: 2020-09-21 17:16:24
+date: 2020-09-26 18:44:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41G+OUysWUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41G+OUysWUL._SL200_.jpg' ]
 comments: true
