@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk SDCZ50-064G-B35 64 GB Cruzer Bla al 74.27 % de descuento'
-date: 2020-09-25 07:15:53
+date: 2020-09-26 08:09:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XNBtKbn1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XNBtKbn1L._SL200_.jpg' ]
 comments: true
