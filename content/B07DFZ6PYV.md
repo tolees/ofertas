@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juguete Robot STEM | divertido juego cre al 39.45 % de descuento'
-date: 2020-09-25 00:29:42
+date: 2020-09-26 01:15:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51R0w36kuCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51R0w36kuCL._SL200_.jpg' ]
 comments: true
