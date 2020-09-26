@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aibrou 100% Algodón Pijamas Hombre Invie al 58.93 % de descuento'
-date: 2020-09-25 06:37:13
+date: 2020-09-26 07:05:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dBjGZy6gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dBjGZy6gL._SL200_.jpg' ]
 comments: true
