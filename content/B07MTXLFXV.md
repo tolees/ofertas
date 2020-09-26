@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G432 Auriculares Gaming con Cab al 39.03 % de descuento'
-date: 2020-09-25 12:02:13
+date: 2020-09-26 16:56:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lauM9SIaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lauM9SIaL._SL200_.jpg' ]
 comments: true
