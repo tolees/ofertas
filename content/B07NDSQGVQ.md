@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Laser 7510 External Deburr/Chamfer Tool  al 36.77 % de descuento'
-date: 2020-09-25 07:18:39
+date: 2020-09-27 01:38:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/21paTAb0UPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21paTAb0UPL._SL200_.jpg' ]
 comments: true
