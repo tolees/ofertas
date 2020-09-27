@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.96 % en Hell-on'
-date: 2020-09-26 16:19:24
+date: 2020-09-27 21:20:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/61YUaGkkynL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61YUaGkkynL._SL200_.jpg' ]
 comments: true
