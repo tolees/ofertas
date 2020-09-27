@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en LEGO 10914 DUPLO Classic Deluxe Brick Bo'
-date: 2020-09-26 15:36:09
+date: 2020-09-27 20:57:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IngVl1ByL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IngVl1ByL._SL200_.jpg' ]
 comments: true
