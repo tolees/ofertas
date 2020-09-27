@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Relaxed Graphic Crewneck Sudadera al 49.25 % de descuento'
-date: 2020-09-21 09:55:18
+date: 2020-09-27 16:13:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/415fIl2WV5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415fIl2WV5L._SL200_.jpg' ]
 comments: true
