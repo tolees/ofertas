@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.20 % en Levis SS Original HM Tee T-shirt Homme  '
-date: 2020-09-25 14:35:41
+date: 2020-09-27 10:41:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL200_.jpg' ]
 comments: true
