@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.67 % en TP-Link AC1200 - Extensor de Red WiFi In'
-date: 2020-09-24 05:10:40
+date: 2020-09-27 17:28:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dD8qjLTfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dD8qjLTfL._SL200_.jpg' ]
 comments: true

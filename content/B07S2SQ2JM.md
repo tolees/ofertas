@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Fit Vaqueros  Biologia A al 34.78 % de descuento'
-date: 2020-09-23 17:27:18
+date: 2020-09-27 17:25:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dp9oOflML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dp9oOflML._SL200_.jpg' ]
 comments: true
