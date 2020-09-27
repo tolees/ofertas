@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.96 % en Stanley STST1-75517 Essential 16" Toolbo'
-date: 2020-09-26 07:57:13
+date: 2020-09-27 08:07:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cNBFuzoOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cNBFuzoOL._SL200_.jpg' ]
 comments: true

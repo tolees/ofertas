@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 970 EVO Plus 1 TB PCIe NVMe M.2  al 33.75 % de descuento'
-date: 2020-09-26 07:52:05
+date: 2020-09-27 08:18:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Uwa5+y75L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Uwa5+y75L._SL200_.jpg' ]
 comments: true
