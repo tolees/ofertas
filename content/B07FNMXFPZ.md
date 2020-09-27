@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.13 % en LEGO 60214 City Fire Burger Bar Fire Res'
-date: 2020-09-26 08:19:16
+date: 2020-09-27 14:06:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LNPGDGcmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LNPGDGcmL._SL200_.jpg' ]
 comments: true

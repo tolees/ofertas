@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CHiQ L40H7A  40 Pouces 100cm   Android 9 al 55.00 % de descuento'
-date: 2020-09-26 14:38:04
+date: 2020-09-27 14:57:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+a8hsAXQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+a8hsAXQL._SL200_.jpg' ]
 comments: true

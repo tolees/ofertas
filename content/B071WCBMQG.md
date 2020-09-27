@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Galt Toys Flower Lights al 27.33 % de descuento'
-date: 2020-09-26 14:06:51
+date: 2020-09-27 14:26:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IwXXwsuZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IwXXwsuZL._SL200_.jpg' ]
 comments: true
