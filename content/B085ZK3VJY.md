@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superboost WiFi Extender Signal Booster  al 59.65 % de descuento'
-date: 2020-09-23 17:15:53
+date: 2020-09-27 11:29:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31IWSMjWc+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31IWSMjWc+L._SL200_.jpg' ]
 comments: true
