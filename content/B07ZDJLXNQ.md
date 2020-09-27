@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.00 % en CHiQ L40G4500 40" Full HD LED LCD TV 40 '
-date: 2020-09-25 20:22:14
+date: 2020-09-27 02:07:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/4177y9Zm0yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4177y9Zm0yL._SL200_.jpg' ]
 comments: true
