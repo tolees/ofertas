@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maggi Pasta Oriental XXL Thai Curry - 18 al 34.21 % de descuento'
-date: 2020-09-26 14:34:28
+date: 2020-09-27 15:10:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YkWQYHTaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YkWQYHTaL._SL200_.jpg' ]
 comments: true
