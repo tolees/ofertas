@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Optix G241VC - Monitor Gaming Curvo  al 25.50 % de descuento'
-date: 2020-09-20 11:03:27
+date: 2020-09-27 12:03:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JtDrcoLyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JtDrcoLyL._SL200_.jpg' ]
 comments: true

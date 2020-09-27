@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weleda Crema Pañal de Caléndula  1x 75 m al 32.45 % de descuento'
-date: 2020-09-21 09:06:07
+date: 2020-09-27 12:52:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lXIGx-ADL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lXIGx-ADL._SL200_.jpg' ]
 comments: true

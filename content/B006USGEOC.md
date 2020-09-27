@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.51 % en Listerine Enjuague Bucal - 500 ml'
-date: 2020-09-26 08:32:52
+date: 2020-09-27 12:00:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41srcrHcLCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41srcrHcLCL._SL200_.jpg' ]
 comments: true
