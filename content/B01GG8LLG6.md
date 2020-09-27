@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G910 Orion Spectrum  Clavier Ga al 44.73 % de descuento'
-date: 2020-09-22 07:29:27
+date: 2020-09-27 09:28:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-ATraG03L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-ATraG03L._SL200_.jpg' ]
 comments: true
