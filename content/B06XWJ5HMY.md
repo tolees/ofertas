@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.45 % en Huawei Mediapad T3 10 - Tableta 9.6"  HD'
-date: 2020-09-28 16:00:00
+date: 2020-09-28 16:00:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41s9E0yFeIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41s9E0yFeIL._SL200_.jpg' ]
 comments: true
