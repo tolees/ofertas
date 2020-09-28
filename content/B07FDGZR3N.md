@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Mobile Mouse Platin Gr al 27.23 % de descuento'
-date: 2020-09-27 11:25:48
+date: 2020-09-28 17:22:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MNWUb41EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MNWUb41EL._SL200_.jpg' ]
 comments: true
