@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60216 City Fire Downtown Fire Briga al 37.77 % de descuento'
-date: 2020-09-23 17:06:13
+title: 'LEGO City 60216 Feuerwehr in der Stadt al 30.27 % de descuento'
+date: 2020-09-27 17:16:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNS6J8V
 description:
-actualPrice: 56.0 GBP
-comparePrice: 89.99 GBP
+actualPrice: 67.97 EUR
+comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60216 City Fire Downtown Fire Brigade with Fire Engine Truck Toy  Crane  Helicopter  Motorbike and 7 Minifigures  Fireman Toys for Kids](https://www.amazon.com/dp/B07FNS6J8V/?tag=redken08-20) a 56.0 GBP (original: 89.99 GBP) (37.77 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60216 Feuerwehr in der Stadt](https://www.amazon.com/dp/B07FNS6J8V/?tag=redken08-20) a 67.97 EUR (original: 97.47 EUR) (30.27 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg)](https://www.amazon.com/dp/B07FNS6J8V/?tag=redken08-20)
 
