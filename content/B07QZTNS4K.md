@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Challenger III Midlayer  Ca al 65.90 % de descuento'
-date: 2020-09-26 07:26:36
+date: 2020-09-28 09:47:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/318NeNH793L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318NeNH793L._SL200_.jpg' ]
 comments: true

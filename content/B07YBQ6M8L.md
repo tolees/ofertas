@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Flip Essential Bluetooth Box in Grau al 26.89 % de descuento'
-date: 2020-09-25 19:51:51
+date: 2020-09-28 08:46:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FcG3q3rqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FcG3q3rqL._SL200_.jpg' ]
 comments: true

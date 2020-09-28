@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.00 % en Finish All-in-One Max Dishwasher Tablets'
-date: 2020-09-26 08:02:27
+date: 2020-09-28 08:12:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51A4DBw9-wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51A4DBw9-wL._SL200_.jpg' ]
 comments: true
