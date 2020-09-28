@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.63 % en Mandolina de Cocina Cortador de Verdoras'
-date: 2020-09-27 00:49:41
+date: 2020-09-28 01:19:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gkpXfqC1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gkpXfqC1L._SL200_.jpg' ]
 comments: true
