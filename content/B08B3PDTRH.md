@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rasoir électrique pour hommes  rasoir él al 44.50 % de descuento'
-date: 2020-09-27 02:15:26
+date: 2020-09-28 14:43:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QIA7j8IOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QIA7j8IOL._SL200_.jpg' ]
 comments: true
