@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial CT4G4SFS824A Memoria RAM de 4 GB al 26.33 % de descuento'
-date: 2020-09-17 00:03:17
+date: 2020-09-28 00:30:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51esjcOy79L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51esjcOy79L._SL200_.jpg' ]
 comments: true

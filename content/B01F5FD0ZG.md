@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.14 % en Ensure Nutrivigor - Complemento Alimenti'
-date: 2020-09-27 00:54:51
+date: 2020-09-28 00:56:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RLBDh-l0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RLBDh-l0L._SL200_.jpg' ]
 comments: true
