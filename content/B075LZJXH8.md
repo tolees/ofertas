@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CITIZEN Eco-Drive Bluetooth Herren Armba al 26.05 % de descuento'
-date: 2020-09-24 19:23:39
+date: 2020-09-28 02:11:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kSe8KfskL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kSe8KfskL._SL200_.jpg' ]
 comments: true
