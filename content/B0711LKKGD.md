@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beexcellent GM-1 - Auriculares Gaming pa al 28.01 % de descuento'
-date: 2020-09-28 12:07:25
+date: 2020-09-29 13:42:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AfMHsVrKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AfMHsVrKL._SL200_.jpg' ]
 comments: true

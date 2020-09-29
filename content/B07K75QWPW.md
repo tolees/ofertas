@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Fit Vaqueros  Caspian Ad al 37.74 % de descuento'
-date: 2020-09-27 19:26:05
+date: 2020-09-29 13:40:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lm2G0uWCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lm2G0uWCL._SL200_.jpg' ]
 comments: true
