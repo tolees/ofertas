@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.99 % en Sony PlayStation Classic  Konsole '
-date: 2020-09-28 02:29:22
+date: 2020-09-29 08:12:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O+k0K+akL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O+k0K+akL._SL200_.jpg' ]
 comments: true
