@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO Friends - Cafetería Cupcake de Oliv al 27.98 % de descuento'
-date: 2020-09-16 06:49:08
-thumbnailImage: 'https://m.media-amazon.com/images/I/51uL+r0aoQL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51uL+r0aoQL._SL200_.jpg' ]
+title: 'LEGO 41366 - Friends Olivias Cupcake-Caf al 31.61 % de descuento'
+date: 2020-09-29 12:11:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/51IHR9R8kwL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51IHR9R8kwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FNTSHZF
 description:
-actualPrice: 21.6 EUR
-comparePrice: 29.99 EUR
+actualPrice: 19.99 EUR
+comparePrice: 29.23 EUR
 inStock: true
 ---
 
-Está [LEGO Friends - Cafetería Cupcake de Olivia Juguete Creativo de Construcción con Detalles para Crear tu Propia Pastelería  41366 ](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20) con 27.98 de descuento por 21.6 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [LEGO 41366 - Friends Olivias Cupcake-Café  bunt](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20) con 31.61 de descuento por 19.99 EUR (original: 29.23 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51uL+r0aoQL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51IHR9R8kwL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20)
 
