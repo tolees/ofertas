@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer C6 - AC1200 Router inalám al 36.67 % de descuento'
-date: 2020-09-28 05:14:05
+date: 2020-09-29 05:26:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zNy6sDRkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zNy6sDRkL._SL200_.jpg' ]
 comments: true
