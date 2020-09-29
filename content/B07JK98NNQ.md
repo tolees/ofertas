@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.50 % en TCL 50S425 50 inch 4K Smart LED Roku TV '
-date: 2020-09-28 02:06:55
+date: 2020-09-29 21:05:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xdbQ9Z0nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xdbQ9Z0nL._SL200_.jpg' ]
 comments: true
