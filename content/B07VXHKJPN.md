@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.68 % en Lenovo 20QF000CUS Tp X1 Yoga 4gen I7/1.9'
-date: 2020-09-28 04:25:41
+date: 2020-09-29 06:16:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/21yVk7cFoRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21yVk7cFoRL._SL200_.jpg' ]
 comments: true
