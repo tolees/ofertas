@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.37 % en Puma PUMA UNISEX SNEAKER PLAIN 3P  Calce'
-date: 2020-09-27 12:59:59
+date: 2020-09-29 07:08:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/315uOf8NPRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315uOf8NPRL._SL200_.jpg' ]
 comments: true
