@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hub USB C  concentrador tipo c 9 en 1 co al 25.01 % de descuento'
-date: 2020-09-27 23:03:29
+date: 2020-09-29 00:17:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wniIgmpYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wniIgmpYL._SL200_.jpg' ]
 comments: true
