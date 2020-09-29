@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Milwaukee Electric Tools 2724-20 M18 Fue al 50.23 % de descuento'
-date: 2020-04-16 17:03:48
+date: 2020-09-29 20:57:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Ffqm8Uq4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Ffqm8Uq4L._SL200_.jpg' ]
 comments: true
