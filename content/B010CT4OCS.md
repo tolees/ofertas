@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.94 % en Teka | Microondas Integración + Grill | '
-date: 2020-09-24 05:13:44
+date: 2020-09-29 11:37:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T4nv5z+bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T4nv5z+bL._SL200_.jpg' ]
 comments: true
