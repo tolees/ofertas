@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 49.99 % en LEGO 60257 City Nitro Wheels Service Sta'
-date: 2020-09-23 15:42:39
+title: 'Descuento del 30.00 % en LEGO City 60257 Tankstelle SUV und Wohnm'
+date: 2020-09-29 16:25:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VfOUQxFyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VfOUQxFyL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07W6QBJJ3
 description:
-actualPrice: 22.5 GBP
-comparePrice: 44.99 GBP
+actualPrice: 34.11 EUR
+comparePrice: 48.73 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60257 City Nitro Wheels Service Station Building Set with SUV  Camper Van and Surfboards  Car Toys for Kids](https://www.amazon.com/dp/B07W6QBJJ3/?tag=redken08-20) con un 49.99 % de descuento con precio de oferta de 22.5 GBP (original: 44.99 GBP) en el siguiente enlace!
+Tienes [LEGO City 60257 Tankstelle SUV und Wohnmobil](https://www.amazon.com/dp/B07W6QBJJ3/?tag=redken08-20) con un 30.00 % de descuento con precio de oferta de 34.11 EUR (original: 48.73 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51VfOUQxFyL._SL200_.jpg)](https://www.amazon.com/dp/B07W6QBJJ3/?tag=redken08-20)
 
