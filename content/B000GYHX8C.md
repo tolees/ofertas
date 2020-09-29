@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli Paper 11475 Papel Fotografico A4 Ev al 37.67 % de descuento'
-date: 2020-09-27 19:20:31
+date: 2020-09-29 01:07:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41e58LM4SfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41e58LM4SfL._SL200_.jpg' ]
 comments: true
