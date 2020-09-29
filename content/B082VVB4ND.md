@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.44 % en Knorr - Crema Calabaza con un Suave Toqu'
-date: 2020-09-28 13:39:40
+date: 2020-09-29 19:44:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51P6Y9KRahL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51P6Y9KRahL._SL200_.jpg' ]
 comments: true
