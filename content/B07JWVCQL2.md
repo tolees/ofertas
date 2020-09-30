@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bohemian Rhapsody [DVD] al 31.59 % de descuento'
-date: 2020-09-29 05:29:45
+date: 2020-09-30 11:30:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OacZGPopL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OacZGPopL._SL200_.jpg' ]
 comments: true
