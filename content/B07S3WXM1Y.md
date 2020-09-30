@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Champion Women s Powerblend Boyfriend Cr al 51.52 % de descuento'
-date: 2020-09-29 02:08:34
+date: 2020-09-30 02:42:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+2CzFEn2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+2CzFEn2L._SL200_.jpg' ]
 comments: true

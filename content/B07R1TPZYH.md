@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.52 % en CASOFU Burritos Blanket  Giant Flour Tor'
-date: 2020-09-28 02:06:41
+date: 2020-09-30 02:41:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51By8KkoMKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51By8KkoMKL._SL200_.jpg' ]
 comments: true
