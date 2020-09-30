@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VAVA HUB USB C 8 en 1 Adaptador USB C Ca al 34.73 % de descuento'
-date: 2020-09-25 01:55:07
+date: 2020-09-30 00:30:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+VGMiobrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+VGMiobrL._SL200_.jpg' ]
 comments: true
