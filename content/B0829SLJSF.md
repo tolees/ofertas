@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair A500  Refrigerador de CPU de Dob al 29.94 % de descuento'
-date: 2020-09-23 21:11:07
+date: 2020-09-30 15:10:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eXAlSd0jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eXAlSd0jL._SL200_.jpg' ]
 comments: true
