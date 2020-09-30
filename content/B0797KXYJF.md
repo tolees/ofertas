@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.17 % en Smartphone Resistentes 4G  Blackview Bv8'
-date: 2020-09-25 14:18:20
+date: 2020-09-30 06:00:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nPioEFtZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nPioEFtZL._SL200_.jpg' ]
 comments: true
