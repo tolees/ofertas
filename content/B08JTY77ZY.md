@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dittzz Cabeza para Maquillar y Peinar  3 al 30.31 % de descuento'
-date: 2020-09-28 23:26:24
+date: 2020-09-29 23:31:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vRHygsUbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vRHygsUbL._SL200_.jpg' ]
 comments: true

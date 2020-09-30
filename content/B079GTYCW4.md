@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston SDCS/32GB - MicroSD Canvas Sele al 50.83 % de descuento'
-date: 2020-09-28 17:41:24
+date: 2020-09-29 23:32:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/416OzRS7l0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416OzRS7l0L._SL200_.jpg' ]
 comments: true
