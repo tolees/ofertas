@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City 60249 Straßenkehrmaschine mit  al 35.11 % de descuento'
-date: 2020-09-29 12:12:07
+date: 2020-09-30 16:23:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51L2foy5UDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51L2foy5UDL._SL200_.jpg' ]
 comments: true
