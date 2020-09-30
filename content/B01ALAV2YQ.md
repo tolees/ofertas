@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.08 % en Snuggle Plus Super Fresh Liquid Fabric S'
-date: 2020-09-29 08:42:33
+date: 2020-09-30 21:52:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KTLIRoJlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KTLIRoJlL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Compo Sana Universal de Calidad para mac al 50.62 % de descuento'
-date: 2020-09-22 11:20:25
+date: 2020-09-30 21:10:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KbPihPcfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KbPihPcfL._SL200_.jpg' ]
 comments: true

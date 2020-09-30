@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wera 05118072001 2054 Screwdriver for He al 46.53 % de descuento'
-date: 2020-09-29 08:45:17
+date: 2020-09-30 21:52:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/21ExPX31MyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21ExPX31MyL._SL200_.jpg' ]
 comments: true
