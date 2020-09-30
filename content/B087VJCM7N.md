@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Pouring Adventure Chaqueta para al 46.67 % de descuento'
-date: 2020-09-29 06:17:04
+date: 2020-09-30 07:13:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nRr1Vot3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nRr1Vot3L._SL200_.jpg' ]
 comments: true
