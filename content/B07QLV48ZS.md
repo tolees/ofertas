@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BERSIGAR 100 medidor de Resistencia al A al 59.62 % de descuento'
-date: 2020-09-17 23:35:05
+date: 2020-09-30 05:37:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xujk4qlqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xujk4qlqL._SL200_.jpg' ]
 comments: true
