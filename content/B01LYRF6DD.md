@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.53 % en Diesel Boxers UMBX-KORYTHREEPACK Homme  '
-date: 2020-09-28 20:40:56
+date: 2020-09-30 14:58:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/31aW+-fpDCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31aW+-fpDCL._SL200_.jpg' ]
 comments: true
