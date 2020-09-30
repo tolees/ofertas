@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Piz Buin - Protección Solar  Moisturisin al 60.05 % de descuento'
-date: 2020-09-23 17:27:59
+date: 2020-09-30 17:45:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ujVh6xU+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ujVh6xU+L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.32 % en Oral-B Pro 750 CrossAction Cepillo eléct'
-date: 2020-09-28 06:35:40
+date: 2020-09-30 17:05:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/511fBXScl2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511fBXScl2L._SL200_.jpg' ]
 comments: true
