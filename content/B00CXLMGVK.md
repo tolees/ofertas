@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kidde Carbon Monoxide Alarm al 49.87 % de descuento'
-date: 2020-09-26 20:36:34
+date: 2020-09-30 12:03:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WHvk5abHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WHvk5abHL._SL200_.jpg' ]
 comments: true
