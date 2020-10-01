@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung Galaxy S10 Lite - Smartphone de  al 30.50 % de descuento'
-date: 2020-09-29 19:30:52
+title: 'Samsung Galaxy S10 Lite - Smartphone de  al 31.74 % de descuento'
+date: 2020-10-01 13:45:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31OaQpntwuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31OaQpntwuL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B083KLCJSW
 description:
-actualPrice: 458.02 EUR
+actualPrice: 449.86 EUR
 comparePrice: 659.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung Galaxy S10 Lite - Smartphone de 6.7" FHD+  4G  8GB RAM  128GB ROM  cámara trasera 48MP+12MP UW +5MP Macro +5MP  cámara frontal 32MP  Octa-core Snapdragon8150   Prism Blue [Versión española]](https://www.amazon.com/dp/B083KLCJSW/?tag=redken08-20) a 458.02 EUR (original: 659.0 EUR) (30.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung Galaxy S10 Lite - Smartphone de 6.7" FHD+  4G  8GB RAM  128GB ROM  cámara trasera 48MP+12MP UW +5MP Macro +5MP  cámara frontal 32MP  Octa-core Snapdragon8150   Prism Blue [Versión española]](https://www.amazon.com/dp/B083KLCJSW/?tag=redken08-20) a 449.86 EUR (original: 659.0 EUR) (31.74 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31OaQpntwuL._SL200_.jpg)](https://www.amazon.com/dp/B083KLCJSW/?tag=redken08-20)
 
