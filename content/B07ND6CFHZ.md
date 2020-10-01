@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO Technic 42099 - 4x4 X-treme Off-Roa al 27.45 % de descuento'
-date: 2020-09-30 03:09:46
-thumbnailImage: 'https://m.media-amazon.com/images/I/51oqSlXZfxL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51oqSlXZfxL._SL200_.jpg' ]
+title: 'LEGO 42099 Technic Control+ 4x4 X-treme  al 33.50 % de descuento'
+date: 2020-10-01 08:49:43
+thumbnailImage: 'https://m.media-amazon.com/images/I/51UJ7QH6lJL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51UJ7QH6lJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07ND6CFHZ
 description:
-actualPrice: 162.65 EUR
-comparePrice: 224.19 EUR
+actualPrice: 133.0 GBP
+comparePrice: 199.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Technic 42099 - 4x4 X-treme Off-Roader](https://www.amazon.com/dp/B07ND6CFHZ/?tag=redken08-20) a 162.65 EUR (original: 224.19 EUR) (27.45 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 42099 Technic Control+ 4x4 X-treme Off-Roader Truck App Controlled Construction Set  Interactive Motors and Bluetooth Connectivity](https://www.amazon.com/dp/B07ND6CFHZ/?tag=redken08-20) a 133.0 GBP (original: 199.99 GBP) (33.50 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51oqSlXZfxL._SL200_.jpg)](https://www.amazon.com/dp/B07ND6CFHZ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51UJ7QH6lJL._SL200_.jpg)](https://www.amazon.com/dp/B07ND6CFHZ/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07ND6CFHZ/?tag=redken08-20)
 
