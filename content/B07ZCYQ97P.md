@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE Rotary Tool Kit  Variable Speed al 29.81 % de descuento'
-date: 2020-09-28 08:22:13
+date: 2020-10-01 02:55:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AcupEZcPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AcupEZcPL._SL200_.jpg' ]
 comments: true
