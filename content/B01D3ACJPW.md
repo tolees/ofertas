@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intenso High Performance interne SSD 120 al 41.68 % de descuento'
-date: 2020-09-30 14:40:24
+date: 2020-10-01 15:11:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/4140iJXJalL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4140iJXJalL._SL200_.jpg' ]
 comments: true

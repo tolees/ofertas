@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.63 % en LEGO 21045 - Architecture Trafalgar Squa'
-date: 2020-09-29 21:18:27
+date: 2020-10-01 15:05:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg' ]
 comments: true

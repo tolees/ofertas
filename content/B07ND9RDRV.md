@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41167 Disney Frozen II Arendelle Ca al 29.99 % de descuento'
-date: 2020-09-23 20:58:15
+date: 2020-10-01 15:49:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL200_.jpg' ]
 comments: true

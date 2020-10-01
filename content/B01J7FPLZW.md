@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chibis Star Trek 50th Anniversary Comple al 36.77 % de descuento'
-date: 2020-09-27 12:06:40
+date: 2020-10-01 15:27:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51afbXpYTrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51afbXpYTrL._SL200_.jpg' ]
 comments: true
