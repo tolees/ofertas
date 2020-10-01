@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.54 % en Masthome Tabla de Cortar de Cocina de pl'
-date: 2020-09-30 07:10:30
+date: 2020-10-01 10:59:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/61yL6gdLH4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61yL6gdLH4L._SL200_.jpg' ]
 comments: true
