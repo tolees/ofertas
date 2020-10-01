@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO Duplo 10907 - Tiere der Welt  Baust al 28.97 % de descuento'
-date: 2020-09-26 09:14:54
-thumbnailImage: 'https://m.media-amazon.com/images/I/51PhBRZru+L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51PhBRZru+L._SL200_.jpg' ]
+title: 'LEGO 10907 DUPLO Town World Animals Adve al 29.99 % de descuento'
+date: 2020-03-06 12:58:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/512uowkzDWL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/512uowkzDWL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01BK2PXAS
 description:
-actualPrice: 69.23 EUR
-comparePrice: 97.47 EUR
+actualPrice: 63.0 GBP
+comparePrice: 89.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Duplo 10907 - Tiere der Welt  Bausteine](https://www.amazon.com/dp/B01BK2PXAS/?tag=redken08-20) a 69.23 EUR (original: 97.47 EUR) (28.97 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 10907 DUPLO Town World Animals Adventure Learning Toys for Toddlers 2 - 5 Years Old with Airplane and 15 Duplo Animals](https://www.amazon.com/dp/B01BK2PXAS/?tag=redken08-20) a 63.0 GBP (original: 89.99 GBP) (29.99 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51PhBRZru+L._SL200_.jpg)](https://www.amazon.com/dp/B01BK2PXAS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/512uowkzDWL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01BK2PXAS/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01BK2PXAS/?tag=redken08-20)
 
