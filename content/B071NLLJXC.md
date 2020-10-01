@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel Comics MAY172531 Figura de acción al 32.71 % de descuento'
-date: 2020-09-25 08:55:12
+date: 2020-10-01 12:34:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51otDgzkcjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51otDgzkcjL._SL200_.jpg' ]
 comments: true
