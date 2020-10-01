@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Legend - Maletín para portátiles de h al 50.46 % de descuento'
-date: 2020-09-24 09:15:39
+date: 2020-10-01 16:33:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sruhhQjhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sruhhQjhL._SL200_.jpg' ]
 comments: true
