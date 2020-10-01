@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.25 % en DEWALT Tool Box  Tough System  Extra Lar'
-date: 2020-09-29 20:29:52
+date: 2020-10-01 14:19:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-nRmPdYzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-nRmPdYzL._SL200_.jpg' ]
 comments: true

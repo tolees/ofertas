@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.38 % en Intel NUC 8 Mainstream-G Mini PC with SS'
-date: 2020-09-29 20:29:41
+date: 2020-10-01 14:43:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/315U1NUPDuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315U1NUPDuL._SL200_.jpg' ]
 comments: true
