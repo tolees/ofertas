@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.44 % en JVC 18.2 x 7 x 3 cm Gumy Sweat-proof Spo'
-date: 2020-09-24 09:44:20
+date: 2020-10-01 11:02:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DWYiVF7yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DWYiVF7yL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair CMK64GX4M4A2666C16 Vengeance LPX al 47.74 % de descuento'
-date: 2020-09-30 06:37:22
+date: 2020-10-01 11:03:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fRKe43WqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fRKe43WqL._SL200_.jpg' ]
 comments: true

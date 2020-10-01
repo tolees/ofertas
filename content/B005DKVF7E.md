@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Targus Terra - Mochila de 15-16"  Color  al 43.27 % de descuento'
-date: 2020-09-17 23:00:36
+date: 2020-10-01 11:45:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w4e6BxtDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w4e6BxtDL._SL200_.jpg' ]
 comments: true
