@@ -14,10 +14,10 @@ comparePrice: 15.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [the gift box Scented Candles Gifts for Women and Ladies Gifts are for Couples and Anniversary and Birthday Gifts for Her.  MOONDANCE ](https://www.amazon.co.uk/dp/B07QJCVBJW/?tag=redken01-21) a 9.99 GBP (original: 15.0 GBP) (33.40 %  de descuento) en el siguiente enlace!
+Está [the gift box Scented Candles Gifts for Women and Ladies Gifts are for Couples and Anniversary and Birthday Gifts for Her.  MOONDANCE ](https://www.amazon.co.uk/dp/B07QJCVBJW/?tag=redken01-21) con 33.40 de descuento por 9.99 GBP (original: 15.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/418+sU-ARLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07QJCVBJW/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07QJCVBJW/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07QJCVBJW/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

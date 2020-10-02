@@ -14,10 +14,10 @@ comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Está [Funko 30773 POP Vinyl Austin Powers  Multi](https://www.amazon.co.uk/dp/B07DFBSH5B/?tag=redken01-21) con 40.34 de descuento por 7.75 GBP (original: 12.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 30773 POP Vinyl Austin Powers  Multi](https://www.amazon.co.uk/dp/B07DFBSH5B/?tag=redken01-21) a 7.75 GBP (original: 12.99 GBP) (40.34 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51FzGh4E7QL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFBSH5B/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DFBSH5B/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DFBSH5B/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

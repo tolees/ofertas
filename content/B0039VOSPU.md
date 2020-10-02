@@ -14,10 +14,10 @@ comparePrice: 40.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Beyonce Heat Eau de Parfum Fragrance for Women  100 ml](https://www.amazon.co.uk/dp/B0039VOSPU/?tag=redken01-21) a 13.24 GBP (original: 40.0 GBP) (66.90 %  de descuento) en el siguiente enlace!
+Está [Beyonce Heat Eau de Parfum Fragrance for Women  100 ml](https://www.amazon.co.uk/dp/B0039VOSPU/?tag=redken01-21) con 66.90 de descuento por 13.24 GBP (original: 40.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41BeqdIWHTL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0039VOSPU/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B0039VOSPU/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B0039VOSPU/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
