@@ -14,10 +14,10 @@ comparePrice: 13.5 EUR
 inStock: true
 ---
 
-Está [Bourjois La Palette  Sombra de Ojos  Tono 1  Les Nudes   4 5 g](https://www.amazon.com/dp/B01JGFDLH8/?tag=redken08-20) con 76.15 de descuento por 3.22 EUR (original: 13.5 EUR) en el siguiente enlace!
+Está [Bourjois La Palette  Sombra de Ojos  Tono 1  Les Nudes   4 5 g](https://www.amazon.es/dp/B01JGFDLH8/?tag=redken-21) con 76.15 de descuento por 3.22 EUR (original: 13.5 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41-JZFZxzGL._SL200_.jpg)](https://www.amazon.com/dp/B01JGFDLH8/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41-JZFZxzGL._SL200_.jpg)](https://www.amazon.es/dp/B01JGFDLH8/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01JGFDLH8/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.es/dp/B01JGFDLH8/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

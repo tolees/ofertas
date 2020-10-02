@@ -14,10 +14,10 @@ comparePrice: 13.95 EUR
 inStock: true
 ---
 
-Tienes [L Oréal Paris Color Riche Quad Pro S4 - Sombra de ojos](https://www.amazon.com/dp/B00AQDP2DQ/?tag=redken08-20) con un 57.06 % de descuento con precio de oferta de 5.99 EUR (original: 13.95 EUR) en el siguiente enlace!
+Tienes [L Oréal Paris Color Riche Quad Pro S4 - Sombra de ojos](https://www.amazon.es/dp/B00AQDP2DQ/?tag=redken-21) con un 57.06 % de descuento con precio de oferta de 5.99 EUR (original: 13.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/513VLeB8dqL._SL200_.jpg)](https://www.amazon.com/dp/B00AQDP2DQ/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/513VLeB8dqL._SL200_.jpg)](https://www.amazon.es/dp/B00AQDP2DQ/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00AQDP2DQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B00AQDP2DQ/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

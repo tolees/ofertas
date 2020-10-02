@@ -14,10 +14,10 @@ comparePrice: 17.96 GBP
 inStock: true
 ---
 
-Tienes [Dragon Ball Z KAI Final Chapters: Part 3  Episodes 145-167  Blu-ray](https://www.amazon.com/dp/B07G1QNGP3/?tag=redken08-20) con un 33.80 % de descuento con precio de oferta de 11.89 GBP (original: 17.96 GBP) en el siguiente enlace!
+Tienes [Dragon Ball Z KAI Final Chapters: Part 3  Episodes 145-167  Blu-ray](https://www.amazon.co.uk/dp/B07G1QNGP3/?tag=redken01-21) con un 33.80 % de descuento con precio de oferta de 11.89 GBP (original: 17.96 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51fCxj3EkkL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07G1QNGP3/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51fCxj3EkkL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07G1QNGP3/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07G1QNGP3/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07G1QNGP3/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

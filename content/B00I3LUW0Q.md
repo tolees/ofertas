@@ -14,10 +14,10 @@ comparePrice: 25.0 EUR
 inStock: true
 ---
 
-Está [Sony MDREX110APR - Auriculares in-ear  con micrófono y control de volúmen y reproducción incorporado  color rojo](https://www.amazon.com/dp/B00I3LUW0Q/?tag=redken08-20) con 49.24 de descuento por 12.69 EUR (original: 25.0 EUR) en el siguiente enlace!
+Está [Sony MDREX110APR - Auriculares in-ear  con micrófono y control de volúmen y reproducción incorporado  color rojo](https://www.amazon.es/dp/B00I3LUW0Q/?tag=redken-21) con 49.24 de descuento por 12.69 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41OKL97gpyL._SL200_.jpg)](https://www.amazon.com/dp/B00I3LUW0Q/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41OKL97gpyL._SL200_.jpg)](https://www.amazon.es/dp/B00I3LUW0Q/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00I3LUW0Q/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.es/dp/B00I3LUW0Q/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

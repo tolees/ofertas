@@ -14,10 +14,10 @@ comparePrice: 20.74 GBP
 inStock: true
 ---
 
-Tienes [Microsoft Wireless 900 Mouse - Black](https://www.amazon.com/dp/B016BISIRQ/?tag=redken08-20) con un 37.37 % de descuento con precio de oferta de 12.99 GBP (original: 20.74 GBP) en el siguiente enlace!
+Tienes [Microsoft Wireless 900 Mouse - Black](https://www.amazon.co.uk/dp/B016BISIRQ/?tag=redken01-21) con un 37.37 % de descuento con precio de oferta de 12.99 GBP (original: 20.74 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31NCVtzGghL._SL200_.jpg)](https://www.amazon.com/dp/B016BISIRQ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31NCVtzGghL._SL200_.jpg)](https://www.amazon.co.uk/dp/B016BISIRQ/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B016BISIRQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B016BISIRQ/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

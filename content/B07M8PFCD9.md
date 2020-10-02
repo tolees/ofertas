@@ -14,10 +14,10 @@ comparePrice: 179.99 GBP
 inStock: true
 ---
 
-Tienes [Blink XT2 | Outdoor/Indoor Smart Security Camera with Cloud Storage  2-Way Audio  2-Year Battery Life | 2-Camera System](https://www.amazon.com/dp/B07M8PFCD9/?tag=redken08-20) con un 25.00 % de descuento con precio de oferta de 134.99 GBP (original: 179.99 GBP) en el siguiente enlace!
+Tienes [Blink XT2 | Outdoor/Indoor Smart Security Camera with Cloud Storage  2-Way Audio  2-Year Battery Life | 2-Camera System](https://www.amazon.co.uk/dp/B07M8PFCD9/?tag=redken01-21) con un 25.00 % de descuento con precio de oferta de 134.99 GBP (original: 179.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31moy5ccgDL._SL200_.jpg)](https://www.amazon.com/dp/B07M8PFCD9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31moy5ccgDL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07M8PFCD9/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07M8PFCD9/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07M8PFCD9/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

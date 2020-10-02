@@ -14,10 +14,10 @@ comparePrice: 57.31 EUR
 inStock: true
 ---
 
-Tienes [Timberland Davis Square Leather Oxford  Zapatillas Unisex-Niño  Verde  Dark Green Nubuck   24 EU](https://www.amazon.com/dp/B07JMY8MK3/?tag=redken08-20) con un 51.16 % de descuento con precio de oferta de 27.99 EUR (original: 57.31 EUR) en el siguiente enlace!
+Tienes [Timberland Davis Square Leather Oxford  Zapatillas Unisex-Niño  Verde  Dark Green Nubuck   24 EU](https://www.amazon.es/dp/B07JMY8MK3/?tag=redken-21) con un 51.16 % de descuento con precio de oferta de 27.99 EUR (original: 57.31 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/314vrfCxyKL._SL200_.jpg)](https://www.amazon.com/dp/B07JMY8MK3/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/314vrfCxyKL._SL200_.jpg)](https://www.amazon.es/dp/B07JMY8MK3/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07JMY8MK3/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07JMY8MK3/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

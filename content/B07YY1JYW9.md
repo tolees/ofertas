@@ -14,10 +14,10 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Tienes [BRIKSMAX Kit de Iluminación Led para Lego Creator Casa Modular Moderna Compatible con Ladrillos de Construcción Lego Modelo 31068  Juego de Legos no Incluido](https://www.amazon.com/dp/B07YY1JYW9/?tag=redken08-20) con un 68.58 % de descuento con precio de oferta de 21.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX Kit de Iluminación Led para Lego Creator Casa Modular Moderna Compatible con Ladrillos de Construcción Lego Modelo 31068  Juego de Legos no Incluido](https://www.amazon.es/dp/B07YY1JYW9/?tag=redken-21) con un 68.58 % de descuento con precio de oferta de 21.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51CGum9H6GL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07YY1JYW9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51CGum9H6GL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07YY1JYW9/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07YY1JYW9/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07YY1JYW9/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

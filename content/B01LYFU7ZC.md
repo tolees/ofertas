@@ -14,10 +14,10 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Está [Playmobil 9065 Family Fun Hammerhead Shark with Baby](https://www.amazon.com/dp/B01LYFU7ZC/?tag=redken08-20) con 43.04 de descuento por 5.69 GBP (original: 9.99 GBP) en el siguiente enlace!
+Está [Playmobil 9065 Family Fun Hammerhead Shark with Baby](https://www.amazon.co.uk/dp/B01LYFU7ZC/?tag=redken01-21) con 43.04 de descuento por 5.69 GBP (original: 9.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51saLWBGArL._SL200_.jpg)](https://www.amazon.com/dp/B01LYFU7ZC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51saLWBGArL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LYFU7ZC/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01LYFU7ZC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01LYFU7ZC/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Está [Playmobil 6642 City Life Lion Family](https://www.amazon.com/dp/B00O4E2BSW/?tag=redken08-20) con 50.05 de descuento por 4.99 GBP (original: 9.99 GBP) en el siguiente enlace!
+Está [Playmobil 6642 City Life Lion Family](https://www.amazon.co.uk/dp/B00O4E2BSW/?tag=redken01-21) con 50.05 de descuento por 4.99 GBP (original: 9.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51j6Hf44sZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00O4E2BSW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51j6Hf44sZL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00O4E2BSW/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00O4E2BSW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00O4E2BSW/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

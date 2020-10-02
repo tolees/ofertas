@@ -14,10 +14,10 @@ comparePrice: 10 EUR
 inStock: true
 ---
 
-Tienes [Funko Pop Marvel Studios 10º Aniversario Figura de Vinilo cromada Gamora  Multicolor  33519 ](https://www.amazon.com/dp/B07DFDTZGT/?tag=redken08-20) con un 45.00 % de descuento con precio de oferta de 5.5 EUR (original: 10 EUR) en el siguiente enlace!
+Tienes [Funko Pop Marvel Studios 10º Aniversario Figura de Vinilo cromada Gamora  Multicolor  33519 ](https://www.amazon.es/dp/B07DFDTZGT/?tag=redken-21) con un 45.00 % de descuento con precio de oferta de 5.5 EUR (original: 10 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41zjtPSZXvL._SL200_.jpg)](https://www.amazon.com/dp/B07DFDTZGT/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41zjtPSZXvL._SL200_.jpg)](https://www.amazon.es/dp/B07DFDTZGT/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07DFDTZGT/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07DFDTZGT/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

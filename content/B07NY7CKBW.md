@@ -14,10 +14,10 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [Superdry Core Sport Graphic tee Top de Deporte  Gris  Light Grey Marl 41q   X-Small para Hombre](https://www.amazon.com/dp/B07NY7CKBW/?tag=redken08-20) con un 62.35 % de descuento con precio de oferta de 11.29 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Superdry Core Sport Graphic tee Top de Deporte  Gris  Light Grey Marl 41q   X-Small para Hombre](https://www.amazon.es/dp/B07NY7CKBW/?tag=redken-21) con un 62.35 % de descuento con precio de oferta de 11.29 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41gMqCl+NUL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NY7CKBW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41gMqCl+NUL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NY7CKBW/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07NY7CKBW/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07NY7CKBW/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

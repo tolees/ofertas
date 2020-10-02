@@ -14,10 +14,10 @@ comparePrice: 6.95 EUR
 inStock: true
 ---
 
-Tienes [L Oreal Paris Color Queen Mono Sombra de Ojos  Alta Pigmentación  Tono 01 Unsurpassed](https://www.amazon.com/dp/B07Q15PFYF/?tag=redken08-20) con un 49.64 % de descuento con precio de oferta de 3.5 EUR (original: 6.95 EUR) en el siguiente enlace!
+Tienes [L Oreal Paris Color Queen Mono Sombra de Ojos  Alta Pigmentación  Tono 01 Unsurpassed](https://www.amazon.es/dp/B07Q15PFYF/?tag=redken-21) con un 49.64 % de descuento con precio de oferta de 3.5 EUR (original: 6.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31hkpan3TdL._SL200_.jpg)](https://www.amazon.com/dp/B07Q15PFYF/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31hkpan3TdL._SL200_.jpg)](https://www.amazon.es/dp/B07Q15PFYF/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07Q15PFYF/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07Q15PFYF/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 21.96 GBP
 inStock: true
 ---
 
-Está [Top Trumps Star Wars Top Trumps Match Board Game](https://www.amazon.com/dp/B06W9KTJSG/?tag=redken08-20) con 34.02 de descuento por 14.49 GBP (original: 21.96 GBP) en el siguiente enlace!
+Está [Top Trumps Star Wars Top Trumps Match Board Game](https://www.amazon.co.uk/dp/B06W9KTJSG/?tag=redken01-21) con 34.02 de descuento por 14.49 GBP (original: 21.96 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61sJzDmhGfL._SL200_.jpg)](https://www.amazon.com/dp/B06W9KTJSG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/61sJzDmhGfL._SL200_.jpg)](https://www.amazon.co.uk/dp/B06W9KTJSG/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06W9KTJSG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06W9KTJSG/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

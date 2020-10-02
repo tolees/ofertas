@@ -14,10 +14,10 @@ comparePrice: 3.65 EUR
 inStock: true
 ---
 
-Tienes [Instituto Español Gel de Baño y Ducha Avena - 1250 ML](https://www.amazon.com/dp/B00XAIS36C/?tag=redken08-20) con un 45.48 % de descuento con precio de oferta de 1.99 EUR (original: 3.65 EUR) en el siguiente enlace!
+Tienes [Instituto Español Gel de Baño y Ducha Avena - 1250 ML](https://www.amazon.es/dp/B00XAIS36C/?tag=redken-21) con un 45.48 % de descuento con precio de oferta de 1.99 EUR (original: 3.65 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/417Gbqr6p0L._SL200_.jpg)](https://www.amazon.com/dp/B00XAIS36C/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/417Gbqr6p0L._SL200_.jpg)](https://www.amazon.es/dp/B00XAIS36C/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00XAIS36C/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B00XAIS36C/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 6.59 EUR
 inStock: true
 ---
 
-Tienes [OOTB 93/2072 - Tubos de ensayo de plástico para chupitos  transparente](https://www.amazon.com/dp/B00WAHYY2G/?tag=redken08-20) con un 33.23 % de descuento con precio de oferta de 4.4 EUR (original: 6.59 EUR) en el siguiente enlace!
+Tienes [OOTB 93/2072 - Tubos de ensayo de plástico para chupitos  transparente](https://www.amazon.es/dp/B00WAHYY2G/?tag=redken-21) con un 33.23 % de descuento con precio de oferta de 4.4 EUR (original: 6.59 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/415DaFo9rnL._SL200_.jpg)](https://www.amazon.com/dp/B00WAHYY2G/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/415DaFo9rnL._SL200_.jpg)](https://www.amazon.es/dp/B00WAHYY2G/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00WAHYY2G/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B00WAHYY2G/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

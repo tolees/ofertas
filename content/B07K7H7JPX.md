@@ -14,10 +14,10 @@ comparePrice: 44.95 EUR
 inStock: true
 ---
 
-Está [adidas Kinder TIRO19 TR TOPY Sweatshirt  Dark Blue/Bold Blue/White  1516](https://www.amazon.com/dp/B07K7H7JPX/?tag=redken08-20) con 72.86 de descuento por 12.2 EUR (original: 44.95 EUR) en el siguiente enlace!
+Está [adidas Kinder TIRO19 TR TOPY Sweatshirt  Dark Blue/Bold Blue/White  1516](https://www.amazon.de/dp/B07K7H7JPX/?tag=redken02-21) con 72.86 de descuento por 12.2 EUR (original: 44.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41z-LKIAIzL._SL200_.jpg)](https://www.amazon.com/dp/B07K7H7JPX/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41z-LKIAIzL._SL200_.jpg)](https://www.amazon.de/dp/B07K7H7JPX/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07K7H7JPX/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.de/dp/B07K7H7JPX/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

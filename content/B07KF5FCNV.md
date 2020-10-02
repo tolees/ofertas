@@ -14,10 +14,10 @@ comparePrice: 114.98 GBP
 inStock: true
 ---
 
-Tienes [Levi s Men s Type 3 Denim Jacket  Blue  Palmer Sherpa Trucker 0105   Medium](https://www.amazon.com/dp/B07KF5FCNV/?tag=redken08-20) con un 49.99 % de descuento con precio de oferta de 57.5 GBP (original: 114.98 GBP) en el siguiente enlace!
+Tienes [Levi s Men s Type 3 Denim Jacket  Blue  Palmer Sherpa Trucker 0105   Medium](https://www.amazon.co.uk/dp/B07KF5FCNV/?tag=redken01-21) con un 49.99 % de descuento con precio de oferta de 57.5 GBP (original: 114.98 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41maVaAe0VL._SL200_.jpg)](https://www.amazon.com/dp/B07KF5FCNV/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41maVaAe0VL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KF5FCNV/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07KF5FCNV/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07KF5FCNV/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

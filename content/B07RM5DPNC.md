@@ -14,10 +14,10 @@ comparePrice: 104.98 GBP
 inStock: true
 ---
 
-Tienes [Echo Show 5  White  + Neos SmartCam  2-Way Audio Smart Camera  Works with Alexa](https://www.amazon.com/dp/B07RM5DPNC/?tag=redken08-20) con un 33.35 % de descuento con precio de oferta de 69.97 GBP (original: 104.98 GBP) en el siguiente enlace!
+Tienes [Echo Show 5  White  + Neos SmartCam  2-Way Audio Smart Camera  Works with Alexa](https://www.amazon.co.uk/dp/B07RM5DPNC/?tag=redken01-21) con un 33.35 % de descuento con precio de oferta de 69.97 GBP (original: 104.98 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31hVLeJsFiL._SL200_.jpg)](https://www.amazon.com/dp/B07RM5DPNC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31hVLeJsFiL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07RM5DPNC/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07RM5DPNC/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07RM5DPNC/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

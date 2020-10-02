@@ -14,10 +14,10 @@ comparePrice: 3.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 70059 Special Plus Elfe mit REH  bunt](https://www.amazon.com/dp/B07JMCBR5B/?tag=redken08-20) con 25.56 de descuento por 2.97 EUR (original: 3.99 EUR) en el siguiente enlace!
+Está [Playmobil 70059 Special Plus Elfe mit REH  bunt](https://www.amazon.de/dp/B07JMCBR5B/?tag=redken02-21) con 25.56 de descuento por 2.97 EUR (original: 3.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51mlfQ-bpIL._SL200_.jpg)](https://www.amazon.com/dp/B07JMCBR5B/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51mlfQ-bpIL._SL200_.jpg)](https://www.amazon.de/dp/B07JMCBR5B/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07JMCBR5B/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.de/dp/B07JMCBR5B/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

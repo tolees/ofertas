@@ -14,10 +14,10 @@ comparePrice: 27.84 EUR
 inStock: true
 ---
 
-Está [Autowerkstatt Simulator [Playstation 4]](https://www.amazon.com/dp/B07QF6BJH9/?tag=redken08-20) con 28.20 de descuento por 19.99 EUR (original: 27.84 EUR) en el siguiente enlace!
+Está [Autowerkstatt Simulator [Playstation 4]](https://www.amazon.de/dp/B07QF6BJH9/?tag=redken02-21) con 28.20 de descuento por 19.99 EUR (original: 27.84 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51y32yNlZvL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07QF6BJH9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51y32yNlZvL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07QF6BJH9/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07QF6BJH9/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.de/dp/B07QF6BJH9/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

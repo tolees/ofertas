@@ -14,10 +14,10 @@ comparePrice: 20.76 GBP
 inStock: true
 ---
 
-Tienes [Avery C32011-25 Printable Single-Sided Business Cards  10 Cards Per A4 Sheet](https://www.amazon.com/dp/B000I5VYBQ/?tag=redken08-20) con un 25.14 % de descuento con precio de oferta de 15.54 GBP (original: 20.76 GBP) en el siguiente enlace!
+Tienes [Avery C32011-25 Printable Single-Sided Business Cards  10 Cards Per A4 Sheet](https://www.amazon.co.uk/dp/B000I5VYBQ/?tag=redken01-21) con un 25.14 % de descuento con precio de oferta de 15.54 GBP (original: 20.76 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51J8z-xjLCL._SL200_.jpg)](https://www.amazon.com/dp/B000I5VYBQ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51J8z-xjLCL._SL200_.jpg)](https://www.amazon.co.uk/dp/B000I5VYBQ/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B000I5VYBQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B000I5VYBQ/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

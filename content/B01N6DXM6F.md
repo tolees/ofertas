@@ -14,10 +14,10 @@ comparePrice: 14.88 EUR
 inStock: true
 ---
 
-Tienes [Spontex Universale - Set de 3 estropajos salvauñas con fibra de extractos minerales  color verde - [Pack de 8]](https://www.amazon.com/dp/B01N6DXM6F/?tag=redken08-20) con un 46.24 % de descuento con precio de oferta de 8 EUR (original: 14.88 EUR) en el siguiente enlace!
+Tienes [Spontex Universale - Set de 3 estropajos salvauñas con fibra de extractos minerales  color verde - [Pack de 8]](https://www.amazon.es/dp/B01N6DXM6F/?tag=redken-21) con un 46.24 % de descuento con precio de oferta de 8 EUR (original: 14.88 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL200_.jpg)](https://www.amazon.com/dp/B01N6DXM6F/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL200_.jpg)](https://www.amazon.es/dp/B01N6DXM6F/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01N6DXM6F/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B01N6DXM6F/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 90.0 GBP
 inStock: true
 ---
 
-Tienes [Fitflop Women s Twiss Open Toe Sandals  Pink  Rose Gold 323   6 UK 39 EU](https://www.amazon.com/dp/B07L6YJJB6/?tag=redken08-20) con un 72.22 % de descuento con precio de oferta de 25.0 GBP (original: 90.0 GBP) en el siguiente enlace!
+Tienes [Fitflop Women s Twiss Open Toe Sandals  Pink  Rose Gold 323   6 UK 39 EU](https://www.amazon.co.uk/dp/B07L6YJJB6/?tag=redken01-21) con un 72.22 % de descuento con precio de oferta de 25.0 GBP (original: 90.0 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31kajqyrMlL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07L6YJJB6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31kajqyrMlL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07L6YJJB6/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07L6YJJB6/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07L6YJJB6/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 30.15 EUR
 inStock: true
 ---
 
-Tienes [Jura Journey Single Malt Scotch Whisky - 0.7 L](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20) con un 32.67 % de descuento con precio de oferta de 20.3 EUR (original: 30.15 EUR) en el siguiente enlace!
+Tienes [Jura Journey Single Malt Scotch Whisky - 0.7 L](https://www.amazon.es/dp/B07BPQY7W1/?tag=redken-21) con un 32.67 % de descuento con precio de oferta de 20.3 EUR (original: 30.15 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41zKsdIOE1L._SL200_.jpg)](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41zKsdIOE1L._SL200_.jpg)](https://www.amazon.es/dp/B07BPQY7W1/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07BPQY7W1/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

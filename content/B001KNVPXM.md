@@ -14,10 +14,10 @@ comparePrice: 11 EUR
 inStock: true
 ---
 
-Tienes [Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios Gloss Tono 570 Coral - 18 gr](https://www.amazon.com/dp/B001KNVPXM/?tag=redken08-20) con un 64.09 % de descuento con precio de oferta de 3.95 EUR (original: 11 EUR) en el siguiente enlace!
+Tienes [Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios Gloss Tono 570 Coral - 18 gr](https://www.amazon.es/dp/B001KNVPXM/?tag=redken-21) con un 64.09 % de descuento con precio de oferta de 3.95 EUR (original: 11 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31nabmA-xbL._SL200_.jpg)](https://www.amazon.com/dp/B001KNVPXM/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31nabmA-xbL._SL200_.jpg)](https://www.amazon.es/dp/B001KNVPXM/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B001KNVPXM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B001KNVPXM/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

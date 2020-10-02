@@ -14,10 +14,10 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Silver HT 111932940199 - Mini Teclado Universal retroiluminado](https://www.amazon.com/dp/B018EMSYG2/?tag=redken08-20) con 37.51 de descuento por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Silver HT 111932940199 - Mini Teclado Universal retroiluminado](https://www.amazon.es/dp/B018EMSYG2/?tag=redken-21) con 37.51 de descuento por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41JFLseYVqL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B018EMSYG2/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41JFLseYVqL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B018EMSYG2/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B018EMSYG2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.es/dp/B018EMSYG2/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

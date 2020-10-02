@@ -14,10 +14,10 @@ comparePrice: 180.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Timberland Men s 6 Inch Premium Lace-up Boots  Yellow  Wheat Nubuck   6.5 UK  40 EU ](https://www.amazon.com/dp/B000VX1CLW/?tag=redken08-20) a 70.99 GBP (original: 180.0 GBP) (60.56 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Timberland Men s 6 Inch Premium Lace-up Boots  Yellow  Wheat Nubuck   6.5 UK  40 EU ](https://www.amazon.co.uk/dp/B000VX1CLW/?tag=redken01-21) a 70.99 GBP (original: 180.0 GBP) (60.56 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41f5bzO8KJL._SL200_.jpg)](https://www.amazon.com/dp/B000VX1CLW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41f5bzO8KJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B000VX1CLW/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.com/dp/B000VX1CLW/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.co.uk/dp/B000VX1CLW/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

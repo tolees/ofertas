@@ -14,10 +14,10 @@ comparePrice: 1130.0 GBP
 inStock: true
 ---
 
-Está [HP EliteBook 840 G6 - Core i5 8265U - 8 GB RAM - 256 GB SSD 14" Laptop](https://www.amazon.com/dp/B07V3JWMFY/?tag=redken08-20) con 34.07 de descuento por 745.0 GBP (original: 1130.0 GBP) en el siguiente enlace!
+Está [HP EliteBook 840 G6 - Core i5 8265U - 8 GB RAM - 256 GB SSD 14" Laptop](https://www.amazon.co.uk/dp/B07V3JWMFY/?tag=redken01-21) con 34.07 de descuento por 745.0 GBP (original: 1130.0 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31kWbquxxjL._SL500_._SL200_.jpg)](https://www.amazon.com/dp/B07V3JWMFY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31kWbquxxjL._SL500_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07V3JWMFY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07V3JWMFY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07V3JWMFY/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

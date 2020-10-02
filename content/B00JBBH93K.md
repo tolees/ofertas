@@ -14,10 +14,10 @@ comparePrice: 99.95 GBP
 inStock: true
 ---
 
-Tienes [Fractal Design Node 804 Computer Case - Black](https://www.amazon.com/dp/B00JBBH93K/?tag=redken08-20) con un 39.09 % de descuento con precio de oferta de 60.88 GBP (original: 99.95 GBP) en el siguiente enlace!
+Tienes [Fractal Design Node 804 Computer Case - Black](https://www.amazon.co.uk/dp/B00JBBH93K/?tag=redken01-21) con un 39.09 % de descuento con precio de oferta de 60.88 GBP (original: 99.95 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41EnFTpap1L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00JBBH93K/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41EnFTpap1L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00JBBH93K/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00JBBH93K/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B00JBBH93K/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 4.86 EUR
 inStock: true
 ---
 
-Está [FIND - Bon voyage - Paleta de cuatro sombras de ojos n.3](https://www.amazon.com/dp/B07CTQNRBN/?tag=redken08-20) con 41.36 de descuento por 2.85 EUR (original: 4.86 EUR) en el siguiente enlace!
+Está [FIND - Bon voyage - Paleta de cuatro sombras de ojos n.3](https://www.amazon.es/dp/B07CTQNRBN/?tag=redken-21) con 41.36 de descuento por 2.85 EUR (original: 4.86 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31hEDk7nfXL._SL200_.jpg)](https://www.amazon.com/dp/B07CTQNRBN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31hEDk7nfXL._SL200_.jpg)](https://www.amazon.es/dp/B07CTQNRBN/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07CTQNRBN/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CTQNRBN/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

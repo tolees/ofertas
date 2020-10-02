@@ -14,10 +14,10 @@ comparePrice: 1078.29 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [AMD - Radeon Pro Graphics Card WX8200 - 8GB HBM2  PCIe 3.0  4x Mini-DisplayPort  VR Ready](https://www.amazon.com/dp/B07H4WZL1F/?tag=redken08-20) a 474.44 GBP (original: 1078.29 GBP) (56.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [AMD - Radeon Pro Graphics Card WX8200 - 8GB HBM2  PCIe 3.0  4x Mini-DisplayPort  VR Ready](https://www.amazon.co.uk/dp/B07H4WZL1F/?tag=redken01-21) a 474.44 GBP (original: 1078.29 GBP) (56.00 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31LLdp6pXfL._SL200_.jpg)](https://www.amazon.com/dp/B07H4WZL1F/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31LLdp6pXfL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07H4WZL1F/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.com/dp/B07H4WZL1F/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07H4WZL1F/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 57.41 EUR
 inStock: true
 ---
 
-Tienes [El Ministerio del Tiempo - Temporadas 1 a 3 [Blu-ray]](https://www.amazon.com/dp/B081WPY6DB/?tag=redken08-20) con un 34.99 % de descuento con precio de oferta de 37.32 EUR (original: 57.41 EUR) en el siguiente enlace!
+Tienes [El Ministerio del Tiempo - Temporadas 1 a 3 [Blu-ray]](https://www.amazon.es/dp/B081WPY6DB/?tag=redken-21) con un 34.99 % de descuento con precio de oferta de 37.32 EUR (original: 57.41 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51neKgzlreL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B081WPY6DB/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51neKgzlreL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B081WPY6DB/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B081WPY6DB/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B081WPY6DB/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

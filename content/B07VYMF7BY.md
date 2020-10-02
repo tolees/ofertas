@@ -14,10 +14,10 @@ comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Está [Corsair M55 PRO RGB  Ambidextrous Multi-Grip Optical Gaming Mouse  12400 DPI Optical Sensor  Lightweight  8 Programmable Buttons  RGB Multi-Colour Backlighting   White](https://www.amazon.com/dp/B07VYMF7BY/?tag=redken08-20) con 44.45 de descuento por 24.99 GBP (original: 44.99 GBP) en el siguiente enlace!
+Está [Corsair M55 PRO RGB  Ambidextrous Multi-Grip Optical Gaming Mouse  12400 DPI Optical Sensor  Lightweight  8 Programmable Buttons  RGB Multi-Colour Backlighting   White](https://www.amazon.co.uk/dp/B07VYMF7BY/?tag=redken01-21) con 44.45 de descuento por 24.99 GBP (original: 44.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31eURzpTz8L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07VYMF7BY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31eURzpTz8L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07VYMF7BY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07VYMF7BY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07VYMF7BY/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

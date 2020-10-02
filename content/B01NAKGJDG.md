@@ -14,10 +14,10 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Tienes [FROZEN B9210EU4 Disney Little Kingdom Toddler Collection Figure](https://www.amazon.com/dp/B01NAKGJDG/?tag=redken08-20) con un 30.38 % de descuento con precio de oferta de 20.88 GBP (original: 29.99 GBP) en el siguiente enlace!
+Tienes [FROZEN B9210EU4 Disney Little Kingdom Toddler Collection Figure](https://www.amazon.co.uk/dp/B01NAKGJDG/?tag=redken01-21) con un 30.38 % de descuento con precio de oferta de 20.88 GBP (original: 29.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41QC8k6WJcL._SL200_.jpg)](https://www.amazon.com/dp/B01NAKGJDG/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41QC8k6WJcL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01NAKGJDG/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01NAKGJDG/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B01NAKGJDG/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

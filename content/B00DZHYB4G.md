@@ -14,10 +14,10 @@ comparePrice: 24 EUR
 inStock: true
 ---
 
-Tienes [L Oréal Expert Professionnel Liss Unlimited Serum 125 ml](https://www.amazon.com/dp/B00DZHYB4G/?tag=redken08-20) con un 45.92 % de descuento con precio de oferta de 12.98 EUR (original: 24 EUR) en el siguiente enlace!
+Tienes [L Oréal Expert Professionnel Liss Unlimited Serum 125 ml](https://www.amazon.es/dp/B00DZHYB4G/?tag=redken-21) con un 45.92 % de descuento con precio de oferta de 12.98 EUR (original: 24 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31ouH0LYAhL._SL200_.jpg)](https://www.amazon.com/dp/B00DZHYB4G/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31ouH0LYAhL._SL200_.jpg)](https://www.amazon.es/dp/B00DZHYB4G/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00DZHYB4G/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B00DZHYB4G/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 85.0 GBP
 inStock: true
 ---
 
-Tienes [Merrell Men s Moab 2 Vent Low Rise Hiking Boots  Brown Pecan   7 UK](https://www.amazon.com/dp/B071JDQ5YK/?tag=redken08-20) con un 40.01 % de descuento con precio de oferta de 50.99 GBP (original: 85.0 GBP) en el siguiente enlace!
+Tienes [Merrell Men s Moab 2 Vent Low Rise Hiking Boots  Brown Pecan   7 UK](https://www.amazon.co.uk/dp/B071JDQ5YK/?tag=redken01-21) con un 40.01 % de descuento con precio de oferta de 50.99 GBP (original: 85.0 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41DMntjOnbL._SL200_.jpg)](https://www.amazon.com/dp/B071JDQ5YK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41DMntjOnbL._SL200_.jpg)](https://www.amazon.co.uk/dp/B071JDQ5YK/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B071JDQ5YK/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B071JDQ5YK/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

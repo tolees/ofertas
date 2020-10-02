@@ -14,10 +14,10 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [GANT The Broadcloth Reg BD Camiseta Deporte  Blanco  White   Small para Hombre](https://www.amazon.com/dp/B077VNJ7WY/?tag=redken08-20) con 44.14 de descuento por 50.27 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [GANT The Broadcloth Reg BD Camiseta Deporte  Blanco  White   Small para Hombre](https://www.amazon.es/dp/B077VNJ7WY/?tag=redken-21) con 44.14 de descuento por 50.27 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31BkuGC8d7L._SL200_.jpg)](https://www.amazon.com/dp/B077VNJ7WY/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31BkuGC8d7L._SL200_.jpg)](https://www.amazon.es/dp/B077VNJ7WY/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B077VNJ7WY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.es/dp/B077VNJ7WY/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

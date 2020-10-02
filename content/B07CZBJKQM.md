@@ -14,10 +14,10 @@ comparePrice: 75.16 EUR
 inStock: true
 ---
 
-Está [Cooler Master MasterBox MB511 Midi-Tower Negro  Azul - Caja de Ordenador  Midi-Tower  PC  De plástico  Acero  Negro  Azul  ATX Micro ATX Mini-ITX  Juego ](https://www.amazon.com/dp/B07CZBJKQM/?tag=redken08-20) con 27.57 de descuento por 54.44 EUR (original: 75.16 EUR) en el siguiente enlace!
+Está [Cooler Master MasterBox MB511 Midi-Tower Negro  Azul - Caja de Ordenador  Midi-Tower  PC  De plástico  Acero  Negro  Azul  ATX Micro ATX Mini-ITX  Juego ](https://www.amazon.es/dp/B07CZBJKQM/?tag=redken-21) con 27.57 de descuento por 54.44 EUR (original: 75.16 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41OGq%2BB1X0L._SL200_.jpg)](https://www.amazon.com/dp/B07CZBJKQM/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41OGq%2BB1X0L._SL200_.jpg)](https://www.amazon.es/dp/B07CZBJKQM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07CZBJKQM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CZBJKQM/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

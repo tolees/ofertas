@@ -14,10 +14,10 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Conception Plus](https://www.amazon.com/dp/B07YBP7PVM/?tag=redken08-20) con 27.00 de descuento por 43.79 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Conception Plus](https://www.amazon.es/dp/B07YBP7PVM/?tag=redken-21) con 27.00 de descuento por 43.79 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/610X%2BO6znzL._SL200_.jpg)](https://www.amazon.com/dp/B07YBP7PVM/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/610X%2BO6znzL._SL200_.jpg)](https://www.amazon.es/dp/B07YBP7PVM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07YBP7PVM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.es/dp/B07YBP7PVM/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

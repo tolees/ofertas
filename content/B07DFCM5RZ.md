@@ -14,10 +14,10 @@ comparePrice: 10.71 GBP
 inStock: true
 ---
 
-Tienes [Funko 33435 POP Bobble Marvel Studios 10: Loki  Chrome   Multi](https://www.amazon.com/dp/B07DFCM5RZ/?tag=redken08-20) con un 39.31 % de descuento con precio de oferta de 6.5 GBP (original: 10.71 GBP) en el siguiente enlace!
+Tienes [Funko 33435 POP Bobble Marvel Studios 10: Loki  Chrome   Multi](https://www.amazon.co.uk/dp/B07DFCM5RZ/?tag=redken01-21) con un 39.31 % de descuento con precio de oferta de 6.5 GBP (original: 10.71 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/512nRQ7EoLL._SL200_.jpg)](https://www.amazon.com/dp/B07DFCM5RZ/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/512nRQ7EoLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFCM5RZ/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07DFCM5RZ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07DFCM5RZ/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

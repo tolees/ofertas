@@ -14,10 +14,10 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Está [Micro SD Card 400GB High Speed Class 10 Micro SD SDXC Card with Adapter](https://www.amazon.com/dp/B07YSTKQRS/?tag=redken08-20) con 50.03 de descuento por 9.99 GBP (original: 19.99 GBP) en el siguiente enlace!
+Está [Micro SD Card 400GB High Speed Class 10 Micro SD SDXC Card with Adapter](https://www.amazon.co.uk/dp/B07YSTKQRS/?tag=redken01-21) con 50.03 de descuento por 9.99 GBP (original: 19.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Wsz1+kKSL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07YSTKQRS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51Wsz1+kKSL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07YSTKQRS/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07YSTKQRS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07YSTKQRS/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

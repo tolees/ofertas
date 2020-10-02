@@ -14,10 +14,10 @@ comparePrice: 5.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [KOALA Inkjet Photo Paper A4 Glossy 20 Sheets 240 GSM for Canon Hp Epson Inkjet Printer](https://www.amazon.com/dp/B07HKQ6MQ6/?tag=redken08-20) a 3.99 GBP (original: 5.99 GBP) (33.39 %  de descuento) en el siguiente enlace!
+Está [KOALA Inkjet Photo Paper A4 Glossy 20 Sheets 240 GSM for Canon Hp Epson Inkjet Printer](https://www.amazon.co.uk/dp/B07HKQ6MQ6/?tag=redken01-21) con 33.39 de descuento por 3.99 GBP (original: 5.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51ENjl7XoJL._SL200_.jpg)](https://www.amazon.com/dp/B07HKQ6MQ6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51ENjl7XoJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HKQ6MQ6/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.com/dp/B07HKQ6MQ6/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HKQ6MQ6/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

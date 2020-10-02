@@ -14,10 +14,10 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BOSS Passenger Polo  Verde  Medium Green 314   XX-Large para Hombre](https://www.amazon.com/dp/B07RZSGBQW/?tag=redken08-20) a 20.5 EUR (original: 79.95 EUR) (74.36 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BOSS Passenger Polo  Verde  Medium Green 314   XX-Large para Hombre](https://www.amazon.es/dp/B07RZSGBQW/?tag=redken-21) a 20.5 EUR (original: 79.95 EUR) (74.36 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31DbNk4I3jL._SL200_.jpg)](https://www.amazon.com/dp/B07RZSGBQW/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31DbNk4I3jL._SL200_.jpg)](https://www.amazon.es/dp/B07RZSGBQW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.com/dp/B07RZSGBQW/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.es/dp/B07RZSGBQW/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

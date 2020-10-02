@@ -14,10 +14,10 @@ comparePrice: 738 EUR
 inStock: true
 ---
 
-Está [Yamaha P-125B Digital Piano  schwarz - - Kompaktes elektronisches Klavier in schlichtem Design für perfekte Spielbarkeit - Kompatibel mit kostenloser App "Smart Pianist"](https://www.amazon.com/dp/B07BZTZC6R/?tag=redken08-20) con 45.80 de descuento por 400 EUR (original: 738 EUR) en el siguiente enlace!
+Está [Yamaha P-125B Digital Piano  schwarz - - Kompaktes elektronisches Klavier in schlichtem Design für perfekte Spielbarkeit - Kompatibel mit kostenloser App "Smart Pianist"](https://www.amazon.de/dp/B07BZTZC6R/?tag=redken02-21) con 45.80 de descuento por 400 EUR (original: 738 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31zgtttyqDL._SL200_.jpg)](https://www.amazon.com/dp/B07BZTZC6R/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31zgtttyqDL._SL200_.jpg)](https://www.amazon.de/dp/B07BZTZC6R/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07BZTZC6R/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.de/dp/B07BZTZC6R/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

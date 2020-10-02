@@ -14,10 +14,10 @@ comparePrice: 9.13 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 39884 POP. Star Wars The Rise of Skywalker - Jannah Disney Collectible Figure  Multicolour](https://www.amazon.com/dp/B07QVTLK1J/?tag=redken08-20) a 6.36 GBP (original: 9.13 GBP) (30.34 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 39884 POP. Star Wars The Rise of Skywalker - Jannah Disney Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07QVTLK1J/?tag=redken01-21) a 6.36 GBP (original: 9.13 GBP) (30.34 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/4123XeZfidL._SL200_.jpg)](https://www.amazon.com/dp/B07QVTLK1J/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/4123XeZfidL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07QVTLK1J/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.com/dp/B07QVTLK1J/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07QVTLK1J/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

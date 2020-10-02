@@ -14,10 +14,10 @@ comparePrice: 1.89 GBP
 inStock: true
 ---
 
-Tienes [Unique Party 5085 - Royal Blue Plastic Tablecloth  9ft x 4.5ft](https://www.amazon.com/dp/B002UIXQNI/?tag=redken08-20) con un 31.75 % de descuento con precio de oferta de 1.29 GBP (original: 1.89 GBP) en el siguiente enlace!
+Tienes [Unique Party 5085 - Royal Blue Plastic Tablecloth  9ft x 4.5ft](https://www.amazon.co.uk/dp/B002UIXQNI/?tag=redken01-21) con un 31.75 % de descuento con precio de oferta de 1.29 GBP (original: 1.89 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31adCa+PqnL._SL200_.jpg)](https://www.amazon.com/dp/B002UIXQNI/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31adCa+PqnL._SL200_.jpg)](https://www.amazon.co.uk/dp/B002UIXQNI/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B002UIXQNI/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B002UIXQNI/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

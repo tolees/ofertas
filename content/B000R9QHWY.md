@@ -14,10 +14,10 @@ comparePrice: 13.9 EUR
 inStock: true
 ---
 
-Tienes [Vallejo 028011 - Espray de prelacado  400 ml  Gris](https://www.amazon.com/dp/B000R9QHWY/?tag=redken08-20) con un 31.58 % de descuento con precio de oferta de 9.51 EUR (original: 13.9 EUR) en el siguiente enlace!
+Tienes [Vallejo 028011 - Espray de prelacado  400 ml  Gris](https://www.amazon.es/dp/B000R9QHWY/?tag=redken-21) con un 31.58 % de descuento con precio de oferta de 9.51 EUR (original: 13.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31iLnUqN0xL._SL200_.jpg)](https://www.amazon.com/dp/B000R9QHWY/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31iLnUqN0xL._SL200_.jpg)](https://www.amazon.es/dp/B000R9QHWY/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B000R9QHWY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B000R9QHWY/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 509 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samyang F1112201101 - Objetivo fotográfico DSLR para Canon EF  Distancia Focal Fija 135mm  Apertura f/2-22 ED UMC  diámetro Filtro: 77mm   Negro](https://www.amazon.com/dp/B00TS9GLSE/?tag=redken08-20) a 262.47 EUR (original: 509 EUR) (48.43 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samyang F1112201101 - Objetivo fotográfico DSLR para Canon EF  Distancia Focal Fija 135mm  Apertura f/2-22 ED UMC  diámetro Filtro: 77mm   Negro](https://www.amazon.es/dp/B00TS9GLSE/?tag=redken-21) a 262.47 EUR (original: 509 EUR) (48.43 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41XW2xwzjLL._SL200_.jpg)](https://www.amazon.com/dp/B00TS9GLSE/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41XW2xwzjLL._SL200_.jpg)](https://www.amazon.es/dp/B00TS9GLSE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.com/dp/B00TS9GLSE/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.es/dp/B00TS9GLSE/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 119.9 EUR
 inStock: true
 ---
 
-Tienes [Geox D BIBBIANA A  Zapatos de Tacón para Mujer  Negro  Black C9997   37.5 EU](https://www.amazon.com/dp/B07LFYBKSS/?tag=redken08-20) con un 58.07 % de descuento con precio de oferta de 50.27 EUR (original: 119.9 EUR) en el siguiente enlace!
+Tienes [Geox D BIBBIANA A  Zapatos de Tacón para Mujer  Negro  Black C9997   37.5 EU](https://www.amazon.es/dp/B07LFYBKSS/?tag=redken-21) con un 58.07 % de descuento con precio de oferta de 50.27 EUR (original: 119.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31sqD9v5wVL._SL200_.jpg)](https://www.amazon.com/dp/B07LFYBKSS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31sqD9v5wVL._SL200_.jpg)](https://www.amazon.es/dp/B07LFYBKSS/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07LFYBKSS/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07LFYBKSS/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

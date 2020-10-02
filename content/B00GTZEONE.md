@@ -14,10 +14,10 @@ comparePrice: 6.97 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Oblivion [Blu-ray]](https://www.amazon.com/dp/B00GTZEONE/?tag=redken08-20) a 3.99 GBP (original: 6.97 GBP) (42.75 %  de descuento) en el siguiente enlace!
+Está [Oblivion [Blu-ray]](https://www.amazon.co.uk/dp/B00GTZEONE/?tag=redken01-21) con 42.75 de descuento por 3.99 GBP (original: 6.97 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51FMOVrafyL._SL200_.jpg)](https://www.amazon.com/dp/B00GTZEONE/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51FMOVrafyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00GTZEONE/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.com/dp/B00GTZEONE/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00GTZEONE/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

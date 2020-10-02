@@ -14,10 +14,10 @@ comparePrice: 6.23 GBP
 inStock: true
 ---
 
-Tienes [Simoniz Back to Black Bumper & Trim 500ml](https://www.amazon.com/dp/B00ULLKDAK/?tag=redken08-20) con un 59.87 % de descuento con precio de oferta de 2.5 GBP (original: 6.23 GBP) en el siguiente enlace!
+Tienes [Simoniz Back to Black Bumper & Trim 500ml](https://www.amazon.co.uk/dp/B00ULLKDAK/?tag=redken01-21) con un 59.87 % de descuento con precio de oferta de 2.5 GBP (original: 6.23 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41zpCBxSJNL._SL200_.jpg)](https://www.amazon.com/dp/B00ULLKDAK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41zpCBxSJNL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00ULLKDAK/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00ULLKDAK/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B00ULLKDAK/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

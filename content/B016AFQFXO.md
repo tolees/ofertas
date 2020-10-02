@@ -14,10 +14,10 @@ comparePrice: 134.4 EUR
 inStock: true
 ---
 
-Tienes [Dormio Zafiro Colchón viscoelástico  Blanco  90 x 190 x 24 cm  Todas las medidas ](https://www.amazon.com/dp/B016AFQFXO/?tag=redken08-20) con un 31.07 % de descuento con precio de oferta de 92.64 EUR (original: 134.4 EUR) en el siguiente enlace!
+Tienes [Dormio Zafiro Colchón viscoelástico  Blanco  90 x 190 x 24 cm  Todas las medidas ](https://www.amazon.es/dp/B016AFQFXO/?tag=redken-21) con un 31.07 % de descuento con precio de oferta de 92.64 EUR (original: 134.4 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41XNgylrh5L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B016AFQFXO/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41XNgylrh5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B016AFQFXO/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B016AFQFXO/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B016AFQFXO/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 139 GBP
 inStock: true
 ---
 
-Tienes [WD My Passport 3 TB Portable Hard Drive and Auto Backup Software for PC  Xbox One and PlayStation 4 - Black](https://www.amazon.com/dp/B01LQQHBK8/?tag=redken08-20) con un 49.65 % de descuento con precio de oferta de 69.99 GBP (original: 139 GBP) en el siguiente enlace!
+Tienes [WD My Passport 3 TB Portable Hard Drive and Auto Backup Software for PC  Xbox One and PlayStation 4 - Black](https://www.amazon.co.uk/dp/B01LQQHBK8/?tag=redken01-21) con un 49.65 % de descuento con precio de oferta de 69.99 GBP (original: 139 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL._SL200_.jpg)](https://www.amazon.com/dp/B01LQQHBK8/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LQQHBK8/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01LQQHBK8/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B01LQQHBK8/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

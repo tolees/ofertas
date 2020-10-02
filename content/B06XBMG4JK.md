@@ -14,10 +14,10 @@ comparePrice: 8.0 EUR
 inStock: true
 ---
 
-Está [Funko 14367 Actionfigur Westworld: Teddy  Multi](https://www.amazon.com/dp/B06XBMG4JK/?tag=redken08-20) con 48.38 de descuento por 4.13 EUR (original: 8.0 EUR) en el siguiente enlace!
+Está [Funko 14367 Actionfigur Westworld: Teddy  Multi](https://www.amazon.de/dp/B06XBMG4JK/?tag=redken02-21) con 48.38 de descuento por 4.13 EUR (original: 8.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51b+cYL4eHL._SL200_.jpg)](https://www.amazon.com/dp/B06XBMG4JK/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51b+cYL4eHL._SL200_.jpg)](https://www.amazon.de/dp/B06XBMG4JK/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06XBMG4JK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.de/dp/B06XBMG4JK/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

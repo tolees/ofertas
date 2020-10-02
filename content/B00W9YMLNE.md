@@ -14,10 +14,10 @@ comparePrice: 466.38 EUR
 inStock: true
 ---
 
-Tienes [Sony Cyber-Shot DSC-HX90 negro - Cámara compacta de 18 Mp](https://www.amazon.com/dp/B00W9YMLNE/?tag=redken08-20) con un 35.89 % de descuento con precio de oferta de 299.0 EUR (original: 466.38 EUR) en el siguiente enlace!
+Tienes [Sony Cyber-Shot DSC-HX90 negro - Cámara compacta de 18 Mp](https://www.amazon.es/dp/B00W9YMLNE/?tag=redken-21) con un 35.89 % de descuento con precio de oferta de 299.0 EUR (original: 466.38 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41eDm7aZaSL._SL200_.jpg)](https://www.amazon.com/dp/B00W9YMLNE/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41eDm7aZaSL._SL200_.jpg)](https://www.amazon.es/dp/B00W9YMLNE/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00W9YMLNE/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B00W9YMLNE/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 34.98 EUR
 inStock: true
 ---
 
-Tienes [Artist Fabrica Monstruosa Slime  BIZAK 63317005 ](https://www.amazon.com/dp/B079VR2SYQ/?tag=redken08-20) con un 45.71 % de descuento con precio de oferta de 18.99 EUR (original: 34.98 EUR) en el siguiente enlace!
+Tienes [Artist Fabrica Monstruosa Slime  BIZAK 63317005 ](https://www.amazon.es/dp/B079VR2SYQ/?tag=redken-21) con un 45.71 % de descuento con precio de oferta de 18.99 EUR (original: 34.98 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51GN7gtJQqL._SL200_.jpg)](https://www.amazon.com/dp/B079VR2SYQ/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51GN7gtJQqL._SL200_.jpg)](https://www.amazon.es/dp/B079VR2SYQ/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B079VR2SYQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.es/dp/B079VR2SYQ/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
