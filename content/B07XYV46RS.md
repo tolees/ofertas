@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POWERADD EnergyCell Powerbank 15000mAh B al 30.47 % de descuento'
-date: 2020-09-28 20:48:11
+date: 2020-10-02 18:19:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FVwBcSfoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FVwBcSfoL._SL200_.jpg' ]
 comments: true

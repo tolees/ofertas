@@ -14,10 +14,10 @@ comparePrice: 149.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [ASTRO Gaming A40 TR-X Edition Wired Gaming Headset for  PC  Xbox and PlayStation - Red/Blue](https://www.amazon.co.uk/dp/B07HR4KVSN/?tag=redken01-21) a 99.99 GBP (original: 149.99 GBP) (33.34 %  de descuento) en el siguiente enlace!
+Está [ASTRO Gaming A40 TR-X Edition Wired Gaming Headset for  PC  Xbox and PlayStation - Red/Blue](https://www.amazon.co.uk/dp/B07HR4KVSN/?tag=redken01-21) con 33.34 de descuento por 99.99 GBP (original: 149.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41rrE6Bgr1L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HR4KVSN/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07HR4KVSN/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HR4KVSN/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
