@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anima AF8 - Ventilador para ordenador  1 al 53.78 % de descuento'
-date: 2020-09-30 18:50:27
+date: 2020-10-02 03:18:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Fkuz82KIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Fkuz82KIL._SL200_.jpg' ]
 comments: true
