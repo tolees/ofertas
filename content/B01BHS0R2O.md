@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.98 % en Oral-B Oxyjet - Sistema De Limpieza Irri'
-date: 2020-10-01 07:59:47
+date: 2020-10-02 11:17:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lUdGVFJwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lUdGVFJwL._SL200_.jpg' ]
 comments: true

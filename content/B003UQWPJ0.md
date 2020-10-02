@@ -14,10 +14,10 @@ comparePrice: 12.56 GBP
 inStock: true
 ---
 
-Está [adidas Duramo Slide  Unisex Open Toe Sandals  Black  Black/White/Black   12 UK  47 EU ](https://www.amazon.co.uk/dp/B003UQWPJ0/?tag=redken01-21) con 36.31 de descuento por 8.0 GBP (original: 12.56 GBP) en el siguiente enlace!
+Ahora mismo tienes [adidas Duramo Slide  Unisex Open Toe Sandals  Black  Black/White/Black   12 UK  47 EU ](https://www.amazon.co.uk/dp/B003UQWPJ0/?tag=redken01-21) a 8.0 GBP (original: 12.56 GBP) (36.31 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/314oTnfyLIL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B003UQWPJ0/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B003UQWPJ0/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B003UQWPJ0/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
