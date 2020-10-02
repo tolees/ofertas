@@ -14,10 +14,10 @@ comparePrice: 5.5 GBP
 inStock: true
 ---
 
-Está [Casanova [DVD]](https://www.amazon.co.uk/dp/B000F8ZLDS/?tag=redken01-21) con 45.27 de descuento por 3.01 GBP (original: 5.5 GBP) en el siguiente enlace!
+Ahora mismo tienes [Casanova [DVD]](https://www.amazon.co.uk/dp/B000F8ZLDS/?tag=redken01-21) a 3.01 GBP (original: 5.5 GBP) (45.27 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/515XQWPH34L._SL200_.jpg)](https://www.amazon.co.uk/dp/B000F8ZLDS/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B000F8ZLDS/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B000F8ZLDS/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

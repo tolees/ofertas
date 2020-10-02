@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.87 % en LEGO®-DUPLO® Rescue La caserne de pompie'
-date: 2020-10-01 09:10:55
+date: 2020-10-02 15:00:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/514IByqhg8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514IByqhg8L._SL200_.jpg' ]
 comments: true
