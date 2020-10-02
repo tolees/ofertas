@@ -14,10 +14,10 @@ comparePrice: 210.67 GBP
 inStock: true
 ---
 
-Está [Wera Joker Combination Ratchet Spanner set Metric  11pc  05020013001](https://www.amazon.co.uk/dp/B00BT0AYG0/?tag=redken01-21) con 31.17 de descuento por 145.0 GBP (original: 210.67 GBP) en el siguiente enlace!
+Ahora mismo tienes [Wera Joker Combination Ratchet Spanner set Metric  11pc  05020013001](https://www.amazon.co.uk/dp/B00BT0AYG0/?tag=redken01-21) a 145.0 GBP (original: 210.67 GBP) (31.17 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51j5LZcGqRL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00BT0AYG0/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00BT0AYG0/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00BT0AYG0/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
