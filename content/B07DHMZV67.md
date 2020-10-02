@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Encías & Esmalte Repair Blanquean al 38.60 % de descuento'
-date: 2020-10-01 01:47:14
+date: 2020-10-02 07:42:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51i2IoBZuML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51i2IoBZuML._SL200_.jpg' ]
 comments: true

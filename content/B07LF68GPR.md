@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.78 % en BIC Cristal Multicolour - Pack de 15 uni'
-date: 2020-10-01 07:52:35
+date: 2020-10-02 07:57:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hyE4nzbZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hyE4nzbZL._SL200_.jpg' ]
 comments: true
