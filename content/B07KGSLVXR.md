@@ -14,10 +14,10 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [edc by Esprit 999cc2k803 Camiseta  Blanco  White 100   Medium para Hombre](https://www.amazon.es/dp/B07KGSLVXR/?tag=redken-21) con 35.04 de descuento por 6.49 EUR (original: 9.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [edc by Esprit 999cc2k803 Camiseta  Blanco  White 100   Medium para Hombre](https://www.amazon.es/dp/B07KGSLVXR/?tag=redken-21) a 6.49 EUR (original: 9.99 EUR) (35.04 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41nLbyMRqLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KGSLVXR/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KGSLVXR/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KGSLVXR/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
