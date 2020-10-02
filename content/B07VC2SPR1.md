@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'EACHINE E520S GPS Drohne mit 4k HD Kamer al 44.48 % de descuento'
-date: 2020-10-01 15:15:21
+title: 'EACHINE E520S Drone con Camara HD Drone  al 33.56 % de descuento'
+date: 2020-10-02 01:41:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gJ3k+BeyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gJ3k+BeyL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07VC2SPR1
 description:
-actualPrice: 149.9 EUR
-comparePrice: 269.99 EUR
+actualPrice: 93.01 EUR
+comparePrice: 139.99 EUR
 inStock: true
 ---
 
-Está [EACHINE E520S GPS Drohne mit 4k HD Kamera 5G WiFi FPV Live Übertragung 250M Reichweite 120°Weitwinkel Follow-Me App-Steuerung 16 Minuten Flugzeit RC Quadrocopter Faltdrohne für Anfänger](https://www.amazon.de/dp/B07VC2SPR1/?tag=redken02-21) con 44.48 de descuento por 149.9 EUR (original: 269.99 EUR) en el siguiente enlace!
+Está [EACHINE E520S Drone con Camara HD Drone 4k Drone GPS Drones con Camaras Profesional 5G WiFi FPV App Distancia de FPV de 250 m Drone Largo Tiempo de Vuelo Drone 16 Minutos Drone Plegable RC Drone](https://www.amazon.es/dp/B07VC2SPR1/?tag=redken-21) con 33.56 de descuento por 93.01 EUR (original: 139.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41gJ3k+BeyL._SL200_.jpg)](https://www.amazon.de/dp/B07VC2SPR1/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/41gJ3k+BeyL._SL200_.jpg)](https://www.amazon.es/dp/B07VC2SPR1/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07VC2SPR1/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07VC2SPR1/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

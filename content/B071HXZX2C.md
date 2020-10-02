@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.04 % en Seagate Game Drive Xbox GamePass Edition'
-date: 2020-10-01 14:50:48
+date: 2020-10-02 21:19:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WdMftSj9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WdMftSj9L._SL200_.jpg' ]
 comments: true
