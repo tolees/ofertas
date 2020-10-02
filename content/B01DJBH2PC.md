@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Parker Jotter Kensington Red bolígrafo C al 54.29 % de descuento'
-date: 2020-09-30 16:36:19
+date: 2020-10-02 10:23:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iZ6Qo3cyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iZ6Qo3cyL._SL200_.jpg' ]
 comments: true

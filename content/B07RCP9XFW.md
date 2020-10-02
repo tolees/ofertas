@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.50 % en Columbia Lake 22 Chaqueta de Plumas para'
-date: 2020-09-30 12:56:06
+date: 2020-10-02 10:35:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41msQaHJV3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41msQaHJV3L._SL200_.jpg' ]
 comments: true

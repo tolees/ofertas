@@ -14,10 +14,10 @@ comparePrice: 9.59 GBP
 inStock: true
 ---
 
-Está [Funko 33182 POP Directors J.J Abrams Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07DFB8CQ7/?tag=redken01-21) con 49.43 de descuento por 4.85 GBP (original: 9.59 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 33182 POP Directors J.J Abrams Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07DFB8CQ7/?tag=redken01-21) a 4.85 GBP (original: 9.59 GBP) (49.43 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+EwUd3YNL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFB8CQ7/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DFB8CQ7/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DFB8CQ7/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
