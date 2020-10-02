@@ -14,10 +14,10 @@ comparePrice: 8.99 GBP
 inStock: true
 ---
 
-Está [LEGO 60251 City Great Vehicles Monster Truck Toy for Kids 5+ Years Old](https://www.amazon.co.uk/dp/B07WLMSVCJ/?tag=redken01-21) con 44.38 de descuento por 5.0 GBP (original: 8.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60251 City Great Vehicles Monster Truck Toy for Kids 5+ Years Old](https://www.amazon.co.uk/dp/B07WLMSVCJ/?tag=redken01-21) a 5.0 GBP (original: 8.99 GBP) (44.38 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/517G2-WRxML._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WLMSVCJ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07WLMSVCJ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07WLMSVCJ/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

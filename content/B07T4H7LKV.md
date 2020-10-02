@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack: Another World + Flashback al 37.51 % de descuento'
-date: 2020-09-29 08:15:12
+date: 2020-10-02 08:42:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qdJTwuZGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qdJTwuZGL._SL200_.jpg' ]
 comments: true

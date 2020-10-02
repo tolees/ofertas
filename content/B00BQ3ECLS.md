@@ -14,10 +14,10 @@ comparePrice: 19.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Easy-Macro - Macro + 4 - Objetivo Macro + 4 montado sobre un Pulsera para Smartphone/Tablet - Azul](https://www.amazon.es/dp/B00BQ3ECLS/?tag=redken-21) a 13.5 EUR (original: 19.5 EUR) (30.77 %  de descuento) en el siguiente enlace!
+Está [Easy-Macro - Macro + 4 - Objetivo Macro + 4 montado sobre un Pulsera para Smartphone/Tablet - Azul](https://www.amazon.es/dp/B00BQ3ECLS/?tag=redken-21) con 30.77 de descuento por 13.5 EUR (original: 19.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31IYZyrzXcL._SL200_.jpg)](https://www.amazon.es/dp/B00BQ3ECLS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00BQ3ECLS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00BQ3ECLS/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

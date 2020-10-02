@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjesheridan Shirt L/s Camis al 41.26 % de descuento'
-date: 2020-09-30 15:44:45
+date: 2020-10-02 08:19:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/417-vLdV6LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417-vLdV6LL._SL200_.jpg' ]
 comments: true
