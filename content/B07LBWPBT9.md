@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Baby Jogger City Tour LUX   color granit al 34.52 % de descuento'
-date: 2020-02-01 03:36:42
-thumbnailImage: 'https://m.media-amazon.com/images/I/41-RbvWSzjL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41-RbvWSzjL._AC_._SL200_.jpg' ]
+title: 'Baby Jogger City Tour LUX   color granit al 49.00 % de descuento'
+date: 2020-10-02 16:27:43
+thumbnailImage: 'https://m.media-amazon.com/images/I/41-RbvWSzjL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41-RbvWSzjL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07LBWPBT9
 description:
-actualPrice: 294.0 EUR
+actualPrice: 229.0 EUR
 comparePrice: 449.0 EUR
 inStock: true
 ---
 
-Está [Baby Jogger City Tour LUX   color granito. Silla de paseo de uso desde nacimiento hasta 20 5 kg con plegado ultra compacto y muy ligero](https://www.amazon.es/dp/B07LBWPBT9/?tag=redken-21) con 34.52 de descuento por 294.0 EUR (original: 449.0 EUR) en el siguiente enlace!
+Está [Baby Jogger City Tour LUX   color granito. Silla de paseo de uso desde nacimiento hasta 20 5 kg con plegado ultra compacto y muy ligero](https://www.amazon.es/dp/B07LBWPBT9/?tag=redken-21) con 49.00 de descuento por 229.0 EUR (original: 449.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41-RbvWSzjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LBWPBT9/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41-RbvWSzjL._SL200_.jpg)](https://www.amazon.es/dp/B07LBWPBT9/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBWPBT9/?tag=redken-21)
 

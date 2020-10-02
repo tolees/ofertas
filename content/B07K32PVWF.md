@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGOO MARS Impresora 3D UV Fotocurado c al 52.38 % de descuento'
-date: 2020-09-29 12:27:52
+date: 2020-10-02 16:51:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/418tIrrSmEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418tIrrSmEL._SL200_.jpg' ]
 comments: true

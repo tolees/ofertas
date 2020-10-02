@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Euphoria Perfume con vapori al 62.97 % de descuento'
-date: 2020-09-30 12:24:10
+date: 2020-10-02 16:01:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KaiJnR60L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KaiJnR60L._SL200_.jpg' ]
 comments: true
