@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.78 % en Sedhoom 12 in 1 Affettaverdure Taglia Ve'
-date: 2020-10-01 08:21:39
+date: 2020-10-02 20:20:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yJX6YvNmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yJX6YvNmL._SL200_.jpg' ]
 comments: true

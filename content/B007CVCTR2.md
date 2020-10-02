@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BG Electrical Single Light Switch  Brush al 27.66 % de descuento'
-date: 2020-10-01 02:25:51
+date: 2020-10-02 20:32:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C4xs2Hb7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C4xs2Hb7L._SL200_.jpg' ]
 comments: true
@@ -14,10 +14,10 @@ comparePrice: 7.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BG Electrical Single Light Switch  Brushed Steel  2-Way  10AX](https://www.amazon.co.uk/dp/B007CVCTR2/?tag=redken01-21) a 5.78 GBP (original: 7.99 GBP) (27.66 %  de descuento) en el siguiente enlace!
+Está [BG Electrical Single Light Switch  Brushed Steel  2-Way  10AX](https://www.amazon.co.uk/dp/B007CVCTR2/?tag=redken01-21) con 27.66 de descuento por 5.78 GBP (original: 7.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41C4xs2Hb7L._SL200_.jpg)](https://www.amazon.co.uk/dp/B007CVCTR2/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B007CVCTR2/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B007CVCTR2/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

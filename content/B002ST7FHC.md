@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY FATMAX Tool Backpack al 32.82 % de descuento'
-date: 2020-10-01 02:33:43
+date: 2020-10-02 20:33:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y+Wn6IUkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y+Wn6IUkL._SL200_.jpg' ]
 comments: true

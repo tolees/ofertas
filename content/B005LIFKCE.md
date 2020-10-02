@@ -14,10 +14,10 @@ comparePrice: 8.16 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Microsoft Basic Optical Mouse - Black  Business Packaging ](https://www.amazon.co.uk/dp/B005LIFKCE/?tag=redken01-21) a 2.25 GBP (original: 8.16 GBP) (72.43 %  de descuento) en el siguiente enlace!
+Está [Microsoft Basic Optical Mouse - Black  Business Packaging ](https://www.amazon.co.uk/dp/B005LIFKCE/?tag=redken01-21) con 72.43 de descuento por 2.25 GBP (original: 8.16 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/314fyN5jJTL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B005LIFKCE/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B005LIFKCE/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B005LIFKCE/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

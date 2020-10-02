@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.32 % en Pentel Graphgear 1000 Draughting Pencil '
-date: 2020-10-01 02:23:37
+date: 2020-10-02 20:28:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/310YL1zkCcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310YL1zkCcL._SL200_.jpg' ]
 comments: true

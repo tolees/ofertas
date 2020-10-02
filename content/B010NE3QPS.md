@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk Ultra 64 GB microSDXC Class 10 M al 36.31 % de descuento'
-date: 2020-09-27 14:08:13
+title: 'SanDisk Ultra 64 GB microSDXC Class 10 M al 29.27 % de descuento'
+date: 2020-10-02 20:38:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XINXIXCLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XINXIXCLL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B010NE3QPS
 description:
-actualPrice: 13.12 GBP
+actualPrice: 14.57 GBP
 comparePrice: 20.6 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [SanDisk Ultra 64 GB microSDXC Class 10 Memory Card up to 48 Mbps - White/Grey](https://www.amazon.co.uk/dp/B010NE3QPS/?tag=redken01-21) a 13.12 GBP (original: 20.6 GBP) (36.31 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [SanDisk Ultra 64 GB microSDXC Class 10 Memory Card up to 48 Mbps - White/Grey](https://www.amazon.co.uk/dp/B010NE3QPS/?tag=redken01-21) a 14.57 GBP (original: 20.6 GBP) (29.27 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41XINXIXCLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B010NE3QPS/?tag=redken01-21)
 
