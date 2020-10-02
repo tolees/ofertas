@@ -14,10 +14,10 @@ comparePrice: 399.99 GBP
 inStock: true
 ---
 
-Está [NEBULA Capsule  by Anker  Smart Portable Wi-Fi Mini Projector  100 ANSI lm / 500 lm High-Contrast Pocket Cinema  DLP  360° Speaker  100" picture  Android 7.1  4-Hour Video Playtime  and App](https://www.amazon.co.uk/dp/B079NZXRWR/?tag=redken01-21) con 40.01 de descuento por 239.95 GBP (original: 399.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [NEBULA Capsule  by Anker  Smart Portable Wi-Fi Mini Projector  100 ANSI lm / 500 lm High-Contrast Pocket Cinema  DLP  360° Speaker  100" picture  Android 7.1  4-Hour Video Playtime  and App](https://www.amazon.co.uk/dp/B079NZXRWR/?tag=redken01-21) a 239.95 GBP (original: 399.99 GBP) (40.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51-XC0vpunL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B079NZXRWR/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B079NZXRWR/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B079NZXRWR/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

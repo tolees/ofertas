@@ -14,10 +14,10 @@ comparePrice: 869 GBP
 inStock: true
 ---
 
-Está [Samsung Galaxy Note 8  SM-N950F  - SIM-Free Smartphone - 64GB - Midnight Black](https://www.amazon.co.uk/dp/B0756FFZTZ/?tag=redken01-21) con 55.12 de descuento por 390 GBP (original: 869 GBP) en el siguiente enlace!
+Ahora mismo tienes [Samsung Galaxy Note 8  SM-N950F  - SIM-Free Smartphone - 64GB - Midnight Black](https://www.amazon.co.uk/dp/B0756FFZTZ/?tag=redken01-21) a 390 GBP (original: 869 GBP) (55.12 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2Bpph4DvKL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0756FFZTZ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B0756FFZTZ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B0756FFZTZ/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

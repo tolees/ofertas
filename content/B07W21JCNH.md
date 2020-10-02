@@ -14,10 +14,10 @@ comparePrice: 60.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LIGHTAILING Light Set For  Star Wars Y-Wing Starfighter  Building Blocks Model - Led Light kit Compatible With Lego 75172 NOT Included The Model ](https://www.amazon.co.uk/dp/B07W21JCNH/?tag=redken01-21) a 26.99 GBP (original: 60.0 GBP) (55.02 %  de descuento) en el siguiente enlace!
+Está [LIGHTAILING Light Set For  Star Wars Y-Wing Starfighter  Building Blocks Model - Led Light kit Compatible With Lego 75172 NOT Included The Model ](https://www.amazon.co.uk/dp/B07W21JCNH/?tag=redken01-21) con 55.02 de descuento por 26.99 GBP (original: 60.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Z5LW+8XxL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W21JCNH/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07W21JCNH/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07W21JCNH/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

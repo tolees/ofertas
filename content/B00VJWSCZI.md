@@ -14,10 +14,10 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Warner Bros Interactive Spain  VG  Lego Dimensions: Fun Pack - Lord of The Rings Gimli [Importación Inglesa]](https://www.amazon.es/dp/B00VJWSCZI/?tag=redken-21) a 10.79 EUR (original: 14.99 EUR) (28.02 %  de descuento) en el siguiente enlace!
+Está [Warner Bros Interactive Spain  VG  Lego Dimensions: Fun Pack - Lord of The Rings Gimli [Importación Inglesa]](https://www.amazon.es/dp/B00VJWSCZI/?tag=redken-21) con 28.02 de descuento por 10.79 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51iAs9FmZ0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00VJWSCZI/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00VJWSCZI/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00VJWSCZI/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
