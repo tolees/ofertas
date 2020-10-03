@@ -14,10 +14,10 @@ comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [HUAWEI WiFi WS5200 V2 AC1200 Dual Band Gigabit Wi-Fi Router  Full Gigabit Ethernet Ports  Wi-Fi Long Range  App Management  Easy Setup  Parental Control  Guest Wi-Fi  Dual Cores 800 MHz Processor](https://www.amazon.co.uk/dp/B07ZTPZCBW/?tag=redken01-21) a 29.49 GBP (original: 49.99 GBP) (41.01 %  de descuento) en el siguiente enlace!
+Está [HUAWEI WiFi WS5200 V2 AC1200 Dual Band Gigabit Wi-Fi Router  Full Gigabit Ethernet Ports  Wi-Fi Long Range  App Management  Easy Setup  Parental Control  Guest Wi-Fi  Dual Cores 800 MHz Processor](https://www.amazon.co.uk/dp/B07ZTPZCBW/?tag=redken01-21) con 41.01 de descuento por 29.49 GBP (original: 49.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31xlyPzZyzL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07ZTPZCBW/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07ZTPZCBW/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07ZTPZCBW/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

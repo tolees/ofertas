@@ -14,10 +14,10 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GRIFEMA GRIFERÍA DE COCINA-G4003 3 in1 Kitchen Mixer Tap with Drinking Filtered Water Outlet  Dual Lever Water Sink Tap  3/8 Inch Hose  Chrome](https://www.amazon.co.uk/dp/B07L8CKQFK/?tag=redken01-21) a 44.32 GBP (original: 59.99 GBP) (26.12 %  de descuento) en el siguiente enlace!
+Está [GRIFEMA GRIFERÍA DE COCINA-G4003 3 in1 Kitchen Mixer Tap with Drinking Filtered Water Outlet  Dual Lever Water Sink Tap  3/8 Inch Hose  Chrome](https://www.amazon.co.uk/dp/B07L8CKQFK/?tag=redken01-21) con 26.12 de descuento por 44.32 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31XIKOcTGKL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07L8CKQFK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07L8CKQFK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07L8CKQFK/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 9.22 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 37286 POP Vinyl: Icons Dr. Seuss  Multi](https://www.amazon.co.uk/dp/B07KPTZ9XX/?tag=redken01-21) a 6.18 GBP (original: 9.22 GBP) (32.97 %  de descuento) en el siguiente enlace!
+Está [Funko 37286 POP Vinyl: Icons Dr. Seuss  Multi](https://www.amazon.co.uk/dp/B07KPTZ9XX/?tag=redken01-21) con 32.97 de descuento por 6.18 GBP (original: 9.22 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4103jfoWT4L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KPTZ9XX/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07KPTZ9XX/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KPTZ9XX/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

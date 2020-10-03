@@ -14,10 +14,10 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Está [MisterCraft D de 216 - Maqueta de devoitine D de 520 cl](https://www.amazon.es/dp/B01LZDCMKV/?tag=redken-21) con 49.90 de descuento por 13.02 EUR (original: 25.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [MisterCraft D de 216 - Maqueta de devoitine D de 520 cl](https://www.amazon.es/dp/B01LZDCMKV/?tag=redken-21) a 13.02 EUR (original: 25.99 EUR) (49.90 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL200_.jpg)](https://www.amazon.es/dp/B01LZDCMKV/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01LZDCMKV/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01LZDCMKV/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

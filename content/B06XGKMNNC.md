@@ -14,10 +14,10 @@ comparePrice: 7.01 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GOW 12188 S2 Funko-Pop Games Gears of War Marcus Fenix  Old Man /Toys  Multi](https://www.amazon.co.uk/dp/B06XGKMNNC/?tag=redken01-21) a 4.79 GBP (original: 7.01 GBP) (31.67 %  de descuento) en el siguiente enlace!
+Está [GOW 12188 S2 Funko-Pop Games Gears of War Marcus Fenix  Old Man /Toys  Multi](https://www.amazon.co.uk/dp/B06XGKMNNC/?tag=redken01-21) con 31.67 de descuento por 4.79 GBP (original: 7.01 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41IZD14GfOL._SL200_.jpg)](https://www.amazon.co.uk/dp/B06XGKMNNC/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B06XGKMNNC/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06XGKMNNC/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

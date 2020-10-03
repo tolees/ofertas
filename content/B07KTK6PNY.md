@@ -14,10 +14,10 @@ comparePrice: 89.99 GBP
 inStock: true
 ---
 
-Está [LEGO 70678 NINJAGO Castle of the Forsaken Emperor Set with Ice Dragon Toy  Masters of Spinjitzu Playset](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21) con 31.55 de descuento por 61.6 GBP (original: 89.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 70678 NINJAGO Castle of the Forsaken Emperor Set with Ice Dragon Toy  Masters of Spinjitzu Playset](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21) a 61.6 GBP (original: 89.99 GBP) (31.55 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51pwzg-mcJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

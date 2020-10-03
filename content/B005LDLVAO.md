@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial CT2KIT51264BF160B Kit de memoria al 33.55 % de descuento'
-date: 2020-09-29 13:53:30
+date: 2020-10-03 07:30:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51K3JqmalCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51K3JqmalCL._SL200_.jpg' ]
 comments: true
