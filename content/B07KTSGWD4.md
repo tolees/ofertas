@@ -14,10 +14,10 @@ comparePrice: 84.99 GBP
 inStock: true
 ---
 
-Está [LEGO 41381 Friends Rescue Mission Boat and Lego Island Toy for Kids with Olivia  Andrea and Mia Mini Dolls  plus Robot and Whale Figures  Sea Life Rescue Series](https://www.amazon.co.uk/dp/B07KTSGWD4/?tag=redken01-21) con 29.42 de descuento por 59.99 GBP (original: 84.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 41381 Friends Rescue Mission Boat and Lego Island Toy for Kids with Olivia  Andrea and Mia Mini Dolls  plus Robot and Whale Figures  Sea Life Rescue Series](https://www.amazon.co.uk/dp/B07KTSGWD4/?tag=redken01-21) a 59.99 GBP (original: 84.99 GBP) (29.42 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/519jtFTryGL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTSGWD4/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KTSGWD4/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KTSGWD4/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
