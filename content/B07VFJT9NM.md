@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech M350 PEBBLE Ratón Inalámbrico   al 26.97 % de descuento'
-date: 2020-09-28 08:48:25
+date: 2020-10-03 16:30:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/312ywC2cBOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312ywC2cBOL._SL200_.jpg' ]
 comments: true
