@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel Brush Pen - Black al 42.05 % de descuento'
-date: 2020-10-02 20:30:36
+date: 2020-10-03 20:45:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/319xdiYE+wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319xdiYE+wL._SL200_.jpg' ]
 comments: true
