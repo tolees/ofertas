@@ -14,10 +14,10 @@ comparePrice: 4.99 GBP
 inStock: true
 ---
 
-Está [Journeys Into Night: Remarkable first-hand accounts from the Bomber Command](https://www.amazon.co.uk/dp/B07DXSHSN2/?tag=redken01-21) con 40.08 de descuento por 2.99 GBP (original: 4.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Journeys Into Night: Remarkable first-hand accounts from the Bomber Command](https://www.amazon.co.uk/dp/B07DXSHSN2/?tag=redken01-21) a 2.99 GBP (original: 4.99 GBP) (40.08 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51k6Jpi-YXL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DXSHSN2/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DXSHSN2/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DXSHSN2/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
