@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Descuento del 27.42 % en LEGO NINJAGO 70668 - Jays Donner-Jet mit'
-date: 2020-10-02 09:00:16
-thumbnailImage: 'https://m.media-amazon.com/images/I/51B3LFejy6L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51B3LFejy6L._SL200_.jpg' ]
+title: 'Descuento del 29.98 % en LEGO 70668 Ninjago Legacy Jay’s Storm Fi'
+date: 2020-03-25 16:35:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/51231gmzPWL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51231gmzPWL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FNTTF3B
 description:
-actualPrice: 28.29 EUR
-comparePrice: 38.98 EUR
+actualPrice: 24.5 GBP
+comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO NINJAGO 70668 - Jays Donner-Jet mit Minifiguren](https://www.amazon.de/dp/B07FNTTF3B/?tag=redken02-21) con un 27.42 % de descuento con precio de oferta de 28.29 EUR (original: 38.98 EUR) en el siguiente enlace!
+Tienes [LEGO 70668 Ninjago Legacy Jay’s Storm Fighter Building Kit  Colourful](https://www.amazon.co.uk/dp/B07FNTTF3B/?tag=redken01-21) con un 29.98 % de descuento con precio de oferta de 24.5 GBP (original: 34.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51B3LFejy6L._SL200_.jpg)](https://www.amazon.de/dp/B07FNTTF3B/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51231gmzPWL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNTTF3B/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07FNTTF3B/?tag=redken02-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07FNTTF3B/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 800.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony STR-DN1080 - Receptor AV de Cine en casa  7.2.1 Canales  165 W por Canal  Dolby Atmos  DTS:X  Bluetooth  NFC  Wi-fi  Airplay  Chromecast  Compatible con 4K Ultra HD y HDR  Color Negro](https://www.amazon.es/dp/B01N7PFFHK/?tag=redken-21) a 520.0 EUR (original: 800.0 EUR) (35.00 %  de descuento) en el siguiente enlace!
+Está [Sony STR-DN1080 - Receptor AV de Cine en casa  7.2.1 Canales  165 W por Canal  Dolby Atmos  DTS:X  Bluetooth  NFC  Wi-fi  Airplay  Chromecast  Compatible con 4K Ultra HD y HDR  Color Negro](https://www.amazon.es/dp/B01N7PFFHK/?tag=redken-21) con 35.00 de descuento por 520.0 EUR (original: 800.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31wJ0TxuzbL._SL200_.jpg)](https://www.amazon.es/dp/B01N7PFFHK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01N7PFFHK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N7PFFHK/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
