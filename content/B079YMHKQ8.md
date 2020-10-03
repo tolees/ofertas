@@ -14,10 +14,10 @@ comparePrice: 10.38 GBP
 inStock: true
 ---
 
-Está [Funko- Star Wars: QI RA Figurine  241  Standard](https://www.amazon.co.uk/dp/B079YMHKQ8/?tag=redken01-21) con 61.18 de descuento por 4.03 GBP (original: 10.38 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko- Star Wars: QI RA Figurine  241  Standard](https://www.amazon.co.uk/dp/B079YMHKQ8/?tag=redken01-21) a 4.03 GBP (original: 10.38 GBP) (61.18 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31iSGoYxsuL._SL200_.jpg)](https://www.amazon.co.uk/dp/B079YMHKQ8/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B079YMHKQ8/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B079YMHKQ8/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

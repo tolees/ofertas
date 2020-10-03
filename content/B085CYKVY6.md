@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Braun Series 6 60-N4820cs Afeitadora Elé al 29.65 % de descuento'
+date: 2020-10-03 10:26:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Yl7Cfm8oL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Yl7Cfm8oL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B085CYKVY6
+description:
+actualPrice: 139.99 EUR
+comparePrice: 199.0 EUR
+inStock: true
+---
+
+Está [Braun Series 6 60-N4820cs Afeitadora Eléctrica  máquina de afeitar barba hombre de lámina  Con Base De Carga  2 Accesorios  EasyClick  Uso En Seco Y Mojado  Recargable  Inalámbrica  Gris](https://www.amazon.es/dp/B085CYKVY6/?tag=redken-21) con 29.65 de descuento por 139.99 EUR (original: 199.0 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/51Yl7Cfm8oL._SL200_.jpg)](https://www.amazon.es/dp/B085CYKVY6/?tag=redken-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B085CYKVY6/?tag=redken-21)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
