@@ -14,10 +14,10 @@ comparePrice: 519.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tamron T62001 - Teleconvertidor 1.4X para Canon  Negro](https://www.amazon.es/dp/B01LCFBNSY/?tag=redken-21) a 322.54 EUR (original: 519.0 EUR) (37.85 %  de descuento) en el siguiente enlace!
+Está [Tamron T62001 - Teleconvertidor 1.4X para Canon  Negro](https://www.amazon.es/dp/B01LCFBNSY/?tag=redken-21) con 37.85 de descuento por 322.54 EUR (original: 519.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41G6sMPTxjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01LCFBNSY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01LCFBNSY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LCFBNSY/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

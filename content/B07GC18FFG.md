@@ -14,10 +14,10 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Jungen Boy Star WARS-CM-50240-CAP Kappe  Schwarz  Black 995   54](https://www.amazon.de/dp/B07GC18FFG/?tag=redken02-21) a 8.99 EUR (original: 17.95 EUR) (49.92 %  de descuento) en el siguiente enlace!
+Está [LEGO Jungen Boy Star WARS-CM-50240-CAP Kappe  Schwarz  Black 995   54](https://www.amazon.de/dp/B07GC18FFG/?tag=redken02-21) con 49.92 de descuento por 8.99 EUR (original: 17.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/411afw2WZHL._SL200_.jpg)](https://www.amazon.de/dp/B07GC18FFG/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07GC18FFG/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07GC18FFG/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
