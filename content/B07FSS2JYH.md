@@ -14,10 +14,10 @@ comparePrice: 1259.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung SM-N960F/DS Galaxy Note9  6.4"  8 GB RAM  512GB Memoria  8MP Camara  Azul  Ocean Blue ](https://www.amazon.es/dp/B07FSS2JYH/?tag=redken-21) a 769.0 EUR (original: 1259.0 EUR) (38.92 %  de descuento) en el siguiente enlace!
+Está [Samsung SM-N960F/DS Galaxy Note9  6.4"  8 GB RAM  512GB Memoria  8MP Camara  Azul  Ocean Blue ](https://www.amazon.es/dp/B07FSS2JYH/?tag=redken-21) con 38.92 de descuento por 769.0 EUR (original: 1259.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41iF7TYn4-L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FSS2JYH/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FSS2JYH/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FSS2JYH/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

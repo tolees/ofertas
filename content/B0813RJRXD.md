@@ -14,10 +14,10 @@ comparePrice: 28.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60264 City Sottomarino da esplorazione oceanica  Avventure acquatiche per i bambini](https://www.amazon.it/dp/B0813RJRXD/?tag=redken03-21) a 18.59 EUR (original: 28.49 EUR) (34.75 %  de descuento) en el siguiente enlace!
+Está [LEGO 60264 City Sottomarino da esplorazione oceanica  Avventure acquatiche per i bambini](https://www.amazon.it/dp/B0813RJRXD/?tag=redken03-21) con 34.75 de descuento por 18.59 EUR (original: 28.49 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51EhKdJl66L._SL200_.jpg)](https://www.amazon.it/dp/B0813RJRXD/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B0813RJRXD/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B0813RJRXD/?tag=redken03-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
