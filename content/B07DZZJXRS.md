@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.00 % en Levi s Turner  Zapatillas para Hombre  A'
-date: 2020-10-02 13:43:02
+date: 2020-10-03 14:17:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vPiayTYlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vPiayTYlL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Actualizado] PRUNUS J-189 Am/FM Radio P al 40.02 % de descuento'
-date: 2020-10-01 13:44:46
+date: 2020-10-03 14:22:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ouz7kJplL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ouz7kJplL._SL200_.jpg' ]
 comments: true

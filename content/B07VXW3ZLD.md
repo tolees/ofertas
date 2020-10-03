@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XDSP Pantalón Corto para Hombre Pantalon al 30.29 % de descuento'
-date: 2020-10-02 07:55:03
+date: 2020-10-03 14:40:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qw8JYT4BL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qw8JYT4BL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 21.94 EUR
 inStock: true
 ---
 
-Está [Smint Tin Menta  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr.  Total 420 gr. ](https://www.amazon.es/dp/B00GUJ5S3Y/?tag=redken-21) con 30.31 de descuento por 15.29 EUR (original: 21.94 EUR) en el siguiente enlace!
+Ahora mismo tienes [Smint Tin Menta  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr.  Total 420 gr. ](https://www.amazon.es/dp/B00GUJ5S3Y/?tag=redken-21) a 15.29 EUR (original: 21.94 EUR) (30.31 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51+gUB6QzEL._SL200_.jpg)](https://www.amazon.es/dp/B00GUJ5S3Y/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00GUJ5S3Y/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00GUJ5S3Y/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
