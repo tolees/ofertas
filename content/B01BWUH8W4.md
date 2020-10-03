@@ -14,10 +14,10 @@ comparePrice: 119.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [tado° Smart Thermostat - Add-on for Multi-Room Control  Intelligent Heating Control](https://www.amazon.co.uk/dp/B01BWUH8W4/?tag=redken01-21) a 74.98 GBP (original: 119.99 GBP) (37.51 %  de descuento) en el siguiente enlace!
+Está [tado° Smart Thermostat - Add-on for Multi-Room Control  Intelligent Heating Control](https://www.amazon.co.uk/dp/B01BWUH8W4/?tag=redken01-21) con 37.51 de descuento por 74.98 GBP (original: 119.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21eSQWddKWL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01BWUH8W4/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01BWUH8W4/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01BWUH8W4/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
