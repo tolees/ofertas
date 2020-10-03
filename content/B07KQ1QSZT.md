@@ -14,10 +14,10 @@ comparePrice: 139.99 GBP
 inStock: true
 ---
 
-Está [LEGO MOVIE 2 70839 The Rexcelsior! Rex and Emmet s Spaceship Set with 5 Dinosaur Microfigures](https://www.amazon.co.uk/dp/B07KQ1QSZT/?tag=redken01-21) con 32.17 de descuento por 94.95 GBP (original: 139.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO MOVIE 2 70839 The Rexcelsior! Rex and Emmet s Spaceship Set with 5 Dinosaur Microfigures](https://www.amazon.co.uk/dp/B07KQ1QSZT/?tag=redken01-21) a 94.95 GBP (original: 139.99 GBP) (32.17 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51dsGllBGPL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KQ1QSZT/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KQ1QSZT/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KQ1QSZT/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

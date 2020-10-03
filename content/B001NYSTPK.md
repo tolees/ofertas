@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 56.04 % en KS Tools 917.1217 1/2" CLASSIC Sechskant'
+title: 'KS Tools 917.1217 1/2" CLASSIC Sechskant al 56.04 % de descuento'
 date: 2020-04-11 08:10:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nlY9-b4xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nlY9-b4xL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 7.12 EUR
 inStock: true
 ---
 
-Tienes [KS Tools 917.1217 1/2" CLASSIC Sechskant-Stecknuss  17mm](https://www.amazon.de/dp/B001NYSTPK/?tag=redken02-21) con un 56.04 % de descuento con precio de oferta de 3.13 EUR (original: 7.12 EUR) en el siguiente enlace!
+Está [KS Tools 917.1217 1/2" CLASSIC Sechskant-Stecknuss  17mm](https://www.amazon.de/dp/B001NYSTPK/?tag=redken02-21) con 56.04 de descuento por 3.13 EUR (original: 7.12 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41nlY9-b4xL._SL200_.jpg)](https://www.amazon.de/dp/B001NYSTPK/?tag=redken02-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B001NYSTPK/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B001NYSTPK/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

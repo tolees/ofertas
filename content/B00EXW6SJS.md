@@ -14,10 +14,10 @@ comparePrice: 61.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Versace Eros Eau de Toilette Vaporizador 50 ml](https://www.amazon.es/dp/B00EXW6SJS/?tag=redken-21) a 37.76 EUR (original: 61.5 EUR) (38.60 %  de descuento) en el siguiente enlace!
+Está [Versace Eros Eau de Toilette Vaporizador 50 ml](https://www.amazon.es/dp/B00EXW6SJS/?tag=redken-21) con 38.60 de descuento por 37.76 EUR (original: 61.5 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41cWxkryjWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00EXW6SJS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00EXW6SJS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00EXW6SJS/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
