@@ -14,10 +14,10 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Far Cry 5 - Standard Edition | Código Uplay para PC](https://www.amazon.es/dp/B07NC6DWNG/?tag=redken-21) a 15 EUR (original: 59.99 EUR) (75.00 %  de descuento) en el siguiente enlace!
+Está [Far Cry 5 - Standard Edition | Código Uplay para PC](https://www.amazon.es/dp/B07NC6DWNG/?tag=redken-21) con 75.00 de descuento por 15 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ZVLC6ch3L._SL200_.jpg)](https://www.amazon.es/dp/B07NC6DWNG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NC6DWNG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NC6DWNG/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

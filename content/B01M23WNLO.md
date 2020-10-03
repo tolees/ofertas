@@ -14,10 +14,10 @@ comparePrice: 11.47 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Inferno  Angels and Demons and The Da Vinci Code  [DVD] [2016]](https://www.amazon.co.uk/dp/B01M23WNLO/?tag=redken01-21) a 6.99 GBP (original: 11.47 GBP) (39.06 %  de descuento) en el siguiente enlace!
+Está [Inferno  Angels and Demons and The Da Vinci Code  [DVD] [2016]](https://www.amazon.co.uk/dp/B01M23WNLO/?tag=redken01-21) con 39.06 de descuento por 6.99 GBP (original: 11.47 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51O8+33T6VL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01M23WNLO/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01M23WNLO/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01M23WNLO/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

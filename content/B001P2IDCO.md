@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revlon Super Lustrous Pintalabios  Certa al 71.37 % de descuento'
-date: 2020-10-01 09:44:55
+date: 2020-10-03 06:48:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cORySWD2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cORySWD2L._SL200_.jpg' ]
 comments: true
