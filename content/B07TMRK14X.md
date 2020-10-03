@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 55.56 % en Clarks Un Rio Lace  Zapatillas  Gris  St'
-date: 2020-10-01 17:56:40
+title: 'Descuento del 54.45 % en Clarks Un Rio Lace  Zapatillas  Gris  St'
+date: 2020-10-03 17:03:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TmLY0tcDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TmLY0tcDL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TMRK14X
 description:
-actualPrice: 48.88 EUR
+actualPrice: 50.11 EUR
 comparePrice: 110.0 EUR
 inStock: true
 ---
 
-Tienes [Clarks Un Rio Lace  Zapatillas  Gris  Stone Leather Stone Leather   41 EU](https://www.amazon.es/dp/B07TMRK14X/?tag=redken-21) con un 55.56 % de descuento con precio de oferta de 48.88 EUR (original: 110.0 EUR) en el siguiente enlace!
+Tienes [Clarks Un Rio Lace  Zapatillas  Gris  Stone Leather Stone Leather   41 EU](https://www.amazon.es/dp/B07TMRK14X/?tag=redken-21) con un 54.45 % de descuento con precio de oferta de 50.11 EUR (original: 110.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41TmLY0tcDL._SL200_.jpg)](https://www.amazon.es/dp/B07TMRK14X/?tag=redken-21)
 

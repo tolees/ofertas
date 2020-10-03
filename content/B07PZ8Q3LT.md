@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I Want You Gone: A psychological thrille al 50.25 % de descuento'
+title: 'Descuento del 50.25 % en I Want You Gone: A psychological thrille'
 date: 2020-04-16 06:58:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pYev2u0fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pYev2u0fL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 1.99 GBP
 inStock: true
 ---
 
-Está [I Want You Gone: A psychological thriller with a nerve-shredding twist](https://www.amazon.co.uk/dp/B07PZ8Q3LT/?tag=redken01-21) con 50.25 de descuento por 0.99 GBP (original: 1.99 GBP) en el siguiente enlace!
+Tienes [I Want You Gone: A psychological thriller with a nerve-shredding twist](https://www.amazon.co.uk/dp/B07PZ8Q3LT/?tag=redken01-21) con un 50.25 % de descuento con precio de oferta de 0.99 GBP (original: 1.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51pYev2u0fL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PZ8Q3LT/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PZ8Q3LT/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07PZ8Q3LT/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
