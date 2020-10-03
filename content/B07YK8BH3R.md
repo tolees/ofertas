@@ -14,10 +14,10 @@ comparePrice: 22.61 EUR
 inStock: true
 ---
 
-Está [EKKONG Scratch Art Manualidades para Niños  48PCS Scratch Láminas Dinosaurios para Rascar Creativas Dibujar con 24 Lápices de Madera y 48 Cintas  para Cumpleaños Fiestas  Accesorios Dinosaurios](https://www.amazon.es/dp/B07YK8BH3R/?tag=redken-21) con 42.55 de descuento por 12.99 EUR (original: 22.61 EUR) en el siguiente enlace!
+Ahora mismo tienes [EKKONG Scratch Art Manualidades para Niños  48PCS Scratch Láminas Dinosaurios para Rascar Creativas Dibujar con 24 Lápices de Madera y 48 Cintas  para Cumpleaños Fiestas  Accesorios Dinosaurios](https://www.amazon.es/dp/B07YK8BH3R/?tag=redken-21) a 12.99 EUR (original: 22.61 EUR) (42.55 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/515gxlWnOkL._SL200_.jpg)](https://www.amazon.es/dp/B07YK8BH3R/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07YK8BH3R/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07YK8BH3R/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
