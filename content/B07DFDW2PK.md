@@ -14,10 +14,10 @@ comparePrice: 10.09 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 32234 POP Vinyl: Altered Beasts: 8-Bit Greek Warrior  Werewolf   Multi](https://www.amazon.co.uk/dp/B07DFDW2PK/?tag=redken01-21) a 7.48 GBP (original: 10.09 GBP) (25.87 %  de descuento) en el siguiente enlace!
+Está [Funko 32234 POP Vinyl: Altered Beasts: 8-Bit Greek Warrior  Werewolf   Multi](https://www.amazon.co.uk/dp/B07DFDW2PK/?tag=redken01-21) con 25.87 de descuento por 7.48 GBP (original: 10.09 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51CcJB4JoxL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFDW2PK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07DFDW2PK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DFDW2PK/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

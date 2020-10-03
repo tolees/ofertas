@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr Wonderful Batería Externa 6000 mAh -  al 63.08 % de descuento'
-date: 2020-10-01 19:56:29
+date: 2020-10-03 01:44:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WD67nYn6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WD67nYn6L._SL200_.jpg' ]
 comments: true

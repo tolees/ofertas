@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VATOS Juegos de Lógica Niños Adultos Ste al 61.80 % de descuento'
-date: 2020-10-01 19:54:37
+date: 2020-10-03 01:50:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51m-szDrwKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51m-szDrwKL._SL200_.jpg' ]
 comments: true
