@@ -14,10 +14,10 @@ comparePrice: 15.58 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ROSENICE Azulejos de mosaico mezclados para manualidades Cristal Mosaico suministra 10mm 200g](https://www.amazon.es/dp/B078BJBYLG/?tag=redken-21) a 7.79 EUR (original: 15.58 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [ROSENICE Azulejos de mosaico mezclados para manualidades Cristal Mosaico suministra 10mm 200g](https://www.amazon.es/dp/B078BJBYLG/?tag=redken-21) con 50.00 de descuento por 7.79 EUR (original: 15.58 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51XtyczXBkL._SL200_.jpg)](https://www.amazon.es/dp/B078BJBYLG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078BJBYLG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078BJBYLG/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

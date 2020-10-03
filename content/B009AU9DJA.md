@@ -14,10 +14,10 @@ comparePrice: 310.0 GBP
 inStock: true
 ---
 
-Está [Sony SELP1650 E Mount  - APS-C 16-50mm F3.5-5.6 Zoom Lens](https://www.amazon.co.uk/dp/B009AU9DJA/?tag=redken01-21) con 43.55 de descuento por 175.0 GBP (original: 310.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Sony SELP1650 E Mount  - APS-C 16-50mm F3.5-5.6 Zoom Lens](https://www.amazon.co.uk/dp/B009AU9DJA/?tag=redken01-21) a 175.0 GBP (original: 310.0 GBP) (43.55 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31nL-3BPxBL._SL200_.jpg)](https://www.amazon.co.uk/dp/B009AU9DJA/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B009AU9DJA/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B009AU9DJA/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
