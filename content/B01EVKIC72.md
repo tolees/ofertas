@@ -14,10 +14,10 @@ comparePrice: 3.97 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Our Kind Of Traitor [Blu-ray] [2016]](https://www.amazon.co.uk/dp/B01EVKIC72/?tag=redken01-21) a 2.01 GBP (original: 3.97 GBP) (49.37 %  de descuento) en el siguiente enlace!
+Está [Our Kind Of Traitor [Blu-ray] [2016]](https://www.amazon.co.uk/dp/B01EVKIC72/?tag=redken01-21) con 49.37 de descuento por 2.01 GBP (original: 3.97 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Wqtj9dSwL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01EVKIC72/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01EVKIC72/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01EVKIC72/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

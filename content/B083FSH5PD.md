@@ -14,10 +14,10 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Está [BRIKSMAX Led Lighting Kit for LEGO Friends Heartlake Pizzeria Compatible with LEGO 41311 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B083FSH5PD/?tag=redken01-21) con 80.01 de descuento por 19.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Friends Heartlake Pizzeria Compatible with LEGO 41311 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B083FSH5PD/?tag=redken01-21) a 19.99 GBP (original: 99.99 GBP) (80.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51bQF4sJzvL._SL200_.jpg)](https://www.amazon.co.uk/dp/B083FSH5PD/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B083FSH5PD/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B083FSH5PD/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sport Direct Mega Bright Twin LED Bike Lights](https://www.amazon.co.uk/dp/B001MTLZR0/?tag=redken01-21) a 4.99 GBP (original: 14.99 GBP) (66.71 %  de descuento) en el siguiente enlace!
+Está [Sport Direct Mega Bright Twin LED Bike Lights](https://www.amazon.co.uk/dp/B001MTLZR0/?tag=redken01-21) con 66.71 de descuento por 4.99 GBP (original: 14.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/416SNMLS2mL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B001MTLZR0/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B001MTLZR0/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B001MTLZR0/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
