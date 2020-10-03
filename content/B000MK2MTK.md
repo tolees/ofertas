@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.27 % en Fellowes 8036701 - Soporte de regazo par'
-date: 2020-10-01 18:45:19
+date: 2020-10-03 15:14:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lDx49WMaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lDx49WMaL._SL200_.jpg' ]
 comments: true

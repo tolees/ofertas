@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smart Air Purifier 3H Luftreinige al 45.78 % de descuento'
-date: 2020-10-02 08:42:00
+date: 2020-10-03 15:09:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JCUAwpx9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JCUAwpx9L._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 1.4 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Purina Adventuros Sticks Dog Treats Buffalo Flavour  120g](https://www.amazon.co.uk/dp/B014PCS6UO/?tag=redken01-21) a 1.0 GBP (original: 1.4 GBP) (28.57 %  de descuento) en el siguiente enlace!
+Está [Purina Adventuros Sticks Dog Treats Buffalo Flavour  120g](https://www.amazon.co.uk/dp/B014PCS6UO/?tag=redken01-21) con 28.57 de descuento por 1.0 GBP (original: 1.4 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NyVOY0czL._SL200_.jpg)](https://www.amazon.co.uk/dp/B014PCS6UO/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B014PCS6UO/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B014PCS6UO/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
