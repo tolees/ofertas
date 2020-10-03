@@ -14,10 +14,10 @@ comparePrice: 55.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Berghaus  Arrow Men s Outdoor  Backpack available in Evening Blue/Dark Cerise - 30 Litres](https://www.amazon.co.uk/dp/B00QYD8SOW/?tag=redken01-21) a 32.8 GBP (original: 55.0 GBP) (40.36 %  de descuento) en el siguiente enlace!
+Está [Berghaus  Arrow Men s Outdoor  Backpack available in Evening Blue/Dark Cerise - 30 Litres](https://www.amazon.co.uk/dp/B00QYD8SOW/?tag=redken01-21) con 40.36 de descuento por 32.8 GBP (original: 55.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/419xiHqjv2L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00QYD8SOW/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00QYD8SOW/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00QYD8SOW/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
