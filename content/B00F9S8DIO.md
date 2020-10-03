@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.57 % en Eagle Creek Pack-It Original Cube Packta'
-date: 2020-10-02 13:03:33
+date: 2020-10-03 19:08:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51V89kuGwwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51V89kuGwwL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 1.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [ENMITY: An enthralling Scottish murder mystery  Detective Inspector Munro murder mysteries Book 3 ](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21) a 0.99 GBP (original: 1.99 GBP) (50.25 %  de descuento) en el siguiente enlace!
+Está [ENMITY: An enthralling Scottish murder mystery  Detective Inspector Munro murder mysteries Book 3 ](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21) con 50.25 de descuento por 0.99 GBP (original: 1.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51WT6xdyTKL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
