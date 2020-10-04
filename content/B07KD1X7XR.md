@@ -14,10 +14,10 @@ comparePrice: 783.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung Galaxy Note 8 Single SIM 64GB 6.3-Inch Android UK Version Sim-Free Smartphone - Midnight Black with 64GB Memory Card  Amazon Memory Edition ](https://www.amazon.co.uk/dp/B07KD1X7XR/?tag=redken01-21) a 470.0 GBP (original: 783.99 GBP) (40.05 %  de descuento) en el siguiente enlace!
+Está [Samsung Galaxy Note 8 Single SIM 64GB 6.3-Inch Android UK Version Sim-Free Smartphone - Midnight Black with 64GB Memory Card  Amazon Memory Edition ](https://www.amazon.co.uk/dp/B07KD1X7XR/?tag=redken01-21) con 40.05 de descuento por 470.0 GBP (original: 783.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Hd4BaHE6L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KD1X7XR/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07KD1X7XR/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KD1X7XR/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

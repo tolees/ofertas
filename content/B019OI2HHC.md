@@ -14,10 +14,10 @@ comparePrice: 14.98 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Dracula Untold [Blu-ray]](https://www.amazon.com/dp/B019OI2HHC/?tag=redken08-20) a 3.99 USD (original: 14.98 USD) (73.36 %  de descuento) en el siguiente enlace!
+Está [Dracula Untold [Blu-ray]](https://www.amazon.com/dp/B019OI2HHC/?tag=redken08-20) con 73.36 de descuento por 3.99 USD (original: 14.98 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51HOFVFPQ-L._SL200_.jpg)](https://www.amazon.com/dp/B019OI2HHC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B019OI2HHC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B019OI2HHC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
