@@ -14,10 +14,10 @@ comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Está [Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex  Multi  one Size](https://www.amazon.de/dp/B0777TNHLM/?tag=redken02-21) con 50.54 de descuento por 6.92 EUR (original: 13.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex  Multi  one Size](https://www.amazon.de/dp/B0777TNHLM/?tag=redken02-21) a 6.92 EUR (original: 13.99 EUR) (50.54 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/310fMT9nM3L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0777TNHLM/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B0777TNHLM/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B0777TNHLM/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

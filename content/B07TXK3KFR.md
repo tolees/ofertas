@@ -14,10 +14,10 @@ comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Vtech 80-505973 Chase me Casey  Multicolour](https://www.amazon.co.uk/dp/B07TXK3KFR/?tag=redken01-21) a 14.99 GBP (original: 39.99 GBP) (62.52 %  de descuento) en el siguiente enlace!
+Está [Vtech 80-505973 Chase me Casey  Multicolour](https://www.amazon.co.uk/dp/B07TXK3KFR/?tag=redken01-21) con 62.52 de descuento por 14.99 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41w9mXUXznL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07TXK3KFR/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07TXK3KFR/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07TXK3KFR/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
