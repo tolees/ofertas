@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY STST1-73615 - Bolsa para herrami al 39.80 % de descuento'
-date: 2020-09-26 01:15:22
+date: 2020-10-04 09:30:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/413JNCuKaSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413JNCuKaSL._SL200_.jpg' ]
 comments: true
@@ -14,10 +14,10 @@ comparePrice: 24.9 EUR
 inStock: true
 ---
 
-Está [STANLEY STST1-73615 - Bolsa para herramientas profunda de tapa plana 14" / 34 cm](https://www.amazon.com/dp/B00PLS6I9S/?tag=redken08-20) con 39.80 de descuento por 14.99 EUR (original: 24.9 EUR) en el siguiente enlace!
+Está [STANLEY STST1-73615 - Bolsa para herramientas profunda de tapa plana 14" / 34 cm](https://www.amazon.es/dp/B00PLS6I9S/?tag=redken-21) con 39.80 de descuento por 14.99 EUR (original: 24.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/413JNCuKaSL._SL200_.jpg)](https://www.amazon.com/dp/B00PLS6I9S/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/413JNCuKaSL._SL200_.jpg)](https://www.amazon.es/dp/B00PLS6I9S/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00PLS6I9S/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.es/dp/B00PLS6I9S/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

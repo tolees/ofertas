@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Bond Daniel Craig Blu-Ray [Blu-ray] al 29.50 % de descuento'
-date: 2020-10-03 07:53:51
+date: 2020-10-04 09:31:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O1BuTWC3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O1BuTWC3L._SL200_.jpg' ]
 comments: true
