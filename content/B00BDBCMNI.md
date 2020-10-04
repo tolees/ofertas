@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio fx-300ES PLUS Scientific Calculato al 46.11 % de descuento'
-date: 2020-10-02 04:57:25
+date: 2020-10-04 12:54:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uqoqlgUGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uqoqlgUGL._SL200_.jpg' ]
 comments: true

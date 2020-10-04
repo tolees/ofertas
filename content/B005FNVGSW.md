@@ -14,10 +14,10 @@ comparePrice: 10.95 GBP
 inStock: true
 ---
 
-Está [Palmers Cocoa Butter Scented Moisturizing Lotion/Pump Bottle  400 ml](https://www.amazon.co.uk/dp/B005FNVGSW/?tag=redken01-21) con 28.77 de descuento por 7.8 GBP (original: 10.95 GBP) en el siguiente enlace!
+Ahora mismo tienes [Palmers Cocoa Butter Scented Moisturizing Lotion/Pump Bottle  400 ml](https://www.amazon.co.uk/dp/B005FNVGSW/?tag=redken01-21) a 7.8 GBP (original: 10.95 GBP) (28.77 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ae34hDlbL._SL200_.jpg)](https://www.amazon.co.uk/dp/B005FNVGSW/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B005FNVGSW/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B005FNVGSW/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
