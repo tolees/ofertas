@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony SEL70300G zoom  FE 70-300 mm F4 5-5 al 34.08 % de descuento'
-date: 2020-09-29 05:48:34
+title: 'Sony SEL-70300G G Tele-Zoom Objektiv  70 al 38.98 % de descuento'
+date: 2020-03-22 11:07:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B01DLMD7DK
 description:
-actualPrice: 988.79 EUR
-comparePrice: 1500.0 EUR
+actualPrice: 740.0 EUR
+comparePrice: 1212.67 EUR
 inStock: true
 ---
 
-Está [Sony SEL70300G zoom  FE 70-300 mm F4 5-5 6 G ](https://www.amazon.fr/dp/B01DLMD7DK/?tag=redken012-21) con 34.08 de descuento por 988.79 EUR (original: 1500.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SEL-70300G G Tele-Zoom Objektiv  70-300 mm  F4.5-5.6  OSS  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B01DLMD7DK/?tag=redken02-21) a 740.0 EUR (original: 1212.67 EUR) (38.98 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg)](https://www.amazon.fr/dp/B01DLMD7DK/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg)](https://www.amazon.de/dp/B01DLMD7DK/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01DLMD7DK/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.de/dp/B01DLMD7DK/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

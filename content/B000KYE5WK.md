@@ -14,10 +14,10 @@ comparePrice: 5.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sterling 201HT SafeCan Heinz Tomato Soup - Secret Stash Hidden Storage  One Size](https://www.amazon.co.uk/dp/B000KYE5WK/?tag=redken01-21) a 3.13 GBP (original: 5.0 GBP) (37.40 %  de descuento) en el siguiente enlace!
+Está [Sterling 201HT SafeCan Heinz Tomato Soup - Secret Stash Hidden Storage  One Size](https://www.amazon.co.uk/dp/B000KYE5WK/?tag=redken01-21) con 37.40 de descuento por 3.13 GBP (original: 5.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51QsbiK-PIL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B000KYE5WK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B000KYE5WK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B000KYE5WK/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
