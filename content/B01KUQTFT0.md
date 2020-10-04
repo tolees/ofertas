@@ -14,10 +14,10 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Microsoft Wired Desktop 600 for Business Keyboard - Black](https://www.amazon.co.uk/dp/B01KUQTFT0/?tag=redken01-21) a 18.52 GBP (original: 29.99 GBP) (38.25 %  de descuento) en el siguiente enlace!
+Está [Microsoft Wired Desktop 600 for Business Keyboard - Black](https://www.amazon.co.uk/dp/B01KUQTFT0/?tag=redken01-21) con 38.25 de descuento por 18.52 GBP (original: 29.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41aYYv5S1QL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01KUQTFT0/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01KUQTFT0/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01KUQTFT0/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

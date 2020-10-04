@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour UA W Skylar 2  Zapatillas d al 50.04 % de descuento'
-date: 2020-10-03 08:52:26
+date: 2020-10-04 14:55:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nvamr9tRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nvamr9tRL._SL200_.jpg' ]
 comments: true

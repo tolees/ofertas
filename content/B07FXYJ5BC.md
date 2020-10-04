@@ -14,10 +14,10 @@ comparePrice: 29.99 USD
 inStock: true
 ---
 
-Está [ThinkFun Hacker Cybersecurity Coding Game and STEM Toy for Boys and Girls Age 10 and Up](https://www.amazon.com/dp/B07FXYJ5BC/?tag=redken08-20) con 60.65 de descuento por 11.8 USD (original: 29.99 USD) en el siguiente enlace!
+Ahora mismo tienes [ThinkFun Hacker Cybersecurity Coding Game and STEM Toy for Boys and Girls Age 10 and Up](https://www.amazon.com/dp/B07FXYJ5BC/?tag=redken08-20) a 11.8 USD (original: 29.99 USD) (60.65 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51rSdawu90L._SL200_.jpg)](https://www.amazon.com/dp/B07FXYJ5BC/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FXYJ5BC/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07FXYJ5BC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
