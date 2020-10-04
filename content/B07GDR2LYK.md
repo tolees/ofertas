@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-1000XM3 Noise Cancelling Wireles al 30.31 % de descuento'
-date: 2020-10-03 02:37:48
+date: 2020-10-04 02:41:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg' ]
 comments: true

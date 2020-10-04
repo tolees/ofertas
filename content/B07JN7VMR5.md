@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.80 % en Pandora Bead Charm Donna argento - 79751'
-date: 2020-10-02 20:05:17
+date: 2020-10-04 02:17:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31B2jAT6r9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31B2jAT6r9L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LIGHTAILING Light Set For  Architecture  al 41.68 % de descuento'
-date: 2020-04-07 12:45:24
+title: 'LIGHTAILING Set di Luci per  Architectur al 50.01 % de descuento'
+date: 2020-10-04 02:08:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UeB4nIs7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UeB4nIs7L._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07TG8PGGB
 description:
-actualPrice: 34.99 GBP
-comparePrice: 60.0 GBP
+actualPrice: 39.99 EUR
+comparePrice: 80.0 EUR
 inStock: true
 ---
 
-Está [LIGHTAILING Light Set For  Architecture New York City  Building Blocks Model - Led Light kit Compatible With Lego 21028 NOT Included The Model ](https://www.amazon.co.uk/dp/B07TG8PGGB/?tag=redken01-21) con 41.68 de descuento por 34.99 GBP (original: 60.0 GBP) en el siguiente enlace!
+Está [LIGHTAILING Set di Luci per  Architecture New York City  Modello da Costruire - Kit Luce LED Compatibile con Lego 21028  Non Incluso nel Modello ](https://www.amazon.it/dp/B07TG8PGGB/?tag=redken03-21) con 50.01 de descuento por 39.99 EUR (original: 80.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41UeB4nIs7L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07TG8PGGB/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/41UeB4nIs7L._SL200_.jpg)](https://www.amazon.it/dp/B07TG8PGGB/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07TG8PGGB/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07TG8PGGB/?tag=redken03-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

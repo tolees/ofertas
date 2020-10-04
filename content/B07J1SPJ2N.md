@@ -14,10 +14,10 @@ comparePrice: 11.7 GBP
 inStock: true
 ---
 
-Está [Coca-Cola Zero Sugar 30 x 330ml Cans](https://www.amazon.co.uk/dp/B07J1SPJ2N/?tag=redken01-21) con 35.90 de descuento por 7.5 GBP (original: 11.7 GBP) en el siguiente enlace!
+Ahora mismo tienes [Coca-Cola Zero Sugar 30 x 330ml Cans](https://www.amazon.co.uk/dp/B07J1SPJ2N/?tag=redken01-21) a 7.5 GBP (original: 11.7 GBP) (35.90 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51xGsMisbhL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07J1SPJ2N/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07J1SPJ2N/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07J1SPJ2N/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
