@@ -14,10 +14,10 @@ comparePrice: 4.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nesti Dante Dei Colli Fiorentini Lavanda Soap Mydlo toaletowe Lawenda 250g](https://www.amazon.es/dp/B000ZLZ7ZW/?tag=redken-21) a 2.0 EUR (original: 4.95 EUR) (59.60 %  de descuento) en el siguiente enlace!
+Está [Nesti Dante Dei Colli Fiorentini Lavanda Soap Mydlo toaletowe Lawenda 250g](https://www.amazon.es/dp/B000ZLZ7ZW/?tag=redken-21) con 59.60 de descuento por 2.0 EUR (original: 4.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51vMVJQG2eL._SL200_.jpg)](https://www.amazon.es/dp/B000ZLZ7ZW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000ZLZ7ZW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000ZLZ7ZW/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

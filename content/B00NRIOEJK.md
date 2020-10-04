@@ -14,10 +14,10 @@ comparePrice: 2.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [10 Books in 1: Memory  Speed Read  Note Taking  Essay Writing  How to Study  Think Like a Genius  Type Fast  Focus: Concentrate  Engage  Unleash Creativity  ...  The Learning Development Book Series ](https://www.amazon.co.uk/dp/B00NRIOEJK/?tag=redken01-21) a 1.99 GBP (original: 2.99 GBP) (33.44 %  de descuento) en el siguiente enlace!
+Está [10 Books in 1: Memory  Speed Read  Note Taking  Essay Writing  How to Study  Think Like a Genius  Type Fast  Focus: Concentrate  Engage  Unleash Creativity  ...  The Learning Development Book Series ](https://www.amazon.co.uk/dp/B00NRIOEJK/?tag=redken01-21) con 33.44 de descuento por 1.99 GBP (original: 2.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61ZsaxgQ8qL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00NRIOEJK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00NRIOEJK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00NRIOEJK/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
