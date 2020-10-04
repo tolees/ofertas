@@ -14,10 +14,10 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BAO CORE Kids 1:24 Scale F1 Formula 1 Blue Racing Car Building Blocks Set Puzzle Building and Construction Toy for Children Boys Girls Over 6 Year Old  Building Blocks F1 b](https://www.amazon.co.uk/dp/B016MBDZ1G/?tag=redken01-21) a 6.17 GBP (original: 19.99 GBP) (69.13 %  de descuento) en el siguiente enlace!
+Está [BAO CORE Kids 1:24 Scale F1 Formula 1 Blue Racing Car Building Blocks Set Puzzle Building and Construction Toy for Children Boys Girls Over 6 Year Old  Building Blocks F1 b](https://www.amazon.co.uk/dp/B016MBDZ1G/?tag=redken01-21) con 69.13 de descuento por 6.17 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ypIXGLQQL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B016MBDZ1G/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B016MBDZ1G/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B016MBDZ1G/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

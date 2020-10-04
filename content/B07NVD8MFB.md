@@ -14,10 +14,10 @@ comparePrice: 15.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Simpeak Funda Compatible con Huawei P30 Pro  6.47"/2019   Funda Libro Compatible con Huawei P30 Pro Carcasa Huawei P30 Pro Soporte Plegable/Ranuras Tarjetas y Billetes Acceso a Botones  Negro](https://www.amazon.es/dp/B07NVD8MFB/?tag=redken-21) a 4.99 EUR (original: 15.99 EUR) (68.79 %  de descuento) en el siguiente enlace!
+Está [Simpeak Funda Compatible con Huawei P30 Pro  6.47"/2019   Funda Libro Compatible con Huawei P30 Pro Carcasa Huawei P30 Pro Soporte Plegable/Ranuras Tarjetas y Billetes Acceso a Botones  Negro](https://www.amazon.es/dp/B07NVD8MFB/?tag=redken-21) con 68.79 de descuento por 4.99 EUR (original: 15.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51YS%2BUPXqzL._SL200_.jpg)](https://www.amazon.es/dp/B07NVD8MFB/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NVD8MFB/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NVD8MFB/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
