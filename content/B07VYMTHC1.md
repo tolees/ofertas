@@ -14,10 +14,10 @@ comparePrice: 159.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Razer Kitty Gaming Bundle with Basilisk Essential  Kraken X Lite  Goliathus Mobile STEALTH  Mouse Bungee V2 and Kitty Ears](https://www.amazon.co.uk/dp/B07VYMTHC1/?tag=redken01-21) a 89.99 GBP (original: 159.0 GBP) (43.40 %  de descuento) en el siguiente enlace!
+Está [Razer Kitty Gaming Bundle with Basilisk Essential  Kraken X Lite  Goliathus Mobile STEALTH  Mouse Bungee V2 and Kitty Ears](https://www.amazon.co.uk/dp/B07VYMTHC1/?tag=redken01-21) con 43.40 de descuento por 89.99 GBP (original: 159.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41TuUk12NQL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07VYMTHC1/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07VYMTHC1/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07VYMTHC1/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

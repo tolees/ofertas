@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leifheit Portarotoli Parat ComfortLine p al 30.77 % de descuento'
-date: 2020-10-03 14:47:02
+date: 2020-10-04 22:04:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dIcPX4BUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dIcPX4BUL._SL200_.jpg' ]
 comments: true
