@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Legrand radiant 15 Amp Decorator Recepta al 33.72 % de descuento'
-date: 2020-09-17 11:05:35
+date: 2020-10-04 03:23:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31G7iaz2auL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31G7iaz2auL._SL200_.jpg' ]
 comments: true
