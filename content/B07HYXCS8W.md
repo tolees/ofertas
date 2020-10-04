@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Case Logic Reflect Laptop Sleeve 14    F al 47.68 % de descuento'
-date: 2020-09-27 19:52:54
+date: 2020-10-04 06:45:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eNho7W3JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eNho7W3JL._SL200_.jpg' ]
 comments: true

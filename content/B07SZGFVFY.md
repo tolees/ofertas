@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2NLF Maquina Cortar Pelo Profesional Ele al 52.20 % de descuento'
-date: 2020-09-30 12:21:30
+date: 2020-10-04 06:45:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C6wbpgGaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C6wbpgGaL._SL200_.jpg' ]
 comments: true
