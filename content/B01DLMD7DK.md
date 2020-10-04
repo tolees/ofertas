@@ -14,10 +14,10 @@ comparePrice: 1212.67 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony SEL-70300G G Tele-Zoom Objektiv  70-300 mm  F4.5-5.6  OSS  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B01DLMD7DK/?tag=redken02-21) a 740.0 EUR (original: 1212.67 EUR) (38.98 %  de descuento) en el siguiente enlace!
+Está [Sony SEL-70300G G Tele-Zoom Objektiv  70-300 mm  F4.5-5.6  OSS  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B01DLMD7DK/?tag=redken02-21) con 38.98 de descuento por 740.0 EUR (original: 1212.67 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg)](https://www.amazon.de/dp/B01DLMD7DK/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B01DLMD7DK/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B01DLMD7DK/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

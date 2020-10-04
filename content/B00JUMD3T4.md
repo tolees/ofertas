@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hanes Men s Ultimate Heavyweight Fleece  al 28.64 % de descuento'
-date: 2020-10-01 09:04:36
+date: 2020-10-04 16:58:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EaVCY9qqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EaVCY9qqL._SL200_.jpg' ]
 comments: true

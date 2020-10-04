@@ -14,10 +14,10 @@ comparePrice: 8 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Umbra Skinny Waste Bin - Sleek  Stylish and Small Bathroom Trash Bin Wastebasket for Narrow Spaces at Home or Office  7.5L Capacity  Black](https://www.amazon.co.uk/dp/B004LLHECQ/?tag=redken01-21) a 4 GBP (original: 8 GBP) (50.00 %  de descuento) en el siguiente enlace!
+Está [Umbra Skinny Waste Bin - Sleek  Stylish and Small Bathroom Trash Bin Wastebasket for Narrow Spaces at Home or Office  7.5L Capacity  Black](https://www.amazon.co.uk/dp/B004LLHECQ/?tag=redken01-21) con 50.00 de descuento por 4 GBP (original: 8 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/313nws4zFSL._SL200_.jpg)](https://www.amazon.co.uk/dp/B004LLHECQ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B004LLHECQ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B004LLHECQ/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

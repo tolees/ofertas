@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.38 % en Western Digital 1TB WD Blue 3D NAND Inte'
-date: 2020-09-29 20:28:09
+date: 2020-10-04 16:57:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lBYlDk2VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lBYlDk2VL._SL200_.jpg' ]
 comments: true
