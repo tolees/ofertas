@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Core Institutional Logo Sli al 39.97 % de descuento'
-date: 2020-10-03 08:19:01
+date: 2020-10-04 10:17:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uz1aszbnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uz1aszbnL._SL200_.jpg' ]
 comments: true

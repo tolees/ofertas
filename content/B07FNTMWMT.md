@@ -14,10 +14,10 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO® Speed Champions Mini Cooper Rally 1967 et Mini John Cooper Works Buggy 2018 8 Ans et Plus  481 Pièces 75894](https://www.amazon.fr/dp/B07FNTMWMT/?tag=redken012-21) a 38.0 EUR (original: 64.99 EUR) (41.53 %  de descuento) en el siguiente enlace!
+Está [LEGO® Speed Champions Mini Cooper Rally 1967 et Mini John Cooper Works Buggy 2018 8 Ans et Plus  481 Pièces 75894](https://www.amazon.fr/dp/B07FNTMWMT/?tag=redken012-21) con 41.53 de descuento por 38.0 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516iOLM7eJL._SL200_.jpg)](https://www.amazon.fr/dp/B07FNTMWMT/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07FNTMWMT/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07FNTMWMT/?tag=redken012-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
