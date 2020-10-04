@@ -14,10 +14,10 @@ comparePrice: 5.3 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois - Rouge edition  barra de labios  tono 12](https://www.amazon.es/dp/B00B1CGFE6/?tag=redken-21) a 2.55 EUR (original: 5.3 EUR) (51.89 %  de descuento) en el siguiente enlace!
+Está [Bourjois - Rouge edition  barra de labios  tono 12](https://www.amazon.es/dp/B00B1CGFE6/?tag=redken-21) con 51.89 de descuento por 2.55 EUR (original: 5.3 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31YZ9UAOBrL._SL200_.jpg)](https://www.amazon.es/dp/B00B1CGFE6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00B1CGFE6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00B1CGFE6/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

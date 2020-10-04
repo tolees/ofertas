@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Women s Regular Modern Cott al 30.00 % de descuento'
-date: 2020-10-01 14:36:24
+date: 2020-10-04 17:08:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XnSeIdOIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XnSeIdOIL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.17 % en HP 27FW - Monitor Full HD de 27"  1920 x'
-date: 2020-10-02 14:56:24
+date: 2020-10-04 17:22:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+4IKPy8WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+4IKPy8WL._SL200_.jpg' ]
 comments: true

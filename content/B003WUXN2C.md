@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Curver 187152 Poubelle à pédale plastiqu al 35.99 % de descuento'
-date: 2020-10-03 15:27:24
+date: 2020-10-04 17:29:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jqbjTAzbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jqbjTAzbL._SL200_.jpg' ]
 comments: true
