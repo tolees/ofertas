@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Fast Trek II  forro polar con cremallera completa para hombres](https://www.amazon.es/dp/B07RCNNT3Q/?tag=redken-21) a 35.61 EUR (original: 49.99 EUR) (28.77 %  de descuento) en el siguiente enlace!
+Está [Columbia Fast Trek II  forro polar con cremallera completa para hombres](https://www.amazon.es/dp/B07RCNNT3Q/?tag=redken-21) con 28.77 de descuento por 35.61 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417FCMM1MdL._SL200_.jpg)](https://www.amazon.es/dp/B07RCNNT3Q/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07RCNNT3Q/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07RCNNT3Q/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

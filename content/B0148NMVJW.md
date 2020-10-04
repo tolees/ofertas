@@ -14,10 +14,10 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Está [Philips Hue Lightstrip Extension [1 m] White and Colour Ambiance Smart LED Kit  Works with Alexa  Google Assistant and Apple HomeKit ](https://www.amazon.co.uk/dp/B0148NMVJW/?tag=redken01-21) con 49.97 de descuento por 10 GBP (original: 19.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Philips Hue Lightstrip Extension [1 m] White and Colour Ambiance Smart LED Kit  Works with Alexa  Google Assistant and Apple HomeKit ](https://www.amazon.co.uk/dp/B0148NMVJW/?tag=redken01-21) a 10 GBP (original: 19.99 GBP) (49.97 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Q5yKNOlIL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0148NMVJW/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B0148NMVJW/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B0148NMVJW/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

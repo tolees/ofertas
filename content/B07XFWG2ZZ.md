@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Amplified Shorts 9` TR Pantalones C al 76.59 % de descuento'
-date: 2020-09-30 06:38:28
+date: 2020-10-04 15:03:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41p4jbWTeLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41p4jbWTeLL._SL200_.jpg' ]
 comments: true

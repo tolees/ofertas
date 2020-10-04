@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY STST1-75518 - Caja de herramient al 45.03 % de descuento'
-date: 2020-10-03 13:59:17
+date: 2020-10-04 15:36:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41beEXlI6lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41beEXlI6lL._SL200_.jpg' ]
 comments: true

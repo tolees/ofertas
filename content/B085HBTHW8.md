@@ -14,10 +14,10 @@ comparePrice: 108.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Dittzz Acrylic Display Box with LED Light  Dustproof Display Case ShowCase for LEGO 21319 Ideas Central Perk Friends  NOT Included The Model ](https://www.amazon.co.uk/dp/B085HBTHW8/?tag=redken01-21) a 75.99 GBP (original: 108.99 GBP) (30.28 %  de descuento) en el siguiente enlace!
+Está [Dittzz Acrylic Display Box with LED Light  Dustproof Display Case ShowCase for LEGO 21319 Ideas Central Perk Friends  NOT Included The Model ](https://www.amazon.co.uk/dp/B085HBTHW8/?tag=redken01-21) con 30.28 de descuento por 75.99 GBP (original: 108.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51D4sbs2sIL._SL200_.jpg)](https://www.amazon.co.uk/dp/B085HBTHW8/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B085HBTHW8/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B085HBTHW8/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
