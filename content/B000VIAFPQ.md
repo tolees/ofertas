@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland 6-Inch Premium WP  Botas Clas al 52.67 % de descuento'
-date: 2020-10-01 07:19:32
+date: 2020-10-04 18:33:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/415c5wvUTyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415c5wvUTyL._SL200_.jpg' ]
 comments: true

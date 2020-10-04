@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.99 % en LEGO 41369 Friends Mia s House Set  3 mi'
-date: 2020-10-02 21:48:19
+date: 2020-10-04 18:12:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/510iVwDtyQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510iVwDtyQL._SL200_.jpg' ]
 comments: true
