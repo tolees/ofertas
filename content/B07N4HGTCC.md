@@ -14,10 +14,10 @@ comparePrice: 11.25 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [JOHNSON S Bedtime Bath Multipack  Gentle and Mild for Delicate Skin and Everyday Use  Enriched with Soothing NaturalCalm Essences  3 x 500 ml](https://www.amazon.co.uk/dp/B07N4HGTCC/?tag=redken01-21) a 6.16 GBP (original: 11.25 GBP) (45.24 %  de descuento) en el siguiente enlace!
+Está [JOHNSON S Bedtime Bath Multipack  Gentle and Mild for Delicate Skin and Everyday Use  Enriched with Soothing NaturalCalm Essences  3 x 500 ml](https://www.amazon.co.uk/dp/B07N4HGTCC/?tag=redken01-21) con 45.24 de descuento por 6.16 GBP (original: 11.25 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ruoIMkM+L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07N4HGTCC/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07N4HGTCC/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07N4HGTCC/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
