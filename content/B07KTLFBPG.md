@@ -14,10 +14,10 @@ comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Está [LEGO 31095 Creator 3in1 Fairground Carousel Set  Fair Fun Adventures  Space Themed Model](https://www.amazon.co.uk/dp/B07KTLFBPG/?tag=redken01-21) con 30.05 de descuento por 31.47 GBP (original: 44.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 31095 Creator 3in1 Fairground Carousel Set  Fair Fun Adventures  Space Themed Model](https://www.amazon.co.uk/dp/B07KTLFBPG/?tag=redken01-21) a 31.47 GBP (original: 44.99 GBP) (30.05 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51XNOXc-ZcL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTLFBPG/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KTLFBPG/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KTLFBPG/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
