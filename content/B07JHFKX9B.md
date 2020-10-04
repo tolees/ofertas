@@ -14,10 +14,10 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [PUZ Toy Presents for 6-12 Year Old Boys RC Stunt Car RC Cars for Kids and Adults 4WD Off Road Truck Remote Control Car 2.4Ghz High Speed 360 Degree Rolling Rotating Christmas Birthday Gifts Green](https://www.amazon.co.uk/dp/B07JHFKX9B/?tag=redken01-21) a 20.99 GBP (original: 29.99 GBP) (30.01 %  de descuento) en el siguiente enlace!
+Está [PUZ Toy Presents for 6-12 Year Old Boys RC Stunt Car RC Cars for Kids and Adults 4WD Off Road Truck Remote Control Car 2.4Ghz High Speed 360 Degree Rolling Rotating Christmas Birthday Gifts Green](https://www.amazon.co.uk/dp/B07JHFKX9B/?tag=redken01-21) con 30.01 de descuento por 20.99 GBP (original: 29.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ZfL2sSkcL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JHFKX9B/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07JHFKX9B/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07JHFKX9B/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
