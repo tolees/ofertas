@@ -14,10 +14,10 @@ comparePrice: 6.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pocket Pop Avengers Infinity War PPK 4 Figura de Vinilo  Multicolor  27303-PDQ ](https://www.amazon.es/dp/B079RLFZT7/?tag=redken-21) a 4.3 EUR (original: 6.95 EUR) (38.13 %  de descuento) en el siguiente enlace!
+Está [Funko- Pocket Pop Avengers Infinity War PPK 4 Figura de Vinilo  Multicolor  27303-PDQ ](https://www.amazon.es/dp/B079RLFZT7/?tag=redken-21) con 38.13 de descuento por 4.3 EUR (original: 6.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41JwHInerlL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079RLFZT7/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079RLFZT7/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079RLFZT7/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

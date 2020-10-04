@@ -14,10 +14,10 @@ comparePrice: 12.65 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [NOW Thats What I Call Music! 5](https://www.amazon.co.uk/dp/B085KHLK7T/?tag=redken01-21) a 7.99 GBP (original: 12.65 GBP) (36.84 %  de descuento) en el siguiente enlace!
+Está [NOW Thats What I Call Music! 5](https://www.amazon.co.uk/dp/B085KHLK7T/?tag=redken01-21) con 36.84 de descuento por 7.99 GBP (original: 12.65 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61kCpMJZ9AL._SL200_.jpg)](https://www.amazon.co.uk/dp/B085KHLK7T/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B085KHLK7T/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B085KHLK7T/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
