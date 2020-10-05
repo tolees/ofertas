@@ -14,10 +14,10 @@ comparePrice: 330.0 EUR
 inStock: true
 ---
 
-Está [Sony SEL 50-F18F Objectif 50 mm Ouverture F1.8 pour Monture E Sony](https://www.amazon.fr/dp/B01DLMD5O6/?tag=redken012-21) con 39.39 de descuento por 200.0 EUR (original: 330.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SEL 50-F18F Objectif 50 mm Ouverture F1.8 pour Monture E Sony](https://www.amazon.fr/dp/B01DLMD5O6/?tag=redken012-21) a 200.0 EUR (original: 330.0 EUR) (39.39 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg)](https://www.amazon.fr/dp/B01DLMD5O6/?tag=redken012-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01DLMD5O6/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.fr/dp/B01DLMD5O6/?tag=redken012-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
