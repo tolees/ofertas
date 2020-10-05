@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.48 % en LEGO 10696 Classic Medium Creative Brick'
-date: 2020-10-04 02:29:07
+date: 2020-10-05 04:24:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/514YhyJAETL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514YhyJAETL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Puma Unisex Quarter Plain Socks  3 Pair  al 25.12 % de descuento'
-date: 2020-10-04 02:46:28
+title: 'Puma Unisex Quarter Plain Socks  3 Pair  al 33.75 % de descuento'
+date: 2020-10-05 04:44:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31OulE1b9nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31OulE1b9nL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B073D4YTJT
 description:
-actualPrice: 5.99 GBP
+actualPrice: 5.3 GBP
 comparePrice: 8.0 GBP
 inStock: true
 ---
 
-Está [Puma Unisex Quarter Plain Socks  3 Pair Pack   White  White   9-11  Manufacturer Size: 43-46 ](https://www.amazon.co.uk/dp/B073D4YTJT/?tag=redken01-21) con 25.12 de descuento por 5.99 GBP (original: 8.0 GBP) en el siguiente enlace!
+Está [Puma Unisex Quarter Plain Socks  3 Pair Pack   White  White   9-11  Manufacturer Size: 43-46 ](https://www.amazon.co.uk/dp/B073D4YTJT/?tag=redken01-21) con 33.75 de descuento por 5.3 GBP (original: 8.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31OulE1b9nL._SL200_.jpg)](https://www.amazon.co.uk/dp/B073D4YTJT/?tag=redken01-21)
 

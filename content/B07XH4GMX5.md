@@ -14,10 +14,10 @@ comparePrice: 51.62 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 47827 POP Movies: DC-10 DC Joker Collectible Toy  Multicolour](https://www.amazon.co.uk/dp/B07XH4GMX5/?tag=redken01-21) a 30.61 GBP (original: 51.62 GBP) (40.70 %  de descuento) en el siguiente enlace!
+Está [Funko 47827 POP Movies: DC-10 DC Joker Collectible Toy  Multicolour](https://www.amazon.co.uk/dp/B07XH4GMX5/?tag=redken01-21) con 40.70 de descuento por 30.61 GBP (original: 51.62 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41xUoMUBFAL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07XH4GMX5/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07XH4GMX5/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07XH4GMX5/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
