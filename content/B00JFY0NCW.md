@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OX Claw Bar - Pro Series Claw Bar with N al 52.30 % de descuento'
-date: 2020-10-04 18:12:04
+date: 2020-10-05 19:14:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Lg+wPkCvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Lg+wPkCvL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.17 % en Geomag - Mechanics 722  Jeu de Construct'
-date: 2020-09-28 10:02:09
+date: 2020-10-05 19:19:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OQGhd+CtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OQGhd+CtL._SL200_.jpg' ]
 comments: true

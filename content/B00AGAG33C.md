@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Campingaz Kühltasche Fold N Cool Nevera  al 45.42 % de descuento'
+date: 2020-10-05 19:18:08
+thumbnailImage: 'https://m.media-amazon.com/images/I/51-W4knhjmL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51-W4knhjmL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00AGAG33C
+description:
+actualPrice: 9.0 EUR
+comparePrice: 16.49 EUR
+inStock: true
+---
+
+Está [Campingaz Kühltasche Fold N Cool Nevera Flexible  5 l  Unisex  Dunkelblau/Grau](https://www.amazon.es/dp/B00AGAG33C/?tag=redken-21) con 45.42 de descuento por 9.0 EUR (original: 16.49 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/51-W4knhjmL._SL200_.jpg)](https://www.amazon.es/dp/B00AGAG33C/?tag=redken-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00AGAG33C/?tag=redken-21)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
