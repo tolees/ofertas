@@ -14,10 +14,10 @@ comparePrice: 15.65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 38585 POP Vinyl: Big Bang Theory S2: Bernadette Sammelbares Spielzeug  Mehrfarben  Standard](https://www.amazon.de/dp/B07N5XC7KL/?tag=redken02-21) a 9.08 EUR (original: 15.65 EUR) (41.98 %  de descuento) en el siguiente enlace!
+Está [Funko 38585 POP Vinyl: Big Bang Theory S2: Bernadette Sammelbares Spielzeug  Mehrfarben  Standard](https://www.amazon.de/dp/B07N5XC7KL/?tag=redken02-21) con 41.98 de descuento por 9.08 EUR (original: 15.65 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41suE0aHQlL._SL200_.jpg)](https://www.amazon.de/dp/B07N5XC7KL/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07N5XC7KL/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07N5XC7KL/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

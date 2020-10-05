@@ -14,10 +14,10 @@ comparePrice: 9.74 EUR
 inStock: true
 ---
 
-Está [LEGO City 60219 Frontlader Straßenarbeiter-Minifigur](https://www.amazon.de/dp/B07FNMXFQ9/?tag=redken02-21) con 35.63 de descuento por 6.27 EUR (original: 9.74 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60219 Frontlader Straßenarbeiter-Minifigur](https://www.amazon.de/dp/B07FNMXFQ9/?tag=redken02-21) a 6.27 EUR (original: 9.74 EUR) (35.63 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51QyW84WJsL._SL200_.jpg)](https://www.amazon.de/dp/B07FNMXFQ9/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FNMXFQ9/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07FNMXFQ9/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

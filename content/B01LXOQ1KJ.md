@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.11 % en STABILO BOSS Original PASTEL - Marcador '
-date: 2020-10-04 09:33:37
+date: 2020-10-05 09:47:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dShVsnswL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dShVsnswL._SL200_.jpg' ]
 comments: true

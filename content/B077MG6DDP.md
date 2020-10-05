@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash V2 L  Zapatillas Unisex Adult al 26.95 % de descuento'
-date: 2020-10-04 02:04:17
+date: 2020-10-05 09:49:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg' ]
 comments: true

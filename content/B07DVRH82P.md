@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.58 % en Levi s Type 3 Chaqueta Vaquera  Azul  St'
-date: 2020-10-03 09:14:46
+date: 2020-10-05 08:01:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg' ]
 comments: true
