@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Narcos: Rise of The Cartels al 42.98 % de descuento'
-date: 2020-09-30 13:17:14
+date: 2020-10-05 15:08:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DhoO60J8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DhoO60J8L._SL200_.jpg' ]
 comments: true

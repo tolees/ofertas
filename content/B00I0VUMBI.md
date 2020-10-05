@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fred DINNER WINNER Kids  Dinner Tray - O al 53.37 % de descuento'
-date: 2020-10-03 11:06:11
+date: 2020-10-05 15:13:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jt8Mx0uOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jt8Mx0uOL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Campingaz Y980000000 Regolatore di Press al 37.84 % de descuento'
-date: 2020-10-04 12:57:10
+date: 2020-10-05 15:19:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/412vGSYHpiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412vGSYHpiL._SL200_.jpg' ]
 comments: true

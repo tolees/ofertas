@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon PowerShot SX530 Digital Camera w/  al 47.49 % de descuento'
-date: 2020-10-04 03:25:34
+date: 2020-10-05 15:16:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PZt98Jj9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PZt98Jj9L._SL200_.jpg' ]
 comments: true

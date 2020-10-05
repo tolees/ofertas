@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.27 % en Cecotec Aspirador Trineo Conga Turbocicl'
-date: 2020-10-04 06:08:40
+date: 2020-10-05 15:08:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41duk0wPWrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41duk0wPWrL._SL200_.jpg' ]
 comments: true
