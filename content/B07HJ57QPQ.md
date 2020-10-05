@@ -14,10 +14,10 @@ comparePrice: 14.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pop Vinyl: Rocks: Queen: Brian May Figura De Vinilo  Multicolor  Talla Única  33720 ](https://www.amazon.es/dp/B07HJ57QPQ/?tag=redken-21) a 9.38 EUR (original: 14.95 EUR) (37.26 %  de descuento) en el siguiente enlace!
+Está [Funko- Pop Vinyl: Rocks: Queen: Brian May Figura De Vinilo  Multicolor  Talla Única  33720 ](https://www.amazon.es/dp/B07HJ57QPQ/?tag=redken-21) con 37.26 de descuento por 9.38 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/513unF45beL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HJ57QPQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07HJ57QPQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07HJ57QPQ/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

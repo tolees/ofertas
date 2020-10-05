@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 64.14 % en Max Factor False Lash Effect Volumising '
-date: 2020-10-03 11:06:32
+date: 2020-10-05 05:20:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31F5uPqbEHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31F5uPqbEHL._SL200_.jpg' ]
 comments: true

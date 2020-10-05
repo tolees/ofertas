@@ -14,10 +14,10 @@ comparePrice: 18.0 GBP
 inStock: true
 ---
 
-Está [Imperial Leather Foamburst Mermazing Shower Gel with Fijian Water & Lotus Flower  Luxurious Body Wash Multipack 6 x 200ml](https://www.amazon.co.uk/dp/B07JCRT6BL/?tag=redken01-21) con 33.33 de descuento por 12.0 GBP (original: 18.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Imperial Leather Foamburst Mermazing Shower Gel with Fijian Water & Lotus Flower  Luxurious Body Wash Multipack 6 x 200ml](https://www.amazon.co.uk/dp/B07JCRT6BL/?tag=redken01-21) a 12.0 GBP (original: 18.0 GBP) (33.33 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ZzSLSPyyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JCRT6BL/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07JCRT6BL/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07JCRT6BL/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
