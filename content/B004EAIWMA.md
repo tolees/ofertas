@@ -14,10 +14,10 @@ comparePrice: 28.99 GBP
 inStock: true
 ---
 
-Está [Sipsmith London Dry Gin  70 cl](https://www.amazon.co.uk/dp/B004EAIWMA/?tag=redken01-21) con 31.01 de descuento por 20.0 GBP (original: 28.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Sipsmith London Dry Gin  70 cl](https://www.amazon.co.uk/dp/B004EAIWMA/?tag=redken01-21) a 20.0 GBP (original: 28.99 GBP) (31.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41j5Zf+Vj6L._SL200_.jpg)](https://www.amazon.co.uk/dp/B004EAIWMA/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B004EAIWMA/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B004EAIWMA/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
