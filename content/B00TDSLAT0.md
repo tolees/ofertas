@@ -14,10 +14,10 @@ comparePrice: 70.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Clarks Women s Taylor Shine Chelsea Boots  Black  Black Leather   6.5 UK](https://www.amazon.co.uk/dp/B00TDSLAT0/?tag=redken01-21) a 34.0 GBP (original: 70.0 GBP) (51.43 %  de descuento) en el siguiente enlace!
+Está [Clarks Women s Taylor Shine Chelsea Boots  Black  Black Leather   6.5 UK](https://www.amazon.co.uk/dp/B00TDSLAT0/?tag=redken01-21) con 51.43 de descuento por 34.0 GBP (original: 70.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41m1zJwWmBL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00TDSLAT0/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00TDSLAT0/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00TDSLAT0/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

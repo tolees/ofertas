@@ -14,10 +14,10 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Smartphone Libre  Blackview A60 Teléfono Móvil 16GB ROM  128GB SD   Pantalla 6.1" Water-Drop Screen Movil  13MP+2MP+5MP  4080mAh Batería  Android 8.1 Movil Libre Dual SIM  GPS/WiFi/Hotspot-Rojo](https://www.amazon.es/dp/B08BCGGGQ8/?tag=redken-21) a 69.99 EUR (original: 99.99 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [Smartphone Libre  Blackview A60 Teléfono Móvil 16GB ROM  128GB SD   Pantalla 6.1" Water-Drop Screen Movil  13MP+2MP+5MP  4080mAh Batería  Android 8.1 Movil Libre Dual SIM  GPS/WiFi/Hotspot-Rojo](https://www.amazon.es/dp/B08BCGGGQ8/?tag=redken-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41JMFEgUKNL._SL200_.jpg)](https://www.amazon.es/dp/B08BCGGGQ8/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B08BCGGGQ8/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B08BCGGGQ8/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

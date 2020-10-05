@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Carrera RC - Watergun 2.0 Coche  Multicolor  370142033 ](https://www.amazon.es/dp/B07BXVBJFP/?tag=redken-21) a 32.22 EUR (original: 49.99 EUR) (35.55 %  de descuento) en el siguiente enlace!
+Está [Carrera RC - Watergun 2.0 Coche  Multicolor  370142033 ](https://www.amazon.es/dp/B07BXVBJFP/?tag=redken-21) con 35.55 de descuento por 32.22 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Yp+df0dDL._SL200_.jpg)](https://www.amazon.es/dp/B07BXVBJFP/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07BXVBJFP/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BXVBJFP/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
