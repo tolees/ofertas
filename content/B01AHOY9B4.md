@@ -14,10 +14,10 @@ comparePrice: 237.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Prada 0PR17SS UE00A6 53 gafas de sol  Marrón  Spotted Brown Pink/Brown Pink   Unisex-Adulto](https://www.amazon.es/dp/B01AHOY9B4/?tag=redken-21) a 150.5 EUR (original: 237.0 EUR) (36.50 %  de descuento) en el siguiente enlace!
+Está [Prada 0PR17SS UE00A6 53 gafas de sol  Marrón  Spotted Brown Pink/Brown Pink   Unisex-Adulto](https://www.amazon.es/dp/B01AHOY9B4/?tag=redken-21) con 36.50 de descuento por 150.5 EUR (original: 237.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41oXhhlo8kL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01AHOY9B4/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01AHOY9B4/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01AHOY9B4/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

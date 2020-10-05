@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.39 % en Funko Advent Calendar: Harry Potter - 24'
-date: 2020-10-04 17:01:59
+date: 2020-10-05 17:04:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51S5DIooMPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51S5DIooMPL._SL200_.jpg' ]
 comments: true

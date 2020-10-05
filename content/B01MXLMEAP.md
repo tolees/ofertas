@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nerf Elite Disruptor  Hasbro B9837EU5  al 25.25 % de descuento'
-date: 2020-10-02 14:20:00
+title: 'Nerf Lanzador Elite Disruptor  Hasbro B9 al 25.25 % de descuento'
+date: 2020-10-05 17:15:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/4113A9voxSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4113A9voxSL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 20.0 EUR
 inStock: true
 ---
 
-Está [Nerf Elite Disruptor  Hasbro B9837EU5 ](https://www.amazon.es/dp/B01MXLMEAP/?tag=redken-21) con 25.25 de descuento por 14.95 EUR (original: 20.0 EUR) en el siguiente enlace!
+Está [Nerf Lanzador Elite Disruptor  Hasbro B9837EU4](https://www.amazon.es/dp/B01MXLMEAP/?tag=redken-21) con 25.25 de descuento por 14.95 EUR (original: 20.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4113A9voxSL._SL200_.jpg)](https://www.amazon.es/dp/B01MXLMEAP/?tag=redken-21)
 

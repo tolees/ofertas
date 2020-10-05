@@ -14,10 +14,10 @@ comparePrice: 14.38 USD
 inStock: true
 ---
 
-Está [Refresh Optive Lubricant Eye Drops  60 Single-Use Containers  0.01 Fl Oz  0.4mL  Each Sterile](https://www.amazon.com/dp/B00BQCK52E/?tag=redken08-20) con 29.97 de descuento por 10.07 USD (original: 14.38 USD) en el siguiente enlace!
+Ahora mismo tienes [Refresh Optive Lubricant Eye Drops  60 Single-Use Containers  0.01 Fl Oz  0.4mL  Each Sterile](https://www.amazon.com/dp/B00BQCK52E/?tag=redken08-20) a 10.07 USD (original: 14.38 USD) (29.97 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51-7QebodQL._SL200_.jpg)](https://www.amazon.com/dp/B00BQCK52E/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00BQCK52E/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00BQCK52E/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

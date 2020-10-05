@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Ninjago 70682 Spinjitzu Slam - Jay  al 27.93 % de descuento'
-date: 2020-09-29 12:11:34
+date: 2020-10-05 17:39:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GTGgrCNQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GTGgrCNQL._SL200_.jpg' ]
 comments: true

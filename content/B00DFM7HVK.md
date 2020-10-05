@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42114 Technic Knickgelenkter Volvo- al 25.09 % de descuento'
-date: 2020-10-04 17:26:07
+date: 2020-10-05 17:51:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/513gF1wnXFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513gF1wnXFL._SL200_.jpg' ]
 comments: true
