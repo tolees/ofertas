@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.83 % en LEGO® NINJAGO® Le dragon d or Jeu de con'
-date: 2020-10-03 15:36:30
+date: 2020-10-04 23:12:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eTenhz8rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eTenhz8rL._SL200_.jpg' ]
 comments: true

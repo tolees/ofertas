@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Harry Potter Colección Completa Ed19 Bd  al 33.17 % de descuento'
-date: 2020-10-01 13:54:28
+title: 'Harry Potter Colección Completa Ed19 Bd  al 33.79 % de descuento'
+date: 2020-10-04 23:50:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zQkeN4YcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zQkeN4YcL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07XW8DFN8
 description:
-actualPrice: 31.49 EUR
+actualPrice: 31.2 EUR
 comparePrice: 47.12 EUR
 inStock: true
 ---
 
-Está [Harry Potter Colección Completa Ed19 Bd [Blu-ray]](https://www.amazon.es/dp/B07XW8DFN8/?tag=redken-21) con 33.17 de descuento por 31.49 EUR (original: 47.12 EUR) en el siguiente enlace!
+Está [Harry Potter Colección Completa Ed19 Bd [Blu-ray]](https://www.amazon.es/dp/B07XW8DFN8/?tag=redken-21) con 33.79 de descuento por 31.2 EUR (original: 47.12 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41zQkeN4YcL._SL200_.jpg)](https://www.amazon.es/dp/B07XW8DFN8/?tag=redken-21)
 

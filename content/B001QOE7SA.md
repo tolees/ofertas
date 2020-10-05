@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.79 % en Levi s 501 Original Fit- Vaqueros para h'
-date: 2020-09-30 05:33:22
+date: 2020-10-04 23:44:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL200_.jpg' ]
 comments: true

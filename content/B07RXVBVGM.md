@@ -14,10 +14,10 @@ comparePrice: 22.58 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Star Wars - Figura de The Mandalorian 15 cm Jawa de Black Series  E7943EL2 ](https://www.amazon.es/dp/B07RXVBVGM/?tag=redken-21) a 15.99 EUR (original: 22.58 EUR) (29.19 %  de descuento) en el siguiente enlace!
+Está [Star Wars - Figura de The Mandalorian 15 cm Jawa de Black Series  E7943EL2 ](https://www.amazon.es/dp/B07RXVBVGM/?tag=redken-21) con 29.19 de descuento por 15.99 EUR (original: 22.58 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41y1ZKgUSQL._SL200_.jpg)](https://www.amazon.es/dp/B07RXVBVGM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07RXVBVGM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07RXVBVGM/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
