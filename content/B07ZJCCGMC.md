@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en OMERIL Luz Nocturna con Sensor de Movimi'
-date: 2020-09-28 06:29:36
+date: 2020-10-05 16:54:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ikgchjdzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ikgchjdzL._SL200_.jpg' ]
 comments: true

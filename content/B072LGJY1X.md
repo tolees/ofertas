@@ -14,10 +14,10 @@ comparePrice: 35.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Carvapet 2 Piece Non-Slip Kitchen Mat Rubber Backing Doormat Runner Rug Set  Lemon Design  Grey 15"x47"+15"x23" ](https://www.amazon.co.uk/dp/B072LGJY1X/?tag=redken01-21) a 19.99 GBP (original: 35.99 GBP) (44.46 %  de descuento) en el siguiente enlace!
+Está [Carvapet 2 Piece Non-Slip Kitchen Mat Rubber Backing Doormat Runner Rug Set  Lemon Design  Grey 15"x47"+15"x23" ](https://www.amazon.co.uk/dp/B072LGJY1X/?tag=redken01-21) con 44.46 de descuento por 19.99 GBP (original: 35.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61J0uO2bP5L._SL200_.jpg)](https://www.amazon.co.uk/dp/B072LGJY1X/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B072LGJY1X/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B072LGJY1X/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

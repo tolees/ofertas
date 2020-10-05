@@ -14,10 +14,10 @@ comparePrice: 47.98 GBP
 inStock: true
 ---
 
-Está [12che LED Light Kit for Lego Speed Champions Ford Mustang GT - 10265  LED Included Only  No Building Block Kit  - USB Powered](https://www.amazon.co.uk/dp/B07QDXVD5B/?tag=redken01-21) con 52.08 de descuento por 22.99 GBP (original: 47.98 GBP) en el siguiente enlace!
+Ahora mismo tienes [12che LED Light Kit for Lego Speed Champions Ford Mustang GT - 10265  LED Included Only  No Building Block Kit  - USB Powered](https://www.amazon.co.uk/dp/B07QDXVD5B/?tag=redken01-21) a 22.99 GBP (original: 47.98 GBP) (52.08 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vBNipAT-L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07QDXVD5B/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07QDXVD5B/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07QDXVD5B/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

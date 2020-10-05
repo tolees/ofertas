@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Huawei Mediapad T3 10 - Tableta 9.6"  HD al 31.45 % de descuento'
-date: 2020-09-30 06:55:45
-thumbnailImage: 'https://m.media-amazon.com/images/I/41s9E0yFeIL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41s9E0yFeIL._SL200_.jpg' ]
+title: 'HUAWEI MediaPad T3 10 Wi-Fi Tablette Tac al 27.61 % de descuento'
+date: 2020-10-02 09:12:09
+thumbnailImage: 'https://m.media-amazon.com/images/I/41X3qEjz0pL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41X3qEjz0pL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06XWJ5HMY
 description:
-actualPrice: 109.0 EUR
-comparePrice: 159.0 EUR
+actualPrice: 129.58 EUR
+comparePrice: 179.0 EUR
 inStock: true
 ---
 
-Está [Huawei Mediapad T3 10 - Tableta 9.6"  HD IPS  WiFi  Procesador Quad-Core Snapdragon 425  2GB RAM  16GB Memoria Interna  Android 7  color Gris](https://www.amazon.es/dp/B06XWJ5HMY/?tag=redken-21) con 31.45 de descuento por 109.0 EUR (original: 159.0 EUR) en el siguiente enlace!
+Está [HUAWEI MediaPad T3 10 Wi-Fi Tablette Tactile 9.6" Gris  16 Go  2 Go de RAM  Android 7.0  Bluetooth ](https://www.amazon.fr/dp/B06XWJ5HMY/?tag=redken012-21) con 27.61 de descuento por 129.58 EUR (original: 179.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41s9E0yFeIL._SL200_.jpg)](https://www.amazon.es/dp/B06XWJ5HMY/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41X3qEjz0pL._SL200_.jpg)](https://www.amazon.fr/dp/B06XWJ5HMY/?tag=redken012-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XWJ5HMY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B06XWJ5HMY/?tag=redken012-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
