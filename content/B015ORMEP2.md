@@ -14,10 +14,10 @@ comparePrice: 5.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Palmer s Coconut Oil Formula Body Lotion  400 ml](https://www.amazon.co.uk/dp/B015ORMEP2/?tag=redken01-21) a 3.75 GBP (original: 5.0 GBP) (25.00 %  de descuento) en el siguiente enlace!
+Está [Palmer s Coconut Oil Formula Body Lotion  400 ml](https://www.amazon.co.uk/dp/B015ORMEP2/?tag=redken01-21) con 25.00 de descuento por 3.75 GBP (original: 5.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31jGJUfIRcL._SL200_.jpg)](https://www.amazon.co.uk/dp/B015ORMEP2/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B015ORMEP2/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B015ORMEP2/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

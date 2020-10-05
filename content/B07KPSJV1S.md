@@ -14,10 +14,10 @@ comparePrice: 9.26 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 36808 Pop Heroes: DC Shazam Eugene](https://www.amazon.co.uk/dp/B07KPSJV1S/?tag=redken01-21) a 3.0 GBP (original: 9.26 GBP) (67.60 %  de descuento) en el siguiente enlace!
+Está [Funko 36808 Pop Heroes: DC Shazam Eugene](https://www.amazon.co.uk/dp/B07KPSJV1S/?tag=redken01-21) con 67.60 de descuento por 3.0 GBP (original: 9.26 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/415k+fmgAbL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KPSJV1S/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07KPSJV1S/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KPSJV1S/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
