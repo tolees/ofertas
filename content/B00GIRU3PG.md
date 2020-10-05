@@ -14,10 +14,10 @@ comparePrice: 261.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [B+W Vario XS-Pro - Filtro ND de 58 mm MRC Nano](https://www.amazon.es/dp/B00GIRU3PG/?tag=redken-21) a 156.14 EUR (original: 261.84 EUR) (40.37 %  de descuento) en el siguiente enlace!
+Está [B+W Vario XS-Pro - Filtro ND de 58 mm MRC Nano](https://www.amazon.es/dp/B00GIRU3PG/?tag=redken-21) con 40.37 de descuento por 156.14 EUR (original: 261.84 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41tCHxOI3lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00GIRU3PG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00GIRU3PG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00GIRU3PG/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

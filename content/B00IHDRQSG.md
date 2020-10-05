@@ -14,10 +14,10 @@ comparePrice: 349.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEXA Straight/Corner Home Office PC Computer Desk Workstation in Walnut Effect Coloured Surfaces Includes 3 x Canvas Boxes In Anthracite Finish See Images ](https://www.amazon.co.uk/dp/B00IHDRQSG/?tag=redken01-21) a 219.99 GBP (original: 349.99 GBP) (37.14 %  de descuento) en el siguiente enlace!
+Está [LEXA Straight/Corner Home Office PC Computer Desk Workstation in Walnut Effect Coloured Surfaces Includes 3 x Canvas Boxes In Anthracite Finish See Images ](https://www.amazon.co.uk/dp/B00IHDRQSG/?tag=redken01-21) con 37.14 de descuento por 219.99 GBP (original: 349.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41t4PO4+OlL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00IHDRQSG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00IHDRQSG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00IHDRQSG/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
