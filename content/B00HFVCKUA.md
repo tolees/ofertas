@@ -14,10 +14,10 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lego Movie The Videogame](https://www.amazon.es/dp/B00HFVCKUA/?tag=redken-21) a 13.8 EUR (original: 19.99 EUR) (30.97 %  de descuento) en el siguiente enlace!
+Está [Lego Movie The Videogame](https://www.amazon.es/dp/B00HFVCKUA/?tag=redken-21) con 30.97 de descuento por 13.8 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61P6kVhIoEL._SL200_.jpg)](https://www.amazon.es/dp/B00HFVCKUA/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00HFVCKUA/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00HFVCKUA/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 10769 4+ Toy Story 4 RV Vacation Truck with Jessie  Alien  Rex and Forky Minifigures](https://www.amazon.co.uk/dp/B07JBQN4DT/?tag=redken01-21) a 22.49 GBP (original: 29.99 GBP) (25.01 %  de descuento) en el siguiente enlace!
+Está [LEGO 10769 4+ Toy Story 4 RV Vacation Truck with Jessie  Alien  Rex and Forky Minifigures](https://www.amazon.co.uk/dp/B07JBQN4DT/?tag=redken01-21) con 25.01 de descuento por 22.49 GBP (original: 29.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51T1rICl35L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JBQN4DT/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07JBQN4DT/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07JBQN4DT/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
