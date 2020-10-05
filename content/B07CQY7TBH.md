@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Potensic Drone GPS Telecamera 1080P Dron al 37.55 % de descuento'
-date: 2020-10-04 22:16:56
+title: 'Descuento del 25.05 % en Potensic Drone GPS  Drone con Cámara 108'
+date: 2020-10-05 10:06:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cGGQav5wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cGGQav5wL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07CQY7TBH
 description:
-actualPrice: 124.9 EUR
-comparePrice: 199.99 EUR
+actualPrice: 119.92 EUR
+comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Está [Potensic Drone GPS Telecamera 1080P Drone Professionale T25 Dual GPS con Grandangolare Regolabile Camera HD WiFi FPV Quadricottero Funzione Seguimi modalità Senza Testa](https://www.amazon.it/dp/B07CQY7TBH/?tag=redken03-21) con 37.55 de descuento por 124.9 EUR (original: 199.99 EUR) en el siguiente enlace!
+Tienes [Potensic Drone GPS  Drone con Cámara 1080P HD con Follow Me  120º Gran Angular  RTF Altitude Hold  Modo Sin Cabeza y Retorno a Casa  T25 Blanco](https://www.amazon.es/dp/B07CQY7TBH/?tag=redken-21) con un 25.05 % de descuento con precio de oferta de 119.92 EUR (original: 159.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41cGGQav5wL._SL200_.jpg)](https://www.amazon.it/dp/B07CQY7TBH/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41cGGQav5wL._SL200_.jpg)](https://www.amazon.es/dp/B07CQY7TBH/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07CQY7TBH/?tag=redken03-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07CQY7TBH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

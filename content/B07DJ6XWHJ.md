@@ -14,11 +14,11 @@ comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Está [Geox U Leitan B  Zapatos de Cordones Derby para Hombre  Marrón  Brown C0013   40 EU](https://www.amazon.es/dp/B07DJ6XWHJ/?tag=redken-21) con 62.98 de descuento por 36.98 EUR (original: 99.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Geox U Leitan B  Zapatos de Cordones Derby para Hombre  Marrón  Brown C0013   40 EU](https://www.amazon.es/dp/B07DJ6XWHJ/?tag=redken-21) a 36.98 EUR (original: 99.9 EUR) (62.98 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41g0YgRezSL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6XWHJ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DJ6XWHJ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DJ6XWHJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

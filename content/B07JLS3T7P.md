@@ -14,11 +14,11 @@ comparePrice: 40.75 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil Ghostbusters 70171 Collection Figure W. Zeddemore for Children Ages 6+](https://www.amazon.co.uk/dp/B07JLS3T7P/?tag=redken01-21) a 21.47 GBP (original: 40.75 GBP) (47.31 %  de descuento) en el siguiente enlace!
+Está [Playmobil Ghostbusters 70171 Collection Figure W. Zeddemore for Children Ages 6+](https://www.amazon.co.uk/dp/B07JLS3T7P/?tag=redken01-21) con 47.31 de descuento por 21.47 GBP (original: 40.75 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/518ZA5UWX6L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JLS3T7P/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07JLS3T7P/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07JLS3T7P/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

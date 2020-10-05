@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Perfect Tee Maglietta  Bianco al 32.13 % de descuento'
-date: 2020-10-04 22:21:45
+date: 2020-10-05 22:42:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL200_.jpg' ]
 comments: true

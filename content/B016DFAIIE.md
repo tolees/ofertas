@@ -14,11 +14,11 @@ comparePrice: 32.5 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [STAEDTLER 323 TB26JB 1.0 mm Triplus Colour Fibre-Tip Pens  Adult Colouring Packaging  Assorted Colours  Pack of 26](https://www.amazon.co.uk/dp/B016DFAIIE/?tag=redken01-21) a 13.82 GBP (original: 32.5 GBP) (57.48 %  de descuento) en el siguiente enlace!
+Está [STAEDTLER 323 TB26JB 1.0 mm Triplus Colour Fibre-Tip Pens  Adult Colouring Packaging  Assorted Colours  Pack of 26](https://www.amazon.co.uk/dp/B016DFAIIE/?tag=redken01-21) con 57.48 de descuento por 13.82 GBP (original: 32.5 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Q47ssPWsL._SL200_.jpg)](https://www.amazon.co.uk/dp/B016DFAIIE/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B016DFAIIE/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B016DFAIIE/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

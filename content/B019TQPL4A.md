@@ -14,11 +14,11 @@ comparePrice: 50.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Osprey Daylite Plus Unisex Lifestyle Pack - Black  O/S ](https://www.amazon.co.uk/dp/B019TQPL4A/?tag=redken01-21) a 29.6 GBP (original: 50.0 GBP) (40.80 %  de descuento) en el siguiente enlace!
+Está [Osprey Daylite Plus Unisex Lifestyle Pack - Black  O/S ](https://www.amazon.co.uk/dp/B019TQPL4A/?tag=redken01-21) con 40.80 de descuento por 29.6 GBP (original: 50.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41KQbBmdYDL._SL200_.jpg)](https://www.amazon.co.uk/dp/B019TQPL4A/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B019TQPL4A/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B019TQPL4A/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

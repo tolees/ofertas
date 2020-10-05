@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk SDSSDE60-250G-G25 Extreme SSD Po al 46.30 % de descuento'
-date: 2020-10-04 10:14:35
+date: 2020-10-05 22:25:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FeN3gxFxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FeN3gxFxL._SL200_.jpg' ]
 comments: true

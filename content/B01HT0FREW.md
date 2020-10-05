@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUION H1060P Tableta gráfica con área de al 26.26 % de descuento'
-date: 2020-09-28 22:06:00
+date: 2020-10-05 22:42:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BMtDUfl9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BMtDUfl9L._SL200_.jpg' ]
 comments: true
@@ -19,5 +19,7 @@ Ahora mismo tienes [HUION H1060P Tableta gráfica con área de Trabajo de 10 x 6
 [![](https://m.media-amazon.com/images/I/41BMtDUfl9L._SL200_.jpg)](https://www.amazon.es/dp/B01HT0FREW/?tag=redken-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B01HT0FREW/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

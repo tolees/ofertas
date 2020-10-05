@@ -14,11 +14,11 @@ comparePrice: 149.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Corsair CC-9011137-WW 280X Crystal RGB Tempered Glass Micro ATX PC Case - White](https://www.amazon.co.uk/dp/B07CJTKDZQ/?tag=redken01-21) a 110 GBP (original: 149.99 GBP) (26.66 %  de descuento) en el siguiente enlace!
+Está [Corsair CC-9011137-WW 280X Crystal RGB Tempered Glass Micro ATX PC Case - White](https://www.amazon.co.uk/dp/B07CJTKDZQ/?tag=redken01-21) con 26.66 de descuento por 110 GBP (original: 149.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51n7YwolEDL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07CJTKDZQ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07CJTKDZQ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07CJTKDZQ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

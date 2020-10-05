@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung C49HG90 Monitor Gaming Curvo  Su al 49.68 % de descuento'
-date: 2020-09-30 12:01:28
+title: 'Samsung C49HG90DMU – Monitor Curvo Gamin al 46.19 % de descuento'
+date: 2020-10-05 22:22:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/419e8BJn7uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419e8BJn7uL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B073RJQXB1
 description:
-actualPrice: 754.27 EUR
-comparePrice: 1499.0 EUR
+actualPrice: 699.0 EUR
+comparePrice: 1299.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung C49HG90 Monitor Gaming Curvo  Super Ultrawide  49”  Full HD  HDR  3840 x 1080  1 ms  32:9  144 Hz  1080p  350cd/m2  1 Display Port e 1 Mini Display Port  2 HDMI  Freesync  Quantum Dot  Nero](https://www.amazon.it/dp/B073RJQXB1/?tag=redken03-21) a 754.27 EUR (original: 1499.0 EUR) (49.68 %  de descuento) en el siguiente enlace!
+Está [Samsung C49HG90DMU – Monitor Curvo Gaming 49”  QLED  2 x Full HD  32:9  144 Hz  1 ms  HDR  3000:1  1800R  FreeSync ](https://www.amazon.es/dp/B073RJQXB1/?tag=redken-21) con 46.19 de descuento por 699.0 EUR (original: 1299.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/419e8BJn7uL._SL200_.jpg)](https://www.amazon.it/dp/B073RJQXB1/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/419e8BJn7uL._SL200_.jpg)](https://www.amazon.es/dp/B073RJQXB1/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B073RJQXB1/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073RJQXB1/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

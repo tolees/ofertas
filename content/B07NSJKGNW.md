@@ -14,11 +14,11 @@ comparePrice: 10.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MOJIPOPS - Blister 8 figuras  6 figuras MojiPops y 2 exclusivas figuras Glitter ](https://www.amazon.es/dp/B07NSJKGNW/?tag=redken-21) a 4.99 EUR (original: 10.0 EUR) (50.10 %  de descuento) en el siguiente enlace!
+Está [MOJIPOPS - Blister 8 figuras  6 figuras MojiPops y 2 exclusivas figuras Glitter ](https://www.amazon.es/dp/B07NSJKGNW/?tag=redken-21) con 50.10 de descuento por 4.99 EUR (original: 10.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51oaavoLzAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NSJKGNW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NSJKGNW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NSJKGNW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

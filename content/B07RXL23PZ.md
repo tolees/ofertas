@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Type 3 Giacca in Jeans  Blu  Fire al 26.59 % de descuento'
-date: 2020-10-04 02:19:06
+date: 2020-10-05 22:42:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YIqiwqqtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YIqiwqqtL._SL200_.jpg' ]
 comments: true
