@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony BDP-S3700 Home Theater Streaming Bl al 43.33 % de descuento'
-date: 2020-09-29 17:38:15
+date: 2020-10-05 00:00:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/21TjVyJGA-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21TjVyJGA-L._SL200_.jpg' ]
 comments: true
