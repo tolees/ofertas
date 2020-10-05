@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.69 % en Be Cool Zas Silla de Paseo Plegable  Uso'
-date: 2020-10-03 12:09:19
+date: 2020-10-05 07:56:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/413g-94ESvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413g-94ESvL._SL200_.jpg' ]
 comments: true
