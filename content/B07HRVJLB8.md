@@ -14,10 +14,10 @@ comparePrice: 69.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [FOCO Arsenal FC Emirates Stadium 3D Construction Toy BRXLZ Building Kit](https://www.amazon.co.uk/dp/B07HRVJLB8/?tag=redken01-21) a 49.99 GBP (original: 69.99 GBP) (28.58 %  de descuento) en el siguiente enlace!
+Está [FOCO Arsenal FC Emirates Stadium 3D Construction Toy BRXLZ Building Kit](https://www.amazon.co.uk/dp/B07HRVJLB8/?tag=redken01-21) con 28.58 de descuento por 49.99 GBP (original: 69.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BMORHM6gL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HRVJLB8/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07HRVJLB8/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HRVJLB8/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
