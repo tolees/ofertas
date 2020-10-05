@@ -20,4 +20,6 @@ Ahora mismo tienes [Oral-B 80327521 Oral-B Pro 2 2500 - Cepillo de dientes eléc
 
 [Visítala!!!](https://www.amazon.es/dp/B07RQV3CYT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

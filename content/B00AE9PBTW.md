@@ -20,4 +20,6 @@ Tienes [Ice Age 1  2  3 & 4  Limitierte Sonderbox mit Ice Age Figuren!  [Blu-ray
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B00AE9PBTW/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

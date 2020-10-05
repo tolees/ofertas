@@ -20,4 +20,6 @@ Está [Pepe Jeans Original Basic L/S  Top de Manga Larga Para Hombre  Gris  Grey
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XTNLDDQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Nikon D750 DSLR Body 24.3 Megapixels  8 GB SD 400x Lexar  Black [Nikon Ca
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B00O0UJY9O/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

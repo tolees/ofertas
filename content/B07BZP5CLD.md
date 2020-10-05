@@ -20,4 +20,6 @@ Está [J.Rosée Collares Mujer Colgante Plata de Ley 925 La Libertad de Volar Br
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BZP5CLD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

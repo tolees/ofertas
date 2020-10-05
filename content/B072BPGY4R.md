@@ -20,4 +20,6 @@ Tienes [Samsung Galaxy Book W620 26 92 cm  10 6 Zoll  Convertible Tablet PC  Int
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B072BPGY4R/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

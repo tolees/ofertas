@@ -20,4 +20,6 @@ Ahora mismo tienes [ROYAL SLEEP Canapé Abatible  105x190  de Gran Capacidad  Ta
 
 [Visítala!!!](https://www.amazon.es/dp/B07QJBBVNZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Casio Reloj Digital para Hombre de Cuarzo con Correa en Resi
 
 [Visítala!!!](https://www.amazon.es/dp/B079DHKBWR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

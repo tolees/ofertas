@@ -20,4 +20,6 @@ Tienes [Pepe Jeans Vincent Polo  Azul  Navy 595   Small para Hombre](https://www
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078TG4LCV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

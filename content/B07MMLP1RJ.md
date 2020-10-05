@@ -20,4 +20,6 @@ Tienes [Napapijri K Rainforest 1 Chaqueta  Rojo  High Risk Red RA3   3 años par
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MMLP1RJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

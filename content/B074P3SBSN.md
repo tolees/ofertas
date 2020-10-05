@@ -20,4 +20,6 @@ Ahora mismo tienes [uvex Unisex – Erwachsene  i-vo 3D Fahrradhelm  white  52-
 
 [Visítala!!!](https://www.amazon.de/dp/B074P3SBSN/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Angel Schlesser Eau Fraiche Citrus Pomelo Edt Vapo 150 Ml - 
 
 [Visítala!!!](https://www.amazon.es/dp/B07R3XXFMR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

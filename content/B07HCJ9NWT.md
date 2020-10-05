@@ -20,4 +20,6 @@ Está [Skechers Men s STAMINA CUTBACK Trainers  Grey  Charcoal Leather/Mesh/Red 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HCJ9NWT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

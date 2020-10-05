@@ -20,4 +20,6 @@ Ahora mismo tienes [Rowenta VR7260F0  Easy Steam - Centro planchado de 5.5 bares
 
 [Visítala!!!](https://www.amazon.es/dp/B075FWDLWL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [SanDisk Ultra 64 GB USB Flash Drive USB 3.0 Up to 130 MB/s Read](https:/
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B00DQGBYDC/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Candy Pink 6X0   39/40 EU
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00HUIO3CG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

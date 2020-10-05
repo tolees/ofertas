@@ -20,4 +20,6 @@ Ahora mismo tienes [Parker Urban 1931566 - Bolígrafo roller  azul oscuro  recam
 
 [Visítala!!!](https://www.amazon.es/dp/B01LY1Q2YO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

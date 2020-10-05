@@ -20,4 +20,6 @@ Ahora mismo tienes [Bellivera Giacca Corta da Donna in Ecopelle Scamosciata  Gia
 
 [Visítala!!!](https://www.amazon.es/dp/B07H2Y7KGF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

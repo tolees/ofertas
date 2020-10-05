@@ -20,4 +20,6 @@ Ahora mismo tienes [The Protein Works Whey Protein Powder  Whey 80 Concentrate P
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B00G2AJ9JK/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Springfield 2.T.Ciudades Lentejuelas Camiseta  Azul  Azul 17
 
 [Visítala!!!](https://www.amazon.es/dp/B07NJ2VKGB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

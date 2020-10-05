@@ -20,4 +20,6 @@ Ahora mismo tienes [El Naturalista N5133  Botines para Mujer  Negro  Black-Obsid
 
 [Visítala!!!](https://www.amazon.es/dp/B07S6TYD6Z/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Invicta 14878 Specialty Reloj para Hombre acero inoxidable C
 
 [Visítala!!!](https://www.amazon.es/dp/B00EJISEBQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

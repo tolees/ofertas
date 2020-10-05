@@ -20,4 +20,6 @@ Ahora mismo tienes [Salomon Speedcross 4 GTX  Zapatillas de Trail Running para H
 
 [Visítala!!!](https://www.amazon.es/dp/B07KWB99PY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Gant D1. The Active Cloud Jacket Chaqueta  Rojo  Mahogany Red 617   XX-L
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MVM8VJ4/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [HyperX Predator HX432C16PB3AK4/64 DDR4 64 GB  Kit of 4 x 16 GB   3200 MHz
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07MVPW8HB/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

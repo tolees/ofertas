@@ -20,4 +20,6 @@ Está [Vision Xiam 1.5 - Pala de Nivel Medio Alto de Juego](https://www.amazon.e
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00STJP8VK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

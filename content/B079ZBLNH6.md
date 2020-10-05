@@ -20,4 +20,6 @@ Ahora mismo tienes [BRA Efficient Iron - Parrilla redonda lisa 32 cm  fabricada 
 
 [Visítala!!!](https://www.amazon.es/dp/B079ZBLNH6/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

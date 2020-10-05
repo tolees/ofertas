@@ -20,4 +20,6 @@ Está [MAJA-Möbel 1611 9499 TV- HiFi-Rack  Metall Alu - Klarglas  Abmessungen B
 
 [Ver la oferta!!](https://www.amazon.de/dp/B00E5XH4OS/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

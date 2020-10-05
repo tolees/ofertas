@@ -20,4 +20,6 @@ Ahora mismo tienes [MR.SIGA Guantes para el Lavado de Platos Reutilizables  Guan
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZQ7QDVL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

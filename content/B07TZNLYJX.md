@@ -20,4 +20,6 @@ Ahora mismo tienes [Akku Handkreissäge  TECCPO 18V 4.0Ah Akku  1 Std. Schnellla
 
 [Visítala!!!](https://www.amazon.de/dp/B07TZNLYJX/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

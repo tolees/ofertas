@@ -20,4 +20,6 @@ Ahora mismo tienes [Gloria Vanderbilt Plus Size Women s Amanda Classic Tapered J
 
 [Visítala!!!](https://www.amazon.com/dp/B01M7PV4TM/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

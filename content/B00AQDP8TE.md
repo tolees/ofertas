@@ -20,4 +20,6 @@ Está [L Oréal Paris Pintalabios 24H Permanente  Color Nude 111 Permanent Blush
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00AQDP8TE/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

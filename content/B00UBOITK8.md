@@ -20,4 +20,6 @@ Está [Tommy Hilfiger 3p Trunk Bóxer  Negro  Black/Grey Heather/White 004   Med
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00UBOITK8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

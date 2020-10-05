@@ -20,4 +20,6 @@ Tienes [Braun Series 8 8370cc Elektrischer Rasierer  Reinigungs- und Ladestation
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07SMSLGJK/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

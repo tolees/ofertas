@@ -20,4 +20,6 @@ Está [Timberland Kenniston 6 Inch Lace Up  Botas para Mujer  Negro  Black Full 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01JOC7FB6/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

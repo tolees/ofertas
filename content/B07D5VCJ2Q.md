@@ -20,4 +20,6 @@ Tienes [Puma ESS Logo tee Camiseta Deportiva  Mujer  Blanco White  S](https://ww
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5VCJ2Q/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

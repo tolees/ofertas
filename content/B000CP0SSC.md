@@ -20,4 +20,6 @@ Ahora mismo tienes [CLC Custom Leathercraft 1104 Construction Multi-Purpose Poly
 
 [Visítala!!!](https://www.amazon.com/dp/B000CP0SSC/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

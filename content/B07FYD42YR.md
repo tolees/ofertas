@@ -20,4 +20,6 @@ Ahora mismo tienes [Mochila para portátil Pepe Jeans Bromley Verde 15 6" doble 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FYD42YR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

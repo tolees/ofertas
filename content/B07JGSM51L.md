@@ -20,4 +20,6 @@ Tienes [Pepe Jeans Fidall Pm541220 Polo   Optic White 802   Large para Hombre](h
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JGSM51L/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

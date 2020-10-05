@@ -20,4 +20,6 @@ Ahora mismo tienes [Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt 
 
 [Visítala!!!](https://www.amazon.de/dp/B07FN6QWPM/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

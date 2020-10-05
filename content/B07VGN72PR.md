@@ -20,4 +20,6 @@ Está [Desigual Foul Jirafa Bufanda  Multicolor  Multicolor Fucsia 9021   Talla 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VGN72PR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [BRIKSMAX Led Lighting Kit for Architecture Statue of Liberty
 
 [Visítala!!!](https://www.amazon.com/dp/B07QN3TX5M/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

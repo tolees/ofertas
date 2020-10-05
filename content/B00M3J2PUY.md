@@ -20,4 +20,6 @@ Tienes [Nixon Reloj con Movimiento Cuarzo japonés Man A3772001 38.0 mm](https:/
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00M3J2PUY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

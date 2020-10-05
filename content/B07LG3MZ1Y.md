@@ -20,4 +20,6 @@ Está [Geox B ALBEN Boy A  Zapatillas para Bebés  Azul  Navy/Grey C0661   20 EU
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LG3MZ1Y/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

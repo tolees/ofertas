@@ -20,4 +20,6 @@ Está [Salomon Speedcross CSWP K  Zapatillas de Trail Running Unisex Niños  Neg
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FC61SYY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

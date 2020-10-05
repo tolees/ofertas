@@ -20,4 +20,6 @@ Tienes [Fat Girl Slim: Chicklit with a wicked twist  sooo not a diet book.](http
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07FNTD9CP/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

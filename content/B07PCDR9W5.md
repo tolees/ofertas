@@ -20,4 +20,6 @@ Ahora mismo tienes [Sony WH-XB700 EXTRA BASS Wireless Headphones  30 hours batte
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07PCDR9W5/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

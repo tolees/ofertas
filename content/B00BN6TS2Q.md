@@ -20,4 +20,6 @@ Está [Blow 750M Antena emisora CB 300W base magnética desmontable  coches  fur
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BN6TS2Q/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [JACK & JONES Basic O-Neck tee S/S Noos Camiseta  Grau  Light Grey Melang
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B008YREOEE/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

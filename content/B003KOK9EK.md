@@ -20,4 +20,6 @@ Ahora mismo tienes [Olimp Sport Nutrition HMB Mega Anticatabólico - 120 Cápsul
 
 [Visítala!!!](https://www.amazon.es/dp/B003KOK9EK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

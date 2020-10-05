@@ -20,4 +20,6 @@ Ahora mismo tienes [Fisher Price Móvil musical 3 en 1  juguete y proyector de c
 
 [Visítala!!!](https://www.amazon.es/dp/B00NFET6TE/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

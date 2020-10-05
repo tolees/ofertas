@@ -20,4 +20,6 @@ Ahora mismo tienes [Reebok F/S Hi  Zapatillas Altas para Mujer  Blanco  INT-Whit
 
 [Visítala!!!](https://www.amazon.es/dp/B000X1MNME/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

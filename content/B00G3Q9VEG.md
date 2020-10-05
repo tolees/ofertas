@@ -20,4 +20,6 @@ Ahora mismo tienes [Metabo 626704000 626704000-Estuche de Puntas y adaptadores  
 
 [Visítala!!!](https://www.amazon.es/dp/B00G3Q9VEG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

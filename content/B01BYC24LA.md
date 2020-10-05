@@ -20,4 +20,6 @@ Ahora mismo tienes [AtmosFlare- Disney Boligrafo 3D  Miscelanea  Giochi Preziosi
 
 [Visítala!!!](https://www.amazon.es/dp/B01BYC24LA/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [UniqueMe Funda para Samsung Galaxy S10e Funda TPU Suave Transparente Delg
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MNF8JRN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

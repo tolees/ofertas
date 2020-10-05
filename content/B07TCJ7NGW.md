@@ -20,4 +20,6 @@ Ahora mismo tienes [Samsonite Spinner 69/25  Equipaje de Mano  69 cm  85 Litros 
 
 [Visítala!!!](https://www.amazon.es/dp/B07TCJ7NGW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

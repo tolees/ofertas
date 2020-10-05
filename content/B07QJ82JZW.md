@@ -20,4 +20,6 @@ Ahora mismo tienes [Armani Exchange Reloj Analógico para Hombre de Cuarzo con C
 
 [Visítala!!!](https://www.amazon.es/dp/B07QJ82JZW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

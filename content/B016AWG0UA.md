@@ -20,4 +20,6 @@ Ahora mismo tienes [ASUS BE249QLB 23.8" Full HD IPS Mate Negro Pantalla para PC 
 
 [Visítala!!!](https://www.amazon.es/dp/B016AWG0UA/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

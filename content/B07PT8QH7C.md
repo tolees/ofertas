@@ -20,4 +20,6 @@ Está [BRIKSMAX Led Beleuchtungsset für Ghostbusters Ecto-1  Kompatibel Mit Leg
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07PT8QH7C/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

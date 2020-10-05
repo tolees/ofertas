@@ -20,4 +20,6 @@ Está [Nuevo SADES SA810 Multi-Platform Auriculares Gaming  3.5mm Gaming auricul
 
 [Ver la oferta!!](https://www.amazon.es/dp/B074PMGMHL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

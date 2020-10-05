@@ -20,4 +20,6 @@ Está [Landmann Gasgrillwagen 12220  emaillierte Brennerabdeckungen  126 x 110 x
 
 [Ver la oferta!!](https://www.amazon.de/dp/B019OUUNR6/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

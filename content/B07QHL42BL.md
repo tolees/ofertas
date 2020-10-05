@@ -20,4 +20,6 @@ Está [Pablosky 590622  Botas Slouch para Niños  Azul  Azul Azul   20 EU](https
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QHL42BL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

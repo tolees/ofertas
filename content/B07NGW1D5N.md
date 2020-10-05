@@ -20,4 +20,6 @@ Tienes [Primigi Ple 44001  Botas para Bebés  Navy 4400100  18 EU](https://www.a
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NGW1D5N/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

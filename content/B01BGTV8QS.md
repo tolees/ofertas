@@ -20,4 +20,6 @@ Tienes [G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged 6553-89  36
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BGTV8QS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

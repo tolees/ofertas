@@ -20,4 +20,6 @@ Tienes [Tommy Hilfiger Herren CORE Cotton-Silk CNECK Pullover  Blau  Sky Captain
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B074SRB1DF/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

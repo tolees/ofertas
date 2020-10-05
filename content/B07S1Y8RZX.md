@@ -14,10 +14,12 @@ comparePrice: 91.95 GBP
 inStock: true
 ---
 
-Está [Kanex 6 In 1 Multiport USB-C Hub for Apple iPad Pro 11/ iPad Pro 12.9  2018  [4K HDMI  SD/Micro SD Card Reader  USB 3.0  3.5mm Jack Connection  USB-C for Charging  Aluminium] Space Grey](https://www.amazon.co.uk/dp/B07S1Y8RZX/?tag=redken01-21) con 46.72 de descuento por 48.99 GBP (original: 91.95 GBP) en el siguiente enlace!
+Ahora mismo tienes [Kanex 6 In 1 Multiport USB-C Hub for Apple iPad Pro 11/ iPad Pro 12.9  2018  [4K HDMI  SD/Micro SD Card Reader  USB 3.0  3.5mm Jack Connection  USB-C for Charging  Aluminium] Space Grey](https://www.amazon.co.uk/dp/B07S1Y8RZX/?tag=redken01-21) a 48.99 GBP (original: 91.95 GBP) (46.72 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/3149yTqdNqL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07S1Y8RZX/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07S1Y8RZX/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07S1Y8RZX/?tag=redken01-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

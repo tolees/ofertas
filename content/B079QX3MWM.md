@@ -20,4 +20,6 @@ Ahora mismo tienes [Sharp HT-SBW110 2.1 Slim - Barra de Sonido Cine en casa  Blu
 
 [Visítala!!!](https://www.amazon.es/dp/B079QX3MWM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

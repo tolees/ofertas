@@ -20,4 +20,6 @@ Está [Superga 2750 Jvel Classic Zapatillas Unisex Para Niños  Rojo  Red   32 E
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004FLJFTC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

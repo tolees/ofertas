@@ -20,4 +20,6 @@ Ahora mismo tienes [Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios Gl
 
 [Visítala!!!](https://www.amazon.es/dp/B001KNVPXM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

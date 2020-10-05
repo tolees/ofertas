@@ -20,4 +20,6 @@ Tienes [Victoria Mercedes Lona Pañuelo  Zapatos de primeros pasos para Bebé-Ni
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JSXZ3SO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

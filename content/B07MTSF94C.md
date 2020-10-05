@@ -20,4 +20,6 @@ Está [Brydge Pro 11.0 Keyboard for 11.0 inch iPad Pro | 3rd Generation  2018 mo
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07MTSF94C/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

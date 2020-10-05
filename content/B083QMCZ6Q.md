@@ -20,4 +20,6 @@ Ahora mismo tienes [Braun Beard Trimmer BT3221 and Hair Clipper for Men  Lifetim
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B083QMCZ6Q/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [MasterClass Small Non-Stick Baking Tray  16.5 x 10 cm  6.5" x 4" ](https:
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B001DXG2GO/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

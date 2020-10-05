@@ -20,4 +20,6 @@ Tienes [Funko 4851 S6 No Actionfigur Game of Thrones: Rhaegal  Multi  6 Zoll](ht
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B00TQ8SLLC/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

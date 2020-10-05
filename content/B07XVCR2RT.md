@@ -20,4 +20,6 @@ Está [Scented Candles Gifts Set for Women- Lavender  Rosemary Vanilla and Frees
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07XVCR2RT/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

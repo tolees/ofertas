@@ -20,4 +20,6 @@ Está [Sunbeam 69529.14 Granger cutlery set  wood block  14 Piece  Black](https:
 
 [Ver la oferta!!](https://www.amazon.com/dp/B001VIUZUU/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Vige 25 Pares Herramienta de reparación de almohadillas de silicona para
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07WG3H4LL/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

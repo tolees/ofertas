@@ -20,4 +20,6 @@ Está [Bialetti Impact  07559  textured nonstick surface  oil distribution 10 pi
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07BT1GK9L/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

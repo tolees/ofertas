@@ -20,4 +20,6 @@ Ahora mismo tienes [NIMASO Cable USB C 3A[4 Pack 0.3M+1M+2M+3M] Cable USB Tipo C
 
 [Visítala!!!](https://www.amazon.es/dp/B07Z9YW8GM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

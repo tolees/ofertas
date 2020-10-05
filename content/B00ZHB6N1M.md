@@ -20,4 +20,6 @@ Ahora mismo tienes [Braun Series 3 ProSkin 3020s Afeitadora Eléctrica Hombre  A
 
 [Visítala!!!](https://www.amazon.es/dp/B00ZHB6N1M/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

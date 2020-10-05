@@ -20,4 +20,6 @@ Ahora mismo tienes [Levi s Relaxed Graphic tee Camiseta  Blanco  90 s Serif Logo
 
 [Visítala!!!](https://www.amazon.es/dp/B07RZLJDB9/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

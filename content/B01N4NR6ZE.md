@@ -20,4 +20,6 @@ Está [FUNKO POP! 12699 TELEVISION: Twin Peaks - Leland Palmer](https://www.amaz
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B01N4NR6ZE/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

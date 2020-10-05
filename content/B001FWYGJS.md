@@ -20,4 +20,6 @@ Ahora mismo tienes [TP-Link TL-WR841N - WiFi router inalámbrico  300 Mbps de ve
 
 [Visítala!!!](https://www.amazon.es/dp/B001FWYGJS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

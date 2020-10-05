@@ -20,4 +20,6 @@ Está [ADEPTNA 80 Pcs Educational Building Blocks Game for Kids Children - Plast
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07JR2G4NP/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

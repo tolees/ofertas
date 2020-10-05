@@ -20,4 +20,6 @@ Está [HANMUN Kid Electronic Musical Microphone Toys Toddler Karaoke Voice Chang
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NRJ2B1F/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

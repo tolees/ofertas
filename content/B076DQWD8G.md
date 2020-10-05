@@ -20,4 +20,6 @@ Ahora mismo tienes [QMAY 24 Colors Air Dry Clay  Magic Clay Polymer Clay Non Tox
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B076DQWD8G/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

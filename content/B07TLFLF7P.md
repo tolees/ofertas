@@ -20,4 +20,6 @@ Tienes [Charles Wilson Camiseta Polo de Punto Abultado  X-Large  Black ](https:/
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TLFLF7P/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

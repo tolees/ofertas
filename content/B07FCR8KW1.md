@@ -20,4 +20,6 @@ Ahora mismo tienes [Samsung C32JG52 80 cm  32 Zoll  Curved Gaming Monitor  HDMI 
 
 [Visítala!!!](https://www.amazon.de/dp/B07FCR8KW1/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

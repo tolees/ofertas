@@ -20,4 +20,6 @@ Ahora mismo tienes [Inter Link 19500010 Regal "Parini 1"  1 Boden  2 Fächer Son
 
 [Visítala!!!](https://www.amazon.de/dp/B009RJNOO4/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

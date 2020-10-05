@@ -20,4 +20,6 @@ Tienes [LEGO Technic 42098 - Autotransporter 2 in 1 LKW und Show Cars Modell](ht
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07NDBSR45/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

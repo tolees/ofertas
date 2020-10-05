@@ -20,4 +20,6 @@ Tienes [ITECHNIK Recambios Cepillo Compatible Oral B  Cabezal de Recambio Para O
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XZ6GZXJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

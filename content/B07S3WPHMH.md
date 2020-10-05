@@ -20,4 +20,6 @@ Está [Levi s Relaxed Graphic Sudadera  Blanco  Crew Box Taba White+ 0092   XX-S
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07S3WPHMH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

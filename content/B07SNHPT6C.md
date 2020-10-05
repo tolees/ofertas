@@ -20,4 +20,6 @@ Ahora mismo tienes [SS&LL La basura del paso Puede Cubos de basura Con Tapas rec
 
 [Visítala!!!](https://www.amazon.de/dp/B07SNHPT6C/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

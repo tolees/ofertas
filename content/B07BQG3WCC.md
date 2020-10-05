@@ -20,4 +20,6 @@ Está [LG 65UK6750PLD - Smart TV de 164 cm  65"  LED UHD 4K  Inteligencia Artifi
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BQG3WCC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

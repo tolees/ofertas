@@ -20,4 +20,6 @@ Tienes [LEGO Star Wars 8020325 Sturmtruppler Kinder-Armbanduhr mit Minifigur und
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B003WYZT2A/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

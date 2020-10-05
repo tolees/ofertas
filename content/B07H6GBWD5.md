@@ -20,4 +20,6 @@ Ahora mismo tienes [SHOBDW Liquidación Venta Mujer Sudadera con Capucha Suelta 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H6GBWD5/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

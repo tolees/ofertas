@@ -20,4 +20,6 @@ Está [SAMYANG 8 mm f/3.5 UMC CS II fisheye lens - for Canon](https://www.amazon
 
 [Ver la oferta!!](https://www.amazon.es/dp/B009YTQFF2/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

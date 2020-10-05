@@ -20,4 +20,6 @@ Ahora mismo tienes [AmScope 120X-1200X 52-pcs Kids Beginner Microscope STEM Kit 
 
 [Visítala!!!](https://www.amazon.com/dp/B00GGY85EC/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

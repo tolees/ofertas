@@ -20,4 +20,6 @@ Tienes [PUMA Popcat  Zapatos de Playa y Piscina Unisex Adulto  White Black  39 E
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NA7B7SO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

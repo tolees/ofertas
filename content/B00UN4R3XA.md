@@ -20,4 +20,6 @@ Tienes [Montblanc Emblem Intense Edt Vapo 100 Ml 1 Unidad 100 ml](https://www.am
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00UN4R3XA/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

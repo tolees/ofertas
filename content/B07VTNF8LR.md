@@ -20,4 +20,6 @@ Ahora mismo tienes [Esprit 999EE1F808s Blusa  Azul  Light Blue 440   34  Talla d
 
 [Visítala!!!](https://www.amazon.es/dp/B07VTNF8LR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

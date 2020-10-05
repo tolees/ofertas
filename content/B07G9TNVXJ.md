@@ -20,4 +20,6 @@ Tienes [Moleskine  Borsa Porta PC per Laptop  Tablet  iPad e Notebook fino a 13 
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07G9TNVXJ/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

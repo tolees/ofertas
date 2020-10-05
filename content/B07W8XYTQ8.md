@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO Friends 41394 Krankenhaus von Heartlake City mit 3 Spie
 
 [Visítala!!!](https://www.amazon.de/dp/B07W8XYTQ8/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

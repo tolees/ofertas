@@ -20,4 +20,6 @@ Está [Ingenious Toys® technic RC car 2.4GHz / construction set  C51016W ](http
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07DPT3V7R/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

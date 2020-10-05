@@ -20,4 +20,6 @@ Ahora mismo tienes [Untouchable [DVD]  2011 ](https://www.amazon.co.uk/dp/B00A6V
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B00A6VGLJM/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

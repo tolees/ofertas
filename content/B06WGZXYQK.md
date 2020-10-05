@@ -20,4 +20,6 @@ Está [Playmobil - 4X4 avec Coffre de Toit - 9281](https://www.amazon.fr/dp/B06W
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B06WGZXYQK/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

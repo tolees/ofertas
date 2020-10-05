@@ -20,4 +20,6 @@ Tienes [Colgante con perlas de plata de ley 925 Abalorio compatible con Pandor p
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D6RB6TK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [American Tourister Bon Air Spinner L Koffer  75 cm  91 L  Türkis  Deep 
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B01BYJO7AE/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

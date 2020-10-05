@@ -20,4 +20,6 @@ Ahora mismo tienes [Saucony Shadow Original Vintage  Scarpe da Ginnastica Basse 
 
 [Visítala!!!](https://www.amazon.it/dp/B07DP6K9QD/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

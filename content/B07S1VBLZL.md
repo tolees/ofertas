@@ -20,4 +20,6 @@ Tienes [Wangel Toallero Barra Fijar Sin Taladro  Porta Toallas Baño 40cm  Pegam
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07S1VBLZL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

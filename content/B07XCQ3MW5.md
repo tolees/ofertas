@@ -20,4 +20,6 @@ Ahora mismo tienes [Motorola Moto E6 Plus  pantalla 6 1" max vision  doble cáma
 
 [Visítala!!!](https://www.amazon.es/dp/B07XCQ3MW5/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

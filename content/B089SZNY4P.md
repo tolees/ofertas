@@ -20,4 +20,6 @@ Ahora mismo tienes [BRIKSMAX Kit de LED pour Lego Speed Champions 1985 Audi Spor
 
 [Visítala!!!](https://www.amazon.fr/dp/B089SZNY4P/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

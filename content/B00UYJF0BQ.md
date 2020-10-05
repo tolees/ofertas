@@ -20,4 +20,6 @@ Ahora mismo tienes [Rimmel London Oh My Gloss! Brillo de Labios Tono 150 Glossah
 
 [Visítala!!!](https://www.amazon.es/dp/B00UYJF0BQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

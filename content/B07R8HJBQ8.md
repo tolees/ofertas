@@ -20,4 +20,6 @@ Ahora mismo tienes [Kasa Smart Bulb by TP-Link  WiFi Smart Switch  B22  10W  Wor
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07R8HJBQ8/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

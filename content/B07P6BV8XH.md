@@ -20,4 +20,6 @@ Tienes [Lego Movie Pijamas de Manga Corta para niños La Lego película Rojo 5-6
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P6BV8XH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

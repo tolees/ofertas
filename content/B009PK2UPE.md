@@ -20,4 +20,6 @@ Tienes [Woxter Cooling Pad 1560 R – Base refrigeradora para portátiles  5 ven
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B009PK2UPE/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

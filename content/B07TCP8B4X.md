@@ -20,4 +20,6 @@ Está [Finocam - Recambio Anual 2020 semana vista vertical Open R1099 español  
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TCP8B4X/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

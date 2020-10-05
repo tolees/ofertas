@@ -20,4 +20,6 @@ Está [PLAYMOBIL- Todoterreno con Piratas del Hielo  única  9059 ](https://www.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWT6O7E/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Tamaris 1-1-25242-23  Botas Militar para Mujer  Marrón  Cog
 
 [Visítala!!!](https://www.amazon.es/dp/B07NJHP3HD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

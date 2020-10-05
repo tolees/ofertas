@@ -20,4 +20,6 @@ Tienes [PLAYMOBIL Adventskalender 70187 Kampf um den magischen Stein  Ab 8 Jahre
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07P7KPCWK/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

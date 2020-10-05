@@ -20,4 +20,6 @@ Tienes [Warner Bros Interactive Spain Harry Potter - Hermione  Fun Pack ](https:
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MTG7FX7/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [SRAM 89.2711.114.105 Cadena  1071  Hollowpin  114 eslabones  10v  Multico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003VFEF8O/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

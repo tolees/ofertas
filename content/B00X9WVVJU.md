@@ -20,4 +20,6 @@ Tienes [L Oreal París - Barra de Labios Color Riche 238](https://www.amazon.es/
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00X9WVVJU/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [BOSS Citravel_2 Blusa  Azul  Bright Blue 439   40  Talla del Fabricante:
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KGGTT5X/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

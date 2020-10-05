@@ -20,4 +20,6 @@ Está [Microsoft Surface Pro X  13 Zoll 2-in-1 Tablet  Microsoft SQ1  16GB RAM  
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07Y2F6NWJ/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

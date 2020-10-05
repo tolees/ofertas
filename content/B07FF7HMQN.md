@@ -20,4 +20,6 @@ Está [Cybex Gold  Sirona S i-Size 519000215 Silla de Coche Grupo 0+/1  Sistema 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FF7HMQN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

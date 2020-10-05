@@ -20,4 +20,6 @@ Ahora mismo tienes [COMPRESSPORT Compress Port Hombre V3 Sock Low Unidad Calcet
 
 [Visítala!!!](https://www.amazon.es/dp/B072K4CSWR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

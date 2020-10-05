@@ -20,4 +20,6 @@ Ahora mismo tienes [Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   30W / 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTH9WNN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

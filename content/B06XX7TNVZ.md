@@ -20,4 +20,6 @@ Tienes [Premium Messerschärfer Schleifstein Körnung 1000/6000. Großer 210 x 7
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B06XX7TNVZ/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

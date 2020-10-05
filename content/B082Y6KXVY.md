@@ -20,4 +20,6 @@ Ahora mismo tienes [Oihxse Case Compatible con Realme 5 Pro Funda Transparente S
 
 [Visítala!!!](https://www.amazon.es/dp/B082Y6KXVY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Botas de Seguridad de Cuero para Hombres Protección de al S
 
 [Visítala!!!](https://www.amazon.es/dp/B01IR9VYR8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

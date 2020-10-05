@@ -20,4 +20,6 @@ Ahora mismo tienes [BRIKSMAX Technic Porsche 911 GT3 RS Led Beleuchtungsset - Ko
 
 [Visítala!!!](https://www.amazon.de/dp/B07KWNX9R7/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Eaton 3S UPS 850VA - 3S850D - Sistema de alimentación inint
 
 [Visítala!!!](https://www.amazon.es/dp/B082TGJNST/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

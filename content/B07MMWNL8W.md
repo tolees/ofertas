@@ -20,4 +20,6 @@ Tienes [Wrangler Skinny Jeans Vaqueros  Azul  Dark Indigo X1e   30W / 32L para M
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MMWNL8W/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

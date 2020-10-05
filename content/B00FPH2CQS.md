@@ -20,4 +20,6 @@ Está [Nikon D610 Digital SLR Camera  24.3MP  3.2 inch LCD](https://www.amazon.c
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B00FPH2CQS/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

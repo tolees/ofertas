@@ -20,4 +20,6 @@ Ahora mismo tienes [Renberg Cubiertos  Diseño Liso y Plano  Acero Inoxidable  C
 
 [Visítala!!!](https://www.amazon.es/dp/B074PWX3YV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

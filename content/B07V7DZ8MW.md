@@ -20,4 +20,6 @@ Está [JACK & JONES Jjiace Jjworker WW Pantalones  Verde  Olive Night Olive Nigh
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07V7DZ8MW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [SOLEDI Fieltro Manualidades Tela no Tejido de Lana 41 Colore
 
 [Visítala!!!](https://www.amazon.es/dp/B01LY46SFA/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

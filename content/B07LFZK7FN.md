@@ -20,4 +20,6 @@ Está [Geox U Jaylon F  Botas Clasicas para Hombre  Negro  Black C9999   39 EU](
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFZK7FN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

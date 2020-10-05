@@ -20,4 +20,6 @@ Tienes [American Tourister Flylife Equipaje de Mano 67 Centimeters 82.5 Gris  Sk
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RR5DNTG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

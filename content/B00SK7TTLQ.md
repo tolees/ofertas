@@ -20,4 +20,6 @@ Está [Hot Chocolate Design Chocolaticas Doris Tacon Mary Jane para Mujeres Mult
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00SK7TTLQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

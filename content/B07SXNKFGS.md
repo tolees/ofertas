@@ -20,4 +20,6 @@ Tienes [Mario & Sonic at the Olympic Games Tokyo 2020 - Nintendo Switch](https:/
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07SXNKFGS/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [New Balance Fresh Foam Cruz v2  Zapatillas para Mujer  Rosa  Conch Shell/
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075R7QGGR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

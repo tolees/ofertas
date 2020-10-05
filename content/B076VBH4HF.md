@@ -20,4 +20,6 @@ Ahora mismo tienes [Canon PowerShot G1X Mark III - Cámara réflex de 24.2 MP  D
 
 [Visítala!!!](https://www.amazon.es/dp/B076VBH4HF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Felix AS Good AS it Looks Misto varietà Cat Food  100 g  C
 
 [Visítala!!!](https://www.amazon.it/dp/B07CVD1Q7W/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

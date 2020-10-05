@@ -20,4 +20,6 @@ Está [Sylvanian Families 2243 - Gartenbank mit Springbrunnen](https://www.amazo
 
 [Ver la oferta!!](https://www.amazon.de/dp/B00TKNJW1G/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

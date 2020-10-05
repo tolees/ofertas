@@ -20,4 +20,6 @@ Tienes [oodji Ultra Mujer Blusa de Punto Ajustada  Negro  ES 40 / M](https://www
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RXRX42M/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

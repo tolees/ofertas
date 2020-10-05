@@ -20,4 +20,6 @@ Está [Funko 43333 POP Bobble Marvel: Holiday-Groot Collectible Figure  Multicol
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07QGWYL1Y/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

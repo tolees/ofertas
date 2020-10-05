@@ -20,4 +20,6 @@ Ahora mismo tienes [Sony Xperia XZ2 - Smartphone de 5.7"  Octa-Core de 2.8 GHz  
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4VC5WD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

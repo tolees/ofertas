@@ -20,4 +20,6 @@ Ahora mismo tienes [Original Kingston MicroSD Karte Speicherkarte 32 GB Für Hua
 
 [Visítala!!!](https://www.amazon.de/dp/B01HOY7S4U/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

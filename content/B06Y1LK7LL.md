@@ -20,4 +20,6 @@ Está [Soporte de aluminio universal Zice para proyector  para techo o pared  ca
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y1LK7LL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

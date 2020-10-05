@@ -20,4 +20,6 @@ Ahora mismo tienes [ASUS ROG STRIX NVIDIA GeForce RTX 2080 Ti OC 11G Gaming Graf
 
 [Visítala!!!](https://www.amazon.de/dp/B07HNMT91C/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

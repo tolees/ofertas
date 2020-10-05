@@ -20,4 +20,6 @@ Tienes [Tian 19Pcs Kit Herramientas de Desmontaje Coche Interior Herramientas de
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GGVG5RC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [GODNECE Technic Racing Car  1:10 2.4G Model Kit Remote Contr
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B0829SQBWB/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

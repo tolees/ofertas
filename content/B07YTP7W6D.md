@@ -20,4 +20,6 @@ Está [Samsonite Paradiver L Disney - Sac à Dos Enfant S+  42 cm  10 L  Blanc  
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07YTP7W6D/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

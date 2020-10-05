@@ -20,4 +20,6 @@ Tienes [Philips Daily HD2637/90 - Tostador 950 W  Doble Ranura  Color Negro  Ino
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01J5FFW9Y/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

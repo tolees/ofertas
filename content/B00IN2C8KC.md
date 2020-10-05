@@ -20,4 +20,6 @@ Ahora mismo tienes [Samyang F1111006101 - Objetivo fotográfico DSLR para Sony E
 
 [Visítala!!!](https://www.amazon.es/dp/B00IN2C8KC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

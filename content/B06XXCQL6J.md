@@ -20,4 +20,6 @@ Ahora mismo tienes [Samsonite Spark SNG Spinner Top Pocket Equipaje de Mano 55 c
 
 [Visítala!!!](https://www.amazon.es/dp/B06XXCQL6J/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

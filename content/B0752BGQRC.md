@@ -20,4 +20,6 @@ Tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D05281  26W / 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0752BGQRC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

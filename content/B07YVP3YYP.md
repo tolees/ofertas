@@ -20,4 +20,6 @@ Tienes [Essie Pintauñas Nude tono 654 Hold´em Tight - 13.5 ml](https://www.ama
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YVP3YYP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

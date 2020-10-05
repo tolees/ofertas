@@ -20,4 +20,6 @@ Está [Vbiger Mochilas Escolares Niña 3 en 1 para 7 a 16 Años  Negro ](https:/
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MY1RGDT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

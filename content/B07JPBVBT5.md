@@ -20,4 +20,6 @@ Ahora mismo tienes [DAM. DMZ038BL. Smartwatch L2 Plus con Monitor Cardíaco Y No
 
 [Visítala!!!](https://www.amazon.es/dp/B07JPBVBT5/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

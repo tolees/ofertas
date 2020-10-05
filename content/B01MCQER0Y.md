@@ -20,4 +20,6 @@ Está [Funko Pop Star Wars The Force Awakens - Nien Nunb Figure + FUNKO PROTECTI
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01MCQER0Y/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

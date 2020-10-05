@@ -20,4 +20,6 @@ Está [Alapmk Protective Case for 15.6" Lenovo ideapad 330s 15 330s-15IKB/ideapa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FM6H1KK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

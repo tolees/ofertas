@@ -14,10 +14,12 @@ comparePrice: 3.09 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sigh No More](https://www.amazon.co.uk/dp/B002PHYNRM/?tag=redken01-21) a 1.97 GBP (original: 3.09 GBP) (36.25 %  de descuento) en el siguiente enlace!
+Está [Sigh No More](https://www.amazon.co.uk/dp/B002PHYNRM/?tag=redken01-21) con 36.25 de descuento por 1.97 GBP (original: 3.09 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51HAC6IU+iL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B002PHYNRM/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B002PHYNRM/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B002PHYNRM/?tag=redken01-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

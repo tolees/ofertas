@@ -20,4 +20,6 @@ Está [Carvapet 2 Piece Kitchen Rug Set Non-Slip Backing Mat Throw Rug for Kitch
 
 [Ver la oferta!!](https://www.amazon.com/dp/B081JLZBGN/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

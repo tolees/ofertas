@@ -20,4 +20,6 @@ Está [Medion E4273 35  5 cm  14 Zoll Full HD Touch  Convertible Notebook  Intel
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07J58WXHR/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

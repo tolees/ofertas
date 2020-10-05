@@ -20,4 +20,6 @@ Está [Childs Farm hand wash grapefruit and organic tea tree oil 250ml](https://
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B00IOPZBFM/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

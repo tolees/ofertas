@@ -20,4 +20,6 @@ Ahora mismo tienes [Star Wars Eau de Toilette en Estuche - 30 ml](https://www.am
 
 [Visítala!!!](https://www.amazon.es/dp/B01GQE9FQI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

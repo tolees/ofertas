@@ -20,4 +20,6 @@ Ahora mismo tienes [Kuhn Rikon Set de 2 ollas a presión con Asas  4 L + 8 L  24
 
 [Visítala!!!](https://www.amazon.es/dp/B00SFW5B7W/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

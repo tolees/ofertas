@@ -20,4 +20,6 @@ Ahora mismo tienes [Star Wars-Funko SW-EP8 Figura de Vinilo Pop 13: B Character 
 
 [Visítala!!!](https://www.amazon.es/dp/B071Z8NRHY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

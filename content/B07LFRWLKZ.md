@@ -20,4 +20,6 @@ Tienes [Waterpik Complete Care 9.5 - Cepillo de dientes eléctrico oscilante y i
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LFRWLKZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

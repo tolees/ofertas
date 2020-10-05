@@ -20,4 +20,6 @@ Ahora mismo tienes [SANGEAN DT-160 Am/FM](https://www.amazon.es/dp/B06X9TWPBB/?t
 
 [Visítala!!!](https://www.amazon.es/dp/B06X9TWPBB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

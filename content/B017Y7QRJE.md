@@ -20,4 +20,6 @@ Tienes [Milwaukee 48-22-4255 48224255 Reaming Pen  Red](https://www.amazon.co.uk
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B017Y7QRJE/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

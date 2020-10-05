@@ -20,4 +20,6 @@ Tienes [Pepe Jeans Pixie Vaqueros Pitillo Hombre  Negro  Black Wiser Wash Denim 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NCBTWNJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

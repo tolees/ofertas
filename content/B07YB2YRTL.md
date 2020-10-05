@@ -20,4 +20,6 @@ Ahora mismo tienes [Selvim Anillo de Luz LED  Aro de Luz Fotográfica con Soport
 
 [Visítala!!!](https://www.amazon.es/dp/B07YB2YRTL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

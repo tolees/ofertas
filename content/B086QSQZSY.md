@@ -20,4 +20,6 @@ Tienes [MAJOZ0 LED Lighting Kit for LEGO 21313 Ideas Ship in a Bottle  Not Inclu
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B086QSQZSY/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

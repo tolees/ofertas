@@ -20,4 +20,6 @@ Ahora mismo tienes [ASUS Graphic Cards STRIX-GTX1060-A6G-GAMING](https://www.ama
 
 [Visítala!!!](https://www.amazon.com/dp/B07GRSHW97/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

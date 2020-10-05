@@ -20,4 +20,6 @@ Está [DC Comics 8404 Funko Pop Movies: Suicide Squad Action Figure  Rick Flag](
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B01CBME31Q/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

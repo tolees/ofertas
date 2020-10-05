@@ -20,4 +20,6 @@ Ahora mismo tienes [ASUS ROG Maximus XI Hero  Wi-Fi  - Placa base Gaming ATX Int
 
 [Visítala!!!](https://www.amazon.es/dp/B07HS11LFT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

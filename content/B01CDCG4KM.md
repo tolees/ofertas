@@ -20,4 +20,6 @@ Ahora mismo tienes [Fosmon Cargador Mando Xbox One  Doble Estación de Carga Car
 
 [Visítala!!!](https://www.amazon.es/dp/B01CDCG4KM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

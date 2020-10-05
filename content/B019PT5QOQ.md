@@ -20,4 +20,6 @@ Ahora mismo tienes [Mobicool V30  tragbare thermo-elektrische Kühlbox  29 Liter
 
 [Visítala!!!](https://www.amazon.de/dp/B019PT5QOQ/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

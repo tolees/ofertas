@@ -20,4 +20,6 @@ Ahora mismo tienes [K9CK Juego de Luces para Land Rover Defender  Led Faro Kit d
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZKGC7XX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

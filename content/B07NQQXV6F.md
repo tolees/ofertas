@@ -20,4 +20,6 @@ Ahora mismo tienes [Springfield FR Bomber Sudadera  Negro  Black 1   Medium  Tam
 
 [Visítala!!!](https://www.amazon.es/dp/B07NQQXV6F/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

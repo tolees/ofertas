@@ -20,4 +20,6 @@ Está [Tommy Hilfiger Boys Basic Vn Knit S/s Camiseta  Azul  Sky Captain 420   1
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DXCXDZD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

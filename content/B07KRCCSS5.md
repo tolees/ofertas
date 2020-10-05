@@ -20,4 +20,6 @@ Tienes [New Balance Women s 411 Running Shoes  Black Black Pink   9 UK 43 EU](ht
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07KRCCSS5/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

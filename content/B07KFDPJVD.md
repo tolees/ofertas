@@ -20,4 +20,6 @@ Tienes [USB Recargable Calentador De Manos 6000 mAh Banco De Energía Móvil a P
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KFDPJVD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

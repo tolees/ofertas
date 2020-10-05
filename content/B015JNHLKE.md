@@ -20,4 +20,6 @@ Está [Rimmel Exaggerate Smoke N Shine Eyeliner 002/Copper Bling  Pack of 1](htt
 
 [Ver la oferta!!](https://www.amazon.com/dp/B015JNHLKE/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

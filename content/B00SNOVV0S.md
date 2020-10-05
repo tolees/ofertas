@@ -20,4 +20,6 @@ Está [Tescoma 420910 Presto Termometro Digitale  Acciaio Inossidabile  Rosso](h
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00SNOVV0S/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

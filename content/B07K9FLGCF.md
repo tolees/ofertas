@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO 75253 Star Wars BOOST Droid Commander 3 Robot Toys in 1
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07K9FLGCF/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

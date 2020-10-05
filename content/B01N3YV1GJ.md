@@ -20,4 +20,6 @@ Está [Playmobil-9100 Maletín Grande Cuidado de Caballos  Multicolor  única  9
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N3YV1GJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

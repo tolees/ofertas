@@ -20,4 +20,6 @@ Tienes [Home Fleek - Envases de Vidrio para Alimentos | 6 Recipientes + 6 Tapas 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B083SHX1BL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Desigual 19WAXP47 - Bolso de hombro de Sintético Mujer 30.5
 
 [Visítala!!!](https://www.amazon.es/dp/B07MXWMH7P/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

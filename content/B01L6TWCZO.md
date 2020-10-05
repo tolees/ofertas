@@ -20,4 +20,6 @@ Ahora mismo tienes [Lee Rider Jeans Vaqueros  Black Rinse Yc47  42W / 34L para H
 
 [Visítala!!!](https://www.amazon.es/dp/B01L6TWCZO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Funko - Estatuilla de Disney Cars - Doc Hudson Pop 10cm - 0849803042394](
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00TRDHH16/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

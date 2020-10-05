@@ -20,4 +20,6 @@ Tienes [Juego de 12 pasadores Dooppa  para niña  con cierre de cocodrillo](http
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076Q3PNKM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

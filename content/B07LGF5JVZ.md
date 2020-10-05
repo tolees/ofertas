@@ -20,4 +20,6 @@ Ahora mismo tienes [Dodot Sensitive - Pañales Talla 4  48 Pañales  9-14 kg](ht
 
 [Visítala!!!](https://www.amazon.es/dp/B07LGF5JVZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

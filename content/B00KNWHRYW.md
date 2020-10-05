@@ -20,4 +20,6 @@ Ahora mismo tienes [Orlane Oligo Vit-A-Min Loción Vitalisante 250 ml](https://w
 
 [Visítala!!!](https://www.amazon.es/dp/B00KNWHRYW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

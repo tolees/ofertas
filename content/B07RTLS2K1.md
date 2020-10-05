@@ -20,4 +20,6 @@ Está [Funko 44824 POP Moment: Game of Thrones-Daenerys & Jorah B2B w/Swords Col
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07RTLS2K1/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

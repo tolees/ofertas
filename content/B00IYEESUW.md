@@ -20,4 +20,6 @@ Ahora mismo tienes [Einhell TH-CS 1200/1 - Sierra circular  5000 rpm  diámetro 
 
 [Visítala!!!](https://www.amazon.es/dp/B00IYEESUW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

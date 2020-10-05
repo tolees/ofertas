@@ -20,4 +20,6 @@ Ahora mismo tienes [Huawei Band 3 Pro Fitness-Aktivitätstracker  All-in-One Sma
 
 [Visítala!!!](https://www.amazon.de/dp/B07H4X3CWD/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

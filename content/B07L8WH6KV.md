@@ -20,4 +20,6 @@ Está [REPLAY Anbass Vaqueros Slim  Azul  Dark Blue 7   W34/L32  Talla del Fabri
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07L8WH6KV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO Movie 2 70823 Dreirad Emmet’s Thricycle](https://www.
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07FNS6J8H/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

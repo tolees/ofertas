@@ -20,4 +20,6 @@ Ahora mismo tienes [Finether Armario de Cultivo Interior 120x120x200 cm Grow Box
 
 [Visítala!!!](https://www.amazon.es/dp/B0719RRPKR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

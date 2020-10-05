@@ -20,4 +20,6 @@ Está [TestoMax X12 | Potente booster de testosterona pura | Con maca andina y t
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q2Y5MFR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [NETVIP WiFi USB Adaptador 1200Mpbs Receptor WiFi Inalámbrico Dual Band 2
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZJ3M2HV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

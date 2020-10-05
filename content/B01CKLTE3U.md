@@ -20,4 +20,6 @@ Ahora mismo tienes [LG 34UM88C-P 86 36 cm  34 Zoll  21:9 UltraWide QHD IPS Monit
 
 [Visítala!!!](https://www.amazon.de/dp/B01CKLTE3U/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

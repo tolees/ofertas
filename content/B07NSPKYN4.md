@@ -20,4 +20,6 @@ Ahora mismo tienes [Funko 39346 POP TV: Cheers-Woody Collectible Figure  Multico
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07NSPKYN4/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

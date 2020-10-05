@@ -20,4 +20,6 @@ Ahora mismo tienes [Crucial Ballistix Sport LT BLS16G4D30AESE 3000 MHz  DDR4  DR
 
 [Visítala!!!](https://www.amazon.de/dp/B07MGPGXPS/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Dell 8GB DDR3L-1600 PC3L-12800 204Pin Sodimm Low Voltage RAM Memory Upgra
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00J32HJCI/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

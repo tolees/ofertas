@@ -20,4 +20,6 @@ Ahora mismo tienes [Epson C13T70124010 - Cartucho de tinta  cian  Ya disponible 
 
 [Visítala!!!](https://www.amazon.es/dp/B005FJSVHK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

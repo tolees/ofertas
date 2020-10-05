@@ -20,4 +20,6 @@ Tienes [ZARRS 180 Piezas Ojos de Seguridad de Juguete Plástico  6-12 mm con Ara
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07STK6GHT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

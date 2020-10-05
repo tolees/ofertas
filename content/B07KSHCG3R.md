@@ -20,4 +20,6 @@ Está [Samsung Memorie MZ-76Q1T0 860 QVO SSD Interno da 1 TB  SATA  2.5"](https:
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07KSHCG3R/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

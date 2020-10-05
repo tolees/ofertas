@@ -20,4 +20,6 @@ Ahora mismo tienes [Celestron 94308 Observers Accessory Kit - Black](https://www
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B00COWRX9I/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

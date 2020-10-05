@@ -20,4 +20,6 @@ Está [Wrangler LS 1pkt Shirt Camisa  Rojo  Crimson Red X51   Small para Hombre]
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07M8LQX2X/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [New Balance 574v2  Zapatillas para Mujer  Rosa  Pink/Black Pink/Black   3
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRLNB73/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

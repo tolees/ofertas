@@ -20,4 +20,6 @@ Está [POP Rocks: Metallica - Robert Trujillo](https://www.amazon.de/dp/B072R4PX
 
 [Ver la oferta!!](https://www.amazon.de/dp/B072R4PXCR/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

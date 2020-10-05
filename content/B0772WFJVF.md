@@ -20,4 +20,6 @@ Tienes [Funko 22058 S1 POP Vinylfigur: Ready Player One: i-R0k  Multi](https://w
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B0772WFJVF/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

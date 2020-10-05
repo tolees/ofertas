@@ -20,4 +20,6 @@ Ahora mismo tienes [ArtBin Floss Finder with Dividers10.75 7.375-inch x 1.75-inc
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B00YNZUSXW/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

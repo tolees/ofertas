@@ -20,4 +20,6 @@ Ahora mismo tienes [HP Spectre x360 15-df0106ng  15 6 Zoll/ UHD Touchscreen  Con
 
 [Visítala!!!](https://www.amazon.de/dp/B07JKJFRK4/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

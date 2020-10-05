@@ -20,4 +20,6 @@ Está [TAZEMAT 48 Hojas Marcapágina Originales para Rascar Scratch Art Manualid
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082DZ5JJD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Under Armour UA Drift RN Mineral  Zapatillas de Running para
 
 [Visítala!!!](https://www.amazon.es/dp/B01CE41YSQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [KRISP Vestido Moda Mujer Fruncido  Granate  6487   46  6487-WIN-18](https
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00PWMZSXK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

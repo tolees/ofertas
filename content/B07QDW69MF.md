@@ -20,4 +20,6 @@ Tienes [Funda de Silicona para Fire TV Stick 4K Control Remoto [Antideslizante] 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QDW69MF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

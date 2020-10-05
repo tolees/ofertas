@@ -20,4 +20,6 @@ Ahora mismo tienes [YspgArt66 - Lienzo Decorativo para Pared  5 Piezas   diseño
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVPMWVH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

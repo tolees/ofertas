@@ -20,4 +20,6 @@ Está [LTB Jeans Valerie Vaqueros Corte de Bota  Azul  Nome Wash 51895   24W / 3
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MHPP4F1/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

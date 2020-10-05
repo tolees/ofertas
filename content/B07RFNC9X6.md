@@ -20,4 +20,6 @@ Ahora mismo tienes [adidas Stan Smith J  Zapatillas de Gimnasia Unisex Niños  B
 
 [Visítala!!!](https://www.amazon.es/dp/B07RFNC9X6/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

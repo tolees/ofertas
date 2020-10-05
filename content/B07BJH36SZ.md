@@ -20,4 +20,6 @@ Tienes [BlankieGram Healing Thoughts Blanket The Ultimate Healing Gift  Pink ](h
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07BJH36SZ/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

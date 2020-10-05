@@ -20,4 +20,6 @@ Tienes [Kickers Hobbytwo  Botas Slouch para Mujer   Gris Taupe 123   36 EU](http
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MS93YPV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

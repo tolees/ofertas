@@ -20,4 +20,6 @@ Ahora mismo tienes [ColiCor Display Stand Soporte para Lego 42083 Technic Bugatt
 
 [Visítala!!!](https://www.amazon.es/dp/B086DN7QQK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

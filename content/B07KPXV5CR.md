@@ -20,4 +20,6 @@ Ahora mismo tienes [UniqueMe Funda para Nokia 9  Ultra [Slim Thin] TPU Funda Pro
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPXV5CR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

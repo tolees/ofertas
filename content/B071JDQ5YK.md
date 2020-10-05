@@ -20,4 +20,6 @@ Tienes [Merrell Men s Moab 2 Vent Low Rise Hiking Boots  Brown Pecan   7 UK](htt
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B071JDQ5YK/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

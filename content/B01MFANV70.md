@@ -20,4 +20,6 @@ Tienes [Babymoov A012374  Doomoo Nid New Generation - Hamaca  diseño Natural  6
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MFANV70/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

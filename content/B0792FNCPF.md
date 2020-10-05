@@ -20,4 +20,6 @@ Está [Little Live Bizzy Babies- Bebé con cunita Gracie   Famosa 700013993 ](ht
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0792FNCPF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Levi s Two Horse Embossed Belt Cinturón  Marrón  Brown 28 
 
 [Visítala!!!](https://www.amazon.es/dp/B07RCK2Q7B/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

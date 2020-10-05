@@ -20,4 +20,6 @@ Tienes [Esprit 089ee1f005 Blusa  Blanco  Off White 110   36  Talla del Fabricant
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RZ9B4SB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

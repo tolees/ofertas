@@ -20,4 +20,6 @@ Ahora mismo tienes [VSADEY Aceite de Ricino Orgánico 100% Natural Castor Oil Ac
 
 [Visítala!!!](https://www.amazon.es/dp/B07PN34GPV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

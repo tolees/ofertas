@@ -20,4 +20,6 @@ Está [Dickie Toys 203818000 Happy Farm House  Bauernhof  Set für Kinder ab 1 J
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07PHPFDY4/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

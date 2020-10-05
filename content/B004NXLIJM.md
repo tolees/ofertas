@@ -20,4 +20,6 @@ Ahora mismo tienes [Donna Karan DKNY  Agua de tocador para mujeres - 100 ml.](ht
 
 [Visítala!!!](https://www.amazon.es/dp/B004NXLIJM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

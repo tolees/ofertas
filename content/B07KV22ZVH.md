@@ -20,4 +20,6 @@ Está [Neon Moon-Nursery Night Lamp Gift-Wall Decor Lights para Navidad  fiesta 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KV22ZVH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

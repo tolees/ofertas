@@ -20,4 +20,6 @@ Ahora mismo tienes [Nuevo 5A + Chinese Top Grade Lago Oeste Spring Longjing Té 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FVZGYRF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

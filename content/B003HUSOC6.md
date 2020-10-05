@@ -20,4 +20,6 @@ Tienes [Carolina Herrera 212 Men NYC Agua de Tocador Vaporizador - 200 ml](https
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003HUSOC6/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

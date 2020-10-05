@@ -20,4 +20,6 @@ Ahora mismo tienes [Clay Dinosaur Toys Set for Kids - Magic Modeling Clay 26 Pie
 
 [Visítala!!!](https://www.amazon.es/dp/B07KJPQL33/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

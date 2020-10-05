@@ -20,4 +20,6 @@ Está [NU NUVO Híbrido PU Funda de Pantalla de activación/Soporte de Cuerpo Co
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WG7YJH9/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

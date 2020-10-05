@@ -20,4 +20,6 @@ Tienes [Oral-B SmartSeries 6000 Cepillo de Dientes Eléctrico con Tecnología Br
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KBWBADI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [The North Face S/S Simple Dome H Camiseta de Manga Corta  Ho
 
 [Visítala!!!](https://www.amazon.es/dp/B01IF9WCFS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

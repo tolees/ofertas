@@ -20,4 +20,6 @@ Tienes [Grisport 75219 Marostica K Dakar  V.10  men’s and women’s work and 
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B00MX7FNI2/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

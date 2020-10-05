@@ -20,4 +20,6 @@ Tienes [Braun MQ20 Minipimer Accesorio Minipicadora  350 ml  Blanco](https://www
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EQB0Q1W/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

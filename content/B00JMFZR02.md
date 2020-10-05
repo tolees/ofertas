@@ -20,4 +20,6 @@ Tienes [Petrus Grapas  10 hojas  Largo 4 mm  1000 grapas  Modelo 10  55706](http
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JMFZR02/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

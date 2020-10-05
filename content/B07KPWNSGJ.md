@@ -20,4 +20,6 @@ Ahora mismo tienes [DC-77 de 16MP 4X Zoom Digital de Alta definición cámara de
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPWNSGJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

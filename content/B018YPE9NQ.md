@@ -20,4 +20,6 @@ Ahora mismo tienes [Bosch Professional GOP 40-30 - Multiherramienta  400W  Starl
 
 [Visítala!!!](https://www.amazon.es/dp/B018YPE9NQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

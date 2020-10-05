@@ -20,4 +20,6 @@ Tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Negro  Levis Logo Blac
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G2Q9JRN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

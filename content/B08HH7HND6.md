@@ -20,4 +20,6 @@ Tienes [Disque Dur Externe 1to 2to USB 3.1 pour PC  Mac  Ordinateur de Bureaup  
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08HH7HND6/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Aigostar - Bombilla LED E27 12W  Luz Blanca Fría 6400K 1020
 
 [Visítala!!!](https://www.amazon.es/dp/B010QX7QCA/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

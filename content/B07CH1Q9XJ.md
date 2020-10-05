@@ -20,4 +20,6 @@ Ahora mismo tienes [Smoby 311207 Tefal French Touch Bubble Küche  rot](https://
 
 [Visítala!!!](https://www.amazon.de/dp/B07CH1Q9XJ/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

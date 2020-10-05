@@ -20,4 +20,6 @@ Está [Tablet 10 Zoll  Android 8.1  Dragon Touch K10 Tablet Pad 2GB+16GB  Quad C
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07WYYW2YM/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

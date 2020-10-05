@@ -20,4 +20,6 @@ Tienes [Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   X-Large 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N5XPAFS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

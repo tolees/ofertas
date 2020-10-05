@@ -20,4 +20,6 @@ Tienes [TR Turn Raise Cuadro Médico Conjunto Enfermera Médico Kit Parque Infan
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NGZFB2K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

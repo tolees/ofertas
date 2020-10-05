@@ -20,4 +20,6 @@ Está [crocs Crocband U  Zuecos Unisex Adulto  Azul  Ice Blue-White   39-40 EU](
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N7KJN7Y/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Cisco SG110D-05-EU 5-Port Gigabit Desktop Switch](https://www.amazon.co.
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B00UHAZDZ0/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

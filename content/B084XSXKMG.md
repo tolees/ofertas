@@ -20,4 +20,6 @@ Está [LG 75UN71006LC - Smart TV 4K UHD 189 cm  75"  con Inteligencia Artificial
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084XSXKMG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

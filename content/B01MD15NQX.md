@@ -20,4 +20,6 @@ Tienes [G-STAR RAW Ladd Belt Cinturón  Marrón  Dk Cognac/antic Silver 8128   8
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MD15NQX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

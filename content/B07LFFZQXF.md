@@ -20,4 +20,6 @@ Ahora mismo tienes [Levi s Thermore Padded Parka  Verde  Olive Night 2 0005   La
 
 [Visítala!!!](https://www.amazon.es/dp/B07LFFZQXF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

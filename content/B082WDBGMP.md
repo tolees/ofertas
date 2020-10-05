@@ -14,10 +14,12 @@ comparePrice: 29.23 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 71366 Super Mario Riesen-Kugelwillis – Erweiterungsset  Bauspiel](https://www.amazon.de/dp/B082WDBGMP/?tag=redken02-21) a 20.38 EUR (original: 29.23 EUR) (30.28 %  de descuento) en el siguiente enlace!
+Está [LEGO 71366 Super Mario Riesen-Kugelwillis – Erweiterungsset  Bauspiel](https://www.amazon.de/dp/B082WDBGMP/?tag=redken02-21) con 30.28 de descuento por 20.38 EUR (original: 29.23 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51x2LY93FGL._SL200_.jpg)](https://www.amazon.de/dp/B082WDBGMP/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B082WDBGMP/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B082WDBGMP/?tag=redken02-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

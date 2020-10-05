@@ -20,4 +20,6 @@ Tienes [Funko Pop! Star Wars Rebels - Sabine Vinyl Figure](https://www.amazon.co
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B01LEJEB6O/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

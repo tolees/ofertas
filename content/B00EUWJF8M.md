@@ -20,4 +20,6 @@ Tienes [De longhi 5513292831 - Kit de limpieza y mantenimiento para Cafeteras au
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EUWJF8M/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

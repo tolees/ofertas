@@ -20,4 +20,6 @@ Ahora mismo tienes [Ferilinso Cristal Templado para Xiaomi Redmi Note 8T Protect
 
 [Visítala!!!](https://www.amazon.es/dp/B0816KFXHC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

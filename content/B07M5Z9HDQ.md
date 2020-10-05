@@ -20,4 +20,6 @@ Tienes [G-STAR RAW Revend Skinny Vaqueros  Medium Aged Ripped  40W / 34L para Ho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M5Z9HDQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Zenph Tiendas de campaña Familiares  Tienda de campaña ins
 
 [Visítala!!!](https://www.amazon.es/dp/B07HG19YVD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

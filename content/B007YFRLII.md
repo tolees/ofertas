@@ -20,4 +20,6 @@ Tienes [Creative Converting Touch of Color 18 Count Square Paper Dinner Plates  
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B007YFRLII/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Eastpak The One Sac Bandoulière  21 cm  2.5 L  Gris  Sunday
 
 [Visítala!!!](https://www.amazon.fr/dp/B003PPCYCE/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

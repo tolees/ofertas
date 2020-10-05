@@ -20,4 +20,6 @@ Está [Juego de herramientas de 65 piezas DEKO Kit de herramientas de mano para 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PPD6QK7/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

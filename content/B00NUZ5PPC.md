@@ -20,4 +20,6 @@ Está [Pepe Jeans Venus Vaqueros  Azul  10Oz Authentic Rope Str Med D24   28W / 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00NUZ5PPC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [G-STAR RAW Varve Wool Abrigo  Negro  Dk Black 6484   XX-Smal
 
 [Visítala!!!](https://www.amazon.es/dp/B07NDNQVVJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Pepe Jeans Catrina Blusa   Multi 0aa   Medium para Mujer](ht
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZPX4WK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

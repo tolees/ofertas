@@ -20,4 +20,6 @@ Ahora mismo tienes [M2 Beauté Ceja Renovación de 5 ml de suero  1er Pack  1 x 
 
 [Visítala!!!](https://www.amazon.es/dp/B004KVWRNI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

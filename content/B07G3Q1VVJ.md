@@ -20,4 +20,6 @@ Está [2 Batteries pour Manette Xbox One/One S/One X/One Elite 1200 mAh Batterie
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07G3Q1VVJ/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

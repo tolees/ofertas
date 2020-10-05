@@ -20,4 +20,6 @@ Tienes [Pantalla de Proyector de 100 Pulgadas  Portátil para Interiores y Exter
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Z76MXFD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

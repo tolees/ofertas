@@ -20,4 +20,6 @@ Está [Varita masajeadora de ojos  con calor de 42 ° C y vibración sónica par
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VS8X1ZC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

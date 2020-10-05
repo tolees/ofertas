@@ -20,4 +20,6 @@ Ahora mismo tienes [2018 Acer 15.6" HD WLED Chromebook 15 with 3X Faster WiFi La
 
 [Visítala!!!](https://www.amazon.com/dp/B07FSFRWS4/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

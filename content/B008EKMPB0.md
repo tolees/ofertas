@@ -20,4 +20,6 @@ Ahora mismo tienes [B+W 1071068 - Filtro polarizador Circular MRC de 82 mm](http
 
 [Visítala!!!](https://www.amazon.es/dp/B008EKMPB0/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [ASUS ROG STRIX NVIDIA GeForce RTX 2070 OC 8G Gaming Grafikkarte  PCIe 3.0
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07JVWY7SJ/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

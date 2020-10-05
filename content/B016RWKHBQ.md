@@ -20,4 +20,6 @@ Ahora mismo tienes [Trust Urban Senfus IPX5 wasserfeste Bluetooth In-Ear-Sport-O
 
 [Visítala!!!](https://www.amazon.de/dp/B016RWKHBQ/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

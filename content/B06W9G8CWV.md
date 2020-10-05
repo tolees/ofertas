@@ -20,4 +20,6 @@ Está [s.Oliver 53101  Zapatillas para Niños  Azul  Navy   39 EU](https://www.a
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06W9G8CWV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

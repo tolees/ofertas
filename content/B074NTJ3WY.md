@@ -20,4 +20,6 @@ Está [Krups Nescafé Dolce Gusto Lumio KP1305 Kapsel Kaffeemaschine  rot  1 0 l
 
 [Ver la oferta!!](https://www.amazon.de/dp/B074NTJ3WY/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Disco Duro Externo 2TB  Disco Duro Externo USB3.1 Type C par
 
 [Visítala!!!](https://www.amazon.es/dp/B083VSC3FV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

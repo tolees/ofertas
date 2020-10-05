@@ -20,4 +20,6 @@ Ahora mismo tienes [GANT The Original Pique SS Rugger Polo  Rojo  Purpur 542   M
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPQ84TK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

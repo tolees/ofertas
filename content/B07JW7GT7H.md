@@ -20,4 +20,6 @@ Tienes [Adaptador USB C a HDMI QGeeM 4K USB C HDMI Cable [Thunderbolt 3] Compati
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JW7GT7H/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

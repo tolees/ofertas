@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO Overwatch D.Va and Reinhardt 75973 Mech Building Kit wi
 
 [Visítala!!!](https://www.amazon.com/dp/B07G5MJ6CQ/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

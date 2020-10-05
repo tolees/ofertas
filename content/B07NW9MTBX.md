@@ -20,4 +20,6 @@ Ahora mismo tienes [Skechers Women s Solar Fuse-Brisk Escape Trainers  Grey  Gra
 
 [Visítala!!!](https://www.amazon.es/dp/B07NW9MTBX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

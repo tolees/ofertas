@@ -20,4 +20,6 @@ Tienes [Samsonite Disney Ultimate 2.0 - Maleta Infantil  46.5 cm  20.5 l  Azul  
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TZSDC7K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

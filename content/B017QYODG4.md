@@ -20,4 +20,6 @@ Tienes [Superga 2790-COTROPEW  Zapatillas Mujer  Negro  Nero 999   38 EU  5 UK ]
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B017QYODG4/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

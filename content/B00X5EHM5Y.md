@@ -20,4 +20,6 @@ Tienes [Star Wars - Disfraz de Storm Trooper para niños  talla M infantil 5-6 a
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00X5EHM5Y/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

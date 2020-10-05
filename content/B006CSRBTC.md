@@ -20,4 +20,6 @@ Ahora mismo tienes [Milwaukee 2457-20 M12 Cordless 3/8" Sub-Compact 35 ft-Lbs 25
 
 [Visítala!!!](https://www.amazon.com/dp/B006CSRBTC/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

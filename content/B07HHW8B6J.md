@@ -20,4 +20,6 @@ Ahora mismo tienes [Makita XT612M 18V LXT Lithium-Ion Brushless Cordless 6-Pc. C
 
 [Visítala!!!](https://www.amazon.com/dp/B07HHW8B6J/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

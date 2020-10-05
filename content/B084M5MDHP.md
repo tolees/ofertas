@@ -20,4 +20,6 @@ Tienes [Disco Duro Externo 1 TB  Disco Duro Externo Type C USB3.1 para PC  Mac  
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084M5MDHP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

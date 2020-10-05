@@ -20,4 +20,6 @@ Está [G-STAR RAW Graphic 13 Sudadera  Gris  Lt Grey Htr A302   Medium para Homb
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RH2ZCMC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

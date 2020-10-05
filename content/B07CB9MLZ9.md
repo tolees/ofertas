@@ -20,4 +20,6 @@ Tienes [Hewlett Packard CHP850 PREMIUM Papel A4 80 gr 500 Lados universale](http
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CB9MLZ9/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

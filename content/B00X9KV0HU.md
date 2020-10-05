@@ -20,4 +20,6 @@ Ahora mismo tienes [Bose QuietComfort 20 Acoustic Noise Cancelling Headphones fo
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B00X9KV0HU/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

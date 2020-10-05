@@ -20,4 +20,6 @@ Ahora mismo tienes [Lee Men s Daren Zip Fly Jeans  Black  Rinse 47   31W / 30L](
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07M5ZH7WW/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Dockers by Gerli 37wa703  Botines Unisex Niños  Marrón  Braun 300   33
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B014AP6PVI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

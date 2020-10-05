@@ -20,4 +20,6 @@ Está [Sony SEL-18135 Zoom Objektiv 18-135mm F3.5-5.6 OSS  E-Mount APS-C geeigne
 
 [Ver la oferta!!](https://www.amazon.de/dp/B078VPM6WM/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

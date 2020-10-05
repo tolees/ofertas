@@ -20,4 +20,6 @@ Ahora mismo tienes [Achim Home Furnishings BSCS36SP12   57" x 36"  Spice Black E
 
 [Visítala!!!](https://www.amazon.com/dp/B01HPRLH0M/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

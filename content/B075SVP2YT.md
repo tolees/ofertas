@@ -20,4 +20,6 @@ Tienes [LEGO Friends 41339 - Mias Wohnmobil Cooles Kinderspielzeug](https://www.
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B075SVP2YT/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

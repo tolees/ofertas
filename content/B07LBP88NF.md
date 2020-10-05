@@ -20,4 +20,6 @@ Está [Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaque
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBP88NF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Samsonite Aeris Spinner L Maleta  75 cm  87.5 L  Rojo  Red ]
 
 [Visítala!!!](https://www.amazon.es/dp/B002SJUTQQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

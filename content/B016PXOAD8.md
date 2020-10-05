@@ -20,4 +20,6 @@ Está [Lego 90032 Minitaschenlampe Star Wars  R2-D2  7 6 cm](https://www.amazon.
 
 [Ver la oferta!!](https://www.amazon.de/dp/B016PXOAD8/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

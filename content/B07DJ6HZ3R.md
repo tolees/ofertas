@@ -20,4 +20,6 @@ Está [Lacoste Sol 119 1 Cuc  Sandalias de Punta Descubierta Unisex Niños  Rosa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ6HZ3R/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

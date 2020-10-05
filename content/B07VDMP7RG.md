@@ -20,4 +20,6 @@ Ahora mismo tienes [TOY STORY 4 [Blu-ray]](https://www.amazon.com/dp/B07VDMP7RG/
 
 [Visítala!!!](https://www.amazon.com/dp/B07VDMP7RG/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

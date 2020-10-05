@@ -20,4 +20,6 @@ Tienes [Lancaster Suractif Comfort Lift Rich Day Cream 50 ml](https://www.amazon
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BNAPO7K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Esprit 119ee1i004 suéter  Blanco  Off White 2 111   Small para Mujer](ht
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XVQHMD7/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

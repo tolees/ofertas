@@ -20,4 +20,6 @@ Ahora mismo tienes [50x56cm Manta Electrica Espalda y Cuello  Almohadilla Eléct
 
 [Visítala!!!](https://www.amazon.es/dp/B075R1KXYX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

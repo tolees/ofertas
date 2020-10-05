@@ -20,4 +20,6 @@ Tienes [Sony KD55X7055PBAEP  Smart Tv 55 Pollici  Tv 4K Hdr Led Ultra Hd  Nero  
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0845KBDYS/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

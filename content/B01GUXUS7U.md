@@ -20,4 +20,6 @@ Está [Targus TSS93311EU Pro-tek - Funda para Dispositivos de 11.6"  Color Plata
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GUXUS7U/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

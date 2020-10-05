@@ -20,4 +20,6 @@ Ahora mismo tienes [Tp-Link Tl-Sg1008D Switch 8 Porte Gigabit  10/100/1000 MBps 
 
 [Visítala!!!](https://www.amazon.it/dp/B00YMTI6WO/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

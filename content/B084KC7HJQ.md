@@ -20,4 +20,6 @@ Tienes [Samsung Galaxy S20 5G - Smartphone 6.2" Dynamic AMOLED  12GB RAM  128GB 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084KC7HJQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

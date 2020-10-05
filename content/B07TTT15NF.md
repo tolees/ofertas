@@ -20,4 +20,6 @@ Tienes [Women s Secret Daily Bees Db Bee Stripes PJ Conjuntos de Pijama  Gris  G
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TTT15NF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

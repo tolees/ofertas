@@ -20,4 +20,6 @@ Está [Desigual Blouse Mila Blusa  Rojo  Rojo Oscuro 3029   S para Mujer](https:
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N3YWJKH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

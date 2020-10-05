@@ -20,4 +20,6 @@ Está [Guantes de Invierno Calientes Impermeable Prueba del Viento Guantes Panta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081YWQVFZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

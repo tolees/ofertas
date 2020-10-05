@@ -20,4 +20,6 @@ Está [Kickers Lohan  Zapatillas Altas Unisex Niños  Rojo Noir Bordeaux 81  38 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NYSCS59/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

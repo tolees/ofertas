@@ -20,4 +20,6 @@ Ahora mismo tienes [Pepe Jeans Duff Chest Logo T Camiseta  Blanco  Optic White 8
 
 [Visítala!!!](https://www.amazon.es/dp/B07JH4XSRT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

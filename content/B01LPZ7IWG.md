@@ -20,4 +20,6 @@ Está [SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  Doppio Pacco fino a 90 
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01LPZ7IWG/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

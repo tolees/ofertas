@@ -20,4 +20,6 @@ Tienes [Funko 28632 S4 Demogorgon POP Vinylfigur: Stranger Things: Dart Demodog 
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B0777TSSFW/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Park Tool Mini-Faltwerkzeug IB-2 I-Beam  4000849](https://ww
 
 [Visítala!!!](https://www.amazon.de/dp/B000OZBJD8/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

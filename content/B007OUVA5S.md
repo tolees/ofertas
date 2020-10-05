@@ -20,4 +20,6 @@ Está [Munchkin Columpio - Saltador con león apto para un peso máximo de 12 kg
 
 [Ver la oferta!!](https://www.amazon.es/dp/B007OUVA5S/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

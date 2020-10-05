@@ -20,4 +20,6 @@ Está [Mortlach 12 Whisky Escocés Single Malt - 700 ml](https://www.amazon.es/d
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JQ6PK1T/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

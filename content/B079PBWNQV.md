@@ -20,4 +20,6 @@ Ahora mismo tienes [Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  Tour Yellow/Ant
 
 [Visítala!!!](https://www.amazon.es/dp/B079PBWNQV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

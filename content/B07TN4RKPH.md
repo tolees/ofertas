@@ -20,4 +20,6 @@ Tienes [Bluetooth V5.0 Headset Wireless Earpiece with Up to 18-22 Hours working 
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07TN4RKPH/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

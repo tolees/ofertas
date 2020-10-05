@@ -20,4 +20,6 @@ Ahora mismo tienes [Apple Watch Sport Band  44mm  - Delft Blue - S/M & M/L](http
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07PW9WV4M/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

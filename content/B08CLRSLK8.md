@@ -20,4 +20,6 @@ Ahora mismo tienes [Lampada Proiettore Soffitto  Luce Notturna Bambini con Stell
 
 [Visítala!!!](https://www.amazon.it/dp/B08CLRSLK8/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

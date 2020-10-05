@@ -20,4 +20,6 @@ Ahora mismo tienes [Asics T722N 2301  Zapatillas de Deporte Unisex Adulto   Roya
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1H8LDS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

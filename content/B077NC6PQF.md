@@ -20,4 +20,6 @@ Ahora mismo tienes [Ticwatch S Sport - Reloj inteligente con GPS  pantalla táct
 
 [Visítala!!!](https://www.amazon.es/dp/B077NC6PQF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

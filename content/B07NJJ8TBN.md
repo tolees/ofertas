@@ -20,4 +20,6 @@ Ahora mismo tienes [Little People Granja cuida a los animalitos  juguetes bebés
 
 [Visítala!!!](https://www.amazon.es/dp/B07NJJ8TBN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

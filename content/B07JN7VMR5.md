@@ -20,4 +20,6 @@ Tienes [Pandora Bead Charm Donna argento - 797516](https://www.amazon.it/dp/B07J
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07JN7VMR5/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

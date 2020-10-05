@@ -20,4 +20,6 @@ Ahora mismo tienes [Intel BX80671I76950X Core i7-6950X Prozessor schwarz](https:
 
 [Visítala!!!](https://www.amazon.de/dp/B01FJLA9IM/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

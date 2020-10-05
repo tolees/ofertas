@@ -20,4 +20,6 @@ Ahora mismo tienes [HUAWEI MediaPad T3 10 – 9.6" Android 8.0 Tablet  HD IPS Di
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07WXZ7BCW/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

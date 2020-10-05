@@ -20,4 +20,6 @@ Está [DXRacer OH/RE21/NY/NAVI Asiento Acolchado Respaldo Acolchado - Silla  Asi
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0744GNYZR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

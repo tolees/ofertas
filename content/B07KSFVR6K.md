@@ -20,4 +20,6 @@ Ahora mismo tienes [Yocitoy Cinturón de descarga eléctrica jaula fetters cintu
 
 [Visítala!!!](https://www.amazon.es/dp/B07KSFVR6K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

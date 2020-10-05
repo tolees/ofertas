@@ -20,4 +20,6 @@ Está [BRIKSMAX Kit de Iluminación Led para Taller de la Esquina-Compatible con
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PQ7XSBP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

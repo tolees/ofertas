@@ -20,4 +20,6 @@ Ahora mismo tienes [HUTCHINSON CV657171 Cámara de Bicicleta  Unisex Adulto  Neg
 
 [Visítala!!!](https://www.amazon.es/dp/B009YDYEZ6/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [FIND - Sunset Beauty - Trío de sombras de ojos  n.13  n.14 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CTM8Y6V/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

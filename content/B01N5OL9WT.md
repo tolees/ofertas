@@ -20,4 +20,6 @@ Ahora mismo tienes [Tmade 4 Sizes Pom pom Maker kit DIY Pom-pom Fluff Ball Weave
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B01N5OL9WT/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

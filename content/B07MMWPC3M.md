@@ -20,4 +20,6 @@ Está [Wrangler Skinny Jeans  Azul  Dark Indigo X1e   32W / 30L para Mujer](http
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MMWPC3M/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

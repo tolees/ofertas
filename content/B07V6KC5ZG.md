@@ -20,4 +20,6 @@ Está [The Dog s Balls  Dog Tennis Balls  6-Pack Blue Dog Toy  Premium Strong Do
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07V6KC5ZG/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

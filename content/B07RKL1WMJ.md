@@ -20,4 +20,6 @@ Tienes [Lüfterloser Mini-PC-Stick Windows 10 Pro  64-Bit   T6 Intel Atom Z8350 
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07RKL1WMJ/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

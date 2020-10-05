@@ -20,4 +20,6 @@ Ahora mismo tienes [Superdry Classic Trunk Triple Pack Bóxer  Gris  Grey Marl M
 
 [Visítala!!!](https://www.amazon.es/dp/B07V4QCTJR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

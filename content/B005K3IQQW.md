@@ -20,4 +20,6 @@ Ahora mismo tienes [Intex John Adams 62 x 62-Inch Sun Shade Pool](https://www.am
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B005K3IQQW/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

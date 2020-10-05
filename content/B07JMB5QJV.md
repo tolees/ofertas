@@ -20,4 +20,6 @@ Ahora mismo tienes [Buffalo Corin  Zapatillas Altas para Mujer  Blanco  White 00
 
 [Visítala!!!](https://www.amazon.es/dp/B07JMB5QJV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

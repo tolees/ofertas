@@ -20,4 +20,6 @@ Está [IRIS & LILLY BLIC004 sujetadores push up  Rosa  Azalea   90C  Talla del f
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075DJ6JJM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Lee LF0450FZ  Cinturón Para Hombre  Marrón  Dark Cognac   100 cm](https
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00WJXPN58/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

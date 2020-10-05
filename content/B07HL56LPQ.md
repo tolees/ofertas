@@ -20,4 +20,6 @@ Ahora mismo tienes [Vansney Moda Mujer Chunky Sneakers Mocasines Confort Señora
 
 [Visítala!!!](https://www.amazon.es/dp/B07HL56LPQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

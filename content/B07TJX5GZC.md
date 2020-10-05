@@ -20,4 +20,6 @@ Ahora mismo tienes [Leathlux Funda Xiaomi Redmi Note 7 + [2 Pack] Cristal Templa
 
 [Visítala!!!](https://www.amazon.es/dp/B07TJX5GZC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

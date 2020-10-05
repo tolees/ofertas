@@ -20,4 +20,6 @@ Está [Belkin Cable de Carga USB 2.0 USB-A a USB Type C  USB-C  de 1 8 m con cer
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00WJSPFOW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

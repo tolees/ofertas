@@ -20,4 +20,6 @@ Tienes [Gioseppo 56156  Merceditas para Niñas  Negro  36 EU](https://www.amazon
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MZPRG98/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

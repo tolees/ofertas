@@ -20,4 +20,6 @@ Tienes [Geox B RISHON Girl B  Zapatillas para Bebés  Gris  Dk Grey/Pink C0952  
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LG42ZHS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

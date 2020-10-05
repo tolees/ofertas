@@ -20,4 +20,6 @@ Ahora mismo tienes [Suavinex - Calienta Biberones Link 3en1  leche materna  Fór
 
 [Visítala!!!](https://www.amazon.es/dp/B072BNJ6DZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

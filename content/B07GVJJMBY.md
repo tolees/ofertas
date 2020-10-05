@@ -20,4 +20,6 @@ Tienes [Surface Pen 180 días de Trabajo 500hrs Standby  Surface Lápiz Compatib
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GVJJMBY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

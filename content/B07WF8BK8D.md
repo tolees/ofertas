@@ -20,4 +20,6 @@ Está [WD_Black 8TB D10 Game Drive 7200rpm with Active Cooling to store your Mas
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07WF8BK8D/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

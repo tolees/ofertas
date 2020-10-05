@@ -20,4 +20,6 @@ Ahora mismo tienes [Under Armour Men s Printed Blitzing 3.0 Gorra  Hombre  Gris 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JQ6JZXR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

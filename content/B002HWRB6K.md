@@ -20,4 +20,6 @@ Ahora mismo tienes [Rotulador escolar STABILO Trio AZ - Estuche de 24 colores](h
 
 [Visítala!!!](https://www.amazon.es/dp/B002HWRB6K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

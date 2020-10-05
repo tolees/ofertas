@@ -20,4 +20,6 @@ Está [Napapijri TALY 2 LS Polo  Gris  Med Grey Mel 160   L para Hombre](https:/
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MGFRK3G/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

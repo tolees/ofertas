@@ -20,4 +20,6 @@ Ahora mismo tienes [Sid Meier s Civilization VI  Pre-Purchase / Launch Day  Stan
 
 [Visítala!!!](https://www.amazon.com/dp/B07ZL7GTPH/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

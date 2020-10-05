@@ -20,4 +20,6 @@ Está [Blackview A80 Moviles Libres 4G Android 10 GO con 6.21" HD+ Water-Drop Sc
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08BCD2BYM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

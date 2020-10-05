@@ -20,4 +20,6 @@ Tienes [Mizuno Wave Momentum  Zapatos de Voleibol para Mujer  Weiß  Nimbus Clou
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N3XGTRF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

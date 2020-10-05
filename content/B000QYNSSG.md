@@ -20,4 +20,6 @@ Tienes [Garcima 5020073 Paellera Valenciana de 60 cm. Pulida para 19 Personas  A
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000QYNSSG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

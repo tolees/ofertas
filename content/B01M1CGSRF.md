@@ -20,4 +20,6 @@ Tienes [Maxwell House House Blend Ground Coffee  24.5 oz Canister ](https://www.
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01M1CGSRF/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

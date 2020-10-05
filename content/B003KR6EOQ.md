@@ -20,4 +20,6 @@ Tienes [Kyocera Tk-160 Tóner color negro 1T02LY0NL0 para Ecosys ECOSYS P2035d  
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003KR6EOQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

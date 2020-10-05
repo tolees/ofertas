@@ -20,4 +20,6 @@ Está [K9CK Juego de Luces para Lego Technic Porsche 911 RSR 42096  Led Faro Kit
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082LNJR1T/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

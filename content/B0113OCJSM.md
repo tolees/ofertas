@@ -20,4 +20,6 @@ Ahora mismo tienes [Nike Damen WMNS Tanjun Turnschuhe  Grau  Wolfgrau/Weiß   38
 
 [Visítala!!!](https://www.amazon.de/dp/B0113OCJSM/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

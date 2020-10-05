@@ -20,4 +20,6 @@ Tienes [Timezone Tight Taviratz 7/8 Vaqueros Slim  Blanco  Dark Navy 0391   W25 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GXS74SW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

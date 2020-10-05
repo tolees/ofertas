@@ -20,4 +20,6 @@ Está [Pepe Jeans Keith Chaqueta  Negro  Black 999   S para Hombre](https://www.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079RT2QWQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Vicloon Impermeable Manga Larga Bebé Babero Conjunto de 3 N
 
 [Visítala!!!](https://www.amazon.es/dp/B075VQG7GY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

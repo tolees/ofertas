@@ -20,4 +20,6 @@ Ahora mismo tienes [Pepe Jeans Kai Pm402100 Chaqueta   Sailor 580   Medium para 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JFLSMM8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

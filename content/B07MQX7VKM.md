@@ -20,4 +20,6 @@ Está [GANT D1. TP BC Micro Print Reg Hbd Camisa  Azul  Marine 410   Small para 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MQX7VKM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

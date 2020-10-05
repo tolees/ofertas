@@ -20,4 +20,6 @@ Ahora mismo tienes [Samsung MLT-D204L/ELS - Tóner  5000 páginas   negro](https
 
 [Visítala!!!](https://www.amazon.es/dp/B00CGXPGYY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Far Cry New Dawn - Ultimate Edition  Bundle Far Cry New Dawn Deluxe + Far
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q96RMWD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

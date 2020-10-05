@@ -20,4 +20,6 @@ Ahora mismo tienes [Hasbro Gaming B7063100 - Pie Face Partyspiel](https://www.am
 
 [Visítala!!!](https://www.amazon.de/dp/B00YGZ4QE6/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

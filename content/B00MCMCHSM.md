@@ -20,4 +20,6 @@ Está [T.Y 37132 - Peluche  10.3 cm  TY37132  - Peluche Frizzy Azul  15 cm   Jug
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00MCMCHSM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

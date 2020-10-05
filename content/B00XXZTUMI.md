@@ -20,4 +20,6 @@ Ahora mismo tienes [BaByliss Clip n’ Curl RS100E - Set de 12 rulos térmicos d
 
 [Visítala!!!](https://www.amazon.es/dp/B00XXZTUMI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

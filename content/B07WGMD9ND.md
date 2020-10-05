@@ -20,4 +20,6 @@ Ahora mismo tienes [SEIKO Automatische Uhr SRPD53K1  blau  Sport](https://www.am
 
 [Visítala!!!](https://www.amazon.de/dp/B07WGMD9ND/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

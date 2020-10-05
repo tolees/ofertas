@@ -20,4 +20,6 @@ Ahora mismo tienes [Pierre Cardin Reloj Analogico para Mujer de Cuarzo con Corre
 
 [Visítala!!!](https://www.amazon.es/dp/B01D8Z3UGY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

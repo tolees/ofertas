@@ -20,4 +20,6 @@ Tienes [Funko 36342 POP Captain Marvel-Vers Collectible Figure  Multicolor](http
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07HB3HKHY/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

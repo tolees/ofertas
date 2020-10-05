@@ -20,4 +20,6 @@ Ahora mismo tienes [Calvin Klein - Primary L 5cc W/Coin  Carteras Hombre  Negro 
 
 [Visítala!!!](https://www.amazon.es/dp/B07V4RVD4J/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

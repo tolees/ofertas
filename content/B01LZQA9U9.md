@@ -20,4 +20,6 @@ Tienes [Vents TT-100 TT - Extractor en línea con flujo mixto  100 mm  color b
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LZQA9U9/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

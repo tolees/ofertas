@@ -20,4 +20,6 @@ Ahora mismo tienes [find. Mdr 40444  vestidos mujer Mujer  Rojo  Red Mehrfarbig 
 
 [Visítala!!!](https://www.amazon.es/dp/B073WZR6LH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

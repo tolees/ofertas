@@ -20,4 +20,6 @@ Ahora mismo tienes [Merrell Trail Glove 5  Zapatillas Deportivas para Interior p
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYMC6MF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

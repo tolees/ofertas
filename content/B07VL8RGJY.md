@@ -20,4 +20,6 @@ Tienes [Filamento de 3D Pluma PLA  Uzone 12 Colores 1.75 mm 10 Pies por Color To
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VL8RGJY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

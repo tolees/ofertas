@@ -20,4 +20,6 @@ Tienes [Lacoste HH9553 Pantalones  Beige  Viennois   38  Talla del Fabricante: 3
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MNZHRB1/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

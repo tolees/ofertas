@@ -20,4 +20,6 @@ Ahora mismo tienes [Tefal Elegance C36708 Bratpfanne 32 cm  Aluminium  schwarz](
 
 [Visítala!!!](https://www.amazon.de/dp/B0771VWSMG/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

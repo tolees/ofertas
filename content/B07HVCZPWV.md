@@ -20,4 +20,6 @@ Tienes [GIOVARA tapete transparente para silla con borde para suelos de alfombra
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HVCZPWV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

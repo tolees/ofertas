@@ -20,4 +20,6 @@ Tienes [Morpilot Multímetro Digital  Verdadero RMS 6000 Cuenta Multímetro Avan
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081GJJJVM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

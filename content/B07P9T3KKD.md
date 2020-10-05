@@ -20,4 +20,6 @@ Está [Playmobil 70208 Dollhouse Schlafzimmer mit Nähecke  ab 4 Jahren  bunt  o
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07P9T3KKD/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

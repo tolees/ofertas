@@ -20,4 +20,6 @@ Está [Versa 18790696 Perchero de pie negro - Metal y madera 177x28x28cm  5 colg
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y1KXJWD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

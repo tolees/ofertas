@@ -20,4 +20,6 @@ Está [Burberry  Agua de colonia para hombres - 150 gr.](https://www.amazon.es/d
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01DOZ5UJS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

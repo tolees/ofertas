@@ -20,4 +20,6 @@ Ahora mismo tienes [Sony MDR-ZX310L - Auriculares de diadema cerrados  sin micr√
 
 [Vis√≠tala!!!](https://www.amazon.es/dp/B00I3LUYNG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Maeloc Sidra con Mora - Pack de 4 x 200 ml](https://www.amaz
 
 [Visítala!!!](https://www.amazon.es/dp/B07HHMQM8J/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Babacom Protector Pantalla para iPhone 11 Pro MAX/XS MAX [2-Piezas]  3D 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GYFLLM3/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

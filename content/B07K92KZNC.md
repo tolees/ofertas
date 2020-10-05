@@ -20,4 +20,6 @@ Está [Crocs Classic Clog  Zuecos Unisex Adulto  Azul  Bright Cobalt 4JL   37/38
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07K92KZNC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Semillas Hortícolas - Tomate Muchamiel - Batlle](https://www.amazon.es/
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ID4RZJY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

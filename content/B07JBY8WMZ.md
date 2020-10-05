@@ -20,4 +20,6 @@ Tienes [Columbia Men s Delta Ridge Down Jacket  Columbia Grey Heather  Large](ht
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07JBY8WMZ/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

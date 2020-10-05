@@ -20,4 +20,6 @@ Está [Odoland Utensilios Cocina Camping Kit con 1.2 L Ollas Camping y 0.6 L Sar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N1YKHMB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

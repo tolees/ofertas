@@ -20,4 +20,6 @@ Ahora mismo tienes [KeShi Cordless Rotary Tool  3.7V Li-ion Rotary Accessory Kit
 
 [Visítala!!!](https://www.amazon.com/dp/B07SFTZ5YT/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

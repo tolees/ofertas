@@ -20,4 +20,6 @@ Está [LEGO THE LEGO MOVIE 2 Sweet Mayhem’s Systar Starship; 70830 Building Ki
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07GXLSNNX/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

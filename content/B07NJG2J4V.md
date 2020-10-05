@@ -20,4 +20,6 @@ Tienes [Lacoste Carnaby EVO 119 7 SMA  Zapatillas para Hombre  Azul Marino/Blanc
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NJG2J4V/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

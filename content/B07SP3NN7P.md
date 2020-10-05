@@ -20,4 +20,6 @@ Tienes [G-Star Sp15505 Sweat Sudadera  Gris  China Grey 20   5 años  Talla del 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SP3NN7P/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [GODNECE Light Set for Lego  Led Lighting Kit for Lego Led Light kit Comp
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07VBM1HW8/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

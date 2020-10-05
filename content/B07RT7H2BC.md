@@ -20,4 +20,6 @@ Ahora mismo tienes [[Owlet Home] WiFi Video Doorbell  720P Doorbell Camera  Two-
 
 [Visítala!!!](https://www.amazon.com/dp/B07RT7H2BC/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

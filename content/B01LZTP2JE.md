@@ -20,4 +20,6 @@ Está [Samsung WW70K4420YW/EG AddWash Waschmaschine Frontlader/A+++/1400UpM/7 kg
 
 [Ver la oferta!!](https://www.amazon.de/dp/B01LZTP2JE/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

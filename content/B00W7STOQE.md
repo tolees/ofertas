@@ -20,4 +20,6 @@ Tienes [ROC KEOPS - Desodorante Roll On  Piel Normal  30 ml  x2 ](https://www.am
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00W7STOQE/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

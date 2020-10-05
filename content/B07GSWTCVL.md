@@ -20,4 +20,6 @@ Está [DJI Mavic 2 Pro Fly More Combo  Drohne mit Hasselblad HDR Video Kamera un
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07GSWTCVL/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  LG](https://www.ama
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MCW4KCX/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

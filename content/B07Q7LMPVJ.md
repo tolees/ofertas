@@ -20,4 +20,6 @@ Tienes [D-Link DIR-1960 – Router WiFi AC1900 MU-MIMO Smart Mesh Gaming  Compat
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Q7LMPVJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

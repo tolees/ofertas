@@ -20,4 +20,6 @@ Está [Samsung CLT-M4072S/ELS - Tóner  1000 páginas   magenta](https://www.ama
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003QPOAPC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [SODIAL R  DIY Fundas para volante con Agujas e hilo Color Ne
 
 [Visítala!!!](https://www.amazon.es/dp/B015DWDI4E/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

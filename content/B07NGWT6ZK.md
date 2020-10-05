@@ -20,4 +20,6 @@ Está [Primigi Gore-Tex Pbz 43660  Botas para Bebés  Ner/Mar.Blurosso 4366000  
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NGWT6ZK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

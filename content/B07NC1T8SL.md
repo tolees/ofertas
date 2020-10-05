@@ -20,4 +20,6 @@ Está [Tous Bandolera S. Rene Trenzada Rojo-Multi  Bolso Mujer  17.5x13.5x6.5 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NC1T8SL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

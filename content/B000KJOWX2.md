@@ -20,4 +20,6 @@ Tienes [Apli Paper 1281 Etiquetas Adhesivas Blancas 100 h Inkjet Laser Copy 210 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000KJOWX2/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

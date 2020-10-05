@@ -14,10 +14,12 @@ comparePrice: 159.95 EUR
 inStock: true
 ---
 
-Está [Obey Your Body Peeling Facial](https://www.amazon.es/dp/B002U0UZCG/?tag=redken-21) con 69.99 de descuento por 48.0 EUR (original: 159.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Obey Your Body Peeling Facial](https://www.amazon.es/dp/B002U0UZCG/?tag=redken-21) a 48.0 EUR (original: 159.95 EUR) (69.99 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31CZo45D+iL._SL200_.jpg)](https://www.amazon.es/dp/B002U0UZCG/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B002U0UZCG/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B002U0UZCG/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

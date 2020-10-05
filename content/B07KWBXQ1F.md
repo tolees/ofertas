@@ -20,4 +20,6 @@ Está [EMPIRE GAMING Storm Cooler – Base de refrigeración PC Gamer 12 a 17’
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KWBXQ1F/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

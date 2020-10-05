@@ -20,4 +20,6 @@ Ahora mismo tienes [AROYI Funda iPhone 11+2 x Protector de Pantalla iPhone 11  F
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZRBNH4Z/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

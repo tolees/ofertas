@@ -20,4 +20,6 @@ Ahora mismo tienes [Einhell GC-ET 3023 - Recortabordes eléctrico  300W  230V  c
 
 [Visítala!!!](https://www.amazon.es/dp/B00HT94CVS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

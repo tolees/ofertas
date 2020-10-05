@@ -20,4 +20,6 @@ Tienes [Pepe Jeans Edison T-Shirt  Bianco  Optic White 802   SMA L L Uomo](https
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07VXWQZM1/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

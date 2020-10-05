@@ -20,4 +20,6 @@ Tienes [Hasbro Gaming Trivial Pursuit Family Edition Game](https://www.amazon.co
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07F1GXSS4/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

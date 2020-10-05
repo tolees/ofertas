@@ -20,4 +20,6 @@ Tienes [Wrangler Greensboro Vaqueros  Azul  Gin Fuzz 77h   38W / 32L para Hombre
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M5F7DTQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

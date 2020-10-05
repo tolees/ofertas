@@ -20,4 +20,6 @@ Está [Monederos Mujer Piel  Carteras Mujer RFID Gran Capacidad  Billetero Cuero
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073GWGQV1/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

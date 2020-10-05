@@ -20,4 +20,6 @@ Tienes [LG VR8602RR Hombot Turbo Serie 9 - Robot aspirador programable con doble
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M9FZE3X/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

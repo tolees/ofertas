@@ -20,4 +20,6 @@ Ahora mismo tienes [Ravensburger 19549 Star Wars Episode VII  1000-teilig Puzzle
 
 [Visítala!!!](https://www.amazon.de/dp/B00VR4MEA2/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

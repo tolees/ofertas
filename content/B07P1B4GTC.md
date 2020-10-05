@@ -20,4 +20,6 @@ Tienes [Superdry Colour Block Track Jacket  Chaqueta Mujer  Multicolor  Off Whit
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P1B4GTC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

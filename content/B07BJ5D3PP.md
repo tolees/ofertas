@@ -20,4 +20,6 @@ Está [autsca Caja Fuerte Candado para llaves  Candado de Seguridad con Combinac
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJ5D3PP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [PRUNUS J-125 AM/FM Radio Portatil Pequeña Digital con Auric
 
 [Visítala!!!](https://www.amazon.es/dp/B08DK1HQ9T/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

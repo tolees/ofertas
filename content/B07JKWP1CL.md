@@ -20,4 +20,6 @@ Tienes [Playmobil 70009 SuperSet Galaxy Police Gefängnis  bunt](https://www.ama
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07JKWP1CL/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

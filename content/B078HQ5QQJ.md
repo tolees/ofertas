@@ -20,4 +20,6 @@ Está [Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec Contrôle Actif
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B078HQ5QQJ/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

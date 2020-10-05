@@ -20,4 +20,6 @@ Ahora mismo tienes [Montichelvo Backpack A.O. M&L Kiss Me School Bag  43 cm  Mul
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B079VN5XFP/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

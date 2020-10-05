@@ -20,4 +20,6 @@ Ahora mismo tienes [PNY XLR8 CS3030 M.2 NVMe SSD Interno 500GB - Velocità di le
 
 [Visítala!!!](https://www.amazon.it/dp/B07MW3NQKW/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

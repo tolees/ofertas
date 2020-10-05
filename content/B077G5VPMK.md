@@ -20,4 +20,6 @@ Ahora mismo tienes [Brother HLL2370DN - Impresora láser monocromo con red y dú
 
 [Visítala!!!](https://www.amazon.es/dp/B077G5VPMK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Lacoste TH6709  Camiseta para Hombre  Azul  Bleu 001   5XL  
 
 [Visítala!!!](https://www.amazon.es/dp/B079LCTZV7/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

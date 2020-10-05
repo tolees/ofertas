@@ -20,4 +20,6 @@ Tienes [Elizabeth Arden Eight Hour Bálsamo Nutritivo Lip SPF20 15ml](https://ww
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DUU8GHQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

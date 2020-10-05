@@ -20,4 +20,6 @@ Está [Dermacol - Barra de Labios Pretty Matte No. 05-1 unidad](https://www.amaz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9BXCA0/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

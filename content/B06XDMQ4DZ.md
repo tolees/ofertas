@@ -20,4 +20,6 @@ Está [Bourjois Rouge Laque Barra de Labios Líquida Tono 06 Framboiselle - 27 g
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XDMQ4DZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

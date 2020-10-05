@@ -20,4 +20,6 @@ Ahora mismo tienes [Sanford and Son: The Complete Series  Slim Packaging ](https
 
 [Visítala!!!](https://www.amazon.com/dp/B001DSNEME/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

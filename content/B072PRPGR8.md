@@ -20,4 +20,6 @@ Está [Acer Switch 5  SW512-52-5819  30 48 cm  12 Zoll QHD Multi-Touch IPS  2-in
 
 [Ver la oferta!!](https://www.amazon.de/dp/B072PRPGR8/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Gant Sonnenbrille Ga7047 90A 54 Gafas de sol  Azul  Blau   54.0 para Homb
 
 [Ver la oferta!!](https://www.amazon.es/dp/B015E9IGPM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

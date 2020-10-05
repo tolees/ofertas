@@ -20,4 +20,6 @@ Está [Levi s 502 Regular Taper Vaqueros  Azul  Adriatico Adapt 0473   31W / 34L
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KF5T2TB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

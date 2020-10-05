@@ -20,4 +20,6 @@ Está [Disney HS2090 Conjuntos de Pijama  Rosa  Pink Pink   3 años para Niñas]
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SB9YH9N/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [G-STAR RAW Lynn Mid Waist Skinny  Vaqueros  3D Dark Aged 8469  26W / 34L 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MDTSI2X/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Columbia Childrens FirecampTM Sledder II WP  Zapatillas de Senderismo  Im
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6EBCUL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

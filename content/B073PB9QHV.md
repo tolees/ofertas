@@ -20,4 +20,6 @@ Está [Filamento PLA Plus de la impresora SUNLU 3D  filamento PLA de 1.75 mm  fi
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073PB9QHV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [INTEY Silla de Oficina  Silla Ergonómica  Ajustables Reposa
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQ3KBH8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

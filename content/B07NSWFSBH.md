@@ -20,4 +20,6 @@ Ahora mismo tienes [Funko 40252 POP Vinyl: Animation: Rick & Morty S6-Dr. Xenon 
 
 [Visítala!!!](https://www.amazon.de/dp/B07NSWFSBH/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

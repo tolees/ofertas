@@ -20,4 +20,6 @@ Está [HP Pavilion Gaming 17-cd0222ng  17 3 Zoll / Full HD IPS 60Hz  Notebook  I
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07S8LRJ8N/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

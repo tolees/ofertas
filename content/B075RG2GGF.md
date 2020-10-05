@@ -20,4 +20,6 @@ Ahora mismo tienes [GORE WEAR R3 Mallas 3/4 de mujer  36  Negro](https://www.ama
 
 [Visítala!!!](https://www.amazon.es/dp/B075RG2GGF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

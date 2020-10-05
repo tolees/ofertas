@@ -20,4 +20,6 @@ Está [Levi s June L S  Chanclas para Mujer  Negro  R Black 59   36 EU](https://
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SH1TPYW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [L Oréal Paris Paradise Extatic Máscara de Pestañas  Waterproof  Negro 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C9BDQWV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

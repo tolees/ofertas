@@ -20,4 +20,6 @@ Tienes [Plantar Fasciitis Night Splint Foot Drop Orthotic Brace for Sleep Suppor
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07MZNNY4T/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

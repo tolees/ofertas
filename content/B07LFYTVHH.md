@@ -20,4 +20,6 @@ Ahora mismo tienes [Geox U Jaylon F  Botas Clasicas para Hombre  Negro  Black C9
 
 [Visítala!!!](https://www.amazon.es/dp/B07LFYTVHH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

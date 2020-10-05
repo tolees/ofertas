@@ -20,4 +20,6 @@ Está [West Design West DesignLE51475 Lego Junior Selection Gel Pen  Red  Multi-
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B015FM2AMS/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Afilador de lápices eléctrico portátil con batería para 
 
 [Visítala!!!](https://www.amazon.es/dp/B07V6XNWF5/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Tommy Hilfiger Downtown Seasonal Belt 3.5 Cinturón   Black 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N6PYNL1/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

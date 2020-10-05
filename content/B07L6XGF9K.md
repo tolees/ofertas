@@ -20,4 +20,6 @@ Ahora mismo tienes [FitFlop Anni Flex  Zapatillas sin Cordones para Mujer  Negro
 
 [Visítala!!!](https://www.amazon.es/dp/B07L6XGF9K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

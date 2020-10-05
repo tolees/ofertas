@@ -20,4 +20,6 @@ Tienes [Clarks Alice Flame  Zapatos de Tacón para Mujer  Azul  Blush Leather Bl
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TKS4N6N/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

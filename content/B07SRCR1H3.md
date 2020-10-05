@@ -20,4 +20,6 @@ Está [Acer Nitro 5  AN517-51-754T  43 9 cm  17 3 Zoll Full-HD mit IPS 144 Hz  I
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07SRCR1H3/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

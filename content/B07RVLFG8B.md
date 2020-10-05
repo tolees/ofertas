@@ -20,4 +20,6 @@ Tienes [Funko Pop! Town: Harry Potter - Hagrid s House with Fang](https://www.am
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07RVLFG8B/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Seiko Men s Analogue Automatic Watch with Stainless Steel Strap SRPD65K1
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07WGMRD1F/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

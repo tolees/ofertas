@@ -20,4 +20,6 @@ Está [New Balance 997H  Zapatillas para Mujer  Negro  Black/Air   40 EU](https:
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BL2CLF7/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

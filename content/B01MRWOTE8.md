@@ -20,4 +20,6 @@ Ahora mismo tienes [KRISP 6252-PNK-20  Vestido Corto Patinadora Vuelo Fruncido B
 
 [Visítala!!!](https://www.amazon.es/dp/B01MRWOTE8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

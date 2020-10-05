@@ -20,4 +20,6 @@ Ahora mismo tienes [adidas Streetcheck  Zapatos de Baloncesto para Hombre  Multi
 
 [Visítala!!!](https://www.amazon.es/dp/B07RFRMRV4/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

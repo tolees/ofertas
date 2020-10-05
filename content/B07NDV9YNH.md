@@ -20,4 +20,6 @@ Está [Sony Xperia 10 Plus - Smartphone de 6 5" Full HD+ 21:9 CinemaWide  Octa-C
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NDV9YNH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

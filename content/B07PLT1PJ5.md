@@ -20,4 +20,6 @@ Está [Don Algodon DO015  Zapatillas para Mujer  Multicolor 015  38 EU](https://
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PLT1PJ5/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

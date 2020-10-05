@@ -20,4 +20,6 @@ Tienes [Dasket 6pcs / Set V-Form-Durchschlag für Nähen  Form Punch-Gurt-Leder 
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B085VTM5GP/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

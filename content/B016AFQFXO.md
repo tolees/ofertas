@@ -20,4 +20,6 @@ Está [Dormio Zafiro Colchón viscoelástico  Blanco  90 x 190 x 24 cm  Todas la
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016AFQFXO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

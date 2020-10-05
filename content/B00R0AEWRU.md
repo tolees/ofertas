@@ -20,4 +20,6 @@ Tienes [Jump Suede & Nubuck Brush  338734 ](https://www.amazon.es/dp/B00R0AEWRU/
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00R0AEWRU/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

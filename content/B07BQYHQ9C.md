@@ -20,4 +20,6 @@ Ahora mismo tienes [Movimientos para DIY Caja de Música Musical Box Partes 2 Pe
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQYHQ9C/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Geox U Dublin B  Zapatos de Vestir para Hombre  Negro  BLACKC9999   43 5
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BMMJVA0/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

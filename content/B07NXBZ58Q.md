@@ -20,4 +20,6 @@ Ahora mismo tienes [Superdry Tyler Vaqueros Slim  Azul  Union Dark Blue Vf6   W3
 
 [Visítala!!!](https://www.amazon.es/dp/B07NXBZ58Q/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Levi s Type 3 Chaqueta Vaquera  Azul  Stonebridge Sherpa Trucker 0070   L
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVRH82P/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

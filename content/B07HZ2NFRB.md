@@ -20,4 +20,6 @@ Ahora mismo tienes [LG Tone Ultra Se Bluetooth Wireless Stereo Neckband Earbuds 
 
 [Visítala!!!](https://www.amazon.com/dp/B07HZ2NFRB/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Lee Chino Corduroy Pantalones  Azul  Dark Marine 21   33W / 34L para Homb
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07M8L2FKP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

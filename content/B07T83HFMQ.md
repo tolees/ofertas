@@ -20,4 +20,6 @@ Ahora mismo tienes [DOOGEE S40 Movil Libres Resistente 4G Telefonos  IP68 Antigo
 
 [Visítala!!!](https://www.amazon.es/dp/B07T83HFMQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

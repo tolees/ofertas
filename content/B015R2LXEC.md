@@ -20,4 +20,6 @@ Está [WALNEW Amazon Kindle Keyboard  kindle 3/D00901  Case Cover -- Ultra Light
 
 [Ver la oferta!!](https://www.amazon.com/dp/B015R2LXEC/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Crocs Baya Clog  Zuecos Unisex Niños  Rosa  Neon Magenta 6l0   24/25 EU
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CPCN7WK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Lenovo Yoga C930 13.9 Inch FHD 2-in-1 Convertible Laptop   Intel Core i5
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07MWWC44F/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

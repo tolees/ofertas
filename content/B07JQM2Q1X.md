@@ -20,4 +20,6 @@ Ahora mismo tienes [Under Armour Field Player s Glove 2.0 Guantes  Hombre  Negro
 
 [Visítala!!!](https://www.amazon.es/dp/B07JQM2Q1X/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

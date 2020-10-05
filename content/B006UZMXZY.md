@@ -14,10 +14,12 @@ comparePrice: 5.99 GBP
 inStock: true
 ---
 
-Está [Duo Brush On Striplash Adhesive -White  5g ](https://www.amazon.co.uk/dp/B006UZMXZY/?tag=redken01-21) con 27.38 de descuento por 4.35 GBP (original: 5.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Duo Brush On Striplash Adhesive -White  5g ](https://www.amazon.co.uk/dp/B006UZMXZY/?tag=redken01-21) a 4.35 GBP (original: 5.99 GBP) (27.38 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41XMGoJSI5L._SL200_.jpg)](https://www.amazon.co.uk/dp/B006UZMXZY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B006UZMXZY/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B006UZMXZY/?tag=redken01-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

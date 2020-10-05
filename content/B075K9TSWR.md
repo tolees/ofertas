@@ -20,4 +20,6 @@ Está [New Balance Hombre 574v2-core Trainers Zapatillas  Negro  Triple Black   
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075K9TSWR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

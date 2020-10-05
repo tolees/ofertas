@@ -20,4 +20,6 @@ Está [Barra de Sonido Envolvente EXCELVAN S18L 40W Barra de Sonido para TV BT 5
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XKSKXMX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [CARE OF by PUMA Zapatillas bajas en cuero para hombre  Blanc
 
 [Visítala!!!](https://www.amazon.es/dp/B07R58WWCJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

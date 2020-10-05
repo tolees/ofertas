@@ -20,4 +20,6 @@ Tienes [TININNA 1 par Espuma de la Memoria Respirable Altura Invisible Aumento Z
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01ALM3SHS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Washable Dot Markers 13 Pack With 121 Activity Sheets For Ki
 
 [Visítala!!!](https://www.amazon.com/dp/B07GDZXBNM/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

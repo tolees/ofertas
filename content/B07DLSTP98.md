@@ -20,4 +20,6 @@ Ahora mismo tienes [SAMSONITE Pro-DLX 5 - Sleeve for 15.6   Laptop Maletín  39 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLSTP98/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

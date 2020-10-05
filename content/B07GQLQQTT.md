@@ -20,4 +20,6 @@ Tienes [PUAK523 Luz LED Clip-on  Super Brillante Libro Lectura Luz con Cuello de
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GQLQQTT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

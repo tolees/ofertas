@@ -20,4 +20,6 @@ Tienes [Sinis Hispania - Polen Natural de Abeja - Pack 2 unidades  460g  - Bote 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KXT7CCS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

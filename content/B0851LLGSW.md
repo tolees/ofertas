@@ -20,4 +20,6 @@ Ahora mismo tienes [Way Back  The  DVD + Digital ](https://www.amazon.com/dp/B08
 
 [Visítala!!!](https://www.amazon.com/dp/B0851LLGSW/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Gembird CC-PSU-1 - Cable de alimentación para CD/HDD/DVD  Y
 
 [Visítala!!!](https://www.amazon.es/dp/B000ITL4KI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

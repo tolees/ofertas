@@ -20,4 +20,6 @@ Ahora mismo tienes [JACK & JONES Jorflash suéter  Azul  Sea Mossblau   X-Large 
 
 [Visítala!!!](https://www.amazon.es/dp/B07VSDP4XL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

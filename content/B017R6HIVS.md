@@ -20,4 +20,6 @@ Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas Unisex  Verde  905 Tot
 
 [Visítala!!!](https://www.amazon.es/dp/B017R6HIVS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

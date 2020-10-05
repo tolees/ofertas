@@ -20,4 +20,6 @@ Ahora mismo tienes [GAMEFACTORY 646239 Virus! Juego de Cartas  Multicolor](https
 
 [Visítala!!!](https://www.amazon.es/dp/B07QRB9NWP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

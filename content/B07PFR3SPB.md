@@ -20,4 +20,6 @@ Tienes [Rollei Go! Profi Smartphone-Gimbal I Handy-Gimbal I Video Stabilisator I
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07PFR3SPB/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

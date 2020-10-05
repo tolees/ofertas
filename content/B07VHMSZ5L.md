@@ -20,4 +20,6 @@ Tienes [Bluetooth 5.0 Wireless Earbuds  Touch Control Bluetooth Earbuds 3500mAh 
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07VHMSZ5L/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Compo Sana Universal de Calidad para macetas con 12 semanas 
 
 [Visítala!!!](https://www.amazon.es/dp/B00UCCLC1W/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

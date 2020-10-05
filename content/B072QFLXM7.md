@@ -20,4 +20,6 @@ Ahora mismo tienes [Panama Jack Glasgow Igloo  Botas Clasicas para Hombre  Negro
 
 [Visítala!!!](https://www.amazon.es/dp/B072QFLXM7/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

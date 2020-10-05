@@ -20,4 +20,6 @@ Ahora mismo tienes [STANLEY FATMAX FMC694M1-QW - Pack Cargador de 2Ah con 1 bate
 
 [Visítala!!!](https://www.amazon.es/dp/B01CGREXDO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

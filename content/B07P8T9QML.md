@@ -20,4 +20,6 @@ Está [MOJIPOPS - I Like CupCake con 2 exclusivas figuras MojiPops y variedad de
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P8T9QML/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Pepe Jeans Sloane Pantalones   Deep Sea 597   W31/L34 para H
 
 [Visítala!!!](https://www.amazon.es/dp/B07CCDDC7D/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

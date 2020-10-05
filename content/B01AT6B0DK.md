@@ -20,4 +20,6 @@ Está [Sony BDP-S3700 Home Theater Streaming Blu-Ray Player with Wi-Fi  Black ](
 
 [Ver la oferta!!](https://www.amazon.com/dp/B01AT6B0DK/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

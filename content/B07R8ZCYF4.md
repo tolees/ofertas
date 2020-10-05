@@ -20,4 +20,6 @@ Está [Hisense H32BE5000 - TV LED 32  HD  2 HDMI  1 USB  Salida Óptica  Audio D
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R8ZCYF4/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

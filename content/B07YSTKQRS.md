@@ -20,4 +20,6 @@ Está [Micro SD Card 400GB High Speed Class 10 Micro SD SDXC Card with Adapter](
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07YSTKQRS/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

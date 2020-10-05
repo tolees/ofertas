@@ -20,4 +20,6 @@ Está [Samsung MB-MC128GA/EU Carte mémoire MicroSD Evo Plus 128G avec adaptateu
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B06XFHQGB9/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

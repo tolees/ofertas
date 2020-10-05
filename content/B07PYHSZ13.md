@@ -20,4 +20,6 @@ Ahora mismo tienes [Liu Jo A19066E0002 Bolso de baldolera Accesorios Rojo Pz.](h
 
 [Visítala!!!](https://www.amazon.es/dp/B07PYHSZ13/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

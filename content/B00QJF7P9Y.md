@@ -20,4 +20,6 @@ Está [Sorel Newbie  Botas para Mujer  Marrón  Silver Sage 103   40.5 EU](https
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00QJF7P9Y/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

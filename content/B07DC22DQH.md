@@ -20,4 +20,6 @@ Ahora mismo tienes [Puma Turin II  Zapatillas Unisex Adulto  Azul  Peacoat White
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC22DQH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

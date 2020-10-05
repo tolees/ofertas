@@ -20,4 +20,6 @@ Está [HKT by Hackett Hkt Crew Sudadera   Red 255   Medium para Hombre](https://
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MQ2PSKD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

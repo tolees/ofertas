@@ -20,4 +20,6 @@ Ahora mismo tienes [Philips Series 5000 Wet and Dry Men s Electric Shaver with T
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B071Y9YPMM/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

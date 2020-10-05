@@ -20,4 +20,6 @@ Está [Sony MDR-XB950N1 kabelloser Kopfhörer mit Geräuschminimierung  Noise Ca
 
 [Ver la oferta!!](https://www.amazon.de/dp/B01N5MQX4N/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

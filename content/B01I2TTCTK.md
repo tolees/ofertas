@@ -20,4 +20,6 @@ Tienes [Belkin F2CU038BTBLK - Adaptador de USB-C a HDMI  4k a 60 Hz  resolución
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01I2TTCTK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

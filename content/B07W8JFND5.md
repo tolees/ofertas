@@ -20,4 +20,6 @@ Tienes [AMIGO Spiel + Freizeit 1951 6 Nimmt Brettspiel](https://www.amazon.de/dp
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07W8JFND5/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

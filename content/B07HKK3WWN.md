@@ -20,4 +20,6 @@ Tienes [Under Armour UA Charged Escape 3  Zapatillas de Running para Hombre  Neg
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HKK3WWN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

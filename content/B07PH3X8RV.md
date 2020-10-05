@@ -20,4 +20,6 @@ Tienes [Betacaroteno [25.000 ui] 180 Cápsulas con Patentado Lyc-O-Beta - Con Ac
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PH3X8RV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Boccia Herrenuhr Analog Quarz mit Lederarmband – 3533-03](https://www.
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B0027WLUXA/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

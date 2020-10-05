@@ -20,4 +20,6 @@ Está [Tatuer Pegatinas Album Fotos Bricolaje Esquinas Adhesivas para Fotos Plan
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QJ9VY9K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

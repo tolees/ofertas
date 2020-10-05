@@ -20,4 +20,6 @@ Ahora mismo tienes [Amilril Pulseras  925 Plata de Ley Amor Corazon Pulsera Orig
 
 [Visítala!!!](https://www.amazon.es/dp/B07MG7F4PY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

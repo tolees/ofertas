@@ -20,4 +20,6 @@ Ahora mismo tienes [TK.DILIGARM Look At You Becoming A Medical Coder and Shit Co
 
 [Visítala!!!](https://www.amazon.es/dp/B07MKL65JN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

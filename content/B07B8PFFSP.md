@@ -20,4 +20,6 @@ Tienes [LEGO Star Wars Minifigur 4-Lom mit 2 GALAXYARMS Waffen](https://www.amaz
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07B8PFFSP/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Swarovski Collar Attract Round  Blanco  Baño de Rodio](http
 
 [Visítala!!!](https://www.amazon.es/dp/B078SCH7SB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

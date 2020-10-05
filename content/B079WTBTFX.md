@@ -20,4 +20,6 @@ Ahora mismo tienes [Fujifilm X-A5 Mirrorless Digital Camera  Brown with Fujinon 
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B079WTBTFX/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

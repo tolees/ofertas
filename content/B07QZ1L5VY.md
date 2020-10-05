@@ -20,4 +20,6 @@ Tienes [UBORSE Bolso de Fiesta Noche Moda para Mujer Embrague Hard Shell Clutche
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QZ1L5VY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Lacoste TH7618  Camiseta para Hombre  Azul  Marine   Medium  Talla del f
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00Q4MYSSI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

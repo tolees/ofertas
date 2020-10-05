@@ -20,4 +20,6 @@ Está [Rowenta CF4132 Multistyler Elite 14 In 1](https://www.amazon.de/dp/B00EAA
 
 [Ver la oferta!!](https://www.amazon.de/dp/B00EAA6IZW/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

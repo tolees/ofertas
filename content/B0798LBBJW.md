@@ -20,4 +20,6 @@ Tienes [Sony NW-A45 3.1 Inch Touch Display High Resolution Audio Walkman 16 GB  
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B0798LBBJW/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

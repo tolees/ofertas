@@ -20,4 +20,6 @@ Ahora mismo tienes [PUMA Nrgy Neko Retro  Zapatillas de Running para Hombre  Neg
 
 [Visítala!!!](https://www.amazon.es/dp/B07SCZXRZC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

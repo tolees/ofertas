@@ -20,4 +20,6 @@ Está [LEGO Trolls 4+ 41253 World Tour Floßabenteuer in Einsamshausen](https://
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07W5QGW6X/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

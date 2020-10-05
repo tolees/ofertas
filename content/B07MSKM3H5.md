@@ -20,4 +20,6 @@ Tienes [Clarks Step Explor Hi  Botas para Nieve para Hombre  Azul Marino  45 EU]
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MSKM3H5/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

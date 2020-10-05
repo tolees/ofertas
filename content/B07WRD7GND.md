@@ -20,4 +20,6 @@ Ahora mismo tienes [Zapatos de Seguridad Hombres  LM-30 Zapatillas de Trabajo co
 
 [Visítala!!!](https://www.amazon.es/dp/B07WRD7GND/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [edc by Esprit 079cc1i006 suéter  Marrón  Taupe 5 244   Small para Muje
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07S3HSBKM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

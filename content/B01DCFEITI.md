@@ -20,4 +20,6 @@ Ahora mismo tienes [Funko POP Exclusive Mystery Starter Pack Set of 10 "Includes
 
 [Visítala!!!](https://www.amazon.com/dp/B01DCFEITI/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

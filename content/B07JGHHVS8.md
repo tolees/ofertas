@@ -20,4 +20,6 @@ Ahora mismo tienes [Puma Damen Carina L Niedrig  Weiß White White Silver  39 EU
 
 [Visítala!!!](https://www.amazon.de/dp/B07JGHHVS8/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Funko 13139-PS-1MT Pint Size Hero: Street Fighter zzCOULD NOT FIND Collec
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B01NC09VVH/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

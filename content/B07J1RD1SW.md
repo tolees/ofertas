@@ -20,4 +20,6 @@ Está [Petusco -Bolso piel para mujer. Bolso de mano. Elegante y atemporal. Zada
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07J1RD1SW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

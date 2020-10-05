@@ -20,4 +20,6 @@ Ahora mismo tienes [Pentel Graphgear 1000 Draughting Pencil  0.5 mm](https://www
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B001E3GUBK/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

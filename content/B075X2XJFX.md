@@ -20,4 +20,6 @@ Ahora mismo tienes [find. NEWSTW051 vaqueros mujer cintura alta   Blanco  White 
 
 [Visítala!!!](https://www.amazon.es/dp/B075X2XJFX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

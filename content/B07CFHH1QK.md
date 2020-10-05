@@ -20,4 +20,6 @@ Tienes [JACK & JONES Jjebasic Knit Crew Neck Noos suéter  Gris Dark Grey Melang
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CFHH1QK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

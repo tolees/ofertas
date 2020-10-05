@@ -20,4 +20,6 @@ Está [G-STAR RAW ZED Cinturón  Marrón  Dk Brown/black Metal 8127   75 para Ho
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MDTY9XH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

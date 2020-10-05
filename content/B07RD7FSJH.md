@@ -20,4 +20,6 @@ Ahora mismo tienes [Panasonic SC-HC412EB-K Bluetooth Micro HiFi System with DAB+
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07RD7FSJH/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

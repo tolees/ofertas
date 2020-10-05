@@ -20,4 +20,6 @@ Tienes [Springfield 4.2.Pc.Mono Liso Navy  Pantalones para Mujer  Multicolor  Mu
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NJ3MRZY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

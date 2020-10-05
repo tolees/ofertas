@@ -20,4 +20,6 @@ Tienes [LEGO Disney Prinzessin 43174 Mulans Märchenbuch Abenteuer Tragbares Spi
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07W4KTD5S/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Acne Treatment Differin Gel  Acne Spot Treatment for Face w/ Adapalene  
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07L1PHSY9/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

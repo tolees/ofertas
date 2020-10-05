@@ -20,4 +20,6 @@ Ahora mismo tienes [NYX Professional Makeup Base de maquillaje Total Control Dro
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5TON3O/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

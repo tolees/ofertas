@@ -20,4 +20,6 @@ Ahora mismo tienes [Wonder Forge Sesame Street Matching for Boys & Girls Age 3 t
 
 [Visítala!!!](https://www.amazon.com/dp/B07BS56LKZ/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

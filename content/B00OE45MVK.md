@@ -20,4 +20,6 @@ Está [Belkin BSV804 8 Way 2m Surge Protection Extension Lead Strip with 2 x 2.4
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B00OE45MVK/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

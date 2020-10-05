@@ -20,4 +20,6 @@ Tienes [Columbia Trans Alps F.k.t. II  Zapatillas de Running para Asfalto para H
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DVWW9NX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

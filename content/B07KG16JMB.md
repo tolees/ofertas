@@ -20,4 +20,6 @@ Está [PUMA LQDCELL Shatter XT Luster Wn s  Zapatillas Deportivas para Interior 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KG16JMB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

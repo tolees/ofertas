@@ -20,4 +20,6 @@ Tienes [Hawiton Pijama Mujer de Algodón Invierno Otoño Mangas Larga Ropa de Do
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07J5V6YDD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

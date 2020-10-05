@@ -20,4 +20,6 @@ Tienes [Skechers Men s Go Walk 5 Apprize Slip On Trainers  Grey  Charcoal Textil
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07MR1PPKT/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

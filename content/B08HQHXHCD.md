@@ -20,4 +20,6 @@ Tienes [Micro Casque Gaming PS4 sans Fil REDSTORM Wireless 2.4G Casque Gamer PC 
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08HQHXHCD/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

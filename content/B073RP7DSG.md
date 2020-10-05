@@ -20,4 +20,6 @@ Tienes [Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto  Mujer  Light Gr
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073RP7DSG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

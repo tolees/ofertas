@@ -20,4 +20,6 @@ Ahora mismo tienes [Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  
 
 [Visítala!!!](https://www.amazon.es/dp/B07NDSJMVX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

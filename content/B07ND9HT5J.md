@@ -20,4 +20,6 @@ Tienes [LEGO 41164 Disney Frozen II Enchanted Treehouse with Princess Anna  Olaf
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07ND9HT5J/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

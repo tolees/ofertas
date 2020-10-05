@@ -20,4 +20,6 @@ Ahora mismo tienes [DXX Technik Bausteine Auto Off-Road  1090Teile 2.4G 4CH Gel√
 
 [Vis√≠tala!!!](https://www.amazon.de/dp/B083XDMKYV/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

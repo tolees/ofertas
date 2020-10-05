@@ -20,4 +20,6 @@ Está [Samsung SNH-C6417BN SmartCam - Cámara Wi-Fi Full HD  1080p  Blanco](http
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCS68DL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

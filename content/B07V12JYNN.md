@@ -20,4 +20,6 @@ Ahora mismo tienes [Women s Secret Glitter Multilicense VR All I Want PJ Conjunt
 
 [Visítala!!!](https://www.amazon.es/dp/B07V12JYNN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Levi s 511 Slim Fit Vaqueros  Adriatico Adapt 3408  32W / 36
 
 [Visítala!!!](https://www.amazon.es/dp/B07KF4TL5L/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

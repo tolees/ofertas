@@ -20,4 +20,6 @@ Está [PUMA Weave XT Wn s  Zapatillas Deportivas para Interior para Mujer  Negro
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07S9RW1BH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

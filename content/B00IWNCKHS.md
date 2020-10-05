@@ -20,4 +20,6 @@ Tienes [ONLY Female Skinny Fit Jeans ONLUltimate King reg S30Dark Blue Denim](ht
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B00IWNCKHS/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

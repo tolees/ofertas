@@ -20,4 +20,6 @@ Tienes [Xiaomi Redmi Airdots S TWS Bluetooth 5.0 In-Ear-Stereo-Kopfhörer mit Mi
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B089GVYDJD/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

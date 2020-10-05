@@ -20,4 +20,6 @@ Ahora mismo tienes [The North Face M Jacket Chaqueta Sangro  Hombre  Azul  Kodia
 
 [Visítala!!!](https://www.amazon.es/dp/B07BB5TRDT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

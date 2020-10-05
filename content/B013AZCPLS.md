@@ -20,4 +20,6 @@ Está [Anker AK-A2021321 - Cargador de pared con entrada USB  2 x USB  24 W  2.4
 
 [Ver la oferta!!](https://www.amazon.es/dp/B013AZCPLS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

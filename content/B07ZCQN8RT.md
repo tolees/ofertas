@@ -20,4 +20,6 @@ Está [ESR Cargador Inalámbrico Rápido  7.5W Carga rápida para iPhone 11/11 P
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZCQN8RT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Mr. Wonderful Vela lata con mensaje "Cuando te veo  ¡me enc
 
 [Visítala!!!](https://www.amazon.es/dp/B01MUFKO6O/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

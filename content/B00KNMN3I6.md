@@ -20,4 +20,6 @@ Tienes [Onitsuka Tiger Mexico 66  Zapatillas Unisex  Blanco  White/Blue 146   38
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KNMN3I6/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Salomon Men s XA PRO 3D Trail Runner  Black  13 M US](https://www.amazon
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01HD6T7SE/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

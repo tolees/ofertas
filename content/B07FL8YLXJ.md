@@ -20,4 +20,6 @@ Ahora mismo tienes [Superdry Vintage Logo 1st tee Camiseta de Tirantes  Azul  Po
 
 [Visítala!!!](https://www.amazon.es/dp/B07FL8YLXJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Epson C13S050614 - Cartucho de tóner para Epson AL-C1700/C1750/CX17  al
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005JGSWCS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

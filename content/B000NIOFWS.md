@@ -20,4 +20,6 @@ Está [Paderno 11161-28 Coperchio  in Acciaio Inox  28 cm](https://www.amazon.it
 
 [Ver la oferta!!](https://www.amazon.it/dp/B000NIOFWS/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

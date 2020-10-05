@@ -20,4 +20,6 @@ Está [Razor - 13173861 - Patinette Électronique - E90 Power Core - Rose](https
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01AK0R6LU/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

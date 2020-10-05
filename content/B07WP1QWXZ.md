@@ -20,4 +20,6 @@ Está [EBY 29XL Alta Capacidad Cartuchos de Tinta para Epson 29 Compatible con E
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WP1QWXZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

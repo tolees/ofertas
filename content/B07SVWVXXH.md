@@ -20,4 +20,6 @@ Está [FITTOO Pantalones Cortos Capris 3/4 Leggings Mujer Mallas de Yoga Alta Ci
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SVWVXXH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

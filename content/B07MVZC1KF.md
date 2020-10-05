@@ -20,4 +20,6 @@ Ahora mismo tienes [LoraTap Interruptor Persianas WiFi  Interruptor Táctil de P
 
 [Visítala!!!](https://www.amazon.es/dp/B07MVZC1KF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en R
 
 [Visítala!!!](https://www.amazon.fr/dp/B01MYYNRF3/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Timberland Men s Bradstreet 5 Eye Oxford Low-top Sneakers  Brown  Dark B
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07DGR76KT/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

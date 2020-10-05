@@ -20,4 +20,6 @@ Ahora mismo tienes [BOSS Prime Polo  Azul  Medium Blue 428   XX-Large para Hombr
 
 [Visítala!!!](https://www.amazon.es/dp/B07N97LQKX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

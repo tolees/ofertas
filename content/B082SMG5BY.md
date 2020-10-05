@@ -20,4 +20,6 @@ Ahora mismo tienes [BERTASCHE Laptoptasche 14 Zoll Notebooktasche Schulter Tasch
 
 [Visítala!!!](https://www.amazon.de/dp/B082SMG5BY/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Luchild Dispensador Portátil de Leche en Polvo  Caja con Nivelador y Cuc
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KF5FZ7H/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

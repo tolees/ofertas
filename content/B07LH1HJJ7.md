@@ -20,4 +20,6 @@ Ahora mismo tienes [Salomon out Day 20+4 Mochila  Capacidad 24 L  Mujer  Gris  L
 
 [Visítala!!!](https://www.amazon.es/dp/B07LH1HJJ7/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

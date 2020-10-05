@@ -20,4 +20,6 @@ Está [Pengo 4K HDMI Pass-Through Grabber  Capturadora de Video USB 3.0 1080p60 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HF6VRZV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

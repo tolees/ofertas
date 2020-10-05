@@ -20,4 +20,6 @@ Ahora mismo tienes [Tamron T81140 - Objetivo SP 15-30mm F/2.8 Di VC USD G2 para 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GZ4Y2SG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

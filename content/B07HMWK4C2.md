@@ -20,4 +20,6 @@ Ahora mismo tienes [Quadcopter Drone with Camera Live Video  EACHINE E58 WiFi FP
 
 [Visítala!!!](https://www.amazon.com/dp/B07HMWK4C2/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

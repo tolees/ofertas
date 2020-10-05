@@ -20,4 +20,6 @@ Tienes [Wilson M Rush 9 Woven Short Blue Mir. - Pantalón Corto para Hombre  Col
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AL4T2HQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

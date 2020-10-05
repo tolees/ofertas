@@ -20,4 +20,6 @@ Ahora mismo tienes [2020 Auriculares inalámbricos Bluetooth actualizados con mi
 
 [Visítala!!!](https://www.amazon.es/dp/B082CVX6WR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

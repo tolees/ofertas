@@ -20,4 +20,6 @@ Ahora mismo tienes [Coche Electrico de Bateria 12V para Niños Infantil Deportiv
 
 [Visítala!!!](https://www.amazon.es/dp/B01L8DZWWS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

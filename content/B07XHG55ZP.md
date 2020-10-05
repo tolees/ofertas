@@ -20,4 +20,6 @@ Ahora mismo tienes [NUBILY Bolso Mujer Bolsos Bandolera para Ordenador Portátil
 
 [Visítala!!!](https://www.amazon.es/dp/B07XHG55ZP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

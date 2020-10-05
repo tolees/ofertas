@@ -20,4 +20,6 @@ Está [G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Medium Indigo Aged 8968-60
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XCF5MLK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

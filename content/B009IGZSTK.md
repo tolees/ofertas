@@ -20,4 +20,6 @@ Ahora mismo tienes [Lego Kids Analogue Quartz Watch with Plastic Strap 8020189](
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B009IGZSTK/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Hixon Batería de Xbox One y Cargador  2 Pilas 2500mAh Recargable y 1 Car
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VK38GPH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Echo Dot  3rd Gen  Kids Edition  an Echo designed for kids w
 
 [Visítala!!!](https://www.amazon.com/dp/B07PX3SCFN/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

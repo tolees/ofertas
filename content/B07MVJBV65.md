@@ -20,4 +20,6 @@ Tienes [Kipling - Arto S  Bolsos bandolera Mujer  Gris  Night Grey   25x21x3 cm 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MVJBV65/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

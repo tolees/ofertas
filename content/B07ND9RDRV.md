@@ -20,4 +20,6 @@ Está [LEGO 41167 Disney Frozen II Arendelle Castle Village with Princess  Anna 
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07ND9RDRV/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

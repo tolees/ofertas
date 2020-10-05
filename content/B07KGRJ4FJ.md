@@ -20,4 +20,6 @@ Tienes [edc by Esprit 999cc2k803 Camiseta  Rojo  Red 630   Large para Hombre](ht
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KGRJ4FJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

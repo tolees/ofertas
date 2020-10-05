@@ -20,4 +20,6 @@ Tienes [Fitflop Women s Chai Ankle Boots  Brown  Chocolate Brown 167   6  39 EU 
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07L6P9KSC/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

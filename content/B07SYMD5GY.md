@@ -20,4 +20,6 @@ Está [Charles Wilson Lote 12 Pares Calcetines Básicos  6-8.5  Assorted Stripe 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SYMD5GY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

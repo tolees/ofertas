@@ -20,4 +20,6 @@ Ahora mismo tienes [Adidas Runfalcon Zapatillas de trail running Hombre  Blanco 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KFJ4NVJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

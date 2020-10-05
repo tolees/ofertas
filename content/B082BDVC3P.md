@@ -20,4 +20,6 @@ Ahora mismo tienes [Icons Corner Pack de 2 sillones IMS con Patas de Madera y pa
 
 [Visítala!!!](https://www.amazon.es/dp/B082BDVC3P/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

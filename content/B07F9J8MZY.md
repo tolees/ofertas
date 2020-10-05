@@ -20,4 +20,6 @@ Está [6 Inch Llaves ajustables Llaves inglesas con micrómetro 36 x 300 mm  6" 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F9J8MZY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

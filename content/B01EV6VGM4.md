@@ -20,4 +20,6 @@ Ahora mismo tienes [Woxter Big Bass 260 S - Altavoces 2.1  150W  subwoofer de ma
 
 [Visítala!!!](https://www.amazon.es/dp/B01EV6VGM4/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

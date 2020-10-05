@@ -20,4 +20,6 @@ Ahora mismo tienes [American Tourister - Bon Air - Spinner Maleta 66 cm  58 L  A
 
 [Visítala!!!](https://www.amazon.es/dp/B01C04DFYQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

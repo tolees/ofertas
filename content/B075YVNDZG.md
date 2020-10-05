@@ -20,4 +20,6 @@ Ahora mismo tienes [ExOfficio Women s Give-N-Go Sport Mesh Hipkini  Tropical  Sm
 
 [Visítala!!!](https://www.amazon.com/dp/B075YVNDZG/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Tasty Bites Cheesy carne y queso de 140g para educar |  [Pac
 
 [Visítala!!!](https://www.amazon.es/dp/B071ZZXVWJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

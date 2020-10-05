@@ -20,4 +20,6 @@ Está [Geox B Kaytan A  Zapatillas para Bebés  Gris  Dk Grey C9002   24 EU](htt
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LG1HMSJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

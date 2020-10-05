@@ -20,4 +20,6 @@ Está [Hama Fotoalbum  28 x 24 cm  50 schwarze Seiten  25 Blatt  mit Ausschnitt 
 
 [Ver la oferta!!](https://www.amazon.de/dp/B000VRANHW/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

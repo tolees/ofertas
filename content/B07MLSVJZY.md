@@ -20,4 +20,6 @@ Ahora mismo tienes [Clarks BatcombeAlpGTX  Botas de Motorista para Hombre  Marr√
 
 [Vis√≠tala!!!](https://www.amazon.es/dp/B07MLSVJZY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

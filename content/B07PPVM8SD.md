@@ -20,4 +20,6 @@ Ahora mismo tienes [De Longhi EDG505.W | NESCAFÉ Dolce Gusto Esperta | Kapsel K
 
 [Visítala!!!](https://www.amazon.de/dp/B07PPVM8SD/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

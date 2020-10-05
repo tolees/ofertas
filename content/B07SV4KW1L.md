@@ -20,4 +20,6 @@ Ahora mismo tienes [S&R Disco Tronzador Diamante 230 mm x22 2 para Hormigón  Pi
 
 [Visítala!!!](https://www.amazon.es/dp/B07SV4KW1L/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

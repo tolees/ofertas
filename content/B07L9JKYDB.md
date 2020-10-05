@@ -20,4 +20,6 @@ Está [Napapijri Damen Rainforest W Sum 1 Jacke  Rosa  Pale Pink New P77   Small
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07L9JKYDB/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

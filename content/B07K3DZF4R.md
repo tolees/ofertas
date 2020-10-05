@@ -20,4 +20,6 @@ Ahora mismo tienes [BOSS Herren Paddy Pro Poloshirt  Blau  Medium Blue 422   X-L
 
 [Visítala!!!](https://www.amazon.de/dp/B07K3DZF4R/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

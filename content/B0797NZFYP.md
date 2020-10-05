@@ -20,4 +20,6 @@ Ahora mismo tienes [Sabrent El hub USB de 10 Puertos y 60W con interruptores de 
 
 [Visítala!!!](https://www.amazon.es/dp/B0797NZFYP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

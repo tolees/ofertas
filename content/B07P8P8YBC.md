@@ -20,4 +20,6 @@ Está [PLAYMOBIL:THE MOVIE 70075 Del s Food Truck  Ab 5 Jahren](https://www.amaz
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07P8P8YBC/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

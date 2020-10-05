@@ -20,4 +20,6 @@ Está [Havaianas Stars Wars  Chanclas Unisex Adulto  Multicolor  Black/Blue   33
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FXR2HKC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

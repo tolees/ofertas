@@ -20,4 +20,6 @@ Ahora mismo tienes [Funko Spider-Man Noir: Spider-Man - Into The Spider-Verse x 
 
 [Visítala!!!](https://www.amazon.com/dp/B07JQLG55G/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

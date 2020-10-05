@@ -20,4 +20,6 @@ Ahora mismo tienes [VTech Kidizoom Smartwatch DX - Purple](https://www.amazon.co
 
 [Visítala!!!](https://www.amazon.com/dp/B00ZCZV71O/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [LEGO Star Wars 75216 Snoke s Throne Room Building Kit  492 Pieces ](http
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07BMFBR18/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

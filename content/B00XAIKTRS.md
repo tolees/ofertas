@@ -20,4 +20,6 @@ Tienes [Baldosinín 8410952001802 Productos de Limpieza para el Hogar](https://w
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XAIKTRS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

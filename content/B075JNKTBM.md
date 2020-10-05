@@ -20,4 +20,6 @@ Ahora mismo tienes [Columbia 1420421  Chaqueta Forro Polar Hombre  Negro  Black 
 
 [Visítala!!!](https://www.amazon.es/dp/B075JNKTBM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

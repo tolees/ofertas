@@ -20,4 +20,6 @@ Está [find. Flared Sleeve Blusa para Mujer  Negro  Black Mix   38  Talla del Fa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRXPXGA/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

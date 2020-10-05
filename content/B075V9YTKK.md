@@ -20,4 +20,6 @@ Ahora mismo tienes [Rugby 18 - Versión Española](https://www.amazon.es/dp/B075
 
 [Visítala!!!](https://www.amazon.es/dp/B075V9YTKK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

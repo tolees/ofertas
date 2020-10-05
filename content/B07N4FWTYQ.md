@@ -20,4 +20,6 @@ Ahora mismo tienes [edc by Esprit 999cc1k803 Camiseta  Azul  Navy 2 401   X-Larg
 
 [Visítala!!!](https://www.amazon.es/dp/B07N4FWTYQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

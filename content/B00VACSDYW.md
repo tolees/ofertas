@@ -20,4 +20,6 @@ Ahora mismo tienes [Taurus Cafetera Goteo Verona 12  680 W  1.2 litros  plástic
 
 [Visítala!!!](https://www.amazon.es/dp/B00VACSDYW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

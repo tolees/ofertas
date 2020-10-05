@@ -20,4 +20,6 @@ Ahora mismo tienes [Pepe Jeans Nastia Sudadera   Berry Red 280   X-Small para Mu
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZQJ6WW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

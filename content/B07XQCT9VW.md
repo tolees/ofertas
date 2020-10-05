@@ -20,4 +20,6 @@ Tienes [Mujer Camisa Básica Mujer Slim Fit - Camisa Blusa Casual de Fibra de Ba
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XQCT9VW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

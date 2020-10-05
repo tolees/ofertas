@@ -20,4 +20,6 @@ Ahora mismo tienes [Asus PCE-AC88 PCIe-Karte  Wi-Fi 5 AC3100 Dual-Band  PCIe 1x 
 
 [Visítala!!!](https://www.amazon.de/dp/B01EX7KNUM/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

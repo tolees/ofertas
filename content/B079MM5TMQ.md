@@ -20,4 +20,6 @@ Ahora mismo tienes [Playmobil City Life 9454 Gym for Children Ages 5+](https://w
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B079MM5TMQ/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

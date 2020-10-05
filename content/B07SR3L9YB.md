@@ -20,4 +20,6 @@ Ahora mismo tienes [Pokemon Pack de 6 Figuras Detective Pikachu  BIZAK 63227602 
 
 [Visítala!!!](https://www.amazon.es/dp/B07SR3L9YB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

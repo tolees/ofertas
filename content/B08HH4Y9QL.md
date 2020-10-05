@@ -20,4 +20,6 @@ Está [YUES Controller per PS4  DUALSHOCK 4 Wireless Controller per Playstation 
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08HH4Y9QL/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

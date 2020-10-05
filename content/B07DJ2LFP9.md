@@ -20,4 +20,6 @@ Está [New Balance 230  Zapatos de Playa y Piscina Unisex Adulto  Negro  Black/W
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ2LFP9/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

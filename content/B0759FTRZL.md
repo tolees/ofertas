@@ -20,4 +20,6 @@ Tienes [Intel Core i3-8100 Retail -  1151/Quad Core/3.60GHz/6MB/Coffee Lake/65W/
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B0759FTRZL/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

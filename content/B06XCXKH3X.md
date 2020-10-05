@@ -20,4 +20,6 @@ Tienes [L Oréal 3 Pure Clays Multi-Masking Face Mask Play Kit  3 x 10 ml](https
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B06XCXKH3X/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

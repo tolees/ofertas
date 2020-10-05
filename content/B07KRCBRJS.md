@@ -20,4 +20,6 @@ Tienes [iHaper USB C Hub 7 in 1  Aluminum Type C Adapter HDMI with 4K Output 60W
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07KRCBRJS/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

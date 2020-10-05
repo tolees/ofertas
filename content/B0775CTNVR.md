@@ -20,4 +20,6 @@ Tienes [Amazon Essentials 2-Pack Short-Sleeve Crewneck T-Shirt Camiseta  Turques
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0775CTNVR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

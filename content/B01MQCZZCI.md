@@ -20,4 +20,6 @@ Ahora mismo tienes [Cáncer de Mama Pasadores Broche de Conciencia Caridad Cinta
 
 [Visítala!!!](https://www.amazon.es/dp/B01MQCZZCI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

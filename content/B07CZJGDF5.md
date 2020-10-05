@@ -20,4 +20,6 @@ Ahora mismo tienes [Under Armour Men s Tech 2.0 Short Sleeve T-Shirt  Barn  633 
 
 [Visítala!!!](https://www.amazon.com/dp/B07CZJGDF5/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

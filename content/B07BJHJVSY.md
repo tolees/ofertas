@@ -20,4 +20,6 @@ Está [G-STAR RAW Revend Skinny Vaqueros  Rinsed 8970-082  27W / 28L para Hombre
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHJVSY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

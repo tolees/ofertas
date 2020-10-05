@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO 41375 Friends Heartlake City Amusement Pier  Park with 
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07L4FG9NT/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

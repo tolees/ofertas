@@ -20,4 +20,6 @@ Está [cadbury Diary Milk 30% Less Sugar Chocolate Bar 85 g](https://www.amazon.
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07TF5GJNY/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

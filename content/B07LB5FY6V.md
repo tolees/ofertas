@@ -20,4 +20,6 @@ Ahora mismo tienes [TOOHUI 6Pcs Acoplador HDMI  HDMI Acoplador Hembra a Hembra  
 
 [Visítala!!!](https://www.amazon.es/dp/B07LB5FY6V/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

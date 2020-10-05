@@ -20,4 +20,6 @@ Está [Funko 35681 POP Vinyl: Animation: Attack on Titan S3: Christa  Multi](htt
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07HJ6P8PV/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

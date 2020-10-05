@@ -20,4 +20,6 @@ Está [ICETEK AirPods Case Cover  Silicone AirPods Glow Case Protective 7 In 1 A
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07JCRQTNV/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

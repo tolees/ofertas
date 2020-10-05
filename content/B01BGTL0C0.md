@@ -20,4 +20,6 @@ Tienes [G-STAR RAW 5620 Elwood 3D Skinny Jeans  Gris  dk aged cobler 7863-3143  
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BGTL0C0/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Yellow Cab Soldier 6 Botas militares hombre  Marrón  Cognac   41 EU](htt
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00CJ3UD9E/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [KitchenBoss Bolsas de Vacío 1 Rolls 20x1500cm con Caja de C
 
 [Visítala!!!](https://www.amazon.es/dp/B07D5TGGVS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Black+Decker BXJB800E Batidora de Vaso  800 W  1.5 litros  A
 
 [Visítala!!!](https://www.amazon.es/dp/B07J5V5VCF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Scotch-Brite Greener Clean Non-Scratch Scrub Sponges  6 Scru
 
 [Visítala!!!](https://www.amazon.com/dp/B00JEQG4X8/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

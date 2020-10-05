@@ -20,4 +20,6 @@ Tienes [Levi s 502 Regular Taper Vaqueros  Azul  Stonewash 95978 0182   32W / 32
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079QJKLNK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

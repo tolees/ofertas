@@ -20,4 +20,6 @@ Está [Prada 67Ts  Gafas de Sol Unisex Adulto  Negro  Black   63](https://www.am
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06ZYN4Z9H/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

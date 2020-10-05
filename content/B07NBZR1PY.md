@@ -20,4 +20,6 @@ Tienes [LED View Cover für Galaxy S10e Schwarz](https://www.amazon.de/dp/B07NBZ
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07NBZR1PY/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

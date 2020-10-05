@@ -20,4 +20,6 @@ Está [Lacoste CH4976 Camisa  Azul  Hemisphere   Small  Talla del Fabricante: 38
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0797SHWJD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

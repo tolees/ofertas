@@ -20,4 +20,6 @@ Ahora mismo tienes [L Oreal Paris Brow Artist Xpert Liner de Cejas Automático R
 
 [Visítala!!!](https://www.amazon.es/dp/B01MYMM4XQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

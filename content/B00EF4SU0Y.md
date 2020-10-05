@@ -20,4 +20,6 @@ Ahora mismo tienes [Colgate Max White One Mouthwash  500ml](https://www.amazon.c
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B00EF4SU0Y/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Pour Moi? Ditto Underwired Bra Sujetador con Aros  Blanco  White White   
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTXHFQ6/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

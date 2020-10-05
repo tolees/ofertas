@@ -20,4 +20,6 @@ Ahora mismo tienes [Homyl 1 Pieza de Reproductores de MP3 MP4 de 32GB Radio con 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BBP8Y1R/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Helly Hansen W HH LIFA Merino Basleayer Pant  Mujer  Black  S](https://ww
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XHBY2RR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

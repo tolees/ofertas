@@ -20,4 +20,6 @@ Está [Hub USB C  concentrador tipo c 9 en 1 con 4K HDMI VGA USB 3.0  USB-C Powe
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XF6PVKT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Aviditi MD12104 Multi-Depth Corrugated Box  12" Length x 10"
 
 [Visítala!!!](https://www.amazon.com/dp/B00BT3EWEM/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

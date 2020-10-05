@@ -20,4 +20,6 @@ Ahora mismo tienes [Bosch TAS1003 TASSIMO Happy Cafetera de cápsulas  1400 W  c
 
 [Visítala!!!](https://www.amazon.es/dp/B07GQKR88T/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

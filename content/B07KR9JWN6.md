@@ -20,4 +20,6 @@ Ahora mismo tienes [New Balance 574v2 Zapatillas Hombre  Rojo  Red/Grey   40 EU 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KR9JWN6/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

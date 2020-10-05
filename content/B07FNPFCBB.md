@@ -20,4 +20,6 @@ Tienes [H96 MAX+ Android 9.0 TV Box 4GB RAM/32GB ROM 4K Ultra HD RK3328 Quad Cor
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FNPFCBB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

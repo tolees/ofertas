@@ -20,4 +20,6 @@ Tienes [deAO Coches 2en1 para Montar y Desmontar Conjunto de 2 Vehículos Puzle 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TXQH5ZZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

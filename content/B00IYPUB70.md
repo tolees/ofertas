@@ -20,4 +20,6 @@ Ahora mismo tienes [El Agente De  C.I.P.O.L. - Temporada 1  Parte 1 [DVD]](https
 
 [Visítala!!!](https://www.amazon.es/dp/B00IYPUB70/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

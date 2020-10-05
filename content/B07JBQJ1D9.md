@@ -20,4 +20,6 @@ Ahora mismo tienes [AMD Ryzen Threadripper 2970WX - Procesador  24 cores/48 Thre
 
 [Visítala!!!](https://www.amazon.es/dp/B07JBQJ1D9/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

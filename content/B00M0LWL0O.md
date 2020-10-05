@@ -20,4 +20,6 @@ Ahora mismo tienes [Big Spielwarenfabrik 57072 Bausteine  Multicolour](https://w
 
 [Visítala!!!](https://www.amazon.de/dp/B00M0LWL0O/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

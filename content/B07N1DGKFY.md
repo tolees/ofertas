@@ -20,4 +20,6 @@ Ahora mismo tienes [Kipling SEOUL - Mochila escolar  27 liters  Negro  LIVELY BL
 
 [Visítala!!!](https://www.amazon.es/dp/B07N1DGKFY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

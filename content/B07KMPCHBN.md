@@ -20,4 +20,6 @@ Ahora mismo tienes [adidas Club Sw Short 7 Pantalones Cortos de Deporte  Hombre 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KMPCHBN/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

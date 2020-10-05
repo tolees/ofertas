@@ -20,4 +20,6 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Unisex  Negro  Total Black 997   4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00UYHYSSO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

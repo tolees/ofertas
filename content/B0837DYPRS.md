@@ -20,4 +20,6 @@ Tienes [Pinypon- CuboMix and Match de 10 Figuras niñas a Partir de 4 años  Fam
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0837DYPRS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

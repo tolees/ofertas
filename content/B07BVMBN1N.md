@@ -20,4 +20,6 @@ Tienes [HoneyHolly Botella de Agua Acero Inoxidable 350/500/650/750ml  Aislamien
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BVMBN1N/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

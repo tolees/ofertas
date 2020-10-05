@@ -20,4 +20,6 @@ Está [Bahlsen  Pasticceria Snack 4 Pick Up Choco - [confezione da 6]](https://w
 
 [Ver la oferta!!](https://www.amazon.it/dp/B06XH7BFCK/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

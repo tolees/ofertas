@@ -20,4 +20,6 @@ Está [Levi s Housemark Graphic tee Camiseta  Rojo  Hm Ssnl Emb Farallon X 0259 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TPPYTY3/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Soundcore Infini Pro Integrated 2.1 Channel Soundbar with Dolby Atmos and
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07WFV4BW7/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

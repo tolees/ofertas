@@ -20,4 +20,6 @@ Tienes [Go-Tcha Evolve LED-Touch Wristband Watch For Pokemon Go with Auto Catch 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Y7CW9QY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

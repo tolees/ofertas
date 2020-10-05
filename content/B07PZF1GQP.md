@@ -20,4 +20,6 @@ Está [LEGO Disney Frozen II Olaf 41169 Olaf Snowman Toy Figure Building Kit Chr
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07PZF1GQP/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

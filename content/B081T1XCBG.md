@@ -20,4 +20,6 @@ Tienes [Wireless Earbuds  Kissral Bluetooth 5.0 Headphones with 4000mAh Charging
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B081T1XCBG/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

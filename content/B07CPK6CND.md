@@ -20,4 +20,6 @@ Está [Castle Creations B-Link Bluetooth Adapter  CSE011013500](https://www.amaz
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07CPK6CND/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

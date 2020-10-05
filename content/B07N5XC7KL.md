@@ -20,4 +20,6 @@ Está [Funko 38585 POP Vinyl: Big Bang Theory S2: Bernadette Sammelbares Spielze
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07N5XC7KL/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

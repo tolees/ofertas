@@ -20,4 +20,6 @@ Tienes [LEGO The Movie 2 Rex’s Rexplorer; 70835 Building Kit  Spaceship Toy wi
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07GXLG1C7/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

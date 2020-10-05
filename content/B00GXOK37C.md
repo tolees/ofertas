@@ -20,4 +20,6 @@ Está [Funko 3876 Ghost Game of Thrones Direwolf Bobble Head - Vinyl Collectors 
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B00GXOK37C/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [HP Z4N74AA - Monitor curvo Full HD de 27"  1920 x 1080  pane
 
 [Visítala!!!](https://www.amazon.es/dp/B071LM1HYK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

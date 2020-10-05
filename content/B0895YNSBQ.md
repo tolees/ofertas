@@ -20,4 +20,6 @@ Ahora mismo tienes [GREAT ART set de 2 posters XXL – Galaxia - Vía Láctea y 
 
 [Visítala!!!](https://www.amazon.es/dp/B0895YNSBQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

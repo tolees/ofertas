@@ -20,4 +20,6 @@ Ahora mismo tienes [Macadamia Professional Leave-In Conditioning Mist  8 Fl oz](
 
 [Visítala!!!](https://www.amazon.com/dp/B00VAINV98/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [EACHINE EX3 Drohne mit Kamera HD 2K GPS 5G WiFi FPV Follow me Brushless O
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07T9J9SSG/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

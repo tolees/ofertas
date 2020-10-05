@@ -20,4 +20,6 @@ Tienes [edc by Esprit 119CC1G008 Abrigo  Negro  Black 001   XS para Mujer](https
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XVQN7SH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Tableta 10.1 Pulgadas Pantalla HD IPS Android 9.0 - Tablet 4G con 2 Ranu
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Y1GJYBJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

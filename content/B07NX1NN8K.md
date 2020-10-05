@@ -20,4 +20,6 @@ Tienes [Igi&Co Uomo-41145  Zapatillas de Gimnasia para Hombre  Grigio Scuro 4114
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NX1NN8K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

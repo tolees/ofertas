@@ -20,4 +20,6 @@ Ahora mismo tienes [EIS  Lubricante Deluxe Aqua chocolate  efecto de larga durac
 
 [Visítala!!!](https://www.amazon.es/dp/B075DG3LBZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

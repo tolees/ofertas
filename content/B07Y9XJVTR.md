@@ -20,4 +20,6 @@ Ahora mismo tienes [Castellanisimos Zapatos Náuticos de Piel Marron Hombre con 
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y9XJVTR/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Canon EF 40mm f/2.8 STM - Objetivo para Canon  Distancia Focal Fija 40mm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0089SWZDU/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

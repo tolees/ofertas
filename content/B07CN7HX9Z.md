@@ -20,4 +20,6 @@ Ahora mismo tienes [Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Bri
 
 [Visítala!!!](https://www.amazon.es/dp/B07CN7HX9Z/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

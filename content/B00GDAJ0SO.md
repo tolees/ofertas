@@ -20,4 +20,6 @@ Está [YAZILIND Joyería Hecha a Mano con Encanto étnica de Plata tibetana Rimo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00GDAJ0SO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

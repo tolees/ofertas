@@ -14,10 +14,12 @@ comparePrice: 8.67 EUR
 inStock: true
 ---
 
-Está [Viñas  Tratamiento para pestañas](https://www.amazon.es/dp/B00B4WYK3G/?tag=redken-21) con 28.49 de descuento por 6.2 EUR (original: 8.67 EUR) en el siguiente enlace!
+Ahora mismo tienes [Viñas  Tratamiento para pestañas](https://www.amazon.es/dp/B00B4WYK3G/?tag=redken-21) a 6.2 EUR (original: 8.67 EUR) (28.49 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317L0l-7AtL._SL200_.jpg)](https://www.amazon.es/dp/B00B4WYK3G/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00B4WYK3G/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00B4WYK3G/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

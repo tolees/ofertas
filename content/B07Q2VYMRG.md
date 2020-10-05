@@ -20,4 +20,6 @@ Ahora mismo tienes [Funko 40980 5 Star Annabelle Collectible Figure  Multicolour
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07Q2VYMRG/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

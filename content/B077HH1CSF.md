@@ -20,4 +20,6 @@ Ahora mismo tienes [find. MDR 40621 vestidos mujer  Azul  Blue   40  Talla del f
 
 [Visítala!!!](https://www.amazon.es/dp/B077HH1CSF/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Android TV Box  Android 10.0 TV BOX H616 Quad core 1 GB RAM 
 
 [Visítala!!!](https://www.amazon.it/dp/B08JGJHKFL/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

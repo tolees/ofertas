@@ -20,4 +20,6 @@ Está [Nike Air Heights  Zapatillas para Hombre  Negro  Black/White 003   42.5 E
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07T4SJHQ1/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

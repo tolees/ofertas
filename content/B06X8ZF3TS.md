@@ -20,4 +20,6 @@ Ahora mismo tienes [Bandolera con solapa Pepe Jeans Nicole](https://www.amazon.e
 
 [Visítala!!!](https://www.amazon.es/dp/B06X8ZF3TS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

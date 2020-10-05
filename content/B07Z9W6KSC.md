@@ -20,4 +20,6 @@ Tienes [E-MANIS Giocattoli Bambini 1 Anno Puzzle di Legno Set per 2 3 4 5 Anni G
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07Z9W6KSC/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

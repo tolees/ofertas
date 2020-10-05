@@ -20,4 +20,6 @@ Tienes [Demeu 6000 Banda Goma Trenzado:5000 Bandas Trenzadas  14 Colores 500 bro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XXLT8TK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO® NINJAGO® Le dragon d or Jeu de construction  7 Ans e
 
 [Visítala!!!](https://www.amazon.fr/dp/B07FP6QNP8/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

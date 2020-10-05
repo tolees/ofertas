@@ -20,4 +20,6 @@ Está [Clarks Un Adorn Walk Botines Mujer  Azul  Navy Nubuck Navy Nubuck   35.5 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N1JH4DZ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

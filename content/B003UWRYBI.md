@@ -20,4 +20,6 @@ Está [TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos  Conmutador no Gesti
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003UWRYBI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

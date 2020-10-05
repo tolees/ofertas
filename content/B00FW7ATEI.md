@@ -20,4 +20,6 @@ Ahora mismo tienes [LG DP132 - Reproductor de DVD  Dolby Digital  USB  MP3   col
 
 [Visítala!!!](https://www.amazon.es/dp/B00FW7ATEI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

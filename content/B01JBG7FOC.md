@@ -20,4 +20,6 @@ Ahora mismo tienes [EXERZ E Organizador de Escritorio 360 Grados Giratorio con A
 
 [Visítala!!!](https://www.amazon.es/dp/B01JBG7FOC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

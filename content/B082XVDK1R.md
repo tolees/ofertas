@@ -20,4 +20,6 @@ Ahora mismo tienes [Star Wars Póster  Multicolor  61 x 91.5cm](https://www.amaz
 
 [Visítala!!!](https://www.amazon.es/dp/B082XVDK1R/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

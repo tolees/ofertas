@@ -20,4 +20,6 @@ Está [Playmobil 5489 City Life Shopping Centre Clothing Display](https://www.am
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B00B3QT7KE/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

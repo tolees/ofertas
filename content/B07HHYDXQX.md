@@ -20,4 +20,6 @@ Ahora mismo tienes [72 Piezas Set Lápices de colores profesional Con Lapices De
 
 [Visítala!!!](https://www.amazon.es/dp/B07HHYDXQX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

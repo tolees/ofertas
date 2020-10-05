@@ -20,4 +20,6 @@ Ahora mismo tienes [MVPower Set de 10 marcos de fotos con cubierta de cristal fo
 
 [Visítala!!!](https://www.amazon.es/dp/B072BB1BKY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Kärcher Bolsas de filtro de fieltro WD4-WD5-WD6  4u   2.863
 
 [Visítala!!!](https://www.amazon.es/dp/B00HVSORU8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

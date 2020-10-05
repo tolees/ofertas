@@ -20,4 +20,6 @@ Tienes [Timberland Damen 14 Inch Premium Waterproof Stiefel  Gelb  Wheat Nubuck 
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B007TGA2HY/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

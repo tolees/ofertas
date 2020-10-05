@@ -20,4 +20,6 @@ Está [Makita KP0810 Dust Bag Assembly](https://www.amazon.co.uk/dp/B001ACQ8PI/?
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B001ACQ8PI/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

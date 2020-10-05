@@ -20,4 +20,6 @@ Tienes [LA Active Calcetines Antideslizantes - Para Yoga Pilates Ballet Barre Mu
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PL9RJPG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

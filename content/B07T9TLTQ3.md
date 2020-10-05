@@ -20,4 +20,6 @@ Tienes [Michael Kors Bedford - Bolso para mujer  13 x 25 x 29 cm   color Multico
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07T9TLTQ3/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

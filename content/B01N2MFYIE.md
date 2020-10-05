@@ -20,4 +20,6 @@ Tienes [Tommy Hilfiger Herren H2285ARLOW 1D Sneakers  Grau  Steel Grey 039   44 
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B01N2MFYIE/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

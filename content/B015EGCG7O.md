@@ -20,4 +20,6 @@ Está [Ermenegildo Zegna Sonnenbrille EZ0041 Gafas de sol  Multicolor  Mehrfarbi
 
 [Ver la oferta!!](https://www.amazon.es/dp/B015EGCG7O/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

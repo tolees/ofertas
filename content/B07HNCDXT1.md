@@ -20,4 +20,6 @@ Ahora mismo tienes [Polaroid PLD 6063/G/S Gafas de sol  Multicolor  Blue   52 Un
 
 [Visítala!!!](https://www.amazon.es/dp/B07HNCDXT1/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

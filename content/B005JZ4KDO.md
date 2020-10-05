@@ -20,4 +20,6 @@ Ahora mismo tienes [Moulinex Toast & Grill TL6008 - Tostador y horno  2 en 1  po
 
 [Visítala!!!](https://www.amazon.es/dp/B005JZ4KDO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

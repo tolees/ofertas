@@ -20,4 +20,6 @@ Está [Lacoste Ampthill 319 1 CMA  Zapatillas para Hombre  Negro  Black/Offwhite
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9STGW3/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

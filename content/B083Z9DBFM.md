@@ -20,4 +20,6 @@ Está [Samsung Galaxy A71   Smartphone  Display 6.7" Super AMOLED  4 Fotocamere
 
 [Ver la oferta!!](https://www.amazon.it/dp/B083Z9DBFM/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

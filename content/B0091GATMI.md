@@ -20,4 +20,6 @@ Está [Pentel Arts Water Colors  Assorted Colors  Pack of  24  WFRS-24 ](https:/
 
 [Ver la oferta!!](https://www.amazon.com/dp/B0091GATMI/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

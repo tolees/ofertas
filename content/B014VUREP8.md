@@ -20,4 +20,6 @@ Está [Dettol No Touch Hand Wash System  Hydrating Cucumber Splash 250 ml](https
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B014VUREP8/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

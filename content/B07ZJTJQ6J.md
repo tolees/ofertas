@@ -20,4 +20,6 @@ Ahora mismo tienes [The Fall of France: May - June 1940](https://www.amazon.co.u
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07ZJTJQ6J/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

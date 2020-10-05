@@ -20,4 +20,6 @@ Está [Levi s Men s 501 Original Fit Jeans  Blue Pipe Subtle  34W / 34L](https:/
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07KF6W9FM/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

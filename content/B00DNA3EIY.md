@@ -20,4 +20,6 @@ Tienes [Terry - Armario plástico exterior  89.7 x 53.7 x 180 cm](https://www.am
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DNA3EIY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

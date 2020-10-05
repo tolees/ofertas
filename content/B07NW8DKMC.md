@@ -20,4 +20,6 @@ Ahora mismo tienes [Skechers Street Cleats-Luckier  Zapatillas para Mujer  Blanc
 
 [Visítala!!!](https://www.amazon.es/dp/B07NW8DKMC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

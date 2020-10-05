@@ -20,4 +20,6 @@ Está [Thule EnRoute - Mochila de 23L  Color Azul](https://www.amazon.es/dp/B078
 
 [Ver la oferta!!](https://www.amazon.es/dp/B078YLZR5R/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

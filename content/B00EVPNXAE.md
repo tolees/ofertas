@@ -20,4 +20,6 @@ Está [Star Wars Boys  Big Brief 5 Pack  Asst  8](https://www.amazon.com/dp/B00E
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00EVPNXAE/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Levi s 514 Vaqueros Straight  Azul  Orinda ADV 1009   W33/L3
 
 [Visítala!!!](https://www.amazon.es/dp/B07LF8N4GJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

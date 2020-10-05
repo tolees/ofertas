@@ -20,4 +20,6 @@ Está [Strellson Premium Cozer-j Chaqueta de Traje  Gris  Grey 019   54  Talla d
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NH1YYN3/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

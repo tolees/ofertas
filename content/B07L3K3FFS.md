@@ -20,4 +20,6 @@ Tienes [TEYADI 2.5" Ultra Slim Disco Duro Externo Portátil 9mm  USB3.0 SATA HDD
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L3K3FFS/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

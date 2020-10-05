@@ -20,4 +20,6 @@ Tienes [edc by Esprit 098cc1k014 Camisa Manga Larga  Rojo  Red 630   Medium para
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DS1YM9Q/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Crucial MX500 250 GB CT250MX500SSD1-Up to 560 MB/s  3D NAND  SATA  2.5 I
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B0781VSXBP/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

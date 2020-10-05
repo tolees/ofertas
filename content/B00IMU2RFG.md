@@ -20,4 +20,6 @@ Ahora mismo tienes [Estee Lauder Youth Dew Edp Vapo 65 Ml 15 ml](https://www.ama
 
 [Visítala!!!](https://www.amazon.es/dp/B00IMU2RFG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

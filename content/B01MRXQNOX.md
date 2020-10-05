@@ -20,4 +20,6 @@ Está [Maybelline Pintalabios Larga Duración Superstay 24H Tono 183 Pink Color 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRXQNOX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

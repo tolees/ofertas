@@ -20,4 +20,6 @@ Ahora mismo tienes [Kappa Sveberg Kids  Botines para Niñas  Ice/Pink 6522  25 E
 
 [Visítala!!!](https://www.amazon.es/dp/B07LBCK5MK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

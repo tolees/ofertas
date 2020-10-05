@@ -20,4 +20,6 @@ Tienes [Aleppo Soap- 100% Natural Handmade Olive Oil Soap - 2 bar x 120gm](https
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07H7PDGHL/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

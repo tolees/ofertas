@@ -20,4 +20,6 @@ Está [Wrangler High Rise Skinny Jeans  Azul  Pool Blue 68m   24W / 32L para Muj
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TVKPZD4/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

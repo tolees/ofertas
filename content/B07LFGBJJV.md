@@ -20,4 +20,6 @@ Está [Levi s Men s Barstow Western Denim Shirt  Blue  Indigo Flannel Mid T2 H2 
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07LFGBJJV/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

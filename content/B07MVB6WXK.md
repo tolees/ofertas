@@ -20,4 +20,6 @@ Está [Kipling Creativity S  Monedero para Mujer  Gris  Night Grey   14.5x9.5x5 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MVB6WXK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

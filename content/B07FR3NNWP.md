@@ -20,4 +20,6 @@ Ahora mismo tienes [Camper 1913  Zapatos de cordones Oxford para Hombre  Marrón
 
 [Visítala!!!](https://www.amazon.es/dp/B07FR3NNWP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

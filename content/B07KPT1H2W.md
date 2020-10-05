@@ -20,4 +20,6 @@ Ahora mismo tienes [Funko 37685 POP Captain Marvel Holding Lunchbox 1 Collectibl
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07KPT1H2W/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

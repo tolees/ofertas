@@ -20,4 +20,6 @@ Tienes [Esprit Kids RM1039307 Camiseta  Blanco  White 010    Talla del Fabricant
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F9SVQ4L/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

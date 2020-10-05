@@ -20,4 +20,6 @@ Ahora mismo tienes [Otto Koning - Dortmund- Set 42 cubiertos para 6 comensales  
 
 [Visítala!!!](https://www.amazon.es/dp/B0836CVMPY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

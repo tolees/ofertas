@@ -20,4 +20,6 @@ Está [Netgear RR230400-100NES Ready-NAS Network Attached Storage](https://www.a
 
 [Ver la oferta!!](https://www.amazon.de/dp/B071W8DLMR/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

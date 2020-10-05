@@ -20,4 +20,6 @@ Tienes [Montse Interiors  S.L. Cuadrante o Cojín Decoración Terciopelo 45x45 +
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XQBB9RX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

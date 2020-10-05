@@ -20,4 +20,6 @@ Ahora mismo tienes [INTEY Funda para Coche  Funda Exterior del Coche  Cubierta d
 
 [Visítala!!!](https://www.amazon.es/dp/B07NRKVVVP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

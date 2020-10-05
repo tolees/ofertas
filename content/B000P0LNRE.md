@@ -20,4 +20,6 @@ Ahora mismo tienes [Westcott 8" Titanium Bonded Scissors  2 Scissors](https://ww
 
 [Visítala!!!](https://www.amazon.com/dp/B000P0LNRE/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

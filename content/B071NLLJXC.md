@@ -20,4 +20,6 @@ Ahora mismo tienes [Marvel Comics MAY172531 Figura de acción de Daredevil Netfl
 
 [Visítala!!!](https://www.amazon.es/dp/B071NLLJXC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

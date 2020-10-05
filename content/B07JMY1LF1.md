@@ -20,4 +20,6 @@ Ahora mismo tienes [Timberland Adventure 2.0 Cupsole Modern Oxford  Zapatillas B
 
 [Visítala!!!](https://www.amazon.es/dp/B07JMY1LF1/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

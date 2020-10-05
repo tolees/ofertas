@@ -20,4 +20,6 @@ Ahora mismo tienes [PrimeMatik - Poste Separador 2 uds Negro con Cinta Extensibl
 
 [Visítala!!!](https://www.amazon.es/dp/B00PHRFHFY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

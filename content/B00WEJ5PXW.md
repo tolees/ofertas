@@ -20,4 +20,6 @@ Ahora mismo tienes [Multicentrum Adulto 50+ Complemento Alimenticio con 13 Vitam
 
 [Visítala!!!](https://www.amazon.es/dp/B00WEJ5PXW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

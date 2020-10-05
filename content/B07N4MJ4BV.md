@@ -20,4 +20,6 @@ Está [Levi s Jax  Botas Clasicas para Hombre  Amarillo  Medium Yellow 74   43 E
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N4MJ4BV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

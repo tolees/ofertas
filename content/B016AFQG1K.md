@@ -20,4 +20,6 @@ Ahora mismo tienes [Dormio Zafiro - Colchón viscoelástico  Blanco  105 x 200 x
 
 [Visítala!!!](https://www.amazon.es/dp/B016AFQG1K/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

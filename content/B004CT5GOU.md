@@ -20,4 +20,6 @@ Ahora mismo tienes [KidKraft- Amelia Casa de muñecas de madera con muebles y ac
 
 [Visítala!!!](https://www.amazon.es/dp/B004CT5GOU/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

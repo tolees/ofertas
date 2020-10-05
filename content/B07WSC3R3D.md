@@ -20,4 +20,6 @@ Ahora mismo tienes [Mini Classic Game Consoles Mini Retro Game Consoles Built-in
 
 [Visítala!!!](https://www.amazon.com/dp/B07WSC3R3D/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

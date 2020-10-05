@@ -20,4 +20,6 @@ Está [Samsung Memorie MZ-V7S1T0 970 EVO Plus SSD Interno da 1 TB  PCIe NVMe M.2
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MBQPQ62/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

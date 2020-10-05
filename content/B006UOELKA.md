@@ -20,4 +20,6 @@ Está [adidas Spiro espíritu de Equipo Polo Camiseta de la Mujer  Mujer  S177FB
 
 [Ver la oferta!!](https://www.amazon.es/dp/B006UOELKA/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

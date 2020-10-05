@@ -20,4 +20,6 @@ Tienes [SanDisk Memoria Flash Ultra USB 3.0 de 128 GB  hasta 130 MB/s velocidad 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00P8XQPY4/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

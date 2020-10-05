@@ -20,4 +20,6 @@ Está [Papel Maché SIO-2 500 g](https://www.amazon.es/dp/B00PDRK6FE/?tag=redken
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00PDRK6FE/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

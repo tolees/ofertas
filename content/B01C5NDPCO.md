@@ -20,4 +20,6 @@ Está [Salcar - USB 3.0 Reproductor Grabador de CD/DVD  DVD RW externo ultradelg
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01C5NDPCO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

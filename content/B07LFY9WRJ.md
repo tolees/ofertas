@@ -20,4 +20,6 @@ Ahora mismo tienes [Geox D BETTANIE E  Botas para Mujer  Negro  Black C9999   38
 
 [Visítala!!!](https://www.amazon.es/dp/B07LFY9WRJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

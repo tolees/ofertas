@@ -20,4 +20,6 @@ Ahora mismo tienes [Hollywood Star Fashion - Camiseta de manga corta con cuello 
 
 [Visítala!!!](https://www.amazon.es/dp/B00LYTAG4Q/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

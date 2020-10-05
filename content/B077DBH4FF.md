@@ -20,4 +20,6 @@ Está [Enders 5676 Wetterschutzhülle  Schwarz  50 x 50 x 120 cm](https://www.am
 
 [Ver la oferta!!](https://www.amazon.de/dp/B077DBH4FF/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

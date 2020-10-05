@@ -20,4 +20,6 @@ Tienes [hummel Nile Canvas Low  Zapatillas Unisex Adulto  Azul  Vintage Indigo 8
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FK7P9ZM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

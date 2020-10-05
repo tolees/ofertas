@@ -20,4 +20,6 @@ Está [Pepe Jeans Spike Vaqueros  Azul  Fonce Denim H05   W33/L36 para Hombre](h
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XC8TDWX/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

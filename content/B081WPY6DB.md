@@ -20,4 +20,6 @@ Ahora mismo tienes [El Ministerio del Tiempo - Temporadas 1 a 3 [Blu-ray]](https
 
 [Visítala!!!](https://www.amazon.es/dp/B081WPY6DB/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [ghd platinum+ Styler  professionelles Glätteisen mit vorausschauender Te
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07GGFXKJ2/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

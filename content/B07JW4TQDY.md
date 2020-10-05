@@ -20,4 +20,6 @@ Está [Acer Aspire 5  A517-51-3666  43 9 cm  17 3 Zoll Full-HD matt  Multimedia 
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07JW4TQDY/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

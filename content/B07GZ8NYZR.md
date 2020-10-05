@@ -20,4 +20,6 @@ Tienes [Marchio Amazon - MERAKI Blazer Casual Uomo  Blu  Navy   48  Label: 38](h
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07GZ8NYZR/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

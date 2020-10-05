@@ -20,4 +20,6 @@ Ahora mismo tienes [HUAWEI Mobile WiFi E5576 - Router WiFi móvil 4G LTE  CAT4  
 
 [Visítala!!!](https://www.amazon.es/dp/B07TL2HGCH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

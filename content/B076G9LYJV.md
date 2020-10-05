@@ -20,4 +20,6 @@ Está [Pepe Jeans Sloane PM210564 Pantalones  Marrón  Stone 836   33W / 32L par
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076G9LYJV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

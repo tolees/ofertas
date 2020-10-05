@@ -20,4 +20,6 @@ Ahora mismo tienes [Hasbro Gaming - Juego de mesa Game Of Life  Hasbro E4304105 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD3QJ7H/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

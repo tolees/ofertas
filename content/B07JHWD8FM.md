@@ -20,4 +20,6 @@ Tienes [Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JHWD8FM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

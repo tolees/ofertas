@@ -20,4 +20,6 @@ Ahora mismo tienes [One Piece - Box 6: Season 6  Episoden 163-195  [6 DVDs]](htt
 
 [Visítala!!!](https://www.amazon.de/dp/B00AUDL1ZA/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

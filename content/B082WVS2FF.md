@@ -14,10 +14,12 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Unimi 3D Sleep Mask  Total Darkness 2020 New Arrival Mesh Sleep Eye Mask for Women Men  Soft Lycra Material  Breathable Mesh Vents  Molded Eye Shade Cover with Adjustable Strap for Travel  Nap](https://www.amazon.co.uk/dp/B082WVS2FF/?tag=redken01-21) a 11.99 GBP (original: 19.99 GBP) (40.02 %  de descuento) en el siguiente enlace!
+Está [Unimi 3D Sleep Mask  Total Darkness 2020 New Arrival Mesh Sleep Eye Mask for Women Men  Soft Lycra Material  Breathable Mesh Vents  Molded Eye Shade Cover with Adjustable Strap for Travel  Nap](https://www.amazon.co.uk/dp/B082WVS2FF/?tag=redken01-21) con 40.02 de descuento por 11.99 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51CmW1i15ZL._SL200_.jpg)](https://www.amazon.co.uk/dp/B082WVS2FF/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B082WVS2FF/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B082WVS2FF/?tag=redken01-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

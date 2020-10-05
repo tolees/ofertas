@@ -20,4 +20,6 @@ Está [Cream Basmalla Cardigan Chaqueta  Marrón  S para Mujer](https://www.amaz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B013R4MRQA/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

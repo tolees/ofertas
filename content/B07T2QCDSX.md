@@ -20,4 +20,6 @@ Ahora mismo tienes [Cemobile 21 Teeth Splined Carb Adjustment Tool Screwdriver 5
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07T2QCDSX/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

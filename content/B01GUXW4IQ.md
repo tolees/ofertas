@@ -20,4 +20,6 @@ Ahora mismo tienes [STANLEY STMT1-74306 - Carro metálico para taller 7 cajones]
 
 [Visítala!!!](https://www.amazon.es/dp/B01GUXW4IQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

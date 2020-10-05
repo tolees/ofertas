@@ -20,4 +20,6 @@ Tienes [Sony Xperia L1 - Smartphone de 5.5"  Quad Core 1.45 GHz  RAM de 2 GB  me
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B071NPQYBK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

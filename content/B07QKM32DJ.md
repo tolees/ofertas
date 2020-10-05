@@ -20,4 +20,6 @@ Está [Taladro Percutor  LOMVUM 810W Taladro Eléctrico 3000RPM  Martillo Taladr
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QKM32DJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

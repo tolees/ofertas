@@ -20,4 +20,6 @@ Ahora mismo tienes [Kitchen Weighing Scales Digital  Adoric Cooking Scales Stain
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07PQF4Z5W/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Yasolote 22M Guirnalda de Luces Solares 8 Modos 200 LED Luce
 
 [Visítala!!!](https://www.amazon.es/dp/B07WS8XWR4/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

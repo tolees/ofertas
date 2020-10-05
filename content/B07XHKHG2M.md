@@ -20,4 +20,6 @@ Tienes [Uten Heißluftfritteuse  6.5L Airfryer XXL Frittieren ohne Fett  Aerofry
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07XHKHG2M/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

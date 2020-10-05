@@ -20,4 +20,6 @@ Ahora mismo tienes [Haribo Bonner Oro 150 barras  1er Pack  1 x 2.7 kg ](http
 
 [Visítala!!!](https://www.amazon.es/dp/B006GMWZBI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

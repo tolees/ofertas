@@ -20,4 +20,6 @@ Ahora mismo tienes [Geographical Norway Parka Mujer BOOMERA Camo Negro 02](https
 
 [Visítala!!!](https://www.amazon.es/dp/B082MP4TJJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

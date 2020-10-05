@@ -20,4 +20,6 @@ Está [Aigostar Steel Blue 31HGB-Plancha de vapor de suela de acero inoxidable  
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GOB7JI4/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

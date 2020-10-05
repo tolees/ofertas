@@ -20,4 +20,6 @@ Tienes [L Oréal Men Expert Cofre Vitalift Crema antiedad para hombre y Gel de D
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JGLTRB2/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

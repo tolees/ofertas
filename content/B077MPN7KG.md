@@ -20,4 +20,6 @@ Tienes [PUMA Smash V2  Zapatillas Unisex Adulto  Azul  Peacoat White   44 EU](ht
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077MPN7KG/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

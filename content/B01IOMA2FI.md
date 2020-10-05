@@ -20,4 +20,6 @@ Está [Twins Estrellita  Saco de dormir Bebé niños  Gris  dark grey   10-12 Me
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IOMA2FI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

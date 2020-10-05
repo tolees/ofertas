@@ -20,4 +20,6 @@ Está [SESDERMA Hidraderm Hyal Crema Hidratante 50 ml](https://www.amazon.es/dp/
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00A7JWKO8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

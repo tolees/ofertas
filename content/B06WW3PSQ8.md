@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO Nexo Knights 70373 - Combo NEXO Kräfte](https://www.am
 
 [Visítala!!!](https://www.amazon.de/dp/B06WW3PSQ8/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

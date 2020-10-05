@@ -20,4 +20,6 @@ Tienes [Gang Beasts](https://www.amazon.es/dp/B07XYKD82Y/?tag=redken-21) con un 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XYKD82Y/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

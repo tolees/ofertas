@@ -20,4 +20,6 @@ Ahora mismo tienes [Carteras de Mano Fiesta para Mujer Elegante Suave Bolsos de 
 
 [Visítala!!!](https://www.amazon.es/dp/B07Z4ZZ2LK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

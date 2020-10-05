@@ -20,4 +20,6 @@ Ahora mismo tienes [Clarks Sheer Flora  Botas Chelsea para Mujer  Azul  Navy Nav
 
 [Visítala!!!](https://www.amazon.es/dp/B07N1JBXYM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

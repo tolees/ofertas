@@ -20,4 +20,6 @@ Tienes [Disco Duro Externo 2 TB  Disco Duro Externo para PC  Mac Xbox  MacBook  
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08HZ2MC6J/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

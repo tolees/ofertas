@@ -20,4 +20,6 @@ Ahora mismo tienes [AmazonBasics HL-007318 Hochgeschwindigkeits-HDMI-Kabel  CL3-
 
 [Visítala!!!](https://www.amazon.de/dp/B014I8TOTC/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

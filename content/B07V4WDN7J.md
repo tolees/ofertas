@@ -20,4 +20,6 @@ Está [BRICK STORY Space Shuttle Building Blocks Set  Space Ship Building Bricks
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07V4WDN7J/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Hurley M Phantom Bird 18  Bañadores  Hombre  Azul  Blue Fury   34](http
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K26ZTPT/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

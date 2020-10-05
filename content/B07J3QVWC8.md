@@ -20,4 +20,6 @@ Tienes [Dim Soutien-Gorge Sans Armature Invisififree Sujetador sin Aros  Negro  
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07J3QVWC8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

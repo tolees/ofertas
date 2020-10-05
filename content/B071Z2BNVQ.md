@@ -20,4 +20,6 @@ Tienes [PNY CS900 480GB 3D NAND 2.5" SATA III Internal Solid State Drive  SSD  -
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B071Z2BNVQ/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

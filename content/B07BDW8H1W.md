@@ -20,4 +20,6 @@ Está [Poopsie Surprise 555964E5C Pink Unicorn or Rainbow Unicorn - mehrfarbig](
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07BDW8H1W/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

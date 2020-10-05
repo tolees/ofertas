@@ -20,4 +20,6 @@ Ahora mismo tienes [Tommy Hilfiger Hampton Down Parka Chaqueta   Sky Captain Cjm
 
 [Visítala!!!](https://www.amazon.es/dp/B07N45DFGJ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

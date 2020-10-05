@@ -20,4 +20,6 @@ Está [Coca-Cola Zero Sugar 30 x 330ml Cans](https://www.amazon.co.uk/dp/B07J1SP
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07J1SPJ2N/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

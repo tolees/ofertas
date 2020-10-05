@@ -20,4 +20,6 @@ Tienes [Nintendo Switch w/ Red & Blue Joy-Con + Animal Crossing  New Horizons  G
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B08B3XMK2F/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

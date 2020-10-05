@@ -20,4 +20,6 @@ Ahora mismo tienes [BenQ W1720 - Proyector DLP con auténtica resolucion 4K UHD 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PP9WNYY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

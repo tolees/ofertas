@@ -20,4 +20,6 @@ Ahora mismo tienes [Levi s Graphic Crew B Felpa  Blu  HM Ssnl Film 2 Dress Blues
 
 [Visítala!!!](https://www.amazon.it/dp/B07LFGKRT1/?tag=redken03-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

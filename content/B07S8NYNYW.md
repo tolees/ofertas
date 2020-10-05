@@ -20,4 +20,6 @@ Está [Funda para Nintendo Switch  Accesorios para Nintendo Switch  Carcasa de P
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07S8NYNYW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

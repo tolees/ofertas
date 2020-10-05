@@ -20,4 +20,6 @@ Tienes [G-STAR RAW Lynn Mid Waist Skinny  Vaqueros  Medium Aged 6550  24W / 28L 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MR16OGY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

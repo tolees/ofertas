@@ -20,4 +20,6 @@ Tienes [Adidas Vl Court 2.0 K  Zapatillas de deporte Unisex niños  Multicolor  
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K2MM7QK/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

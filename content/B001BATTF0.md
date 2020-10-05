@@ -20,4 +20,6 @@ Tienes [Philips 12499B2 Vision - Bombilla P21/5W para indicadores  2 unidades ](
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001BATTF0/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

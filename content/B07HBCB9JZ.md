@@ -20,4 +20,6 @@ Tienes [Apple iPhone XR  256GB  - Gelb](https://www.amazon.de/dp/B07HBCB9JZ/?tag
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07HBCB9JZ/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Tienes [Quid Senia- Paellera En Acero De 26 Cm  2 Raciones  Apta Para Horno e In
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LLQDU4Y/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Ahora mismo tienes [Lee Scarlett High Vaqueros  Azul  Light Florin HR   24W/31L 
 
 [Visítala!!!](https://www.amazon.es/dp/B07SCM4DY9/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

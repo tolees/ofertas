@@ -20,4 +20,6 @@ Está [Bosch Professional GSH 27 VC - Martillo demoledor  62 J  Hex 28 mm  Vibra
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005E4MFLO/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

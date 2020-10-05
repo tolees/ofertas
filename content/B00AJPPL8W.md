@@ -20,4 +20,6 @@ Está [Ibiza Sound PORT10VHF-BT Sistema de sonido portátil y autónomo de 10"/2
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00AJPPL8W/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

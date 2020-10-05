@@ -20,4 +20,6 @@ Ahora mismo tienes [Strellson Premium Mercer2.0 12 Pantalones de Traje  Azul  Na
 
 [Visítala!!!](https://www.amazon.es/dp/B07NGZGXVL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

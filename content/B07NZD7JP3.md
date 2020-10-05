@@ -20,4 +20,6 @@ Está [Xiaomi Mi Box S 4K Ultra HD android TV Streaming Media Player with Google
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07NZD7JP3/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Casio Reloj de Pulsera BG-6903-1ER](https://www.amazon.es/dp/B00BFN2DMY/?
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BFN2DMY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

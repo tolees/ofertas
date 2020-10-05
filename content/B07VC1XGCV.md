@@ -20,4 +20,6 @@ Tienes [JACK & JONES Jjifred Jjtool Cj 097 Vaqueros Relaxed  Negro  Black Denim 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VC1XGCV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

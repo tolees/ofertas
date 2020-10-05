@@ -20,4 +20,6 @@ Está [Puma Nova 90 s Bloc Wn s  Zapatillas para Mujer  Negro Black  40 EU](http
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC1TY4X/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

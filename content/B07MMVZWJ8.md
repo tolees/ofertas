@@ -20,4 +20,6 @@ Ahora mismo tienes [Lee Scarlett Corduroy Pantalones  Rosa  Cameo Pink 94   29W 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MMVZWJ8/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

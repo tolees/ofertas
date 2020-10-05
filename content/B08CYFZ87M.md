@@ -20,4 +20,6 @@ Está [Mimosín Collection Parfum Suavizante Nº 7  52 Lavados 870 ml - Pack de 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08CYFZ87M/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

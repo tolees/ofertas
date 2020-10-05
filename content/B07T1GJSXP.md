@@ -20,4 +20,6 @@ Ahora mismo tienes [Odoland Vajilla de Acero Inoxidable 13 en 1  con Placa  Tene
 
 [Visítala!!!](https://www.amazon.es/dp/B07T1GJSXP/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

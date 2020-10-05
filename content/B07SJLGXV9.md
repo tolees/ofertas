@@ -20,4 +20,6 @@ Ahora mismo tienes [La crema blanqueadora para las axilas  nutre  repara y resta
 
 [Visítala!!!](https://www.amazon.es/dp/B07SJLGXV9/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

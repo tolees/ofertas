@@ -20,4 +20,6 @@ Está [Kipling - Amiel  Bolsos maletín Mujer  Negro  Black Indigo   27x24.5x14.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MV9SYCV/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

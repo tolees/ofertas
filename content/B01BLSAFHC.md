@@ -20,4 +20,6 @@ Está [AKG K72 Studio Headphones](https://www.amazon.co.uk/dp/B01BLSAFHC/?tag=r
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B01BLSAFHC/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

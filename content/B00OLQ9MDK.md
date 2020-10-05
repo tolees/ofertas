@@ -20,4 +20,6 @@ Ahora mismo tienes [Nails Inc Vitamin E Oil Pen](https://www.amazon.co.uk/dp/B00
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B00OLQ9MDK/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

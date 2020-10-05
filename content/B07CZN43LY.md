@@ -20,4 +20,6 @@ Ahora mismo tienes [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  New Red Box
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZN43LY/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

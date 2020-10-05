@@ -20,4 +20,6 @@ Está [Lacoste Sf1550 Sudadera con Capucha  Azul Marine 423  32 para Mujer](http
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MKR8DJD/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

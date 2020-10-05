@@ -20,4 +20,6 @@ Ahora mismo tienes [Funko Pop Mortal Engines Figura de Vinilo Anna Fang  Multico
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFBSH68/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

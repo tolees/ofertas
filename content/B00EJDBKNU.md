@@ -20,4 +20,6 @@ Ahora mismo tienes [L Oreal Paris Color Riche 230 Coral Showroom Barra de Labios
 
 [Visítala!!!](https://www.amazon.es/dp/B00EJDBKNU/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

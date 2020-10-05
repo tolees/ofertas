@@ -20,4 +20,6 @@ Ahora mismo tienes [G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros  Med
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4JM8TC/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

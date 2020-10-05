@@ -20,4 +20,6 @@ Tienes [BESTEK Inversor de Corriente 12v a 220v 1200w Onda Sinusoidal Modificada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07V3CVTJL/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

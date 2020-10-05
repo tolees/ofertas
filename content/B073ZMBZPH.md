@@ -20,4 +20,6 @@ Ahora mismo tienes [WD My Book Duo Disco duro externo de Sobremesa de 4 TB con R
 
 [Visítala!!!](https://www.amazon.es/dp/B073ZMBZPH/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

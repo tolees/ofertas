@@ -20,4 +20,6 @@ Tienes [Columbia Nikiski 503  Botas Bajas para Mujer  Negro  Black  Graphite   4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JH35FVQ/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

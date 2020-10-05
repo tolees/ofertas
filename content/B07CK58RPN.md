@@ -20,4 +20,6 @@ Ahora mismo tienes [COMFEE  20 cups Cooked  5.2Qt  Asian Style Programmable All-
 
 [Visítala!!!](https://www.amazon.com/dp/B07CK58RPN/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

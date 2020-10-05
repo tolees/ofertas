@@ -20,4 +20,6 @@ Tienes [JACK & JONES Jorhero tee SS Crew Neck Camiseta  Rosa  Peach Beige Fit:Sl
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N5WIYI1/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

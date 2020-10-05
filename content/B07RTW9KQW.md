@@ -20,4 +20,6 @@ Está [DAYNEW Dispensador De Aceite De Oliva y Vinagre con Boquillas Antigoteo -
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RTW9KQW/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
