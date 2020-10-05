@@ -14,10 +14,10 @@ comparePrice: 155.96 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Boost 17101 - Programmierbares Roboticset](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21) a 111.11 EUR (original: 155.96 EUR) (28.76 %  de descuento) en el siguiente enlace!
+Está [LEGO Boost 17101 - Programmierbares Roboticset](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21) con 28.76 de descuento por 111.11 EUR (original: 155.96 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg)](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

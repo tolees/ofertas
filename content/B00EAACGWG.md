@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta SF3122 Optiliss Keratin & Tourma al 45.70 % de descuento'
-date: 2020-10-03 11:48:06
+date: 2020-10-05 10:27:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31U2-Qx3yGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31U2-Qx3yGL._SL200_.jpg' ]
 comments: true

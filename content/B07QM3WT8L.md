@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Airdots  TWS Bluetooth 5.0  al 49.76 % de descuento'
-date: 2020-10-04 10:25:53
+date: 2020-10-05 10:51:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31P+p+DMkYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31P+p+DMkYL._SL200_.jpg' ]
 comments: true

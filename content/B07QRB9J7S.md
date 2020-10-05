@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy Tab A - Tablet de 10.1" F al 25.19 % de descuento'
-date: 2020-10-04 08:32:12
+date: 2020-10-05 10:01:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31HN3Xr3bmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31HN3Xr3bmL._SL200_.jpg' ]
 comments: true
