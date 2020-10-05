@@ -14,10 +14,10 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City Town - Gioco per Bambini Stazione di Servizio e Officina  Multicolore  6251756](https://www.amazon.it/dp/B07KTVR1H5/?tag=redken03-21) a 27.99 EUR (original: 39.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
+Está [LEGO City Town - Gioco per Bambini Stazione di Servizio e Officina  Multicolore  6251756](https://www.amazon.it/dp/B07KTVR1H5/?tag=redken03-21) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/519El592JDL._SL200_.jpg)](https://www.amazon.it/dp/B07KTVR1H5/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07KTVR1H5/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07KTVR1H5/?tag=redken03-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

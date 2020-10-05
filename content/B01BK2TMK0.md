@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Duplo Town 10906 - Baumhaus im Dsch al 26.49 % de descuento'
-date: 2020-09-29 12:10:42
+date: 2020-10-05 12:38:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CoHBCU9fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CoHBCU9fL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 18.75 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Chainsaw Chain and Guide Bar Oil  5 Litres](https://www.amazon.co.uk/dp/B00FYRVIEQ/?tag=redken01-21) a 12.0 GBP (original: 18.75 GBP) (36.00 %  de descuento) en el siguiente enlace!
+Está [Chainsaw Chain and Guide Bar Oil  5 Litres](https://www.amazon.co.uk/dp/B00FYRVIEQ/?tag=redken01-21) con 36.00 de descuento por 12.0 GBP (original: 18.75 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/3135NphJJxL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00FYRVIEQ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00FYRVIEQ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00FYRVIEQ/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

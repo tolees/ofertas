@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft 21151 - Das letzte Gefech al 27.81 % de descuento'
-date: 2020-10-01 16:36:03
+date: 2020-10-05 12:38:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg' ]
 comments: true
