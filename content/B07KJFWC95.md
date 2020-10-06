@@ -14,11 +14,11 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Smart TV Box Android 7.1 - Maxesla MAX-S II Mini TV Box de 2GB RAM + 16GB ROM  2019 Última CPU Amlogic S905X  WiFi 2.4GHz  Doble USB  H.265  HDMI & AV  4K UHD TV Box con Mini Teclado Inalámbrico](https://www.amazon.es/dp/B07KJFWC95/?tag=redken-21) a 38.99 EUR (original: 69.99 EUR) (44.29 %  de descuento) en el siguiente enlace!
+Está [Smart TV Box Android 7.1 - Maxesla MAX-S II Mini TV Box de 2GB RAM + 16GB ROM  2019 Última CPU Amlogic S905X  WiFi 2.4GHz  Doble USB  H.265  HDMI & AV  4K UHD TV Box con Mini Teclado Inalámbrico](https://www.amazon.es/dp/B07KJFWC95/?tag=redken-21) con 44.29 de descuento por 38.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51qQm0sELfL._SL200_.jpg)](https://www.amazon.es/dp/B07KJFWC95/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KJFWC95/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KJFWC95/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

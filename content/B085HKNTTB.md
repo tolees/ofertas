@@ -14,11 +14,11 @@ comparePrice: 179.99 GBP
 inStock: true
 ---
 
-Está [Dittzz Acrylic Display Box with LED Light  Dustproof Display Case ShowCase for LEGO 42110 Technic Land Rover Defender Off Road 4x4 Car NOT Included The Model ](https://www.amazon.co.uk/dp/B085HKNTTB/?tag=redken01-21) con 50.00 de descuento por 89.99 GBP (original: 179.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Dittzz Acrylic Display Box with LED Light  Dustproof Display Case ShowCase for LEGO 42110 Technic Land Rover Defender Off Road 4x4 Car NOT Included The Model ](https://www.amazon.co.uk/dp/B085HKNTTB/?tag=redken01-21) a 89.99 GBP (original: 179.99 GBP) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41uq4P0euBL._SL200_.jpg)](https://www.amazon.co.uk/dp/B085HKNTTB/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B085HKNTTB/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B085HKNTTB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

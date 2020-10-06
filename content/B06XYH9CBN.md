@@ -14,11 +14,11 @@ comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Grafix 16-8072/17 1 Litre Bubble Solution](https://www.amazon.co.uk/dp/B06XYH9CBN/?tag=redken01-21) a 6.14 GBP (original: 14.99 GBP) (59.04 %  de descuento) en el siguiente enlace!
+Está [Grafix 16-8072/17 1 Litre Bubble Solution](https://www.amazon.co.uk/dp/B06XYH9CBN/?tag=redken01-21) con 59.04 de descuento por 6.14 GBP (original: 14.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31oZSLx7j6L._SL200_.jpg)](https://www.amazon.co.uk/dp/B06XYH9CBN/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B06XYH9CBN/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06XYH9CBN/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee Dobble Card Game al 27.33 % de descuento'
-date: 2020-10-05 04:19:45
+date: 2020-10-06 04:59:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/515FoFegtQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515FoFegtQL._SL200_.jpg' ]
 comments: true
