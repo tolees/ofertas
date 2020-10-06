@@ -14,11 +14,11 @@ comparePrice: 46.88 EUR
 inStock: true
 ---
 
-Está [WWE 2K18 - Nintendo Switch [Importación inglesa]](https://www.amazon.es/dp/B079SLHJ7V/?tag=redken-21) con 61.82 de descuento por 17.9 EUR (original: 46.88 EUR) en el siguiente enlace!
+Ahora mismo tienes [WWE 2K18 - Nintendo Switch [Importación inglesa]](https://www.amazon.es/dp/B079SLHJ7V/?tag=redken-21) a 17.9 EUR (original: 46.88 EUR) (61.82 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317mfhf6d3L._SL200_.jpg)](https://www.amazon.es/dp/B079SLHJ7V/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B079SLHJ7V/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B079SLHJ7V/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

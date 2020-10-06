@@ -14,11 +14,11 @@ comparePrice: 10.31 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 32190 POP Vinyl: Disney: Mickey s 90th Anniversary: Band Concert  Multi](https://www.amazon.co.uk/dp/B07HJ6NDRB/?tag=redken01-21) a 7.49 GBP (original: 10.31 GBP) (27.35 %  de descuento) en el siguiente enlace!
+Está [Funko 32190 POP Vinyl: Disney: Mickey s 90th Anniversary: Band Concert  Multi](https://www.amazon.co.uk/dp/B07HJ6NDRB/?tag=redken01-21) con 27.35 de descuento por 7.49 GBP (original: 10.31 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/417knBRSzkL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HJ6NDRB/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07HJ6NDRB/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HJ6NDRB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

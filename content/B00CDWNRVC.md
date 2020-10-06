@@ -14,11 +14,11 @@ comparePrice: 9.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Roger & Gallet 65882 - Gel de ducha  200 ml](https://www.amazon.es/dp/B00CDWNRVC/?tag=redken-21) a 4.47 EUR (original: 9.9 EUR) (54.85 %  de descuento) en el siguiente enlace!
+Está [Roger & Gallet 65882 - Gel de ducha  200 ml](https://www.amazon.es/dp/B00CDWNRVC/?tag=redken-21) con 54.85 de descuento por 4.47 EUR (original: 9.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ak8ximGdL._SL200_.jpg)](https://www.amazon.es/dp/B00CDWNRVC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00CDWNRVC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00CDWNRVC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

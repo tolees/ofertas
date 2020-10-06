@@ -14,11 +14,11 @@ comparePrice: 13.07 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 34002 VYNL 4" 2-Pack: Disney: NBX: Mayor & Barrel  Multi](https://www.amazon.co.uk/dp/B07DF9CH5X/?tag=redken01-21) a 7.15 GBP (original: 13.07 GBP) (45.29 %  de descuento) en el siguiente enlace!
+Está [Funko 34002 VYNL 4" 2-Pack: Disney: NBX: Mayor & Barrel  Multi](https://www.amazon.co.uk/dp/B07DF9CH5X/?tag=redken01-21) con 45.29 de descuento por 7.15 GBP (original: 13.07 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31sX8WaEX2L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DF9CH5X/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07DF9CH5X/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DF9CH5X/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

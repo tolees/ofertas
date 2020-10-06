@@ -14,11 +14,11 @@ comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Freefly Frozen Girls Princess Costume Cosplay Fancy Dress Party Outfit Kids](https://www.amazon.co.uk/dp/B07BBGZTT9/?tag=redken01-21) a 7.99 GBP (original: 12.99 GBP) (38.49 %  de descuento) en el siguiente enlace!
+Está [Freefly Frozen Girls Princess Costume Cosplay Fancy Dress Party Outfit Kids](https://www.amazon.co.uk/dp/B07BBGZTT9/?tag=redken01-21) con 38.49 de descuento por 7.99 GBP (original: 12.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sjLeYhxwL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07BBGZTT9/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07BBGZTT9/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07BBGZTT9/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

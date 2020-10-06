@@ -14,11 +14,11 @@ comparePrice: 6.99 GBP
 inStock: true
 ---
 
-Está [Stadux Stainless Steel Kitchen Sink Strainer Plug  Dual Function Basket Strainer and Plug | Sized for UK Sinks | Strainer Waste Plug  Diameter:84mm ](https://www.amazon.co.uk/dp/B07H3XFNKJ/?tag=redken01-21) con 25.75 de descuento por 5.19 GBP (original: 6.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Stadux Stainless Steel Kitchen Sink Strainer Plug  Dual Function Basket Strainer and Plug | Sized for UK Sinks | Strainer Waste Plug  Diameter:84mm ](https://www.amazon.co.uk/dp/B07H3XFNKJ/?tag=redken01-21) a 5.19 GBP (original: 6.99 GBP) (25.75 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UkEJbtOIL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07H3XFNKJ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07H3XFNKJ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07H3XFNKJ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

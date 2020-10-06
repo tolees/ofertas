@@ -14,11 +14,11 @@ comparePrice: 6.13 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Intex Inflatable Pool Colors + Base Inflatable 61 x 22 cm-33 L – 57106 NP](https://www.amazon.co.uk/dp/B01NBM0J6Y/?tag=redken01-21) a 4.0 GBP (original: 6.13 GBP) (34.75 %  de descuento) en el siguiente enlace!
+Está [Intex Inflatable Pool Colors + Base Inflatable 61 x 22 cm-33 L – 57106 NP](https://www.amazon.co.uk/dp/B01NBM0J6Y/?tag=redken01-21) con 34.75 de descuento por 4.0 GBP (original: 6.13 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41B4vDX1ejL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01NBM0J6Y/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01NBM0J6Y/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01NBM0J6Y/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 49.0 EUR
 inStock: true
 ---
 
-Está [OMRON M2 BASIC Tensiómetro de Brazo digital  Blanco y Azul](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=redken-21) con 28.59 de descuento por 34.99 EUR (original: 49.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [OMRON M2 BASIC Tensiómetro de Brazo digital  Blanco y Azul](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=redken-21) a 34.99 EUR (original: 49.0 EUR) (28.59 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41z6SqkmO7L._SL200_.jpg)](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
