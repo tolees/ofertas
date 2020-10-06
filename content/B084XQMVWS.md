@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ymea Día y Noche | Control de Sofocos y  al 29.26 % de descuento'
-date: 2020-10-02 15:24:17
+date: 2020-10-06 16:56:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Qd0J8U02L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Qd0J8U02L._SL200_.jpg' ]
 comments: true

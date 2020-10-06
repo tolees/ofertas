@@ -14,11 +14,11 @@ comparePrice: 73.65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Purina Gourmet Gold Mousse comida para gatos de Pescado del Oceano 8 x [12 x 85 g]](https://www.amazon.es/dp/B07B8PRF9V/?tag=redken-21) a 40.64 EUR (original: 73.65 EUR) (44.82 %  de descuento) en el siguiente enlace!
+Está [Purina Gourmet Gold Mousse comida para gatos de Pescado del Oceano 8 x [12 x 85 g]](https://www.amazon.es/dp/B07B8PRF9V/?tag=redken-21) con 44.82 de descuento por 40.64 EUR (original: 73.65 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51xwuAmTJ2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B8PRF9V/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07B8PRF9V/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B8PRF9V/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

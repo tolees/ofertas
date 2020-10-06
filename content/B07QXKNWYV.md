@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.94 % en La Llorona Blu-Ray [Blu-ray]'
-date: 2020-10-05 16:17:53
+date: 2020-10-06 16:47:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FTrB+4CGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FTrB+4CGL._SL200_.jpg' ]
 comments: true

@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Funko Pop Captain Marvel Figura Yon-Rogg al 41.13 % de descuento'
-date: 2020-03-03 12:35:50
-thumbnailImage: 'https://m.media-amazon.com/images/I/517fkeGDBHL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/517fkeGDBHL._AC_._SL200_.jpg' ]
+title: 'Funko 36352 POP Captain Marvel-Yon-Rogg  al 55.84 % de descuento'
+date: 2020-03-29 04:40:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/517fkeGDBHL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/517fkeGDBHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07HB4J1NB
 description:
-actualPrice: 9.39 EUR
-comparePrice: 15.95 EUR
+actualPrice: 4.5 GBP
+comparePrice: 10.19 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop Captain Marvel Figura Yon-Rogg  Color Mulitcolor  36352 ](https://www.amazon.es/dp/B07HB4J1NB/?tag=redken-21) a 9.39 EUR (original: 15.95 EUR) (41.13 %  de descuento) en el siguiente enlace!
+Está [Funko 36352 POP Captain Marvel-Yon-Rogg Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07HB4J1NB/?tag=redken01-21) con 55.84 de descuento por 4.5 GBP (original: 10.19 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/517fkeGDBHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07HB4J1NB/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/517fkeGDBHL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HB4J1NB/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07HB4J1NB/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HB4J1NB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
