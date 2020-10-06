@@ -14,11 +14,11 @@ comparePrice: 449 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Fujifilm X-A5 Mirrorless Digital Camera  Brown with Fujinon XC15-45mm Optical Image Stabilisation Power Zoom Lens Kit](https://www.amazon.co.uk/dp/B079WTBTFX/?tag=redken01-21) a 227 GBP (original: 449 GBP) (49.44 %  de descuento) en el siguiente enlace!
+Está [Fujifilm X-A5 Mirrorless Digital Camera  Brown with Fujinon XC15-45mm Optical Image Stabilisation Power Zoom Lens Kit](https://www.amazon.co.uk/dp/B079WTBTFX/?tag=redken01-21) con 49.44 de descuento por 227 GBP (original: 449 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ayNj5gRAL._SL200_.jpg)](https://www.amazon.co.uk/dp/B079WTBTFX/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B079WTBTFX/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B079WTBTFX/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

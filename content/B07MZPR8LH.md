@@ -14,11 +14,11 @@ comparePrice: 9.59 GBP
 inStock: true
 ---
 
-Está [Funko 39699 POP Animation: Dragon Ball Z - Radditz Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07MZPR8LH/?tag=redken01-21) con 50.26 de descuento por 4.77 GBP (original: 9.59 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 39699 POP Animation: Dragon Ball Z - Radditz Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07MZPR8LH/?tag=redken01-21) a 4.77 GBP (original: 9.59 GBP) (50.26 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vtPe4MG1L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07MZPR8LH/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07MZPR8LH/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07MZPR8LH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

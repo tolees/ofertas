@@ -14,11 +14,11 @@ comparePrice: 243.11 EUR
 inStock: true
 ---
 
-Está [HP Q6471A - Cartucho de tóner](https://www.amazon.es/dp/B000BMZHVY/?tag=redken-21) con 79.43 de descuento por 50 EUR (original: 243.11 EUR) en el siguiente enlace!
+Ahora mismo tienes [HP Q6471A - Cartucho de tóner](https://www.amazon.es/dp/B000BMZHVY/?tag=redken-21) a 50 EUR (original: 243.11 EUR) (79.43 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ylLkp1B6L._SL200_.jpg)](https://www.amazon.es/dp/B000BMZHVY/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B000BMZHVY/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B000BMZHVY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

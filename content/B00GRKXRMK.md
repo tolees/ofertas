@@ -14,11 +14,11 @@ comparePrice: 47.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Behringer POWERPLAY P1 Personal In-Ear Monitor Amplifier](https://www.amazon.co.uk/dp/B00GRKXRMK/?tag=redken01-21) a 31.0 GBP (original: 47.0 GBP) (34.04 %  de descuento) en el siguiente enlace!
+Está [Behringer POWERPLAY P1 Personal In-Ear Monitor Amplifier](https://www.amazon.co.uk/dp/B00GRKXRMK/?tag=redken01-21) con 34.04 de descuento por 31.0 GBP (original: 47.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ARiYJIzEL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00GRKXRMK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00GRKXRMK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00GRKXRMK/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
