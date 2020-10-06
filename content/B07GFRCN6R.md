@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.31 % en AmazonBasics – Soporte plegable de alumi'
-date: 2020-10-04 01:48:48
+date: 2020-10-06 14:33:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ZZjartP-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ZZjartP-L._SL200_.jpg' ]
 comments: true

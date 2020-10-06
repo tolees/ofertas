@@ -14,11 +14,11 @@ comparePrice: 6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rimmel London 3 The Only One Lipstick Barra De Labios Mate Tono 810 - 19 gr](https://www.amazon.es/dp/B015CMH0HG/?tag=redken-21) a 2.01 EUR (original: 6 EUR) (66.50 %  de descuento) en el siguiente enlace!
+Está [Rimmel London 3 The Only One Lipstick Barra De Labios Mate Tono 810 - 19 gr](https://www.amazon.es/dp/B015CMH0HG/?tag=redken-21) con 66.50 de descuento por 2.01 EUR (original: 6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dw8ABib5L._SL200_.jpg)](https://www.amazon.es/dp/B015CMH0HG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015CMH0HG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B015CMH0HG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

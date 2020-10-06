@@ -14,11 +14,11 @@ comparePrice: 10.99 USD
 inStock: true
 ---
 
-Está [Funko Pop! TV: Black Mirror - Kelly](https://www.amazon.com/dp/B07TVDNZFM/?tag=redken08-20) con 25.66 de descuento por 8.17 USD (original: 10.99 USD) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop! TV: Black Mirror - Kelly](https://www.amazon.com/dp/B07TVDNZFM/?tag=redken08-20) a 8.17 USD (original: 10.99 USD) (25.66 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41NX1NfBuaL._SL200_.jpg)](https://www.amazon.com/dp/B07TVDNZFM/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07TVDNZFM/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07TVDNZFM/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

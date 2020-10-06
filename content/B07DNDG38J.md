@@ -14,11 +14,11 @@ comparePrice: 23.56 GBP
 inStock: true
 ---
 
-Está [Merino Wool Dress Socks 3 packs  Black  UK 9-12 // EU 43-47 ](https://www.amazon.co.uk/dp/B07DNDG38J/?tag=redken01-21) con 36.93 de descuento por 14.86 GBP (original: 23.56 GBP) en el siguiente enlace!
+Ahora mismo tienes [Merino Wool Dress Socks 3 packs  Black  UK 9-12 // EU 43-47 ](https://www.amazon.co.uk/dp/B07DNDG38J/?tag=redken01-21) a 14.86 GBP (original: 23.56 GBP) (36.93 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yMnNOsb5L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DNDG38J/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DNDG38J/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DNDG38J/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

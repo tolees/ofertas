@@ -14,11 +14,11 @@ comparePrice: 3.0 GBP
 inStock: true
 ---
 
-Está [Batiste - Dry Shampoo Original - Clean & classic fragrance - Fresh  full of body and texture hair - 200ml](https://www.amazon.co.uk/dp/B008D5HAHU/?tag=redken01-21) con 25.33 de descuento por 2.24 GBP (original: 3.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Batiste - Dry Shampoo Original - Clean & classic fragrance - Fresh  full of body and texture hair - 200ml](https://www.amazon.co.uk/dp/B008D5HAHU/?tag=redken01-21) a 2.24 GBP (original: 3.0 GBP) (25.33 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41tJUjkdamL._SL200_.jpg)](https://www.amazon.co.uk/dp/B008D5HAHU/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B008D5HAHU/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B008D5HAHU/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 17.49 GBP
 inStock: true
 ---
 
-Está [Midsommar Director s Cut](https://www.amazon.co.uk/dp/B07WDDMBW6/?tag=redken01-21) con 42.82 de descuento por 10.0 GBP (original: 17.49 GBP) en el siguiente enlace!
+Ahora mismo tienes [Midsommar Director s Cut](https://www.amazon.co.uk/dp/B07WDDMBW6/?tag=redken01-21) a 10.0 GBP (original: 17.49 GBP) (42.82 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51kYqXtmMrL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WDDMBW6/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07WDDMBW6/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07WDDMBW6/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

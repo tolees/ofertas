@@ -14,11 +14,11 @@ comparePrice: 15.24 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 34189 POP Vinyl 6" Voltron  Multi](https://www.amazon.co.uk/dp/B07DFCLFXX/?tag=redken01-21) a 7.2 GBP (original: 15.24 GBP) (52.76 %  de descuento) en el siguiente enlace!
+Está [Funko 34189 POP Vinyl 6" Voltron  Multi](https://www.amazon.co.uk/dp/B07DFCLFXX/?tag=redken01-21) con 52.76 de descuento por 7.2 GBP (original: 15.24 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51HVycK31IL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFCLFXX/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07DFCLFXX/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DFCLFXX/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
