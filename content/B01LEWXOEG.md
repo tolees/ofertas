@@ -14,11 +14,11 @@ comparePrice: 58.5 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Campo Viejo Rioja Tempranillo   75cl  Case of 6   Spanish Soft  Velvety and Smooth Red Wine ](https://www.amazon.co.uk/dp/B01LEWXOEG/?tag=redken01-21) a 36.0 GBP (original: 58.5 GBP) (38.46 %  de descuento) en el siguiente enlace!
+Está [Campo Viejo Rioja Tempranillo   75cl  Case of 6   Spanish Soft  Velvety and Smooth Red Wine ](https://www.amazon.co.uk/dp/B01LEWXOEG/?tag=redken01-21) con 38.46 de descuento por 36.0 GBP (original: 58.5 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51VKgQh+2+L._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LEWXOEG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01LEWXOEG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01LEWXOEG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
