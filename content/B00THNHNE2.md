@@ -14,11 +14,11 @@ comparePrice: 89.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [OMRON A3 Complete Inhalador 3 en 1: trata las vías respiratorias altas  medias y bajas  adecuado para resfriados  infecciones  alergias y asma](https://www.amazon.es/dp/B00THNHNE2/?tag=redken-21) a 49.99 EUR (original: 89.0 EUR) (43.83 %  de descuento) en el siguiente enlace!
+Está [OMRON A3 Complete Inhalador 3 en 1: trata las vías respiratorias altas  medias y bajas  adecuado para resfriados  infecciones  alergias y asma](https://www.amazon.es/dp/B00THNHNE2/?tag=redken-21) con 43.83 de descuento por 49.99 EUR (original: 89.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ZAIy8h1+L._SL200_.jpg)](https://www.amazon.es/dp/B00THNHNE2/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00THNHNE2/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00THNHNE2/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

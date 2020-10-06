@@ -14,11 +14,11 @@ comparePrice: 12.2 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nivea Men Sensitive Post Shave Balm with Zero Percent Alcohol  Pack of 3  x 100 ml](https://www.amazon.co.uk/dp/B00OQ81XFS/?tag=redken01-21) a 8.25 GBP (original: 12.2 GBP) (32.38 %  de descuento) en el siguiente enlace!
+Está [Nivea Men Sensitive Post Shave Balm with Zero Percent Alcohol  Pack of 3  x 100 ml](https://www.amazon.co.uk/dp/B00OQ81XFS/?tag=redken01-21) con 32.38 de descuento por 8.25 GBP (original: 12.2 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51AeZYgIFLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00OQ81XFS/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00OQ81XFS/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00OQ81XFS/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

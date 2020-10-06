@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 43.69 % en Craft Lightcraft Alphalux Foco  100 W  L'
+title: 'Craft Lightcraft Alphalux Foco  100 W  L al 43.69 % de descuento'
 date: 2020-04-16 08:53:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qzDaGiuqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qzDaGiuqL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 102.99 EUR
 inStock: true
 ---
 
-Tienes [Craft Lightcraft Alphalux Foco  100 W  LED  bajo Consumo  Larga Durabilidad  Apto para Interior y Exterior  Carcasa de Aluminio  protección Antipolvo y antisalpicaduras  - Gris](https://www.amazon.es/dp/B00KTFE57U/?tag=redken-21) con un 43.69 % de descuento con precio de oferta de 57.99 EUR (original: 102.99 EUR) en el siguiente enlace!
+Está [Craft Lightcraft Alphalux Foco  100 W  LED  bajo Consumo  Larga Durabilidad  Apto para Interior y Exterior  Carcasa de Aluminio  protección Antipolvo y antisalpicaduras  - Gris](https://www.amazon.es/dp/B00KTFE57U/?tag=redken-21) con 43.69 de descuento por 57.99 EUR (original: 102.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qzDaGiuqL._SL200_.jpg)](https://www.amazon.es/dp/B00KTFE57U/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00KTFE57U/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00KTFE57U/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

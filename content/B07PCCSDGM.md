@@ -14,11 +14,11 @@ comparePrice: 10.44 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 40089 POP. Vinyl: Rocks: the Police-Stewart Copeland Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07PCCSDGM/?tag=redken01-21) a 7.1 GBP (original: 10.44 GBP) (31.99 %  de descuento) en el siguiente enlace!
+Está [Funko 40089 POP. Vinyl: Rocks: the Police-Stewart Copeland Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07PCCSDGM/?tag=redken01-21) con 31.99 de descuento por 7.1 GBP (original: 10.44 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41iH02J0dkL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PCCSDGM/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07PCCSDGM/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PCCSDGM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

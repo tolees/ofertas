@@ -14,11 +14,11 @@ comparePrice: 64.01 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Grohe Cosmopolitan - Dispensador de jabón líquido con capacidad de 0 4 l  Ref. 40535000 ](https://www.amazon.es/dp/B006WNRCZU/?tag=redken-21) a 39.85 EUR (original: 64.01 EUR) (37.74 %  de descuento) en el siguiente enlace!
+Está [Grohe Cosmopolitan - Dispensador de jabón líquido con capacidad de 0 4 l  Ref. 40535000 ](https://www.amazon.es/dp/B006WNRCZU/?tag=redken-21) con 37.74 de descuento por 39.85 EUR (original: 64.01 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41QCv80vZaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B006WNRCZU/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B006WNRCZU/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B006WNRCZU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

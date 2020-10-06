@@ -14,11 +14,11 @@ comparePrice: 14.36 EUR
 inStock: true
 ---
 
-Está [Funko 34496 Pop-Vinyl: Television: Money Heist: The Professor  Multi](https://www.amazon.de/dp/B07HJDSXBX/?tag=redken02-21) con 40.81 de descuento por 8.5 EUR (original: 14.36 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko 34496 Pop-Vinyl: Television: Money Heist: The Professor  Multi](https://www.amazon.de/dp/B07HJDSXBX/?tag=redken02-21) a 8.5 EUR (original: 14.36 EUR) (40.81 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ApTNO7YsL._SL200_.jpg)](https://www.amazon.de/dp/B07HJDSXBX/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07HJDSXBX/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07HJDSXBX/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

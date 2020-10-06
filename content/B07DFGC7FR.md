@@ -14,11 +14,11 @@ comparePrice: 15.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 34618 Game of Thrones: Bran Stark POP Vinylfigur  Multi](https://www.amazon.de/dp/B07DFGC7FR/?tag=redken02-21) a 11.72 EUR (original: 15.9 EUR) (26.29 %  de descuento) en el siguiente enlace!
+Está [Funko 34618 Game of Thrones: Bran Stark POP Vinylfigur  Multi](https://www.amazon.de/dp/B07DFGC7FR/?tag=redken02-21) con 26.29 de descuento por 11.72 EUR (original: 15.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414CoIaTWpL._SL200_.jpg)](https://www.amazon.de/dp/B07DFGC7FR/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07DFGC7FR/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07DFGC7FR/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

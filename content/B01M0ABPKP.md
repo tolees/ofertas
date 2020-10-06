@@ -14,11 +14,11 @@ comparePrice: 8.09 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [RITUALS The Ritual of Sakura AntitranspirantSpray   150 ml](https://www.amazon.de/dp/B01M0ABPKP/?tag=redken02-21) a 4.9 EUR (original: 8.09 EUR) (39.43 %  de descuento) en el siguiente enlace!
+Está [RITUALS The Ritual of Sakura AntitranspirantSpray   150 ml](https://www.amazon.de/dp/B01M0ABPKP/?tag=redken02-21) con 39.43 de descuento por 4.9 EUR (original: 8.09 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31EYm1v2U7L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01M0ABPKP/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B01M0ABPKP/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B01M0ABPKP/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 12.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko POP! Vinyl: Dragonball Z S6: Kid Buu  Mehrfarben  Einheitsgröße](https://www.amazon.de/dp/B07MZPPTTM/?tag=redken02-21) a 8.26 EUR (original: 12.5 EUR) (33.92 %  de descuento) en el siguiente enlace!
+Está [Funko POP! Vinyl: Dragonball Z S6: Kid Buu  Mehrfarben  Einheitsgröße](https://www.amazon.de/dp/B07MZPPTTM/?tag=redken02-21) con 33.92 de descuento por 8.26 EUR (original: 12.5 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31eiMVPKwcL._SL200_.jpg)](https://www.amazon.de/dp/B07MZPPTTM/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07MZPPTTM/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07MZPPTTM/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
