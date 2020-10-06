@@ -14,11 +14,11 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Está [Philips MyLiving Colour Changing LED Light Strips  Multi-Colour  1 m  4 Watt](https://www.amazon.co.uk/dp/B076CZM5CM/?tag=redken01-21) con 44.68 de descuento por 16.59 GBP (original: 29.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Philips MyLiving Colour Changing LED Light Strips  Multi-Colour  1 m  4 Watt](https://www.amazon.co.uk/dp/B076CZM5CM/?tag=redken01-21) a 16.59 GBP (original: 29.99 GBP) (44.68 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41YNqptFOgL._SL200_.jpg)](https://www.amazon.co.uk/dp/B076CZM5CM/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B076CZM5CM/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B076CZM5CM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

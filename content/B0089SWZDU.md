@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon EF 40mm f/2.8 STM - Objetivo para  al 32.92 % de descuento'
+title: 'Descuento del 32.92 % en Canon EF 40mm f/2.8 STM - Objetivo para '
 date: 2020-03-13 16:16:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tZE2sDSXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tZE2sDSXL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 245.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Canon EF 40mm f/2.8 STM - Objetivo para Canon  Distancia Focal Fija 40mm  Apertura f/2.8-22  diámetro: 68.2mm  Negro](https://www.amazon.es/dp/B0089SWZDU/?tag=redken-21) a 165.0 EUR (original: 245.99 EUR) (32.92 %  de descuento) en el siguiente enlace!
+Tienes [Canon EF 40mm f/2.8 STM - Objetivo para Canon  Distancia Focal Fija 40mm  Apertura f/2.8-22  diámetro: 68.2mm  Negro](https://www.amazon.es/dp/B0089SWZDU/?tag=redken-21) con un 32.92 % de descuento con precio de oferta de 165.0 EUR (original: 245.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41tZE2sDSXL._SL200_.jpg)](https://www.amazon.es/dp/B0089SWZDU/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0089SWZDU/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B0089SWZDU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

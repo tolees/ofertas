@@ -14,11 +14,11 @@ comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO NINJAGO 70672 - Coles Offroad-Bike und 3 Minifiguren](https://www.amazon.de/dp/B07KTW3NBX/?tag=redken02-21) a 12.99 EUR (original: 19.49 EUR) (33.35 %  de descuento) en el siguiente enlace!
+Está [LEGO NINJAGO 70672 - Coles Offroad-Bike und 3 Minifiguren](https://www.amazon.de/dp/B07KTW3NBX/?tag=redken02-21) con 33.35 de descuento por 12.99 EUR (original: 19.49 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Wcdm-aCbL._SL200_.jpg)](https://www.amazon.de/dp/B07KTW3NBX/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07KTW3NBX/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07KTW3NBX/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

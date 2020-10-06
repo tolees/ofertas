@@ -14,11 +14,11 @@ comparePrice: 199.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dewalt D25133K-QS Martillo Ligero Combinado 800W 3 Modos-26 mm 2  800 W  230 V  Negro  Blanco](https://www.amazon.es/dp/B00WB1OSPO/?tag=redken-21) a 138.97 EUR (original: 199.95 EUR) (30.50 %  de descuento) en el siguiente enlace!
+Está [Dewalt D25133K-QS Martillo Ligero Combinado 800W 3 Modos-26 mm 2  800 W  230 V  Negro  Blanco](https://www.amazon.es/dp/B00WB1OSPO/?tag=redken-21) con 30.50 de descuento por 138.97 EUR (original: 199.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41wkgOw3SmL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00WB1OSPO/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00WB1OSPO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00WB1OSPO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
