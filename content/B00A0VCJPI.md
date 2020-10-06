@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 25.97 % en TP-Link N300 Tl-WA850RE - Repetidor Exte'
-date: 2020-10-04 23:54:00
-thumbnailImage: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg' ]
+title: 'TP-Link TL-WA850RE Ripetitore Wireless W al 30.02 % de descuento'
+date: 2020-10-05 11:44:30
+thumbnailImage: 'https://m.media-amazon.com/images/I/31eWvF+Z0-L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31eWvF+Z0-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00A0VCJPI
 description:
-actualPrice: 16.99 EUR
-comparePrice: 22.95 EUR
+actualPrice: 13.99 EUR
+comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi  2.4 GHz  300 Mbps  Puerto Ethernet  Modo Ap y Extensor  Antenas Internas   Blanco](https://www.amazon.es/dp/B00A0VCJPI/?tag=redken-21) con un 25.97 % de descuento con precio de oferta de 16.99 EUR (original: 22.95 EUR) en el siguiente enlace!
+Está [TP-Link TL-WA850RE Ripetitore Wireless Wifi Extender e Access Point  Velocità Single Band 300Mbps  Porta LAN  Potenzia la tua copertura Wi-Fi  Compatibile con tutti i modem router wifi  Bianco](https://www.amazon.it/dp/B00A0VCJPI/?tag=redken03-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg)](https://www.amazon.es/dp/B00A0VCJPI/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/31eWvF+Z0-L._SL200_.jpg)](https://www.amazon.it/dp/B00A0VCJPI/?tag=redken03-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00A0VCJPI/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00A0VCJPI/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

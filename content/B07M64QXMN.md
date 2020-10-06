@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD Black SN750 1TB NVMe Internal Gaming  al 41.96 % de descuento'
-date: 2020-10-04 12:54:10
+date: 2020-10-06 21:35:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31F9yhXHZfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31F9yhXHZfL._SL200_.jpg' ]
 comments: true

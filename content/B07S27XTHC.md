@@ -14,11 +14,11 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Nike M NSW tee Icon Futura T-Shirt  Hombre  Obsidian/lt Photo Blue/ White ](https://www.amazon.es/dp/B07S27XTHC/?tag=redken-21) con 65.40 de descuento por 8.65 EUR (original: 25 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike M NSW tee Icon Futura T-Shirt  Hombre  Obsidian/lt Photo Blue/ White ](https://www.amazon.es/dp/B07S27XTHC/?tag=redken-21) a 8.65 EUR (original: 25 EUR) (65.40 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nmX72KYEL._SL200_.jpg)](https://www.amazon.es/dp/B07S27XTHC/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07S27XTHC/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07S27XTHC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

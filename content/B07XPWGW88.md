@@ -14,11 +14,11 @@ comparePrice: 129.0 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Facebook Portal Mini Smart Video Calling 8” Touch Screen Display with Alexa White](https://www.amazon.com/dp/B07XPWGW88/?tag=redken08-20) a 79.0 USD (original: 129.0 USD) (38.76 %  de descuento) en el siguiente enlace!
+Está [Facebook Portal Mini Smart Video Calling 8” Touch Screen Display with Alexa White](https://www.amazon.com/dp/B07XPWGW88/?tag=redken08-20) con 38.76 de descuento por 79.0 USD (original: 129.0 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41QoPM1MgHL._SL200_.jpg)](https://www.amazon.com/dp/B07XPWGW88/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07XPWGW88/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07XPWGW88/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

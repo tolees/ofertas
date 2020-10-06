@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Artistic Weavers Arti Blue Area Rug  9   al 43.35 % de descuento'
-date: 2020-10-03 23:18:37
+date: 2020-10-06 21:35:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/61+lf3Z+iFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61+lf3Z+iFL._SL200_.jpg' ]
 comments: true

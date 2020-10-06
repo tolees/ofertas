@@ -14,11 +14,11 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung Original Galaxy Note 10+ LED View Cover Case - Silver](https://www.amazon.co.uk/dp/B07VC3YGVV/?tag=redken01-21) a 29.99 GBP (original: 59.99 GBP) (50.01 %  de descuento) en el siguiente enlace!
+Está [Samsung Original Galaxy Note 10+ LED View Cover Case - Silver](https://www.amazon.co.uk/dp/B07VC3YGVV/?tag=redken01-21) con 50.01 de descuento por 29.99 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/319JlQ2m5RL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07VC3YGVV/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07VC3YGVV/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07VC3YGVV/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

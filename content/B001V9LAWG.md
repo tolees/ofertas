@@ -14,11 +14,11 @@ comparePrice: 6.05 EUR
 inStock: true
 ---
 
-Está [Rimmel London Exaggerate Automatic Lipliner. Perfilador de Labios Tono 018 Addiction - 3 9 gr](https://www.amazon.es/dp/B001V9LAWG/?tag=redken-21) con 62.64 de descuento por 2.26 EUR (original: 6.05 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Exaggerate Automatic Lipliner. Perfilador de Labios Tono 018 Addiction - 3 9 gr](https://www.amazon.es/dp/B001V9LAWG/?tag=redken-21) a 2.26 EUR (original: 6.05 EUR) (62.64 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31N6jC6p8IL._SL200_.jpg)](https://www.amazon.es/dp/B001V9LAWG/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B001V9LAWG/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B001V9LAWG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
