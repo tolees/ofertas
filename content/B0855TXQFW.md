@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GODNECE Military Tank Model  1:72 Tank B al 50.00 % de descuento'
+title: 'Descuento del 50.00 % en GODNECE Military Tank Model  1:72 Tank B'
 date: 2020-04-14 15:12:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51z0EHcWRrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51z0EHcWRrL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 191.98 GBP
 inStock: true
 ---
 
-Está [GODNECE Military Tank Model  1:72 Tank Building Block Set Building Blocks Technic Compatible with Lego 3846Pcs +  with Graphic Carton](https://www.amazon.co.uk/dp/B0855TXQFW/?tag=redken01-21) con 50.00 de descuento por 95.99 GBP (original: 191.98 GBP) en el siguiente enlace!
+Tienes [GODNECE Military Tank Model  1:72 Tank Building Block Set Building Blocks Technic Compatible with Lego 3846Pcs +  with Graphic Carton](https://www.amazon.co.uk/dp/B0855TXQFW/?tag=redken01-21) con un 50.00 % de descuento con precio de oferta de 95.99 GBP (original: 191.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51z0EHcWRrL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0855TXQFW/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B0855TXQFW/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B0855TXQFW/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

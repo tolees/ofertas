@@ -14,11 +14,11 @@ comparePrice: 27.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LIFX Mini Day & Dusk  E27  Wi-Fi Smart LED Light Bulb  Adjustable  Dimmable  No Hub Required  Works with Alexa  Apple HomeKit and The Google Assistant](https://www.amazon.co.uk/dp/B0753SBGGS/?tag=redken01-21) a 19.99 GBP (original: 27.99 GBP) (28.58 %  de descuento) en el siguiente enlace!
+Está [LIFX Mini Day & Dusk  E27  Wi-Fi Smart LED Light Bulb  Adjustable  Dimmable  No Hub Required  Works with Alexa  Apple HomeKit and The Google Assistant](https://www.amazon.co.uk/dp/B0753SBGGS/?tag=redken01-21) con 28.58 de descuento por 19.99 GBP (original: 27.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31oI7n3RuKL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B0753SBGGS/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B0753SBGGS/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B0753SBGGS/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

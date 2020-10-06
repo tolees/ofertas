@@ -14,11 +14,11 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Está [Mothers Day Gift Box of Baileys Strawberry and Cream Hearts - Perfect for Anniversary 90g](https://www.amazon.co.uk/dp/B083KLCVSV/?tag=redken01-21) con 50.03 de descuento por 9.99 GBP (original: 19.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Mothers Day Gift Box of Baileys Strawberry and Cream Hearts - Perfect for Anniversary 90g](https://www.amazon.co.uk/dp/B083KLCVSV/?tag=redken01-21) a 9.99 GBP (original: 19.99 GBP) (50.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51HTMFwloRL._SL200_.jpg)](https://www.amazon.co.uk/dp/B083KLCVSV/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B083KLCVSV/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B083KLCVSV/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
