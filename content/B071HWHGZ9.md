@@ -14,11 +14,11 @@ comparePrice: 16.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Calico Critters Cake Decorating Set](https://www.amazon.com/dp/B071HWHGZ9/?tag=redken08-20) a 8.37 USD (original: 16.99 USD) (50.74 %  de descuento) en el siguiente enlace!
+Está [Calico Critters Cake Decorating Set](https://www.amazon.com/dp/B071HWHGZ9/?tag=redken08-20) con 50.74 de descuento por 8.37 USD (original: 16.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UphK+2+kL._SL200_.jpg)](https://www.amazon.com/dp/B071HWHGZ9/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B071HWHGZ9/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B071HWHGZ9/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
