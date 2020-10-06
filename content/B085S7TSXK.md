@@ -14,11 +14,11 @@ comparePrice: 18.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Everyone Hand Soap: Ruby Grapefruit  12.75 Ounce  3 Count](https://www.amazon.com/dp/B085S7TSXK/?tag=redken08-20) a 10.47 USD (original: 18.99 USD) (44.87 %  de descuento) en el siguiente enlace!
+Está [Everyone Hand Soap: Ruby Grapefruit  12.75 Ounce  3 Count](https://www.amazon.com/dp/B085S7TSXK/?tag=redken08-20) con 44.87 de descuento por 10.47 USD (original: 18.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51wbfuNJXKL._SL200_.jpg)](https://www.amazon.com/dp/B085S7TSXK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B085S7TSXK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B085S7TSXK/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

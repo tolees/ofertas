@@ -14,11 +14,11 @@ comparePrice: 20.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Scented Candle Gift Set  Relax Gift Set and Mum Gift. Scented Candles an for Women  Great Gifts for Her or Perfect Women’s Gifts  Sweetmist ](https://www.amazon.co.uk/dp/B07K5RKQGV/?tag=redken01-21) a 10.99 GBP (original: 20.0 GBP) (45.05 %  de descuento) en el siguiente enlace!
+Está [Scented Candle Gift Set  Relax Gift Set and Mum Gift. Scented Candles an for Women  Great Gifts for Her or Perfect Women’s Gifts  Sweetmist ](https://www.amazon.co.uk/dp/B07K5RKQGV/?tag=redken01-21) con 45.05 de descuento por 10.99 GBP (original: 20.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/514j-RVvpeL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07K5RKQGV/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07K5RKQGV/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07K5RKQGV/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

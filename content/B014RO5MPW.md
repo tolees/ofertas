@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMRON E3 Intense - Electroestimulador pa al 42.04 % de descuento'
-date: 2020-10-05 13:02:13
+date: 2020-10-06 13:46:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NQYQUaaKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NQYQUaaKL._SL200_.jpg' ]
 comments: true
