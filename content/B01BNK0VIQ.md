@@ -14,11 +14,11 @@ comparePrice: 4.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rimmel Supercurler Mascara Extra Black Podkręcający Tusz do rzęs](https://www.amazon.es/dp/B01BNK0VIQ/?tag=redken-21) a 3.4 EUR (original: 4.9 EUR) (30.61 %  de descuento) en el siguiente enlace!
+Está [Rimmel Supercurler Mascara Extra Black Podkręcający Tusz do rzęs](https://www.amazon.es/dp/B01BNK0VIQ/?tag=redken-21) con 30.61 de descuento por 3.4 EUR (original: 4.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41u2tY6lsEL._SL200_.jpg)](https://www.amazon.es/dp/B01BNK0VIQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01BNK0VIQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01BNK0VIQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

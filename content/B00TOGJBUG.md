@@ -14,11 +14,11 @@ comparePrice: 30.94 EUR
 inStock: true
 ---
 
-Está [Anker - Set de Material Escolar GRU  Mi Villano Favorito  ANKDMADS ](https://www.amazon.es/dp/B00TOGJBUG/?tag=redken-21) con 73.66 de descuento por 8.15 EUR (original: 30.94 EUR) en el siguiente enlace!
+Ahora mismo tienes [Anker - Set de Material Escolar GRU  Mi Villano Favorito  ANKDMADS ](https://www.amazon.es/dp/B00TOGJBUG/?tag=redken-21) a 8.15 EUR (original: 30.94 EUR) (73.66 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51iJIy32i6L._SL200_.jpg)](https://www.amazon.es/dp/B00TOGJBUG/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00TOGJBUG/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00TOGJBUG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

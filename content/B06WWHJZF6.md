@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda N300 A9 Wireless Repetidor Extenso al 35.31 % de descuento'
-date: 2020-10-05 00:00:29
+date: 2020-10-06 20:25:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eflsTWvML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eflsTWvML._SL200_.jpg' ]
 comments: true

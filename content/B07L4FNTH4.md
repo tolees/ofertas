@@ -14,11 +14,11 @@ comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Está [LEGO 60227 City Lunar Space Station  Spaceship Adventures Toys for Kids inspired by NASA  Mars Expedition Series](https://www.amazon.co.uk/dp/B07L4FNTH4/?tag=redken01-21) con 30.36 de descuento por 31.33 GBP (original: 44.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60227 City Lunar Space Station  Spaceship Adventures Toys for Kids inspired by NASA  Mars Expedition Series](https://www.amazon.co.uk/dp/B07L4FNTH4/?tag=redken01-21) a 31.33 GBP (original: 44.99 GBP) (30.36 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51brJzGqexL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07L4FNTH4/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07L4FNTH4/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07L4FNTH4/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

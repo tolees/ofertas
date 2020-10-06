@@ -14,11 +14,11 @@ comparePrice: 35.98 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Kepae LED Lighting Kit for Lego 76897  Light Set Compatible with Seed Champions 1985 Audi Sport Quattro S1 - NOT Included The Model](https://www.amazon.co.uk/dp/B086RCWBSL/?tag=redken01-21) a 17.99 GBP (original: 35.98 GBP) (50.00 %  de descuento) en el siguiente enlace!
+Está [Kepae LED Lighting Kit for Lego 76897  Light Set Compatible with Seed Champions 1985 Audi Sport Quattro S1 - NOT Included The Model](https://www.amazon.co.uk/dp/B086RCWBSL/?tag=redken01-21) con 50.00 de descuento por 17.99 GBP (original: 35.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41s73nVPDfL._SL200_.jpg)](https://www.amazon.co.uk/dp/B086RCWBSL/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B086RCWBSL/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B086RCWBSL/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

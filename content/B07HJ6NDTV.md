@@ -14,11 +14,11 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pop Vinyl: Animation: Rick & Morty: Unity Rick and Morty Figura de vinilo - coleccionable  Multicolor  talla única  35595 ](https://www.amazon.es/dp/B07HJ6NDTV/?tag=redken-21) a 6.28 EUR (original: 15.95 EUR) (60.63 %  de descuento) en el siguiente enlace!
+Está [Funko- Pop Vinyl: Animation: Rick & Morty: Unity Rick and Morty Figura de vinilo - coleccionable  Multicolor  talla única  35595 ](https://www.amazon.es/dp/B07HJ6NDTV/?tag=redken-21) con 60.63 de descuento por 6.28 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51noGzxLMBL._SL200_.jpg)](https://www.amazon.es/dp/B07HJ6NDTV/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07HJ6NDTV/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07HJ6NDTV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

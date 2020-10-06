@@ -14,11 +14,11 @@ comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Está [Funko 28632 S4 Demogorgon POP Vinylfigur: Stranger Things: Dart Demodog  Multi](https://www.amazon.de/dp/B0777TSSFW/?tag=redken02-21) con 35.74 de descuento por 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko 28632 S4 Demogorgon POP Vinylfigur: Stranger Things: Dart Demodog  Multi](https://www.amazon.de/dp/B0777TSSFW/?tag=redken02-21) a 8.99 EUR (original: 13.99 EUR) (35.74 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410GOyFmTuL._SL200_.jpg)](https://www.amazon.de/dp/B0777TSSFW/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B0777TSSFW/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B0777TSSFW/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
