@@ -14,11 +14,11 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Está [Nike M NSW tee Swoosh BB Core T-Shirt  Hombre  Black  XL](https://www.amazon.es/dp/B07KKNJ56Z/?tag=redken-21) con 54.95 de descuento por 9.01 EUR (original: 20 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike M NSW tee Swoosh BB Core T-Shirt  Hombre  Black  XL](https://www.amazon.es/dp/B07KKNJ56Z/?tag=redken-21) a 9.01 EUR (original: 20 EUR) (54.95 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IXaJ3i3SL._SL200_.jpg)](https://www.amazon.es/dp/B07KKNJ56Z/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KKNJ56Z/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KKNJ56Z/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

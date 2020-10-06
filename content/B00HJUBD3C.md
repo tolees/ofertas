@@ -14,11 +14,11 @@ comparePrice: 31.3 GBP
 inStock: true
 ---
 
-Está [DeWalt DT0109 Screwdriver and Drillbit Set  109 Pieces ](https://www.amazon.co.uk/dp/B00HJUBD3C/?tag=redken01-21) con 28.34 de descuento por 22.43 GBP (original: 31.3 GBP) en el siguiente enlace!
+Ahora mismo tienes [DeWalt DT0109 Screwdriver and Drillbit Set  109 Pieces ](https://www.amazon.co.uk/dp/B00HJUBD3C/?tag=redken01-21) a 22.43 GBP (original: 31.3 GBP) (28.34 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51fA-r4+MrL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00HJUBD3C/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00HJUBD3C/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00HJUBD3C/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

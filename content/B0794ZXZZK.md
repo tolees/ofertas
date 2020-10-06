@@ -14,11 +14,11 @@ comparePrice: 8.11 GBP
 inStock: true
 ---
 
-Está [Kiln Dried Kindling 3kg  approx  Bag Perfect for Starting fires of all types  Open Fires  Stoves  BBQ & Pizza Ovens](https://www.amazon.co.uk/dp/B0794ZXZZK/?tag=redken01-21) con 38.47 de descuento por 4.99 GBP (original: 8.11 GBP) en el siguiente enlace!
+Ahora mismo tienes [Kiln Dried Kindling 3kg  approx  Bag Perfect for Starting fires of all types  Open Fires  Stoves  BBQ & Pizza Ovens](https://www.amazon.co.uk/dp/B0794ZXZZK/?tag=redken01-21) a 4.99 GBP (original: 8.11 GBP) (38.47 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41YUojc85IL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0794ZXZZK/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B0794ZXZZK/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B0794ZXZZK/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

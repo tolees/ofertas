@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.43 % en L Oréal Paris Perfect Slim Líquido Negro'
-date: 2020-10-05 05:41:04
+date: 2020-10-06 18:22:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/21VR0XP-cgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21VR0XP-cgL._SL200_.jpg' ]
 comments: true

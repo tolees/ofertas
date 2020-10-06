@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Drift DR50B - Silla Gaming Profesional   al 25.96 % de descuento'
-date: 2020-10-05 16:54:54
+date: 2020-10-06 18:51:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/21xkMlOe+hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21xkMlOe+hL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.07 % en Fatima'
-date: 2020-10-05 17:54:08
+date: 2020-10-06 18:19:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/5109hkzkiLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5109hkzkiLL._SL200_.jpg' ]
 comments: true

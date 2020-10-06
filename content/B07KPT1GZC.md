@@ -14,11 +14,11 @@ comparePrice: 9.57 GBP
 inStock: true
 ---
 
-Está [Funko 37690 POP Animation: Simpsons-Homer-Radioactive Man Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07KPT1GZC/?tag=redken01-21) con 26.96 de descuento por 6.99 GBP (original: 9.57 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 37690 POP Animation: Simpsons-Homer-Radioactive Man Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07KPT1GZC/?tag=redken01-21) a 6.99 GBP (original: 9.57 GBP) (26.96 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41YNJuLpWML._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KPT1GZC/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KPT1GZC/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KPT1GZC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

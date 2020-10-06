@@ -14,11 +14,11 @@ comparePrice: 11.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 39947 POP Vinyl: Animation Scooby DOO w/Sandwich Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07MZQMRLM/?tag=redken02-21) a 8.5 EUR (original: 11.98 EUR) (29.05 %  de descuento) en el siguiente enlace!
+Está [Funko 39947 POP Vinyl: Animation Scooby DOO w/Sandwich Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07MZQMRLM/?tag=redken02-21) con 29.05 de descuento por 8.5 EUR (original: 11.98 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41j+bnI4AFL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07MZQMRLM/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07MZQMRLM/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07MZQMRLM/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

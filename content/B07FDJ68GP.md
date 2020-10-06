@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Superdry Orange Label Vntge Emb S/S tee  al 40.02 % de descuento'
-date: 2020-10-04 23:54:59
+title: 'Superdry Orange Label Vntge Emb S/S tee  al 38.02 % de descuento'
+date: 2020-10-06 18:35:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Attlm30hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Attlm30hL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FDJ68GP
 description:
-actualPrice: 14.99 EUR
+actualPrice: 15.49 EUR
 comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superdry Orange Label Vntge Emb S/S tee Camiseta  Azul  Eclipse Navy 98T   X-Small para Hombre](https://www.amazon.es/dp/B07FDJ68GP/?tag=redken-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Superdry Orange Label Vntge Emb S/S tee Camiseta  Azul  Eclipse Navy 98T   X-Small para Hombre](https://www.amazon.es/dp/B07FDJ68GP/?tag=redken-21) a 15.49 EUR (original: 24.99 EUR) (38.02 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Attlm30hL._SL200_.jpg)](https://www.amazon.es/dp/B07FDJ68GP/?tag=redken-21)
 
