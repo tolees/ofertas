@@ -14,11 +14,11 @@ comparePrice: 14.99 USD
 inStock: true
 ---
 
-Está [Lightseeker Weapon Pack  Leeching Scimitar](https://www.amazon.com/dp/B01NB09FGP/?tag=redken08-20) con 58.31 de descuento por 6.25 USD (original: 14.99 USD) en el siguiente enlace!
+Ahora mismo tienes [Lightseeker Weapon Pack  Leeching Scimitar](https://www.amazon.com/dp/B01NB09FGP/?tag=redken08-20) a 6.25 USD (original: 14.99 USD) (58.31 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41zoraxrJ2L._SL200_.jpg)](https://www.amazon.com/dp/B01NB09FGP/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01NB09FGP/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01NB09FGP/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
