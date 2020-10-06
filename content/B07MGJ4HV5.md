@@ -14,11 +14,11 @@ comparePrice: 19.99 USD
 inStock: true
 ---
 
-Está [Hasbro Gaming The Tonight Show Starring Jimmy Fallon Face It Challenge Party Game for Teens and Adults](https://www.amazon.com/dp/B07MGJ4HV5/?tag=redken08-20) con 53.93 de descuento por 9.21 USD (original: 19.99 USD) en el siguiente enlace!
+Ahora mismo tienes [Hasbro Gaming The Tonight Show Starring Jimmy Fallon Face It Challenge Party Game for Teens and Adults](https://www.amazon.com/dp/B07MGJ4HV5/?tag=redken08-20) a 9.21 USD (original: 19.99 USD) (53.93 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61v4qgduTgL._SL200_.jpg)](https://www.amazon.com/dp/B07MGJ4HV5/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07MGJ4HV5/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07MGJ4HV5/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

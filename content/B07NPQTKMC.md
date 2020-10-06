@@ -14,11 +14,11 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BoomTrix Multiball GL60103  Xtreme Trampoline Action for Kids Aged 8+  Multi](https://www.amazon.co.uk/dp/B07NPQTKMC/?tag=redken01-21) a 15.0 GBP (original: 29.99 GBP) (49.98 %  de descuento) en el siguiente enlace!
+Está [BoomTrix Multiball GL60103  Xtreme Trampoline Action for Kids Aged 8+  Multi](https://www.amazon.co.uk/dp/B07NPQTKMC/?tag=redken01-21) con 49.98 de descuento por 15.0 GBP (original: 29.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41sIo5VqsiL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07NPQTKMC/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07NPQTKMC/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07NPQTKMC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
