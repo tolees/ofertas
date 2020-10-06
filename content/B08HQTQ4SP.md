@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electric Spin Scrubber Rechargeable Clea al 46.47 % de descuento'
-date: 2020-10-04 16:48:12
+date: 2020-10-06 05:02:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31d0NDhpg2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31d0NDhpg2L._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 16.56 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gimcat Gimcat Malt Soft Extra 200G 1 Unidad 200 g](https://www.amazon.es/dp/B00JDI9TLG/?tag=redken-21) a 8.99 EUR (original: 16.56 EUR) (45.71 %  de descuento) en el siguiente enlace!
+Está [Gimcat Gimcat Malt Soft Extra 200G 1 Unidad 200 g](https://www.amazon.es/dp/B00JDI9TLG/?tag=redken-21) con 45.71 de descuento por 8.99 EUR (original: 16.56 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41L7IuUJA0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00JDI9TLG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00JDI9TLG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00JDI9TLG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

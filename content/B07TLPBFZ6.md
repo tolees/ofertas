@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Batman 80th Anniversary Collection  Blu- al 31.53 % de descuento'
-date: 2020-09-29 21:00:47
+date: 2020-10-06 05:23:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51c5lh1t74L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51c5lh1t74L._SL200_.jpg' ]
 comments: true
@@ -19,5 +19,7 @@ Ahora mismo tienes [Batman 80th Anniversary Collection  Blu-ray ](https://www.am
 [![](https://m.media-amazon.com/images/I/51c5lh1t74L._SL200_.jpg)](https://www.amazon.com/dp/B07TLPBFZ6/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07TLPBFZ6/?tag=redken08-20)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

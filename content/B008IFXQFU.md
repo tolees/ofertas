@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.36 % en TP-Link USB Wifi Adapter for PC N150 Wir'
-date: 2020-10-04 23:38:29
+date: 2020-10-06 05:46:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Tru8oLwtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Tru8oLwtL._SL200_.jpg' ]
 comments: true

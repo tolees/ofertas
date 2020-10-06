@@ -14,11 +14,11 @@ comparePrice: 22.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hill`s Science Plan Alimento con Sabor a Pollo para Perros Pequeño Mini - 3 kg](https://www.amazon.es/dp/B001MZYHRE/?tag=redken-21) a 3.0 EUR (original: 22.84 EUR) (86.87 %  de descuento) en el siguiente enlace!
+Está [Hill`s Science Plan Alimento con Sabor a Pollo para Perros Pequeño Mini - 3 kg](https://www.amazon.es/dp/B001MZYHRE/?tag=redken-21) con 86.87 de descuento por 3.0 EUR (original: 22.84 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412frO8N5uL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B001MZYHRE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B001MZYHRE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001MZYHRE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

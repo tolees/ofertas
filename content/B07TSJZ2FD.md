@@ -14,11 +14,11 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Technic Rallyeauto  Kompatibel Mit Lego 42077 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07TSJZ2FD/?tag=redken02-21) a 34.99 EUR (original: 59.99 EUR) (41.67 %  de descuento) en el siguiente enlace!
+Está [BRIKSMAX Led Beleuchtungsset für Lego Technic Rallyeauto  Kompatibel Mit Lego 42077 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07TSJZ2FD/?tag=redken02-21) con 41.67 de descuento por 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51D9Scu1CPL._SL200_.jpg)](https://www.amazon.de/dp/B07TSJZ2FD/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07TSJZ2FD/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07TSJZ2FD/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

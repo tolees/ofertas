@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.65 % en Samsung Da29-00020b-1P Refrigerator Wate'
-date: 2020-10-05 04:49:03
+date: 2020-10-06 05:36:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+akUiJX-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+akUiJX-L._SL200_.jpg' ]
 comments: true
