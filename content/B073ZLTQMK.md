@@ -14,11 +14,11 @@ comparePrice: 349.99 EUR
 inStock: true
 ---
 
-Está [WD My Book Duo Disco duro externo de Sobremesa de 6 TB con RAID  USB 3.1 gen 1](https://www.amazon.es/dp/B073ZLTQMK/?tag=redken-21) con 35.93 de descuento por 224.25 EUR (original: 349.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [WD My Book Duo Disco duro externo de Sobremesa de 6 TB con RAID  USB 3.1 gen 1](https://www.amazon.es/dp/B073ZLTQMK/?tag=redken-21) a 224.25 EUR (original: 349.99 EUR) (35.93 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31yyf+9XFuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B073ZLTQMK/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073ZLTQMK/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B073ZLTQMK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

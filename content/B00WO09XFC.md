@@ -14,11 +14,11 @@ comparePrice: 28.99 GBP
 inStock: true
 ---
 
-Está [Star Wars: The Force Awakens Black Series 6 Inch Captain Phasma](https://www.amazon.co.uk/dp/B00WO09XFC/?tag=redken01-21) con 41.70 de descuento por 16.9 GBP (original: 28.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Star Wars: The Force Awakens Black Series 6 Inch Captain Phasma](https://www.amazon.co.uk/dp/B00WO09XFC/?tag=redken01-21) a 16.9 GBP (original: 28.99 GBP) (41.70 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KJ-m9CcLL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00WO09XFC/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00WO09XFC/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00WO09XFC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

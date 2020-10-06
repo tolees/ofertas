@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 37.61 % en The Lego Movie 2 70837 Schimmerndes Glit'
-date: 2020-04-07 21:33:18
+title: 'Descuento del 44.66 % en LEGO MOVIE 2 70837 Shimmer and Shine Spa'
+date: 2020-10-06 07:24:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IzEDjhq-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IzEDjhq-L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07KQBXKVR
 description:
-actualPrice: 43.67 EUR
-comparePrice: 69.99 EUR
+actualPrice: 33.2 GBP
+comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Tienes [The Lego Movie 2 70837 Schimmerndes Glitzer-Spa  Bauset](https://www.amazon.de/dp/B07KQBXKVR/?tag=redken02-21) con un 37.61 % de descuento con precio de oferta de 43.67 EUR (original: 69.99 EUR) en el siguiente enlace!
+Tienes [LEGO MOVIE 2 70837 Shimmer and Shine Sparkle Spa Playset](https://www.amazon.co.uk/dp/B07KQBXKVR/?tag=redken01-21) con un 44.66 % de descuento con precio de oferta de 33.2 GBP (original: 59.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51IzEDjhq-L._SL200_.jpg)](https://www.amazon.de/dp/B07KQBXKVR/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51IzEDjhq-L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KQBXKVR/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07KQBXKVR/?tag=redken02-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07KQBXKVR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
