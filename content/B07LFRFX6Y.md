@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.70 % en FITTOO Mallas Pantalones Deportivos Legg'
-date: 2020-04-09 06:27:49
+date: 2020-10-06 15:04:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xaNjGYksL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xaNjGYksL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 85.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s 511 Mens Slim Fit Jeans - Comfortable and Stretchy Denim Fit](https://www.amazon.co.uk/dp/B07JPL4TNM/?tag=redken01-21) a 44.77 GBP (original: 85.0 GBP) (47.33 %  de descuento) en el siguiente enlace!
+Está [Levi s 511 Mens Slim Fit Jeans - Comfortable and Stretchy Denim Fit](https://www.amazon.co.uk/dp/B07JPL4TNM/?tag=redken01-21) con 47.33 de descuento por 44.77 GBP (original: 85.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31po5xsT-mL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JPL4TNM/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07JPL4TNM/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07JPL4TNM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

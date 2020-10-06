@@ -14,11 +14,11 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Revell 06719 Modellbausatz  Star Wars 1:2700-Imperial Destroyer  Level 4  orginalgetreue Nachbildung mit vielen Details-06719](https://www.amazon.de/dp/B074FZKNDF/?tag=redken02-21) a 58.85 EUR (original: 99.99 EUR) (41.14 %  de descuento) en el siguiente enlace!
+Está [Revell 06719 Modellbausatz  Star Wars 1:2700-Imperial Destroyer  Level 4  orginalgetreue Nachbildung mit vielen Details-06719](https://www.amazon.de/dp/B074FZKNDF/?tag=redken02-21) con 41.14 de descuento por 58.85 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51EGNNzrSZL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B074FZKNDF/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B074FZKNDF/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B074FZKNDF/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
