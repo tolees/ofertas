@@ -14,11 +14,11 @@ comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Galt Toys Paint a Tea Set](https://www.amazon.co.uk/dp/B000TNJHJ8/?tag=redken01-21) a 5.0 GBP (original: 14.99 GBP) (66.64 %  de descuento) en el siguiente enlace!
+Está [Galt Toys Paint a Tea Set](https://www.amazon.co.uk/dp/B000TNJHJ8/?tag=redken01-21) con 66.64 de descuento por 5.0 GBP (original: 14.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51QXdbVgNLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B000TNJHJ8/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B000TNJHJ8/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B000TNJHJ8/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

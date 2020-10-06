@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO NINJAGO 70675 - Katana 4 x 4 Spielz al 26.37 % de descuento'
-date: 2020-09-29 12:11:21
+date: 2020-10-06 08:25:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-4ZjAEr0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-4ZjAEr0L._SL200_.jpg' ]
 comments: true
@@ -19,5 +19,7 @@ Está [LEGO NINJAGO 70675 - Katana 4 x 4 Spielzeugauto](https://www.amazon.de/dp
 [![](https://m.media-amazon.com/images/I/51-4ZjAEr0L._SL200_.jpg)](https://www.amazon.de/dp/B07KTVLB3V/?tag=redken02-21)
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07KTVLB3V/?tag=redken02-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
