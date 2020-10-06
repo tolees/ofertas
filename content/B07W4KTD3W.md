@@ -14,11 +14,11 @@ comparePrice: 58.48 EUR
 inStock: true
 ---
 
-Está [LEGO Architecture 21051 Tokio Skyline-Kollektion](https://www.amazon.de/dp/B07W4KTD3W/?tag=redken02-21) con 26.97 de descuento por 42.71 EUR (original: 58.48 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Architecture 21051 Tokio Skyline-Kollektion](https://www.amazon.de/dp/B07W4KTD3W/?tag=redken02-21) a 42.71 EUR (original: 58.48 EUR) (26.97 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qhecDTHFL._SL200_.jpg)](https://www.amazon.de/dp/B07W4KTD3W/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07W4KTD3W/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07W4KTD3W/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

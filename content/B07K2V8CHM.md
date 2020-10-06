@@ -14,11 +14,11 @@ comparePrice: 11.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jayron JR-LT002 LED Sensor de cuerpo humano Sensor infrarrojo Lámpara de luz nocturna  Blanco ](https://www.amazon.es/dp/B07K2V8CHM/?tag=redken-21) a 7.66 EUR (original: 11.5 EUR) (33.39 %  de descuento) en el siguiente enlace!
+Está [Jayron JR-LT002 LED Sensor de cuerpo humano Sensor infrarrojo Lámpara de luz nocturna  Blanco ](https://www.amazon.es/dp/B07K2V8CHM/?tag=redken-21) con 33.39 de descuento por 7.66 EUR (original: 11.5 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/312XBC5EwuL._SL200_.jpg)](https://www.amazon.es/dp/B07K2V8CHM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07K2V8CHM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K2V8CHM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

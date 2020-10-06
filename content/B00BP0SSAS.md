@@ -14,11 +14,11 @@ comparePrice: 68.7 GBP
 inStock: true
 ---
 
-Está [TP-Link TL-SG1008P 8-Port Gigabit PoE Ethernet Switch  4 PoE Ports  55 Watt Budget  No Configuration Required ](https://www.amazon.co.uk/dp/B00BP0SSAS/?tag=redken01-21) con 35.24 de descuento por 44.49 GBP (original: 68.7 GBP) en el siguiente enlace!
+Ahora mismo tienes [TP-Link TL-SG1008P 8-Port Gigabit PoE Ethernet Switch  4 PoE Ports  55 Watt Budget  No Configuration Required ](https://www.amazon.co.uk/dp/B00BP0SSAS/?tag=redken01-21) a 44.49 GBP (original: 68.7 GBP) (35.24 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41EWV2w2eQL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00BP0SSAS/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00BP0SSAS/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00BP0SSAS/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

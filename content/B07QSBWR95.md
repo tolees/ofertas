@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.63 % en Funko- Pop Star Wars The Rise of Skywalk'
-date: 2020-10-05 10:02:34
+date: 2020-10-06 10:13:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fDt9hJ8ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fDt9hJ8ZL._SL200_.jpg' ]
 comments: true

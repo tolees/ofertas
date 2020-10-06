@@ -14,11 +14,11 @@ comparePrice: 24.95 USD
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Quinlan VOS w Green Lightsaber Star Wars Minifigure](https://www.amazon.com/dp/B005DTFOWW/?tag=redken08-20) a 8.99 USD (original: 24.95 USD) (63.97 %  de descuento) en el siguiente enlace!
+Está [LEGO Quinlan VOS w Green Lightsaber Star Wars Minifigure](https://www.amazon.com/dp/B005DTFOWW/?tag=redken08-20) con 63.97 de descuento por 8.99 USD (original: 24.95 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ob9xCJS7L._SL200_.jpg)](https://www.amazon.com/dp/B005DTFOWW/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B005DTFOWW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B005DTFOWW/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

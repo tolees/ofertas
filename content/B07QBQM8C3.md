@@ -14,11 +14,11 @@ comparePrice: 9.27 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 43335 POP. Bobble Marvel: Holiday-Captain America Capt Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07QBQM8C3/?tag=redken01-21) a 5.0 GBP (original: 9.27 GBP) (46.06 %  de descuento) en el siguiente enlace!
+Está [Funko 43335 POP. Bobble Marvel: Holiday-Captain America Capt Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07QBQM8C3/?tag=redken01-21) con 46.06 de descuento por 5.0 GBP (original: 9.27 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/419VPn-7vPL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07QBQM8C3/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07QBQM8C3/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07QBQM8C3/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

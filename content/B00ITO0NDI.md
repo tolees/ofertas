@@ -14,11 +14,11 @@ comparePrice: 4.91 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Her [Blu-ray]](https://www.amazon.co.uk/dp/B00ITO0NDI/?tag=redken01-21) a 2.71 GBP (original: 4.91 GBP) (44.81 %  de descuento) en el siguiente enlace!
+Está [Her [Blu-ray]](https://www.amazon.co.uk/dp/B00ITO0NDI/?tag=redken01-21) con 44.81 de descuento por 2.71 GBP (original: 4.91 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51AyivGqj-L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00ITO0NDI/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00ITO0NDI/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00ITO0NDI/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

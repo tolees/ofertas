@@ -14,11 +14,11 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Isabel + La corona partida + Carlos  Rey Emperador [Blu-ray]](https://www.amazon.es/dp/B01MDOUIER/?tag=redken-21) a 45.65 EUR (original: 99.99 EUR) (54.35 %  de descuento) en el siguiente enlace!
+Está [Isabel + La corona partida + Carlos  Rey Emperador [Blu-ray]](https://www.amazon.es/dp/B01MDOUIER/?tag=redken-21) con 54.35 de descuento por 45.65 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51F3JBPV37L._SL200_.jpg)](https://www.amazon.es/dp/B01MDOUIER/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MDOUIER/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MDOUIER/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
