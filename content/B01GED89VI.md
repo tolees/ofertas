@@ -14,11 +14,11 @@ comparePrice: 7.99 EUR
 inStock: true
 ---
 
-Está [Kölln Müsli Schoko "30 % weniger Zucker"  1er Pack  1 x 2 kg ](https://www.amazon.de/dp/B01GED89VI/?tag=redken02-21) con 25.03 de descuento por 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kölln Müsli Schoko "30 % weniger Zucker"  1er Pack  1 x 2 kg ](https://www.amazon.de/dp/B01GED89VI/?tag=redken02-21) a 5.99 EUR (original: 7.99 EUR) (25.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51XhN32j7DL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01GED89VI/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01GED89VI/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B01GED89VI/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

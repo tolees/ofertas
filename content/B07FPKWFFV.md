@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PUMA Axis  Zapatillas Unisex Adulto  Neg al 44.66 % de descuento'
-date: 2020-10-05 13:34:25
+title: 'PUMA Axis  Zapatillas Unisex Adulto  Neg al 47.42 % de descuento'
+date: 2020-10-06 17:14:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31k+lR54xxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31k+lR54xxL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FPKWFFV
 description:
-actualPrice: 30.41 EUR
+actualPrice: 28.89 EUR
 comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Está [PUMA Axis  Zapatillas Unisex Adulto  Negro Black/Asphalt  38.5 EU](https://www.amazon.es/dp/B07FPKWFFV/?tag=redken-21) con 44.66 de descuento por 30.41 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [PUMA Axis  Zapatillas Unisex Adulto  Negro Black/Asphalt  38.5 EU](https://www.amazon.es/dp/B07FPKWFFV/?tag=redken-21) con 47.42 de descuento por 28.89 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31k+lR54xxL._SL200_.jpg)](https://www.amazon.es/dp/B07FPKWFFV/?tag=redken-21)
 

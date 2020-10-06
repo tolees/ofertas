@@ -14,11 +14,11 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Está [Centrum Advance Multivitamin Tablets  Pack of 180](https://www.amazon.co.uk/dp/B06XRVTYN3/?tag=redken01-21) con 59.78 de descuento por 10.05 GBP (original: 24.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Centrum Advance Multivitamin Tablets  Pack of 180](https://www.amazon.co.uk/dp/B06XRVTYN3/?tag=redken01-21) a 10.05 GBP (original: 24.99 GBP) (59.78 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413jnWzsvqL._SL200_.jpg)](https://www.amazon.co.uk/dp/B06XRVTYN3/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B06XRVTYN3/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B06XRVTYN3/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

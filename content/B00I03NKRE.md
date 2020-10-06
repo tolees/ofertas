@@ -14,11 +14,11 @@ comparePrice: 22.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Educa Borrás- Puzzle 2000  16013 ](https://www.amazon.es/dp/B00I03NKRE/?tag=redken-21) a 15.62 EUR (original: 22.95 EUR) (31.94 %  de descuento) en el siguiente enlace!
+Está [Educa Borrás- Puzzle 2000  16013 ](https://www.amazon.es/dp/B00I03NKRE/?tag=redken-21) con 31.94 de descuento por 15.62 EUR (original: 22.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61q2auSEHDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00I03NKRE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00I03NKRE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00I03NKRE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

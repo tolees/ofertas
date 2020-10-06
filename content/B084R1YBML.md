@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Advent Calendar: Harry Potter - 24 al 33.39 % de descuento'
-date: 2020-10-05 17:04:31
+date: 2020-10-06 17:33:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51S5DIooMPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51S5DIooMPL._SL200_.jpg' ]
 comments: true

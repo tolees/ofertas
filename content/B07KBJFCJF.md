@@ -14,11 +14,11 @@ comparePrice: 16.7 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- 5 Star: Aladdin: Genie 5 Estrellas  Multicolor  Talla única  35763 ](https://www.amazon.es/dp/B07KBJFCJF/?tag=redken-21) a 11.6 EUR (original: 16.7 EUR) (30.54 %  de descuento) en el siguiente enlace!
+Está [Funko- 5 Star: Aladdin: Genie 5 Estrellas  Multicolor  Talla única  35763 ](https://www.amazon.es/dp/B07KBJFCJF/?tag=redken-21) con 30.54 de descuento por 11.6 EUR (original: 16.7 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51+unl1F6rL._SL200_.jpg)](https://www.amazon.es/dp/B07KBJFCJF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KBJFCJF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KBJFCJF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
