@@ -14,11 +14,11 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Luke Jeans  True Authentic Gcby  32W / 32L para Hombre](https://www.amazon.es/dp/B072MYXBMR/?tag=redken-21) a 42.49 EUR (original: 99.95 EUR) (57.49 %  de descuento) en el siguiente enlace!
+Está [Lee Luke Jeans  True Authentic Gcby  32W / 32L para Hombre](https://www.amazon.es/dp/B072MYXBMR/?tag=redken-21) con 57.49 de descuento por 42.49 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4174PaH3qpL._SL200_.jpg)](https://www.amazon.es/dp/B072MYXBMR/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B072MYXBMR/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072MYXBMR/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

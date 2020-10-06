@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kodak Printomatic - Cámara de impresión  al 50.01 % de descuento'
-date: 2020-10-05 21:18:15
+date: 2020-10-06 22:25:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Utm+l6aPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Utm+l6aPL._SL200_.jpg' ]
 comments: true

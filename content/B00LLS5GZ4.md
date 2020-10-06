@@ -14,11 +14,11 @@ comparePrice: 80.0 USD
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Originals womens Superstar Sneaker  White/Black/White  8.5 US](https://www.amazon.com/dp/B00LLS5GZ4/?tag=redken08-20) a 37.5 USD (original: 80.0 USD) (53.12 %  de descuento) en el siguiente enlace!
+Está [adidas Originals womens Superstar Sneaker  White/Black/White  8.5 US](https://www.amazon.com/dp/B00LLS5GZ4/?tag=redken08-20) con 53.12 de descuento por 37.5 USD (original: 80.0 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/313Jdc5K3zL._SL200_.jpg)](https://www.amazon.com/dp/B00LLS5GZ4/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00LLS5GZ4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00LLS5GZ4/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
