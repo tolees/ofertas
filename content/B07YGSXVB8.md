@@ -14,11 +14,11 @@ comparePrice: 379.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GoPro HERO8 Black - Waterproof 4K Digital Action Camera with Hypersmooth Stabilisation  Touch Screen and Voice Control - Live HD Streaming](https://www.amazon.co.uk/dp/B07YGSXVB8/?tag=redken01-21) a 279.99 GBP (original: 379.99 GBP) (26.32 %  de descuento) en el siguiente enlace!
+Está [GoPro HERO8 Black - Waterproof 4K Digital Action Camera with Hypersmooth Stabilisation  Touch Screen and Voice Control - Live HD Streaming](https://www.amazon.co.uk/dp/B07YGSXVB8/?tag=redken01-21) con 26.32 de descuento por 279.99 GBP (original: 379.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31v7w9qMxmL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07YGSXVB8/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07YGSXVB8/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07YGSXVB8/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

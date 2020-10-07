@@ -14,11 +14,11 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Paw Patrol 6053098 Super PAWs  2-in-1 Transforming Mighty Pups Jet Command Centre with Lights and Sounds  2019 ](https://www.amazon.co.uk/dp/B07P3GFGS7/?tag=redken01-21) a 29.99 GBP (original: 59.99 GBP) (50.01 %  de descuento) en el siguiente enlace!
+Está [Paw Patrol 6053098 Super PAWs  2-in-1 Transforming Mighty Pups Jet Command Centre with Lights and Sounds  2019 ](https://www.amazon.co.uk/dp/B07P3GFGS7/?tag=redken01-21) con 50.01 de descuento por 29.99 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/613Fx4UIrRL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07P3GFGS7/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07P3GFGS7/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07P3GFGS7/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
