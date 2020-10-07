@@ -14,11 +14,11 @@ comparePrice: 236.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dittzz Technic Auto Bausteine  1:10 2.4Ghz RC Auto Bauset mit Motor und Fernbedienung  1928 Teile Bausteine Kompatibel mit Lego Technic](https://www.amazon.de/dp/B085XWQVZQ/?tag=redken02-21) a 129.99 EUR (original: 236.99 EUR) (45.15 %  de descuento) en el siguiente enlace!
+Está [Dittzz Technic Auto Bausteine  1:10 2.4Ghz RC Auto Bauset mit Motor und Fernbedienung  1928 Teile Bausteine Kompatibel mit Lego Technic](https://www.amazon.de/dp/B085XWQVZQ/?tag=redken02-21) con 45.15 de descuento por 129.99 EUR (original: 236.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51UTNbel-mL._SL200_.jpg)](https://www.amazon.de/dp/B085XWQVZQ/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B085XWQVZQ/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B085XWQVZQ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

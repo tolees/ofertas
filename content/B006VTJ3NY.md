@@ -14,11 +14,11 @@ comparePrice: 13.99 GBP
 inStock: true
 ---
 
-Está [ClassicRetro Super Mario Bros Luigi Video Game Kids T-Shirt - White 6-8 Yrs](https://www.amazon.co.uk/dp/B006VTJ3NY/?tag=redken01-21) con 42.89 de descuento por 7.99 GBP (original: 13.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [ClassicRetro Super Mario Bros Luigi Video Game Kids T-Shirt - White 6-8 Yrs](https://www.amazon.co.uk/dp/B006VTJ3NY/?tag=redken01-21) a 7.99 GBP (original: 13.99 GBP) (42.89 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31P+cZMdOXL._SL200_.jpg)](https://www.amazon.co.uk/dp/B006VTJ3NY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B006VTJ3NY/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B006VTJ3NY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

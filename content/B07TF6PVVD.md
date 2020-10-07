@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iAmotus Ratón Inalámbrico  2.4GHz Wirele al 36.69 % de descuento'
-date: 2020-10-06 02:00:35
+date: 2020-10-07 06:06:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zmsh4H-pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zmsh4H-pL._SL200_.jpg' ]
 comments: true

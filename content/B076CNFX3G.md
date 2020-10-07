@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en American Tourister - Bon Air - Spinner E'
-date: 2020-10-05 11:47:25
+date: 2020-10-07 06:52:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41axQfIuBvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41axQfIuBvL._SL200_.jpg' ]
 comments: true
