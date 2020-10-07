@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.03 % en Dove Desodorante Roll On Sensitive 0 - P'
-date: 2020-10-02 18:36:52
+date: 2020-10-07 08:09:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41o1Dc0ThSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41o1Dc0ThSL._SL200_.jpg' ]
 comments: true

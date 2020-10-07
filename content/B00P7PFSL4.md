@@ -14,11 +14,11 @@ comparePrice: 7.93 GBP
 inStock: true
 ---
 
-Está [Dove Intensive Repair Shampoo hair therapy for damaged hair  3-pack  3 x 250 ml ](https://www.amazon.co.uk/dp/B00P7PFSL4/?tag=redken01-21) con 48.93 de descuento por 4.05 GBP (original: 7.93 GBP) en el siguiente enlace!
+Ahora mismo tienes [Dove Intensive Repair Shampoo hair therapy for damaged hair  3-pack  3 x 250 ml ](https://www.amazon.co.uk/dp/B00P7PFSL4/?tag=redken01-21) a 4.05 GBP (original: 7.93 GBP) (48.93 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31rGC+Nz4JL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00P7PFSL4/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00P7PFSL4/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00P7PFSL4/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

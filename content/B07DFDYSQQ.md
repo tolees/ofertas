@@ -14,11 +14,11 @@ comparePrice: 9.35 GBP
 inStock: true
 ---
 
-Está [Funko 33094 POP Vinyl: Movies: Little Shop: Dentist  Multi  Standard](https://www.amazon.co.uk/dp/B07DFDYSQQ/?tag=redken01-21) con 40.00 de descuento por 5.61 GBP (original: 9.35 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 33094 POP Vinyl: Movies: Little Shop: Dentist  Multi  Standard](https://www.amazon.co.uk/dp/B07DFDYSQQ/?tag=redken01-21) a 5.61 GBP (original: 9.35 GBP) (40.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41uWtbWDAUL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFDYSQQ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DFDYSQQ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DFDYSQQ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

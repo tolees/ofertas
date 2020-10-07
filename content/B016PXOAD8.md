@@ -14,11 +14,11 @@ comparePrice: 11.88 EUR
 inStock: true
 ---
 
-Está [Lego 90032 Minitaschenlampe Star Wars  R2-D2  7 6 cm](https://www.amazon.de/dp/B016PXOAD8/?tag=redken02-21) con 33.08 de descuento por 7.95 EUR (original: 11.88 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego 90032 Minitaschenlampe Star Wars  R2-D2  7 6 cm](https://www.amazon.de/dp/B016PXOAD8/?tag=redken02-21) a 7.95 EUR (original: 11.88 EUR) (33.08 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Rw8VQ1U0L._SL200_.jpg)](https://www.amazon.de/dp/B016PXOAD8/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B016PXOAD8/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B016PXOAD8/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
