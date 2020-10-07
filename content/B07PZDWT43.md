@@ -14,11 +14,11 @@ comparePrice: 9.59 GBP
 inStock: true
 ---
 
-Está [Funko 42345 POP. Vinyl: Movies: Big - Josh Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07PZDWT43/?tag=redken01-21) con 37.23 de descuento por 6.02 GBP (original: 9.59 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 42345 POP. Vinyl: Movies: Big - Josh Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07PZDWT43/?tag=redken01-21) a 6.02 GBP (original: 9.59 GBP) (37.23 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4146NQCAmyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PZDWT43/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PZDWT43/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07PZDWT43/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

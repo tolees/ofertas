@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Men Expert - Vitalift Gel  al 51.00 % de descuento'
-date: 2020-10-06 12:13:16
+date: 2020-10-07 12:35:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GR+qSHwVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GR+qSHwVL._SL200_.jpg' ]
 comments: true

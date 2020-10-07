@@ -14,11 +14,11 @@ comparePrice: 167.33 EUR
 inStock: true
 ---
 
-Está [Makita FS4200 atornillador  500 W  120 V   L X A X  mm](https://www.amazon.es/dp/B002VPEEJ0/?tag=redken-21) con 25.09 de descuento por 125.35 EUR (original: 167.33 EUR) en el siguiente enlace!
+Ahora mismo tienes [Makita FS4200 atornillador  500 W  120 V   L X A X  mm](https://www.amazon.es/dp/B002VPEEJ0/?tag=redken-21) a 125.35 EUR (original: 167.33 EUR) (25.09 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41YNZg6EfBL._SL200_.jpg)](https://www.amazon.es/dp/B002VPEEJ0/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B002VPEEJ0/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B002VPEEJ0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

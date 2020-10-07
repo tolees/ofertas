@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.79 % en Theo Klein 8574 Banco de trabajo de 77 p'
-date: 2020-09-30 16:32:47
+date: 2020-10-07 12:05:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/511cxJquESL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511cxJquESL._SL200_.jpg' ]
 comments: true

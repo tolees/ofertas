@@ -14,11 +14,11 @@ comparePrice: 4.49 GBP
 inStock: true
 ---
 
-Está [Rimmel London Brow This Way Gel With Argan Oil  Dark Brown  5 ml](https://www.amazon.co.uk/dp/B01MSUHXD5/?tag=redken01-21) con 44.32 de descuento por 2.5 GBP (original: 4.49 GBP) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Brow This Way Gel With Argan Oil  Dark Brown  5 ml](https://www.amazon.co.uk/dp/B01MSUHXD5/?tag=redken01-21) a 2.5 GBP (original: 4.49 GBP) (44.32 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41yOAejpd3L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01MSUHXD5/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01MSUHXD5/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01MSUHXD5/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

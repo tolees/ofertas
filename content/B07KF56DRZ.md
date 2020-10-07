@@ -14,11 +14,11 @@ comparePrice: 71.28 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s 511 Slim Fit Vaqueros  Durian Od Subtle 3720  32W / 32L para Hombre](https://www.amazon.es/dp/B07KF56DRZ/?tag=redken-21) a 49.5 EUR (original: 71.28 EUR) (30.56 %  de descuento) en el siguiente enlace!
+Está [Levi s 511 Slim Fit Vaqueros  Durian Od Subtle 3720  32W / 32L para Hombre](https://www.amazon.es/dp/B07KF56DRZ/?tag=redken-21) con 30.56 de descuento por 49.5 EUR (original: 71.28 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/318eBwb4HFL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KF56DRZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KF56DRZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KF56DRZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 19.99 USD
 inStock: true
 ---
 
-Está [LEGO THE LEGO MOVIE 2 Battle Ready Batman and MetalBeard 70836 Building Kit  Superhero and Pirate Mech Toy  168 Pieces ](https://www.amazon.com/dp/B07GX7BXNP/?tag=redken08-20) con 32.02 de descuento por 13.59 USD (original: 19.99 USD) en el siguiente enlace!
+Ahora mismo tienes [LEGO THE LEGO MOVIE 2 Battle Ready Batman and MetalBeard 70836 Building Kit  Superhero and Pirate Mech Toy  168 Pieces ](https://www.amazon.com/dp/B07GX7BXNP/?tag=redken08-20) a 13.59 USD (original: 19.99 USD) (32.02 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/513wFue-I-L._SL200_.jpg)](https://www.amazon.com/dp/B07GX7BXNP/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07GX7BXNP/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07GX7BXNP/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

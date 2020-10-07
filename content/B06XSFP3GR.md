@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moulinex HF404113 Robot de Cocina multif al 65.81 % de descuento'
-date: 2020-10-06 12:15:57
+date: 2020-10-07 12:37:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C2yyNGrnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C2yyNGrnL._SL200_.jpg' ]
 comments: true
