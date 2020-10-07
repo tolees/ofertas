@@ -14,11 +14,11 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Austin Jeans  Negro  Moto Black HL   30W / 30L para Hombre](https://www.amazon.es/dp/B07MGXCNQ3/?tag=redken-21) a 56.05 EUR (original: 99.95 EUR) (43.92 %  de descuento) en el siguiente enlace!
+Está [Lee Austin Jeans  Negro  Moto Black HL   30W / 30L para Hombre](https://www.amazon.es/dp/B07MGXCNQ3/?tag=redken-21) con 43.92 de descuento por 56.05 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/318tqXSP5FL._SL200_.jpg)](https://www.amazon.es/dp/B07MGXCNQ3/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07MGXCNQ3/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MGXCNQ3/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
