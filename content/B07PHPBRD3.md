@@ -14,11 +14,11 @@ comparePrice: 20.14 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Herbalgem - 22450010 - Balsamo consuelda Bio - 100 ml](https://www.amazon.es/dp/B07PHPBRD3/?tag=redken-21) a 9.81 EUR (original: 20.14 EUR) (51.29 %  de descuento) en el siguiente enlace!
+Está [Herbalgem - 22450010 - Balsamo consuelda Bio - 100 ml](https://www.amazon.es/dp/B07PHPBRD3/?tag=redken-21) con 51.29 de descuento por 9.81 EUR (original: 20.14 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31bQaU07jUL._SL500_._SL200_.jpg)](https://www.amazon.es/dp/B07PHPBRD3/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07PHPBRD3/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PHPBRD3/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cheez-It Baked Snack Cheese Crackers  Va al 27.89 % de descuento'
-date: 2020-10-06 17:29:32
+date: 2020-10-07 17:46:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iosKfiebL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iosKfiebL._SL200_.jpg' ]
 comments: true
