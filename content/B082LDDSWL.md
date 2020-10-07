@@ -14,11 +14,11 @@ comparePrice: 250.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [The Dining Out Gift Card - Delivered via Email](https://www.amazon.co.uk/dp/B082LDDSWL/?tag=redken01-21) a 100.0 GBP (original: 250.0 GBP) (60.00 %  de descuento) en el siguiente enlace!
+Está [The Dining Out Gift Card - Delivered via Email](https://www.amazon.co.uk/dp/B082LDDSWL/?tag=redken01-21) con 60.00 de descuento por 100.0 GBP (original: 250.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41T0nS5IY4L._SL200_.jpg)](https://www.amazon.co.uk/dp/B082LDDSWL/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B082LDDSWL/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B082LDDSWL/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

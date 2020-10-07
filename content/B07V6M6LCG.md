@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Kaporal - T-Shirt à Manches Courtes  col'
-date: 2020-10-03 15:15:42
+date: 2020-10-07 05:38:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DNq-+qq-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DNq-+qq-L._SL200_.jpg' ]
 comments: true

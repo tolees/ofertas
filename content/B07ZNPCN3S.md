@@ -14,11 +14,11 @@ comparePrice: 95.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars TM Betrayal at Cloud City Compatible with LEGO 75222 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B07ZNPCN3S/?tag=redken01-21) a 65.99 GBP (original: 95.99 GBP) (31.25 %  de descuento) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Star Wars TM Betrayal at Cloud City Compatible with LEGO 75222 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B07ZNPCN3S/?tag=redken01-21) con 31.25 de descuento por 65.99 GBP (original: 95.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51MIMDUrWML._SL200_.jpg)](https://www.amazon.co.uk/dp/B07ZNPCN3S/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07ZNPCN3S/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07ZNPCN3S/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

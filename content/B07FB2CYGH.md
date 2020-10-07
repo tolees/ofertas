@@ -14,11 +14,11 @@ comparePrice: 16.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Eucerin Filtro solar corporal - 200 ml](https://www.amazon.es/dp/B07FB2CYGH/?tag=redken-21) a 6.71 EUR (original: 16.97 EUR) (60.46 %  de descuento) en el siguiente enlace!
+Está [Eucerin Filtro solar corporal - 200 ml](https://www.amazon.es/dp/B07FB2CYGH/?tag=redken-21) con 60.46 de descuento por 6.71 EUR (original: 16.97 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31GWRdjVnzL._SL200_.jpg)](https://www.amazon.es/dp/B07FB2CYGH/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FB2CYGH/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FB2CYGH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
