@@ -14,11 +14,11 @@ comparePrice: 21.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Vanish Gold Fabric Stain Remover Powder  Pink  2.4kg](https://www.amazon.co.uk/dp/B07DVXPGRC/?tag=redken01-21) a 10.67 GBP (original: 21.0 GBP) (49.19 %  de descuento) en el siguiente enlace!
+Está [Vanish Gold Fabric Stain Remover Powder  Pink  2.4kg](https://www.amazon.co.uk/dp/B07DVXPGRC/?tag=redken01-21) con 49.19 de descuento por 10.67 GBP (original: 21.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51HkAiSMFGL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DVXPGRC/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07DVXPGRC/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DVXPGRC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 71.53 % en Tickas 119plus 1.3in Relojes Inteligente'
-date: 2020-10-06 19:18:30
+date: 2020-10-07 20:15:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nRE1lwMCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nRE1lwMCL._SL200_.jpg' ]
 comments: true

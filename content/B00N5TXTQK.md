@@ -14,11 +14,11 @@ comparePrice: 83.54 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bausch & Lomb - PureVision 2 Multifocales - Lentes de Contacto Para Presbicia](https://www.amazon.es/dp/B00N5TXTQK/?tag=redken-21) a 34.99 EUR (original: 83.54 EUR) (58.12 %  de descuento) en el siguiente enlace!
+Está [Bausch & Lomb - PureVision 2 Multifocales - Lentes de Contacto Para Presbicia](https://www.amazon.es/dp/B00N5TXTQK/?tag=redken-21) con 58.12 de descuento por 34.99 EUR (original: 83.54 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41II-L0s8lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00N5TXTQK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00N5TXTQK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00N5TXTQK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

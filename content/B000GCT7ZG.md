@@ -14,11 +14,11 @@ comparePrice: 3.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Revlon ColorSilk Tinte de Cabello Permanente Tono #43 Castaño Dorado Medio](https://www.amazon.es/dp/B000GCT7ZG/?tag=redken-21) a 2.03 EUR (original: 3.49 EUR) (41.83 %  de descuento) en el siguiente enlace!
+Está [Revlon ColorSilk Tinte de Cabello Permanente Tono #43 Castaño Dorado Medio](https://www.amazon.es/dp/B000GCT7ZG/?tag=redken-21) con 41.83 de descuento por 2.03 EUR (original: 3.49 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51d-w8PJ5GL._SL200_.jpg)](https://www.amazon.es/dp/B000GCT7ZG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000GCT7ZG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000GCT7ZG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

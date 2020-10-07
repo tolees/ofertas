@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.58 % en Philips Serie 7000 BG7025/15 - Afeitador'
-date: 2020-10-06 19:38:37
+date: 2020-10-07 20:36:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JrsQsOY+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JrsQsOY+L._SL200_.jpg' ]
 comments: true

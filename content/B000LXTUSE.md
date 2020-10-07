@@ -14,11 +14,11 @@ comparePrice: 8.27 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Versele-laga NUTRIBIRD B14 PERICO 800g 22066](https://www.amazon.es/dp/B000LXTUSE/?tag=redken-21) a 4.39 EUR (original: 8.27 EUR) (46.92 %  de descuento) en el siguiente enlace!
+Está [Versele-laga NUTRIBIRD B14 PERICO 800g 22066](https://www.amazon.es/dp/B000LXTUSE/?tag=redken-21) con 46.92 de descuento por 4.39 EUR (original: 8.27 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51WeIpHJH6L._SL200_.jpg)](https://www.amazon.es/dp/B000LXTUSE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000LXTUSE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000LXTUSE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
