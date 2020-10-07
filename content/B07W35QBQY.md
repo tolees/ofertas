@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.52 % en Pepe Jeans Marke Camiseta  Azul  Old Nav'
-date: 2020-10-06 12:23:33
+date: 2020-10-07 15:03:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/411tyaf57NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411tyaf57NL._SL200_.jpg' ]
 comments: true

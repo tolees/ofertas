@@ -14,11 +14,11 @@ comparePrice: 219.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nespresso 0132193273 Lattissima Single Serve Coffee Machine  1400 W  1 Litre  Brown](https://www.amazon.co.uk/dp/B074Z3CNYX/?tag=redken01-21) a 109.87 GBP (original: 219.99 GBP) (50.06 %  de descuento) en el siguiente enlace!
+Está [Nespresso 0132193273 Lattissima Single Serve Coffee Machine  1400 W  1 Litre  Brown](https://www.amazon.co.uk/dp/B074Z3CNYX/?tag=redken01-21) con 50.06 de descuento por 109.87 GBP (original: 219.99 GBP) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.co.uk/dp/B074Z3CNYX/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B074Z3CNYX/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B074Z3CNYX/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

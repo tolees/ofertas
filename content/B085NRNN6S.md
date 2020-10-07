@@ -14,11 +14,11 @@ comparePrice: 179.98 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GODNECE Technic Off-road Car  1:8 Off-road Vehicle Model with 4 Doors Building Kits Difficult Building Blocks Technic Compatible with Lego 2668Pcs   -Static Version](https://www.amazon.co.uk/dp/B085NRNN6S/?tag=redken01-21) a 89.99 GBP (original: 179.98 GBP) (50.00 %  de descuento) en el siguiente enlace!
+Está [GODNECE Technic Off-road Car  1:8 Off-road Vehicle Model with 4 Doors Building Kits Difficult Building Blocks Technic Compatible with Lego 2668Pcs   -Static Version](https://www.amazon.co.uk/dp/B085NRNN6S/?tag=redken01-21) con 50.00 de descuento por 89.99 GBP (original: 179.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51T1S6KZl2L._SL200_.jpg)](https://www.amazon.co.uk/dp/B085NRNN6S/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B085NRNN6S/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B085NRNN6S/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

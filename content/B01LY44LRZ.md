@@ -14,11 +14,11 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Está [PLAYMOBIL Ghostbusters 9222 Slimer mit Hot Dog Stand  Ab 6 Jahren](https://www.amazon.de/dp/B01LY44LRZ/?tag=redken02-21) con 28.85 de descuento por 12.8 EUR (original: 17.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [PLAYMOBIL Ghostbusters 9222 Slimer mit Hot Dog Stand  Ab 6 Jahren](https://www.amazon.de/dp/B01LY44LRZ/?tag=redken02-21) a 12.8 EUR (original: 17.99 EUR) (28.85 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61Q1XHMB7WL._SL200_.jpg)](https://www.amazon.de/dp/B01LY44LRZ/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01LY44LRZ/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B01LY44LRZ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
