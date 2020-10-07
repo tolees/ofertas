@@ -14,11 +14,11 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [edc by Esprit 099cc1k044 Camiseta sin Mangas  Verde  Khaki Green 350   Medium para Mujer](https://www.amazon.es/dp/B07VN6GHWG/?tag=redken-21) a 6.99 EUR (original: 12.99 EUR) (46.19 %  de descuento) en el siguiente enlace!
+Está [edc by Esprit 099cc1k044 Camiseta sin Mangas  Verde  Khaki Green 350   Medium para Mujer](https://www.amazon.es/dp/B07VN6GHWG/?tag=redken-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Q6MmmGyLL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VN6GHWG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07VN6GHWG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07VN6GHWG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 9.95 GBP
 inStock: true
 ---
 
-Está [Funko 33891 POP Bobble: Star Wars: Holiday R2-D2 w/Antlers  Multi](https://www.amazon.co.uk/dp/B07DFBD9R2/?tag=redken01-21) con 33.07 de descuento por 6.66 GBP (original: 9.95 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 33891 POP Bobble: Star Wars: Holiday R2-D2 w/Antlers  Multi](https://www.amazon.co.uk/dp/B07DFBD9R2/?tag=redken01-21) a 6.66 GBP (original: 9.95 GBP) (33.07 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41CW7RZV73L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFBD9R2/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DFBD9R2/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DFBD9R2/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

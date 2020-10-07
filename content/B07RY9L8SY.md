@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.04 % en Levi s Vneck Camiseta  Blanco  White + 0'
-date: 2020-10-06 10:04:01
+date: 2020-10-07 11:02:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg' ]
 comments: true

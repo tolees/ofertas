@@ -14,11 +14,11 @@ comparePrice: 1.82 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Varta V381 Knopfzelle  45mAh  1 Stück ](https://www.amazon.de/dp/B000EGWODQ/?tag=redken02-21) a 0.61 EUR (original: 1.82 EUR) (66.48 %  de descuento) en el siguiente enlace!
+Está [Varta V381 Knopfzelle  45mAh  1 Stück ](https://www.amazon.de/dp/B000EGWODQ/?tag=redken02-21) con 66.48 de descuento por 0.61 EUR (original: 1.82 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41egpESCPtL._SL200_.jpg)](https://www.amazon.de/dp/B000EGWODQ/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B000EGWODQ/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B000EGWODQ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

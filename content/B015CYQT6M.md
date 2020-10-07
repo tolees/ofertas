@@ -14,11 +14,11 @@ comparePrice: 7.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Astor SkinMatch Concealer Corrector](https://www.amazon.es/dp/B015CYQT6M/?tag=redken-21) a 3.12 EUR (original: 7.0 EUR) (55.43 %  de descuento) en el siguiente enlace!
+Está [Astor SkinMatch Concealer Corrector](https://www.amazon.es/dp/B015CYQT6M/?tag=redken-21) con 55.43 de descuento por 3.12 EUR (original: 7.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/21a3K-ThtGL._SL200_.jpg)](https://www.amazon.es/dp/B015CYQT6M/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015CYQT6M/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B015CYQT6M/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 16.99 EUR
 inStock: true
 ---
 
-Está [Nobleza - Rascador de cartón para Gatos. Alfombrilla con Catnip.  38.2 * 24.5 * 4  cm](https://www.amazon.es/dp/B07GWH6PLX/?tag=redken-21) con 47.09 de descuento por 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nobleza - Rascador de cartón para Gatos. Alfombrilla con Catnip.  38.2 * 24.5 * 4  cm](https://www.amazon.es/dp/B07GWH6PLX/?tag=redken-21) a 8.99 EUR (original: 16.99 EUR) (47.09 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/512x6dgk0jL._SL200_.jpg)](https://www.amazon.es/dp/B07GWH6PLX/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07GWH6PLX/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07GWH6PLX/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

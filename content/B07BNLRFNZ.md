@@ -14,11 +14,11 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [KOALA Photo Paper A4 Size 50 Sheets with Premium High Glossy Advanced Resin Coated for Canon Hp Epson Inkjet Printer](https://www.amazon.co.uk/dp/B07BNLRFNZ/?tag=redken01-21) a 10.99 GBP (original: 17.99 GBP) (38.91 %  de descuento) en el siguiente enlace!
+Está [KOALA Photo Paper A4 Size 50 Sheets with Premium High Glossy Advanced Resin Coated for Canon Hp Epson Inkjet Printer](https://www.amazon.co.uk/dp/B07BNLRFNZ/?tag=redken01-21) con 38.91 de descuento por 10.99 GBP (original: 17.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51XfRGcQcvL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07BNLRFNZ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07BNLRFNZ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07BNLRFNZ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
