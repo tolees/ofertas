@@ -14,11 +14,11 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Está [LEGO Star Wars The Last Jedi 75528 Rey Toy](https://www.amazon.co.uk/dp/B06WLL3M8Z/?tag=redken01-21) con 50.03 de descuento por 9.99 GBP (original: 19.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars The Last Jedi 75528 Rey Toy](https://www.amazon.co.uk/dp/B06WLL3M8Z/?tag=redken01-21) a 9.99 GBP (original: 19.99 GBP) (50.03 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513NOnLbq4L._SL200_.jpg)](https://www.amazon.co.uk/dp/B06WLL3M8Z/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B06WLL3M8Z/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B06WLL3M8Z/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

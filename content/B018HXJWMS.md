@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AUKEY Adaptador HDMI a VGA 1080P Convert al 44.21 % de descuento'
-date: 2020-10-05 01:01:40
+date: 2020-10-07 21:55:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w7fekHotL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w7fekHotL._SL200_.jpg' ]
 comments: true
