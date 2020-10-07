@@ -14,11 +14,11 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Figura Pop Game of Thrones: GENDRY](https://www.amazon.es/dp/B07DFF22GV/?tag=redken-21) con 43.64 de descuento por 8.99 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Figura Pop Game of Thrones: GENDRY](https://www.amazon.es/dp/B07DFF22GV/?tag=redken-21) a 8.99 EUR (original: 15.95 EUR) (43.64 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41xr5a5YXSL._SL200_.jpg)](https://www.amazon.es/dp/B07DFF22GV/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DFF22GV/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DFF22GV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

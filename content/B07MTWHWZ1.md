@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G332 Auriculares Gaming con Cab al 35.51 % de descuento'
-date: 2020-10-02 10:14:57
+date: 2020-10-07 09:49:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LvTSs7kNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LvTSs7kNL._SL200_.jpg' ]
 comments: true

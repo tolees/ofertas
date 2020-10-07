@@ -14,11 +14,11 @@ comparePrice: 41.01 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Assetto Corsa - Ultimate Edition](https://www.amazon.es/dp/B079X5MYVD/?tag=redken-21) a 29.9 EUR (original: 41.01 EUR) (27.09 %  de descuento) en el siguiente enlace!
+Está [Assetto Corsa - Ultimate Edition](https://www.amazon.es/dp/B079X5MYVD/?tag=redken-21) con 27.09 de descuento por 29.9 EUR (original: 41.01 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51V-ZejH19L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079X5MYVD/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079X5MYVD/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079X5MYVD/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 10.39 GBP
 inStock: true
 ---
 
-Está [ECOS audio - En la cocina. 6/2011: Spanisch lernen Audio - In der Küche](https://www.amazon.co.uk/dp/B00TAWJJME/?tag=redken01-21) con 36.96 de descuento por 6.55 GBP (original: 10.39 GBP) en el siguiente enlace!
+Ahora mismo tienes [ECOS audio - En la cocina. 6/2011: Spanisch lernen Audio - In der Küche](https://www.amazon.co.uk/dp/B00TAWJJME/?tag=redken01-21) a 6.55 GBP (original: 10.39 GBP) (36.96 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51sguc+eWzL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00TAWJJME/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00TAWJJME/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00TAWJJME/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

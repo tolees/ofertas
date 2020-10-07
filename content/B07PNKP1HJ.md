@@ -14,11 +14,11 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L.O.L Surprise](https://www.amazon.es/dp/B07PNKP1HJ/?tag=redken-21) a 44.97 EUR (original: 69.99 EUR) (35.75 %  de descuento) en el siguiente enlace!
+Está [L.O.L Surprise](https://www.amazon.es/dp/B07PNKP1HJ/?tag=redken-21) con 35.75 de descuento por 44.97 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41H4H1AL9AL._SL200_.jpg)](https://www.amazon.es/dp/B07PNKP1HJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07PNKP1HJ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PNKP1HJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
