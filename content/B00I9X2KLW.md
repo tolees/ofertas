@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 51.46 % en Sony DSC-HX60 Fotocamera Digitale Compat'
-date: 2020-10-05 22:31:24
+title: 'Sony DSC-HX60 Fotocamera Digitale Compat al 48.78 % de descuento'
+date: 2020-10-07 04:29:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WpzG--e9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WpzG--e9L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B00I9X2KLW
 description:
-actualPrice: 199.0 EUR
+actualPrice: 210.0 EUR
 comparePrice: 410.0 EUR
 inStock: true
 ---
 
-Tienes [Sony DSC-HX60 Fotocamera Digitale Compatta Travel con Sensore CMOS Exmor R da 20.4 MP  Ottica Sony G 24-720 mm  Zoom Ottico 30x  Supporto Multi-interfaccia  Nero](https://www.amazon.it/dp/B00I9X2KLW/?tag=redken03-21) con un 51.46 % de descuento con precio de oferta de 199.0 EUR (original: 410.0 EUR) en el siguiente enlace!
+Está [Sony DSC-HX60 Fotocamera Digitale Compatta Travel con Sensore CMOS Exmor R da 20.4 MP  Ottica Sony G 24-720 mm  Zoom Ottico 30x  Supporto Multi-interfaccia  Nero](https://www.amazon.it/dp/B00I9X2KLW/?tag=redken03-21) con 48.78 de descuento por 210.0 EUR (original: 410.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WpzG--e9L._SL200_.jpg)](https://www.amazon.it/dp/B00I9X2KLW/?tag=redken03-21)
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00I9X2KLW/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00I9X2KLW/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

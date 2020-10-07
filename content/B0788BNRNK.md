@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.31 % en Tommy Hilfiger Logo Tape HD Felpa con Ca'
-date: 2020-10-06 04:26:00
+date: 2020-10-07 04:51:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mEEBqGAJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mEEBqGAJL._SL200_.jpg' ]
 comments: true

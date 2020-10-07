@@ -14,11 +14,11 @@ comparePrice: 11.04 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple iPhone 6](https://www.amazon.de/dp/B00MXR6WUA/?tag=redken02-21) a 6.21 EUR (original: 11.04 EUR) (43.75 %  de descuento) en el siguiente enlace!
+Está [Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple iPhone 6](https://www.amazon.de/dp/B00MXR6WUA/?tag=redken02-21) con 43.75 de descuento por 6.21 EUR (original: 11.04 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WSG+Zfu3L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00MXR6WUA/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B00MXR6WUA/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B00MXR6WUA/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

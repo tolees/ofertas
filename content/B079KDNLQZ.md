@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games FWW30 Acchiappa la Cacca co al 36.18 % de descuento'
-date: 2020-10-06 04:35:16
+date: 2020-10-07 04:38:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/515mg6jobUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515mg6jobUL._SL200_.jpg' ]
 comments: true
