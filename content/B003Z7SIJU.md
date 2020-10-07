@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pesadilla Antes De Navidad - Edición Col al 46.62 % de descuento'
-date: 2020-10-05 23:44:37
+date: 2020-10-07 00:30:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51U2DNS6XcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51U2DNS6XcL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack: Animales Fantásticos y dónde encon al 30.06 % de descuento'
-date: 2020-10-05 23:50:06
+date: 2020-10-07 00:29:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KZtf7dTLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KZtf7dTLL._SL200_.jpg' ]
 comments: true
