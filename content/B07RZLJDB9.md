@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.04 % en Levi s Relaxed Graphic tee Camiseta  Bla'
-date: 2020-10-06 16:24:46
+date: 2020-10-07 16:31:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+Jp-8pCSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+Jp-8pCSL._SL200_.jpg' ]
 comments: true

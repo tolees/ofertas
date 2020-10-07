@@ -14,11 +14,11 @@ comparePrice: 109.0 GBP
 inStock: true
 ---
 
-Está [Bristan J SFSNK EF C Java Single Flow Easyfit Kitchen Sink Mixer Tap with Swivel Spout  Chrome](https://www.amazon.co.uk/dp/B00PW3MD0K/?tag=redken01-21) con 32.96 de descuento por 73.07 GBP (original: 109.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Bristan J SFSNK EF C Java Single Flow Easyfit Kitchen Sink Mixer Tap with Swivel Spout  Chrome](https://www.amazon.co.uk/dp/B00PW3MD0K/?tag=redken01-21) a 73.07 GBP (original: 109.0 GBP) (32.96 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UyB1mTLeL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00PW3MD0K/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00PW3MD0K/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00PW3MD0K/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
