@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KERUN Funda para Samsung Galaxy A21S Car al 30.03 % de descuento'
-date: 2020-10-06 10:07:20
+date: 2020-10-07 10:59:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cw9Px6AzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cw9Px6AzL._SL200_.jpg' ]
 comments: true

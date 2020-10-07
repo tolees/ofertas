@@ -14,11 +14,11 @@ comparePrice: 12.49 GBP
 inStock: true
 ---
 
-Está [Philips LED B22 Frosted Light Bulbs  13 W  100 W  - Warm White  Pack of 2](https://www.amazon.co.uk/dp/B01KHILBIE/?tag=redken01-21) con 40.03 de descuento por 7.49 GBP (original: 12.49 GBP) en el siguiente enlace!
+Ahora mismo tienes [Philips LED B22 Frosted Light Bulbs  13 W  100 W  - Warm White  Pack of 2](https://www.amazon.co.uk/dp/B01KHILBIE/?tag=redken01-21) a 7.49 GBP (original: 12.49 GBP) (40.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dOO7zVAOL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01KHILBIE/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01KHILBIE/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01KHILBIE/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
