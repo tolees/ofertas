@@ -14,11 +14,11 @@ comparePrice: 11.01 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pop Marvel: Fantastic Four-Super-Skrull Collectible Toy  Multicolor  44994 ](https://www.amazon.es/dp/B07TWHH2NT/?tag=redken-21) a 8.25 EUR (original: 11.01 EUR) (25.07 %  de descuento) en el siguiente enlace!
+Está [Funko- Pop Marvel: Fantastic Four-Super-Skrull Collectible Toy  Multicolor  44994 ](https://www.amazon.es/dp/B07TWHH2NT/?tag=redken-21) con 25.07 de descuento por 8.25 EUR (original: 11.01 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41MWYelzO2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07TWHH2NT/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07TWHH2NT/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07TWHH2NT/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 11.96 EUR
 inStock: true
 ---
 
-Está [Harmony](https://www.amazon.de/dp/B07TMRSPBD/?tag=redken02-21) con 25.33 de descuento por 8.93 EUR (original: 11.96 EUR) en el siguiente enlace!
+Ahora mismo tienes [Harmony](https://www.amazon.de/dp/B07TMRSPBD/?tag=redken02-21) a 8.93 EUR (original: 11.96 EUR) (25.33 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51K5ABUuvtL._SL200_.jpg)](https://www.amazon.de/dp/B07TMRSPBD/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07TMRSPBD/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07TMRSPBD/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
