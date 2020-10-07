@@ -14,11 +14,11 @@ comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Está [LEGO 76143 Super Heroes Marvel Avengers Truck Take-down Playset with Captain America and Hawkeye Minifigures](https://www.amazon.co.uk/dp/B07WLJJX99/?tag=redken01-21) con 25.72 de descuento por 25.99 GBP (original: 34.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 76143 Super Heroes Marvel Avengers Truck Take-down Playset with Captain America and Hawkeye Minifigures](https://www.amazon.co.uk/dp/B07WLJJX99/?tag=redken01-21) a 25.99 GBP (original: 34.99 GBP) (25.72 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51eRIjJRxiL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WLJJX99/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07WLJJX99/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07WLJJX99/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

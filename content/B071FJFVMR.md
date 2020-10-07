@@ -14,11 +14,11 @@ comparePrice: 50.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sara Miller for Portmeirion Chelsea 3 Tier Cakestand-Green  Ceramic  280 x 280 x 60 cm](https://www.amazon.co.uk/dp/B071FJFVMR/?tag=redken01-21) a 30.99 GBP (original: 50.0 GBP) (38.02 %  de descuento) en el siguiente enlace!
+Está [Sara Miller for Portmeirion Chelsea 3 Tier Cakestand-Green  Ceramic  280 x 280 x 60 cm](https://www.amazon.co.uk/dp/B071FJFVMR/?tag=redken01-21) con 38.02 de descuento por 30.99 GBP (original: 50.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/511ET9KUO9L._SL200_.jpg)](https://www.amazon.co.uk/dp/B071FJFVMR/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B071FJFVMR/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B071FJFVMR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

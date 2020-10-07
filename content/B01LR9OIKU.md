@@ -14,11 +14,11 @@ comparePrice: 79.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Garmin vívofit jr  Kids Fitness/Activity Tracker  1year Battery Life  Green  Digi Camo](https://www.amazon.com/dp/B01LR9OIKU/?tag=redken08-20) a 39.0 USD (original: 79.99 USD) (51.24 %  de descuento) en el siguiente enlace!
+Está [Garmin vívofit jr  Kids Fitness/Activity Tracker  1year Battery Life  Green  Digi Camo](https://www.amazon.com/dp/B01LR9OIKU/?tag=redken08-20) con 51.24 de descuento por 39.0 USD (original: 79.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/316DYCbu66L._SL200_.jpg)](https://www.amazon.com/dp/B01LR9OIKU/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01LR9OIKU/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01LR9OIKU/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

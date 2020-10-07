@@ -14,11 +14,11 @@ comparePrice: 15.87 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kodak Portra 800 135-36 Farbfilm](https://www.amazon.de/dp/B0008JHGAA/?tag=redken02-21) a 10.73 EUR (original: 15.87 EUR) (32.39 %  de descuento) en el siguiente enlace!
+Está [Kodak Portra 800 135-36 Farbfilm](https://www.amazon.de/dp/B0008JHGAA/?tag=redken02-21) con 32.39 de descuento por 10.73 EUR (original: 15.87 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qmvmviJJL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0008JHGAA/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B0008JHGAA/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B0008JHGAA/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

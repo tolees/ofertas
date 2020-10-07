@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York - The Burgundy Bar   al 51.04 % de descuento'
-date: 2020-10-05 19:36:26
+date: 2020-10-07 13:34:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/312w1wiDRjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312w1wiDRjL._SL200_.jpg' ]
 comments: true

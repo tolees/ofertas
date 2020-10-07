@@ -14,11 +14,11 @@ comparePrice: 10.31 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [FUNKO POP! ROCKS: Def Leppard - Vivian Campbell](https://www.amazon.co.uk/dp/B07TVDNZGR/?tag=redken01-21) a 7.34 GBP (original: 10.31 GBP) (28.81 %  de descuento) en el siguiente enlace!
+Está [FUNKO POP! ROCKS: Def Leppard - Vivian Campbell](https://www.amazon.co.uk/dp/B07TVDNZGR/?tag=redken01-21) con 28.81 de descuento por 7.34 GBP (original: 10.31 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WYZnyhBJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07TVDNZGR/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07TVDNZGR/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07TVDNZGR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 60.0 GBP
 inStock: true
 ---
 
-Está [LIGHTAILING Light Set For  Ideas Friends The Television Series Central Perk  Building Blocks Model - Led Light kit Compatible With Lego 21319 NOT Included The Model ](https://www.amazon.co.uk/dp/B07Z7BHX7J/?tag=redken01-21) con 45.02 de descuento por 32.99 GBP (original: 60.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [LIGHTAILING Light Set For  Ideas Friends The Television Series Central Perk  Building Blocks Model - Led Light kit Compatible With Lego 21319 NOT Included The Model ](https://www.amazon.co.uk/dp/B07Z7BHX7J/?tag=redken01-21) a 32.99 GBP (original: 60.0 GBP) (45.02 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51yLPUqc9AL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07Z7BHX7J/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07Z7BHX7J/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07Z7BHX7J/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
