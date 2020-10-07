@@ -14,11 +14,11 @@ comparePrice: 20.86 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Derbystar Uni Spielertrikot - Camiseta de equipación  tamaño 116/128  Color Amarillo/Azul](https://www.amazon.es/dp/B007MLY7XQ/?tag=redken-21) a 9.22 EUR (original: 20.86 EUR) (55.80 %  de descuento) en el siguiente enlace!
+Está [Derbystar Uni Spielertrikot - Camiseta de equipación  tamaño 116/128  Color Amarillo/Azul](https://www.amazon.es/dp/B007MLY7XQ/?tag=redken-21) con 55.80 de descuento por 9.22 EUR (original: 20.86 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JOoSREtWL._SL200_.jpg)](https://www.amazon.es/dp/B007MLY7XQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B007MLY7XQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B007MLY7XQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

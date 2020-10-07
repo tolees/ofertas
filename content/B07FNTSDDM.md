@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [THE LEGO MOVIE 2 70829 Emmets und Lucys Flucht-Buggy!](https://www.amazon.de/dp/B07FNTSDDM/?tag=redken02-21) a 31.76 EUR (original: 49.99 EUR) (36.47 %  de descuento) en el siguiente enlace!
+Está [THE LEGO MOVIE 2 70829 Emmets und Lucys Flucht-Buggy!](https://www.amazon.de/dp/B07FNTSDDM/?tag=redken02-21) con 36.47 de descuento por 31.76 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51YYXogbMnL._SL200_.jpg)](https://www.amazon.de/dp/B07FNTSDDM/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07FNTSDDM/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07FNTSDDM/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

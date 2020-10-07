@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Ghostbusters Ecto-1 al 31.18 % de descuento'
-date: 2020-10-07 17:59:59
+date: 2020-10-07 18:00:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.75 % en Braun Silk-épil Flex 9020 - Depiladora M'
-date: 2020-10-03 10:26:49
+date: 2020-10-07 18:12:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lmPB4bzXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lmPB4bzXL._SL200_.jpg' ]
 comments: true
