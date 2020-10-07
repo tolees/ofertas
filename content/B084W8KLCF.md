@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.06 % en Viakal Detersivo Anticalcare Spray Regol'
-date: 2020-10-05 22:39:36
+date: 2020-10-06 23:03:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tZx+lpE5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tZx+lpE5L._SL200_.jpg' ]
 comments: true

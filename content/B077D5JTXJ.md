@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCSUNBOW SSD 480GB 500GB SSD 2.5 Inch SA al 27.17 % de descuento'
-date: 2020-10-05 22:49:41
+date: 2020-10-06 23:13:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qDrF4trKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qDrF4trKL._SL200_.jpg' ]
 comments: true

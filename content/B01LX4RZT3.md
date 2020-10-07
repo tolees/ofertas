@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.74 % en Playmobil 9126 Rock Climbers with Cabin'
-date: 2020-10-05 22:58:35
+date: 2020-10-06 23:28:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/61CG-fQR+-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61CG-fQR+-L._SL200_.jpg' ]
 comments: true

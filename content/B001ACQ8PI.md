@@ -14,11 +14,11 @@ comparePrice: 20.07 GBP
 inStock: true
 ---
 
-Está [Makita KP0810 Dust Bag Assembly](https://www.amazon.co.uk/dp/B001ACQ8PI/?tag=redken01-21) con 40.71 de descuento por 11.9 GBP (original: 20.07 GBP) en el siguiente enlace!
+Ahora mismo tienes [Makita KP0810 Dust Bag Assembly](https://www.amazon.co.uk/dp/B001ACQ8PI/?tag=redken01-21) a 11.9 GBP (original: 20.07 GBP) (40.71 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41D1CNGHUFL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B001ACQ8PI/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B001ACQ8PI/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B001ACQ8PI/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

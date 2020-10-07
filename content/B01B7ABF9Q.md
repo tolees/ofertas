@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.33 % en Sony BDP-S6700 Blu-ray-Player  Wireless '
-date: 2020-10-05 11:23:06
+date: 2020-10-06 23:59:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/21BkyafioZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21BkyafioZL._SL200_.jpg' ]
 comments: true

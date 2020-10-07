@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop: The Simpsons: Mr. Burns  Mul al 28.82 % de descuento'
-date: 2020-10-05 22:42:27
+date: 2020-10-06 23:05:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kbR+pySlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kbR+pySlL._SL200_.jpg' ]
 comments: true

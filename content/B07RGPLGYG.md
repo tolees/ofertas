@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.36 % en Philips 6800 series 43PUS6814/12 43" 4K '
-date: 2020-10-05 04:09:17
+date: 2020-10-06 23:07:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41llX18IL+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41llX18IL+L._SL200_.jpg' ]
 comments: true
