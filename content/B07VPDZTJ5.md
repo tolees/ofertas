@@ -14,11 +14,11 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [OBEEII Vestidos Princesa Sofia Disfraz para niñas Vestido de Fiesta Halloween Cumpleaños Cosplay Partido Prom 6-7 Años](https://www.amazon.es/dp/B07VPDZTJ5/?tag=redken-21) a 21.29 EUR (original: 39.99 EUR) (46.76 %  de descuento) en el siguiente enlace!
+Está [OBEEII Vestidos Princesa Sofia Disfraz para niñas Vestido de Fiesta Halloween Cumpleaños Cosplay Partido Prom 6-7 Años](https://www.amazon.es/dp/B07VPDZTJ5/?tag=redken-21) con 46.76 de descuento por 21.29 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31vSuV+cqfL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VPDZTJ5/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07VPDZTJ5/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07VPDZTJ5/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

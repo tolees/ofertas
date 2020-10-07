@@ -14,11 +14,11 @@ comparePrice: 7.95 EUR
 inStock: true
 ---
 
-Está [Astor Soft Sentation Color & Care Barra de Labios  color 405](https://www.amazon.es/dp/B076JKBNQN/?tag=redken-21) con 59.75 de descuento por 3.2 EUR (original: 7.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Astor Soft Sentation Color & Care Barra de Labios  color 405](https://www.amazon.es/dp/B076JKBNQN/?tag=redken-21) a 3.2 EUR (original: 7.95 EUR) (59.75 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31PoNkDm5nL._SL200_.jpg)](https://www.amazon.es/dp/B076JKBNQN/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B076JKBNQN/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B076JKBNQN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

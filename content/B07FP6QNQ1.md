@@ -14,11 +14,11 @@ comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Creator 31089 - Rennwagen oder Schnellboot](https://www.amazon.de/dp/B07FP6QNQ1/?tag=redken02-21) a 13.64 EUR (original: 19.49 EUR) (30.02 %  de descuento) en el siguiente enlace!
+Está [LEGO Creator 31089 - Rennwagen oder Schnellboot](https://www.amazon.de/dp/B07FP6QNQ1/?tag=redken02-21) con 30.02 de descuento por 13.64 EUR (original: 19.49 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51XYiyjFmeL._SL200_.jpg)](https://www.amazon.de/dp/B07FP6QNQ1/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07FP6QNQ1/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07FP6QNQ1/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
