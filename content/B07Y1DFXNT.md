@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Estación de Soldadura  HANMATEK 60W 200- al 49.01 % de descuento'
-date: 2020-10-06 09:21:58
+date: 2020-10-07 19:40:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/512MnsKk-XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512MnsKk-XL._SL200_.jpg' ]
 comments: true

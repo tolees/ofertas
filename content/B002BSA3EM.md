@@ -14,11 +14,11 @@ comparePrice: 199.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nintendo Wii Fit Plus with Balance Board](https://www.amazon.co.uk/dp/B002BSA3EM/?tag=redken01-21) a 60.0 GBP (original: 199.99 GBP) (70.00 %  de descuento) en el siguiente enlace!
+Está [Nintendo Wii Fit Plus with Balance Board](https://www.amazon.co.uk/dp/B002BSA3EM/?tag=redken01-21) con 70.00 de descuento por 60.0 GBP (original: 199.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51XY2xWAIQL._SL200_.jpg)](https://www.amazon.co.uk/dp/B002BSA3EM/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B002BSA3EM/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B002BSA3EM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

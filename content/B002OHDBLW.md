@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.78 % en De longhi - Cafetera Superautomática 15 '
-date: 2020-10-06 14:43:17
+date: 2020-10-07 19:07:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VqNbz010L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VqNbz010L._SL200_.jpg' ]
 comments: true

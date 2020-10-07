@@ -14,11 +14,11 @@ comparePrice: 2.5 GBP
 inStock: true
 ---
 
-Está [JOHNSON S Baby Lotion 500ml – Gentle and Mild for Delicate Skin and Everyday Use – 24h Moisturisation](https://www.amazon.co.uk/dp/B07PQGPFDN/?tag=redken01-21) con 33.20 de descuento por 1.67 GBP (original: 2.5 GBP) en el siguiente enlace!
+Ahora mismo tienes [JOHNSON S Baby Lotion 500ml – Gentle and Mild for Delicate Skin and Everyday Use – 24h Moisturisation](https://www.amazon.co.uk/dp/B07PQGPFDN/?tag=redken01-21) a 1.67 GBP (original: 2.5 GBP) (33.20 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31iNima-KuL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PQGPFDN/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PQGPFDN/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07PQGPFDN/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

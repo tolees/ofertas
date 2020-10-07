@@ -14,11 +14,11 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [KEYESTUDIO GPRS Shield SIM5320E 3G Module/GSM GPRS SMS Development Board with GPS Antennas and Adapter for Arduino](https://www.amazon.co.uk/dp/B07FSKBM4K/?tag=redken01-21) a 16.99 GBP (original: 59.99 GBP) (71.68 %  de descuento) en el siguiente enlace!
+Está [KEYESTUDIO GPRS Shield SIM5320E 3G Module/GSM GPRS SMS Development Board with GPS Antennas and Adapter for Arduino](https://www.amazon.co.uk/dp/B07FSKBM4K/?tag=redken01-21) con 71.68 de descuento por 16.99 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51JGteWKzLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FSKBM4K/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07FSKBM4K/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07FSKBM4K/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
