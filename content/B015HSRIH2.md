@@ -14,11 +14,11 @@ comparePrice: 129.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ESPRIT 2tone Strk Blz - Chaqueta de traje Hombre  Dark Grey  50](https://www.amazon.es/dp/B015HSRIH2/?tag=redken-21) a 34.99 EUR (original: 129.99 EUR) (73.08 %  de descuento) en el siguiente enlace!
+Está [ESPRIT 2tone Strk Blz - Chaqueta de traje Hombre  Dark Grey  50](https://www.amazon.es/dp/B015HSRIH2/?tag=redken-21) con 73.08 de descuento por 34.99 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41nzyf6ERjL._SL200_.jpg)](https://www.amazon.es/dp/B015HSRIH2/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015HSRIH2/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B015HSRIH2/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

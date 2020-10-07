@@ -14,11 +14,11 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [Nintendo Selects: Super Mario 3D World](https://www.amazon.es/dp/B01KI78SEY/?tag=redken-21) con 36.49 de descuento por 15.87 EUR (original: 24.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nintendo Selects: Super Mario 3D World](https://www.amazon.es/dp/B01KI78SEY/?tag=redken-21) a 15.87 EUR (original: 24.99 EUR) (36.49 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51hzatNbRkL._SL200_.jpg)](https://www.amazon.es/dp/B01KI78SEY/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01KI78SEY/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01KI78SEY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 3.15 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [PUNTO DE CRUZ HALLOWEEN: Patrones para bordar en punto de cruz de motivos de la festividad de Halloween  Spanish Edition ](https://www.amazon.co.uk/dp/B07WQFXJFT/?tag=redken01-21) a 1.99 GBP (original: 3.15 GBP) (36.83 %  de descuento) en el siguiente enlace!
+Está [PUNTO DE CRUZ HALLOWEEN: Patrones para bordar en punto de cruz de motivos de la festividad de Halloween  Spanish Edition ](https://www.amazon.co.uk/dp/B07WQFXJFT/?tag=redken01-21) con 36.83 de descuento por 1.99 GBP (original: 3.15 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51M2pIAeNYL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WQFXJFT/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07WQFXJFT/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07WQFXJFT/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

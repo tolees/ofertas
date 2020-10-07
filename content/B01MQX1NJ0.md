@@ -14,11 +14,11 @@ comparePrice: 9.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois Eye Primer Base de Maquielle Tono 1- 6ml](https://www.amazon.es/dp/B01MQX1NJ0/?tag=redken-21) a 5.9 EUR (original: 9.84 EUR) (40.04 %  de descuento) en el siguiente enlace!
+Está [Bourjois Eye Primer Base de Maquielle Tono 1- 6ml](https://www.amazon.es/dp/B01MQX1NJ0/?tag=redken-21) con 40.04 de descuento por 5.9 EUR (original: 9.84 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31-nDeX1C7L._SL200_.jpg)](https://www.amazon.es/dp/B01MQX1NJ0/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MQX1NJ0/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MQX1NJ0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
