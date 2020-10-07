@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krups Dolce Gusto Infinissima Cafetera d al 41.30 % de descuento'
-date: 2020-10-06 13:03:44
+date: 2020-10-07 14:16:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31QsAbkQ80L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31QsAbkQ80L._SL200_.jpg' ]
 comments: true

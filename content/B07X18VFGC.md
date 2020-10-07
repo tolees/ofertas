@@ -14,11 +14,11 @@ comparePrice: 15 GBP
 inStock: true
 ---
 
-Está [Funko Pop! Marvel: 80th Anniversary - Kraven The Hunter Bobble-Head](https://www.amazon.co.uk/dp/B07X18VFGC/?tag=redken01-21) con 33.33 de descuento por 10 GBP (original: 15 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop! Marvel: 80th Anniversary - Kraven The Hunter Bobble-Head](https://www.amazon.co.uk/dp/B07X18VFGC/?tag=redken01-21) a 10 GBP (original: 15 GBP) (33.33 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51h%2BawXS60L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07X18VFGC/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07X18VFGC/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07X18VFGC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
