@@ -14,11 +14,11 @@ comparePrice: 949.0 EUR
 inStock: true
 ---
 
-Está [Samyang F1110901101 - Objetivo fotográfico DSLR para Canon EF  Distancia Focal Fija 24mm  Apertura f/3.5-22 T/S ED AS UMC  diámetro Filtro: 82mm   Negro](https://www.amazon.es/dp/B00CRAE9MQ/?tag=redken-21) con 27.09 de descuento por 691.95 EUR (original: 949.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Samyang F1110901101 - Objetivo fotográfico DSLR para Canon EF  Distancia Focal Fija 24mm  Apertura f/3.5-22 T/S ED AS UMC  diámetro Filtro: 82mm   Negro](https://www.amazon.es/dp/B00CRAE9MQ/?tag=redken-21) a 691.95 EUR (original: 949.0 EUR) (27.09 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41oSY4SurDL._SL200_.jpg)](https://www.amazon.es/dp/B00CRAE9MQ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00CRAE9MQ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00CRAE9MQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
