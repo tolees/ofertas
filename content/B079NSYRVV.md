@@ -14,11 +14,11 @@ comparePrice: 46.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [oasser Alcoholímetro Profesional Electroquímico Respiratorio de Recargable Digital Pantalla LED Incluye Batería de Litio & 4 Boquillas Desechables FDA T3](https://www.amazon.es/dp/B079NSYRVV/?tag=redken-21) a 29.97 EUR (original: 46.99 EUR) (36.22 %  de descuento) en el siguiente enlace!
+Está [oasser Alcoholímetro Profesional Electroquímico Respiratorio de Recargable Digital Pantalla LED Incluye Batería de Litio & 4 Boquillas Desechables FDA T3](https://www.amazon.es/dp/B079NSYRVV/?tag=redken-21) con 36.22 de descuento por 29.97 EUR (original: 46.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/414W+IThxoL._SL200_.jpg)](https://www.amazon.es/dp/B079NSYRVV/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079NSYRVV/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079NSYRVV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

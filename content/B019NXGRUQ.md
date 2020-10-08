@@ -14,11 +14,11 @@ comparePrice: 5.02 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 8843 POP Vinyl  Multi-Colour  One Size](https://www.amazon.co.uk/dp/B019NXGRUQ/?tag=redken01-21) a 0.97 GBP (original: 5.02 GBP) (80.68 %  de descuento) en el siguiente enlace!
+Está [Funko 8843 POP Vinyl  Multi-Colour  One Size](https://www.amazon.co.uk/dp/B019NXGRUQ/?tag=redken01-21) con 80.68 de descuento por 0.97 GBP (original: 5.02 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31yvv+uihAL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B019NXGRUQ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B019NXGRUQ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B019NXGRUQ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

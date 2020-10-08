@@ -14,11 +14,11 @@ comparePrice: 16.66 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lenor UNstoppables Fresh Perlas de Perfume para la ropa  1 unidad x 510 g](https://www.amazon.es/dp/B082VPMS1P/?tag=redken-21) a 9.99 EUR (original: 16.66 EUR) (40.04 %  de descuento) en el siguiente enlace!
+Está [Lenor UNstoppables Fresh Perlas de Perfume para la ropa  1 unidad x 510 g](https://www.amazon.es/dp/B082VPMS1P/?tag=redken-21) con 40.04 de descuento por 9.99 EUR (original: 16.66 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UNWnFW2yL._SL200_.jpg)](https://www.amazon.es/dp/B082VPMS1P/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B082VPMS1P/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B082VPMS1P/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

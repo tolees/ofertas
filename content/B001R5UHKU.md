@@ -14,11 +14,11 @@ comparePrice: 130.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Merrell Sprint Blast  Zapatillas para Hombre  Gris  Gunsmoke/White   43.5 EU](https://www.amazon.es/dp/B001R5UHKU/?tag=redken-21) a 53.35 EUR (original: 130.0 EUR) (58.96 %  de descuento) en el siguiente enlace!
+Está [Merrell Sprint Blast  Zapatillas para Hombre  Gris  Gunsmoke/White   43.5 EU](https://www.amazon.es/dp/B001R5UHKU/?tag=redken-21) con 58.96 de descuento por 53.35 EUR (original: 130.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/416mjvdIuUL._SL200_.jpg)](https://www.amazon.es/dp/B001R5UHKU/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B001R5UHKU/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001R5UHKU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

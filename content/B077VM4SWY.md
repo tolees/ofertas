@@ -14,11 +14,11 @@ comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kit de LED Iluminación Yeeteem 160 Regulable Ultra High Power Panel Cámara Digital / Videocámara Video Light con Soporte de Luz de Estudio de 79 "Alto y 3200/ 5500K Kit de Luces Video](https://www.amazon.es/dp/B077VM4SWY/?tag=redken-21) a 79.99 EUR (original: 119.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
+Está [Kit de LED Iluminación Yeeteem 160 Regulable Ultra High Power Panel Cámara Digital / Videocámara Video Light con Soporte de Luz de Estudio de 79 "Alto y 3200/ 5500K Kit de Luces Video](https://www.amazon.es/dp/B077VM4SWY/?tag=redken-21) con 33.34 de descuento por 79.99 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51U+gpUdYzL._SL200_.jpg)](https://www.amazon.es/dp/B077VM4SWY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077VM4SWY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077VM4SWY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
