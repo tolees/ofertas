@@ -14,11 +14,11 @@ comparePrice: 4.95 GBP
 inStock: true
 ---
 
-Está [LEGO Animal Minifigure Husky Arctic Sled Dog with Bone  Aprox. 1" inch Size ](https://www.amazon.co.uk/dp/B00NKOW7EK/?tag=redken01-21) con 88.08 de descuento por 0.59 GBP (original: 4.95 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO Animal Minifigure Husky Arctic Sled Dog with Bone  Aprox. 1" inch Size ](https://www.amazon.co.uk/dp/B00NKOW7EK/?tag=redken01-21) a 0.59 GBP (original: 4.95 GBP) (88.08 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/316LouJRBOL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00NKOW7EK/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00NKOW7EK/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00NKOW7EK/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

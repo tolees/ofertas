@@ -14,11 +14,11 @@ comparePrice: 6.79 GBP
 inStock: true
 ---
 
-Está [Nokia Original Battery BL-4CT for Nokia 7230-860 mAh Li-ion  3.7V](https://www.amazon.co.uk/dp/B0071CXFSY/?tag=redken01-21) con 58.76 de descuento por 2.8 GBP (original: 6.79 GBP) en el siguiente enlace!
+Ahora mismo tienes [Nokia Original Battery BL-4CT for Nokia 7230-860 mAh Li-ion  3.7V](https://www.amazon.co.uk/dp/B0071CXFSY/?tag=redken01-21) a 2.8 GBP (original: 6.79 GBP) (58.76 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Folb8UirL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0071CXFSY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B0071CXFSY/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B0071CXFSY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

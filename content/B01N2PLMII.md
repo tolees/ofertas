@@ -14,11 +14,11 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas 6P Cotton Gorra de Tenis  Hombre  Blanco  Blanco/Blanco/Negro   L](https://www.amazon.es/dp/B01N2PLMII/?tag=redken-21) a 10.77 EUR (original: 17.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Está [adidas 6P Cotton Gorra de Tenis  Hombre  Blanco  Blanco/Blanco/Negro   L](https://www.amazon.es/dp/B01N2PLMII/?tag=redken-21) con 40.00 de descuento por 10.77 EUR (original: 17.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zHJAa%2BfsL._SL200_.jpg)](https://www.amazon.es/dp/B01N2PLMII/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01N2PLMII/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N2PLMII/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

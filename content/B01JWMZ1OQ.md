@@ -14,11 +14,11 @@ comparePrice: 94.71 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Prada L Homme Agua de Tocador - 50 ml](https://www.amazon.es/dp/B01JWMZ1OQ/?tag=redken-21) a 51.19 EUR (original: 94.71 EUR) (45.95 %  de descuento) en el siguiente enlace!
+Está [Prada L Homme Agua de Tocador - 50 ml](https://www.amazon.es/dp/B01JWMZ1OQ/?tag=redken-21) con 45.95 de descuento por 51.19 EUR (original: 94.71 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UMAg7BJ2L._SL200_.jpg)](https://www.amazon.es/dp/B01JWMZ1OQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01JWMZ1OQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01JWMZ1OQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

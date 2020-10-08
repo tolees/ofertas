@@ -14,11 +14,11 @@ comparePrice: 274.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Philips Hue Lily White and Colour Ambiance Led 3X Spotlight Base Unit: Smart Outdoor Lighting for Garden  Works with Alexa  Google Assistant and Apple Homekit](https://www.amazon.co.uk/dp/B07CHLGM6C/?tag=redken01-21) a 160.26 GBP (original: 274.99 GBP) (41.72 %  de descuento) en el siguiente enlace!
+Está [Philips Hue Lily White and Colour Ambiance Led 3X Spotlight Base Unit: Smart Outdoor Lighting for Garden  Works with Alexa  Google Assistant and Apple Homekit](https://www.amazon.co.uk/dp/B07CHLGM6C/?tag=redken01-21) con 41.72 de descuento por 160.26 GBP (original: 274.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41S+3C1RK4L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07CHLGM6C/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07CHLGM6C/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07CHLGM6C/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

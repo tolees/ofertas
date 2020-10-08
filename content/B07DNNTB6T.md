@@ -14,11 +14,11 @@ comparePrice: 399.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Panasonic DMC-FT7EB-A Tough compact Camera  31m waterproof  with EVF  20 MP high sensitivity MOS sensor and 4K Video/4K Photo/Post Focus - Blue](https://www.amazon.co.uk/dp/B07DNNTB6T/?tag=redken01-21) a 199.0 GBP (original: 399.99 GBP) (50.25 %  de descuento) en el siguiente enlace!
+Está [Panasonic DMC-FT7EB-A Tough compact Camera  31m waterproof  with EVF  20 MP high sensitivity MOS sensor and 4K Video/4K Photo/Post Focus - Blue](https://www.amazon.co.uk/dp/B07DNNTB6T/?tag=redken01-21) con 50.25 de descuento por 199.0 GBP (original: 399.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41VKB9W9gcL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DNNTB6T/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07DNNTB6T/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DNNTB6T/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

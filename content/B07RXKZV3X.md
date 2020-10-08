@@ -14,11 +14,11 @@ comparePrice: 25.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Men s Housemark Graphic Tee T-Shirt  Black  Ssnl Hm Forge Iron 0248   Large](https://www.amazon.co.uk/dp/B07RXKZV3X/?tag=redken01-21) a 10.0 GBP (original: 25.0 GBP) (60.00 %  de descuento) en el siguiente enlace!
+Está [Levi s Men s Housemark Graphic Tee T-Shirt  Black  Ssnl Hm Forge Iron 0248   Large](https://www.amazon.co.uk/dp/B07RXKZV3X/?tag=redken01-21) con 60.00 de descuento por 10.0 GBP (original: 25.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41jpBteEkBL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07RXKZV3X/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07RXKZV3X/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07RXKZV3X/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

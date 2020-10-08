@@ -14,11 +14,11 @@ comparePrice: 30.99 GBP
 inStock: true
 ---
 
-Está [Sherlock Holmes: The Complete Collection [DVD]](https://www.amazon.co.uk/dp/B00GUFCPLG/?tag=redken01-21) con 25.40 de descuento por 23.12 GBP (original: 30.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Sherlock Holmes: The Complete Collection [DVD]](https://www.amazon.co.uk/dp/B00GUFCPLG/?tag=redken01-21) a 23.12 GBP (original: 30.99 GBP) (25.40 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516Orr8kOqL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00GUFCPLG/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00GUFCPLG/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00GUFCPLG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

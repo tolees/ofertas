@@ -14,11 +14,11 @@ comparePrice: 85.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Dittzz Acrylic Display Box  Dustproof Display Case ShowCase for LEGO 42096 Technic Porsche 911 RSR Race Car NOT Included The Model ](https://www.amazon.co.uk/dp/B085HJVNLJ/?tag=redken01-21) a 59.99 GBP (original: 85.99 GBP) (30.24 %  de descuento) en el siguiente enlace!
+Está [Dittzz Acrylic Display Box  Dustproof Display Case ShowCase for LEGO 42096 Technic Porsche 911 RSR Race Car NOT Included The Model ](https://www.amazon.co.uk/dp/B085HJVNLJ/?tag=redken01-21) con 30.24 de descuento por 59.99 GBP (original: 85.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41fWRPC0gZL._SL200_.jpg)](https://www.amazon.co.uk/dp/B085HJVNLJ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B085HJVNLJ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B085HJVNLJ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
