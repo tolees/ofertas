@@ -14,11 +14,11 @@ comparePrice: 14.82 GBP
 inStock: true
 ---
 
-Está [Peychauds Aromatic Bitter  14.8 cl  pack of 4 ](https://www.amazon.co.uk/dp/B005HSSA3O/?tag=redken01-21) con 53.04 de descuento por 6.96 GBP (original: 14.82 GBP) en el siguiente enlace!
+Ahora mismo tienes [Peychauds Aromatic Bitter  14.8 cl  pack of 4 ](https://www.amazon.co.uk/dp/B005HSSA3O/?tag=redken01-21) a 6.96 GBP (original: 14.82 GBP) (53.04 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41GlgwVSSSL._SL200_.jpg)](https://www.amazon.co.uk/dp/B005HSSA3O/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B005HSSA3O/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B005HSSA3O/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

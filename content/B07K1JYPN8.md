@@ -14,11 +14,11 @@ comparePrice: 60.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LIGHTAILING Light Set For   Expert Detective s Office  Building Blocks Model - Led Light kit Compatible With Lego 10246 NOT Included The Model ](https://www.amazon.co.uk/dp/B07K1JYPN8/?tag=redken01-21) a 34.99 GBP (original: 60.0 GBP) (41.68 %  de descuento) en el siguiente enlace!
+Está [LIGHTAILING Light Set For   Expert Detective s Office  Building Blocks Model - Led Light kit Compatible With Lego 10246 NOT Included The Model ](https://www.amazon.co.uk/dp/B07K1JYPN8/?tag=redken01-21) con 41.68 de descuento por 34.99 GBP (original: 60.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ehCkaegaL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07K1JYPN8/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07K1JYPN8/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07K1JYPN8/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
