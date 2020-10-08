@@ -14,11 +14,11 @@ comparePrice: 35.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Crafts For Kids Ages 4-8，DIY Make Your Own Fairy Lights Jar - Craft Project for Kids - Great Gift Fairy Lantern 2 Pack  Colorful + White Light ](https://www.amazon.co.uk/dp/B07WLZ4FTM/?tag=redken01-21) a 26.99 GBP (original: 35.99 GBP) (25.01 %  de descuento) en el siguiente enlace!
+Está [Crafts For Kids Ages 4-8，DIY Make Your Own Fairy Lights Jar - Craft Project for Kids - Great Gift Fairy Lantern 2 Pack  Colorful + White Light ](https://www.amazon.co.uk/dp/B07WLZ4FTM/?tag=redken01-21) con 25.01 de descuento por 26.99 GBP (original: 35.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51c+C2Eyy7L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WLZ4FTM/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07WLZ4FTM/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07WLZ4FTM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

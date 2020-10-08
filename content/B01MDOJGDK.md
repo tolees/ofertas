@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Hydro Boost Limpiador Gel de  al 48.06 % de descuento'
-date: 2020-10-07 17:02:20
+date: 2020-10-08 22:23:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/318QCe2yA0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318QCe2yA0L._SL200_.jpg' ]
 comments: true

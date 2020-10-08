@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 32.83 % en PUMA Smash V2 L  Zapatillas Unisex Adult'
-date: 2020-10-07 10:54:50
-thumbnailImage: 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg' ]
+title: 'Descuento del 26.95 % en PUMA Smash V2 L  Zapatillas Unisex Adult'
+date: 2020-10-08 22:21:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/31dxkxNKIPL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31dxkxNKIPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B077MG6DDP
 description:
-actualPrice: 33.55 EUR
+actualPrice: 36.49 EUR
 comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Tienes [PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Black  44 EU](https://www.amazon.es/dp/B077MG6DDP/?tag=redken-21) con un 32.83 % de descuento con precio de oferta de 33.55 EUR (original: 49.95 EUR) en el siguiente enlace!
+Tienes [PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Black  44 EU](https://www.amazon.es/dp/B077MG6DDP/?tag=redken-21) con un 26.95 % de descuento con precio de oferta de 36.49 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg)](https://www.amazon.es/dp/B077MG6DDP/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/31dxkxNKIPL._SL200_.jpg)](https://www.amazon.es/dp/B077MG6DDP/?tag=redken-21)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077MG6DDP/?tag=redken-21)
 

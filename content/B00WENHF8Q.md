@@ -14,11 +14,11 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Case Logic HDC11K - Funda rígida para disco duro de 2.5"  color negro](https://www.amazon.es/dp/B00WENHF8Q/?tag=redken-21) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
+Está [Case Logic HDC11K - Funda rígida para disco duro de 2.5"  color negro](https://www.amazon.es/dp/B00WENHF8Q/?tag=redken-21) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Y6NDZ0YxL._SL200_.jpg)](https://www.amazon.es/dp/B00WENHF8Q/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00WENHF8Q/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00WENHF8Q/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
