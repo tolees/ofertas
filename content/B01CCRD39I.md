@@ -14,11 +14,11 @@ comparePrice: 13.9 EUR
 inStock: true
 ---
 
-Está [TABAIBA Aloe Vera Gel  Gel con Aloe Vera  150 ml](https://www.amazon.es/dp/B01CCRD39I/?tag=redken-21) con 50.00 de descuento por 6.95 EUR (original: 13.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [TABAIBA Aloe Vera Gel  Gel con Aloe Vera  150 ml](https://www.amazon.es/dp/B01CCRD39I/?tag=redken-21) a 6.95 EUR (original: 13.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/319wzy1LzhL._SL200_.jpg)](https://www.amazon.es/dp/B01CCRD39I/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01CCRD39I/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01CCRD39I/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 9.77 USD
 inStock: true
 ---
 
-Está [Te Regalo Lo Que Se Te Antoje [Your Heart s Desire]](https://www.amazon.com/dp/B000JVT1MI/?tag=redken08-20) con 38.69 de descuento por 5.99 USD (original: 9.77 USD) en el siguiente enlace!
+Ahora mismo tienes [Te Regalo Lo Que Se Te Antoje [Your Heart s Desire]](https://www.amazon.com/dp/B000JVT1MI/?tag=redken08-20) a 5.99 USD (original: 9.77 USD) (38.69 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ruSgufmtL._SL200_.jpg)](https://www.amazon.com/dp/B000JVT1MI/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B000JVT1MI/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B000JVT1MI/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
