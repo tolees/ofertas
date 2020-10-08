@@ -14,11 +14,11 @@ comparePrice: 40.0 EUR
 inStock: true
 ---
 
-Está [Under Armour HG Armour 2.0 3/4 Legging Leggings  Hombre  Gris  Carbon Heather/Black 090   L](https://www.amazon.es/dp/B01FFNBC9Y/?tag=redken-21) con 40.02 de descuento por 23.99 EUR (original: 40.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour HG Armour 2.0 3/4 Legging Leggings  Hombre  Gris  Carbon Heather/Black 090   L](https://www.amazon.es/dp/B01FFNBC9Y/?tag=redken-21) a 23.99 EUR (original: 40.0 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/417GI7rfo9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01FFNBC9Y/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01FFNBC9Y/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01FFNBC9Y/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.39 % en Sylvanian Families - 4018 - Igel: Famili'
-date: 2020-10-07 11:44:17
+date: 2020-10-08 17:29:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hV1RCWT6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hV1RCWT6L._SL200_.jpg' ]
 comments: true

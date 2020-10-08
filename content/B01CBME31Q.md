@@ -14,11 +14,11 @@ comparePrice: 9.23 GBP
 inStock: true
 ---
 
-Está [DC Comics 8404 Funko Pop Movies: Suicide Squad Action Figure  Rick Flag](https://www.amazon.co.uk/dp/B01CBME31Q/?tag=redken01-21) con 25.57 de descuento por 6.87 GBP (original: 9.23 GBP) en el siguiente enlace!
+Ahora mismo tienes [DC Comics 8404 Funko Pop Movies: Suicide Squad Action Figure  Rick Flag](https://www.amazon.co.uk/dp/B01CBME31Q/?tag=redken01-21) a 6.87 GBP (original: 9.23 GBP) (25.57 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51rWZhrWgsL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01CBME31Q/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01CBME31Q/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01CBME31Q/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Está [Adidas RUNFALCON K  Zapatillas Deportivas Unisex niño  Negro  Core Black/Core Black/Core Black   37 1/3 EU](https://www.amazon.es/dp/B07K2KJD9T/?tag=redken-21) con 31.19 de descuento por 27.49 EUR (original: 39.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Adidas RUNFALCON K  Zapatillas Deportivas Unisex niño  Negro  Core Black/Core Black/Core Black   37 1/3 EU](https://www.amazon.es/dp/B07K2KJD9T/?tag=redken-21) a 27.49 EUR (original: 39.95 EUR) (31.19 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/314uUoqqFyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07K2KJD9T/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07K2KJD9T/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07K2KJD9T/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 67.21 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEDMO tira led 12v 600leds 3000K blanco cálido SMD2835 5M tiras led IP65 impermeable led strip 15LM/LED cinta led ancho 8mm](https://www.amazon.es/dp/B07F9YZQGV/?tag=redken-21) a 12.99 EUR (original: 67.21 EUR) (80.67 %  de descuento) en el siguiente enlace!
+Está [LEDMO tira led 12v 600leds 3000K blanco cálido SMD2835 5M tiras led IP65 impermeable led strip 15LM/LED cinta led ancho 8mm](https://www.amazon.es/dp/B07F9YZQGV/?tag=redken-21) con 80.67 de descuento por 12.99 EUR (original: 67.21 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51VH+CB5KnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07F9YZQGV/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07F9YZQGV/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07F9YZQGV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

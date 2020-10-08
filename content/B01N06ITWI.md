@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.25 % en ENMITY: An enthralling Scottish murder m'
+title: 'ENMITY: An enthralling Scottish murder m al 50.25 % de descuento'
 date: 2020-04-16 16:13:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WT6xdyTKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WT6xdyTKL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 1.99 GBP
 inStock: true
 ---
 
-Tienes [ENMITY: An enthralling Scottish murder mystery  Detective Inspector Munro murder mysteries Book 3 ](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21) con un 50.25 % de descuento con precio de oferta de 0.99 GBP (original: 1.99 GBP) en el siguiente enlace!
+Está [ENMITY: An enthralling Scottish murder mystery  Detective Inspector Munro murder mysteries Book 3 ](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21) con 50.25 de descuento por 0.99 GBP (original: 1.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51WT6xdyTKL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01N06ITWI/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

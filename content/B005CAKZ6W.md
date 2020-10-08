@@ -14,11 +14,11 @@ comparePrice: 6.1 GBP
 inStock: true
 ---
 
-Está [Pentel XBL77/2-A EnerGel Xm Retractable Gel Pen - Black  Pack of 2 ](https://www.amazon.co.uk/dp/B005CAKZ6W/?tag=redken01-21) con 32.79 de descuento por 4.1 GBP (original: 6.1 GBP) en el siguiente enlace!
+Ahora mismo tienes [Pentel XBL77/2-A EnerGel Xm Retractable Gel Pen - Black  Pack of 2 ](https://www.amazon.co.uk/dp/B005CAKZ6W/?tag=redken01-21) a 4.1 GBP (original: 6.1 GBP) (32.79 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41EAo+T-EAL._SL200_.jpg)](https://www.amazon.co.uk/dp/B005CAKZ6W/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B005CAKZ6W/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B005CAKZ6W/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

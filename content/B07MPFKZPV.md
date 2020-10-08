@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Montre Intelligente Femme Hommes Moniteu'
-date: 2020-10-07 12:09:21
+date: 2020-10-08 17:58:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xz4tgHquL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xz4tgHquL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 9.59 GBP
 inStock: true
 ---
 
-Está [Funko 42606 POP Vinyl: Movies: A League of Their Own-Dottie Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07PY97TLH/?tag=redken01-21) con 68.51 de descuento por 3.02 GBP (original: 9.59 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 42606 POP Vinyl: Movies: A League of Their Own-Dottie Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07PY97TLH/?tag=redken01-21) a 3.02 GBP (original: 9.59 GBP) (68.51 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31gzTgaoZJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PY97TLH/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PY97TLH/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07PY97TLH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
