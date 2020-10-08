@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AOC U2879VF - Monitor de 28" 4K UHD  384 al 33.33 % de descuento'
-date: 2020-10-06 15:34:33
+date: 2020-10-08 08:53:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41I42GXfUjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41I42GXfUjL._SL200_.jpg' ]
 comments: true

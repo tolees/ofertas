@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.50 % en Philips Hue Lily White and Colour Ambian'
+title: 'Philips Hue Lily White and Colour Ambian al 37.50 % de descuento'
 date: 2020-02-14 09:00:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31qN03+HXsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31qN03+HXsL._AC_._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 399.98 GBP
 inStock: true
 ---
 
-Tienes [Philips Hue Lily White and Colour Ambiance LED 4x Spotlight [Base Unit + Extension] + Outdoor Motion Sensor Bundle. Works with Alexa  Google Assistant and Apple HomeKit](https://www.amazon.co.uk/dp/B07NW9PRKB/?tag=redken01-21) con un 37.50 % de descuento con precio de oferta de 249.99 GBP (original: 399.98 GBP) en el siguiente enlace!
+Está [Philips Hue Lily White and Colour Ambiance LED 4x Spotlight [Base Unit + Extension] + Outdoor Motion Sensor Bundle. Works with Alexa  Google Assistant and Apple HomeKit](https://www.amazon.co.uk/dp/B07NW9PRKB/?tag=redken01-21) con 37.50 de descuento por 249.99 GBP (original: 399.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31qN03+HXsL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07NW9PRKB/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07NW9PRKB/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07NW9PRKB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

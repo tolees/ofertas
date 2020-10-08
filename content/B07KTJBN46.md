@@ -14,11 +14,11 @@ comparePrice: 100.0 GBP
 inStock: true
 ---
 
-Está [Clarks Originals Women s Ashton Derbys  Green  Cactus Green Cactus Green   41 EU  7 UK](https://www.amazon.co.uk/dp/B07KTJBN46/?tag=redken01-21) con 60.00 de descuento por 40.0 GBP (original: 100.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Clarks Originals Women s Ashton Derbys  Green  Cactus Green Cactus Green   41 EU  7 UK](https://www.amazon.co.uk/dp/B07KTJBN46/?tag=redken01-21) a 40.0 GBP (original: 100.0 GBP) (60.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/3180UE1DibL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTJBN46/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KTJBN46/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KTJBN46/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
