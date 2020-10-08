@@ -14,11 +14,11 @@ comparePrice: 849.0 EUR
 inStock: true
 ---
 
-Está [Sony RX100 III Premium Kompakt Digitalkamera  20.1 MP  7 6 cm  3 Zoll  Display  1 Zoll Senso  24-70 mm F1.8-2.8 Zeiss Objektiv  Full HD  WiFi  NFC   DSC-RX100M3  schwarz](https://www.amazon.de/dp/B00KLVFV34/?tag=redken02-21) con 51.89 de descuento por 408.49 EUR (original: 849.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony RX100 III Premium Kompakt Digitalkamera  20.1 MP  7 6 cm  3 Zoll  Display  1 Zoll Senso  24-70 mm F1.8-2.8 Zeiss Objektiv  Full HD  WiFi  NFC   DSC-RX100M3  schwarz](https://www.amazon.de/dp/B00KLVFV34/?tag=redken02-21) a 408.49 EUR (original: 849.0 EUR) (51.89 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Pe6QZjZNL._SL200_.jpg)](https://www.amazon.de/dp/B00KLVFV34/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00KLVFV34/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B00KLVFV34/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

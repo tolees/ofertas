@@ -14,11 +14,11 @@ comparePrice: 31.63 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Trust Smart Home ACM-1000 Built-In Switch for Wireless Switching of Lights  1000 W ](https://www.amazon.co.uk/dp/B00HYEPKI2/?tag=redken01-21) a 14.99 GBP (original: 31.63 GBP) (52.61 %  de descuento) en el siguiente enlace!
+Está [Trust Smart Home ACM-1000 Built-In Switch for Wireless Switching of Lights  1000 W ](https://www.amazon.co.uk/dp/B00HYEPKI2/?tag=redken01-21) con 52.61 de descuento por 14.99 GBP (original: 31.63 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Bb-8UkQlL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00HYEPKI2/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00HYEPKI2/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00HYEPKI2/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

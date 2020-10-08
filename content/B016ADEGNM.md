@@ -14,11 +14,11 @@ comparePrice: 10.61 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Professor Puzzle Metal Earth Star Wars Imperial Shuttle Model Kit](https://www.amazon.co.uk/dp/B016ADEGNM/?tag=redken01-21) a 5.0 GBP (original: 10.61 GBP) (52.87 %  de descuento) en el siguiente enlace!
+Está [Professor Puzzle Metal Earth Star Wars Imperial Shuttle Model Kit](https://www.amazon.co.uk/dp/B016ADEGNM/?tag=redken01-21) con 52.87 de descuento por 5.0 GBP (original: 10.61 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41wklTlzbpL._SL200_.jpg)](https://www.amazon.co.uk/dp/B016ADEGNM/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B016ADEGNM/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B016ADEGNM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
