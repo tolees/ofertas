@@ -14,11 +14,11 @@ comparePrice: 16.94 GBP
 inStock: true
 ---
 
-Está [Apli Kids 40gm Large Glue Sticks - Red  Box of 12 ](https://www.amazon.co.uk/dp/B00GKBQKGQ/?tag=redken01-21) con 50.24 de descuento por 8.43 GBP (original: 16.94 GBP) en el siguiente enlace!
+Ahora mismo tienes [Apli Kids 40gm Large Glue Sticks - Red  Box of 12 ](https://www.amazon.co.uk/dp/B00GKBQKGQ/?tag=redken01-21) a 8.43 GBP (original: 16.94 GBP) (50.24 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31bVBL+SG7L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00GKBQKGQ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00GKBQKGQ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00GKBQKGQ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

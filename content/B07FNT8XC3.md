@@ -14,11 +14,11 @@ comparePrice: 48.73 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Minecraft™ 21152 Das Piratenschiff-Abenteuer](https://www.amazon.de/dp/B07FNT8XC3/?tag=redken02-21) a 36.13 EUR (original: 48.73 EUR) (25.86 %  de descuento) en el siguiente enlace!
+Está [LEGO Minecraft™ 21152 Das Piratenschiff-Abenteuer](https://www.amazon.de/dp/B07FNT8XC3/?tag=redken02-21) con 25.86 de descuento por 36.13 EUR (original: 48.73 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg)](https://www.amazon.de/dp/B07FNT8XC3/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07FNT8XC3/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07FNT8XC3/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

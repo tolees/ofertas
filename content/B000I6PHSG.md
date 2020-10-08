@@ -14,11 +14,11 @@ comparePrice: 23.83 GBP
 inStock: true
 ---
 
-Está [Avery C32016-25 Printable Double-Sided Satin Finish Business Cards  10 Cards Per A4 Sheet](https://www.amazon.co.uk/dp/B000I6PHSG/?tag=redken01-21) con 41.33 de descuento por 13.98 GBP (original: 23.83 GBP) en el siguiente enlace!
+Ahora mismo tienes [Avery C32016-25 Printable Double-Sided Satin Finish Business Cards  10 Cards Per A4 Sheet](https://www.amazon.co.uk/dp/B000I6PHSG/?tag=redken01-21) a 13.98 GBP (original: 23.83 GBP) (41.33 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51E8YJ1RDsL._SL200_.jpg)](https://www.amazon.co.uk/dp/B000I6PHSG/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B000I6PHSG/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B000I6PHSG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

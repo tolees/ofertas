@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thermomètre Infrarouge Pistolet de Tempé al 28.79 % de descuento'
-date: 2020-10-07 05:26:16
+date: 2020-10-08 05:58:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hlRJszpJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hlRJszpJL._SL200_.jpg' ]
 comments: true

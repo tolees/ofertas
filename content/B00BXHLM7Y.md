@@ -14,11 +14,11 @@ comparePrice: 9.34 GBP
 inStock: true
 ---
 
-Está [Darkest White](https://www.amazon.co.uk/dp/B00BXHLM7Y/?tag=redken01-21) con 63.38 de descuento por 3.42 GBP (original: 9.34 GBP) en el siguiente enlace!
+Ahora mismo tienes [Darkest White](https://www.amazon.co.uk/dp/B00BXHLM7Y/?tag=redken01-21) a 3.42 GBP (original: 9.34 GBP) (63.38 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51IJJsRaJZL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00BXHLM7Y/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00BXHLM7Y/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00BXHLM7Y/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
