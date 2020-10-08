@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auricular Bluetooth V5.0  Ultra peso lig al 34.87 % de descuento'
-date: 2020-10-06 18:32:42
+date: 2020-10-08 12:40:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TYysOVy8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TYysOVy8L._SL200_.jpg' ]
 comments: true

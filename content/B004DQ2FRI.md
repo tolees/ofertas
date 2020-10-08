@@ -14,11 +14,11 @@ comparePrice: 19.2 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Makita P-72198 Insulated Mug  Multi-Colour](https://www.amazon.co.uk/dp/B004DQ2FRI/?tag=redken01-21) a 10.99 GBP (original: 19.2 GBP) (42.76 %  de descuento) en el siguiente enlace!
+Está [Makita P-72198 Insulated Mug  Multi-Colour](https://www.amazon.co.uk/dp/B004DQ2FRI/?tag=redken01-21) con 42.76 de descuento por 10.99 GBP (original: 19.2 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41c6I6pNu7L._SL200_.jpg)](https://www.amazon.co.uk/dp/B004DQ2FRI/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B004DQ2FRI/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B004DQ2FRI/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

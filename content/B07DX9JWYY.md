@@ -14,11 +14,11 @@ comparePrice: 11.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Just Cause 4 - Standard Edition - [PlayStation 4]](https://www.amazon.de/dp/B07DX9JWYY/?tag=redken02-21) a 6.66 EUR (original: 11.9 EUR) (44.03 %  de descuento) en el siguiente enlace!
+Está [Just Cause 4 - Standard Edition - [PlayStation 4]](https://www.amazon.de/dp/B07DX9JWYY/?tag=redken02-21) con 44.03 de descuento por 6.66 EUR (original: 11.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51fFSRTx5NL._SL200_.jpg)](https://www.amazon.de/dp/B07DX9JWYY/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07DX9JWYY/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07DX9JWYY/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

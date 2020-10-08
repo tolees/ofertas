@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.78 % en SGODDE Luces de Proyector de Navidad  LI'
-date: 2020-10-03 10:01:24
+date: 2020-10-08 12:37:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/613aPOh+RZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/613aPOh+RZL._SL200_.jpg' ]
 comments: true

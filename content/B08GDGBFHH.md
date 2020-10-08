@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fatima al 26.07 % de descuento'
-date: 2020-10-06 18:19:32
+date: 2020-10-08 12:31:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/5109hkzkiLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5109hkzkiLL._SL200_.jpg' ]
 comments: true

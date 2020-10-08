@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft RJN-00003 – Bluetooth Mouse Ne al 34.80 % de descuento'
-date: 2020-10-06 18:38:43
+date: 2020-10-08 12:50:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dKXON00RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dKXON00RL._SL200_.jpg' ]
 comments: true

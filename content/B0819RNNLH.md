@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playgro Mini-patos para el baño  4 Pieza al 42.18 % de descuento'
-date: 2020-10-07 00:43:59
+date: 2020-10-08 12:49:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EVRstY0lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EVRstY0lL._SL200_.jpg' ]
 comments: true
