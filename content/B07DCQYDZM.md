@@ -14,11 +14,11 @@ comparePrice: 65.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Babolat Viper Jr 2019  Adultos Unisex  Multicolor  Talla Unica](https://www.amazon.es/dp/B07DCQYDZM/?tag=redken-21) a 39.85 EUR (original: 65.0 EUR) (38.69 %  de descuento) en el siguiente enlace!
+Está [Babolat Viper Jr 2019  Adultos Unisex  Multicolor  Talla Unica](https://www.amazon.es/dp/B07DCQYDZM/?tag=redken-21) con 38.69 de descuento por 39.85 EUR (original: 65.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51B-pqZOyfL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DCQYDZM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DCQYDZM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DCQYDZM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 8.0 GBP
 inStock: true
 ---
 
-Está [Lego 30522 The Batman Movie Exclusive Polybag Batman in the Phantom Zone](https://www.amazon.co.uk/dp/B01N4Q2JUD/?tag=redken01-21) con 38.88 de descuento por 4.89 GBP (original: 8.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Lego 30522 The Batman Movie Exclusive Polybag Batman in the Phantom Zone](https://www.amazon.co.uk/dp/B01N4Q2JUD/?tag=redken01-21) a 4.89 GBP (original: 8.0 GBP) (38.88 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51590OWZcPL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01N4Q2JUD/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01N4Q2JUD/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01N4Q2JUD/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

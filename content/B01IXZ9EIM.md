@@ -14,11 +14,11 @@ comparePrice: 5.65 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Billionaire Boy [DVD]](https://www.amazon.co.uk/dp/B01IXZ9EIM/?tag=redken01-21) a 3.99 GBP (original: 5.65 GBP) (29.38 %  de descuento) en el siguiente enlace!
+Está [Billionaire Boy [DVD]](https://www.amazon.co.uk/dp/B01IXZ9EIM/?tag=redken01-21) con 29.38 de descuento por 3.99 GBP (original: 5.65 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51YALRM5kML._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01IXZ9EIM/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01IXZ9EIM/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01IXZ9EIM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

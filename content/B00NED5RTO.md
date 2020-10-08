@@ -14,11 +14,11 @@ comparePrice: 1392.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Olympus M.Zuiko Digital ED 40-150mm 1:2.8 Pro Objektiv  inkl. MC 1.4 Telekonverter  für MFT Objektivbajonett  schwarz](https://www.amazon.de/dp/B00NED5RTO/?tag=redken02-21) a 700.0 EUR (original: 1392.84 EUR) (49.74 %  de descuento) en el siguiente enlace!
+Está [Olympus M.Zuiko Digital ED 40-150mm 1:2.8 Pro Objektiv  inkl. MC 1.4 Telekonverter  für MFT Objektivbajonett  schwarz](https://www.amazon.de/dp/B00NED5RTO/?tag=redken02-21) con 49.74 de descuento por 700.0 EUR (original: 1392.84 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41OSQ8pkrGL._SL200_.jpg)](https://www.amazon.de/dp/B00NED5RTO/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B00NED5RTO/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B00NED5RTO/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

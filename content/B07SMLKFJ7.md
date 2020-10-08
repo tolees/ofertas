@@ -14,11 +14,11 @@ comparePrice: 7.0 GBP
 inStock: true
 ---
 
-Está [Booksmart   DVD  [2019]](https://www.amazon.co.uk/dp/B07SMLKFJ7/?tag=redken01-21) con 28.57 de descuento por 5.0 GBP (original: 7.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Booksmart   DVD  [2019]](https://www.amazon.co.uk/dp/B07SMLKFJ7/?tag=redken01-21) a 5.0 GBP (original: 7.0 GBP) (28.57 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51PKKdD-jzL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07SMLKFJ7/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07SMLKFJ7/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07SMLKFJ7/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
