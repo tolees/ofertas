@@ -14,11 +14,11 @@ comparePrice: 24.95 USD
 inStock: true
 ---
 
-Está [LEGO Star Wars - Han Solo in Carbonite LED Lite - Key Chain](https://www.amazon.com/dp/B01G77USMO/?tag=redken08-20) con 43.93 de descuento por 13.99 USD (original: 24.95 USD) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars - Han Solo in Carbonite LED Lite - Key Chain](https://www.amazon.com/dp/B01G77USMO/?tag=redken08-20) a 13.99 USD (original: 24.95 USD) (43.93 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41gnUgMEwYL._SL200_.jpg)](https://www.amazon.com/dp/B01G77USMO/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01G77USMO/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01G77USMO/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

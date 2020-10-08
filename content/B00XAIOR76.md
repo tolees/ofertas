@@ -14,11 +14,11 @@ comparePrice: 2.92 EUR
 inStock: true
 ---
 
-Está [Instituto Español Piel Sana Loción Corporal - 500 ml](https://www.amazon.es/dp/B00XAIOR76/?tag=redken-21) con 33.90 de descuento por 1.93 EUR (original: 2.92 EUR) en el siguiente enlace!
+Ahora mismo tienes [Instituto Español Piel Sana Loción Corporal - 500 ml](https://www.amazon.es/dp/B00XAIOR76/?tag=redken-21) a 1.93 EUR (original: 2.92 EUR) (33.90 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31SokIPBEkL._SL200_.jpg)](https://www.amazon.es/dp/B00XAIOR76/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00XAIOR76/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00XAIOR76/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

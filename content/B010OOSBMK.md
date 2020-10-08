@@ -14,11 +14,11 @@ comparePrice: 16.75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pop! Movies - Muñeco cabezón Harry Potter Quidditch  Funko 5902 ](https://www.amazon.es/dp/B010OOSBMK/?tag=redken-21) a 9.38 EUR (original: 16.75 EUR) (44.00 %  de descuento) en el siguiente enlace!
+Está [Pop! Movies - Muñeco cabezón Harry Potter Quidditch  Funko 5902 ](https://www.amazon.es/dp/B010OOSBMK/?tag=redken-21) con 44.00 de descuento por 9.38 EUR (original: 16.75 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51SMAy1pgHL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B010OOSBMK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B010OOSBMK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B010OOSBMK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

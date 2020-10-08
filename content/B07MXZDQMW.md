@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.76 % en Garnier BIO Gel Limpiador Detox Lemongra'
-date: 2020-10-07 06:53:16
+date: 2020-10-08 07:54:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lVNMx9n6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lVNMx9n6L._SL200_.jpg' ]
 comments: true

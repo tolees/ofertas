@@ -14,11 +14,11 @@ comparePrice: 185.74 EUR
 inStock: true
 ---
 
-Está [B+W 1071068 - Filtro polarizador Circular MRC de 82 mm](https://www.amazon.es/dp/B008EKMPB0/?tag=redken-21) con 35.44 de descuento por 119.92 EUR (original: 185.74 EUR) en el siguiente enlace!
+Ahora mismo tienes [B+W 1071068 - Filtro polarizador Circular MRC de 82 mm](https://www.amazon.es/dp/B008EKMPB0/?tag=redken-21) a 119.92 EUR (original: 185.74 EUR) (35.44 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31nzpgoHRGL._SL200_.jpg)](https://www.amazon.es/dp/B008EKMPB0/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B008EKMPB0/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B008EKMPB0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
