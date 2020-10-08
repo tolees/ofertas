@@ -14,11 +14,11 @@ comparePrice: 28.5 GBP
 inStock: true
 ---
 
-Está [COLOR WOW Root Cover Up  Dark Brown  2.1 g](https://www.amazon.co.uk/dp/B00M3DSVOO/?tag=redken01-21) con 28.14 de descuento por 20.48 GBP (original: 28.5 GBP) en el siguiente enlace!
+Ahora mismo tienes [COLOR WOW Root Cover Up  Dark Brown  2.1 g](https://www.amazon.co.uk/dp/B00M3DSVOO/?tag=redken01-21) a 20.48 GBP (original: 28.5 GBP) (28.14 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41k6dLyh45L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00M3DSVOO/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00M3DSVOO/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00M3DSVOO/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

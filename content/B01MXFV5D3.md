@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.39 % en Honor 6X - Smartphone libre de 5.5"  lec'
-date: 2020-10-01 05:04:02
+date: 2020-10-08 09:27:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Gx9ThqxTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Gx9ThqxTL._SL200_.jpg' ]
 comments: true

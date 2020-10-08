@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.24 % en VEET Men crema depilatoria pieles sensib'
-date: 2020-10-06 15:40:34
+date: 2020-10-08 09:20:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O4-LAx1VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O4-LAx1VL._SL200_.jpg' ]
 comments: true
