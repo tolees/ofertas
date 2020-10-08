@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.19 % en Samsung C49HG90DMU – Monitor Curvo Gamin'
-date: 2020-10-05 22:22:39
+date: 2020-10-07 23:34:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/419e8BJn7uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419e8BJn7uL._SL200_.jpg' ]
 comments: true

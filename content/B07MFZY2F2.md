@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung  MZ-V7S1T0B/AM  970 EVO Plus SSD al 28.00 % de descuento'
-date: 2020-10-06 21:36:20
+date: 2020-10-07 23:12:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+rkXdQL8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+rkXdQL8L._SL200_.jpg' ]
 comments: true

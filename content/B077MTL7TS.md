@@ -14,11 +14,11 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [PUMA Smash v2 L  Zapatillas Unisex Adulto  White-Peacoat  48.5 EU](https://www.amazon.es/dp/B077MTL7TS/?tag=redken-21) con 29.93 de descuento por 35 EUR (original: 49.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [PUMA Smash v2 L  Zapatillas Unisex Adulto  White-Peacoat  48.5 EU](https://www.amazon.es/dp/B077MTL7TS/?tag=redken-21) a 35 EUR (original: 49.95 EUR) (29.93 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41eCXuLzwhL._SL200_.jpg)](https://www.amazon.es/dp/B077MTL7TS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077MTL7TS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B077MTL7TS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

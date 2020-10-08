@@ -14,11 +14,11 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Classic 10701 - Graue Bauplatte  Lernspielzeug](https://www.amazon.de/dp/B00NVDJKN6/?tag=redken02-21) a 10.19 EUR (original: 14.99 EUR) (32.02 %  de descuento) en el siguiente enlace!
+Está [LEGO Classic 10701 - Graue Bauplatte  Lernspielzeug](https://www.amazon.de/dp/B00NVDJKN6/?tag=redken02-21) con 32.02 de descuento por 10.19 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ZLbFjbzgL._SL200_.jpg)](https://www.amazon.de/dp/B00NVDJKN6/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B00NVDJKN6/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B00NVDJKN6/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
