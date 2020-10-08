@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.67 % en Apli Paper 11475 Papel Fotografico A4 Ev'
-date: 2020-10-07 04:06:47
+date: 2020-10-08 04:23:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41e58LM4SfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41e58LM4SfL._SL200_.jpg' ]
 comments: true

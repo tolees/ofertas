@@ -14,11 +14,11 @@ comparePrice: 38.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [HAMSWAN VR Headset  Virtual Reality Headset  3D Glasses  VR Goggles-for 3D VR Movies Video Games with 100 Degree FOV for iPhone X 8 7 6 plus  Samsung S6 S7 S8/Plus/Edge Note 8 [2020 Edition]](https://www.amazon.co.uk/dp/B07JHDLLFG/?tag=redken01-21) a 26.99 GBP (original: 38.99 GBP) (30.78 %  de descuento) en el siguiente enlace!
+Está [HAMSWAN VR Headset  Virtual Reality Headset  3D Glasses  VR Goggles-for 3D VR Movies Video Games with 100 Degree FOV for iPhone X 8 7 6 plus  Samsung S6 S7 S8/Plus/Edge Note 8 [2020 Edition]](https://www.amazon.co.uk/dp/B07JHDLLFG/?tag=redken01-21) con 30.78 de descuento por 26.99 GBP (original: 38.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41s0FIwX87L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JHDLLFG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07JHDLLFG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07JHDLLFG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

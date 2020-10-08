@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.86 % en Kingston KC600 SSD  SKC600/256 G  Intern'
-date: 2020-10-06 23:05:06
+date: 2020-10-08 04:48:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31DFVnY5YML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31DFVnY5YML._SL200_.jpg' ]
 comments: true

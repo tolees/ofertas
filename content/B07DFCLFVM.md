@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.82 % en Funko- Pop: The Simpsons: Mr. Burns  Mul'
-date: 2020-10-06 23:05:56
+date: 2020-10-08 04:47:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kbR+pySlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kbR+pySlL._SL200_.jpg' ]
 comments: true

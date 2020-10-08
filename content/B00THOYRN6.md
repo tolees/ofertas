@@ -14,11 +14,11 @@ comparePrice: 1199.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sigma 150-600 mm F5-6.3 DG OS HSM Contemporary Canon Mount Lens](https://www.amazon.co.uk/dp/B00THOYRN6/?tag=redken01-21) a 749.0 GBP (original: 1199.99 GBP) (37.58 %  de descuento) en el siguiente enlace!
+Está [Sigma 150-600 mm F5-6.3 DG OS HSM Contemporary Canon Mount Lens](https://www.amazon.co.uk/dp/B00THOYRN6/?tag=redken01-21) con 37.58 de descuento por 749.0 GBP (original: 1199.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41s71lwmqGL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00THOYRN6/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00THOYRN6/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00THOYRN6/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
