@@ -14,11 +14,11 @@ comparePrice: 20.0 GBP
 inStock: true
 ---
 
-Está [EPL Match Attax 2017/18 Advent Calendar](https://www.amazon.co.uk/dp/B073HN7YBB/?tag=redken01-21) con 50.45 de descuento por 9.91 GBP (original: 20.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [EPL Match Attax 2017/18 Advent Calendar](https://www.amazon.co.uk/dp/B073HN7YBB/?tag=redken01-21) a 9.91 GBP (original: 20.0 GBP) (50.45 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/511DzXx5FIL._SL200_.jpg)](https://www.amazon.co.uk/dp/B073HN7YBB/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B073HN7YBB/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B073HN7YBB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

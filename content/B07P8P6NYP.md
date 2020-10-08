@@ -14,11 +14,11 @@ comparePrice: 179.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [PLAYMOBIL Novelmore 70220 Grand Castle of Novelmore  for Children Ages 5 to 10](https://www.amazon.co.uk/dp/B07P8P6NYP/?tag=redken01-21) a 113.86 GBP (original: 179.99 GBP) (36.74 %  de descuento) en el siguiente enlace!
+Está [PLAYMOBIL Novelmore 70220 Grand Castle of Novelmore  for Children Ages 5 to 10](https://www.amazon.co.uk/dp/B07P8P6NYP/?tag=redken01-21) con 36.74 de descuento por 113.86 GBP (original: 179.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61sK72vxNCL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07P8P6NYP/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07P8P6NYP/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07P8P6NYP/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

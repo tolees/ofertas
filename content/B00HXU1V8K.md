@@ -14,11 +14,11 @@ comparePrice: 78.2 EUR
 inStock: true
 ---
 
-Está [Modern Muse by Estee Lauder Eau de Parfum Spray 50ml](https://www.amazon.es/dp/B00HXU1V8K/?tag=redken-21) con 44.69 de descuento por 43.25 EUR (original: 78.2 EUR) en el siguiente enlace!
+Ahora mismo tienes [Modern Muse by Estee Lauder Eau de Parfum Spray 50ml](https://www.amazon.es/dp/B00HXU1V8K/?tag=redken-21) a 43.25 EUR (original: 78.2 EUR) (44.69 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31GlQ7YM8oL._SL200_.jpg)](https://www.amazon.es/dp/B00HXU1V8K/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00HXU1V8K/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00HXU1V8K/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
