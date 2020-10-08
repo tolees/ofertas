@@ -14,11 +14,11 @@ comparePrice: 150.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen W Pier 2 Pant  Mujer  Ebony  XL](https://www.amazon.es/dp/B01MSUY4Q8/?tag=redken-21) a 83.5 EUR (original: 150.0 EUR) (44.33 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen W Pier 2 Pant  Mujer  Ebony  XL](https://www.amazon.es/dp/B01MSUY4Q8/?tag=redken-21) con 44.33 de descuento por 83.5 EUR (original: 150.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ufCKaNlFL._SL200_.jpg)](https://www.amazon.es/dp/B01MSUY4Q8/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MSUY4Q8/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MSUY4Q8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rivals of Kaboom Starter Pack Cómic Guía al 44.38 % de descuento'
-date: 2020-10-07 11:00:19
+date: 2020-10-08 16:51:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/516ONVY+m4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516ONVY+m4L._SL200_.jpg' ]
 comments: true

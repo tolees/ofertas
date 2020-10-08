@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI 13130 - Bolsa de Autocierre  Paquet al 32.99 % de descuento'
-date: 2020-10-07 10:38:58
+date: 2020-10-08 16:35:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/411buG0avjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411buG0avjL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.27 % en Sony HDRAS50B  Videocámara  Negro'
-date: 2020-10-07 16:19:43
+date: 2020-10-08 16:50:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51o7DlD3YUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51o7DlD3YUL._SL200_.jpg' ]
 comments: true
