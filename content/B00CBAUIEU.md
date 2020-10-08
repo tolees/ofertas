@@ -14,11 +14,11 @@ comparePrice: 6.62 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Verbatim 44082 16GB Class 10 Micro SDHC with Adapter - BLACK](https://www.amazon.co.uk/dp/B00CBAUIEU/?tag=redken01-21) a 3.18 GBP (original: 6.62 GBP) (51.96 %  de descuento) en el siguiente enlace!
+Está [Verbatim 44082 16GB Class 10 Micro SDHC with Adapter - BLACK](https://www.amazon.co.uk/dp/B00CBAUIEU/?tag=redken01-21) con 51.96 de descuento por 3.18 GBP (original: 6.62 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41cvUfaRw5L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00CBAUIEU/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00CBAUIEU/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00CBAUIEU/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 21.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [KRISP Vestido Moda Mujer Fruncido  Moca  6487   40  6487-MOC-12](https://www.amazon.es/dp/B00WEVRFP6/?tag=redken-21) a 12.49 EUR (original: 21.99 EUR) (43.20 %  de descuento) en el siguiente enlace!
+Está [KRISP Vestido Moda Mujer Fruncido  Moca  6487   40  6487-MOC-12](https://www.amazon.es/dp/B00WEVRFP6/?tag=redken-21) con 43.20 de descuento por 12.49 EUR (original: 21.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41siu6sUXVL._SL200_.jpg)](https://www.amazon.es/dp/B00WEVRFP6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00WEVRFP6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00WEVRFP6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
