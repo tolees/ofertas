@@ -14,11 +14,11 @@ comparePrice: 13.76 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Moleskine - Agenda Semanal de 18 Meses Edición Limitada Star Wars  TIE Star Hunt  Agenda Escolar 2019/2020 con Tapa Dura y Cierre Elástico  Tamaño de Bolsillo 9 x 14 cm  208 Páginas](https://www.amazon.es/dp/B07JVF7FS1/?tag=redken-21) a 9.95 EUR (original: 13.76 EUR) (27.69 %  de descuento) en el siguiente enlace!
+Está [Moleskine - Agenda Semanal de 18 Meses Edición Limitada Star Wars  TIE Star Hunt  Agenda Escolar 2019/2020 con Tapa Dura y Cierre Elástico  Tamaño de Bolsillo 9 x 14 cm  208 Páginas](https://www.amazon.es/dp/B07JVF7FS1/?tag=redken-21) con 27.69 de descuento por 9.95 EUR (original: 13.76 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516jRi5jeIL._SL200_.jpg)](https://www.amazon.es/dp/B07JVF7FS1/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JVF7FS1/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JVF7FS1/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

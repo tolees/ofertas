@@ -14,11 +14,11 @@ comparePrice: 30.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Performance Polo 2.0  Niños  Azul  Academy/Mod Gray Light Heather/Pitch Gray Fade Heather 408   S](https://www.amazon.es/dp/B07CZCH8MM/?tag=redken-21) a 10.96 EUR (original: 30.0 EUR) (63.47 %  de descuento) en el siguiente enlace!
+Está [Under Armour Performance Polo 2.0  Niños  Azul  Academy/Mod Gray Light Heather/Pitch Gray Fade Heather 408   S](https://www.amazon.es/dp/B07CZCH8MM/?tag=redken-21) con 63.47 de descuento por 10.96 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412c5KcUTCL._SL200_.jpg)](https://www.amazon.es/dp/B07CZCH8MM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07CZCH8MM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CZCH8MM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

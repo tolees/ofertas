@@ -14,11 +14,11 @@ comparePrice: 59.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [K9CK Luces LED para Ideas Friends Central Perk 21319  Kit de Iluminación Luz con Control Remoto Compatible con Bloques de construcción  NO Incluido en el Modelo ](https://www.amazon.es/dp/B083HTR6YG/?tag=redken-21) a 29.99 EUR (original: 59.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [K9CK Luces LED para Ideas Friends Central Perk 21319  Kit de Iluminación Luz con Control Remoto Compatible con Bloques de construcción  NO Incluido en el Modelo ](https://www.amazon.es/dp/B083HTR6YG/?tag=redken-21) con 50.00 de descuento por 29.99 EUR (original: 59.98 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Mp2C8D2JL._SL200_.jpg)](https://www.amazon.es/dp/B083HTR6YG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B083HTR6YG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B083HTR6YG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
