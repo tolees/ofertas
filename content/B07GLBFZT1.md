@@ -14,11 +14,11 @@ comparePrice: 249 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Fossil Womens Digital Connected Wrist Watch with Leather Strap FTW6014](https://www.amazon.co.uk/dp/B07GLBFZT1/?tag=redken01-21) a 149.4 GBP (original: 249 GBP) (40.00 %  de descuento) en el siguiente enlace!
+Está [Fossil Womens Digital Connected Wrist Watch with Leather Strap FTW6014](https://www.amazon.co.uk/dp/B07GLBFZT1/?tag=redken01-21) con 40.00 de descuento por 149.4 GBP (original: 249 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jnkd7DYUL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07GLBFZT1/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07GLBFZT1/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07GLBFZT1/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Tenda N300 A9 Wireless Repetidor Extenso al 35.31 % de descuento'
-date: 2020-10-06 20:25:32
-thumbnailImage: 'https://m.media-amazon.com/images/I/31eflsTWvML._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31eflsTWvML._SL200_.jpg' ]
+date: 2020-10-08 13:05:49
+thumbnailImage: 'https://m.media-amazon.com/images/I/31zaYWSqdNL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31zaYWSqdNL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Tenda N300 A9 Wireless Repetidor Extensor de Red WiFi Inalámbrico Ampliardor WiFi 300 Mbps con Antenas Duales para Casa Grande Officina SOHO Sitios de Negocios Pequeños](https://www.amazon.es/dp/B06WWHJZF6/?tag=redken-21) con 35.31 de descuento por 10.99 EUR (original: 16.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31eflsTWvML._SL200_.jpg)](https://www.amazon.es/dp/B06WWHJZF6/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/31zaYWSqdNL._SL200_.jpg)](https://www.amazon.es/dp/B06WWHJZF6/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06WWHJZF6/?tag=redken-21)
 

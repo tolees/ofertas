@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York - Cofre de 3 Pintala al 30.01 % de descuento'
-date: 2020-10-06 18:40:51
+date: 2020-10-08 13:02:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/415TXlnQnWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415TXlnQnWL._SL200_.jpg' ]
 comments: true

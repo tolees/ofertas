@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Acutil Fosforo Advance - 10 gr al 37.17 % de descuento'
-date: 2020-09-30 20:56:30
+title: 'Acutil Fosforo Advance - 50 compresse da al 37.17 % de descuento'
+date: 2020-10-08 13:43:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41c6fCjCxpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41c6fCjCxpL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 15.9 EUR
 inStock: true
 ---
 
-Está [Acutil Fosforo Advance - 10 gr](https://www.amazon.it/dp/B00D3HWW7Q/?tag=redken03-21) con 37.17 de descuento por 9.99 EUR (original: 15.9 EUR) en el siguiente enlace!
+Está [Acutil Fosforo Advance - 50 compresse da 250 mg  Totale: 12.50 g](https://www.amazon.it/dp/B00D3HWW7Q/?tag=redken03-21) con 37.17 de descuento por 9.99 EUR (original: 15.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41c6fCjCxpL._SL200_.jpg)](https://www.amazon.it/dp/B00D3HWW7Q/?tag=redken03-21)
 

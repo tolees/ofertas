@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA ICRA Trainer SD  Zapatillas Unisex  al 39.96 % de descuento'
-date: 2020-10-07 07:51:34
+date: 2020-10-08 13:44:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JuOlW06XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JuOlW06XL._SL200_.jpg' ]
 comments: true

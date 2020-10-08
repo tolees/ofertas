@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Sneaker Plain 3p Calze sportive  Bl al 44.49 % de descuento'
-date: 2020-10-03 10:27:22
+date: 2020-10-08 13:17:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C4Tf7fg2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C4Tf7fg2L._SL200_.jpg' ]
 comments: true
