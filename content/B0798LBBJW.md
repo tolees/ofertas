@@ -14,11 +14,11 @@ comparePrice: 180.0 GBP
 inStock: true
 ---
 
-Está [Sony NW-A45 3.1 Inch Touch Display High Resolution Audio Walkman 16 GB  45 Hours Battery Life - Black](https://www.amazon.co.uk/dp/B0798LBBJW/?tag=redken01-21) con 44.46 de descuento por 99.97 GBP (original: 180.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Sony NW-A45 3.1 Inch Touch Display High Resolution Audio Walkman 16 GB  45 Hours Battery Life - Black](https://www.amazon.co.uk/dp/B0798LBBJW/?tag=redken01-21) a 99.97 GBP (original: 180.0 GBP) (44.46 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/3178HF1i-2L._SL200_.jpg)](https://www.amazon.co.uk/dp/B0798LBBJW/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B0798LBBJW/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B0798LBBJW/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

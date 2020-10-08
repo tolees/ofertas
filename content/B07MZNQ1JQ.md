@@ -14,11 +14,11 @@ comparePrice: 6.85 GBP
 inStock: true
 ---
 
-Está [Funko 37439 POP Collectible Figure  Multi](https://www.amazon.co.uk/dp/B07MZNQ1JQ/?tag=redken01-21) con 41.75 de descuento por 3.99 GBP (original: 6.85 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 37439 POP Collectible Figure  Multi](https://www.amazon.co.uk/dp/B07MZNQ1JQ/?tag=redken01-21) a 3.99 GBP (original: 6.85 GBP) (41.75 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ARFZJprOL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07MZNQ1JQ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07MZNQ1JQ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07MZNQ1JQ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

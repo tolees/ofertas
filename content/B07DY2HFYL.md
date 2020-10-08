@@ -14,11 +14,11 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Mortal Kombat X Ps Hits](https://www.amazon.es/dp/B07DY2HFYL/?tag=redken-21) con 29.76 de descuento por 14.04 EUR (original: 19.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Mortal Kombat X Ps Hits](https://www.amazon.es/dp/B07DY2HFYL/?tag=redken-21) a 14.04 EUR (original: 19.99 EUR) (29.76 %  de descuento) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.es/dp/B07DY2HFYL/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DY2HFYL/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DY2HFYL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

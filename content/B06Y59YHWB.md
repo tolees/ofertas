@@ -14,11 +14,11 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Está [Sesderma Repaskin Protector Solar Facial SPF 50 Tacto Seda - 50 gr](https://www.amazon.es/dp/B06Y59YHWB/?tag=redken-21) con 50.10 de descuento por 12.45 EUR (original: 24.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sesderma Repaskin Protector Solar Facial SPF 50 Tacto Seda - 50 gr](https://www.amazon.es/dp/B06Y59YHWB/?tag=redken-21) a 12.45 EUR (original: 24.95 EUR) (50.10 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41gAdDaGEML._SL200_.jpg)](https://www.amazon.es/dp/B06Y59YHWB/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06Y59YHWB/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B06Y59YHWB/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
