@@ -14,11 +14,11 @@ comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [L.O.L. Surprise! 556299 L.O.L. Surprise DIY Glitter Station  Multicolour](https://www.amazon.co.uk/dp/B07HRN6ZBN/?tag=redken01-21) a 23.97 GBP (original: 44.99 GBP) (46.72 %  de descuento) en el siguiente enlace!
+Está [L.O.L. Surprise! 556299 L.O.L. Surprise DIY Glitter Station  Multicolour](https://www.amazon.co.uk/dp/B07HRN6ZBN/?tag=redken01-21) con 46.72 de descuento por 23.97 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41SH2uBSF%2BL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HRN6ZBN/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07HRN6ZBN/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HRN6ZBN/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

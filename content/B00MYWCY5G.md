@@ -14,11 +14,11 @@ comparePrice: 82.8 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GROHE 39054000 | Concealed Flushing Cistern](https://www.amazon.co.uk/dp/B00MYWCY5G/?tag=redken01-21) a 45.89 GBP (original: 82.8 GBP) (44.58 %  de descuento) en el siguiente enlace!
+Está [GROHE 39054000 | Concealed Flushing Cistern](https://www.amazon.co.uk/dp/B00MYWCY5G/?tag=redken01-21) con 44.58 de descuento por 45.89 GBP (original: 82.8 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ZWgMGYAkL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00MYWCY5G/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00MYWCY5G/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00MYWCY5G/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

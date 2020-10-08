@@ -14,11 +14,11 @@ comparePrice: 8.15 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Papel Maché SIO-2 500 g](https://www.amazon.es/dp/B00PDRK6FE/?tag=redken-21) a 4.13 EUR (original: 8.15 EUR) (49.33 %  de descuento) en el siguiente enlace!
+Está [Papel Maché SIO-2 500 g](https://www.amazon.es/dp/B00PDRK6FE/?tag=redken-21) con 49.33 de descuento por 4.13 EUR (original: 8.15 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5163KfNdvuL._SL200_.jpg)](https://www.amazon.es/dp/B00PDRK6FE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00PDRK6FE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00PDRK6FE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

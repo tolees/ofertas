@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 63.51 % en Geox D New ANNYA Mid A  Zapatos con Tacó'
-date: 2020-10-07 15:08:00
+title: 'Descuento del 64.97 % en Geox D New ANNYA Mid A  Zapatos con Tacó'
+date: 2020-10-08 15:40:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07LFYY1QG
 description:
-actualPrice: 36.45 EUR
+actualPrice: 34.99 EUR
 comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Tienes [Geox D New ANNYA Mid A  Zapatos con Tacón para Mujer  Negro  Black C9997   36 5 EU](https://www.amazon.es/dp/B07LFYY1QG/?tag=redken-21) con un 63.51 % de descuento con precio de oferta de 36.45 EUR (original: 99.9 EUR) en el siguiente enlace!
+Tienes [Geox D New ANNYA Mid A  Zapatos con Tacón para Mujer  Negro  Black C9997   36 5 EU](https://www.amazon.es/dp/B07LFYY1QG/?tag=redken-21) con un 64.97 % de descuento con precio de oferta de 34.99 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL200_.jpg)](https://www.amazon.es/dp/B07LFYY1QG/?tag=redken-21)
 

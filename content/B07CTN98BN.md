@@ -14,11 +14,11 @@ comparePrice: 6.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FIND - Deep Forest - Trío de sombras de ojos  n.10  n.11  n.12 ](https://www.amazon.es/dp/B07CTN98BN/?tag=redken-21) a 2.9 EUR (original: 6.0 EUR) (51.67 %  de descuento) en el siguiente enlace!
+Está [FIND - Deep Forest - Trío de sombras de ojos  n.10  n.11  n.12 ](https://www.amazon.es/dp/B07CTN98BN/?tag=redken-21) con 51.67 de descuento por 2.9 EUR (original: 6.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ONGc2JW6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CTN98BN/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07CTN98BN/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CTN98BN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

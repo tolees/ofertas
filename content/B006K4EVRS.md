@@ -14,11 +14,11 @@ comparePrice: 65.03 EUR
 inStock: true
 ---
 
-Está [Darphin  Crema corporal - 50 ml.](https://www.amazon.es/dp/B006K4EVRS/?tag=redken-21) con 47.33 de descuento por 34.25 EUR (original: 65.03 EUR) en el siguiente enlace!
+Ahora mismo tienes [Darphin  Crema corporal - 50 ml.](https://www.amazon.es/dp/B006K4EVRS/?tag=redken-21) a 34.25 EUR (original: 65.03 EUR) (47.33 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nTmuR5IrL._SL200_.jpg)](https://www.amazon.es/dp/B006K4EVRS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B006K4EVRS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B006K4EVRS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
