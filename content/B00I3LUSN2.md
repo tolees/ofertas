@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-EX110LP - Auriculares in-ear  n al 45.50 % de descuento'
-date: 2020-10-06 22:20:46
+date: 2020-10-08 10:30:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YMxWjT2UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YMxWjT2UL._SL200_.jpg' ]
 comments: true

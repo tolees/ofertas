@@ -14,11 +14,11 @@ comparePrice: 349.0 EUR
 inStock: true
 ---
 
-Está [Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  Octa-Core de 2 2 Ghz  3 GB de RAM  64 GB de memoria interna  cámara dual de 13+5 MP  Android P Dual Sim   Color Azul [Versión española]](https://www.amazon.es/dp/B07NDSJMVX/?tag=redken-21) con 40.36 de descuento por 208.13 EUR (original: 349.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  Octa-Core de 2 2 Ghz  3 GB de RAM  64 GB de memoria interna  cámara dual de 13+5 MP  Android P Dual Sim   Color Azul [Versión española]](https://www.amazon.es/dp/B07NDSJMVX/?tag=redken-21) a 208.13 EUR (original: 349.0 EUR) (40.36 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31XaKN9CsJL._SL200_.jpg)](https://www.amazon.es/dp/B07NDSJMVX/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07NDSJMVX/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07NDSJMVX/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

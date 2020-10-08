@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Marvel Comics MAY172531 Figura de acción al 32.71 % de descuento'
-date: 2020-10-01 12:34:03
+title: 'Marvel Comics MAY172531 Figura de acción al 31.18 % de descuento'
+date: 2020-10-08 10:28:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51otDgzkcjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51otDgzkcjL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B071NLLJXC
 description:
 actualPrice: 34.99 EUR
-comparePrice: 52.0 EUR
+comparePrice: 50.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Marvel Comics MAY172531 Figura de acción de Daredevil Netflix.](https://www.amazon.es/dp/B071NLLJXC/?tag=redken-21) a 34.99 EUR (original: 52.0 EUR) (32.71 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Marvel Comics MAY172531 Figura de acción de Daredevil Netflix.](https://www.amazon.es/dp/B071NLLJXC/?tag=redken-21) a 34.99 EUR (original: 50.84 EUR) (31.18 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51otDgzkcjL._SL200_.jpg)](https://www.amazon.es/dp/B071NLLJXC/?tag=redken-21)
 

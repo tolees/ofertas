@@ -14,11 +14,11 @@ comparePrice: 23.99 EUR
 inStock: true
 ---
 
-Está [Die Edelsteintrilogie  Rubinrot  Saphirblau  Smaragdgrün  [4 DVDs]](https://www.amazon.de/dp/B01LWZ3LE2/?tag=redken02-21) con 28.64 de descuento por 17.12 EUR (original: 23.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Die Edelsteintrilogie  Rubinrot  Saphirblau  Smaragdgrün  [4 DVDs]](https://www.amazon.de/dp/B01LWZ3LE2/?tag=redken02-21) a 17.12 EUR (original: 23.99 EUR) (28.64 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5137549ZypL._SL200_.jpg)](https://www.amazon.de/dp/B01LWZ3LE2/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01LWZ3LE2/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B01LWZ3LE2/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
