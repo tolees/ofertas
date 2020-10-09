@@ -14,11 +14,11 @@ comparePrice: 139.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Fairbanks 1006  Botas para Hombre  Gris  Graphite  Red J   41 1/2 EU](https://www.amazon.es/dp/B07JWX1FT9/?tag=redken-21) a 36.96 EUR (original: 139.99 EUR) (73.60 %  de descuento) en el siguiente enlace!
+Está [Columbia Fairbanks 1006  Botas para Hombre  Gris  Graphite  Red J   41 1/2 EU](https://www.amazon.es/dp/B07JWX1FT9/?tag=redken-21) con 73.60 de descuento por 36.96 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41viGSRy1PL._SL200_.jpg)](https://www.amazon.es/dp/B07JWX1FT9/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JWX1FT9/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JWX1FT9/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

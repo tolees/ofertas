@@ -14,11 +14,11 @@ comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Está [Alien 1-6 Boxset [DVD] [2017]](https://www.amazon.co.uk/dp/B071NRMHRC/?tag=redken01-21) con 33.29 de descuento por 10.0 GBP (original: 14.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Alien 1-6 Boxset [DVD] [2017]](https://www.amazon.co.uk/dp/B071NRMHRC/?tag=redken01-21) a 10.0 GBP (original: 14.99 GBP) (33.29 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61pXmlg+nqL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B071NRMHRC/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B071NRMHRC/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B071NRMHRC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

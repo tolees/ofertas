@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Logitech G305 Lightspeed Wireless Gaming'
-date: 2020-10-07 09:44:53
+date: 2020-10-09 03:51:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ScNqPnrpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ScNqPnrpL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.06 % en Samsonite Pro-DLX 5 - Upright S Expandab'
-date: 2020-10-07 13:43:34
+date: 2020-10-09 03:47:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-G74RhbiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-G74RhbiL._SL200_.jpg' ]
 comments: true

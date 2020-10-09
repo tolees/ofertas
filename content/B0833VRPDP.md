@@ -14,11 +14,11 @@ comparePrice: 22.98 USD
 inStock: true
 ---
 
-Ahora mismo tienes [The Current War: Director s Cut](https://www.amazon.com/dp/B0833VRPDP/?tag=redken08-20) a 15.66 USD (original: 22.98 USD) (31.85 %  de descuento) en el siguiente enlace!
+Está [The Current War: Director s Cut](https://www.amazon.com/dp/B0833VRPDP/?tag=redken08-20) con 31.85 de descuento por 15.66 USD (original: 22.98 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Am8tvN-ZL._SL200_.jpg)](https://www.amazon.com/dp/B0833VRPDP/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B0833VRPDP/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B0833VRPDP/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
