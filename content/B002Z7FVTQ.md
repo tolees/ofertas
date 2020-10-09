@@ -14,11 +14,11 @@ comparePrice: 70.85 EUR
 inStock: true
 ---
 
-Está [D&G 3 L IMPERATRICE EDT 100ML](https://www.amazon.it/dp/B002Z7FVTQ/?tag=redken03-21) con 54.90 de descuento por 31.95 EUR (original: 70.85 EUR) en el siguiente enlace!
+Ahora mismo tienes [D&G 3 L IMPERATRICE EDT 100ML](https://www.amazon.it/dp/B002Z7FVTQ/?tag=redken03-21) a 31.95 EUR (original: 70.85 EUR) (54.90 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ovFz1OxEL._SL200_.jpg)](https://www.amazon.it/dp/B002Z7FVTQ/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B002Z7FVTQ/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B002Z7FVTQ/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

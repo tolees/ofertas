@@ -14,11 +14,11 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   41 EU](https://www.amazon.es/dp/B07JGDB7G6/?tag=redken-21) a 60 EUR (original: 99.99 EUR) (39.99 %  de descuento) en el siguiente enlace!
+Está [Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   41 EU](https://www.amazon.es/dp/B07JGDB7G6/?tag=redken-21) con 39.99 de descuento por 60 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg)](https://www.amazon.es/dp/B07JGDB7G6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JGDB7G6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JGDB7G6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

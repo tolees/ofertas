@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER GWC3600L20-QW - Soplador  a al 40.78 % de descuento'
-date: 2020-10-03 15:13:08
+date: 2020-10-09 13:13:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eJiLh9kXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eJiLh9kXL._SL200_.jpg' ]
 comments: true

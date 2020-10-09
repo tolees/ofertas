@@ -14,11 +14,11 @@ comparePrice: 27.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Gillette Fusion ProGlide - Razor with FlexBall  10 refills ](https://www.amazon.co.uk/dp/B01B4POC3A/?tag=redken01-21) a 20.0 GBP (original: 27.0 GBP) (25.93 %  de descuento) en el siguiente enlace!
+Está [Gillette Fusion ProGlide - Razor with FlexBall  10 refills ](https://www.amazon.co.uk/dp/B01B4POC3A/?tag=redken01-21) con 25.93 de descuento por 20.0 GBP (original: 27.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Yog0Mk9xL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01B4POC3A/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01B4POC3A/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01B4POC3A/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

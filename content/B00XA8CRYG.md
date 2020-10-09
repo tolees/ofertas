@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Knorr - Ravioli de carne  250 g al 45.05 % de descuento'
-date: 2020-10-01 07:49:31
+date: 2020-10-09 13:17:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41meaLiRvgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41meaLiRvgL._SL200_.jpg' ]
 comments: true
