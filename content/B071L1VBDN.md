@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX Impact DDR4 HX424S14IB2/8 Memoria al 31.84 % de descuento'
-date: 2020-10-08 04:40:30
+date: 2020-10-09 04:46:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vEtmEMn-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vEtmEMn-L._SL200_.jpg' ]
 comments: true

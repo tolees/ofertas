@@ -14,11 +14,11 @@ comparePrice: 56.99 GBP
 inStock: true
 ---
 
-Está [MAJOZ0 LED Lighting Kit for LEGO 21313 Ideas Ship in a Bottle  Not Include the Lego Set ](https://www.amazon.co.uk/dp/B086QSQZSY/?tag=redken01-21) con 45.62 de descuento por 30.99 GBP (original: 56.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [MAJOZ0 LED Lighting Kit for LEGO 21313 Ideas Ship in a Bottle  Not Include the Lego Set ](https://www.amazon.co.uk/dp/B086QSQZSY/?tag=redken01-21) a 30.99 GBP (original: 56.99 GBP) (45.62 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41u+Pkf6z+L._SL200_.jpg)](https://www.amazon.co.uk/dp/B086QSQZSY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B086QSQZSY/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B086QSQZSY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

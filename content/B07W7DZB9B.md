@@ -14,11 +14,11 @@ comparePrice: 32.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop! Rides Disney: Cinderella - Cinderella s Carriage](https://www.amazon.com/dp/B07W7DZB9B/?tag=redken08-20) a 18.49 USD (original: 32.99 USD) (43.95 %  de descuento) en el siguiente enlace!
+Está [Funko Pop! Rides Disney: Cinderella - Cinderella s Carriage](https://www.amazon.com/dp/B07W7DZB9B/?tag=redken08-20) con 43.95 de descuento por 18.49 USD (original: 32.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41KIXu9ecdL._SL200_.jpg)](https://www.amazon.com/dp/B07W7DZB9B/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07W7DZB9B/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07W7DZB9B/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

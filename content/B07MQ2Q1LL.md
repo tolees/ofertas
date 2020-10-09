@@ -14,11 +14,11 @@ comparePrice: 89.0 EUR
 inStock: true
 ---
 
-Está [HKT by Hackett Hkt LS Str Rby Polo   Red/White 2ah   Small para Hombre](https://www.amazon.es/dp/B07MQ2Q1LL/?tag=redken-21) con 78.03 de descuento por 19.55 EUR (original: 89.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [HKT by Hackett Hkt LS Str Rby Polo   Red/White 2ah   Small para Hombre](https://www.amazon.es/dp/B07MQ2Q1LL/?tag=redken-21) a 19.55 EUR (original: 89.0 EUR) (78.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41oSzT5ftuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MQ2Q1LL/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07MQ2Q1LL/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07MQ2Q1LL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

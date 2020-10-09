@@ -14,11 +14,11 @@ comparePrice: 44.95 GBP
 inStock: true
 ---
 
-Está [Mr. Beams High Performance Wireless Battery Powered Motion Sensing LED Dual Head Security Spotlight  Plastic  Brown  500 lm](https://www.amazon.co.uk/dp/B01JFZKW6C/?tag=redken01-21) con 36.48 de descuento por 28.55 GBP (original: 44.95 GBP) en el siguiente enlace!
+Ahora mismo tienes [Mr. Beams High Performance Wireless Battery Powered Motion Sensing LED Dual Head Security Spotlight  Plastic  Brown  500 lm](https://www.amazon.co.uk/dp/B01JFZKW6C/?tag=redken01-21) a 28.55 GBP (original: 44.95 GBP) (36.48 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41G1wWEogKL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01JFZKW6C/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01JFZKW6C/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01JFZKW6C/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

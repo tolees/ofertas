@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Pentel Pen N50 Marcatore Permanente Punt'
-date: 2020-10-08 04:36:36
+date: 2020-10-09 04:39:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31PZKU9l+EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31PZKU9l+EL._SL200_.jpg' ]
 comments: true
