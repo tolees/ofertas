@@ -14,11 +14,11 @@ comparePrice: 12.7 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Té Yunnan Puerh 100g  0.22LB  conservas Jazmín Puer pequeño Tuocha Pu er té maduro Té chino Té Pu er Té negro Té Puer Pu er té Pu-erh té Árboles viejos Pu er té cocido Té rojo](https://www.amazon.es/dp/B07GLD2VT4/?tag=redken-21) a 6.35 EUR (original: 12.7 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Té Yunnan Puerh 100g  0.22LB  conservas Jazmín Puer pequeño Tuocha Pu er té maduro Té chino Té Pu er Té negro Té Puer Pu er té Pu-erh té Árboles viejos Pu er té cocido Té rojo](https://www.amazon.es/dp/B07GLD2VT4/?tag=redken-21) con 50.00 de descuento por 6.35 EUR (original: 12.7 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Hv7CFrQNL._SL200_.jpg)](https://www.amazon.es/dp/B07GLD2VT4/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07GLD2VT4/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07GLD2VT4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

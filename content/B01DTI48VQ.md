@@ -14,11 +14,11 @@ comparePrice: 9.33 USD
 inStock: true
 ---
 
-Está [LEGO Chicken Suit Guy Minifigure with Coop](https://www.amazon.com/dp/B01DTI48VQ/?tag=redken08-20) con 43.19 de descuento por 5.3 USD (original: 9.33 USD) en el siguiente enlace!
+Ahora mismo tienes [LEGO Chicken Suit Guy Minifigure with Coop](https://www.amazon.com/dp/B01DTI48VQ/?tag=redken08-20) a 5.3 USD (original: 9.33 USD) (43.19 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/515ni2cciIL._SL200_.jpg)](https://www.amazon.com/dp/B01DTI48VQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01DTI48VQ/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01DTI48VQ/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

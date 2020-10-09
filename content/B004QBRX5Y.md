@@ -14,11 +14,11 @@ comparePrice: 11.57 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [OROFLUIDO Mask Mascarilla - 250 ml](https://www.amazon.es/dp/B004QBRX5Y/?tag=redken-21) a 6.95 EUR (original: 11.57 EUR) (39.93 %  de descuento) en el siguiente enlace!
+Está [OROFLUIDO Mask Mascarilla - 250 ml](https://www.amazon.es/dp/B004QBRX5Y/?tag=redken-21) con 39.93 de descuento por 6.95 EUR (original: 11.57 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hcOqY4tvL._SL200_.jpg)](https://www.amazon.es/dp/B004QBRX5Y/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B004QBRX5Y/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B004QBRX5Y/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

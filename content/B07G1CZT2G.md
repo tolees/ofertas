@@ -14,11 +14,11 @@ comparePrice: 399.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AUNA Connect System Equipo estéreo - Equipo de música  Radio por Internet/Dab+/FM  80 W  CD  USB  Bluetooth  Spotify Connect  Mando  Plata](https://www.amazon.es/dp/B07G1CZT2G/?tag=redken-21) a 159.99 EUR (original: 399.99 EUR) (60.00 %  de descuento) en el siguiente enlace!
+Está [AUNA Connect System Equipo estéreo - Equipo de música  Radio por Internet/Dab+/FM  80 W  CD  USB  Bluetooth  Spotify Connect  Mando  Plata](https://www.amazon.es/dp/B07G1CZT2G/?tag=redken-21) con 60.00 de descuento por 159.99 EUR (original: 399.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31cf5BMaZ5L._SL200_.jpg)](https://www.amazon.es/dp/B07G1CZT2G/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07G1CZT2G/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07G1CZT2G/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
