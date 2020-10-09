@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto E6 Plus  pantalla 6 1" max al 35.74 % de descuento'
-date: 2020-10-08 17:07:44
+date: 2020-10-09 19:14:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ldXTuWGbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ldXTuWGbL._SL200_.jpg' ]
 comments: true

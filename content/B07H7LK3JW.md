@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Luz Nocturna Infantil OMERIL Luz Quitami al 30.02 % de descuento'
-date: 2020-10-03 17:38:10
+date: 2020-10-09 19:22:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41I+ZgGVRDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41I+ZgGVRDL._SL200_.jpg' ]
 comments: true

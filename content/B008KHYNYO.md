@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Sphere Camera Kit - Cámara Dep al 51.30 % de descuento'
-date: 2020-10-06 13:23:35
+date: 2020-10-09 19:23:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31d0d0U7fmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31d0d0U7fmL._SL200_.jpg' ]
 comments: true

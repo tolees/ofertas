@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bluetooth Headset V5.0 Honshoop Dual-Mic al 42.86 % de descuento'
-date: 2020-10-08 18:34:54
+date: 2020-10-09 19:05:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qAjGnuACL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qAjGnuACL._SL200_.jpg' ]
 comments: true

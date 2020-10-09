@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en RangeXTD WiFi Extender 2-Antenna System '
-date: 2020-10-08 18:39:50
+date: 2020-10-09 19:03:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/216DXMteNlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/216DXMteNlL._SL200_.jpg' ]
 comments: true
