@@ -14,11 +14,11 @@ comparePrice: 2.83 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Jordans Simply Granola  750 g](https://www.amazon.co.uk/dp/B00WUM1K9G/?tag=redken01-21) a 2.0 GBP (original: 2.83 GBP) (29.33 %  de descuento) en el siguiente enlace!
+Está [Jordans Simply Granola  750 g](https://www.amazon.co.uk/dp/B00WUM1K9G/?tag=redken01-21) con 29.33 de descuento por 2.0 GBP (original: 2.83 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KB5BsQz8L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00WUM1K9G/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00WUM1K9G/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00WUM1K9G/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

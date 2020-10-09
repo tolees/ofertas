@@ -14,11 +14,11 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Está [Revell 06759 Star Wars Episode VIII Build & Play Red A-Wing Fighter  With Lights & Sounds](https://www.amazon.co.uk/dp/B01N4TOFVF/?tag=redken01-21) con 49.82 de descuento por 12.54 GBP (original: 24.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Revell 06759 Star Wars Episode VIII Build & Play Red A-Wing Fighter  With Lights & Sounds](https://www.amazon.co.uk/dp/B01N4TOFVF/?tag=redken01-21) a 12.54 GBP (original: 24.99 GBP) (49.82 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61JZErGcbLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01N4TOFVF/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01N4TOFVF/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01N4TOFVF/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 150.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Ecco RUGGED TRACK  Men s Hiking Boots Multisport Outdoor Shoes  Dark Clay/Coffee  DARK CLAY/COFFEE56098   12.5 UK  47 EU ](https://www.amazon.co.uk/dp/B0163GAQYY/?tag=redken01-21) a 92.99 GBP (original: 150.0 GBP) (38.01 %  de descuento) en el siguiente enlace!
+Está [Ecco RUGGED TRACK  Men s Hiking Boots Multisport Outdoor Shoes  Dark Clay/Coffee  DARK CLAY/COFFEE56098   12.5 UK  47 EU ](https://www.amazon.co.uk/dp/B0163GAQYY/?tag=redken01-21) con 38.01 de descuento por 92.99 GBP (original: 150.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UZSnoK8sL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B0163GAQYY/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B0163GAQYY/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B0163GAQYY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

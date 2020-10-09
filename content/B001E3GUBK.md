@@ -14,11 +14,11 @@ comparePrice: 25.61 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pentel PG1015 - Portaminas 0.5mm](https://www.amazon.es/dp/B001E3GUBK/?tag=redken-21) a 13.04 EUR (original: 25.61 EUR) (49.08 %  de descuento) en el siguiente enlace!
+Está [Pentel PG1015 - Portaminas 0.5mm](https://www.amazon.es/dp/B001E3GUBK/?tag=redken-21) con 49.08 de descuento por 13.04 EUR (original: 25.61 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/310YL1zkCcL._SL200_.jpg)](https://www.amazon.es/dp/B001E3GUBK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B001E3GUBK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001E3GUBK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

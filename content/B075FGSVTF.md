@@ -14,11 +14,11 @@ comparePrice: 799.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Olympus V207074BE000 E-M10 Mark III Compact System Camera Double Zoom Lens Kit - Black](https://www.amazon.co.uk/dp/B075FGSVTF/?tag=redken01-21) a 549.0 GBP (original: 799.99 GBP) (31.37 %  de descuento) en el siguiente enlace!
+Está [Olympus V207074BE000 E-M10 Mark III Compact System Camera Double Zoom Lens Kit - Black](https://www.amazon.co.uk/dp/B075FGSVTF/?tag=redken01-21) con 31.37 de descuento por 549.0 GBP (original: 799.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ux1SmwwEL._SL200_.jpg)](https://www.amazon.co.uk/dp/B075FGSVTF/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B075FGSVTF/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B075FGSVTF/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

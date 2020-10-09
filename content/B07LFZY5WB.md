@@ -14,11 +14,11 @@ comparePrice: 37.7 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox D Myria A  Zapatillas para Mujer  Beige  Champagne/Off White Cb51q   35 EU](https://www.amazon.es/dp/B07LFZY5WB/?tag=redken-21) a 25.94 EUR (original: 37.7 EUR) (31.19 %  de descuento) en el siguiente enlace!
+Está [Geox D Myria A  Zapatillas para Mujer  Beige  Champagne/Off White Cb51q   35 EU](https://www.amazon.es/dp/B07LFZY5WB/?tag=redken-21) con 31.19 de descuento por 25.94 EUR (original: 37.7 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41TSvGYYOaL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LFZY5WB/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07LFZY5WB/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07LFZY5WB/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 10.32 GBP
 inStock: true
 ---
 
-Está [Funko 26901 Pop Marvel Avengers Infinity War - Ebony Maw Collectible Figure](https://www.amazon.co.uk/dp/B079PZR6CR/?tag=redken01-21) con 32.46 de descuento por 6.97 GBP (original: 10.32 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 26901 Pop Marvel Avengers Infinity War - Ebony Maw Collectible Figure](https://www.amazon.co.uk/dp/B079PZR6CR/?tag=redken01-21) a 6.97 GBP (original: 10.32 GBP) (32.46 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51aW-proglL._SL200_.jpg)](https://www.amazon.co.uk/dp/B079PZR6CR/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B079PZR6CR/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B079PZR6CR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

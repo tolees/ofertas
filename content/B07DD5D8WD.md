@@ -14,11 +14,11 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nella The Knight - Disfraz de la Princesa Nella para niña  infantil 3-4 años  Rubie s 640987-S ](https://www.amazon.es/dp/B07DD5D8WD/?tag=redken-21) a 11.85 EUR (original: 29.99 EUR) (60.49 %  de descuento) en el siguiente enlace!
+Está [Nella The Knight - Disfraz de la Princesa Nella para niña  infantil 3-4 años  Rubie s 640987-S ](https://www.amazon.es/dp/B07DD5D8WD/?tag=redken-21) con 60.49 de descuento por 11.85 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41oBb1+y-lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07DD5D8WD/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DD5D8WD/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DD5D8WD/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

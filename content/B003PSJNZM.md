@@ -14,11 +14,11 @@ comparePrice: 4.99 GBP
 inStock: true
 ---
 
-Está [Ancol Small Animal Tuff Tube  Extends 18-75 Centimeter  Colour May Vary](https://www.amazon.co.uk/dp/B003PSJNZM/?tag=redken01-21) con 52.10 de descuento por 2.39 GBP (original: 4.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Ancol Small Animal Tuff Tube  Extends 18-75 Centimeter  Colour May Vary](https://www.amazon.co.uk/dp/B003PSJNZM/?tag=redken01-21) a 2.39 GBP (original: 4.99 GBP) (52.10 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FxOmDZlAL._SL200_.jpg)](https://www.amazon.co.uk/dp/B003PSJNZM/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B003PSJNZM/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B003PSJNZM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
