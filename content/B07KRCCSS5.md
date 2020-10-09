@@ -14,11 +14,11 @@ comparePrice: 50.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance Women s 411 Running Shoes  Black Black Pink   9 UK 43 EU](https://www.amazon.co.uk/dp/B07KRCCSS5/?tag=redken01-21) a 15.42 GBP (original: 50.0 GBP) (69.16 %  de descuento) en el siguiente enlace!
+Está [New Balance Women s 411 Running Shoes  Black Black Pink   9 UK 43 EU](https://www.amazon.co.uk/dp/B07KRCCSS5/?tag=redken01-21) con 69.16 de descuento por 15.42 GBP (original: 50.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41RKQqSP6bL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KRCCSS5/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07KRCCSS5/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KRCCSS5/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

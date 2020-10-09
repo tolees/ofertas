@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Razer Nari Essential Auriculares Inalámb'
-date: 2020-10-07 15:07:10
+date: 2020-10-09 10:11:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mSY0jv-FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mSY0jv-FL._SL200_.jpg' ]
 comments: true

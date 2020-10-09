@@ -14,11 +14,11 @@ comparePrice: 6.33 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Luceco lfs6b130 de la UE a +  Foco LED  aluminio  8 Watts  Negro  33 x 28 5 x 15 cm](https://www.amazon.es/dp/B01M2WDJR4/?tag=redken-21) a 4.36 EUR (original: 6.33 EUR) (31.12 %  de descuento) en el siguiente enlace!
+Está [Luceco lfs6b130 de la UE a +  Foco LED  aluminio  8 Watts  Negro  33 x 28 5 x 15 cm](https://www.amazon.es/dp/B01M2WDJR4/?tag=redken-21) con 31.12 de descuento por 4.36 EUR (original: 6.33 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41svd-VjPjL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M2WDJR4/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01M2WDJR4/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M2WDJR4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

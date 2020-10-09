@@ -14,11 +14,11 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superdry Core Sport Graphic tee Top de Deporte  Gris  Light Grey Marl 41q   Small para Hombre](https://www.amazon.es/dp/B07P3JSWXC/?tag=redken-21) a 12.73 EUR (original: 29.99 EUR) (57.55 %  de descuento) en el siguiente enlace!
+Está [Superdry Core Sport Graphic tee Top de Deporte  Gris  Light Grey Marl 41q   Small para Hombre](https://www.amazon.es/dp/B07P3JSWXC/?tag=redken-21) con 57.55 de descuento por 12.73 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41gMqCl+NUL._SL200_.jpg)](https://www.amazon.es/dp/B07P3JSWXC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07P3JSWXC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07P3JSWXC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

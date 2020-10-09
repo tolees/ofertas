@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.88 % en Diadema/protector de la frente Jebester '
-date: 2020-10-04 13:22:40
+date: 2020-10-09 10:06:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31RSAp-jA5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31RSAp-jA5L._SL200_.jpg' ]
 comments: true
