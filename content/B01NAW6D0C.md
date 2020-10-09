@@ -14,11 +14,11 @@ comparePrice: 80.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The North Face Sudadera Drew Peak  Hombre  TNF Medium Grey Heather/TNF Black  Large](https://www.amazon.es/dp/B01NAW6D0C/?tag=redken-21) a 48.99 EUR (original: 80.0 EUR) (38.76 %  de descuento) en el siguiente enlace!
+Está [The North Face Sudadera Drew Peak  Hombre  TNF Medium Grey Heather/TNF Black  Large](https://www.amazon.es/dp/B01NAW6D0C/?tag=redken-21) con 38.76 de descuento por 48.99 EUR (original: 80.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ZMk-SlACL._SL200_.jpg)](https://www.amazon.es/dp/B01NAW6D0C/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01NAW6D0C/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01NAW6D0C/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

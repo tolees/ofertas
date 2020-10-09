@@ -14,11 +14,11 @@ comparePrice: 449.99 GBP
 inStock: true
 ---
 
-Está [Microsoft Lumia 950 5.2 inch 32 GB SIM-Free Smartphone - Black](https://www.amazon.co.uk/dp/B016BOFYT0/?tag=redken01-21) con 83.34 de descuento por 74.99 GBP (original: 449.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Microsoft Lumia 950 5.2 inch 32 GB SIM-Free Smartphone - Black](https://www.amazon.co.uk/dp/B016BOFYT0/?tag=redken01-21) a 74.99 GBP (original: 449.99 GBP) (83.34 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41hy+AJwekL._SL200_.jpg)](https://www.amazon.co.uk/dp/B016BOFYT0/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B016BOFYT0/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B016BOFYT0/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

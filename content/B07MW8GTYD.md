@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 31.95 % en Sony α 6400 + SEL18135 MILC 24 2 MP CMOS'
-date: 2020-10-08 05:03:39
+title: 'Sony α 6400 + SEL18135 MILC 24 2 MP CMOS al 32.01 % de descuento'
+date: 2020-10-09 11:12:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xmhsUpj1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xmhsUpj1L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07MW8GTYD
 description:
-actualPrice: 1209.9 EUR
+actualPrice: 1208.9 EUR
 comparePrice: 1777.94 EUR
 inStock: true
 ---
 
-Tienes [Sony α 6400 + SEL18135 MILC 24 2 MP CMOS 6000 x 4000 Pixel Nero](https://www.amazon.it/dp/B07MW8GTYD/?tag=redken03-21) con un 31.95 % de descuento con precio de oferta de 1209.9 EUR (original: 1777.94 EUR) en el siguiente enlace!
+Está [Sony α 6400 + SEL18135 MILC 24 2 MP CMOS 6000 x 4000 Pixel Nero](https://www.amazon.it/dp/B07MW8GTYD/?tag=redken03-21) con 32.01 de descuento por 1208.9 EUR (original: 1777.94 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51xmhsUpj1L._SL200_.jpg)](https://www.amazon.it/dp/B07MW8GTYD/?tag=redken03-21)
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B07MW8GTYD/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07MW8GTYD/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

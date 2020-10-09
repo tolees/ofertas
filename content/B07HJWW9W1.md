@@ -14,11 +14,11 @@ comparePrice: 15.99 GBP
 inStock: true
 ---
 
-Está [Metallic Marker Pens  Funnasting Set of 10 Assorted Colours Painting Pens Art Marker for Card Making  Scrapbooking  DIY Photo Album  Plastic  Glass  Metal  Wood  Stone  Clothes and Pottery](https://www.amazon.co.uk/dp/B07HJWW9W1/?tag=redken01-21) con 37.52 de descuento por 9.99 GBP (original: 15.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Metallic Marker Pens  Funnasting Set of 10 Assorted Colours Painting Pens Art Marker for Card Making  Scrapbooking  DIY Photo Album  Plastic  Glass  Metal  Wood  Stone  Clothes and Pottery](https://www.amazon.co.uk/dp/B07HJWW9W1/?tag=redken01-21) a 9.99 GBP (original: 15.99 GBP) (37.52 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51IKAwdcEQL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HJWW9W1/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HJWW9W1/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07HJWW9W1/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

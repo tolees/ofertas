@@ -14,11 +14,11 @@ comparePrice: 32.99 USD
 inStock: true
 ---
 
-Está [Funko Pop! Town: Batman 80th - Wayne Manner with Alfred](https://www.amazon.com/dp/B07W45KSVX/?tag=redken08-20) con 27.95 de descuento por 23.77 USD (original: 32.99 USD) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop! Town: Batman 80th - Wayne Manner with Alfred](https://www.amazon.com/dp/B07W45KSVX/?tag=redken08-20) a 23.77 USD (original: 32.99 USD) (27.95 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Shcy9A44L._SL200_.jpg)](https://www.amazon.com/dp/B07W45KSVX/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07W45KSVX/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07W45KSVX/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

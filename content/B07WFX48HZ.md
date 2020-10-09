@@ -14,11 +14,11 @@ comparePrice: 39.92 GBP
 inStock: true
 ---
 
-Está [Vera Wang Princess Gift Set includes 30ml EDT and 118ml Body Mist](https://www.amazon.co.uk/dp/B07WFX48HZ/?tag=redken01-21) con 37.45 de descuento por 24.97 GBP (original: 39.92 GBP) en el siguiente enlace!
+Ahora mismo tienes [Vera Wang Princess Gift Set includes 30ml EDT and 118ml Body Mist](https://www.amazon.co.uk/dp/B07WFX48HZ/?tag=redken01-21) a 24.97 GBP (original: 39.92 GBP) (37.45 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51M2HwF2QgL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WFX48HZ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07WFX48HZ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07WFX48HZ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

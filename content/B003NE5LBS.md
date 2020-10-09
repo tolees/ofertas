@@ -14,11 +14,11 @@ comparePrice: 20.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lego 40031734  - Caja de almacenamiento para bloques de construcción color verde parchís](https://www.amazon.es/dp/B003NE5LBS/?tag=redken-21) a 14.42 EUR (original: 20.99 EUR) (31.30 %  de descuento) en el siguiente enlace!
+Está [Lego 40031734  - Caja de almacenamiento para bloques de construcción color verde parchís](https://www.amazon.es/dp/B003NE5LBS/?tag=redken-21) con 31.30 de descuento por 14.42 EUR (original: 20.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Y6SOLMKWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B003NE5LBS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B003NE5LBS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B003NE5LBS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
