@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.74 % en L Oreal Paris Dermo Expertise - Arcillas'
-date: 2020-10-05 11:26:07
+date: 2020-10-09 12:24:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31n6xc0QHsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31n6xc0QHsL._SL200_.jpg' ]
 comments: true

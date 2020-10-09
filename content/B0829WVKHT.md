@@ -14,11 +14,11 @@ comparePrice: 267.47 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GODNECE Technic Container Truck  902Pcs Moc Container Trailer Tail Box Model Building Blocks Technic Compatible with Lego](https://www.amazon.co.uk/dp/B0829WVKHT/?tag=redken01-21) a 106.99 GBP (original: 267.47 GBP) (60.00 %  de descuento) en el siguiente enlace!
+Está [GODNECE Technic Container Truck  902Pcs Moc Container Trailer Tail Box Model Building Blocks Technic Compatible with Lego](https://www.amazon.co.uk/dp/B0829WVKHT/?tag=redken01-21) con 60.00 de descuento por 106.99 GBP (original: 267.47 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41f9BZex9ZL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B0829WVKHT/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B0829WVKHT/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B0829WVKHT/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

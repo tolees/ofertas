@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nenuco de Famosa- 700014781 Muñeco Bland al 28.78 % de descuento'
-date: 2020-10-08 12:43:17
+date: 2020-10-09 12:44:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YYRI0zJfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YYRI0zJfL._SL200_.jpg' ]
 comments: true

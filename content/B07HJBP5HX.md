@@ -14,11 +14,11 @@ comparePrice: 9.31 GBP
 inStock: true
 ---
 
-Está [Funko 34390 POP Vinyl: South Park W2: Mr Hankey  Multi](https://www.amazon.co.uk/dp/B07HJBP5HX/?tag=redken01-21) con 34.16 de descuento por 6.13 GBP (original: 9.31 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 34390 POP Vinyl: South Park W2: Mr Hankey  Multi](https://www.amazon.co.uk/dp/B07HJBP5HX/?tag=redken01-21) a 6.13 GBP (original: 9.31 GBP) (34.16 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bOaK6cG0L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HJBP5HX/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HJBP5HX/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07HJBP5HX/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

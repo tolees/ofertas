@@ -14,11 +14,11 @@ comparePrice: 13.6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [6x Cuaderno de notas Notebook VINTAGE Tapa Kraft Papel Crema LISO especial para Estilografica Roller Rlotulador Pluma 4419a](https://www.amazon.es/dp/B07B6QCDBH/?tag=redken-21) a 9.95 EUR (original: 13.6 EUR) (26.84 %  de descuento) en el siguiente enlace!
+Está [6x Cuaderno de notas Notebook VINTAGE Tapa Kraft Papel Crema LISO especial para Estilografica Roller Rlotulador Pluma 4419a](https://www.amazon.es/dp/B07B6QCDBH/?tag=redken-21) con 26.84 de descuento por 9.95 EUR (original: 13.6 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51bZ9JJ6ULL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B6QCDBH/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07B6QCDBH/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B6QCDBH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

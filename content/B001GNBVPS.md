@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 72.74 % en Max Factor Crème Puff Polvos Compactos T'
-date: 2020-10-07 08:30:40
+date: 2020-10-09 12:15:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41q80aCd4gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41q80aCd4gL._SL200_.jpg' ]
 comments: true
