@@ -14,11 +14,11 @@ comparePrice: 3.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Faber-Castell 120511 - Minas  12 unidades](https://www.amazon.es/dp/B000KJVCQC/?tag=redken-21) a 1.25 EUR (original: 3.99 EUR) (68.67 %  de descuento) en el siguiente enlace!
+Está [Faber-Castell 120511 - Minas  12 unidades](https://www.amazon.es/dp/B000KJVCQC/?tag=redken-21) con 68.67 de descuento por 1.25 EUR (original: 3.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31BiZOzlV4L._SL200_.jpg)](https://www.amazon.es/dp/B000KJVCQC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000KJVCQC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000KJVCQC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

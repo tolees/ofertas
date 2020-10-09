@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.17 % en Simple Mobile Prepaid - Apple iPhone XR '
-date: 2020-10-07 09:43:59
+title: 'Descuento del 33.50 % en Simple Mobile Prepaid - Apple iPhone XR '
+date: 2020-10-09 00:09:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f3kTEmyzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f3kTEmyzL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07K97BQDF
 description:
-actualPrice: 449.0 USD
+actualPrice: 399.0 USD
 comparePrice: 599.99 USD
 inStock: true
 ---
 
-Tienes [Simple Mobile Prepaid - Apple iPhone XR  64GB  - Red [Locked to Carrier – Simple Mobile]](https://www.amazon.com/dp/B07K97BQDF/?tag=redken08-20) con un 25.17 % de descuento con precio de oferta de 449.0 USD (original: 599.99 USD) en el siguiente enlace!
+Tienes [Simple Mobile Prepaid - Apple iPhone XR  64GB  - Red [Locked to Carrier – Simple Mobile]](https://www.amazon.com/dp/B07K97BQDF/?tag=redken08-20) con un 33.50 % de descuento con precio de oferta de 399.0 USD (original: 599.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41f3kTEmyzL._SL200_.jpg)](https://www.amazon.com/dp/B07K97BQDF/?tag=redken08-20)
 

@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Scalextric Advnce Coche Mercedes AMG GT3 Sports Code Escala 1/32  Multicolor  E10284S300 ](https://www.amazon.es/dp/B07VJJBBJZ/?tag=redken-21) a 35.49 EUR (original: 49.99 EUR) (29.01 %  de descuento) en el siguiente enlace!
+Está [Scalextric Advnce Coche Mercedes AMG GT3 Sports Code Escala 1/32  Multicolor  E10284S300 ](https://www.amazon.es/dp/B07VJJBBJZ/?tag=redken-21) con 29.01 de descuento por 35.49 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/417000mZX3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07VJJBBJZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07VJJBBJZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07VJJBBJZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

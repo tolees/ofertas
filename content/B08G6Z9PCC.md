@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Irishman  The Criterion Collection   al 26.18 % de descuento'
-date: 2020-09-29 17:37:17
+date: 2020-10-09 00:40:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y6vw1SlGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y6vw1SlGL._SL200_.jpg' ]
 comments: true
@@ -19,5 +19,7 @@ Ahora mismo tienes [The Irishman  The Criterion Collection  [Blu-ray]](https://w
 [![](https://m.media-amazon.com/images/I/41Y6vw1SlGL._SL200_.jpg)](https://www.amazon.com/dp/B08G6Z9PCC/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B08G6Z9PCC/?tag=redken08-20)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

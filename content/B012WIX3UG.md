@@ -14,11 +14,11 @@ comparePrice: 6.91 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [151Y12 - Aceitera Cristal Tapon Corcho 1/2L](https://www.amazon.es/dp/B012WIX3UG/?tag=redken-21) a 3.6 EUR (original: 6.91 EUR) (47.90 %  de descuento) en el siguiente enlace!
+Está [151Y12 - Aceitera Cristal Tapon Corcho 1/2L](https://www.amazon.es/dp/B012WIX3UG/?tag=redken-21) con 47.90 de descuento por 3.6 EUR (original: 6.91 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/21vVnRU4F4L._SL500_._AC_._SL200_.jpg)](https://www.amazon.es/dp/B012WIX3UG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B012WIX3UG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B012WIX3UG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
