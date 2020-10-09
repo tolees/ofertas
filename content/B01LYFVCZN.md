@@ -14,11 +14,11 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Está [Playmobil 9259 Horse Therapist](https://www.amazon.co.uk/dp/B01LYFVCZN/?tag=redken01-21) con 50.65 de descuento por 4.93 GBP (original: 9.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Playmobil 9259 Horse Therapist](https://www.amazon.co.uk/dp/B01LYFVCZN/?tag=redken01-21) a 4.93 GBP (original: 9.99 GBP) (50.65 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51dLNBXCNrL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LYFVCZN/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01LYFVCZN/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01LYFVCZN/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

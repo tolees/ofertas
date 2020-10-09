@@ -14,11 +14,11 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Switch Nintendo Labo: Kit de VR - Set de expansión 1](https://www.amazon.es/dp/B07PLSNTQD/?tag=redken-21) a 9.99 EUR (original: 19.9 EUR) (49.80 %  de descuento) en el siguiente enlace!
+Está [Switch Nintendo Labo: Kit de VR - Set de expansión 1](https://www.amazon.es/dp/B07PLSNTQD/?tag=redken-21) con 49.80 de descuento por 9.99 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41IvKHN7wRL._SL200_.jpg)](https://www.amazon.es/dp/B07PLSNTQD/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07PLSNTQD/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PLSNTQD/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

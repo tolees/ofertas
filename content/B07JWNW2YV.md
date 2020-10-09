@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pantene Pro-V Superalimento Fuerza&Cuerp al 36.25 % de descuento'
-date: 2020-10-06 16:43:14
+date: 2020-10-09 18:35:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yeKnJrXrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yeKnJrXrL._SL200_.jpg' ]
 comments: true

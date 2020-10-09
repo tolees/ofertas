@@ -14,11 +14,11 @@ comparePrice: 55.0 GBP
 inStock: true
 ---
 
-Está [Kickers Junior Kick Kilo J Core Kids Unisex Boots  Black  Black   13 UK Child](https://www.amazon.co.uk/dp/B001JDASEA/?tag=redken01-21) con 54.55 de descuento por 25.0 GBP (original: 55.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Kickers Junior Kick Kilo J Core Kids Unisex Boots  Black  Black   13 UK Child](https://www.amazon.co.uk/dp/B001JDASEA/?tag=redken01-21) a 25.0 GBP (original: 55.0 GBP) (54.55 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41nLxeT9sLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B001JDASEA/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B001JDASEA/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B001JDASEA/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

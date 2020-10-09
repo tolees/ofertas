@@ -14,11 +14,11 @@ comparePrice: 5.97 EUR
 inStock: true
 ---
 
-Está [Aceite hidrosoluble 15ml Eucalipto](https://www.amazon.es/dp/B06XR6KTJM/?tag=redken-21) con 57.79 de descuento por 2.52 EUR (original: 5.97 EUR) en el siguiente enlace!
+Ahora mismo tienes [Aceite hidrosoluble 15ml Eucalipto](https://www.amazon.es/dp/B06XR6KTJM/?tag=redken-21) a 2.52 EUR (original: 5.97 EUR) (57.79 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41VqcDwh+jL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XR6KTJM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XR6KTJM/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XR6KTJM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 6.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rimmel London The Only One Lipstick Barra De Labios Mate Tono 510 - 3.4 gr](https://www.amazon.es/dp/B015CMGTL4/?tag=redken-21) a 4.22 EUR (original: 6.0 EUR) (29.67 %  de descuento) en el siguiente enlace!
+Está [Rimmel London The Only One Lipstick Barra De Labios Mate Tono 510 - 3.4 gr](https://www.amazon.es/dp/B015CMGTL4/?tag=redken-21) con 29.67 de descuento por 4.22 EUR (original: 6.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31wIPNa8K7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B015CMGTL4/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015CMGTL4/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B015CMGTL4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
