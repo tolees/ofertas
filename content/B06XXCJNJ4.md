@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Mujer 574v2 Core  Zapatillas al 27.31 % de descuento'
-date: 2020-10-07 10:31:33
+date: 2020-10-09 16:58:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Esz8t+uOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Esz8t+uOL._SL200_.jpg' ]
 comments: true

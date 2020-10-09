@@ -14,11 +14,11 @@ comparePrice: 599.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Panasonic LUMIX DMC-GX80KEBK Professional Camera with 12-32 mm Lens - Black](https://www.amazon.co.uk/dp/B01E4ZRX7O/?tag=redken01-21) a 329.0 GBP (original: 599.99 GBP) (45.17 %  de descuento) en el siguiente enlace!
+Está [Panasonic LUMIX DMC-GX80KEBK Professional Camera with 12-32 mm Lens - Black](https://www.amazon.co.uk/dp/B01E4ZRX7O/?tag=redken01-21) con 45.17 de descuento por 329.0 GBP (original: 599.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41b6E7C-yuL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01E4ZRX7O/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01E4ZRX7O/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01E4ZRX7O/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

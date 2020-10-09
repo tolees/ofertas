@@ -14,11 +14,11 @@ comparePrice: 9.77 GBP
 inStock: true
 ---
 
-Está [Funko 43344 POP. Vinyl Games: Crash Bandicoot-Tiny Tiger Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07QCQB2QV/?tag=redken01-21) con 30.09 de descuento por 6.83 GBP (original: 9.77 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 43344 POP. Vinyl Games: Crash Bandicoot-Tiny Tiger Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07QCQB2QV/?tag=redken01-21) a 6.83 GBP (original: 9.77 GBP) (30.09 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41OspRE7glL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07QCQB2QV/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07QCQB2QV/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07QCQB2QV/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York - Polvos Fijadores T al 25.71 % de descuento'
-date: 2020-10-08 16:55:08
+date: 2020-10-09 16:56:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/413cw0ogOfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413cw0ogOfL._SL200_.jpg' ]
 comments: true

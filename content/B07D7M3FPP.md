@@ -14,11 +14,11 @@ comparePrice: 159.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Corel WordPerfect Office X9 - All in One Office Suite - Upgrade [PC Download]](https://www.amazon.com/dp/B07D7M3FPP/?tag=redken08-20) a 95.01 USD (original: 159.99 USD) (40.62 %  de descuento) en el siguiente enlace!
+Está [Corel WordPerfect Office X9 - All in One Office Suite - Upgrade [PC Download]](https://www.amazon.com/dp/B07D7M3FPP/?tag=redken08-20) con 40.62 de descuento por 95.01 USD (original: 159.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51s03tytyAL._SL200_.jpg)](https://www.amazon.com/dp/B07D7M3FPP/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07D7M3FPP/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07D7M3FPP/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
