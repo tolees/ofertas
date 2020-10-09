@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.35 % en Mattel BTS - Muñeco J-Hope  figura de co'
-date: 2020-10-04 08:23:41
+date: 2020-10-09 07:13:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sxbsdUm9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sxbsdUm9L._SL200_.jpg' ]
 comments: true

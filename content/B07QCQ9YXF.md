@@ -14,11 +14,11 @@ comparePrice: 10.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop! Marvel: 80th - Cyclops](https://www.amazon.com/dp/B07QCQ9YXF/?tag=redken08-20) a 5.99 USD (original: 10.99 USD) (45.50 %  de descuento) en el siguiente enlace!
+Está [Funko Pop! Marvel: 80th - Cyclops](https://www.amazon.com/dp/B07QCQ9YXF/?tag=redken08-20) con 45.50 de descuento por 5.99 USD (original: 10.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ddwJ4Y9+L._SL200_.jpg)](https://www.amazon.com/dp/B07QCQ9YXF/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07QCQ9YXF/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07QCQ9YXF/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

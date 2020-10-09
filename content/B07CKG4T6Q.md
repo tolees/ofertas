@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crest Pro Health Advanced Deep Clean Too al 45.54 % de descuento'
-date: 2020-10-07 21:47:50
+date: 2020-10-09 07:54:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/61U2gWrx+kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61U2gWrx+kL._SL200_.jpg' ]
 comments: true

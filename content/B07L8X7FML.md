@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ergobaby 360 All-Position Baby Carrier w al 31.10 % de descuento'
-date: 2020-10-07 21:48:23
+date: 2020-10-09 07:54:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/415ZJvNM3XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415ZJvNM3XL._SL200_.jpg' ]
 comments: true
