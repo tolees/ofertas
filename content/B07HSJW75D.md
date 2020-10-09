@@ -14,11 +14,11 @@ comparePrice: 13.49 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Fear The Walking Dead Season 4 [DVD] [2018]](https://www.amazon.co.uk/dp/B07HSJW75D/?tag=redken01-21) a 9.78 GBP (original: 13.49 GBP) (27.50 %  de descuento) en el siguiente enlace!
+Está [Fear The Walking Dead Season 4 [DVD] [2018]](https://www.amazon.co.uk/dp/B07HSJW75D/?tag=redken01-21) con 27.50 de descuento por 9.78 GBP (original: 13.49 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51IBG+KF6ZL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HSJW75D/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07HSJW75D/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HSJW75D/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

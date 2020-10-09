@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'QMORE Assemblage Vehicules de Chantier K al 29.54 % de descuento'
-date: 2020-10-08 05:38:52
+date: 2020-10-09 06:03:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vjvjhBqHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vjvjhBqHL._SL200_.jpg' ]
 comments: true

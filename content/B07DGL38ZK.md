@@ -14,11 +14,11 @@ comparePrice: 19.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Skullcandy Ink d 2.0 in-Ear Earbud - Camo  Green](https://www.amazon.com/dp/B07DGL38ZK/?tag=redken08-20) a 10.47 USD (original: 19.99 USD) (47.62 %  de descuento) en el siguiente enlace!
+Está [Skullcandy Ink d 2.0 in-Ear Earbud - Camo  Green](https://www.amazon.com/dp/B07DGL38ZK/?tag=redken08-20) con 47.62 de descuento por 10.47 USD (original: 19.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31dfcnsZcaL._SL200_.jpg)](https://www.amazon.com/dp/B07DGL38ZK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07DGL38ZK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DGL38ZK/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
