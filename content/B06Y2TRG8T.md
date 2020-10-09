@@ -14,11 +14,11 @@ comparePrice: 75.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 574v2 Core  Men s Trainers  Red  Burgundy   6.5 UK](https://www.amazon.co.uk/dp/B06Y2TRG8T/?tag=redken01-21) a 44.68 GBP (original: 75.0 GBP) (40.43 %  de descuento) en el siguiente enlace!
+Está [New Balance 574v2 Core  Men s Trainers  Red  Burgundy   6.5 UK](https://www.amazon.co.uk/dp/B06Y2TRG8T/?tag=redken01-21) con 40.43 de descuento por 44.68 GBP (original: 75.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41fzbDkTKwL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B06Y2TRG8T/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B06Y2TRG8T/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06Y2TRG8T/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

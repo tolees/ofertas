@@ -14,11 +14,11 @@ comparePrice: 9.13 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [POP! Bobble: Star Wars: E8 TLJ: Poe Dameron](https://www.amazon.co.uk/dp/B0711SHDFB/?tag=redken01-21) a 4.99 GBP (original: 9.13 GBP) (45.35 %  de descuento) en el siguiente enlace!
+Está [POP! Bobble: Star Wars: E8 TLJ: Poe Dameron](https://www.amazon.co.uk/dp/B0711SHDFB/?tag=redken01-21) con 45.35 de descuento por 4.99 GBP (original: 9.13 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/519MaHlaXKL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0711SHDFB/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B0711SHDFB/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B0711SHDFB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
