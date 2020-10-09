@@ -14,11 +14,11 @@ comparePrice: 12.75 GBP
 inStock: true
 ---
 
-Está [Label M Honey and Oat Shampoo 300 ml](https://www.amazon.co.uk/dp/B001W9UHYW/?tag=redken01-21) con 36.63 de descuento por 8.08 GBP (original: 12.75 GBP) en el siguiente enlace!
+Ahora mismo tienes [Label M Honey and Oat Shampoo 300 ml](https://www.amazon.co.uk/dp/B001W9UHYW/?tag=redken01-21) a 8.08 GBP (original: 12.75 GBP) (36.63 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31auKFI8uIL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B001W9UHYW/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B001W9UHYW/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B001W9UHYW/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

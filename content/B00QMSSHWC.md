@@ -14,11 +14,11 @@ comparePrice: 45.76 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Optimum Nutrition Gold Standard 100% Caseina  Cookies & Cream - 896 g](https://www.amazon.es/dp/B00QMSSHWC/?tag=redken-21) a 26.99 EUR (original: 45.76 EUR) (41.02 %  de descuento) en el siguiente enlace!
+Está [Optimum Nutrition Gold Standard 100% Caseina  Cookies & Cream - 896 g](https://www.amazon.es/dp/B00QMSSHWC/?tag=redken-21) con 41.02 de descuento por 26.99 EUR (original: 45.76 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LrUCJXZ1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00QMSSHWC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00QMSSHWC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00QMSSHWC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

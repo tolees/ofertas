@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Columbia Sun Ridge Polo de Manga Corta  Hombre  Negro  Black   M](https://www.amazon.es/dp/B004E0ZZIO/?tag=redken-21) con 68.07 de descuento por 15.96 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Sun Ridge Polo de Manga Corta  Hombre  Negro  Black   M](https://www.amazon.es/dp/B004E0ZZIO/?tag=redken-21) a 15.96 EUR (original: 49.99 EUR) (68.07 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310gwcrKZpL._SL200_.jpg)](https://www.amazon.es/dp/B004E0ZZIO/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B004E0ZZIO/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B004E0ZZIO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 79.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Napapijri ERBER Polo  Negro  Black 041   S para Hombre](https://www.amazon.es/dp/B07MCSP8J1/?tag=redken-21) a 31.6 EUR (original: 79.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
+Está [Napapijri ERBER Polo  Negro  Black 041   S para Hombre](https://www.amazon.es/dp/B07MCSP8J1/?tag=redken-21) con 60.00 de descuento por 31.6 EUR (original: 79.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31yms4YqI0L._SL200_.jpg)](https://www.amazon.es/dp/B07MCSP8J1/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07MCSP8J1/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MCSP8J1/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
