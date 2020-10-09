@@ -14,11 +14,11 @@ comparePrice: 9.95 USD
 inStock: true
 ---
 
-Ahora mismo tienes [LeapFrog LeapTV Disney Jake and The Never Land Pirates Educational  Active Video Game](https://www.amazon.com/dp/B00KNT6NDG/?tag=redken08-20) a 4.99 USD (original: 9.95 USD) (49.85 %  de descuento) en el siguiente enlace!
+Está [LeapFrog LeapTV Disney Jake and The Never Land Pirates Educational  Active Video Game](https://www.amazon.com/dp/B00KNT6NDG/?tag=redken08-20) con 49.85 de descuento por 4.99 USD (original: 9.95 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61xPVqImdcL._SL200_.jpg)](https://www.amazon.com/dp/B00KNT6NDG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00KNT6NDG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00KNT6NDG/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

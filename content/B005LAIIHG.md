@@ -14,11 +14,11 @@ comparePrice: 9.98 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Life of Pi](https://www.amazon.com/dp/B005LAIIHG/?tag=redken08-20) a 1.01 USD (original: 9.98 USD) (89.88 %  de descuento) en el siguiente enlace!
+Está [Life of Pi](https://www.amazon.com/dp/B005LAIIHG/?tag=redken08-20) con 89.88 de descuento por 1.01 USD (original: 9.98 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51gEPkvLh+L._SL200_.jpg)](https://www.amazon.com/dp/B005LAIIHG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B005LAIIHG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B005LAIIHG/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

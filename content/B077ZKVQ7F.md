@@ -14,11 +14,11 @@ comparePrice: 12.54 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Dr. Scholl s Women s 2 Pack Soothing Spa Low Cut Lavender + Vitamin E Socks with Silicone Treads  Pink  Shoe Size: 4-10](https://www.amazon.com/dp/B077ZKVQ7F/?tag=redken08-20) a 8.44 USD (original: 12.54 USD) (32.70 %  de descuento) en el siguiente enlace!
+Está [Dr. Scholl s Women s 2 Pack Soothing Spa Low Cut Lavender + Vitamin E Socks with Silicone Treads  Pink  Shoe Size: 4-10](https://www.amazon.com/dp/B077ZKVQ7F/?tag=redken08-20) con 32.70 de descuento por 8.44 USD (original: 12.54 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/512IS2SG23L._SL200_.jpg)](https://www.amazon.com/dp/B077ZKVQ7F/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B077ZKVQ7F/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B077ZKVQ7F/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

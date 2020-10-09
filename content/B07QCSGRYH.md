@@ -14,11 +14,11 @@ comparePrice: 9.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Oréal Men Expert - Hydra Energetic 2 en 1 aftershave y cuidado hidratante  para hombres - 125 ml](https://www.amazon.es/dp/B07QCSGRYH/?tag=redken-21) a 4.99 EUR (original: 9.5 EUR) (47.47 %  de descuento) en el siguiente enlace!
+Está [L Oréal Men Expert - Hydra Energetic 2 en 1 aftershave y cuidado hidratante  para hombres - 125 ml](https://www.amazon.es/dp/B07QCSGRYH/?tag=redken-21) con 47.47 de descuento por 4.99 EUR (original: 9.5 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41hTlCK3hpL._SL200_.jpg)](https://www.amazon.es/dp/B07QCSGRYH/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07QCSGRYH/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07QCSGRYH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
