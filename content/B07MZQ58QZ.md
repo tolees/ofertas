@@ -14,11 +14,11 @@ comparePrice: 7.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Mystery Mini Cajita misteriosa  incluye algún personaje de Juego de Tronos  Multicolor  37701 ](https://www.amazon.es/dp/B07MZQ58QZ/?tag=redken-21) a 4.0 EUR (original: 7.95 EUR) (49.69 %  de descuento) en el siguiente enlace!
+Está [Funko- Mystery Mini Cajita misteriosa  incluye algún personaje de Juego de Tronos  Multicolor  37701 ](https://www.amazon.es/dp/B07MZQ58QZ/?tag=redken-21) con 49.69 de descuento por 4.0 EUR (original: 7.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5172TVUQqVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MZQ58QZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07MZQ58QZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MZQ58QZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

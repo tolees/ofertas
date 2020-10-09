@@ -14,11 +14,11 @@ comparePrice: 7.65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois Liner Stylo Lápiz de ojos Tono 61 Ultra Black - 4 gr.](https://www.amazon.es/dp/B00TH3R2ES/?tag=redken-21) a 3.21 EUR (original: 7.65 EUR) (58.04 %  de descuento) en el siguiente enlace!
+Está [Bourjois Liner Stylo Lápiz de ojos Tono 61 Ultra Black - 4 gr.](https://www.amazon.es/dp/B00TH3R2ES/?tag=redken-21) con 58.04 de descuento por 3.21 EUR (original: 7.65 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31eDS-jfRFL._SL200_.jpg)](https://www.amazon.es/dp/B00TH3R2ES/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00TH3R2ES/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00TH3R2ES/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

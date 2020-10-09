@@ -14,11 +14,11 @@ comparePrice: 9.6 GBP
 inStock: true
 ---
 
-Está [Ko-Lee Xtreme Hot & Spicy Go Instant Noodles  85 g  Pack of 24](https://www.amazon.co.uk/dp/B075QZPZMQ/?tag=redken01-21) con 37.50 de descuento por 6.0 GBP (original: 9.6 GBP) en el siguiente enlace!
+Ahora mismo tienes [Ko-Lee Xtreme Hot & Spicy Go Instant Noodles  85 g  Pack of 24](https://www.amazon.co.uk/dp/B075QZPZMQ/?tag=redken01-21) a 6.0 GBP (original: 9.6 GBP) (37.50 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/512n4NIo75L._SL200_.jpg)](https://www.amazon.co.uk/dp/B075QZPZMQ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B075QZPZMQ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B075QZPZMQ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
