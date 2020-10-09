@@ -14,11 +14,11 @@ comparePrice: 10.87 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [POP! Vinilo - Lost: Kate Austen](https://www.amazon.es/dp/B01M9JZG7Y/?tag=redken-21) a 6.55 EUR (original: 10.87 EUR) (39.74 %  de descuento) en el siguiente enlace!
+Está [POP! Vinilo - Lost: Kate Austen](https://www.amazon.es/dp/B01M9JZG7Y/?tag=redken-21) con 39.74 de descuento por 6.55 EUR (original: 10.87 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51dKl5VHiXL._SL200_.jpg)](https://www.amazon.es/dp/B01M9JZG7Y/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01M9JZG7Y/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M9JZG7Y/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

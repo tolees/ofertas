@@ -14,11 +14,11 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen Phantom 1/2 Zip 2.0 Ligera Elástico Jersey De Forro Polar  Mujer  Navy  L](https://www.amazon.es/dp/B07LBNG2SJ/?tag=redken-21) a 35.77 EUR (original: 70 EUR) (48.90 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen Phantom 1/2 Zip 2.0 Ligera Elástico Jersey De Forro Polar  Mujer  Navy  L](https://www.amazon.es/dp/B07LBNG2SJ/?tag=redken-21) con 48.90 de descuento por 35.77 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cSbu0TkyL._SL200_.jpg)](https://www.amazon.es/dp/B07LBNG2SJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07LBNG2SJ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07LBNG2SJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

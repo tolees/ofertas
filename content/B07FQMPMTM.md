@@ -14,11 +14,11 @@ comparePrice: 69.0 GBP
 inStock: true
 ---
 
-Está [Clarks Men s Un Trail Step Loafers  Blue  Navy Nubuck 12 UK](https://www.amazon.co.uk/dp/B07FQMPMTM/?tag=redken01-21) con 34.80 de descuento por 44.99 GBP (original: 69.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Clarks Men s Un Trail Step Loafers  Blue  Navy Nubuck 12 UK](https://www.amazon.co.uk/dp/B07FQMPMTM/?tag=redken01-21) a 44.99 GBP (original: 69.0 GBP) (34.80 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Y7kWz0BYL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FQMPMTM/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07FQMPMTM/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07FQMPMTM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

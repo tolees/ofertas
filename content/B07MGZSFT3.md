@@ -14,11 +14,11 @@ comparePrice: 12.43 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [1370 hojas 2 estilos 32 colores Origami estrellas tiras de papel luminoso y purpurina Set de papel y 50 hojas de doble cara cuadrado papel 6 x 6 pulgadas con 50 colores para niños  manualidades](https://www.amazon.es/dp/B07MGZSFT3/?tag=redken-21) a 6.99 EUR (original: 12.43 EUR) (43.77 %  de descuento) en el siguiente enlace!
+Está [1370 hojas 2 estilos 32 colores Origami estrellas tiras de papel luminoso y purpurina Set de papel y 50 hojas de doble cara cuadrado papel 6 x 6 pulgadas con 50 colores para niños  manualidades](https://www.amazon.es/dp/B07MGZSFT3/?tag=redken-21) con 43.77 de descuento por 6.99 EUR (original: 12.43 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51HpUMSJYTL._SL200_.jpg)](https://www.amazon.es/dp/B07MGZSFT3/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07MGZSFT3/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MGZSFT3/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
