@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Sonicare ProtectiveClean 4300 HX al 32.22 % de descuento'
-date: 2020-10-08 08:33:17
+date: 2020-10-09 08:50:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AYL91TpcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AYL91TpcL._SL200_.jpg' ]
 comments: true

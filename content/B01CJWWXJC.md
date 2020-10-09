@@ -14,11 +14,11 @@ comparePrice: 724.79 EUR
 inStock: true
 ---
 
-Está [Elinchrom EL20847.2 - Equipo Completo Flash Estudio D-Lite RX One/One Softbox  Negro](https://www.amazon.es/dp/B01CJWWXJC/?tag=redken-21) con 35.59 de descuento por 466.87 EUR (original: 724.79 EUR) en el siguiente enlace!
+Ahora mismo tienes [Elinchrom EL20847.2 - Equipo Completo Flash Estudio D-Lite RX One/One Softbox  Negro](https://www.amazon.es/dp/B01CJWWXJC/?tag=redken-21) a 466.87 EUR (original: 724.79 EUR) (35.59 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JL5cCV3kL._SL200_.jpg)](https://www.amazon.es/dp/B01CJWWXJC/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01CJWWXJC/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01CJWWXJC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

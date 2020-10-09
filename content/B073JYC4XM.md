@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk Ultra Tarjeta de memoria microSD al 42.87 % de descuento'
-date: 2020-10-07 20:57:21
+title: 'SanDisk Ultra 128 GB microSDXC Memory Ca al 56.88 % de descuento'
+date: 2020-10-09 05:08:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tF51Ka9iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tF51Ka9iL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B073JYC4XM
 description:
-actualPrice: 19.99 EUR
-comparePrice: 34.99 EUR
+actualPrice: 15.73 GBP
+comparePrice: 36.48 GBP
 inStock: true
 ---
 
-Está [SanDisk Ultra Tarjeta de memoria microSDXC con adaptador SD  hasta 100 MB/s  rendimiento de apps A1  Clase 10  U1  128 GB](https://www.amazon.es/dp/B073JYC4XM/?tag=redken-21) con 42.87 de descuento por 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [SanDisk Ultra 128 GB microSDXC Memory Card + SD Adapter with A1 App Performance Up to 100 MB/s  Class 10  U1](https://www.amazon.co.uk/dp/B073JYC4XM/?tag=redken01-21) a 15.73 GBP (original: 36.48 GBP) (56.88 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41tF51Ka9iL._SL200_.jpg)](https://www.amazon.es/dp/B073JYC4XM/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41tF51Ka9iL._SL200_.jpg)](https://www.amazon.co.uk/dp/B073JYC4XM/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073JYC4XM/?tag=redken-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B073JYC4XM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

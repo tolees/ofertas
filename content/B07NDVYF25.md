@@ -14,11 +14,11 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Está [LEGO Marvel Collection for PlayStation 4](https://www.amazon.co.uk/dp/B07NDVYF25/?tag=redken01-21) con 34.98 de descuento por 19.5 GBP (original: 29.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO Marvel Collection for PlayStation 4](https://www.amazon.co.uk/dp/B07NDVYF25/?tag=redken01-21) a 19.5 GBP (original: 29.99 GBP) (34.98 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NPOxD0ggL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07NDVYF25/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07NDVYF25/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07NDVYF25/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

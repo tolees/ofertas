@@ -14,11 +14,11 @@ comparePrice: 399.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mi Note 10 Lite 6+128GB Midnight Black](https://www.amazon.de/dp/B087MRJRL7/?tag=redken02-21) a 269.04 EUR (original: 399.0 EUR) (32.57 %  de descuento) en el siguiente enlace!
+Está [Mi Note 10 Lite 6+128GB Midnight Black](https://www.amazon.de/dp/B087MRJRL7/?tag=redken02-21) con 32.57 de descuento por 269.04 EUR (original: 399.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41nB2tPufSL._SL200_.jpg)](https://www.amazon.de/dp/B087MRJRL7/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B087MRJRL7/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B087MRJRL7/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
