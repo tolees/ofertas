@@ -14,11 +14,11 @@ comparePrice: 79.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [K9CK Juego de Luces para Lego Technic Land Rover Defender 42110  Led Faro Kit de Iluminación Compatible con Modelo Lego - Versión RC  NO Incluido en el Modelo ](https://www.amazon.es/dp/B082KRMVHL/?tag=redken-21) a 39.99 EUR (original: 79.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [K9CK Juego de Luces para Lego Technic Land Rover Defender 42110  Led Faro Kit de Iluminación Compatible con Modelo Lego - Versión RC  NO Incluido en el Modelo ](https://www.amazon.es/dp/B082KRMVHL/?tag=redken-21) con 50.00 de descuento por 39.99 EUR (original: 79.98 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KdvXxMWHL._SL200_.jpg)](https://www.amazon.es/dp/B082KRMVHL/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B082KRMVHL/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B082KRMVHL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Está [Deet® Flexible USB Keyboard/Reading Light for Laptop/PC [Black]](https://www.amazon.co.uk/dp/B01MSYF44X/?tag=redken01-21) con 68.71 de descuento por 4.69 GBP (original: 14.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Deet® Flexible USB Keyboard/Reading Light for Laptop/PC [Black]](https://www.amazon.co.uk/dp/B01MSYF44X/?tag=redken01-21) a 4.69 GBP (original: 14.99 GBP) (68.71 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31gPOKiGp0L._SL200_.jpg)](https://www.amazon.co.uk/dp/B01MSYF44X/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01MSYF44X/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01MSYF44X/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 3.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Scandalous](https://www.amazon.co.uk/dp/B07PTSJLL4/?tag=redken01-21) a 0.99 GBP (original: 3.99 GBP) (75.19 %  de descuento) en el siguiente enlace!
+Está [Scandalous](https://www.amazon.co.uk/dp/B07PTSJLL4/?tag=redken01-21) con 75.19 de descuento por 0.99 GBP (original: 3.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41fHD9wh-jL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PTSJLL4/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07PTSJLL4/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PTSJLL4/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

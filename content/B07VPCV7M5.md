@@ -14,11 +14,11 @@ comparePrice: 23.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Clevoers LED Lighting Kit for LEGO 10265 Ford Mustang Lighting Bricks Light My Bricks  Not Included Car ](https://www.amazon.co.uk/dp/B07VPCV7M5/?tag=redken01-21) a 13.65 GBP (original: 23.99 GBP) (43.10 %  de descuento) en el siguiente enlace!
+Está [Clevoers LED Lighting Kit for LEGO 10265 Ford Mustang Lighting Bricks Light My Bricks  Not Included Car ](https://www.amazon.co.uk/dp/B07VPCV7M5/?tag=redken01-21) con 43.10 de descuento por 13.65 GBP (original: 23.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51r0plA57qL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07VPCV7M5/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07VPCV7M5/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07VPCV7M5/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

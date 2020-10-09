@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 7K - Kit Fotocamera Digitale  al 38.44 % de descuento'
-date: 2020-10-07 17:33:55
+date: 2020-10-08 23:07:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/510OOSmhdnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510OOSmhdnL._SL200_.jpg' ]
 comments: true

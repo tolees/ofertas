@@ -14,11 +14,11 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Classic - Complementos Creativos de Nuevos Colores  Juguete de Construcción Creativo con Ladillos Coloridos  10694 ](https://www.amazon.es/dp/B00NVDNUIC/?tag=redken-21) a 10.02 EUR (original: 19.99 EUR) (49.87 %  de descuento) en el siguiente enlace!
+Está [LEGO Classic - Complementos Creativos de Nuevos Colores  Juguete de Construcción Creativo con Ladillos Coloridos  10694 ](https://www.amazon.es/dp/B00NVDNUIC/?tag=redken-21) con 49.87 de descuento por 10.02 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51LzG3N93zL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00NVDNUIC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00NVDNUIC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00NVDNUIC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

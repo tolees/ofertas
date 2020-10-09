@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scratch Arts [125 Sheets + 2 Wooden Styl al 65.03 % de descuento'
-date: 2020-10-06 23:50:04
+date: 2020-10-08 23:21:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OFDfs8FuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OFDfs8FuL._SL200_.jpg' ]
 comments: true
