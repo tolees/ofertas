@@ -14,11 +14,11 @@ comparePrice: 7.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Maybelline New York Barra de Labios Mate Superstay Matte Ink City Edition  Tono 117 Ground Breaker](https://www.amazon.es/dp/B07FSN8X3L/?tag=redken-21) a 5.9 EUR (original: 7.95 EUR) (25.79 %  de descuento) en el siguiente enlace!
+Está [Maybelline New York Barra de Labios Mate Superstay Matte Ink City Edition  Tono 117 Ground Breaker](https://www.amazon.es/dp/B07FSN8X3L/?tag=redken-21) con 25.79 de descuento por 5.9 EUR (original: 7.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/21ZvnRimYVL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FSN8X3L/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FSN8X3L/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FSN8X3L/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

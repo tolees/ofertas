@@ -14,11 +14,11 @@ comparePrice: 10.09 GBP
 inStock: true
 ---
 
-Está [Funko 39814 POP Marvel: Spider-Man Far from Home-Mary Jane Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07NSPL5J5/?tag=redken01-21) con 47.87 de descuento por 5.26 GBP (original: 10.09 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 39814 POP Marvel: Spider-Man Far from Home-Mary Jane Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07NSPL5J5/?tag=redken01-21) a 5.26 GBP (original: 10.09 GBP) (47.87 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+qh5JNggL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07NSPL5J5/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07NSPL5J5/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07NSPL5J5/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

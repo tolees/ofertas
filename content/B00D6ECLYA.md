@@ -14,11 +14,11 @@ comparePrice: 5.0 GBP
 inStock: true
 ---
 
-Está [MajorCrafts® 400pcs Crystal AB 6mm ss30 Flat Back Round Resin Rhinestones Gems C33](https://www.amazon.co.uk/dp/B00D6ECLYA/?tag=redken01-21) con 30.00 de descuento por 3.5 GBP (original: 5.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [MajorCrafts® 400pcs Crystal AB 6mm ss30 Flat Back Round Resin Rhinestones Gems C33](https://www.amazon.co.uk/dp/B00D6ECLYA/?tag=redken01-21) a 3.5 GBP (original: 5.0 GBP) (30.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61-7KVeTrpL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00D6ECLYA/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00D6ECLYA/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00D6ECLYA/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 28.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Call Of Cthulhu [Playstation 4]](https://www.amazon.de/dp/B07CG1R3VF/?tag=redken02-21) a 15.99 EUR (original: 28.95 EUR) (44.77 %  de descuento) en el siguiente enlace!
+Está [Call Of Cthulhu [Playstation 4]](https://www.amazon.de/dp/B07CG1R3VF/?tag=redken02-21) con 44.77 de descuento por 15.99 EUR (original: 28.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51g8Y20be+L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07CG1R3VF/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07CG1R3VF/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07CG1R3VF/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
