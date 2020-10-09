@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! TV: Game of Thrones - Sansa S al 39.87 % de descuento'
-date: 2020-10-08 16:24:25
+date: 2020-10-09 17:06:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41H9GbudrgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41H9GbudrgL._SL200_.jpg' ]
 comments: true

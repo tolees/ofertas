@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.17 % en CozyBomB Wooden Number Puzzle for Kids -'
-date: 2020-10-07 17:43:14
+date: 2020-10-09 17:49:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GrQBg6moL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GrQBg6moL._SL200_.jpg' ]
 comments: true

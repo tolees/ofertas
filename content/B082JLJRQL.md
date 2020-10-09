@@ -14,11 +14,11 @@ comparePrice: 6.89 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [The Hits Album: The 70S Pop Album... Strikes Back!](https://www.amazon.co.uk/dp/B082JLJRQL/?tag=redken01-21) a 4.99 GBP (original: 6.89 GBP) (27.58 %  de descuento) en el siguiente enlace!
+Está [The Hits Album: The 70S Pop Album... Strikes Back!](https://www.amazon.co.uk/dp/B082JLJRQL/?tag=redken01-21) con 27.58 de descuento por 4.99 GBP (original: 6.89 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51n-Z+j0tDL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B082JLJRQL/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B082JLJRQL/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B082JLJRQL/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

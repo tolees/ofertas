@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pop! Icons: Marilyn Monroe  White Dress  al 46.24 % de descuento'
-date: 2020-10-07 17:22:47
+title: 'Pop! Icons: Marilyn Monroe  White Dress  al 46.10 % de descuento'
+date: 2020-10-09 17:06:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31HbyNMFMJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31HbyNMFMJL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07XF7X5GD
 description:
 actualPrice: 8.15 EUR
-comparePrice: 15.16 EUR
+comparePrice: 15.12 EUR
 inStock: true
 ---
 
-Está [Pop! Icons: Marilyn Monroe  White Dress ](https://www.amazon.es/dp/B07XF7X5GD/?tag=redken-21) con 46.24 de descuento por 8.15 EUR (original: 15.16 EUR) en el siguiente enlace!
+Está [Pop! Icons: Marilyn Monroe  White Dress ](https://www.amazon.es/dp/B07XF7X5GD/?tag=redken-21) con 46.10 de descuento por 8.15 EUR (original: 15.12 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31HbyNMFMJL._SL200_.jpg)](https://www.amazon.es/dp/B07XF7X5GD/?tag=redken-21)
 

@@ -14,11 +14,11 @@ comparePrice: 649.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Fujifilm X-A3 CAMEL - Cámara EVIL de 24 MP  pantalla táctil de 3"  obturador electrónico  video Full HD  Wifi  - kit cuerpo con objetivo XC 16-50 mm Camel](https://www.amazon.es/dp/B075JSBWSG/?tag=redken-21) a 464.56 EUR (original: 649.0 EUR) (28.42 %  de descuento) en el siguiente enlace!
+Está [Fujifilm X-A3 CAMEL - Cámara EVIL de 24 MP  pantalla táctil de 3"  obturador electrónico  video Full HD  Wifi  - kit cuerpo con objetivo XC 16-50 mm Camel](https://www.amazon.es/dp/B075JSBWSG/?tag=redken-21) con 28.42 de descuento por 464.56 EUR (original: 649.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41JJ-HQwBkL._SL200_.jpg)](https://www.amazon.es/dp/B075JSBWSG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B075JSBWSG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B075JSBWSG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

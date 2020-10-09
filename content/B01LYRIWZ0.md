@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 31.18 % en PLAYMOBIL Ghostbusters Ecto-1'
-date: 2020-10-07 18:00:00
+title: 'Descuento del 33.79 % en PLAYMOBIL Ghostbusters Ecto-1'
+date: 2020-10-09 17:37:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01LYRIWZ0
 description:
-actualPrice: 30.96 USD
+actualPrice: 29.79 USD
 comparePrice: 44.99 USD
 inStock: true
 ---
 
-Tienes [PLAYMOBIL Ghostbusters Ecto-1](https://www.amazon.com/dp/B01LYRIWZ0/?tag=redken08-20) con un 31.18 % de descuento con precio de oferta de 30.96 USD (original: 44.99 USD) en el siguiente enlace!
+Tienes [PLAYMOBIL Ghostbusters Ecto-1](https://www.amazon.com/dp/B01LYRIWZ0/?tag=redken08-20) con un 33.79 % de descuento con precio de oferta de 29.79 USD (original: 44.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg)](https://www.amazon.com/dp/B01LYRIWZ0/?tag=redken08-20)
 

@@ -14,11 +14,11 @@ comparePrice: 28.98 USD
 inStock: true
 ---
 
-Está [Way Back  The  DVD + Digital ](https://www.amazon.com/dp/B0851LLGSW/?tag=redken08-20) con 37.92 de descuento por 17.99 USD (original: 28.98 USD) en el siguiente enlace!
+Ahora mismo tienes [Way Back  The  DVD + Digital ](https://www.amazon.com/dp/B0851LLGSW/?tag=redken08-20) a 17.99 USD (original: 28.98 USD) (37.92 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51BYt8J0czL._SL200_.jpg)](https://www.amazon.com/dp/B0851LLGSW/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B0851LLGSW/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B0851LLGSW/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

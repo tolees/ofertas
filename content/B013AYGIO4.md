@@ -14,11 +14,11 @@ comparePrice: 28.59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Optimum Nutrition ON Amino Energy Pre Workout Powder Keto Friendly con Beta Alanina  Cafeína  Vitamina C  Aminoacidos Micronizados Incluyendo BCAA  Piña  30 Porciones  270 gr](https://www.amazon.es/dp/B013AYGIO4/?tag=redken-21) a 19.49 EUR (original: 28.59 EUR) (31.83 %  de descuento) en el siguiente enlace!
+Está [Optimum Nutrition ON Amino Energy Pre Workout Powder Keto Friendly con Beta Alanina  Cafeína  Vitamina C  Aminoacidos Micronizados Incluyendo BCAA  Piña  30 Porciones  270 gr](https://www.amazon.es/dp/B013AYGIO4/?tag=redken-21) con 31.83 de descuento por 19.49 EUR (original: 28.59 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41x1flFyUAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B013AYGIO4/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B013AYGIO4/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B013AYGIO4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

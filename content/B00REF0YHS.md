@@ -14,11 +14,11 @@ comparePrice: 5.17 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [I Cry When I Laugh](https://www.amazon.co.uk/dp/B00REF0YHS/?tag=redken01-21) a 3.59 GBP (original: 5.17 GBP) (30.56 %  de descuento) en el siguiente enlace!
+Está [I Cry When I Laugh](https://www.amazon.co.uk/dp/B00REF0YHS/?tag=redken01-21) con 30.56 de descuento por 3.59 GBP (original: 5.17 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51FsZFwvC6L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00REF0YHS/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00REF0YHS/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00REF0YHS/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
