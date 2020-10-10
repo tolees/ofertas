@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Duramo 9  Zapatillas de Running p al 33.92 % de descuento'
-date: 2020-09-29 11:15:16
+date: 2020-10-10 10:08:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HpgBo9EiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HpgBo9EiL._SL200_.jpg' ]
 comments: true
@@ -19,5 +19,7 @@ Está [adidas Duramo 9  Zapatillas de Running para Hombre  Negro  Core Black/Foo
 [![](https://m.media-amazon.com/images/I/41HpgBo9EiL._SL200_.jpg)](https://www.amazon.es/dp/B078GX6ZWH/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B078GX6ZWH/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

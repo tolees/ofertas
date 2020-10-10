@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.35 % en Bloodstained: Ritual of the night'
-date: 2020-10-06 07:16:14
+date: 2020-10-10 10:12:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-eeDQmDYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-eeDQmDYL._SL200_.jpg' ]
 comments: true
