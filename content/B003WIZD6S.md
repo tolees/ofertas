@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.03 % en Puma Sports Socks - Calcetines de deport'
-date: 2020-10-09 22:20:28
+date: 2020-10-10 22:36:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XPDT5X+pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XPDT5X+pL._SL200_.jpg' ]
 comments: true

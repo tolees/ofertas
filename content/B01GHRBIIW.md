@@ -14,11 +14,11 @@ comparePrice: 9.18 EUR
 inStock: true
 ---
 
-Está [W7 Smokin  - Paleta de sombras de ojos  15 6 g  12 colores](https://www.amazon.es/dp/B01GHRBIIW/?tag=redken-21) con 34.75 de descuento por 5.99 EUR (original: 9.18 EUR) en el siguiente enlace!
+Ahora mismo tienes [W7 Smokin  - Paleta de sombras de ojos  15 6 g  12 colores](https://www.amazon.es/dp/B01GHRBIIW/?tag=redken-21) a 5.99 EUR (original: 9.18 EUR) (34.75 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31JHahlSPUL._SL200_.jpg)](https://www.amazon.es/dp/B01GHRBIIW/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01GHRBIIW/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01GHRBIIW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HOMIEE Bolsa para Portátil  Maletín Port al 50.01 % de descuento'
-date: 2020-10-01 01:57:28
+date: 2020-10-10 22:30:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MU1lEc+8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MU1lEc+8L._SL200_.jpg' ]
 comments: true

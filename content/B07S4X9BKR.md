@@ -14,11 +14,11 @@ comparePrice: 55.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Men s Sunset 1 Pkt Slim Casual Shirt  Blue  Alfonso Indigo 0006   Large](https://www.amazon.co.uk/dp/B07S4X9BKR/?tag=redken01-21) a 27.0 GBP (original: 55.0 GBP) (50.91 %  de descuento) en el siguiente enlace!
+Está [Levi s Men s Sunset 1 Pkt Slim Casual Shirt  Blue  Alfonso Indigo 0006   Large](https://www.amazon.co.uk/dp/B07S4X9BKR/?tag=redken01-21) con 50.91 de descuento por 27.0 GBP (original: 55.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Eui+kKjVL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07S4X9BKR/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07S4X9BKR/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07S4X9BKR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

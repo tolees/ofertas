@@ -14,11 +14,11 @@ comparePrice: 9.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [UB-150 Eye Micro Rollerball Pens  Black Uni Super Ink  .5mm Nib  Package of 5](https://www.amazon.co.uk/dp/B01DYSGCUG/?tag=redken01-21) a 5.0 GBP (original: 9.0 GBP) (44.44 %  de descuento) en el siguiente enlace!
+Está [UB-150 Eye Micro Rollerball Pens  Black Uni Super Ink  .5mm Nib  Package of 5](https://www.amazon.co.uk/dp/B01DYSGCUG/?tag=redken01-21) con 44.44 de descuento por 5.0 GBP (original: 9.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ULor0q8CL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01DYSGCUG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01DYSGCUG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01DYSGCUG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

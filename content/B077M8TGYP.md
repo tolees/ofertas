@@ -14,11 +14,11 @@ comparePrice: 36.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Escaper SL Jr  Zapatillas de Running Unisex Niños  Blanco Soft Fluo Peach White  38 EU](https://www.amazon.es/dp/B077M8TGYP/?tag=redken-21) a 18.88 EUR (original: 36.99 EUR) (48.96 %  de descuento) en el siguiente enlace!
+Está [Puma Escaper SL Jr  Zapatillas de Running Unisex Niños  Blanco Soft Fluo Peach White  38 EU](https://www.amazon.es/dp/B077M8TGYP/?tag=redken-21) con 48.96 de descuento por 18.88 EUR (original: 36.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-Wb4o3yVL._SL200_.jpg)](https://www.amazon.es/dp/B077M8TGYP/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077M8TGYP/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077M8TGYP/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

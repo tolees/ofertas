@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.65 % en Chernobyl  Miniserie  Blu-Ray [Blu-ray]'
-date: 2020-10-09 22:38:43
+date: 2020-10-10 22:58:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/419kePiUDxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419kePiUDxL._SL200_.jpg' ]
 comments: true

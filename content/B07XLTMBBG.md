@@ -14,11 +14,11 @@ comparePrice: 449.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size  desde el nacimiento hasta los 4 años  de 45 cm hasta 105 cm aproximadamente  19 kg máximo  con base M  Gris  Soho Grey ](https://www.amazon.es/dp/B07XLTMBBG/?tag=redken-21) a 263.78 EUR (original: 449.95 EUR) (41.38 %  de descuento) en el siguiente enlace!
+Está [Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size  desde el nacimiento hasta los 4 años  de 45 cm hasta 105 cm aproximadamente  19 kg máximo  con base M  Gris  Soho Grey ](https://www.amazon.es/dp/B07XLTMBBG/?tag=redken-21) con 41.38 de descuento por 263.78 EUR (original: 449.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31XuCsvt7OL._SL200_.jpg)](https://www.amazon.es/dp/B07XLTMBBG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07XLTMBBG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07XLTMBBG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

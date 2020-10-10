@@ -14,11 +14,11 @@ comparePrice: 9.59 USD
 inStock: true
 ---
 
-Ahora mismo tienes [NOVUS PC-10 Plastic Clean & Shine - 8 Oz.](https://www.amazon.com/dp/B002UD0GFE/?tag=redken08-20) a 3.93 USD (original: 9.59 USD) (59.02 %  de descuento) en el siguiente enlace!
+Está [NOVUS PC-10 Plastic Clean & Shine - 8 Oz.](https://www.amazon.com/dp/B002UD0GFE/?tag=redken08-20) con 59.02 de descuento por 3.93 USD (original: 9.59 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31GGmdEHuyL._SL200_.jpg)](https://www.amazon.com/dp/B002UD0GFE/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B002UD0GFE/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B002UD0GFE/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
