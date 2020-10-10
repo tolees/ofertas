@@ -14,11 +14,11 @@ comparePrice: 22.25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bresser Trípode de mesa de 24cm](https://www.amazon.es/dp/B00QNE05AW/?tag=redken-21) a 9.9 EUR (original: 22.25 EUR) (55.51 %  de descuento) en el siguiente enlace!
+Está [Bresser Trípode de mesa de 24cm](https://www.amazon.es/dp/B00QNE05AW/?tag=redken-21) con 55.51 de descuento por 9.9 EUR (original: 22.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pIU-aVBFL._SL200_.jpg)](https://www.amazon.es/dp/B00QNE05AW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00QNE05AW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00QNE05AW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

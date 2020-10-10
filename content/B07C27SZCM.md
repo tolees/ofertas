@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.02 % en Jack & Jones Jjebasic Knit V-Neck Noos s'
-date: 2020-10-09 12:55:01
+date: 2020-10-10 13:04:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IY6BxtZmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IY6BxtZmL._SL200_.jpg' ]
 comments: true

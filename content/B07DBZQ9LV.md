@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.23 % en PUMA Flyer Runner  Zapatillas para Corre'
-date: 2020-10-09 12:54:15
+date: 2020-10-10 13:03:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31tLf2wJS8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31tLf2wJS8L._SL200_.jpg' ]
 comments: true
