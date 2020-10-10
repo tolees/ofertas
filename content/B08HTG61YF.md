@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bill & Ted Face the Music  DVD + Digital al 37.73 % de descuento'
-date: 2020-10-08 12:31:30
+date: 2020-10-10 07:00:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rEgvHqwgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rEgvHqwgL._SL200_.jpg' ]
 comments: true

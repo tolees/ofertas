@@ -14,11 +14,11 @@ comparePrice: 19.19 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [KESOTO 3 Piezas Barril de Cerveza Modelo Accesorios de Habitación para 1/12 Casa de Muñecas en Miniatura](https://www.amazon.es/dp/B07KQNRRHF/?tag=redken-21) a 10.66 EUR (original: 19.19 EUR) (44.45 %  de descuento) en el siguiente enlace!
+Está [KESOTO 3 Piezas Barril de Cerveza Modelo Accesorios de Habitación para 1/12 Casa de Muñecas en Miniatura](https://www.amazon.es/dp/B07KQNRRHF/?tag=redken-21) con 44.45 de descuento por 10.66 EUR (original: 19.19 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4147Z7-E28L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KQNRRHF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KQNRRHF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KQNRRHF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 50.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pekitas - Colchón minicuna 50 x 75 cm Funda 3D Erogonómico Transpirable Antiahogo con cremallera lavable  interior espuma blanca Fabricado en España](https://www.amazon.es/dp/B07FL7WGMS/?tag=redken-21) a 19.95 EUR (original: 50.0 EUR) (60.10 %  de descuento) en el siguiente enlace!
+Está [Pekitas - Colchón minicuna 50 x 75 cm Funda 3D Erogonómico Transpirable Antiahogo con cremallera lavable  interior espuma blanca Fabricado en España](https://www.amazon.es/dp/B07FL7WGMS/?tag=redken-21) con 60.10 de descuento por 19.95 EUR (original: 50.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31UdUpEbipL._SL200_.jpg)](https://www.amazon.es/dp/B07FL7WGMS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FL7WGMS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FL7WGMS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

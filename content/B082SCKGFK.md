@@ -14,11 +14,11 @@ comparePrice: 28.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Spray para manos higienizante perfumado. Limpieza e higiene de manos con secado rápido sin aclarado.  Cítricos y melocotón  12 botes de 200 ml ](https://www.amazon.es/dp/B082SCKGFK/?tag=redken-21) a 13.89 EUR (original: 28.99 EUR) (52.09 %  de descuento) en el siguiente enlace!
+Está [Spray para manos higienizante perfumado. Limpieza e higiene de manos con secado rápido sin aclarado.  Cítricos y melocotón  12 botes de 200 ml ](https://www.amazon.es/dp/B082SCKGFK/?tag=redken-21) con 52.09 de descuento por 13.89 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41P6Q+mBsPL._SL200_.jpg)](https://www.amazon.es/dp/B082SCKGFK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B082SCKGFK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B082SCKGFK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
