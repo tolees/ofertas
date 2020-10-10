@@ -14,11 +14,11 @@ comparePrice: 7.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Maybelline New York Brow Drama  Máscara De Cejas  Medium Brown 002 - 1 Máscara De Cejas](https://www.amazon.es/dp/B01A5NNPHG/?tag=redken-21) a 5.92 EUR (original: 7.99 EUR) (25.91 %  de descuento) en el siguiente enlace!
+Está [Maybelline New York Brow Drama  Máscara De Cejas  Medium Brown 002 - 1 Máscara De Cejas](https://www.amazon.es/dp/B01A5NNPHG/?tag=redken-21) con 25.91 de descuento por 5.92 EUR (original: 7.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Lg2+ERm2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01A5NNPHG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01A5NNPHG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01A5NNPHG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

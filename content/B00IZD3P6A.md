@@ -14,11 +14,11 @@ comparePrice: 11.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BULK POWDERS Super Strength Green Tea Capsules  450 mg  Pack of 90](https://www.amazon.co.uk/dp/B00IZD3P6A/?tag=redken01-21) a 3.59 GBP (original: 11.99 GBP) (70.06 %  de descuento) en el siguiente enlace!
+Está [BULK POWDERS Super Strength Green Tea Capsules  450 mg  Pack of 90](https://www.amazon.co.uk/dp/B00IZD3P6A/?tag=redken01-21) con 70.06 de descuento por 3.59 GBP (original: 11.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41R6sEdrR0L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00IZD3P6A/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00IZD3P6A/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00IZD3P6A/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

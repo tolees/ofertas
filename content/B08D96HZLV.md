@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JKZJ 212 Leds Luz Solar Exterior con 3 M al 46.75 % de descuento'
-date: 2020-10-08 14:19:00
+date: 2020-10-10 16:03:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t58AZgIrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t58AZgIrL._SL200_.jpg' ]
 comments: true
