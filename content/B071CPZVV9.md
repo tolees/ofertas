@@ -14,11 +14,11 @@ comparePrice: 13.94 GBP
 inStock: true
 ---
 
-Está [Lust For Life [VINYL]](https://www.amazon.co.uk/dp/B071CPZVV9/?tag=redken01-21) con 28.34 de descuento por 9.99 GBP (original: 13.94 GBP) en el siguiente enlace!
+Ahora mismo tienes [Lust For Life [VINYL]](https://www.amazon.co.uk/dp/B071CPZVV9/?tag=redken01-21) a 9.99 GBP (original: 13.94 GBP) (28.34 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5136cO0FO3L._SL200_.jpg)](https://www.amazon.co.uk/dp/B071CPZVV9/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B071CPZVV9/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B071CPZVV9/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

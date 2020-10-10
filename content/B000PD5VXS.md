@@ -14,11 +14,11 @@ comparePrice: 5.0 USD
 inStock: true
 ---
 
-Está [Hornady Universal Shell Holder #22  30 CARBINE  32 AUTO ](https://www.amazon.com/dp/B000PD5VXS/?tag=redken08-20) con 40.60 de descuento por 2.97 USD (original: 5.0 USD) en el siguiente enlace!
+Ahora mismo tienes [Hornady Universal Shell Holder #22  30 CARBINE  32 AUTO ](https://www.amazon.com/dp/B000PD5VXS/?tag=redken08-20) a 2.97 USD (original: 5.0 USD) (40.60 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+0LCLLAYL._SL200_.jpg)](https://www.amazon.com/dp/B000PD5VXS/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B000PD5VXS/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B000PD5VXS/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
