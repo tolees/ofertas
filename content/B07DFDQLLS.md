@@ -14,11 +14,11 @@ comparePrice: 11.88 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko POP Alita Battle Angel Berserk](https://www.amazon.de/dp/B07DFDQLLS/?tag=redken02-21) a 5.16 EUR (original: 11.88 EUR) (56.57 %  de descuento) en el siguiente enlace!
+Está [Funko POP Alita Battle Angel Berserk](https://www.amazon.de/dp/B07DFDQLLS/?tag=redken02-21) con 56.57 de descuento por 5.16 EUR (original: 11.88 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31w4K5BtHzL._SL200_.jpg)](https://www.amazon.de/dp/B07DFDQLLS/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07DFDQLLS/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07DFDQLLS/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

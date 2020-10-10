@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.50 % en Campark Trail Camera-WiFi 20MP 1296P Upg'
-date: 2020-10-05 23:45:08
+date: 2020-10-10 18:59:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PXMvkFA1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PXMvkFA1L._SL200_.jpg' ]
 comments: true

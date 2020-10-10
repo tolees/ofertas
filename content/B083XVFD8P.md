@@ -14,11 +14,11 @@ comparePrice: 14.48 GBP
 inStock: true
 ---
 
-Está [Permanent Waves 40th Anniversary](https://www.amazon.co.uk/dp/B083XVFD8P/?tag=redken01-21) con 31.01 de descuento por 9.99 GBP (original: 14.48 GBP) en el siguiente enlace!
+Ahora mismo tienes [Permanent Waves 40th Anniversary](https://www.amazon.co.uk/dp/B083XVFD8P/?tag=redken01-21) a 9.99 GBP (original: 14.48 GBP) (31.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41cyjwopt3L._SL200_.jpg)](https://www.amazon.co.uk/dp/B083XVFD8P/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B083XVFD8P/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B083XVFD8P/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 74.99 EUR
 inStock: true
 ---
 
-Está [Eukanuba Adulto Raza pequeña y mediana Rico en cordero y arroz [12 Kg]](https://www.amazon.es/dp/B00B7GOI9K/?tag=redken-21) con 53.34 de descuento por 34.99 EUR (original: 74.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Eukanuba Adulto Raza pequeña y mediana Rico en cordero y arroz [12 Kg]](https://www.amazon.es/dp/B00B7GOI9K/?tag=redken-21) a 34.99 EUR (original: 74.99 EUR) (53.34 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41NgTTziduL._SL200_.jpg)](https://www.amazon.es/dp/B00B7GOI9K/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00B7GOI9K/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00B7GOI9K/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

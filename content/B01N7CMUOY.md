@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Core Stretch Slim Vneck t al 50.13 % de descuento'
-date: 2020-02-24 10:04:28
-thumbnailImage: 'https://m.media-amazon.com/images/I/41yNMLlW0QL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41yNMLlW0QL._AC_._SL200_.jpg' ]
+title: 'Tommy Hilfiger Core Stretch Slim Vneck t al 53.18 % de descuento'
+date: 2020-10-10 18:15:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/31yAywjUdOL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31yAywjUdOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01N7CMUOY
 description:
-actualPrice: 19.9 EUR
+actualPrice: 18.68 EUR
 comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Está [Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Negro  Flag Black 083   Large para Hombre](https://www.amazon.es/dp/B01N7CMUOY/?tag=redken-21) con 50.13 de descuento por 19.9 EUR (original: 39.9 EUR) en el siguiente enlace!
+Está [Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Negro  Flag Black 083   Large para Hombre](https://www.amazon.es/dp/B01N7CMUOY/?tag=redken-21) con 53.18 de descuento por 18.68 EUR (original: 39.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41yNMLlW0QL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01N7CMUOY/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/31yAywjUdOL._SL200_.jpg)](https://www.amazon.es/dp/B01N7CMUOY/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N7CMUOY/?tag=redken-21)
 

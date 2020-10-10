@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel LRN5-A Nachfüllmine für EnerGel-S al 33.38 % de descuento'
-date: 2020-10-09 18:00:09
+date: 2020-10-10 18:17:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nz7iVItAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nz7iVItAL._SL200_.jpg' ]
 comments: true

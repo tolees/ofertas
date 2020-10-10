@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.54 % en Jerry & Maggie - Desktop Organizer Offic'
-date: 2020-10-09 17:39:08
+date: 2020-10-10 18:11:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/510fn1F8nDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510fn1F8nDL._SL200_.jpg' ]
 comments: true
