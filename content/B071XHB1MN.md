@@ -14,11 +14,11 @@ comparePrice: 229.95 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Makita DSS611Z 18V Li-ion 165mm Cordless Circular Saw Body with 2 x 5ah BL1850 Batteries](https://www.amazon.co.uk/dp/B071XHB1MN/?tag=redken01-21) a 149.0 GBP (original: 229.95 GBP) (35.20 %  de descuento) en el siguiente enlace!
+Está [Makita DSS611Z 18V Li-ion 165mm Cordless Circular Saw Body with 2 x 5ah BL1850 Batteries](https://www.amazon.co.uk/dp/B071XHB1MN/?tag=redken01-21) con 35.20 de descuento por 149.0 GBP (original: 229.95 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51w8zqMqiyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B071XHB1MN/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B071XHB1MN/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B071XHB1MN/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 16.99 GBP
 inStock: true
 ---
 
-Está [LOL Surprise Lockable Secret Diary & Pom Pom Set – Girls Journal Notebook With Pad Lock](https://www.amazon.co.uk/dp/B07DYGSR6B/?tag=redken01-21) con 64.74 de descuento por 5.99 GBP (original: 16.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LOL Surprise Lockable Secret Diary & Pom Pom Set – Girls Journal Notebook With Pad Lock](https://www.amazon.co.uk/dp/B07DYGSR6B/?tag=redken01-21) a 5.99 GBP (original: 16.99 GBP) (64.74 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51v1ZY8qKhL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DYGSR6B/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DYGSR6B/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DYGSR6B/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

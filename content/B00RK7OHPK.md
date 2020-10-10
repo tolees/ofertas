@@ -14,11 +14,11 @@ comparePrice: 450.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony Action CAM FDR-X1000VR - Videocámara Deportiva  Video 4K  Resistente a Salpicaduras con WI-FI  NFC  GPS y Kit de Mando a Distancia Live-View   Blanco](https://www.amazon.es/dp/B00RK7OHPK/?tag=redken-21) a 333.3 EUR (original: 450.0 EUR) (25.93 %  de descuento) en el siguiente enlace!
+Está [Sony Action CAM FDR-X1000VR - Videocámara Deportiva  Video 4K  Resistente a Salpicaduras con WI-FI  NFC  GPS y Kit de Mando a Distancia Live-View   Blanco](https://www.amazon.es/dp/B00RK7OHPK/?tag=redken-21) con 25.93 de descuento por 333.3 EUR (original: 450.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412LxLgvDfL._SL200_.jpg)](https://www.amazon.es/dp/B00RK7OHPK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00RK7OHPK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00RK7OHPK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

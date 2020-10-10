@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD My Passport 3 TB Portable Hard Drive  al 49.65 % de descuento'
+title: 'Descuento del 49.65 % en WD My Passport 3 TB Portable Hard Drive '
 date: 2020-01-13 08:24:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 139 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [WD My Passport 3 TB Portable Hard Drive and Auto Backup Software for PC  Xbox One and PlayStation 4 - Black](https://www.amazon.co.uk/dp/B01LQQHBK8/?tag=redken01-21) a 69.99 GBP (original: 139 GBP) (49.65 %  de descuento) en el siguiente enlace!
+Tienes [WD My Passport 3 TB Portable Hard Drive and Auto Backup Software for PC  Xbox One and PlayStation 4 - Black](https://www.amazon.co.uk/dp/B01LQQHBK8/?tag=redken01-21) con un 49.65 % de descuento con precio de oferta de 69.99 GBP (original: 139 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LQQHBK8/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01LQQHBK8/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B01LQQHBK8/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

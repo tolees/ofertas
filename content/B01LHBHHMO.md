@@ -14,11 +14,11 @@ comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Está [ROMKE Modern Rectangular Silver Chrome 6 Way GU10 Ceiling Spotlight Adjustable Ceiling Kitchen Lights](https://www.amazon.co.uk/dp/B01LHBHHMO/?tag=redken01-21) con 28.58 de descuento por 24.99 GBP (original: 34.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [ROMKE Modern Rectangular Silver Chrome 6 Way GU10 Ceiling Spotlight Adjustable Ceiling Kitchen Lights](https://www.amazon.co.uk/dp/B01LHBHHMO/?tag=redken01-21) a 24.99 GBP (original: 34.99 GBP) (28.58 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41025RyH4sL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LHBHHMO/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01LHBHHMO/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01LHBHHMO/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

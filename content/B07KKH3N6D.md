@@ -14,11 +14,11 @@ comparePrice: 131.0 USD
 inStock: true
 ---
 
-Ahora mismo tienes [CRAFTSMAN V20 Impact Driver Kit  Cordless  CMCF810C1 ](https://www.amazon.com/dp/B07KKH3N6D/?tag=redken08-20) a 88.55 USD (original: 131.0 USD) (32.40 %  de descuento) en el siguiente enlace!
+Está [CRAFTSMAN V20 Impact Driver Kit  Cordless  CMCF810C1 ](https://www.amazon.com/dp/B07KKH3N6D/?tag=redken08-20) con 32.40 de descuento por 88.55 USD (original: 131.0 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41wGGXC-tqL._SL200_.jpg)](https://www.amazon.com/dp/B07KKH3N6D/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KKH3N6D/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KKH3N6D/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
