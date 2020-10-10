@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony X900H 65 Inch TV: 4K Ultra HD Smart al 28.71 % de descuento'
-date: 2020-10-09 00:09:02
+date: 2020-10-10 05:59:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/418uBvf4kYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418uBvf4kYL._SL200_.jpg' ]
 comments: true

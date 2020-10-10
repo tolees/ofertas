@@ -14,11 +14,11 @@ comparePrice: 19.95 USD
 inStock: true
 ---
 
-Está [LEGO Star Wars Minifigure - Luke Skywalker  Bacta Tank Outfit  75203 2018 Version](https://www.amazon.com/dp/B07JLXTZPG/?tag=redken08-20) con 80.00 de descuento por 3.99 USD (original: 19.95 USD) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars Minifigure - Luke Skywalker  Bacta Tank Outfit  75203 2018 Version](https://www.amazon.com/dp/B07JLXTZPG/?tag=redken08-20) a 3.99 USD (original: 19.95 USD) (80.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41C7klN2+WL._SL200_.jpg)](https://www.amazon.com/dp/B07JLXTZPG/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07JLXTZPG/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07JLXTZPG/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

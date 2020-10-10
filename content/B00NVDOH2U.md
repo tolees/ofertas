@@ -14,11 +14,11 @@ comparePrice: 7.99 EUR
 inStock: true
 ---
 
-Está [LEGO Classic 10700 - Bauplatte](https://www.amazon.de/dp/B00NVDOH2U/?tag=redken02-21) con 27.53 de descuento por 5.79 EUR (original: 7.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Classic 10700 - Bauplatte](https://www.amazon.de/dp/B00NVDOH2U/?tag=redken02-21) a 5.79 EUR (original: 7.99 EUR) (27.53 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51K3ZFSYmVL._SL200_.jpg)](https://www.amazon.de/dp/B00NVDOH2U/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00NVDOH2U/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B00NVDOH2U/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
