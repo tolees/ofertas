@@ -14,11 +14,11 @@ comparePrice: 49.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Clarks Women s Adriel Viola Closed-Toe Pumps  Black  Black Leather   5 UK  38 EU ](https://www.amazon.co.uk/dp/B06XCJYQC2/?tag=redken01-21) a 26.5 GBP (original: 49.0 GBP) (45.92 %  de descuento) en el siguiente enlace!
+Está [Clarks Women s Adriel Viola Closed-Toe Pumps  Black  Black Leather   5 UK  38 EU ](https://www.amazon.co.uk/dp/B06XCJYQC2/?tag=redken01-21) con 45.92 de descuento por 26.5 GBP (original: 49.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41E3c7RwUqL._SL200_.jpg)](https://www.amazon.co.uk/dp/B06XCJYQC2/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B06XCJYQC2/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06XCJYQC2/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

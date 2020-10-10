@@ -14,11 +14,11 @@ comparePrice: 399.0 EUR
 inStock: true
 ---
 
-Está [Sigma 30mm f/1.4 DC DN Contemporary - Objetivo estándar para el Sistema Micro Cuatro Tercios  Color Negro](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21) con 53.35 de descuento por 186.12 EUR (original: 399.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sigma 30mm f/1.4 DC DN Contemporary - Objetivo estándar para el Sistema Micro Cuatro Tercios  Color Negro](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21) a 186.12 EUR (original: 399.0 EUR) (53.35 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516+gEjcMNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

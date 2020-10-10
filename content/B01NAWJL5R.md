@@ -14,11 +14,11 @@ comparePrice: 25.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [L Orealvichy Face Cream  210 g](https://www.amazon.co.uk/dp/B01NAWJL5R/?tag=redken01-21) a 18.0 GBP (original: 25.0 GBP) (28.00 %  de descuento) en el siguiente enlace!
+Está [L Orealvichy Face Cream  210 g](https://www.amazon.co.uk/dp/B01NAWJL5R/?tag=redken01-21) con 28.00 de descuento por 18.0 GBP (original: 25.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5177kLQ+99L._SL200_.jpg)](https://www.amazon.co.uk/dp/B01NAWJL5R/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01NAWJL5R/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01NAWJL5R/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 48.73 EUR
 inStock: true
 ---
 
-Está [LEGO City 60227 Mond Raumstation Astronauten-Minifiguren](https://www.amazon.de/dp/B07L4FNTH4/?tag=redken02-21) con 27.87 de descuento por 35.15 EUR (original: 48.73 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60227 Mond Raumstation Astronauten-Minifiguren](https://www.amazon.de/dp/B07L4FNTH4/?tag=redken02-21) a 35.15 EUR (original: 48.73 EUR) (27.87 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51brJzGqexL._SL200_.jpg)](https://www.amazon.de/dp/B07L4FNTH4/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07L4FNTH4/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07L4FNTH4/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

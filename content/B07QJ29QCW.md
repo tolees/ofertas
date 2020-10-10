@@ -14,11 +14,11 @@ comparePrice: 10.38 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 43343 POP. Vinyl Games Bandicoot-Crash Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07QJ29QCW/?tag=redken01-21) a 6.99 GBP (original: 10.38 GBP) (32.66 %  de descuento) en el siguiente enlace!
+Está [Funko 43343 POP. Vinyl Games Bandicoot-Crash Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07QJ29QCW/?tag=redken01-21) con 32.66 de descuento por 6.99 GBP (original: 10.38 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41XIaTgdAnL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07QJ29QCW/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07QJ29QCW/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07QJ29QCW/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
