@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.56 % en TomTom GO 520 - GPS para coche  5 pulgad'
-date: 2020-10-02 16:01:20
+date: 2020-10-10 08:21:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MkLc2IrKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MkLc2IrKL._SL200_.jpg' ]
 comments: true

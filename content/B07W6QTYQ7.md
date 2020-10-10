@@ -14,11 +14,11 @@ comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 42106 Technic Stunt Show Truck & Bike Toys Set  2in1 Model with Pull-Back Motor and Trailer](https://www.amazon.co.uk/dp/B07W6QTYQ7/?tag=redken01-21) a 29.99 GBP (original: 44.99 GBP) (33.34 %  de descuento) en el siguiente enlace!
+Está [LEGO 42106 Technic Stunt Show Truck & Bike Toys Set  2in1 Model with Pull-Back Motor and Trailer](https://www.amazon.co.uk/dp/B07W6QTYQ7/?tag=redken01-21) con 33.34 de descuento por 29.99 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51WAaJOMPDL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W6QTYQ7/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07W6QTYQ7/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07W6QTYQ7/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Helly Hansen W HH LIFA Merino Basleayer  al 50.68 % de descuento'
-date: 2020-03-17 19:57:07
+title: 'Helly Hansen W HH LIFA Merino Basleayer  al 25.25 % de descuento'
+date: 2020-10-10 08:15:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31TLuTzIH+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31TLuTzIH+L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06XHBY2RR
 description:
-actualPrice: 36.99 EUR
+actualPrice: 56.06 EUR
 comparePrice: 75.0 EUR
 inStock: true
 ---
 
-Está [Helly Hansen W HH LIFA Merino Basleayer Pant  Mujer  Black  S](https://www.amazon.es/dp/B06XHBY2RR/?tag=redken-21) con 50.68 de descuento por 36.99 EUR (original: 75.0 EUR) en el siguiente enlace!
+Está [Helly Hansen W HH LIFA Merino Basleayer Pant  Mujer  Black  S](https://www.amazon.es/dp/B06XHBY2RR/?tag=redken-21) con 25.25 de descuento por 56.06 EUR (original: 75.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31TLuTzIH+L._SL200_.jpg)](https://www.amazon.es/dp/B06XHBY2RR/?tag=redken-21)
 
