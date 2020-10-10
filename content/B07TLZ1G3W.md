@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite Rewind Mochila para Portátil M al 30.00 % de descuento'
-date: 2020-10-03 11:00:42
+date: 2020-10-10 20:30:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/514+EznZGVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514+EznZGVL._SL200_.jpg' ]
 comments: true

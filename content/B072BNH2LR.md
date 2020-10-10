@@ -14,11 +14,11 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Está [Cherry Tree Racing Gaming Style PU Leather Swivel Office Chair in Black Colour](https://www.amazon.co.uk/dp/B072BNH2LR/?tag=redken01-21) con 41.00 de descuento por 58.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Cherry Tree Racing Gaming Style PU Leather Swivel Office Chair in Black Colour](https://www.amazon.co.uk/dp/B072BNH2LR/?tag=redken01-21) a 58.99 GBP (original: 99.99 GBP) (41.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/419t8znp6KL._SL200_.jpg)](https://www.amazon.co.uk/dp/B072BNH2LR/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B072BNH2LR/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B072BNH2LR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
