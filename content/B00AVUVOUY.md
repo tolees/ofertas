@@ -14,11 +14,11 @@ comparePrice: 7.0 GBP
 inStock: true
 ---
 
-Está [Ambre Solaire Sensitive Sun Cream SPF50+ 50ml Travel](https://www.amazon.co.uk/dp/B00AVUVOUY/?tag=redken01-21) con 58.43 de descuento por 2.91 GBP (original: 7.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Ambre Solaire Sensitive Sun Cream SPF50+ 50ml Travel](https://www.amazon.co.uk/dp/B00AVUVOUY/?tag=redken01-21) a 2.91 GBP (original: 7.0 GBP) (58.43 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Kic2xr70L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00AVUVOUY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00AVUVOUY/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00AVUVOUY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

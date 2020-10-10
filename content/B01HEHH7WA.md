@@ -14,11 +14,11 @@ comparePrice: 599.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Acer H6517ABD DLP Projektor  Full HD 1920 x 1080 Pixel  3200 ANSi Lumen  Kontrast 20.000:1 3D ](https://www.amazon.de/dp/B01HEHH7WA/?tag=redken02-21) a 419.9 EUR (original: 599.0 EUR) (29.90 %  de descuento) en el siguiente enlace!
+Está [Acer H6517ABD DLP Projektor  Full HD 1920 x 1080 Pixel  3200 ANSi Lumen  Kontrast 20.000:1 3D ](https://www.amazon.de/dp/B01HEHH7WA/?tag=redken02-21) con 29.90 de descuento por 419.9 EUR (original: 599.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4178LB20wYL._SL200_.jpg)](https://www.amazon.de/dp/B01HEHH7WA/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B01HEHH7WA/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B01HEHH7WA/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
