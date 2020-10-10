@@ -14,11 +14,11 @@ comparePrice: 333.98 GBP
 inStock: true
 ---
 
-Está [TONGJI Acrylic Display Case with Light For Lego Ideas 21318 - Tree House  Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.co.uk/dp/B083ZTTTW9/?tag=redken01-21) con 50.00 de descuento por 166.99 GBP (original: 333.98 GBP) en el siguiente enlace!
+Ahora mismo tienes [TONGJI Acrylic Display Case with Light For Lego Ideas 21318 - Tree House  Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.co.uk/dp/B083ZTTTW9/?tag=redken01-21) a 166.99 GBP (original: 333.98 GBP) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NcSujDUiL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B083ZTTTW9/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B083ZTTTW9/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B083ZTTTW9/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

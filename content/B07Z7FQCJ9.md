@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soporte de TV Pared Articulado Inclinabl al 26.93 % de descuento'
-date: 2020-10-09 10:47:26
+date: 2020-10-10 11:07:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FM2tJltDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FM2tJltDL._SL200_.jpg' ]
 comments: true

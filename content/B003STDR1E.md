@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.16 % en Logitech M705 Marathon Ratón Inalámbrico'
-date: 2020-10-05 22:45:28
+date: 2020-10-10 11:45:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JoIcCRQEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JoIcCRQEL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 249.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung Galaxy A40 - Smartphone de 5.9" FHD+ sAmoled Infinity U Display  4 GB RAM  64 GB ROM  16 MP  Exynos 7904  Carga rápida   Coral [versión española]](https://www.amazon.es/dp/B07PPJ8T6G/?tag=redken-21) a 181.99 EUR (original: 249.0 EUR) (26.91 %  de descuento) en el siguiente enlace!
+Está [Samsung Galaxy A40 - Smartphone de 5.9" FHD+ sAmoled Infinity U Display  4 GB RAM  64 GB ROM  16 MP  Exynos 7904  Carga rápida   Coral [versión española]](https://www.amazon.es/dp/B07PPJ8T6G/?tag=redken-21) con 26.91 de descuento por 181.99 EUR (original: 249.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Xn1cTHLFL._SL200_.jpg)](https://www.amazon.es/dp/B07PPJ8T6G/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07PPJ8T6G/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PPJ8T6G/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

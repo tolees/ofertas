@@ -14,11 +14,11 @@ comparePrice: 40.99 EUR
 inStock: true
 ---
 
-Está [LEGO Star Wars: El Despertar De La Fuerza  Episodio 7 ](https://www.amazon.es/dp/B01BHO7OCY/?tag=redken-21) con 70.77 de descuento por 11.98 EUR (original: 40.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars: El Despertar De La Fuerza  Episodio 7 ](https://www.amazon.es/dp/B01BHO7OCY/?tag=redken-21) a 11.98 EUR (original: 40.99 EUR) (70.77 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61-IkPzMPNL._SL200_.jpg)](https://www.amazon.es/dp/B01BHO7OCY/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01BHO7OCY/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01BHO7OCY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 5.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [10 Minute Solution - Dance Your Body Thin [DVD]](https://www.amazon.co.uk/dp/B002SZQC4I/?tag=redken01-21) a 2.38 GBP (original: 5.0 GBP) (52.40 %  de descuento) en el siguiente enlace!
+Está [10 Minute Solution - Dance Your Body Thin [DVD]](https://www.amazon.co.uk/dp/B002SZQC4I/?tag=redken01-21) con 52.40 de descuento por 2.38 GBP (original: 5.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51DgvDWrBZL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B002SZQC4I/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B002SZQC4I/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B002SZQC4I/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casdon 630 Henry Cleaning Trolley  Red al 50.04 % de descuento'
-date: 2020-10-09 11:25:21
+date: 2020-10-10 11:33:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a+xD1VS2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a+xD1VS2L._SL200_.jpg' ]
 comments: true

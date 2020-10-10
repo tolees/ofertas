@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funtime PL7690 Instant Table Tennis  Mul al 43.52 % de descuento'
-date: 2020-10-08 23:20:10
+date: 2020-10-10 11:43:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cPo9eD8vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cPo9eD8vL._SL200_.jpg' ]
 comments: true

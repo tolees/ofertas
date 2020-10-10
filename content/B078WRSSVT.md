@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 860 EVO 2 TB SATA 2.5 Inch Inter al 61.90 % de descuento'
-date: 2020-10-09 11:29:51
+date: 2020-10-10 11:51:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qn949SpcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qn949SpcL._SL200_.jpg' ]
 comments: true
