@@ -14,11 +14,11 @@ comparePrice: 33.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [VIAGGIO ESPRESSO - 120 Cápsulas de Café Compatibles con Máquinas Nespresso  GRAN COLECCIÓN ](https://www.amazon.es/dp/B079Z7WNTW/?tag=redken-21) a 25.05 EUR (original: 33.4 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Está [VIAGGIO ESPRESSO - 120 Cápsulas de Café Compatibles con Máquinas Nespresso  GRAN COLECCIÓN ](https://www.amazon.es/dp/B079Z7WNTW/?tag=redken-21) con 25.00 de descuento por 25.05 EUR (original: 33.4 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51EyhrRg5ZL._SL200_.jpg)](https://www.amazon.es/dp/B079Z7WNTW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079Z7WNTW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079Z7WNTW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

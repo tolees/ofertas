@@ -14,11 +14,11 @@ comparePrice: 50.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Eastpak Out Of Office Backpack  44 cm  27 L  Black  Black Denim ](https://www.amazon.co.uk/dp/B00O1XHJYW/?tag=redken01-21) a 28.45 GBP (original: 50.0 GBP) (43.10 %  de descuento) en el siguiente enlace!
+Está [Eastpak Out Of Office Backpack  44 cm  27 L  Black  Black Denim ](https://www.amazon.co.uk/dp/B00O1XHJYW/?tag=redken01-21) con 43.10 de descuento por 28.45 GBP (original: 50.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LoSSXG-jL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00O1XHJYW/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00O1XHJYW/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00O1XHJYW/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

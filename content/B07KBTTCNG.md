@@ -14,11 +14,11 @@ comparePrice: 180.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Lightailing Light Set for  Star Wars Death Star  Building Blocks Model - Led Light kit Compatible with Lego 10188 NOT Included The Model ](https://www.amazon.co.uk/dp/B07KBTTCNG/?tag=redken01-21) a 69.99 GBP (original: 180.0 GBP) (61.12 %  de descuento) en el siguiente enlace!
+Está [Lightailing Light Set for  Star Wars Death Star  Building Blocks Model - Led Light kit Compatible with Lego 10188 NOT Included The Model ](https://www.amazon.co.uk/dp/B07KBTTCNG/?tag=redken01-21) con 61.12 de descuento por 69.99 GBP (original: 180.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KBTTCNG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07KBTTCNG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KBTTCNG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

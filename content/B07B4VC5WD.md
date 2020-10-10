@@ -14,11 +14,11 @@ comparePrice: 799.0 EUR
 inStock: true
 ---
 
-Está [Sony Xperia XZ2 - Smartphone de 5.7"  Octa-Core de 2.8 GHz  RAM de 4 GB  Memoria Interna de 64 GB  cámara de 19 MP  Android  Color Plata](https://www.amazon.es/dp/B07B4VC5WD/?tag=redken-21) con 47.56 de descuento por 419.0 EUR (original: 799.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony Xperia XZ2 - Smartphone de 5.7"  Octa-Core de 2.8 GHz  RAM de 4 GB  Memoria Interna de 64 GB  cámara de 19 MP  Android  Color Plata](https://www.amazon.es/dp/B07B4VC5WD/?tag=redken-21) a 419.0 EUR (original: 799.0 EUR) (47.56 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41lIXdu0TJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07B4VC5WD/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07B4VC5WD/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07B4VC5WD/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
