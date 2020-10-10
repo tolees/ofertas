@@ -14,11 +14,11 @@ comparePrice: 39.34 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sylvanian Families Country Kitchen Set](https://www.amazon.co.uk/dp/B003SSDZUS/?tag=redken01-21) a 21.99 GBP (original: 39.34 GBP) (44.10 %  de descuento) en el siguiente enlace!
+Está [Sylvanian Families Country Kitchen Set](https://www.amazon.co.uk/dp/B003SSDZUS/?tag=redken01-21) con 44.10 de descuento por 21.99 GBP (original: 39.34 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4170JHactcL._SL200_.jpg)](https://www.amazon.co.uk/dp/B003SSDZUS/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B003SSDZUS/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B003SSDZUS/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

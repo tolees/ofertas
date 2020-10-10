@@ -14,11 +14,11 @@ comparePrice: 107.86 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sony WI-C600N Wireless Bluetooth Noise Cancelling In-Ear Headphones Optimised for Voice Assistant - Black](https://www.amazon.co.uk/dp/B07MPQWSY3/?tag=redken01-21) a 79.99 GBP (original: 107.86 GBP) (25.84 %  de descuento) en el siguiente enlace!
+Está [Sony WI-C600N Wireless Bluetooth Noise Cancelling In-Ear Headphones Optimised for Voice Assistant - Black](https://www.amazon.co.uk/dp/B07MPQWSY3/?tag=redken01-21) con 25.84 de descuento por 79.99 GBP (original: 107.86 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41XBRp9EJ+L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07MPQWSY3/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07MPQWSY3/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07MPQWSY3/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

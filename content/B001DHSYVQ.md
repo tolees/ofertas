@@ -14,11 +14,11 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brother LC1100HYBK - Cartucho de tinta negro de larga duración  duración estimada: hasta 900 páginas según ISO/IEC 24711 ](https://www.amazon.es/dp/B001DHSYVQ/?tag=redken-21) a 22.41 EUR (original: 29.99 EUR) (25.28 %  de descuento) en el siguiente enlace!
+Está [Brother LC1100HYBK - Cartucho de tinta negro de larga duración  duración estimada: hasta 900 páginas según ISO/IEC 24711 ](https://www.amazon.es/dp/B001DHSYVQ/?tag=redken-21) con 25.28 de descuento por 22.41 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41g1sTXhVbL._SL200_.jpg)](https://www.amazon.es/dp/B001DHSYVQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B001DHSYVQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001DHSYVQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

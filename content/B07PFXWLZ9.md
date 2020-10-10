@@ -14,11 +14,11 @@ comparePrice: 31.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BLEND 20708531 Camisa Casual  Azul  Dark Navy Blue 74645   M para Hombre](https://www.amazon.es/dp/B07PFXWLZ9/?tag=redken-21) a 19.36 EUR (original: 31.2 EUR) (37.95 %  de descuento) en el siguiente enlace!
+Está [BLEND 20708531 Camisa Casual  Azul  Dark Navy Blue 74645   M para Hombre](https://www.amazon.es/dp/B07PFXWLZ9/?tag=redken-21) con 37.95 de descuento por 19.36 EUR (original: 31.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OT42drluL._SL200_.jpg)](https://www.amazon.es/dp/B07PFXWLZ9/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07PFXWLZ9/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PFXWLZ9/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

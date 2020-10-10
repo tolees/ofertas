@@ -14,11 +14,11 @@ comparePrice: 11.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois  Sombra de ojos  Tono: 16 Nude  Gama Nudes   - 3.2 g](https://www.amazon.es/dp/B07H8X1SRN/?tag=redken-21) a 4.99 EUR (original: 11.2 EUR) (55.45 %  de descuento) en el siguiente enlace!
+Está [Bourjois  Sombra de ojos  Tono: 16 Nude  Gama Nudes   - 3.2 g](https://www.amazon.es/dp/B07H8X1SRN/?tag=redken-21) con 55.45 de descuento por 4.99 EUR (original: 11.2 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51HlJATtnXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07H8X1SRN/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07H8X1SRN/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07H8X1SRN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

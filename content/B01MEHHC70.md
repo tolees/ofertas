@@ -14,11 +14,11 @@ comparePrice: 2.95 EUR
 inStock: true
 ---
 
-Está [Rimmel London  rossetto The Only 1 Lipstick  colore Peachy-Beachy](https://www.amazon.es/dp/B01MEHHC70/?tag=redken-21) con 33.90 de descuento por 1.95 EUR (original: 2.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London  rossetto The Only 1 Lipstick  colore Peachy-Beachy](https://www.amazon.es/dp/B01MEHHC70/?tag=redken-21) a 1.95 EUR (original: 2.95 EUR) (33.90 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41fKnkEbfuL._SL200_.jpg)](https://www.amazon.es/dp/B01MEHHC70/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01MEHHC70/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01MEHHC70/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
