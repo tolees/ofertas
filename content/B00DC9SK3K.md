@@ -14,11 +14,11 @@ comparePrice: 24.89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Metal Gear Solid V : The Phantom Pain](https://www.amazon.es/dp/B00DC9SK3K/?tag=redken-21) a 12.99 EUR (original: 24.89 EUR) (47.81 %  de descuento) en el siguiente enlace!
+Está [Metal Gear Solid V : The Phantom Pain](https://www.amazon.es/dp/B00DC9SK3K/?tag=redken-21) con 47.81 de descuento por 12.99 EUR (original: 24.89 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51BTQE3qDZL._SL200_.jpg)](https://www.amazon.es/dp/B00DC9SK3K/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00DC9SK3K/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00DC9SK3K/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

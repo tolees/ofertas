@@ -14,11 +14,11 @@ comparePrice: 90.7 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Xbox One Arctic Camo Controller](https://www.amazon.co.uk/dp/B085GQP5FD/?tag=redken01-21) a 62.17 GBP (original: 90.7 GBP) (31.46 %  de descuento) en el siguiente enlace!
+Está [Xbox One Arctic Camo Controller](https://www.amazon.co.uk/dp/B085GQP5FD/?tag=redken01-21) con 31.46 de descuento por 62.17 GBP (original: 90.7 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qRjlL3dgL._SL200_.jpg)](https://www.amazon.co.uk/dp/B085GQP5FD/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B085GQP5FD/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B085GQP5FD/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 12.46 EUR
 inStock: true
 ---
 
-Está [Alyssa Ashley green Tea Essence Eau de Toilette Vaporizador 100 ml](https://www.amazon.es/dp/B0086EKVPQ/?tag=redken-21) con 25.36 de descuento por 9.3 EUR (original: 12.46 EUR) en el siguiente enlace!
+Ahora mismo tienes [Alyssa Ashley green Tea Essence Eau de Toilette Vaporizador 100 ml](https://www.amazon.es/dp/B0086EKVPQ/?tag=redken-21) a 9.3 EUR (original: 12.46 EUR) (25.36 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41p-yAD2m8L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0086EKVPQ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0086EKVPQ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B0086EKVPQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

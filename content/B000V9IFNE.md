@@ -14,11 +14,11 @@ comparePrice: 28.0 GBP
 inStock: true
 ---
 
-Está [Canterbury Unisex Adult Ventilator Rugby Headguard  Black  Medium](https://www.amazon.co.uk/dp/B000V9IFNE/?tag=redken01-21) con 51.79 de descuento por 13.5 GBP (original: 28.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Canterbury Unisex Adult Ventilator Rugby Headguard  Black  Medium](https://www.amazon.co.uk/dp/B000V9IFNE/?tag=redken01-21) a 13.5 GBP (original: 28.0 GBP) (51.79 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41NaWhpOL4L._SL200_.jpg)](https://www.amazon.co.uk/dp/B000V9IFNE/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B000V9IFNE/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B000V9IFNE/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
