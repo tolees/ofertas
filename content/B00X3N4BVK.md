@@ -14,11 +14,11 @@ comparePrice: 39.22 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Optimum Nutrition Pro BCAA Suplemento para Deportistas  Sabor de Melocotón y Mango - 390 gr](https://www.amazon.es/dp/B00X3N4BVK/?tag=redken-21) a 20.99 EUR (original: 39.22 EUR) (46.48 %  de descuento) en el siguiente enlace!
+Está [Optimum Nutrition Pro BCAA Suplemento para Deportistas  Sabor de Melocotón y Mango - 390 gr](https://www.amazon.es/dp/B00X3N4BVK/?tag=redken-21) con 46.48 de descuento por 20.99 EUR (original: 39.22 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.es/dp/B00X3N4BVK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00X3N4BVK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00X3N4BVK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 30.78 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Shenmue III  PS4 ](https://www.amazon.co.uk/dp/B07P7GL5JJ/?tag=redken01-21) a 22.99 GBP (original: 30.78 GBP) (25.31 %  de descuento) en el siguiente enlace!
+Está [Shenmue III  PS4 ](https://www.amazon.co.uk/dp/B07P7GL5JJ/?tag=redken01-21) con 25.31 de descuento por 22.99 GBP (original: 30.78 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/518b4ry-aWL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07P7GL5JJ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07P7GL5JJ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07P7GL5JJ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

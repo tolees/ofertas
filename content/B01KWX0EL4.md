@@ -14,11 +14,11 @@ comparePrice: 132.37 GBP
 inStock: true
 ---
 
-Está [Kobo Aura 15.24 cm 2nd Edition eBook Reader - Black](https://www.amazon.co.uk/dp/B01KWX0EL4/?tag=redken01-21) con 30.97 de descuento por 91.37 GBP (original: 132.37 GBP) en el siguiente enlace!
+Ahora mismo tienes [Kobo Aura 15.24 cm 2nd Edition eBook Reader - Black](https://www.amazon.co.uk/dp/B01KWX0EL4/?tag=redken01-21) a 91.37 GBP (original: 132.37 GBP) (30.97 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4104APeuzEL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01KWX0EL4/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01KWX0EL4/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01KWX0EL4/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

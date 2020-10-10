@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Classic U  Zuecos con Correa Trase al 49.01 % de descuento'
-date: 2020-10-08 04:22:14
+date: 2020-10-10 09:17:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31k8B48RfyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31k8B48RfyL._SL200_.jpg' ]
 comments: true

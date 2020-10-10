@@ -14,11 +14,11 @@ comparePrice: 30.0 GBP
 inStock: true
 ---
 
-Está [Makita 821549-5 Type 1 Makpac Connector Case](https://www.amazon.co.uk/dp/B00IDE6DN8/?tag=redken01-21) con 38.33 de descuento por 18.5 GBP (original: 30.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Makita 821549-5 Type 1 Makpac Connector Case](https://www.amazon.co.uk/dp/B00IDE6DN8/?tag=redken01-21) a 18.5 GBP (original: 30.0 GBP) (38.33 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/415zXgBbBLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00IDE6DN8/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00IDE6DN8/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00IDE6DN8/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

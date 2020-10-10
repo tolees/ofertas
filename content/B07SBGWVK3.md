@@ -14,11 +14,11 @@ comparePrice: 109.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Rider Jacket Chaqueta Vaquera  Azul  Cerulean EI   Large para Hombre](https://www.amazon.es/dp/B07SBGWVK3/?tag=redken-21) a 54.98 EUR (original: 109.95 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Lee Rider Jacket Chaqueta Vaquera  Azul  Cerulean EI   Large para Hombre](https://www.amazon.es/dp/B07SBGWVK3/?tag=redken-21) con 50.00 de descuento por 54.98 EUR (original: 109.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4156EKOIhWL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07SBGWVK3/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07SBGWVK3/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07SBGWVK3/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
