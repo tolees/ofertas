@@ -14,11 +14,11 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Russell Hobbs Powersteam Ultra 3100 W Vertical Steam Iron 20630 - Black and Grey](https://www.amazon.co.uk/dp/B00K8S8OXO/?tag=redken01-21) a 34.99 GBP (original: 59.99 GBP) (41.67 %  de descuento) en el siguiente enlace!
+Está [Russell Hobbs Powersteam Ultra 3100 W Vertical Steam Iron 20630 - Black and Grey](https://www.amazon.co.uk/dp/B00K8S8OXO/?tag=redken01-21) con 41.67 de descuento por 34.99 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dRh5zjzEL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00K8S8OXO/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00K8S8OXO/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00K8S8OXO/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

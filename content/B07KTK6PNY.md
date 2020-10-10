@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 31.55 % en LEGO 70678 NINJAGO Castle of the Forsake'
+title: 'LEGO 70678 NINJAGO Castle of the Forsake al 31.55 % de descuento'
 date: 2020-03-06 08:55:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pwzg-mcJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pwzg-mcJL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 89.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 70678 NINJAGO Castle of the Forsaken Emperor Set with Ice Dragon Toy  Masters of Spinjitzu Playset](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21) con un 31.55 % de descuento con precio de oferta de 61.6 GBP (original: 89.99 GBP) en el siguiente enlace!
+Está [LEGO 70678 NINJAGO Castle of the Forsaken Emperor Set with Ice Dragon Toy  Masters of Spinjitzu Playset](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21) con 31.55 de descuento por 61.6 GBP (original: 89.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51pwzg-mcJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KTK6PNY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

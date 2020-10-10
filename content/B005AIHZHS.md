@@ -14,11 +14,11 @@ comparePrice: 49.0 EUR
 inStock: true
 ---
 
-Está [Sisley Phyto-Mascara Ultra-Stretch #02-Deep Brown 7.5 ml](https://www.amazon.es/dp/B005AIHZHS/?tag=redken-21) con 49.69 de descuento por 24.65 EUR (original: 49.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sisley Phyto-Mascara Ultra-Stretch #02-Deep Brown 7.5 ml](https://www.amazon.es/dp/B005AIHZHS/?tag=redken-21) a 24.65 EUR (original: 49.0 EUR) (49.69 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31hRBA1ZmcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B005AIHZHS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B005AIHZHS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B005AIHZHS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

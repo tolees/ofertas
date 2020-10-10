@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Planescape: Torment + Icewind Dale - Enh al 27.27 % de descuento'
+title: 'Descuento del 27.27 % en Planescape: Torment + Icewind Dale - Enh'
 date: 2020-01-10 21:27:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z8q6u9wqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51z8q6u9wqL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Planescape: Torment + Icewind Dale - Enhanced Edition](https://www.amazon.es/dp/B07SMSM3QB/?tag=redken-21) con 27.27 de descuento por 36.36 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Planescape: Torment + Icewind Dale - Enhanced Edition](https://www.amazon.es/dp/B07SMSM3QB/?tag=redken-21) con un 27.27 % de descuento con precio de oferta de 36.36 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51z8q6u9wqL._SL200_.jpg)](https://www.amazon.es/dp/B07SMSM3QB/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07SMSM3QB/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07SMSM3QB/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
