@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intex 59065NP - Pelota hinchable gigante al 32.66 % de descuento'
-date: 2020-10-07 11:09:52
+date: 2020-10-10 17:26:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PvIUtHXDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PvIUtHXDL._SL200_.jpg' ]
 comments: true

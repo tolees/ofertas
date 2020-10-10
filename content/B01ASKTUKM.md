@@ -14,11 +14,11 @@ comparePrice: 24.91 EUR
 inStock: true
 ---
 
-Está [Vichy - Protector anti-manchas 3 en 1 spf 50+](https://www.amazon.es/dp/B01ASKTUKM/?tag=redken-21) con 32.24 de descuento por 16.88 EUR (original: 24.91 EUR) en el siguiente enlace!
+Ahora mismo tienes [Vichy - Protector anti-manchas 3 en 1 spf 50+](https://www.amazon.es/dp/B01ASKTUKM/?tag=redken-21) a 16.88 EUR (original: 24.91 EUR) (32.24 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ebwSLL2eL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01ASKTUKM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01ASKTUKM/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01ASKTUKM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PENTEL Sharp Mechanical Drafting Pencil  al 54.63 % de descuento'
-date: 2020-10-09 11:48:56
+date: 2020-10-10 17:59:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Tz51Al-7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Tz51Al-7L._SL200_.jpg' ]
 comments: true

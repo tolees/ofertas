@@ -14,11 +14,11 @@ comparePrice: 115.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Timberland Men s Bradstreet 5 Eye Oxford Low-top Sneakers  Brown  Dark Brown Full Grain   9 UK 43.5 EU](https://www.amazon.co.uk/dp/B07DGR76KT/?tag=redken01-21) a 57.5 GBP (original: 115.0 GBP) (50.00 %  de descuento) en el siguiente enlace!
+Está [Timberland Men s Bradstreet 5 Eye Oxford Low-top Sneakers  Brown  Dark Brown Full Grain   9 UK 43.5 EU](https://www.amazon.co.uk/dp/B07DGR76KT/?tag=redken01-21) con 50.00 de descuento por 57.5 GBP (original: 115.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31SyGVOo3OL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DGR76KT/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07DGR76KT/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DGR76KT/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

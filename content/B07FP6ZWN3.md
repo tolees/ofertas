@@ -14,11 +14,11 @@ comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Está [Lego 42091 Technic Polizei-Verfolgungsjagd  bunt](https://www.amazon.de/dp/B07FP6ZWN3/?tag=redken02-21) con 33.91 de descuento por 12.88 EUR (original: 19.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego 42091 Technic Polizei-Verfolgungsjagd  bunt](https://www.amazon.de/dp/B07FP6ZWN3/?tag=redken02-21) a 12.88 EUR (original: 19.49 EUR) (33.91 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KkoplnHsL._SL200_.jpg)](https://www.amazon.de/dp/B07FP6ZWN3/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FP6ZWN3/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07FP6ZWN3/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

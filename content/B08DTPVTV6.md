@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.02 % en HMEDA Consola de Juegos Portátil  Juegos'
-date: 2020-10-09 16:28:27
+date: 2020-10-10 17:15:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+8loWuKDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+8loWuKDL._SL200_.jpg' ]
 comments: true
