@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung HAF-CIN/EXP Refrigerator Water F al 43.65 % de descuento'
-date: 2020-10-07 23:09:17
+date: 2020-10-09 23:32:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+akUiJX-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+akUiJX-L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reshias Cover per Sony Xperia L4 Morbido al 30.64 % de descuento'
-date: 2020-10-08 17:18:13
+date: 2020-10-09 23:02:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JbK6YUt-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JbK6YUt-L._SL200_.jpg' ]
 comments: true

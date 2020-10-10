@@ -14,11 +14,11 @@ comparePrice: 6.87 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 37055 POP Keychain: Toy Story-Alien Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07MHY7GW4/?tag=redken01-21) a 3.99 GBP (original: 6.87 GBP) (41.92 %  de descuento) en el siguiente enlace!
+Está [Funko 37055 POP Keychain: Toy Story-Alien Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07MHY7GW4/?tag=redken01-21) con 41.92 de descuento por 3.99 GBP (original: 6.87 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51xbeypDHGL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07MHY7GW4/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07MHY7GW4/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07MHY7GW4/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 25W USB-C Super Fast Charging Wa al 70.59 % de descuento'
-date: 2020-10-07 23:12:12
+date: 2020-10-09 23:26:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jSUPh1y0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jSUPh1y0L._SL200_.jpg' ]
 comments: true
