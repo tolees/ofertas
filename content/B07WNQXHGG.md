@@ -14,11 +14,11 @@ comparePrice: 18.3 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pop TV: Stranger Things-Robin Figura Coleccionable  Multicolor  47203 ](https://www.amazon.es/dp/B07WNQXHGG/?tag=redken-21) a 12.69 EUR (original: 18.3 EUR) (30.66 %  de descuento) en el siguiente enlace!
+Está [Funko- Pop TV: Stranger Things-Robin Figura Coleccionable  Multicolor  47203 ](https://www.amazon.es/dp/B07WNQXHGG/?tag=redken-21) con 30.66 de descuento por 12.69 EUR (original: 18.3 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41hm1SwECdL._SL200_.jpg)](https://www.amazon.es/dp/B07WNQXHGG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07WNQXHGG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07WNQXHGG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

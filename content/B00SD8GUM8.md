@@ -14,11 +14,11 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Está [Star Wars A New Hope Darth Vader Extendable Lightsaber](https://www.amazon.co.uk/dp/B00SD8GUM8/?tag=redken01-21) con 40.02 de descuento por 11.99 GBP (original: 19.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Star Wars A New Hope Darth Vader Extendable Lightsaber](https://www.amazon.co.uk/dp/B00SD8GUM8/?tag=redken01-21) a 11.99 GBP (original: 19.99 GBP) (40.02 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31k9A4odyHL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00SD8GUM8/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00SD8GUM8/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00SD8GUM8/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

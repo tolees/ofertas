@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic 42099 - 4x4 X-treme Off-Roa al 30.43 % de descuento'
-date: 2020-10-09 00:34:35
+date: 2020-10-10 06:16:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KyFgbE4ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KyFgbE4ZL._SL200_.jpg' ]
 comments: true

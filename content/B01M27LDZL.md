@@ -14,11 +14,11 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Dunlop OMEGA - Pala de pádel 38mm  2017  nivel iniciación  color verde](https://www.amazon.es/dp/B01M27LDZL/?tag=redken-21) con 62.03 de descuento por 37.95 EUR (original: 99.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dunlop OMEGA - Pala de pádel 38mm  2017  nivel iniciación  color verde](https://www.amazon.es/dp/B01M27LDZL/?tag=redken-21) a 37.95 EUR (original: 99.95 EUR) (62.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41XZENpVyYL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01M27LDZL/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01M27LDZL/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01M27LDZL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

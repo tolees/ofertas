@@ -14,11 +14,11 @@ comparePrice: 151.98 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GODNECE Technic Sports Car  1:8 Static Sports Car Mclaren Car Model Kit Model Building Kits Difficult Building Blocks Technic Compatible with Lego 2270Pcs  ](https://www.amazon.co.uk/dp/B085NQTTHR/?tag=redken01-21) a 75.99 GBP (original: 151.98 GBP) (50.00 %  de descuento) en el siguiente enlace!
+Está [GODNECE Technic Sports Car  1:8 Static Sports Car Mclaren Car Model Kit Model Building Kits Difficult Building Blocks Technic Compatible with Lego 2270Pcs  ](https://www.amazon.co.uk/dp/B085NQTTHR/?tag=redken01-21) con 50.00 de descuento por 75.99 GBP (original: 151.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51U7x+qJkPL._SL200_.jpg)](https://www.amazon.co.uk/dp/B085NQTTHR/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B085NQTTHR/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B085NQTTHR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

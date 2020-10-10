@@ -14,11 +14,11 @@ comparePrice: 19.95 USD
 inStock: true
 ---
 
-Está [Calico Critters Ice Skating Friends](https://www.amazon.com/dp/B01KIGDW64/?tag=redken08-20) con 37.94 de descuento por 12.38 USD (original: 19.95 USD) en el siguiente enlace!
+Ahora mismo tienes [Calico Critters Ice Skating Friends](https://www.amazon.com/dp/B01KIGDW64/?tag=redken08-20) a 12.38 USD (original: 19.95 USD) (37.94 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/413iZhGVZJL._SL200_.jpg)](https://www.amazon.com/dp/B01KIGDW64/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01KIGDW64/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01KIGDW64/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

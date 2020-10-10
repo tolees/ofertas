@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 26.49 % en LEGO 70425 Hidden Side Newbury s spukend'
-date: 2020-10-08 12:56:38
-thumbnailImage: 'https://m.media-amazon.com/images/I/516NW10YZUL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/516NW10YZUL._SL200_.jpg' ]
+title: 'LEGO Hidden Side 70425 Newbury Haunted H al 27.28 % de descuento'
+date: 2020-10-10 00:32:58
+thumbnailImage: 'https://m.media-amazon.com/images/I/516Qdo95n0L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/516Qdo95n0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07ND99DMZ
 description:
-actualPrice: 85.99 EUR
-comparePrice: 116.97 EUR
+actualPrice: 79.99 GBP
+comparePrice: 109.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 70425 Hidden Side Newbury s spukende Schule Kinderspielzeug  Augmented Reality Funktionen](https://www.amazon.de/dp/B07ND99DMZ/?tag=redken02-21) con un 26.49 % de descuento con precio de oferta de 85.99 EUR (original: 116.97 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Hidden Side 70425 Newbury Haunted High School Construction Big Set  AR Lego Games with Lego app  Interactive Augmented Reality Ghost Playset  Gifts for 9 Years Old Boys and Girls](https://www.amazon.co.uk/dp/B07ND99DMZ/?tag=redken01-21) a 79.99 GBP (original: 109.99 GBP) (27.28 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/516NW10YZUL._SL200_.jpg)](https://www.amazon.de/dp/B07ND99DMZ/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/516Qdo95n0L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07ND99DMZ/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07ND99DMZ/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07ND99DMZ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

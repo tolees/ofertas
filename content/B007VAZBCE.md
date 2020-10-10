@@ -14,11 +14,11 @@ comparePrice: 643.96 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tamron 24-70mm F/2 8 Weitwinkelobjektiv mit USD-Motor und Spritzwasserschutz für Sony schwarz](https://www.amazon.de/dp/B007VAZBCE/?tag=redken02-21) a 320.0 EUR (original: 643.96 EUR) (50.31 %  de descuento) en el siguiente enlace!
+Está [Tamron 24-70mm F/2 8 Weitwinkelobjektiv mit USD-Motor und Spritzwasserschutz für Sony schwarz](https://www.amazon.de/dp/B007VAZBCE/?tag=redken02-21) con 50.31 de descuento por 320.0 EUR (original: 643.96 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UcoSCzkuL._SL200_.jpg)](https://www.amazon.de/dp/B007VAZBCE/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B007VAZBCE/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B007VAZBCE/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
