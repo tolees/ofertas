@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.22 % en JBL Charge 4 Bluetooth-Lautsprecher in S'
-date: 2020-10-06 12:00:53
+date: 2020-10-10 12:51:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O3OkTCjzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O3OkTCjzL._SL200_.jpg' ]
 comments: true

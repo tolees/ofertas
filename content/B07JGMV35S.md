@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Safety 1st Koala Gandulita reclinable pa al 36.70 % de descuento'
-date: 2020-10-10 11:59:55
+date: 2020-10-10 11:59:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LOF6AnSHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LOF6AnSHL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 109 EUR
 inStock: true
 ---
 
-Está [Manfrotto MB MA-SB-C1 - Funda Avanzada para cámara](https://www.amazon.es/dp/B01M0GKF6Y/?tag=redken-21) con 59.03 de descuento por 44.66 EUR (original: 109 EUR) en el siguiente enlace!
+Ahora mismo tienes [Manfrotto MB MA-SB-C1 - Funda Avanzada para cámara](https://www.amazon.es/dp/B01M0GKF6Y/?tag=redken-21) a 44.66 EUR (original: 109 EUR) (59.03 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dlv1Y3QsL._SL200_.jpg)](https://www.amazon.es/dp/B01M0GKF6Y/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01M0GKF6Y/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01M0GKF6Y/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

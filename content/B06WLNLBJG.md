@@ -14,11 +14,11 @@ comparePrice: 129.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [STAR WARS The Last Jedi Hyper Drive BB-8 Figure](https://www.amazon.co.uk/dp/B06WLNLBJG/?tag=redken01-21) a 25.89 GBP (original: 129.99 GBP) (80.08 %  de descuento) en el siguiente enlace!
+Está [STAR WARS The Last Jedi Hyper Drive BB-8 Figure](https://www.amazon.co.uk/dp/B06WLNLBJG/?tag=redken01-21) con 80.08 de descuento por 25.89 GBP (original: 129.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Bhw042OAL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B06WLNLBJG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B06WLNLBJG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06WLNLBJG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 159.0 EUR
 inStock: true
 ---
 
-Está [Ecus Kids  colchón cuna para bebé anti-plagiocefalia - Pigü  120x60x12](https://www.amazon.es/dp/B00VWRT1W8/?tag=redken-21) con 30.43 de descuento por 110.62 EUR (original: 159.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Ecus Kids  colchón cuna para bebé anti-plagiocefalia - Pigü  120x60x12](https://www.amazon.es/dp/B00VWRT1W8/?tag=redken-21) a 110.62 EUR (original: 159.0 EUR) (30.43 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41p9f9LyjbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00VWRT1W8/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00VWRT1W8/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00VWRT1W8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

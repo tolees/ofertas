@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Halloween 4K [Blu-ray] al 34.80 % de descuento'
-date: 2020-10-08 12:31:29
+date: 2020-10-10 12:44:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aVZ+7EhyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aVZ+7EhyL._SL200_.jpg' ]
 comments: true

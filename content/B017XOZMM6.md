@@ -14,11 +14,11 @@ comparePrice: 260 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen Salt Power Chaqueta  Hombre  Negro  L](https://www.amazon.es/dp/B017XOZMM6/?tag=redken-21) a 132.59 EUR (original: 260 EUR) (49.00 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen Salt Power Chaqueta  Hombre  Negro  L](https://www.amazon.es/dp/B017XOZMM6/?tag=redken-21) con 49.00 de descuento por 132.59 EUR (original: 260 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XmielfNkL._SL200_.jpg)](https://www.amazon.es/dp/B017XOZMM6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B017XOZMM6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B017XOZMM6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

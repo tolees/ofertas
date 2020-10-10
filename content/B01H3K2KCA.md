@@ -14,11 +14,11 @@ comparePrice: 23.5 EUR
 inStock: true
 ---
 
-Está [Flexi New Comfort - Cinta   Gris  Talla S](https://www.amazon.es/dp/B01H3K2KCA/?tag=redken-21) con 47.96 de descuento por 12.23 EUR (original: 23.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Flexi New Comfort - Cinta   Gris  Talla S](https://www.amazon.es/dp/B01H3K2KCA/?tag=redken-21) a 12.23 EUR (original: 23.5 EUR) (47.96 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31TpVTaw8aL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01H3K2KCA/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01H3K2KCA/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01H3K2KCA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

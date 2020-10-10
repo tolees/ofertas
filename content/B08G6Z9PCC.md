@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Irishman  The Criterion Collection   al 26.18 % de descuento'
-date: 2020-10-09 00:40:09
+date: 2020-10-10 12:44:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y6vw1SlGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y6vw1SlGL._SL200_.jpg' ]
 comments: true

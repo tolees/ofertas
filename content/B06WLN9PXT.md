@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'My Little Pony - Equestria Minis Caravan al 64.22 % de descuento'
-date: 2020-10-09 12:26:28
+date: 2020-10-10 12:37:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/61lensvdGTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61lensvdGTL._SL200_.jpg' ]
 comments: true
