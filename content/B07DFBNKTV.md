@@ -14,11 +14,11 @@ comparePrice: 9.19 GBP
 inStock: true
 ---
 
-Está [Funko 32803 POP Vinyl: Power Rangers: Lord Zedd  Multi  Standard](https://www.amazon.co.uk/dp/B07DFBNKTV/?tag=redken01-21) con 27.86 de descuento por 6.63 GBP (original: 9.19 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 32803 POP Vinyl: Power Rangers: Lord Zedd  Multi  Standard](https://www.amazon.co.uk/dp/B07DFBNKTV/?tag=redken01-21) a 6.63 GBP (original: 9.19 GBP) (27.86 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41fJcMo-j-L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFBNKTV/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DFBNKTV/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DFBNKTV/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

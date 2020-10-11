@@ -14,11 +14,11 @@ comparePrice: 48.99 GBP
 inStock: true
 ---
 
-Está [BRIKSMAX Led Lighting Kit for Friends Stephanie s House - Compatible with Lego 41314 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B07WVBPGCJ/?tag=redken01-21) con 61.24 de descuento por 18.99 GBP (original: 48.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Lighting Kit for Friends Stephanie s House - Compatible with Lego 41314 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B07WVBPGCJ/?tag=redken01-21) a 18.99 GBP (original: 48.99 GBP) (61.24 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51RFJE9+nfL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WVBPGCJ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07WVBPGCJ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07WVBPGCJ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
