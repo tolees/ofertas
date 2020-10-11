@@ -14,11 +14,11 @@ comparePrice: 14.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [SheaMoisture Clarifying Facial Wash & Scrub for Oily  Blemish-Prone Skin African Black Soap to Clarify Skin 4 oz](https://www.amazon.com/dp/B00DAGQV4K/?tag=redken08-20) a 8.33 USD (original: 14.99 USD) (44.43 %  de descuento) en el siguiente enlace!
+Está [SheaMoisture Clarifying Facial Wash & Scrub for Oily  Blemish-Prone Skin African Black Soap to Clarify Skin 4 oz](https://www.amazon.com/dp/B00DAGQV4K/?tag=redken08-20) con 44.43 de descuento por 8.33 USD (original: 14.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LOuMdjPSL._SL200_.jpg)](https://www.amazon.com/dp/B00DAGQV4K/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00DAGQV4K/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00DAGQV4K/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Está [Divinity Original Sin 2 Definitive Edition  Xbox One ](https://www.amazon.co.uk/dp/B07DCB8MDJ/?tag=redken01-21) con 40.01 de descuento por 17.99 GBP (original: 29.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Divinity Original Sin 2 Definitive Edition  Xbox One ](https://www.amazon.co.uk/dp/B07DCB8MDJ/?tag=redken01-21) a 17.99 GBP (original: 29.99 GBP) (40.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61Xmd01uqNL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DCB8MDJ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DCB8MDJ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DCB8MDJ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

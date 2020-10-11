@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 44824 POP Moment: Game of Thrones- al 33.06 % de descuento'
-date: 2020-03-31 12:43:43
+title: 'Funko Pop! Moment: Game of Thrones - Dae al 47.12 % de descuento'
+date: 2020-10-11 08:13:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/419tuPd7PNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419tuPd7PNL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07RTLS2K1
 description:
-actualPrice: 16.12 GBP
-comparePrice: 24.08 GBP
+actualPrice: 18.48 EUR
+comparePrice: 34.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 44824 POP Moment: Game of Thrones-Daenerys & Jorah B2B w/Swords Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07RTLS2K1/?tag=redken01-21) a 16.12 GBP (original: 24.08 GBP) (33.06 %  de descuento) en el siguiente enlace!
+Está [Funko Pop! Moment: Game of Thrones - Daenerys & Jorah B2B w/Swords](https://www.amazon.es/dp/B07RTLS2K1/?tag=redken-21) con 47.12 de descuento por 18.48 EUR (original: 34.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/419tuPd7PNL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07RTLS2K1/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/419tuPd7PNL._SL200_.jpg)](https://www.amazon.es/dp/B07RTLS2K1/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07RTLS2K1/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07RTLS2K1/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

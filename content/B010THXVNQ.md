@@ -14,11 +14,11 @@ comparePrice: 2299.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2  42 4 Megapixel  7 6cm  3 Zoll  TFT-Display  4K Video  5-Achsen-Bildstabilisierung  nur Gehäuse  schwarz](https://www.amazon.de/dp/B010THXVNQ/?tag=redken02-21) a 850.0 EUR (original: 2299.0 EUR) (63.03 %  de descuento) en el siguiente enlace!
+Está [Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2  42 4 Megapixel  7 6cm  3 Zoll  TFT-Display  4K Video  5-Achsen-Bildstabilisierung  nur Gehäuse  schwarz](https://www.amazon.de/dp/B010THXVNQ/?tag=redken02-21) con 63.03 de descuento por 850.0 EUR (original: 2299.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg)](https://www.amazon.de/dp/B010THXVNQ/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B010THXVNQ/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B010THXVNQ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

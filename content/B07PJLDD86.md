@@ -14,11 +14,11 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FREDI Cámara espía HD 1080P WiFi Cámara Videocámara Oculta Mini Cámara de vigilancia inalámbrica Seguridad para Interiores Visión Nocturna](https://www.amazon.es/dp/B07PJLDD86/?tag=redken-21) a 49.99 EUR (original: 99.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
+Está [FREDI Cámara espía HD 1080P WiFi Cámara Videocámara Oculta Mini Cámara de vigilancia inalámbrica Seguridad para Interiores Visión Nocturna](https://www.amazon.es/dp/B07PJLDD86/?tag=redken-21) con 50.01 de descuento por 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Zd4S+OnRL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PJLDD86/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07PJLDD86/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PJLDD86/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

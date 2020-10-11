@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.51 % en Jack & Jones Jjiglenn Jjoriginal Am 814 '
-date: 2020-10-08 20:15:48
+date: 2020-10-11 08:38:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31bpF0BN82L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31bpF0BN82L._SL200_.jpg' ]
 comments: true

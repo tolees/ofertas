@@ -14,11 +14,11 @@ comparePrice: 63.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [WD Black - Disco duro de alto rendimiento para ordenadores de sobremesa de 500 GB  7200 rpm  SATA a 6 Gb/s  32 MB de caché  2.5" ](https://www.amazon.es/dp/B00QFXOL5G/?tag=redken-21) a 42.97 EUR (original: 63.98 EUR) (32.84 %  de descuento) en el siguiente enlace!
+Está [WD Black - Disco duro de alto rendimiento para ordenadores de sobremesa de 500 GB  7200 rpm  SATA a 6 Gb/s  32 MB de caché  2.5" ](https://www.amazon.es/dp/B00QFXOL5G/?tag=redken-21) con 32.84 de descuento por 42.97 EUR (original: 63.98 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qDdiwiqpL._SL200_.jpg)](https://www.amazon.es/dp/B00QFXOL5G/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00QFXOL5G/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00QFXOL5G/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
