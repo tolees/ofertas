@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calico Critters Cherry Cruiser al 49.67 % de descuento'
-date: 2020-10-06 17:19:42
+date: 2020-10-11 00:00:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BB1cY2lxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BB1cY2lxL._SL200_.jpg' ]
 comments: true

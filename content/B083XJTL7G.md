@@ -14,11 +14,11 @@ comparePrice: 121.98 GBP
 inStock: true
 ---
 
-Está [TONGJI Acrylic Display Case For Lego 21319 Ideas Central Perk Friends  Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.co.uk/dp/B083XJTL7G/?tag=redken01-21) con 50.00 de descuento por 60.99 GBP (original: 121.98 GBP) en el siguiente enlace!
+Ahora mismo tienes [TONGJI Acrylic Display Case For Lego 21319 Ideas Central Perk Friends  Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.co.uk/dp/B083XJTL7G/?tag=redken01-21) a 60.99 GBP (original: 121.98 GBP) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ctljrFrkL._SL200_.jpg)](https://www.amazon.co.uk/dp/B083XJTL7G/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B083XJTL7G/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B083XJTL7G/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

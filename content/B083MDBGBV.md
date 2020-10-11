@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Moment Star Wars: The Mandalo al 26.49 % de descuento'
-date: 2020-10-09 17:56:32
+date: 2020-10-11 00:11:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41q5V7zzs5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41q5V7zzs5L._SL200_.jpg' ]
 comments: true

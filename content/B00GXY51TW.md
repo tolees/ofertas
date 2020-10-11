@@ -14,11 +14,11 @@ comparePrice: 19.69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The LEGO Movie Videogame - [PlayStation Vita]](https://www.amazon.de/dp/B00GXY51TW/?tag=redken02-21) a 4.77 EUR (original: 19.69 EUR) (75.77 %  de descuento) en el siguiente enlace!
+Está [The LEGO Movie Videogame - [PlayStation Vita]](https://www.amazon.de/dp/B00GXY51TW/?tag=redken02-21) con 75.77 de descuento por 4.77 EUR (original: 19.69 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61NPECPz-WL._SL200_.jpg)](https://www.amazon.de/dp/B00GXY51TW/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B00GXY51TW/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B00GXY51TW/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

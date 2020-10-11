@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'InLine 33328Y Y-Kabel für Lüfter PWM  4p al 49.21 % de descuento'
-date: 2020-10-09 23:37:33
+date: 2020-10-11 00:15:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pnhPhhT0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pnhPhhT0L._SL200_.jpg' ]
 comments: true

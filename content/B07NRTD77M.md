@@ -14,11 +14,11 @@ comparePrice: 9.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Schwarzkopf Gliss - Reparador de puntas Ultimate Repair  2 unidades - 50 ml](https://www.amazon.es/dp/B07NRTD77M/?tag=redken-21) a 6.5 EUR (original: 9.0 EUR) (27.78 %  de descuento) en el siguiente enlace!
+Está [Schwarzkopf Gliss - Reparador de puntas Ultimate Repair  2 unidades - 50 ml](https://www.amazon.es/dp/B07NRTD77M/?tag=redken-21) con 27.78 de descuento por 6.5 EUR (original: 9.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51qarmWGRXL._SL200_.jpg)](https://www.amazon.es/dp/B07NRTD77M/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NRTD77M/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NRTD77M/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

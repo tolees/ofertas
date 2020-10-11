@@ -14,11 +14,11 @@ comparePrice: 9.74 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Duplo 10870 Tiere auf dem Bauernhof  Lernspielzeug](https://www.amazon.de/dp/B075GQBMMZ/?tag=redken02-21) a 7.22 EUR (original: 9.74 EUR) (25.87 %  de descuento) en el siguiente enlace!
+Está [LEGO Duplo 10870 Tiere auf dem Bauernhof  Lernspielzeug](https://www.amazon.de/dp/B075GQBMMZ/?tag=redken02-21) con 25.87 de descuento por 7.22 EUR (original: 9.74 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51V43SUbiOL._SL200_.jpg)](https://www.amazon.de/dp/B075GQBMMZ/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B075GQBMMZ/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B075GQBMMZ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

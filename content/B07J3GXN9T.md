@@ -14,11 +14,11 @@ comparePrice: 16.99 GBP
 inStock: true
 ---
 
-Está [Moleskine 2020 12-Month Weekly Diary](https://www.amazon.co.uk/dp/B07J3GXN9T/?tag=redken01-21) con 50.03 de descuento por 8.49 GBP (original: 16.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Moleskine 2020 12-Month Weekly Diary](https://www.amazon.co.uk/dp/B07J3GXN9T/?tag=redken01-21) a 8.49 GBP (original: 16.99 GBP) (50.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/411NtRXXArL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07J3GXN9T/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07J3GXN9T/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07J3GXN9T/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
