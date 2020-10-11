@@ -14,11 +14,11 @@ comparePrice: 229.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Newton Telescopio 130/650 Sph.](https://www.amazon.es/dp/B00B9B5VPS/?tag=redken-21) a 106.2 EUR (original: 229.9 EUR) (53.81 %  de descuento) en el siguiente enlace!
+Está [Newton Telescopio 130/650 Sph.](https://www.amazon.es/dp/B00B9B5VPS/?tag=redken-21) con 53.81 de descuento por 106.2 EUR (original: 229.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dub12bPfL._SL200_.jpg)](https://www.amazon.es/dp/B00B9B5VPS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00B9B5VPS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00B9B5VPS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

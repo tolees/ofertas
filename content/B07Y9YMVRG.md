@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SNAPTAIN SP500 Foldable GPS FPV Drone wi al 34.89 % de descuento'
-date: 2020-10-10 12:04:53
+date: 2020-10-11 17:42:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BdWSKpAeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BdWSKpAeL._SL200_.jpg' ]
 comments: true

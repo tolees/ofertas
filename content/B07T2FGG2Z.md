@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-1000XM3 komplett kabellose Noise al 28.08 % de descuento'
-date: 2020-10-10 12:18:20
+date: 2020-10-11 17:59:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/315F9OCgvmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315F9OCgvmL._SL200_.jpg' ]
 comments: true

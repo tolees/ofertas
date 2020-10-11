@@ -14,11 +14,11 @@ comparePrice: 41.99 USD
 inStock: true
 ---
 
-Está [LEGO Movie 2 The: The Second Part  4K Ultra HD + Blu-ray + Digital ](https://www.amazon.com/dp/B07MLB1KZS/?tag=redken08-20) con 60.80 de descuento por 16.46 USD (original: 41.99 USD) en el siguiente enlace!
+Ahora mismo tienes [LEGO Movie 2 The: The Second Part  4K Ultra HD + Blu-ray + Digital ](https://www.amazon.com/dp/B07MLB1KZS/?tag=redken08-20) a 16.46 USD (original: 41.99 USD) (60.80 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/510ezhD9kmL._SL200_.jpg)](https://www.amazon.com/dp/B07MLB1KZS/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07MLB1KZS/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07MLB1KZS/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

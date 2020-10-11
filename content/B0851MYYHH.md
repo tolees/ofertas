@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en Pack Star Wars: The Skywalker Saga Blu-R'
-date: 2020-10-10 11:10:35
+date: 2020-10-11 17:01:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wLveJ8nHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wLveJ8nHL._SL200_.jpg' ]
 comments: true
