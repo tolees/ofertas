@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'VicTsing Ratón Inalámbrico Recargable  2 al 26.93 % de descuento'
-date: 2020-10-07 09:01:40
-thumbnailImage: 'https://m.media-amazon.com/images/I/418W35SatAL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/418W35SatAL._SL200_.jpg' ]
+date: 2020-10-11 18:58:19
+thumbnailImage: 'https://m.media-amazon.com/images/I/41SN--Zwc3L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41SN--Zwc3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [VicTsing Ratón Inalámbrico Recargable  2.4G Raton Ergonómico Portatil Mini  Ratón óptico Silencioso Click  Ratón Inalámbrico con 2400 dpi  para Computadora Portátil  PC  Macbook [2020 MÁS Nuevo]](https://www.amazon.es/dp/B0814KDRSR/?tag=redken-21) con 26.93 de descuento por 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/418W35SatAL._SL200_.jpg)](https://www.amazon.es/dp/B0814KDRSR/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41SN--Zwc3L._SL200_.jpg)](https://www.amazon.es/dp/B0814KDRSR/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0814KDRSR/?tag=redken-21)
 

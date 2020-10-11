@@ -14,11 +14,11 @@ comparePrice: 86.99 USD
 inStock: true
 ---
 
-Está [8Bitdo N30 Pro 2  N Edition  Wireless Controller Dual Classic Bluetooth Video Game Joystick Gamepad for Android/PC/Mac OS/Switch](https://www.amazon.com/dp/B07L9VRD9W/?tag=redken08-20) con 50.58 de descuento por 42.99 USD (original: 86.99 USD) en el siguiente enlace!
+Ahora mismo tienes [8Bitdo N30 Pro 2  N Edition  Wireless Controller Dual Classic Bluetooth Video Game Joystick Gamepad for Android/PC/Mac OS/Switch](https://www.amazon.com/dp/B07L9VRD9W/?tag=redken08-20) a 42.99 USD (original: 86.99 USD) (50.58 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41wrPppYexL._SL200_.jpg)](https://www.amazon.com/dp/B07L9VRD9W/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07L9VRD9W/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07L9VRD9W/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

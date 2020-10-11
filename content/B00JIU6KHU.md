@@ -14,11 +14,11 @@ comparePrice: 4.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [A4 Recycled Kraft Paper 100gsm 50 Sheets](https://www.amazon.co.uk/dp/B00JIU6KHU/?tag=redken01-21) a 3.67 GBP (original: 4.99 GBP) (26.45 %  de descuento) en el siguiente enlace!
+Está [A4 Recycled Kraft Paper 100gsm 50 Sheets](https://www.amazon.co.uk/dp/B00JIU6KHU/?tag=redken01-21) con 26.45 de descuento por 3.67 GBP (original: 4.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412jwDZvGnL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00JIU6KHU/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00JIU6KHU/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00JIU6KHU/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

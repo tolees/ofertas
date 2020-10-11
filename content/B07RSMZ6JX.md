@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Couvercle Silicone Alimentaire 12 Pièces al 26.17 % de descuento'
-date: 2020-10-09 05:50:26
+date: 2020-10-11 18:24:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Zv6UiqTTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Zv6UiqTTL._SL200_.jpg' ]
 comments: true

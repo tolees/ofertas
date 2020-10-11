@@ -14,11 +14,11 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Está [Lacoste Carnaby EVO Light-WT 1193 SFA  Zapatillas para Mujer  Blanco  Wht/Lt Pnk 1y9   36 EU](https://www.amazon.es/dp/B07DJ7XGVW/?tag=redken-21) con 30.00 de descuento por 66.5 EUR (original: 95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Carnaby EVO Light-WT 1193 SFA  Zapatillas para Mujer  Blanco  Wht/Lt Pnk 1y9   36 EU](https://www.amazon.es/dp/B07DJ7XGVW/?tag=redken-21) a 66.5 EUR (original: 95 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31huNH5Mr3L._SL200_.jpg)](https://www.amazon.es/dp/B07DJ7XGVW/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DJ7XGVW/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DJ7XGVW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

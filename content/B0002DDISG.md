@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun HC 5050 Maquinilla Cortar Pelo Pro al 41.67 % de descuento'
-date: 2020-10-09 13:44:56
+date: 2020-10-11 18:57:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Fp4-FopcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Fp4-FopcL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 9.22 GBP
 inStock: true
 ---
 
-Está [Funko 33991 POP Vinyl: Games: Fallout S2: Vault Boy  Nerd Rage   Multi](https://www.amazon.co.uk/dp/B07HB3HKH1/?tag=redken01-21) con 45.88 de descuento por 4.99 GBP (original: 9.22 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 33991 POP Vinyl: Games: Fallout S2: Vault Boy  Nerd Rage   Multi](https://www.amazon.co.uk/dp/B07HB3HKH1/?tag=redken01-21) a 4.99 GBP (original: 9.22 GBP) (45.88 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41tyRE5LmvL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HB3HKH1/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HB3HKH1/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07HB3HKH1/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

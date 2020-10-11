@@ -14,11 +14,11 @@ comparePrice: 11.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Max Factor False Lash Effect Volumising Mascara Black  13.1 ml](https://www.amazon.co.uk/dp/B001VNCA0S/?tag=redken01-21) a 4.31 GBP (original: 11.99 GBP) (64.05 %  de descuento) en el siguiente enlace!
+Está [Max Factor False Lash Effect Volumising Mascara Black  13.1 ml](https://www.amazon.co.uk/dp/B001VNCA0S/?tag=redken01-21) con 64.05 de descuento por 4.31 GBP (original: 11.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31F5uPqbEHL._SL200_.jpg)](https://www.amazon.co.uk/dp/B001VNCA0S/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B001VNCA0S/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B001VNCA0S/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
