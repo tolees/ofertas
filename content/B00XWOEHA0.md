@@ -14,11 +14,11 @@ comparePrice: 48.53 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Men’s Court Royale Low-Top Sneakers  White  White/White 111   12 UK](https://www.amazon.co.uk/dp/B00XWOEHA0/?tag=redken01-21) a 27.19 GBP (original: 48.53 GBP) (43.97 %  de descuento) en el siguiente enlace!
+Está [Nike Men’s Court Royale Low-Top Sneakers  White  White/White 111   12 UK](https://www.amazon.co.uk/dp/B00XWOEHA0/?tag=redken01-21) con 43.97 de descuento por 27.19 GBP (original: 48.53 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31qM6QZ3GqL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00XWOEHA0/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00XWOEHA0/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00XWOEHA0/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

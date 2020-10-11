@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.60 % en Ghf Cola de Caballo  100 comprimidos 500'
-date: 2020-10-10 12:46:04
+date: 2020-10-11 12:58:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dNRcZ+NXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dNRcZ+NXL._SL200_.jpg' ]
 comments: true

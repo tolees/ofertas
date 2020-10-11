@@ -14,11 +14,11 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [KRISP 6252-GRY-18  Vestido Corto Patinadora Vuelo Fruncido Busto  Gris  6252   46](https://www.amazon.es/dp/B01NAIGK0Q/?tag=redken-21) a 12.49 EUR (original: 25.99 EUR) (51.94 %  de descuento) en el siguiente enlace!
+Está [KRISP 6252-GRY-18  Vestido Corto Patinadora Vuelo Fruncido Busto  Gris  6252   46](https://www.amazon.es/dp/B01NAIGK0Q/?tag=redken-21) con 51.94 de descuento por 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL200_.jpg)](https://www.amazon.es/dp/B01NAIGK0Q/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01NAIGK0Q/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01NAIGK0Q/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

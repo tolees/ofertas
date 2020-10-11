@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joker  DVD  al 44.64 % de descuento'
-date: 2020-10-05 23:35:33
+date: 2020-10-11 12:50:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yjdl0XBiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yjdl0XBiL._SL200_.jpg' ]
 comments: true

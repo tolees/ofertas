@@ -14,11 +14,11 @@ comparePrice: 145.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch Professional GEX 125-1 AE - Lijadora excéntrica  250 W  Microfiltro  Ø plato lijador 125 mm  en caja ](https://www.amazon.es/dp/B00SPB9TXK/?tag=redken-21) a 100.83 EUR (original: 145.2 EUR) (30.56 %  de descuento) en el siguiente enlace!
+Está [Bosch Professional GEX 125-1 AE - Lijadora excéntrica  250 W  Microfiltro  Ø plato lijador 125 mm  en caja ](https://www.amazon.es/dp/B00SPB9TXK/?tag=redken-21) con 30.56 de descuento por 100.83 EUR (original: 145.2 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/510urFp1ZJL._SL200_.jpg)](https://www.amazon.es/dp/B00SPB9TXK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00SPB9TXK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00SPB9TXK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
