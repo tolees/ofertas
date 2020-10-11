@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'My Arcade Retro Machine - 200 Juegos Vin al 39.22 % de descuento'
-date: 2020-09-29 17:42:08
+date: 2020-10-11 05:45:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Pi7lymIxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Pi7lymIxL._SL200_.jpg' ]
 comments: true
@@ -19,5 +19,7 @@ Ahora mismo tienes [My Arcade Retro Machine - 200 Juegos Vintage  8 Bit ](https:
 [![](https://m.media-amazon.com/images/I/51Pi7lymIxL._SL200_.jpg)](https://www.amazon.es/dp/B00S4HI1NY/?tag=redken-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B00S4HI1NY/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

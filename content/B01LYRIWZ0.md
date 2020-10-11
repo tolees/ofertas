@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.79 % en PLAYMOBIL Ghostbusters Ecto-1'
-date: 2020-10-09 17:37:55
+date: 2020-10-11 05:41:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg' ]
 comments: true

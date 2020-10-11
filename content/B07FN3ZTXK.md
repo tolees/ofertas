@@ -14,11 +14,11 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Schwarz  Black 02A   X-Small](https://www.amazon.de/dp/B07FN3ZTXK/?tag=redken02-21) a 23.95 EUR (original: 39.99 EUR) (40.11 %  de descuento) en el siguiente enlace!
+Está [Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Schwarz  Black 02A   X-Small](https://www.amazon.de/dp/B07FN3ZTXK/?tag=redken02-21) con 40.11 de descuento por 23.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/311-NHZPhpL._SL200_.jpg)](https://www.amazon.de/dp/B07FN3ZTXK/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07FN3ZTXK/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07FN3ZTXK/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

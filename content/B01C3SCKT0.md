@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sigma 30mm f/1.4 DC DN Contemporary - Ob al 53.35 % de descuento'
+title: 'Descuento del 53.35 % en Sigma 30mm f/1.4 DC DN Contemporary - Ob'
 date: 2020-02-09 09:54:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/516+gEjcMNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516+gEjcMNL._AC_._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 399.0 EUR
 inStock: true
 ---
 
-Está [Sigma 30mm f/1.4 DC DN Contemporary - Objetivo estándar para el Sistema Micro Cuatro Tercios  Color Negro](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21) con 53.35 de descuento por 186.12 EUR (original: 399.0 EUR) en el siguiente enlace!
+Tienes [Sigma 30mm f/1.4 DC DN Contemporary - Objetivo estándar para el Sistema Micro Cuatro Tercios  Color Negro](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21) con un 53.35 % de descuento con precio de oferta de 186.12 EUR (original: 399.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516+gEjcMNL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B01C3SCKT0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
