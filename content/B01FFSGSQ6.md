@@ -14,11 +14,11 @@ comparePrice: 145.0 GBP
 inStock: true
 ---
 
-Está [Britax Römer car seat 9-36 kg  EVOLVA 123 group 1/2/3  Cosmos Black](https://www.amazon.co.uk/dp/B01FFSGSQ6/?tag=redken01-21) con 51.73 de descuento por 69.99 GBP (original: 145.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Britax Römer car seat 9-36 kg  EVOLVA 123 group 1/2/3  Cosmos Black](https://www.amazon.co.uk/dp/B01FFSGSQ6/?tag=redken01-21) a 69.99 GBP (original: 145.0 GBP) (51.73 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31cuN1WPfML._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01FFSGSQ6/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01FFSGSQ6/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01FFSGSQ6/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

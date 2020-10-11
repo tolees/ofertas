@@ -14,11 +14,11 @@ comparePrice: 279.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lenovo 120S-11IAP - Ordenador portátil 11.6" HD  Intel Celeron N3350  2GB RAM  32GB EMMC  Windows 10 Home  Azul - Teclado QWERTY Español](https://www.amazon.es/dp/B079SSSXCL/?tag=redken-21) a 161.32 EUR (original: 279.0 EUR) (42.18 %  de descuento) en el siguiente enlace!
+Está [Lenovo 120S-11IAP - Ordenador portátil 11.6" HD  Intel Celeron N3350  2GB RAM  32GB EMMC  Windows 10 Home  Azul - Teclado QWERTY Español](https://www.amazon.es/dp/B079SSSXCL/?tag=redken-21) con 42.18 de descuento por 161.32 EUR (original: 279.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KOooS7QpL._SL200_.jpg)](https://www.amazon.es/dp/B079SSSXCL/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079SSSXCL/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079SSSXCL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
