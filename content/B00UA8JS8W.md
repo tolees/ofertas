@@ -14,11 +14,11 @@ comparePrice: 7.43 EUR
 inStock: true
 ---
 
-Está [Maybelline New York Dr.Rescue CC Nails Base Coat  Esmalte de Uñas](https://www.amazon.es/dp/B00UA8JS8W/?tag=redken-21) con 42.93 de descuento por 4.24 EUR (original: 7.43 EUR) en el siguiente enlace!
+Ahora mismo tienes [Maybelline New York Dr.Rescue CC Nails Base Coat  Esmalte de Uñas](https://www.amazon.es/dp/B00UA8JS8W/?tag=redken-21) a 4.24 EUR (original: 7.43 EUR) (42.93 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gvZMSftAL._SL200_.jpg)](https://www.amazon.es/dp/B00UA8JS8W/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00UA8JS8W/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00UA8JS8W/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.99 % en Nike MD Runner 2  Zapatillas para Hombre'
-date: 2020-10-10 12:58:26
+date: 2020-10-11 13:14:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sUnx-QWIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sUnx-QWIL._SL200_.jpg' ]
 comments: true

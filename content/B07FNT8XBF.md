@@ -14,11 +14,11 @@ comparePrice: 15.99 GBP
 inStock: true
 ---
 
-Está [LEGO 70663 Spinjitzu Nya and Wu Ninja NINJAGO Customisable Spinner Toy Set](https://www.amazon.co.uk/dp/B07FNT8XBF/?tag=redken01-21) con 30.02 de descuento por 11.19 GBP (original: 15.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 70663 Spinjitzu Nya and Wu Ninja NINJAGO Customisable Spinner Toy Set](https://www.amazon.co.uk/dp/B07FNT8XBF/?tag=redken01-21) a 11.19 GBP (original: 15.99 GBP) (30.02 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Jr4WYVvpL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNT8XBF/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07FNT8XBF/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07FNT8XBF/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

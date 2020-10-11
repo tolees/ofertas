@@ -14,11 +14,11 @@ comparePrice: 74.98 EUR
 inStock: true
 ---
 
-Está [Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B01M8MO8XS/?tag=redken03-21) con 61.72 de descuento por 28.7 EUR (original: 74.98 EUR) en el siguiente enlace!
+Ahora mismo tienes [Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B01M8MO8XS/?tag=redken03-21) a 28.7 EUR (original: 74.98 EUR) (61.72 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg)](https://www.amazon.it/dp/B01M8MO8XS/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01M8MO8XS/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B01M8MO8XS/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 5.25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Duracell - Plus C  Pilas Alcalinas  paquete de 2  1.5 Voltios LR14 MX1400](https://www.amazon.es/dp/B004W7GYCK/?tag=redken-21) a 2.72 EUR (original: 5.25 EUR) (48.19 %  de descuento) en el siguiente enlace!
+Está [Duracell - Plus C  Pilas Alcalinas  paquete de 2  1.5 Voltios LR14 MX1400](https://www.amazon.es/dp/B004W7GYCK/?tag=redken-21) con 48.19 de descuento por 2.72 EUR (original: 5.25 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51mU6OQ6v3L._SL200_.jpg)](https://www.amazon.es/dp/B004W7GYCK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B004W7GYCK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B004W7GYCK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

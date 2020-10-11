@@ -14,11 +14,11 @@ comparePrice: 579.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nikon AF-S DX NIKKOR 18-140 f/3.5-5.6G ED VR - Objetivo para Nikon  distancia focal 18-140mm  apertura f/3.5-5.6  estabilizador  diámetro: 67mm  color negro](https://www.amazon.es/dp/B00ECGX8FM/?tag=redken-21) a 361.95 EUR (original: 579.0 EUR) (37.49 %  de descuento) en el siguiente enlace!
+Está [Nikon AF-S DX NIKKOR 18-140 f/3.5-5.6G ED VR - Objetivo para Nikon  distancia focal 18-140mm  apertura f/3.5-5.6  estabilizador  diámetro: 67mm  color negro](https://www.amazon.es/dp/B00ECGX8FM/?tag=redken-21) con 37.49 de descuento por 361.95 EUR (original: 579.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41OJXTYOVOL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00ECGX8FM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00ECGX8FM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00ECGX8FM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

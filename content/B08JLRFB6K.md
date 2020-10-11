@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OUTTUO Carrera teledirigido anfibia  2.4 al 28.70 % de descuento'
-date: 2020-10-10 12:56:39
+date: 2020-10-11 13:27:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ydtQF2dxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ydtQF2dxL._SL200_.jpg' ]
 comments: true

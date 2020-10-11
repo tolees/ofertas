@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HolyHigh Auriculares Bluetooth  In-Ear D al 28.34 % de descuento'
-date: 2020-10-10 12:58:00
+date: 2020-10-11 13:13:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eLDitmXuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eLDitmXuL._SL200_.jpg' ]
 comments: true

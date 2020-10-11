@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LUOWAN Carrera teledirigido anfibia  2.4 al 50.01 % de descuento'
-date: 2020-10-10 12:47:08
+date: 2020-10-11 13:13:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bsYwzsuoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bsYwzsuoL._SL200_.jpg' ]
 comments: true

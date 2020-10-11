@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TASSIMO Milka  bebida de chocolate - 5 p al 40.52 % de descuento'
-date: 2020-10-10 07:15:50
+date: 2020-10-11 13:33:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yhrv70DFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yhrv70DFL._SL200_.jpg' ]
 comments: true

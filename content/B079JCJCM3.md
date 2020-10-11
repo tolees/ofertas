@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wacom Intuos S Tableta Gráfica Bluetooth al 27.54 % de descuento'
-date: 2020-10-10 07:05:37
+date: 2020-10-11 13:06:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yODei1jRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yODei1jRL._SL200_.jpg' ]
 comments: true
