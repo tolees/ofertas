@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette Mach3 Maquinilla de Afeitar + 1 al 35.52 % de descuento'
-date: 2020-10-09 23:07:01
+date: 2020-10-11 19:50:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51T7TOupFVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51T7TOupFVL._SL200_.jpg' ]
 comments: true

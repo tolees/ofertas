@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Band 4- Pulsera de actividad con  al 48.97 % de descuento'
-date: 2020-10-06 10:48:08
+date: 2020-10-11 19:03:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tPK6uionL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tPK6uionL._SL200_.jpg' ]
 comments: true

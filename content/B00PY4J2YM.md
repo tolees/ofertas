@@ -14,11 +14,11 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Está [KRISP 6488-NVY-12  Vestido Corto Fruncido Busto  Azul Marino  6488   40](https://www.amazon.es/dp/B00PY4J2YM/?tag=redken-21) con 51.94 de descuento por 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [KRISP 6488-NVY-12  Vestido Corto Fruncido Busto  Azul Marino  6488   40](https://www.amazon.es/dp/B00PY4J2YM/?tag=redken-21) a 12.49 EUR (original: 25.99 EUR) (51.94 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51qr1zgpj3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00PY4J2YM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00PY4J2YM/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00PY4J2YM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

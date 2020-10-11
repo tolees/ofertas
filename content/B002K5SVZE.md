@@ -14,11 +14,11 @@ comparePrice: 28.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ESI Aloe Veragel with Vitamin E and Tea Tree Oil 500ml by ESI](https://www.amazon.es/dp/B002K5SVZE/?tag=redken-21) a 17.72 EUR (original: 28.99 EUR) (38.88 %  de descuento) en el siguiente enlace!
+Está [ESI Aloe Veragel with Vitamin E and Tea Tree Oil 500ml by ESI](https://www.amazon.es/dp/B002K5SVZE/?tag=redken-21) con 38.88 de descuento por 17.72 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41m+XZO2nAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B002K5SVZE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B002K5SVZE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B002K5SVZE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 60 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LIGHTAILING Light Set For  Architecture Las Vegas  Building Blocks Model - Led Light kit Compatible With Lego 21047 NOT Included The Model ](https://www.amazon.co.uk/dp/B07RYCTSGH/?tag=redken01-21) a 36.99 GBP (original: 60 GBP) (38.35 %  de descuento) en el siguiente enlace!
+Está [LIGHTAILING Light Set For  Architecture Las Vegas  Building Blocks Model - Led Light kit Compatible With Lego 21047 NOT Included The Model ](https://www.amazon.co.uk/dp/B07RYCTSGH/?tag=redken01-21) con 38.35 de descuento por 36.99 GBP (original: 60 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41p2fpYYoUL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07RYCTSGH/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07RYCTSGH/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07RYCTSGH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 30.0 GBP
 inStock: true
 ---
 
-Está [Ambi Pur 3Volution Cotton Fresh Home Plug in Air Freshener  Pack of 6 Refills](https://www.amazon.co.uk/dp/B01NBXSJKJ/?tag=redken01-21) con 50.00 de descuento por 15.0 GBP (original: 30.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Ambi Pur 3Volution Cotton Fresh Home Plug in Air Freshener  Pack of 6 Refills](https://www.amazon.co.uk/dp/B01NBXSJKJ/?tag=redken01-21) a 15.0 GBP (original: 30.0 GBP) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412W9ktqrqL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01NBXSJKJ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01NBXSJKJ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01NBXSJKJ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

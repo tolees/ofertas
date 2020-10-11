@@ -14,11 +14,11 @@ comparePrice: 25.99 GBP
 inStock: true
 ---
 
-Está [USB C Wall Charger  Tronsmart WCP01 Quick Charge 3.0 and 4.0 18W  15V / 1.2A Wall Charger  Ultra Compact Power Delivery 3.0 USB Type C Charger for iPhone  Huawei  Tablet and all Other USB C Devices](https://www.amazon.co.uk/dp/B07JYYZBWR/?tag=redken01-21) con 42.32 de descuento por 14.99 GBP (original: 25.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [USB C Wall Charger  Tronsmart WCP01 Quick Charge 3.0 and 4.0 18W  15V / 1.2A Wall Charger  Ultra Compact Power Delivery 3.0 USB Type C Charger for iPhone  Huawei  Tablet and all Other USB C Devices](https://www.amazon.co.uk/dp/B07JYYZBWR/?tag=redken01-21) a 14.99 GBP (original: 25.99 GBP) (42.32 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31SLep+Z7dL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JYYZBWR/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07JYYZBWR/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07JYYZBWR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

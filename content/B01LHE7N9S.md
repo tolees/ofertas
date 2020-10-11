@@ -14,11 +14,11 @@ comparePrice: 8.5 GBP
 inStock: true
 ---
 
-Está [Bridget Jones 3-Film Collection [DVD] [2016]](https://www.amazon.co.uk/dp/B01LHE7N9S/?tag=redken01-21) con 41.29 de descuento por 4.99 GBP (original: 8.5 GBP) en el siguiente enlace!
+Ahora mismo tienes [Bridget Jones 3-Film Collection [DVD] [2016]](https://www.amazon.co.uk/dp/B01LHE7N9S/?tag=redken01-21) a 4.99 GBP (original: 8.5 GBP) (41.29 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51zIeP-u6wL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LHE7N9S/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01LHE7N9S/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01LHE7N9S/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

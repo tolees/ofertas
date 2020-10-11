@@ -14,11 +14,11 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Está [BRIKSMAX Led Lighting Kit for LEGO City Fire Station- Compatible with Lego 60215 Building Blocks Model- Not Include The Lego Set](https://www.amazon.co.uk/dp/B07TTNHRHT/?tag=redken01-21) con 70.01 de descuento por 29.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO City Fire Station- Compatible with Lego 60215 Building Blocks Model- Not Include The Lego Set](https://www.amazon.co.uk/dp/B07TTNHRHT/?tag=redken01-21) a 29.99 GBP (original: 99.99 GBP) (70.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51GXmXwEZqL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07TTNHRHT/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07TTNHRHT/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07TTNHRHT/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

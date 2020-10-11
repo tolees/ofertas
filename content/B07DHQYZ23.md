@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.28 % en Maybelline Corrector de Ojeras  Bolsas e'
-date: 2020-10-10 08:17:35
+date: 2020-10-11 19:20:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mEP4JYSIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mEP4JYSIL._SL200_.jpg' ]
 comments: true
