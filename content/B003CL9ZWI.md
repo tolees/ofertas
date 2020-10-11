@@ -14,11 +14,11 @@ comparePrice: 60.06 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HP C9363EE 344 Cartucho de Tinta Original  1 unidad  tricolor  cian  magenta  amarillo ](https://www.amazon.es/dp/B003CL9ZWI/?tag=redken-21) a 35.99 EUR (original: 60.06 EUR) (40.08 %  de descuento) en el siguiente enlace!
+Está [HP C9363EE 344 Cartucho de Tinta Original  1 unidad  tricolor  cian  magenta  amarillo ](https://www.amazon.es/dp/B003CL9ZWI/?tag=redken-21) con 40.08 de descuento por 35.99 EUR (original: 60.06 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41rqhSI4u2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B003CL9ZWI/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B003CL9ZWI/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B003CL9ZWI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

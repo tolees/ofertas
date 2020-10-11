@@ -14,11 +14,11 @@ comparePrice: 6.76 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Stardrops Pink Stuff Paste 500 grams](https://www.amazon.co.uk/dp/B00DU5SRIY/?tag=redken01-21) a 3.06 GBP (original: 6.76 GBP) (54.73 %  de descuento) en el siguiente enlace!
+Está [Stardrops Pink Stuff Paste 500 grams](https://www.amazon.co.uk/dp/B00DU5SRIY/?tag=redken01-21) con 54.73 de descuento por 3.06 GBP (original: 6.76 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41DV2Sk2iuL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00DU5SRIY/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00DU5SRIY/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00DU5SRIY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

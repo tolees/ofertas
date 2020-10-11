@@ -14,11 +14,11 @@ comparePrice: 7.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mighty No.9 - Ray-Edition](https://www.amazon.de/dp/B0147DFUCS/?tag=redken02-21) a 4.9 EUR (original: 7.95 EUR) (38.36 %  de descuento) en el siguiente enlace!
+Está [Mighty No.9 - Ray-Edition](https://www.amazon.de/dp/B0147DFUCS/?tag=redken02-21) con 38.36 de descuento por 4.9 EUR (original: 7.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL200_.jpg)](https://www.amazon.de/dp/B0147DFUCS/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B0147DFUCS/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B0147DFUCS/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

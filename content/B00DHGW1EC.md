@@ -14,11 +14,11 @@ comparePrice: 264.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Grohe Eurostyle Cosmopolitan - Grifo de lavabo mural 1/2"Tamaño S  color cromo  Ref.19571002 ](https://www.amazon.es/dp/B00DHGW1EC/?tag=redken-21) a 145.83 EUR (original: 264.99 EUR) (44.97 %  de descuento) en el siguiente enlace!
+Está [Grohe Eurostyle Cosmopolitan - Grifo de lavabo mural 1/2"Tamaño S  color cromo  Ref.19571002 ](https://www.amazon.es/dp/B00DHGW1EC/?tag=redken-21) con 44.97 de descuento por 145.83 EUR (original: 264.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/411qGDLDJ3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00DHGW1EC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00DHGW1EC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00DHGW1EC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

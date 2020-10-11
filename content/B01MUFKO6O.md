@@ -14,11 +14,11 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Está [Mr. Wonderful Vela lata con mensaje "Cuando te veo  ¡me enciendo!"](https://www.amazon.es/dp/B01MUFKO6O/?tag=redken-21) con 49.96 de descuento por 6.48 EUR (original: 12.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Mr. Wonderful Vela lata con mensaje "Cuando te veo  ¡me enciendo!"](https://www.amazon.es/dp/B01MUFKO6O/?tag=redken-21) a 6.48 EUR (original: 12.95 EUR) (49.96 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41mJaOoeeSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MUFKO6O/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01MUFKO6O/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01MUFKO6O/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
