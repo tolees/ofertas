@@ -14,11 +14,11 @@ comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Está [LEGO Movie 2 70823 Dreirad Emmet’s Thricycle](https://www.amazon.co.uk/dp/B07FNS6J8H/?tag=redken01-21) con 31.49 de descuento por 8.9 GBP (original: 12.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO Movie 2 70823 Dreirad Emmet’s Thricycle](https://www.amazon.co.uk/dp/B07FNS6J8H/?tag=redken01-21) a 8.9 GBP (original: 12.99 GBP) (31.49 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51K8v9H8sML._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNS6J8H/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07FNS6J8H/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07FNS6J8H/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

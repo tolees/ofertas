@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 1-94-745 - Organizador SortMaste al 26.89 % de descuento'
-date: 2020-10-10 10:40:23
+date: 2020-10-11 10:48:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KvxY8aQQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KvxY8aQQL._SL200_.jpg' ]
 comments: true

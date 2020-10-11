@@ -14,11 +14,11 @@ comparePrice: 14 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nails Inc Vitamin E Oil Pen](https://www.amazon.co.uk/dp/B00OLQ9MDK/?tag=redken01-21) a 9.19 GBP (original: 14 GBP) (34.36 %  de descuento) en el siguiente enlace!
+Está [Nails Inc Vitamin E Oil Pen](https://www.amazon.co.uk/dp/B00OLQ9MDK/?tag=redken01-21) con 34.36 de descuento por 9.19 GBP (original: 14 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21RHxkj2%2B0L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00OLQ9MDK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00OLQ9MDK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00OLQ9MDK/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

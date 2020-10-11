@@ -14,11 +14,11 @@ comparePrice: 199.99 EUR
 inStock: true
 ---
 
-Está [Bosch Home and Garden 0.603.502.002 Sierra circular portátil  1600 W  240 V](https://www.amazon.es/dp/B002EWYW9C/?tag=redken-21) con 45.50 de descuento por 109 EUR (original: 199.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch Home and Garden 0.603.502.002 Sierra circular portátil  1600 W  240 V](https://www.amazon.es/dp/B002EWYW9C/?tag=redken-21) a 109 EUR (original: 199.99 EUR) (45.50 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QkwJc2PjL._SL200_.jpg)](https://www.amazon.es/dp/B002EWYW9C/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B002EWYW9C/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B002EWYW9C/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

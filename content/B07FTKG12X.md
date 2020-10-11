@@ -14,11 +14,11 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Está [Lee Brooklyn Vaqueros Straight  Azul  Dark Stone Xg   32W / 32L para Hombre](https://www.amazon.es/dp/B07FTKG12X/?tag=redken-21) con 51.40 de descuento por 41.31 EUR (original: 85 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Brooklyn Vaqueros Straight  Azul  Dark Stone Xg   32W / 32L para Hombre](https://www.amazon.es/dp/B07FTKG12X/?tag=redken-21) a 41.31 EUR (original: 85 EUR) (51.40 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iKNTsIwVL._SL200_.jpg)](https://www.amazon.es/dp/B07FTKG12X/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FTKG12X/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FTKG12X/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 7.75 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Filofax Personal Week on Two Pages English Monday Start 2020 Diary](https://www.amazon.co.uk/dp/B07NYTF1MK/?tag=redken01-21) a 4.19 GBP (original: 7.75 GBP) (45.94 %  de descuento) en el siguiente enlace!
+Está [Filofax Personal Week on Two Pages English Monday Start 2020 Diary](https://www.amazon.co.uk/dp/B07NYTF1MK/?tag=redken01-21) con 45.94 de descuento por 4.19 GBP (original: 7.75 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31gPHA2lLOL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07NYTF1MK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07NYTF1MK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07NYTF1MK/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
