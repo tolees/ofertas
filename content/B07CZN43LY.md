@@ -14,11 +14,11 @@ comparePrice: 25.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  New Red Box Taba White 0370   XS](https://www.amazon.es/dp/B07CZN43LY/?tag=redken-21) a 11.99 EUR (original: 25.0 EUR) (52.04 %  de descuento) en el siguiente enlace!
+Está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  New Red Box Taba White 0370   XS](https://www.amazon.es/dp/B07CZN43LY/?tag=redken-21) con 52.04 de descuento por 11.99 EUR (original: 25.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41m+jXOLj6L._SL200_.jpg)](https://www.amazon.es/dp/B07CZN43LY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07CZN43LY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CZN43LY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

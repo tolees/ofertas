@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony GTK-XB60 Sistema Audio con Extra Ba al 28.57 % de descuento'
-date: 2020-10-08 17:16:58
+date: 2020-10-11 11:24:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31voM6xP-PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31voM6xP-PL._SL200_.jpg' ]
 comments: true

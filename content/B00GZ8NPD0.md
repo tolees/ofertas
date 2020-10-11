@@ -14,11 +14,11 @@ comparePrice: 26.89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Goa London Dry Gin  1 x 0.7 l ](https://www.amazon.es/dp/B00GZ8NPD0/?tag=redken-21) a 19.5 EUR (original: 26.89 EUR) (27.48 %  de descuento) en el siguiente enlace!
+Está [Goa London Dry Gin  1 x 0.7 l ](https://www.amazon.es/dp/B00GZ8NPD0/?tag=redken-21) con 27.48 de descuento por 19.5 EUR (original: 26.89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uDz-A1bsL._SL200_.jpg)](https://www.amazon.es/dp/B00GZ8NPD0/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00GZ8NPD0/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00GZ8NPD0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

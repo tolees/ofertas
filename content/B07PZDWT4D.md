@@ -14,11 +14,11 @@ comparePrice: 9.72 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 42472 5 Star Nun Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07PZDWT4D/?tag=redken01-21) a 4.59 GBP (original: 9.72 GBP) (52.78 %  de descuento) en el siguiente enlace!
+Está [Funko 42472 5 Star Nun Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07PZDWT4D/?tag=redken01-21) con 52.78 de descuento por 4.59 GBP (original: 9.72 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LTJSFB0JL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PZDWT4D/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07PZDWT4D/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PZDWT4D/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

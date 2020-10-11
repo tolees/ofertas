@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75278 Star Wars D-O Droide aus Der  al 34.06 % de descuento'
-date: 2020-10-10 06:13:58
+title: 'LEGO 75278 Star Wars D-O Droide aus Der  al 25.27 % de descuento'
+date: 2020-10-11 11:58:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07XFXZ43Z
 description:
-actualPrice: 44.99 EUR
+actualPrice: 50.99 EUR
 comparePrice: 68.23 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75278 Star Wars D-O Droide aus Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07XFXZ43Z/?tag=redken02-21) a 44.99 EUR (original: 68.23 EUR) (34.06 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75278 Star Wars D-O Droide aus Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07XFXZ43Z/?tag=redken02-21) a 50.99 EUR (original: 68.23 EUR) (25.27 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg)](https://www.amazon.de/dp/B07XFXZ43Z/?tag=redken02-21)
 

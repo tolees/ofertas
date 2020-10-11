@@ -14,11 +14,11 @@ comparePrice: 3.74 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Rimmel Stay Glossy Lip Gloss in 140 Flower Power](https://www.amazon.com/dp/B07ZDGX63M/?tag=redken08-20) a 2.39 USD (original: 3.74 USD) (36.10 %  de descuento) en el siguiente enlace!
+Está [Rimmel Stay Glossy Lip Gloss in 140 Flower Power](https://www.amazon.com/dp/B07ZDGX63M/?tag=redken08-20) con 36.10 de descuento por 2.39 USD (original: 3.74 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31VDejlzyTL._SL200_.jpg)](https://www.amazon.com/dp/B07ZDGX63M/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07ZDGX63M/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07ZDGX63M/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

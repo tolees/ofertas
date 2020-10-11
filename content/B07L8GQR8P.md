@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.75 % en Gone To Earth [VINYL]'
+title: 'Gone To Earth [VINYL] al 36.75 % de descuento'
 date: 2020-02-18 07:41:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51R9RBgeb1L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51R9RBgeb1L._AC_._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 25.47 GBP
 inStock: true
 ---
 
-Tienes [Gone To Earth [VINYL]](https://www.amazon.co.uk/dp/B07L8GQR8P/?tag=redken01-21) con un 36.75 % de descuento con precio de oferta de 16.11 GBP (original: 25.47 GBP) en el siguiente enlace!
+Está [Gone To Earth [VINYL]](https://www.amazon.co.uk/dp/B07L8GQR8P/?tag=redken01-21) con 36.75 de descuento por 16.11 GBP (original: 25.47 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51R9RBgeb1L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07L8GQR8P/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07L8GQR8P/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07L8GQR8P/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

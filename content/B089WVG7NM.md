@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.74 % en Dixan Classico Detersivo Liquido Lavatri'
-date: 2020-10-10 05:18:00
+date: 2020-10-11 11:21:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DO4SO-lOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DO4SO-lOL._SL200_.jpg' ]
 comments: true

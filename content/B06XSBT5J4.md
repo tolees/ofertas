@@ -14,11 +14,11 @@ comparePrice: 75.0 GBP
 inStock: true
 ---
 
-Está [New Balance Women s Fresh Foam Lazr Sport Running Shoes  Black  Black   6 UK 39 EU](https://www.amazon.co.uk/dp/B06XSBT5J4/?tag=redken01-21) con 60.00 de descuento por 30.0 GBP (original: 75.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [New Balance Women s Fresh Foam Lazr Sport Running Shoes  Black  Black   6 UK 39 EU](https://www.amazon.co.uk/dp/B06XSBT5J4/?tag=redken01-21) a 30.0 GBP (original: 75.0 GBP) (60.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41gCiA8k8JL._SL200_.jpg)](https://www.amazon.co.uk/dp/B06XSBT5J4/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B06XSBT5J4/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B06XSBT5J4/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Exquisite Games - Big Box Call Of Duty WWII  PS4 ](https://www.amazon.es/dp/B075VG8VNW/?tag=redken-21) a 17.9 EUR (original: 29.99 EUR) (40.31 %  de descuento) en el siguiente enlace!
+Está [Exquisite Games - Big Box Call Of Duty WWII  PS4 ](https://www.amazon.es/dp/B075VG8VNW/?tag=redken-21) con 40.31 de descuento por 17.9 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516H5gEdGYL._SL200_.jpg)](https://www.amazon.es/dp/B075VG8VNW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B075VG8VNW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B075VG8VNW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
