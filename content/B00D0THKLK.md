@@ -14,11 +14,11 @@ comparePrice: 9.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Max Factor Colour Elixir Lipstick Barra de Labios Tono 720 Scarlet Ghost - 28 gr](https://www.amazon.es/dp/B00D0THKLK/?tag=redken-21) a 4.95 EUR (original: 9.0 EUR) (45.00 %  de descuento) en el siguiente enlace!
+Está [Max Factor Colour Elixir Lipstick Barra de Labios Tono 720 Scarlet Ghost - 28 gr](https://www.amazon.es/dp/B00D0THKLK/?tag=redken-21) con 45.00 de descuento por 4.95 EUR (original: 9.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41-Dcij4DML._SL200_.jpg)](https://www.amazon.es/dp/B00D0THKLK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00D0THKLK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00D0THKLK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

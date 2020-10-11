@@ -14,11 +14,11 @@ comparePrice: 28.72 EUR
 inStock: true
 ---
 
-Está [Soporte de aluminio universal Zice para proyector  para techo o pared  capacidad de 5 kg  para cámara o mini proyector](https://www.amazon.es/dp/B06Y1LK7LL/?tag=redken-21) con 65.22 de descuento por 9.99 EUR (original: 28.72 EUR) en el siguiente enlace!
+Ahora mismo tienes [Soporte de aluminio universal Zice para proyector  para techo o pared  capacidad de 5 kg  para cámara o mini proyector](https://www.amazon.es/dp/B06Y1LK7LL/?tag=redken-21) a 9.99 EUR (original: 28.72 EUR) (65.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41flivCS4HL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1LK7LL/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06Y1LK7LL/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B06Y1LK7LL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

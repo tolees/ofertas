@@ -14,11 +14,11 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Spieland Custom Battle Szene Set für Lego Mini Figuren Militär Soldaten SWAT Team Polizei](https://www.amazon.de/dp/B07MZR6WHM/?tag=redken02-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Spieland Custom Battle Szene Set für Lego Mini Figuren Militär Soldaten SWAT Team Polizei](https://www.amazon.de/dp/B07MZR6WHM/?tag=redken02-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ShLNKeLTL._SL200_.jpg)](https://www.amazon.de/dp/B07MZR6WHM/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07MZR6WHM/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07MZR6WHM/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
