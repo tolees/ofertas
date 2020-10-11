@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 49.82 % en JOBY JB01562-BWW GorillaPod 3K Video PRO'
+title: 'JOBY JB01562-BWW GorillaPod 3K Video PRO al 49.82 % de descuento'
 date: 2020-04-17 06:32:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/510eADqln-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510eADqln-L._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 79.66 GBP
 inStock: true
 ---
 
-Tienes [JOBY JB01562-BWW GorillaPod 3K Video PRO Kit  Flexible Professional Tripod with 2 Way Video Head for DSLR  CSC/Mirrorless and Video Camera Up to 3 kg Payload](https://www.amazon.co.uk/dp/B07JMMCR17/?tag=redken01-21) con un 49.82 % de descuento con precio de oferta de 39.97 GBP (original: 79.66 GBP) en el siguiente enlace!
+Ahora mismo tienes [JOBY JB01562-BWW GorillaPod 3K Video PRO Kit  Flexible Professional Tripod with 2 Way Video Head for DSLR  CSC/Mirrorless and Video Camera Up to 3 kg Payload](https://www.amazon.co.uk/dp/B07JMMCR17/?tag=redken01-21) a 39.97 GBP (original: 79.66 GBP) (49.82 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/510eADqln-L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JMMCR17/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07JMMCR17/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07JMMCR17/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

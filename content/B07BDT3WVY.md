@@ -14,11 +14,11 @@ comparePrice: 299.99 GBP
 inStock: true
 ---
 
-Está [HUAWEI MediaPad M5 8 – 8.4"" Android 8.0 Tablet  2K IPS Display with Eye-Comfort Mode  32GB  13MP Rear Camera  Quad Stereo Speakers Tuned by Harman Kardon  5100mAh  Children s Corner  Grey](https://www.amazon.co.uk/dp/B07BDT3WVY/?tag=redken01-21) con 36.00 de descuento por 192.0 GBP (original: 299.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [HUAWEI MediaPad M5 8 – 8.4"" Android 8.0 Tablet  2K IPS Display with Eye-Comfort Mode  32GB  13MP Rear Camera  Quad Stereo Speakers Tuned by Harman Kardon  5100mAh  Children s Corner  Grey](https://www.amazon.co.uk/dp/B07BDT3WVY/?tag=redken01-21) a 192.0 GBP (original: 299.99 GBP) (36.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Edf7GH6IL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07BDT3WVY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07BDT3WVY/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07BDT3WVY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

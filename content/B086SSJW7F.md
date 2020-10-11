@@ -14,11 +14,11 @@ comparePrice: 85.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [MAJOZ0 Technic Car Ford Mustang Building Set   1:12 Off-road Sport Car  Building Blocks Compatible with Lego Technic   Gift for Adults and Children 1639Pcs](https://www.amazon.co.uk/dp/B086SSJW7F/?tag=redken01-21) a 59.99 GBP (original: 85.99 GBP) (30.24 %  de descuento) en el siguiente enlace!
+Está [MAJOZ0 Technic Car Ford Mustang Building Set   1:12 Off-road Sport Car  Building Blocks Compatible with Lego Technic   Gift for Adults and Children 1639Pcs](https://www.amazon.co.uk/dp/B086SSJW7F/?tag=redken01-21) con 30.24 de descuento por 59.99 GBP (original: 85.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41QviORoUyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B086SSJW7F/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B086SSJW7F/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B086SSJW7F/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 17.9 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Stella Artois Lager  18 x 440 ml](https://www.amazon.co.uk/dp/B06XDN8SFN/?tag=redken01-21) a 12.0 GBP (original: 17.9 GBP) (32.96 %  de descuento) en el siguiente enlace!
+Está [Stella Artois Lager  18 x 440 ml](https://www.amazon.co.uk/dp/B06XDN8SFN/?tag=redken01-21) con 32.96 de descuento por 12.0 GBP (original: 17.9 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41-y1gy+k+L._SL200_.jpg)](https://www.amazon.co.uk/dp/B06XDN8SFN/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B06XDN8SFN/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06XDN8SFN/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
