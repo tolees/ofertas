@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.71 % en Maybelline New York - Polvos Fijadores T'
-date: 2020-10-09 16:56:32
+date: 2020-10-11 22:38:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/413cw0ogOfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413cw0ogOfL._SL200_.jpg' ]
 comments: true

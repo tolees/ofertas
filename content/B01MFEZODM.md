@@ -14,11 +14,11 @@ comparePrice: 150.99 EUR
 inStock: true
 ---
 
-Está [The Walking Dead - Temporadas 1 a 6 [Blu-ray]](https://www.amazon.es/dp/B01MFEZODM/?tag=redken-21) con 60.27 de descuento por 59.99 EUR (original: 150.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [The Walking Dead - Temporadas 1 a 6 [Blu-ray]](https://www.amazon.es/dp/B01MFEZODM/?tag=redken-21) a 59.99 EUR (original: 150.99 EUR) (60.27 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51816QL5W0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MFEZODM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01MFEZODM/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01MFEZODM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

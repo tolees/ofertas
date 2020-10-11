@@ -14,11 +14,11 @@ comparePrice: 89.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [General HT 400 Smart Oil/Gas Boiler Thermostat Wireless WiFi Retrofit Heating](https://www.amazon.co.uk/dp/B07JQSQ24K/?tag=redken01-21) a 39.99 GBP (original: 89.99 GBP) (55.56 %  de descuento) en el siguiente enlace!
+Está [General HT 400 Smart Oil/Gas Boiler Thermostat Wireless WiFi Retrofit Heating](https://www.amazon.co.uk/dp/B07JQSQ24K/?tag=redken01-21) con 55.56 de descuento por 39.99 GBP (original: 89.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41gZ52Ggb-L._SL500_._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JQSQ24K/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07JQSQ24K/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07JQSQ24K/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

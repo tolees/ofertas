@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.62 % en Aceite de Almendras Dulces 100% Puro. PR'
-date: 2020-10-10 22:46:40
+date: 2020-10-11 22:55:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/21tfsTICovL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21tfsTICovL._SL200_.jpg' ]
 comments: true
