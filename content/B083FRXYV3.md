@@ -14,11 +14,11 @@ comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Jurassic World T. rex Transport Compatible with LEGO 75933 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B083FRXYV3/?tag=redken01-21) a 19.99 GBP (original: 49.99 GBP) (60.01 %  de descuento) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Jurassic World T. rex Transport Compatible with LEGO 75933 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B083FRXYV3/?tag=redken01-21) con 60.01 de descuento por 19.99 GBP (original: 49.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/513AKWDDqRL._SL200_.jpg)](https://www.amazon.co.uk/dp/B083FRXYV3/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B083FRXYV3/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B083FRXYV3/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

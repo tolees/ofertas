@@ -14,11 +14,11 @@ comparePrice: 60.0 EUR
 inStock: true
 ---
 
-Está [Gel hidroalcoholico para la limpieza y desinfección de manos Formato 250 ml](https://www.amazon.es/dp/B085QL3VZG/?tag=redken-21) con 79.33 de descuento por 12.4 EUR (original: 60.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gel hidroalcoholico para la limpieza y desinfección de manos Formato 250 ml](https://www.amazon.es/dp/B085QL3VZG/?tag=redken-21) a 12.4 EUR (original: 60.0 EUR) (79.33 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31BtboaDBjL._SL200_.jpg)](https://www.amazon.es/dp/B085QL3VZG/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B085QL3VZG/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B085QL3VZG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

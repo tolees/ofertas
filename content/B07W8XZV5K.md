@@ -14,11 +14,11 @@ comparePrice: 4.97 GBP
 inStock: true
 ---
 
-Está [LEGO 10917 DUPLO My First Fire Truck Toy  Fire-Engine Starter Set for Toddlers 1 .5 Year Old](https://www.amazon.co.uk/dp/B07W8XZV5K/?tag=redken01-21) con 29.58 de descuento por 3.5 GBP (original: 4.97 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 10917 DUPLO My First Fire Truck Toy  Fire-Engine Starter Set for Toddlers 1 .5 Year Old](https://www.amazon.co.uk/dp/B07W8XZV5K/?tag=redken01-21) a 3.5 GBP (original: 4.97 GBP) (29.58 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51EXOih3pmL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W8XZV5K/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07W8XZV5K/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07W8XZV5K/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
