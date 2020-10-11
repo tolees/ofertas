@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mpow FLAME2 Bluetooth Headphones Sport   al 62.61 % de descuento'
-date: 2020-10-08 18:33:59
+date: 2020-10-11 06:42:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W1C1j+Z9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W1C1j+Z9L._SL200_.jpg' ]
 comments: true

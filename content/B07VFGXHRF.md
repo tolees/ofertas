@@ -14,11 +14,11 @@ comparePrice: 18.93 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Pro Evolution Soccer  PES  2020  Xbox One ](https://www.amazon.co.uk/dp/B07VFGXHRF/?tag=redken01-21) a 12.99 GBP (original: 18.93 GBP) (31.38 %  de descuento) en el siguiente enlace!
+Está [Pro Evolution Soccer  PES  2020  Xbox One ](https://www.amazon.co.uk/dp/B07VFGXHRF/?tag=redken01-21) con 31.38 de descuento por 12.99 GBP (original: 18.93 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51CxI4mGp5L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07VFGXHRF/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07VFGXHRF/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07VFGXHRF/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Etekcity Báscula Digital para Cocina con al 39.41 % de descuento'
-date: 2020-10-09 04:02:43
+title: 'Etekcity Digital Kitchen Food Scales  St al 43.35 % de descuento'
+date: 2020-10-10 05:22:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/411QOCjFZML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411QOCjFZML._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B016QN8SCG
 description:
-actualPrice: 19.99 EUR
-comparePrice: 32.99 EUR
+actualPrice: 16.99 GBP
+comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Está [Etekcity Báscula Digital para Cocina con Bol Removible  5 kg / 11 lbs  Balanza de Cocina de Acero Inoxidable  Temporizador y Sensor de Temperatura  Pantalla LCD  EK4150](https://www.amazon.es/dp/B016QN8SCG/?tag=redken-21) con 39.41 de descuento por 19.99 EUR (original: 32.99 EUR) en el siguiente enlace!
+Está [Etekcity Digital Kitchen Food Scales  Stainless Steel Weighing Cooking Scales with Detachable Bowl  11lb/5kg  Tare Function  LCD Display  Temperature Sensor  Easy Storage  Timer Alarm  Silver](https://www.amazon.co.uk/dp/B016QN8SCG/?tag=redken01-21) con 43.35 de descuento por 16.99 GBP (original: 29.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/411QOCjFZML._SL200_.jpg)](https://www.amazon.es/dp/B016QN8SCG/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/411QOCjFZML._SL200_.jpg)](https://www.amazon.co.uk/dp/B016QN8SCG/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B016QN8SCG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B016QN8SCG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Nitro XV272U Pbmiiprzx 27" WQHD  25 al 33.33 % de descuento'
-date: 2020-10-09 00:09:44
+date: 2020-10-11 06:29:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PTgRjOmgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PTgRjOmgL._SL200_.jpg' ]
 comments: true

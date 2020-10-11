@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chernobyl  Miniserie  [DVD] al 31.63 % de descuento'
-date: 2020-10-08 18:48:07
+date: 2020-10-11 06:46:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TmFnwnHOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TmFnwnHOL._SL200_.jpg' ]
 comments: true

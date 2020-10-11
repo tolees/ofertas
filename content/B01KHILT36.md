@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Philips LED B22 Frosted Light Bulbs  8 W al 42.57 % de descuento'
-date: 2020-02-04 10:13:41
-thumbnailImage: 'https://m.media-amazon.com/images/I/511uws84GhL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/511uws84GhL._AC_._SL200_.jpg' ]
+title: 'Descuento del 29.55 % en Philips LED B22 Frosted Light Bulbs  8 W'
+date: 2020-10-11 06:25:38
+thumbnailImage: 'https://m.media-amazon.com/images/I/511uws84GhL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/511uws84GhL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01KHILT36
 description:
-actualPrice: 11.48 GBP
-comparePrice: 19.99 GBP
+actualPrice: 9.99 GBP
+comparePrice: 14.18 GBP
 inStock: true
 ---
 
-Está [Philips LED B22 Frosted Light Bulbs  8 W  60 W  - Warm White  Pack of 6](https://www.amazon.co.uk/dp/B01KHILT36/?tag=redken01-21) con 42.57 de descuento por 11.48 GBP (original: 19.99 GBP) en el siguiente enlace!
+Tienes [Philips LED B22 Frosted Light Bulbs  8 W  60 W  - Warm White  Pack of 6](https://www.amazon.co.uk/dp/B01KHILT36/?tag=redken01-21) con un 29.55 % de descuento con precio de oferta de 9.99 GBP (original: 14.18 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/511uws84GhL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01KHILT36/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/511uws84GhL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01KHILT36/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01KHILT36/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B01KHILT36/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

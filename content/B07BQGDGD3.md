@@ -14,11 +14,11 @@ comparePrice: 10.66 GBP
 inStock: true
 ---
 
-Está [L.O.L. Surprise Pass The Surprise Game - MC Hammy](https://www.amazon.co.uk/dp/B07BQGDGD3/?tag=redken01-21) con 47.00 de descuento por 5.65 GBP (original: 10.66 GBP) en el siguiente enlace!
+Ahora mismo tienes [L.O.L. Surprise Pass The Surprise Game - MC Hammy](https://www.amazon.co.uk/dp/B07BQGDGD3/?tag=redken01-21) a 5.65 GBP (original: 10.66 GBP) (47.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bWFlAQmdL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07BQGDGD3/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07BQGDGD3/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07BQGDGD3/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
