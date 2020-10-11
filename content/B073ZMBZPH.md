@@ -14,11 +14,11 @@ comparePrice: 299.99 EUR
 inStock: true
 ---
 
-Está [WD My Book Duo Disco duro externo de Sobremesa de 4 TB con RAID  USB 3.1 gen 1](https://www.amazon.es/dp/B073ZMBZPH/?tag=redken-21) con 65.01 de descuento por 104.97 EUR (original: 299.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [WD My Book Duo Disco duro externo de Sobremesa de 4 TB con RAID  USB 3.1 gen 1](https://www.amazon.es/dp/B073ZMBZPH/?tag=redken-21) a 104.97 EUR (original: 299.99 EUR) (65.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31yyf+9XFuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B073ZMBZPH/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073ZMBZPH/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B073ZMBZPH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

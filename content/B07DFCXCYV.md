@@ -14,11 +14,11 @@ comparePrice: 9.7 GBP
 inStock: true
 ---
 
-Está [Funko 31178 POP Vinyl: Aquaman: Mera  Multi  One Size](https://www.amazon.co.uk/dp/B07DFCXCYV/?tag=redken01-21) con 32.99 de descuento por 6.5 GBP (original: 9.7 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 31178 POP Vinyl: Aquaman: Mera  Multi  One Size](https://www.amazon.co.uk/dp/B07DFCXCYV/?tag=redken01-21) a 6.5 GBP (original: 9.7 GBP) (32.99 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Ys9Iz+m-L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFCXCYV/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DFCXCYV/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DFCXCYV/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

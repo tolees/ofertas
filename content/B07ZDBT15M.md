@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston KC600 SSD  SKC600/512 GB  Inter al 50.30 % de descuento'
-date: 2020-09-29 17:41:59
+date: 2020-10-10 23:26:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mmmCmEM7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mmmCmEM7L._SL200_.jpg' ]
 comments: true
@@ -19,5 +19,7 @@ Está [Kingston KC600 SSD  SKC600/512 GB  Interne SSD 2.5" SATA Rev 3.0  3D TLC 
 [![](https://m.media-amazon.com/images/I/31mmmCmEM7L._SL200_.jpg)](https://www.amazon.it/dp/B07ZDBT15M/?tag=redken03-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZDBT15M/?tag=redken03-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

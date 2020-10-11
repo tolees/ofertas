@@ -14,11 +14,11 @@ comparePrice: 2.01 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Elbow Grease All Purpose Degreaser 500ml](https://www.amazon.co.uk/dp/B003JSRS9G/?tag=redken01-21) a 1.0 GBP (original: 2.01 GBP) (50.25 %  de descuento) en el siguiente enlace!
+Está [Elbow Grease All Purpose Degreaser 500ml](https://www.amazon.co.uk/dp/B003JSRS9G/?tag=redken01-21) con 50.25 de descuento por 1.0 GBP (original: 2.01 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/312qLOKwmxL._SL200_.jpg)](https://www.amazon.co.uk/dp/B003JSRS9G/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B003JSRS9G/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B003JSRS9G/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
