@@ -14,11 +14,11 @@ comparePrice: 9.68 GBP
 inStock: true
 ---
 
-Está [Funko 38490 POP Vinyl: Men in Black-International: Agent H Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07KPHPKQ9/?tag=redken01-21) con 38.12 de descuento por 5.99 GBP (original: 9.68 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 38490 POP Vinyl: Men in Black-International: Agent H Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07KPHPKQ9/?tag=redken01-21) a 5.99 GBP (original: 9.68 GBP) (38.12 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41yLbE3ddeL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KPHPKQ9/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KPHPKQ9/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KPHPKQ9/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Duramo Slide Chanclas Unisex  Azul  New Navy/White/New Navy   40.5 EU  7 UK ](https://www.amazon.es/dp/B0030ZSZXG/?tag=redken-21) a 11.97 EUR (original: 19.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Está [adidas Duramo Slide Chanclas Unisex  Azul  New Navy/White/New Navy   40.5 EU  7 UK ](https://www.amazon.es/dp/B0030ZSZXG/?tag=redken-21) con 40.00 de descuento por 11.97 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31oBQ2B9RbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0030ZSZXG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0030ZSZXG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0030ZSZXG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

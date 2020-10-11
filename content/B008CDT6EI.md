@@ -14,11 +14,11 @@ comparePrice: 50.0 USD
 inStock: true
 ---
 
-Está [Columbia Women s Fast Trek II Full Zip Soft Fleece Jacket  Black  Large](https://www.amazon.com/dp/B008CDT6EI/?tag=redken08-20) con 50.04 de descuento por 24.98 USD (original: 50.0 USD) en el siguiente enlace!
+Ahora mismo tienes [Columbia Women s Fast Trek II Full Zip Soft Fleece Jacket  Black  Large](https://www.amazon.com/dp/B008CDT6EI/?tag=redken08-20) a 24.98 USD (original: 50.0 USD) (50.04 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/317S2Oo3JFL._SL200_.jpg)](https://www.amazon.com/dp/B008CDT6EI/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B008CDT6EI/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B008CDT6EI/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
