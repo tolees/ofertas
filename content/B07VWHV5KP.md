@@ -14,11 +14,11 @@ comparePrice: 40.0 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Make Me Gladiator](https://www.amazon.com/dp/B07VWHV5KP/?tag=redken08-20) a 10.0 USD (original: 40.0 USD) (75.00 %  de descuento) en el siguiente enlace!
+Está [Make Me Gladiator](https://www.amazon.com/dp/B07VWHV5KP/?tag=redken08-20) con 75.00 de descuento por 10.0 USD (original: 40.0 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/81WqDyGD03L._SL500_._SL200_.png)](https://www.amazon.com/dp/B07VWHV5KP/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07VWHV5KP/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07VWHV5KP/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

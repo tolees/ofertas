@@ -14,11 +14,11 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Monsieur Claude 2 [Blu-ray]](https://www.amazon.de/dp/B07Q6HNSWP/?tag=redken02-21) a 6.97 EUR (original: 9.99 EUR) (30.23 %  de descuento) en el siguiente enlace!
+Está [Monsieur Claude 2 [Blu-ray]](https://www.amazon.de/dp/B07Q6HNSWP/?tag=redken02-21) con 30.23 de descuento por 6.97 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5168ngg1VIL._SL200_.jpg)](https://www.amazon.de/dp/B07Q6HNSWP/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07Q6HNSWP/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07Q6HNSWP/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

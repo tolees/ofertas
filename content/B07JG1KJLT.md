@@ -14,11 +14,11 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Está [Feleph Military Army Weapons and Accessories Set Building Blocks Toy WW2 SWAT Custom Figures Guns Modern Assault Equipment Pack Bricks Compatible Major Brands  03 ](https://www.amazon.co.uk/dp/B07JG1KJLT/?tag=redken01-21) con 30.01 de descuento por 20.99 GBP (original: 29.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Feleph Military Army Weapons and Accessories Set Building Blocks Toy WW2 SWAT Custom Figures Guns Modern Assault Equipment Pack Bricks Compatible Major Brands  03 ](https://www.amazon.co.uk/dp/B07JG1KJLT/?tag=redken01-21) a 20.99 GBP (original: 29.99 GBP) (30.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61S0FtuPikL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JG1KJLT/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07JG1KJLT/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07JG1KJLT/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

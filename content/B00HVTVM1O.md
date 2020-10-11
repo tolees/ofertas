@@ -14,11 +14,11 @@ comparePrice: 50.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Superga 2750-cotu Classic  Unisex Adult s Fashion Low-Top Trainers  Dark Grey Iron  9 UK  43 EU ](https://www.amazon.co.uk/dp/B00HVTVM1O/?tag=redken01-21) a 29.64 GBP (original: 50.0 GBP) (40.72 %  de descuento) en el siguiente enlace!
+Está [Superga 2750-cotu Classic  Unisex Adult s Fashion Low-Top Trainers  Dark Grey Iron  9 UK  43 EU ](https://www.amazon.co.uk/dp/B00HVTVM1O/?tag=redken01-21) con 40.72 de descuento por 29.64 GBP (original: 50.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vNvjbZWnL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00HVTVM1O/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00HVTVM1O/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00HVTVM1O/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

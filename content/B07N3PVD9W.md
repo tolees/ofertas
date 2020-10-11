@@ -14,11 +14,11 @@ comparePrice: 9.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gliss - Mascarilla Ultimate Oil Elixir - 2 uds de 300ml - Schwarzkopf](https://www.amazon.es/dp/B07N3PVD9W/?tag=redken-21) a 6.3 EUR (original: 9.9 EUR) (36.36 %  de descuento) en el siguiente enlace!
+Está [Gliss - Mascarilla Ultimate Oil Elixir - 2 uds de 300ml - Schwarzkopf](https://www.amazon.es/dp/B07N3PVD9W/?tag=redken-21) con 36.36 de descuento por 6.3 EUR (original: 9.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51qh4JX7J3L._SL200_.jpg)](https://www.amazon.es/dp/B07N3PVD9W/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07N3PVD9W/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07N3PVD9W/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 2499.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Asus ROG Zephyrus S GX701GWR-H6063T - Portátil Gaming de 17 3" 144Hz FullHD  Intel Core i7-9750H  16GB RAM  512GB SSD  RTX 2070 8GB GDDR6  Windows 10 Home  Aluminio Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07Z6MZVKL/?tag=redken-21) a 1799.0 EUR (original: 2499.99 EUR) (28.04 %  de descuento) en el siguiente enlace!
+Está [Asus ROG Zephyrus S GX701GWR-H6063T - Portátil Gaming de 17 3" 144Hz FullHD  Intel Core i7-9750H  16GB RAM  512GB SSD  RTX 2070 8GB GDDR6  Windows 10 Home  Aluminio Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07Z6MZVKL/?tag=redken-21) con 28.04 de descuento por 1799.0 EUR (original: 2499.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bAhV79rmL._SL200_.jpg)](https://www.amazon.es/dp/B07Z6MZVKL/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07Z6MZVKL/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07Z6MZVKL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
