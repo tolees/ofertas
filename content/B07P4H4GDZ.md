@@ -14,11 +14,11 @@ comparePrice: 25.72 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Herbalgem Osteogem - 30 gr](https://www.amazon.es/dp/B07P4H4GDZ/?tag=redken-21) a 14.25 EUR (original: 25.72 EUR) (44.60 %  de descuento) en el siguiente enlace!
+Está [Herbalgem Osteogem - 30 gr](https://www.amazon.es/dp/B07P4H4GDZ/?tag=redken-21) con 44.60 de descuento por 14.25 EUR (original: 25.72 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31WtqgSkBdL._SL500_._SL200_.jpg)](https://www.amazon.es/dp/B07P4H4GDZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07P4H4GDZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07P4H4GDZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

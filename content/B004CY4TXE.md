@@ -14,11 +14,11 @@ comparePrice: 16.8 GBP
 inStock: true
 ---
 
-Está [Amarula Cream Liquor  70 cl](https://www.amazon.co.uk/dp/B004CY4TXE/?tag=redken01-21) con 37.50 de descuento por 10.5 GBP (original: 16.8 GBP) en el siguiente enlace!
+Ahora mismo tienes [Amarula Cream Liquor  70 cl](https://www.amazon.co.uk/dp/B004CY4TXE/?tag=redken01-21) a 10.5 GBP (original: 16.8 GBP) (37.50 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41c-lhplbIL._SL200_.jpg)](https://www.amazon.co.uk/dp/B004CY4TXE/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B004CY4TXE/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B004CY4TXE/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

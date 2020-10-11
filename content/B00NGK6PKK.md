@@ -14,11 +14,11 @@ comparePrice: 19.39 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cumlaude Rilastil Sunlaude Spf50 y Compacto Medium - 10 gr](https://www.amazon.es/dp/B00NGK6PKK/?tag=redken-21) a 11.95 EUR (original: 19.39 EUR) (38.37 %  de descuento) en el siguiente enlace!
+Está [Cumlaude Rilastil Sunlaude Spf50 y Compacto Medium - 10 gr](https://www.amazon.es/dp/B00NGK6PKK/?tag=redken-21) con 38.37 de descuento por 11.95 EUR (original: 19.39 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.es/dp/B00NGK6PKK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00NGK6PKK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00NGK6PKK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

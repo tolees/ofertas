@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Tarjeta de memoria microSD al 41.78 % de descuento'
-date: 2020-10-01 06:16:31
+date: 2020-10-11 09:05:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/414KF0pyZjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414KF0pyZjL._SL200_.jpg' ]
 comments: true

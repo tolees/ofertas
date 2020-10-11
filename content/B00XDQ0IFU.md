@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gullón - Galletas Chocolate Dibus Mini 2 al 35.48 % de descuento'
-date: 2020-10-09 14:35:26
+date: 2020-10-11 09:14:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/517XlCf8e5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517XlCf8e5L._SL200_.jpg' ]
 comments: true
