@@ -14,11 +14,11 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Wolfenstein II: The New Colossus](https://www.amazon.es/dp/B07CMH5BP1/?tag=redken-21) con 31.86 de descuento por 40.88 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Wolfenstein II: The New Colossus](https://www.amazon.es/dp/B07CMH5BP1/?tag=redken-21) a 40.88 EUR (original: 59.99 EUR) (31.86 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51RUfjcb-3L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CMH5BP1/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CMH5BP1/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CMH5BP1/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

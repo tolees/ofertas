@@ -14,11 +14,11 @@ comparePrice: 650.0 EUR
 inStock: true
 ---
 
-Está [Sony SEL-85F18 Porträt Objektiv  Festbrennweite  85 mm  F1.8  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B06VTFTZ17/?tag=redken02-21) con 26.25 de descuento por 479.37 EUR (original: 650.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SEL-85F18 Porträt Objektiv  Festbrennweite  85 mm  F1.8  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B06VTFTZ17/?tag=redken02-21) a 479.37 EUR (original: 650.0 EUR) (26.25 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41JWFst-i8L._SL200_.jpg)](https://www.amazon.de/dp/B06VTFTZ17/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B06VTFTZ17/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B06VTFTZ17/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

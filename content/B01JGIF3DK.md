@@ -14,11 +14,11 @@ comparePrice: 269.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Einhell Expert Kit con Taladro TE-CD 18/2 Li y Amoladora TE-AG 18 Li de 18V con 2 baterías de litio de 1 5Ah y 3 0 Ah y cargador  ref.4257211 ](https://www.amazon.es/dp/B01JGIF3DK/?tag=redken-21) a 169.0 EUR (original: 269.95 EUR) (37.40 %  de descuento) en el siguiente enlace!
+Está [Einhell Expert Kit con Taladro TE-CD 18/2 Li y Amoladora TE-AG 18 Li de 18V con 2 baterías de litio de 1 5Ah y 3 0 Ah y cargador  ref.4257211 ](https://www.amazon.es/dp/B01JGIF3DK/?tag=redken-21) con 37.40 de descuento por 169.0 EUR (original: 269.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51phMDcT7tL._SL200_.jpg)](https://www.amazon.es/dp/B01JGIF3DK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01JGIF3DK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01JGIF3DK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

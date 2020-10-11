@@ -14,11 +14,11 @@ comparePrice: 53.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for Ideas Women of NASA - Compatible with Lego 21312 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B07WV9L2DH/?tag=redken01-21) a 23.99 GBP (original: 53.99 GBP) (55.57 %  de descuento) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for Ideas Women of NASA - Compatible with Lego 21312 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B07WV9L2DH/?tag=redken01-21) con 55.57 de descuento por 23.99 GBP (original: 53.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4147Z8gsZZL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WV9L2DH/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07WV9L2DH/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07WV9L2DH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

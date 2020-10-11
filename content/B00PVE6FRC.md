@@ -14,11 +14,11 @@ comparePrice: 32.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [D-Link DAP-1365 N300 Wi-Fi Range Extender  mit Power Passthrough  verstärkt Ihr Heim-WLAN  bis zu 300 Mbit/s ](https://www.amazon.de/dp/B00PVE6FRC/?tag=redken02-21) a 17.85 EUR (original: 32.9 EUR) (45.74 %  de descuento) en el siguiente enlace!
+Está [D-Link DAP-1365 N300 Wi-Fi Range Extender  mit Power Passthrough  verstärkt Ihr Heim-WLAN  bis zu 300 Mbit/s ](https://www.amazon.de/dp/B00PVE6FRC/?tag=redken02-21) con 45.74 de descuento por 17.85 EUR (original: 32.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41TX5vL84rL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00PVE6FRC/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B00PVE6FRC/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B00PVE6FRC/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

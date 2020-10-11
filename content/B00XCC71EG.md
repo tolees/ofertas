@@ -14,11 +14,11 @@ comparePrice: 12.59 EUR
 inStock: true
 ---
 
-Está [Leibniz PiCK UP! Black´n White 24 x 28 g-knackige weiße Schokolade  knuspriger dunkler Keks-lecker für zwischendurch-Schokoriegel für die ganze Familie-einzeln verpackt-Großpackung-praktisch-Riegel](https://www.amazon.de/dp/B00XCC71EG/?tag=redken02-21) con 32.57 de descuento por 8.49 EUR (original: 12.59 EUR) en el siguiente enlace!
+Ahora mismo tienes [Leibniz PiCK UP! Black´n White 24 x 28 g-knackige weiße Schokolade  knuspriger dunkler Keks-lecker für zwischendurch-Schokoriegel für die ganze Familie-einzeln verpackt-Großpackung-praktisch-Riegel](https://www.amazon.de/dp/B00XCC71EG/?tag=redken02-21) a 8.49 EUR (original: 12.59 EUR) (32.57 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51CHUgKFy2L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00XCC71EG/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00XCC71EG/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B00XCC71EG/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
