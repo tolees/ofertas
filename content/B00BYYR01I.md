@@ -14,11 +14,11 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Está [Lego Star Wars R2-D2 Key Light [With Battery]](https://www.amazon.de/dp/B00BYYR01I/?tag=redken02-21) con 61.59 de descuento por 4.99 EUR (original: 12.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego Star Wars R2-D2 Key Light [With Battery]](https://www.amazon.de/dp/B00BYYR01I/?tag=redken02-21) a 4.99 EUR (original: 12.99 EUR) (61.59 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31eSK%2B1IM3L._SL200_.jpg)](https://www.amazon.de/dp/B00BYYR01I/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00BYYR01I/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B00BYYR01I/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

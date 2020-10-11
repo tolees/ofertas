@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tp-Link Tl-Sg1008D Switch 8 Porte Gigabi al 50.28 % de descuento'
-date: 2020-10-10 04:51:52
+date: 2020-10-11 04:56:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SigwzH+oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SigwzH+oL._SL200_.jpg' ]
 comments: true
