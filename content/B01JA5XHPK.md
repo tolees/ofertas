@@ -14,11 +14,11 @@ comparePrice: 21.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Blaze and the Monster Machines DYP43 Cheating Morpher Crusher](https://www.amazon.co.uk/dp/B01JA5XHPK/?tag=redken01-21) a 14.85 GBP (original: 21.99 GBP) (32.47 %  de descuento) en el siguiente enlace!
+Está [Blaze and the Monster Machines DYP43 Cheating Morpher Crusher](https://www.amazon.co.uk/dp/B01JA5XHPK/?tag=redken01-21) con 32.47 de descuento por 14.85 GBP (original: 21.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41RN+zrteJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01JA5XHPK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01JA5XHPK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01JA5XHPK/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
