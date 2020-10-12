@@ -14,11 +14,11 @@ comparePrice: 66.07 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lamberts Diet Whey - Suplemento para Deportistas  1000 gr](https://www.amazon.es/dp/B01F8PBWOE/?tag=redken-21) a 34.04 EUR (original: 66.07 EUR) (48.48 %  de descuento) en el siguiente enlace!
+Está [Lamberts Diet Whey - Suplemento para Deportistas  1000 gr](https://www.amazon.es/dp/B01F8PBWOE/?tag=redken-21) con 48.48 de descuento por 34.04 EUR (original: 66.07 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51XatUBbjQL._SL200_.jpg)](https://www.amazon.es/dp/B01F8PBWOE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01F8PBWOE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01F8PBWOE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

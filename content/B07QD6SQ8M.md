@@ -14,11 +14,11 @@ comparePrice: 22.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA Alpha Leggings G Mallas Deporte  Niñas  Light Gray Heather  116](https://www.amazon.es/dp/B07QD6SQ8M/?tag=redken-21) a 11.32 EUR (original: 22.49 EUR) (49.67 %  de descuento) en el siguiente enlace!
+Está [PUMA Alpha Leggings G Mallas Deporte  Niñas  Light Gray Heather  116](https://www.amazon.es/dp/B07QD6SQ8M/?tag=redken-21) con 49.67 de descuento por 11.32 EUR (original: 22.49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31wlYjcfPtL._SL200_.jpg)](https://www.amazon.es/dp/B07QD6SQ8M/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07QD6SQ8M/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07QD6SQ8M/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

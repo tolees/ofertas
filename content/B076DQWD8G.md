@@ -14,11 +14,11 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [QMAY 24 Colors Air Dry Clay  Magic Clay Polymer Clay Non Toxic Modelling Clay  Creative Art DIY Crafts  Gift for Kids Modeling Dough with Project Booklet ](https://www.amazon.co.uk/dp/B076DQWD8G/?tag=redken01-21) a 16.47 GBP (original: 99.99 GBP) (83.53 %  de descuento) en el siguiente enlace!
+Está [QMAY 24 Colors Air Dry Clay  Magic Clay Polymer Clay Non Toxic Modelling Clay  Creative Art DIY Crafts  Gift for Kids Modeling Dough with Project Booklet ](https://www.amazon.co.uk/dp/B076DQWD8G/?tag=redken01-21) con 83.53 de descuento por 16.47 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51GPKvrK6JL._SL200_.jpg)](https://www.amazon.co.uk/dp/B076DQWD8G/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B076DQWD8G/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B076DQWD8G/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

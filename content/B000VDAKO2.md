@@ -14,11 +14,11 @@ comparePrice: 5.49 EUR
 inStock: true
 ---
 
-Está [Kopp 565656001 Nautic Universalschalter  Aus-und Wechselschalter   grau](https://www.amazon.de/dp/B000VDAKO2/?tag=redken02-21) con 45.54 de descuento por 2.99 EUR (original: 5.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kopp 565656001 Nautic Universalschalter  Aus-und Wechselschalter   grau](https://www.amazon.de/dp/B000VDAKO2/?tag=redken02-21) a 2.99 EUR (original: 5.49 EUR) (45.54 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51uDf4nsjfL._SL200_.jpg)](https://www.amazon.de/dp/B000VDAKO2/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B000VDAKO2/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B000VDAKO2/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

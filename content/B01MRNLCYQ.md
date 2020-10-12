@@ -14,11 +14,11 @@ comparePrice: 100.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [DAFNI Go Hair Straightening Brush - Styles Hair Up to 10 Times Faster Than a Regular Brush](https://www.amazon.co.uk/dp/B01MRNLCYQ/?tag=redken01-21) a 56.0 GBP (original: 100.0 GBP) (44.00 %  de descuento) en el siguiente enlace!
+Está [DAFNI Go Hair Straightening Brush - Styles Hair Up to 10 Times Faster Than a Regular Brush](https://www.amazon.co.uk/dp/B01MRNLCYQ/?tag=redken01-21) con 44.00 de descuento por 56.0 GBP (original: 100.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41pLSX1Nd9L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01MRNLCYQ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01MRNLCYQ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01MRNLCYQ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Montre Femme - Calvin Klein K4U23126 al 49.71 % de descuento'
-date: 2020-10-10 06:27:37
+date: 2020-10-12 04:15:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WW2Qj0XiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WW2Qj0XiL._SL200_.jpg' ]
 comments: true

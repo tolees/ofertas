@@ -14,11 +14,11 @@ comparePrice: 8.11 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cuca Berberecho Grande - 63 gr](https://www.amazon.es/dp/B01IDM58TE/?tag=redken-21) a 6.03 EUR (original: 8.11 EUR) (25.65 %  de descuento) en el siguiente enlace!
+Está [Cuca Berberecho Grande - 63 gr](https://www.amazon.es/dp/B01IDM58TE/?tag=redken-21) con 25.65 de descuento por 6.03 EUR (original: 8.11 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51pJTDYL90L._SL200_.jpg)](https://www.amazon.es/dp/B01IDM58TE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01IDM58TE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01IDM58TE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
