@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crosstour WiFi Cámara Deportiva Acción 1 al 33.34 % de descuento'
-date: 2020-10-07 14:23:13
+date: 2020-10-12 20:07:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/511pacrOWwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511pacrOWwL._SL200_.jpg' ]
 comments: true

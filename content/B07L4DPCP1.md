@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41337 - Friends Schaukel mit Loopin al 25.66 % de descuento'
-date: 2020-10-05 12:37:47
+date: 2020-10-12 20:11:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EEqbhntgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EEqbhntgL._SL200_.jpg' ]
 comments: true

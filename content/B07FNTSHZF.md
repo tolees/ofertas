@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41366 - Friends Olivias Cupcake-Caf al 31.61 % de descuento'
-date: 2020-10-05 12:37:24
+date: 2020-10-12 20:12:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IHR9R8kwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IHR9R8kwL._SL200_.jpg' ]
 comments: true

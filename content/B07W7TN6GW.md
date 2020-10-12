@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60252 Bagger auf der Baustelle City al 29.09 % de descuento'
-date: 2020-10-05 12:40:16
+date: 2020-10-12 20:14:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+bN4lAlxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+bN4lAlxL._SL200_.jpg' ]
 comments: true

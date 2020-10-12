@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75272 Der Aufstieg Skywal al 25.27 % de descuento'
-date: 2020-10-07 05:14:12
-thumbnailImage: 'https://m.media-amazon.com/images/I/514Hfi9GdQL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/514Hfi9GdQL._SL200_.jpg' ]
+date: 2020-10-12 20:14:02
+thumbnailImage: 'https://m.media-amazon.com/images/I/51cR+iixANL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51cR+iixANL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [LEGO Star Wars 75272 Der Aufstieg Skywalkers: Sith TIE Fighter](https://www.amazon.de/dp/B07WC12QZW/?tag=redken02-21) a 50.99 EUR (original: 68.23 EUR) (25.27 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/514Hfi9GdQL._SL200_.jpg)](https://www.amazon.de/dp/B07WC12QZW/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51cR+iixANL._SL200_.jpg)](https://www.amazon.de/dp/B07WC12QZW/?tag=redken02-21)
 
 [Visítala!!!](https://www.amazon.de/dp/B07WC12QZW/?tag=redken02-21)
 

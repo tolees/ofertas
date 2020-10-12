@@ -14,11 +14,11 @@ comparePrice: 11.67 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Star Trek - Deep Space Nine - Series 1  Slimline Edition  [DVD]](https://www.amazon.co.uk/dp/B000NTPCF6/?tag=redken01-21) a 3.61 GBP (original: 11.67 GBP) (69.07 %  de descuento) en el siguiente enlace!
+Está [Star Trek - Deep Space Nine - Series 1  Slimline Edition  [DVD]](https://www.amazon.co.uk/dp/B000NTPCF6/?tag=redken01-21) con 69.07 de descuento por 3.61 GBP (original: 11.67 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51JkOpO803L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B000NTPCF6/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B000NTPCF6/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B000NTPCF6/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

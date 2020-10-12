@@ -14,11 +14,11 @@ comparePrice: 9.77 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 33980 POP Bobble: Marvel Man: Into The Spider-Verse: Prowler  Multi](https://www.amazon.co.uk/dp/B07DF9CH5B/?tag=redken01-21) a 6.67 GBP (original: 9.77 GBP) (31.73 %  de descuento) en el siguiente enlace!
+Está [Funko 33980 POP Bobble: Marvel Man: Into The Spider-Verse: Prowler  Multi](https://www.amazon.co.uk/dp/B07DF9CH5B/?tag=redken01-21) con 31.73 de descuento por 6.67 GBP (original: 9.77 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51HqosWMKyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DF9CH5B/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07DF9CH5B/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DF9CH5B/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
