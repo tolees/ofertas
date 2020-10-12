@@ -14,11 +14,11 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nintendo - Figura Amiibo Smash Yoshi](https://www.amazon.es/dp/B00N8PBMK6/?tag=redken-21) a 12.34 EUR (original: 17.99 EUR) (31.41 %  de descuento) en el siguiente enlace!
+Está [Nintendo - Figura Amiibo Smash Yoshi](https://www.amazon.es/dp/B00N8PBMK6/?tag=redken-21) con 31.41 de descuento por 12.34 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51591M367nL._SL200_.jpg)](https://www.amazon.es/dp/B00N8PBMK6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00N8PBMK6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00N8PBMK6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

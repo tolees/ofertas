@@ -14,11 +14,11 @@ comparePrice: 17.91 EUR
 inStock: true
 ---
 
-Está [PLAYMOBIL City Action Policía con Moto y Luces LED  A partir de 5 años  6923 ](https://www.amazon.es/dp/B01LTHZP1Q/?tag=redken-21) con 27.97 de descuento por 12.9 EUR (original: 17.91 EUR) en el siguiente enlace!
+Ahora mismo tienes [PLAYMOBIL City Action Policía con Moto y Luces LED  A partir de 5 años  6923 ](https://www.amazon.es/dp/B01LTHZP1Q/?tag=redken-21) a 12.9 EUR (original: 17.91 EUR) (27.97 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61VKrD2dzYL._SL200_.jpg)](https://www.amazon.es/dp/B01LTHZP1Q/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01LTHZP1Q/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01LTHZP1Q/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

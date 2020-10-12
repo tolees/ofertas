@@ -14,11 +14,11 @@ comparePrice: 349.0 EUR
 inStock: true
 ---
 
-Está [Samsung Galaxy A50  Smartphone FHD sAmoled Infinity U Display  4GB RAM  128GB ROM  25MP  Exynos 9610  Carga Rápida  Versión Española  Android  6.4"  Coral](https://www.amazon.es/dp/B07PLDKD7J/?tag=redken-21) con 25.66 de descuento por 259.43 EUR (original: 349.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Samsung Galaxy A50  Smartphone FHD sAmoled Infinity U Display  4GB RAM  128GB ROM  25MP  Exynos 9610  Carga Rápida  Versión Española  Android  6.4"  Coral](https://www.amazon.es/dp/B07PLDKD7J/?tag=redken-21) a 259.43 EUR (original: 349.0 EUR) (25.66 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ODmDZPxAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PLDKD7J/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07PLDKD7J/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07PLDKD7J/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

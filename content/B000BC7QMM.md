@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DGS-105 - Switch de red  5 puerto al 43.18 % de descuento'
-date: 2020-10-11 10:35:46
+date: 2020-10-12 10:45:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/3147mnzyuGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3147mnzyuGL._SL200_.jpg' ]
 comments: true

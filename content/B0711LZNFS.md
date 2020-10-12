@@ -14,11 +14,11 @@ comparePrice: 45.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour UA Heatgear Ankle Crop Leggings Capri  Mujer  Negro  Black/Metallic Silver 001   S](https://www.amazon.es/dp/B0711LZNFS/?tag=redken-21) a 21.49 EUR (original: 45.0 EUR) (52.24 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA Heatgear Ankle Crop Leggings Capri  Mujer  Negro  Black/Metallic Silver 001   S](https://www.amazon.es/dp/B0711LZNFS/?tag=redken-21) con 52.24 de descuento por 21.49 EUR (original: 45.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/3195452dxAL._SL200_.jpg)](https://www.amazon.es/dp/B0711LZNFS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0711LZNFS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0711LZNFS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
