@@ -14,11 +14,11 @@ comparePrice: 7.15 GBP
 inStock: true
 ---
 
-Está [Funko 31938 Pint Sized Heroes Marvel Studios 10: Blindbags 12pc PDQ  CDU 12  Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07DFCTKWH/?tag=redken01-21) con 30.77 de descuento por 4.95 GBP (original: 7.15 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 31938 Pint Sized Heroes Marvel Studios 10: Blindbags 12pc PDQ  CDU 12  Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07DFCTKWH/?tag=redken01-21) a 4.95 GBP (original: 7.15 GBP) (30.77 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51YGRGao6vL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DFCTKWH/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DFCTKWH/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DFCTKWH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

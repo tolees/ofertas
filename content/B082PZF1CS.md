@@ -14,11 +14,11 @@ comparePrice: 119.98 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Haunen Acrylic Display Case/Box for Brick Building Block  Dustproof ShowCase Display Box for LEGO Friends Cafe 21319  NOT Included The Model ](https://www.amazon.co.uk/dp/B082PZF1CS/?tag=redken01-21) a 59.99 GBP (original: 119.98 GBP) (50.00 %  de descuento) en el siguiente enlace!
+Está [Haunen Acrylic Display Case/Box for Brick Building Block  Dustproof ShowCase Display Box for LEGO Friends Cafe 21319  NOT Included The Model ](https://www.amazon.co.uk/dp/B082PZF1CS/?tag=redken01-21) con 50.00 de descuento por 59.99 GBP (original: 119.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ctljrFrkL._SL200_.jpg)](https://www.amazon.co.uk/dp/B082PZF1CS/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B082PZF1CS/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B082PZF1CS/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

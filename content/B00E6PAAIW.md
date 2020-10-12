@@ -14,11 +14,11 @@ comparePrice: 18.5 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Trend D/Lift DLIFTA Door Lifter A](https://www.amazon.co.uk/dp/B00E6PAAIW/?tag=redken01-21) a 12.95 GBP (original: 18.5 GBP) (30.00 %  de descuento) en el siguiente enlace!
+Está [Trend D/Lift DLIFTA Door Lifter A](https://www.amazon.co.uk/dp/B00E6PAAIW/?tag=redken01-21) con 30.00 de descuento por 12.95 GBP (original: 18.5 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lCJ1s0ACL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00E6PAAIW/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00E6PAAIW/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00E6PAAIW/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

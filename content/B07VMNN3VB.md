@@ -14,11 +14,11 @@ comparePrice: 10.99 USD
 inStock: true
 ---
 
-Está [Funko Pop! Games: Apex Legends - Pathfinder Vinyl Figure](https://www.amazon.com/dp/B07VMNN3VB/?tag=redken08-20) con 45.50 de descuento por 5.99 USD (original: 10.99 USD) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop! Games: Apex Legends - Pathfinder Vinyl Figure](https://www.amazon.com/dp/B07VMNN3VB/?tag=redken08-20) a 5.99 USD (original: 10.99 USD) (45.50 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51EUvsvsB0L._SL200_.jpg)](https://www.amazon.com/dp/B07VMNN3VB/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07VMNN3VB/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07VMNN3VB/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
