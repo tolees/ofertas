@@ -14,11 +14,11 @@ comparePrice: 9.77 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 36342 POP Captain Marvel-Vers Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07HB3HKHY/?tag=redken01-21) a 5.0 GBP (original: 9.77 GBP) (48.82 %  de descuento) en el siguiente enlace!
+Está [Funko 36342 POP Captain Marvel-Vers Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07HB3HKHY/?tag=redken01-21) con 48.82 de descuento por 5.0 GBP (original: 9.77 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41N++ICSnrL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07HB3HKHY/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07HB3HKHY/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07HB3HKHY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

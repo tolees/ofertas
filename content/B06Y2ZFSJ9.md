@@ -14,11 +14,11 @@ comparePrice: 75.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 574v2 Core  Men s Trainers  Grey  Grey   6 UK](https://www.amazon.co.uk/dp/B06Y2ZFSJ9/?tag=redken01-21) a 47.23 GBP (original: 75.0 GBP) (37.03 %  de descuento) en el siguiente enlace!
+Está [New Balance 574v2 Core  Men s Trainers  Grey  Grey   6 UK](https://www.amazon.co.uk/dp/B06Y2ZFSJ9/?tag=redken01-21) con 37.03 de descuento por 47.23 GBP (original: 75.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dl8oESB+L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B06Y2ZFSJ9/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B06Y2ZFSJ9/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06Y2ZFSJ9/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 14.95 GBP
 inStock: true
 ---
 
-Está [Playmobil City Life 9456 Chemistry Class for Children Ages 5+](https://www.amazon.co.uk/dp/B079MSHJKS/?tag=redken01-21) con 27.63 de descuento por 10.82 GBP (original: 14.95 GBP) en el siguiente enlace!
+Ahora mismo tienes [Playmobil City Life 9456 Chemistry Class for Children Ages 5+](https://www.amazon.co.uk/dp/B079MSHJKS/?tag=redken01-21) a 10.82 GBP (original: 14.95 GBP) (27.63 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51tQsD60iXL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B079MSHJKS/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B079MSHJKS/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B079MSHJKS/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

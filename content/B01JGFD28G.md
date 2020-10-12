@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Velvet Barra de Labios Líquida  al 65.11 % de descuento'
-date: 2020-10-08 05:32:46
+date: 2020-10-12 09:57:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oHs8OgG5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oHs8OgG5L._SL200_.jpg' ]
 comments: true

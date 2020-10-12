@@ -14,11 +14,11 @@ comparePrice: 54.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Technic 4X4 X-treme off-roader Compatible with LEGO 42099 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B07YY1TFBX/?tag=redken01-21) a 34.99 GBP (original: 54.99 GBP) (36.37 %  de descuento) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Technic 4X4 X-treme off-roader Compatible with LEGO 42099 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B07YY1TFBX/?tag=redken01-21) con 36.37 de descuento por 34.99 GBP (original: 54.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51zI3JtRqRL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07YY1TFBX/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07YY1TFBX/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07YY1TFBX/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

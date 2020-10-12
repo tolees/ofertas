@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk Extreme - Tarjeta de memoria mic al 46.82 % de descuento'
-date: 2020-10-06 21:44:09
+title: 'SanDisk Extreme Scheda di Memoria microS al 29.02 % de descuento'
+date: 2020-10-12 08:25:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O4rjSlneL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O4rjSlneL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07FCMKK5X
 description:
-actualPrice: 24.99 EUR
-comparePrice: 46.99 EUR
+actualPrice: 20.42 EUR
+comparePrice: 28.77 EUR
 inStock: true
 ---
 
-Está [SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07FCMKK5X/?tag=redken-21) con 46.82 de descuento por 24.99 EUR (original: 46.99 EUR) en el siguiente enlace!
+Está [SanDisk Extreme Scheda di Memoria microSDXC da 128 GB e adattatore SD con App Performance A2 e Rescue Pro Deluxe  fino a 160 / 90 MB/sec  Classe 10  UHH-I  U3  V30](https://www.amazon.it/dp/B07FCMKK5X/?tag=redken03-21) con 29.02 de descuento por 20.42 EUR (original: 28.77 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41O4rjSlneL._SL200_.jpg)](https://www.amazon.es/dp/B07FCMKK5X/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41O4rjSlneL._SL200_.jpg)](https://www.amazon.it/dp/B07FCMKK5X/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FCMKK5X/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07FCMKK5X/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

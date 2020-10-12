@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.22 % en Columbia Lake 22 Jacket Chaqueta De Plum'
-date: 2020-10-11 06:20:41
+date: 2020-10-12 09:14:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AqJDFv+8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AqJDFv+8L._SL200_.jpg' ]
 comments: true
