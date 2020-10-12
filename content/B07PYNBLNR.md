@@ -14,11 +14,11 @@ comparePrice: 3.0 GBP
 inStock: true
 ---
 
-Está [Perfect Iced Coffee: 40 Recipes for Making Great Iced Coffee at Home](https://www.amazon.co.uk/dp/B07PYNBLNR/?tag=redken01-21) con 67.00 de descuento por 0.99 GBP (original: 3.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Perfect Iced Coffee: 40 Recipes for Making Great Iced Coffee at Home](https://www.amazon.co.uk/dp/B07PYNBLNR/?tag=redken01-21) a 0.99 GBP (original: 3.0 GBP) (67.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41D2xpEy80L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PYNBLNR/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PYNBLNR/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07PYNBLNR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

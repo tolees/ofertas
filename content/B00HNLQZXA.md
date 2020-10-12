@@ -14,11 +14,11 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Está [Einhell  4513495 RT-SD 3 6/2 Li Kit  -  Atornillador inalámbrico con  caja de puntas de 32 piezas  bateria ión de litio  5.4 W  3.6 V  Rojo](https://www.amazon.es/dp/B00HNLQZXA/?tag=redken-21) con 42.68 de descuento por 22.9 EUR (original: 39.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Einhell  4513495 RT-SD 3 6/2 Li Kit  -  Atornillador inalámbrico con  caja de puntas de 32 piezas  bateria ión de litio  5.4 W  3.6 V  Rojo](https://www.amazon.es/dp/B00HNLQZXA/?tag=redken-21) a 22.9 EUR (original: 39.95 EUR) (42.68 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg)](https://www.amazon.es/dp/B00HNLQZXA/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00HNLQZXA/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00HNLQZXA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

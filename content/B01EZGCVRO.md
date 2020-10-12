@@ -14,11 +14,11 @@ comparePrice: 7.99 EUR
 inStock: true
 ---
 
-Está [Auferstanden](https://www.amazon.de/dp/B01EZGCVRO/?tag=redken02-21) con 43.80 de descuento por 4.49 EUR (original: 7.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Auferstanden](https://www.amazon.de/dp/B01EZGCVRO/?tag=redken02-21) a 4.49 EUR (original: 7.99 EUR) (43.80 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/519wNUOllaL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01EZGCVRO/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01EZGCVRO/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B01EZGCVRO/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

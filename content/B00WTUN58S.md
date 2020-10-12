@@ -14,11 +14,11 @@ comparePrice: 17.49 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Souarts Antique Bronze Color Round Pocket Watch Hollow Rose Engraved  Hollow Heart ](https://www.amazon.co.uk/dp/B00WTUN58S/?tag=redken01-21) a 0.99 GBP (original: 17.49 GBP) (94.34 %  de descuento) en el siguiente enlace!
+Está [Souarts Antique Bronze Color Round Pocket Watch Hollow Rose Engraved  Hollow Heart ](https://www.amazon.co.uk/dp/B00WTUN58S/?tag=redken01-21) con 94.34 de descuento por 0.99 GBP (original: 17.49 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61VcBGiMk2L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00WTUN58S/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00WTUN58S/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00WTUN58S/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

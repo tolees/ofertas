@@ -14,11 +14,11 @@ comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Conspiracy V Outdry  Zapatillas de Senderismo para Hombre  Negro  Black  Lux 010   41.5 EU](https://www.amazon.es/dp/B0772ZHLPJ/?tag=redken-21) a 77.89 EUR (original: 119.99 EUR) (35.09 %  de descuento) en el siguiente enlace!
+Está [Columbia Conspiracy V Outdry  Zapatillas de Senderismo para Hombre  Negro  Black  Lux 010   41.5 EU](https://www.amazon.es/dp/B0772ZHLPJ/?tag=redken-21) con 35.09 de descuento por 77.89 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cbPg7rrSL._SL200_.jpg)](https://www.amazon.es/dp/B0772ZHLPJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0772ZHLPJ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0772ZHLPJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

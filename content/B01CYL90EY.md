@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-XB650BT kabelloser Extra-Bass K al 52.29 % de descuento'
-date: 2020-10-11 05:46:53
+date: 2020-10-12 11:58:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lum+Hmm4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lum+Hmm4L._SL200_.jpg' ]
 comments: true

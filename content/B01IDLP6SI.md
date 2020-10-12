@@ -14,11 +14,11 @@ comparePrice: 52.03 EUR
 inStock: true
 ---
 
-Está [BATH+ by Cosmic Espejo B-Box  50 x 80 cm](https://www.amazon.es/dp/B01IDLP6SI/?tag=redken-21) con 25.33 de descuento por 38.85 EUR (original: 52.03 EUR) en el siguiente enlace!
+Ahora mismo tienes [BATH+ by Cosmic Espejo B-Box  50 x 80 cm](https://www.amazon.es/dp/B01IDLP6SI/?tag=redken-21) a 38.85 EUR (original: 52.03 EUR) (25.33 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21lNZ2e0rUL._SL200_.jpg)](https://www.amazon.es/dp/B01IDLP6SI/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01IDLP6SI/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01IDLP6SI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
