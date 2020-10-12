@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.01 % en Rolson 42462 Magnetic Tool Holder Set - '
-date: 2020-10-10 11:25:36
+date: 2020-10-12 05:47:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JUrroJ5VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JUrroJ5VL._SL200_.jpg' ]
 comments: true

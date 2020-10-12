@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Padded Pak r Zaino  40 cm  24 L  al 27.74 % de descuento'
-date: 2020-10-11 05:03:30
+date: 2020-10-12 05:20:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xlVUp8ffL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xlVUp8ffL._SL200_.jpg' ]
 comments: true
