@@ -14,11 +14,11 @@ comparePrice: 9.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Transcend Extreme-Speed Micro SDHC 8GB Class 10 Speicherkarte mit SD-Adapter](https://www.amazon.de/dp/B004TA0AUW/?tag=redken02-21) a 5.49 EUR (original: 9.9 EUR) (44.55 %  de descuento) en el siguiente enlace!
+Está [Transcend Extreme-Speed Micro SDHC 8GB Class 10 Speicherkarte mit SD-Adapter](https://www.amazon.de/dp/B004TA0AUW/?tag=redken02-21) con 44.55 de descuento por 5.49 EUR (original: 9.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Tq7Vg8siL._SL200_.jpg)](https://www.amazon.de/dp/B004TA0AUW/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B004TA0AUW/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B004TA0AUW/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

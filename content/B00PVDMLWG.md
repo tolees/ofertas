@@ -14,11 +14,11 @@ comparePrice: 129.14 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [D-Link DCH-107KT mydlink Smart Home Security Kit](https://www.amazon.co.uk/dp/B00PVDMLWG/?tag=redken01-21) a 71.91 GBP (original: 129.14 GBP) (44.32 %  de descuento) en el siguiente enlace!
+Está [D-Link DCH-107KT mydlink Smart Home Security Kit](https://www.amazon.co.uk/dp/B00PVDMLWG/?tag=redken01-21) con 44.32 de descuento por 71.91 GBP (original: 129.14 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/318NrqYk4EL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00PVDMLWG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00PVDMLWG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00PVDMLWG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

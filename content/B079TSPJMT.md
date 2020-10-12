@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Honor View 10 - Smartphone de 5.99"  4 G al 53.91 % de descuento'
-date: 2020-10-10 21:43:44
+date: 2020-10-12 15:53:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41V3vuEZZZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41V3vuEZZZL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 699.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nikon D5600 Kit AF-P DX 18-55 VR Spiegelreflexkamera  8 1 cm  3 2 Zoll   24 2 Megapixel  schwarz](https://www.amazon.de/dp/B01MQGO8V6/?tag=redken02-21) a 477.0 EUR (original: 699.0 EUR) (31.76 %  de descuento) en el siguiente enlace!
+Está [Nikon D5600 Kit AF-P DX 18-55 VR Spiegelreflexkamera  8 1 cm  3 2 Zoll   24 2 Megapixel  schwarz](https://www.amazon.de/dp/B01MQGO8V6/?tag=redken02-21) con 31.76 de descuento por 477.0 EUR (original: 699.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+41Uv9INL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01MQGO8V6/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B01MQGO8V6/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B01MQGO8V6/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
