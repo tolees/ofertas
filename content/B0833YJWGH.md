@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GODNECE Technic Sports Car  RC Race Car  al 50.00 % de descuento'
+title: 'Descuento del 50.00 % en GODNECE Technic Sports Car  RC Race Car '
 date: 2020-01-08 22:58:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ug%2BGOXWsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ug%2BGOXWsL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 299.98 GBP
 inStock: true
 ---
 
-Está [GODNECE Technic Sports Car  RC Race Car Model Kit Model Building Kits Difficult Building Blocks Technic Compatible with Lego 1671pcs  ](https://www.amazon.co.uk/dp/B0833YJWGH/?tag=redken01-21) con 50.00 de descuento por 149.99 GBP (original: 299.98 GBP) en el siguiente enlace!
+Tienes [GODNECE Technic Sports Car  RC Race Car Model Kit Model Building Kits Difficult Building Blocks Technic Compatible with Lego 1671pcs  ](https://www.amazon.co.uk/dp/B0833YJWGH/?tag=redken01-21) con un 50.00 % de descuento con precio de oferta de 149.99 GBP (original: 299.98 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ug%2BGOXWsL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0833YJWGH/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B0833YJWGH/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B0833YJWGH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

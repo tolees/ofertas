@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link AC1200 Deco M4  2 Pack  - Router al 47.06 % de descuento'
-date: 2020-10-10 13:06:16
+date: 2020-10-12 00:50:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31HKPJuq1AL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31HKPJuq1AL._SL200_.jpg' ]
 comments: true

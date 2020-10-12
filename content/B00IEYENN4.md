@@ -14,11 +14,11 @@ comparePrice: 899.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony Alpha 6000 Systemkamera  24 Megapixel  7 5 cm  3 Zoll  LCD-Display  Exmor APS-C Sensor  Full-HD  High Speed Hybrid AF  inkl. SEL-P1650 Objektiv silber](https://www.amazon.de/dp/B00IEYENN4/?tag=redken02-21) a 399.0 EUR (original: 899.0 EUR) (55.62 %  de descuento) en el siguiente enlace!
+Está [Sony Alpha 6000 Systemkamera  24 Megapixel  7 5 cm  3 Zoll  LCD-Display  Exmor APS-C Sensor  Full-HD  High Speed Hybrid AF  inkl. SEL-P1650 Objektiv silber](https://www.amazon.de/dp/B00IEYENN4/?tag=redken02-21) con 55.62 de descuento por 399.0 EUR (original: 899.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Kr0JzrFcL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00IEYENN4/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B00IEYENN4/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B00IEYENN4/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

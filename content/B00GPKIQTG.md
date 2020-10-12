@@ -14,11 +14,11 @@ comparePrice: 6.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Aveeno Baby Daily Care Hair & Body Wash 300 ml](https://www.amazon.co.uk/dp/B00GPKIQTG/?tag=redken01-21) a 2.98 GBP (original: 6.0 GBP) (50.33 %  de descuento) en el siguiente enlace!
+Está [Aveeno Baby Daily Care Hair & Body Wash 300 ml](https://www.amazon.co.uk/dp/B00GPKIQTG/?tag=redken01-21) con 50.33 de descuento por 2.98 GBP (original: 6.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31bCjdm8CML._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00GPKIQTG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00GPKIQTG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00GPKIQTG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
