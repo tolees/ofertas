@@ -14,11 +14,11 @@ comparePrice: 4.5 EUR
 inStock: true
 ---
 
-Está [Rimmel London Lasting Finish by Kate Barra De Labios Tono 5 - 4 gr](https://www.amazon.es/dp/B00BQPFK8A/?tag=redken-21) con 34.00 de descuento por 2.97 EUR (original: 4.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Lasting Finish by Kate Barra De Labios Tono 5 - 4 gr](https://www.amazon.es/dp/B00BQPFK8A/?tag=redken-21) a 2.97 EUR (original: 4.5 EUR) (34.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31wWv2E7AdL._SL200_.jpg)](https://www.amazon.es/dp/B00BQPFK8A/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00BQPFK8A/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00BQPFK8A/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

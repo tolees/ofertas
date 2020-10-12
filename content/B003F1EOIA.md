@@ -14,11 +14,11 @@ comparePrice: 19.29 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Memory](https://www.amazon.co.uk/dp/B003F1EOIA/?tag=redken01-21) a 13.2 GBP (original: 19.29 GBP) (31.57 %  de descuento) en el siguiente enlace!
+Está [Memory](https://www.amazon.co.uk/dp/B003F1EOIA/?tag=redken01-21) con 31.57 de descuento por 13.2 GBP (original: 19.29 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/418kuKL5e5L._SL200_.jpg)](https://www.amazon.co.uk/dp/B003F1EOIA/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B003F1EOIA/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B003F1EOIA/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

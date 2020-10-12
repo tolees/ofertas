@@ -14,11 +14,11 @@ comparePrice: 25.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [the gift box Scented Candles Gifts for Women and Ladies Birthday Gifts and Anniversary and Birthday Gifts for Her  Mum Mother  Twinklelove ](https://www.amazon.co.uk/dp/B07SRT4P6R/?tag=redken01-21) a 12.99 GBP (original: 25.0 GBP) (48.04 %  de descuento) en el siguiente enlace!
+Está [the gift box Scented Candles Gifts for Women and Ladies Birthday Gifts and Anniversary and Birthday Gifts for Her  Mum Mother  Twinklelove ](https://www.amazon.co.uk/dp/B07SRT4P6R/?tag=redken01-21) con 48.04 de descuento por 12.99 GBP (original: 25.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4119yXPCMoL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07SRT4P6R/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07SRT4P6R/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07SRT4P6R/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
