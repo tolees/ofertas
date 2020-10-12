@@ -14,11 +14,11 @@ comparePrice: 179.99 GBP
 inStock: true
 ---
 
-Está [De Longhi ECP35.31 Traditional Pump Espresso Machine  Black](https://www.amazon.co.uk/dp/B013GDE0SU/?tag=redken01-21) con 50.55 de descuento por 89.0 GBP (original: 179.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [De Longhi ECP35.31 Traditional Pump Espresso Machine  Black](https://www.amazon.co.uk/dp/B013GDE0SU/?tag=redken01-21) a 89.0 GBP (original: 179.99 GBP) (50.55 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31p0u85Wj6L._SL200_.jpg)](https://www.amazon.co.uk/dp/B013GDE0SU/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B013GDE0SU/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B013GDE0SU/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

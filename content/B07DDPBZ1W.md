@@ -14,11 +14,11 @@ comparePrice: 4.99 GBP
 inStock: true
 ---
 
-Está [Funny Cards Rude Birthday Card 40th 50th 60th 70th Sister Mum Greeting Card Witty Humour Laughter Banter Rude Offensive Joke Card Fun PC374](https://www.amazon.co.uk/dp/B07DDPBZ1W/?tag=redken01-21) con 40.88 de descuento por 2.95 GBP (original: 4.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funny Cards Rude Birthday Card 40th 50th 60th 70th Sister Mum Greeting Card Witty Humour Laughter Banter Rude Offensive Joke Card Fun PC374](https://www.amazon.co.uk/dp/B07DDPBZ1W/?tag=redken01-21) a 2.95 GBP (original: 4.99 GBP) (40.88 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41jL21Lf57L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DDPBZ1W/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DDPBZ1W/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DDPBZ1W/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

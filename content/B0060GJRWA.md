@@ -14,11 +14,11 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [PRO 6.35mm Stereo Splitter Cable- 1/4" Plug To 2 x Jack Socket Gold Headphone Y T Audio Adapter - Loops Lead](https://www.amazon.co.uk/dp/B0060GJRWA/?tag=redken01-21) a 6.19 GBP (original: 9.99 GBP) (38.04 %  de descuento) en el siguiente enlace!
+Está [PRO 6.35mm Stereo Splitter Cable- 1/4" Plug To 2 x Jack Socket Gold Headphone Y T Audio Adapter - Loops Lead](https://www.amazon.co.uk/dp/B0060GJRWA/?tag=redken01-21) con 38.04 de descuento por 6.19 GBP (original: 9.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51mIYjYlB8L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B0060GJRWA/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B0060GJRWA/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B0060GJRWA/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

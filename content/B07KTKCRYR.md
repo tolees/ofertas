@@ -14,11 +14,11 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Está [LEGO 41371 Friends Mia s Horse Trailer Toy  Stable Extension Set  4 x 4 Buggy  Mia and Emma Mini Dolls](https://www.amazon.co.uk/dp/B07KTKCRYR/?tag=redken01-21) con 25.29 de descuento por 18.67 GBP (original: 24.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 41371 Friends Mia s Horse Trailer Toy  Stable Extension Set  4 x 4 Buggy  Mia and Emma Mini Dolls](https://www.amazon.co.uk/dp/B07KTKCRYR/?tag=redken01-21) a 18.67 GBP (original: 24.99 GBP) (25.29 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51omG-DWfxL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTKCRYR/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KTKCRYR/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KTKCRYR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 17.69 EUR
 inStock: true
 ---
 
-Está [Dockers by Gerli 36li019-207120  Sandalias de Talón Abierto para Hombre  Negro  Schwarz/Grau 120   43 EU](https://www.amazon.es/dp/B07HPDDZB5/?tag=redken-21) con 30.47 de descuento por 12.3 EUR (original: 17.69 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dockers by Gerli 36li019-207120  Sandalias de Talón Abierto para Hombre  Negro  Schwarz/Grau 120   43 EU](https://www.amazon.es/dp/B07HPDDZB5/?tag=redken-21) a 12.3 EUR (original: 17.69 EUR) (30.47 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41hLN7uesvL._SL200_.jpg)](https://www.amazon.es/dp/B07HPDDZB5/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HPDDZB5/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HPDDZB5/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

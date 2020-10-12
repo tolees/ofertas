@@ -14,11 +14,11 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [K NEX Tabletop Thrills Shark Attack Coaster](https://www.amazon.co.uk/dp/B07PNJY28K/?tag=redken01-21) a 17.99 GBP (original: 29.99 GBP) (40.01 %  de descuento) en el siguiente enlace!
+Está [K NEX Tabletop Thrills Shark Attack Coaster](https://www.amazon.co.uk/dp/B07PNJY28K/?tag=redken01-21) con 40.01 de descuento por 17.99 GBP (original: 29.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51H5Bgpx+5L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07PNJY28K/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07PNJY28K/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07PNJY28K/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

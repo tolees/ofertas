@@ -14,11 +14,11 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [YI 2pc 1080P Home Camera Wireless Indoor Security IP Camera with Night Vision Motion Detection Two Way Audio Home Security Surveillance System for Home/office/Pet/Remote Monitor](https://www.amazon.co.uk/dp/B07CPRK6C5/?tag=redken01-21) a 48.99 GBP (original: 99.99 GBP) (51.01 %  de descuento) en el siguiente enlace!
+Está [YI 2pc 1080P Home Camera Wireless Indoor Security IP Camera with Night Vision Motion Detection Two Way Audio Home Security Surveillance System for Home/office/Pet/Remote Monitor](https://www.amazon.co.uk/dp/B07CPRK6C5/?tag=redken01-21) con 51.01 de descuento por 48.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/415WcCN53WL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07CPRK6C5/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07CPRK6C5/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07CPRK6C5/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
