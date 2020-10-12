@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.13 % en Sony Mdr-Ex15Ap - Cuffie In-Ear con Micr'
-date: 2020-10-10 11:20:15
+date: 2020-10-11 23:12:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EZXy8y9bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EZXy8y9bL._SL200_.jpg' ]
 comments: true

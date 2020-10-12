@@ -14,11 +14,11 @@ comparePrice: 151.25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch GDR 12V-105 - Atornillador de impacto  Litio-Ion polímero  12 V  Negro  Azul](https://www.amazon.es/dp/B003VEILWG/?tag=redken-21) a 80.0 EUR (original: 151.25 EUR) (47.11 %  de descuento) en el siguiente enlace!
+Está [Bosch GDR 12V-105 - Atornillador de impacto  Litio-Ion polímero  12 V  Negro  Azul](https://www.amazon.es/dp/B003VEILWG/?tag=redken-21) con 47.11 de descuento por 80.0 EUR (original: 151.25 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dH8ADa7RL._SL200_.jpg)](https://www.amazon.es/dp/B003VEILWG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B003VEILWG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B003VEILWG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

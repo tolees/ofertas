@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.01 % en Sony α 6400 + SEL18135 MILC 24 2 MP CMOS'
-date: 2020-10-10 23:29:34
+date: 2020-10-11 23:30:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xmhsUpj1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xmhsUpj1L._SL200_.jpg' ]
 comments: true

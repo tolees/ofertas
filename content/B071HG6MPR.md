@@ -14,11 +14,11 @@ comparePrice: 72.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Z Man Games ZMG71173 Pandemic Legacy Season 2 Board Game  Yellow](https://www.amazon.co.uk/dp/B071HG6MPR/?tag=redken01-21) a 48.43 GBP (original: 72.99 GBP) (33.65 %  de descuento) en el siguiente enlace!
+Está [Z Man Games ZMG71173 Pandemic Legacy Season 2 Board Game  Yellow](https://www.amazon.co.uk/dp/B071HG6MPR/?tag=redken01-21) con 33.65 de descuento por 48.43 GBP (original: 72.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61rvNPPum1L._SL200_.jpg)](https://www.amazon.co.uk/dp/B071HG6MPR/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B071HG6MPR/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B071HG6MPR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
