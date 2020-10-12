@@ -14,11 +14,11 @@ comparePrice: 9.66 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 36959 Rock Candy: Marvel-Dark Phoenix Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07MGB19VX/?tag=redken01-21) a 6.86 GBP (original: 9.66 GBP) (28.99 %  de descuento) en el siguiente enlace!
+Está [Funko 36959 Rock Candy: Marvel-Dark Phoenix Collectible Figure  Multicolor](https://www.amazon.co.uk/dp/B07MGB19VX/?tag=redken01-21) con 28.99 de descuento por 6.86 GBP (original: 9.66 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/510tXTBudIL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07MGB19VX/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07MGB19VX/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07MGB19VX/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

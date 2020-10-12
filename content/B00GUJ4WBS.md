@@ -14,11 +14,11 @@ comparePrice: 98.0 EUR
 inStock: true
 ---
 
-Está [Michael Kors 55703 - Agua de perfume  100 ml](https://www.amazon.es/dp/B00GUJ4WBS/?tag=redken-21) con 47.52 de descuento por 51.43 EUR (original: 98.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Michael Kors 55703 - Agua de perfume  100 ml](https://www.amazon.es/dp/B00GUJ4WBS/?tag=redken-21) a 51.43 EUR (original: 98.0 EUR) (47.52 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41cAQXRuGuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00GUJ4WBS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00GUJ4WBS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00GUJ4WBS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

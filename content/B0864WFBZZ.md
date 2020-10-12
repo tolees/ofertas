@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MagicBox PST6D850IN01 Spielzeug al 32.36 % de descuento'
-date: 2020-10-11 12:01:58
+date: 2020-10-12 12:09:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/513fP0I01FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513fP0I01FL._SL200_.jpg' ]
 comments: true

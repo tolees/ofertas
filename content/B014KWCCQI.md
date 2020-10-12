@@ -14,11 +14,11 @@ comparePrice: 159 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Canary All-in-One Home Security Device - Black](https://www.amazon.co.uk/dp/B014KWCCQI/?tag=redken01-21) a 59 GBP (original: 159 GBP) (62.89 %  de descuento) en el siguiente enlace!
+Está [Canary All-in-One Home Security Device - Black](https://www.amazon.co.uk/dp/B014KWCCQI/?tag=redken01-21) con 62.89 de descuento por 59 GBP (original: 159 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zAcwa65UL._SL200_.jpg)](https://www.amazon.co.uk/dp/B014KWCCQI/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B014KWCCQI/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B014KWCCQI/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

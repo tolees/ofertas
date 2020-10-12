@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Technic 42108 Kran-LKW al 25.12 % de descuento'
-date: 2020-10-11 12:09:19
+title: 'LEGO Technic 42108 Kran-LKW al 33.42 % de descuento'
+date: 2020-10-12 12:15:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-B0Y2HH1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-B0Y2HH1L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07WC1VDSP
 description:
-actualPrice: 72.99 EUR
+actualPrice: 64.9 EUR
 comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Está [LEGO Technic 42108 Kran-LKW](https://www.amazon.de/dp/B07WC1VDSP/?tag=redken02-21) con 25.12 de descuento por 72.99 EUR (original: 97.47 EUR) en el siguiente enlace!
+Está [LEGO Technic 42108 Kran-LKW](https://www.amazon.de/dp/B07WC1VDSP/?tag=redken02-21) con 33.42 de descuento por 64.9 EUR (original: 97.47 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51-B0Y2HH1L._SL200_.jpg)](https://www.amazon.de/dp/B07WC1VDSP/?tag=redken02-21)
 

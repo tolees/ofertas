@@ -14,11 +14,11 @@ comparePrice: 6.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The First Avenger: Civil War](https://www.amazon.de/dp/B01ERM5RKE/?tag=redken02-21) a 4.5 EUR (original: 6.99 EUR) (35.62 %  de descuento) en el siguiente enlace!
+Está [The First Avenger: Civil War](https://www.amazon.de/dp/B01ERM5RKE/?tag=redken02-21) con 35.62 de descuento por 4.5 EUR (original: 6.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/518+C7VFteL._SL200_.jpg)](https://www.amazon.de/dp/B01ERM5RKE/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B01ERM5RKE/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B01ERM5RKE/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

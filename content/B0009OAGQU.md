@@ -14,11 +14,11 @@ comparePrice: 73.65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Calvin Klein 8Q1013000 Eau de perfume para mujer  50 ml](https://www.amazon.es/dp/B0009OAGQU/?tag=redken-21) a 35.9 EUR (original: 73.65 EUR) (51.26 %  de descuento) en el siguiente enlace!
+Está [Calvin Klein 8Q1013000 Eau de perfume para mujer  50 ml](https://www.amazon.es/dp/B0009OAGQU/?tag=redken-21) con 51.26 de descuento por 35.9 EUR (original: 73.65 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31-ldD0MBPL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0009OAGQU/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0009OAGQU/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0009OAGQU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

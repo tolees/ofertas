@@ -14,11 +14,11 @@ comparePrice: 15.29 USD
 inStock: true
 ---
 
-Está [NIKE Children s Apparel Girls  Little Long Sleeve JDI Graphic T-Shirt  Rush Pink  5](https://www.amazon.com/dp/B07JK6JC9H/?tag=redken08-20) con 40.55 de descuento por 9.09 USD (original: 15.29 USD) en el siguiente enlace!
+Ahora mismo tienes [NIKE Children s Apparel Girls  Little Long Sleeve JDI Graphic T-Shirt  Rush Pink  5](https://www.amazon.com/dp/B07JK6JC9H/?tag=redken08-20) a 9.09 USD (original: 15.29 USD) (40.55 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ENFMcfsfL._SL200_.jpg)](https://www.amazon.com/dp/B07JK6JC9H/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07JK6JC9H/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07JK6JC9H/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 26.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pop NBA: Lakers-Lebron James Figura Coleccionable  Multicolor  46549 ](https://www.amazon.es/dp/B07WWXX99C/?tag=redken-21) a 13.39 EUR (original: 26.0 EUR) (48.50 %  de descuento) en el siguiente enlace!
+Está [Funko- Pop NBA: Lakers-Lebron James Figura Coleccionable  Multicolor  46549 ](https://www.amazon.es/dp/B07WWXX99C/?tag=redken-21) con 48.50 de descuento por 13.39 EUR (original: 26.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/417VKmEWIhL._SL200_.jpg)](https://www.amazon.es/dp/B07WWXX99C/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07WWXX99C/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07WWXX99C/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

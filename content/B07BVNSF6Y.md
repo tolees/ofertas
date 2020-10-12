@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony KDL-43WF665 Bravia 109 2 cm  43 Zol al 30.82 % de descuento'
-date: 2020-10-11 12:02:06
+title: 'Sony KDL-43WF665 Bravia 109 2 cm  43 Zol al 30.91 % de descuento'
+date: 2020-10-12 12:08:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gRjSKuqJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gRjSKuqJL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07BVNSF6Y
 description:
-actualPrice: 393.62 EUR
+actualPrice: 393.12 EUR
 comparePrice: 569.0 EUR
 inStock: true
 ---
 
-Está [Sony KDL-43WF665 Bravia 109 2 cm  43 Zoll  Fernseher  Full HD  HDR  Smart TV ](https://www.amazon.de/dp/B07BVNSF6Y/?tag=redken02-21) con 30.82 de descuento por 393.62 EUR (original: 569.0 EUR) en el siguiente enlace!
+Está [Sony KDL-43WF665 Bravia 109 2 cm  43 Zoll  Fernseher  Full HD  HDR  Smart TV ](https://www.amazon.de/dp/B07BVNSF6Y/?tag=redken02-21) con 30.91 de descuento por 393.12 EUR (original: 569.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51gRjSKuqJL._SL200_.jpg)](https://www.amazon.de/dp/B07BVNSF6Y/?tag=redken02-21)
 
