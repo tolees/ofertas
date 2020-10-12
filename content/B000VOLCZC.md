@@ -14,11 +14,11 @@ comparePrice: 33.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Davidoff Cool Water After Shave 75 ml](https://www.amazon.es/dp/B000VOLCZC/?tag=redken-21) a 15.0 EUR (original: 33.0 EUR) (54.55 %  de descuento) en el siguiente enlace!
+Está [Davidoff Cool Water After Shave 75 ml](https://www.amazon.es/dp/B000VOLCZC/?tag=redken-21) con 54.55 de descuento por 15.0 EUR (original: 33.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qDNpB67hL._SL200_.jpg)](https://www.amazon.es/dp/B000VOLCZC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000VOLCZC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000VOLCZC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 9.08 GBP
 inStock: true
 ---
 
-Está [Funko 12332 Pop! TV: Game Of Thrones - Bran Stark Vinyl Figure](https://www.amazon.co.uk/dp/B071NHMWGB/?tag=redken01-21) con 41.41 de descuento por 5.32 GBP (original: 9.08 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 12332 Pop! TV: Game Of Thrones - Bran Stark Vinyl Figure](https://www.amazon.co.uk/dp/B071NHMWGB/?tag=redken01-21) a 5.32 GBP (original: 9.08 GBP) (41.41 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51eGMkp396L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B071NHMWGB/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B071NHMWGB/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B071NHMWGB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

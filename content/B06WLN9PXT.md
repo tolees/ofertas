@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 64.22 % en My Little Pony - Equestria Minis Caravan'
-date: 2020-10-10 12:37:41
+title: 'Descuento del 28.37 % en My Little Pony - Equestria Minis Caravan'
+date: 2020-10-12 21:50:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/61lensvdGTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61lensvdGTL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06WLN9PXT
 description:
-actualPrice: 10.0 EUR
+actualPrice: 20.02 EUR
 comparePrice: 27.95 EUR
 inStock: true
 ---
 
-Tienes [My Little Pony - Equestria Minis Caravana Sushi  Hasbro C1840EU4 ](https://www.amazon.es/dp/B06WLN9PXT/?tag=redken-21) con un 64.22 % de descuento con precio de oferta de 10.0 EUR (original: 27.95 EUR) en el siguiente enlace!
+Tienes [My Little Pony - Equestria Minis Caravana Sushi  Hasbro C1840EU4 ](https://www.amazon.es/dp/B06WLN9PXT/?tag=redken-21) con un 28.37 % de descuento con precio de oferta de 20.02 EUR (original: 27.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61lensvdGTL._SL200_.jpg)](https://www.amazon.es/dp/B06WLN9PXT/?tag=redken-21)
 

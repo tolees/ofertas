@@ -14,11 +14,11 @@ comparePrice: 269.39 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Imperial Confort Copenhague - Colchón doble Acolchado Viscoelástico + Grafeno - Máxima adaptabilidad y Confort - Altura 25 cm  135x200 cm](https://www.amazon.es/dp/B07FR8NP7X/?tag=redken-21) a 147.21 EUR (original: 269.39 EUR) (45.35 %  de descuento) en el siguiente enlace!
+Está [Imperial Confort Copenhague - Colchón doble Acolchado Viscoelástico + Grafeno - Máxima adaptabilidad y Confort - Altura 25 cm  135x200 cm](https://www.amazon.es/dp/B07FR8NP7X/?tag=redken-21) con 45.35 de descuento por 147.21 EUR (original: 269.39 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51IObTvz5DL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FR8NP7X/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FR8NP7X/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FR8NP7X/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
