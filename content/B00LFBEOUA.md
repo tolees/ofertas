@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G402 Hyperion Fury Ratón Gaming al 33.49 % de descuento'
-date: 2020-10-08 14:33:19
+date: 2020-10-12 22:52:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nlfClYn7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nlfClYn7L._SL200_.jpg' ]
 comments: true

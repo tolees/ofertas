@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 35.09 % en Sony SEL-18135 Zoom Objektiv 18-135mm F3'
-date: 2020-03-22 09:42:41
-thumbnailImage: 'https://m.media-amazon.com/images/I/41BxcPPQc+L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41BxcPPQc+L._SL200_.jpg' ]
+title: 'Sony SEL18135 - Lente Zoom  Montura E  F al 32.87 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413fBaEJ-QL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413fBaEJ-QL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B078VPM6WM
 description:
-actualPrice: 344.0 EUR
-comparePrice: 529.99 EUR
+actualPrice: 469.88 EUR
+comparePrice: 700 EUR
 inStock: true
 ---
 
-Tienes [Sony SEL-18135 Zoom Objektiv 18-135mm F3.5-5.6 OSS  E-Mount APS-C geeignet für A5000/A5100/A6000 Serien und Nex  schwarz](https://www.amazon.de/dp/B078VPM6WM/?tag=redken02-21) con un 35.09 % de descuento con precio de oferta de 344.0 EUR (original: 529.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SEL18135 - Lente Zoom  Montura E  Formato APS-C  18-135 mm F3.5-5.6 OSS  Zoom de 7.5 x   Color Negro](https://www.amazon.es/dp/B078VPM6WM/?tag=redken-21) a 469.88 EUR (original: 700 EUR) (32.87 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41BxcPPQc+L._SL200_.jpg)](https://www.amazon.de/dp/B078VPM6WM/?tag=redken02-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/413fBaEJ-QL._SL200_.jpg)](https://www.amazon.es/dp/B078VPM6WM/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B078VPM6WM/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.es/dp/B078VPM6WM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

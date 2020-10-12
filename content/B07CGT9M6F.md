@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Acer Aspire 5  A517-51-36LH  43 9 cm  17 al 59.93 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OKjSFZxCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OKjSFZxCL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07CGT9M6F
+description:
+actualPrice: 240 EUR
+comparePrice: 599 EUR
+inStock: true
+---
+
+Está [Acer Aspire 5  A517-51-36LH  43 9 cm  17 3 Zoll Full-HD matt  Multimedia Laptop  Intel Core i3-7020UF  8GB RAM  1 000GB HDD  Intel UHD  Win 10  schwarz](https://www.amazon.de/dp/B07CGT9M6F/?tag=redken02-21) con 59.93 de descuento por 240 EUR (original: 599 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41OKjSFZxCL._SL200_.jpg)](https://www.amazon.de/dp/B07CGT9M6F/?tag=redken02-21)
+
+[Ver la oferta!!](https://www.amazon.de/dp/B07CGT9M6F/?tag=redken02-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

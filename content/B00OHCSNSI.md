@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Kappa Opi Basket Short de Baloncesto  Ni al 47.50 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4143qV-4ggL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4143qV-4ggL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00OHCSNSI
+description:
+actualPrice: 9.45 EUR
+comparePrice: 18 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Kappa Opi Basket Short de Baloncesto  Niños  Negro  5Y](https://www.amazon.es/dp/B00OHCSNSI/?tag=redken-21) a 9.45 EUR (original: 18 EUR) (47.50 %  de descuento) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/4143qV-4ggL._SL200_.jpg)](https://www.amazon.es/dp/B00OHCSNSI/?tag=redken-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B00OHCSNSI/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'TRUTH & FABLE 13840 vestido fiesta mujer al 30.00 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315Yv3jUI5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315Yv3jUI5L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B076ZDDCY8
+description:
+actualPrice: 35 EUR
+comparePrice: 50 EUR
+inStock: true
+---
+
+Está [TRUTH & FABLE 13840 vestido fiesta mujer  Negro  Black   44  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B076ZDDCY8/?tag=redken-21) con 30.00 de descuento por 35 EUR (original: 50 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/315Yv3jUI5L._SL200_.jpg)](https://www.amazon.es/dp/B076ZDDCY8/?tag=redken-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B076ZDDCY8/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Mobicool V30  tragbare thermo-elektrisch al 40.61 % de descuento'
-date: 2020-04-02 12:06:04
-thumbnailImage: 'https://m.media-amazon.com/images/I/31JAvIp-cdL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31JAvIp-cdL._SL200_.jpg' ]
+title: 'Mobicool 9103501266 V30 AC/DC Nevera Ter al 26.17 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VpV9FnRDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VpV9FnRDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B019PT5QOQ
 description:
-actualPrice: 58.8 EUR
-comparePrice: 99.0 EUR
+actualPrice: 73.09 EUR
+comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Mobicool V30  tragbare thermo-elektrische Kühlbox  29 Liter  12 V und 230 V für Auto  Lkw  Steckdose](https://www.amazon.de/dp/B019PT5QOQ/?tag=redken02-21) con 40.61 de descuento por 58.8 EUR (original: 99.0 EUR) en el siguiente enlace!
+Está [Mobicool 9103501266 V30 AC/DC Nevera Termoeléctrica Portátil  29 l  12/230 V A++ A+  Azul  29 litros](https://www.amazon.es/dp/B019PT5QOQ/?tag=redken-21) con 26.17 de descuento por 73.09 EUR (original: 99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31JAvIp-cdL._SL200_.jpg)](https://www.amazon.de/dp/B019PT5QOQ/?tag=redken02-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31VpV9FnRDL._SL200_.jpg)](https://www.amazon.es/dp/B019PT5QOQ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B019PT5QOQ/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B019PT5QOQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

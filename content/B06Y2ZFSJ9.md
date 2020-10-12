@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 37.03 % en New Balance 574v2 Core  Men s Trainers  '
-date: 2020-03-04 06:51:53
-thumbnailImage: 'https://m.media-amazon.com/images/I/41dl8oESB+L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41dl8oESB+L._AC_._SL200_.jpg' ]
+title: 'Descuento del 51.11 % en New Balance 574 Core Zapatillas Hombre  '
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LjiR%2BaofL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LjiR%2BaofL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06Y2ZFSJ9
 description:
-actualPrice: 47.23 GBP
-comparePrice: 75.0 GBP
+actualPrice: 44 EUR
+comparePrice: 90 EUR
 inStock: true
 ---
 
-Tienes [New Balance 574v2 Core  Men s Trainers  Grey  Grey   6 UK](https://www.amazon.co.uk/dp/B06Y2ZFSJ9/?tag=redken01-21) con un 37.03 % de descuento con precio de oferta de 47.23 GBP (original: 75.0 GBP) en el siguiente enlace!
+Tienes [New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   39.5 EU  6 UK ](https://www.amazon.es/dp/B06Y2ZFSJ9/?tag=redken-21) con un 51.11 % de descuento con precio de oferta de 44 EUR (original: 90 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41dl8oESB+L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B06Y2ZFSJ9/?tag=redken01-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41LjiR%2BaofL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2ZFSJ9/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B06Y2ZFSJ9/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B06Y2ZFSJ9/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

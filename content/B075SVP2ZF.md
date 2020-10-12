@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'LEGO DC Super Heroes Mighty Micros: Supe al 34.93 % de descuento'
-date: 2020-04-07 13:03:37
-thumbnailImage: 'https://m.media-amazon.com/images/I/51zqidxykeL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51zqidxykeL._SL200_.jpg' ]
+title: 'LEGO Super Heroes - Mighty Micros: Super al 35.04 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zqidxykeL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zqidxykeL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B075SVP2ZF
 description:
-actualPrice: 6.5 EUR
+actualPrice: 6.49 EUR
 comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [LEGO DC Super Heroes Mighty Micros: Supergirl vs. Brainiac 76094 Superheldenspielzeug für Mädchen und Jungen](https://www.amazon.de/dp/B075SVP2ZF/?tag=redken02-21) con 34.93 de descuento por 6.5 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [LEGO Super Heroes - Mighty Micros: Supergirl vs. Brainiac  76094 ](https://www.amazon.es/dp/B075SVP2ZF/?tag=redken-21) con 35.04 de descuento por 6.49 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51zqidxykeL._SL200_.jpg)](https://www.amazon.de/dp/B075SVP2ZF/?tag=redken02-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51zqidxykeL._SL200_.jpg)](https://www.amazon.es/dp/B075SVP2ZF/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B075SVP2ZF/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B075SVP2ZF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

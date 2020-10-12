@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'MONACOR WS-60 Mikrofon-Windschutz für Mi al 27.32 % de descuento'
-date: 2020-02-21 04:46:36
-thumbnailImage: 'https://m.media-amazon.com/images/I/51FlvAVs7WL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51FlvAVs7WL._AC_._SL200_.jpg' ]
+title: 'Monacor WS-60 - Accesorio para micrófono al 32.84 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FlvAVs7WL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FlvAVs7WL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B001PMNF9A
 description:
-actualPrice: 3.99 EUR
-comparePrice: 5.49 EUR
+actualPrice: 5.03 EUR
+comparePrice: 7.49 EUR
 inStock: true
 ---
 
-Está [MONACOR WS-60 Mikrofon-Windschutz für Mikrofone schwarz](https://www.amazon.de/dp/B001PMNF9A/?tag=redken02-21) con 27.32 de descuento por 3.99 EUR (original: 5.49 EUR) en el siguiente enlace!
+Está [Monacor WS-60 - Accesorio para micrófono  DM-2500  Negro  Espuma  6 cm  7 cm ](https://www.amazon.es/dp/B001PMNF9A/?tag=redken-21) con 32.84 de descuento por 5.03 EUR (original: 7.49 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51FlvAVs7WL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B001PMNF9A/?tag=redken02-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51FlvAVs7WL._SL200_.jpg)](https://www.amazon.es/dp/B001PMNF9A/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B001PMNF9A/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001PMNF9A/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

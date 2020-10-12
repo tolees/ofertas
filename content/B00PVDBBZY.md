@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'D-Link 1-Port Gigabit 30 W PoE Injector  al 27.91 % de descuento'
-date: 2020-04-16 09:48:03
-thumbnailImage: 'https://m.media-amazon.com/images/I/31F5cL8YbaL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31F5cL8YbaL._SL200_.jpg' ]
+title: 'Descuento del 35.42 % en D-Link DPE-301GI Fast Ethernet Gigabit E'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F5cL8YbaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F5cL8YbaL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00PVDBBZY
 description:
-actualPrice: 30.99 GBP
-comparePrice: 42.99 GBP
+actualPrice: 36.1 EUR
+comparePrice: 55.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [D-Link 1-Port Gigabit 30 W PoE Injector DPE-301GI](https://www.amazon.co.uk/dp/B00PVDBBZY/?tag=redken01-21) a 30.99 GBP (original: 42.99 GBP) (27.91 %  de descuento) en el siguiente enlace!
+Tienes [D-Link DPE-301GI Fast Ethernet Gigabit Ethernet adaptador e inyector de PoE - Adaptador/inyector de PoE  Ethernet rápido  Gigabit Ethernet  10 100 1000 Mbit/s  Blanco  IEEE 802.3 IEEE 802.3ab IEEE 802.3af IEEE 802.3at IEEE 802.3u  CE  FCC  VCCI  RCM  32 4 W ](https://www.amazon.es/dp/B00PVDBBZY/?tag=redken-21) con un 35.42 % de descuento con precio de oferta de 36.1 EUR (original: 55.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31F5cL8YbaL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00PVDBBZY/?tag=redken01-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31F5cL8YbaL._SL200_.jpg)](https://www.amazon.es/dp/B00PVDBBZY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00PVDBBZY/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B00PVDBBZY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

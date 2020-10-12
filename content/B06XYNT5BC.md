@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Descuento del 25.02 % en Trust Classicline Kabel Tastatur und Mau'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g%2Bha-7JhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g%2Bha-7JhL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B06XYNT5BC
+description:
+actualPrice: 11.99 EUR
+comparePrice: 15.99 EUR
+inStock: true
+---
+
+Tienes [Trust Classicline Kabel Tastatur und Maus Set  QWERTZ  deutsches Tastaturlayout  schwarz](https://www.amazon.de/dp/B06XYNT5BC/?tag=redken02-21) con un 25.02 % de descuento con precio de oferta de 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/31g%2Bha-7JhL._SL200_.jpg)](https://www.amazon.de/dp/B06XYNT5BC/?tag=redken02-21)
+
+[Accede a la oferta!!](https://www.amazon.de/dp/B06XYNT5BC/?tag=redken02-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

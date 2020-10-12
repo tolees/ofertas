@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Auna TBA-928 • Tocadiscos con Altavoz •  al 51.26 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bj-cIJLkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bj-cIJLkL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00IGDBW3C
+description:
+actualPrice: 38.99 EUR
+comparePrice: 79.99 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Auna TBA-928 • Tocadiscos con Altavoz • Reproductor de vinilos • accionamiento por Correa • 2 velocidades • 33/45 RPM • Incluye Aguja • Start/Stop automático • Salida de Auriculares • Negro-Plata](https://www.amazon.es/dp/B00IGDBW3C/?tag=redken-21) a 38.99 EUR (original: 79.99 EUR) (51.26 %  de descuento) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41Bj-cIJLkL._SL200_.jpg)](https://www.amazon.es/dp/B00IGDBW3C/?tag=redken-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B00IGDBW3C/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 25.01 % en Makita RP0900J router eléctrico - Power '
-date: 2020-03-21 21:05:50
-thumbnailImage: 'https://m.media-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg' ]
+title: 'Makita RP0900J Oberfräse 900 W  Blau  Si al 51.54 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00EOLN1RU
 description:
-actualPrice: 109.92 EUR
-comparePrice: 146.58 EUR
+actualPrice: 143.6 EUR
+comparePrice: 296.31 EUR
 inStock: true
 ---
 
-Tienes [Makita RP0900J router eléctrico - Power routers](https://www.amazon.es/dp/B00EOLN1RU/?tag=redken-21) con un 25.01 % de descuento con precio de oferta de 109.92 EUR (original: 146.58 EUR) en el siguiente enlace!
+Ahora mismo tienes [Makita RP0900J Oberfräse 900 W  Blau  Silber  8 x 210 mm](https://www.amazon.de/dp/B00EOLN1RU/?tag=redken02-21) a 143.6 EUR (original: 296.31 EUR) (51.54 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg)](https://www.amazon.es/dp/B00EOLN1RU/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg)](https://www.amazon.de/dp/B00EOLN1RU/?tag=redken02-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00EOLN1RU/?tag=redken-21)
+[Visítala!!!](https://www.amazon.de/dp/B00EOLN1RU/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

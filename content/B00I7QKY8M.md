@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Levi s 527 Slim Boot Cut  Vaqueros Corte al 28.72 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JNDdAtlDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JNDdAtlDL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00I7QKY8M
+description:
+actualPrice: 71.28 EUR
+comparePrice: 100 EUR
+inStock: true
+---
+
+Está [Levi s 527 Slim Boot Cut  Vaqueros Corte de Bota para Hombre  Azul  Explorer 0476   31W/34L](https://www.amazon.es/dp/B00I7QKY8M/?tag=redken-21) con 28.72 de descuento por 71.28 EUR (original: 100 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41JNDdAtlDL._SL200_.jpg)](https://www.amazon.es/dp/B00I7QKY8M/?tag=redken-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00I7QKY8M/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

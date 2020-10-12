@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Dometic DEFA A430061 Termini 2100 Innenr al 40.57 % de descuento'
-date: 2020-04-18 08:05:32
-thumbnailImage: 'https://m.media-amazon.com/images/I/31THAvRgB-L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31THAvRgB-L._SL200_.jpg' ]
+title: 'DEFA Termini 2100 - Calefactor auxiliar  al 36.45 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31THAvRgB-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31THAvRgB-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00AGH77CG
 description:
-actualPrice: 94.5 EUR
-comparePrice: 159.0 EUR
+actualPrice: 101.04 EUR
+comparePrice: 159 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dometic DEFA A430061 Termini 2100 Innenraumheizung  2100 Watt](https://www.amazon.de/dp/B00AGH77CG/?tag=redken02-21) a 94.5 EUR (original: 159.0 EUR) (40.57 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [DEFA Termini 2100 - Calefactor auxiliar  2100 W de potencia  funcionamiento a 230 V](https://www.amazon.es/dp/B00AGH77CG/?tag=redken-21) a 101.04 EUR (original: 159 EUR) (36.45 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31THAvRgB-L._SL200_.jpg)](https://www.amazon.de/dp/B00AGH77CG/?tag=redken02-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31THAvRgB-L._SL200_.jpg)](https://www.amazon.es/dp/B00AGH77CG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B00AGH77CG/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.es/dp/B00AGH77CG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

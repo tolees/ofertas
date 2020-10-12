@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'KEXIN Memoria USB 128GB 3.0 Tipo C Pendr al 36.67 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4124Whp7-pL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4124Whp7-pL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07PYFYWFF
+description:
+actualPrice: 37.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
+---
+
+Ahora mismo tienes [KEXIN Memoria USB 128GB 3.0 Tipo C Pendrive USB Metal Impermeable a prueba de golpes Llave Pendrive USB 2 en 1 Memory Stick U Disco OTG Flash para Samsung/HUAWEI/ Macbook Pro PC  Negro ](https://www.amazon.es/dp/B07PYFYWFF/?tag=redken-21) a 37.99 EUR (original: 59.99 EUR) (36.67 %  de descuento) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/4124Whp7-pL._SL200_.jpg)](https://www.amazon.es/dp/B07PYFYWFF/?tag=redken-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07PYFYWFF/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

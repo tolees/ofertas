@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'YI 4k Cámara de acción Full HD 12MP WiFi al 31.17 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319WuUK85qL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319WuUK85qL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07NPGQ5BY
+description:
+actualPrice: 99.99 EUR
+comparePrice: 145.28 EUR
+inStock: true
+---
+
+Ahora mismo tienes [YI 4k Cámara de acción Full HD 12MP WiFi 155 ° Gran ángulo 1400mAh 120 Minutos 4K / 30 Video de Registro Rétine Pantalla Ecran táctil 2.19 - Rosca Individual [Edición Limitada Color Oro-Rosa]](https://www.amazon.es/dp/B07NPGQ5BY/?tag=redken-21) a 99.99 EUR (original: 145.28 EUR) (31.17 %  de descuento) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/319WuUK85qL._SL200_.jpg)](https://www.amazon.es/dp/B07NPGQ5BY/?tag=redken-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07NPGQ5BY/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

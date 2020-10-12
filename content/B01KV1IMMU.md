@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'ratón gaming HAVIT RGB 10000 DPI y 14 bo al 27.60 % de descuento'
-date: 2020-02-24 01:03:44
-thumbnailImage: 'https://m.media-amazon.com/images/I/41DRG4hfs+L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41DRG4hfs+L._AC_._SL200_.jpg' ]
+title: 'Descuento del 37.15 % en havit Pro RGB Wired Gaming Mouse【12000DP'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DRG4hfs%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DRG4hfs%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01KV1IMMU
 description:
-actualPrice: 20.99 EUR
-comparePrice: 28.99 EUR
+actualPrice: 21.99 GBP
+comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [ratón gaming HAVIT RGB 10000 DPI y 14 botones programables]  panel lateral reemplazable  8 botones / 8 + 6 botones laterales del ratón   diseño ergonómico del panel derecho reemplazable  negro  MS760](https://www.amazon.es/dp/B01KV1IMMU/?tag=redken-21) a 20.99 EUR (original: 28.99 EUR) (27.60 %  de descuento) en el siguiente enlace!
+Tienes [havit Pro RGB Wired Gaming Mouse【12000DPI & 14 Programmable Buttons】  Interchangeable Side Plates  8 Buttons/ 8+6 Side Buttons Mouse   2 Replaceable Right Plates for Ergonomic Comfort  Black  MS760 ](https://www.amazon.co.uk/dp/B01KV1IMMU/?tag=redken01-21) con un 37.15 % de descuento con precio de oferta de 21.99 GBP (original: 34.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41DRG4hfs+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01KV1IMMU/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41DRG4hfs%2BL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01KV1IMMU/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01KV1IMMU/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B01KV1IMMU/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

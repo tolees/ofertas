@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Nike Damen WMNS Md Runner 2 Hallenschuhe al 39.15 % de descuento'
-date: 2020-10-02 21:08:27
-thumbnailImage: 'https://m.media-amazon.com/images/I/417erVMQQ8L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/417erVMQQ8L._SL200_.jpg' ]
+title: 'Nike MD Runner 2  Zapatillas de Running  al 41.68 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWXGzLmTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWXGzLmTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00PZ8ZEGW
 description:
-actualPrice: 40.16 EUR
-comparePrice: 66.0 EUR
+actualPrice: 38.49 EUR
+comparePrice: 66 EUR
 inStock: true
 ---
 
-Está [Nike Damen WMNS Md Runner 2 Hallenschuhe  Schwarz  Schwarz/Weiß   37.5 EU](https://www.amazon.de/dp/B00PZ8ZEGW/?tag=redken02-21) con 39.15 de descuento por 40.16 EUR (original: 66.0 EUR) en el siguiente enlace!
+Está [Nike MD Runner 2  Zapatillas de Running Mujer  Negro  Black / Black-White   37.5 EU](https://www.amazon.es/dp/B00PZ8ZEGW/?tag=redken-21) con 41.68 de descuento por 38.49 EUR (original: 66 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/417erVMQQ8L._SL200_.jpg)](https://www.amazon.de/dp/B00PZ8ZEGW/?tag=redken02-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41%2BWXGzLmTL._SL200_.jpg)](https://www.amazon.es/dp/B00PZ8ZEGW/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00PZ8ZEGW/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00PZ8ZEGW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

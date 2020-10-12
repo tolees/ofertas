@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'YDI Cámara Deportiva 4K WiFi Ultra HD Cá al 61.54 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519Cdh8jNnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519Cdh8jNnL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B01IRF5V7G
+description:
+actualPrice: 49.99 EUR
+comparePrice: 129.99 EUR
+inStock: true
+---
+
+Ahora mismo tienes [YDI Cámara Deportiva 4K WiFi Ultra HD Cámara de Acción Acuatica Videocámara Impermeable con Pantalla LCD 2.0  Gran Angular 170°  Control Remoto  Cargador de Batería  2 * 1050 mAh Baterías - Blanco](https://www.amazon.es/dp/B01IRF5V7G/?tag=redken-21) a 49.99 EUR (original: 129.99 EUR) (61.54 %  de descuento) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/519Cdh8jNnL._SL200_.jpg)](https://www.amazon.es/dp/B01IRF5V7G/?tag=redken-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B01IRF5V7G/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

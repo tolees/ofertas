@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 36.31 % en adidas Duramo Slide  Unisex Open Toe San'
-date: 2020-02-26 02:19:23
-thumbnailImage: 'https://m.media-amazon.com/images/I/314oTnfyLIL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/314oTnfyLIL._AC_._SL200_.jpg' ]
+title: 'adidas Duramo Slide  Chanclas Unisex Adu al 50.03 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QRqg99SSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QRqg99SSL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B003UQWPJ0
 description:
-actualPrice: 8.0 GBP
-comparePrice: 12.56 GBP
+actualPrice: 9.97 EUR
+comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Tienes [adidas Duramo Slide  Unisex Open Toe Sandals  Black  Black/White/Black   12 UK  47 EU ](https://www.amazon.co.uk/dp/B003UQWPJ0/?tag=redken01-21) con un 36.31 % de descuento con precio de oferta de 8.0 GBP (original: 12.56 GBP) en el siguiente enlace!
+Está [adidas Duramo Slide  Chanclas Unisex Adulto  Negro  Black/White/Black   47 EU](https://www.amazon.es/dp/B003UQWPJ0/?tag=redken-21) con 50.03 de descuento por 9.97 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/314oTnfyLIL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B003UQWPJ0/?tag=redken01-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31QRqg99SSL._SL200_.jpg)](https://www.amazon.es/dp/B003UQWPJ0/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B003UQWPJ0/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B003UQWPJ0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

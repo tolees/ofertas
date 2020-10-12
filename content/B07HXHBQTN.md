@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Samsung Galaxy J4+ - Smartphone de 6"  Q al 32.33 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417FBrs6MNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417FBrs6MNL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07HXHBQTN
+description:
+actualPrice: 127.9 EUR
+comparePrice: 189 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Samsung Galaxy J4+ - Smartphone de 6"  Quad Core 1.4 GHz  RAM de 2 GB  Memoria de 32 GB  cámara de 13 MP  Android  Color Rosa](https://www.amazon.es/dp/B07HXHBQTN/?tag=redken-21) a 127.9 EUR (original: 189 EUR) (32.33 %  de descuento) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/417FBrs6MNL._SL200_.jpg)](https://www.amazon.es/dp/B07HXHBQTN/?tag=redken-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07HXHBQTN/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

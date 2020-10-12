@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Polaroid PLD 1011/S L H8 3YG 62  Gafas d al 26.06 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3162awuinbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3162awuinbL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00T7IR6EY
+description:
+actualPrice: 27.07 EUR
+comparePrice: 36.61 EUR
+inStock: true
+---
+
+Está [Polaroid PLD 1011/S L H8 3YG 62  Gafas de sol para Hombre  Dorado  Light Gold/Green Pz  ](https://www.amazon.es/dp/B00T7IR6EY/?tag=redken-21) con 26.06 de descuento por 27.07 EUR (original: 36.61 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/3162awuinbL._SL200_.jpg)](https://www.amazon.es/dp/B00T7IR6EY/?tag=redken-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00T7IR6EY/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
