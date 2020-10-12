@@ -14,11 +14,11 @@ comparePrice: 13.16 GBP
 inStock: true
 ---
 
-Está [InFamous Second Son  PS4  - PlayStation Hits  PS4 ](https://www.amazon.co.uk/dp/B07DQN7WFZ/?tag=redken01-21) con 31.69 de descuento por 8.99 GBP (original: 13.16 GBP) en el siguiente enlace!
+Ahora mismo tienes [InFamous Second Son  PS4  - PlayStation Hits  PS4 ](https://www.amazon.co.uk/dp/B07DQN7WFZ/?tag=redken01-21) a 8.99 GBP (original: 13.16 GBP) (31.69 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ahM4WEaYL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DQN7WFZ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DQN7WFZ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DQN7WFZ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

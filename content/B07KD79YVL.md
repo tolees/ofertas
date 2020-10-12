@@ -14,11 +14,11 @@ comparePrice: 79.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Echo Show 5 – Stay in touch with the help of Alexa  White](https://www.amazon.co.uk/dp/B07KD79YVL/?tag=redken01-21) a 44.99 GBP (original: 79.99 GBP) (43.76 %  de descuento) en el siguiente enlace!
+Está [Echo Show 5 – Stay in touch with the help of Alexa  White](https://www.amazon.co.uk/dp/B07KD79YVL/?tag=redken01-21) con 43.76 de descuento por 44.99 GBP (original: 79.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31tRNlUYBXL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KD79YVL/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07KD79YVL/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KD79YVL/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

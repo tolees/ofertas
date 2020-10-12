@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.65 % en E-Vitta EVBP001007 - Mochila para Ordena'
-date: 2020-10-02 19:30:32
+date: 2020-10-12 14:30:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/61-e5MV86-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61-e5MV86-L._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 19.33 EUR
 inStock: true
 ---
 
-Está [Lego 90029 LED Lampe Star Wars  Darth Vader  20 cm](https://www.amazon.de/dp/B01FK49JPM/?tag=redken02-21) con 27.63 de descuento por 13.99 EUR (original: 19.33 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego 90029 LED Lampe Star Wars  Darth Vader  20 cm](https://www.amazon.de/dp/B01FK49JPM/?tag=redken02-21) a 13.99 EUR (original: 19.33 EUR) (27.63 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51yKjXdPjML._SL200_.jpg)](https://www.amazon.de/dp/B01FK49JPM/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01FK49JPM/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B01FK49JPM/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

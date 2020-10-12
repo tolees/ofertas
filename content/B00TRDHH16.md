@@ -14,11 +14,11 @@ comparePrice: 8.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko - Estatuilla de Disney Cars - Doc Hudson Pop 10cm - 0849803042394](https://www.amazon.es/dp/B00TRDHH16/?tag=redken-21) a 5.99 EUR (original: 8.5 EUR) (29.53 %  de descuento) en el siguiente enlace!
+Está [Funko - Estatuilla de Disney Cars - Doc Hudson Pop 10cm - 0849803042394](https://www.amazon.es/dp/B00TRDHH16/?tag=redken-21) con 29.53 de descuento por 5.99 EUR (original: 8.5 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41HqAYeR5CL._SL200_.jpg)](https://www.amazon.es/dp/B00TRDHH16/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00TRDHH16/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00TRDHH16/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
