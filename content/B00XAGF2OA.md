@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pasta de Dientes Oral-B Pro-Expert Sensi al 26.07 % de descuento'
-date: 2020-10-11 16:54:07
+date: 2020-10-12 17:12:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/412YDYttFSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412YDYttFSL._SL200_.jpg' ]
 comments: true

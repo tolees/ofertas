@@ -14,11 +14,11 @@ comparePrice: 38.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pop! Rides: Game of Thrones S10: White Walker on Horse](https://www.amazon.es/dp/B07KPHL1YZ/?tag=redken-21) a 16.97 EUR (original: 38.95 EUR) (56.43 %  de descuento) en el siguiente enlace!
+Está [Pop! Rides: Game of Thrones S10: White Walker on Horse](https://www.amazon.es/dp/B07KPHL1YZ/?tag=redken-21) con 56.43 de descuento por 16.97 EUR (original: 38.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/413Tmn-verL._SL200_.jpg)](https://www.amazon.es/dp/B07KPHL1YZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KPHL1YZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KPHL1YZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

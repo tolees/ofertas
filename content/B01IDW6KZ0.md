@@ -14,11 +14,11 @@ comparePrice: 11.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Disney Cars DXV34 Cars 3 Jackson Storm Vehicle diecast model ](https://www.amazon.co.uk/dp/B01IDW6KZ0/?tag=redken01-21) a 3.99 GBP (original: 11.99 GBP) (66.72 %  de descuento) en el siguiente enlace!
+Está [Disney Cars DXV34 Cars 3 Jackson Storm Vehicle diecast model ](https://www.amazon.co.uk/dp/B01IDW6KZ0/?tag=redken01-21) con 66.72 de descuento por 3.99 GBP (original: 11.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51XAN+sNOiL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01IDW6KZ0/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01IDW6KZ0/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01IDW6KZ0/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

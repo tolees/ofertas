@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Make-up designer24H Fresh  al 47.16 % de descuento'
-date: 2020-10-11 16:59:32
+date: 2020-10-12 17:39:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pPJG8Z3AL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pPJG8Z3AL._SL200_.jpg' ]
 comments: true

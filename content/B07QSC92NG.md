@@ -14,11 +14,11 @@ comparePrice: 199.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Focusrite Scarlett 4i4 3rd Gen USB Audio Interface](https://www.amazon.co.uk/dp/B07QSC92NG/?tag=redken01-21) a 149.0 GBP (original: 199.99 GBP) (25.50 %  de descuento) en el siguiente enlace!
+Está [Focusrite Scarlett 4i4 3rd Gen USB Audio Interface](https://www.amazon.co.uk/dp/B07QSC92NG/?tag=redken01-21) con 25.50 de descuento por 149.0 GBP (original: 199.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31UhsTM+ZeL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07QSC92NG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07QSC92NG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07QSC92NG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
