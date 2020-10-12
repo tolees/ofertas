@@ -14,11 +14,11 @@ comparePrice: 259.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DXX Technik Bausteine Auto G500 AWD Wagon Racing Auto  1662Teile 1:10 2.4G Geländewagen Bausteine Konstruktionsspielzeug](https://www.amazon.de/dp/B083XNNZVG/?tag=redken02-21) a 129.99 EUR (original: 259.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [DXX Technik Bausteine Auto G500 AWD Wagon Racing Auto  1662Teile 1:10 2.4G Geländewagen Bausteine Konstruktionsspielzeug](https://www.amazon.de/dp/B083XNNZVG/?tag=redken02-21) con 50.00 de descuento por 129.99 EUR (original: 259.98 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51LzJcYRxHL._SL200_.jpg)](https://www.amazon.de/dp/B083XNNZVG/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B083XNNZVG/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B083XNNZVG/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 699 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full HD  Intel Core i3-8145u  RAM de 8 GB DDR4  SSD de 256 GB  Intel Graphics  Windows 10 Home  Plata](https://www.amazon.es/dp/B07NGSLC7T/?tag=redken-21) a 520.58 EUR (original: 699 EUR) (25.53 %  de descuento) en el siguiente enlace!
+Está [MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full HD  Intel Core i3-8145u  RAM de 8 GB DDR4  SSD de 256 GB  Intel Graphics  Windows 10 Home  Plata](https://www.amazon.es/dp/B07NGSLC7T/?tag=redken-21) con 25.53 de descuento por 520.58 EUR (original: 699 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kMK-UIM0L._SL200_.jpg)](https://www.amazon.es/dp/B07NGSLC7T/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NGSLC7T/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NGSLC7T/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

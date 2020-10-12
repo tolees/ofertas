@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.74 % en Pentel Graphgear 1000 Porte-Mine 0 7 mm '
-date: 2020-10-11 18:13:13
+date: 2020-10-12 18:34:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/311UNaDvfTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311UNaDvfTL._SL200_.jpg' ]
 comments: true

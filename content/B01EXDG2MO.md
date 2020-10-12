@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'TP-Link Switch Ethernet  TL-SG108  Gigab al 35.68 % de descuento'
-date: 2020-10-11 18:27:51
+title: 'TP-Link Switch Ethernet  TL-SG108  Gigab al 34.13 % de descuento'
+date: 2020-10-12 18:54:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01EXDG2MO
 description:
-actualPrice: 21.16 EUR
+actualPrice: 21.67 EUR
 comparePrice: 32.9 EUR
 inStock: true
 ---
 
-Está [TP-Link Switch Ethernet  TL-SG108  Gigabit 8 RJ45 ports metallique 10/100/1000 Mbps  idéal pour étendre le réseau câblé pour les PME et les bureaux à domicile](https://www.amazon.fr/dp/B01EXDG2MO/?tag=redken012-21) con 35.68 de descuento por 21.16 EUR (original: 32.9 EUR) en el siguiente enlace!
+Está [TP-Link Switch Ethernet  TL-SG108  Gigabit 8 RJ45 ports metallique 10/100/1000 Mbps  idéal pour étendre le réseau câblé pour les PME et les bureaux à domicile](https://www.amazon.fr/dp/B01EXDG2MO/?tag=redken012-21) con 34.13 de descuento por 21.67 EUR (original: 32.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg)](https://www.amazon.fr/dp/B01EXDG2MO/?tag=redken012-21)
 
