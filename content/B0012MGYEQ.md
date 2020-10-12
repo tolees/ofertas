@@ -14,11 +14,11 @@ comparePrice: 52.32 EUR
 inStock: true
 ---
 
-Está [Einhell - Juego de hojas de sierra circular  210 x 30 x 2 5 mm  24  48 y 60 dientes ](https://www.amazon.es/dp/B0012MGYEQ/?tag=redken-21) con 29.99 de descuento por 36.63 EUR (original: 52.32 EUR) en el siguiente enlace!
+Ahora mismo tienes [Einhell - Juego de hojas de sierra circular  210 x 30 x 2 5 mm  24  48 y 60 dientes ](https://www.amazon.es/dp/B0012MGYEQ/?tag=redken-21) a 36.63 EUR (original: 52.32 EUR) (29.99 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LDu3ad15L._SL200_.jpg)](https://www.amazon.es/dp/B0012MGYEQ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0012MGYEQ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B0012MGYEQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

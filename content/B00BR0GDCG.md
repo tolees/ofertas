@@ -14,11 +14,11 @@ comparePrice: 5.99 GBP
 inStock: true
 ---
 
-Está [Wax Lyrical 50 ml Reed Diffuser  Mediterranean Orange](https://www.amazon.co.uk/dp/B00BR0GDCG/?tag=redken01-21) con 54.09 de descuento por 2.75 GBP (original: 5.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Wax Lyrical 50 ml Reed Diffuser  Mediterranean Orange](https://www.amazon.co.uk/dp/B00BR0GDCG/?tag=redken01-21) a 2.75 GBP (original: 5.99 GBP) (54.09 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41lyB65j2cL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B00BR0GDCG/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00BR0GDCG/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00BR0GDCG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
