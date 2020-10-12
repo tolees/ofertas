@@ -14,11 +14,11 @@ comparePrice: 799.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Olympus M.Zuiko - Objetivo Digital ED 12 mm F2.0  longitud focal fija rápida  apto para todas las cámaras MFT  modelos Olympus OM-D & Pen  Serie G de Panasonic   negro](https://www.amazon.es/dp/B00N0E1KDE/?tag=redken-21) a 447.75 EUR (original: 799.0 EUR) (43.96 %  de descuento) en el siguiente enlace!
+Está [Olympus M.Zuiko - Objetivo Digital ED 12 mm F2.0  longitud focal fija rápida  apto para todas las cámaras MFT  modelos Olympus OM-D & Pen  Serie G de Panasonic   negro](https://www.amazon.es/dp/B00N0E1KDE/?tag=redken-21) con 43.96 de descuento por 447.75 EUR (original: 799.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41gaD+dMkCL._SL200_.jpg)](https://www.amazon.es/dp/B00N0E1KDE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00N0E1KDE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00N0E1KDE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

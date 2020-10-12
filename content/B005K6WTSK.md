@@ -14,11 +14,11 @@ comparePrice: 329.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Panasonic H-PS14042E-K Lumix G X VARIO 14-42mm F3.5-5.6 ASPH Lightweight Standard Zoom Lens](https://www.amazon.co.uk/dp/B005K6WTSK/?tag=redken01-21) a 198.97 GBP (original: 329.99 GBP) (39.70 %  de descuento) en el siguiente enlace!
+Está [Panasonic H-PS14042E-K Lumix G X VARIO 14-42mm F3.5-5.6 ASPH Lightweight Standard Zoom Lens](https://www.amazon.co.uk/dp/B005K6WTSK/?tag=redken01-21) con 39.70 de descuento por 198.97 GBP (original: 329.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31sTDwQwqZL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B005K6WTSK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B005K6WTSK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B005K6WTSK/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

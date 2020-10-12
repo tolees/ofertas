@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42115 Technic Lamborghini Sián FKP  al 25.72 % de descuento'
-date: 2020-10-11 05:55:16
+date: 2020-10-12 06:03:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bOdmP8B6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bOdmP8B6L._SL200_.jpg' ]
 comments: true

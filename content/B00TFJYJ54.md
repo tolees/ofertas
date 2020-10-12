@@ -14,11 +14,11 @@ comparePrice: 164.4 GBP
 inStock: true
 ---
 
-Está [AMP-310-EUR AC TRMS Clamp  600 A  HVAC with Motor Testing  jaw 30 mm](https://www.amazon.co.uk/dp/B00TFJYJ54/?tag=redken01-21) con 33.87 de descuento por 108.72 GBP (original: 164.4 GBP) en el siguiente enlace!
+Ahora mismo tienes [AMP-310-EUR AC TRMS Clamp  600 A  HVAC with Motor Testing  jaw 30 mm](https://www.amazon.co.uk/dp/B00TFJYJ54/?tag=redken01-21) a 108.72 GBP (original: 164.4 GBP) (33.87 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41R9rtDkPtL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00TFJYJ54/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00TFJYJ54/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00TFJYJ54/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

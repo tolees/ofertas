@@ -14,11 +14,11 @@ comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Morphy Richards Slow Cooker Sear and Stew 460012 3.5L Black Slowcooker](https://www.amazon.co.uk/dp/B07B6MZW9F/?tag=redken01-21) a 25.0 GBP (original: 34.99 GBP) (28.55 %  de descuento) en el siguiente enlace!
+Está [Morphy Richards Slow Cooker Sear and Stew 460012 3.5L Black Slowcooker](https://www.amazon.co.uk/dp/B07B6MZW9F/?tag=redken01-21) con 28.55 de descuento por 25.0 GBP (original: 34.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41pBCwfgynL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07B6MZW9F/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07B6MZW9F/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07B6MZW9F/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

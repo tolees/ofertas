@@ -14,11 +14,11 @@ comparePrice: 7.6 GBP
 inStock: true
 ---
 
-Está [BIC 4 Colours Original Ballpoint Pens Medium Point  1.0 mm  - Pack of 2+1](https://www.amazon.co.uk/dp/B007CX2HKE/?tag=redken01-21) con 57.37 de descuento por 3.24 GBP (original: 7.6 GBP) en el siguiente enlace!
+Ahora mismo tienes [BIC 4 Colours Original Ballpoint Pens Medium Point  1.0 mm  - Pack of 2+1](https://www.amazon.co.uk/dp/B007CX2HKE/?tag=redken01-21) a 3.24 GBP (original: 7.6 GBP) (57.37 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/412YEMDYDrL._SL200_.jpg)](https://www.amazon.co.uk/dp/B007CX2HKE/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B007CX2HKE/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B007CX2HKE/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

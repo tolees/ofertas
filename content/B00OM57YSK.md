@@ -14,11 +14,11 @@ comparePrice: 33.58 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Heineken Cerveza Barril - Paquete de 2 x 5L](https://www.amazon.es/dp/B00OM57YSK/?tag=redken-21) a 21.98 EUR (original: 33.58 EUR) (34.54 %  de descuento) en el siguiente enlace!
+Está [Heineken Cerveza Barril - Paquete de 2 x 5L](https://www.amazon.es/dp/B00OM57YSK/?tag=redken-21) con 34.54 de descuento por 21.98 EUR (original: 33.58 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51qU+ujDsGL._SL200_.jpg)](https://www.amazon.es/dp/B00OM57YSK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00OM57YSK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00OM57YSK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

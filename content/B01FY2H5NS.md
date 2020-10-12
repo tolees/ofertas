@@ -14,11 +14,11 @@ comparePrice: 82.11 EUR
 inStock: true
 ---
 
-Está [Green2Print Tóner Magenta 4000 páginas sustituye a Lexmark 80C0X30  800X3  80C2XM0  802XM  80C2XME  802XME Tóner Apto para la Lexmark CX510DE  CX510DHE  CX510DTHE](https://www.amazon.es/dp/B01FY2H5NS/?tag=redken-21) con 25.17 de descuento por 61.44 EUR (original: 82.11 EUR) en el siguiente enlace!
+Ahora mismo tienes [Green2Print Tóner Magenta 4000 páginas sustituye a Lexmark 80C0X30  800X3  80C2XM0  802XM  80C2XME  802XME Tóner Apto para la Lexmark CX510DE  CX510DHE  CX510DTHE](https://www.amazon.es/dp/B01FY2H5NS/?tag=redken-21) a 61.44 EUR (original: 82.11 EUR) (25.17 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/311NxClMteL._SL200_.jpg)](https://www.amazon.es/dp/B01FY2H5NS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01FY2H5NS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01FY2H5NS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
