@@ -14,11 +14,11 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Chicco - Esterilizador microondas de hasta 5 biberones en 3 minutos](https://www.amazon.es/dp/B00SN4GKI6/?tag=redken-21) a 16.76 EUR (original: 24.95 EUR) (32.83 %  de descuento) en el siguiente enlace!
+Está [Chicco - Esterilizador microondas de hasta 5 biberones en 3 minutos](https://www.amazon.es/dp/B00SN4GKI6/?tag=redken-21) con 32.83 de descuento por 16.76 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31eIm9lppFL._SL200_.jpg)](https://www.amazon.es/dp/B00SN4GKI6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00SN4GKI6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00SN4GKI6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

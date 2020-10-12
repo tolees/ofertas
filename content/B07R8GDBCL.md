@@ -14,11 +14,11 @@ comparePrice: 68.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [CARE OF by PUMA Zapatillas bajas en cuero y con plataforma para mujer  Negro Black  40 EU](https://www.amazon.es/dp/B07R8GDBCL/?tag=redken-21) a 48.3 EUR (original: 68.99 EUR) (29.99 %  de descuento) en el siguiente enlace!
+Está [CARE OF by PUMA Zapatillas bajas en cuero y con plataforma para mujer  Negro Black  40 EU](https://www.amazon.es/dp/B07R8GDBCL/?tag=redken-21) con 29.99 de descuento por 48.3 EUR (original: 68.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ek%2BSsIIkL._SL200_.jpg)](https://www.amazon.es/dp/B07R8GDBCL/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07R8GDBCL/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07R8GDBCL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

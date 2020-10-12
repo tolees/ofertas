@@ -14,11 +14,11 @@ comparePrice: 122.25 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Western Digital WDS500G2B0B WD Blue 3D NAND Internal SSD M.2 SATA  500 GB - Black](https://www.amazon.co.uk/dp/B073SBX6TY/?tag=redken01-21) a 54.48 GBP (original: 122.25 GBP) (55.44 %  de descuento) en el siguiente enlace!
+Está [Western Digital WDS500G2B0B WD Blue 3D NAND Internal SSD M.2 SATA  500 GB - Black](https://www.amazon.co.uk/dp/B073SBX6TY/?tag=redken01-21) con 55.44 de descuento por 54.48 GBP (original: 122.25 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31rjnHD-cEL._SL200_.jpg)](https://www.amazon.co.uk/dp/B073SBX6TY/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B073SBX6TY/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B073SBX6TY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

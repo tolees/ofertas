@@ -14,11 +14,11 @@ comparePrice: 5.87 GBP
 inStock: true
 ---
 
-Está [NIVEA Oil In Lotion Cherry Blossom & Jojoba Oil 400ml  Replenishing Body Lotion with Cherry Blossom & Jojoba Oil  Intensive Moisturising Cream](https://www.amazon.co.uk/dp/B071XFFTF6/?tag=redken01-21) con 40.37 de descuento por 3.5 GBP (original: 5.87 GBP) en el siguiente enlace!
+Ahora mismo tienes [NIVEA Oil In Lotion Cherry Blossom & Jojoba Oil 400ml  Replenishing Body Lotion with Cherry Blossom & Jojoba Oil  Intensive Moisturising Cream](https://www.amazon.co.uk/dp/B071XFFTF6/?tag=redken01-21) a 3.5 GBP (original: 5.87 GBP) (40.37 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/310wVZa-GIL._SL200_.jpg)](https://www.amazon.co.uk/dp/B071XFFTF6/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B071XFFTF6/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B071XFFTF6/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 30.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nobleza - Rascador para Gatos de cartón. Soporte de Descanso con Forma de Gato con Catnip.](https://www.amazon.es/dp/B06XC8ZKJ8/?tag=redken-21) a 18.99 EUR (original: 30.99 EUR) (38.72 %  de descuento) en el siguiente enlace!
+Está [Nobleza - Rascador para Gatos de cartón. Soporte de Descanso con Forma de Gato con Catnip.](https://www.amazon.es/dp/B06XC8ZKJ8/?tag=redken-21) con 38.72 de descuento por 18.99 EUR (original: 30.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51vNbRVqltL._SL200_.jpg)](https://www.amazon.es/dp/B06XC8ZKJ8/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XC8ZKJ8/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XC8ZKJ8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
