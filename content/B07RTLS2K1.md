@@ -14,11 +14,11 @@ comparePrice: 34.95 EUR
 inStock: true
 ---
 
-Está [Funko Pop! Moment: Game of Thrones - Daenerys & Jorah B2B w/Swords](https://www.amazon.es/dp/B07RTLS2K1/?tag=redken-21) con 47.12 de descuento por 18.48 EUR (original: 34.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop! Moment: Game of Thrones - Daenerys & Jorah B2B w/Swords](https://www.amazon.es/dp/B07RTLS2K1/?tag=redken-21) a 18.48 EUR (original: 34.95 EUR) (47.12 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/419tuPd7PNL._SL200_.jpg)](https://www.amazon.es/dp/B07RTLS2K1/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07RTLS2K1/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07RTLS2K1/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

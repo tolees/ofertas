@@ -14,11 +14,11 @@ comparePrice: 22.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Revlon Colorstay Foundation for Normal/Dry Skin with Hyaluronic Acid  SPF 15  Buff  Packaging May Vary ](https://www.amazon.co.uk/dp/B01DM0Y2DU/?tag=redken01-21) a 2.6 GBP (original: 22.0 GBP) (88.18 %  de descuento) en el siguiente enlace!
+Está [Revlon Colorstay Foundation for Normal/Dry Skin with Hyaluronic Acid  SPF 15  Buff  Packaging May Vary ](https://www.amazon.co.uk/dp/B01DM0Y2DU/?tag=redken01-21) con 88.18 de descuento por 2.6 GBP (original: 22.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4106nIY0pQL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01DM0Y2DU/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01DM0Y2DU/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01DM0Y2DU/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

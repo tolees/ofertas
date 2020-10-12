@@ -14,11 +14,11 @@ comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Scholl Velvet Electronic Nail Care System  Blue](https://www.amazon.co.uk/dp/B00Z9RTTX8/?tag=redken01-21) a 6.19 GBP (original: 39.99 GBP) (84.52 %  de descuento) en el siguiente enlace!
+Está [Scholl Velvet Electronic Nail Care System  Blue](https://www.amazon.co.uk/dp/B00Z9RTTX8/?tag=redken01-21) con 84.52 de descuento por 6.19 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TJRzIY6iL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00Z9RTTX8/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00Z9RTTX8/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00Z9RTTX8/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

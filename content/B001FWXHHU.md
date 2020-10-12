@@ -14,11 +14,11 @@ comparePrice: 78 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Issey Miyake L Eau D Issey pour Homme Intense - Agua De Tocador Vaporizador  125 ml](https://www.amazon.es/dp/B001FWXHHU/?tag=redken-21) a 38.06 EUR (original: 78 EUR) (51.21 %  de descuento) en el siguiente enlace!
+Está [Issey Miyake L Eau D Issey pour Homme Intense - Agua De Tocador Vaporizador  125 ml](https://www.amazon.es/dp/B001FWXHHU/?tag=redken-21) con 51.21 de descuento por 38.06 EUR (original: 78 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418xlnZVRBL._SL200_.jpg)](https://www.amazon.es/dp/B001FWXHHU/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B001FWXHHU/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001FWXHHU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

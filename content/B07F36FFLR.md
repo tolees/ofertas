@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Juego de Cartas  Col al 59.95 % de descuento'
-date: 2020-10-07 19:49:12
+date: 2020-10-12 08:50:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/512D7sMQ65L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512D7sMQ65L._SL200_.jpg' ]
 comments: true

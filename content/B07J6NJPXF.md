@@ -14,11 +14,11 @@ comparePrice: 8.59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko POP Hey Arnold Gerald JOHANSSE](https://www.amazon.de/dp/B07J6NJPXF/?tag=redken02-21) a 4.09 EUR (original: 8.59 EUR) (52.39 %  de descuento) en el siguiente enlace!
+Está [Funko POP Hey Arnold Gerald JOHANSSE](https://www.amazon.de/dp/B07J6NJPXF/?tag=redken02-21) con 52.39 de descuento por 4.09 EUR (original: 8.59 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LtQgM8kDL._SL200_.jpg)](https://www.amazon.de/dp/B07J6NJPXF/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07J6NJPXF/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07J6NJPXF/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

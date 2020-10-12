@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D AIRELL A  Zapatillas para Mujer   al 50.00 % de descuento'
-date: 2020-10-10 08:14:47
+date: 2020-10-12 08:20:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/415FJevT7GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415FJevT7GL._SL200_.jpg' ]
 comments: true
