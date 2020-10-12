@@ -14,11 +14,11 @@ comparePrice: 21.99 EUR
 inStock: true
 ---
 
-Está [Esi  Crema diurna facial - 50 ml.](https://www.amazon.es/dp/B009DG5DWW/?tag=redken-21) con 65.08 de descuento por 7.68 EUR (original: 21.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Esi  Crema diurna facial - 50 ml.](https://www.amazon.es/dp/B009DG5DWW/?tag=redken-21) a 7.68 EUR (original: 21.99 EUR) (65.08 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41XlekqrYyL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B009DG5DWW/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B009DG5DWW/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B009DG5DWW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

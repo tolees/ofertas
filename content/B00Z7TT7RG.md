@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'OtterBox Defender Series Custodia per iP al 25.13 % de descuento'
-date: 2020-10-06 12:13:12
+title: 'OtterBox Defender for Apple iPad 9.7 Inc al 63.86 % de descuento'
+date: 2020-10-11 06:23:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B00Z7TT7RG
 description:
-actualPrice: 14.9 EUR
-comparePrice: 19.9 EUR
+actualPrice: 15.9 GBP
+comparePrice: 44.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [OtterBox Defender Series Custodia per iPad 5th Gen  Nero](https://www.amazon.it/dp/B00Z7TT7RG/?tag=redken03-21) a 14.9 EUR (original: 19.9 EUR) (25.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [OtterBox Defender for Apple iPad 9.7 Inch  5th/6th Gen  - Black](https://www.amazon.co.uk/dp/B00Z7TT7RG/?tag=redken01-21) a 15.9 GBP (original: 44.0 GBP) (63.86 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg)](https://www.amazon.it/dp/B00Z7TT7RG/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00Z7TT7RG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00Z7TT7RG/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00Z7TT7RG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

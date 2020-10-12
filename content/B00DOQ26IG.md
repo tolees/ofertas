@@ -14,11 +14,11 @@ comparePrice: 215.12 GBP
 inStock: true
 ---
 
-Está [D-Link 24-Port Gigabit PoE Smart Managed Switch with 4 SFP Ports  12 x PoE Ports  DGS-1210-24P](https://www.amazon.co.uk/dp/B00DOQ26IG/?tag=redken01-21) con 27.12 de descuento por 156.78 GBP (original: 215.12 GBP) en el siguiente enlace!
+Ahora mismo tienes [D-Link 24-Port Gigabit PoE Smart Managed Switch with 4 SFP Ports  12 x PoE Ports  DGS-1210-24P](https://www.amazon.co.uk/dp/B00DOQ26IG/?tag=redken01-21) a 156.78 GBP (original: 215.12 GBP) (27.12 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PLcy-XO2L._SL200_.jpg)](https://www.amazon.co.uk/dp/B00DOQ26IG/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00DOQ26IG/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00DOQ26IG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

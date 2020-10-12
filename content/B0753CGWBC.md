@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hans Zimmer - Live in Prague [Blu-ray] al 44.47 % de descuento'
-date: 2020-10-11 06:31:16
+date: 2020-10-12 07:37:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Nx9gf+scL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Nx9gf+scL._SL200_.jpg' ]
 comments: true

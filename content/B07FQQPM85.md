@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Altavoz Bluetooth Ducha Impermeable con  al 26.68 % de descuento'
-date: 2020-10-03 10:54:27
+date: 2020-10-12 07:46:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cnHEG5LpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cnHEG5LpL._SL200_.jpg' ]
 comments: true

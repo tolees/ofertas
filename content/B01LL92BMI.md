@@ -14,11 +14,11 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cámara Yuntab Warrior G1S de 32 GB para deportes al aire libre  videocámara con Wi-Fi H.265 HD 1080P  3400mAh batería  165 ° gran angular  control remoto  azul ](https://www.amazon.es/dp/B01LL92BMI/?tag=redken-21) a 64.99 EUR (original: 99.99 EUR) (35.00 %  de descuento) en el siguiente enlace!
+Está [Cámara Yuntab Warrior G1S de 32 GB para deportes al aire libre  videocámara con Wi-Fi H.265 HD 1080P  3400mAh batería  165 ° gran angular  control remoto  azul ](https://www.amazon.es/dp/B01LL92BMI/?tag=redken-21) con 35.00 de descuento por 64.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41BGbjn9nZL._SL200_.jpg)](https://www.amazon.es/dp/B01LL92BMI/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01LL92BMI/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LL92BMI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
