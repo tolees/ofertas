@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Tapo Pan/Tilt Smart Security Cam al 28.58 % de descuento'
-date: 2020-10-12 00:34:14
+date: 2020-10-13 02:19:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41law+9s+FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41law+9s+FL._SL200_.jpg' ]
 comments: true

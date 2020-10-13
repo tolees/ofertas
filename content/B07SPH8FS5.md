@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.65 % en Tervis NHL St. Louis Blues 2019 Stanley '
-date: 2020-10-12 16:24:12
+date: 2020-10-13 02:17:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41suFKoL6LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41suFKoL6LL._SL200_.jpg' ]
 comments: true

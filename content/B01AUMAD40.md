@@ -14,11 +14,11 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [KMP Protective Case  13   MacBook Pro Retina  pink](https://www.amazon.de/dp/B01AUMAD40/?tag=redken02-21) a 9.95 EUR (original: 49.95 EUR) (80.08 %  de descuento) en el siguiente enlace!
+Está [KMP Protective Case  13   MacBook Pro Retina  pink](https://www.amazon.de/dp/B01AUMAD40/?tag=redken02-21) con 80.08 de descuento por 9.95 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31z84nxSYuL._SL200_.jpg)](https://www.amazon.de/dp/B01AUMAD40/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B01AUMAD40/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B01AUMAD40/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

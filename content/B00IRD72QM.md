@@ -14,11 +14,11 @@ comparePrice: 21.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Shiseido 57083 - Cuidado capilar  300 ml](https://www.amazon.es/dp/B00IRD72QM/?tag=redken-21) a 9.99 EUR (original: 21.2 EUR) (52.88 %  de descuento) en el siguiente enlace!
+Está [Shiseido 57083 - Cuidado capilar  300 ml](https://www.amazon.es/dp/B00IRD72QM/?tag=redken-21) con 52.88 de descuento por 9.99 EUR (original: 21.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31doN1QVVfL._SL200_.jpg)](https://www.amazon.es/dp/B00IRD72QM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00IRD72QM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00IRD72QM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

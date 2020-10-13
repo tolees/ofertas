@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haggar Men s Cool 18 Hidden Expandable-W al 47.39 % de descuento'
-date: 2020-10-11 06:30:28
+date: 2020-10-13 02:22:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/3173PKODPCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3173PKODPCL._SL200_.jpg' ]
 comments: true
