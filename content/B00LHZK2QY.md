@@ -14,11 +14,11 @@ comparePrice: 169 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Humax DTR-T2000 500GB YouView Receiver with HD](https://www.amazon.co.uk/dp/B00LHZK2QY/?tag=redken01-21) a 93 GBP (original: 169 GBP) (44.97 %  de descuento) en el siguiente enlace!
+Está [Humax DTR-T2000 500GB YouView Receiver with HD](https://www.amazon.co.uk/dp/B00LHZK2QY/?tag=redken01-21) con 44.97 de descuento por 93 GBP (original: 169 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31SgeKnqkAL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00LHZK2QY/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00LHZK2QY/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00LHZK2QY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

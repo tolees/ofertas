@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unica 50 Ml. al 58.98 % de descuento'
+title: 'Descuento del 58.98 % en Unica 50 Ml.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GBu81ctPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GBu81ctPL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 51.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Unica 50 Ml.](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21) a 21.31 EUR (original: 51.95 EUR) (58.98 %  de descuento) en el siguiente enlace!
+Tienes [Unica 50 Ml.](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21) con un 58.98 % de descuento con precio de oferta de 21.31 EUR (original: 51.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31GBu81ctPL._SL200_.jpg)](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
