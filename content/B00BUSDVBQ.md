@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link AC1750 Archer C7 - Router Gigabi al 48.31 % de descuento'
-date: 2020-10-08 14:28:46
+date: 2020-10-13 06:29:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/415vAIn9uEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415vAIn9uEL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'NETGEAR 8-Port Gigabit Ethernet PoE Netw al 30.26 % de descuento'
-date: 2020-10-10 05:22:27
+title: 'NETGEAR 8-Port Gigabit Ethernet PoE Netw al 28.00 % de descuento'
+date: 2020-10-13 06:09:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bAy5drHEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bAy5drHEL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B017LWQIZA
 description:
-actualPrice: 58.79 GBP
+actualPrice: 60.7 GBP
 comparePrice: 84.3 GBP
 inStock: true
 ---
 
-Está [NETGEAR 8-Port Gigabit Ethernet PoE Network Switch  Hub  Internet Splitter  GS308P  - with 4 x PoE @ 55W  Desktop  Sturdy Metal Fanless Housing](https://www.amazon.co.uk/dp/B017LWQIZA/?tag=redken01-21) con 30.26 de descuento por 58.79 GBP (original: 84.3 GBP) en el siguiente enlace!
+Está [NETGEAR 8-Port Gigabit Ethernet PoE Network Switch  Hub  Internet Splitter  GS308P  - with 4 x PoE @ 55W  Desktop  Sturdy Metal Fanless Housing](https://www.amazon.co.uk/dp/B017LWQIZA/?tag=redken01-21) con 28.00 de descuento por 60.7 GBP (original: 84.3 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bAy5drHEL._SL200_.jpg)](https://www.amazon.co.uk/dp/B017LWQIZA/?tag=redken01-21)
 

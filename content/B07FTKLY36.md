@@ -14,11 +14,11 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Rider Short Pantalones Cortos  Marfil  Black Stone SL   28W para Hombre](https://www.amazon.es/dp/B07FTKLY36/?tag=redken-21) a 21.02 EUR (original: 65 EUR) (67.66 %  de descuento) en el siguiente enlace!
+Está [Lee Rider Short Pantalones Cortos  Marfil  Black Stone SL   28W para Hombre](https://www.amazon.es/dp/B07FTKLY36/?tag=redken-21) con 67.66 de descuento por 21.02 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Fpw9zbQvL._SL200_.jpg)](https://www.amazon.es/dp/B07FTKLY36/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FTKLY36/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FTKLY36/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

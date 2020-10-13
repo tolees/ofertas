@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch PSM 100 A - Multilijadora  3 hojas al 31.51 % de descuento'
-date: 2020-10-09 08:10:00
+date: 2020-10-13 06:43:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OcUK1+aqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OcUK1+aqL._SL200_.jpg' ]
 comments: true
