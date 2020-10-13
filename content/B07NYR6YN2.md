@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Etekcity Bilancia da Cucina Digital in A al 37.51 % de descuento'
-date: 2020-10-11 23:19:54
+date: 2020-10-13 05:30:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xuP0JxAUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xuP0JxAUL._SL200_.jpg' ]
 comments: true

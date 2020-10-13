@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.35 % en LIGHTAILING Set di Luci per  Speed Champ'
-date: 2020-10-11 23:17:54
+date: 2020-10-13 05:26:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TYblAf8YL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TYblAf8YL._SL200_.jpg' ]
 comments: true

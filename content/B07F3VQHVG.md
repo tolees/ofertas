@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bonsenkitchen Báscula Digital Balanza de al 44.47 % de descuento'
-date: 2020-10-12 04:55:24
+date: 2020-10-13 05:14:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qTqtEiMvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qTqtEiMvL._SL200_.jpg' ]
 comments: true
