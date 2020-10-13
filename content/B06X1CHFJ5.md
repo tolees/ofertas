@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Tenda AC1200 Dual Band WiFi Router  High al 33.21 % de descuento'
-date: 2020-10-07 00:21:24
+title: 'Tenda AC1200 Dual Band WiFi Router  High al 28.65 % de descuento'
+date: 2020-10-13 13:08:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ni2o4YDqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ni2o4YDqL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06X1CHFJ5
 description:
-actualPrice: 33.39 USD
+actualPrice: 35.67 USD
 comparePrice: 49.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Tenda AC1200 Dual Band WiFi Router  High Speed Wireless Internet Router with Smart App  MU-MIMO for Home  AC6  Black](https://www.amazon.com/dp/B06X1CHFJ5/?tag=redken08-20) a 33.39 USD (original: 49.99 USD) (33.21 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tenda AC1200 Dual Band WiFi Router  High Speed Wireless Internet Router with Smart App  MU-MIMO for Home  AC6  Black](https://www.amazon.com/dp/B06X1CHFJ5/?tag=redken08-20) a 35.67 USD (original: 49.99 USD) (28.65 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ni2o4YDqL._SL200_.jpg)](https://www.amazon.com/dp/B06X1CHFJ5/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THEN CAME YOU al 26.29 % de descuento'
-date: 2020-10-11 12:50:20
+date: 2020-10-13 13:09:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51a+tJfUKEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51a+tJfUKEL._SL200_.jpg' ]
 comments: true
