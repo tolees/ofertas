@@ -14,11 +14,11 @@ comparePrice: 249 EUR
 inStock: true
 ---
 
-Está [Onkyo TX-8020-B - Receptor esterero  90 W por canal  3 entradas analógicas y 5 entradas digitales  color negro](https://www.amazon.es/dp/B00DQUZNJE/?tag=redken-21) con 46.70 de descuento por 132.72 EUR (original: 249 EUR) en el siguiente enlace!
+Ahora mismo tienes [Onkyo TX-8020-B - Receptor esterero  90 W por canal  3 entradas analógicas y 5 entradas digitales  color negro](https://www.amazon.es/dp/B00DQUZNJE/?tag=redken-21) a 132.72 EUR (original: 249 EUR) (46.70 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31qhA0L2-8L._SL200_.jpg)](https://www.amazon.es/dp/B00DQUZNJE/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00DQUZNJE/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00DQUZNJE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

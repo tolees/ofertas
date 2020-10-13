@@ -14,11 +14,11 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Noche de Miedo BD 1985 Fright Night [Blu-ray]](https://www.amazon.es/dp/B01LHC2IO0/?tag=redken-21) a 8.79 EUR (original: 12.95 EUR) (32.12 %  de descuento) en el siguiente enlace!
+Está [Noche de Miedo BD 1985 Fright Night [Blu-ray]](https://www.amazon.es/dp/B01LHC2IO0/?tag=redken-21) con 32.12 de descuento por 8.79 EUR (original: 12.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RcaPj0IbL._SL200_.jpg)](https://www.amazon.es/dp/B01LHC2IO0/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01LHC2IO0/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LHC2IO0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
