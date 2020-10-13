@@ -14,11 +14,11 @@ comparePrice: 669 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Huawei P20 Pro LTE 128GB CLT-L09 Blau](https://www.amazon.de/dp/B07CMJSYRR/?tag=redken02-21) a 285 EUR (original: 669 EUR) (57.40 %  de descuento) en el siguiente enlace!
+Está [Huawei P20 Pro LTE 128GB CLT-L09 Blau](https://www.amazon.de/dp/B07CMJSYRR/?tag=redken02-21) con 57.40 de descuento por 285 EUR (original: 669 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jdravShpL._SL200_.jpg)](https://www.amazon.de/dp/B07CMJSYRR/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07CMJSYRR/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07CMJSYRR/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

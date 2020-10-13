@@ -14,11 +14,11 @@ comparePrice: 13.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Oréal Paris Color Riche Mate Pintalabios mate rojo 344 Crimson Obsession](https://www.amazon.es/dp/B01MUEZ3TK/?tag=redken-21) a 6.97 EUR (original: 13.95 EUR) (50.04 %  de descuento) en el siguiente enlace!
+Está [L Oréal Paris Color Riche Mate Pintalabios mate rojo 344 Crimson Obsession](https://www.amazon.es/dp/B01MUEZ3TK/?tag=redken-21) con 50.04 de descuento por 6.97 EUR (original: 13.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41LDmRe9U%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01MUEZ3TK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MUEZ3TK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MUEZ3TK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

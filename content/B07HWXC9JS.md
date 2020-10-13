@@ -14,11 +14,11 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gant Contrast Collar Pique SS Rugger Polo  Verde  Pine Green 318   Medium para Hombre](https://www.amazon.es/dp/B07HWXC9JS/?tag=redken-21) a 53.87 EUR (original: 79.99 EUR) (32.65 %  de descuento) en el siguiente enlace!
+Está [Gant Contrast Collar Pique SS Rugger Polo  Verde  Pine Green 318   Medium para Hombre](https://www.amazon.es/dp/B07HWXC9JS/?tag=redken-21) con 32.65 de descuento por 53.87 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31l6HPXqm1L._SL200_.jpg)](https://www.amazon.es/dp/B07HWXC9JS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07HWXC9JS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07HWXC9JS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

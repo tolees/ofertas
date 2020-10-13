@@ -14,11 +14,11 @@ comparePrice: 185 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Logitech G513 Carbon RGB Mechanical Gaming Keyboard - Carbon - ESP - USB - N/A - MEDITER - G513 Tactile Switch](https://www.amazon.es/dp/B079YTKMCX/?tag=redken-21) a 114.99 EUR (original: 185 EUR) (37.84 %  de descuento) en el siguiente enlace!
+Está [Logitech G513 Carbon RGB Mechanical Gaming Keyboard - Carbon - ESP - USB - N/A - MEDITER - G513 Tactile Switch](https://www.amazon.es/dp/B079YTKMCX/?tag=redken-21) con 37.84 de descuento por 114.99 EUR (original: 185 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41boLWnIK4L._SL200_.jpg)](https://www.amazon.es/dp/B079YTKMCX/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079YTKMCX/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079YTKMCX/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
