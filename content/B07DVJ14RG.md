@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Levi s Type 3 Sherpa Trucker  Chaqueta p al 50.39 % de descuento'
-date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VyZdgjbeL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VyZdgjbeL._SL200_.jpg' ]
+title: 'Levi s Type 3 Sherpa Trucker  Chaqueta p al 25.78 % de descuento'
+date: 2020-10-13 19:35:40
+thumbnailImage: 'https://m.media-amazon.com/images/I/41jGN+dRttL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41jGN+dRttL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07DVJ14RG
 description:
-actualPrice: 64.49 EUR
-comparePrice: 130 EUR
+actualPrice: 96.49 EUR
+comparePrice: 130.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Rockridge Trucker 0084   XX-Large](https://www.amazon.es/dp/B07DVJ14RG/?tag=redken-21) a 64.49 EUR (original: 130 EUR) (50.39 %  de descuento) en el siguiente enlace!
+Está [Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Rockridge Trucker 0084   XX-Large](https://www.amazon.es/dp/B07DVJ14RG/?tag=redken-21) con 25.78 de descuento por 96.49 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41VyZdgjbeL._SL200_.jpg)](https://www.amazon.es/dp/B07DVJ14RG/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41jGN+dRttL._SL200_.jpg)](https://www.amazon.es/dp/B07DVJ14RG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DVJ14RG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DVJ14RG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

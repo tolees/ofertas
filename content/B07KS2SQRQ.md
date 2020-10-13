@@ -14,11 +14,11 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [hummel Hmlgo Logo Camiseta  Unisex niños  Verde Oscuro  Evergreen   152](https://www.amazon.es/dp/B07KS2SQRQ/?tag=redken-21) a 5.2 EUR (original: 12.95 EUR) (59.85 %  de descuento) en el siguiente enlace!
+Está [hummel Hmlgo Logo Camiseta  Unisex niños  Verde Oscuro  Evergreen   152](https://www.amazon.es/dp/B07KS2SQRQ/?tag=redken-21) con 59.85 de descuento por 5.2 EUR (original: 12.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31OPfa7-VsL._SL200_.jpg)](https://www.amazon.es/dp/B07KS2SQRQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KS2SQRQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KS2SQRQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
