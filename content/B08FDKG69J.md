@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Termometro infrarossi  Termometri Fronta al 32.44 % de descuento'
-date: 2020-10-12 09:12:30
+date: 2020-10-13 11:55:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T6lfUe7oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T6lfUe7oL._SL200_.jpg' ]
 comments: true

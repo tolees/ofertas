@@ -14,11 +14,11 @@ comparePrice: 4.95 EUR
 inStock: true
 ---
 
-Está [L Oreal Paris Stylista Bun Gel-Spray - 200 ml](https://www.amazon.es/dp/B078GTXT5X/?tag=redken-21) con 59.60 de descuento por 2 EUR (original: 4.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [L Oreal Paris Stylista Bun Gel-Spray - 200 ml](https://www.amazon.es/dp/B078GTXT5X/?tag=redken-21) a 2 EUR (original: 4.95 EUR) (59.60 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DjYntT6VL._SL200_.jpg)](https://www.amazon.es/dp/B078GTXT5X/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078GTXT5X/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B078GTXT5X/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
