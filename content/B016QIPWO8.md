@@ -14,11 +14,11 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Está [Microscopio National Geographic 40-640x con Soporte para Smartphone](https://www.amazon.es/dp/B016QIPWO8/?tag=redken-21) con 39.08 de descuento por 35.94 EUR (original: 59 EUR) en el siguiente enlace!
+Ahora mismo tienes [Microscopio National Geographic 40-640x con Soporte para Smartphone](https://www.amazon.es/dp/B016QIPWO8/?tag=redken-21) a 35.94 EUR (original: 59 EUR) (39.08 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419THO1NuzL._SL200_.jpg)](https://www.amazon.es/dp/B016QIPWO8/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B016QIPWO8/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B016QIPWO8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

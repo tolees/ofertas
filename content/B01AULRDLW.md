@@ -14,11 +14,11 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [KMP Protective Case  15   MacBook Pro Retina  anthracite](https://www.amazon.de/dp/B01AULRDLW/?tag=redken02-21) a 9.45 EUR (original: 49.95 EUR) (81.08 %  de descuento) en el siguiente enlace!
+Está [KMP Protective Case  15   MacBook Pro Retina  anthracite](https://www.amazon.de/dp/B01AULRDLW/?tag=redken02-21) con 81.08 de descuento por 9.45 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2B5CCHqNxL._SL200_.jpg)](https://www.amazon.de/dp/B01AULRDLW/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B01AULRDLW/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B01AULRDLW/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

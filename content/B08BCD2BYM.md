@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blackview A80 Moviles Libres 4G Android  al 27.28 % de descuento'
-date: 2020-10-10 17:23:25
+date: 2020-10-12 23:12:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eTNmD5bNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eTNmD5bNL._SL200_.jpg' ]
 comments: true

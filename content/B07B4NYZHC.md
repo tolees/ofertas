@@ -14,11 +14,11 @@ comparePrice: 66.35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Royal Whisky 12 Anos - 1000 ml](https://www.amazon.es/dp/B07B4NYZHC/?tag=redken-21) a 36.49 EUR (original: 66.35 EUR) (45.00 %  de descuento) en el siguiente enlace!
+Está [Royal Whisky 12 Anos - 1000 ml](https://www.amazon.es/dp/B07B4NYZHC/?tag=redken-21) con 45.00 de descuento por 36.49 EUR (original: 66.35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HI4qIf1kL._SL200_.jpg)](https://www.amazon.es/dp/B07B4NYZHC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07B4NYZHC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B4NYZHC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

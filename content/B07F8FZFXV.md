@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 58.53 % en Max Factor Lasting Performance Spray Fij'
-date: 2020-10-11 22:47:48
+date: 2020-10-12 23:16:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31reU-jk0JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31reU-jk0JL._SL200_.jpg' ]
 comments: true

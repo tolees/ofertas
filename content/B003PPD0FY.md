@@ -14,11 +14,11 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Eastpak Out Of Office Mochila  44 cm  27 L  Gris  Sunday Grey ](https://www.amazon.es/dp/B003PPD0FY/?tag=redken-21) a 42.95 EUR (original: 60 EUR) (28.42 %  de descuento) en el siguiente enlace!
+Está [Eastpak Out Of Office Mochila  44 cm  27 L  Gris  Sunday Grey ](https://www.amazon.es/dp/B003PPD0FY/?tag=redken-21) con 28.42 de descuento por 42.95 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51GnGB2FM4L._SL200_.jpg)](https://www.amazon.es/dp/B003PPD0FY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B003PPD0FY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B003PPD0FY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

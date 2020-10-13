@@ -14,11 +14,11 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Está [LEGO UK - 70635 NINJAGO Jay - Spinjitzu Master Fun Toy](https://www.amazon.co.uk/dp/B075SVTWJV/?tag=redken01-21) con 29.93 de descuento por 7 GBP (original: 9.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO UK - 70635 NINJAGO Jay - Spinjitzu Master Fun Toy](https://www.amazon.co.uk/dp/B075SVTWJV/?tag=redken01-21) a 7 GBP (original: 9.99 GBP) (29.93 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51lzTKJ-o6L._SL200_.jpg)](https://www.amazon.co.uk/dp/B075SVTWJV/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B075SVTWJV/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B075SVTWJV/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

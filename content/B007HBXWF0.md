@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.98 % en Rexona Tropical Antitranspirante Roll On'
-date: 2020-10-12 17:21:22
+date: 2020-10-12 23:43:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EGheIOJfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EGheIOJfL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter - Autobús Noctámbulo   al 29.98 % de descuento'
-date: 2020-10-11 18:48:05
+date: 2020-10-12 23:41:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg' ]
 comments: true

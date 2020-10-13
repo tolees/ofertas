@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI 12848 - Cola  40 g  color blanco al 78.00 % de descuento'
-date: 2020-10-12 04:55:46
+date: 2020-10-12 23:07:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KOL0aSZ0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KOL0aSZ0L._SL200_.jpg' ]
 comments: true
