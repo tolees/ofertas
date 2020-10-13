@@ -14,11 +14,11 @@ comparePrice: 14.68 EUR
 inStock: true
 ---
 
-Está [Prozis L-glutamina Componente Fundamental de las Proteínas  Sandía - 300 g](https://www.amazon.es/dp/B07STMF1B6/?tag=redken-21) con 54.50 de descuento por 6.68 EUR (original: 14.68 EUR) en el siguiente enlace!
+Ahora mismo tienes [Prozis L-glutamina Componente Fundamental de las Proteínas  Sandía - 300 g](https://www.amazon.es/dp/B07STMF1B6/?tag=redken-21) a 6.68 EUR (original: 14.68 EUR) (54.50 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41h%2BUgc88sL._SL200_.jpg)](https://www.amazon.es/dp/B07STMF1B6/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07STMF1B6/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07STMF1B6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

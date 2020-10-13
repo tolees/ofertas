@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove - Gel de Ducha Secretos Hidratantes al 25.79 % de descuento'
-date: 2020-10-07 10:27:01
+date: 2020-10-13 16:54:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YYWq8n56L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YYWq8n56L._SL200_.jpg' ]
 comments: true

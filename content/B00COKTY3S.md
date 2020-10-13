@@ -14,11 +14,11 @@ comparePrice: 35.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Olay Regenerist Complexión Corrector CC Cream SPF 15 - 50 ml](https://www.amazon.es/dp/B00COKTY3S/?tag=redken-21) a 19.95 EUR (original: 35.4 EUR) (43.64 %  de descuento) en el siguiente enlace!
+Está [Olay Regenerist Complexión Corrector CC Cream SPF 15 - 50 ml](https://www.amazon.es/dp/B00COKTY3S/?tag=redken-21) con 43.64 de descuento por 19.95 EUR (original: 35.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4197cEaedxL._SL200_.jpg)](https://www.amazon.es/dp/B00COKTY3S/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00COKTY3S/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00COKTY3S/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

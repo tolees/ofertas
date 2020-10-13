@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.95 % en Sharp HT-SBW110 2.1 Slim - Barra de Soni'
-date: 2020-10-11 12:48:06
+date: 2020-10-13 16:47:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/217I53XQENL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/217I53XQENL._SL200_.jpg' ]
 comments: true
