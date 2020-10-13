@@ -14,11 +14,11 @@ comparePrice: 177.79 EUR
 inStock: true
 ---
 
-Está [Makita DTM50Z - Multiherramienta 18V Litio](https://www.amazon.es/dp/B00JXHQ6SG/?tag=redken-21) con 30.25 de descuento por 124 EUR (original: 177.79 EUR) en el siguiente enlace!
+Ahora mismo tienes [Makita DTM50Z - Multiherramienta 18V Litio](https://www.amazon.es/dp/B00JXHQ6SG/?tag=redken-21) a 124 EUR (original: 177.79 EUR) (30.25 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lJ7n6-4LL._SL200_.jpg)](https://www.amazon.es/dp/B00JXHQ6SG/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00JXHQ6SG/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00JXHQ6SG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
