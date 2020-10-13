@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FUEGO VALYRIO Licor Verde - 700 ml al 29.90 % de descuento'
-date: 2020-10-08 20:21:06
+date: 2020-10-13 22:07:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mmi9-Ci8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mmi9-Ci8L._SL200_.jpg' ]
 comments: true
