@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.03 % en Rexona Aloe Vera Antitranspirante Aeroso'
-date: 2020-10-06 07:37:10
+date: 2020-10-13 18:50:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/414k2sZ9wOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414k2sZ9wOL._SL200_.jpg' ]
 comments: true

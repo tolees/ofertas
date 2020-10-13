@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi airdots 2 Écouteur Bluetoot al 55.26 % de descuento'
-date: 2020-10-12 00:16:13
+date: 2020-10-13 18:15:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZdA8VUytL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZdA8VUytL._SL200_.jpg' ]
 comments: true

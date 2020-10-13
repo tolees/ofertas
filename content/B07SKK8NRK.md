@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Handheld Vacuum Cleaner - Aspi al 31.57 % de descuento'
-date: 2020-10-06 12:19:45
+date: 2020-10-13 18:30:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/21pyUD6dUAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21pyUD6dUAL._SL200_.jpg' ]
 comments: true
