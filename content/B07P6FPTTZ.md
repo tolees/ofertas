@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1.2.3 Camión de Construcción al 33.26 % de descuento'
-date: 2020-10-11 07:05:30
+date: 2020-10-13 21:27:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YtnboIq0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YtnboIq0L._SL200_.jpg' ]
 comments: true

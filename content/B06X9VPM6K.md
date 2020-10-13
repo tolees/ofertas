@@ -14,11 +14,11 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Liu Jo LJ672S 001 54 Gafas de sol  Ebony  Mujer](https://www.amazon.es/dp/B06X9VPM6K/?tag=redken-21) con 59.93 de descuento por 39.67 EUR (original: 99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Liu Jo LJ672S 001 54 Gafas de sol  Ebony  Mujer](https://www.amazon.es/dp/B06X9VPM6K/?tag=redken-21) a 39.67 EUR (original: 99 EUR) (59.93 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rzAHRhVKL._SL200_.jpg)](https://www.amazon.es/dp/B06X9VPM6K/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06X9VPM6K/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B06X9VPM6K/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
