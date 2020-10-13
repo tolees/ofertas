@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.22 % en Salomon Speedcross 4  Zapatillas de Trai'
-date: 2020-10-12 08:20:36
+date: 2020-10-13 09:45:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Xn+na+nPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Xn+na+nPL._SL200_.jpg' ]
 comments: true
