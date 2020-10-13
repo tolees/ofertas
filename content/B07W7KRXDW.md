@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.78 % en Logitech MX Keys Kabellose Tastatur  Blu'
-date: 2020-10-10 06:58:48
+date: 2020-10-13 07:19:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/416LOT+XgAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416LOT+XgAL._SL200_.jpg' ]
 comments: true
