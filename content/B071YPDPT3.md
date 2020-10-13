@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Vileda Mixer 4 - Tendedero vertical de t al 36.67 % de descuento'
+date: 2020-10-13 12:43:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41CGOF+FpiL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41CGOF+FpiL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B071YPDPT3
+description:
+actualPrice: 37.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
+---
+
+Está [Vileda Mixer 4 - Tendedero vertical de torre de acero  40 metros de espacio de tendido  4 rejillas  soporte para ropa pequeña y perchas  dimensiones abierto 169 x 71 x 71 cm  color blanco](https://www.amazon.es/dp/B071YPDPT3/?tag=redken-21) con 36.67 de descuento por 37.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/41CGOF+FpiL._SL200_.jpg)](https://www.amazon.es/dp/B071YPDPT3/?tag=redken-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B071YPDPT3/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

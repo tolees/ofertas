@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jacobs Kaffeebohnen Barista Editions Cre al 35.02 % de descuento'
-date: 2020-10-01 17:34:37
+date: 2020-10-13 12:39:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41s+H1XZfSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41s+H1XZfSL._SL200_.jpg' ]
 comments: true

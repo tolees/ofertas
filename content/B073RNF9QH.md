@@ -14,11 +14,11 @@ comparePrice: 240 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen Salt Jacket Chaqueta Deportiva  Hombre   Azul Navy 597   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B073RNF9QH/?tag=redken-21) a 120 EUR (original: 240 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen Salt Jacket Chaqueta Deportiva  Hombre   Azul Navy 597   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B073RNF9QH/?tag=redken-21) con 50.00 de descuento por 120 EUR (original: 240 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mdwXf9y4L._SL200_.jpg)](https://www.amazon.es/dp/B073RNF9QH/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B073RNF9QH/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073RNF9QH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

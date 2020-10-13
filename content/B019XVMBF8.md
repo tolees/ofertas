@@ -14,11 +14,11 @@ comparePrice: 77.99 EUR
 inStock: true
 ---
 
-Está [Batman - DRM46 - La Baticueva](https://www.amazon.es/dp/B019XVMBF8/?tag=redken-21) con 46.34 de descuento por 41.85 EUR (original: 77.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Batman - DRM46 - La Baticueva](https://www.amazon.es/dp/B019XVMBF8/?tag=redken-21) a 41.85 EUR (original: 77.99 EUR) (46.34 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tPGuEGAzL._SL200_.jpg)](https://www.amazon.es/dp/B019XVMBF8/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B019XVMBF8/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B019XVMBF8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

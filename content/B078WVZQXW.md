@@ -14,11 +14,11 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Wmns Classic Cortez Leather  Zapatillas para Mujer  Negro White-Black 016  38.5 EU](https://www.amazon.es/dp/B078WVZQXW/?tag=redken-21) a 42.45 EUR (original: 85 EUR) (50.06 %  de descuento) en el siguiente enlace!
+Está [Nike Wmns Classic Cortez Leather  Zapatillas para Mujer  Negro White-Black 016  38.5 EU](https://www.amazon.es/dp/B078WVZQXW/?tag=redken-21) con 50.06 de descuento por 42.45 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vW%2BQ5k%2BkL._SL200_.jpg)](https://www.amazon.es/dp/B078WVZQXW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078WVZQXW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078WVZQXW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

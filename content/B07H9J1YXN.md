@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme PRO 64GB SDXC Memory Car al 35.01 % de descuento'
-date: 2020-10-12 05:47:04
+date: 2020-10-13 12:04:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eQxcYpAgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eQxcYpAgL._SL200_.jpg' ]
 comments: true

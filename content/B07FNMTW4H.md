@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LEGO City - Police Policía Aérea: Arrest al 30.01 % de descuento'
-date: 2020-10-12 18:48:39
-thumbnailImage: 'https://m.media-amazon.com/images/I/51zEWDuOWfL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51zEWDuOWfL._SL200_.jpg' ]
+date: 2020-10-13 12:29:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/51b0cjhKMuL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51b0cjhKMuL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51zEWDuOWfL._SL200_.jpg)](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/51b0cjhKMuL._SL200_.jpg)](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
 
