@@ -14,11 +14,11 @@ comparePrice: 21.82 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Giotto- Robercolor Tizas  100 Unidades  Colores Surtidos  Iconn 5390 ](https://www.amazon.es/dp/B001JK7ATY/?tag=redken-21) a 8.92 EUR (original: 21.82 EUR) (59.12 %  de descuento) en el siguiente enlace!
+Está [Giotto- Robercolor Tizas  100 Unidades  Colores Surtidos  Iconn 5390 ](https://www.amazon.es/dp/B001JK7ATY/?tag=redken-21) con 59.12 de descuento por 8.92 EUR (original: 21.82 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51z3uKEBnjL._SL200_.jpg)](https://www.amazon.es/dp/B001JK7ATY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B001JK7ATY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001JK7ATY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
