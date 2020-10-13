@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel - Fudepen recargable  color Inchi al 29.93 % de descuento'
-date: 2020-10-11 22:40:15
+date: 2020-10-13 00:10:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/416vczORVSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416vczORVSL._SL200_.jpg' ]
 comments: true

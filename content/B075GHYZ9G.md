@@ -14,11 +14,11 @@ comparePrice: 54.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75201 Star Wars First Order AT-ST Walker  All Terrain Scout Transport Building Set for Kids](https://www.amazon.co.uk/dp/B075GHYZ9G/?tag=redken01-21) a 38.5 GBP (original: 54.99 GBP) (29.99 %  de descuento) en el siguiente enlace!
+Está [LEGO 75201 Star Wars First Order AT-ST Walker  All Terrain Scout Transport Building Set for Kids](https://www.amazon.co.uk/dp/B075GHYZ9G/?tag=redken01-21) con 29.99 de descuento por 38.5 GBP (original: 54.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51iE02VrQpL._SL200_.jpg)](https://www.amazon.co.uk/dp/B075GHYZ9G/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B075GHYZ9G/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B075GHYZ9G/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

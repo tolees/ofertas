@@ -14,11 +14,11 @@ comparePrice: 143.74 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Asics Gel-Kenun 2 Zapatillas para Correr - 40.5](https://www.amazon.es/dp/B07ZLX8CK9/?tag=redken-21) a 86.24 EUR (original: 143.74 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Está [Asics Gel-Kenun 2 Zapatillas para Correr - 40.5](https://www.amazon.es/dp/B07ZLX8CK9/?tag=redken-21) con 40.00 de descuento por 86.24 EUR (original: 143.74 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41r0oL0CS6L._SL200_.jpg)](https://www.amazon.es/dp/B07ZLX8CK9/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07ZLX8CK9/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07ZLX8CK9/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

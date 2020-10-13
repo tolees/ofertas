@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.74 % en Xiaomi Mi Robot Vacuum Mop Pro Saugrobot'
-date: 2020-10-12 12:15:20
+date: 2020-10-13 00:56:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eAlsBjhiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eAlsBjhiL._SL200_.jpg' ]
 comments: true

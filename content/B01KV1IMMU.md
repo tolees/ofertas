@@ -14,11 +14,11 @@ comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [havit Pro RGB Wired Gaming Mouse【12000DPI & 14 Programmable Buttons】  Interchangeable Side Plates  8 Buttons/ 8+6 Side Buttons Mouse   2 Replaceable Right Plates for Ergonomic Comfort  Black  MS760 ](https://www.amazon.co.uk/dp/B01KV1IMMU/?tag=redken01-21) a 21.99 GBP (original: 34.99 GBP) (37.15 %  de descuento) en el siguiente enlace!
+Está [havit Pro RGB Wired Gaming Mouse【12000DPI & 14 Programmable Buttons】  Interchangeable Side Plates  8 Buttons/ 8+6 Side Buttons Mouse   2 Replaceable Right Plates for Ergonomic Comfort  Black  MS760 ](https://www.amazon.co.uk/dp/B01KV1IMMU/?tag=redken01-21) con 37.15 de descuento por 21.99 GBP (original: 34.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DRG4hfs%2BL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01KV1IMMU/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01KV1IMMU/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01KV1IMMU/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
