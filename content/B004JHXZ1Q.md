@@ -14,11 +14,11 @@ comparePrice: 56.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Bodum Eileen Tea Press with Plastic Infuser  Borosilicate Glass - 1.5 L/51 oz  Shiny](https://www.amazon.co.uk/dp/B004JHXZ1Q/?tag=redken01-21) a 26.95 GBP (original: 56.0 GBP) (51.88 %  de descuento) en el siguiente enlace!
+Está [Bodum Eileen Tea Press with Plastic Infuser  Borosilicate Glass - 1.5 L/51 oz  Shiny](https://www.amazon.co.uk/dp/B004JHXZ1Q/?tag=redken01-21) con 51.88 de descuento por 26.95 GBP (original: 56.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41KNMVEGaFL._SL200_.jpg)](https://www.amazon.co.uk/dp/B004JHXZ1Q/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B004JHXZ1Q/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B004JHXZ1Q/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

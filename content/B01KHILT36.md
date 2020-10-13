@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips LED B22 Frosted Light Bulbs  8 W al 29.55 % de descuento'
-date: 2020-10-12 16:21:31
+date: 2020-10-13 20:27:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/511uws84GhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511uws84GhL._SL200_.jpg' ]
 comments: true

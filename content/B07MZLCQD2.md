@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer BlackWidow  2019  - Clavier de jeu al 30.77 % de descuento'
-date: 2020-10-05 12:43:42
+date: 2020-10-13 20:28:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uEUBXy5vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uEUBXy5vL._SL200_.jpg' ]
 comments: true
