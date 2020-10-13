@@ -14,11 +14,11 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FABTASTICS Body para Bebés  pack de 3  Rosa  Pink 001   18 Meses/86 cm](https://www.amazon.es/dp/B072QLCMYK/?tag=redken-21) a 9.98 EUR (original: 19.95 EUR) (49.97 %  de descuento) en el siguiente enlace!
+Está [FABTASTICS Body para Bebés  pack de 3  Rosa  Pink 001   18 Meses/86 cm](https://www.amazon.es/dp/B072QLCMYK/?tag=redken-21) con 49.97 de descuento por 9.98 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Srn6Uyu0L._SL200_.jpg)](https://www.amazon.es/dp/B072QLCMYK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B072QLCMYK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072QLCMYK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

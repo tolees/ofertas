@@ -14,11 +14,11 @@ comparePrice: 59.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox Jr Sofia I  Zapatos de Cordones Oxford para Niñas  Negro  Black   33 EU](https://www.amazon.es/dp/B06Y2J8PLF/?tag=redken-21) a 17.57 EUR (original: 59.9 EUR) (70.67 %  de descuento) en el siguiente enlace!
+Está [Geox Jr Sofia I  Zapatos de Cordones Oxford para Niñas  Negro  Black   33 EU](https://www.amazon.es/dp/B06Y2J8PLF/?tag=redken-21) con 70.67 de descuento por 17.57 EUR (original: 59.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415AkrbbxWL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2J8PLF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06Y2J8PLF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06Y2J8PLF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
