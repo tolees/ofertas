@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel 100 WM Marqueur peinture Indélébi al 49.46 % de descuento'
-date: 2020-10-12 18:50:42
+date: 2020-10-13 01:32:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41P1L4gA8aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41P1L4gA8aL._SL200_.jpg' ]
 comments: true

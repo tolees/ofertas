@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.91 % en Sony KDL-43WF665 Bravia 109 2 cm  43 Zol'
-date: 2020-10-12 12:08:12
+date: 2020-10-13 01:29:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gRjSKuqJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gRjSKuqJL._SL200_.jpg' ]
 comments: true

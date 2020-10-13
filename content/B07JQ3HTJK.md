@@ -14,11 +14,11 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Copa 19.3 FG  Zapatillas de Fútbol para Hombre  Negro Solar Yellow/Core Black  40 EU](https://www.amazon.es/dp/B07JQ3HTJK/?tag=redken-21) a 34.98 EUR (original: 69.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Está [adidas Copa 19.3 FG  Zapatillas de Fútbol para Hombre  Negro Solar Yellow/Core Black  40 EU](https://www.amazon.es/dp/B07JQ3HTJK/?tag=redken-21) con 49.99 de descuento por 34.98 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419X-KZH7zL._SL200_.jpg)](https://www.amazon.es/dp/B07JQ3HTJK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JQ3HTJK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JQ3HTJK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

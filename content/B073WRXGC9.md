@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SUNGAIT Gafas de sol Aviador polaroid Mujer Hombre UV 400 Unisex Ligero-Oro/Rosa 1603](https://www.amazon.es/dp/B073WRXGC9/?tag=redken-21) a 17.99 EUR (original: 49.99 EUR) (64.01 %  de descuento) en el siguiente enlace!
+Está [SUNGAIT Gafas de sol Aviador polaroid Mujer Hombre UV 400 Unisex Ligero-Oro/Rosa 1603](https://www.amazon.es/dp/B073WRXGC9/?tag=redken-21) con 64.01 de descuento por 17.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31YRIdAD9UL._SL200_.jpg)](https://www.amazon.es/dp/B073WRXGC9/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B073WRXGC9/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073WRXGC9/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

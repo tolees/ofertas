@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 35.84 % en Sony HT-X8500 2.1 Kanal Dolby Atmos Soun'
-date: 2020-10-12 06:05:44
+title: 'Descuento del 35.97 % en Sony HT-X8500 2.1 Kanal Dolby Atmos Soun'
+date: 2020-10-13 01:14:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/21qgFW-notL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21qgFW-notL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07MF9R3ZL
 description:
-actualPrice: 256.0 EUR
+actualPrice: 255.49 EUR
 comparePrice: 399.0 EUR
 inStock: true
 ---
 
-Tienes [Sony HT-X8500 2.1 Kanal Dolby Atmos Soundbar  4K HDR  Surround Sound  Bluetooth  integrierter Subwoofer  DTS:X  schwarz](https://www.amazon.de/dp/B07MF9R3ZL/?tag=redken02-21) con un 35.84 % de descuento con precio de oferta de 256.0 EUR (original: 399.0 EUR) en el siguiente enlace!
+Tienes [Sony HT-X8500 2.1 Kanal Dolby Atmos Soundbar  4K HDR  Surround Sound  Bluetooth  integrierter Subwoofer  DTS:X  schwarz](https://www.amazon.de/dp/B07MF9R3ZL/?tag=redken02-21) con un 35.97 % de descuento con precio de oferta de 255.49 EUR (original: 399.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/21qgFW-notL._SL200_.jpg)](https://www.amazon.de/dp/B07MF9R3ZL/?tag=redken02-21)
 
