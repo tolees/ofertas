@@ -14,11 +14,11 @@ comparePrice: 1254.45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MSI GL73 8RD-019XES - Ordenador portátil Gaming de 17.3" Full HD  Coffeelake i7-8750H  8GB RAM  1TB HDD + 256GB SSD  Nvidia GeForce GTX 1050Ti 4GB  Sin Sistema Op.  Teclado QWERTY Español](https://www.amazon.es/dp/B07BN2PYPG/?tag=redken-21) a 899.99 EUR (original: 1254.45 EUR) (28.26 %  de descuento) en el siguiente enlace!
+Está [MSI GL73 8RD-019XES - Ordenador portátil Gaming de 17.3" Full HD  Coffeelake i7-8750H  8GB RAM  1TB HDD + 256GB SSD  Nvidia GeForce GTX 1050Ti 4GB  Sin Sistema Op.  Teclado QWERTY Español](https://www.amazon.es/dp/B07BN2PYPG/?tag=redken-21) con 28.26 de descuento por 899.99 EUR (original: 1254.45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VbvAEybzL._SL200_.jpg)](https://www.amazon.es/dp/B07BN2PYPG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07BN2PYPG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BN2PYPG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 210.87 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacor - 69036 - Baño María eléctrico Gn 1/1 230 v- Gris](https://www.amazon.es/dp/B000T5NUGM/?tag=redken-21) a 141.6 EUR (original: 210.87 EUR) (32.85 %  de descuento) en el siguiente enlace!
+Está [Lacor - 69036 - Baño María eléctrico Gn 1/1 230 v- Gris](https://www.amazon.es/dp/B000T5NUGM/?tag=redken-21) con 32.85 de descuento por 141.6 EUR (original: 210.87 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Xl8mcpqjL._SL200_.jpg)](https://www.amazon.es/dp/B000T5NUGM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000T5NUGM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000T5NUGM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
