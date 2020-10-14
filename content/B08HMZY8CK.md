@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Echo Dot  3.ª generación  tela de al 54.53 % de descuento'
-date: 2020-10-13 10:17:08
+date: 2020-10-14 10:42:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WqCpfiZbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WqCpfiZbL._SL200_.jpg' ]
 comments: true

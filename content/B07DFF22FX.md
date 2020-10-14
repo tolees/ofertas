@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko- Disney: Wreck-It-Ralph 2: Pop 1   al 33.36 % de descuento'
-date: 2020-10-05 04:03:41
+title: 'Figura Pop Ralph 2: Ralph al 37.37 % de descuento'
+date: 2020-10-14 10:25:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i1VQZWk4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i1VQZWk4L._SL200_.jpg' ]
 comments: true
@@ -10,15 +10,15 @@ author: ring
 slug: B07DFF22FX
 description:
 actualPrice: 9.99 EUR
-comparePrice: 14.99 EUR
+comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko- Disney: Wreck-It-Ralph 2: Pop 1  Multicolore  33403](https://www.amazon.it/dp/B07DFF22FX/?tag=redken03-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Figura Pop Ralph 2: Ralph](https://www.amazon.es/dp/B07DFF22FX/?tag=redken-21) con 37.37 de descuento por 9.99 EUR (original: 15.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41i1VQZWk4L._SL200_.jpg)](https://www.amazon.it/dp/B07DFF22FX/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41i1VQZWk4L._SL200_.jpg)](https://www.amazon.es/dp/B07DFF22FX/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07DFF22FX/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DFF22FX/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

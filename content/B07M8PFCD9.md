@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Blink XT2  2nd Gen  | Outdoor/Indoor Sma'
-date: 2020-10-09 03:47:57
+date: 2020-10-14 10:15:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31moy5ccgDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31moy5ccgDL._SL200_.jpg' ]
 comments: true
