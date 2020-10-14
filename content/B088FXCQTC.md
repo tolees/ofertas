@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cortapelos Electrónico Cortapelos Profes al 51.44 % de descuento'
-date: 2020-10-05 18:54:21
+date: 2020-10-14 17:28:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vUW2Pp9jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vUW2Pp9jL._SL200_.jpg' ]
 comments: true

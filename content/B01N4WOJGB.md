@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.47 % en Pentel EnerGel X 0.7 mm Pen - Assorted C'
-date: 2020-10-13 06:03:56
+date: 2020-10-14 17:42:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rGkMRUaJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rGkMRUaJL._SL200_.jpg' ]
 comments: true
