@@ -14,11 +14,11 @@ comparePrice: 105 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dr. Martens V Lester Mtd  Derby para Mujer   Multi Mandala TD Fine Canvas   39 EU](https://www.amazon.es/dp/B01IDT7BAG/?tag=redken-21) a 66.63 EUR (original: 105 EUR) (36.54 %  de descuento) en el siguiente enlace!
+Está [Dr. Martens V Lester Mtd  Derby para Mujer   Multi Mandala TD Fine Canvas   39 EU](https://www.amazon.es/dp/B01IDT7BAG/?tag=redken-21) con 36.54 de descuento por 66.63 EUR (original: 105 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kHpgpaTgL._SL200_.jpg)](https://www.amazon.es/dp/B01IDT7BAG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01IDT7BAG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01IDT7BAG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
