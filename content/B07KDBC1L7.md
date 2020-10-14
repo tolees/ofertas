@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.45 % en Echo Show 5: mantén el contacto con la a'
-date: 2020-10-12 10:21:12
+date: 2020-10-14 08:51:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31qYPqtJxmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31qYPqtJxmL._SL200_.jpg' ]
 comments: true

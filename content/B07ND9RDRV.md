@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41167 Disney Die Eiskönigin 2  Schl al 27.54 % de descuento'
-date: 2020-10-12 20:11:56
+date: 2020-10-14 08:36:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL200_.jpg' ]
 comments: true
