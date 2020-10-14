@@ -14,11 +14,11 @@ comparePrice: 141.59 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Women s Sportswear Tech Pack Woven Jacket  Oil Grey  Medium](https://www.amazon.co.uk/dp/B07MJBZG1S/?tag=redken01-21) a 42.07 GBP (original: 141.59 GBP) (70.29 %  de descuento) en el siguiente enlace!
+Está [Nike Women s Sportswear Tech Pack Woven Jacket  Oil Grey  Medium](https://www.amazon.co.uk/dp/B07MJBZG1S/?tag=redken01-21) con 70.29 de descuento por 42.07 GBP (original: 141.59 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31eE%2BQv%2By9L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07MJBZG1S/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07MJBZG1S/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07MJBZG1S/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
