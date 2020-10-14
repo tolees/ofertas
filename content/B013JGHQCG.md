@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony ICF-P36 - Radio analógico portátil  al 36.55 % de descuento'
-date: 2020-10-13 04:57:18
+date: 2020-10-14 05:05:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UZMfFuLjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UZMfFuLjL._SL200_.jpg' ]
 comments: true

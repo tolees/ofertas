@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Birra Peroni Gran Riserva Doppio Malto - al 51.61 % de descuento'
-date: 2020-10-11 23:33:18
+date: 2020-10-14 05:41:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yKGMNVZfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yKGMNVZfL._SL200_.jpg' ]
 comments: true

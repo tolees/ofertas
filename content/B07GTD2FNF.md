@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AZ Dentifricio 3D White Ultra White  75  al 30.92 % de descuento'
-date: 2020-10-13 05:21:31
+date: 2020-10-14 05:45:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51n0RN4v4zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51n0RN4v4zL._SL200_.jpg' ]
 comments: true
