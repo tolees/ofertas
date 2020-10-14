@@ -14,11 +14,11 @@ comparePrice: 22.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Look Dunkelblau ES 36  UK 6 ](https://www.amazon.es/dp/B018MUZHOI/?tag=redken-21) a 7.5 EUR (original: 22.99 EUR) (67.38 %  de descuento) en el siguiente enlace!
+Está [New Look Dunkelblau ES 36  UK 6 ](https://www.amazon.es/dp/B018MUZHOI/?tag=redken-21) con 67.38 de descuento por 7.5 EUR (original: 22.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51q%2BnAgvS7L._SL200_.jpg)](https://www.amazon.es/dp/B018MUZHOI/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B018MUZHOI/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B018MUZHOI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
