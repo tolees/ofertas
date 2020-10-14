@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer TX3000E - Tarjeta Wi-Fi P al 35.72 % de descuento'
-date: 2020-10-08 13:02:08
+date: 2020-10-14 19:32:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oA5r-OwGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oA5r-OwGL._SL200_.jpg' ]
 comments: true
