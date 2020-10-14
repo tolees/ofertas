@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-LINK AC1300 MU-MIMO USB 3.0 Wi-Fi Ada al 25.94 % de descuento'
-date: 2020-09-29 17:21:03
+date: 2020-10-14 00:55:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31IdziegWVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31IdziegWVL._SL200_.jpg' ]
 comments: true
@@ -19,5 +19,7 @@ Está [TP-LINK AC1300 MU-MIMO USB 3.0 Wi-Fi Adapter  Super Fast Mini Dual Band 5
 [![](https://m.media-amazon.com/images/I/31IdziegWVL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07LGMD97Z/?tag=redken01-21)
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07LGMD97Z/?tag=redken01-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
