@@ -14,11 +14,11 @@ comparePrice: 29.23 EUR
 inStock: true
 ---
 
-Está [LEGO 76167 Marvel Avengers Iron Mans Arsenal  Bauset](https://www.amazon.de/dp/B082WCXJTQ/?tag=redken02-21) con 25.86 de descuento por 21.67 EUR (original: 29.23 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 76167 Marvel Avengers Iron Mans Arsenal  Bauset](https://www.amazon.de/dp/B082WCXJTQ/?tag=redken02-21) a 21.67 EUR (original: 29.23 EUR) (25.86 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51w+RB7H1EL._SL200_.jpg)](https://www.amazon.de/dp/B082WCXJTQ/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B082WCXJTQ/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B082WCXJTQ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

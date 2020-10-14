@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Selene Sujetador Deportivo Confort Negro al 51.33 % de descuento'
-date: 2020-10-13 04:55:52
+date: 2020-10-14 11:06:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TtPx6d2FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TtPx6d2FL._SL200_.jpg' ]
 comments: true

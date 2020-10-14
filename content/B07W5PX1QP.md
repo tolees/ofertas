@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en LEGO Friends - Bus de la Amistad  Set de'
-date: 2020-10-13 11:22:21
+date: 2020-10-14 11:42:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FwyM667qL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FwyM667qL._SL200_.jpg' ]
 comments: true
