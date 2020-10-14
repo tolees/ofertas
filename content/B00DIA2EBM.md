@@ -14,11 +14,11 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Saturday Trail II Shorts Largos  Mujer  Azul  India Ink   W8/L18](https://www.amazon.es/dp/B00DIA2EBM/?tag=redken-21) a 31.85 EUR (original: 64.99 EUR) (50.99 %  de descuento) en el siguiente enlace!
+Está [Columbia Saturday Trail II Shorts Largos  Mujer  Azul  India Ink   W8/L18](https://www.amazon.es/dp/B00DIA2EBM/?tag=redken-21) con 50.99 de descuento por 31.85 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cRlhJsg0L._SL200_.jpg)](https://www.amazon.es/dp/B00DIA2EBM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00DIA2EBM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00DIA2EBM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

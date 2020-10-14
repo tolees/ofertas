@@ -14,11 +14,11 @@ comparePrice: 47.53 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Prozis: Whey Protein  2000 g chocolate + Creatina  300 gr lima limón](https://www.amazon.es/dp/B07SVXHL8C/?tag=redken-21) a 29.99 EUR (original: 47.53 EUR) (36.90 %  de descuento) en el siguiente enlace!
+Está [Prozis: Whey Protein  2000 g chocolate + Creatina  300 gr lima limón](https://www.amazon.es/dp/B07SVXHL8C/?tag=redken-21) con 36.90 de descuento por 29.99 EUR (original: 47.53 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51FiNKNWCYL._SL200_.jpg)](https://www.amazon.es/dp/B07SVXHL8C/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07SVXHL8C/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07SVXHL8C/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
