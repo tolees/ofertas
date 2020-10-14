@@ -14,11 +14,11 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [RIP CURL Hazed & Tubed SS tee Camiseta  Hombre  Black  2XL](https://www.amazon.es/dp/B07PPV4DWV/?tag=redken-21) a 15.89 EUR (original: 29.99 EUR) (47.02 %  de descuento) en el siguiente enlace!
+Está [RIP CURL Hazed & Tubed SS tee Camiseta  Hombre  Black  2XL](https://www.amazon.es/dp/B07PPV4DWV/?tag=redken-21) con 47.02 de descuento por 15.89 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41g8hzc62cL._SL200_.jpg)](https://www.amazon.es/dp/B07PPV4DWV/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07PPV4DWV/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PPV4DWV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

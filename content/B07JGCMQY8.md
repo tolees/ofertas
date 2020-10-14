@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel Core i9-9980XE Extreme Edition Pro al 44.03 % de descuento'
-date: 2020-10-13 02:16:17
+date: 2020-10-14 14:19:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BUy1mVMyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BUy1mVMyL._SL200_.jpg' ]
 comments: true

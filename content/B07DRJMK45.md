@@ -14,11 +14,11 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Men s Headline 3.0 Cap Gorra  Hombre  Rojo Barn/Pitch Gray 633  M/L](https://www.amazon.es/dp/B07DRJMK45/?tag=redken-21) a 14.97 EUR (original: 25.99 EUR) (42.40 %  de descuento) en el siguiente enlace!
+Está [Under Armour Men s Headline 3.0 Cap Gorra  Hombre  Rojo Barn/Pitch Gray 633  M/L](https://www.amazon.es/dp/B07DRJMK45/?tag=redken-21) con 42.40 de descuento por 14.97 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Jk3HCbnQL._SL200_.jpg)](https://www.amazon.es/dp/B07DRJMK45/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DRJMK45/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DRJMK45/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

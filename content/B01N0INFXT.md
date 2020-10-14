@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'New Balance ML373  Zapatillas para Hombr al 50.06 % de descuento'
-date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417foVWJ9dL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417foVWJ9dL._SL200_.jpg' ]
+title: 'New Balance 373 Core  Zapatillas Bajas p al 36.25 % de descuento'
+date: 2020-10-14 14:58:22
+thumbnailImage: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01N0INFXT
 description:
-actualPrice: 39.95 EUR
-comparePrice: 80 EUR
+actualPrice: 51.0 EUR
+comparePrice: 80.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance ML373  Zapatillas para Hombre  Rojo  Burgundy/Silver   42 EU](https://www.amazon.es/dp/B01N0INFXT/?tag=redken-21) a 39.95 EUR (original: 80 EUR) (50.06 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance 373 Core  Zapatillas Bajas para Hombre  Bordeaux  42 EU](https://www.amazon.es/dp/B01N0INFXT/?tag=redken-21) a 51.0 EUR (original: 80.0 EUR) (36.25 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/417foVWJ9dL._SL200_.jpg)](https://www.amazon.es/dp/B01N0INFXT/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg)](https://www.amazon.es/dp/B01N0INFXT/?tag=redken-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B01N0INFXT/?tag=redken-21)
 

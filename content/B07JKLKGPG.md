@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Barbie Casa de muñecas con accesorios  M al 30.09 % de descuento'
-date: 2020-01-23 11:08:45
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wy9HxOxsL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wy9HxOxsL._SL200_.jpg' ]
+title: 'Barbie FXG54 Dollhouse  Portable 1-Story al 45.46 % de descuento'
+date: 2020-10-14 14:17:48
+thumbnailImage: 'https://m.media-amazon.com/images/I/41CNpuS1GtL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41CNpuS1GtL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07JKLKGPG
 description:
-actualPrice: 34.95 EUR
-comparePrice: 49.99 EUR
+actualPrice: 29.99 GBP
+comparePrice: 54.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Barbie Casa de muñecas con accesorios  Mattel FXG54 ](https://www.amazon.es/dp/B07JKLKGPG/?tag=redken-21) a 34.95 EUR (original: 49.99 EUR) (30.09 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Barbie FXG54 Dollhouse  Portable 1-Story Playset  with Pool  Multi-Colour](https://www.amazon.co.uk/dp/B07JKLKGPG/?tag=redken01-21) a 29.99 GBP (original: 54.99 GBP) (45.46 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51wy9HxOxsL._SL200_.jpg)](https://www.amazon.es/dp/B07JKLKGPG/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41CNpuS1GtL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JKLKGPG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JKLKGPG/?tag=redken-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07JKLKGPG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

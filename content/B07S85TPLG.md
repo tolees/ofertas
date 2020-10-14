@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ninja FD401 Foodi 8-Quart 9-in-1 Deluxe  al 25.93 % de descuento'
-date: 2020-10-13 12:52:11
+date: 2020-10-14 14:20:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hLUQwvoaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hLUQwvoaL._SL200_.jpg' ]
 comments: true
