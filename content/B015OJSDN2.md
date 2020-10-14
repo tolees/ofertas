@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA ICRA Trainer SD  Zapatillas Unisex  al 39.96 % de descuento'
-date: 2020-10-11 13:19:53
+date: 2020-10-14 12:49:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JuOlW06XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JuOlW06XL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA ICRA Trainer SD  Zapatillas Unisex Adulto  Negro  Black-White   45 EU](https://www.amazon.es/dp/B015OJSDN2/?tag=redken-21) a 29.99 EUR (original: 49.95 EUR) (39.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [PUMA ICRA Trainer SD  Zapatillas Unisex Adulto  Negro  Black-White 16   45 EU](https://www.amazon.es/dp/B015OJSDN2/?tag=redken-21) a 29.99 EUR (original: 49.95 EUR) (39.96 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31JuOlW06XL._SL200_.jpg)](https://www.amazon.es/dp/B015OJSDN2/?tag=redken-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Mechanix Star Trek Discovery - I al 38.95 % de descuento'
-date: 2020-10-03 15:57:53
+date: 2020-10-14 12:29:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ahKGXU90L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ahKGXU90L._SL200_.jpg' ]
 comments: true

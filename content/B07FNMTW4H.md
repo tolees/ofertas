@@ -14,11 +14,11 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) a 20.99 EUR (original: 29.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
+Está [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51b0cjhKMuL._SL200_.jpg)](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
