@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung SM-R800NZSADBT Galaxy Watch 46 m al 50.20 % de descuento'
-date: 2020-10-13 10:00:42
+title: 'Samsung SM-R800NZSADBT Galaxy Watch 46 m al 35.59 % de descuento'
+date: 2020-10-14 13:04:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bBRM80hHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bBRM80hHL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07G3VKSJB
 description:
-actualPrice: 149.99 EUR
+actualPrice: 194.0 EUR
 comparePrice: 301.21 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung SM-R800NZSADBT Galaxy Watch 46 mm  Bluetooth   Silber](https://www.amazon.de/dp/B07G3VKSJB/?tag=redken02-21) a 149.99 EUR (original: 301.21 EUR) (50.20 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung SM-R800NZSADBT Galaxy Watch 46 mm  Bluetooth   Silber](https://www.amazon.de/dp/B07G3VKSJB/?tag=redken02-21) a 194.0 EUR (original: 301.21 EUR) (35.59 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bBRM80hHL._SL200_.jpg)](https://www.amazon.de/dp/B07G3VKSJB/?tag=redken02-21)
 

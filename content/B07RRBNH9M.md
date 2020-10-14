@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Genius 10000N Elektrische Zahnbür al 48.85 % de descuento'
-date: 2020-10-13 10:31:16
+date: 2020-10-14 13:03:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KTkcfCuSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KTkcfCuSL._SL200_.jpg' ]
 comments: true

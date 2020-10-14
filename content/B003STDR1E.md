@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech M705 Marathon Kabellose Maus  2 al 29.11 % de descuento'
-date: 2020-10-14 12:59:55
+date: 2020-10-14 13:01:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JoIcCRQEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JoIcCRQEL._SL200_.jpg' ]
 comments: true
