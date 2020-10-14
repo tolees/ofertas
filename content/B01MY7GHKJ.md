@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.00 % en Super Mario Odyssey - Nintendo Switch'
-date: 2020-10-08 19:45:45
+title: 'Descuento del 33.34 % en Super Mario Odyssey - Nintendo Switch'
+date: 2020-10-14 06:53:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/518mL2i0riL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518mL2i0riL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01MY7GHKJ
 description:
-actualPrice: 44.99 USD
+actualPrice: 39.99 USD
 comparePrice: 59.99 USD
 inStock: true
 ---
 
-Tienes [Super Mario Odyssey - Nintendo Switch](https://www.amazon.com/dp/B01MY7GHKJ/?tag=redken08-20) con un 25.00 % de descuento con precio de oferta de 44.99 USD (original: 59.99 USD) en el siguiente enlace!
+Tienes [Super Mario Odyssey - Nintendo Switch](https://www.amazon.com/dp/B01MY7GHKJ/?tag=redken08-20) con un 33.34 % de descuento con precio de oferta de 39.99 USD (original: 59.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/518mL2i0riL._SL200_.jpg)](https://www.amazon.com/dp/B01MY7GHKJ/?tag=redken08-20)
 
