@@ -14,11 +14,11 @@ comparePrice: 139.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Black Crevice Abrigo Corto Rojo / Azul XL](https://www.amazon.es/dp/B01GEBI3NO/?tag=redken-21) a 29.49 EUR (original: 139.99 EUR) (78.93 %  de descuento) en el siguiente enlace!
+Está [Black Crevice Abrigo Corto Rojo / Azul XL](https://www.amazon.es/dp/B01GEBI3NO/?tag=redken-21) con 78.93 de descuento por 29.49 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2B7Yvst1jL._SL200_.jpg)](https://www.amazon.es/dp/B01GEBI3NO/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01GEBI3NO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01GEBI3NO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

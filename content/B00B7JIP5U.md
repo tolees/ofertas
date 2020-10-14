@@ -14,11 +14,11 @@ comparePrice: 6.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Stargazer  Delineador de ojos  Tono 6  - 1 unidad](https://www.amazon.es/dp/B00B7JIP5U/?tag=redken-21) a 3.52 EUR (original: 6.5 EUR) (45.85 %  de descuento) en el siguiente enlace!
+Está [Stargazer  Delineador de ojos  Tono 6  - 1 unidad](https://www.amazon.es/dp/B00B7JIP5U/?tag=redken-21) con 45.85 de descuento por 3.52 EUR (original: 6.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31WqW3xLWfL._SL200_.jpg)](https://www.amazon.es/dp/B00B7JIP5U/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00B7JIP5U/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00B7JIP5U/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 129.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Solac SW8230 Cotton 16.0 Máquina de Coser Mecánica con 16 Puntadas  Blanco](https://www.amazon.es/dp/B07C8MX2XC/?tag=redken-21) a 79.9 EUR (original: 129.99 EUR) (38.53 %  de descuento) en el siguiente enlace!
+Está [Solac SW8230 Cotton 16.0 Máquina de Coser Mecánica con 16 Puntadas  Blanco](https://www.amazon.es/dp/B07C8MX2XC/?tag=redken-21) con 38.53 de descuento por 79.9 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41npvUoEskL._SL200_.jpg)](https://www.amazon.es/dp/B07C8MX2XC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07C8MX2XC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07C8MX2XC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

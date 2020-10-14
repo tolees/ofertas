@@ -14,11 +14,11 @@ comparePrice: 65 GBP
 inStock: true
 ---
 
-Está [WD My Passport 1 TB Portable Hard Drive for PC  Xbox One and PlayStation 4 - Orange](https://www.amazon.co.uk/dp/B01LQQHIGU/?tag=redken01-21) con 65.15 de descuento por 22.65 GBP (original: 65 GBP) en el siguiente enlace!
+Ahora mismo tienes [WD My Passport 1 TB Portable Hard Drive for PC  Xbox One and PlayStation 4 - Orange](https://www.amazon.co.uk/dp/B01LQQHIGU/?tag=redken01-21) a 22.65 GBP (original: 65 GBP) (65.15 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/314xxChrhTL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LQQHIGU/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01LQQHIGU/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01LQQHIGU/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

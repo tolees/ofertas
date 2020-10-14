@@ -14,11 +14,11 @@ comparePrice: 88.47 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Draper Expert 88605 - Juego de cinceles para madera  8 unidades ](https://www.amazon.es/dp/B000EOQ8WQ/?tag=redken-21) a 30.58 EUR (original: 88.47 EUR) (65.43 %  de descuento) en el siguiente enlace!
+Está [Draper Expert 88605 - Juego de cinceles para madera  8 unidades ](https://www.amazon.es/dp/B000EOQ8WQ/?tag=redken-21) con 65.43 de descuento por 30.58 EUR (original: 88.47 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51UhARoY3HL._SL200_.jpg)](https://www.amazon.es/dp/B000EOQ8WQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000EOQ8WQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000EOQ8WQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

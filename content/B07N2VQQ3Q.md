@@ -14,11 +14,11 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Está [Hackett New Classic Polo  Azul  Navy 595   Medium para Hombre](https://www.amazon.es/dp/B07N2VQQ3Q/?tag=redken-21) con 40.00 de descuento por 57 EUR (original: 95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hackett New Classic Polo  Azul  Navy 595   Medium para Hombre](https://www.amazon.es/dp/B07N2VQQ3Q/?tag=redken-21) a 57 EUR (original: 95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31HUPW-y8RL._SL200_.jpg)](https://www.amazon.es/dp/B07N2VQQ3Q/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07N2VQQ3Q/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07N2VQQ3Q/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
