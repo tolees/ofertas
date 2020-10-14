@@ -14,11 +14,11 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Está [Schleich Marvel - Figura Superhéroe Capitán América  18 4 cm](https://www.amazon.es/dp/B01M8HML9L/?tag=redken-21) con 32.33 de descuento por 8.79 EUR (original: 12.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Schleich Marvel - Figura Superhéroe Capitán América  18 4 cm](https://www.amazon.es/dp/B01M8HML9L/?tag=redken-21) a 8.79 EUR (original: 12.99 EUR) (32.33 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51qi7-zKCUL._SL200_.jpg)](https://www.amazon.es/dp/B01M8HML9L/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01M8HML9L/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01M8HML9L/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

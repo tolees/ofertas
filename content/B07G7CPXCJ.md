@@ -14,11 +14,11 @@ comparePrice: 17.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Moussel Gel y jabón - 2 de 3 piezas - Total: 6 piezas](https://www.amazon.es/dp/B07G7CPXCJ/?tag=redken-21) a 9.5 EUR (original: 17.98 EUR) (47.16 %  de descuento) en el siguiente enlace!
+Está [Moussel Gel y jabón - 2 de 3 piezas - Total: 6 piezas](https://www.amazon.es/dp/B07G7CPXCJ/?tag=redken-21) con 47.16 de descuento por 9.5 EUR (original: 17.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GVdmdx19L._SL200_.jpg)](https://www.amazon.es/dp/B07G7CPXCJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07G7CPXCJ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07G7CPXCJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
