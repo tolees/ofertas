@@ -14,11 +14,11 @@ comparePrice: 193 EUR
 inStock: true
 ---
 
-Está [OAKLEY Holbrook Metal Gafas de sol  Plateado  55 para Hombre](https://www.amazon.es/dp/B01MYE1AWZ/?tag=redken-21) con 56.85 de descuento por 83.28 EUR (original: 193 EUR) en el siguiente enlace!
+Ahora mismo tienes [OAKLEY Holbrook Metal Gafas de sol  Plateado  55 para Hombre](https://www.amazon.es/dp/B01MYE1AWZ/?tag=redken-21) a 83.28 EUR (original: 193 EUR) (56.85 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31utOEbD75L._SL200_.jpg)](https://www.amazon.es/dp/B01MYE1AWZ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01MYE1AWZ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01MYE1AWZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
