@@ -14,11 +14,11 @@ comparePrice: 64.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA Nucleus  Zapatillas Unisex Adulto  Black-Classic Green  36 EU](https://www.amazon.es/dp/B07KG69TXH/?tag=redken-21) a 32.45 EUR (original: 64.95 EUR) (50.04 %  de descuento) en el siguiente enlace!
+Está [PUMA Nucleus  Zapatillas Unisex Adulto  Black-Classic Green  36 EU](https://www.amazon.es/dp/B07KG69TXH/?tag=redken-21) con 50.04 de descuento por 32.45 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kxtbOkazL._SL200_.jpg)](https://www.amazon.es/dp/B07KG69TXH/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KG69TXH/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KG69TXH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

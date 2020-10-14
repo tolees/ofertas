@@ -14,11 +14,11 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour UA Tech - Camiseta de Manga Corta para Hombre  Hombre  1328189-035  Steel/Black  Small](https://www.amazon.es/dp/B07DGLCNH6/?tag=redken-21) a 14.58 EUR (original: 30 EUR) (51.40 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA Tech - Camiseta de Manga Corta para Hombre  Hombre  1328189-035  Steel/Black  Small](https://www.amazon.es/dp/B07DGLCNH6/?tag=redken-21) con 51.40 de descuento por 14.58 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41745EroNlL._SL200_.jpg)](https://www.amazon.es/dp/B07DGLCNH6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DGLCNH6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DGLCNH6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

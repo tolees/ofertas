@@ -14,11 +14,11 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superga 2750-MESHU  Zapatillas Unisex Adulto  Verde  Green Hedge 075   40 EU](https://www.amazon.es/dp/B078CYW2FL/?tag=redken-21) a 39.49 EUR (original: 75 EUR) (47.35 %  de descuento) en el siguiente enlace!
+Está [Superga 2750-MESHU  Zapatillas Unisex Adulto  Verde  Green Hedge 075   40 EU](https://www.amazon.es/dp/B078CYW2FL/?tag=redken-21) con 47.35 de descuento por 39.49 EUR (original: 75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-4110TGsL._SL200_.jpg)](https://www.amazon.es/dp/B078CYW2FL/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078CYW2FL/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078CYW2FL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
