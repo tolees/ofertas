@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'KODAK Printomatic - Cámara de impresión  al 25.15 % de descuento'
-date: 2020-10-09 08:30:55
+title: 'KODAK Printomatic - Cámara de impresión  al 25.03 % de descuento'
+date: 2020-10-14 16:31:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rLOOfbldL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rLOOfbldL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B075WWSMFN
 description:
 actualPrice: 49.99 EUR
-comparePrice: 66.79 EUR
+comparePrice: 66.68 EUR
 inStock: true
 ---
 
-Está [KODAK Printomatic - Cámara de impresión instantánea  imprime en Papel Zink 5 x 7.6 cm con respaldo adhesivo  gris](https://www.amazon.es/dp/B075WWSMFN/?tag=redken-21) con 25.15 de descuento por 49.99 EUR (original: 66.79 EUR) en el siguiente enlace!
+Está [KODAK Printomatic - Cámara de impresión instantánea  imprime en Papel Zink 5 x 7.6 cm con respaldo adhesivo  gris](https://www.amazon.es/dp/B075WWSMFN/?tag=redken-21) con 25.03 de descuento por 49.99 EUR (original: 66.68 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31rLOOfbldL._SL200_.jpg)](https://www.amazon.es/dp/B075WWSMFN/?tag=redken-21)
 
