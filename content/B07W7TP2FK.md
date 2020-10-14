@@ -14,11 +14,11 @@ comparePrice: 29.23 EUR
 inStock: true
 ---
 
-Está [LEGO Star Wars 75271 Eine Neue Hoffnung: Luke Skywalkers Landspeeder](https://www.amazon.de/dp/B07W7TP2FK/?tag=redken02-21) con 25.66 de descuento por 21.73 EUR (original: 29.23 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars 75271 Eine Neue Hoffnung: Luke Skywalkers Landspeeder](https://www.amazon.de/dp/B07W7TP2FK/?tag=redken02-21) a 21.73 EUR (original: 29.23 EUR) (25.66 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51t0zrw2gTL._SL200_.jpg)](https://www.amazon.de/dp/B07W7TP2FK/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07W7TP2FK/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07W7TP2FK/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
