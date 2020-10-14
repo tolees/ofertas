@@ -14,11 +14,11 @@ comparePrice: 36.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cojín Jimmy  80 × 55 cm  Gris](https://www.amazon.es/dp/B00PYN0XX2/?tag=redken-21) a 21.36 EUR (original: 36.95 EUR) (42.19 %  de descuento) en el siguiente enlace!
+Está [Cojín Jimmy  80 × 55 cm  Gris](https://www.amazon.es/dp/B00PYN0XX2/?tag=redken-21) con 42.19 de descuento por 21.36 EUR (original: 36.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QWGHCBI4L._SL200_.jpg)](https://www.amazon.es/dp/B00PYN0XX2/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00PYN0XX2/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00PYN0XX2/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

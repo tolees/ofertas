@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quadcopter Drone with Camera Live Video  al 36.37 % de descuento'
-date: 2020-10-11 11:40:33
+date: 2020-10-13 23:51:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UyhUfLGgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UyhUfLGgL._SL200_.jpg' ]
 comments: true

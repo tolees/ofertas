@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.79 % en DELUX Microfiber Feather Duster Extendab'
-date: 2020-10-11 11:29:25
+date: 2020-10-13 23:59:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/416KsYg6-JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416KsYg6-JL._SL200_.jpg' ]
 comments: true

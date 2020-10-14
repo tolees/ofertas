@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.72 % en LEGO Star Wars Resistance Major Vonreg’s'
-date: 2020-10-12 08:06:30
+date: 2020-10-13 23:59:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hfiYCXvTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hfiYCXvTL._SL200_.jpg' ]
 comments: true
