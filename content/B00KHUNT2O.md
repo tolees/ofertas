@@ -14,11 +14,11 @@ comparePrice: 22.51 EUR
 inStock: true
 ---
 
-Está [Kitchen Artist Kit de Postre Macarons](https://www.amazon.es/dp/B00KHUNT2O/?tag=redken-21) con 62.82 de descuento por 8.37 EUR (original: 22.51 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kitchen Artist Kit de Postre Macarons](https://www.amazon.es/dp/B00KHUNT2O/?tag=redken-21) a 8.37 EUR (original: 22.51 EUR) (62.82 %  de descuento) en el siguiente enlace!
 
 [![]()](https://www.amazon.es/dp/B00KHUNT2O/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00KHUNT2O/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00KHUNT2O/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

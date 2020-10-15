@@ -14,11 +14,11 @@ comparePrice: 38.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Marvel - Venganza de Ayesha  Lego 76080 ](https://www.amazon.es/dp/B00JFT2PUU/?tag=redken-21) a 18.43 EUR (original: 38.99 EUR) (52.73 %  de descuento) en el siguiente enlace!
+Está [Marvel - Venganza de Ayesha  Lego 76080 ](https://www.amazon.es/dp/B00JFT2PUU/?tag=redken-21) con 52.73 de descuento por 18.43 EUR (original: 38.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41isDLgC0PL._SL200_.jpg)](https://www.amazon.es/dp/B00JFT2PUU/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00JFT2PUU/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00JFT2PUU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

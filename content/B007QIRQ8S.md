@@ -14,11 +14,11 @@ comparePrice: 773.19 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brother RJ4040 - Impresora portátil de Etiquetas y Tickets de hasta 4 Pulgadas de Ancho  conexión USB y WiFi ](https://www.amazon.es/dp/B007QIRQ8S/?tag=redken-21) a 405.62 EUR (original: 773.19 EUR) (47.54 %  de descuento) en el siguiente enlace!
+Está [Brother RJ4040 - Impresora portátil de Etiquetas y Tickets de hasta 4 Pulgadas de Ancho  conexión USB y WiFi ](https://www.amazon.es/dp/B007QIRQ8S/?tag=redken-21) con 47.54 de descuento por 405.62 EUR (original: 773.19 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qpPGTWFKL._SL200_.jpg)](https://www.amazon.es/dp/B007QIRQ8S/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B007QIRQ8S/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B007QIRQ8S/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

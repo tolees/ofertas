@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung SM-R800NZSADBT Galaxy Watch 46 m al 35.59 % de descuento'
-date: 2020-10-14 13:04:12
+date: 2020-10-15 18:30:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bBRM80hHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bBRM80hHL._SL200_.jpg' ]
 comments: true

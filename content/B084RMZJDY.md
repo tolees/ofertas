@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG 55-inch Class FRAME QLED LS03 Se al 26.80 % de descuento'
-date: 2020-10-14 18:37:15
+date: 2020-10-15 18:44:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31PyymfNruL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31PyymfNruL._SL200_.jpg' ]
 comments: true
