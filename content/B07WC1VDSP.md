@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.42 % en LEGO Technic 42108 Kran-LKW'
-date: 2020-10-14 08:36:33
+date: 2020-10-15 12:51:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-B0Y2HH1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-B0Y2HH1L._SL200_.jpg' ]
 comments: true

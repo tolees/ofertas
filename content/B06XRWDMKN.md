@@ -14,11 +14,11 @@ comparePrice: 132 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Michael Kors Adrianna Iii  Gafas de Sol Unisex Adulto  Negro  Nude Transparent   53](https://www.amazon.es/dp/B06XRWDMKN/?tag=redken-21) a 60.41 EUR (original: 132 EUR) (54.23 %  de descuento) en el siguiente enlace!
+Está [Michael Kors Adrianna Iii  Gafas de Sol Unisex Adulto  Negro  Nude Transparent   53](https://www.amazon.es/dp/B06XRWDMKN/?tag=redken-21) con 54.23 de descuento por 60.41 EUR (original: 132 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31T1qmYxOnL._SL200_.jpg)](https://www.amazon.es/dp/B06XRWDMKN/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XRWDMKN/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XRWDMKN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

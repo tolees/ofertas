@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 58.74 % en Western Digital WDS500G2B0B WD Blue 3D N'
-date: 2020-10-14 06:17:02
+date: 2020-10-15 12:30:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rjnHD-cEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rjnHD-cEL._SL200_.jpg' ]
 comments: true
