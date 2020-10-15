@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OtterBox Defender for Apple iPad 9.7 Inc al 63.86 % de descuento'
-date: 2020-10-14 00:29:56
+date: 2020-10-15 14:34:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg' ]
 comments: true
