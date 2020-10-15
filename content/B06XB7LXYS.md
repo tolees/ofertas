@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.31 % en Skechers Men Elite Flex-Hartnell Trainer'
-date: 2020-10-14 08:29:57
+date: 2020-10-15 10:25:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mP7pd8AhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mP7pd8AhL._SL200_.jpg' ]
 comments: true

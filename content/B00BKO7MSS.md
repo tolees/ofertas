@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley STA46011-TB STA46011 Dual Quick  al 52.10 % de descuento'
-date: 2020-10-14 10:16:19
+date: 2020-10-15 10:35:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/414DeCB5gNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414DeCB5gNL._SL200_.jpg' ]
 comments: true

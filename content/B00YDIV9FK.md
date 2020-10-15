@@ -14,11 +14,11 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Merrell - sandalias de Cuero mujer  Morado  FUCHSIA   38 EU  5 UK ](https://www.amazon.es/dp/B00YDIV9FK/?tag=redken-21) a 52.19 EUR (original: 85 EUR) (38.60 %  de descuento) en el siguiente enlace!
+Está [Merrell - sandalias de Cuero mujer  Morado  FUCHSIA   38 EU  5 UK ](https://www.amazon.es/dp/B00YDIV9FK/?tag=redken-21) con 38.60 de descuento por 52.19 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41o71PL8jOL._SL200_.jpg)](https://www.amazon.es/dp/B00YDIV9FK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00YDIV9FK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00YDIV9FK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
