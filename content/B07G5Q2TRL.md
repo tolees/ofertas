@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'SanDisk Extreme Pro 400 GB microSDXC Mem al 28.24 % de descuento'
-date: 2020-02-10 18:45:26
-thumbnailImage: 'https://m.media-amazon.com/images/I/41oTnpMDkZL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41oTnpMDkZL._AC_._SL200_.jpg' ]
+title: 'SanDisk Extreme Pro Scheda di Memoria mi al 43.46 % de descuento'
+date: 2020-10-15 06:43:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/41oTnpMDkZL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41oTnpMDkZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07G5Q2TRL
 description:
-actualPrice: 61.99 GBP
-comparePrice: 86.39 GBP
+actualPrice: 81.99 EUR
+comparePrice: 145.0 EUR
 inStock: true
 ---
 
-Está [SanDisk Extreme Pro 400 GB microSDXC Memory Card + SD Adapter with A2 App Performance + Rescue Pro Deluxe 170 MB/s Class 10  UHS-I  U3  V30  Red/Gold SDSQXCZ-400G-GN6MA](https://www.amazon.co.uk/dp/B07G5Q2TRL/?tag=redken01-21) con 28.24 de descuento por 61.99 GBP (original: 86.39 GBP) en el siguiente enlace!
+Está [SanDisk Extreme Pro Scheda di Memoria microSDXC da 400 GB e Adattatore SD con App Performance A2 e Rescue Pro Deluxe  fino a 170 MB/sec  Classe 10  UHS-3  U3  V30](https://www.amazon.it/dp/B07G5Q2TRL/?tag=redken03-21) con 43.46 de descuento por 81.99 EUR (original: 145.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41oTnpMDkZL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07G5Q2TRL/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/41oTnpMDkZL._SL200_.jpg)](https://www.amazon.it/dp/B07G5Q2TRL/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07G5Q2TRL/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07G5Q2TRL/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 308 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gucci GG0075S-002 gafas de sol  Dorado/Negro  56 Unisex](https://www.amazon.es/dp/B06XCC1QR6/?tag=redken-21) a 182.3 EUR (original: 308 EUR) (40.81 %  de descuento) en el siguiente enlace!
+Está [Gucci GG0075S-002 gafas de sol  Dorado/Negro  56 Unisex](https://www.amazon.es/dp/B06XCC1QR6/?tag=redken-21) con 40.81 de descuento por 182.3 EUR (original: 308 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31lcjkvgjsL._SL200_.jpg)](https://www.amazon.es/dp/B06XCC1QR6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XCC1QR6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XCC1QR6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

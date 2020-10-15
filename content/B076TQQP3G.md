@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.08 % en Tommy Hilfiger Core Stretch Slim Vneck T'
-date: 2020-10-13 01:47:35
+date: 2020-10-15 06:20:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31yAywjUdOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31yAywjUdOL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 125 EUR
 inStock: true
 ---
 
-Está [Brooks Brothers Sport Non-Iron Oxford Slim - Camisa para hombre  Azul  Light/Pastel Blue 60   56/XXL](https://www.amazon.es/dp/B00YUK7QDA/?tag=redken-21) con 55.74 de descuento por 55.32 EUR (original: 125 EUR) en el siguiente enlace!
+Ahora mismo tienes [Brooks Brothers Sport Non-Iron Oxford Slim - Camisa para hombre  Azul  Light/Pastel Blue 60   56/XXL](https://www.amazon.es/dp/B00YUK7QDA/?tag=redken-21) a 55.32 EUR (original: 125 EUR) (55.74 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aEHvSvQpL._SL200_.jpg)](https://www.amazon.es/dp/B00YUK7QDA/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00YUK7QDA/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00YUK7QDA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

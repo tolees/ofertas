@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.55 % en Klipsch Synergy Black Label B-100 Booksh'
-date: 2020-10-13 20:28:39
+date: 2020-10-15 06:42:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CWpff80QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CWpff80QL._SL200_.jpg' ]
 comments: true

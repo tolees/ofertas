@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.11 % en Levi s 501 Coupe Originale - Jean - Homm'
-date: 2020-10-13 01:43:26
+date: 2020-10-15 06:15:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41prtsJ61sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41prtsJ61sL._SL200_.jpg' ]
 comments: true

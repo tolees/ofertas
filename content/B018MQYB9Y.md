@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Alpha 68K Interchangeable Lens Came al 34.08 % de descuento'
+title: 'Sony ILCA68K.CEC Alpha 68 A-Mount Digita al 33.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E3MlQJOUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E3MlQJOUL._SL200_.jpg' ]
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B018MQYB9Y
 description:
-actualPrice: 441.65 GBP
-comparePrice: 670 GBP
+actualPrice: 497.17 EUR
+comparePrice: 749 EUR
 inStock: true
 ---
 
-Está [Sony Alpha 68K Interchangeable Lens Camera with 18-55 mm Zoom Lens  A mount  APS-C Sensor  4D Focus  79 Points Phase Detection  - Black](https://www.amazon.co.uk/dp/B018MQYB9Y/?tag=redken01-21) con 34.08 de descuento por 441.65 GBP (original: 670 GBP) en el siguiente enlace!
+Está [Sony ILCA68K.CEC Alpha 68 A-Mount Digitalkamera  24 Megapixel  6 7 cm  2 7 Zoll  Display  79-Phasen AF-Messfelder  inkl. SAL-1855 Objektiv schwarz](https://www.amazon.de/dp/B018MQYB9Y/?tag=redken02-21) con 33.62 de descuento por 497.17 EUR (original: 749 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41E3MlQJOUL._SL200_.jpg)](https://www.amazon.co.uk/dp/B018MQYB9Y/?tag=redken01-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41E3MlQJOUL._SL200_.jpg)](https://www.amazon.de/dp/B018MQYB9Y/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B018MQYB9Y/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B018MQYB9Y/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
