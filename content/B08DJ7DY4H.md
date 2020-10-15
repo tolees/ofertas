@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Borsa Donna Borsa Porta PC 15.6 Pollici '
-date: 2020-10-13 05:47:58
+date: 2020-10-14 23:35:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TvWaFtFeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TvWaFtFeL._SL200_.jpg' ]
 comments: true

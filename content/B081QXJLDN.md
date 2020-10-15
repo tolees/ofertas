@@ -14,11 +14,11 @@ comparePrice: 75.55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Razer Basilisk V2 - Kabelgebundene Gaming-Maus mit 11 programmierbaren Tasten  Optischen Maus-Switches und Optischer 20K Sensor für Maximale Präzison](https://www.amazon.de/dp/B081QXJLDN/?tag=redken02-21) a 55.0 EUR (original: 75.55 EUR) (27.20 %  de descuento) en el siguiente enlace!
+Está [Razer Basilisk V2 - Kabelgebundene Gaming-Maus mit 11 programmierbaren Tasten  Optischen Maus-Switches und Optischer 20K Sensor für Maximale Präzison](https://www.amazon.de/dp/B081QXJLDN/?tag=redken02-21) con 27.20 de descuento por 55.0 EUR (original: 75.55 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31A+Y023r3L._SL200_.jpg)](https://www.amazon.de/dp/B081QXJLDN/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B081QXJLDN/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B081QXJLDN/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

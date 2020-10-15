@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic Crew B Felpa  Blu  HM Ssn al 29.91 % de descuento'
-date: 2020-10-13 23:17:09
+date: 2020-10-14 23:43:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gnE9mKiQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gnE9mKiQL._SL200_.jpg' ]
 comments: true

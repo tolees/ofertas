@@ -14,11 +14,11 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Th6386 Camiseta  Verde  caqui S7t   X-Large  Talla del fabricante: 6  para Hombre](https://www.amazon.es/dp/B07MRJK4N9/?tag=redken-21) a 27.45 EUR (original: 50 EUR) (45.10 %  de descuento) en el siguiente enlace!
+Está [Lacoste Th6386 Camiseta  Verde  caqui S7t   X-Large  Talla del fabricante: 6  para Hombre](https://www.amazon.es/dp/B07MRJK4N9/?tag=redken-21) con 45.10 de descuento por 27.45 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41LKb8leHyL._SL200_.jpg)](https://www.amazon.es/dp/B07MRJK4N9/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07MRJK4N9/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MRJK4N9/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

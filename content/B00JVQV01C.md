@@ -14,11 +14,11 @@ comparePrice: 13.48 EUR
 inStock: true
 ---
 
-Está [El Rey León  2011  [DVD]](https://www.amazon.es/dp/B00JVQV01C/?tag=redken-21) con 33.31 de descuento por 8.99 EUR (original: 13.48 EUR) en el siguiente enlace!
+Ahora mismo tienes [El Rey León  2011  [DVD]](https://www.amazon.es/dp/B00JVQV01C/?tag=redken-21) a 8.99 EUR (original: 13.48 EUR) (33.31 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51vYbNJPkaL._SL200_.jpg)](https://www.amazon.es/dp/B00JVQV01C/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00JVQV01C/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00JVQV01C/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

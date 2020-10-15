@@ -14,11 +14,11 @@ comparePrice: 22 EUR
 inStock: true
 ---
 
-Está [Kappa Tesis SS Camiseta  Hombre  Rojo  6Y](https://www.amazon.es/dp/B01NCUW1RA/?tag=redken-21) con 47.95 de descuento por 11.45 EUR (original: 22 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kappa Tesis SS Camiseta  Hombre  Rojo  6Y](https://www.amazon.es/dp/B01NCUW1RA/?tag=redken-21) a 11.45 EUR (original: 22 EUR) (47.95 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FopLpxcZL._SL200_.jpg)](https://www.amazon.es/dp/B01NCUW1RA/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01NCUW1RA/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01NCUW1RA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
