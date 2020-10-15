@@ -14,11 +14,11 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mod Gray/Black 600   45 EU](https://www.amazon.es/dp/B07CTM3LBJ/?tag=redken-21) a 32.64 EUR (original: 70 EUR) (53.37 %  de descuento) en el siguiente enlace!
+Está [Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mod Gray/Black 600   45 EU](https://www.amazon.es/dp/B07CTM3LBJ/?tag=redken-21) con 53.37 de descuento por 32.64 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41avF58tTLL._SL200_.jpg)](https://www.amazon.es/dp/B07CTM3LBJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07CTM3LBJ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CTM3LBJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

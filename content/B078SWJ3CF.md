@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme SSD portátil 500GB - has al 42.44 % de descuento'
-date: 2020-10-14 05:22:19
+date: 2020-10-15 11:43:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ce7LVtXnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ce7LVtXnL._SL200_.jpg' ]
 comments: true

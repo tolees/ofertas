@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.01 % en Crocs Classic U  Zuecos con Correa Trase'
-date: 2020-10-10 09:17:00
+date: 2020-10-15 11:35:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31k8B48RfyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31k8B48RfyL._SL200_.jpg' ]
 comments: true

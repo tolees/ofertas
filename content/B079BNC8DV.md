@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo tee SS Crew Ne al 40.04 % de descuento'
-date: 2020-10-14 05:31:03
+date: 2020-10-15 11:15:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41d9lkn7JIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41d9lkn7JIL._SL200_.jpg' ]
 comments: true
