@@ -14,11 +14,11 @@ comparePrice: 315.98 EUR
 inStock: true
 ---
 
-Está [Xerox WorkCentre 3225V/DNI - Impresora multifunción  30000 páginas por Mes  3500 páginas por Mes  600 MHz  29 ppm  Postscript 3  10s ](https://www.amazon.es/dp/B00OHN2YAU/?tag=redken-21) con 50.34 de descuento por 156.9 EUR (original: 315.98 EUR) en el siguiente enlace!
+Ahora mismo tienes [Xerox WorkCentre 3225V/DNI - Impresora multifunción  30000 páginas por Mes  3500 páginas por Mes  600 MHz  29 ppm  Postscript 3  10s ](https://www.amazon.es/dp/B00OHN2YAU/?tag=redken-21) a 156.9 EUR (original: 315.98 EUR) (50.34 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318zRK8D1kL._SL200_.jpg)](https://www.amazon.es/dp/B00OHN2YAU/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00OHN2YAU/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00OHN2YAU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

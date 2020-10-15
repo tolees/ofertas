@@ -14,11 +14,11 @@ comparePrice: 250 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DKNY Trey Espadrille Pointy Slip On  Alpargatas para Mujer  Negro  Black   41 EU](https://www.amazon.es/dp/B00X5JGE9Y/?tag=redken-21) a 44.12 EUR (original: 250 EUR) (82.35 %  de descuento) en el siguiente enlace!
+Está [DKNY Trey Espadrille Pointy Slip On  Alpargatas para Mujer  Negro  Black   41 EU](https://www.amazon.es/dp/B00X5JGE9Y/?tag=redken-21) con 82.35 de descuento por 44.12 EUR (original: 250 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41At-WOmSsL._SL200_.jpg)](https://www.amazon.es/dp/B00X5JGE9Y/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00X5JGE9Y/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00X5JGE9Y/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

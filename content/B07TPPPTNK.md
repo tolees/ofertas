@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Relaxed Graphic Hoodie Sudadera   al 34.30 % de descuento'
-date: 2020-10-13 09:30:03
+date: 2020-10-15 07:39:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fjuE6y+wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fjuE6y+wL._SL200_.jpg' ]
 comments: true

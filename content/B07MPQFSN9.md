@@ -14,11 +14,11 @@ comparePrice: 59.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony SRS-XB12 Bluetooth Lautsprecher  tragbar  kabellos  Extra Bass  wasserabweisend  Freisprechfunktion für Anrufe  grau](https://www.amazon.de/dp/B07MPQFSN9/?tag=redken02-21) a 44.48 EUR (original: 59.9 EUR) (25.74 %  de descuento) en el siguiente enlace!
+Está [Sony SRS-XB12 Bluetooth Lautsprecher  tragbar  kabellos  Extra Bass  wasserabweisend  Freisprechfunktion für Anrufe  grau](https://www.amazon.de/dp/B07MPQFSN9/?tag=redken02-21) con 25.74 de descuento por 44.48 EUR (original: 59.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31nFtGLMBKL._SL200_.jpg)](https://www.amazon.de/dp/B07MPQFSN9/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07MPQFSN9/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07MPQFSN9/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

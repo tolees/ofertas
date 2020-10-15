@@ -14,11 +14,11 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [G-STAR RAW Korpaz Graphic T-shirt  Camiseta Hombre  Negro  Pacific 1862   Medium](https://www.amazon.es/dp/B07M9QKZFJ/?tag=redken-21) a 17.5 EUR (original: 35 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [G-STAR RAW Korpaz Graphic T-shirt  Camiseta Hombre  Negro  Pacific 1862   Medium](https://www.amazon.es/dp/B07M9QKZFJ/?tag=redken-21) con 50.00 de descuento por 17.5 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CVcvBjiUL._SL200_.jpg)](https://www.amazon.es/dp/B07M9QKZFJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07M9QKZFJ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07M9QKZFJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

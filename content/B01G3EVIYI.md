@@ -14,11 +14,11 @@ comparePrice: 19.43 EUR
 inStock: true
 ---
 
-Está [Batman V Superman: El Amanecer De La Justicia  Blu-Ray + Copia Digital [Blu-ray]](https://www.amazon.es/dp/B01G3EVIYI/?tag=redken-21) con 74.27 de descuento por 5 EUR (original: 19.43 EUR) en el siguiente enlace!
+Ahora mismo tienes [Batman V Superman: El Amanecer De La Justicia  Blu-Ray + Copia Digital [Blu-ray]](https://www.amazon.es/dp/B01G3EVIYI/?tag=redken-21) a 5 EUR (original: 19.43 EUR) (74.27 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KO-t28cFL._SL200_.jpg)](https://www.amazon.es/dp/B01G3EVIYI/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01G3EVIYI/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01G3EVIYI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

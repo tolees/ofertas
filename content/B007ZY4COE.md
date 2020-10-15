@@ -14,11 +14,11 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Está [Pedigree Dentastix de uso diario para higiene oral para perros pequeños - 56 sticks](https://www.amazon.es/dp/B007ZY4COE/?tag=redken-21) con 26.69 de descuento por 8.79 EUR (original: 11.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pedigree Dentastix de uso diario para higiene oral para perros pequeños - 56 sticks](https://www.amazon.es/dp/B007ZY4COE/?tag=redken-21) a 8.79 EUR (original: 11.99 EUR) (26.69 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51IAWibtQNL._SL200_.jpg)](https://www.amazon.es/dp/B007ZY4COE/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B007ZY4COE/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B007ZY4COE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
