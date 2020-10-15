@@ -14,11 +14,11 @@ comparePrice: 69.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tommy Hilfiger Core Tommy Slim Polo  Gris  Cloud Htr 501   Medium para Hombre](https://www.amazon.es/dp/B079Y9FLXQ/?tag=redken-21) a 34 EUR (original: 69.9 EUR) (51.36 %  de descuento) en el siguiente enlace!
+Está [Tommy Hilfiger Core Tommy Slim Polo  Gris  Cloud Htr 501   Medium para Hombre](https://www.amazon.es/dp/B079Y9FLXQ/?tag=redken-21) con 51.36 de descuento por 34 EUR (original: 69.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419goRu4qeL._SL200_.jpg)](https://www.amazon.es/dp/B079Y9FLXQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079Y9FLXQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079Y9FLXQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

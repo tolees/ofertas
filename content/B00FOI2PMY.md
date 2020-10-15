@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.05 % en Calvin Klein Men s Modern Essentials Tru'
-date: 2020-10-14 00:28:20
+date: 2020-10-15 02:27:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wnMw15rpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wnMw15rpL._SL200_.jpg' ]
 comments: true

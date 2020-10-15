@@ -14,11 +14,11 @@ comparePrice: 15.15 EUR
 inStock: true
 ---
 
-Está [L Óreal Mythic Oil Champú Cabellos Normales y Finos - 250 ml](https://www.amazon.es/dp/B01FGV6YJS/?tag=redken-21) con 40.92 de descuento por 8.95 EUR (original: 15.15 EUR) en el siguiente enlace!
+Ahora mismo tienes [L Óreal Mythic Oil Champú Cabellos Normales y Finos - 250 ml](https://www.amazon.es/dp/B01FGV6YJS/?tag=redken-21) a 8.95 EUR (original: 15.15 EUR) (40.92 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41St1au030L._SL200_.jpg)](https://www.amazon.es/dp/B01FGV6YJS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01FGV6YJS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01FGV6YJS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

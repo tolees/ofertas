@@ -14,11 +14,11 @@ comparePrice: 17.23 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Prometheus/ Abraham Lincoln Cazador De Vampiros/ Yo  Robot - Bd Tri [Blu-ray]](https://www.amazon.es/dp/B00A6MFM8C/?tag=redken-21) a 10.62 EUR (original: 17.23 EUR) (38.36 %  de descuento) en el siguiente enlace!
+Está [Prometheus/ Abraham Lincoln Cazador De Vampiros/ Yo  Robot - Bd Tri [Blu-ray]](https://www.amazon.es/dp/B00A6MFM8C/?tag=redken-21) con 38.36 de descuento por 10.62 EUR (original: 17.23 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51MZCgH1ZtL._SL200_.jpg)](https://www.amazon.es/dp/B00A6MFM8C/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00A6MFM8C/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00A6MFM8C/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

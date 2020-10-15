@@ -14,11 +14,11 @@ comparePrice: 27.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Wella Elements Leave In - Acondicionador  150 ml](https://www.amazon.es/dp/B00RZTVGBQ/?tag=redken-21) a 11.29 EUR (original: 27.5 EUR) (58.95 %  de descuento) en el siguiente enlace!
+Está [Wella Elements Leave In - Acondicionador  150 ml](https://www.amazon.es/dp/B00RZTVGBQ/?tag=redken-21) con 58.95 de descuento por 11.29 EUR (original: 27.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21Sbf8Nj2GL._SL200_.jpg)](https://www.amazon.es/dp/B00RZTVGBQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00RZTVGBQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00RZTVGBQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
