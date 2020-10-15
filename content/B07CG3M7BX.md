@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit Crew Neck Noo al 42.02 % de descuento'
-date: 2020-10-10 09:04:05
+date: 2020-10-15 19:26:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31sPM2jkEkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31sPM2jkEkL._SL200_.jpg' ]
 comments: true

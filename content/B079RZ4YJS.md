@@ -14,11 +14,11 @@ comparePrice: 65.63 EUR
 inStock: true
 ---
 
-Está [Diamond- Estatua Batman   DIADC180390 ](https://www.amazon.es/dp/B079RZ4YJS/?tag=redken-21) con 25.61 de descuento por 48.82 EUR (original: 65.63 EUR) en el siguiente enlace!
+Ahora mismo tienes [Diamond- Estatua Batman   DIADC180390 ](https://www.amazon.es/dp/B079RZ4YJS/?tag=redken-21) a 48.82 EUR (original: 65.63 EUR) (25.61 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31K48GNYkZL._SL200_.jpg)](https://www.amazon.es/dp/B079RZ4YJS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B079RZ4YJS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B079RZ4YJS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

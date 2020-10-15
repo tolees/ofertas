@@ -14,11 +14,11 @@ comparePrice: 58.01 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [GANT Footwear Krista  Alpargata para Mujer   Dusty Pink G58   36 EU](https://www.amazon.es/dp/B07FQL81DG/?tag=redken-21) a 38.95 EUR (original: 58.01 EUR) (32.86 %  de descuento) en el siguiente enlace!
+Está [GANT Footwear Krista  Alpargata para Mujer   Dusty Pink G58   36 EU](https://www.amazon.es/dp/B07FQL81DG/?tag=redken-21) con 32.86 de descuento por 38.95 EUR (original: 58.01 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31fDXtkeGvL._SL200_.jpg)](https://www.amazon.es/dp/B07FQL81DG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FQL81DG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FQL81DG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
