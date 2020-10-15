@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - 5324 - Steinofen Pi al 28.58 % de descuento'
-date: 2020-10-13 00:51:07
+date: 2020-10-15 00:28:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W8l5WqDLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W8l5WqDLL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 199.9 EUR
 inStock: true
 ---
 
-Está [Vanguard Alta Pro 263AP - Trípode de aleación de Aluminio con rótula PH-32](https://www.amazon.es/dp/B00BEQ16AM/?tag=redken-21) con 25.33 de descuento por 149.26 EUR (original: 199.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Vanguard Alta Pro 263AP - Trípode de aleación de Aluminio con rótula PH-32](https://www.amazon.es/dp/B00BEQ16AM/?tag=redken-21) a 149.26 EUR (original: 199.9 EUR) (25.33 %  de descuento) en el siguiente enlace!
 
 [![]()](https://www.amazon.es/dp/B00BEQ16AM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00BEQ16AM/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00BEQ16AM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

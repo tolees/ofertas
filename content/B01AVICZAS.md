@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.02 % en TOMY - Tapis Aquadoodle Classique 4 Coul'
-date: 2020-10-13 18:10:41
+date: 2020-10-15 00:48:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lPXPC3jaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lPXPC3jaL._SL200_.jpg' ]
 comments: true

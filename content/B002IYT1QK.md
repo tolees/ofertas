@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel LR7 Recharges pour Rollers Energe al 26.93 % de descuento'
-date: 2020-10-13 01:33:46
+date: 2020-10-15 00:58:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Fj3k2k-tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Fj3k2k-tL._SL200_.jpg' ]
 comments: true

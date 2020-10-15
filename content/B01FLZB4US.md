@@ -14,11 +14,11 @@ comparePrice: 149 EUR
 inStock: true
 ---
 
-Está [Carolina Herrera SHE594550AT1 Gafas de Sol  Multicolor  55 para Mujer](https://www.amazon.es/dp/B01FLZB4US/?tag=redken-21) con 47.56 de descuento por 78.13 EUR (original: 149 EUR) en el siguiente enlace!
+Ahora mismo tienes [Carolina Herrera SHE594550AT1 Gafas de Sol  Multicolor  55 para Mujer](https://www.amazon.es/dp/B01FLZB4US/?tag=redken-21) a 78.13 EUR (original: 149 EUR) (47.56 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318%2Be8tMtxL._SL200_.jpg)](https://www.amazon.es/dp/B01FLZB4US/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01FLZB4US/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01FLZB4US/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

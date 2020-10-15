@@ -14,11 +14,11 @@ comparePrice: 13.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Drasanvi Collmar Cao Colágeno Marino Hidrolizado con Cacao  DHA  Magnesio y Calcio - 300 gr](https://www.amazon.es/dp/B01DNZ8MDA/?tag=redken-21) a 6.67 EUR (original: 13.2 EUR) (49.47 %  de descuento) en el siguiente enlace!
+Está [Drasanvi Collmar Cao Colágeno Marino Hidrolizado con Cacao  DHA  Magnesio y Calcio - 300 gr](https://www.amazon.es/dp/B01DNZ8MDA/?tag=redken-21) con 49.47 de descuento por 6.67 EUR (original: 13.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51LV8pRsz8L._SL200_.jpg)](https://www.amazon.es/dp/B01DNZ8MDA/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01DNZ8MDA/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01DNZ8MDA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
