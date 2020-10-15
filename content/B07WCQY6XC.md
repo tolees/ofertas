@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO NINJAGO Kai Avatar - Arcade Pod 717 al 40.04 % de descuento'
-date: 2020-10-13 16:18:32
+date: 2020-10-15 08:14:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hWT4WzXtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hWT4WzXtL._SL200_.jpg' ]
 comments: true

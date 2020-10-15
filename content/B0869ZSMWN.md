@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Durex Preservativos Invisibles Extra Sen al 40.72 % de descuento'
-date: 2020-10-08 07:06:13
+title: 'Durex Preservativos Invisibles Extra Sen al 26.17 % de descuento'
+date: 2020-10-15 08:02:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/414feILfYQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414feILfYQL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B0869ZSMWN
 description:
 actualPrice: 7.7 EUR
-comparePrice: 12.99 EUR
+comparePrice: 10.43 EUR
 inStock: true
 ---
 
-Está [Durex Preservativos Invisibles Extra Sensitivos - 12 condones](https://www.amazon.es/dp/B0869ZSMWN/?tag=redken-21) con 40.72 de descuento por 7.7 EUR (original: 12.99 EUR) en el siguiente enlace!
+Está [Durex Preservativos Invisibles Extra Sensitivos - 12 condones](https://www.amazon.es/dp/B0869ZSMWN/?tag=redken-21) con 26.17 de descuento por 7.7 EUR (original: 10.43 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/414feILfYQL._SL200_.jpg)](https://www.amazon.es/dp/B0869ZSMWN/?tag=redken-21)
 

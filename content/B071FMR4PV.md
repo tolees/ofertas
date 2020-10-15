@@ -14,11 +14,11 @@ comparePrice: 129.95 EUR
 inStock: true
 ---
 
-Está [Osram Planon Luminaria LED  36 W  Blanco frío  60 x 60cm](https://www.amazon.es/dp/B071FMR4PV/?tag=redken-21) con 64.19 de descuento por 46.53 EUR (original: 129.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Osram Planon Luminaria LED  36 W  Blanco frío  60 x 60cm](https://www.amazon.es/dp/B071FMR4PV/?tag=redken-21) a 46.53 EUR (original: 129.95 EUR) (64.19 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31z6uu1W--L._SL200_.jpg)](https://www.amazon.es/dp/B071FMR4PV/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071FMR4PV/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B071FMR4PV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

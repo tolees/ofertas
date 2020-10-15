@@ -14,11 +14,11 @@ comparePrice: 140.44 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [El Casco M-265 Perforador de gran capacidad  6.3 mm  gris](https://www.amazon.es/dp/B00AWORZA2/?tag=redken-21) a 29.45 EUR (original: 140.44 EUR) (79.03 %  de descuento) en el siguiente enlace!
+Está [El Casco M-265 Perforador de gran capacidad  6.3 mm  gris](https://www.amazon.es/dp/B00AWORZA2/?tag=redken-21) con 79.03 de descuento por 29.45 EUR (original: 140.44 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QurtkNBZL._SL200_.jpg)](https://www.amazon.es/dp/B00AWORZA2/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00AWORZA2/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00AWORZA2/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

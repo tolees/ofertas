@@ -14,11 +14,11 @@ comparePrice: 51.95 EUR
 inStock: true
 ---
 
-Está [Unica 50 Ml.](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21) con 58.98 de descuento por 21.31 EUR (original: 51.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Unica 50 Ml.](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21) a 21.31 EUR (original: 51.95 EUR) (58.98 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31GBu81ctPL._SL200_.jpg)](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B074CZGN6N/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
