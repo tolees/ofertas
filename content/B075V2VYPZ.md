@@ -14,11 +14,11 @@ comparePrice: 17 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Grace Cole  Regalo para el cuidado de la piel - 500 gr.](https://www.amazon.es/dp/B075V2VYPZ/?tag=redken-21) a 7.33 EUR (original: 17 EUR) (56.88 %  de descuento) en el siguiente enlace!
+Está [Grace Cole  Regalo para el cuidado de la piel - 500 gr.](https://www.amazon.es/dp/B075V2VYPZ/?tag=redken-21) con 56.88 de descuento por 7.33 EUR (original: 17 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51otZw5XjGL._SL200_.jpg)](https://www.amazon.es/dp/B075V2VYPZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B075V2VYPZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B075V2VYPZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

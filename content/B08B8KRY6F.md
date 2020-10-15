@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Kepae Modèle de Construction pour Adulte'
-date: 2020-10-13 02:02:48
+date: 2020-10-15 01:07:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51plsVrWQyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51plsVrWQyL._SL200_.jpg' ]
 comments: true
