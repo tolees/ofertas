@@ -14,11 +14,11 @@ comparePrice: 41.99 EUR
 inStock: true
 ---
 
-Está [deAO RC Carrera a Coches de Choque Teledirigidos *Verde vs Rojo* - Set de 2 Coches Acrobáticos Rojo 27MHz / Verde 40MHz](https://www.amazon.es/dp/B06VVB6C5R/?tag=redken-21) con 30.96 de descuento por 28.99 EUR (original: 41.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [deAO RC Carrera a Coches de Choque Teledirigidos *Verde vs Rojo* - Set de 2 Coches Acrobáticos Rojo 27MHz / Verde 40MHz](https://www.amazon.es/dp/B06VVB6C5R/?tag=redken-21) a 28.99 EUR (original: 41.99 EUR) (30.96 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ryz2GcAnL._SL200_.jpg)](https://www.amazon.es/dp/B06VVB6C5R/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06VVB6C5R/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B06VVB6C5R/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

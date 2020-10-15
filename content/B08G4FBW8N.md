@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.75 % en Bluetooth Shower Speaker  VicTsing C6 Wa'
-date: 2020-10-10 19:08:29
+date: 2020-10-15 13:15:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VzD7bQw3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VzD7bQw3L._SL200_.jpg' ]
 comments: true

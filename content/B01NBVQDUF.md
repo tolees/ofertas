@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'HUGO BOSS 1513476 Men Chronograph Quartz al 50.00 % de descuento'
-date: 2020-01-04 20:42:45
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5186FsW2w5L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5186FsW2w5L._SL200_.jpg' ]
+title: 'Descuento del 28.32 % en Hugo BOSS Reloj para hombre 1513476'
+date: 2020-10-15 13:56:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/41-KY2v4joL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41-KY2v4joL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01NBVQDUF
 description:
-actualPrice: 139.5 GBP
-comparePrice: 279 GBP
+actualPrice: 235.83 EUR
+comparePrice: 329.0 EUR
 inStock: true
 ---
 
-Está [HUGO BOSS 1513476 Men Chronograph Quartz Watch with Leather Strap  Grey](https://www.amazon.co.uk/dp/B01NBVQDUF/?tag=redken01-21) con 50.00 de descuento por 139.5 GBP (original: 279 GBP) en el siguiente enlace!
+Tienes [Hugo BOSS Reloj para hombre 1513476](https://www.amazon.es/dp/B01NBVQDUF/?tag=redken-21) con un 28.32 % de descuento con precio de oferta de 235.83 EUR (original: 329.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/5186FsW2w5L._SL200_.jpg)](https://www.amazon.co.uk/dp/B01NBVQDUF/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/41-KY2v4joL._SL200_.jpg)](https://www.amazon.es/dp/B01NBVQDUF/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01NBVQDUF/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B01NBVQDUF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
