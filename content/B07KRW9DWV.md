@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Columbia Triple Canyon Polo técnico  Hombre  Verde  Cypress   L](https://www.amazon.es/dp/B07KRW9DWV/?tag=redken-21) con 60.11 de descuento por 19.94 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Triple Canyon Polo técnico  Hombre  Verde  Cypress   L](https://www.amazon.es/dp/B07KRW9DWV/?tag=redken-21) a 19.94 EUR (original: 49.99 EUR) (60.11 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Jtr91pIAL._SL200_.jpg)](https://www.amazon.es/dp/B07KRW9DWV/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KRW9DWV/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KRW9DWV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
