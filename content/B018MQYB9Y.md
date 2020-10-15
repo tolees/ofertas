@@ -14,11 +14,11 @@ comparePrice: 749 EUR
 inStock: true
 ---
 
-Está [Sony ILCA68K.CEC Alpha 68 A-Mount Digitalkamera  24 Megapixel  6 7 cm  2 7 Zoll  Display  79-Phasen AF-Messfelder  inkl. SAL-1855 Objektiv schwarz](https://www.amazon.de/dp/B018MQYB9Y/?tag=redken02-21) con 33.62 de descuento por 497.17 EUR (original: 749 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony ILCA68K.CEC Alpha 68 A-Mount Digitalkamera  24 Megapixel  6 7 cm  2 7 Zoll  Display  79-Phasen AF-Messfelder  inkl. SAL-1855 Objektiv schwarz](https://www.amazon.de/dp/B018MQYB9Y/?tag=redken02-21) a 497.17 EUR (original: 749 EUR) (33.62 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41E3MlQJOUL._SL200_.jpg)](https://www.amazon.de/dp/B018MQYB9Y/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B018MQYB9Y/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B018MQYB9Y/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

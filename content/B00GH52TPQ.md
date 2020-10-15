@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krups XN1005 Nespresso Inissia - Cafeter al 32.80 % de descuento'
-date: 2020-10-13 14:11:17
+date: 2020-10-15 07:19:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cPyLoCY+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cPyLoCY+L._SL200_.jpg' ]
 comments: true
