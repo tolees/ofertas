@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY STST1-73615 - Bolsa para herrami al 39.80 % de descuento'
-date: 2020-10-14 10:56:23
+date: 2020-10-15 17:36:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/413JNCuKaSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413JNCuKaSL._SL200_.jpg' ]
 comments: true
