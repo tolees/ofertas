@@ -14,11 +14,11 @@ comparePrice: 102 EUR
 inStock: true
 ---
 
-Está [Lacoste Sonnenbrille L789s Gafas de sol  Havana  53 Unisex-niños](https://www.amazon.es/dp/B01LSVGNP0/?tag=redken-21) con 46.41 de descuento por 54.66 EUR (original: 102 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Sonnenbrille L789s Gafas de sol  Havana  53 Unisex-niños](https://www.amazon.es/dp/B01LSVGNP0/?tag=redken-21) a 54.66 EUR (original: 102 EUR) (46.41 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31DnOfPzOFL._SL200_.jpg)](https://www.amazon.es/dp/B01LSVGNP0/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01LSVGNP0/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01LSVGNP0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

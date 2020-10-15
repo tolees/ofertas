@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Camara IP YI Home Camera 3 Camara Vigila al 46.67 % de descuento'
-date: 2020-10-14 14:00:54
-thumbnailImage: 'https://m.media-amazon.com/images/I/31ljk5512qL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31ljk5512qL._SL200_.jpg' ]
+date: 2020-10-15 15:03:49
+thumbnailImage: 'https://m.media-amazon.com/images/I/31NCBs5bGkL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31NCBs5bGkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Camara IP YI Home Camera 3 Camara Vigilancia Wifi Interior Camara Wifi 1080p 2.4G Sensor de Movimiento  Inteligencia Artificial Detección Humana Análisis de Sonido Sistema Seguridad para Bebé y Perros](https://www.amazon.es/dp/B07M6VNDXK/?tag=redken-21) con 46.67 de descuento por 31.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31ljk5512qL._SL200_.jpg)](https://www.amazon.es/dp/B07M6VNDXK/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/31NCBs5bGkL._SL200_.jpg)](https://www.amazon.es/dp/B07M6VNDXK/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07M6VNDXK/?tag=redken-21)
 

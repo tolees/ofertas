@@ -14,11 +14,11 @@ comparePrice: 17.68 EUR
 inStock: true
 ---
 
-Está [BioTech ALA Alpha Lipoic Ácidos Grasos Esenciales  Sin Sabor - 50 gr](https://www.amazon.es/dp/B07BNLLCGP/?tag=redken-21) con 32.35 de descuento por 11.96 EUR (original: 17.68 EUR) en el siguiente enlace!
+Ahora mismo tienes [BioTech ALA Alpha Lipoic Ácidos Grasos Esenciales  Sin Sabor - 50 gr](https://www.amazon.es/dp/B07BNLLCGP/?tag=redken-21) a 11.96 EUR (original: 17.68 EUR) (32.35 %  de descuento) en el siguiente enlace!
 
 [![]()](https://www.amazon.es/dp/B07BNLLCGP/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BNLLCGP/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BNLLCGP/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

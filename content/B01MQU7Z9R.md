@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Timberland Adventure 2.0 Cupsole  Botas  al 47.53 % de descuento'
-date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fTD-r7mGL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fTD-r7mGL._SL200_.jpg' ]
+title: 'Timberland Adventure 2.0 Cupsole Chukka  al 50.71 % de descuento'
+date: 2020-10-15 15:23:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/31rQulFBokL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31rQulFBokL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01MQU7Z9R
 description:
-actualPrice: 73.46 EUR
-comparePrice: 140 EUR
+actualPrice: 69.0 EUR
+comparePrice: 140.0 EUR
 inStock: true
 ---
 
-Está [Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  Verde  Dark Olive Roughcut   44.5 EU](https://www.amazon.es/dp/B01MQU7Z9R/?tag=redken-21) con 47.53 de descuento por 73.46 EUR (original: 140 EUR) en el siguiente enlace!
+Está [Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Verde Dark Olive  44.5 EU](https://www.amazon.es/dp/B01MQU7Z9R/?tag=redken-21) con 50.71 de descuento por 69.0 EUR (original: 140.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41fTD-r7mGL._SL200_.jpg)](https://www.amazon.es/dp/B01MQU7Z9R/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/31rQulFBokL._SL200_.jpg)](https://www.amazon.es/dp/B01MQU7Z9R/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQU7Z9R/?tag=redken-21)
 
