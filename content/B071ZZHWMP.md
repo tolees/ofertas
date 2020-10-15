@@ -14,11 +14,11 @@ comparePrice: 80.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Highland Park - Valkyrie Viking Legend - Whisky - 1 x 0.7 l](https://www.amazon.es/dp/B071ZZHWMP/?tag=redken-21) a 48.58 EUR (original: 80.99 EUR) (40.02 %  de descuento) en el siguiente enlace!
+Está [Highland Park - Valkyrie Viking Legend - Whisky - 1 x 0.7 l](https://www.amazon.es/dp/B071ZZHWMP/?tag=redken-21) con 40.02 de descuento por 48.58 EUR (original: 80.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51CcD4HX14L._SL200_.jpg)](https://www.amazon.es/dp/B071ZZHWMP/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B071ZZHWMP/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071ZZHWMP/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

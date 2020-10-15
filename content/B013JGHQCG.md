@@ -14,11 +14,11 @@ comparePrice: 33.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony ICF-P36 - Radio analógico portátil FM/AM  negro  13.15 x 6.95 x 4.35 cm](https://www.amazon.es/dp/B013JGHQCG/?tag=redken-21) a 20.94 EUR (original: 33.0 EUR) (36.55 %  de descuento) en el siguiente enlace!
+Está [Sony ICF-P36 - Radio analógico portátil FM/AM  negro  13.15 x 6.95 x 4.35 cm](https://www.amazon.es/dp/B013JGHQCG/?tag=redken-21) con 36.55 de descuento por 20.94 EUR (original: 33.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UZMfFuLjL._SL200_.jpg)](https://www.amazon.es/dp/B013JGHQCG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B013JGHQCG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B013JGHQCG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
