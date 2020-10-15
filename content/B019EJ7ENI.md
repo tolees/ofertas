@@ -14,11 +14,11 @@ comparePrice: 7.72 EUR
 inStock: true
 ---
 
-Está [RH 170145 Martillo Carpintero  0 V](https://www.amazon.es/dp/B019EJ7ENI/?tag=redken-21) con 28.76 de descuento por 5.5 EUR (original: 7.72 EUR) en el siguiente enlace!
+Ahora mismo tienes [RH 170145 Martillo Carpintero  0 V](https://www.amazon.es/dp/B019EJ7ENI/?tag=redken-21) a 5.5 EUR (original: 7.72 EUR) (28.76 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jherwwXuL._SL200_.jpg)](https://www.amazon.es/dp/B019EJ7ENI/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B019EJ7ENI/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B019EJ7ENI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

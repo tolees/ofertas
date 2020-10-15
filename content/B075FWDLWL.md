@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta VR7260F0 Easy Steam - Centro pla al 37.50 % de descuento'
-date: 2020-10-09 14:58:47
+date: 2020-10-15 09:43:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kvAoEpuwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kvAoEpuwL._SL200_.jpg' ]
 comments: true
