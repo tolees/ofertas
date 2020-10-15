@@ -14,11 +14,11 @@ comparePrice: 105.02 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [QUN FENG Mini Drone para Niños y Adultos RC Quadcopter con WIFI FPV 0.3HD Cámara 360 ° Mini Rugby Quadcopter Drone Headless Mode One Key Take Off y Return Voice Control](https://www.amazon.es/dp/B0792PTCXR/?tag=redken-21) a 49.99 EUR (original: 105.02 EUR) (52.40 %  de descuento) en el siguiente enlace!
+Está [QUN FENG Mini Drone para Niños y Adultos RC Quadcopter con WIFI FPV 0.3HD Cámara 360 ° Mini Rugby Quadcopter Drone Headless Mode One Key Take Off y Return Voice Control](https://www.amazon.es/dp/B0792PTCXR/?tag=redken-21) con 52.40 de descuento por 49.99 EUR (original: 105.02 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tjNz%2BxMPL._SL200_.jpg)](https://www.amazon.es/dp/B0792PTCXR/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0792PTCXR/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0792PTCXR/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
