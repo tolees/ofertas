@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en JoyGeek Mini Drone with Camera for Kids '
-date: 2020-10-15 12:20:00
+date: 2020-10-16 12:37:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UyFwDQG7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UyFwDQG7L._SL200_.jpg' ]
 comments: true

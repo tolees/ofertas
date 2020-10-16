@@ -14,11 +14,11 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Triple Canyon - Camisa de Manga Corta  Hombre  Negro  Shark  Graphite Plaid  M](https://www.amazon.es/dp/B07KSQLJVZ/?tag=redken-21) a 34.45 EUR (original: 64.99 EUR) (46.99 %  de descuento) en el siguiente enlace!
+Está [Columbia Triple Canyon - Camisa de Manga Corta  Hombre  Negro  Shark  Graphite Plaid  M](https://www.amazon.es/dp/B07KSQLJVZ/?tag=redken-21) con 46.99 de descuento por 34.45 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HNJ55warL._SL200_.jpg)](https://www.amazon.es/dp/B07KSQLJVZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KSQLJVZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KSQLJVZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

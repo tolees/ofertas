@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel XFRH/1-M Aquash Wassertankpinsel  al 33.67 % de descuento'
-date: 2020-10-15 12:38:37
+date: 2020-10-16 12:50:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/21YCpXbL+mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21YCpXbL+mL._SL200_.jpg' ]
 comments: true
