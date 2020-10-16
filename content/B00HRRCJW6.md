@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - 5019 - Doppelbett al 25.02 % de descuento'
-date: 2020-10-15 05:56:51
+date: 2020-10-16 06:24:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qV1VG3FSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qV1VG3FSL._SL200_.jpg' ]
 comments: true

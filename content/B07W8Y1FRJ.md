@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.58 % en LEGO 41393 Friends Baking Competition Pl'
-date: 2020-10-14 23:59:49
+date: 2020-10-16 06:04:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZrngAJw-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZrngAJw-L._SL200_.jpg' ]
 comments: true
