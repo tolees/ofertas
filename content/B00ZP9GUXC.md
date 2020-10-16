@@ -14,11 +14,11 @@ comparePrice: 14.35 GBP
 inStock: true
 ---
 
-Está [Star Wars Battlefront  PS4 ](https://www.amazon.co.uk/dp/B00ZP9GUXC/?tag=redken01-21) con 51.22 de descuento por 7.0 GBP (original: 14.35 GBP) en el siguiente enlace!
+Ahora mismo tienes [Star Wars Battlefront  PS4 ](https://www.amazon.co.uk/dp/B00ZP9GUXC/?tag=redken01-21) a 7.0 GBP (original: 14.35 GBP) (51.22 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51JHGO42luL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00ZP9GUXC/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00ZP9GUXC/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00ZP9GUXC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

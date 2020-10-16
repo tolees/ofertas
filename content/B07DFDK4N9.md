@@ -14,11 +14,11 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko - Space Invaders Statue   32454 ](https://www.amazon.es/dp/B07DFDK4N9/?tag=redken-21) con 38.87 de descuento por 9.75 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko - Space Invaders Statue   32454 ](https://www.amazon.es/dp/B07DFDK4N9/?tag=redken-21) a 9.75 EUR (original: 15.95 EUR) (38.87 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/315jGX4gY5L._SL200_.jpg)](https://www.amazon.es/dp/B07DFDK4N9/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DFDK4N9/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DFDK4N9/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
