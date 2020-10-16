@@ -14,11 +14,11 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BROOKS BROTHERS Chino Lunghi Red Fleece Pantalones  Gris  Grey 20   48  Talla del Fabricante: 36 34  para Hombre](https://www.amazon.es/dp/B07KMQHQFC/?tag=redken-21) a 42.55 EUR (original: 110 EUR) (61.32 %  de descuento) en el siguiente enlace!
+Está [BROOKS BROTHERS Chino Lunghi Red Fleece Pantalones  Gris  Grey 20   48  Talla del Fabricante: 36 34  para Hombre](https://www.amazon.es/dp/B07KMQHQFC/?tag=redken-21) con 61.32 de descuento por 42.55 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/316Lyho6edL._SL200_.jpg)](https://www.amazon.es/dp/B07KMQHQFC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KMQHQFC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KMQHQFC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
