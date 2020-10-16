@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Technic 42098 - Autotransporter 2 i al 26.82 % de descuento'
-date: 2020-10-15 19:04:18
+title: 'LEGO Technic 42098 - Autotransporter 2 i al 25.46 % de descuento'
+date: 2020-10-16 19:21:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07NDBSR45
 description:
-actualPrice: 106.99 EUR
+actualPrice: 108.99 EUR
 comparePrice: 146.21 EUR
 inStock: true
 ---
 
-Está [LEGO Technic 42098 - Autotransporter 2 in 1 LKW und Show Cars Modell](https://www.amazon.de/dp/B07NDBSR45/?tag=redken02-21) con 26.82 de descuento por 106.99 EUR (original: 146.21 EUR) en el siguiente enlace!
+Está [LEGO Technic 42098 - Autotransporter 2 in 1 LKW und Show Cars Modell](https://www.amazon.de/dp/B07NDBSR45/?tag=redken02-21) con 25.46 de descuento por 108.99 EUR (original: 146.21 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg)](https://www.amazon.de/dp/B07NDBSR45/?tag=redken02-21)
 

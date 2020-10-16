@@ -14,11 +14,11 @@ comparePrice: 12 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gommy s Factory  Golosina  Moras  - 12 de 90 gr.  Total 1080 gr. ](https://www.amazon.es/dp/B07P3MPWCK/?tag=redken-21) a 6.73 EUR (original: 12 EUR) (43.92 %  de descuento) en el siguiente enlace!
+Está [Gommy s Factory  Golosina  Moras  - 12 de 90 gr.  Total 1080 gr. ](https://www.amazon.es/dp/B07P3MPWCK/?tag=redken-21) con 43.92 de descuento por 6.73 EUR (original: 12 EUR) en el siguiente enlace!
 
 [![](http://images.amazon.com/images/P/B07P3MPWCK.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B07P3MPWCK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07P3MPWCK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07P3MPWCK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
