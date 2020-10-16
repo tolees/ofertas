@@ -14,11 +14,11 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Savigno Tks Chándal Deportivo  Hombre   Red/Black   M](https://www.amazon.es/dp/B00OHCVYQQ/?tag=redken-21) a 17.95 EUR (original: 45 EUR) (60.11 %  de descuento) en el siguiente enlace!
+Está [Kappa Savigno Tks Chándal Deportivo  Hombre   Red/Black   M](https://www.amazon.es/dp/B00OHCVYQQ/?tag=redken-21) con 60.11 de descuento por 17.95 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31A14KKXK4L._SL200_.jpg)](https://www.amazon.es/dp/B00OHCVYQQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00OHCVYQQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00OHCVYQQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

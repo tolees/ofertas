@@ -14,11 +14,11 @@ comparePrice: 18 EUR
 inStock: true
 ---
 
-Está [Piz Buin Ultra Light Dry Touch Protector Solar  SPF15 - 150 ml](https://www.amazon.es/dp/B00KLZA9MI/?tag=redken-21) con 39.00 de descuento por 10.98 EUR (original: 18 EUR) en el siguiente enlace!
+Ahora mismo tienes [Piz Buin Ultra Light Dry Touch Protector Solar  SPF15 - 150 ml](https://www.amazon.es/dp/B00KLZA9MI/?tag=redken-21) a 10.98 EUR (original: 18 EUR) (39.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dZLb69igL._SL200_.jpg)](https://www.amazon.es/dp/B00KLZA9MI/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00KLZA9MI/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00KLZA9MI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

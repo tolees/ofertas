@@ -14,11 +14,11 @@ comparePrice: 599.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung Galaxy Tab S2 - Tablet de 9.7" 2K  WiFi + 4G  Procesador Octa-Core Exynos  3 GB de RAM  32 GB de Almacenamiento  Android 6.0 ; Blanco](https://www.amazon.es/dp/B01H5FUJB2/?tag=redken-21) a 317 EUR (original: 599.99 EUR) (47.17 %  de descuento) en el siguiente enlace!
+Está [Samsung Galaxy Tab S2 - Tablet de 9.7" 2K  WiFi + 4G  Procesador Octa-Core Exynos  3 GB de RAM  32 GB de Almacenamiento  Android 6.0 ; Blanco](https://www.amazon.es/dp/B01H5FUJB2/?tag=redken-21) con 47.17 de descuento por 317 EUR (original: 599.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414GVmxB41L._SL200_.jpg)](https://www.amazon.es/dp/B01H5FUJB2/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01H5FUJB2/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01H5FUJB2/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

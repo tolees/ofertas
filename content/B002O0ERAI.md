@@ -14,11 +14,11 @@ comparePrice: 1.18 EUR
 inStock: true
 ---
 
-Está [Coca-Cola - Refresco sabor cereza   1 Unidad de 330 ml](https://www.amazon.es/dp/B002O0ERAI/?tag=redken-21) con 36.44 de descuento por 0.75 EUR (original: 1.18 EUR) en el siguiente enlace!
+Ahora mismo tienes [Coca-Cola - Refresco sabor cereza   1 Unidad de 330 ml](https://www.amazon.es/dp/B002O0ERAI/?tag=redken-21) a 0.75 EUR (original: 1.18 EUR) (36.44 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41d2fxVkX9L._SL200_.jpg)](https://www.amazon.es/dp/B002O0ERAI/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B002O0ERAI/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B002O0ERAI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.41 % en Plantronics 88120-41 M165 Marque 2 Ultra'
-date: 2020-10-15 13:12:33
+date: 2020-10-16 13:28:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31RCRbbhY3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31RCRbbhY3L._SL200_.jpg' ]
 comments: true
