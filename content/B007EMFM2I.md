@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.37 % en Orbegozo MS4200 MS 4200-Cortadora  Color'
-date: 2020-10-15 11:20:44
+date: 2020-10-16 11:40:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31oDG64xuPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31oDG64xuPL._SL200_.jpg' ]
 comments: true

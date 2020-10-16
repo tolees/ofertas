@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme PRO scheda di memoria mi al 38.79 % de descuento'
-date: 2020-10-15 06:43:24
+date: 2020-10-16 11:05:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/416vQUS0WYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416vQUS0WYL._SL200_.jpg' ]
 comments: true

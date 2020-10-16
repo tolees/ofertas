@@ -14,11 +14,11 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Stendhal Recette Merveilleuse Huile Desmaquillante Ojos 150 ml](https://www.amazon.es/dp/B00BH4O5JU/?tag=redken-21) con 48.77 de descuento por 15.37 EUR (original: 30 EUR) en el siguiente enlace!
+Ahora mismo tienes [Stendhal Recette Merveilleuse Huile Desmaquillante Ojos 150 ml](https://www.amazon.es/dp/B00BH4O5JU/?tag=redken-21) a 15.37 EUR (original: 30 EUR) (48.77 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XIp3GzRWL._SL200_.jpg)](https://www.amazon.es/dp/B00BH4O5JU/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00BH4O5JU/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00BH4O5JU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
