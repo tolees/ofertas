@@ -14,11 +14,11 @@ comparePrice: 34.78 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Blend Jersey Gris 2XL](https://www.amazon.es/dp/B015OBUVLW/?tag=redken-21) a 18.69 EUR (original: 34.78 EUR) (46.26 %  de descuento) en el siguiente enlace!
+Está [Blend Jersey Gris 2XL](https://www.amazon.es/dp/B015OBUVLW/?tag=redken-21) con 46.26 de descuento por 18.69 EUR (original: 34.78 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41udJAKgQ8L._SL200_.jpg)](https://www.amazon.es/dp/B015OBUVLW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015OBUVLW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B015OBUVLW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

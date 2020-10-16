@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Kingston A400 SSD SA400S37/480G - SSD In al 45.66 % de descuento'
-date: 2020-10-15 00:47:08
+title: 'Kingston A400 SSD SA400S37/480G - SSD In al 45.77 % de descuento'
+date: 2020-10-16 00:59:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01N0TQPQB
 description:
-actualPrice: 52.7 EUR
+actualPrice: 52.6 EUR
 comparePrice: 96.99 EUR
 inStock: true
 ---
 
-Está [Kingston A400 SSD SA400S37/480G - SSD Interne 2.5" SATA 480GB](https://www.amazon.fr/dp/B01N0TQPQB/?tag=redken012-21) con 45.66 de descuento por 52.7 EUR (original: 96.99 EUR) en el siguiente enlace!
+Está [Kingston A400 SSD SA400S37/480G - SSD Interne 2.5" SATA 480GB](https://www.amazon.fr/dp/B01N0TQPQB/?tag=redken012-21) con 45.77 de descuento por 52.6 EUR (original: 96.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg)](https://www.amazon.fr/dp/B01N0TQPQB/?tag=redken012-21)
 

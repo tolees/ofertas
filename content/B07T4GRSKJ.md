@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.35 % en LAPASA Haut Thermique Femme sous-vêtemen'
-date: 2020-10-15 00:44:17
+date: 2020-10-16 00:59:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31bFHp-C8DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31bFHp-C8DL._SL200_.jpg' ]
 comments: true
