@@ -14,11 +14,11 @@ comparePrice: 71 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sisley Crema de Cara Exfoliante - 50 ml](https://www.amazon.es/dp/B002AMUGS2/?tag=redken-21) a 45 EUR (original: 71 EUR) (36.62 %  de descuento) en el siguiente enlace!
+Está [Sisley Crema de Cara Exfoliante - 50 ml](https://www.amazon.es/dp/B002AMUGS2/?tag=redken-21) con 36.62 de descuento por 45 EUR (original: 71 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QwnG%2B88eL._SL200_.jpg)](https://www.amazon.es/dp/B002AMUGS2/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B002AMUGS2/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B002AMUGS2/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

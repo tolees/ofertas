@@ -14,11 +14,11 @@ comparePrice: 59.2 EUR
 inStock: true
 ---
 
-Está [Abb-entrelec sn201-c16 - Interruptor automático magnetotermico](https://www.amazon.es/dp/B00AMHHCFC/?tag=redken-21) con 63.16 de descuento por 21.81 EUR (original: 59.2 EUR) en el siguiente enlace!
+Ahora mismo tienes [Abb-entrelec sn201-c16 - Interruptor automático magnetotermico](https://www.amazon.es/dp/B00AMHHCFC/?tag=redken-21) a 21.81 EUR (original: 59.2 EUR) (63.16 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZG8KLRnNL._SL200_.jpg)](https://www.amazon.es/dp/B00AMHHCFC/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00AMHHCFC/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00AMHHCFC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

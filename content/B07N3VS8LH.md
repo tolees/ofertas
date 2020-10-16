@@ -14,11 +14,11 @@ comparePrice: 62.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HKT by Hackett London Hkt Bengal Stripe Camisa   Green/White 6AK   Small para Hombre](https://www.amazon.es/dp/B07N3VS8LH/?tag=redken-21) a 38.8 EUR (original: 62.4 EUR) (37.82 %  de descuento) en el siguiente enlace!
+Está [HKT by Hackett London Hkt Bengal Stripe Camisa   Green/White 6AK   Small para Hombre](https://www.amazon.es/dp/B07N3VS8LH/?tag=redken-21) con 37.82 de descuento por 38.8 EUR (original: 62.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41c66sd3IRL._SL200_.jpg)](https://www.amazon.es/dp/B07N3VS8LH/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07N3VS8LH/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07N3VS8LH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
