@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin Vivoactive 3 - Smartwatch con GPS al 26.13 % de descuento'
-date: 2020-10-06 15:34:43
+date: 2020-10-16 07:57:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/415vYguDXoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415vYguDXoL._SL200_.jpg' ]
 comments: true
