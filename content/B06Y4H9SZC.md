@@ -14,11 +14,11 @@ comparePrice: 24 EUR
 inStock: true
 ---
 
-Está [L Oreal Expert Acondicionador - 200 ml](https://www.amazon.es/dp/B06Y4H9SZC/?tag=redken-21) con 50.25 de descuento por 11.94 EUR (original: 24 EUR) en el siguiente enlace!
+Ahora mismo tienes [L Oreal Expert Acondicionador - 200 ml](https://www.amazon.es/dp/B06Y4H9SZC/?tag=redken-21) a 11.94 EUR (original: 24 EUR) (50.25 %  de descuento) en el siguiente enlace!
 
 [![]()](https://www.amazon.es/dp/B06Y4H9SZC/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06Y4H9SZC/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B06Y4H9SZC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

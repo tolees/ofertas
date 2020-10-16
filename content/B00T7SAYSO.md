@@ -14,11 +14,11 @@ comparePrice: 24.36 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Duplo 10871 - Flughafen  Ideales Spielzeug für Kinder im Alter von 2 bis 5 Jahren](https://www.amazon.de/dp/B00T7SAYSO/?tag=redken02-21) a 17.99 EUR (original: 24.36 EUR) (26.15 %  de descuento) en el siguiente enlace!
+Está [LEGO Duplo 10871 - Flughafen  Ideales Spielzeug für Kinder im Alter von 2 bis 5 Jahren](https://www.amazon.de/dp/B00T7SAYSO/?tag=redken02-21) con 26.15 de descuento por 17.99 EUR (original: 24.36 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51om39cvOjL._SL200_.jpg)](https://www.amazon.de/dp/B00T7SAYSO/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B00T7SAYSO/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B00T7SAYSO/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
