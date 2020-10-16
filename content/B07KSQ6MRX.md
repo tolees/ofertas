@@ -14,11 +14,11 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Challenger - Cortavientos Impermeable  Hombre  Amarillo  Stinger/Carbon  XL](https://www.amazon.es/dp/B07KSQ6MRX/?tag=redken-21) a 42.95 EUR (original: 69.99 EUR) (38.63 %  de descuento) en el siguiente enlace!
+Está [Columbia Challenger - Cortavientos Impermeable  Hombre  Amarillo  Stinger/Carbon  XL](https://www.amazon.es/dp/B07KSQ6MRX/?tag=redken-21) con 38.63 de descuento por 42.95 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mNsTTPoXL._SL200_.jpg)](https://www.amazon.es/dp/B07KSQ6MRX/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KSQ6MRX/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KSQ6MRX/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

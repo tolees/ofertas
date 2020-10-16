@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Kit Blanqueador con Pasta de Die al 36.27 % de descuento'
-date: 2020-10-15 07:20:37
+date: 2020-10-16 15:57:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fNmDtKDeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fNmDtKDeL._SL200_.jpg' ]
 comments: true

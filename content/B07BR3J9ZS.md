@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Echo Spot - Reloj despertador int al 30.77 % de descuento'
-date: 2020-10-15 10:25:15
+date: 2020-10-16 15:55:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uENiSqCPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uENiSqCPL._SL200_.jpg' ]
 comments: true

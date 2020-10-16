@@ -14,11 +14,11 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dragon War - Revan Casco  PC ](https://www.amazon.es/dp/B013YAL3NA/?tag=redken-21) a 14.91 EUR (original: 39.99 EUR) (62.72 %  de descuento) en el siguiente enlace!
+Está [Dragon War - Revan Casco  PC ](https://www.amazon.es/dp/B013YAL3NA/?tag=redken-21) con 62.72 de descuento por 14.91 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xuYf3zorL._SL200_.jpg)](https://www.amazon.es/dp/B013YAL3NA/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B013YAL3NA/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B013YAL3NA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
