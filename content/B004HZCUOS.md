@@ -14,11 +14,11 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Nike Y Nk Elmntl Bkpk Mochila  Unisex Niños  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B004HZCUOS/?tag=redken-21) con 50.20 de descuento por 12.45 EUR (original: 25 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike Y Nk Elmntl Bkpk Mochila  Unisex Niños  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B004HZCUOS/?tag=redken-21) a 12.45 EUR (original: 25 EUR) (50.20 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4149NWqU71L._SL200_.jpg)](https://www.amazon.es/dp/B004HZCUOS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B004HZCUOS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B004HZCUOS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
