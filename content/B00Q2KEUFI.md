@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.94 % en Sony Alpha 7 II | Appareil Photo Numériq'
-date: 2020-10-15 00:56:10
+date: 2020-10-16 01:09:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eXsg6mKvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eXsg6mKvL._SL200_.jpg' ]
 comments: true

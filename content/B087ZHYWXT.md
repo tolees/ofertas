@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.59 % en The A Word - Series 3 [DVD] [2020]'
-date: 2020-10-14 00:56:14
+date: 2020-10-16 01:47:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PWqGl6gAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PWqGl6gAL._SL200_.jpg' ]
 comments: true
