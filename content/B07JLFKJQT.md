@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.27 % en Playmobil City Life 70049 Rettungswagen '
-date: 2020-10-15 18:18:35
+date: 2020-10-16 18:54:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oMax6xmrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oMax6xmrL._SL200_.jpg' ]
 comments: true

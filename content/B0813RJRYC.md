@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42115 Technic Lamborghini Sián FKP  al 26.03 % de descuento'
-date: 2020-10-15 12:42:22
+title: 'LEGO 42115 Technic Lamborghini Sián FKP  al 27.13 % de descuento'
+date: 2020-10-16 18:44:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bOdmP8B6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bOdmP8B6L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0813RJRYC
 description:
-actualPrice: 274.0 EUR
+actualPrice: 269.9 EUR
 comparePrice: 370.41 EUR
 inStock: true
 ---
 
-Está [LEGO 42115 Technic Lamborghini Sián FKP 37  Auto-Modellbausatz](https://www.amazon.de/dp/B0813RJRYC/?tag=redken02-21) con 26.03 de descuento por 274.0 EUR (original: 370.41 EUR) en el siguiente enlace!
+Está [LEGO 42115 Technic Lamborghini Sián FKP 37  Auto-Modellbausatz](https://www.amazon.de/dp/B0813RJRYC/?tag=redken02-21) con 27.13 de descuento por 269.9 EUR (original: 370.41 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51bOdmP8B6L._SL200_.jpg)](https://www.amazon.de/dp/B0813RJRYC/?tag=redken02-21)
 

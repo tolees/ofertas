@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Etekcity Digital Kitchen Food Scales  St'
-date: 2020-10-15 17:52:23
+date: 2020-10-16 18:19:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/411QOCjFZML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411QOCjFZML._SL200_.jpg' ]
 comments: true

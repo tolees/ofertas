@@ -14,11 +14,11 @@ comparePrice: 209.9 EUR
 inStock: true
 ---
 
-Está [D-Link DGS-1100-24 - Switch Smart Gigabit 24 Puertos  VLAN automática  gestión SNMP](https://www.amazon.es/dp/B004M0LFYE/?tag=redken-21) con 43.39 de descuento por 118.82 EUR (original: 209.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [D-Link DGS-1100-24 - Switch Smart Gigabit 24 Puertos  VLAN automática  gestión SNMP](https://www.amazon.es/dp/B004M0LFYE/?tag=redken-21) a 118.82 EUR (original: 209.9 EUR) (43.39 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41x1MzmPelL._SL200_.jpg)](https://www.amazon.es/dp/B004M0LFYE/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B004M0LFYE/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B004M0LFYE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

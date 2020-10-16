@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.01 % en Kids Smart Watch  Activity Wrist Watches'
-date: 2020-10-15 17:52:52
+date: 2020-10-16 18:31:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y4l6okzEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y4l6okzEL._SL200_.jpg' ]
 comments: true

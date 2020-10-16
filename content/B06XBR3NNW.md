@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Glue Gun Blusmart Upgraded Version G al 47.09 % de descuento'
-date: 2020-10-15 12:09:13
+date: 2020-10-16 18:23:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xyk3PRZOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xyk3PRZOL._SL200_.jpg' ]
 comments: true
