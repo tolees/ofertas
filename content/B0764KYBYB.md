@@ -14,11 +14,11 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop!-15044 Fraggle Rock Wembley w/Doozer Figura de Vinilo  Multicolor  10 cm](https://www.amazon.es/dp/B0764KYBYB/?tag=redken-21) a 6.76 EUR (original: 14.99 EUR) (54.90 %  de descuento) en el siguiente enlace!
+Está [Funko Pop!-15044 Fraggle Rock Wembley w/Doozer Figura de Vinilo  Multicolor  10 cm](https://www.amazon.es/dp/B0764KYBYB/?tag=redken-21) con 54.90 de descuento por 6.76 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FJK4lZ40L._SL200_.jpg)](https://www.amazon.es/dp/B0764KYBYB/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0764KYBYB/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0764KYBYB/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

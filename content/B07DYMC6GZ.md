@@ -14,11 +14,11 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Merrell Terran Lattice Ii Sandalia con Pulsera Mujer  Rojo  Redwood Redwood   39 EU  6 UK ](https://www.amazon.es/dp/B07DYMC6GZ/?tag=redken-21) a 40.24 EUR (original: 85 EUR) (52.66 %  de descuento) en el siguiente enlace!
+Está [Merrell Terran Lattice Ii Sandalia con Pulsera Mujer  Rojo  Redwood Redwood   39 EU  6 UK ](https://www.amazon.es/dp/B07DYMC6GZ/?tag=redken-21) con 52.66 de descuento por 40.24 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41NA0%2B7DWNL._SL200_.jpg)](https://www.amazon.es/dp/B07DYMC6GZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DYMC6GZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DYMC6GZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
