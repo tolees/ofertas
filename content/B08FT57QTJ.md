@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Karinear Placa de Inducción  Eléctrica d al 46.67 % de descuento'
-date: 2020-10-15 11:47:17
+date: 2020-10-16 17:40:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vUctjRwnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vUctjRwnL._SL200_.jpg' ]
 comments: true
