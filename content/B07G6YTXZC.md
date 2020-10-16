@@ -14,11 +14,11 @@ comparePrice: 390 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Philips Series 9000 Wet and Dry Electric Shaver with SmartClean Plus System & Trimmer - S9531/26](https://www.amazon.co.uk/dp/B07G6YTXZC/?tag=redken01-21) a 160 GBP (original: 390 GBP) (58.97 %  de descuento) en el siguiente enlace!
+Está [Philips Series 9000 Wet and Dry Electric Shaver with SmartClean Plus System & Trimmer - S9531/26](https://www.amazon.co.uk/dp/B07G6YTXZC/?tag=redken01-21) con 58.97 de descuento por 160 GBP (original: 390 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aC7YV5jRL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07G6YTXZC/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07G6YTXZC/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07G6YTXZC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

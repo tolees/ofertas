@@ -14,11 +14,11 @@ comparePrice: 25.2 EUR
 inStock: true
 ---
 
-Está [Live at Church Street Station](https://www.amazon.es/dp/B009CSFFKQ/?tag=redken-21) con 39.33 de descuento por 15.29 EUR (original: 25.2 EUR) en el siguiente enlace!
+Ahora mismo tienes [Live at Church Street Station](https://www.amazon.es/dp/B009CSFFKQ/?tag=redken-21) a 15.29 EUR (original: 25.2 EUR) (39.33 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/511KFeZKqEL._SL200_.jpg)](https://www.amazon.es/dp/B009CSFFKQ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B009CSFFKQ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B009CSFFKQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
