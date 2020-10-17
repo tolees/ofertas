@@ -14,11 +14,11 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES Hombres Jerséis jjeHolmen](https://www.amazon.es/dp/B07MM65XXV/?tag=redken-21) a 12.89 EUR (original: 17.99 EUR) (28.35 %  de descuento) en el siguiente enlace!
+Está [JACK & JONES Hombres Jerséis jjeHolmen](https://www.amazon.es/dp/B07MM65XXV/?tag=redken-21) con 28.35 de descuento por 12.89 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31UieH3bqeL._SL200_.jpg)](https://www.amazon.es/dp/B07MM65XXV/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07MM65XXV/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MM65XXV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
