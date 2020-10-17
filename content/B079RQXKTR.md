@@ -14,11 +14,11 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans Legacy PM505967 Camiseta  Azul  Indigo 561   Medium para Hombre](https://www.amazon.es/dp/B079RQXKTR/?tag=redken-21) a 9.6 EUR (original: 45 EUR) (78.67 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans Legacy PM505967 Camiseta  Azul  Indigo 561   Medium para Hombre](https://www.amazon.es/dp/B079RQXKTR/?tag=redken-21) con 78.67 de descuento por 9.6 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41p2Q9VH-bL._SL200_.jpg)](https://www.amazon.es/dp/B079RQXKTR/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079RQXKTR/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079RQXKTR/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

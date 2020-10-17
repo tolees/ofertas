@@ -14,11 +14,11 @@ comparePrice: 87.96 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Rider Jeans Vaqueros  Dark Blue Worn  28W / 34L para Hombre](https://www.amazon.es/dp/B079QJ2LYZ/?tag=redken-21) a 42.49 EUR (original: 87.96 EUR) (51.69 %  de descuento) en el siguiente enlace!
+Está [Lee Rider Jeans Vaqueros  Dark Blue Worn  28W / 34L para Hombre](https://www.amazon.es/dp/B079QJ2LYZ/?tag=redken-21) con 51.69 de descuento por 42.49 EUR (original: 87.96 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41v30vy4WhL._SL200_.jpg)](https://www.amazon.es/dp/B079QJ2LYZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079QJ2LYZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079QJ2LYZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

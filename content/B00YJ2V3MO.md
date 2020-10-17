@@ -14,11 +14,11 @@ comparePrice: 115.56 EUR
 inStock: true
 ---
 
-Está [BROOKS BROTHERS Dress Non-Iron English Regent Stripe  Camisa para Hombre  Azul  Blue 46   38  Cuello 15 Manga in. 33 ](https://www.amazon.es/dp/B00YJ2V3MO/?tag=redken-21) con 60.72 de descuento por 45.39 EUR (original: 115.56 EUR) en el siguiente enlace!
+Ahora mismo tienes [BROOKS BROTHERS Dress Non-Iron English Regent Stripe  Camisa para Hombre  Azul  Blue 46   38  Cuello 15 Manga in. 33 ](https://www.amazon.es/dp/B00YJ2V3MO/?tag=redken-21) a 45.39 EUR (original: 115.56 EUR) (60.72 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518pRuxi9HL._SL200_.jpg)](https://www.amazon.es/dp/B00YJ2V3MO/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00YJ2V3MO/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00YJ2V3MO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 12.18 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hellmann s - Helmanns Mayo Bocabajo 430 ml - Pack de 6  Total 2580 ml ](https://www.amazon.es/dp/B01LWUCNIE/?tag=redken-21) a 7.92 EUR (original: 12.18 EUR) (34.98 %  de descuento) en el siguiente enlace!
+Está [Hellmann s - Helmanns Mayo Bocabajo 430 ml - Pack de 6  Total 2580 ml ](https://www.amazon.es/dp/B01LWUCNIE/?tag=redken-21) con 34.98 de descuento por 7.92 EUR (original: 12.18 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YmzHqadqL._SL200_.jpg)](https://www.amazon.es/dp/B01LWUCNIE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01LWUCNIE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LWUCNIE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

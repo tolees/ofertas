@@ -14,11 +14,11 @@ comparePrice: 2.41 GBP
 inStock: true
 ---
 
-Está [Cadbury Timeout Wafer Bars  7 x 21.2g](https://www.amazon.co.uk/dp/B01CSWWNFM/?tag=redken01-21) con 33.61 de descuento por 1.6 GBP (original: 2.41 GBP) en el siguiente enlace!
+Ahora mismo tienes [Cadbury Timeout Wafer Bars  7 x 21.2g](https://www.amazon.co.uk/dp/B01CSWWNFM/?tag=redken01-21) a 1.6 GBP (original: 2.41 GBP) (33.61 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51jIQB-+GTL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01CSWWNFM/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01CSWWNFM/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01CSWWNFM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
