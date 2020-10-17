@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.63 % en Shark Lift-Away Upright Vacuum Cleaner ['
-date: 2020-10-15 18:41:43
+date: 2020-10-16 23:03:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jlpqW7JIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jlpqW7JIL._SL200_.jpg' ]
 comments: true

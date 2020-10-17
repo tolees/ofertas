@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAEDTLER 334 C60 triplus fineliner 60 b al 44.15 % de descuento'
-date: 2020-10-15 10:32:59
+date: 2020-10-16 23:03:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51d7dk9SAiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51d7dk9SAiL._SL200_.jpg' ]
 comments: true
