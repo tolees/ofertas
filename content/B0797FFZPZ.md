@@ -14,11 +14,11 @@ comparePrice: 229 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony Xperia L2 - Smartphone de 5.2"  Octa Core 1.45 GHz  RAM de 3 GB  Memoria Interna de 32 GB  cámara de 13 MP  Android   Color Rosa](https://www.amazon.es/dp/B0797FFZPZ/?tag=redken-21) a 159 EUR (original: 229 EUR) (30.57 %  de descuento) en el siguiente enlace!
+Está [Sony Xperia L2 - Smartphone de 5.2"  Octa Core 1.45 GHz  RAM de 3 GB  Memoria Interna de 32 GB  cámara de 13 MP  Android   Color Rosa](https://www.amazon.es/dp/B0797FFZPZ/?tag=redken-21) con 30.57 de descuento por 159 EUR (original: 229 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XqM-xjZSL._SL200_.jpg)](https://www.amazon.es/dp/B0797FFZPZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0797FFZPZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0797FFZPZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
