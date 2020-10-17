@@ -14,11 +14,11 @@ comparePrice: 84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [CAROLINA HERRERA CH MEN - Agua de tocador vaporizador  100 ml](https://www.amazon.es/dp/B008DVKC7Y/?tag=redken-21) a 53.9 EUR (original: 84 EUR) (35.83 %  de descuento) en el siguiente enlace!
+Está [CAROLINA HERRERA CH MEN - Agua de tocador vaporizador  100 ml](https://www.amazon.es/dp/B008DVKC7Y/?tag=redken-21) con 35.83 de descuento por 53.9 EUR (original: 84 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CofVuecQL._SL200_.jpg)](https://www.amazon.es/dp/B008DVKC7Y/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008DVKC7Y/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008DVKC7Y/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

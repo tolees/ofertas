@@ -14,11 +14,11 @@ comparePrice: 599.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Huawei P9 Smartphone [Versión Italiana] - Gris](https://www.amazon.es/dp/B01EOQXF8O/?tag=redken-21) a 264.65 EUR (original: 599.9 EUR) (55.88 %  de descuento) en el siguiente enlace!
+Está [Huawei P9 Smartphone [Versión Italiana] - Gris](https://www.amazon.es/dp/B01EOQXF8O/?tag=redken-21) con 55.88 de descuento por 264.65 EUR (original: 599.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41p7TjbIgML._SL200_.jpg)](https://www.amazon.es/dp/B01EOQXF8O/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01EOQXF8O/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01EOQXF8O/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

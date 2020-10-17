@@ -14,11 +14,11 @@ comparePrice: 9.63 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois Rouge Edition Barra de Labios Tono nr.04 - 24 gr](https://www.amazon.es/dp/B00B1CG8PC/?tag=redken-21) a 4.66 EUR (original: 9.63 EUR) (51.61 %  de descuento) en el siguiente enlace!
+Está [Bourjois Rouge Edition Barra de Labios Tono nr.04 - 24 gr](https://www.amazon.es/dp/B00B1CG8PC/?tag=redken-21) con 51.61 de descuento por 4.66 EUR (original: 9.63 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31YZ9UAOBrL._SL200_.jpg)](https://www.amazon.es/dp/B00B1CG8PC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00B1CG8PC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00B1CG8PC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [Just Cause 3 - Collector s Edition](https://www.amazon.es/dp/B011KXHGH0/?tag=redken-21) con 30.09 de descuento por 69.9 EUR (original: 99.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Just Cause 3 - Collector s Edition](https://www.amazon.es/dp/B011KXHGH0/?tag=redken-21) a 69.9 EUR (original: 99.99 EUR) (30.09 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61YiFf93h9L._SL200_.jpg)](https://www.amazon.es/dp/B011KXHGH0/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B011KXHGH0/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B011KXHGH0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

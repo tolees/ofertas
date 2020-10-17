@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin BSV603af2M 6 Way/6 Plug 2m Surge  al 43.62 % de descuento'
-date: 2020-10-15 10:36:00
+date: 2020-10-17 04:37:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EDFLKspDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EDFLKspDL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 50.79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kérastase  Sueros y íquidos diurnos faciales - 50 ml.](https://www.amazon.es/dp/B07D58FSWY/?tag=redken-21) a 30.47 EUR (original: 50.79 EUR) (40.01 %  de descuento) en el siguiente enlace!
+Está [Kérastase  Sueros y íquidos diurnos faciales - 50 ml.](https://www.amazon.es/dp/B07D58FSWY/?tag=redken-21) con 40.01 de descuento por 30.47 EUR (original: 50.79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/510qprVHwJL._SL200_.jpg)](https://www.amazon.es/dp/B07D58FSWY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07D58FSWY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07D58FSWY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
