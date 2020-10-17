@@ -14,11 +14,11 @@ comparePrice: 128.1 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Asics Men s Gel-Cumulus 20 Running Shoes  Black  Black/Red Alert 001   8 UK](https://www.amazon.co.uk/dp/B07GKY1CXZ/?tag=redken01-21) a 60 GBP (original: 128.1 GBP) (53.16 %  de descuento) en el siguiente enlace!
+Está [Asics Men s Gel-Cumulus 20 Running Shoes  Black  Black/Red Alert 001   8 UK](https://www.amazon.co.uk/dp/B07GKY1CXZ/?tag=redken01-21) con 53.16 de descuento por 60 GBP (original: 128.1 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ofZEOCAzL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07GKY1CXZ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07GKY1CXZ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07GKY1CXZ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

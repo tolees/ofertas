@@ -14,11 +14,11 @@ comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gran Turismo Sport - Special Collector s Edition - PlayStation 4 [Importación italiana]](https://www.amazon.es/dp/B01IR0CQYM/?tag=redken-21) a 70.6 EUR (original: 159.99 EUR) (55.87 %  de descuento) en el siguiente enlace!
+Está [Gran Turismo Sport - Special Collector s Edition - PlayStation 4 [Importación italiana]](https://www.amazon.es/dp/B01IR0CQYM/?tag=redken-21) con 55.87 de descuento por 70.6 EUR (original: 159.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41X8VBAf8zL._SL200_.jpg)](https://www.amazon.es/dp/B01IR0CQYM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01IR0CQYM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01IR0CQYM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

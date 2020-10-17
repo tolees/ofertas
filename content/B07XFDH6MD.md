@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Watch GT2 Classic - Smartwatch co al 37.66 % de descuento'
-date: 2020-10-13 16:18:19
+date: 2020-10-17 09:53:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cFXgztz4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cFXgztz4L._SL200_.jpg' ]
 comments: true

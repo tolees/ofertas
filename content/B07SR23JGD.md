@@ -14,11 +14,11 @@ comparePrice: 140.51 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bergner PK1457 Gravity: Set 5 pcs + Regalo: EXPERIENCIAS  Aluminio prensado](https://www.amazon.es/dp/B07SR23JGD/?tag=redken-21) a 94.99 EUR (original: 140.51 EUR) (32.40 %  de descuento) en el siguiente enlace!
+Está [Bergner PK1457 Gravity: Set 5 pcs + Regalo: EXPERIENCIAS  Aluminio prensado](https://www.amazon.es/dp/B07SR23JGD/?tag=redken-21) con 32.40 de descuento por 94.99 EUR (original: 140.51 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/519hVtpGScL._SL200_.jpg)](https://www.amazon.es/dp/B07SR23JGD/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07SR23JGD/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07SR23JGD/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

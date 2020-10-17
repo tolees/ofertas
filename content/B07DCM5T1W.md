@@ -14,11 +14,11 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Está [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Gris  Charcoal Gray-Cordovan 15   44.5 EU](https://www.amazon.es/dp/B07DCM5T1W/?tag=redken-21) con 28.18 de descuento por 39.5 EUR (original: 55 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Gris  Charcoal Gray-Cordovan 15   44.5 EU](https://www.amazon.es/dp/B07DCM5T1W/?tag=redken-21) a 39.5 EUR (original: 55 EUR) (28.18 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bYhxSgdBL._SL200_.jpg)](https://www.amazon.es/dp/B07DCM5T1W/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DCM5T1W/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DCM5T1W/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
