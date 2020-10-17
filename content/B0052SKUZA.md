@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 73.25 % en Giotto Pisaki Turbo Color 12 sztuk'
-date: 2020-10-13 07:11:38
+date: 2020-10-17 06:31:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WUPinwemL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WUPinwemL._SL200_.jpg' ]
 comments: true

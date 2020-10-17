@@ -14,11 +14,11 @@ comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Beschoi Micrófono Solapa Inalámbrico para Corbata para DSLR Cámara Canon Nikon Sony Panasonic  Con pantalla LCD](https://www.amazon.es/dp/B0757MJLYF/?tag=redken-21) a 73.21 EUR (original: 119.99 EUR) (38.99 %  de descuento) en el siguiente enlace!
+Está [Beschoi Micrófono Solapa Inalámbrico para Corbata para DSLR Cámara Canon Nikon Sony Panasonic  Con pantalla LCD](https://www.amazon.es/dp/B0757MJLYF/?tag=redken-21) con 38.99 de descuento por 73.21 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415uOwehr7L._SL200_.jpg)](https://www.amazon.es/dp/B0757MJLYF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0757MJLYF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0757MJLYF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

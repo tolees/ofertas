@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Command Outdoor Refill Strips  4 Medium  al 42.57 % de descuento'
-date: 2020-10-01 05:55:36
+date: 2020-10-17 06:20:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qtTXououL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qtTXououL._SL200_.jpg' ]
 comments: true
