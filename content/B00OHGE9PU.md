@@ -14,11 +14,11 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Calabria - Camiseta de Portero Unisex  Color Negro  Talla YXXL](https://www.amazon.es/dp/B00OHGE9PU/?tag=redken-21) a 14.52 EUR (original: 30 EUR) (51.60 %  de descuento) en el siguiente enlace!
+Está [Kappa Calabria - Camiseta de Portero Unisex  Color Negro  Talla YXXL](https://www.amazon.es/dp/B00OHGE9PU/?tag=redken-21) con 51.60 de descuento por 14.52 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fjbybkC0L._SL200_.jpg)](https://www.amazon.es/dp/B00OHGE9PU/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00OHGE9PU/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00OHGE9PU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

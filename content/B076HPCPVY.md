@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.55 % en Adidas Regista 18 - Pantalónes de fútbol'
-date: 2020-10-15 04:55:13
+date: 2020-10-17 18:58:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hzqiBztfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hzqiBztfL._SL200_.jpg' ]
 comments: true
