@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Cascos Gaming GXT 322 Carus - Auri al 37.51 % de descuento'
-date: 2020-10-16 10:40:07
+date: 2020-10-17 10:49:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41o9hARzPKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41o9hARzPKL._SL200_.jpg' ]
 comments: true

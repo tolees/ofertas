@@ -14,11 +14,11 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Está [Samsung Book - Funda Galaxy Tab II  rosa](https://www.amazon.es/dp/B009AAA7CC/?tag=redken-21) con 49.90 de descuento por 19.99 EUR (original: 39.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Samsung Book - Funda Galaxy Tab II  rosa](https://www.amazon.es/dp/B009AAA7CC/?tag=redken-21) a 19.99 EUR (original: 39.9 EUR) (49.90 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410PgIXs3kL._SL200_.jpg)](https://www.amazon.es/dp/B009AAA7CC/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B009AAA7CC/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B009AAA7CC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
