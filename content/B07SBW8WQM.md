@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orlando Tomate Frito 500 g al 31.03 % de descuento'
-date: 2020-10-16 12:18:27
+date: 2020-10-17 17:33:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aMM-r2vrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aMM-r2vrL._SL200_.jpg' ]
 comments: true
