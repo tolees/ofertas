@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FORMIZON Apprentissage des Mathématiques al 38.72 % de descuento'
-date: 2020-10-16 00:56:22
+date: 2020-10-17 08:07:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-3ISlPBkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-3ISlPBkL._SL200_.jpg' ]
 comments: true

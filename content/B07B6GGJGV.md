@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Robot aspirador iRobot Roomba 981 Alta p al 27.82 % de descuento'
-date: 2020-10-16 07:55:41
+date: 2020-10-17 08:16:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41etxSRTTIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41etxSRTTIL._SL200_.jpg' ]
 comments: true

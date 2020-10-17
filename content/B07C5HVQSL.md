@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.01 % en Spa Luxetique Coffret de Bain pour Femme'
-date: 2020-10-16 01:20:12
+date: 2020-10-17 08:07:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-oBpAjQ-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-oBpAjQ-L._SL200_.jpg' ]
 comments: true

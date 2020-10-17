@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.51 % en POP! Vinyl: Harry Potter S7 - Fawkes'
-date: 2020-10-17 07:59:37
+date: 2020-10-17 08:00:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IFHFDsj6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IFHFDsj6L._SL200_.jpg' ]
 comments: true

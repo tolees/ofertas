@@ -14,11 +14,11 @@ comparePrice: 44 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Armani Exchange](https://www.amazon.es/dp/B078GFQJHK/?tag=redken-21) a 30.36 EUR (original: 44 EUR) (31.00 %  de descuento) en el siguiente enlace!
+Está [Armani Exchange](https://www.amazon.es/dp/B078GFQJHK/?tag=redken-21) con 31.00 de descuento por 30.36 EUR (original: 44 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31oWPoVkgDL._SL200_.jpg)](https://www.amazon.es/dp/B078GFQJHK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078GFQJHK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078GFQJHK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

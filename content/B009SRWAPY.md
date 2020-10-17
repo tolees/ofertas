@@ -14,11 +14,11 @@ comparePrice: 55.54 EUR
 inStock: true
 ---
 
-Está [Malecon Rum Reserva Imperial 18 años Rum  1 x 0 7 l ](https://www.amazon.es/dp/B009SRWAPY/?tag=redken-21) con 47.34 de descuento por 29.25 EUR (original: 55.54 EUR) en el siguiente enlace!
+Ahora mismo tienes [Malecon Rum Reserva Imperial 18 años Rum  1 x 0 7 l ](https://www.amazon.es/dp/B009SRWAPY/?tag=redken-21) a 29.25 EUR (original: 55.54 EUR) (47.34 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51suOvjbOJL._SL200_.jpg)](https://www.amazon.es/dp/B009SRWAPY/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B009SRWAPY/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B009SRWAPY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

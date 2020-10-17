@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 51.54 % en Lee Men s Western Shirt  White  Heather '
+title: 'Lee Men s Western Shirt  White  Heather  al 51.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uzMVJ3LiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uzMVJ3LiL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 65 GBP
 inStock: true
 ---
 
-Tienes [Lee Men s Western Shirt  White  Heather Blue Li   L](https://www.amazon.co.uk/dp/B07FTTRQGB/?tag=redken01-21) con un 51.54 % de descuento con precio de oferta de 31.5 GBP (original: 65 GBP) en el siguiente enlace!
+Está [Lee Men s Western Shirt  White  Heather Blue Li   L](https://www.amazon.co.uk/dp/B07FTTRQGB/?tag=redken01-21) con 51.54 de descuento por 31.5 GBP (original: 65 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uzMVJ3LiL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FTTRQGB/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07FTTRQGB/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07FTTRQGB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
