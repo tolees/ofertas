@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.96 % en SuperZings Serie 4  24 Mini Display Blas'
-date: 2020-10-16 05:48:15
+date: 2020-10-17 07:13:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.86 % en NEW: Lindt Lindor Milk Chocolate Salted '
-date: 2020-10-16 00:27:45
+date: 2020-10-17 07:29:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MpE0CtHwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MpE0CtHwL._SL200_.jpg' ]
 comments: true
