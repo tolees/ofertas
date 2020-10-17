@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moto G7 power | Unlocked | Made for US b al 47.20 % de descuento'
-date: 2020-10-16 10:58:07
+date: 2020-10-17 14:34:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QkRJz53sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QkRJz53sL._SL200_.jpg' ]
 comments: true

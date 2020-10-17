@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Bella Y La Bestia - Edición Estándar  al 38.18 % de descuento'
-date: 2020-10-14 07:51:53
+date: 2020-10-17 14:49:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ki18NZCZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ki18NZCZL._SL200_.jpg' ]
 comments: true
