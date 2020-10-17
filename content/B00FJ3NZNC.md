@@ -14,11 +14,11 @@ comparePrice: 25.58 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Evangelion 3.33 You Can Not Redo - Bd [Blu-ray]](https://www.amazon.es/dp/B00FJ3NZNC/?tag=redken-21) a 13 EUR (original: 25.58 EUR) (49.18 %  de descuento) en el siguiente enlace!
+Está [Evangelion 3.33 You Can Not Redo - Bd [Blu-ray]](https://www.amazon.es/dp/B00FJ3NZNC/?tag=redken-21) con 49.18 de descuento por 13 EUR (original: 25.58 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BHxLliyyL._SL200_.jpg)](https://www.amazon.es/dp/B00FJ3NZNC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00FJ3NZNC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00FJ3NZNC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
