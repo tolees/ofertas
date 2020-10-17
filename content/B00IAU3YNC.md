@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft – Wireless Mobile Mouse 1850 R al 29.05 % de descuento'
-date: 2020-10-03 07:00:45
+date: 2020-10-17 05:15:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/312+PWComjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312+PWComjL._SL200_.jpg' ]
 comments: true

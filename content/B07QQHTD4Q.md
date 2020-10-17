@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger Horrified: Universal Monste al 25.01 % de descuento'
-date: 2020-10-15 22:51:43
+date: 2020-10-17 05:02:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/61-gfAQrwzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61-gfAQrwzL._SL200_.jpg' ]
 comments: true

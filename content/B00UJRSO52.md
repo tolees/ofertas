@@ -14,11 +14,11 @@ comparePrice: 479.0 EUR
 inStock: true
 ---
 
-Está [Sony SEL-28F20 Weitwinkel Objektiv  Festbrennweite  28mm  F2  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B00UJRSO52/?tag=redken02-21) con 35.49 de descuento por 309.0 EUR (original: 479.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SEL-28F20 Weitwinkel Objektiv  Festbrennweite  28mm  F2  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B00UJRSO52/?tag=redken02-21) a 309.0 EUR (original: 479.0 EUR) (35.49 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31kWRWCI2RL._SL200_.jpg)](https://www.amazon.de/dp/B00UJRSO52/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00UJRSO52/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B00UJRSO52/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
