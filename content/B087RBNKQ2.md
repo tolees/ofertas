@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.50 % en AOTTOM 8CH 1080P WiFi Système de Vidéosu'
-date: 2020-10-07 03:03:20
+date: 2020-10-17 22:43:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51b6hiG5UuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51b6hiG5UuL._SL200_.jpg' ]
 comments: true
