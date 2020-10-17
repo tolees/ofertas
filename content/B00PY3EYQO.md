@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10698 Classic Large Creative Brick  al 25.11 % de descuento'
-date: 2020-10-16 12:19:46
+date: 2020-10-17 19:36:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Zm3QKl3FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Zm3QKl3FL._SL200_.jpg' ]
 comments: true

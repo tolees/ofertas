@@ -14,11 +14,11 @@ comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City 60228 Weltraumrakete mit Kontrollzentrum](https://www.amazon.de/dp/B07KTSGWDJ/?tag=redken02-21) a 72.74 EUR (original: 97.47 EUR) (25.37 %  de descuento) en el siguiente enlace!
+Está [LEGO City 60228 Weltraumrakete mit Kontrollzentrum](https://www.amazon.de/dp/B07KTSGWDJ/?tag=redken02-21) con 25.37 de descuento por 72.74 EUR (original: 97.47 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg)](https://www.amazon.de/dp/B07KTSGWDJ/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07KTSGWDJ/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07KTSGWDJ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

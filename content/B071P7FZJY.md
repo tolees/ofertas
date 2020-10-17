@@ -14,11 +14,11 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Purefly Almohada de viaje con soporte de cuello. Inflable  super suave y compacta para dormir en el avión  coche y tren. Con bolsa de transporte. Suave y ergonómica. Diseño talla única.](https://www.amazon.es/dp/B071P7FZJY/?tag=redken-21) a 16.99 EUR (original: 39.99 EUR) (57.51 %  de descuento) en el siguiente enlace!
+Está [Purefly Almohada de viaje con soporte de cuello. Inflable  super suave y compacta para dormir en el avión  coche y tren. Con bolsa de transporte. Suave y ergonómica. Diseño talla única.](https://www.amazon.es/dp/B071P7FZJY/?tag=redken-21) con 57.51 de descuento por 16.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/512d7v5zuAL._SL200_.jpg)](https://www.amazon.es/dp/B071P7FZJY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B071P7FZJY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071P7FZJY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'E-Cloth Cloths  80% polyester  20% polya al 33.40 % de descuento'
-date: 2020-10-15 17:58:26
+date: 2020-10-17 19:45:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41k8n3zjrSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41k8n3zjrSL._SL200_.jpg' ]
 comments: true
