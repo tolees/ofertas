@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Frozen II Olaf 41169 Olaf Sn al 29.35 % de descuento'
-date: 2020-10-08 12:57:09
+date: 2020-10-17 16:12:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AMmei7RlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AMmei7RlL._SL200_.jpg' ]
 comments: true
