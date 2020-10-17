@@ -14,11 +14,11 @@ comparePrice: 2.75 EUR
 inStock: true
 ---
 
-Está [Sanex - Jabón líquido hygiene protector - 1 unidad x 300 ml](https://www.amazon.es/dp/B00JFQ60LI/?tag=redken-21) con 40.00 de descuento por 1.65 EUR (original: 2.75 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sanex - Jabón líquido hygiene protector - 1 unidad x 300 ml](https://www.amazon.es/dp/B00JFQ60LI/?tag=redken-21) a 1.65 EUR (original: 2.75 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+mzeiFSBL._SL200_.jpg)](https://www.amazon.es/dp/B00JFQ60LI/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00JFQ60LI/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00JFQ60LI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

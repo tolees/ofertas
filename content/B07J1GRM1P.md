@@ -14,11 +14,11 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Asics Herren Sportjacke Light Jersey Jacket Schwarz  Performance Black 001  Small](https://www.amazon.de/dp/B07J1GRM1P/?tag=redken02-21) a 51.39 EUR (original: 100 EUR) (48.61 %  de descuento) en el siguiente enlace!
+Está [Asics Herren Sportjacke Light Jersey Jacket Schwarz  Performance Black 001  Small](https://www.amazon.de/dp/B07J1GRM1P/?tag=redken02-21) con 48.61 de descuento por 51.39 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DlaoGWZ4L._SL200_.jpg)](https://www.amazon.de/dp/B07J1GRM1P/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07J1GRM1P/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07J1GRM1P/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
