@@ -14,11 +14,11 @@ comparePrice: 966.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Epson Workforce DS-860N - Escáner A3  65 PPM 600 dpi ](https://www.amazon.es/dp/B00I8EV0WW/?tag=redken-21) a 643.76 EUR (original: 966.99 EUR) (33.43 %  de descuento) en el siguiente enlace!
+Está [Epson Workforce DS-860N - Escáner A3  65 PPM 600 dpi ](https://www.amazon.es/dp/B00I8EV0WW/?tag=redken-21) con 33.43 de descuento por 643.76 EUR (original: 966.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419FREIWYKL._SL200_.jpg)](https://www.amazon.es/dp/B00I8EV0WW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00I8EV0WW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00I8EV0WW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
