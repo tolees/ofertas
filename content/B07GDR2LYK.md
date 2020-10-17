@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 30.02 % en Sony WH-1000XM3 Noise Cancelling Wireles'
-date: 2020-10-16 18:31:22
-thumbnailImage: 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg' ]
+title: 'Descuento del 30.74 % en Sony WH1000XM3 - Auricular Noise Cancell'
+date: 2020-10-17 16:03:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/31P7FbwIKKL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31P7FbwIKKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07GDR2LYK
 description:
-actualPrice: 230.93 GBP
-comparePrice: 330.0 GBP
+actualPrice: 263.2 EUR
+comparePrice: 380.0 EUR
 inStock: true
 ---
 
-Tienes [Sony WH-1000XM3 Noise Cancelling Wireless Headphones with Mic  30 Hours Battery Life  Quick Charge  Gesture Control  Ambient Sound Mode  with Alexa Built-in – Black](https://www.amazon.co.uk/dp/B07GDR2LYK/?tag=redken01-21) con un 30.02 % de descuento con precio de oferta de 230.93 GBP (original: 330.0 GBP) en el siguiente enlace!
+Tienes [Sony WH1000XM3 - Auricular Noise Cancelling  Bluetooth  sonido adaptativo  compatible con Alexa y Google Assistant  30h de batería  óptimo para trabajar en casa  llamadas manos libres   negro](https://www.amazon.es/dp/B07GDR2LYK/?tag=redken-21) con un 30.74 % de descuento con precio de oferta de 263.2 EUR (original: 380.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07GDR2LYK/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/31P7FbwIKKL._SL200_.jpg)](https://www.amazon.es/dp/B07GDR2LYK/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07GDR2LYK/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07GDR2LYK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

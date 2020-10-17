@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Chernobyl  Miniserie  [DVD] al 31.63 % de descuento'
-date: 2020-10-16 01:48:44
+title: 'Chernobyl  Miniserie  [DVD] al 30.01 % de descuento'
+date: 2020-10-17 20:48:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TmFnwnHOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TmFnwnHOL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07WLBRK2T
 description:
 actualPrice: 17.49 EUR
-comparePrice: 25.58 EUR
+comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [Chernobyl  Miniserie  [DVD]](https://www.amazon.es/dp/B07WLBRK2T/?tag=redken-21) con 31.63 de descuento por 17.49 EUR (original: 25.58 EUR) en el siguiente enlace!
+Está [Chernobyl  Miniserie  [DVD]](https://www.amazon.es/dp/B07WLBRK2T/?tag=redken-21) con 30.01 de descuento por 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41TmFnwnHOL._SL200_.jpg)](https://www.amazon.es/dp/B07WLBRK2T/?tag=redken-21)
 

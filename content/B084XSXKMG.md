@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.93 % en LG 75UN71006LC 189 cm  75 Zoll  UHD Fern'
-date: 2020-10-16 18:54:59
+date: 2020-10-17 20:22:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pFq4bK7bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pFq4bK7bL._SL200_.jpg' ]
 comments: true

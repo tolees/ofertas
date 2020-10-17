@@ -14,11 +14,11 @@ comparePrice: 54.99 GBP
 inStock: true
 ---
 
-Está [Playmobil 9126 Rock Climbers with Cabin](https://www.amazon.co.uk/dp/B01LX4RZT3/?tag=redken01-21) con 50.92 de descuento por 26.99 GBP (original: 54.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Playmobil 9126 Rock Climbers with Cabin](https://www.amazon.co.uk/dp/B01LX4RZT3/?tag=redken01-21) a 26.99 GBP (original: 54.99 GBP) (50.92 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61CG-fQR+-L._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LX4RZT3/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01LX4RZT3/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01LX4RZT3/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

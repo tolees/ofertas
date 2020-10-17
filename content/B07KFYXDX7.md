@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.59 % en PUMA Ralph Sampson Lo  Zapatillas Unisex'
-date: 2020-10-14 22:15:19
+date: 2020-10-17 20:30:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg' ]
 comments: true
