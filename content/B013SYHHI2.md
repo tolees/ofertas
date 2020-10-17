@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'TP-Link AC1750 Universal Dual Band Range al 33.32 % de descuento'
-date: 2020-10-14 07:42:29
+title: 'TP-Link AC1750 Universal Dual Band Range al 34.66 % de descuento'
+date: 2020-10-17 02:26:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31d3crUnL3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31d3crUnL3L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B013SYHHI2
 description:
-actualPrice: 50.0 GBP
+actualPrice: 49.0 GBP
 comparePrice: 74.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [TP-Link AC1750 Universal Dual Band Range Extender  Broadband/Wi-Fi Extender  Wi-Fi Booster/Hotspot with 1 Gigabit Port and 3 External Antennas  Built-in Access Point Mode  UK Plug  RE450 ](https://www.amazon.co.uk/dp/B013SYHHI2/?tag=redken01-21) a 50.0 GBP (original: 74.99 GBP) (33.32 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [TP-Link AC1750 Universal Dual Band Range Extender  Broadband/Wi-Fi Extender  Wi-Fi Booster/Hotspot with 1 Gigabit Port and 3 External Antennas  Built-in Access Point Mode  UK Plug  RE450 ](https://www.amazon.co.uk/dp/B013SYHHI2/?tag=redken01-21) a 49.0 GBP (original: 74.99 GBP) (34.66 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31d3crUnL3L._SL200_.jpg)](https://www.amazon.co.uk/dp/B013SYHHI2/?tag=redken01-21)
 

@@ -14,11 +14,11 @@ comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Minecraft 21151 - Das letzte Gefecht  Bauset](https://www.amazon.de/dp/B07FNN12PH/?tag=redken02-21) a 13.99 EUR (original: 19.49 EUR) (28.22 %  de descuento) en el siguiente enlace!
+Está [LEGO Minecraft 21151 - Das letzte Gefecht  Bauset](https://www.amazon.de/dp/B07FNN12PH/?tag=redken02-21) con 28.22 de descuento por 13.99 EUR (original: 19.49 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg)](https://www.amazon.de/dp/B07FNN12PH/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07FNN12PH/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07FNN12PH/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
