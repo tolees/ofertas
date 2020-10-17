@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings - Serie 4 - Display de 8 Vehí al 30.97 % de descuento'
-date: 2020-10-16 08:45:15
+date: 2020-10-17 12:54:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ee+nK9vJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ee+nK9vJL._SL200_.jpg' ]
 comments: true
