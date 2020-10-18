@@ -14,11 +14,11 @@ comparePrice: 248.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Controlador PS4 Controlador inalámbrico Doubleshock 4 para Playstation 4 - Camuflaje verde](https://www.amazon.es/dp/B07YG2LJ7W/?tag=redken-21) a 36.99 EUR (original: 248.99 EUR) (85.14 %  de descuento) en el siguiente enlace!
+Está [Controlador PS4 Controlador inalámbrico Doubleshock 4 para Playstation 4 - Camuflaje verde](https://www.amazon.es/dp/B07YG2LJ7W/?tag=redken-21) con 85.14 de descuento por 36.99 EUR (original: 248.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aVYWngHaL._SL200_.jpg)](https://www.amazon.es/dp/B07YG2LJ7W/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07YG2LJ7W/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07YG2LJ7W/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
