@@ -14,11 +14,11 @@ comparePrice: 43.99 EUR
 inStock: true
 ---
 
-Está [Bohell TALI12 – Taladro atornillador sin cable con batería de litio de 12 V  ligero  velocidad electrónica regulable 0-750 rpm  par máximo 15Nm  portabrocas automático y luz led](https://www.amazon.es/dp/B07DM6MYWV/?tag=redken-21) con 41.12 de descuento por 25.9 EUR (original: 43.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bohell TALI12 – Taladro atornillador sin cable con batería de litio de 12 V  ligero  velocidad electrónica regulable 0-750 rpm  par máximo 15Nm  portabrocas automático y luz led](https://www.amazon.es/dp/B07DM6MYWV/?tag=redken-21) a 25.9 EUR (original: 43.99 EUR) (41.12 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41k0UEGyJEL._SL200_.jpg)](https://www.amazon.es/dp/B07DM6MYWV/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DM6MYWV/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DM6MYWV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
