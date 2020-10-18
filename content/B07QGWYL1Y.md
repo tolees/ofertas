@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.52 % en Funko POP! Bobble Vinyl Marvel: Holiday '
-date: 2020-10-17 00:41:48
+date: 2020-10-18 01:59:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31F9ph0c89L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31F9ph0c89L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alien 4k Uhd [Blu-ray] al 32.01 % de descuento'
-date: 2020-10-16 23:43:02
+date: 2020-10-18 01:05:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51S1ywBPx9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51S1ywBPx9L._SL200_.jpg' ]
 comments: true
