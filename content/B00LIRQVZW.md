@@ -14,11 +14,11 @@ comparePrice: 105 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Polaroid X8409 ML 0BM Gafas de sol  Marrón  Havana/Brown   52 para Mujer](https://www.amazon.es/dp/B00LIRQVZW/?tag=redken-21) a 22.51 EUR (original: 105 EUR) (78.56 %  de descuento) en el siguiente enlace!
+Está [Polaroid X8409 ML 0BM Gafas de sol  Marrón  Havana/Brown   52 para Mujer](https://www.amazon.es/dp/B00LIRQVZW/?tag=redken-21) con 78.56 de descuento por 22.51 EUR (original: 105 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31UPDqH0K%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00LIRQVZW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00LIRQVZW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00LIRQVZW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUION H1060P Tableta gráfica con área de al 26.26 % de descuento'
-date: 2020-10-05 22:42:11
+date: 2020-10-18 09:08:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BMtDUfl9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BMtDUfl9L._SL200_.jpg' ]
 comments: true
