@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.97 % en Sony WH-CH700N Casque Sans Fil Bluetooth'
-date: 2020-10-17 08:10:16
+date: 2020-10-18 14:31:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL200_.jpg' ]
 comments: true

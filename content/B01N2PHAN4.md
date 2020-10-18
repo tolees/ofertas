@@ -14,11 +14,11 @@ comparePrice: 5.01 EUR
 inStock: true
 ---
 
-Está [Legrand magnet./dif.vivienda - Magnetotermico vivienda rx3 1 polo+neutro 6ka 16a](https://www.amazon.es/dp/B01N2PHAN4/?tag=redken-21) con 47.11 de descuento por 2.65 EUR (original: 5.01 EUR) en el siguiente enlace!
+Ahora mismo tienes [Legrand magnet./dif.vivienda - Magnetotermico vivienda rx3 1 polo+neutro 6ka 16a](https://www.amazon.es/dp/B01N2PHAN4/?tag=redken-21) a 2.65 EUR (original: 5.01 EUR) (47.11 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ICfrGQhCL._SL200_.jpg)](https://www.amazon.es/dp/B01N2PHAN4/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01N2PHAN4/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01N2PHAN4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

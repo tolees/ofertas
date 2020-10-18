@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.12 % en PUMA Damen Carina L Sneaker  Weiß White '
-date: 2020-10-17 13:58:27
+date: 2020-10-18 14:23:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg' ]
 comments: true

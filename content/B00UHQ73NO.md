@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Drones al 51.17 % de descuento'
-date: 2020-10-17 14:12:51
+title: 'Drones al 52.37 % de descuento'
+date: 2020-10-18 14:34:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kAIG9t2LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kAIG9t2LL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00UHQ73NO
 description:
-actualPrice: 7.32 EUR
+actualPrice: 7.14 EUR
 comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Drones](https://www.amazon.fr/dp/B00UHQ73NO/?tag=redken012-21) a 7.32 EUR (original: 14.99 EUR) (51.17 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Drones](https://www.amazon.fr/dp/B00UHQ73NO/?tag=redken012-21) a 7.14 EUR (original: 14.99 EUR) (52.37 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51kAIG9t2LL._SL200_.jpg)](https://www.amazon.fr/dp/B00UHQ73NO/?tag=redken012-21)
 

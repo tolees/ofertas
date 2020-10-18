@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.06 % en Spa Luxetique Coffret de Bain  Parfum de'
-date: 2020-10-17 14:26:28
+date: 2020-10-18 14:33:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Fq9-H4ZLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Fq9-H4ZLL._SL200_.jpg' ]
 comments: true
