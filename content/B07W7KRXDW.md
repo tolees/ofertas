@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MX Keys Kabellose Tastatur  Blu al 26.49 % de descuento'
-date: 2020-10-17 08:30:30
+date: 2020-10-18 15:12:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/416LOT+XgAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416LOT+XgAL._SL200_.jpg' ]
 comments: true

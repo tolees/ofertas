@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Lake 22  Chaqueta de plumas lar al 40.03 % de descuento'
-date: 2020-10-15 18:05:46
+date: 2020-10-18 15:53:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W4wtULbRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W4wtULbRL._SL200_.jpg' ]
 comments: true
