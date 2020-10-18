@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung MZ-V7S2T0BW 970 EVO Plus 2 TB NV al 26.04 % de descuento'
-date: 2020-10-15 18:19:31
+date: 2020-10-18 02:08:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41U4dybhl9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41U4dybhl9L._SL200_.jpg' ]
 comments: true

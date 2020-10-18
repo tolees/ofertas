@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.62 % en TP-Link N300 Universal Wi-Fi Range Exten'
-date: 2020-10-17 02:25:51
+date: 2020-10-18 02:41:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FKnCG+6mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FKnCG+6mL._SL200_.jpg' ]
 comments: true

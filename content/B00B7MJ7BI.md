@@ -14,11 +14,11 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sérum para el Crecimiento de Pestañas  Revimour Por Omiera Labs  8 ml ](https://www.amazon.es/dp/B00B7MJ7BI/?tag=redken-21) a 5 EUR (original: 89.99 EUR) (94.44 %  de descuento) en el siguiente enlace!
+Está [Sérum para el Crecimiento de Pestañas  Revimour Por Omiera Labs  8 ml ](https://www.amazon.es/dp/B00B7MJ7BI/?tag=redken-21) con 94.44 de descuento por 5 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21cRO9eN8IL._SL200_.jpg)](https://www.amazon.es/dp/B00B7MJ7BI/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00B7MJ7BI/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00B7MJ7BI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

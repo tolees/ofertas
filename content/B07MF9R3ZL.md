@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.84 % en Sony HT-X8500 2.1 Kanal Dolby Atmos Soun'
-date: 2020-10-16 06:26:30
+date: 2020-10-18 02:05:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/21qgFW-notL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21qgFW-notL._SL200_.jpg' ]
 comments: true

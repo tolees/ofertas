@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 71.44 % en Gears 5 – Standard Edition | Xbox One/ W'
-date: 2020-10-17 00:37:26
+date: 2020-10-18 02:07:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51C0ZS99upL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51C0ZS99upL._SL200_.jpg' ]
 comments: true
