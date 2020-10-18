@@ -14,11 +14,11 @@ comparePrice: 405.71 EUR
 inStock: true
 ---
 
-Está [Walimex Pro 14 mm 1:2.8 - Objetivo para cámara réflex Samsung NX  diámetro Filtro 86 mm  Enfoque Manual   Color Negro](https://www.amazon.es/dp/B004ZYM1JU/?tag=redken-21) con 57.81 de descuento por 171.17 EUR (original: 405.71 EUR) en el siguiente enlace!
+Ahora mismo tienes [Walimex Pro 14 mm 1:2.8 - Objetivo para cámara réflex Samsung NX  diámetro Filtro 86 mm  Enfoque Manual   Color Negro](https://www.amazon.es/dp/B004ZYM1JU/?tag=redken-21) a 171.17 EUR (original: 405.71 EUR) (57.81 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51cEtkIze%2BL._SL200_.jpg)](https://www.amazon.es/dp/B004ZYM1JU/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B004ZYM1JU/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B004ZYM1JU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

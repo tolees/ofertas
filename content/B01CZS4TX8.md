@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.52 % en EBL 1100mAh AAA Ni-MH 1200 Ciclo de Pila'
-date: 2020-10-09 19:00:30
+date: 2020-10-18 16:12:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Iqgvw5MpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Iqgvw5MpL._SL200_.jpg' ]
 comments: true
