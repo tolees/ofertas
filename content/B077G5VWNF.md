@@ -14,11 +14,11 @@ comparePrice: 11.9 EUR
 inStock: true
 ---
 
-Está [Flash Gordon [Blu-ray]](https://www.amazon.es/dp/B077G5VWNF/?tag=redken-21) con 66.39 de descuento por 4 EUR (original: 11.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Flash Gordon [Blu-ray]](https://www.amazon.es/dp/B077G5VWNF/?tag=redken-21) a 4 EUR (original: 11.9 EUR) (66.39 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/610IOPkY6dL._SL200_.jpg)](https://www.amazon.es/dp/B077G5VWNF/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077G5VWNF/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B077G5VWNF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

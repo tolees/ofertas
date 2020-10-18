@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.01 % en Aibrou Pijamas Mujer Invierno Polar Fran'
-date: 2020-10-16 23:37:50
+date: 2020-10-18 00:59:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ypUBLfGcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ypUBLfGcL._SL200_.jpg' ]
 comments: true
