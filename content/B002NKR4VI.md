@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 37.37 % en Melitta Caffeo Solo E950-103 Schlanker K'
-date: 2020-03-02 14:08:40
-thumbnailImage: 'https://m.media-amazon.com/images/I/41qE+tnBx+L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41qE+tnBx+L._AC_._SL200_.jpg' ]
+title: 'Descuento del 45.25 % en Melitta E950-103 Bean to Cup Coffee Mach'
+date: 2020-10-18 10:24:43
+thumbnailImage: 'https://m.media-amazon.com/images/I/41qE+tnBx+L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41qE+tnBx+L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B002NKR4VI
 description:
-actualPrice: 249.9 EUR
-comparePrice: 399.0 EUR
+actualPrice: 219.0 GBP
+comparePrice: 399.99 GBP
 inStock: true
 ---
 
-Tienes [Melitta Caffeo Solo E950-103 Schlanker Kaffeevollautomat mit Vorbrühfunktion | 15 Bar | LED-Display | höhenverstellbarer Kaffeeauslauf | Herausnehmbare Brühgruppe |Silber](https://www.amazon.de/dp/B002NKR4VI/?tag=redken02-21) con un 37.37 % de descuento con precio de oferta de 249.9 EUR (original: 399.0 EUR) en el siguiente enlace!
+Tienes [Melitta E950-103 Bean to Cup Coffee Machine  Solo  Plastic  1400 W  1.2 liters  Silver/Black](https://www.amazon.co.uk/dp/B002NKR4VI/?tag=redken01-21) con un 45.25 % de descuento con precio de oferta de 219.0 GBP (original: 399.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41qE+tnBx+L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B002NKR4VI/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/41qE+tnBx+L._SL200_.jpg)](https://www.amazon.co.uk/dp/B002NKR4VI/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B002NKR4VI/?tag=redken02-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B002NKR4VI/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.49 % en Yankee Candle Car Jar Ultimate  Pink San'
-date: 2020-10-16 02:46:56
+date: 2020-10-18 10:32:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hu+5gskVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hu+5gskVL._SL200_.jpg' ]
 comments: true

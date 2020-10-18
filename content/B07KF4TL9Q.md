@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Azul  al 66.91 % de descuento'
-date: 2020-04-01 06:55:51
+title: 'Levi s Men s 502 Taper Jeans  Adriatic A al 57.87 % de descuento'
+date: 2020-10-18 10:26:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41g8k+KB1aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41g8k+KB1aL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07KF4TL9Q
 description:
-actualPrice: 36.4 EUR
-comparePrice: 110.0 EUR
+actualPrice: 40.99 GBP
+comparePrice: 97.29 GBP
 inStock: true
 ---
 
-Está [Levi s 502 Regular Taper Vaqueros  Azul  Adriatico Adapt 0473   31W / 30L para Hombre](https://www.amazon.es/dp/B07KF4TL9Q/?tag=redken-21) con 66.91 de descuento por 36.4 EUR (original: 110.0 EUR) en el siguiente enlace!
+Está [Levi s Men s 502 Taper Jeans  Adriatic Adapt  31W / 30L](https://www.amazon.co.uk/dp/B07KF4TL9Q/?tag=redken01-21) con 57.87 de descuento por 40.99 GBP (original: 97.29 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41g8k+KB1aL._SL200_.jpg)](https://www.amazon.es/dp/B07KF4TL9Q/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41g8k+KB1aL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KF4TL9Q/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KF4TL9Q/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KF4TL9Q/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

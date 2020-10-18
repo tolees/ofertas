@@ -14,11 +14,11 @@ comparePrice: 135.0 GBP
 inStock: true
 ---
 
-Está [New Balance Men s Fresh Foam 1080v9 Running Shoes  Blue  Deep Ozone Blue/Dark Neptune/Black   9.5 UK - Standard  D   44 EU ](https://www.amazon.co.uk/dp/B07DPVR5TL/?tag=redken01-21) con 50.01 de descuento por 67.49 GBP (original: 135.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [New Balance Men s Fresh Foam 1080v9 Running Shoes  Blue  Deep Ozone Blue/Dark Neptune/Black   9.5 UK - Standard  D   44 EU ](https://www.amazon.co.uk/dp/B07DPVR5TL/?tag=redken01-21) a 67.49 GBP (original: 135.0 GBP) (50.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41FvW5Z7e2L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07DPVR5TL/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07DPVR5TL/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07DPVR5TL/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
