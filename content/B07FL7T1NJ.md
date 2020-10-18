@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Superdry Vintage Logo Tri tee Camiseta d al 34.41 % de descuento'
-date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UmAzyugqL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UmAzyugqL._SL200_.jpg' ]
+title: 'Superdry Vintage Logo Tri tee Camiseta d al 48.59 % de descuento'
+date: 2020-10-18 18:42:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Xt2qSjXTL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Xt2qSjXTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FL7T1NJ
 description:
-actualPrice: 22.95 EUR
+actualPrice: 17.99 EUR
 comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [Superdry Vintage Logo Tri tee Camiseta de Tirantes  Gris  Montana Grey Grit Vy8   X-Small para Hombre](https://www.amazon.es/dp/B07FL7T1NJ/?tag=redken-21) con 34.41 de descuento por 22.95 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [Superdry Vintage Logo Tri tee Camiseta de Tirantes  Gris  Montana Grey Grit Vy8   XS para Hombre](https://www.amazon.es/dp/B07FL7T1NJ/?tag=redken-21) con 48.59 de descuento por 17.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41UmAzyugqL._SL200_.jpg)](https://www.amazon.es/dp/B07FL7T1NJ/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41Xt2qSjXTL._SL200_.jpg)](https://www.amazon.es/dp/B07FL7T1NJ/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FL7T1NJ/?tag=redken-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CARE OF by PUMA Chaqueta acolchada imper al 40.62 % de descuento'
-date: 2020-10-16 17:20:59
+date: 2020-10-18 18:06:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w9KIAHC2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w9KIAHC2L._SL200_.jpg' ]
 comments: true
