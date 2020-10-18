@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pikolin Home - Pack de 2 fundas de almoh al 31.89 % de descuento'
-date: 2020-10-17 09:12:38
+date: 2020-10-18 19:54:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/21gFhMfC-VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21gFhMfC-VL._SL200_.jpg' ]
 comments: true

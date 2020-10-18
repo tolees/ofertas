@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vigilabebés Inalambrico  ANFLAG Vigilabe al 39.29 % de descuento'
-date: 2020-10-17 19:21:02
+date: 2020-10-18 19:49:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tLfpajoZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tLfpajoZL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 419 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samyang F1420506101 - Objetivo para vídeo VCSC-Mirrorless para Sony E  Distancia Focal Fija 12mm  Apertura T2.2-22 Cine NCS CS  diámetro Filtro: 67mm   Negro](https://www.amazon.es/dp/B00MHI0IGY/?tag=redken-21) a 303 EUR (original: 419 EUR) (27.68 %  de descuento) en el siguiente enlace!
+Está [Samyang F1420506101 - Objetivo para vídeo VCSC-Mirrorless para Sony E  Distancia Focal Fija 12mm  Apertura T2.2-22 Cine NCS CS  diámetro Filtro: 67mm   Negro](https://www.amazon.es/dp/B00MHI0IGY/?tag=redken-21) con 27.68 de descuento por 303 EUR (original: 419 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Qc8-sjLUL._SL200_.jpg)](https://www.amazon.es/dp/B00MHI0IGY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00MHI0IGY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00MHI0IGY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
