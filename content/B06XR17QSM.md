@@ -14,11 +14,11 @@ comparePrice: 66.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín ](https://www.amazon.es/dp/B06XR17QSM/?tag=redken-21) a 49.9 EUR (original: 66.99 EUR) (25.51 %  de descuento) en el siguiente enlace!
+Está [Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín ](https://www.amazon.es/dp/B06XR17QSM/?tag=redken-21) con 25.51 de descuento por 49.9 EUR (original: 66.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51z9BOT-bTL._SL200_.jpg)](https://www.amazon.es/dp/B06XR17QSM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XR17QSM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XR17QSM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

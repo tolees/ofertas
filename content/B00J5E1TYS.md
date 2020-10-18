@@ -14,11 +14,11 @@ comparePrice: 7.89 EUR
 inStock: true
 ---
 
-Está [Simon 27101-65 - Interruptor unipolar 27101-65](https://www.amazon.es/dp/B00J5E1TYS/?tag=redken-21) con 56.65 de descuento por 3.42 EUR (original: 7.89 EUR) en el siguiente enlace!
+Ahora mismo tienes [Simon 27101-65 - Interruptor unipolar 27101-65](https://www.amazon.es/dp/B00J5E1TYS/?tag=redken-21) a 3.42 EUR (original: 7.89 EUR) (56.65 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31USDIliYjL._SL200_.jpg)](https://www.amazon.es/dp/B00J5E1TYS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00J5E1TYS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00J5E1TYS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

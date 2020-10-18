@@ -14,11 +14,11 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Está [Nike MD Runner 2 Se  Zapatillas para Hombre  Negro Black 001  40.5 EU](https://www.amazon.es/dp/B00J3NGKOK/?tag=redken-21) con 50.37 de descuento por 32.26 EUR (original: 65 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike MD Runner 2 Se  Zapatillas para Hombre  Negro Black 001  40.5 EU](https://www.amazon.es/dp/B00J3NGKOK/?tag=redken-21) a 32.26 EUR (original: 65 EUR) (50.37 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31M8XCMlP9L._SL200_.jpg)](https://www.amazon.es/dp/B00J3NGKOK/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00J3NGKOK/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00J3NGKOK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

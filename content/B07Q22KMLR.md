@@ -14,11 +14,11 @@ comparePrice: 35.4 EUR
 inStock: true
 ---
 
-Está [120 Cápsulas Nespresso Surtido Compatibles con Máquinas Nespresso - 40 Extra Intense  20 Ristretto  20 Intense  20 Arabica  20 Decaf](https://www.amazon.es/dp/B07Q22KMLR/?tag=redken-21) con 46.36 de descuento por 18.99 EUR (original: 35.4 EUR) en el siguiente enlace!
+Ahora mismo tienes [120 Cápsulas Nespresso Surtido Compatibles con Máquinas Nespresso - 40 Extra Intense  20 Ristretto  20 Intense  20 Arabica  20 Decaf](https://www.amazon.es/dp/B07Q22KMLR/?tag=redken-21) a 18.99 EUR (original: 35.4 EUR) (46.36 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JJfaT-ZfL._SL200_.jpg)](https://www.amazon.es/dp/B07Q22KMLR/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07Q22KMLR/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07Q22KMLR/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
