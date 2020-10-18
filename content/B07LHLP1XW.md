@@ -14,11 +14,11 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The North Face Drew Peak J Jersey  Hombre  Azul  Storm Blue   M](https://www.amazon.es/dp/B07LHLP1XW/?tag=redken-21) a 37.35 EUR (original: 70 EUR) (46.64 %  de descuento) en el siguiente enlace!
+Está [The North Face Drew Peak J Jersey  Hombre  Azul  Storm Blue   M](https://www.amazon.es/dp/B07LHLP1XW/?tag=redken-21) con 46.64 de descuento por 37.35 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mM9e8D7dL._SL200_.jpg)](https://www.amazon.es/dp/B07LHLP1XW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07LHLP1XW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07LHLP1XW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
