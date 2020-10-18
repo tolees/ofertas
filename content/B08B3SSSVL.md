@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Conga 1790 Vital. Tecnología iTe al 33.46 % de descuento'
-date: 2020-10-17 11:48:23
+date: 2020-10-18 12:41:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RqrAL-JWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RqrAL-JWL._SL200_.jpg' ]
 comments: true
