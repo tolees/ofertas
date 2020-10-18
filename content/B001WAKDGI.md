@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pentel Brush Pen - Black al 43.55 % de descuento'
-date: 2020-10-17 07:21:10
+title: 'Pentel Brush Pen - Black al 43.07 % de descuento'
+date: 2020-10-18 07:42:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/319xdiYE+wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319xdiYE+wL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B001WAKDGI
 description:
-actualPrice: 9.45 GBP
+actualPrice: 9.53 GBP
 comparePrice: 16.74 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Pentel Brush Pen - Black](https://www.amazon.co.uk/dp/B001WAKDGI/?tag=redken01-21) a 9.45 GBP (original: 16.74 GBP) (43.55 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Pentel Brush Pen - Black](https://www.amazon.co.uk/dp/B001WAKDGI/?tag=redken01-21) a 9.53 GBP (original: 16.74 GBP) (43.07 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/319xdiYE+wL._SL200_.jpg)](https://www.amazon.co.uk/dp/B001WAKDGI/?tag=redken01-21)
 

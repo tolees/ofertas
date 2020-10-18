@@ -14,11 +14,11 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Belkin BSV603af2M 6 Way/6 Plug 2m Surge Protection Extension Lead Strip  White](https://www.amazon.co.uk/dp/B00OE46ELW/?tag=redken01-21) a 11.27 GBP (original: 19.99 GBP) (43.62 %  de descuento) en el siguiente enlace!
+Está [Belkin BSV603af2M 6 Way/6 Plug 2m Surge Protection Extension Lead Strip  White](https://www.amazon.co.uk/dp/B00OE46ELW/?tag=redken01-21) con 43.62 de descuento por 11.27 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41EDFLKspDL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00OE46ELW/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00OE46ELW/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00OE46ELW/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
