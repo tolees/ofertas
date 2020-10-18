@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.15 % en Calvin Klein Damen CK ADJ.Logo Belt 3.5C'
-date: 2020-10-17 07:59:06
+date: 2020-10-18 08:09:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xV9dW8BvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xV9dW8BvL._SL200_.jpg' ]
 comments: true

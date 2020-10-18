@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.35 % en Adidas Parma 16 Intenso Pantalones Corto'
-date: 2020-10-17 08:37:46
+date: 2020-10-18 08:51:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41diYD0f3VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41diYD0f3VL._SL200_.jpg' ]
 comments: true

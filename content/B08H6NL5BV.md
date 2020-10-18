@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.29 % en THEN CAME YOU'
-date: 2020-10-17 08:34:53
+date: 2020-10-18 08:45:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51a+tJfUKEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51a+tJfUKEL._SL200_.jpg' ]
 comments: true

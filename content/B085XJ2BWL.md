@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.81 % en Aspirador removedor de espinillas Limpia'
-date: 2020-10-16 10:40:39
+date: 2020-10-18 08:52:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RmzjtdqaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RmzjtdqaL._SL200_.jpg' ]
 comments: true

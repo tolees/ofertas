@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Barbie Dreamtopia  Palacio de muñecas co al 41.18 % de descuento'
-date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AJenWyKtL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AJenWyKtL._SL200_.jpg' ]
+title: 'Barbie Dreamtopia  Palacio de muñecas co al 32.84 % de descuento'
+date: 2020-10-18 08:00:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/51AJenWyKtL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51AJenWyKtL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B079JHYSJY
 description:
-actualPrice: 29.99 EUR
-comparePrice: 50.99 EUR
+actualPrice: 23.5 EUR
+comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [Barbie Dreamtopia  Palacio de muñecas con accesorios  Mattel FTV98 ](https://www.amazon.es/dp/B079JHYSJY/?tag=redken-21) con 41.18 de descuento por 29.99 EUR (original: 50.99 EUR) en el siguiente enlace!
+Está [Barbie Dreamtopia  Palacio de muñecas con accesorios  Mattel FTV98 ](https://www.amazon.es/dp/B079JHYSJY/?tag=redken-21) con 32.84 de descuento por 23.5 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51AJenWyKtL._SL200_.jpg)](https://www.amazon.es/dp/B079JHYSJY/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/51AJenWyKtL._SL200_.jpg)](https://www.amazon.es/dp/B079JHYSJY/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079JHYSJY/?tag=redken-21)
 
