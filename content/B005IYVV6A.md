@@ -14,11 +14,11 @@ comparePrice: 22 EUR
 inStock: true
 ---
 
-Está [Wella Age Restoring Cond Spray Coarse Hair 150 ml](https://www.amazon.es/dp/B005IYVV6A/?tag=redken-21) con 59.14 de descuento por 8.99 EUR (original: 22 EUR) en el siguiente enlace!
+Ahora mismo tienes [Wella Age Restoring Cond Spray Coarse Hair 150 ml](https://www.amazon.es/dp/B005IYVV6A/?tag=redken-21) a 8.99 EUR (original: 22 EUR) (59.14 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nxUnVT29L._SL200_.jpg)](https://www.amazon.es/dp/B005IYVV6A/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B005IYVV6A/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B005IYVV6A/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
