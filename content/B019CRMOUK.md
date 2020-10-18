@@ -14,11 +14,11 @@ comparePrice: 34.95 EUR
 inStock: true
 ---
 
-Está [Fantasy Flight Games Edge Entertainment - El Sheriff de Nottingham  Juego de Tablero  EDGAW01 ](https://www.amazon.es/dp/B019CRMOUK/?tag=redken-21) con 25.06 de descuento por 26.19 EUR (original: 34.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fantasy Flight Games Edge Entertainment - El Sheriff de Nottingham  Juego de Tablero  EDGAW01 ](https://www.amazon.es/dp/B019CRMOUK/?tag=redken-21) a 26.19 EUR (original: 34.95 EUR) (25.06 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61tNblq6jPL._SL200_.jpg)](https://www.amazon.es/dp/B019CRMOUK/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B019CRMOUK/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B019CRMOUK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
