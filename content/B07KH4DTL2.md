@@ -14,11 +14,11 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour UA GL Foundation SS T Camiseta  Hombre  Gris  Steel Light Heather/Graphite 035   S](https://www.amazon.es/dp/B07KH4DTL2/?tag=redken-21) a 16.17 EUR (original: 25.99 EUR) (37.78 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA GL Foundation SS T Camiseta  Hombre  Gris  Steel Light Heather/Graphite 035   S](https://www.amazon.es/dp/B07KH4DTL2/?tag=redken-21) con 37.78 de descuento por 16.17 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41deW8HM7-L._SL200_.jpg)](https://www.amazon.es/dp/B07KH4DTL2/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KH4DTL2/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KH4DTL2/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

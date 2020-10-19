@@ -14,11 +14,11 @@ comparePrice: 86.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [D-Link DHP-P601AV – Kit Powerline AV2 PLC 1000 Extensor de Red por cableado eléctrico del hogar  con Toma de Enchufe Passthrough  1000 Mbps Phy  Puerto LAN Gigabit 10/100/1000 Mbps   Blanco](https://www.amazon.es/dp/B00PVE2DP0/?tag=redken-21) a 49.45 EUR (original: 86.9 EUR) (43.10 %  de descuento) en el siguiente enlace!
+Está [D-Link DHP-P601AV – Kit Powerline AV2 PLC 1000 Extensor de Red por cableado eléctrico del hogar  con Toma de Enchufe Passthrough  1000 Mbps Phy  Puerto LAN Gigabit 10/100/1000 Mbps   Blanco](https://www.amazon.es/dp/B00PVE2DP0/?tag=redken-21) con 43.10 de descuento por 49.45 EUR (original: 86.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41b-2imxgRL._SL200_.jpg)](https://www.amazon.es/dp/B00PVE2DP0/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00PVE2DP0/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00PVE2DP0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

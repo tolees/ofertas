@@ -14,11 +14,11 @@ comparePrice: 185 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dr. Martens 2976 Crazy Horse Gaucho  Botas Chelsea Unisex Adulto  Marrón  39 EU](https://www.amazon.es/dp/B000W8AIPW/?tag=redken-21) a 110 EUR (original: 185 EUR) (40.54 %  de descuento) en el siguiente enlace!
+Está [Dr. Martens 2976 Crazy Horse Gaucho  Botas Chelsea Unisex Adulto  Marrón  39 EU](https://www.amazon.es/dp/B000W8AIPW/?tag=redken-21) con 40.54 de descuento por 110 EUR (original: 185 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GkVNdtvNL._SL200_.jpg)](https://www.amazon.es/dp/B000W8AIPW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000W8AIPW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000W8AIPW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
