@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Unisex-Erwachsene Smash v2 L Sneake al 30.13 % de descuento'
-date: 2020-10-18 14:09:35
+date: 2020-10-19 20:38:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL200_.jpg' ]
 comments: true

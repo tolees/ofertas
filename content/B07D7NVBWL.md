@@ -14,11 +14,11 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Óreal Paris Perfilador de Cejas Brow Artist High Contour - 107 Cool brunette](https://www.amazon.es/dp/B07D7NVBWL/?tag=redken-21) a 6.09 EUR (original: 12.95 EUR) (52.97 %  de descuento) en el siguiente enlace!
+Está [L Óreal Paris Perfilador de Cejas Brow Artist High Contour - 107 Cool brunette](https://www.amazon.es/dp/B07D7NVBWL/?tag=redken-21) con 52.97 de descuento por 6.09 EUR (original: 12.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21AKK9Y2pBL._SL200_.jpg)](https://www.amazon.es/dp/B07D7NVBWL/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07D7NVBWL/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07D7NVBWL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

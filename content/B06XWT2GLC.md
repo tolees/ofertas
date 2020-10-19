@@ -14,11 +14,11 @@ comparePrice: 23.53 EUR
 inStock: true
 ---
 
-Está [Amores Perros Edición Coleccionista Blu.Ray [Blu-ray]](https://www.amazon.es/dp/B06XWT2GLC/?tag=redken-21) con 49.00 de descuento por 12 EUR (original: 23.53 EUR) en el siguiente enlace!
+Ahora mismo tienes [Amores Perros Edición Coleccionista Blu.Ray [Blu-ray]](https://www.amazon.es/dp/B06XWT2GLC/?tag=redken-21) a 12 EUR (original: 23.53 EUR) (49.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61KZVNG2llL._SL200_.jpg)](https://www.amazon.es/dp/B06XWT2GLC/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XWT2GLC/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XWT2GLC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
