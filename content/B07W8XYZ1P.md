@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 29.09 % en LEGO City 60248 Einsatz mit dem Feuerweh'
-date: 2020-10-12 20:13:56
+title: 'Descuento del 33.30 % en LEGO 60248 City Fire Helicopter Response'
+date: 2020-10-19 08:56:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07W8XYZ1P
 description:
-actualPrice: 13.82 EUR
-comparePrice: 19.49 EUR
+actualPrice: 12.0 GBP
+comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO City 60248 Einsatz mit dem Feuerwehrhubschrauber mit Quad und Motorrad](https://www.amazon.de/dp/B07W8XYZ1P/?tag=redken02-21) con un 29.09 % de descuento con precio de oferta de 13.82 EUR (original: 19.49 EUR) en el siguiente enlace!
+Tienes [LEGO 60248 City Fire Helicopter Response Toy  Firefighter Adventure Building Set with ATV Quad Bike](https://www.amazon.co.uk/dp/B07W8XYZ1P/?tag=redken01-21) con un 33.30 % de descuento con precio de oferta de 12.0 GBP (original: 17.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg)](https://www.amazon.de/dp/B07W8XYZ1P/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W8XYZ1P/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07W8XYZ1P/?tag=redken02-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07W8XYZ1P/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
