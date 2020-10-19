@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bolígrafos personalizados  Pluma regalo  al 46.17 % de descuento'
-date: 2020-10-18 20:56:54
+date: 2020-10-19 21:15:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+VOLmH+1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+VOLmH+1L._SL200_.jpg' ]
 comments: true
