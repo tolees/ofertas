@@ -14,11 +14,11 @@ comparePrice: 52.43 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mega Bloks - Sala de transportación  Mattel DPH81 ](https://www.amazon.es/dp/B01CKI0Q7G/?tag=redken-21) a 19.7 EUR (original: 52.43 EUR) (62.43 %  de descuento) en el siguiente enlace!
+Está [Mega Bloks - Sala de transportación  Mattel DPH81 ](https://www.amazon.es/dp/B01CKI0Q7G/?tag=redken-21) con 62.43 de descuento por 19.7 EUR (original: 52.43 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51A2gJuwd7L._SL200_.jpg)](https://www.amazon.es/dp/B01CKI0Q7G/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01CKI0Q7G/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01CKI0Q7G/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

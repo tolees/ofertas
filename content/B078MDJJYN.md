@@ -14,11 +14,11 @@ comparePrice: 49.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [COBI- Transatlantico Britannico R.M.S. Titanic  Multicolore  1914A](https://www.amazon.it/dp/B078MDJJYN/?tag=redken03-21) a 37.04 EUR (original: 49.9 EUR) (25.77 %  de descuento) en el siguiente enlace!
+Está [COBI- Transatlantico Britannico R.M.S. Titanic  Multicolore  1914A](https://www.amazon.it/dp/B078MDJJYN/?tag=redken03-21) con 25.77 de descuento por 37.04 EUR (original: 49.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Kqj4wll1L._SL200_.jpg)](https://www.amazon.it/dp/B078MDJJYN/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B078MDJJYN/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B078MDJJYN/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

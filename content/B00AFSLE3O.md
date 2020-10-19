@@ -14,11 +14,11 @@ comparePrice: 12.84 EUR
 inStock: true
 ---
 
-Está [KitVision KVDVH90 - Trípode para Smartphones  con Soporte  5.5-8.5 cm   Color Negro](https://www.amazon.es/dp/B00AFSLE3O/?tag=redken-21) con 68.77 de descuento por 4.01 EUR (original: 12.84 EUR) en el siguiente enlace!
+Ahora mismo tienes [KitVision KVDVH90 - Trípode para Smartphones  con Soporte  5.5-8.5 cm   Color Negro](https://www.amazon.es/dp/B00AFSLE3O/?tag=redken-21) a 4.01 EUR (original: 12.84 EUR) (68.77 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gf5ojGgVL._SL200_.jpg)](https://www.amazon.es/dp/B00AFSLE3O/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00AFSLE3O/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00AFSLE3O/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

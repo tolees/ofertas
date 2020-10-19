@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.07 % en Valor  Cacao Ne gro Soluble 70% - 300 gr'
-date: 2020-10-17 08:51:04
+date: 2020-10-19 12:14:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EvIgSE48L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EvIgSE48L._SL200_.jpg' ]
 comments: true
