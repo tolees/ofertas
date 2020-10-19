@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.90 % en Aquaman [Blu Ray] [Blu-ray]'
-date: 2020-10-19 10:59:52
+date: 2020-10-19 11:00:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51apQdQs8XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51apQdQs8XL._SL200_.jpg' ]
 comments: true
