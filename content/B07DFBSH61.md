@@ -14,11 +14,11 @@ comparePrice: 15.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [POP! Vinylfigur: Lord of The Rings: Witch King](https://www.amazon.de/dp/B07DFBSH61/?tag=redken02-21) a 10.12 EUR (original: 15.9 EUR) (36.35 %  de descuento) en el siguiente enlace!
+Está [POP! Vinylfigur: Lord of The Rings: Witch King](https://www.amazon.de/dp/B07DFBSH61/?tag=redken02-21) con 36.35 de descuento por 10.12 EUR (original: 15.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5159q7fpTwL._SL200_.jpg)](https://www.amazon.de/dp/B07DFBSH61/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07DFBSH61/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07DFBSH61/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

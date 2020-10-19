@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.31 % en BT Mini Whole Home Wi-Fi  Pack of 3 Disc'
-date: 2020-10-18 02:41:02
+date: 2020-10-19 15:27:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/21WwAEhVo-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21WwAEhVo-L._SL200_.jpg' ]
 comments: true

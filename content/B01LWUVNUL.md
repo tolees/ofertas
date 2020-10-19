@@ -14,11 +14,11 @@ comparePrice: 5.72 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [[Pack de 2] VERNEL Suavizante Concentrado Frescor Botella 57 lavados](https://www.amazon.es/dp/B01LWUVNUL/?tag=redken-21) a 3.5 EUR (original: 5.72 EUR) (38.81 %  de descuento) en el siguiente enlace!
+Está [[Pack de 2] VERNEL Suavizante Concentrado Frescor Botella 57 lavados](https://www.amazon.es/dp/B01LWUVNUL/?tag=redken-21) con 38.81 de descuento por 3.5 EUR (original: 5.72 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51BclxtNxyL._SL200_.jpg)](https://www.amazon.es/dp/B01LWUVNUL/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01LWUVNUL/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LWUVNUL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
