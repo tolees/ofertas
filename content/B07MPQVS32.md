@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.93 % en Sony SRS-XB12  Altavoz  Inalámbrico y al'
-date: 2020-10-17 08:39:08
+date: 2020-10-19 09:21:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31s0snlnb2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31s0snlnb2L._SL200_.jpg' ]
 comments: true

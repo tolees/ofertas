@@ -14,11 +14,11 @@ comparePrice: 43.41 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Matrix 61616 - Acondicionador  1094 ml](https://www.amazon.es/dp/B00IK1CM5C/?tag=redken-21) a 22.09 EUR (original: 43.41 EUR) (49.11 %  de descuento) en el siguiente enlace!
+Está [Matrix 61616 - Acondicionador  1094 ml](https://www.amazon.es/dp/B00IK1CM5C/?tag=redken-21) con 49.11 de descuento por 22.09 EUR (original: 43.41 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415xJa40yHL._SL200_.jpg)](https://www.amazon.es/dp/B00IK1CM5C/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00IK1CM5C/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00IK1CM5C/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
