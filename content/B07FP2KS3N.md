@@ -14,11 +14,11 @@ comparePrice: 68.23 EUR
 inStock: true
 ---
 
-Está [LEGO 41369 - Friends Mias Haus mit Pferd  bunt](https://www.amazon.de/dp/B07FP2KS3N/?tag=redken02-21) con 26.73 de descuento por 49.99 EUR (original: 68.23 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 41369 - Friends Mias Haus mit Pferd  bunt](https://www.amazon.de/dp/B07FP2KS3N/?tag=redken02-21) a 49.99 EUR (original: 68.23 EUR) (26.73 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/510iVwDtyQL._SL200_.jpg)](https://www.amazon.de/dp/B07FP2KS3N/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FP2KS3N/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07FP2KS3N/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
