@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Pepe Jeans Original Basic S/S PM503835 C al 25.73 % de descuento'
-date: 2020-03-06 02:32:24
-thumbnailImage: 'https://m.media-amazon.com/images/I/41ctOUfgo+L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41ctOUfgo+L._AC_._SL200_.jpg' ]
+title: 'Pepe Jeans Original Basic S/S PM503835 C al 50.05 % de descuento'
+date: 2020-10-19 16:30:31
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ctOUfgo+L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ctOUfgo+L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06XTMLMCM
 description:
-actualPrice: 12.99 EUR
-comparePrice: 17.49 EUR
+actualPrice: 9.99 EUR
+comparePrice: 20.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans Original Basic S/S PM503835 Camiseta  Negro  Black 999   Medium para Hombre](https://www.amazon.es/dp/B06XTMLMCM/?tag=redken-21) a 12.99 EUR (original: 17.49 EUR) (25.73 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans Original Basic S/S PM503835 Camiseta  Negro  Black 999   Medium para Hombre](https://www.amazon.es/dp/B06XTMLMCM/?tag=redken-21) a 9.99 EUR (original: 20.0 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41ctOUfgo+L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B06XTMLMCM/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41ctOUfgo+L._SL200_.jpg)](https://www.amazon.es/dp/B06XTMLMCM/?tag=redken-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B06XTMLMCM/?tag=redken-21)
 

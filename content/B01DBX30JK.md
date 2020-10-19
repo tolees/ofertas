@@ -14,11 +14,11 @@ comparePrice: 204 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Michael Kors Abela III  Gafas de sol Unisex-Adulto  Black/White 312911 55](https://www.amazon.es/dp/B01DBX30JK/?tag=redken-21) a 100.01 EUR (original: 204 EUR) (50.98 %  de descuento) en el siguiente enlace!
+Está [Michael Kors Abela III  Gafas de sol Unisex-Adulto  Black/White 312911 55](https://www.amazon.es/dp/B01DBX30JK/?tag=redken-21) con 50.98 de descuento por 100.01 EUR (original: 204 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31qD%2BVxCu-L._SL200_.jpg)](https://www.amazon.es/dp/B01DBX30JK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01DBX30JK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01DBX30JK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
