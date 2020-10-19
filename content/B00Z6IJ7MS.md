@@ -14,11 +14,11 @@ comparePrice: 244.99 EUR
 inStock: true
 ---
 
-Está [Bosch PSB 1800 LI-2 - Taladro de percusión a batería  2 baterías 18V 1 5Ah  maletín ](https://www.amazon.es/dp/B00Z6IJ7MS/?tag=redken-21) con 35.10 de descuento por 159 EUR (original: 244.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch PSB 1800 LI-2 - Taladro de percusión a batería  2 baterías 18V 1 5Ah  maletín ](https://www.amazon.es/dp/B00Z6IJ7MS/?tag=redken-21) a 159 EUR (original: 244.99 EUR) (35.10 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/510QDo0dKkL._SL200_.jpg)](https://www.amazon.es/dp/B00Z6IJ7MS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00Z6IJ7MS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00Z6IJ7MS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

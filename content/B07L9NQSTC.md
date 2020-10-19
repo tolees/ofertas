@@ -14,11 +14,11 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Napapijri Elbas 2 Polo  Mineral Beige Nb4  Medium para Hombre](https://www.amazon.es/dp/B07L9NQSTC/?tag=redken-21) a 21.96 EUR (original: 59 EUR) (62.78 %  de descuento) en el siguiente enlace!
+Está [Napapijri Elbas 2 Polo  Mineral Beige Nb4  Medium para Hombre](https://www.amazon.es/dp/B07L9NQSTC/?tag=redken-21) con 62.78 de descuento por 21.96 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/315ZdPTfksL._SL200_.jpg)](https://www.amazon.es/dp/B07L9NQSTC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07L9NQSTC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07L9NQSTC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
