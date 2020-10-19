@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.70 % en Xiaomi MJCQB02QJ Mobiler Luftkompressor '
-date: 2020-10-17 20:20:55
+date: 2020-10-19 02:15:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31bEiD3Q2zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31bEiD3Q2zL._SL200_.jpg' ]
 comments: true

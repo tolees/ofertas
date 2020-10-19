@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gears 5 – Standard Edition | Xbox One/ W al 71.44 % de descuento'
-date: 2020-10-18 02:07:23
+date: 2020-10-19 02:22:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51C0ZS99upL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51C0ZS99upL._SL200_.jpg' ]
 comments: true
