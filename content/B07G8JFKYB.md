@@ -14,11 +14,11 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Colágeno con magnesio. Colágeno PEPTAN ® marino hidrolizado+magnesio+Ácido hialurónico+vitamina C. Potente suplemento para mantenimiento de articulaciones  cartílagos  huesos y piel. 100 cápsulas](https://www.amazon.es/dp/B07G8JFKYB/?tag=redken-21) a 13.56 EUR (original: 24.99 EUR) (45.74 %  de descuento) en el siguiente enlace!
+Está [Colágeno con magnesio. Colágeno PEPTAN ® marino hidrolizado+magnesio+Ácido hialurónico+vitamina C. Potente suplemento para mantenimiento de articulaciones  cartílagos  huesos y piel. 100 cápsulas](https://www.amazon.es/dp/B07G8JFKYB/?tag=redken-21) con 45.74 de descuento por 13.56 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416XiBDr1kL._SL200_.jpg)](https://www.amazon.es/dp/B07G8JFKYB/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07G8JFKYB/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07G8JFKYB/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Manarola Chándal  Unisex adulto  Multicolor  Negro/Amarillo   L](https://www.amazon.es/dp/B0741GSYBH/?tag=redken-21) a 24.45 EUR (original: 65 EUR) (62.38 %  de descuento) en el siguiente enlace!
+Está [Kappa Manarola Chándal  Unisex adulto  Multicolor  Negro/Amarillo   L](https://www.amazon.es/dp/B0741GSYBH/?tag=redken-21) con 62.38 de descuento por 24.45 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31tt%2B7hbj1L._SL200_.jpg)](https://www.amazon.es/dp/B0741GSYBH/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0741GSYBH/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0741GSYBH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

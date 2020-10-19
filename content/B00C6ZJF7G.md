@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 61.51 % en APLI Kids 12916 - Pizarra blanca rígida '
-date: 2020-10-17 12:51:21
+date: 2020-10-19 07:25:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oGS4gnifL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oGS4gnifL._SL200_.jpg' ]
 comments: true
