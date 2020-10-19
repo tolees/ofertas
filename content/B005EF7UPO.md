@@ -14,11 +14,11 @@ comparePrice: 125.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Makita HP1631K - Taladro Percutor 710W 1.9 Kg 3200 Rpm Portabrocas Auto](https://www.amazon.es/dp/B005EF7UPO/?tag=redken-21) a 79.94 EUR (original: 125.49 EUR) (36.30 %  de descuento) en el siguiente enlace!
+Está [Makita HP1631K - Taladro Percutor 710W 1.9 Kg 3200 Rpm Portabrocas Auto](https://www.amazon.es/dp/B005EF7UPO/?tag=redken-21) con 36.30 de descuento por 79.94 EUR (original: 125.49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qRGSf9QZL._SL200_.jpg)](https://www.amazon.es/dp/B005EF7UPO/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B005EF7UPO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B005EF7UPO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
