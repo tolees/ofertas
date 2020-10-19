@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.97 % en Agenda rotu 2020-2021 Semana vista - A v'
-date: 2020-10-18 13:43:08
+date: 2020-10-19 14:05:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cnReLzzXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cnReLzzXL._SL200_.jpg' ]
 comments: true

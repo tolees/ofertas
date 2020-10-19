@@ -14,11 +14,11 @@ comparePrice: 12.1 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dark Shadows [Italia] [Blu-ray]](https://www.amazon.es/dp/B008GIF9RM/?tag=redken-21) a 5.71 EUR (original: 12.1 EUR) (52.81 %  de descuento) en el siguiente enlace!
+Está [Dark Shadows [Italia] [Blu-ray]](https://www.amazon.es/dp/B008GIF9RM/?tag=redken-21) con 52.81 de descuento por 5.71 EUR (original: 12.1 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tAfmB9qYL._SL200_.jpg)](https://www.amazon.es/dp/B008GIF9RM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008GIF9RM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008GIF9RM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

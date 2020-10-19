@@ -14,11 +14,11 @@ comparePrice: 29.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans West Sir Camiseta  Verde  Absynth 625   Medium para Hombre](https://www.amazon.es/dp/B07N9CKTBG/?tag=redken-21) a 16.95 EUR (original: 29.9 EUR) (43.31 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans West Sir Camiseta  Verde  Absynth 625   Medium para Hombre](https://www.amazon.es/dp/B07N9CKTBG/?tag=redken-21) con 43.31 de descuento por 16.95 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xJo4S6WJL._SL200_.jpg)](https://www.amazon.es/dp/B07N9CKTBG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07N9CKTBG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07N9CKTBG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

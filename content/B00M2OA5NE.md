@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cybex Silver Solution X2-Fix - Silla de  al 40.90 % de descuento'
-date: 2020-10-18 09:25:39
+date: 2020-10-19 14:06:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ki6uw6CuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ki6uw6CuL._SL200_.jpg' ]
 comments: true
