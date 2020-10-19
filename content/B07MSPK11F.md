@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.57 % en Marca Amazon - find. Parka - Chaqueta Ho'
-date: 2020-10-16 13:41:22
+date: 2020-10-19 17:16:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jJ8ImeIeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jJ8ImeIeL._SL200_.jpg' ]
 comments: true

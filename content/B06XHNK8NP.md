@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krups Nespresso XN110B Krups Essenza Min al 50.83 % de descuento'
-date: 2020-10-18 12:53:18
+date: 2020-10-19 17:28:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Yxc3wJ1dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Yxc3wJ1dL._SL200_.jpg' ]
 comments: true
