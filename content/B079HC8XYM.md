@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kiwisac Mochila Infantil The Pirates Boy al 62.96 % de descuento'
-date: 2020-10-02 06:47:43
+date: 2020-10-19 10:19:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DnonIxCCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DnonIxCCL._SL200_.jpg' ]
 comments: true
