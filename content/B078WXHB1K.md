@@ -14,11 +14,11 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hackett GMT Dye Delave OXF BS Camisa  Rosa  Baby Pink 360   Small para Hombre](https://www.amazon.es/dp/B078WXHB1K/?tag=redken-21) a 48.86 EUR (original: 100 EUR) (51.14 %  de descuento) en el siguiente enlace!
+Está [Hackett GMT Dye Delave OXF BS Camisa  Rosa  Baby Pink 360   Small para Hombre](https://www.amazon.es/dp/B078WXHB1K/?tag=redken-21) con 51.14 de descuento por 48.86 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31GiwwLp82L._SL200_.jpg)](https://www.amazon.es/dp/B078WXHB1K/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078WXHB1K/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078WXHB1K/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
