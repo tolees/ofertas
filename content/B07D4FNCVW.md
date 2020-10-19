@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.04 % en GLEADING Remueve-Pelusa Mágico-Removedor'
-date: 
+date: 2020-10-19 03:18:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vp3f9uncL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vp3f9uncL._SL200_.jpg' ]
 comments: true
