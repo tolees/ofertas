@@ -14,11 +14,11 @@ comparePrice: 7.42 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Milano 16 Sock - Medias para hombre  multicolor   Verde / Gris   talla 31-33 EU](https://www.amazon.es/dp/B016R6XCHS/?tag=redken-21) a 4.42 EUR (original: 7.42 EUR) (40.43 %  de descuento) en el siguiente enlace!
+Está [adidas Milano 16 Sock - Medias para hombre  multicolor   Verde / Gris   talla 31-33 EU](https://www.amazon.es/dp/B016R6XCHS/?tag=redken-21) con 40.43 de descuento por 4.42 EUR (original: 7.42 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41p0Swh7eGL._SL200_.jpg)](https://www.amazon.es/dp/B016R6XCHS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B016R6XCHS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B016R6XCHS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
