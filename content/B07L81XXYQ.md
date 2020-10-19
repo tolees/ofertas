@@ -14,11 +14,11 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [INTEY Coche con Control Remoto  RC Car 1:12 Escala 2.4GHz RC Buggy Coche con Control Remoto 4WD 50M Control Remoto para Adultos y niños  niñas y niños](https://www.amazon.es/dp/B07L81XXYQ/?tag=redken-21) con 37.50 de descuento por 49.99 EUR (original: 79.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [INTEY Coche con Control Remoto  RC Car 1:12 Escala 2.4GHz RC Buggy Coche con Control Remoto 4WD 50M Control Remoto para Adultos y niños  niñas y niños](https://www.amazon.es/dp/B07L81XXYQ/?tag=redken-21) a 49.99 EUR (original: 79.99 EUR) (37.50 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51COr-bY8QL._SL200_.jpg)](https://www.amazon.es/dp/B07L81XXYQ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07L81XXYQ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07L81XXYQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

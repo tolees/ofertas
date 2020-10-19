@@ -14,11 +14,11 @@ comparePrice: 98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Michael Kors 1-29-19-02 - EDP Spray  100 ml](https://www.amazon.es/dp/B000SSFPFE/?tag=redken-21) a 55.99 EUR (original: 98 EUR) (42.87 %  de descuento) en el siguiente enlace!
+Está [Michael Kors 1-29-19-02 - EDP Spray  100 ml](https://www.amazon.es/dp/B000SSFPFE/?tag=redken-21) con 42.87 de descuento por 55.99 EUR (original: 98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319TUMQed-L._SL200_.jpg)](https://www.amazon.es/dp/B000SSFPFE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000SSFPFE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000SSFPFE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

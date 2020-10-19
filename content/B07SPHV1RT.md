@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Just Dance 2020 - Xbox One Standard Edit'
-date: 2020-04-15 23:27:18
+date: 2020-10-19 06:44:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GTb0zfcvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GTb0zfcvL._SL200_.jpg' ]
 comments: true

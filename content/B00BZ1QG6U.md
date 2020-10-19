@@ -14,11 +14,11 @@ comparePrice: 21.29 EUR
 inStock: true
 ---
 
-Está [Roura 901171  Vela de Limoncillo del Mediterráneo  Colores Surtidos  70 x 155 mm](https://www.amazon.es/dp/B00BZ1QG6U/?tag=redken-21) con 51.10 de descuento por 10.41 EUR (original: 21.29 EUR) en el siguiente enlace!
+Ahora mismo tienes [Roura 901171  Vela de Limoncillo del Mediterráneo  Colores Surtidos  70 x 155 mm](https://www.amazon.es/dp/B00BZ1QG6U/?tag=redken-21) a 10.41 EUR (original: 21.29 EUR) (51.10 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317L%2BgdEWCL._SL200_.jpg)](https://www.amazon.es/dp/B00BZ1QG6U/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00BZ1QG6U/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00BZ1QG6U/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
