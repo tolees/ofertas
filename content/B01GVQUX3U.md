@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony Manette PlayStation 4 officielle  D al 29.15 % de descuento'
-date: 2020-10-08 05:46:11
+title: 'PlayStation 4 - Dualshock 4 Controller W al 27.13 % de descuento'
+date: 2020-10-19 01:44:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B01GVQUX3U
 description:
-actualPrice: 42.5 EUR
-comparePrice: 59.99 EUR
+actualPrice: 51.0 EUR
+comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire ](https://www.amazon.fr/dp/B01GVQUX3U/?tag=redken012-21) con 29.15 de descuento por 42.5 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [PlayStation 4 - Dualshock 4 Controller Wireless V2  Nero](https://www.amazon.it/dp/B01GVQUX3U/?tag=redken03-21) con 27.13 de descuento por 51.0 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg)](https://www.amazon.fr/dp/B01GVQUX3U/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg)](https://www.amazon.it/dp/B01GVQUX3U/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01GVQUX3U/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01GVQUX3U/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
