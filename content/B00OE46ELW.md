@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.62 % en Belkin BSV603af2M 6 Way/6 Plug 2m Surge '
-date: 2020-10-18 10:28:56
+date: 2020-10-19 18:51:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EDFLKspDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EDFLKspDL._SL200_.jpg' ]
 comments: true

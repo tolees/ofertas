@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung C24F390 24-Inch Curved LED Monit al 26.93 % de descuento'
-date: 2020-10-18 10:30:14
+date: 2020-10-19 18:53:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tquznj7EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tquznj7EL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 50.89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tarjetas Lexar Professional 1000x SDHC/SDXC UHS-II 64 GB [Embalaje ecológico]](https://www.amazon.es/dp/B07F9TNNW1/?tag=redken-21) a 29.99 EUR (original: 50.89 EUR) (41.07 %  de descuento) en el siguiente enlace!
+Está [Tarjetas Lexar Professional 1000x SDHC/SDXC UHS-II 64 GB [Embalaje ecológico]](https://www.amazon.es/dp/B07F9TNNW1/?tag=redken-21) con 41.07 de descuento por 29.99 EUR (original: 50.89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51HRgJ6LO9L._SL200_.jpg)](https://www.amazon.es/dp/B07F9TNNW1/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07F9TNNW1/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07F9TNNW1/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
