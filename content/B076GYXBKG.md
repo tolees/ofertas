@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Activ Life Luces LED bicis  Set de 2 Roj al 39.37 % de descuento'
-date: 2020-10-18 16:13:20
+date: 2020-10-20 09:33:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OQQ4XLgYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OQQ4XLgYL._SL200_.jpg' ]
 comments: true

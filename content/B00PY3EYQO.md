@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LEGO 10698 Classic Large Creative Brick  al 25.11 % de descuento'
-date: 2020-10-17 19:36:34
-thumbnailImage: 'https://m.media-amazon.com/images/I/51Zm3QKl3FL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51Zm3QKl3FL._SL200_.jpg' ]
+date: 2020-10-20 09:05:03
+thumbnailImage: 'https://m.media-amazon.com/images/I/51888edn5nL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51888edn5nL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [LEGO 10698 Classic Large Creative Brick Box Construction Set  Toy Storage  Fun Colourful Toy Bricks for Lego Masters](https://www.amazon.co.uk/dp/B00PY3EYQO/?tag=redken01-21) con 25.11 de descuento por 29.95 GBP (original: 39.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Zm3QKl3FL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00PY3EYQO/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/51888edn5nL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00PY3EYQO/?tag=redken01-21)
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B00PY3EYQO/?tag=redken01-21)
 
