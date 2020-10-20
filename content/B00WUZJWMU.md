@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.44 % en Radarcan® R-105 AntiRatones y Cucarachas'
-date: 2020-10-18 10:00:54
+date: 2020-10-20 21:52:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EH2dyAtAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EH2dyAtAL._SL200_.jpg' ]
 comments: true

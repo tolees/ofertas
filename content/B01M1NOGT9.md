@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS al 44.02 % de descuento'
-date: 2020-10-19 17:31:51
+date: 2020-10-20 21:46:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dWYrl0PVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dWYrl0PVL._SL200_.jpg' ]
 comments: true

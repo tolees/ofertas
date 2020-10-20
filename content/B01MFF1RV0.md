@@ -14,11 +14,11 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ecco Lisbon  Derby para Hombre  Negro  Black   46 EU](https://www.amazon.es/dp/B01MFF1RV0/?tag=redken-21) a 60.65 EUR (original: 130 EUR) (53.35 %  de descuento) en el siguiente enlace!
+Está [Ecco Lisbon  Derby para Hombre  Negro  Black   46 EU](https://www.amazon.es/dp/B01MFF1RV0/?tag=redken-21) con 53.35 de descuento por 60.65 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jKpVcFxRL._SL200_.jpg)](https://www.amazon.es/dp/B01MFF1RV0/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MFF1RV0/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MFF1RV0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
