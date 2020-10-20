@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baylis & Harding Aloe/Tea Tree/Lime Anti al 25.00 % de descuento'
-date: 2020-10-17 20:03:30
+date: 2020-10-20 08:49:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/414-uE-OF1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414-uE-OF1L._SL200_.jpg' ]
 comments: true

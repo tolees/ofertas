@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 51.92 % en Stardrops Pink Stuff Paste 500 grams'
-date: 2020-10-17 19:40:46
+title: 'Descuento del 52.37 % en Stardrops Pink Stuff Paste 500 grams'
+date: 2020-10-20 08:44:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DV2Sk2iuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DV2Sk2iuL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00DU5SRIY
 description:
-actualPrice: 3.25 GBP
+actualPrice: 3.22 GBP
 comparePrice: 6.76 GBP
 inStock: true
 ---
 
-Tienes [Stardrops Pink Stuff Paste 500 grams](https://www.amazon.co.uk/dp/B00DU5SRIY/?tag=redken01-21) con un 51.92 % de descuento con precio de oferta de 3.25 GBP (original: 6.76 GBP) en el siguiente enlace!
+Tienes [Stardrops Pink Stuff Paste 500 grams](https://www.amazon.co.uk/dp/B00DU5SRIY/?tag=redken01-21) con un 52.37 % de descuento con precio de oferta de 3.22 GBP (original: 6.76 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41DV2Sk2iuL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00DU5SRIY/?tag=redken01-21)
 

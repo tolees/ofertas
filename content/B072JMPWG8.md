@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.92 % en Pringles Sour Cream and Onion Crisps   1'
-date: 2020-10-17 20:09:52
+date: 2020-10-20 08:59:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41syPMgrGQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41syPMgrGQL._SL200_.jpg' ]
 comments: true

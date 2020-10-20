@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cadbury Timeout Wafer Bars  7 x 21.2g al 33.61 % de descuento'
-date: 2020-10-18 01:43:47
+date: 2020-10-20 08:48:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jIQB-+GTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jIQB-+GTL._SL200_.jpg' ]
 comments: true

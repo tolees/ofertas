@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SIMREX X300C Mini Drone with Camera WIFI al 32.67 % de descuento'
-date: 2020-10-17 19:50:20
+date: 2020-10-20 08:39:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yyKLifOcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yyKLifOcL._SL200_.jpg' ]
 comments: true
@@ -14,11 +14,11 @@ comparePrice: 49.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [SIMREX X300C Mini Drone with Camera WIFI HD FPV Foldable RC Quadcopter RTF 4CH 2.4Ghz Remote Control Headless [Altitude Hold] Super Easy Fly for Training - White](https://www.amazon.co.uk/dp/B07J4VLR7S/?tag=redken01-21) a 32.99 GBP (original: 49.0 GBP) (32.67 %  de descuento) en el siguiente enlace!
+Está [SIMREX X300C Mini Drone with Camera WIFI HD FPV Foldable RC Quadcopter RTF 4CH 2.4Ghz Remote Control Headless [Altitude Hold] Super Easy Fly for Training - White](https://www.amazon.co.uk/dp/B07J4VLR7S/?tag=redken01-21) con 32.67 de descuento por 32.99 GBP (original: 49.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41yyKLifOcL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07J4VLR7S/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07J4VLR7S/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07J4VLR7S/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

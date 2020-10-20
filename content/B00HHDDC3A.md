@@ -14,11 +14,11 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley M Phantom Coastline Short 18  Bermudas  Hombre  Khaki  30](https://www.amazon.es/dp/B00HHDDC3A/?tag=redken-21) a 19.2 EUR (original: 60 EUR) (68.00 %  de descuento) en el siguiente enlace!
+Está [Hurley M Phantom Coastline Short 18  Bermudas  Hombre  Khaki  30](https://www.amazon.es/dp/B00HHDDC3A/?tag=redken-21) con 68.00 de descuento por 19.2 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41D9XcUVYyL._SL200_.jpg)](https://www.amazon.es/dp/B00HHDDC3A/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00HHDDC3A/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00HHDDC3A/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
