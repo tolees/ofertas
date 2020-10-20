@@ -14,11 +14,11 @@ comparePrice: 48.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [TANBURO-Grifo para Cocina y Baño  Fregaderos de Cocina Grifo extraíble Grifo con Ducha Extensible agua caliente y fría](https://www.amazon.es/dp/B06WLGPDC1/?tag=redken-21) a 31.86 EUR (original: 48.99 EUR) (34.97 %  de descuento) en el siguiente enlace!
+Está [TANBURO-Grifo para Cocina y Baño  Fregaderos de Cocina Grifo extraíble Grifo con Ducha Extensible agua caliente y fría](https://www.amazon.es/dp/B06WLGPDC1/?tag=redken-21) con 34.97 de descuento por 31.86 EUR (original: 48.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Xd-52yzkL._SL200_.jpg)](https://www.amazon.es/dp/B06WLGPDC1/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06WLGPDC1/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06WLGPDC1/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

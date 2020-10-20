@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 64.47 % en Reebok Classic Leather  Zapatillas de Ru'
-date: 2020-01-08 16:38:56
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg' ]
+title: 'Descuento del 65.72 % en Reebok Classic Leather  Zapatillas de Ru'
+date: 2020-10-20 11:49:19
+thumbnailImage: 'https://m.media-amazon.com/images/I/41xrdYFgu2L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41xrdYFgu2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B001NYH2XK
 description:
-actualPrice: 31.96 EUR
-comparePrice: 89.95 EUR
+actualPrice: 23.99 EUR
+comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Tienes [Reebok Classic Leather  Zapatillas de Running para Mujer  36](https://www.amazon.es/dp/B001NYH2XK/?tag=redken-21) con un 64.47 % de descuento con precio de oferta de 31.96 EUR (original: 89.95 EUR) en el siguiente enlace!
+Tienes [Reebok Classic Leather  Zapatillas de Running para Mujer  36](https://www.amazon.es/dp/B001NYH2XK/?tag=redken-21) con un 65.72 % de descuento con precio de oferta de 23.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg)](https://www.amazon.es/dp/B001NYH2XK/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41xrdYFgu2L._SL200_.jpg)](https://www.amazon.es/dp/B001NYH2XK/?tag=redken-21)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001NYH2XK/?tag=redken-21)
 
