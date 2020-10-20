@@ -14,11 +14,11 @@ comparePrice: 109 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Rey Sport 119 2 Cfa  Zapatillas para Mujer  Azul  Nvy/Gld Ng5   36 EU](https://www.amazon.es/dp/B07DJ4MGPW/?tag=redken-21) a 59.35 EUR (original: 109 EUR) (45.55 %  de descuento) en el siguiente enlace!
+Está [Lacoste Rey Sport 119 2 Cfa  Zapatillas para Mujer  Azul  Nvy/Gld Ng5   36 EU](https://www.amazon.es/dp/B07DJ4MGPW/?tag=redken-21) con 45.55 de descuento por 59.35 EUR (original: 109 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31vTe82PhqL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ4MGPW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DJ4MGPW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DJ4MGPW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

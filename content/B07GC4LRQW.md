@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech M110 Ratón con Cable USB  Boton al 25.02 % de descuento'
-date: 2020-10-12 16:15:52
+date: 2020-10-20 12:46:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31e7at3Fu3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31e7at3Fu3L._SL200_.jpg' ]
 comments: true

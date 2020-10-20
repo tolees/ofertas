@@ -14,11 +14,11 @@ comparePrice: 78 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Acqua Di Parma Colonia Club agua de colonia Vaporizador 50 ml](https://www.amazon.es/dp/B013SVAFES/?tag=redken-21) a 47.46 EUR (original: 78 EUR) (39.15 %  de descuento) en el siguiente enlace!
+Está [Acqua Di Parma Colonia Club agua de colonia Vaporizador 50 ml](https://www.amazon.es/dp/B013SVAFES/?tag=redken-21) con 39.15 de descuento por 47.46 EUR (original: 78 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31texqfLKCL._SL200_.jpg)](https://www.amazon.es/dp/B013SVAFES/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B013SVAFES/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B013SVAFES/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

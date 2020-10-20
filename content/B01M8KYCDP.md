@@ -14,11 +14,11 @@ comparePrice: 46.38 EUR
 inStock: true
 ---
 
-Está [Safta Mochila Escolar Soy Luna "Faces" Oficial 320x150x420mm](https://www.amazon.es/dp/B01M8KYCDP/?tag=redken-21) con 67.90 de descuento por 14.89 EUR (original: 46.38 EUR) en el siguiente enlace!
+Ahora mismo tienes [Safta Mochila Escolar Soy Luna "Faces" Oficial 320x150x420mm](https://www.amazon.es/dp/B01M8KYCDP/?tag=redken-21) a 14.89 EUR (original: 46.38 EUR) (67.90 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61xY3niai8L._SL200_.jpg)](https://www.amazon.es/dp/B01M8KYCDP/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01M8KYCDP/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01M8KYCDP/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
