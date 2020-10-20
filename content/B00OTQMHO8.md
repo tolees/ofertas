@@ -14,11 +14,11 @@ comparePrice: 9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [W7 Lightly Toasted Paleta de 12 Sombras de Ojos  Brillante Pigmentada - 141 gr](https://www.amazon.es/dp/B00OTQMHO8/?tag=redken-21) a 5.95 EUR (original: 9 EUR) (33.89 %  de descuento) en el siguiente enlace!
+Está [W7 Lightly Toasted Paleta de 12 Sombras de Ojos  Brillante Pigmentada - 141 gr](https://www.amazon.es/dp/B00OTQMHO8/?tag=redken-21) con 33.89 de descuento por 5.95 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cAhJOnQtL._SL200_.jpg)](https://www.amazon.es/dp/B00OTQMHO8/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00OTQMHO8/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00OTQMHO8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

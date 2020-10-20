@@ -14,11 +14,11 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ESPRIT Astro Glitt Lu  Zapatillas para Mujer  Rosa  Dark Old Pink 675   36 EU](https://www.amazon.es/dp/B07BFKRBVR/?tag=redken-21) a 21.82 EUR (original: 79.99 EUR) (72.72 %  de descuento) en el siguiente enlace!
+Está [ESPRIT Astro Glitt Lu  Zapatillas para Mujer  Rosa  Dark Old Pink 675   36 EU](https://www.amazon.es/dp/B07BFKRBVR/?tag=redken-21) con 72.72 de descuento por 21.82 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41trvz7RbiL._SL200_.jpg)](https://www.amazon.es/dp/B07BFKRBVR/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07BFKRBVR/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BFKRBVR/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

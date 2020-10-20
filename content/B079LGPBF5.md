@@ -14,11 +14,11 @@ comparePrice: 41.1 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lancaster  Tónico corporal - 125 ml.](https://www.amazon.es/dp/B079LGPBF5/?tag=redken-21) a 17.6 EUR (original: 41.1 EUR) (57.18 %  de descuento) en el siguiente enlace!
+Está [Lancaster  Tónico corporal - 125 ml.](https://www.amazon.es/dp/B079LGPBF5/?tag=redken-21) con 57.18 de descuento por 17.6 EUR (original: 41.1 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GC2%2Bd1PnL._SL200_.jpg)](https://www.amazon.es/dp/B079LGPBF5/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079LGPBF5/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079LGPBF5/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

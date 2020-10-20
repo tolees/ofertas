@@ -14,11 +14,11 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Está [LEGO 60248 City Fire Helicopter Response Toy  Firefighter Adventure Building Set with ATV Quad Bike](https://www.amazon.co.uk/dp/B07W8XYZ1P/?tag=redken01-21) con 33.30 de descuento por 12.0 GBP (original: 17.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60248 City Fire Helicopter Response Toy  Firefighter Adventure Building Set with ATV Quad Bike](https://www.amazon.co.uk/dp/B07W8XYZ1P/?tag=redken01-21) a 12.0 GBP (original: 17.99 GBP) (33.30 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W8XYZ1P/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07W8XYZ1P/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07W8XYZ1P/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
