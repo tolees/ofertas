@@ -14,11 +14,11 @@ comparePrice: 67.04 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Canson 401405 - Papel para dibujo  250 hojas](https://www.amazon.es/dp/B00J6YPEXO/?tag=redken-21) a 27.36 EUR (original: 67.04 EUR) (59.19 %  de descuento) en el siguiente enlace!
+Está [Canson 401405 - Papel para dibujo  250 hojas](https://www.amazon.es/dp/B00J6YPEXO/?tag=redken-21) con 59.19 de descuento por 27.36 EUR (original: 67.04 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Kt9S76h3L._SL200_.jpg)](https://www.amazon.es/dp/B00J6YPEXO/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00J6YPEXO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00J6YPEXO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
