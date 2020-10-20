@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI P40 Lite - Smartphone con pantall al 27.03 % de descuento'
-date: 2020-10-19 06:28:58
+date: 2020-10-20 06:38:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eBIl33f8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eBIl33f8L._SL200_.jpg' ]
 comments: true
