@@ -14,11 +14,11 @@ comparePrice: 57.5 EUR
 inStock: true
 ---
 
-Está [Carolina Herrera Good Girl - Eau de Parfum  Spray  30 ml ](https://www.amazon.es/dp/B01IYBR7X4/?tag=redken-21) con 25.30 de descuento por 42.95 EUR (original: 57.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Carolina Herrera Good Girl - Eau de Parfum  Spray  30 ml ](https://www.amazon.es/dp/B01IYBR7X4/?tag=redken-21) a 42.95 EUR (original: 57.5 EUR) (25.30 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41n4HMrWOvL._SL200_.jpg)](https://www.amazon.es/dp/B01IYBR7X4/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01IYBR7X4/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01IYBR7X4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

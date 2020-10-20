@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.72 % en Tommy Hilfiger Bralette Corsetto  Azul  '
-date: 2020-10-19 08:02:26
+date: 2020-10-20 17:42:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Jyfz9i9eL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Jyfz9i9eL._SL200_.jpg' ]
 comments: true

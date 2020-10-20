@@ -14,11 +14,11 @@ comparePrice: 27.19 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [STAEDTLER 334 C60 triplus fineliner 60 brilliant colours - 0.3mm line width](https://www.amazon.co.uk/dp/B07NXJ56FX/?tag=redken01-21) a 19.99 GBP (original: 27.19 GBP) (26.48 %  de descuento) en el siguiente enlace!
+Está [STAEDTLER 334 C60 triplus fineliner 60 brilliant colours - 0.3mm line width](https://www.amazon.co.uk/dp/B07NXJ56FX/?tag=redken01-21) con 26.48 de descuento por 19.99 GBP (original: 27.19 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51d7dk9SAiL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07NXJ56FX/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07NXJ56FX/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07NXJ56FX/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

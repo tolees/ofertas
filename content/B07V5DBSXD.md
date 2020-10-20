@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en Tetris 99 + 12 meses Nintendo Switch Onl'
-date: 2020-10-19 09:22:51
+date: 2020-10-20 17:30:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/516IqC-+tvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516IqC-+tvL._SL200_.jpg' ]
 comments: true
