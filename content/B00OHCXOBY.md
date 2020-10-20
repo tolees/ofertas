@@ -14,11 +14,11 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Savigno Tks Chándal Deportivo  Hombre   Navy/Red   L](https://www.amazon.es/dp/B00OHCXOBY/?tag=redken-21) a 24.95 EUR (original: 45 EUR) (44.56 %  de descuento) en el siguiente enlace!
+Está [Kappa Savigno Tks Chándal Deportivo  Hombre   Navy/Red   L](https://www.amazon.es/dp/B00OHCXOBY/?tag=redken-21) con 44.56 de descuento por 24.95 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31bi8v0FjfL._SL200_.jpg)](https://www.amazon.es/dp/B00OHCXOBY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00OHCXOBY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00OHCXOBY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

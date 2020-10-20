@@ -14,11 +14,11 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko Pop!- Jack Sparrow Figura de Vinilo  colección de Pop  seria Pirates 5  12803 ](https://www.amazon.es/dp/B06XGFL1XJ/?tag=redken-21) con 40.76 de descuento por 8.88 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop!- Jack Sparrow Figura de Vinilo  colección de Pop  seria Pirates 5  12803 ](https://www.amazon.es/dp/B06XGFL1XJ/?tag=redken-21) a 8.88 EUR (original: 14.99 EUR) (40.76 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51VmjaTPf6L._SL200_.jpg)](https://www.amazon.es/dp/B06XGFL1XJ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XGFL1XJ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XGFL1XJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
