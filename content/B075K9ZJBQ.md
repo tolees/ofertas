@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.57 % en New Balance Hombre 574v2-core Trainers Z'
-date: 2020-10-19 13:35:37
+date: 2020-10-20 13:43:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 20.75 EUR
 inStock: true
 ---
 
-Está [Rimmel London  Max Facto  y Bourjois pack  Mascara pestañas Volume Colourist  Lapiz ojos Long Lasting  Barra labios Rimmel London  Barra labios Bourjois  Gel uñas PerfectStay  Sombra de Ojos paleta ](https://www.amazon.es/dp/B084LKF8GJ/?tag=redken-21) con 30.02 de descuento por 14.52 EUR (original: 20.75 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London  Max Facto  y Bourjois pack  Mascara pestañas Volume Colourist  Lapiz ojos Long Lasting  Barra labios Rimmel London  Barra labios Bourjois  Gel uñas PerfectStay  Sombra de Ojos paleta ](https://www.amazon.es/dp/B084LKF8GJ/?tag=redken-21) a 14.52 EUR (original: 20.75 EUR) (30.02 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41z3nb7TyfL._SL200_.jpg)](https://www.amazon.es/dp/B084LKF8GJ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B084LKF8GJ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B084LKF8GJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
