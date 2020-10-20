@@ -14,11 +14,11 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste TH6709  Camiseta para Hombre  Azul  Marine   M  Talla del fabricante: 4 ](https://www.amazon.es/dp/B01MYHC5KT/?tag=redken-21) a 29.95 EUR (original: 50 EUR) (40.10 %  de descuento) en el siguiente enlace!
+Está [Lacoste TH6709  Camiseta para Hombre  Azul  Marine   M  Talla del fabricante: 4 ](https://www.amazon.es/dp/B01MYHC5KT/?tag=redken-21) con 40.10 de descuento por 29.95 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31o1-zNdmjL._SL200_.jpg)](https://www.amazon.es/dp/B01MYHC5KT/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MYHC5KT/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MYHC5KT/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

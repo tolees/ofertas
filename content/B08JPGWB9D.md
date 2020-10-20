@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smartwatch BOZLUN Reloj Inteligente Impe al 50.01 % de descuento'
-date: 2020-10-19 01:20:44
+date: 2020-10-20 01:43:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QNAXfetcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QNAXfetcL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.87 % en Funko Pop! TV: Game of Thrones - Sansa S'
-date: 2020-10-13 17:10:36
+date: 2020-10-20 01:36:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41H9GbudrgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41H9GbudrgL._SL200_.jpg' ]
 comments: true
