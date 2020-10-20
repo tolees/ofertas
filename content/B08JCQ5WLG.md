@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.81 % en CHENSTAR Electric Cleaning Brush  Multi '
-date: 2020-10-17 20:03:40
+date: 2020-10-20 14:40:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31s4fY1gXiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31s4fY1gXiL._SL200_.jpg' ]
 comments: true

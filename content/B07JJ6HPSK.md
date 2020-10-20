@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.99 % en Pack Tierra Media Blu-Ray [Blu-ray]'
-date: 2020-10-19 14:03:32
+date: 2020-10-20 14:08:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wdSmlMLPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wdSmlMLPL._SL200_.jpg' ]
 comments: true

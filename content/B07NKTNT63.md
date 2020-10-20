@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TBC The Best Crafts Tie-Dye Art Kit for  al 35.09 % de descuento'
-date: 2020-10-17 19:39:37
+date: 2020-10-20 14:29:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/515s-ii0njL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515s-ii0njL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Orig Hm Vneck Camiseta  Negro  Mi al 36.04 % de descuento'
-date: 2020-10-19 14:02:04
+date: 2020-10-20 14:04:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/418Fwnt+tWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418Fwnt+tWL._SL200_.jpg' ]
 comments: true
