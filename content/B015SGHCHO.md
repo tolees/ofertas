@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas You Metallic  Sandalias para M al 59.60 % de descuento'
-date: 2020-10-18 18:18:45
+date: 2020-10-20 03:06:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xLkOhUtmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xLkOhUtmL._SL200_.jpg' ]
 comments: true

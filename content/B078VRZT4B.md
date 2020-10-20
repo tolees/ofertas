@@ -14,11 +14,11 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Volcom Scribe DD SS Camiseta  Hombre  Rosa  Salmon   M](https://www.amazon.es/dp/B078VRZT4B/?tag=redken-21) a 16.58 EUR (original: 35 EUR) (52.63 %  de descuento) en el siguiente enlace!
+Está [Volcom Scribe DD SS Camiseta  Hombre  Rosa  Salmon   M](https://www.amazon.es/dp/B078VRZT4B/?tag=redken-21) con 52.63 de descuento por 16.58 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4160LtSsp8L._SL200_.jpg)](https://www.amazon.es/dp/B078VRZT4B/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078VRZT4B/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078VRZT4B/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
