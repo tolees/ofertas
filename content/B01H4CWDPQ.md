@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Herren Tazon 6 FM Laufschuhe  Schwa al 26.71 % de descuento'
-date: 2020-10-19 14:33:47
+date: 2020-10-20 21:00:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/4190TDvrE4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4190TDvrE4L._SL200_.jpg' ]
 comments: true

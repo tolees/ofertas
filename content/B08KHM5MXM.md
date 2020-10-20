@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paraguas Superzings Paraguas Infantil Au al 41.00 % de descuento'
-date: 2020-10-19 14:11:08
+date: 2020-10-20 20:06:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/5127iFFbj4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5127iFFbj4L._SL200_.jpg' ]
 comments: true
