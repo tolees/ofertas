@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SafeLightPro F2 - Gafas de protección pa al 39.80 % de descuento'
-date: 2020-10-19 16:27:34
+date: 2020-10-20 16:53:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/415wbcOydLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415wbcOydLL._SL200_.jpg' ]
 comments: true

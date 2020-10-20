@@ -14,11 +14,11 @@ comparePrice: 95.01 EUR
 inStock: true
 ---
 
-Está [Trussardi Donna Agua de Perfume - 100 ml](https://www.amazon.es/dp/B005MQO2QU/?tag=redken-21) con 50.74 de descuento por 46.8 EUR (original: 95.01 EUR) en el siguiente enlace!
+Ahora mismo tienes [Trussardi Donna Agua de Perfume - 100 ml](https://www.amazon.es/dp/B005MQO2QU/?tag=redken-21) a 46.8 EUR (original: 95.01 EUR) (50.74 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Mcw%2B1DFgL._SL200_.jpg)](https://www.amazon.es/dp/B005MQO2QU/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B005MQO2QU/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B005MQO2QU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

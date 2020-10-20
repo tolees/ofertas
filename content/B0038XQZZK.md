@@ -14,11 +14,11 @@ comparePrice: 49.47 EUR
 inStock: true
 ---
 
-Está [Draper 12015 - Organizador de herramientas con 30 cajones](https://www.amazon.es/dp/B0038XQZZK/?tag=redken-21) con 50.98 de descuento por 24.25 EUR (original: 49.47 EUR) en el siguiente enlace!
+Ahora mismo tienes [Draper 12015 - Organizador de herramientas con 30 cajones](https://www.amazon.es/dp/B0038XQZZK/?tag=redken-21) a 24.25 EUR (original: 49.47 EUR) (50.98 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51MwiQamSrL._SL200_.jpg)](https://www.amazon.es/dp/B0038XQZZK/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0038XQZZK/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B0038XQZZK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
