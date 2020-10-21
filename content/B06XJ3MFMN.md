@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nespresso Krups Essenza Mini XN1101 - Ca al 50.83 % de descuento'
-date: 2020-10-20 09:33:21
+date: 2020-10-21 09:34:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31UKa5Y+HRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31UKa5Y+HRL._SL200_.jpg' ]
 comments: true

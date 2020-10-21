@@ -14,11 +14,11 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Triple Canyon Pantalón de Senderismo para Hombre  Gris  Grill  Black   W36/L30](https://www.amazon.es/dp/B06XGTSXP5/?tag=redken-21) a 49.45 EUR (original: 79.99 EUR) (38.18 %  de descuento) en el siguiente enlace!
+Está [Columbia Triple Canyon Pantalón de Senderismo para Hombre  Gris  Grill  Black   W36/L30](https://www.amazon.es/dp/B06XGTSXP5/?tag=redken-21) con 38.18 de descuento por 49.45 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ga2YpXIqL._SL200_.jpg)](https://www.amazon.es/dp/B06XGTSXP5/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XGTSXP5/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XGTSXP5/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
