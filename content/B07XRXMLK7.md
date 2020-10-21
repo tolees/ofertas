@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.25 % en It Capítulo 2 Blu-Ray [Blu-ray]'
-date: 2020-10-21 07:59:59
+date: 2020-10-21 08:00:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SX-rdpyQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SX-rdpyQL._SL200_.jpg' ]
 comments: true
