@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.50 % en Columbia Powder Lite Veste Polaire Femme'
-date: 2020-10-19 08:51:27
+date: 2020-10-21 03:25:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GjU-HmJrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GjU-HmJrL._SL200_.jpg' ]
 comments: true

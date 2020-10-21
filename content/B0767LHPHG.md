@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.38 % en Apple iPad Pro  10.5-inch  Wi-Fi + Cellu'
-date: 2020-10-20 03:07:31
+date: 2020-10-21 03:33:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41S4IXXvYvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41S4IXXvYvL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 51.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Epson C13T26164511- Cartuchos de tinta  pack de 4 colores](https://www.amazon.es/dp/B0166NFDCE/?tag=redken-21) a 38.97 EUR (original: 51.97 EUR) (25.01 %  de descuento) en el siguiente enlace!
+Está [Epson C13T26164511- Cartuchos de tinta  pack de 4 colores](https://www.amazon.es/dp/B0166NFDCE/?tag=redken-21) con 25.01 de descuento por 38.97 EUR (original: 51.97 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41acAu9XjwL._SL200_.jpg)](https://www.amazon.es/dp/B0166NFDCE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0166NFDCE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0166NFDCE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
