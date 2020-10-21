@@ -14,11 +14,11 @@ comparePrice: 19.76 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Babaria  Loción corporal - 200 ml.](https://www.amazon.es/dp/B07BHLN3X6/?tag=redken-21) a 4.75 EUR (original: 19.76 EUR) (75.96 %  de descuento) en el siguiente enlace!
+Está [Babaria  Loción corporal - 200 ml.](https://www.amazon.es/dp/B07BHLN3X6/?tag=redken-21) con 75.96 de descuento por 4.75 EUR (original: 19.76 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nNkE6waoL._SL200_.jpg)](https://www.amazon.es/dp/B07BHLN3X6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07BHLN3X6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BHLN3X6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
