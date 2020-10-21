@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.06 % en PUMA Divecat v2  Sandalias deslizantes U'
-date: 2020-10-11 11:25:35
+date: 2020-10-21 11:44:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Uf9USjt0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Uf9USjt0L._SL200_.jpg' ]
 comments: true

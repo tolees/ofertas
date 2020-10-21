@@ -14,11 +14,11 @@ comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox D Airell B  Zapatillas para Mujer  Negro  BLACKC9999   36 EU](https://www.amazon.es/dp/B01GFXKP6O/?tag=redken-21) a 37.91 EUR (original: 99.9 EUR) (62.05 %  de descuento) en el siguiente enlace!
+Está [Geox D Airell B  Zapatillas para Mujer  Negro  BLACKC9999   36 EU](https://www.amazon.es/dp/B01GFXKP6O/?tag=redken-21) con 62.05 de descuento por 37.91 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417fD45oZbL._SL200_.jpg)](https://www.amazon.es/dp/B01GFXKP6O/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01GFXKP6O/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01GFXKP6O/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

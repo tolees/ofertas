@@ -14,11 +14,11 @@ comparePrice: 32.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop! - Marvel Avengers Infinity War Figura de Vinilo 26898](https://www.amazon.es/dp/B079PPFFSC/?tag=redken-21) a 20.29 EUR (original: 32.95 EUR) (38.42 %  de descuento) en el siguiente enlace!
+Está [Funko Pop! - Marvel Avengers Infinity War Figura de Vinilo 26898](https://www.amazon.es/dp/B079PPFFSC/?tag=redken-21) con 38.42 de descuento por 20.29 EUR (original: 32.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51O6dttlNpL._SL200_.jpg)](https://www.amazon.es/dp/B079PPFFSC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079PPFFSC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079PPFFSC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 78.71 % en Borderlands 3 - Edición Estándar  Xbox O'
-date: 2020-10-09 07:03:06
+date: 2020-10-21 11:43:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uDSbgF+pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uDSbgF+pL._SL200_.jpg' ]
 comments: true
