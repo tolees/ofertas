@@ -14,11 +14,11 @@ comparePrice: 10.09 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ariasana Spray Disinfettante Multiuso 2-in-1  Presidio Medico Chirurgico  Germicida spray per igienizzare aria e superfici  Disinfettante spray con profumazione eucalipto e mentolo  1x150ml](https://www.amazon.it/dp/B07H6NFMPW/?tag=redken03-21) a 6.99 EUR (original: 10.09 EUR) (30.72 %  de descuento) en el siguiente enlace!
+Está [Ariasana Spray Disinfettante Multiuso 2-in-1  Presidio Medico Chirurgico  Germicida spray per igienizzare aria e superfici  Disinfettante spray con profumazione eucalipto e mentolo  1x150ml](https://www.amazon.it/dp/B07H6NFMPW/?tag=redken03-21) con 30.72 de descuento por 6.99 EUR (original: 10.09 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41uXX-hygzL._SL200_.jpg)](https://www.amazon.it/dp/B07H6NFMPW/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07H6NFMPW/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07H6NFMPW/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

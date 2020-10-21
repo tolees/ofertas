@@ -14,11 +14,11 @@ comparePrice: 61.56 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Few Spirits Rye Whiskey - 700 ml](https://www.amazon.es/dp/B009G2EVEE/?tag=redken-21) a 36.21 EUR (original: 61.56 EUR) (41.18 %  de descuento) en el siguiente enlace!
+Está [Few Spirits Rye Whiskey - 700 ml](https://www.amazon.es/dp/B009G2EVEE/?tag=redken-21) con 41.18 de descuento por 36.21 EUR (original: 61.56 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41URv5OdLYL._SL200_.jpg)](https://www.amazon.es/dp/B009G2EVEE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B009G2EVEE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B009G2EVEE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
