@@ -14,11 +14,11 @@ comparePrice: 150.29 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Eaton Ellipse Eco 500 IEC - Sistema de alimentación ininterrumpida UPS  C13 Coupler  C14 Coupler  Rackmount  2U  Sealed Lead Acid VRLA  50/60 ](https://www.amazon.es/dp/B0056PDKJM/?tag=redken-21) a 89.29 EUR (original: 150.29 EUR) (40.59 %  de descuento) en el siguiente enlace!
+Está [Eaton Ellipse Eco 500 IEC - Sistema de alimentación ininterrumpida UPS  C13 Coupler  C14 Coupler  Rackmount  2U  Sealed Lead Acid VRLA  50/60 ](https://www.amazon.es/dp/B0056PDKJM/?tag=redken-21) con 40.59 de descuento por 89.29 EUR (original: 150.29 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KDPHegU6L._SL200_.jpg)](https://www.amazon.es/dp/B0056PDKJM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0056PDKJM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0056PDKJM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
