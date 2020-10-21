@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agenda clásica grande 2020-2021 Semana v al 49.97 % de descuento'
-date: 2020-10-20 20:39:58
+date: 2020-10-21 20:52:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OgS6nC+eL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OgS6nC+eL._SL200_.jpg' ]
 comments: true

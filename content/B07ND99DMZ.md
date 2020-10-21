@@ -14,11 +14,11 @@ comparePrice: 116.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 70425 Hidden Side Newbury s spukende Schule Kinderspielzeug  Augmented Reality Funktionen](https://www.amazon.de/dp/B07ND99DMZ/?tag=redken02-21) a 79.9 EUR (original: 116.97 EUR) (31.69 %  de descuento) en el siguiente enlace!
+Está [LEGO 70425 Hidden Side Newbury s spukende Schule Kinderspielzeug  Augmented Reality Funktionen](https://www.amazon.de/dp/B07ND99DMZ/?tag=redken02-21) con 31.69 de descuento por 79.9 EUR (original: 116.97 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516NW10YZUL._SL200_.jpg)](https://www.amazon.de/dp/B07ND99DMZ/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07ND99DMZ/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07ND99DMZ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
