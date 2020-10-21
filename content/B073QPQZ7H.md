@@ -14,11 +14,11 @@ comparePrice: 15.99 EUR
 inStock: true
 ---
 
-Está [Capstores 50.Vertuo  portacápsulas giratorio](https://www.amazon.es/dp/B073QPQZ7H/?tag=redken-21) con 60.73 de descuento por 6.28 EUR (original: 15.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Capstores 50.Vertuo  portacápsulas giratorio](https://www.amazon.es/dp/B073QPQZ7H/?tag=redken-21) a 6.28 EUR (original: 15.99 EUR) (60.73 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418uukDtbbL._SL200_.jpg)](https://www.amazon.es/dp/B073QPQZ7H/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073QPQZ7H/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B073QPQZ7H/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
