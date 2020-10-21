@@ -14,11 +14,11 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Napapijri](https://www.amazon.es/dp/B0796BVRPN/?tag=redken-21) a 42.02 EUR (original: 99 EUR) (57.56 %  de descuento) en el siguiente enlace!
+Está [Napapijri](https://www.amazon.es/dp/B0796BVRPN/?tag=redken-21) con 57.56 de descuento por 42.02 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/312P30P0nGL._SL200_.jpg)](https://www.amazon.es/dp/B0796BVRPN/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0796BVRPN/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0796BVRPN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
