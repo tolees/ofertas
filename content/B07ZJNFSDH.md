@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TechFit MT80 Cinta de Correr Eléctrica P al 28.71 % de descuento'
-date: 2020-10-18 14:27:17
+date: 2020-10-21 14:45:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lv3tpw+IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lv3tpw+IL._SL200_.jpg' ]
 comments: true
