@@ -14,11 +14,11 @@ comparePrice: 7.49 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Handwriting Pencil - STABILO EASYergo 3.15 Right Handed Light Blue/Dark Blue + Sharpener](https://www.amazon.co.uk/dp/B00T7UM1ME/?tag=redken01-21) a 4.9 GBP (original: 7.49 GBP) (34.58 %  de descuento) en el siguiente enlace!
+Está [Handwriting Pencil - STABILO EASYergo 3.15 Right Handed Light Blue/Dark Blue + Sharpener](https://www.amazon.co.uk/dp/B00T7UM1ME/?tag=redken01-21) con 34.58 de descuento por 4.9 GBP (original: 7.49 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41vPc29xXlL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00T7UM1ME/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00T7UM1ME/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00T7UM1ME/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger X Sujetador estilo bralet al 42.38 % de descuento'
-date: 2020-10-18 15:29:11
+date: 2020-10-21 13:23:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RkE-1zS9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RkE-1zS9L._SL200_.jpg' ]
 comments: true
