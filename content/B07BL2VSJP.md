@@ -14,11 +14,11 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance Fuel Core Sonic v2  Zapatillas de Running para Hombre  Verde  Mineral Green/Black Mg2   44 EU](https://www.amazon.es/dp/B07BL2VSJP/?tag=redken-21) a 65 EUR (original: 130 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [New Balance Fuel Core Sonic v2  Zapatillas de Running para Hombre  Verde  Mineral Green/Black Mg2   44 EU](https://www.amazon.es/dp/B07BL2VSJP/?tag=redken-21) con 50.00 de descuento por 65 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4133hCAXFWL._SL200_.jpg)](https://www.amazon.es/dp/B07BL2VSJP/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07BL2VSJP/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BL2VSJP/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
