@@ -14,11 +14,11 @@ comparePrice: 8.6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [A Star Is Born](https://www.amazon.it/dp/B07JQ7DKB4/?tag=redken03-21) a 6.4 EUR (original: 8.6 EUR) (25.58 %  de descuento) en el siguiente enlace!
+Está [A Star Is Born](https://www.amazon.it/dp/B07JQ7DKB4/?tag=redken03-21) con 25.58 de descuento por 6.4 EUR (original: 8.6 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51eNPdBVLTL._SL200_.jpg)](https://www.amazon.it/dp/B07JQ7DKB4/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07JQ7DKB4/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07JQ7DKB4/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 9.74 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Duplo 10900 Polizeimotorrad mit Polizist](https://www.amazon.de/dp/B07FNS6J8N/?tag=redken02-21) a 7.28 EUR (original: 9.74 EUR) (25.26 %  de descuento) en el siguiente enlace!
+Está [LEGO Duplo 10900 Polizeimotorrad mit Polizist](https://www.amazon.de/dp/B07FNS6J8N/?tag=redken02-21) con 25.26 de descuento por 7.28 EUR (original: 9.74 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51VxgRlB3yL._SL200_.jpg)](https://www.amazon.de/dp/B07FNS6J8N/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07FNS6J8N/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07FNS6J8N/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

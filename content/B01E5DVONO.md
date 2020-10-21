@@ -14,11 +14,11 @@ comparePrice: 252.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Celestron 22065 AstroMaster 102AZ Refractor Telescope  Dark Blue](https://www.amazon.co.uk/dp/B01E5DVONO/?tag=redken01-21) a 148.97 GBP (original: 252.0 GBP) (40.88 %  de descuento) en el siguiente enlace!
+Está [Celestron 22065 AstroMaster 102AZ Refractor Telescope  Dark Blue](https://www.amazon.co.uk/dp/B01E5DVONO/?tag=redken01-21) con 40.88 de descuento por 148.97 GBP (original: 252.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41g+7IYnPaL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01E5DVONO/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01E5DVONO/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01E5DVONO/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
