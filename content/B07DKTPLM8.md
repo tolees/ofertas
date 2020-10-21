@@ -14,11 +14,11 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste L.30 Slide 119 1 Cuc  Sandalias de Punta Descubierta Unisex Niños  Amarillo  Lt YLW/Wht 241   28 EU](https://www.amazon.es/dp/B07DKTPLM8/?tag=redken-21) a 12.6 EUR (original: 35 EUR) (64.00 %  de descuento) en el siguiente enlace!
+Está [Lacoste L.30 Slide 119 1 Cuc  Sandalias de Punta Descubierta Unisex Niños  Amarillo  Lt YLW/Wht 241   28 EU](https://www.amazon.es/dp/B07DKTPLM8/?tag=redken-21) con 64.00 de descuento por 12.6 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21y7wiaXOGL._SL200_.jpg)](https://www.amazon.es/dp/B07DKTPLM8/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DKTPLM8/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DKTPLM8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

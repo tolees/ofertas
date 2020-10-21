@@ -14,11 +14,11 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Phoenix Technologies PHGP102 - Funda  Funda de protección  GoPro  Hero 4/3+/3/2/1  Negro ](https://www.amazon.es/dp/B00XBZ0UJM/?tag=redken-21) a 11.79 EUR (original: 19.9 EUR) (40.75 %  de descuento) en el siguiente enlace!
+Está [Phoenix Technologies PHGP102 - Funda  Funda de protección  GoPro  Hero 4/3+/3/2/1  Negro ](https://www.amazon.es/dp/B00XBZ0UJM/?tag=redken-21) con 40.75 de descuento por 11.79 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.es/dp/B00XBZ0UJM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00XBZ0UJM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00XBZ0UJM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
