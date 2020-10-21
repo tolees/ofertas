@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IMDEN Bluetooth 5.0 FM Transmitter for C al 40.17 % de descuento'
-date: 2020-10-16 19:18:30
+date: 2020-10-21 15:57:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LGdZBY7tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LGdZBY7tL._SL200_.jpg' ]
 comments: true
