@@ -14,11 +14,11 @@ comparePrice: 69.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Ideas Grand Piano Compatible with LEGO 21323 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B08GH8SYFH/?tag=redken01-21) a 49.99 GBP (original: 69.99 GBP) (28.58 %  de descuento) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Ideas Grand Piano Compatible with LEGO 21323 Building Blocks Model- Not Include the Lego Set](https://www.amazon.co.uk/dp/B08GH8SYFH/?tag=redken01-21) con 28.58 de descuento por 49.99 GBP (original: 69.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51UmrG1F7ZL._SL200_.jpg)](https://www.amazon.co.uk/dp/B08GH8SYFH/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B08GH8SYFH/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B08GH8SYFH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

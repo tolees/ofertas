@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.05 % en LEGO 31200 Star Wars The Sith'
-date: 2020-10-20 21:19:02
+date: 2020-10-21 21:34:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/512wxZEvhkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512wxZEvhkL._SL200_.jpg' ]
 comments: true

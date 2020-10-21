@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'okk Chien Robot Intelligent  2020 Nouvel al 32.01 % de descuento'
-date: 2020-10-20 21:35:43
+date: 2020-10-21 21:59:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZpcB38f4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZpcB38f4L._SL200_.jpg' ]
 comments: true
