@@ -14,11 +14,11 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The North Face S/S Peak tee Camiseta de Manga Corta  Hombre  Storm Blue  L](https://www.amazon.es/dp/B07M9CD8XP/?tag=redken-21) a 15 EUR (original: 30 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [The North Face S/S Peak tee Camiseta de Manga Corta  Hombre  Storm Blue  L](https://www.amazon.es/dp/B07M9CD8XP/?tag=redken-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414Yp3m-JgL._SL200_.jpg)](https://www.amazon.es/dp/B07M9CD8XP/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07M9CD8XP/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07M9CD8XP/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
