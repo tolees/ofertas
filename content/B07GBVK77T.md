@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Duracell Powerbank 6700 mAh  batería ext al 56.99 % de descuento'
-date: 2020-10-20 09:23:18
+date: 2020-10-21 10:10:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31q7yQTXNiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31q7yQTXNiL._SL200_.jpg' ]
 comments: true

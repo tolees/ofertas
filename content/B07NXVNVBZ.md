@@ -14,11 +14,11 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Triple Canyon Camisa  Hombre  Tapestry Plaid  Medium](https://www.amazon.es/dp/B07NXVNVBZ/?tag=redken-21) a 38.39 EUR (original: 64.99 EUR) (40.93 %  de descuento) en el siguiente enlace!
+Está [Columbia Triple Canyon Camisa  Hombre  Tapestry Plaid  Medium](https://www.amazon.es/dp/B07NXVNVBZ/?tag=redken-21) con 40.93 de descuento por 38.39 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RyY7xb8CL._SL200_.jpg)](https://www.amazon.es/dp/B07NXVNVBZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NXVNVBZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NXVNVBZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
