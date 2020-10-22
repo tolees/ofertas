@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cadbury Dairy Milk Chocolate Bar  95 g al 32.89 % de descuento'
-date: 2020-10-20 08:34:39
+date: 2020-10-22 02:57:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a2qPjTuFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a2qPjTuFL._SL200_.jpg' ]
 comments: true
