@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Watch Dogs 2 - Standard Edition al 33.56 % de descuento'
-date: 2020-10-20 17:44:27
+date: 2020-10-22 08:00:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/61ocRea-QwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61ocRea-QwL._SL200_.jpg' ]
 comments: true
