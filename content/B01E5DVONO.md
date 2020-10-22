@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.88 % en Celestron 22065 AstroMaster 102AZ Refrac'
-date: 2020-10-20 23:15:05
+date: 2020-10-22 07:40:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41g+7IYnPaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41g+7IYnPaL._SL200_.jpg' ]
 comments: true
