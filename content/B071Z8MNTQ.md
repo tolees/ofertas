@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Sealy Response Performance 14-Inch Cushi'
-date: 2020-10-21 03:33:08
+date: 2020-10-22 03:43:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41usE7a0t1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41usE7a0t1L._SL200_.jpg' ]
 comments: true

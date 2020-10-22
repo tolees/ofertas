@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips TX1BK/00 Noise-Isolating In-Ear  al 57.75 % de descuento'
-date: 2020-10-18 22:30:41
+date: 2020-10-22 03:42:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZPC9oRuAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZPC9oRuAL._SL200_.jpg' ]
 comments: true

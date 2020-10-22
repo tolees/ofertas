@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.94 % en Casio Collection LA680WEA-1EF Reloj de p'
-date: 2020-10-18 21:01:22
+date: 2020-10-22 03:59:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41svnG4UCaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41svnG4UCaL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung 860 EVO 1 TB SATA 2.5 Inch Inter al 33.38 % de descuento'
-date: 2020-10-20 08:49:08
+title: 'Samsung 860 EVO 1 TB SATA 2.5 Inch Inter al 35.30 % de descuento'
+date: 2020-10-22 03:25:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qn949SpcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qn949SpcL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B078WST5RK
 description:
-actualPrice: 113.24 GBP
+actualPrice: 109.99 GBP
 comparePrice: 169.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung 860 EVO 1 TB SATA 2.5 Inch Internal Solid State Drive  SSD   MZ-76E1T0 ](https://www.amazon.co.uk/dp/B078WST5RK/?tag=redken01-21) a 113.24 GBP (original: 169.99 GBP) (33.38 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung 860 EVO 1 TB SATA 2.5 Inch Internal Solid State Drive  SSD   MZ-76E1T0 ](https://www.amazon.co.uk/dp/B078WST5RK/?tag=redken01-21) a 109.99 GBP (original: 169.99 GBP) (35.30 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41qn949SpcL._SL200_.jpg)](https://www.amazon.co.uk/dp/B078WST5RK/?tag=redken01-21)
 
