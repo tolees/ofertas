@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.51 % en Dead Cells - Action Game of The Year'
-date: 2020-10-07 13:50:40
+date: 2020-10-22 11:50:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/517fKnzKoTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517fKnzKoTL._SL200_.jpg' ]
 comments: true
