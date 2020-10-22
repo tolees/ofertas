@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.52 % en PUMA Damen Cali WN s Sneaker  Weiß White'
-date: 2020-10-21 21:35:12
+date: 2020-10-22 21:39:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL200_.jpg' ]
 comments: true
