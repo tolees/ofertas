@@ -14,11 +14,11 @@ comparePrice: 39.6 EUR
 inStock: true
 ---
 
-Está [AmazonBasics - Micrófonos para cámara LJ-OCM-002](https://www.amazon.es/dp/B07D2WJCFN/?tag=redken-21) con 49.52 de descuento por 19.99 EUR (original: 39.6 EUR) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Micrófonos para cámara LJ-OCM-002](https://www.amazon.es/dp/B07D2WJCFN/?tag=redken-21) a 19.99 EUR (original: 39.6 EUR) (49.52 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BRayJUVcL._SL200_.jpg)](https://www.amazon.es/dp/B07D2WJCFN/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07D2WJCFN/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07D2WJCFN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

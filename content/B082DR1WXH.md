@@ -14,11 +14,11 @@ comparePrice: 15.0 GBP
 inStock: true
 ---
 
-Está [Duck Toilet Fresh Discs Holder Marine 36ml  Pack of 5](https://www.amazon.co.uk/dp/B082DR1WXH/?tag=redken01-21) con 36.73 de descuento por 9.49 GBP (original: 15.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Duck Toilet Fresh Discs Holder Marine 36ml  Pack of 5](https://www.amazon.co.uk/dp/B082DR1WXH/?tag=redken01-21) a 9.49 GBP (original: 15.0 GBP) (36.73 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51uMhR9TnbL._SL200_.jpg)](https://www.amazon.co.uk/dp/B082DR1WXH/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B082DR1WXH/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B082DR1WXH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
