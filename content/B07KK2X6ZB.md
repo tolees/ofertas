@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Redmond V2 Mid  Botas de Sender al 36.00 % de descuento'
-date: 2020-10-18 17:53:16
+date: 2020-10-22 12:33:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+ljpXYb1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+ljpXYb1L._SL200_.jpg' ]
 comments: true

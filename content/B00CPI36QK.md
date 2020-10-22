@@ -14,11 +14,11 @@ comparePrice: 42.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superga 2750 Jcot Classic  Zapatillas Infantil  Beige  497 Sabbia   30 EU](https://www.amazon.es/dp/B00CPI36QK/?tag=redken-21) a 12.48 EUR (original: 42.4 EUR) (70.57 %  de descuento) en el siguiente enlace!
+Está [Superga 2750 Jcot Classic  Zapatillas Infantil  Beige  497 Sabbia   30 EU](https://www.amazon.es/dp/B00CPI36QK/?tag=redken-21) con 70.57 de descuento por 12.48 EUR (original: 42.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ByRDhOmmL._SL200_.jpg)](https://www.amazon.es/dp/B00CPI36QK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00CPI36QK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00CPI36QK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
