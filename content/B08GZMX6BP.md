@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'FFP2 - Mascarillas de protección respira al 29.02 % de descuento'
-date: 2020-10-19 08:42:18
+title: 'FFP2 - Mascarillas de protección respira al 32.27 % de descuento'
+date: 2020-10-22 06:08:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FT0bBQX5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FT0bBQX5L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B08GZMX6BP
 description:
-actualPrice: 2.69 EUR
-comparePrice: 3.79 EUR
+actualPrice: 2.54 EUR
+comparePrice: 3.75 EUR
 inStock: true
 ---
 
-Está [FFP2 - Mascarillas de protección respiratoria premium en un paquete único hermético  4 capas de protección de las vías respiratorias con CE  NB2841   10 unidades.](https://www.amazon.es/dp/B08GZMX6BP/?tag=redken-21) con 29.02 de descuento por 2.69 EUR (original: 3.79 EUR) en el siguiente enlace!
+Está [FFP2 - Mascarillas de protección respiratoria premium en un paquete único hermético  4 capas de protección de las vías respiratorias con CE  NB2841   10 unidades.](https://www.amazon.es/dp/B08GZMX6BP/?tag=redken-21) con 32.27 de descuento por 2.54 EUR (original: 3.75 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31FT0bBQX5L._SL200_.jpg)](https://www.amazon.es/dp/B08GZMX6BP/?tag=redken-21)
 
