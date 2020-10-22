@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOEAIS Tablette d écriture LCD Coloré 8. al 52.20 % de descuento'
-date: 2020-10-21 15:12:14
+date: 2020-10-22 15:53:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FbZW24TcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FbZW24TcL._SL200_.jpg' ]
 comments: true

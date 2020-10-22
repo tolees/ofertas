@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk SDCZ50-128G-B35 128 GB Cruzer Bl al 52.63 % de descuento'
-date: 2020-10-21 14:48:44
+date: 2020-10-22 15:26:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jUuuy2VcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jUuuy2VcL._SL200_.jpg' ]
 comments: true

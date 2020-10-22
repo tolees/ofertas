@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Superga 2750 COTU Classic  Zapatillas Un al 45.73 % de descuento'
-date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O1IXvUnOL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O1IXvUnOL._SL200_.jpg' ]
+title: 'Superga 2750 COTU Classic  Zapatillas Un al 45.00 % de descuento'
+date: 2020-10-22 15:37:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/312Y-rgMF3L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/312Y-rgMF3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00DV51UAU
 description:
-actualPrice: 32.02 EUR
-comparePrice: 59 EUR
+actualPrice: 32.45 EUR
+comparePrice: 59.0 EUR
 inStock: true
 ---
 
-Está [Superga 2750 COTU Classic  Zapatillas Unisex  Azul  C43   40 EU](https://www.amazon.es/dp/B00DV51UAU/?tag=redken-21) con 45.73 de descuento por 32.02 EUR (original: 59 EUR) en el siguiente enlace!
+Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Total Navy C43  40 EU](https://www.amazon.es/dp/B00DV51UAU/?tag=redken-21) con 45.00 de descuento por 32.45 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41O1IXvUnOL._SL200_.jpg)](https://www.amazon.es/dp/B00DV51UAU/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/312Y-rgMF3L._SL200_.jpg)](https://www.amazon.es/dp/B00DV51UAU/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00DV51UAU/?tag=redken-21)
 
