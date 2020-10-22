@@ -14,11 +14,11 @@ comparePrice: 8.47 EUR
 inStock: true
 ---
 
-Está [Navigator Expression - Paquete de 500 folios de papel para impresora/fotocopiadora 90g/m² A4  color blanco](https://www.amazon.es/dp/B000SHOQH8/?tag=redken-21) con 57.50 de descuento por 3.6 EUR (original: 8.47 EUR) en el siguiente enlace!
+Ahora mismo tienes [Navigator Expression - Paquete de 500 folios de papel para impresora/fotocopiadora 90g/m² A4  color blanco](https://www.amazon.es/dp/B000SHOQH8/?tag=redken-21) a 3.6 EUR (original: 8.47 EUR) (57.50 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51gcwkhuRIL._SL200_.jpg)](https://www.amazon.es/dp/B000SHOQH8/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B000SHOQH8/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B000SHOQH8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
