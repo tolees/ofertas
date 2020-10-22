@@ -14,11 +14,11 @@ comparePrice: 21.99 GBP
 inStock: true
 ---
 
-Está [SanDisk microSDXC UHS-I card for Nintendo 64GB - Nintendo licensed Product](https://www.amazon.co.uk/dp/B07KXRGM8X/?tag=redken01-21) con 31.83 de descuento por 14.99 GBP (original: 21.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [SanDisk microSDXC UHS-I card for Nintendo 64GB - Nintendo licensed Product](https://www.amazon.co.uk/dp/B07KXRGM8X/?tag=redken01-21) a 14.99 GBP (original: 21.99 GBP) (31.83 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WY5dPF6EL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KXRGM8X/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KXRGM8X/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KXRGM8X/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

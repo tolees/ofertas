@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Kit Eco-friendly con Pasta de Di al 32.29 % de descuento'
-date: 2020-10-12 14:56:54
+date: 2020-10-22 19:23:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AoWiqriEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AoWiqriEL._SL200_.jpg' ]
 comments: true
