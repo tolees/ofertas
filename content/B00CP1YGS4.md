@@ -14,11 +14,11 @@ comparePrice: 22.33 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Soliera - Vino Tinto Tempranillo Botella 75 cl D.O. La Mancha - 6 Botellas](https://www.amazon.es/dp/B00CP1YGS4/?tag=redken-21) a 11.94 EUR (original: 22.33 EUR) (46.53 %  de descuento) en el siguiente enlace!
+Está [Soliera - Vino Tinto Tempranillo Botella 75 cl D.O. La Mancha - 6 Botellas](https://www.amazon.es/dp/B00CP1YGS4/?tag=redken-21) con 46.53 de descuento por 11.94 EUR (original: 22.33 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DrPs2IO9L._SL200_.jpg)](https://www.amazon.es/dp/B00CP1YGS4/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00CP1YGS4/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00CP1YGS4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
