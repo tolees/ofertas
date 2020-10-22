@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.01 % en okk Chien Robot Intelligent  2020 Nouvel'
-date: 2020-10-21 21:59:22
+date: 2020-10-22 22:08:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZpcB38f4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZpcB38f4L._SL200_.jpg' ]
 comments: true

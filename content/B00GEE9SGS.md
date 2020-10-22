@@ -14,11 +14,11 @@ comparePrice: 64.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Silver Ridge Cargo Pant AM8007 Pantalón  Hombre  Abyss  32](https://www.amazon.es/dp/B00GEE9SGS/?tag=redken-21) a 38.95 EUR (original: 64.95 EUR) (40.03 %  de descuento) en el siguiente enlace!
+Está [Columbia Silver Ridge Cargo Pant AM8007 Pantalón  Hombre  Abyss  32](https://www.amazon.es/dp/B00GEE9SGS/?tag=redken-21) con 40.03 de descuento por 38.95 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ofekTpNlL._SL200_.jpg)](https://www.amazon.es/dp/B00GEE9SGS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00GEE9SGS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00GEE9SGS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
