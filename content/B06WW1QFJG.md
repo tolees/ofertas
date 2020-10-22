@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '1971 Project Helios - Collector Edition al 49.12 % de descuento'
-date: 2020-09-25 17:56:06
+title: '1971 Project Helios - Collector Edition al 44.54 % de descuento'
+date: 2020-10-22 13:12:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gRSeSuQAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gRSeSuQAL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,17 @@ category: ofertas
 author: ring
 slug: B06WW1QFJG
 description:
-actualPrice: 22.89 EUR
+actualPrice: 24.95 EUR
 comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [1971 Project Helios - Collector Edition](https://www.amazon.com/dp/B06WW1QFJG/?tag=redken08-20) a 22.89 EUR (original: 44.99 EUR) (49.12 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [1971 Project Helios - Collector Edition](https://www.amazon.es/dp/B06WW1QFJG/?tag=redken-21) a 24.95 EUR (original: 44.99 EUR) (44.54 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41gRSeSuQAL._SL200_.jpg)](https://www.amazon.com/dp/B06WW1QFJG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41gRSeSuQAL._SL200_.jpg)](https://www.amazon.es/dp/B06WW1QFJG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.com/dp/B06WW1QFJG/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.es/dp/B06WW1QFJG/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

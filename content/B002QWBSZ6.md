@@ -14,11 +14,11 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Está [IMMUPROBIO CAP 30 CAP](https://www.amazon.es/dp/B002QWBSZ6/?tag=redken-21) con 39.17 de descuento por 24.27 EUR (original: 39.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [IMMUPROBIO CAP 30 CAP](https://www.amazon.es/dp/B002QWBSZ6/?tag=redken-21) a 24.27 EUR (original: 39.9 EUR) (39.17 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51W8SXtdFsL._SL200_.jpg)](https://www.amazon.es/dp/B002QWBSZ6/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B002QWBSZ6/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B002QWBSZ6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
