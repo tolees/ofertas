@@ -14,11 +14,11 @@ comparePrice: 41.37 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Faro Barcelona Nautica 71138 - Colgante  11W  metal y difusor de cristal opal](https://www.amazon.es/dp/B00BEH4C5C/?tag=redken-21) a 20.55 EUR (original: 41.37 EUR) (50.33 %  de descuento) en el siguiente enlace!
+Está [Faro Barcelona Nautica 71138 - Colgante  11W  metal y difusor de cristal opal](https://www.amazon.es/dp/B00BEH4C5C/?tag=redken-21) con 50.33 de descuento por 20.55 EUR (original: 41.37 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31YDGEXWRZL._SL200_.jpg)](https://www.amazon.es/dp/B00BEH4C5C/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00BEH4C5C/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00BEH4C5C/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
