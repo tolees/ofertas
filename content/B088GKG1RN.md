@@ -14,11 +14,11 @@ comparePrice: 29.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Disposable Face Mask  Pack of 50  New Packaging](https://www.amazon.com/dp/B088GKG1RN/?tag=redken08-20) a 8.99 USD (original: 29.99 USD) (70.02 %  de descuento) en el siguiente enlace!
+Está [Disposable Face Mask  Pack of 50  New Packaging](https://www.amazon.com/dp/B088GKG1RN/?tag=redken08-20) con 70.02 de descuento por 8.99 USD (original: 29.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31SyIlgFs2L._SL200_.jpg)](https://www.amazon.com/dp/B088GKG1RN/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B088GKG1RN/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B088GKG1RN/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

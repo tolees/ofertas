@@ -14,11 +14,11 @@ comparePrice: 59.91 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Reflex Nutrition - Proteína Vegana con Sabor Rich Chocolate  2.1 kg](https://www.amazon.es/dp/B008IG5FOY/?tag=redken-21) a 41.03 EUR (original: 59.91 EUR) (31.51 %  de descuento) en el siguiente enlace!
+Está [Reflex Nutrition - Proteína Vegana con Sabor Rich Chocolate  2.1 kg](https://www.amazon.es/dp/B008IG5FOY/?tag=redken-21) con 31.51 de descuento por 41.03 EUR (original: 59.91 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VKGxPjkWL._SL200_.jpg)](https://www.amazon.es/dp/B008IG5FOY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008IG5FOY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008IG5FOY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

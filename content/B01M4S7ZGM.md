@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BONTEC Soporte Monitor Mesa Elevador Mon al 30.56 % de descuento'
-date: 2020-10-21 20:10:47
+date: 2020-10-22 20:28:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZCngR4myL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZCngR4myL._SL200_.jpg' ]
 comments: true
