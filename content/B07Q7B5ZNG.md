@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung UE49RU8005  Smart TV con Resoluc al 30.01 % de descuento'
-date: 2020-10-21 09:35:26
+date: 2020-10-22 09:44:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/412KNEtVZbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412KNEtVZbL._SL200_.jpg' ]
 comments: true

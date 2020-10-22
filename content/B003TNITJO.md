@@ -14,11 +14,11 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hugo Boss 28662 - Agua de colonia](https://www.amazon.es/dp/B003TNITJO/?tag=redken-21) a 37.95 EUR (original: 85 EUR) (55.35 %  de descuento) en el siguiente enlace!
+Está [Hugo Boss 28662 - Agua de colonia](https://www.amazon.es/dp/B003TNITJO/?tag=redken-21) con 55.35 de descuento por 37.95 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412ArxICFnL._SL200_.jpg)](https://www.amazon.es/dp/B003TNITJO/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B003TNITJO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B003TNITJO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
