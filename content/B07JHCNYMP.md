@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Redmond V2  Zapatos de Senderis al 35.56 % de descuento'
-date: 2020-10-22 20:26:57
+date: 2020-10-23 20:30:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yskzyTg5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yskzyTg5L._SL200_.jpg' ]
 comments: true

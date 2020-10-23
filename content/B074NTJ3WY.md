@@ -14,11 +14,11 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Krups Dolce Gusto Lumio KP1305 - Cafetera de cápsulas  15 bares de presión  color rojo](https://www.amazon.es/dp/B074NTJ3WY/?tag=redken-21) a 49.32 EUR (original: 99 EUR) (50.18 %  de descuento) en el siguiente enlace!
+Está [Krups Dolce Gusto Lumio KP1305 - Cafetera de cápsulas  15 bares de presión  color rojo](https://www.amazon.es/dp/B074NTJ3WY/?tag=redken-21) con 50.18 de descuento por 49.32 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31j38Z2sqhL._SL200_.jpg)](https://www.amazon.es/dp/B074NTJ3WY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B074NTJ3WY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B074NTJ3WY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
