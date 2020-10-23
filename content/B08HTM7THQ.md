@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bill & Ted Face the Music  Blu-ray + Dig al 42.87 % de descuento'
-date: 2020-10-22 09:56:26
+date: 2020-10-23 10:14:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rEgvHqwgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rEgvHqwgL._SL200_.jpg' ]
 comments: true
