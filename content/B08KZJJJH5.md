@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disco Duro Externo 2 TB  USB3.0 Ultra Sl al 42.69 % de descuento'
-date: 2020-10-21 20:43:39
+date: 2020-10-23 02:40:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fsgk0rCaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fsgk0rCaL._SL200_.jpg' ]
 comments: true

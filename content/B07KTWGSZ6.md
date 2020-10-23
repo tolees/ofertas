@@ -14,11 +14,11 @@ comparePrice: 79.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60233 City Town Donut Shop Opening Toy Cars Set with Police Motorbike  Truck with Crane Trailer and 10 Minifigures](https://www.amazon.co.uk/dp/B07KTWGSZ6/?tag=redken01-21) a 57.6 GBP (original: 79.99 GBP) (27.99 %  de descuento) en el siguiente enlace!
+Está [LEGO 60233 City Town Donut Shop Opening Toy Cars Set with Police Motorbike  Truck with Crane Trailer and 10 Minifigures](https://www.amazon.co.uk/dp/B07KTWGSZ6/?tag=redken01-21) con 27.99 de descuento por 57.6 GBP (original: 79.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51zru98C74L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTWGSZ6/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07KTWGSZ6/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KTWGSZ6/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

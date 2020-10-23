@@ -14,11 +14,11 @@ comparePrice: 80.34 EUR
 inStock: true
 ---
 
-Está [Moschino Cheap & Chic Petals Agua de Colonia - 100 ml](https://www.amazon.es/dp/B00FPTPU7Y/?tag=redken-21) con 54.78 de descuento por 36.33 EUR (original: 80.34 EUR) en el siguiente enlace!
+Ahora mismo tienes [Moschino Cheap & Chic Petals Agua de Colonia - 100 ml](https://www.amazon.es/dp/B00FPTPU7Y/?tag=redken-21) a 36.33 EUR (original: 80.34 EUR) (54.78 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31uJsiNQpiL._SL200_.jpg)](https://www.amazon.es/dp/B00FPTPU7Y/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00FPTPU7Y/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00FPTPU7Y/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
