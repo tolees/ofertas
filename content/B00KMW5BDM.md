@@ -14,11 +14,11 @@ comparePrice: 41.9 EUR
 inStock: true
 ---
 
-Está [Kerastase  Mascarilla para el pelo - 200 ml.](https://www.amazon.es/dp/B00KMW5BDM/?tag=redken-21) con 29.67 de descuento por 29.47 EUR (original: 41.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kerastase  Mascarilla para el pelo - 200 ml.](https://www.amazon.es/dp/B00KMW5BDM/?tag=redken-21) a 29.47 EUR (original: 41.9 EUR) (29.67 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411b6CfbjxL._SL200_.jpg)](https://www.amazon.es/dp/B00KMW5BDM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00KMW5BDM/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00KMW5BDM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

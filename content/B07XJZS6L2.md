@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Z: Kakarot  PS4  al 42.86 % de descuento'
-date: 2020-10-10 15:27:46
+date: 2020-10-23 09:18:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D1eV-rtJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D1eV-rtJL._SL200_.jpg' ]
 comments: true

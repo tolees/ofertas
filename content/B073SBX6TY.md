@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Western Digital WDS500G2B0B WD Blue 3D N al 53.37 % de descuento'
-date: 2020-10-22 03:02:36
+title: 'Western Digital WDS500G2B0B WD Blue 3D N al 53.59 % de descuento'
+date: 2020-10-23 09:13:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rjnHD-cEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rjnHD-cEL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B073SBX6TY
 description:
 actualPrice: 56.99 GBP
-comparePrice: 122.21 GBP
+comparePrice: 122.8 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Western Digital WDS500G2B0B WD Blue 3D NAND Internal SSD M.2 SATA  500 GB - Black](https://www.amazon.co.uk/dp/B073SBX6TY/?tag=redken01-21) a 56.99 GBP (original: 122.21 GBP) (53.37 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Western Digital WDS500G2B0B WD Blue 3D NAND Internal SSD M.2 SATA  500 GB - Black](https://www.amazon.co.uk/dp/B073SBX6TY/?tag=redken01-21) a 56.99 GBP (original: 122.8 GBP) (53.59 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31rjnHD-cEL._SL200_.jpg)](https://www.amazon.co.uk/dp/B073SBX6TY/?tag=redken01-21)
 

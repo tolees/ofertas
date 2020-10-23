@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.68 % en Nespresso De Longhi Inissia EN80.B - Caf'
-date: 2020-10-18 20:39:30
+date: 2020-10-23 09:41:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eNvHhjoML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eNvHhjoML._SL200_.jpg' ]
 comments: true
