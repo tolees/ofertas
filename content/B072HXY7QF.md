@@ -14,11 +14,11 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Shape  Zapatillas Unisex Adulto  Azul  Navy/Blue 6760   45 EU](https://www.amazon.es/dp/B072HXY7QF/?tag=redken-21) a 29.62 EUR (original: 50 EUR) (40.76 %  de descuento) en el siguiente enlace!
+Está [Kappa Shape  Zapatillas Unisex Adulto  Azul  Navy/Blue 6760   45 EU](https://www.amazon.es/dp/B072HXY7QF/?tag=redken-21) con 40.76 de descuento por 29.62 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414oA9mwzPL._SL200_.jpg)](https://www.amazon.es/dp/B072HXY7QF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B072HXY7QF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072HXY7QF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

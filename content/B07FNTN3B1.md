@@ -14,11 +14,11 @@ comparePrice: 7.99 EUR
 inStock: true
 ---
 
-Está [Lego 41354 Friends Andreas Herzbox  bunt](https://www.amazon.de/dp/B07FNTN3B1/?tag=redken02-21) con 32.54 de descuento por 5.39 EUR (original: 7.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego 41354 Friends Andreas Herzbox  bunt](https://www.amazon.de/dp/B07FNTN3B1/?tag=redken02-21) a 5.39 EUR (original: 7.99 EUR) (32.54 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517MrimpYVL._SL200_.jpg)](https://www.amazon.de/dp/B07FNTN3B1/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FNTN3B1/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07FNTN3B1/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
