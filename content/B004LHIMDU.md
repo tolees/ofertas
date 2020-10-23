@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 81.35 % en BAUSCH + LOMB - SofLens® 59 - Lentes de '
-date: 2020-10-22 16:23:41
+date: 2020-10-23 22:31:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dYNJLs3fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dYNJLs3fL._SL200_.jpg' ]
 comments: true
