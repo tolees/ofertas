@@ -14,11 +14,11 @@ comparePrice: 10.39 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Nonagon Infinity](https://www.amazon.co.uk/dp/B01C3MSUCW/?tag=redken01-21) a 6.99 GBP (original: 10.39 GBP) (32.72 %  de descuento) en el siguiente enlace!
+Está [Nonagon Infinity](https://www.amazon.co.uk/dp/B01C3MSUCW/?tag=redken01-21) con 32.72 de descuento por 6.99 GBP (original: 10.39 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Q1gcEUvjL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01C3MSUCW/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B01C3MSUCW/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01C3MSUCW/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

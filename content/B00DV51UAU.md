@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.00 % en Superga 2750 COTU Classic  Zapatillas Un'
-date: 2020-10-22 15:37:18
+date: 2020-10-23 17:30:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/312Y-rgMF3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312Y-rgMF3L._SL200_.jpg' ]
 comments: true
