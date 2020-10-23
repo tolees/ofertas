@@ -14,11 +14,11 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Está [Dreamlove Cobeco Spanish Fly Gotas Passion Intenso - 1 Unidad](https://www.amazon.es/dp/B00GWK7AGO/?tag=redken-21) con 45.95 de descuento por 7 EUR (original: 12.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dreamlove Cobeco Spanish Fly Gotas Passion Intenso - 1 Unidad](https://www.amazon.es/dp/B00GWK7AGO/?tag=redken-21) a 7 EUR (original: 12.95 EUR) (45.95 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yndOnjC8L._SL200_.jpg)](https://www.amazon.es/dp/B00GWK7AGO/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00GWK7AGO/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00GWK7AGO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

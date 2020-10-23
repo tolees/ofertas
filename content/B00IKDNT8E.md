@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Case Logic WMBP115K - Mochila para Orden al 50.02 % de descuento'
-date: 2020-10-17 18:01:32
+title: 'Case Logic WMBP115K - Mochila para Orden al 32.68 % de descuento'
+date: 2020-10-22 23:46:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WbRlylciL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WbRlylciL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00IKDNT8E
 description:
-actualPrice: 14.99 EUR
+actualPrice: 20.19 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Case Logic WMBP115K - Mochila para Ordenador portátil](https://www.amazon.es/dp/B00IKDNT8E/?tag=redken-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Case Logic WMBP115K - Mochila para Ordenador portátil](https://www.amazon.es/dp/B00IKDNT8E/?tag=redken-21) a 20.19 EUR (original: 29.99 EUR) (32.68 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WbRlylciL._SL200_.jpg)](https://www.amazon.es/dp/B00IKDNT8E/?tag=redken-21)
 
