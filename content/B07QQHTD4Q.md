@@ -14,11 +14,11 @@ comparePrice: 34.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Ravensburger Horrified: Universal Monsters Strategy Board Game for Ages 10 & Up  60001836 ](https://www.amazon.com/dp/B07QQHTD4Q/?tag=redken08-20) a 26.24 USD (original: 34.99 USD) (25.01 %  de descuento) en el siguiente enlace!
+Está [Ravensburger Horrified: Universal Monsters Strategy Board Game for Ages 10 & Up  60001836 ](https://www.amazon.com/dp/B07QQHTD4Q/?tag=redken08-20) con 25.01 de descuento por 26.24 USD (original: 34.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61-gfAQrwzL._SL200_.jpg)](https://www.amazon.com/dp/B07QQHTD4Q/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07QQHTD4Q/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07QQHTD4Q/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
