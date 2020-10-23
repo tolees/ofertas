@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.27 % en Vileda Windomatic - Aspirador de ventana'
-date: 2020-10-21 18:28:13
+date: 2020-10-23 15:27:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/317VI8d2rnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317VI8d2rnL._SL200_.jpg' ]
 comments: true

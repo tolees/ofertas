@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.05 % en SAMSUNG 970 EVO Plus SSD 2TB - M.2 NVMe '
-date: 2020-10-22 11:48:16
+date: 2020-10-23 15:53:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/319w-vklXnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319w-vklXnL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.34 % en PUMA Women s Cali WN s Trainers  White W'
-date: 2020-10-22 09:08:07
+date: 2020-10-23 15:09:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL200_.jpg' ]
 comments: true

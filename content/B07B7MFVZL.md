@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger 27601 GraviTrax Trax Expans al 31.83 % de descuento'
-date: 2020-10-22 11:47:00
+date: 2020-10-23 15:50:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/410gVveOsLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410gVveOsLL._SL200_.jpg' ]
 comments: true
