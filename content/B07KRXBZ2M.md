@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Columbia Sun Ridge Polo  Hombre  Verde  Cypress   1X Supersize](https://www.amazon.es/dp/B07KRXBZ2M/?tag=redken-21) con 66.77 de descuento por 16.61 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Sun Ridge Polo  Hombre  Verde  Cypress   1X Supersize](https://www.amazon.es/dp/B07KRXBZ2M/?tag=redken-21) a 16.61 EUR (original: 49.99 EUR) (66.77 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sVemqBoSL._SL200_.jpg)](https://www.amazon.es/dp/B07KRXBZ2M/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KRXBZ2M/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KRXBZ2M/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
