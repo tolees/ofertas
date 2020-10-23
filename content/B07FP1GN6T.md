@@ -14,11 +14,11 @@ comparePrice: 139.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [edc by Esprit 108cc2g016 Chaqueta  Negro  Black 001   Medium para Hombre](https://www.amazon.es/dp/B07FP1GN6T/?tag=redken-21) a 30.53 EUR (original: 139.99 EUR) (78.19 %  de descuento) en el siguiente enlace!
+Está [edc by Esprit 108cc2g016 Chaqueta  Negro  Black 001   Medium para Hombre](https://www.amazon.es/dp/B07FP1GN6T/?tag=redken-21) con 78.19 de descuento por 30.53 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xfKrvu8fL._SL200_.jpg)](https://www.amazon.es/dp/B07FP1GN6T/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FP1GN6T/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FP1GN6T/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

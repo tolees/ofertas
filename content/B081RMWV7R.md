@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.01 % en CYCPLUS 150 PSI Bomba de neumáticos Comp'
-date: 2020-10-22 03:59:14
+date: 2020-10-23 04:20:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/417+w-jKzFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417+w-jKzFL._SL200_.jpg' ]
 comments: true
