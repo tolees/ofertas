@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.04 % en Levi s The Original tee Camiseta  Gris  '
-date: 2020-10-01 01:23:06
+date: 2020-10-23 01:19:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bsnMfXsZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bsnMfXsZL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gonher-Pistola Policía con 8 Disparos  sin Talla  45 ](https://www.amazon.es/dp/B001C6FNYY/?tag=redken-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!
+Está [Gonher-Pistola Policía con 8 Disparos  sin Talla  45 ](https://www.amazon.es/dp/B001C6FNYY/?tag=redken-21) con 40.04 de descuento por 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/415V+rPB3eL._SL200_.jpg)](https://www.amazon.es/dp/B001C6FNYY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B001C6FNYY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001C6FNYY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

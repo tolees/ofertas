@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.92 % en Jimmy Choo Blossom Eau de Parfum  60 ml'
-date: 2020-10-21 07:23:11
+date: 2020-10-23 01:35:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pQ9LcdJ5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pQ9LcdJ5L._SL200_.jpg' ]
 comments: true
