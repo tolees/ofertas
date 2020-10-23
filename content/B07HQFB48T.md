@@ -14,11 +14,11 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [Thumbs Up 1002200 videoconsola portátil 10 9 cm  4.3"  - Videoconsolas portátiles  6 año s    LCD  10 9 cm  4.3"   MicroUSB  477 g ](https://www.amazon.es/dp/B07HQFB48T/?tag=redken-21) con 39.94 de descuento por 30 EUR (original: 49.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Thumbs Up 1002200 videoconsola portátil 10 9 cm  4.3"  - Videoconsolas portátiles  6 año s    LCD  10 9 cm  4.3"   MicroUSB  477 g ](https://www.amazon.es/dp/B07HQFB48T/?tag=redken-21) a 30 EUR (original: 49.95 EUR) (39.94 %  de descuento) en el siguiente enlace!
 
 [![]()](https://www.amazon.es/dp/B07HQFB48T/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HQFB48T/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HQFB48T/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
