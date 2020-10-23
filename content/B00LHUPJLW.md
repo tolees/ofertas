@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin BSV401VF2M Surge Stripe Protezion al 31.47 % de descuento'
-date: 2020-10-22 07:44:45
+date: 2020-10-23 16:08:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/4169mOYqmXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4169mOYqmXL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas Core18 Hoody Sudadera  Hombre  Bo al 28.71 % de descuento'
-date: 2020-10-19 21:18:25
+title: 'adidas Core18 Hoody Sudadera  Hombre  Bo al 27.46 % de descuento'
+date: 2020-10-23 16:31:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jIBXvzvmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jIBXvzvmL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07X8HXWXY
 description:
-actualPrice: 28.48 EUR
+actualPrice: 28.98 EUR
 comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Está [adidas Core18 Hoody Sudadera  Hombre  Bold Green  XS](https://www.amazon.es/dp/B07X8HXWXY/?tag=redken-21) con 28.71 de descuento por 28.48 EUR (original: 39.95 EUR) en el siguiente enlace!
+Está [adidas Core18 Hoody Sudadera  Hombre  Bold Green  XS](https://www.amazon.es/dp/B07X8HXWXY/?tag=redken-21) con 27.46 de descuento por 28.98 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41jIBXvzvmL._SL200_.jpg)](https://www.amazon.es/dp/B07X8HXWXY/?tag=redken-21)
 
