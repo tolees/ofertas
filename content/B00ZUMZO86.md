@@ -14,11 +14,11 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [Hercules DJ Control Glow - Consola DJ con 2 ruedas Jog y effectos de luz   Verde/Negro](https://www.amazon.es/dp/B00ZUMZO86/?tag=redken-21) con 35.66 de descuento por 57.9 EUR (original: 89.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hercules DJ Control Glow - Consola DJ con 2 ruedas Jog y effectos de luz   Verde/Negro](https://www.amazon.es/dp/B00ZUMZO86/?tag=redken-21) a 57.9 EUR (original: 89.99 EUR) (35.66 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Urn0JLpaL._SL200_.jpg)](https://www.amazon.es/dp/B00ZUMZO86/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00ZUMZO86/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00ZUMZO86/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
