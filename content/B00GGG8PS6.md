@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Erase Una Vez el Cuerpo Humano - Maleta  al 28.55 % de descuento'
-date: 2020-10-22 16:21:52
+date: 2020-10-24 16:49:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Xv8BVDfWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Xv8BVDfWL._SL200_.jpg' ]
 comments: true

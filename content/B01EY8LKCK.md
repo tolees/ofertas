@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Genius 8900 - Cepillo de dientes  al 32.98 % de descuento'
-date: 2020-10-20 16:38:49
+date: 2020-10-24 16:20:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tOQaOtQWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tOQaOtQWL._SL200_.jpg' ]
 comments: true

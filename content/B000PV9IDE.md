@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.53 % en Tristar VE-5933 - Ventilador de suelo co'
-date: 2020-10-21 07:18:09
+date: 2020-10-24 16:49:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Gd1Wy1dHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Gd1Wy1dHL._SL200_.jpg' ]
 comments: true
