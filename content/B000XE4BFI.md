@@ -14,11 +14,11 @@ comparePrice: 114.08 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kenzo 17284 - Agua de perfume  100 ml](https://www.amazon.es/dp/B000XE4BFI/?tag=redken-21) a 44.96 EUR (original: 114.08 EUR) (60.59 %  de descuento) en el siguiente enlace!
+Está [Kenzo 17284 - Agua de perfume  100 ml](https://www.amazon.es/dp/B000XE4BFI/?tag=redken-21) con 60.59 de descuento por 44.96 EUR (original: 114.08 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31vmr1EML7L._SL200_.jpg)](https://www.amazon.es/dp/B000XE4BFI/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000XE4BFI/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000XE4BFI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

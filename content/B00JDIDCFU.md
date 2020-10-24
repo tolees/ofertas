@@ -14,11 +14,11 @@ comparePrice: 249.0 EUR
 inStock: true
 ---
 
-Está [Nissin Digital NFG013C - Flash con zapata para DSLR Canon  negro](https://www.amazon.es/dp/B00JDIDCFU/?tag=redken-21) con 39.76 de descuento por 150.0 EUR (original: 249.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nissin Digital NFG013C - Flash con zapata para DSLR Canon  negro](https://www.amazon.es/dp/B00JDIDCFU/?tag=redken-21) a 150.0 EUR (original: 249.0 EUR) (39.76 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ykmRgTKjL._SL200_.jpg)](https://www.amazon.es/dp/B00JDIDCFU/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00JDIDCFU/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00JDIDCFU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
