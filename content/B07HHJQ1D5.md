@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony PlayStation Classic  Konsole  al 32.80 % de descuento'
-date: 2020-10-23 21:38:58
+title: 'Sony PlayStation Classic  Konsole  al 25.04 % de descuento'
+date: 2020-10-24 22:22:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O+k0K+akL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O+k0K+akL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07HHJQ1D5
 description:
-actualPrice: 67.19 EUR
+actualPrice: 74.95 EUR
 comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony PlayStation Classic  Konsole ](https://www.amazon.de/dp/B07HHJQ1D5/?tag=redken02-21) a 67.19 EUR (original: 99.99 EUR) (32.80 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony PlayStation Classic  Konsole ](https://www.amazon.de/dp/B07HHJQ1D5/?tag=redken02-21) a 74.95 EUR (original: 99.99 EUR) (25.04 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41O+k0K+akL._SL200_.jpg)](https://www.amazon.de/dp/B07HHJQ1D5/?tag=redken02-21)
 

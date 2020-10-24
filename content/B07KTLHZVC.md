@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21046 - Architecture Empire State B al 32.30 % de descuento'
-date: 2020-10-23 21:41:38
+date: 2020-10-24 22:20:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg' ]
 comments: true

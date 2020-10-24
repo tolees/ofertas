@@ -14,11 +14,11 @@ comparePrice: 187.67 EUR
 inStock: true
 ---
 
-Está [STANLEY FATMAX FMC647D2-QW - Atornillador de impacto Brushless 18V  180 Nm  1/4"   2 baterías de litio 2.0Ah y maletín](https://www.amazon.es/dp/B06XTWX8GK/?tag=redken-21) con 28.25 de descuento por 134.65 EUR (original: 187.67 EUR) en el siguiente enlace!
+Ahora mismo tienes [STANLEY FATMAX FMC647D2-QW - Atornillador de impacto Brushless 18V  180 Nm  1/4"   2 baterías de litio 2.0Ah y maletín](https://www.amazon.es/dp/B06XTWX8GK/?tag=redken-21) a 134.65 EUR (original: 187.67 EUR) (28.25 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4176eaIC85L._SL200_.jpg)](https://www.amazon.es/dp/B06XTWX8GK/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XTWX8GK/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XTWX8GK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

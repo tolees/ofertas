@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPERZINGS III - Display mit 8 SuperBots al 25.17 % de descuento'
-date: 2020-10-23 21:56:36
+date: 2020-10-24 22:35:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bvTDq2spL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bvTDq2spL._SL200_.jpg' ]
 comments: true
