@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Terracon 6514 - Terracon isopat 20 x 60  al 47.42 % de descuento'
-date: 2020-10-23 13:03:23
+title: 'Terracon 6514 - Terracon isopat 20 x 60  al 49.47 % de descuento'
+date: 2020-10-24 13:20:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ofnl6hzaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ofnl6hzaL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00DTW5VXM
 description:
-actualPrice: 9.46 EUR
+actualPrice: 9.09 EUR
 comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Está [Terracon 6514 - Terracon isopat 20 x 60 x 90 mm para suelos de terraza de 12 piezas por paquete](https://www.amazon.es/dp/B00DTW5VXM/?tag=redken-21) con 47.42 de descuento por 9.46 EUR (original: 17.99 EUR) en el siguiente enlace!
+Está [Terracon 6514 - Terracon isopat 20 x 60 x 90 mm para suelos de terraza de 12 piezas por paquete](https://www.amazon.es/dp/B00DTW5VXM/?tag=redken-21) con 49.47 de descuento por 9.09 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Ofnl6hzaL._SL200_.jpg)](https://www.amazon.es/dp/B00DTW5VXM/?tag=redken-21)
 

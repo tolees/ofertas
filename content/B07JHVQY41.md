@@ -14,11 +14,11 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma ftblNXT Graphic Shorts Jr Pantalones Cortos  Unisex niños  Negro  Green Gecko   152](https://www.amazon.es/dp/B07JHVQY41/?tag=redken-21) a 13.05 EUR (original: 24.95 EUR) (47.70 %  de descuento) en el siguiente enlace!
+Está [Puma ftblNXT Graphic Shorts Jr Pantalones Cortos  Unisex niños  Negro  Green Gecko   152](https://www.amazon.es/dp/B07JHVQY41/?tag=redken-21) con 47.70 de descuento por 13.05 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51bzK5AIJzL._SL200_.jpg)](https://www.amazon.es/dp/B07JHVQY41/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JHVQY41/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JHVQY41/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
