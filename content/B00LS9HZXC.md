@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'K-Way K004BD0 - veste imperméable - Homm al 28.38 % de descuento'
-date: 2020-10-23 09:32:48
+date: 2020-10-24 09:38:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kg22afAML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kg22afAML._SL200_.jpg' ]
 comments: true

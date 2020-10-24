@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ShinePick Microphone Karaoké Sans Fil  M al 31.05 % de descuento'
-date: 2020-10-22 16:01:24
+date: 2020-10-24 09:52:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ELtd+3bwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ELtd+3bwL._SL200_.jpg' ]
 comments: true
