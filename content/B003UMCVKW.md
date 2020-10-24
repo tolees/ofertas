@@ -14,11 +14,11 @@ comparePrice: 1.75 EUR
 inStock: true
 ---
 
-Está [Barilla Pasta all Uovo Ripiena Le Emiliane Tortellini con Prosciutto Crudo - 250 g](https://www.amazon.it/dp/B003UMCVKW/?tag=redken03-21) con 26.86 de descuento por 1.28 EUR (original: 1.75 EUR) en el siguiente enlace!
+Ahora mismo tienes [Barilla Pasta all Uovo Ripiena Le Emiliane Tortellini con Prosciutto Crudo - 250 g](https://www.amazon.it/dp/B003UMCVKW/?tag=redken03-21) a 1.28 EUR (original: 1.75 EUR) (26.86 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41kBsJpTcaL._SL200_.jpg)](https://www.amazon.it/dp/B003UMCVKW/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B003UMCVKW/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B003UMCVKW/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

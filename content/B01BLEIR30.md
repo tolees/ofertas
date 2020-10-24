@@ -14,11 +14,11 @@ comparePrice: 11.66 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Revlon Professional Uniq One - Tratamiento para el cabello  Coco  150 ml](https://www.amazon.es/dp/B01BLEIR30/?tag=redken-21) a 6.95 EUR (original: 11.66 EUR) (40.39 %  de descuento) en el siguiente enlace!
+Está [Revlon Professional Uniq One - Tratamiento para el cabello  Coco  150 ml](https://www.amazon.es/dp/B01BLEIR30/?tag=redken-21) con 40.39 de descuento por 6.95 EUR (original: 11.66 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ForugQH9L._SL200_.jpg)](https://www.amazon.es/dp/B01BLEIR30/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01BLEIR30/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01BLEIR30/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
