@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.56 % en LEGO City - Police Policía Aérea: A la C'
-date: 2020-10-19 16:00:06
+date: 2020-10-24 10:35:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg' ]
 comments: true

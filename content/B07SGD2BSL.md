@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OneAmg Compresor de Aire Eléctrico Portá al 27.51 % de descuento'
-date: 2020-10-22 03:29:21
+date: 2020-10-24 10:10:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gJhnbSfAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gJhnbSfAL._SL200_.jpg' ]
 comments: true
