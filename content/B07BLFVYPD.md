@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tucano Smilza bolsa super slim con detal al 59.56 % de descuento'
-date: 2020-10-17 14:56:17
+date: 2020-10-24 05:30:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Oa5srEVIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Oa5srEVIL._SL200_.jpg' ]
 comments: true

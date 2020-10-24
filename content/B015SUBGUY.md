@@ -14,11 +14,11 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [Medisana BU 530 Connect - Tensiómetro de brazo con detección de arritmias  clasificación de los valores según los estándares de la OMS: medición precisa  resultados por Bluetooth a la App VitaDock+](https://www.amazon.es/dp/B015SUBGUY/?tag=redken-21) con 49.97 de descuento por 29.99 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Medisana BU 530 Connect - Tensiómetro de brazo con detección de arritmias  clasificación de los valores según los estándares de la OMS: medición precisa  resultados por Bluetooth a la App VitaDock+](https://www.amazon.es/dp/B015SUBGUY/?tag=redken-21) a 29.99 EUR (original: 59.95 EUR) (49.97 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tDRtJ8D6L._SL200_.jpg)](https://www.amazon.es/dp/B015SUBGUY/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B015SUBGUY/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B015SUBGUY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

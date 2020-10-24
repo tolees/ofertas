@@ -14,11 +14,11 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Teo 601 Camiseta  Blanco  Off White    Tamaño del Fabricante:122  para Niños](https://www.amazon.es/dp/B01NC0QLWC/?tag=redken-21) a 6.77 EUR (original: 19.95 EUR) (66.07 %  de descuento) en el siguiente enlace!
+Está [LEGO Teo 601 Camiseta  Blanco  Off White    Tamaño del Fabricante:122  para Niños](https://www.amazon.es/dp/B01NC0QLWC/?tag=redken-21) con 66.07 de descuento por 6.77 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415lCjGrFcL._SL200_.jpg)](https://www.amazon.es/dp/B01NC0QLWC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01NC0QLWC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01NC0QLWC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
