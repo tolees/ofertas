@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.19 % en LEGO City 60216 Feuerwehr in der Stadt m'
-date: 2020-10-23 04:24:34
+date: 2020-10-24 04:41:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg' ]
 comments: true
