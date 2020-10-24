@@ -14,11 +14,11 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO DUPLO 10885 - Mein erstes Tierpuzzle](https://www.amazon.de/dp/B07FP2GRX7/?tag=redken02-21) a 11.99 EUR (original: 19.99 EUR) (40.02 %  de descuento) en el siguiente enlace!
+Está [LEGO DUPLO 10885 - Mein erstes Tierpuzzle](https://www.amazon.de/dp/B07FP2GRX7/?tag=redken02-21) con 40.02 de descuento por 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61gMn6M5DoL._SL200_.jpg)](https://www.amazon.de/dp/B07FP2GRX7/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07FP2GRX7/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07FP2GRX7/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

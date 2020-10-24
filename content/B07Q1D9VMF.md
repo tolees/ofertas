@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ziploc Slider Storage Bags with New Powe al 35.27 % de descuento'
-date: 2020-10-07 13:47:57
+date: 2020-10-23 23:44:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iiZhkP3+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iiZhkP3+L._SL200_.jpg' ]
 comments: true

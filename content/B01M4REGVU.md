@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'nuLOOM Tonita Tribal Area Rug  5  3" x 7 al 76.86 % de descuento'
-date: 2020-10-21 07:29:58
+date: 2020-10-23 23:44:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/61zX0-ozMkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61zX0-ozMkL._SL200_.jpg' ]
 comments: true
