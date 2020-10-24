@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paladone PP5852PS mini lampe  75 W  Mult al 27.14 % de descuento'
-date: 2020-10-22 22:02:31
+date: 2020-10-24 15:47:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+J0iZPenL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+J0iZPenL._SL200_.jpg' ]
 comments: true

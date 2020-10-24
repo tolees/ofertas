@@ -14,11 +14,11 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dockers by Gerli 43ln201  Botas Militar para Mujer  Gris  Khaki 850   40 EU](https://www.amazon.es/dp/B07DJLKNB8/?tag=redken-21) a 19.74 EUR (original: 79.95 EUR) (75.31 %  de descuento) en el siguiente enlace!
+Está [Dockers by Gerli 43ln201  Botas Militar para Mujer  Gris  Khaki 850   40 EU](https://www.amazon.es/dp/B07DJLKNB8/?tag=redken-21) con 75.31 de descuento por 19.74 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bi-bUqX5L._SL200_.jpg)](https://www.amazon.es/dp/B07DJLKNB8/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DJLKNB8/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DJLKNB8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
