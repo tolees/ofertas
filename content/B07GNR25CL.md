@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Pulito Completo Carta Igienica S al 56.04 % de descuento'
-date: 2020-10-22 14:51:58
+date: 2020-10-24 02:59:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51okMgjTX8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51okMgjTX8L._SL200_.jpg' ]
 comments: true
