@@ -14,11 +14,11 @@ comparePrice: 64.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Vikky Platform L  Zapatillas para Mujer  Morado  Smoky Grape-White   40 EU](https://www.amazon.es/dp/B072BSQXH6/?tag=redken-21) a 19.88 EUR (original: 64.95 EUR) (69.39 %  de descuento) en el siguiente enlace!
+Está [Puma Vikky Platform L  Zapatillas para Mujer  Morado  Smoky Grape-White   40 EU](https://www.amazon.es/dp/B072BSQXH6/?tag=redken-21) con 69.39 de descuento por 19.88 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BTWjEVH%2BL._SL200_.jpg)](https://www.amazon.es/dp/B072BSQXH6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B072BSQXH6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072BSQXH6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
