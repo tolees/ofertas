@@ -14,11 +14,11 @@ comparePrice: 11.34 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [CURVER 232589 Smart Fresh Rect  Compuesto  Azul  18.3x13.4x6.8 cm](https://www.amazon.es/dp/B06XDBPVJP/?tag=redken-21) a 5.89 EUR (original: 11.34 EUR) (48.06 %  de descuento) en el siguiente enlace!
+Está [CURVER 232589 Smart Fresh Rect  Compuesto  Azul  18.3x13.4x6.8 cm](https://www.amazon.es/dp/B06XDBPVJP/?tag=redken-21) con 48.06 de descuento por 5.89 EUR (original: 11.34 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415shBuIenL._SL200_.jpg)](https://www.amazon.es/dp/B06XDBPVJP/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XDBPVJP/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XDBPVJP/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
