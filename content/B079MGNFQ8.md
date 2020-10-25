@@ -14,11 +14,11 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Lacoste Ph5522 Polo  Rojo  Bordeaux 476   Medium para Hombre](https://www.amazon.es/dp/B079MGNFQ8/?tag=redken-21) con 39.44 de descuento por 59.95 EUR (original: 99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Ph5522 Polo  Rojo  Bordeaux 476   Medium para Hombre](https://www.amazon.es/dp/B079MGNFQ8/?tag=redken-21) a 59.95 EUR (original: 99 EUR) (39.44 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31B27c9z7HL._SL200_.jpg)](https://www.amazon.es/dp/B079MGNFQ8/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B079MGNFQ8/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B079MGNFQ8/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

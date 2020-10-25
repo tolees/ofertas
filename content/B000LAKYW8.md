@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Collection A168WA-1YES  Reloj Rect al 29.08 % de descuento'
-date: 2020-10-19 12:52:46
+date: 2020-10-25 20:31:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41l9tEAa5IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41l9tEAa5IL._SL200_.jpg' ]
 comments: true
