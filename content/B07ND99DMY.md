@@ -14,11 +14,11 @@ comparePrice: 54.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 70423 Hidden Side Paranormal Intercept Bus AR Games App  Interactive Augmented Reality Ghost Playset for iPhone/Android](https://www.amazon.co.uk/dp/B07ND99DMY/?tag=redken01-21) a 39.6 GBP (original: 54.99 GBP) (27.99 %  de descuento) en el siguiente enlace!
+Está [LEGO 70423 Hidden Side Paranormal Intercept Bus AR Games App  Interactive Augmented Reality Ghost Playset for iPhone/Android](https://www.amazon.co.uk/dp/B07ND99DMY/?tag=redken01-21) con 27.99 de descuento por 39.6 GBP (original: 54.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ZzUGVRSTL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07ND99DMY/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07ND99DMY/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07ND99DMY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung RU7179 125 cm  50 Zoll  LED Fern al 27.03 % de descuento'
-date: 2020-10-24 22:13:32
+date: 2020-10-25 22:21:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Gz1aLvgkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Gz1aLvgkL._SL200_.jpg' ]
 comments: true

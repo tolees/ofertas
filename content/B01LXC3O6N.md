@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Herren Chronograph Quarz Uhr mit  al 25.96 % de descuento'
-date: 2020-10-23 03:23:06
+date: 2020-10-25 22:20:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YAMF2pcGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YAMF2pcGL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel BL77-CO EnerGel Gel-Tintenroller  al 37.22 % de descuento'
-date: 2020-10-24 22:26:51
+date: 2020-10-25 22:29:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41I+W16c44L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41I+W16c44L._SL200_.jpg' ]
 comments: true
