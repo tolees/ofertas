@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lechnical Termómetro infrarrojo Termómet al 71.49 % de descuento'
-date: 2020-10-24 09:49:32
+date: 2020-10-25 12:50:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XuYwKYn+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XuYwKYn+L._SL200_.jpg' ]
 comments: true
