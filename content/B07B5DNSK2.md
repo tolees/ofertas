@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Smart 5000 Estación de Cuidado Bu al 64.39 % de descuento'
-date: 2020-10-24 13:13:18
+date: 2020-10-25 18:36:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Pj2NuytGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Pj2NuytGL._SL200_.jpg' ]
 comments: true
