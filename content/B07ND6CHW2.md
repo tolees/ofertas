@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.98 % en LEGO®-Star Wars™ A-Wing Starfighter™ de '
-date: 2020-10-24 09:48:28
+date: 2020-10-25 10:38:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg' ]
 comments: true
