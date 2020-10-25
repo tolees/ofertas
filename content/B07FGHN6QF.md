@@ -14,11 +14,11 @@ comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Bajada III  Zapatillas de Trail Running para Hombre  Gris  Monument  Zour 036   44 EU](https://www.amazon.es/dp/B07FGHN6QF/?tag=redken-21) a 60 EUR (original: 119.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Columbia Bajada III  Zapatillas de Trail Running para Hombre  Gris  Monument  Zour 036   44 EU](https://www.amazon.es/dp/B07FGHN6QF/?tag=redken-21) con 50.00 de descuento por 60 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Q2w9LeXqL._SL200_.jpg)](https://www.amazon.es/dp/B07FGHN6QF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FGHN6QF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FGHN6QF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

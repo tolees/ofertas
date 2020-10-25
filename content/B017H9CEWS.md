@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin F8M731vfC00 - Cargador Premium do al 40.52 % de descuento'
-date: 2020-10-23 10:59:13
+date: 2020-10-25 13:16:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/415YD1bIL-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415YD1bIL-L._SL200_.jpg' ]
 comments: true

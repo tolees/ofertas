@@ -14,11 +14,11 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [14 en 1 Protoboard con Soporte RAB para Arduino UNOR3  Mega 2560 y Raspberry Pi 3 2 1 Model B+ RPI Zero W y Zero  UA032 ](https://www.amazon.es/dp/B07CGD2HLD/?tag=redken-21) con 44.04 de descuento por 13.99 EUR (original: 25 EUR) en el siguiente enlace!
+Ahora mismo tienes [14 en 1 Protoboard con Soporte RAB para Arduino UNOR3  Mega 2560 y Raspberry Pi 3 2 1 Model B+ RPI Zero W y Zero  UA032 ](https://www.amazon.es/dp/B07CGD2HLD/?tag=redken-21) a 13.99 EUR (original: 25 EUR) (44.04 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/5173d%2B8WtyL._SL200_.jpg)](https://www.amazon.es/dp/B07CGD2HLD/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CGD2HLD/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CGD2HLD/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
