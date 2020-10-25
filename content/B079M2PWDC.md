@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.95 % en Pinypon - Pack de 3 Princesas  Famosa 70'
-date: 2020-10-24 14:43:34
+date: 2020-10-25 15:35:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oYyzvY8mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oYyzvY8mL._SL200_.jpg' ]
 comments: true
