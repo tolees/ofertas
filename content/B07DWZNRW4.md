@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.84 % en ETEPON Soldador Estaño de 24 Piezas Temp'
-date: 2020-10-24 07:58:17
+date: 2020-10-25 08:26:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yRZuXt5AL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yRZuXt5AL._SL200_.jpg' ]
 comments: true

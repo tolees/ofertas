@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weta Collectibles- Mini Epics Figura Col al 32.07 % de descuento'
-date: 2020-10-20 10:05:40
+date: 2020-10-25 08:46:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kIfnVINUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kIfnVINUL._SL200_.jpg' ]
 comments: true

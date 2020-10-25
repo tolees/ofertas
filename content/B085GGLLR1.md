@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Watch GT 2e Sport - Smartwatch de al 38.55 % de descuento'
-date: 2020-10-20 20:09:12
+date: 2020-10-25 08:04:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pJGMljPiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pJGMljPiL._SL200_.jpg' ]
 comments: true
