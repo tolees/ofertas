@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.78 % en Proyector Bluetooth  YABER V3 Mini Proye'
-date: 2020-10-23 22:32:45
+date: 2020-10-25 04:45:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T3AwglpYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T3AwglpYL._SL200_.jpg' ]
 comments: true

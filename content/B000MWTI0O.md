@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mepal M104182 - Fiambrera Triple 550ml al 44.30 % de descuento'
-date: 2020-10-24 02:34:00
+date: 2020-10-25 03:08:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JVORWw0zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JVORWw0zL._SL200_.jpg' ]
 comments: true

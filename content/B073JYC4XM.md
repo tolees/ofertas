@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra 128 GB microSDXC Memory Ca al 55.74 % de descuento'
-date: 2020-10-24 03:13:11
+date: 2020-10-25 03:57:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tF51Ka9iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tF51Ka9iL._SL200_.jpg' ]
 comments: true

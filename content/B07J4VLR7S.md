@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SIMREX X300C Mini Drone with Camera WIFI al 32.67 % de descuento'
-date: 2020-10-23 09:10:15
+date: 2020-10-25 04:08:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yyKLifOcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yyKLifOcL._SL200_.jpg' ]
 comments: true
