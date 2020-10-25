@@ -14,11 +14,11 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Esprit 039EE2K017 Camiseta  Blanco  Off White 110   M para Hombre](https://www.amazon.es/dp/B07N4MQBWW/?tag=redken-21) con 65.63 de descuento por 6.87 EUR (original: 19.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Esprit 039EE2K017 Camiseta  Blanco  Off White 110   M para Hombre](https://www.amazon.es/dp/B07N4MQBWW/?tag=redken-21) a 6.87 EUR (original: 19.99 EUR) (65.63 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YuL767VRL._SL200_.jpg)](https://www.amazon.es/dp/B07N4MQBWW/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07N4MQBWW/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07N4MQBWW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

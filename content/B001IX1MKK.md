@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.34 % en Knorr - Caldo Pastilla Pescado  120 g'
-date: 2020-10-21 20:14:11
+date: 2020-10-25 14:27:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fRRXQzggL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fRRXQzggL._SL200_.jpg' ]
 comments: true
