@@ -14,11 +14,11 @@ comparePrice: 76.8 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [perfk Cámara de Vigilancia Game Scouting Sensor Infrarrojo LED Invisible Negro 940nm Distancia PIR Alta/Normal/Baja - HT002LIG](https://www.amazon.es/dp/B07KNZDY11/?tag=redken-21) a 48 EUR (original: 76.8 EUR) (37.50 %  de descuento) en el siguiente enlace!
+Está [perfk Cámara de Vigilancia Game Scouting Sensor Infrarrojo LED Invisible Negro 940nm Distancia PIR Alta/Normal/Baja - HT002LIG](https://www.amazon.es/dp/B07KNZDY11/?tag=redken-21) con 37.50 de descuento por 48 EUR (original: 76.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cxp8aGDfL._SL200_.jpg)](https://www.amazon.es/dp/B07KNZDY11/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KNZDY11/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KNZDY11/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
