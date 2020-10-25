@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Under Armour  UNDKU Coldgear Armour Cami al 67.13 % de descuento'
-date: 2020-10-24 09:07:52
+title: 'Under Armour  UNDKU Coldgear Armour Cami al 68.67 % de descuento'
+date: 2020-10-25 09:29:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/311NBSPW8FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311NBSPW8FL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B077XPYD9W
 description:
-actualPrice: 18.08 EUR
+actualPrice: 17.23 EUR
 comparePrice: 55.0 EUR
 inStock: true
 ---
 
-Está [Under Armour  UNDKU Coldgear Armour Camisa De Manga Larga  Hombre  Negro  MD](https://www.amazon.es/dp/B077XPYD9W/?tag=redken-21) con 67.13 de descuento por 18.08 EUR (original: 55.0 EUR) en el siguiente enlace!
+Está [Under Armour  UNDKU Coldgear Armour Camisa De Manga Larga  Hombre  Negro  MD](https://www.amazon.es/dp/B077XPYD9W/?tag=redken-21) con 68.67 de descuento por 17.23 EUR (original: 55.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/311NBSPW8FL._SL200_.jpg)](https://www.amazon.es/dp/B077XPYD9W/?tag=redken-21)
 

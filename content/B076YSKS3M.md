@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hori - Monitor Gaming HD  PS4  al 42.52 % de descuento'
-date: 2020-10-20 21:46:10
+date: 2020-10-25 09:26:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ANjhzy0HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ANjhzy0HL._SL200_.jpg' ]
 comments: true
