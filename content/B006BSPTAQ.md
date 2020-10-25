@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WN881ND - WIFI Adaptador PCI  al 37.89 % de descuento'
-date: 2020-10-24 10:35:48
+date: 2020-10-25 16:57:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/415vrQMpdJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415vrQMpdJL._SL200_.jpg' ]
 comments: true

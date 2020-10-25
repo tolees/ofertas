@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Radio Coche Pantalla Car Stereo 7 Pulgad al 30.36 % de descuento'
-date: 2020-10-24 16:29:47
+date: 2020-10-25 16:45:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/517qqRKgRbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517qqRKgRbL._SL200_.jpg' ]
 comments: true
