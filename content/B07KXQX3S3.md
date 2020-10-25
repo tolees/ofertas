@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Tarjeta SanDisk microSDXC UHS-I para Nin al 42.19 % de descuento'
-date: 2020-10-24 21:21:52
+title: 'SanDisk microSDXC UHS-I card for Nintend al 49.28 % de descuento'
+date: 2020-10-25 03:59:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07KXQX3S3
 description:
-actualPrice: 23.12 EUR
-comparePrice: 39.99 EUR
+actualPrice: 20.79 GBP
+comparePrice: 40.99 GBP
 inStock: true
 ---
 
-Está [Tarjeta SanDisk microSDXC UHS-I para Nintendo Switch 128GB  Producto con Licencia de Nintendo](https://www.amazon.es/dp/B07KXQX3S3/?tag=redken-21) con 42.19 de descuento por 23.12 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [SanDisk microSDXC UHS-I card for Nintendo 128GB - Nintendo licensed Product  Red](https://www.amazon.co.uk/dp/B07KXQX3S3/?tag=redken01-21) con 49.28 de descuento por 20.79 GBP (original: 40.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg)](https://www.amazon.es/dp/B07KXQX3S3/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KXQX3S3/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KXQX3S3/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KXQX3S3/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings Camiseta  Profesor K Blanco   al 25.04 % de descuento'
-date: 2020-10-24 21:18:55
+date: 2020-10-25 21:28:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iaSDsF1DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iaSDsF1DL._SL200_.jpg' ]
 comments: true

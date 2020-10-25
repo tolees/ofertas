@@ -14,11 +14,11 @@ comparePrice: 299.99 GBP
 inStock: true
 ---
 
-Está [TomTom Car Sat Nav GO 5200  5 Inch with Handsfree Calling  Siri  Google Now  Updates via WiFi  Lifetime Traffic via SIM Card and World Maps  Smartphone Messages  Capacitive Screen](https://www.amazon.co.uk/dp/B01L8PLHTI/?tag=redken01-21) con 38.59 de descuento por 184.21 GBP (original: 299.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [TomTom Car Sat Nav GO 5200  5 Inch with Handsfree Calling  Siri  Google Now  Updates via WiFi  Lifetime Traffic via SIM Card and World Maps  Smartphone Messages  Capacitive Screen](https://www.amazon.co.uk/dp/B01L8PLHTI/?tag=redken01-21) a 184.21 GBP (original: 299.99 GBP) (38.59 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51tQRmW9CZL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01L8PLHTI/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01L8PLHTI/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01L8PLHTI/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
