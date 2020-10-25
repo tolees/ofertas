@@ -14,11 +14,11 @@ comparePrice: 15 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LOOK by crewcuts Top Lazo en Hombros y Manga Tres Cuartos Niña  negro  L](https://www.amazon.es/dp/B07KQY8NRW/?tag=redken-21) a 9.6 EUR (original: 15 EUR) (36.00 %  de descuento) en el siguiente enlace!
+Está [LOOK by crewcuts Top Lazo en Hombros y Manga Tres Cuartos Niña  negro  L](https://www.amazon.es/dp/B07KQY8NRW/?tag=redken-21) con 36.00 de descuento por 9.6 EUR (original: 15 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ei9aO9CZL._SL200_.jpg)](https://www.amazon.es/dp/B07KQY8NRW/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KQY8NRW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KQY8NRW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

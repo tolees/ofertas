@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Reloj de Pulsera LRW-200H-4BVEF al 52.39 % de descuento'
-date: 2020-10-24 04:30:22
+date: 2020-10-25 05:07:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uDbqrrBOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uDbqrrBOL._SL200_.jpg' ]
 comments: true
