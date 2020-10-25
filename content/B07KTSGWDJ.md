@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City 60228 Weltraumrakete mit Kontr al 26.14 % de descuento'
-date: 2020-10-24 10:27:55
+date: 2020-10-25 11:06:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg' ]
 comments: true

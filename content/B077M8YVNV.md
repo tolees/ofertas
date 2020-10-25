@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PUMA Smash v2  Zapatillas Unisex Adulto  al 27.12 % de descuento'
-date: 2020-10-22 10:37:13
+title: 'PUMA Smash v2  Zapatillas Unisex Adulto  al 32.81 % de descuento'
+date: 2020-10-25 11:41:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B077M8YVNV
 description:
-actualPrice: 40.05 EUR
+actualPrice: 36.92 EUR
 comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Está [PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat White   47 EU](https://www.amazon.es/dp/B077M8YVNV/?tag=redken-21) con 27.12 de descuento por 40.05 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat White   47 EU](https://www.amazon.es/dp/B077M8YVNV/?tag=redken-21) con 32.81 de descuento por 36.92 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg)](https://www.amazon.es/dp/B077M8YVNV/?tag=redken-21)
 

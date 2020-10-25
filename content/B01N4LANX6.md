@@ -14,11 +14,11 @@ comparePrice: 132 EUR
 inStock: true
 ---
 
-Está [Michael Kors Jan Gafas de sol  Dark Tortoise 300613  55 Unisex-Adulto](https://www.amazon.es/dp/B01N4LANX6/?tag=redken-21) con 33.29 de descuento por 88.06 EUR (original: 132 EUR) en el siguiente enlace!
+Ahora mismo tienes [Michael Kors Jan Gafas de sol  Dark Tortoise 300613  55 Unisex-Adulto](https://www.amazon.es/dp/B01N4LANX6/?tag=redken-21) a 88.06 EUR (original: 132 EUR) (33.29 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lv-9wu%2B%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01N4LANX6/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01N4LANX6/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01N4LANX6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
