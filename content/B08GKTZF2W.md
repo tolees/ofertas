@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VZATT Árbol de Navidad de Fieltro  Árbol al 45.07 % de descuento'
-date: 2020-10-25 17:12:00
+date: 2020-10-26 18:08:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-jH5EvPFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-jH5EvPFL._SL200_.jpg' ]
 comments: true

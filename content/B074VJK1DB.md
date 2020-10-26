@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Parker Jotter London - Paquete de recamb al 38.32 % de descuento'
-date: 2020-09-30 15:11:48
+title: 'Descuento del 40.04 % en Parker Jotter London Refills Discovery P'
+date: 2020-10-26 18:57:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sxHd4mUwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sxHd4mUwL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B074VJK1DB
 description:
-actualPrice: 12.44 EUR
-comparePrice: 20.17 EUR
+actualPrice: 5.99 GBP
+comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Está [Parker Jotter London - Paquete de recambios Discovery tres recambios Quinkflow para bolígrafos y tres recambios de tinta de gel Quink](https://www.amazon.es/dp/B074VJK1DB/?tag=redken-21) con 38.32 de descuento por 12.44 EUR (original: 20.17 EUR) en el siguiente enlace!
+Tienes [Parker Jotter London Refills Discovery Pack  3 Quinkflow Refills for Ballpoint Pens and 3 Quink Gel Refills](https://www.amazon.co.uk/dp/B074VJK1DB/?tag=redken01-21) con un 40.04 % de descuento con precio de oferta de 5.99 GBP (original: 9.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51sxHd4mUwL._SL200_.jpg)](https://www.amazon.es/dp/B074VJK1DB/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/51sxHd4mUwL._SL200_.jpg)](https://www.amazon.co.uk/dp/B074VJK1DB/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B074VJK1DB/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B074VJK1DB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
