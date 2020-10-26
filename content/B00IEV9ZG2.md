@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Avent SCF355/00 - Calienta Biber al 46.06 % de descuento'
-date: 2020-10-25 08:02:27
+date: 2020-10-26 11:54:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31buidPIvHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31buidPIvHL._SL200_.jpg' ]
 comments: true

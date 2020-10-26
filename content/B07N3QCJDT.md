@@ -14,11 +14,11 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Hackett Nautical Rugby Polo   Navy/White 5DJ   XX-Large para Hombre](https://www.amazon.es/dp/B07N3QCJDT/?tag=redken-21) con 70.62 de descuento por 44.07 EUR (original: 150 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hackett Nautical Rugby Polo   Navy/White 5DJ   XX-Large para Hombre](https://www.amazon.es/dp/B07N3QCJDT/?tag=redken-21) a 44.07 EUR (original: 150 EUR) (70.62 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IfR8Um60L._SL200_.jpg)](https://www.amazon.es/dp/B07N3QCJDT/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07N3QCJDT/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07N3QCJDT/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
