@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini Máquina de Coser Portatil  Mini Máq al 60.02 % de descuento'
-date: 2020-10-25 03:33:14
+date: 2020-10-26 09:55:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31f7tiXH-sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31f7tiXH-sL._SL200_.jpg' ]
 comments: true
