@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Essential Western Camicia  Blu  C al 38.76 % de descuento'
-date: 2020-10-23 08:52:43
+date: 2020-10-26 22:36:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/418X+V-Zc1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418X+V-Zc1L._SL200_.jpg' ]
 comments: true
