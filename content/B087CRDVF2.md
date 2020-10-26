@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SNAPTAIN A10 Foldable Mini Drone with 72 al 25.01 % de descuento'
-date: 2020-10-04 02:31:26
+date: 2020-10-26 04:31:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ICD2R86cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ICD2R86cL._SL200_.jpg' ]
 comments: true
