@@ -14,11 +14,11 @@ comparePrice: 25.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Finish Quantum Ultimate Dishwasher Tablets  LEMON  100 Tablets](https://www.amazon.co.uk/dp/B081CVDLY3/?tag=redken01-21) a 13.0 GBP (original: 25.0 GBP) (48.00 %  de descuento) en el siguiente enlace!
+Está [Finish Quantum Ultimate Dishwasher Tablets  LEMON  100 Tablets](https://www.amazon.co.uk/dp/B081CVDLY3/?tag=redken01-21) con 48.00 de descuento por 13.0 GBP (original: 25.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51K29I1e6AL._SL200_.jpg)](https://www.amazon.co.uk/dp/B081CVDLY3/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B081CVDLY3/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B081CVDLY3/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
