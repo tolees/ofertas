@@ -14,11 +14,11 @@ comparePrice: 89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Fellowes Lunar+ - Plastificadora hasta 125 micras  A3  color azul](https://www.amazon.es/dp/B06WVHWN2T/?tag=redken-21) a 61.48 EUR (original: 89 EUR) (30.92 %  de descuento) en el siguiente enlace!
+Está [Fellowes Lunar+ - Plastificadora hasta 125 micras  A3  color azul](https://www.amazon.es/dp/B06WVHWN2T/?tag=redken-21) con 30.92 de descuento por 61.48 EUR (original: 89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31z99nGossL._SL200_.jpg)](https://www.amazon.es/dp/B06WVHWN2T/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06WVHWN2T/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06WVHWN2T/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

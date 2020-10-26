@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 64.52 % en Etymotic Research ER20HD Safety High-Def'
-date: 2020-10-24 07:53:50
+date: 2020-10-26 02:53:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41q9OmHmDdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41q9OmHmDdL._SL200_.jpg' ]
 comments: true
