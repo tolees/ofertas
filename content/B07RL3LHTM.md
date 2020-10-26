@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6 al 53.82 % de descuento'
+date: 2020-10-26 07:05:36
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Doh-uWGSL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Doh-uWGSL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07RL3LHTM
+description:
+actualPrice: 369.0 EUR
+comparePrice: 799.0 EUR
+inStock: true
+---
+
+Ahora mismo tienes [OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6”  8GB/256GB  Snapdragon 8150  4065mAh  Carga rápida VOOC 3.0  Dual SIM Android 9  Verde](https://www.amazon.es/dp/B07RL3LHTM/?tag=redken-21) a 369.0 EUR (original: 799.0 EUR) (53.82 %  de descuento) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/41Doh-uWGSL._SL200_.jpg)](https://www.amazon.es/dp/B07RL3LHTM/?tag=redken-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07RL3LHTM/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
