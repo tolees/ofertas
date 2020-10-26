@@ -14,11 +14,11 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Osram 816978 Bombilla LED GU10  5 W  Blanco  Lote de 6  5 Unidades](https://www.amazon.es/dp/B073QTB3JT/?tag=redken-21) con 74.31 de descuento por 15.41 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Osram 816978 Bombilla LED GU10  5 W  Blanco  Lote de 6  5 Unidades](https://www.amazon.es/dp/B073QTB3JT/?tag=redken-21) a 15.41 EUR (original: 59.99 EUR) (74.31 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BZnkwJYZL._SL200_.jpg)](https://www.amazon.es/dp/B073QTB3JT/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073QTB3JT/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B073QTB3JT/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

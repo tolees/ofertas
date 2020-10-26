@@ -14,11 +14,11 @@ comparePrice: 44.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Casals C01241000 Atornillador a batería de litio y maletín completo  4.7 W  3.6 V  Negro  Verde  Rojo](https://www.amazon.es/dp/B00TCH66KA/?tag=redken-21) a 24.99 EUR (original: 44.95 EUR) (44.40 %  de descuento) en el siguiente enlace!
+Está [Casals C01241000 Atornillador a batería de litio y maletín completo  4.7 W  3.6 V  Negro  Verde  Rojo](https://www.amazon.es/dp/B00TCH66KA/?tag=redken-21) con 44.40 de descuento por 24.99 EUR (original: 44.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51I7zg1vhXL._SL200_.jpg)](https://www.amazon.es/dp/B00TCH66KA/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00TCH66KA/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00TCH66KA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
