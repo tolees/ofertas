@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE Cajas de Herramientas de Alumin al 27.94 % de descuento'
-date: 2020-10-25 09:22:51
+date: 2020-10-26 15:49:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-m4sKN0aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-m4sKN0aL._SL200_.jpg' ]
 comments: true

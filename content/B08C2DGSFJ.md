@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.02 % en Agenda 2021 - Planificador semanal y men'
-date: 2020-10-23 10:42:50
+date: 2020-10-26 15:15:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/6108VaoYD6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/6108VaoYD6L._SL200_.jpg' ]
 comments: true
