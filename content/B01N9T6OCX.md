@@ -14,11 +14,11 @@ comparePrice: 26.34 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [hummel Niños Runner Short Sleeve tee - Camiseta  Otoño-Invierno  Infantil  Color Weiß  tamaño 116-128](https://www.amazon.es/dp/B01N9T6OCX/?tag=redken-21) a 16.64 EUR (original: 26.34 EUR) (36.83 %  de descuento) en el siguiente enlace!
+Está [hummel Niños Runner Short Sleeve tee - Camiseta  Otoño-Invierno  Infantil  Color Weiß  tamaño 116-128](https://www.amazon.es/dp/B01N9T6OCX/?tag=redken-21) con 36.83 de descuento por 16.64 EUR (original: 26.34 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31hS4aj9iGL._SL200_.jpg)](https://www.amazon.es/dp/B01N9T6OCX/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01N9T6OCX/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N9T6OCX/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

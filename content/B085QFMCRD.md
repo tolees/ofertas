@@ -14,11 +14,11 @@ comparePrice: 199.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HUAWEI P40 Lite E - Smartphone con pantalla FullView de 6 39"  Kirin 710  4 GB + 64GB  Triple Cámara IA de 48MP  Batería de 4000 mAh   Color Azul](https://www.amazon.es/dp/B085QFMCRD/?tag=redken-21) a 121.26 EUR (original: 199.0 EUR) (39.07 %  de descuento) en el siguiente enlace!
+Está [HUAWEI P40 Lite E - Smartphone con pantalla FullView de 6 39"  Kirin 710  4 GB + 64GB  Triple Cámara IA de 48MP  Batería de 4000 mAh   Color Azul](https://www.amazon.es/dp/B085QFMCRD/?tag=redken-21) con 39.07 de descuento por 121.26 EUR (original: 199.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dhXAAw03L._SL200_.jpg)](https://www.amazon.es/dp/B085QFMCRD/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B085QFMCRD/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B085QFMCRD/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
