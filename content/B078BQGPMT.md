@@ -14,11 +14,11 @@ comparePrice: 15.92 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Henkel Perfect Home - Masilla de madera y parquet color gris - Masilla acrílica para todos los soportes de madera y albañilería  juntas para interior y exterior  280 ml](https://www.amazon.es/dp/B078BQGPMT/?tag=redken-21) a 11.3 EUR (original: 15.92 EUR) (29.02 %  de descuento) en el siguiente enlace!
+Está [Henkel Perfect Home - Masilla de madera y parquet color gris - Masilla acrílica para todos los soportes de madera y albañilería  juntas para interior y exterior  280 ml](https://www.amazon.es/dp/B078BQGPMT/?tag=redken-21) con 29.02 de descuento por 11.3 EUR (original: 15.92 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bme1tOuiL._SL200_.jpg)](https://www.amazon.es/dp/B078BQGPMT/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078BQGPMT/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078BQGPMT/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
