@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus Professional 3 Plus 973953 Profes al 34.12 % de descuento'
-date: 2020-10-25 15:10:23
+date: 2020-10-26 19:15:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uKeFE4eJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uKeFE4eJL._SL200_.jpg' ]
 comments: true

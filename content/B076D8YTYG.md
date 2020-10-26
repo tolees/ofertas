@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Zubita Rascadores para Gatos  Árbol para al 46.82 % de descuento'
+date: 2020-10-26 19:54:24
+thumbnailImage: 'https://m.media-amazon.com/images/I/41MhF5jWzQL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41MhF5jWzQL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B076D8YTYG
+description:
+actualPrice: 7.44 EUR
+comparePrice: 13.99 EUR
+inStock: true
+---
+
+Está [Zubita Rascadores para Gatos  Árbol para Gatos Arañazo Gatos Juguetes de Sisal Natural  Cat Toy Centro de Actividad para Gatitos  Color Beige  28 * 28 * 29 CM](https://www.amazon.es/dp/B076D8YTYG/?tag=redken-21) con 46.82 de descuento por 7.44 EUR (original: 13.99 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/41MhF5jWzQL._SL200_.jpg)](https://www.amazon.es/dp/B076D8YTYG/?tag=redken-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B076D8YTYG/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

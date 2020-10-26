@@ -14,11 +14,11 @@ comparePrice: 22.77 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [P Prettyia Lámpara Lupa de Sobremesa Ampliación 2X con 2 Luces LED](https://www.amazon.es/dp/B07KYKV6B5/?tag=redken-21) a 12.65 EUR (original: 22.77 EUR) (44.44 %  de descuento) en el siguiente enlace!
+Está [P Prettyia Lámpara Lupa de Sobremesa Ampliación 2X con 2 Luces LED](https://www.amazon.es/dp/B07KYKV6B5/?tag=redken-21) con 44.44 de descuento por 12.65 EUR (original: 22.77 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31I1vKbuOTL._SL200_.jpg)](https://www.amazon.es/dp/B07KYKV6B5/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KYKV6B5/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KYKV6B5/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

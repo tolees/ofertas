@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kasa Smart Light Switch by TP-Link  Sing al 30.02 % de descuento'
-date: 2020-10-25 17:23:55
+date: 2020-10-26 19:01:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XlyY4EvQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XlyY4EvQL._SL200_.jpg' ]
 comments: true
