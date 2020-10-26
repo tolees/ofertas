@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kodak - Impresora fotográfica mini 2 HD  al 29.99 % de descuento'
-date: 2020-10-24 19:08:31
+date: 2020-10-26 13:53:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-0VEprBnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-0VEprBnL._SL200_.jpg' ]
 comments: true
