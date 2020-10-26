@@ -14,11 +14,11 @@ comparePrice: 44.17 EUR
 inStock: true
 ---
 
-Está [Filliers 28 Dry Gin Copa - 500 ml](https://www.amazon.es/dp/B00KQGAP6C/?tag=redken-21) con 55.88 de descuento por 19.49 EUR (original: 44.17 EUR) en el siguiente enlace!
+Ahora mismo tienes [Filliers 28 Dry Gin Copa - 500 ml](https://www.amazon.es/dp/B00KQGAP6C/?tag=redken-21) a 19.49 EUR (original: 44.17 EUR) (55.88 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516y9G1eKnL._SL200_.jpg)](https://www.amazon.es/dp/B00KQGAP6C/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00KQGAP6C/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00KQGAP6C/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
