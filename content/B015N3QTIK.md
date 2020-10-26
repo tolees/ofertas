@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Parker Sonnet - Bolígrafo  lacado en neg al 47.94 % de descuento'
-date: 2020-01-04 20:17:16
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cMTZQNDVL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cMTZQNDVL._SL200_.jpg' ]
+title: 'Descuento del 64.53 % en Parker Sonnet Ballpoint Pen | Black Lacq'
+date: 2020-10-26 06:46:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/31cMTZQNDVL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31cMTZQNDVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B015N3QTIK
 description:
-actualPrice: 49.87 EUR
-comparePrice: 95.8 EUR
+actualPrice: 32.99 GBP
+comparePrice: 93.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Parker Sonnet - Bolígrafo  lacado en negro  con adorno dorado y punta media  en estuche ](https://www.amazon.es/dp/B015N3QTIK/?tag=redken-21) a 49.87 EUR (original: 95.8 EUR) (47.94 %  de descuento) en el siguiente enlace!
+Tienes [Parker Sonnet Ballpoint Pen | Black Lacquer with Gold Trim | Medium Point Black Ink | Gift Box](https://www.amazon.co.uk/dp/B015N3QTIK/?tag=redken01-21) con un 64.53 % de descuento con precio de oferta de 32.99 GBP (original: 93.0 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31cMTZQNDVL._SL200_.jpg)](https://www.amazon.es/dp/B015N3QTIK/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/31cMTZQNDVL._SL200_.jpg)](https://www.amazon.co.uk/dp/B015N3QTIK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015N3QTIK/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B015N3QTIK/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
