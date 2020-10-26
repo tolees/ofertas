@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Clarks Un Balsa Go  Mocasines para Mujer al 30.80 % de descuento'
-date: 2020-10-22 18:51:53
+title: 'Clarks Un Balsa Go  Mocasines para Mujer al 33.25 % de descuento'
+date: 2020-10-26 00:58:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/3101oZRDKmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3101oZRDKmL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TJK3WSQ
 description:
-actualPrice: 14.83 EUR
-comparePrice: 21.43 EUR
+actualPrice: 13.85 EUR
+comparePrice: 20.75 EUR
 inStock: true
 ---
 
-Está [Clarks Un Balsa Go  Mocasines para Mujer  Rosa  Dusty Pink Suede Dusty Pink Suede   39 EU](https://www.amazon.es/dp/B07TJK3WSQ/?tag=redken-21) con 30.80 de descuento por 14.83 EUR (original: 21.43 EUR) en el siguiente enlace!
+Está [Clarks Un Balsa Go  Mocasines para Mujer  Rosa  Dusty Pink Suede Dusty Pink Suede   39 EU](https://www.amazon.es/dp/B07TJK3WSQ/?tag=redken-21) con 33.25 de descuento por 13.85 EUR (original: 20.75 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/3101oZRDKmL._SL200_.jpg)](https://www.amazon.es/dp/B07TJK3WSQ/?tag=redken-21)
 
