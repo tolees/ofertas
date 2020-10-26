@@ -14,11 +14,11 @@ comparePrice: 25.22 EUR
 inStock: true
 ---
 
-Está [Royal Canin Comida ligera para perros adultos  1 unidad  195 g](https://www.amazon.es/dp/B00BCDYB7M/?tag=redken-21) con 79.70 de descuento por 5.12 EUR (original: 25.22 EUR) en el siguiente enlace!
+Ahora mismo tienes [Royal Canin Comida ligera para perros adultos  1 unidad  195 g](https://www.amazon.es/dp/B00BCDYB7M/?tag=redken-21) a 5.12 EUR (original: 25.22 EUR) (79.70 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51na-W60E6L._SL200_.jpg)](https://www.amazon.es/dp/B00BCDYB7M/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00BCDYB7M/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00BCDYB7M/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

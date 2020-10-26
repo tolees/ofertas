@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas Originals Samba Leather  Zapatill al 49.32 % de descuento'
-date: 2020-10-12 13:45:50
+title: 'adidas Samba - Scarpe da Ginnastica Bass al 40.39 % de descuento'
+date: 2020-10-26 08:32:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/415xhdqolcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415xhdqolcL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B003QYYJAO
 description:
-actualPrice: 35.45 EUR
+actualPrice: 41.7 EUR
 comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Está [adidas Originals Samba Leather  Zapatillas de Fútbol para Hombre  Negro Black Running White  38 EU](https://www.amazon.es/dp/B003QYYJAO/?tag=redken-21) con 49.32 de descuento por 35.45 EUR (original: 69.95 EUR) en el siguiente enlace!
+Está [adidas Samba - Scarpe da Ginnastica Basse Unisex – Adulto  Nero  Black/ Running White   38](https://www.amazon.it/dp/B003QYYJAO/?tag=redken03-21) con 40.39 de descuento por 41.7 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/415xhdqolcL._SL200_.jpg)](https://www.amazon.es/dp/B003QYYJAO/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/415xhdqolcL._SL200_.jpg)](https://www.amazon.it/dp/B003QYYJAO/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B003QYYJAO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B003QYYJAO/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
