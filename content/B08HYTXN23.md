@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOYUE 24 Calendario de Adviento  Calenda al 31.53 % de descuento'
-date: 2020-10-23 22:27:29
+date: 2020-10-26 17:34:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/617EqcNCr+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/617EqcNCr+L._SL200_.jpg' ]
 comments: true

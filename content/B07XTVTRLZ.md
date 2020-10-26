@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ring Fit Adventure pour Nintendo Switch al 29.03 % de descuento'
-date: 2020-10-25 10:48:35
+date: 2020-10-26 17:05:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51J7xUJ9avL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51J7xUJ9avL._SL200_.jpg' ]
 comments: true
