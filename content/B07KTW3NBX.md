@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO NINJAGO 70672 - Coles Offroad-Bike  al 33.35 % de descuento'
-date: 2020-10-06 08:25:05
+title: 'Descuento del 33.30 % en LEGO 70672 NINJAGO Cole’s Dirt Bike Ninj'
+date: 2020-10-26 20:44:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Wcdm-aCbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Wcdm-aCbL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07KTW3NBX
 description:
-actualPrice: 12.99 EUR
-comparePrice: 19.49 EUR
+actualPrice: 12.0 GBP
+comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO NINJAGO 70672 - Coles Offroad-Bike und 3 Minifiguren](https://www.amazon.de/dp/B07KTW3NBX/?tag=redken02-21) a 12.99 EUR (original: 19.49 EUR) (33.35 %  de descuento) en el siguiente enlace!
+Tienes [LEGO 70672 NINJAGO Cole’s Dirt Bike Ninja Motorbike with Caterpillar Tracks and 3 Minifigures  Adventure Toy for Kids](https://www.amazon.co.uk/dp/B07KTW3NBX/?tag=redken01-21) con un 33.30 % de descuento con precio de oferta de 12.0 GBP (original: 17.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Wcdm-aCbL._SL200_.jpg)](https://www.amazon.de/dp/B07KTW3NBX/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51Wcdm-aCbL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTW3NBX/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07KTW3NBX/?tag=redken02-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07KTW3NBX/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
