@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings Serie 4  4x8 Can Danger Gang  al 46.80 % de descuento'
-date: 2020-10-25 03:44:19
+date: 2020-10-26 16:31:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UgLCg69kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UgLCg69kL._SL200_.jpg' ]
 comments: true

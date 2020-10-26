@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tristar FR-6990 Crispy - Freidora sin ac al 48.17 % de descuento'
-date: 2020-10-24 17:40:16
+date: 2020-10-26 16:37:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C88p3xEKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C88p3xEKL._SL200_.jpg' ]
 comments: true

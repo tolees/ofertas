@@ -14,11 +14,11 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Corsair HS50 Stereo - Auriculares gaming con micrófono desmontable  para PC/PS4/Xbox/Switch/móvil   Azul](https://www.amazon.es/dp/B076P7JJSL/?tag=redken-21) a 44.99 EUR (original: 64.99 EUR) (30.77 %  de descuento) en el siguiente enlace!
+Está [Corsair HS50 Stereo - Auriculares gaming con micrófono desmontable  para PC/PS4/Xbox/Switch/móvil   Azul](https://www.amazon.es/dp/B076P7JJSL/?tag=redken-21) con 30.77 de descuento por 44.99 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jekEX-PtL._SL200_.jpg)](https://www.amazon.es/dp/B076P7JJSL/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B076P7JJSL/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B076P7JJSL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

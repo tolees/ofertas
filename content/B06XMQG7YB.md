@@ -14,11 +14,11 @@ comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Yale B-YS3-3535N Anti-Snap 3 Star Euro Double Cylinder  High Security  35:35  70mm   Nickel Finish](https://www.amazon.co.uk/dp/B06XMQG7YB/?tag=redken01-21) a 19.99 GBP (original: 39.99 GBP) (50.01 %  de descuento) en el siguiente enlace!
+Está [Yale B-YS3-3535N Anti-Snap 3 Star Euro Double Cylinder  High Security  35:35  70mm   Nickel Finish](https://www.amazon.co.uk/dp/B06XMQG7YB/?tag=redken01-21) con 50.01 de descuento por 19.99 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/413KouA49oL._SL200_.jpg)](https://www.amazon.co.uk/dp/B06XMQG7YB/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B06XMQG7YB/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06XMQG7YB/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

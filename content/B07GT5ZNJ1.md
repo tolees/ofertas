@@ -14,11 +14,11 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Berg Outdoor Estrela Hooded Sweatshirt  Hombre  Grey Melange  L](https://www.amazon.es/dp/B07GT5ZNJ1/?tag=redken-21) a 12.77 EUR (original: 49.95 EUR) (74.43 %  de descuento) en el siguiente enlace!
+Está [Berg Outdoor Estrela Hooded Sweatshirt  Hombre  Grey Melange  L](https://www.amazon.es/dp/B07GT5ZNJ1/?tag=redken-21) con 74.43 de descuento por 12.77 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417389wz8FL._SL200_.jpg)](https://www.amazon.es/dp/B07GT5ZNJ1/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07GT5ZNJ1/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07GT5ZNJ1/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
