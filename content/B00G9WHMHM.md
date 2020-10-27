@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler G4 DTIG4/128 GB -  al 44.93 % de descuento'
-date: 2020-10-22 21:13:21
+date: 2020-10-27 17:17:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XuIG7963L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XuIG7963L._SL200_.jpg' ]
 comments: true
