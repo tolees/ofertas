@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.48 % en realme 6I – Smartphone de 6.5”  4 GB RAM'
+title: 'realme 6I – Smartphone de 6.5”  4 GB RAM al 26.48 % de descuento'
 date: 2020-10-26 06:35:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xveEwEaSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xveEwEaSL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 160.93 EUR
 inStock: true
 ---
 
-Tienes [realme 6I – Smartphone de 6.5”  4 GB RAM + 128 GB de ROM  Procesador Helios G80  Cuádruple Cámara AI 48MP  Dual Sim - Color Green Tea [Versión Española  compatible con Portugal]](https://www.amazon.es/dp/B085FJXBM9/?tag=redken-21) con un 26.48 % de descuento con precio de oferta de 118.32 EUR (original: 160.93 EUR) en el siguiente enlace!
+Está [realme 6I – Smartphone de 6.5”  4 GB RAM + 128 GB de ROM  Procesador Helios G80  Cuádruple Cámara AI 48MP  Dual Sim - Color Green Tea [Versión Española  compatible con Portugal]](https://www.amazon.es/dp/B085FJXBM9/?tag=redken-21) con 26.48 de descuento por 118.32 EUR (original: 160.93 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41xveEwEaSL._SL200_.jpg)](https://www.amazon.es/dp/B085FJXBM9/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B085FJXBM9/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B085FJXBM9/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

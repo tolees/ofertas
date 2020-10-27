@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin 735XT Forerunner Reloj multisport al 43.35 % de descuento'
-date: 2020-10-26 12:31:50
+date: 2020-10-27 18:03:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/411pOYQBE0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411pOYQBE0L._SL200_.jpg' ]
 comments: true

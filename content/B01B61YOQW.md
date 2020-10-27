@@ -14,11 +14,11 @@ comparePrice: 590 EUR
 inStock: true
 ---
 
-Está [FLEX Colchón muelles continuos Habana  90 x 200 cm](https://www.amazon.es/dp/B01B61YOQW/?tag=redken-21) con 53.41 de descuento por 274.87 EUR (original: 590 EUR) en el siguiente enlace!
+Ahora mismo tienes [FLEX Colchón muelles continuos Habana  90 x 200 cm](https://www.amazon.es/dp/B01B61YOQW/?tag=redken-21) a 274.87 EUR (original: 590 EUR) (53.41 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31fuYSnHEWL._SL200_.jpg)](https://www.amazon.es/dp/B01B61YOQW/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01B61YOQW/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01B61YOQW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

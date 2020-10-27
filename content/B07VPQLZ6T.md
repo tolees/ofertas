@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lijadora Eléctrica  TECCPO Professional  al 80.01 % de descuento'
-date: 2020-10-26 15:14:02
+date: 2020-10-27 18:34:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pykPwsKhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pykPwsKhL._SL200_.jpg' ]
 comments: true
