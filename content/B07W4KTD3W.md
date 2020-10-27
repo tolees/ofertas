@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LEGO Architecture 21051 Tokio Skyline-Ko al 31.62 % de descuento'
-date: 2020-10-26 10:45:00
-thumbnailImage: 'https://m.media-amazon.com/images/I/51MEnbWXo+L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51MEnbWXo+L._SL200_.jpg' ]
+date: 2020-10-27 10:47:49
+thumbnailImage: 'https://m.media-amazon.com/images/I/41qhecDTHFL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41qhecDTHFL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [LEGO Architecture 21051 Tokio Skyline-Kollektion](https://www.amazon.de/dp/B07W4KTD3W/?tag=redken02-21) con 31.62 de descuento por 39.99 EUR (original: 58.48 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51MEnbWXo+L._SL200_.jpg)](https://www.amazon.de/dp/B07W4KTD3W/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/41qhecDTHFL._SL200_.jpg)](https://www.amazon.de/dp/B07W4KTD3W/?tag=redken02-21)
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07W4KTD3W/?tag=redken02-21)
 

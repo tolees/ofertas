@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.76 % en Samsung TU8079 138 cm  55 Zoll  LED Fern'
-date: 2020-10-21 03:15:50
+date: 2020-10-27 10:54:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z3QHN1orL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z3QHN1orL._SL200_.jpg' ]
 comments: true
