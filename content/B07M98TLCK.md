@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Blink XT2 | Outdoor/Indoor Smart Securit al 25.00 % de descuento'
-date: 2020-09-29 00:13:07
+title: 'Descuento del 25.00 % en Blink XT2  2. Gen  | Cámara de seguridad'
+date: 2020-10-27 13:26:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hY580jpcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hY580jpcL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,17 @@ category: ofertas
 author: ring
 slug: B07M98TLCK
 description:
-actualPrice: 74.99 GBP
-comparePrice: 99.99 GBP
+actualPrice: 89.99 EUR
+comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Está [Blink XT2 | Outdoor/Indoor Smart Security Camera with Cloud Storage  2-Way Audio  2-Year Battery Life | 1-Camera System](https://www.amazon.co.uk/dp/B07M98TLCK/?tag=redken01-21) con 25.00 de descuento por 74.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Tienes [Blink XT2  2. Gen  | Cámara de seguridad inteligente  exteriores e interiores  almacenamiento en el Cloud  audio bidireccional  2 años de autonomía | 1 cámara](https://www.amazon.es/dp/B07M98TLCK/?tag=redken-21) con un 25.00 % de descuento con precio de oferta de 89.99 EUR (original: 119.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31hY580jpcL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07M98TLCK/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/31hY580jpcL._SL200_.jpg)](https://www.amazon.es/dp/B07M98TLCK/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07M98TLCK/?tag=redken01-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07M98TLCK/?tag=redken-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

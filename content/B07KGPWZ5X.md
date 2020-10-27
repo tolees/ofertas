@@ -14,11 +14,11 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen Kos Polo  Hombre  Navy  M](https://www.amazon.es/dp/B07KGPWZ5X/?tag=redken-21) a 34.99 EUR (original: 65 EUR) (46.17 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen Kos Polo  Hombre  Navy  M](https://www.amazon.es/dp/B07KGPWZ5X/?tag=redken-21) con 46.17 de descuento por 34.99 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Nkp4SJOAL._SL200_.jpg)](https://www.amazon.es/dp/B07KGPWZ5X/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KGPWZ5X/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KGPWZ5X/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
