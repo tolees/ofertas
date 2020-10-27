@@ -14,11 +14,11 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox Jr Ciak Girl J  Zapatillas para Niñas  Avio/Silver C4138  34 EU](https://www.amazon.es/dp/B07DK3QNGJ/?tag=redken-21) a 31.5 EUR (original: 45 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [Geox Jr Ciak Girl J  Zapatillas para Niñas  Avio/Silver C4138  34 EU](https://www.amazon.es/dp/B07DK3QNGJ/?tag=redken-21) con 30.00 de descuento por 31.5 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Xb20vbvtL._SL200_.jpg)](https://www.amazon.es/dp/B07DK3QNGJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DK3QNGJ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DK3QNGJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
