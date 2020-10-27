@@ -14,11 +14,11 @@ comparePrice: 5.49 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Buttercup Original Cough Syrup  200ml](https://www.amazon.co.uk/dp/B001E1CVPG/?tag=redken01-21) a 2.98 GBP (original: 5.49 GBP) (45.72 %  de descuento) en el siguiente enlace!
+Está [Buttercup Original Cough Syrup  200ml](https://www.amazon.co.uk/dp/B001E1CVPG/?tag=redken01-21) con 45.72 de descuento por 2.98 GBP (original: 5.49 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41h4Y7exx3L._SL200_.jpg)](https://www.amazon.co.uk/dp/B001E1CVPG/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B001E1CVPG/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B001E1CVPG/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
