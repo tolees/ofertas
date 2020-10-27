@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD Blue 3D NAND Internal SSD 2.5 Inch SA al 27.93 % de descuento'
-date: 2020-10-26 04:17:42
+date: 2020-10-27 04:31:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L99Y-L4bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L99Y-L4bL._SL200_.jpg' ]
 comments: true

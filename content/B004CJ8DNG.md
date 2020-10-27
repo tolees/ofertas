@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Case Logic QHDC-101 - Funda para discos  al 37.72 % de descuento'
-date: 2020-10-23 22:06:00
+date: 2020-10-27 04:51:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/5141J0Tty3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5141J0Tty3L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony PlayStation Classic  Konsole  al 25.04 % de descuento'
-date: 2020-10-24 22:22:06
+date: 2020-10-27 04:50:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O+k0K+akL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O+k0K+akL._SL200_.jpg' ]
 comments: true
