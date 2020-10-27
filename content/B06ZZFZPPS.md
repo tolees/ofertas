@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCSUNBOW 2 5 Pulgadas de 60 GB 120 GB 24 al 28.49 % de descuento'
-date: 2020-10-26 03:30:29
+date: 2020-10-27 03:56:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MAZkuHWKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MAZkuHWKL._SL200_.jpg' ]
 comments: true

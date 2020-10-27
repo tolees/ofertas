@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soporte de TV Perlegear - Soporte de TV  al 25.01 % de descuento'
-date: 2020-10-26 03:40:06
+date: 2020-10-27 03:59:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/411RIb0dztL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411RIb0dztL._SL200_.jpg' ]
 comments: true

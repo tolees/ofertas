@@ -14,11 +14,11 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 247v2  Zapatillas para Mujer  Negro  Black/Himalayan Pink Coral   36.5 EU](https://www.amazon.es/dp/B077XQJZ1S/?tag=redken-21) a 36.6 EUR (original: 95 EUR) (61.47 %  de descuento) en el siguiente enlace!
+Está [New Balance 247v2  Zapatillas para Mujer  Negro  Black/Himalayan Pink Coral   36.5 EU](https://www.amazon.es/dp/B077XQJZ1S/?tag=redken-21) con 61.47 de descuento por 36.6 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Iu--8Vz-L._SL200_.jpg)](https://www.amazon.es/dp/B077XQJZ1S/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077XQJZ1S/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077XQJZ1S/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
