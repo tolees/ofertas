@@ -14,11 +14,11 @@ comparePrice: 53.55 EUR
 inStock: true
 ---
 
-Está [Bausch & Lomb - PureVision 2 Esféricas - Lentes de Contacto](https://www.amazon.es/dp/B007UIT4UW/?tag=redken-21) con 73.73 de descuento por 14.07 EUR (original: 53.55 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bausch & Lomb - PureVision 2 Esféricas - Lentes de Contacto](https://www.amazon.es/dp/B007UIT4UW/?tag=redken-21) a 14.07 EUR (original: 53.55 EUR) (73.73 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Urk8AdeaL._SL200_.jpg)](https://www.amazon.es/dp/B007UIT4UW/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B007UIT4UW/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B007UIT4UW/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
