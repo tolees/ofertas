@@ -14,11 +14,11 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Está [Hackett London Dots and Crosses Print Camisa  Azul  M para Hombre](https://www.amazon.es/dp/B079QCQJSN/?tag=redken-21) con 46.67 de descuento por 69.33 EUR (original: 130 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hackett London Dots and Crosses Print Camisa  Azul  M para Hombre](https://www.amazon.es/dp/B079QCQJSN/?tag=redken-21) a 69.33 EUR (original: 130 EUR) (46.67 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fLGK8R6JL._SL200_.jpg)](https://www.amazon.es/dp/B079QCQJSN/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B079QCQJSN/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B079QCQJSN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

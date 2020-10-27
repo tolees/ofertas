@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CINMOK 2pcs Cinta Manualidades Decorativ al 27.48 % de descuento'
-date: 2020-10-25 05:12:19
+date: 2020-10-26 23:49:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/5187qgT9Y3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5187qgT9Y3L._SL200_.jpg' ]
 comments: true

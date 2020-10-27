@@ -14,11 +14,11 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Superstar J  Zapatillas de Gimnasia Unisex Niños  Azul Collegiate Royal/Shock Red  36 EU](https://www.amazon.es/dp/B07JZQ89BB/?tag=redken-21) a 26.1 EUR (original: 69.95 EUR) (62.69 %  de descuento) en el siguiente enlace!
+Está [adidas Superstar J  Zapatillas de Gimnasia Unisex Niños  Azul Collegiate Royal/Shock Red  36 EU](https://www.amazon.es/dp/B07JZQ89BB/?tag=redken-21) con 62.69 de descuento por 26.1 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gQ9G6reWL._SL200_.jpg)](https://www.amazon.es/dp/B07JZQ89BB/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JZQ89BB/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JZQ89BB/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

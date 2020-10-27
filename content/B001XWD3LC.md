@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Behringer EuroLive B212XL 800-Watt 2-Way al 75.26 % de descuento'
-date: 2020-10-25 22:56:17
+date: 2020-10-26 23:20:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/417OR8fNaLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417OR8fNaLL._SL200_.jpg' ]
 comments: true

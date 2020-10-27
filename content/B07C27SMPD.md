@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'JACK & JONES Jjebasic Knit V-Neck Noos s al 40.02 % de descuento'
-date: 2020-02-27 07:24:12
-thumbnailImage: 'https://m.media-amazon.com/images/I/4113dI1iY0L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/4113dI1iY0L._AC_._SL200_.jpg' ]
+title: 'Jack & Jones Jjebasic Knit V-Neck Noos s al 40.02 % de descuento'
+date: 2020-10-26 23:36:24
+thumbnailImage: 'https://m.media-amazon.com/images/I/314CcJK-8CL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/314CcJK-8CL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,9 +14,9 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jjebasic Knit V-Neck Noos suéter  Azul Navy Blazer  X-Large para Hombre](https://www.amazon.es/dp/B07C27SMPD/?tag=redken-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Azul  Navy Blazer Navy Blazer   X-Large para Hombre](https://www.amazon.es/dp/B07C27SMPD/?tag=redken-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/4113dI1iY0L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07C27SMPD/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/314CcJK-8CL._SL200_.jpg)](https://www.amazon.es/dp/B07C27SMPD/?tag=redken-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C27SMPD/?tag=redken-21)
 

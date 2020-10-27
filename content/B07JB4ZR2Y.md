@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Final Fantasy X|X-2 HD Remaster - Ninten al 37.51 % de descuento'
-date: 2020-10-13 20:30:17
+date: 2020-10-26 23:20:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/5176JYghO9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5176JYghO9L._SL200_.jpg' ]
 comments: true
