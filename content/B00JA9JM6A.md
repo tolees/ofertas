@@ -14,11 +14,11 @@ comparePrice: 16.77 EUR
 inStock: true
 ---
 
-Está [300: L Alba di Un Impero [Italia] [Blu-ray]](https://www.amazon.es/dp/B00JA9JM6A/?tag=redken-21) con 67.08 de descuento por 5.52 EUR (original: 16.77 EUR) en el siguiente enlace!
+Ahora mismo tienes [300: L Alba di Un Impero [Italia] [Blu-ray]](https://www.amazon.es/dp/B00JA9JM6A/?tag=redken-21) a 5.52 EUR (original: 16.77 EUR) (67.08 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51jr1uShhwL._SL200_.jpg)](https://www.amazon.es/dp/B00JA9JM6A/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00JA9JM6A/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00JA9JM6A/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

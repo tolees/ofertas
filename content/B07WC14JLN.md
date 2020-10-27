@@ -14,11 +14,11 @@ comparePrice: 38.98 EUR
 inStock: true
 ---
 
-Está [LEGO 71702 NINJAGO Legacy Goldener Mech  mit Lloyd  Wu und General Kozu  Ninja Bauset](https://www.amazon.de/dp/B07WC14JLN/?tag=redken02-21) con 35.89 de descuento por 24.99 EUR (original: 38.98 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 71702 NINJAGO Legacy Goldener Mech  mit Lloyd  Wu und General Kozu  Ninja Bauset](https://www.amazon.de/dp/B07WC14JLN/?tag=redken02-21) a 24.99 EUR (original: 38.98 EUR) (35.89 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NMp1esqsL._SL200_.jpg)](https://www.amazon.de/dp/B07WC14JLN/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07WC14JLN/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07WC14JLN/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
