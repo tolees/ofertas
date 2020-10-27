@@ -14,11 +14,11 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Timberland Newport Bay Leather 2 Strap  Zapatillas Unisex Niños  Gris  Simply Taupe   25 EU](https://www.amazon.es/dp/B07JB4L4TF/?tag=redken-21) a 30 EUR (original: 60 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Timberland Newport Bay Leather 2 Strap  Zapatillas Unisex Niños  Gris  Simply Taupe   25 EU](https://www.amazon.es/dp/B07JB4L4TF/?tag=redken-21) con 50.00 de descuento por 30 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YcKq4ioxL._SL200_.jpg)](https://www.amazon.es/dp/B07JB4L4TF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JB4L4TF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JB4L4TF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
