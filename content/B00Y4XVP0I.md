@@ -14,11 +14,11 @@ comparePrice: 95.0 EUR
 inStock: true
 ---
 
-Está [Lacoste PH4012  Polo Para Hombre  Azul  Marine   Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00Y4XVP0I/?tag=redken-21) con 35.27 de descuento por 61.49 EUR (original: 95.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste PH4012  Polo Para Hombre  Azul  Marine   Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00Y4XVP0I/?tag=redken-21) a 61.49 EUR (original: 95.0 EUR) (35.27 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31f6TJ4hUZL._SL200_.jpg)](https://www.amazon.es/dp/B00Y4XVP0I/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00Y4XVP0I/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00Y4XVP0I/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
