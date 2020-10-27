@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk SDCZ50-128G-B35 128 GB Cruzer Bl al 53.06 % de descuento'
-date: 2020-10-26 04:21:06
+title: 'SanDisk SDCZ50-128G-B35 128 GB Cruzer Bl al 52.80 % de descuento'
+date: 2020-10-27 16:34:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jUuuy2VcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jUuuy2VcL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B00RM1EC1S
 description:
 actualPrice: 11.89 GBP
-comparePrice: 25.33 GBP
+comparePrice: 25.19 GBP
 inStock: true
 ---
 
-Está [SanDisk SDCZ50-128G-B35 128 GB Cruzer Blade USB 2.0 Flash Drive - Black   Standard Packaging  ](https://www.amazon.co.uk/dp/B00RM1EC1S/?tag=redken01-21) con 53.06 de descuento por 11.89 GBP (original: 25.33 GBP) en el siguiente enlace!
+Está [SanDisk SDCZ50-128G-B35 128 GB Cruzer Blade USB 2.0 Flash Drive - Black   Standard Packaging  ](https://www.amazon.co.uk/dp/B00RM1EC1S/?tag=redken01-21) con 52.80 de descuento por 11.89 GBP (original: 25.19 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31jUuuy2VcL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00RM1EC1S/?tag=redken01-21)
 

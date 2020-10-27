@@ -14,11 +14,11 @@ comparePrice: 1449 EUR
 inStock: true
 ---
 
-Está [Canon EF 8-15mm f/4L Fisheye USM - Objetivo para Canon  Distancia Focal 8-15mm  Apertura f/4-22  Zoom óptico 1.9X   Negro](https://www.amazon.es/dp/B0040YEFKI/?tag=redken-21) con 32.37 de descuento por 979.97 EUR (original: 1449 EUR) en el siguiente enlace!
+Ahora mismo tienes [Canon EF 8-15mm f/4L Fisheye USM - Objetivo para Canon  Distancia Focal 8-15mm  Apertura f/4-22  Zoom óptico 1.9X   Negro](https://www.amazon.es/dp/B0040YEFKI/?tag=redken-21) a 979.97 EUR (original: 1449 EUR) (32.37 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Cpn9yQFqL._SL200_.jpg)](https://www.amazon.es/dp/B0040YEFKI/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0040YEFKI/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B0040YEFKI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

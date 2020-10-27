@@ -14,11 +14,11 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Triple Canyon Camisa de Manga Corta  Hombre  Azul  Yacht  Carbon Plaid   L](https://www.amazon.es/dp/B07KSFPBC7/?tag=redken-21) a 32.62 EUR (original: 64.99 EUR) (49.81 %  de descuento) en el siguiente enlace!
+Está [Columbia Triple Canyon Camisa de Manga Corta  Hombre  Azul  Yacht  Carbon Plaid   L](https://www.amazon.es/dp/B07KSFPBC7/?tag=redken-21) con 49.81 de descuento por 32.62 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rYpqAPYsL._SL200_.jpg)](https://www.amazon.es/dp/B07KSFPBC7/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KSFPBC7/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KSFPBC7/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
