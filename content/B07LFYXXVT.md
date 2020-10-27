@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.71 % en Geox D Calinda Mid C  Botas Altas para M'
-date: 2020-10-26 03:09:56
+date: 2020-10-27 05:50:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/21P77e9LCgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21P77e9LCgL._SL200_.jpg' ]
 comments: true

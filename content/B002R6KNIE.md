@@ -14,11 +14,11 @@ comparePrice: 5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Babaria Aloe Vera - Desmaquillante para ojos  200 ml](https://www.amazon.es/dp/B002R6KNIE/?tag=redken-21) a 1.59 EUR (original: 5 EUR) (68.20 %  de descuento) en el siguiente enlace!
+Está [Babaria Aloe Vera - Desmaquillante para ojos  200 ml](https://www.amazon.es/dp/B002R6KNIE/?tag=redken-21) con 68.20 de descuento por 1.59 EUR (original: 5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FHfkVMa7L._SL200_.jpg)](https://www.amazon.es/dp/B002R6KNIE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B002R6KNIE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B002R6KNIE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
