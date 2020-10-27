@@ -14,11 +14,11 @@ comparePrice: 25.52 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Knorr Las Rústicas Potaje de Lentejas con Verduras y Panceta - Paquete de 8 x 1 L - Total: 8 L](https://www.amazon.es/dp/B076KKX8JF/?tag=redken-21) a 17.12 EUR (original: 25.52 EUR) (32.92 %  de descuento) en el siguiente enlace!
+Está [Knorr Las Rústicas Potaje de Lentejas con Verduras y Panceta - Paquete de 8 x 1 L - Total: 8 L](https://www.amazon.es/dp/B076KKX8JF/?tag=redken-21) con 32.92 de descuento por 17.12 EUR (original: 25.52 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/5150ROBUm6L._SL200_.jpg)](https://www.amazon.es/dp/B076KKX8JF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B076KKX8JF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B076KKX8JF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

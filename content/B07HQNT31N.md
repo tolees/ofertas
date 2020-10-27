@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unearthing Mars 2 al 41.68 % de descuento'
+title: 'Descuento del 41.68 % en Unearthing Mars 2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513R1RF7O8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513R1RF7O8L._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Unearthing Mars 2](https://www.amazon.es/dp/B07HQNT31N/?tag=redken-21) a 17.49 EUR (original: 29.99 EUR) (41.68 %  de descuento) en el siguiente enlace!
+Tienes [Unearthing Mars 2](https://www.amazon.es/dp/B07HQNT31N/?tag=redken-21) con un 41.68 % de descuento con precio de oferta de 17.49 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513R1RF7O8L._SL200_.jpg)](https://www.amazon.es/dp/B07HQNT31N/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07HQNT31N/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07HQNT31N/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
