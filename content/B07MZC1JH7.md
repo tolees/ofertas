@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Britax Römer Silla de Paseo 6 meses - 3  al 39.97 % de descuento'
-date: 2020-10-26 11:02:40
+date: 2020-10-27 11:14:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41z+YbWlVUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41z+YbWlVUL._SL200_.jpg' ]
 comments: true

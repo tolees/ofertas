@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 31.83 % en LEGO® NINJAGO® Le dragon d or Jeu de con'
-date: 2020-10-26 04:56:00
+title: 'LEGO 70666 NINJAGO - Goldener Drache mit al 33.35 % de descuento'
+date: 2020-10-26 10:55:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eTenhz8rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eTenhz8rL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07FP6QNP8
 description:
-actualPrice: 14.99 EUR
-comparePrice: 21.99 EUR
+actualPrice: 12.99 EUR
+comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Tienes [LEGO® NINJAGO® Le dragon d or Jeu de construction  7 Ans et Plus  171 Pièces 70666](https://www.amazon.fr/dp/B07FP6QNP8/?tag=redken012-21) con un 31.83 % de descuento con precio de oferta de 14.99 EUR (original: 21.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 70666 NINJAGO - Goldener Drache mit Actionfiguren](https://www.amazon.de/dp/B07FP6QNP8/?tag=redken02-21) a 12.99 EUR (original: 19.49 EUR) (33.35 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51eTenhz8rL._SL200_.jpg)](https://www.amazon.fr/dp/B07FP6QNP8/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/51eTenhz8rL._SL200_.jpg)](https://www.amazon.de/dp/B07FP6QNP8/?tag=redken02-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07FP6QNP8/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.de/dp/B07FP6QNP8/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

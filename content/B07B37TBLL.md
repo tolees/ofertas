@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Marqués de Carrión Reserva Vino Tinto D. al 38.46 % de descuento'
-date: 2020-01-02 10:22:23
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JJz9BJAwL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JJz9BJAwL._SL200_.jpg' ]
+title: 'Marqués de Carrión Reserva - Vino Tinto  al 44.58 % de descuento'
+date: 2020-10-27 11:42:37
+thumbnailImage: 'https://m.media-amazon.com/images/I/41fbFgADVxL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41fbFgADVxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07B37TBLL
 description:
-actualPrice: 18 EUR
-comparePrice: 29.25 EUR
+actualPrice: 19.95 EUR
+comparePrice: 36.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Marqués de Carrión Reserva Vino Tinto D.O Rioja  36 Meses de Crianza  Volumen de Alcohol 14% - 3 Botellas x 75 cl - Total : 225 cl](https://www.amazon.es/dp/B07B37TBLL/?tag=redken-21) a 18 EUR (original: 29.25 EUR) (38.46 %  de descuento) en el siguiente enlace!
+Está [Marqués de Carrión Reserva - Vino Tinto D.O Rioja  Pack de 3 Botellas x 750 ml](https://www.amazon.es/dp/B07B37TBLL/?tag=redken-21) con 44.58 de descuento por 19.95 EUR (original: 36.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41JJz9BJAwL._SL200_.jpg)](https://www.amazon.es/dp/B07B37TBLL/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41fbFgADVxL._SL200_.jpg)](https://www.amazon.es/dp/B07B37TBLL/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07B37TBLL/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B37TBLL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
