@@ -14,11 +14,11 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA ftblNXT Adjustable Cap Gorra  Sin género  Black  OSFA](https://www.amazon.es/dp/B07JWVTKFY/?tag=redken-21) a 10.87 EUR (original: 17.95 EUR) (39.44 %  de descuento) en el siguiente enlace!
+Está [PUMA ftblNXT Adjustable Cap Gorra  Sin género  Black  OSFA](https://www.amazon.es/dp/B07JWVTKFY/?tag=redken-21) con 39.44 de descuento por 10.87 EUR (original: 17.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CAnM7qZmL._SL200_.jpg)](https://www.amazon.es/dp/B07JWVTKFY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JWVTKFY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JWVTKFY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
