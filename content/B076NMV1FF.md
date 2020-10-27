@@ -14,11 +14,11 @@ comparePrice: 1399 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lenovo IdeaCentre Y720 Cube 15ISH - Ordenador de sobremesa  Intel Core i7-7700  16 GB de RAM  1 TB HDD + 128 GB de SSD  Nvidia GTX1060-6 GB  Windows Home 10   negro](https://www.amazon.es/dp/B076NMV1FF/?tag=redken-21) a 931.21 EUR (original: 1399 EUR) (33.44 %  de descuento) en el siguiente enlace!
+Está [Lenovo IdeaCentre Y720 Cube 15ISH - Ordenador de sobremesa  Intel Core i7-7700  16 GB de RAM  1 TB HDD + 128 GB de SSD  Nvidia GTX1060-6 GB  Windows Home 10   negro](https://www.amazon.es/dp/B076NMV1FF/?tag=redken-21) con 33.44 de descuento por 931.21 EUR (original: 1399 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51oB%2B8bTLVL._SL200_.jpg)](https://www.amazon.es/dp/B076NMV1FF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B076NMV1FF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B076NMV1FF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

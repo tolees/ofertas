@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Windows 10 Pro  Professional  32 / 64 bi al 53.22 % de descuento'
-date: 2020-10-26 20:53:21
+date: 2020-10-27 20:58:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MjOgGD9EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MjOgGD9EL._SL200_.jpg' ]
 comments: true
