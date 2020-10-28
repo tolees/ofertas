@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.94 % en TP-LINK AC1300 MU-MIMO USB 3.0 Wi-Fi Ada'
-date: 2020-10-27 17:35:04
+date: 2020-10-28 17:42:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31IdziegWVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31IdziegWVL._SL200_.jpg' ]
 comments: true

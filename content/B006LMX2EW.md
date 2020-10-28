@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arcos Universal Cuchillo  Acero Inoxidab al 48.81 % de descuento'
-date: 2020-10-27 07:00:28
+date: 2020-10-28 17:59:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31F7q04fLqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31F7q04fLqL._SL200_.jpg' ]
 comments: true

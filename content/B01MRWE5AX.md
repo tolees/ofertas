@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.02 % en KLIM™ Wind + Base de refrigeración para '
-date: 2020-10-24 13:33:05
+date: 2020-10-28 17:33:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51icmeQgkVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51icmeQgkVL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 25.58 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Alien: Covenant - Blu-Ray  4K  Ultra HD [Blu-ray]](https://www.amazon.es/dp/B073LJYW2R/?tag=redken-21) a 8 EUR (original: 25.58 EUR) (68.73 %  de descuento) en el siguiente enlace!
+Está [Alien: Covenant - Blu-Ray  4K  Ultra HD [Blu-ray]](https://www.amazon.es/dp/B073LJYW2R/?tag=redken-21) con 68.73 de descuento por 8 EUR (original: 25.58 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JeavWdpHL._SL200_.jpg)](https://www.amazon.es/dp/B073LJYW2R/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B073LJYW2R/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073LJYW2R/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

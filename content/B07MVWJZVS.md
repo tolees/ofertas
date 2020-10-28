@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 25.16 % en WD - My Passport Go 500GB - Disque SSD P'
-date: 2020-10-27 11:10:58
-thumbnailImage: 'https://m.media-amazon.com/images/I/41KiCBW9SEL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41KiCBW9SEL._SL200_.jpg' ]
+date: 2020-10-28 17:14:05
+thumbnailImage: 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [WD - My Passport Go 500GB - Disque SSD Portable - Finition Cobalt](https://www.amazon.fr/dp/B07MVWJZVS/?tag=redken012-21) con un 25.16 % de descuento con precio de oferta de 71.84 EUR (original: 95.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41KiCBW9SEL._SL200_.jpg)](https://www.amazon.fr/dp/B07MVWJZVS/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg)](https://www.amazon.fr/dp/B07MVWJZVS/?tag=redken012-21)
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07MVWJZVS/?tag=redken012-21)
 
