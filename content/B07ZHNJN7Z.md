@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.61 % en BaByliss D373E Secador de pelo retráctil'
-date: 2020-10-26 17:53:12
+date: 2020-10-28 04:30:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gUEAk1+8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gUEAk1+8L._SL200_.jpg' ]
 comments: true

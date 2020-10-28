@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony NP-FZ100 Akku  InfoLITHIUM-Akku Z-S al 27.23 % de descuento'
-date: 2020-10-27 04:51:59
+date: 2020-10-28 04:53:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SefXu62GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SefXu62GL._SL200_.jpg' ]
 comments: true

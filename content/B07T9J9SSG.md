@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EACHINE EX3 Drone 2k GPS  Drone Profesio al 28.38 % de descuento'
-date: 2020-10-27 04:06:53
+date: 2020-10-28 04:18:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KQkVippFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KQkVippFL._SL200_.jpg' ]
 comments: true
