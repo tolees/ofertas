@@ -14,11 +14,11 @@ comparePrice: 215 EUR
 inStock: true
 ---
 
-Está [Persol 3170  Gafas de Sol Unisex-Adulto  Havana 901531  55](https://www.amazon.es/dp/B071VFKGMC/?tag=redken-21) con 52.09 de descuento por 103 EUR (original: 215 EUR) en el siguiente enlace!
+Ahora mismo tienes [Persol 3170  Gafas de Sol Unisex-Adulto  Havana 901531  55](https://www.amazon.es/dp/B071VFKGMC/?tag=redken-21) a 103 EUR (original: 215 EUR) (52.09 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31j86F%2BhG5L._SL200_.jpg)](https://www.amazon.es/dp/B071VFKGMC/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071VFKGMC/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B071VFKGMC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

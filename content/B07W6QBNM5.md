@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60258 City Nitro Wheels Tuning Work al 31.99 % de descuento'
-date: 2020-10-27 11:31:10
+title: 'LEGO 60258 Tuning-Werkstatt City Bauset  al 26.14 % de descuento'
+date: 2020-10-27 17:38:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51P4HaxtYIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51P4HaxtYIL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07W6QBNM5
 description:
-actualPrice: 61.2 GBP
-comparePrice: 89.99 GBP
+actualPrice: 71.99 EUR
+comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Está [LEGO 60258 City Nitro Wheels Tuning Workshop Building Set with Tow Truck  Hot Rod  Camping Trailer and Motorbike](https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=redken01-21) con 31.99 de descuento por 61.2 GBP (original: 89.99 GBP) en el siguiente enlace!
+Está [LEGO 60258 Tuning-Werkstatt City Bauset mit Abschleppwagen  Hot Rod  Wohnanhänger und Motorrad](https://www.amazon.de/dp/B07W6QBNM5/?tag=redken02-21) con 26.14 de descuento por 71.99 EUR (original: 97.47 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51P4HaxtYIL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/51P4HaxtYIL._SL200_.jpg)](https://www.amazon.de/dp/B07W6QBNM5/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07W6QBNM5/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

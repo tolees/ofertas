@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech Kabelloser Bluetooth Audio-Empf al 30.01 % de descuento'
-date: 2020-10-27 04:57:12
+date: 2020-10-28 11:02:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LJ0IdgvPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LJ0IdgvPL._SL200_.jpg' ]
 comments: true

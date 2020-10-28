@@ -14,11 +14,11 @@ comparePrice: 145 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox U Mattias B  Botas para Hombre  Marrón  Brown C6000   39 EU](https://www.amazon.es/dp/B00U7BXCOS/?tag=redken-21) a 89 EUR (original: 145 EUR) (38.62 %  de descuento) en el siguiente enlace!
+Está [Geox U Mattias B  Botas para Hombre  Marrón  Brown C6000   39 EU](https://www.amazon.es/dp/B00U7BXCOS/?tag=redken-21) con 38.62 de descuento por 89 EUR (original: 145 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41r43tXoz9L._SL200_.jpg)](https://www.amazon.es/dp/B00U7BXCOS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00U7BXCOS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00U7BXCOS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

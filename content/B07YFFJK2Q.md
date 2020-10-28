@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk SSD PLUS 2TB SATA III 2 5 Zoll I al 36.00 % de descuento'
-date: 2020-10-26 20:35:28
+date: 2020-10-28 11:54:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pNLBOfWhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pNLBOfWhL._SL200_.jpg' ]
 comments: true
