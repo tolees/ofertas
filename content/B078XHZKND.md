@@ -14,11 +14,11 @@ comparePrice: 259 EUR
 inStock: true
 ---
 
-Está [Persol 0PO3199S Gafas de sol  Rectangulares  52  Havana](https://www.amazon.es/dp/B078XHZKND/?tag=redken-21) con 39.72 de descuento por 156.13 EUR (original: 259 EUR) en el siguiente enlace!
+Ahora mismo tienes [Persol 0PO3199S Gafas de sol  Rectangulares  52  Havana](https://www.amazon.es/dp/B078XHZKND/?tag=redken-21) a 156.13 EUR (original: 259 EUR) (39.72 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31y8mNkRjtL._SL200_.jpg)](https://www.amazon.es/dp/B078XHZKND/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078XHZKND/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B078XHZKND/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

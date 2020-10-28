@@ -14,11 +14,11 @@ comparePrice: 13.21 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Los mundos de Coraline [Blu-ray]](https://www.amazon.es/dp/B0053CBQTE/?tag=redken-21) a 6.76 EUR (original: 13.21 EUR) (48.83 %  de descuento) en el siguiente enlace!
+Está [Los mundos de Coraline [Blu-ray]](https://www.amazon.es/dp/B0053CBQTE/?tag=redken-21) con 48.83 de descuento por 6.76 EUR (original: 13.21 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51D2m1PyBBL._SL200_.jpg)](https://www.amazon.es/dp/B0053CBQTE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0053CBQTE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0053CBQTE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
