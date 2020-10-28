@@ -14,11 +14,11 @@ comparePrice: 65.0 GBP
 inStock: true
 ---
 
-Está [Parker IM Fountain Pen | Premium Dark Espresso Chiselled | Medium Nib with Blue Ink Refill | Gift Box](https://www.amazon.co.uk/dp/B01LX2HJBM/?tag=redken01-21) con 58.48 de descuento por 26.99 GBP (original: 65.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Parker IM Fountain Pen | Premium Dark Espresso Chiselled | Medium Nib with Blue Ink Refill | Gift Box](https://www.amazon.co.uk/dp/B01LX2HJBM/?tag=redken01-21) a 26.99 GBP (original: 65.0 GBP) (58.48 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dJFYuOvQL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01LX2HJBM/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01LX2HJBM/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01LX2HJBM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
