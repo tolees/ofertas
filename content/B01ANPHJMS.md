@@ -14,11 +14,11 @@ comparePrice: 22.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tropican Papilla - 2 kg](https://www.amazon.es/dp/B01ANPHJMS/?tag=redken-21) a 16.26 EUR (original: 22.95 EUR) (29.15 %  de descuento) en el siguiente enlace!
+Está [Tropican Papilla - 2 kg](https://www.amazon.es/dp/B01ANPHJMS/?tag=redken-21) con 29.15 de descuento por 16.26 EUR (original: 22.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/510Xn4tTtfL._SL200_.jpg)](https://www.amazon.es/dp/B01ANPHJMS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01ANPHJMS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01ANPHJMS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
