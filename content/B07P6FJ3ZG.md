@@ -14,11 +14,11 @@ comparePrice: 136.46 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PLAYMOBIL City Life 70190 Großes Krankenhaus mit Einrichtung  Ab 4 Jahren](https://www.amazon.de/dp/B07P6FJ3ZG/?tag=redken02-21) a 101.3 EUR (original: 136.46 EUR) (25.77 %  de descuento) en el siguiente enlace!
+Está [PLAYMOBIL City Life 70190 Großes Krankenhaus mit Einrichtung  Ab 4 Jahren](https://www.amazon.de/dp/B07P6FJ3ZG/?tag=redken02-21) con 25.77 de descuento por 101.3 EUR (original: 136.46 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61nTlu5hlSL._SL200_.jpg)](https://www.amazon.de/dp/B07P6FJ3ZG/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07P6FJ3ZG/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07P6FJ3ZG/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

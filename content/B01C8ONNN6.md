@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pikolin Home - Edredón/Relleno nórdico d al 47.19 % de descuento'
-date: 2020-10-26 10:02:57
+date: 2020-10-28 13:48:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31PyrUrIKNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31PyrUrIKNL._SL200_.jpg' ]
 comments: true
