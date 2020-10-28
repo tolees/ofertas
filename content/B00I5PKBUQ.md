@@ -14,11 +14,11 @@ comparePrice: 180.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Borneo - Reloj de cuarzo para hombre  con correa de silicona  color negro](https://www.amazon.es/dp/B00I5PKBUQ/?tag=redken-21) a 111 EUR (original: 180.5 EUR) (38.50 %  de descuento) en el siguiente enlace!
+Está [Lacoste Borneo - Reloj de cuarzo para hombre  con correa de silicona  color negro](https://www.amazon.es/dp/B00I5PKBUQ/?tag=redken-21) con 38.50 de descuento por 111 EUR (original: 180.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416F%2BhcEIqL._SL200_.jpg)](https://www.amazon.es/dp/B00I5PKBUQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00I5PKBUQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00I5PKBUQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
