@@ -14,11 +14,11 @@ comparePrice: 23.56 EUR
 inStock: true
 ---
 
-Está [Nocilla Original - 3kg](https://www.amazon.es/dp/B01ITRYU9W/?tag=redken-21) con 32.94 de descuento por 15.8 EUR (original: 23.56 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nocilla Original - 3kg](https://www.amazon.es/dp/B01ITRYU9W/?tag=redken-21) a 15.8 EUR (original: 23.56 EUR) (32.94 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/510REzKw+rL._SL200_.jpg)](https://www.amazon.es/dp/B01ITRYU9W/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01ITRYU9W/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01ITRYU9W/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
