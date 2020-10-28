@@ -14,11 +14,11 @@ comparePrice: 22.49 EUR
 inStock: true
 ---
 
-Está [Post-It 70005197796 - Pack de 12 blocs Z-Notas encelofanado individual 90 H/bloc color Canary Yellow](https://www.amazon.es/dp/B009KBEMF4/?tag=redken-21) con 41.89 de descuento por 13.07 EUR (original: 22.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [Post-It 70005197796 - Pack de 12 blocs Z-Notas encelofanado individual 90 H/bloc color Canary Yellow](https://www.amazon.es/dp/B009KBEMF4/?tag=redken-21) a 13.07 EUR (original: 22.49 EUR) (41.89 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416Xse-d5tL._SL200_.jpg)](https://www.amazon.es/dp/B009KBEMF4/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B009KBEMF4/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B009KBEMF4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

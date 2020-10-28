@@ -14,11 +14,11 @@ comparePrice: 86.35 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Lexar Professional 2000x 64GB SDXC UHS-II Card](https://www.amazon.co.uk/dp/B00OD71FKU/?tag=redken01-21) a 54.16 GBP (original: 86.35 GBP) (37.28 %  de descuento) en el siguiente enlace!
+Está [Lexar Professional 2000x 64GB SDXC UHS-II Card](https://www.amazon.co.uk/dp/B00OD71FKU/?tag=redken01-21) con 37.28 de descuento por 54.16 GBP (original: 86.35 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516UG3NpQJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00OD71FKU/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00OD71FKU/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00OD71FKU/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

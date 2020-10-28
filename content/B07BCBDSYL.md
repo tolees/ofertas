@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REY Soporte Magnético para Rejilla del C al 75.19 % de descuento'
-date: 2020-10-21 05:08:22
+date: 2020-10-28 18:18:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jbnBXXlcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jbnBXXlcL._SL200_.jpg' ]
 comments: true
