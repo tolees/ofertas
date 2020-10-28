@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEVERIN KA 5978 Cafetera Espresso  Incl. al 30.19 % de descuento'
-date: 2020-10-26 12:33:41
+date: 2020-10-28 10:42:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jvmEpriGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jvmEpriGL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 52.99 EUR
 inStock: true
 ---
 
-Está [SEVERIN KA 5978 Cafetera Espresso  Incl. Jarra para Servir y Cuchara Dosificadora  hasta 4 Tazas  800 W  0.22 litros  Plástico  Negro](https://www.amazon.es/dp/B00U0AEL7I/?tag=redken-21) con 30.19 de descuento por 36.99 EUR (original: 52.99 EUR) en el siguiente enlace!
+Está [SEVERIN KA 5978 Cafetera Espresso  Incl. Jarra para Servir y Cuchara Dosificadora  Hasta 4 Tazas  800 W  Plástico  Negro](https://www.amazon.es/dp/B00U0AEL7I/?tag=redken-21) con 30.19 de descuento por 36.99 EUR (original: 52.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41jvmEpriGL._SL200_.jpg)](https://www.amazon.es/dp/B00U0AEL7I/?tag=redken-21)
 
