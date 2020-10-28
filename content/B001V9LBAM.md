@@ -14,11 +14,11 @@ comparePrice: 4.95 EUR
 inStock: true
 ---
 
-Está [Rimmel London Exaggerate Automatic Liners Waterproof Delineador de Ojos Retráctil  Tono 261 - Negro  0.28 gr](https://www.amazon.es/dp/B001V9LBAM/?tag=redken-21) con 30.30 de descuento por 3.45 EUR (original: 4.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Exaggerate Automatic Liners Waterproof Delineador de Ojos Retráctil  Tono 261 - Negro  0.28 gr](https://www.amazon.es/dp/B001V9LBAM/?tag=redken-21) a 3.45 EUR (original: 4.95 EUR) (30.30 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31s1cxKcmzL._SL200_.jpg)](https://www.amazon.es/dp/B001V9LBAM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B001V9LBAM/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B001V9LBAM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

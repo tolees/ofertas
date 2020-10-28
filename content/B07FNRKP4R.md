@@ -14,11 +14,11 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [2 x Bloc Acuarela para Pinturas Acuarelas - Formato A4  9" x 12"  - 2 x 32 Hojas Blancas 300 gr - Lote de 2 Cuadernos Acuarela de Papel de Acuarela para Artistas y Ocios Creativos](https://www.amazon.es/dp/B07FNRKP4R/?tag=redken-21) a 14.97 EUR (original: 30 EUR) (50.10 %  de descuento) en el siguiente enlace!
+Está [2 x Bloc Acuarela para Pinturas Acuarelas - Formato A4  9" x 12"  - 2 x 32 Hojas Blancas 300 gr - Lote de 2 Cuadernos Acuarela de Papel de Acuarela para Artistas y Ocios Creativos](https://www.amazon.es/dp/B07FNRKP4R/?tag=redken-21) con 50.10 de descuento por 14.97 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TbcQUmP3L._SL200_.jpg)](https://www.amazon.es/dp/B07FNRKP4R/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FNRKP4R/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FNRKP4R/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
