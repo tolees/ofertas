@@ -14,11 +14,11 @@ comparePrice: 17.67 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BIO-OIL 125 ml](https://www.amazon.es/dp/B01IMU5BX0/?tag=redken-21) a 11.95 EUR (original: 17.67 EUR) (32.37 %  de descuento) en el siguiente enlace!
+Está [BIO-OIL 125 ml](https://www.amazon.es/dp/B01IMU5BX0/?tag=redken-21) con 32.37 de descuento por 11.95 EUR (original: 17.67 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51OiWvXeLfL._SL200_.jpg)](https://www.amazon.es/dp/B01IMU5BX0/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01IMU5BX0/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01IMU5BX0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

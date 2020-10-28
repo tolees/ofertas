@@ -14,11 +14,11 @@ comparePrice: 24.95 USD
 inStock: true
 ---
 
-Ahora mismo tienes [The Quiet Man  60th Anniversary Special Edition ](https://www.amazon.com/dp/B009YX8MSG/?tag=redken08-20) a 9.71 USD (original: 24.95 USD) (61.08 %  de descuento) en el siguiente enlace!
+Está [The Quiet Man  60th Anniversary Special Edition ](https://www.amazon.com/dp/B009YX8MSG/?tag=redken08-20) con 61.08 de descuento por 9.71 USD (original: 24.95 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61xw63c00oL._SL200_.jpg)](https://www.amazon.com/dp/B009YX8MSG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B009YX8MSG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B009YX8MSG/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
