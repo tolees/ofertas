@@ -14,11 +14,11 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Osram 045736 Bombilla LED E14  4.5 W  Blanco](https://www.amazon.es/dp/B073QTQRNY/?tag=redken-21) a 5.74 EUR (original: 9.99 EUR) (42.54 %  de descuento) en el siguiente enlace!
+Está [Osram 045736 Bombilla LED E14  4.5 W  Blanco](https://www.amazon.es/dp/B073QTQRNY/?tag=redken-21) con 42.54 de descuento por 5.74 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mFLCLweGL._SL200_.jpg)](https://www.amazon.es/dp/B073QTQRNY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B073QTQRNY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073QTQRNY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

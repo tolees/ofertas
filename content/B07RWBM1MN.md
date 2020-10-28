@@ -14,11 +14,11 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Neutrogena Aceite en Loción Hidratación Profunda  Piel Seca  400 ml](https://www.amazon.es/dp/B07RWBM1MN/?tag=redken-21) a 7.9 EUR (original: 12.99 EUR) (39.18 %  de descuento) en el siguiente enlace!
+Está [Neutrogena Aceite en Loción Hidratación Profunda  Piel Seca  400 ml](https://www.amazon.es/dp/B07RWBM1MN/?tag=redken-21) con 39.18 de descuento por 7.9 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4177d9kf+SL._SL200_.jpg)](https://www.amazon.es/dp/B07RWBM1MN/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07RWBM1MN/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07RWBM1MN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

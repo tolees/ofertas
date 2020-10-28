@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.44 % en Levi s 711 Skinny Vaqueros  Azul  Med In'
-date: 2020-10-26 18:04:57
+date: 2020-10-28 12:12:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41M-x8CNyqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41M-x8CNyqL._SL200_.jpg' ]
 comments: true

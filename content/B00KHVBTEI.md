@@ -14,11 +14,11 @@ comparePrice: 72 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tous Rosa Eau Légère Agua de Colonia - 90 ml](https://www.amazon.es/dp/B00KHVBTEI/?tag=redken-21) a 38.56 EUR (original: 72 EUR) (46.44 %  de descuento) en el siguiente enlace!
+Está [Tous Rosa Eau Légère Agua de Colonia - 90 ml](https://www.amazon.es/dp/B00KHVBTEI/?tag=redken-21) con 46.44 de descuento por 38.56 EUR (original: 72 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zjpMilk6L._SL200_.jpg)](https://www.amazon.es/dp/B00KHVBTEI/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00KHVBTEI/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00KHVBTEI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
