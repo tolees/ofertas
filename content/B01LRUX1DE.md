@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hauck Sleep N Play Go Plus - Cuna de via al 33.81 % de descuento'
-date: 2020-10-26 15:07:28
+date: 2020-10-28 03:17:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MyZFEmAOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MyZFEmAOL._SL200_.jpg' ]
 comments: true

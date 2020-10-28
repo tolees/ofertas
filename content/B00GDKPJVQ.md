@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Men s Daren Slim Jeans  Clean Black  al 56.07 % de descuento'
-date: 2020-10-26 18:57:42
+date: 2020-10-28 03:20:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31HyKzw6CDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31HyKzw6CDL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 14.98 USD
 inStock: true
 ---
 
-Está [Jason Bourne [Blu-ray]](https://www.amazon.com/dp/B01I0HVPA8/?tag=redken08-20) con 66.62 de descuento por 5.0 USD (original: 14.98 USD) en el siguiente enlace!
+Ahora mismo tienes [Jason Bourne [Blu-ray]](https://www.amazon.com/dp/B01I0HVPA8/?tag=redken08-20) a 5.0 USD (original: 14.98 USD) (66.62 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/511U2G-XM+L._SL200_.jpg)](https://www.amazon.com/dp/B01I0HVPA8/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01I0HVPA8/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01I0HVPA8/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
