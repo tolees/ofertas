@@ -14,11 +14,11 @@ comparePrice: 67 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Burberry Brit Rhythm Woman Agua de toilette con vaporizador - 50 ml](https://www.amazon.es/dp/B00HSR0T8G/?tag=redken-21) a 18 EUR (original: 67 EUR) (73.13 %  de descuento) en el siguiente enlace!
+Está [Burberry Brit Rhythm Woman Agua de toilette con vaporizador - 50 ml](https://www.amazon.es/dp/B00HSR0T8G/?tag=redken-21) con 73.13 de descuento por 18 EUR (original: 67 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513DmkNeK3L._SL200_.jpg)](https://www.amazon.es/dp/B00HSR0T8G/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00HSR0T8G/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00HSR0T8G/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
