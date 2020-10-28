@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jurassic World- Mosaurus Dinosaurio de J al 25.01 % de descuento'
-date: 2020-10-26 11:55:21
+date: 2020-10-27 23:46:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41agrzH3YUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41agrzH3YUL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.68 % en Supernatural Season 14 [Blu-ray] [2020] '
-date: 2020-10-26 17:30:48
+date: 2020-10-27 23:36:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oJkuiNi+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oJkuiNi+L._SL200_.jpg' ]
 comments: true
