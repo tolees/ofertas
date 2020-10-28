@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.80 % en SEVERIN HM 3827 Batidora Amasadora  200 '
-date: 2020-10-27 18:52:15
+date: 2020-10-28 22:48:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jSMxT+haL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jSMxT+haL._SL200_.jpg' ]
 comments: true
