@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tefal INGENIO ESSENTIAL Scottish Batteri al 26.32 % de descuento'
-date: 2020-10-24 09:42:01
+date: 2020-10-28 05:20:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41c-NHn3t9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41c-NHn3t9L._SL200_.jpg' ]
 comments: true

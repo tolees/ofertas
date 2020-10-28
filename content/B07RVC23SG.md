@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony WH-XB900N Casque Bluetooth à réduct al 40.00 % de descuento'
-date: 2020-10-26 17:10:09
+title: 'Sony Wh-Xb900N - Cuffie Wireless Over-Ea al 31.30 % de descuento'
+date: 2020-10-27 04:22:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07RVC23SG
 description:
-actualPrice: 149.99 EUR
+actualPrice: 171.76 EUR
 comparePrice: 250.0 EUR
 inStock: true
 ---
 
-Está [Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra Bass avec micro pour appels téléphoniques  Optimisé pour Google Assistant et Amazon Alexa  Noir](https://www.amazon.fr/dp/B07RVC23SG/?tag=redken012-21) con 40.00 de descuento por 149.99 EUR (original: 250.0 EUR) en el siguiente enlace!
+Está [Sony Wh-Xb900N - Cuffie Wireless Over-Ear con Noise Cancellig Ed Extra Bass  Alexa Built-In  Compatibile con Google Assistant E Siri  Batteria Fino a 30 Ore  Bluetooth  Nfc  Nero](https://www.amazon.it/dp/B07RVC23SG/?tag=redken03-21) con 31.30 de descuento por 171.76 EUR (original: 250.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg)](https://www.amazon.fr/dp/B07RVC23SG/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg)](https://www.amazon.it/dp/B07RVC23SG/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07RVC23SG/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07RVC23SG/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
