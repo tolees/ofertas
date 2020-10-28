@@ -14,11 +14,11 @@ comparePrice: 36.75 EUR
 inStock: true
 ---
 
-Está [Superdry Premium Equipment tee Camiseta  Verde  Vintage Washed Carbon PC7   XL para Hombre](https://www.amazon.es/dp/B077XJLDZB/?tag=redken-21) con 45.71 de descuento por 19.95 EUR (original: 36.75 EUR) en el siguiente enlace!
+Ahora mismo tienes [Superdry Premium Equipment tee Camiseta  Verde  Vintage Washed Carbon PC7   XL para Hombre](https://www.amazon.es/dp/B077XJLDZB/?tag=redken-21) a 19.95 EUR (original: 36.75 EUR) (45.71 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tMeoZK9YL._SL200_.jpg)](https://www.amazon.es/dp/B077XJLDZB/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077XJLDZB/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B077XJLDZB/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Bosch Laser Level Quigo green with Tripo al 32.00 % de descuento'
-date: 2020-10-09 00:07:56
-thumbnailImage: 'https://m.media-amazon.com/images/I/51G0B4t8PqL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51G0B4t8PqL._SL200_.jpg' ]
+title: 'Bosch Home and Garden 0603663C01 Bosch L al 30.75 % de descuento'
+date: 2020-10-28 07:26:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Z0gnPUagL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Z0gnPUagL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NXB6PRS
 description:
-actualPrice: 67.99 GBP
-comparePrice: 99.99 GBP
+actualPrice: 67.27 EUR
+comparePrice: 97.14 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch Laser Level Quigo green with Tripod  2 x batteries  green laser diode  working range: 12 metres  in cardboard box ](https://www.amazon.co.uk/dp/B07NXB6PRS/?tag=redken01-21) a 67.99 GBP (original: 99.99 GBP) (32.00 %  de descuento) en el siguiente enlace!
+Está [Bosch Home and Garden 0603663C01 Bosch Láser verde de líneas cruzadas Quigo  2 pilas 12 m  con trípode  en caja  1 5 V   1.5 V](https://www.amazon.es/dp/B07NXB6PRS/?tag=redken-21) con 30.75 de descuento por 67.27 EUR (original: 97.14 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51G0B4t8PqL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07NXB6PRS/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/41Z0gnPUagL._SL200_.jpg)](https://www.amazon.es/dp/B07NXB6PRS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07NXB6PRS/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NXB6PRS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
