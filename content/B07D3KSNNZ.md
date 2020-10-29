@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.77 % en Playxtrem Sweetie - Cuna de colecho  Col'
-date: 2020-10-19 11:29:08
+date: 2020-10-29 19:27:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JvSfqhyxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JvSfqhyxL._SL200_.jpg' ]
 comments: true
