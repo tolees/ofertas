@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barbie Vamos de viaje  muñeca con acceso al 42.04 % de descuento'
-date: 2020-10-28 15:23:50
+date: 2020-10-29 17:28:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41v9fkC0rdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41v9fkC0rdL._SL200_.jpg' ]
 comments: true

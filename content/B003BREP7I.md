@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aussie Miracle Moist Shampoo 300ml al 47.62 % de descuento'
-date: 2020-10-28 11:32:47
+date: 2020-10-29 17:37:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ROrj8U7AL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ROrj8U7AL._SL200_.jpg' ]
 comments: true

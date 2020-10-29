@@ -14,11 +14,11 @@ comparePrice: 43.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lamberts Vitamina C 1000 mg - 180 Tabletas](https://www.amazon.es/dp/B00S9XXZWU/?tag=redken-21) a 23.86 EUR (original: 43.95 EUR) (45.71 %  de descuento) en el siguiente enlace!
+Está [Lamberts Vitamina C 1000 mg - 180 Tabletas](https://www.amazon.es/dp/B00S9XXZWU/?tag=redken-21) con 45.71 de descuento por 23.86 EUR (original: 43.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51iDaTVZB5L._SL200_.jpg)](https://www.amazon.es/dp/B00S9XXZWU/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00S9XXZWU/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00S9XXZWU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

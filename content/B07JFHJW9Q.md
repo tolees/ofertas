@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.33 % en Philips Lumea Advanced IPL Hair Removal '
-date: 2020-10-28 03:20:26
+date: 2020-10-29 17:39:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hwwKd-1GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hwwKd-1GL._SL200_.jpg' ]
 comments: true

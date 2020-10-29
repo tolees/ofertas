@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lintelek Smartwatch de Pantalla táctil P al 25.01 % de descuento'
-date: 2020-10-19 04:09:04
+date: 2020-10-29 17:56:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MjgXOvzbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MjgXOvzbL._SL200_.jpg' ]
 comments: true

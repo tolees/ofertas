@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.01 % en Sedhoom Mandoline Multifonctions 23pcs C'
-date: 2020-10-28 05:32:32
+date: 2020-10-29 17:24:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OJfz5CiAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OJfz5CiAL._SL200_.jpg' ]
 comments: true
