@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Laser 33298 Battle Hunters al 33.32 % de descuento'
-date: 2020-10-27 03:06:41
+date: 2020-10-29 21:34:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Z9bS8W7iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Z9bS8W7iL._SL200_.jpg' ]
 comments: true

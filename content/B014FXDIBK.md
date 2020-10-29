@@ -14,11 +14,11 @@ comparePrice: 78.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans Gen  Vaqueros Rectos para Mujer  Azul  Denim D45   W33/L30](https://www.amazon.es/dp/B014FXDIBK/?tag=redken-21) a 39.87 EUR (original: 78.99 EUR) (49.53 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans Gen  Vaqueros Rectos para Mujer  Azul  Denim D45   W33/L30](https://www.amazon.es/dp/B014FXDIBK/?tag=redken-21) con 49.53 de descuento por 39.87 EUR (original: 78.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41u-XlQiUKL._SL200_.jpg)](https://www.amazon.es/dp/B014FXDIBK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B014FXDIBK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B014FXDIBK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
