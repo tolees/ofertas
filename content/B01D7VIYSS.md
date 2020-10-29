@@ -14,11 +14,11 @@ comparePrice: 300.12 EUR
 inStock: true
 ---
 
-Está [GPR s.173  GHI Genehmigt mit Stecker Terminal für GS 500 E – F 2001/06  Gusseisen](https://www.amazon.de/dp/B01D7VIYSS/?tag=redken02-21) con 48.90 de descuento por 153.37 EUR (original: 300.12 EUR) en el siguiente enlace!
+Ahora mismo tienes [GPR s.173  GHI Genehmigt mit Stecker Terminal für GS 500 E – F 2001/06  Gusseisen](https://www.amazon.de/dp/B01D7VIYSS/?tag=redken02-21) a 153.37 EUR (original: 300.12 EUR) (48.90 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ErUhCbi6L._SL200_.jpg)](https://www.amazon.de/dp/B01D7VIYSS/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01D7VIYSS/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B01D7VIYSS/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

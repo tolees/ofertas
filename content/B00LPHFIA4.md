@@ -14,11 +14,11 @@ comparePrice: 141.8 EUR
 inStock: true
 ---
 
-Está [BLACK+DECKER GPC1820L20-QW - Motosierra telescópica  pértiga  a batería 18V  2Ah  espada 20 cm](https://www.amazon.es/dp/B00LPHFIA4/?tag=redken-21) con 34.52 de descuento por 92.85 EUR (original: 141.8 EUR) en el siguiente enlace!
+Ahora mismo tienes [BLACK+DECKER GPC1820L20-QW - Motosierra telescópica  pértiga  a batería 18V  2Ah  espada 20 cm](https://www.amazon.es/dp/B00LPHFIA4/?tag=redken-21) a 92.85 EUR (original: 141.8 EUR) (34.52 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41yuYoKXZBL._SL200_.jpg)](https://www.amazon.es/dp/B00LPHFIA4/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00LPHFIA4/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00LPHFIA4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
