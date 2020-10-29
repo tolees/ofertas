@@ -14,11 +14,11 @@ comparePrice: 9.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois - barra de labios  tono cherry](https://www.amazon.es/dp/B00O32UCJA/?tag=redken-21) a 2.83 EUR (original: 9.84 EUR) (71.24 %  de descuento) en el siguiente enlace!
+Está [Bourjois - barra de labios  tono cherry](https://www.amazon.es/dp/B00O32UCJA/?tag=redken-21) con 71.24 de descuento por 2.83 EUR (original: 9.84 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31tXNTa%2BKJL._SL200_.jpg)](https://www.amazon.es/dp/B00O32UCJA/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00O32UCJA/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00O32UCJA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
