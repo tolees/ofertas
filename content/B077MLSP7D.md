@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ESPRIT Sports 018ei1j009 - Cardigan Logo  Sudadera Mujer  Gris  Medium Grey 2 036   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B077MLSP7D/?tag=redken-21) a 25.93 EUR (original: 49.99 EUR) (48.13 %  de descuento) en el siguiente enlace!
+Está [ESPRIT Sports 018ei1j009 - Cardigan Logo  Sudadera Mujer  Gris  Medium Grey 2 036   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B077MLSP7D/?tag=redken-21) con 48.13 de descuento por 25.93 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xN30hxi-L._SL200_.jpg)](https://www.amazon.es/dp/B077MLSP7D/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077MLSP7D/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077MLSP7D/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

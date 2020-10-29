@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.84 % en Stanley STA7205-XJ - Juego de Brocas  Ta'
-date: 2020-10-28 07:17:04
+date: 2020-10-29 13:20:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UEeuhzW7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UEeuhzW7L._SL200_.jpg' ]
 comments: true
