@@ -14,11 +14,11 @@ comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Está [LEGO 75947 Harry Potter Hagrid’s Hut: Buckbeak’s Rescue Playset with Hippogriff Figure  Gift Idea for Wizarding World Fans](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=redken01-21) con 25.99 de descuento por 37.0 GBP (original: 49.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75947 Harry Potter Hagrid’s Hut: Buckbeak’s Rescue Playset with Hippogriff Figure  Gift Idea for Wizarding World Fans](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=redken01-21) a 37.0 GBP (original: 49.99 GBP) (25.99 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
