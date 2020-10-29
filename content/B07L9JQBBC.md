@@ -14,11 +14,11 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Napapijri Elbas 2 Polo  Morado  Orchid Violet V26   Small para Hombre](https://www.amazon.es/dp/B07L9JQBBC/?tag=redken-21) a 24.34 EUR (original: 59 EUR) (58.75 %  de descuento) en el siguiente enlace!
+Está [Napapijri Elbas 2 Polo  Morado  Orchid Violet V26   Small para Hombre](https://www.amazon.es/dp/B07L9JQBBC/?tag=redken-21) con 58.75 de descuento por 24.34 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31AqNvEVyuL._SL200_.jpg)](https://www.amazon.es/dp/B07L9JQBBC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07L9JQBBC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07L9JQBBC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
