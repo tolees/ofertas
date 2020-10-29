@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.52 % en PUMA Damen Cali WN s Turnschuh  White Wh'
-date: 2020-10-27 05:12:50
+date: 2020-10-29 05:05:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL200_.jpg' ]
 comments: true

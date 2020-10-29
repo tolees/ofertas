@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yazilind Frau Zirkonia Elegante Floral F al 70.02 % de descuento'
-date: 2020-10-05 17:21:21
+date: 2020-10-29 05:04:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/516gCcPXpaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516gCcPXpaL._SL200_.jpg' ]
 comments: true
