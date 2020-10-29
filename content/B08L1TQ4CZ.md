@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SSD Externo 1TB  Disco Duro SSD USB 3.1  al 30.06 % de descuento'
-date: 2020-10-28 22:24:41
+date: 2020-10-29 22:25:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31K9sRn2mXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31K9sRn2mXL._SL200_.jpg' ]
 comments: true
