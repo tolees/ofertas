@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 2607017472 Juego de 1 al 27.87 % de descuento'
-date: 2020-10-28 11:33:06
+date: 2020-10-29 11:54:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/410WwGBMgoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410WwGBMgoL._SL200_.jpg' ]
 comments: true

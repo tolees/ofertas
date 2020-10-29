@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.25 % en EAFIT Boisson Energétique +3H Neutre 500'
-date: 2020-10-28 05:25:52
+date: 2020-10-29 11:31:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/410mLHyfDEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410mLHyfDEL._SL200_.jpg' ]
 comments: true

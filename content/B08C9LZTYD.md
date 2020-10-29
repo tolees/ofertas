@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Montre Connectée Smartwatch Entache IP68 al 28.34 % de descuento'
-date: 2020-10-28 05:26:28
+date: 2020-10-29 11:42:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YjerVUF8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YjerVUF8L._SL200_.jpg' ]
 comments: true

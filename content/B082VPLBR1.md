@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sagrotan WC-Reiniger Granatapfel & Kirsc al 30.40 % de descuento'
-date: 2020-10-28 11:05:37
+date: 2020-10-29 11:20:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xbaqkMfAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xbaqkMfAL._SL200_.jpg' ]
 comments: true

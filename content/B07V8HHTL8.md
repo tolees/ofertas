@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Holy Stone HS720 Faltbare GPS Drohne mit al 25.72 % de descuento'
-date: 2020-10-28 11:09:39
+date: 2020-10-29 11:23:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MBfNQBHLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MBfNQBHLL._SL200_.jpg' ]
 comments: true

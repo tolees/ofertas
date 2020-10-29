@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung QLED 4K Q70T 138 cm  55 Zoll   Q al 28.04 % de descuento'
-date: 2020-10-28 10:59:54
+date: 2020-10-29 11:18:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31QRmro39kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31QRmro39kL._SL200_.jpg' ]
 comments: true
