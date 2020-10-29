@@ -14,11 +14,11 @@ comparePrice: 23.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bed Head by TIGI Máscara de tratamiento Colour Goddess 200 gr](https://www.amazon.es/dp/B00IOWGH26/?tag=redken-21) a 11.87 EUR (original: 23.5 EUR) (49.49 %  de descuento) en el siguiente enlace!
+Está [Bed Head by TIGI Máscara de tratamiento Colour Goddess 200 gr](https://www.amazon.es/dp/B00IOWGH26/?tag=redken-21) con 49.49 de descuento por 11.87 EUR (original: 23.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413cYOEaxuL._SL200_.jpg)](https://www.amazon.es/dp/B00IOWGH26/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00IOWGH26/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00IOWGH26/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

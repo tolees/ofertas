@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jcorocky Jacket Noos Chaque al 42.51 % de descuento'
-date: 2020-10-26 14:08:26
+date: 2020-10-29 18:28:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sXukVek2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sXukVek2L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.10 % en Auriculares Gaming PS4  YINSAN Cascos Ga'
-date: 2020-10-28 15:43:54
+date: 2020-10-29 18:24:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51B8LJ9kInL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51B8LJ9kInL._SL200_.jpg' ]
 comments: true

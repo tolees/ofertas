@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi GMR4015GL - Regleta al 26.68 % de descuento'
-date: 2020-10-28 15:09:26
+date: 2020-10-29 18:53:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31G1weCxvmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31G1weCxvmL._SL200_.jpg' ]
 comments: true
