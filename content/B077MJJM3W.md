@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en PUMA Damen Smash WNS v2 L Zapatillas  Wh'
-date: 2020-10-27 04:58:30
+date: 2020-10-29 04:59:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL200_.jpg' ]
 comments: true
