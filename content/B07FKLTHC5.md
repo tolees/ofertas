@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 22MK600M-B - Monitor FHD de 54 6 cm   al 25.21 % de descuento'
-date: 2020-10-28 07:10:30
+date: 2020-10-29 07:49:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GVfsvphAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GVfsvphAL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D CATRIA C  Botas Cortas al Tobillo al 43.61 % de descuento'
-date: 2020-10-16 23:54:38
+date: 2020-10-29 07:14:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eSiqfz-fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eSiqfz-fL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 125.0 EUR
 inStock: true
 ---
 
-Está [Geox D CATRIA C  Botas Cortas al Tobillo para Mujer  Negro  38 EU](https://www.amazon.es/dp/B0825RTZJC/?tag=redken-21) con 43.61 de descuento por 70.49 EUR (original: 125.0 EUR) en el siguiente enlace!
+Está [Geox D CATRIA C  Botas Cortas al Tobillo Mujer  Negro  38 EU](https://www.amazon.es/dp/B0825RTZJC/?tag=redken-21) con 43.61 de descuento por 70.49 EUR (original: 125.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41eSiqfz-fL._SL200_.jpg)](https://www.amazon.es/dp/B0825RTZJC/?tag=redken-21)
 
