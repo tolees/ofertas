@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.05 % en MOJIPOPS - Blister 8 figuras  6 figuras '
-date: 2020-10-27 18:40:08
+date: 2020-10-29 09:15:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oaavoLzAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oaavoLzAL._SL200_.jpg' ]
 comments: true

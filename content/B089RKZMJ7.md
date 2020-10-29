@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.08 % en BOIFUN Cortapelos Profesional Hombre Ele'
-date: 2020-10-27 10:37:22
+date: 2020-10-29 09:38:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41twhBGXFTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41twhBGXFTL._SL200_.jpg' ]
 comments: true

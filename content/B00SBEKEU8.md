@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Mode Kettle 21400 - Black al 68.76 % de descuento'
-date: 2020-10-28 03:21:34
+date: 2020-10-29 09:23:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/410XISQi1PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410XISQi1PL._SL200_.jpg' ]
 comments: true

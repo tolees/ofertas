@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ring Automotive Ring RTC1000 12V Rapid P al 33.79 % de descuento'
-date: 2020-10-28 03:19:50
+date: 2020-10-29 09:23:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ln08cwGgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ln08cwGgL._SL200_.jpg' ]
 comments: true
