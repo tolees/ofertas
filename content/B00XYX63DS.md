@@ -14,11 +14,11 @@ comparePrice: 210 EUR
 inStock: true
 ---
 
-Está [Tantra Leather Espadrille Wedge Sandals with Metallic Details - Sandalias para Mujer  Color Negro  Talla 37](https://www.amazon.es/dp/B00XYX63DS/?tag=redken-21) con 96.36 de descuento por 7.64 EUR (original: 210 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tantra Leather Espadrille Wedge Sandals with Metallic Details - Sandalias para Mujer  Color Negro  Talla 37](https://www.amazon.es/dp/B00XYX63DS/?tag=redken-21) a 7.64 EUR (original: 210 EUR) (96.36 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41AtZaoSNcL._SL200_.jpg)](https://www.amazon.es/dp/B00XYX63DS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00XYX63DS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00XYX63DS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
