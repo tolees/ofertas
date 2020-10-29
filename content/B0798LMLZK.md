@@ -14,11 +14,11 @@ comparePrice: 120 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [CAMPER Casi Jazz  Zapatos de Cordones Oxford para Mujer  Azul  Medium Blue 420   41 EU](https://www.amazon.es/dp/B0798LMLZK/?tag=redken-21) a 59.59 EUR (original: 120 EUR) (50.34 %  de descuento) en el siguiente enlace!
+Está [CAMPER Casi Jazz  Zapatos de Cordones Oxford para Mujer  Azul  Medium Blue 420   41 EU](https://www.amazon.es/dp/B0798LMLZK/?tag=redken-21) con 50.34 de descuento por 59.59 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31fmyu5fTpL._SL200_.jpg)](https://www.amazon.es/dp/B0798LMLZK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0798LMLZK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0798LMLZK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
