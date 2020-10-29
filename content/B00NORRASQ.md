@@ -14,11 +14,11 @@ comparePrice: 13.31 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jonh Frieda Espuma Rizos Revitalizados - 200 ml](https://www.amazon.es/dp/B00NORRASQ/?tag=redken-21) a 5.84 EUR (original: 13.31 EUR) (56.12 %  de descuento) en el siguiente enlace!
+Está [Jonh Frieda Espuma Rizos Revitalizados - 200 ml](https://www.amazon.es/dp/B00NORRASQ/?tag=redken-21) con 56.12 de descuento por 5.84 EUR (original: 13.31 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41J7nJFDFNL._SL200_.jpg)](https://www.amazon.es/dp/B00NORRASQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00NORRASQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00NORRASQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

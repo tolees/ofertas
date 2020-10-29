@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dremel 4000 - Multiherramienta  175 W  k al 30.11 % de descuento'
-date: 2020-10-25 23:41:02
+date: 2020-10-29 12:36:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aaRKtOnqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aaRKtOnqL._SL200_.jpg' ]
 comments: true
