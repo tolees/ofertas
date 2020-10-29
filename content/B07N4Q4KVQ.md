@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Powerextra Pantalla de Proyector 120 Inc al 52.02 % de descuento'
-date: 2020-10-28 03:45:34
+date: 2020-10-29 14:46:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t911WbA0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t911WbA0L._SL200_.jpg' ]
 comments: true
