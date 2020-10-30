@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toallas de Baño para Bebe Eccomum Toalla al 28.02 % de descuento'
-date: 2020-10-29 04:29:24
+date: 2020-10-30 04:37:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/417aYGva2IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417aYGva2IL._SL200_.jpg' ]
 comments: true
