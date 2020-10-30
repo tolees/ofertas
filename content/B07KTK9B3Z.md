@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 21045 - Architecture Trafalgar Squa al 29.10 % de descuento'
-date: 2020-10-29 11:18:56
+title: 'LEGO 21045 - Architecture Trafalgar Squa al 28.90 % de descuento'
+date: 2020-10-30 11:23:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07KTK9B3Z
 description:
-actualPrice: 55.28 EUR
+actualPrice: 55.44 EUR
 comparePrice: 77.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 21045 - Architecture Trafalgar Square  Bauset](https://www.amazon.de/dp/B07KTK9B3Z/?tag=redken02-21) a 55.28 EUR (original: 77.97 EUR) (29.10 %  de descuento) en el siguiente enlace!
+Está [LEGO 21045 - Architecture Trafalgar Square  Bauset](https://www.amazon.de/dp/B07KTK9B3Z/?tag=redken02-21) con 28.90 de descuento por 55.44 EUR (original: 77.97 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg)](https://www.amazon.de/dp/B07KTK9B3Z/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07KTK9B3Z/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07KTK9B3Z/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

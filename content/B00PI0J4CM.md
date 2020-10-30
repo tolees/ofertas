@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.89 % en Fisher-Price - Móvil con ositos - juguet'
-date: 2020-10-28 12:06:16
+date: 2020-10-30 12:32:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zlxjuI5fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zlxjuI5fL._SL200_.jpg' ]
 comments: true

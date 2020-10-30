@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPERZINGS - Hero Monsterroller-Truck mi al 37.15 % de descuento'
-date: 2020-10-29 11:01:37
+date: 2020-10-30 11:10:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TXBIMQx8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TXBIMQx8L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.38 % en Potensic Mini Drohne für Kinder und Anfä'
-date: 2020-10-27 10:50:24
+date: 2020-10-30 11:20:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PzZZmEMfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PzZZmEMfL._SL200_.jpg' ]
 comments: true

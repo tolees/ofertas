@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Hydro Boost Crema Gel Hidrata al 47.42 % de descuento'
-date: 2020-10-29 09:35:57
+date: 2020-10-30 12:50:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sZ3920wSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sZ3920wSL._SL200_.jpg' ]
 comments: true

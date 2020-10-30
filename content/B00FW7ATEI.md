@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.64 % en LG DP132 - Reproductor de DVD  Dolby Dig'
-date: 2020-10-28 12:13:36
+date: 2020-10-30 12:23:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31UQR5lJILL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31UQR5lJILL._SL200_.jpg' ]
 comments: true

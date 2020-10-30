@@ -14,11 +14,11 @@ comparePrice: 77.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75286 Star Wars General Grievous‘ Starfighter  Bauset](https://www.amazon.de/dp/B0813QVVSW/?tag=redken02-21) a 54.91 EUR (original: 77.97 EUR) (29.58 %  de descuento) en el siguiente enlace!
+Está [LEGO 75286 Star Wars General Grievous‘ Starfighter  Bauset](https://www.amazon.de/dp/B0813QVVSW/?tag=redken02-21) con 29.58 de descuento por 54.91 EUR (original: 77.97 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NHEsLPugL._SL200_.jpg)](https://www.amazon.de/dp/B0813QVVSW/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B0813QVVSW/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B0813QVVSW/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.50 % en Eastpak The One Sac Bandoulière  21 cm  '
-date: 2020-10-28 23:07:08
+date: 2020-10-30 11:28:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lwL6DEMdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lwL6DEMdL._SL200_.jpg' ]
 comments: true

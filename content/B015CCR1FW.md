@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barbie Dreamtopia  muñeca Sirena Luces d al 25.94 % de descuento'
-date: 2020-10-28 14:53:00
+date: 2020-10-30 12:16:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vZldEd5WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vZldEd5WL._SL200_.jpg' ]
 comments: true
