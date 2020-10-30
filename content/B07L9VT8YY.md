@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.04 % en Beikell Lector de Tarjetas USB 3.0 de Me'
-date: 2020-10-21 00:46:12
+date: 2020-10-30 14:45:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zGZjWQT7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zGZjWQT7L._SL200_.jpg' ]
 comments: true
