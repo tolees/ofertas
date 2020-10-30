@@ -14,11 +14,11 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen HH LIFA MAX 1/2 Zip Camiseta Técnica Lana Merino  Hombre  Negro  Black   S](https://www.amazon.es/dp/B06XHCWDLN/?tag=redken-21) a 39.68 EUR (original: 85 EUR) (53.32 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen HH LIFA MAX 1/2 Zip Camiseta Técnica Lana Merino  Hombre  Negro  Black   S](https://www.amazon.es/dp/B06XHCWDLN/?tag=redken-21) con 53.32 de descuento por 39.68 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zIWZiV6OL._SL200_.jpg)](https://www.amazon.es/dp/B06XHCWDLN/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XHCWDLN/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XHCWDLN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

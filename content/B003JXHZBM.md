@@ -14,11 +14,11 @@ comparePrice: 1842 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FLEX Colchón Inteligente y personalizado iBed FLEX  90 x 190 cm](https://www.amazon.es/dp/B003JXHZBM/?tag=redken-21) a 1381.5 EUR (original: 1842 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Está [FLEX Colchón Inteligente y personalizado iBed FLEX  90 x 190 cm](https://www.amazon.es/dp/B003JXHZBM/?tag=redken-21) con 25.00 de descuento por 1381.5 EUR (original: 1842 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319eOHysNNL._SL200_.jpg)](https://www.amazon.es/dp/B003JXHZBM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B003JXHZBM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B003JXHZBM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

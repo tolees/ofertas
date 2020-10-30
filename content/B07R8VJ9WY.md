@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.62 % en BERSIGAR 100 medidor de Reloj analógico '
-date: 2020-10-09 03:09:06
+date: 2020-10-30 00:50:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51V-cQ2+-JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51V-cQ2+-JL._SL200_.jpg' ]
 comments: true
