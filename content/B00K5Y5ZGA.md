@@ -14,11 +14,11 @@ comparePrice: 63.99 USD
 inStock: true
 ---
 
-Está [Augason Farms White Granulated Sugar 28 Pound Pail](https://www.amazon.com/dp/B00K5Y5ZGA/?tag=redken08-20) con 51.68 de descuento por 30.92 USD (original: 63.99 USD) en el siguiente enlace!
+Ahora mismo tienes [Augason Farms White Granulated Sugar 28 Pound Pail](https://www.amazon.com/dp/B00K5Y5ZGA/?tag=redken08-20) a 30.92 USD (original: 63.99 USD) (51.68 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41PORoYoyrL._SL200_.jpg)](https://www.amazon.com/dp/B00K5Y5ZGA/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00K5Y5ZGA/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00K5Y5ZGA/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'It Capítulo 2 [DVD] al 50.04 % de descuento'
-date: 2020-10-28 11:53:24
+date: 2020-10-30 18:12:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jRGagAeLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jRGagAeLL._SL200_.jpg' ]
 comments: true
