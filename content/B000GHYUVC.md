@@ -14,11 +14,11 @@ comparePrice: 69.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Guerlain Agua de Perfume - 30 ml](https://www.amazon.es/dp/B000GHYUVC/?tag=redken-21) a 46.92 EUR (original: 69.4 EUR) (32.39 %  de descuento) en el siguiente enlace!
+Está [Guerlain Agua de Perfume - 30 ml](https://www.amazon.es/dp/B000GHYUVC/?tag=redken-21) con 32.39 de descuento por 46.92 EUR (original: 69.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RIRhyinLL._SL200_.jpg)](https://www.amazon.es/dp/B000GHYUVC/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000GHYUVC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000GHYUVC/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
