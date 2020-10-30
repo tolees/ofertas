@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.96 % en BRA Set de 3 sartenes de aluminio forjad'
-date: 2020-10-27 11:58:35
+date: 2020-10-30 16:03:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DRjhZeDbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DRjhZeDbL._SL200_.jpg' ]
 comments: true
