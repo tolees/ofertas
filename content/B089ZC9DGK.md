@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en FIFA 21 ULTIMATE EDITION -  inkl. kosten'
-date: 2020-10-28 11:10:52
+date: 2020-10-29 23:20:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zNMa+bP4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zNMa+bP4L._SL200_.jpg' ]
 comments: true

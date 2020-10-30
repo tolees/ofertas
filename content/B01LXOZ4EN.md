@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WPA4220KIT 2-Port Powerline A al 30.01 % de descuento'
-date: 2020-10-28 17:44:35
+date: 2020-10-29 23:56:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31NqQlHyWUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31NqQlHyWUL._SL200_.jpg' ]
 comments: true

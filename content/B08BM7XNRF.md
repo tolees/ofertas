@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crash Bandicoot 4 : It s About Time  Xbo al 26.15 % de descuento'
-date: 2020-10-28 23:13:37
+date: 2020-10-29 23:30:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Z1mYNE03L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Z1mYNE03L._SL200_.jpg' ]
 comments: true
