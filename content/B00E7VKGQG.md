@@ -14,11 +14,11 @@ comparePrice: 59.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ID Italian Design - Planchas de Pelo de Iria Titanio 210ºC - 35W](https://www.amazon.es/dp/B00E7VKGQG/?tag=redken-21) a 19.9 EUR (original: 59.9 EUR) (66.78 %  de descuento) en el siguiente enlace!
+Está [ID Italian Design - Planchas de Pelo de Iria Titanio 210ºC - 35W](https://www.amazon.es/dp/B00E7VKGQG/?tag=redken-21) con 66.78 de descuento por 19.9 EUR (original: 59.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GhGEIl7TL._SL200_.jpg)](https://www.amazon.es/dp/B00E7VKGQG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00E7VKGQG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00E7VKGQG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

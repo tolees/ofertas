@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71703 NINJAGO Legacy 4+ Storm Fight al 39.98 % de descuento'
-date: 2020-10-29 08:29:17
+date: 2020-10-30 17:30:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51P8ehSzTPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51P8ehSzTPL._SL200_.jpg' ]
 comments: true

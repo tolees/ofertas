@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.73 % en RENTLIV Voll Bewegliche TV Wandhalterung'
-date: 2020-10-29 11:15:07
+date: 2020-10-30 17:17:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/418PlTP24hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418PlTP24hL._SL200_.jpg' ]
 comments: true

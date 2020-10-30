@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.81 % en Samsung Galaxy A20e 5 8 "  ?cran 32 GB e'
-date: 2020-10-29 17:30:31
+date: 2020-10-30 17:31:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-ygXWwIcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-ygXWwIcL._SL200_.jpg' ]
 comments: true

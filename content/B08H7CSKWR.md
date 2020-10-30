@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.89 % en Beexcellent Casque Gaming PS4  Casque Xb'
-date: 2020-10-29 17:29:35
+date: 2020-10-30 17:30:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Aq6wBOR6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Aq6wBOR6L._SL200_.jpg' ]
 comments: true

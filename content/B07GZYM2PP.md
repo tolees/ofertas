@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel SESF30C-AX Brush Sign Pen Artist  al 34.94 % de descuento'
-date: 2020-10-29 11:17:16
+date: 2020-10-30 17:09:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/21x3rj6FciL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21x3rj6FciL._SL200_.jpg' ]
 comments: true
