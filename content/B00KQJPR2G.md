@@ -14,11 +14,11 @@ comparePrice: 71.6 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Scheppach CS55 4901802701 Guide Rail 1400 mm for Plunge Saw](https://www.amazon.co.uk/dp/B00KQJPR2G/?tag=redken01-21) a 34.61 GBP (original: 71.6 GBP) (51.66 %  de descuento) en el siguiente enlace!
+Está [Scheppach CS55 4901802701 Guide Rail 1400 mm for Plunge Saw](https://www.amazon.co.uk/dp/B00KQJPR2G/?tag=redken01-21) con 51.66 de descuento por 34.61 GBP (original: 71.6 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41QY3Rli5UL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00KQJPR2G/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00KQJPR2G/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00KQJPR2G/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

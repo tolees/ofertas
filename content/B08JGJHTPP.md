@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.37 % en WisFox Landing Pad Drone Tapis D’atterri'
-date: 2020-10-29 05:14:01
+date: 2020-10-30 05:32:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zW+M-WbIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zW+M-WbIL._SL200_.jpg' ]
 comments: true

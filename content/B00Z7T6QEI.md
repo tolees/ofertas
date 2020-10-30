@@ -14,11 +14,11 @@ comparePrice: 73.89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [OtterBox Defender - Funda de protección triple capa para Apple iPad Pro 12.9" 2da generación  negro](https://www.amazon.es/dp/B00Z7T6QEI/?tag=redken-21) a 54.99 EUR (original: 73.89 EUR) (25.58 %  de descuento) en el siguiente enlace!
+Está [OtterBox Defender - Funda de protección triple capa para Apple iPad Pro 12.9" 2da generación  negro](https://www.amazon.es/dp/B00Z7T6QEI/?tag=redken-21) con 25.58 de descuento por 54.99 EUR (original: 73.89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31z19sCC01L._SL200_.jpg)](https://www.amazon.es/dp/B00Z7T6QEI/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00Z7T6QEI/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00Z7T6QEI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
