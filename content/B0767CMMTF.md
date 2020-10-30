@@ -14,11 +14,11 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Trust GXT 752-SG Spectra - Alfombrilla para ratón  Verde](https://www.amazon.es/dp/B0767CMMTF/?tag=redken-21) a 4.97 EUR (original: 9.99 EUR) (50.25 %  de descuento) en el siguiente enlace!
+Está [Trust GXT 752-SG Spectra - Alfombrilla para ratón  Verde](https://www.amazon.es/dp/B0767CMMTF/?tag=redken-21) con 50.25 de descuento por 4.97 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MA%2BsheIeL._SL200_.jpg)](https://www.amazon.es/dp/B0767CMMTF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0767CMMTF/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0767CMMTF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

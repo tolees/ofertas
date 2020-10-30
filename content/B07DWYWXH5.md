@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SIMMAX Memorias USB 4 Piezas 16GB USB 2. al 48.40 % de descuento'
-date: 2020-10-10 10:01:10
+date: 2020-10-30 20:10:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/513FlrDLy6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513FlrDLy6L._SL200_.jpg' ]
 comments: true
