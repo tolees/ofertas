@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.70 % en WD Black SN750 - SSD Interno NVMe para G'
-date: 2020-10-28 22:28:42
+date: 2020-10-30 08:27:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Cn4nC47hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Cn4nC47hL._SL200_.jpg' ]
 comments: true

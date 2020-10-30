@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.01 % en COOLMAN Dad Pulsera de Cuero'
-date: 2020-10-07 09:40:35
+date: 2020-10-30 08:22:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/411nHIj+GKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411nHIj+GKL._SL200_.jpg' ]
 comments: true
