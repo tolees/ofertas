@@ -14,11 +14,11 @@ comparePrice: 299.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hansgrohe 31815000 Focus grifo de cocina con ducha extraíble  cromo](https://www.amazon.es/dp/B00FK3XNW4/?tag=redken-21) a 146.67 EUR (original: 299.84 EUR) (51.08 %  de descuento) en el siguiente enlace!
+Está [Hansgrohe 31815000 Focus grifo de cocina con ducha extraíble  cromo](https://www.amazon.es/dp/B00FK3XNW4/?tag=redken-21) con 51.08 de descuento por 146.67 EUR (original: 299.84 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317WPj2NxpL._SL200_.jpg)](https://www.amazon.es/dp/B00FK3XNW4/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00FK3XNW4/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00FK3XNW4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
