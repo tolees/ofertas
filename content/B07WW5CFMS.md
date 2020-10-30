@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CANSHN Funda para iPhone 11  Carcasa Pro al 59.41 % de descuento'
-date: 2020-10-12 10:33:11
+date: 2020-10-30 13:32:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fcby6eXRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fcby6eXRL._SL200_.jpg' ]
 comments: true

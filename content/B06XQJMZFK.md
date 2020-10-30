@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.76 % en Bosch UniversalAquatak 125 - Hidrolimpia'
-date: 2020-10-29 07:35:40
+date: 2020-10-30 13:05:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51winq1AUtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51winq1AUtL._SL200_.jpg' ]
 comments: true

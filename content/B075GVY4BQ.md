@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WOOMAX- Camión Remolque 3 Coches de Made al 25.00 % de descuento'
-date: 2020-10-29 11:54:19
+date: 2020-10-30 13:02:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zgslQJCHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zgslQJCHL._SL200_.jpg' ]
 comments: true
