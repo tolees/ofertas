@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 72.83 % en Unidad Flash USB portátil USB2.0 U Disco'
-date: 2020-10-19 05:01:21
+date: 2020-10-30 06:01:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EaLbPAVuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EaLbPAVuL._SL200_.jpg' ]
 comments: true

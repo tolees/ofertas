@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Hidrolimpiadora de Alta Presión Un al 32.77 % de descuento'
-date: 2020-10-27 23:21:23
+date: 2020-10-30 06:59:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/514yaBf5CNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514yaBf5CNL._SL200_.jpg' ]
 comments: true

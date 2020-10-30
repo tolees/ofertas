@@ -14,11 +14,11 @@ comparePrice: 24.4 GBP
 inStock: true
 ---
 
-Está [Far Cry 4 + Far Cry 5  PS4 ](https://www.amazon.co.uk/dp/B07RGVTSCF/?tag=redken01-21) con 28.32 de descuento por 17.49 GBP (original: 24.4 GBP) en el siguiente enlace!
+Ahora mismo tienes [Far Cry 4 + Far Cry 5  PS4 ](https://www.amazon.co.uk/dp/B07RGVTSCF/?tag=redken01-21) a 17.49 GBP (original: 24.4 GBP) (28.32 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61VRtdkgldL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07RGVTSCF/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07RGVTSCF/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07RGVTSCF/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 10.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tetra pH/KH Plus 250 ml](https://www.amazon.es/dp/B00J5JSSRO/?tag=redken-21) a 6.99 EUR (original: 10.99 EUR) (36.40 %  de descuento) en el siguiente enlace!
+Está [Tetra pH/KH Plus 250 ml](https://www.amazon.es/dp/B00J5JSSRO/?tag=redken-21) con 36.40 de descuento por 6.99 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41xVRSk4ZRL._SL200_.jpg)](https://www.amazon.es/dp/B00J5JSSRO/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00J5JSSRO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00J5JSSRO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

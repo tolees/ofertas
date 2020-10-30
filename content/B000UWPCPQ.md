@@ -14,11 +14,11 @@ comparePrice: 55.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Birkenstock RAMSES Birko-Flor  Men s Sandals  Black  8 UK  42 EU ](https://www.amazon.co.uk/dp/B000UWPCPQ/?tag=redken01-21) a 30.0 GBP (original: 55.0 GBP) (45.45 %  de descuento) en el siguiente enlace!
+Está [Birkenstock RAMSES Birko-Flor  Men s Sandals  Black  8 UK  42 EU ](https://www.amazon.co.uk/dp/B000UWPCPQ/?tag=redken01-21) con 45.45 de descuento por 30.0 GBP (original: 55.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31fz4zVexyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B000UWPCPQ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B000UWPCPQ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B000UWPCPQ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
