@@ -14,11 +14,11 @@ comparePrice: 115 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox D Prestyn B  Zapatos de Vestir para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B06Y1CHSCG/?tag=redken-21) a 36.13 EUR (original: 115 EUR) (68.58 %  de descuento) en el siguiente enlace!
+Está [Geox D Prestyn B  Zapatos de Vestir para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B06Y1CHSCG/?tag=redken-21) con 68.58 de descuento por 36.13 EUR (original: 115 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4138OIJ43JL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1CHSCG/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06Y1CHSCG/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06Y1CHSCG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

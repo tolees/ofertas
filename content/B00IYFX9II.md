@@ -14,11 +14,11 @@ comparePrice: 19.5 EUR
 inStock: true
 ---
 
-Está [Redken shape factor 22 sculpture cream 50ml](https://www.amazon.es/dp/B00IYFX9II/?tag=redken-21) con 42.56 de descuento por 11.2 EUR (original: 19.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Redken shape factor 22 sculpture cream 50ml](https://www.amazon.es/dp/B00IYFX9II/?tag=redken-21) a 11.2 EUR (original: 19.5 EUR) (42.56 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HIO90lEGL._SL200_.jpg)](https://www.amazon.es/dp/B00IYFX9II/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00IYFX9II/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00IYFX9II/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
