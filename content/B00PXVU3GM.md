@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Citizen Men s Eco-Drive Promaster Diver  al 65.72 % de descuento'
-date: 2020-10-29 01:23:50
+date: 2020-10-30 02:28:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51937wFBTvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51937wFBTvL._SL200_.jpg' ]
 comments: true
