@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75253 BOOST Droide  App-g al 30.78 % de descuento'
-date: 2020-10-29 23:58:30
+date: 2020-10-31 00:11:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/513riy2qpvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513riy2qpvL._SL200_.jpg' ]
 comments: true
