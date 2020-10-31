@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unidad de Estado Sólido Lexar NS100 2 5" al 26.32 % de descuento'
-date: 2020-10-30 10:26:05
+date: 2020-10-31 16:28:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/4175AZN37OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4175AZN37OL._SL200_.jpg' ]
 comments: true

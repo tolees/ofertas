@@ -14,11 +14,11 @@ comparePrice: 119.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mantona 20382 - Trípode Completo  Negro](https://www.amazon.es/dp/B00M3SYVTS/?tag=redken-21) a 59.9 EUR (original: 119.9 EUR) (50.04 %  de descuento) en el siguiente enlace!
+Está [Mantona 20382 - Trípode Completo  Negro](https://www.amazon.es/dp/B00M3SYVTS/?tag=redken-21) con 50.04 de descuento por 59.9 EUR (original: 119.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41X21HQtnYL._SL200_.jpg)](https://www.amazon.es/dp/B00M3SYVTS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00M3SYVTS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00M3SYVTS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
