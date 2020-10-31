@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.64 % en Nature Valley Crunchy Oats & Honey Cerea'
-date: 2020-10-27 16:49:47
+date: 2020-10-31 07:39:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GRKIxiplL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GRKIxiplL._SL200_.jpg' ]
 comments: true

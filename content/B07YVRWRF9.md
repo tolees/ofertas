@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BT Mini Whole Home Wi-Fi  Bundle Pack of al 41.18 % de descuento'
-date: 2020-10-29 21:33:11
+date: 2020-10-31 07:39:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/212woijTyaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/212woijTyaL._SL200_.jpg' ]
 comments: true

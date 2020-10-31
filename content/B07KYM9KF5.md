@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TECKIN Bombilla Inteligente LED WiFi con al 49.55 % de descuento'
-date: 2020-10-27 09:05:58
+date: 2020-10-31 07:57:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cmj19izPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cmj19izPL._SL200_.jpg' ]
 comments: true

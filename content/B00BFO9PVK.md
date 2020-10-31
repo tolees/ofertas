@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.00 % en Michael Kors Women s Chronograph Quartz '
-date: 2020-10-29 13:24:45
+date: 2020-10-31 07:38:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fCFzypCZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fCFzypCZL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xavax Küchenwaagen  Silber al 54.58 % de descuento'
-date: 2020-10-30 06:25:17
+date: 2020-10-31 07:37:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41waDi-gf9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41waDi-gf9L._SL200_.jpg' ]
 comments: true
