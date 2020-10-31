@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skip Active Clean Detergente Líquido par al 26.80 % de descuento'
-date: 2020-10-30 07:12:43
+date: 2020-10-31 09:40:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VwGqGvusL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VwGqGvusL._SL200_.jpg' ]
 comments: true
