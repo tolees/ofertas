@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price - Móvil con ositos - juguet al 33.89 % de descuento'
-date: 2020-10-30 12:32:54
+date: 2020-10-31 18:41:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zlxjuI5fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zlxjuI5fL._SL200_.jpg' ]
 comments: true

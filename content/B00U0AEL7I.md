@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEVERIN KA 5978 Cafetera Espresso  Incl. al 30.19 % de descuento'
-date: 2020-10-30 17:29:55
+date: 2020-10-31 18:08:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jvmEpriGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jvmEpriGL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'La cabane de Hagrid : le sauvetage de Bu al 31.99 % de descuento'
-date: 2020-10-30 11:34:47
+title: 'LEGO 75947 Harry Potter Hagrid’s Hut: Bu al 25.99 % de descuento'
+date: 2020-10-31 17:55:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07G3SC5ZH
 description:
-actualPrice: 44.2 EUR
-comparePrice: 64.99 EUR
+actualPrice: 37.0 GBP
+comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Está [La cabane de Hagrid : le sauvetage de Buck](https://www.amazon.fr/dp/B07G3SC5ZH/?tag=redken012-21) con 31.99 de descuento por 44.2 EUR (original: 64.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75947 Harry Potter Hagrid’s Hut: Buckbeak’s Rescue Playset with Hippogriff Figure  Gift Idea for Wizarding World Fans](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=redken01-21) a 37.0 GBP (original: 49.99 GBP) (25.99 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg)](https://www.amazon.fr/dp/B07G3SC5ZH/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07G3SC5ZH/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

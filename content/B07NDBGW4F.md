@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41165 Disney Annas Kanufahrt  Bause al 27.81 % de descuento'
-date: 2020-10-13 09:29:53
+title: 'LEGO 41165 Disney Annas Kanufahrt  Bause al 28.42 % de descuento'
+date: 2020-10-31 18:14:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07NDBGW4F
 description:
-actualPrice: 14.07 EUR
+actualPrice: 13.95 EUR
 comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 41165 Disney Annas Kanufahrt  Bauset  Mehrfarbig](https://www.amazon.de/dp/B07NDBGW4F/?tag=redken02-21) a 14.07 EUR (original: 19.49 EUR) (27.81 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 41165 Disney Annas Kanufahrt  Bauset  Mehrfarbig](https://www.amazon.de/dp/B07NDBGW4F/?tag=redken02-21) a 13.95 EUR (original: 19.49 EUR) (28.42 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg)](https://www.amazon.de/dp/B07NDBGW4F/?tag=redken02-21)
 
