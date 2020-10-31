@@ -14,11 +14,11 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Lee Logo tee  Camiseta para Hombre  Marfil  Sharp Grey Mele 03  Large](https://www.amazon.es/dp/B07FTRHMCX/?tag=redken-21) con 50.00 de descuento por 12.5 EUR (original: 25 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Logo tee  Camiseta para Hombre  Marfil  Sharp Grey Mele 03  Large](https://www.amazon.es/dp/B07FTRHMCX/?tag=redken-21) a 12.5 EUR (original: 25 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41t2HKeuAJL._SL200_.jpg)](https://www.amazon.es/dp/B07FTRHMCX/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FTRHMCX/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FTRHMCX/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
