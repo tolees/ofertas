@@ -14,11 +14,11 @@ comparePrice: 22.01 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Lavazza Super Crema Whole Bean Coffee Blend  Medium Espresso Roast  2.2 Pound  Pack of 1 ](https://www.amazon.com/dp/B000SDKDM4/?tag=redken08-20) a 12.83 USD (original: 22.01 USD) (41.71 %  de descuento) en el siguiente enlace!
+Está [Lavazza Super Crema Whole Bean Coffee Blend  Medium Espresso Roast  2.2 Pound  Pack of 1 ](https://www.amazon.com/dp/B000SDKDM4/?tag=redken08-20) con 41.71 de descuento por 12.83 USD (original: 22.01 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41fSLX+ErrL._SL200_.jpg)](https://www.amazon.com/dp/B000SDKDM4/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000SDKDM4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B000SDKDM4/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
