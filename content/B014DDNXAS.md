@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Colgate Plax Cool Mint Antibacterial Mou al 44.13 % de descuento'
-date: 2020-10-01 02:33:19
-thumbnailImage: 'https://m.media-amazon.com/images/I/41373v2O1iL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41373v2O1iL._SL200_.jpg' ]
+date: 2020-10-31 17:53:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/41c2v4IXS2L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41c2v4IXS2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Colgate Plax Cool Mint Antibacterial Mouthwash  500ml](https://www.amazon.co.uk/dp/B014DDNXAS/?tag=redken01-21) a 1.95 GBP (original: 3.49 GBP) (44.13 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41373v2O1iL._SL200_.jpg)](https://www.amazon.co.uk/dp/B014DDNXAS/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/41c2v4IXS2L._SL200_.jpg)](https://www.amazon.co.uk/dp/B014DDNXAS/?tag=redken01-21)
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B014DDNXAS/?tag=redken01-21)
 

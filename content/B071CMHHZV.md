@@ -14,11 +14,11 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Esprit 997ee2i801  suéter Hombre  Verde  Dark Green 300   Large](https://www.amazon.es/dp/B071CMHHZV/?tag=redken-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
+Está [Esprit 997ee2i801  suéter Hombre  Verde  Dark Green 300   Large](https://www.amazon.es/dp/B071CMHHZV/?tag=redken-21) con 50.02 de descuento por 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hvbCw6oxL._SL200_.jpg)](https://www.amazon.es/dp/B071CMHHZV/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B071CMHHZV/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071CMHHZV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
