@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Camper 20848 - Zapatillas deportivas de  al 36.67 % de descuento'
-date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jnbpOHQXL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jnbpOHQXL._SL200_.jpg' ]
+title: 'Camper Peu 20848-017 Zapatos Casual Muje al 40.49 % de descuento'
+date: 2020-10-31 02:57:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/41BWHgAsc3L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41BWHgAsc3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B0038OMGVQ
 description:
-actualPrice: 94.99 EUR
-comparePrice: 150 EUR
+actualPrice: 95.22 EUR
+comparePrice: 160.0 EUR
 inStock: true
 ---
 
-Está [Camper 20848 - Zapatillas deportivas de cuero mujer  color negro  talla 37  4 UK ](https://www.amazon.es/dp/B0038OMGVQ/?tag=redken-21) con 36.67 de descuento por 94.99 EUR (original: 150 EUR) en el siguiente enlace!
+Ahora mismo tienes [Camper Peu 20848-017 Zapatos Casual Mujer 37](https://www.amazon.es/dp/B0038OMGVQ/?tag=redken-21) a 95.22 EUR (original: 160.0 EUR) (40.49 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41jnbpOHQXL._SL200_.jpg)](https://www.amazon.es/dp/B0038OMGVQ/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41BWHgAsc3L._SL200_.jpg)](https://www.amazon.es/dp/B0038OMGVQ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0038OMGVQ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B0038OMGVQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
