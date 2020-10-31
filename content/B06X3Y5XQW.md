@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Altavoz Bluetooth Portátil  Altavoces Bl al 25.02 % de descuento'
-date: 2020-10-29 11:57:50
+date: 2020-10-31 08:02:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yhGfGHU2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yhGfGHU2L._SL200_.jpg' ]
 comments: true

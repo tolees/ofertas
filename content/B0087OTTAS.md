@@ -14,11 +14,11 @@ comparePrice: 49.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch PST 650 - Sierra de calar 230V  500 W  en maletín ](https://www.amazon.es/dp/B0087OTTAS/?tag=redken-21) a 37.25 EUR (original: 49.9 EUR) (25.35 %  de descuento) en el siguiente enlace!
+Está [Bosch PST 650 - Sierra de calar 230V  500 W  en maletín ](https://www.amazon.es/dp/B0087OTTAS/?tag=redken-21) con 25.35 de descuento por 37.25 EUR (original: 49.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51-p3f20ygL._SL200_.jpg)](https://www.amazon.es/dp/B0087OTTAS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0087OTTAS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0087OTTAS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 40.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Heatgear 2.0 Leggings  Hombre  Gris  LG](https://www.amazon.es/dp/B01FFNDDQE/?tag=redken-21) a 28.03 EUR (original: 40.0 EUR) (29.93 %  de descuento) en el siguiente enlace!
+Está [Under Armour Heatgear 2.0 Leggings  Hombre  Gris  LG](https://www.amazon.es/dp/B01FFNDDQE/?tag=redken-21) con 29.93 de descuento por 28.03 EUR (original: 40.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/417DrZ8nhuL._SL200_.jpg)](https://www.amazon.es/dp/B01FFNDDQE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01FFNDDQE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01FFNDDQE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
