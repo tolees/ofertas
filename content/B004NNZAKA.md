@@ -14,11 +14,11 @@ comparePrice: 48.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [My Size Preservativo - 250 gr](https://www.amazon.es/dp/B004NNZAKA/?tag=redken-21) a 18.25 EUR (original: 48.99 EUR) (62.75 %  de descuento) en el siguiente enlace!
+Está [My Size Preservativo - 250 gr](https://www.amazon.es/dp/B004NNZAKA/?tag=redken-21) con 62.75 de descuento por 18.25 EUR (original: 48.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31tZb107sHL._SL200_.jpg)](https://www.amazon.es/dp/B004NNZAKA/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B004NNZAKA/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B004NNZAKA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
