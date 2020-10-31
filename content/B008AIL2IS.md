@@ -14,11 +14,11 @@ comparePrice: 10.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Blade [Blu-ray]](https://www.amazon.es/dp/B008AIL2IS/?tag=redken-21) a 6.99 EUR (original: 10.2 EUR) (31.47 %  de descuento) en el siguiente enlace!
+Está [Blade [Blu-ray]](https://www.amazon.es/dp/B008AIL2IS/?tag=redken-21) con 31.47 de descuento por 6.99 EUR (original: 10.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RmQRDd3RL._SL200_.jpg)](https://www.amazon.es/dp/B008AIL2IS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008AIL2IS/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008AIL2IS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

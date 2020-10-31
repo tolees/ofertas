@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'The Irishman  The Criterion Collection   al 26.18 % de descuento'
-date: 2020-10-26 23:49:45
+title: 'The Irishman  The Criterion Collection   al 29.94 % de descuento'
+date: 2020-10-31 12:11:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y6vw1SlGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y6vw1SlGL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B08G6Z9PCC
 description:
-actualPrice: 29.49 USD
+actualPrice: 27.99 USD
 comparePrice: 39.95 USD
 inStock: true
 ---
 
-Ahora mismo tienes [The Irishman  The Criterion Collection  [Blu-ray]](https://www.amazon.com/dp/B08G6Z9PCC/?tag=redken08-20) a 29.49 USD (original: 39.95 USD) (26.18 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [The Irishman  The Criterion Collection  [Blu-ray]](https://www.amazon.com/dp/B08G6Z9PCC/?tag=redken08-20) a 27.99 USD (original: 39.95 USD) (29.94 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Y6vw1SlGL._SL200_.jpg)](https://www.amazon.com/dp/B08G6Z9PCC/?tag=redken08-20)
 

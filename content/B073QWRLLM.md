@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GREENCUT MMA200 - Soldador inverter turb al 30.46 % de descuento'
-date: 2020-10-29 12:55:19
+date: 2020-10-31 12:43:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51avO01BejL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51avO01BejL._SL200_.jpg' ]
 comments: true
