@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.79 % en Clementoni-El Cuerpo Humano  Multicolor '
-date: 2020-10-30 13:02:16
+date: 2020-10-31 13:35:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dAk3TvcBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dAk3TvcBL._SL200_.jpg' ]
 comments: true
