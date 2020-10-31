@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Secador de Pelo Profesional  Abody Secad al 61.68 % de descuento'
-date: 2020-10-20 16:22:27
+date: 2020-10-31 19:49:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Mdv4N3JkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Mdv4N3JkL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 8.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pranarôm Aceite Vegetal Avellana - 50 ml](https://www.amazon.es/dp/B013DHUZ2E/?tag=redken-21) a 5 EUR (original: 8.98 EUR) (44.32 %  de descuento) en el siguiente enlace!
+Está [Pranarôm Aceite Vegetal Avellana - 50 ml](https://www.amazon.es/dp/B013DHUZ2E/?tag=redken-21) con 44.32 de descuento por 5 EUR (original: 8.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51GoT2IccFL._SL200_.jpg)](https://www.amazon.es/dp/B013DHUZ2E/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B013DHUZ2E/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B013DHUZ2E/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
