@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.13 % en ASUS ROG Zephyrus M15 GU502LW-AZ037T - P'
-date: 2020-10-30 20:30:18
+date: 2020-10-31 21:44:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tM0YTL4CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tM0YTL4CL._SL200_.jpg' ]
 comments: true

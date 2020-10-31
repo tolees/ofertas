@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.46 % en RockJam Kit de 61 Teclado de piano digit'
-date: 2020-10-30 19:33:04
+date: 2020-10-31 21:44:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51q6gmi1zpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51q6gmi1zpL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOJIPOPS - Ferrys Wheel con 2 exclusivas al 50.04 % de descuento'
-date: 2020-10-26 19:48:52
+date: 2020-10-31 21:53:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CRo3TzabL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CRo3TzabL._SL200_.jpg' ]
 comments: true
