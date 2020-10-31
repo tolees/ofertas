@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41254 Trolls World Tour Volcano Roc al 34.27 % de descuento'
-date: 2020-10-30 17:30:12
+date: 2020-10-31 20:32:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51H3gVd3uRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51H3gVd3uRL._SL200_.jpg' ]
 comments: true

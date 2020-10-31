@@ -14,11 +14,11 @@ comparePrice: 11.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Mars  Snickers  Twix and More Assorted Fun Size Chocolate Bars  Halloween Party Bag Fillers  1.4 kg  71 Bars](https://www.amazon.co.uk/dp/B086TG1RGQ/?tag=redken01-21) a 6.99 GBP (original: 11.99 GBP) (41.70 %  de descuento) en el siguiente enlace!
+Está [Mars  Snickers  Twix and More Assorted Fun Size Chocolate Bars  Halloween Party Bag Fillers  1.4 kg  71 Bars](https://www.amazon.co.uk/dp/B086TG1RGQ/?tag=redken01-21) con 41.70 de descuento por 6.99 GBP (original: 11.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51kaxo140XL._SL200_.jpg)](https://www.amazon.co.uk/dp/B086TG1RGQ/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B086TG1RGQ/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B086TG1RGQ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
