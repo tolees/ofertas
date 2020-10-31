@@ -14,11 +14,11 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Está [Merc of London Winston - Pantalón chino para hombre  color negro  talla talla francesa: w28  taille fabricant: 28 ](https://www.amazon.es/dp/B00KE3GNY0/?tag=redken-21) con 76.79 de descuento por 16.25 EUR (original: 70 EUR) en el siguiente enlace!
+Ahora mismo tienes [Merc of London Winston - Pantalón chino para hombre  color negro  talla talla francesa: w28  taille fabricant: 28 ](https://www.amazon.es/dp/B00KE3GNY0/?tag=redken-21) a 16.25 EUR (original: 70 EUR) (76.79 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ziJr8G4VL._SL200_.jpg)](https://www.amazon.es/dp/B00KE3GNY0/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00KE3GNY0/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00KE3GNY0/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
