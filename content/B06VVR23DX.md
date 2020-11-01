@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 25.91 % en Osprey Fairview 55 Women s Travel Pack w'
-date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4105Kdlt7rL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4105Kdlt7rL._SL200_.jpg' ]
+title: 'Descuento del 65.12 % en Osprey Fairview 55 Mochila de Viaje  Muj'
+date: 2020-11-01 12:03:50
+thumbnailImage: 'https://m.media-amazon.com/images/I/4105Kdlt7rL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/4105Kdlt7rL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06VVR23DX
 description:
-actualPrice: 125.95 EUR
-comparePrice: 170 EUR
+actualPrice: 59.3 EUR
+comparePrice: 170.0 EUR
 inStock: true
 ---
 
-Tienes [Osprey Fairview 55 Women s Travel Pack with 13L Detachable Daypack - Rainforest Green  WS/WM ](https://www.amazon.es/dp/B06VVR23DX/?tag=redken-21) con un 25.91 % de descuento con precio de oferta de 125.95 EUR (original: 170 EUR) en el siguiente enlace!
+Tienes [Osprey Fairview 55 Mochila de Viaje  Mujer  Verde  Rainforest Green   WS/WM](https://www.amazon.es/dp/B06VVR23DX/?tag=redken-21) con un 65.12 % de descuento con precio de oferta de 59.3 EUR (original: 170.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/4105Kdlt7rL._SL200_.jpg)](https://www.amazon.es/dp/B06VVR23DX/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/4105Kdlt7rL._SL200_.jpg)](https://www.amazon.es/dp/B06VVR23DX/?tag=redken-21)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06VVR23DX/?tag=redken-21)
 

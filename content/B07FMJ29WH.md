@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.99 % en Jabra Talk 25 Bluetooth Headset for High'
-date: 2020-10-31 12:17:19
+date: 2020-11-01 12:33:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31oTBEFbyLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31oTBEFbyLL._SL200_.jpg' ]
 comments: true
