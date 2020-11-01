@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi MI TV BOX S - Reproductor streami al 29.94 % de descuento'
-date: 2020-10-28 21:39:54
+date: 2020-11-01 19:46:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31sNKUGwNUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31sNKUGwNUL._SL200_.jpg' ]
 comments: true

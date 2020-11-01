@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'X-Men Origins: Wolverine [Blu-ray + Digi al 25.31 % de descuento'
-date: 2020-10-31 07:30:48
+date: 2020-11-01 19:10:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ESHE8zoFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ESHE8zoFL._SL200_.jpg' ]
 comments: true
