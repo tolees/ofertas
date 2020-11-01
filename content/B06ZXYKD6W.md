@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.27 % en COOLJOY Puzzles Enfant en Bois Magnétiqu'
-date: 2020-10-31 05:40:07
+date: 2020-11-01 05:54:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yYtLUABkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yYtLUABkL._SL200_.jpg' ]
 comments: true

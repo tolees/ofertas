@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.58 % en Teenii STEM Science Laboratoire de Physi'
-date: 2020-10-31 05:39:51
+date: 2020-11-01 05:51:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Hz5XUGB2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Hz5XUGB2L._SL200_.jpg' ]
 comments: true
