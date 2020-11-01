@@ -14,11 +14,11 @@ comparePrice: 3.29 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [M&M s Peanut Chocolate  Christmas Gifts  More to Share Pouch  268 g](https://www.amazon.co.uk/dp/B06XGL4KHM/?tag=redken01-21) a 1.99 GBP (original: 3.29 GBP) (39.51 %  de descuento) en el siguiente enlace!
+Está [M&M s Peanut Chocolate  Christmas Gifts  More to Share Pouch  268 g](https://www.amazon.co.uk/dp/B06XGL4KHM/?tag=redken01-21) con 39.51 de descuento por 1.99 GBP (original: 3.29 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51C9UFxaX8L._SL200_.jpg)](https://www.amazon.co.uk/dp/B06XGL4KHM/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B06XGL4KHM/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B06XGL4KHM/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
