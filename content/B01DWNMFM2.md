@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Verbatim PinStripe 128GB USB 3.0  3.1 Ge al 55.50 % de descuento'
-date: 2020-10-30 18:22:17
+date: 2020-11-01 13:34:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31toekOQUxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31toekOQUxL._SL200_.jpg' ]
 comments: true

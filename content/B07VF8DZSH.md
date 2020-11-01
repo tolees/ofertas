@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NYX Professional Makeup Kit de Maquillaj al 26.23 % de descuento'
-date: 2020-10-31 08:41:25
+date: 2020-11-01 13:14:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cG-ikfDGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cG-ikfDGL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pro-Dg KM-37990 2018 Mochila Infantil  40 cm](https://www.amazon.es/dp/B07D48LPQJ/?tag=redken-21) a 12.45 EUR (original: 39.9 EUR) (68.80 %  de descuento) en el siguiente enlace!
+Está [Pro-Dg KM-37990 2018 Mochila Infantil  40 cm](https://www.amazon.es/dp/B07D48LPQJ/?tag=redken-21) con 68.80 de descuento por 12.45 EUR (original: 39.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JPWEgPKoL._SL200_.jpg)](https://www.amazon.es/dp/B07D48LPQJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07D48LPQJ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07D48LPQJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
