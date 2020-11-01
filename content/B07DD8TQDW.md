@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.04 % en Pinypon - Belén  Famosa 700014348 '
-date: 2020-10-31 04:14:53
+date: 2020-11-01 04:51:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JgubMd4sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JgubMd4sL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zommuei Mini Trípode  Trípode Móvil Flex al 29.45 % de descuento'
-date: 2020-10-30 22:31:37
+date: 2020-11-01 04:30:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tuwrexQGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tuwrexQGL._SL200_.jpg' ]
 comments: true

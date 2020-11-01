@@ -14,11 +14,11 @@ comparePrice: 27.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Tech Ssc-Twist - Camiseta de manga corta para mujer  Mujer  1277206-001  Gris  Small](https://www.amazon.es/dp/B019ZFGN1K/?tag=redken-21) a 17.83 EUR (original: 27.99 EUR) (36.30 %  de descuento) en el siguiente enlace!
+Está [Under Armour Tech Ssc-Twist - Camiseta de manga corta para mujer  Mujer  1277206-001  Gris  Small](https://www.amazon.es/dp/B019ZFGN1K/?tag=redken-21) con 36.30 de descuento por 17.83 EUR (original: 27.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QIEghKPPL._SL200_.jpg)](https://www.amazon.es/dp/B019ZFGN1K/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B019ZFGN1K/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B019ZFGN1K/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
