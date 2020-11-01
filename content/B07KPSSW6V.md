@@ -14,11 +14,11 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Pop! Vinilo: Castlevania: Trevor Belmont](https://www.amazon.es/dp/B07KPSSW6V/?tag=redken-21) con 25.71 de descuento por 11.85 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pop! Vinilo: Castlevania: Trevor Belmont](https://www.amazon.es/dp/B07KPSSW6V/?tag=redken-21) a 11.85 EUR (original: 15.95 EUR) (25.71 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41QUKuFXBLL._SL200_.jpg)](https://www.amazon.es/dp/B07KPSSW6V/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KPSSW6V/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KPSSW6V/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

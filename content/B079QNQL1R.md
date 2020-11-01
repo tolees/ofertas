@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.52 % en Autoglym Polar Blast  2.5 L'
-date: 2020-10-29 17:39:39
+date: 2020-10-31 23:53:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CTXkhV1fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CTXkhV1fL._SL200_.jpg' ]
 comments: true

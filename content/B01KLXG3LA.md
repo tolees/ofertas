@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Andrex Classic Clean Toilet Tissue  45 T al 30.36 % de descuento'
-date: 2020-10-27 16:26:20
+title: 'Andrex Classic Clean Toilet Tissue  45 T al 33.33 % de descuento'
+date: 2020-10-31 23:03:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51U78vkeyyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51U78vkeyyL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01KLXG3LA
 description:
-actualPrice: 18.28 GBP
+actualPrice: 17.5 GBP
 comparePrice: 26.25 GBP
 inStock: true
 ---
 
-Está [Andrex Classic Clean Toilet Tissue  45 Toilet Rolls](https://www.amazon.co.uk/dp/B01KLXG3LA/?tag=redken01-21) con 30.36 de descuento por 18.28 GBP (original: 26.25 GBP) en el siguiente enlace!
+Está [Andrex Classic Clean Toilet Tissue  45 Toilet Rolls](https://www.amazon.co.uk/dp/B01KLXG3LA/?tag=redken01-21) con 33.33 de descuento por 17.5 GBP (original: 26.25 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51U78vkeyyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01KLXG3LA/?tag=redken01-21)
 
