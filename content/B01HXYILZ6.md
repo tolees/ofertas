@@ -14,11 +14,11 @@ comparePrice: 6.99 GBP
 inStock: true
 ---
 
-Está [Warhammer: End Times - Vermintide  Xbox One ](https://www.amazon.co.uk/dp/B01HXYILZ6/?tag=redken01-21) con 28.76 de descuento por 4.98 GBP (original: 6.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Warhammer: End Times - Vermintide  Xbox One ](https://www.amazon.co.uk/dp/B01HXYILZ6/?tag=redken01-21) a 4.98 GBP (original: 6.99 GBP) (28.76 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61iiVQw49SL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01HXYILZ6/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01HXYILZ6/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01HXYILZ6/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
