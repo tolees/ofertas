@@ -14,11 +14,11 @@ comparePrice: 14.18 EUR
 inStock: true
 ---
 
-Está [Exploding Kittens Streaking Kittens: La Seconda Espansione di Gattini che Esplodono Gioco](https://www.amazon.it/dp/B07FKWS4R6/?tag=redken03-21) con 57.76 de descuento por 5.99 EUR (original: 14.18 EUR) en el siguiente enlace!
+Ahora mismo tienes [Exploding Kittens Streaking Kittens: La Seconda Espansione di Gattini che Esplodono Gioco](https://www.amazon.it/dp/B07FKWS4R6/?tag=redken03-21) a 5.99 EUR (original: 14.18 EUR) (57.76 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41VDko0xzFL._SL200_.jpg)](https://www.amazon.it/dp/B07FKWS4R6/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07FKWS4R6/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B07FKWS4R6/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

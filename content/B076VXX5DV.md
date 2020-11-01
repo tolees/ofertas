@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Rovic Zip Relaxed 1/2-length  al 35.53 % de descuento'
-date: 2020-10-30 18:21:27
+date: 2020-11-01 00:35:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LMB2DD5jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LMB2DD5jL._SL200_.jpg' ]
 comments: true
