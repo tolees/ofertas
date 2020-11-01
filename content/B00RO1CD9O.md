@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ANSIO Craft Cutting Mat Self Healing A3  al 44.54 % de descuento'
-date: 2020-10-31 05:03:39
+date: 2020-11-01 11:02:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51s+u1iV4bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51s+u1iV4bL._SL200_.jpg' ]
 comments: true

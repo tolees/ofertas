@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 47.19 % en Sony Alpha 6000 Systemkamera  24 Megapix'
-date: 2020-10-30 17:07:34
+title: 'Sony Alpha 6000L - Kit Fotocamera Digita al 47.04 % de descuento'
+date: 2020-10-31 17:17:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B00IE9XHE0
 description:
-actualPrice: 474.8 EUR
-comparePrice: 899.0 EUR
+actualPrice: 476.65 EUR
+comparePrice: 900.0 EUR
 inStock: true
 ---
 
-Tienes [Sony Alpha 6000 Systemkamera  24 Megapixel  7 6 cm  3"  LCD-Display  Exmor APS-C Sensor  Full-HD  High Speed Hybrid AF  inkl. SEL-P1650 Objektiv schwarz](https://www.amazon.de/dp/B00IE9XHE0/?tag=redken02-21) con un 47.19 % de descuento con precio de oferta de 474.8 EUR (original: 899.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile Selp 16-50Mm  Sensore Aps-C  Video Avchd  Eye Af  Ilce6000B + Selp1650  Nero](https://www.amazon.it/dp/B00IE9XHE0/?tag=redken03-21) a 476.65 EUR (original: 900.0 EUR) (47.04 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg)](https://www.amazon.de/dp/B00IE9XHE0/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg)](https://www.amazon.it/dp/B00IE9XHE0/?tag=redken03-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00IE9XHE0/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.it/dp/B00IE9XHE0/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

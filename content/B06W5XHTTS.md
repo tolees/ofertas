@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 6933 - Voltigier-Training al 54.45 % de descuento'
-date: 2020-10-29 23:07:39
+date: 2020-11-01 11:32:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/610bqtvBZeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/610bqtvBZeL._SL200_.jpg' ]
 comments: true

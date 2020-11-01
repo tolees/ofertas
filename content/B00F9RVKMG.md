@@ -14,11 +14,11 @@ comparePrice: 65.0 EUR
 inStock: true
 ---
 
-Está [ACUVUE® OASYS with HYDRACLEAR® PLUS - Lentillas quincenales - protección UV - 12 lentes](https://www.amazon.es/dp/B00F9RVKMG/?tag=redken-21) con 58.57 de descuento por 26.93 EUR (original: 65.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [ACUVUE® OASYS with HYDRACLEAR® PLUS - Lentillas quincenales - protección UV - 12 lentes](https://www.amazon.es/dp/B00F9RVKMG/?tag=redken-21) a 26.93 EUR (original: 65.0 EUR) (58.57 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31oEebwyZAL._SL200_.jpg)](https://www.amazon.es/dp/B00F9RVKMG/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00F9RVKMG/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00F9RVKMG/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

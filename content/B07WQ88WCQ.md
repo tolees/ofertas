@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PlayStation Casque-micro sans fil PS4  A al 45.00 % de descuento'
-date: 2020-10-30 17:33:41
+date: 2020-11-01 11:54:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Md0yirdwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Md0yirdwL._SL200_.jpg' ]
 comments: true

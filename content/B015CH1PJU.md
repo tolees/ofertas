@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.16 % en SanDisk Ultra Flair Memoria flash USB 3.'
-date: 2020-10-30 14:55:35
+date: 2020-11-01 11:34:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uMfxnNmYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uMfxnNmYL._SL200_.jpg' ]
 comments: true
