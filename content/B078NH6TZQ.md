@@ -14,11 +14,11 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Gris  Light Carbon/Volt-Obsidian-Black 007   41 EU](https://www.amazon.es/dp/B078NH6TZQ/?tag=redken-21) a 38 EUR (original: 60 EUR) (36.67 %  de descuento) en el siguiente enlace!
+Está [Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Gris  Light Carbon/Volt-Obsidian-Black 007   41 EU](https://www.amazon.es/dp/B078NH6TZQ/?tag=redken-21) con 36.67 de descuento por 38 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417tLYrtYyL._SL200_.jpg)](https://www.amazon.es/dp/B078NH6TZQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078NH6TZQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078NH6TZQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
