@@ -14,11 +14,11 @@ comparePrice: 16.66 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [TOOHUI RGB Extensión Cable Conector para 5050 RGB LED Strip/Cable de luz Cinta 4 Pin  Conecte la Tira de LED al Adaptador de Corriente al Controlador con Conector de 4 pines](https://www.amazon.es/dp/B07KPJPDT6/?tag=redken-21) a 7.99 EUR (original: 16.66 EUR) (52.04 %  de descuento) en el siguiente enlace!
+Está [TOOHUI RGB Extensión Cable Conector para 5050 RGB LED Strip/Cable de luz Cinta 4 Pin  Conecte la Tira de LED al Adaptador de Corriente al Controlador con Conector de 4 pines](https://www.amazon.es/dp/B07KPJPDT6/?tag=redken-21) con 52.04 de descuento por 7.99 EUR (original: 16.66 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mCJunrEgL._SL200_.jpg)](https://www.amazon.es/dp/B07KPJPDT6/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KPJPDT6/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KPJPDT6/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
