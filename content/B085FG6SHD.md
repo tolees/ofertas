@@ -14,11 +14,11 @@ comparePrice: 269.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [realme 6 Smartphone  4 GB + 128 GB  Fotocamera AL QUAD da 64 MP  Display Ultra Fluido a 90 Hz da 16.5 cm  Processore Helio G90T  Blu  Comet Blue ](https://www.amazon.it/dp/B085FG6SHD/?tag=redken03-21) a 199.9 EUR (original: 269.99 EUR) (25.96 %  de descuento) en el siguiente enlace!
+Está [realme 6 Smartphone  4 GB + 128 GB  Fotocamera AL QUAD da 64 MP  Display Ultra Fluido a 90 Hz da 16.5 cm  Processore Helio G90T  Blu  Comet Blue ](https://www.amazon.it/dp/B085FG6SHD/?tag=redken03-21) con 25.96 de descuento por 199.9 EUR (original: 269.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Wo1hToglL._SL200_.jpg)](https://www.amazon.it/dp/B085FG6SHD/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B085FG6SHD/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B085FG6SHD/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

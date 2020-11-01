@@ -14,11 +14,11 @@ comparePrice: 39.98 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Saturday Night Live: Season 2  1976-1977](https://www.amazon.com/dp/B000VNMMVG/?tag=redken08-20) a 9.99 USD (original: 39.98 USD) (75.01 %  de descuento) en el siguiente enlace!
+Está [Saturday Night Live: Season 2  1976-1977](https://www.amazon.com/dp/B000VNMMVG/?tag=redken08-20) con 75.01 de descuento por 9.99 USD (original: 39.98 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41FOPr9r-wL._SL200_.jpg)](https://www.amazon.com/dp/B000VNMMVG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000VNMMVG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B000VNMMVG/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

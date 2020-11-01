@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI MediaPad T5 - Tablet de 10.1" Ful al 32.31 % de descuento'
-date: 2020-10-31 18:37:42
+date: 2020-11-01 20:41:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/4142TfFtsWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4142TfFtsWL._SL200_.jpg' ]
 comments: true

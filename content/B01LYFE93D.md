@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.69 % en Daniel Wellington Reloj analogico para U'
-date: 2020-10-17 19:52:07
+date: 2020-11-01 20:15:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bE63ovL5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bE63ovL5L._SL200_.jpg' ]
 comments: true

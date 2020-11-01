@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Maybelline Corrector de Ojeras  Bolsas e al 44.49 % de descuento'
-date: 2020-10-29 22:27:28
+title: 'Maybelline New York  Corrector de Ojeras al 26.51 % de descuento'
+date: 2020-11-01 20:31:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mEP4JYSIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mEP4JYSIL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07DHQYZ23
 description:
 actualPrice: 4.99 EUR
-comparePrice: 8.99 EUR
+comparePrice: 6.79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Maybelline Corrector de Ojeras  Bolsas e Imperfecciones Borrador Ojos Tono 00 Ivory pieles claras - 6.8 ML](https://www.amazon.es/dp/B07DHQYZ23/?tag=redken-21) a 4.99 EUR (original: 8.99 EUR) (44.49 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Maybelline New York  Corrector de Ojeras  Bolsas e Imperfecciones  Borrador Ojos  00 Ivory  6 ml](https://www.amazon.es/dp/B07DHQYZ23/?tag=redken-21) a 4.99 EUR (original: 6.79 EUR) (26.51 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31mEP4JYSIL._SL200_.jpg)](https://www.amazon.es/dp/B07DHQYZ23/?tag=redken-21)
 

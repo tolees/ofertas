@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Pop!- Marvel: Avengers Infinity Wa al 31.41 % de descuento'
-date: 2020-10-18 09:11:52
+title: 'Funko Pop!- Marvel: Avengers Infinity Wa al 30.09 % de descuento'
+date: 2020-11-01 20:41:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41p5a4u6CZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41p5a4u6CZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079PHFVPK
 description:
-actualPrice: 10.94 EUR
+actualPrice: 11.15 EUR
 comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop!- Marvel: Avengers Infinity War Figura de Vinilo  26900 ](https://www.amazon.es/dp/B079PHFVPK/?tag=redken-21) a 10.94 EUR (original: 15.95 EUR) (31.41 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop!- Marvel: Avengers Infinity War Figura de Vinilo  26900 ](https://www.amazon.es/dp/B079PHFVPK/?tag=redken-21) a 11.15 EUR (original: 15.95 EUR) (30.09 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41p5a4u6CZL._SL200_.jpg)](https://www.amazon.es/dp/B079PHFVPK/?tag=redken-21)
 

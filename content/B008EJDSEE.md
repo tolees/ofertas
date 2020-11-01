@@ -14,11 +14,11 @@ comparePrice: 19.33 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kill the Gringo [Francia] [Blu-ray]](https://www.amazon.es/dp/B008EJDSEE/?tag=redken-21) a 7.46 EUR (original: 19.33 EUR) (61.41 %  de descuento) en el siguiente enlace!
+Está [Kill the Gringo [Francia] [Blu-ray]](https://www.amazon.es/dp/B008EJDSEE/?tag=redken-21) con 61.41 de descuento por 7.46 EUR (original: 19.33 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Qaf6W3WIL._SL200_.jpg)](https://www.amazon.es/dp/B008EJDSEE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008EJDSEE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008EJDSEE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
