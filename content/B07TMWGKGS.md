@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TURATA Bolsas de Bicicleta  Bolsa Imperm al 39.39 % de descuento'
-date: 2020-10-31 12:26:30
+date: 2020-11-01 18:41:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oO8eWmN9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oO8eWmN9L._SL200_.jpg' ]
 comments: true

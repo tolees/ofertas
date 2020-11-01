@@ -14,11 +14,11 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Barstow Western Camisa Vaquera  Azul  Shadow Tint Dark 0277   Small para Hombre](https://www.amazon.es/dp/B07F27SQYK/?tag=redken-21) a 49.91 EUR (original: 80 EUR) (37.61 %  de descuento) en el siguiente enlace!
+Está [Levi s Barstow Western Camisa Vaquera  Azul  Shadow Tint Dark 0277   Small para Hombre](https://www.amazon.es/dp/B07F27SQYK/?tag=redken-21) con 37.61 de descuento por 49.91 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2B-3rq2hRL._SL200_.jpg)](https://www.amazon.es/dp/B07F27SQYK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07F27SQYK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07F27SQYK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

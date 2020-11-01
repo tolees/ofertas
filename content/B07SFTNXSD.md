@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CooSpo Heart Rate Monitor ANT + Bluetoot al 25.76 % de descuento'
-date: 2020-10-31 17:44:25
+date: 2020-11-01 18:26:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41H6iF2MEIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41H6iF2MEIL._SL200_.jpg' ]
 comments: true

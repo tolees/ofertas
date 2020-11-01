@@ -14,11 +14,11 @@ comparePrice: 19.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Certified Business Analysis Professional: The Certification Exam Guide](https://www.amazon.com/dp/B01MREEKQK/?tag=redken08-20) a 0.99 USD (original: 19.99 USD) (95.05 %  de descuento) en el siguiente enlace!
+Está [Certified Business Analysis Professional: The Certification Exam Guide](https://www.amazon.com/dp/B01MREEKQK/?tag=redken08-20) con 95.05 de descuento por 0.99 USD (original: 19.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41POPEFPqGL._SL200_.jpg)](https://www.amazon.com/dp/B01MREEKQK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MREEKQK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MREEKQK/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

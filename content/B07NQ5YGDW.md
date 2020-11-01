@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link UB400 Nano USB Bluetooth 4.0 Ada al 27.29 % de descuento'
-date: 2020-10-31 12:17:14
+date: 2020-11-01 18:39:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/412OOSCOosL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412OOSCOosL._SL200_.jpg' ]
 comments: true
