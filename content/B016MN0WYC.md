@@ -14,11 +14,11 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Está [UDG Creator Novation Launchpad Pro Hardcase Black U8430BL](https://www.amazon.co.uk/dp/B016MN0WYC/?tag=redken01-21) con 37.75 de descuento por 18.67 GBP (original: 29.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [UDG Creator Novation Launchpad Pro Hardcase Black U8430BL](https://www.amazon.co.uk/dp/B016MN0WYC/?tag=redken01-21) a 18.67 GBP (original: 29.99 GBP) (37.75 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ZdF-VQe4L._SL200_.jpg)](https://www.amazon.co.uk/dp/B016MN0WYC/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B016MN0WYC/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B016MN0WYC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

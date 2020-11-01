@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 502 Regular Taper Jeans  Azul  Ro al 35.88 % de descuento'
-date: 2020-10-30 08:26:16
+date: 2020-11-01 08:24:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg' ]
 comments: true

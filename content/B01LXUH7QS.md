@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Olympus Pen E-PL8 Kit  Cámara de Sistema al 25.88 % de descuento'
+title: 'Descuento del 25.88 % en Olympus Pen E-PL8 Kit  Cámara de Sistema'
 date: 2020-10-30 13:00:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZF2mg4IoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZF2mg4IoL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 599.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Olympus Pen E-PL8 Kit  Cámara de Sistema Micro Cuatro Tercios  16 4 MP  Estabilizador de Imagen de 5 Ejes  Visor Electrónico  FHD Vídeo  + Objetivo M.Zuiko 14-42mm EZ  marrón/Negro](https://www.amazon.es/dp/B01LXUH7QS/?tag=redken-21) a 443.95 EUR (original: 599.0 EUR) (25.88 %  de descuento) en el siguiente enlace!
+Tienes [Olympus Pen E-PL8 Kit  Cámara de Sistema Micro Cuatro Tercios  16 4 MP  Estabilizador de Imagen de 5 Ejes  Visor Electrónico  FHD Vídeo  + Objetivo M.Zuiko 14-42mm EZ  marrón/Negro](https://www.amazon.es/dp/B01LXUH7QS/?tag=redken-21) con un 25.88 % de descuento con precio de oferta de 443.95 EUR (original: 599.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ZF2mg4IoL._SL200_.jpg)](https://www.amazon.es/dp/B01LXUH7QS/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01LXUH7QS/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B01LXUH7QS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
