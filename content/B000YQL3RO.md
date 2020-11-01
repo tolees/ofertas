@@ -14,11 +14,11 @@ comparePrice: 21.71 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pippi Langstrumpf 44.3691.00 El caballo y el mono Set de 2 figuras](https://www.amazon.es/dp/B000YQL3RO/?tag=redken-21) a 14.61 EUR (original: 21.71 EUR) (32.70 %  de descuento) en el siguiente enlace!
+Está [Pippi Langstrumpf 44.3691.00 El caballo y el mono Set de 2 figuras](https://www.amazon.es/dp/B000YQL3RO/?tag=redken-21) con 32.70 de descuento por 14.61 EUR (original: 21.71 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41LrzzTzW0L._SL200_.jpg)](https://www.amazon.es/dp/B000YQL3RO/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000YQL3RO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000YQL3RO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
