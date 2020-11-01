@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bandas Elasticas Gluteos  Juego de 3 Ban al 32.02 % de descuento'
-date: 2020-10-27 21:55:24
+date: 2020-11-01 14:45:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51beqam4GHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51beqam4GHL._SL200_.jpg' ]
 comments: true
