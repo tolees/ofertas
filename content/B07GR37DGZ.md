@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel XSES15/3 Sign Pen Brush "touch" K al 42.30 % de descuento'
-date: 2020-10-30 11:21:37
+date: 2020-11-01 17:42:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31J3nbw2T-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31J3nbw2T-L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Breville BES001XL Knock Box Mini  Stainl al 60.09 % de descuento'
-date: 2020-10-31 11:42:39
+date: 2020-11-01 17:57:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rShGoKP6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rShGoKP6L._SL200_.jpg' ]
 comments: true

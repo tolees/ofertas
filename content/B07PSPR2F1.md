@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Bourjois Velvet The Pencil - Pintalabios al 67.25 % de descuento'
-date: 2020-10-27 20:54:16
+title: 'Bourjois Velvet The Pencil - Pintalabios al 30.49 % de descuento'
+date: 2020-11-01 17:54:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dtmK0PdhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dtmK0PdhL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PSPR2F1
 description:
-actualPrice: 3.91 EUR
+actualPrice: 8.3 EUR
 comparePrice: 11.94 EUR
 inStock: true
 ---
 
-Está [Bourjois Velvet The Pencil - Pintalabios Tono 16 Rouge Di vin  3g](https://www.amazon.es/dp/B07PSPR2F1/?tag=redken-21) con 67.25 de descuento por 3.91 EUR (original: 11.94 EUR) en el siguiente enlace!
+Está [Bourjois Velvet The Pencil - Pintalabios Tono 16 Rouge Di vin  3g](https://www.amazon.es/dp/B07PSPR2F1/?tag=redken-21) con 30.49 de descuento por 8.3 EUR (original: 11.94 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31dtmK0PdhL._SL200_.jpg)](https://www.amazon.es/dp/B07PSPR2F1/?tag=redken-21)
 

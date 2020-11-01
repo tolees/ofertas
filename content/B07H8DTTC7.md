@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pinypon - Caperucita Roja con mini Casit al 36.26 % de descuento'
-date: 2020-10-31 16:40:52
+date: 2020-11-01 17:10:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uAQylNVxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uAQylNVxL._SL200_.jpg' ]
 comments: true

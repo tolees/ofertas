@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Foto de Clase  Puzzle infantil d al 25.75 % de descuento'
-date: 2020-10-29 10:07:58
+date: 2020-11-01 17:39:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/61-yUraD-pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61-yUraD-pL._SL200_.jpg' ]
 comments: true
