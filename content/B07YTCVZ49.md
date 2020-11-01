@@ -14,11 +14,11 @@ comparePrice: 14.25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [My Days of Mercy [Blu-ray]](https://www.amazon.de/dp/B07YTCVZ49/?tag=redken02-21) a 10.32 EUR (original: 14.25 EUR) (27.58 %  de descuento) en el siguiente enlace!
+Está [My Days of Mercy [Blu-ray]](https://www.amazon.de/dp/B07YTCVZ49/?tag=redken02-21) con 27.58 de descuento por 10.32 EUR (original: 14.25 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51uv07s-KlL._SL200_.jpg)](https://www.amazon.de/dp/B07YTCVZ49/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07YTCVZ49/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07YTCVZ49/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
