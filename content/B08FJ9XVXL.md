@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.89 % en Barre de Son TV Barre de Son Bluetooth S'
-date: 2020-10-31 23:49:29
+date: 2020-11-02 00:37:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/21vLvCDCR3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21vLvCDCR3L._SL200_.jpg' ]
 comments: true

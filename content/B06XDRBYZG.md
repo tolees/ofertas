@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Bottom Pant Jogger Pantalon al 34.36 % de descuento'
-date: 2020-10-31 05:37:47
+date: 2020-11-02 00:12:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ypstkvbML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ypstkvbML._SL200_.jpg' ]
 comments: true
