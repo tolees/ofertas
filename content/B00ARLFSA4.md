@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polaroid P8339 LA KIH Gafas de sol  Negr al 29.88 % de descuento'
-date: 2020-11-01 08:23:00
+date: 2020-11-02 10:10:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+E7qkZaOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+E7qkZaOL._SL200_.jpg' ]
 comments: true
