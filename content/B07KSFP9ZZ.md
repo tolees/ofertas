@@ -14,11 +14,11 @@ comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Verde  Cypress Heather    Talla XL](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=redken-21) a 50.59 EUR (original: 119.99 EUR) (57.84 %  de descuento) en el siguiente enlace!
+Está [Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Verde  Cypress Heather    Talla XL](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=redken-21) con 57.84 de descuento por 50.59 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uhbne05kL._SL200_.jpg)](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

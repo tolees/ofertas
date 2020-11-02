@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goliath Games GL60056 WordSearch Fun Wor al 40.15 % de descuento'
-date: 2020-11-01 07:56:47
+date: 2020-11-02 08:12:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SZ3P0iTRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SZ3P0iTRL._SL200_.jpg' ]
 comments: true
