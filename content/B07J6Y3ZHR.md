@@ -14,11 +14,11 @@ comparePrice: 284.36 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [STANLEY FATMAX FMCK463D2T-QW – Taladro percutor Brushless y atornillador de impacto Brushless 18V con 2 baterías de litio 2Ah y caja de herramientas TSTAK](https://www.amazon.es/dp/B07J6Y3ZHR/?tag=redken-21) a 166.65 EUR (original: 284.36 EUR) (41.39 %  de descuento) en el siguiente enlace!
+Está [STANLEY FATMAX FMCK463D2T-QW – Taladro percutor Brushless y atornillador de impacto Brushless 18V con 2 baterías de litio 2Ah y caja de herramientas TSTAK](https://www.amazon.es/dp/B07J6Y3ZHR/?tag=redken-21) con 41.39 de descuento por 166.65 EUR (original: 284.36 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ushP39H+L._SL200_.jpg)](https://www.amazon.es/dp/B07J6Y3ZHR/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07J6Y3ZHR/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07J6Y3ZHR/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
