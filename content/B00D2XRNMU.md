@@ -14,11 +14,11 @@ comparePrice: 4.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Colgate 360° - Cepillo de Dientes Medio con Limpiador de Lengua- Pack de 2](https://www.amazon.es/dp/B00D2XRNMU/?tag=redken-21) a 2.99 EUR (original: 4.98 EUR) (39.96 %  de descuento) en el siguiente enlace!
+Está [Colgate 360° - Cepillo de Dientes Medio con Limpiador de Lengua- Pack de 2](https://www.amazon.es/dp/B00D2XRNMU/?tag=redken-21) con 39.96 de descuento por 2.99 EUR (original: 4.98 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ttPcEIDBL._SL200_.jpg)](https://www.amazon.es/dp/B00D2XRNMU/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00D2XRNMU/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00D2XRNMU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
