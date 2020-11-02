@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.71 % en Rizmo Berry  Mascota Interactiva  BIZAK '
-date: 2020-11-01 10:48:05
+date: 2020-11-02 11:26:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DWHXo4xkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DWHXo4xkL._SL200_.jpg' ]
 comments: true

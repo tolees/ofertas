@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'STAEDTLER 185 CD36 Noris Colouring Penci al 37.53 % de descuento'
-date: 2020-10-31 17:59:12
+title: 'STAEDTLER 185 CD36 Noris Colouring Penci al 37.24 % de descuento'
+date: 2020-11-02 11:49:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tm3P1Lp8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tm3P1Lp8L._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07CXYN3DR
 description:
 actualPrice: 5.36 GBP
-comparePrice: 8.58 GBP
+comparePrice: 8.54 GBP
 inStock: true
 ---
 
-Está [STAEDTLER 185 CD36 Noris Colouring Pencil  Assorted Colours  Pack of 36](https://www.amazon.co.uk/dp/B07CXYN3DR/?tag=redken01-21) con 37.53 de descuento por 5.36 GBP (original: 8.58 GBP) en el siguiente enlace!
+Está [STAEDTLER 185 CD36 Noris Colouring Pencil  Assorted Colours  Pack of 36](https://www.amazon.co.uk/dp/B07CXYN3DR/?tag=redken01-21) con 37.24 de descuento por 5.36 GBP (original: 8.54 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51tm3P1Lp8L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07CXYN3DR/?tag=redken01-21)
 

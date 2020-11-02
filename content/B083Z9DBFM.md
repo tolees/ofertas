@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.40 % en Samsung Galaxy A71   Smartphone  Display'
-date: 2020-10-26 16:11:01
+date: 2020-11-02 11:20:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r-nxN87+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r-nxN87+L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MK850 Multi-Device Wireless Key al 33.25 % de descuento'
-date: 2020-11-01 05:32:59
+date: 2020-11-02 11:56:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gQCXOS0jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gQCXOS0jL._SL200_.jpg' ]
 comments: true
