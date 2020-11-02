@@ -14,11 +14,11 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Simon & Tom - Serum nutritivo para controlar el encrespamiento y el pelo rizado - 100ML - Con Aceite de Argán Orgánico](https://www.amazon.es/dp/B01NBKJEN7/?tag=redken-21) a 12.9 EUR (original: 39.9 EUR) (67.67 %  de descuento) en el siguiente enlace!
+Está [Simon & Tom - Serum nutritivo para controlar el encrespamiento y el pelo rizado - 100ML - Con Aceite de Argán Orgánico](https://www.amazon.es/dp/B01NBKJEN7/?tag=redken-21) con 67.67 de descuento por 12.9 EUR (original: 39.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51D2hEQszsL._SL200_.jpg)](https://www.amazon.es/dp/B01NBKJEN7/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01NBKJEN7/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01NBKJEN7/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

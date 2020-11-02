@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ditzz Technic Offroad Vehicle Building S al 30.11 % de descuento'
-date: 2020-11-01 11:14:05
+date: 2020-11-02 12:06:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CPWEqPFbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CPWEqPFbL._SL200_.jpg' ]
 comments: true

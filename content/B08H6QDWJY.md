@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.95 % en Antebellum [DVD]'
-date: 2020-11-01 12:33:49
+date: 2020-11-02 12:51:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/413XImaN3zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413XImaN3zL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.00 % en 7788 Yoga Pants High Waist Sports Gym Le'
-date: 2020-10-31 17:53:53
+date: 2020-11-02 12:01:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-f5G+l61L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-f5G+l61L._SL200_.jpg' ]
 comments: true
