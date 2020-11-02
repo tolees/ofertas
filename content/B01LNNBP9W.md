@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kodak PIXPRO AZ252 Cámara Puente 16MP 1/ al 27.36 % de descuento'
-date: 2020-10-12 19:06:05
+date: 2020-11-02 09:31:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Aqx+5xL7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Aqx+5xL7L._SL200_.jpg' ]
 comments: true

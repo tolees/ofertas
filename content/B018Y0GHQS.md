@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Keter Capri Arcón exterior  Marrón  53.5 al 28.66 % de descuento'
-date: 2020-11-01 09:45:25
+date: 2020-11-02 09:55:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WFg5Rf8ML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WFg5Rf8ML._SL200_.jpg' ]
 comments: true

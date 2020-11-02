@@ -14,11 +14,11 @@ comparePrice: 8.81 EUR
 inStock: true
 ---
 
-Está [REPSOL MOTO SCOOTER 2T](https://www.amazon.es/dp/B01MYV6SJO/?tag=redken-21) con 37.57 de descuento por 5.5 EUR (original: 8.81 EUR) en el siguiente enlace!
+Ahora mismo tienes [REPSOL MOTO SCOOTER 2T](https://www.amazon.es/dp/B01MYV6SJO/?tag=redken-21) a 5.5 EUR (original: 8.81 EUR) (37.57 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4178%2BhTgBZL._SL200_.jpg)](https://www.amazon.es/dp/B01MYV6SJO/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01MYV6SJO/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01MYV6SJO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
