@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.02 % en OMERIL Corrector Postura Espalda  Correc'
-date: 2020-11-01 10:48:07
+date: 2020-11-02 15:16:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Vk26pgPxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Vk26pgPxL._SL200_.jpg' ]
 comments: true
