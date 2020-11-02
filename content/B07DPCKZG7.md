@@ -14,11 +14,11 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Burton Deringer Mascara  Mujer  Blanco/Rosa  Sonar   Talla Única](https://www.amazon.es/dp/B07DPCKZG7/?tag=redken-21) a 65.78 EUR (original: 110 EUR) (40.20 %  de descuento) en el siguiente enlace!
+Está [Burton Deringer Mascara  Mujer  Blanco/Rosa  Sonar   Talla Única](https://www.amazon.es/dp/B07DPCKZG7/?tag=redken-21) con 40.20 de descuento por 65.78 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.es/dp/B07DPCKZG7/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DPCKZG7/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DPCKZG7/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

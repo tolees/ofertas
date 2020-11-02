@@ -14,11 +14,11 @@ comparePrice: 23.16 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 44230 POP. Town: Harry Potter-Hagrid s Hut w/Fang Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07RVLFG8B/?tag=redken01-21) a 16.1 GBP (original: 23.16 GBP) (30.48 %  de descuento) en el siguiente enlace!
+Está [Funko 44230 POP. Town: Harry Potter-Hagrid s Hut w/Fang Collectible Figure  Multicolour](https://www.amazon.co.uk/dp/B07RVLFG8B/?tag=redken01-21) con 30.48 de descuento por 16.1 GBP (original: 23.16 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41-rDe5U0dL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07RVLFG8B/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07RVLFG8B/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07RVLFG8B/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

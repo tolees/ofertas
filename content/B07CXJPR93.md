@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.36 % en Beauty Glazed - Juego de pintalabios líq'
-date: 2020-11-01 09:59:18
+date: 2020-11-02 13:18:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Uigh8DouL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Uigh8DouL._SL200_.jpg' ]
 comments: true
