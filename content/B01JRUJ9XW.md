@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 35.69 % en Buff Merino  Gorro lana unisex  Negro   '
-date: 2020-01-29 19:58:43
-thumbnailImage: 'https://m.media-amazon.com/images/I/31EkCWBv+kL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31EkCWBv+kL._AC_._SL200_.jpg' ]
+title: 'Buff Merino Wool Unisex Headwear  Black  al 51.82 % de descuento'
+date: 2020-11-02 20:27:06
+thumbnailImage: 'https://m.media-amazon.com/images/I/31EkCWBv+kL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31EkCWBv+kL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01JRUJ9XW
 description:
-actualPrice: 19.26 EUR
-comparePrice: 29.95 EUR
+actualPrice: 13.49 GBP
+comparePrice: 28.0 GBP
 inStock: true
 ---
 
-Tienes [Buff Merino  Gorro lana unisex  Negro   Thermalblack   Talla unica](https://www.amazon.es/dp/B01JRUJ9XW/?tag=redken-21) con un 35.69 % de descuento con precio de oferta de 19.26 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [Buff Merino Wool Unisex Headwear  Black  Thermalblack   Adult/One Size](https://www.amazon.co.uk/dp/B01JRUJ9XW/?tag=redken01-21) con 51.82 de descuento por 13.49 GBP (original: 28.0 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31EkCWBv+kL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01JRUJ9XW/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/31EkCWBv+kL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01JRUJ9XW/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01JRUJ9XW/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B01JRUJ9XW/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
