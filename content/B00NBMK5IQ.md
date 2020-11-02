@@ -14,11 +14,11 @@ comparePrice: 19.75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [KOH-I-NOOR 3822 Mona Lisa Artist s Coloured Pencils - Assorted Colour  Blister of 12 ](https://www.amazon.es/dp/B00NBMK5IQ/?tag=redken-21) a 8.06 EUR (original: 19.75 EUR) (59.19 %  de descuento) en el siguiente enlace!
+Está [KOH-I-NOOR 3822 Mona Lisa Artist s Coloured Pencils - Assorted Colour  Blister of 12 ](https://www.amazon.es/dp/B00NBMK5IQ/?tag=redken-21) con 59.19 de descuento por 8.06 EUR (original: 19.75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51mQ3fFfatL._SL200_.jpg)](https://www.amazon.es/dp/B00NBMK5IQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00NBMK5IQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00NBMK5IQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
