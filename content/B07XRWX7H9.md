@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'It Capítulo 2 [DVD] al 50.04 % de descuento'
-date: 2020-10-31 19:01:30
+title: 'It Capítulo 2 [DVD] al 50.32 % de descuento'
+date: 2020-11-02 06:49:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jRGagAeLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jRGagAeLL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07XRWX7H9
 description:
-actualPrice: 6.99 EUR
+actualPrice: 6.95 EUR
 comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Está [It Capítulo 2 [DVD]](https://www.amazon.es/dp/B07XRWX7H9/?tag=redken-21) con 50.04 de descuento por 6.99 EUR (original: 13.99 EUR) en el siguiente enlace!
+Está [It Capítulo 2 [DVD]](https://www.amazon.es/dp/B07XRWX7H9/?tag=redken-21) con 50.32 de descuento por 6.95 EUR (original: 13.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41jRGagAeLL._SL200_.jpg)](https://www.amazon.es/dp/B07XRWX7H9/?tag=redken-21)
 

@@ -14,11 +14,11 @@ comparePrice: 1.54 EUR
 inStock: true
 ---
 
-Está [Gullón - Barquillos sin azúcar vainilla Diet Nature Pack de 3  180g](https://www.amazon.es/dp/B005SYQ2ZU/?tag=redken-21) con 25.32 de descuento por 1.15 EUR (original: 1.54 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gullón - Barquillos sin azúcar vainilla Diet Nature Pack de 3  180g](https://www.amazon.es/dp/B005SYQ2ZU/?tag=redken-21) a 1.15 EUR (original: 1.54 EUR) (25.32 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41IvZQDALQL._SL200_.jpg)](https://www.amazon.es/dp/B005SYQ2ZU/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B005SYQ2ZU/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B005SYQ2ZU/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
