@@ -14,11 +14,11 @@ comparePrice: 17.24 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [King Arthur: Il Potere della Spada  Steelbook ](https://www.amazon.it/dp/B072VDVR6K/?tag=redken03-21) a 11.99 EUR (original: 17.24 EUR) (30.45 %  de descuento) en el siguiente enlace!
+Está [King Arthur: Il Potere della Spada  Steelbook ](https://www.amazon.it/dp/B072VDVR6K/?tag=redken03-21) con 30.45 de descuento por 11.99 EUR (original: 17.24 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/410IqMld0jL._SL200_.jpg)](https://www.amazon.it/dp/B072VDVR6K/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B072VDVR6K/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B072VDVR6K/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

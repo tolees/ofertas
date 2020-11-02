@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s June L S  Chanclas para Mujer  Ne al 34.04 % de descuento'
-date: 2020-10-03 15:10:44
+date: 2020-11-02 02:04:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31irdi3Mj3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31irdi3Mj3L._SL200_.jpg' ]
 comments: true
