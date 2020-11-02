@@ -14,11 +14,11 @@ comparePrice: 14.39 GBP
 inStock: true
 ---
 
-Está [ANSIO Craft Cutting Mat Self Healing A3 Double Sided 5 Layers - Quilting  Sewing  Scrapbooking  Fabric & Papercraft - Imperial/Metric 17 Inch x 11 Inch / 42cm x 27cm - Green/Green](https://www.amazon.co.uk/dp/B00RO1CD9O/?tag=redken01-21) con 44.54 de descuento por 7.98 GBP (original: 14.39 GBP) en el siguiente enlace!
+Ahora mismo tienes [ANSIO Craft Cutting Mat Self Healing A3 Double Sided 5 Layers - Quilting  Sewing  Scrapbooking  Fabric & Papercraft - Imperial/Metric 17 Inch x 11 Inch / 42cm x 27cm - Green/Green](https://www.amazon.co.uk/dp/B00RO1CD9O/?tag=redken01-21) a 7.98 GBP (original: 14.39 GBP) (44.54 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51s+u1iV4bL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00RO1CD9O/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B00RO1CD9O/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B00RO1CD9O/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

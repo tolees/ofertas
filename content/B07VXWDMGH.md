@@ -14,11 +14,11 @@ comparePrice: 6.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Once Upon a Time in... Hollywood [DVD] [2019]](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21) a 5.0 GBP (original: 6.99 GBP) (28.47 %  de descuento) en el siguiente enlace!
+Está [Once Upon a Time in... Hollywood [DVD] [2019]](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21) con 28.47 de descuento por 5.0 GBP (original: 6.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/517NNeYO+tL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

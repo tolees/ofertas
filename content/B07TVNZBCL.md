@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Kit de Iluminación Led para Lego Architecture New York City  Compatible con Ladrillos de Construcción Lego Modelo 21028  Juego de Legos no Incluido](https://www.amazon.es/dp/B07TVNZBCL/?tag=redken-21) con 42.01 de descuento por 28.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Architecture New York City  Compatible con Ladrillos de Construcción Lego Modelo 21028  Juego de Legos no Incluido](https://www.amazon.es/dp/B07TVNZBCL/?tag=redken-21) a 28.99 EUR (original: 49.99 EUR) (42.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ZywahHTbL._SL200_.jpg)](https://www.amazon.es/dp/B07TVNZBCL/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07TVNZBCL/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07TVNZBCL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
