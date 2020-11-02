@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Didisky Pellicola Protettiva in Vetro Te al 83.36 % de descuento'
-date: 2020-10-31 22:49:14
+date: 2020-11-01 23:47:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51h21pC678L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51h21pC678L._SL200_.jpg' ]
 comments: true

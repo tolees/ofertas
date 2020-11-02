@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 75UN71006LC 189 cm  75 Zoll  UHD Fern al 40.65 % de descuento'
-date: 2020-10-29 11:23:50
+date: 2020-11-01 23:58:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pFq4bK7bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pFq4bK7bL._SL200_.jpg' ]
 comments: true

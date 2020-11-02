@@ -14,11 +14,11 @@ comparePrice: 26.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Scitec Nutrition Whey Protein Professional Proteína con Sabor de Chocolate Avellana - 920 g](https://www.amazon.es/dp/B004EPYEP4/?tag=redken-21) a 19.49 EUR (original: 26.9 EUR) (27.55 %  de descuento) en el siguiente enlace!
+Está [Scitec Nutrition Whey Protein Professional Proteína con Sabor de Chocolate Avellana - 920 g](https://www.amazon.es/dp/B004EPYEP4/?tag=redken-21) con 27.55 de descuento por 19.49 EUR (original: 26.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51YvjVr6HPL._SL200_.jpg)](https://www.amazon.es/dp/B004EPYEP4/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B004EPYEP4/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B004EPYEP4/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

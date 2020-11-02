@@ -14,11 +14,11 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PETG 3D filament SUNLU 1.75mm 1KG 2.2lb   PETG 3D Printer Filament  Dimensional Accuracy +/- 0.02 mm  1 kg Spool  1.75 mm  Green PETG+ Brand: SUNLU](https://www.amazon.es/dp/B079BWSK5T/?tag=redken-21) a 25.99 EUR (original: 59.99 EUR) (56.68 %  de descuento) en el siguiente enlace!
+Está [PETG 3D filament SUNLU 1.75mm 1KG 2.2lb   PETG 3D Printer Filament  Dimensional Accuracy +/- 0.02 mm  1 kg Spool  1.75 mm  Green PETG+ Brand: SUNLU](https://www.amazon.es/dp/B079BWSK5T/?tag=redken-21) con 56.68 de descuento por 25.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51NzI7wdTyL._SL200_.jpg)](https://www.amazon.es/dp/B079BWSK5T/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079BWSK5T/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079BWSK5T/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
