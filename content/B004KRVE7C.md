@@ -14,11 +14,11 @@ comparePrice: 2.82 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Sally Hansen Hard as Nails Xtreme Wear  Sun Kissed  0.4 Fluid Ounce](https://www.amazon.com/dp/B004KRVE7C/?tag=redken08-20) a 1.8 USD (original: 2.82 USD) (36.17 %  de descuento) en el siguiente enlace!
+Está [Sally Hansen Hard as Nails Xtreme Wear  Sun Kissed  0.4 Fluid Ounce](https://www.amazon.com/dp/B004KRVE7C/?tag=redken08-20) con 36.17 de descuento por 1.8 USD (original: 2.82 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41HmOtJ5LkL._SL200_.jpg)](https://www.amazon.com/dp/B004KRVE7C/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B004KRVE7C/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B004KRVE7C/?tag=redken08-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
