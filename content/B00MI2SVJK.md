@@ -14,11 +14,11 @@ comparePrice: 18.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bed Head by TIGI Cera Mate 57 g](https://www.amazon.es/dp/B00MI2SVJK/?tag=redken-21) a 7.32 EUR (original: 18.5 EUR) (60.43 %  de descuento) en el siguiente enlace!
+Está [Bed Head by TIGI Cera Mate 57 g](https://www.amazon.es/dp/B00MI2SVJK/?tag=redken-21) con 60.43 de descuento por 7.32 EUR (original: 18.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MT%2BjeB-EL._SL200_.jpg)](https://www.amazon.es/dp/B00MI2SVJK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00MI2SVJK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00MI2SVJK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

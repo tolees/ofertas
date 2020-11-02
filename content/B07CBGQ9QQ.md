@@ -14,11 +14,11 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hackett London HKT 1 Rugby  Polo para Hombre  Marfil  Chalk 837  M](https://www.amazon.es/dp/B07CBGQ9QQ/?tag=redken-21) a 63.68 EUR (original: 130 EUR) (51.02 %  de descuento) en el siguiente enlace!
+Está [Hackett London HKT 1 Rugby  Polo para Hombre  Marfil  Chalk 837  M](https://www.amazon.es/dp/B07CBGQ9QQ/?tag=redken-21) con 51.02 de descuento por 63.68 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zhGzVgqlL._SL200_.jpg)](https://www.amazon.es/dp/B07CBGQ9QQ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07CBGQ9QQ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CBGQ9QQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
