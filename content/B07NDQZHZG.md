@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.22 % en Samsung Galaxy Watch Active – Smartwatch'
-date: 2020-10-28 15:27:21
+date: 2020-11-02 17:03:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tnPalRYXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tnPalRYXL._SL200_.jpg' ]
 comments: true
