@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.30 % en Braun HC5090 - Máquina de Cortar Pelo Pr'
-date: 2020-11-01 18:39:13
+date: 2020-11-03 07:14:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/5188tKsQ03L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5188tKsQ03L._SL200_.jpg' ]
 comments: true

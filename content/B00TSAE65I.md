@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scholl Plantillas Gel Activ Profesional  al 45.05 % de descuento'
-date: 2020-11-02 04:05:50
+date: 2020-11-03 06:25:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41I3fDKi0VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41I3fDKi0VL._SL200_.jpg' ]
 comments: true

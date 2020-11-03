@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WA850RE WLAN Repeater  300 Mb al 32.13 % de descuento'
-date: 2020-11-01 12:34:04
+date: 2020-11-03 07:07:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg' ]
 comments: true

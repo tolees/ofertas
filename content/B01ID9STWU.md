@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Basic Brief 2P - Calzoncillos para  al 33.36 % de descuento'
-date: 2020-11-01 19:01:34
+date: 2020-11-03 07:42:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eioILULyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eioILULyL._SL200_.jpg' ]
 comments: true

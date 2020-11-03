@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Levi s SS Original Hm tee Camiseta  Colo'
-date: 2020-11-01 12:32:20
+date: 2020-11-03 07:01:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Up2Wyoa3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Up2Wyoa3L._SL200_.jpg' ]
 comments: true

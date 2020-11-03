@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en SuSenGo Titanic Building Block Kit 1021 '
-date: 2020-11-02 06:03:32
+date: 2020-11-03 06:24:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/516-io6HmKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516-io6HmKL._SL200_.jpg' ]
 comments: true

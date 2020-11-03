@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.03 % en BISNIE Ciseaux Cuisine Robustes  Ciseaux'
-date: 2020-11-02 00:40:07
+date: 2020-11-03 06:19:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fOGTtp-PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fOGTtp-PL._SL200_.jpg' ]
 comments: true

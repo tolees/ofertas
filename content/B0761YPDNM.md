@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MX Anywhere 2 Kabellose Maus  A al 33.25 % de descuento'
-date: 2020-10-31 19:00:19
+date: 2020-11-03 06:51:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Na1cvgPEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Na1cvgPEL._SL200_.jpg' ]
 comments: true

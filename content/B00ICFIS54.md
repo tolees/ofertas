@@ -14,11 +14,11 @@ comparePrice: 559.59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Manfrotto MT055CXPRO4 - Trípode Completo  con Fibra de Carbono  4 Secciones   Negro](https://www.amazon.es/dp/B00ICFIS54/?tag=redken-21) a 369.0 EUR (original: 559.59 EUR) (34.06 %  de descuento) en el siguiente enlace!
+Está [Manfrotto MT055CXPRO4 - Trípode Completo  con Fibra de Carbono  4 Secciones   Negro](https://www.amazon.es/dp/B00ICFIS54/?tag=redken-21) con 34.06 de descuento por 369.0 EUR (original: 559.59 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31RDjHv616L._SL200_.jpg)](https://www.amazon.es/dp/B00ICFIS54/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00ICFIS54/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00ICFIS54/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

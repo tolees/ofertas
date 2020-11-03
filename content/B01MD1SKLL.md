@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link - Repetidor WiFi AC1200  5 GHz & al 41.67 % de descuento'
-date: 2020-11-01 18:46:36
+date: 2020-11-03 07:27:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dD8qjLTfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dD8qjLTfL._SL200_.jpg' ]
 comments: true

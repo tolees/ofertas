@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.08 % en Champion Legacy Performance Crew  Lot de'
-date: 2020-11-02 06:13:33
+date: 2020-11-03 06:34:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Uu24GnFKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Uu24GnFKL._SL200_.jpg' ]
 comments: true
