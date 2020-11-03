@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.98 % en Juegos Bizak Benito Granitos  BIZAK 6192'
-date: 2020-11-01 12:10:40
+date: 2020-11-03 20:03:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ihoQrBHQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ihoQrBHQL._SL200_.jpg' ]
 comments: true

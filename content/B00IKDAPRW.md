@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEVERIN Microondas 2 en 1   con Función  al 26.61 % de descuento'
-date: 2020-10-31 17:35:06
+date: 2020-11-03 20:08:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ImtE07VqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ImtE07VqL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 128.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Michael Kors Women s Chronograph Quartz Watch with STAINLESS STEEL ACETATE Strap MK5774](https://www.amazon.co.uk/dp/B00BFO9PVK/?tag=redken01-21) a 89.0 GBP (original: 128.99 GBP) (31.00 %  de descuento) en el siguiente enlace!
+Está [Michael Kors Women s Chronograph Quartz Watch with STAINLESS STEEL ACETATE Strap MK5774](https://www.amazon.co.uk/dp/B00BFO9PVK/?tag=redken01-21) con 31.00 de descuento por 89.0 GBP (original: 128.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41fCFzypCZL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00BFO9PVK/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00BFO9PVK/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00BFO9PVK/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
