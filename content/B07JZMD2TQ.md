@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Tiro 19 JSY W Camiseta de Manga C al 53.82 % de descuento'
-date: 2020-11-01 18:39:29
+date: 2020-11-02 23:18:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31t4Aynk6kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31t4Aynk6kL._SL200_.jpg' ]
 comments: true
