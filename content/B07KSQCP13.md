@@ -14,11 +14,11 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Está [Columbia Silver Ridge II Camisa de Manga Larga  Hombre  Verde  Cypress   S](https://www.amazon.es/dp/B07KSQCP13/?tag=redken-21) con 52.33 de descuento por 30.98 EUR (original: 64.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Silver Ridge II Camisa de Manga Larga  Hombre  Verde  Cypress   S](https://www.amazon.es/dp/B07KSQCP13/?tag=redken-21) a 30.98 EUR (original: 64.99 EUR) (52.33 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413BtGbFtLL._SL200_.jpg)](https://www.amazon.es/dp/B07KSQCP13/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KSQCP13/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KSQCP13/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

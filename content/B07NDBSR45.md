@@ -14,11 +14,11 @@ comparePrice: 146.21 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 42098 Technic - Autotransporter 2 in 1 LKW und Show Cars Modell](https://www.amazon.de/dp/B07NDBSR45/?tag=redken02-21) a 106.99 EUR (original: 146.21 EUR) (26.82 %  de descuento) en el siguiente enlace!
+Está [LEGO 42098 Technic - Autotransporter 2 in 1 LKW und Show Cars Modell](https://www.amazon.de/dp/B07NDBSR45/?tag=redken02-21) con 26.82 de descuento por 106.99 EUR (original: 146.21 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg)](https://www.amazon.de/dp/B07NDBSR45/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07NDBSR45/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07NDBSR45/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
