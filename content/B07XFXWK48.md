@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars - Casco de Soldado de Asa al 26.86 % de descuento'
-date: 2020-11-02 04:56:07
+date: 2020-11-03 04:59:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51450fUeLlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51450fUeLlL._SL200_.jpg' ]
 comments: true
