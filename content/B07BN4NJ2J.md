@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung  MZ-V7E500BW  970 EVO SSD 500GB  al 30.99 % de descuento'
-date: 2020-10-18 22:36:31
+date: 2020-11-03 14:23:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/4151Dvz6zCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4151Dvz6zCL._SL200_.jpg' ]
 comments: true

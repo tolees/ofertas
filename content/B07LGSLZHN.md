@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite 2WM Lady - Mochila para Portát al 33.39 % de descuento'
-date: 2020-10-23 08:01:05
+date: 2020-11-03 14:31:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/410090OYO4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410090OYO4L._SL200_.jpg' ]
 comments: true

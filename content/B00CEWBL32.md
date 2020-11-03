@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY STHT0-62113 - Set de destornilla al 36.62 % de descuento'
-date: 2020-10-30 12:08:44
+date: 2020-11-03 14:36:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yy7CgWxzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yy7CgWxzL._SL200_.jpg' ]
 comments: true
