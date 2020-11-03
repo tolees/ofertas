@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en Jack & Jones JacLee Trunks 5 Pack Bóxer '
-date: 2020-11-01 21:44:33
+date: 2020-11-03 13:25:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ilS3fHR0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ilS3fHR0L._SL200_.jpg' ]
 comments: true
