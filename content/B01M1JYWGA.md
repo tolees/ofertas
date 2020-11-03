@@ -14,11 +14,11 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MONTIS ALPIZ Air 30 - Mochila de Senderismo  Deporte y Uso Diario - 30 L - 800 g](https://www.amazon.es/dp/B01M1JYWGA/?tag=redken-21) a 54.99 EUR (original: 79.99 EUR) (31.25 %  de descuento) en el siguiente enlace!
+Está [MONTIS ALPIZ Air 30 - Mochila de Senderismo  Deporte y Uso Diario - 30 L - 800 g](https://www.amazon.es/dp/B01M1JYWGA/?tag=redken-21) con 31.25 de descuento por 54.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416ooEUhaaL._SL200_.jpg)](https://www.amazon.es/dp/B01M1JYWGA/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01M1JYWGA/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M1JYWGA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

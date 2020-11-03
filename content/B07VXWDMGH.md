@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 28.47 % en Once Upon a Time in... Hollywood [DVD] ['
+title: 'Once Upon a Time in... Hollywood [DVD] [ al 28.47 % de descuento'
 date: 2020-11-02 12:48:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/517NNeYO+tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517NNeYO+tL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 6.99 GBP
 inStock: true
 ---
 
-Tienes [Once Upon a Time in... Hollywood [DVD] [2019]](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21) con un 28.47 % de descuento con precio de oferta de 5.0 GBP (original: 6.99 GBP) en el siguiente enlace!
+Está [Once Upon a Time in... Hollywood [DVD] [2019]](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21) con 28.47 de descuento por 5.0 GBP (original: 6.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/517NNeYO+tL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07VXWDMGH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
