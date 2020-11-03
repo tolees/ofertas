@@ -14,11 +14,11 @@ comparePrice: 749.99 EUR
 inStock: true
 ---
 
-Está [Canon EOS M50 - Kit de cámara EVIL de 24.1 MP y vídeo 4K con objetivo EF-M 15-45mm IS MM  pantalla táctil de 3"  estabilizador óptico  Wifi   color blanco](https://www.amazon.es/dp/B07B33NSFK/?tag=redken-21) con 32.13 de descuento por 508.99 EUR (original: 749.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Canon EOS M50 - Kit de cámara EVIL de 24.1 MP y vídeo 4K con objetivo EF-M 15-45mm IS MM  pantalla táctil de 3"  estabilizador óptico  Wifi   color blanco](https://www.amazon.es/dp/B07B33NSFK/?tag=redken-21) a 508.99 EUR (original: 749.99 EUR) (32.13 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41v6hs6JxpL._SL200_.jpg)](https://www.amazon.es/dp/B07B33NSFK/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07B33NSFK/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07B33NSFK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

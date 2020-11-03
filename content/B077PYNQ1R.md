@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FASCINATE Espejo Maquillaje con Luz Tríp al 30.78 % de descuento'
-date: 2020-11-02 17:29:11
+date: 2020-11-03 21:08:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PhyRf26SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PhyRf26SL._SL200_.jpg' ]
 comments: true

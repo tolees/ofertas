@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.90 % en Playstation - Taza de cerámica  9 x 15 x'
-date: 2020-11-02 17:00:50
+date: 2020-11-03 21:33:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GIuW7oDLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GIuW7oDLL._SL200_.jpg' ]
 comments: true
