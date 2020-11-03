@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.63 % en Duracell Ultra AAA con Powerchek  Pilas '
-date: 2020-10-29 11:51:37
+date: 2020-11-03 15:37:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EnpPVAPxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EnpPVAPxL._SL200_.jpg' ]
 comments: true

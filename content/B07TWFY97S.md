@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Clarks al 74.69 % de descuento'
-date: 2020-11-02 15:16:24
+title: 'Clarks al 49.67 % de descuento'
+date: 2020-11-03 15:37:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GuLSXLg1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GuLSXLg1L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TWFY97S
 description:
-actualPrice: 25.3 EUR
+actualPrice: 50.3 EUR
 comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Clarks](https://www.amazon.es/dp/B07TWFY97S/?tag=redken-21) con 74.69 de descuento por 25.3 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Clarks](https://www.amazon.es/dp/B07TWFY97S/?tag=redken-21) con 49.67 de descuento por 50.3 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41GuLSXLg1L._SL200_.jpg)](https://www.amazon.es/dp/B07TWFY97S/?tag=redken-21)
 

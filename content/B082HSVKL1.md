@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sedhoom 12 in 1 Affettaverdure Taglia Ve al 31.78 % de descuento'
-date: 2020-11-01 23:33:23
+date: 2020-11-03 15:32:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pCIRvEicL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pCIRvEicL._SL200_.jpg' ]
 comments: true
