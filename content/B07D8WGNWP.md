@@ -14,11 +14,11 @@ comparePrice: 10.35 EUR
 inStock: true
 ---
 
-Está [Rimmel London Scandaleyes Reloaded Máscara de Pestañas - Tono negro](https://www.amazon.es/dp/B07D8WGNWP/?tag=redken-21) con 54.59 de descuento por 4.7 EUR (original: 10.35 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Scandaleyes Reloaded Máscara de Pestañas - Tono negro](https://www.amazon.es/dp/B07D8WGNWP/?tag=redken-21) a 4.7 EUR (original: 10.35 EUR) (54.59 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/411bQmGkxCL._SL200_.jpg)](https://www.amazon.es/dp/B07D8WGNWP/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07D8WGNWP/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07D8WGNWP/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

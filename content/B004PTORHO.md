@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel P207-C - Sharp Matita da disegno  al 29.41 % de descuento'
-date: 2020-11-02 05:31:39
+date: 2020-11-03 11:29:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hXeNAIsKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hXeNAIsKL._SL200_.jpg' ]
 comments: true
