@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sabrent 256GB Rocket NVMe PCIe M.2 2280  al 40.50 % de descuento'
-date: 2020-11-02 10:35:51
+date: 2020-11-03 18:43:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aVwd4UODL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aVwd4UODL._SL200_.jpg' ]
 comments: true
