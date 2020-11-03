@@ -14,11 +14,11 @@ comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Está [MAJOZ0 Technic Motorcycle Building Set  Collectible Motorbike Model  862Pcs Building Block Compatible with LEGO Technic  Gift for Children and Adult](https://www.amazon.co.uk/dp/B08LKYYXWJ/?tag=redken01-21) con 30.01 de descuento por 34.99 GBP (original: 49.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [MAJOZ0 Technic Motorcycle Building Set  Collectible Motorbike Model  862Pcs Building Block Compatible with LEGO Technic  Gift for Children and Adult](https://www.amazon.co.uk/dp/B08LKYYXWJ/?tag=redken01-21) a 34.99 GBP (original: 49.99 GBP) (30.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51bxE2oGMuL._SL200_.jpg)](https://www.amazon.co.uk/dp/B08LKYYXWJ/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B08LKYYXWJ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B08LKYYXWJ/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

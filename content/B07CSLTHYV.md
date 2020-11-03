@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ValueHall Disco de Lijado 100 Piezas Pap al 30.78 % de descuento'
-date: 2020-10-28 12:28:07
+date: 2020-11-03 16:47:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41l7Nvc05JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41l7Nvc05JL._SL200_.jpg' ]
 comments: true

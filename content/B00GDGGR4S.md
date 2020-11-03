@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Augason Farms Lunch and Dinner Variety P al 26.25 % de descuento'
-date: 2020-11-01 11:19:37
+date: 2020-11-03 16:24:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51U+kRPyq6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51U+kRPyq6L._SL200_.jpg' ]
 comments: true

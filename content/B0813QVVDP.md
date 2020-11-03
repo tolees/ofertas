@@ -14,11 +14,11 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Está [LEGO 70433 Hidden Side J.B. s Submarine Toy  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android](https://www.amazon.co.uk/dp/B0813QVVDP/?tag=redken01-21) con 27.96 de descuento por 12.96 GBP (original: 17.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 70433 Hidden Side J.B. s Submarine Toy  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android](https://www.amazon.co.uk/dp/B0813QVVDP/?tag=redken01-21) a 12.96 GBP (original: 17.99 GBP) (27.96 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ytiYeKAfL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0813QVVDP/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B0813QVVDP/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B0813QVVDP/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
