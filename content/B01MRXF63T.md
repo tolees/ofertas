@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thule TSLB315MIN - Mochila para Ordenado al 28.05 % de descuento'
-date: 2020-11-01 22:52:05
+date: 2020-11-03 03:30:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31W5B1yX19L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31W5B1yX19L._SL200_.jpg' ]
 comments: true

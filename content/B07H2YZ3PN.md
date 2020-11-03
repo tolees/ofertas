@@ -14,11 +14,11 @@ comparePrice: 89.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Echo Dot  3.ª generación   tela de color gris claro + Amazon Smart Plug  compatible con Alexa](https://www.amazon.es/dp/B07H2YZ3PN/?tag=redken-21) a 44.99 EUR (original: 89.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Echo Dot  3.ª generación   tela de color gris claro + Amazon Smart Plug  compatible con Alexa](https://www.amazon.es/dp/B07H2YZ3PN/?tag=redken-21) con 50.00 de descuento por 44.99 EUR (original: 89.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UtV6mnPYL._SL200_.jpg)](https://www.amazon.es/dp/B07H2YZ3PN/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07H2YZ3PN/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07H2YZ3PN/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

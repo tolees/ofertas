@@ -14,11 +14,11 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Carnaby EVO 119 3 SFA  Zapatillas para Mujer  Azul  Nvy/Off Wht J18   36 EU](https://www.amazon.es/dp/B07DHTF8JV/?tag=redken-21) a 55.48 EUR (original: 99 EUR) (43.96 %  de descuento) en el siguiente enlace!
+Está [Lacoste Carnaby EVO 119 3 SFA  Zapatillas para Mujer  Azul  Nvy/Off Wht J18   36 EU](https://www.amazon.es/dp/B07DHTF8JV/?tag=redken-21) con 43.96 de descuento por 55.48 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31bjSBmX42L._SL200_.jpg)](https://www.amazon.es/dp/B07DHTF8JV/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DHTF8JV/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DHTF8JV/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
