@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - Solimo Roll-on antitransp al 40.04 % de descuento'
-date: 2020-11-02 09:03:08
+date: 2020-11-03 09:14:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CSbQ2z2TL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CSbQ2z2TL._SL200_.jpg' ]
 comments: true

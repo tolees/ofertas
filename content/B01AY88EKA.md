@@ -14,11 +14,11 @@ comparePrice: 185.99 EUR
 inStock: true
 ---
 
-Está [Greenworks Motosierra con mango batería G40CS30K2  Li-Ion 40V 4 3 m/s velocidad de cadena 30cm longitud de espada 120ml volumen tanque aceite incluyendo batería de 2Ah y cargador ](https://www.amazon.es/dp/B01AY88EKA/?tag=redken-21) con 25.27 de descuento por 138.99 EUR (original: 185.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Greenworks Motosierra con mango batería G40CS30K2  Li-Ion 40V 4 3 m/s velocidad de cadena 30cm longitud de espada 120ml volumen tanque aceite incluyendo batería de 2Ah y cargador ](https://www.amazon.es/dp/B01AY88EKA/?tag=redken-21) a 138.99 EUR (original: 185.99 EUR) (25.27 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ODIPFyYZL._SL200_.jpg)](https://www.amazon.es/dp/B01AY88EKA/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01AY88EKA/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B01AY88EKA/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
