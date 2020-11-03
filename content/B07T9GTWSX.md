@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VicTsing Transmetteur FM Bluetooth  Adap al 39.07 % de descuento'
-date: 2020-11-02 06:22:58
+date: 2020-11-03 12:32:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41e3ypuTsWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41e3ypuTsWL._SL200_.jpg' ]
 comments: true

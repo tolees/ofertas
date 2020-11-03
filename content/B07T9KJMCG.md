@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DOQAUS Bluetooth Kopfhörer Over Ear  [Bi al 28.58 % de descuento'
-date: 2020-10-30 17:19:08
+date: 2020-11-03 12:06:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+1GLXASrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+1GLXASrL._SL200_.jpg' ]
 comments: true

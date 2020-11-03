@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO®-Star Wars™ A-Wing Starfighter™ de  al 30.98 % de descuento'
-date: 2020-11-02 00:36:55
+date: 2020-11-03 12:27:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg' ]
 comments: true

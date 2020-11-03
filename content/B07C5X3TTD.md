@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeholmen Sweat Zip Hood No al 40.01 % de descuento'
-date: 2020-11-02 12:45:48
+date: 2020-11-03 12:56:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31S75QnxeeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31S75QnxeeL._SL200_.jpg' ]
 comments: true
