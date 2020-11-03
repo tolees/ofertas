@@ -14,11 +14,11 @@ comparePrice: 15.29 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Lavazza Crema e Aroma  Arabica and Robusta Medium Roast Coffee Beans  Pack of 1 kg](https://www.amazon.co.uk/dp/B000FWHWGS/?tag=redken01-21) a 9.35 GBP (original: 15.29 GBP) (38.85 %  de descuento) en el siguiente enlace!
+Está [Lavazza Crema e Aroma  Arabica and Robusta Medium Roast Coffee Beans  Pack of 1 kg](https://www.amazon.co.uk/dp/B000FWHWGS/?tag=redken01-21) con 38.85 de descuento por 9.35 GBP (original: 15.29 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41fSQVadoVL._SL200_.jpg)](https://www.amazon.co.uk/dp/B000FWHWGS/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B000FWHWGS/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B000FWHWGS/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
