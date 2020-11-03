@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.17 % en Guante de natación  guantes Aquatic  Alm'
-date: 2020-11-01 18:47:22
+date: 2020-11-03 19:47:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fohX45-VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fohX45-VL._SL200_.jpg' ]
 comments: true

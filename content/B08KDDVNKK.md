@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.57 % en Transmisor FM Bluetooth V5.0 con Cable d'
-date: 2020-11-02 06:37:33
+date: 2020-11-03 19:09:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41X3NqPcosL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41X3NqPcosL._SL200_.jpg' ]
 comments: true

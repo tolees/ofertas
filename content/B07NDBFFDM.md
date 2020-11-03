@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41166 Disney Frozen II Elsa s Wagon al 36.73 % de descuento'
-date: 2020-04-17 07:31:41
+title: 'LEGO Disney Princess - Aventura en Carre al 42.26 % de descuento'
+date: 2020-11-03 19:08:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mkgKdnHNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mkgKdnHNL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07NDBFFDM
 description:
-actualPrice: 15.81 GBP
-comparePrice: 24.99 GBP
+actualPrice: 18.99 EUR
+comparePrice: 32.89 EUR
 inStock: true
 ---
 
-Está [LEGO 41166 Disney Frozen II Elsa s Wagon Adventurewith Princess Elsa Mini Doll and 2 Reindeer Figures  Easy Build Preschool Toy for 4-7 Years Old with Bricks Base Plate](https://www.amazon.co.uk/dp/B07NDBFFDM/?tag=redken01-21) con 36.73 de descuento por 15.81 GBP (original: 24.99 GBP) en el siguiente enlace!
+Está [LEGO Disney Princess - Aventura en Carreta de Elsa  Juguete de Construcción del Carruaje de Frozen 2  Incluye Minifiguras de 2 ciervos  41166 ](https://www.amazon.es/dp/B07NDBFFDM/?tag=redken-21) con 42.26 de descuento por 18.99 EUR (original: 32.89 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51mkgKdnHNL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07NDBFFDM/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/51mkgKdnHNL._SL200_.jpg)](https://www.amazon.es/dp/B07NDBFFDM/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07NDBFFDM/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NDBFFDM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

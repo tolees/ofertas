@@ -14,11 +14,11 @@ comparePrice: 27.79 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Stanley 016130 5002 Bevel Edge Chisel Set and Oilstone  4 Pieces ](https://www.amazon.co.uk/dp/B004NOXJ4I/?tag=redken01-21) a 18.29 GBP (original: 27.79 GBP) (34.18 %  de descuento) en el siguiente enlace!
+Está [Stanley 016130 5002 Bevel Edge Chisel Set and Oilstone  4 Pieces ](https://www.amazon.co.uk/dp/B004NOXJ4I/?tag=redken01-21) con 34.18 de descuento por 18.29 GBP (original: 27.79 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51QQP0vNYuL._SL200_.jpg)](https://www.amazon.co.uk/dp/B004NOXJ4I/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B004NOXJ4I/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B004NOXJ4I/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
