@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Benched  Mochila Casual  44 cm  12  al 40.08 % de descuento'
-date: 2020-11-01 14:38:31
+date: 2020-11-03 08:00:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jtW91hwQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jtW91hwQL._SL200_.jpg' ]
 comments: true

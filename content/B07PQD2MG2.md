@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pokémon Mando inalámbrico para Nintendo  al 34.09 % de descuento'
-date: 2020-10-30 14:25:44
+date: 2020-11-03 08:07:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xF6QTBb3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xF6QTBb3L._SL200_.jpg' ]
 comments: true
