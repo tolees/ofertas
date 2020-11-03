@@ -14,11 +14,11 @@ comparePrice: 1399.0 GBP
 inStock: true
 ---
 
-Está [Sony RX10 III | Advanced Premium Compact Camera  1.0-Type Sensor  24-600 mm F2.8-4.0 Zeiss Lens  4K Movie Recording ](https://www.amazon.co.uk/dp/B01EASVE5W/?tag=redken01-21) con 25.02 de descuento por 1049.0 GBP (original: 1399.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Sony RX10 III | Advanced Premium Compact Camera  1.0-Type Sensor  24-600 mm F2.8-4.0 Zeiss Lens  4K Movie Recording ](https://www.amazon.co.uk/dp/B01EASVE5W/?tag=redken01-21) a 1049.0 GBP (original: 1399.0 GBP) (25.02 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Nejed0f1L._SL200_.jpg)](https://www.amazon.co.uk/dp/B01EASVE5W/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B01EASVE5W/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B01EASVE5W/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

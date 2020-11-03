@@ -14,11 +14,11 @@ comparePrice: 20.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [The North Face 66 Classic Cap  TNF Black  One Size](https://www.amazon.co.uk/dp/B005AQHLJC/?tag=redken01-21) a 13.49 GBP (original: 20.0 GBP) (32.55 %  de descuento) en el siguiente enlace!
+Está [The North Face 66 Classic Cap  TNF Black  One Size](https://www.amazon.co.uk/dp/B005AQHLJC/?tag=redken01-21) con 32.55 de descuento por 13.49 GBP (original: 20.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+CANL39ML._SL200_.jpg)](https://www.amazon.co.uk/dp/B005AQHLJC/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B005AQHLJC/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B005AQHLJC/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

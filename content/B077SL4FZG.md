@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial MX500 250GB CT250MX500SSD4-bis z al 33.20 % de descuento'
-date: 2020-11-01 23:59:50
+date: 2020-11-03 05:57:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/411cDO+I1WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411cDO+I1WL._SL200_.jpg' ]
 comments: true

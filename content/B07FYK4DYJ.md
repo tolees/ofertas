@@ -14,11 +14,11 @@ comparePrice: 21.6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [EcoMil Cousine Thai Bio  Bebida de Coco con un toque picante para cocinar- Pack de 12 unidades de 200 ml](https://www.amazon.es/dp/B07FYK4DYJ/?tag=redken-21) a 10.21 EUR (original: 21.6 EUR) (52.73 %  de descuento) en el siguiente enlace!
+Está [EcoMil Cousine Thai Bio  Bebida de Coco con un toque picante para cocinar- Pack de 12 unidades de 200 ml](https://www.amazon.es/dp/B07FYK4DYJ/?tag=redken-21) con 52.73 de descuento por 10.21 EUR (original: 21.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41I8okjEOiL._SL200_.jpg)](https://www.amazon.es/dp/B07FYK4DYJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FYK4DYJ/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FYK4DYJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
