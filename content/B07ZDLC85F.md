@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 8 Pro - Smartphone Déb al 28.58 % de descuento'
-date: 2020-11-03 06:20:51
+date: 2020-11-04 10:26:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Cfsr9RBeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Cfsr9RBeL._SL200_.jpg' ]
 comments: true

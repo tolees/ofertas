@@ -14,11 +14,11 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [Columbia Cascades Explorer Pantalón Largo  Hombre  Gris  Grill   W40/L34](https://www.amazon.es/dp/B00L1RI0FI/?tag=redken-21) con 50.53 de descuento por 29.66 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Cascades Explorer Pantalón Largo  Hombre  Gris  Grill   W40/L34](https://www.amazon.es/dp/B00L1RI0FI/?tag=redken-21) a 29.66 EUR (original: 59.95 EUR) (50.53 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZZwiXgdkL._SL200_.jpg)](https://www.amazon.es/dp/B00L1RI0FI/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00L1RI0FI/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B00L1RI0FI/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

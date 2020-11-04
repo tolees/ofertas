@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.36 % en LEGO 42102 Technic Mini CLAAS XERION Tra'
-date: 2020-11-03 06:06:50
+date: 2020-11-04 10:11:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mxThIXE3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mxThIXE3L._SL200_.jpg' ]
 comments: true

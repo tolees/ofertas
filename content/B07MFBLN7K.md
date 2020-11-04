@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung SSD Interne 970 EVO Plus NVMe M. al 25.93 % de descuento'
-date: 2020-11-03 06:35:47
+date: 2020-11-04 10:34:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/416rM0BbODL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416rM0BbODL._SL200_.jpg' ]
 comments: true
