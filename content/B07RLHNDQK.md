@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Capcom Home Arcade al 34.78 % de descuento'
-date: 2020-10-16 19:44:57
+date: 2020-11-04 08:03:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41t8rYkgonL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41t8rYkgonL._SL200_.jpg' ]
 comments: true

@@ -14,11 +14,11 @@ comparePrice: 40.2 EUR
 inStock: true
 ---
 
-Está [Probios Arroz Carnaroli - Paquete de 12 x 500 gr - Total: 6000 gr](https://www.amazon.es/dp/B0731LPCGL/?tag=redken-21) con 50.60 de descuento por 19.86 EUR (original: 40.2 EUR) en el siguiente enlace!
+Ahora mismo tienes [Probios Arroz Carnaroli - Paquete de 12 x 500 gr - Total: 6000 gr](https://www.amazon.es/dp/B0731LPCGL/?tag=redken-21) a 19.86 EUR (original: 40.2 EUR) (50.60 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51kkb5KF0TL._SL200_.jpg)](https://www.amazon.es/dp/B0731LPCGL/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0731LPCGL/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B0731LPCGL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

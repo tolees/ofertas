@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 59.98 % en adidas Gazelle  Zapatillas de deporte Un'
-date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ewE05ipuL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ewE05ipuL._SL200_.jpg' ]
+title: 'Descuento del 62.45 % en adidas Gazelle  Zapatillas de deporte Un'
+date: 2020-11-04 08:10:15
+thumbnailImage: 'https://m.media-amazon.com/images/I/41fswiIPamL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41fswiIPamL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01HG3PMS8
 description:
-actualPrice: 38 EUR
+actualPrice: 35.65 EUR
 comparePrice: 94.95 EUR
 inStock: true
 ---
 
-Tienes [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Vapour Pink/White/Gold Metalic   37 1/3 EU](https://www.amazon.es/dp/B01HG3PMS8/?tag=redken-21) con un 59.98 % de descuento con precio de oferta de 38 EUR (original: 94.95 EUR) en el siguiente enlace!
+Tienes [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Vapour Pink/White/Gold Metalic   37 1/3 EU](https://www.amazon.es/dp/B01HG3PMS8/?tag=redken-21) con un 62.45 % de descuento con precio de oferta de 35.65 EUR (original: 94.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41ewE05ipuL._SL200_.jpg)](https://www.amazon.es/dp/B01HG3PMS8/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/41fswiIPamL._SL200_.jpg)](https://www.amazon.es/dp/B01HG3PMS8/?tag=redken-21)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01HG3PMS8/?tag=redken-21)
 
