@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer EM49 - Electroestimulador digital al 47.08 % de descuento'
-date: 2020-11-03 08:14:42
+date: 2020-11-04 12:20:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41F2qEt6phL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41F2qEt6phL._SL200_.jpg' ]
 comments: true

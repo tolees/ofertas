@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Herramienta Rotativa  TACKLIFE Amoladora al 27.79 % de descuento'
-date: 2020-10-21 09:35:17
+date: 2020-11-04 12:08:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51d9ozxnUnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51d9ozxnUnL._SL200_.jpg' ]
 comments: true

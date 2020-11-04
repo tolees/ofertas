@@ -14,11 +14,11 @@ comparePrice: 42.4 EUR
 inStock: true
 ---
 
-Está [Nikka - Whisky Japonés From The Barrel  50 cl](https://www.amazon.es/dp/B001TZASVQ/?tag=redken-21) con 33.73 de descuento por 28.1 EUR (original: 42.4 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nikka - Whisky Japonés From The Barrel  50 cl](https://www.amazon.es/dp/B001TZASVQ/?tag=redken-21) a 28.1 EUR (original: 42.4 EUR) (33.73 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31CMLCkwh4L._SL200_.jpg)](https://www.amazon.es/dp/B001TZASVQ/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B001TZASVQ/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B001TZASVQ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

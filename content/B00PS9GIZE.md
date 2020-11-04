@@ -14,11 +14,11 @@ comparePrice: 32.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Medisana HP-40E Almohadilla eléctrica   super polar  3 ajustes de temperatura  protección contra sobrecalentamiento  desconexión automática  lavable  para espalda  cuello  hombros  2ª generación](https://www.amazon.es/dp/B00PS9GIZE/?tag=redken-21) a 18.99 EUR (original: 32.95 EUR) (42.37 %  de descuento) en el siguiente enlace!
+Está [Medisana HP-40E Almohadilla eléctrica   super polar  3 ajustes de temperatura  protección contra sobrecalentamiento  desconexión automática  lavable  para espalda  cuello  hombros  2ª generación](https://www.amazon.es/dp/B00PS9GIZE/?tag=redken-21) con 42.37 de descuento por 18.99 EUR (original: 32.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51g6K3kNr7L._SL200_.jpg)](https://www.amazon.es/dp/B00PS9GIZE/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00PS9GIZE/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00PS9GIZE/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
