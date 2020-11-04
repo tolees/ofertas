@@ -14,11 +14,11 @@ comparePrice: 181.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gardena EasyCut - Fusible de seguridad  Batería  18 V  2.9 kg  Li-18/50 ](https://www.amazon.es/dp/B00GHDXSYO/?tag=redken-21) a 69.06 EUR (original: 181.49 EUR) (61.95 %  de descuento) en el siguiente enlace!
+Está [Gardena EasyCut - Fusible de seguridad  Batería  18 V  2.9 kg  Li-18/50 ](https://www.amazon.es/dp/B00GHDXSYO/?tag=redken-21) con 61.95 de descuento por 69.06 EUR (original: 181.49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ujnSy4jjL._SL200_.jpg)](https://www.amazon.es/dp/B00GHDXSYO/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00GHDXSYO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00GHDXSYO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

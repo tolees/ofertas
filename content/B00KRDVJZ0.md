@@ -14,11 +14,11 @@ comparePrice: 39.95 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BEYONCE Heat Wild Orchid Eau de Parfum Fragrance for Women  100 ml](https://www.amazon.co.uk/dp/B00KRDVJZ0/?tag=redken01-21) a 8.99 GBP (original: 39.95 GBP) (77.50 %  de descuento) en el siguiente enlace!
+Está [BEYONCE Heat Wild Orchid Eau de Parfum Fragrance for Women  100 ml](https://www.amazon.co.uk/dp/B00KRDVJZ0/?tag=redken01-21) con 77.50 de descuento por 8.99 GBP (original: 39.95 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/419ePkzVtZL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00KRDVJZ0/?tag=redken01-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B00KRDVJZ0/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B00KRDVJZ0/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
