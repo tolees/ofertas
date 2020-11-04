@@ -14,11 +14,11 @@ comparePrice: 129.08 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [EZVIZ S5 Cámara de Acción 4K Cámara Deportiva  16MP  WiFi 2.4G  Bluetooth 4.0.1 BLE  Micrófono Dual  Procesador de Vídeo Ambarella](https://www.amazon.es/dp/B06WLH4MSH/?tag=redken-21) a 77.09 EUR (original: 129.08 EUR) (40.28 %  de descuento) en el siguiente enlace!
+Está [EZVIZ S5 Cámara de Acción 4K Cámara Deportiva  16MP  WiFi 2.4G  Bluetooth 4.0.1 BLE  Micrófono Dual  Procesador de Vídeo Ambarella](https://www.amazon.es/dp/B06WLH4MSH/?tag=redken-21) con 40.28 de descuento por 77.09 EUR (original: 129.08 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31I7FyaFFcL._SL200_.jpg)](https://www.amazon.es/dp/B06WLH4MSH/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06WLH4MSH/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06WLH4MSH/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 9.69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SOLS - Camiseta de manga corta para hombre 100% algodón grueso - Modelo Imperial  XS/Blanco ](https://www.amazon.es/dp/B00KZIOF8U/?tag=redken-21) a 5.95 EUR (original: 9.69 EUR) (38.60 %  de descuento) en el siguiente enlace!
+Está [SOLS - Camiseta de manga corta para hombre 100% algodón grueso - Modelo Imperial  XS/Blanco ](https://www.amazon.es/dp/B00KZIOF8U/?tag=redken-21) con 38.60 de descuento por 5.95 EUR (original: 9.69 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31HqzZjpsTL._SL200_.jpg)](https://www.amazon.es/dp/B00KZIOF8U/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00KZIOF8U/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00KZIOF8U/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
