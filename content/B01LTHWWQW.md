@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Extra Wrigley Chewing Gum Sugar Free  Co al 38.06 % de descuento'
-date: 2020-11-02 08:12:14
+date: 2020-11-04 02:32:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z2rm104TL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z2rm104TL._SL200_.jpg' ]
 comments: true
