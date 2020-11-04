@@ -14,11 +14,11 @@ comparePrice: 21.94 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Smint Tin Fresa  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr.  Total 420 gr. ](https://www.amazon.es/dp/B00EOLER8M/?tag=redken-21) a 14.75 EUR (original: 21.94 EUR) (32.77 %  de descuento) en el siguiente enlace!
+Está [Smint Tin Fresa  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr.  Total 420 gr. ](https://www.amazon.es/dp/B00EOLER8M/?tag=redken-21) con 32.77 de descuento por 14.75 EUR (original: 21.94 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Pm9Qv7PuL._SL200_.jpg)](https://www.amazon.es/dp/B00EOLER8M/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00EOLER8M/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00EOLER8M/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

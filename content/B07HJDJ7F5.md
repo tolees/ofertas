@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.47 % en Amazon Essentials - Polo de manga corta '
-date: 2020-11-03 07:14:25
+date: 2020-11-04 07:24:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xmEjm23fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xmEjm23fL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego De Tronos Temporada 8 Premium [DVD al 61.66 % de descuento'
-date: 2020-11-03 07:16:56
+date: 2020-11-04 07:23:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51p8h0Ak9LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51p8h0Ak9LL._SL200_.jpg' ]
 comments: true
