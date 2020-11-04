@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Maybelline New York  SuperStay Matte Ink al 49.94 % de descuento'
-date: 2020-11-02 18:28:56
+title: 'Maybelline New York  SuperStay Matte Ink al 41.05 % de descuento'
+date: 2020-11-04 11:01:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wr1NP2wZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wr1NP2wZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B073HBNC2D
 description:
-actualPrice: 4.5 EUR
+actualPrice: 5.3 EUR
 comparePrice: 8.99 EUR
 inStock: true
 ---
 
-Está [Maybelline New York  SuperStay Matte Ink  Pintalabios Mate de Larga Duración  Tono 15 - Lover  Malva](https://www.amazon.es/dp/B073HBNC2D/?tag=redken-21) con 49.94 de descuento por 4.5 EUR (original: 8.99 EUR) en el siguiente enlace!
+Está [Maybelline New York  SuperStay Matte Ink  Pintalabios Mate de Larga Duración  Tono 15 - Lover  Malva](https://www.amazon.es/dp/B073HBNC2D/?tag=redken-21) con 41.05 de descuento por 5.3 EUR (original: 8.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31wr1NP2wZL._SL200_.jpg)](https://www.amazon.es/dp/B073HBNC2D/?tag=redken-21)
 

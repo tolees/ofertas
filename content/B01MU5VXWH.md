@@ -14,11 +14,11 @@ comparePrice: 60.0 EUR
 inStock: true
 ---
 
-Está [Salewa Pura Casco Robusto  Unisex adulto  Yellow  S/M](https://www.amazon.it/dp/B01MU5VXWH/?tag=redken03-21) con 40.00 de descuento por 36.0 EUR (original: 60.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Salewa Pura Casco Robusto  Unisex adulto  Yellow  S/M](https://www.amazon.it/dp/B01MU5VXWH/?tag=redken03-21) a 36.0 EUR (original: 60.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31whv9ynlrL._SL200_.jpg)](https://www.amazon.it/dp/B01MU5VXWH/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01MU5VXWH/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B01MU5VXWH/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
