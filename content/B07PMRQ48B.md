@@ -14,11 +14,11 @@ comparePrice: 1199.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Parrot - Dron 4K - Anafi Work - Paquete profesional completo portátil - Cámara 4K HDR de 21 MP  180° de orientación y zoom sin pérdida - Software de modelado 3D - El dron ultracompacto](https://www.amazon.es/dp/B07PMRQ48B/?tag=redken-21) a 490.0 EUR (original: 1199.0 EUR) (59.13 %  de descuento) en el siguiente enlace!
+Está [Parrot - Dron 4K - Anafi Work - Paquete profesional completo portátil - Cámara 4K HDR de 21 MP  180° de orientación y zoom sin pérdida - Software de modelado 3D - El dron ultracompacto](https://www.amazon.es/dp/B07PMRQ48B/?tag=redken-21) con 59.13 de descuento por 490.0 EUR (original: 1199.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41l3NMQt3bL._SL200_.jpg)](https://www.amazon.es/dp/B07PMRQ48B/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07PMRQ48B/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PMRQ48B/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
