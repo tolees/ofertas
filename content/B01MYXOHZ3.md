@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 58.14 % en iCOO Pace - Silla de paseo de alta calid'
-date: 2020-10-30 19:23:13
+date: 2020-11-03 23:06:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51duDIZ-8sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51duDIZ-8sL._SL200_.jpg' ]
 comments: true

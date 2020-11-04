@@ -14,11 +14,11 @@ comparePrice: 13.63 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Einhell BT-GG 200P - Pistola de pegamento  12W  230V  200g ](https://www.amazon.es/dp/B001TPODLM/?tag=redken-21) a 5.49 EUR (original: 13.63 EUR) (59.72 %  de descuento) en el siguiente enlace!
+Está [Einhell BT-GG 200P - Pistola de pegamento  12W  230V  200g ](https://www.amazon.es/dp/B001TPODLM/?tag=redken-21) con 59.72 de descuento por 5.49 EUR (original: 13.63 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CqH7O9c6L._SL200_.jpg)](https://www.amazon.es/dp/B001TPODLM/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B001TPODLM/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001TPODLM/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
