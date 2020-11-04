@@ -14,11 +14,11 @@ comparePrice: 40.0 GBP
 inStock: true
 ---
 
-Está [Gourmet Cat Food Perle Chef s Collection  96 Pouches  96 x 85 g](https://www.amazon.co.uk/dp/B06XDLN8JY/?tag=redken01-21) con 25.03 de descuento por 29.99 GBP (original: 40.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [Gourmet Cat Food Perle Chef s Collection  96 Pouches  96 x 85 g](https://www.amazon.co.uk/dp/B06XDLN8JY/?tag=redken01-21) a 29.99 GBP (original: 40.0 GBP) (25.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51bQ3r0fpWL._SL200_.jpg)](https://www.amazon.co.uk/dp/B06XDLN8JY/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B06XDLN8JY/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B06XDLN8JY/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
