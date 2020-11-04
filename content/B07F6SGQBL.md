@@ -14,11 +14,11 @@ comparePrice: 11.97 EUR
 inStock: true
 ---
 
-Está [Café Royal Ristretto 48 cápsulas compatibles con Nescafé* Dolce Gusto* Intensidad: 9 de 10  Pack de 3 x 16 cápsulas ](https://www.amazon.es/dp/B07F6SGQBL/?tag=redken-21) con 36.01 de descuento por 7.66 EUR (original: 11.97 EUR) en el siguiente enlace!
+Ahora mismo tienes [Café Royal Ristretto 48 cápsulas compatibles con Nescafé* Dolce Gusto* Intensidad: 9 de 10  Pack de 3 x 16 cápsulas ](https://www.amazon.es/dp/B07F6SGQBL/?tag=redken-21) a 7.66 EUR (original: 11.97 EUR) (36.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RhR-j6eoL._SL200_.jpg)](https://www.amazon.es/dp/B07F6SGQBL/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07F6SGQBL/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07F6SGQBL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

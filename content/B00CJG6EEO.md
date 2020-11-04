@@ -14,11 +14,11 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dickies Horseshoe-Camiseta hombre   Gris  Grey Melange   36  Talla del fabricante: XS ](https://www.amazon.es/dp/B00CJG6EEO/?tag=redken-21) a 12.12 EUR (original: 20 EUR) (39.40 %  de descuento) en el siguiente enlace!
+Está [Dickies Horseshoe-Camiseta hombre   Gris  Grey Melange   36  Talla del fabricante: XS ](https://www.amazon.es/dp/B00CJG6EEO/?tag=redken-21) con 39.40 de descuento por 12.12 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41d5ZTKfWWL._SL200_.jpg)](https://www.amazon.es/dp/B00CJG6EEO/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00CJG6EEO/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00CJG6EEO/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 144.91 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Imperial Confort Paris - Colchón viscoelástico - 90 x 190 x 24 cm - Color blanco](https://www.amazon.es/dp/B0795YRMXK/?tag=redken-21) a 84.41 EUR (original: 144.91 EUR) (41.75 %  de descuento) en el siguiente enlace!
+Está [Imperial Confort Paris - Colchón viscoelástico - 90 x 190 x 24 cm - Color blanco](https://www.amazon.es/dp/B0795YRMXK/?tag=redken-21) con 41.75 de descuento por 84.41 EUR (original: 144.91 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aG1JMuIXL._SL200_.jpg)](https://www.amazon.es/dp/B0795YRMXK/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0795YRMXK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0795YRMXK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
