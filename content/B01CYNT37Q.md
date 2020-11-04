@@ -14,11 +14,11 @@ comparePrice: 13.71 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Joma Champion II - Polo para niño de 10 años  Color Burdeos](https://www.amazon.es/dp/B01CYNT37Q/?tag=redken-21) a 5.95 EUR (original: 13.71 EUR) (56.60 %  de descuento) en el siguiente enlace!
+Está [Joma Champion II - Polo para niño de 10 años  Color Burdeos](https://www.amazon.es/dp/B01CYNT37Q/?tag=redken-21) con 56.60 de descuento por 5.95 EUR (original: 13.71 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41eBNyop0AL._SL200_.jpg)](https://www.amazon.es/dp/B01CYNT37Q/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01CYNT37Q/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01CYNT37Q/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

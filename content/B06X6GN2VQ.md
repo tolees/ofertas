@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 17101 Boost - Programmierbares Robo al 26.27 % de descuento'
-date: 2020-11-03 13:00:27
+date: 2020-11-04 13:12:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg' ]
 comments: true

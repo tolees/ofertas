@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Levi s SS Original Hm tee Camiseta  Mult al 32.04 % de descuento'
-date: 2020-11-02 12:47:36
+title: 'Levi s SS Original Hm tee Camiseta  Cott al 32.20 % de descuento'
+date: 2020-11-04 13:22:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DZrzX3xzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DZrzX3xzL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07DFNKSQR
 description:
-actualPrice: 16.99 EUR
+actualPrice: 16.95 EUR
 comparePrice: 25.0 EUR
 inStock: true
 ---
 
-Está [Levi s SS Original Hm tee Camiseta  Multicolor  Cotton + Patch White 0000   X-Small para Hombre](https://www.amazon.es/dp/B07DFNKSQR/?tag=redken-21) con 32.04 de descuento por 16.99 EUR (original: 25.0 EUR) en el siguiente enlace!
+Está [Levi s SS Original Hm tee Camiseta  Cotton + Patch White  XS para Hombre](https://www.amazon.es/dp/B07DFNKSQR/?tag=redken-21) con 32.20 de descuento por 16.95 EUR (original: 25.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41DZrzX3xzL._SL200_.jpg)](https://www.amazon.es/dp/B07DFNKSQR/?tag=redken-21)
 

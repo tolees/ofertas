@@ -14,11 +14,11 @@ comparePrice: 13.39 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Essie ESSP0127 Esmalte de Uñas  Tono Private Weekend](https://www.amazon.es/dp/B00W6BNWRY/?tag=redken-21) a 5.77 EUR (original: 13.39 EUR) (56.91 %  de descuento) en el siguiente enlace!
+Está [Essie ESSP0127 Esmalte de Uñas  Tono Private Weekend](https://www.amazon.es/dp/B00W6BNWRY/?tag=redken-21) con 56.91 de descuento por 5.77 EUR (original: 13.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31IUy3Sf4zL._SL200_.jpg)](https://www.amazon.es/dp/B00W6BNWRY/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00W6BNWRY/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00W6BNWRY/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

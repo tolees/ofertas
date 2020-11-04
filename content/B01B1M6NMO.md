@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.01 % en WMF Boston Cromargan - Cubertería 66 pie'
-date: 2020-11-02 09:05:27
+date: 2020-11-04 13:21:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UNRj24tpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UNRj24tpL._SL200_.jpg' ]
 comments: true

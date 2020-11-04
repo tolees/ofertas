@@ -14,11 +14,11 @@ comparePrice: 13.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES Jortobi tee SS Crew Neck. Camiseta   Total Eclipse Fit: Slim   Medium para Hombre](https://www.amazon.es/dp/B07NHTZY1Z/?tag=redken-21) a 5.1 EUR (original: 13.84 EUR) (63.15 %  de descuento) en el siguiente enlace!
+Está [JACK & JONES Jortobi tee SS Crew Neck. Camiseta   Total Eclipse Fit: Slim   Medium para Hombre](https://www.amazon.es/dp/B07NHTZY1Z/?tag=redken-21) con 63.15 de descuento por 5.1 EUR (original: 13.84 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411GOnDFTLL._SL200_.jpg)](https://www.amazon.es/dp/B07NHTZY1Z/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NHTZY1Z/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NHTZY1Z/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
