@@ -14,11 +14,11 @@ comparePrice: 19.74 EUR
 inStock: true
 ---
 
-Está [Johnson s baby Perfumería de Bebé - Baby champú gotas de brillo   500 ml - [Pack de 6]](https://www.amazon.es/dp/B071RSKZXS/?tag=redken-21) con 46.81 de descuento por 10.5 EUR (original: 19.74 EUR) en el siguiente enlace!
+Ahora mismo tienes [Johnson s baby Perfumería de Bebé - Baby champú gotas de brillo   500 ml - [Pack de 6]](https://www.amazon.es/dp/B071RSKZXS/?tag=redken-21) a 10.5 EUR (original: 19.74 EUR) (46.81 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413nd%2BGKrcL._SL200_.jpg)](https://www.amazon.es/dp/B071RSKZXS/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071RSKZXS/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B071RSKZXS/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
