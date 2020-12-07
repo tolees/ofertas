@@ -6,6 +6,8 @@ theme = "hugo-shopping-product-catalogue-simple"
 [Params]
 description = "Las últimas rebajas de"
 channel = "https://t.me/s/ofertas25"
+ga = "G-4CEX6809SN"
+yandex = "4c7756e0d46ecc84"
 
 [sitemap]
   changefreq = "daily"
