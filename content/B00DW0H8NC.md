@@ -14,10 +14,12 @@ comparePrice: 13.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Harold und Maude [Alemania] [Blu-ray]](https://www.amazon.es/dp/B00DW0H8NC/?tag=tolees-21) a 6.13 EUR (original: 13.97 EUR) (56.12 %  de descuento) en el siguiente enlace!
+Está [Harold und Maude [Alemania] [Blu-ray]](https://www.amazon.es/dp/B00DW0H8NC/?tag=tolees-21) con 56.12 de descuento por 6.13 EUR (original: 13.97 EUR) en el siguiente enlace!
 
 [![Harold und Maude [Alemania] [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51zwF6QU10L._SL200_.jpg)](https://www.amazon.es/dp/B00DW0H8NC/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00DW0H8NC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00DW0H8NC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

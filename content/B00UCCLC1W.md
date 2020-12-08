@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.12 % en Compo Sana Universal de Calidad para mac'
-date: 2020-12-06 08:11:11
+date: 2020-12-08 19:33:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KbPihPcfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KbPihPcfL._SL200_.jpg' ]
 comments: true

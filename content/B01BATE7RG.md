@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.50 % en BLACK+DECKER BDC2A36-QW - Pack batería d'
+title: 'BLACK+DECKER BDC2A36-QW - Pack batería d al 30.50 % de descuento'
 date: 2020-10-27 07:04:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BHiNYLyuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BHiNYLyuL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 89.28 EUR
 inStock: true
 ---
 
-Tienes [BLACK+DECKER BDC2A36-QW - Pack batería de litio 36V 2Ah y cargador](https://www.amazon.es/dp/B01BATE7RG/?tag=tolees-21) con un 30.50 % de descuento con precio de oferta de 62.05 EUR (original: 89.28 EUR) en el siguiente enlace!
+Está [BLACK+DECKER BDC2A36-QW - Pack batería de litio 36V 2Ah y cargador](https://www.amazon.es/dp/B01BATE7RG/?tag=tolees-21) con 30.50 de descuento por 62.05 EUR (original: 89.28 EUR) en el siguiente enlace!
 
 [![BLACK+DECKER BDC2A36-QW - Pack batería d](https://m.media-amazon.com/images/I/41BHiNYLyuL._SL200_.jpg)](https://www.amazon.es/dp/B01BATE7RG/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01BATE7RG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01BATE7RG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

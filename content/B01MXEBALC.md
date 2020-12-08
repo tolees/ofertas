@@ -14,12 +14,10 @@ comparePrice: 220.22 EUR
 inStock: true
 ---
 
-Está [JBM 52981 Pistola de Impacto Nano  1/2"](https://www.amazon.es/dp/B01MXEBALC/?tag=tolees-21) con 35.97 de descuento por 141.0 EUR (original: 220.22 EUR) en el siguiente enlace!
+Ahora mismo tienes [JBM 52981 Pistola de Impacto Nano  1/2"](https://www.amazon.es/dp/B01MXEBALC/?tag=tolees-21) a 141.0 EUR (original: 220.22 EUR) (35.97 %  de descuento) en el siguiente enlace!
 
 [![JBM 52981 Pistola de Impacto Nano  1/2"](https://m.media-amazon.com/images/I/41Tj0O9HIqL._SL200_.jpg)](https://www.amazon.es/dp/B01MXEBALC/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01MXEBALC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01MXEBALC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

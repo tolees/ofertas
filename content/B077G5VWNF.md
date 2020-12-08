@@ -14,10 +14,12 @@ comparePrice: 11.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Flash Gordon [Blu-ray]](https://www.amazon.es/dp/B077G5VWNF/?tag=tolees-21) a 4 EUR (original: 11.9 EUR) (66.39 %  de descuento) en el siguiente enlace!
+Está [Flash Gordon [Blu-ray]](https://www.amazon.es/dp/B077G5VWNF/?tag=tolees-21) con 66.39 de descuento por 4 EUR (original: 11.9 EUR) en el siguiente enlace!
 
 [![Flash Gordon [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/610IOPkY6dL._SL200_.jpg)](https://www.amazon.es/dp/B077G5VWNF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077G5VWNF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077G5VWNF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
