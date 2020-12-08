@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Descuento del 33.64 % en IKOHS THERA Retro - Cafetera Express par'
+date: 2020-11-23 10:49:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/51H4Yusu4iL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51H4Yusu4iL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07XBY42XM
+description:
+actualPrice: 76.95 EUR
+comparePrice: 115.95 EUR
+inStock: true
+---
+
+Tienes [IKOHS THERA Retro - Cafetera Express para Espresso y Cappucino  1100W  15 Bares  Vaporizador Orientable  Capacidad 1.25l  Café Molido y Monodosis  con Doble Salida  Rojo ](https://www.amazon.es/dp/B07XBY42XM/?tag=tolees-21) con un 33.64 % de descuento con precio de oferta de 76.95 EUR (original: 115.95 EUR) en el siguiente enlace!
+
+[![IKOHS THERA Retro - Cafetera Express par](https://m.media-amazon.com/images/I/51H4Yusu4iL._SL200_.jpg)](https://www.amazon.es/dp/B07XBY42XM/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B07XBY42XM/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

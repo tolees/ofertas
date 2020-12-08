@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Descuento del 56.72 % en EBY LC123 XL Cartuchos de Tinta para Imp'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ty1FT9x8L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ty1FT9x8L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B0788LPQTF
+description:
+actualPrice: 12.98 EUR
+comparePrice: 29.99 EUR
+inStock: true
+---
+
+Tienes [EBY LC123 XL Cartuchos de Tinta para Impresoras Brother DCP-LC123 DCP-J132W DCP-J152W DCP-J650DW DCP-J752DW MFC-J870DW MFC-J4410DW MFC-J4510DW MFC-J4610DW  4 Negro  2 Cyan  2 Magenta  2 Amarillo ](https://www.amazon.es/dp/B0788LPQTF/?tag=tolees-21) con un 56.72 % de descuento con precio de oferta de 12.98 EUR (original: 29.99 EUR) en el siguiente enlace!
+
+[![EBY LC123 XL Cartuchos de Tinta para Imp](https://images-eu.ssl-images-amazon.com/images/I/51ty1FT9x8L._SL200_.jpg)](https://www.amazon.es/dp/B0788LPQTF/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B0788LPQTF/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Catral 31010004 - Bordura flexible de ma al 32.51 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YUBc7zizL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YUBc7zizL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B01MPXRQ3I
+description:
+actualPrice: 11.27 EUR
+comparePrice: 16.7 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Catral 31010004 - Bordura flexible de madera tratada 30x250 cm. diam.7 cm.](https://www.amazon.es/dp/B01MPXRQ3I/?tag=tolees-21) a 11.27 EUR (original: 16.7 EUR) (32.51 %  de descuento) en el siguiente enlace!
+
+[![Catral 31010004 - Bordura flexible de ma](https://images-eu.ssl-images-amazon.com/images/I/41YUBc7zizL._SL200_.jpg)](https://www.amazon.es/dp/B01MPXRQ3I/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B01MPXRQ3I/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'ARTEZA Pintura acrílica para pouring pai al 25.30 % de descuento'
+date: 2020-11-20 18:15:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/510cdBNzG2L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/510cdBNzG2L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07YGTXZSR
+description:
+actualPrice: 44.37 EUR
+comparePrice: 59.4 EUR
+inStock: true
+---
+
+Ahora mismo tienes [ARTEZA Pintura acrílica para pouring paint | Botes de 60 ml | 32 colores surtidos | No necesita mezcla | Pinturas acrílicas fluidas para verter sobre lienzo  vidrio  papel  madera  azulejos y piedras](https://www.amazon.es/dp/B07YGTXZSR/?tag=tolees-21) a 44.37 EUR (original: 59.4 EUR) (25.30 %  de descuento) en el siguiente enlace!
+
+[![ARTEZA Pintura acrílica para pouring pai](https://m.media-amazon.com/images/I/510cdBNzG2L._SL200_.jpg)](https://www.amazon.es/dp/B07YGTXZSR/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07YGTXZSR/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

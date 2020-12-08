@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Descuento del 56.11 % en Columbia Nelson Point Polo de Manga Cort'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fElOKcd4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fElOKcd4L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07BCMTPVL
+description:
+actualPrice: 21.94 EUR
+comparePrice: 49.99 EUR
+inStock: true
+---
+
+Tienes [Columbia Nelson Point Polo de Manga Corta  Hombre  Azul  Collegiate Navy   XS](https://www.amazon.es/dp/B07BCMTPVL/?tag=tolees-21) con un 56.11 % de descuento con precio de oferta de 21.94 EUR (original: 49.99 EUR) en el siguiente enlace!
+
+[![Columbia Nelson Point Polo de Manga Cort](https://images-eu.ssl-images-amazon.com/images/I/41fElOKcd4L._SL200_.jpg)](https://www.amazon.es/dp/B07BCMTPVL/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B07BCMTPVL/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

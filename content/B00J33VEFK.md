@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Rocks-Off Roxy Rabbit Vibrador  Color Pú al 59.54 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NIgEzntJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NIgEzntJL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00J33VEFK
+description:
+actualPrice: 26.09 EUR
+comparePrice: 64.49 EUR
+inStock: true
+---
+
+Está [Rocks-Off Roxy Rabbit Vibrador  Color Púrpura - 248 gr](https://www.amazon.es/dp/B00J33VEFK/?tag=tolees-21) con 59.54 de descuento por 26.09 EUR (original: 64.49 EUR) en el siguiente enlace!
+
+[![Rocks-Off Roxy Rabbit Vibrador  Color Pú](https://images-eu.ssl-images-amazon.com/images/I/31NIgEzntJL._SL200_.jpg)](https://www.amazon.es/dp/B00J33VEFK/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00J33VEFK/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

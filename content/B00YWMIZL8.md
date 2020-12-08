@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Mars Whisky - 700 ml al 45.94 % de descuento'
+date: 2020-11-17 19:43:31
+thumbnailImage: 'https://m.media-amazon.com/images/I/51qWPEQteYL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51qWPEQteYL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00YWMIZL8
+description:
+actualPrice: 49.37 EUR
+comparePrice: 91.33 EUR
+inStock: true
+---
+
+Está [Mars Whisky - 700 ml](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21) con 45.94 de descuento por 49.37 EUR (original: 91.33 EUR) en el siguiente enlace!
+
+[![Mars Whisky - 700 ml](https://m.media-amazon.com/images/I/51qWPEQteYL._SL200_.jpg)](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

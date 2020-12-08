@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Descuento del 25.00 % en IKOHS PETCARE HD - Comedero automático P'
+date: 2020-11-12 19:51:43
+thumbnailImage: 'https://m.media-amazon.com/images/I/31IAt76rD4L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31IAt76rD4L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B083ZFFLZK
+description:
+actualPrice: 114.71 EUR
+comparePrice: 152.95 EUR
+inStock: true
+---
+
+Tienes [IKOHS PETCARE HD - Comedero automático Perros y Gatos  con Cámara HD 1080P integrada con visión Nocturna e Infrarrojos  Programable  Grabadora de Voz y Altavoz  Programable  con WiFi y App  Blanco ](https://www.amazon.es/dp/B083ZFFLZK/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 114.71 EUR (original: 152.95 EUR) en el siguiente enlace!
+
+[![IKOHS PETCARE HD - Comedero automático P](https://m.media-amazon.com/images/I/31IAt76rD4L._SL200_.jpg)](https://www.amazon.es/dp/B083ZFFLZK/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B083ZFFLZK/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

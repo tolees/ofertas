@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Descuento del 33.34 % en YI Camara Vigilancia 1080p Camara IP Cam'
+date: 2020-12-05 12:05:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B01MR82BSA
+description:
+actualPrice: 39.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
+---
+
+Tienes [YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+
+[![YI Camara Vigilancia 1080p Camara IP Cam](https://m.media-amazon.com/images/I/41xCY9og74L._SL200_.jpg)](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

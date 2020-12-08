@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Crema Corporal Hidratante y Reafirmadora al 54.42 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hGGXg-ASL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hGGXg-ASL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07L4SDB7C
+description:
+actualPrice: 12.75 EUR
+comparePrice: 27.97 EUR
+inStock: true
+---
+
+Está [Crema Corporal Hidratante y Reafirmadora de Karité Perfumada 100% Orgánica y Natural para Mujer y Hombre con Aloe Vera y Todo Tipo de Piel. Humectación Perfecta para un Olor Refrescante Cítrico y Puro](https://www.amazon.es/dp/B07L4SDB7C/?tag=tolees-21) con 54.42 de descuento por 12.75 EUR (original: 27.97 EUR) en el siguiente enlace!
+
+[![Crema Corporal Hidratante y Reafirmadora](https://images-eu.ssl-images-amazon.com/images/I/51hGGXg-ASL._SL200_.jpg)](https://www.amazon.es/dp/B07L4SDB7C/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07L4SDB7C/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

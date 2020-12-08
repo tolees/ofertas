@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Chinchon Anis Chinchon Dulce - 1 l al 41.78 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mQeGvvGpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mQeGvvGpL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B01M1CHUMX
+description:
+actualPrice: 5.7 EUR
+comparePrice: 9.79 EUR
+inStock: true
+---
+
+Está [Chinchon Anis Chinchon Dulce - 1 l](https://www.amazon.es/dp/B01M1CHUMX/?tag=tolees-21) con 41.78 de descuento por 5.7 EUR (original: 9.79 EUR) en el siguiente enlace!
+
+[![Chinchon Anis Chinchon Dulce - 1 l](https://images-eu.ssl-images-amazon.com/images/I/31mQeGvvGpL._SL200_.jpg)](https://www.amazon.es/dp/B01M1CHUMX/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B01M1CHUMX/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

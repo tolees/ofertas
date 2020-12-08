@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Aigital Repetidor Extensor de Rango Inal al 29.78 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JXq73NmHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JXq73NmHL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07JGWR8Z5
+description:
+actualPrice: 20.99 EUR
+comparePrice: 29.89 EUR
+inStock: true
+---
+
+Está [Aigital Repetidor Extensor de Rango Inalámbrico de 300 Mbps 2.4GHz WPS 2 x Antenas Externas  Enrutador inalámbrico Repetidor de WiFi Amplificador Compatible con los Routers y ADSL Negro ](https://www.amazon.es/dp/B07JGWR8Z5/?tag=tolees-21) con 29.78 de descuento por 20.99 EUR (original: 29.89 EUR) en el siguiente enlace!
+
+[![Aigital Repetidor Extensor de Rango Inal](https://images-eu.ssl-images-amazon.com/images/I/41JXq73NmHL._SL200_.jpg)](https://www.amazon.es/dp/B07JGWR8Z5/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07JGWR8Z5/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

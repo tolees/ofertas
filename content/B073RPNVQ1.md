@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Helly Hansen Salt Flag F-1 Zapatillas de al 50.00 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rHjHQDuRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rHjHQDuRL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B073RPNVQ1
+description:
+actualPrice: 32.5 EUR
+comparePrice: 65 EUR
+inStock: true
+---
+
+Está [Helly Hansen Salt Flag F-1 Zapatillas de Deporte  Hombre  Blanco  Off White/Silver Grey/11   44 EU](https://www.amazon.es/dp/B073RPNVQ1/?tag=tolees-21) con 50.00 de descuento por 32.5 EUR (original: 65 EUR) en el siguiente enlace!
+
+[![Helly Hansen Salt Flag F-1 Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41rHjHQDuRL._SL200_.jpg)](https://www.amazon.es/dp/B073RPNVQ1/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B073RPNVQ1/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
