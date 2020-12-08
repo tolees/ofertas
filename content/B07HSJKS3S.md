@@ -14,10 +14,12 @@ comparePrice: 80.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kindle  Reacondicionado Certificado  Negro - con luz frontal integrada](https://www.amazon.es/dp/B07HSJKS3S/?tag=tolees-21) a 42.88 EUR (original: 80.99 EUR) (47.06 %  de descuento) en el siguiente enlace!
+Está [Kindle  Reacondicionado Certificado  Negro - con luz frontal integrada](https://www.amazon.es/dp/B07HSJKS3S/?tag=tolees-21) con 47.06 de descuento por 42.88 EUR (original: 80.99 EUR) en el siguiente enlace!
 
 [![Kindle  Reacondicionado Certificado  Neg](https://m.media-amazon.com/images/I/41mls4lzcNL._SL200_.jpg)](https://www.amazon.es/dp/B07HSJKS3S/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07HSJKS3S/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07HSJKS3S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

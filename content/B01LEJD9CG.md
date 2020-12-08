@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP! Bobble - Daredevil: Elektra al 33.36 % de descuento'
-date: 2020-12-06 11:11:46
+date: 2020-12-08 15:25:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RvE0vN1kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RvE0vN1kL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Keter Linear Armario escobero  Negro/Gri al 35.74 % de descuento'
-date: 2020-12-07 11:03:17
+date: 2020-12-08 15:46:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EEqxXauwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EEqxXauwL._SL200_.jpg' ]
 comments: true

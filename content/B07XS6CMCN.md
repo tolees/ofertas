@@ -14,12 +14,10 @@ comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Está [Football Manager 2020](https://www.amazon.es/dp/B07XS6CMCN/?tag=tolees-21) con 79.03 de descuento por 11.53 EUR (original: 54.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Football Manager 2020](https://www.amazon.es/dp/B07XS6CMCN/?tag=tolees-21) a 11.53 EUR (original: 54.99 EUR) (79.03 %  de descuento) en el siguiente enlace!
 
 [![Football Manager 2020](https://m.media-amazon.com/images/I/51tGEb8EKTL._SL200_.jpg)](https://www.amazon.es/dp/B07XS6CMCN/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07XS6CMCN/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07XS6CMCN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
