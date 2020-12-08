@@ -14,10 +14,12 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AIMEILI Base y Top Coat Semipermanente Esmalte Semipermanente de uñas Gel UV LED Set de Regalo Para Manicura y Pedicura Soak off - 2 x 10ml](https://www.amazon.es/dp/B00PF9Q5EG/?tag=tolees-21) a 9.59 EUR (original: 14.99 EUR) (36.02 %  de descuento) en el siguiente enlace!
+Está [AIMEILI Base y Top Coat Semipermanente Esmalte Semipermanente de uñas Gel UV LED Set de Regalo Para Manicura y Pedicura Soak off - 2 x 10ml](https://www.amazon.es/dp/B00PF9Q5EG/?tag=tolees-21) con 36.02 de descuento por 9.59 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![AIMEILI Base y Top Coat Semipermanente E](https://images-eu.ssl-images-amazon.com/images/I/51EEUESb4pL._SL200_.jpg)](https://www.amazon.es/dp/B00PF9Q5EG/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00PF9Q5EG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00PF9Q5EG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

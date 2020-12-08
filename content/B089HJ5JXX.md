@@ -14,12 +14,10 @@ comparePrice: 29.7 EUR
 inStock: true
 ---
 
-Está [TRESemmé Acondicionador Liso y Sedoso 6 x 855 ML](https://www.amazon.es/dp/B089HJ5JXX/?tag=tolees-21) con 33.50 de descuento por 19.75 EUR (original: 29.7 EUR) en el siguiente enlace!
+Ahora mismo tienes [TRESemmé Acondicionador Liso y Sedoso 6 x 855 ML](https://www.amazon.es/dp/B089HJ5JXX/?tag=tolees-21) a 19.75 EUR (original: 29.7 EUR) (33.50 %  de descuento) en el siguiente enlace!
 
 [![TRESemmé Acondicionador Liso y Sedoso 6 ](https://m.media-amazon.com/images/I/41t6cEvykYL._SL200_.jpg)](https://www.amazon.es/dp/B089HJ5JXX/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B089HJ5JXX/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B089HJ5JXX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -14,10 +14,12 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma ESS Logo Pants  Mujer  Gris  Light Gray Heather   L](https://www.amazon.es/dp/B07D5RVWF1/?tag=tolees-21) a 14.28 EUR (original: 29.95 EUR) (52.32 %  de descuento) en el siguiente enlace!
+Está [Puma ESS Logo Pants  Mujer  Gris  Light Gray Heather   L](https://www.amazon.es/dp/B07D5RVWF1/?tag=tolees-21) con 52.32 de descuento por 14.28 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![Puma ESS Logo Pants  Mujer  Gris  Light ](https://images-eu.ssl-images-amazon.com/images/I/41mCpDw-OmL._SL200_.jpg)](https://www.amazon.es/dp/B07D5RVWF1/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07D5RVWF1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07D5RVWF1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

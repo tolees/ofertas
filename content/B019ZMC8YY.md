@@ -14,12 +14,10 @@ comparePrice: 7.0 EUR
 inStock: true
 ---
 
-Está [Rimmel London  Pintalabios  410 Not Guilty  - 18 gr.](https://www.amazon.es/dp/B019ZMC8YY/?tag=tolees-21) con 32.14 de descuento por 4.75 EUR (original: 7.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London  Pintalabios  410 Not Guilty  - 18 gr.](https://www.amazon.es/dp/B019ZMC8YY/?tag=tolees-21) a 4.75 EUR (original: 7.0 EUR) (32.14 %  de descuento) en el siguiente enlace!
 
 [![Rimmel London  Pintalabios  410 Not Guil](https://m.media-amazon.com/images/I/31UpHMI-h4L._SL200_.jpg)](https://www.amazon.es/dp/B019ZMC8YY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B019ZMC8YY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B019ZMC8YY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

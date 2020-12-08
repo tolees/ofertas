@@ -14,10 +14,12 @@ comparePrice: 11.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [VICKY MARTIN BERROCAL colonia eterna spray 100 ml](https://www.amazon.es/dp/B07CWVXQ5M/?tag=tolees-21) a 8.44 EUR (original: 11.95 EUR) (29.37 %  de descuento) en el siguiente enlace!
+Está [VICKY MARTIN BERROCAL colonia eterna spray 100 ml](https://www.amazon.es/dp/B07CWVXQ5M/?tag=tolees-21) con 29.37 de descuento por 8.44 EUR (original: 11.95 EUR) en el siguiente enlace!
 
 [![VICKY MARTIN BERROCAL colonia eterna spr](https://m.media-amazon.com/images/I/41onlzy5BgL._SL200_.jpg)](https://www.amazon.es/dp/B07CWVXQ5M/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07CWVXQ5M/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CWVXQ5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
