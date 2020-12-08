@@ -14,10 +14,12 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Led Downlight Led Techo Foco Empotrable  LOHAS 7W=60W Incandescente  Blanco Cálido 3000K  560LM  240V  No-Regulable  IP65  Luz de Techo para Hogar  Oficina  Iluminación Comercia  Pequedete 6 Unidades.](https://www.amazon.es/dp/B07ZKWHJFH/?tag=tolees-21) a 10.99 EUR (original: 17.99 EUR) (38.91 %  de descuento) en el siguiente enlace!
+Está [Led Downlight Led Techo Foco Empotrable  LOHAS 7W=60W Incandescente  Blanco Cálido 3000K  560LM  240V  No-Regulable  IP65  Luz de Techo para Hogar  Oficina  Iluminación Comercia  Pequedete 6 Unidades.](https://www.amazon.es/dp/B07ZKWHJFH/?tag=tolees-21) con 38.91 de descuento por 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![Led Downlight Led Techo Foco Empotrable ](https://m.media-amazon.com/images/I/41fcGEeILfL._SL200_.jpg)](https://www.amazon.es/dp/B07ZKWHJFH/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07ZKWHJFH/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07ZKWHJFH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

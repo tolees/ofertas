@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.19 % en TCL 10 SE – Smartphone de 6.52” HD+  con'
-date: 2020-12-07 07:48:14
+date: 2020-12-08 14:39:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wWnVjXyzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wWnVjXyzL._SL200_.jpg' ]
 comments: true

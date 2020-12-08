@@ -14,10 +14,12 @@ comparePrice: 299 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cortefiel Traje Hombre Azul Marino ES 52](https://www.amazon.es/dp/B01IHHTZTE/?tag=tolees-21) a 70.27 EUR (original: 299 EUR) (76.50 %  de descuento) en el siguiente enlace!
+Está [Cortefiel Traje Hombre Azul Marino ES 52](https://www.amazon.es/dp/B01IHHTZTE/?tag=tolees-21) con 76.50 de descuento por 70.27 EUR (original: 299 EUR) en el siguiente enlace!
 
 [![Cortefiel Traje Hombre Azul Marino ES 52](https://images-eu.ssl-images-amazon.com/images/I/31belr4EtlL._SL200_.jpg)](https://www.amazon.es/dp/B01IHHTZTE/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01IHHTZTE/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01IHHTZTE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
