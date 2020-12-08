@@ -14,10 +14,12 @@ comparePrice: 19.31 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DeFacto - Cárdigan con capucha y cremallera para mujer D.yellow. S](https://www.amazon.es/dp/B07ZQLDGG1/?tag=tolees-21) a 9.99 EUR (original: 19.31 EUR) (48.27 %  de descuento) en el siguiente enlace!
+Está [DeFacto - Cárdigan con capucha y cremallera para mujer D.yellow. S](https://www.amazon.es/dp/B07ZQLDGG1/?tag=tolees-21) con 48.27 de descuento por 9.99 EUR (original: 19.31 EUR) en el siguiente enlace!
 
 [![DeFacto - Cárdigan con capucha y cremall](https://m.media-amazon.com/images/I/31knZgjtVyL._SL200_.jpg)](https://www.amazon.es/dp/B07ZQLDGG1/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07ZQLDGG1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07ZQLDGG1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

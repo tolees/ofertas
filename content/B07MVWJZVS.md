@@ -14,10 +14,12 @@ comparePrice: 112.39 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21) a 77.95 EUR (original: 112.39 EUR) (30.64 %  de descuento) en el siguiente enlace!
+Está [WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21) con 30.64 de descuento por 77.95 EUR (original: 112.39 EUR) en el siguiente enlace!
 
 [![WD My Passport Go 500 GB  disco duro sól](https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg)](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

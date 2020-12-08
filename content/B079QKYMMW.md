@@ -14,10 +14,12 @@ comparePrice: 135 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans London Maddox Army  Botas para Mujer  Negro  Black 999   39 EU](https://www.amazon.es/dp/B079QKYMMW/?tag=tolees-21) a 32.47 EUR (original: 135 EUR) (75.95 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans London Maddox Army  Botas para Mujer  Negro  Black 999   39 EU](https://www.amazon.es/dp/B079QKYMMW/?tag=tolees-21) con 75.95 de descuento por 32.47 EUR (original: 135 EUR) en el siguiente enlace!
 
 [![Pepe Jeans London Maddox Army  Botas par](https://images-eu.ssl-images-amazon.com/images/I/41DAvkkrBkL._SL200_.jpg)](https://www.amazon.es/dp/B079QKYMMW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079QKYMMW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079QKYMMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

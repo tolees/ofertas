@@ -14,10 +14,12 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PDP - Starter Kit Zelda Link Tunic Edition  Nintendo Switch ](https://www.amazon.es/dp/B01MT8XY4V/?tag=tolees-21) a 9.99 EUR (original: 34.99 EUR) (71.45 %  de descuento) en el siguiente enlace!
+Está [PDP - Starter Kit Zelda Link Tunic Edition  Nintendo Switch ](https://www.amazon.es/dp/B01MT8XY4V/?tag=tolees-21) con 71.45 de descuento por 9.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![PDP - Starter Kit Zelda Link Tunic Editi](https://images-eu.ssl-images-amazon.com/images/I/51ZAIx8CzxL._SL200_.jpg)](https://www.amazon.es/dp/B01MT8XY4V/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MT8XY4V/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MT8XY4V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

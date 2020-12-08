@@ -14,10 +14,12 @@ comparePrice: 111.44 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Seagate Expansion Portable  2TB  Disco duro externo  HDD  USB 3.0 para PC  ordenador portátil y Mac  STEA2000400 ](https://www.amazon.es/dp/B00TKFEE5S/?tag=tolees-21) a 67.8 EUR (original: 111.44 EUR) (39.16 %  de descuento) en el siguiente enlace!
+Está [Seagate Expansion Portable  2TB  Disco duro externo  HDD  USB 3.0 para PC  ordenador portátil y Mac  STEA2000400 ](https://www.amazon.es/dp/B00TKFEE5S/?tag=tolees-21) con 39.16 de descuento por 67.8 EUR (original: 111.44 EUR) en el siguiente enlace!
 
 [![Seagate Expansion Portable  2TB  Disco d](https://m.media-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg)](https://www.amazon.es/dp/B00TKFEE5S/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00TKFEE5S/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00TKFEE5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
