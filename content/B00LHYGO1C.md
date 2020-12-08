@@ -14,12 +14,10 @@ comparePrice: 7.72 EUR
 inStock: true
 ---
 
-Está [CEPSA 512564188 Lubricante Sintético para Vehículos Gasolina y Diésel](https://www.amazon.es/dp/B00LHYGO1C/?tag=tolees-21) con 27.33 de descuento por 5.61 EUR (original: 7.72 EUR) en el siguiente enlace!
+Ahora mismo tienes [CEPSA 512564188 Lubricante Sintético para Vehículos Gasolina y Diésel](https://www.amazon.es/dp/B00LHYGO1C/?tag=tolees-21) a 5.61 EUR (original: 7.72 EUR) (27.33 %  de descuento) en el siguiente enlace!
 
 [![CEPSA 512564188 Lubricante Sintético par](https://images-eu.ssl-images-amazon.com/images/I/41LYwKMEVOL._SL200_.jpg)](https://www.amazon.es/dp/B00LHYGO1C/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00LHYGO1C/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00LHYGO1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

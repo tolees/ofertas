@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun HC 5010 - Máquina de cortar pelo p al 41.99 % de descuento'
-date: 2020-12-06 18:15:39
+date: 2020-12-08 18:38:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w0Uj9S9XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w0Uj9S9XL._SL200_.jpg' ]
 comments: true

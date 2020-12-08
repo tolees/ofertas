@@ -14,12 +14,10 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [El honor perdido de Katharina Blum [Blu-ray]](https://www.amazon.es/dp/B06XWW2RJ6/?tag=tolees-21) con 37.30 de descuento por 10.0 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [El honor perdido de Katharina Blum [Blu-ray]](https://www.amazon.es/dp/B06XWW2RJ6/?tag=tolees-21) a 10.0 EUR (original: 15.95 EUR) (37.30 %  de descuento) en el siguiente enlace!
 
 [![El honor perdido de Katharina Blum [Blu-](https://m.media-amazon.com/images/I/510ay23wFRL._SL200_.jpg)](https://www.amazon.es/dp/B06XWW2RJ6/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XWW2RJ6/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XWW2RJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

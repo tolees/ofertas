@@ -14,10 +14,12 @@ comparePrice: 27.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Diadermine - Desmaquillador de ojos - 125ml  pack de 6  Total: 750ml](https://www.amazon.es/dp/B071GRBY7K/?tag=tolees-21) a 11.32 EUR (original: 27.9 EUR) (59.43 %  de descuento) en el siguiente enlace!
+Está [Diadermine - Desmaquillador de ojos - 125ml  pack de 6  Total: 750ml](https://www.amazon.es/dp/B071GRBY7K/?tag=tolees-21) con 59.43 de descuento por 11.32 EUR (original: 27.9 EUR) en el siguiente enlace!
 
 [![Diadermine - Desmaquillador de ojos - 12](https://images-eu.ssl-images-amazon.com/images/I/41amCLyDQaL._SL200_.jpg)](https://www.amazon.es/dp/B071GRBY7K/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B071GRBY7K/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071GRBY7K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

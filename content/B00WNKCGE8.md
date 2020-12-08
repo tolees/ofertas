@@ -14,12 +14,10 @@ comparePrice: 901.9 EUR
 inStock: true
 ---
 
-Está [Bosch Professional GBH 12-52 DV - Martillo perforador combinado  19 J  Ø máx. hormigón 52 mm  SDS max  Vibration control  en maletín ](https://www.amazon.es/dp/B00WNKCGE8/?tag=tolees-21) con 25.71 de descuento por 669.99 EUR (original: 901.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch Professional GBH 12-52 DV - Martillo perforador combinado  19 J  Ø máx. hormigón 52 mm  SDS max  Vibration control  en maletín ](https://www.amazon.es/dp/B00WNKCGE8/?tag=tolees-21) a 669.99 EUR (original: 901.9 EUR) (25.71 %  de descuento) en el siguiente enlace!
 
 [![Bosch Professional GBH 12-52 DV - Martil](https://m.media-amazon.com/images/I/41IYQqSaM9L._SL200_.jpg)](https://www.amazon.es/dp/B00WNKCGE8/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00WNKCGE8/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00WNKCGE8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

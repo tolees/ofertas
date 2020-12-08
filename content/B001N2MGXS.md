@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.50 % en Helly Hansen Logo Cap - Gorra unisex  co'
+title: 'Helly Hansen Logo Cap - Gorra unisex  co al 50.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vUwa0Zf5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vUwa0Zf5L._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Tienes [Helly Hansen Logo Cap - Gorra unisex  color rojo  talla única](https://www.amazon.es/dp/B001N2MGXS/?tag=tolees-21) con un 50.50 % de descuento con precio de oferta de 9.9 EUR (original: 20 EUR) en el siguiente enlace!
+Está [Helly Hansen Logo Cap - Gorra unisex  color rojo  talla única](https://www.amazon.es/dp/B001N2MGXS/?tag=tolees-21) con 50.50 de descuento por 9.9 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![Helly Hansen Logo Cap - Gorra unisex  co](https://images-eu.ssl-images-amazon.com/images/I/41vUwa0Zf5L._SL200_.jpg)](https://www.amazon.es/dp/B001N2MGXS/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B001N2MGXS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001N2MGXS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

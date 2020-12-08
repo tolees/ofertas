@@ -14,10 +14,12 @@ comparePrice: 165.86 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Imperial Confort Copenhague - Colchón viscoelástico - 150 x 190 x 21 -Color blanco](https://www.amazon.es/dp/B07FMD8F6V/?tag=tolees-21) a 123.51 EUR (original: 165.86 EUR) (25.53 %  de descuento) en el siguiente enlace!
+Está [Imperial Confort Copenhague - Colchón viscoelástico - 150 x 190 x 21 -Color blanco](https://www.amazon.es/dp/B07FMD8F6V/?tag=tolees-21) con 25.53 de descuento por 123.51 EUR (original: 165.86 EUR) en el siguiente enlace!
 
 [![Imperial Confort Copenhague - Colchón vi](https://images-eu.ssl-images-amazon.com/images/I/41YiXflmUUL._SL200_.jpg)](https://www.amazon.es/dp/B07FMD8F6V/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FMD8F6V/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FMD8F6V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
