@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.35 % en Maxesla WiFi Adaptador AC 1200Mbps USB W'
-date: 2020-12-07 09:38:28
+date: 2020-12-08 16:25:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tkifPYW-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tkifPYW-L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter Colección Completa Ed19 [DV al 31.67 % de descuento'
-date: 2020-12-06 21:27:58
+date: 2020-12-08 16:29:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gcelkvjTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gcelkvjTL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,12 @@ comparePrice: 2.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rapesco - Caja de 5000 grapas 26 / 6 mm  uso standard en la mayoría de grapadoras](https://www.amazon.es/dp/B000NLZAME/?tag=tolees-21) a 1.68 EUR (original: 2.99 EUR) (43.81 %  de descuento) en el siguiente enlace!
+Está [Rapesco - Caja de 5000 grapas 26 / 6 mm  uso standard en la mayoría de grapadoras](https://www.amazon.es/dp/B000NLZAME/?tag=tolees-21) con 43.81 de descuento por 1.68 EUR (original: 2.99 EUR) en el siguiente enlace!
 
 [![Rapesco - Caja de 5000 grapas 26 / 6 mm ](https://m.media-amazon.com/images/I/41-sGMK27BL._SL200_.jpg)](https://www.amazon.es/dp/B000NLZAME/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000NLZAME/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000NLZAME/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

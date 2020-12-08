@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mpow EG10 Auriculares Gaming para PS4  P al 30.01 % de descuento'
-date: 2020-12-02 11:53:43
+date: 2020-12-08 16:49:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cc7h+a61L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cc7h+a61L._SL200_.jpg' ]
 comments: true

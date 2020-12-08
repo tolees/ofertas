@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Polo SS Noos - Cam al 53.37 % de descuento'
-date: 2020-11-17 17:18:05
+date: 2020-12-08 16:50:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Ki+DUPDnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Ki+DUPDnL._SL200_.jpg' ]
 comments: true
