@@ -14,10 +14,12 @@ comparePrice: 70.94 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Medisana MP 840 Set de manicura y pedicura eléctrica con 7 accesorios para el cuidado de las uñas  3 velocidades para uñas  cutículas y callo](https://www.amazon.es/dp/B01MZ1V9SV/?tag=tolees-21) a 39.99 EUR (original: 70.94 EUR) (43.63 %  de descuento) en el siguiente enlace!
+Está [Medisana MP 840 Set de manicura y pedicura eléctrica con 7 accesorios para el cuidado de las uñas  3 velocidades para uñas  cutículas y callo](https://www.amazon.es/dp/B01MZ1V9SV/?tag=tolees-21) con 43.63 de descuento por 39.99 EUR (original: 70.94 EUR) en el siguiente enlace!
 
 [![Medisana MP 840 Set de manicura y pedicu](https://m.media-amazon.com/images/I/41be1i4GV6L._SL200_.jpg)](https://www.amazon.es/dp/B01MZ1V9SV/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MZ1V9SV/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MZ1V9SV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

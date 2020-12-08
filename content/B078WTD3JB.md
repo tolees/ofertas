@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortefiel Polo Básico Manga Corta  Hombr al 67.10 % de descuento'
+title: 'Descuento del 67.10 % en Cortefiel Polo Básico Manga Corta  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417UNrnxFAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417UNrnxFAL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 35.99 EUR
 inStock: true
 ---
 
-Está [Cortefiel Polo Básico Manga Corta  Hombre   Gama Azules 12   Medium](https://www.amazon.es/dp/B078WTD3JB/?tag=tolees-21) con 67.10 de descuento por 11.84 EUR (original: 35.99 EUR) en el siguiente enlace!
+Tienes [Cortefiel Polo Básico Manga Corta  Hombre   Gama Azules 12   Medium](https://www.amazon.es/dp/B078WTD3JB/?tag=tolees-21) con un 67.10 % de descuento con precio de oferta de 11.84 EUR (original: 35.99 EUR) en el siguiente enlace!
 
 [![Cortefiel Polo Básico Manga Corta  Hombr](https://images-eu.ssl-images-amazon.com/images/I/417UNrnxFAL._SL200_.jpg)](https://www.amazon.es/dp/B078WTD3JB/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078WTD3JB/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B078WTD3JB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

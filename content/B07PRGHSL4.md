@@ -14,10 +14,12 @@ comparePrice: 6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Paper Mate bolígrafos de gel  punta de aguja suave  0 5 mm   negro  12 unidades](https://www.amazon.es/dp/B07PRGHSL4/?tag=tolees-21) a 2.97 EUR (original: 6 EUR) (50.50 %  de descuento) en el siguiente enlace!
+Está [Paper Mate bolígrafos de gel  punta de aguja suave  0 5 mm   negro  12 unidades](https://www.amazon.es/dp/B07PRGHSL4/?tag=tolees-21) con 50.50 de descuento por 2.97 EUR (original: 6 EUR) en el siguiente enlace!
 
 [![Paper Mate bolígrafos de gel  punta de a](https://images-eu.ssl-images-amazon.com/images/I/41eH5-XxTjL._SL200_.jpg)](https://www.amazon.es/dp/B07PRGHSL4/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07PRGHSL4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PRGHSL4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

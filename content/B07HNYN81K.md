@@ -14,12 +14,10 @@ comparePrice: 16.99 EUR
 inStock: true
 ---
 
-Está [Estuche de Portaminas - 4 Tamaños: 0.3  0.5  0.7 y 0.9 mm  30 Minas HB  por cada Lápiz Mecánico - 4 Borradores - Dibuja  Ilustra  Para Arquitectura  Escritura y Trabajo Escolar - MozArt Supplies](https://www.amazon.es/dp/B07HNYN81K/?tag=tolees-21) con 50.62 de descuento por 8.39 EUR (original: 16.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Estuche de Portaminas - 4 Tamaños: 0.3  0.5  0.7 y 0.9 mm  30 Minas HB  por cada Lápiz Mecánico - 4 Borradores - Dibuja  Ilustra  Para Arquitectura  Escritura y Trabajo Escolar - MozArt Supplies](https://www.amazon.es/dp/B07HNYN81K/?tag=tolees-21) a 8.39 EUR (original: 16.99 EUR) (50.62 %  de descuento) en el siguiente enlace!
 
 [![Estuche de Portaminas - 4 Tamaños: 0.3  ](https://m.media-amazon.com/images/I/4180w-cKtgL._SL200_.jpg)](https://www.amazon.es/dp/B07HNYN81K/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HNYN81K/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HNYN81K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -14,12 +14,10 @@ comparePrice: 198.34 EUR
 inStock: true
 ---
 
-Está [WD My Passport Go 1 TB  disco duro sólido externo - acabado ámbar](https://www.amazon.es/dp/B07MVWG9KM/?tag=tolees-21) con 35.72 de descuento por 127.49 EUR (original: 198.34 EUR) en el siguiente enlace!
+Ahora mismo tienes [WD My Passport Go 1 TB  disco duro sólido externo - acabado ámbar](https://www.amazon.es/dp/B07MVWG9KM/?tag=tolees-21) a 127.49 EUR (original: 198.34 EUR) (35.72 %  de descuento) en el siguiente enlace!
 
 [![WD My Passport Go 1 TB  disco duro sólid](https://m.media-amazon.com/images/I/418+XdiabzL._SL200_.jpg)](https://www.amazon.es/dp/B07MVWG9KM/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07MVWG9KM/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07MVWG9KM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

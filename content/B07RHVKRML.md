@@ -14,12 +14,10 @@ comparePrice: 41.01 EUR
 inStock: true
 ---
 
-Está [Bloodstained: Ritual of the night](https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21) con 51.35 de descuento por 19.95 EUR (original: 41.01 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bloodstained: Ritual of the night](https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21) a 19.95 EUR (original: 41.01 EUR) (51.35 %  de descuento) en el siguiente enlace!
 
 [![Bloodstained: Ritual of the night](https://m.media-amazon.com/images/I/51efBSC2OtL._SL200_.jpg)](https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

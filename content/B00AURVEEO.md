@@ -14,10 +14,12 @@ comparePrice: 1.54 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gullón - Galleta Sándwich chocolate sin azúcar Diet Nature 250g](https://www.amazon.es/dp/B00AURVEEO/?tag=tolees-21) a 0.99 EUR (original: 1.54 EUR) (35.71 %  de descuento) en el siguiente enlace!
+Está [Gullón - Galleta Sándwich chocolate sin azúcar Diet Nature 250g](https://www.amazon.es/dp/B00AURVEEO/?tag=tolees-21) con 35.71 de descuento por 0.99 EUR (original: 1.54 EUR) en el siguiente enlace!
 
 [![Gullón - Galleta Sándwich chocolate sin ](https://m.media-amazon.com/images/I/412-jb0fJHL._SL200_.jpg)](https://www.amazon.es/dp/B00AURVEEO/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00AURVEEO/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00AURVEEO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -14,12 +14,10 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Está [Huawei P40 Funda  MHHQ 2in1 Armadura Combinación A Prueba de Choques Heavy Duty Escudo Cáscara Dura PC + Suave TPU Silicona Rubber Case Cover con soporte para Huawei P40 -Red](https://www.amazon.es/dp/B087RSL3FN/?tag=tolees-21) con 52.25 de descuento por 8.59 EUR (original: 17.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Huawei P40 Funda  MHHQ 2in1 Armadura Combinación A Prueba de Choques Heavy Duty Escudo Cáscara Dura PC + Suave TPU Silicona Rubber Case Cover con soporte para Huawei P40 -Red](https://www.amazon.es/dp/B087RSL3FN/?tag=tolees-21) a 8.59 EUR (original: 17.99 EUR) (52.25 %  de descuento) en el siguiente enlace!
 
 [![Huawei P40 Funda  MHHQ 2in1 Armadura Com](https://m.media-amazon.com/images/I/41ZVQW9vEhL._SL200_.jpg)](https://www.amazon.es/dp/B087RSL3FN/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B087RSL3FN/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B087RSL3FN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

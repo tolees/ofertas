@@ -14,10 +14,12 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [YAMAMAY® Tracksuit with Transparencies - Party](https://www.amazon.es/dp/B085YCQJCN/?tag=tolees-21) a 16.98 EUR (original: 49.95 EUR) (66.01 %  de descuento) en el siguiente enlace!
+Está [YAMAMAY® Tracksuit with Transparencies - Party](https://www.amazon.es/dp/B085YCQJCN/?tag=tolees-21) con 66.01 de descuento por 16.98 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![YAMAMAY® Tracksuit with Transparencies -](https://m.media-amazon.com/images/I/31lkJHOb7eL._SL200_.jpg)](https://www.amazon.es/dp/B085YCQJCN/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B085YCQJCN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B085YCQJCN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

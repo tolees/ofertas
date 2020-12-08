@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thames & Kosmos Kahuna al 47.45 % de descuento'
-date: 2020-12-07 08:46:32
+date: 2020-12-08 22:23:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/61g7KgnqGcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61g7KgnqGcL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Combi Camiseta Manga Corta  Hombre  al 30.70 % de descuento'
-date: 2020-12-07 16:17:36
+date: 2020-12-08 22:13:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31f56oi1X0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31f56oi1X0L._SL200_.jpg' ]
 comments: true

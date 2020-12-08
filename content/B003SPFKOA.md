@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playgro Ring Tower  Stacking Toy Pirámid al 37.82 % de descuento'
-date: 2020-12-07 16:22:04
+date: 2020-12-08 22:08:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/413lc68ESEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413lc68ESEL._SL200_.jpg' ]
 comments: true
