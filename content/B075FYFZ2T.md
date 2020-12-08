@@ -14,12 +14,10 @@ comparePrice: 22.26 EUR
 inStock: true
 ---
 
-Está [Probios Compota de Piña y Jengibre - Paquete de 6 x 320 gr - Total: 1920 gr](https://www.amazon.es/dp/B075FYFZ2T/?tag=tolees-21) con 56.74 de descuento por 9.63 EUR (original: 22.26 EUR) en el siguiente enlace!
+Ahora mismo tienes [Probios Compota de Piña y Jengibre - Paquete de 6 x 320 gr - Total: 1920 gr](https://www.amazon.es/dp/B075FYFZ2T/?tag=tolees-21) a 9.63 EUR (original: 22.26 EUR) (56.74 %  de descuento) en el siguiente enlace!
 
 [![Probios Compota de Piña y Jengibre - Paq](http://images.amazon.com/images/P/B075FYFZ2T.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B075FYFZ2T/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B075FYFZ2T/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B075FYFZ2T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

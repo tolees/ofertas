@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme SSD portátil 1TB - hasta al 48.93 % de descuento'
-date: 2020-12-07 20:16:08
+date: 2020-12-08 20:29:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg' ]
 comments: true

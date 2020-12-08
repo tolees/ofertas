@@ -14,12 +14,10 @@ comparePrice: 55.0 EUR
 inStock: true
 ---
 
-Está [Philips Lighting Aplique / plafón exterior  14 W  IP44  color antracita](https://www.amazon.es/dp/B00B45OTIY/?tag=tolees-21) con 36.38 de descuento por 34.99 EUR (original: 55.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Philips Lighting Aplique / plafón exterior  14 W  IP44  color antracita](https://www.amazon.es/dp/B00B45OTIY/?tag=tolees-21) a 34.99 EUR (original: 55.0 EUR) (36.38 %  de descuento) en el siguiente enlace!
 
 [![Philips Lighting Aplique / plafón exteri](https://m.media-amazon.com/images/I/31kTET-bJGL._SL200_.jpg)](https://www.amazon.es/dp/B00B45OTIY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00B45OTIY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00B45OTIY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

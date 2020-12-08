@@ -14,10 +14,12 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Medisana HP 605 61147  Almohadilla Térmica  manta eléctrica con 4 configuraciones de temperatura y 100W  lavable a máquina](https://www.amazon.es/dp/B008KWO4GQ/?tag=tolees-21) a 19.99 EUR (original: 39.95 EUR) (49.96 %  de descuento) en el siguiente enlace!
+Está [Medisana HP 605 61147  Almohadilla Térmica  manta eléctrica con 4 configuraciones de temperatura y 100W  lavable a máquina](https://www.amazon.es/dp/B008KWO4GQ/?tag=tolees-21) con 49.96 de descuento por 19.99 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![Medisana HP 605 61147  Almohadilla Térmi](https://images-eu.ssl-images-amazon.com/images/I/41pxIcupimL._SL200_.jpg)](https://www.amazon.es/dp/B008KWO4GQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008KWO4GQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008KWO4GQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

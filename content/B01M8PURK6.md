@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Reloj Cronógrafo para Mujer de Cu al 62.89 % de descuento'
-date: 2020-12-07 08:20:53
+date: 2020-12-08 20:03:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vDDzpLatL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vDDzpLatL._SL200_.jpg' ]
 comments: true

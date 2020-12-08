@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Two Point Hospital - Nintendo Switch al 32.51 % de descuento'
-date: 2020-12-06 23:15:22
+date: 2020-12-08 20:04:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ya3zcQIuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ya3zcQIuL._SL200_.jpg' ]
 comments: true

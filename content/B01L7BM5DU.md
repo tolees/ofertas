@@ -14,10 +14,12 @@ comparePrice: 39.89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pack: Cinco Hermanos: La Colección Completa - Temporadas 1-5 [DVD]](https://www.amazon.es/dp/B01L7BM5DU/?tag=tolees-21) a 28.5 EUR (original: 39.89 EUR) (28.55 %  de descuento) en el siguiente enlace!
+Está [Pack: Cinco Hermanos: La Colección Completa - Temporadas 1-5 [DVD]](https://www.amazon.es/dp/B01L7BM5DU/?tag=tolees-21) con 28.55 de descuento por 28.5 EUR (original: 39.89 EUR) en el siguiente enlace!
 
 [![Pack: Cinco Hermanos: La Colección Compl](https://m.media-amazon.com/images/I/51jPgn6EHsL._SL200_.jpg)](https://www.amazon.es/dp/B01L7BM5DU/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01L7BM5DU/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01L7BM5DU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
