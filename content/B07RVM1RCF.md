@@ -14,12 +14,10 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko Pop Disney: Kingdom Hearts 3-Kairi w/Hood Figura Coleccionable  Multicolor  39940 ](https://www.amazon.es/dp/B07RVM1RCF/?tag=tolees-21) con 33.23 de descuento por 10.65 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop Disney: Kingdom Hearts 3-Kairi w/Hood Figura Coleccionable  Multicolor  39940 ](https://www.amazon.es/dp/B07RVM1RCF/?tag=tolees-21) a 10.65 EUR (original: 15.95 EUR) (33.23 %  de descuento) en el siguiente enlace!
 
 [![Funko Pop Disney: Kingdom Hearts 3-Kairi](https://m.media-amazon.com/images/I/418N-n3W75L._SL200_.jpg)](https://www.amazon.es/dp/B07RVM1RCF/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07RVM1RCF/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07RVM1RCF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

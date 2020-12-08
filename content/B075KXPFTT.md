@@ -14,10 +14,12 @@ comparePrice: 44.78 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Apple Funda Leather Case  para el iPhone 8 / iPhone 7  - Azul noche](https://www.amazon.es/dp/B075KXPFTT/?tag=tolees-21) a 25 EUR (original: 44.78 EUR) (44.17 %  de descuento) en el siguiente enlace!
+Está [Apple Funda Leather Case  para el iPhone 8 / iPhone 7  - Azul noche](https://www.amazon.es/dp/B075KXPFTT/?tag=tolees-21) con 44.17 de descuento por 25 EUR (original: 44.78 EUR) en el siguiente enlace!
 
 [![Apple Funda Leather Case  para el iPhone](https://images-eu.ssl-images-amazon.com/images/I/315y9oUicHL._SL200_.jpg)](https://www.amazon.es/dp/B075KXPFTT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B075KXPFTT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B075KXPFTT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

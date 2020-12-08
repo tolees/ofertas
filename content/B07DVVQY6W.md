@@ -14,10 +14,12 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LE COQ SPORTIF Nationale  Zapatillas Unisex Adulto  Negro Triple Black  40 EU](https://www.amazon.es/dp/B07DVVQY6W/?tag=tolees-21) a 21 EUR (original: 70 EUR) (70.00 %  de descuento) en el siguiente enlace!
+Está [LE COQ SPORTIF Nationale  Zapatillas Unisex Adulto  Negro Triple Black  40 EU](https://www.amazon.es/dp/B07DVVQY6W/?tag=tolees-21) con 70.00 de descuento por 21 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![LE COQ SPORTIF Nationale  Zapatillas Uni](https://images-eu.ssl-images-amazon.com/images/I/313KeBTzuZL._SL200_.jpg)](https://www.amazon.es/dp/B07DVVQY6W/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DVVQY6W/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DVVQY6W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

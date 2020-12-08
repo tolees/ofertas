@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Call of Duty: Black Ops IIII + Tarjeta d al 41.31 % de descuento'
-date: 2020-12-07 16:04:25
+date: 2020-12-08 17:46:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QkyVXnGQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QkyVXnGQL._SL200_.jpg' ]
 comments: true
