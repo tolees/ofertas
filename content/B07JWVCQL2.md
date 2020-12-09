@@ -14,10 +14,12 @@ comparePrice: 17.38 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bohemian Rhapsody [DVD]](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21) a 10.5 EUR (original: 17.38 EUR) (39.59 %  de descuento) en el siguiente enlace!
+Está [Bohemian Rhapsody [DVD]](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21) con 39.59 de descuento por 10.5 EUR (original: 17.38 EUR) en el siguiente enlace!
 
 [![Bohemian Rhapsody [DVD]](https://m.media-amazon.com/images/I/41OacZGPopL._SL200_.jpg)](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

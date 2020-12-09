@@ -14,12 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [WiFi Microscopio Digital HEYSTOP 1080P HD 2MP Mini Cámara Aumento de 50 a 1000x Endoscopio 8 LED USB 2.0 Microscopio Ddigital con Metal Soporte Compatible iPhone iOS Teléfono Android iPad Windows Mac](https://www.amazon.es/dp/B07GSLHLH4/?tag=tolees-21) con 26.01 de descuento por 36.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [WiFi Microscopio Digital HEYSTOP 1080P HD 2MP Mini Cámara Aumento de 50 a 1000x Endoscopio 8 LED USB 2.0 Microscopio Ddigital con Metal Soporte Compatible iPhone iOS Teléfono Android iPad Windows Mac](https://www.amazon.es/dp/B07GSLHLH4/?tag=tolees-21) a 36.99 EUR (original: 49.99 EUR) (26.01 %  de descuento) en el siguiente enlace!
 
 [![WiFi Microscopio Digital HEYSTOP 1080P H](https://m.media-amazon.com/images/I/51L0xu-pJLL._SL200_.jpg)](https://www.amazon.es/dp/B07GSLHLH4/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07GSLHLH4/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07GSLHLH4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

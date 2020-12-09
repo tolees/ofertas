@@ -14,12 +14,10 @@ comparePrice: 6.33 EUR
 inStock: true
 ---
 
-Está [Calvo - Atun claro aceite girasol - pack 3 x 80g - [pack de 3]](https://www.amazon.es/dp/B01LXHTPA3/?tag=tolees-21) con 30.81 de descuento por 4.38 EUR (original: 6.33 EUR) en el siguiente enlace!
+Ahora mismo tienes [Calvo - Atun claro aceite girasol - pack 3 x 80g - [pack de 3]](https://www.amazon.es/dp/B01LXHTPA3/?tag=tolees-21) a 4.38 EUR (original: 6.33 EUR) (30.81 %  de descuento) en el siguiente enlace!
 
 [![Calvo - Atun claro aceite girasol - pack](https://m.media-amazon.com/images/I/419tOojbSuL._SL200_.jpg)](https://www.amazon.es/dp/B01LXHTPA3/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01LXHTPA3/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01LXHTPA3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
