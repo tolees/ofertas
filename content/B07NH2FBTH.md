@@ -14,10 +14,12 @@ comparePrice: 21.33 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rescue Runts 18137 Babies Spaniel](https://www.amazon.es/dp/B07NH2FBTH/?tag=tolees-21) a 11.51 EUR (original: 21.33 EUR) (46.04 %  de descuento) en el siguiente enlace!
+Está [Rescue Runts 18137 Babies Spaniel](https://www.amazon.es/dp/B07NH2FBTH/?tag=tolees-21) con 46.04 de descuento por 11.51 EUR (original: 21.33 EUR) en el siguiente enlace!
 
 [![Rescue Runts 18137 Babies Spaniel](https://images-eu.ssl-images-amazon.com/images/I/41cx-SfhnwL._SL200_.jpg)](https://www.amazon.es/dp/B07NH2FBTH/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NH2FBTH/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NH2FBTH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

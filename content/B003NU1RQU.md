@@ -14,12 +14,10 @@ comparePrice: 16.28 EUR
 inStock: true
 ---
 
-Está [Schwarzkopf Professional Osis Rock Hard Styling Gel Gel Fijador - 150 ml](https://www.amazon.es/dp/B003NU1RQU/?tag=tolees-21) con 51.47 de descuento por 7.9 EUR (original: 16.28 EUR) en el siguiente enlace!
+Ahora mismo tienes [Schwarzkopf Professional Osis Rock Hard Styling Gel Gel Fijador - 150 ml](https://www.amazon.es/dp/B003NU1RQU/?tag=tolees-21) a 7.9 EUR (original: 16.28 EUR) (51.47 %  de descuento) en el siguiente enlace!
 
 [![Schwarzkopf Professional Osis Rock Hard ](https://images-eu.ssl-images-amazon.com/images/I/413oSPbL2yL._SL200_.jpg)](https://www.amazon.es/dp/B003NU1RQU/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B003NU1RQU/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B003NU1RQU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

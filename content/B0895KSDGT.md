@@ -14,10 +14,12 @@ comparePrice: 349.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Detroit Become Human - Collector S Edition](https://www.amazon.es/dp/B0895KSDGT/?tag=tolees-21) a 219.95 EUR (original: 349.99 EUR) (37.16 %  de descuento) en el siguiente enlace!
+Está [Detroit Become Human - Collector S Edition](https://www.amazon.es/dp/B0895KSDGT/?tag=tolees-21) con 37.16 de descuento por 219.95 EUR (original: 349.99 EUR) en el siguiente enlace!
 
 [![Detroit Become Human - Collector S Editi](https://m.media-amazon.com/images/I/41mxQym1uUL._SL200_.jpg)](https://www.amazon.es/dp/B0895KSDGT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0895KSDGT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0895KSDGT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
