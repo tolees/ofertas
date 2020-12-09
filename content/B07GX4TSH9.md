@@ -14,12 +14,10 @@ comparePrice: 21.43 EUR
 inStock: true
 ---
 
-Está [Smint 2H Frutos Rojos  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr.  Total 420 gr. ](https://www.amazon.es/dp/B07GX4TSH9/?tag=tolees-21) con 31.40 de descuento por 14.7 EUR (original: 21.43 EUR) en el siguiente enlace!
+Ahora mismo tienes [Smint 2H Frutos Rojos  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr.  Total 420 gr. ](https://www.amazon.es/dp/B07GX4TSH9/?tag=tolees-21) a 14.7 EUR (original: 21.43 EUR) (31.40 %  de descuento) en el siguiente enlace!
 
 [![Smint 2H Frutos Rojos  Caramelo Comprimi](https://m.media-amazon.com/images/I/51O2lRdjI+L._SL200_.jpg)](https://www.amazon.es/dp/B07GX4TSH9/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07GX4TSH9/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07GX4TSH9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
