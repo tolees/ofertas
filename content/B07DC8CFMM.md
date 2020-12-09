@@ -17,12 +17,10 @@ inStock: true
 prodname: 'LE COQ SPORTIF Deauville Sport Optical White  Zapatillas para Hombre  Blanc  43 EU'
 ---
 
-Está [LE COQ SPORTIF Deauville Sport Optical White  Zapatillas para Hombre  Blanc  43 EU](https://www.amazon.es/dp/B07DC8CFMM/?tag=tolees-21) con 30.08 de descuento por 45.45 EUR (original: 65 EUR) en el siguiente enlace!
+Ahora mismo tienes [LE COQ SPORTIF Deauville Sport Optical White  Zapatillas para Hombre  Blanc  43 EU](https://www.amazon.es/dp/B07DC8CFMM/?tag=tolees-21) a 45.45 EUR (original: 65 EUR) (30.08 %  de descuento) en el siguiente enlace!
 
 [![LE COQ SPORTIF Deauville Sport Optical W](https://images-eu.ssl-images-amazon.com/images/I/41swD%2BpJZ4L._SL200_.jpg)](https://www.amazon.es/dp/B07DC8CFMM/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DC8CFMM/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DC8CFMM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

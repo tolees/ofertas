@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Monstruos University [Blu-ray]'
 ---
 
-Ahora mismo tienes [Monstruos University [Blu-ray]](https://www.amazon.es/dp/B00EIBDB3K/?tag=tolees-21) a 7.14 EUR (original: 20.27 EUR) (64.78 %  de descuento) en el siguiente enlace!
+Está [Monstruos University [Blu-ray]](https://www.amazon.es/dp/B00EIBDB3K/?tag=tolees-21) con 64.78 de descuento por 7.14 EUR (original: 20.27 EUR) en el siguiente enlace!
 
 [![Monstruos University [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51jXvglXtAL._SL200_.jpg)](https://www.amazon.es/dp/B00EIBDB3K/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00EIBDB3K/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00EIBDB3K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

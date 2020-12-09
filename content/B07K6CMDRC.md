@@ -17,10 +17,12 @@ inStock: true
 prodname: 'adidas CONDIVO18 SHO Shorts  Hombre  Collegiate Gold/Black  3XL'
 ---
 
-Ahora mismo tienes [adidas CONDIVO18 SHO Shorts  Hombre  Collegiate Gold/Black  3XL](https://www.amazon.es/dp/B07K6CMDRC/?tag=tolees-21) a 22.95 EUR (original: 39.95 EUR) (42.55 %  de descuento) en el siguiente enlace!
+Está [adidas CONDIVO18 SHO Shorts  Hombre  Collegiate Gold/Black  3XL](https://www.amazon.es/dp/B07K6CMDRC/?tag=tolees-21) con 42.55 de descuento por 22.95 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![adidas CONDIVO18 SHO Shorts  Hombre  Col](https://images-eu.ssl-images-amazon.com/images/I/31-DHGr0iaL._SL200_.jpg)](https://www.amazon.es/dp/B07K6CMDRC/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07K6CMDRC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K6CMDRC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

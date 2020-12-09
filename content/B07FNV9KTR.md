@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Fujifilm Instax Mini 9 - Kit Completo  Cámara instantánea  funda desmontable con cierre magnético  álbum 108 fotos  marco de metacrilato   Azul  Cobalt Blue '
 ---
 
-Ahora mismo tienes [Fujifilm Instax Mini 9 - Kit Completo  Cámara instantánea  funda desmontable con cierre magnético  álbum 108 fotos  marco de metacrilato   Azul  Cobalt Blue ](https://www.amazon.es/dp/B07FNV9KTR/?tag=tolees-21) a 70.99 EUR (original: 118.99 EUR) (40.34 %  de descuento) en el siguiente enlace!
+Está [Fujifilm Instax Mini 9 - Kit Completo  Cámara instantánea  funda desmontable con cierre magnético  álbum 108 fotos  marco de metacrilato   Azul  Cobalt Blue ](https://www.amazon.es/dp/B07FNV9KTR/?tag=tolees-21) con 40.34 de descuento por 70.99 EUR (original: 118.99 EUR) en el siguiente enlace!
 
 [![Fujifilm Instax Mini 9 - Kit Completo  C](https://images-eu.ssl-images-amazon.com/images/I/41mY50Z5XvL._SL200_.jpg)](https://www.amazon.es/dp/B07FNV9KTR/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FNV9KTR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FNV9KTR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

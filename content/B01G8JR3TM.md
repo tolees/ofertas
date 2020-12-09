@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Panasonic ER-GC71 - Cortador de barba / cabello con 39 configuraciones de longitud  para hombres  peinado y cuidado para cabello y barba'
 ---
 
-Ahora mismo tienes [Panasonic ER-GC71 - Cortador de barba / cabello con 39 configuraciones de longitud  para hombres  peinado y cuidado para cabello y barba](https://www.amazon.es/dp/B01G8JR3TM/?tag=tolees-21) a 34.0 EUR (original: 65.0 EUR) (47.69 %  de descuento) en el siguiente enlace!
+Está [Panasonic ER-GC71 - Cortador de barba / cabello con 39 configuraciones de longitud  para hombres  peinado y cuidado para cabello y barba](https://www.amazon.es/dp/B01G8JR3TM/?tag=tolees-21) con 47.69 de descuento por 34.0 EUR (original: 65.0 EUR) en el siguiente enlace!
 
 [![Panasonic ER-GC71 - Cortador de barba / ](https://m.media-amazon.com/images/I/41Azh7OWd4L._SL200_.jpg)](https://www.amazon.es/dp/B01G8JR3TM/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01G8JR3TM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01G8JR3TM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
