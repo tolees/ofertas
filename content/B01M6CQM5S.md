@@ -17,12 +17,10 @@ inStock: true
 prodname: 'LEOTRON Vitamina C 36+18 comprimidos efervescentes - Complemento alimenticio con vitamina C  zinc y selenio con edulcorantes'
 ---
 
-Está [LEOTRON Vitamina C 36+18 comprimidos efervescentes - Complemento alimenticio con vitamina C  zinc y selenio con edulcorantes](https://www.amazon.es/dp/B01M6CQM5S/?tag=tolees-21) con 27.51 de descuento por 8.75 EUR (original: 12.07 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEOTRON Vitamina C 36+18 comprimidos efervescentes - Complemento alimenticio con vitamina C  zinc y selenio con edulcorantes](https://www.amazon.es/dp/B01M6CQM5S/?tag=tolees-21) a 8.75 EUR (original: 12.07 EUR) (27.51 %  de descuento) en el siguiente enlace!
 
 [![LEOTRON Vitamina C 36+18 comprimidos efe](https://m.media-amazon.com/images/I/417+yzIp0nL._SL200_.jpg)](https://www.amazon.es/dp/B01M6CQM5S/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01M6CQM5S/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01M6CQM5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

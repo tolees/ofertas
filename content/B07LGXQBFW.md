@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Salomon PROLOG 25 BAG Bolsa'
 ---
 
-Ahora mismo tienes [Salomon PROLOG 25 BAG Bolsa](https://www.amazon.es/dp/B07LGXQBFW/?tag=tolees-21) a 21.43 EUR (original: 50.0 EUR) (57.14 %  de descuento) en el siguiente enlace!
+Está [Salomon PROLOG 25 BAG Bolsa](https://www.amazon.es/dp/B07LGXQBFW/?tag=tolees-21) con 57.14 de descuento por 21.43 EUR (original: 50.0 EUR) en el siguiente enlace!
 
 [![Salomon PROLOG 25 BAG Bolsa](https://m.media-amazon.com/images/I/41YUAo408yL._SL200_.jpg)](https://www.amazon.es/dp/B07LGXQBFW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07LGXQBFW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07LGXQBFW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'DEADLY PREMONITION ORIGINS: COLLECTOR EDITION'
 ---
 
-Ahora mismo tienes [DEADLY PREMONITION ORIGINS: COLLECTOR EDITION](https://www.amazon.es/dp/B07XL9Y9WJ/?tag=tolees-21) a 34.05 EUR (original: 49.99 EUR) (31.89 %  de descuento) en el siguiente enlace!
+Está [DEADLY PREMONITION ORIGINS: COLLECTOR EDITION](https://www.amazon.es/dp/B07XL9Y9WJ/?tag=tolees-21) con 31.89 de descuento por 34.05 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![DEADLY PREMONITION ORIGINS: COLLECTOR ED](https://m.media-amazon.com/images/I/41nK4YFh8pL._SL200_.jpg)](https://www.amazon.es/dp/B07XL9Y9WJ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07XL9Y9WJ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07XL9Y9WJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

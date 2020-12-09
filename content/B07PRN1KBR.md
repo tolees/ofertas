@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Performance Train Light Quarter 2p  al 50.05 % de descuento'
-date: 2020-12-07 10:55:45
+date: 2020-12-09 15:44:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/514ZZM84POL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514ZZM84POL._SL200_.jpg' ]
 comments: true

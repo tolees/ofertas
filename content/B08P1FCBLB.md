@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Pablo Alborán - Vértigo  Cd Digipack '
 ---
 
-Está [Pablo Alborán - Vértigo  Cd Digipack ](https://www.amazon.es/dp/B08P1FCBLB/?tag=tolees-21) con 34.91 de descuento por 14.99 EUR (original: 23.03 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pablo Alborán - Vértigo  Cd Digipack ](https://www.amazon.es/dp/B08P1FCBLB/?tag=tolees-21) a 14.99 EUR (original: 23.03 EUR) (34.91 %  de descuento) en el siguiente enlace!
 
 [![Pablo Alborán - Vértigo  Cd Digipack ](https://m.media-amazon.com/images/I/41VgRue-Q0L._SL200_.jpg)](https://www.amazon.es/dp/B08P1FCBLB/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B08P1FCBLB/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B08P1FCBLB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
