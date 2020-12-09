@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Under Armour Heatgear 2.0 Leggings  Hombre  Gris  LG'
 ---
 
-Está [Under Armour Heatgear 2.0 Leggings  Hombre  Gris  LG](https://www.amazon.es/dp/B01FFNDDQE/?tag=tolees-21) con 29.93 de descuento por 28.03 EUR (original: 40.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Heatgear 2.0 Leggings  Hombre  Gris  LG](https://www.amazon.es/dp/B01FFNDDQE/?tag=tolees-21) a 28.03 EUR (original: 40.0 EUR) (29.93 %  de descuento) en el siguiente enlace!
 
 [![Under Armour Heatgear 2.0 Leggings  Homb](https://m.media-amazon.com/images/I/417DrZ8nhuL._SL200_.jpg)](https://www.amazon.es/dp/B01FFNDDQE/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01FFNDDQE/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01FFNDDQE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Assassin s Creed Origins| Uplay - Standard Edition | Código Uplay para PC'
 ---
 
-Ahora mismo tienes [Assassin s Creed Origins| Uplay - Standard Edition | Código Uplay para PC](https://www.amazon.es/dp/B07NC6B8BT/?tag=tolees-21) a 12.0 EUR (original: 59.99 EUR) (80.00 %  de descuento) en el siguiente enlace!
+Está [Assassin s Creed Origins| Uplay - Standard Edition | Código Uplay para PC](https://www.amazon.es/dp/B07NC6B8BT/?tag=tolees-21) con 80.00 de descuento por 12.0 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Assassin s Creed Origins| Uplay - Standa](https://m.media-amazon.com/images/I/51n6R7AdA7L._SL200_.jpg)](https://www.amazon.es/dp/B07NC6B8BT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NC6B8BT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NC6B8BT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

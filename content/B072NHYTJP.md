@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Ward Canvas  Zapatillas para Hombre al 29.44 % de descuento'
-date: 2020-12-02 23:39:06
+date: 2020-12-09 18:56:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VKXn0SYZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VKXn0SYZL._SL200_.jpg' ]
 comments: true

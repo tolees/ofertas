@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.04 % en Consuelo - cápsulas de café compatibles '
+title: 'Consuelo - cápsulas de café compatibles  al 40.04 % de descuento'
 date: 2020-11-12 14:45:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QS2rFoUbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QS2rFoUbL._SL200_.jpg' ]
@@ -17,11 +17,11 @@ inStock: true
 prodname: 'Consuelo - cápsulas de café compatibles con Nespresso* - Kit de degustación  50 cápsulas  5x10 '
 ---
 
-Tienes [Consuelo - cápsulas de café compatibles con Nespresso* - Kit de degustación  50 cápsulas  5x10 ](https://www.amazon.es/dp/B07KSPXWNV/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 6.59 EUR (original: 10.99 EUR) en el siguiente enlace!
+Está [Consuelo - cápsulas de café compatibles con Nespresso* - Kit de degustación  50 cápsulas  5x10 ](https://www.amazon.es/dp/B07KSPXWNV/?tag=tolees-21) con 40.04 de descuento por 6.59 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![Consuelo - cápsulas de café compatibles ](https://m.media-amazon.com/images/I/51QS2rFoUbL._SL200_.jpg)](https://www.amazon.es/dp/B07KSPXWNV/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07KSPXWNV/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KSPXWNV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

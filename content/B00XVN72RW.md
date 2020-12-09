@@ -17,10 +17,12 @@ inStock: true
 prodname: 'NGS Grid 500 - Regleta con 5 enchufes'
 ---
 
-Ahora mismo tienes [NGS Grid 500 - Regleta con 5 enchufes](https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21) a 9 EUR (original: 12 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Está [NGS Grid 500 - Regleta con 5 enchufes](https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21) con 25.00 de descuento por 9 EUR (original: 12 EUR) en el siguiente enlace!
 
 [![NGS Grid 500 - Regleta con 5 enchufes](https://images-eu.ssl-images-amazon.com/images/I/41wPKbuEHHL._SL200_.jpg)](https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

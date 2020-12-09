@@ -17,10 +17,12 @@ inStock: true
 prodname: 'KidKraft - Kit de juguetes de cocina y pastelería  compuesto por 11 unidades   Color Metálico  53535  '
 ---
 
-Ahora mismo tienes [KidKraft - Kit de juguetes de cocina y pastelería  compuesto por 11 unidades   Color Metálico  53535  ](https://www.amazon.es/dp/B07N4K3KVD/?tag=tolees-21) a 14.99 EUR (original: 23.79 EUR) (36.99 %  de descuento) en el siguiente enlace!
+Está [KidKraft - Kit de juguetes de cocina y pastelería  compuesto por 11 unidades   Color Metálico  53535  ](https://www.amazon.es/dp/B07N4K3KVD/?tag=tolees-21) con 36.99 de descuento por 14.99 EUR (original: 23.79 EUR) en el siguiente enlace!
 
 [![KidKraft - Kit de juguetes de cocina y p](https://m.media-amazon.com/images/I/41FvZstXMBL._SL200_.jpg)](https://www.amazon.es/dp/B07N4K3KVD/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07N4K3KVD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07N4K3KVD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

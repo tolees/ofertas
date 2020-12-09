@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMZGXGOD - Dispensador de Pasta de Dient al 43.78 % de descuento'
-date: 2020-12-08 07:42:52
+date: 2020-12-09 18:36:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-LXGuZmHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-LXGuZmHL._SL200_.jpg' ]
 comments: true

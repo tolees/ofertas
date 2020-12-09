@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Edge Entertainment- 3 Secretos - Español  Multicolor  EEDV3S01    color/modelo surtido'
 ---
 
-Está [Edge Entertainment- 3 Secretos - Español  Multicolor  EEDV3S01    color/modelo surtido](https://www.amazon.es/dp/B078WDLFMW/?tag=tolees-21) con 49.90 de descuento por 7.49 EUR (original: 14.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Edge Entertainment- 3 Secretos - Español  Multicolor  EEDV3S01    color/modelo surtido](https://www.amazon.es/dp/B078WDLFMW/?tag=tolees-21) a 7.49 EUR (original: 14.95 EUR) (49.90 %  de descuento) en el siguiente enlace!
 
 [![Edge Entertainment- 3 Secretos - Español](https://m.media-amazon.com/images/I/41DnXmxKDEL._SL200_.jpg)](https://www.amazon.es/dp/B078WDLFMW/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078WDLFMW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B078WDLFMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Saber Es Poder: Generaciones'
 ---
 
-Está [Saber Es Poder: Generaciones](https://www.amazon.es/dp/B07JH99WZR/?tag=tolees-21) con 60.18 de descuento por 9.95 EUR (original: 24.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Saber Es Poder: Generaciones](https://www.amazon.es/dp/B07JH99WZR/?tag=tolees-21) a 9.95 EUR (original: 24.99 EUR) (60.18 %  de descuento) en el siguiente enlace!
 
 [![Saber Es Poder: Generaciones](https://m.media-amazon.com/images/I/51UUamqe6TL._SL200_.jpg)](https://www.amazon.es/dp/B07JH99WZR/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JH99WZR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JH99WZR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

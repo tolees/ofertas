@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 34.93 % en Mientras dure la guerra - DVD'
+title: 'Mientras dure la guerra - DVD al 34.93 % de descuento'
 date: 2020-11-12 09:38:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OPchf+rLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OPchf+rLL._SL200_.jpg' ]
@@ -17,11 +17,11 @@ inStock: true
 prodname: 'Mientras dure la guerra - DVD'
 ---
 
-Tienes [Mientras dure la guerra - DVD](https://www.amazon.es/dp/B082PPKC5H/?tag=tolees-21) con un 34.93 % de descuento con precio de oferta de 6.5 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [Mientras dure la guerra - DVD](https://www.amazon.es/dp/B082PPKC5H/?tag=tolees-21) con 34.93 de descuento por 6.5 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Mientras dure la guerra - DVD](https://m.media-amazon.com/images/I/41OPchf+rLL._SL200_.jpg)](https://www.amazon.es/dp/B082PPKC5H/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B082PPKC5H/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B082PPKC5H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

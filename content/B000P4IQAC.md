@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Bosch X-Line - Maletín de 33 unidades para taladrar y atornillar'
 ---
 
-Está [Bosch X-Line - Maletín de 33 unidades para taladrar y atornillar](https://www.amazon.es/dp/B000P4IQAC/?tag=tolees-21) con 38.00 de descuento por 12.71 EUR (original: 20.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch X-Line - Maletín de 33 unidades para taladrar y atornillar](https://www.amazon.es/dp/B000P4IQAC/?tag=tolees-21) a 12.71 EUR (original: 20.5 EUR) (38.00 %  de descuento) en el siguiente enlace!
 
 [![Bosch X-Line - Maletín de 33 unidades pa](https://m.media-amazon.com/images/I/51Wbw7F8ioL._SL200_.jpg)](https://www.amazon.es/dp/B000P4IQAC/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B000P4IQAC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B000P4IQAC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
