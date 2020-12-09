@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Zestaw przyborów szkolnych w puszce Star Wars'
 ---
 
-Ahora mismo tienes [Zestaw przyborów szkolnych w puszce Star Wars](https://www.amazon.es/dp/B01J3NMQW4/?tag=tolees-21) a 3.69 EUR (original: 10.49 EUR) (64.82 %  de descuento) en el siguiente enlace!
+Está [Zestaw przyborów szkolnych w puszce Star Wars](https://www.amazon.es/dp/B01J3NMQW4/?tag=tolees-21) con 64.82 de descuento por 3.69 EUR (original: 10.49 EUR) en el siguiente enlace!
 
 [![Zestaw przyborów szkolnych w puszce Star](https://images-eu.ssl-images-amazon.com/images/I/51h-%2BSrqJbL._SL200_.jpg)](https://www.amazon.es/dp/B01J3NMQW4/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01J3NMQW4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01J3NMQW4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

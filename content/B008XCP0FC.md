@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Walther  Libro de Visitas  Sweet Heart  GB-123  23x25 cm  144 Páginas Blancas'
 ---
 
-Ahora mismo tienes [Walther  Libro de Visitas  Sweet Heart  GB-123  23x25 cm  144 Páginas Blancas](https://www.amazon.es/dp/B008XCP0FC/?tag=tolees-21) a 14.99 EUR (original: 23.35 EUR) (35.80 %  de descuento) en el siguiente enlace!
+Está [Walther  Libro de Visitas  Sweet Heart  GB-123  23x25 cm  144 Páginas Blancas](https://www.amazon.es/dp/B008XCP0FC/?tag=tolees-21) con 35.80 de descuento por 14.99 EUR (original: 23.35 EUR) en el siguiente enlace!
 
 [![Walther  Libro de Visitas  Sweet Heart  ](https://images-eu.ssl-images-amazon.com/images/I/41ktd4wJBnL._SL200_.jpg)](https://www.amazon.es/dp/B008XCP0FC/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008XCP0FC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008XCP0FC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

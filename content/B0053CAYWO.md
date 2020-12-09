@@ -17,12 +17,10 @@ inStock: true
 prodname: 'La última casa a la izquierda [Blu-ray]'
 ---
 
-Está [La última casa a la izquierda [Blu-ray]](https://www.amazon.es/dp/B0053CAYWO/?tag=tolees-21) con 76.42 de descuento por 4.99 EUR (original: 21.16 EUR) en el siguiente enlace!
+Ahora mismo tienes [La última casa a la izquierda [Blu-ray]](https://www.amazon.es/dp/B0053CAYWO/?tag=tolees-21) a 4.99 EUR (original: 21.16 EUR) (76.42 %  de descuento) en el siguiente enlace!
 
 [![La última casa a la izquierda [Blu-ray]](https://m.media-amazon.com/images/I/51h1UucdXiL._SL200_.jpg)](https://www.amazon.es/dp/B0053CAYWO/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0053CAYWO/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0053CAYWO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

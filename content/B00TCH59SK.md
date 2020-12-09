@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Casals C05107000 Sierra de calar 350W W  230 V  Negro  Verde 350 Watios'
 ---
 
-Está [Casals C05107000 Sierra de calar 350W W  230 V  Negro  Verde 350 Watios](https://www.amazon.es/dp/B00TCH59SK/?tag=tolees-21) con 35.77 de descuento por 26 EUR (original: 40.48 EUR) en el siguiente enlace!
+Ahora mismo tienes [Casals C05107000 Sierra de calar 350W W  230 V  Negro  Verde 350 Watios](https://www.amazon.es/dp/B00TCH59SK/?tag=tolees-21) a 26 EUR (original: 40.48 EUR) (35.77 %  de descuento) en el siguiente enlace!
 
 [![Casals C05107000 Sierra de calar 350W W ](https://images-eu.ssl-images-amazon.com/images/I/51I%2BE%2BIFpuL._SL200_.jpg)](https://www.amazon.es/dp/B00TCH59SK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00TCH59SK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00TCH59SK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

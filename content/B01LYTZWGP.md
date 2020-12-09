@@ -17,12 +17,10 @@ inStock: true
 prodname: 'GoPro Karma Controller'
 ---
 
-Está [GoPro Karma Controller](https://www.amazon.es/dp/B01LYTZWGP/?tag=tolees-21) con 76.66 de descuento por 109.7 EUR (original: 469.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [GoPro Karma Controller](https://www.amazon.es/dp/B01LYTZWGP/?tag=tolees-21) a 109.7 EUR (original: 469.99 EUR) (76.66 %  de descuento) en el siguiente enlace!
 
 [![GoPro Karma Controller](https://m.media-amazon.com/images/I/31yodkHLe2L._SL200_.jpg)](https://www.amazon.es/dp/B01LYTZWGP/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01LYTZWGP/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01LYTZWGP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

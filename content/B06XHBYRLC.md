@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Helly Hansen HH LIFA Merino Crew LS Baselayer  Hombre  Black  S'
 ---
 
-Ahora mismo tienes [Helly Hansen HH LIFA Merino Crew LS Baselayer  Hombre  Black  S](https://www.amazon.es/dp/B06XHBYRLC/?tag=tolees-21) a 43.49 EUR (original: 80 EUR) (45.64 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen HH LIFA Merino Crew LS Baselayer  Hombre  Black  S](https://www.amazon.es/dp/B06XHBYRLC/?tag=tolees-21) con 45.64 de descuento por 43.49 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![Helly Hansen HH LIFA Merino Crew LS Base](https://images-eu.ssl-images-amazon.com/images/I/41EPOAd-xZL._SL200_.jpg)](https://www.amazon.es/dp/B06XHBYRLC/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XHBYRLC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XHBYRLC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

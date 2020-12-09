@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Babylon Berlín T1+T2 [Blu-ray]'
 ---
 
-Está [Babylon Berlín T1+T2 [Blu-ray]](https://www.amazon.es/dp/B07YTCN76K/?tag=tolees-21) con 31.26 de descuento por 16.49 EUR (original: 23.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Babylon Berlín T1+T2 [Blu-ray]](https://www.amazon.es/dp/B07YTCN76K/?tag=tolees-21) a 16.49 EUR (original: 23.99 EUR) (31.26 %  de descuento) en el siguiente enlace!
 
 [![Babylon Berlín T1+T2 [Blu-ray]](https://m.media-amazon.com/images/I/61dhfUbTA0L._SL200_.jpg)](https://www.amazon.es/dp/B07YTCN76K/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07YTCN76K/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07YTCN76K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

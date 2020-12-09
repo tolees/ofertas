@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Victorio & Lucchino Agua Rocio de Tocador Vaporizador - 50 ml'
 ---
 
-Está [Victorio & Lucchino Agua Rocio de Tocador Vaporizador - 50 ml](https://www.amazon.es/dp/B009RQXRJY/?tag=tolees-21) con 43.33 de descuento por 17 EUR (original: 30 EUR) en el siguiente enlace!
+Ahora mismo tienes [Victorio & Lucchino Agua Rocio de Tocador Vaporizador - 50 ml](https://www.amazon.es/dp/B009RQXRJY/?tag=tolees-21) a 17 EUR (original: 30 EUR) (43.33 %  de descuento) en el siguiente enlace!
 
 [![Victorio & Lucchino Agua Rocio de Tocado](https://images-eu.ssl-images-amazon.com/images/I/314uyICNLwL._SL200_.jpg)](https://www.amazon.es/dp/B009RQXRJY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B009RQXRJY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B009RQXRJY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'LG PH150G - Proyector Minibeam Portátil con batería incorporada  HD 1280x720  LED  contraste 100 000:1  130 lúmenes  - Blanco [VERSION UK]'
 ---
 
-Ahora mismo tienes [LG PH150G - Proyector Minibeam Portátil con batería incorporada  HD 1280x720  LED  contraste 100 000:1  130 lúmenes  - Blanco [VERSION UK]](https://www.amazon.es/dp/B01M0X9MTN/?tag=tolees-21) a 242.63 EUR (original: 349.0 EUR) (30.48 %  de descuento) en el siguiente enlace!
+Está [LG PH150G - Proyector Minibeam Portátil con batería incorporada  HD 1280x720  LED  contraste 100 000:1  130 lúmenes  - Blanco [VERSION UK]](https://www.amazon.es/dp/B01M0X9MTN/?tag=tolees-21) con 30.48 de descuento por 242.63 EUR (original: 349.0 EUR) en el siguiente enlace!
 
 [![LG PH150G - Proyector Minibeam Portátil ](https://m.media-amazon.com/images/I/3192djPXfdL._SL200_.jpg)](https://www.amazon.es/dp/B01M0X9MTN/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01M0X9MTN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M0X9MTN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

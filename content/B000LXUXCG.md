@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Tetra HT 300 - Potente calentador de acuario para cubrir diferentes niveles de potencia con el mando de ajuste de temperatura'
 ---
 
-Está [Tetra HT 300 - Potente calentador de acuario para cubrir diferentes niveles de potencia con el mando de ajuste de temperatura](https://www.amazon.es/dp/B000LXUXCG/?tag=tolees-21) con 45.96 de descuento por 19.99 EUR (original: 36.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tetra HT 300 - Potente calentador de acuario para cubrir diferentes niveles de potencia con el mando de ajuste de temperatura](https://www.amazon.es/dp/B000LXUXCG/?tag=tolees-21) a 19.99 EUR (original: 36.99 EUR) (45.96 %  de descuento) en el siguiente enlace!
 
 [![Tetra HT 300 - Potente calentador de acu](https://m.media-amazon.com/images/I/41H2+Cm8ScL._SL200_.jpg)](https://www.amazon.es/dp/B000LXUXCG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B000LXUXCG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B000LXUXCG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
