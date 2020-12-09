@@ -14,10 +14,12 @@ comparePrice: 18.8 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Korg PitchCrow-G - Afinadores y metrónomos](https://www.amazon.es/dp/B010SRKIRO/?tag=tolees-21) a 11.9 EUR (original: 18.8 EUR) (36.70 %  de descuento) en el siguiente enlace!
+Está [Korg PitchCrow-G - Afinadores y metrónomos](https://www.amazon.es/dp/B010SRKIRO/?tag=tolees-21) con 36.70 de descuento por 11.9 EUR (original: 18.8 EUR) en el siguiente enlace!
 
 [![Korg PitchCrow-G - Afinadores y metrónom](https://m.media-amazon.com/images/I/41ouPu9K6-L._SL200_.jpg)](https://www.amazon.es/dp/B010SRKIRO/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B010SRKIRO/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B010SRKIRO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

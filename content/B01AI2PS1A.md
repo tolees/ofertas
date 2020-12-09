@@ -14,12 +14,10 @@ comparePrice: 154.0 EUR
 inStock: true
 ---
 
-Está [Bosch 06008A0501 ALB 18 LI 2 5 Ah Soplador a batería  Negro/Verde 18 V](https://www.amazon.es/dp/B01AI2PS1A/?tag=tolees-21) con 46.25 de descuento por 82.77 EUR (original: 154.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch 06008A0501 ALB 18 LI 2 5 Ah Soplador a batería  Negro/Verde 18 V](https://www.amazon.es/dp/B01AI2PS1A/?tag=tolees-21) a 82.77 EUR (original: 154.0 EUR) (46.25 %  de descuento) en el siguiente enlace!
 
 [![Bosch 06008A0501 ALB 18 LI 2 5 Ah Soplad](https://m.media-amazon.com/images/I/419bTuCh2UL._SL200_.jpg)](https://www.amazon.es/dp/B01AI2PS1A/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01AI2PS1A/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01AI2PS1A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

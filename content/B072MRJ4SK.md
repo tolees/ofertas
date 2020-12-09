@@ -14,10 +14,12 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Wolfenstein II: The New Colossus - Day One Edition](https://www.amazon.es/dp/B072MRJ4SK/?tag=tolees-21) a 24.65 EUR (original: 69.99 EUR) (64.78 %  de descuento) en el siguiente enlace!
+Está [Wolfenstein II: The New Colossus - Day One Edition](https://www.amazon.es/dp/B072MRJ4SK/?tag=tolees-21) con 64.78 de descuento por 24.65 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Wolfenstein II: The New Colossus - Day O](https://m.media-amazon.com/images/I/51qzmaoYLnL._SL200_.jpg)](https://www.amazon.es/dp/B072MRJ4SK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B072MRJ4SK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072MRJ4SK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
