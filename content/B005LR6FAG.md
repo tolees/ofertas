@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arcos Serie Riviera - Cuchillo Cocinero  al 48.01 % de descuento'
-date: 2020-11-30 09:09:15
+date: 2020-12-09 17:05:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Z2dG1RBUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Z2dG1RBUL._SL200_.jpg' ]
 comments: true

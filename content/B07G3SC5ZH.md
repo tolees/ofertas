@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.80 % en LEGO Harry Potter - Cabaña de Hagrid Res'
-date: 2020-12-08 15:42:39
+date: 2020-12-09 16:35:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg' ]
 comments: true

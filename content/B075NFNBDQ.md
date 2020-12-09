@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.48 % en Max The Curse Of Brotherhood'
+title: 'Max The Curse Of Brotherhood al 50.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bwf%2BBbQML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bwf%2BBbQML._SL200_.jpg' ]
@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Max The Curse Of Brotherhood'
 ---
 
-Tienes [Max The Curse Of Brotherhood](https://www.amazon.es/dp/B075NFNBDQ/?tag=tolees-21) con un 50.48 % de descuento con precio de oferta de 9.9 EUR (original: 19.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Max The Curse Of Brotherhood](https://www.amazon.es/dp/B075NFNBDQ/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!
 
 [![Max The Curse Of Brotherhood](https://images-eu.ssl-images-amazon.com/images/I/51%2Bwf%2BBbQML._SL200_.jpg)](https://www.amazon.es/dp/B075NFNBDQ/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B075NFNBDQ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B075NFNBDQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

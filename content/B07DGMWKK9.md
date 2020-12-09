@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.25 % en Oral-B Vitality 100 Cepillo Eléctrico Re'
-date: 2020-12-08 12:13:29
+date: 2020-12-09 16:39:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hW3BUVviL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hW3BUVviL._SL200_.jpg' ]
 comments: true
