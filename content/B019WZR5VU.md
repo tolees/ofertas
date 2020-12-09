@@ -14,10 +14,12 @@ comparePrice: 62.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Calvin Klein Perfume - 100 ml](https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21) a 34.75 EUR (original: 62.4 EUR) (44.31 %  de descuento) en el siguiente enlace!
+Está [Calvin Klein Perfume - 100 ml](https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21) con 44.31 de descuento por 34.75 EUR (original: 62.4 EUR) en el siguiente enlace!
 
 [![Calvin Klein Perfume - 100 ml](https://images-eu.ssl-images-amazon.com/images/I/319nJkMQXWL._SL200_.jpg)](https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

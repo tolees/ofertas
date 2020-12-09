@@ -14,10 +14,12 @@ comparePrice: 18.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mortal Zombie Edición Coleccionista Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B077HKKCQF/?tag=tolees-21) a 9 EUR (original: 18.99 EUR) (52.61 %  de descuento) en el siguiente enlace!
+Está [Mortal Zombie Edición Coleccionista Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B077HKKCQF/?tag=tolees-21) con 52.61 de descuento por 9 EUR (original: 18.99 EUR) en el siguiente enlace!
 
 [![Mortal Zombie Edición Coleccionista Blu-](https://images-eu.ssl-images-amazon.com/images/I/51d7Cje%2B4QL._SL200_.jpg)](https://www.amazon.es/dp/B077HKKCQF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077HKKCQF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077HKKCQF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

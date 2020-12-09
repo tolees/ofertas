@@ -14,10 +14,12 @@ comparePrice: 113 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tom Ford Negro Orquídea 30 ml spray de Eau De Parfum 1er Pack  1 x 30 ml ](https://www.amazon.es/dp/B000PKESNA/?tag=tolees-21) a 44.72 EUR (original: 113 EUR) (60.42 %  de descuento) en el siguiente enlace!
+Está [Tom Ford Negro Orquídea 30 ml spray de Eau De Parfum 1er Pack  1 x 30 ml ](https://www.amazon.es/dp/B000PKESNA/?tag=tolees-21) con 60.42 de descuento por 44.72 EUR (original: 113 EUR) en el siguiente enlace!
 
 [![Tom Ford Negro Orquídea 30 ml spray de E](https://images-eu.ssl-images-amazon.com/images/I/51UVX-naTsL._SL200_.jpg)](https://www.amazon.es/dp/B000PKESNA/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000PKESNA/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000PKESNA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

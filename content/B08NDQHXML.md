@@ -14,10 +14,12 @@ comparePrice: 70.28 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dualshock 4 Black V2 Gift](https://www.amazon.es/dp/B08NDQHXML/?tag=tolees-21) a 39.9 EUR (original: 70.28 EUR) (43.23 %  de descuento) en el siguiente enlace!
+Está [Dualshock 4 Black V2 Gift](https://www.amazon.es/dp/B08NDQHXML/?tag=tolees-21) con 43.23 de descuento por 39.9 EUR (original: 70.28 EUR) en el siguiente enlace!
 
 [![Dualshock 4 Black V2 Gift](https://m.media-amazon.com/images/I/41mW+o2VBGL._SL200_.jpg)](https://www.amazon.es/dp/B08NDQHXML/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B08NDQHXML/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B08NDQHXML/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

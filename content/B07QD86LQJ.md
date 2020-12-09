@@ -14,10 +14,12 @@ comparePrice: 8.81 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Amazon Essentials Girls  2-Pack Long-Sleeve Tees fashion-t-shirts  Grey Camo/Coral  Medium](https://www.amazon.es/dp/B07QD86LQJ/?tag=tolees-21) a 5.85 EUR (original: 8.81 EUR) (33.60 %  de descuento) en el siguiente enlace!
+Está [Amazon Essentials Girls  2-Pack Long-Sleeve Tees fashion-t-shirts  Grey Camo/Coral  Medium](https://www.amazon.es/dp/B07QD86LQJ/?tag=tolees-21) con 33.60 de descuento por 5.85 EUR (original: 8.81 EUR) en el siguiente enlace!
 
 [![Amazon Essentials Girls  2-Pack Long-Sle](https://m.media-amazon.com/images/I/41xU+JbBk-L._SL200_.jpg)](https://www.amazon.es/dp/B07QD86LQJ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07QD86LQJ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07QD86LQJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
