@@ -14,7 +14,7 @@ currency: EUR
 price: 30.22
 comparePrice: 50 EUR
 inStock: true
-prodname: Nike Downshifter 8  GS   Zapatillas de Deporte para Hombre   Pure Platinum/Habanero Red/Stealth/Black 010   40 EU
+prodname: 'Nike Downshifter 8  GS   Zapatillas de Deporte para Hombre   Pure Platinum/Habanero Red/Stealth/Black 010   40 EU'
 ---
 
 Está [Nike Downshifter 8  GS   Zapatillas de Deporte para Hombre   Pure Platinum/Habanero Red/Stealth/Black 010   40 EU](https://www.amazon.es/dp/B07HYY52PK/?tag=tolees-21) con 39.56 de descuento por 30.22 EUR (original: 50 EUR) en el siguiente enlace!

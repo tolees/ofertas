@@ -14,7 +14,7 @@ currency: EUR
 price: 1.99
 comparePrice: 6.95 EUR
 inStock: true
-prodname: Revlon Super Lustrous Pintalabios  Blushing Mauve 
+prodname: 'Revlon Super Lustrous Pintalabios  Blushing Mauve '
 ---
 
 Ahora mismo tienes [Revlon Super Lustrous Pintalabios  Blushing Mauve ](https://www.amazon.es/dp/B000H3CPMG/?tag=tolees-21) a 1.99 EUR (original: 6.95 EUR) (71.37 %  de descuento) en el siguiente enlace!

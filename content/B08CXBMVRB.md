@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 33.72 EUR
 inStock: true
-prodname: 3 X SZEHAM LC4WBN9 Cinta Compatible con EPSON LK-4WBN Etiquetas de Cartucho para LabelWorks LW300 LW400 Negro sobre blanco
+prodname: '3 X SZEHAM LC4WBN9 Cinta Compatible con EPSON LK-4WBN Etiquetas de Cartucho para LabelWorks LW300 LW400 Negro sobre blanco'
 ---
 
 Ahora mismo tienes [3 X SZEHAM LC4WBN9 Cinta Compatible con EPSON LK-4WBN Etiquetas de Cartucho para LabelWorks LW300 LW400 Negro sobre blanco](https://www.amazon.es/dp/B08CXBMVRB/?tag=tolees-21) a 16.99 EUR (original: 33.72 EUR) (49.61 %  de descuento) en el siguiente enlace!

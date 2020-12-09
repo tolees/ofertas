@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 13.99 EUR
 inStock: true
-prodname: GIKPAL 12 Cintas para Lazos de Adorno Navideños con 90 Etiquetas Adhesivas Decorar Regalos Cintas de Navidad para Etiquetas de Regalos Papel de Regalo y decoración Presente
+prodname: 'GIKPAL 12 Cintas para Lazos de Adorno Navideños con 90 Etiquetas Adhesivas Decorar Regalos Cintas de Navidad para Etiquetas de Regalos Papel de Regalo y decoración Presente'
 ---
 
 Está [GIKPAL 12 Cintas para Lazos de Adorno Navideños con 90 Etiquetas Adhesivas Decorar Regalos Cintas de Navidad para Etiquetas de Regalos Papel de Regalo y decoración Presente](https://www.amazon.es/dp/B07XRWJ7CV/?tag=tolees-21) con 35.74 de descuento por 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!

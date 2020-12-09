@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Powder Lite Forro polar para mujer
+prodname: 'Columbia Powder Lite Forro polar para mujer'
 ---
 
 Tienes [Columbia Powder Lite Forro polar para mujer](https://www.amazon.es/dp/B07FGYRJTC/?tag=tolees-21) con un 58.90 % de descuento con precio de oferta de 36.99 EUR (original: 89.99 EUR) en el siguiente enlace!

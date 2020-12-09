@@ -14,7 +14,7 @@ currency: EUR
 price: 32.5
 comparePrice: 65 EUR
 inStock: true
-prodname: Helly Hansen Salt Flag F-1 Zapatillas de Deporte  Hombre  Blanco  Off White/Silver Grey/11   44 EU
+prodname: 'Helly Hansen Salt Flag F-1 Zapatillas de Deporte  Hombre  Blanco  Off White/Silver Grey/11   44 EU'
 ---
 
 Está [Helly Hansen Salt Flag F-1 Zapatillas de Deporte  Hombre  Blanco  Off White/Silver Grey/11   44 EU](https://www.amazon.es/dp/B073RPNVQ1/?tag=tolees-21) con 50.00 de descuento por 32.5 EUR (original: 65 EUR) en el siguiente enlace!

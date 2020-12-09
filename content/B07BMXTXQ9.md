@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 15.6 EUR
 inStock: true
-prodname: Pikolin Home - Pack de 2 fundas protector de almohada lyocell  impermeables  45x70cm   Todas las medidas 
+prodname: 'Pikolin Home - Pack de 2 fundas protector de almohada lyocell  impermeables  45x70cm   Todas las medidas '
 ---
 
 Tienes [Pikolin Home - Pack de 2 fundas protector de almohada lyocell  impermeables  45x70cm   Todas las medidas ](https://www.amazon.es/dp/B07BMXTXQ9/?tag=tolees-21) con un 29.55 % de descuento con precio de oferta de 10.99 EUR (original: 15.6 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.75
 comparePrice: 29.7 EUR
 inStock: true
-prodname: TRESemmé Champú Repara & Fortalece 6 x 685 ML
+prodname: 'TRESemmé Champú Repara & Fortalece 6 x 685 ML'
 ---
 
 Tienes [TRESemmé Champú Repara & Fortalece 6 x 685 ML](https://www.amazon.es/dp/B089HVPF1R/?tag=tolees-21) con un 33.50 % de descuento con precio de oferta de 19.75 EUR (original: 29.7 EUR) en el siguiente enlace!

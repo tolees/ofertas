@@ -14,7 +14,7 @@ currency: EUR
 price: 338.45
 comparePrice: 496.13 EUR
 inStock: true
-prodname: Diesel L-restil Jacket Chaqueta  Negro  Black 900   X-Large para Hombre
+prodname: 'Diesel L-restil Jacket Chaqueta  Negro  Black 900   X-Large para Hombre'
 ---
 
 Ahora mismo tienes [Diesel L-restil Jacket Chaqueta  Negro  Black 900   X-Large para Hombre](https://www.amazon.es/dp/B07N9RGTG6/?tag=tolees-21) a 338.45 EUR (original: 496.13 EUR) (31.78 %  de descuento) en el siguiente enlace!

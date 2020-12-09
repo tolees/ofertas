@@ -14,7 +14,7 @@ currency: EUR
 price: 17.78
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Venom - Twin Docking Station & Battery Packs Con Cubiertas  Xbox One 
+prodname: 'Venom - Twin Docking Station & Battery Packs Con Cubiertas  Xbox One '
 ---
 
 Ahora mismo tienes [Venom - Twin Docking Station & Battery Packs Con Cubiertas  Xbox One ](https://www.amazon.es/dp/B00G4UCNI2/?tag=tolees-21) a 17.78 EUR (original: 29.99 EUR) (40.71 %  de descuento) en el siguiente enlace!

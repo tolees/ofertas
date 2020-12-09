@@ -14,7 +14,7 @@ currency: EUR
 price: 4
 comparePrice: 7.24 EUR
 inStock: true
-prodname: Snner - Lote de 10 adaptadores OTG de 5 Pines para Transformador USB Macho a Micro USB Hembra
+prodname: 'Snner - Lote de 10 adaptadores OTG de 5 Pines para Transformador USB Macho a Micro USB Hembra'
 ---
 
 Está [Snner - Lote de 10 adaptadores OTG de 5 Pines para Transformador USB Macho a Micro USB Hembra](https://www.amazon.es/dp/B01KU8UJE8/?tag=tolees-21) con 44.75 de descuento por 4 EUR (original: 7.24 EUR) en el siguiente enlace!

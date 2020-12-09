@@ -14,7 +14,7 @@ currency: EUR
 price: 13.5
 comparePrice: 24.95 EUR
 inStock: true
-prodname: hummel Hmlarena Pelota  Unisex  Blanco  White Red Blue   3
+prodname: 'hummel Hmlarena Pelota  Unisex  Blanco  White Red Blue   3'
 ---
 
 Ahora mismo tienes [hummel Hmlarena Pelota  Unisex  Blanco  White Red Blue   3](https://www.amazon.es/dp/B07KQL3NXQ/?tag=tolees-21) a 13.5 EUR (original: 24.95 EUR) (45.89 %  de descuento) en el siguiente enlace!

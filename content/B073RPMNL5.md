@@ -14,7 +14,7 @@ currency: EUR
 price: 49.75
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Helly Hansen Loke Backpack Mochila  Unisex  Negro  Black   Talla única
+prodname: 'Helly Hansen Loke Backpack Mochila  Unisex  Negro  Black   Talla única'
 ---
 
 Está [Helly Hansen Loke Backpack Mochila  Unisex  Negro  Black   Talla única](https://www.amazon.es/dp/B073RPMNL5/?tag=tolees-21) con 28.93 de descuento por 49.75 EUR (original: 70.0 EUR) en el siguiente enlace!

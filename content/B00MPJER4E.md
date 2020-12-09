@@ -14,7 +14,7 @@ currency: EUR
 price: 49.0
 comparePrice: 65.4 EUR
 inStock: true
-prodname: Honeywell Home THR092HRT Cabezal Termostático Radiador Wireless para Sistema Evohome  Blanco
+prodname: 'Honeywell Home THR092HRT Cabezal Termostático Radiador Wireless para Sistema Evohome  Blanco'
 ---
 
 Está [Honeywell Home THR092HRT Cabezal Termostático Radiador Wireless para Sistema Evohome  Blanco](https://www.amazon.es/dp/B00MPJER4E/?tag=tolees-21) con 25.08 de descuento por 49.0 EUR (original: 65.4 EUR) en el siguiente enlace!

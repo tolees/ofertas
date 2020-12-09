@@ -14,7 +14,7 @@ currency: EUR
 price: 13.0
 comparePrice: 26.0 EUR
 inStock: true
-prodname: Hasbro Gaming - Juego infantil Vater loco  Hasbro C0447175 
+prodname: 'Hasbro Gaming - Juego infantil Vater loco  Hasbro C0447175 '
 ---
 
 Ahora mismo tienes [Hasbro Gaming - Juego infantil Vater loco  Hasbro C0447175 ](https://www.amazon.es/dp/B06XD6XPXR/?tag=tolees-21) a 13.0 EUR (original: 26.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

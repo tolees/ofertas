@@ -14,7 +14,7 @@ currency: EUR
 price: 20.09
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Black Crevice Abrigo Corto Lila ES 38  DE 36 
+prodname: 'Black Crevice Abrigo Corto Lila ES 38  DE 36 '
 ---
 
 Tienes [Black Crevice Abrigo Corto Lila ES 38  DE 36 ](https://www.amazon.es/dp/B01GED9V3I/?tag=tolees-21) con un 85.65 % de descuento con precio de oferta de 20.09 EUR (original: 139.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.46
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Only Onlterra 3/4 Kimono Wvn  Chaqueta Mujer   Night Sky AOP: Flower Print   40  Talla del Fabricante: 38 
+prodname: 'Only Onlterra 3/4 Kimono Wvn  Chaqueta Mujer   Night Sky AOP: Flower Print   40  Talla del Fabricante: 38 '
 ---
 
 Ahora mismo tienes [Only Onlterra 3/4 Kimono Wvn  Chaqueta Mujer   Night Sky AOP: Flower Print   40  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B077MKFZ7Z/?tag=tolees-21) a 20.46 EUR (original: 39.99 EUR) (48.84 %  de descuento) en el siguiente enlace!

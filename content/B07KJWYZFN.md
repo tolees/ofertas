@@ -14,7 +14,7 @@ currency: EUR
 price: 13.95
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Quiksilver Stomped On T-Shirt  Hombre  Black  XL
+prodname: 'Quiksilver Stomped On T-Shirt  Hombre  Black  XL'
 ---
 
 Está [Quiksilver Stomped On T-Shirt  Hombre  Black  XL](https://www.amazon.es/dp/B07KJWYZFN/?tag=tolees-21) con 46.33 de descuento por 13.95 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 65 EUR
 inStock: true
-prodname: Geox Jr Sandal Roxanne B  Sandalias Punta Cerrada para Niñas  Rosa  Dk Raspberry/Pink Cp8e8   36 EU
+prodname: 'Geox Jr Sandal Roxanne B  Sandalias Punta Cerrada para Niñas  Rosa  Dk Raspberry/Pink Cp8e8   36 EU'
 ---
 
 Tienes [Geox Jr Sandal Roxanne B  Sandalias Punta Cerrada para Niñas  Rosa  Dk Raspberry/Pink Cp8e8   36 EU](https://www.amazon.es/dp/B07DK1XSG6/?tag=tolees-21) con un 63.15 % de descuento con precio de oferta de 23.95 EUR (original: 65 EUR) en el siguiente enlace!

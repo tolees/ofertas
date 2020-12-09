@@ -14,7 +14,7 @@ currency: EUR
 price: 6.3
 comparePrice: 11.27 EUR
 inStock: true
-prodname: Small Foot Company 7998 - Móvil para Cuna  diseño de Peces
+prodname: 'Small Foot Company 7998 - Móvil para Cuna  diseño de Peces'
 ---
 
 Ahora mismo tienes [Small Foot Company 7998 - Móvil para Cuna  diseño de Peces](https://www.amazon.es/dp/B000LRWDNO/?tag=tolees-21) a 6.3 EUR (original: 11.27 EUR) (44.10 %  de descuento) en el siguiente enlace!

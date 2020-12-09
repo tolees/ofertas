@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Xiaomi Mi Power Bank 2S  Batería Portátil 10000Mah  Aleación De Aluminio  Micro Usb  Usbx2 Color Negro.
+prodname: 'Xiaomi Mi Power Bank 2S  Batería Portátil 10000Mah  Aleación De Aluminio  Micro Usb  Usbx2 Color Negro.'
 ---
 
 Ahora mismo tienes [Xiaomi Mi Power Bank 2S  Batería Portátil 10000Mah  Aleación De Aluminio  Micro Usb  Usbx2 Color Negro.](https://www.amazon.es/dp/B07CQ1G4PR/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

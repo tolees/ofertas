@@ -14,7 +14,7 @@ currency: EUR
 price: 30.0
 comparePrice: 45.12 EUR
 inStock: true
-prodname: Terry J Rattan 68 Armario 2 Puertas con 1 Interno. Capacidad máxima del Estante: 20 kg distribuidos de Forma Uniforme  Gris  68X37 5X91 5 cm
+prodname: 'Terry J Rattan 68 Armario 2 Puertas con 1 Interno. Capacidad máxima del Estante: 20 kg distribuidos de Forma Uniforme  Gris  68X37 5X91 5 cm'
 ---
 
 Ahora mismo tienes [Terry J Rattan 68 Armario 2 Puertas con 1 Interno. Capacidad máxima del Estante: 20 kg distribuidos de Forma Uniforme  Gris  68X37 5X91 5 cm](https://www.amazon.es/dp/B018U7QEDQ/?tag=tolees-21) a 30.0 EUR (original: 45.12 EUR) (33.51 %  de descuento) en el siguiente enlace!

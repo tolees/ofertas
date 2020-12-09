@@ -14,7 +14,7 @@ currency: EUR
 price: 34.3
 comparePrice: 49 EUR
 inStock: true
-prodname: Tous Monedero Mediano Vera Topo
+prodname: 'Tous Monedero Mediano Vera Topo'
 ---
 
 Tienes [Tous Monedero Mediano Vera Topo](https://www.amazon.es/dp/B07NHR7RRQ/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 34.3 EUR (original: 49 EUR) en el siguiente enlace!

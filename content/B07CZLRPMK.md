@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Under Armour Sportstyle Logo Tank Tanque  Hombre  Azul Academy/White 408  S
+prodname: 'Under Armour Sportstyle Logo Tank Tanque  Hombre  Azul Academy/White 408  S'
 ---
 
 Tienes [Under Armour Sportstyle Logo Tank Tanque  Hombre  Azul Academy/White 408  S](https://www.amazon.es/dp/B07CZLRPMK/?tag=tolees-21) con un 42.32 % de descuento con precio de oferta de 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

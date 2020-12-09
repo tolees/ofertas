@@ -14,7 +14,7 @@ currency: EUR
 price: 11.15
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Trust GXT 207 - Alfombrilla de ratón  Negro
+prodname: 'Trust GXT 207 - Alfombrilla de ratón  Negro'
 ---
 
 Está [Trust GXT 207 - Alfombrilla de ratón  Negro](https://www.amazon.es/dp/B00HTIYYTO/?tag=tolees-21) con 44.22 de descuento por 11.15 EUR (original: 19.99 EUR) en el siguiente enlace!

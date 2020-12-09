@@ -14,7 +14,7 @@ currency: EUR
 price: 179.99
 comparePrice: 252.09 EUR
 inStock: true
-prodname: LE CREUSET Cocotte  Azul Caribe  26 cm
+prodname: 'LE CREUSET Cocotte  Azul Caribe  26 cm'
 ---
 
 Está [LE CREUSET Cocotte  Azul Caribe  26 cm](https://www.amazon.es/dp/B00YUYXXDI/?tag=tolees-21) con 28.60 de descuento por 179.99 EUR (original: 252.09 EUR) en el siguiente enlace!

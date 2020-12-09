@@ -14,13 +14,15 @@ currency: EUR
 price: 15.83
 comparePrice: 65 EUR
 inStock: true
-prodname: Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Rosa Onyx White/Arctic Pink 600  36.5 EU
+prodname: 'Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Rosa Onyx White/Arctic Pink 600  36.5 EU'
 ---
 
-Ahora mismo tienes [Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Rosa Onyx White/Arctic Pink 600  36.5 EU](https://www.amazon.es/dp/B07CTMFL9L/?tag=tolees-21) a 15.83 EUR (original: 65 EUR) (75.65 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Rosa Onyx White/Arctic Pink 600  36.5 EU](https://www.amazon.es/dp/B07CTMFL9L/?tag=tolees-21) con 75.65 de descuento por 15.83 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![Under Armour UA GS Suspend  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/31kLx4POa3L._SL200_.jpg)](https://www.amazon.es/dp/B07CTMFL9L/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07CTMFL9L/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CTMFL9L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

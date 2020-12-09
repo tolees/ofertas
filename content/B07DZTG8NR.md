@@ -14,7 +14,7 @@ currency: EUR
 price: 8.59
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Encendedor con Pilas Secas  TACKLIFE-ELY06 Mechero Eléctrico Cocina con Cuello Largo & 360º Flexible  Bloqueo de Seguridad  Baterías Reemplazadas  Incluídas   Actividades al Aire Libre
+prodname: 'Encendedor con Pilas Secas  TACKLIFE-ELY06 Mechero Eléctrico Cocina con Cuello Largo & 360º Flexible  Bloqueo de Seguridad  Baterías Reemplazadas  Incluídas   Actividades al Aire Libre'
 ---
 
 Ahora mismo tienes [Encendedor con Pilas Secas  TACKLIFE-ELY06 Mechero Eléctrico Cocina con Cuello Largo & 360º Flexible  Bloqueo de Seguridad  Baterías Reemplazadas  Incluídas   Actividades al Aire Libre](https://www.amazon.es/dp/B07DZTG8NR/?tag=tolees-21) a 8.59 EUR (original: 20.99 EUR) (59.08 %  de descuento) en el siguiente enlace!

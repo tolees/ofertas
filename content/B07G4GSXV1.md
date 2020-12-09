@@ -14,7 +14,7 @@ currency: EUR
 price: 30.11
 comparePrice: 89.95 EUR
 inStock: true
-prodname: HUGO Dewayne  Sudadera Hombre  Blanco  White 100   X-Large
+prodname: 'HUGO Dewayne  Sudadera Hombre  Blanco  White 100   X-Large'
 ---
 
 Está [HUGO Dewayne  Sudadera Hombre  Blanco  White 100   X-Large](https://www.amazon.es/dp/B07G4GSXV1/?tag=tolees-21) con 66.53 de descuento por 30.11 EUR (original: 89.95 EUR) en el siguiente enlace!

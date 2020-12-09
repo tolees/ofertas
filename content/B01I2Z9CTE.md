@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 10.0 EUR
 inStock: true
-prodname: Arganour Rosehip Oil 100% Pure Tratamiento Corporal - 50 ml
+prodname: 'Arganour Rosehip Oil 100% Pure Tratamiento Corporal - 50 ml'
 ---
 
 Está [Arganour Rosehip Oil 100% Pure Tratamiento Corporal - 50 ml](https://www.amazon.es/dp/B01I2Z9CTE/?tag=tolees-21) con 30.50 de descuento por 6.95 EUR (original: 10.0 EUR) en el siguiente enlace!

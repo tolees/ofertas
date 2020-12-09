@@ -14,7 +14,7 @@ currency: EUR
 price: 6.55
 comparePrice: 16.57 EUR
 inStock: true
-prodname: Kingnew Mini portátil antirrobo 3 Digit Bicicleta Ciclismo Primavera Cable candado Código Atrás cksetz Baren Bicicleta candados Bolsa de Viaje candados Casco con candado  Azul 
+prodname: 'Kingnew Mini portátil antirrobo 3 Digit Bicicleta Ciclismo Primavera Cable candado Código Atrás cksetz Baren Bicicleta candados Bolsa de Viaje candados Casco con candado  Azul '
 ---
 
 Está [Kingnew Mini portátil antirrobo 3 Digit Bicicleta Ciclismo Primavera Cable candado Código Atrás cksetz Baren Bicicleta candados Bolsa de Viaje candados Casco con candado  Azul ](https://www.amazon.es/dp/B07CTM6M3V/?tag=tolees-21) con 60.47 de descuento por 6.55 EUR (original: 16.57 EUR) en el siguiente enlace!

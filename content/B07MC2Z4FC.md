@@ -14,7 +14,7 @@ currency: EUR
 price: 32.02
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Marca Amazon - find. Impermeable Hombre  Verde  Khaki   XS  Label: XS
+prodname: 'Marca Amazon - find. Impermeable Hombre  Verde  Khaki   XS  Label: XS'
 ---
 
 Está [Marca Amazon - find. Impermeable Hombre  Verde  Khaki   XS  Label: XS](https://www.amazon.es/dp/B07MC2Z4FC/?tag=tolees-21) con 54.19 de descuento por 32.02 EUR (original: 69.9 EUR) en el siguiente enlace!

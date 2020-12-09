@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 40.62 EUR
 inStock: true
-prodname: Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Negro  L   Pack de 3 
+prodname: 'Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Negro  L   Pack de 3 '
 ---
 
 Está [Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Negro  L   Pack de 3 ](https://www.amazon.es/dp/B001BEAWZM/?tag=tolees-21) con 38.48 de descuento por 24.99 EUR (original: 40.62 EUR) en el siguiente enlace!

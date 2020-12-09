@@ -14,7 +14,7 @@ currency: EUR
 price: 60.2
 comparePrice: 120 EUR
 inStock: true
-prodname: Hackett London AMR HKT Multi Polo  M para Hombre
+prodname: 'Hackett London AMR HKT Multi Polo  M para Hombre'
 ---
 
 Está [Hackett London AMR HKT Multi Polo  M para Hombre](https://www.amazon.es/dp/B07BYZHSK6/?tag=tolees-21) con 49.83 de descuento por 60.2 EUR (original: 120 EUR) en el siguiente enlace!

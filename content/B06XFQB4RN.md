@@ -14,7 +14,7 @@ currency: EUR
 price: 34.26
 comparePrice: 80.0 EUR
 inStock: true
-prodname: New Balance 373 Core  Zapatillas Bajas Hombre  Gris  Grey   38 EU
+prodname: 'New Balance 373 Core  Zapatillas Bajas Hombre  Gris  Grey   38 EU'
 ---
 
 Ahora mismo tienes [New Balance 373 Core  Zapatillas Bajas Hombre  Gris  Grey   38 EU](https://www.amazon.es/dp/B06XFQB4RN/?tag=tolees-21) a 34.26 EUR (original: 80.0 EUR) (57.17 %  de descuento) en el siguiente enlace!

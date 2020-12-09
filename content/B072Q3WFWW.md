@@ -14,7 +14,7 @@ currency: EUR
 price: 9.0
 comparePrice: 15.42 EUR
 inStock: true
-prodname: Crudo [Blu-ray]
+prodname: 'Crudo [Blu-ray]'
 ---
 
 Ahora mismo tienes [Crudo [Blu-ray]](https://www.amazon.es/dp/B072Q3WFWW/?tag=tolees-21) a 9.0 EUR (original: 15.42 EUR) (41.63 %  de descuento) en el siguiente enlace!

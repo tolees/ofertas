@@ -14,7 +14,7 @@ currency: EUR
 price: 49.69
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Dremel Lite 7760 - Multiherramienta Inalámbrica  Batería de Litio 3.6 V  Kit con 15 Accesorios  Cargador USB  Velocidad 8000-25000 RPM para Tallar  Grabar  Amolar  Limpiar  Pulir  Afilar y Lijar
+prodname: 'Dremel Lite 7760 - Multiherramienta Inalámbrica  Batería de Litio 3.6 V  Kit con 15 Accesorios  Cargador USB  Velocidad 8000-25000 RPM para Tallar  Grabar  Amolar  Limpiar  Pulir  Afilar y Lijar'
 ---
 
 Está [Dremel Lite 7760 - Multiherramienta Inalámbrica  Batería de Litio 3.6 V  Kit con 15 Accesorios  Cargador USB  Velocidad 8000-25000 RPM para Tallar  Grabar  Amolar  Limpiar  Pulir  Afilar y Lijar](https://www.amazon.es/dp/B07RCHZYT6/?tag=tolees-21) con 29.00 de descuento por 49.69 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 41.41
 comparePrice: 82.99 EUR
 inStock: true
-prodname: Netgear GSS108E-100EUS - Click switch gestionable inteligente de 8 puertos Gigabit
+prodname: 'Netgear GSS108E-100EUS - Click switch gestionable inteligente de 8 puertos Gigabit'
 ---
 
 Tienes [Netgear GSS108E-100EUS - Click switch gestionable inteligente de 8 puertos Gigabit](https://www.amazon.es/dp/B00RDZOLHI/?tag=tolees-21) con un 50.10 % de descuento con precio de oferta de 41.41 EUR (original: 82.99 EUR) en el siguiente enlace!

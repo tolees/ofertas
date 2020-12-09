@@ -14,7 +14,7 @@ currency: EUR
 price: 65.57
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Hombre CORE DENTON STRAIGHT CHINO Pantalones  Beige  Batique Khaki 264   W34/L36
+prodname: 'Tommy Hilfiger Hombre CORE DENTON STRAIGHT CHINO Pantalones  Beige  Batique Khaki 264   W34/L36'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Hombre CORE DENTON STRAIGHT CHINO Pantalones  Beige  Batique Khaki 264   W34/L36](https://www.amazon.es/dp/B01BNCKO86/?tag=tolees-21) a 65.57 EUR (original: 99.9 EUR) (34.36 %  de descuento) en el siguiente enlace!

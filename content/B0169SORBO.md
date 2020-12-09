@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 35.48 EUR
 inStock: true
-prodname: Manfrotto Pixi Smart - Mini trípode para smartphone  negro
+prodname: 'Manfrotto Pixi Smart - Mini trípode para smartphone  negro'
 ---
 
 Está [Manfrotto Pixi Smart - Mini trípode para smartphone  negro](https://www.amazon.es/dp/B0169SORBO/?tag=tolees-21) con 40.84 de descuento por 20.99 EUR (original: 35.48 EUR) en el siguiente enlace!

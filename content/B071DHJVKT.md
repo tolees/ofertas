@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 39.78 EUR
 inStock: true
-prodname: Glitter Gel Pens by Color Technik  Set of 50 Individual Colours  40% More Ink. Largest Non-Toxic Artist Quality Glitter Set By Color Technik  Perfect For Adult Colouring Books Etc. Great Gift Idea!
+prodname: 'Glitter Gel Pens by Color Technik  Set of 50 Individual Colours  40% More Ink. Largest Non-Toxic Artist Quality Glitter Set By Color Technik  Perfect For Adult Colouring Books Etc. Great Gift Idea!'
 ---
 
 Ahora mismo tienes [Glitter Gel Pens by Color Technik  Set of 50 Individual Colours  40% More Ink. Largest Non-Toxic Artist Quality Glitter Set By Color Technik  Perfect For Adult Colouring Books Etc. Great Gift Idea!](https://www.amazon.es/dp/B071DHJVKT/?tag=tolees-21) a 16.95 EUR (original: 39.78 EUR) (57.39 %  de descuento) en el siguiente enlace!

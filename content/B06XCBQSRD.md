@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Pocketman Paquete de 10 3 Watt AC/DC 12V G4 Bombillas LED Equivalente a la lámpara halógena de 30W  3000k Luz calida
+prodname: 'Pocketman Paquete de 10 3 Watt AC/DC 12V G4 Bombillas LED Equivalente a la lámpara halógena de 30W  3000k Luz calida'
 ---
 
 Está [Pocketman Paquete de 10 3 Watt AC/DC 12V G4 Bombillas LED Equivalente a la lámpara halógena de 30W  3000k Luz calida](https://www.amazon.es/dp/B06XCBQSRD/?tag=tolees-21) con 72.01 de descuento por 13.99 EUR (original: 49.99 EUR) en el siguiente enlace!

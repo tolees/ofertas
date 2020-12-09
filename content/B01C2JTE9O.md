@@ -14,7 +14,7 @@ currency: EUR
 price: 49.65
 comparePrice: 89.95 EUR
 inStock: true
-prodname: BLACK+DECKER DVJ320J-QW - Aspirador de mano sin cable 10.8V  2Ah  Dustbuster  acción ciclónica y Eco inteligente
+prodname: 'BLACK+DECKER DVJ320J-QW - Aspirador de mano sin cable 10.8V  2Ah  Dustbuster  acción ciclónica y Eco inteligente'
 ---
 
 Tienes [BLACK+DECKER DVJ320J-QW - Aspirador de mano sin cable 10.8V  2Ah  Dustbuster  acción ciclónica y Eco inteligente](https://www.amazon.es/dp/B01C2JTE9O/?tag=tolees-21) con un 44.80 % de descuento con precio de oferta de 49.65 EUR (original: 89.95 EUR) en el siguiente enlace!

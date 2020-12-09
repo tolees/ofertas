@@ -14,7 +14,7 @@ currency: EUR
 price: 43.07
 comparePrice: 80.0 EUR
 inStock: true
-prodname: New Balance 247v1  Zapatillas Hombre  Plateado  Silver Filigree/Silver Ok   37 EU
+prodname: 'New Balance 247v1  Zapatillas Hombre  Plateado  Silver Filigree/Silver Ok   37 EU'
 ---
 
 Tienes [New Balance 247v1  Zapatillas Hombre  Plateado  Silver Filigree/Silver Ok   37 EU](https://www.amazon.es/dp/B07DJ5QD8S/?tag=tolees-21) con un 46.16 % de descuento con precio de oferta de 43.07 EUR (original: 80.0 EUR) en el siguiente enlace!

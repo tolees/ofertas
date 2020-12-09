@@ -14,7 +14,7 @@ currency: EUR
 price: 45.85
 comparePrice: 91.99 EUR
 inStock: true
-prodname: Remington S9600 Silk - Plancha de Pelo  Cerámica  Digital  Placas Flotantes Extralargas  Rojo  Resultados Profesionales  Rojo
+prodname: 'Remington S9600 Silk - Plancha de Pelo  Cerámica  Digital  Placas Flotantes Extralargas  Rojo  Resultados Profesionales  Rojo'
 ---
 
 Está [Remington S9600 Silk - Plancha de Pelo  Cerámica  Digital  Placas Flotantes Extralargas  Rojo  Resultados Profesionales  Rojo](https://www.amazon.es/dp/B00EDP3YQK/?tag=tolees-21) con 50.16 de descuento por 45.85 EUR (original: 91.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.49
 comparePrice: 45.99 EUR
 inStock: true
-prodname: Bedsure Topper Colchón 150x190/200x3cm - Funda Colchón Cama 150 Acolchado de Espuma de 7-Zonas  Protector Colchón Hipoalergénico Suave Transpirable de Microfibra
+prodname: 'Bedsure Topper Colchón 150x190/200x3cm - Funda Colchón Cama 150 Acolchado de Espuma de 7-Zonas  Protector Colchón Hipoalergénico Suave Transpirable de Microfibra'
 ---
 
 Tienes [Bedsure Topper Colchón 150x190/200x3cm - Funda Colchón Cama 150 Acolchado de Espuma de 7-Zonas  Protector Colchón Hipoalergénico Suave Transpirable de Microfibra](https://www.amazon.es/dp/B07Q2NRBJS/?tag=tolees-21) con un 44.57 % de descuento con precio de oferta de 25.49 EUR (original: 45.99 EUR) en el siguiente enlace!

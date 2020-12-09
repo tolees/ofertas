@@ -14,7 +14,7 @@ currency: EUR
 price: 64.99
 comparePrice: 98.99 EUR
 inStock: true
-prodname: Reebok Nano X  Zapatillas de Deporte Mujer  Blanco/FLUBLU/VIVDOR  37 EU
+prodname: 'Reebok Nano X  Zapatillas de Deporte Mujer  Blanco/FLUBLU/VIVDOR  37 EU'
 ---
 
 Ahora mismo tienes [Reebok Nano X  Zapatillas de Deporte Mujer  Blanco/FLUBLU/VIVDOR  37 EU](https://www.amazon.es/dp/B0824GWFQX/?tag=tolees-21) a 64.99 EUR (original: 98.99 EUR) (34.35 %  de descuento) en el siguiente enlace!

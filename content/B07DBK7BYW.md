@@ -14,7 +14,7 @@ currency: EUR
 price: 10.93
 comparePrice: 39.95 EUR
 inStock: true
-prodname: United Colors of Benetton Jacket  Chaqueta para Niños  Gris  Grey 63z  92  Talla del Fabricante: 1y 
+prodname: 'United Colors of Benetton Jacket  Chaqueta para Niños  Gris  Grey 63z  92  Talla del Fabricante: 1y '
 ---
 
 Está [United Colors of Benetton Jacket  Chaqueta para Niños  Gris  Grey 63z  92  Talla del Fabricante: 1y ](https://www.amazon.es/dp/B07DBK7BYW/?tag=tolees-21) con 72.64 de descuento por 10.93 EUR (original: 39.95 EUR) en el siguiente enlace!

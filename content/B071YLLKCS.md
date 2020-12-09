@@ -14,7 +14,7 @@ currency: EUR
 price: 533.29
 comparePrice: 849 EUR
 inStock: true
-prodname: Acer SF314-51-51M - Ordenador Portátil de 14" HD  Intel Core i5-7200U  8 GB de RAM  256 GB SSD  Intel HD Graphics 620  Windows 10  Gris - Teclado QWERTY Español [España]
+prodname: 'Acer SF314-51-51M - Ordenador Portátil de 14" HD  Intel Core i5-7200U  8 GB de RAM  256 GB SSD  Intel HD Graphics 620  Windows 10  Gris - Teclado QWERTY Español [España]'
 ---
 
 Está [Acer SF314-51-51M - Ordenador Portátil de 14" HD  Intel Core i5-7200U  8 GB de RAM  256 GB SSD  Intel HD Graphics 620  Windows 10  Gris - Teclado QWERTY Español [España]](https://www.amazon.es/dp/B071YLLKCS/?tag=tolees-21) con 37.19 de descuento por 533.29 EUR (original: 849 EUR) en el siguiente enlace!

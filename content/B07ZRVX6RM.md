@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Soundcore Flare 2 Altavoces Bluetooth  con protección de Agua IPX7  Sonido 360° en Todo el Contorno  con PartyCast  regulación del Ecualizador y 12 Horas de duración de la batería
+prodname: 'Soundcore Flare 2 Altavoces Bluetooth  con protección de Agua IPX7  Sonido 360° en Todo el Contorno  con PartyCast  regulación del Ecualizador y 12 Horas de duración de la batería'
 ---
 
 Tienes [Soundcore Flare 2 Altavoces Bluetooth  con protección de Agua IPX7  Sonido 360° en Todo el Contorno  con PartyCast  regulación del Ecualizador y 12 Horas de duración de la batería](https://www.amazon.es/dp/B07ZRVX6RM/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!

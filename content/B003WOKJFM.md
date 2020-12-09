@@ -14,7 +14,7 @@ currency: EUR
 price: 35.67
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Remington S6500 Sleek & Curl - Plancha de Pelo  Cerámica Avanzada  Digital  Placas Estrechas Extra Largas  Negro y Dorado
+prodname: 'Remington S6500 Sleek & Curl - Plancha de Pelo  Cerámica Avanzada  Digital  Placas Estrechas Extra Largas  Negro y Dorado'
 ---
 
 Tienes [Remington S6500 Sleek & Curl - Plancha de Pelo  Cerámica Avanzada  Digital  Placas Estrechas Extra Largas  Negro y Dorado](https://www.amazon.es/dp/B003WOKJFM/?tag=tolees-21) con un 40.45 % de descuento con precio de oferta de 35.67 EUR (original: 59.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 51.01
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas Advantage  Zapatillas de Tenis para Hombre  FTWR White/Green F36424  40 2/3 EU
+prodname: 'adidas Advantage  Zapatillas de Tenis para Hombre  FTWR White/Green F36424  40 2/3 EU'
 ---
 
 Ahora mismo tienes [adidas Advantage  Zapatillas de Tenis para Hombre  FTWR White/Green F36424  40 2/3 EU](https://www.amazon.es/dp/B07KFT6QS9/?tag=tolees-21) a 51.01 EUR (original: 69.95 EUR) (27.08 %  de descuento) en el siguiente enlace!

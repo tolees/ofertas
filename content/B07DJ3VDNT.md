@@ -14,7 +14,7 @@ currency: EUR
 price: 39.06
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Geox D ANNYTAH D  Bailarinas Mujer  Negro  Black C9999   36 EU
+prodname: 'Geox D ANNYTAH D  Bailarinas Mujer  Negro  Black C9999   36 EU'
 ---
 
 Ahora mismo tienes [Geox D ANNYTAH D  Bailarinas Mujer  Negro  Black C9999   36 EU](https://www.amazon.es/dp/B07DJ3VDNT/?tag=tolees-21) a 39.06 EUR (original: 89.9 EUR) (56.55 %  de descuento) en el siguiente enlace!

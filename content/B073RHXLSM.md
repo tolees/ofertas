@@ -14,7 +14,7 @@ currency: EUR
 price: 17.2
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Reebok Bs7010  Zapatillas de Running para Mujer  Morado  HS Shadow/Lilac Glow/Gua Punch/Wht   35.5 EU
+prodname: 'Reebok Bs7010  Zapatillas de Running para Mujer  Morado  HS Shadow/Lilac Glow/Gua Punch/Wht   35.5 EU'
 ---
 
 Ahora mismo tienes [Reebok Bs7010  Zapatillas de Running para Mujer  Morado  HS Shadow/Lilac Glow/Gua Punch/Wht   35.5 EU](https://www.amazon.es/dp/B073RHXLSM/?tag=tolees-21) a 17.2 EUR (original: 54.95 EUR) (68.70 %  de descuento) en el siguiente enlace!

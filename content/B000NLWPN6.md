@@ -14,7 +14,7 @@ currency: EUR
 price: 20
 comparePrice: 43.88 EUR
 inStock: true
-prodname: Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LW-200-1AVEF
+prodname: 'Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LW-200-1AVEF'
 ---
 
 Está [Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LW-200-1AVEF](https://www.amazon.es/dp/B000NLWPN6/?tag=tolees-21) con 54.42 de descuento por 20 EUR (original: 43.88 EUR) en el siguiente enlace!

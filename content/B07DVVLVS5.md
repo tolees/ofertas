@@ -14,7 +14,7 @@ currency: EUR
 price: 24.93
 comparePrice: 45 EUR
 inStock: true
-prodname: LE COQ SPORTIF Nationale PS  Zapatillas Unisex Niños  Azul Cobalt  34 EU
+prodname: 'LE COQ SPORTIF Nationale PS  Zapatillas Unisex Niños  Azul Cobalt  34 EU'
 ---
 
 Tienes [LE COQ SPORTIF Nationale PS  Zapatillas Unisex Niños  Azul Cobalt  34 EU](https://www.amazon.es/dp/B07DVVLVS5/?tag=tolees-21) con un 44.60 % de descuento con precio de oferta de 24.93 EUR (original: 45 EUR) en el siguiente enlace!

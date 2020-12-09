@@ -14,7 +14,7 @@ currency: EUR
 price: 23.36
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Puma Vikky Ribbon Bold  Zapatillas para Mujer  Negro Black  37.5 EU
+prodname: 'Puma Vikky Ribbon Bold  Zapatillas para Mujer  Negro Black  37.5 EU'
 ---
 
 Está [Puma Vikky Ribbon Bold  Zapatillas para Mujer  Negro Black  37.5 EU](https://www.amazon.es/dp/B077MTKMYX/?tag=tolees-21) con 61.03 de descuento por 23.36 EUR (original: 59.95 EUR) en el siguiente enlace!

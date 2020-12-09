@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 134.99 EUR
 inStock: true
-prodname: WD BLACK SN750 de 500 GB - SSD NVMe interno de alto rendimiento para gaming
+prodname: 'WD BLACK SN750 de 500 GB - SSD NVMe interno de alto rendimiento para gaming'
 ---
 
 Está [WD BLACK SN750 de 500 GB - SSD NVMe interno de alto rendimiento para gaming](https://www.amazon.es/dp/B07MH2P5ZD/?tag=tolees-21) con 33.34 de descuento por 89.99 EUR (original: 134.99 EUR) en el siguiente enlace!

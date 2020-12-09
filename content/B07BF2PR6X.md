@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Super Bomberman R - Shiny Edition
+prodname: 'Super Bomberman R - Shiny Edition'
 ---
 
 Ahora mismo tienes [Super Bomberman R - Shiny Edition](https://www.amazon.es/dp/B07BF2PR6X/?tag=tolees-21) a 19.95 EUR (original: 39.99 EUR) (50.11 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 44.35
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Clarks Mena Blossom  Zapatos de Tacón para Mujer  Plateado  Champagne-   38 EU
+prodname: 'Clarks Mena Blossom  Zapatos de Tacón para Mujer  Plateado  Champagne-   38 EU'
 ---
 
 Ahora mismo tienes [Clarks Mena Blossom  Zapatos de Tacón para Mujer  Plateado  Champagne-   38 EU](https://www.amazon.es/dp/B07FQP8YYJ/?tag=tolees-21) a 44.35 EUR (original: 89.95 EUR) (50.69 %  de descuento) en el siguiente enlace!

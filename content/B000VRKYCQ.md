@@ -14,7 +14,7 @@ currency: EUR
 price: 53.14
 comparePrice: 100 EUR
 inStock: true
-prodname: New Balance 574TBK  Zapatillas de Running para Hombre  Negro  Black 001   42 EU
+prodname: 'New Balance 574TBK  Zapatillas de Running para Hombre  Negro  Black 001   42 EU'
 ---
 
 Tienes [New Balance 574TBK  Zapatillas de Running para Hombre  Negro  Black 001   42 EU](https://www.amazon.es/dp/B000VRKYCQ/?tag=tolees-21) con un 46.86 % de descuento con precio de oferta de 53.14 EUR (original: 100 EUR) en el siguiente enlace!

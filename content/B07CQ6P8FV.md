@@ -14,7 +14,7 @@ currency: EUR
 price: 5.48
 comparePrice: 10.99 EUR
 inStock: true
-prodname: DVD Vengadores Infinity War
+prodname: 'DVD Vengadores Infinity War'
 ---
 
 Está [DVD Vengadores Infinity War](https://www.amazon.es/dp/B07CQ6P8FV/?tag=tolees-21) con 50.14 de descuento por 5.48 EUR (original: 10.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.4
 comparePrice: 28 EUR
 inStock: true
-prodname: FIND Frill Overlay Sudadera para Mujer  Rosa  Old Rose   42  Talla del Fabricante: Large 
+prodname: 'FIND Frill Overlay Sudadera para Mujer  Rosa  Old Rose   42  Talla del Fabricante: Large '
 ---
 
 Tienes [FIND Frill Overlay Sudadera para Mujer  Rosa  Old Rose   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B06X9QL4XG/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 8.4 EUR (original: 28 EUR) en el siguiente enlace!

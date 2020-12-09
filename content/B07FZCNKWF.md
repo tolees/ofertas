@@ -14,7 +14,7 @@ currency: EUR
 price: 40.26
 comparePrice: 89.99 EUR
 inStock: true
-prodname: RIP CURL Puffer Pocket Jacket Chaqueta  Niños  Midnight Navy  12
+prodname: 'RIP CURL Puffer Pocket Jacket Chaqueta  Niños  Midnight Navy  12'
 ---
 
 Está [RIP CURL Puffer Pocket Jacket Chaqueta  Niños  Midnight Navy  12](https://www.amazon.es/dp/B07FZCNKWF/?tag=tolees-21) con 55.26 de descuento por 40.26 EUR (original: 89.99 EUR) en el siguiente enlace!

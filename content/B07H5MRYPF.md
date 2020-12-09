@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 43.99 EUR
 inStock: true
-prodname: Bambino Mio  pañal de aprendizaje  niño mixto  2-3 años  pack de 5
+prodname: 'Bambino Mio  pañal de aprendizaje  niño mixto  2-3 años  pack de 5'
 ---
 
 Ahora mismo tienes [Bambino Mio  pañal de aprendizaje  niño mixto  2-3 años  pack de 5](https://www.amazon.es/dp/B07H5MRYPF/?tag=tolees-21) a 25.99 EUR (original: 43.99 EUR) (40.92 %  de descuento) en el siguiente enlace!

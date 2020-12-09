@@ -14,7 +14,7 @@ currency: EUR
 price: 69.6
 comparePrice: 125 EUR
 inStock: true
-prodname: Liu Jo LJ665SR 424 57 Gafas de sol  Blue  Mujer
+prodname: 'Liu Jo LJ665SR 424 57 Gafas de sol  Blue  Mujer'
 ---
 
 Tienes [Liu Jo LJ665SR 424 57 Gafas de sol  Blue  Mujer](https://www.amazon.es/dp/B01MT2U0OC/?tag=tolees-21) con un 44.32 % de descuento con precio de oferta de 69.6 EUR (original: 125 EUR) en el siguiente enlace!

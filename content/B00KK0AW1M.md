@@ -14,7 +14,7 @@ currency: EUR
 price: 6.11
 comparePrice: 62.17 EUR
 inStock: true
-prodname: James & Nicholson Sofshell Mens Sailing Jacket - Chaqueta técnica para hombre  Rojo/Blanco  XL
+prodname: 'James & Nicholson Sofshell Mens Sailing Jacket - Chaqueta técnica para hombre  Rojo/Blanco  XL'
 ---
 
 Ahora mismo tienes [James & Nicholson Sofshell Mens Sailing Jacket - Chaqueta técnica para hombre  Rojo/Blanco  XL](https://www.amazon.es/dp/B00KK0AW1M/?tag=tolees-21) a 6.11 EUR (original: 62.17 EUR) (90.17 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 1.19
 comparePrice: 2.25 EUR
 inStock: true
-prodname: Fa - Gel de Ducha Yoghurt Miel - Suavidad y Protección - 550ml
+prodname: 'Fa - Gel de Ducha Yoghurt Miel - Suavidad y Protección - 550ml'
 ---
 
 Tienes [Fa - Gel de Ducha Yoghurt Miel - Suavidad y Protección - 550ml](https://www.amazon.es/dp/B00IGVBS4M/?tag=tolees-21) con un 47.11 % de descuento con precio de oferta de 1.19 EUR (original: 2.25 EUR) en el siguiente enlace!

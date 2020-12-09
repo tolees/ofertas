@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: CableDeconn Thunderbolt 3 HDMI Ethernet RJ45 USB Type-C Hub adaptador multipuerto USB 3.0 usb c Cable de carga TF tarjeta SD para Macbook Pro 2017 plata
+prodname: 'CableDeconn Thunderbolt 3 HDMI Ethernet RJ45 USB Type-C Hub adaptador multipuerto USB 3.0 usb c Cable de carga TF tarjeta SD para Macbook Pro 2017 plata'
 ---
 
 Ahora mismo tienes [CableDeconn Thunderbolt 3 HDMI Ethernet RJ45 USB Type-C Hub adaptador multipuerto USB 3.0 usb c Cable de carga TF tarjeta SD para Macbook Pro 2017 plata](https://www.amazon.es/dp/B07B63JWJQ/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

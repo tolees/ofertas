@@ -14,7 +14,7 @@ currency: EUR
 price: 29.79
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Ultra Flex-Capsule  Zapatillas sin Cordones para Mujer  Gris Charcoal  38.5 EU
+prodname: 'Skechers Ultra Flex-Capsule  Zapatillas sin Cordones para Mujer  Gris Charcoal  38.5 EU'
 ---
 
 Tienes [Skechers Ultra Flex-Capsule  Zapatillas sin Cordones para Mujer  Gris Charcoal  38.5 EU](https://www.amazon.es/dp/B074BYYYGG/?tag=tolees-21) con un 54.13 % de descuento con precio de oferta de 29.79 EUR (original: 64.95 EUR) en el siguiente enlace!

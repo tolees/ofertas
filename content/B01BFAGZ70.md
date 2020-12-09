@@ -14,7 +14,7 @@ currency: EUR
 price: 17.43
 comparePrice: 53.55 EUR
 inStock: true
-prodname: HHG Vestido Azul S
+prodname: 'HHG Vestido Azul S'
 ---
 
 Está [HHG Vestido Azul S](https://www.amazon.es/dp/B01BFAGZ70/?tag=tolees-21) con 67.45 de descuento por 17.43 EUR (original: 53.55 EUR) en el siguiente enlace!

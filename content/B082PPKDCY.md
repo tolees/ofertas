@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 81.98 EUR
 inStock: true
-prodname: Gotham Colección Completa Temporada 1-5 Blu-Ray [Blu-ray]
+prodname: 'Gotham Colección Completa Temporada 1-5 Blu-Ray [Blu-ray]'
 ---
 
 Ahora mismo tienes [Gotham Colección Completa Temporada 1-5 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B082PPKDCY/?tag=tolees-21) a 39.99 EUR (original: 81.98 EUR) (51.22 %  de descuento) en el siguiente enlace!

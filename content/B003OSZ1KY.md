@@ -14,7 +14,7 @@ currency: EUR
 price: 2.76
 comparePrice: 4.4 EUR
 inStock: true
-prodname: USB 2 0 24AWG Alto Velocidad Cable Impresora Cable A a B Negro 3 m [3 metros/3m]
+prodname: 'USB 2 0 24AWG Alto Velocidad Cable Impresora Cable A a B Negro 3 m [3 metros/3m]'
 ---
 
 Ahora mismo tienes [USB 2 0 24AWG Alto Velocidad Cable Impresora Cable A a B Negro 3 m [3 metros/3m]](https://www.amazon.es/dp/B003OSZ1KY/?tag=tolees-21) a 2.76 EUR (original: 4.4 EUR) (37.27 %  de descuento) en el siguiente enlace!

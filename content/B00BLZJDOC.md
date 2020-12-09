@@ -14,7 +14,7 @@ currency: EUR
 price: 47.95
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Keter Excellence Armario para Pared  Arena/Gris  56.5 x 65 x 39 cm
+prodname: 'Keter Excellence Armario para Pared  Arena/Gris  56.5 x 65 x 39 cm'
 ---
 
 Ahora mismo tienes [Keter Excellence Armario para Pared  Arena/Gris  56.5 x 65 x 39 cm](https://www.amazon.es/dp/B00BLZJDOC/?tag=tolees-21) a 47.95 EUR (original: 99.9 EUR) (52.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Jovi plastilina  Multicolor Pastel  250 x 157 x 44
+prodname: 'Jovi plastilina  Multicolor Pastel  250 x 157 x 44'
 ---
 
 Está [Jovi plastilina  Multicolor Pastel  250 x 157 x 44](https://www.amazon.es/dp/B07XPFKXJ5/?tag=tolees-21) con 25.02 de descuento por 8.99 EUR (original: 11.99 EUR) en el siguiente enlace!

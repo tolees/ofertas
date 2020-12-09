@@ -14,7 +14,7 @@ currency: EUR
 price: 55.99
 comparePrice: 160 EUR
 inStock: true
-prodname: Dr. Martens Vincent HK  Botas Clasicas para Hombre  Marrón  Dark Chocolate 246   39 EU
+prodname: 'Dr. Martens Vincent HK  Botas Clasicas para Hombre  Marrón  Dark Chocolate 246   39 EU'
 ---
 
 Tienes [Dr. Martens Vincent HK  Botas Clasicas para Hombre  Marrón  Dark Chocolate 246   39 EU](https://www.amazon.es/dp/B078ZJXDQ5/?tag=tolees-21) con un 65.01 % de descuento con precio de oferta de 55.99 EUR (original: 160 EUR) en el siguiente enlace!

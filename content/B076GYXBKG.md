@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 34.62 EUR
 inStock: true
-prodname: Activ Life Luces LED bicis  Set de 2 Rojo . Ideas para Regalo de cumpleaños y de Navidad. Oferta destacada de Black Friday y Cyber Monday para él o Ella  Hombres  Mujeres  niños o Adolescentes.
+prodname: 'Activ Life Luces LED bicis  Set de 2 Rojo . Ideas para Regalo de cumpleaños y de Navidad. Oferta destacada de Black Friday y Cyber Monday para él o Ella  Hombres  Mujeres  niños o Adolescentes.'
 ---
 
 Está [Activ Life Luces LED bicis  Set de 2 Rojo . Ideas para Regalo de cumpleaños y de Navidad. Oferta destacada de Black Friday y Cyber Monday para él o Ella  Hombres  Mujeres  niños o Adolescentes.](https://www.amazon.es/dp/B076GYXBKG/?tag=tolees-21) con 39.37 de descuento por 20.99 EUR (original: 34.62 EUR) en el siguiente enlace!

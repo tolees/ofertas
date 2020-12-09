@@ -14,7 +14,7 @@ currency: EUR
 price: 59.76
 comparePrice: 130 EUR
 inStock: true
-prodname: New Balance M1500V4 Boa Closure  Zapatillas de Running para Hombre  Negro  Black   40 EU
+prodname: 'New Balance M1500V4 Boa Closure  Zapatillas de Running para Hombre  Negro  Black   40 EU'
 ---
 
 Ahora mismo tienes [New Balance M1500V4 Boa Closure  Zapatillas de Running para Hombre  Negro  Black   40 EU](https://www.amazon.es/dp/B06XS6D4MZ/?tag=tolees-21) a 59.76 EUR (original: 130 EUR) (54.03 %  de descuento) en el siguiente enlace!

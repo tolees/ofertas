@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: 32GB Flash Drive de USB OTG  En el Go  Memoria USB del eslabón Giratorio del Puerto Dual  USB y Micro USB  para la Galaxia S4 S5 de Samsung - Azul
+prodname: '32GB Flash Drive de USB OTG  En el Go  Memoria USB del eslabón Giratorio del Puerto Dual  USB y Micro USB  para la Galaxia S4 S5 de Samsung - Azul'
 ---
 
 Tienes [32GB Flash Drive de USB OTG  En el Go  Memoria USB del eslabón Giratorio del Puerto Dual  USB y Micro USB  para la Galaxia S4 S5 de Samsung - Azul](https://www.amazon.es/dp/B00MB5NMKM/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

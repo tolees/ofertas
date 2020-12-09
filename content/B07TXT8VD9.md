@@ -14,7 +14,7 @@ currency: EUR
 price: 78.99
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Merrell Trail Glove 5  Zapatillas Deportivas para Interior Mujer  Dorado  Goldfish   37 EU
+prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior Mujer  Dorado  Goldfish   37 EU'
 ---
 
 Está [Merrell Trail Glove 5  Zapatillas Deportivas para Interior Mujer  Dorado  Goldfish   37 EU](https://www.amazon.es/dp/B07TXT8VD9/?tag=tolees-21) con 34.17 de descuento por 78.99 EUR (original: 120.0 EUR) en el siguiente enlace!

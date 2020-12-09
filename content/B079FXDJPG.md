@@ -14,7 +14,7 @@ currency: EUR
 price: 29.4
 comparePrice: 42 EUR
 inStock: true
-prodname: FIND Botines con Puntera y Tacón Bajo Mujer  Plateado  Silver Silver   38 EU
+prodname: 'FIND Botines con Puntera y Tacón Bajo Mujer  Plateado  Silver Silver   38 EU'
 ---
 
 Está [FIND Botines con Puntera y Tacón Bajo Mujer  Plateado  Silver Silver   38 EU](https://www.amazon.es/dp/B079FXDJPG/?tag=tolees-21) con 30.00 de descuento por 29.4 EUR (original: 42 EUR) en el siguiente enlace!

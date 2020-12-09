@@ -14,7 +14,7 @@ currency: EUR
 price: 13.52
 comparePrice: 35.99 EUR
 inStock: true
-prodname: MTNG Attitude 69352  Zapatillas para Mujer   Action PU Blanco C19667   38 EU
+prodname: 'MTNG Attitude 69352  Zapatillas para Mujer   Action PU Blanco C19667   38 EU'
 ---
 
 Está [MTNG Attitude 69352  Zapatillas para Mujer   Action PU Blanco C19667   38 EU](https://www.amazon.es/dp/B07DR1TY7G/?tag=tolees-21) con 62.43 de descuento por 13.52 EUR (original: 35.99 EUR) en el siguiente enlace!

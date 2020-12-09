@@ -14,7 +14,7 @@ currency: EUR
 price: 42.0
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Under Armour Charged Engage  Zapatillas para Correr para Hombre  Blanco  White/Halo Gray/Black  100  100   45 EU
+prodname: 'Under Armour Charged Engage  Zapatillas para Correr para Hombre  Blanco  White/Halo Gray/Black  100  100   45 EU'
 ---
 
 Está [Under Armour Charged Engage  Zapatillas para Correr para Hombre  Blanco  White/Halo Gray/Black  100  100   45 EU](https://www.amazon.es/dp/B07PXTZHXF/?tag=tolees-21) con 39.96 de descuento por 42.0 EUR (original: 69.95 EUR) en el siguiente enlace!

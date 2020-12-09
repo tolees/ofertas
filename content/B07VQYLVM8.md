@@ -14,7 +14,7 @@ currency: EUR
 price: 34.19
 comparePrice: 56.99 EUR
 inStock: true
-prodname: Marca Amazon - Lifelong Alimento seco completo para perros de razas pequeñas con salmón fresco  receta sin cereales - 3kg*3
+prodname: 'Marca Amazon - Lifelong Alimento seco completo para perros de razas pequeñas con salmón fresco  receta sin cereales - 3kg*3'
 ---
 
 Tienes [Marca Amazon - Lifelong Alimento seco completo para perros de razas pequeñas con salmón fresco  receta sin cereales - 3kg*3](https://www.amazon.es/dp/B07VQYLVM8/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 34.19 EUR (original: 56.99 EUR) en el siguiente enlace!

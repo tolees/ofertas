@@ -14,7 +14,7 @@ currency: EUR
 price: 11.89
 comparePrice: 16.75 EUR
 inStock: true
-prodname: Aire de Sevilla Set de Belleza Edición Azahar - Crema Hidratante Corporal  Eau de Toilette  Gel Exfoliante
+prodname: 'Aire de Sevilla Set de Belleza Edición Azahar - Crema Hidratante Corporal  Eau de Toilette  Gel Exfoliante'
 ---
 
 Ahora mismo tienes [Aire de Sevilla Set de Belleza Edición Azahar - Crema Hidratante Corporal  Eau de Toilette  Gel Exfoliante](https://www.amazon.es/dp/B00XAIQYNQ/?tag=tolees-21) a 11.89 EUR (original: 16.75 EUR) (29.01 %  de descuento) en el siguiente enlace!

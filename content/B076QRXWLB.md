@@ -14,7 +14,7 @@ currency: EUR
 price: 33.09
 comparePrice: 55 EUR
 inStock: true
-prodname: Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Anthracite Graphite 103   43 EU
+prodname: 'Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Anthracite Graphite 103   43 EU'
 ---
 
 Ahora mismo tienes [Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Anthracite Graphite 103   43 EU](https://www.amazon.es/dp/B076QRXWLB/?tag=tolees-21) a 33.09 EUR (original: 55 EUR) (39.84 %  de descuento) en el siguiente enlace!

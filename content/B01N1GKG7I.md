@@ -14,7 +14,7 @@ currency: EUR
 price: 55.91
 comparePrice: 169 EUR
 inStock: true
-prodname: Geox Woman Jacket  Chaqueta para Mujer  Azul  Dark Navy   46
+prodname: 'Geox Woman Jacket  Chaqueta para Mujer  Azul  Dark Navy   46'
 ---
 
 Ahora mismo tienes [Geox Woman Jacket  Chaqueta para Mujer  Azul  Dark Navy   46](https://www.amazon.es/dp/B01N1GKG7I/?tag=tolees-21) a 55.91 EUR (original: 169 EUR) (66.92 %  de descuento) en el siguiente enlace!

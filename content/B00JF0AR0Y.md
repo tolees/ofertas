@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 16.9 EUR
 inStock: true
-prodname: Microsoft – Wireless Mobile Mouse 1850  Inalámbrico  Negro
+prodname: 'Microsoft – Wireless Mobile Mouse 1850  Inalámbrico  Negro'
 ---
 
 Tienes [Microsoft – Wireless Mobile Mouse 1850  Inalámbrico  Negro](https://www.amazon.es/dp/B00JF0AR0Y/?tag=tolees-21) con un 40.89 % de descuento con precio de oferta de 9.99 EUR (original: 16.9 EUR) en el siguiente enlace!

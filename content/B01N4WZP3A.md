@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Logitech M100 Ratón con Cable USB  3 Botones  Seguimiento Óptico 1000 DPI  Ambidiestro  PC/Mac/Portátil   Blanco
+prodname: 'Logitech M100 Ratón con Cable USB  3 Botones  Seguimiento Óptico 1000 DPI  Ambidiestro  PC/Mac/Portátil   Blanco'
 ---
 
 Está [Logitech M100 Ratón con Cable USB  3 Botones  Seguimiento Óptico 1000 DPI  Ambidiestro  PC/Mac/Portátil   Blanco](https://www.amazon.es/dp/B01N4WZP3A/?tag=tolees-21) con 29.24 de descuento por 9.9 EUR (original: 13.99 EUR) en el siguiente enlace!

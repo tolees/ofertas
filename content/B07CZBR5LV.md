@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Under Armour Roland B Mochila con Dos Compartimentos Grandes con Cremallera  Unisex Adulto  Negro  Black/Black/Silver  001   Taglia única
+prodname: 'Under Armour Roland B Mochila con Dos Compartimentos Grandes con Cremallera  Unisex Adulto  Negro  Black/Black/Silver  001   Taglia única'
 ---
 
 Ahora mismo tienes [Under Armour Roland B Mochila con Dos Compartimentos Grandes con Cremallera  Unisex Adulto  Negro  Black/Black/Silver  001   Taglia única](https://www.amazon.es/dp/B07CZBR5LV/?tag=tolees-21) a 15.0 EUR (original: 30.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

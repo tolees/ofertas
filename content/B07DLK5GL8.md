@@ -14,7 +14,7 @@ currency: EUR
 price: 12.31
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Springfield 6.C.MD.Gym.Cardigan Perlas  Cárdigan para Mujer   Gama Grises 41   X-Small  Tamaño del Fabricante:XS 
+prodname: 'Springfield 6.C.MD.Gym.Cardigan Perlas  Cárdigan para Mujer   Gama Grises 41   X-Small  Tamaño del Fabricante:XS '
 ---
 
 Ahora mismo tienes [Springfield 6.C.MD.Gym.Cardigan Perlas  Cárdigan para Mujer   Gama Grises 41   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07DLK5GL8/?tag=tolees-21) a 12.31 EUR (original: 39.99 EUR) (69.22 %  de descuento) en el siguiente enlace!

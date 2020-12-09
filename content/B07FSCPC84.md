@@ -14,7 +14,7 @@ currency: EUR
 price: 11.56
 comparePrice: 69.99 EUR
 inStock: true
-prodname: SELECTED HOMME Slhslim-Carlo Pants B Noos  Pantalones para Hombre  Gris Silver Lining  W32/L34
+prodname: 'SELECTED HOMME Slhslim-Carlo Pants B Noos  Pantalones para Hombre  Gris Silver Lining  W32/L34'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhslim-Carlo Pants B Noos  Pantalones para Hombre  Gris Silver Lining  W32/L34](https://www.amazon.es/dp/B07FSCPC84/?tag=tolees-21) a 11.56 EUR (original: 69.99 EUR) (83.48 %  de descuento) en el siguiente enlace!

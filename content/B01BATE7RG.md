@@ -14,7 +14,7 @@ currency: EUR
 price: 62.05
 comparePrice: 89.28 EUR
 inStock: true
-prodname: BLACK+DECKER BDC2A36-QW - Pack batería de litio 36V 2Ah y cargador
+prodname: 'BLACK+DECKER BDC2A36-QW - Pack batería de litio 36V 2Ah y cargador'
 ---
 
 Tienes [BLACK+DECKER BDC2A36-QW - Pack batería de litio 36V 2Ah y cargador](https://www.amazon.es/dp/B01BATE7RG/?tag=tolees-21) con un 30.50 % de descuento con precio de oferta de 62.05 EUR (original: 89.28 EUR) en el siguiente enlace!

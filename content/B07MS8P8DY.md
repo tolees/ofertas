@@ -14,7 +14,7 @@ currency: EUR
 price: 13.2
 comparePrice: 28.69 EUR
 inStock: true
-prodname: Eono Essentials - Chaqueta de senderismo de entretiempo para mujer  XL  aura astral 
+prodname: 'Eono Essentials - Chaqueta de senderismo de entretiempo para mujer  XL  aura astral '
 ---
 
 Tienes [Eono Essentials - Chaqueta de senderismo de entretiempo para mujer  XL  aura astral ](https://www.amazon.es/dp/B07MS8P8DY/?tag=tolees-21) con un 53.99 % de descuento con precio de oferta de 13.2 EUR (original: 28.69 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.67
 comparePrice: 35.95 EUR
 inStock: true
-prodname: Puma Vikky Ribbon P  Zapatillas para Mujer  Rosa  Dusty Coral/Dusty Coral 05   37.5 EU
+prodname: 'Puma Vikky Ribbon P  Zapatillas para Mujer  Rosa  Dusty Coral/Dusty Coral 05   37.5 EU'
 ---
 
 Está [Puma Vikky Ribbon P  Zapatillas para Mujer  Rosa  Dusty Coral/Dusty Coral 05   37.5 EU](https://www.amazon.es/dp/B07CSCPVXG/?tag=tolees-21) con 31.38 de descuento por 24.67 EUR (original: 35.95 EUR) en el siguiente enlace!

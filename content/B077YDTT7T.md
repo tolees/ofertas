@@ -14,7 +14,7 @@ currency: EUR
 price: 27.57
 comparePrice: 45.95 EUR
 inStock: true
-prodname: HIKARO Chaleco de Plumas con Capucha Mujer  Beige  Stone   48  Talla del fabricante: XXX-Large 
+prodname: 'HIKARO Chaleco de Plumas con Capucha Mujer  Beige  Stone   48  Talla del fabricante: XXX-Large '
 ---
 
 Tienes [HIKARO Chaleco de Plumas con Capucha Mujer  Beige  Stone   48  Talla del fabricante: XXX-Large ](https://www.amazon.es/dp/B077YDTT7T/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 27.57 EUR (original: 45.95 EUR) en el siguiente enlace!

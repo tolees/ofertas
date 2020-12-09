@@ -14,7 +14,7 @@ currency: EUR
 price: 9.31
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Only Onllive Love Peplum 3/4 Top  Camisa Manga Larga Mujer  Azul  Dazzling Blue Dazzling Blue   40  Talla del Fabricante: Large 
+prodname: 'Only Onllive Love Peplum 3/4 Top  Camisa Manga Larga Mujer  Azul  Dazzling Blue Dazzling Blue   40  Talla del Fabricante: Large '
 ---
 
 Tienes [Only Onllive Love Peplum 3/4 Top  Camisa Manga Larga Mujer  Azul  Dazzling Blue Dazzling Blue   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B071ZPQR9V/?tag=tolees-21) con un 53.43 % de descuento con precio de oferta de 9.31 EUR (original: 19.99 EUR) en el siguiente enlace!

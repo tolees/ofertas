@@ -14,7 +14,7 @@ currency: EUR
 price: 14.21
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Scarlett  Vaqueros Skinny para Mujer  Negro  Raw Pitch Wx   W24/L31
+prodname: 'Lee Scarlett  Vaqueros Skinny para Mujer  Negro  Raw Pitch Wx   W24/L31'
 ---
 
 Tienes [Lee Scarlett  Vaqueros Skinny para Mujer  Negro  Raw Pitch Wx   W24/L31](https://www.amazon.es/dp/B07FTJ9LRT/?tag=tolees-21) con un 85.78 % de descuento con precio de oferta de 14.21 EUR (original: 99.95 EUR) en el siguiente enlace!

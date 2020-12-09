@@ -14,7 +14,7 @@ currency: EUR
 price: 86.68
 comparePrice: 120.0 EUR
 inStock: true
-prodname: SALOMON Speedcross 4 Zapatillas De Trail Running Para Hombre
+prodname: 'SALOMON Speedcross 4 Zapatillas De Trail Running Para Hombre'
 ---
 
 Tienes [SALOMON Speedcross 4 Zapatillas De Trail Running Para Hombre](https://www.amazon.es/dp/B07Z5GWFSL/?tag=tolees-21) con un 27.77 % de descuento con precio de oferta de 86.68 EUR (original: 120.0 EUR) en el siguiente enlace!

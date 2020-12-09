@@ -14,7 +14,7 @@ currency: EUR
 price: 16.32
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Refresh 64665  Botines para Mujer  Marrón  Camel   37 EU
+prodname: 'Refresh 64665  Botines para Mujer  Marrón  Camel   37 EU'
 ---
 
 Ahora mismo tienes [Refresh 64665  Botines para Mujer  Marrón  Camel   37 EU](https://www.amazon.es/dp/B07DDBG89B/?tag=tolees-21) a 16.32 EUR (original: 49.95 EUR) (67.33 %  de descuento) en el siguiente enlace!

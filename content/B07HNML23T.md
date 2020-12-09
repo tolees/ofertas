@@ -14,7 +14,7 @@ currency: EUR
 price: 13.9
 comparePrice: 18.9 EUR
 inStock: true
-prodname: Cúrcuma orgánica Turmeric  650mg  con Jengibre 50mg  y Pimienta Negra 10mg  | 120 cápsulas vegetales | Máxima calidad | Potente antiinflamatorio y antioxidante natural | Cúrcuma complex | Nutralie
+prodname: 'Cúrcuma orgánica Turmeric  650mg  con Jengibre 50mg  y Pimienta Negra 10mg  | 120 cápsulas vegetales | Máxima calidad | Potente antiinflamatorio y antioxidante natural | Cúrcuma complex | Nutralie'
 ---
 
 Tienes [Cúrcuma orgánica Turmeric  650mg  con Jengibre 50mg  y Pimienta Negra 10mg  | 120 cápsulas vegetales | Máxima calidad | Potente antiinflamatorio y antioxidante natural | Cúrcuma complex | Nutralie](https://www.amazon.es/dp/B07HNML23T/?tag=tolees-21) con un 26.46 % de descuento con precio de oferta de 13.9 EUR (original: 18.9 EUR) en el siguiente enlace!

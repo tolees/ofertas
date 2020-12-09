@@ -14,7 +14,7 @@ currency: EUR
 price: 20.64
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Rosa  Shock Pink/Core Black/Ftwr White Shock Pink/Core Black/Ftwr White   38 2/3 EU
+prodname: 'Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Rosa  Shock Pink/Core Black/Ftwr White Shock Pink/Core Black/Ftwr White   38 2/3 EU'
 ---
 
 Está [Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Rosa  Shock Pink/Core Black/Ftwr White Shock Pink/Core Black/Ftwr White   38 2/3 EU](https://www.amazon.es/dp/B07JZPX2WH/?tag=tolees-21) con 68.22 de descuento por 20.64 EUR (original: 64.95 EUR) en el siguiente enlace!

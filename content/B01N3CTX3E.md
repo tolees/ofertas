@@ -14,7 +14,7 @@ currency: EUR
 price: 16.82
 comparePrice: 55 EUR
 inStock: true
-prodname: Vans Check Boardshort Bañador   Baltic Heather-Black Kto   X-Large  Talla del Fabricante: 38  para Hombre
+prodname: 'Vans Check Boardshort Bañador   Baltic Heather-Black Kto   X-Large  Talla del Fabricante: 38  para Hombre'
 ---
 
 Ahora mismo tienes [Vans Check Boardshort Bañador   Baltic Heather-Black Kto   X-Large  Talla del Fabricante: 38  para Hombre](https://www.amazon.es/dp/B01N3CTX3E/?tag=tolees-21) a 16.82 EUR (original: 55 EUR) (69.42 %  de descuento) en el siguiente enlace!

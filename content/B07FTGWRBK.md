@@ -14,7 +14,7 @@ currency: EUR
 price: 25.29
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Storm DM   31W/34L para Hombre
+prodname: 'Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Storm DM   31W/34L para Hombre'
 ---
 
 Está [Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Storm DM   31W/34L para Hombre](https://www.amazon.es/dp/B07FTGWRBK/?tag=tolees-21) con 74.70 de descuento por 25.29 EUR (original: 99.95 EUR) en el siguiente enlace!

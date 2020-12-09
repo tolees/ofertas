@@ -14,7 +14,7 @@ currency: EUR
 price: 7.8
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Springfield Sudadera Caja Snub  Gris  Grey   Large  Tamaño del Fabricante:L  para Hombre
+prodname: 'Springfield Sudadera Caja Snub  Gris  Grey   Large  Tamaño del Fabricante:L  para Hombre'
 ---
 
 Está [Springfield Sudadera Caja Snub  Gris  Grey   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B0757NWHXF/?tag=tolees-21) con 66.07 de descuento por 7.8 EUR (original: 22.99 EUR) en el siguiente enlace!

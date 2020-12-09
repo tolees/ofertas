@@ -14,7 +14,7 @@ currency: EUR
 price: 80.99
 comparePrice: 119.95 EUR
 inStock: true
-prodname: adidas Terrex AX3 GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricin/Negbás/Mesa 000   38 2/3 EU
+prodname: 'adidas Terrex AX3 GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricin/Negbás/Mesa 000   38 2/3 EU'
 ---
 
 Tienes [adidas Terrex AX3 GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricin/Negbás/Mesa 000   38 2/3 EU](https://www.amazon.es/dp/B07L4PLLH7/?tag=tolees-21) con un 32.48 % de descuento con precio de oferta de 80.99 EUR (original: 119.95 EUR) en el siguiente enlace!

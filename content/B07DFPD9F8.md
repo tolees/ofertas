@@ -14,7 +14,7 @@ currency: EUR
 price: 27.76
 comparePrice: 95 EUR
 inStock: true
-prodname: New Balance 247v2  Zapatillas para Mujer  Rosa  Latte/Marble Head EW Blue   36.5 EU
+prodname: 'New Balance 247v2  Zapatillas para Mujer  Rosa  Latte/Marble Head EW Blue   36.5 EU'
 ---
 
 Tienes [New Balance 247v2  Zapatillas para Mujer  Rosa  Latte/Marble Head EW Blue   36.5 EU](https://www.amazon.es/dp/B07DFPD9F8/?tag=tolees-21) con un 70.78 % de descuento con precio de oferta de 27.76 EUR (original: 95 EUR) en el siguiente enlace!

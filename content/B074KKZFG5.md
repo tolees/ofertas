@@ -14,7 +14,7 @@ currency: EUR
 price: 28.31
 comparePrice: 99 EUR
 inStock: true
-prodname: Napapijri Damavand Crew Strickjacke suéter  Azul  BLU Marine 176   Small para Hombre
+prodname: 'Napapijri Damavand Crew Strickjacke suéter  Azul  BLU Marine 176   Small para Hombre'
 ---
 
 Está [Napapijri Damavand Crew Strickjacke suéter  Azul  BLU Marine 176   Small para Hombre](https://www.amazon.es/dp/B074KKZFG5/?tag=tolees-21) con 71.40 de descuento por 28.31 EUR (original: 99 EUR) en el siguiente enlace!

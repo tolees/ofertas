@@ -14,7 +14,7 @@ currency: EUR
 price: 21.38
 comparePrice: 40 EUR
 inStock: true
-prodname: FIND Pantalones Regular Fit Hombre Gris  Grey  W30/L29
+prodname: 'FIND Pantalones Regular Fit Hombre Gris  Grey  W30/L29'
 ---
 
 Está [FIND Pantalones Regular Fit Hombre Gris  Grey  W30/L29](https://www.amazon.es/dp/B0721FGDVJ/?tag=tolees-21) con 46.55 de descuento por 21.38 EUR (original: 40 EUR) en el siguiente enlace!

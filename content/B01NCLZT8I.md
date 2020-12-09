@@ -14,7 +14,7 @@ currency: EUR
 price: 30.45
 comparePrice: 45 EUR
 inStock: true
-prodname: Wilson  Raqueta de tenis para jóvenes  Roger Federer 26  Negro/Rojo  Para jóvenes con altura de más de 145 cm
+prodname: 'Wilson  Raqueta de tenis para jóvenes  Roger Federer 26  Negro/Rojo  Para jóvenes con altura de más de 145 cm'
 ---
 
 Está [Wilson  Raqueta de tenis para jóvenes  Roger Federer 26  Negro/Rojo  Para jóvenes con altura de más de 145 cm](https://www.amazon.es/dp/B01NCLZT8I/?tag=tolees-21) con 32.33 de descuento por 30.45 EUR (original: 45 EUR) en el siguiente enlace!

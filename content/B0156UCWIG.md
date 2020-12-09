@@ -14,7 +14,7 @@ currency: EUR
 price: 49.05
 comparePrice: 65.4 EUR
 inStock: true
-prodname: Viñas Del Vero Gewurztraminer Colección Vino D.O. Somontano - 6 Botellas x 750 ml - Total: 4500 ml
+prodname: 'Viñas Del Vero Gewurztraminer Colección Vino D.O. Somontano - 6 Botellas x 750 ml - Total: 4500 ml'
 ---
 
 Ahora mismo tienes [Viñas Del Vero Gewurztraminer Colección Vino D.O. Somontano - 6 Botellas x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B0156UCWIG/?tag=tolees-21) a 49.05 EUR (original: 65.4 EUR) (25.00 %  de descuento) en el siguiente enlace!

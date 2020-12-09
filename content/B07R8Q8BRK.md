@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: EZVIZ C3WN 1080p Cámara de Seguridad  2.4GHz WiFi Exterior Cámara de Vigilancia  Visión Nocturna  IP66  Dos Antenas WiFi Externas  Servicio de Nube  Compatible con Alexa
+prodname: 'EZVIZ C3WN 1080p Cámara de Seguridad  2.4GHz WiFi Exterior Cámara de Vigilancia  Visión Nocturna  IP66  Dos Antenas WiFi Externas  Servicio de Nube  Compatible con Alexa'
 ---
 
 Ahora mismo tienes [EZVIZ C3WN 1080p Cámara de Seguridad  2.4GHz WiFi Exterior Cámara de Vigilancia  Visión Nocturna  IP66  Dos Antenas WiFi Externas  Servicio de Nube  Compatible con Alexa](https://www.amazon.es/dp/B07R8Q8BRK/?tag=tolees-21) a 39.99 EUR (original: 79.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

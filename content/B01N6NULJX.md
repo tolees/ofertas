@@ -14,7 +14,7 @@ currency: EUR
 price: 26.56
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Bugatti 322287606900  Zapatillas para Hombre  Verde  Dark Green   43 EU
+prodname: 'Bugatti 322287606900  Zapatillas para Hombre  Verde  Dark Green   43 EU'
 ---
 
 Ahora mismo tienes [Bugatti 322287606900  Zapatillas para Hombre  Verde  Dark Green   43 EU](https://www.amazon.es/dp/B01N6NULJX/?tag=tolees-21) a 26.56 EUR (original: 79.95 EUR) (66.78 %  de descuento) en el siguiente enlace!

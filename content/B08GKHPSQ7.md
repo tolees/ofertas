@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Hot Tools HTIR1577E Rizador de pelo Hot Tools Signature Series de 38 mm  tecnología Gold; tecnología Pulse; se calienta 30 segundos; todo tipo de cabello 
+prodname: 'Hot Tools HTIR1577E Rizador de pelo Hot Tools Signature Series de 38 mm  tecnología Gold; tecnología Pulse; se calienta 30 segundos; todo tipo de cabello '
 ---
 
 Ahora mismo tienes [Hot Tools HTIR1577E Rizador de pelo Hot Tools Signature Series de 38 mm  tecnología Gold; tecnología Pulse; se calienta 30 segundos; todo tipo de cabello ](https://www.amazon.es/dp/B08GKHPSQ7/?tag=tolees-21) a 44.99 EUR (original: 59.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.67
 comparePrice: 16.71 EUR
 inStock: true
-prodname: Sw-stahl S8073 - Shim surtido 250 piezas  m4-m8
+prodname: 'Sw-stahl S8073 - Shim surtido 250 piezas  m4-m8'
 ---
 
 Tienes [Sw-stahl S8073 - Shim surtido 250 piezas  m4-m8](https://www.amazon.es/dp/B008JG8QRQ/?tag=tolees-21) con un 54.10 % de descuento con precio de oferta de 7.67 EUR (original: 16.71 EUR) en el siguiente enlace!

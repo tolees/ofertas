@@ -14,7 +14,7 @@ currency: EUR
 price: 37.2
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans Venus Vaqueros  Azul  Light Used Denim Wv2   24W / 34L para Mujer
+prodname: 'Pepe Jeans Venus Vaqueros  Azul  Light Used Denim Wv2   24W / 34L para Mujer'
 ---
 
 Está [Pepe Jeans Venus Vaqueros  Azul  Light Used Denim Wv2   24W / 34L para Mujer](https://www.amazon.es/dp/B07NCBG3Z7/?tag=tolees-21) con 60.84 de descuento por 37.2 EUR (original: 95 EUR) en el siguiente enlace!

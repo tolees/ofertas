@@ -14,7 +14,7 @@ currency: EUR
 price: 6.5
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Mientras dure la guerra - DVD
+prodname: 'Mientras dure la guerra - DVD'
 ---
 
 Tienes [Mientras dure la guerra - DVD](https://www.amazon.es/dp/B082PPKC5H/?tag=tolees-21) con un 34.93 % de descuento con precio de oferta de 6.5 EUR (original: 9.99 EUR) en el siguiente enlace!

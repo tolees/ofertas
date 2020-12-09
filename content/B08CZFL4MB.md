@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 20.22 EUR
 inStock: true
-prodname: Nicknack Favores de fiesta de Halloween  rellenos de bolsas de fiesta de Halloween  juguetes de Halloween para niños - 120 piezas
+prodname: 'Nicknack Favores de fiesta de Halloween  rellenos de bolsas de fiesta de Halloween  juguetes de Halloween para niños - 120 piezas'
 ---
 
 Ahora mismo tienes [Nicknack Favores de fiesta de Halloween  rellenos de bolsas de fiesta de Halloween  juguetes de Halloween para niños - 120 piezas](https://www.amazon.es/dp/B08CZFL4MB/?tag=tolees-21) a 13.99 EUR (original: 20.22 EUR) (30.81 %  de descuento) en el siguiente enlace!

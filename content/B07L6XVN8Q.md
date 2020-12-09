@@ -14,7 +14,7 @@ currency: EUR
 price: 17.54
 comparePrice: 32 EUR
 inStock: true
-prodname: Musical Alfombra Piano Manta de Juguete  10 Sonidos Veh¨ªculos Regalos & Touch Play Alfombra para Beb¨¦ Ni?o Navidad
+prodname: 'Musical Alfombra Piano Manta de Juguete  10 Sonidos Veh¨ªculos Regalos & Touch Play Alfombra para Beb¨¦ Ni?o Navidad'
 ---
 
 Ahora mismo tienes [Musical Alfombra Piano Manta de Juguete  10 Sonidos Veh¨ªculos Regalos & Touch Play Alfombra para Beb¨¦ Ni?o Navidad](https://www.amazon.es/dp/B07L6XVN8Q/?tag=tolees-21) a 17.54 EUR (original: 32 EUR) (45.19 %  de descuento) en el siguiente enlace!

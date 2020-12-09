@@ -14,7 +14,7 @@ currency: EUR
 price: 39.5
 comparePrice: 71.99 EUR
 inStock: true
-prodname: Dragon Ball Z: Kakarot
+prodname: 'Dragon Ball Z: Kakarot'
 ---
 
 Tienes [Dragon Ball Z: Kakarot](https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-21) con un 45.13 % de descuento con precio de oferta de 39.5 EUR (original: 71.99 EUR) en el siguiente enlace!

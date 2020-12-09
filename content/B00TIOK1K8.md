@@ -14,7 +14,7 @@ currency: EUR
 price: 58.0
 comparePrice: 118.5 EUR
 inStock: true
-prodname: Dolce & Gabbana Pour Homme Perfume Hombre - 200 ml
+prodname: 'Dolce & Gabbana Pour Homme Perfume Hombre - 200 ml'
 ---
 
 Tienes [Dolce & Gabbana Pour Homme Perfume Hombre - 200 ml](https://www.amazon.es/dp/B00TIOK1K8/?tag=tolees-21) con un 51.05 % de descuento con precio de oferta de 58.0 EUR (original: 118.5 EUR) en el siguiente enlace!

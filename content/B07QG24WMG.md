@@ -14,7 +14,7 @@ currency: EUR
 price: 279.99
 comparePrice: 380.0 EUR
 inStock: true
-prodname: ROYAL SLEEP Canapé Abatible  150x190  de Gran Capacidad  Tapa 3D Transpirable  Color Blanco
+prodname: 'ROYAL SLEEP Canapé Abatible  150x190  de Gran Capacidad  Tapa 3D Transpirable  Color Blanco'
 ---
 
 Ahora mismo tienes [ROYAL SLEEP Canapé Abatible  150x190  de Gran Capacidad  Tapa 3D Transpirable  Color Blanco](https://www.amazon.es/dp/B07QG24WMG/?tag=tolees-21) a 279.99 EUR (original: 380.0 EUR) (26.32 %  de descuento) en el siguiente enlace!

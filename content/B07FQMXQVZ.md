@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Taza de Café para llevar con Tapa  Mug Café Reutilizable con Manga Antideslizante  Vasos de Café Ecológica de Viaje con sin BPA  Coffee To Go apto para Lavavajillas y Microondas  340ml  12 oz 
+prodname: 'Taza de Café para llevar con Tapa  Mug Café Reutilizable con Manga Antideslizante  Vasos de Café Ecológica de Viaje con sin BPA  Coffee To Go apto para Lavavajillas y Microondas  340ml  12 oz '
 ---
 
 Ahora mismo tienes [Taza de Café para llevar con Tapa  Mug Café Reutilizable con Manga Antideslizante  Vasos de Café Ecológica de Viaje con sin BPA  Coffee To Go apto para Lavavajillas y Microondas  340ml  12 oz ](https://www.amazon.es/dp/B07FQMXQVZ/?tag=tolees-21) a 12.99 EUR (original: 25.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 329.99 EUR
 inStock: true
-prodname: MSI Cubi N 8GL-052XIB - Ordenador de sobremesa  Intel N5000  4GB RAM  256GB SSD  Intel HD Graphics  sin sistema operativo  negro
+prodname: 'MSI Cubi N 8GL-052XIB - Ordenador de sobremesa  Intel N5000  4GB RAM  256GB SSD  Intel HD Graphics  sin sistema operativo  negro'
 ---
 
 Está [MSI Cubi N 8GL-052XIB - Ordenador de sobremesa  Intel N5000  4GB RAM  256GB SSD  Intel HD Graphics  sin sistema operativo  negro](https://www.amazon.es/dp/B07WW8BCXM/?tag=tolees-21) con 39.70 de descuento por 199.0 EUR (original: 329.99 EUR) en el siguiente enlace!

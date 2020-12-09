@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 93.71 EUR
 inStock: true
-prodname: Khujo Birla Jersey Deportivo  Elfenbein  Offwhite 109   S para Mujer
+prodname: 'Khujo Birla Jersey Deportivo  Elfenbein  Offwhite 109   S para Mujer'
 ---
 
 Ahora mismo tienes [Khujo Birla Jersey Deportivo  Elfenbein  Offwhite 109   S para Mujer](https://www.amazon.es/dp/B01MUR8FOQ/?tag=tolees-21) a 11.99 EUR (original: 93.71 EUR) (87.21 %  de descuento) en el siguiente enlace!

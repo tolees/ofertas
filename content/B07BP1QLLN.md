@@ -14,7 +14,7 @@ currency: EUR
 price: 5.63
 comparePrice: 8.14 EUR
 inStock: true
-prodname: Chaleco de seguridad reflectante con múltiples bolsillos para correr  ciclismo  paseo  deportes  etc.
+prodname: 'Chaleco de seguridad reflectante con múltiples bolsillos para correr  ciclismo  paseo  deportes  etc.'
 ---
 
 Ahora mismo tienes [Chaleco de seguridad reflectante con múltiples bolsillos para correr  ciclismo  paseo  deportes  etc.](https://www.amazon.es/dp/B07BP1QLLN/?tag=tolees-21) a 5.63 EUR (original: 8.14 EUR) (30.84 %  de descuento) en el siguiente enlace!

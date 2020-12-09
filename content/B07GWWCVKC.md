@@ -14,7 +14,7 @@ currency: EUR
 price: 119.99
 comparePrice: 159.99 EUR
 inStock: true
-prodname: Hauck Lift Up 4 - Silla de paseo con asiento amplio  ligera  chasis aluminio  plegado libro con una mano  desde nacimiento hasta 25 kg  manillar regulable en altura  botellero  Charcoal  gris 
+prodname: 'Hauck Lift Up 4 - Silla de paseo con asiento amplio  ligera  chasis aluminio  plegado libro con una mano  desde nacimiento hasta 25 kg  manillar regulable en altura  botellero  Charcoal  gris '
 ---
 
 Tienes [Hauck Lift Up 4 - Silla de paseo con asiento amplio  ligera  chasis aluminio  plegado libro con una mano  desde nacimiento hasta 25 kg  manillar regulable en altura  botellero  Charcoal  gris ](https://www.amazon.es/dp/B07GWWCVKC/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 119.99 EUR (original: 159.99 EUR) en el siguiente enlace!

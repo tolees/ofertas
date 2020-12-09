@@ -14,7 +14,7 @@ currency: EUR
 price: 42.01
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-STAR RAW Revend-Vaqueros Hombre  Azul  Lt Aged 424   35/38
+prodname: 'G-STAR RAW Revend-Vaqueros Hombre  Azul  Lt Aged 424   35/38'
 ---
 
 Está [G-STAR RAW Revend-Vaqueros Hombre  Azul  Lt Aged 424   35/38](https://www.amazon.es/dp/B01HZUPYJ4/?tag=tolees-21) con 67.67 de descuento por 42.01 EUR (original: 129.95 EUR) en el siguiente enlace!

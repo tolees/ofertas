@@ -14,7 +14,7 @@ currency: EUR
 price: 19.04
 comparePrice: 49.95 EUR
 inStock: true
-prodname: hummel Hmlmateo H Sudadera  Hombre  Gris  Gray Melange   L
+prodname: 'hummel Hmlmateo H Sudadera  Hombre  Gris  Gray Melange   L'
 ---
 
 Tienes [hummel Hmlmateo H Sudadera  Hombre  Gris  Gray Melange   L](https://www.amazon.es/dp/B07KS2SKQ2/?tag=tolees-21) con un 61.88 % de descuento con precio de oferta de 19.04 EUR (original: 49.95 EUR) en el siguiente enlace!

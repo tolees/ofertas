@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 24.9 EUR
 inStock: true
-prodname: Mascarilla FFP2. Mascarilla ultra protección. 5 capas. Homologada. Caja 25 Unidades. Certificado CE 2163 + Llavero de gel hidroalcohólico
+prodname: 'Mascarilla FFP2. Mascarilla ultra protección. 5 capas. Homologada. Caja 25 Unidades. Certificado CE 2163 + Llavero de gel hidroalcohólico'
 ---
 
 Tienes [Mascarilla FFP2. Mascarilla ultra protección. 5 capas. Homologada. Caja 25 Unidades. Certificado CE 2163 + Llavero de gel hidroalcohólico](https://www.amazon.es/dp/B08LNNBX19/?tag=tolees-21) con un 39.76 % de descuento con precio de oferta de 15.0 EUR (original: 24.9 EUR) en el siguiente enlace!

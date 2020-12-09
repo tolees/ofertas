@@ -14,7 +14,7 @@ currency: EUR
 price: 87.51
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Safety First TALY & ADAPTADOR  Black Chic - Silla de paseo  color negro
+prodname: 'Safety First TALY & ADAPTADOR  Black Chic - Silla de paseo  color negro'
 ---
 
 Ahora mismo tienes [Safety First TALY & ADAPTADOR  Black Chic - Silla de paseo  color negro](https://www.amazon.es/dp/B07HSBNWTC/?tag=tolees-21) a 87.51 EUR (original: 129.0 EUR) (32.16 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.98
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Patio Shack Toldo Vela de Sombra Rectangular 2x3m  HDPE Transpirable y protección Rayos UV para Exterior  Jardin  terrazas  Grafito
+prodname: 'Patio Shack Toldo Vela de Sombra Rectangular 2x3m  HDPE Transpirable y protección Rayos UV para Exterior  Jardin  terrazas  Grafito'
 ---
 
 Ahora mismo tienes [Patio Shack Toldo Vela de Sombra Rectangular 2x3m  HDPE Transpirable y protección Rayos UV para Exterior  Jardin  terrazas  Grafito](https://www.amazon.es/dp/B082WYGBWB/?tag=tolees-21) a 24.98 EUR (original: 49.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.69
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Clarks Willow Gild  Sandalias de Talón Abierto para Mujer  Blanco  White White   35.5 EU
+prodname: 'Clarks Willow Gild  Sandalias de Talón Abierto para Mujer  Blanco  White White   35.5 EU'
 ---
 
 Está [Clarks Willow Gild  Sandalias de Talón Abierto para Mujer  Blanco  White White   35.5 EU](https://www.amazon.es/dp/B07TLTTVD8/?tag=tolees-21) con 78.11 de descuento por 19.69 EUR (original: 89.95 EUR) en el siguiente enlace!

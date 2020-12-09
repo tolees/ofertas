@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 39.58 EUR
 inStock: true
-prodname: non-brand Frsky XM + Micro D16 SBUS Receptor de Rango Completo hasta 16CH
+prodname: 'non-brand Frsky XM + Micro D16 SBUS Receptor de Rango Completo hasta 16CH'
 ---
 
 Está [non-brand Frsky XM + Micro D16 SBUS Receptor de Rango Completo hasta 16CH](https://www.amazon.es/dp/B07L91VTSZ/?tag=tolees-21) con 44.44 de descuento por 21.99 EUR (original: 39.58 EUR) en el siguiente enlace!

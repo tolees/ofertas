@@ -14,7 +14,7 @@ currency: EUR
 price: 47.11
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Nike MD Runner 2 Eng Mesh  Zapatillas Hombre  Azul  Midnight Navy/Metallic Silver-Gym Blue 402   41 EU
+prodname: 'Nike MD Runner 2 Eng Mesh  Zapatillas Hombre  Azul  Midnight Navy/Metallic Silver-Gym Blue 402   41 EU'
 ---
 
 Ahora mismo tienes [Nike MD Runner 2 Eng Mesh  Zapatillas Hombre  Azul  Midnight Navy/Metallic Silver-Gym Blue 402   41 EU](https://www.amazon.es/dp/B07CZ2V7ZZ/?tag=tolees-21) a 47.11 EUR (original: 70.0 EUR) (32.70 %  de descuento) en el siguiente enlace!

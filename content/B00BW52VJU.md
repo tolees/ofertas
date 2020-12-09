@@ -14,7 +14,7 @@ currency: EUR
 price: 36.5
 comparePrice: 49.0 EUR
 inStock: true
-prodname: Swarovski Pendientes Sommerset  blanco  Baño de Rodio
+prodname: 'Swarovski Pendientes Sommerset  blanco  Baño de Rodio'
 ---
 
 Está [Swarovski Pendientes Sommerset  blanco  Baño de Rodio](https://www.amazon.es/dp/B00BW52VJU/?tag=tolees-21) con 25.51 de descuento por 36.5 EUR (original: 49.0 EUR) en el siguiente enlace!

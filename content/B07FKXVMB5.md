@@ -14,7 +14,7 @@ currency: EUR
 price: 63.4
 comparePrice: 109.49 EUR
 inStock: true
-prodname: Armani Exchange Magnetic Stripe Logo  Under  Pantalones de Deporte  Azul  Navy/Marine 6535   W30/L32  Talla del Fabricante: Small  para Hombre
+prodname: 'Armani Exchange Magnetic Stripe Logo  Under  Pantalones de Deporte  Azul  Navy/Marine 6535   W30/L32  Talla del Fabricante: Small  para Hombre'
 ---
 
 Está [Armani Exchange Magnetic Stripe Logo  Under  Pantalones de Deporte  Azul  Navy/Marine 6535   W30/L32  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B07FKXVMB5/?tag=tolees-21) con 42.10 de descuento por 63.4 EUR (original: 109.49 EUR) en el siguiente enlace!

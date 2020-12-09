@@ -14,7 +14,7 @@ currency: EUR
 price: 24.43
 comparePrice: 34.9 EUR
 inStock: true
-prodname: KIKILASH Sérum crece pestañas 3ml - Tratamiento Fortalecedor y Alargador para Pestañas y Cejas - Potenciador de Pestañas con Ingredientes Naturales
+prodname: 'KIKILASH Sérum crece pestañas 3ml - Tratamiento Fortalecedor y Alargador para Pestañas y Cejas - Potenciador de Pestañas con Ingredientes Naturales'
 ---
 
 Tienes [KIKILASH Sérum crece pestañas 3ml - Tratamiento Fortalecedor y Alargador para Pestañas y Cejas - Potenciador de Pestañas con Ingredientes Naturales](https://www.amazon.es/dp/B07GSTGS8L/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 24.43 EUR (original: 34.9 EUR) en el siguiente enlace!

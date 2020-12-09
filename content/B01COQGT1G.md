@@ -14,7 +14,7 @@ currency: EUR
 price: 33.59
 comparePrice: 80 EUR
 inStock: true
-prodname: Globe Encore-2  Zapatillas de Skateboard Hombre  Multicolor  Black/White   39 EU  7 US 
+prodname: 'Globe Encore-2  Zapatillas de Skateboard Hombre  Multicolor  Black/White   39 EU  7 US '
 ---
 
 Ahora mismo tienes [Globe Encore-2  Zapatillas de Skateboard Hombre  Multicolor  Black/White   39 EU  7 US ](https://www.amazon.es/dp/B01COQGT1G/?tag=tolees-21) a 33.59 EUR (original: 80 EUR) (58.01 %  de descuento) en el siguiente enlace!

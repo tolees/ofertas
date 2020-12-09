@@ -14,7 +14,7 @@ currency: EUR
 price: 14.9
 comparePrice: 29.95 EUR
 inStock: true
-prodname: For Honor - Standard Edition
+prodname: 'For Honor - Standard Edition'
 ---
 
 Está [For Honor - Standard Edition](https://www.amazon.es/dp/B00ZRVX9SC/?tag=tolees-21) con 50.25 de descuento por 14.9 EUR (original: 29.95 EUR) en el siguiente enlace!

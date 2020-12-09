@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: ITSHINY Pulsera Actividad Inteligente  Monitores Actividad Pulsera Deportiva Impermeable IP68 Reloj Fitness Tracker Hombre Mujer
+prodname: 'ITSHINY Pulsera Actividad Inteligente  Monitores Actividad Pulsera Deportiva Impermeable IP68 Reloj Fitness Tracker Hombre Mujer'
 ---
 
 Ahora mismo tienes [ITSHINY Pulsera Actividad Inteligente  Monitores Actividad Pulsera Deportiva Impermeable IP68 Reloj Fitness Tracker Hombre Mujer](https://www.amazon.es/dp/B07HRQY7JQ/?tag=tolees-21) a 29.99 EUR (original: 89.99 EUR) (66.67 %  de descuento) en el siguiente enlace!

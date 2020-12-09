@@ -14,7 +14,7 @@ currency: EUR
 price: 44.19
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Quamtrax Nutrition Isopro CFM Lemon  Suplementos para Deportistas - 2267 gr
+prodname: 'Quamtrax Nutrition Isopro CFM Lemon  Suplementos para Deportistas - 2267 gr'
 ---
 
 Está [Quamtrax Nutrition Isopro CFM Lemon  Suplementos para Deportistas - 2267 gr](https://www.amazon.es/dp/B01CGLPP6E/?tag=tolees-21) con 36.78 de descuento por 44.19 EUR (original: 69.9 EUR) en el siguiente enlace!

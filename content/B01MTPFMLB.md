@@ -14,7 +14,7 @@ currency: EUR
 price: 229
 comparePrice: 2199 EUR
 inStock: true
-prodname: Colchón Viscografeno Imperial Deluxe 30cm Todas las Medidas  160x200 
+prodname: 'Colchón Viscografeno Imperial Deluxe 30cm Todas las Medidas  160x200 '
 ---
 
 Ahora mismo tienes [Colchón Viscografeno Imperial Deluxe 30cm Todas las Medidas  160x200 ](https://www.amazon.es/dp/B01MTPFMLB/?tag=tolees-21) a 229 EUR (original: 2199 EUR) (89.59 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 33.58
 comparePrice: 70 EUR
 inStock: true
-prodname: Under Armour Tr96  Zapatillas Deportivas para Interior para Hombre  Gris  Mod Gray/Elemental/Black 102   45 EU
+prodname: 'Under Armour Tr96  Zapatillas Deportivas para Interior para Hombre  Gris  Mod Gray/Elemental/Black 102   45 EU'
 ---
 
 Está [Under Armour Tr96  Zapatillas Deportivas para Interior para Hombre  Gris  Mod Gray/Elemental/Black 102   45 EU](https://www.amazon.es/dp/B07CTN7NXB/?tag=tolees-21) con 52.03 de descuento por 33.58 EUR (original: 70 EUR) en el siguiente enlace!

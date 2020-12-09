@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Fantasy Flight Games- Star Wars X-Wing: Segador Tie - Español  FFSWX75 
+prodname: 'Fantasy Flight Games- Star Wars X-Wing: Segador Tie - Español  FFSWX75 '
 ---
 
 Tienes [Fantasy Flight Games- Star Wars X-Wing: Segador Tie - Español  FFSWX75 ](https://www.amazon.es/dp/B07DWFPJ2N/?tag=tolees-21) con un 49.95 % de descuento con precio de oferta de 14.99 EUR (original: 29.95 EUR) en el siguiente enlace!

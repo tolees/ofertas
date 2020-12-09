@@ -14,7 +14,7 @@ currency: EUR
 price: 39.98
 comparePrice: 79.95 EUR
 inStock: true
-prodname: adidas Forest Grove  Zapatillas de Gimnasia para Hombre  43 1/3 EU  Amarillo  Easy Yellow/Core Black/Ftwr White 
+prodname: 'adidas Forest Grove  Zapatillas de Gimnasia para Hombre  43 1/3 EU  Amarillo  Easy Yellow/Core Black/Ftwr White '
 ---
 
 Está [adidas Forest Grove  Zapatillas de Gimnasia para Hombre  43 1/3 EU  Amarillo  Easy Yellow/Core Black/Ftwr White ](https://www.amazon.es/dp/B07JYKR7Q6/?tag=tolees-21) con 49.99 de descuento por 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!

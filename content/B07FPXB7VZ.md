@@ -14,7 +14,7 @@ currency: EUR
 price: 20.78
 comparePrice: 34.99 EUR
 inStock: true
-prodname: RIP CURL Vapor AlgodónOL Made FOR Waves tee Camiseta  Mujer  Beeswax  M
+prodname: 'RIP CURL Vapor AlgodónOL Made FOR Waves tee Camiseta  Mujer  Beeswax  M'
 ---
 
 Tienes [RIP CURL Vapor AlgodónOL Made FOR Waves tee Camiseta  Mujer  Beeswax  M](https://www.amazon.es/dp/B07FPXB7VZ/?tag=tolees-21) con un 40.61 % de descuento con precio de oferta de 20.78 EUR (original: 34.99 EUR) en el siguiente enlace!

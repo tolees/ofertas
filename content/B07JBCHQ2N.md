@@ -14,7 +14,7 @@ currency: EUR
 price: 25.13
 comparePrice: 45 EUR
 inStock: true
-prodname: SAMSONITE Up Way Man Auto Open Paraguas Clásico  84 cm  Gris
+prodname: 'SAMSONITE Up Way Man Auto Open Paraguas Clásico  84 cm  Gris'
 ---
 
 Ahora mismo tienes [SAMSONITE Up Way Man Auto Open Paraguas Clásico  84 cm  Gris](https://www.amazon.es/dp/B07JBCHQ2N/?tag=tolees-21) a 25.13 EUR (original: 45 EUR) (44.16 %  de descuento) en el siguiente enlace!

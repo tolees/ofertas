@@ -14,7 +14,7 @@ currency: EUR
 price: 7.01
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Tommy Hilfiger TH Sneaker Box 4P  Calcetines para Hombre  Azul  Dark Navy 322   35/38  Talla del fabricante: 035 
+prodname: 'Tommy Hilfiger TH Sneaker Box 4P  Calcetines para Hombre  Azul  Dark Navy 322   35/38  Talla del fabricante: 035 '
 ---
 
 Ahora mismo tienes [Tommy Hilfiger TH Sneaker Box 4P  Calcetines para Hombre  Azul  Dark Navy 322   35/38  Talla del fabricante: 035 ](https://www.amazon.es/dp/B07GTDZMHK/?tag=tolees-21) a 7.01 EUR (original: 21.99 EUR) (68.12 %  de descuento) en el siguiente enlace!

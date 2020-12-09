@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Auriculares Inalambricos Bluetooth 5.0  HIFI Estéreo Auriculares Bluetooth Deportivos  IPX56 Impermeable Total 80h Reproducción  2600mAh Caja de Carga Portátil y CVC 8.0 Cancelación de Ruido Micrófono
+prodname: 'Auriculares Inalambricos Bluetooth 5.0  HIFI Estéreo Auriculares Bluetooth Deportivos  IPX56 Impermeable Total 80h Reproducción  2600mAh Caja de Carga Portátil y CVC 8.0 Cancelación de Ruido Micrófono'
 ---
 
 Ahora mismo tienes [Auriculares Inalambricos Bluetooth 5.0  HIFI Estéreo Auriculares Bluetooth Deportivos  IPX56 Impermeable Total 80h Reproducción  2600mAh Caja de Carga Portátil y CVC 8.0 Cancelación de Ruido Micrófono](https://www.amazon.es/dp/B07MX96WPB/?tag=tolees-21) a 37.99 EUR (original: 139.99 EUR) (72.86 %  de descuento) en el siguiente enlace!

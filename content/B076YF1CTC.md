@@ -14,7 +14,7 @@ currency: EUR
 price: 66.5
 comparePrice: 90 EUR
 inStock: true
-prodname: Levi s 314 Shaping Straight  Vaqueros Straight para Mujer  Azul  Shaker Maker 0054   W28/L32
+prodname: 'Levi s 314 Shaping Straight  Vaqueros Straight para Mujer  Azul  Shaker Maker 0054   W28/L32'
 ---
 
 Tienes [Levi s 314 Shaping Straight  Vaqueros Straight para Mujer  Azul  Shaker Maker 0054   W28/L32](https://www.amazon.es/dp/B076YF1CTC/?tag=tolees-21) con un 26.11 % de descuento con precio de oferta de 66.5 EUR (original: 90 EUR) en el siguiente enlace!

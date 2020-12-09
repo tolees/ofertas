@@ -14,7 +14,7 @@ currency: EUR
 price: 22.11
 comparePrice: 79.94 EUR
 inStock: true
-prodname: Tamaris 26240  Zapatillas Altas para Mujer  Marrón  Taupe Comb 344   38 EU
+prodname: 'Tamaris 26240  Zapatillas Altas para Mujer  Marrón  Taupe Comb 344   38 EU'
 ---
 
 Tienes [Tamaris 26240  Zapatillas Altas para Mujer  Marrón  Taupe Comb 344   38 EU](https://www.amazon.es/dp/B01FZBFLKM/?tag=tolees-21) con un 72.34 % de descuento con precio de oferta de 22.11 EUR (original: 79.94 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.19
 comparePrice: 44.38 EUR
 inStock: true
-prodname: junengSO Kit de Matcha japonés  licuadora de Matcha de bambú Tradicional  Cuchara de té y Estante.
+prodname: 'junengSO Kit de Matcha japonés  licuadora de Matcha de bambú Tradicional  Cuchara de té y Estante.'
 ---
 
 Ahora mismo tienes [junengSO Kit de Matcha japonés  licuadora de Matcha de bambú Tradicional  Cuchara de té y Estante.](https://www.amazon.es/dp/B08DLKDH79/?tag=tolees-21) a 22.19 EUR (original: 44.38 EUR) (50.00 %  de descuento) en el siguiente enlace!

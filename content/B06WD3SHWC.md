@@ -14,7 +14,7 @@ currency: EUR
 price: 18.11
 comparePrice: 24.99 EUR
 inStock: true
-prodname: LEGO Duplo Town - Puesto de Tiro al Blanco  10839 
+prodname: 'LEGO Duplo Town - Puesto de Tiro al Blanco  10839 '
 ---
 
 Está [LEGO Duplo Town - Puesto de Tiro al Blanco  10839 ](https://www.amazon.es/dp/B06WD3SHWC/?tag=tolees-21) con 27.53 de descuento por 18.11 EUR (original: 24.99 EUR) en el siguiente enlace!

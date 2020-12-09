@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 7.5 EUR
 inStock: true
-prodname: Rimmel London Volume Colourist Máscara de Pestañas  11 ml  Tono Negro
+prodname: 'Rimmel London Volume Colourist Máscara de Pestañas  11 ml  Tono Negro'
 ---
 
 Está [Rimmel London Volume Colourist Máscara de Pestañas  11 ml  Tono Negro](https://www.amazon.es/dp/B01DJB0LNC/?tag=tolees-21) con 46.80 de descuento por 3.99 EUR (original: 7.5 EUR) en el siguiente enlace!

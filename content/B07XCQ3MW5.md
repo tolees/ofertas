@@ -14,7 +14,7 @@ currency: EUR
 price: 89.0
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Motorola Moto E6 Plus  pantalla 6 1" max vision  doble cámara de 13 MP  32GB/2 GB  Android 9.0  Dual SIM  Gris Gunmetal + Funda
+prodname: 'Motorola Moto E6 Plus  pantalla 6 1" max vision  doble cámara de 13 MP  32GB/2 GB  Android 9.0  Dual SIM  Gris Gunmetal + Funda'
 ---
 
 Ahora mismo tienes [Motorola Moto E6 Plus  pantalla 6 1" max vision  doble cámara de 13 MP  32GB/2 GB  Android 9.0  Dual SIM  Gris Gunmetal + Funda](https://www.amazon.es/dp/B07XCQ3MW5/?tag=tolees-21) a 89.0 EUR (original: 139.9 EUR) (36.38 %  de descuento) en el siguiente enlace!

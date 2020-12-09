@@ -14,7 +14,7 @@ currency: EUR
 price: 54.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW Rovic Zip 3D Tapered Pantalon  Negro  Raven 5126-976   24W / 34L para Hombre
+prodname: 'G-STAR RAW Rovic Zip 3D Tapered Pantalon  Negro  Raven 5126-976   24W / 34L para Hombre'
 ---
 
 Ahora mismo tienes [G-STAR RAW Rovic Zip 3D Tapered Pantalon  Negro  Raven 5126-976   24W / 34L para Hombre](https://www.amazon.es/dp/B01BGTW6UU/?tag=tolees-21) a 54.95 EUR (original: 99.95 EUR) (45.02 %  de descuento) en el siguiente enlace!

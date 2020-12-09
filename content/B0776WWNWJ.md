@@ -14,7 +14,7 @@ currency: EUR
 price: 46.31
 comparePrice: 89.95 EUR
 inStock: true
-prodname: adidas Camiseta de la Selección Española de Fútbol para el Mundial 2018  Oficial  Hombre  1ª Equipación  Talla XL
+prodname: 'adidas Camiseta de la Selección Española de Fútbol para el Mundial 2018  Oficial  Hombre  1ª Equipación  Talla XL'
 ---
 
 Está [adidas Camiseta de la Selección Española de Fútbol para el Mundial 2018  Oficial  Hombre  1ª Equipación  Talla XL](https://www.amazon.es/dp/B0776WWNWJ/?tag=tolees-21) con 48.52 de descuento por 46.31 EUR (original: 89.95 EUR) en el siguiente enlace!

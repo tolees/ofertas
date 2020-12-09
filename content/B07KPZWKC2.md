@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: AXT SHADE Toldo Vela de Sombra Triangular 3 6 x 3 6 x 3 6 m  protección Rayos UV Impermeable para Patio  Exteriores  Jardín  Color Arena
+prodname: 'AXT SHADE Toldo Vela de Sombra Triangular 3 6 x 3 6 x 3 6 m  protección Rayos UV Impermeable para Patio  Exteriores  Jardín  Color Arena'
 ---
 
 Tienes [AXT SHADE Toldo Vela de Sombra Triangular 3 6 x 3 6 x 3 6 m  protección Rayos UV Impermeable para Patio  Exteriores  Jardín  Color Arena](https://www.amazon.es/dp/B07KPZWKC2/?tag=tolees-21) con un 32.51 % de descuento con precio de oferta de 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!

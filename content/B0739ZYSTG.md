@@ -14,7 +14,7 @@ currency: EUR
 price: 16.09
 comparePrice: 42 EUR
 inStock: true
-prodname: Double Agent 87325 Vaqueros Skinny  Gris Oscuro  WNA  Tamaño del Fabricante:36  para Mujer
+prodname: 'Double Agent 87325 Vaqueros Skinny  Gris Oscuro  WNA  Tamaño del Fabricante:36  para Mujer'
 ---
 
 Está [Double Agent 87325 Vaqueros Skinny  Gris Oscuro  WNA  Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B0739ZYSTG/?tag=tolees-21) con 61.69 de descuento por 16.09 EUR (original: 42 EUR) en el siguiente enlace!

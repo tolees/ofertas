@@ -14,7 +14,7 @@ currency: EUR
 price: 28.45
 comparePrice: 49.95 EUR
 inStock: true
-prodname: G-STAR RAW Dunda Slim Polo S\\s  white 110  Large para Hombre
+prodname: 'G-STAR RAW Dunda Slim Polo S\\s  white 110  Large para Hombre'
 ---
 
 Tienes [G-STAR RAW Dunda Slim Polo S\\s  white 110  Large para Hombre](https://www.amazon.es/dp/B07KFJQ66V/?tag=tolees-21) con un 43.04 % de descuento con precio de oferta de 28.45 EUR (original: 49.95 EUR) en el siguiente enlace!

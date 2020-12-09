@@ -14,7 +14,7 @@ currency: EUR
 price: 9.38
 comparePrice: 13.81 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly - Galletas Digestive sin azúcar  6 x 400 g
+prodname: 'Marca Amazon - Happy Belly - Galletas Digestive sin azúcar  6 x 400 g'
 ---
 
 Está [Marca Amazon - Happy Belly - Galletas Digestive sin azúcar  6 x 400 g](https://www.amazon.es/dp/B081SCS2PK/?tag=tolees-21) con 32.08 de descuento por 9.38 EUR (original: 13.81 EUR) en el siguiente enlace!

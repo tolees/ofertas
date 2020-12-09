@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 33.14 EUR
 inStock: true
-prodname: YUES Mando Inalámbrico para Nintendo Switch Pro/Lite  Gamepad con Doble Choque/Motor de Vibración/Giroscopio de 6 Ejes/Turbo Ajustable/Joystick Remoto
+prodname: 'YUES Mando Inalámbrico para Nintendo Switch Pro/Lite  Gamepad con Doble Choque/Motor de Vibración/Giroscopio de 6 Ejes/Turbo Ajustable/Joystick Remoto'
 ---
 
 Tienes [YUES Mando Inalámbrico para Nintendo Switch Pro/Lite  Gamepad con Doble Choque/Motor de Vibración/Giroscopio de 6 Ejes/Turbo Ajustable/Joystick Remoto](https://www.amazon.es/dp/B08FJDKNWP/?tag=tolees-21) con un 30.63 % de descuento con precio de oferta de 22.99 EUR (original: 33.14 EUR) en el siguiente enlace!

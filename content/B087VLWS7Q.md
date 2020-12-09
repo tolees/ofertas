@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 219.99 EUR
 inStock: true
-prodname: Columbia Iceline Ridge Chaqueta De Esquí con Capucha  Hombre  Azul  Collegiate Navy/Mountain Red/White   M
+prodname: 'Columbia Iceline Ridge Chaqueta De Esquí con Capucha  Hombre  Azul  Collegiate Navy/Mountain Red/White   M'
 ---
 
 Está [Columbia Iceline Ridge Chaqueta De Esquí con Capucha  Hombre  Azul  Collegiate Navy/Mountain Red/White   M](https://www.amazon.es/dp/B087VLWS7Q/?tag=tolees-21) con 59.09 de descuento por 89.99 EUR (original: 219.99 EUR) en el siguiente enlace!

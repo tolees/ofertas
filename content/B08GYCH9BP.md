@@ -14,7 +14,7 @@ currency: EUR
 price: 259.0
 comparePrice: 449.0 EUR
 inStock: true
-prodname: Cecotec Robot de Cocina Multifunción Mambo 9590. con Jarra Habana  30 Funciones  Báscula incorporada  Jarra de Acero INOX  Capacidad 3 3 litros  Apta para lavavajillas
+prodname: 'Cecotec Robot de Cocina Multifunción Mambo 9590. con Jarra Habana  30 Funciones  Báscula incorporada  Jarra de Acero INOX  Capacidad 3 3 litros  Apta para lavavajillas'
 ---
 
 Tienes [Cecotec Robot de Cocina Multifunción Mambo 9590. con Jarra Habana  30 Funciones  Báscula incorporada  Jarra de Acero INOX  Capacidad 3 3 litros  Apta para lavavajillas](https://www.amazon.es/dp/B08GYCH9BP/?tag=tolees-21) con un 42.32 % de descuento con precio de oferta de 259.0 EUR (original: 449.0 EUR) en el siguiente enlace!

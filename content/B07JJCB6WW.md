@@ -14,7 +14,7 @@ currency: EUR
 price: 51.77
 comparePrice: 100 EUR
 inStock: true
-prodname: Armani Exchange Colour Block suéter  Azul  Navy/Marine 05bn   Small para Hombre
+prodname: 'Armani Exchange Colour Block suéter  Azul  Navy/Marine 05bn   Small para Hombre'
 ---
 
 Está [Armani Exchange Colour Block suéter  Azul  Navy/Marine 05bn   Small para Hombre](https://www.amazon.es/dp/B07JJCB6WW/?tag=tolees-21) con 48.23 de descuento por 51.77 EUR (original: 100 EUR) en el siguiente enlace!

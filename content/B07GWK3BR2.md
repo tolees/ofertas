@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 94.0 EUR
 inStock: true
-prodname: Suavinex - Pack Extractor eléctrico de leche materna con tetina anticólicos Zero Zero + 3 Bolsas almacenaje con tapón + Tarro almacenaje. Sacaleches eléctrico
+prodname: 'Suavinex - Pack Extractor eléctrico de leche materna con tetina anticólicos Zero Zero + 3 Bolsas almacenaje con tapón + Tarro almacenaje. Sacaleches eléctrico'
 ---
 
 Tienes [Suavinex - Pack Extractor eléctrico de leche materna con tetina anticólicos Zero Zero + 3 Bolsas almacenaje con tapón + Tarro almacenaje. Sacaleches eléctrico](https://www.amazon.es/dp/B07GWK3BR2/?tag=tolees-21) con un 25.54 % de descuento con precio de oferta de 69.99 EUR (original: 94.0 EUR) en el siguiente enlace!

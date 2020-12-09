@@ -14,7 +14,7 @@ currency: EUR
 price: 38.89
 comparePrice: 85.66 EUR
 inStock: true
-prodname: Timezone - Vaqueros Straight para Hombre  Talla W30 / L32  ES 40   Color Azul  authentik Light Blue 3561 
+prodname: 'Timezone - Vaqueros Straight para Hombre  Talla W30 / L32  ES 40   Color Azul  authentik Light Blue 3561 '
 ---
 
 Tienes [Timezone - Vaqueros Straight para Hombre  Talla W30 / L32  ES 40   Color Azul  authentik Light Blue 3561 ](https://www.amazon.es/dp/B009QWQAAC/?tag=tolees-21) con un 54.60 % de descuento con precio de oferta de 38.89 EUR (original: 85.66 EUR) en el siguiente enlace!

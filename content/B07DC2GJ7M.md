@@ -14,7 +14,7 @@ currency: EUR
 price: 27.28
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Cell Viper  Zapatillas Unisex Adulto  Blanco White-Ponderosa Pine  40 EU
+prodname: 'Puma Cell Viper  Zapatillas Unisex Adulto  Blanco White-Ponderosa Pine  40 EU'
 ---
 
 Tienes [Puma Cell Viper  Zapatillas Unisex Adulto  Blanco White-Ponderosa Pine  40 EU](https://www.amazon.es/dp/B07DC2GJ7M/?tag=tolees-21) con un 69.67 % de descuento con precio de oferta de 27.28 EUR (original: 89.95 EUR) en el siguiente enlace!

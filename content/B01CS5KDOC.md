@@ -14,7 +14,7 @@ currency: EUR
 price: 3.85
 comparePrice: 5.25 EUR
 inStock: true
-prodname: Instituto Español Champú para Piel Atópica- 300 ML
+prodname: 'Instituto Español Champú para Piel Atópica- 300 ML'
 ---
 
 Está [Instituto Español Champú para Piel Atópica- 300 ML](https://www.amazon.es/dp/B01CS5KDOC/?tag=tolees-21) con 26.67 de descuento por 3.85 EUR (original: 5.25 EUR) en el siguiente enlace!

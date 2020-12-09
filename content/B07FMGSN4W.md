@@ -14,7 +14,7 @@ currency: EUR
 price: 24.5
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Belkin batería externa 10K con conector Lightning Boost Charge  certificación MFi  para iPhone 12  12 Pro  12 Pro Max  12 mini  11  11 Pro/Pro Max  XS  XS Max  XR  X  SE  8/8 Plus y iPad  negro
+prodname: 'Belkin batería externa 10K con conector Lightning Boost Charge  certificación MFi  para iPhone 12  12 Pro  12 Pro Max  12 mini  11  11 Pro/Pro Max  XS  XS Max  XR  X  SE  8/8 Plus y iPad  negro'
 ---
 
 Está [Belkin batería externa 10K con conector Lightning Boost Charge  certificación MFi  para iPhone 12  12 Pro  12 Pro Max  12 mini  11  11 Pro/Pro Max  XS  XS Max  XR  X  SE  8/8 Plus y iPad  negro](https://www.amazon.es/dp/B07FMGSN4W/?tag=tolees-21) con 59.16 de descuento por 24.5 EUR (original: 59.99 EUR) en el siguiente enlace!

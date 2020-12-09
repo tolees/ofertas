@@ -14,7 +14,7 @@ currency: EUR
 price: 7.11
 comparePrice: 29.55 EUR
 inStock: true
-prodname: edc by Esprit 037cc1k014  Camisa Manga Larga Mujer  Azul  Dark Blue   36  Talla del Fabricante: Small 
+prodname: 'edc by Esprit 037cc1k014  Camisa Manga Larga Mujer  Azul  Dark Blue   36  Talla del Fabricante: Small '
 ---
 
 Está [edc by Esprit 037cc1k014  Camisa Manga Larga Mujer  Azul  Dark Blue   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MYBM8HJ/?tag=tolees-21) con 75.94 de descuento por 7.11 EUR (original: 29.55 EUR) en el siguiente enlace!

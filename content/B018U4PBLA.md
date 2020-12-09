@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 8.08 EUR
 inStock: true
-prodname: Cofan 10391041 - Rollo plástico cubretodo  2 x 50 m 
+prodname: 'Cofan 10391041 - Rollo plástico cubretodo  2 x 50 m '
 ---
 
 Tienes [Cofan 10391041 - Rollo plástico cubretodo  2 x 50 m ](https://www.amazon.es/dp/B018U4PBLA/?tag=tolees-21) con un 50.62 % de descuento con precio de oferta de 3.99 EUR (original: 8.08 EUR) en el siguiente enlace!

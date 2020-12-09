@@ -14,7 +14,7 @@ currency: EUR
 price: 34.5
 comparePrice: 69 EUR
 inStock: true
-prodname: Dickies New York Pantalones   Camouflage CF     Tamaño del Fabricante:36/32  para Hombre
+prodname: 'Dickies New York Pantalones   Camouflage CF     Tamaño del Fabricante:36/32  para Hombre'
 ---
 
 Ahora mismo tienes [Dickies New York Pantalones   Camouflage CF     Tamaño del Fabricante:36/32  para Hombre](https://www.amazon.es/dp/B00H8PSGHO/?tag=tolees-21) a 34.5 EUR (original: 69 EUR) (50.00 %  de descuento) en el siguiente enlace!

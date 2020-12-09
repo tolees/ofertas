@@ -14,7 +14,7 @@ currency: EUR
 price: 91.8
 comparePrice: 259.9 EUR
 inStock: true
-prodname: Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SUR695P1
+prodname: 'Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SUR695P1'
 ---
 
 Ahora mismo tienes [Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SUR695P1](https://www.amazon.es/dp/B076ZJX8ZL/?tag=tolees-21) a 91.8 EUR (original: 259.9 EUR) (64.68 %  de descuento) en el siguiente enlace!

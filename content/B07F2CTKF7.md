@@ -14,7 +14,7 @@ currency: EUR
 price: 19.97
 comparePrice: 28.53 EUR
 inStock: true
-prodname: Janolia 12 Botes para Especias  Botes Magnéticas para Condimentos   Acero Inoxidable Anti-Polvo  Cubierta transparente  Barras Magnético por Refrigerador  Ideal para Sal  Pimienta Hierbas o Especias
+prodname: 'Janolia 12 Botes para Especias  Botes Magnéticas para Condimentos   Acero Inoxidable Anti-Polvo  Cubierta transparente  Barras Magnético por Refrigerador  Ideal para Sal  Pimienta Hierbas o Especias'
 ---
 
 Ahora mismo tienes [Janolia 12 Botes para Especias  Botes Magnéticas para Condimentos   Acero Inoxidable Anti-Polvo  Cubierta transparente  Barras Magnético por Refrigerador  Ideal para Sal  Pimienta Hierbas o Especias](https://www.amazon.es/dp/B07F2CTKF7/?tag=tolees-21) a 19.97 EUR (original: 28.53 EUR) (30.00 %  de descuento) en el siguiente enlace!

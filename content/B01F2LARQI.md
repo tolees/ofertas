@@ -14,7 +14,7 @@ currency: EUR
 price: 18.15
 comparePrice: 37.78 EUR
 inStock: true
-prodname: CALVIN KLEIN Truth Eau DE Parfum 100ML VAPORIZADOR Unisex Adulto  Negro  Único
+prodname: 'CALVIN KLEIN Truth Eau DE Parfum 100ML VAPORIZADOR Unisex Adulto  Negro  Único'
 ---
 
 Tienes [CALVIN KLEIN Truth Eau DE Parfum 100ML VAPORIZADOR Unisex Adulto  Negro  Único](https://www.amazon.es/dp/B01F2LARQI/?tag=tolees-21) con un 51.96 % de descuento con precio de oferta de 18.15 EUR (original: 37.78 EUR) en el siguiente enlace!

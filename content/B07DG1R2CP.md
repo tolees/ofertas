@@ -14,7 +14,7 @@ currency: EUR
 price: 26.95
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Puma Rebel Bold FL Pants  Hombre  Dark Gray Heather  XXL
+prodname: 'Puma Rebel Bold FL Pants  Hombre  Dark Gray Heather  XXL'
 ---
 
 Está [Puma Rebel Bold FL Pants  Hombre  Dark Gray Heather  XXL](https://www.amazon.es/dp/B07DG1R2CP/?tag=tolees-21) con 46.05 de descuento por 26.95 EUR (original: 49.95 EUR) en el siguiente enlace!

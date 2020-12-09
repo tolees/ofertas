@@ -14,7 +14,7 @@ currency: EUR
 price: 19.67
 comparePrice: 120 EUR
 inStock: true
-prodname: Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  Whisper Wash Destroy Ww5  34W / 34L
+prodname: 'Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  Whisper Wash Destroy Ww5  34W / 34L'
 ---
 
 Está [Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  Whisper Wash Destroy Ww5  34W / 34L](https://www.amazon.es/dp/B07HYV58JY/?tag=tolees-21) con 83.61 de descuento por 19.67 EUR (original: 120 EUR) en el siguiente enlace!

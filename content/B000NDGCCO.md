@@ -14,7 +14,7 @@ currency: EUR
 price: 16.09
 comparePrice: 27.0 EUR
 inStock: true
-prodname: Eastpak Springer Riñonera  23 cm  2 L  Negro  Black 
+prodname: 'Eastpak Springer Riñonera  23 cm  2 L  Negro  Black '
 ---
 
 Está [Eastpak Springer Riñonera  23 cm  2 L  Negro  Black ](https://www.amazon.es/dp/B000NDGCCO/?tag=tolees-21) con 40.41 de descuento por 16.09 EUR (original: 27.0 EUR) en el siguiente enlace!

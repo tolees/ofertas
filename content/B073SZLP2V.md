@@ -14,7 +14,7 @@ currency: EUR
 price: 15.45
 comparePrice: 50 EUR
 inStock: true
-prodname: find. Pantalones de Terciopelo para Mujer  Naranja  Orange   42  Talla del fabricante: Large 
+prodname: 'find. Pantalones de Terciopelo para Mujer  Naranja  Orange   42  Talla del fabricante: Large '
 ---
 
 Tienes [find. Pantalones de Terciopelo para Mujer  Naranja  Orange   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B073SZLP2V/?tag=tolees-21) con un 69.10 % de descuento con precio de oferta de 15.45 EUR (original: 50 EUR) en el siguiente enlace!

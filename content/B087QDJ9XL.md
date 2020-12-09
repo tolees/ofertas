@@ -14,7 +14,7 @@ currency: EUR
 price: 13.98
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Realme Band - Fitness Tracker Black
+prodname: 'Realme Band - Fitness Tracker Black'
 ---
 
 Está [Realme Band - Fitness Tracker Black](https://www.amazon.es/dp/B087QDJ9XL/?tag=tolees-21) con 30.07 de descuento por 13.98 EUR (original: 19.99 EUR) en el siguiente enlace!

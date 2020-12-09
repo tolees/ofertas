@@ -14,7 +14,7 @@ currency: EUR
 price: 10.02
 comparePrice: 14.42 EUR
 inStock: true
-prodname: Levi s 501 Long Pantalones Cortos  Azul  Montgomery Mended Short 0013   W25  Talla del Fabricante: 25  para Mujer
+prodname: 'Levi s 501 Long Pantalones Cortos  Azul  Montgomery Mended Short 0013   W25  Talla del Fabricante: 25  para Mujer'
 ---
 
 Tienes [Levi s 501 Long Pantalones Cortos  Azul  Montgomery Mended Short 0013   W25  Talla del Fabricante: 25  para Mujer](https://www.amazon.es/dp/B07TRMSJFP/?tag=tolees-21) con un 30.51 % de descuento con precio de oferta de 10.02 EUR (original: 14.42 EUR) en el siguiente enlace!

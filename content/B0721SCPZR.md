@@ -14,7 +14,7 @@ currency: EUR
 price: 7.5
 comparePrice: 19.56 EUR
 inStock: true
-prodname: RED WAGON Merceditas Back To School para Niñas  Negro  Black   24 EU
+prodname: 'RED WAGON Merceditas Back To School para Niñas  Negro  Black   24 EU'
 ---
 
 Ahora mismo tienes [RED WAGON Merceditas Back To School para Niñas  Negro  Black   24 EU](https://www.amazon.es/dp/B0721SCPZR/?tag=tolees-21) a 7.5 EUR (original: 19.56 EUR) (61.66 %  de descuento) en el siguiente enlace!

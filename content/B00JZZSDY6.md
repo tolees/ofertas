@@ -14,7 +14,7 @@ currency: EUR
 price: 5.53
 comparePrice: 16.75 EUR
 inStock: true
-prodname: Bartolucci PFMILL00001000047 - Luna Multiusos  tamaño Grande 
+prodname: 'Bartolucci PFMILL00001000047 - Luna Multiusos  tamaño Grande '
 ---
 
 Está [Bartolucci PFMILL00001000047 - Luna Multiusos  tamaño Grande ](https://www.amazon.es/dp/B00JZZSDY6/?tag=tolees-21) con 66.99 de descuento por 5.53 EUR (original: 16.75 EUR) en el siguiente enlace!

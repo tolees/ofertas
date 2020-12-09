@@ -14,7 +14,7 @@ currency: EUR
 price: 10.27
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Comfort Footbed Beach Sandal  Chanclas para Hombre  Negro  Black Bds   41 EU
+prodname: 'Tommy Hilfiger Comfort Footbed Beach Sandal  Chanclas para Hombre  Negro  Black Bds   41 EU'
 ---
 
 Tienes [Tommy Hilfiger Comfort Footbed Beach Sandal  Chanclas para Hombre  Negro  Black Bds   41 EU](https://www.amazon.es/dp/B07V4N5DDZ/?tag=tolees-21) con un 74.26 % de descuento con precio de oferta de 10.27 EUR (original: 39.9 EUR) en el siguiente enlace!

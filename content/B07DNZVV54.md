@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 60 EUR
 inStock: true
-prodname: Eastpak out of Office Mochila Infantil  44 cm  27 Liters  Verde  Pine Green 
+prodname: 'Eastpak out of Office Mochila Infantil  44 cm  27 Liters  Verde  Pine Green '
 ---
 
 Está [Eastpak out of Office Mochila Infantil  44 cm  27 Liters  Verde  Pine Green ](https://www.amazon.es/dp/B07DNZVV54/?tag=tolees-21) con 33.42 de descuento por 39.95 EUR (original: 60 EUR) en el siguiente enlace!

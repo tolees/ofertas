@@ -14,7 +14,7 @@ currency: EUR
 price: 64.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Columbia Woodburn Plus II  Botas de Senderismo para Hombre  Marrón  Cordovan/Gypsy 231   40 EU
+prodname: 'Columbia Woodburn Plus II  Botas de Senderismo para Hombre  Marrón  Cordovan/Gypsy 231   40 EU'
 ---
 
 Está [Columbia Woodburn Plus II  Botas de Senderismo para Hombre  Marrón  Cordovan/Gypsy 231   40 EU](https://www.amazon.es/dp/B00KWFAPRQ/?tag=tolees-21) con 35.02 de descuento por 64.95 EUR (original: 99.95 EUR) en el siguiente enlace!

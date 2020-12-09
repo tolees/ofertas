@@ -14,7 +14,7 @@ currency: EUR
 price: 28.75
 comparePrice: 114.99 EUR
 inStock: true
-prodname: Assassin s Creed Odyssey - Ultimate Edition | Código Uplay para PC
+prodname: 'Assassin s Creed Odyssey - Ultimate Edition | Código Uplay para PC'
 ---
 
 Está [Assassin s Creed Odyssey - Ultimate Edition | Código Uplay para PC](https://www.amazon.es/dp/B07JKRJDFX/?tag=tolees-21) con 75.00 de descuento por 28.75 EUR (original: 114.99 EUR) en el siguiente enlace!

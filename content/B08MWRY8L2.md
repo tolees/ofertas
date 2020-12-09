@@ -14,7 +14,7 @@ currency: EUR
 price: 169.95
 comparePrice: 242.95 EUR
 inStock: true
-prodname: IKOHS NETBOT S18 - Robot Aspirador 4 en 1  con Mapeo y App  Potencia de Succión 1800 Pa  Navegación Inteligente  Sensores Anticolisión y Anticaídas  Don t Stop me Now 
+prodname: 'IKOHS NETBOT S18 - Robot Aspirador 4 en 1  con Mapeo y App  Potencia de Succión 1800 Pa  Navegación Inteligente  Sensores Anticolisión y Anticaídas  Don t Stop me Now '
 ---
 
 Tienes [IKOHS NETBOT S18 - Robot Aspirador 4 en 1  con Mapeo y App  Potencia de Succión 1800 Pa  Navegación Inteligente  Sensores Anticolisión y Anticaídas  Don t Stop me Now ](https://www.amazon.es/dp/B08MWRY8L2/?tag=tolees-21) con un 30.05 % de descuento con precio de oferta de 169.95 EUR (original: 242.95 EUR) en el siguiente enlace!

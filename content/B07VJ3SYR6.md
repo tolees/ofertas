@@ -14,7 +14,7 @@ currency: EUR
 price: 49.0
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Breville HeatSoft VFM021X - Batidora manual eléctrica con varilla  batidores  ganchos para amasar y funda  7 velocidades  motor de 270 W
+prodname: 'Breville HeatSoft VFM021X - Batidora manual eléctrica con varilla  batidores  ganchos para amasar y funda  7 velocidades  motor de 270 W'
 ---
 
 Tienes [Breville HeatSoft VFM021X - Batidora manual eléctrica con varilla  batidores  ganchos para amasar y funda  7 velocidades  motor de 270 W](https://www.amazon.es/dp/B07VJ3SYR6/?tag=tolees-21) con un 29.90 % de descuento con precio de oferta de 49.0 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.49
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Mattel Games Scrabble junior  juegos de mesa para niños  Mattel Y9669 
+prodname: 'Mattel Games Scrabble junior  juegos de mesa para niños  Mattel Y9669 '
 ---
 
 Está [Mattel Games Scrabble junior  juegos de mesa para niños  Mattel Y9669 ](https://www.amazon.es/dp/B00E5WMF6Q/?tag=tolees-21) con 30.01 de descuento por 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!

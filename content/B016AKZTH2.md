@@ -14,7 +14,7 @@ currency: EUR
 price: 138.61
 comparePrice: 223.86 EUR
 inStock: true
-prodname: Fendi FF 0137/S CN NT2 Gafas de sol  Negro  Matte Shiny Black/Dark Grey Sparkling   49 para Mujer
+prodname: 'Fendi FF 0137/S CN NT2 Gafas de sol  Negro  Matte Shiny Black/Dark Grey Sparkling   49 para Mujer'
 ---
 
 Está [Fendi FF 0137/S CN NT2 Gafas de sol  Negro  Matte Shiny Black/Dark Grey Sparkling   49 para Mujer](https://www.amazon.es/dp/B016AKZTH2/?tag=tolees-21) con 38.08 de descuento por 138.61 EUR (original: 223.86 EUR) en el siguiente enlace!

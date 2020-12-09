@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Esprit 997ee2i801  suéter Hombre  Verde  Dark Green 300   Large
+prodname: 'Esprit 997ee2i801  suéter Hombre  Verde  Dark Green 300   Large'
 ---
 
 Ahora mismo tienes [Esprit 997ee2i801  suéter Hombre  Verde  Dark Green 300   Large](https://www.amazon.es/dp/B071CMHHZV/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

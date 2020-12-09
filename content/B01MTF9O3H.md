@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto
+prodname: 'Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto'
 ---
 
 Ahora mismo tienes [Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto](https://www.amazon.es/dp/B01MTF9O3H/?tag=tolees-21) a 19.95 EUR (original: 39.99 EUR) (50.11 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: HolyHigh Reloj Inteligente Smartwatch Hombre Impermeable IP68 Pulsera de Actividad Reloj Bluetooth 1.3 Pulgadas Pantalla con Monitor de Ritmo Cardíaco/Sueño  Podómetro para iOS Android
+prodname: 'HolyHigh Reloj Inteligente Smartwatch Hombre Impermeable IP68 Pulsera de Actividad Reloj Bluetooth 1.3 Pulgadas Pantalla con Monitor de Ritmo Cardíaco/Sueño  Podómetro para iOS Android'
 ---
 
 Está [HolyHigh Reloj Inteligente Smartwatch Hombre Impermeable IP68 Pulsera de Actividad Reloj Bluetooth 1.3 Pulgadas Pantalla con Monitor de Ritmo Cardíaco/Sueño  Podómetro para iOS Android](https://www.amazon.es/dp/B07P6H6MNK/?tag=tolees-21) con 53.85 de descuento por 59.99 EUR (original: 129.99 EUR) en el siguiente enlace!

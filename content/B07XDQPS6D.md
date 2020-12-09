@@ -14,7 +14,7 @@ currency: EUR
 price: 3.95
 comparePrice: 6.99 EUR
 inStock: true
-prodname: Postal - Lo mejor de ti es lo que te hace tan tú
+prodname: 'Postal - Lo mejor de ti es lo que te hace tan tú'
 ---
 
 Ahora mismo tienes [Postal - Lo mejor de ti es lo que te hace tan tú](https://www.amazon.es/dp/B07XDQPS6D/?tag=tolees-21) a 3.95 EUR (original: 6.99 EUR) (43.49 %  de descuento) en el siguiente enlace!

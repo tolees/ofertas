@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Chicco-00 002429 200 000 Estrellas Mágicas Azul  Color  00002429200000 
+prodname: 'Chicco-00 002429 200 000 Estrellas Mágicas Azul  Color  00002429200000 '
 ---
 
 Está [Chicco-00 002429 200 000 Estrellas Mágicas Azul  Color  00002429200000 ](https://www.amazon.es/dp/B00HYZILNM/?tag=tolees-21) con 27.28 de descuento por 39.99 EUR (original: 54.99 EUR) en el siguiente enlace!

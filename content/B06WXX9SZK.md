@@ -14,7 +14,7 @@ currency: EUR
 price: 5.6
 comparePrice: 9 EUR
 inStock: true
-prodname: Disney Bella Neceser de Viaje  22 cm  1.32 Litros  Varios colores
+prodname: 'Disney Bella Neceser de Viaje  22 cm  1.32 Litros  Varios colores'
 ---
 
 Está [Disney Bella Neceser de Viaje  22 cm  1.32 Litros  Varios colores](https://www.amazon.es/dp/B06WXX9SZK/?tag=tolees-21) con 37.78 de descuento por 5.6 EUR (original: 9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 62.92
 comparePrice: 90.0 EUR
 inStock: true
-prodname: New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   45 EU
+prodname: 'New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   45 EU'
 ---
 
 Tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   45 EU](https://www.amazon.es/dp/B06XXDJR8C/?tag=tolees-21) con un 30.09 % de descuento con precio de oferta de 62.92 EUR (original: 90.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 42.77
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Wrangler Texas Stretch Blue Black  Vaqueros para Hombre  Azul  Blue Negro   talla del manufacturier:  34W/34L 
+prodname: 'Wrangler Texas Stretch Blue Black  Vaqueros para Hombre  Azul  Blue Negro   talla del manufacturier:  34W/34L '
 ---
 
 Tienes [Wrangler Texas Stretch Blue Black  Vaqueros para Hombre  Azul  Blue Negro   talla del manufacturier:  34W/34L ](https://www.amazon.es/dp/B001FS2BDK/?tag=tolees-21) con un 46.50 % de descuento con precio de oferta de 42.77 EUR (original: 79.95 EUR) en el siguiente enlace!

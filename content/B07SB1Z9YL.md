@@ -14,7 +14,7 @@ currency: EUR
 price: 41.61
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Helly Hansen W Seven J Jacket Chaqueta  Mujer  Azul Royal  L
+prodname: 'Helly Hansen W Seven J Jacket Chaqueta  Mujer  Azul Royal  L'
 ---
 
 Tienes [Helly Hansen W Seven J Jacket Chaqueta  Mujer  Azul Royal  L](https://www.amazon.es/dp/B07SB1Z9YL/?tag=tolees-21) con un 62.17 % de descuento con precio de oferta de 41.61 EUR (original: 110.0 EUR) en el siguiente enlace!

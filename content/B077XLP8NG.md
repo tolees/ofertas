@@ -14,7 +14,7 @@ currency: EUR
 price: 19.52
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Under Armour CC Scramble Polo  Hombre  Azul Medium Heather/Academy 408  S
+prodname: 'Under Armour CC Scramble Polo  Hombre  Azul Medium Heather/Academy 408  S'
 ---
 
 Ahora mismo tienes [Under Armour CC Scramble Polo  Hombre  Azul Medium Heather/Academy 408  S](https://www.amazon.es/dp/B077XLP8NG/?tag=tolees-21) a 19.52 EUR (original: 44.99 EUR) (56.61 %  de descuento) en el siguiente enlace!

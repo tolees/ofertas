@@ -14,7 +14,7 @@ currency: EUR
 price: 24.71
 comparePrice: 70 EUR
 inStock: true
-prodname: Burton Durable Goods Sudaderas  Hombre  Gray Heather  XXL
+prodname: 'Burton Durable Goods Sudaderas  Hombre  Gray Heather  XXL'
 ---
 
 Está [Burton Durable Goods Sudaderas  Hombre  Gray Heather  XXL](https://www.amazon.es/dp/B07KKXV24T/?tag=tolees-21) con 64.70 de descuento por 24.71 EUR (original: 70 EUR) en el siguiente enlace!

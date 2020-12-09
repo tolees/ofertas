@@ -14,7 +14,7 @@ currency: EUR
 price: 236.52
 comparePrice: 399.0 EUR
 inStock: true
-prodname: Candy CTP 634B3 Encimera Inducción Flexible con paellero de Doble corona-60cm de Ancho  Negro  590 X 520 X 55
+prodname: 'Candy CTP 634B3 Encimera Inducción Flexible con paellero de Doble corona-60cm de Ancho  Negro  590 X 520 X 55'
 ---
 
 Tienes [Candy CTP 634B3 Encimera Inducción Flexible con paellero de Doble corona-60cm de Ancho  Negro  590 X 520 X 55](https://www.amazon.es/dp/B07JN3NBGD/?tag=tolees-21) con un 40.72 % de descuento con precio de oferta de 236.52 EUR (original: 399.0 EUR) en el siguiente enlace!

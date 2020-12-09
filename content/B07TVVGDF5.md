@@ -14,7 +14,7 @@ currency: EUR
 price: 32.45
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Bounder Verkona  Zapatillas Hombre  Gris  Charcoal Mesh/Gray Synthetic/Trim Ccgy   45 EU
+prodname: 'Skechers Bounder Verkona  Zapatillas Hombre  Gris  Charcoal Mesh/Gray Synthetic/Trim Ccgy   45 EU'
 ---
 
 Está [Skechers Bounder Verkona  Zapatillas Hombre  Gris  Charcoal Mesh/Gray Synthetic/Trim Ccgy   45 EU](https://www.amazon.es/dp/B07TVVGDF5/?tag=tolees-21) con 50.04 de descuento por 32.45 EUR (original: 64.95 EUR) en el siguiente enlace!

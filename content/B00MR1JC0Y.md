@@ -14,7 +14,7 @@ currency: EUR
 price: 12.45
 comparePrice: 69.16 EUR
 inStock: true
-prodname: STEVE MADDEN DONDDI - Sandalias clásicas para Mujer  Color Black/White  Talla 38
+prodname: 'STEVE MADDEN DONDDI - Sandalias clásicas para Mujer  Color Black/White  Talla 38'
 ---
 
 Tienes [STEVE MADDEN DONDDI - Sandalias clásicas para Mujer  Color Black/White  Talla 38](https://www.amazon.es/dp/B00MR1JC0Y/?tag=tolees-21) con un 82.00 % de descuento con precio de oferta de 12.45 EUR (original: 69.16 EUR) en el siguiente enlace!

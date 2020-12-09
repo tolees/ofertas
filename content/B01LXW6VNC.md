@@ -14,7 +14,7 @@ currency: EUR
 price: 25.4
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Sigma 07162 Ciclocomputador  Negro
+prodname: 'Sigma 07162 Ciclocomputador  Negro'
 ---
 
 Tienes [Sigma 07162 Ciclocomputador  Negro](https://www.amazon.es/dp/B01LXW6VNC/?tag=tolees-21) con un 27.32 % de descuento con precio de oferta de 25.4 EUR (original: 34.95 EUR) en el siguiente enlace!

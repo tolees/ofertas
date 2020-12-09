@@ -14,7 +14,7 @@ currency: EUR
 price: 42.5
 comparePrice: 75 EUR
 inStock: true
-prodname: New Balance Fuel Core NERGIZE  Zapatillas Deportivas para Interior para Mujer  Blanco  Summer Fog/Butrmilk Hg1   40 EU
+prodname: 'New Balance Fuel Core NERGIZE  Zapatillas Deportivas para Interior para Mujer  Blanco  Summer Fog/Butrmilk Hg1   40 EU'
 ---
 
 Tienes [New Balance Fuel Core NERGIZE  Zapatillas Deportivas para Interior para Mujer  Blanco  Summer Fog/Butrmilk Hg1   40 EU](https://www.amazon.es/dp/B07DJ6ZHVN/?tag=tolees-21) con un 43.33 % de descuento con precio de oferta de 42.5 EUR (original: 75 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 69.95
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Philips DVT 4010 - Grabadora de voz profesional
+prodname: 'Philips DVT 4010 - Grabadora de voz profesional'
 ---
 
 Está [Philips DVT 4010 - Grabadora de voz profesional](https://www.amazon.es/dp/B01IYR3K2U/?tag=tolees-21) con 30.04 de descuento por 69.95 EUR (original: 99.99 EUR) en el siguiente enlace!

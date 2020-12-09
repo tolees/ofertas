@@ -14,7 +14,7 @@ currency: EUR
 price: 145.39
 comparePrice: 229.0 EUR
 inStock: true
-prodname: Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Cuero SSB275P1
+prodname: 'Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Cuero SSB275P1'
 ---
 
 Ahora mismo tienes [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Cuero SSB275P1](https://www.amazon.es/dp/B074ZCWBFS/?tag=tolees-21) a 145.39 EUR (original: 229.0 EUR) (36.51 %  de descuento) en el siguiente enlace!

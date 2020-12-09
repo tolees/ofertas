@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Ultrasport Fahrradhose Pantalones  Hombre  Negro/Gris  XL
+prodname: 'Ultrasport Fahrradhose Pantalones  Hombre  Negro/Gris  XL'
 ---
 
 Está [Ultrasport Fahrradhose Pantalones  Hombre  Negro/Gris  XL](https://www.amazon.es/dp/B006GWZTAC/?tag=tolees-21) con 80.00 de descuento por 9.99 EUR (original: 49.95 EUR) en el siguiente enlace!

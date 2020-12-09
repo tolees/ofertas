@@ -14,7 +14,7 @@ currency: EUR
 price: 4.46
 comparePrice: 9.45 EUR
 inStock: true
-prodname: Marca Amazon - find. Jersey de Algodón con Cuello Redondo Hombre  Azul  Blue   S  Label: S
+prodname: 'Marca Amazon - find. Jersey de Algodón con Cuello Redondo Hombre  Azul  Blue   S  Label: S'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Jersey de Algodón con Cuello Redondo Hombre  Azul  Blue   S  Label: S](https://www.amazon.es/dp/B07H9LYWDP/?tag=tolees-21) a 4.46 EUR (original: 9.45 EUR) (52.80 %  de descuento) en el siguiente enlace!

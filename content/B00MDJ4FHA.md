@@ -14,7 +14,7 @@ currency: EUR
 price: 30.81
 comparePrice: 43.1 EUR
 inStock: true
-prodname: FAC 3013055 Cerrojo 101-r/105-p Bombillo 70
+prodname: 'FAC 3013055 Cerrojo 101-r/105-p Bombillo 70'
 ---
 
 Está [FAC 3013055 Cerrojo 101-r/105-p Bombillo 70](https://www.amazon.es/dp/B00MDJ4FHA/?tag=tolees-21) con 28.52 de descuento por 30.81 EUR (original: 43.1 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 2
 comparePrice: 3.85 EUR
 inStock: true
-prodname: H&S Rejuvenecido y Fuerte Champú Anticaspa - 360 ml
+prodname: 'H&S Rejuvenecido y Fuerte Champú Anticaspa - 360 ml'
 ---
 
 Tienes [H&S Rejuvenecido y Fuerte Champú Anticaspa - 360 ml](https://www.amazon.es/dp/B077MMTVFL/?tag=tolees-21) con un 48.05 % de descuento con precio de oferta de 2 EUR (original: 3.85 EUR) en el siguiente enlace!

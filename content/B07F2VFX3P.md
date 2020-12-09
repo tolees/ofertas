@@ -14,7 +14,7 @@ currency: EUR
 price: 11.78
 comparePrice: 29.95 EUR
 inStock: true
-prodname: adidas Response tee M  Camiseta de Tirantes Hombre  Azul  Bright Blue Bright Blue   X-Large
+prodname: 'adidas Response tee M  Camiseta de Tirantes Hombre  Azul  Bright Blue Bright Blue   X-Large'
 ---
 
 Ahora mismo tienes [adidas Response tee M  Camiseta de Tirantes Hombre  Azul  Bright Blue Bright Blue   X-Large](https://www.amazon.es/dp/B07F2VFX3P/?tag=tolees-21) a 11.78 EUR (original: 29.95 EUR) (60.67 %  de descuento) en el siguiente enlace!

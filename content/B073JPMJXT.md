@@ -14,7 +14,7 @@ currency: EUR
 price: 11.1
 comparePrice: 37 EUR
 inStock: true
-prodname: FIND Vestido Sudadera para Mujer   Gris  Grau   44  Talla del Fabricante: X-Large 
+prodname: 'FIND Vestido Sudadera para Mujer   Gris  Grau   44  Talla del Fabricante: X-Large '
 ---
 
 Ahora mismo tienes [FIND Vestido Sudadera para Mujer   Gris  Grau   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B073JPMJXT/?tag=tolees-21) a 11.1 EUR (original: 37 EUR) (70.00 %  de descuento) en el siguiente enlace!

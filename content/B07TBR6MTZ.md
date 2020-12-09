@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 58.75 EUR
 inStock: true
-prodname: meiqicool Protector Suelo Bebe Alfombras Puzzle Alfombra Goma Eva Bebe Jigsaw Puzzle Mat no Toxica Turquesa Gris 0812
+prodname: 'meiqicool Protector Suelo Bebe Alfombras Puzzle Alfombra Goma Eva Bebe Jigsaw Puzzle Mat no Toxica Turquesa Gris 0812'
 ---
 
 Está [meiqicool Protector Suelo Bebe Alfombras Puzzle Alfombra Goma Eva Bebe Jigsaw Puzzle Mat no Toxica Turquesa Gris 0812](https://www.amazon.es/dp/B07TBR6MTZ/?tag=tolees-21) con 47.25 de descuento por 30.99 EUR (original: 58.75 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Jaula Madera 115x60 5x58cm 3 Ventanas Plexiglas 3 Pisos + Bandeja Extraible Hamster Raton
+prodname: 'Jaula Madera 115x60 5x58cm 3 Ventanas Plexiglas 3 Pisos + Bandeja Extraible Hamster Raton'
 ---
 
 Está [Jaula Madera 115x60 5x58cm 3 Ventanas Plexiglas 3 Pisos + Bandeja Extraible Hamster Raton](https://www.amazon.es/dp/B019RQ8WOI/?tag=tolees-21) con 50.00 de descuento por 69.99 EUR (original: 139.99 EUR) en el siguiente enlace!

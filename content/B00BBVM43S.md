@@ -14,7 +14,7 @@ currency: EUR
 price: 21.21
 comparePrice: 59.8 EUR
 inStock: true
-prodname: Beppi Casual  Mocasines para Hombre  Azul  Navy Blue   45 EU
+prodname: 'Beppi Casual  Mocasines para Hombre  Azul  Navy Blue   45 EU'
 ---
 
 Está [Beppi Casual  Mocasines para Hombre  Azul  Navy Blue   45 EU](https://www.amazon.es/dp/B00BBVM43S/?tag=tolees-21) con 64.53 de descuento por 21.21 EUR (original: 59.8 EUR) en el siguiente enlace!

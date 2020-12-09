@@ -14,7 +14,7 @@ currency: EUR
 price: 22.43
 comparePrice: 33.39 EUR
 inStock: true
-prodname: The Singleton of Dufftown Sunray Single Malt Whisky  70 cl
+prodname: 'The Singleton of Dufftown Sunray Single Malt Whisky  70 cl'
 ---
 
 Está [The Singleton of Dufftown Sunray Single Malt Whisky  70 cl](https://www.amazon.es/dp/B00J4L8RRE/?tag=tolees-21) con 32.82 de descuento por 22.43 EUR (original: 33.39 EUR) en el siguiente enlace!

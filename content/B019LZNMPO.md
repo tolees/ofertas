@@ -14,7 +14,7 @@ currency: EUR
 price: 104.99
 comparePrice: 152.15 EUR
 inStock: true
-prodname: Candy CDI30 Placa inducción 2 fuegos  30cm ancho  3500W  Táctil  Eléctrica  Negra
+prodname: 'Candy CDI30 Placa inducción 2 fuegos  30cm ancho  3500W  Táctil  Eléctrica  Negra'
 ---
 
 Está [Candy CDI30 Placa inducción 2 fuegos  30cm ancho  3500W  Táctil  Eléctrica  Negra](https://www.amazon.es/dp/B019LZNMPO/?tag=tolees-21) con 31.00 de descuento por 104.99 EUR (original: 152.15 EUR) en el siguiente enlace!

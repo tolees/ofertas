@@ -14,7 +14,7 @@ currency: EUR
 price: 31.95
 comparePrice: 54.95 EUR
 inStock: true
-prodname: adidas X 18.3 AG J  Botas de fútbol Unisex Adulto  Ftwbla/Casbla 0  38 2/3 EU
+prodname: 'adidas X 18.3 AG J  Botas de fútbol Unisex Adulto  Ftwbla/Casbla 0  38 2/3 EU'
 ---
 
 Ahora mismo tienes [adidas X 18.3 AG J  Botas de fútbol Unisex Adulto  Ftwbla/Casbla 0  38 2/3 EU](https://www.amazon.es/dp/B07D9DW8VD/?tag=tolees-21) a 31.95 EUR (original: 54.95 EUR) (41.86 %  de descuento) en el siguiente enlace!

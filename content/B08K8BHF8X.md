@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 94.98 EUR
 inStock: true
-prodname: Nuevo Echo Dot  4.ª generación  con reloj  Blanco + Amazon Smart Plug  enchufe inteligente WiFi   compatible con Alexa
+prodname: 'Nuevo Echo Dot  4.ª generación  con reloj  Blanco + Amazon Smart Plug  enchufe inteligente WiFi   compatible con Alexa'
 ---
 
 Ahora mismo tienes [Nuevo Echo Dot  4.ª generación  con reloj  Blanco + Amazon Smart Plug  enchufe inteligente WiFi   compatible con Alexa](https://www.amazon.es/dp/B08K8BHF8X/?tag=tolees-21) a 49.99 EUR (original: 94.98 EUR) (47.37 %  de descuento) en el siguiente enlace!

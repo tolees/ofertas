@@ -14,7 +14,7 @@ currency: EUR
 price: 33.44
 comparePrice: 71.95 EUR
 inStock: true
-prodname: Real Feel Deluxe Vibrador Clásico Negro - 649 gr
+prodname: 'Real Feel Deluxe Vibrador Clásico Negro - 649 gr'
 ---
 
 Ahora mismo tienes [Real Feel Deluxe Vibrador Clásico Negro - 649 gr](https://www.amazon.es/dp/B00IUL1UKU/?tag=tolees-21) a 33.44 EUR (original: 71.95 EUR) (53.52 %  de descuento) en el siguiente enlace!

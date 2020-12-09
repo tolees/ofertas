@@ -14,7 +14,7 @@ currency: EUR
 price: 16.85
 comparePrice: 29.99 EUR
 inStock: true
-prodname: DC Shoes Star T-Shirt  Hombre  Black/Snow White  L
+prodname: 'DC Shoes Star T-Shirt  Hombre  Black/Snow White  L'
 ---
 
 Está [DC Shoes Star T-Shirt  Hombre  Black/Snow White  L](https://www.amazon.es/dp/B07KZ7LWDH/?tag=tolees-21) con 43.81 de descuento por 16.85 EUR (original: 29.99 EUR) en el siguiente enlace!

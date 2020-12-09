@@ -14,7 +14,7 @@ currency: EUR
 price: 41
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Rieker 17866  Mocasines para Hombre  Azul  Marine/Amaretto   42 EU
+prodname: 'Rieker 17866  Mocasines para Hombre  Azul  Marine/Amaretto   42 EU'
 ---
 
 Ahora mismo tienes [Rieker 17866  Mocasines para Hombre  Azul  Marine/Amaretto   42 EU](https://www.amazon.es/dp/B01J7E5UTA/?tag=tolees-21) a 41 EUR (original: 74.95 EUR) (45.30 %  de descuento) en el siguiente enlace!

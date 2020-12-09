@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 57.88 EUR
 inStock: true
-prodname: 120W Focos de Coche LED 7 Pulgadas  2pcs Superbrillantes LED Faros de Trabajo  Luz de Niebla de Conducción IP67 Para SUV  ATV  Barco  etc. [Clase de Eficiencia Energética A +]
+prodname: '120W Focos de Coche LED 7 Pulgadas  2pcs Superbrillantes LED Faros de Trabajo  Luz de Niebla de Conducción IP67 Para SUV  ATV  Barco  etc. [Clase de Eficiencia Energética A +]'
 ---
 
 Ahora mismo tienes [120W Focos de Coche LED 7 Pulgadas  2pcs Superbrillantes LED Faros de Trabajo  Luz de Niebla de Conducción IP67 Para SUV  ATV  Barco  etc. [Clase de Eficiencia Energética A +]](https://www.amazon.es/dp/B07J4VHNM2/?tag=tolees-21) a 39.99 EUR (original: 57.88 EUR) (30.91 %  de descuento) en el siguiente enlace!

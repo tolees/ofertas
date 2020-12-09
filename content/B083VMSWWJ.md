@@ -14,7 +14,7 @@ currency: EUR
 price: 76.99
 comparePrice: 107.68 EUR
 inStock: true
-prodname: Crucial Ballistix BL2K8G36C16U4RL RGB  3600 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GBx2   CL16  Rojo
+prodname: 'Crucial Ballistix BL2K8G36C16U4RL RGB  3600 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GBx2   CL16  Rojo'
 ---
 
 Está [Crucial Ballistix BL2K8G36C16U4RL RGB  3600 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GBx2   CL16  Rojo](https://www.amazon.es/dp/B083VMSWWJ/?tag=tolees-21) con 28.50 de descuento por 76.99 EUR (original: 107.68 EUR) en el siguiente enlace!

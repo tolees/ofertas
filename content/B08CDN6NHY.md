@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 34.9 EUR
 inStock: true
-prodname: adidas Paletero pádel Carbon Control Black
+prodname: 'adidas Paletero pádel Carbon Control Black'
 ---
 
 Tienes [adidas Paletero pádel Carbon Control Black](https://www.amazon.es/dp/B08CDN6NHY/?tag=tolees-21) con un 25.53 % de descuento con precio de oferta de 25.99 EUR (original: 34.9 EUR) en el siguiente enlace!

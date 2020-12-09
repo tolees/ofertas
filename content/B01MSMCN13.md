@@ -14,7 +14,7 @@ currency: EUR
 price: 79.0
 comparePrice: 149.9 EUR
 inStock: true
-prodname: Polar M200 - Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Actividad 24/7 - Negro  M/L
+prodname: 'Polar M200 - Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Actividad 24/7 - Negro  M/L'
 ---
 
 Ahora mismo tienes [Polar M200 - Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Actividad 24/7 - Negro  M/L](https://www.amazon.es/dp/B01MSMCN13/?tag=tolees-21) a 79.0 EUR (original: 149.9 EUR) (47.30 %  de descuento) en el siguiente enlace!

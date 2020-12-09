@@ -14,7 +14,7 @@ currency: EUR
 price: 34.84
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Salomon RX Break 4.0  Zapatillas de Trail Running para Hombre  Azul  Navy Blazer/Poseidon/Taos Taupe   48 EU
+prodname: 'Salomon RX Break 4.0  Zapatillas de Trail Running para Hombre  Azul  Navy Blazer/Poseidon/Taos Taupe   48 EU'
 ---
 
 Está [Salomon RX Break 4.0  Zapatillas de Trail Running para Hombre  Azul  Navy Blazer/Poseidon/Taos Taupe   48 EU](https://www.amazon.es/dp/B07CZ5GFC3/?tag=tolees-21) con 36.60 de descuento por 34.84 EUR (original: 54.95 EUR) en el siguiente enlace!

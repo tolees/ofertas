@@ -14,7 +14,7 @@ currency: EUR
 price: 14.93
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Brawlout
+prodname: 'Brawlout'
 ---
 
 Ahora mismo tienes [Brawlout](https://www.amazon.es/dp/B079Q9GTNZ/?tag=tolees-21) a 14.93 EUR (original: 34.99 EUR) (57.33 %  de descuento) en el siguiente enlace!

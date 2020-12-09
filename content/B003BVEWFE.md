@@ -14,7 +14,7 @@ currency: EUR
 price: 16.22
 comparePrice: 46.32 EUR
 inStock: true
-prodname: Draper 12544 - Juego de alicates  mango suave  5 unidades 
+prodname: 'Draper 12544 - Juego de alicates  mango suave  5 unidades '
 ---
 
 Tienes [Draper 12544 - Juego de alicates  mango suave  5 unidades ](https://www.amazon.es/dp/B003BVEWFE/?tag=tolees-21) con un 64.98 % de descuento con precio de oferta de 16.22 EUR (original: 46.32 EUR) en el siguiente enlace!

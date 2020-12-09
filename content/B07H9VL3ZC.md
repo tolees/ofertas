@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Xbox 360 Controlador de Gamepad  Rixow Mando USB de Xbox 360 Compatible para Windows XP/7/8/10  Android  TV box / Tablet 
+prodname: 'Xbox 360 Controlador de Gamepad  Rixow Mando USB de Xbox 360 Compatible para Windows XP/7/8/10  Android  TV box / Tablet '
 ---
 
 Ahora mismo tienes [Xbox 360 Controlador de Gamepad  Rixow Mando USB de Xbox 360 Compatible para Windows XP/7/8/10  Android  TV box / Tablet ](https://www.amazon.es/dp/B07H9VL3ZC/?tag=tolees-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

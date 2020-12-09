@@ -14,7 +14,7 @@ currency: EUR
 price: 30.06
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Vans Doheny  Sneaker Hombre  Lienzo Negro Blanco 187  39 EU
+prodname: 'Vans Doheny  Sneaker Hombre  Lienzo Negro Blanco 187  39 EU'
 ---
 
 Tienes [Vans Doheny  Sneaker Hombre  Lienzo Negro Blanco 187  39 EU](https://www.amazon.es/dp/B07MCSW4D6/?tag=tolees-21) con un 45.35 % de descuento con precio de oferta de 30.06 EUR (original: 55.0 EUR) en el siguiente enlace!

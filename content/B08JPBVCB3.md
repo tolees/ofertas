@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 16.18 EUR
 inStock: true
-prodname: MaoXinTek Calcetines Bebé 10 Pares Cálido Dibujos Animados Alta Rodilla Calcetines Algodón para 12-36 Meses Niños Niña
+prodname: 'MaoXinTek Calcetines Bebé 10 Pares Cálido Dibujos Animados Alta Rodilla Calcetines Algodón para 12-36 Meses Niños Niña'
 ---
 
 Ahora mismo tienes [MaoXinTek Calcetines Bebé 10 Pares Cálido Dibujos Animados Alta Rodilla Calcetines Algodón para 12-36 Meses Niños Niña](https://www.amazon.es/dp/B08JPBVCB3/?tag=tolees-21) a 11.99 EUR (original: 16.18 EUR) (25.90 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.32
 comparePrice: 49.99 EUR
 inStock: true
-prodname: JACK & JONES Jjichris Jjtool Shorts JJ 135  Pantalones Cortos para Hombre  Azul  Blue Denim   50  Talla del Fabricante: Medium 
+prodname: 'JACK & JONES Jjichris Jjtool Shorts JJ 135  Pantalones Cortos para Hombre  Azul  Blue Denim   50  Talla del Fabricante: Medium '
 ---
 
 Tienes [JACK & JONES Jjichris Jjtool Shorts JJ 135  Pantalones Cortos para Hombre  Azul  Blue Denim   50  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07BBS5BM6/?tag=tolees-21) con un 67.35 % de descuento con precio de oferta de 16.32 EUR (original: 49.99 EUR) en el siguiente enlace!

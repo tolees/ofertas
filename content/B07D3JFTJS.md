@@ -14,7 +14,7 @@ currency: EUR
 price: 7.68
 comparePrice: 32.77 EUR
 inStock: true
-prodname: !Solid Sweat - Simon-Sudadera Hombre Grau  Grey Melange 8236 Grey Mel  XXL
+prodname: '!Solid Sweat - Simon-Sudadera Hombre Grau  Grey Melange 8236 Grey Mel  XXL'
 ---
 
 Ahora mismo tienes [!Solid Sweat - Simon-Sudadera Hombre Grau  Grey Melange 8236 Grey Mel  XXL](https://www.amazon.es/dp/B07D3JFTJS/?tag=tolees-21) a 7.68 EUR (original: 32.77 EUR) (76.56 %  de descuento) en el siguiente enlace!

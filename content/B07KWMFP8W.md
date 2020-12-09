@@ -14,7 +14,7 @@ currency: EUR
 price: 209.45
 comparePrice: 329.0 EUR
 inStock: true
-prodname: Hugo BOSS Reloj de pulsera 1513697
+prodname: 'Hugo BOSS Reloj de pulsera 1513697'
 ---
 
 Está [Hugo BOSS Reloj de pulsera 1513697](https://www.amazon.es/dp/B07KWMFP8W/?tag=tolees-21) con 36.34 de descuento por 209.45 EUR (original: 329.0 EUR) en el siguiente enlace!

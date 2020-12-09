@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: 4UMOR Riñonera Mujer y Hombre  Bolsos Mujer Bandolera Hombre Impermeable Bolsa de Pecho con Gran Capacidad Cabe Botella de Agua Bolsa de Hombro Negra Nylon con Bolsillos para Viaje y Excursion
+prodname: '4UMOR Riñonera Mujer y Hombre  Bolsos Mujer Bandolera Hombre Impermeable Bolsa de Pecho con Gran Capacidad Cabe Botella de Agua Bolsa de Hombro Negra Nylon con Bolsillos para Viaje y Excursion'
 ---
 
 Está [4UMOR Riñonera Mujer y Hombre  Bolsos Mujer Bandolera Hombre Impermeable Bolsa de Pecho con Gran Capacidad Cabe Botella de Agua Bolsa de Hombro Negra Nylon con Bolsillos para Viaje y Excursion](https://www.amazon.es/dp/B07QVLB1F8/?tag=tolees-21) con 52.01 de descuento por 23.99 EUR (original: 49.99 EUR) en el siguiente enlace!

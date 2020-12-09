@@ -14,7 +14,7 @@ currency: EUR
 price: 19.75
 comparePrice: 29.7 EUR
 inStock: true
-prodname: TRESemmé Acondicionador Hidratación Intensa 6 x 855 ML
+prodname: 'TRESemmé Acondicionador Hidratación Intensa 6 x 855 ML'
 ---
 
 Tienes [TRESemmé Acondicionador Hidratación Intensa 6 x 855 ML](https://www.amazon.es/dp/B089HTCY8J/?tag=tolees-21) con un 33.50 % de descuento con precio de oferta de 19.75 EUR (original: 29.7 EUR) en el siguiente enlace!

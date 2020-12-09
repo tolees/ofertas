@@ -14,7 +14,7 @@ currency: EUR
 price: 299.9
 comparePrice: 499.0 EUR
 inStock: true
-prodname: Braun Silk Expert Pro 5 PL5137 Depiladora Luz Pulsada IPL  Última Generación  Depilación Permanente  Cabezal Precisión  Cara Y Cuerpo  Blanco/Dorado
+prodname: 'Braun Silk Expert Pro 5 PL5137 Depiladora Luz Pulsada IPL  Última Generación  Depilación Permanente  Cabezal Precisión  Cara Y Cuerpo  Blanco/Dorado'
 ---
 
 Tienes [Braun Silk Expert Pro 5 PL5137 Depiladora Luz Pulsada IPL  Última Generación  Depilación Permanente  Cabezal Precisión  Cara Y Cuerpo  Blanco/Dorado](https://www.amazon.es/dp/B07M8CYX9V/?tag=tolees-21) con un 39.90 % de descuento con precio de oferta de 299.9 EUR (original: 499.0 EUR) en el siguiente enlace!

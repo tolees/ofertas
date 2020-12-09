@@ -14,7 +14,7 @@ currency: EUR
 price: 61.49
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Lacoste PH4012  Polo Para Hombre  Azul  Marine   Medium  Talla del fabricante: 4 
+prodname: 'Lacoste PH4012  Polo Para Hombre  Azul  Marine   Medium  Talla del fabricante: 4 '
 ---
 
 Está [Lacoste PH4012  Polo Para Hombre  Azul  Marine   Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00Y4XVP0I/?tag=tolees-21) con 35.27 de descuento por 61.49 EUR (original: 95.0 EUR) en el siguiente enlace!

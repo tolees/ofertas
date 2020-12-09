@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Springfield 4.2.T.MD.Falda Botonadura  Falda para Mujer   Negro 1    Tamaño del Fabricante:34 
+prodname: 'Springfield 4.2.T.MD.Falda Botonadura  Falda para Mujer   Negro 1    Tamaño del Fabricante:34 '
 ---
 
 Ahora mismo tienes [Springfield 4.2.T.MD.Falda Botonadura  Falda para Mujer   Negro 1    Tamaño del Fabricante:34 ](https://www.amazon.es/dp/B07DLLKXWC/?tag=tolees-21) a 14.49 EUR (original: 26.99 EUR) (46.31 %  de descuento) en el siguiente enlace!

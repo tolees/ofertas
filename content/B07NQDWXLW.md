@@ -14,7 +14,7 @@ currency: EUR
 price: 218.35
 comparePrice: 379.99 EUR
 inStock: true
-prodname: Relaxdays Soporte Monitor y Portátil para Trabajar de Pie con Bandeja para Teclado  DM  Metal y PVC  Negro  XL  6 x 90 x 60 cm
+prodname: 'Relaxdays Soporte Monitor y Portátil para Trabajar de Pie con Bandeja para Teclado  DM  Metal y PVC  Negro  XL  6 x 90 x 60 cm'
 ---
 
 Ahora mismo tienes [Relaxdays Soporte Monitor y Portátil para Trabajar de Pie con Bandeja para Teclado  DM  Metal y PVC  Negro  XL  6 x 90 x 60 cm](https://www.amazon.es/dp/B07NQDWXLW/?tag=tolees-21) a 218.35 EUR (original: 379.99 EUR) (42.54 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 64.9
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Hoover MBC500UV Ultra Vortex - Aspiradora de Mano  Ciclónica  Colchones  Sofás  Pelo Mascotas  Especial Alergias  Lampara UV Anti Bacterias  3 Modos Limpieza  500W  Cable 5m  Ligero  Rojo
+prodname: 'Hoover MBC500UV Ultra Vortex - Aspiradora de Mano  Ciclónica  Colchones  Sofás  Pelo Mascotas  Especial Alergias  Lampara UV Anti Bacterias  3 Modos Limpieza  500W  Cable 5m  Ligero  Rojo'
 ---
 
 Está [Hoover MBC500UV Ultra Vortex - Aspiradora de Mano  Ciclónica  Colchones  Sofás  Pelo Mascotas  Especial Alergias  Lampara UV Anti Bacterias  3 Modos Limpieza  500W  Cable 5m  Ligero  Rojo](https://www.amazon.es/dp/B014SPNQV2/?tag=tolees-21) con 50.07 de descuento por 64.9 EUR (original: 129.99 EUR) en el siguiente enlace!

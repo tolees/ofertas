@@ -14,7 +14,7 @@ currency: EUR
 price: 26.25
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Cortefiel 6246494  Cárdigan Para Mujer  Gris  Medium
+prodname: 'Cortefiel 6246494  Cárdigan Para Mujer  Gris  Medium'
 ---
 
 Ahora mismo tienes [Cortefiel 6246494  Cárdigan Para Mujer  Gris  Medium](https://www.amazon.es/dp/B01IN6ZCRS/?tag=tolees-21) a 26.25 EUR (original: 49.99 EUR) (47.49 %  de descuento) en el siguiente enlace!

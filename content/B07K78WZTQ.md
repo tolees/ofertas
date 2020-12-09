@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 28.89 EUR
 inStock: true
-prodname: Levi s SS Set-in Sunset Pocket Camiseta  Azul  Parisian Blue 0072   Large para Hombre
+prodname: 'Levi s SS Set-in Sunset Pocket Camiseta  Azul  Parisian Blue 0072   Large para Hombre'
 ---
 
 Ahora mismo tienes [Levi s SS Set-in Sunset Pocket Camiseta  Azul  Parisian Blue 0072   Large para Hombre](https://www.amazon.es/dp/B07K78WZTQ/?tag=tolees-21) a 9.95 EUR (original: 28.89 EUR) (65.56 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.72
 comparePrice: 13.11 EUR
 inStock: true
-prodname: Mini ventilador eléctrico de escritorio silencioso USB de escritorio recargable portátil de escritorio para estudiantes dormitorio pequeño ventilador - rosado
+prodname: 'Mini ventilador eléctrico de escritorio silencioso USB de escritorio recargable portátil de escritorio para estudiantes dormitorio pequeño ventilador - rosado'
 ---
 
 Ahora mismo tienes [Mini ventilador eléctrico de escritorio silencioso USB de escritorio recargable portátil de escritorio para estudiantes dormitorio pequeño ventilador - rosado](https://www.amazon.es/dp/B08NDNTK73/?tag=tolees-21) a 8.72 EUR (original: 13.11 EUR) (33.49 %  de descuento) en el siguiente enlace!

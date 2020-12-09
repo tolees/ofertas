@@ -14,7 +14,7 @@ currency: EUR
 price: 23.92
 comparePrice: 39.95 EUR
 inStock: true
-prodname: G-STAR RAW Tach Trunk 3 Pack Bañador  Negro  carbid/Sage/dk Vermont Green A395   Small para Hombre
+prodname: 'G-STAR RAW Tach Trunk 3 Pack Bañador  Negro  carbid/Sage/dk Vermont Green A395   Small para Hombre'
 ---
 
 Está [G-STAR RAW Tach Trunk 3 Pack Bañador  Negro  carbid/Sage/dk Vermont Green A395   Small para Hombre](https://www.amazon.es/dp/B07KXSKMLH/?tag=tolees-21) con 40.13 de descuento por 23.92 EUR (original: 39.95 EUR) en el siguiente enlace!

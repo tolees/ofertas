@@ -14,7 +14,7 @@ currency: EUR
 price: 18.65
 comparePrice: 28.95 EUR
 inStock: true
-prodname: Calcetines de Running para Largas Distancias 3 Par  Negro/Gris  EU 43-47 
+prodname: 'Calcetines de Running para Largas Distancias 3 Par  Negro/Gris  EU 43-47 '
 ---
 
 Está [Calcetines de Running para Largas Distancias 3 Par  Negro/Gris  EU 43-47 ](https://www.amazon.es/dp/B07TBMC9KZ/?tag=tolees-21) con 35.58 de descuento por 18.65 EUR (original: 28.95 EUR) en el siguiente enlace!

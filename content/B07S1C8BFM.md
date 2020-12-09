@@ -14,7 +14,7 @@ currency: EUR
 price: 24.15
 comparePrice: 36.93 EUR
 inStock: true
-prodname: Nike Wmns Free RN Flyknit 3.0  Zapatillas para Correr para Mujer  Black Mtlc Gold Plum Chalk  40 EU
+prodname: 'Nike Wmns Free RN Flyknit 3.0  Zapatillas para Correr para Mujer  Black Mtlc Gold Plum Chalk  40 EU'
 ---
 
 Está [Nike Wmns Free RN Flyknit 3.0  Zapatillas para Correr para Mujer  Black Mtlc Gold Plum Chalk  40 EU](https://www.amazon.es/dp/B07S1C8BFM/?tag=tolees-21) con 34.61 de descuento por 24.15 EUR (original: 36.93 EUR) en el siguiente enlace!

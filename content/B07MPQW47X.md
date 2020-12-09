@@ -14,7 +14,7 @@ currency: EUR
 price: 42.45
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Sony SRS-XB12V  Altavoz Inalámbrico  Bluetooth  Extra Bass  Diseño Portátil  Batería hasta 16H  Resistente al Agua y Polvo IP67  Inalámbrico  Lila
+prodname: 'Sony SRS-XB12V  Altavoz Inalámbrico  Bluetooth  Extra Bass  Diseño Portátil  Batería hasta 16H  Resistente al Agua y Polvo IP67  Inalámbrico  Lila'
 ---
 
 Tienes [Sony SRS-XB12V  Altavoz Inalámbrico  Bluetooth  Extra Bass  Diseño Portátil  Batería hasta 16H  Resistente al Agua y Polvo IP67  Inalámbrico  Lila](https://www.amazon.es/dp/B07MPQW47X/?tag=tolees-21) con un 29.25 % de descuento con precio de oferta de 42.45 EUR (original: 60.0 EUR) en el siguiente enlace!

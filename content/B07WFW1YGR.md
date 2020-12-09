@@ -14,7 +14,7 @@ currency: EUR
 price: 73.24
 comparePrice: 104.9 EUR
 inStock: true
-prodname: Amazfit GTR RELOJ SMARTWATCH 47.2MM ALUMINUM ALLOY
+prodname: 'Amazfit GTR RELOJ SMARTWATCH 47.2MM ALUMINUM ALLOY'
 ---
 
 Tienes [Amazfit GTR RELOJ SMARTWATCH 47.2MM ALUMINUM ALLOY](https://www.amazon.es/dp/B07WFW1YGR/?tag=tolees-21) con un 30.18 % de descuento con precio de oferta de 73.24 EUR (original: 104.9 EUR) en el siguiente enlace!

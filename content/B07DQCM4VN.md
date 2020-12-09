@@ -14,7 +14,7 @@ currency: EUR
 price: 89.48
 comparePrice: 126.81 EUR
 inStock: true
-prodname: PUPPYOO WP9002F Natura&Purezza - Aspirador para casa sin bolsa  ciclónico con potencia de 800 W
+prodname: 'PUPPYOO WP9002F Natura&Purezza - Aspirador para casa sin bolsa  ciclónico con potencia de 800 W'
 ---
 
 Tienes [PUPPYOO WP9002F Natura&Purezza - Aspirador para casa sin bolsa  ciclónico con potencia de 800 W](https://www.amazon.es/dp/B07DQCM4VN/?tag=tolees-21) con un 29.44 % de descuento con precio de oferta de 89.48 EUR (original: 126.81 EUR) en el siguiente enlace!

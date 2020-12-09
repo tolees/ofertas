@@ -14,7 +14,7 @@ currency: EUR
 price: 19.84
 comparePrice: 39.95 EUR
 inStock: true
-prodname: G-STAR RAW Adisyon Straight Deep V T 1/2 SL  Camiseta Mujer  Morado  Maroon 671   X-Large
+prodname: 'G-STAR RAW Adisyon Straight Deep V T 1/2 SL  Camiseta Mujer  Morado  Maroon 671   X-Large'
 ---
 
 Tienes [G-STAR RAW Adisyon Straight Deep V T 1/2 SL  Camiseta Mujer  Morado  Maroon 671   X-Large](https://www.amazon.es/dp/B06XCD1X6S/?tag=tolees-21) con un 50.34 % de descuento con precio de oferta de 19.84 EUR (original: 39.95 EUR) en el siguiente enlace!

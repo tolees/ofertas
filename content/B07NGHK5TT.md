@@ -14,7 +14,7 @@ currency: EUR
 price: 5.08
 comparePrice: 7.23 EUR
 inStock: true
-prodname: Hasbro- Nerf Elite Microshots Pistola lanzadardos   E0489EU41 
+prodname: 'Hasbro- Nerf Elite Microshots Pistola lanzadardos   E0489EU41 '
 ---
 
 Está [Hasbro- Nerf Elite Microshots Pistola lanzadardos   E0489EU41 ](https://www.amazon.es/dp/B07NGHK5TT/?tag=tolees-21) con 29.74 de descuento por 5.08 EUR (original: 7.23 EUR) en el siguiente enlace!

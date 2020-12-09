@@ -14,7 +14,7 @@ currency: EUR
 price: 33.6
 comparePrice: 79.95 EUR
 inStock: true
-prodname: PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Blanco White Black White  36 EU
+prodname: 'PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Blanco White Black White  36 EU'
 ---
 
 Está [PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Blanco White Black White  36 EU](https://www.amazon.es/dp/B07SF1WJPT/?tag=tolees-21) con 57.97 de descuento por 33.6 EUR (original: 79.95 EUR) en el siguiente enlace!

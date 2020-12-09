@@ -14,7 +14,7 @@ currency: EUR
 price: 3.9
 comparePrice: 9.0 EUR
 inStock: true
-prodname: Rimmel London Provocalips  Barra de labios  Tono 710 Kiss-Off  - 1 unidad
+prodname: 'Rimmel London Provocalips  Barra de labios  Tono 710 Kiss-Off  - 1 unidad'
 ---
 
 Está [Rimmel London Provocalips  Barra de labios  Tono 710 Kiss-Off  - 1 unidad](https://www.amazon.es/dp/B07MB6GYZS/?tag=tolees-21) con 56.67 de descuento por 3.9 EUR (original: 9.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 113.01
 comparePrice: 173.75 EUR
 inStock: true
-prodname: Severin MW 7825 Microondas con Grill y convección Incluye 2 resistencias  900 W  30 litros  Plata y Negro
+prodname: 'Severin MW 7825 Microondas con Grill y convección Incluye 2 resistencias  900 W  30 litros  Plata y Negro'
 ---
 
 Tienes [Severin MW 7825 Microondas con Grill y convección Incluye 2 resistencias  900 W  30 litros  Plata y Negro](https://www.amazon.es/dp/B01EK6PZB8/?tag=tolees-21) con un 34.96 % de descuento con precio de oferta de 113.01 EUR (original: 173.75 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.02
 comparePrice: 24.95 EUR
 inStock: true
-prodname: DKNY Intimates - Tanga - White
+prodname: 'DKNY Intimates - Tanga - White'
 ---
 
 Tienes [DKNY Intimates - Tanga - White](https://www.amazon.es/dp/B01LYTNE0C/?tag=tolees-21) con un 67.86 % de descuento con precio de oferta de 8.02 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.67
 comparePrice: 69.99 EUR
 inStock: true
-prodname: JACK & JONES Jjiglenn Jjoriginal Jos 102 STS Vaqueros Slim  Azul Blue Denim  W32/L36 para Hombre
+prodname: 'JACK & JONES Jjiglenn Jjoriginal Jos 102 STS Vaqueros Slim  Azul Blue Denim  W32/L36 para Hombre'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiglenn Jjoriginal Jos 102 STS Vaqueros Slim  Azul Blue Denim  W32/L36 para Hombre](https://www.amazon.es/dp/B07FQBNCFK/?tag=tolees-21) a 12.67 EUR (original: 69.99 EUR) (81.90 %  de descuento) en el siguiente enlace!

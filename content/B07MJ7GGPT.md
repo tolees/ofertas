@@ -14,7 +14,7 @@ currency: EUR
 price: 31.95
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Grandin Plain  Zapatos de Cordones Derby Hombre  Piel marrón  45 EU
+prodname: 'Clarks Grandin Plain  Zapatos de Cordones Derby Hombre  Piel marrón  45 EU'
 ---
 
 Está [Clarks Grandin Plain  Zapatos de Cordones Derby Hombre  Piel marrón  45 EU](https://www.amazon.es/dp/B07MJ7GGPT/?tag=tolees-21) con 60.04 de descuento por 31.95 EUR (original: 79.95 EUR) en el siguiente enlace!

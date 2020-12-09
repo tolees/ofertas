@@ -14,7 +14,7 @@ currency: EUR
 price: 53.49
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Powder Lite  Chaqueta con capucha  Mujer  Negro  Black  Talla S
+prodname: 'Columbia Powder Lite  Chaqueta con capucha  Mujer  Negro  Black  Talla S'
 ---
 
 Está [Columbia Powder Lite  Chaqueta con capucha  Mujer  Negro  Black  Talla S](https://www.amazon.es/dp/B07JCK8HJZ/?tag=tolees-21) con 58.85 de descuento por 53.49 EUR (original: 129.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.53
 comparePrice: 51.37 EUR
 inStock: true
-prodname: United Colors of Benetton Wide Leg Trouser with Placket  Pantalones Mujer  Azul  Blue   8  Talla del Fabricante: 40 
+prodname: 'United Colors of Benetton Wide Leg Trouser with Placket  Pantalones Mujer  Azul  Blue   8  Talla del Fabricante: 40 '
 ---
 
 Ahora mismo tienes [United Colors of Benetton Wide Leg Trouser with Placket  Pantalones Mujer  Azul  Blue   8  Talla del Fabricante: 40 ](https://www.amazon.es/dp/B01MTVD3UF/?tag=tolees-21) a 10.53 EUR (original: 51.37 EUR) (79.50 %  de descuento) en el siguiente enlace!

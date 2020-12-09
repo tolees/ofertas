@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 92.99 EUR
 inStock: true
-prodname: Imaginext- Fisher-Price Batmovil Transformable  Mattel GMH33 
+prodname: 'Imaginext- Fisher-Price Batmovil Transformable  Mattel GMH33 '
 ---
 
 Está [Imaginext- Fisher-Price Batmovil Transformable  Mattel GMH33 ](https://www.amazon.es/dp/B07YFXQCNF/?tag=tolees-21) con 31.19 de descuento por 63.99 EUR (original: 92.99 EUR) en el siguiente enlace!

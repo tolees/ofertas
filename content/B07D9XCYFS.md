@@ -14,7 +14,7 @@ currency: EUR
 price: 33
 comparePrice: 79.95 EUR
 inStock: true
-prodname: adidas Bball 80s  Zapatillas Altas para Hombre  Gris Light Granite/Core Black 0  46 2/3 EU
+prodname: 'adidas Bball 80s  Zapatillas Altas para Hombre  Gris Light Granite/Core Black 0  46 2/3 EU'
 ---
 
 Tienes [adidas Bball 80s  Zapatillas Altas para Hombre  Gris Light Granite/Core Black 0  46 2/3 EU](https://www.amazon.es/dp/B07D9XCYFS/?tag=tolees-21) con un 58.72 % de descuento con precio de oferta de 33 EUR (original: 79.95 EUR) en el siguiente enlace!

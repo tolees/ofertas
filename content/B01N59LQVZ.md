@@ -14,7 +14,7 @@ currency: EUR
 price: 7.1
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Only Onlnew Bridget Rib 7/8 Pullover Knt Noos suéter  Rosa  Rose Taupe   42  Talla del Fabricante: X-Large  para Mujer
+prodname: 'Only Onlnew Bridget Rib 7/8 Pullover Knt Noos suéter  Rosa  Rose Taupe   42  Talla del Fabricante: X-Large  para Mujer'
 ---
 
 Está [Only Onlnew Bridget Rib 7/8 Pullover Knt Noos suéter  Rosa  Rose Taupe   42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B01N59LQVZ/?tag=tolees-21) con 76.33 de descuento por 7.1 EUR (original: 29.99 EUR) en el siguiente enlace!

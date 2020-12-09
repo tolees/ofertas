@@ -14,7 +14,7 @@ currency: EUR
 price: 18.09
 comparePrice: 24.27 EUR
 inStock: true
-prodname: Amazonbasics - Pilas recargables AA  paquete de 12  de 2000 mAh precargadas de AmazonBasics
+prodname: 'Amazonbasics - Pilas recargables AA  paquete de 12  de 2000 mAh precargadas de AmazonBasics'
 ---
 
 Está [Amazonbasics - Pilas recargables AA  paquete de 12  de 2000 mAh precargadas de AmazonBasics](https://www.amazon.es/dp/B07NWWLP5S/?tag=tolees-21) con 25.46 de descuento por 18.09 EUR (original: 24.27 EUR) en el siguiente enlace!

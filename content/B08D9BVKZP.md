@@ -14,7 +14,7 @@ currency: EUR
 price: 2.44
 comparePrice: 4.89 EUR
 inStock: true
-prodname: HELLOYOUNG 1 unid Bolsa Estilo colador de té de Silicona Hierbas aromáticas infusor Filtro difusor Utensilios de Cocina té y café
+prodname: 'HELLOYOUNG 1 unid Bolsa Estilo colador de té de Silicona Hierbas aromáticas infusor Filtro difusor Utensilios de Cocina té y café'
 ---
 
 Tienes [HELLOYOUNG 1 unid Bolsa Estilo colador de té de Silicona Hierbas aromáticas infusor Filtro difusor Utensilios de Cocina té y café](https://www.amazon.es/dp/B08D9BVKZP/?tag=tolees-21) con un 50.10 % de descuento con precio de oferta de 2.44 EUR (original: 4.89 EUR) en el siguiente enlace!

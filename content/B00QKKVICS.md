@@ -14,7 +14,7 @@ currency: EUR
 price: 30
 comparePrice: 60 EUR
 inStock: true
-prodname: Timberland Earthkeepers Oak Bluffs - Sandalias de cuero niño  Color Gris  Talla 37
+prodname: 'Timberland Earthkeepers Oak Bluffs - Sandalias de cuero niño  Color Gris  Talla 37'
 ---
 
 Está [Timberland Earthkeepers Oak Bluffs - Sandalias de cuero niño  Color Gris  Talla 37](https://www.amazon.es/dp/B00QKKVICS/?tag=tolees-21) con 50.00 de descuento por 30 EUR (original: 60 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Mpow Pulsera Actividad Inteligente  Podómetro  Calorías  GPS  Monitor de Sueño  Notificaciones de Mensajes y Llamadas Alarmas  Cámara con Control Remoto
+prodname: 'Mpow Pulsera Actividad Inteligente  Podómetro  Calorías  GPS  Monitor de Sueño  Notificaciones de Mensajes y Llamadas Alarmas  Cámara con Control Remoto'
 ---
 
 Está [Mpow Pulsera Actividad Inteligente  Podómetro  Calorías  GPS  Monitor de Sueño  Notificaciones de Mensajes y Llamadas Alarmas  Cámara con Control Remoto](https://www.amazon.es/dp/B07D5QFMD1/?tag=tolees-21) con 37.05 de descuento por 16.99 EUR (original: 26.99 EUR) en el siguiente enlace!

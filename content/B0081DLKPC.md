@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Beurer MG21 - Aparato de Masaje con infrarrojos  intensidad graduable  3 cabezales distintos  color blanco
+prodname: 'Beurer MG21 - Aparato de Masaje con infrarrojos  intensidad graduable  3 cabezales distintos  color blanco'
 ---
 
 Tienes [Beurer MG21 - Aparato de Masaje con infrarrojos  intensidad graduable  3 cabezales distintos  color blanco](https://www.amazon.es/dp/B0081DLKPC/?tag=tolees-21) con un 43.18 % de descuento con precio de oferta de 16.99 EUR (original: 29.9 EUR) en el siguiente enlace!

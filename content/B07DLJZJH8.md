@@ -14,7 +14,7 @@ currency: EUR
 price: 10.66
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield 5Ba Microestru Organico Gg12  Jersey para Hombre   Gama Grises 43   Medium  Tamaño del Fabricante:M 
+prodname: 'Springfield 5Ba Microestru Organico Gg12  Jersey para Hombre   Gama Grises 43   Medium  Tamaño del Fabricante:M '
 ---
 
 Está [Springfield 5Ba Microestru Organico Gg12  Jersey para Hombre   Gama Grises 43   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLJZJH8/?tag=tolees-21) con 58.98 de descuento por 10.66 EUR (original: 25.99 EUR) en el siguiente enlace!

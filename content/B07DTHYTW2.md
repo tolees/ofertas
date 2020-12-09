@@ -14,7 +14,7 @@ currency: EUR
 price: 5.65
 comparePrice: 13.9 EUR
 inStock: true
-prodname: Hanes Aq0060n Camiseta de Tirantes  06r  Large  Pack de 2 para Hombre
+prodname: 'Hanes Aq0060n Camiseta de Tirantes  06r  Large  Pack de 2 para Hombre'
 ---
 
 Tienes [Hanes Aq0060n Camiseta de Tirantes  06r  Large  Pack de 2 para Hombre](https://www.amazon.es/dp/B07DTHYTW2/?tag=tolees-21) con un 59.35 % de descuento con precio de oferta de 5.65 EUR (original: 13.9 EUR) en el siguiente enlace!

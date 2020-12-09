@@ -14,7 +14,7 @@ currency: EUR
 price: 7.9
 comparePrice: 11.85 EUR
 inStock: true
-prodname: Juguetes sexuales Parejas coqueteo Suministros Glamour Cool Men Fun Eye Mask
+prodname: 'Juguetes sexuales Parejas coqueteo Suministros Glamour Cool Men Fun Eye Mask'
 ---
 
 Está [Juguetes sexuales Parejas coqueteo Suministros Glamour Cool Men Fun Eye Mask](https://www.amazon.es/dp/B07N8XK4MF/?tag=tolees-21) con 33.33 de descuento por 7.9 EUR (original: 11.85 EUR) en el siguiente enlace!

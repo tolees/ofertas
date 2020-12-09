@@ -14,7 +14,7 @@ currency: EUR
 price: 20.95
 comparePrice: 33.18 EUR
 inStock: true
-prodname: Super Hero Adventures- Bólido  Hasbro E6257ES0 
+prodname: 'Super Hero Adventures- Bólido  Hasbro E6257ES0 '
 ---
 
 Ahora mismo tienes [Super Hero Adventures- Bólido  Hasbro E6257ES0 ](https://www.amazon.es/dp/B07XTPKV5B/?tag=tolees-21) a 20.95 EUR (original: 33.18 EUR) (36.86 %  de descuento) en el siguiente enlace!

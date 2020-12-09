@@ -14,7 +14,7 @@ currency: EUR
 price: 179.99
 comparePrice: 249.99 EUR
 inStock: true
-prodname: Roliamte Airtrack Gimnasia 20CM Espesor 2/3/4/5/6/8/10/12M Tumbling Gimnasia Colchoneta Inflable Tumbling Mat Estera de Yoga Taekwondo con Bomba eléctrica
+prodname: 'Roliamte Airtrack Gimnasia 20CM Espesor 2/3/4/5/6/8/10/12M Tumbling Gimnasia Colchoneta Inflable Tumbling Mat Estera de Yoga Taekwondo con Bomba eléctrica'
 ---
 
 Ahora mismo tienes [Roliamte Airtrack Gimnasia 20CM Espesor 2/3/4/5/6/8/10/12M Tumbling Gimnasia Colchoneta Inflable Tumbling Mat Estera de Yoga Taekwondo con Bomba eléctrica](https://www.amazon.es/dp/B07WD2J1TW/?tag=tolees-21) a 179.99 EUR (original: 249.99 EUR) (28.00 %  de descuento) en el siguiente enlace!

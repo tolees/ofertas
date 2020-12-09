@@ -14,7 +14,7 @@ currency: EUR
 price: 0.51
 comparePrice: 1.17 EUR
 inStock: true
-prodname: Anadel - Pila Kodak Ultra AAA lr03 bliste 4 Unidades
+prodname: 'Anadel - Pila Kodak Ultra AAA lr03 bliste 4 Unidades'
 ---
 
 Ahora mismo tienes [Anadel - Pila Kodak Ultra AAA lr03 bliste 4 Unidades](https://www.amazon.es/dp/B00MAK94OG/?tag=tolees-21) a 0.51 EUR (original: 1.17 EUR) (56.41 %  de descuento) en el siguiente enlace!

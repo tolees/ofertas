@@ -14,7 +14,7 @@ currency: EUR
 price: 69.95
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Cluse Reloj Analógico Automático para Mujer con Correa de Acero Inoxidable – CL18112
+prodname: 'Cluse Reloj Analógico Automático para Mujer con Correa de Acero Inoxidable – CL18112'
 ---
 
 Está [Cluse Reloj Analógico Automático para Mujer con Correa de Acero Inoxidable – CL18112](https://www.amazon.es/dp/B019PCWHTK/?tag=tolees-21) con 36.38 de descuento por 69.95 EUR (original: 109.95 EUR) en el siguiente enlace!

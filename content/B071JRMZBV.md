@@ -14,7 +14,7 @@ currency: EUR
 price: 20.15
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Fallout 4 VR
+prodname: 'Fallout 4 VR'
 ---
 
 Está [Fallout 4 VR](https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21) con 66.41 de descuento por 20.15 EUR (original: 59.99 EUR) en el siguiente enlace!

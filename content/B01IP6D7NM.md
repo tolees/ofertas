@@ -14,7 +14,7 @@ currency: EUR
 price: 16.43
 comparePrice: 49.9 EUR
 inStock: true
-prodname: MTNG Attitude - Zapatillas para hombre  color Azul  CARBON NAVY   talla 44
+prodname: 'MTNG Attitude - Zapatillas para hombre  color Azul  CARBON NAVY   talla 44'
 ---
 
 Está [MTNG Attitude - Zapatillas para hombre  color Azul  CARBON NAVY   talla 44](https://www.amazon.es/dp/B01IP6D7NM/?tag=tolees-21) con 67.07 de descuento por 16.43 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 215.25
 comparePrice: 299.9 EUR
 inStock: true
-prodname: Bose Portable Smart Speaker - Altavoz portátil con control de voz Alexa integrado  Color Plata
+prodname: 'Bose Portable Smart Speaker - Altavoz portátil con control de voz Alexa integrado  Color Plata'
 ---
 
 Está [Bose Portable Smart Speaker - Altavoz portátil con control de voz Alexa integrado  Color Plata](https://www.amazon.es/dp/B07W4CM3SC/?tag=tolees-21) con 28.23 de descuento por 215.25 EUR (original: 299.9 EUR) en el siguiente enlace!

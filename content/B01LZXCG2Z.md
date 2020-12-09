@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Vaultskin Eton Armour - Funda de Cuero para iPhone 6 Plus  Marrón 
+prodname: 'Vaultskin Eton Armour - Funda de Cuero para iPhone 6 Plus  Marrón '
 ---
 
 Ahora mismo tienes [Vaultskin Eton Armour - Funda de Cuero para iPhone 6 Plus  Marrón ](https://www.amazon.es/dp/B01LZXCG2Z/?tag=tolees-21) a 19.99 EUR (original: 54.99 EUR) (63.65 %  de descuento) en el siguiente enlace!

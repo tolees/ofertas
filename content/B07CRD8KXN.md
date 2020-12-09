@@ -14,7 +14,7 @@ currency: EUR
 price: 37.27
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans Venus Vaqueros Straight    Denim Wz2   W33/L34 Taille Fabricant 33/34 para Mujer
+prodname: 'Pepe Jeans Venus Vaqueros Straight    Denim Wz2   W33/L34 Taille Fabricant 33/34 para Mujer'
 ---
 
 Ahora mismo tienes [Pepe Jeans Venus Vaqueros Straight    Denim Wz2   W33/L34 Taille Fabricant 33/34 para Mujer](https://www.amazon.es/dp/B07CRD8KXN/?tag=tolees-21) a 37.27 EUR (original: 95 EUR) (60.77 %  de descuento) en el siguiente enlace!

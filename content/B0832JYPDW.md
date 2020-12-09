@@ -14,7 +14,7 @@ currency: EUR
 price: 28.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Hawiton Pijamas Hombre Invierno Manga Larga Pijama para Hombre de Algodón 2 Pieza Pantalones Largo de Rayas
+prodname: 'Hawiton Pijamas Hombre Invierno Manga Larga Pijama para Hombre de Algodón 2 Pieza Pantalones Largo de Rayas'
 ---
 
 Ahora mismo tienes [Hawiton Pijamas Hombre Invierno Manga Larga Pijama para Hombre de Algodón 2 Pieza Pantalones Largo de Rayas](https://www.amazon.es/dp/B0832JYPDW/?tag=tolees-21) a 28.99 EUR (original: 69.99 EUR) (58.58 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 1.96
 comparePrice: 2.96 EUR
 inStock: true
-prodname: 500 piezas almohadilla de fieltro blanco grueso Aislamiento Sellado flexible filtrado de adhesión
+prodname: '500 piezas almohadilla de fieltro blanco grueso Aislamiento Sellado flexible filtrado de adhesión'
 ---
 
 Está [500 piezas almohadilla de fieltro blanco grueso Aislamiento Sellado flexible filtrado de adhesión](https://www.amazon.es/dp/B08B3LNG3G/?tag=tolees-21) con 33.78 de descuento por 1.96 EUR (original: 2.96 EUR) en el siguiente enlace!

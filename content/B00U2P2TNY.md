@@ -14,7 +14,7 @@ currency: EUR
 price: 16.19
 comparePrice: 31.9 EUR
 inStock: true
-prodname: Kit inicial recién nacido Medela con complementos para la lactancia materna
+prodname: 'Kit inicial recién nacido Medela con complementos para la lactancia materna'
 ---
 
 Ahora mismo tienes [Kit inicial recién nacido Medela con complementos para la lactancia materna](https://www.amazon.es/dp/B00U2P2TNY/?tag=tolees-21) a 16.19 EUR (original: 31.9 EUR) (49.25 %  de descuento) en el siguiente enlace!

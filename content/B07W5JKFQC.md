@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 40.99 EUR
 inStock: true
-prodname: Logitech G203 LIGHTSYNC Ratón con iluminación RGB personalizable para gaming  6 botones programables  sensor para gaming  seguimiento de hasta 8.000 dpi  peso ligero G203 2ª Gen. Negro
+prodname: 'Logitech G203 LIGHTSYNC Ratón con iluminación RGB personalizable para gaming  6 botones programables  sensor para gaming  seguimiento de hasta 8.000 dpi  peso ligero G203 2ª Gen. Negro'
 ---
 
 Ahora mismo tienes [Logitech G203 LIGHTSYNC Ratón con iluminación RGB personalizable para gaming  6 botones programables  sensor para gaming  seguimiento de hasta 8.000 dpi  peso ligero G203 2ª Gen. Negro](https://www.amazon.es/dp/B07W5JKFQC/?tag=tolees-21) a 29.99 EUR (original: 40.99 EUR) (26.84 %  de descuento) en el siguiente enlace!

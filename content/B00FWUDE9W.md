@@ -14,7 +14,7 @@ currency: EUR
 price: 711.1
 comparePrice: 1200.0 EUR
 inStock: true
-prodname: Sony Alpha ILCE-7 - Cámara Evil de 24.3 MP  Full HD  sólo Cuerpo  Negro
+prodname: 'Sony Alpha ILCE-7 - Cámara Evil de 24.3 MP  Full HD  sólo Cuerpo  Negro'
 ---
 
 Tienes [Sony Alpha ILCE-7 - Cámara Evil de 24.3 MP  Full HD  sólo Cuerpo  Negro](https://www.amazon.es/dp/B00FWUDE9W/?tag=tolees-21) con un 40.74 % de descuento con precio de oferta de 711.1 EUR (original: 1200.0 EUR) en el siguiente enlace!

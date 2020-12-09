@@ -14,7 +14,7 @@ currency: EUR
 price: 10.92
 comparePrice: 29.95 EUR
 inStock: true
-prodname: MAMALICIOUS Mlaine L/s Jersey Top Mix  Camiseta de manchas largas premamá para Mujer  Gris  Medium Grey Melange   38  Talla fabricante:Medium 
+prodname: 'MAMALICIOUS Mlaine L/s Jersey Top Mix  Camiseta de manchas largas premamá para Mujer  Gris  Medium Grey Melange   38  Talla fabricante:Medium '
 ---
 
 Está [MAMALICIOUS Mlaine L/s Jersey Top Mix  Camiseta de manchas largas premamá para Mujer  Gris  Medium Grey Melange   38  Talla fabricante:Medium ](https://www.amazon.es/dp/B01MRF7BV6/?tag=tolees-21) con 63.54 de descuento por 10.92 EUR (original: 29.95 EUR) en el siguiente enlace!

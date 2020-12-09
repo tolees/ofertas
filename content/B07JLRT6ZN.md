@@ -14,7 +14,7 @@ currency: EUR
 price: 49
 comparePrice: 199 EUR
 inStock: true
-prodname: Juego de Ollas  Batería de cocina de acero inoxidable 8 Piezas
+prodname: 'Juego de Ollas  Batería de cocina de acero inoxidable 8 Piezas'
 ---
 
 Ahora mismo tienes [Juego de Ollas  Batería de cocina de acero inoxidable 8 Piezas](https://www.amazon.es/dp/B07JLRT6ZN/?tag=tolees-21) a 49 EUR (original: 199 EUR) (75.38 %  de descuento) en el siguiente enlace!

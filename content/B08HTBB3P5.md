@@ -14,7 +14,7 @@ currency: EUR
 price: 6.5
 comparePrice: 12.99 EUR
 inStock: true
-prodname: El doctor Mabuse - El gran jugador / infierno [Blu-ray]
+prodname: 'El doctor Mabuse - El gran jugador / infierno [Blu-ray]'
 ---
 
 Está [El doctor Mabuse - El gran jugador / infierno [Blu-ray]](https://www.amazon.es/dp/B08HTBB3P5/?tag=tolees-21) con 49.96 de descuento por 6.5 EUR (original: 12.99 EUR) en el siguiente enlace!

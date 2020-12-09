@@ -14,7 +14,7 @@ currency: EUR
 price: 17.52
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Palladium Retro Lt SY U  Zapatillas Altas Unisex Adulto  Gris  Smoked Pearl R92   36 EU
+prodname: 'Palladium Retro Lt SY U  Zapatillas Altas Unisex Adulto  Gris  Smoked Pearl R92   36 EU'
 ---
 
 Ahora mismo tienes [Palladium Retro Lt SY U  Zapatillas Altas Unisex Adulto  Gris  Smoked Pearl R92   36 EU](https://www.amazon.es/dp/B07FHG1J9P/?tag=tolees-21) a 17.52 EUR (original: 84.95 EUR) (79.38 %  de descuento) en el siguiente enlace!

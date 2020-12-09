@@ -14,7 +14,7 @@ currency: EUR
 price: 0.99
 comparePrice: 1.79 EUR
 inStock: true
-prodname: Friskies - Alimento para Perros Snacks Variety 126 g
+prodname: 'Friskies - Alimento para Perros Snacks Variety 126 g'
 ---
 
 Está [Friskies - Alimento para Perros Snacks Variety 126 g](https://www.amazon.es/dp/B00X9Z8IOI/?tag=tolees-21) con 44.69 de descuento por 0.99 EUR (original: 1.79 EUR) en el siguiente enlace!

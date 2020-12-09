@@ -14,7 +14,7 @@ currency: EUR
 price: 25.6
 comparePrice: 54.99 EUR
 inStock: true
-prodname: JACK & JONES 12134002 Bóxer   Black Detail:Black & White   XX-Large  Pack de 7 para Hombre
+prodname: 'JACK & JONES 12134002 Bóxer   Black Detail:Black & White   XX-Large  Pack de 7 para Hombre'
 ---
 
 Ahora mismo tienes [JACK & JONES 12134002 Bóxer   Black Detail:Black & White   XX-Large  Pack de 7 para Hombre](https://www.amazon.es/dp/B072FRKRTP/?tag=tolees-21) a 25.6 EUR (original: 54.99 EUR) (53.45 %  de descuento) en el siguiente enlace!

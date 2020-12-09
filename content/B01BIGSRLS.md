@@ -14,7 +14,7 @@ currency: EUR
 price: 266.27
 comparePrice: 361.93 EUR
 inStock: true
-prodname: Western Digital Expert Series EX2 Ultra My Cloud - Almacenamiento en Red  8TB
+prodname: 'Western Digital Expert Series EX2 Ultra My Cloud - Almacenamiento en Red  8TB'
 ---
 
 Está [Western Digital Expert Series EX2 Ultra My Cloud - Almacenamiento en Red  8TB](https://www.amazon.es/dp/B01BIGSRLS/?tag=tolees-21) con 26.43 de descuento por 266.27 EUR (original: 361.93 EUR) en el siguiente enlace!

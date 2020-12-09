@@ -14,7 +14,7 @@ currency: EUR
 price: 173.99
 comparePrice: 234.44 EUR
 inStock: true
-prodname: Mannesmann - M29077 - Carro de aluminio para herramientas  equipado  159 piezas.
+prodname: 'Mannesmann - M29077 - Carro de aluminio para herramientas  equipado  159 piezas.'
 ---
 
 Tienes [Mannesmann - M29077 - Carro de aluminio para herramientas  equipado  159 piezas.](https://www.amazon.es/dp/B005VH3IYM/?tag=tolees-21) con un 25.78 % de descuento con precio de oferta de 173.99 EUR (original: 234.44 EUR) en el siguiente enlace!

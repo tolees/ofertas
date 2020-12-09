@@ -14,7 +14,7 @@ currency: EUR
 price: 27.52
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Funko Figura Pop Darth Vader Gold - Star Wars
+prodname: 'Funko Figura Pop Darth Vader Gold - Star Wars'
 ---
 
 Ahora mismo tienes [Funko Figura Pop Darth Vader Gold - Star Wars](https://www.amazon.es/dp/B07PGLBNRD/?tag=tolees-21) a 27.52 EUR (original: 39.99 EUR) (31.18 %  de descuento) en el siguiente enlace!

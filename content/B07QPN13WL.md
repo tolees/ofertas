@@ -14,7 +14,7 @@ currency: EUR
 price: 19.19
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Auralum Grifo de cocina con Giro de 360°  Caño alto  Diseño Elegante Grifos de Fregadero Monomando en Latón y Cromado para Agua Caliente y Fría
+prodname: 'Auralum Grifo de cocina con Giro de 360°  Caño alto  Diseño Elegante Grifos de Fregadero Monomando en Latón y Cromado para Agua Caliente y Fría'
 ---
 
 Tienes [Auralum Grifo de cocina con Giro de 360°  Caño alto  Diseño Elegante Grifos de Fregadero Monomando en Latón y Cromado para Agua Caliente y Fría](https://www.amazon.es/dp/B07QPN13WL/?tag=tolees-21) con un 36.01 % de descuento con precio de oferta de 19.19 EUR (original: 29.99 EUR) en el siguiente enlace!

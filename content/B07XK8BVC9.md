@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 71.99 EUR
 inStock: true
-prodname: Pack 1-3: Twin Peaks  BD  [Blu-ray]
+prodname: 'Pack 1-3: Twin Peaks  BD  [Blu-ray]'
 ---
 
 Ahora mismo tienes [Pack 1-3: Twin Peaks  BD  [Blu-ray]](https://www.amazon.es/dp/B07XK8BVC9/?tag=tolees-21) a 34.99 EUR (original: 71.99 EUR) (51.40 %  de descuento) en el siguiente enlace!

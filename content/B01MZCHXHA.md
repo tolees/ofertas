@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: BESTEK Cargador USB Cargador Escritorio con 4 puertos 5V/6A Incluye Un Puerto Tipo-C para Viajar Cargador de Pared para Iphone y Movil Color Blanco
+prodname: 'BESTEK Cargador USB Cargador Escritorio con 4 puertos 5V/6A Incluye Un Puerto Tipo-C para Viajar Cargador de Pared para Iphone y Movil Color Blanco'
 ---
 
 Ahora mismo tienes [BESTEK Cargador USB Cargador Escritorio con 4 puertos 5V/6A Incluye Un Puerto Tipo-C para Viajar Cargador de Pared para Iphone y Movil Color Blanco](https://www.amazon.es/dp/B01MZCHXHA/?tag=tolees-21) a 5.99 EUR (original: 14.99 EUR) (60.04 %  de descuento) en el siguiente enlace!

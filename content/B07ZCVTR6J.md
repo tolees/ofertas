@@ -14,7 +14,7 @@ currency: EUR
 price: 10.16
 comparePrice: 13.84 EUR
 inStock: true
-prodname: Lámpara de noche portátil proyector de música  proyector de luz Star Ocean con 16 colores + 8 modelos y proyección de 360 grados de luna para niños  con temporizador  música  mando a distancia y batería recargable
+prodname: 'Lámpara de noche portátil proyector de música  proyector de luz Star Ocean con 16 colores + 8 modelos y proyección de 360 grados de luna para niños  con temporizador  música  mando a distancia y batería recargable'
 ---
 
 Está [Lámpara de noche portátil proyector de música  proyector de luz Star Ocean con 16 colores + 8 modelos y proyección de 360 grados de luna para niños  con temporizador  música  mando a distancia y batería recargable](https://www.amazon.es/dp/B07ZCVTR6J/?tag=tolees-21) con 26.59 de descuento por 10.16 EUR (original: 13.84 EUR) en el siguiente enlace!

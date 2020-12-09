@@ -14,7 +14,7 @@ currency: EUR
 price: 38.24
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers ROVINA Clean Sheen  Zapatillas Mujer  Negro Black Mesh Leather Durapatent Trim Blk  39
+prodname: 'Skechers ROVINA Clean Sheen  Zapatillas Mujer  Negro Black Mesh Leather Durapatent Trim Blk  39'
 ---
 
 Está [Skechers ROVINA Clean Sheen  Zapatillas Mujer  Negro Black Mesh Leather Durapatent Trim Blk  39](https://www.amazon.es/dp/B07VXK64RF/?tag=tolees-21) con 45.33 de descuento por 38.24 EUR (original: 69.95 EUR) en el siguiente enlace!

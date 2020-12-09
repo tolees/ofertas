@@ -14,7 +14,7 @@ currency: EUR
 price: 130.0
 comparePrice: 209.0 EUR
 inStock: true
-prodname: Candy CH63CC Encimera vitrocerámica 3 zonas de cocción  ancho 60 cm  10 niveles potencia  5.5 W  Negro
+prodname: 'Candy CH63CC Encimera vitrocerámica 3 zonas de cocción  ancho 60 cm  10 niveles potencia  5.5 W  Negro'
 ---
 
 Tienes [Candy CH63CC Encimera vitrocerámica 3 zonas de cocción  ancho 60 cm  10 niveles potencia  5.5 W  Negro](https://www.amazon.es/dp/B07BYCTKBN/?tag=tolees-21) con un 37.80 % de descuento con precio de oferta de 130.0 EUR (original: 209.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Under Armour Tech 3In 2 Pack Ropa Interior  Hombre  Azul  Royal/Academy 400   XL
+prodname: 'Under Armour Tech 3In 2 Pack Ropa Interior  Hombre  Azul  Royal/Academy 400   XL'
 ---
 
 Está [Under Armour Tech 3In 2 Pack Ropa Interior  Hombre  Azul  Royal/Academy 400   XL](https://www.amazon.es/dp/B07CZJ7DF1/?tag=tolees-21) con 42.87 de descuento por 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.17
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Kingston DataTraveler 100 G3 -DT100G3/128GB  USB 3.0  Flash Drive  128 GB  Negro
+prodname: 'Kingston DataTraveler 100 G3 -DT100G3/128GB  USB 3.0  Flash Drive  128 GB  Negro'
 ---
 
 Ahora mismo tienes [Kingston DataTraveler 100 G3 -DT100G3/128GB  USB 3.0  Flash Drive  128 GB  Negro](https://www.amazon.es/dp/B016BEPP9O/?tag=tolees-21) a 15.17 EUR (original: 22.99 EUR) (34.01 %  de descuento) en el siguiente enlace!

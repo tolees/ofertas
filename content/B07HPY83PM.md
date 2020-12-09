@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: A Silent Voice Blu-Ray Edición Coleccionistas [Blu-ray]
+prodname: 'A Silent Voice Blu-Ray Edición Coleccionistas [Blu-ray]'
 ---
 
 Tienes [A Silent Voice Blu-Ray Edición Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B07HPY83PM/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

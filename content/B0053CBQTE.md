@@ -14,7 +14,7 @@ currency: EUR
 price: 6.76
 comparePrice: 13.21 EUR
 inStock: true
-prodname: Los mundos de Coraline [Blu-ray]
+prodname: 'Los mundos de Coraline [Blu-ray]'
 ---
 
 Tienes [Los mundos de Coraline [Blu-ray]](https://www.amazon.es/dp/B0053CBQTE/?tag=tolees-21) con un 48.83 % de descuento con precio de oferta de 6.76 EUR (original: 13.21 EUR) en el siguiente enlace!

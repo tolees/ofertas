@@ -14,7 +14,7 @@ currency: EUR
 price: 47.61
 comparePrice: 84.95 EUR
 inStock: true
-prodname: New Balance 373 Core Zapatillas Bajas  Hombre  Verde  Olive   42 EU
+prodname: 'New Balance 373 Core Zapatillas Bajas  Hombre  Verde  Olive   42 EU'
 ---
 
 Está [New Balance 373 Core Zapatillas Bajas  Hombre  Verde  Olive   42 EU](https://www.amazon.es/dp/B01M22HTUO/?tag=tolees-21) con 43.96 de descuento por 47.61 EUR (original: 84.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Aicook Cafetera  Cafetera de Goteo  Pantalla Táctil con Reloj  Cafetera Goteo Programable para 12 Tazas  Máquina de café Filtro Permanente  Tanque de Agua DE 51 oz/ 1.5 litros/ 12 Tazas/ 900W  Negro
+prodname: 'Aicook Cafetera  Cafetera de Goteo  Pantalla Táctil con Reloj  Cafetera Goteo Programable para 12 Tazas  Máquina de café Filtro Permanente  Tanque de Agua DE 51 oz/ 1.5 litros/ 12 Tazas/ 900W  Negro'
 ---
 
 Ahora mismo tienes [Aicook Cafetera  Cafetera de Goteo  Pantalla Táctil con Reloj  Cafetera Goteo Programable para 12 Tazas  Máquina de café Filtro Permanente  Tanque de Agua DE 51 oz/ 1.5 litros/ 12 Tazas/ 900W  Negro](https://www.amazon.es/dp/B07QQZ6K2D/?tag=tolees-21) a 35.99 EUR (original: 59.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

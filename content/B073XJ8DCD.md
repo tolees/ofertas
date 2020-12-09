@@ -14,7 +14,7 @@ currency: EUR
 price: 54.65
 comparePrice: 115.29 EUR
 inStock: true
-prodname: Timberland Kenetic  Botas Chukka para Hombre  Negro  Black   44 EU
+prodname: 'Timberland Kenetic  Botas Chukka para Hombre  Negro  Black   44 EU'
 ---
 
 Ahora mismo tienes [Timberland Kenetic  Botas Chukka para Hombre  Negro  Black   44 EU](https://www.amazon.es/dp/B073XJ8DCD/?tag=tolees-21) a 54.65 EUR (original: 115.29 EUR) (52.60 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.59
 comparePrice: 29.9 EUR
 inStock: true
-prodname: BaByliss C325E Tenacilla de pelo de 25 mm  10 ajustes de temperatura  moldeador de pelo  cable profesional giratorio  recubrimiento Sublim Touch con punta fría de agarre
+prodname: 'BaByliss C325E Tenacilla de pelo de 25 mm  10 ajustes de temperatura  moldeador de pelo  cable profesional giratorio  recubrimiento Sublim Touch con punta fría de agarre'
 ---
 
 Tienes [BaByliss C325E Tenacilla de pelo de 25 mm  10 ajustes de temperatura  moldeador de pelo  cable profesional giratorio  recubrimiento Sublim Touch con punta fría de agarre](https://www.amazon.es/dp/B007BJEKKE/?tag=tolees-21) con un 37.83 % de descuento con precio de oferta de 18.59 EUR (original: 29.9 EUR) en el siguiente enlace!

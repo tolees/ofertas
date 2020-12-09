@@ -14,7 +14,7 @@ currency: EUR
 price: 21.25
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Breville VST051X - Sandwichera con platos desmontables
+prodname: 'Breville VST051X - Sandwichera con platos desmontables'
 ---
 
 Está [Breville VST051X - Sandwichera con platos desmontables](https://www.amazon.es/dp/B00FLJEX26/?tag=tolees-21) con 28.93 de descuento por 21.25 EUR (original: 29.9 EUR) en el siguiente enlace!

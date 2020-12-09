@@ -14,7 +14,7 @@ currency: EUR
 price: 40.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: BRIKSMAX Kit de Iluminación Led para Lego Architecture París  Compatible con Ladrillos de Construcción Lego Modelo 21044  Juego de Legos no Incluido
+prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Architecture París  Compatible con Ladrillos de Construcción Lego Modelo 21044  Juego de Legos no Incluido'
 ---
 
 Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Architecture París  Compatible con Ladrillos de Construcción Lego Modelo 21044  Juego de Legos no Incluido](https://www.amazon.es/dp/B07SQ1BS7X/?tag=tolees-21) a 40.99 EUR (original: 69.99 EUR) (41.43 %  de descuento) en el siguiente enlace!

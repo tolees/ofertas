@@ -14,7 +14,7 @@ currency: EUR
 price: 34.95
 comparePrice: 61.92 EUR
 inStock: true
-prodname: Urban Classics Hooded Puffer Jacket  Chaqueta para Hombre  Azul Marino L
+prodname: 'Urban Classics Hooded Puffer Jacket  Chaqueta para Hombre  Azul Marino L'
 ---
 
 Ahora mismo tienes [Urban Classics Hooded Puffer Jacket  Chaqueta para Hombre  Azul Marino L](https://www.amazon.es/dp/B07DQ4BTVV/?tag=tolees-21) a 34.95 EUR (original: 61.92 EUR) (43.56 %  de descuento) en el siguiente enlace!

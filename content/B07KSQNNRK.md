@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Inyector PoE  Adaptador PoE Alimentación a Través de Ethernet 48V0.5A 802.3af con Enchufe de La UE para Cámara IP Hikvision / Dahua PoE
+prodname: 'Inyector PoE  Adaptador PoE Alimentación a Través de Ethernet 48V0.5A 802.3af con Enchufe de La UE para Cámara IP Hikvision / Dahua PoE'
 ---
 
 Tienes [Inyector PoE  Adaptador PoE Alimentación a Través de Ethernet 48V0.5A 802.3af con Enchufe de La UE para Cámara IP Hikvision / Dahua PoE](https://www.amazon.es/dp/B07KSQNNRK/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

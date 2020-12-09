@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  XX-Large  Dark Green 
+prodname: 'Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  XX-Large  Dark Green '
 ---
 
 Tienes [Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  XX-Large  Dark Green ](https://www.amazon.es/dp/B07L5HYKLJ/?tag=tolees-21) con un 57.57 % de descuento con precio de oferta de 16.95 EUR (original: 39.95 EUR) en el siguiente enlace!

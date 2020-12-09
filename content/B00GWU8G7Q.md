@@ -14,7 +14,7 @@ currency: EUR
 price: 148.61
 comparePrice: 220 EUR
 inStock: true
-prodname: The North Face Rolling Thunder  Mochila con ruedas  Negro  Tnf Black   49 cm/33L
+prodname: 'The North Face Rolling Thunder  Mochila con ruedas  Negro  Tnf Black   49 cm/33L'
 ---
 
 Tienes [The North Face Rolling Thunder  Mochila con ruedas  Negro  Tnf Black   49 cm/33L](https://www.amazon.es/dp/B00GWU8G7Q/?tag=tolees-21) con un 32.45 % de descuento con precio de oferta de 148.61 EUR (original: 220 EUR) en el siguiente enlace!

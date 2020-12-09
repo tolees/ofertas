@@ -14,7 +14,7 @@ currency: EUR
 price: 85.0
 comparePrice: 129.99 EUR
 inStock: true
-prodname: POWER GUIDANCE Barras Paralelas para Entrenamiento Ajustable para Calistenia  Gimnasia  Fitness
+prodname: 'POWER GUIDANCE Barras Paralelas para Entrenamiento Ajustable para Calistenia  Gimnasia  Fitness'
 ---
 
 Ahora mismo tienes [POWER GUIDANCE Barras Paralelas para Entrenamiento Ajustable para Calistenia  Gimnasia  Fitness](https://www.amazon.es/dp/B07MT5NDNF/?tag=tolees-21) a 85.0 EUR (original: 129.99 EUR) (34.61 %  de descuento) en el siguiente enlace!

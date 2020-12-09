@@ -14,7 +14,7 @@ currency: EUR
 price: 83.95
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-STAR RAW D-staq 3d Skinny  Vaqueros skinny Hombre  Azul  Dark Aged   W31/L30  Talla del fabricante: 31/30 
+prodname: 'G-STAR RAW D-staq 3d Skinny  Vaqueros skinny Hombre  Azul  Dark Aged   W31/L30  Talla del fabricante: 31/30 '
 ---
 
 Ahora mismo tienes [G-STAR RAW D-staq 3d Skinny  Vaqueros skinny Hombre  Azul  Dark Aged   W31/L30  Talla del fabricante: 31/30 ](https://www.amazon.es/dp/B0752NQQRM/?tag=tolees-21) a 83.95 EUR (original: 129.95 EUR) (35.40 %  de descuento) en el siguiente enlace!

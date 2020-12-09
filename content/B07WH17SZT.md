@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Ancestors Legacy - Conqueror s Edition
+prodname: 'Ancestors Legacy - Conqueror s Edition'
 ---
 
 Tienes [Ancestors Legacy - Conqueror s Edition](https://www.amazon.es/dp/B07WH17SZT/?tag=tolees-21) con un 50.11 % de descuento con precio de oferta de 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!

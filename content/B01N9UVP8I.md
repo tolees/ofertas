@@ -14,7 +14,7 @@ currency: EUR
 price: 63.32
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox UOMO Symbol B  Zapatos de Cordones para Hombre  Negro  39 EU
+prodname: 'Geox UOMO Symbol B  Zapatos de Cordones para Hombre  Negro  39 EU'
 ---
 
 Está [Geox UOMO Symbol B  Zapatos de Cordones para Hombre  Negro  39 EU](https://www.amazon.es/dp/B01N9UVP8I/?tag=tolees-21) con 36.62 de descuento por 63.32 EUR (original: 99.9 EUR) en el siguiente enlace!

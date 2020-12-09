@@ -14,7 +14,7 @@ currency: EUR
 price: 23.92
 comparePrice: 40 EUR
 inStock: true
-prodname: New Balance 570  Zapatillas Deportivas para Interior Unisex Niños  Negro White BW Black  32 EU
+prodname: 'New Balance 570  Zapatillas Deportivas para Interior Unisex Niños  Negro White BW Black  32 EU'
 ---
 
 Ahora mismo tienes [New Balance 570  Zapatillas Deportivas para Interior Unisex Niños  Negro White BW Black  32 EU](https://www.amazon.es/dp/B07DJ3R7CS/?tag=tolees-21) a 23.92 EUR (original: 40 EUR) (40.20 %  de descuento) en el siguiente enlace!

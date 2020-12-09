@@ -14,7 +14,7 @@ currency: EUR
 price: 58.0
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Reloj Tommy Hilfiger - Hombre 1791322
+prodname: 'Reloj Tommy Hilfiger - Hombre 1791322'
 ---
 
 Tienes [Reloj Tommy Hilfiger - Hombre 1791322](https://www.amazon.es/dp/B01LWKCVOS/?tag=tolees-21) con un 51.26 % de descuento con precio de oferta de 58.0 EUR (original: 119.0 EUR) en el siguiente enlace!

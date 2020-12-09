@@ -14,7 +14,7 @@ currency: EUR
 price: 29.22
 comparePrice: 65.95 EUR
 inStock: true
-prodname: Vac-U-Lock Luxe Harnesss With Plug Dildo para Strap-On - 200 gr
+prodname: 'Vac-U-Lock Luxe Harnesss With Plug Dildo para Strap-On - 200 gr'
 ---
 
 Está [Vac-U-Lock Luxe Harnesss With Plug Dildo para Strap-On - 200 gr](https://www.amazon.es/dp/B00DHLRM9G/?tag=tolees-21) con 55.69 de descuento por 29.22 EUR (original: 65.95 EUR) en el siguiente enlace!

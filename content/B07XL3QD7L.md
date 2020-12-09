@@ -14,7 +14,7 @@ currency: EUR
 price: 134.19
 comparePrice: 239.0 EUR
 inStock: true
-prodname: Huawei Watch GT 2 Sport - Smartwatch con Caja de 42 mm  Hasta 1 Semana de Batería  Pantalla táctil AMOLED 1.2"  GPS  15 Modos Deportivos  Pantalla 3D de Cristal  Gris  Lake Cyan 
+prodname: 'Huawei Watch GT 2 Sport - Smartwatch con Caja de 42 mm  Hasta 1 Semana de Batería  Pantalla táctil AMOLED 1.2"  GPS  15 Modos Deportivos  Pantalla 3D de Cristal  Gris  Lake Cyan '
 ---
 
 Tienes [Huawei Watch GT 2 Sport - Smartwatch con Caja de 42 mm  Hasta 1 Semana de Batería  Pantalla táctil AMOLED 1.2"  GPS  15 Modos Deportivos  Pantalla 3D de Cristal  Gris  Lake Cyan ](https://www.amazon.es/dp/B07XL3QD7L/?tag=tolees-21) con un 43.85 % de descuento con precio de oferta de 134.19 EUR (original: 239.0 EUR) en el siguiente enlace!

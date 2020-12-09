@@ -14,7 +14,7 @@ currency: EUR
 price: 39
 comparePrice: 65 EUR
 inStock: true
-prodname: Timberland Union Wharf 2-Eye Oxford  Mocasines para Hombre  Blanco  Wind Chime 4we   41 EU
+prodname: 'Timberland Union Wharf 2-Eye Oxford  Mocasines para Hombre  Blanco  Wind Chime 4we   41 EU'
 ---
 
 Ahora mismo tienes [Timberland Union Wharf 2-Eye Oxford  Mocasines para Hombre  Blanco  Wind Chime 4we   41 EU](https://www.amazon.es/dp/B07FH9QLXH/?tag=tolees-21) a 39 EUR (original: 65 EUR) (40.00 %  de descuento) en el siguiente enlace!

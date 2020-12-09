@@ -14,7 +14,7 @@ currency: EUR
 price: 133.65
 comparePrice: 260 EUR
 inStock: true
-prodname: Fendi Brillengestelle FF 0072/F NZO/14-53-14-140 Monturas de gafas  Beige  53.0 para Mujer
+prodname: 'Fendi Brillengestelle FF 0072/F NZO/14-53-14-140 Monturas de gafas  Beige  53.0 para Mujer'
 ---
 
 Ahora mismo tienes [Fendi Brillengestelle FF 0072/F NZO/14-53-14-140 Monturas de gafas  Beige  53.0 para Mujer](https://www.amazon.es/dp/B01G5HW1US/?tag=tolees-21) a 133.65 EUR (original: 260 EUR) (48.60 %  de descuento) en el siguiente enlace!

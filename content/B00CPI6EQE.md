@@ -14,7 +14,7 @@ currency: EUR
 price: 13.18
 comparePrice: 49 EUR
 inStock: true
-prodname: Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  C26 Mushroom   33 EU
+prodname: 'Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  C26 Mushroom   33 EU'
 ---
 
 Ahora mismo tienes [Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  C26 Mushroom   33 EU](https://www.amazon.es/dp/B00CPI6EQE/?tag=tolees-21) a 13.18 EUR (original: 49 EUR) (73.10 %  de descuento) en el siguiente enlace!

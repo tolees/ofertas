@@ -14,7 +14,7 @@ currency: EUR
 price: 49.46
 comparePrice: 130 EUR
 inStock: true
-prodname: The North Face Kids TNF Sudaderas  Niñas  Blue Wing Teal  S
+prodname: 'The North Face Kids TNF Sudaderas  Niñas  Blue Wing Teal  S'
 ---
 
 Ahora mismo tienes [The North Face Kids TNF Sudaderas  Niñas  Blue Wing Teal  S](https://www.amazon.es/dp/B078QTCHJC/?tag=tolees-21) a 49.46 EUR (original: 130 EUR) (61.95 %  de descuento) en el siguiente enlace!

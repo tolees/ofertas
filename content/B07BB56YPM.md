@@ -14,7 +14,7 @@ currency: EUR
 price: 10.49
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Iris & Lilly Sujetador de Triángulo con Encaje Mujer  Pack de 2  Negro  Black Beauty   L
+prodname: 'Iris & Lilly Sujetador de Triángulo con Encaje Mujer  Pack de 2  Negro  Black Beauty   L'
 ---
 
 Tienes [Iris & Lilly Sujetador de Triángulo con Encaje Mujer  Pack de 2  Negro  Black Beauty   L](https://www.amazon.es/dp/B07BB56YPM/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

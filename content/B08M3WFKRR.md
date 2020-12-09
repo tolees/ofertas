@@ -14,7 +14,7 @@ currency: EUR
 price: 15.15
 comparePrice: 22.78 EUR
 inStock: true
-prodname: Longspeed Cabeza de Aceite de Peluquero eléctrica Cizalla de Empuje eléctrica Cizalla de Empuje eléctrica Afeitado Tallado Corte de Pelo USB Cabeza de Aceite eléctrica Tijeras - Bronce
+prodname: 'Longspeed Cabeza de Aceite de Peluquero eléctrica Cizalla de Empuje eléctrica Cizalla de Empuje eléctrica Afeitado Tallado Corte de Pelo USB Cabeza de Aceite eléctrica Tijeras - Bronce'
 ---
 
 Tienes [Longspeed Cabeza de Aceite de Peluquero eléctrica Cizalla de Empuje eléctrica Cizalla de Empuje eléctrica Afeitado Tallado Corte de Pelo USB Cabeza de Aceite eléctrica Tijeras - Bronce](https://www.amazon.es/dp/B08M3WFKRR/?tag=tolees-21) con un 33.49 % de descuento con precio de oferta de 15.15 EUR (original: 22.78 EUR) en el siguiente enlace!

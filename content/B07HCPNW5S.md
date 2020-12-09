@@ -14,7 +14,7 @@ currency: EUR
 price: 30.64
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Skechers Escape Plan 2.0  Zapatillas para Hombre  Gris  Charcoal Black Ccbk   46 EU
+prodname: 'Skechers Escape Plan 2.0  Zapatillas para Hombre  Gris  Charcoal Black Ccbk   46 EU'
 ---
 
 Está [Skechers Escape Plan 2.0  Zapatillas para Hombre  Gris  Charcoal Black Ccbk   46 EU](https://www.amazon.es/dp/B07HCPNW5S/?tag=tolees-21) con 61.68 de descuento por 30.64 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.38
 comparePrice: 9.12 EUR
 inStock: true
-prodname: Lavazza Café en Grano Caffè Espresso  Paquete de 500 g
+prodname: 'Lavazza Café en Grano Caffè Espresso  Paquete de 500 g'
 ---
 
 Tienes [Lavazza Café en Grano Caffè Espresso  Paquete de 500 g](https://www.amazon.es/dp/B007MAMSR4/?tag=tolees-21) con un 41.01 % de descuento con precio de oferta de 5.38 EUR (original: 9.12 EUR) en el siguiente enlace!

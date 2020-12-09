@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Rowenta CF5820 Power Straight Cepillo especial para cabello rizado  con generador de iones y temperatura regulable hasta 200º
+prodname: 'Rowenta CF5820 Power Straight Cepillo especial para cabello rizado  con generador de iones y temperatura regulable hasta 200º'
 ---
 
 Tienes [Rowenta CF5820 Power Straight Cepillo especial para cabello rizado  con generador de iones y temperatura regulable hasta 200º](https://www.amazon.es/dp/B07C7FMN5X/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

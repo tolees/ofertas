@@ -14,7 +14,7 @@ currency: EUR
 price: 17.24
 comparePrice: 22.99 EUR
 inStock: true
-prodname: B.K.Licht - LED Lámpara Escritorio  5W con USB  7 Niveles de Brillo  5 Temperaturas de Color  Control Táctil  Blanco
+prodname: 'B.K.Licht - LED Lámpara Escritorio  5W con USB  7 Niveles de Brillo  5 Temperaturas de Color  Control Táctil  Blanco'
 ---
 
 Está [B.K.Licht - LED Lámpara Escritorio  5W con USB  7 Niveles de Brillo  5 Temperaturas de Color  Control Táctil  Blanco](https://www.amazon.es/dp/B01HTO7WOQ/?tag=tolees-21) con 25.01 de descuento por 17.24 EUR (original: 22.99 EUR) en el siguiente enlace!

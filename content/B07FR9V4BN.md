@@ -14,7 +14,7 @@ currency: EUR
 price: 33.95
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Clarks Bright Deja  Mules para Mujer  Gris  Grey Leather-   38 EU
+prodname: 'Clarks Bright Deja  Mules para Mujer  Gris  Grey Leather-   38 EU'
 ---
 
 Ahora mismo tienes [Clarks Bright Deja  Mules para Mujer  Gris  Grey Leather-   38 EU](https://www.amazon.es/dp/B07FR9V4BN/?tag=tolees-21) a 33.95 EUR (original: 89.95 EUR) (62.26 %  de descuento) en el siguiente enlace!

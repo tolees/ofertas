@@ -14,7 +14,7 @@ currency: EUR
 price: 9.89
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Dermacol Maquillahe de Larga Duración con Extractos de Caviar y Corrector - 30 ml
+prodname: 'Dermacol Maquillahe de Larga Duración con Extractos de Caviar y Corrector - 30 ml'
 ---
 
 Está [Dermacol Maquillahe de Larga Duración con Extractos de Caviar y Corrector - 30 ml](https://www.amazon.es/dp/B01I7UHOG2/?tag=tolees-21) con 41.79 de descuento por 9.89 EUR (original: 16.99 EUR) en el siguiente enlace!

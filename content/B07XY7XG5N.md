@@ -14,7 +14,7 @@ currency: EUR
 price: 149.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: OnePlus N100 Midnight Frost  Escarcha de Medianoche  | Pantalla LCD HD + de 6.52"| 4GB RAM + 64GB de Almacenamiento | Triple cámara | Batería de 5000 mAh | Dual SIM | 4G
+prodname: 'OnePlus N100 Midnight Frost  Escarcha de Medianoche  | Pantalla LCD HD + de 6.52"| 4GB RAM + 64GB de Almacenamiento | Triple cámara | Batería de 5000 mAh | Dual SIM | 4G'
 ---
 
 Está [OnePlus N100 Midnight Frost  Escarcha de Medianoche  | Pantalla LCD HD + de 6.52"| 4GB RAM + 64GB de Almacenamiento | Triple cámara | Batería de 5000 mAh | Dual SIM | 4G](https://www.amazon.es/dp/B07XY7XG5N/?tag=tolees-21) con 25.13 de descuento por 149.0 EUR (original: 199.0 EUR) en el siguiente enlace!

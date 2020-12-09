@@ -14,7 +14,7 @@ currency: EUR
 price: 38.72
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Salomon XA Pro 3D J  Zapatillas de Trail Running para Niños  Rojo  Cerise/Dubarry/Peach Amber   38 EU
+prodname: 'Salomon XA Pro 3D J  Zapatillas de Trail Running para Niños  Rojo  Cerise/Dubarry/Peach Amber   38 EU'
 ---
 
 Ahora mismo tienes [Salomon XA Pro 3D J  Zapatillas de Trail Running para Niños  Rojo  Cerise/Dubarry/Peach Amber   38 EU](https://www.amazon.es/dp/B07CXW9VQT/?tag=tolees-21) a 38.72 EUR (original: 64.95 EUR) (40.38 %  de descuento) en el siguiente enlace!

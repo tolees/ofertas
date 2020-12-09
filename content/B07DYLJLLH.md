@@ -14,7 +14,7 @@ currency: EUR
 price: 25.2
 comparePrice: 65 EUR
 inStock: true
-prodname: Nike Air Jordan First Class  PS   Zapatillas Altas Unisex Niños  Negro Black 001  28.5 EU
+prodname: 'Nike Air Jordan First Class  PS   Zapatillas Altas Unisex Niños  Negro Black 001  28.5 EU'
 ---
 
 Ahora mismo tienes [Nike Air Jordan First Class  PS   Zapatillas Altas Unisex Niños  Negro Black 001  28.5 EU](https://www.amazon.es/dp/B07DYLJLLH/?tag=tolees-21) a 25.2 EUR (original: 65 EUR) (61.23 %  de descuento) en el siguiente enlace!

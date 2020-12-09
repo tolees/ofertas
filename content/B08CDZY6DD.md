@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Juego de Mesa - Gira la Rana - ¡Ayuda a Tus Coloridas y llamativas Ranas a apoderarse de una pequeña Parte de la Selva!
+prodname: 'Juego de Mesa - Gira la Rana - ¡Ayuda a Tus Coloridas y llamativas Ranas a apoderarse de una pequeña Parte de la Selva!'
 ---
 
 Ahora mismo tienes [Juego de Mesa - Gira la Rana - ¡Ayuda a Tus Coloridas y llamativas Ranas a apoderarse de una pequeña Parte de la Selva!](https://www.amazon.es/dp/B08CDZY6DD/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

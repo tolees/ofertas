@@ -14,7 +14,7 @@ currency: EUR
 price: 68.99
 comparePrice: 149.9 EUR
 inStock: true
-prodname: BaByliss BAB2665E Rizador de pelo automático  cerámico  cable 2.7 m  color negro
+prodname: 'BaByliss BAB2665E Rizador de pelo automático  cerámico  cable 2.7 m  color negro'
 ---
 
 Tienes [BaByliss BAB2665E Rizador de pelo automático  cerámico  cable 2.7 m  color negro](https://www.amazon.es/dp/B00CW9TVH0/?tag=tolees-21) con un 53.98 % de descuento con precio de oferta de 68.99 EUR (original: 149.9 EUR) en el siguiente enlace!

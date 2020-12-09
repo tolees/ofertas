@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Aluminio Mango Cuerda Saltar Speed Racing Cable polea Saltar Cuerda diseño Antideslizante Bolsa de Transporte Gratis Adecuado para el Boxeo MMA Crossfit Aptitud
+prodname: 'Aluminio Mango Cuerda Saltar Speed Racing Cable polea Saltar Cuerda diseño Antideslizante Bolsa de Transporte Gratis Adecuado para el Boxeo MMA Crossfit Aptitud'
 ---
 
 Ahora mismo tienes [Aluminio Mango Cuerda Saltar Speed Racing Cable polea Saltar Cuerda diseño Antideslizante Bolsa de Transporte Gratis Adecuado para el Boxeo MMA Crossfit Aptitud](https://www.amazon.es/dp/B077PTTJTW/?tag=tolees-21) a 11.99 EUR (original: 19.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

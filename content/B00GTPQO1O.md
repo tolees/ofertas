@@ -14,7 +14,7 @@ currency: EUR
 price: 7.8
 comparePrice: 11.4 EUR
 inStock: true
-prodname: Aloe 250 mg. 120 comprimidos
+prodname: 'Aloe 250 mg. 120 comprimidos'
 ---
 
 Está [Aloe 250 mg. 120 comprimidos](https://www.amazon.es/dp/B00GTPQO1O/?tag=tolees-21) con 31.58 de descuento por 7.8 EUR (original: 11.4 EUR) en el siguiente enlace!

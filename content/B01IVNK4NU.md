@@ -14,7 +14,7 @@ currency: EUR
 price: 25.18
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Burst  Zapatillas para Mujer  Gris  Char   36 EU
+prodname: 'Skechers Burst  Zapatillas para Mujer  Gris  Char   36 EU'
 ---
 
 Tienes [Skechers Burst  Zapatillas para Mujer  Gris  Char   36 EU](https://www.amazon.es/dp/B01IVNK4NU/?tag=tolees-21) con un 64.00 % de descuento con precio de oferta de 25.18 EUR (original: 69.95 EUR) en el siguiente enlace!

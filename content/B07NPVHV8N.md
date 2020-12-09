@@ -14,7 +14,7 @@ currency: EUR
 price: 38.04
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Patrulla Canina Subpatroller  BIZAK 61926745 
+prodname: 'Patrulla Canina Subpatroller  BIZAK 61926745 '
 ---
 
 Tienes [Patrulla Canina Subpatroller  BIZAK 61926745 ](https://www.amazon.es/dp/B07NPVHV8N/?tag=tolees-21) con un 30.82 % de descuento con precio de oferta de 38.04 EUR (original: 54.99 EUR) en el siguiente enlace!

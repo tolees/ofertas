@@ -14,7 +14,7 @@ currency: EUR
 price: 10.37
 comparePrice: 29.99 EUR
 inStock: true
-prodname: JACK & JONES Jcofexi Sweat Hood Capucha  Negro  Small  Talla del Fabricante: : para Hombre
+prodname: 'JACK & JONES Jcofexi Sweat Hood Capucha  Negro  Small  Talla del Fabricante: : para Hombre'
 ---
 
 Está [JACK & JONES Jcofexi Sweat Hood Capucha  Negro  Small  Talla del Fabricante: : para Hombre](https://www.amazon.es/dp/B07GNVNVG5/?tag=tolees-21) con 65.42 de descuento por 10.37 EUR (original: 29.99 EUR) en el siguiente enlace!

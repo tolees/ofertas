@@ -14,7 +14,7 @@ currency: EUR
 price: 3.27
 comparePrice: 4.45 EUR
 inStock: true
-prodname: Bolero Bebida Instantánea sin Azúcar  Sabor Bayas - Paquete de 12 x 9 gr - Total: 108 gr
+prodname: 'Bolero Bebida Instantánea sin Azúcar  Sabor Bayas - Paquete de 12 x 9 gr - Total: 108 gr'
 ---
 
 Ahora mismo tienes [Bolero Bebida Instantánea sin Azúcar  Sabor Bayas - Paquete de 12 x 9 gr - Total: 108 gr](https://www.amazon.es/dp/B014VV2AXS/?tag=tolees-21) a 3.27 EUR (original: 4.45 EUR) (26.52 %  de descuento) en el siguiente enlace!

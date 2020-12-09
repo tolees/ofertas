@@ -14,7 +14,7 @@ currency: EUR
 price: 249.99
 comparePrice: 495.0 EUR
 inStock: true
-prodname: Maclaren Twin Techno Silla de paseo doble - ligera  para recién nacidos hasta los 50kg  encaja a través de la mayoría de las puertas  Capota extensible con UPF 50+
+prodname: 'Maclaren Twin Techno Silla de paseo doble - ligera  para recién nacidos hasta los 50kg  encaja a través de la mayoría de las puertas  Capota extensible con UPF 50+'
 ---
 
 Está [Maclaren Twin Techno Silla de paseo doble - ligera  para recién nacidos hasta los 50kg  encaja a través de la mayoría de las puertas  Capota extensible con UPF 50+](https://www.amazon.es/dp/B01BHS4SEW/?tag=tolees-21) con 49.50 de descuento por 249.99 EUR (original: 495.0 EUR) en el siguiente enlace!

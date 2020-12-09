@@ -14,7 +14,7 @@ currency: EUR
 price: 27.5
 comparePrice: 65 EUR
 inStock: true
-prodname: Geox J New Savage Boy C  Zapatillas para Niños  Navy/Red C0735  36 EU
+prodname: 'Geox J New Savage Boy C  Zapatillas para Niños  Navy/Red C0735  36 EU'
 ---
 
 Tienes [Geox J New Savage Boy C  Zapatillas para Niños  Navy/Red C0735  36 EU](https://www.amazon.es/dp/B07DK4SLCH/?tag=tolees-21) con un 57.69 % de descuento con precio de oferta de 27.5 EUR (original: 65 EUR) en el siguiente enlace!

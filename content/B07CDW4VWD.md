@@ -14,7 +14,7 @@ currency: EUR
 price: 7.43
 comparePrice: 92.9 EUR
 inStock: true
-prodname: MSI B360M Mortar - Placa Base Arsenal Gaming  LGA 1151  2 x PCI-E 3.0 x 16 Slots  4 DIMMS  4 x SATA  Negro
+prodname: 'MSI B360M Mortar - Placa Base Arsenal Gaming  LGA 1151  2 x PCI-E 3.0 x 16 Slots  4 DIMMS  4 x SATA  Negro'
 ---
 
 Está [MSI B360M Mortar - Placa Base Arsenal Gaming  LGA 1151  2 x PCI-E 3.0 x 16 Slots  4 DIMMS  4 x SATA  Negro](https://www.amazon.es/dp/B07CDW4VWD/?tag=tolees-21) con 92.00 de descuento por 7.43 EUR (original: 92.9 EUR) en el siguiente enlace!

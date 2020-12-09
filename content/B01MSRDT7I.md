@@ -14,7 +14,7 @@ currency: EUR
 price: 7.62
 comparePrice: 12.15 EUR
 inStock: true
-prodname: Il Padrino  / Chinatown / Intoccabili  Gli  - Oscar Collection  3 Blu-Ray  [Italia] [Blu-ray]
+prodname: 'Il Padrino  / Chinatown / Intoccabili  Gli  - Oscar Collection  3 Blu-Ray  [Italia] [Blu-ray]'
 ---
 
 Tienes [Il Padrino  / Chinatown / Intoccabili  Gli  - Oscar Collection  3 Blu-Ray  [Italia] [Blu-ray]](https://www.amazon.es/dp/B01MSRDT7I/?tag=tolees-21) con un 37.28 % de descuento con precio de oferta de 7.62 EUR (original: 12.15 EUR) en el siguiente enlace!

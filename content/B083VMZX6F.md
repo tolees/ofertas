@@ -14,7 +14,7 @@ currency: EUR
 price: 128.99
 comparePrice: 199.64 EUR
 inStock: true
-prodname: Crucial Ballistix BL2K16G32C16U4BL RGB  3200 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  32GB  16GBx2   CL16  Negro
+prodname: 'Crucial Ballistix BL2K16G32C16U4BL RGB  3200 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  32GB  16GBx2   CL16  Negro'
 ---
 
 Está [Crucial Ballistix BL2K16G32C16U4BL RGB  3200 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  32GB  16GBx2   CL16  Negro](https://www.amazon.es/dp/B083VMZX6F/?tag=tolees-21) con 35.39 de descuento por 128.99 EUR (original: 199.64 EUR) en el siguiente enlace!

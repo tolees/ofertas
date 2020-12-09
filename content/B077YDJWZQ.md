@@ -14,7 +14,7 @@ currency: EUR
 price: 8.26
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Sylvie Flirty Swimwear Beliz  Trikini para Mujer  Blanco  White 9000   44A
+prodname: 'Sylvie Flirty Swimwear Beliz  Trikini para Mujer  Blanco  White 9000   44A'
 ---
 
 Tienes [Sylvie Flirty Swimwear Beliz  Trikini para Mujer  Blanco  White 9000   44A](https://www.amazon.es/dp/B077YDJWZQ/?tag=tolees-21) con un 89.67 % de descuento con precio de oferta de 8.26 EUR (original: 79.95 EUR) en el siguiente enlace!

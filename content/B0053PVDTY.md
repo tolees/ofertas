@@ -14,7 +14,7 @@ currency: EUR
 price: 0.74
 comparePrice: 1.24 EUR
 inStock: true
-prodname: Bosch Professional 2608608230 Esponja S473 Profile Fina  Madera  plástico y Metal  98 x 120 x 13 mm  Accesorios para Lijado a Mano   Fino
+prodname: 'Bosch Professional 2608608230 Esponja S473 Profile Fina  Madera  plástico y Metal  98 x 120 x 13 mm  Accesorios para Lijado a Mano   Fino'
 ---
 
 Ahora mismo tienes [Bosch Professional 2608608230 Esponja S473 Profile Fina  Madera  plástico y Metal  98 x 120 x 13 mm  Accesorios para Lijado a Mano   Fino](https://www.amazon.es/dp/B0053PVDTY/?tag=tolees-21) a 0.74 EUR (original: 1.24 EUR) (40.32 %  de descuento) en el siguiente enlace!

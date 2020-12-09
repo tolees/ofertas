@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Guacamelee! - One-Two Punch Collection
+prodname: 'Guacamelee! - One-Two Punch Collection'
 ---
 
 Tienes [Guacamelee! - One-Two Punch Collection](https://www.amazon.es/dp/B081BG4MWL/?tag=tolees-21) con un 33.43 % de descuento con precio de oferta de 29.95 EUR (original: 44.99 EUR) en el siguiente enlace!

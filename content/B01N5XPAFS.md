@@ -14,7 +14,7 @@ currency: EUR
 price: 27.95
 comparePrice: 42.9 EUR
 inStock: true
-prodname: Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   X-Large  Pack de 3  para Hombre
+prodname: 'Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   X-Large  Pack de 3  para Hombre'
 ---
 
 Está [Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   X-Large  Pack de 3  para Hombre](https://www.amazon.es/dp/B01N5XPAFS/?tag=tolees-21) con 34.85 de descuento por 27.95 EUR (original: 42.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.59
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Vatra Energy - Pack de 24 Pilas Alcalinas AAA / LR03 / Micro
+prodname: 'Vatra Energy - Pack de 24 Pilas Alcalinas AAA / LR03 / Micro'
 ---
 
 Está [Vatra Energy - Pack de 24 Pilas Alcalinas AAA / LR03 / Micro](https://www.amazon.es/dp/B004KRGJFO/?tag=tolees-21) con 49.37 de descuento por 7.59 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 68.0
 comparePrice: 119.79 EUR
 inStock: true
-prodname: Lotus 18108/2 - Reloj de Pulsera analógico para Hombre  Mecanismo de Cuarzo  Esfera Negra y Correa de Acero Inoxidable Plateado 
+prodname: 'Lotus 18108/2 - Reloj de Pulsera analógico para Hombre  Mecanismo de Cuarzo  Esfera Negra y Correa de Acero Inoxidable Plateado '
 ---
 
 Está [Lotus 18108/2 - Reloj de Pulsera analógico para Hombre  Mecanismo de Cuarzo  Esfera Negra y Correa de Acero Inoxidable Plateado ](https://www.amazon.es/dp/B00RBTYN4W/?tag=tolees-21) con 43.23 de descuento por 68.0 EUR (original: 119.79 EUR) en el siguiente enlace!

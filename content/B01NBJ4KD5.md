@@ -14,7 +14,7 @@ currency: EUR
 price: 9.6
 comparePrice: 32 EUR
 inStock: true
-prodname: find. AZW 8006 vaqueros pitillo mujer  Negro  Mid Dark Black   W30/L32  Talla del Fabricante: 12 
+prodname: 'find. AZW 8006 vaqueros pitillo mujer  Negro  Mid Dark Black   W30/L32  Talla del Fabricante: 12 '
 ---
 
 Tienes [find. AZW 8006 vaqueros pitillo mujer  Negro  Mid Dark Black   W30/L32  Talla del Fabricante: 12 ](https://www.amazon.es/dp/B01NBJ4KD5/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 9.6 EUR (original: 32 EUR) en el siguiente enlace!

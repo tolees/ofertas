@@ -14,7 +14,7 @@ currency: EUR
 price: 11.11
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Puma Active Interlock Chándal  Hombre  Peacoat  XXL
+prodname: 'Puma Active Interlock Chándal  Hombre  Peacoat  XXL'
 ---
 
 Ahora mismo tienes [Puma Active Interlock Chándal  Hombre  Peacoat  XXL](https://www.amazon.es/dp/B07D5TNYRF/?tag=tolees-21) a 11.11 EUR (original: 19.95 EUR) (44.31 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 44.03
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Matrixx  Entrenadores para Mujer  Negro  Black/White   37 EU
+prodname: 'Skechers Matrixx  Entrenadores para Mujer  Negro  Black/White   37 EU'
 ---
 
 Ahora mismo tienes [Skechers Matrixx  Entrenadores para Mujer  Negro  Black/White   37 EU](https://www.amazon.es/dp/B01MZC5LGL/?tag=tolees-21) a 44.03 EUR (original: 69.95 EUR) (37.06 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.96
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Springfield 5 Pack Rayas Bóxer  Hombre  Rojo  Gama Rojo 68   Large  Tamaño del Fabricante:L 
+prodname: 'Springfield 5 Pack Rayas Bóxer  Hombre  Rojo  Gama Rojo 68   Large  Tamaño del Fabricante:L '
 ---
 
 Ahora mismo tienes [Springfield 5 Pack Rayas Bóxer  Hombre  Rojo  Gama Rojo 68   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KYQN1HZ/?tag=tolees-21) a 17.96 EUR (original: 34.99 EUR) (48.67 %  de descuento) en el siguiente enlace!

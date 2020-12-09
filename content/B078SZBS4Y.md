@@ -14,7 +14,7 @@ currency: EUR
 price: 109.17
 comparePrice: 179.0 EUR
 inStock: true
-prodname: Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable SGEH77P1
+prodname: 'Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable SGEH77P1'
 ---
 
 Ahora mismo tienes [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable SGEH77P1](https://www.amazon.es/dp/B078SZBS4Y/?tag=tolees-21) a 109.17 EUR (original: 179.0 EUR) (39.01 %  de descuento) en el siguiente enlace!

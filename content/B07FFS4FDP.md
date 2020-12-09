@@ -14,7 +14,7 @@ currency: EUR
 price: 11.29
 comparePrice: 15.81 EUR
 inStock: true
-prodname: Moretek para Xiaomi Band 3 Accesorios Bandas  Correa de Muñeca de Repuesto para Xiaomi Band 3 Reemplazo Mujeres Hombres Pulsera  Black/Yun/SilverFlower 3pcs 
+prodname: 'Moretek para Xiaomi Band 3 Accesorios Bandas  Correa de Muñeca de Repuesto para Xiaomi Band 3 Reemplazo Mujeres Hombres Pulsera  Black/Yun/SilverFlower 3pcs '
 ---
 
 Tienes [Moretek para Xiaomi Band 3 Accesorios Bandas  Correa de Muñeca de Repuesto para Xiaomi Band 3 Reemplazo Mujeres Hombres Pulsera  Black/Yun/SilverFlower 3pcs ](https://www.amazon.es/dp/B07FFS4FDP/?tag=tolees-21) con un 28.59 % de descuento con precio de oferta de 11.29 EUR (original: 15.81 EUR) en el siguiente enlace!

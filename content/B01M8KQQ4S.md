@@ -14,7 +14,7 @@ currency: EUR
 price: 9.13
 comparePrice: 40 EUR
 inStock: true
-prodname: Under Armour Tech Jogger Pantalón Largo  Niñas  Negro  001   S
+prodname: 'Under Armour Tech Jogger Pantalón Largo  Niñas  Negro  001   S'
 ---
 
 Tienes [Under Armour Tech Jogger Pantalón Largo  Niñas  Negro  001   S](https://www.amazon.es/dp/B01M8KQQ4S/?tag=tolees-21) con un 77.17 % de descuento con precio de oferta de 9.13 EUR (original: 40 EUR) en el siguiente enlace!

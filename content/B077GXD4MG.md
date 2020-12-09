@@ -14,7 +14,7 @@ currency: EUR
 price: 13.25
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour UA Split Fragment Logo SS T Camiseta de Manga Corta  Hombre  Blanco  100   XL
+prodname: 'Under Armour UA Split Fragment Logo SS T Camiseta de Manga Corta  Hombre  Blanco  100   XL'
 ---
 
 Está [Under Armour UA Split Fragment Logo SS T Camiseta de Manga Corta  Hombre  Blanco  100   XL](https://www.amazon.es/dp/B077GXD4MG/?tag=tolees-21) con 49.04 de descuento por 13.25 EUR (original: 26 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.97
 comparePrice: 19.99 EUR
 inStock: true
-prodname: kit aplicador silicona ZoomSky 9 piezas kit herramientas calafateo de junta para eliminar silicona vieja y sellar silicona en bañera o baño
+prodname: 'kit aplicador silicona ZoomSky 9 piezas kit herramientas calafateo de junta para eliminar silicona vieja y sellar silicona en bañera o baño'
 ---
 
 Está [kit aplicador silicona ZoomSky 9 piezas kit herramientas calafateo de junta para eliminar silicona vieja y sellar silicona en bañera o baño](https://www.amazon.es/dp/B07KLXT2TK/?tag=tolees-21) con 50.13 de descuento por 9.97 EUR (original: 19.99 EUR) en el siguiente enlace!

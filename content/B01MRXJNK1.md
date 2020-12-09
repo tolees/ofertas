@@ -14,7 +14,7 @@ currency: EUR
 price: 30.11
 comparePrice: 75 EUR
 inStock: true
-prodname: Under Armour UA Recovery  Zapatillas Deportivas para Interior para Hombre  Azul  Blue Shift  42 EU
+prodname: 'Under Armour UA Recovery  Zapatillas Deportivas para Interior para Hombre  Azul  Blue Shift  42 EU'
 ---
 
 Está [Under Armour UA Recovery  Zapatillas Deportivas para Interior para Hombre  Azul  Blue Shift  42 EU](https://www.amazon.es/dp/B01MRXJNK1/?tag=tolees-21) con 59.85 de descuento por 30.11 EUR (original: 75 EUR) en el siguiente enlace!

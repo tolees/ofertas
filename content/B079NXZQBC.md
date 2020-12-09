@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 84.9 EUR
 inStock: true
-prodname: Corsair Hydro Series H60  2018  - Sistema de refrigeración líquida para CPU  radiador de 120 mm  ventilador PWM  All-in-One  LED blanco   Negro
+prodname: 'Corsair Hydro Series H60  2018  - Sistema de refrigeración líquida para CPU  radiador de 120 mm  ventilador PWM  All-in-One  LED blanco   Negro'
 ---
 
 Tienes [Corsair Hydro Series H60  2018  - Sistema de refrigeración líquida para CPU  radiador de 120 mm  ventilador PWM  All-in-One  LED blanco   Negro](https://www.amazon.es/dp/B079NXZQBC/?tag=tolees-21) con un 29.45 % de descuento con precio de oferta de 59.9 EUR (original: 84.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 70.49
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Ghost Recon: Breakpoint - Edition Gold PS4 [Importación francesa]
+prodname: 'Ghost Recon: Breakpoint - Edition Gold PS4 [Importación francesa]'
 ---
 
 Ahora mismo tienes [Ghost Recon: Breakpoint - Edition Gold PS4 [Importación francesa]](https://www.amazon.es/dp/B07RP9B4RP/?tag=tolees-21) a 70.49 EUR (original: 99.99 EUR) (29.50 %  de descuento) en el siguiente enlace!

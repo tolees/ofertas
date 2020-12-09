@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: RAVPOWER Cargador USB 60W 12A 6-Puertos  Cargador de Red con Tecnología iSmart para iPhone  iPad  Samsung  Motorola  HTC  LG  Huawei y Más  Blanco 
+prodname: 'RAVPOWER Cargador USB 60W 12A 6-Puertos  Cargador de Red con Tecnología iSmart para iPhone  iPad  Samsung  Motorola  HTC  LG  Huawei y Más  Blanco '
 ---
 
 Tienes [RAVPOWER Cargador USB 60W 12A 6-Puertos  Cargador de Red con Tecnología iSmart para iPhone  iPad  Samsung  Motorola  HTC  LG  Huawei y Más  Blanco ](https://www.amazon.es/dp/B00PJY0MZK/?tag=tolees-21) con un 25.94 % de descuento con precio de oferta de 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

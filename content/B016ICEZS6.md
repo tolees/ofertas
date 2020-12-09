@@ -14,7 +14,7 @@ currency: EUR
 price: 55.99
 comparePrice: 84.99 EUR
 inStock: true
-prodname: Taurus Professional 3 Plus 973953 Profesional  2100 W  3 kg  Acero Inoxidable
+prodname: 'Taurus Professional 3 Plus 973953 Profesional  2100 W  3 kg  Acero Inoxidable'
 ---
 
 Está [Taurus Professional 3 Plus 973953 Profesional  2100 W  3 kg  Acero Inoxidable](https://www.amazon.es/dp/B016ICEZS6/?tag=tolees-21) con 34.12 de descuento por 55.99 EUR (original: 84.99 EUR) en el siguiente enlace!

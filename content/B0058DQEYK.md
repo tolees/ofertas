@@ -14,7 +14,7 @@ currency: EUR
 price: 14.43
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Koch Media - Carcasa Vault Gears Of War 3  Xbox 360 
+prodname: 'Koch Media - Carcasa Vault Gears Of War 3  Xbox 360 '
 ---
 
 Está [Koch Media - Carcasa Vault Gears Of War 3  Xbox 360 ](https://www.amazon.es/dp/B0058DQEYK/?tag=tolees-21) con 58.76 de descuento por 14.43 EUR (original: 34.99 EUR) en el siguiente enlace!

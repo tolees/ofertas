@@ -14,7 +14,7 @@ currency: EUR
 price: 20.95
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Puma Liga Trainings Chándal  Hombre  Negro Black White  3XL
+prodname: 'Puma Liga Trainings Chándal  Hombre  Negro Black White  3XL'
 ---
 
 Ahora mismo tienes [Puma Liga Trainings Chándal  Hombre  Negro Black White  3XL](https://www.amazon.es/dp/B0781ZBJKR/?tag=tolees-21) a 20.95 EUR (original: 34.95 EUR) (40.06 %  de descuento) en el siguiente enlace!

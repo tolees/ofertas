@@ -14,7 +14,7 @@ currency: EUR
 price: 13.49
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Scholl Plantillas Gel Activ Uso Diario para hombre  para el dia a dia  mayor comodidad y absorción del olor y sudor  talla 40 - 46.5  1 par  2 plantillas 
+prodname: 'Scholl Plantillas Gel Activ Uso Diario para hombre  para el dia a dia  mayor comodidad y absorción del olor y sudor  talla 40 - 46.5  1 par  2 plantillas '
 ---
 
 Tienes [Scholl Plantillas Gel Activ Uso Diario para hombre  para el dia a dia  mayor comodidad y absorción del olor y sudor  talla 40 - 46.5  1 par  2 plantillas ](https://www.amazon.es/dp/B00V4XSQB2/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 13.49 EUR (original: 17.99 EUR) en el siguiente enlace!

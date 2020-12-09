@@ -14,7 +14,7 @@ currency: EUR
 price: 29.98
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Skechers Ez Flex 3.0-Quick Escapade  Zapatillas sin Cordones para Mujer  Negro  Black   39 EU
+prodname: 'Skechers Ez Flex 3.0-Quick Escapade  Zapatillas sin Cordones para Mujer  Negro  Black   39 EU'
 ---
 
 Está [Skechers Ez Flex 3.0-Quick Escapade  Zapatillas sin Cordones para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B077BT7MDX/?tag=tolees-21) con 49.99 de descuento por 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!

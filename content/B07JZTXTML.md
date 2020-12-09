@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 22.99 EUR
 inStock: true
-prodname: AiHom Toallero de Aro de Aluminio con Adhesivo Díametro 17cm sin Taladro para Baño Cocina
+prodname: 'AiHom Toallero de Aro de Aluminio con Adhesivo Díametro 17cm sin Taladro para Baño Cocina'
 ---
 
 Está [AiHom Toallero de Aro de Aluminio con Adhesivo Díametro 17cm sin Taladro para Baño Cocina](https://www.amazon.es/dp/B07JZTXTML/?tag=tolees-21) con 34.80 de descuento por 14.99 EUR (original: 22.99 EUR) en el siguiente enlace!

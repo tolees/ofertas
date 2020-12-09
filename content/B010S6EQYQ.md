@@ -14,7 +14,7 @@ currency: EUR
 price: 17.83
 comparePrice: 29.9 EUR
 inStock: true
-prodname: MGM Ever Be Cinturón  Blau  Marine 5   90 cm Unisex Adulto
+prodname: 'MGM Ever Be Cinturón  Blau  Marine 5   90 cm Unisex Adulto'
 ---
 
 Ahora mismo tienes [MGM Ever Be Cinturón  Blau  Marine 5   90 cm Unisex Adulto](https://www.amazon.es/dp/B010S6EQYQ/?tag=tolees-21) a 17.83 EUR (original: 29.9 EUR) (40.37 %  de descuento) en el siguiente enlace!

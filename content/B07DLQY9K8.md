@@ -14,7 +14,7 @@ currency: EUR
 price: 17.61
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield 4.2.G.MD.Vestido Pata De Vestido  Mujer  Negro  Negro 1   38  Tamaño del Fabricante:38 
+prodname: 'Springfield 4.2.G.MD.Vestido Pata De Vestido  Mujer  Negro  Negro 1   38  Tamaño del Fabricante:38 '
 ---
 
 Ahora mismo tienes [Springfield 4.2.G.MD.Vestido Pata De Vestido  Mujer  Negro  Negro 1   38  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07DLQY9K8/?tag=tolees-21) a 17.61 EUR (original: 29.99 EUR) (41.28 %  de descuento) en el siguiente enlace!

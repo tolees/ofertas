@@ -14,7 +14,7 @@ currency: EUR
 price: 72.65
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Alcatel U5 4G  4 núcleos  8MPx  8Gb  Dual SIM   Color Negro
+prodname: 'Alcatel U5 4G  4 núcleos  8MPx  8Gb  Dual SIM   Color Negro'
 ---
 
 Tienes [Alcatel U5 4G  4 núcleos  8MPx  8Gb  Dual SIM   Color Negro](https://www.amazon.es/dp/B06XNKCNYW/?tag=tolees-21) con un 27.34 % de descuento con precio de oferta de 72.65 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 99.95
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Columbia Pike Lake II Chaqueta Aislante para Mujer  Negro  M
+prodname: 'Columbia Pike Lake II Chaqueta Aislante para Mujer  Negro  M'
 ---
 
 Está [Columbia Pike Lake II Chaqueta Aislante para Mujer  Negro  M](https://www.amazon.es/dp/B087VHCLZN/?tag=tolees-21) con 33.36 de descuento por 99.95 EUR (original: 149.99 EUR) en el siguiente enlace!

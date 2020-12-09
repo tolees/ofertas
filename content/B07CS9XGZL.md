@@ -14,7 +14,7 @@ currency: EUR
 price: 26.07
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Pepe Jeans Hatch  Vaqueros Slim para Hombre  Gris  Denim WY0   W28/L34
+prodname: 'Pepe Jeans Hatch  Vaqueros Slim para Hombre  Gris  Denim WY0   W28/L34'
 ---
 
 Tienes [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Gris  Denim WY0   W28/L34](https://www.amazon.es/dp/B07CS9XGZL/?tag=tolees-21) con un 71.00 % de descuento con precio de oferta de 26.07 EUR (original: 89.9 EUR) en el siguiente enlace!

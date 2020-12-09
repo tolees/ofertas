@@ -14,7 +14,7 @@ currency: EUR
 price: 24.75
 comparePrice: 179.9 EUR
 inStock: true
-prodname: NK CÁMARA DE ACCIÓN 360º  1440P & 1080P  Color Negro
+prodname: 'NK CÁMARA DE ACCIÓN 360º  1440P & 1080P  Color Negro'
 ---
 
 Tienes [NK CÁMARA DE ACCIÓN 360º  1440P & 1080P  Color Negro](https://www.amazon.es/dp/B01DUOIB9O/?tag=tolees-21) con un 86.24 % de descuento con precio de oferta de 24.75 EUR (original: 179.9 EUR) en el siguiente enlace!

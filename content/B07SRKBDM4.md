@@ -14,7 +14,7 @@ currency: EUR
 price: 41.65
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox D SUZZIE B  Zapatillas Mujer  Marfil  Black/Off White C9876   36 EU
+prodname: 'Geox D SUZZIE B  Zapatillas Mujer  Marfil  Black/Off White C9876   36 EU'
 ---
 
 Ahora mismo tienes [Geox D SUZZIE B  Zapatillas Mujer  Marfil  Black/Off White C9876   36 EU](https://www.amazon.es/dp/B07SRKBDM4/?tag=tolees-21) a 41.65 EUR (original: 109.9 EUR) (62.10 %  de descuento) en el siguiente enlace!

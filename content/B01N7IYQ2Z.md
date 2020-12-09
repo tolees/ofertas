@@ -14,7 +14,7 @@ currency: EUR
 price: 53.55
 comparePrice: 139 EUR
 inStock: true
-prodname: Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18388/2
+prodname: 'Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18388/2'
 ---
 
 Ahora mismo tienes [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18388/2](https://www.amazon.es/dp/B01N7IYQ2Z/?tag=tolees-21) a 53.55 EUR (original: 139 EUR) (61.47 %  de descuento) en el siguiente enlace!

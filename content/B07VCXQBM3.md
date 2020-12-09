@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 50.0 EUR
 inStock: true
-prodname: kilponen Funda Batería para iPhone XS MAX 7800mAh  Funda Cargador Portatil Carcasa Batería Recargable Protector Power Bank Case para XS MAX [6.5 Pulgadas]
+prodname: 'kilponen Funda Batería para iPhone XS MAX 7800mAh  Funda Cargador Portatil Carcasa Batería Recargable Protector Power Bank Case para XS MAX [6.5 Pulgadas]'
 ---
 
 Ahora mismo tienes [kilponen Funda Batería para iPhone XS MAX 7800mAh  Funda Cargador Portatil Carcasa Batería Recargable Protector Power Bank Case para XS MAX [6.5 Pulgadas]](https://www.amazon.es/dp/B07VCXQBM3/?tag=tolees-21) a 24.95 EUR (original: 50.0 EUR) (50.10 %  de descuento) en el siguiente enlace!

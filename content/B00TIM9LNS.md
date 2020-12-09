@@ -14,7 +14,7 @@ currency: EUR
 price: 17.84
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Gris  Columbia Grey Heather   M
+prodname: 'Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Gris  Columbia Grey Heather   M'
 ---
 
 Ahora mismo tienes [Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Gris  Columbia Grey Heather   M](https://www.amazon.es/dp/B00TIM9LNS/?tag=tolees-21) a 17.84 EUR (original: 34.99 EUR) (49.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14
 comparePrice: 35 EUR
 inStock: true
-prodname: find. Vestido Corto Ajustado con Hombros al Aire para Mujer   Rojo  Sport Red   44  Talla del Fabricante: X-Large 
+prodname: 'find. Vestido Corto Ajustado con Hombros al Aire para Mujer   Rojo  Sport Red   44  Talla del Fabricante: X-Large '
 ---
 
 Ahora mismo tienes [find. Vestido Corto Ajustado con Hombros al Aire para Mujer   Rojo  Sport Red   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01MRVQ00V/?tag=tolees-21) a 14 EUR (original: 35 EUR) (60.00 %  de descuento) en el siguiente enlace!

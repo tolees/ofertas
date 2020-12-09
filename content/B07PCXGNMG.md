@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 8.99 EUR
 inStock: true
-prodname: PUMA Quarter 2p Women deporte  Azul  New Navy 243   35/38  Talla del fabricante: 035   Pack de 2  para Mujer
+prodname: 'PUMA Quarter 2p Women deporte  Azul  New Navy 243   35/38  Talla del fabricante: 035   Pack de 2  para Mujer'
 ---
 
 Está [PUMA Quarter 2p Women deporte  Azul  New Navy 243   35/38  Talla del fabricante: 035   Pack de 2  para Mujer](https://www.amazon.es/dp/B07PCXGNMG/?tag=tolees-21) con 44.49 de descuento por 4.99 EUR (original: 8.99 EUR) en el siguiente enlace!

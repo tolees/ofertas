@@ -14,7 +14,7 @@ currency: EUR
 price: 2.49
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Freebily Tanga de Charol para Hombre Ropa Interior Masculina con Hueco en el Saco Negro XL
+prodname: 'Freebily Tanga de Charol para Hombre Ropa Interior Masculina con Hueco en el Saco Negro XL'
 ---
 
 Está [Freebily Tanga de Charol para Hombre Ropa Interior Masculina con Hueco en el Saco Negro XL](https://www.amazon.es/dp/B075GNV5GY/?tag=tolees-21) con 80.83 de descuento por 2.49 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 41.98
 comparePrice: 59.97 EUR
 inStock: true
-prodname: CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable CL60002
+prodname: 'CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable CL60002'
 ---
 
 Está [CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable CL60002](https://www.amazon.es/dp/B07BH7FTL4/?tag=tolees-21) con 30.00 de descuento por 41.98 EUR (original: 59.97 EUR) en el siguiente enlace!

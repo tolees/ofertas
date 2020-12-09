@@ -14,7 +14,7 @@ currency: EUR
 price: 36.0
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Superga Classic  Zapatillas Unisex Adulto  Beige  Beige Wbt   42 EU
+prodname: 'Superga Classic  Zapatillas Unisex Adulto  Beige  Beige Wbt   42 EU'
 ---
 
 Ahora mismo tienes [Superga Classic  Zapatillas Unisex Adulto  Beige  Beige Wbt   42 EU](https://www.amazon.es/dp/B07CMMSTYR/?tag=tolees-21) a 36.0 EUR (original: 59.0 EUR) (38.98 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 29.9 EUR
 inStock: true
-prodname: D-Link DGS-105 - Switch de red  5 puertos Gigabit RJ-45  10/100/1000 Mbps  chasis metálico  IGMP snooping  autosensing  priorización de tráfico QoS 802.1p  color negro
+prodname: 'D-Link DGS-105 - Switch de red  5 puertos Gigabit RJ-45  10/100/1000 Mbps  chasis metálico  IGMP snooping  autosensing  priorización de tráfico QoS 802.1p  color negro'
 ---
 
 Tienes [D-Link DGS-105 - Switch de red  5 puertos Gigabit RJ-45  10/100/1000 Mbps  chasis metálico  IGMP snooping  autosensing  priorización de tráfico QoS 802.1p  color negro](https://www.amazon.es/dp/B000BC7QMM/?tag=tolees-21) con un 43.31 % de descuento con precio de oferta de 16.95 EUR (original: 29.9 EUR) en el siguiente enlace!

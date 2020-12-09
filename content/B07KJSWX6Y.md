@@ -14,7 +14,7 @@ currency: EUR
 price: 11.97
 comparePrice: 37.0 EUR
 inStock: true
-prodname: Pack Bd Mary Poppins + Regreso Mary Poppins [Blu-ray]
+prodname: 'Pack Bd Mary Poppins + Regreso Mary Poppins [Blu-ray]'
 ---
 
 Ahora mismo tienes [Pack Bd Mary Poppins + Regreso Mary Poppins [Blu-ray]](https://www.amazon.es/dp/B07KJSWX6Y/?tag=tolees-21) a 11.97 EUR (original: 37.0 EUR) (67.65 %  de descuento) en el siguiente enlace!

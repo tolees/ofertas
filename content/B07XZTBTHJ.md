@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 43.99 EUR
 inStock: true
-prodname: Philips Hue White Pack de 3 bombillas LED inteligentes E27  luz blanca cálida  compatible con Bluetooth y Zigbee  funciona con Alexa y Google Home
+prodname: 'Philips Hue White Pack de 3 bombillas LED inteligentes E27  luz blanca cálida  compatible con Bluetooth y Zigbee  funciona con Alexa y Google Home'
 ---
 
 Ahora mismo tienes [Philips Hue White Pack de 3 bombillas LED inteligentes E27  luz blanca cálida  compatible con Bluetooth y Zigbee  funciona con Alexa y Google Home](https://www.amazon.es/dp/B07XZTBTHJ/?tag=tolees-21) a 32.99 EUR (original: 43.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

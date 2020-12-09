@@ -14,7 +14,7 @@ currency: EUR
 price: 62.99
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Reebok F/S Hi  Zapatillas Altas para Mujer  Blanco  Weiß   42 EU
+prodname: 'Reebok F/S Hi  Zapatillas Altas para Mujer  Blanco  Weiß   42 EU'
 ---
 
 Ahora mismo tienes [Reebok F/S Hi  Zapatillas Altas para Mujer  Blanco  Weiß   42 EU](https://www.amazon.es/dp/B004X1FQXS/?tag=tolees-21) a 62.99 EUR (original: 89.95 EUR) (29.97 %  de descuento) en el siguiente enlace!

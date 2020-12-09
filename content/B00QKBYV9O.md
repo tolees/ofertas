@@ -14,7 +14,7 @@ currency: EUR
 price: 21.48
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Spiuk Anatomic - Paravientos para Hombre  Color Rojo  Talla L
+prodname: 'Spiuk Anatomic - Paravientos para Hombre  Color Rojo  Talla L'
 ---
 
 Tienes [Spiuk Anatomic - Paravientos para Hombre  Color Rojo  Talla L](https://www.amazon.es/dp/B00QKBYV9O/?tag=tolees-21) con un 28.16 % de descuento con precio de oferta de 21.48 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.55
 comparePrice: 15.49 EUR
 inStock: true
-prodname: Weider Collagen. Con Ácido Hialurónico  Magnesio y Vitamina C. 100% Peptan. Cero grasas. Cero azúcar. Keto.
+prodname: 'Weider Collagen. Con Ácido Hialurónico  Magnesio y Vitamina C. 100% Peptan. Cero grasas. Cero azúcar. Keto.'
 ---
 
 Está [Weider Collagen. Con Ácido Hialurónico  Magnesio y Vitamina C. 100% Peptan. Cero grasas. Cero azúcar. Keto.](https://www.amazon.es/dp/B01LNQAYLO/?tag=tolees-21) con 31.89 de descuento por 10.55 EUR (original: 15.49 EUR) en el siguiente enlace!

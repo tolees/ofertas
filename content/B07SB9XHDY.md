@@ -14,7 +14,7 @@ currency: EUR
 price: 6.2
 comparePrice: 8.5 EUR
 inStock: true
-prodname: Control Preservativos XL - 24 unidades
+prodname: 'Control Preservativos XL - 24 unidades'
 ---
 
 Tienes [Control Preservativos XL - 24 unidades](https://www.amazon.es/dp/B07SB9XHDY/?tag=tolees-21) con un 27.06 % de descuento con precio de oferta de 6.2 EUR (original: 8.5 EUR) en el siguiente enlace!

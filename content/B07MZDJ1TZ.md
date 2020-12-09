@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 44.9 EUR
 inStock: true
-prodname: Superdry Water Polo Swim Short Pantalones Cortos Rojo  Flag Red Oxl   Medium para Hombre
+prodname: 'Superdry Water Polo Swim Short Pantalones Cortos Rojo  Flag Red Oxl   Medium para Hombre'
 ---
 
 Está [Superdry Water Polo Swim Short Pantalones Cortos Rojo  Flag Red Oxl   Medium para Hombre](https://www.amazon.es/dp/B07MZDJ1TZ/?tag=tolees-21) con 46.66 de descuento por 23.95 EUR (original: 44.9 EUR) en el siguiente enlace!

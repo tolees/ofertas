@@ -14,7 +14,7 @@ currency: EUR
 price: 12.7
 comparePrice: 40 EUR
 inStock: true
-prodname: Under Armour - Camiseta de Manga Corta para Hombre  Estilo Deportivo  Hombre  1320715-890  Radio Red/Black  Small
+prodname: 'Under Armour - Camiseta de Manga Corta para Hombre  Estilo Deportivo  Hombre  1320715-890  Radio Red/Black  Small'
 ---
 
 Tienes [Under Armour - Camiseta de Manga Corta para Hombre  Estilo Deportivo  Hombre  1320715-890  Radio Red/Black  Small](https://www.amazon.es/dp/B077XNLPY2/?tag=tolees-21) con un 68.25 % de descuento con precio de oferta de 12.7 EUR (original: 40 EUR) en el siguiente enlace!

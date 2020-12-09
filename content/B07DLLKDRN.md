@@ -14,7 +14,7 @@ currency: EUR
 price: 11.08
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Springfield 4.2.T.Ap.R. Bimateria Flor Bordada Sudadera   Gama Grises 42   Small  Tamaño del Fabricante:S  para Mujer
+prodname: 'Springfield 4.2.T.Ap.R. Bimateria Flor Bordada Sudadera   Gama Grises 42   Small  Tamaño del Fabricante:S  para Mujer'
 ---
 
 Ahora mismo tienes [Springfield 4.2.T.Ap.R. Bimateria Flor Bordada Sudadera   Gama Grises 42   Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07DLLKDRN/?tag=tolees-21) a 11.08 EUR (original: 24.99 EUR) (55.66 %  de descuento) en el siguiente enlace!

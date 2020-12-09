@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Tiras-LED-USB Música 5M  TASMOR Luces LED RGB 5050 16 Colores  Strip Led 5v con Control Remoto  Iluminación Decorativa Autoadhesiva para TV Monitor Coche Pasillo Bar Fiestas y Habitación
+prodname: 'Tiras-LED-USB Música 5M  TASMOR Luces LED RGB 5050 16 Colores  Strip Led 5v con Control Remoto  Iluminación Decorativa Autoadhesiva para TV Monitor Coche Pasillo Bar Fiestas y Habitación'
 ---
 
 Tienes [Tiras-LED-USB Música 5M  TASMOR Luces LED RGB 5050 16 Colores  Strip Led 5v con Control Remoto  Iluminación Decorativa Autoadhesiva para TV Monitor Coche Pasillo Bar Fiestas y Habitación](https://www.amazon.es/dp/B07ZDPLT35/?tag=tolees-21) con un 48.29 % de descuento con precio de oferta de 14.99 EUR (original: 28.99 EUR) en el siguiente enlace!

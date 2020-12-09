@@ -14,7 +14,7 @@ currency: EUR
 price: 15.7
 comparePrice: 34.23 EUR
 inStock: true
-prodname: find. Zapato de Cordones con Textura en Piel para Hombre  Marrón  Tan   44 EU
+prodname: 'find. Zapato de Cordones con Textura en Piel para Hombre  Marrón  Tan   44 EU'
 ---
 
 Tienes [find. Zapato de Cordones con Textura en Piel para Hombre  Marrón  Tan   44 EU](https://www.amazon.es/dp/B06XCH12ZX/?tag=tolees-21) con un 54.13 % de descuento con precio de oferta de 15.7 EUR (original: 34.23 EUR) en el siguiente enlace!

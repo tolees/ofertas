@@ -14,7 +14,7 @@ currency: EUR
 price: 38.45
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Iconic Long Lace Sneaker  Zapatillas para Hombre  Azul  Mazarine Blue 440   43 EU
+prodname: 'Tommy Hilfiger Iconic Long Lace Sneaker  Zapatillas para Hombre  Azul  Mazarine Blue 440   43 EU'
 ---
 
 Está [Tommy Hilfiger Iconic Long Lace Sneaker  Zapatillas para Hombre  Azul  Mazarine Blue 440   43 EU](https://www.amazon.es/dp/B07L3FVWLF/?tag=tolees-21) con 35.81 de descuento por 38.45 EUR (original: 59.9 EUR) en el siguiente enlace!

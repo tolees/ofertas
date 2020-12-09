@@ -14,7 +14,7 @@ currency: EUR
 price: 6.58
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Vero Moda Vmlife SS Top Jrs  Camiseta sin Mangas Mujer  Azul  Plein Air   34  Talla del Fabricante: X-Small 
+prodname: 'Vero Moda Vmlife SS Top Jrs  Camiseta sin Mangas Mujer  Azul  Plein Air   34  Talla del Fabricante: X-Small '
 ---
 
 Está [Vero Moda Vmlife SS Top Jrs  Camiseta sin Mangas Mujer  Azul  Plein Air   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B01NCKU50B/?tag=tolees-21) con 73.67 de descuento por 6.58 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.71
 comparePrice: 34.99 EUR
 inStock: true
-prodname: IMC Toys - Selfie Mic Rosa  95250 
+prodname: 'IMC Toys - Selfie Mic Rosa  95250 '
 ---
 
 Está [IMC Toys - Selfie Mic Rosa  95250 ](https://www.amazon.es/dp/B01CK2UDYI/?tag=tolees-21) con 66.53 de descuento por 11.71 EUR (original: 34.99 EUR) en el siguiente enlace!

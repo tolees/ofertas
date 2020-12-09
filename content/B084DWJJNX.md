@@ -14,7 +14,7 @@ currency: EUR
 price: 40.52
 comparePrice: 63.67 EUR
 inStock: true
-prodname: Clarks Taylor Shine  Botas Estilo Chelsea Mujer  Verde  Dark Olive Suede   37 EU
+prodname: 'Clarks Taylor Shine  Botas Estilo Chelsea Mujer  Verde  Dark Olive Suede   37 EU'
 ---
 
 Está [Clarks Taylor Shine  Botas Estilo Chelsea Mujer  Verde  Dark Olive Suede   37 EU](https://www.amazon.es/dp/B084DWJJNX/?tag=tolees-21) con 36.36 de descuento por 40.52 EUR (original: 63.67 EUR) en el siguiente enlace!

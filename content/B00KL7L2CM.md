@@ -14,7 +14,7 @@ currency: EUR
 price: 69.9
 comparePrice: 107.78 EUR
 inStock: true
-prodname: Orbegozo AIR 45 Climatizador evaporativo 3 en 1  3 velocidades  aletas direccionales  depósito de 4 l  filtro extraíble  60 W
+prodname: 'Orbegozo AIR 45 Climatizador evaporativo 3 en 1  3 velocidades  aletas direccionales  depósito de 4 l  filtro extraíble  60 W'
 ---
 
 Está [Orbegozo AIR 45 Climatizador evaporativo 3 en 1  3 velocidades  aletas direccionales  depósito de 4 l  filtro extraíble  60 W](https://www.amazon.es/dp/B00KL7L2CM/?tag=tolees-21) con 35.15 de descuento por 69.9 EUR (original: 107.78 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 97.09
 comparePrice: 139.0 EUR
 inStock: true
-prodname: Capazo Kaos Capitone en color negro  695900285 
+prodname: 'Capazo Kaos Capitone en color negro  695900285 '
 ---
 
 Ahora mismo tienes [Capazo Kaos Capitone en color negro  695900285 ](https://www.amazon.es/dp/B07MMD5LBJ/?tag=tolees-21) a 97.09 EUR (original: 139.0 EUR) (30.15 %  de descuento) en el siguiente enlace!

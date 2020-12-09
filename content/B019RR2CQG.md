@@ -14,7 +14,7 @@ currency: EUR
 price: 9.89
 comparePrice: 16.89 EUR
 inStock: true
-prodname: Velilla 103001/C8/T56 Pantalón multibolsillos  Gris  56
+prodname: 'Velilla 103001/C8/T56 Pantalón multibolsillos  Gris  56'
 ---
 
 Tienes [Velilla 103001/C8/T56 Pantalón multibolsillos  Gris  56](https://www.amazon.es/dp/B019RR2CQG/?tag=tolees-21) con un 41.44 % de descuento con precio de oferta de 9.89 EUR (original: 16.89 EUR) en el siguiente enlace!

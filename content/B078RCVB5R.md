@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Wimaha Alfombrillas de baño Extra largas - Resistentes al Moho  Antideslizantes  con Ventosa. para Uso en el baño  Lavables a máquina  100 x 40 cm  Azul 
+prodname: 'Wimaha Alfombrillas de baño Extra largas - Resistentes al Moho  Antideslizantes  con Ventosa. para Uso en el baño  Lavables a máquina  100 x 40 cm  Azul '
 ---
 
 Tienes [Wimaha Alfombrillas de baño Extra largas - Resistentes al Moho  Antideslizantes  con Ventosa. para Uso en el baño  Lavables a máquina  100 x 40 cm  Azul ](https://www.amazon.es/dp/B078RCVB5R/?tag=tolees-21) con un 27.51 % de descuento con precio de oferta de 14.49 EUR (original: 19.99 EUR) en el siguiente enlace!

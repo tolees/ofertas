@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Envoltorios para alimentos de cera de abejas  paquete de 3 Paquete de envoltorios de alimentos reutilizables ecológicos  Almacenador de alimentos de plástico para Quesos  Frutas  Vegetales Y Pan
+prodname: 'Envoltorios para alimentos de cera de abejas  paquete de 3 Paquete de envoltorios de alimentos reutilizables ecológicos  Almacenador de alimentos de plástico para Quesos  Frutas  Vegetales Y Pan'
 ---
 
 Está [Envoltorios para alimentos de cera de abejas  paquete de 3 Paquete de envoltorios de alimentos reutilizables ecológicos  Almacenador de alimentos de plástico para Quesos  Frutas  Vegetales Y Pan](https://www.amazon.es/dp/B07H2XBMB6/?tag=tolees-21) con 44.46 de descuento por 14.99 EUR (original: 26.99 EUR) en el siguiente enlace!

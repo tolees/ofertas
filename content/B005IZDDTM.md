@@ -14,7 +14,7 @@ currency: EUR
 price: 17.49
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Dickies 06 210091  Camiseta Para Hombre  Gris  Dark Grey Mélange   Large   Pack de 3 
+prodname: 'Dickies 06 210091  Camiseta Para Hombre  Gris  Dark Grey Mélange   Large   Pack de 3 '
 ---
 
 Ahora mismo tienes [Dickies 06 210091  Camiseta Para Hombre  Gris  Dark Grey Mélange   Large   Pack de 3 ](https://www.amazon.es/dp/B005IZDDTM/?tag=tolees-21) a 17.49 EUR (original: 30.0 EUR) (41.70 %  de descuento) en el siguiente enlace!

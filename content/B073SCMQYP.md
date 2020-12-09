@@ -14,7 +14,7 @@ currency: EUR
 price: 6.65
 comparePrice: 22 EUR
 inStock: true
-prodname: T-Shirts Camisa Clásica para Hombre  Azul  Dark Blue 211   Small  Talla del fabricante: 15.5 inches 
+prodname: 'T-Shirts Camisa Clásica para Hombre  Azul  Dark Blue 211   Small  Talla del fabricante: 15.5 inches '
 ---
 
 Tienes [T-Shirts Camisa Clásica para Hombre  Azul  Dark Blue 211   Small  Talla del fabricante: 15.5 inches ](https://www.amazon.es/dp/B073SCMQYP/?tag=tolees-21) con un 69.77 % de descuento con precio de oferta de 6.65 EUR (original: 22 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 48.29
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox U Warley B  Zapatillas para Hombre  Negro  Black/Grey C0017   39 EU
+prodname: 'Geox U Warley B  Zapatillas para Hombre  Negro  Black/Grey C0017   39 EU'
 ---
 
 Tienes [Geox U Warley B  Zapatillas para Hombre  Negro  Black/Grey C0017   39 EU](https://www.amazon.es/dp/B07DHYWKT9/?tag=tolees-21) con un 51.66 % de descuento con precio de oferta de 48.29 EUR (original: 99.9 EUR) en el siguiente enlace!

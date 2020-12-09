@@ -14,7 +14,7 @@ currency: EUR
 price: 105.99
 comparePrice: 203.85 EUR
 inStock: true
-prodname: WMF Boston Cromargan - Cubertería 66 piezas para 12 comensales
+prodname: 'WMF Boston Cromargan - Cubertería 66 piezas para 12 comensales'
 ---
 
 Ahora mismo tienes [WMF Boston Cromargan - Cubertería 66 piezas para 12 comensales](https://www.amazon.es/dp/B01B1M6NMO/?tag=tolees-21) a 105.99 EUR (original: 203.85 EUR) (48.01 %  de descuento) en el siguiente enlace!

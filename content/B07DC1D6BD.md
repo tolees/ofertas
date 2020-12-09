@@ -14,7 +14,7 @@ currency: EUR
 price: 26.42
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Puma Suede Classic  Zapatillas Unisex Adults o  Gris  Charcoal Gray Black   37 EU
+prodname: 'Puma Suede Classic  Zapatillas Unisex Adults o  Gris  Charcoal Gray Black   37 EU'
 ---
 
 Está [Puma Suede Classic  Zapatillas Unisex Adults o  Gris  Charcoal Gray Black   37 EU](https://www.amazon.es/dp/B07DC1D6BD/?tag=tolees-21) con 68.90 de descuento por 26.42 EUR (original: 84.95 EUR) en el siguiente enlace!

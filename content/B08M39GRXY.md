@@ -14,7 +14,7 @@ currency: EUR
 price: 1.14
 comparePrice: 1.71 EUR
 inStock: true
-prodname: Longspeed Kawaii Cute Fish Shape Colador de té Silicona Interesante Infusor de té Filtro Tetera para té Café Drinkware - Azul
+prodname: 'Longspeed Kawaii Cute Fish Shape Colador de té Silicona Interesante Infusor de té Filtro Tetera para té Café Drinkware - Azul'
 ---
 
 Tienes [Longspeed Kawaii Cute Fish Shape Colador de té Silicona Interesante Infusor de té Filtro Tetera para té Café Drinkware - Azul](https://www.amazon.es/dp/B08M39GRXY/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 1.14 EUR (original: 1.71 EUR) en el siguiente enlace!

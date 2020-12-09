@@ -14,7 +14,7 @@ currency: EUR
 price: 16.61
 comparePrice: 30 EUR
 inStock: true
-prodname: Cressi Alpha Ultra Dry Snorkel de Silicona Unisex  Negro
+prodname: 'Cressi Alpha Ultra Dry Snorkel de Silicona Unisex  Negro'
 ---
 
 Ahora mismo tienes [Cressi Alpha Ultra Dry Snorkel de Silicona Unisex  Negro](https://www.amazon.es/dp/B00SKQQFMI/?tag=tolees-21) a 16.61 EUR (original: 30 EUR) (44.63 %  de descuento) en el siguiente enlace!

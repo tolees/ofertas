@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: iPosible Luz Solar Jardín  Upgraded 46 LED 1800 mAh Foco Led Solar con Sensor Movimiento Lámpara Solar Exteriors Impermeable Solares de Pared de Seguridad 3 Inteligente Modos para Patio
+prodname: 'iPosible Luz Solar Jardín  Upgraded 46 LED 1800 mAh Foco Led Solar con Sensor Movimiento Lámpara Solar Exteriors Impermeable Solares de Pared de Seguridad 3 Inteligente Modos para Patio'
 ---
 
 Está [iPosible Luz Solar Jardín  Upgraded 46 LED 1800 mAh Foco Led Solar con Sensor Movimiento Lámpara Solar Exteriors Impermeable Solares de Pared de Seguridad 3 Inteligente Modos para Patio](https://www.amazon.es/dp/B078NPKVW7/?tag=tolees-21) con 46.17 de descuento por 13.99 EUR (original: 25.99 EUR) en el siguiente enlace!

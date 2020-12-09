@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 48.2 EUR
 inStock: true
-prodname: BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de reemplazo mensual - Pack de 6
+prodname: 'BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de reemplazo mensual - Pack de 6'
 ---
 
 Tienes [BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de reemplazo mensual - Pack de 6](https://www.amazon.es/dp/B004LHKBIO/?tag=tolees-21) con un 81.35 % de descuento con precio de oferta de 8.99 EUR (original: 48.2 EUR) en el siguiente enlace!

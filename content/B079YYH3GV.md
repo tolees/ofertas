@@ -14,7 +14,7 @@ currency: EUR
 price: 22.79
 comparePrice: 33.6 EUR
 inStock: true
-prodname: Chocolates Simón Coll Chocolate 99% Cacao - 16 Unidades
+prodname: 'Chocolates Simón Coll Chocolate 99% Cacao - 16 Unidades'
 ---
 
 Ahora mismo tienes [Chocolates Simón Coll Chocolate 99% Cacao - 16 Unidades](https://www.amazon.es/dp/B079YYH3GV/?tag=tolees-21) a 22.79 EUR (original: 33.6 EUR) (32.17 %  de descuento) en el siguiente enlace!

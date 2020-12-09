@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Pepe Jeans Original Basic S/S PM503835 Camiseta  Negro  Black 999   Medium para Hombre
+prodname: 'Pepe Jeans Original Basic S/S PM503835 Camiseta  Negro  Black 999   Medium para Hombre'
 ---
 
 Tienes [Pepe Jeans Original Basic S/S PM503835 Camiseta  Negro  Black 999   Medium para Hombre](https://www.amazon.es/dp/B06XTMLMCM/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 9.99 EUR (original: 20.0 EUR) en el siguiente enlace!

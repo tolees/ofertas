@@ -14,7 +14,7 @@ currency: EUR
 price: 27.45
 comparePrice: 87.32 EUR
 inStock: true
-prodname: Warehouse Knitback Abrigo   Green 20   38 ES ES para Mujer
+prodname: 'Warehouse Knitback Abrigo   Green 20   38 ES ES para Mujer'
 ---
 
 Ahora mismo tienes [Warehouse Knitback Abrigo   Green 20   38 ES ES para Mujer](https://www.amazon.es/dp/B07LD1YFVW/?tag=tolees-21) a 27.45 EUR (original: 87.32 EUR) (68.56 %  de descuento) en el siguiente enlace!

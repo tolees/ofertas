@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: FIDECH Masajeador Portátil 5 EN 1 Para Mujeres y Hombres  10 Modos de Frecuencia IPX7  Silicona Suave Médica. Carga USB Regalo de Navidad y día de San Valentín
+prodname: 'FIDECH Masajeador Portátil 5 EN 1 Para Mujeres y Hombres  10 Modos de Frecuencia IPX7  Silicona Suave Médica. Carga USB Regalo de Navidad y día de San Valentín'
 ---
 
 Está [FIDECH Masajeador Portátil 5 EN 1 Para Mujeres y Hombres  10 Modos de Frecuencia IPX7  Silicona Suave Médica. Carga USB Regalo de Navidad y día de San Valentín](https://www.amazon.es/dp/B08FFT6M8P/?tag=tolees-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

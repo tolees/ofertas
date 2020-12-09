@@ -14,7 +14,7 @@ currency: EUR
 price: 90.82
 comparePrice: 167.33 EUR
 inStock: true
-prodname: Makita DUH523Z - Cortasetos 18V Litio 52cm
+prodname: 'Makita DUH523Z - Cortasetos 18V Litio 52cm'
 ---
 
 Está [Makita DUH523Z - Cortasetos 18V Litio 52cm](https://www.amazon.es/dp/B00I8N1ABY/?tag=tolees-21) con 45.72 de descuento por 90.82 EUR (original: 167.33 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.46
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Adidas Lin Per Bp  Mochila Unisex Adulto  Negro  Negro/Negro/Blanco   Talla única
+prodname: 'Adidas Lin Per Bp  Mochila Unisex Adulto  Negro  Negro/Negro/Blanco   Talla única'
 ---
 
 Ahora mismo tienes [Adidas Lin Per Bp  Mochila Unisex Adulto  Negro  Negro/Negro/Blanco   Talla única](https://www.amazon.es/dp/B01LSZ2V5C/?tag=tolees-21) a 17.46 EUR (original: 24.95 EUR) (30.02 %  de descuento) en el siguiente enlace!

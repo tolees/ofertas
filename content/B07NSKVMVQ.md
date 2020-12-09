@@ -14,7 +14,7 @@ currency: EUR
 price: 9.66
 comparePrice: 14.4 EUR
 inStock: true
-prodname: Pato - Wc Acción Total aroma Oceano  Limpiador para inodoro  limpia y perfuma  750 ml - [Pack de 6]
+prodname: 'Pato - Wc Acción Total aroma Oceano  Limpiador para inodoro  limpia y perfuma  750 ml - [Pack de 6]'
 ---
 
 Ahora mismo tienes [Pato - Wc Acción Total aroma Oceano  Limpiador para inodoro  limpia y perfuma  750 ml - [Pack de 6]](https://www.amazon.es/dp/B07NSKVMVQ/?tag=tolees-21) a 9.66 EUR (original: 14.4 EUR) (32.92 %  de descuento) en el siguiente enlace!

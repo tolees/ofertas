@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 22.7 EUR
 inStock: true
-prodname: Cortapelos Nariz Hombre 4 en 1 Trimmer Nariz Cortador de Pelo de Nariz Eléctrico Para Nariz  Oreja  Ceja  Patillas.  batería 4 en 1 
+prodname: 'Cortapelos Nariz Hombre 4 en 1 Trimmer Nariz Cortador de Pelo de Nariz Eléctrico Para Nariz  Oreja  Ceja  Patillas.  batería 4 en 1 '
 ---
 
 Tienes [Cortapelos Nariz Hombre 4 en 1 Trimmer Nariz Cortador de Pelo de Nariz Eléctrico Para Nariz  Oreja  Ceja  Patillas.  batería 4 en 1 ](https://www.amazon.es/dp/B07KWWZJJ6/?tag=tolees-21) con un 42.78 % de descuento con precio de oferta de 12.99 EUR (original: 22.7 EUR) en el siguiente enlace!

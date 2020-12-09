@@ -14,7 +14,7 @@ currency: EUR
 price: 89.0
 comparePrice: 279.0 EUR
 inStock: true
-prodname: Emporio Armani Reloj Analogico para Mujer de Cuarzo con Correa en Cuero Genuino AR11270
+prodname: 'Emporio Armani Reloj Analogico para Mujer de Cuarzo con Correa en Cuero Genuino AR11270'
 ---
 
 Está [Emporio Armani Reloj Analogico para Mujer de Cuarzo con Correa en Cuero Genuino AR11270](https://www.amazon.es/dp/B07ZQYD6DJ/?tag=tolees-21) con 68.10 de descuento por 89.0 EUR (original: 279.0 EUR) en el siguiente enlace!

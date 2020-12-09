@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 50.99 EUR
 inStock: true
-prodname: Urban Classics Basic Down Jacket  Chaqueta para Hombre  Grau  Darkgrey 94  Large
+prodname: 'Urban Classics Basic Down Jacket  Chaqueta para Hombre  Grau  Darkgrey 94  Large'
 ---
 
 Tienes [Urban Classics Basic Down Jacket  Chaqueta para Hombre  Grau  Darkgrey 94  Large](https://www.amazon.es/dp/B071JRZXK8/?tag=tolees-21) con un 70.68 % de descuento con precio de oferta de 14.95 EUR (original: 50.99 EUR) en el siguiente enlace!

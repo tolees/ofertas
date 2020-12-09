@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Vibrador Mariposa con Función de Calentamiento  Vibrador Masajeador de Clítoris con Control Remoto Inalámbrico 7 Modos de Vibración  Triple Vibrador Juguete Sexual Impermeable para Mujeres y Parejas
+prodname: 'Vibrador Mariposa con Función de Calentamiento  Vibrador Masajeador de Clítoris con Control Remoto Inalámbrico 7 Modos de Vibración  Triple Vibrador Juguete Sexual Impermeable para Mujeres y Parejas'
 ---
 
 Está [Vibrador Mariposa con Función de Calentamiento  Vibrador Masajeador de Clítoris con Control Remoto Inalámbrico 7 Modos de Vibración  Triple Vibrador Juguete Sexual Impermeable para Mujeres y Parejas](https://www.amazon.es/dp/B07H9MRG3L/?tag=tolees-21) con 27.79 de descuento por 25.99 EUR (original: 35.99 EUR) en el siguiente enlace!

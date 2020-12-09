@@ -14,7 +14,7 @@ currency: EUR
 price: 7.45
 comparePrice: 29.99 EUR
 inStock: true
-prodname: edc by Esprit 037cc2c002  Pantalones Cortos Hombre  Verde  Dusty Green   44  Talla del Fabricante: 28 
+prodname: 'edc by Esprit 037cc2c002  Pantalones Cortos Hombre  Verde  Dusty Green   44  Talla del Fabricante: 28 '
 ---
 
 Ahora mismo tienes [edc by Esprit 037cc2c002  Pantalones Cortos Hombre  Verde  Dusty Green   44  Talla del Fabricante: 28 ](https://www.amazon.es/dp/B01MZ1HCHU/?tag=tolees-21) a 7.45 EUR (original: 29.99 EUR) (75.16 %  de descuento) en el siguiente enlace!

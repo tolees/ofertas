@@ -14,7 +14,7 @@ currency: EUR
 price: 57.0
 comparePrice: 80.19 EUR
 inStock: true
-prodname: Bosch Hogar MSM88110 Batidora De Mano  800 W  Color  Plástico  12 Velocidades  Negro  Acero inoxidable
+prodname: 'Bosch Hogar MSM88110 Batidora De Mano  800 W  Color  Plástico  12 Velocidades  Negro  Acero inoxidable'
 ---
 
 Tienes [Bosch Hogar MSM88110 Batidora De Mano  800 W  Color  Plástico  12 Velocidades  Negro  Acero inoxidable](https://www.amazon.es/dp/B00IMEJJE4/?tag=tolees-21) con un 28.92 % de descuento con precio de oferta de 57.0 EUR (original: 80.19 EUR) en el siguiente enlace!

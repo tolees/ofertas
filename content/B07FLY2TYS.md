@@ -14,7 +14,7 @@ currency: EUR
 price: 22.32
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Bata 8946312  Botas Militares para Hombre  Negro  Nero 6   46 EU
+prodname: 'Bata 8946312  Botas Militares para Hombre  Negro  Nero 6   46 EU'
 ---
 
 Tienes [Bata 8946312  Botas Militares para Hombre  Negro  Nero 6   46 EU](https://www.amazon.es/dp/B07FLY2TYS/?tag=tolees-21) con un 75.20 % de descuento con precio de oferta de 22.32 EUR (original: 89.99 EUR) en el siguiente enlace!

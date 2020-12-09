@@ -14,7 +14,7 @@ currency: EUR
 price: 46.95
 comparePrice: 79 EUR
 inStock: true
-prodname: Lacoste Explorateur Classic3181cac  Zapatillas Unisex Niños  Azul  Nvy/Dk Tan Nt3   31 EU
+prodname: 'Lacoste Explorateur Classic3181cac  Zapatillas Unisex Niños  Azul  Nvy/Dk Tan Nt3   31 EU'
 ---
 
 Tienes [Lacoste Explorateur Classic3181cac  Zapatillas Unisex Niños  Azul  Nvy/Dk Tan Nt3   31 EU](https://www.amazon.es/dp/B07CZ7LZNG/?tag=tolees-21) con un 40.57 % de descuento con precio de oferta de 46.95 EUR (original: 79 EUR) en el siguiente enlace!

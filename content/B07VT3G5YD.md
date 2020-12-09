@@ -14,7 +14,7 @@ currency: EUR
 price: 32.94
 comparePrice: 91.65 EUR
 inStock: true
-prodname: Tommy Hilfiger Mujer Rome Straight Rw Izzy Straight Jeans  Azul  Izzy 1a5   W24/L32
+prodname: 'Tommy Hilfiger Mujer Rome Straight Rw Izzy Straight Jeans  Azul  Izzy 1a5   W24/L32'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Mujer Rome Straight Rw Izzy Straight Jeans  Azul  Izzy 1a5   W24/L32](https://www.amazon.es/dp/B07VT3G5YD/?tag=tolees-21) a 32.94 EUR (original: 91.65 EUR) (64.06 %  de descuento) en el siguiente enlace!

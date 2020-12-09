@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: HUAWEI 55030349 - Cargador de Coche Dual USB  Super Charge Segunda Generación  Negro
+prodname: 'HUAWEI 55030349 - Cargador de Coche Dual USB  Super Charge Segunda Generación  Negro'
 ---
 
 Tienes [HUAWEI 55030349 - Cargador de Coche Dual USB  Super Charge Segunda Generación  Negro](https://www.amazon.es/dp/B07JDQYCKS/?tag=tolees-21) con un 42.87 % de descuento con precio de oferta de 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!

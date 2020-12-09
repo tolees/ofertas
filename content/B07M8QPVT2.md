@@ -14,7 +14,7 @@ currency: EUR
 price: 52.97
 comparePrice: 95 EUR
 inStock: true
-prodname: The North Face Borealis Classic Mochila  Unisex Adulto  Urban Navy/Vint  Talla Única
+prodname: 'The North Face Borealis Classic Mochila  Unisex Adulto  Urban Navy/Vint  Talla Única'
 ---
 
 Tienes [The North Face Borealis Classic Mochila  Unisex Adulto  Urban Navy/Vint  Talla Única](https://www.amazon.es/dp/B07M8QPVT2/?tag=tolees-21) con un 44.24 % de descuento con precio de oferta de 52.97 EUR (original: 95 EUR) en el siguiente enlace!

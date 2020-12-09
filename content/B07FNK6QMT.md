@@ -14,7 +14,7 @@ currency: EUR
 price: 139.0
 comparePrice: 206.99 EUR
 inStock: true
-prodname: WD Elements Desktop - Disco duro externo de sobremesa de 8 TB  color negro
+prodname: 'WD Elements Desktop - Disco duro externo de sobremesa de 8 TB  color negro'
 ---
 
 Tienes [WD Elements Desktop - Disco duro externo de sobremesa de 8 TB  color negro](https://www.amazon.es/dp/B07FNK6QMT/?tag=tolees-21) con un 32.85 % de descuento con precio de oferta de 139.0 EUR (original: 206.99 EUR) en el siguiente enlace!

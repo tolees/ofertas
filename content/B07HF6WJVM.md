@@ -14,7 +14,7 @@ currency: EUR
 price: 4.45
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Miminuo Halloween Ghost Festival Horror Mask Sorpresa Fantasma Femenino Mascarilla Cosplay Máscara Lateral Scary Full Head
+prodname: 'Miminuo Halloween Ghost Festival Horror Mask Sorpresa Fantasma Femenino Mascarilla Cosplay Máscara Lateral Scary Full Head'
 ---
 
 Ahora mismo tienes [Miminuo Halloween Ghost Festival Horror Mask Sorpresa Fantasma Femenino Mascarilla Cosplay Máscara Lateral Scary Full Head](https://www.amazon.es/dp/B07HF6WJVM/?tag=tolees-21) a 4.45 EUR (original: 16.99 EUR) (73.81 %  de descuento) en el siguiente enlace!

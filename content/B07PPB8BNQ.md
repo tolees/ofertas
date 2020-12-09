@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Orbegozo HOT 235 - Horno eléctrico de sobremesa con convección  23 litros de capacidad  temperatura regulable hasta 230°C  luz interior  temporizador 60 min  1500 W de potencia
+prodname: 'Orbegozo HOT 235 - Horno eléctrico de sobremesa con convección  23 litros de capacidad  temperatura regulable hasta 230°C  luz interior  temporizador 60 min  1500 W de potencia'
 ---
 
 Está [Orbegozo HOT 235 - Horno eléctrico de sobremesa con convección  23 litros de capacidad  temperatura regulable hasta 230°C  luz interior  temporizador 60 min  1500 W de potencia](https://www.amazon.es/dp/B07PPB8BNQ/?tag=tolees-21) con 39.95 de descuento por 59.99 EUR (original: 99.9 EUR) en el siguiente enlace!

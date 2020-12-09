@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 199.94 EUR
 inStock: true
-prodname: Echo Dot  3.ª generación   Tela de color gris oscuro + Philips Hue Bombilla Inteligente Starter Kit  2x E27   compatible con Alexa
+prodname: 'Echo Dot  3.ª generación   Tela de color gris oscuro + Philips Hue Bombilla Inteligente Starter Kit  2x E27   compatible con Alexa'
 ---
 
 Está [Echo Dot  3.ª generación   Tela de color gris oscuro + Philips Hue Bombilla Inteligente Starter Kit  2x E27   compatible con Alexa](https://www.amazon.es/dp/B08LWVTSH6/?tag=tolees-21) con 49.99 de descuento por 99.99 EUR (original: 199.94 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Camara WiFi Exterior Motorizada  Cameras de Seguridad WiFi 5MP HD  Camera WiFi Impermeable IP66 con Audio de Dos Vías，Visión Nocturna 50M en Color Detección de Movimiento Monitorización Inteligente
+prodname: 'Camara WiFi Exterior Motorizada  Cameras de Seguridad WiFi 5MP HD  Camera WiFi Impermeable IP66 con Audio de Dos Vías，Visión Nocturna 50M en Color Detección de Movimiento Monitorización Inteligente'
 ---
 
 Ahora mismo tienes [Camara WiFi Exterior Motorizada  Cameras de Seguridad WiFi 5MP HD  Camera WiFi Impermeable IP66 con Audio de Dos Vías，Visión Nocturna 50M en Color Detección de Movimiento Monitorización Inteligente](https://www.amazon.es/dp/B08HJ9BHP2/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

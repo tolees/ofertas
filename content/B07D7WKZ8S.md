@@ -14,7 +14,7 @@ currency: EUR
 price: 27.97
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Recbot Lámpara con Pinza 2000 mAh Batería de Litio Recargable con USB Flexo Pinza LED Color Regulable Desde 3000K hasta 6500K 3 Modos 11 Niveles de Brillo para estudiar Trabajar Cama Dormir etc
+prodname: 'Recbot Lámpara con Pinza 2000 mAh Batería de Litio Recargable con USB Flexo Pinza LED Color Regulable Desde 3000K hasta 6500K 3 Modos 11 Niveles de Brillo para estudiar Trabajar Cama Dormir etc'
 ---
 
 Ahora mismo tienes [Recbot Lámpara con Pinza 2000 mAh Batería de Litio Recargable con USB Flexo Pinza LED Color Regulable Desde 3000K hasta 6500K 3 Modos 11 Niveles de Brillo para estudiar Trabajar Cama Dormir etc](https://www.amazon.es/dp/B07D7WKZ8S/?tag=tolees-21) a 27.97 EUR (original: 49.99 EUR) (44.05 %  de descuento) en el siguiente enlace!

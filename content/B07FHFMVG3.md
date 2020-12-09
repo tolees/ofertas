@@ -14,7 +14,7 @@ currency: EUR
 price: 73.5
 comparePrice: 169.99 EUR
 inStock: true
-prodname: SELECTED HOMME Slhbrove Wool Coat B Noos  Abrigo Hombre  Negro  Black Detail:Twill   Large
+prodname: 'SELECTED HOMME Slhbrove Wool Coat B Noos  Abrigo Hombre  Negro  Black Detail:Twill   Large'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhbrove Wool Coat B Noos  Abrigo Hombre  Negro  Black Detail:Twill   Large](https://www.amazon.es/dp/B07FHFMVG3/?tag=tolees-21) a 73.5 EUR (original: 169.99 EUR) (56.76 %  de descuento) en el siguiente enlace!

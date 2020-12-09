@@ -14,7 +14,7 @@ currency: EUR
 price: 52.99
 comparePrice: 73.99 EUR
 inStock: true
-prodname: Mars Gaming MPVU750  Fuente PC 750W  80Plus Silver  PFC activo  ventilador 14cm
+prodname: 'Mars Gaming MPVU750  Fuente PC 750W  80Plus Silver  PFC activo  ventilador 14cm'
 ---
 
 Tienes [Mars Gaming MPVU750  Fuente PC 750W  80Plus Silver  PFC activo  ventilador 14cm](https://www.amazon.es/dp/B00SLC5M5C/?tag=tolees-21) con un 28.38 % de descuento con precio de oferta de 52.99 EUR (original: 73.99 EUR) en el siguiente enlace!

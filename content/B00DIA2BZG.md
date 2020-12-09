@@ -14,7 +14,7 @@ currency: EUR
 price: 32.78
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Columbia Saturday Trail II Shorts Largos  Mujer  Azul  India Ink   W4/L18
+prodname: 'Columbia Saturday Trail II Shorts Largos  Mujer  Azul  India Ink   W4/L18'
 ---
 
 Está [Columbia Saturday Trail II Shorts Largos  Mujer  Azul  India Ink   W4/L18](https://www.amazon.es/dp/B00DIA2BZG/?tag=tolees-21) con 49.56 de descuento por 32.78 EUR (original: 64.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 66.99 EUR
 inStock: true
-prodname: NAIXUES Pulsera Actividad Inteligente Pantalla Color  Pulsera Actividad con Oxígeno en Sangre  Monitor de Ritmo Cardíaco y Sueño  Podómetro GPS  Cronómetro  IP 67 Reloj Inteligente para iOS y Android
+prodname: 'NAIXUES Pulsera Actividad Inteligente Pantalla Color  Pulsera Actividad con Oxígeno en Sangre  Monitor de Ritmo Cardíaco y Sueño  Podómetro GPS  Cronómetro  IP 67 Reloj Inteligente para iOS y Android'
 ---
 
 Ahora mismo tienes [NAIXUES Pulsera Actividad Inteligente Pantalla Color  Pulsera Actividad con Oxígeno en Sangre  Monitor de Ritmo Cardíaco y Sueño  Podómetro GPS  Cronómetro  IP 67 Reloj Inteligente para iOS y Android](https://www.amazon.es/dp/B07GFDGPHM/?tag=tolees-21) a 21.99 EUR (original: 66.99 EUR) (67.17 %  de descuento) en el siguiente enlace!

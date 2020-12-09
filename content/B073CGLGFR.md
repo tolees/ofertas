@@ -14,7 +14,7 @@ currency: EUR
 price: 9.49
 comparePrice: 34.14 EUR
 inStock: true
-prodname: Juguetes de Madera Rompecabezas Magnéticos Juego de Pesca Magnética con Caña de Pesca Vestir a los Amigos para Niños 3 4 5 6
+prodname: 'Juguetes de Madera Rompecabezas Magnéticos Juego de Pesca Magnética con Caña de Pesca Vestir a los Amigos para Niños 3 4 5 6'
 ---
 
 Tienes [Juguetes de Madera Rompecabezas Magnéticos Juego de Pesca Magnética con Caña de Pesca Vestir a los Amigos para Niños 3 4 5 6](https://www.amazon.es/dp/B073CGLGFR/?tag=tolees-21) con un 72.20 % de descuento con precio de oferta de 9.49 EUR (original: 34.14 EUR) en el siguiente enlace!

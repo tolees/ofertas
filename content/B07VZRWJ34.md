@@ -14,7 +14,7 @@ currency: EUR
 price: 37.52
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Rovina-Clean Sheen  Zapatillas Mujer  Multicolor  Wht Black Duraleather/Durapatent/Mesh Trim   39 EU
+prodname: 'Skechers Rovina-Clean Sheen  Zapatillas Mujer  Multicolor  Wht Black Duraleather/Durapatent/Mesh Trim   39 EU'
 ---
 
 Está [Skechers Rovina-Clean Sheen  Zapatillas Mujer  Multicolor  Wht Black Duraleather/Durapatent/Mesh Trim   39 EU](https://www.amazon.es/dp/B07VZRWJ34/?tag=tolees-21) con 46.36 de descuento por 37.52 EUR (original: 69.95 EUR) en el siguiente enlace!

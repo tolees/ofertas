@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Corrector de postura para espalda Hombre y Mujer - Faja dorsal ajustable para hombros rectos - Sostén de Columna Vertebral  Corrector de cifosis  Corrector de cuello – Bolsa + Libro + Banda elástica
+prodname: 'Corrector de postura para espalda Hombre y Mujer - Faja dorsal ajustable para hombros rectos - Sostén de Columna Vertebral  Corrector de cifosis  Corrector de cuello – Bolsa + Libro + Banda elástica'
 ---
 
 Tienes [Corrector de postura para espalda Hombre y Mujer - Faja dorsal ajustable para hombros rectos - Sostén de Columna Vertebral  Corrector de cifosis  Corrector de cuello – Bolsa + Libro + Banda elástica](https://www.amazon.es/dp/B07V3RJ3GJ/?tag=tolees-21) con un 64.42 % de descuento con precio de oferta de 20.99 EUR (original: 59.0 EUR) en el siguiente enlace!

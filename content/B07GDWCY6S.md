@@ -14,7 +14,7 @@ currency: EUR
 price: 39
 comparePrice: 60 EUR
 inStock: true
-prodname: Levi s Barstow Western Camisa   Wildcat Indigo 2 0303   Large para Hombre
+prodname: 'Levi s Barstow Western Camisa   Wildcat Indigo 2 0303   Large para Hombre'
 ---
 
 Tienes [Levi s Barstow Western Camisa   Wildcat Indigo 2 0303   Large para Hombre](https://www.amazon.es/dp/B07GDWCY6S/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 39 EUR (original: 60 EUR) en el siguiente enlace!

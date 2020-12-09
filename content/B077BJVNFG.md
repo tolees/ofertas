@@ -14,7 +14,7 @@ currency: EUR
 price: 15.4
 comparePrice: 22 EUR
 inStock: true
-prodname: AURIQUE Leggings de Deporte Mujer  Negro  Black   38  Talla del fabricante: Small 
+prodname: 'AURIQUE Leggings de Deporte Mujer  Negro  Black   38  Talla del fabricante: Small '
 ---
 
 Tienes [AURIQUE Leggings de Deporte Mujer  Negro  Black   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B077BJVNFG/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 15.4 EUR (original: 22 EUR) en el siguiente enlace!

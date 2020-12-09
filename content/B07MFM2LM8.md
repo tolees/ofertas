@@ -14,7 +14,7 @@ currency: EUR
 price: 74.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Ronnie Walk  Zapatos de Cordones Derby para Hombre  Marrón  British Tan Lea British Tan Lea   39.5 EU
+prodname: 'Clarks Ronnie Walk  Zapatos de Cordones Derby para Hombre  Marrón  British Tan Lea British Tan Lea   39.5 EU'
 ---
 
 Tienes [Clarks Ronnie Walk  Zapatos de Cordones Derby para Hombre  Marrón  British Tan Lea British Tan Lea   39.5 EU](https://www.amazon.es/dp/B07MFM2LM8/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 74.95 EUR (original: 99.95 EUR) en el siguiente enlace!

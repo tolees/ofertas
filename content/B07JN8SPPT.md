@@ -14,7 +14,7 @@ currency: EUR
 price: 90.25
 comparePrice: 160 EUR
 inStock: true
-prodname: Guess Romana Jacket Abrigo  Negro  Jet Black A996 Jblk   Small para Mujer
+prodname: 'Guess Romana Jacket Abrigo  Negro  Jet Black A996 Jblk   Small para Mujer'
 ---
 
 Ahora mismo tienes [Guess Romana Jacket Abrigo  Negro  Jet Black A996 Jblk   Small para Mujer](https://www.amazon.es/dp/B07JN8SPPT/?tag=tolees-21) a 90.25 EUR (original: 160 EUR) (43.59 %  de descuento) en el siguiente enlace!

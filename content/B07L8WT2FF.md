@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: TOPERSUN Lápiz de Color 72 Colores Regalo Ideal para Artistas  Adultos y Niños
+prodname: 'TOPERSUN Lápiz de Color 72 Colores Regalo Ideal para Artistas  Adultos y Niños'
 ---
 
 Está [TOPERSUN Lápiz de Color 72 Colores Regalo Ideal para Artistas  Adultos y Niños](https://www.amazon.es/dp/B07L8WT2FF/?tag=tolees-21) con 74.30 de descuento por 17.99 EUR (original: 69.99 EUR) en el siguiente enlace!

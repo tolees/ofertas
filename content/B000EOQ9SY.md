@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 24.5 EUR
 inStock: true
-prodname: TFA 40.2005  110 x 110 x 140 mm  180 g - Termómetro
+prodname: 'TFA 40.2005  110 x 110 x 140 mm  180 g - Termómetro'
 ---
 
 Ahora mismo tienes [TFA 40.2005  110 x 110 x 140 mm  180 g - Termómetro](https://www.amazon.es/dp/B000EOQ9SY/?tag=tolees-21) a 14.95 EUR (original: 24.5 EUR) (38.98 %  de descuento) en el siguiente enlace!

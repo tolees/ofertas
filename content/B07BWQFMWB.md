@@ -14,7 +14,7 @@ currency: EUR
 price: 279.0
 comparePrice: 499.0 EUR
 inStock: true
-prodname: Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1513581  Negro
+prodname: 'Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1513581  Negro'
 ---
 
 Ahora mismo tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1513581  Negro](https://www.amazon.es/dp/B07BWQFMWB/?tag=tolees-21) a 279.0 EUR (original: 499.0 EUR) (44.09 %  de descuento) en el siguiente enlace!

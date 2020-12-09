@@ -14,7 +14,7 @@ currency: EUR
 price: 11.88
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Tally Weijl Spacogoalo  Pantalones Sport Para Mujer  color negro  black hh   talla Gr. 38
+prodname: 'Tally Weijl Spacogoalo  Pantalones Sport Para Mujer  color negro  black hh   talla Gr. 38'
 ---
 
 Tienes [Tally Weijl Spacogoalo  Pantalones Sport Para Mujer  color negro  black hh   talla Gr. 38](https://www.amazon.es/dp/B01BHVYJ34/?tag=tolees-21) con un 54.29 % de descuento con precio de oferta de 11.88 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.11
 comparePrice: 50.48 EUR
 inStock: true
-prodname: Bench BLBF0118-baño Mujer Negro  Black BK022  36
+prodname: 'Bench BLBF0118-baño Mujer Negro  Black BK022  36'
 ---
 
 Ahora mismo tienes [Bench BLBF0118-baño Mujer Negro  Black BK022  36](https://www.amazon.es/dp/B01N2IAEW3/?tag=tolees-21) a 10.11 EUR (original: 50.48 EUR) (79.97 %  de descuento) en el siguiente enlace!

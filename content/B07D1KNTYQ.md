@@ -14,7 +14,7 @@ currency: EUR
 price: 34.52
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Asics Gel-Rocket 8  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Deep Ocean 100   42 EU
+prodname: 'Asics Gel-Rocket 8  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Deep Ocean 100   42 EU'
 ---
 
 Tienes [Asics Gel-Rocket 8  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Deep Ocean 100   42 EU](https://www.amazon.es/dp/B07D1KNTYQ/?tag=tolees-21) con un 46.88 % de descuento con precio de oferta de 34.52 EUR (original: 64.99 EUR) en el siguiente enlace!

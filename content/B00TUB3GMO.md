@@ -14,7 +14,7 @@ currency: EUR
 price: 1.95
 comparePrice: 2.6 EUR
 inStock: true
-prodname: Flower 10839 10839-Abono Clavos  5 Unidades  No Aplica  16x1x10 cm
+prodname: 'Flower 10839 10839-Abono Clavos  5 Unidades  No Aplica  16x1x10 cm'
 ---
 
 Ahora mismo tienes [Flower 10839 10839-Abono Clavos  5 Unidades  No Aplica  16x1x10 cm](https://www.amazon.es/dp/B00TUB3GMO/?tag=tolees-21) a 1.95 EUR (original: 2.6 EUR) (25.00 %  de descuento) en el siguiente enlace!

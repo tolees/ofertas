@@ -14,7 +14,7 @@ currency: EUR
 price: 14.0
 comparePrice: 24.99 EUR
 inStock: true
-prodname: PUMA Popcat  Sandalias deslizantes  Blanco White Black  35.5 EU
+prodname: 'PUMA Popcat  Sandalias deslizantes  Blanco White Black  35.5 EU'
 ---
 
 Está [PUMA Popcat  Sandalias deslizantes  Blanco White Black  35.5 EU](https://www.amazon.es/dp/B01N76MVMM/?tag=tolees-21) con 43.98 de descuento por 14.0 EUR (original: 24.99 EUR) en el siguiente enlace!

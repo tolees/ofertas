@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Puma Adela Jr  Zapatillas para Niñas  Rosa Pale Pink  36 EU
+prodname: 'Puma Adela Jr  Zapatillas para Niñas  Rosa Pale Pink  36 EU'
 ---
 
 Ahora mismo tienes [Puma Adela Jr  Zapatillas para Niñas  Rosa Pale Pink  36 EU](https://www.amazon.es/dp/B07DBXSFNW/?tag=tolees-21) a 24.9 EUR (original: 49.95 EUR) (50.15 %  de descuento) en el siguiente enlace!

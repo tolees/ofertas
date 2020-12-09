@@ -14,7 +14,7 @@ currency: EUR
 price: 33.15
 comparePrice: 79.99 EUR
 inStock: true
-prodname: JACK & JONES Jorlatte Parka Jacket  Verde Forest Night  Large para Hombre
+prodname: 'JACK & JONES Jorlatte Parka Jacket  Verde Forest Night  Large para Hombre'
 ---
 
 Está [JACK & JONES Jorlatte Parka Jacket  Verde Forest Night  Large para Hombre](https://www.amazon.es/dp/B07F8Y3ZFS/?tag=tolees-21) con 58.56 de descuento por 33.15 EUR (original: 79.99 EUR) en el siguiente enlace!

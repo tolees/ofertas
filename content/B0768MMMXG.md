@@ -14,7 +14,7 @@ currency: EUR
 price: 5.55
 comparePrice: 10.0 EUR
 inStock: true
-prodname: L Oréal Paris Men Expert - Barber Club gel hidratante para barba corta y piel - 50 ml
+prodname: 'L Oréal Paris Men Expert - Barber Club gel hidratante para barba corta y piel - 50 ml'
 ---
 
 Está [L Oréal Paris Men Expert - Barber Club gel hidratante para barba corta y piel - 50 ml](https://www.amazon.es/dp/B0768MMMXG/?tag=tolees-21) con 44.50 de descuento por 5.55 EUR (original: 10.0 EUR) en el siguiente enlace!

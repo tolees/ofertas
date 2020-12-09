@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Nike Court Vision LO  Zapatillas para Hombre  Blanco  White/White/Black 102   44 EU
+prodname: 'Nike Court Vision LO  Zapatillas para Hombre  Blanco  White/White/Black 102   44 EU'
 ---
 
 Tienes [Nike Court Vision LO  Zapatillas para Hombre  Blanco  White/White/Black 102   44 EU](https://www.amazon.es/dp/B07NMYRFJD/?tag=tolees-21) con un 30.76 % de descuento con precio de oferta de 45.0 EUR (original: 64.99 EUR) en el siguiente enlace!

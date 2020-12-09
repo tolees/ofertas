@@ -14,7 +14,7 @@ currency: EUR
 price: 20.96
 comparePrice: 59.95 EUR
 inStock: true
-prodname: BOSS tee 7 Camiseta  Azul  Navy 121   XX-Large para Hombre
+prodname: 'BOSS tee 7 Camiseta  Azul  Navy 121   XX-Large para Hombre'
 ---
 
 Tienes [BOSS tee 7 Camiseta  Azul  Navy 121   XX-Large para Hombre](https://www.amazon.es/dp/B07KGQRSPX/?tag=tolees-21) con un 65.04 % de descuento con precio de oferta de 20.96 EUR (original: 59.95 EUR) en el siguiente enlace!

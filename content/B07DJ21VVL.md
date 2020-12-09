@@ -14,7 +14,7 @@ currency: EUR
 price: 28.44
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance 247v2  Zapatillas para Hombre  Negro  Black/Silver FF   37 EU
+prodname: 'New Balance 247v2  Zapatillas para Hombre  Negro  Black/Silver FF   37 EU'
 ---
 
 Está [New Balance 247v2  Zapatillas para Hombre  Negro  Black/Silver FF   37 EU](https://www.amazon.es/dp/B07DJ21VVL/?tag=tolees-21) con 68.40 de descuento por 28.44 EUR (original: 90 EUR) en el siguiente enlace!

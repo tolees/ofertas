@@ -14,7 +14,7 @@ currency: EUR
 price: 5.49
 comparePrice: 8.95 EUR
 inStock: true
-prodname: Alien 2: Aliens - Bluray [Blu-ray]
+prodname: 'Alien 2: Aliens - Bluray [Blu-ray]'
 ---
 
 Está [Alien 2: Aliens - Bluray [Blu-ray]](https://www.amazon.es/dp/B005JSTE2S/?tag=tolees-21) con 38.66 de descuento por 5.49 EUR (original: 8.95 EUR) en el siguiente enlace!

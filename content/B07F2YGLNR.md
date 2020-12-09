@@ -14,7 +14,7 @@ currency: EUR
 price: 39.58
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Puma Cilia  Zapatillas para Mujer  Gris Gray Silver White  38 EU
+prodname: 'Puma Cilia  Zapatillas para Mujer  Gris Gray Silver White  38 EU'
 ---
 
 Ahora mismo tienes [Puma Cilia  Zapatillas para Mujer  Gris Gray Silver White  38 EU](https://www.amazon.es/dp/B07F2YGLNR/?tag=tolees-21) a 39.58 EUR (original: 59.95 EUR) (33.98 %  de descuento) en el siguiente enlace!

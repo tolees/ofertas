@@ -14,7 +14,7 @@ currency: EUR
 price: 17.82
 comparePrice: 46.5 EUR
 inStock: true
-prodname: Agatha Ruiz de la Prada-16867 Mochila Grande Triple  pilares Miquel-Rius 16867
+prodname: 'Agatha Ruiz de la Prada-16867 Mochila Grande Triple  pilares Miquel-Rius 16867'
 ---
 
 Tienes [Agatha Ruiz de la Prada-16867 Mochila Grande Triple  pilares Miquel-Rius 16867](https://www.amazon.es/dp/B07CJCF6G4/?tag=tolees-21) con un 61.68 % de descuento con precio de oferta de 17.82 EUR (original: 46.5 EUR) en el siguiente enlace!

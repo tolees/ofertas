@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Richgv Tableta de Escritura LCD a Color - 8.5 Pulgadas Tableta Educativas para Niños Tableta Gráfica de Dibujo Sin Papel Trabajar Oficina Familia  8.5 Pulgadas  Verde 
+prodname: 'Richgv Tableta de Escritura LCD a Color - 8.5 Pulgadas Tableta Educativas para Niños Tableta Gráfica de Dibujo Sin Papel Trabajar Oficina Familia  8.5 Pulgadas  Verde '
 ---
 
 Ahora mismo tienes [Richgv Tableta de Escritura LCD a Color - 8.5 Pulgadas Tableta Educativas para Niños Tableta Gráfica de Dibujo Sin Papel Trabajar Oficina Familia  8.5 Pulgadas  Verde ](https://www.amazon.es/dp/B081VBHNLF/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

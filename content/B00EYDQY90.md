@@ -14,7 +14,7 @@ currency: EUR
 price: 69
 comparePrice: 119 EUR
 inStock: true
-prodname: De Longhi EO20312 Horno De Sobremesa  1300 W  20 L  4 modos de función  acero inoxidable  plástico  negro
+prodname: 'De Longhi EO20312 Horno De Sobremesa  1300 W  20 L  4 modos de función  acero inoxidable  plástico  negro'
 ---
 
 Tienes [De Longhi EO20312 Horno De Sobremesa  1300 W  20 L  4 modos de función  acero inoxidable  plástico  negro](https://www.amazon.es/dp/B00EYDQY90/?tag=tolees-21) con un 42.02 % de descuento con precio de oferta de 69 EUR (original: 119 EUR) en el siguiente enlace!

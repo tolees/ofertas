@@ -14,7 +14,7 @@ currency: EUR
 price: 19.39
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Trust Gaming GXT 220 - Base de refrigeración para Ordenador portátil de hasta 17.3"  Negro
+prodname: 'Trust Gaming GXT 220 - Base de refrigeración para Ordenador portátil de hasta 17.3"  Negro'
 ---
 
 Tienes [Trust Gaming GXT 220 - Base de refrigeración para Ordenador portátil de hasta 17.3"  Negro](https://www.amazon.es/dp/B00OE1B3JS/?tag=tolees-21) con un 35.35 % de descuento con precio de oferta de 19.39 EUR (original: 29.99 EUR) en el siguiente enlace!

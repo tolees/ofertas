@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Levi s Sportswear Logo Graphic Camiseta  Black  Ssnl Sw Gradient Mineral Black 0031   X-Small para Hombre
+prodname: 'Levi s Sportswear Logo Graphic Camiseta  Black  Ssnl Sw Gradient Mineral Black 0031   X-Small para Hombre'
 ---
 
 Tienes [Levi s Sportswear Logo Graphic Camiseta  Black  Ssnl Sw Gradient Mineral Black 0031   X-Small para Hombre](https://www.amazon.es/dp/B07TLFMMPN/?tag=tolees-21) con un 43.37 % de descuento con precio de oferta de 16.99 EUR (original: 30.0 EUR) en el siguiente enlace!

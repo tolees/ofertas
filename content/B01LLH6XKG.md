@@ -14,7 +14,7 @@ currency: EUR
 price: 27
 comparePrice: 81.88 EUR
 inStock: true
-prodname: Hornillo Orbegozo Pce4000 Vitro 1200W
+prodname: 'Hornillo Orbegozo Pce4000 Vitro 1200W'
 ---
 
 Ahora mismo tienes [Hornillo Orbegozo Pce4000 Vitro 1200W](https://www.amazon.es/dp/B01LLH6XKG/?tag=tolees-21) a 27 EUR (original: 81.88 EUR) (67.02 %  de descuento) en el siguiente enlace!

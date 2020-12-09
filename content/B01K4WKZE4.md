@@ -14,7 +14,7 @@ currency: EUR
 price: 84.34
 comparePrice: 155 EUR
 inStock: true
-prodname: Camper Pelotas Ariel  Zapatos de cordones Oxford para Mujer  Negro  Black 001   37 EU
+prodname: 'Camper Pelotas Ariel  Zapatos de cordones Oxford para Mujer  Negro  Black 001   37 EU'
 ---
 
 Ahora mismo tienes [Camper Pelotas Ariel  Zapatos de cordones Oxford para Mujer  Negro  Black 001   37 EU](https://www.amazon.es/dp/B01K4WKZE4/?tag=tolees-21) a 84.34 EUR (original: 155 EUR) (45.59 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 16.7 EUR
 inStock: true
-prodname: Pop! Figura de Vinilo: Animación: Rick & Morty S6 - Morty in Mech Suit
+prodname: 'Pop! Figura de Vinilo: Animación: Rick & Morty S6 - Morty in Mech Suit'
 ---
 
 Tienes [Pop! Figura de Vinilo: Animación: Rick & Morty S6 - Morty in Mech Suit](https://www.amazon.es/dp/B07NSPT8PB/?tag=tolees-21) con un 46.17 % de descuento con precio de oferta de 8.99 EUR (original: 16.7 EUR) en el siguiente enlace!

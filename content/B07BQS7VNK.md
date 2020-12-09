@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 45.99 EUR
 inStock: true
-prodname: Auriculares Bluetooth 5.0  Mini Casco Control Táctil verdadero inalámbrico Estéreo IPX5 Impermeable {Ducha Resistente Directamente}Deportivo con Mic Banco de Carga for Android iPhone 8/plus/x
+prodname: 'Auriculares Bluetooth 5.0  Mini Casco Control Táctil verdadero inalámbrico Estéreo IPX5 Impermeable {Ducha Resistente Directamente}Deportivo con Mic Banco de Carga for Android iPhone 8/plus/x'
 ---
 
 Tienes [Auriculares Bluetooth 5.0  Mini Casco Control Táctil verdadero inalámbrico Estéreo IPX5 Impermeable {Ducha Resistente Directamente}Deportivo con Mic Banco de Carga for Android iPhone 8/plus/x](https://www.amazon.es/dp/B07BQS7VNK/?tag=tolees-21) con un 56.53 % de descuento con precio de oferta de 19.99 EUR (original: 45.99 EUR) en el siguiente enlace!

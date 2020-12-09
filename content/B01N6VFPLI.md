@@ -14,7 +14,7 @@ currency: EUR
 price: 13.88
 comparePrice: 30 EUR
 inStock: true
-prodname: The North Face Red Box  Camiseta Para Hombre  Gris  Mid Grey Heather   Medium
+prodname: 'The North Face Red Box  Camiseta Para Hombre  Gris  Mid Grey Heather   Medium'
 ---
 
 Ahora mismo tienes [The North Face Red Box  Camiseta Para Hombre  Gris  Mid Grey Heather   Medium](https://www.amazon.es/dp/B01N6VFPLI/?tag=tolees-21) a 13.88 EUR (original: 30 EUR) (53.73 %  de descuento) en el siguiente enlace!

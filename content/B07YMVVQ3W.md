@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 32.92 EUR
 inStock: true
-prodname: FunkoLLC Figura Pop! 77 Game of Thrones Missandei 2019 Fall Limited Edition
+prodname: 'FunkoLLC Figura Pop! 77 Game of Thrones Missandei 2019 Fall Limited Edition'
 ---
 
 Ahora mismo tienes [FunkoLLC Figura Pop! 77 Game of Thrones Missandei 2019 Fall Limited Edition](https://www.amazon.es/dp/B07YMVVQ3W/?tag=tolees-21) a 18.95 EUR (original: 32.92 EUR) (42.44 %  de descuento) en el siguiente enlace!

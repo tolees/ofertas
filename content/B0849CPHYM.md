@@ -14,7 +14,7 @@ currency: EUR
 price: 36.9
 comparePrice: 51.99 EUR
 inStock: true
-prodname: Little Town Hero - Big Idea Edition
+prodname: 'Little Town Hero - Big Idea Edition'
 ---
 
 Tienes [Little Town Hero - Big Idea Edition](https://www.amazon.es/dp/B0849CPHYM/?tag=tolees-21) con un 29.02 % de descuento con precio de oferta de 36.9 EUR (original: 51.99 EUR) en el siguiente enlace!

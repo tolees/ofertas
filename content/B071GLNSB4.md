@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Ubisoft - Rabbids Luigi Figura  8 Cm
+prodname: 'Ubisoft - Rabbids Luigi Figura  8 Cm'
 ---
 
 Ahora mismo tienes [Ubisoft - Rabbids Luigi Figura  8 Cm](https://www.amazon.es/dp/B071GLNSB4/?tag=tolees-21) a 8.99 EUR (original: 19.95 EUR) (54.94 %  de descuento) en el siguiente enlace!

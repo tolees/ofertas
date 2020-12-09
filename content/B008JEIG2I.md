@@ -14,7 +14,7 @@ currency: EUR
 price: 27.25
 comparePrice: 99.82 EUR
 inStock: true
-prodname: Regent 11300022 - Reloj analógico de cuarzo para hombre con correa de acero inoxidable  color amarillo
+prodname: 'Regent 11300022 - Reloj analógico de cuarzo para hombre con correa de acero inoxidable  color amarillo'
 ---
 
 Ahora mismo tienes [Regent 11300022 - Reloj analógico de cuarzo para hombre con correa de acero inoxidable  color amarillo](https://www.amazon.es/dp/B008JEIG2I/?tag=tolees-21) a 27.25 EUR (original: 99.82 EUR) (72.70 %  de descuento) en el siguiente enlace!

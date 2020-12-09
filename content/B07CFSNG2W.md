@@ -14,7 +14,7 @@ currency: EUR
 price: 19.74
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Marco Tozzi 2-2-23722-31  Zapatillas para Mujer  Gris  Dk.Grey Vel. 237   37 EU
+prodname: 'Marco Tozzi 2-2-23722-31  Zapatillas para Mujer  Gris  Dk.Grey Vel. 237   37 EU'
 ---
 
 Está [Marco Tozzi 2-2-23722-31  Zapatillas para Mujer  Gris  Dk.Grey Vel. 237   37 EU](https://www.amazon.es/dp/B07CFSNG2W/?tag=tolees-21) con 60.48 de descuento por 19.74 EUR (original: 49.95 EUR) en el siguiente enlace!

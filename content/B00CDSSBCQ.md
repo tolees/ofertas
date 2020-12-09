@@ -14,7 +14,7 @@ currency: EUR
 price: 10.2
 comparePrice: 20.9 EUR
 inStock: true
-prodname: Lékué Kit Moldes de reposteria  Silicona
+prodname: 'Lékué Kit Moldes de reposteria  Silicona'
 ---
 
 Está [Lékué Kit Moldes de reposteria  Silicona](https://www.amazon.es/dp/B00CDSSBCQ/?tag=tolees-21) con 51.20 de descuento por 10.2 EUR (original: 20.9 EUR) en el siguiente enlace!

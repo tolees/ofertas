@@ -14,7 +14,7 @@ currency: EUR
 price: 19.1
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Uvex sportstyle 225 Gafas de deporte  Adultos unisex  white mat  one size
+prodname: 'Uvex sportstyle 225 Gafas de deporte  Adultos unisex  white mat  one size'
 ---
 
 Está [Uvex sportstyle 225 Gafas de deporte  Adultos unisex  white mat  one size](https://www.amazon.es/dp/B07GRT14ZS/?tag=tolees-21) con 52.19 de descuento por 19.1 EUR (original: 39.95 EUR) en el siguiente enlace!

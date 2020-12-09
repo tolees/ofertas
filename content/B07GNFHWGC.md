@@ -14,7 +14,7 @@ currency: EUR
 price: 52.36
 comparePrice: 132.99 EUR
 inStock: true
-prodname: HyperX Predator DDR4 - Memoria RAM de 8 GB 3.333MHz  DDR4  PC/Servidor  288-pin DIMM  1 x 8 GB  Color Negro
+prodname: 'HyperX Predator DDR4 - Memoria RAM de 8 GB 3.333MHz  DDR4  PC/Servidor  288-pin DIMM  1 x 8 GB  Color Negro'
 ---
 
 Está [HyperX Predator DDR4 - Memoria RAM de 8 GB 3.333MHz  DDR4  PC/Servidor  288-pin DIMM  1 x 8 GB  Color Negro](https://www.amazon.es/dp/B07GNFHWGC/?tag=tolees-21) con 60.63 de descuento por 52.36 EUR (original: 132.99 EUR) en el siguiente enlace!

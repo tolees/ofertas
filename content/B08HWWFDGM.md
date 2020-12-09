@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Cámara para Niños  Chalpr Infantil Cámara de Fotos Digital Cámara para Niños 3.5 Pulgadas 30MP 1080P HD Selfie Video Cámara Regalos Ideales para Niños Niñas de 3-12 Años con Tarjeta TF 32G  Rosa 
+prodname: 'Cámara para Niños  Chalpr Infantil Cámara de Fotos Digital Cámara para Niños 3.5 Pulgadas 30MP 1080P HD Selfie Video Cámara Regalos Ideales para Niños Niñas de 3-12 Años con Tarjeta TF 32G  Rosa '
 ---
 
 Está [Cámara para Niños  Chalpr Infantil Cámara de Fotos Digital Cámara para Niños 3.5 Pulgadas 30MP 1080P HD Selfie Video Cámara Regalos Ideales para Niños Niñas de 3-12 Años con Tarjeta TF 32G  Rosa ](https://www.amazon.es/dp/B08HWWFDGM/?tag=tolees-21) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

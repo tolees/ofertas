@@ -14,7 +14,7 @@ currency: EUR
 price: 13.6
 comparePrice: 24.15 EUR
 inStock: true
-prodname: Kerastase 54061 - Cuidado capilar  150 ml
+prodname: 'Kerastase 54061 - Cuidado capilar  150 ml'
 ---
 
 Tienes [Kerastase 54061 - Cuidado capilar  150 ml](https://www.amazon.es/dp/B00D1XLWC8/?tag=tolees-21) con un 43.69 % de descuento con precio de oferta de 13.6 EUR (original: 24.15 EUR) en el siguiente enlace!

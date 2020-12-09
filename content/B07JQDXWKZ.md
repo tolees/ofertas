@@ -14,7 +14,7 @@ currency: EUR
 price: 3.57
 comparePrice: 7.46 EUR
 inStock: true
-prodname: TATAY Baobab Cesta de ordenación Multiusos Mediana con Capacidad para 5 litros  Blanco Pergamón  18.1 x 27.2 x 13
+prodname: 'TATAY Baobab Cesta de ordenación Multiusos Mediana con Capacidad para 5 litros  Blanco Pergamón  18.1 x 27.2 x 13'
 ---
 
 Tienes [TATAY Baobab Cesta de ordenación Multiusos Mediana con Capacidad para 5 litros  Blanco Pergamón  18.1 x 27.2 x 13](https://www.amazon.es/dp/B07JQDXWKZ/?tag=tolees-21) con un 52.14 % de descuento con precio de oferta de 3.57 EUR (original: 7.46 EUR) en el siguiente enlace!

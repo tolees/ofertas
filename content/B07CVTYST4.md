@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Rackaphile - Sacacorchos Eléctrico Inalámbrico  Abrebotellas de Vino  Sacacorchos para Botellas  FDA Certificación  Tapón de Vino Silicona de VacíoEstuche con Cortador de Cápsulas y Base de Recarga
+prodname: 'Rackaphile - Sacacorchos Eléctrico Inalámbrico  Abrebotellas de Vino  Sacacorchos para Botellas  FDA Certificación  Tapón de Vino Silicona de VacíoEstuche con Cortador de Cápsulas y Base de Recarga'
 ---
 
 Está [Rackaphile - Sacacorchos Eléctrico Inalámbrico  Abrebotellas de Vino  Sacacorchos para Botellas  FDA Certificación  Tapón de Vino Silicona de VacíoEstuche con Cortador de Cápsulas y Base de Recarga](https://www.amazon.es/dp/B07CVTYST4/?tag=tolees-21) con 66.26 de descuento por 26.99 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.08
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Bosch Gluey Cupcake pink - Lápiz de pegar  color rosa  cargador micro USB  cargador USB  20 barras de pegamento mini  en caja de cartón  1.2 voltios  2 pilas AA 
+prodname: 'Bosch Gluey Cupcake pink - Lápiz de pegar  color rosa  cargador micro USB  cargador USB  20 barras de pegamento mini  en caja de cartón  1.2 voltios  2 pilas AA '
 ---
 
 Está [Bosch Gluey Cupcake pink - Lápiz de pegar  color rosa  cargador micro USB  cargador USB  20 barras de pegamento mini  en caja de cartón  1.2 voltios  2 pilas AA ](https://www.amazon.es/dp/B07CB6FTY1/?tag=tolees-21) con 34.04 de descuento por 23.08 EUR (original: 34.99 EUR) en el siguiente enlace!

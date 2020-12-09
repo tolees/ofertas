@@ -14,7 +14,7 @@ currency: EUR
 price: 126.49
 comparePrice: 229.95 EUR
 inStock: true
-prodname: UGG Female Bailey Bow II Classic Boot  Chestnut  6  UK 
+prodname: 'UGG Female Bailey Bow II Classic Boot  Chestnut  6  UK '
 ---
 
 Ahora mismo tienes [UGG Female Bailey Bow II Classic Boot  Chestnut  6  UK ](https://www.amazon.es/dp/B01AIIOJN2/?tag=tolees-21) a 126.49 EUR (original: 229.95 EUR) (44.99 %  de descuento) en el siguiente enlace!

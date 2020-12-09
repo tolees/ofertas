@@ -14,7 +14,7 @@ currency: EUR
 price: 5.6
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Springfield 6792731 Blusa  Azul  Blue   Tamaño del Fabricante:36 para Mujer
+prodname: 'Springfield 6792731 Blusa  Azul  Blue   Tamaño del Fabricante:36 para Mujer'
 ---
 
 Está [Springfield 6792731 Blusa  Azul  Blue   Tamaño del Fabricante:36 para Mujer](https://www.amazon.es/dp/B075SHKNSC/?tag=tolees-21) con 75.64 de descuento por 5.6 EUR (original: 22.99 EUR) en el siguiente enlace!

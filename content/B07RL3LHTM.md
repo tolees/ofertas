@@ -14,7 +14,7 @@ currency: EUR
 price: 369.0
 comparePrice: 799.0 EUR
 inStock: true
-prodname: OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6”  8GB/256GB  Snapdragon 8150  4065mAh  Carga rápida VOOC 3.0  Dual SIM Android 9  Verde
+prodname: 'OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6”  8GB/256GB  Snapdragon 8150  4065mAh  Carga rápida VOOC 3.0  Dual SIM Android 9  Verde'
 ---
 
 Ahora mismo tienes [OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6”  8GB/256GB  Snapdragon 8150  4065mAh  Carga rápida VOOC 3.0  Dual SIM Android 9  Verde](https://www.amazon.es/dp/B07RL3LHTM/?tag=tolees-21) a 369.0 EUR (original: 799.0 EUR) (53.82 %  de descuento) en el siguiente enlace!

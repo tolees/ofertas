@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 23.35 EUR
 inStock: true
-prodname: Nenuco - Abracitos  Famosa 700014043 
+prodname: 'Nenuco - Abracitos  Famosa 700014043 '
 ---
 
 Está [Nenuco - Abracitos  Famosa 700014043 ](https://www.amazon.es/dp/B079X4RYBF/?tag=tolees-21) con 27.24 de descuento por 16.99 EUR (original: 23.35 EUR) en el siguiente enlace!

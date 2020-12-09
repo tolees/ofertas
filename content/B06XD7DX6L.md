@@ -14,7 +14,7 @@ currency: EUR
 price: 15
 comparePrice: 36.57 EUR
 inStock: true
-prodname: find. Cropped Chemical Lace Blusa para Mujer  Verde  Green   40  Talla del Fabricante: Medium 
+prodname: 'find. Cropped Chemical Lace Blusa para Mujer  Verde  Green   40  Talla del Fabricante: Medium '
 ---
 
 Está [find. Cropped Chemical Lace Blusa para Mujer  Verde  Green   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B06XD7DX6L/?tag=tolees-21) con 58.98 de descuento por 15 EUR (original: 36.57 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 40.12
 comparePrice: 85 EUR
 inStock: true
-prodname: Mizuno Ezrun LX  Zapatillas para Hombre   Flame/Ombreblue/White 001   41 EU
+prodname: 'Mizuno Ezrun LX  Zapatillas para Hombre   Flame/Ombreblue/White 001   41 EU'
 ---
 
 Ahora mismo tienes [Mizuno Ezrun LX  Zapatillas para Hombre   Flame/Ombreblue/White 001   41 EU](https://www.amazon.es/dp/B07FGDQYW5/?tag=tolees-21) a 40.12 EUR (original: 85 EUR) (52.80 %  de descuento) en el siguiente enlace!

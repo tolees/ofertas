@@ -14,7 +14,7 @@ currency: EUR
 price: 8.9
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Little Big Planet 3 Hits - Versión 14
+prodname: 'Little Big Planet 3 Hits - Versión 14'
 ---
 
 Tienes [Little Big Planet 3 Hits - Versión 14](https://www.amazon.es/dp/B07FLWC8TX/?tag=tolees-21) con un 55.48 % de descuento con precio de oferta de 8.9 EUR (original: 19.99 EUR) en el siguiente enlace!

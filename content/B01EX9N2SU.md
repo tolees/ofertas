@@ -14,7 +14,7 @@ currency: EUR
 price: 8.13
 comparePrice: 16.79 EUR
 inStock: true
-prodname: LEDKIA LIGHTING Plafón LED Circular 24W Blanco Neutro 4000K - 4500K
+prodname: 'LEDKIA LIGHTING Plafón LED Circular 24W Blanco Neutro 4000K - 4500K'
 ---
 
 Tienes [LEDKIA LIGHTING Plafón LED Circular 24W Blanco Neutro 4000K - 4500K](https://www.amazon.es/dp/B01EX9N2SU/?tag=tolees-21) con un 51.58 % de descuento con precio de oferta de 8.13 EUR (original: 16.79 EUR) en el siguiente enlace!

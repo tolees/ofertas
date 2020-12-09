@@ -14,7 +14,7 @@ currency: EUR
 price: 4.35
 comparePrice: 8.29 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly - Sal con romero  4 x 60 g
+prodname: 'Marca Amazon - Happy Belly - Sal con romero  4 x 60 g'
 ---
 
 Está [Marca Amazon - Happy Belly - Sal con romero  4 x 60 g](https://www.amazon.es/dp/B07ZDNM37N/?tag=tolees-21) con 47.53 de descuento por 4.35 EUR (original: 8.29 EUR) en el siguiente enlace!

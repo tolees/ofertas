@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Under Armour Performance Fleece Graphic Hoody Parte Superior del Calentamiento  Hombre  Rojo  Aruba Red/Pitch Grey 651   S
+prodname: 'Under Armour Performance Fleece Graphic Hoody Parte Superior del Calentamiento  Hombre  Rojo  Aruba Red/Pitch Grey 651   S'
 ---
 
 Está [Under Armour Performance Fleece Graphic Hoody Parte Superior del Calentamiento  Hombre  Rojo  Aruba Red/Pitch Grey 651   S](https://www.amazon.es/dp/B07KSQ6TGV/?tag=tolees-21) con 52.74 de descuento por 25.99 EUR (original: 54.99 EUR) en el siguiente enlace!

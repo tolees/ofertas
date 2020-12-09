@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Esprit 109ee1f002 Blusa  Rojo  Garnet Red 620   42  Talla del Fabricante: 40  para Mujer
+prodname: 'Esprit 109ee1f002 Blusa  Rojo  Garnet Red 620   42  Talla del Fabricante: 40  para Mujer'
 ---
 
 Ahora mismo tienes [Esprit 109ee1f002 Blusa  Rojo  Garnet Red 620   42  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07XF5VTP3/?tag=tolees-21) a 21.99 EUR (original: 39.99 EUR) (45.01 %  de descuento) en el siguiente enlace!

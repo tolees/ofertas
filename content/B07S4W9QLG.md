@@ -14,7 +14,7 @@ currency: EUR
 price: 31.95
 comparePrice: 53.63 EUR
 inStock: true
-prodname: Levi s Cameron Hoodie Capucha  Multicolour  Levi Chest Hit White/Baby Blue 0000   XS para Mujer
+prodname: 'Levi s Cameron Hoodie Capucha  Multicolour  Levi Chest Hit White/Baby Blue 0000   XS para Mujer'
 ---
 
 Tienes [Levi s Cameron Hoodie Capucha  Multicolour  Levi Chest Hit White/Baby Blue 0000   XS para Mujer](https://www.amazon.es/dp/B07S4W9QLG/?tag=tolees-21) con un 40.43 % de descuento con precio de oferta de 31.95 EUR (original: 53.63 EUR) en el siguiente enlace!

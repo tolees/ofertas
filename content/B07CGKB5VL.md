@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: EIVOTOR Micrófono Inalámbrico Profesional Micrófono Dinámico Vocal Micrófono de Mano Portatil Wireless Microphone Cardioide Micro con Receptor 25
+prodname: 'EIVOTOR Micrófono Inalámbrico Profesional Micrófono Dinámico Vocal Micrófono de Mano Portatil Wireless Microphone Cardioide Micro con Receptor 25'
 ---
 
 Ahora mismo tienes [EIVOTOR Micrófono Inalámbrico Profesional Micrófono Dinámico Vocal Micrófono de Mano Portatil Wireless Microphone Cardioide Micro con Receptor 25](https://www.amazon.es/dp/B07CGKB5VL/?tag=tolees-21) a 34.99 EUR (original: 59.99 EUR) (41.67 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.76
 comparePrice: 8.87 EUR
 inStock: true
-prodname: Simba Toys Evi Love- Muñeca Sirenita de 12 cm  con Cola Articulada y Caballito de Mar  Dos Modelos Disponibles  Recibirás un Modelo de Forma Aleatoria  para niños a Partir de 3 años
+prodname: 'Simba Toys Evi Love- Muñeca Sirenita de 12 cm  con Cola Articulada y Caballito de Mar  Dos Modelos Disponibles  Recibirás un Modelo de Forma Aleatoria  para niños a Partir de 3 años'
 ---
 
 Tienes [Simba Toys Evi Love- Muñeca Sirenita de 12 cm  con Cola Articulada y Caballito de Mar  Dos Modelos Disponibles  Recibirás un Modelo de Forma Aleatoria  para niños a Partir de 3 años](https://www.amazon.es/dp/B07XFFLX5F/?tag=tolees-21) con un 57.61 % de descuento con precio de oferta de 3.76 EUR (original: 8.87 EUR) en el siguiente enlace!

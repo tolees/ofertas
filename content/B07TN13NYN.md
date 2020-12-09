@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Raging Loop - Day One Edition
+prodname: 'Raging Loop - Day One Edition'
 ---
 
 Está [Raging Loop - Day One Edition](https://www.amazon.es/dp/B07TN13NYN/?tag=tolees-21) con 55.11 de descuento por 17.95 EUR (original: 39.99 EUR) en el siguiente enlace!

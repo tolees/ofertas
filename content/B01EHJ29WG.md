@@ -14,7 +14,7 @@ currency: EUR
 price: 19.98
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Lékué Duo Rectangular Molde Desmontable  Cerámica y Silicona  Rojo  24 cm
+prodname: 'Lékué Duo Rectangular Molde Desmontable  Cerámica y Silicona  Rojo  24 cm'
 ---
 
 Ahora mismo tienes [Lékué Duo Rectangular Molde Desmontable  Cerámica y Silicona  Rojo  24 cm](https://www.amazon.es/dp/B01EHJ29WG/?tag=tolees-21) a 19.98 EUR (original: 29.95 EUR) (33.29 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.84
 comparePrice: 36.42 EUR
 inStock: true
-prodname: New Balance Fresh Foam Vero Racer h  Zapatillas Deportivas para Interior para Hombre  Rojo  Red Rb1   46.5 EU
+prodname: 'New Balance Fresh Foam Vero Racer h  Zapatillas Deportivas para Interior para Hombre  Rojo  Red Rb1   46.5 EU'
 ---
 
 Está [New Balance Fresh Foam Vero Racer h  Zapatillas Deportivas para Interior para Hombre  Rojo  Red Rb1   46.5 EU](https://www.amazon.es/dp/B07RXLGTTX/?tag=tolees-21) con 31.80 de descuento por 24.84 EUR (original: 36.42 EUR) en el siguiente enlace!

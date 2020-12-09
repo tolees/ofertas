@@ -14,7 +14,7 @@ currency: EUR
 price: 26.2
 comparePrice: 139.95 EUR
 inStock: true
-prodname: Puma Speed 600 FUSEFIT Wn s  Zapatillas de Running para Mujer  Negro Black-Fluo Peach  41 EU
+prodname: 'Puma Speed 600 FUSEFIT Wn s  Zapatillas de Running para Mujer  Negro Black-Fluo Peach  41 EU'
 ---
 
 Tienes [Puma Speed 600 FUSEFIT Wn s  Zapatillas de Running para Mujer  Negro Black-Fluo Peach  41 EU](https://www.amazon.es/dp/B07DBVV6MW/?tag=tolees-21) con un 81.28 % de descuento con precio de oferta de 26.2 EUR (original: 139.95 EUR) en el siguiente enlace!

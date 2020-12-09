@@ -14,7 +14,7 @@ currency: EUR
 price: 40.34
 comparePrice: 59.99 EUR
 inStock: true
-prodname: TP-Link Archer C6 - AC1200 Router inalámbrico Gigabit  WiFi MU-MIMO de Banda Dual  Modo Multi  4 Antenas  4 Puertos LAN de 1000/100/10 Mbps  1 Puerto WAN de 1000/100/10 Mbps
+prodname: 'TP-Link Archer C6 - AC1200 Router inalámbrico Gigabit  WiFi MU-MIMO de Banda Dual  Modo Multi  4 Antenas  4 Puertos LAN de 1000/100/10 Mbps  1 Puerto WAN de 1000/100/10 Mbps'
 ---
 
 Ahora mismo tienes [TP-Link Archer C6 - AC1200 Router inalámbrico Gigabit  WiFi MU-MIMO de Banda Dual  Modo Multi  4 Antenas  4 Puertos LAN de 1000/100/10 Mbps  1 Puerto WAN de 1000/100/10 Mbps](https://www.amazon.es/dp/B07GVR9TG7/?tag=tolees-21) a 40.34 EUR (original: 59.99 EUR) (32.76 %  de descuento) en el siguiente enlace!

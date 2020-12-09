@@ -14,7 +14,7 @@ currency: EUR
 price: 31.49
 comparePrice: 47.12 EUR
 inStock: true
-prodname: Harry Potter Colección Completa Ed19 Bd [Blu-ray]
+prodname: 'Harry Potter Colección Completa Ed19 Bd [Blu-ray]'
 ---
 
 Está [Harry Potter Colección Completa Ed19 Bd [Blu-ray]](https://www.amazon.es/dp/B07XW8DFN8/?tag=tolees-21) con 33.17 de descuento por 31.49 EUR (original: 47.12 EUR) en el siguiente enlace!

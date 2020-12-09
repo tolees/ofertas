@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 30.99 EUR
 inStock: true
-prodname: Cortina de Luces  Cadena de Luces  Luz Cadena  LED Guirnaldas luminosas  Resistente al Agua  Decoración de Navidad  Fiestas  Bodas  Jardín  balcón  terraza  ventana.
+prodname: 'Cortina de Luces  Cadena de Luces  Luz Cadena  LED Guirnaldas luminosas  Resistente al Agua  Decoración de Navidad  Fiestas  Bodas  Jardín  balcón  terraza  ventana.'
 ---
 
 Está [Cortina de Luces  Cadena de Luces  Luz Cadena  LED Guirnaldas luminosas  Resistente al Agua  Decoración de Navidad  Fiestas  Bodas  Jardín  balcón  terraza  ventana.](https://www.amazon.es/dp/B07WNLWV3J/?tag=tolees-21) con 32.27 de descuento por 20.99 EUR (original: 30.99 EUR) en el siguiente enlace!

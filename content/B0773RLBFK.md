@@ -14,7 +14,7 @@ currency: EUR
 price: 27.45
 comparePrice: 55 EUR
 inStock: true
-prodname: Levis Footwear and Accessories Skinner  Zapatillas para Hombre  Blanco  Regular White 51   41 EU
+prodname: 'Levis Footwear and Accessories Skinner  Zapatillas para Hombre  Blanco  Regular White 51   41 EU'
 ---
 
 Tienes [Levis Footwear and Accessories Skinner  Zapatillas para Hombre  Blanco  Regular White 51   41 EU](https://www.amazon.es/dp/B0773RLBFK/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 27.45 EUR (original: 55 EUR) en el siguiente enlace!

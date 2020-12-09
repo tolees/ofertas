@@ -14,7 +14,7 @@ currency: EUR
 price: 78.68
 comparePrice: 140 EUR
 inStock: true
-prodname: New Balance Fresh Foam Hierro v4  Zapatillas de Running para Asfalto para Hombre  Verde  RGB Green/Black R4   40 EU
+prodname: 'New Balance Fresh Foam Hierro v4  Zapatillas de Running para Asfalto para Hombre  Verde  RGB Green/Black R4   40 EU'
 ---
 
 Tienes [New Balance Fresh Foam Hierro v4  Zapatillas de Running para Asfalto para Hombre  Verde  RGB Green/Black R4   40 EU](https://www.amazon.es/dp/B07DJ1XHR5/?tag=tolees-21) con un 43.80 % de descuento con precio de oferta de 78.68 EUR (original: 140 EUR) en el siguiente enlace!

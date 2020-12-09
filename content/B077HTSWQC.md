@@ -14,7 +14,7 @@ currency: EUR
 price: 7.51
 comparePrice: 14.12 EUR
 inStock: true
-prodname: E27 Lámpara Cuerda Vintage 1m Lámpara de Techo de Cáñamo Rústico Retro Estilo Comedor Restaurante Cafe Iluminación No contiene bombillas
+prodname: 'E27 Lámpara Cuerda Vintage 1m Lámpara de Techo de Cáñamo Rústico Retro Estilo Comedor Restaurante Cafe Iluminación No contiene bombillas'
 ---
 
 Está [E27 Lámpara Cuerda Vintage 1m Lámpara de Techo de Cáñamo Rústico Retro Estilo Comedor Restaurante Cafe Iluminación No contiene bombillas](https://www.amazon.es/dp/B077HTSWQC/?tag=tolees-21) con 46.81 de descuento por 7.51 EUR (original: 14.12 EUR) en el siguiente enlace!

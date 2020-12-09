@@ -14,7 +14,7 @@ currency: EUR
 price: 36.73
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Columbia Irvington LTR Chukka WP  Botas Hombre  Gris  Kettle/White   43.5 EU
+prodname: 'Columbia Irvington LTR Chukka WP  Botas Hombre  Gris  Kettle/White   43.5 EU'
 ---
 
 Ahora mismo tienes [Columbia Irvington LTR Chukka WP  Botas Hombre  Gris  Kettle/White   43.5 EU](https://www.amazon.es/dp/B01NAJOOP0/?tag=tolees-21) a 36.73 EUR (original: 129.95 EUR) (71.74 %  de descuento) en el siguiente enlace!

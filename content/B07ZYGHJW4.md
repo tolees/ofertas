@@ -14,7 +14,7 @@ currency: EUR
 price: 14.91
 comparePrice: 19.99 EUR
 inStock: true
-prodname: MCHENG 13 Pulgadas Laptop Sleeve Funda con asa Bolsa de Impermeable Transporte de para Apple MacBook Pro Retina  Ultrabook
+prodname: 'MCHENG 13 Pulgadas Laptop Sleeve Funda con asa Bolsa de Impermeable Transporte de para Apple MacBook Pro Retina  Ultrabook'
 ---
 
 Está [MCHENG 13 Pulgadas Laptop Sleeve Funda con asa Bolsa de Impermeable Transporte de para Apple MacBook Pro Retina  Ultrabook](https://www.amazon.es/dp/B07ZYGHJW4/?tag=tolees-21) con 25.41 de descuento por 14.91 EUR (original: 19.99 EUR) en el siguiente enlace!

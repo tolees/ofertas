@@ -14,7 +14,7 @@ currency: EUR
 price: 6.67
 comparePrice: 11.19 EUR
 inStock: true
-prodname: Haribo Gummy Beans Caramelos Grageados - 1000 gr
+prodname: 'Haribo Gummy Beans Caramelos Grageados - 1000 gr'
 ---
 
 Está [Haribo Gummy Beans Caramelos Grageados - 1000 gr](https://www.amazon.es/dp/B00XAPCUW8/?tag=tolees-21) con 40.39 de descuento por 6.67 EUR (original: 11.19 EUR) en el siguiente enlace!

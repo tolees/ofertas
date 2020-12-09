@@ -14,7 +14,7 @@ currency: EUR
 price: 35.6
 comparePrice: 59.99 EUR
 inStock: true
-prodname: House of Marley Chant Mini Altavoz inalámbrico Bluetooth portátil  Diseño Resistente a Las Salpicaduras  IPX4   Micrófono Integrado  Entrada Auxiliar  Mosquetón  Flores
+prodname: 'House of Marley Chant Mini Altavoz inalámbrico Bluetooth portátil  Diseño Resistente a Las Salpicaduras  IPX4   Micrófono Integrado  Entrada Auxiliar  Mosquetón  Flores'
 ---
 
 Está [House of Marley Chant Mini Altavoz inalámbrico Bluetooth portátil  Diseño Resistente a Las Salpicaduras  IPX4   Micrófono Integrado  Entrada Auxiliar  Mosquetón  Flores](https://www.amazon.es/dp/B01DKGP2KS/?tag=tolees-21) con 40.66 de descuento por 35.6 EUR (original: 59.99 EUR) en el siguiente enlace!

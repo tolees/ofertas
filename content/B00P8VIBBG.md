@@ -14,7 +14,7 @@ currency: EUR
 price: 21.64
 comparePrice: 36.99 EUR
 inStock: true
-prodname: Princess 162725 Grill Party – Raclette para 6 personas con forma redonda
+prodname: 'Princess 162725 Grill Party – Raclette para 6 personas con forma redonda'
 ---
 
 Tienes [Princess 162725 Grill Party – Raclette para 6 personas con forma redonda](https://www.amazon.es/dp/B00P8VIBBG/?tag=tolees-21) con un 41.50 % de descuento con precio de oferta de 21.64 EUR (original: 36.99 EUR) en el siguiente enlace!

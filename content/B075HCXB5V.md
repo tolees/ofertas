@@ -14,7 +14,7 @@ currency: EUR
 price: 15.98
 comparePrice: 22.84 EUR
 inStock: true
-prodname: Baglamor Chica Floral Bolso de Noche Bolsa de Embrague Bolso de Boda Bolso de Cadena
+prodname: 'Baglamor Chica Floral Bolso de Noche Bolsa de Embrague Bolso de Boda Bolso de Cadena'
 ---
 
 Tienes [Baglamor Chica Floral Bolso de Noche Bolsa de Embrague Bolso de Boda Bolso de Cadena](https://www.amazon.es/dp/B075HCXB5V/?tag=tolees-21) con un 30.04 % de descuento con precio de oferta de 15.98 EUR (original: 22.84 EUR) en el siguiente enlace!

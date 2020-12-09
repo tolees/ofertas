@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 31.99 EUR
 inStock: true
-prodname: Crocs Crocband Clog K  Zuecos con Correa Trasera Unisex-Bambini  Rosso  Pepper/Graphite   27/28 EU
+prodname: 'Crocs Crocband Clog K  Zuecos con Correa Trasera Unisex-Bambini  Rosso  Pepper/Graphite   27/28 EU'
 ---
 
 Ahora mismo tienes [Crocs Crocband Clog K  Zuecos con Correa Trasera Unisex-Bambini  Rosso  Pepper/Graphite   27/28 EU](https://www.amazon.es/dp/B01HEXDS68/?tag=tolees-21) a 15.99 EUR (original: 31.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.32
 comparePrice: 26.24 EUR
 inStock: true
-prodname: Color Copy CCA4200 - Paquete 250 hojas de papel  200 g/m²  A4
+prodname: 'Color Copy CCA4200 - Paquete 250 hojas de papel  200 g/m²  A4'
 ---
 
 Está [Color Copy CCA4200 - Paquete 250 hojas de papel  200 g/m²  A4](https://www.amazon.es/dp/B000SHOOK2/?tag=tolees-21) con 53.05 de descuento por 12.32 EUR (original: 26.24 EUR) en el siguiente enlace!

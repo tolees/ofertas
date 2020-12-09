@@ -14,7 +14,7 @@ currency: EUR
 price: 7.13
 comparePrice: 15.9 EUR
 inStock: true
-prodname: Sissel Cherry 1124 - Cojín térmico de Huesos de Cereza  frío y Calor   diseño de corazón
+prodname: 'Sissel Cherry 1124 - Cojín térmico de Huesos de Cereza  frío y Calor   diseño de corazón'
 ---
 
 Ahora mismo tienes [Sissel Cherry 1124 - Cojín térmico de Huesos de Cereza  frío y Calor   diseño de corazón](https://www.amazon.es/dp/B005SDBPPS/?tag=tolees-21) a 7.13 EUR (original: 15.9 EUR) (55.16 %  de descuento) en el siguiente enlace!

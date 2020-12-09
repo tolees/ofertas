@@ -14,7 +14,7 @@ currency: EUR
 price: 10.56
 comparePrice: 49.95 EUR
 inStock: true
-prodname: KangaROOS Kf-a Glide  Zapatillas Mujer  Rojo  Dusty Rose 6058   40 EU
+prodname: 'KangaROOS Kf-a Glide  Zapatillas Mujer  Rojo  Dusty Rose 6058   40 EU'
 ---
 
 Está [KangaROOS Kf-a Glide  Zapatillas Mujer  Rojo  Dusty Rose 6058   40 EU](https://www.amazon.es/dp/B07S27ZDDP/?tag=tolees-21) con 78.86 de descuento por 10.56 EUR (original: 49.95 EUR) en el siguiente enlace!

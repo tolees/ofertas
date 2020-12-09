@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 115.0 EUR
 inStock: true
-prodname: Bosch TDA703021A  Plancha de Vapor  3000W  Vapor Constante 50 g/min  Cerámica  Color Azul
+prodname: 'Bosch TDA703021A  Plancha de Vapor  3000W  Vapor Constante 50 g/min  Cerámica  Color Azul'
 ---
 
 Ahora mismo tienes [Bosch TDA703021A  Plancha de Vapor  3000W  Vapor Constante 50 g/min  Cerámica  Color Azul](https://www.amazon.es/dp/B00F5XAMHS/?tag=tolees-21) a 54.99 EUR (original: 115.0 EUR) (52.18 %  de descuento) en el siguiente enlace!

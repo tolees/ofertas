@@ -14,7 +14,7 @@ currency: EUR
 price: 2.34
 comparePrice: 3.52 EUR
 inStock: true
-prodname: XUQI Tablero de Escritura Digital LCD Bloc de Notas para niños Tablero de Oficina de Dibujo eléctrico Tablero de exhibición de la Escuela de Escritura - Negro
+prodname: 'XUQI Tablero de Escritura Digital LCD Bloc de Notas para niños Tablero de Oficina de Dibujo eléctrico Tablero de exhibición de la Escuela de Escritura - Negro'
 ---
 
 Tienes [XUQI Tablero de Escritura Digital LCD Bloc de Notas para niños Tablero de Oficina de Dibujo eléctrico Tablero de exhibición de la Escuela de Escritura - Negro](https://www.amazon.es/dp/B08NCN2SLY/?tag=tolees-21) con un 33.52 % de descuento con precio de oferta de 2.34 EUR (original: 3.52 EUR) en el siguiente enlace!

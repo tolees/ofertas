@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Memorias USB 2 Piezas 32GB USB 2.0 Stick Flash Drive Pendrives Almacenamiento Datos por SIMMAX  32GB Azul Verde 
+prodname: 'Memorias USB 2 Piezas 32GB USB 2.0 Stick Flash Drive Pendrives Almacenamiento Datos por SIMMAX  32GB Azul Verde '
 ---
 
 Está [Memorias USB 2 Piezas 32GB USB 2.0 Stick Flash Drive Pendrives Almacenamiento Datos por SIMMAX  32GB Azul Verde ](https://www.amazon.es/dp/B07F5V2NSM/?tag=tolees-21) con 38.11 de descuento por 12.99 EUR (original: 20.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Pack 1 + 2 + 3 + International: Men in Black  BD  [Blu-ray]
+prodname: 'Pack 1 + 2 + 3 + International: Men in Black  BD  [Blu-ray]'
 ---
 
 Está [Pack 1 + 2 + 3 + International: Men in Black  BD  [Blu-ray]](https://www.amazon.es/dp/B07TZZJBH3/?tag=tolees-21) con 44.42 de descuento por 15.0 EUR (original: 26.99 EUR) en el siguiente enlace!

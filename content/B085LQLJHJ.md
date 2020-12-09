@@ -14,7 +14,7 @@ currency: EUR
 price: 58.45
 comparePrice: 83.5 EUR
 inStock: true
-prodname: Munich Sapporo 97  Zapatillas Unisex Adulto  Multicolor  45 EU
+prodname: 'Munich Sapporo 97  Zapatillas Unisex Adulto  Multicolor  45 EU'
 ---
 
 Está [Munich Sapporo 97  Zapatillas Unisex Adulto  Multicolor  45 EU](https://www.amazon.es/dp/B085LQLJHJ/?tag=tolees-21) con 30.00 de descuento por 58.45 EUR (original: 83.5 EUR) en el siguiente enlace!

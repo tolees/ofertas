@@ -14,7 +14,7 @@ currency: EUR
 price: 15.5
 comparePrice: 30.71 EUR
 inStock: true
-prodname: Mazinger Z - Box 7 [Blu-ray]
+prodname: 'Mazinger Z - Box 7 [Blu-ray]'
 ---
 
 Ahora mismo tienes [Mazinger Z - Box 7 [Blu-ray]](https://www.amazon.es/dp/B017BCWF5M/?tag=tolees-21) a 15.5 EUR (original: 30.71 EUR) (49.53 %  de descuento) en el siguiente enlace!

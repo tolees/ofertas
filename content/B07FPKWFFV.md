@@ -14,7 +14,7 @@ currency: EUR
 price: 26.5
 comparePrice: 54.95 EUR
 inStock: true
-prodname: PUMA Axis  Zapatillas Unisex Adulto  Negro Black/Asphalt  38.5 EU
+prodname: 'PUMA Axis  Zapatillas Unisex Adulto  Negro Black/Asphalt  38.5 EU'
 ---
 
 Tienes [PUMA Axis  Zapatillas Unisex Adulto  Negro Black/Asphalt  38.5 EU](https://www.amazon.es/dp/B07FPKWFFV/?tag=tolees-21) con un 51.77 % de descuento con precio de oferta de 26.5 EUR (original: 54.95 EUR) en el siguiente enlace!

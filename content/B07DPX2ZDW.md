@@ -14,7 +14,7 @@ currency: EUR
 price: 10.57
 comparePrice: 24.9 EUR
 inStock: true
-prodname: Urban Classics Ladies Inset Striped Crew  suéter para Mujer  Negro  Black 00007  X-Large
+prodname: 'Urban Classics Ladies Inset Striped Crew  suéter para Mujer  Negro  Black 00007  X-Large'
 ---
 
 Ahora mismo tienes [Urban Classics Ladies Inset Striped Crew  suéter para Mujer  Negro  Black 00007  X-Large](https://www.amazon.es/dp/B07DPX2ZDW/?tag=tolees-21) a 10.57 EUR (original: 24.9 EUR) (57.55 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.31
 comparePrice: 11.01 EUR
 inStock: true
-prodname: Care 550228 Camiseta  Gris  Harbor Mist 190   74  Pack de 6
+prodname: 'Care 550228 Camiseta  Gris  Harbor Mist 190   74  Pack de 6'
 ---
 
 Ahora mismo tienes [Care 550228 Camiseta  Gris  Harbor Mist 190   74  Pack de 6](https://www.amazon.es/dp/B07NY79MXV/?tag=tolees-21) a 6.31 EUR (original: 11.01 EUR) (42.69 %  de descuento) en el siguiente enlace!

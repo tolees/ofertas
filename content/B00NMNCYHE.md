@@ -14,7 +14,7 @@ currency: EUR
 price: 37.24
 comparePrice: 50 EUR
 inStock: true
-prodname: berghaus Twenty4sevenplus Mochila  Unisex Adulto  Eclipse  25L
+prodname: 'berghaus Twenty4sevenplus Mochila  Unisex Adulto  Eclipse  25L'
 ---
 
 Está [berghaus Twenty4sevenplus Mochila  Unisex Adulto  Eclipse  25L](https://www.amazon.es/dp/B00NMNCYHE/?tag=tolees-21) con 25.52 de descuento por 37.24 EUR (original: 50 EUR) en el siguiente enlace!

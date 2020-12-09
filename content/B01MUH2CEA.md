@@ -14,7 +14,7 @@ currency: EUR
 price: 32.83
 comparePrice: 119.95 EUR
 inStock: true
-prodname: Asics T718N  Zapatillas Hombre  Gris  Midgrey/Black/White   40.5 EU
+prodname: 'Asics T718N  Zapatillas Hombre  Gris  Midgrey/Black/White   40.5 EU'
 ---
 
 Ahora mismo tienes [Asics T718N  Zapatillas Hombre  Gris  Midgrey/Black/White   40.5 EU](https://www.amazon.es/dp/B01MUH2CEA/?tag=tolees-21) a 32.83 EUR (original: 119.95 EUR) (72.63 %  de descuento) en el siguiente enlace!

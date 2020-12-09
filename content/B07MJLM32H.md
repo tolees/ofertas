@@ -14,7 +14,7 @@ currency: EUR
 price: 23.8
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Our World is Ended - Day One Edition
+prodname: 'Our World is Ended - Day One Edition'
 ---
 
 Está [Our World is Ended - Day One Edition](https://www.amazon.es/dp/B07MJLM32H/?tag=tolees-21) con 52.39 de descuento por 23.8 EUR (original: 49.99 EUR) en el siguiente enlace!

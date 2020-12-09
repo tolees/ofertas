@@ -14,7 +14,7 @@ currency: EUR
 price: 29.23
 comparePrice: 44.99 EUR
 inStock: true
-prodname: NearPow Mesa de Cama para Portátil Ajustable  Plegable Sofá Mesa de Desayuno  Mesa Plegable Ordenador  Mesa Plegable Lectura para Niños  Blanco 
+prodname: 'NearPow Mesa de Cama para Portátil Ajustable  Plegable Sofá Mesa de Desayuno  Mesa Plegable Ordenador  Mesa Plegable Lectura para Niños  Blanco '
 ---
 
 Ahora mismo tienes [NearPow Mesa de Cama para Portátil Ajustable  Plegable Sofá Mesa de Desayuno  Mesa Plegable Ordenador  Mesa Plegable Lectura para Niños  Blanco ](https://www.amazon.es/dp/B01LC8SVGI/?tag=tolees-21) a 29.23 EUR (original: 44.99 EUR) (35.03 %  de descuento) en el siguiente enlace!

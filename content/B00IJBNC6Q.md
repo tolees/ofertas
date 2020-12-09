@@ -14,7 +14,7 @@ currency: EUR
 price: 5.19
 comparePrice: 9.95 EUR
 inStock: true
-prodname: Educa - Foto de Clase  Puzzle infantil de 300 piezas  a partir de 8 años  15908 
+prodname: 'Educa - Foto de Clase  Puzzle infantil de 300 piezas  a partir de 8 años  15908 '
 ---
 
 Ahora mismo tienes [Educa - Foto de Clase  Puzzle infantil de 300 piezas  a partir de 8 años  15908 ](https://www.amazon.es/dp/B00IJBNC6Q/?tag=tolees-21) a 5.19 EUR (original: 9.95 EUR) (47.84 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.8
 comparePrice: 37.93 EUR
 inStock: true
-prodname: Playmobil Crucero-6979 Playset  Multicolor  Miscelanea  6979 
+prodname: 'Playmobil Crucero-6979 Playset  Multicolor  Miscelanea  6979 '
 ---
 
 Tienes [Playmobil Crucero-6979 Playset  Multicolor  Miscelanea  6979 ](https://www.amazon.es/dp/B01EKBCUJI/?tag=tolees-21) con un 31.98 % de descuento con precio de oferta de 25.8 EUR (original: 37.93 EUR) en el siguiente enlace!

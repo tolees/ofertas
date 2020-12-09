@@ -14,7 +14,7 @@ currency: EUR
 price: 57.2
 comparePrice: 89 EUR
 inStock: true
-prodname: Reloj Casio para Hombre AQW-101-1AVER
+prodname: 'Reloj Casio para Hombre AQW-101-1AVER'
 ---
 
 Tienes [Reloj Casio para Hombre AQW-101-1AVER](https://www.amazon.es/dp/B001TK3CDW/?tag=tolees-21) con un 35.73 % de descuento con precio de oferta de 57.2 EUR (original: 89 EUR) en el siguiente enlace!

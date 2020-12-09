@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Vero Moda Vmmaxi My Soft Long Tank Top Noos Camiseta sin Mangas  Azul  Black Iris   36  Talla del Fabricante: Small  para Mujer
+prodname: 'Vero Moda Vmmaxi My Soft Long Tank Top Noos Camiseta sin Mangas  Azul  Black Iris   36  Talla del Fabricante: Small  para Mujer'
 ---
 
 Ahora mismo tienes [Vero Moda Vmmaxi My Soft Long Tank Top Noos Camiseta sin Mangas  Azul  Black Iris   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B01N7YVTO8/?tag=tolees-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!

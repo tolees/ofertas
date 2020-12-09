@@ -14,7 +14,7 @@ currency: EUR
 price: 47.5
 comparePrice: 89 EUR
 inStock: true
-prodname: Napapijri Nore  Pantalones Cortos para Hombre  Azul  Dark Denim Bd1   W33  Talla del Fabricante: 30 
+prodname: 'Napapijri Nore  Pantalones Cortos para Hombre  Azul  Dark Denim Bd1   W33  Talla del Fabricante: 30 '
 ---
 
 Tienes [Napapijri Nore  Pantalones Cortos para Hombre  Azul  Dark Denim Bd1   W33  Talla del Fabricante: 30 ](https://www.amazon.es/dp/B07LBFJJD3/?tag=tolees-21) con un 46.63 % de descuento con precio de oferta de 47.5 EUR (original: 89 EUR) en el siguiente enlace!

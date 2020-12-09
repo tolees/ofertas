@@ -14,7 +14,7 @@ currency: EUR
 price: 8.57
 comparePrice: 35.95 EUR
 inStock: true
-prodname: Trucco - Jersey para mujer  color marron claro  talla M
+prodname: 'Trucco - Jersey para mujer  color marron claro  talla M'
 ---
 
 Ahora mismo tienes [Trucco - Jersey para mujer  color marron claro  talla M](https://www.amazon.es/dp/B073SBND3V/?tag=tolees-21) a 8.57 EUR (original: 35.95 EUR) (76.16 %  de descuento) en el siguiente enlace!

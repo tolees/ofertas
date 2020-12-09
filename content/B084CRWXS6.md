@@ -14,7 +14,7 @@ currency: EUR
 price: 8.98
 comparePrice: 18.95 EUR
 inStock: true
-prodname: Espías con Disfraz [Blu-ray]
+prodname: 'Espías con Disfraz [Blu-ray]'
 ---
 
 Está [Espías con Disfraz [Blu-ray]](https://www.amazon.es/dp/B084CRWXS6/?tag=tolees-21) con 52.61 de descuento por 8.98 EUR (original: 18.95 EUR) en el siguiente enlace!

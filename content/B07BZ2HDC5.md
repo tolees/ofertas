@@ -14,7 +14,7 @@ currency: EUR
 price: 18.37
 comparePrice: 46.4 EUR
 inStock: true
-prodname: Deuter StepOut 12  Mochila Unisex Adulto  Rojo  Cardinal/Maron   24x36x45 cm  W x H x L 
+prodname: 'Deuter StepOut 12  Mochila Unisex Adulto  Rojo  Cardinal/Maron   24x36x45 cm  W x H x L '
 ---
 
 Tienes [Deuter StepOut 12  Mochila Unisex Adulto  Rojo  Cardinal/Maron   24x36x45 cm  W x H x L ](https://www.amazon.es/dp/B07BZ2HDC5/?tag=tolees-21) con un 60.41 % de descuento con precio de oferta de 18.37 EUR (original: 46.4 EUR) en el siguiente enlace!

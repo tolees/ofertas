@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Zorara - Comba de saltar  con rodamiento de bolas profesional  para niños  con cuerda de acero ajustable para adultos  saltar con cuerda  Negro
+prodname: 'Zorara - Comba de saltar  con rodamiento de bolas profesional  para niños  con cuerda de acero ajustable para adultos  saltar con cuerda  Negro'
 ---
 
 Ahora mismo tienes [Zorara - Comba de saltar  con rodamiento de bolas profesional  para niños  con cuerda de acero ajustable para adultos  saltar con cuerda  Negro](https://www.amazon.es/dp/B08BHKV9N1/?tag=tolees-21) a 6.99 EUR (original: 12.99 EUR) (46.19 %  de descuento) en el siguiente enlace!

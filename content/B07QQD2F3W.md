@@ -14,7 +14,7 @@ currency: EUR
 price: 17.98
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Funda para iPhone 7 Plus/8 Plus  ZHIKE Estuche de Adsorción Magnético Frente y Parte Posterior de Vidrio Templado Cobertura de Pantalla Completa Diseño de una Pieza Cubierta para iPhone 7 Plus/8 Plus
+prodname: 'Funda para iPhone 7 Plus/8 Plus  ZHIKE Estuche de Adsorción Magnético Frente y Parte Posterior de Vidrio Templado Cobertura de Pantalla Completa Diseño de una Pieza Cubierta para iPhone 7 Plus/8 Plus'
 ---
 
 Está [Funda para iPhone 7 Plus/8 Plus  ZHIKE Estuche de Adsorción Magnético Frente y Parte Posterior de Vidrio Templado Cobertura de Pantalla Completa Diseño de una Pieza Cubierta para iPhone 7 Plus/8 Plus](https://www.amazon.es/dp/B07QQD2F3W/?tag=tolees-21) con 30.82 de descuento por 17.98 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 26.95 EUR
 inStock: true
-prodname: Izas Valira Camiseta de Manga Corta  Mujer  Blanco/Rojo  2XL
+prodname: 'Izas Valira Camiseta de Manga Corta  Mujer  Blanco/Rojo  2XL'
 ---
 
 Está [Izas Valira Camiseta de Manga Corta  Mujer  Blanco/Rojo  2XL](https://www.amazon.es/dp/B01DALEQNW/?tag=tolees-21) con 63.08 de descuento por 9.95 EUR (original: 26.95 EUR) en el siguiente enlace!

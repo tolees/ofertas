@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 25 EUR
 inStock: true
-prodname: Rowenta Premio BS1220V0 - Báscula Digital de Baño  con Pantalla LCD  Dígitos Grandes  Compacta  Capacidad de 160 kg  Plataforma de Vidrio  Apagado Automático e Incluye Pilas
+prodname: 'Rowenta Premio BS1220V0 - Báscula Digital de Baño  con Pantalla LCD  Dígitos Grandes  Compacta  Capacidad de 160 kg  Plataforma de Vidrio  Apagado Automático e Incluye Pilas'
 ---
 
 Está [Rowenta Premio BS1220V0 - Báscula Digital de Baño  con Pantalla LCD  Dígitos Grandes  Compacta  Capacidad de 160 kg  Plataforma de Vidrio  Apagado Automático e Incluye Pilas](https://www.amazon.es/dp/B01MY0L2DR/?tag=tolees-21) con 28.04 de descuento por 17.99 EUR (original: 25 EUR) en el siguiente enlace!

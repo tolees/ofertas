@@ -14,7 +14,7 @@ currency: EUR
 price: 21.86
 comparePrice: 55 EUR
 inStock: true
-prodname: Pepe Jeans Tao PM541128  Polo para Hombre  Gris  Grey Marl 933  XX-Large
+prodname: 'Pepe Jeans Tao PM541128  Polo para Hombre  Gris  Grey Marl 933  XX-Large'
 ---
 
 Tienes [Pepe Jeans Tao PM541128  Polo para Hombre  Gris  Grey Marl 933  XX-Large](https://www.amazon.es/dp/B079RS3SZH/?tag=tolees-21) con un 60.25 % de descuento con precio de oferta de 21.86 EUR (original: 55 EUR) en el siguiente enlace!

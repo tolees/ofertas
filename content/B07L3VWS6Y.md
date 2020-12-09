@@ -14,7 +14,7 @@ currency: EUR
 price: 797
 comparePrice: 1499 EUR
 inStock: true
-prodname: Sharon SachsenRad E-Racing Bike R6  Motor de 240W hasta 25 km/h  26 Pulgadas  Cambio de Marcha de 7 velocidades  Freno de Disco mecánico  neumático Ancho Kenda  Negro
+prodname: 'Sharon SachsenRad E-Racing Bike R6  Motor de 240W hasta 25 km/h  26 Pulgadas  Cambio de Marcha de 7 velocidades  Freno de Disco mecánico  neumático Ancho Kenda  Negro'
 ---
 
 Tienes [Sharon SachsenRad E-Racing Bike R6  Motor de 240W hasta 25 km/h  26 Pulgadas  Cambio de Marcha de 7 velocidades  Freno de Disco mecánico  neumático Ancho Kenda  Negro](https://www.amazon.es/dp/B07L3VWS6Y/?tag=tolees-21) con un 46.83 % de descuento con precio de oferta de 797 EUR (original: 1499 EUR) en el siguiente enlace!

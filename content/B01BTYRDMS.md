@@ -14,7 +14,7 @@ currency: EUR
 price: 11.27
 comparePrice: 15.23 EUR
 inStock: true
-prodname: Silverline 548911 - Soldador  100 W  color azul
+prodname: 'Silverline 548911 - Soldador  100 W  color azul'
 ---
 
 Está [Silverline 548911 - Soldador  100 W  color azul](https://www.amazon.es/dp/B01BTYRDMS/?tag=tolees-21) con 26.00 de descuento por 11.27 EUR (original: 15.23 EUR) en el siguiente enlace!

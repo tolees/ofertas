@@ -14,7 +14,7 @@ currency: EUR
 price: 18.23
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Hummel HMLJOSEPH Shorts  Hombre Blu  L
+prodname: 'Hummel HMLJOSEPH Shorts  Hombre Blu  L'
 ---
 
 Está [Hummel HMLJOSEPH Shorts  Hombre Blu  L](https://www.amazon.es/dp/B07KS9PK4W/?tag=tolees-21) con 59.44 de descuento por 18.23 EUR (original: 44.95 EUR) en el siguiente enlace!

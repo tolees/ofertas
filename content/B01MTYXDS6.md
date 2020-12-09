@@ -14,7 +14,7 @@ currency: EUR
 price: 13.12
 comparePrice: 32 EUR
 inStock: true
-prodname: find. Vestido Corto con Estampado de Rayas para Mujer   Negro  Black/white Striped   42  Talla del Fabricante: Large 
+prodname: 'find. Vestido Corto con Estampado de Rayas para Mujer   Negro  Black/white Striped   42  Talla del Fabricante: Large '
 ---
 
 Está [find. Vestido Corto con Estampado de Rayas para Mujer   Negro  Black/white Striped   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01MTYXDS6/?tag=tolees-21) con 59.00 de descuento por 13.12 EUR (original: 32 EUR) en el siguiente enlace!

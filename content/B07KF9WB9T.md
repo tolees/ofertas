@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 32.99 EUR
 inStock: true
-prodname: LEDMO Foco Led 50W 6000k Focos Led Exterior 4500LM Blanco Frio SMD3030 IP65 Impermeable Foco Exterior Proyector Led
+prodname: 'LEDMO Foco Led 50W 6000k Focos Led Exterior 4500LM Blanco Frio SMD3030 IP65 Impermeable Foco Exterior Proyector Led'
 ---
 
 Ahora mismo tienes [LEDMO Foco Led 50W 6000k Focos Led Exterior 4500LM Blanco Frio SMD3030 IP65 Impermeable Foco Exterior Proyector Led](https://www.amazon.es/dp/B07KF9WB9T/?tag=tolees-21) a 20.99 EUR (original: 32.99 EUR) (36.37 %  de descuento) en el siguiente enlace!

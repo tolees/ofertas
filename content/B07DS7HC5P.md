@@ -14,7 +14,7 @@ currency: EUR
 price: 19.25
 comparePrice: 88.34 EUR
 inStock: true
-prodname: Reebok Astroride Trail  Zapatillas de Deporte para Mujer   Black/Tin Grey 000   36 EU
+prodname: 'Reebok Astroride Trail  Zapatillas de Deporte para Mujer   Black/Tin Grey 000   36 EU'
 ---
 
 Está [Reebok Astroride Trail  Zapatillas de Deporte para Mujer   Black/Tin Grey 000   36 EU](https://www.amazon.es/dp/B07DS7HC5P/?tag=tolees-21) con 78.21 de descuento por 19.25 EUR (original: 88.34 EUR) en el siguiente enlace!

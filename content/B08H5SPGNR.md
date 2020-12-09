@@ -14,7 +14,7 @@ currency: EUR
 price: 64.9
 comparePrice: 125.76 EUR
 inStock: true
-prodname: Tucano- Sole Gravity Mochila para Ordenador Portátil 17 Pulgadas y Compatible con Macbook Pro 16  Sistema Antigravedad con Reducción de la Carga
+prodname: 'Tucano- Sole Gravity Mochila para Ordenador Portátil 17 Pulgadas y Compatible con Macbook Pro 16  Sistema Antigravedad con Reducción de la Carga'
 ---
 
 Tienes [Tucano- Sole Gravity Mochila para Ordenador Portátil 17 Pulgadas y Compatible con Macbook Pro 16  Sistema Antigravedad con Reducción de la Carga](https://www.amazon.es/dp/B08H5SPGNR/?tag=tolees-21) con un 48.39 % de descuento con precio de oferta de 64.9 EUR (original: 125.76 EUR) en el siguiente enlace!

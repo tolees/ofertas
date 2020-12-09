@@ -14,7 +14,7 @@ currency: EUR
 price: 40.49
 comparePrice: 59.99 EUR
 inStock: true
-prodname: PUPPY KITTY Casa para Gatos para Exteriores  Resistente al Invierno  Plegable  con colchón extraíble  Suave y cálido para Perros  Gatos  Perros  Conejos
+prodname: 'PUPPY KITTY Casa para Gatos para Exteriores  Resistente al Invierno  Plegable  con colchón extraíble  Suave y cálido para Perros  Gatos  Perros  Conejos'
 ---
 
 Tienes [PUPPY KITTY Casa para Gatos para Exteriores  Resistente al Invierno  Plegable  con colchón extraíble  Suave y cálido para Perros  Gatos  Perros  Conejos](https://www.amazon.es/dp/B07V4R4YRC/?tag=tolees-21) con un 32.51 % de descuento con precio de oferta de 40.49 EUR (original: 59.99 EUR) en el siguiente enlace!

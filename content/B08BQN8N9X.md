@@ -14,7 +14,7 @@ currency: EUR
 price: 18.74
 comparePrice: 24.99 EUR
 inStock: true
-prodname: HAWKERS Core Sunglasses  negro  One Size Unisex-Adult
+prodname: 'HAWKERS Core Sunglasses  negro  One Size Unisex-Adult'
 ---
 
 Ahora mismo tienes [HAWKERS Core Sunglasses  negro  One Size Unisex-Adult](https://www.amazon.es/dp/B08BQN8N9X/?tag=tolees-21) a 18.74 EUR (original: 24.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

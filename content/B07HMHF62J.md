@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: GLAMOURIC Calefactor de Cerámica  PTC Calefactor Oscilante de Cerámica  2 Ajustes de Calor  750 W / 1500 W  Protección contra Sobrecalentamiento  Color Blanco y Plateado
+prodname: 'GLAMOURIC Calefactor de Cerámica  PTC Calefactor Oscilante de Cerámica  2 Ajustes de Calor  750 W / 1500 W  Protección contra Sobrecalentamiento  Color Blanco y Plateado'
 ---
 
 Está [GLAMOURIC Calefactor de Cerámica  PTC Calefactor Oscilante de Cerámica  2 Ajustes de Calor  750 W / 1500 W  Protección contra Sobrecalentamiento  Color Blanco y Plateado](https://www.amazon.es/dp/B07HMHF62J/?tag=tolees-21) con 53.76 de descuento por 36.99 EUR (original: 79.99 EUR) en el siguiente enlace!

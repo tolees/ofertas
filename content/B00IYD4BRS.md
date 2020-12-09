@@ -14,7 +14,7 @@ currency: EUR
 price: 5.95
 comparePrice: 31.62 EUR
 inStock: true
-prodname: Uhlsport Hose Match GK Shorts - Pantalones Cortos de fútbol para Hombre  Color Negro  Talla 2XS
+prodname: 'Uhlsport Hose Match GK Shorts - Pantalones Cortos de fútbol para Hombre  Color Negro  Talla 2XS'
 ---
 
 Tienes [Uhlsport Hose Match GK Shorts - Pantalones Cortos de fútbol para Hombre  Color Negro  Talla 2XS](https://www.amazon.es/dp/B00IYD4BRS/?tag=tolees-21) con un 81.18 % de descuento con precio de oferta de 5.95 EUR (original: 31.62 EUR) en el siguiente enlace!

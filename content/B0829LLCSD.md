@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Sennheiser CX 150BT - Auriculares Wireless con collar  color negro
+prodname: 'Sennheiser CX 150BT - Auriculares Wireless con collar  color negro'
 ---
 
 Ahora mismo tienes [Sennheiser CX 150BT - Auriculares Wireless con collar  color negro](https://www.amazon.es/dp/B0829LLCSD/?tag=tolees-21) a 45.0 EUR (original: 69.0 EUR) (34.78 %  de descuento) en el siguiente enlace!

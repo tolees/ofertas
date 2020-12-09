@@ -14,7 +14,7 @@ currency: EUR
 price: 28
 comparePrice: 69 EUR
 inStock: true
-prodname: Tuscany Silver 8.44.5694 - Cadena con colgante de plata de ley  925/1000   sin gema  46 cm
+prodname: 'Tuscany Silver 8.44.5694 - Cadena con colgante de plata de ley  925/1000   sin gema  46 cm'
 ---
 
 Ahora mismo tienes [Tuscany Silver 8.44.5694 - Cadena con colgante de plata de ley  925/1000   sin gema  46 cm](https://www.amazon.es/dp/B004FYXW6G/?tag=tolees-21) a 28 EUR (original: 69 EUR) (59.42 %  de descuento) en el siguiente enlace!

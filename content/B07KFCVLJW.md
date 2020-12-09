@@ -14,7 +14,7 @@ currency: EUR
 price: 56.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: INTEY Purificador de aire Hepa - Smart 8H Timer Luz de noche azul para el hogar - Elimina 99.97% alergias  humo  polvo  polen  caspa de mascotas
+prodname: 'INTEY Purificador de aire Hepa - Smart 8H Timer Luz de noche azul para el hogar - Elimina 99.97% alergias  humo  polvo  polen  caspa de mascotas'
 ---
 
 Tienes [INTEY Purificador de aire Hepa - Smart 8H Timer Luz de noche azul para el hogar - Elimina 99.97% alergias  humo  polvo  polen  caspa de mascotas](https://www.amazon.es/dp/B07KFCVLJW/?tag=tolees-21) con un 43.00 % de descuento con precio de oferta de 56.99 EUR (original: 99.99 EUR) en el siguiente enlace!

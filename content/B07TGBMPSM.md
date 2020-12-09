@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 69.99 EUR
 inStock: true
-prodname: The Sinking City: Day One - Edition XB1 [Versión Española]
+prodname: 'The Sinking City: Day One - Edition XB1 [Versión Española]'
 ---
 
 Tienes [The Sinking City: Day One - Edition XB1 [Versión Española]](https://www.amazon.es/dp/B07TGBMPSM/?tag=tolees-21) con un 64.35 % de descuento con precio de oferta de 24.95 EUR (original: 69.99 EUR) en el siguiente enlace!

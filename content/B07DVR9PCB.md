@@ -14,7 +14,7 @@ currency: EUR
 price: 52.86
 comparePrice: 135 EUR
 inStock: true
-prodname: Lacoste - Nh2665tk  Bolsos bandolera Hombre  Negro  Black   9x16.5x26 cm  W x H L 
+prodname: 'Lacoste - Nh2665tk  Bolsos bandolera Hombre  Negro  Black   9x16.5x26 cm  W x H L '
 ---
 
 Ahora mismo tienes [Lacoste - Nh2665tk  Bolsos bandolera Hombre  Negro  Black   9x16.5x26 cm  W x H L ](https://www.amazon.es/dp/B07DVR9PCB/?tag=tolees-21) a 52.86 EUR (original: 135 EUR) (60.84 %  de descuento) en el siguiente enlace!

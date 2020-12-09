@@ -14,7 +14,7 @@ currency: EUR
 price: 15
 comparePrice: 58.88 EUR
 inStock: true
-prodname: Reebok Royal Complete CLN  Zapatillas de Deporte para Niños   Collegiate Burgundy/Tin Grey/White 000   37.5 EU
+prodname: 'Reebok Royal Complete CLN  Zapatillas de Deporte para Niños   Collegiate Burgundy/Tin Grey/White 000   37.5 EU'
 ---
 
 Ahora mismo tienes [Reebok Royal Complete CLN  Zapatillas de Deporte para Niños   Collegiate Burgundy/Tin Grey/White 000   37.5 EU](https://www.amazon.es/dp/B07FJYKZ5G/?tag=tolees-21) a 15 EUR (original: 58.88 EUR) (74.52 %  de descuento) en el siguiente enlace!

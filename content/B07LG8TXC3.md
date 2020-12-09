@@ -14,7 +14,7 @@ currency: EUR
 price: 35.35
 comparePrice: 53.0 EUR
 inStock: true
-prodname: Talisker Select Reserve - Whisky escocés puro de malta - Edición limitada Juego de Tronos: Casa Greyjoy  700 ml
+prodname: 'Talisker Select Reserve - Whisky escocés puro de malta - Edición limitada Juego de Tronos: Casa Greyjoy  700 ml'
 ---
 
 Está [Talisker Select Reserve - Whisky escocés puro de malta - Edición limitada Juego de Tronos: Casa Greyjoy  700 ml](https://www.amazon.es/dp/B07LG8TXC3/?tag=tolees-21) con 33.30 de descuento por 35.35 EUR (original: 53.0 EUR) en el siguiente enlace!

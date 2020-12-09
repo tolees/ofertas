@@ -14,7 +14,7 @@ currency: EUR
 price: 20.74
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Elly  Vaqueros Slim  Mujer  Azul  Fresh Worn Xn   W24/L31
+prodname: 'Lee Elly  Vaqueros Slim  Mujer  Azul  Fresh Worn Xn   W24/L31'
 ---
 
 Ahora mismo tienes [Lee Elly  Vaqueros Slim  Mujer  Azul  Fresh Worn Xn   W24/L31](https://www.amazon.es/dp/B07CQ1YWT8/?tag=tolees-21) a 20.74 EUR (original: 99.95 EUR) (79.25 %  de descuento) en el siguiente enlace!

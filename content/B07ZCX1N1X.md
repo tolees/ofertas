@@ -14,7 +14,7 @@ currency: EUR
 price: 8.7
 comparePrice: 13.16 EUR
 inStock: true
-prodname: Xuefoo Set de árbol de Navidad de fieltro para colgar en la pared con adornos de festivales para niños regalo
+prodname: 'Xuefoo Set de árbol de Navidad de fieltro para colgar en la pared con adornos de festivales para niños regalo'
 ---
 
 Está [Xuefoo Set de árbol de Navidad de fieltro para colgar en la pared con adornos de festivales para niños regalo](https://www.amazon.es/dp/B07ZCX1N1X/?tag=tolees-21) con 33.89 de descuento por 8.7 EUR (original: 13.16 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 119.68
 comparePrice: 184.46 EUR
 inStock: true
-prodname: Besrey Silla de paseo viaje compacta y ligera avión cochecito bebe con asiento reclinable EN1888
+prodname: 'Besrey Silla de paseo viaje compacta y ligera avión cochecito bebe con asiento reclinable EN1888'
 ---
 
 Tienes [Besrey Silla de paseo viaje compacta y ligera avión cochecito bebe con asiento reclinable EN1888](https://www.amazon.es/dp/B07FKZWPPJ/?tag=tolees-21) con un 35.12 % de descuento con precio de oferta de 119.68 EUR (original: 184.46 EUR) en el siguiente enlace!

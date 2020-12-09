@@ -14,7 +14,7 @@ currency: EUR
 price: 32.64
 comparePrice: 74.95 EUR
 inStock: true
-prodname: adidas CF Advantage Cl  Zapatillas para Hombre  Negro Core Black/Trace Cargo 0  44 2/3 EU
+prodname: 'adidas CF Advantage Cl  Zapatillas para Hombre  Negro Core Black/Trace Cargo 0  44 2/3 EU'
 ---
 
 Tienes [adidas CF Advantage Cl  Zapatillas para Hombre  Negro Core Black/Trace Cargo 0  44 2/3 EU](https://www.amazon.es/dp/B07D9TDTKL/?tag=tolees-21) con un 56.45 % de descuento con precio de oferta de 32.64 EUR (original: 74.95 EUR) en el siguiente enlace!

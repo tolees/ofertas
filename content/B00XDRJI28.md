@@ -14,7 +14,7 @@ currency: EUR
 price: 23.34
 comparePrice: 33.41 EUR
 inStock: true
-prodname: Vans REALM BACKPACK Mochila tipo casual 42 centimeters 22 Morado  Prune-Black 
+prodname: 'Vans REALM BACKPACK Mochila tipo casual 42 centimeters 22 Morado  Prune-Black '
 ---
 
 Ahora mismo tienes [Vans REALM BACKPACK Mochila tipo casual 42 centimeters 22 Morado  Prune-Black ](https://www.amazon.es/dp/B00XDRJI28/?tag=tolees-21) a 23.34 EUR (original: 33.41 EUR) (30.14 %  de descuento) en el siguiente enlace!

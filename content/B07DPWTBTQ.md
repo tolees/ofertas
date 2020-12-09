@@ -14,7 +14,7 @@ currency: EUR
 price: 48.45
 comparePrice: 100 EUR
 inStock: true
-prodname: Burton Elodie Chaqueta de Snowboard  Niñas   Flowers   S
+prodname: 'Burton Elodie Chaqueta de Snowboard  Niñas   Flowers   S'
 ---
 
 Está [Burton Elodie Chaqueta de Snowboard  Niñas   Flowers   S](https://www.amazon.es/dp/B07DPWTBTQ/?tag=tolees-21) con 51.55 de descuento por 48.45 EUR (original: 100 EUR) en el siguiente enlace!

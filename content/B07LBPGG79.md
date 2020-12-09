@@ -14,7 +14,7 @@ currency: EUR
 price: 71.69
 comparePrice: 130.0 EUR
 inStock: true
-prodname: Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaqueta De Softshell  Hombre  Electric Blue  L
+prodname: 'Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaqueta De Softshell  Hombre  Electric Blue  L'
 ---
 
 Tienes [Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaqueta De Softshell  Hombre  Electric Blue  L](https://www.amazon.es/dp/B07LBPGG79/?tag=tolees-21) con un 44.85 % de descuento con precio de oferta de 71.69 EUR (original: 130.0 EUR) en el siguiente enlace!

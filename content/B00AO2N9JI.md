@@ -14,7 +14,7 @@ currency: EUR
 price: 41.99
 comparePrice: 56.75 EUR
 inStock: true
-prodname: Dremel 3000 - Multiherramienta 130 W  kit con 15 accesorios y estuche  velocidad variable 10.000 - 33.000 rpm para tallar  grabar  fresar  amolar  limpiar  pulir  cortar y lijar
+prodname: 'Dremel 3000 - Multiherramienta 130 W  kit con 15 accesorios y estuche  velocidad variable 10.000 - 33.000 rpm para tallar  grabar  fresar  amolar  limpiar  pulir  cortar y lijar'
 ---
 
 Ahora mismo tienes [Dremel 3000 - Multiherramienta 130 W  kit con 15 accesorios y estuche  velocidad variable 10.000 - 33.000 rpm para tallar  grabar  fresar  amolar  limpiar  pulir  cortar y lijar](https://www.amazon.es/dp/B00AO2N9JI/?tag=tolees-21) a 41.99 EUR (original: 56.75 EUR) (26.01 %  de descuento) en el siguiente enlace!

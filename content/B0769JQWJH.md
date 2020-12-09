@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Sades SA926T Auriculares Gaming - 3.5mm Cancelación De Ruido Gaming Headset  juego auriculares con micrófono para nueva Xbox One PS4 portátil Mac Tablet iPhone iPad iPod
+prodname: 'Sades SA926T Auriculares Gaming - 3.5mm Cancelación De Ruido Gaming Headset  juego auriculares con micrófono para nueva Xbox One PS4 portátil Mac Tablet iPhone iPad iPod'
 ---
 
 Tienes [Sades SA926T Auriculares Gaming - 3.5mm Cancelación De Ruido Gaming Headset  juego auriculares con micrófono para nueva Xbox One PS4 portátil Mac Tablet iPhone iPad iPod](https://www.amazon.es/dp/B0769JQWJH/?tag=tolees-21) con un 67.01 % de descuento con precio de oferta de 32.99 EUR (original: 99.99 EUR) en el siguiente enlace!

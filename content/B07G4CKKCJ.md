@@ -14,7 +14,7 @@ currency: EUR
 price: 10.95
 comparePrice: 17 EUR
 inStock: true
-prodname: SALOMON XA 2-Pack 2 Pares de Calcetines Tobilleros  Unisex  Negro  L
+prodname: 'SALOMON XA 2-Pack 2 Pares de Calcetines Tobilleros  Unisex  Negro  L'
 ---
 
 Ahora mismo tienes [SALOMON XA 2-Pack 2 Pares de Calcetines Tobilleros  Unisex  Negro  L](https://www.amazon.es/dp/B07G4CKKCJ/?tag=tolees-21) a 10.95 EUR (original: 17 EUR) (35.59 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.88
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Reebok Flexile  Zapatillas de Deporte para Mujer  Blanco  Lucid Lilac Shadow/White   38.5 EU
+prodname: 'Reebok Flexile  Zapatillas de Deporte para Mujer  Blanco  Lucid Lilac Shadow/White   38.5 EU'
 ---
 
 Tienes [Reebok Flexile  Zapatillas de Deporte para Mujer  Blanco  Lucid Lilac Shadow/White   38.5 EU](https://www.amazon.es/dp/B073FMZQG1/?tag=tolees-21) con un 57.07 % de descuento con precio de oferta de 27.88 EUR (original: 64.95 EUR) en el siguiente enlace!

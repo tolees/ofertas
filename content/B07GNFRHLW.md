@@ -14,7 +14,7 @@ currency: EUR
 price: 15.65
 comparePrice: 29.99 EUR
 inStock: true
-prodname: JACK & JONES Jcorotto Sweat Hood  Capucha Hombre  Negro  Medium  Talla del Fabricante: 
+prodname: 'JACK & JONES Jcorotto Sweat Hood  Capucha Hombre  Negro  Medium  Talla del Fabricante: '
 ---
 
 Ahora mismo tienes [JACK & JONES Jcorotto Sweat Hood  Capucha Hombre  Negro  Medium  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNFRHLW/?tag=tolees-21) a 15.65 EUR (original: 29.99 EUR) (47.82 %  de descuento) en el siguiente enlace!

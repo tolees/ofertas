@@ -14,7 +14,7 @@ currency: EUR
 price: 48.68
 comparePrice: 99.68 EUR
 inStock: true
-prodname: FEMOR Bañera Plegable de Mascotas Baño Portátil para Animales Piscina para Perros y Gatos Adecuado para Interior Exterior al Aire Libre Color Rojo  L/160 x 30cm 
+prodname: 'FEMOR Bañera Plegable de Mascotas Baño Portátil para Animales Piscina para Perros y Gatos Adecuado para Interior Exterior al Aire Libre Color Rojo  L/160 x 30cm '
 ---
 
 Está [FEMOR Bañera Plegable de Mascotas Baño Portátil para Animales Piscina para Perros y Gatos Adecuado para Interior Exterior al Aire Libre Color Rojo  L/160 x 30cm ](https://www.amazon.es/dp/B01N6RKLV6/?tag=tolees-21) con 51.16 de descuento por 48.68 EUR (original: 99.68 EUR) en el siguiente enlace!

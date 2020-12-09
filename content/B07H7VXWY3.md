@@ -14,7 +14,7 @@ currency: EUR
 price: 33.65
 comparePrice: 73.07 EUR
 inStock: true
-prodname: Hush Puppies Plain Toe  Zapatos de Cordones Derby para Hombre  Negro  Black 000   42 EU
+prodname: 'Hush Puppies Plain Toe  Zapatos de Cordones Derby para Hombre  Negro  Black 000   42 EU'
 ---
 
 Tienes [Hush Puppies Plain Toe  Zapatos de Cordones Derby para Hombre  Negro  Black 000   42 EU](https://www.amazon.es/dp/B07H7VXWY3/?tag=tolees-21) con un 53.95 % de descuento con precio de oferta de 33.65 EUR (original: 73.07 EUR) en el siguiente enlace!

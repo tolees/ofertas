@@ -14,7 +14,7 @@ currency: EUR
 price: 9.43
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Urban Classics 5 Pocket Pants  Pantalones Hombre  Rojo  Red 00199   W31
+prodname: 'Urban Classics 5 Pocket Pants  Pantalones Hombre  Rojo  Red 00199   W31'
 ---
 
 Ahora mismo tienes [Urban Classics 5 Pocket Pants  Pantalones Hombre  Rojo  Red 00199   W31](https://www.amazon.es/dp/B00B4BSR2M/?tag=tolees-21) a 9.43 EUR (original: 39.9 EUR) (76.37 %  de descuento) en el siguiente enlace!

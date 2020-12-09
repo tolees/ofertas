@@ -14,7 +14,7 @@ currency: EUR
 price: 81.2
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva  Mujer  Black  XL
+prodname: 'Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva  Mujer  Black  XL'
 ---
 
 Ahora mismo tienes [Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva  Mujer  Black  XL](https://www.amazon.es/dp/B07F2ZXJHJ/?tag=tolees-21) a 81.2 EUR (original: 150.0 EUR) (45.87 %  de descuento) en el siguiente enlace!

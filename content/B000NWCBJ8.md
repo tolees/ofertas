@@ -14,7 +14,7 @@ currency: EUR
 price: 6.48
 comparePrice: 43.2 EUR
 inStock: true
-prodname: KRAFTWERK 3787-61pzs. 1/4 pulgada
+prodname: 'KRAFTWERK 3787-61pzs. 1/4 pulgada'
 ---
 
 Ahora mismo tienes [KRAFTWERK 3787-61pzs. 1/4 pulgada](https://www.amazon.es/dp/B000NWCBJ8/?tag=tolees-21) a 6.48 EUR (original: 43.2 EUR) (85.00 %  de descuento) en el siguiente enlace!

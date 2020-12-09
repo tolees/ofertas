@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 38.99 EUR
 inStock: true
-prodname: Todeco - Barra de Barbilla  Barra de Tracción de Fitness - Material: Espuma de alta densidad - Carga máxima: 135 kg - Montaje en pared
+prodname: 'Todeco - Barra de Barbilla  Barra de Tracción de Fitness - Material: Espuma de alta densidad - Carga máxima: 135 kg - Montaje en pared'
 ---
 
 Tienes [Todeco - Barra de Barbilla  Barra de Tracción de Fitness - Material: Espuma de alta densidad - Carga máxima: 135 kg - Montaje en pared](https://www.amazon.es/dp/B00DCUBJ50/?tag=tolees-21) con un 28.21 % de descuento con precio de oferta de 27.99 EUR (original: 38.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.8
 comparePrice: 55 EUR
 inStock: true
-prodname: Under Armour Grade School Ripple NM  Zapatillas de Running para Niños   Batik/Onyx White/Dust 301   36 EU
+prodname: 'Under Armour Grade School Ripple NM  Zapatillas de Running para Niños   Batik/Onyx White/Dust 301   36 EU'
 ---
 
 Está [Under Armour Grade School Ripple NM  Zapatillas de Running para Niños   Batik/Onyx White/Dust 301   36 EU](https://www.amazon.es/dp/B07CVCHHCB/?tag=tolees-21) con 65.82 de descuento por 18.8 EUR (original: 55 EUR) en el siguiente enlace!

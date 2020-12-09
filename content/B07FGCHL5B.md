@@ -14,7 +14,7 @@ currency: EUR
 price: 33.09
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Backpedal  Zapatillas Casual para Hombre  Gris  Ti Grey Steel  Black   44.5 EU
+prodname: 'Columbia Backpedal  Zapatillas Casual para Hombre  Gris  Ti Grey Steel  Black   44.5 EU'
 ---
 
 Tienes [Columbia Backpedal  Zapatillas Casual para Hombre  Gris  Ti Grey Steel  Black   44.5 EU](https://www.amazon.es/dp/B07FGCHL5B/?tag=tolees-21) con un 63.23 % de descuento con precio de oferta de 33.09 EUR (original: 89.99 EUR) en el siguiente enlace!

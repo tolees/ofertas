@@ -14,7 +14,7 @@ currency: EUR
 price: 44.5
 comparePrice: 89.0 EUR
 inStock: true
-prodname: Samsonite Rewind Mochila para Portátil M  44 cm  23 L  Azul  Navy Blue Stripes 
+prodname: 'Samsonite Rewind Mochila para Portátil M  44 cm  23 L  Azul  Navy Blue Stripes '
 ---
 
 Está [Samsonite Rewind Mochila para Portátil M  44 cm  23 L  Azul  Navy Blue Stripes ](https://www.amazon.es/dp/B07TLZ1G3W/?tag=tolees-21) con 50.00 de descuento por 44.5 EUR (original: 89.0 EUR) en el siguiente enlace!

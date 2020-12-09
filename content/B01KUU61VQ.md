@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Beurer EM 37 Electroestimulador EMS Cinturón Abdominal 5 programas de entrenamiento  4 electrodos agua sin necesidad de geles ni recambios  pantalla LCD  70-140cm cintura
+prodname: 'Beurer EM 37 Electroestimulador EMS Cinturón Abdominal 5 programas de entrenamiento  4 electrodos agua sin necesidad de geles ni recambios  pantalla LCD  70-140cm cintura'
 ---
 
 Está [Beurer EM 37 Electroestimulador EMS Cinturón Abdominal 5 programas de entrenamiento  4 electrodos agua sin necesidad de geles ni recambios  pantalla LCD  70-140cm cintura](https://www.amazon.es/dp/B01KUU61VQ/?tag=tolees-21) con 32.22 de descuento por 39.99 EUR (original: 59.0 EUR) en el siguiente enlace!

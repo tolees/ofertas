@@ -14,7 +14,7 @@ currency: EUR
 price: 25
 comparePrice: 52.71 EUR
 inStock: true
-prodname: Philips KeraShine HP8348 - Plancha de pelo  Negro  Oro 
+prodname: 'Philips KeraShine HP8348 - Plancha de pelo  Negro  Oro '
 ---
 
 Tienes [Philips KeraShine HP8348 - Plancha de pelo  Negro  Oro ](https://www.amazon.es/dp/B00ZWCBA50/?tag=tolees-21) con un 52.57 % de descuento con precio de oferta de 25 EUR (original: 52.71 EUR) en el siguiente enlace!

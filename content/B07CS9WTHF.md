@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Pepe Jeans Gaby L  Sudadera para Mujer    Mousse 808  Small
+prodname: 'Pepe Jeans Gaby L  Sudadera para Mujer    Mousse 808  Small'
 ---
 
 Tienes [Pepe Jeans Gaby L  Sudadera para Mujer    Mousse 808  Small](https://www.amazon.es/dp/B07CS9WTHF/?tag=tolees-21) con un 74.32 % de descuento con precio de oferta de 17.95 EUR (original: 69.9 EUR) en el siguiente enlace!

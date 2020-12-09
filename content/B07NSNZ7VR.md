@@ -14,7 +14,7 @@ currency: EUR
 price: 87.2
 comparePrice: 159.99 EUR
 inStock: true
-prodname: Taurus Ideal Lithium Aspirador de Mano y Lanza Extra Larga  22.2 V  Cepillo motorizado Brush  Turbo Cyclonic System  650 ml  Filtro HEPA  Azul  Plastique
+prodname: 'Taurus Ideal Lithium Aspirador de Mano y Lanza Extra Larga  22.2 V  Cepillo motorizado Brush  Turbo Cyclonic System  650 ml  Filtro HEPA  Azul  Plastique'
 ---
 
 Ahora mismo tienes [Taurus Ideal Lithium Aspirador de Mano y Lanza Extra Larga  22.2 V  Cepillo motorizado Brush  Turbo Cyclonic System  650 ml  Filtro HEPA  Azul  Plastique](https://www.amazon.es/dp/B07NSNZ7VR/?tag=tolees-21) a 87.2 EUR (original: 159.99 EUR) (45.50 %  de descuento) en el siguiente enlace!

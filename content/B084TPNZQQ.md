@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 50.0 EUR
 inStock: true
-prodname: GREAT ART Set de 2 Posters XXL - Emblemática Torre Eiffel y Puente de Brooklyn - París en Francia Nueva York en EE. UU. Estilo Industrial Cuadro decoración de Pared  140 x 100 cm 
+prodname: 'GREAT ART Set de 2 Posters XXL - Emblemática Torre Eiffel y Puente de Brooklyn - París en Francia Nueva York en EE. UU. Estilo Industrial Cuadro decoración de Pared  140 x 100 cm '
 ---
 
 Ahora mismo tienes [GREAT ART Set de 2 Posters XXL - Emblemática Torre Eiffel y Puente de Brooklyn - París en Francia Nueva York en EE. UU. Estilo Industrial Cuadro decoración de Pared  140 x 100 cm ](https://www.amazon.es/dp/B084TPNZQQ/?tag=tolees-21) a 29.9 EUR (original: 50.0 EUR) (40.20 %  de descuento) en el siguiente enlace!

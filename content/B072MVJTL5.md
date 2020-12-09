@@ -14,7 +14,7 @@ currency: EUR
 price: 8.62
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Only & Sons Onstudor LS Melange Shirt Noos  Camisa Hombre  Gris  Light Grey Melange   X-Large
+prodname: 'Only & Sons Onstudor LS Melange Shirt Noos  Camisa Hombre  Gris  Light Grey Melange   X-Large'
 ---
 
 Está [Only & Sons Onstudor LS Melange Shirt Noos  Camisa Hombre  Gris  Light Grey Melange   X-Large](https://www.amazon.es/dp/B072MVJTL5/?tag=tolees-21) con 75.36 de descuento por 8.62 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 67.99 EUR
 inStock: true
-prodname: Jabra Move Style Edition – Auriculares On-Ear  Conexión Bluetooth con Smartphones  Ordenadores y Tabletas  Para Música y Llamadas Inalámbricas  Azul Marino
+prodname: 'Jabra Move Style Edition – Auriculares On-Ear  Conexión Bluetooth con Smartphones  Ordenadores y Tabletas  Para Música y Llamadas Inalámbricas  Azul Marino'
 ---
 
 Tienes [Jabra Move Style Edition – Auriculares On-Ear  Conexión Bluetooth con Smartphones  Ordenadores y Tabletas  Para Música y Llamadas Inalámbricas  Azul Marino](https://www.amazon.es/dp/B07NNFW7YT/?tag=tolees-21) con un 26.47 % de descuento con precio de oferta de 49.99 EUR (original: 67.99 EUR) en el siguiente enlace!

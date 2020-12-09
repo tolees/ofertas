@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 123.2 EUR
 inStock: true
-prodname: Disco Duro Externo 2 TB Portátil Type C USB3.1 HDD para PC  Mac  Xbox One  MacBook. 2TB Rojo 
+prodname: 'Disco Duro Externo 2 TB Portátil Type C USB3.1 HDD para PC  Mac  Xbox One  MacBook. 2TB Rojo '
 ---
 
 Ahora mismo tienes [Disco Duro Externo 2 TB Portátil Type C USB3.1 HDD para PC  Mac  Xbox One  MacBook. 2TB Rojo ](https://www.amazon.es/dp/B08DJ32WBY/?tag=tolees-21) a 63.99 EUR (original: 123.2 EUR) (48.06 %  de descuento) en el siguiente enlace!

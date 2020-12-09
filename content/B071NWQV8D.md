@@ -14,7 +14,7 @@ currency: EUR
 price: 38.45
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Puma Rebound Street V2  Zapatillas Altas Unisex Adults o  Negro Black White  36 EU
+prodname: 'Puma Rebound Street V2  Zapatillas Altas Unisex Adults o  Negro Black White  36 EU'
 ---
 
 Está [Puma Rebound Street V2  Zapatillas Altas Unisex Adults o  Negro Black White  36 EU](https://www.amazon.es/dp/B071NWQV8D/?tag=tolees-21) con 35.86 de descuento por 38.45 EUR (original: 59.95 EUR) en el siguiente enlace!

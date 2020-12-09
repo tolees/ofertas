@@ -14,7 +14,7 @@ currency: EUR
 price: 17.55
 comparePrice: 34.95 EUR
 inStock: true
-prodname: adidas Superstar Crib  Zapatillas Unisex bebé  Blanco  Footwear White/Footwear White/Core Black 0   21 EU
+prodname: 'adidas Superstar Crib  Zapatillas Unisex bebé  Blanco  Footwear White/Footwear White/Core Black 0   21 EU'
 ---
 
 Está [adidas Superstar Crib  Zapatillas Unisex bebé  Blanco  Footwear White/Footwear White/Core Black 0   21 EU](https://www.amazon.es/dp/B07K12HKBC/?tag=tolees-21) con 49.79 de descuento por 17.55 EUR (original: 34.95 EUR) en el siguiente enlace!

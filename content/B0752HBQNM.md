@@ -14,7 +14,7 @@ currency: EUR
 price: 15.66
 comparePrice: 34.12 EUR
 inStock: true
-prodname: Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Gris  Light Grey   XL  Label: XL
+prodname: 'Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Gris  Light Grey   XL  Label: XL'
 ---
 
 Está [Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Gris  Light Grey   XL  Label: XL](https://www.amazon.es/dp/B0752HBQNM/?tag=tolees-21) con 54.10 de descuento por 15.66 EUR (original: 34.12 EUR) en el siguiente enlace!

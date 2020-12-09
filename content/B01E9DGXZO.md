@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Timothy Stone Collection Charme Bicolor - Reloj de Cuarzo para Mujer  Color Oro Blanco/Blanco
+prodname: 'Timothy Stone Collection Charme Bicolor - Reloj de Cuarzo para Mujer  Color Oro Blanco/Blanco'
 ---
 
 Ahora mismo tienes [Timothy Stone Collection Charme Bicolor - Reloj de Cuarzo para Mujer  Color Oro Blanco/Blanco](https://www.amazon.es/dp/B01E9DGXZO/?tag=tolees-21) a 29.9 EUR (original: 59.9 EUR) (50.08 %  de descuento) en el siguiente enlace!

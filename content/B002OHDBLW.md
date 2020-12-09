@@ -14,7 +14,7 @@ currency: EUR
 price: 299.0
 comparePrice: 699.0 EUR
 inStock: true
-prodname: De longhi ECAM 23.420.SB - Cafetera Superautomática 15 Bares de Presión  Espresso y Cappuccino  Depósito de Agua Extraíble 1.8 l  Panel LCD  Dispensador de Café Ajustable  Limpieza Automática  Plata
+prodname: 'De longhi ECAM 23.420.SB - Cafetera Superautomática 15 Bares de Presión  Espresso y Cappuccino  Depósito de Agua Extraíble 1.8 l  Panel LCD  Dispensador de Café Ajustable  Limpieza Automática  Plata'
 ---
 
 Tienes [De longhi ECAM 23.420.SB - Cafetera Superautomática 15 Bares de Presión  Espresso y Cappuccino  Depósito de Agua Extraíble 1.8 l  Panel LCD  Dispensador de Café Ajustable  Limpieza Automática  Plata](https://www.amazon.es/dp/B002OHDBLW/?tag=tolees-21) con un 57.22 % de descuento con precio de oferta de 299.0 EUR (original: 699.0 EUR) en el siguiente enlace!

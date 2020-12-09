@@ -14,7 +14,7 @@ currency: EUR
 price: 48.59
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Placa Inducción Portatil  2000W Calefacción Rápida Placa Vitroceramica Induccion con Función Timer y Función Mantener Caliente  Control Táctil  10 Niveles de Potencia  Negro
+prodname: 'Placa Inducción Portatil  2000W Calefacción Rápida Placa Vitroceramica Induccion con Función Timer y Función Mantener Caliente  Control Táctil  10 Niveles de Potencia  Negro'
 ---
 
 Está [Placa Inducción Portatil  2000W Calefacción Rápida Placa Vitroceramica Induccion con Función Timer y Función Mantener Caliente  Control Táctil  10 Niveles de Potencia  Negro](https://www.amazon.es/dp/B07GKWTCDF/?tag=tolees-21) con 30.58 de descuento por 48.59 EUR (original: 69.99 EUR) en el siguiente enlace!

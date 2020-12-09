@@ -14,7 +14,7 @@ currency: EUR
 price: 94.82
 comparePrice: 160 EUR
 inStock: true
-prodname: Nixon A1051037-00 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color marrón
+prodname: 'Nixon A1051037-00 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color marrón'
 ---
 
 Está [Nixon A1051037-00 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color marrón](https://www.amazon.es/dp/B0053RIKAM/?tag=tolees-21) con 40.74 de descuento por 94.82 EUR (original: 160 EUR) en el siguiente enlace!

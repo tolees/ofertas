@@ -14,7 +14,7 @@ currency: EUR
 price: 101.99
 comparePrice: 159.99 EUR
 inStock: true
-prodname: WD My Passport SSD 500GB - tecnología NVMe  USB-C  velocidad de lectura hasta 1050MB/s & de escritura hasta 1000MB/s - Azul medianoche
+prodname: 'WD My Passport SSD 500GB - tecnología NVMe  USB-C  velocidad de lectura hasta 1050MB/s & de escritura hasta 1000MB/s - Azul medianoche'
 ---
 
 Está [WD My Passport SSD 500GB - tecnología NVMe  USB-C  velocidad de lectura hasta 1050MB/s & de escritura hasta 1000MB/s - Azul medianoche](https://www.amazon.es/dp/B08F2CMHP7/?tag=tolees-21) con 36.25 de descuento por 101.99 EUR (original: 159.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 117.0
 comparePrice: 168.95 EUR
 inStock: true
-prodname: Silla de Coche Grupo 0 1 2 3 Isofix Star Ibaby Travel.
+prodname: 'Silla de Coche Grupo 0 1 2 3 Isofix Star Ibaby Travel.'
 ---
 
 Ahora mismo tienes [Silla de Coche Grupo 0 1 2 3 Isofix Star Ibaby Travel.](https://www.amazon.es/dp/B01MTOGIKQ/?tag=tolees-21) a 117.0 EUR (original: 168.95 EUR) (30.75 %  de descuento) en el siguiente enlace!

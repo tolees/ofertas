@@ -14,7 +14,7 @@ currency: EUR
 price: 7.14
 comparePrice: 10.99 EUR
 inStock: true
-prodname: Philips Avent SCF696/17 - Biberón  tetina suave y flexible  anticólicos  PP 0% BPA  330 ml  color transparente
+prodname: 'Philips Avent SCF696/17 - Biberón  tetina suave y flexible  anticólicos  PP 0% BPA  330 ml  color transparente'
 ---
 
 Ahora mismo tienes [Philips Avent SCF696/17 - Biberón  tetina suave y flexible  anticólicos  PP 0% BPA  330 ml  color transparente](https://www.amazon.es/dp/B00BCC8A8E/?tag=tolees-21) a 7.14 EUR (original: 10.99 EUR) (35.03 %  de descuento) en el siguiente enlace!

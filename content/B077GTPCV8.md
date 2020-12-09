@@ -14,7 +14,7 @@ currency: EUR
 price: 16.68
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour UA Vanish SS T Camiseta de Manga Corta  Hombre  Blanco  100   L
+prodname: 'Under Armour UA Vanish SS T Camiseta de Manga Corta  Hombre  Blanco  100   L'
 ---
 
 Está [Under Armour UA Vanish SS T Camiseta de Manga Corta  Hombre  Blanco  100   L](https://www.amazon.es/dp/B077GTPCV8/?tag=tolees-21) con 35.85 de descuento por 16.68 EUR (original: 26 EUR) en el siguiente enlace!

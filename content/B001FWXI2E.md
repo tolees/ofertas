@@ -14,7 +14,7 @@ currency: EUR
 price: 44.98
 comparePrice: 82.16 EUR
 inStock: true
-prodname: Montana Parfum de Femme Agua de Tocador Vaporizador - 100 ml
+prodname: 'Montana Parfum de Femme Agua de Tocador Vaporizador - 100 ml'
 ---
 
 Está [Montana Parfum de Femme Agua de Tocador Vaporizador - 100 ml](https://www.amazon.es/dp/B001FWXI2E/?tag=tolees-21) con 45.25 de descuento por 44.98 EUR (original: 82.16 EUR) en el siguiente enlace!

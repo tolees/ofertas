@@ -14,7 +14,7 @@ currency: EUR
 price: 20.53
 comparePrice: 84.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Baby Preppy Coverall Giftbox  Conjunto Bebé-Niños  Rojo  Apple Red/Multi 600   58  Talla del Fabricante: 56 
+prodname: 'Tommy Hilfiger Baby Preppy Coverall Giftbox  Conjunto Bebé-Niños  Rojo  Apple Red/Multi 600   58  Talla del Fabricante: 56 '
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Baby Preppy Coverall Giftbox  Conjunto Bebé-Niños  Rojo  Apple Red/Multi 600   58  Talla del Fabricante: 56 ](https://www.amazon.es/dp/B07HFGW8ST/?tag=tolees-21) a 20.53 EUR (original: 84.9 EUR) (75.82 %  de descuento) en el siguiente enlace!

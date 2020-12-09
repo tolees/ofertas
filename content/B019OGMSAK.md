@@ -14,7 +14,7 @@ currency: EUR
 price: 23.9
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Adrien Lastic Symphony Massager Vibrador - 222 gr
+prodname: 'Adrien Lastic Symphony Massager Vibrador - 222 gr'
 ---
 
 Está [Adrien Lastic Symphony Massager Vibrador - 222 gr](https://www.amazon.es/dp/B019OGMSAK/?tag=tolees-21) con 46.88 de descuento por 23.9 EUR (original: 44.99 EUR) en el siguiente enlace!

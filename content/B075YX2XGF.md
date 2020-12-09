@@ -14,7 +14,7 @@ currency: EUR
 price: 26.05
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Skechers Mecca-bolders  Botas Clasicas para Niños  Azul  Navy Nvy   24 EU
+prodname: 'Skechers Mecca-bolders  Botas Clasicas para Niños  Azul  Navy Nvy   24 EU'
 ---
 
 Ahora mismo tienes [Skechers Mecca-bolders  Botas Clasicas para Niños  Azul  Navy Nvy   24 EU](https://www.amazon.es/dp/B075YX2XGF/?tag=tolees-21) a 26.05 EUR (original: 44.95 EUR) (42.05 %  de descuento) en el siguiente enlace!

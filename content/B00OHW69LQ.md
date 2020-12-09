@@ -14,7 +14,7 @@ currency: EUR
 price: 45.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: HP OMEN - Mochila para portátiles gaming de hasta 17.3"  bolsillos internos  malla ajustable  espalda acolchada   color negro y rojo
+prodname: 'HP OMEN - Mochila para portátiles gaming de hasta 17.3"  bolsillos internos  malla ajustable  espalda acolchada   color negro y rojo'
 ---
 
 Tienes [HP OMEN - Mochila para portátiles gaming de hasta 17.3"  bolsillos internos  malla ajustable  espalda acolchada   color negro y rojo](https://www.amazon.es/dp/B00OHW69LQ/?tag=tolees-21) con un 34.29 % de descuento con precio de oferta de 45.99 EUR (original: 69.99 EUR) en el siguiente enlace!

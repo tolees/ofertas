@@ -14,7 +14,7 @@ currency: EUR
 price: 16.42
 comparePrice: 38.19 EUR
 inStock: true
-prodname: Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Azul  Phthalo Blue   Small para Hombre
+prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Azul  Phthalo Blue   Small para Hombre'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Azul  Phthalo Blue   Small para Hombre](https://www.amazon.es/dp/B07VMNC7Y9/?tag=tolees-21) a 16.42 EUR (original: 38.19 EUR) (57.00 %  de descuento) en el siguiente enlace!

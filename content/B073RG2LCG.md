@@ -14,7 +14,7 @@ currency: EUR
 price: 49.98
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas Aerobounce St W  Zapatillas de Running para Mujer  Naranja  Hi-Res Orange/Real Coral/Aero Blue 0   40 EU
+prodname: 'adidas Aerobounce St W  Zapatillas de Running para Mujer  Naranja  Hi-Res Orange/Real Coral/Aero Blue 0   40 EU'
 ---
 
 Está [adidas Aerobounce St W  Zapatillas de Running para Mujer  Naranja  Hi-Res Orange/Real Coral/Aero Blue 0   40 EU](https://www.amazon.es/dp/B073RG2LCG/?tag=tolees-21) con 49.99 de descuento por 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!

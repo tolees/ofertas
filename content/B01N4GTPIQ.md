@@ -14,7 +14,7 @@ currency: EUR
 price: 16.87
 comparePrice: 40 EUR
 inStock: true
-prodname: find. FP00947.2.1 vestido fiesta mujer  Rojo  Sports Red   46  Talla del Fabricante: XX-Large 
+prodname: 'find. FP00947.2.1 vestido fiesta mujer  Rojo  Sports Red   46  Talla del Fabricante: XX-Large '
 ---
 
 Tienes [find. FP00947.2.1 vestido fiesta mujer  Rojo  Sports Red   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B01N4GTPIQ/?tag=tolees-21) con un 57.82 % de descuento con precio de oferta de 16.87 EUR (original: 40 EUR) en el siguiente enlace!

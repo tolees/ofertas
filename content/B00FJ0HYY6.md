@@ -14,7 +14,7 @@ currency: EUR
 price: 12.1
 comparePrice: 34.19 EUR
 inStock: true
-prodname: Berlei - Sujetador con Bordados para Mujer  Talla 90C  Color Negro
+prodname: 'Berlei - Sujetador con Bordados para Mujer  Talla 90C  Color Negro'
 ---
 
 Ahora mismo tienes [Berlei - Sujetador con Bordados para Mujer  Talla 90C  Color Negro](https://www.amazon.es/dp/B00FJ0HYY6/?tag=tolees-21) a 12.1 EUR (original: 34.19 EUR) (64.61 %  de descuento) en el siguiente enlace!

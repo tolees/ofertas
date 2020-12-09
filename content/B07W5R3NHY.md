@@ -14,7 +14,7 @@ currency: EUR
 price: 14.26
 comparePrice: 74.47 EUR
 inStock: true
-prodname: Tommy Hilfiger Medium Drawstring Bañador  Blanco  Small  Talla del Fabricante:  para Hombre
+prodname: 'Tommy Hilfiger Medium Drawstring Bañador  Blanco  Small  Talla del Fabricante:  para Hombre'
 ---
 
 Está [Tommy Hilfiger Medium Drawstring Bañador  Blanco  Small  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07W5R3NHY/?tag=tolees-21) con 80.85 de descuento por 14.26 EUR (original: 74.47 EUR) en el siguiente enlace!

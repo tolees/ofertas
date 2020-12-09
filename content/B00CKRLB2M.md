@@ -14,7 +14,7 @@ currency: EUR
 price: 30.49
 comparePrice: 50.91 EUR
 inStock: true
-prodname: Milestone Camping Cama de campaña Plegable Verde
+prodname: 'Milestone Camping Cama de campaña Plegable Verde'
 ---
 
 Tienes [Milestone Camping Cama de campaña Plegable Verde](https://www.amazon.es/dp/B00CKRLB2M/?tag=tolees-21) con un 40.11 % de descuento con precio de oferta de 30.49 EUR (original: 50.91 EUR) en el siguiente enlace!

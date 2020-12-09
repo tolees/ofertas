@@ -14,7 +14,7 @@ currency: EUR
 price: 11.52
 comparePrice: 23.81 EUR
 inStock: true
-prodname: Emporio Armani Underwear 9p725 Bañador  Azul  Bluette 15834   Small para Hombre
+prodname: 'Emporio Armani Underwear 9p725 Bañador  Azul  Bluette 15834   Small para Hombre'
 ---
 
 Tienes [Emporio Armani Underwear 9p725 Bañador  Azul  Bluette 15834   Small para Hombre](https://www.amazon.es/dp/B07DMFZ9GX/?tag=tolees-21) con un 51.62 % de descuento con precio de oferta de 11.52 EUR (original: 23.81 EUR) en el siguiente enlace!

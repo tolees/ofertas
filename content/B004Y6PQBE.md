@@ -14,7 +14,7 @@ currency: EUR
 price: 46.89
 comparePrice: 66.0 EUR
 inStock: true
-prodname: Nike Tanjun  Zapatillas de Running para Mujer  Negro  Black/White 011   40 EU
+prodname: 'Nike Tanjun  Zapatillas de Running para Mujer  Negro  Black/White 011   40 EU'
 ---
 
 Tienes [Nike Tanjun  Zapatillas de Running para Mujer  Negro  Black/White 011   40 EU](https://www.amazon.es/dp/B004Y6PQBE/?tag=tolees-21) con un 28.95 % de descuento con precio de oferta de 46.89 EUR (original: 66.0 EUR) en el siguiente enlace!

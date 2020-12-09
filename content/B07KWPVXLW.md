@@ -14,7 +14,7 @@ currency: EUR
 price: 31.78
 comparePrice: 70 EUR
 inStock: true
-prodname: Helly Hansen Tokyo Hoodie  Hombre  Graphite Blue  2XL
+prodname: 'Helly Hansen Tokyo Hoodie  Hombre  Graphite Blue  2XL'
 ---
 
 Tienes [Helly Hansen Tokyo Hoodie  Hombre  Graphite Blue  2XL](https://www.amazon.es/dp/B07KWPVXLW/?tag=tolees-21) con un 54.60 % de descuento con precio de oferta de 31.78 EUR (original: 70 EUR) en el siguiente enlace!

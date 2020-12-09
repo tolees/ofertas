@@ -14,7 +14,7 @@ currency: EUR
 price: 112.95
 comparePrice: 225 EUR
 inStock: true
-prodname: Burton Convoy Roller Trolley para portátil  70 cm  90 liters  Negro  Blotto 
+prodname: 'Burton Convoy Roller Trolley para portátil  70 cm  90 liters  Negro  Blotto '
 ---
 
 Tienes [Burton Convoy Roller Trolley para portátil  70 cm  90 liters  Negro  Blotto ](https://www.amazon.es/dp/B00W5EJLQS/?tag=tolees-21) con un 49.80 % de descuento con precio de oferta de 112.95 EUR (original: 225 EUR) en el siguiente enlace!

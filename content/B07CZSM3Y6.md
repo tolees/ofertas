@@ -14,7 +14,7 @@ currency: EUR
 price: 15.71
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Morado  Purple Prime/Black 521   S
+prodname: 'Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Morado  Purple Prime/Black 521   S'
 ---
 
 Está [Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Morado  Purple Prime/Black 521   S](https://www.amazon.es/dp/B07CZSM3Y6/?tag=tolees-21) con 43.87 de descuento por 15.71 EUR (original: 27.99 EUR) en el siguiente enlace!

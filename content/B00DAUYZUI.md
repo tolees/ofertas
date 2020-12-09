@@ -14,7 +14,7 @@ currency: EUR
 price: 21.29
 comparePrice: 46.5 EUR
 inStock: true
-prodname: Paco Rabanne Invictus After Shave Balm 100 ml
+prodname: 'Paco Rabanne Invictus After Shave Balm 100 ml'
 ---
 
 Ahora mismo tienes [Paco Rabanne Invictus After Shave Balm 100 ml](https://www.amazon.es/dp/B00DAUYZUI/?tag=tolees-21) a 21.29 EUR (original: 46.5 EUR) (54.22 %  de descuento) en el siguiente enlace!

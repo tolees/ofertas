@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Grifo de cocina  Grifo de Fregadero Extraible  Giratorio de 360 ° con 2 modos ajustables en caliente y frío - Acero Inoxidable  Cromo y Latón
+prodname: 'Grifo de cocina  Grifo de Fregadero Extraible  Giratorio de 360 ° con 2 modos ajustables en caliente y frío - Acero Inoxidable  Cromo y Latón'
 ---
 
 Está [Grifo de cocina  Grifo de Fregadero Extraible  Giratorio de 360 ° con 2 modos ajustables en caliente y frío - Acero Inoxidable  Cromo y Latón](https://www.amazon.es/dp/B07QNBHT8Q/?tag=tolees-21) con 38.34 de descuento por 36.99 EUR (original: 59.99 EUR) en el siguiente enlace!

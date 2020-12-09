@@ -14,7 +14,7 @@ currency: EUR
 price: 18.87
 comparePrice: 26.95 EUR
 inStock: true
-prodname: UMBRO - Sudadera con capucha para hombre con logotipo grande  color negro y blanco  talla S
+prodname: 'UMBRO - Sudadera con capucha para hombre con logotipo grande  color negro y blanco  talla S'
 ---
 
 Está [UMBRO - Sudadera con capucha para hombre con logotipo grande  color negro y blanco  talla S](https://www.amazon.es/dp/B07VX9VNLM/?tag=tolees-21) con 29.98 de descuento por 18.87 EUR (original: 26.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.91
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Jack & Jones NOS Jjiglenn Jjfox Am 795 50sps STS Vaqueros Slim  Azul Blue Denim  W29/L30  Talla del Fabricante: 29  para Hombre
+prodname: 'Jack & Jones NOS Jjiglenn Jjfox Am 795 50sps STS Vaqueros Slim  Azul Blue Denim  W29/L30  Talla del Fabricante: 29  para Hombre'
 ---
 
 Tienes [Jack & Jones NOS Jjiglenn Jjfox Am 795 50sps STS Vaqueros Slim  Azul Blue Denim  W29/L30  Talla del Fabricante: 29  para Hombre](https://www.amazon.es/dp/B07JQBKSJG/?tag=tolees-21) con un 71.81 % de descuento con precio de oferta de 16.91 EUR (original: 59.99 EUR) en el siguiente enlace!

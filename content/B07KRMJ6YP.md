@@ -14,7 +14,7 @@ currency: EUR
 price: 26.45
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Columbia Zero Rules Polo  Hombre   Azul   M
+prodname: 'Columbia Zero Rules Polo  Hombre   Azul   M'
 ---
 
 Está [Columbia Zero Rules Polo  Hombre   Azul   M](https://www.amazon.es/dp/B07KRMJ6YP/?tag=tolees-21) con 41.21 de descuento por 26.45 EUR (original: 44.99 EUR) en el siguiente enlace!

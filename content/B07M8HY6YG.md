@@ -14,7 +14,7 @@ currency: EUR
 price: 8.49
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Only onlNICOLE S/S Mix Top Noos Camiseta  Verde  cocodrilo   M para Mujer
+prodname: 'Only onlNICOLE S/S Mix Top Noos Camiseta  Verde  cocodrilo   M para Mujer'
 ---
 
 Ahora mismo tienes [Only onlNICOLE S/S Mix Top Noos Camiseta  Verde  cocodrilo   M para Mujer](https://www.amazon.es/dp/B07M8HY6YG/?tag=tolees-21) a 8.49 EUR (original: 16.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

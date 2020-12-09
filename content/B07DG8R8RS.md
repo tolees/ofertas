@@ -14,7 +14,7 @@ currency: EUR
 price: 66.13
 comparePrice: 227 EUR
 inStock: true
-prodname: Love Moschino Sweatshirts Sudadera  Verde  Green T29   38  Talla del Fabricante: 40  para Mujer
+prodname: 'Love Moschino Sweatshirts Sudadera  Verde  Green T29   38  Talla del Fabricante: 40  para Mujer'
 ---
 
 Está [Love Moschino Sweatshirts Sudadera  Verde  Green T29   38  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07DG8R8RS/?tag=tolees-21) con 70.87 de descuento por 66.13 EUR (original: 227 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: HyperX HX-HS5CX-SR Cloud X - Cascos de Gaming con Control de Audio Integrado
+prodname: 'HyperX HX-HS5CX-SR Cloud X - Cascos de Gaming con Control de Audio Integrado'
 ---
 
 Ahora mismo tienes [HyperX HX-HS5CX-SR Cloud X - Cascos de Gaming con Control de Audio Integrado](https://www.amazon.es/dp/B07FVWJ6YR/?tag=tolees-21) a 49.99 EUR (original: 69.99 EUR) (28.58 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 72.14
 comparePrice: 100 EUR
 inStock: true
-prodname: Sony MDR-AS700BT - Auriculares de Contorno de Cuello Bluetooth  Negro y Naranja
+prodname: 'Sony MDR-AS700BT - Auriculares de Contorno de Cuello Bluetooth  Negro y Naranja'
 ---
 
 Está [Sony MDR-AS700BT - Auriculares de Contorno de Cuello Bluetooth  Negro y Naranja](https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21) con 27.86 de descuento por 72.14 EUR (original: 100 EUR) en el siguiente enlace!

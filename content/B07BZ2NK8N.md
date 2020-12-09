@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 15.95 EUR
 inStock: true
-prodname: L Oréal Paris Revitalift Filler Contorno de Ojos Revitalizante  Con Ácido Hialurónico Puro  15 ml
+prodname: 'L Oréal Paris Revitalift Filler Contorno de Ojos Revitalizante  Con Ácido Hialurónico Puro  15 ml'
 ---
 
 Tienes [L Oréal Paris Revitalift Filler Contorno de Ojos Revitalizante  Con Ácido Hialurónico Puro  15 ml](https://www.amazon.es/dp/B07BZ2NK8N/?tag=tolees-21) con un 25.08 % de descuento con precio de oferta de 11.95 EUR (original: 15.95 EUR) en el siguiente enlace!

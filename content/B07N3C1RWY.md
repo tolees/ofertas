@@ -14,7 +14,7 @@ currency: EUR
 price: 35.36
 comparePrice: 63.9 EUR
 inStock: true
-prodname: Munich G-3 Indoor  Zapatillas de Deporte Unisex Adulto   Negro 950   44 EU
+prodname: 'Munich G-3 Indoor  Zapatillas de Deporte Unisex Adulto   Negro 950   44 EU'
 ---
 
 Tienes [Munich G-3 Indoor  Zapatillas de Deporte Unisex Adulto   Negro 950   44 EU](https://www.amazon.es/dp/B07N3C1RWY/?tag=tolees-21) con un 44.66 % de descuento con precio de oferta de 35.36 EUR (original: 63.9 EUR) en el siguiente enlace!

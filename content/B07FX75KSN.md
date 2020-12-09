@@ -14,7 +14,7 @@ currency: EUR
 price: 9.74
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Correa Perro  1 5m Correa de Perro Fuerte con Mango Acolchado  Hilos Altamente Reflectantes  Bolsas para excrementos de Perro con dispensador para Perros Pequeños  Medianos y Grandes  Rojo
+prodname: 'Correa Perro  1 5m Correa de Perro Fuerte con Mango Acolchado  Hilos Altamente Reflectantes  Bolsas para excrementos de Perro con dispensador para Perros Pequeños  Medianos y Grandes  Rojo'
 ---
 
 Tienes [Correa Perro  1 5m Correa de Perro Fuerte con Mango Acolchado  Hilos Altamente Reflectantes  Bolsas para excrementos de Perro con dispensador para Perros Pequeños  Medianos y Grandes  Rojo](https://www.amazon.es/dp/B07FX75KSN/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 9.74 EUR (original: 12.99 EUR) en el siguiente enlace!

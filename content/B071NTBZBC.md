@@ -14,7 +14,7 @@ currency: EUR
 price: 48.17
 comparePrice: 100 EUR
 inStock: true
-prodname: Under Armour UA W Speedform Intake 2  Zapatillas de Running para Mujer  Azul  Mediterranean   36.5 EU
+prodname: 'Under Armour UA W Speedform Intake 2  Zapatillas de Running para Mujer  Azul  Mediterranean   36.5 EU'
 ---
 
 Tienes [Under Armour UA W Speedform Intake 2  Zapatillas de Running para Mujer  Azul  Mediterranean   36.5 EU](https://www.amazon.es/dp/B071NTBZBC/?tag=tolees-21) con un 51.83 % de descuento con precio de oferta de 48.17 EUR (original: 100 EUR) en el siguiente enlace!

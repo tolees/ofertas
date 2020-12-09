@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Férula de noche para fascitis plantar  para mujeres y hombres  apoyo ortopédico para el pie con un par de calcetines de compresión se adapta a la derecha o a la izquierda
+prodname: 'Férula de noche para fascitis plantar  para mujeres y hombres  apoyo ortopédico para el pie con un par de calcetines de compresión se adapta a la derecha o a la izquierda'
 ---
 
 Tienes [Férula de noche para fascitis plantar  para mujeres y hombres  apoyo ortopédico para el pie con un par de calcetines de compresión se adapta a la derecha o a la izquierda](https://www.amazon.es/dp/B07MFZ3HY4/?tag=tolees-21) con un 47.24 % de descuento con precio de oferta de 18.99 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 81.24
 comparePrice: 124.9 EUR
 inStock: true
-prodname: Miniland 89146 - Robot de cocina Chefy5
+prodname: 'Miniland 89146 - Robot de cocina Chefy5'
 ---
 
 Tienes [Miniland 89146 - Robot de cocina Chefy5](https://www.amazon.es/dp/B00VMMUPXM/?tag=tolees-21) con un 34.96 % de descuento con precio de oferta de 81.24 EUR (original: 124.9 EUR) en el siguiente enlace!

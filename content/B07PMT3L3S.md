@@ -14,7 +14,7 @@ currency: EUR
 price: 13.19
 comparePrice: 32.49 EUR
 inStock: true
-prodname: Marca Amazon - MERAKI Jersey de Gran Tamaño de Algodón con Cuello a Rollo Mujer  Negro  Black   42  Label: L
+prodname: 'Marca Amazon - MERAKI Jersey de Gran Tamaño de Algodón con Cuello a Rollo Mujer  Negro  Black   42  Label: L'
 ---
 
 Ahora mismo tienes [Marca Amazon - MERAKI Jersey de Gran Tamaño de Algodón con Cuello a Rollo Mujer  Negro  Black   42  Label: L](https://www.amazon.es/dp/B07PMT3L3S/?tag=tolees-21) a 13.19 EUR (original: 32.49 EUR) (59.40 %  de descuento) en el siguiente enlace!

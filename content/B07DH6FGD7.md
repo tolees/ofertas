@@ -14,7 +14,7 @@ currency: EUR
 price: 49.85
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas RUN70S  Zapatillas de Running para Hombre  Negro Core Black/FTWR White/Carbon  47 1/3 EU
+prodname: 'adidas RUN70S  Zapatillas de Running para Hombre  Negro Core Black/FTWR White/Carbon  47 1/3 EU'
 ---
 
 Ahora mismo tienes [adidas RUN70S  Zapatillas de Running para Hombre  Negro Core Black/FTWR White/Carbon  47 1/3 EU](https://www.amazon.es/dp/B07DH6FGD7/?tag=tolees-21) a 49.85 EUR (original: 69.95 EUR) (28.73 %  de descuento) en el siguiente enlace!

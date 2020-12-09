@@ -14,7 +14,7 @@ currency: EUR
 price: 69.95
 comparePrice: 98.16 EUR
 inStock: true
-prodname: Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Sail Blue Heather DVC   Medium para Hombre
+prodname: 'Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Sail Blue Heather DVC   Medium para Hombre'
 ---
 
 Tienes [Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Sail Blue Heather DVC   Medium para Hombre](https://www.amazon.es/dp/B07VP4BMHB/?tag=tolees-21) con un 28.74 % de descuento con precio de oferta de 69.95 EUR (original: 98.16 EUR) en el siguiente enlace!

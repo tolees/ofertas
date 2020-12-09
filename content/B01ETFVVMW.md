@@ -14,7 +14,7 @@ currency: EUR
 price: 83.22
 comparePrice: 123 EUR
 inStock: true
-prodname: Imperial Confort Oslo - Colchón viscosoft - 135 x 180 x 24 - Color blanco
+prodname: 'Imperial Confort Oslo - Colchón viscosoft - 135 x 180 x 24 - Color blanco'
 ---
 
 Ahora mismo tienes [Imperial Confort Oslo - Colchón viscosoft - 135 x 180 x 24 - Color blanco](https://www.amazon.es/dp/B01ETFVVMW/?tag=tolees-21) a 83.22 EUR (original: 123 EUR) (32.34 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.78
 comparePrice: 159 EUR
 inStock: true
-prodname: Replay Anbass  Vaqueros Slim para Hombre  Azul  Dark Blue 7   W28/L34  Talla del fabricante: 28 
+prodname: 'Replay Anbass  Vaqueros Slim para Hombre  Azul  Dark Blue 7   W28/L34  Talla del fabricante: 28 '
 ---
 
 Tienes [Replay Anbass  Vaqueros Slim para Hombre  Azul  Dark Blue 7   W28/L34  Talla del fabricante: 28 ](https://www.amazon.es/dp/B07KPTW4HS/?tag=tolees-21) con un 84.42 % de descuento con precio de oferta de 24.78 EUR (original: 159 EUR) en el siguiente enlace!

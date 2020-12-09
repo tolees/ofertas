@@ -14,7 +14,7 @@ currency: EUR
 price: 12.95
 comparePrice: 39.95 EUR
 inStock: true
-prodname: VINSIC Cargador Inalámbrico  Cargador Portátil Qi para iPhone X  iPhone 8  iPhone 8+  Samsung Galaxy S7 S6+  Nokia Lumia  HTC  Adaptador de AC no Incluido 
+prodname: 'VINSIC Cargador Inalámbrico  Cargador Portátil Qi para iPhone X  iPhone 8  iPhone 8+  Samsung Galaxy S7 S6+  Nokia Lumia  HTC  Adaptador de AC no Incluido '
 ---
 
 Tienes [VINSIC Cargador Inalámbrico  Cargador Portátil Qi para iPhone X  iPhone 8  iPhone 8+  Samsung Galaxy S7 S6+  Nokia Lumia  HTC  Adaptador de AC no Incluido ](https://www.amazon.es/dp/B07DWTWVTY/?tag=tolees-21) con un 67.58 % de descuento con precio de oferta de 12.95 EUR (original: 39.95 EUR) en el siguiente enlace!

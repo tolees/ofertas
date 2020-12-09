@@ -14,7 +14,7 @@ currency: EUR
 price: 8.95
 comparePrice: 19.08 EUR
 inStock: true
-prodname: Kempa Promo - Camisa/Camiseta para Hombre  Color Negro  Talla L
+prodname: 'Kempa Promo - Camisa/Camiseta para Hombre  Color Negro  Talla L'
 ---
 
 Está [Kempa Promo - Camisa/Camiseta para Hombre  Color Negro  Talla L](https://www.amazon.es/dp/B00TZA4ZDY/?tag=tolees-21) con 53.09 de descuento por 8.95 EUR (original: 19.08 EUR) en el siguiente enlace!

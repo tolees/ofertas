@@ -14,7 +14,7 @@ currency: EUR
 price: 8.05
 comparePrice: 20.23 EUR
 inStock: true
-prodname: Jako Striker KA - Camiseta de fútbol  Unisex Adulto  Multicolor  White / Black   116  Talla del fabricante: S 
+prodname: 'Jako Striker KA - Camiseta de fútbol  Unisex Adulto  Multicolor  White / Black   116  Talla del fabricante: S '
 ---
 
 Tienes [Jako Striker KA - Camiseta de fútbol  Unisex Adulto  Multicolor  White / Black   116  Talla del fabricante: S ](https://www.amazon.es/dp/B00VMOBXHC/?tag=tolees-21) con un 60.21 % de descuento con precio de oferta de 8.05 EUR (original: 20.23 EUR) en el siguiente enlace!

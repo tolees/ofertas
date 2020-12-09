@@ -14,7 +14,7 @@ currency: EUR
 price: 18.0
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Vans Classic Camiseta  Rojo  Port Royale/White K1o   X-Large para Hombre
+prodname: 'Vans Classic Camiseta  Rojo  Port Royale/White K1o   X-Large para Hombre'
 ---
 
 Está [Vans Classic Camiseta  Rojo  Port Royale/White K1o   X-Large para Hombre](https://www.amazon.es/dp/B07YBDGY4Q/?tag=tolees-21) con 40.00 de descuento por 18.0 EUR (original: 30.0 EUR) en el siguiente enlace!

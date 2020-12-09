@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 11.9 EUR
 inStock: true
-prodname: Garnier BIO Gel Limpiador Detox Lemongrass con Agua de Flor de Aciano Ecológica y Glicera  Piel Limpia y Fresca - Pack de 2 x 150 ml Total 300ml
+prodname: 'Garnier BIO Gel Limpiador Detox Lemongrass con Agua de Flor de Aciano Ecológica y Glicera  Piel Limpia y Fresca - Pack de 2 x 150 ml Total 300ml'
 ---
 
 Tienes [Garnier BIO Gel Limpiador Detox Lemongrass con Agua de Flor de Aciano Ecológica y Glicera  Piel Limpia y Fresca - Pack de 2 x 150 ml Total 300ml](https://www.amazon.es/dp/B07MXZDQMW/?tag=tolees-21) con un 41.60 % de descuento con precio de oferta de 6.95 EUR (original: 11.9 EUR) en el siguiente enlace!

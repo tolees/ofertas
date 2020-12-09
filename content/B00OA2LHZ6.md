@@ -14,7 +14,7 @@ currency: EUR
 price: 96.25
 comparePrice: 147.0 EUR
 inStock: true
-prodname: STANLEY FATMAX FMC625D2-QW - Taladro percutor 18V  27.200 ipm  con 2 baterías de litio 2Ah y maletín
+prodname: 'STANLEY FATMAX FMC625D2-QW - Taladro percutor 18V  27.200 ipm  con 2 baterías de litio 2Ah y maletín'
 ---
 
 Tienes [STANLEY FATMAX FMC625D2-QW - Taladro percutor 18V  27.200 ipm  con 2 baterías de litio 2Ah y maletín](https://www.amazon.es/dp/B00OA2LHZ6/?tag=tolees-21) con un 34.52 % de descuento con precio de oferta de 96.25 EUR (original: 147.0 EUR) en el siguiente enlace!

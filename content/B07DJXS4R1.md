@@ -14,7 +14,7 @@ currency: EUR
 price: 21.0
 comparePrice: 34.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnight 403   39 EU
+prodname: 'Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnight 403   39 EU'
 ---
 
 Está [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnight 403   39 EU](https://www.amazon.es/dp/B07DJXS4R1/?tag=tolees-21) con 39.83 de descuento por 21.0 EUR (original: 34.9 EUR) en el siguiente enlace!

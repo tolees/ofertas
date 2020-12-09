@@ -14,7 +14,7 @@ currency: EUR
 price: 38.63
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Go Run Fast Steadfast  Zapatillas sin Cordones para Hombre  Blanco  White Textile/Blue & Red Trim Wblr   39.5 EU
+prodname: 'Skechers Go Run Fast Steadfast  Zapatillas sin Cordones para Hombre  Blanco  White Textile/Blue & Red Trim Wblr   39.5 EU'
 ---
 
 Está [Skechers Go Run Fast Steadfast  Zapatillas sin Cordones para Hombre  Blanco  White Textile/Blue & Red Trim Wblr   39.5 EU](https://www.amazon.es/dp/B07TWY2WRS/?tag=tolees-21) con 40.52 de descuento por 38.63 EUR (original: 64.95 EUR) en el siguiente enlace!

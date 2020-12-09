@@ -14,7 +14,7 @@ currency: EUR
 price: 295.0
 comparePrice: 398.0 EUR
 inStock: true
-prodname: Maclaren Atom Style Set - Sistema de Viaje  Silla de Paseo Ultra Compacto  para Recién Nacidos hasta los 25kg  Asiento Multiposición  Suspensión en las 4 Ruedas
+prodname: 'Maclaren Atom Style Set - Sistema de Viaje  Silla de Paseo Ultra Compacto  para Recién Nacidos hasta los 25kg  Asiento Multiposición  Suspensión en las 4 Ruedas'
 ---
 
 Está [Maclaren Atom Style Set - Sistema de Viaje  Silla de Paseo Ultra Compacto  para Recién Nacidos hasta los 25kg  Asiento Multiposición  Suspensión en las 4 Ruedas](https://www.amazon.es/dp/B07P5GC8HD/?tag=tolees-21) con 25.88 de descuento por 295.0 EUR (original: 398.0 EUR) en el siguiente enlace!

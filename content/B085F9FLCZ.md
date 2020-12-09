@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Panasonic ER-GB62-H503 - Recortadora Para Hombre Cuerpo  Barba Y Cabeza  3 En 1  Recargable  Acero Inoxidable  Batería Larga Duración  39 Ajustes  3 Accesorios Incluidos  negro
+prodname: 'Panasonic ER-GB62-H503 - Recortadora Para Hombre Cuerpo  Barba Y Cabeza  3 En 1  Recargable  Acero Inoxidable  Batería Larga Duración  39 Ajustes  3 Accesorios Incluidos  negro'
 ---
 
 Tienes [Panasonic ER-GB62-H503 - Recortadora Para Hombre Cuerpo  Barba Y Cabeza  3 En 1  Recargable  Acero Inoxidable  Batería Larga Duración  39 Ajustes  3 Accesorios Incluidos  negro](https://www.amazon.es/dp/B085F9FLCZ/?tag=tolees-21) con un 27.29 % de descuento con precio de oferta de 39.99 EUR (original: 55.0 EUR) en el siguiente enlace!

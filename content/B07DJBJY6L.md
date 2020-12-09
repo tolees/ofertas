@@ -14,7 +14,7 @@ currency: EUR
 price: 18.56
 comparePrice: 99.95 EUR
 inStock: true
-prodname: United Colors of Benetton Heavy Jacket  Chaqueta Mujer  Beige  Beige 1k3   46
+prodname: 'United Colors of Benetton Heavy Jacket  Chaqueta Mujer  Beige  Beige 1k3   46'
 ---
 
 Tienes [United Colors of Benetton Heavy Jacket  Chaqueta Mujer  Beige  Beige 1k3   46](https://www.amazon.es/dp/B07DJBJY6L/?tag=tolees-21) con un 81.43 % de descuento con precio de oferta de 18.56 EUR (original: 99.95 EUR) en el siguiente enlace!

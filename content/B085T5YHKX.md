@@ -14,7 +14,7 @@ currency: EUR
 price: 39.0
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Swarovski Colgante Tropical Flower  Rosa  Baño en Oro
+prodname: 'Swarovski Colgante Tropical Flower  Rosa  Baño en Oro'
 ---
 
 Tienes [Swarovski Colgante Tropical Flower  Rosa  Baño en Oro](https://www.amazon.es/dp/B085T5YHKX/?tag=tolees-21) con un 43.48 % de descuento con precio de oferta de 39.0 EUR (original: 69.0 EUR) en el siguiente enlace!

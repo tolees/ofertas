@@ -14,7 +14,7 @@ currency: EUR
 price: 17.39
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Marca Amazon - Lifelong Alimento seco completo con pollo fresco para perros sénior de razas medianas y grandes  receta sin cereales - 5kg
+prodname: 'Marca Amazon - Lifelong Alimento seco completo con pollo fresco para perros sénior de razas medianas y grandes  receta sin cereales - 5kg'
 ---
 
 Tienes [Marca Amazon - Lifelong Alimento seco completo con pollo fresco para perros sénior de razas medianas y grandes  receta sin cereales - 5kg](https://www.amazon.es/dp/B07VQYLGRK/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 17.39 EUR (original: 28.99 EUR) en el siguiente enlace!

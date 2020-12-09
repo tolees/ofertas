@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: edc by Esprit 079CC2B005 Pantalón  Negro  Black 001   29W x 34L para Hombre
+prodname: 'edc by Esprit 079CC2B005 Pantalón  Negro  Black 001   29W x 34L para Hombre'
 ---
 
 Está [edc by Esprit 079CC2B005 Pantalón  Negro  Black 001   29W x 34L para Hombre](https://www.amazon.es/dp/B07VDK6TFX/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

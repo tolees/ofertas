@@ -14,7 +14,7 @@ currency: EUR
 price: 30.0
 comparePrice: 44.92 EUR
 inStock: true
-prodname: Philips gc4549/00 – Plancha de vapor
+prodname: 'Philips gc4549/00 – Plancha de vapor'
 ---
 
 Tienes [Philips gc4549/00 – Plancha de vapor](https://www.amazon.es/dp/B07F7SQ2QB/?tag=tolees-21) con un 33.21 % de descuento con precio de oferta de 30.0 EUR (original: 44.92 EUR) en el siguiente enlace!

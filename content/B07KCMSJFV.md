@@ -14,7 +14,7 @@ currency: EUR
 price: 16.56
 comparePrice: 37.5 EUR
 inStock: true
-prodname: David Jones - 5911-2  Bolsos totes Mujer  Rosa  Pink   13x29x37 cm  W x H L 
+prodname: 'David Jones - 5911-2  Bolsos totes Mujer  Rosa  Pink   13x29x37 cm  W x H L '
 ---
 
 Ahora mismo tienes [David Jones - 5911-2  Bolsos totes Mujer  Rosa  Pink   13x29x37 cm  W x H L ](https://www.amazon.es/dp/B07KCMSJFV/?tag=tolees-21) a 16.56 EUR (original: 37.5 EUR) (55.84 %  de descuento) en el siguiente enlace!

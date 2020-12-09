@@ -14,7 +14,7 @@ currency: EUR
 price: 5.9
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Cobeco Male Anal Relax Lubricante - 150 ml
+prodname: 'Cobeco Male Anal Relax Lubricante - 150 ml'
 ---
 
 Tienes [Cobeco Male Anal Relax Lubricante - 150 ml](https://www.amazon.es/dp/B00I9Z4VYE/?tag=tolees-21) con un 60.54 % de descuento con precio de oferta de 5.9 EUR (original: 14.95 EUR) en el siguiente enlace!

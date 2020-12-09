@@ -14,7 +14,7 @@ currency: EUR
 price: 139.14
 comparePrice: 189 EUR
 inStock: true
-prodname: Samsonite Termo Young Upright Maleta  75 cm  88 L  Negro
+prodname: 'Samsonite Termo Young Upright Maleta  75 cm  88 L  Negro'
 ---
 
 Tienes [Samsonite Termo Young Upright Maleta  75 cm  88 L  Negro](https://www.amazon.es/dp/B00BY5RV2K/?tag=tolees-21) con un 26.38 % de descuento con precio de oferta de 139.14 EUR (original: 189 EUR) en el siguiente enlace!

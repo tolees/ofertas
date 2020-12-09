@@ -14,7 +14,7 @@ currency: EUR
 price: 29.78
 comparePrice: 85 EUR
 inStock: true
-prodname: Asics Gel-Lyte Komachi  Zapatillas para Mujer  Negro Black  38 EU
+prodname: 'Asics Gel-Lyte Komachi  Zapatillas para Mujer  Negro Black  38 EU'
 ---
 
 Está [Asics Gel-Lyte Komachi  Zapatillas para Mujer  Negro Black  38 EU](https://www.amazon.es/dp/B01MZZ7BS3/?tag=tolees-21) con 64.96 de descuento por 29.78 EUR (original: 85 EUR) en el siguiente enlace!

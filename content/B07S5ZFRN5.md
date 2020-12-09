@@ -14,7 +14,7 @@ currency: EUR
 price: 9.98
 comparePrice: 15.96 EUR
 inStock: true
-prodname: DIAOCARE Pata de Cabra Bicicleta  Aleación Ajustable Lateral de Bicicleta con pie de Goma Antideslizante Caballete Lateral Caballete para Montaña Bicicleta Carretera Bicicleta para 24-29 Pulgadas
+prodname: 'DIAOCARE Pata de Cabra Bicicleta  Aleación Ajustable Lateral de Bicicleta con pie de Goma Antideslizante Caballete Lateral Caballete para Montaña Bicicleta Carretera Bicicleta para 24-29 Pulgadas'
 ---
 
 Tienes [DIAOCARE Pata de Cabra Bicicleta  Aleación Ajustable Lateral de Bicicleta con pie de Goma Antideslizante Caballete Lateral Caballete para Montaña Bicicleta Carretera Bicicleta para 24-29 Pulgadas](https://www.amazon.es/dp/B07S5ZFRN5/?tag=tolees-21) con un 37.47 % de descuento con precio de oferta de 9.98 EUR (original: 15.96 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.74
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Wireless Mandos para Nintendo Switch  Anpreme Nintendo Switch Controller con Gyro Axis Dual Shock Vibration Mandos Gamepad Joystick para Nintendo Switch
+prodname: 'Wireless Mandos para Nintendo Switch  Anpreme Nintendo Switch Controller con Gyro Axis Dual Shock Vibration Mandos Gamepad Joystick para Nintendo Switch'
 ---
 
 Tienes [Wireless Mandos para Nintendo Switch  Anpreme Nintendo Switch Controller con Gyro Axis Dual Shock Vibration Mandos Gamepad Joystick para Nintendo Switch](https://www.amazon.es/dp/B07GPNQC1M/?tag=tolees-21) con un 68.94 % de descuento con precio de oferta de 21.74 EUR (original: 69.99 EUR) en el siguiente enlace!

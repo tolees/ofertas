@@ -14,7 +14,7 @@ currency: EUR
 price: 12.3
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Marca Amazon - find. Jersey de Algodón Hombre  Negro  Black   XL  Label: XL
+prodname: 'Marca Amazon - find. Jersey de Algodón Hombre  Negro  Black   XL  Label: XL'
 ---
 
 Tienes [Marca Amazon - find. Jersey de Algodón Hombre  Negro  Black   XL  Label: XL](https://www.amazon.es/dp/B07ZKNDFK9/?tag=tolees-21) con un 58.86 % de descuento con precio de oferta de 12.3 EUR (original: 29.9 EUR) en el siguiente enlace!

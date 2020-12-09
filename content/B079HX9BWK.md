@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 10.78 EUR
 inStock: true
-prodname: MagiDeal 9 PCS Dados Divertidos Dados de Amor Juego Juguete Pareja Regalo - #2
+prodname: 'MagiDeal 9 PCS Dados Divertidos Dados de Amor Juego Juguete Pareja Regalo - #2'
 ---
 
 Está [MagiDeal 9 PCS Dados Divertidos Dados de Amor Juego Juguete Pareja Regalo - #2](https://www.amazon.es/dp/B079HX9BWK/?tag=tolees-21) con 44.43 de descuento por 5.99 EUR (original: 10.78 EUR) en el siguiente enlace!

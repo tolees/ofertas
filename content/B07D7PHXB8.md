@@ -14,7 +14,7 @@ currency: EUR
 price: 72.77
 comparePrice: 169.9 EUR
 inStock: true
-prodname: Dolores Promesas 107418 Blusa  Naranja Geom   Tamaño del Fabricante:36  para Mujer
+prodname: 'Dolores Promesas 107418 Blusa  Naranja Geom   Tamaño del Fabricante:36  para Mujer'
 ---
 
 Está [Dolores Promesas 107418 Blusa  Naranja Geom   Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07D7PHXB8/?tag=tolees-21) con 57.17 de descuento por 72.77 EUR (original: 169.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.08
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Roxy Girl Challenge Bufanda  Mujer  Rosa  Persian Red Solid   Talla Única
+prodname: 'Roxy Girl Challenge Bufanda  Mujer  Rosa  Persian Red Solid   Talla Única'
 ---
 
 Está [Roxy Girl Challenge Bufanda  Mujer  Rosa  Persian Red Solid   Talla Única](https://www.amazon.es/dp/B071RTG8VV/?tag=tolees-21) con 63.05 de descuento por 11.08 EUR (original: 29.99 EUR) en el siguiente enlace!

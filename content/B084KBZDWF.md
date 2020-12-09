@@ -14,7 +14,7 @@ currency: EUR
 price: 737.85
 comparePrice: 1009.0 EUR
 inStock: true
-prodname: Samsung Galaxy S20 5G- Smartphone 6.2" Dynamic AMOLED  12GB RAM  128GB ROM   cuádruple cámara trasera 64MP  Octa-core Exynos 990  4000mAh batería  carga ultra rápida   Cloud Blue [Versión española]
+prodname: 'Samsung Galaxy S20 5G- Smartphone 6.2" Dynamic AMOLED  12GB RAM  128GB ROM   cuádruple cámara trasera 64MP  Octa-core Exynos 990  4000mAh batería  carga ultra rápida   Cloud Blue [Versión española]'
 ---
 
 Está [Samsung Galaxy S20 5G- Smartphone 6.2" Dynamic AMOLED  12GB RAM  128GB ROM   cuádruple cámara trasera 64MP  Octa-core Exynos 990  4000mAh batería  carga ultra rápida   Cloud Blue [Versión española]](https://www.amazon.es/dp/B084KBZDWF/?tag=tolees-21) con 26.87 de descuento por 737.85 EUR (original: 1009.0 EUR) en el siguiente enlace!

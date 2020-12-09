@@ -14,7 +14,7 @@ currency: EUR
 price: 7.85
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Springfield Camiseta Bolsillo Lentejuelas Manga Larga   Gama Azules   Medium  Tamaño del Fabricante:M  para Mujer
+prodname: 'Springfield Camiseta Bolsillo Lentejuelas Manga Larga   Gama Azules   Medium  Tamaño del Fabricante:M  para Mujer'
 ---
 
 Ahora mismo tienes [Springfield Camiseta Bolsillo Lentejuelas Manga Larga   Gama Azules   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078HDZRJT/?tag=tolees-21) a 7.85 EUR (original: 15.99 EUR) (50.91 %  de descuento) en el siguiente enlace!

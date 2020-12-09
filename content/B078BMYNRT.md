@@ -14,7 +14,7 @@ currency: EUR
 price: 39.98
 comparePrice: 69 EUR
 inStock: true
-prodname: Superga 2790-ACOTW Linea UP and Down  Zapatillas para Mujer Pink  Rose Mahogany  36 EU
+prodname: 'Superga 2790-ACOTW Linea UP and Down  Zapatillas para Mujer Pink  Rose Mahogany  36 EU'
 ---
 
 Tienes [Superga 2790-ACOTW Linea UP and Down  Zapatillas para Mujer Pink  Rose Mahogany  36 EU](https://www.amazon.es/dp/B078BMYNRT/?tag=tolees-21) con un 42.06 % de descuento con precio de oferta de 39.98 EUR (original: 69 EUR) en el siguiente enlace!

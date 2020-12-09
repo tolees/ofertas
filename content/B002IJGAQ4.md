@@ -14,7 +14,7 @@ currency: EUR
 price: 0.98
 comparePrice: 4.5 EUR
 inStock: true
-prodname: Maybelline New York - Superstay 7 Días  Esmalte de Uñas Efecto Gel  Tono 008 Passionate Red
+prodname: 'Maybelline New York - Superstay 7 Días  Esmalte de Uñas Efecto Gel  Tono 008 Passionate Red'
 ---
 
 Está [Maybelline New York - Superstay 7 Días  Esmalte de Uñas Efecto Gel  Tono 008 Passionate Red](https://www.amazon.es/dp/B002IJGAQ4/?tag=tolees-21) con 78.22 de descuento por 0.98 EUR (original: 4.5 EUR) en el siguiente enlace!

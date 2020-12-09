@@ -14,7 +14,7 @@ currency: EUR
 price: 11.5
 comparePrice: 23.0 EUR
 inStock: true
-prodname: Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Azul  Midnight Navy/Graphite/White 410   S/M
+prodname: 'Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Azul  Midnight Navy/Graphite/White 410   S/M'
 ---
 
 Tienes [Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Azul  Midnight Navy/Graphite/White 410   S/M](https://www.amazon.es/dp/B0714CKVSR/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 11.5 EUR (original: 23.0 EUR) en el siguiente enlace!

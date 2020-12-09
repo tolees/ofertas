@@ -14,7 +14,7 @@ currency: EUR
 price: 42.68
 comparePrice: 58.88 EUR
 inStock: true
-prodname: Reebok 3D Fusion TR  Zapatillas de Deporte para Hombre   Black/White/Pewter 000   40 EU
+prodname: 'Reebok 3D Fusion TR  Zapatillas de Deporte para Hombre   Black/White/Pewter 000   40 EU'
 ---
 
 Tienes [Reebok 3D Fusion TR  Zapatillas de Deporte para Hombre   Black/White/Pewter 000   40 EU](https://www.amazon.es/dp/B07FK7QD8T/?tag=tolees-21) con un 27.51 % de descuento con precio de oferta de 42.68 EUR (original: 58.88 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.86
 comparePrice: 41.04 EUR
 inStock: true
-prodname: adidas Messi 16.4 Tf J - Zapatillas de fútbol Niños  Multicolore  Red/Cblack/Ftwwht   37 1/3 EU
+prodname: 'adidas Messi 16.4 Tf J - Zapatillas de fútbol Niños  Multicolore  Red/Cblack/Ftwwht   37 1/3 EU'
 ---
 
 Está [adidas Messi 16.4 Tf J - Zapatillas de fútbol Niños  Multicolore  Red/Cblack/Ftwwht   37 1/3 EU](https://www.amazon.es/dp/B01M8PYMBX/?tag=tolees-21) con 46.73 de descuento por 21.86 EUR (original: 41.04 EUR) en el siguiente enlace!

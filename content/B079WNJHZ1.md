@@ -14,7 +14,7 @@ currency: EUR
 price: 4.1
 comparePrice: 7.1 EUR
 inStock: true
-prodname: oodji Ultra Mujer Camiseta de Algodón con Estampado  Negro  ES 44 / XL
+prodname: 'oodji Ultra Mujer Camiseta de Algodón con Estampado  Negro  ES 44 / XL'
 ---
 
 Está [oodji Ultra Mujer Camiseta de Algodón con Estampado  Negro  ES 44 / XL](https://www.amazon.es/dp/B079WNJHZ1/?tag=tolees-21) con 42.25 de descuento por 4.1 EUR (original: 7.1 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.59
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Pila VARTA Energy AA Mignon LR06  paquete de 24 unidades   pila alcalina – "Made in Germany" – ideal para radios y relojes de pared
+prodname: 'Pila VARTA Energy AA Mignon LR06  paquete de 24 unidades   pila alcalina – "Made in Germany" – ideal para radios y relojes de pared'
 ---
 
 Ahora mismo tienes [Pila VARTA Energy AA Mignon LR06  paquete de 24 unidades   pila alcalina – "Made in Germany" – ideal para radios y relojes de pared](https://www.amazon.es/dp/B004KRI5QA/?tag=tolees-21) a 7.59 EUR (original: 14.99 EUR) (49.37 %  de descuento) en el siguiente enlace!

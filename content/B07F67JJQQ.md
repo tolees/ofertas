@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Avengers PK1059 2018 Mochila Infantil  25 cm  Rojo
+prodname: 'Avengers PK1059 2018 Mochila Infantil  25 cm  Rojo'
 ---
 
 Ahora mismo tienes [Avengers PK1059 2018 Mochila Infantil  25 cm  Rojo](https://www.amazon.es/dp/B07F67JJQQ/?tag=tolees-21) a 11.99 EUR (original: 23.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

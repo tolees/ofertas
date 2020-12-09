@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 5.99 EUR
 inStock: true
-prodname: Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De Encaje Casual Ahuecar Volantes Manga Corta Suéter De Cuello De Tortuga Linda Blusa Floral Camiseta Blanca para Mujer  M  Verde 
+prodname: 'Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De Encaje Casual Ahuecar Volantes Manga Corta Suéter De Cuello De Tortuga Linda Blusa Floral Camiseta Blanca para Mujer  M  Verde '
 ---
 
 Está [Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De Encaje Casual Ahuecar Volantes Manga Corta Suéter De Cuello De Tortuga Linda Blusa Floral Camiseta Blanca para Mujer  M  Verde ](https://www.amazon.es/dp/B07QGYMNFC/?tag=tolees-21) con 33.39 de descuento por 3.99 EUR (original: 5.99 EUR) en el siguiente enlace!

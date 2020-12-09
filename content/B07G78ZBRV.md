@@ -14,7 +14,7 @@ currency: EUR
 price: 11.19
 comparePrice: 15.99 EUR
 inStock: true
-prodname: KRISP Pantalón Hombre Chándal Polar  Azul Oscuro  7929   XXL  7829-DKBLU-XXL
+prodname: 'KRISP Pantalón Hombre Chándal Polar  Azul Oscuro  7929   XXL  7829-DKBLU-XXL'
 ---
 
 Tienes [KRISP Pantalón Hombre Chándal Polar  Azul Oscuro  7929   XXL  7829-DKBLU-XXL](https://www.amazon.es/dp/B07G78ZBRV/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 11.19 EUR (original: 15.99 EUR) en el siguiente enlace!

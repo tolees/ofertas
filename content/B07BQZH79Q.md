@@ -14,7 +14,7 @@ currency: EUR
 price: 54.88
 comparePrice: 81.55 EUR
 inStock: true
-prodname: Timberland Berlin Park Oxford   Zapatillas Bajas Mujer  Verde Olive Nubuck  38 EU
+prodname: 'Timberland Berlin Park Oxford   Zapatillas Bajas Mujer  Verde Olive Nubuck  38 EU'
 ---
 
 Ahora mismo tienes [Timberland Berlin Park Oxford   Zapatillas Bajas Mujer  Verde Olive Nubuck  38 EU](https://www.amazon.es/dp/B07BQZH79Q/?tag=tolees-21) a 54.88 EUR (original: 81.55 EUR) (32.70 %  de descuento) en el siguiente enlace!

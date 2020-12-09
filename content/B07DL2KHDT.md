@@ -14,7 +14,7 @@ currency: EUR
 price: 7.5
 comparePrice: 14.14 EUR
 inStock: true
-prodname: Lámpara colgante de techo  1M Vintage Cuerda de cáñamo gruesa 220V  E27  sin bombilla  para salón  bar Cuerda de cáñamo lámpara de cuerda luces colgantes para el restaurante del dormitorio
+prodname: 'Lámpara colgante de techo  1M Vintage Cuerda de cáñamo gruesa 220V  E27  sin bombilla  para salón  bar Cuerda de cáñamo lámpara de cuerda luces colgantes para el restaurante del dormitorio'
 ---
 
 Tienes [Lámpara colgante de techo  1M Vintage Cuerda de cáñamo gruesa 220V  E27  sin bombilla  para salón  bar Cuerda de cáñamo lámpara de cuerda luces colgantes para el restaurante del dormitorio](https://www.amazon.es/dp/B07DL2KHDT/?tag=tolees-21) con un 46.96 % de descuento con precio de oferta de 7.5 EUR (original: 14.14 EUR) en el siguiente enlace!

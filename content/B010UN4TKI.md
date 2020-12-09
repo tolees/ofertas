@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Manos a la obra - Serie Completa  25 años A3  [DVD]
+prodname: 'Manos a la obra - Serie Completa  25 años A3  [DVD]'
 ---
 
 Tienes [Manos a la obra - Serie Completa  25 años A3  [DVD]](https://www.amazon.es/dp/B010UN4TKI/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 59.99 EUR (original: 119.99 EUR) en el siguiente enlace!

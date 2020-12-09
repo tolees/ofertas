@@ -14,7 +14,7 @@ currency: EUR
 price: 22.17
 comparePrice: 35.6 EUR
 inStock: true
-prodname: Valira 6614 Termo para sólidos con 2 contenedores interiores  Acero inoxidable  0.7 L
+prodname: 'Valira 6614 Termo para sólidos con 2 contenedores interiores  Acero inoxidable  0.7 L'
 ---
 
 Tienes [Valira 6614 Termo para sólidos con 2 contenedores interiores  Acero inoxidable  0.7 L](https://www.amazon.es/dp/B001GDDZE8/?tag=tolees-21) con un 37.72 % de descuento con precio de oferta de 22.17 EUR (original: 35.6 EUR) en el siguiente enlace!

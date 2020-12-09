@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Xiaomi Mi Smart Band 4 - Tracker de actividad física con medidor de frecuencia cardíaca - Negro - Unisex
+prodname: 'Xiaomi Mi Smart Band 4 - Tracker de actividad física con medidor de frecuencia cardíaca - Negro - Unisex'
 ---
 
 Está [Xiaomi Mi Smart Band 4 - Tracker de actividad física con medidor de frecuencia cardíaca - Negro - Unisex](https://www.amazon.es/dp/B07SNG23JW/?tag=tolees-21) con 62.52 de descuento por 14.99 EUR (original: 39.99 EUR) en el siguiente enlace!

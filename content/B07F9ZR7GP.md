@@ -14,7 +14,7 @@ currency: EUR
 price: 68.44
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Braun iCheck 7 - Monitor de tensión arterial
+prodname: 'Braun iCheck 7 - Monitor de tensión arterial'
 ---
 
 Tienes [Braun iCheck 7 - Monitor de tensión arterial](https://www.amazon.es/dp/B07F9ZR7GP/?tag=tolees-21) con un 31.55 % de descuento con precio de oferta de 68.44 EUR (original: 99.99 EUR) en el siguiente enlace!

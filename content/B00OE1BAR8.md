@@ -14,7 +14,7 @@ currency: EUR
 price: 9.25
 comparePrice: 14.9 EUR
 inStock: true
-prodname: Trust Urban PowerBank - Batería externa portátil para dispositivos móviles  2200 mAh   azul y blanco
+prodname: 'Trust Urban PowerBank - Batería externa portátil para dispositivos móviles  2200 mAh   azul y blanco'
 ---
 
 Ahora mismo tienes [Trust Urban PowerBank - Batería externa portátil para dispositivos móviles  2200 mAh   azul y blanco](https://www.amazon.es/dp/B00OE1BAR8/?tag=tolees-21) a 9.25 EUR (original: 14.9 EUR) (37.92 %  de descuento) en el siguiente enlace!

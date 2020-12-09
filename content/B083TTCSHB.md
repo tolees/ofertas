@@ -14,7 +14,7 @@ currency: EUR
 price: 57.99
 comparePrice: 83.48 EUR
 inStock: true
-prodname: Crucial Ballistix BL2K8G30C15U4R 3000 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GB x2   CL15  Rojo
+prodname: 'Crucial Ballistix BL2K8G30C15U4R 3000 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GB x2   CL15  Rojo'
 ---
 
 Está [Crucial Ballistix BL2K8G30C15U4R 3000 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GB x2   CL15  Rojo](https://www.amazon.es/dp/B083TTCSHB/?tag=tolees-21) con 30.53 de descuento por 57.99 EUR (original: 83.48 EUR) en el siguiente enlace!

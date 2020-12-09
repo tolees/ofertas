@@ -14,7 +14,7 @@ currency: EUR
 price: 21.72
 comparePrice: 65 EUR
 inStock: true
-prodname: Geox J Xunday Boy H  Botas Chukka para Niños  Amarillo  Dk Yellow/Brown C2286   34 EU
+prodname: 'Geox J Xunday Boy H  Botas Chukka para Niños  Amarillo  Dk Yellow/Brown C2286   34 EU'
 ---
 
 Tienes [Geox J Xunday Boy H  Botas Chukka para Niños  Amarillo  Dk Yellow/Brown C2286   34 EU](https://www.amazon.es/dp/B079RYZRSV/?tag=tolees-21) con un 66.58 % de descuento con precio de oferta de 21.72 EUR (original: 65 EUR) en el siguiente enlace!

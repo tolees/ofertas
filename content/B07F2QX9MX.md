@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Vans Herren Left Chest Logo Tee T-Shirt  Weiß  White Black Yb   Large
+prodname: 'Vans Herren Left Chest Logo Tee T-Shirt  Weiß  White Black Yb   Large'
 ---
 
 Tienes [Vans Herren Left Chest Logo Tee T-Shirt  Weiß  White Black Yb   Large](https://www.amazon.es/dp/B07F2QX9MX/?tag=tolees-21) con un 40.25 % de descuento con precio de oferta de 11.95 EUR (original: 20.0 EUR) en el siguiente enlace!

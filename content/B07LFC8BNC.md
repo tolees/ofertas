@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: KISSMODA Camisas de Manga Larga para Mujer para Botones abocinados en Forma de Cuello V Verde Pequeño
+prodname: 'KISSMODA Camisas de Manga Larga para Mujer para Botones abocinados en Forma de Cuello V Verde Pequeño'
 ---
 
 Ahora mismo tienes [KISSMODA Camisas de Manga Larga para Mujer para Botones abocinados en Forma de Cuello V Verde Pequeño](https://www.amazon.es/dp/B07LFC8BNC/?tag=tolees-21) a 16.99 EUR (original: 35.99 EUR) (52.79 %  de descuento) en el siguiente enlace!

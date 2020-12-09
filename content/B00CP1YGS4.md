@@ -14,7 +14,7 @@ currency: EUR
 price: 11.94
 comparePrice: 22.33 EUR
 inStock: true
-prodname: Soliera - Vino Tinto Tempranillo Botella 75 cl D.O. La Mancha - 6 Botellas
+prodname: 'Soliera - Vino Tinto Tempranillo Botella 75 cl D.O. La Mancha - 6 Botellas'
 ---
 
 Está [Soliera - Vino Tinto Tempranillo Botella 75 cl D.O. La Mancha - 6 Botellas](https://www.amazon.es/dp/B00CP1YGS4/?tag=tolees-21) con 46.53 de descuento por 11.94 EUR (original: 22.33 EUR) en el siguiente enlace!

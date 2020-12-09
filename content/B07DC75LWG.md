@@ -14,7 +14,7 @@ currency: EUR
 price: 33.81
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Puma Insurge Mesh  Zapatillas de Deporte Unisex Adulto  Azul  Peacoat-Blazing Yellow White   42.5 EU
+prodname: 'Puma Insurge Mesh  Zapatillas de Deporte Unisex Adulto  Azul  Peacoat-Blazing Yellow White   42.5 EU'
 ---
 
 Está [Puma Insurge Mesh  Zapatillas de Deporte Unisex Adulto  Azul  Peacoat-Blazing Yellow White   42.5 EU](https://www.amazon.es/dp/B07DC75LWG/?tag=tolees-21) con 43.60 de descuento por 33.81 EUR (original: 59.95 EUR) en el siguiente enlace!

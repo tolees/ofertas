@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Remington D5210 Pro Air - Secador de Pelo Iónico  Rejilla de Cerámica  Concentrador  2200 W  Negro
+prodname: 'Remington D5210 Pro Air - Secador de Pelo Iónico  Rejilla de Cerámica  Concentrador  2200 W  Negro'
 ---
 
 Tienes [Remington D5210 Pro Air - Secador de Pelo Iónico  Rejilla de Cerámica  Concentrador  2200 W  Negro](https://www.amazon.es/dp/B00ECBKODQ/?tag=tolees-21) con un 29.18 % de descuento con precio de oferta de 16.99 EUR (original: 23.99 EUR) en el siguiente enlace!

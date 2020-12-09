@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 29.95 EUR
 inStock: true
-prodname: BETZ Mochila Unisex para Viaje Senderismo Camping Tiempo Libre Capacity I con 4 Bolsillos Volumen de 33 litros Color Rojo
+prodname: 'BETZ Mochila Unisex para Viaje Senderismo Camping Tiempo Libre Capacity I con 4 Bolsillos Volumen de 33 litros Color Rojo'
 ---
 
 Tienes [BETZ Mochila Unisex para Viaje Senderismo Camping Tiempo Libre Capacity I con 4 Bolsillos Volumen de 33 litros Color Rojo](https://www.amazon.es/dp/B07N2TWNP5/?tag=tolees-21) con un 40.07 % de descuento con precio de oferta de 17.95 EUR (original: 29.95 EUR) en el siguiente enlace!

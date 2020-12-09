@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 155.99 EUR
 inStock: true
-prodname: WD Elements - Disco duro externo portátil de 4 TB con USB 3.0  color negro
+prodname: 'WD Elements - Disco duro externo portátil de 4 TB con USB 3.0  color negro'
 ---
 
 Tienes [WD Elements - Disco duro externo portátil de 4 TB con USB 3.0  color negro](https://www.amazon.es/dp/B0713WPGLL/?tag=tolees-21) con un 42.31 % de descuento con precio de oferta de 89.99 EUR (original: 155.99 EUR) en el siguiente enlace!

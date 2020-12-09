@@ -14,7 +14,7 @@ currency: EUR
 price: 8.87
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Let It Bleed 50 Aniversario
+prodname: 'Let It Bleed 50 Aniversario'
 ---
 
 Está [Let It Bleed 50 Aniversario](https://www.amazon.es/dp/B07XK5PSN5/?tag=tolees-21) con 26.02 de descuento por 8.87 EUR (original: 11.99 EUR) en el siguiente enlace!

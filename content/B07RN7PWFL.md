@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Dodot Sensitive - Pañales Talla 6  13 kg+  117 Unidades
+prodname: 'Dodot Sensitive - Pañales Talla 6  13 kg+  117 Unidades'
 ---
 
 Ahora mismo tienes [Dodot Sensitive - Pañales Talla 6  13 kg+  117 Unidades](https://www.amazon.es/dp/B07RN7PWFL/?tag=tolees-21) a 34.99 EUR (original: 49.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

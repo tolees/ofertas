@@ -14,7 +14,7 @@ currency: EUR
 price: 37.49
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Columbia Powder Lite Chaleco  Hombre  Azul  Collegiate Navy   S
+prodname: 'Columbia Powder Lite Chaleco  Hombre  Azul  Collegiate Navy   S'
 ---
 
 Ahora mismo tienes [Columbia Powder Lite Chaleco  Hombre  Azul  Collegiate Navy   S](https://www.amazon.es/dp/B07RC8CJD1/?tag=tolees-21) a 37.49 EUR (original: 79.99 EUR) (53.13 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.85
 comparePrice: 8.41 EUR
 inStock: true
-prodname: Marcador fluorescente STABILO BOSS Mini - Edición limitada Funnimals - Pack con 5 colores
+prodname: 'Marcador fluorescente STABILO BOSS Mini - Edición limitada Funnimals - Pack con 5 colores'
 ---
 
 Ahora mismo tienes [Marcador fluorescente STABILO BOSS Mini - Edición limitada Funnimals - Pack con 5 colores](https://www.amazon.es/dp/B019DX2OQM/?tag=tolees-21) a 3.85 EUR (original: 8.41 EUR) (54.22 %  de descuento) en el siguiente enlace!

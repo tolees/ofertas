@@ -14,7 +14,7 @@ currency: EUR
 price: 28.68
 comparePrice: 65 EUR
 inStock: true
-prodname: Levi s Original Hm Pullover Hoo Capucha  Gris  Medium Grey Heather  3  0000   Large para Hombre
+prodname: 'Levi s Original Hm Pullover Hoo Capucha  Gris  Medium Grey Heather  3  0000   Large para Hombre'
 ---
 
 Ahora mismo tienes [Levi s Original Hm Pullover Hoo Capucha  Gris  Medium Grey Heather  3  0000   Large para Hombre](https://www.amazon.es/dp/B07C2MPWCX/?tag=tolees-21) a 28.68 EUR (original: 65 EUR) (55.88 %  de descuento) en el siguiente enlace!

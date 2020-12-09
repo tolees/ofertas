@@ -14,7 +14,7 @@ currency: EUR
 price: 4.2
 comparePrice: 13.99 EUR
 inStock: true
-prodname: find. Camiseta Jaspeada de Cuello Redondo para Hombre  Naranja  Vermillion Orange   Small
+prodname: 'find. Camiseta Jaspeada de Cuello Redondo para Hombre  Naranja  Vermillion Orange   Small'
 ---
 
 Está [find. Camiseta Jaspeada de Cuello Redondo para Hombre  Naranja  Vermillion Orange   Small](https://www.amazon.es/dp/B01N6ORKHH/?tag=tolees-21) con 69.98 de descuento por 4.2 EUR (original: 13.99 EUR) en el siguiente enlace!

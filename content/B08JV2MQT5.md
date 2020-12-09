@@ -14,7 +14,7 @@ currency: EUR
 price: 4.69
 comparePrice: 8.79 EUR
 inStock: true
-prodname: [5-Pack] Protector de Pantalla 3  + Cámara Protector 2  para Xiaomi Poco X3 NFC  Duro Transparente [9H Dureza] [Alta Definicion] Cristal Templado Película Cámara Protector para Xiaomi Poco X3 NFC
+prodname: '[5-Pack] Protector de Pantalla 3  + Cámara Protector 2  para Xiaomi Poco X3 NFC  Duro Transparente [9H Dureza] [Alta Definicion] Cristal Templado Película Cámara Protector para Xiaomi Poco X3 NFC'
 ---
 
 Ahora mismo tienes [[5-Pack] Protector de Pantalla 3  + Cámara Protector 2  para Xiaomi Poco X3 NFC  Duro Transparente [9H Dureza] [Alta Definicion] Cristal Templado Película Cámara Protector para Xiaomi Poco X3 NFC](https://www.amazon.es/dp/B08JV2MQT5/?tag=tolees-21) a 4.69 EUR (original: 8.79 EUR) (46.64 %  de descuento) en el siguiente enlace!

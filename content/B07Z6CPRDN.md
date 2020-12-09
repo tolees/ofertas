@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Supore Correa Galaxy Watch Active 40mm  Correas de Silicona de 20 mm con Liberación Rápida para Active 2 / Gear S2 Classic/Gear Sport/Huawei Watch 2 / Vivoactive 3
+prodname: 'Supore Correa Galaxy Watch Active 40mm  Correas de Silicona de 20 mm con Liberación Rápida para Active 2 / Gear S2 Classic/Gear Sport/Huawei Watch 2 / Vivoactive 3'
 ---
 
 Tienes [Supore Correa Galaxy Watch Active 40mm  Correas de Silicona de 20 mm con Liberación Rápida para Active 2 / Gear S2 Classic/Gear Sport/Huawei Watch 2 / Vivoactive 3](https://www.amazon.es/dp/B07Z6CPRDN/?tag=tolees-21) con un 45.74 % de descuento con precio de oferta de 18.99 EUR (original: 35.0 EUR) en el siguiente enlace!

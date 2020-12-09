@@ -14,7 +14,7 @@ currency: EUR
 price: 21.34
 comparePrice: 32.09 EUR
 inStock: true
-prodname: NHUAIYINSHUGUOGUANGGAOJINGY Cafetera de Acero Inoxidable con caño Estrecho y Largo Cuello de Cisne Caño de Goteo Hervidor de café con Tapa para la Cocina del hogar Cafetería - Plateado
+prodname: 'NHUAIYINSHUGUOGUANGGAOJINGY Cafetera de Acero Inoxidable con caño Estrecho y Largo Cuello de Cisne Caño de Goteo Hervidor de café con Tapa para la Cocina del hogar Cafetería - Plateado'
 ---
 
 Ahora mismo tienes [NHUAIYINSHUGUOGUANGGAOJINGY Cafetera de Acero Inoxidable con caño Estrecho y Largo Cuello de Cisne Caño de Goteo Hervidor de café con Tapa para la Cocina del hogar Cafetería - Plateado](https://www.amazon.es/dp/B083DB9TGB/?tag=tolees-21) a 21.34 EUR (original: 32.09 EUR) (33.50 %  de descuento) en el siguiente enlace!

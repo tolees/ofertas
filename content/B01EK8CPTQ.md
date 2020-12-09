@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Trust 21999- Teclado Multimedia con Lector de DNI  QWERTY Español   Color Negro
+prodname: 'Trust 21999- Teclado Multimedia con Lector de DNI  QWERTY Español   Color Negro'
 ---
 
 Está [Trust 21999- Teclado Multimedia con Lector de DNI  QWERTY Español   Color Negro](https://www.amazon.es/dp/B01EK8CPTQ/?tag=tolees-21) con 60.02 de descuento por 15.99 EUR (original: 39.99 EUR) en el siguiente enlace!

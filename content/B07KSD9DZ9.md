@@ -14,7 +14,7 @@ currency: EUR
 price: 7.49
 comparePrice: 13.17 EUR
 inStock: true
-prodname: AmazonBasics - Cable HDMI flexible  de 3 m
+prodname: 'AmazonBasics - Cable HDMI flexible  de 3 m'
 ---
 
 Tienes [AmazonBasics - Cable HDMI flexible  de 3 m](https://www.amazon.es/dp/B07KSD9DZ9/?tag=tolees-21) con un 43.13 % de descuento con precio de oferta de 7.49 EUR (original: 13.17 EUR) en el siguiente enlace!

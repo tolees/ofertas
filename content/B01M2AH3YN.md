@@ -14,7 +14,7 @@ currency: EUR
 price: 74.0
 comparePrice: 149.0 EUR
 inStock: true
-prodname: Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable F20258/1
+prodname: 'Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable F20258/1'
 ---
 
 Ahora mismo tienes [Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable F20258/1](https://www.amazon.es/dp/B01M2AH3YN/?tag=tolees-21) a 74.0 EUR (original: 149.0 EUR) (50.34 %  de descuento) en el siguiente enlace!

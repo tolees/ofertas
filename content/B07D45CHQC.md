@@ -14,7 +14,7 @@ currency: EUR
 price: 12.76
 comparePrice: 48.93 EUR
 inStock: true
-prodname: find. Leather Boat Chukka Boots  Schwarz Black   39 EU
+prodname: 'find. Leather Boat Chukka Boots  Schwarz Black   39 EU'
 ---
 
 Tienes [find. Leather Boat Chukka Boots  Schwarz Black   39 EU](https://www.amazon.es/dp/B07D45CHQC/?tag=tolees-21) con un 73.92 % de descuento con precio de oferta de 12.76 EUR (original: 48.93 EUR) en el siguiente enlace!

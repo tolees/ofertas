@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Trust Mila - Set de Altavoces  2.0  10 W  alimentados por USB   Negro
+prodname: 'Trust Mila - Set de Altavoces  2.0  10 W  alimentados por USB   Negro'
 ---
 
 Ahora mismo tienes [Trust Mila - Set de Altavoces  2.0  10 W  alimentados por USB   Negro](https://www.amazon.es/dp/B002TIJ1HY/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

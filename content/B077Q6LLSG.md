@@ -14,7 +14,7 @@ currency: EUR
 price: 8.1
 comparePrice: 17.4 EUR
 inStock: true
-prodname: oodji Ultra Hombre Camisa Entallada de Algodón  Azul  38cm / ES 44 / XS
+prodname: 'oodji Ultra Hombre Camisa Entallada de Algodón  Azul  38cm / ES 44 / XS'
 ---
 
 Tienes [oodji Ultra Hombre Camisa Entallada de Algodón  Azul  38cm / ES 44 / XS](https://www.amazon.es/dp/B077Q6LLSG/?tag=tolees-21) con un 53.45 % de descuento con precio de oferta de 8.1 EUR (original: 17.4 EUR) en el siguiente enlace!

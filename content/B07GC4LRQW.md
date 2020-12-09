@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Logitech M110 Ratón con Cable USB  Botones Silenciosos  Tamaño Normal Confortable  Ambidiestro  PC/Mac/Portátil  Gris
+prodname: 'Logitech M110 Ratón con Cable USB  Botones Silenciosos  Tamaño Normal Confortable  Ambidiestro  PC/Mac/Portátil  Gris'
 ---
 
 Está [Logitech M110 Ratón con Cable USB  Botones Silenciosos  Tamaño Normal Confortable  Ambidiestro  PC/Mac/Portátil  Gris](https://www.amazon.es/dp/B07GC4LRQW/?tag=tolees-21) con 31.27 de descuento por 10.99 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 48.99 EUR
 inStock: true
-prodname: Asvert Conjunto Ciclismo Hombre Primavera3D Cojín Ropa de Ciclismo Transpirable Malliot de Ciclista Elástica y Erconómica  Rojo
+prodname: 'Asvert Conjunto Ciclismo Hombre Primavera3D Cojín Ropa de Ciclismo Transpirable Malliot de Ciclista Elástica y Erconómica  Rojo'
 ---
 
 Ahora mismo tienes [Asvert Conjunto Ciclismo Hombre Primavera3D Cojín Ropa de Ciclismo Transpirable Malliot de Ciclista Elástica y Erconómica  Rojo](https://www.amazon.es/dp/B01MS6D9RZ/?tag=tolees-21) a 33.99 EUR (original: 48.99 EUR) (30.62 %  de descuento) en el siguiente enlace!

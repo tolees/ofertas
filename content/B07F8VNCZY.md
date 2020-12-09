@@ -14,7 +14,7 @@ currency: EUR
 price: 59.5
 comparePrice: 119.95 EUR
 inStock: true
-prodname: adidas EQT Support ADV  Zapatillas de Gimnasia para Hombre  Verde Night Cargo/FTWR White/Core Black  41 1/3 EU
+prodname: 'adidas EQT Support ADV  Zapatillas de Gimnasia para Hombre  Verde Night Cargo/FTWR White/Core Black  41 1/3 EU'
 ---
 
 Está [adidas EQT Support ADV  Zapatillas de Gimnasia para Hombre  Verde Night Cargo/FTWR White/Core Black  41 1/3 EU](https://www.amazon.es/dp/B07F8VNCZY/?tag=tolees-21) con 50.40 de descuento por 59.5 EUR (original: 119.95 EUR) en el siguiente enlace!

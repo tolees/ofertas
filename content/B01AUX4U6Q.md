@@ -14,7 +14,7 @@ currency: EUR
 price: 36.5
 comparePrice: 49.0 EUR
 inStock: true
-prodname: Swarovski Pendientes Creativity Circle  blanco  Baño de Rodio
+prodname: 'Swarovski Pendientes Creativity Circle  blanco  Baño de Rodio'
 ---
 
 Ahora mismo tienes [Swarovski Pendientes Creativity Circle  blanco  Baño de Rodio](https://www.amazon.es/dp/B01AUX4U6Q/?tag=tolees-21) a 36.5 EUR (original: 49.0 EUR) (25.51 %  de descuento) en el siguiente enlace!

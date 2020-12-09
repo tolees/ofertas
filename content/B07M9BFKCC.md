@@ -14,7 +14,7 @@ currency: EUR
 price: 26.72
 comparePrice: 39.99 EUR
 inStock: true
-prodname: MTNG 84246  Zapatillas para Hombre  Azul  Vertigo Cuero/Fangi Marino/Taomat Hielo C45393   43 EU
+prodname: 'MTNG 84246  Zapatillas para Hombre  Azul  Vertigo Cuero/Fangi Marino/Taomat Hielo C45393   43 EU'
 ---
 
 Está [MTNG 84246  Zapatillas para Hombre  Azul  Vertigo Cuero/Fangi Marino/Taomat Hielo C45393   43 EU](https://www.amazon.es/dp/B07M9BFKCC/?tag=tolees-21) con 33.18 de descuento por 26.72 EUR (original: 39.99 EUR) en el siguiente enlace!

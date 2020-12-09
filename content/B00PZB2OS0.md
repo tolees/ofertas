@@ -14,7 +14,7 @@ currency: EUR
 price: 38.5
 comparePrice: 55 EUR
 inStock: true
-prodname: Nike Court Royale  Zapatillas para Mujer  Blanco  White / Metallic Silver   40.5 EU
+prodname: 'Nike Court Royale  Zapatillas para Mujer  Blanco  White / Metallic Silver   40.5 EU'
 ---
 
 Está [Nike Court Royale  Zapatillas para Mujer  Blanco  White / Metallic Silver   40.5 EU](https://www.amazon.es/dp/B00PZB2OS0/?tag=tolees-21) con 30.00 de descuento por 38.5 EUR (original: 55 EUR) en el siguiente enlace!

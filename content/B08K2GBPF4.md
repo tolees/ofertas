@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 23.32 EUR
 inStock: true
-prodname: Kit de Marco Para Manos y Huellas de Bebé   Marco Fotos Bebé  Para Bebé Recién Nacido
+prodname: 'Kit de Marco Para Manos y Huellas de Bebé   Marco Fotos Bebé  Para Bebé Recién Nacido'
 ---
 
 Tienes [Kit de Marco Para Manos y Huellas de Bebé   Marco Fotos Bebé  Para Bebé Recién Nacido](https://www.amazon.es/dp/B08K2GBPF4/?tag=tolees-21) con un 27.14 % de descuento con precio de oferta de 16.99 EUR (original: 23.32 EUR) en el siguiente enlace!

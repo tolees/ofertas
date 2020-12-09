@@ -14,7 +14,7 @@ currency: EUR
 price: 24.75
 comparePrice: 55 EUR
 inStock: true
-prodname: FIND Mocasines Clásicos para Hombre  Negro  Black   47 EU
+prodname: 'FIND Mocasines Clásicos para Hombre  Negro  Black   47 EU'
 ---
 
 Tienes [FIND Mocasines Clásicos para Hombre  Negro  Black   47 EU](https://www.amazon.es/dp/B071XMB3KK/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 24.75 EUR (original: 55 EUR) en el siguiente enlace!

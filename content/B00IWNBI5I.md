@@ -14,7 +14,7 @@ currency: EUR
 price: 43.99
 comparePrice: 79.94 EUR
 inStock: true
-prodname: Jack & Jones Tim Original - Vaqueros slim para hombre  Azul  W30/L30  30/30 
+prodname: 'Jack & Jones Tim Original - Vaqueros slim para hombre  Azul  W30/L30  30/30 '
 ---
 
 Está [Jack & Jones Tim Original - Vaqueros slim para hombre  Azul  W30/L30  30/30 ](https://www.amazon.es/dp/B00IWNBI5I/?tag=tolees-21) con 44.97 de descuento por 43.99 EUR (original: 79.94 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.17
 comparePrice: 55 EUR
 inStock: true
-prodname: Levi s 501 Short  Pantalones Cortos para Mujer  Azul  Sea island 47   W30
+prodname: 'Levi s 501 Short  Pantalones Cortos para Mujer  Azul  Sea island 47   W30'
 ---
 
 Ahora mismo tienes [Levi s 501 Short  Pantalones Cortos para Mujer  Azul  Sea island 47   W30](https://www.amazon.es/dp/B01GATLUR6/?tag=tolees-21) a 36.17 EUR (original: 55 EUR) (34.24 %  de descuento) en el siguiente enlace!

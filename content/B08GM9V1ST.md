@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Ufesa BP3442 Classic - Batidora de mano  Potencia 600 W  Pie desmontable  Función Turbo  Vaso Graduado incluido  BPA Free
+prodname: 'Ufesa BP3442 Classic - Batidora de mano  Potencia 600 W  Pie desmontable  Función Turbo  Vaso Graduado incluido  BPA Free'
 ---
 
 Tienes [Ufesa BP3442 Classic - Batidora de mano  Potencia 600 W  Pie desmontable  Función Turbo  Vaso Graduado incluido  BPA Free](https://www.amazon.es/dp/B08GM9V1ST/?tag=tolees-21) con un 25.94 % de descuento con precio de oferta de 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

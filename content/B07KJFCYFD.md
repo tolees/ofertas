@@ -14,7 +14,7 @@ currency: EUR
 price: 179.99
 comparePrice: 299.95 EUR
 inStock: true
-prodname: IKOHS Aspiradora Netbot S14 - Robot Aspirador 4 en 1 - Barre  aspira  Pasa la mopa y friega el Suelo
+prodname: 'IKOHS Aspiradora Netbot S14 - Robot Aspirador 4 en 1 - Barre  aspira  Pasa la mopa y friega el Suelo'
 ---
 
 Tienes [IKOHS Aspiradora Netbot S14 - Robot Aspirador 4 en 1 - Barre  aspira  Pasa la mopa y friega el Suelo](https://www.amazon.es/dp/B07KJFCYFD/?tag=tolees-21) con un 39.99 % de descuento con precio de oferta de 179.99 EUR (original: 299.95 EUR) en el siguiente enlace!

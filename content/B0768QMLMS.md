@@ -14,7 +14,7 @@ currency: EUR
 price: 67.99
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Devolo dLAN 1000 duo+ Starter Kit - Kit de inicio de adaptador de comunicación por línea eléctrica PLC  hasta 1000 Mbit/s a través de la toma de corriente integrada  2 puertos LAN  2 Powerlan   blanco
+prodname: 'Devolo dLAN 1000 duo+ Starter Kit - Kit de inicio de adaptador de comunicación por línea eléctrica PLC  hasta 1000 Mbit/s a través de la toma de corriente integrada  2 puertos LAN  2 Powerlan   blanco'
 ---
 
 Está [Devolo dLAN 1000 duo+ Starter Kit - Kit de inicio de adaptador de comunicación por línea eléctrica PLC  hasta 1000 Mbit/s a través de la toma de corriente integrada  2 puertos LAN  2 Powerlan   blanco](https://www.amazon.es/dp/B0768QMLMS/?tag=tolees-21) con 31.94 de descuento por 67.99 EUR (original: 99.9 EUR) en el siguiente enlace!

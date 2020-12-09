@@ -14,7 +14,7 @@ currency: EUR
 price: 34
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lelo Picobong Remoji Diver Egg Vibrador  Color Cerise - 1 Unidad
+prodname: 'Lelo Picobong Remoji Diver Egg Vibrador  Color Cerise - 1 Unidad'
 ---
 
 Está [Lelo Picobong Remoji Diver Egg Vibrador  Color Cerise - 1 Unidad](https://www.amazon.es/dp/B01ID3UEJW/?tag=tolees-21) con 65.98 de descuento por 34 EUR (original: 99.95 EUR) en el siguiente enlace!

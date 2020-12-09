@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.95 EUR
 inStock: true
-prodname: BLACK+DECKER CS1835-QS - Motosierra eléctrica 1800W  espada 35 cm  velocidad 12.5 m/s
+prodname: 'BLACK+DECKER CS1835-QS - Motosierra eléctrica 1800W  espada 35 cm  velocidad 12.5 m/s'
 ---
 
 Ahora mismo tienes [BLACK+DECKER CS1835-QS - Motosierra eléctrica 1800W  espada 35 cm  velocidad 12.5 m/s](https://www.amazon.es/dp/B00XXQGNZE/?tag=tolees-21) a 69.99 EUR (original: 99.95 EUR) (29.97 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.09
 comparePrice: 36.95 EUR
 inStock: true
-prodname: Berydale Falda tubo de mujer  Negro  S
+prodname: 'Berydale Falda tubo de mujer  Negro  S'
 ---
 
 Tienes [Berydale Falda tubo de mujer  Negro  S](https://www.amazon.es/dp/B01KJG4L4K/?tag=tolees-21) con un 69.99 % de descuento con precio de oferta de 11.09 EUR (original: 36.95 EUR) en el siguiente enlace!

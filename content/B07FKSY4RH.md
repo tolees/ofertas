@@ -14,7 +14,7 @@ currency: EUR
 price: 6.94
 comparePrice: 24.99 EUR
 inStock: true
-prodname: JACK & JONES Jorkritterxmas Sweat Crew Neck  suéter para Hombre  Rojo  Scarlet Sage Fit: Slim   X-Large
+prodname: 'JACK & JONES Jorkritterxmas Sweat Crew Neck  suéter para Hombre  Rojo  Scarlet Sage Fit: Slim   X-Large'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorkritterxmas Sweat Crew Neck  suéter para Hombre  Rojo  Scarlet Sage Fit: Slim   X-Large](https://www.amazon.es/dp/B07FKSY4RH/?tag=tolees-21) a 6.94 EUR (original: 24.99 EUR) (72.23 %  de descuento) en el siguiente enlace!

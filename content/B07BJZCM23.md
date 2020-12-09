@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Dolity Interruptor Teledirigido Universal para Frecuencia de Funcionamiento de Puerta de Garaje de Puerta eléctrica: 433mhz
+prodname: 'Dolity Interruptor Teledirigido Universal para Frecuencia de Funcionamiento de Puerta de Garaje de Puerta eléctrica: 433mhz'
 ---
 
 Está [Dolity Interruptor Teledirigido Universal para Frecuencia de Funcionamiento de Puerta de Garaje de Puerta eléctrica: 433mhz](https://www.amazon.es/dp/B07BJZCM23/?tag=tolees-21) con 33.35 de descuento por 15.99 EUR (original: 23.99 EUR) en el siguiente enlace!

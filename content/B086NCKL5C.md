@@ -14,7 +14,7 @@ currency: EUR
 price: 8.28
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly - Caramelos con sabor a pera  3x500g
+prodname: 'Marca Amazon - Happy Belly - Caramelos con sabor a pera  3x500g'
 ---
 
 Tienes [Marca Amazon - Happy Belly - Caramelos con sabor a pera  3x500g](https://www.amazon.es/dp/B086NCKL5C/?tag=tolees-21) con un 40.81 % de descuento con precio de oferta de 8.28 EUR (original: 13.99 EUR) en el siguiente enlace!

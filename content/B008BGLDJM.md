@@ -14,7 +14,7 @@ currency: EUR
 price: 15.77
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Elli Pendientes para damas set básico con cristales Swarovski® en plata esterlina de ley 925
+prodname: 'Elli Pendientes para damas set básico con cristales Swarovski® en plata esterlina de ley 925'
 ---
 
 Está [Elli Pendientes para damas set básico con cristales Swarovski® en plata esterlina de ley 925](https://www.amazon.es/dp/B008BGLDJM/?tag=tolees-21) con 47.26 de descuento por 15.77 EUR (original: 29.9 EUR) en el siguiente enlace!

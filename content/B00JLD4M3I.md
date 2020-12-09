@@ -14,7 +14,7 @@ currency: EUR
 price: 37.32
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Lijadora de banda Einhell TC-BS 8038
+prodname: 'Lijadora de banda Einhell TC-BS 8038'
 ---
 
 Ahora mismo tienes [Lijadora de banda Einhell TC-BS 8038](https://www.amazon.es/dp/B00JLD4M3I/?tag=tolees-21) a 37.32 EUR (original: 54.95 EUR) (32.08 %  de descuento) en el siguiente enlace!

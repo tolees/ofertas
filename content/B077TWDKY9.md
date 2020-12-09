@@ -14,7 +14,7 @@ currency: EUR
 price: 41.6
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Reebok Sprint TR  Zapatillas de Deporte para Hombre  Azul  Collegiate Navy/Cloud Grey/Acid Blue 000   42 EU
+prodname: 'Reebok Sprint TR  Zapatillas de Deporte para Hombre  Azul  Collegiate Navy/Cloud Grey/Acid Blue 000   42 EU'
 ---
 
 Está [Reebok Sprint TR  Zapatillas de Deporte para Hombre  Azul  Collegiate Navy/Cloud Grey/Acid Blue 000   42 EU](https://www.amazon.es/dp/B077TWDKY9/?tag=tolees-21) con 47.97 de descuento por 41.6 EUR (original: 79.95 EUR) en el siguiente enlace!

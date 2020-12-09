@@ -14,7 +14,7 @@ currency: EUR
 price: 27.18
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Clarks Willow Gild  Sandalias de Talón Abierto para Mujer  Amarillo  Rose Gold Rose Gold   42 EU
+prodname: 'Clarks Willow Gild  Sandalias de Talón Abierto para Mujer  Amarillo  Rose Gold Rose Gold   42 EU'
 ---
 
 Está [Clarks Willow Gild  Sandalias de Talón Abierto para Mujer  Amarillo  Rose Gold Rose Gold   42 EU](https://www.amazon.es/dp/B07TPYMZJG/?tag=tolees-21) con 69.78 de descuento por 27.18 EUR (original: 89.95 EUR) en el siguiente enlace!

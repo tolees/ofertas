@@ -14,7 +14,7 @@ currency: EUR
 price: 12.74
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Greener Walker Bolsas para Excrementos de Perro 540 Unidades Extra Grueso Fuerte y 100% a Prueba de Fugas Biodegradable Bolsas para Caca de Perro Verde 
+prodname: 'Greener Walker Bolsas para Excrementos de Perro 540 Unidades Extra Grueso Fuerte y 100% a Prueba de Fugas Biodegradable Bolsas para Caca de Perro Verde '
 ---
 
 Tienes [Greener Walker Bolsas para Excrementos de Perro 540 Unidades Extra Grueso Fuerte y 100% a Prueba de Fugas Biodegradable Bolsas para Caca de Perro Verde ](https://www.amazon.es/dp/B07W1BRTCQ/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 12.74 EUR (original: 16.99 EUR) en el siguiente enlace!

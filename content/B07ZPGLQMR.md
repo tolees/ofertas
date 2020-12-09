@@ -14,7 +14,7 @@ currency: EUR
 price: 5.59
 comparePrice: 9.31 EUR
 inStock: true
-prodname: Marca Amazon - Solimo Crema antitranspirante  control sensible con perfume de verbena  Paquete de 6  6 x 45 ml 
+prodname: 'Marca Amazon - Solimo Crema antitranspirante  control sensible con perfume de verbena  Paquete de 6  6 x 45 ml '
 ---
 
 Ahora mismo tienes [Marca Amazon - Solimo Crema antitranspirante  control sensible con perfume de verbena  Paquete de 6  6 x 45 ml ](https://www.amazon.es/dp/B07ZPGLQMR/?tag=tolees-21) a 5.59 EUR (original: 9.31 EUR) (39.96 %  de descuento) en el siguiente enlace!

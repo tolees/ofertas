@@ -14,7 +14,7 @@ currency: EUR
 price: 8.5
 comparePrice: 11.88 EUR
 inStock: true
-prodname: Karactermania Spiderman Hero Bolsa de Cuerdas para el Gimnasio  35 cm  Azul
+prodname: 'Karactermania Spiderman Hero Bolsa de Cuerdas para el Gimnasio  35 cm  Azul'
 ---
 
 Ahora mismo tienes [Karactermania Spiderman Hero Bolsa de Cuerdas para el Gimnasio  35 cm  Azul](https://www.amazon.es/dp/B0799KZJSH/?tag=tolees-21) a 8.5 EUR (original: 11.88 EUR) (28.45 %  de descuento) en el siguiente enlace!

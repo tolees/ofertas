@@ -14,7 +14,7 @@ currency: EUR
 price: 42.98
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Go Walk 4-Alliance  Zapatillas sin Cordones para Hombre  Azul  Navy Grey Nvgy   42 EU
+prodname: 'Skechers Go Walk 4-Alliance  Zapatillas sin Cordones para Hombre  Azul  Navy Grey Nvgy   42 EU'
 ---
 
 Está [Skechers Go Walk 4-Alliance  Zapatillas sin Cordones para Hombre  Azul  Navy Grey Nvgy   42 EU](https://www.amazon.es/dp/B07CVJ48YP/?tag=tolees-21) con 33.83 de descuento por 42.98 EUR (original: 64.95 EUR) en el siguiente enlace!

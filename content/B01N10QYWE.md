@@ -14,7 +14,7 @@ currency: EUR
 price: 15.76
 comparePrice: 39.99 EUR
 inStock: true
-prodname: SELECTED FEMME Sfnatali LS Boatneck-Color Camisa Manga Larga  Verde Grape Leaf  36  Talla del Fabricante: Small  para Mujer
+prodname: 'SELECTED FEMME Sfnatali LS Boatneck-Color Camisa Manga Larga  Verde Grape Leaf  36  Talla del Fabricante: Small  para Mujer'
 ---
 
 Ahora mismo tienes [SELECTED FEMME Sfnatali LS Boatneck-Color Camisa Manga Larga  Verde Grape Leaf  36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B01N10QYWE/?tag=tolees-21) a 15.76 EUR (original: 39.99 EUR) (60.59 %  de descuento) en el siguiente enlace!

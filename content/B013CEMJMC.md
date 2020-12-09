@@ -14,7 +14,7 @@ currency: EUR
 price: 18.32
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Dockers by Gerli 35pr201  Botas Militar para Mujer  Marrón  Cafe 320   37 EU
+prodname: 'Dockers by Gerli 35pr201  Botas Militar para Mujer  Marrón  Cafe 320   37 EU'
 ---
 
 Está [Dockers by Gerli 35pr201  Botas Militar para Mujer  Marrón  Cafe 320   37 EU](https://www.amazon.es/dp/B013CEMJMC/?tag=tolees-21) con 77.09 de descuento por 18.32 EUR (original: 79.95 EUR) en el siguiente enlace!

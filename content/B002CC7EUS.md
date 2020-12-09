@@ -14,7 +14,7 @@ currency: EUR
 price: 58
 comparePrice: 80 EUR
 inStock: true
-prodname: Nike - Zapatillas de baloncesto AIR FORCE 1 MID  GS    Infantil   Blanco  WHITE   Blanco  WHITE   36.5
+prodname: 'Nike - Zapatillas de baloncesto AIR FORCE 1 MID  GS    Infantil   Blanco  WHITE   Blanco  WHITE   36.5'
 ---
 
 Está [Nike - Zapatillas de baloncesto AIR FORCE 1 MID  GS    Infantil   Blanco  WHITE   Blanco  WHITE   36.5](https://www.amazon.es/dp/B002CC7EUS/?tag=tolees-21) con 27.50 de descuento por 58 EUR (original: 80 EUR) en el siguiente enlace!

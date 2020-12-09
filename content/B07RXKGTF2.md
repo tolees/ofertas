@@ -14,7 +14,7 @@ currency: EUR
 price: 34.9
 comparePrice: 49.89 EUR
 inStock: true
-prodname: Microfono Gaming Ozone REC X50 - Microfono Streaming - Condensador Electrodo  Sonido Omni-Bidireccional  Iluminación LED  Soporte Estable  USB  Negro
+prodname: 'Microfono Gaming Ozone REC X50 - Microfono Streaming - Condensador Electrodo  Sonido Omni-Bidireccional  Iluminación LED  Soporte Estable  USB  Negro'
 ---
 
 Tienes [Microfono Gaming Ozone REC X50 - Microfono Streaming - Condensador Electrodo  Sonido Omni-Bidireccional  Iluminación LED  Soporte Estable  USB  Negro](https://www.amazon.es/dp/B07RXKGTF2/?tag=tolees-21) con un 30.05 % de descuento con precio de oferta de 34.9 EUR (original: 49.89 EUR) en el siguiente enlace!

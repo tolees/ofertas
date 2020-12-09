@@ -14,7 +14,7 @@ currency: EUR
 price: 23.56
 comparePrice: 55 EUR
 inStock: true
-prodname: Asics Op Sweat Shorts  Pantalones Cortos de Deporte para Hombre  Negro  Performance Black 001  48  Talla del Fabricante: Large 
+prodname: 'Asics Op Sweat Shorts  Pantalones Cortos de Deporte para Hombre  Negro  Performance Black 001  48  Talla del Fabricante: Large '
 ---
 
 Está [Asics Op Sweat Shorts  Pantalones Cortos de Deporte para Hombre  Negro  Performance Black 001  48  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07HPPS4W4/?tag=tolees-21) con 57.16 de descuento por 23.56 EUR (original: 55 EUR) en el siguiente enlace!

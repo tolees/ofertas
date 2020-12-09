@@ -14,7 +14,7 @@ currency: EUR
 price: 35.63
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Black & Decker ADV-1200 RECOGETODO CICLÓNICO AUTOMÓVIL Gris  Rojo
+prodname: 'Black & Decker ADV-1200 RECOGETODO CICLÓNICO AUTOMÓVIL Gris  Rojo'
 ---
 
 Ahora mismo tienes [Black & Decker ADV-1200 RECOGETODO CICLÓNICO AUTOMÓVIL Gris  Rojo](https://www.amazon.es/dp/B017COMWTS/?tag=tolees-21) a 35.63 EUR (original: 49.9 EUR) (28.60 %  de descuento) en el siguiente enlace!

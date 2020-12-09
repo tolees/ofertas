@@ -14,7 +14,7 @@ currency: EUR
 price: 16
 comparePrice: 40.01 EUR
 inStock: true
-prodname: U839 Mini Compact Orange 2.4 GHz 3D 6 Axis GYRO 4 Canales Quadcopter
+prodname: 'U839 Mini Compact Orange 2.4 GHz 3D 6 Axis GYRO 4 Canales Quadcopter'
 ---
 
 Está [U839 Mini Compact Orange 2.4 GHz 3D 6 Axis GYRO 4 Canales Quadcopter](https://www.amazon.es/dp/B07KJX5NFC/?tag=tolees-21) con 60.01 de descuento por 16 EUR (original: 40.01 EUR) en el siguiente enlace!

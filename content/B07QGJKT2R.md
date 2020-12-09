@@ -14,7 +14,7 @@ currency: EUR
 price: 19.5
 comparePrice: 29.25 EUR
 inStock: true
-prodname: TWO LEFT SOCKS Premium Fashion Sets de 5 p. de calcetines! Calidad de algodón  muchos diseños y tamaños muchos unisex  SET 1 ROSSO E BLU SCURO  EU 39-42 / UK 6-8 
+prodname: 'TWO LEFT SOCKS Premium Fashion Sets de 5 p. de calcetines! Calidad de algodón  muchos diseños y tamaños muchos unisex  SET 1 ROSSO E BLU SCURO  EU 39-42 / UK 6-8 '
 ---
 
 Tienes [TWO LEFT SOCKS Premium Fashion Sets de 5 p. de calcetines! Calidad de algodón  muchos diseños y tamaños muchos unisex  SET 1 ROSSO E BLU SCURO  EU 39-42 / UK 6-8 ](https://www.amazon.es/dp/B07QGJKT2R/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 19.5 EUR (original: 29.25 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.63
 comparePrice: 22.95 EUR
 inStock: true
-prodname: HIKARO Logo Print Cropped  Jogger para Mujer  Rosa  Pink Marl   42  Talla del fabricante: Large 
+prodname: 'HIKARO Logo Print Cropped  Jogger para Mujer  Rosa  Pink Marl   42  Talla del fabricante: Large '
 ---
 
 Tienes [HIKARO Logo Print Cropped  Jogger para Mujer  Rosa  Pink Marl   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077YDJY3R/?tag=tolees-21) con un 62.40 % de descuento con precio de oferta de 8.63 EUR (original: 22.95 EUR) en el siguiente enlace!

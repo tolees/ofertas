@@ -14,7 +14,7 @@ currency: EUR
 price: 12.39
 comparePrice: 74.99 EUR
 inStock: true
-prodname: Columbia Silver Ridge 2.0 Pantalones de Senderismo Convertibles para Mujer  Gris  Grill   2/R
+prodname: 'Columbia Silver Ridge 2.0 Pantalones de Senderismo Convertibles para Mujer  Gris  Grill   2/R'
 ---
 
 Tienes [Columbia Silver Ridge 2.0 Pantalones de Senderismo Convertibles para Mujer  Gris  Grill   2/R](https://www.amazon.es/dp/B07KRWZ51J/?tag=tolees-21) con un 83.48 % de descuento con precio de oferta de 12.39 EUR (original: 74.99 EUR) en el siguiente enlace!

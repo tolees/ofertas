@@ -14,7 +14,7 @@ currency: EUR
 price: 15.64
 comparePrice: 25.15 EUR
 inStock: true
-prodname: Sebastian Color Ignite Acondicionador - 200 ml
+prodname: 'Sebastian Color Ignite Acondicionador - 200 ml'
 ---
 
 Está [Sebastian Color Ignite Acondicionador - 200 ml](https://www.amazon.es/dp/B00EO3J9RE/?tag=tolees-21) con 37.81 de descuento por 15.64 EUR (original: 25.15 EUR) en el siguiente enlace!

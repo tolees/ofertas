@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 25.71 EUR
 inStock: true
-prodname: Beurer MG16 Universal Rojo  Color blanco masajeador
+prodname: 'Beurer MG16 Universal Rojo  Color blanco masajeador'
 ---
 
 Tienes [Beurer MG16 Universal Rojo  Color blanco masajeador](https://www.amazon.es/dp/B078FHCFW9/?tag=tolees-21) con un 53.36 % de descuento con precio de oferta de 11.99 EUR (original: 25.71 EUR) en el siguiente enlace!

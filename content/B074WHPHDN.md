@@ -14,7 +14,7 @@ currency: EUR
 price: 13.0
 comparePrice: 25.98 EUR
 inStock: true
-prodname: E.T. El Extraterrestre  4K UHD + BD  [Blu-ray]
+prodname: 'E.T. El Extraterrestre  4K UHD + BD  [Blu-ray]'
 ---
 
 Tienes [E.T. El Extraterrestre  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B074WHPHDN/?tag=tolees-21) con un 49.96 % de descuento con precio de oferta de 13.0 EUR (original: 25.98 EUR) en el siguiente enlace!

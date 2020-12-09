@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 78 EUR
 inStock: true
-prodname: WYBAN E-Cigarette 80W 2200mAh Batería LCD Box Mod Carrier E de cigarrillos E Cigarettes Set con 2.0 ml / 0.3 Ohm OCC Coil Atomizer Vaporizador Kit de inicio sin nicotina Negro
+prodname: 'WYBAN E-Cigarette 80W 2200mAh Batería LCD Box Mod Carrier E de cigarrillos E Cigarettes Set con 2.0 ml / 0.3 Ohm OCC Coil Atomizer Vaporizador Kit de inicio sin nicotina Negro'
 ---
 
 Tienes [WYBAN E-Cigarette 80W 2200mAh Batería LCD Box Mod Carrier E de cigarrillos E Cigarettes Set con 2.0 ml / 0.3 Ohm OCC Coil Atomizer Vaporizador Kit de inicio sin nicotina Negro](https://www.amazon.es/dp/B07D19TDCJ/?tag=tolees-21) con un 79.50 % de descuento con precio de oferta de 15.99 EUR (original: 78 EUR) en el siguiente enlace!

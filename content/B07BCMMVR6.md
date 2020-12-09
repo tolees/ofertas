@@ -14,7 +14,7 @@ currency: EUR
 price: 17.73
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Dove Roxana  Botas Chukka para Mujer  Verde  Olive Suede   41.5 EU
+prodname: 'Clarks Dove Roxana  Botas Chukka para Mujer  Verde  Olive Suede   41.5 EU'
 ---
 
 Está [Clarks Dove Roxana  Botas Chukka para Mujer  Verde  Olive Suede   41.5 EU](https://www.amazon.es/dp/B07BCMMVR6/?tag=tolees-21) con 82.26 de descuento por 17.73 EUR (original: 99.95 EUR) en el siguiente enlace!

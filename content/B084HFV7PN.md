@@ -14,7 +14,7 @@ currency: EUR
 price: 8.0
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Las Aventuras del Doctor Dolittle [DVD]
+prodname: 'Las Aventuras del Doctor Dolittle [DVD]'
 ---
 
 Ahora mismo tienes [Las Aventuras del Doctor Dolittle [DVD]](https://www.amazon.es/dp/B084HFV7PN/?tag=tolees-21) a 8.0 EUR (original: 14.99 EUR) (46.63 %  de descuento) en el siguiente enlace!

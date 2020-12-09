@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 19.98 EUR
 inStock: true
-prodname: Gifbera Tea Infuser Colador de Té de Malla Extra Fina de Acero Inoxidable con Tapa y Asas Dobles para Tazas de Té de Grano de Hojas Sueltas Tetera Tazas
+prodname: 'Gifbera Tea Infuser Colador de Té de Malla Extra Fina de Acero Inoxidable con Tapa y Asas Dobles para Tazas de Té de Grano de Hojas Sueltas Tetera Tazas'
 ---
 
 Está [Gifbera Tea Infuser Colador de Té de Malla Extra Fina de Acero Inoxidable con Tapa y Asas Dobles para Tazas de Té de Grano de Hojas Sueltas Tetera Tazas](https://www.amazon.es/dp/B07R4CLDGY/?tag=tolees-21) con 44.99 de descuento por 10.99 EUR (original: 19.98 EUR) en el siguiente enlace!

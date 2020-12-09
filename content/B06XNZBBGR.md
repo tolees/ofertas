@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Joma Tenis 80 Polo  Mujer  Blanco  L
+prodname: 'Joma Tenis 80 Polo  Mujer  Blanco  L'
 ---
 
 Está [Joma Tenis 80 Polo  Mujer  Blanco  L](https://www.amazon.es/dp/B06XNZBBGR/?tag=tolees-21) con 56.43 de descuento por 6.95 EUR (original: 15.95 EUR) en el siguiente enlace!

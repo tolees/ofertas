@@ -14,7 +14,7 @@ currency: EUR
 price: 48.0
 comparePrice: 78.5 EUR
 inStock: true
-prodname: Orbegozo MS 4570 - Cortafiambres metálica con cuchilla de acero inoxidable  150 W  ajuste de grosor de corte y deslizador de seguridad extraible
+prodname: 'Orbegozo MS 4570 - Cortafiambres metálica con cuchilla de acero inoxidable  150 W  ajuste de grosor de corte y deslizador de seguridad extraible'
 ---
 
 Está [Orbegozo MS 4570 - Cortafiambres metálica con cuchilla de acero inoxidable  150 W  ajuste de grosor de corte y deslizador de seguridad extraible](https://www.amazon.es/dp/B00KL7KFWU/?tag=tolees-21) con 38.85 de descuento por 48.0 EUR (original: 78.5 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.76
 comparePrice: 13.2 EUR
 inStock: true
-prodname: Pilot Spain Frixion Ball - Bolígrafo borrable  4 unidades  color azul
+prodname: 'Pilot Spain Frixion Ball - Bolígrafo borrable  4 unidades  color azul'
 ---
 
 Está [Pilot Spain Frixion Ball - Bolígrafo borrable  4 unidades  color azul](https://www.amazon.es/dp/B008LXIKUA/?tag=tolees-21) con 56.36 de descuento por 5.76 EUR (original: 13.2 EUR) en el siguiente enlace!

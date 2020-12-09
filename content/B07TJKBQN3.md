@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 71.73 EUR
 inStock: true
-prodname: Saint Seiya Serie Clásica Completa. Episodios 1 A 114. [DVD]
+prodname: 'Saint Seiya Serie Clásica Completa. Episodios 1 A 114. [DVD]'
 ---
 
 Ahora mismo tienes [Saint Seiya Serie Clásica Completa. Episodios 1 A 114. [DVD]](https://www.amazon.es/dp/B07TJKBQN3/?tag=tolees-21) a 34.99 EUR (original: 71.73 EUR) (51.22 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 88.2
 comparePrice: 169.0 EUR
 inStock: true
-prodname: Panama Jack Panama 03 C1 - Náuticos de cuero hombre  color amarillo  talla 47
+prodname: 'Panama Jack Panama 03 C1 - Náuticos de cuero hombre  color amarillo  talla 47'
 ---
 
 Está [Panama Jack Panama 03 C1 - Náuticos de cuero hombre  color amarillo  talla 47](https://www.amazon.es/dp/B004XC4KAW/?tag=tolees-21) con 47.81 de descuento por 88.2 EUR (original: 169.0 EUR) en el siguiente enlace!

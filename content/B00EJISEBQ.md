@@ -14,7 +14,7 @@ currency: EUR
 price: 60.0
 comparePrice: 95.6 EUR
 inStock: true
-prodname: Invicta Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 14878
+prodname: 'Invicta Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 14878'
 ---
 
 Ahora mismo tienes [Invicta Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 14878](https://www.amazon.es/dp/B00EJISEBQ/?tag=tolees-21) a 60.0 EUR (original: 95.6 EUR) (37.24 %  de descuento) en el siguiente enlace!

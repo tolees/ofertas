@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 39.95 EUR
 inStock: true
-prodname: PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Puma Black  XXL
+prodname: 'PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Puma Black  XXL'
 ---
 
 Tienes [PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Puma Black  XXL](https://www.amazon.es/dp/B07XDZHXNB/?tag=tolees-21) con un 44.96 % de descuento con precio de oferta de 21.99 EUR (original: 39.95 EUR) en el siguiente enlace!

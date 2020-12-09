@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 19.97 EUR
 inStock: true
-prodname: Pulsioxímetro de dedo  saturación de oxígeno en sangre  monitor de SpO2 y PR 8S  medición rápida  medidor de frecuencia del pulso para viajes deportivos en casa
+prodname: 'Pulsioxímetro de dedo  saturación de oxígeno en sangre  monitor de SpO2 y PR 8S  medición rápida  medidor de frecuencia del pulso para viajes deportivos en casa'
 ---
 
 Tienes [Pulsioxímetro de dedo  saturación de oxígeno en sangre  monitor de SpO2 y PR 8S  medición rápida  medidor de frecuencia del pulso para viajes deportivos en casa](https://www.amazon.es/dp/B08M3YVWJ7/?tag=tolees-21) con un 54.98 % de descuento con precio de oferta de 8.99 EUR (original: 19.97 EUR) en el siguiente enlace!

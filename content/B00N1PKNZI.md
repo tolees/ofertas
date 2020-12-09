@@ -14,7 +14,7 @@ currency: EUR
 price: 43.95
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee L706AA36 - Pantalones para hombre  Azul  Rinse   W28 / L32  ES 36 
+prodname: 'Lee L706AA36 - Pantalones para hombre  Azul  Rinse   W28 / L32  ES 36 '
 ---
 
 Tienes [Lee L706AA36 - Pantalones para hombre  Azul  Rinse   W28 / L32  ES 36 ](https://www.amazon.es/dp/B00N1PKNZI/?tag=tolees-21) con un 51.14 % de descuento con precio de oferta de 43.95 EUR (original: 89.95 EUR) en el siguiente enlace!

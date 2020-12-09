@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Mymy City- Family Van  Caravana con Accesorios niñas a Partir de 3 años  Famosa 700015598 
+prodname: 'Mymy City- Family Van  Caravana con Accesorios niñas a Partir de 3 años  Famosa 700015598 '
 ---
 
 Tienes [Mymy City- Family Van  Caravana con Accesorios niñas a Partir de 3 años  Famosa 700015598 ](https://www.amazon.es/dp/B0839RBFFP/?tag=tolees-21) con un 28.06 % de descuento con precio de oferta de 17.95 EUR (original: 24.95 EUR) en el siguiente enlace!

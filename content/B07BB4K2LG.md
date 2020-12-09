@@ -14,7 +14,7 @@ currency: EUR
 price: 20
 comparePrice: 40 EUR
 inStock: true
-prodname: The North Face PERFORMANCE Pantalones cortos  Hombre  Asphalt Grey/TNF Dark Grey Heather  L
+prodname: 'The North Face PERFORMANCE Pantalones cortos  Hombre  Asphalt Grey/TNF Dark Grey Heather  L'
 ---
 
 Ahora mismo tienes [The North Face PERFORMANCE Pantalones cortos  Hombre  Asphalt Grey/TNF Dark Grey Heather  L](https://www.amazon.es/dp/B07BB4K2LG/?tag=tolees-21) a 20 EUR (original: 40 EUR) (50.00 %  de descuento) en el siguiente enlace!

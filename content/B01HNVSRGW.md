@@ -14,7 +14,7 @@ currency: EUR
 price: 2.76
 comparePrice: 4.16 EUR
 inStock: true
-prodname: Digital Midea Universal A / C Control Remotopara Aire Acondicionado
+prodname: 'Digital Midea Universal A / C Control Remotopara Aire Acondicionado'
 ---
 
 Tienes [Digital Midea Universal A / C Control Remotopara Aire Acondicionado](https://www.amazon.es/dp/B01HNVSRGW/?tag=tolees-21) con un 33.65 % de descuento con precio de oferta de 2.76 EUR (original: 4.16 EUR) en el siguiente enlace!

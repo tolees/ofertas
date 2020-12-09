@@ -14,7 +14,7 @@ currency: EUR
 price: 60.5
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Puma Suede Classic +  Zapatillas Unisex Adulto  Rojo  Team Regal Red/White   42 EU
+prodname: 'Puma Suede Classic +  Zapatillas Unisex Adulto  Rojo  Team Regal Red/White   42 EU'
 ---
 
 Ahora mismo tienes [Puma Suede Classic +  Zapatillas Unisex Adulto  Rojo  Team Regal Red/White   42 EU](https://www.amazon.es/dp/B004SGJSE6/?tag=tolees-21) a 60.5 EUR (original: 84.95 EUR) (28.78 %  de descuento) en el siguiente enlace!

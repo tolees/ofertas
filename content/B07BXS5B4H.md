@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: EONO Essentials ABS Maleta Equipaje de Mano Cabina rígida Ligera con 4 Ruedas  55cm  aprobado para ryanair  easyjet  Vueling  Iberia  Lufthansa  Eurowings y muchos otros  Negro
+prodname: 'EONO Essentials ABS Maleta Equipaje de Mano Cabina rígida Ligera con 4 Ruedas  55cm  aprobado para ryanair  easyjet  Vueling  Iberia  Lufthansa  Eurowings y muchos otros  Negro'
 ---
 
 Tienes [EONO Essentials ABS Maleta Equipaje de Mano Cabina rígida Ligera con 4 Ruedas  55cm  aprobado para ryanair  easyjet  Vueling  Iberia  Lufthansa  Eurowings y muchos otros  Negro](https://www.amazon.es/dp/B07BXS5B4H/?tag=tolees-21) con un 36.67 % de descuento con precio de oferta de 37.99 EUR (original: 59.99 EUR) en el siguiente enlace!

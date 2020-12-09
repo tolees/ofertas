@@ -14,7 +14,7 @@ currency: EUR
 price: 8.63
 comparePrice: 19 EUR
 inStock: true
-prodname: Joma 100157.207 - Camiseta de equipación de Manga Corta para Hombre  Color Blanco/Azul Royal  Talla XS
+prodname: 'Joma 100157.207 - Camiseta de equipación de Manga Corta para Hombre  Color Blanco/Azul Royal  Talla XS'
 ---
 
 Tienes [Joma 100157.207 - Camiseta de equipación de Manga Corta para Hombre  Color Blanco/Azul Royal  Talla XS](https://www.amazon.es/dp/B00ZRFW65A/?tag=tolees-21) con un 54.58 % de descuento con precio de oferta de 8.63 EUR (original: 19 EUR) en el siguiente enlace!

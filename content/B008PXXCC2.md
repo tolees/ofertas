@@ -14,7 +14,7 @@ currency: EUR
 price: 21.22
 comparePrice: 39 EUR
 inStock: true
-prodname: CASIO Reloj Digital para Mujer de Automático con Correa en Acero Inoxidable Chapado en Platino LA-670WA-7
+prodname: 'CASIO Reloj Digital para Mujer de Automático con Correa en Acero Inoxidable Chapado en Platino LA-670WA-7'
 ---
 
 Tienes [CASIO Reloj Digital para Mujer de Automático con Correa en Acero Inoxidable Chapado en Platino LA-670WA-7](https://www.amazon.es/dp/B008PXXCC2/?tag=tolees-21) con un 45.59 % de descuento con precio de oferta de 21.22 EUR (original: 39 EUR) en el siguiente enlace!

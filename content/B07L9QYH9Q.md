@@ -14,7 +14,7 @@ currency: EUR
 price: 30.03
 comparePrice: 99 EUR
 inStock: true
-prodname: Napapijri Bevora H Capucha  Verde  New Olive Green Gd6   X-Large para Hombre
+prodname: 'Napapijri Bevora H Capucha  Verde  New Olive Green Gd6   X-Large para Hombre'
 ---
 
 Tienes [Napapijri Bevora H Capucha  Verde  New Olive Green Gd6   X-Large para Hombre](https://www.amazon.es/dp/B07L9QYH9Q/?tag=tolees-21) con un 69.67 % de descuento con precio de oferta de 30.03 EUR (original: 99 EUR) en el siguiente enlace!

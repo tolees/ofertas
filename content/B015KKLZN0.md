@@ -14,7 +14,7 @@ currency: EUR
 price: 13.87
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Kappa Sunrise Light  Zapatillas Unisex Adulto  Blanco  White/Black   36 EU
+prodname: 'Kappa Sunrise Light  Zapatillas Unisex Adulto  Blanco  White/Black   36 EU'
 ---
 
 Ahora mismo tienes [Kappa Sunrise Light  Zapatillas Unisex Adulto  Blanco  White/Black   36 EU](https://www.amazon.es/dp/B015KKLZN0/?tag=tolees-21) a 13.87 EUR (original: 59.95 EUR) (76.86 %  de descuento) en el siguiente enlace!

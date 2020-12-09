@@ -14,7 +14,7 @@ currency: EUR
 price: 36.49
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Columbia Powder Lite  Chaleco  Mujer  Negro  Black  Talla L
+prodname: 'Columbia Powder Lite  Chaleco  Mujer  Negro  Black  Talla L'
 ---
 
 Está [Columbia Powder Lite  Chaleco  Mujer  Negro  Black  Talla L](https://www.amazon.es/dp/B07R7XP7TG/?tag=tolees-21) con 54.38 de descuento por 36.49 EUR (original: 79.99 EUR) en el siguiente enlace!

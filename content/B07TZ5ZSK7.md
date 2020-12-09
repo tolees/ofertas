@@ -14,7 +14,7 @@ currency: EUR
 price: 34.95
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Equalizer 4.0  Zapatillas Hombre  Azul  Navy Engineered Mesh/Hot Melt/Trim Nvy   41.5 EU
+prodname: 'Skechers Equalizer 4.0  Zapatillas Hombre  Azul  Navy Engineered Mesh/Hot Melt/Trim Nvy   41.5 EU'
 ---
 
 Ahora mismo tienes [Skechers Equalizer 4.0  Zapatillas Hombre  Azul  Navy Engineered Mesh/Hot Melt/Trim Nvy   41.5 EU](https://www.amazon.es/dp/B07TZ5ZSK7/?tag=tolees-21) a 34.95 EUR (original: 69.95 EUR) (50.04 %  de descuento) en el siguiente enlace!

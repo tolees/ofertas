@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Final Fantasy XIV: Stormblood
+prodname: 'Final Fantasy XIV: Stormblood'
 ---
 
 Tienes [Final Fantasy XIV: Stormblood](https://www.amazon.es/dp/B071NGKFF8/?tag=tolees-21) con un 85.74 % de descuento con precio de oferta de 4.99 EUR (original: 34.99 EUR) en el siguiente enlace!

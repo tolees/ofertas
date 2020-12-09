@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 35.55 EUR
 inStock: true
-prodname: PLAYMOBIL City Action Helicóptero de Policía con Luces LED  a Partir de 4 Años  6921 
+prodname: 'PLAYMOBIL City Action Helicóptero de Policía con Luces LED  a Partir de 4 Años  6921 '
 ---
 
 Ahora mismo tienes [PLAYMOBIL City Action Helicóptero de Policía con Luces LED  a Partir de 4 Años  6921 ](https://www.amazon.es/dp/B01LTHZP16/?tag=tolees-21) a 24.95 EUR (original: 35.55 EUR) (29.82 %  de descuento) en el siguiente enlace!

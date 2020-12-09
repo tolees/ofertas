@@ -14,7 +14,7 @@ currency: EUR
 price: 5.57
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield 1402773 Jersey  Gris  Grey   Small  Tamaño del Fabricante:S  para Hombre
+prodname: 'Springfield 1402773 Jersey  Gris  Grey   Small  Tamaño del Fabricante:S  para Hombre'
 ---
 
 Está [Springfield 1402773 Jersey  Gris  Grey   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B075SDMKGG/?tag=tolees-21) con 81.43 de descuento por 5.57 EUR (original: 29.99 EUR) en el siguiente enlace!

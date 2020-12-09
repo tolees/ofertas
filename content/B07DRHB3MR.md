@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Jabra Elite Active 65t – Auriculares Deportivos Bluetooth 5.0  con Cancelación Pasiva de Ruido y Sensor de Movimiento  Auténticas Llamadas Inalámbricas y Música  Negro Titanio
+prodname: 'Jabra Elite Active 65t – Auriculares Deportivos Bluetooth 5.0  con Cancelación Pasiva de Ruido y Sensor de Movimiento  Auténticas Llamadas Inalámbricas y Música  Negro Titanio'
 ---
 
 Está [Jabra Elite Active 65t – Auriculares Deportivos Bluetooth 5.0  con Cancelación Pasiva de Ruido y Sensor de Movimiento  Auténticas Llamadas Inalámbricas y Música  Negro Titanio](https://www.amazon.es/dp/B07DRHB3MR/?tag=tolees-21) con 35.72 de descuento por 89.99 EUR (original: 139.99 EUR) en el siguiente enlace!

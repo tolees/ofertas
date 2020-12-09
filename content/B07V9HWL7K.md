@@ -14,7 +14,7 @@ currency: EUR
 price: 23.29
 comparePrice: 89.95 EUR
 inStock: true
-prodname: BOSS Schino-Slim Shorts Pantalones Cortos  Azul  Navy 411   38  Talla del Fabricante: 36  para Hombre
+prodname: 'BOSS Schino-Slim Shorts Pantalones Cortos  Azul  Navy 411   38  Talla del Fabricante: 36  para Hombre'
 ---
 
 Está [BOSS Schino-Slim Shorts Pantalones Cortos  Azul  Navy 411   38  Talla del Fabricante: 36  para Hombre](https://www.amazon.es/dp/B07V9HWL7K/?tag=tolees-21) con 74.11 de descuento por 23.29 EUR (original: 89.95 EUR) en el siguiente enlace!

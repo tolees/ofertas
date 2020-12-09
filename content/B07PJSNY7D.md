@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 28.95 EUR
 inStock: true
-prodname: IKOHS Stone Easy - Sandwichera con Capacidad para 2 Sándwiches  750 W  Recubierta Cerámica Antiadherente  Pinza de Cierre  Angulo de Apertura 105°  2 Indicadores Luminosos  Libre BPA  con Asas
+prodname: 'IKOHS Stone Easy - Sandwichera con Capacidad para 2 Sándwiches  750 W  Recubierta Cerámica Antiadherente  Pinza de Cierre  Angulo de Apertura 105°  2 Indicadores Luminosos  Libre BPA  con Asas'
 ---
 
 Está [IKOHS Stone Easy - Sandwichera con Capacidad para 2 Sándwiches  750 W  Recubierta Cerámica Antiadherente  Pinza de Cierre  Angulo de Apertura 105°  2 Indicadores Luminosos  Libre BPA  con Asas](https://www.amazon.es/dp/B07PJSNY7D/?tag=tolees-21) con 31.26 de descuento por 19.9 EUR (original: 28.95 EUR) en el siguiente enlace!

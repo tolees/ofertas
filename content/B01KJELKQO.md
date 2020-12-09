@@ -14,7 +14,7 @@ currency: EUR
 price: 28.5
 comparePrice: 47.99 EUR
 inStock: true
-prodname: Tarjeta de Memoria SanDisk Extreme SDXC de 128 GB con hasta 90 MB/s  Class 10 y U3 y V30
+prodname: 'Tarjeta de Memoria SanDisk Extreme SDXC de 128 GB con hasta 90 MB/s  Class 10 y U3 y V30'
 ---
 
 Ahora mismo tienes [Tarjeta de Memoria SanDisk Extreme SDXC de 128 GB con hasta 90 MB/s  Class 10 y U3 y V30](https://www.amazon.es/dp/B01KJELKQO/?tag=tolees-21) a 28.5 EUR (original: 47.99 EUR) (40.61 %  de descuento) en el siguiente enlace!

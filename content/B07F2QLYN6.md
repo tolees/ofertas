@@ -14,7 +14,7 @@ currency: EUR
 price: 92.15
 comparePrice: 190.0 EUR
 inStock: true
-prodname: Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Navy  S
+prodname: 'Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Navy  S'
 ---
 
 Está [Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Navy  S](https://www.amazon.es/dp/B07F2QLYN6/?tag=tolees-21) con 51.50 de descuento por 92.15 EUR (original: 190.0 EUR) en el siguiente enlace!

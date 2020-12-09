@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Ventilador USB  HIEHA Mini Ventilador Silencioso Profesional  Recargable Batería Ventilador Pequeño Portátil Ajustable 360° para Carro de Bebe/Hogar/Coche/Oficina/ Viaje
+prodname: 'Ventilador USB  HIEHA Mini Ventilador Silencioso Profesional  Recargable Batería Ventilador Pequeño Portátil Ajustable 360° para Carro de Bebe/Hogar/Coche/Oficina/ Viaje'
 ---
 
 Ahora mismo tienes [Ventilador USB  HIEHA Mini Ventilador Silencioso Profesional  Recargable Batería Ventilador Pequeño Portátil Ajustable 360° para Carro de Bebe/Hogar/Coche/Oficina/ Viaje](https://www.amazon.es/dp/B07QMCHPKC/?tag=tolees-21) a 16.99 EUR (original: 39.99 EUR) (57.51 %  de descuento) en el siguiente enlace!

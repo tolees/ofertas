@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 64.99 EUR
 inStock: true
-prodname: GoPro Karma Landing Gear
+prodname: 'GoPro Karma Landing Gear'
 ---
 
 Está [GoPro Karma Landing Gear](https://www.amazon.es/dp/B01LY6KMAE/?tag=tolees-21) con 66.16 de descuento por 21.99 EUR (original: 64.99 EUR) en el siguiente enlace!

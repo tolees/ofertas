@@ -14,7 +14,7 @@ currency: EUR
 price: 18.49
 comparePrice: 28.99 EUR
 inStock: true
-prodname: eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Clásico 1989 GB DMG-01 
+prodname: 'eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Clásico 1989 GB DMG-01 '
 ---
 
 Tienes [eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Clásico 1989 GB DMG-01 ](https://www.amazon.es/dp/B08LCZ2P8T/?tag=tolees-21) con un 36.22 % de descuento con precio de oferta de 18.49 EUR (original: 28.99 EUR) en el siguiente enlace!

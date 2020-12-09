@@ -14,7 +14,7 @@ currency: EUR
 price: 41.99
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Helly Hansen Daybreaker Fleece Jacket Chaqueta con Forro Polar para Hombres  con tecnología Polartec y diseñada para Cualquier Actividad Casual o Deportiva  Negro  S
+prodname: 'Helly Hansen Daybreaker Fleece Jacket Chaqueta con Forro Polar para Hombres  con tecnología Polartec y diseñada para Cualquier Actividad Casual o Deportiva  Negro  S'
 ---
 
 Está [Helly Hansen Daybreaker Fleece Jacket Chaqueta con Forro Polar para Hombres  con tecnología Polartec y diseñada para Cualquier Actividad Casual o Deportiva  Negro  S](https://www.amazon.es/dp/B00EFRXFUQ/?tag=tolees-21) con 30.02 de descuento por 41.99 EUR (original: 60.0 EUR) en el siguiente enlace!

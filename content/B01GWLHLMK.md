@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 30 EUR
 inStock: true
-prodname: Nike Brsla Duff Bolsa  Unisex Adulto  Blanco  S
+prodname: 'Nike Brsla Duff Bolsa  Unisex Adulto  Blanco  S'
 ---
 
 Tienes [Nike Brsla Duff Bolsa  Unisex Adulto  Blanco  S](https://www.amazon.es/dp/B01GWLHLMK/?tag=tolees-21) con un 26.70 % de descuento con precio de oferta de 21.99 EUR (original: 30 EUR) en el siguiente enlace!

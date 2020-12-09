@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 34.67 EUR
 inStock: true
-prodname: WateLves Leggings de yoga para mujer  pantalones de deporte  mallas para correr  cintura alta  con bolsillos  elásticos  para yoga  deporte  fitness  Todo el año  Mujer（Armada-jcjf s
+prodname: 'WateLves Leggings de yoga para mujer  pantalones de deporte  mallas para correr  cintura alta  con bolsillos  elásticos  para yoga  deporte  fitness  Todo el año  Mujer（Armada-jcjf s'
 ---
 
 Tienes [WateLves Leggings de yoga para mujer  pantalones de deporte  mallas para correr  cintura alta  con bolsillos  elásticos  para yoga  deporte  fitness  Todo el año  Mujer（Armada-jcjf s](https://www.amazon.es/dp/B07Y1JSXL1/?tag=tolees-21) con un 36.57 % de descuento con precio de oferta de 21.99 EUR (original: 34.67 EUR) en el siguiente enlace!

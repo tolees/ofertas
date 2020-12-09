@@ -14,7 +14,7 @@ currency: EUR
 price: 4.75
 comparePrice: 6.7 EUR
 inStock: true
-prodname: Maybelline New York  Máscara de Pestañas Volumen  Lash Sensational  Black  9 5 ml
+prodname: 'Maybelline New York  Máscara de Pestañas Volumen  Lash Sensational  Black  9 5 ml'
 ---
 
 Ahora mismo tienes [Maybelline New York  Máscara de Pestañas Volumen  Lash Sensational  Black  9 5 ml](https://www.amazon.es/dp/B00X9XKHDU/?tag=tolees-21) a 4.75 EUR (original: 6.7 EUR) (29.10 %  de descuento) en el siguiente enlace!

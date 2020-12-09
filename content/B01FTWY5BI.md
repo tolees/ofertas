@@ -14,7 +14,7 @@ currency: EUR
 price: 18.92
 comparePrice: 52.53 EUR
 inStock: true
-prodname: MSC Lumens - Luz de Ciclismo  Color Negro  Talla 1000 L
+prodname: 'MSC Lumens - Luz de Ciclismo  Color Negro  Talla 1000 L'
 ---
 
 Ahora mismo tienes [MSC Lumens - Luz de Ciclismo  Color Negro  Talla 1000 L](https://www.amazon.es/dp/B01FTWY5BI/?tag=tolees-21) a 18.92 EUR (original: 52.53 EUR) (63.98 %  de descuento) en el siguiente enlace!

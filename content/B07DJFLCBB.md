@@ -14,7 +14,7 @@ currency: EUR
 price: 29.44
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Dockers by Gerli 19pa240  Botas Militar para Mujer  Verde  Oliv 840   38 EU
+prodname: 'Dockers by Gerli 19pa240  Botas Militar para Mujer  Verde  Oliv 840   38 EU'
 ---
 
 Está [Dockers by Gerli 19pa240  Botas Militar para Mujer  Verde  Oliv 840   38 EU](https://www.amazon.es/dp/B07DJFLCBB/?tag=tolees-21) con 63.18 de descuento por 29.44 EUR (original: 79.95 EUR) en el siguiente enlace!

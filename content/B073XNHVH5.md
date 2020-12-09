@@ -14,7 +14,7 @@ currency: EUR
 price: 8.52
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Esprit 107ee1f006  Blusa Mujer   Navy 400   42
+prodname: 'Esprit 107ee1f006  Blusa Mujer   Navy 400   42'
 ---
 
 Tienes [Esprit 107ee1f006  Blusa Mujer   Navy 400   42](https://www.amazon.es/dp/B073XNHVH5/?tag=tolees-21) con un 82.96 % de descuento con precio de oferta de 8.52 EUR (original: 49.99 EUR) en el siguiente enlace!

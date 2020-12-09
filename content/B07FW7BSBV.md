@@ -14,7 +14,7 @@ currency: EUR
 price: 14.37
 comparePrice: 59.99 EUR
 inStock: true
-prodname: edc by Esprit 108cc1b004  Pantalones para Mujer  Azul  Navy 400  W34/L32
+prodname: 'edc by Esprit 108cc1b004  Pantalones para Mujer  Azul  Navy 400  W34/L32'
 ---
 
 Está [edc by Esprit 108cc1b004  Pantalones para Mujer  Azul  Navy 400  W34/L32](https://www.amazon.es/dp/B07FW7BSBV/?tag=tolees-21) con 76.05 de descuento por 14.37 EUR (original: 59.99 EUR) en el siguiente enlace!

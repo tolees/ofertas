@@ -14,7 +14,7 @@ currency: EUR
 price: 14.41
 comparePrice: 23.94 EUR
 inStock: true
-prodname: Limit 6981.35 - Reloj de Cuarzo para Mujer  Correa de Poliuretano Color Blanco
+prodname: 'Limit 6981.35 - Reloj de Cuarzo para Mujer  Correa de Poliuretano Color Blanco'
 ---
 
 Ahora mismo tienes [Limit 6981.35 - Reloj de Cuarzo para Mujer  Correa de Poliuretano Color Blanco](https://www.amazon.es/dp/B007JWJ0GC/?tag=tolees-21) a 14.41 EUR (original: 23.94 EUR) (39.81 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 39.73
 comparePrice: 65 EUR
 inStock: true
-prodname: Vans Authentic  Zapatillas de Tela Unisex  Negro  Black/White   34.5 EU
+prodname: 'Vans Authentic  Zapatillas de Tela Unisex  Negro  Black/White   34.5 EU'
 ---
 
 Tienes [Vans Authentic  Zapatillas de Tela Unisex  Negro  Black/White   34.5 EU](https://www.amazon.es/dp/B000UYCOJ6/?tag=tolees-21) con un 38.88 % de descuento con precio de oferta de 39.73 EUR (original: 65 EUR) en el siguiente enlace!

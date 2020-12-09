@@ -14,7 +14,7 @@ currency: EUR
 price: 10.11
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Chicco- Turbo Touch Fiat 500 Rojo  Color  7331070000 
+prodname: 'Chicco- Turbo Touch Fiat 500 Rojo  Color  7331070000 '
 ---
 
 Está [Chicco- Turbo Touch Fiat 500 Rojo  Color  7331070000 ](https://www.amazon.es/dp/B00TGRN0PK/?tag=tolees-21) con 40.49 de descuento por 10.11 EUR (original: 16.99 EUR) en el siguiente enlace!

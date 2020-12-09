@@ -14,7 +14,7 @@ currency: EUR
 price: 35.14
 comparePrice: 89.95 EUR
 inStock: true
-prodname: adidas Questar Tnd  Zapatillas de Running para Hombre  Negro Core Black/FTWR White/Grey Two F17  42 2/3 EU
+prodname: 'adidas Questar Tnd  Zapatillas de Running para Hombre  Negro Core Black/FTWR White/Grey Two F17  42 2/3 EU'
 ---
 
 Tienes [adidas Questar Tnd  Zapatillas de Running para Hombre  Negro Core Black/FTWR White/Grey Two F17  42 2/3 EU](https://www.amazon.es/dp/B07JZ5NYH2/?tag=tolees-21) con un 60.93 % de descuento con precio de oferta de 35.14 EUR (original: 89.95 EUR) en el siguiente enlace!

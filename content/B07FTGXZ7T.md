@@ -14,7 +14,7 @@ currency: EUR
 price: 29.48
 comparePrice: 85 EUR
 inStock: true
-prodname: Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Lt Stone Xf   36W/32L para Hombre
+prodname: 'Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Lt Stone Xf   36W/32L para Hombre'
 ---
 
 Tienes [Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Lt Stone Xf   36W/32L para Hombre](https://www.amazon.es/dp/B07FTGXZ7T/?tag=tolees-21) con un 65.32 % de descuento con precio de oferta de 29.48 EUR (original: 85 EUR) en el siguiente enlace!

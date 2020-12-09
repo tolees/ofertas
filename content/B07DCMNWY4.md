@@ -14,7 +14,7 @@ currency: EUR
 price: 69.3
 comparePrice: 140 EUR
 inStock: true
-prodname: Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Mujer  Gris  Vapste Grey/Black/Pink Foam/Lime Blast 002   40 EU
+prodname: 'Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Mujer  Gris  Vapste Grey/Black/Pink Foam/Lime Blast 002   40 EU'
 ---
 
 Está [Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Mujer  Gris  Vapste Grey/Black/Pink Foam/Lime Blast 002   40 EU](https://www.amazon.es/dp/B07DCMNWY4/?tag=tolees-21) con 50.50 de descuento por 69.3 EUR (original: 140 EUR) en el siguiente enlace!

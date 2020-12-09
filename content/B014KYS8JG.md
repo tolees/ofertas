@@ -14,7 +14,7 @@ currency: EUR
 price: 11.11
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Atelier GARDEUR Zuri  Pantalones para Mujer  Naranja  Apricot 50   Talla Fabricante: 36 Lang
+prodname: 'Atelier GARDEUR Zuri  Pantalones para Mujer  Naranja  Apricot 50   Talla Fabricante: 36 Lang'
 ---
 
 Está [Atelier GARDEUR Zuri  Pantalones para Mujer  Naranja  Apricot 50   Talla Fabricante: 36 Lang](https://www.amazon.es/dp/B014KYS8JG/?tag=tolees-21) con 87.65 de descuento por 11.11 EUR (original: 89.95 EUR) en el siguiente enlace!

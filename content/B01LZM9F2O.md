@@ -14,7 +14,7 @@ currency: EUR
 price: 11.93
 comparePrice: 20.46 EUR
 inStock: true
-prodname: Venganza 1+2+3 Colección Vintage  Funda Vinilo  Blu-Ray [Blu-ray]
+prodname: 'Venganza 1+2+3 Colección Vintage  Funda Vinilo  Blu-Ray [Blu-ray]'
 ---
 
 Está [Venganza 1+2+3 Colección Vintage  Funda Vinilo  Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01LZM9F2O/?tag=tolees-21) con 41.69 de descuento por 11.93 EUR (original: 20.46 EUR) en el siguiente enlace!

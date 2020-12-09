@@ -14,7 +14,7 @@ currency: EUR
 price: 11.69
 comparePrice: 98.67 EUR
 inStock: true
-prodname: Privacidad Shades cl-p02 de plástico Modelo de gancho para colgar con clip   autoadhesivo 
+prodname: 'Privacidad Shades cl-p02 de plástico Modelo de gancho para colgar con clip   autoadhesivo '
 ---
 
 Está [Privacidad Shades cl-p02 de plástico Modelo de gancho para colgar con clip   autoadhesivo ](https://www.amazon.es/dp/B00DPDUE3W/?tag=tolees-21) con 88.15 de descuento por 11.69 EUR (original: 98.67 EUR) en el siguiente enlace!

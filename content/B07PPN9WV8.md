@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 15.99 EUR
 inStock: true
-prodname: OMZGXGOD - Dispensador de Pasta de Dientes Automático y Portacepillos de Dientes – Práctico Set de Baño Familiar con Soporte de Cepillos de Dientes y Dosificador de Pasta Dental
+prodname: 'OMZGXGOD - Dispensador de Pasta de Dientes Automático y Portacepillos de Dientes – Práctico Set de Baño Familiar con Soporte de Cepillos de Dientes y Dosificador de Pasta Dental'
 ---
 
 Ahora mismo tienes [OMZGXGOD - Dispensador de Pasta de Dientes Automático y Portacepillos de Dientes – Práctico Set de Baño Familiar con Soporte de Cepillos de Dientes y Dosificador de Pasta Dental](https://www.amazon.es/dp/B07PPN9WV8/?tag=tolees-21) a 8.99 EUR (original: 15.99 EUR) (43.78 %  de descuento) en el siguiente enlace!

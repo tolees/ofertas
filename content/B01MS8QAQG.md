@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 80.87 EUR
 inStock: true
-prodname: Philips SHD8800/12 Auricular Circumaural Diadema Negro - Auriculares  Circumaural  Diadema  Inalámbrico y alámbrico  8-22000 Hz  98 dB  Negro 
+prodname: 'Philips SHD8800/12 Auricular Circumaural Diadema Negro - Auriculares  Circumaural  Diadema  Inalámbrico y alámbrico  8-22000 Hz  98 dB  Negro '
 ---
 
 Ahora mismo tienes [Philips SHD8800/12 Auricular Circumaural Diadema Negro - Auriculares  Circumaural  Diadema  Inalámbrico y alámbrico  8-22000 Hz  98 dB  Negro ](https://www.amazon.es/dp/B01MS8QAQG/?tag=tolees-21) a 59.99 EUR (original: 80.87 EUR) (25.82 %  de descuento) en el siguiente enlace!

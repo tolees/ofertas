@@ -14,7 +14,7 @@ currency: EUR
 price: 73.99
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Columbia Element Blocker II Interchange 3 en 1 Chaqueta  Hombre  Negro  XL
+prodname: 'Columbia Element Blocker II Interchange 3 en 1 Chaqueta  Hombre  Negro  XL'
 ---
 
 Tienes [Columbia Element Blocker II Interchange 3 en 1 Chaqueta  Hombre  Negro  XL](https://www.amazon.es/dp/B07DYY13SC/?tag=tolees-21) con un 58.89 % de descuento con precio de oferta de 73.99 EUR (original: 179.99 EUR) en el siguiente enlace!

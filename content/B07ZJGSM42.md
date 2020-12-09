@@ -14,7 +14,7 @@ currency: EUR
 price: 36.61
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Paul Rubens 24 pinturas acuarelas  8 ml x 24 colores  pintura profesional para artistas  con paleta de plástico rosa  ideal para aficionados  estudiantes  principiantes y artistas
+prodname: 'Paul Rubens 24 pinturas acuarelas  8 ml x 24 colores  pintura profesional para artistas  con paleta de plástico rosa  ideal para aficionados  estudiantes  principiantes y artistas'
 ---
 
 Tienes [Paul Rubens 24 pinturas acuarelas  8 ml x 24 colores  pintura profesional para artistas  con paleta de plástico rosa  ideal para aficionados  estudiantes  principiantes y artistas](https://www.amazon.es/dp/B07ZJGSM42/?tag=tolees-21) con un 47.69 % de descuento con precio de oferta de 36.61 EUR (original: 69.99 EUR) en el siguiente enlace!

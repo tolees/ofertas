@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Somatoline Detox Reductor Noche - 400 ml
+prodname: 'Somatoline Detox Reductor Noche - 400 ml'
 ---
 
 Tienes [Somatoline Detox Reductor Noche - 400 ml](https://www.amazon.es/dp/B01MS7DI5H/?tag=tolees-21) con un 66.03 % de descuento con precio de oferta de 16.95 EUR (original: 49.9 EUR) en el siguiente enlace!

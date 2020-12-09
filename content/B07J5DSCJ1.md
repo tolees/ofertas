@@ -14,7 +14,7 @@ currency: EUR
 price: 22.45
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Triumph Amourette Charm W Sujetador con Aros   Pink/Light Combination M019   105F  Talla del Fabricante: 90  para Mujer
+prodname: 'Triumph Amourette Charm W Sujetador con Aros   Pink/Light Combination M019   105F  Talla del Fabricante: 90  para Mujer'
 ---
 
 Tienes [Triumph Amourette Charm W Sujetador con Aros   Pink/Light Combination M019   105F  Talla del Fabricante: 90  para Mujer](https://www.amazon.es/dp/B07J5DSCJ1/?tag=tolees-21) con un 59.14 % de descuento con precio de oferta de 22.45 EUR (original: 54.95 EUR) en el siguiente enlace!

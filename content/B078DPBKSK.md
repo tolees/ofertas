@@ -14,7 +14,7 @@ currency: EUR
 price: 21.82
 comparePrice: 46.29 EUR
 inStock: true
-prodname: O  Neill Chino Hybrid Pantalones Cortos Kiama - Bañador  Hombre  Chino Hybrid Shorts  Atlantic Blue  31
+prodname: 'O  Neill Chino Hybrid Pantalones Cortos Kiama - Bañador  Hombre  Chino Hybrid Shorts  Atlantic Blue  31'
 ---
 
 Está [O  Neill Chino Hybrid Pantalones Cortos Kiama - Bañador  Hombre  Chino Hybrid Shorts  Atlantic Blue  31](https://www.amazon.es/dp/B078DPBKSK/?tag=tolees-21) con 52.86 de descuento por 21.82 EUR (original: 46.29 EUR) en el siguiente enlace!

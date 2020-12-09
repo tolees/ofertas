@@ -14,7 +14,7 @@ currency: EUR
 price: 13.59
 comparePrice: 39.53 EUR
 inStock: true
-prodname: IJP Design - Ian Poulter - Pantalón Tech Mujer  Blanco  12  WT4-02-12-29
+prodname: 'IJP Design - Ian Poulter - Pantalón Tech Mujer  Blanco  12  WT4-02-12-29'
 ---
 
 Está [IJP Design - Ian Poulter - Pantalón Tech Mujer  Blanco  12  WT4-02-12-29](https://www.amazon.es/dp/B00FYOCJPQ/?tag=tolees-21) con 65.62 de descuento por 13.59 EUR (original: 39.53 EUR) en el siguiente enlace!

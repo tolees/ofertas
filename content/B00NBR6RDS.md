@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Sony MDR-Zx110Apb - Auriculares para Smartphone  Diadema  Mando de Control  Micrófono  1000 MW  Android y iPhone   Negro  20 X 15 X 3 5 cm
+prodname: 'Sony MDR-Zx110Apb - Auriculares para Smartphone  Diadema  Mando de Control  Micrófono  1000 MW  Android y iPhone   Negro  20 X 15 X 3 5 cm'
 ---
 
 Tienes [Sony MDR-Zx110Apb - Auriculares para Smartphone  Diadema  Mando de Control  Micrófono  1000 MW  Android y iPhone   Negro  20 X 15 X 3 5 cm](https://www.amazon.es/dp/B00NBR6RDS/?tag=tolees-21) con un 35.05 % de descuento con precio de oferta de 12.99 EUR (original: 20.0 EUR) en el siguiente enlace!

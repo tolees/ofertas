@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 33.64 EUR
 inStock: true
-prodname: Boe Gin Violet Gin - 700 ml
+prodname: 'Boe Gin Violet Gin - 700 ml'
 ---
 
 Está [Boe Gin Violet Gin - 700 ml](https://www.amazon.es/dp/B06WGRKCHC/?tag=tolees-21) con 25.83 de descuento por 24.95 EUR (original: 33.64 EUR) en el siguiente enlace!

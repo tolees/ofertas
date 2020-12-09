@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 229.99 EUR
 inStock: true
-prodname: BERSIGAR automático Reloj de Hombre con Mecanismo de Esqueleto Transparente-Impermeable Hombres Reloj
+prodname: 'BERSIGAR automático Reloj de Hombre con Mecanismo de Esqueleto Transparente-Impermeable Hombres Reloj'
 ---
 
 Tienes [BERSIGAR automático Reloj de Hombre con Mecanismo de Esqueleto Transparente-Impermeable Hombres Reloj](https://www.amazon.es/dp/B07P4D8YFZ/?tag=tolees-21) con un 60.87 % de descuento con precio de oferta de 89.99 EUR (original: 229.99 EUR) en el siguiente enlace!

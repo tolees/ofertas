@@ -14,7 +14,7 @@ currency: EUR
 price: 29.18
 comparePrice: 85 EUR
 inStock: true
-prodname: Pepe Jeans London Tinker Pro Seal Camu  Zapatillas Hombre  Verde  Khaki Green   45 EU
+prodname: 'Pepe Jeans London Tinker Pro Seal Camu  Zapatillas Hombre  Verde  Khaki Green   45 EU'
 ---
 
 Está [Pepe Jeans London Tinker Pro Seal Camu  Zapatillas Hombre  Verde  Khaki Green   45 EU](https://www.amazon.es/dp/B0787CVDLT/?tag=tolees-21) con 65.67 de descuento por 29.18 EUR (original: 85 EUR) en el siguiente enlace!

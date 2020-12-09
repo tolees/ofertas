@@ -14,7 +14,7 @@ currency: EUR
 price: 26.79
 comparePrice: 50.99 EUR
 inStock: true
-prodname: Vlazom Bata Mujer Unisex Albornoz de Kimono de Mujer Suave Có Modo Largo Ropa de Dormir
+prodname: 'Vlazom Bata Mujer Unisex Albornoz de Kimono de Mujer Suave Có Modo Largo Ropa de Dormir'
 ---
 
 Está [Vlazom Bata Mujer Unisex Albornoz de Kimono de Mujer Suave Có Modo Largo Ropa de Dormir](https://www.amazon.es/dp/B07FLVC8V8/?tag=tolees-21) con 47.46 de descuento por 26.79 EUR (original: 50.99 EUR) en el siguiente enlace!

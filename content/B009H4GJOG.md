@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 39.9 EUR
 inStock: true
-prodname: BaByliss E824E - Kit cortapelos con 8 funciones  cuchillas de acero inoxidable  uso sin cable  color negro
+prodname: 'BaByliss E824E - Kit cortapelos con 8 funciones  cuchillas de acero inoxidable  uso sin cable  color negro'
 ---
 
 Tienes [BaByliss E824E - Kit cortapelos con 8 funciones  cuchillas de acero inoxidable  uso sin cable  color negro](https://www.amazon.es/dp/B009H4GJOG/?tag=tolees-21) con un 34.86 % de descuento con precio de oferta de 25.99 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 139.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Ring Stick Up Cam Elite - Cámara de seguridad HD  comunicación bidireccional  alarma sonora  compatible con Alexa  color blanco
+prodname: 'Ring Stick Up Cam Elite - Cámara de seguridad HD  comunicación bidireccional  alarma sonora  compatible con Alexa  color blanco'
 ---
 
 Ahora mismo tienes [Ring Stick Up Cam Elite - Cámara de seguridad HD  comunicación bidireccional  alarma sonora  compatible con Alexa  color blanco](https://www.amazon.es/dp/B07H7NFG7N/?tag=tolees-21) a 139.0 EUR (original: 199.0 EUR) (30.15 %  de descuento) en el siguiente enlace!

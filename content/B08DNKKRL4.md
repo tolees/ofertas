@@ -14,7 +14,7 @@ currency: EUR
 price: 3.66
 comparePrice: 7.32 EUR
 inStock: true
-prodname: HELLOYOUNG Pinzas de té de Acero Inoxidable Pinzas de Bolsillo Exprimidor Exprimidor Soporte de Mango Cuchara Mini té Pinzas de azúcar Colador Herramienta de Cocina
+prodname: 'HELLOYOUNG Pinzas de té de Acero Inoxidable Pinzas de Bolsillo Exprimidor Exprimidor Soporte de Mango Cuchara Mini té Pinzas de azúcar Colador Herramienta de Cocina'
 ---
 
 Ahora mismo tienes [HELLOYOUNG Pinzas de té de Acero Inoxidable Pinzas de Bolsillo Exprimidor Exprimidor Soporte de Mango Cuchara Mini té Pinzas de azúcar Colador Herramienta de Cocina](https://www.amazon.es/dp/B08DNKKRL4/?tag=tolees-21) a 3.66 EUR (original: 7.32 EUR) (50.00 %  de descuento) en el siguiente enlace!

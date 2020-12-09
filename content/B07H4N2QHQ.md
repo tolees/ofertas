@@ -14,7 +14,7 @@ currency: EUR
 price: 28.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Set de Ejercitar Rodillo Abdominales  3 en 1 con Barra para Flexiones  Cuerda para Saltar y Rodilleras–Equipo para Ejercitarse en Casa y de Entrenamiento de Fuerza para Fortalecer tus Abdominales
+prodname: 'Set de Ejercitar Rodillo Abdominales  3 en 1 con Barra para Flexiones  Cuerda para Saltar y Rodilleras–Equipo para Ejercitarse en Casa y de Entrenamiento de Fuerza para Fortalecer tus Abdominales'
 ---
 
 Ahora mismo tienes [Set de Ejercitar Rodillo Abdominales  3 en 1 con Barra para Flexiones  Cuerda para Saltar y Rodilleras–Equipo para Ejercitarse en Casa y de Entrenamiento de Fuerza para Fortalecer tus Abdominales](https://www.amazon.es/dp/B07H4N2QHQ/?tag=tolees-21) a 28.99 EUR (original: 49.99 EUR) (42.01 %  de descuento) en el siguiente enlace!

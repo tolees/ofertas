@@ -14,7 +14,7 @@ currency: EUR
 price: 35.2
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Superdry Copper Label Hood Capucha  Azul  Lauren Navy Jua   XL para Hombre
+prodname: 'Superdry Copper Label Hood Capucha  Azul  Lauren Navy Jua   XL para Hombre'
 ---
 
 Está [Superdry Copper Label Hood Capucha  Azul  Lauren Navy Jua   XL para Hombre](https://www.amazon.es/dp/B07TPVTSTK/?tag=tolees-21) con 55.99 de descuento por 35.2 EUR (original: 79.99 EUR) en el siguiente enlace!

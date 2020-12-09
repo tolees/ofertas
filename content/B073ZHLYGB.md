@@ -14,7 +14,7 @@ currency: EUR
 price: 79.99
 comparePrice: 159.99 EUR
 inStock: true
-prodname: AUNA MIC-900G USB Set de micrófono estudio V4 - Micrófono condensador USB  Soporte araña  Adaptador rosca  Funda  Soporte  Brazo de sujeción  Protección anti pop  Dorado
+prodname: 'AUNA MIC-900G USB Set de micrófono estudio V4 - Micrófono condensador USB  Soporte araña  Adaptador rosca  Funda  Soporte  Brazo de sujeción  Protección anti pop  Dorado'
 ---
 
 Está [AUNA MIC-900G USB Set de micrófono estudio V4 - Micrófono condensador USB  Soporte araña  Adaptador rosca  Funda  Soporte  Brazo de sujeción  Protección anti pop  Dorado](https://www.amazon.es/dp/B073ZHLYGB/?tag=tolees-21) con 50.00 de descuento por 79.99 EUR (original: 159.99 EUR) en el siguiente enlace!

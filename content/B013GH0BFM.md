@@ -14,7 +14,7 @@ currency: EUR
 price: 13.94
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Remington HC5018 Apprentice - Kit Máquina de Cortar Pelo y 10 Piezas  Cortapelos con Cuchillas Acero Inoxidable  Rojo
+prodname: 'Remington HC5018 Apprentice - Kit Máquina de Cortar Pelo y 10 Piezas  Cortapelos con Cuchillas Acero Inoxidable  Rojo'
 ---
 
 Tienes [Remington HC5018 Apprentice - Kit Máquina de Cortar Pelo y 10 Piezas  Cortapelos con Cuchillas Acero Inoxidable  Rojo](https://www.amazon.es/dp/B013GH0BFM/?tag=tolees-21) con un 33.59 % de descuento con precio de oferta de 13.94 EUR (original: 20.99 EUR) en el siguiente enlace!

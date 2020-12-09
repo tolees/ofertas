@@ -14,7 +14,7 @@ currency: EUR
 price: 14.75
 comparePrice: 21.94 EUR
 inStock: true
-prodname: Smint Tin Menta  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr.  Total 420 gr. 
+prodname: 'Smint Tin Menta  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr.  Total 420 gr. '
 ---
 
 Ahora mismo tienes [Smint Tin Menta  Caramelo Comprimido Sin Azúcar - 12 unidades de 35 gr.  Total 420 gr. ](https://www.amazon.es/dp/B00GUJ5S3Y/?tag=tolees-21) a 14.75 EUR (original: 21.94 EUR) (32.77 %  de descuento) en el siguiente enlace!

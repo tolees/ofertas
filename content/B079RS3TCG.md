@@ -14,7 +14,7 @@ currency: EUR
 price: 34.95
 comparePrice: 129 EUR
 inStock: true
-prodname: Pepe Jeans Leicester  Suéter para Hombre  Azul  Deep Sea 597   X-Large
+prodname: 'Pepe Jeans Leicester  Suéter para Hombre  Azul  Deep Sea 597   X-Large'
 ---
 
 Tienes [Pepe Jeans Leicester  Suéter para Hombre  Azul  Deep Sea 597   X-Large](https://www.amazon.es/dp/B079RS3TCG/?tag=tolees-21) con un 72.91 % de descuento con precio de oferta de 34.95 EUR (original: 129 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 52.3 EUR
 inStock: true
-prodname: Skoye - Tapón de Inodoro de Alta Presión  Potente desatascador para Baño  Inodoro  Bañera  duchas
+prodname: 'Skoye - Tapón de Inodoro de Alta Presión  Potente desatascador para Baño  Inodoro  Bañera  duchas'
 ---
 
 Está [Skoye - Tapón de Inodoro de Alta Presión  Potente desatascador para Baño  Inodoro  Bañera  duchas](https://www.amazon.es/dp/B07FCHJ5NY/?tag=tolees-21) con 65.60 de descuento por 17.99 EUR (original: 52.3 EUR) en el siguiente enlace!

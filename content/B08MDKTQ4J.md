@@ -14,7 +14,7 @@ currency: EUR
 price: 3.85
 comparePrice: 9.0 EUR
 inStock: true
-prodname: Mascarilla Protectora FFP2 NR INNOVAIR - 10 Unidades - Fabricación 100% Española CE 2797-5 capas  10 ud Blanco 
+prodname: 'Mascarilla Protectora FFP2 NR INNOVAIR - 10 Unidades - Fabricación 100% Española CE 2797-5 capas  10 ud Blanco '
 ---
 
 Ahora mismo tienes [Mascarilla Protectora FFP2 NR INNOVAIR - 10 Unidades - Fabricación 100% Española CE 2797-5 capas  10 ud Blanco ](https://www.amazon.es/dp/B08MDKTQ4J/?tag=tolees-21) a 3.85 EUR (original: 9.0 EUR) (57.22 %  de descuento) en el siguiente enlace!

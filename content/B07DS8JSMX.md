@@ -14,7 +14,7 @@ currency: EUR
 price: 165.98
 comparePrice: 249 EUR
 inStock: true
-prodname: Samsung Galaxy J6 - Smartphone de 5.6"  4G  WiFi  Bluetooth  Octa Core 1.6 GHz  Memoria de 32 GB  3 GB de RAM  cámara Trasera de 13 MP  Android 8.0  Color Dorado
+prodname: 'Samsung Galaxy J6 - Smartphone de 5.6"  4G  WiFi  Bluetooth  Octa Core 1.6 GHz  Memoria de 32 GB  3 GB de RAM  cámara Trasera de 13 MP  Android 8.0  Color Dorado'
 ---
 
 Está [Samsung Galaxy J6 - Smartphone de 5.6"  4G  WiFi  Bluetooth  Octa Core 1.6 GHz  Memoria de 32 GB  3 GB de RAM  cámara Trasera de 13 MP  Android 8.0  Color Dorado](https://www.amazon.es/dp/B07DS8JSMX/?tag=tolees-21) con 33.34 de descuento por 165.98 EUR (original: 249 EUR) en el siguiente enlace!

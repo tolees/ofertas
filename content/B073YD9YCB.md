@@ -14,7 +14,7 @@ currency: EUR
 price: 23.59
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Esprit 107ee1i014  suéter Mujer  Azul  Light Blue 5 444   XX-Large
+prodname: 'Esprit 107ee1i014  suéter Mujer  Azul  Light Blue 5 444   XX-Large'
 ---
 
 Está [Esprit 107ee1i014  suéter Mujer  Azul  Light Blue 5 444   XX-Large](https://www.amazon.es/dp/B073YD9YCB/?tag=tolees-21) con 52.81 de descuento por 23.59 EUR (original: 49.99 EUR) en el siguiente enlace!

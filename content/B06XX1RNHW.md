@@ -14,7 +14,7 @@ currency: EUR
 price: 15
 comparePrice: 20.95 EUR
 inStock: true
-prodname: Dr Who - Doormat Tardis
+prodname: 'Dr Who - Doormat Tardis'
 ---
 
 Está [Dr Who - Doormat Tardis](https://www.amazon.es/dp/B06XX1RNHW/?tag=tolees-21) con 28.40 de descuento por 15 EUR (original: 20.95 EUR) en el siguiente enlace!

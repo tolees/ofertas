@@ -14,7 +14,7 @@ currency: EUR
 price: 2.38
 comparePrice: 3.58 EUR
 inStock: true
-prodname: Longspeed Distribuidor de Divisor de TV vía satélite/Antena/Cable de 4 vías  4 Canales  5-2400 MHz  Tipo F  SP-04  Carcasa de Zinc Fundido a presión  Plateado
+prodname: 'Longspeed Distribuidor de Divisor de TV vía satélite/Antena/Cable de 4 vías  4 Canales  5-2400 MHz  Tipo F  SP-04  Carcasa de Zinc Fundido a presión  Plateado'
 ---
 
 Está [Longspeed Distribuidor de Divisor de TV vía satélite/Antena/Cable de 4 vías  4 Canales  5-2400 MHz  Tipo F  SP-04  Carcasa de Zinc Fundido a presión  Plateado](https://www.amazon.es/dp/B08GLH4G6G/?tag=tolees-21) con 33.52 de descuento por 2.38 EUR (original: 3.58 EUR) en el siguiente enlace!

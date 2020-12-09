@@ -14,7 +14,7 @@ currency: EUR
 price: 3.95
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Sony SCR24 - Funda para móvil Sony Xperia Z3  con función ventana   blanco
+prodname: 'Sony SCR24 - Funda para móvil Sony Xperia Z3  con función ventana   blanco'
 ---
 
 Ahora mismo tienes [Sony SCR24 - Funda para móvil Sony Xperia Z3  con función ventana   blanco](https://www.amazon.es/dp/B00N9OC2LE/?tag=tolees-21) a 3.95 EUR (original: 39.9 EUR) (90.10 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.7
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Star Wars - Figura de acción de Darth Vader  Hasbro E4049ES0 
+prodname: 'Star Wars - Figura de acción de Darth Vader  Hasbro E4049ES0 '
 ---
 
 Está [Star Wars - Figura de acción de Darth Vader  Hasbro E4049ES0 ](https://www.amazon.es/dp/B07MVLMKY5/?tag=tolees-21) con 25.25 de descuento por 12.7 EUR (original: 16.99 EUR) en el siguiente enlace!

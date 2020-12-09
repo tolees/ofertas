@@ -14,7 +14,7 @@ currency: EUR
 price: 5.59
 comparePrice: 8.99 EUR
 inStock: true
-prodname: Alfombrilla de Ratón Beikell  Alfombrilla de Ratón Ordenador Gaming Superficie texturizada Suave y Cómoda con Base de Goma Antideslizante-Negro
+prodname: 'Alfombrilla de Ratón Beikell  Alfombrilla de Ratón Ordenador Gaming Superficie texturizada Suave y Cómoda con Base de Goma Antideslizante-Negro'
 ---
 
 Ahora mismo tienes [Alfombrilla de Ratón Beikell  Alfombrilla de Ratón Ordenador Gaming Superficie texturizada Suave y Cómoda con Base de Goma Antideslizante-Negro](https://www.amazon.es/dp/B07KBDLX3R/?tag=tolees-21) a 5.59 EUR (original: 8.99 EUR) (37.82 %  de descuento) en el siguiente enlace!

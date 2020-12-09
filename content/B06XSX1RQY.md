@@ -14,7 +14,7 @@ currency: EUR
 price: 7.85
 comparePrice: 65 EUR
 inStock: true
-prodname: Pepe Jeans Pixlette Vaqueros  Azul  9Oz Utilized Dark Blue R55   5 años para Niñas
+prodname: 'Pepe Jeans Pixlette Vaqueros  Azul  9Oz Utilized Dark Blue R55   5 años para Niñas'
 ---
 
 Tienes [Pepe Jeans Pixlette Vaqueros  Azul  9Oz Utilized Dark Blue R55   5 años para Niñas](https://www.amazon.es/dp/B06XSX1RQY/?tag=tolees-21) con un 87.92 % de descuento con precio de oferta de 7.85 EUR (original: 65 EUR) en el siguiente enlace!

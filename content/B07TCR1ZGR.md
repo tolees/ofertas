@@ -14,7 +14,7 @@ currency: EUR
 price: 235.06
 comparePrice: 327.37 EUR
 inStock: true
-prodname: Michael Kors Lexington Connected Smartwatch Gen 5 con tecnología Wear OS de Google  altavoz  frecuencia cardíaca  GPS  NFC y notificaciones smartwatch
+prodname: 'Michael Kors Lexington Connected Smartwatch Gen 5 con tecnología Wear OS de Google  altavoz  frecuencia cardíaca  GPS  NFC y notificaciones smartwatch'
 ---
 
 Ahora mismo tienes [Michael Kors Lexington Connected Smartwatch Gen 5 con tecnología Wear OS de Google  altavoz  frecuencia cardíaca  GPS  NFC y notificaciones smartwatch](https://www.amazon.es/dp/B07TCR1ZGR/?tag=tolees-21) a 235.06 EUR (original: 327.37 EUR) (28.20 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.6
 comparePrice: 21.9 EUR
 inStock: true
-prodname: Speedo Solid Leisure - Bañador de natación para hombre  color azul marino  talla XS
+prodname: 'Speedo Solid Leisure - Bañador de natación para hombre  color azul marino  talla XS'
 ---
 
 Ahora mismo tienes [Speedo Solid Leisure - Bañador de natación para hombre  color azul marino  talla XS](https://www.amazon.es/dp/B007XPVYFK/?tag=tolees-21) a 9.6 EUR (original: 21.9 EUR) (56.16 %  de descuento) en el siguiente enlace!

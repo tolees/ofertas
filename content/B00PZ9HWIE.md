@@ -14,7 +14,7 @@ currency: EUR
 price: 33.89
 comparePrice: 54 EUR
 inStock: true
-prodname: Mauboussin Pour Lui In Black Eau De Parfum 100 Ml
+prodname: 'Mauboussin Pour Lui In Black Eau De Parfum 100 Ml'
 ---
 
 Está [Mauboussin Pour Lui In Black Eau De Parfum 100 Ml](https://www.amazon.es/dp/B00PZ9HWIE/?tag=tolees-21) con 37.24 de descuento por 33.89 EUR (original: 54 EUR) en el siguiente enlace!

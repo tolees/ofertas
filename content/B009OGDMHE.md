@@ -14,7 +14,7 @@ currency: EUR
 price: 21.29
 comparePrice: 39.9 EUR
 inStock: true
-prodname: SPEEDO BioFuse Aleta Entrenamiento  44-46
+prodname: 'SPEEDO BioFuse Aleta Entrenamiento  44-46'
 ---
 
 Tienes [SPEEDO BioFuse Aleta Entrenamiento  44-46](https://www.amazon.es/dp/B009OGDMHE/?tag=tolees-21) con un 46.64 % de descuento con precio de oferta de 21.29 EUR (original: 39.9 EUR) en el siguiente enlace!

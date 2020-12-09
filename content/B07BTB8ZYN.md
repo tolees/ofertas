@@ -14,7 +14,7 @@ currency: EUR
 price: 23.69
 comparePrice: 39.99 EUR
 inStock: true
-prodname: ZEEPIN Eléctrico Soldador Kit de Estaño Profesional -23 en 1 Soldadura con Maletín para Free-60w 220v Soldador Temperatura Ajustable para Soldadura de Precisión  Eléctrico Soldador【El modelo último 】 
+prodname: 'ZEEPIN Eléctrico Soldador Kit de Estaño Profesional -23 en 1 Soldadura con Maletín para Free-60w 220v Soldador Temperatura Ajustable para Soldadura de Precisión  Eléctrico Soldador【El modelo último 】 '
 ---
 
 Tienes [ZEEPIN Eléctrico Soldador Kit de Estaño Profesional -23 en 1 Soldadura con Maletín para Free-60w 220v Soldador Temperatura Ajustable para Soldadura de Precisión  Eléctrico Soldador【El modelo último 】 ](https://www.amazon.es/dp/B07BTB8ZYN/?tag=tolees-21) con un 40.76 % de descuento con precio de oferta de 23.69 EUR (original: 39.99 EUR) en el siguiente enlace!

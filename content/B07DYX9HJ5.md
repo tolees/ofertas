@@ -14,7 +14,7 @@ currency: EUR
 price: 113.77
 comparePrice: 229.99 EUR
 inStock: true
-prodname: Columbia Quantum Voyage II Hooded Jacket Chaqueta con Capucha  Hombre  Dark Mountain/Bright Copper  Talla XL
+prodname: 'Columbia Quantum Voyage II Hooded Jacket Chaqueta con Capucha  Hombre  Dark Mountain/Bright Copper  Talla XL'
 ---
 
 Está [Columbia Quantum Voyage II Hooded Jacket Chaqueta con Capucha  Hombre  Dark Mountain/Bright Copper  Talla XL](https://www.amazon.es/dp/B07DYX9HJ5/?tag=tolees-21) con 50.53 de descuento por 113.77 EUR (original: 229.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.55
 comparePrice: 41.37 EUR
 inStock: true
-prodname: Faro Barcelona Nautica 71138 - Colgante  11W  metal y difusor de cristal opal
+prodname: 'Faro Barcelona Nautica 71138 - Colgante  11W  metal y difusor de cristal opal'
 ---
 
 Está [Faro Barcelona Nautica 71138 - Colgante  11W  metal y difusor de cristal opal](https://www.amazon.es/dp/B00BEH4C5C/?tag=tolees-21) con 50.33 de descuento por 20.55 EUR (original: 41.37 EUR) en el siguiente enlace!

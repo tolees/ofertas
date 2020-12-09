@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Pacyer Carcasa Galaxy Note 8 Funda Modelo inteligente Fecha Hora Ver Espejo Brillante tirón del caso duro Con del sueño Despierte Función para Note 8  Azul 
+prodname: 'Pacyer Carcasa Galaxy Note 8 Funda Modelo inteligente Fecha Hora Ver Espejo Brillante tirón del caso duro Con del sueño Despierte Función para Note 8  Azul '
 ---
 
 Ahora mismo tienes [Pacyer Carcasa Galaxy Note 8 Funda Modelo inteligente Fecha Hora Ver Espejo Brillante tirón del caso duro Con del sueño Despierte Función para Note 8  Azul ](https://www.amazon.es/dp/B07CHKCB2B/?tag=tolees-21) a 12.99 EUR (original: 18.99 EUR) (31.60 %  de descuento) en el siguiente enlace!

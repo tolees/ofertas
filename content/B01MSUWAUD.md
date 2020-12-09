@@ -14,7 +14,7 @@ currency: EUR
 price: 34.9
 comparePrice: 47.9 EUR
 inStock: true
-prodname: Cecotec 04046  Power Titanium - Batidora americana de vaso  Cristal Termorresistente  1250 W   5 niveles de Potencia + Turbo  Cuchilla de 6 hojas de titanio  1 8 L
+prodname: 'Cecotec 04046  Power Titanium - Batidora americana de vaso  Cristal Termorresistente  1250 W   5 niveles de Potencia + Turbo  Cuchilla de 6 hojas de titanio  1 8 L'
 ---
 
 Ahora mismo tienes [Cecotec 04046  Power Titanium - Batidora americana de vaso  Cristal Termorresistente  1250 W   5 niveles de Potencia + Turbo  Cuchilla de 6 hojas de titanio  1 8 L](https://www.amazon.es/dp/B01MSUWAUD/?tag=tolees-21) a 34.9 EUR (original: 47.9 EUR) (27.14 %  de descuento) en el siguiente enlace!

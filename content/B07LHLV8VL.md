@@ -14,7 +14,7 @@ currency: EUR
 price: 47.95
 comparePrice: 70 EUR
 inStock: true
-prodname: The North Face Crew Jersey de Cuello Redondo Drew Peak  Hombre  Urban Navy/Fiery Red  S
+prodname: 'The North Face Crew Jersey de Cuello Redondo Drew Peak  Hombre  Urban Navy/Fiery Red  S'
 ---
 
 Está [The North Face Crew Jersey de Cuello Redondo Drew Peak  Hombre  Urban Navy/Fiery Red  S](https://www.amazon.es/dp/B07LHLV8VL/?tag=tolees-21) con 31.50 de descuento por 47.95 EUR (original: 70 EUR) en el siguiente enlace!

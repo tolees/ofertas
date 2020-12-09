@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.23 EUR
 inStock: true
-prodname: Cala para Look con tornillos Look Keo-Grip gris  juego 
+prodname: 'Cala para Look con tornillos Look Keo-Grip gris  juego '
 ---
 
 Tienes [Cala para Look con tornillos Look Keo-Grip gris  juego ](https://www.amazon.es/dp/B001CHRPGM/?tag=tolees-21) con un 27.25 % de descuento con precio de oferta de 13.99 EUR (original: 19.23 EUR) en el siguiente enlace!

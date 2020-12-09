@@ -14,7 +14,7 @@ currency: EUR
 price: 26.52
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Levi s kids Nn26587 Short Bañador  Blanco  White 01   4 años  Talla del Fabricante: 4Y  para Niñas
+prodname: 'Levi s kids Nn26587 Short Bañador  Blanco  White 01   4 años  Talla del Fabricante: 4Y  para Niñas'
 ---
 
 Tienes [Levi s kids Nn26587 Short Bañador  Blanco  White 01   4 años  Talla del Fabricante: 4Y  para Niñas](https://www.amazon.es/dp/B07K59WPMQ/?tag=tolees-21) con un 46.91 % de descuento con precio de oferta de 26.52 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 56.54
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Quiksilver Estate Pantalones de Nieve  Hombre  Negro  XXL
+prodname: 'Quiksilver Estate Pantalones de Nieve  Hombre  Negro  XXL'
 ---
 
 Ahora mismo tienes [Quiksilver Estate Pantalones de Nieve  Hombre  Negro  XXL](https://www.amazon.es/dp/B07DHT2BFW/?tag=tolees-21) a 56.54 EUR (original: 129.99 EUR) (56.50 %  de descuento) en el siguiente enlace!

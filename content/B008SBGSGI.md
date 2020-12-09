@@ -14,7 +14,7 @@ currency: EUR
 price: 27.6
 comparePrice: 55.8 EUR
 inStock: true
-prodname: Balenciaga Florabotanica Eau de Parfum - 30 ml
+prodname: 'Balenciaga Florabotanica Eau de Parfum - 30 ml'
 ---
 
 Tienes [Balenciaga Florabotanica Eau de Parfum - 30 ml](https://www.amazon.es/dp/B008SBGSGI/?tag=tolees-21) con un 50.54 % de descuento con precio de oferta de 27.6 EUR (original: 55.8 EUR) en el siguiente enlace!

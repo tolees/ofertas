@@ -14,7 +14,7 @@ currency: EUR
 price: 31.67
 comparePrice: 70 EUR
 inStock: true
-prodname: FIND Chaquetón Efecto Piel Vuelta para Hombre  Gris  Grau   Small
+prodname: 'FIND Chaquetón Efecto Piel Vuelta para Hombre  Gris  Grau   Small'
 ---
 
 Está [FIND Chaquetón Efecto Piel Vuelta para Hombre  Gris  Grau   Small](https://www.amazon.es/dp/B073QMNQXR/?tag=tolees-21) con 54.76 de descuento por 31.67 EUR (original: 70 EUR) en el siguiente enlace!

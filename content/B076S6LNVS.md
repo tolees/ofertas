@@ -14,7 +14,7 @@ currency: EUR
 price: 8.45
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield Camisa Cuadros Camisa Casual  Hombre  Verde  Greens   X-Large  Tamaño del Fabricante:XL 
+prodname: 'Springfield Camisa Cuadros Camisa Casual  Hombre  Verde  Greens   X-Large  Tamaño del Fabricante:XL '
 ---
 
 Ahora mismo tienes [Springfield Camisa Cuadros Camisa Casual  Hombre  Verde  Greens   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B076S6LNVS/?tag=tolees-21) a 8.45 EUR (original: 29.99 EUR) (71.82 %  de descuento) en el siguiente enlace!

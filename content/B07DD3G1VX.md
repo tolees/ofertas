@@ -14,7 +14,7 @@ currency: EUR
 price: 16.96
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Refresh 64673  Botines para Mujer  Marrón  40 EU
+prodname: 'Refresh 64673  Botines para Mujer  Marrón  40 EU'
 ---
 
 Está [Refresh 64673  Botines para Mujer  Marrón  40 EU](https://www.amazon.es/dp/B07DD3G1VX/?tag=tolees-21) con 66.05 de descuento por 16.96 EUR (original: 49.95 EUR) en el siguiente enlace!

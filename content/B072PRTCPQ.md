@@ -14,7 +14,7 @@ currency: EUR
 price: 12.2
 comparePrice: 21.95 EUR
 inStock: true
-prodname: Buff Tip Logo ThermoNet Tubular  Unisex Adulto  Gris  Talla Única
+prodname: 'Buff Tip Logo ThermoNet Tubular  Unisex Adulto  Gris  Talla Única'
 ---
 
 Ahora mismo tienes [Buff Tip Logo ThermoNet Tubular  Unisex Adulto  Gris  Talla Única](https://www.amazon.es/dp/B072PRTCPQ/?tag=tolees-21) a 12.2 EUR (original: 21.95 EUR) (44.42 %  de descuento) en el siguiente enlace!

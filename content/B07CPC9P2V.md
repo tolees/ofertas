@@ -14,7 +14,7 @@ currency: EUR
 price: 32.82
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Hitman - Definitive Edition Day One
+prodname: 'Hitman - Definitive Edition Day One'
 ---
 
 Está [Hitman - Definitive Edition Day One](https://www.amazon.es/dp/B07CPC9P2V/?tag=tolees-21) con 45.29 de descuento por 32.82 EUR (original: 59.99 EUR) en el siguiente enlace!

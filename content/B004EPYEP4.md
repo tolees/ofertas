@@ -14,7 +14,7 @@ currency: EUR
 price: 19.49
 comparePrice: 26.9 EUR
 inStock: true
-prodname: Scitec Nutrition Whey Protein Professional Proteína con Sabor de Chocolate Avellana - 920 g
+prodname: 'Scitec Nutrition Whey Protein Professional Proteína con Sabor de Chocolate Avellana - 920 g'
 ---
 
 Tienes [Scitec Nutrition Whey Protein Professional Proteína con Sabor de Chocolate Avellana - 920 g](https://www.amazon.es/dp/B004EPYEP4/?tag=tolees-21) con un 27.55 % de descuento con precio de oferta de 19.49 EUR (original: 26.9 EUR) en el siguiente enlace!

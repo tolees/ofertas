@@ -14,7 +14,7 @@ currency: EUR
 price: 7.09
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Eachy Compatible con Cristal Templado Samsung Galaxy J3 2017 Vidrio Templado  [2 Unidades] Protector de Pantalla Samsung Galaxy J3 2017 SM-J330  Cobertura Completa 5.0 Pulgadas-Negro
+prodname: 'Eachy Compatible con Cristal Templado Samsung Galaxy J3 2017 Vidrio Templado  [2 Unidades] Protector de Pantalla Samsung Galaxy J3 2017 SM-J330  Cobertura Completa 5.0 Pulgadas-Negro'
 ---
 
 Tienes [Eachy Compatible con Cristal Templado Samsung Galaxy J3 2017 Vidrio Templado  [2 Unidades] Protector de Pantalla Samsung Galaxy J3 2017 SM-J330  Cobertura Completa 5.0 Pulgadas-Negro](https://www.amazon.es/dp/B07QXKK6V3/?tag=tolees-21) con un 62.66 % de descuento con precio de oferta de 7.09 EUR (original: 18.99 EUR) en el siguiente enlace!

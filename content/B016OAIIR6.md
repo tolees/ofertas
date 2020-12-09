@@ -14,7 +14,7 @@ currency: EUR
 price: 8.46
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Maybelline New York EyeStudio  Paleta de Sombras de Ojos  12 Colores  01 Blushed Nudes
+prodname: 'Maybelline New York EyeStudio  Paleta de Sombras de Ojos  12 Colores  01 Blushed Nudes'
 ---
 
 Tienes [Maybelline New York EyeStudio  Paleta de Sombras de Ojos  12 Colores  01 Blushed Nudes](https://www.amazon.es/dp/B016OAIIR6/?tag=tolees-21) con un 34.87 % de descuento con precio de oferta de 8.46 EUR (original: 12.99 EUR) en el siguiente enlace!

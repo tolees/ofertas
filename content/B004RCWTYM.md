@@ -14,7 +14,7 @@ currency: EUR
 price: 5.54
 comparePrice: 16.95 EUR
 inStock: true
-prodname: Kingston MBLY4G2/32GB - Tarjeta Micro SDHC de 32 GB  Clase 4  con adaptador SD y lector USB
+prodname: 'Kingston MBLY4G2/32GB - Tarjeta Micro SDHC de 32 GB  Clase 4  con adaptador SD y lector USB'
 ---
 
 Tienes [Kingston MBLY4G2/32GB - Tarjeta Micro SDHC de 32 GB  Clase 4  con adaptador SD y lector USB](https://www.amazon.es/dp/B004RCWTYM/?tag=tolees-21) con un 67.32 % de descuento con precio de oferta de 5.54 EUR (original: 16.95 EUR) en el siguiente enlace!

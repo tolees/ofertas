@@ -14,7 +14,7 @@ currency: EUR
 price: 70.71
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia FIRE VENTURE S II Botas de senderismo impermeables para mujer  Beige Elk  Beet   36 EU
+prodname: 'Columbia FIRE VENTURE S II Botas de senderismo impermeables para mujer  Beige Elk  Beet   36 EU'
 ---
 
 Está [Columbia FIRE VENTURE S II Botas de senderismo impermeables para mujer  Beige Elk  Beet   36 EU](https://www.amazon.es/dp/B07JHX6WZ6/?tag=tolees-21) con 41.07 de descuento por 70.71 EUR (original: 119.99 EUR) en el siguiente enlace!

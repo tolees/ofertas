@@ -14,7 +14,7 @@ currency: EUR
 price: 14.39
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Plancha de Pelo Profesional  Planchas Para el Cabello 2 en 1 Con Placas de Cerámica  Planchas Para Todo Tipo de Cabello oro rosa
+prodname: 'Plancha de Pelo Profesional  Planchas Para el Cabello 2 en 1 Con Placas de Cerámica  Planchas Para Todo Tipo de Cabello oro rosa'
 ---
 
 Ahora mismo tienes [Plancha de Pelo Profesional  Planchas Para el Cabello 2 en 1 Con Placas de Cerámica  Planchas Para Todo Tipo de Cabello oro rosa](https://www.amazon.es/dp/B07XBKQ9NB/?tag=tolees-21) a 14.39 EUR (original: 24.99 EUR) (42.42 %  de descuento) en el siguiente enlace!

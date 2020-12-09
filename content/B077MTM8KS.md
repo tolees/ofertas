@@ -14,7 +14,7 @@ currency: EUR
 price: 37.11
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Puma Enzo Nf Mid  Zapatillas de Cross para Hombre  Blanco White-Quarry  42 EU
+prodname: 'Puma Enzo Nf Mid  Zapatillas de Cross para Hombre  Blanco White-Quarry  42 EU'
 ---
 
 Tienes [Puma Enzo Nf Mid  Zapatillas de Cross para Hombre  Blanco White-Quarry  42 EU](https://www.amazon.es/dp/B077MTM8KS/?tag=tolees-21) con un 53.58 % de descuento con precio de oferta de 37.11 EUR (original: 79.95 EUR) en el siguiente enlace!

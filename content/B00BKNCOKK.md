@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.68 EUR
 inStock: true
-prodname: Geomag Classic Glitter Construcciones magnéticas y juegos educativos  30 piezas  531   Multicolor
+prodname: 'Geomag Classic Glitter Construcciones magnéticas y juegos educativos  30 piezas  531   Multicolor'
 ---
 
 Está [Geomag Classic Glitter Construcciones magnéticas y juegos educativos  30 piezas  531   Multicolor](https://www.amazon.es/dp/B00BKNCOKK/?tag=tolees-21) con 28.91 de descuento por 13.99 EUR (original: 19.68 EUR) en el siguiente enlace!

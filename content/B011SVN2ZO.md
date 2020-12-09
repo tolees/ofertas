@@ -14,7 +14,7 @@ currency: EUR
 price: 15.57
 comparePrice: 25.59 EUR
 inStock: true
-prodname: Bond: Sean Connery Collection [DVD]
+prodname: 'Bond: Sean Connery Collection [DVD]'
 ---
 
 Tienes [Bond: Sean Connery Collection [DVD]](https://www.amazon.es/dp/B011SVN2ZO/?tag=tolees-21) con un 39.16 % de descuento con precio de oferta de 15.57 EUR (original: 25.59 EUR) en el siguiente enlace!

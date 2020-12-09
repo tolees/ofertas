@@ -14,7 +14,7 @@ currency: EUR
 price: 43.19
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Superdry LS 4 Pocket Field Edition Camisa  Verde  Leopard Camo AOP 3bx   XL para Hombre
+prodname: 'Superdry LS 4 Pocket Field Edition Camisa  Verde  Leopard Camo AOP 3bx   XL para Hombre'
 ---
 
 Tienes [Superdry LS 4 Pocket Field Edition Camisa  Verde  Leopard Camo AOP 3bx   XL para Hombre](https://www.amazon.es/dp/B07YLXVBR2/?tag=tolees-21) con un 52.01 % de descuento con precio de oferta de 43.19 EUR (original: 89.99 EUR) en el siguiente enlace!

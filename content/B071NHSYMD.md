@@ -14,7 +14,7 @@ currency: EUR
 price: 37
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Puma Liga Suede Perf  Zapatillas Unisex Adulto  Beige  Birch-Whisper White- Team Gold  44 EU
+prodname: 'Puma Liga Suede Perf  Zapatillas Unisex Adulto  Beige  Birch-Whisper White- Team Gold  44 EU'
 ---
 
 Tienes [Puma Liga Suede Perf  Zapatillas Unisex Adulto  Beige  Birch-Whisper White- Team Gold  44 EU](https://www.amazon.es/dp/B071NHSYMD/?tag=tolees-21) con un 53.72 % de descuento con precio de oferta de 37 EUR (original: 79.95 EUR) en el siguiente enlace!

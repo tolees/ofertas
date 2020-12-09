@@ -14,7 +14,7 @@ currency: EUR
 price: 15.52
 comparePrice: 39 EUR
 inStock: true
-prodname: Call It Spring EU Borewiel  Zapatos de tacón con Punta Abierta para Mujer  Rojo  Foxglove 651   39 EU
+prodname: 'Call It Spring EU Borewiel  Zapatos de tacón con Punta Abierta para Mujer  Rojo  Foxglove 651   39 EU'
 ---
 
 Ahora mismo tienes [Call It Spring EU Borewiel  Zapatos de tacón con Punta Abierta para Mujer  Rojo  Foxglove 651   39 EU](https://www.amazon.es/dp/B07DPCGR54/?tag=tolees-21) a 15.52 EUR (original: 39 EUR) (60.21 %  de descuento) en el siguiente enlace!

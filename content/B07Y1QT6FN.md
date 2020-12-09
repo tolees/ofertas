@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Leggings de yoga para mujer  talle alto  bolsillos para efecto faja  pantalones de entrenamiento  pantalones informales  Mujer  Jcjf.smh.negro  extra-large
+prodname: 'Leggings de yoga para mujer  talle alto  bolsillos para efecto faja  pantalones de entrenamiento  pantalones informales  Mujer  Jcjf.smh.negro  extra-large'
 ---
 
 Está [Leggings de yoga para mujer  talle alto  bolsillos para efecto faja  pantalones de entrenamiento  pantalones informales  Mujer  Jcjf.smh.negro  extra-large](https://www.amazon.es/dp/B07Y1QT6FN/?tag=tolees-21) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 85.49
 comparePrice: 150 EUR
 inStock: true
-prodname: The North Face T0A3X6 Chaqueta Sangro  Mujer  TNF Black  XL
+prodname: 'The North Face T0A3X6 Chaqueta Sangro  Mujer  TNF Black  XL'
 ---
 
 Tienes [The North Face T0A3X6 Chaqueta Sangro  Mujer  TNF Black  XL](https://www.amazon.es/dp/B00F2HPCUO/?tag=tolees-21) con un 43.01 % de descuento con precio de oferta de 85.49 EUR (original: 150 EUR) en el siguiente enlace!

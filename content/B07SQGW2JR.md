@@ -14,7 +14,7 @@ currency: EUR
 price: 27.08
 comparePrice: 119.9 EUR
 inStock: true
-prodname: Geox D Vega A  Zapatillas para Mujer  Blanco  Off White and White C1209   41 EU
+prodname: 'Geox D Vega A  Zapatillas para Mujer  Blanco  Off White and White C1209   41 EU'
 ---
 
 Ahora mismo tienes [Geox D Vega A  Zapatillas para Mujer  Blanco  Off White and White C1209   41 EU](https://www.amazon.es/dp/B07SQGW2JR/?tag=tolees-21) a 27.08 EUR (original: 119.9 EUR) (77.41 %  de descuento) en el siguiente enlace!

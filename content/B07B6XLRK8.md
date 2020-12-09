@@ -14,7 +14,7 @@ currency: EUR
 price: 26.75
 comparePrice: 70 EUR
 inStock: true
-prodname: New Balance 480  Zapatillas de Running para Mujer  Azul  Enamel Blue/Polaris/Pigment Le6   40 EU
+prodname: 'New Balance 480  Zapatillas de Running para Mujer  Azul  Enamel Blue/Polaris/Pigment Le6   40 EU'
 ---
 
 Está [New Balance 480  Zapatillas de Running para Mujer  Azul  Enamel Blue/Polaris/Pigment Le6   40 EU](https://www.amazon.es/dp/B07B6XLRK8/?tag=tolees-21) con 61.79 de descuento por 26.75 EUR (original: 70 EUR) en el siguiente enlace!

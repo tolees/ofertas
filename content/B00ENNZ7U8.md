@@ -14,7 +14,7 @@ currency: EUR
 price: 35.04
 comparePrice: 59.91 EUR
 inStock: true
-prodname: Sony SF64U - Tarjeta SDXC de 64 GB  90 MB/S 
+prodname: 'Sony SF64U - Tarjeta SDXC de 64 GB  90 MB/S '
 ---
 
 Tienes [Sony SF64U - Tarjeta SDXC de 64 GB  90 MB/S ](https://www.amazon.es/dp/B00ENNZ7U8/?tag=tolees-21) con un 41.51 % de descuento con precio de oferta de 35.04 EUR (original: 59.91 EUR) en el siguiente enlace!

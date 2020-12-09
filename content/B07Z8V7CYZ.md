@@ -14,7 +14,7 @@ currency: EUR
 price: 38.21
 comparePrice: 56.16 EUR
 inStock: true
-prodname: Vohoney Árbol de Navidad artificial plegable con lentejuelas  árbol de Navidad artificial para plata  150 cm
+prodname: 'Vohoney Árbol de Navidad artificial plegable con lentejuelas  árbol de Navidad artificial para plata  150 cm'
 ---
 
 Está [Vohoney Árbol de Navidad artificial plegable con lentejuelas  árbol de Navidad artificial para plata  150 cm](https://www.amazon.es/dp/B07Z8V7CYZ/?tag=tolees-21) con 31.96 de descuento por 38.21 EUR (original: 56.16 EUR) en el siguiente enlace!

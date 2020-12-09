@@ -14,7 +14,7 @@ currency: EUR
 price: 4.74
 comparePrice: 12.62 EUR
 inStock: true
-prodname: Star Trek 9: L insurrezione  Steelbook   Blu-Ray  [Italia] [Blu-ray]
+prodname: 'Star Trek 9: L insurrezione  Steelbook   Blu-Ray  [Italia] [Blu-ray]'
 ---
 
 Tienes [Star Trek 9: L insurrezione  Steelbook   Blu-Ray  [Italia] [Blu-ray]](https://www.amazon.es/dp/B01F3SKUD0/?tag=tolees-21) con un 62.44 % de descuento con precio de oferta de 4.74 EUR (original: 12.62 EUR) en el siguiente enlace!

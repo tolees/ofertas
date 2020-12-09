@@ -14,7 +14,7 @@ currency: EUR
 price: 48.09
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Adidas Crazytrain Pro 3.0 M  Zapatillas de Deporte para Hombre  Gris  Carbon/Negbas/Naalre 000   40 EU
+prodname: 'Adidas Crazytrain Pro 3.0 M  Zapatillas de Deporte para Hombre  Gris  Carbon/Negbas/Naalre 000   40 EU'
 ---
 
 Tienes [Adidas Crazytrain Pro 3.0 M  Zapatillas de Deporte para Hombre  Gris  Carbon/Negbas/Naalre 000   40 EU](https://www.amazon.es/dp/B073RJLS8Z/?tag=tolees-21) con un 51.89 % de descuento con precio de oferta de 48.09 EUR (original: 99.95 EUR) en el siguiente enlace!

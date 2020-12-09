@@ -14,7 +14,7 @@ currency: EUR
 price: 114.99
 comparePrice: 299.99 EUR
 inStock: true
-prodname: Aobosi Slow Juicer Licuadora para Fruta y Verdura de Prensado en Frio Extractor de Jugos para Fruta Entera con Baja Velocidad de 45RPM Tapa Antigoteo Sin BPA Incluye Frascos y Cepillo
+prodname: 'Aobosi Slow Juicer Licuadora para Fruta y Verdura de Prensado en Frio Extractor de Jugos para Fruta Entera con Baja Velocidad de 45RPM Tapa Antigoteo Sin BPA Incluye Frascos y Cepillo'
 ---
 
 Está [Aobosi Slow Juicer Licuadora para Fruta y Verdura de Prensado en Frio Extractor de Jugos para Fruta Entera con Baja Velocidad de 45RPM Tapa Antigoteo Sin BPA Incluye Frascos y Cepillo](https://www.amazon.es/dp/B07JN4WQ3G/?tag=tolees-21) con 61.67 de descuento por 114.99 EUR (original: 299.99 EUR) en el siguiente enlace!

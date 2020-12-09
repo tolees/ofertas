@@ -14,7 +14,7 @@ currency: EUR
 price: 74.99
 comparePrice: 100 EUR
 inStock: true
-prodname: Smartphone Libres V mobile S9 5.85 Pulgada Batería 3800mAh 16GB ROM 2GB RAM Moviles Libres 3G+ Android 7 Quad Core Ofertas del Dia Dual Cámara 13MP 5MP Face ID Dual SIM GPS  Oro 
+prodname: 'Smartphone Libres V mobile S9 5.85 Pulgada Batería 3800mAh 16GB ROM 2GB RAM Moviles Libres 3G+ Android 7 Quad Core Ofertas del Dia Dual Cámara 13MP 5MP Face ID Dual SIM GPS  Oro '
 ---
 
 Tienes [Smartphone Libres V mobile S9 5.85 Pulgada Batería 3800mAh 16GB ROM 2GB RAM Moviles Libres 3G+ Android 7 Quad Core Ofertas del Dia Dual Cámara 13MP 5MP Face ID Dual SIM GPS  Oro ](https://www.amazon.es/dp/B07MBMTXB1/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 74.99 EUR (original: 100 EUR) en el siguiente enlace!

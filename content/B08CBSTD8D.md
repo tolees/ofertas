@@ -14,7 +14,7 @@ currency: EUR
 price: 49.35
 comparePrice: 65.8 EUR
 inStock: true
-prodname: L Or Café Espresso Splendente - Intensidad 7 - 200 Cápsulas de aluminio compatibles con cafeteras Nespresso®* - 20 Unidades
+prodname: 'L Or Café Espresso Splendente - Intensidad 7 - 200 Cápsulas de aluminio compatibles con cafeteras Nespresso®* - 20 Unidades'
 ---
 
 Está [L Or Café Espresso Splendente - Intensidad 7 - 200 Cápsulas de aluminio compatibles con cafeteras Nespresso®* - 20 Unidades](https://www.amazon.es/dp/B08CBSTD8D/?tag=tolees-21) con 25.00 de descuento por 49.35 EUR (original: 65.8 EUR) en el siguiente enlace!

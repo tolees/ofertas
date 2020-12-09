@@ -14,7 +14,7 @@ currency: EUR
 price: 14.92
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Puma ESS Logo Pants  Mujer  Dark Gray Heather  XL
+prodname: 'Puma ESS Logo Pants  Mujer  Dark Gray Heather  XL'
 ---
 
 Tienes [Puma ESS Logo Pants  Mujer  Dark Gray Heather  XL](https://www.amazon.es/dp/B07DDCW4WK/?tag=tolees-21) con un 50.18 % de descuento con precio de oferta de 14.92 EUR (original: 29.95 EUR) en el siguiente enlace!

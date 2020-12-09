@@ -14,7 +14,7 @@ currency: EUR
 price: 17.24
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Iris & Lilly Bañador con Espalda Cruzada Mujer  Morado  Purple Khaki   85A  Talla del fabricante: X-Small 
+prodname: 'Iris & Lilly Bañador con Espalda Cruzada Mujer  Morado  Purple Khaki   85A  Talla del fabricante: X-Small '
 ---
 
 Está [Iris & Lilly Bañador con Espalda Cruzada Mujer  Morado  Purple Khaki   85A  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B07CG7PXBS/?tag=tolees-21) con 25.01 de descuento por 17.24 EUR (original: 22.99 EUR) en el siguiente enlace!

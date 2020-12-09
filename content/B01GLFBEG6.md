@@ -14,7 +14,7 @@ currency: EUR
 price: 28.48
 comparePrice: 149 EUR
 inStock: true
-prodname: Carrera Junior CARRERINO 16 JI D28  Gafas de sol Unisex-Niño  Negro  Shiny Black/Grey Silver Fl  49
+prodname: 'Carrera Junior CARRERINO 16 JI D28  Gafas de sol Unisex-Niño  Negro  Shiny Black/Grey Silver Fl  49'
 ---
 
 Está [Carrera Junior CARRERINO 16 JI D28  Gafas de sol Unisex-Niño  Negro  Shiny Black/Grey Silver Fl  49](https://www.amazon.es/dp/B01GLFBEG6/?tag=tolees-21) con 80.89 de descuento por 28.48 EUR (original: 149 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.89
 comparePrice: 44.02 EUR
 inStock: true
-prodname: Gola Ama202  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Navy We   47 EU
+prodname: 'Gola Ama202  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Navy We   47 EU'
 ---
 
 Tienes [Gola Ama202  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Navy We   47 EU](https://www.amazon.es/dp/B00ZT33NKW/?tag=tolees-21) con un 70.72 % de descuento con precio de oferta de 12.89 EUR (original: 44.02 EUR) en el siguiente enlace!

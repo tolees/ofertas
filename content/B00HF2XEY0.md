@@ -14,7 +14,7 @@ currency: EUR
 price: 29.18
 comparePrice: 46.78 EUR
 inStock: true
-prodname: Kärcher Prolongación de manguera de aspiración de 35m  2.863-001.0 
+prodname: 'Kärcher Prolongación de manguera de aspiración de 35m  2.863-001.0 '
 ---
 
 Tienes [Kärcher Prolongación de manguera de aspiración de 35m  2.863-001.0 ](https://www.amazon.es/dp/B00HF2XEY0/?tag=tolees-21) con un 37.62 % de descuento con precio de oferta de 29.18 EUR (original: 46.78 EUR) en el siguiente enlace!

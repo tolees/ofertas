@@ -14,7 +14,7 @@ currency: EUR
 price: 15.07
 comparePrice: 35 EUR
 inStock: true
-prodname: Pepe Jeans Maria Pl504083 Camiseta  Gris  Light Grey Marl 913   Small para Mujer
+prodname: 'Pepe Jeans Maria Pl504083 Camiseta  Gris  Light Grey Marl 913   Small para Mujer'
 ---
 
 Está [Pepe Jeans Maria Pl504083 Camiseta  Gris  Light Grey Marl 913   Small para Mujer](https://www.amazon.es/dp/B07NC7ST1X/?tag=tolees-21) con 56.94 de descuento por 15.07 EUR (original: 35 EUR) en el siguiente enlace!

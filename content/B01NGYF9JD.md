@@ -14,7 +14,7 @@ currency: EUR
 price: 98.98
 comparePrice: 149.95 EUR
 inStock: true
-prodname: WORX WX176 - Taladro Atornillador 20V 2Ah doble cabezal
+prodname: 'WORX WX176 - Taladro Atornillador 20V 2Ah doble cabezal'
 ---
 
 Tienes [WORX WX176 - Taladro Atornillador 20V 2Ah doble cabezal](https://www.amazon.es/dp/B01NGYF9JD/?tag=tolees-21) con un 33.99 % de descuento con precio de oferta de 98.98 EUR (original: 149.95 EUR) en el siguiente enlace!

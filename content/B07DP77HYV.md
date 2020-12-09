@@ -14,7 +14,7 @@ currency: EUR
 price: 12.5
 comparePrice: 25 EUR
 inStock: true
-prodname: Eastpak Buddy Bolso Bandolera  18 cm  0.5 Liters  Negro  Brize Dark 
+prodname: 'Eastpak Buddy Bolso Bandolera  18 cm  0.5 Liters  Negro  Brize Dark '
 ---
 
 Ahora mismo tienes [Eastpak Buddy Bolso Bandolera  18 cm  0.5 Liters  Negro  Brize Dark ](https://www.amazon.es/dp/B07DP77HYV/?tag=tolees-21) a 12.5 EUR (original: 25 EUR) (50.00 %  de descuento) en el siguiente enlace!

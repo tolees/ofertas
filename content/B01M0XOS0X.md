@@ -14,7 +14,7 @@ currency: EUR
 price: 23.55
 comparePrice: 39 EUR
 inStock: true
-prodname: American Tourister City Drift Bolsa Portaordenador 14 1"  10 litros  Color Negro/Gris
+prodname: 'American Tourister City Drift Bolsa Portaordenador 14 1"  10 litros  Color Negro/Gris'
 ---
 
 Tienes [American Tourister City Drift Bolsa Portaordenador 14 1"  10 litros  Color Negro/Gris](https://www.amazon.es/dp/B01M0XOS0X/?tag=tolees-21) con un 39.62 % de descuento con precio de oferta de 23.55 EUR (original: 39 EUR) en el siguiente enlace!

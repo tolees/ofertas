@@ -14,7 +14,7 @@ currency: EUR
 price: 11
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Mike Ellis New York M3096/1 - Reloj de Pulsera Hombre  Silicona  Color Negro
+prodname: 'Mike Ellis New York M3096/1 - Reloj de Pulsera Hombre  Silicona  Color Negro'
 ---
 
 Tienes [Mike Ellis New York M3096/1 - Reloj de Pulsera Hombre  Silicona  Color Negro](https://www.amazon.es/dp/B00GY8CLHC/?tag=tolees-21) con un 81.65 % de descuento con precio de oferta de 11 EUR (original: 59.95 EUR) en el siguiente enlace!

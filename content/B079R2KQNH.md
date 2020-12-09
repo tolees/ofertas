@@ -14,7 +14,7 @@ currency: EUR
 price: 57.99
 comparePrice: 86.0 EUR
 inStock: true
-prodname: Sharp HT-SB110 - Barra de sonido cine en casa  Bluetooth  HDMI  ARC/CEC  90 W de potencia  80 cm  color negro
+prodname: 'Sharp HT-SB110 - Barra de sonido cine en casa  Bluetooth  HDMI  ARC/CEC  90 W de potencia  80 cm  color negro'
 ---
 
 Está [Sharp HT-SB110 - Barra de sonido cine en casa  Bluetooth  HDMI  ARC/CEC  90 W de potencia  80 cm  color negro](https://www.amazon.es/dp/B079R2KQNH/?tag=tolees-21) con 32.57 de descuento por 57.99 EUR (original: 86.0 EUR) en el siguiente enlace!

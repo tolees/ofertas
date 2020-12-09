@@ -14,7 +14,7 @@ currency: EUR
 price: 38.81
 comparePrice: 80 EUR
 inStock: true
-prodname: Under Armour UA Magnetico Select In  Zapatillas de Fútbol para Hombre  Rojo Radio Red/Black 600  45.5 EU
+prodname: 'Under Armour UA Magnetico Select In  Zapatillas de Fútbol para Hombre  Rojo Radio Red/Black 600  45.5 EU'
 ---
 
 Tienes [Under Armour UA Magnetico Select In  Zapatillas de Fútbol para Hombre  Rojo Radio Red/Black 600  45.5 EU](https://www.amazon.es/dp/B07BHBHJDT/?tag=tolees-21) con un 51.49 % de descuento con precio de oferta de 38.81 EUR (original: 80 EUR) en el siguiente enlace!

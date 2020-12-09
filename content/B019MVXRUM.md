@@ -14,7 +14,7 @@ currency: EUR
 price: 25.16
 comparePrice: 35.45 EUR
 inStock: true
-prodname: Stabilo Woody 3 en 1 Lápiz multitalento - Estuche con 18 colores y sacapuntas  Multicolor
+prodname: 'Stabilo Woody 3 en 1 Lápiz multitalento - Estuche con 18 colores y sacapuntas  Multicolor'
 ---
 
 Tienes [Stabilo Woody 3 en 1 Lápiz multitalento - Estuche con 18 colores y sacapuntas  Multicolor](https://www.amazon.es/dp/B019MVXRUM/?tag=tolees-21) con un 29.03 % de descuento con precio de oferta de 25.16 EUR (original: 35.45 EUR) en el siguiente enlace!

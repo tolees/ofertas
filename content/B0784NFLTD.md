@@ -14,7 +14,7 @@ currency: EUR
 price: 16.64
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Esprit 038ee1f012 Blusa   Off White 110   40  Talla del Fabricante: 38  para Mujer
+prodname: 'Esprit 038ee1f012 Blusa   Off White 110   40  Talla del Fabricante: 38  para Mujer'
 ---
 
 Ahora mismo tienes [Esprit 038ee1f012 Blusa   Off White 110   40  Talla del Fabricante: 38  para Mujer](https://www.amazon.es/dp/B0784NFLTD/?tag=tolees-21) a 16.64 EUR (original: 39.99 EUR) (58.39 %  de descuento) en el siguiente enlace!

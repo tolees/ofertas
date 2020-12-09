@@ -14,7 +14,7 @@ currency: EUR
 price: 39.54
 comparePrice: 130 EUR
 inStock: true
-prodname: Hackett London Light Wash CL Denim NS  Vaqueros Straight para Hombre  Azul  33W / 32L
+prodname: 'Hackett London Light Wash CL Denim NS  Vaqueros Straight para Hombre  Azul  33W / 32L'
 ---
 
 Ahora mismo tienes [Hackett London Light Wash CL Denim NS  Vaqueros Straight para Hombre  Azul  33W / 32L](https://www.amazon.es/dp/B079QCQHFC/?tag=tolees-21) a 39.54 EUR (original: 130 EUR) (69.58 %  de descuento) en el siguiente enlace!

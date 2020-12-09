@@ -14,7 +14,7 @@ currency: EUR
 price: 16.98
 comparePrice: 39.99 EUR
 inStock: true
-prodname: edc by Esprit 078cc2b009  Pantalones Hombre  Gris  Dark Grey 020   W33/L32  Talla del Fabricante: 33/32 
+prodname: 'edc by Esprit 078cc2b009  Pantalones Hombre  Gris  Dark Grey 020   W33/L32  Talla del Fabricante: 33/32 '
 ---
 
 Tienes [edc by Esprit 078cc2b009  Pantalones Hombre  Gris  Dark Grey 020   W33/L32  Talla del Fabricante: 33/32 ](https://www.amazon.es/dp/B07BHDTNMJ/?tag=tolees-21) con un 57.54 % de descuento con precio de oferta de 16.98 EUR (original: 39.99 EUR) en el siguiente enlace!

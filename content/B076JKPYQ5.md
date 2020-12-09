@@ -14,7 +14,7 @@ currency: EUR
 price: 47.67
 comparePrice: 81 EUR
 inStock: true
-prodname: Nike Renew Rival  Zapatillas de Entrenamiento para Hombre   Black/White/Anthracite 001   42.5 EU
+prodname: 'Nike Renew Rival  Zapatillas de Entrenamiento para Hombre   Black/White/Anthracite 001   42.5 EU'
 ---
 
 Está [Nike Renew Rival  Zapatillas de Entrenamiento para Hombre   Black/White/Anthracite 001   42.5 EU](https://www.amazon.es/dp/B076JKPYQ5/?tag=tolees-21) con 41.15 de descuento por 47.67 EUR (original: 81 EUR) en el siguiente enlace!

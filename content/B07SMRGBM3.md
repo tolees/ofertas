@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 35.0 EUR
 inStock: true
-prodname: FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon Deportivo Alta Cintura Yoga Elásticos Fitness Seamless #1 Morado Small
+prodname: 'FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon Deportivo Alta Cintura Yoga Elásticos Fitness Seamless #1 Morado Small'
 ---
 
 Tienes [FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon Deportivo Alta Cintura Yoga Elásticos Fitness Seamless #1 Morado Small](https://www.amazon.es/dp/B07SMRGBM3/?tag=tolees-21) con un 42.89 % de descuento con precio de oferta de 19.99 EUR (original: 35.0 EUR) en el siguiente enlace!

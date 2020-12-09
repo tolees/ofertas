@@ -14,7 +14,7 @@ currency: EUR
 price: 5
 comparePrice: 10 EUR
 inStock: true
-prodname: Pandora Colgante medallon Mujer plata - 797342
+prodname: 'Pandora Colgante medallon Mujer plata - 797342'
 ---
 
 Está [Pandora Colgante medallon Mujer plata - 797342](https://www.amazon.es/dp/B07C3QGJJH/?tag=tolees-21) con 50.00 de descuento por 5 EUR (original: 10 EUR) en el siguiente enlace!

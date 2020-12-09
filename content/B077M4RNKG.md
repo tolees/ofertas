@@ -14,7 +14,7 @@ currency: EUR
 price: 12.98
 comparePrice: 19.98 EUR
 inStock: true
-prodname: HelpCuisine® infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  infusor en forma de Ornitorrinco  Juego de 2pcs + caja de regalo 
+prodname: 'HelpCuisine® infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  infusor en forma de Ornitorrinco  Juego de 2pcs + caja de regalo '
 ---
 
 Está [HelpCuisine® infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  infusor en forma de Ornitorrinco  Juego de 2pcs + caja de regalo ](https://www.amazon.es/dp/B077M4RNKG/?tag=tolees-21) con 35.04 de descuento por 12.98 EUR (original: 19.98 EUR) en el siguiente enlace!

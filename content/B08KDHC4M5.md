@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Auriculares Bluetooth 5.0  micrófono Incorporado  con Caja de Carga de 24 Horas  IPX7 a Prueba de Agua  Auriculares estéreo 3D  adecuados para iPhone/Airpods/Airpod Pro
+prodname: 'Auriculares Bluetooth 5.0  micrófono Incorporado  con Caja de Carga de 24 Horas  IPX7 a Prueba de Agua  Auriculares estéreo 3D  adecuados para iPhone/Airpods/Airpod Pro'
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth 5.0  micrófono Incorporado  con Caja de Carga de 24 Horas  IPX7 a Prueba de Agua  Auriculares estéreo 3D  adecuados para iPhone/Airpods/Airpod Pro](https://www.amazon.es/dp/B08KDHC4M5/?tag=tolees-21) a 22.99 EUR (original: 59.99 EUR) (61.68 %  de descuento) en el siguiente enlace!

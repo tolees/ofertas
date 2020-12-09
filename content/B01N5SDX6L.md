@@ -14,7 +14,7 @@ currency: EUR
 price: 16.96
 comparePrice: 37.8 EUR
 inStock: true
-prodname: American Crew Shaving Skincare Precision Gel Afeitar - 450 ml
+prodname: 'American Crew Shaving Skincare Precision Gel Afeitar - 450 ml'
 ---
 
 Ahora mismo tienes [American Crew Shaving Skincare Precision Gel Afeitar - 450 ml](https://www.amazon.es/dp/B01N5SDX6L/?tag=tolees-21) a 16.96 EUR (original: 37.8 EUR) (55.13 %  de descuento) en el siguiente enlace!

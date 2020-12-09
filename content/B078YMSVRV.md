@@ -14,7 +14,7 @@ currency: EUR
 price: 20.87
 comparePrice: 32 EUR
 inStock: true
-prodname: Emporio Armani Underwear 111389 Pantalones Cortos  Negro  Nero 00020   Large para Hombre
+prodname: 'Emporio Armani Underwear 111389 Pantalones Cortos  Negro  Nero 00020   Large para Hombre'
 ---
 
 Tienes [Emporio Armani Underwear 111389 Pantalones Cortos  Negro  Nero 00020   Large para Hombre](https://www.amazon.es/dp/B078YMSVRV/?tag=tolees-21) con un 34.78 % de descuento con precio de oferta de 20.87 EUR (original: 32 EUR) en el siguiente enlace!

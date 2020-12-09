@@ -14,7 +14,7 @@ currency: EUR
 price: 57.75
 comparePrice: 135 EUR
 inStock: true
-prodname: Lacoste Hf2510  Pantalones Para Mujer  Blanco   W42  Talla del Fabricante: 42 
+prodname: 'Lacoste Hf2510  Pantalones Para Mujer  Blanco   W42  Talla del Fabricante: 42 '
 ---
 
 Tienes [Lacoste Hf2510  Pantalones Para Mujer  Blanco   W42  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B01MG67SKT/?tag=tolees-21) con un 57.22 % de descuento con precio de oferta de 57.75 EUR (original: 135 EUR) en el siguiente enlace!

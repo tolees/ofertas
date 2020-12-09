@@ -14,7 +14,7 @@ currency: EUR
 price: 8.72
 comparePrice: 14.54 EUR
 inStock: true
-prodname: Marca Amazon - Maquinilla de afeitar femenina de 5 cuchillas Solimo con recortadora 3 en 1 y 4 cuchillas
+prodname: 'Marca Amazon - Maquinilla de afeitar femenina de 5 cuchillas Solimo con recortadora 3 en 1 y 4 cuchillas'
 ---
 
 Ahora mismo tienes [Marca Amazon - Maquinilla de afeitar femenina de 5 cuchillas Solimo con recortadora 3 en 1 y 4 cuchillas](https://www.amazon.es/dp/B081BFJGPM/?tag=tolees-21) a 8.72 EUR (original: 14.54 EUR) (40.03 %  de descuento) en el siguiente enlace!

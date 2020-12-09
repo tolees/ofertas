@@ -14,7 +14,7 @@ currency: EUR
 price: 163
 comparePrice: 287.75 EUR
 inStock: true
-prodname: Cooler Master RSC00-AFBAG1-EU - Fuente de alimentación ATX  1200W  Color Negro
+prodname: 'Cooler Master RSC00-AFBAG1-EU - Fuente de alimentación ATX  1200W  Color Negro'
 ---
 
 Tienes [Cooler Master RSC00-AFBAG1-EU - Fuente de alimentación ATX  1200W  Color Negro](https://www.amazon.es/dp/B00JY8CLX8/?tag=tolees-21) con un 43.35 % de descuento con precio de oferta de 163 EUR (original: 287.75 EUR) en el siguiente enlace!

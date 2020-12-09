@@ -14,7 +14,7 @@ currency: EUR
 price: 79.97
 comparePrice: 159.95 EUR
 inStock: true
-prodname: adidas Solar Boost M  Zapatillas de Running para Hombre  Azul  Legend Marine/Ash Grey/Hi-Res Yellow 0   45 EU
+prodname: 'adidas Solar Boost M  Zapatillas de Running para Hombre  Azul  Legend Marine/Ash Grey/Hi-Res Yellow 0   45 EU'
 ---
 
 Está [adidas Solar Boost M  Zapatillas de Running para Hombre  Azul  Legend Marine/Ash Grey/Hi-Res Yellow 0   45 EU](https://www.amazon.es/dp/B07JR1HLXZ/?tag=tolees-21) con 50.00 de descuento por 79.97 EUR (original: 159.95 EUR) en el siguiente enlace!

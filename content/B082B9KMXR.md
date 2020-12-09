@@ -14,7 +14,7 @@ currency: EUR
 price: 48.3
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Geographical Norway Polar RIAKOLO Mujer Negro 02
+prodname: 'Geographical Norway Polar RIAKOLO Mujer Negro 02'
 ---
 
 Tienes [Geographical Norway Polar RIAKOLO Mujer Negro 02](https://www.amazon.es/dp/B082B9KMXR/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 48.3 EUR (original: 69.0 EUR) en el siguiente enlace!

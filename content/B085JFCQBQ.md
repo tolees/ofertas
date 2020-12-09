@@ -14,7 +14,7 @@ currency: EUR
 price: 32.0
 comparePrice: 44.99 EUR
 inStock: true
-prodname: ADVANCE Veterinary Diets Atopic Salmón - Pienso Para Perros De Razas Medianas Y Grandes Con Problemas Atópicos con Salmón - Pack De 3 x 3kg - Total 9 Kg
+prodname: 'ADVANCE Veterinary Diets Atopic Salmón - Pienso Para Perros De Razas Medianas Y Grandes Con Problemas Atópicos con Salmón - Pack De 3 x 3kg - Total 9 Kg'
 ---
 
 Está [ADVANCE Veterinary Diets Atopic Salmón - Pienso Para Perros De Razas Medianas Y Grandes Con Problemas Atópicos con Salmón - Pack De 3 x 3kg - Total 9 Kg](https://www.amazon.es/dp/B085JFCQBQ/?tag=tolees-21) con 28.87 de descuento por 32.0 EUR (original: 44.99 EUR) en el siguiente enlace!

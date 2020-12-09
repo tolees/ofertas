@@ -14,7 +14,7 @@ currency: EUR
 price: 25.92
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Puma Flare Metal - Zapatillas de Entrenamiento Hombre  Gris - Grau  quarry-puma White 01   EU 45  UK 10.5 
+prodname: 'Puma Flare Metal - Zapatillas de Entrenamiento Hombre  Gris - Grau  quarry-puma White 01   EU 45  UK 10.5 '
 ---
 
 Tienes [Puma Flare Metal - Zapatillas de Entrenamiento Hombre  Gris - Grau  quarry-puma White 01   EU 45  UK 10.5 ](https://www.amazon.es/dp/B01DKK10NM/?tag=tolees-21) con un 69.49 % de descuento con precio de oferta de 25.92 EUR (original: 84.95 EUR) en el siguiente enlace!

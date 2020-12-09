@@ -14,7 +14,7 @@ currency: EUR
 price: 47.95
 comparePrice: 67.92 EUR
 inStock: true
-prodname: Fila Disruptor  Zapatillas  Blanco  White   39 EU
+prodname: 'Fila Disruptor  Zapatillas  Blanco  White   39 EU'
 ---
 
 Tienes [Fila Disruptor  Zapatillas  Blanco  White   39 EU](https://www.amazon.es/dp/B08CZZKCP3/?tag=tolees-21) con un 29.40 % de descuento con precio de oferta de 47.95 EUR (original: 67.92 EUR) en el siguiente enlace!

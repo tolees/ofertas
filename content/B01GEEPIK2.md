@@ -14,7 +14,7 @@ currency: EUR
 price: 3.7
 comparePrice: 10.6 EUR
 inStock: true
-prodname: oodji Ultra Hombre Camiseta Estampado Playero  Blanco  ES 50 / M
+prodname: 'oodji Ultra Hombre Camiseta Estampado Playero  Blanco  ES 50 / M'
 ---
 
 Ahora mismo tienes [oodji Ultra Hombre Camiseta Estampado Playero  Blanco  ES 50 / M](https://www.amazon.es/dp/B01GEEPIK2/?tag=tolees-21) a 3.7 EUR (original: 10.6 EUR) (65.09 %  de descuento) en el siguiente enlace!

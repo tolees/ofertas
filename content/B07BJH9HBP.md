@@ -14,7 +14,7 @@ currency: EUR
 price: 59.97
 comparePrice: 119.95 EUR
 inStock: true
-prodname: G-STAR RAW Suzaki Moto Zip Through Knit L/s  Chaqueta Punto para Hombre  Gris  Grey Htr 906  Medium
+prodname: 'G-STAR RAW Suzaki Moto Zip Through Knit L/s  Chaqueta Punto para Hombre  Gris  Grey Htr 906  Medium'
 ---
 
 Está [G-STAR RAW Suzaki Moto Zip Through Knit L/s  Chaqueta Punto para Hombre  Gris  Grey Htr 906  Medium](https://www.amazon.es/dp/B07BJH9HBP/?tag=tolees-21) con 50.00 de descuento por 59.97 EUR (original: 119.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.45
 comparePrice: 52.19 EUR
 inStock: true
-prodname: Puma Future 2.4 MG  Zapatillas de Fútbol para Hombre  Plateado Silver-Peacoat 04  45 EU
+prodname: 'Puma Future 2.4 MG  Zapatillas de Fútbol para Hombre  Plateado Silver-Peacoat 04  45 EU'
 ---
 
 Tienes [Puma Future 2.4 MG  Zapatillas de Fútbol para Hombre  Plateado Silver-Peacoat 04  45 EU](https://www.amazon.es/dp/B07DB1P4MK/?tag=tolees-21) con un 47.40 % de descuento con precio de oferta de 27.45 EUR (original: 52.19 EUR) en el siguiente enlace!

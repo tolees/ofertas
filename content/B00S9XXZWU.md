@@ -14,7 +14,7 @@ currency: EUR
 price: 23.86
 comparePrice: 43.95 EUR
 inStock: true
-prodname: Lamberts Vitamina C 1000 mg - 180 Tabletas
+prodname: 'Lamberts Vitamina C 1000 mg - 180 Tabletas'
 ---
 
 Ahora mismo tienes [Lamberts Vitamina C 1000 mg - 180 Tabletas](https://www.amazon.es/dp/B00S9XXZWU/?tag=tolees-21) a 23.86 EUR (original: 43.95 EUR) (45.71 %  de descuento) en el siguiente enlace!

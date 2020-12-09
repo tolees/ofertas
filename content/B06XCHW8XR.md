@@ -14,7 +14,7 @@ currency: EUR
 price: 63.45
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  10Oz Str 8Dip Royal Dk D45  27W / 30L
+prodname: 'Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  10Oz Str 8Dip Royal Dk D45  27W / 30L'
 ---
 
 Tienes [Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  10Oz Str 8Dip Royal Dk D45  27W / 30L](https://www.amazon.es/dp/B06XCHW8XR/?tag=tolees-21) con un 33.21 % de descuento con precio de oferta de 63.45 EUR (original: 95 EUR) en el siguiente enlace!

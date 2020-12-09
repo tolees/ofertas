@@ -14,7 +14,7 @@ currency: EUR
 price: 13.49
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Wrangler Double Loop Cinturón  Negro  Black 01   No No Aplica  Talla del fabricante: 75  para Mujer
+prodname: 'Wrangler Double Loop Cinturón  Negro  Black 01   No No Aplica  Talla del fabricante: 75  para Mujer'
 ---
 
 Ahora mismo tienes [Wrangler Double Loop Cinturón  Negro  Black 01   No No Aplica  Talla del fabricante: 75  para Mujer](https://www.amazon.es/dp/B07DHY7B5P/?tag=tolees-21) a 13.49 EUR (original: 39.95 EUR) (66.23 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.49
 comparePrice: 41.99 EUR
 inStock: true
-prodname: Peppa Pig - Vehículo Coche Deluxe
+prodname: 'Peppa Pig - Vehículo Coche Deluxe'
 ---
 
 Está [Peppa Pig - Vehículo Coche Deluxe](https://www.amazon.es/dp/B07S8CQWYK/?tag=tolees-21) con 39.30 de descuento por 25.49 EUR (original: 41.99 EUR) en el siguiente enlace!

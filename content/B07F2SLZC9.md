@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Vans Left Chest Logo tee Camiseta  Azul  Navy-White Blue Navy   Medium para Hombre
+prodname: 'Vans Left Chest Logo tee Camiseta  Azul  Navy-White Blue Navy   Medium para Hombre'
 ---
 
 Tienes [Vans Left Chest Logo tee Camiseta  Azul  Navy-White Blue Navy   Medium para Hombre](https://www.amazon.es/dp/B07F2SLZC9/?tag=tolees-21) con un 40.25 % de descuento con precio de oferta de 11.95 EUR (original: 20.0 EUR) en el siguiente enlace!

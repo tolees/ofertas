@@ -14,7 +14,7 @@ currency: EUR
 price: 100.95
 comparePrice: 190 EUR
 inStock: true
-prodname: Tecnifibre Raqueta Squash CARBOFLEX S 125
+prodname: 'Tecnifibre Raqueta Squash CARBOFLEX S 125'
 ---
 
 Tienes [Tecnifibre Raqueta Squash CARBOFLEX S 125](https://www.amazon.es/dp/B00VBUSVFY/?tag=tolees-21) con un 46.87 % de descuento con precio de oferta de 100.95 EUR (original: 190 EUR) en el siguiente enlace!

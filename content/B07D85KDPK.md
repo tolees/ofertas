@@ -14,7 +14,7 @@ currency: EUR
 price: 18.49
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Puma Fundamentals Sports Bag M Bag  Unisex Adulto  Puma Black  OSFA
+prodname: 'Puma Fundamentals Sports Bag M Bag  Unisex Adulto  Puma Black  OSFA'
 ---
 
 Tienes [Puma Fundamentals Sports Bag M Bag  Unisex Adulto  Puma Black  OSFA](https://www.amazon.es/dp/B07D85KDPK/?tag=tolees-21) con un 38.26 % de descuento con precio de oferta de 18.49 EUR (original: 29.95 EUR) en el siguiente enlace!

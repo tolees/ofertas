@@ -14,7 +14,7 @@ currency: EUR
 price: 12.88
 comparePrice: 20.8 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly Avellanas sin cáscara 2x500g
+prodname: 'Marca Amazon - Happy Belly Avellanas sin cáscara 2x500g'
 ---
 
 Está [Marca Amazon - Happy Belly Avellanas sin cáscara 2x500g](https://www.amazon.es/dp/B07QZ1LPXH/?tag=tolees-21) con 38.08 de descuento por 12.88 EUR (original: 20.8 EUR) en el siguiente enlace!

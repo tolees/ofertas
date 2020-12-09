@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 33.99 EUR
 inStock: true
-prodname: JVY Puzzles Rompecabezas Magnéticos de Madera Dibujo 165pcs+ Juguete Educativo Doble Cara El mejor regalo para Niños Niña 3 4 5
+prodname: 'JVY Puzzles Rompecabezas Magnéticos de Madera Dibujo 165pcs+ Juguete Educativo Doble Cara El mejor regalo para Niños Niña 3 4 5'
 ---
 
 Está [JVY Puzzles Rompecabezas Magnéticos de Madera Dibujo 165pcs+ Juguete Educativo Doble Cara El mejor regalo para Niños Niña 3 4 5](https://www.amazon.es/dp/B076D2DVNZ/?tag=tolees-21) con 50.01 de descuento por 16.99 EUR (original: 33.99 EUR) en el siguiente enlace!

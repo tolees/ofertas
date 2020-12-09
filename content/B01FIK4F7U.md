@@ -14,7 +14,7 @@ currency: EUR
 price: 13.97
 comparePrice: 59.95 EUR
 inStock: true
-prodname: ICHI Vestido Negro M
+prodname: 'ICHI Vestido Negro M'
 ---
 
 Está [ICHI Vestido Negro M](https://www.amazon.es/dp/B01FIK4F7U/?tag=tolees-21) con 76.70 de descuento por 13.97 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 103.6
 comparePrice: 259.0 EUR
 inStock: true
-prodname: Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona DZ4493
+prodname: 'Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona DZ4493'
 ---
 
 Tienes [Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona DZ4493](https://www.amazon.es/dp/B07CHLFFLH/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 103.6 EUR (original: 259.0 EUR) en el siguiente enlace!

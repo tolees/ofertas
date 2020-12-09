@@ -14,7 +14,7 @@ currency: EUR
 price: 38.75
 comparePrice: 78.87 EUR
 inStock: true
-prodname: Dogar Kynus Mesa Centro  Cerezo  45x110x55 cm
+prodname: 'Dogar Kynus Mesa Centro  Cerezo  45x110x55 cm'
 ---
 
 Está [Dogar Kynus Mesa Centro  Cerezo  45x110x55 cm](https://www.amazon.es/dp/B00FKW9PEA/?tag=tolees-21) con 50.87 de descuento por 38.75 EUR (original: 78.87 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 39.5 EUR
 inStock: true
-prodname: Calvin Klein Hip Brief Slip  Azul  Prov Blue/Tourney/Mood Indigo   XL  Pack de 3 para Hombre
+prodname: 'Calvin Klein Hip Brief Slip  Azul  Prov Blue/Tourney/Mood Indigo   XL  Pack de 3 para Hombre'
 ---
 
 Ahora mismo tienes [Calvin Klein Hip Brief Slip  Azul  Prov Blue/Tourney/Mood Indigo   XL  Pack de 3 para Hombre](https://www.amazon.es/dp/B07LBW7YH1/?tag=tolees-21) a 23.95 EUR (original: 39.5 EUR) (39.37 %  de descuento) en el siguiente enlace!

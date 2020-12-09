@@ -14,7 +14,7 @@ currency: EUR
 price: 10.34
 comparePrice: 25.5 EUR
 inStock: true
-prodname: David Jones - Cm5034  Bolsos totes Mujer  Negro  Black   14x27x30 cm  W x H L 
+prodname: 'David Jones - Cm5034  Bolsos totes Mujer  Negro  Black   14x27x30 cm  W x H L '
 ---
 
 Ahora mismo tienes [David Jones - Cm5034  Bolsos totes Mujer  Negro  Black   14x27x30 cm  W x H L ](https://www.amazon.es/dp/B07KCHCYTC/?tag=tolees-21) a 10.34 EUR (original: 25.5 EUR) (59.45 %  de descuento) en el siguiente enlace!

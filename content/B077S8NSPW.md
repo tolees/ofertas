@@ -14,7 +14,7 @@ currency: EUR
 price: 31.92
 comparePrice: 65 EUR
 inStock: true
-prodname: BILLABONG 73X Stripe 19 Bañador  Hombre   Naranja 60   X/Large
+prodname: 'BILLABONG 73X Stripe 19 Bañador  Hombre   Naranja 60   X/Large'
 ---
 
 Ahora mismo tienes [BILLABONG 73X Stripe 19 Bañador  Hombre   Naranja 60   X/Large](https://www.amazon.es/dp/B077S8NSPW/?tag=tolees-21) a 31.92 EUR (original: 65 EUR) (50.89 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 226.78
 comparePrice: 513 EUR
 inStock: true
-prodname: Love Moschino Coats  Abrigo Mujer   Bl/Red/Beig/WH 4062   40  Talla del Fabricante: 42 
+prodname: 'Love Moschino Coats  Abrigo Mujer   Bl/Red/Beig/WH 4062   40  Talla del Fabricante: 42 '
 ---
 
 Tienes [Love Moschino Coats  Abrigo Mujer   Bl/Red/Beig/WH 4062   40  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07DG9CR6J/?tag=tolees-21) con un 55.79 % de descuento con precio de oferta de 226.78 EUR (original: 513 EUR) en el siguiente enlace!

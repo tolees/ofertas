@@ -14,7 +14,7 @@ currency: EUR
 price: 161.95
 comparePrice: 279.99 EUR
 inStock: true
-prodname: Rowenta Silence Force MultiCyclonic RO8324EA - Aspirador sin bolsa  sistema multiciclónico ecoeficiente  depósito 2 L  boquilla ranuras cepillo parquet y tapicería  68 dB  boquilla con posiciones
+prodname: 'Rowenta Silence Force MultiCyclonic RO8324EA - Aspirador sin bolsa  sistema multiciclónico ecoeficiente  depósito 2 L  boquilla ranuras cepillo parquet y tapicería  68 dB  boquilla con posiciones'
 ---
 
 Está [Rowenta Silence Force MultiCyclonic RO8324EA - Aspirador sin bolsa  sistema multiciclónico ecoeficiente  depósito 2 L  boquilla ranuras cepillo parquet y tapicería  68 dB  boquilla con posiciones](https://www.amazon.es/dp/B00MHMAN3S/?tag=tolees-21) con 42.16 de descuento por 161.95 EUR (original: 279.99 EUR) en el siguiente enlace!

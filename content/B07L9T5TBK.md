@@ -14,7 +14,7 @@ currency: EUR
 price: 18.97
 comparePrice: 69.99 EUR
 inStock: true
-prodname: PJ JP 1880 Jeans Chino Schlupfbundhose Pantalones  Azul  Dark Denim 93   W40/L34 para Hombre
+prodname: 'PJ JP 1880 Jeans Chino Schlupfbundhose Pantalones  Azul  Dark Denim 93   W40/L34 para Hombre'
 ---
 
 Ahora mismo tienes [PJ JP 1880 Jeans Chino Schlupfbundhose Pantalones  Azul  Dark Denim 93   W40/L34 para Hombre](https://www.amazon.es/dp/B07L9T5TBK/?tag=tolees-21) a 18.97 EUR (original: 69.99 EUR) (72.90 %  de descuento) en el siguiente enlace!

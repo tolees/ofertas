@@ -14,7 +14,7 @@ currency: EUR
 price: 3.35
 comparePrice: 4.85 EUR
 inStock: true
-prodname: TRESEMMÉ champú color keratina bote 700 ml
+prodname: 'TRESEMMÉ champú color keratina bote 700 ml'
 ---
 
 Ahora mismo tienes [TRESEMMÉ champú color keratina bote 700 ml](https://www.amazon.es/dp/B07H9H2RCG/?tag=tolees-21) a 3.35 EUR (original: 4.85 EUR) (30.93 %  de descuento) en el siguiente enlace!

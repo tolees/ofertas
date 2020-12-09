@@ -14,7 +14,7 @@ currency: EUR
 price: 21.34
 comparePrice: 35 EUR
 inStock: true
-prodname: Morgan 191-dmust.n Camiseta  Negro Noir  Large  Talla del Fabricante: TL  para Mujer
+prodname: 'Morgan 191-dmust.n Camiseta  Negro Noir  Large  Talla del Fabricante: TL  para Mujer'
 ---
 
 Está [Morgan 191-dmust.n Camiseta  Negro Noir  Large  Talla del Fabricante: TL  para Mujer](https://www.amazon.es/dp/B07JNYT15R/?tag=tolees-21) con 39.03 de descuento por 21.34 EUR (original: 35 EUR) en el siguiente enlace!

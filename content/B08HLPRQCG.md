@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Lightess Lámpara de Proyector Luz Proyección Navidad de Halloween LED Efecto de Nevasca Impermeable IP65 Luces de Proyector Lámpara Exterior Decoración para Fiesta  Festivos  Año Nuevo  Jardín  S5 
+prodname: 'Lightess Lámpara de Proyector Luz Proyección Navidad de Halloween LED Efecto de Nevasca Impermeable IP65 Luces de Proyector Lámpara Exterior Decoración para Fiesta  Festivos  Año Nuevo  Jardín  S5 '
 ---
 
 Ahora mismo tienes [Lightess Lámpara de Proyector Luz Proyección Navidad de Halloween LED Efecto de Nevasca Impermeable IP65 Luces de Proyector Lámpara Exterior Decoración para Fiesta  Festivos  Año Nuevo  Jardín  S5 ](https://www.amazon.es/dp/B08HLPRQCG/?tag=tolees-21) a 22.99 EUR (original: 35.99 EUR) (36.12 %  de descuento) en el siguiente enlace!

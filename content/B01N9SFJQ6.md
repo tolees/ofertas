@@ -14,7 +14,7 @@ currency: EUR
 price: 171.75
 comparePrice: 229.0 EUR
 inStock: true
-prodname: Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F20266/1
+prodname: 'Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F20266/1'
 ---
 
 Ahora mismo tienes [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F20266/1](https://www.amazon.es/dp/B01N9SFJQ6/?tag=tolees-21) a 171.75 EUR (original: 229.0 EUR) (25.00 %  de descuento) en el siguiente enlace!

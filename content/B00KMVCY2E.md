@@ -14,7 +14,7 @@ currency: EUR
 price: 21.78
 comparePrice: 37.52 EUR
 inStock: true
-prodname: AEG Voxtel M320 - Móvil libre con pantalla de 1.8" y teclas grandes - Negro
+prodname: 'AEG Voxtel M320 - Móvil libre con pantalla de 1.8" y teclas grandes - Negro'
 ---
 
 Está [AEG Voxtel M320 - Móvil libre con pantalla de 1.8" y teclas grandes - Negro](https://www.amazon.es/dp/B00KMVCY2E/?tag=tolees-21) con 41.95 de descuento por 21.78 EUR (original: 37.52 EUR) en el siguiente enlace!

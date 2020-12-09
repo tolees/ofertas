@@ -14,7 +14,7 @@ currency: EUR
 price: 27.59
 comparePrice: 110 EUR
 inStock: true
-prodname: Under Armour UA W Slingflex Mid  Zapatillas de Entrenamiento para Mujer  Negro  Anthracite 102   37.5 EU
+prodname: 'Under Armour UA W Slingflex Mid  Zapatillas de Entrenamiento para Mujer  Negro  Anthracite 102   37.5 EU'
 ---
 
 Tienes [Under Armour UA W Slingflex Mid  Zapatillas de Entrenamiento para Mujer  Negro  Anthracite 102   37.5 EU](https://www.amazon.es/dp/B0728BZXBM/?tag=tolees-21) con un 74.92 % de descuento con precio de oferta de 27.59 EUR (original: 110 EUR) en el siguiente enlace!

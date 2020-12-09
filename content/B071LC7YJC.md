@@ -14,7 +14,7 @@ currency: EUR
 price: 17.9
 comparePrice: 44.95 EUR
 inStock: true
-prodname: KAPPA Cream  Botas Clasicas Unisex Niños  Gris  Anthracite/Mint 1337   31 EU
+prodname: 'KAPPA Cream  Botas Clasicas Unisex Niños  Gris  Anthracite/Mint 1337   31 EU'
 ---
 
 Está [KAPPA Cream  Botas Clasicas Unisex Niños  Gris  Anthracite/Mint 1337   31 EU](https://www.amazon.es/dp/B071LC7YJC/?tag=tolees-21) con 60.18 de descuento por 17.9 EUR (original: 44.95 EUR) en el siguiente enlace!

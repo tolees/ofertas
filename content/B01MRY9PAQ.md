@@ -14,7 +14,7 @@ currency: EUR
 price: 13.54
 comparePrice: 29.99 EUR
 inStock: true
-prodname: New Look Supersoft  Vaquero Skinny para Mujer  Negro  8W x 32L  Talla del Fabricante: 8 
+prodname: 'New Look Supersoft  Vaquero Skinny para Mujer  Negro  8W x 32L  Talla del Fabricante: 8 '
 ---
 
 Está [New Look Supersoft  Vaquero Skinny para Mujer  Negro  8W x 32L  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B01MRY9PAQ/?tag=tolees-21) con 54.85 de descuento por 13.54 EUR (original: 29.99 EUR) en el siguiente enlace!

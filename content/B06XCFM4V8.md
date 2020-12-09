@@ -14,7 +14,7 @@ currency: EUR
 price: 23.82
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Vintage 8 Dip S55   W31/L36
+prodname: 'Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Vintage 8 Dip S55   W31/L36'
 ---
 
 Tienes [Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Vintage 8 Dip S55   W31/L36](https://www.amazon.es/dp/B06XCFM4V8/?tag=tolees-21) con un 74.93 % de descuento con precio de oferta de 23.82 EUR (original: 95 EUR) en el siguiente enlace!

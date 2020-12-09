@@ -14,7 +14,7 @@ currency: EUR
 price: 102.31
 comparePrice: 248.0 EUR
 inStock: true
-prodname: Wenger Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable 01.1121.114
+prodname: 'Wenger Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable 01.1121.114'
 ---
 
 Está [Wenger Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable 01.1121.114](https://www.amazon.es/dp/B015WJQLU6/?tag=tolees-21) con 58.75 de descuento por 102.31 EUR (original: 248.0 EUR) en el siguiente enlace!

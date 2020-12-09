@@ -14,7 +14,7 @@ currency: EUR
 price: 3.5
 comparePrice: 7.82 EUR
 inStock: true
-prodname: Versele-laga A-17217 Mijo en Rama - 300 gr
+prodname: 'Versele-laga A-17217 Mijo en Rama - 300 gr'
 ---
 
 Está [Versele-laga A-17217 Mijo en Rama - 300 gr](https://www.amazon.es/dp/B00BHCJ1SM/?tag=tolees-21) con 55.24 de descuento por 3.5 EUR (original: 7.82 EUR) en el siguiente enlace!

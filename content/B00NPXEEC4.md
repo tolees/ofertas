@@ -14,7 +14,7 @@ currency: EUR
 price: 5.96
 comparePrice: 8.99 EUR
 inStock: true
-prodname: Maybelline New York  Corrector de Ojeras  Bolsas e Imperfecciones  Borrador Ojos  02 Nude  6.8 ml
+prodname: 'Maybelline New York  Corrector de Ojeras  Bolsas e Imperfecciones  Borrador Ojos  02 Nude  6.8 ml'
 ---
 
 Está [Maybelline New York  Corrector de Ojeras  Bolsas e Imperfecciones  Borrador Ojos  02 Nude  6.8 ml](https://www.amazon.es/dp/B00NPXEEC4/?tag=tolees-21) con 33.70 de descuento por 5.96 EUR (original: 8.99 EUR) en el siguiente enlace!

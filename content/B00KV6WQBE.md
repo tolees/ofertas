@@ -14,7 +14,7 @@ currency: EUR
 price: 13
 comparePrice: 25.58 EUR
 inStock: true
-prodname: Gurren-Lagann - Edición Coleccionistas  2 DVD + 2 BD + Libro  [Blu-ray]
+prodname: 'Gurren-Lagann - Edición Coleccionistas  2 DVD + 2 BD + Libro  [Blu-ray]'
 ---
 
 Tienes [Gurren-Lagann - Edición Coleccionistas  2 DVD + 2 BD + Libro  [Blu-ray]](https://www.amazon.es/dp/B00KV6WQBE/?tag=tolees-21) con un 49.18 % de descuento con precio de oferta de 13 EUR (original: 25.58 EUR) en el siguiente enlace!

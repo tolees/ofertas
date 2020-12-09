@@ -14,7 +14,7 @@ currency: EUR
 price: 11.47
 comparePrice: 17.4 EUR
 inStock: true
-prodname: CARE OF by PUMA Sudadera de manga larga y tejido de rizo con cuello redondo para mujer  Gris  Grey   40  Label: M
+prodname: 'CARE OF by PUMA Sudadera de manga larga y tejido de rizo con cuello redondo para mujer  Gris  Grey   40  Label: M'
 ---
 
 Está [CARE OF by PUMA Sudadera de manga larga y tejido de rizo con cuello redondo para mujer  Gris  Grey   40  Label: M](https://www.amazon.es/dp/B07PNRH6GK/?tag=tolees-21) con 34.08 de descuento por 11.47 EUR (original: 17.4 EUR) en el siguiente enlace!

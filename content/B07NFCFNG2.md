@@ -14,7 +14,7 @@ currency: EUR
 price: 11.96
 comparePrice: 44.95 EUR
 inStock: true
-prodname: PUMA Cup Training 1/4 Zip T Core Top  Hombre  Prism Violet-Parachute Purple  XL
+prodname: 'PUMA Cup Training 1/4 Zip T Core Top  Hombre  Prism Violet-Parachute Purple  XL'
 ---
 
 Tienes [PUMA Cup Training 1/4 Zip T Core Top  Hombre  Prism Violet-Parachute Purple  XL](https://www.amazon.es/dp/B07NFCFNG2/?tag=tolees-21) con un 73.39 % de descuento con precio de oferta de 11.96 EUR (original: 44.95 EUR) en el siguiente enlace!

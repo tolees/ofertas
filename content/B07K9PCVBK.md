@@ -14,7 +14,7 @@ currency: EUR
 price: 107.57
 comparePrice: 170 EUR
 inStock: true
-prodname: Brooks Glycerin 16  Zapatillas de Running para Hombre  Naranja  Orange/Red/Ebony 807   44.5 EU
+prodname: 'Brooks Glycerin 16  Zapatillas de Running para Hombre  Naranja  Orange/Red/Ebony 807   44.5 EU'
 ---
 
 Ahora mismo tienes [Brooks Glycerin 16  Zapatillas de Running para Hombre  Naranja  Orange/Red/Ebony 807   44.5 EU](https://www.amazon.es/dp/B07K9PCVBK/?tag=tolees-21) a 107.57 EUR (original: 170 EUR) (36.72 %  de descuento) en el siguiente enlace!

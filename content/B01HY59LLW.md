@@ -14,7 +14,7 @@ currency: EUR
 price: 21.6
 comparePrice: 70 EUR
 inStock: true
-prodname: New Balance 590  Zapatillas de Running  Mujer  Multicolor  Green/Silver 316   37 EU
+prodname: 'New Balance 590  Zapatillas de Running  Mujer  Multicolor  Green/Silver 316   37 EU'
 ---
 
 Ahora mismo tienes [New Balance 590  Zapatillas de Running  Mujer  Multicolor  Green/Silver 316   37 EU](https://www.amazon.es/dp/B01HY59LLW/?tag=tolees-21) a 21.6 EUR (original: 70 EUR) (69.14 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.21
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Under Armour Sportstyle Logo Tank Camiseta sin Mangas  Hombre  Blanco  White Black 100   XXL
+prodname: 'Under Armour Sportstyle Logo Tank Camiseta sin Mangas  Hombre  Blanco  White Black 100   XXL'
 ---
 
 Ahora mismo tienes [Under Armour Sportstyle Logo Tank Camiseta sin Mangas  Hombre  Blanco  White Black 100   XXL](https://www.amazon.es/dp/B07CZHJ6FF/?tag=tolees-21) a 14.21 EUR (original: 25.99 EUR) (45.33 %  de descuento) en el siguiente enlace!

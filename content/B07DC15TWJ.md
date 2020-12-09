@@ -14,7 +14,7 @@ currency: EUR
 price: 58.04
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Puma Defy Wn s  Zapatillas de Deporte para Mujer  Negro  Puma Black-Puma White 12   40 EU
+prodname: 'Puma Defy Wn s  Zapatillas de Deporte para Mujer  Negro  Puma Black-Puma White 12   40 EU'
 ---
 
 Está [Puma Defy Wn s  Zapatillas de Deporte para Mujer  Negro  Puma Black-Puma White 12   40 EU](https://www.amazon.es/dp/B07DC15TWJ/?tag=tolees-21) con 41.93 de descuento por 58.04 EUR (original: 99.95 EUR) en el siguiente enlace!

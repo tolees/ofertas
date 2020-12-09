@@ -14,15 +14,13 @@ currency: EUR
 price: 85.36
 comparePrice: 140 EUR
 inStock: true
-prodname: Dolce Gabbana Light Blue - Eau de toilette Spray 200 mililitros
+prodname: 'Dolce Gabbana Light Blue - Eau de toilette Spray 200 mililitros'
 ---
 
-Está [Dolce Gabbana Light Blue - Eau de toilette Spray 200 mililitros](https://www.amazon.es/dp/B00XDEML3Y/?tag=tolees-21) con 39.03 de descuento por 85.36 EUR (original: 140 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dolce Gabbana Light Blue - Eau de toilette Spray 200 mililitros](https://www.amazon.es/dp/B00XDEML3Y/?tag=tolees-21) a 85.36 EUR (original: 140 EUR) (39.03 %  de descuento) en el siguiente enlace!
 
 [![Dolce Gabbana Light Blue - Eau de toilet](https://images-eu.ssl-images-amazon.com/images/I/41vBwCllP%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00XDEML3Y/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00XDEML3Y/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00XDEML3Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

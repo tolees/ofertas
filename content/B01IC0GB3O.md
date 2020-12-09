@@ -14,7 +14,7 @@ currency: EUR
 price: 12.49
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Buff R-Flash Logo Gorra  Unisex Adulto  Black  Talla Única
+prodname: 'Buff R-Flash Logo Gorra  Unisex Adulto  Black  Talla Única'
 ---
 
 Ahora mismo tienes [Buff R-Flash Logo Gorra  Unisex Adulto  Black  Talla Única](https://www.amazon.es/dp/B01IC0GB3O/?tag=tolees-21) a 12.49 EUR (original: 29.95 EUR) (58.30 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 33.98 EUR
 inStock: true
-prodname: [RIZILIA CELEBOX] Lágrima Pendientes largos Piercing Aretes con Corte de Pera Piedras Preciosas Circonita CZ [Topacio Blanco] en 18K Chapado en oro blanco  Celebridad inspirado por Angelina Jolie
+prodname: '[RIZILIA CELEBOX] Lágrima Pendientes largos Piercing Aretes con Corte de Pera Piedras Preciosas Circonita CZ [Topacio Blanco] en 18K Chapado en oro blanco  Celebridad inspirado por Angelina Jolie'
 ---
 
 Ahora mismo tienes [[RIZILIA CELEBOX] Lágrima Pendientes largos Piercing Aretes con Corte de Pera Piedras Preciosas Circonita CZ [Topacio Blanco] en 18K Chapado en oro blanco  Celebridad inspirado por Angelina Jolie](https://www.amazon.es/dp/B00EIC18UW/?tag=tolees-21) a 16.99 EUR (original: 33.98 EUR) (50.00 %  de descuento) en el siguiente enlace!

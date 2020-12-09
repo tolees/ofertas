@@ -14,7 +14,7 @@ currency: EUR
 price: 40.93
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Men s MORENO Trainers  Beige  Taupe TPE   6 UK 39.5 EU
+prodname: 'Skechers Men s MORENO Trainers  Beige  Taupe TPE   6 UK 39.5 EU'
 ---
 
 Ahora mismo tienes [Skechers Men s MORENO Trainers  Beige  Taupe TPE   6 UK 39.5 EU](https://www.amazon.es/dp/B07GQVKF1Y/?tag=tolees-21) a 40.93 EUR (original: 64.95 EUR) (36.98 %  de descuento) en el siguiente enlace!

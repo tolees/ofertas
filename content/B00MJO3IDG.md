@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 80.0 EUR
 inStock: true
-prodname: Diadora - Sneakers Camaro para Hombre y Mujer  EU 42 
+prodname: 'Diadora - Sneakers Camaro para Hombre y Mujer  EU 42 '
 ---
 
 Tienes [Diadora - Sneakers Camaro para Hombre y Mujer  EU 42 ](https://www.amazon.es/dp/B00MJO3IDG/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 39.95 EUR (original: 80.0 EUR) en el siguiente enlace!

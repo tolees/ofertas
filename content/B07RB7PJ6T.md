@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Columbia Midweight Camiseta Térmica De Manga Larga  Hombre  Graphite  S
+prodname: 'Columbia Midweight Camiseta Térmica De Manga Larga  Hombre  Graphite  S'
 ---
 
 Está [Columbia Midweight Camiseta Térmica De Manga Larga  Hombre  Graphite  S](https://www.amazon.es/dp/B07RB7PJ6T/?tag=tolees-21) con 56.01 de descuento por 21.99 EUR (original: 49.99 EUR) en el siguiente enlace!

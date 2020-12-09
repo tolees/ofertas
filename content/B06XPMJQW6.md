@@ -14,7 +14,7 @@ currency: EUR
 price: 9.26
 comparePrice: 14.35 EUR
 inStock: true
-prodname: Marca Amazon - find. Zip Front Blusa Manga Larga para Mujer  Rojo  Red   40  Label: M
+prodname: 'Marca Amazon - find. Zip Front Blusa Manga Larga para Mujer  Rojo  Red   40  Label: M'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Zip Front Blusa Manga Larga para Mujer  Rojo  Red   40  Label: M](https://www.amazon.es/dp/B06XPMJQW6/?tag=tolees-21) a 9.26 EUR (original: 14.35 EUR) (35.47 %  de descuento) en el siguiente enlace!

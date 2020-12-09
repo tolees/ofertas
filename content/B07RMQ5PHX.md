@@ -14,7 +14,7 @@ currency: EUR
 price: 179.0
 comparePrice: 249.01 EUR
 inStock: true
-prodname: ASUS VG248QG - Monitor para gaming de 24.5" FHD  16:9  1920 x 1080  FreeSync/Adaptive Sync  165 Hz  0.5 ms  DVI  HDMI y Display port  negro
+prodname: 'ASUS VG248QG - Monitor para gaming de 24.5" FHD  16:9  1920 x 1080  FreeSync/Adaptive Sync  165 Hz  0.5 ms  DVI  HDMI y Display port  negro'
 ---
 
 Está [ASUS VG248QG - Monitor para gaming de 24.5" FHD  16:9  1920 x 1080  FreeSync/Adaptive Sync  165 Hz  0.5 ms  DVI  HDMI y Display port  negro](https://www.amazon.es/dp/B07RMQ5PHX/?tag=tolees-21) con 28.12 de descuento por 179.0 EUR (original: 249.01 EUR) en el siguiente enlace!

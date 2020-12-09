@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Auricular Bluetooth 5.0  osloon Auricular inalámbrico  micrófono y Caja de Carga incorporados  reducción del Ruido estéreo 3D HD  para Auriculares Android/Phone/Samsung
+prodname: 'Auricular Bluetooth 5.0  osloon Auricular inalámbrico  micrófono y Caja de Carga incorporados  reducción del Ruido estéreo 3D HD  para Auriculares Android/Phone/Samsung'
 ---
 
 Está [Auricular Bluetooth 5.0  osloon Auricular inalámbrico  micrófono y Caja de Carga incorporados  reducción del Ruido estéreo 3D HD  para Auriculares Android/Phone/Samsung](https://www.amazon.es/dp/B08LKVHYR4/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

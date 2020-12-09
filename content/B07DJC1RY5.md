@@ -14,7 +14,7 @@ currency: EUR
 price: 19.05
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Dockers by Gerli 43mr005  Zapatillas Altas para Hombre  Marrón  Schoko 360   45 EU
+prodname: 'Dockers by Gerli 43mr005  Zapatillas Altas para Hombre  Marrón  Schoko 360   45 EU'
 ---
 
 Tienes [Dockers by Gerli 43mr005  Zapatillas Altas para Hombre  Marrón  Schoko 360   45 EU](https://www.amazon.es/dp/B07DJC1RY5/?tag=tolees-21) con un 68.22 % de descuento con precio de oferta de 19.05 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.25
 comparePrice: 40.54 EUR
 inStock: true
-prodname: BOSCH 2607019504 - Set de bricolaje: 46 uds atornillar y atornillador  colores surtidos
+prodname: 'BOSCH 2607019504 - Set de bricolaje: 46 uds atornillar y atornillador  colores surtidos'
 ---
 
 Tienes [BOSCH 2607019504 - Set de bricolaje: 46 uds atornillar y atornillador  colores surtidos](https://www.amazon.es/dp/B000NDGQD4/?tag=tolees-21) con un 54.98 % de descuento con precio de oferta de 18.25 EUR (original: 40.54 EUR) en el siguiente enlace!

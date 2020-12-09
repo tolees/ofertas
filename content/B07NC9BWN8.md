@@ -14,7 +14,7 @@ currency: EUR
 price: 27.67
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans Hatch Vaqueros Hombre Ajustados  Negro  Black Used Denim Wd2   W28/L32 para
+prodname: 'Pepe Jeans Hatch Vaqueros Hombre Ajustados  Negro  Black Used Denim Wd2   W28/L32 para'
 ---
 
 Tienes [Pepe Jeans Hatch Vaqueros Hombre Ajustados  Negro  Black Used Denim Wd2   W28/L32 para](https://www.amazon.es/dp/B07NC9BWN8/?tag=tolees-21) con un 70.87 % de descuento con precio de oferta de 27.67 EUR (original: 95 EUR) en el siguiente enlace!

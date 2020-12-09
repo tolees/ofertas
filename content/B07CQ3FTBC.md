@@ -14,7 +14,7 @@ currency: EUR
 price: 25.05
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Daren Zip Fly Vaqueros Rectos  Azul  Time out Dn   W28/L34 para Hombre
+prodname: 'Lee Daren Zip Fly Vaqueros Rectos  Azul  Time out Dn   W28/L34 para Hombre'
 ---
 
 Tienes [Lee Daren Zip Fly Vaqueros Rectos  Azul  Time out Dn   W28/L34 para Hombre](https://www.amazon.es/dp/B07CQ3FTBC/?tag=tolees-21) con un 74.94 % de descuento con precio de oferta de 25.05 EUR (original: 99.95 EUR) en el siguiente enlace!

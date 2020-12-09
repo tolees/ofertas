@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 23.38 EUR
 inStock: true
-prodname: Micrófono de condensador Omnidireccional de clip lavable con solapa para parabrisas
+prodname: 'Micrófono de condensador Omnidireccional de clip lavable con solapa para parabrisas'
 ---
 
 Tienes [Micrófono de condensador Omnidireccional de clip lavable con solapa para parabrisas](https://www.amazon.es/dp/B07RBYZ1NN/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 12.99 EUR (original: 23.38 EUR) en el siguiente enlace!

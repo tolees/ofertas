@@ -14,7 +14,7 @@ currency: EUR
 price: 19.57
 comparePrice: 35.99 EUR
 inStock: true
-prodname: MTNG Collection 51085  Sandalia con Pulsera para Mujer   Vivin Negro C46265   39 EU
+prodname: 'MTNG Collection 51085  Sandalia con Pulsera para Mujer   Vivin Negro C46265   39 EU'
 ---
 
 Ahora mismo tienes [MTNG Collection 51085  Sandalia con Pulsera para Mujer   Vivin Negro C46265   39 EU](https://www.amazon.es/dp/B07MN21TJJ/?tag=tolees-21) a 19.57 EUR (original: 35.99 EUR) (45.62 %  de descuento) en el siguiente enlace!

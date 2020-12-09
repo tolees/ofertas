@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 199 EUR
 inStock: true
-prodname: Versace 1969 Albornoz  Gris  Large - XL
+prodname: 'Versace 1969 Albornoz  Gris  Large - XL'
 ---
 
 Está [Versace 1969 Albornoz  Gris  Large - XL](https://www.amazon.es/dp/B0731JMXWJ/?tag=tolees-21) con 72.37 de descuento por 54.99 EUR (original: 199 EUR) en el siguiente enlace!

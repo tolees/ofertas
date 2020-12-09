@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 18 EUR
 inStock: true
-prodname: Umbro Speed Chubasquero de Pesca  Hombre  Negro  S
+prodname: 'Umbro Speed Chubasquero de Pesca  Hombre  Negro  S'
 ---
 
 Está [Umbro Speed Chubasquero de Pesca  Hombre  Negro  S](https://www.amazon.es/dp/B01N8PZIKW/?tag=tolees-21) con 33.61 de descuento por 11.95 EUR (original: 18 EUR) en el siguiente enlace!

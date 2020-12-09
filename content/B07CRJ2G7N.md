@@ -14,7 +14,7 @@ currency: EUR
 price: 13.49
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Pepe Jeans Mack  Camiseta para Hombre   Grey Marl 933   XX-Large
+prodname: 'Pepe Jeans Mack  Camiseta para Hombre   Grey Marl 933   XX-Large'
 ---
 
 Tienes [Pepe Jeans Mack  Camiseta para Hombre   Grey Marl 933   XX-Large](https://www.amazon.es/dp/B07CRJ2G7N/?tag=tolees-21) con un 54.88 % de descuento con precio de oferta de 13.49 EUR (original: 29.9 EUR) en el siguiente enlace!

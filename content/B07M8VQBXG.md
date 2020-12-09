@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 38.6 EUR
 inStock: true
-prodname: WANSENDA Memoria USB 3.0 Pendrive 64GB Flash Drive Dual Drive OTG Memoria Stick 256GB 128GB 64GB 32GB 16GB Pen Drive Almacenamiento Externo para Dispositivos Android/PC/Tablet
+prodname: 'WANSENDA Memoria USB 3.0 Pendrive 64GB Flash Drive Dual Drive OTG Memoria Stick 256GB 128GB 64GB 32GB 16GB Pen Drive Almacenamiento Externo para Dispositivos Android/PC/Tablet'
 ---
 
 Ahora mismo tienes [WANSENDA Memoria USB 3.0 Pendrive 64GB Flash Drive Dual Drive OTG Memoria Stick 256GB 128GB 64GB 32GB 16GB Pen Drive Almacenamiento Externo para Dispositivos Android/PC/Tablet](https://www.amazon.es/dp/B07M8VQBXG/?tag=tolees-21) a 18.99 EUR (original: 38.6 EUR) (50.80 %  de descuento) en el siguiente enlace!

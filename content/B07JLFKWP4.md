@@ -14,7 +14,7 @@ currency: EUR
 price: 17.62
 comparePrice: 31.99 EUR
 inStock: true
-prodname: Playmobil - Vehículo de Perforación Juguetes para La Playa  Multicolor  70064
+prodname: 'Playmobil - Vehículo de Perforación Juguetes para La Playa  Multicolor  70064'
 ---
 
 Tienes [Playmobil - Vehículo de Perforación Juguetes para La Playa  Multicolor  70064](https://www.amazon.es/dp/B07JLFKWP4/?tag=tolees-21) con un 44.92 % de descuento con precio de oferta de 17.62 EUR (original: 31.99 EUR) en el siguiente enlace!

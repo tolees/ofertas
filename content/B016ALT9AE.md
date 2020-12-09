@@ -14,7 +14,7 @@ currency: EUR
 price: 26.73
 comparePrice: 39.99 EUR
 inStock: true
-prodname: GANT 3-Pack Trunk Boxer   Multicolor 105   XX-Large
+prodname: 'GANT 3-Pack Trunk Boxer   Multicolor 105   XX-Large'
 ---
 
 Tienes [GANT 3-Pack Trunk Boxer   Multicolor 105   XX-Large](https://www.amazon.es/dp/B016ALT9AE/?tag=tolees-21) con un 33.16 % de descuento con precio de oferta de 26.73 EUR (original: 39.99 EUR) en el siguiente enlace!

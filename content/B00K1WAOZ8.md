@@ -14,7 +14,7 @@ currency: EUR
 price: 84.55
 comparePrice: 120.0 EUR
 inStock: true
-prodname: HUNTER Short  Botas de Lluvia para Mujer  Negro  Black   36 EU
+prodname: 'HUNTER Short  Botas de Lluvia para Mujer  Negro  Black   36 EU'
 ---
 
 Tienes [HUNTER Short  Botas de Lluvia para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B00K1WAOZ8/?tag=tolees-21) con un 29.54 % de descuento con precio de oferta de 84.55 EUR (original: 120.0 EUR) en el siguiente enlace!

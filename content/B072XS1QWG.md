@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Jack & Jones Jacdna Knit Scarf Noos Bufanda  Gris  Grey Melange Grey Melange   Talla Única para Hombre
+prodname: 'Jack & Jones Jacdna Knit Scarf Noos Bufanda  Gris  Grey Melange Grey Melange   Talla Única para Hombre'
 ---
 
 Tienes [Jack & Jones Jacdna Knit Scarf Noos Bufanda  Gris  Grey Melange Grey Melange   Talla Única para Hombre](https://www.amazon.es/dp/B072XS1QWG/?tag=tolees-21) con un 38.91 % de descuento con precio de oferta de 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!

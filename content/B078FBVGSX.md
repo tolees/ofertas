@@ -14,7 +14,7 @@ currency: EUR
 price: 33.75
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Adidas Duramo 8 Trainer M  Zapatillas de Deporte para Hombre  Azul  Azretr/Ftwbla/Pertiz 000   43 1/3 EU
+prodname: 'Adidas Duramo 8 Trainer M  Zapatillas de Deporte para Hombre  Azul  Azretr/Ftwbla/Pertiz 000   43 1/3 EU'
 ---
 
 Tienes [Adidas Duramo 8 Trainer M  Zapatillas de Deporte para Hombre  Azul  Azretr/Ftwbla/Pertiz 000   43 1/3 EU](https://www.amazon.es/dp/B078FBVGSX/?tag=tolees-21) con un 51.75 % de descuento con precio de oferta de 33.75 EUR (original: 69.95 EUR) en el siguiente enlace!

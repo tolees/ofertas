@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Beeasy Funda Samsung Galaxy S10 5G Impermeable 360 Grados Protección IP68 Carcasa Antigolpes Rígida Robusta Antigravedad Resistente al Impacto Militar Duradera Fuerte Seguridad Case Cover Negro
+prodname: 'Beeasy Funda Samsung Galaxy S10 5G Impermeable 360 Grados Protección IP68 Carcasa Antigolpes Rígida Robusta Antigravedad Resistente al Impacto Militar Duradera Fuerte Seguridad Case Cover Negro'
 ---
 
 Está [Beeasy Funda Samsung Galaxy S10 5G Impermeable 360 Grados Protección IP68 Carcasa Antigolpes Rígida Robusta Antigravedad Resistente al Impacto Militar Duradera Fuerte Seguridad Case Cover Negro](https://www.amazon.es/dp/B088WR6LHS/?tag=tolees-21) con 28.58 de descuento por 19.99 EUR (original: 27.99 EUR) en el siguiente enlace!

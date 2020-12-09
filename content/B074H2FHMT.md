@@ -14,7 +14,7 @@ currency: EUR
 price: 11.4
 comparePrice: 37.99 EUR
 inStock: true
-prodname: find. Blusa con Mangas de Lunares para Mujer  Rojo  Red   42  Talla del Fabricante: Large 
+prodname: 'find. Blusa con Mangas de Lunares para Mujer  Rojo  Red   42  Talla del Fabricante: Large '
 ---
 
 Ahora mismo tienes [find. Blusa con Mangas de Lunares para Mujer  Rojo  Red   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B074H2FHMT/?tag=tolees-21) a 11.4 EUR (original: 37.99 EUR) (69.99 %  de descuento) en el siguiente enlace!

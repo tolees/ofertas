@@ -14,7 +14,7 @@ currency: EUR
 price: 36.75
 comparePrice: 49.96 EUR
 inStock: true
-prodname: Zwilling Cuchillo Cocina  Acero Inoxidable  Centimeters
+prodname: 'Zwilling Cuchillo Cocina  Acero Inoxidable  Centimeters'
 ---
 
 Tienes [Zwilling Cuchillo Cocina  Acero Inoxidable  Centimeters](https://www.amazon.es/dp/B000XFHU3W/?tag=tolees-21) con un 26.44 % de descuento con precio de oferta de 36.75 EUR (original: 49.96 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 42.5
 comparePrice: 79 EUR
 inStock: true
-prodname: Superga 2750 Macramew - Zapatillas para mujeres  color azul  navy   talla 38 EU  5 UK 
+prodname: 'Superga 2750 Macramew - Zapatillas para mujeres  color azul  navy   talla 38 EU  5 UK '
 ---
 
 Está [Superga 2750 Macramew - Zapatillas para mujeres  color azul  navy   talla 38 EU  5 UK ](https://www.amazon.es/dp/B00SR9VZG4/?tag=tolees-21) con 46.20 de descuento por 42.5 EUR (original: 79 EUR) en el siguiente enlace!

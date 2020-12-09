@@ -14,7 +14,7 @@ currency: EUR
 price: 4.5
 comparePrice: 7.07 EUR
 inStock: true
-prodname: Mascarillas FFP2  Mascarillas Desechables Con Orejeras  96% De Filtración Multicapa  Mascarillas KN95  Talla única  Paquete De 20
+prodname: 'Mascarillas FFP2  Mascarillas Desechables Con Orejeras  96% De Filtración Multicapa  Mascarillas KN95  Talla única  Paquete De 20'
 ---
 
 Ahora mismo tienes [Mascarillas FFP2  Mascarillas Desechables Con Orejeras  96% De Filtración Multicapa  Mascarillas KN95  Talla única  Paquete De 20](https://www.amazon.es/dp/B08JTXTZCX/?tag=tolees-21) a 4.5 EUR (original: 7.07 EUR) (36.35 %  de descuento) en el siguiente enlace!

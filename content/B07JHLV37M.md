@@ -14,7 +14,7 @@ currency: EUR
 price: 31.11
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Relsen  Zapatillas para Hombre  Azul  Navy Nvy   46 EU
+prodname: 'Skechers Relsen  Zapatillas para Hombre  Azul  Navy Nvy   46 EU'
 ---
 
 Está [Skechers Relsen  Zapatillas para Hombre  Azul  Navy Nvy   46 EU](https://www.amazon.es/dp/B07JHLV37M/?tag=tolees-21) con 52.10 de descuento por 31.11 EUR (original: 64.95 EUR) en el siguiente enlace!

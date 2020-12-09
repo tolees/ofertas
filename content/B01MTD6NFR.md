@@ -14,7 +14,7 @@ currency: EUR
 price: 76.45
 comparePrice: 140 EUR
 inStock: true
-prodname: berghaus Freeflow Mochila  Unisex Adulto  Mykonos Blue  40L
+prodname: 'berghaus Freeflow Mochila  Unisex Adulto  Mykonos Blue  40L'
 ---
 
 Ahora mismo tienes [berghaus Freeflow Mochila  Unisex Adulto  Mykonos Blue  40L](https://www.amazon.es/dp/B01MTD6NFR/?tag=tolees-21) a 76.45 EUR (original: 140 EUR) (45.39 %  de descuento) en el siguiente enlace!

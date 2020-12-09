@@ -14,7 +14,7 @@ currency: EUR
 price: 55.0
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Clarks Orinoco Hot  Botas Estilo Motero Mujer  Negro  Black Nubuck Black Nubuck   39 EU
+prodname: 'Clarks Orinoco Hot  Botas Estilo Motero Mujer  Negro  Black Nubuck Black Nubuck   39 EU'
 ---
 
 Está [Clarks Orinoco Hot  Botas Estilo Motero Mujer  Negro  Black Nubuck Black Nubuck   39 EU](https://www.amazon.es/dp/B07N1H8FJJ/?tag=tolees-21) con 54.17 de descuento por 55.0 EUR (original: 120.0 EUR) en el siguiente enlace!

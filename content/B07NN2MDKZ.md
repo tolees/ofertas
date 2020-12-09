@@ -14,7 +14,7 @@ currency: EUR
 price: 15.75
 comparePrice: 25.58 EUR
 inStock: true
-prodname: Alien 4k Uhd [Blu-ray]
+prodname: 'Alien 4k Uhd [Blu-ray]'
 ---
 
 Está [Alien 4k Uhd [Blu-ray]](https://www.amazon.es/dp/B07NN2MDKZ/?tag=tolees-21) con 38.43 de descuento por 15.75 EUR (original: 25.58 EUR) en el siguiente enlace!

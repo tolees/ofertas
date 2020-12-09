@@ -14,7 +14,7 @@ currency: EUR
 price: 30.5
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Inuyasha Box 3 Episodios 67 A 99 Blu-Ray [Blu-ray]
+prodname: 'Inuyasha Box 3 Episodios 67 A 99 Blu-Ray [Blu-ray]'
 ---
 
 Ahora mismo tienes [Inuyasha Box 3 Episodios 67 A 99 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07DKN1DQ4/?tag=tolees-21) a 30.5 EUR (original: 59.99 EUR) (49.16 %  de descuento) en el siguiente enlace!

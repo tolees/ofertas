@@ -14,7 +14,7 @@ currency: EUR
 price: 51.48
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Desigual Vest Vancouver Vestido  Negro  Negro 2000   Large para Mujer
+prodname: 'Desigual Vest Vancouver Vestido  Negro  Negro 2000   Large para Mujer'
 ---
 
 Ahora mismo tienes [Desigual Vest Vancouver Vestido  Negro  Negro 2000   Large para Mujer](https://www.amazon.es/dp/B07VCJCYKY/?tag=tolees-21) a 51.48 EUR (original: 109.95 EUR) (53.18 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 40.55
 comparePrice: 89 EUR
 inStock: true
-prodname: Superga 2790-pusnakew  Zapatillas de Gimnasia para Mujer  Rojo  Bordeaux A77   39 EU
+prodname: 'Superga 2790-pusnakew  Zapatillas de Gimnasia para Mujer  Rojo  Bordeaux A77   39 EU'
 ---
 
 Tienes [Superga 2790-pusnakew  Zapatillas de Gimnasia para Mujer  Rojo  Bordeaux A77   39 EU](https://www.amazon.es/dp/B07FLT5SBM/?tag=tolees-21) con un 54.44 % de descuento con precio de oferta de 40.55 EUR (original: 89 EUR) en el siguiente enlace!

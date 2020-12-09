@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Azul  Navy 595   X-Large
+prodname: 'Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Azul  Navy 595   X-Large'
 ---
 
 Ahora mismo tienes [Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Azul  Navy 595   X-Large](https://www.amazon.es/dp/B00EZ5IY9U/?tag=tolees-21) a 17.99 EUR (original: 30.0 EUR) (40.03 %  de descuento) en el siguiente enlace!

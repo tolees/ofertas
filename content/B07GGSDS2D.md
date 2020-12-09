@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 33.99 EUR
 inStock: true
-prodname: Pack Conjuring: Annabelle 1 + 2 + Expediente Warren 1 + 2 Blu-Ray [Blu-ray]
+prodname: 'Pack Conjuring: Annabelle 1 + 2 + Expediente Warren 1 + 2 Blu-Ray [Blu-ray]'
 ---
 
 Tienes [Pack Conjuring: Annabelle 1 + 2 + Expediente Warren 1 + 2 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07GGSDS2D/?tag=tolees-21) con un 35.30 % de descuento con precio de oferta de 21.99 EUR (original: 33.99 EUR) en el siguiente enlace!

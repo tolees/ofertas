@@ -14,7 +14,7 @@ currency: EUR
 price: 19.1
 comparePrice: 34.99 EUR
 inStock: true
-prodname: 4 Gods- Juego
+prodname: '4 Gods- Juego'
 ---
 
 Ahora mismo tienes [4 Gods- Juego](https://www.amazon.es/dp/B01J3OCD1W/?tag=tolees-21) a 19.1 EUR (original: 34.99 EUR) (45.41 %  de descuento) en el siguiente enlace!

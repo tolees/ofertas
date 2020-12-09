@@ -14,7 +14,7 @@ currency: EUR
 price: 17.96
 comparePrice: 23.95 EUR
 inStock: true
-prodname: Set de Limpieza Facial con Aloe Vera BIO y Ácido Hialurónico - VEGAN - 125 ml de Gel Limpiador Facial y 125 ml de Tónico Facial para Piel Normal  Grasa  Mixta e Impura - Cuidado Facial Natural
+prodname: 'Set de Limpieza Facial con Aloe Vera BIO y Ácido Hialurónico - VEGAN - 125 ml de Gel Limpiador Facial y 125 ml de Tónico Facial para Piel Normal  Grasa  Mixta e Impura - Cuidado Facial Natural'
 ---
 
 Tienes [Set de Limpieza Facial con Aloe Vera BIO y Ácido Hialurónico - VEGAN - 125 ml de Gel Limpiador Facial y 125 ml de Tónico Facial para Piel Normal  Grasa  Mixta e Impura - Cuidado Facial Natural](https://www.amazon.es/dp/B07L5QYVQD/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 17.96 EUR (original: 23.95 EUR) en el siguiente enlace!

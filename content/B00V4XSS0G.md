@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 13.95 EUR
 inStock: true
-prodname: Scholl Gel Activ Sport - Plantillas para hombre  para zapatillas deportivas  mayor amortiguación y absorción del olor y sudor  talla 40 - 46.5  1 par  2 plantillas 
+prodname: 'Scholl Gel Activ Sport - Plantillas para hombre  para zapatillas deportivas  mayor amortiguación y absorción del olor y sudor  talla 40 - 46.5  1 par  2 plantillas '
 ---
 
 Está [Scholl Gel Activ Sport - Plantillas para hombre  para zapatillas deportivas  mayor amortiguación y absorción del olor y sudor  talla 40 - 46.5  1 par  2 plantillas ](https://www.amazon.es/dp/B00V4XSS0G/?tag=tolees-21) con 28.67 de descuento por 9.95 EUR (original: 13.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 54.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW Bronson Slim Chino Pantalon  Beige  dune 5126-239   34W / 30L para Hombre
+prodname: 'G-STAR RAW Bronson Slim Chino Pantalon  Beige  dune 5126-239   34W / 30L para Hombre'
 ---
 
 Tienes [G-STAR RAW Bronson Slim Chino Pantalon  Beige  dune 5126-239   34W / 30L para Hombre](https://www.amazon.es/dp/B01BGTOFHW/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 54.95 EUR (original: 99.95 EUR) en el siguiente enlace!

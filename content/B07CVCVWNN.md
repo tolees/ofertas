@@ -14,7 +14,7 @@ currency: EUR
 price: 29.79
 comparePrice: 65 EUR
 inStock: true
-prodname: Under Armour Surge Se  Zapatillas de Running para Mujer  Negro  Black White 001   39 EU
+prodname: 'Under Armour Surge Se  Zapatillas de Running para Mujer  Negro  Black White 001   39 EU'
 ---
 
 Está [Under Armour Surge Se  Zapatillas de Running para Mujer  Negro  Black White 001   39 EU](https://www.amazon.es/dp/B07CVCVWNN/?tag=tolees-21) con 54.17 de descuento por 29.79 EUR (original: 65 EUR) en el siguiente enlace!

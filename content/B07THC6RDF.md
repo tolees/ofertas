@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Horizon - Complete Edition HITS
+prodname: 'Horizon - Complete Edition HITS'
 ---
 
 Tienes [Horizon - Complete Edition HITS](https://www.amazon.es/dp/B07THC6RDF/?tag=tolees-21) con un 60.38 % de descuento con precio de oferta de 9.9 EUR (original: 24.99 EUR) en el siguiente enlace!

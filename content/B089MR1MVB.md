@@ -14,7 +14,7 @@ currency: EUR
 price: 17.49
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Durex Naturals H2O Lubricante Base Agua  100% Natural Sin Fragancia  Colorantes ni Agentes Irritantes – 250ml
+prodname: 'Durex Naturals H2O Lubricante Base Agua  100% Natural Sin Fragancia  Colorantes ni Agentes Irritantes – 250ml'
 ---
 
 Ahora mismo tienes [Durex Naturals H2O Lubricante Base Agua  100% Natural Sin Fragancia  Colorantes ni Agentes Irritantes – 250ml](https://www.amazon.es/dp/B089MR1MVB/?tag=tolees-21) a 17.49 EUR (original: 24.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

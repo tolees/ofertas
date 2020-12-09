@@ -14,7 +14,7 @@ currency: EUR
 price: 37.75
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Puma Tsugi Apex Blck  Zapatillas Unisex Adulto  Rojo  Pomegranate Black White 03   44 EU
+prodname: 'Puma Tsugi Apex Blck  Zapatillas Unisex Adulto  Rojo  Pomegranate Black White 03   44 EU'
 ---
 
 Está [Puma Tsugi Apex Blck  Zapatillas Unisex Adulto  Rojo  Pomegranate Black White 03   44 EU](https://www.amazon.es/dp/B07DB1JXP6/?tag=tolees-21) con 62.23 de descuento por 37.75 EUR (original: 99.95 EUR) en el siguiente enlace!

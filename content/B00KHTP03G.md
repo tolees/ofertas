@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Under Armour UA HeatGear ARMOUR Sleeveless  Camiseta Sin Mangas Hombre  Blanco  White/Graphite 100   M
+prodname: 'Under Armour UA HeatGear ARMOUR Sleeveless  Camiseta Sin Mangas Hombre  Blanco  White/Graphite 100   M'
 ---
 
 Ahora mismo tienes [Under Armour UA HeatGear ARMOUR Sleeveless  Camiseta Sin Mangas Hombre  Blanco  White/Graphite 100   M](https://www.amazon.es/dp/B00KHTP03G/?tag=tolees-21) a 15.0 EUR (original: 30.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

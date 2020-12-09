@@ -14,7 +14,7 @@ currency: EUR
 price: 644.25
 comparePrice: 999.9 EUR
 inStock: true
-prodname: Panasonic HC-VXF1 - Videocámara Semi-Profesional de 24x  Gran Visor Eletrónico  O.I.S de 5 Ejes  Objetivo Leica F1.8 - F4  Zoom 25 mm - 600 mm  4K  HD  Color Negro
+prodname: 'Panasonic HC-VXF1 - Videocámara Semi-Profesional de 24x  Gran Visor Eletrónico  O.I.S de 5 Ejes  Objetivo Leica F1.8 - F4  Zoom 25 mm - 600 mm  4K  HD  Color Negro'
 ---
 
 Está [Panasonic HC-VXF1 - Videocámara Semi-Profesional de 24x  Gran Visor Eletrónico  O.I.S de 5 Ejes  Objetivo Leica F1.8 - F4  Zoom 25 mm - 600 mm  4K  HD  Color Negro](https://www.amazon.es/dp/B07BHPJZRW/?tag=tolees-21) con 35.57 de descuento por 644.25 EUR (original: 999.9 EUR) en el siguiente enlace!

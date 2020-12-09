@@ -14,7 +14,7 @@ currency: EUR
 price: 14.96
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Regalo personalizado: bloc de notas ‘Si puedes soñarlo…’ de madera grabado con nombre
+prodname: 'Regalo personalizado: bloc de notas ‘Si puedes soñarlo…’ de madera grabado con nombre'
 ---
 
 Tienes [Regalo personalizado: bloc de notas ‘Si puedes soñarlo…’ de madera grabado con nombre](https://www.amazon.es/dp/B07NBMGTP2/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.96 EUR (original: 19.95 EUR) en el siguiente enlace!

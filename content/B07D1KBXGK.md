@@ -14,7 +14,7 @@ currency: EUR
 price: 5.42
 comparePrice: 8.25 EUR
 inStock: true
-prodname: Marca Amazon - find. Sudadera Súper Suave Mujer  Rosa  Pink   46  Label: XXL
+prodname: 'Marca Amazon - find. Sudadera Súper Suave Mujer  Rosa  Pink   46  Label: XXL'
 ---
 
 Tienes [Marca Amazon - find. Sudadera Súper Suave Mujer  Rosa  Pink   46  Label: XXL](https://www.amazon.es/dp/B07D1KBXGK/?tag=tolees-21) con un 34.30 % de descuento con precio de oferta de 5.42 EUR (original: 8.25 EUR) en el siguiente enlace!

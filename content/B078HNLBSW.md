@@ -14,7 +14,7 @@ currency: EUR
 price: 54.5
 comparePrice: 77.14 EUR
 inStock: true
-prodname: Nerf - no Figura Rival Kronos Deadpool  e0861
+prodname: 'Nerf - no Figura Rival Kronos Deadpool  e0861'
 ---
 
 Tienes [Nerf - no Figura Rival Kronos Deadpool  e0861](https://www.amazon.es/dp/B078HNLBSW/?tag=tolees-21) con un 29.35 % de descuento con precio de oferta de 54.5 EUR (original: 77.14 EUR) en el siguiente enlace!

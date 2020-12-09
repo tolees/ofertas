@@ -14,7 +14,7 @@ currency: EUR
 price: 45.59
 comparePrice: 62.28 EUR
 inStock: true
-prodname: Pikolin Home - Edredón/Relleno nórdico hipoalergénico de fibra Aloe Vera  primavera-verano  150gr/m²  240x220cm-Cama 150/160  Todas las medidas 
+prodname: 'Pikolin Home - Edredón/Relleno nórdico hipoalergénico de fibra Aloe Vera  primavera-verano  150gr/m²  240x220cm-Cama 150/160  Todas las medidas '
 ---
 
 Está [Pikolin Home - Edredón/Relleno nórdico hipoalergénico de fibra Aloe Vera  primavera-verano  150gr/m²  240x220cm-Cama 150/160  Todas las medidas ](https://www.amazon.es/dp/B00KPWX62M/?tag=tolees-21) con 26.80 de descuento por 45.59 EUR (original: 62.28 EUR) en el siguiente enlace!

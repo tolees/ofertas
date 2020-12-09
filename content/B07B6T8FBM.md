@@ -14,7 +14,7 @@ currency: EUR
 price: 82.32
 comparePrice: 200 EUR
 inStock: true
-prodname: Burton Jet Set Chaqueta de Snowboard  Mujer  Azul  Mood Indigo   M
+prodname: 'Burton Jet Set Chaqueta de Snowboard  Mujer  Azul  Mood Indigo   M'
 ---
 
 Está [Burton Jet Set Chaqueta de Snowboard  Mujer  Azul  Mood Indigo   M](https://www.amazon.es/dp/B07B6T8FBM/?tag=tolees-21) con 58.84 de descuento por 82.32 EUR (original: 200 EUR) en el siguiente enlace!

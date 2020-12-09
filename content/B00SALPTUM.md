@@ -14,7 +14,7 @@ currency: EUR
 price: 36.25
 comparePrice: 65 EUR
 inStock: true
-prodname: Camper Wabi - Zapatillas de casa hombre  color gris  talla 40
+prodname: 'Camper Wabi - Zapatillas de casa hombre  color gris  talla 40'
 ---
 
 Ahora mismo tienes [Camper Wabi - Zapatillas de casa hombre  color gris  talla 40](https://www.amazon.es/dp/B00SALPTUM/?tag=tolees-21) a 36.25 EUR (original: 65 EUR) (44.23 %  de descuento) en el siguiente enlace!

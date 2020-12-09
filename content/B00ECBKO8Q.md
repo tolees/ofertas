@@ -14,7 +14,7 @@ currency: EUR
 price: 20.4
 comparePrice: 31.9 EUR
 inStock: true
-prodname: Remington PRO-Air Shine D5215 - Secador de Pelo  Secador Iónico  Difusor y Concentrador  2300 W  Negro
+prodname: 'Remington PRO-Air Shine D5215 - Secador de Pelo  Secador Iónico  Difusor y Concentrador  2300 W  Negro'
 ---
 
 Ahora mismo tienes [Remington PRO-Air Shine D5215 - Secador de Pelo  Secador Iónico  Difusor y Concentrador  2300 W  Negro](https://www.amazon.es/dp/B00ECBKO8Q/?tag=tolees-21) a 20.4 EUR (original: 31.9 EUR) (36.05 %  de descuento) en el siguiente enlace!

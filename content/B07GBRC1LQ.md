@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: SUAOKI 1A 6V/12V Cargador de Batería Portátil  Mantenimiento Automático e Inteligente con Múltiples Protecciones para Coche  Motocicleta  Motocicleta  RV  Césped Tractor
+prodname: 'SUAOKI 1A 6V/12V Cargador de Batería Portátil  Mantenimiento Automático e Inteligente con Múltiples Protecciones para Coche  Motocicleta  Motocicleta  RV  Césped Tractor'
 ---
 
 Tienes [SUAOKI 1A 6V/12V Cargador de Batería Portátil  Mantenimiento Automático e Inteligente con Múltiples Protecciones para Coche  Motocicleta  Motocicleta  RV  Césped Tractor](https://www.amazon.es/dp/B07GBRC1LQ/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

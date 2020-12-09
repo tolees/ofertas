@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Cortadora de pelo nariz y orejas eléctrico trimmer nariz  Portable 4 en 1 Men Facial Care Tool para oreja y nariz pelos.
+prodname: 'Cortadora de pelo nariz y orejas eléctrico trimmer nariz  Portable 4 en 1 Men Facial Care Tool para oreja y nariz pelos.'
 ---
 
 Está [Cortadora de pelo nariz y orejas eléctrico trimmer nariz  Portable 4 en 1 Men Facial Care Tool para oreja y nariz pelos.](https://www.amazon.es/dp/B076X2JBFM/?tag=tolees-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

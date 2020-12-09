@@ -14,7 +14,7 @@ currency: EUR
 price: 30.96
 comparePrice: 70 EUR
 inStock: true
-prodname: Under Armour Tr96  Zapatillas Deportivas para Interior para Hombre  Rojo  Aruba Red/Jet Gray/Black 600   41 EU
+prodname: 'Under Armour Tr96  Zapatillas Deportivas para Interior para Hombre  Rojo  Aruba Red/Jet Gray/Black 600   41 EU'
 ---
 
 Ahora mismo tienes [Under Armour Tr96  Zapatillas Deportivas para Interior para Hombre  Rojo  Aruba Red/Jet Gray/Black 600   41 EU](https://www.amazon.es/dp/B07CVCTJ7V/?tag=tolees-21) a 30.96 EUR (original: 70 EUR) (55.77 %  de descuento) en el siguiente enlace!

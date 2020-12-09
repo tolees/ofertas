@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Memoria flash Ultra 64GB USB Dual Drive USB 3.0 Up to 150MB/s Read - FFP
+prodname: 'Memoria flash Ultra 64GB USB Dual Drive USB 3.0 Up to 150MB/s Read - FFP'
 ---
 
 Ahora mismo tienes [Memoria flash Ultra 64GB USB Dual Drive USB 3.0 Up to 150MB/s Read - FFP](https://www.amazon.es/dp/B01N0E4YNX/?tag=tolees-21) a 8.99 EUR (original: 16.99 EUR) (47.09 %  de descuento) en el siguiente enlace!

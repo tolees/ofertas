@@ -14,7 +14,7 @@ currency: EUR
 price: 15.16
 comparePrice: 24.95 EUR
 inStock: true
-prodname: adidas Classic Backpack 3 Stripes  Unisex Adulto   Shock Cyan/Legend Ink/White   Talla Única
+prodname: 'adidas Classic Backpack 3 Stripes  Unisex Adulto   Shock Cyan/Legend Ink/White   Talla Única'
 ---
 
 Tienes [adidas Classic Backpack 3 Stripes  Unisex Adulto   Shock Cyan/Legend Ink/White   Talla Única](https://www.amazon.es/dp/B07KKQZ8P8/?tag=tolees-21) con un 39.24 % de descuento con precio de oferta de 15.16 EUR (original: 24.95 EUR) en el siguiente enlace!

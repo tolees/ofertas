@@ -14,7 +14,7 @@ currency: EUR
 price: 66.89
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Bosch PBH 2100 RE - Martillo perforador con maletín  tope de profundidad  empuñadura adicional  550 W 
+prodname: 'Bosch PBH 2100 RE - Martillo perforador con maletín  tope de profundidad  empuñadura adicional  550 W '
 ---
 
 Está [Bosch PBH 2100 RE - Martillo perforador con maletín  tope de profundidad  empuñadura adicional  550 W ](https://www.amazon.es/dp/B0064KFLRC/?tag=tolees-21) con 32.43 de descuento por 66.89 EUR (original: 99.0 EUR) en el siguiente enlace!

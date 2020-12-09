@@ -14,7 +14,7 @@ currency: EUR
 price: 11.65
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield Check Vichy Melange B.S Camisa Casual  Hombre  Verde  Gama Verdes 21   Large  Tamaño del Fabricante:L 
+prodname: 'Springfield Check Vichy Melange B.S Camisa Casual  Hombre  Verde  Gama Verdes 21   Large  Tamaño del Fabricante:L '
 ---
 
 Tienes [Springfield Check Vichy Melange B.S Camisa Casual  Hombre  Verde  Gama Verdes 21   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLJWM94/?tag=tolees-21) con un 55.18 % de descuento con precio de oferta de 11.65 EUR (original: 25.99 EUR) en el siguiente enlace!

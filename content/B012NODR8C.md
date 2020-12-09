@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 39.77 EUR
 inStock: true
-prodname: Trolley Bags Original Vibe - Juego de 4 Bolsas  65 x 16 x 15 cm
+prodname: 'Trolley Bags Original Vibe - Juego de 4 Bolsas  65 x 16 x 15 cm'
 ---
 
 Ahora mismo tienes [Trolley Bags Original Vibe - Juego de 4 Bolsas  65 x 16 x 15 cm](https://www.amazon.es/dp/B012NODR8C/?tag=tolees-21) a 26.99 EUR (original: 39.77 EUR) (32.13 %  de descuento) en el siguiente enlace!

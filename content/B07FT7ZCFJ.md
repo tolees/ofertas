@@ -14,7 +14,7 @@ currency: EUR
 price: 26.35
 comparePrice: 110 EUR
 inStock: true
-prodname: Clarks Deloria Gia  Sandalia con Pulsera para Mujer  Beige  Sand Suede-   39.5 EU
+prodname: 'Clarks Deloria Gia  Sandalia con Pulsera para Mujer  Beige  Sand Suede-   39.5 EU'
 ---
 
 Está [Clarks Deloria Gia  Sandalia con Pulsera para Mujer  Beige  Sand Suede-   39.5 EU](https://www.amazon.es/dp/B07FT7ZCFJ/?tag=tolees-21) con 76.05 de descuento por 26.35 EUR (original: 110 EUR) en el siguiente enlace!

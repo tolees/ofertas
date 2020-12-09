@@ -14,7 +14,7 @@ currency: EUR
 price: 27.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Crocs Swiftwater Wave M Zapatos de agua Hombre  Azul  Sea/Blue/White/Strap   42-43 EU  8 UK 
+prodname: 'Crocs Swiftwater Wave M Zapatos de agua Hombre  Azul  Sea/Blue/White/Strap   42-43 EU  8 UK '
 ---
 
 Tienes [Crocs Swiftwater Wave M Zapatos de agua Hombre  Azul  Sea/Blue/White/Strap   42-43 EU  8 UK ](https://www.amazon.es/dp/B01H6NYKJU/?tag=tolees-21) con un 30.11 % de descuento con precio de oferta de 27.95 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 37.46
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Tropican Mantenimiento para Loros - 9 kg
+prodname: 'Tropican Mantenimiento para Loros - 9 kg'
 ---
 
 Está [Tropican Mantenimiento para Loros - 9 kg](https://www.amazon.es/dp/B0002DGYDC/?tag=tolees-21) con 50.02 de descuento por 37.46 EUR (original: 74.95 EUR) en el siguiente enlace!

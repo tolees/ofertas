@@ -14,7 +14,7 @@ currency: EUR
 price: 30.08
 comparePrice: 50.0 EUR
 inStock: true
-prodname: New Balance 411  Zapatillas de Running Hombre  Black  Triple Black   40 EU
+prodname: 'New Balance 411  Zapatillas de Running Hombre  Black  Triple Black   40 EU'
 ---
 
 Está [New Balance 411  Zapatillas de Running Hombre  Black  Triple Black   40 EU](https://www.amazon.es/dp/B07BL18SMD/?tag=tolees-21) con 39.84 de descuento por 30.08 EUR (original: 50.0 EUR) en el siguiente enlace!

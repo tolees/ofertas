@@ -14,7 +14,7 @@ currency: EUR
 price: 57.58
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Azul  Collegiate Navy    Talla XL
+prodname: 'Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Azul  Collegiate Navy    Talla XL'
 ---
 
 Está [Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Azul  Collegiate Navy    Talla XL](https://www.amazon.es/dp/B07KSPTRPN/?tag=tolees-21) con 52.01 de descuento por 57.58 EUR (original: 119.99 EUR) en el siguiente enlace!

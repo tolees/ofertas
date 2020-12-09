@@ -14,7 +14,7 @@ currency: EUR
 price: 48.99
 comparePrice: 96.99 EUR
 inStock: true
-prodname: Kingston A400 SSD SA400S37/480G - Disco duro sólido interno 2.5" SATA 480GB
+prodname: 'Kingston A400 SSD SA400S37/480G - Disco duro sólido interno 2.5" SATA 480GB'
 ---
 
 Tienes [Kingston A400 SSD SA400S37/480G - Disco duro sólido interno 2.5" SATA 480GB](https://www.amazon.es/dp/B01N0TQPQB/?tag=tolees-21) con un 49.49 % de descuento con precio de oferta de 48.99 EUR (original: 96.99 EUR) en el siguiente enlace!

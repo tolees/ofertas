@@ -14,7 +14,7 @@ currency: EUR
 price: 16.59
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Tommy Hilfiger 2p LR Trunk  Bóxer Hombre  Rosa  Navy Blazer/Navy Blazer 428   Small
+prodname: 'Tommy Hilfiger 2p LR Trunk  Bóxer Hombre  Rosa  Navy Blazer/Navy Blazer 428   Small'
 ---
 
 Está [Tommy Hilfiger 2p LR Trunk  Bóxer Hombre  Rosa  Navy Blazer/Navy Blazer 428   Small](https://www.amazon.es/dp/B07D9BCMQ1/?tag=tolees-21) con 58.42 de descuento por 16.59 EUR (original: 39.9 EUR) en el siguiente enlace!

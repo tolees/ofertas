@@ -14,7 +14,7 @@ currency: EUR
 price: 30.68
 comparePrice: 49.9 EUR
 inStock: true
-prodname: ARCTIC - Freezer i32 Plus - Refrigerador para torre CPU Intel I 2 x ventiladores 120 mm I Semi pasivo I Heatpipes descentrados I Push Pull - 753 gr 12 3 x 10 2 x 15 cm
+prodname: 'ARCTIC - Freezer i32 Plus - Refrigerador para torre CPU Intel I 2 x ventiladores 120 mm I Semi pasivo I Heatpipes descentrados I Push Pull - 753 gr 12 3 x 10 2 x 15 cm'
 ---
 
 Está [ARCTIC - Freezer i32 Plus - Refrigerador para torre CPU Intel I 2 x ventiladores 120 mm I Semi pasivo I Heatpipes descentrados I Push Pull - 753 gr 12 3 x 10 2 x 15 cm](https://www.amazon.es/dp/B01MRU1UK3/?tag=tolees-21) con 38.52 de descuento por 30.68 EUR (original: 49.9 EUR) en el siguiente enlace!

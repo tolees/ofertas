@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 36.99 EUR
 inStock: true
-prodname: YaYuu Correa para Fitbit Versa Watch  Correa de Pulsera Correa de Repuesto Ajustable para Fitbit Versa Reloj Inteligente Pulseras de Goma Fitness pequeño  Grande  A  10Pack  pequeño  5.11"-7.68"  
+prodname: 'YaYuu Correa para Fitbit Versa Watch  Correa de Pulsera Correa de Repuesto Ajustable para Fitbit Versa Reloj Inteligente Pulseras de Goma Fitness pequeño  Grande  A  10Pack  pequeño  5.11"-7.68"  '
 ---
 
 Ahora mismo tienes [YaYuu Correa para Fitbit Versa Watch  Correa de Pulsera Correa de Repuesto Ajustable para Fitbit Versa Reloj Inteligente Pulseras de Goma Fitness pequeño  Grande  A  10Pack  pequeño  5.11"-7.68"  ](https://www.amazon.es/dp/B07GN8TDTS/?tag=tolees-21) a 22.99 EUR (original: 36.99 EUR) (37.85 %  de descuento) en el siguiente enlace!

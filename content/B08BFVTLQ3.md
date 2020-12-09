@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Arbily Smartwatch Hombre  Reloj Inteligente con Pantalla Tátil Completa  Reloj Deportivo Impermeable IP68  Reloj Digital Fitness Tracker para Android iOS Huawei Samsung Xiaomi
+prodname: 'Arbily Smartwatch Hombre  Reloj Inteligente con Pantalla Tátil Completa  Reloj Deportivo Impermeable IP68  Reloj Digital Fitness Tracker para Android iOS Huawei Samsung Xiaomi'
 ---
 
 Ahora mismo tienes [Arbily Smartwatch Hombre  Reloj Inteligente con Pantalla Tátil Completa  Reloj Deportivo Impermeable IP68  Reloj Digital Fitness Tracker para Android iOS Huawei Samsung Xiaomi](https://www.amazon.es/dp/B08BFVTLQ3/?tag=tolees-21) a 39.99 EUR (original: 99.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

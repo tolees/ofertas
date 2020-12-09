@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 65 EUR
 inStock: true
-prodname: Geox J Flexyper Boy D  Zapatillas para Niños  Gris  Grey/Lime Green C1172   36 EU
+prodname: 'Geox J Flexyper Boy D  Zapatillas para Niños  Gris  Grey/Lime Green C1172   36 EU'
 ---
 
 Está [Geox J Flexyper Boy D  Zapatillas para Niños  Gris  Grey/Lime Green C1172   36 EU](https://www.amazon.es/dp/B07DK4XZVX/?tag=tolees-21) con 53.92 de descuento por 29.95 EUR (original: 65 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.7
 comparePrice: 18.53 EUR
 inStock: true
-prodname: PASONOMI Ratón inalámbrico silencioso 2.4G Ratón óptico para ordenador con receptor USB 3 DPI ajustable compatible con ordenador  portátil  PC  negro 
+prodname: 'PASONOMI Ratón inalámbrico silencioso 2.4G Ratón óptico para ordenador con receptor USB 3 DPI ajustable compatible con ordenador  portátil  PC  negro '
 ---
 
 Tienes [PASONOMI Ratón inalámbrico silencioso 2.4G Ratón óptico para ordenador con receptor USB 3 DPI ajustable compatible con ordenador  portátil  PC  negro ](https://www.amazon.es/dp/B088LVMSYG/?tag=tolees-21) con un 42.26 % de descuento con precio de oferta de 10.7 EUR (original: 18.53 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.66
 comparePrice: 22.54 EUR
 inStock: true
-prodname: Domiva 1900488 Set de 2 sábanas bajeras
+prodname: 'Domiva 1900488 Set de 2 sábanas bajeras'
 ---
 
 Está [Domiva 1900488 Set de 2 sábanas bajeras](https://www.amazon.es/dp/B00DEGM3CK/?tag=tolees-21) con 66.02 de descuento por 7.66 EUR (original: 22.54 EUR) en el siguiente enlace!

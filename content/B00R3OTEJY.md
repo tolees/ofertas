@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: PDP - Cargador Energizer 2 Mandos  Color Blanco  Xbox One 
+prodname: 'PDP - Cargador Energizer 2 Mandos  Color Blanco  Xbox One '
 ---
 
 Ahora mismo tienes [PDP - Cargador Energizer 2 Mandos  Color Blanco  Xbox One ](https://www.amazon.es/dp/B00R3OTEJY/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

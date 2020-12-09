@@ -14,7 +14,7 @@ currency: EUR
 price: 23.22
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Trucco - Pantalones para mujer  color azul oscuro  talla 40
+prodname: 'Trucco - Pantalones para mujer  color azul oscuro  talla 40'
 ---
 
 Ahora mismo tienes [Trucco - Pantalones para mujer  color azul oscuro  talla 40](https://www.amazon.es/dp/B073SBRHC5/?tag=tolees-21) a 23.22 EUR (original: 49.95 EUR) (53.51 %  de descuento) en el siguiente enlace!

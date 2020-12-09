@@ -14,7 +14,7 @@ currency: EUR
 price: 32.02
 comparePrice: 70 EUR
 inStock: true
-prodname: New Balance WX624WB4  Zapatillas para Mujer  Blanco  white/blue   40 EU  6.5 UK 
+prodname: 'New Balance WX624WB4  Zapatillas para Mujer  Blanco  white/blue   40 EU  6.5 UK '
 ---
 
 Tienes [New Balance WX624WB4  Zapatillas para Mujer  Blanco  white/blue   40 EU  6.5 UK ](https://www.amazon.es/dp/B013WGFWV0/?tag=tolees-21) con un 54.26 % de descuento con precio de oferta de 32.02 EUR (original: 70 EUR) en el siguiente enlace!

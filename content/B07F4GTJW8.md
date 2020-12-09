@@ -14,7 +14,7 @@ currency: EUR
 price: 7.49
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Ant Man & The Wasp  BD  [Blu-ray]
+prodname: 'Ant Man & The Wasp  BD  [Blu-ray]'
 ---
 
 Tienes [Ant Man & The Wasp  BD  [Blu-ray]](https://www.amazon.es/dp/B07F4GTJW8/?tag=tolees-21) con un 46.46 % de descuento con precio de oferta de 7.49 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.66
 comparePrice: 13.0 EUR
 inStock: true
-prodname: Only Onlohio Utility Jacket CC Otw Chaqueta  Kalamata  S para Mujer
+prodname: 'Only Onlohio Utility Jacket CC Otw Chaqueta  Kalamata  S para Mujer'
 ---
 
 Está [Only Onlohio Utility Jacket CC Otw Chaqueta  Kalamata  S para Mujer](https://www.amazon.es/dp/B085GV3GZR/?tag=tolees-21) con 25.69 de descuento por 9.66 EUR (original: 13.0 EUR) en el siguiente enlace!

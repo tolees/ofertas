@@ -14,7 +14,7 @@ currency: EUR
 price: 14.85
 comparePrice: 19.8 EUR
 inStock: true
-prodname: Sanon Cola de Caballo - 2 Paquetes de 200 Cápsulas
+prodname: 'Sanon Cola de Caballo - 2 Paquetes de 200 Cápsulas'
 ---
 
 Está [Sanon Cola de Caballo - 2 Paquetes de 200 Cápsulas](https://www.amazon.es/dp/B06XPXVDP3/?tag=tolees-21) con 25.00 de descuento por 14.85 EUR (original: 19.8 EUR) en el siguiente enlace!

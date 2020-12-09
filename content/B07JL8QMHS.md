@@ -14,7 +14,7 @@ currency: EUR
 price: 19.59
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 48683  Zapatillas para Hombre  Marrón Camel  43 EU
+prodname: 'XTI 48683  Zapatillas para Hombre  Marrón Camel  43 EU'
 ---
 
 Está [XTI 48683  Zapatillas para Hombre  Marrón Camel  43 EU](https://www.amazon.es/dp/B07JL8QMHS/?tag=tolees-21) con 60.78 de descuento por 19.59 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.66
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Kingston DataTraveler G4 DTIG4/128 GB - Memoria USB  128 GB  Verde/Blanco
+prodname: 'Kingston DataTraveler G4 DTIG4/128 GB - Memoria USB  128 GB  Verde/Blanco'
 ---
 
 Tienes [Kingston DataTraveler G4 DTIG4/128 GB - Memoria USB  128 GB  Verde/Blanco](https://www.amazon.es/dp/B00G9WHMHM/?tag=tolees-21) con un 44.93 % de descuento con precio de oferta de 12.66 EUR (original: 22.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.95
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Trust Gaming GXT 280 - Teclado para Gaming  Iluminado con función Anti-Ghost  iluminación LED de 3 Colores 
+prodname: 'Trust Gaming GXT 280 - Teclado para Gaming  Iluminado con función Anti-Ghost  iluminación LED de 3 Colores '
 ---
 
 Ahora mismo tienes [Trust Gaming GXT 280 - Teclado para Gaming  Iluminado con función Anti-Ghost  iluminación LED de 3 Colores ](https://www.amazon.es/dp/B00GV17RNK/?tag=tolees-21) a 12.95 EUR (original: 49.99 EUR) (74.09 %  de descuento) en el siguiente enlace!

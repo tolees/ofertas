@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Rocf Rossini Vintage Gafas de sol polarizadas Hombres Mujeres Retro Tonos Protección UV400  Negro/gris 
+prodname: 'Rocf Rossini Vintage Gafas de sol polarizadas Hombres Mujeres Retro Tonos Protección UV400  Negro/gris '
 ---
 
 Está [Rocf Rossini Vintage Gafas de sol polarizadas Hombres Mujeres Retro Tonos Protección UV400  Negro/gris ](https://www.amazon.es/dp/B07DC3KPBJ/?tag=tolees-21) con 50.02 de descuento por 12.99 EUR (original: 25.99 EUR) en el siguiente enlace!

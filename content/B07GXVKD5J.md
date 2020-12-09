@@ -14,7 +14,7 @@ currency: EUR
 price: 10.42
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Tenda AP4 Punto de Acceso N inalámbrico WiFi  300 Mbps 2 4 GHz  repetidor Universal  Cliente  estación  o WISP  Control de Acceso  VPN  2 Antenas 5dBi  Extensor WiFi  Ethernet  802.11n/g/b 
+prodname: 'Tenda AP4 Punto de Acceso N inalámbrico WiFi  300 Mbps 2 4 GHz  repetidor Universal  Cliente  estación  o WISP  Control de Acceso  VPN  2 Antenas 5dBi  Extensor WiFi  Ethernet  802.11n/g/b '
 ---
 
 Ahora mismo tienes [Tenda AP4 Punto de Acceso N inalámbrico WiFi  300 Mbps 2 4 GHz  repetidor Universal  Cliente  estación  o WISP  Control de Acceso  VPN  2 Antenas 5dBi  Extensor WiFi  Ethernet  802.11n/g/b ](https://www.amazon.es/dp/B07GXVKD5J/?tag=tolees-21) a 10.42 EUR (original: 19.99 EUR) (47.87 %  de descuento) en el siguiente enlace!

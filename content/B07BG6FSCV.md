@@ -14,7 +14,7 @@ currency: EUR
 price: 39.18
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Clarks Comet Frostgtx  Botas Chelsea para Niñas  Marrón  Tan Leather   25.5 EU
+prodname: 'Clarks Comet Frostgtx  Botas Chelsea para Niñas  Marrón  Tan Leather   25.5 EU'
 ---
 
 Ahora mismo tienes [Clarks Comet Frostgtx  Botas Chelsea para Niñas  Marrón  Tan Leather   25.5 EU](https://www.amazon.es/dp/B07BG6FSCV/?tag=tolees-21) a 39.18 EUR (original: 89.95 EUR) (56.44 %  de descuento) en el siguiente enlace!

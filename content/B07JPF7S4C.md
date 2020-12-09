@@ -14,7 +14,7 @@ currency: EUR
 price: 49.98
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas Stan Smith Zapatillas de Gimnasia Hombre  Negro  Core Black/Ftwr White/Core Black  40 2/3 EU
+prodname: 'adidas Stan Smith Zapatillas de Gimnasia Hombre  Negro  Core Black/Ftwr White/Core Black  40 2/3 EU'
 ---
 
 Ahora mismo tienes [adidas Stan Smith Zapatillas de Gimnasia Hombre  Negro  Core Black/Ftwr White/Core Black  40 2/3 EU](https://www.amazon.es/dp/B07JPF7S4C/?tag=tolees-21) a 49.98 EUR (original: 99.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

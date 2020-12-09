@@ -14,7 +14,7 @@ currency: EUR
 price: 23.81
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Reebok Classic Leather Pastel  Zapatillas para Niñas  Morado  Lilac Glow/White   37 EU
+prodname: 'Reebok Classic Leather Pastel  Zapatillas para Niñas  Morado  Lilac Glow/White   37 EU'
 ---
 
 Tienes [Reebok Classic Leather Pastel  Zapatillas para Niñas  Morado  Lilac Glow/White   37 EU](https://www.amazon.es/dp/B0731NWJVX/?tag=tolees-21) con un 60.28 % de descuento con precio de oferta de 23.81 EUR (original: 59.95 EUR) en el siguiente enlace!

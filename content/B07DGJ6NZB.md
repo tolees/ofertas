@@ -14,7 +14,7 @@ currency: EUR
 price: 22.0
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Oral-B Vitality 100 Cepillo Eléctrico Recargable con Tecnología de Braun  1 Mango Azul  1 Cabezal de Recambio CrossAction
+prodname: 'Oral-B Vitality 100 Cepillo Eléctrico Recargable con Tecnología de Braun  1 Mango Azul  1 Cabezal de Recambio CrossAction'
 ---
 
 Está [Oral-B Vitality 100 Cepillo Eléctrico Recargable con Tecnología de Braun  1 Mango Azul  1 Cabezal de Recambio CrossAction](https://www.amazon.es/dp/B07DGJ6NZB/?tag=tolees-21) con 26.54 de descuento por 22.0 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 27.9 EUR
 inStock: true
-prodname: Diadermine - Tónico facial suave -200ml  pack de 6  Total: 1200ml
+prodname: 'Diadermine - Tónico facial suave -200ml  pack de 6  Total: 1200ml'
 ---
 
 Tienes [Diadermine - Tónico facial suave -200ml  pack de 6  Total: 1200ml](https://www.amazon.es/dp/B071X9DZJQ/?tag=tolees-21) con un 60.61 % de descuento con precio de oferta de 10.99 EUR (original: 27.9 EUR) en el siguiente enlace!

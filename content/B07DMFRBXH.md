@@ -14,7 +14,7 @@ currency: EUR
 price: 4.98
 comparePrice: 9.98 EUR
 inStock: true
-prodname: Toy fría männliche masturbators verdadera Pussy suave Vagina masturbación Chale adultos hombres Sex juguete
+prodname: 'Toy fría männliche masturbators verdadera Pussy suave Vagina masturbación Chale adultos hombres Sex juguete'
 ---
 
 Está [Toy fría männliche masturbators verdadera Pussy suave Vagina masturbación Chale adultos hombres Sex juguete](https://www.amazon.es/dp/B07DMFRBXH/?tag=tolees-21) con 50.10 de descuento por 4.98 EUR (original: 9.98 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 194.99
 comparePrice: 499 EUR
 inStock: true
-prodname: Teclast M20- Phablet4G Tablet 10.1 Pulgadas  Deca-Core Android 8.0 MT6797 4GB RAM+64GB eMMC ROM Cámaras Dobles Tarjetas Dobles  Dual WiFi  Platino
+prodname: 'Teclast M20- Phablet4G Tablet 10.1 Pulgadas  Deca-Core Android 8.0 MT6797 4GB RAM+64GB eMMC ROM Cámaras Dobles Tarjetas Dobles  Dual WiFi  Platino'
 ---
 
 Tienes [Teclast M20- Phablet4G Tablet 10.1 Pulgadas  Deca-Core Android 8.0 MT6797 4GB RAM+64GB eMMC ROM Cámaras Dobles Tarjetas Dobles  Dual WiFi  Platino](https://www.amazon.es/dp/B07NSSVZ18/?tag=tolees-21) con un 60.92 % de descuento con precio de oferta de 194.99 EUR (original: 499 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.49
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Educa Borras 18508 - Rompecabezas Manhattan al atardecer  3000 piezas
+prodname: 'Educa Borras 18508 - Rompecabezas Manhattan al atardecer  3000 piezas'
 ---
 
 Está [Educa Borras 18508 - Rompecabezas Manhattan al atardecer  3000 piezas](https://www.amazon.es/dp/B084HCTQ7J/?tag=tolees-21) con 25.01 de descuento por 22.49 EUR (original: 29.99 EUR) en el siguiente enlace!

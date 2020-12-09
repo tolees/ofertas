@@ -14,7 +14,7 @@ currency: EUR
 price: 71.4
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Levi s The Jacket Chaqueta vaquera  Liquorice Trucker  S para Hombre
+prodname: 'Levi s The Jacket Chaqueta vaquera  Liquorice Trucker  S para Hombre'
 ---
 
 Tienes [Levi s The Jacket Chaqueta vaquera  Liquorice Trucker  S para Hombre](https://www.amazon.es/dp/B07KF51YRG/?tag=tolees-21) con un 35.09 % de descuento con precio de oferta de 71.4 EUR (original: 110.0 EUR) en el siguiente enlace!

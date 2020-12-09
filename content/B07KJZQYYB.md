@@ -14,7 +14,7 @@ currency: EUR
 price: 96.99
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Sorel Madson Chukka Waterproof Botas para Nieve  Mujer  Marrón  Camel Brown   37 EU
+prodname: 'Sorel Madson Chukka Waterproof Botas para Nieve  Mujer  Marrón  Camel Brown   37 EU'
 ---
 
 Está [Sorel Madson Chukka Waterproof Botas para Nieve  Mujer  Marrón  Camel Brown   37 EU](https://www.amazon.es/dp/B07KJZQYYB/?tag=tolees-21) con 35.34 de descuento por 96.99 EUR (original: 149.99 EUR) en el siguiente enlace!

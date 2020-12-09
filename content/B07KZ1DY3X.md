@@ -14,7 +14,7 @@ currency: EUR
 price: 14.61
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield 2.Gym.Vestido Jaquard SPO Vestido  Mujer  Azul  Gama Azules 18   38  Tamaño del Fabricante:38 
+prodname: 'Springfield 2.Gym.Vestido Jaquard SPO Vestido  Mujer  Azul  Gama Azules 18   38  Tamaño del Fabricante:38 '
 ---
 
 Tienes [Springfield 2.Gym.Vestido Jaquard SPO Vestido  Mujer  Azul  Gama Azules 18   38  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07KZ1DY3X/?tag=tolees-21) con un 51.28 % de descuento con precio de oferta de 14.61 EUR (original: 29.99 EUR) en el siguiente enlace!

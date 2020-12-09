@@ -14,7 +14,7 @@ currency: EUR
 price: 28.38
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Puma Jaab XT Wn s  Zapatillas de Deporte para Mujer  Negro Black White  39 EU
+prodname: 'Puma Jaab XT Wn s  Zapatillas de Deporte para Mujer  Negro Black White  39 EU'
 ---
 
 Tienes [Puma Jaab XT Wn s  Zapatillas de Deporte para Mujer  Negro Black White  39 EU](https://www.amazon.es/dp/B07DCF3N9J/?tag=tolees-21) con un 64.50 % de descuento con precio de oferta de 28.38 EUR (original: 79.95 EUR) en el siguiente enlace!

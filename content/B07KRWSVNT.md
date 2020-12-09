@@ -14,7 +14,7 @@ currency: EUR
 price: 35.52
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Columbia 1681661 CSC BASIC LOGO II HOODIE  Sudadera con capucha  Hombre   Algodón   Azul  Carbon    Talla L
+prodname: 'Columbia 1681661 CSC BASIC LOGO II HOODIE  Sudadera con capucha  Hombre   Algodón   Azul  Carbon    Talla L'
 ---
 
 Ahora mismo tienes [Columbia 1681661 CSC BASIC LOGO II HOODIE  Sudadera con capucha  Hombre   Algodón   Azul  Carbon    Talla L](https://www.amazon.es/dp/B07KRWSVNT/?tag=tolees-21) a 35.52 EUR (original: 59.99 EUR) (40.79 %  de descuento) en el siguiente enlace!

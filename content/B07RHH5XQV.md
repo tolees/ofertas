@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 45.63 EUR
 inStock: true
-prodname: SZJJX RC - Barco de Juguete eléctrico  batería de Larga duración  Control Remoto  Piscinas y Lagos  2.4 GHz  Velocidad 10 km/h  4 Canales  para niños  Color Azul Marino
+prodname: 'SZJJX RC - Barco de Juguete eléctrico  batería de Larga duración  Control Remoto  Piscinas y Lagos  2.4 GHz  Velocidad 10 km/h  4 Canales  para niños  Color Azul Marino'
 ---
 
 Tienes [SZJJX RC - Barco de Juguete eléctrico  batería de Larga duración  Control Remoto  Piscinas y Lagos  2.4 GHz  Velocidad 10 km/h  4 Canales  para niños  Color Azul Marino](https://www.amazon.es/dp/B07RHH5XQV/?tag=tolees-21) con un 29.89 % de descuento con precio de oferta de 31.99 EUR (original: 45.63 EUR) en el siguiente enlace!

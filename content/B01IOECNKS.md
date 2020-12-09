@@ -14,7 +14,7 @@ currency: EUR
 price: 33.05
 comparePrice: 69 EUR
 inStock: true
-prodname: Sennheiser HD 2.20s - Auriculares de Diadema Cerrados  3.5 mm  Control Remoto en línea   Color Negro
+prodname: 'Sennheiser HD 2.20s - Auriculares de Diadema Cerrados  3.5 mm  Control Remoto en línea   Color Negro'
 ---
 
 Ahora mismo tienes [Sennheiser HD 2.20s - Auriculares de Diadema Cerrados  3.5 mm  Control Remoto en línea   Color Negro](https://www.amazon.es/dp/B01IOECNKS/?tag=tolees-21) a 33.05 EUR (original: 69 EUR) (52.10 %  de descuento) en el siguiente enlace!

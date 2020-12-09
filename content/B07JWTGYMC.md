@@ -14,7 +14,7 @@ currency: EUR
 price: 38.45
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Heston-Avano  Zapatillas para Hombre  Marrón  Dark Brown CDB   43 EU
+prodname: 'Skechers Heston-Avano  Zapatillas para Hombre  Marrón  Dark Brown CDB   43 EU'
 ---
 
 Tienes [Skechers Heston-Avano  Zapatillas para Hombre  Marrón  Dark Brown CDB   43 EU](https://www.amazon.es/dp/B07JWTGYMC/?tag=tolees-21) con un 45.03 % de descuento con precio de oferta de 38.45 EUR (original: 69.95 EUR) en el siguiente enlace!

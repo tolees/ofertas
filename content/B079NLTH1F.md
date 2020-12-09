@@ -14,7 +14,7 @@ currency: EUR
 price: 66.76
 comparePrice: 95.43 EUR
 inStock: true
-prodname: Festina Reloj de Pulsera F20346/2
+prodname: 'Festina Reloj de Pulsera F20346/2'
 ---
 
 Tienes [Festina Reloj de Pulsera F20346/2](https://www.amazon.es/dp/B079NLTH1F/?tag=tolees-21) con un 30.04 % de descuento con precio de oferta de 66.76 EUR (original: 95.43 EUR) en el siguiente enlace!

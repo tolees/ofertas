@@ -14,7 +14,7 @@ currency: EUR
 price: 81.46
 comparePrice: 221.99 EUR
 inStock: true
-prodname: San Ignacio PK330IT Set de Tres sartenes + Batería de Cocina 8 Piezas  Cromado
+prodname: 'San Ignacio PK330IT Set de Tres sartenes + Batería de Cocina 8 Piezas  Cromado'
 ---
 
 Tienes [San Ignacio PK330IT Set de Tres sartenes + Batería de Cocina 8 Piezas  Cromado](https://www.amazon.es/dp/B073GYXT6C/?tag=tolees-21) con un 63.30 % de descuento con precio de oferta de 81.46 EUR (original: 221.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.82
 comparePrice: 14.99 EUR
 inStock: true
-prodname: TBPHP 10pcs micro agujas DermaPen Agujas de repuesto puntas cartucho Slot tornillo Regular para Derma Pen eléctrico  12 agujas en cada recambio
+prodname: 'TBPHP 10pcs micro agujas DermaPen Agujas de repuesto puntas cartucho Slot tornillo Regular para Derma Pen eléctrico  12 agujas en cada recambio'
 ---
 
 Ahora mismo tienes [TBPHP 10pcs micro agujas DermaPen Agujas de repuesto puntas cartucho Slot tornillo Regular para Derma Pen eléctrico  12 agujas en cada recambio](https://www.amazon.es/dp/B07L2TLF4H/?tag=tolees-21) a 10.82 EUR (original: 14.99 EUR) (27.82 %  de descuento) en el siguiente enlace!

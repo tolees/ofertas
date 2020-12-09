@@ -14,7 +14,7 @@ currency: EUR
 price: 5.36
 comparePrice: 10.04 EUR
 inStock: true
-prodname: Silverline 675088 Ventosa doble 70 kg
+prodname: 'Silverline 675088 Ventosa doble 70 kg'
 ---
 
 Ahora mismo tienes [Silverline 675088 Ventosa doble 70 kg](https://www.amazon.es/dp/B000LFTWA8/?tag=tolees-21) a 5.36 EUR (original: 10.04 EUR) (46.61 %  de descuento) en el siguiente enlace!

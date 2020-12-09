@@ -14,7 +14,7 @@ currency: EUR
 price: 44
 comparePrice: 86 EUR
 inStock: true
-prodname: Puma Borussia Dortmund Home Replica Shirt Camiseta equipación  Hombre  Amarillo  XXL
+prodname: 'Puma Borussia Dortmund Home Replica Shirt Camiseta equipación  Hombre  Amarillo  XXL'
 ---
 
 Tienes [Puma Borussia Dortmund Home Replica Shirt Camiseta equipación  Hombre  Amarillo  XXL](https://www.amazon.es/dp/B01AYDG54M/?tag=tolees-21) con un 48.84 % de descuento con precio de oferta de 44 EUR (original: 86 EUR) en el siguiente enlace!

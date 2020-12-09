@@ -14,7 +14,7 @@ currency: EUR
 price: 11.74
 comparePrice: 75.0 EUR
 inStock: true
-prodname: Superga 2790-fantasy COTW  Zapatillas de Gimnasia para Mujer  Beige  Beige/Jaguar A1s   35 EU
+prodname: 'Superga 2790-fantasy COTW  Zapatillas de Gimnasia para Mujer  Beige  Beige/Jaguar A1s   35 EU'
 ---
 
 Ahora mismo tienes [Superga 2790-fantasy COTW  Zapatillas de Gimnasia para Mujer  Beige  Beige/Jaguar A1s   35 EU](https://www.amazon.es/dp/B07TVDY7W2/?tag=tolees-21) a 11.74 EUR (original: 75.0 EUR) (84.35 %  de descuento) en el siguiente enlace!

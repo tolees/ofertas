@@ -14,7 +14,7 @@ currency: EUR
 price: 10.0
 comparePrice: 14.95 EUR
 inStock: true
-prodname: L Oréal Paris Make-up designer Infalible 24H Fresh Wear Base de Maquillaje de Larga Duración - Tono 125 Naturel Rose  30 ml
+prodname: 'L Oréal Paris Make-up designer Infalible 24H Fresh Wear Base de Maquillaje de Larga Duración - Tono 125 Naturel Rose  30 ml'
 ---
 
 Tienes [L Oréal Paris Make-up designer Infalible 24H Fresh Wear Base de Maquillaje de Larga Duración - Tono 125 Naturel Rose  30 ml](https://www.amazon.es/dp/B07DSWJLJ1/?tag=tolees-21) con un 33.11 % de descuento con precio de oferta de 10.0 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 81.1 EUR
 inStock: true
-prodname: Pipedream King Cock 12" Cock with Balls Flesh - 1 unidad
+prodname: 'Pipedream King Cock 12" Cock with Balls Flesh - 1 unidad'
 ---
 
 Tienes [Pipedream King Cock 12" Cock with Balls Flesh - 1 unidad](https://www.amazon.es/dp/B00UJ1NEZ8/?tag=tolees-21) con un 44.51 % de descuento con precio de oferta de 45.0 EUR (original: 81.1 EUR) en el siguiente enlace!

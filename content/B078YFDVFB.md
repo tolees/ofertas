@@ -14,7 +14,7 @@ currency: EUR
 price: 35.87
 comparePrice: 60.97 EUR
 inStock: true
-prodname: Disney Problema Profundo - Figurina de Ursula  Resina  Multicolor  16x22x21 cm
+prodname: 'Disney Problema Profundo - Figurina de Ursula  Resina  Multicolor  16x22x21 cm'
 ---
 
 Tienes [Disney Problema Profundo - Figurina de Ursula  Resina  Multicolor  16x22x21 cm](https://www.amazon.es/dp/B078YFDVFB/?tag=tolees-21) con un 41.17 % de descuento con precio de oferta de 35.87 EUR (original: 60.97 EUR) en el siguiente enlace!

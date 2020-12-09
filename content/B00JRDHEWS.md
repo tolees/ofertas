@@ -14,7 +14,7 @@ currency: EUR
 price: 507.88
 comparePrice: 679.95 EUR
 inStock: true
-prodname: VIBOX Vision 2S - Ordenador para Gaming  AMD A4-6300  8 GB de RAM  2 TB de Disco Duro  AMD Radeon HD 8370D  Color neón Azul
+prodname: 'VIBOX Vision 2S - Ordenador para Gaming  AMD A4-6300  8 GB de RAM  2 TB de Disco Duro  AMD Radeon HD 8370D  Color neón Azul'
 ---
 
 Ahora mismo tienes [VIBOX Vision 2S - Ordenador para Gaming  AMD A4-6300  8 GB de RAM  2 TB de Disco Duro  AMD Radeon HD 8370D  Color neón Azul](https://www.amazon.es/dp/B00JRDHEWS/?tag=tolees-21) a 507.88 EUR (original: 679.95 EUR) (25.31 %  de descuento) en el siguiente enlace!

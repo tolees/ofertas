@@ -14,7 +14,7 @@ currency: EUR
 price: 187.36
 comparePrice: 249.99 EUR
 inStock: true
-prodname: Philips Aspirador Vertical 2 en 1 con PowerCyclone FC6172/01  0.6 litros  83 Decibelios  Rojo
+prodname: 'Philips Aspirador Vertical 2 en 1 con PowerCyclone FC6172/01  0.6 litros  83 Decibelios  Rojo'
 ---
 
 Ahora mismo tienes [Philips Aspirador Vertical 2 en 1 con PowerCyclone FC6172/01  0.6 litros  83 Decibelios  Rojo](https://www.amazon.es/dp/B01J5FGLXK/?tag=tolees-21) a 187.36 EUR (original: 249.99 EUR) (25.05 %  de descuento) en el siguiente enlace!

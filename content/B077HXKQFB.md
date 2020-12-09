@@ -14,7 +14,7 @@ currency: EUR
 price: 7.67
 comparePrice: 12.37 EUR
 inStock: true
-prodname: Granberg 110.0160-S- Guantes de bambú para adultos  talla pequeña
+prodname: 'Granberg 110.0160-S- Guantes de bambú para adultos  talla pequeña'
 ---
 
 Ahora mismo tienes [Granberg 110.0160-S- Guantes de bambú para adultos  talla pequeña](https://www.amazon.es/dp/B077HXKQFB/?tag=tolees-21) a 7.67 EUR (original: 12.37 EUR) (38.00 %  de descuento) en el siguiente enlace!

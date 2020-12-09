@@ -14,7 +14,7 @@ currency: EUR
 price: 12.6
 comparePrice: 30 EUR
 inStock: true
-prodname: Hurley M Icon Slash Gradient tee Camisetas  Hombre  dk Grey Heather  XL
+prodname: 'Hurley M Icon Slash Gradient tee Camisetas  Hombre  dk Grey Heather  XL'
 ---
 
 Ahora mismo tienes [Hurley M Icon Slash Gradient tee Camisetas  Hombre  dk Grey Heather  XL](https://www.amazon.es/dp/B07FQGCG9B/?tag=tolees-21) a 12.6 EUR (original: 30 EUR) (58.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 233.9
 comparePrice: 379 EUR
 inStock: true
-prodname: LG 32LK6100PLB - Smart TV de 32"  LED  Full HD  Inteligencia Artificial  Quad Core  3 x HDR  Wi-Fi   Color Negro
+prodname: 'LG 32LK6100PLB - Smart TV de 32"  LED  Full HD  Inteligencia Artificial  Quad Core  3 x HDR  Wi-Fi   Color Negro'
 ---
 
 Está [LG 32LK6100PLB - Smart TV de 32"  LED  Full HD  Inteligencia Artificial  Quad Core  3 x HDR  Wi-Fi   Color Negro](https://www.amazon.es/dp/B07CJRJK1V/?tag=tolees-21) con 38.28 de descuento por 233.9 EUR (original: 379 EUR) en el siguiente enlace!

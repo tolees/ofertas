@@ -14,15 +14,13 @@ currency: EUR
 price: 32.99
 comparePrice: 80.0 EUR
 inStock: true
-prodname: LIGHTAILING Conjunto de Luces  Architecture San Francisco  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21043  NO Incluido en el Modelo 
+prodname: 'LIGHTAILING Conjunto de Luces  Architecture San Francisco  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21043  NO Incluido en el Modelo '
 ---
 
-Está [LIGHTAILING Conjunto de Luces  Architecture San Francisco  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21043  NO Incluido en el Modelo ](https://www.amazon.es/dp/B07S1FB7FZ/?tag=tolees-21) con 58.76 de descuento por 32.99 EUR (original: 80.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [LIGHTAILING Conjunto de Luces  Architecture San Francisco  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21043  NO Incluido en el Modelo ](https://www.amazon.es/dp/B07S1FB7FZ/?tag=tolees-21) a 32.99 EUR (original: 80.0 EUR) (58.76 %  de descuento) en el siguiente enlace!
 
 [![LIGHTAILING Conjunto de Luces  Architect](https://m.media-amazon.com/images/I/419w9xtOJiL._SL200_.jpg)](https://www.amazon.es/dp/B07S1FB7FZ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07S1FB7FZ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07S1FB7FZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

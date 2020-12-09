@@ -14,7 +14,7 @@ currency: EUR
 price: 44.86
 comparePrice: 156.02 EUR
 inStock: true
-prodname: Mochila Portátil Hombre 17.3 Pulgadas Impermeable Puerto USB Viajes de Negocios Universidad Mochila Multiusos Daypacks Negro
+prodname: 'Mochila Portátil Hombre 17.3 Pulgadas Impermeable Puerto USB Viajes de Negocios Universidad Mochila Multiusos Daypacks Negro'
 ---
 
 Tienes [Mochila Portátil Hombre 17.3 Pulgadas Impermeable Puerto USB Viajes de Negocios Universidad Mochila Multiusos Daypacks Negro](https://www.amazon.es/dp/B07CYPHT9Z/?tag=tolees-21) con un 71.25 % de descuento con precio de oferta de 44.86 EUR (original: 156.02 EUR) en el siguiente enlace!

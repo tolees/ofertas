@@ -14,7 +14,7 @@ currency: EUR
 price: 23
 comparePrice: 34.8 EUR
 inStock: true
-prodname: Pedros Jaula para Aves  60 cm
+prodname: 'Pedros Jaula para Aves  60 cm'
 ---
 
 Está [Pedros Jaula para Aves  60 cm](https://www.amazon.es/dp/B00L2IL9EA/?tag=tolees-21) con 33.91 de descuento por 23 EUR (original: 34.8 EUR) en el siguiente enlace!

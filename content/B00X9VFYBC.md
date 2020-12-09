@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 9.49 EUR
 inStock: true
-prodname: Somat Todo En 1 Detergente Pastillas para Lavavajillas Máquina - 52 Lavados
+prodname: 'Somat Todo En 1 Detergente Pastillas para Lavavajillas Máquina - 52 Lavados'
 ---
 
 Está [Somat Todo En 1 Detergente Pastillas para Lavavajillas Máquina - 52 Lavados](https://www.amazon.es/dp/B00X9VFYBC/?tag=tolees-21) con 26.34 de descuento por 6.99 EUR (original: 9.49 EUR) en el siguiente enlace!

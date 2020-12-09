@@ -14,7 +14,7 @@ currency: EUR
 price: 20.44
 comparePrice: 35 EUR
 inStock: true
-prodname: Burton Friston Camisetas  Hombre  Ochre  M
+prodname: 'Burton Friston Camisetas  Hombre  Ochre  M'
 ---
 
 Está [Burton Friston Camisetas  Hombre  Ochre  M](https://www.amazon.es/dp/B07KGRKG4D/?tag=tolees-21) con 41.60 de descuento por 20.44 EUR (original: 35 EUR) en el siguiente enlace!

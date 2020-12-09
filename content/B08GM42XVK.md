@@ -14,7 +14,7 @@ currency: EUR
 price: 1.68
 comparePrice: 2.59 EUR
 inStock: true
-prodname: Soporte de máscara de 5 Piezas  Almohada de máscara Nasal  Soporte de Soporte Interno  Marco de Mantenimiento de Maquillaje  artefacto de Soporte Boca-Nariz  Aumento del Espacio para Respirar
+prodname: 'Soporte de máscara de 5 Piezas  Almohada de máscara Nasal  Soporte de Soporte Interno  Marco de Mantenimiento de Maquillaje  artefacto de Soporte Boca-Nariz  Aumento del Espacio para Respirar'
 ---
 
 Está [Soporte de máscara de 5 Piezas  Almohada de máscara Nasal  Soporte de Soporte Interno  Marco de Mantenimiento de Maquillaje  artefacto de Soporte Boca-Nariz  Aumento del Espacio para Respirar](https://www.amazon.es/dp/B08GM42XVK/?tag=tolees-21) con 35.14 de descuento por 1.68 EUR (original: 2.59 EUR) en el siguiente enlace!

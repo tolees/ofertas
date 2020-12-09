@@ -14,7 +14,7 @@ currency: EUR
 price: 39.09
 comparePrice: 99.9 EUR
 inStock: true
-prodname: TEMPISH Cronos Patines Ruedas Ajustables En Línea  Unisex niños  Negro  24.5 cm
+prodname: 'TEMPISH Cronos Patines Ruedas Ajustables En Línea  Unisex niños  Negro  24.5 cm'
 ---
 
 Tienes [TEMPISH Cronos Patines Ruedas Ajustables En Línea  Unisex niños  Negro  24.5 cm](https://www.amazon.es/dp/B076P8PCWD/?tag=tolees-21) con un 60.87 % de descuento con precio de oferta de 39.09 EUR (original: 99.9 EUR) en el siguiente enlace!

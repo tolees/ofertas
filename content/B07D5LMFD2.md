@@ -14,7 +14,7 @@ currency: EUR
 price: 97.96
 comparePrice: 139.95 EUR
 inStock: true
-prodname: adidas Solar Glide ST M  Zapatillas de Deporte para Hombre  Negro  Negbás/Ftwbla/Gritre 000   44 EU
+prodname: 'adidas Solar Glide ST M  Zapatillas de Deporte para Hombre  Negro  Negbás/Ftwbla/Gritre 000   44 EU'
 ---
 
 Está [adidas Solar Glide ST M  Zapatillas de Deporte para Hombre  Negro  Negbás/Ftwbla/Gritre 000   44 EU](https://www.amazon.es/dp/B07D5LMFD2/?tag=tolees-21) con 30.00 de descuento por 97.96 EUR (original: 139.95 EUR) en el siguiente enlace!

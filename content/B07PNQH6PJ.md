@@ -14,7 +14,7 @@ currency: EUR
 price: 27.97
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Zenacolor - Set de 28 Canvas - Laminas para Pintar Multisizes - 13x18  20x25  24x30  30x40-100% Algodón sin Ácidos - Todos los tipos de Pintura sobre Lienzos
+prodname: 'Zenacolor - Set de 28 Canvas - Laminas para Pintar Multisizes - 13x18  20x25  24x30  30x40-100% Algodón sin Ácidos - Todos los tipos de Pintura sobre Lienzos'
 ---
 
 Ahora mismo tienes [Zenacolor - Set de 28 Canvas - Laminas para Pintar Multisizes - 13x18  20x25  24x30  30x40-100% Algodón sin Ácidos - Todos los tipos de Pintura sobre Lienzos](https://www.amazon.es/dp/B07PNQH6PJ/?tag=tolees-21) a 27.97 EUR (original: 55.0 EUR) (49.15 %  de descuento) en el siguiente enlace!

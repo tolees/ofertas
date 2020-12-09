@@ -14,7 +14,7 @@ currency: EUR
 price: 16.8
 comparePrice: 55 EUR
 inStock: true
-prodname: Under Armour Grade School Ripple NM  Zapatillas de Running para Niños  Rojo  Dark Maroon/Onyx White/Black 500   36 EU
+prodname: 'Under Armour Grade School Ripple NM  Zapatillas de Running para Niños  Rojo  Dark Maroon/Onyx White/Black 500   36 EU'
 ---
 
 Está [Under Armour Grade School Ripple NM  Zapatillas de Running para Niños  Rojo  Dark Maroon/Onyx White/Black 500   36 EU](https://www.amazon.es/dp/B07CTM3WX6/?tag=tolees-21) con 69.45 de descuento por 16.8 EUR (original: 55 EUR) en el siguiente enlace!

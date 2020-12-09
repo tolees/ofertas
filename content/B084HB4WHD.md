@@ -14,7 +14,7 @@ currency: EUR
 price: 11.24
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Shave It - Maquinilla de 4 hojas para mujer  mango y 4 cabezales 
+prodname: 'Shave It - Maquinilla de 4 hojas para mujer  mango y 4 cabezales '
 ---
 
 Ahora mismo tienes [Shave It - Maquinilla de 4 hojas para mujer  mango y 4 cabezales ](https://www.amazon.es/dp/B084HB4WHD/?tag=tolees-21) a 11.24 EUR (original: 14.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

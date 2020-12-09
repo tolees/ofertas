@@ -14,7 +14,7 @@ currency: EUR
 price: 4.53
 comparePrice: 8.31 EUR
 inStock: true
-prodname: Marca Amazon - find. Jersey de Algodón Hombre  Negro  Black   L  Label: L
+prodname: 'Marca Amazon - find. Jersey de Algodón Hombre  Negro  Black   L  Label: L'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Jersey de Algodón Hombre  Negro  Black   L  Label: L](https://www.amazon.es/dp/B07L8LMLRB/?tag=tolees-21) a 4.53 EUR (original: 8.31 EUR) (45.49 %  de descuento) en el siguiente enlace!

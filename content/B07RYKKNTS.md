@@ -14,7 +14,7 @@ currency: EUR
 price: 159.0
 comparePrice: 299.99 EUR
 inStock: true
-prodname: Taurus Black Glass - Campana Extractora Decorativa 60 cm de 750 m3/h  3 Niveles de Extracción  Iluminación LED  1 Filtro 5 Capas  Vidrio  Negro
+prodname: 'Taurus Black Glass - Campana Extractora Decorativa 60 cm de 750 m3/h  3 Niveles de Extracción  Iluminación LED  1 Filtro 5 Capas  Vidrio  Negro'
 ---
 
 Está [Taurus Black Glass - Campana Extractora Decorativa 60 cm de 750 m3/h  3 Niveles de Extracción  Iluminación LED  1 Filtro 5 Capas  Vidrio  Negro](https://www.amazon.es/dp/B07RYKKNTS/?tag=tolees-21) con 47.00 de descuento por 159.0 EUR (original: 299.99 EUR) en el siguiente enlace!

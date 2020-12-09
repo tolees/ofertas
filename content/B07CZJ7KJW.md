@@ -14,7 +14,7 @@ currency: EUR
 price: 33.45
 comparePrice: 119.95 EUR
 inStock: true
-prodname: G-STAR RAW 5620 3d Zip Knee Skinny  Vaqueros skinny Hombre  Azul  Rinsed 082   W29/L32
+prodname: 'G-STAR RAW 5620 3d Zip Knee Skinny  Vaqueros skinny Hombre  Azul  Rinsed 082   W29/L32'
 ---
 
 Está [G-STAR RAW 5620 3d Zip Knee Skinny  Vaqueros skinny Hombre  Azul  Rinsed 082   W29/L32](https://www.amazon.es/dp/B07CZJ7KJW/?tag=tolees-21) con 72.11 de descuento por 33.45 EUR (original: 119.95 EUR) en el siguiente enlace!

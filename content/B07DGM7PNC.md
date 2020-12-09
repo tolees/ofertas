@@ -14,7 +14,7 @@ currency: EUR
 price: 73.31
 comparePrice: 165.15 EUR
 inStock: true
-prodname: Timberland Hiker  Botas de Senderismo para Hombre  Marrón  Obsidian Ranger D98   41.5 EU
+prodname: 'Timberland Hiker  Botas de Senderismo para Hombre  Marrón  Obsidian Ranger D98   41.5 EU'
 ---
 
 Tienes [Timberland Hiker  Botas de Senderismo para Hombre  Marrón  Obsidian Ranger D98   41.5 EU](https://www.amazon.es/dp/B07DGM7PNC/?tag=tolees-21) con un 55.61 % de descuento con precio de oferta de 73.31 EUR (original: 165.15 EUR) en el siguiente enlace!

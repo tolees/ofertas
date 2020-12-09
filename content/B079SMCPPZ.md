@@ -14,7 +14,7 @@ currency: EUR
 price: 84.99
 comparePrice: 159.95 EUR
 inStock: true
-prodname: Desigual Abrig_Charlotte    Negro 2000   42  Talla del Fabricante: 40  para Mujer
+prodname: 'Desigual Abrig_Charlotte    Negro 2000   42  Talla del Fabricante: 40  para Mujer'
 ---
 
 Tienes [Desigual Abrig_Charlotte    Negro 2000   42  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B079SMCPPZ/?tag=tolees-21) con un 46.86 % de descuento con precio de oferta de 84.99 EUR (original: 159.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Remington Ceramic Slim S3500 - Plancha de Pelo  Cerámica Anti- estática  Protección y Brillo  Placas Extra Largas  Negro
+prodname: 'Remington Ceramic Slim S3500 - Plancha de Pelo  Cerámica Anti- estática  Protección y Brillo  Placas Extra Largas  Negro'
 ---
 
 Ahora mismo tienes [Remington Ceramic Slim S3500 - Plancha de Pelo  Cerámica Anti- estática  Protección y Brillo  Placas Extra Largas  Negro](https://www.amazon.es/dp/B005EFZUO2/?tag=tolees-21) a 19.99 EUR (original: 32.99 EUR) (39.41 %  de descuento) en el siguiente enlace!

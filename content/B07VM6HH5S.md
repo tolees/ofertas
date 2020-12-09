@@ -14,7 +14,7 @@ currency: EUR
 price: 14.66
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Fundas para Mando PS4/PS4 Pro/PS4 Slim Dualshock 4  Silicona Carcasa Protectora Antideslizante para Play 4/playstation 4  2 × vistoso Personalizado cubierta de Mando PS4 + 8 × Grips para Pulgares PS4 
+prodname: 'Fundas para Mando PS4/PS4 Pro/PS4 Slim Dualshock 4  Silicona Carcasa Protectora Antideslizante para Play 4/playstation 4  2 × vistoso Personalizado cubierta de Mando PS4 + 8 × Grips para Pulgares PS4 '
 ---
 
 Está [Fundas para Mando PS4/PS4 Pro/PS4 Slim Dualshock 4  Silicona Carcasa Protectora Antideslizante para Play 4/playstation 4  2 × vistoso Personalizado cubierta de Mando PS4 + 8 × Grips para Pulgares PS4 ](https://www.amazon.es/dp/B07VM6HH5S/?tag=tolees-21) con 26.66 de descuento por 14.66 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: AGM Cámara para Niños  Cámara de Video con Funda Carcasa de DIY 1.44" HD Color Pantalla Digital Cámara Niños con Tarjeta de Memoria de 8GB para Chicas y Chicos  Azul + Amarillo 
+prodname: 'AGM Cámara para Niños  Cámara de Video con Funda Carcasa de DIY 1.44" HD Color Pantalla Digital Cámara Niños con Tarjeta de Memoria de 8GB para Chicas y Chicos  Azul + Amarillo '
 ---
 
 Tienes [AGM Cámara para Niños  Cámara de Video con Funda Carcasa de DIY 1.44" HD Color Pantalla Digital Cámara Niños con Tarjeta de Memoria de 8GB para Chicas y Chicos  Azul + Amarillo ](https://www.amazon.es/dp/B07MGRMVDV/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Carrera First - Disney Pixar Cars Circuito de Coches de Dinoco Cruz Ramirez  Pista de 2.4m
+prodname: 'Carrera First - Disney Pixar Cars Circuito de Coches de Dinoco Cruz Ramirez  Pista de 2.4m'
 ---
 
 Tienes [Carrera First - Disney Pixar Cars Circuito de Coches de Dinoco Cruz Ramirez  Pista de 2.4m](https://www.amazon.es/dp/B071LM3STG/?tag=tolees-21) con un 33.26 % de descuento con precio de oferta de 19.99 EUR (original: 29.95 EUR) en el siguiente enlace!

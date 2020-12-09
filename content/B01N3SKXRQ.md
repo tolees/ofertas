@@ -14,7 +14,7 @@ currency: EUR
 price: 32.09
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Drift Cat 5 Core  Zapatillas Unisex Adulto  Blanco White 03  44.5 EU
+prodname: 'Puma Drift Cat 5 Core  Zapatillas Unisex Adulto  Blanco White 03  44.5 EU'
 ---
 
 Ahora mismo tienes [Puma Drift Cat 5 Core  Zapatillas Unisex Adulto  Blanco White 03  44.5 EU](https://www.amazon.es/dp/B01N3SKXRQ/?tag=tolees-21) a 32.09 EUR (original: 89.95 EUR) (64.32 %  de descuento) en el siguiente enlace!

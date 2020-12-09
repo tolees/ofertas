@@ -14,7 +14,7 @@ currency: EUR
 price: 32.03
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Crocs Swiftwater Sandal Men  Zapatos de Agua para Hombre  Marrón Espresso  39/40 EU
+prodname: 'Crocs Swiftwater Sandal Men  Zapatos de Agua para Hombre  Marrón Espresso  39/40 EU'
 ---
 
 Está [Crocs Swiftwater Sandal Men  Zapatos de Agua para Hombre  Marrón Espresso  39/40 EU](https://www.amazon.es/dp/B00EWJT84O/?tag=tolees-21) con 35.81 de descuento por 32.03 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.76
 comparePrice: 50 EUR
 inStock: true
-prodname: Converse Chuck Taylor All Star Street  Zapatillas sin Cordones Unisex Niños  Azul Blue Fir/Field Orange 486  31.5 EU
+prodname: 'Converse Chuck Taylor All Star Street  Zapatillas sin Cordones Unisex Niños  Azul Blue Fir/Field Orange 486  31.5 EU'
 ---
 
 Está [Converse Chuck Taylor All Star Street  Zapatillas sin Cordones Unisex Niños  Azul Blue Fir/Field Orange 486  31.5 EU](https://www.amazon.es/dp/B07DDVJNJM/?tag=tolees-21) con 62.48 de descuento por 18.76 EUR (original: 50 EUR) en el siguiente enlace!

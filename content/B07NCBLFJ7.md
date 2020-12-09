@@ -14,7 +14,7 @@ currency: EUR
 price: 34.22
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Pepe Jeans Mary Short Bañador  Azul  Destroy Denim Re3   W26  Talla del Fabricante: 26  para Mujer
+prodname: 'Pepe Jeans Mary Short Bañador  Azul  Destroy Denim Re3   W26  Talla del Fabricante: 26  para Mujer'
 ---
 
 Tienes [Pepe Jeans Mary Short Bañador  Azul  Destroy Denim Re3   W26  Talla del Fabricante: 26  para Mujer](https://www.amazon.es/dp/B07NCBLFJ7/?tag=tolees-21) con un 42.87 % de descuento con precio de oferta de 34.22 EUR (original: 59.9 EUR) en el siguiente enlace!

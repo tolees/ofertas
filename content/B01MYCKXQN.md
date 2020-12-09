@@ -14,7 +14,7 @@ currency: EUR
 price: 6.9
 comparePrice: 34.99 EUR
 inStock: true
-prodname: OtterBox Symmetry Clear - Funda anti caídas fina y elegante para Samsung Galaxy S8  transparente
+prodname: 'OtterBox Symmetry Clear - Funda anti caídas fina y elegante para Samsung Galaxy S8  transparente'
 ---
 
 Está [OtterBox Symmetry Clear - Funda anti caídas fina y elegante para Samsung Galaxy S8  transparente](https://www.amazon.es/dp/B01MYCKXQN/?tag=tolees-21) con 80.28 de descuento por 6.9 EUR (original: 34.99 EUR) en el siguiente enlace!

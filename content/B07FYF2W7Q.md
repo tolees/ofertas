@@ -14,7 +14,7 @@ currency: EUR
 price: 11.94
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Wrangler Sign Off Sweat Sudadera  Azul  Turkish Sea A86   Medium para Hombre
+prodname: 'Wrangler Sign Off Sweat Sudadera  Azul  Turkish Sea A86   Medium para Hombre'
 ---
 
 Tienes [Wrangler Sign Off Sweat Sudadera  Azul  Turkish Sea A86   Medium para Hombre](https://www.amazon.es/dp/B07FYF2W7Q/?tag=tolees-21) con un 80.08 % de descuento con precio de oferta de 11.94 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Adidas X 18.3 In J  Botas de fútbol Unisex niño  000  34 EU
+prodname: 'Adidas X 18.3 In J  Botas de fútbol Unisex niño  000  34 EU'
 ---
 
 Tienes [Adidas X 18.3 In J  Botas de fútbol Unisex niño  000  34 EU](https://www.amazon.es/dp/B07LFZK29H/?tag=tolees-21) con un 41.77 % de descuento con precio de oferta de 32 EUR (original: 54.95 EUR) en el siguiente enlace!

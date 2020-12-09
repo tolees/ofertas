@@ -14,7 +14,7 @@ currency: EUR
 price: 9.79
 comparePrice: 13.48 EUR
 inStock: true
-prodname: Albainox 34503 Botas de Vino Curva Serraje  Unisex Adulto  Multicolor  1 L
+prodname: 'Albainox 34503 Botas de Vino Curva Serraje  Unisex Adulto  Multicolor  1 L'
 ---
 
 Tienes [Albainox 34503 Botas de Vino Curva Serraje  Unisex Adulto  Multicolor  1 L](https://www.amazon.es/dp/B00ORXCFZO/?tag=tolees-21) con un 27.37 % de descuento con precio de oferta de 9.79 EUR (original: 13.48 EUR) en el siguiente enlace!

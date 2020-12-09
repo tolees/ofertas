@@ -14,7 +14,7 @@ currency: EUR
 price: 24.83
 comparePrice: 34.89 EUR
 inStock: true
-prodname: Einhell Taladro percutor atornillador eléctrico  TC-ID 650 E   650W  2 funciones  perforación y taladro de percusión  con gancho para cinturón.
+prodname: 'Einhell Taladro percutor atornillador eléctrico  TC-ID 650 E   650W  2 funciones  perforación y taladro de percusión  con gancho para cinturón.'
 ---
 
 Está [Einhell Taladro percutor atornillador eléctrico  TC-ID 650 E   650W  2 funciones  perforación y taladro de percusión  con gancho para cinturón.](https://www.amazon.es/dp/B00V3HTTWO/?tag=tolees-21) con 28.83 de descuento por 24.83 EUR (original: 34.89 EUR) en el siguiente enlace!

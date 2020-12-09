@@ -14,7 +14,7 @@ currency: EUR
 price: 43.0
 comparePrice: 66.99 EUR
 inStock: true
-prodname: Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín 
+prodname: 'Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín '
 ---
 
 Está [Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín ](https://www.amazon.es/dp/B06XR17QSM/?tag=tolees-21) con 35.81 de descuento por 43.0 EUR (original: 66.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Grillman Funda Impermeable para Barbacoa  Color Canela Funda Protectora para Barbacoa Funda Impermeable para Barbacoa  60 Inch / 152 cm  Negro 
+prodname: 'Grillman Funda Impermeable para Barbacoa  Color Canela Funda Protectora para Barbacoa Funda Impermeable para Barbacoa  60 Inch / 152 cm  Negro '
 ---
 
 Ahora mismo tienes [Grillman Funda Impermeable para Barbacoa  Color Canela Funda Protectora para Barbacoa Funda Impermeable para Barbacoa  60 Inch / 152 cm  Negro ](https://www.amazon.es/dp/B07QY3DYYL/?tag=tolees-21) a 29.99 EUR (original: 44.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

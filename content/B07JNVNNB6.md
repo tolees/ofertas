@@ -14,7 +14,7 @@ currency: EUR
 price: 8.65
 comparePrice: 49 EUR
 inStock: true
-prodname: ZADIG&VOLTAIRE tee-Shirt Camiseta    Blanc Bleu N48   6 años  Talla del Fabricante: 06A  para Niñas
+prodname: 'ZADIG&VOLTAIRE tee-Shirt Camiseta    Blanc Bleu N48   6 años  Talla del Fabricante: 06A  para Niñas'
 ---
 
 Ahora mismo tienes [ZADIG&VOLTAIRE tee-Shirt Camiseta    Blanc Bleu N48   6 años  Talla del Fabricante: 06A  para Niñas](https://www.amazon.es/dp/B07JNVNNB6/?tag=tolees-21) a 8.65 EUR (original: 49 EUR) (82.35 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 2.8
 comparePrice: 3.99 EUR
 inStock: true
-prodname: NIVEA MEN Sensitive Gel de afeitar para piel sensible  gel facial con tecnología Ultra Glide para un afeitado libre de irritaciones - 1 x 200 ml
+prodname: 'NIVEA MEN Sensitive Gel de afeitar para piel sensible  gel facial con tecnología Ultra Glide para un afeitado libre de irritaciones - 1 x 200 ml'
 ---
 
 Está [NIVEA MEN Sensitive Gel de afeitar para piel sensible  gel facial con tecnología Ultra Glide para un afeitado libre de irritaciones - 1 x 200 ml](https://www.amazon.es/dp/B00XAFFCXC/?tag=tolees-21) con 29.82 de descuento por 2.8 EUR (original: 3.99 EUR) en el siguiente enlace!

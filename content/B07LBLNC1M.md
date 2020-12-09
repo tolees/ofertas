@@ -14,7 +14,7 @@ currency: EUR
 price: 139
 comparePrice: 245 EUR
 inStock: true
-prodname: Adidas Supernova Carbon Attack 1.9 Palas  Adultos Unisex  Verde  375
+prodname: 'Adidas Supernova Carbon Attack 1.9 Palas  Adultos Unisex  Verde  375'
 ---
 
 Tienes [Adidas Supernova Carbon Attack 1.9 Palas  Adultos Unisex  Verde  375](https://www.amazon.es/dp/B07LBLNC1M/?tag=tolees-21) con un 43.27 % de descuento con precio de oferta de 139 EUR (original: 245 EUR) en el siguiente enlace!

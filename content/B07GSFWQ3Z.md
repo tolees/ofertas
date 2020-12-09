@@ -14,7 +14,7 @@ currency: EUR
 price: 20.83
 comparePrice: 35.94 EUR
 inStock: true
-prodname: NIVEA Aceite en Loción Rosa & Aceite de Argán - 400 ml - 6 unidades
+prodname: 'NIVEA Aceite en Loción Rosa & Aceite de Argán - 400 ml - 6 unidades'
 ---
 
 Ahora mismo tienes [NIVEA Aceite en Loción Rosa & Aceite de Argán - 400 ml - 6 unidades](https://www.amazon.es/dp/B07GSFWQ3Z/?tag=tolees-21) a 20.83 EUR (original: 35.94 EUR) (42.04 %  de descuento) en el siguiente enlace!

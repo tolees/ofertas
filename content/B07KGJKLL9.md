@@ -14,7 +14,7 @@ currency: EUR
 price: 16.29
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Buff Rinmann Sombrero Travel Bucket  Unisex Adulto  Blue  Talla única
+prodname: 'Buff Rinmann Sombrero Travel Bucket  Unisex Adulto  Blue  Talla única'
 ---
 
 Tienes [Buff Rinmann Sombrero Travel Bucket  Unisex Adulto  Blue  Talla única](https://www.amazon.es/dp/B07KGJKLL9/?tag=tolees-21) con un 45.61 % de descuento con precio de oferta de 16.29 EUR (original: 29.95 EUR) en el siguiente enlace!

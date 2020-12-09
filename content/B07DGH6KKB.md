@@ -14,7 +14,7 @@ currency: EUR
 price: 15.9
 comparePrice: 29.89 EUR
 inStock: true
-prodname: Tefal Bruto Sarten de Aluminio  Recubrimiento Antiadherente Reforzado con minerales  Apta para Todo Tipo de cocinas e inducción  indicador de Calor Thermo-Spot - Fabricada en Francia  Sarten 28cm 
+prodname: 'Tefal Bruto Sarten de Aluminio  Recubrimiento Antiadherente Reforzado con minerales  Apta para Todo Tipo de cocinas e inducción  indicador de Calor Thermo-Spot - Fabricada en Francia  Sarten 28cm '
 ---
 
 Ahora mismo tienes [Tefal Bruto Sarten de Aluminio  Recubrimiento Antiadherente Reforzado con minerales  Apta para Todo Tipo de cocinas e inducción  indicador de Calor Thermo-Spot - Fabricada en Francia  Sarten 28cm ](https://www.amazon.es/dp/B07DGH6KKB/?tag=tolees-21) a 15.9 EUR (original: 29.89 EUR) (46.80 %  de descuento) en el siguiente enlace!

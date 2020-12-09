@@ -14,7 +14,7 @@ currency: EUR
 price: 32.38
 comparePrice: 96.29 EUR
 inStock: true
-prodname: Hollow Knight OST [VINYL] [Vinilo]
+prodname: 'Hollow Knight OST [VINYL] [Vinilo]'
 ---
 
 Ahora mismo tienes [Hollow Knight OST [VINYL] [Vinilo]](https://www.amazon.es/dp/B07BF5THKF/?tag=tolees-21) a 32.38 EUR (original: 96.29 EUR) (66.37 %  de descuento) en el siguiente enlace!

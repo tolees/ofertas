@@ -14,7 +14,7 @@ currency: EUR
 price: 66.5
 comparePrice: 89.0 EUR
 inStock: true
-prodname: Swarovski Pendientes de aro Symbolic Star  blanco  Baño en tono Oro Rosa
+prodname: 'Swarovski Pendientes de aro Symbolic Star  blanco  Baño en tono Oro Rosa'
 ---
 
 Tienes [Swarovski Pendientes de aro Symbolic Star  blanco  Baño en tono Oro Rosa](https://www.amazon.es/dp/B07SST8X3M/?tag=tolees-21) con un 25.28 % de descuento con precio de oferta de 66.5 EUR (original: 89.0 EUR) en el siguiente enlace!

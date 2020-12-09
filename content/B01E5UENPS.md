@@ -14,7 +14,7 @@ currency: EUR
 price: 72.84
 comparePrice: 129 EUR
 inStock: true
-prodname: Lacoste Straightset 316 3 Caw Blk  Zapatillas para Mujer  Negro 024  42 EU
+prodname: 'Lacoste Straightset 316 3 Caw Blk  Zapatillas para Mujer  Negro 024  42 EU'
 ---
 
 Tienes [Lacoste Straightset 316 3 Caw Blk  Zapatillas para Mujer  Negro 024  42 EU](https://www.amazon.es/dp/B01E5UENPS/?tag=tolees-21) con un 43.53 % de descuento con precio de oferta de 72.84 EUR (original: 129 EUR) en el siguiente enlace!

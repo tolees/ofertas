@@ -14,7 +14,7 @@ currency: EUR
 price: 31.94
 comparePrice: 108.6 EUR
 inStock: true
-prodname: Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTP-E156MR-9AEF
+prodname: 'Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTP-E156MR-9AEF'
 ---
 
 Tienes [Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTP-E156MR-9AEF](https://www.amazon.es/dp/B07GBK7PL4/?tag=tolees-21) con un 70.59 % de descuento con precio de oferta de 31.94 EUR (original: 108.6 EUR) en el siguiente enlace!

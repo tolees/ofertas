@@ -14,7 +14,7 @@ currency: EUR
 price: 87
 comparePrice: 145 EUR
 inStock: true
-prodname: Camper Pelotas 29164-065 Zapatos Planos Mujer 36
+prodname: 'Camper Pelotas 29164-065 Zapatos Planos Mujer 36'
 ---
 
 Está [Camper Pelotas 29164-065 Zapatos Planos Mujer 36](https://www.amazon.es/dp/B00VEICJIS/?tag=tolees-21) con 40.00 de descuento por 87 EUR (original: 145 EUR) en el siguiente enlace!

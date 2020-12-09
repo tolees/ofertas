@@ -14,7 +14,7 @@ currency: EUR
 price: 139.95
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Ibiza Sound PORT8VHF-BT Sistema de sonido portátil y autónomo de 8"/20 cm  Bluetooth  Wireless  potencia maxima 400 W  Negro
+prodname: 'Ibiza Sound PORT8VHF-BT Sistema de sonido portátil y autónomo de 8"/20 cm  Bluetooth  Wireless  potencia maxima 400 W  Negro'
 ---
 
 Tienes [Ibiza Sound PORT8VHF-BT Sistema de sonido portátil y autónomo de 8"/20 cm  Bluetooth  Wireless  potencia maxima 400 W  Negro](https://www.amazon.es/dp/B00AJPPJUM/?tag=tolees-21) con un 29.67 % de descuento con precio de oferta de 139.95 EUR (original: 199.0 EUR) en el siguiente enlace!

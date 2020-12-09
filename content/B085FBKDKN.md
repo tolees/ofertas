@@ -14,7 +14,7 @@ currency: EUR
 price: 12.9
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Fallout 76 Wastelanders PS4
+prodname: 'Fallout 76 Wastelanders PS4'
 ---
 
 Ahora mismo tienes [Fallout 76 Wastelanders PS4](https://www.amazon.es/dp/B085FBKDKN/?tag=tolees-21) a 12.9 EUR (original: 39.99 EUR) (67.74 %  de descuento) en el siguiente enlace!

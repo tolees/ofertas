@@ -14,7 +14,7 @@ currency: EUR
 price: 6.29
 comparePrice: 23.04 EUR
 inStock: true
-prodname: Marca Amazon - Goodthreads - Camisa cómoda de popelín elástico con manga larga  corte entallado  y de cuidado fácil  para hombre  Light Blue Multi Check  US L  EU L 
+prodname: 'Marca Amazon - Goodthreads - Camisa cómoda de popelín elástico con manga larga  corte entallado  y de cuidado fácil  para hombre  Light Blue Multi Check  US L  EU L '
 ---
 
 Tienes [Marca Amazon - Goodthreads - Camisa cómoda de popelín elástico con manga larga  corte entallado  y de cuidado fácil  para hombre  Light Blue Multi Check  US L  EU L ](https://www.amazon.es/dp/B07HN4XGYK/?tag=tolees-21) con un 72.70 % de descuento con precio de oferta de 6.29 EUR (original: 23.04 EUR) en el siguiente enlace!

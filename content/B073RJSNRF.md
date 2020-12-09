@@ -14,7 +14,7 @@ currency: EUR
 price: 38.9
 comparePrice: 64.95 EUR
 inStock: true
-prodname: adidas Cosmic 2  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Grey/Carbon 0   44 2/3 EU
+prodname: 'adidas Cosmic 2  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Grey/Carbon 0   44 2/3 EU'
 ---
 
 Tienes [adidas Cosmic 2  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Grey/Carbon 0   44 2/3 EU](https://www.amazon.es/dp/B073RJSNRF/?tag=tolees-21) con un 40.11 % de descuento con precio de oferta de 38.9 EUR (original: 64.95 EUR) en el siguiente enlace!

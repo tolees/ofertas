@@ -14,7 +14,7 @@ currency: EUR
 price: 3.29
 comparePrice: 4.99 EUR
 inStock: true
-prodname: L OR BARISTA Doble Ristretto - Intensidad 11 - 10 Cápsulas de Café exclusivamente compatibles con la cafetera L OR BARISTA
+prodname: 'L OR BARISTA Doble Ristretto - Intensidad 11 - 10 Cápsulas de Café exclusivamente compatibles con la cafetera L OR BARISTA'
 ---
 
 Tienes [L OR BARISTA Doble Ristretto - Intensidad 11 - 10 Cápsulas de Café exclusivamente compatibles con la cafetera L OR BARISTA](https://www.amazon.es/dp/B07Q7LDHRG/?tag=tolees-21) con un 34.07 % de descuento con precio de oferta de 3.29 EUR (original: 4.99 EUR) en el siguiente enlace!

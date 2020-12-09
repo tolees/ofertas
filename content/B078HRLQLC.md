@@ -14,7 +14,7 @@ currency: EUR
 price: 22.5
 comparePrice: 30 EUR
 inStock: true
-prodname: find. Bermudas Estilo Cargo Hombre  Verde  Khaki   50  Talla del Fabricante: Medium 
+prodname: 'find. Bermudas Estilo Cargo Hombre  Verde  Khaki   50  Talla del Fabricante: Medium '
 ---
 
 Tienes [find. Bermudas Estilo Cargo Hombre  Verde  Khaki   50  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B078HRLQLC/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 22.5 EUR (original: 30 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.25
 comparePrice: 12.39 EUR
 inStock: true
-prodname: Bosch Mini X-Line - Set de 15 brocas mixto  para tareas de perforación en mampostería  madera y metal
+prodname: 'Bosch Mini X-Line - Set de 15 brocas mixto  para tareas de perforación en mampostería  madera y metal'
 ---
 
 Está [Bosch Mini X-Line - Set de 15 brocas mixto  para tareas de perforación en mampostería  madera y metal](https://www.amazon.es/dp/B001IBMO7C/?tag=tolees-21) con 25.34 de descuento por 9.25 EUR (original: 12.39 EUR) en el siguiente enlace!

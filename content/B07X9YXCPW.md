@@ -14,7 +14,7 @@ currency: EUR
 price: 27.11
 comparePrice: 39.99 EUR
 inStock: true
-prodname: YONMIG Reloj Inteligente Mujer y Hombre  Smartwatch Impermeable IP68 Pulsera Actividad Deportivo con Monitor de Sueño  Pulsómetro  Pantalla Táctil Completa Reloj Fitness para Android y iOS  Rosa 
+prodname: 'YONMIG Reloj Inteligente Mujer y Hombre  Smartwatch Impermeable IP68 Pulsera Actividad Deportivo con Monitor de Sueño  Pulsómetro  Pantalla Táctil Completa Reloj Fitness para Android y iOS  Rosa '
 ---
 
 Ahora mismo tienes [YONMIG Reloj Inteligente Mujer y Hombre  Smartwatch Impermeable IP68 Pulsera Actividad Deportivo con Monitor de Sueño  Pulsómetro  Pantalla Táctil Completa Reloj Fitness para Android y iOS  Rosa ](https://www.amazon.es/dp/B07X9YXCPW/?tag=tolees-21) a 27.11 EUR (original: 39.99 EUR) (32.21 %  de descuento) en el siguiente enlace!

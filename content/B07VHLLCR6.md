@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Napapijri Elbas 3 Polo  Rojo  Bright Red R471   Large para Hombre
+prodname: 'Napapijri Elbas 3 Polo  Rojo  Bright Red R471   Large para Hombre'
 ---
 
 Está [Napapijri Elbas 3 Polo  Rojo  Bright Red R471   Large para Hombre](https://www.amazon.es/dp/B07VHLLCR6/?tag=tolees-21) con 57.64 de descuento por 24.99 EUR (original: 59.0 EUR) en el siguiente enlace!

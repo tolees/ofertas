@@ -14,7 +14,7 @@ currency: EUR
 price: 9
 comparePrice: 13.5 EUR
 inStock: true
-prodname: Brennenstuhl 1153100100 Bases  230 V  Negro  32 cm
+prodname: 'Brennenstuhl 1153100100 Bases  230 V  Negro  32 cm'
 ---
 
 Está [Brennenstuhl 1153100100 Bases  230 V  Negro  32 cm](https://www.amazon.es/dp/B01M0LPE5P/?tag=tolees-21) con 33.33 de descuento por 9 EUR (original: 13.5 EUR) en el siguiente enlace!

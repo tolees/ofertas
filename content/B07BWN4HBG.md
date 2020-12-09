@@ -14,7 +14,7 @@ currency: EUR
 price: 12.89
 comparePrice: 21.99 EUR
 inStock: true
-prodname: tuokener Bolsos de Mujer Nylon Hombro Bolso Bolsa Impermeable para Mujer Viajar Crossbody Bag Nylon Waterproof gris 
+prodname: 'tuokener Bolsos de Mujer Nylon Hombro Bolso Bolsa Impermeable para Mujer Viajar Crossbody Bag Nylon Waterproof gris '
 ---
 
 Tienes [tuokener Bolsos de Mujer Nylon Hombro Bolso Bolsa Impermeable para Mujer Viajar Crossbody Bag Nylon Waterproof gris ](https://www.amazon.es/dp/B07BWN4HBG/?tag=tolees-21) con un 41.38 % de descuento con precio de oferta de 12.89 EUR (original: 21.99 EUR) en el siguiente enlace!

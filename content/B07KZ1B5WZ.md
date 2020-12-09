@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield 8.Gym.Vestido Corto Borda Vestido   Varios 98   Tamaño del Fabricante:36 para Mujer
+prodname: 'Springfield 8.Gym.Vestido Corto Borda Vestido   Varios 98   Tamaño del Fabricante:36 para Mujer'
 ---
 
 Ahora mismo tienes [Springfield 8.Gym.Vestido Corto Borda Vestido   Varios 98   Tamaño del Fabricante:36 para Mujer](https://www.amazon.es/dp/B07KZ1B5WZ/?tag=tolees-21) a 18.95 EUR (original: 29.99 EUR) (36.81 %  de descuento) en el siguiente enlace!

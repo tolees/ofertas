@@ -14,7 +14,7 @@ currency: EUR
 price: 27.94
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Gore Wear 100396 Perneras  Unisex Adulto  Negro  M-L
+prodname: 'Gore Wear 100396 Perneras  Unisex Adulto  Negro  M-L'
 ---
 
 Tienes [Gore Wear 100396 Perneras  Unisex Adulto  Negro  M-L](https://www.amazon.es/dp/B077Y3FZYZ/?tag=tolees-21) con un 44.06 % de descuento con precio de oferta de 27.94 EUR (original: 49.95 EUR) en el siguiente enlace!

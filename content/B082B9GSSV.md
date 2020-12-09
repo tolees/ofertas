@@ -14,7 +14,7 @@ currency: EUR
 price: 48.3
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Geographical Norway Polar Hombre RIAKOLO Gris Oscuro S
+prodname: 'Geographical Norway Polar Hombre RIAKOLO Gris Oscuro S'
 ---
 
 Ahora mismo tienes [Geographical Norway Polar Hombre RIAKOLO Gris Oscuro S](https://www.amazon.es/dp/B082B9GSSV/?tag=tolees-21) a 48.3 EUR (original: 69.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

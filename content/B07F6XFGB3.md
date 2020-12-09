@@ -14,7 +14,7 @@ currency: EUR
 price: 35.0
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Salomon TRAILBLAZER 10 Mochila
+prodname: 'Salomon TRAILBLAZER 10 Mochila'
 ---
 
 Ahora mismo tienes [Salomon TRAILBLAZER 10 Mochila](https://www.amazon.es/dp/B07F6XFGB3/?tag=tolees-21) a 35.0 EUR (original: 50.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

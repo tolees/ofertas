@@ -14,7 +14,7 @@ currency: EUR
 price: 9.15
 comparePrice: 15.0 EUR
 inStock: true
-prodname: L Oréal Paris Men Expert - Hydra Energetic hidratante  energizante  anti fatiga - 115 g
+prodname: 'L Oréal Paris Men Expert - Hydra Energetic hidratante  energizante  anti fatiga - 115 g'
 ---
 
 Tienes [L Oréal Paris Men Expert - Hydra Energetic hidratante  energizante  anti fatiga - 115 g](https://www.amazon.es/dp/B01MU9BKQS/?tag=tolees-21) con un 39.00 % de descuento con precio de oferta de 9.15 EUR (original: 15.0 EUR) en el siguiente enlace!

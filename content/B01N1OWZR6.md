@@ -14,7 +14,7 @@ currency: EUR
 price: 24.22
 comparePrice: 89.95 EUR
 inStock: true
-prodname: PUMA Basket Heart Patent Wn S  Zapatillas Mujer  Blanco White White  40.5 EU
+prodname: 'PUMA Basket Heart Patent Wn S  Zapatillas Mujer  Blanco White White  40.5 EU'
 ---
 
 Ahora mismo tienes [PUMA Basket Heart Patent Wn S  Zapatillas Mujer  Blanco White White  40.5 EU](https://www.amazon.es/dp/B01N1OWZR6/?tag=tolees-21) a 24.22 EUR (original: 89.95 EUR) (73.07 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.6
 comparePrice: 23.29 EUR
 inStock: true
-prodname: Rapesco 1342 - Perforadora ajustable de 6 agujeros  Negro
+prodname: 'Rapesco 1342 - Perforadora ajustable de 6 agujeros  Negro'
 ---
 
 Ahora mismo tienes [Rapesco 1342 - Perforadora ajustable de 6 agujeros  Negro](https://www.amazon.es/dp/B01DJH65FO/?tag=tolees-21) a 12.6 EUR (original: 23.29 EUR) (45.90 %  de descuento) en el siguiente enlace!

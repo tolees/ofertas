@@ -14,7 +14,7 @@ currency: EUR
 price: 54.95
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Cluse Reloj Analógico Automático para Mujer con Correa de Cuero – CL50010
+prodname: 'Cluse Reloj Analógico Automático para Mujer con Correa de Cuero – CL50010'
 ---
 
 Tienes [Cluse Reloj Analógico Automático para Mujer con Correa de Cuero – CL50010](https://www.amazon.es/dp/B01N02DXVY/?tag=tolees-21) con un 38.91 % de descuento con precio de oferta de 54.95 EUR (original: 89.95 EUR) en el siguiente enlace!

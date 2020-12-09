@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 38.99 EUR
 inStock: true
-prodname: Levi s Woods  Zapatillas para Hombre  Negro  Noir Regular Black   40 EU
+prodname: 'Levi s Woods  Zapatillas para Hombre  Negro  Noir Regular Black   40 EU'
 ---
 
 Está [Levi s Woods  Zapatillas para Hombre  Negro  Noir Regular Black   40 EU](https://www.amazon.es/dp/B01M2ACUYV/?tag=tolees-21) con 38.57 de descuento por 23.95 EUR (original: 38.99 EUR) en el siguiente enlace!

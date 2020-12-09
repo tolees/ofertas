@@ -14,7 +14,7 @@ currency: EUR
 price: 13.5
 comparePrice: 27.64 EUR
 inStock: true
-prodname: It + It Capitulo 2 Blu-Ray [Blu-ray]
+prodname: 'It + It Capitulo 2 Blu-Ray [Blu-ray]'
 ---
 
 Está [It + It Capitulo 2 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B081KRBHXT/?tag=tolees-21) con 51.16 de descuento por 13.5 EUR (original: 27.64 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: recargables eléctrica batería Guantes calefactables  cálida Guantes de invierno hombre mujer  impermeable  guantes de moto  guantes de esquí calefactables  guantes de snowboard  calentador de manos
+prodname: 'recargables eléctrica batería Guantes calefactables  cálida Guantes de invierno hombre mujer  impermeable  guantes de moto  guantes de esquí calefactables  guantes de snowboard  calentador de manos'
 ---
 
 Tienes [recargables eléctrica batería Guantes calefactables  cálida Guantes de invierno hombre mujer  impermeable  guantes de moto  guantes de esquí calefactables  guantes de snowboard  calentador de manos](https://www.amazon.es/dp/B07L54TTFT/?tag=tolees-21) con un 63.01 % de descuento con precio de oferta de 36.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.86
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Columbia Youth Redmond  Zapatillas de Deporte Exterior para Niños  Azul  Carbon/Super Solarize   32 EU
+prodname: 'Columbia Youth Redmond  Zapatillas de Deporte Exterior para Niños  Azul  Carbon/Super Solarize   32 EU'
 ---
 
 Tienes [Columbia Youth Redmond  Zapatillas de Deporte Exterior para Niños  Azul  Carbon/Super Solarize   32 EU](https://www.amazon.es/dp/B01GRD4QZI/?tag=tolees-21) con un 58.40 % de descuento con precio de oferta de 22.86 EUR (original: 54.95 EUR) en el siguiente enlace!

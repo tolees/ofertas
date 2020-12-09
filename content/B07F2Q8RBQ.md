@@ -14,7 +14,7 @@ currency: EUR
 price: 51.99
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Helly Hansen Hp Ocean Fz Hoodie  Sudadera para Hombre  Gris  Gris 949   Small
+prodname: 'Helly Hansen Hp Ocean Fz Hoodie  Sudadera para Hombre  Gris  Gris 949   Small'
 ---
 
 Está [Helly Hansen Hp Ocean Fz Hoodie  Sudadera para Hombre  Gris  Gris 949   Small](https://www.amazon.es/dp/B07F2Q8RBQ/?tag=tolees-21) con 56.67 de descuento por 51.99 EUR (original: 120.0 EUR) en el siguiente enlace!

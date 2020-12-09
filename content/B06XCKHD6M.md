@@ -14,7 +14,7 @@ currency: EUR
 price: 6.64
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Springfield Top Blanco S
+prodname: 'Springfield Top Blanco S'
 ---
 
 Está [Springfield Top Blanco S](https://www.amazon.es/dp/B06XCKHD6M/?tag=tolees-21) con 48.88 de descuento por 6.64 EUR (original: 12.99 EUR) en el siguiente enlace!

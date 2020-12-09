@@ -14,7 +14,7 @@ currency: EUR
 price: 18.52
 comparePrice: 100 EUR
 inStock: true
-prodname: Kamik Quinn3gtx  Botas de Nieve para Niñas  Morado  Grape-Raisin Gra   35 EU
+prodname: 'Kamik Quinn3gtx  Botas de Nieve para Niñas  Morado  Grape-Raisin Gra   35 EU'
 ---
 
 Tienes [Kamik Quinn3gtx  Botas de Nieve para Niñas  Morado  Grape-Raisin Gra   35 EU](https://www.amazon.es/dp/B078MP8MVL/?tag=tolees-21) con un 81.48 % de descuento con precio de oferta de 18.52 EUR (original: 100 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 75.99
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Devolo dLAN 1200+ - Kit de adaptadores de red
+prodname: 'Devolo dLAN 1200+ - Kit de adaptadores de red'
 ---
 
 Está [Devolo dLAN 1200+ - Kit de adaptadores de red](https://www.amazon.es/dp/B00NB0BLH2/?tag=tolees-21) con 45.68 de descuento por 75.99 EUR (original: 139.9 EUR) en el siguiente enlace!

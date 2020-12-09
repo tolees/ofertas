@@ -14,7 +14,7 @@ currency: EUR
 price: 4.0
 comparePrice: 8.95 EUR
 inStock: true
-prodname: Leifheit Limpia Persianas Jalousetta de Tela  Verde
+prodname: 'Leifheit Limpia Persianas Jalousetta de Tela  Verde'
 ---
 
 Ahora mismo tienes [Leifheit Limpia Persianas Jalousetta de Tela  Verde](https://www.amazon.es/dp/B0007VJMDS/?tag=tolees-21) a 4.0 EUR (original: 8.95 EUR) (55.31 %  de descuento) en el siguiente enlace!

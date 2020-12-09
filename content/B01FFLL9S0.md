@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: OxyLED SL01 Foco LED Solar para Exterior Luz LED de Jardín Lámpara Giratoria 360 Grados Sensor de Movimiento Luz de Noche Regulable Automática 180 Lúmenes Impermeable IP65 Negro [Clase de eficiencia energética A+++]
+prodname: 'OxyLED SL01 Foco LED Solar para Exterior Luz LED de Jardín Lámpara Giratoria 360 Grados Sensor de Movimiento Luz de Noche Regulable Automática 180 Lúmenes Impermeable IP65 Negro [Clase de eficiencia energética A+++]'
 ---
 
 Está [OxyLED SL01 Foco LED Solar para Exterior Luz LED de Jardín Lámpara Giratoria 360 Grados Sensor de Movimiento Luz de Noche Regulable Automática 180 Lúmenes Impermeable IP65 Negro [Clase de eficiencia energética A+++]](https://www.amazon.es/dp/B01FFLL9S0/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

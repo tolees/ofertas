@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: FORMIZON Mini UFO Drone  Mini Drone para Niños  Juguete Volador Helicóptero de Inducción  Accionado a Mano Juguete Bola Volador Interactivo de Inducción Infrarrojo  Regalo para niños y Adultos.  Rojo 
+prodname: 'FORMIZON Mini UFO Drone  Mini Drone para Niños  Juguete Volador Helicóptero de Inducción  Accionado a Mano Juguete Bola Volador Interactivo de Inducción Infrarrojo  Regalo para niños y Adultos.  Rojo '
 ---
 
 Está [FORMIZON Mini UFO Drone  Mini Drone para Niños  Juguete Volador Helicóptero de Inducción  Accionado a Mano Juguete Bola Volador Interactivo de Inducción Infrarrojo  Regalo para niños y Adultos.  Rojo ](https://www.amazon.es/dp/B07YWQ2HTY/?tag=tolees-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

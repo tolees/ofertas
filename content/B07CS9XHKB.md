@@ -14,7 +14,7 @@ currency: EUR
 price: 16.84
 comparePrice: 75 EUR
 inStock: true
-prodname: Pepe Jeans Artini Sudadera    Eclipse 968   Large para Hombre
+prodname: 'Pepe Jeans Artini Sudadera    Eclipse 968   Large para Hombre'
 ---
 
 Está [Pepe Jeans Artini Sudadera    Eclipse 968   Large para Hombre](https://www.amazon.es/dp/B07CS9XHKB/?tag=tolees-21) con 77.55 de descuento por 16.84 EUR (original: 75 EUR) en el siguiente enlace!

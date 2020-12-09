@@ -14,7 +14,7 @@ currency: EUR
 price: 309.99
 comparePrice: 479.99 EUR
 inStock: true
-prodname: Aspiradora sin cable de Shark Anti Hair Wrap con TruePet [IZ251EUT]  Pelo de mascota  Batería Doble  Rojo
+prodname: 'Aspiradora sin cable de Shark Anti Hair Wrap con TruePet [IZ251EUT]  Pelo de mascota  Batería Doble  Rojo'
 ---
 
 Ahora mismo tienes [Aspiradora sin cable de Shark Anti Hair Wrap con TruePet [IZ251EUT]  Pelo de mascota  Batería Doble  Rojo](https://www.amazon.es/dp/B0839RDRFN/?tag=tolees-21) a 309.99 EUR (original: 479.99 EUR) (35.42 %  de descuento) en el siguiente enlace!

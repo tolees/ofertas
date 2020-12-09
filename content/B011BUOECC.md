@@ -14,7 +14,7 @@ currency: EUR
 price: 4.39
 comparePrice: 10.02 EUR
 inStock: true
-prodname: Clementoni- Rompecabezas 4  25209 
+prodname: 'Clementoni- Rompecabezas 4  25209 '
 ---
 
 Ahora mismo tienes [Clementoni- Rompecabezas 4  25209 ](https://www.amazon.es/dp/B011BUOECC/?tag=tolees-21) a 4.39 EUR (original: 10.02 EUR) (56.19 %  de descuento) en el siguiente enlace!

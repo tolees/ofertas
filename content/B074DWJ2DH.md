@@ -14,7 +14,7 @@ currency: EUR
 price: 46.84
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Puma Ignite Limitless Knit  Zapatillas de Cross para Hombre  Blanco  Puma White/Silver   42.5 EU
+prodname: 'Puma Ignite Limitless Knit  Zapatillas de Cross para Hombre  Blanco  Puma White/Silver   42.5 EU'
 ---
 
 Tienes [Puma Ignite Limitless Knit  Zapatillas de Cross para Hombre  Blanco  Puma White/Silver   42.5 EU](https://www.amazon.es/dp/B074DWJ2DH/?tag=tolees-21) con un 57.40 % de descuento con precio de oferta de 46.84 EUR (original: 109.95 EUR) en el siguiente enlace!

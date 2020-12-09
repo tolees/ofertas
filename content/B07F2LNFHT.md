@@ -14,7 +14,7 @@ currency: EUR
 price: 47.49
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Helly Hansen Hp Fleece Jacket  Chaqueta deportiva para Hombre  Azul  Azul Navy 597   Medium
+prodname: 'Helly Hansen Hp Fleece Jacket  Chaqueta deportiva para Hombre  Azul  Azul Navy 597   Medium'
 ---
 
 Está [Helly Hansen Hp Fleece Jacket  Chaqueta deportiva para Hombre  Azul  Azul Navy 597   Medium](https://www.amazon.es/dp/B07F2LNFHT/?tag=tolees-21) con 56.83 de descuento por 47.49 EUR (original: 110.0 EUR) en el siguiente enlace!

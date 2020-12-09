@@ -14,7 +14,7 @@ currency: EUR
 price: 149.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: iRobot Braava Jet 240 Robot friegasuelos  33 W  Varios  Blanco
+prodname: 'iRobot Braava Jet 240 Robot friegasuelos  33 W  Varios  Blanco'
 ---
 
 Tienes [iRobot Braava Jet 240 Robot friegasuelos  33 W  Varios  Blanco](https://www.amazon.es/dp/B01IEEVE76/?tag=tolees-21) con un 25.13 % de descuento con precio de oferta de 149.0 EUR (original: 199.0 EUR) en el siguiente enlace!

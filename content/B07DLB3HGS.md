@@ -14,7 +14,7 @@ currency: EUR
 price: 11.15
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Springfield 4.2.T.Ap.Daily. Falso Tricot Joya Camiseta de Manga Larga  Mujer  Azul  Azul Marino 10   Small  Tamaño del Fabricante:S 
+prodname: 'Springfield 4.2.T.Ap.Daily. Falso Tricot Joya Camiseta de Manga Larga  Mujer  Azul  Azul Marino 10   Small  Tamaño del Fabricante:S '
 ---
 
 Ahora mismo tienes [Springfield 4.2.T.Ap.Daily. Falso Tricot Joya Camiseta de Manga Larga  Mujer  Azul  Azul Marino 10   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLB3HGS/?tag=tolees-21) a 11.15 EUR (original: 22.99 EUR) (51.50 %  de descuento) en el siguiente enlace!

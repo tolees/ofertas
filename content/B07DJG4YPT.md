@@ -14,7 +14,7 @@ currency: EUR
 price: 10.78
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Dockers by Gerli 41ab302  Zapatillas Altas para Mujer  Marrón  Dunkelbraun 380   37 EU
+prodname: 'Dockers by Gerli 41ab302  Zapatillas Altas para Mujer  Marrón  Dunkelbraun 380   37 EU'
 ---
 
 Está [Dockers by Gerli 41ab302  Zapatillas Altas para Mujer  Marrón  Dunkelbraun 380   37 EU](https://www.amazon.es/dp/B07DJG4YPT/?tag=tolees-21) con 82.02 de descuento por 10.78 EUR (original: 59.95 EUR) en el siguiente enlace!

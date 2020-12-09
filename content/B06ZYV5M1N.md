@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Skechers 58356  Zapatillas para Hombre  Negro  Black   42 EU
+prodname: 'Skechers 58356  Zapatillas para Hombre  Negro  Black   42 EU'
 ---
 
 Está [Skechers 58356  Zapatillas para Hombre  Negro  Black   42 EU](https://www.amazon.es/dp/B06ZYV5M1N/?tag=tolees-21) con 40.04 de descuento por 29.95 EUR (original: 49.95 EUR) en el siguiente enlace!

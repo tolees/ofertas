@@ -14,7 +14,7 @@ currency: EUR
 price: 33.18
 comparePrice: 44.29 EUR
 inStock: true
-prodname: VIFER Tienda de Bicicletas Tienda de cobertizo para Bicicletas Tienda de cobertizo para Bicicletas Tienda de cobertizo para Bicicletas de Alta Capacidad para Acampar al Aire Libre
+prodname: 'VIFER Tienda de Bicicletas Tienda de cobertizo para Bicicletas Tienda de cobertizo para Bicicletas Tienda de cobertizo para Bicicletas de Alta Capacidad para Acampar al Aire Libre'
 ---
 
 Tienes [VIFER Tienda de Bicicletas Tienda de cobertizo para Bicicletas Tienda de cobertizo para Bicicletas Tienda de cobertizo para Bicicletas de Alta Capacidad para Acampar al Aire Libre](https://www.amazon.es/dp/B08BXZDW6B/?tag=tolees-21) con un 25.08 % de descuento con precio de oferta de 33.18 EUR (original: 44.29 EUR) en el siguiente enlace!

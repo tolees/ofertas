@@ -14,7 +14,7 @@ currency: EUR
 price: 44.9
 comparePrice: 61.99 EUR
 inStock: true
-prodname: The Witcher 3: Wild Hunt - Complete Edition
+prodname: 'The Witcher 3: Wild Hunt - Complete Edition'
 ---
 
 Tienes [The Witcher 3: Wild Hunt - Complete Edition](https://www.amazon.es/dp/B07TW8TMQH/?tag=tolees-21) con un 27.57 % de descuento con precio de oferta de 44.9 EUR (original: 61.99 EUR) en el siguiente enlace!

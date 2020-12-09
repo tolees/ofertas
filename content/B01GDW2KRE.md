@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Etekcity Báscula de Baño Digital de Alta Medición Precisa 180kg / 400lbs con 303 x 303 x 26 mm Gran Plataforma y LCD Retroiluminación  Cinta Métrica Incluida  Vidrio Transparente  EB4074C
+prodname: 'Etekcity Báscula de Baño Digital de Alta Medición Precisa 180kg / 400lbs con 303 x 303 x 26 mm Gran Plataforma y LCD Retroiluminación  Cinta Métrica Incluida  Vidrio Transparente  EB4074C'
 ---
 
 Ahora mismo tienes [Etekcity Báscula de Baño Digital de Alta Medición Precisa 180kg / 400lbs con 303 x 303 x 26 mm Gran Plataforma y LCD Retroiluminación  Cinta Métrica Incluida  Vidrio Transparente  EB4074C](https://www.amazon.es/dp/B01GDW2KRE/?tag=tolees-21) a 15.99 EUR (original: 21.99 EUR) (27.29 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 254.91
 comparePrice: 549 EUR
 inStock: true
-prodname: SMEG Batidora amasadora SMF01BLEU  800 W  Acero Inoxidable  10 Velocidades  Negro
+prodname: 'SMEG Batidora amasadora SMF01BLEU  800 W  Acero Inoxidable  10 Velocidades  Negro'
 ---
 
 Ahora mismo tienes [SMEG Batidora amasadora SMF01BLEU  800 W  Acero Inoxidable  10 Velocidades  Negro](https://www.amazon.es/dp/B00NSW3XG0/?tag=tolees-21) a 254.91 EUR (original: 549 EUR) (53.57 %  de descuento) en el siguiente enlace!

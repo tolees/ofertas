@@ -14,7 +14,7 @@ currency: EUR
 price: 12.44
 comparePrice: 129 EUR
 inStock: true
-prodname: REPLAY Katewin  Pantalones Vaqueros Delgados para Mujer  Rojo  Bordeaux 10  W32/L30  Talla del Fabricante: 32 
+prodname: 'REPLAY Katewin  Pantalones Vaqueros Delgados para Mujer  Rojo  Bordeaux 10  W32/L30  Talla del Fabricante: 32 '
 ---
 
 Tienes [REPLAY Katewin  Pantalones Vaqueros Delgados para Mujer  Rojo  Bordeaux 10  W32/L30  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B071CDGG3K/?tag=tolees-21) con un 90.36 % de descuento con precio de oferta de 12.44 EUR (original: 129 EUR) en el siguiente enlace!

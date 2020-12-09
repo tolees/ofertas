@@ -14,7 +14,7 @@ currency: EUR
 price: 20.1
 comparePrice: 44.95 EUR
 inStock: true
-prodname: adidas Tiro DU L - Bolsa de deporte  Unisex Adulto  Negro/Blanco  70 x 32 x 32 cm
+prodname: 'adidas Tiro DU L - Bolsa de deporte  Unisex Adulto  Negro/Blanco  70 x 32 x 32 cm'
 ---
 
 Tienes [adidas Tiro DU L - Bolsa de deporte  Unisex Adulto  Negro/Blanco  70 x 32 x 32 cm](https://www.amazon.es/dp/B07JQYGJDX/?tag=tolees-21) con un 55.28 % de descuento con precio de oferta de 20.1 EUR (original: 44.95 EUR) en el siguiente enlace!

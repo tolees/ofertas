@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Melissa&Doug 96071 - Juguetes clásicos  Multicolor
+prodname: 'Melissa&Doug 96071 - Juguetes clásicos  Multicolor'
 ---
 
 Tienes [Melissa&Doug 96071 - Juguetes clásicos  Multicolor](https://www.amazon.es/dp/B07QXM2SHV/?tag=tolees-21) con un 31.60 % de descuento con precio de oferta de 12.99 EUR (original: 18.99 EUR) en el siguiente enlace!

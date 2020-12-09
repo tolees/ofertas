@@ -14,7 +14,7 @@ currency: EUR
 price: 2.78
 comparePrice: 4.18 EUR
 inStock: true
-prodname: Longspeed Vaso de Bebida telescópico portátil Copa Plegable de Silicona para la Oficina en el hogar Viajes al Aire Libre Capacidad de Campamento 201-300 ml - Amarillo/Azul/Rosa/Verde
+prodname: 'Longspeed Vaso de Bebida telescópico portátil Copa Plegable de Silicona para la Oficina en el hogar Viajes al Aire Libre Capacidad de Campamento 201-300 ml - Amarillo/Azul/Rosa/Verde'
 ---
 
 Tienes [Longspeed Vaso de Bebida telescópico portátil Copa Plegable de Silicona para la Oficina en el hogar Viajes al Aire Libre Capacidad de Campamento 201-300 ml - Amarillo/Azul/Rosa/Verde](https://www.amazon.es/dp/B08FC7VV6T/?tag=tolees-21) con un 33.49 % de descuento con precio de oferta de 2.78 EUR (original: 4.18 EUR) en el siguiente enlace!

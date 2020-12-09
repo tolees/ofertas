@@ -14,7 +14,7 @@ currency: EUR
 price: 18.76
 comparePrice: 26.95 EUR
 inStock: true
-prodname: TOP MODEL J1mo71 Bolsa de Deporte Plata Bolsa de Deporte  60 cm  40 litros  Multicolor
+prodname: 'TOP MODEL J1mo71 Bolsa de Deporte Plata Bolsa de Deporte  60 cm  40 litros  Multicolor'
 ---
 
 Está [TOP MODEL J1mo71 Bolsa de Deporte Plata Bolsa de Deporte  60 cm  40 litros  Multicolor](https://www.amazon.es/dp/B07P5LVXWK/?tag=tolees-21) con 30.39 de descuento por 18.76 EUR (original: 26.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.02
 comparePrice: 59 EUR
 inStock: true
-prodname: Calvin Klein Stitch Detail Belt 3.0cm Cinturón  Marrón  Toast 230   100  Talla del fabricante: 85  para Mujer
+prodname: 'Calvin Klein Stitch Detail Belt 3.0cm Cinturón  Marrón  Toast 230   100  Talla del fabricante: 85  para Mujer'
 ---
 
 Ahora mismo tienes [Calvin Klein Stitch Detail Belt 3.0cm Cinturón  Marrón  Toast 230   100  Talla del fabricante: 85  para Mujer](https://www.amazon.es/dp/B078NGDNYC/?tag=tolees-21) a 21.02 EUR (original: 59 EUR) (64.37 %  de descuento) en el siguiente enlace!

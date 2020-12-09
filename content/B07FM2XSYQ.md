@@ -14,7 +14,7 @@ currency: EUR
 price: 1.39
 comparePrice: 2.24 EUR
 inStock: true
-prodname: COMVIP Mujeres Cuerda Adultos Multi-Wrap Nylon Pulseras Ajustables Brazalete Cielo Azul
+prodname: 'COMVIP Mujeres Cuerda Adultos Multi-Wrap Nylon Pulseras Ajustables Brazalete Cielo Azul'
 ---
 
 Está [COMVIP Mujeres Cuerda Adultos Multi-Wrap Nylon Pulseras Ajustables Brazalete Cielo Azul](https://www.amazon.es/dp/B07FM2XSYQ/?tag=tolees-21) con 37.95 de descuento por 1.39 EUR (original: 2.24 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 41.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Converse Chuck Taylor All Star Ox  Zapatillas Hombre  Blanco Optical White  45 EU
+prodname: 'Converse Chuck Taylor All Star Ox  Zapatillas Hombre  Blanco Optical White  45 EU'
 ---
 
 Tienes [Converse Chuck Taylor All Star Ox  Zapatillas Hombre  Blanco Optical White  45 EU](https://www.amazon.es/dp/B000OLVQ6M/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 41.99 EUR (original: 69.99 EUR) en el siguiente enlace!

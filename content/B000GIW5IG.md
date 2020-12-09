@@ -14,7 +14,7 @@ currency: EUR
 price: 21.94
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Casio Reloj de Pulsera W-753-1AVES
+prodname: 'Casio Reloj de Pulsera W-753-1AVES'
 ---
 
 Tienes [Casio Reloj de Pulsera W-753-1AVES](https://www.amazon.es/dp/B000GIW5IG/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 21.94 EUR (original: 39.9 EUR) en el siguiente enlace!

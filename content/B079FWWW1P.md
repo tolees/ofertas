@@ -14,7 +14,7 @@ currency: EUR
 price: 8.85
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Vampirina - Spooky Scooter Set - Poppy  Bandai 78117    color/modelo surtido
+prodname: 'Vampirina - Spooky Scooter Set - Poppy  Bandai 78117    color/modelo surtido'
 ---
 
 Ahora mismo tienes [Vampirina - Spooky Scooter Set - Poppy  Bandai 78117    color/modelo surtido](https://www.amazon.es/dp/B079FWWW1P/?tag=tolees-21) a 8.85 EUR (original: 14.99 EUR) (40.96 %  de descuento) en el siguiente enlace!

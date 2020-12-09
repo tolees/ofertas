@@ -14,7 +14,7 @@ currency: EUR
 price: 32.25
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-STAR RAW ARC 3D Slim Chaqueta vaquera  Faded Pebble Grey Restored B843/B050  S para Hombre
+prodname: 'G-STAR RAW ARC 3D Slim Chaqueta vaquera  Faded Pebble Grey Restored B843/B050  S para Hombre'
 ---
 
 Ahora mismo tienes [G-STAR RAW ARC 3D Slim Chaqueta vaquera  Faded Pebble Grey Restored B843/B050  S para Hombre](https://www.amazon.es/dp/B07Z4BDNK9/?tag=tolees-21) a 32.25 EUR (original: 129.95 EUR) (75.18 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Reloj de Pulsera para Hombre  Correa de Piel  cronógrafo Militar  Resistente al Agua  Deportivo  con Fecha  Cuarzo  Color marrón y Azul
+prodname: 'Reloj de Pulsera para Hombre  Correa de Piel  cronógrafo Militar  Resistente al Agua  Deportivo  con Fecha  Cuarzo  Color marrón y Azul'
 ---
 
 Está [Reloj de Pulsera para Hombre  Correa de Piel  cronógrafo Militar  Resistente al Agua  Deportivo  con Fecha  Cuarzo  Color marrón y Azul](https://www.amazon.es/dp/B07WG72FTP/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

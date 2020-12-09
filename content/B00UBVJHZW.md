@@ -14,7 +14,7 @@ currency: EUR
 price: 47.84
 comparePrice: 100.66 EUR
 inStock: true
-prodname: REPLAY Anbass  Vaqueros para Hombre  Blau  Blue Denim 9  W30/L30  30 
+prodname: 'REPLAY Anbass  Vaqueros para Hombre  Blau  Blue Denim 9  W30/L30  30 '
 ---
 
 Ahora mismo tienes [REPLAY Anbass  Vaqueros para Hombre  Blau  Blue Denim 9  W30/L30  30 ](https://www.amazon.es/dp/B00UBVJHZW/?tag=tolees-21) a 47.84 EUR (original: 100.66 EUR) (52.47 %  de descuento) en el siguiente enlace!

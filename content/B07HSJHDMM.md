@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Hello Neighbor: Hide And Seek
+prodname: 'Hello Neighbor: Hide And Seek'
 ---
 
 Tienes [Hello Neighbor: Hide And Seek](https://www.amazon.es/dp/B07HSJHDMM/?tag=tolees-21) con un 42.98 % de descuento con precio de oferta de 19.95 EUR (original: 34.99 EUR) en el siguiente enlace!

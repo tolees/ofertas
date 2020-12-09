@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 15.0 EUR
 inStock: true
-prodname: Quntis iPhone Charger Lightning Cable - MFi Certified 1 + 2 + 3M 3Pack Lightning a USB A Cable para iPhone SE 2020 11 Xs Max XR X 8 Plus 7 Plus 6 Plus 5s SE iPad Pro
+prodname: 'Quntis iPhone Charger Lightning Cable - MFi Certified 1 + 2 + 3M 3Pack Lightning a USB A Cable para iPhone SE 2020 11 Xs Max XR X 8 Plus 7 Plus 6 Plus 5s SE iPad Pro'
 ---
 
 Tienes [Quntis iPhone Charger Lightning Cable - MFi Certified 1 + 2 + 3M 3Pack Lightning a USB A Cable para iPhone SE 2020 11 Xs Max XR X 8 Plus 7 Plus 6 Plus 5s SE iPad Pro](https://www.amazon.es/dp/B08M9FNWDZ/?tag=tolees-21) con un 26.73 % de descuento con precio de oferta de 10.99 EUR (original: 15.0 EUR) en el siguiente enlace!

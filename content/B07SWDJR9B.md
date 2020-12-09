@@ -14,7 +14,7 @@ currency: EUR
 price: 16.87
 comparePrice: 26.1 EUR
 inStock: true
-prodname: Durex - Preservativos Love Collection sabor fresa  dame placer  sensitivo suave y sensitivo comfort - 30 condones
+prodname: 'Durex - Preservativos Love Collection sabor fresa  dame placer  sensitivo suave y sensitivo comfort - 30 condones'
 ---
 
 Ahora mismo tienes [Durex - Preservativos Love Collection sabor fresa  dame placer  sensitivo suave y sensitivo comfort - 30 condones](https://www.amazon.es/dp/B07SWDJR9B/?tag=tolees-21) a 16.87 EUR (original: 26.1 EUR) (35.36 %  de descuento) en el siguiente enlace!

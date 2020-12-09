@@ -14,7 +14,7 @@ currency: EUR
 price: 4.95
 comparePrice: 7.95 EUR
 inStock: true
-prodname: adidas Milano 16 Sock - Medias para hombre  multicolor   BLANCO / BLANCO   talla 37-39 EU  1 par
+prodname: 'adidas Milano 16 Sock - Medias para hombre  multicolor   BLANCO / BLANCO   talla 37-39 EU  1 par'
 ---
 
 Tienes [adidas Milano 16 Sock - Medias para hombre  multicolor   BLANCO / BLANCO   talla 37-39 EU  1 par](https://www.amazon.es/dp/B016R6YEKC/?tag=tolees-21) con un 37.74 % de descuento con precio de oferta de 4.95 EUR (original: 7.95 EUR) en el siguiente enlace!

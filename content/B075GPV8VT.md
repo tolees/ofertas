@@ -14,7 +14,7 @@ currency: EUR
 price: 9.93
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Only Onlnew Amour Sound L/s O-Neck Snap Swt  Sudadera para Mujer  Rojo  Aurora Red   38  Talla del Fabricante: Medium 
+prodname: 'Only Onlnew Amour Sound L/s O-Neck Snap Swt  Sudadera para Mujer  Rojo  Aurora Red   38  Talla del Fabricante: Medium '
 ---
 
 Está [Only Onlnew Amour Sound L/s O-Neck Snap Swt  Sudadera para Mujer  Rojo  Aurora Red   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B075GPV8VT/?tag=tolees-21) con 66.89 de descuento por 9.93 EUR (original: 29.99 EUR) en el siguiente enlace!

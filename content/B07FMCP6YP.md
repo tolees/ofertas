@@ -14,7 +14,7 @@ currency: EUR
 price: 33.91
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Energy Sistem Headphones BT Smart 6 Voice Assistant  Auriculares inalambricos  Asistente de Voz  Bateria  Bluetooth 
+prodname: 'Energy Sistem Headphones BT Smart 6 Voice Assistant  Auriculares inalambricos  Asistente de Voz  Bateria  Bluetooth '
 ---
 
 Está [Energy Sistem Headphones BT Smart 6 Voice Assistant  Auriculares inalambricos  Asistente de Voz  Bateria  Bluetooth ](https://www.amazon.es/dp/B07FMCP6YP/?tag=tolees-21) con 43.39 de descuento por 33.91 EUR (original: 59.9 EUR) en el siguiente enlace!

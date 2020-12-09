@@ -14,7 +14,7 @@ currency: EUR
 price: 14.29
 comparePrice: 25.58 EUR
 inStock: true
-prodname: Animales Fantásticos Y Dónde Encontrarlos  4K Ultra HD + Blu-ray + Copia Digital  [Blu-ray]
+prodname: 'Animales Fantásticos Y Dónde Encontrarlos  4K Ultra HD + Blu-ray + Copia Digital  [Blu-ray]'
 ---
 
 Ahora mismo tienes [Animales Fantásticos Y Dónde Encontrarlos  4K Ultra HD + Blu-ray + Copia Digital  [Blu-ray]](https://www.amazon.es/dp/B01MUH3NP6/?tag=tolees-21) a 14.29 EUR (original: 25.58 EUR) (44.14 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 73.11
 comparePrice: 117.34 EUR
 inStock: true
-prodname: Carrera Hombre 4005/S 7F 6HT Gafas de sol  Gris  Whcrygrydots/Rd Red   65
+prodname: 'Carrera Hombre 4005/S 7F 6HT Gafas de sol  Gris  Whcrygrydots/Rd Red   65'
 ---
 
 Tienes [Carrera Hombre 4005/S 7F 6HT Gafas de sol  Gris  Whcrygrydots/Rd Red   65](https://www.amazon.es/dp/B076VS6CYY/?tag=tolees-21) con un 37.69 % de descuento con precio de oferta de 73.11 EUR (original: 117.34 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 15.06 EUR
 inStock: true
-prodname: Lsnisni Luz nocturna de inducción LED con sensor inteligente  sensor digital desde la noche hasta el amanecer  encendido/apagado automático  uso en cualquier lugar  EU Enchufe-1 pcs 
+prodname: 'Lsnisni Luz nocturna de inducción LED con sensor inteligente  sensor digital desde la noche hasta el amanecer  encendido/apagado automático  uso en cualquier lugar  EU Enchufe-1 pcs '
 ---
 
 Ahora mismo tienes [Lsnisni Luz nocturna de inducción LED con sensor inteligente  sensor digital desde la noche hasta el amanecer  encendido/apagado automático  uso en cualquier lugar  EU Enchufe-1 pcs ](https://www.amazon.es/dp/B07PZKVRHH/?tag=tolees-21) a 3.99 EUR (original: 15.06 EUR) (73.51 %  de descuento) en el siguiente enlace!

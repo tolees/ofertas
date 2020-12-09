@@ -14,7 +14,7 @@ currency: EUR
 price: 7.59
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Kingston Canvas Select Plus Tarjeta microSD  SDCS2/16GB-3P1A Class 10  3X Tarjetas SD con Adaptador SD 
+prodname: 'Kingston Canvas Select Plus Tarjeta microSD  SDCS2/16GB-3P1A Class 10  3X Tarjetas SD con Adaptador SD '
 ---
 
 Ahora mismo tienes [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/16GB-3P1A Class 10  3X Tarjetas SD con Adaptador SD ](https://www.amazon.es/dp/B07Z4GPW7Q/?tag=tolees-21) a 7.59 EUR (original: 13.99 EUR) (45.75 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.49
 comparePrice: 110 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Sun Fade 2153  W40/L34
+prodname: 'Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Sun Fade 2153  W40/L34'
 ---
 
 Ahora mismo tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Sun Fade 2153  W40/L34](https://www.amazon.es/dp/B079QGGL2H/?tag=tolees-21) a 49.49 EUR (original: 110 EUR) (55.01 %  de descuento) en el siguiente enlace!

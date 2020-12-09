@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 22 EUR
 inStock: true
-prodname: Umbro Freedom Chaqueta  Hombre  Negro  L
+prodname: 'Umbro Freedom Chaqueta  Hombre  Negro  L'
 ---
 
 Ahora mismo tienes [Umbro Freedom Chaqueta  Hombre  Negro  L](https://www.amazon.es/dp/B01N3YHU6D/?tag=tolees-21) a 14.95 EUR (original: 22 EUR) (32.05 %  de descuento) en el siguiente enlace!

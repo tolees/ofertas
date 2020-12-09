@@ -14,7 +14,7 @@ currency: EUR
 price: 7
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Tres en inglés Oro Alemán Tequila  1er Pack  1 x 700 ml 
+prodname: 'Tres en inglés Oro Alemán Tequila  1er Pack  1 x 700 ml '
 ---
 
 Está [Tres en inglés Oro Alemán Tequila  1er Pack  1 x 700 ml ](https://www.amazon.es/dp/B00AFA9S5S/?tag=tolees-21) con 41.62 de descuento por 7 EUR (original: 11.99 EUR) en el siguiente enlace!

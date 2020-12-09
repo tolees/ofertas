@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas Handball Spezial  Sneaker Hombre  Light Blue/Footwear White/Gum  38 EU
+prodname: 'adidas Handball Spezial  Sneaker Hombre  Light Blue/Footwear White/Gum  38 EU'
 ---
 
 Está [adidas Handball Spezial  Sneaker Hombre  Light Blue/Footwear White/Gum  38 EU](https://www.amazon.es/dp/B07K11SCHY/?tag=tolees-21) con 29.97 de descuento por 69.99 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.45
 comparePrice: 49.95 EUR
 inStock: true
-prodname: PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Gris  Gray Violet/White/Peach   38 EU
+prodname: 'PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Gris  Gray Violet/White/Peach   38 EU'
 ---
 
 Ahora mismo tienes [PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Gris  Gray Violet/White/Peach   38 EU](https://www.amazon.es/dp/B07DBYQKV8/?tag=tolees-21) a 30.45 EUR (original: 49.95 EUR) (39.04 %  de descuento) en el siguiente enlace!

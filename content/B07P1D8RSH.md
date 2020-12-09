@@ -14,7 +14,7 @@ currency: EUR
 price: 22.46
 comparePrice: 29.95 EUR
 inStock: true
-prodname: IKOHS PONDUS BLACK - Báscula de Cocina ecológica generación de energía  sin pilas ni baterias
+prodname: 'IKOHS PONDUS BLACK - Báscula de Cocina ecológica generación de energía  sin pilas ni baterias'
 ---
 
 Tienes [IKOHS PONDUS BLACK - Báscula de Cocina ecológica generación de energía  sin pilas ni baterias](https://www.amazon.es/dp/B07P1D8RSH/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 22.46 EUR (original: 29.95 EUR) en el siguiente enlace!

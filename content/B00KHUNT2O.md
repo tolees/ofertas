@@ -14,7 +14,7 @@ currency: EUR
 price: 8.37
 comparePrice: 22.51 EUR
 inStock: true
-prodname: Kitchen Artist Kit de Postre Macarons
+prodname: 'Kitchen Artist Kit de Postre Macarons'
 ---
 
 Está [Kitchen Artist Kit de Postre Macarons](https://www.amazon.es/dp/B00KHUNT2O/?tag=tolees-21) con 62.82 de descuento por 8.37 EUR (original: 22.51 EUR) en el siguiente enlace!

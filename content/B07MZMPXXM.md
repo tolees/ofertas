@@ -14,7 +14,7 @@ currency: EUR
 price: 232.42
 comparePrice: 449.68 EUR
 inStock: true
-prodname: Michael Kors Shoulder  Shopper para Mujer  Blanco  Optic White   15x10x5 cm  W x H x L 
+prodname: 'Michael Kors Shoulder  Shopper para Mujer  Blanco  Optic White   15x10x5 cm  W x H x L '
 ---
 
 Ahora mismo tienes [Michael Kors Shoulder  Shopper para Mujer  Blanco  Optic White   15x10x5 cm  W x H x L ](https://www.amazon.es/dp/B07MZMPXXM/?tag=tolees-21) a 232.42 EUR (original: 449.68 EUR) (48.31 %  de descuento) en el siguiente enlace!

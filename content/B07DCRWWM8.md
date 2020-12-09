@@ -14,7 +14,7 @@ currency: EUR
 price: 44.9
 comparePrice: 69.9 EUR
 inStock: true
-prodname: SkullCap® Casco Bicicleta Carretera  Casco Bici Adulto Carretera  Bicicleta Hombres y Mujeres  tamaño L  59-61 cm   Color: Blanco
+prodname: 'SkullCap® Casco Bicicleta Carretera  Casco Bici Adulto Carretera  Bicicleta Hombres y Mujeres  tamaño L  59-61 cm   Color: Blanco'
 ---
 
 Ahora mismo tienes [SkullCap® Casco Bicicleta Carretera  Casco Bici Adulto Carretera  Bicicleta Hombres y Mujeres  tamaño L  59-61 cm   Color: Blanco](https://www.amazon.es/dp/B07DCRWWM8/?tag=tolees-21) a 44.9 EUR (original: 69.9 EUR) (35.77 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 114.99
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Steelseries Arctis 7 Auriculares De Juego  Inalámbricos Sin Pérdidas  Dts Headphone: X V2.0 Surround Para Pc Y PlayStation 4  Negro
+prodname: 'Steelseries Arctis 7 Auriculares De Juego  Inalámbricos Sin Pérdidas  Dts Headphone: X V2.0 Surround Para Pc Y PlayStation 4  Negro'
 ---
 
 Ahora mismo tienes [Steelseries Arctis 7 Auriculares De Juego  Inalámbricos Sin Pérdidas  Dts Headphone: X V2.0 Surround Para Pc Y PlayStation 4  Negro](https://www.amazon.es/dp/B07GFRPR2D/?tag=tolees-21) a 114.99 EUR (original: 179.99 EUR) (36.11 %  de descuento) en el siguiente enlace!

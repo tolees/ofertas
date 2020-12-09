@@ -14,7 +14,7 @@ currency: EUR
 price: 8.53
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Belkin F7U005BT04-BLK - Cargador para Coche USB-C de 15 W y Cable USB-C de 1.2 m  Conector Reversible  luz LED de Estado  diseño Elegante  Compatible con Samsung S9 y S9+  Negro
+prodname: 'Belkin F7U005BT04-BLK - Cargador para Coche USB-C de 15 W y Cable USB-C de 1.2 m  Conector Reversible  luz LED de Estado  diseño Elegante  Compatible con Samsung S9 y S9+  Negro'
 ---
 
 Tienes [Belkin F7U005BT04-BLK - Cargador para Coche USB-C de 15 W y Cable USB-C de 1.2 m  Conector Reversible  luz LED de Estado  diseño Elegante  Compatible con Samsung S9 y S9+  Negro](https://www.amazon.es/dp/B01GUVNHS4/?tag=tolees-21) con un 75.62 % de descuento con precio de oferta de 8.53 EUR (original: 34.99 EUR) en el siguiente enlace!

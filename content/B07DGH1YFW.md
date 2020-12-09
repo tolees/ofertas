@@ -14,7 +14,7 @@ currency: EUR
 price: 23.17
 comparePrice: 85 EUR
 inStock: true
-prodname: DC Shoes Heathrow Vulc  Zapatillas de Skateboard para Hombre  Negro  Black Bl0   42 EU
+prodname: 'DC Shoes Heathrow Vulc  Zapatillas de Skateboard para Hombre  Negro  Black Bl0   42 EU'
 ---
 
 Tienes [DC Shoes Heathrow Vulc  Zapatillas de Skateboard para Hombre  Negro  Black Bl0   42 EU](https://www.amazon.es/dp/B07DGH1YFW/?tag=tolees-21) con un 72.74 % de descuento con precio de oferta de 23.17 EUR (original: 85 EUR) en el siguiente enlace!

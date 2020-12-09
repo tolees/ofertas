@@ -14,7 +14,7 @@ currency: EUR
 price: 53.12
 comparePrice: 99 EUR
 inStock: true
-prodname: Trail-Gator Tandem-Stange  podredumbre
+prodname: 'Trail-Gator Tandem-Stange  podredumbre'
 ---
 
 Ahora mismo tienes [Trail-Gator Tandem-Stange  podredumbre](https://www.amazon.es/dp/B000KAZUQY/?tag=tolees-21) a 53.12 EUR (original: 99 EUR) (46.34 %  de descuento) en el siguiente enlace!

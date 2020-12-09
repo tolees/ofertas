@@ -14,7 +14,7 @@ currency: EUR
 price: 389
 comparePrice: 735.87 EUR
 inStock: true
-prodname: Huawei P20 Pro 128 GB/6 GB Single SIM Smartphone - Black  United Kingdom Version 
+prodname: 'Huawei P20 Pro 128 GB/6 GB Single SIM Smartphone - Black  United Kingdom Version '
 ---
 
 Ahora mismo tienes [Huawei P20 Pro 128 GB/6 GB Single SIM Smartphone - Black  United Kingdom Version ](https://www.amazon.es/dp/B07CKXRVGC/?tag=tolees-21) a 389 EUR (original: 735.87 EUR) (47.14 %  de descuento) en el siguiente enlace!

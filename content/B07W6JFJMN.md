@@ -14,7 +14,7 @@ currency: EUR
 price: 5.05
 comparePrice: 7.42 EUR
 inStock: true
-prodname: CARE OF by PUMA Camiseta de entrenamiento para hombre  Negro  Black   S  Label: S
+prodname: 'CARE OF by PUMA Camiseta de entrenamiento para hombre  Negro  Black   S  Label: S'
 ---
 
 Tienes [CARE OF by PUMA Camiseta de entrenamiento para hombre  Negro  Black   S  Label: S](https://www.amazon.es/dp/B07W6JFJMN/?tag=tolees-21) con un 31.94 % de descuento con precio de oferta de 5.05 EUR (original: 7.42 EUR) en el siguiente enlace!

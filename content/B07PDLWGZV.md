@@ -14,7 +14,7 @@ currency: EUR
 price: 48.95
 comparePrice: 67.95 EUR
 inStock: true
-prodname: IKOHS Stone Grill Pro - Sandwichera Grill  2000 W  hasta 4 Tostadas  Revestimiento Antiadherente Cerámica  Apertura de 180º  Altura Adaptable  Asa No Transmite Calor  Libre de BPA  Color Gris
+prodname: 'IKOHS Stone Grill Pro - Sandwichera Grill  2000 W  hasta 4 Tostadas  Revestimiento Antiadherente Cerámica  Apertura de 180º  Altura Adaptable  Asa No Transmite Calor  Libre de BPA  Color Gris'
 ---
 
 Tienes [IKOHS Stone Grill Pro - Sandwichera Grill  2000 W  hasta 4 Tostadas  Revestimiento Antiadherente Cerámica  Apertura de 180º  Altura Adaptable  Asa No Transmite Calor  Libre de BPA  Color Gris](https://www.amazon.es/dp/B07PDLWGZV/?tag=tolees-21) con un 27.96 % de descuento con precio de oferta de 48.95 EUR (original: 67.95 EUR) en el siguiente enlace!

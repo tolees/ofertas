@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 15.99 EUR
 inStock: true
-prodname: SOLEDI lana de fieltro  lanas de colores Set de lana de fieltro agujado  ovillo de hilo de lana para hilar  hilado a mano fieltro húmedo  36 colores 
+prodname: 'SOLEDI lana de fieltro  lanas de colores Set de lana de fieltro agujado  ovillo de hilo de lana para hilar  hilado a mano fieltro húmedo  36 colores '
 ---
 
 Está [SOLEDI lana de fieltro  lanas de colores Set de lana de fieltro agujado  ovillo de hilo de lana para hilar  hilado a mano fieltro húmedo  36 colores ](https://www.amazon.es/dp/B00TH2KZPC/?tag=tolees-21) con 25.02 de descuento por 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!

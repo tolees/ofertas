@@ -14,7 +14,7 @@ currency: EUR
 price: 239.0
 comparePrice: 319.0 EUR
 inStock: true
-prodname: ASTRO Gaming A50 Auriculares inalámbricos Gaming y Base de Carga  4ta Gen  Dolby Audio & Atmos  Control de Balance de Juego/Voz  2.4 GHz  9m Alcance para Xbox Series X|S  Xbox One  PC  Mac -Negro/Oro
+prodname: 'ASTRO Gaming A50 Auriculares inalámbricos Gaming y Base de Carga  4ta Gen  Dolby Audio & Atmos  Control de Balance de Juego/Voz  2.4 GHz  9m Alcance para Xbox Series X|S  Xbox One  PC  Mac -Negro/Oro'
 ---
 
 Tienes [ASTRO Gaming A50 Auriculares inalámbricos Gaming y Base de Carga  4ta Gen  Dolby Audio & Atmos  Control de Balance de Juego/Voz  2.4 GHz  9m Alcance para Xbox Series X|S  Xbox One  PC  Mac -Negro/Oro](https://www.amazon.es/dp/B07TTB3SRB/?tag=tolees-21) con un 25.08 % de descuento con precio de oferta de 239.0 EUR (original: 319.0 EUR) en el siguiente enlace!

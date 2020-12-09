@@ -14,7 +14,7 @@ currency: EUR
 price: 33.95
 comparePrice: 85 EUR
 inStock: true
-prodname: Pepe Jeans London Foster Itaka  Zapatillas para Mujer  Dorado  Bronze 864   39 EU
+prodname: 'Pepe Jeans London Foster Itaka  Zapatillas para Mujer  Dorado  Bronze 864   39 EU'
 ---
 
 Está [Pepe Jeans London Foster Itaka  Zapatillas para Mujer  Dorado  Bronze 864   39 EU](https://www.amazon.es/dp/B079RFP2ND/?tag=tolees-21) con 60.06 de descuento por 33.95 EUR (original: 85 EUR) en el siguiente enlace!

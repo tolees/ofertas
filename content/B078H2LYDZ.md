@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 49.99 EUR
 inStock: true
-prodname: JACK & JONES Jjichop Jjcargo Shorts AKM 429 STS Pantalones Cortos   Forest Night Detail: Camo   48  Talla del Fabricante: Small  para Hombre
+prodname: 'JACK & JONES Jjichop Jjcargo Shorts AKM 429 STS Pantalones Cortos   Forest Night Detail: Camo   48  Talla del Fabricante: Small  para Hombre'
 ---
 
 Tienes [JACK & JONES Jjichop Jjcargo Shorts AKM 429 STS Pantalones Cortos   Forest Night Detail: Camo   48  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B078H2LYDZ/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!

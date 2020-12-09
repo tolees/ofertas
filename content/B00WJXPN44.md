@@ -14,7 +14,7 @@ currency: EUR
 price: 11.07
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Lee LF0450FZ  Cinturón Para Hombre  Marrón  Dark Cognac   90 cm
+prodname: 'Lee LF0450FZ  Cinturón Para Hombre  Marrón  Dark Cognac   90 cm'
 ---
 
 Tienes [Lee LF0450FZ  Cinturón Para Hombre  Marrón  Dark Cognac   90 cm](https://www.amazon.es/dp/B00WJXPN44/?tag=tolees-21) con un 77.84 % de descuento con precio de oferta de 11.07 EUR (original: 49.95 EUR) en el siguiente enlace!

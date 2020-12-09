@@ -14,7 +14,7 @@ currency: EUR
 price: 208.1
 comparePrice: 299 EUR
 inStock: true
-prodname: Piquadro CA3349P15 Mochila  Diseño de Potencias  Negro  Negro  - CA3349P15/N
+prodname: 'Piquadro CA3349P15 Mochila  Diseño de Potencias  Negro  Negro  - CA3349P15/N'
 ---
 
 Tienes [Piquadro CA3349P15 Mochila  Diseño de Potencias  Negro  Negro  - CA3349P15/N](https://www.amazon.es/dp/B00REEBJOG/?tag=tolees-21) con un 30.40 % de descuento con precio de oferta de 208.1 EUR (original: 299 EUR) en el siguiente enlace!

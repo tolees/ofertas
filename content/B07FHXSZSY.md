@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Negro  Black   X-Small
+prodname: 'JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Negro  Black   X-Small'
 ---
 
 Tienes [JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Negro  Black   X-Small](https://www.amazon.es/dp/B07FHXSZSY/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

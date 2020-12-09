@@ -14,7 +14,7 @@ currency: EUR
 price: 12.0
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Carpisa - Bolso de mano trapezoidal para mujer - Blenda Remix Jeans Talla única
+prodname: 'Carpisa - Bolso de mano trapezoidal para mujer - Blenda Remix Jeans Talla única'
 ---
 
 Ahora mismo tienes [Carpisa - Bolso de mano trapezoidal para mujer - Blenda Remix Jeans Talla única](https://www.amazon.es/dp/B07ZTX9SM2/?tag=tolees-21) a 12.0 EUR (original: 20.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

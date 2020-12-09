@@ -14,7 +14,7 @@ currency: EUR
 price: 65.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: DBPOWER Mini proyector  2200 Lumen Proyector LED de Video HD 1080P con Pantalla de 176"  Vida útil de 50 000 Horas  proyector para Cine en casa Compatible con Amazon Fire TV Stick  White New  
+prodname: 'DBPOWER Mini proyector  2200 Lumen Proyector LED de Video HD 1080P con Pantalla de 176"  Vida útil de 50 000 Horas  proyector para Cine en casa Compatible con Amazon Fire TV Stick  White New  '
 ---
 
 Ahora mismo tienes [DBPOWER Mini proyector  2200 Lumen Proyector LED de Video HD 1080P con Pantalla de 176"  Vida útil de 50 000 Horas  proyector para Cine en casa Compatible con Amazon Fire TV Stick  White New  ](https://www.amazon.es/dp/B07JWCJW36/?tag=tolees-21) a 65.99 EUR (original: 99.99 EUR) (34.00 %  de descuento) en el siguiente enlace!

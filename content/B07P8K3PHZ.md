@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: RAVIAD 3 en 1 Multi Cable de Carga  Nylon Multi USB Cargador Cable Múltiples Micro USB Tipo C para Android Galaxy S9/ S8/ S7/ A5  Huawei P20  Honor  Kindle  LG
+prodname: 'RAVIAD 3 en 1 Multi Cable de Carga  Nylon Multi USB Cargador Cable Múltiples Micro USB Tipo C para Android Galaxy S9/ S8/ S7/ A5  Huawei P20  Honor  Kindle  LG'
 ---
 
 Ahora mismo tienes [RAVIAD 3 en 1 Multi Cable de Carga  Nylon Multi USB Cargador Cable Múltiples Micro USB Tipo C para Android Galaxy S9/ S8/ S7/ A5  Huawei P20  Honor  Kindle  LG](https://www.amazon.es/dp/B07P8K3PHZ/?tag=tolees-21) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

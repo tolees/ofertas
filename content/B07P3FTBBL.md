@@ -14,7 +14,7 @@ currency: EUR
 price: 9.87
 comparePrice: 13.5 EUR
 inStock: true
-prodname: Pepe Jeans Ason Neceser de viaje  22 cm  1.32 litros  Negro
+prodname: 'Pepe Jeans Ason Neceser de viaje  22 cm  1.32 litros  Negro'
 ---
 
 Tienes [Pepe Jeans Ason Neceser de viaje  22 cm  1.32 litros  Negro](https://www.amazon.es/dp/B07P3FTBBL/?tag=tolees-21) con un 26.89 % de descuento con precio de oferta de 9.87 EUR (original: 13.5 EUR) en el siguiente enlace!

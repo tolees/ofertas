@@ -14,7 +14,7 @@ currency: EUR
 price: 101.68
 comparePrice: 189 EUR
 inStock: true
-prodname: Panama Jack Panama 03 Aviator  Botas Militar para Hombre  Marrón  Cuero C22   45 EU
+prodname: 'Panama Jack Panama 03 Aviator  Botas Militar para Hombre  Marrón  Cuero C22   45 EU'
 ---
 
 Tienes [Panama Jack Panama 03 Aviator  Botas Militar para Hombre  Marrón  Cuero C22   45 EU](https://www.amazon.es/dp/B01M0QRBBO/?tag=tolees-21) con un 46.20 % de descuento con precio de oferta de 101.68 EUR (original: 189 EUR) en el siguiente enlace!

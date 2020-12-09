@@ -14,7 +14,7 @@ currency: EUR
 price: 74.81
 comparePrice: 160.0 EUR
 inStock: true
-prodname: Clarks Un Tread UpGTX  Botas clásicas. Hombre  Negro  Black Leather Black Leather   44 EU
+prodname: 'Clarks Un Tread UpGTX  Botas clásicas. Hombre  Negro  Black Leather Black Leather   44 EU'
 ---
 
 Tienes [Clarks Un Tread UpGTX  Botas clásicas. Hombre  Negro  Black Leather Black Leather   44 EU](https://www.amazon.es/dp/B07MLSSCY5/?tag=tolees-21) con un 53.24 % de descuento con precio de oferta de 74.81 EUR (original: 160.0 EUR) en el siguiente enlace!

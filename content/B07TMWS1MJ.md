@@ -14,7 +14,7 @@ currency: EUR
 price: 40.71
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Funny Go  Mocasines para Mujer  Gris  Light Grey Nub Light Grey Nub   36 EU
+prodname: 'Clarks Funny Go  Mocasines para Mujer  Gris  Light Grey Nub Light Grey Nub   36 EU'
 ---
 
 Está [Clarks Funny Go  Mocasines para Mujer  Gris  Light Grey Nub Light Grey Nub   36 EU](https://www.amazon.es/dp/B07TMWS1MJ/?tag=tolees-21) con 59.27 de descuento por 40.71 EUR (original: 99.95 EUR) en el siguiente enlace!

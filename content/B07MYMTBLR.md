@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Verdaderos Auriculares inalámbricos Bluetooth V5.0 para iPad iPhone XS MAX
+prodname: 'Verdaderos Auriculares inalámbricos Bluetooth V5.0 para iPad iPhone XS MAX'
 ---
 
 Tienes [Verdaderos Auriculares inalámbricos Bluetooth V5.0 para iPad iPhone XS MAX](https://www.amazon.es/dp/B07MYMTBLR/?tag=tolees-21) con un 62.51 % de descuento con precio de oferta de 29.99 EUR (original: 79.99 EUR) en el siguiente enlace!

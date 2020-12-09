@@ -14,7 +14,7 @@ currency: EUR
 price: 17.37
 comparePrice: 35 EUR
 inStock: true
-prodname: FIND 70230A vestidos mujer  Negro  Black   46  Talla del Fabricante: XX-Large 
+prodname: 'FIND 70230A vestidos mujer  Negro  Black   46  Talla del Fabricante: XX-Large '
 ---
 
 Está [FIND 70230A vestidos mujer  Negro  Black   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B01MZHDCT0/?tag=tolees-21) con 50.37 de descuento por 17.37 EUR (original: 35 EUR) en el siguiente enlace!

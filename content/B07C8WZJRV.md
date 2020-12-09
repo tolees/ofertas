@@ -14,7 +14,7 @@ currency: EUR
 price: 13.01
 comparePrice: 30 EUR
 inStock: true
-prodname: Vans_Apparel Classic  Camiseta para Hombre  Amarillo  New Wheat-Dress Blues Ru1  XX-Large
+prodname: 'Vans_Apparel Classic  Camiseta para Hombre  Amarillo  New Wheat-Dress Blues Ru1  XX-Large'
 ---
 
 Está [Vans_Apparel Classic  Camiseta para Hombre  Amarillo  New Wheat-Dress Blues Ru1  XX-Large](https://www.amazon.es/dp/B07C8WZJRV/?tag=tolees-21) con 56.63 de descuento por 13.01 EUR (original: 30 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.76
 comparePrice: 10.38 EUR
 inStock: true
-prodname: Fungi
+prodname: 'Fungi'
 ---
 
 Ahora mismo tienes [Fungi](https://www.amazon.es/dp/B00ICF0IQQ/?tag=tolees-21) a 7.76 EUR (original: 10.38 EUR) (25.24 %  de descuento) en el siguiente enlace!

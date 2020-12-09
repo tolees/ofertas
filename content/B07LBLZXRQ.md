@@ -14,7 +14,7 @@ currency: EUR
 price: 51.39
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Tommy Hilfiger New Ivy V-nk Swtr suéter  Azul  Omphalodes Multi 909   Large  Talla del Fabricante: LG  para Mujer
+prodname: 'Tommy Hilfiger New Ivy V-nk Swtr suéter  Azul  Omphalodes Multi 909   Large  Talla del Fabricante: LG  para Mujer'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger New Ivy V-nk Swtr suéter  Azul  Omphalodes Multi 909   Large  Talla del Fabricante: LG  para Mujer](https://www.amazon.es/dp/B07LBLZXRQ/?tag=tolees-21) a 51.39 EUR (original: 99.9 EUR) (48.56 %  de descuento) en el siguiente enlace!

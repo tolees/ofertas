@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.19 EUR
 inStock: true
-prodname: Gafas VR  HAMSWAN Gafas de Realidad Virtual  3D VR  VR Glasses Visión Panorámico 110 Grado Película 3D Juego Immersivo para Móviles 4.7-6.0 Pulgada
+prodname: 'Gafas VR  HAMSWAN Gafas de Realidad Virtual  3D VR  VR Glasses Visión Panorámico 110 Grado Película 3D Juego Immersivo para Móviles 4.7-6.0 Pulgada'
 ---
 
 Está [Gafas VR  HAMSWAN Gafas de Realidad Virtual  3D VR  VR Glasses Visión Panorámico 110 Grado Película 3D Juego Immersivo para Móviles 4.7-6.0 Pulgada](https://www.amazon.es/dp/B07QTFT94Z/?tag=tolees-21) con 47.94 de descuento por 9.99 EUR (original: 19.19 EUR) en el siguiente enlace!

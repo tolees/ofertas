@@ -14,7 +14,7 @@ currency: EUR
 price: 2.99
 comparePrice: 5.38 EUR
 inStock: true
-prodname: Zooarts Adhesivo de pared de habitaci&oacute;n infantil  dise&ntilde;o de mapamundi con animales
+prodname: 'Zooarts Adhesivo de pared de habitaci&oacute;n infantil  dise&ntilde;o de mapamundi con animales'
 ---
 
 Ahora mismo tienes [Zooarts Adhesivo de pared de habitaci&oacute;n infantil  dise&ntilde;o de mapamundi con animales](https://www.amazon.es/dp/B01DDWR6NA/?tag=tolees-21) a 2.99 EUR (original: 5.38 EUR) (44.42 %  de descuento) en el siguiente enlace!

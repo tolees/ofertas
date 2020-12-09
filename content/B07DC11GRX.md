@@ -14,7 +14,7 @@ currency: EUR
 price: 20.79
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Puma Te- KU  Zapatillas Unisex Adulto  Verde  Ponderosa Pine   37 EU
+prodname: 'Puma Te- KU  Zapatillas Unisex Adulto  Verde  Ponderosa Pine   37 EU'
 ---
 
 Tienes [Puma Te- KU  Zapatillas Unisex Adulto  Verde  Ponderosa Pine   37 EU](https://www.amazon.es/dp/B07DC11GRX/?tag=tolees-21) con un 79.20 % de descuento con precio de oferta de 20.79 EUR (original: 99.95 EUR) en el siguiente enlace!

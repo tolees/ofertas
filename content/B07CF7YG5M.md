@@ -14,7 +14,7 @@ currency: EUR
 price: 57
 comparePrice: 95 EUR
 inStock: true
-prodname: American Tourister Holiday Heat - Spinner Maleta  67 cm  66 l  Azul  Navy 
+prodname: 'American Tourister Holiday Heat - Spinner Maleta  67 cm  66 l  Azul  Navy '
 ---
 
 Tienes [American Tourister Holiday Heat - Spinner Maleta  67 cm  66 l  Azul  Navy ](https://www.amazon.es/dp/B07CF7YG5M/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 57 EUR (original: 95 EUR) en el siguiente enlace!

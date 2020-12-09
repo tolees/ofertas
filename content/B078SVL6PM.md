@@ -14,7 +14,7 @@ currency: EUR
 price: 11.77
 comparePrice: 29.98 EUR
 inStock: true
-prodname: High Quality Eyeglasses Cyber Cosplay Goggles Steam Punk Vintage Retro UV400 Protection Sunglasses
+prodname: 'High Quality Eyeglasses Cyber Cosplay Goggles Steam Punk Vintage Retro UV400 Protection Sunglasses'
 ---
 
 Está [High Quality Eyeglasses Cyber Cosplay Goggles Steam Punk Vintage Retro UV400 Protection Sunglasses](https://www.amazon.es/dp/B078SVL6PM/?tag=tolees-21) con 60.74 de descuento por 11.77 EUR (original: 29.98 EUR) en el siguiente enlace!

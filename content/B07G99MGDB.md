@@ -14,7 +14,7 @@ currency: EUR
 price: 17.25
 comparePrice: 33.4 EUR
 inStock: true
-prodname: New Look Sequin Disc Loopy  Chaqueta Punto para Mujer  Blanco  White  40  Talla del Fabricante: 52 
+prodname: 'New Look Sequin Disc Loopy  Chaqueta Punto para Mujer  Blanco  White  40  Talla del Fabricante: 52 '
 ---
 
 Tienes [New Look Sequin Disc Loopy  Chaqueta Punto para Mujer  Blanco  White  40  Talla del Fabricante: 52 ](https://www.amazon.es/dp/B07G99MGDB/?tag=tolees-21) con un 48.35 % de descuento con precio de oferta de 17.25 EUR (original: 33.4 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.67 EUR
 inStock: true
-prodname: MaoXinTek Bolsas de Regalo Navidad 24pcs Bolsa de Papel con Pegatinas para Caramelos Dulces Galletas Chocolates
+prodname: 'MaoXinTek Bolsas de Regalo Navidad 24pcs Bolsa de Papel con Pegatinas para Caramelos Dulces Galletas Chocolates'
 ---
 
 Tienes [MaoXinTek Bolsas de Regalo Navidad 24pcs Bolsa de Papel con Pegatinas para Caramelos Dulces Galletas Chocolates](https://www.amazon.es/dp/B08J9ZKM9G/?tag=tolees-21) con un 28.88 % de descuento con precio de oferta de 13.99 EUR (original: 19.67 EUR) en el siguiente enlace!

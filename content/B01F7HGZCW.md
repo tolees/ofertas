@@ -14,7 +14,7 @@ currency: EUR
 price: 140.98
 comparePrice: 202.09 EUR
 inStock: true
-prodname: Invicta 22774 Disney Limited Edition - Mickey Mouse Reloj para Mujer acero inoxidable Cuarzo Esfera champán
+prodname: 'Invicta 22774 Disney Limited Edition - Mickey Mouse Reloj para Mujer acero inoxidable Cuarzo Esfera champán'
 ---
 
 Ahora mismo tienes [Invicta 22774 Disney Limited Edition - Mickey Mouse Reloj para Mujer acero inoxidable Cuarzo Esfera champán](https://www.amazon.es/dp/B01F7HGZCW/?tag=tolees-21) a 140.98 EUR (original: 202.09 EUR) (30.24 %  de descuento) en el siguiente enlace!

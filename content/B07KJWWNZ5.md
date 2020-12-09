@@ -14,7 +14,7 @@ currency: EUR
 price: 17.9
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Quiksilver Everyday Shorts  Hombre  Atomic Blue  L
+prodname: 'Quiksilver Everyday Shorts  Hombre  Atomic Blue  L'
 ---
 
 Ahora mismo tienes [Quiksilver Everyday Shorts  Hombre  Atomic Blue  L](https://www.amazon.es/dp/B07KJWWNZ5/?tag=tolees-21) a 17.9 EUR (original: 29.99 EUR) (40.31 %  de descuento) en el siguiente enlace!

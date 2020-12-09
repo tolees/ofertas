@@ -14,7 +14,7 @@ currency: EUR
 price: 35.93
 comparePrice: 74.5 EUR
 inStock: true
-prodname: Davidoff Horizon Extreme Eau De Parfum 125ml Spray
+prodname: 'Davidoff Horizon Extreme Eau De Parfum 125ml Spray'
 ---
 
 Tienes [Davidoff Horizon Extreme Eau De Parfum 125ml Spray](https://www.amazon.es/dp/B01N35RIQL/?tag=tolees-21) con un 51.77 % de descuento con precio de oferta de 35.93 EUR (original: 74.5 EUR) en el siguiente enlace!

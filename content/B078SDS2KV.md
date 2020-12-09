@@ -14,7 +14,7 @@ currency: EUR
 price: 61.57
 comparePrice: 89.53 EUR
 inStock: true
-prodname: 3rd Avenue STX30RDPK - Paquete junior de guitarra eléctrica  Rojo
+prodname: '3rd Avenue STX30RDPK - Paquete junior de guitarra eléctrica  Rojo'
 ---
 
 Ahora mismo tienes [3rd Avenue STX30RDPK - Paquete junior de guitarra eléctrica  Rojo](https://www.amazon.es/dp/B078SDS2KV/?tag=tolees-21) a 61.57 EUR (original: 89.53 EUR) (31.23 %  de descuento) en el siguiente enlace!

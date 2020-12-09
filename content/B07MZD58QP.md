@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Jack & Jones JJIMARCO JJBOWIE SA STS Pantalón  Beige  White Pepper   29W x 32L para Hombre
+prodname: 'Jack & Jones JJIMARCO JJBOWIE SA STS Pantalón  Beige  White Pepper   29W x 32L para Hombre'
 ---
 
 Ahora mismo tienes [Jack & Jones JJIMARCO JJBOWIE SA STS Pantalón  Beige  White Pepper   29W x 32L para Hombre](https://www.amazon.es/dp/B07MZD58QP/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

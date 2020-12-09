@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: iWhite Instant Teeth Whitening Charcoal Infused - Repuesto de cabezas de cepillo  paquete de 2  para el cepillo de dientes Sonic iWhite
+prodname: 'iWhite Instant Teeth Whitening Charcoal Infused - Repuesto de cabezas de cepillo  paquete de 2  para el cepillo de dientes Sonic iWhite'
 ---
 
 Tienes [iWhite Instant Teeth Whitening Charcoal Infused - Repuesto de cabezas de cepillo  paquete de 2  para el cepillo de dientes Sonic iWhite](https://www.amazon.es/dp/B07JBK96JB/?tag=tolees-21) con un 60.04 % de descuento con precio de oferta de 5.99 EUR (original: 14.99 EUR) en el siguiente enlace!

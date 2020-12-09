@@ -14,7 +14,7 @@ currency: EUR
 price: 66.0
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Piel FS5304
+prodname: 'Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Piel FS5304'
 ---
 
 Tienes [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Piel FS5304](https://www.amazon.es/dp/B06W2JSJ4H/?tag=tolees-21) con un 44.54 % de descuento con precio de oferta de 66.0 EUR (original: 119.0 EUR) en el siguiente enlace!

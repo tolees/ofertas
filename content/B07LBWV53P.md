@@ -14,7 +14,7 @@ currency: EUR
 price: 379.99
 comparePrice: 529.99 EUR
 inStock: true
-prodname: PIKOLIN Colchón viscoelástico HR 150x190 firmeza Alta  Reversible  máxima Calidad  Alto 25 cm - Colchones Iliria
+prodname: 'PIKOLIN Colchón viscoelástico HR 150x190 firmeza Alta  Reversible  máxima Calidad  Alto 25 cm - Colchones Iliria'
 ---
 
 Está [PIKOLIN Colchón viscoelástico HR 150x190 firmeza Alta  Reversible  máxima Calidad  Alto 25 cm - Colchones Iliria](https://www.amazon.es/dp/B07LBWV53P/?tag=tolees-21) con 28.30 de descuento por 379.99 EUR (original: 529.99 EUR) en el siguiente enlace!

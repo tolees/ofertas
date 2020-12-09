@@ -14,7 +14,7 @@ currency: EUR
 price: 10.4
 comparePrice: 14.99 EUR
 inStock: true
-prodname: MoKo Funda Compatible con Samsung Galaxy Tab A 10.1 2019  Funda Plegable Delgado con Ranuras Compatible con Tarjeta para Samsung Galaxy Tab A 10.1" SM-T510/SM-T515 2019 - Negro
+prodname: 'MoKo Funda Compatible con Samsung Galaxy Tab A 10.1 2019  Funda Plegable Delgado con Ranuras Compatible con Tarjeta para Samsung Galaxy Tab A 10.1" SM-T510/SM-T515 2019 - Negro'
 ---
 
 Está [MoKo Funda Compatible con Samsung Galaxy Tab A 10.1 2019  Funda Plegable Delgado con Ranuras Compatible con Tarjeta para Samsung Galaxy Tab A 10.1" SM-T510/SM-T515 2019 - Negro](https://www.amazon.es/dp/B07RTWJST3/?tag=tolees-21) con 30.62 de descuento por 10.4 EUR (original: 14.99 EUR) en el siguiente enlace!

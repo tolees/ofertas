@@ -14,7 +14,7 @@ currency: EUR
 price: 11.38
 comparePrice: 15.49 EUR
 inStock: true
-prodname: Bambino Mio  pañal bañador  flamenco rosa  extra grande  2+ años 
+prodname: 'Bambino Mio  pañal bañador  flamenco rosa  extra grande  2+ años '
 ---
 
 Ahora mismo tienes [Bambino Mio  pañal bañador  flamenco rosa  extra grande  2+ años ](https://www.amazon.es/dp/B07C4RJT2Q/?tag=tolees-21) a 11.38 EUR (original: 15.49 EUR) (26.53 %  de descuento) en el siguiente enlace!

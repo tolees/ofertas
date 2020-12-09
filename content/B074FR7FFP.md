@@ -14,7 +14,7 @@ currency: EUR
 price: 14.88
 comparePrice: 20.76 EUR
 inStock: true
-prodname: MAIGG Botella de Agua Deportiva - para Correr  Gimnasio  Yoga  Aire Libre y Camping-1000ml Purple
+prodname: 'MAIGG Botella de Agua Deportiva - para Correr  Gimnasio  Yoga  Aire Libre y Camping-1000ml Purple'
 ---
 
 Ahora mismo tienes [MAIGG Botella de Agua Deportiva - para Correr  Gimnasio  Yoga  Aire Libre y Camping-1000ml Purple](https://www.amazon.es/dp/B074FR7FFP/?tag=tolees-21) a 14.88 EUR (original: 20.76 EUR) (28.32 %  de descuento) en el siguiente enlace!

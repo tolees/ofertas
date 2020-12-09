@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 139.95 EUR
 inStock: true
-prodname: Trixie Piscina para Perros  ø 160×30 cm  Azul Oscuro-Azul
+prodname: 'Trixie Piscina para Perros  ø 160×30 cm  Azul Oscuro-Azul'
 ---
 
 Está [Trixie Piscina para Perros  ø 160×30 cm  Azul Oscuro-Azul](https://www.amazon.es/dp/B015KEBDRE/?tag=tolees-21) con 67.85 de descuento por 44.99 EUR (original: 139.95 EUR) en el siguiente enlace!

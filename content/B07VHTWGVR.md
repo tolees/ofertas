@@ -14,7 +14,7 @@ currency: EUR
 price: 35.1
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Desigual Vest Tresor Vestido  Negro  Negro 2000   44  Talla del Fabricante: 42  para Mujer
+prodname: 'Desigual Vest Tresor Vestido  Negro  Negro 2000   44  Talla del Fabricante: 42  para Mujer'
 ---
 
 Ahora mismo tienes [Desigual Vest Tresor Vestido  Negro  Negro 2000   44  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07VHTWGVR/?tag=tolees-21) a 35.1 EUR (original: 99.95 EUR) (64.88 %  de descuento) en el siguiente enlace!

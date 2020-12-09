@@ -14,7 +14,7 @@ currency: EUR
 price: 25.87
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Under Armour Rush P Mallas de Compresion con Cinturilla Elástica  Hombre  Gris  Gray 011   M
+prodname: 'Under Armour Rush P Mallas de Compresion con Cinturilla Elástica  Hombre  Gris  Gray 011   M'
 ---
 
 Tienes [Under Armour Rush P Mallas de Compresion con Cinturilla Elástica  Hombre  Gris  Gray 011   M](https://www.amazon.es/dp/B07KGZZW4N/?tag=tolees-21) con un 60.20 % de descuento con precio de oferta de 25.87 EUR (original: 65.0 EUR) en el siguiente enlace!

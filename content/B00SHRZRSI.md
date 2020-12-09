@@ -14,7 +14,7 @@ currency: EUR
 price: 10.0
 comparePrice: 30.71 EUR
 inStock: true
-prodname: House Of Cards - T2 [DVD]
+prodname: 'House Of Cards - T2 [DVD]'
 ---
 
 Está [House Of Cards - T2 [DVD]](https://www.amazon.es/dp/B00SHRZRSI/?tag=tolees-21) con 67.44 de descuento por 10.0 EUR (original: 30.71 EUR) en el siguiente enlace!

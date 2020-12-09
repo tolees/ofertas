@@ -14,7 +14,7 @@ currency: EUR
 price: 21
 comparePrice: 43.13 EUR
 inStock: true
-prodname: find. Zuecos de Piel con Tacón para Mujer  Rosa  Pink   39 EU
+prodname: 'find. Zuecos de Piel con Tacón para Mujer  Rosa  Pink   39 EU'
 ---
 
 Tienes [find. Zuecos de Piel con Tacón para Mujer  Rosa  Pink   39 EU](https://www.amazon.es/dp/B06XGTWPWP/?tag=tolees-21) con un 51.31 % de descuento con precio de oferta de 21 EUR (original: 43.13 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.45
 comparePrice: 14.22 EUR
 inStock: true
-prodname: Taza de café Shuh Duh Fuh Cup | Taza de café con palabra maldición  taza divertida con texto en inglés "Shut Up Cup" | Sassy Gift | Divertido regalo para adultos | Shut the Fuh Cup
+prodname: 'Taza de café Shuh Duh Fuh Cup | Taza de café con palabra maldición  taza divertida con texto en inglés "Shut Up Cup" | Sassy Gift | Divertido regalo para adultos | Shut the Fuh Cup'
 ---
 
 Tienes [Taza de café Shuh Duh Fuh Cup | Taza de café con palabra maldición  taza divertida con texto en inglés "Shut Up Cup" | Sassy Gift | Divertido regalo para adultos | Shut the Fuh Cup](https://www.amazon.es/dp/B083ZWC8SY/?tag=tolees-21) con un 61.67 % de descuento con precio de oferta de 5.45 EUR (original: 14.22 EUR) en el siguiente enlace!

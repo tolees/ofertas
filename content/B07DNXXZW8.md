@@ -14,7 +14,7 @@ currency: EUR
 price: 11.06
 comparePrice: 28.08 EUR
 inStock: true
-prodname: Emporio Armani Underwear 9p523 Bañador  Azul  Bluette 15834   X-Large para Hombre
+prodname: 'Emporio Armani Underwear 9p523 Bañador  Azul  Bluette 15834   X-Large para Hombre'
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 9p523 Bañador  Azul  Bluette 15834   X-Large para Hombre](https://www.amazon.es/dp/B07DNXXZW8/?tag=tolees-21) a 11.06 EUR (original: 28.08 EUR) (60.61 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.79
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Dockers by Gerli 43fa301  Botas Militar para Mujer  Azul  Hellblau 610   38 EU
+prodname: 'Dockers by Gerli 43fa301  Botas Militar para Mujer  Azul  Hellblau 610   38 EU'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 43fa301  Botas Militar para Mujer  Azul  Hellblau 610   38 EU](https://www.amazon.es/dp/B07DJLDLDG/?tag=tolees-21) a 27.79 EUR (original: 59.95 EUR) (53.64 %  de descuento) en el siguiente enlace!

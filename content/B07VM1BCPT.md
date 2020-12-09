@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Hackett London Coral Swim Trim Polo  Rosa  368rose 368   Medium para Hombre
+prodname: 'Hackett London Coral Swim Trim Polo  Rosa  368rose 368   Medium para Hombre'
 ---
 
 Ahora mismo tienes [Hackett London Coral Swim Trim Polo  Rosa  368rose 368   Medium para Hombre](https://www.amazon.es/dp/B07VM1BCPT/?tag=tolees-21) a 27.99 EUR (original: 95.0 EUR) (70.54 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.5
 comparePrice: 133 EUR
 inStock: true
-prodname: Steve Madden Pacers  Botines para Mujer  Morado  Purple 001   39 EU
+prodname: 'Steve Madden Pacers  Botines para Mujer  Morado  Purple 001   39 EU'
 ---
 
 Tienes [Steve Madden Pacers  Botines para Mujer  Morado  Purple 001   39 EU](https://www.amazon.es/dp/B072JWWCS5/?tag=tolees-21) con un 83.08 % de descuento con precio de oferta de 22.5 EUR (original: 133 EUR) en el siguiente enlace!

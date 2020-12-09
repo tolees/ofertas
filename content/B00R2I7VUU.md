@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Thule Crossover - Mochila para MacBook Pro 15"  Color Negro con puntos blancos
+prodname: 'Thule Crossover - Mochila para MacBook Pro 15"  Color Negro con puntos blancos'
 ---
 
 Tienes [Thule Crossover - Mochila para MacBook Pro 15"  Color Negro con puntos blancos](https://www.amazon.es/dp/B00R2I7VUU/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

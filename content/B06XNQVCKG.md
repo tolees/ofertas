@@ -14,7 +14,7 @@ currency: EUR
 price: 82.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Trust Emita - Micrófono USB para Estudio  Color Negro
+prodname: 'Trust Emita - Micrófono USB para Estudio  Color Negro'
 ---
 
 Ahora mismo tienes [Trust Emita - Micrófono USB para Estudio  Color Negro](https://www.amazon.es/dp/B06XNQVCKG/?tag=tolees-21) a 82.99 EUR (original: 119.99 EUR) (30.84 %  de descuento) en el siguiente enlace!

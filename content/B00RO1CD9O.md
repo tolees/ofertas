@@ -14,7 +14,7 @@ currency: EUR
 price: 10.47
 comparePrice: 14.99 EUR
 inStock: true
-prodname: ANSIO Base De Corte A3 Doble Cara Auto Curación 5 Capas Para Costura y Manualidades - Imperial/Métrica 17 x 11 pulgadas / 42 x 27 cm- Verde/Verde
+prodname: 'ANSIO Base De Corte A3 Doble Cara Auto Curación 5 Capas Para Costura y Manualidades - Imperial/Métrica 17 x 11 pulgadas / 42 x 27 cm- Verde/Verde'
 ---
 
 Ahora mismo tienes [ANSIO Base De Corte A3 Doble Cara Auto Curación 5 Capas Para Costura y Manualidades - Imperial/Métrica 17 x 11 pulgadas / 42 x 27 cm- Verde/Verde](https://www.amazon.es/dp/B00RO1CD9O/?tag=tolees-21) a 10.47 EUR (original: 14.99 EUR) (30.15 %  de descuento) en el siguiente enlace!

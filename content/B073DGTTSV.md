@@ -14,7 +14,7 @@ currency: EUR
 price: 20.97
 comparePrice: 32.6 EUR
 inStock: true
-prodname: Infinity Nado - Estadio con 2 peonzas y 2 lanzadores  43918 
+prodname: 'Infinity Nado - Estadio con 2 peonzas y 2 lanzadores  43918 '
 ---
 
 Está [Infinity Nado - Estadio con 2 peonzas y 2 lanzadores  43918 ](https://www.amazon.es/dp/B073DGTTSV/?tag=tolees-21) con 35.67 de descuento por 20.97 EUR (original: 32.6 EUR) en el siguiente enlace!

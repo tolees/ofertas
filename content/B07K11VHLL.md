@@ -14,7 +14,7 @@ currency: EUR
 price: 17.38
 comparePrice: 39.95 EUR
 inStock: true
-prodname: adidas N-5923 EL I  Zapatillas de Gimnasia Unisex bebé  Negro Core Black/Carbon  21 EU
+prodname: 'adidas N-5923 EL I  Zapatillas de Gimnasia Unisex bebé  Negro Core Black/Carbon  21 EU'
 ---
 
 Tienes [adidas N-5923 EL I  Zapatillas de Gimnasia Unisex bebé  Negro Core Black/Carbon  21 EU](https://www.amazon.es/dp/B07K11VHLL/?tag=tolees-21) con un 56.50 % de descuento con precio de oferta de 17.38 EUR (original: 39.95 EUR) en el siguiente enlace!

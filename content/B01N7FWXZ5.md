@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 70.99 EUR
 inStock: true
-prodname: Aigostar Blackfire 30IAV - Placa inducción portátil multifunción con 2000 Watios de potencia  controles táctiles  10 niveles de potencia  función mantener caliente y programable. Diseño exclusivo.
+prodname: 'Aigostar Blackfire 30IAV - Placa inducción portátil multifunción con 2000 Watios de potencia  controles táctiles  10 niveles de potencia  función mantener caliente y programable. Diseño exclusivo.'
 ---
 
 Tienes [Aigostar Blackfire 30IAV - Placa inducción portátil multifunción con 2000 Watios de potencia  controles táctiles  10 niveles de potencia  función mantener caliente y programable. Diseño exclusivo.](https://www.amazon.es/dp/B01N7FWXZ5/?tag=tolees-21) con un 43.67 % de descuento con precio de oferta de 39.99 EUR (original: 70.99 EUR) en el siguiente enlace!

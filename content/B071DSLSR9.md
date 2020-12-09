@@ -14,7 +14,7 @@ currency: EUR
 price: 26.61
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Reebok Royal Complete CLN  Zapatillas de Gimnasia para Hombre  Negro Black/White/Gum  43 EU
+prodname: 'Reebok Royal Complete CLN  Zapatillas de Gimnasia para Hombre  Negro Black/White/Gum  43 EU'
 ---
 
 Tienes [Reebok Royal Complete CLN  Zapatillas de Gimnasia para Hombre  Negro Black/White/Gum  43 EU](https://www.amazon.es/dp/B071DSLSR9/?tag=tolees-21) con un 46.73 % de descuento con precio de oferta de 26.61 EUR (original: 49.95 EUR) en el siguiente enlace!

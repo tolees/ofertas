@@ -14,7 +14,7 @@ currency: EUR
 price: 8.38
 comparePrice: 21.14 EUR
 inStock: true
-prodname: Flexi Design S Cinta 5m. Rosa
+prodname: 'Flexi Design S Cinta 5m. Rosa'
 ---
 
 Está [Flexi Design S Cinta 5m. Rosa](https://www.amazon.es/dp/B00VOAXPFM/?tag=tolees-21) con 60.36 de descuento por 8.38 EUR (original: 21.14 EUR) en el siguiente enlace!

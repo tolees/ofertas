@@ -14,7 +14,7 @@ currency: EUR
 price: 84.0
 comparePrice: 112.7 EUR
 inStock: true
-prodname: Play Scout 30185 - Silla de coche  grupo 0+/1/2  0 - 25 kg   Rojo y negro
+prodname: 'Play Scout 30185 - Silla de coche  grupo 0+/1/2  0 - 25 kg   Rojo y negro'
 ---
 
 Está [Play Scout 30185 - Silla de coche  grupo 0+/1/2  0 - 25 kg   Rojo y negro](https://www.amazon.es/dp/B00O1TNJ7C/?tag=tolees-21) con 25.47 de descuento por 84.0 EUR (original: 112.7 EUR) en el siguiente enlace!

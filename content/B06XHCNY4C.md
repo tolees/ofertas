@@ -14,7 +14,7 @@ currency: EUR
 price: 48.83
 comparePrice: 80 EUR
 inStock: true
-prodname: Helly Hansen HH LIFA Crew Camiseta Técnica Lana Merino  Hombre  Azul  Evening Blue   M
+prodname: 'Helly Hansen HH LIFA Crew Camiseta Técnica Lana Merino  Hombre  Azul  Evening Blue   M'
 ---
 
 Tienes [Helly Hansen HH LIFA Crew Camiseta Técnica Lana Merino  Hombre  Azul  Evening Blue   M](https://www.amazon.es/dp/B06XHCNY4C/?tag=tolees-21) con un 38.96 % de descuento con precio de oferta de 48.83 EUR (original: 80 EUR) en el siguiente enlace!

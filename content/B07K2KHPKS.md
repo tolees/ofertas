@@ -14,7 +14,7 @@ currency: EUR
 price: 34.95
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Adidas Runfalcon  Zapatillas de Running para Hombre  Nero Core Black  43 1/3 EU
+prodname: 'Adidas Runfalcon  Zapatillas de Running para Hombre  Nero Core Black  43 1/3 EU'
 ---
 
 Tienes [Adidas Runfalcon  Zapatillas de Running para Hombre  Nero Core Black  43 1/3 EU](https://www.amazon.es/dp/B07K2KHPKS/?tag=tolees-21) con un 30.03 % de descuento con precio de oferta de 34.95 EUR (original: 49.95 EUR) en el siguiente enlace!

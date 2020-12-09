@@ -14,7 +14,7 @@ currency: EUR
 price: 41.27
 comparePrice: 68.9 EUR
 inStock: true
-prodname: Weider Isolate Whey 100CFM 2000 gr Chocolate. 100% aislado de proteina de suero. Cero azúcar  cero aspartamo  con stevia  con dygezime  con BCAA  apto para veganos. Isolac. Para dietas keto.
+prodname: 'Weider Isolate Whey 100CFM 2000 gr Chocolate. 100% aislado de proteina de suero. Cero azúcar  cero aspartamo  con stevia  con dygezime  con BCAA  apto para veganos. Isolac. Para dietas keto.'
 ---
 
 Tienes [Weider Isolate Whey 100CFM 2000 gr Chocolate. 100% aislado de proteina de suero. Cero azúcar  cero aspartamo  con stevia  con dygezime  con BCAA  apto para veganos. Isolac. Para dietas keto.](https://www.amazon.es/dp/B07NZ7VF2D/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 41.27 EUR (original: 68.9 EUR) en el siguiente enlace!

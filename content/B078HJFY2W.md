@@ -14,7 +14,7 @@ currency: EUR
 price: 68.95
 comparePrice: 130 EUR
 inStock: true
-prodname: Diesel Buster L.32 Vaqueros Straight  Azul 01  W32/L32  Talla del Fabricante: 32  para Hombre
+prodname: 'Diesel Buster L.32 Vaqueros Straight  Azul 01  W32/L32  Talla del Fabricante: 32  para Hombre'
 ---
 
 Está [Diesel Buster L.32 Vaqueros Straight  Azul 01  W32/L32  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B078HJFY2W/?tag=tolees-21) con 46.96 de descuento por 68.95 EUR (original: 130 EUR) en el siguiente enlace!

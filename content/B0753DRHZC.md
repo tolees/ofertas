@@ -14,7 +14,7 @@ currency: EUR
 price: 17.27
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Gel Zumo de Aloe Vera 99.9% Puro Ecológico  1000 ml 
+prodname: 'Gel Zumo de Aloe Vera 99.9% Puro Ecológico  1000 ml '
 ---
 
 Tienes [Gel Zumo de Aloe Vera 99.9% Puro Ecológico  1000 ml ](https://www.amazon.es/dp/B0753DRHZC/?tag=tolees-21) con un 40.43 % de descuento con precio de oferta de 17.27 EUR (original: 28.99 EUR) en el siguiente enlace!

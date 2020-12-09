@@ -14,7 +14,7 @@ currency: EUR
 price: 43.62
 comparePrice: 130 EUR
 inStock: true
-prodname: Clarks Varby Top  Cargadores clásicos para Hombre  Negro  Black Leather   42 EU
+prodname: 'Clarks Varby Top  Cargadores clásicos para Hombre  Negro  Black Leather   42 EU'
 ---
 
 Tienes [Clarks Varby Top  Cargadores clásicos para Hombre  Negro  Black Leather   42 EU](https://www.amazon.es/dp/B06XCGD4BY/?tag=tolees-21) con un 66.45 % de descuento con precio de oferta de 43.62 EUR (original: 130 EUR) en el siguiente enlace!

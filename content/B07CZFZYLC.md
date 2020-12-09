@@ -14,7 +14,7 @@ currency: EUR
 price: 18.34
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-STAR RAW Midge Worker High Waist Straight Ankle Vaqueros  Azul  Clean dk Aged A670-6526   28W / 32L para Mujer
+prodname: 'G-STAR RAW Midge Worker High Waist Straight Ankle Vaqueros  Azul  Clean dk Aged A670-6526   28W / 32L para Mujer'
 ---
 
 Tienes [G-STAR RAW Midge Worker High Waist Straight Ankle Vaqueros  Azul  Clean dk Aged A670-6526   28W / 32L para Mujer](https://www.amazon.es/dp/B07CZFZYLC/?tag=tolees-21) con un 85.89 % de descuento con precio de oferta de 18.34 EUR (original: 129.95 EUR) en el siguiente enlace!

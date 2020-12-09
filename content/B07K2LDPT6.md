@@ -14,7 +14,7 @@ currency: EUR
 price: 99.33
 comparePrice: 179 EUR
 inStock: true
-prodname: Love Moschino Logo Box_Long Sleeve Jersey Hooded Dress Vestido  Negro  Black C74   44  Talla del Fabricante: 46  para Mujer
+prodname: 'Love Moschino Logo Box_Long Sleeve Jersey Hooded Dress Vestido  Negro  Black C74   44  Talla del Fabricante: 46  para Mujer'
 ---
 
 Ahora mismo tienes [Love Moschino Logo Box_Long Sleeve Jersey Hooded Dress Vestido  Negro  Black C74   44  Talla del Fabricante: 46  para Mujer](https://www.amazon.es/dp/B07K2LDPT6/?tag=tolees-21) a 99.33 EUR (original: 179 EUR) (44.51 %  de descuento) en el siguiente enlace!

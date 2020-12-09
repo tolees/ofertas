@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Sony SRSXB01L - Altavoz inalámbrico portátil  Compacto  Bluetooth  Extra Bass  6h de batería  Resistente al Agua IPX5  Viene con Correa  Color Azul
+prodname: 'Sony SRSXB01L - Altavoz inalámbrico portátil  Compacto  Bluetooth  Extra Bass  6h de batería  Resistente al Agua IPX5  Viene con Correa  Color Azul'
 ---
 
 Ahora mismo tienes [Sony SRSXB01L - Altavoz inalámbrico portátil  Compacto  Bluetooth  Extra Bass  6h de batería  Resistente al Agua IPX5  Viene con Correa  Color Azul](https://www.amazon.es/dp/B07GT8CMHP/?tag=tolees-21) a 19.99 EUR (original: 35.0 EUR) (42.89 %  de descuento) en el siguiente enlace!

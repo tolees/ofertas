@@ -14,7 +14,7 @@ currency: EUR
 price: 17.59
 comparePrice: 38 EUR
 inStock: true
-prodname: FITTOO Pantalones De Yoga Sueltos Cintura Alta Mujer Pantalones Largos Deportivos Suaves y Cómodos1080#4 Rojo XL
+prodname: 'FITTOO Pantalones De Yoga Sueltos Cintura Alta Mujer Pantalones Largos Deportivos Suaves y Cómodos1080#4 Rojo XL'
 ---
 
 Está [FITTOO Pantalones De Yoga Sueltos Cintura Alta Mujer Pantalones Largos Deportivos Suaves y Cómodos1080#4 Rojo XL](https://www.amazon.es/dp/B07FQCDYY7/?tag=tolees-21) con 53.71 de descuento por 17.59 EUR (original: 38 EUR) en el siguiente enlace!

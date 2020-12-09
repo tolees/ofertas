@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Auriculares Bluetooth  Mini Auriculares Inalambricos Bluetooth  TWS Auriculares Bluetooth áuriculares 2 In Ear Inalambricos Con Micrófono Estéreo Para Android Samsung Huawei Phones IOS X 8 7  white 
+prodname: 'Auriculares Bluetooth  Mini Auriculares Inalambricos Bluetooth  TWS Auriculares Bluetooth áuriculares 2 In Ear Inalambricos Con Micrófono Estéreo Para Android Samsung Huawei Phones IOS X 8 7  white '
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth  Mini Auriculares Inalambricos Bluetooth  TWS Auriculares Bluetooth áuriculares 2 In Ear Inalambricos Con Micrófono Estéreo Para Android Samsung Huawei Phones IOS X 8 7  white ](https://www.amazon.es/dp/B07MPNTB8G/?tag=tolees-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.32
 comparePrice: 32.59 EUR
 inStock: true
-prodname: Eono Essentials - Chaqueta de senderismo de entretiempo con capucha para mujer  XL  azul 
+prodname: 'Eono Essentials - Chaqueta de senderismo de entretiempo con capucha para mujer  XL  azul '
 ---
 
 Ahora mismo tienes [Eono Essentials - Chaqueta de senderismo de entretiempo con capucha para mujer  XL  azul ](https://www.amazon.es/dp/B07MPSQ24T/?tag=tolees-21) a 15.32 EUR (original: 32.59 EUR) (52.99 %  de descuento) en el siguiente enlace!

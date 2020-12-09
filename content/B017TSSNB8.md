@@ -14,7 +14,7 @@ currency: EUR
 price: 89.42
 comparePrice: 402.43 EUR
 inStock: true
-prodname: SUNKINGDOM - Batería de Panel Solar Plegable y portátil Pet de 60 W  con Doble Salida  CC5521 18 V y USB 5 V  para Camping
+prodname: 'SUNKINGDOM - Batería de Panel Solar Plegable y portátil Pet de 60 W  con Doble Salida  CC5521 18 V y USB 5 V  para Camping'
 ---
 
 Tienes [SUNKINGDOM - Batería de Panel Solar Plegable y portátil Pet de 60 W  con Doble Salida  CC5521 18 V y USB 5 V  para Camping](https://www.amazon.es/dp/B017TSSNB8/?tag=tolees-21) con un 77.78 % de descuento con precio de oferta de 89.42 EUR (original: 402.43 EUR) en el siguiente enlace!

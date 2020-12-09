@@ -14,7 +14,7 @@ currency: EUR
 price: 6.25
 comparePrice: 79 EUR
 inStock: true
-prodname: Intimax Atenea  Corsé para Mujer  Plateado  Plata   6XL
+prodname: 'Intimax Atenea  Corsé para Mujer  Plateado  Plata   6XL'
 ---
 
 Ahora mismo tienes [Intimax Atenea  Corsé para Mujer  Plateado  Plata   6XL](https://www.amazon.es/dp/B01JOZGKNW/?tag=tolees-21) a 6.25 EUR (original: 79 EUR) (92.09 %  de descuento) en el siguiente enlace!

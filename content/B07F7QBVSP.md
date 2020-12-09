@@ -14,7 +14,7 @@ currency: EUR
 price: 13.36
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Hajo Pullover  suéter para Mujer   Silber 105   52  Talla del Fabricante: 50 
+prodname: 'Hajo Pullover  suéter para Mujer   Silber 105   52  Talla del Fabricante: 50 '
 ---
 
 Tienes [Hajo Pullover  suéter para Mujer   Silber 105   52  Talla del Fabricante: 50 ](https://www.amazon.es/dp/B07F7QBVSP/?tag=tolees-21) con un 77.71 % de descuento con precio de oferta de 13.36 EUR (original: 59.95 EUR) en el siguiente enlace!

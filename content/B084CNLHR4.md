@@ -14,7 +14,7 @@ currency: EUR
 price: 23.57
 comparePrice: 39.99 EUR
 inStock: true
-prodname: HAWKERS · KARAT CLEAR BLUE LAX · Karat · Clear blue · Gafas de sol para hombre y mujer
+prodname: 'HAWKERS · KARAT CLEAR BLUE LAX · Karat · Clear blue · Gafas de sol para hombre y mujer'
 ---
 
 Está [HAWKERS · KARAT CLEAR BLUE LAX · Karat · Clear blue · Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B084CNLHR4/?tag=tolees-21) con 41.06 de descuento por 23.57 EUR (original: 39.99 EUR) en el siguiente enlace!

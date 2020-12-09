@@ -14,7 +14,7 @@ currency: EUR
 price: 21.9
 comparePrice: 29.9 EUR
 inStock: true
-prodname: GUATAFAC Unos Vicios – Segunda edición del Juego de Mesa y Cartas para Fiestas y Risas – Español
+prodname: 'GUATAFAC Unos Vicios – Segunda edición del Juego de Mesa y Cartas para Fiestas y Risas – Español'
 ---
 
 Ahora mismo tienes [GUATAFAC Unos Vicios – Segunda edición del Juego de Mesa y Cartas para Fiestas y Risas – Español](https://www.amazon.es/dp/B08H13QHZR/?tag=tolees-21) a 21.9 EUR (original: 29.9 EUR) (26.76 %  de descuento) en el siguiente enlace!

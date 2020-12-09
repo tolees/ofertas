@@ -14,7 +14,7 @@ currency: EUR
 price: 172.75
 comparePrice: 244.9 EUR
 inStock: true
-prodname: Britax Römer EVOLVA - Silla de Coche Grupo 1/2/3 SL SICT  9 Meses - 12 Años  9 - 36 kg  ISOFIX  color Moonlight Blue
+prodname: 'Britax Römer EVOLVA - Silla de Coche Grupo 1/2/3 SL SICT  9 Meses - 12 Años  9 - 36 kg  ISOFIX  color Moonlight Blue'
 ---
 
 Tienes [Britax Römer EVOLVA - Silla de Coche Grupo 1/2/3 SL SICT  9 Meses - 12 Años  9 - 36 kg  ISOFIX  color Moonlight Blue](https://www.amazon.es/dp/B075D5PWJP/?tag=tolees-21) con un 29.46 % de descuento con precio de oferta de 172.75 EUR (original: 244.9 EUR) en el siguiente enlace!

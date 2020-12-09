@@ -14,7 +14,7 @@ currency: EUR
 price: 36
 comparePrice: 72.59 EUR
 inStock: true
-prodname: APC Surge Arrest Performance - PL8VT3-DE - Regleta con protección contra subidas y picos de tensión compatible con PLC  Incluye protección línea telefónica y coaxial TV-Video 
+prodname: 'APC Surge Arrest Performance - PL8VT3-DE - Regleta con protección contra subidas y picos de tensión compatible con PLC  Incluye protección línea telefónica y coaxial TV-Video '
 ---
 
 Está [APC Surge Arrest Performance - PL8VT3-DE - Regleta con protección contra subidas y picos de tensión compatible con PLC  Incluye protección línea telefónica y coaxial TV-Video ](https://www.amazon.es/dp/B005MNROQS/?tag=tolees-21) con 50.41 de descuento por 36 EUR (original: 72.59 EUR) en el siguiente enlace!

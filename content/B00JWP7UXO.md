@@ -14,7 +14,7 @@ currency: EUR
 price: 23.47
 comparePrice: 106.97 EUR
 inStock: true
-prodname: Nike Air MAX Command - Zapatos para Hombre  Color Obsidian/White  Talla 44
+prodname: 'Nike Air MAX Command - Zapatos para Hombre  Color Obsidian/White  Talla 44'
 ---
 
 Está [Nike Air MAX Command - Zapatos para Hombre  Color Obsidian/White  Talla 44](https://www.amazon.es/dp/B00JWP7UXO/?tag=tolees-21) con 78.06 de descuento por 23.47 EUR (original: 106.97 EUR) en el siguiente enlace!

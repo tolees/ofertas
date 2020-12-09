@@ -14,7 +14,7 @@ currency: EUR
 price: 66.37
 comparePrice: 103.87 EUR
 inStock: true
-prodname: Hackett London Trinity 5 PKT Pantalones  Beige  32W / 32L para Hombre
+prodname: 'Hackett London Trinity 5 PKT Pantalones  Beige  32W / 32L para Hombre'
 ---
 
 Tienes [Hackett London Trinity 5 PKT Pantalones  Beige  32W / 32L para Hombre](https://www.amazon.es/dp/B079QFVKJ9/?tag=tolees-21) con un 36.10 % de descuento con precio de oferta de 66.37 EUR (original: 103.87 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 80.98
 comparePrice: 198.0 EUR
 inStock: true
-prodname: Pistola de Masaje Muscular  Aorula Massage Gun con 20 Niveles Ajustables  4 Cabezales de Masaje para Relajar los Músculos Tensos y a Liviar el Dolor  la Tensión
+prodname: 'Pistola de Masaje Muscular  Aorula Massage Gun con 20 Niveles Ajustables  4 Cabezales de Masaje para Relajar los Músculos Tensos y a Liviar el Dolor  la Tensión'
 ---
 
 Tienes [Pistola de Masaje Muscular  Aorula Massage Gun con 20 Niveles Ajustables  4 Cabezales de Masaje para Relajar los Músculos Tensos y a Liviar el Dolor  la Tensión](https://www.amazon.es/dp/B07VHFVG9Z/?tag=tolees-21) con un 59.10 % de descuento con precio de oferta de 80.98 EUR (original: 198.0 EUR) en el siguiente enlace!

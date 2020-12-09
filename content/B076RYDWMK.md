@@ -14,7 +14,7 @@ currency: EUR
 price: 31.74
 comparePrice: 70 EUR
 inStock: true
-prodname: Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Negro  Black Charcoal 001   42.5 EU
+prodname: 'Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Negro  Black Charcoal 001   42.5 EU'
 ---
 
 Está [Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Negro  Black Charcoal 001   42.5 EU](https://www.amazon.es/dp/B076RYDWMK/?tag=tolees-21) con 54.66 de descuento por 31.74 EUR (original: 70 EUR) en el siguiente enlace!

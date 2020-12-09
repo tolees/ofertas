@@ -14,7 +14,7 @@ currency: EUR
 price: 2.53
 comparePrice: 3.8 EUR
 inStock: true
-prodname: Babero de afeitar de afeitar creativo con paño de peinado de barba Paño de limpieza de peinado de barba Babero de afeitar de pelo Paño de afeitar - Negro
+prodname: 'Babero de afeitar de afeitar creativo con paño de peinado de barba Paño de limpieza de peinado de barba Babero de afeitar de pelo Paño de afeitar - Negro'
 ---
 
 Tienes [Babero de afeitar de afeitar creativo con paño de peinado de barba Paño de limpieza de peinado de barba Babero de afeitar de pelo Paño de afeitar - Negro](https://www.amazon.es/dp/B08MJKMTMW/?tag=tolees-21) con un 33.42 % de descuento con precio de oferta de 2.53 EUR (original: 3.8 EUR) en el siguiente enlace!

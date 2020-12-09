@@ -14,7 +14,7 @@ currency: EUR
 price: 49.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Puma Suede Heart Street 2 Wn s  Zapatillas para Mujer  Negro Black 01  39 EU
+prodname: 'Puma Suede Heart Street 2 Wn s  Zapatillas para Mujer  Negro Black 01  39 EU'
 ---
 
 Está [Puma Suede Heart Street 2 Wn s  Zapatillas para Mujer  Negro Black 01  39 EU](https://www.amazon.es/dp/B07DB1P4BT/?tag=tolees-21) con 50.03 de descuento por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!

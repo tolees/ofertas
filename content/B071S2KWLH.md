@@ -14,7 +14,7 @@ currency: EUR
 price: 33.55
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Under Armour UA HG Armour Ankle Crop Capri  Mujer  Negro Black/Metallic Silver 001  L
+prodname: 'Under Armour UA HG Armour Ankle Crop Capri  Mujer  Negro Black/Metallic Silver 001  L'
 ---
 
 Tienes [Under Armour UA HG Armour Ankle Crop Capri  Mujer  Negro Black/Metallic Silver 001  L](https://www.amazon.es/dp/B071S2KWLH/?tag=tolees-21) con un 25.43 % de descuento con precio de oferta de 33.55 EUR (original: 44.99 EUR) en el siguiente enlace!

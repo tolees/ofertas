@@ -14,7 +14,7 @@ currency: EUR
 price: 32.87
 comparePrice: 109 EUR
 inStock: true
-prodname: AEG RA 5587 - Radiador de aceite  1500 W  7 elementos  programable  pantalla digital  3 niveles de potencia  regulador de potencia para un bajo consumo
+prodname: 'AEG RA 5587 - Radiador de aceite  1500 W  7 elementos  programable  pantalla digital  3 niveles de potencia  regulador de potencia para un bajo consumo'
 ---
 
 Está [AEG RA 5587 - Radiador de aceite  1500 W  7 elementos  programable  pantalla digital  3 niveles de potencia  regulador de potencia para un bajo consumo](https://www.amazon.es/dp/B005FLAEFU/?tag=tolees-21) con 69.84 de descuento por 32.87 EUR (original: 109 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas Trefoil Sudadera con Capucha  Hombre  Negro Black  L
+prodname: 'adidas Trefoil Sudadera con Capucha  Hombre  Negro Black  L'
 ---
 
 Está [adidas Trefoil Sudadera con Capucha  Hombre  Negro Black  L](https://www.amazon.es/dp/B07DJD34YX/?tag=tolees-21) con 57.18 de descuento por 29.95 EUR (original: 69.95 EUR) en el siguiente enlace!

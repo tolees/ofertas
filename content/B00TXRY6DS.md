@@ -14,7 +14,7 @@ currency: EUR
 price: 19
 comparePrice: 26 EUR
 inStock: true
-prodname: Olay Total Effects 7 en 1  Crema nocturna facial  anti-edad  SPF20  piel seca  - 40 ml.
+prodname: 'Olay Total Effects 7 en 1  Crema nocturna facial  anti-edad  SPF20  piel seca  - 40 ml.'
 ---
 
 Ahora mismo tienes [Olay Total Effects 7 en 1  Crema nocturna facial  anti-edad  SPF20  piel seca  - 40 ml.](https://www.amazon.es/dp/B00TXRY6DS/?tag=tolees-21) a 19 EUR (original: 26 EUR) (26.92 %  de descuento) en el siguiente enlace!

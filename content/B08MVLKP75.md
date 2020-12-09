@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 32.38 EUR
 inStock: true
-prodname: #N/a Soporte de brazo de tijera con suspensión de micrófono ajustable  soporte de micrófono compacto de carga máxima de 1 8 KG para estudio de Radio 
+prodname: '#N/a Soporte de brazo de tijera con suspensión de micrófono ajustable  soporte de micrófono compacto de carga máxima de 1 8 KG para estudio de Radio '
 ---
 
 Está [#N/a Soporte de brazo de tijera con suspensión de micrófono ajustable  soporte de micrófono compacto de carga máxima de 1 8 KG para estudio de Radio ](https://www.amazon.es/dp/B08MVLKP75/?tag=tolees-21) con 44.44 de descuento por 17.99 EUR (original: 32.38 EUR) en el siguiente enlace!

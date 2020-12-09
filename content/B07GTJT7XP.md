@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: SEEALLDE Cuaderno de piel B6 páginas en blanco diario cuaderno mapamundi diario de viaje vintage cuaderno de notas cuaderno  Azul B6 
+prodname: 'SEEALLDE Cuaderno de piel B6 páginas en blanco diario cuaderno mapamundi diario de viaje vintage cuaderno de notas cuaderno  Azul B6 '
 ---
 
 Está [SEEALLDE Cuaderno de piel B6 páginas en blanco diario cuaderno mapamundi diario de viaje vintage cuaderno de notas cuaderno  Azul B6 ](https://www.amazon.es/dp/B07GTJT7XP/?tag=tolees-21) con 56.69 de descuento por 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

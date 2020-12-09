@@ -14,7 +14,7 @@ currency: EUR
 price: 35.85
 comparePrice: 64.95 EUR
 inStock: true
-prodname: adidas Cosmic 2  Zapatillas de Trail Running para Mujer  Tinley/Tintec 000  39 1/3 EU
+prodname: 'adidas Cosmic 2  Zapatillas de Trail Running para Mujer  Tinley/Tintec 000  39 1/3 EU'
 ---
 
 Está [adidas Cosmic 2  Zapatillas de Trail Running para Mujer  Tinley/Tintec 000  39 1/3 EU](https://www.amazon.es/dp/B07D9NTRTH/?tag=tolees-21) con 44.80 de descuento por 35.85 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.92
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Esprit 029ee1d016  Falda Mujer  Azul  Navy 400   Medium
+prodname: 'Esprit 029ee1d016  Falda Mujer  Azul  Navy 400   Medium'
 ---
 
 Tienes [Esprit 029ee1d016  Falda Mujer  Azul  Navy 400   Medium](https://www.amazon.es/dp/B07MKJGCFW/?tag=tolees-21) con un 52.69 % de descuento con precio de oferta de 18.92 EUR (original: 39.99 EUR) en el siguiente enlace!

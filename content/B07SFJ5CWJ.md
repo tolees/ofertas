@@ -14,7 +14,7 @@ currency: EUR
 price: 8.39
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly Bolsitas de té verde con menta  150 bolsitas 
+prodname: 'Marca Amazon - Happy Belly Bolsitas de té verde con menta  150 bolsitas '
 ---
 
 Tienes [Marca Amazon - Happy Belly Bolsitas de té verde con menta  150 bolsitas ](https://www.amazon.es/dp/B07SFJ5CWJ/?tag=tolees-21) con un 40.03 % de descuento con precio de oferta de 8.39 EUR (original: 13.99 EUR) en el siguiente enlace!

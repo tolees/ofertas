@@ -14,7 +14,7 @@ currency: EUR
 price: 31.76
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Scarlett Cropped Vaqueros Skinny  Marfil  Off White EW   28W/33L para Mujer
+prodname: 'Lee Scarlett Cropped Vaqueros Skinny  Marfil  Off White EW   28W/33L para Mujer'
 ---
 
 Está [Lee Scarlett Cropped Vaqueros Skinny  Marfil  Off White EW   28W/33L para Mujer](https://www.amazon.es/dp/B07FTKBH7J/?tag=tolees-21) con 64.69 de descuento por 31.76 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 75.91
 comparePrice: 150 EUR
 inStock: true
-prodname: Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  Negro  Black 990   M
+prodname: 'Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  Negro  Black 990   M'
 ---
 
 Está [Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  Negro  Black 990   M](https://www.amazon.es/dp/B00ZA4KYZM/?tag=tolees-21) con 49.39 de descuento por 75.91 EUR (original: 150 EUR) en el siguiente enlace!

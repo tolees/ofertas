@@ -14,7 +14,7 @@ currency: EUR
 price: 2.99
 comparePrice: 4.99 EUR
 inStock: true
-prodname: Izas Creus Camiseta Manga Corta  Hombre  Azul Claro  S
+prodname: 'Izas Creus Camiseta Manga Corta  Hombre  Azul Claro  S'
 ---
 
 Ahora mismo tienes [Izas Creus Camiseta Manga Corta  Hombre  Azul Claro  S](https://www.amazon.es/dp/B01C76JZBO/?tag=tolees-21) a 2.99 EUR (original: 4.99 EUR) (40.08 %  de descuento) en el siguiente enlace!

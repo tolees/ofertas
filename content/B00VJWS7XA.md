@@ -14,7 +14,7 @@ currency: EUR
 price: 10.85
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Warner Bros Interactive Spain  VG  Lego Dimensions - Figura Emmet
+prodname: 'Warner Bros Interactive Spain  VG  Lego Dimensions - Figura Emmet'
 ---
 
 Está [Warner Bros Interactive Spain  VG  Lego Dimensions - Figura Emmet](https://www.amazon.es/dp/B00VJWS7XA/?tag=tolees-21) con 27.62 de descuento por 10.85 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 29.67 EUR
 inStock: true
-prodname: Alcachofa Ducha  Ducha de Mano Cabezal de Ducha Alta Presion  Rotación de 360 ° Universal Ducha Alcachofa  3 Modos de Chorro de Agua con filtro de algodón PP para Bañarse y Spa
+prodname: 'Alcachofa Ducha  Ducha de Mano Cabezal de Ducha Alta Presion  Rotación de 360 ° Universal Ducha Alcachofa  3 Modos de Chorro de Agua con filtro de algodón PP para Bañarse y Spa'
 ---
 
 Ahora mismo tienes [Alcachofa Ducha  Ducha de Mano Cabezal de Ducha Alta Presion  Rotación de 360 ° Universal Ducha Alcachofa  3 Modos de Chorro de Agua con filtro de algodón PP para Bañarse y Spa](https://www.amazon.es/dp/B08HS2CCGV/?tag=tolees-21) a 16.99 EUR (original: 29.67 EUR) (42.74 %  de descuento) en el siguiente enlace!

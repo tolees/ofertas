@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 99.99 EUR
 inStock: true
-prodname: tado° Control de Climatización Inteligente V3+  Instálalo tú mismo  Designed in Germany
+prodname: 'tado° Control de Climatización Inteligente V3+  Instálalo tú mismo  Designed in Germany'
 ---
 
 Está [tado° Control de Climatización Inteligente V3+  Instálalo tú mismo  Designed in Germany](https://www.amazon.es/dp/B07PDZSYCM/?tag=tolees-21) con 40.09 de descuento por 59.9 EUR (original: 99.99 EUR) en el siguiente enlace!

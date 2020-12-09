@@ -14,7 +14,7 @@ currency: EUR
 price: 7.3
 comparePrice: 9.9 EUR
 inStock: true
-prodname: Nekton-E Vitamina E Suplemento para pájaros  35 g
+prodname: 'Nekton-E Vitamina E Suplemento para pájaros  35 g'
 ---
 
 Tienes [Nekton-E Vitamina E Suplemento para pájaros  35 g](https://www.amazon.es/dp/B0002DILUQ/?tag=tolees-21) con un 26.26 % de descuento con precio de oferta de 7.3 EUR (original: 9.9 EUR) en el siguiente enlace!

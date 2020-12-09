@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 11.99 EUR
 inStock: true
-prodname: VETOKY Bandas de Resistencia  Juego de 5  Bandas elásticas para Ejercicios de Espesamiento para Ejercicios  Crossfit  estiramientos  Pilates  Yoga  calistenia  Fisioterapia y rehabilitación
+prodname: 'VETOKY Bandas de Resistencia  Juego de 5  Bandas elásticas para Ejercicios de Espesamiento para Ejercicios  Crossfit  estiramientos  Pilates  Yoga  calistenia  Fisioterapia y rehabilitación'
 ---
 
 Está [VETOKY Bandas de Resistencia  Juego de 5  Bandas elásticas para Ejercicios de Espesamiento para Ejercicios  Crossfit  estiramientos  Pilates  Yoga  calistenia  Fisioterapia y rehabilitación](https://www.amazon.es/dp/B075YWFHTY/?tag=tolees-21) con 41.70 de descuento por 6.99 EUR (original: 11.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Réplica oficial camiseta primera equipación rfef 2020
+prodname: 'Réplica oficial camiseta primera equipación rfef 2020'
 ---
 
 Ahora mismo tienes [Réplica oficial camiseta primera equipación rfef 2020](https://www.amazon.es/dp/B085PJK3NQ/?tag=tolees-21) a 24.9 EUR (original: 34.95 EUR) (28.76 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 40.37 EUR
 inStock: true
-prodname: Arcos Serie Riviera - Cuchillo Cocinero Cuchillo de Chef - Hoja de Acero Inoxidable Forjado NITRUM 200 mm - Mango de Polyoxymethylene  POM  Color Negro
+prodname: 'Arcos Serie Riviera - Cuchillo Cocinero Cuchillo de Chef - Hoja de Acero Inoxidable Forjado NITRUM 200 mm - Mango de Polyoxymethylene  POM  Color Negro'
 ---
 
 Tienes [Arcos Serie Riviera - Cuchillo Cocinero Cuchillo de Chef - Hoja de Acero Inoxidable Forjado NITRUM 200 mm - Mango de Polyoxymethylene  POM  Color Negro](https://www.amazon.es/dp/B005LR6FAG/?tag=tolees-21) con un 48.01 % de descuento con precio de oferta de 20.99 EUR (original: 40.37 EUR) en el siguiente enlace!

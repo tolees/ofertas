@@ -14,7 +14,7 @@ currency: EUR
 price: 119.49
 comparePrice: 159.95 EUR
 inStock: true
-prodname: Adidas Terrex Swift R2 Mid  Zapatillas de Marcha Nórdica para Hombre  Negro  Core Black/Core Black/Core Black 0   44 2/3 EU
+prodname: 'Adidas Terrex Swift R2 Mid  Zapatillas de Marcha Nórdica para Hombre  Negro  Core Black/Core Black/Core Black 0   44 2/3 EU'
 ---
 
 Tienes [Adidas Terrex Swift R2 Mid  Zapatillas de Marcha Nórdica para Hombre  Negro  Core Black/Core Black/Core Black 0   44 2/3 EU](https://www.amazon.es/dp/B073RHXDBM/?tag=tolees-21) con un 25.30 % de descuento con precio de oferta de 119.49 EUR (original: 159.95 EUR) en el siguiente enlace!

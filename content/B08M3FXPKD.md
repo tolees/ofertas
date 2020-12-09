@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 49.96 EUR
 inStock: true
-prodname: Auriculares Bluetooth con estuche de carga  blanco 
+prodname: 'Auriculares Bluetooth con estuche de carga  blanco '
 ---
 
 Está [Auriculares Bluetooth con estuche de carga  blanco ](https://www.amazon.es/dp/B08M3FXPKD/?tag=tolees-21) con 70.00 de descuento por 14.99 EUR (original: 49.96 EUR) en el siguiente enlace!

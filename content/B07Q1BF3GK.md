@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Jade Roller  Rodillo De Jade  Rodillo de masaje de jade  Rodillo Facial de Jade  Facial Masaje Piedra Gua Sha Jade  Antienvejecimiento natural  Para Cuello Cara Ojos Cabeza Cuerpo
+prodname: 'Jade Roller  Rodillo De Jade  Rodillo de masaje de jade  Rodillo Facial de Jade  Facial Masaje Piedra Gua Sha Jade  Antienvejecimiento natural  Para Cuello Cara Ojos Cabeza Cuerpo'
 ---
 
 Ahora mismo tienes [Jade Roller  Rodillo De Jade  Rodillo de masaje de jade  Rodillo Facial de Jade  Facial Masaje Piedra Gua Sha Jade  Antienvejecimiento natural  Para Cuello Cara Ojos Cabeza Cuerpo](https://www.amazon.es/dp/B07Q1BF3GK/?tag=tolees-21) a 18.99 EUR (original: 49.99 EUR) (62.01 %  de descuento) en el siguiente enlace!

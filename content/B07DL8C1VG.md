@@ -14,7 +14,7 @@ currency: EUR
 price: 29.33
 comparePrice: 65 EUR
 inStock: true
-prodname: Burton Oak Sudadera  Hombre  Negro  True Heather   S
+prodname: 'Burton Oak Sudadera  Hombre  Negro  True Heather   S'
 ---
 
 Está [Burton Oak Sudadera  Hombre  Negro  True Heather   S](https://www.amazon.es/dp/B07DL8C1VG/?tag=tolees-21) con 54.88 de descuento por 29.33 EUR (original: 65 EUR) en el siguiente enlace!

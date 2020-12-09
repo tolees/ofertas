@@ -14,7 +14,7 @@ currency: EUR
 price: 24.23
 comparePrice: 35.99 EUR
 inStock: true
-prodname: MTNG 69056  Zapatillas para Mujer  Blanco  Action PU Blanco/Metal Silver C36044   39 EU
+prodname: 'MTNG 69056  Zapatillas para Mujer  Blanco  Action PU Blanco/Metal Silver C36044   39 EU'
 ---
 
 Está [MTNG 69056  Zapatillas para Mujer  Blanco  Action PU Blanco/Metal Silver C36044   39 EU](https://www.amazon.es/dp/B07LCPCRM5/?tag=tolees-21) con 32.68 de descuento por 24.23 EUR (original: 35.99 EUR) en el siguiente enlace!

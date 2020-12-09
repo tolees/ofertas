@@ -14,7 +14,7 @@ currency: EUR
 price: 18.9
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Conjunto de Auriculares y micrófono Xiaomi QTER01JY  MI Piston  Originales  híbrido intercomunicador  Color Plateado
+prodname: 'Conjunto de Auriculares y micrófono Xiaomi QTER01JY  MI Piston  Originales  híbrido intercomunicador  Color Plateado'
 ---
 
 Ahora mismo tienes [Conjunto de Auriculares y micrófono Xiaomi QTER01JY  MI Piston  Originales  híbrido intercomunicador  Color Plateado](https://www.amazon.es/dp/B019FBWOSA/?tag=tolees-21) a 18.9 EUR (original: 29.95 EUR) (36.89 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 57.95
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Columbia Powder Lite - Chaqueta  Hombre  Azul  Dark Mountain   Talla L
+prodname: 'Columbia Powder Lite - Chaqueta  Hombre  Azul  Dark Mountain   Talla L'
 ---
 
 Tienes [Columbia Powder Lite - Chaqueta  Hombre  Azul  Dark Mountain   Talla L](https://www.amazon.es/dp/B07DYTTD42/?tag=tolees-21) con un 42.04 % de descuento con precio de oferta de 57.95 EUR (original: 99.99 EUR) en el siguiente enlace!

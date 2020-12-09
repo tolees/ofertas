@@ -14,7 +14,7 @@ currency: EUR
 price: 37.5
 comparePrice: 62.62 EUR
 inStock: true
-prodname: Vodka crystal head 70cl 40º
+prodname: 'Vodka crystal head 70cl 40º'
 ---
 
 Está [Vodka crystal head 70cl 40º](https://www.amazon.es/dp/B007MLY2CM/?tag=tolees-21) con 40.11 de descuento por 37.5 EUR (original: 62.62 EUR) en el siguiente enlace!

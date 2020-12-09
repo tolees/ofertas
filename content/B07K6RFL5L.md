@@ -14,7 +14,7 @@ currency: EUR
 price: 38.95
 comparePrice: 65 EUR
 inStock: true
-prodname: Asics Aaron  Zapatillas de Gimnasia para Hombre  Blanco  White/Midnight 101   46 EU
+prodname: 'Asics Aaron  Zapatillas de Gimnasia para Hombre  Blanco  White/Midnight 101   46 EU'
 ---
 
 Está [Asics Aaron  Zapatillas de Gimnasia para Hombre  Blanco  White/Midnight 101   46 EU](https://www.amazon.es/dp/B07K6RFL5L/?tag=tolees-21) con 40.08 de descuento por 38.95 EUR (original: 65 EUR) en el siguiente enlace!

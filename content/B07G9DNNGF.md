@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: KitchenTour balanza de cocina digital - 3000 g / 0 1 g de alta precisión La exactitud Escala Carne Alimentos multifunción con Retroiluminados Pantalla LCD  pilas incluidas 
+prodname: 'KitchenTour balanza de cocina digital - 3000 g / 0 1 g de alta precisión La exactitud Escala Carne Alimentos multifunción con Retroiluminados Pantalla LCD  pilas incluidas '
 ---
 
 Tienes [KitchenTour balanza de cocina digital - 3000 g / 0 1 g de alta precisión La exactitud Escala Carne Alimentos multifunción con Retroiluminados Pantalla LCD  pilas incluidas ](https://www.amazon.es/dp/B07G9DNNGF/?tag=tolees-21) con un 56.69 % de descuento con precio de oferta de 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

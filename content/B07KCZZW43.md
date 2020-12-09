@@ -14,7 +14,7 @@ currency: EUR
 price: 16.45
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Energy Beat Box 2+ Lightcube Granite  Beat Lights  TWS  Bluetooth v4.2  5W  microSD MP3  FM Radio 
+prodname: 'Energy Beat Box 2+ Lightcube Granite  Beat Lights  TWS  Bluetooth v4.2  5W  microSD MP3  FM Radio '
 ---
 
 Tienes [Energy Beat Box 2+ Lightcube Granite  Beat Lights  TWS  Bluetooth v4.2  5W  microSD MP3  FM Radio ](https://www.amazon.es/dp/B07KCZZW43/?tag=tolees-21) con un 44.98 % de descuento con precio de oferta de 16.45 EUR (original: 29.9 EUR) en el siguiente enlace!

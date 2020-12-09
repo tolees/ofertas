@@ -14,7 +14,7 @@ currency: EUR
 price: 55.76
 comparePrice: 99 EUR
 inStock: true
-prodname: Superga 2790-suew  Zapatillas de Gimnasia para Mujer  Negro  Blue Night Shadow J41   37 EU
+prodname: 'Superga 2790-suew  Zapatillas de Gimnasia para Mujer  Negro  Blue Night Shadow J41   37 EU'
 ---
 
 Ahora mismo tienes [Superga 2790-suew  Zapatillas de Gimnasia para Mujer  Negro  Blue Night Shadow J41   37 EU](https://www.amazon.es/dp/B07FFJRFHC/?tag=tolees-21) a 55.76 EUR (original: 99 EUR) (43.68 %  de descuento) en el siguiente enlace!

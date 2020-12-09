@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 23.33 EUR
 inStock: true
-prodname: NONZERS 2-Pack Vidrio Templado para Huawei Cristal Templado [2.5D Redondo Borde]  Huawei P20 
+prodname: 'NONZERS 2-Pack Vidrio Templado para Huawei Cristal Templado [2.5D Redondo Borde]  Huawei P20 '
 ---
 
 Ahora mismo tienes [NONZERS 2-Pack Vidrio Templado para Huawei Cristal Templado [2.5D Redondo Borde]  Huawei P20 ](https://www.amazon.es/dp/B07PLZ7PD6/?tag=tolees-21) a 9.99 EUR (original: 23.33 EUR) (57.18 %  de descuento) en el siguiente enlace!

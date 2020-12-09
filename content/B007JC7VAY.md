@@ -14,7 +14,7 @@ currency: EUR
 price: 1.45
 comparePrice: 4.86 EUR
 inStock: true
-prodname: PALMOLIVE NATURALS DELICATE CARE WITH ALMOND MILK LOTE 3 piezas
+prodname: 'PALMOLIVE NATURALS DELICATE CARE WITH ALMOND MILK LOTE 3 piezas'
 ---
 
 Ahora mismo tienes [PALMOLIVE NATURALS DELICATE CARE WITH ALMOND MILK LOTE 3 piezas](https://www.amazon.es/dp/B007JC7VAY/?tag=tolees-21) a 1.45 EUR (original: 4.86 EUR) (70.16 %  de descuento) en el siguiente enlace!

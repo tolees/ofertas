@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 6.99 EUR
 inStock: true
-prodname: LYLY 50 Pegatinas Personalizadas Boda Love is Sweet - Papel Kraft 40mm Colorido Corazón Detalles Etiquetas Sello Invitación Boda Baby Shower Cumpleaños Navidad Bautismo Artesanías > Violeta
+prodname: 'LYLY 50 Pegatinas Personalizadas Boda Love is Sweet - Papel Kraft 40mm Colorido Corazón Detalles Etiquetas Sello Invitación Boda Baby Shower Cumpleaños Navidad Bautismo Artesanías > Violeta'
 ---
 
 Está [LYLY 50 Pegatinas Personalizadas Boda Love is Sweet - Papel Kraft 40mm Colorido Corazón Detalles Etiquetas Sello Invitación Boda Baby Shower Cumpleaños Navidad Bautismo Artesanías > Violeta](https://www.amazon.es/dp/B07NLC2BQ4/?tag=tolees-21) con 28.61 de descuento por 4.99 EUR (original: 6.99 EUR) en el siguiente enlace!

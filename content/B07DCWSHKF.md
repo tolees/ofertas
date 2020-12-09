@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 69.49 EUR
 inStock: true
-prodname: Lámpara Escritorio LED. Flexo con Cargador Inalámbrico Qi y USB  Control Táctil  Regulador de Intensidad y Temporizador de Apagado. NGUP.
+prodname: 'Lámpara Escritorio LED. Flexo con Cargador Inalámbrico Qi y USB  Control Táctil  Regulador de Intensidad y Temporizador de Apagado. NGUP.'
 ---
 
 Ahora mismo tienes [Lámpara Escritorio LED. Flexo con Cargador Inalámbrico Qi y USB  Control Táctil  Regulador de Intensidad y Temporizador de Apagado. NGUP.](https://www.amazon.es/dp/B07DCWSHKF/?tag=tolees-21) a 44.99 EUR (original: 69.49 EUR) (35.26 %  de descuento) en el siguiente enlace!

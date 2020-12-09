@@ -14,7 +14,7 @@ currency: EUR
 price: 14.0
 comparePrice: 18.95 EUR
 inStock: true
-prodname: Colágeno con Q10 + Ácido Hialurónico  90 Cápsulas
+prodname: 'Colágeno con Q10 + Ácido Hialurónico  90 Cápsulas'
 ---
 
 Ahora mismo tienes [Colágeno con Q10 + Ácido Hialurónico  90 Cápsulas](https://www.amazon.es/dp/B07BXWYR5G/?tag=tolees-21) a 14.0 EUR (original: 18.95 EUR) (26.12 %  de descuento) en el siguiente enlace!

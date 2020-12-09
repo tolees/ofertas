@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s Graphic Camiseta  84 Sportswear Logo Grey Midtone Grey Htr  XX-Small para Hombre
+prodname: 'Levi s Graphic Camiseta  84 Sportswear Logo Grey Midtone Grey Htr  XX-Small para Hombre'
 ---
 
 Está [Levi s Graphic Camiseta  84 Sportswear Logo Grey Midtone Grey Htr  XX-Small para Hombre](https://www.amazon.es/dp/B07GQM48WZ/?tag=tolees-21) con 28.04 de descuento por 17.99 EUR (original: 25.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.04
 comparePrice: 25.77 EUR
 inStock: true
-prodname: Justin Bieber 52429 - Agua de perfume  100 ml
+prodname: 'Justin Bieber 52429 - Agua de perfume  100 ml'
 ---
 
 Está [Justin Bieber 52429 - Agua de perfume  100 ml](https://www.amazon.es/dp/B008VPCJ6O/?tag=tolees-21) con 26.12 de descuento por 19.04 EUR (original: 25.77 EUR) en el siguiente enlace!

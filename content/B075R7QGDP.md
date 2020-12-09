@@ -14,7 +14,7 @@ currency: EUR
 price: 60
 comparePrice: 120 EUR
 inStock: true
-prodname: New Balance Fresh Foam Zante v4 Neutral  Zapatillas de Running para Mujer  Azul  Ice Blue/Pigment Ib4   36 EU
+prodname: 'New Balance Fresh Foam Zante v4 Neutral  Zapatillas de Running para Mujer  Azul  Ice Blue/Pigment Ib4   36 EU'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Zante v4 Neutral  Zapatillas de Running para Mujer  Azul  Ice Blue/Pigment Ib4   36 EU](https://www.amazon.es/dp/B075R7QGDP/?tag=tolees-21) a 60 EUR (original: 120 EUR) (50.00 %  de descuento) en el siguiente enlace!

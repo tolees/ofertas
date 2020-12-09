@@ -14,7 +14,7 @@ currency: EUR
 price: 31.85
 comparePrice: 60 EUR
 inStock: true
-prodname: Emporio Armani Underwear 9p406 Bañador  Azul  BLU Navy Stampato 01038   X-Small  Talla del Fabricante: 46  para Hombre
+prodname: 'Emporio Armani Underwear 9p406 Bañador  Azul  BLU Navy Stampato 01038   X-Small  Talla del Fabricante: 46  para Hombre'
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 9p406 Bañador  Azul  BLU Navy Stampato 01038   X-Small  Talla del Fabricante: 46  para Hombre](https://www.amazon.es/dp/B07JZWDTST/?tag=tolees-21) a 31.85 EUR (original: 60 EUR) (46.92 %  de descuento) en el siguiente enlace!

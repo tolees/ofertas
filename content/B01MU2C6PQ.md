@@ -14,7 +14,7 @@ currency: EUR
 price: 17.45
 comparePrice: 29.99 EUR
 inStock: true
-prodname: JACK & JONES Jjimarco Jjenzo Navy WW 420 Noos Pantalones  Azul Blazer  W34/L30  Talla del Fabricante: 34  para Hombre
+prodname: 'JACK & JONES Jjimarco Jjenzo Navy WW 420 Noos Pantalones  Azul Blazer  W34/L30  Talla del Fabricante: 34  para Hombre'
 ---
 
 Está [JACK & JONES Jjimarco Jjenzo Navy WW 420 Noos Pantalones  Azul Blazer  W34/L30  Talla del Fabricante: 34  para Hombre](https://www.amazon.es/dp/B01MU2C6PQ/?tag=tolees-21) con 41.81 de descuento por 17.45 EUR (original: 29.99 EUR) en el siguiente enlace!

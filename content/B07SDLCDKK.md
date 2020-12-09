@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 80.0 EUR
 inStock: true
-prodname: LIGHTAILING Conjunto de Luces  Architecture Estatua de la Libertad  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21042  NO Incluido en el Modelo 
+prodname: 'LIGHTAILING Conjunto de Luces  Architecture Estatua de la Libertad  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21042  NO Incluido en el Modelo '
 ---
 
 Ahora mismo tienes [LIGHTAILING Conjunto de Luces  Architecture Estatua de la Libertad  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21042  NO Incluido en el Modelo ](https://www.amazon.es/dp/B07SDLCDKK/?tag=tolees-21) a 39.99 EUR (original: 80.0 EUR) (50.01 %  de descuento) en el siguiente enlace!

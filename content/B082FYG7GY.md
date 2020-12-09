@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Auriculares inalámbricos  Acescreen Auriculares Bluetooth Auriculares con cancelación de Ruido V5.0 Stereo Sport Auriculares Bluetooth en Oreja con Estuche de Carga Mini y micrófono Integrado
+prodname: 'Auriculares inalámbricos  Acescreen Auriculares Bluetooth Auriculares con cancelación de Ruido V5.0 Stereo Sport Auriculares Bluetooth en Oreja con Estuche de Carga Mini y micrófono Integrado'
 ---
 
 Tienes [Auriculares inalámbricos  Acescreen Auriculares Bluetooth Auriculares con cancelación de Ruido V5.0 Stereo Sport Auriculares Bluetooth en Oreja con Estuche de Carga Mini y micrófono Integrado](https://www.amazon.es/dp/B082FYG7GY/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 23.99 EUR (original: 35.99 EUR) en el siguiente enlace!

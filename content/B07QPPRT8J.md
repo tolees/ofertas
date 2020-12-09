@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 44.75 EUR
 inStock: true
-prodname: Star Wars Jedi Fallen Order - PS4
+prodname: 'Star Wars Jedi Fallen Order - PS4'
 ---
 
 Tienes [Star Wars Jedi Fallen Order - PS4](https://www.amazon.es/dp/B07QPPRT8J/?tag=tolees-21) con un 33.18 % de descuento con precio de oferta de 29.9 EUR (original: 44.75 EUR) en el siguiente enlace!

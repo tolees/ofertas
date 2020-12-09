@@ -14,7 +14,7 @@ currency: EUR
 price: 22.49
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LEGO Duplo Town - Comisaría de policía  Juguete Creativo de construcción y Aventuras  10902 
+prodname: 'LEGO Duplo Town - Comisaría de policía  Juguete Creativo de construcción y Aventuras  10902 '
 ---
 
 Está [LEGO Duplo Town - Comisaría de policía  Juguete Creativo de construcción y Aventuras  10902 ](https://www.amazon.es/dp/B07FNTSHZC/?tag=tolees-21) con 25.01 de descuento por 22.49 EUR (original: 29.99 EUR) en el siguiente enlace!

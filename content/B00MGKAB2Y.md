@@ -14,7 +14,7 @@ currency: EUR
 price: 3.4
 comparePrice: 4.75 EUR
 inStock: true
-prodname: Rimmel London Provocalips Barra De Labios  Tono 550 Play With Fire- 18 gr
+prodname: 'Rimmel London Provocalips Barra De Labios  Tono 550 Play With Fire- 18 gr'
 ---
 
 Tienes [Rimmel London Provocalips Barra De Labios  Tono 550 Play With Fire- 18 gr](https://www.amazon.es/dp/B00MGKAB2Y/?tag=tolees-21) con un 28.42 % de descuento con precio de oferta de 3.4 EUR (original: 4.75 EUR) en el siguiente enlace!

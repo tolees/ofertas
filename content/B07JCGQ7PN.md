@@ -14,7 +14,7 @@ currency: EUR
 price: 110.44
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Linksys LAPAC1750C-EU - Punto de Acceso Inalámbrico de Doble Banda AC1750 con gestión en la Nube  Blanco
+prodname: 'Linksys LAPAC1750C-EU - Punto de Acceso Inalámbrico de Doble Banda AC1750 con gestión en la Nube  Blanco'
 ---
 
 Está [Linksys LAPAC1750C-EU - Punto de Acceso Inalámbrico de Doble Banda AC1750 con gestión en la Nube  Blanco](https://www.amazon.es/dp/B07JCGQ7PN/?tag=tolees-21) con 38.64 de descuento por 110.44 EUR (original: 179.99 EUR) en el siguiente enlace!

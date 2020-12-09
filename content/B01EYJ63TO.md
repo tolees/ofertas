@@ -14,7 +14,7 @@ currency: EUR
 price: 17.9
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Kappa Bright Mid Light  Botines para Hombre  Gris  Grey 1616   40 EU
+prodname: 'Kappa Bright Mid Light  Botines para Hombre  Gris  Grey 1616   40 EU'
 ---
 
 Está [Kappa Bright Mid Light  Botines para Hombre  Gris  Grey 1616   40 EU](https://www.amazon.es/dp/B01EYJ63TO/?tag=tolees-21) con 55.19 de descuento por 17.9 EUR (original: 39.95 EUR) en el siguiente enlace!

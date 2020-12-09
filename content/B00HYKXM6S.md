@@ -14,7 +14,7 @@ currency: EUR
 price: 0.99
 comparePrice: 1.55 EUR
 inStock: true
-prodname: Artiach - Princesa - Galletas con corazón - 1 paquete de 120 gr.
+prodname: 'Artiach - Princesa - Galletas con corazón - 1 paquete de 120 gr.'
 ---
 
 Ahora mismo tienes [Artiach - Princesa - Galletas con corazón - 1 paquete de 120 gr.](https://www.amazon.es/dp/B00HYKXM6S/?tag=tolees-21) a 0.99 EUR (original: 1.55 EUR) (36.13 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.74
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Anker PowerWave - Cargador inalámbrico de 10 W  Carga rápida  Certificado Qi  Compatible con iPhone XR/XS/X/8  tecnología de Carga rápida para Samsung S9/S8  etc.  Fuente de alimentación no incluida 
+prodname: 'Anker PowerWave - Cargador inalámbrico de 10 W  Carga rápida  Certificado Qi  Compatible con iPhone XR/XS/X/8  tecnología de Carga rápida para Samsung S9/S8  etc.  Fuente de alimentación no incluida '
 ---
 
 Ahora mismo tienes [Anker PowerWave - Cargador inalámbrico de 10 W  Carga rápida  Certificado Qi  Compatible con iPhone XR/XS/X/8  tecnología de Carga rápida para Samsung S9/S8  etc.  Fuente de alimentación no incluida ](https://www.amazon.es/dp/B07DBXZZN3/?tag=tolees-21) a 15.74 EUR (original: 20.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

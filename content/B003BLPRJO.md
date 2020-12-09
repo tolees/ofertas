@@ -14,7 +14,7 @@ currency: EUR
 price: 25.54
 comparePrice: 39.99 EUR
 inStock: true
-prodname: crocs Baya  Zuecos Unisex Adulto  Gris  Graphite   42/43 EU
+prodname: 'crocs Baya  Zuecos Unisex Adulto  Gris  Graphite   42/43 EU'
 ---
 
 Ahora mismo tienes [crocs Baya  Zuecos Unisex Adulto  Gris  Graphite   42/43 EU](https://www.amazon.es/dp/B003BLPRJO/?tag=tolees-21) a 25.54 EUR (original: 39.99 EUR) (36.13 %  de descuento) en el siguiente enlace!

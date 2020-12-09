@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 7.99 EUR
 inStock: true
-prodname: Bruzzzler 1144 Set de Tenedor de trinchar  Negro 12.5x12.5x3.5 cm
+prodname: 'Bruzzzler 1144 Set de Tenedor de trinchar  Negro 12.5x12.5x3.5 cm'
 ---
 
 Tienes [Bruzzzler 1144 Set de Tenedor de trinchar  Negro 12.5x12.5x3.5 cm](https://www.amazon.es/dp/B01MT12RCL/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!

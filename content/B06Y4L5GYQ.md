@@ -14,7 +14,7 @@ currency: EUR
 price: 45.89
 comparePrice: 62.99 EUR
 inStock: true
-prodname: ICZI Surface Dock 7 en 1  Microsoft Surface Hub con DisplayPort HDMI RJ45 Ethernet 2 USB 3.0 Audio USB 2.0 para Surface 3 Surface 4 Surface Pro 4 Surface Pro 5  NO Surface Pro 3  Pro 7 
+prodname: 'ICZI Surface Dock 7 en 1  Microsoft Surface Hub con DisplayPort HDMI RJ45 Ethernet 2 USB 3.0 Audio USB 2.0 para Surface 3 Surface 4 Surface Pro 4 Surface Pro 5  NO Surface Pro 3  Pro 7 '
 ---
 
 Ahora mismo tienes [ICZI Surface Dock 7 en 1  Microsoft Surface Hub con DisplayPort HDMI RJ45 Ethernet 2 USB 3.0 Audio USB 2.0 para Surface 3 Surface 4 Surface Pro 4 Surface Pro 5  NO Surface Pro 3  Pro 7 ](https://www.amazon.es/dp/B06Y4L5GYQ/?tag=tolees-21) a 45.89 EUR (original: 62.99 EUR) (27.15 %  de descuento) en el siguiente enlace!

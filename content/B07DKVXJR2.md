@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Columbia Gorra de béisbol unisex  Silver Ridge III Ball Cap  Nailon  Azul  Blue Dusk   Talla: O/S  1840071
+prodname: 'Columbia Gorra de béisbol unisex  Silver Ridge III Ball Cap  Nailon  Azul  Blue Dusk   Talla: O/S  1840071'
 ---
 
 Ahora mismo tienes [Columbia Gorra de béisbol unisex  Silver Ridge III Ball Cap  Nailon  Azul  Blue Dusk   Talla: O/S  1840071](https://www.amazon.es/dp/B07DKVXJR2/?tag=tolees-21) a 14.95 EUR (original: 24.99 EUR) (40.18 %  de descuento) en el siguiente enlace!

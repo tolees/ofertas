@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Triple Canyon Fall Hiking Pantalones y Shorts  Hombre  Negro  34
+prodname: 'Columbia Triple Canyon Fall Hiking Pantalones y Shorts  Hombre  Negro  34'
 ---
 
 Ahora mismo tienes [Columbia Triple Canyon Fall Hiking Pantalones y Shorts  Hombre  Negro  34](https://www.amazon.es/dp/B07DYXW3VM/?tag=tolees-21) a 37.99 EUR (original: 89.99 EUR) (57.78 %  de descuento) en el siguiente enlace!

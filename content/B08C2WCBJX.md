@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: KUPVALON Webcam 1080P Full HD USB Cámara de Video Cámara Web Cámara Web con Micrófono para Computadora PC Computadora Portátil de Escritorio
+prodname: 'KUPVALON Webcam 1080P Full HD USB Cámara de Video Cámara Web Cámara Web con Micrófono para Computadora PC Computadora Portátil de Escritorio'
 ---
 
 Tienes [KUPVALON Webcam 1080P Full HD USB Cámara de Video Cámara Web Cámara Web con Micrófono para Computadora PC Computadora Portátil de Escritorio](https://www.amazon.es/dp/B08C2WCBJX/?tag=tolees-21) con un 58.34 % de descuento con precio de oferta de 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!

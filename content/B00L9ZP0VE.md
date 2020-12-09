@@ -14,7 +14,7 @@ currency: EUR
 price: 1.62
 comparePrice: 2.95 EUR
 inStock: true
-prodname: Oxford Openflex - Libreta  cuadricula 4 x 4  48 hojas  A5
+prodname: 'Oxford Openflex - Libreta  cuadricula 4 x 4  48 hojas  A5'
 ---
 
 Ahora mismo tienes [Oxford Openflex - Libreta  cuadricula 4 x 4  48 hojas  A5](https://www.amazon.es/dp/B00L9ZP0VE/?tag=tolees-21) a 1.62 EUR (original: 2.95 EUR) (45.08 %  de descuento) en el siguiente enlace!

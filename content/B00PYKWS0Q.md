@@ -14,7 +14,7 @@ currency: EUR
 price: 32.97
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Nike Court Royale  Zapatillas de Gimnasia para Hombre  Negro  Black/White   44 EU
+prodname: 'Nike Court Royale  Zapatillas de Gimnasia para Hombre  Negro  Black/White   44 EU'
 ---
 
 Tienes [Nike Court Royale  Zapatillas de Gimnasia para Hombre  Negro  Black/White   44 EU](https://www.amazon.es/dp/B00PYKWS0Q/?tag=tolees-21) con un 40.05 % de descuento con precio de oferta de 32.97 EUR (original: 55.0 EUR) en el siguiente enlace!

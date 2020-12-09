@@ -14,7 +14,7 @@ currency: EUR
 price: 23.2
 comparePrice: 40.99 EUR
 inStock: true
-prodname: X-Morph Defense - Complete Edition
+prodname: 'X-Morph Defense - Complete Edition'
 ---
 
 Ahora mismo tienes [X-Morph Defense - Complete Edition](https://www.amazon.es/dp/B07NRFR53C/?tag=tolees-21) a 23.2 EUR (original: 40.99 EUR) (43.40 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.46
 comparePrice: 15.65 EUR
 inStock: true
-prodname: Tefal Pastel Colors B39804 Sartén  Aluminio
+prodname: 'Tefal Pastel Colors B39804 Sartén  Aluminio'
 ---
 
 Ahora mismo tienes [Tefal Pastel Colors B39804 Sartén  Aluminio](https://www.amazon.es/dp/B07PSZDG2G/?tag=tolees-21) a 10.46 EUR (original: 15.65 EUR) (33.16 %  de descuento) en el siguiente enlace!

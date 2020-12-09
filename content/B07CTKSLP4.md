@@ -14,7 +14,7 @@ currency: EUR
 price: 60.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: JACK & JONES JFWALBANY Leather STS  Chukka Boots Hombre  Gris Anthracite Anthracite   40 EU
+prodname: 'JACK & JONES JFWALBANY Leather STS  Chukka Boots Hombre  Gris Anthracite Anthracite   40 EU'
 ---
 
 Tienes [JACK & JONES JFWALBANY Leather STS  Chukka Boots Hombre  Gris Anthracite Anthracite   40 EU](https://www.amazon.es/dp/B07CTKSLP4/?tag=tolees-21) con un 39.00 % de descuento con precio de oferta de 60.99 EUR (original: 99.99 EUR) en el siguiente enlace!

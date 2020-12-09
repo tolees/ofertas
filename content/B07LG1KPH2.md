@@ -14,7 +14,7 @@ currency: EUR
 price: 34.93
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Geox B TUTIM B  Zapatos de Bebé Niñas  Rosa  Dk Pink C8006   21 EU
+prodname: 'Geox B TUTIM B  Zapatos de Bebé Niñas  Rosa  Dk Pink C8006   21 EU'
 ---
 
 Está [Geox B TUTIM B  Zapatos de Bebé Niñas  Rosa  Dk Pink C8006   21 EU](https://www.amazon.es/dp/B07LG1KPH2/?tag=tolees-21) con 30.00 de descuento por 34.93 EUR (original: 49.9 EUR) en el siguiente enlace!

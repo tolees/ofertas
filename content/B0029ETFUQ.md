@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Trixie Set Comed.Cerám+Pie  2x0.6 l  ø15 cm  Blco/Ng
+prodname: 'Trixie Set Comed.Cerám+Pie  2x0.6 l  ø15 cm  Blco/Ng'
 ---
 
 Está [Trixie Set Comed.Cerám+Pie  2x0.6 l  ø15 cm  Blco/Ng](https://www.amazon.es/dp/B0029ETFUQ/?tag=tolees-21) con 55.03 de descuento por 8.99 EUR (original: 19.99 EUR) en el siguiente enlace!

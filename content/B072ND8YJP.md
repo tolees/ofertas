@@ -14,7 +14,7 @@ currency: EUR
 price: 19.72
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES PREMIUM Jprnon Iron Shirt L/s Noos Camisa  Gris  Grey Melange Fit:Slim Fit   X-Small para Hombre
+prodname: 'JACK & JONES PREMIUM Jprnon Iron Shirt L/s Noos Camisa  Gris  Grey Melange Fit:Slim Fit   X-Small para Hombre'
 ---
 
 Está [JACK & JONES PREMIUM Jprnon Iron Shirt L/s Noos Camisa  Gris  Grey Melange Fit:Slim Fit   X-Small para Hombre](https://www.amazon.es/dp/B072ND8YJP/?tag=tolees-21) con 50.69 de descuento por 19.72 EUR (original: 39.99 EUR) en el siguiente enlace!

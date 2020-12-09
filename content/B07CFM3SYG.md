@@ -14,7 +14,7 @@ currency: EUR
 price: 29.91
 comparePrice: 180 EUR
 inStock: true
-prodname: New Balance Rubix  Zapatillas de Running para Mujer  Negro  Black/White BK   37.5 EU
+prodname: 'New Balance Rubix  Zapatillas de Running para Mujer  Negro  Black/White BK   37.5 EU'
 ---
 
 Está [New Balance Rubix  Zapatillas de Running para Mujer  Negro  Black/White BK   37.5 EU](https://www.amazon.es/dp/B07CFM3SYG/?tag=tolees-21) con 83.38 de descuento por 29.91 EUR (original: 180 EUR) en el siguiente enlace!

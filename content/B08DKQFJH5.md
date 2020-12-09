@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Hombre Zapatillas Moda Sneaker EntrenadorTranspirable Zapatos Casuales para Caminar al Aire Libre
+prodname: 'Hombre Zapatillas Moda Sneaker EntrenadorTranspirable Zapatos Casuales para Caminar al Aire Libre'
 ---
 
 Tienes [Hombre Zapatillas Moda Sneaker EntrenadorTranspirable Zapatos Casuales para Caminar al Aire Libre](https://www.amazon.es/dp/B08DKQFJH5/?tag=tolees-21) con un 41.67 % de descuento con precio de oferta de 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 47
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Tommy Jeans Hombre  Scanton  Vaqueros slim   Azul  Cobalt Light Bl St 911  W36/L34  Talla del fabricante: 3436 
+prodname: 'Tommy Jeans Hombre  Scanton  Vaqueros slim   Azul  Cobalt Light Bl St 911  W36/L34  Talla del fabricante: 3436 '
 ---
 
 Está [Tommy Jeans Hombre  Scanton  Vaqueros slim   Azul  Cobalt Light Bl St 911  W36/L34  Talla del fabricante: 3436 ](https://www.amazon.es/dp/B07HH1KPKG/?tag=tolees-21) con 52.95 de descuento por 47 EUR (original: 99.9 EUR) en el siguiente enlace!

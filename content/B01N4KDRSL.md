@@ -14,7 +14,7 @@ currency: EUR
 price: 45.45
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Women D lite Ultra - Reverie Trainers  Black  Black   3 UK  36 EU 
+prodname: 'Skechers Women D lite Ultra - Reverie Trainers  Black  Black   3 UK  36 EU '
 ---
 
 Está [Skechers Women D lite Ultra - Reverie Trainers  Black  Black   3 UK  36 EU ](https://www.amazon.es/dp/B01N4KDRSL/?tag=tolees-21) con 30.02 de descuento por 45.45 EUR (original: 64.95 EUR) en el siguiente enlace!

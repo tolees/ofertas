@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Osram 811737 Bombilla LED R7S  15 W  Blanco Cálido
+prodname: 'Osram 811737 Bombilla LED R7S  15 W  Blanco Cálido'
 ---
 
 Ahora mismo tienes [Osram 811737 Bombilla LED R7S  15 W  Blanco Cálido](https://www.amazon.es/dp/B072JZHGDJ/?tag=tolees-21) a 9.99 EUR (original: 21.99 EUR) (54.57 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.48
 comparePrice: 59.99 EUR
 inStock: true
-prodname: JACK & JONES Jfwabbott PU  Botas Chelsea para Hombre  Marrón Java  45 EU
+prodname: 'JACK & JONES Jfwabbott PU  Botas Chelsea para Hombre  Marrón Java  45 EU'
 ---
 
 Tienes [JACK & JONES Jfwabbott PU  Botas Chelsea para Hombre  Marrón Java  45 EU](https://www.amazon.es/dp/B07C7HKWF1/?tag=tolees-21) con un 67.53 % de descuento con precio de oferta de 19.48 EUR (original: 59.99 EUR) en el siguiente enlace!

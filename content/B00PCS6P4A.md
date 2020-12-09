@@ -14,7 +14,7 @@ currency: EUR
 price: 21.36
 comparePrice: 59 EUR
 inStock: true
-prodname: Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Rosa  Pink Begonia V28   40 EU
+prodname: 'Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Rosa  Pink Begonia V28   40 EU'
 ---
 
 Ahora mismo tienes [Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Rosa  Pink Begonia V28   40 EU](https://www.amazon.es/dp/B00PCS6P4A/?tag=tolees-21) a 21.36 EUR (original: 59 EUR) (63.80 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 2.5
 comparePrice: 12.0 EUR
 inStock: true
-prodname: Max Factor Miracle Glow Polvos Iluminadores Tono 30 Deep - 50 gr
+prodname: 'Max Factor Miracle Glow Polvos Iluminadores Tono 30 Deep - 50 gr'
 ---
 
 Está [Max Factor Miracle Glow Polvos Iluminadores Tono 30 Deep - 50 gr](https://www.amazon.es/dp/B07B8PKXCK/?tag=tolees-21) con 79.17 de descuento por 2.5 EUR (original: 12.0 EUR) en el siguiente enlace!

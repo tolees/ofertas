@@ -14,7 +14,7 @@ currency: EUR
 price: 8.05
 comparePrice: 32.41 EUR
 inStock: true
-prodname: fischer - Luz LED para Bicicleta  a Pilas  Color Negro
+prodname: 'fischer - Luz LED para Bicicleta  a Pilas  Color Negro'
 ---
 
 Está [fischer - Luz LED para Bicicleta  a Pilas  Color Negro](https://www.amazon.es/dp/B01ING04JE/?tag=tolees-21) con 75.16 de descuento por 8.05 EUR (original: 32.41 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.35
 comparePrice: 19.19 EUR
 inStock: true
-prodname: BlackDecker A7102 - Kit de accesorios
+prodname: 'BlackDecker A7102 - Kit de accesorios'
 ---
 
 Ahora mismo tienes [BlackDecker A7102 - Kit de accesorios](https://www.amazon.es/dp/B00CJDQUSC/?tag=tolees-21) a 6.35 EUR (original: 19.19 EUR) (66.91 %  de descuento) en el siguiente enlace!

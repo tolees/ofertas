@@ -14,7 +14,7 @@ currency: EUR
 price: 23.0
 comparePrice: 51.11 EUR
 inStock: true
-prodname: Timex Reloj análogico de cuarzo para Unisex adulto con correa de nailon 77301
+prodname: 'Timex Reloj análogico de cuarzo para Unisex adulto con correa de nailon 77301'
 ---
 
 Tienes [Timex Reloj análogico de cuarzo para Unisex adulto con correa de nailon 77301](https://www.amazon.es/dp/B004VR9GCQ/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 23.0 EUR (original: 51.11 EUR) en el siguiente enlace!

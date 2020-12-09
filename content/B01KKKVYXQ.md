@@ -14,7 +14,7 @@ currency: EUR
 price: 169
 comparePrice: 249 EUR
 inStock: true
-prodname: Beoplay H5 - Auriculares inalámbricos In-Ear  Bluetooth 4.2  aptX  Li-Ion   Moss Green
+prodname: 'Beoplay H5 - Auriculares inalámbricos In-Ear  Bluetooth 4.2  aptX  Li-Ion   Moss Green'
 ---
 
 Tienes [Beoplay H5 - Auriculares inalámbricos In-Ear  Bluetooth 4.2  aptX  Li-Ion   Moss Green](https://www.amazon.es/dp/B01KKKVYXQ/?tag=tolees-21) con un 32.13 % de descuento con precio de oferta de 169 EUR (original: 249 EUR) en el siguiente enlace!

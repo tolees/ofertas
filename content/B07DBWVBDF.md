@@ -14,7 +14,7 @@ currency: EUR
 price: 33.01
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Puma NRGY Neko Sport  Zapatillas de Running para Hombre  Gris  Quarry White   40 EU
+prodname: 'Puma NRGY Neko Sport  Zapatillas de Running para Hombre  Gris  Quarry White   40 EU'
 ---
 
 Tienes [Puma NRGY Neko Sport  Zapatillas de Running para Hombre  Gris  Quarry White   40 EU](https://www.amazon.es/dp/B07DBWVBDF/?tag=tolees-21) con un 52.81 % de descuento con precio de oferta de 33.01 EUR (original: 69.95 EUR) en el siguiente enlace!

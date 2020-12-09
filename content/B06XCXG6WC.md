@@ -14,7 +14,7 @@ currency: EUR
 price: 8.23
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Cortefiel 6217788  Jersey para Mujer  Azul  L
+prodname: 'Cortefiel 6217788  Jersey para Mujer  Azul  L'
 ---
 
 Está [Cortefiel 6217788  Jersey para Mujer  Azul  L](https://www.amazon.es/dp/B06XCXG6WC/?tag=tolees-21) con 79.42 de descuento por 8.23 EUR (original: 39.99 EUR) en el siguiente enlace!

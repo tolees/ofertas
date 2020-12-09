@@ -14,7 +14,7 @@ currency: EUR
 price: 42.15
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Levi s Innovation Super Skinny Vaqueros  Azul  Echo Vibes 0069   W23/L30  Talla del Fabricante: 23 30  para Mujer
+prodname: 'Levi s Innovation Super Skinny Vaqueros  Azul  Echo Vibes 0069   W23/L30  Talla del Fabricante: 23 30  para Mujer'
 ---
 
 Está [Levi s Innovation Super Skinny Vaqueros  Azul  Echo Vibes 0069   W23/L30  Talla del Fabricante: 23 30  para Mujer](https://www.amazon.es/dp/B07S3WN3ND/?tag=tolees-21) con 64.88 de descuento por 42.15 EUR (original: 120.0 EUR) en el siguiente enlace!

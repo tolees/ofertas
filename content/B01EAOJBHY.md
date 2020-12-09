@@ -14,7 +14,7 @@ currency: EUR
 price: 133.43
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Western Digital My Passport Wireless Pro  Disco Duro Externo  1  Negro
+prodname: 'Western Digital My Passport Wireless Pro  Disco Duro Externo  1  Negro'
 ---
 
 Ahora mismo tienes [Western Digital My Passport Wireless Pro  Disco Duro Externo  1  Negro](https://www.amazon.es/dp/B01EAOJBHY/?tag=tolees-21) a 133.43 EUR (original: 179.99 EUR) (25.87 %  de descuento) en el siguiente enlace!

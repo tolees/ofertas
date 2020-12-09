@@ -14,7 +14,7 @@ currency: EUR
 price: 48.0
 comparePrice: 143.57 EUR
 inStock: true
-prodname: JOOAN Sistema de cámara de seguridad inalámbrica para el hogar  cámara de vigilancia HD con WiFi  para exteriores e interiores  con dos vías de audio  compatible con Alexa
+prodname: 'JOOAN Sistema de cámara de seguridad inalámbrica para el hogar  cámara de vigilancia HD con WiFi  para exteriores e interiores  con dos vías de audio  compatible con Alexa'
 ---
 
 Tienes [JOOAN Sistema de cámara de seguridad inalámbrica para el hogar  cámara de vigilancia HD con WiFi  para exteriores e interiores  con dos vías de audio  compatible con Alexa](https://www.amazon.es/dp/B081GRZ2LJ/?tag=tolees-21) con un 66.57 % de descuento con precio de oferta de 48.0 EUR (original: 143.57 EUR) en el siguiente enlace!

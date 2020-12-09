@@ -14,7 +14,7 @@ currency: EUR
 price: 18.89
 comparePrice: 59.95 EUR
 inStock: true
-prodname: hummel Slimmer Stadil High Jr  Zapatillas Altas Unisex Niños  Azul  Black Iris 1009   26 EU
+prodname: 'hummel Slimmer Stadil High Jr  Zapatillas Altas Unisex Niños  Azul  Black Iris 1009   26 EU'
 ---
 
 Ahora mismo tienes [hummel Slimmer Stadil High Jr  Zapatillas Altas Unisex Niños  Azul  Black Iris 1009   26 EU](https://www.amazon.es/dp/B07FMCJZHZ/?tag=tolees-21) a 18.89 EUR (original: 59.95 EUR) (68.49 %  de descuento) en el siguiente enlace!

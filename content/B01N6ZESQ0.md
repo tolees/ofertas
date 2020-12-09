@@ -14,7 +14,7 @@ currency: EUR
 price: 15.69
 comparePrice: 36.99 EUR
 inStock: true
-prodname: EasyAcc Ventilador de Mano Mudo Estupendo Portátil y Plegable con 3 velocidades 2600mAh LG Batería Recargable Rosa
+prodname: 'EasyAcc Ventilador de Mano Mudo Estupendo Portátil y Plegable con 3 velocidades 2600mAh LG Batería Recargable Rosa'
 ---
 
 Está [EasyAcc Ventilador de Mano Mudo Estupendo Portátil y Plegable con 3 velocidades 2600mAh LG Batería Recargable Rosa](https://www.amazon.es/dp/B01N6ZESQ0/?tag=tolees-21) con 57.58 de descuento por 15.69 EUR (original: 36.99 EUR) en el siguiente enlace!

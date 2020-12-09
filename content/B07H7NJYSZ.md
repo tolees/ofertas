@@ -14,7 +14,7 @@ currency: EUR
 price: 18.29
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Jack & Jones NOS Jaccrazy Solid Trunks 3 Pack Noos  Bóxer Hombre  Negro  Black Detail: Navy Blazer Black   X-Large
+prodname: 'Jack & Jones NOS Jaccrazy Solid Trunks 3 Pack Noos  Bóxer Hombre  Negro  Black Detail: Navy Blazer Black   X-Large'
 ---
 
 Está [Jack & Jones NOS Jaccrazy Solid Trunks 3 Pack Noos  Bóxer Hombre  Negro  Black Detail: Navy Blazer Black   X-Large](https://www.amazon.es/dp/B07H7NJYSZ/?tag=tolees-21) con 26.81 de descuento por 18.29 EUR (original: 24.99 EUR) en el siguiente enlace!

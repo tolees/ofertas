@@ -14,7 +14,7 @@ currency: EUR
 price: 83.86
 comparePrice: 124.25 EUR
 inStock: true
-prodname: Black Panther - Casco Electronico  Hasbro E1971EU4 
+prodname: 'Black Panther - Casco Electronico  Hasbro E1971EU4 '
 ---
 
 Está [Black Panther - Casco Electronico  Hasbro E1971EU4 ](https://www.amazon.es/dp/B07CMB1TSZ/?tag=tolees-21) con 32.51 de descuento por 83.86 EUR (original: 124.25 EUR) en el siguiente enlace!

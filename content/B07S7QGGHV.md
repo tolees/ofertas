@@ -14,7 +14,7 @@ currency: EUR
 price: 42.99
 comparePrice: 89.95 EUR
 inStock: true
-prodname: PUMA Cali Snake Wn S  Zapatillas Mujer  Negro Black/Gold  36 EU
+prodname: 'PUMA Cali Snake Wn S  Zapatillas Mujer  Negro Black/Gold  36 EU'
 ---
 
 Tienes [PUMA Cali Snake Wn S  Zapatillas Mujer  Negro Black/Gold  36 EU](https://www.amazon.es/dp/B07S7QGGHV/?tag=tolees-21) con un 52.21 % de descuento con precio de oferta de 42.99 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 349.95
 comparePrice: 620 EUR
 inStock: true
-prodname: Bestway Lay- Z-Spa Miami Spa Hinchable
+prodname: 'Bestway Lay- Z-Spa Miami Spa Hinchable'
 ---
 
 Tienes [Bestway Lay- Z-Spa Miami Spa Hinchable](https://www.amazon.es/dp/B00FQD6PUK/?tag=tolees-21) con un 43.56 % de descuento con precio de oferta de 349.95 EUR (original: 620 EUR) en el siguiente enlace!

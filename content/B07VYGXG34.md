@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
-prodname: GERUIKE Estante de Ducha Sin Taladrar en Aeronautico Rectangular Estanteria Baño Antioxidantes con Jabonera Organizador de Esponja para Baño Cocina Negro
+prodname: 'GERUIKE Estante de Ducha Sin Taladrar en Aeronautico Rectangular Estanteria Baño Antioxidantes con Jabonera Organizador de Esponja para Baño Cocina Negro'
 ---
 
 Tienes [GERUIKE Estante de Ducha Sin Taladrar en Aeronautico Rectangular Estanteria Baño Antioxidantes con Jabonera Organizador de Esponja para Baño Cocina Negro](https://www.amazon.es/dp/B07VYGXG34/?tag=tolees-21) con un 37.52 % de descuento con precio de oferta de 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

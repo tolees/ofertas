@@ -14,7 +14,7 @@ currency: EUR
 price: 31.53
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Quiksilver SCHOOLIEII M BKPK KVJ0 Mochila Grande  Hombre  Black  One Size
+prodname: 'Quiksilver SCHOOLIEII M BKPK KVJ0 Mochila Grande  Hombre  Black  One Size'
 ---
 
 Ahora mismo tienes [Quiksilver SCHOOLIEII M BKPK KVJ0 Mochila Grande  Hombre  Black  One Size](https://www.amazon.es/dp/B07DFVLPW6/?tag=tolees-21) a 31.53 EUR (original: 49.99 EUR) (36.93 %  de descuento) en el siguiente enlace!

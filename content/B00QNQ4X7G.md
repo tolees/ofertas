@@ -14,7 +14,7 @@ currency: EUR
 price: 17.31
 comparePrice: 37.95 EUR
 inStock: true
-prodname: Kappa Vyper  Zapatillas Deportivas para Interior Infantil  Amarillo-Gelb  4011 Yellow/Black   28 EU
+prodname: 'Kappa Vyper  Zapatillas Deportivas para Interior Infantil  Amarillo-Gelb  4011 Yellow/Black   28 EU'
 ---
 
 Ahora mismo tienes [Kappa Vyper  Zapatillas Deportivas para Interior Infantil  Amarillo-Gelb  4011 Yellow/Black   28 EU](https://www.amazon.es/dp/B00QNQ4X7G/?tag=tolees-21) a 17.31 EUR (original: 37.95 EUR) (54.39 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 78.03 EUR
 inStock: true
-prodname: Disco Duro Externo 1 TB  2.5" Disco Duro Externo USB3.0 Portable HDD Compatible with PC Xbox  Chromebook 1TB Negro 
+prodname: 'Disco Duro Externo 1 TB  2.5" Disco Duro Externo USB3.0 Portable HDD Compatible with PC Xbox  Chromebook 1TB Negro '
 ---
 
 Tienes [Disco Duro Externo 1 TB  2.5" Disco Duro Externo USB3.0 Portable HDD Compatible with PC Xbox  Chromebook 1TB Negro ](https://www.amazon.es/dp/B08NPJDMCN/?tag=tolees-21) con un 38.50 % de descuento con precio de oferta de 47.99 EUR (original: 78.03 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.04
 comparePrice: 44.96 EUR
 inStock: true
-prodname: Xnuoyo 10000mAh Power Bank Paquete de Baterías Externas Compatible con la Mayoría Teléfonos Inteligentes
+prodname: 'Xnuoyo 10000mAh Power Bank Paquete de Baterías Externas Compatible con la Mayoría Teléfonos Inteligentes'
 ---
 
 Está [Xnuoyo 10000mAh Power Bank Paquete de Baterías Externas Compatible con la Mayoría Teléfonos Inteligentes](https://www.amazon.es/dp/B07DJ8Y4MC/?tag=tolees-21) con 79.89 de descuento por 9.04 EUR (original: 44.96 EUR) en el siguiente enlace!

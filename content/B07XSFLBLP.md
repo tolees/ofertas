@@ -14,7 +14,7 @@ currency: EUR
 price: 87.99
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Ufesa CE7255 Cafetera Expresso y Capuccino con Panel Táctil Digital  Vaporizador Orientable  20  2 Modos: Café Molido o Monodosis  Filtros Bar Cream  Función Calienta Tazas  850 W
+prodname: 'Ufesa CE7255 Cafetera Expresso y Capuccino con Panel Táctil Digital  Vaporizador Orientable  20  2 Modos: Café Molido o Monodosis  Filtros Bar Cream  Función Calienta Tazas  850 W'
 ---
 
 Tienes [Ufesa CE7255 Cafetera Expresso y Capuccino con Panel Táctil Digital  Vaporizador Orientable  20  2 Modos: Café Molido o Monodosis  Filtros Bar Cream  Función Calienta Tazas  850 W](https://www.amazon.es/dp/B07XSFLBLP/?tag=tolees-21) con un 41.34 % de descuento con precio de oferta de 87.99 EUR (original: 149.99 EUR) en el siguiente enlace!

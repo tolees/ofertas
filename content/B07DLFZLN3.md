@@ -14,7 +14,7 @@ currency: EUR
 price: 7.96
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Springfield 7.J.Ap.T.Perla Brillo Jersey  Mujer  Gris  Gama Grises 41   Large  Tamaño del Fabricante:L 
+prodname: 'Springfield 7.J.Ap.T.Perla Brillo Jersey  Mujer  Gris  Gama Grises 41   Large  Tamaño del Fabricante:L '
 ---
 
 Está [Springfield 7.J.Ap.T.Perla Brillo Jersey  Mujer  Gris  Gama Grises 41   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLFZLN3/?tag=tolees-21) con 80.10 de descuento por 7.96 EUR (original: 39.99 EUR) en el siguiente enlace!

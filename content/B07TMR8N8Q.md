@@ -14,7 +14,7 @@ currency: EUR
 price: 12.9
 comparePrice: 24.9 EUR
 inStock: true
-prodname: 10 Mochilas para Colorear | 10 Bolsas Individuales con 5 Ceras de Colores y Globo | Regalo niños Fiestas y cumpleaños
+prodname: '10 Mochilas para Colorear | 10 Bolsas Individuales con 5 Ceras de Colores y Globo | Regalo niños Fiestas y cumpleaños'
 ---
 
 Ahora mismo tienes [10 Mochilas para Colorear | 10 Bolsas Individuales con 5 Ceras de Colores y Globo | Regalo niños Fiestas y cumpleaños](https://www.amazon.es/dp/B07TMR8N8Q/?tag=tolees-21) a 12.9 EUR (original: 24.9 EUR) (48.19 %  de descuento) en el siguiente enlace!

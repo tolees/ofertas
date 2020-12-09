@@ -14,7 +14,7 @@ currency: EUR
 price: 9.86
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Springfield Reg T7 Vi-c/71 Polo  Rosa  Pink 71   M  Tamaño del Fabricante: M  para Hombre
+prodname: 'Springfield Reg T7 Vi-c/71 Polo  Rosa  Pink 71   M  Tamaño del Fabricante: M  para Hombre'
 ---
 
 Tienes [Springfield Reg T7 Vi-c/71 Polo  Rosa  Pink 71   M  Tamaño del Fabricante: M  para Hombre](https://www.amazon.es/dp/B07W4WY9WF/?tag=tolees-21) con un 57.11 % de descuento con precio de oferta de 9.86 EUR (original: 22.99 EUR) en el siguiente enlace!

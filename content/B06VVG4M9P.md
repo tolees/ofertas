@@ -14,7 +14,7 @@ currency: EUR
 price: 29.97
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Targus CitySmart - Maletín para Transportar el portátil de 14  -15.6" y Sus Accesorios  Color Negro
+prodname: 'Targus CitySmart - Maletín para Transportar el portátil de 14  -15.6" y Sus Accesorios  Color Negro'
 ---
 
 Tienes [Targus CitySmart - Maletín para Transportar el portátil de 14  -15.6" y Sus Accesorios  Color Negro](https://www.amazon.es/dp/B06VVG4M9P/?tag=tolees-21) con un 45.50 % de descuento con precio de oferta de 29.97 EUR (original: 54.99 EUR) en el siguiente enlace!

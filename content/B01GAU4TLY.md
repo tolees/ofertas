@@ -14,7 +14,7 @@ currency: EUR
 price: 55.3
 comparePrice: 120 EUR
 inStock: true
-prodname: Ralph Lauren POLO 0PH4114 Gafas de sol  Matte Crystal Brown  55 para Mujer
+prodname: 'Ralph Lauren POLO 0PH4114 Gafas de sol  Matte Crystal Brown  55 para Mujer'
 ---
 
 Está [Ralph Lauren POLO 0PH4114 Gafas de sol  Matte Crystal Brown  55 para Mujer](https://www.amazon.es/dp/B01GAU4TLY/?tag=tolees-21) con 53.92 de descuento por 55.3 EUR (original: 120 EUR) en el siguiente enlace!

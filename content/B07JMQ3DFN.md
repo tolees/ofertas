@@ -14,7 +14,7 @@ currency: EUR
 price: 18.39
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 32055  Zapatos con Tira de Tobillo para Mujer  Negro  36 EU
+prodname: 'XTI 32055  Zapatos con Tira de Tobillo para Mujer  Negro  36 EU'
 ---
 
 Está [XTI 32055  Zapatos con Tira de Tobillo para Mujer  Negro  36 EU](https://www.amazon.es/dp/B07JMQ3DFN/?tag=tolees-21) con 63.18 de descuento por 18.39 EUR (original: 49.95 EUR) en el siguiente enlace!

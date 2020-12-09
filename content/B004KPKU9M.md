@@ -14,7 +14,7 @@ currency: EUR
 price: 31.98
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Casio Reloj de Pulsera LA670WEGA-1EF
+prodname: 'Casio Reloj de Pulsera LA670WEGA-1EF'
 ---
 
 Ahora mismo tienes [Casio Reloj de Pulsera LA670WEGA-1EF](https://www.amazon.es/dp/B004KPKU9M/?tag=tolees-21) a 31.98 EUR (original: 55.0 EUR) (41.85 %  de descuento) en el siguiente enlace!

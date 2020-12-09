@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Wrangler Logo tee Camiseta  Azul  Navy 114   Small para Hombre
+prodname: 'Wrangler Logo tee Camiseta  Azul  Navy 114   Small para Hombre'
 ---
 
 Tienes [Wrangler Logo tee Camiseta  Azul  Navy 114   Small para Hombre](https://www.amazon.es/dp/B07M8LKTM5/?tag=tolees-21) con un 34.89 % de descuento con precio de oferta de 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!

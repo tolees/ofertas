@@ -14,7 +14,7 @@ currency: EUR
 price: 24.97
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Azul  Royal/Steel 400   L
+prodname: 'Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Azul  Royal/Steel 400   L'
 ---
 
 Tienes [Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Azul  Royal/Steel 400   L](https://www.amazon.es/dp/B00KHTO1K4/?tag=tolees-21) con un 28.66 % de descuento con precio de oferta de 24.97 EUR (original: 35.0 EUR) en el siguiente enlace!

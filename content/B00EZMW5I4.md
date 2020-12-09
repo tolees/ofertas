@@ -14,7 +14,7 @@ currency: EUR
 price: 6.82
 comparePrice: 9.33 EUR
 inStock: true
-prodname: Weck 10074  Juntas para ollas y tarros  pack de 10
+prodname: 'Weck 10074  Juntas para ollas y tarros  pack de 10'
 ---
 
 Ahora mismo tienes [Weck 10074  Juntas para ollas y tarros  pack de 10](https://www.amazon.es/dp/B00EZMW5I4/?tag=tolees-21) a 6.82 EUR (original: 9.33 EUR) (26.90 %  de descuento) en el siguiente enlace!

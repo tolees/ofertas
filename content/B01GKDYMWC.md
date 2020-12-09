@@ -14,7 +14,7 @@ currency: EUR
 price: 27.97
 comparePrice: 39.95 EUR
 inStock: true
-prodname: adidas Vs Advantage Cl K  Zapatillas de Deporte Unisex Niños  Blanco  Ftwbla / Ftwbla / Verde   36 EU
+prodname: 'adidas Vs Advantage Cl K  Zapatillas de Deporte Unisex Niños  Blanco  Ftwbla / Ftwbla / Verde   36 EU'
 ---
 
 Tienes [adidas Vs Advantage Cl K  Zapatillas de Deporte Unisex Niños  Blanco  Ftwbla / Ftwbla / Verde   36 EU](https://www.amazon.es/dp/B01GKDYMWC/?tag=tolees-21) con un 29.99 % de descuento con precio de oferta de 27.97 EUR (original: 39.95 EUR) en el siguiente enlace!

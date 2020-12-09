@@ -14,7 +14,7 @@ currency: EUR
 price: 18.74
 comparePrice: 73.05 EUR
 inStock: true
-prodname: Hotter Nova  Zapatillas para Mujer  Azul  Navy 031   37 EU
+prodname: 'Hotter Nova  Zapatillas para Mujer  Azul  Navy 031   37 EU'
 ---
 
 Está [Hotter Nova  Zapatillas para Mujer  Azul  Navy 031   37 EU](https://www.amazon.es/dp/B07KQWXJRV/?tag=tolees-21) con 74.35 de descuento por 18.74 EUR (original: 73.05 EUR) en el siguiente enlace!

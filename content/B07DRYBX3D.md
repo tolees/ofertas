@@ -14,7 +14,7 @@ currency: EUR
 price: 16.15
 comparePrice: 55 EUR
 inStock: true
-prodname: Diadora Game S  Zapatillas de Gimnasia Unisex Adulto  Azul  BLU Profondo 60065   45 EU
+prodname: 'Diadora Game S  Zapatillas de Gimnasia Unisex Adulto  Azul  BLU Profondo 60065   45 EU'
 ---
 
 Ahora mismo tienes [Diadora Game S  Zapatillas de Gimnasia Unisex Adulto  Azul  BLU Profondo 60065   45 EU](https://www.amazon.es/dp/B07DRYBX3D/?tag=tolees-21) a 16.15 EUR (original: 55 EUR) (70.64 %  de descuento) en el siguiente enlace!

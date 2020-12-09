@@ -14,7 +14,7 @@ currency: EUR
 price: 18.79
 comparePrice: 25.4 EUR
 inStock: true
-prodname: Luces De Espiga de Jardín - GreeSuit Bolardo de Luz Solar Para Jardín Luces de Poste Solares Led de Jardín Camino de Acero Inoxidable Tubo Impermeable Seguridad al Aire Libre - 4 Paquetes  luz blanca 
+prodname: 'Luces De Espiga de Jardín - GreeSuit Bolardo de Luz Solar Para Jardín Luces de Poste Solares Led de Jardín Camino de Acero Inoxidable Tubo Impermeable Seguridad al Aire Libre - 4 Paquetes  luz blanca '
 ---
 
 Ahora mismo tienes [Luces De Espiga de Jardín - GreeSuit Bolardo de Luz Solar Para Jardín Luces de Poste Solares Led de Jardín Camino de Acero Inoxidable Tubo Impermeable Seguridad al Aire Libre - 4 Paquetes  luz blanca ](https://www.amazon.es/dp/B07GST2NR4/?tag=tolees-21) a 18.79 EUR (original: 25.4 EUR) (26.02 %  de descuento) en el siguiente enlace!

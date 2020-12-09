@@ -14,7 +14,7 @@ currency: EUR
 price: 219.0
 comparePrice: 299.0 EUR
 inStock: true
-prodname: COMMAND BAR con Alexa integrada
+prodname: 'COMMAND BAR con Alexa integrada'
 ---
 
 Tienes [COMMAND BAR con Alexa integrada](https://www.amazon.es/dp/B07CRHF5BZ/?tag=tolees-21) con un 26.76 % de descuento con precio de oferta de 219.0 EUR (original: 299.0 EUR) en el siguiente enlace!

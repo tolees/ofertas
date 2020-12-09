@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: ACCUWEIGHT Báscula de Cocina Digital Balanza Alimentos Electrónica con Plataforma de Acero Inoxidable para Peso de Comida  5 kg/11lbs
+prodname: 'ACCUWEIGHT Báscula de Cocina Digital Balanza Alimentos Electrónica con Plataforma de Acero Inoxidable para Peso de Comida  5 kg/11lbs'
 ---
 
 Tienes [ACCUWEIGHT Báscula de Cocina Digital Balanza Alimentos Electrónica con Plataforma de Acero Inoxidable para Peso de Comida  5 kg/11lbs](https://www.amazon.es/dp/B07BMNDW7F/?tag=tolees-21) con un 36.38 % de descuento con precio de oferta de 13.99 EUR (original: 21.99 EUR) en el siguiente enlace!

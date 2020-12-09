@@ -14,7 +14,7 @@ currency: EUR
 price: 49.53
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Clarks Un Aldric Walk  Zapatos de Cordones Derby Hombre  Negro  Black Leather   48 EU
+prodname: 'Clarks Un Aldric Walk  Zapatos de Cordones Derby Hombre  Negro  Black Leather   48 EU'
 ---
 
 Ahora mismo tienes [Clarks Un Aldric Walk  Zapatos de Cordones Derby Hombre  Negro  Black Leather   48 EU](https://www.amazon.es/dp/B07B8VX2VH/?tag=tolees-21) a 49.53 EUR (original: 110.0 EUR) (54.97 %  de descuento) en el siguiente enlace!

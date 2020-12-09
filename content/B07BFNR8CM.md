@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 27.95 EUR
 inStock: true
-prodname: los Barriguitas- Coche   Famosa 700014220 
+prodname: 'los Barriguitas- Coche   Famosa 700014220 '
 ---
 
 Ahora mismo tienes [los Barriguitas- Coche   Famosa 700014220 ](https://www.amazon.es/dp/B07BFNR8CM/?tag=tolees-21) a 16.95 EUR (original: 27.95 EUR) (39.36 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.2
 comparePrice: 59.99 EUR
 inStock: true
-prodname: PUMA Carina L  Zapatillas Mujer  Blanco White/White/Silver  39 EU
+prodname: 'PUMA Carina L  Zapatillas Mujer  Blanco White/White/Silver  39 EU'
 ---
 
 Está [PUMA Carina L  Zapatillas Mujer  Blanco White/White/Silver  39 EU](https://www.amazon.es/dp/B07JGHHVS8/?tag=tolees-21) con 49.66 de descuento por 30.2 EUR (original: 59.99 EUR) en el siguiente enlace!

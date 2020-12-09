@@ -14,7 +14,7 @@ currency: EUR
 price: 74.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Presentamos el Echo Show 8: mantén el contacto con la ayuda de Alexa  tela de color gris claro
+prodname: 'Presentamos el Echo Show 8: mantén el contacto con la ayuda de Alexa  tela de color gris claro'
 ---
 
 Tienes [Presentamos el Echo Show 8: mantén el contacto con la ayuda de Alexa  tela de color gris claro](https://www.amazon.es/dp/B07SNPKX63/?tag=tolees-21) con un 42.31 % de descuento con precio de oferta de 74.99 EUR (original: 129.99 EUR) en el siguiente enlace!

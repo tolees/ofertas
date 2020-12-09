@@ -14,7 +14,7 @@ currency: EUR
 price: 552.54
 comparePrice: 799 EUR
 inStock: true
-prodname: DJI Spark Fly More Combo - Dron cuadricóptero  full hd  12 mpx  50 km/h  16 minutos  6 accesorios - Color amarillo
+prodname: 'DJI Spark Fly More Combo - Dron cuadricóptero  full hd  12 mpx  50 km/h  16 minutos  6 accesorios - Color amarillo'
 ---
 
 Ahora mismo tienes [DJI Spark Fly More Combo - Dron cuadricóptero  full hd  12 mpx  50 km/h  16 minutos  6 accesorios - Color amarillo](https://www.amazon.es/dp/B071ZLSGW4/?tag=tolees-21) a 552.54 EUR (original: 799 EUR) (30.85 %  de descuento) en el siguiente enlace!

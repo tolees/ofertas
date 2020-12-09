@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 55.77 EUR
 inStock: true
-prodname: Auriculares Gaming PS4  Cascos Gaming Profesional con Flexible Cancelación de Ruido  Sonido Envolvente y Controladores Duales de 50 mm  Auriculares con Microfono para PC/Nintendo Switch/Xbox one Gamer
+prodname: 'Auriculares Gaming PS4  Cascos Gaming Profesional con Flexible Cancelación de Ruido  Sonido Envolvente y Controladores Duales de 50 mm  Auriculares con Microfono para PC/Nintendo Switch/Xbox one Gamer'
 ---
 
 Está [Auriculares Gaming PS4  Cascos Gaming Profesional con Flexible Cancelación de Ruido  Sonido Envolvente y Controladores Duales de 50 mm  Auriculares con Microfono para PC/Nintendo Switch/Xbox one Gamer](https://www.amazon.es/dp/B08HRLPDQK/?tag=tolees-21) con 46.23 de descuento por 29.99 EUR (original: 55.77 EUR) en el siguiente enlace!

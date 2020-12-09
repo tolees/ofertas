@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: STAR WARS BATTLEFRONT II - Standard | Código Origin para PC
+prodname: 'STAR WARS BATTLEFRONT II - Standard | Código Origin para PC'
 ---
 
 Está [STAR WARS BATTLEFRONT II - Standard | Código Origin para PC](https://www.amazon.es/dp/B07NC6CZXQ/?tag=tolees-21) con 64.03 de descuento por 8.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.6
 comparePrice: 18.65 EUR
 inStock: true
-prodname: PayForLess 570XL 571XL PGI-570 CLI-571 Cartuchos de Tinta Compatible para Canon PIXMA TS5050 TS5051 TS5055 MG5750 MG6850 MG5751 MG5700 MG5753 MG6851 MG6852（15 Paquete）
+prodname: 'PayForLess 570XL 571XL PGI-570 CLI-571 Cartuchos de Tinta Compatible para Canon PIXMA TS5050 TS5051 TS5055 MG5750 MG6850 MG5751 MG5700 MG5753 MG6851 MG6852（15 Paquete）'
 ---
 
 Tienes [PayForLess 570XL 571XL PGI-570 CLI-571 Cartuchos de Tinta Compatible para Canon PIXMA TS5050 TS5051 TS5055 MG5750 MG6850 MG5751 MG5700 MG5753 MG6851 MG6852（15 Paquete）](https://www.amazon.es/dp/B083BV7CBJ/?tag=tolees-21) con un 43.16 % de descuento con precio de oferta de 10.6 EUR (original: 18.65 EUR) en el siguiente enlace!

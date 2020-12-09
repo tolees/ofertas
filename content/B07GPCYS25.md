@@ -14,7 +14,7 @@ currency: EUR
 price: 13.5
 comparePrice: 29.99 EUR
 inStock: true
-prodname: JACK & JONES Jcoten Shirt Ls One Pocket  Camisa Hombre  Azul  Medium
+prodname: 'JACK & JONES Jcoten Shirt Ls One Pocket  Camisa Hombre  Azul  Medium'
 ---
 
 Tienes [JACK & JONES Jcoten Shirt Ls One Pocket  Camisa Hombre  Azul  Medium](https://www.amazon.es/dp/B07GPCYS25/?tag=tolees-21) con un 54.98 % de descuento con precio de oferta de 13.5 EUR (original: 29.99 EUR) en el siguiente enlace!

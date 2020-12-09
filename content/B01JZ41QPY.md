@@ -14,7 +14,7 @@ currency: EUR
 price: 9.19
 comparePrice: 54.95 EUR
 inStock: true
-prodname: VILA CLOTHES VILEICKA L/S DRESS  vestido Mujer  Negro  Black   40  Talla del fabricante: Large 
+prodname: 'VILA CLOTHES VILEICKA L/S DRESS  vestido Mujer  Negro  Black   40  Talla del fabricante: Large '
 ---
 
 Ahora mismo tienes [VILA CLOTHES VILEICKA L/S DRESS  vestido Mujer  Negro  Black   40  Talla del fabricante: Large ](https://www.amazon.es/dp/B01JZ41QPY/?tag=tolees-21) a 9.19 EUR (original: 54.95 EUR) (83.28 %  de descuento) en el siguiente enlace!

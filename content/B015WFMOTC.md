@@ -14,7 +14,7 @@ currency: EUR
 price: 12.66
 comparePrice: 79.94 EUR
 inStock: true
-prodname: Mavi Adriana  Azul para Mujer   Blau Overnight Glam fit   W24/L32
+prodname: 'Mavi Adriana  Azul para Mujer   Blau Overnight Glam fit   W24/L32'
 ---
 
 Está [Mavi Adriana  Azul para Mujer   Blau Overnight Glam fit   W24/L32](https://www.amazon.es/dp/B015WFMOTC/?tag=tolees-21) con 84.16 de descuento por 12.66 EUR (original: 79.94 EUR) en el siguiente enlace!

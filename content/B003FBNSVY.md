@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Med Brown Full Grain  39.5 EU
+prodname: 'Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Med Brown Full Grain  39.5 EU'
 ---
 
 Ahora mismo tienes [Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Med Brown Full Grain  39.5 EU](https://www.amazon.es/dp/B003FBNSVY/?tag=tolees-21) a 89.99 EUR (original: 140.0 EUR) (35.72 %  de descuento) en el siguiente enlace!

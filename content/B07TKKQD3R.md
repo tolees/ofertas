@@ -14,7 +14,7 @@ currency: EUR
 price: 11.24
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Superdry Collective tee Camiseta  Negro  Black 02a   XL para Hombre
+prodname: 'Superdry Collective tee Camiseta  Negro  Black 02a   XL para Hombre'
 ---
 
 Está [Superdry Collective tee Camiseta  Negro  Black 02a   XL para Hombre](https://www.amazon.es/dp/B07TKKQD3R/?tag=tolees-21) con 62.52 de descuento por 11.24 EUR (original: 29.99 EUR) en el siguiente enlace!

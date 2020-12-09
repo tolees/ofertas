@@ -14,7 +14,7 @@ currency: EUR
 price: 18.77
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Dockers by Gerli 38pd209  Zapatillas para Mujer  Gris  Dunkelgrau 220   42 EU
+prodname: 'Dockers by Gerli 38pd209  Zapatillas para Mujer  Gris  Dunkelgrau 220   42 EU'
 ---
 
 Tienes [Dockers by Gerli 38pd209  Zapatillas para Mujer  Gris  Dunkelgrau 220   42 EU](https://www.amazon.es/dp/B07DJFVTVP/?tag=tolees-21) con un 53.02 % de descuento con precio de oferta de 18.77 EUR (original: 39.95 EUR) en el siguiente enlace!

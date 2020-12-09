@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: MSI Immerse GH30 V2 Auriculares Gaming Plegables  con Micrófono  Ligeros  Color Negro
+prodname: 'MSI Immerse GH30 V2 Auriculares Gaming Plegables  con Micrófono  Ligeros  Color Negro'
 ---
 
 Está [MSI Immerse GH30 V2 Auriculares Gaming Plegables  con Micrófono  Ligeros  Color Negro](https://www.amazon.es/dp/B08BJBM4WJ/?tag=tolees-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

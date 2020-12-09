@@ -14,7 +14,7 @@ currency: EUR
 price: 37.95
 comparePrice: 94.9 EUR
 inStock: true
-prodname: Hilfiger Denim Tommy Jeans Flatform Sneaker  Zapatillas para Mujer  Morado  Pastel Lilac 519   36 EU
+prodname: 'Hilfiger Denim Tommy Jeans Flatform Sneaker  Zapatillas para Mujer  Morado  Pastel Lilac 519   36 EU'
 ---
 
 Tienes [Hilfiger Denim Tommy Jeans Flatform Sneaker  Zapatillas para Mujer  Morado  Pastel Lilac 519   36 EU](https://www.amazon.es/dp/B07L34HVWB/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 37.95 EUR (original: 94.9 EUR) en el siguiente enlace!

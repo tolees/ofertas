@@ -14,7 +14,7 @@ currency: EUR
 price: 13.38
 comparePrice: 18.19 EUR
 inStock: true
-prodname: Funko- Huckleberry-Pop 13 Collectible Toy  Multicolor  45545 
+prodname: 'Funko- Huckleberry-Pop 13 Collectible Toy  Multicolor  45545 '
 ---
 
 Está [Funko- Huckleberry-Pop 13 Collectible Toy  Multicolor  45545 ](https://www.amazon.es/dp/B07W8JRFXD/?tag=tolees-21) con 26.44 de descuento por 13.38 EUR (original: 18.19 EUR) en el siguiente enlace!

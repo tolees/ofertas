@@ -14,7 +14,7 @@ currency: EUR
 price: 32.35
 comparePrice: 65 EUR
 inStock: true
-prodname: Havaianas Unisex adulto TRANCOSO/M LS TDS Gafas de sol  Rosa  Fuchsia/Grey Grey   49
+prodname: 'Havaianas Unisex adulto TRANCOSO/M LS TDS Gafas de sol  Rosa  Fuchsia/Grey Grey   49'
 ---
 
 Está [Havaianas Unisex adulto TRANCOSO/M LS TDS Gafas de sol  Rosa  Fuchsia/Grey Grey   49](https://www.amazon.es/dp/B072ZQHBQW/?tag=tolees-21) con 50.23 de descuento por 32.35 EUR (original: 65 EUR) en el siguiente enlace!

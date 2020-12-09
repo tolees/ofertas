@@ -14,7 +14,7 @@ currency: EUR
 price: 1837.28
 comparePrice: 2788 EUR
 inStock: true
-prodname:  Campagnolo WH15-BOCFR - Rue J  Bora Ultra Two Cubierta Campa
+prodname: ' Campagnolo WH15-BOCFR - Rue J  Bora Ultra Two Cubierta Campa'
 ---
 
 Tienes [ Campagnolo WH15-BOCFR - Rue J  Bora Ultra Two Cubierta Campa](https://www.amazon.es/dp/B00TQ45YCU/?tag=tolees-21) con un 34.10 % de descuento con precio de oferta de 1837.28 EUR (original: 2788 EUR) en el siguiente enlace!

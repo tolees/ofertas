@@ -14,7 +14,7 @@ currency: EUR
 price: 20.65
 comparePrice: 87.99 EUR
 inStock: true
-prodname: Armani Exchange J15 Straight Indaco Denim Vaqueros  Azul 1500  W30/L34  Talla del Fabricante: 30  para Hombre
+prodname: 'Armani Exchange J15 Straight Indaco Denim Vaqueros  Azul 1500  W30/L34  Talla del Fabricante: 30  para Hombre'
 ---
 
 Ahora mismo tienes [Armani Exchange J15 Straight Indaco Denim Vaqueros  Azul 1500  W30/L34  Talla del Fabricante: 30  para Hombre](https://www.amazon.es/dp/B07JJC9JT5/?tag=tolees-21) a 20.65 EUR (original: 87.99 EUR) (76.53 %  de descuento) en el siguiente enlace!

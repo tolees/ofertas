@@ -14,7 +14,7 @@ currency: EUR
 price: 35.83
 comparePrice: 75 EUR
 inStock: true
-prodname: Under Armour Anomaly  Zapatos de Baloncesto para Hombre  Gris  Ash Taupe/Gray Flux/Black 102   41 EU
+prodname: 'Under Armour Anomaly  Zapatos de Baloncesto para Hombre  Gris  Ash Taupe/Gray Flux/Black 102   41 EU'
 ---
 
 Ahora mismo tienes [Under Armour Anomaly  Zapatos de Baloncesto para Hombre  Gris  Ash Taupe/Gray Flux/Black 102   41 EU](https://www.amazon.es/dp/B07CTLGS9R/?tag=tolees-21) a 35.83 EUR (original: 75 EUR) (52.23 %  de descuento) en el siguiente enlace!

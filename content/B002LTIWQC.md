@@ -14,7 +14,7 @@ currency: EUR
 price: 36.0
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Azul  Navy S 933   38 EU
+prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Azul  Navy S 933   38 EU'
 ---
 
 Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Azul  Navy S 933   38 EU](https://www.amazon.es/dp/B002LTIWQC/?tag=tolees-21) con 38.98 de descuento por 36.0 EUR (original: 59.0 EUR) en el siguiente enlace!

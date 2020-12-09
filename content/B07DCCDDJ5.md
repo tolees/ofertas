@@ -14,7 +14,7 @@ currency: EUR
 price: 25.89
 comparePrice: 48.0 EUR
 inStock: true
-prodname: Kappa Accio Hoodie Sudadera de Capucha  Hombre  Negro/Gris/Blanco  4XL
+prodname: 'Kappa Accio Hoodie Sudadera de Capucha  Hombre  Negro/Gris/Blanco  4XL'
 ---
 
 Ahora mismo tienes [Kappa Accio Hoodie Sudadera de Capucha  Hombre  Negro/Gris/Blanco  4XL](https://www.amazon.es/dp/B07DCCDDJ5/?tag=tolees-21) a 25.89 EUR (original: 48.0 EUR) (46.06 %  de descuento) en el siguiente enlace!

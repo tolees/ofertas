@@ -14,7 +14,7 @@ currency: EUR
 price: 19.86
 comparePrice: 38.28 EUR
 inStock: true
-prodname: Pikolin Home - Protector de colchón  tejido rizo  algodón  impermeable y transpirable  antiácaros  150x190/200cm-Cama 150  Todas las medidas 
+prodname: 'Pikolin Home - Protector de colchón  tejido rizo  algodón  impermeable y transpirable  antiácaros  150x190/200cm-Cama 150  Todas las medidas '
 ---
 
 Tienes [Pikolin Home - Protector de colchón  tejido rizo  algodón  impermeable y transpirable  antiácaros  150x190/200cm-Cama 150  Todas las medidas ](https://www.amazon.es/dp/B01EY7LO4A/?tag=tolees-21) con un 48.12 % de descuento con precio de oferta de 19.86 EUR (original: 38.28 EUR) en el siguiente enlace!

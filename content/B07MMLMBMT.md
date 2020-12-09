@@ -14,7 +14,7 @@ currency: EUR
 price: 6.77
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Jack & Jones NOS JJEHUGO tee SS Crew Neck Noos Camiseta  Morado  Toadstool Detail:Slim FIT   XXL para Hombre
+prodname: 'Jack & Jones NOS JJEHUGO tee SS Crew Neck Noos Camiseta  Morado  Toadstool Detail:Slim FIT   XXL para Hombre'
 ---
 
 Ahora mismo tienes [Jack & Jones NOS JJEHUGO tee SS Crew Neck Noos Camiseta  Morado  Toadstool Detail:Slim FIT   XXL para Hombre](https://www.amazon.es/dp/B07MMLMBMT/?tag=tolees-21) a 6.77 EUR (original: 17.99 EUR) (62.37 %  de descuento) en el siguiente enlace!

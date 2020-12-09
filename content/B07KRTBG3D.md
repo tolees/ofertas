@@ -14,7 +14,7 @@ currency: EUR
 price: 25.35
 comparePrice: 159 EUR
 inStock: true
-prodname: REPLAY Luz Vaqueros Skinny  Negro  Striped Black 130   W26/L32  Talla del Fabricante: 26  para Mujer
+prodname: 'REPLAY Luz Vaqueros Skinny  Negro  Striped Black 130   W26/L32  Talla del Fabricante: 26  para Mujer'
 ---
 
 Tienes [REPLAY Luz Vaqueros Skinny  Negro  Striped Black 130   W26/L32  Talla del Fabricante: 26  para Mujer](https://www.amazon.es/dp/B07KRTBG3D/?tag=tolees-21) con un 84.06 % de descuento con precio de oferta de 25.35 EUR (original: 159 EUR) en el siguiente enlace!

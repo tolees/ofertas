@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 6.99 EUR
 inStock: true
-prodname: B Blesiya Cubierta de Teclado Portátil Impermeable Compatible con HP 15.6 Pulgadas BF Extra Delgada Protección contra Derrames y Polvo - Arcoiris
+prodname: 'B Blesiya Cubierta de Teclado Portátil Impermeable Compatible con HP 15.6 Pulgadas BF Extra Delgada Protección contra Derrames y Polvo - Arcoiris'
 ---
 
 Tienes [B Blesiya Cubierta de Teclado Portátil Impermeable Compatible con HP 15.6 Pulgadas BF Extra Delgada Protección contra Derrames y Polvo - Arcoiris](https://www.amazon.es/dp/B07K6XCZP9/?tag=tolees-21) con un 42.92 % de descuento con precio de oferta de 3.99 EUR (original: 6.99 EUR) en el siguiente enlace!

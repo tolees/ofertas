@@ -14,7 +14,7 @@ currency: EUR
 price: 22.95
 comparePrice: 39 EUR
 inStock: true
-prodname: Cacharel Anais Anais Premier Delice Eau De Toilette 50Ml Vapo.
+prodname: 'Cacharel Anais Anais Premier Delice Eau De Toilette 50Ml Vapo.'
 ---
 
 Tienes [Cacharel Anais Anais Premier Delice Eau De Toilette 50Ml Vapo.](https://www.amazon.es/dp/B00JNX6C5C/?tag=tolees-21) con un 41.15 % de descuento con precio de oferta de 22.95 EUR (original: 39 EUR) en el siguiente enlace!

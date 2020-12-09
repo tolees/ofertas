@@ -14,7 +14,7 @@ currency: EUR
 price: 28.67
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Uprise Mesh  Zapatillas Unisex Adults’o  Rosa  Winsome Orchid Whisper White   37 EU
+prodname: 'Puma Uprise Mesh  Zapatillas Unisex Adults’o  Rosa  Winsome Orchid Whisper White   37 EU'
 ---
 
 Ahora mismo tienes [Puma Uprise Mesh  Zapatillas Unisex Adults’o  Rosa  Winsome Orchid Whisper White   37 EU](https://www.amazon.es/dp/B07CZ5HZSP/?tag=tolees-21) a 28.67 EUR (original: 89.95 EUR) (68.13 %  de descuento) en el siguiente enlace!

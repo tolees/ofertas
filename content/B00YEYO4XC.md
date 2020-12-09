@@ -14,7 +14,7 @@ currency: EUR
 price: 21.49
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Columbia Midweight Stretch C Camiseta Térmica de Manga Larga  Hombre  Negro  M
+prodname: 'Columbia Midweight Stretch C Camiseta Térmica de Manga Larga  Hombre  Negro  M'
 ---
 
 Está [Columbia Midweight Stretch C Camiseta Térmica de Manga Larga  Hombre  Negro  M](https://www.amazon.es/dp/B00YEYO4XC/?tag=tolees-21) con 57.01 de descuento por 21.49 EUR (original: 49.99 EUR) en el siguiente enlace!

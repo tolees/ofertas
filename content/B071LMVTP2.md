@@ -14,7 +14,7 @@ currency: EUR
 price: 12.37
 comparePrice: 17.59 EUR
 inStock: true
-prodname: Schwarzkopf Gliss Champú Seco Volumen - 200 ml  pack de 6  Total: 1200 ml
+prodname: 'Schwarzkopf Gliss Champú Seco Volumen - 200 ml  pack de 6  Total: 1200 ml'
 ---
 
 Está [Schwarzkopf Gliss Champú Seco Volumen - 200 ml  pack de 6  Total: 1200 ml](https://www.amazon.es/dp/B071LMVTP2/?tag=tolees-21) con 29.68 de descuento por 12.37 EUR (original: 17.59 EUR) en el siguiente enlace!

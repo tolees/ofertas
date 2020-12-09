@@ -14,7 +14,7 @@ currency: EUR
 price: 18.81
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Barbie Dreamtopia  muñeca Sirena Luces de Arcoíris  regalo para niñas y niños 3-9 años  Mattel DHC40 
+prodname: 'Barbie Dreamtopia  muñeca Sirena Luces de Arcoíris  regalo para niñas y niños 3-9 años  Mattel DHC40 '
 ---
 
 Ahora mismo tienes [Barbie Dreamtopia  muñeca Sirena Luces de Arcoíris  regalo para niñas y niños 3-9 años  Mattel DHC40 ](https://www.amazon.es/dp/B015CCR1FW/?tag=tolees-21) a 18.81 EUR (original: 26.99 EUR) (30.31 %  de descuento) en el siguiente enlace!

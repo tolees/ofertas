@@ -14,7 +14,7 @@ currency: EUR
 price: 17.92
 comparePrice: 26.88 EUR
 inStock: true
-prodname: Curren Original para Mujer  Deportes  Deportes  Acero Inoxidable  Cuarzo  Calendario  Fecha  Reloj de Pulsera 9010
+prodname: 'Curren Original para Mujer  Deportes  Deportes  Acero Inoxidable  Cuarzo  Calendario  Fecha  Reloj de Pulsera 9010'
 ---
 
 Ahora mismo tienes [Curren Original para Mujer  Deportes  Deportes  Acero Inoxidable  Cuarzo  Calendario  Fecha  Reloj de Pulsera 9010](https://www.amazon.es/dp/B07JNNJK3F/?tag=tolees-21) a 17.92 EUR (original: 26.88 EUR) (33.33 %  de descuento) en el siguiente enlace!

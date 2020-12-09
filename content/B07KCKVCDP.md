@@ -14,7 +14,7 @@ currency: EUR
 price: 13.23
 comparePrice: 22.5 EUR
 inStock: true
-prodname: David Jones - 5944-2  Bolsos bandolera Mujer  Azul  L.Blue   5x23x22 cm  W x H L 
+prodname: 'David Jones - 5944-2  Bolsos bandolera Mujer  Azul  L.Blue   5x23x22 cm  W x H L '
 ---
 
 Está [David Jones - 5944-2  Bolsos bandolera Mujer  Azul  L.Blue   5x23x22 cm  W x H L ](https://www.amazon.es/dp/B07KCKVCDP/?tag=tolees-21) con 41.20 de descuento por 13.23 EUR (original: 22.5 EUR) en el siguiente enlace!

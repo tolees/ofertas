@@ -14,7 +14,7 @@ currency: EUR
 price: 8.61
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Funko Pop! Fortnite 458 Zoey Vinyl Figure  Multicolor  Estándar
+prodname: 'Funko Pop! Fortnite 458 Zoey Vinyl Figure  Multicolor  Estándar'
 ---
 
 Está [Funko Pop! Fortnite 458 Zoey Vinyl Figure  Multicolor  Estándar](https://www.amazon.es/dp/B07L4JLPZY/?tag=tolees-21) con 46.02 de descuento por 8.61 EUR (original: 15.95 EUR) en el siguiente enlace!

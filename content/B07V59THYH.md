@@ -14,7 +14,7 @@ currency: EUR
 price: 83.3
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1791652
+prodname: 'Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1791652'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1791652](https://www.amazon.es/dp/B07V59THYH/?tag=tolees-21) a 83.3 EUR (original: 119.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

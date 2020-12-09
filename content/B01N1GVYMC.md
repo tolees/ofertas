@@ -14,7 +14,7 @@ currency: EUR
 price: 31.12
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Puma Ignite Dual Swan Wn s  Zapatillas de Running para Mujer  Blanco White-Quarry 02  40 EU
+prodname: 'Puma Ignite Dual Swan Wn s  Zapatillas de Running para Mujer  Blanco White-Quarry 02  40 EU'
 ---
 
 Está [Puma Ignite Dual Swan Wn s  Zapatillas de Running para Mujer  Blanco White-Quarry 02  40 EU](https://www.amazon.es/dp/B01N1GVYMC/?tag=tolees-21) con 71.70 de descuento por 31.12 EUR (original: 109.95 EUR) en el siguiente enlace!

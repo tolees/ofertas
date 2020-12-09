@@ -14,7 +14,7 @@ currency: EUR
 price: 29.85
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Reebok Cmplt CLN LX  Zapatillas de Gimnasia para Hombre  Blanco White/Collegiate Royal  45 EU
+prodname: 'Reebok Cmplt CLN LX  Zapatillas de Gimnasia para Hombre  Blanco White/Collegiate Royal  45 EU'
 ---
 
 Tienes [Reebok Cmplt CLN LX  Zapatillas de Gimnasia para Hombre  Blanco White/Collegiate Royal  45 EU](https://www.amazon.es/dp/B073RJXJBL/?tag=tolees-21) con un 57.33 % de descuento con precio de oferta de 29.85 EUR (original: 69.95 EUR) en el siguiente enlace!

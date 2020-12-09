@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 16.95 EUR
 inStock: true
-prodname: Nenuco Bolso Cambiador  Famosa 700012161 
+prodname: 'Nenuco Bolso Cambiador  Famosa 700012161 '
 ---
 
 Tienes [Nenuco Bolso Cambiador  Famosa 700012161 ](https://www.amazon.es/dp/B00SRFAOM4/?tag=tolees-21) con un 29.26 % de descuento con precio de oferta de 11.99 EUR (original: 16.95 EUR) en el siguiente enlace!

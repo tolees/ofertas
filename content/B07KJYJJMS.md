@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Saucony Jazz Original Vitnage  Zapatillas para Hombre  Verde  Verde Oliva 88   40.5 EU
+prodname: 'Saucony Jazz Original Vitnage  Zapatillas para Hombre  Verde  Verde Oliva 88   40.5 EU'
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vitnage  Zapatillas para Hombre  Verde  Verde Oliva 88   40.5 EU](https://www.amazon.es/dp/B07KJYJJMS/?tag=tolees-21) a 69.0 EUR (original: 95.0 EUR) (27.37 %  de descuento) en el siguiente enlace!

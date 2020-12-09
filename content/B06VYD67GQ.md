@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 5.9 EUR
 inStock: true
-prodname: L Oreal Paris Dermo Expertise - Arcillas puras gel limpiador exfoliante  color rojo - 150 ml
+prodname: 'L Oreal Paris Dermo Expertise - Arcillas puras gel limpiador exfoliante  color rojo - 150 ml'
 ---
 
 Está [L Oreal Paris Dermo Expertise - Arcillas puras gel limpiador exfoliante  color rojo - 150 ml](https://www.amazon.es/dp/B06VYD67GQ/?tag=tolees-21) con 32.37 de descuento por 3.99 EUR (original: 5.9 EUR) en el siguiente enlace!

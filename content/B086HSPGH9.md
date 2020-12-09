@@ -14,7 +14,7 @@ currency: EUR
 price: 3.44
 comparePrice: 4.99 EUR
 inStock: true
-prodname: Champú Herbal Essences Bio: Renew sin Sulfatos con Aloe Intenso Y Bambú  en Colaboración con el Royal Botanic Gardens de KEW
+prodname: 'Champú Herbal Essences Bio: Renew sin Sulfatos con Aloe Intenso Y Bambú  en Colaboración con el Royal Botanic Gardens de KEW'
 ---
 
 Está [Champú Herbal Essences Bio: Renew sin Sulfatos con Aloe Intenso Y Bambú  en Colaboración con el Royal Botanic Gardens de KEW](https://www.amazon.es/dp/B086HSPGH9/?tag=tolees-21) con 31.06 de descuento por 3.44 EUR (original: 4.99 EUR) en el siguiente enlace!

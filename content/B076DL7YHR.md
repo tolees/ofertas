@@ -14,7 +14,7 @@ currency: EUR
 price: 56.48
 comparePrice: 85.9 EUR
 inStock: true
-prodname: Pacsafe 60505100 Nylon  Poliéster Negro Mochila - Mochila para portátiles y netbooks  Nylon  Poliéster  Negro  Monótono  210 D  Hombres  25 4 cm  10"  
+prodname: 'Pacsafe 60505100 Nylon  Poliéster Negro Mochila - Mochila para portátiles y netbooks  Nylon  Poliéster  Negro  Monótono  210 D  Hombres  25 4 cm  10"  '
 ---
 
 Tienes [Pacsafe 60505100 Nylon  Poliéster Negro Mochila - Mochila para portátiles y netbooks  Nylon  Poliéster  Negro  Monótono  210 D  Hombres  25 4 cm  10"  ](https://www.amazon.es/dp/B076DL7YHR/?tag=tolees-21) con un 34.25 % de descuento con precio de oferta de 56.48 EUR (original: 85.9 EUR) en el siguiente enlace!

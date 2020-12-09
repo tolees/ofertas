@@ -14,7 +14,7 @@ currency: EUR
 price: 2.8
 comparePrice: 7.2 EUR
 inStock: true
-prodname: Playgro Mini-patos para el baño  4 Piezas  Totalmente sellados  Resistentes al agua y la suciedad  Ideales para el baño del bebé  A partir de 6 meses  Libres de BPA  Colorido  40212
+prodname: 'Playgro Mini-patos para el baño  4 Piezas  Totalmente sellados  Resistentes al agua y la suciedad  Ideales para el baño del bebé  A partir de 6 meses  Libres de BPA  Colorido  40212'
 ---
 
 Ahora mismo tienes [Playgro Mini-patos para el baño  4 Piezas  Totalmente sellados  Resistentes al agua y la suciedad  Ideales para el baño del bebé  A partir de 6 meses  Libres de BPA  Colorido  40212](https://www.amazon.es/dp/B081JXJMSG/?tag=tolees-21) a 2.8 EUR (original: 7.2 EUR) (61.11 %  de descuento) en el siguiente enlace!

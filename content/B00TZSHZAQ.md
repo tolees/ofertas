@@ -14,7 +14,7 @@ currency: EUR
 price: 109.99
 comparePrice: 499 EUR
 inStock: true
-prodname: Colchón viscoelástico París 90X200  18 cm
+prodname: 'Colchón viscoelástico París 90X200  18 cm'
 ---
 
 Ahora mismo tienes [Colchón viscoelástico París 90X200  18 cm](https://www.amazon.es/dp/B00TZSHZAQ/?tag=tolees-21) a 109.99 EUR (original: 499 EUR) (77.96 %  de descuento) en el siguiente enlace!

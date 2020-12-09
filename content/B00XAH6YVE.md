@@ -14,7 +14,7 @@ currency: EUR
 price: 1
 comparePrice: 2 EUR
 inStock: true
-prodname: Fixpray 7203475000 - Laca normal  400 ml
+prodname: 'Fixpray 7203475000 - Laca normal  400 ml'
 ---
 
 Está [Fixpray 7203475000 - Laca normal  400 ml](https://www.amazon.es/dp/B00XAH6YVE/?tag=tolees-21) con 50.00 de descuento por 1 EUR (original: 2 EUR) en el siguiente enlace!

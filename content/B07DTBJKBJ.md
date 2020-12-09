@@ -14,7 +14,7 @@ currency: EUR
 price: 7.11
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour - Pantalón Corto para niña  niña  1291712-408  Academy/Deceit  para jóvenes XL
+prodname: 'Under Armour - Pantalón Corto para niña  niña  1291712-408  Academy/Deceit  para jóvenes XL'
 ---
 
 Tienes [Under Armour - Pantalón Corto para niña  niña  1291712-408  Academy/Deceit  para jóvenes XL](https://www.amazon.es/dp/B07DTBJKBJ/?tag=tolees-21) con un 72.65 % de descuento con precio de oferta de 7.11 EUR (original: 26 EUR) en el siguiente enlace!

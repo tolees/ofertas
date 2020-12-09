@@ -14,7 +14,7 @@ currency: EUR
 price: 28.42
 comparePrice: 41.03 EUR
 inStock: true
-prodname: Banpresto-BP39846 One Piece Zoro Figura Coleccionable Wano Kuni  Multicolor  Bandai BP39846 
+prodname: 'Banpresto-BP39846 One Piece Zoro Figura Coleccionable Wano Kuni  Multicolor  Bandai BP39846 '
 ---
 
 Está [Banpresto-BP39846 One Piece Zoro Figura Coleccionable Wano Kuni  Multicolor  Bandai BP39846 ](https://www.amazon.es/dp/B07VDBFP94/?tag=tolees-21) con 30.73 de descuento por 28.42 EUR (original: 41.03 EUR) en el siguiente enlace!

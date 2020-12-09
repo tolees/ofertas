@@ -14,7 +14,7 @@ currency: EUR
 price: 40.0
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Pack Alfred Hitchcock Classics Collection  4 Películas   Psicosis  Vértigo  La Ventana Indiscreta  Los Pajaros   4K UHD + BD  [Blu-ray]
+prodname: 'Pack Alfred Hitchcock Classics Collection  4 Películas   Psicosis  Vértigo  La Ventana Indiscreta  Los Pajaros   4K UHD + BD  [Blu-ray]'
 ---
 
 Ahora mismo tienes [Pack Alfred Hitchcock Classics Collection  4 Películas   Psicosis  Vértigo  La Ventana Indiscreta  Los Pajaros   4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B08BTZ2SH7/?tag=tolees-21) a 40.0 EUR (original: 79.99 EUR) (49.99 %  de descuento) en el siguiente enlace!

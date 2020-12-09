@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Fantasy Flight Games Star Wars: X-Wing - Pack Espíritu  Juego de Mesa  Edge Entertainment EDGSWX39 
+prodname: 'Fantasy Flight Games Star Wars: X-Wing - Pack Espíritu  Juego de Mesa  Edge Entertainment EDGSWX39 '
 ---
 
 Ahora mismo tienes [Fantasy Flight Games Star Wars: X-Wing - Pack Espíritu  Juego de Mesa  Edge Entertainment EDGSWX39 ](https://www.amazon.es/dp/B01DWI5ZVU/?tag=tolees-21) a 24.99 EUR (original: 49.95 EUR) (49.97 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.31
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Puma Modern Sport Pantalones  Mujer  Negro  51   XS
+prodname: 'Puma Modern Sport Pantalones  Mujer  Negro  51   XS'
 ---
 
 Está [Puma Modern Sport Pantalones  Mujer  Negro  51   XS](https://www.amazon.es/dp/B07DFRWPSK/?tag=tolees-21) con 52.59 de descuento por 21.31 EUR (original: 44.95 EUR) en el siguiente enlace!

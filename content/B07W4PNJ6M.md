@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Almohadilla eléctrica térmica  Almohadilla de calefaccion  Manta electrica  Electrica Lumbar Cervical y Espalda Calefacción  Calentamiento ultrarápido  Función apagado automático  70 * 34cm
+prodname: 'Almohadilla eléctrica térmica  Almohadilla de calefaccion  Manta electrica  Electrica Lumbar Cervical y Espalda Calefacción  Calentamiento ultrarápido  Función apagado automático  70 * 34cm'
 ---
 
 Está [Almohadilla eléctrica térmica  Almohadilla de calefaccion  Manta electrica  Electrica Lumbar Cervical y Espalda Calefacción  Calentamiento ultrarápido  Función apagado automático  70 * 34cm](https://www.amazon.es/dp/B07W4PNJ6M/?tag=tolees-21) con 61.26 de descuento por 30.99 EUR (original: 79.99 EUR) en el siguiente enlace!

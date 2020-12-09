@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Crash Team Racing Nitro Fueled
+prodname: 'Crash Team Racing Nitro Fueled'
 ---
 
 Tienes [Crash Team Racing Nitro Fueled](https://www.amazon.es/dp/B07LFJNBXJ/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 19.9 EUR (original: 39.99 EUR) en el siguiente enlace!

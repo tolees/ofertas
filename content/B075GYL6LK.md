@@ -14,7 +14,7 @@ currency: EUR
 price: 21.53
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Desigual TS_Sydney  Camiseta para Niñas   Rosa Palido 3025   116  Talla del Fabricante: 5/6 
+prodname: 'Desigual TS_Sydney  Camiseta para Niñas   Rosa Palido 3025   116  Talla del Fabricante: 5/6 '
 ---
 
 Está [Desigual TS_Sydney  Camiseta para Niñas   Rosa Palido 3025   116  Talla del Fabricante: 5/6 ](https://www.amazon.es/dp/B075GYL6LK/?tag=tolees-21) con 28.11 de descuento por 21.53 EUR (original: 29.95 EUR) en el siguiente enlace!

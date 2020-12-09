@@ -14,7 +14,7 @@ currency: EUR
 price: 51.84
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Camper WABI 20889-061 Zapatillas Mujer 36
+prodname: 'Camper WABI 20889-061 Zapatillas Mujer 36'
 ---
 
 Ahora mismo tienes [Camper WABI 20889-061 Zapatillas Mujer 36](https://www.amazon.es/dp/B01C7OW5DG/?tag=tolees-21) a 51.84 EUR (original: 70.0 EUR) (25.94 %  de descuento) en el siguiente enlace!

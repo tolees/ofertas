@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Desigual TS_Nisa  Camiseta para Mujer    Marino 5001  Small
+prodname: 'Desigual TS_Nisa  Camiseta para Mujer    Marino 5001  Small'
 ---
 
 Está [Desigual TS_Nisa  Camiseta para Mujer    Marino 5001  Small](https://www.amazon.es/dp/B079SMCZMF/?tag=tolees-21) con 70.99 de descuento por 14.49 EUR (original: 49.95 EUR) en el siguiente enlace!

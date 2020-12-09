@@ -14,7 +14,7 @@ currency: EUR
 price: 23.35
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans Pixie PL210004Y  Pantalones para Mujer  Negro  Black 999   W32/L30
+prodname: 'Pepe Jeans Pixie PL210004Y  Pantalones para Mujer  Negro  Black 999   W32/L30'
 ---
 
 Tienes [Pepe Jeans Pixie PL210004Y  Pantalones para Mujer  Negro  Black 999   W32/L30](https://www.amazon.es/dp/B07C3TPRFB/?tag=tolees-21) con un 75.42 % de descuento con precio de oferta de 23.35 EUR (original: 95 EUR) en el siguiente enlace!

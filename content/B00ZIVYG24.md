@@ -14,7 +14,7 @@ currency: EUR
 price: 10.49
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Mirror s Edge Catalyst
+prodname: 'Mirror s Edge Catalyst'
 ---
 
 Ahora mismo tienes [Mirror s Edge Catalyst](https://www.amazon.es/dp/B00ZIVYG24/?tag=tolees-21) a 10.49 EUR (original: 19.95 EUR) (47.42 %  de descuento) en el siguiente enlace!

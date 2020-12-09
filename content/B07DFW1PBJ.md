@@ -14,7 +14,7 @@ currency: EUR
 price: 25
 comparePrice: 40 EUR
 inStock: true
-prodname: New Balance 570  Zapatillas de Running Unisex Niños  Rosa Purple Pink  38 EU
+prodname: 'New Balance 570  Zapatillas de Running Unisex Niños  Rosa Purple Pink  38 EU'
 ---
 
 Está [New Balance 570  Zapatillas de Running Unisex Niños  Rosa Purple Pink  38 EU](https://www.amazon.es/dp/B07DFW1PBJ/?tag=tolees-21) con 37.50 de descuento por 25 EUR (original: 40 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 59.93
 comparePrice: 79.95 EUR
 inStock: true
-prodname: BLACK+DECKER  DVJ315J-QW - Aspirador de mano 10.8V  610 ml
+prodname: 'BLACK+DECKER  DVJ315J-QW - Aspirador de mano 10.8V  610 ml'
 ---
 
 Tienes [BLACK+DECKER  DVJ315J-QW - Aspirador de mano 10.8V  610 ml](https://www.amazon.es/dp/B01C2JTE8K/?tag=tolees-21) con un 25.04 % de descuento con precio de oferta de 59.93 EUR (original: 79.95 EUR) en el siguiente enlace!

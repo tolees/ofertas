@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Sailnovo Antorcha de jardín con 96 LED a prueba de agua IP65
+prodname: 'Sailnovo Antorcha de jardín con 96 LED a prueba de agua IP65'
 ---
 
 Ahora mismo tienes [Sailnovo Antorcha de jardín con 96 LED a prueba de agua IP65](https://www.amazon.es/dp/B079DN4KMN/?tag=tolees-21) a 9.99 EUR (original: 59.99 EUR) (83.35 %  de descuento) en el siguiente enlace!

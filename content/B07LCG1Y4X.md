@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 45.68 EUR
 inStock: true
-prodname: GRIFEMA Porto Grifo para bañera y ducha  Con alcachofa  manguera y soporte  Color Cromo
+prodname: 'GRIFEMA Porto Grifo para bañera y ducha  Con alcachofa  manguera y soporte  Color Cromo'
 ---
 
 Ahora mismo tienes [GRIFEMA Porto Grifo para bañera y ducha  Con alcachofa  manguera y soporte  Color Cromo](https://www.amazon.es/dp/B07LCG1Y4X/?tag=tolees-21) a 33.99 EUR (original: 45.68 EUR) (25.59 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 63.45
 comparePrice: 201.99 EUR
 inStock: true
-prodname: San Ignacio PK1412 Premium BATERIA 8 Piezas + 4 fiambreras + 3 Utensilios  Acero Inoxidable
+prodname: 'San Ignacio PK1412 Premium BATERIA 8 Piezas + 4 fiambreras + 3 Utensilios  Acero Inoxidable'
 ---
 
 Ahora mismo tienes [San Ignacio PK1412 Premium BATERIA 8 Piezas + 4 fiambreras + 3 Utensilios  Acero Inoxidable](https://www.amazon.es/dp/B07RPB9MQ9/?tag=tolees-21) a 63.45 EUR (original: 201.99 EUR) (68.59 %  de descuento) en el siguiente enlace!

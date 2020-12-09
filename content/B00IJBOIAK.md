@@ -14,7 +14,7 @@ currency: EUR
 price: 6.4
 comparePrice: 9.95 EUR
 inStock: true
-prodname: Educa Avengers 2 Puzzles infantiles de 48 piezas  a partir de 3 años  15932 
+prodname: 'Educa Avengers 2 Puzzles infantiles de 48 piezas  a partir de 3 años  15932 '
 ---
 
 Ahora mismo tienes [Educa Avengers 2 Puzzles infantiles de 48 piezas  a partir de 3 años  15932 ](https://www.amazon.es/dp/B00IJBOIAK/?tag=tolees-21) a 6.4 EUR (original: 9.95 EUR) (35.68 %  de descuento) en el siguiente enlace!

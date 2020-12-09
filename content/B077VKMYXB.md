@@ -14,7 +14,7 @@ currency: EUR
 price: 24.49
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Satisfyer Estimulador de Clítoris Pro G-Sport Rabbit - 1 Unidad
+prodname: 'Satisfyer Estimulador de Clítoris Pro G-Sport Rabbit - 1 Unidad'
 ---
 
 Está [Satisfyer Estimulador de Clítoris Pro G-Sport Rabbit - 1 Unidad](https://www.amazon.es/dp/B077VKMYXB/?tag=tolees-21) con 59.15 de descuento por 24.49 EUR (original: 59.95 EUR) en el siguiente enlace!

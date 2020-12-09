@@ -14,7 +14,7 @@ currency: EUR
 price: 17.11
 comparePrice: 45.99 EUR
 inStock: true
-prodname: Tom Tailor Denim - Riana  Bolsos bandolera Mujer  Negro  Schwarz   25x15x5 cm  B x H T 
+prodname: 'Tom Tailor Denim - Riana  Bolsos bandolera Mujer  Negro  Schwarz   25x15x5 cm  B x H T '
 ---
 
 Está [Tom Tailor Denim - Riana  Bolsos bandolera Mujer  Negro  Schwarz   25x15x5 cm  B x H T ](https://www.amazon.es/dp/B07G8SK7RQ/?tag=tolees-21) con 62.80 de descuento por 17.11 EUR (original: 45.99 EUR) en el siguiente enlace!

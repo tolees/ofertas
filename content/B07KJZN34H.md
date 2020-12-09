@@ -14,7 +14,7 @@ currency: EUR
 price: 12.0
 comparePrice: 24.0 EUR
 inStock: true
-prodname: Under Armour Crossbody Bolso de Hombro  Unisex  Negro  Black/Black/White 001   Talla única
+prodname: 'Under Armour Crossbody Bolso de Hombro  Unisex  Negro  Black/Black/White 001   Talla única'
 ---
 
 Ahora mismo tienes [Under Armour Crossbody Bolso de Hombro  Unisex  Negro  Black/Black/White 001   Talla única](https://www.amazon.es/dp/B07KJZN34H/?tag=tolees-21) a 12.0 EUR (original: 24.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

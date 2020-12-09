@@ -14,7 +14,7 @@ currency: EUR
 price: 34.79
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Munich G-3 Jeans  Zapatillas de Deporte Unisex Adulto   Marron 951   40 EU
+prodname: 'Munich G-3 Jeans  Zapatillas de Deporte Unisex Adulto   Marron 951   40 EU'
 ---
 
 Ahora mismo tienes [Munich G-3 Jeans  Zapatillas de Deporte Unisex Adulto   Marron 951   40 EU](https://www.amazon.es/dp/B07N3CYCTF/?tag=tolees-21) a 34.79 EUR (original: 69.95 EUR) (50.26 %  de descuento) en el siguiente enlace!

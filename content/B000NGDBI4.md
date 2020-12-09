@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Adidas Kaiser 5 Team Botas de fútbol hombre  Multicolor  Negro/Blanco  38 EU
+prodname: 'Adidas Kaiser 5 Team Botas de fútbol hombre  Multicolor  Negro/Blanco  38 EU'
 ---
 
 Está [Adidas Kaiser 5 Team Botas de fútbol hombre  Multicolor  Negro/Blanco  38 EU](https://www.amazon.es/dp/B000NGDBI4/?tag=tolees-21) con 39.98 de descuento por 59.99 EUR (original: 99.95 EUR) en el siguiente enlace!

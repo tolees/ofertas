@@ -14,7 +14,7 @@ currency: EUR
 price: 34.38
 comparePrice: 65.99 EUR
 inStock: true
-prodname: L.O.L Surprise - Glitter Station  Giochi Preziosi LLU68000 
+prodname: 'L.O.L Surprise - Glitter Station  Giochi Preziosi LLU68000 '
 ---
 
 Tienes [L.O.L Surprise - Glitter Station  Giochi Preziosi LLU68000 ](https://www.amazon.es/dp/B07KKY7PTQ/?tag=tolees-21) con un 47.90 % de descuento con precio de oferta de 34.38 EUR (original: 65.99 EUR) en el siguiente enlace!

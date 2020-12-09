@@ -14,7 +14,7 @@ currency: EUR
 price: 17.62
 comparePrice: 25.99 EUR
 inStock: true
-prodname: balnore 21 Piezas Set de Maquillaje Niñas  Maquillaje Niñas Set Maletin  Juguetes para Chicas  Cosméticos Lavables  Regalo de Princesa para Niñas en Fiesta Cumpleaños Navidad
+prodname: 'balnore 21 Piezas Set de Maquillaje Niñas  Maquillaje Niñas Set Maletin  Juguetes para Chicas  Cosméticos Lavables  Regalo de Princesa para Niñas en Fiesta Cumpleaños Navidad'
 ---
 
 Tienes [balnore 21 Piezas Set de Maquillaje Niñas  Maquillaje Niñas Set Maletin  Juguetes para Chicas  Cosméticos Lavables  Regalo de Princesa para Niñas en Fiesta Cumpleaños Navidad](https://www.amazon.es/dp/B07VBMTGBH/?tag=tolees-21) con un 32.20 % de descuento con precio de oferta de 17.62 EUR (original: 25.99 EUR) en el siguiente enlace!

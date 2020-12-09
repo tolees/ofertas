@@ -14,7 +14,7 @@ currency: EUR
 price: 48.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Tipton Peak Insulated Chaqueta De Esquí con Capucha  Mujer  Blanco  Gris  White/Cirrus Grey   S
+prodname: 'Columbia Tipton Peak Insulated Chaqueta De Esquí con Capucha  Mujer  Blanco  Gris  White/Cirrus Grey   S'
 ---
 
 Ahora mismo tienes [Columbia Tipton Peak Insulated Chaqueta De Esquí con Capucha  Mujer  Blanco  Gris  White/Cirrus Grey   S](https://www.amazon.es/dp/B07MPQKQXQ/?tag=tolees-21) a 48.99 EUR (original: 119.99 EUR) (59.17 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.31
 comparePrice: 59.99 EUR
 inStock: true
-prodname: K-Swiss Aeronaut  Zapatillas para Hombre  Azul  Navy/White 441   43 EU
+prodname: 'K-Swiss Aeronaut  Zapatillas para Hombre  Azul  Navy/White 441   43 EU'
 ---
 
 Ahora mismo tienes [K-Swiss Aeronaut  Zapatillas para Hombre  Azul  Navy/White 441   43 EU](https://www.amazon.es/dp/B07F1VWJYQ/?tag=tolees-21) a 24.31 EUR (original: 59.99 EUR) (59.48 %  de descuento) en el siguiente enlace!

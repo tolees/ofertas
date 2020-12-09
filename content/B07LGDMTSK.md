@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Paraguas Sin Teflón Grande y Automático a Prueba de Viento Hombre - Dapper Azul
+prodname: 'Paraguas Sin Teflón Grande y Automático a Prueba de Viento Hombre - Dapper Azul'
 ---
 
 Ahora mismo tienes [Paraguas Sin Teflón Grande y Automático a Prueba de Viento Hombre - Dapper Azul](https://www.amazon.es/dp/B07LGDMTSK/?tag=tolees-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

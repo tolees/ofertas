@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Funko- Pop Vinyl: Animation: Rick & Morty: Kiara Rick and Morty Figura de vinilo - coleccionable  Multicolor  35594 
+prodname: 'Funko- Pop Vinyl: Animation: Rick & Morty: Kiara Rick and Morty Figura de vinilo - coleccionable  Multicolor  35594 '
 ---
 
 Está [Funko- Pop Vinyl: Animation: Rick & Morty: Kiara Rick and Morty Figura de vinilo - coleccionable  Multicolor  35594 ](https://www.amazon.es/dp/B07HJ88FMJ/?tag=tolees-21) con 43.64 de descuento por 8.99 EUR (original: 15.95 EUR) en el siguiente enlace!

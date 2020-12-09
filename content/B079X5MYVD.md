@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 41.01 EUR
 inStock: true
-prodname: Assetto Corsa - Ultimate Edition
+prodname: 'Assetto Corsa - Ultimate Edition'
 ---
 
 Ahora mismo tienes [Assetto Corsa - Ultimate Edition](https://www.amazon.es/dp/B079X5MYVD/?tag=tolees-21) a 19.99 EUR (original: 41.01 EUR) (51.26 %  de descuento) en el siguiente enlace!

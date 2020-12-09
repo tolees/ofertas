@@ -14,7 +14,7 @@ currency: EUR
 price: 23.76
 comparePrice: 31.69 EUR
 inStock: true
-prodname: KIPOZI Plancha de Pelo Profesional  Plancha de Titanio para Alisar o Rizar el Cabello sin Daños  Pantalla Digital con Temperatura de 80 a 230℃  Negro Mate 
+prodname: 'KIPOZI Plancha de Pelo Profesional  Plancha de Titanio para Alisar o Rizar el Cabello sin Daños  Pantalla Digital con Temperatura de 80 a 230℃  Negro Mate '
 ---
 
 Tienes [KIPOZI Plancha de Pelo Profesional  Plancha de Titanio para Alisar o Rizar el Cabello sin Daños  Pantalla Digital con Temperatura de 80 a 230℃  Negro Mate ](https://www.amazon.es/dp/B07LBCQZ2Y/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 23.76 EUR (original: 31.69 EUR) en el siguiente enlace!

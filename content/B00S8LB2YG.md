@@ -14,7 +14,7 @@ currency: EUR
 price: 40.04
 comparePrice: 55 EUR
 inStock: true
-prodname: ASICS Gel-Dedicate 4 - Zapatillas de Deporte para Hombre  Color Blanco  White/Navy/Silver 150   Talla 41.5
+prodname: 'ASICS Gel-Dedicate 4 - Zapatillas de Deporte para Hombre  Color Blanco  White/Navy/Silver 150   Talla 41.5'
 ---
 
 Está [ASICS Gel-Dedicate 4 - Zapatillas de Deporte para Hombre  Color Blanco  White/Navy/Silver 150   Talla 41.5](https://www.amazon.es/dp/B00S8LB2YG/?tag=tolees-21) con 27.20 de descuento por 40.04 EUR (original: 55 EUR) en el siguiente enlace!

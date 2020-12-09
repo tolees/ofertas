@@ -14,7 +14,7 @@ currency: EUR
 price: 13.45
 comparePrice: 28 EUR
 inStock: true
-prodname: find. Alpargata de Cuero con Tiras Cruzadas para Mujer  Negro  Black   40 EU
+prodname: 'find. Alpargata de Cuero con Tiras Cruzadas para Mujer  Negro  Black   40 EU'
 ---
 
 Está [find. Alpargata de Cuero con Tiras Cruzadas para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B06XKMD9WC/?tag=tolees-21) con 51.96 de descuento por 13.45 EUR (original: 28 EUR) en el siguiente enlace!

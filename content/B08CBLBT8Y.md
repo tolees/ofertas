@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Adidas Real Madrid Temporada 2020/21 Camiseta Primera Equipación Oficial  Unisex  Blanco  L
+prodname: 'Adidas Real Madrid Temporada 2020/21 Camiseta Primera Equipación Oficial  Unisex  Blanco  L'
 ---
 
 Está [Adidas Real Madrid Temporada 2020/21 Camiseta Primera Equipación Oficial  Unisex  Blanco  L](https://www.amazon.es/dp/B08CBLBT8Y/?tag=tolees-21) con 33.31 de descuento por 59.99 EUR (original: 89.95 EUR) en el siguiente enlace!

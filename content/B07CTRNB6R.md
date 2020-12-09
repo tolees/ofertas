@@ -14,7 +14,7 @@ currency: EUR
 price: 29.68
 comparePrice: 70 EUR
 inStock: true
-prodname: Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mod Gray/Black 600   44 EU
+prodname: 'Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mod Gray/Black 600   44 EU'
 ---
 
 Ahora mismo tienes [Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mod Gray/Black 600   44 EU](https://www.amazon.es/dp/B07CTRNB6R/?tag=tolees-21) a 29.68 EUR (original: 70 EUR) (57.60 %  de descuento) en el siguiente enlace!

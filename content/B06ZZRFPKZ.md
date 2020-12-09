@@ -14,7 +14,7 @@ currency: EUR
 price: 35.11
 comparePrice: 55.44 EUR
 inStock: true
-prodname: NECA CENIZA VS EVIL DEAD ashy Slashy Cachorro 15" Prop Réplica
+prodname: 'NECA CENIZA VS EVIL DEAD ashy Slashy Cachorro 15" Prop Réplica'
 ---
 
 Está [NECA CENIZA VS EVIL DEAD ashy Slashy Cachorro 15" Prop Réplica](https://www.amazon.es/dp/B06ZZRFPKZ/?tag=tolees-21) con 36.67 de descuento por 35.11 EUR (original: 55.44 EUR) en el siguiente enlace!

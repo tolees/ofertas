@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Charles Wilson Pantalón De Chándal De Felpa con Dobladillo Abierto para Hombre  XXL  Deep Navy 
+prodname: 'Charles Wilson Pantalón De Chándal De Felpa con Dobladillo Abierto para Hombre  XXL  Deep Navy '
 ---
 
 Ahora mismo tienes [Charles Wilson Pantalón De Chándal De Felpa con Dobladillo Abierto para Hombre  XXL  Deep Navy ](https://www.amazon.es/dp/B08KGCDGXP/?tag=tolees-21) a 19.95 EUR (original: 34.95 EUR) (42.92 %  de descuento) en el siguiente enlace!

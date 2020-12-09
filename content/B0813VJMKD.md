@@ -14,7 +14,7 @@ currency: EUR
 price: 38.45
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Adidas Originals Superstar  Zapatillas Deportivas Hombre  Footwear White/Core Black/Footwear White  43 1/3 EU
+prodname: 'Adidas Originals Superstar  Zapatillas Deportivas Hombre  Footwear White/Core Black/Footwear White  43 1/3 EU'
 ---
 
 Ahora mismo tienes [Adidas Originals Superstar  Zapatillas Deportivas Hombre  Footwear White/Core Black/Footwear White  43 1/3 EU](https://www.amazon.es/dp/B0813VJMKD/?tag=tolees-21) a 38.45 EUR (original: 54.95 EUR) (30.03 %  de descuento) en el siguiente enlace!

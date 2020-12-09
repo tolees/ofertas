@@ -14,7 +14,7 @@ currency: EUR
 price: 6.74
 comparePrice: 11.95 EUR
 inStock: true
-prodname: Essie Esmalte de Uñas 034 Jamaica Me Crazy
+prodname: 'Essie Esmalte de Uñas 034 Jamaica Me Crazy'
 ---
 
 Ahora mismo tienes [Essie Esmalte de Uñas 034 Jamaica Me Crazy](https://www.amazon.es/dp/B00CJAZF2C/?tag=tolees-21) a 6.74 EUR (original: 11.95 EUR) (43.60 %  de descuento) en el siguiente enlace!

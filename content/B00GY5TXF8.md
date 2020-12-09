@@ -14,7 +14,7 @@ currency: EUR
 price: 192.24
 comparePrice: 325 EUR
 inStock: true
-prodname: Shiseido - Future Solution LX Superior Radiance - Suero para mujer - 30 ml
+prodname: 'Shiseido - Future Solution LX Superior Radiance - Suero para mujer - 30 ml'
 ---
 
 Tienes [Shiseido - Future Solution LX Superior Radiance - Suero para mujer - 30 ml](https://www.amazon.es/dp/B00GY5TXF8/?tag=tolees-21) con un 40.85 % de descuento con precio de oferta de 192.24 EUR (original: 325 EUR) en el siguiente enlace!

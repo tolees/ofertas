@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 23.38 EUR
 inStock: true
-prodname: Funko Pop! Animación: One Punch Man- Garou Fluyendo Agua  TRL   GITD  Serie Especialidad Edición Limitada Exclusiva
+prodname: 'Funko Pop! Animación: One Punch Man- Garou Fluyendo Agua  TRL   GITD  Serie Especialidad Edición Limitada Exclusiva'
 ---
 
 Ahora mismo tienes [Funko Pop! Animación: One Punch Man- Garou Fluyendo Agua  TRL   GITD  Serie Especialidad Edición Limitada Exclusiva](https://www.amazon.es/dp/B08KCT9FQ9/?tag=tolees-21) a 15.99 EUR (original: 23.38 EUR) (31.61 %  de descuento) en el siguiente enlace!

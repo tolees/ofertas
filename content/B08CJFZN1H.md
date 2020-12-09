@@ -14,7 +14,7 @@ currency: EUR
 price: 29.82
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Juego de cuchillos de cocina profesional 3 Claveles Kimura Cuchillo de cocina multiusos menaje de cocina acero inoxidable set de utensilios cocina
+prodname: 'Juego de cuchillos de cocina profesional 3 Claveles Kimura Cuchillo de cocina multiusos menaje de cocina acero inoxidable set de utensilios cocina'
 ---
 
 Está [Juego de cuchillos de cocina profesional 3 Claveles Kimura Cuchillo de cocina multiusos menaje de cocina acero inoxidable set de utensilios cocina](https://www.amazon.es/dp/B08CJFZN1H/?tag=tolees-21) con 25.43 de descuento por 29.82 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.43
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Springfield 4.2.T.Ap.Blusa All Over  Blusa para Mujer   Varios 98   Tamaño del Fabricante:36
+prodname: 'Springfield 4.2.T.Ap.Blusa All Over  Blusa para Mujer   Varios 98   Tamaño del Fabricante:36'
 ---
 
 Ahora mismo tienes [Springfield 4.2.T.Ap.Blusa All Over  Blusa para Mujer   Varios 98   Tamaño del Fabricante:36](https://www.amazon.es/dp/B07DL82MLR/?tag=tolees-21) a 11.43 EUR (original: 24.99 EUR) (54.26 %  de descuento) en el siguiente enlace!

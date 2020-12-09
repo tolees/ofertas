@@ -14,7 +14,7 @@ currency: EUR
 price: 79.0
 comparePrice: 109.0 EUR
 inStock: true
-prodname: DJI Osmo Mobile 3  Estabilizador de 3 Ejes para Smartphone Compatible con iPhone y Smartphone  Android  diseño Ligero y Portátil  grabación Estable  Control Inteligente
+prodname: 'DJI Osmo Mobile 3  Estabilizador de 3 Ejes para Smartphone Compatible con iPhone y Smartphone  Android  diseño Ligero y Portátil  grabación Estable  Control Inteligente'
 ---
 
 Tienes [DJI Osmo Mobile 3  Estabilizador de 3 Ejes para Smartphone Compatible con iPhone y Smartphone  Android  diseño Ligero y Portátil  grabación Estable  Control Inteligente](https://www.amazon.es/dp/B07RHJ7LWH/?tag=tolees-21) con un 27.52 % de descuento con precio de oferta de 79.0 EUR (original: 109.0 EUR) en el siguiente enlace!

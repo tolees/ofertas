@@ -14,7 +14,7 @@ currency: EUR
 price: 48.45
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Converse M9696C - Zapatillas de lona/canvas para mujer  talla 35 EU  Rojo Tango Red 9696
+prodname: 'Converse M9696C - Zapatillas de lona/canvas para mujer  talla 35 EU  Rojo Tango Red 9696'
 ---
 
 Tienes [Converse M9696C - Zapatillas de lona/canvas para mujer  talla 35 EU  Rojo Tango Red 9696](https://www.amazon.es/dp/B0000AFSZV/?tag=tolees-21) con un 25.46 % de descuento con precio de oferta de 48.45 EUR (original: 65.0 EUR) en el siguiente enlace!

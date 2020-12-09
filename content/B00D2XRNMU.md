@@ -14,7 +14,7 @@ currency: EUR
 price: 2.99
 comparePrice: 4.98 EUR
 inStock: true
-prodname: Colgate 360° - Cepillo de Dientes Medio con Limpiador de Lengua- Pack de 2
+prodname: 'Colgate 360° - Cepillo de Dientes Medio con Limpiador de Lengua- Pack de 2'
 ---
 
 Está [Colgate 360° - Cepillo de Dientes Medio con Limpiador de Lengua- Pack de 2](https://www.amazon.es/dp/B00D2XRNMU/?tag=tolees-21) con 39.96 de descuento por 2.99 EUR (original: 4.98 EUR) en el siguiente enlace!

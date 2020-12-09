@@ -14,7 +14,7 @@ currency: EUR
 price: 50.4
 comparePrice: 71.99 EUR
 inStock: true
-prodname: Merrell Moab 2 Vent  Zapatillas de Senderismo Hombre  Marrón Pecan  43.5 EU
+prodname: 'Merrell Moab 2 Vent  Zapatillas de Senderismo Hombre  Marrón Pecan  43.5 EU'
 ---
 
 Ahora mismo tienes [Merrell Moab 2 Vent  Zapatillas de Senderismo Hombre  Marrón Pecan  43.5 EU](https://www.amazon.es/dp/B071JDQ5YM/?tag=tolees-21) a 50.4 EUR (original: 71.99 EUR) (29.99 %  de descuento) en el siguiente enlace!

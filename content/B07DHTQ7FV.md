@@ -14,7 +14,7 @@ currency: EUR
 price: 29.11
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Lacoste Graduate BL 1 SFA  Zapatillas  Azul  Nvy/Wht 092   35.5 EU
+prodname: 'Lacoste Graduate BL 1 SFA  Zapatillas  Azul  Nvy/Wht 092   35.5 EU'
 ---
 
 Está [Lacoste Graduate BL 1 SFA  Zapatillas  Azul  Nvy/Wht 092   35.5 EU](https://www.amazon.es/dp/B07DHTQ7FV/?tag=tolees-21) con 69.36 de descuento por 29.11 EUR (original: 95.0 EUR) en el siguiente enlace!

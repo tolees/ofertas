@@ -14,7 +14,7 @@ currency: EUR
 price: 79.99
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Salomon XA Pro 3D W Zapatillas de trail running Mujer  Negro  Black/Magnet/Fair Aqua   36 EU  3.5 UK 
+prodname: 'Salomon XA Pro 3D W Zapatillas de trail running Mujer  Negro  Black/Magnet/Fair Aqua   36 EU  3.5 UK '
 ---
 
 Está [Salomon XA Pro 3D W Zapatillas de trail running Mujer  Negro  Black/Magnet/Fair Aqua   36 EU  3.5 UK ](https://www.amazon.es/dp/B01HD2RZ0K/?tag=tolees-21) con 38.45 de descuento por 79.99 EUR (original: 129.95 EUR) en el siguiente enlace!

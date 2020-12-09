@@ -14,7 +14,7 @@ currency: EUR
 price: 91.12
 comparePrice: 135 EUR
 inStock: true
-prodname: Merrell Intercept  Zapatillas de senderismo Hombre  Negro  Smooth Black   41.5 EU  7.5 UK 
+prodname: 'Merrell Intercept  Zapatillas de senderismo Hombre  Negro  Smooth Black   41.5 EU  7.5 UK '
 ---
 
 Ahora mismo tienes [Merrell Intercept  Zapatillas de senderismo Hombre  Negro  Smooth Black   41.5 EU  7.5 UK ](https://www.amazon.es/dp/B001FQFFTE/?tag=tolees-21) a 91.12 EUR (original: 135 EUR) (32.50 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: COMLIFE Calefactor Eléctrico Cerámico Oscilación Automática Viento Caliente y Natural Calentador Portátil para el hogar y la Oficina  600W
+prodname: 'COMLIFE Calefactor Eléctrico Cerámico Oscilación Automática Viento Caliente y Natural Calentador Portátil para el hogar y la Oficina  600W'
 ---
 
 Ahora mismo tienes [COMLIFE Calefactor Eléctrico Cerámico Oscilación Automática Viento Caliente y Natural Calentador Portátil para el hogar y la Oficina  600W](https://www.amazon.es/dp/B07G9FP4ZF/?tag=tolees-21) a 19.99 EUR (original: 35.99 EUR) (44.46 %  de descuento) en el siguiente enlace!

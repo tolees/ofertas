@@ -14,7 +14,7 @@ currency: EUR
 price: 13.04
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Only & Sons Onssato Multi Clr Knit Noos  suéter Hombre  Negro  Black   Large
+prodname: 'Only & Sons Onssato Multi Clr Knit Noos  suéter Hombre  Negro  Black   Large'
 ---
 
 Tienes [Only & Sons Onssato Multi Clr Knit Noos  suéter Hombre  Negro  Black   Large](https://www.amazon.es/dp/B06XSPGZW5/?tag=tolees-21) con un 56.52 % de descuento con precio de oferta de 13.04 EUR (original: 29.99 EUR) en el siguiente enlace!

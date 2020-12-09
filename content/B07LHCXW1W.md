@@ -14,7 +14,7 @@ currency: EUR
 price: 60
 comparePrice: 100 EUR
 inStock: true
-prodname: The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Beige Pink Salt  XS
+prodname: 'The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Beige Pink Salt  XS'
 ---
 
 Está [The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Beige Pink Salt  XS](https://www.amazon.es/dp/B07LHCXW1W/?tag=tolees-21) con 40.00 de descuento por 60 EUR (original: 100 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.63
 comparePrice: 90 EUR
 inStock: true
-prodname: Laura Vita - 2591  Bolsos maletín Mujer  Rosa  Rs   13.0x20.0x29.0 cm  W x H L 
+prodname: 'Laura Vita - 2591  Bolsos maletín Mujer  Rosa  Rs   13.0x20.0x29.0 cm  W x H L '
 ---
 
 Está [Laura Vita - 2591  Bolsos maletín Mujer  Rosa  Rs   13.0x20.0x29.0 cm  W x H L ](https://www.amazon.es/dp/B07GG82BHK/?tag=tolees-21) con 75.97 de descuento por 21.63 EUR (original: 90 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.66
 comparePrice: 30 EUR
 inStock: true
-prodname: Salomon Blend Logo SS tee T-Shirt  Hombre  Azul  Poseidon   XL
+prodname: 'Salomon Blend Logo SS tee T-Shirt  Hombre  Azul  Poseidon   XL'
 ---
 
 Tienes [Salomon Blend Logo SS tee T-Shirt  Hombre  Azul  Poseidon   XL](https://www.amazon.es/dp/B07MXZTLY9/?tag=tolees-21) con un 44.47 % de descuento con precio de oferta de 16.66 EUR (original: 30 EUR) en el siguiente enlace!

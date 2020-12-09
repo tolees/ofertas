@@ -14,7 +14,7 @@ currency: EUR
 price: 17.98
 comparePrice: 35.95 EUR
 inStock: true
-prodname: Desigual TS_guim  Camiseta para Niños    Rojo 3092  104  Talla del Fabricante: 3/4 
+prodname: 'Desigual TS_guim  Camiseta para Niños    Rojo 3092  104  Talla del Fabricante: 3/4 '
 ---
 
 Está [Desigual TS_guim  Camiseta para Niños    Rojo 3092  104  Talla del Fabricante: 3/4 ](https://www.amazon.es/dp/B079SH5FDR/?tag=tolees-21) con 49.99 de descuento por 17.98 EUR (original: 35.95 EUR) en el siguiente enlace!

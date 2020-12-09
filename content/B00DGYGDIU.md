@@ -14,7 +14,7 @@ currency: EUR
 price: 7.45
 comparePrice: 21.83 EUR
 inStock: true
-prodname: Spalding 4her Shorts cyanblau Negro Noir/Blanc/Rose Talla:XXXL
+prodname: 'Spalding 4her Shorts cyanblau Negro Noir/Blanc/Rose Talla:XXXL'
 ---
 
 Está [Spalding 4her Shorts cyanblau Negro Noir/Blanc/Rose Talla:XXXL](https://www.amazon.es/dp/B00DGYGDIU/?tag=tolees-21) con 65.87 de descuento por 7.45 EUR (original: 21.83 EUR) en el siguiente enlace!

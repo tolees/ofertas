@@ -14,7 +14,7 @@ currency: EUR
 price: 49.91
 comparePrice: 80 EUR
 inStock: true
-prodname: Levi s Barstow Western Camisa Vaquera  Azul  Shadow Tint Dark 0277   Small para Hombre
+prodname: 'Levi s Barstow Western Camisa Vaquera  Azul  Shadow Tint Dark 0277   Small para Hombre'
 ---
 
 Ahora mismo tienes [Levi s Barstow Western Camisa Vaquera  Azul  Shadow Tint Dark 0277   Small para Hombre](https://www.amazon.es/dp/B07F27SQYK/?tag=tolees-21) a 49.91 EUR (original: 80 EUR) (37.61 %  de descuento) en el siguiente enlace!

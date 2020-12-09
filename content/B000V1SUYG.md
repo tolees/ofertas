@@ -14,7 +14,7 @@ currency: EUR
 price: 10.02
 comparePrice: 14.4 EUR
 inStock: true
-prodname: Shunga Toko Lubricante  Aroma de Fresas con Champagne  Transparente - 165 ml
+prodname: 'Shunga Toko Lubricante  Aroma de Fresas con Champagne  Transparente - 165 ml'
 ---
 
 Ahora mismo tienes [Shunga Toko Lubricante  Aroma de Fresas con Champagne  Transparente - 165 ml](https://www.amazon.es/dp/B000V1SUYG/?tag=tolees-21) a 10.02 EUR (original: 14.4 EUR) (30.42 %  de descuento) en el siguiente enlace!

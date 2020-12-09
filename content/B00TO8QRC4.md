@@ -14,7 +14,7 @@ currency: EUR
 price: 57.46
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Jurassic World - Disfraz hinchable de dinosaurio T-Rex para niños  infantil Talla única  Rubie s 610821 
+prodname: 'Jurassic World - Disfraz hinchable de dinosaurio T-Rex para niños  infantil Talla única  Rubie s 610821 '
 ---
 
 Ahora mismo tienes [Jurassic World - Disfraz hinchable de dinosaurio T-Rex para niños  infantil Talla única  Rubie s 610821 ](https://www.amazon.es/dp/B00TO8QRC4/?tag=tolees-21) a 57.46 EUR (original: 99.99 EUR) (42.53 %  de descuento) en el siguiente enlace!

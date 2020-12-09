@@ -14,7 +14,7 @@ currency: EUR
 price: 15.95
 comparePrice: 24.95 EUR
 inStock: true
-prodname: adidas Solid SH SL Swimsuit  Hombre  Bright Cyan  L
+prodname: 'adidas Solid SH SL Swimsuit  Hombre  Bright Cyan  L'
 ---
 
 Está [adidas Solid SH SL Swimsuit  Hombre  Bright Cyan  L](https://www.amazon.es/dp/B0787VTVNQ/?tag=tolees-21) con 36.07 de descuento por 15.95 EUR (original: 24.95 EUR) en el siguiente enlace!

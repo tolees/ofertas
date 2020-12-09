@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Puma Smash Buck  Zapatillas Unisex Adulto  Azul True Blue 26  38 EU
+prodname: 'Puma Smash Buck  Zapatillas Unisex Adulto  Azul True Blue 26  38 EU'
 ---
 
 Ahora mismo tienes [Puma Smash Buck  Zapatillas Unisex Adulto  Azul True Blue 26  38 EU](https://www.amazon.es/dp/B01N2IC7LY/?tag=tolees-21) a 18.99 EUR (original: 49.95 EUR) (61.98 %  de descuento) en el siguiente enlace!

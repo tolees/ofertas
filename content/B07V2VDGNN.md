@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Xiaomi Mi True Wireless Auriculares internos inalámbricos con micrófono blanco
+prodname: 'Xiaomi Mi True Wireless Auriculares internos inalámbricos con micrófono blanco'
 ---
 
 Tienes [Xiaomi Mi True Wireless Auriculares internos inalámbricos con micrófono blanco](https://www.amazon.es/dp/B07V2VDGNN/?tag=tolees-21) con un 27.79 % de descuento con precio de oferta de 25.99 EUR (original: 35.99 EUR) en el siguiente enlace!

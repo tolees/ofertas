@@ -14,7 +14,7 @@ currency: EUR
 price: 13.87
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Springfield 963798  Mochila para Hombre   Gamma Grises   15x15x15 cm  W x H x L 
+prodname: 'Springfield 963798  Mochila para Hombre   Gamma Grises   15x15x15 cm  W x H x L '
 ---
 
 Ahora mismo tienes [Springfield 963798  Mochila para Hombre   Gamma Grises   15x15x15 cm  W x H x L ](https://www.amazon.es/dp/B078HHLDCR/?tag=tolees-21) a 13.87 EUR (original: 35.99 EUR) (61.46 %  de descuento) en el siguiente enlace!

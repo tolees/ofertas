@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Disney Pirata Jake Bolsa de Viaje  24 Lt  Color Rojo
+prodname: 'Disney Pirata Jake Bolsa de Viaje  24 Lt  Color Rojo'
 ---
 
 Tienes [Disney Pirata Jake Bolsa de Viaje  24 Lt  Color Rojo](https://www.amazon.es/dp/B00XXTURC6/?tag=tolees-21) con un 71.98 % de descuento con precio de oferta de 6.99 EUR (original: 24.95 EUR) en el siguiente enlace!

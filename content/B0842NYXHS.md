@@ -14,7 +14,7 @@ currency: EUR
 price: 5.45
 comparePrice: 14.22 EUR
 inStock: true
-prodname: Hocus Pocus I Need Coffee to Focus  taza de café de otoño  taza de Halloween  divertida taza de Halloween  taza de brujas
+prodname: 'Hocus Pocus I Need Coffee to Focus  taza de café de otoño  taza de Halloween  divertida taza de Halloween  taza de brujas'
 ---
 
 Está [Hocus Pocus I Need Coffee to Focus  taza de café de otoño  taza de Halloween  divertida taza de Halloween  taza de brujas](https://www.amazon.es/dp/B0842NYXHS/?tag=tolees-21) con 61.67 de descuento por 5.45 EUR (original: 14.22 EUR) en el siguiente enlace!

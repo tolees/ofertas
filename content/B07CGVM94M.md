@@ -14,7 +14,7 @@ currency: EUR
 price: 22.55
 comparePrice: 119 EUR
 inStock: true
-prodname: REPLAY Grover Vaqueros Straight  Negro  Black Denim 98   W30/L32 para Hombre
+prodname: 'REPLAY Grover Vaqueros Straight  Negro  Black Denim 98   W30/L32 para Hombre'
 ---
 
 Está [REPLAY Grover Vaqueros Straight  Negro  Black Denim 98   W30/L32 para Hombre](https://www.amazon.es/dp/B07CGVM94M/?tag=tolees-21) con 81.05 de descuento por 22.55 EUR (original: 119 EUR) en el siguiente enlace!

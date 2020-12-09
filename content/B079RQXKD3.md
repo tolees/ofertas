@@ -14,7 +14,7 @@ currency: EUR
 price: 14.67
 comparePrice: 75 EUR
 inStock: true
-prodname: Pepe Jeans Gala  Blusa Mujer   Multi Bleu 0aa   X-Large
+prodname: 'Pepe Jeans Gala  Blusa Mujer   Multi Bleu 0aa   X-Large'
 ---
 
 Está [Pepe Jeans Gala  Blusa Mujer   Multi Bleu 0aa   X-Large](https://www.amazon.es/dp/B079RQXKD3/?tag=tolees-21) con 80.44 de descuento por 14.67 EUR (original: 75 EUR) en el siguiente enlace!

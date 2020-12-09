@@ -14,7 +14,7 @@ currency: EUR
 price: 599
 comparePrice: 889 EUR
 inStock: true
-prodname: Apple iPad Pro - Tablet de 10.5"  64 GB con Wi-Fi + Cellular  gris espacial
+prodname: 'Apple iPad Pro - Tablet de 10.5"  64 GB con Wi-Fi + Cellular  gris espacial'
 ---
 
 Tienes [Apple iPad Pro - Tablet de 10.5"  64 GB con Wi-Fi + Cellular  gris espacial](https://www.amazon.es/dp/B071GNPV9Q/?tag=tolees-21) con un 32.62 % de descuento con precio de oferta de 599 EUR (original: 889 EUR) en el siguiente enlace!

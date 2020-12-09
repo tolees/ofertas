@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Blair Witch - PS4
+prodname: 'Blair Witch - PS4'
 ---
 
 Está [Blair Witch - PS4](https://www.amazon.es/dp/B07ZLHWRNV/?tag=tolees-21) con 33.64 de descuento por 19.9 EUR (original: 29.99 EUR) en el siguiente enlace!

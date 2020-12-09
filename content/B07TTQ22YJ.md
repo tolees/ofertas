@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Wrangler SS Overdye Polo  Negro  Faded Black XV6   X-Large para Hombre
+prodname: 'Wrangler SS Overdye Polo  Negro  Faded Black XV6   X-Large para Hombre'
 ---
 
 Está [Wrangler SS Overdye Polo  Negro  Faded Black XV6   X-Large para Hombre](https://www.amazon.es/dp/B07TTQ22YJ/?tag=tolees-21) con 57.75 de descuento por 18.99 EUR (original: 44.95 EUR) en el siguiente enlace!

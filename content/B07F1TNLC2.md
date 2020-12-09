@@ -14,7 +14,7 @@ currency: EUR
 price: 57.44
 comparePrice: 100 EUR
 inStock: true
-prodname: Armani Exchange - Fabric Round Zip  Carteras de mano con asa Mujer  Azul  Navy   10.5x2.5x19 cm  B x H T 
+prodname: 'Armani Exchange - Fabric Round Zip  Carteras de mano con asa Mujer  Azul  Navy   10.5x2.5x19 cm  B x H T '
 ---
 
 Está [Armani Exchange - Fabric Round Zip  Carteras de mano con asa Mujer  Azul  Navy   10.5x2.5x19 cm  B x H T ](https://www.amazon.es/dp/B07F1TNLC2/?tag=tolees-21) con 42.56 de descuento por 57.44 EUR (original: 100 EUR) en el siguiente enlace!

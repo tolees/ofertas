@@ -14,7 +14,7 @@ currency: EUR
 price: 9.49
 comparePrice: 14.99 EUR
 inStock: true
-prodname: iAmotus Ratón Inalámbrico  2.4GHz Wireless Ratón Silencioso Optico 3DPI de Ajustable con Nano USB Receptor de Mouse Ergonómico para Escritorio/Windows/Linux/Vista/PC/Mac
+prodname: 'iAmotus Ratón Inalámbrico  2.4GHz Wireless Ratón Silencioso Optico 3DPI de Ajustable con Nano USB Receptor de Mouse Ergonómico para Escritorio/Windows/Linux/Vista/PC/Mac'
 ---
 
 Ahora mismo tienes [iAmotus Ratón Inalámbrico  2.4GHz Wireless Ratón Silencioso Optico 3DPI de Ajustable con Nano USB Receptor de Mouse Ergonómico para Escritorio/Windows/Linux/Vista/PC/Mac](https://www.amazon.es/dp/B07TF6PVVD/?tag=tolees-21) a 9.49 EUR (original: 14.99 EUR) (36.69 %  de descuento) en el siguiente enlace!

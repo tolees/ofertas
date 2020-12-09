@@ -14,7 +14,7 @@ currency: EUR
 price: 191.12
 comparePrice: 299.0 EUR
 inStock: true
-prodname: Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6686
+prodname: 'Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6686'
 ---
 
 Ahora mismo tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6686](https://www.amazon.es/dp/B07VBHQHFT/?tag=tolees-21) a 191.12 EUR (original: 299.0 EUR) (36.08 %  de descuento) en el siguiente enlace!

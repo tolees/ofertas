@@ -14,7 +14,7 @@ currency: EUR
 price: 26.31
 comparePrice: 39.0 EUR
 inStock: true
-prodname: LG DP132 - Reproductor de DVD  Dolby Digital  USB  MP3   color negro
+prodname: 'LG DP132 - Reproductor de DVD  Dolby Digital  USB  MP3   color negro'
 ---
 
 Está [LG DP132 - Reproductor de DVD  Dolby Digital  USB  MP3   color negro](https://www.amazon.es/dp/B00FW7ATEI/?tag=tolees-21) con 32.54 de descuento por 26.31 EUR (original: 39.0 EUR) en el siguiente enlace!

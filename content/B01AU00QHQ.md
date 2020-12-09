@@ -14,7 +14,7 @@ currency: EUR
 price: 5.0
 comparePrice: 17.38 EUR
 inStock: true
-prodname: Pack Dragon Ball Z. Película 3: Super Batalla Decisiva Por La Tierra. Película 4: Son Goku El Super Saiyan. Bluray [Blu-ray]
+prodname: 'Pack Dragon Ball Z. Película 3: Super Batalla Decisiva Por La Tierra. Película 4: Son Goku El Super Saiyan. Bluray [Blu-ray]'
 ---
 
 Tienes [Pack Dragon Ball Z. Película 3: Super Batalla Decisiva Por La Tierra. Película 4: Son Goku El Super Saiyan. Bluray [Blu-ray]](https://www.amazon.es/dp/B01AU00QHQ/?tag=tolees-21) con un 71.23 % de descuento con precio de oferta de 5.0 EUR (original: 17.38 EUR) en el siguiente enlace!

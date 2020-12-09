@@ -14,7 +14,7 @@ currency: EUR
 price: 74.34
 comparePrice: 149 EUR
 inStock: true
-prodname: Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable F20210/1
+prodname: 'Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable F20210/1'
 ---
 
 Ahora mismo tienes [Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable F20210/1](https://www.amazon.es/dp/B06WLGZXD3/?tag=tolees-21) a 74.34 EUR (original: 149 EUR) (50.11 %  de descuento) en el siguiente enlace!

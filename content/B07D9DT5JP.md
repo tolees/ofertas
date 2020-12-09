@@ -14,7 +14,7 @@ currency: EUR
 price: 14.8
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 48429  Botines para Mujer  Verde Kaki  37 EU
+prodname: 'XTI 48429  Botines para Mujer  Verde Kaki  37 EU'
 ---
 
 Tienes [XTI 48429  Botines para Mujer  Verde Kaki  37 EU](https://www.amazon.es/dp/B07D9DT5JP/?tag=tolees-21) con un 70.37 % de descuento con precio de oferta de 14.8 EUR (original: 49.95 EUR) en el siguiente enlace!

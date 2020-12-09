@@ -14,7 +14,7 @@ currency: EUR
 price: 8.35
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Esprit 997ee1f800  Blusa para Mujer   Pastel Blue  36
+prodname: 'Esprit 997ee1f800  Blusa para Mujer   Pastel Blue  36'
 ---
 
 Está [Esprit 997ee1f800  Blusa para Mujer   Pastel Blue  36](https://www.amazon.es/dp/B01MXKLC7T/?tag=tolees-21) con 72.16 de descuento por 8.35 EUR (original: 29.99 EUR) en el siguiente enlace!

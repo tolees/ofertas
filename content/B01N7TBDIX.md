@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 20.99 EUR
 inStock: true
-prodname: B.Catcher Collar Mujer Plata de Ley 925   Eres el amor de mi vida   con Para Regalo Originales Cadena 45cm Longitud
+prodname: 'B.Catcher Collar Mujer Plata de Ley 925   Eres el amor de mi vida   con Para Regalo Originales Cadena 45cm Longitud'
 ---
 
 Está [B.Catcher Collar Mujer Plata de Ley 925   Eres el amor de mi vida   con Para Regalo Originales Cadena 45cm Longitud](https://www.amazon.es/dp/B01N7TBDIX/?tag=tolees-21) con 38.11 de descuento por 12.99 EUR (original: 20.99 EUR) en el siguiente enlace!

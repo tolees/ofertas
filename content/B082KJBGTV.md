@@ -14,7 +14,7 @@ currency: EUR
 price: 10.98
 comparePrice: 15.66 EUR
 inStock: true
-prodname: GERUIKE Ganchos Adhesivos sin Taladro Toallero de Gancho Puertas Acero Inoxidable 304 Organizador para baño y Cocina Gancho de Pared Baño Accesorios Plata 8 Piezas
+prodname: 'GERUIKE Ganchos Adhesivos sin Taladro Toallero de Gancho Puertas Acero Inoxidable 304 Organizador para baño y Cocina Gancho de Pared Baño Accesorios Plata 8 Piezas'
 ---
 
 Está [GERUIKE Ganchos Adhesivos sin Taladro Toallero de Gancho Puertas Acero Inoxidable 304 Organizador para baño y Cocina Gancho de Pared Baño Accesorios Plata 8 Piezas](https://www.amazon.es/dp/B082KJBGTV/?tag=tolees-21) con 29.89 de descuento por 10.98 EUR (original: 15.66 EUR) en el siguiente enlace!

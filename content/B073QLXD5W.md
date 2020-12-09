@@ -14,7 +14,7 @@ currency: EUR
 price: 6.43
 comparePrice: 18.0 EUR
 inStock: true
-prodname: Activewear Camiseta Técnica de Manga Larga Hombre  Gris  Grey Marl   Small
+prodname: 'Activewear Camiseta Técnica de Manga Larga Hombre  Gris  Grey Marl   Small'
 ---
 
 Está [Activewear Camiseta Técnica de Manga Larga Hombre  Gris  Grey Marl   Small](https://www.amazon.es/dp/B073QLXD5W/?tag=tolees-21) con 64.28 de descuento por 6.43 EUR (original: 18.0 EUR) en el siguiente enlace!

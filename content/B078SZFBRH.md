@@ -14,7 +14,7 @@ currency: EUR
 price: 68.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Salomon Trailster  Zaptillas de Running para Hombre  Rojo Cherry Tomato/Urban Chic/White  49 1/3 EU
+prodname: 'Salomon Trailster  Zaptillas de Running para Hombre  Rojo Cherry Tomato/Urban Chic/White  49 1/3 EU'
 ---
 
 Ahora mismo tienes [Salomon Trailster  Zaptillas de Running para Hombre  Rojo Cherry Tomato/Urban Chic/White  49 1/3 EU](https://www.amazon.es/dp/B078SZFBRH/?tag=tolees-21) a 68.95 EUR (original: 99.95 EUR) (31.02 %  de descuento) en el siguiente enlace!

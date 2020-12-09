@@ -14,7 +14,7 @@ currency: EUR
 price: 197.0
 comparePrice: 271.8 EUR
 inStock: true
-prodname: Honeywell Home THR99C3102 Kit de inicio con termostato inteligente evohome WiFi y 2 cabezales para radiador inalámbricos  ahorra energía y dinero  blanco  3 piezas 
+prodname: 'Honeywell Home THR99C3102 Kit de inicio con termostato inteligente evohome WiFi y 2 cabezales para radiador inalámbricos  ahorra energía y dinero  blanco  3 piezas '
 ---
 
 Tienes [Honeywell Home THR99C3102 Kit de inicio con termostato inteligente evohome WiFi y 2 cabezales para radiador inalámbricos  ahorra energía y dinero  blanco  3 piezas ](https://www.amazon.es/dp/B01MTU4ID1/?tag=tolees-21) con un 27.52 % de descuento con precio de oferta de 197.0 EUR (original: 271.8 EUR) en el siguiente enlace!

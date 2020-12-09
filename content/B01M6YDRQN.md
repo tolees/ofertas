@@ -14,7 +14,7 @@ currency: EUR
 price: 13.39
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Quiksilver Everyday Short de Felpa  Hombre  Gris Oscuro  L
+prodname: 'Quiksilver Everyday Short de Felpa  Hombre  Gris Oscuro  L'
 ---
 
 Tienes [Quiksilver Everyday Short de Felpa  Hombre  Gris Oscuro  L](https://www.amazon.es/dp/B01M6YDRQN/?tag=tolees-21) con un 62.80 % de descuento con precio de oferta de 13.39 EUR (original: 35.99 EUR) en el siguiente enlace!

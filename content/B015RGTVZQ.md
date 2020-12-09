@@ -14,7 +14,7 @@ currency: EUR
 price: 46.64
 comparePrice: 65.29 EUR
 inStock: true
-prodname: Lazio pomo del cambio de cromo + Llavero con flash LED
+prodname: 'Lazio pomo del cambio de cromo + Llavero con flash LED'
 ---
 
 Tienes [Lazio pomo del cambio de cromo + Llavero con flash LED](https://www.amazon.es/dp/B015RGTVZQ/?tag=tolees-21) con un 28.56 % de descuento con precio de oferta de 46.64 EUR (original: 65.29 EUR) en el siguiente enlace!

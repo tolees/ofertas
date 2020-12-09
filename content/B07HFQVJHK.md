@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 209.99 EUR
 inStock: true
-prodname: HOMCOM Patinete Eléctrico Scooter Plegable para Niño con Manillar y Tipo Monopatín con Freno y Caballete 120W Carga 50kg 81.5x37x96cm  Negro 
+prodname: 'HOMCOM Patinete Eléctrico Scooter Plegable para Niño con Manillar y Tipo Monopatín con Freno y Caballete 120W Carga 50kg 81.5x37x96cm  Negro '
 ---
 
 Tienes [HOMCOM Patinete Eléctrico Scooter Plegable para Niño con Manillar y Tipo Monopatín con Freno y Caballete 120W Carga 50kg 81.5x37x96cm  Negro ](https://www.amazon.es/dp/B07HFQVJHK/?tag=tolees-21) con un 52.38 % de descuento con precio de oferta de 99.99 EUR (original: 209.99 EUR) en el siguiente enlace!

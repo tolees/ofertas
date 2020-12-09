@@ -14,7 +14,7 @@ currency: EUR
 price: 42.06
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Straight  Vaqueros straight Hombre  Negro  rinsed 8970-082   W33/L34  Talla del fabricante: 33W / 34L 
+prodname: 'G-STAR RAW 3301 Straight  Vaqueros straight Hombre  Negro  rinsed 8970-082   W33/L34  Talla del fabricante: 33W / 34L '
 ---
 
 Tienes [G-STAR RAW 3301 Straight  Vaqueros straight Hombre  Negro  rinsed 8970-082   W33/L34  Talla del fabricante: 33W / 34L ](https://www.amazon.es/dp/B07CZHQCTP/?tag=tolees-21) con un 57.92 % de descuento con precio de oferta de 42.06 EUR (original: 99.95 EUR) en el siguiente enlace!

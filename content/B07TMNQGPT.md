@@ -14,7 +14,7 @@ currency: EUR
 price: 23.24
 comparePrice: 30.99 EUR
 inStock: true
-prodname: Superdry Classic SUPERSTATE S/S Polo  Blanco  Optic 01c   Large para Hombre
+prodname: 'Superdry Classic SUPERSTATE S/S Polo  Blanco  Optic 01c   Large para Hombre'
 ---
 
 Está [Superdry Classic SUPERSTATE S/S Polo  Blanco  Optic 01c   Large para Hombre](https://www.amazon.es/dp/B07TMNQGPT/?tag=tolees-21) con 25.01 de descuento por 23.24 EUR (original: 30.99 EUR) en el siguiente enlace!

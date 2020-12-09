@@ -14,7 +14,7 @@ currency: EUR
 price: 27.22
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Reebok Express Runner  Zapatillas de Running para Mujer  Morado  Lilac Shadow/Deep Cobalt/Ele FLA/Silver   38 EU
+prodname: 'Reebok Express Runner  Zapatillas de Running para Mujer  Morado  Lilac Shadow/Deep Cobalt/Ele FLA/Silver   38 EU'
 ---
 
 Está [Reebok Express Runner  Zapatillas de Running para Mujer  Morado  Lilac Shadow/Deep Cobalt/Ele FLA/Silver   38 EU](https://www.amazon.es/dp/B071WCNRCV/?tag=tolees-21) con 39.44 de descuento por 27.22 EUR (original: 44.95 EUR) en el siguiente enlace!

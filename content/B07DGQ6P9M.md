@@ -14,7 +14,7 @@ currency: EUR
 price: 126.99
 comparePrice: 190.0 EUR
 inStock: true
-prodname: Timberland Lucia Way 6 Inch Waterproof  Botas Chukka Mujer  Amarillo Wheat Nubuck  39 EU
+prodname: 'Timberland Lucia Way 6 Inch Waterproof  Botas Chukka Mujer  Amarillo Wheat Nubuck  39 EU'
 ---
 
 Está [Timberland Lucia Way 6 Inch Waterproof  Botas Chukka Mujer  Amarillo Wheat Nubuck  39 EU](https://www.amazon.es/dp/B07DGQ6P9M/?tag=tolees-21) con 33.16 de descuento por 126.99 EUR (original: 190.0 EUR) en el siguiente enlace!

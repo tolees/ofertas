@@ -14,7 +14,7 @@ currency: EUR
 price: 41.98
 comparePrice: 62.99 EUR
 inStock: true
-prodname: Braun IRT6520 ThermoScan 7 - Termómetro Digital Auricular con Precisión Profesional
+prodname: 'Braun IRT6520 ThermoScan 7 - Termómetro Digital Auricular con Precisión Profesional'
 ---
 
 Tienes [Braun IRT6520 ThermoScan 7 - Termómetro Digital Auricular con Precisión Profesional](https://www.amazon.es/dp/B00NVMIO02/?tag=tolees-21) con un 33.35 % de descuento con precio de oferta de 41.98 EUR (original: 62.99 EUR) en el siguiente enlace!

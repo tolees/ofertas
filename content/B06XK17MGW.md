@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: ENKEEO - Faja Lumbar  Faja Reductora para Hombre/Mujer  Faja Abdominal Deportiva  Corrector de Postura y para Entrenamiento  Rehabilitación de Dolor y lesión  Talla Única 10 láminas de Gel Extra
+prodname: 'ENKEEO - Faja Lumbar  Faja Reductora para Hombre/Mujer  Faja Abdominal Deportiva  Corrector de Postura y para Entrenamiento  Rehabilitación de Dolor y lesión  Talla Única 10 láminas de Gel Extra'
 ---
 
 Ahora mismo tienes [ENKEEO - Faja Lumbar  Faja Reductora para Hombre/Mujer  Faja Abdominal Deportiva  Corrector de Postura y para Entrenamiento  Rehabilitación de Dolor y lesión  Talla Única 10 láminas de Gel Extra](https://www.amazon.es/dp/B06XK17MGW/?tag=tolees-21) a 11.99 EUR (original: 18.99 EUR) (36.86 %  de descuento) en el siguiente enlace!

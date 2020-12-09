@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Llama Solar Luces WZTO Lámpara de Fuego Solar 75 LED IP55 Impermeable Apagar y Encender Automáticamente Lámparas Colgantes Luces para Camping  Jardín  Patio  Terraza  Camino  1 Paquete 
+prodname: 'Llama Solar Luces WZTO Lámpara de Fuego Solar 75 LED IP55 Impermeable Apagar y Encender Automáticamente Lámparas Colgantes Luces para Camping  Jardín  Patio  Terraza  Camino  1 Paquete '
 ---
 
 Está [Llama Solar Luces WZTO Lámpara de Fuego Solar 75 LED IP55 Impermeable Apagar y Encender Automáticamente Lámparas Colgantes Luces para Camping  Jardín  Patio  Terraza  Camino  1 Paquete ](https://www.amazon.es/dp/B07H4NSZCY/?tag=tolees-21) con 29.18 de descuento por 16.99 EUR (original: 23.99 EUR) en el siguiente enlace!

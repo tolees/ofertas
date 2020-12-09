@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 31.5 EUR
 inStock: true
-prodname: Philips Avent SCF355/00 - Calienta Biberón Rápido  Función de Descongelación  Calentamiento Uniforme Del Líquido [Enchufe Español]  Blanco
+prodname: 'Philips Avent SCF355/00 - Calienta Biberón Rápido  Función de Descongelación  Calentamiento Uniforme Del Líquido [Enchufe Español]  Blanco'
 ---
 
 Está [Philips Avent SCF355/00 - Calienta Biberón Rápido  Función de Descongelación  Calentamiento Uniforme Del Líquido [Enchufe Español]  Blanco](https://www.amazon.es/dp/B00IEV9ZG2/?tag=tolees-21) con 46.06 de descuento por 16.99 EUR (original: 31.5 EUR) en el siguiente enlace!

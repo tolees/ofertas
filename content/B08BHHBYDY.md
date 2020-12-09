@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Anykuu Webcam 1080p Full HD con Micrófono Webcam USB Compatible con Windows para PC Portátil Desktop USB 2.0 Soporta Varias Herramientas de Chat y Software de Videoconferencia
+prodname: 'Anykuu Webcam 1080p Full HD con Micrófono Webcam USB Compatible con Windows para PC Portátil Desktop USB 2.0 Soporta Varias Herramientas de Chat y Software de Videoconferencia'
 ---
 
 Tienes [Anykuu Webcam 1080p Full HD con Micrófono Webcam USB Compatible con Windows para PC Portátil Desktop USB 2.0 Soporta Varias Herramientas de Chat y Software de Videoconferencia](https://www.amazon.es/dp/B08BHHBYDY/?tag=tolees-21) con un 31.05 % de descuento con precio de oferta de 19.99 EUR (original: 28.99 EUR) en el siguiente enlace!

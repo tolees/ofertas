@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 32.0 EUR
 inStock: true
-prodname: Victoria Botin Basket Autoclave  Zapatillas Altas Unisex Adulto  Noir Negro 10  42 EU
+prodname: 'Victoria Botin Basket Autoclave  Zapatillas Altas Unisex Adulto  Noir Negro 10  42 EU'
 ---
 
 Tienes [Victoria Botin Basket Autoclave  Zapatillas Altas Unisex Adulto  Noir Negro 10  42 EU](https://www.amazon.es/dp/B01MQPWVVA/?tag=tolees-21) con un 56.28 % de descuento con precio de oferta de 13.99 EUR (original: 32.0 EUR) en el siguiente enlace!

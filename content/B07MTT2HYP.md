@@ -14,7 +14,7 @@ currency: EUR
 price: 27.19
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Monopoly - Juego de Tronos  versión Española  Hasbro E3278105 
+prodname: 'Monopoly - Juego de Tronos  versión Española  Hasbro E3278105 '
 ---
 
 Tienes [Monopoly - Juego de Tronos  versión Española  Hasbro E3278105 ](https://www.amazon.es/dp/B07MTT2HYP/?tag=tolees-21) con un 32.01 % de descuento con precio de oferta de 27.19 EUR (original: 39.99 EUR) en el siguiente enlace!

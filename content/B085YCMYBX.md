@@ -14,7 +14,7 @@ currency: EUR
 price: 19.11
 comparePrice: 49.95 EUR
 inStock: true
-prodname: YAMAMAY® Dress with a Soft Neckline - Party
+prodname: 'YAMAMAY® Dress with a Soft Neckline - Party'
 ---
 
 Tienes [YAMAMAY® Dress with a Soft Neckline - Party](https://www.amazon.es/dp/B085YCMYBX/?tag=tolees-21) con un 61.74 % de descuento con precio de oferta de 19.11 EUR (original: 49.95 EUR) en el siguiente enlace!

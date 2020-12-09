@@ -14,7 +14,7 @@ currency: EUR
 price: 159.0
 comparePrice: 219.99 EUR
 inStock: true
-prodname: Zanussi ZGH66424XS Placa de gas  4 fuegos  Mandos frontales  Quemador Wok  Calor Instantaneo  Entendido electrónico  Parrillas hierro fundido  Termopar de Seguridad  Antihuella  Inox  60 cm
+prodname: 'Zanussi ZGH66424XS Placa de gas  4 fuegos  Mandos frontales  Quemador Wok  Calor Instantaneo  Entendido electrónico  Parrillas hierro fundido  Termopar de Seguridad  Antihuella  Inox  60 cm'
 ---
 
 Está [Zanussi ZGH66424XS Placa de gas  4 fuegos  Mandos frontales  Quemador Wok  Calor Instantaneo  Entendido electrónico  Parrillas hierro fundido  Termopar de Seguridad  Antihuella  Inox  60 cm](https://www.amazon.es/dp/B07FWFWH6F/?tag=tolees-21) con 27.72 de descuento por 159.0 EUR (original: 219.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.45
 comparePrice: 17.16 EUR
 inStock: true
-prodname: find. Suede Mocasines  Negro Black  41 EU
+prodname: 'find. Suede Mocasines  Negro Black  41 EU'
 ---
 
 Está [find. Suede Mocasines  Negro Black  41 EU](https://www.amazon.es/dp/B07FGK6KGX/?tag=tolees-21) con 27.45 de descuento por 12.45 EUR (original: 17.16 EUR) en el siguiente enlace!

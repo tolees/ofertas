@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Mini Aire Acondicionado Móvil  Climatizador Evaporativo，Humidificador con 3 velocidades  Filtro con Algodón Antibacteriano  Tanque de agua sin Fuga  USB  Luz Nocturna para Hogar  Oficina y coche
+prodname: 'Mini Aire Acondicionado Móvil  Climatizador Evaporativo，Humidificador con 3 velocidades  Filtro con Algodón Antibacteriano  Tanque de agua sin Fuga  USB  Luz Nocturna para Hogar  Oficina y coche'
 ---
 
 Tienes [Mini Aire Acondicionado Móvil  Climatizador Evaporativo，Humidificador con 3 velocidades  Filtro con Algodón Antibacteriano  Tanque de agua sin Fuga  USB  Luz Nocturna para Hogar  Oficina y coche](https://www.amazon.es/dp/B07TMCRP5D/?tag=tolees-21) con un 32.01 % de descuento con precio de oferta de 33.99 EUR (original: 49.99 EUR) en el siguiente enlace!

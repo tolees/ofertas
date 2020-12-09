@@ -14,7 +14,7 @@ currency: EUR
 price: 286.75
 comparePrice: 515.0 EUR
 inStock: true
-prodname: HUION Nueva Kamvas 20 2019 Tableta Gráfica con Pantalla  Versión de Actualización Kamvas GT-191 V2 Monitor de Dibujo  120% sRGB  ± 60 ° de inclinación  PW507 Stylus Kamvas GT-191 V3
+prodname: 'HUION Nueva Kamvas 20 2019 Tableta Gráfica con Pantalla  Versión de Actualización Kamvas GT-191 V2 Monitor de Dibujo  120% sRGB  ± 60 ° de inclinación  PW507 Stylus Kamvas GT-191 V3'
 ---
 
 Ahora mismo tienes [HUION Nueva Kamvas 20 2019 Tableta Gráfica con Pantalla  Versión de Actualización Kamvas GT-191 V2 Monitor de Dibujo  120% sRGB  ± 60 ° de inclinación  PW507 Stylus Kamvas GT-191 V3](https://www.amazon.es/dp/B07RS12LTL/?tag=tolees-21) a 286.75 EUR (original: 515.0 EUR) (44.32 %  de descuento) en el siguiente enlace!

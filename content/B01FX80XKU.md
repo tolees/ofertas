@@ -14,7 +14,7 @@ currency: EUR
 price: 53.49
 comparePrice: 138.42 EUR
 inStock: true
-prodname: Plafón LED para exterior  IP54   con temperatura de color ajustable
+prodname: 'Plafón LED para exterior  IP54   con temperatura de color ajustable'
 ---
 
 Está [Plafón LED para exterior  IP54   con temperatura de color ajustable](https://www.amazon.es/dp/B01FX80XKU/?tag=tolees-21) con 61.36 de descuento por 53.49 EUR (original: 138.42 EUR) en el siguiente enlace!

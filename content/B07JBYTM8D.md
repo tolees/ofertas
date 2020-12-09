@@ -14,7 +14,7 @@ currency: EUR
 price: 39.47
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Lee Extreme Motion Vaqueros Straight  Azul  Trip CR   32W / 34L para Hombre
+prodname: 'Lee Extreme Motion Vaqueros Straight  Azul  Trip CR   32W / 34L para Hombre'
 ---
 
 Ahora mismo tienes [Lee Extreme Motion Vaqueros Straight  Azul  Trip CR   32W / 34L para Hombre](https://www.amazon.es/dp/B07JBYTM8D/?tag=tolees-21) a 39.47 EUR (original: 69.95 EUR) (43.57 %  de descuento) en el siguiente enlace!

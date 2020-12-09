@@ -14,13 +14,15 @@ currency: EUR
 price: 11.8
 comparePrice: 15.9 EUR
 inStock: true
-prodname: JANDEI - 2x Downlight LED 18W Redondo Plano De Empotrar Luz Blanca Fría 6000K  Aluminio Aro Blanco Mate  Para Hueco De 200-205mm Blanco …
+prodname: 'JANDEI - 2x Downlight LED 18W Redondo Plano De Empotrar Luz Blanca Fría 6000K  Aluminio Aro Blanco Mate  Para Hueco De 200-205mm Blanco …'
 ---
 
-Ahora mismo tienes [JANDEI - 2x Downlight LED 18W Redondo Plano De Empotrar Luz Blanca Fría 6000K  Aluminio Aro Blanco Mate  Para Hueco De 200-205mm Blanco …](https://www.amazon.es/dp/B07B2ZWYH5/?tag=tolees-21) a 11.8 EUR (original: 15.9 EUR) (25.79 %  de descuento) en el siguiente enlace!
+Está [JANDEI - 2x Downlight LED 18W Redondo Plano De Empotrar Luz Blanca Fría 6000K  Aluminio Aro Blanco Mate  Para Hueco De 200-205mm Blanco …](https://www.amazon.es/dp/B07B2ZWYH5/?tag=tolees-21) con 25.79 de descuento por 11.8 EUR (original: 15.9 EUR) en el siguiente enlace!
 
 [![JANDEI - 2x Downlight LED 18W Redondo Pl](https://m.media-amazon.com/images/I/41tgIQCiJhL._SL200_.jpg)](https://www.amazon.es/dp/B07B2ZWYH5/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07B2ZWYH5/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B2ZWYH5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

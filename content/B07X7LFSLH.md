@@ -14,7 +14,7 @@ currency: EUR
 price: 5.88
 comparePrice: 9.39 EUR
 inStock: true
-prodname: Cadena Luces Solares  Haofy Guirnalda Luces Solares Exterior 20M 200 LED Blanco Cálido  8 Modos de Luz  IP67 Impermeable  Decoración para DIY Navidad  Fiestas  Bodas  Jardín [Clase de eficiencia A+]
+prodname: 'Cadena Luces Solares  Haofy Guirnalda Luces Solares Exterior 20M 200 LED Blanco Cálido  8 Modos de Luz  IP67 Impermeable  Decoración para DIY Navidad  Fiestas  Bodas  Jardín [Clase de eficiencia A+]'
 ---
 
 Ahora mismo tienes [Cadena Luces Solares  Haofy Guirnalda Luces Solares Exterior 20M 200 LED Blanco Cálido  8 Modos de Luz  IP67 Impermeable  Decoración para DIY Navidad  Fiestas  Bodas  Jardín [Clase de eficiencia A+]](https://www.amazon.es/dp/B07X7LFSLH/?tag=tolees-21) a 5.88 EUR (original: 9.39 EUR) (37.38 %  de descuento) en el siguiente enlace!

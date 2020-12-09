@@ -14,7 +14,7 @@ currency: EUR
 price: 19.86
 comparePrice: 27 EUR
 inStock: true
-prodname: Philips myLiving Lámpara de mesa  iluminación interior E27  11 W  azul
+prodname: 'Philips myLiving Lámpara de mesa  iluminación interior E27  11 W  azul'
 ---
 
 Está [Philips myLiving Lámpara de mesa  iluminación interior E27  11 W  azul](https://www.amazon.es/dp/B005DWMQCU/?tag=tolees-21) con 26.44 de descuento por 19.86 EUR (original: 27 EUR) en el siguiente enlace!

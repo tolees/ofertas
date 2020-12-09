@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 125.0 EUR
 inStock: true
-prodname: Logitech MK850 Combo Teclado y Ratón Multidispositivos  2.4 GHz/Bluetooth  Estructura Curvada  Ratón Inalámbrico 12 Botones Programables Batería de hasta 3 Años PC/Mac Disposición QWERTY Español Negro
+prodname: 'Logitech MK850 Combo Teclado y Ratón Multidispositivos  2.4 GHz/Bluetooth  Estructura Curvada  Ratón Inalámbrico 12 Botones Programables Batería de hasta 3 Años PC/Mac Disposición QWERTY Español Negro'
 ---
 
 Tienes [Logitech MK850 Combo Teclado y Ratón Multidispositivos  2.4 GHz/Bluetooth  Estructura Curvada  Ratón Inalámbrico 12 Botones Programables Batería de hasta 3 Años PC/Mac Disposición QWERTY Español Negro](https://www.amazon.es/dp/B01MU77FQQ/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 89.99 EUR (original: 125.0 EUR) en el siguiente enlace!

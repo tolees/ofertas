@@ -14,7 +14,7 @@ currency: EUR
 price: 42.18
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Slim Bleecker Chino Org Str Twl  Pantalones para Hombre  Marrón  Tiger s Eye 203   W32/L34
+prodname: 'Tommy Hilfiger Slim Bleecker Chino Org Str Twl  Pantalones para Hombre  Marrón  Tiger s Eye 203   W32/L34'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Slim Bleecker Chino Org Str Twl  Pantalones para Hombre  Marrón  Tiger s Eye 203   W32/L34](https://www.amazon.es/dp/B07L3GZPHG/?tag=tolees-21) a 42.18 EUR (original: 99.9 EUR) (57.78 %  de descuento) en el siguiente enlace!

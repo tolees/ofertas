@@ -14,7 +14,7 @@ currency: EUR
 price: 27.12
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Skechers Performance 55061  Zapatillas Deportivas para Interior para Hombre  Gris  Charcoal   41 EU
+prodname: 'Skechers Performance 55061  Zapatillas Deportivas para Interior para Hombre  Gris  Charcoal   41 EU'
 ---
 
 Ahora mismo tienes [Skechers Performance 55061  Zapatillas Deportivas para Interior para Hombre  Gris  Charcoal   41 EU](https://www.amazon.es/dp/B01NAUS7XJ/?tag=tolees-21) a 27.12 EUR (original: 59.95 EUR) (54.76 %  de descuento) en el siguiente enlace!

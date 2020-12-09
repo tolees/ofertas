@@ -14,7 +14,7 @@ currency: EUR
 price: 19.43
 comparePrice: 73.72 EUR
 inStock: true
-prodname: Dorothy Perkins Padded Parka  Negro  Black 130   42  Talla del Fabricante: 14  para Mujer
+prodname: 'Dorothy Perkins Padded Parka  Negro  Black 130   42  Talla del Fabricante: 14  para Mujer'
 ---
 
 Tienes [Dorothy Perkins Padded Parka  Negro  Black 130   42  Talla del Fabricante: 14  para Mujer](https://www.amazon.es/dp/B07JCLG3Z6/?tag=tolees-21) con un 73.64 % de descuento con precio de oferta de 19.43 EUR (original: 73.72 EUR) en el siguiente enlace!

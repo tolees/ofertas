@@ -14,7 +14,7 @@ currency: EUR
 price: 104.35
 comparePrice: 139.95 EUR
 inStock: true
-prodname: Adidas Terrex AX3 Mid GTX  Zapatillas de Deporte para Hombre  Negro  Negbás/Negbás/Carbon 000   39 1/3 EU
+prodname: 'Adidas Terrex AX3 Mid GTX  Zapatillas de Deporte para Hombre  Negro  Negbás/Negbás/Carbon 000   39 1/3 EU'
 ---
 
 Ahora mismo tienes [Adidas Terrex AX3 Mid GTX  Zapatillas de Deporte para Hombre  Negro  Negbás/Negbás/Carbon 000   39 1/3 EU](https://www.amazon.es/dp/B07L4MWFT2/?tag=tolees-21) a 104.35 EUR (original: 139.95 EUR) (25.44 %  de descuento) en el siguiente enlace!

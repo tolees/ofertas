@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 27 EUR
 inStock: true
-prodname: Taza de café con aislamiento doble Y  500 ml  acero inoxidable Black-lxb
+prodname: 'Taza de café con aislamiento doble Y  500 ml  acero inoxidable Black-lxb'
 ---
 
 Ahora mismo tienes [Taza de café con aislamiento doble Y  500 ml  acero inoxidable Black-lxb](https://www.amazon.es/dp/B07FSSVL8G/?tag=tolees-21) a 10.99 EUR (original: 27 EUR) (59.30 %  de descuento) en el siguiente enlace!

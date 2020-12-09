@@ -14,7 +14,7 @@ currency: EUR
 price: 27.25
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Puma ESS Hoody TR Big Logo Sweatshirt  Hombre  Black  XL
+prodname: 'Puma ESS Hoody TR Big Logo Sweatshirt  Hombre  Black  XL'
 ---
 
 Ahora mismo tienes [Puma ESS Hoody TR Big Logo Sweatshirt  Hombre  Black  XL](https://www.amazon.es/dp/B07DKLRV8M/?tag=tolees-21) a 27.25 EUR (original: 54.95 EUR) (50.41 %  de descuento) en el siguiente enlace!

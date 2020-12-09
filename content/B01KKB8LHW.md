@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 36.99 EUR
 inStock: true
-prodname: MiniSun – Set de 2 lámparas modernas de mesa táctiles  con forma de gota - Cromadas y pantallas de tela color negro
+prodname: 'MiniSun – Set de 2 lámparas modernas de mesa táctiles  con forma de gota - Cromadas y pantallas de tela color negro'
 ---
 
 Ahora mismo tienes [MiniSun – Set de 2 lámparas modernas de mesa táctiles  con forma de gota - Cromadas y pantallas de tela color negro](https://www.amazon.es/dp/B01KKB8LHW/?tag=tolees-21) a 23.99 EUR (original: 36.99 EUR) (35.14 %  de descuento) en el siguiente enlace!

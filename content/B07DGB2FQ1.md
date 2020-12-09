@@ -14,7 +14,7 @@ currency: EUR
 price: 95.49
 comparePrice: 300 EUR
 inStock: true
-prodname: Love Moschino Jumpers  suéter Mujer  Gris  Mel.Medium Gray B544   40  Talla del Fabricante: 42 
+prodname: 'Love Moschino Jumpers  suéter Mujer  Gris  Mel.Medium Gray B544   40  Talla del Fabricante: 42 '
 ---
 
 Tienes [Love Moschino Jumpers  suéter Mujer  Gris  Mel.Medium Gray B544   40  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07DGB2FQ1/?tag=tolees-21) con un 68.17 % de descuento con precio de oferta de 95.49 EUR (original: 300 EUR) en el siguiente enlace!

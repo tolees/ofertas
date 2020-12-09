@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: morpilot 2 en 1 Quitapelusas Eléctrica Recargable y Rodillo de Pelusa  Removedor de Pelusas Eléctrico con USB para Ropa  Suéteres Caspa de Animales  Mobiliario
+prodname: 'morpilot 2 en 1 Quitapelusas Eléctrica Recargable y Rodillo de Pelusa  Removedor de Pelusas Eléctrico con USB para Ropa  Suéteres Caspa de Animales  Mobiliario'
 ---
 
 Tienes [morpilot 2 en 1 Quitapelusas Eléctrica Recargable y Rodillo de Pelusa  Removedor de Pelusas Eléctrico con USB para Ropa  Suéteres Caspa de Animales  Mobiliario](https://www.amazon.es/dp/B078MBJMGQ/?tag=tolees-21) con un 75.01 % de descuento con precio de oferta de 19.99 EUR (original: 79.99 EUR) en el siguiente enlace!

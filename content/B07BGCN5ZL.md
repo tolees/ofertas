@@ -14,7 +14,7 @@ currency: EUR
 price: 14.44
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Clarks Crown Piper  Botas Slouch para Niñas  Rosa  Pink Suede   22 EU
+prodname: 'Clarks Crown Piper  Botas Slouch para Niñas  Rosa  Pink Suede   22 EU'
 ---
 
 Ahora mismo tienes [Clarks Crown Piper  Botas Slouch para Niñas  Rosa  Pink Suede   22 EU](https://www.amazon.es/dp/B07BGCN5ZL/?tag=tolees-21) a 14.44 EUR (original: 64.95 EUR) (77.77 %  de descuento) en el siguiente enlace!

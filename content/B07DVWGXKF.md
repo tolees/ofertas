@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Autmor OBD II Auto Diagnóstico de Coches OBD2  OBD Lector de Código con Pantalla LCD Escáner de Códigos de Vehículos para Lecturar y Borrar de DTC  Herramienta de Diagnostico de Coches Portátil
+prodname: 'Autmor OBD II Auto Diagnóstico de Coches OBD2  OBD Lector de Código con Pantalla LCD Escáner de Códigos de Vehículos para Lecturar y Borrar de DTC  Herramienta de Diagnostico de Coches Portátil'
 ---
 
 Ahora mismo tienes [Autmor OBD II Auto Diagnóstico de Coches OBD2  OBD Lector de Código con Pantalla LCD Escáner de Códigos de Vehículos para Lecturar y Borrar de DTC  Herramienta de Diagnostico de Coches Portátil](https://www.amazon.es/dp/B07DVWGXKF/?tag=tolees-21) a 12.99 EUR (original: 27.99 EUR) (53.59 %  de descuento) en el siguiente enlace!

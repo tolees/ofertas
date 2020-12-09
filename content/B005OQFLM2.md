@@ -14,7 +14,7 @@ currency: EUR
 price: 16.08
 comparePrice: 25 EUR
 inStock: true
-prodname: Umbra 299035-040 Organizador de joyas Negro
+prodname: 'Umbra 299035-040 Organizador de joyas Negro'
 ---
 
 Está [Umbra 299035-040 Organizador de joyas Negro](https://www.amazon.es/dp/B005OQFLM2/?tag=tolees-21) con 35.68 de descuento por 16.08 EUR (original: 25 EUR) en el siguiente enlace!

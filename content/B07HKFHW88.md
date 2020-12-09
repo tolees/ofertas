@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Rhodesy Madera de Cedro Antipolillas  Bloques de Cedro para Almacenamiento de Ropa Bolas Naturales de Cedro Aromáticos Trampas de la Polilla  Conjunto Mixto de 40
+prodname: 'Rhodesy Madera de Cedro Antipolillas  Bloques de Cedro para Almacenamiento de Ropa Bolas Naturales de Cedro Aromáticos Trampas de la Polilla  Conjunto Mixto de 40'
 ---
 
 Está [Rhodesy Madera de Cedro Antipolillas  Bloques de Cedro para Almacenamiento de Ropa Bolas Naturales de Cedro Aromáticos Trampas de la Polilla  Conjunto Mixto de 40](https://www.amazon.es/dp/B07HKFHW88/?tag=tolees-21) con 33.35 de descuento por 17.99 EUR (original: 26.99 EUR) en el siguiente enlace!

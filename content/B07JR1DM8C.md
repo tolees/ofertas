@@ -14,7 +14,7 @@ currency: EUR
 price: 18.89
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Youtubers Life  PS4
+prodname: 'Youtubers Life  PS4'
 ---
 
 Tienes [Youtubers Life  PS4](https://www.amazon.es/dp/B07JR1DM8C/?tag=tolees-21) con un 37.01 % de descuento con precio de oferta de 18.89 EUR (original: 29.99 EUR) en el siguiente enlace!

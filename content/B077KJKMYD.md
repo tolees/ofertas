@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 109.99 EUR
 inStock: true
-prodname: Razer Naga Trinity - Ratón para Juegos MOBA/MMO  3 Placas Laterales Intercambiables  Sensor Óptico de 5G de 16 000 PPP  hasta 19 Botones Programables   Negro
+prodname: 'Razer Naga Trinity - Ratón para Juegos MOBA/MMO  3 Placas Laterales Intercambiables  Sensor Óptico de 5G de 16 000 PPP  hasta 19 Botones Programables   Negro'
 ---
 
 Está [Razer Naga Trinity - Ratón para Juegos MOBA/MMO  3 Placas Laterales Intercambiables  Sensor Óptico de 5G de 16 000 PPP  hasta 19 Botones Programables   Negro](https://www.amazon.es/dp/B077KJKMYD/?tag=tolees-21) con 41.82 de descuento por 63.99 EUR (original: 109.99 EUR) en el siguiente enlace!

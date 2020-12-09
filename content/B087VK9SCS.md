@@ -14,7 +14,7 @@ currency: EUR
 price: 53.49
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Powder Lite Chaqueta con Capucha para Mujer  Azul  Dark Nocturnal Traditional Camo   L
+prodname: 'Columbia Powder Lite Chaqueta con Capucha para Mujer  Azul  Dark Nocturnal Traditional Camo   L'
 ---
 
 Está [Columbia Powder Lite Chaqueta con Capucha para Mujer  Azul  Dark Nocturnal Traditional Camo   L](https://www.amazon.es/dp/B087VK9SCS/?tag=tolees-21) con 58.85 de descuento por 53.49 EUR (original: 129.99 EUR) en el siguiente enlace!

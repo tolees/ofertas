@@ -14,7 +14,7 @@ currency: EUR
 price: 45.11
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers UNO Stand ON Air  Zapatillas Mujer  Beige Blanco Durabuck Navy Rojo Trim Wnvr  39 EU
+prodname: 'Skechers UNO Stand ON Air  Zapatillas Mujer  Beige Blanco Durabuck Navy Rojo Trim Wnvr  39 EU'
 ---
 
 Está [Skechers UNO Stand ON Air  Zapatillas Mujer  Beige Blanco Durabuck Navy Rojo Trim Wnvr  39 EU](https://www.amazon.es/dp/B07VXK5VMT/?tag=tolees-21) con 35.51 de descuento por 45.11 EUR (original: 69.95 EUR) en el siguiente enlace!

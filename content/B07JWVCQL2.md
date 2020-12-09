@@ -14,7 +14,7 @@ currency: EUR
 price: 10.5
 comparePrice: 17.38 EUR
 inStock: true
-prodname: Bohemian Rhapsody [DVD]
+prodname: 'Bohemian Rhapsody [DVD]'
 ---
 
 Ahora mismo tienes [Bohemian Rhapsody [DVD]](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21) a 10.5 EUR (original: 17.38 EUR) (39.59 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 44.68 EUR
 inStock: true
-prodname: Raqueta de tenis junior  bastidor de aluminio de carbono de 19.7 Inch Raqueta de tenis para niños colgada con bolsa de almacenamiento  ideal para niños Niños Entrenamiento deportivo de niños y niñas  50cm 
+prodname: 'Raqueta de tenis junior  bastidor de aluminio de carbono de 19.7 Inch Raqueta de tenis para niños colgada con bolsa de almacenamiento  ideal para niños Niños Entrenamiento deportivo de niños y niñas  50cm '
 ---
 
 Está [Raqueta de tenis junior  bastidor de aluminio de carbono de 19.7 Inch Raqueta de tenis para niños colgada con bolsa de almacenamiento  ideal para niños Niños Entrenamiento deportivo de niños y niñas  50cm ](https://www.amazon.es/dp/B07GZTL2VK/?tag=tolees-21) con 61.97 de descuento por 16.99 EUR (original: 44.68 EUR) en el siguiente enlace!

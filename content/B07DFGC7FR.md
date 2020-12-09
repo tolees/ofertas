@@ -14,7 +14,7 @@ currency: EUR
 price: 8.49
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Pop! Game of Thrones - Figura de Vinilo BRAN Stark
+prodname: 'Pop! Game of Thrones - Figura de Vinilo BRAN Stark'
 ---
 
 Ahora mismo tienes [Pop! Game of Thrones - Figura de Vinilo BRAN Stark](https://www.amazon.es/dp/B07DFGC7FR/?tag=tolees-21) a 8.49 EUR (original: 15.95 EUR) (46.77 %  de descuento) en el siguiente enlace!

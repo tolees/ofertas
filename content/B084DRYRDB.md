@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 9.9 EUR
 inStock: true
-prodname: Lékué 8420460014409 Cortador de frutas y verduras  Acero Inoxidable  Negro
+prodname: 'Lékué 8420460014409 Cortador de frutas y verduras  Acero Inoxidable  Negro'
 ---
 
 Está [Lékué 8420460014409 Cortador de frutas y verduras  Acero Inoxidable  Negro](https://www.amazon.es/dp/B084DRYRDB/?tag=tolees-21) con 29.80 de descuento por 6.95 EUR (original: 9.9 EUR) en el siguiente enlace!

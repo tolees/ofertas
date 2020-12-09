@@ -14,7 +14,7 @@ currency: EUR
 price: 7.74
 comparePrice: 34.95 EUR
 inStock: true
-prodname: VERO MODA VMNORA LS TOP SWT  suéter Mujer  Gris  Dark Grey Melange   36  Talla del fabricante: Small 
+prodname: 'VERO MODA VMNORA LS TOP SWT  suéter Mujer  Gris  Dark Grey Melange   36  Talla del fabricante: Small '
 ---
 
 Ahora mismo tienes [VERO MODA VMNORA LS TOP SWT  suéter Mujer  Gris  Dark Grey Melange   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01GA5FAIA/?tag=tolees-21) a 7.74 EUR (original: 34.95 EUR) (77.85 %  de descuento) en el siguiente enlace!

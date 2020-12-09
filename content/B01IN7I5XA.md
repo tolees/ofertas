@@ -14,7 +14,7 @@ currency: EUR
 price: 20.6
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Gioseppo Anaheim - Botas para Mujer  Color marrón  Talla 38
+prodname: 'Gioseppo Anaheim - Botas para Mujer  Color marrón  Talla 38'
 ---
 
 Ahora mismo tienes [Gioseppo Anaheim - Botas para Mujer  Color marrón  Talla 38](https://www.amazon.es/dp/B01IN7I5XA/?tag=tolees-21) a 20.6 EUR (original: 69.95 EUR) (70.55 %  de descuento) en el siguiente enlace!

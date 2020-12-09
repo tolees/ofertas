@@ -14,7 +14,7 @@ currency: EUR
 price: 4.31
 comparePrice: 7.99 EUR
 inStock: true
-prodname: Levi s Levis 168sf Low Rise 2p Calcetines  Azul  Denim Blue 460   35/38  Talla del fabricante: 035  para Hombre
+prodname: 'Levi s Levis 168sf Low Rise 2p Calcetines  Azul  Denim Blue 460   35/38  Talla del fabricante: 035  para Hombre'
 ---
 
 Tienes [Levi s Levis 168sf Low Rise 2p Calcetines  Azul  Denim Blue 460   35/38  Talla del fabricante: 035  para Hombre](https://www.amazon.es/dp/B07VTGDCFL/?tag=tolees-21) con un 46.06 % de descuento con precio de oferta de 4.31 EUR (original: 7.99 EUR) en el siguiente enlace!

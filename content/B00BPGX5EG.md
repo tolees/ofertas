@@ -14,7 +14,7 @@ currency: EUR
 price: 5.8
 comparePrice: 35.95 EUR
 inStock: true
-prodname: Jako Shorts Attack 2.0 - Pantalones Cortos de fútbol para Hombre  Color  Talla 46
+prodname: 'Jako Shorts Attack 2.0 - Pantalones Cortos de fútbol para Hombre  Color  Talla 46'
 ---
 
 Tienes [Jako Shorts Attack 2.0 - Pantalones Cortos de fútbol para Hombre  Color  Talla 46](https://www.amazon.es/dp/B00BPGX5EG/?tag=tolees-21) con un 83.87 % de descuento con precio de oferta de 5.8 EUR (original: 35.95 EUR) en el siguiente enlace!

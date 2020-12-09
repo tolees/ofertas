@@ -14,7 +14,7 @@ currency: EUR
 price: 33.25
 comparePrice: 80 EUR
 inStock: true
-prodname: Burton Brtn Crew Sudadera  Hombre  Negro  True   S
+prodname: 'Burton Brtn Crew Sudadera  Hombre  Negro  True   S'
 ---
 
 Está [Burton Brtn Crew Sudadera  Hombre  Negro  True   S](https://www.amazon.es/dp/B07DQCNNFZ/?tag=tolees-21) con 58.44 de descuento por 33.25 EUR (original: 80 EUR) en el siguiente enlace!

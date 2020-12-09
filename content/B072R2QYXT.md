@@ -14,7 +14,7 @@ currency: EUR
 price: 31.63
 comparePrice: 119.95 EUR
 inStock: true
-prodname: adidas EQT Support RF W  Zapatillas de Deporte para Mujer  Rubmis/Balcri  39 1/3 EU
+prodname: 'adidas EQT Support RF W  Zapatillas de Deporte para Mujer  Rubmis/Balcri  39 1/3 EU'
 ---
 
 Tienes [adidas EQT Support RF W  Zapatillas de Deporte para Mujer  Rubmis/Balcri  39 1/3 EU](https://www.amazon.es/dp/B072R2QYXT/?tag=tolees-21) con un 73.63 % de descuento con precio de oferta de 31.63 EUR (original: 119.95 EUR) en el siguiente enlace!

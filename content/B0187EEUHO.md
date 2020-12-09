@@ -14,7 +14,7 @@ currency: EUR
 price: 23.0
 comparePrice: 32.0 EUR
 inStock: true
-prodname: Safety 1st 24835510 Barrera de cama portátil y extensible  Barandilla cama plegable  protección anticaídas  color Gris
+prodname: 'Safety 1st 24835510 Barrera de cama portátil y extensible  Barandilla cama plegable  protección anticaídas  color Gris'
 ---
 
 Tienes [Safety 1st 24835510 Barrera de cama portátil y extensible  Barandilla cama plegable  protección anticaídas  color Gris](https://www.amazon.es/dp/B0187EEUHO/?tag=tolees-21) con un 28.12 % de descuento con precio de oferta de 23.0 EUR (original: 32.0 EUR) en el siguiente enlace!

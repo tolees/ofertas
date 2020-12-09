@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Glynee Depiladora Eléctrica Profesional para Mujer  Afeitadora Electrica Impermeable Femenina con Pantalla LED  Poco Ruido  Bloqueable  para Piel Seca o Húmeda en Axilas  Piernas  Cuerpo y Brazos
+prodname: 'Glynee Depiladora Eléctrica Profesional para Mujer  Afeitadora Electrica Impermeable Femenina con Pantalla LED  Poco Ruido  Bloqueable  para Piel Seca o Húmeda en Axilas  Piernas  Cuerpo y Brazos'
 ---
 
 Tienes [Glynee Depiladora Eléctrica Profesional para Mujer  Afeitadora Electrica Impermeable Femenina con Pantalla LED  Poco Ruido  Bloqueable  para Piel Seca o Húmeda en Axilas  Piernas  Cuerpo y Brazos](https://www.amazon.es/dp/B07XZ2WQ1J/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 45.96
 comparePrice: 145 EUR
 inStock: true
-prodname: Calvin Klein - Instant Clutch On Chain Metalic  Carteras de mano Mujer  Dorado  Light Gold   5x14x27 cm  B x H T 
+prodname: 'Calvin Klein - Instant Clutch On Chain Metalic  Carteras de mano Mujer  Dorado  Light Gold   5x14x27 cm  B x H T '
 ---
 
 Tienes [Calvin Klein - Instant Clutch On Chain Metalic  Carteras de mano Mujer  Dorado  Light Gold   5x14x27 cm  B x H T ](https://www.amazon.es/dp/B079XHFQV4/?tag=tolees-21) con un 68.30 % de descuento con precio de oferta de 45.96 EUR (original: 145 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Pepe Jeans Clifford Camisa   Indigo 561   X-Small para Hombre
+prodname: 'Pepe Jeans Clifford Camisa   Indigo 561   X-Small para Hombre'
 ---
 
 Tienes [Pepe Jeans Clifford Camisa   Indigo 561   X-Small para Hombre](https://www.amazon.es/dp/B07CRDZLLG/?tag=tolees-21) con un 86.25 % de descuento con precio de oferta de 10.99 EUR (original: 79.9 EUR) en el siguiente enlace!

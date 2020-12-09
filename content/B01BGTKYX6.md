@@ -14,7 +14,7 @@ currency: EUR
 price: 67.99
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW 5620 Elwood 3D Skinny Jeans  Gris  dk aged cobler 7863-3143   35W / 38L para Hombre
+prodname: 'G-STAR RAW 5620 Elwood 3D Skinny Jeans  Gris  dk aged cobler 7863-3143   35W / 38L para Hombre'
 ---
 
 Tienes [G-STAR RAW 5620 Elwood 3D Skinny Jeans  Gris  dk aged cobler 7863-3143   35W / 38L para Hombre](https://www.amazon.es/dp/B01BGTKYX6/?tag=tolees-21) con un 51.42 % de descuento con precio de oferta de 67.99 EUR (original: 139.95 EUR) en el siguiente enlace!

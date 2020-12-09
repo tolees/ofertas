@@ -14,7 +14,7 @@ currency: EUR
 price: 16.72
 comparePrice: 24.48 EUR
 inStock: true
-prodname: Skin Doctors Crema Efecto Instantaneo Instant Eyelift 10 ml
+prodname: 'Skin Doctors Crema Efecto Instantaneo Instant Eyelift 10 ml'
 ---
 
 Está [Skin Doctors Crema Efecto Instantaneo Instant Eyelift 10 ml](https://www.amazon.es/dp/B000CST4HA/?tag=tolees-21) con 31.70 de descuento por 16.72 EUR (original: 24.48 EUR) en el siguiente enlace!

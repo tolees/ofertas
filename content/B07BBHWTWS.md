@@ -14,7 +14,7 @@ currency: EUR
 price: 64.7
 comparePrice: 88.94 EUR
 inStock: true
-prodname: La Silla Española Medinaceli Silla de Oficina Director con Reposabrazos  Piel Sintética  Negro  47x44x109 cm
+prodname: 'La Silla Española Medinaceli Silla de Oficina Director con Reposabrazos  Piel Sintética  Negro  47x44x109 cm'
 ---
 
 Está [La Silla Española Medinaceli Silla de Oficina Director con Reposabrazos  Piel Sintética  Negro  47x44x109 cm](https://www.amazon.es/dp/B07BBHWTWS/?tag=tolees-21) con 27.25 de descuento por 64.7 EUR (original: 88.94 EUR) en el siguiente enlace!

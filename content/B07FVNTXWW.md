@@ -14,7 +14,7 @@ currency: EUR
 price: 18.98
 comparePrice: 28.98 EUR
 inStock: true
-prodname: Pizarra Magnética Infantil Juguetes Educativos 37 * 30 cm Magnético Multicolor Tablero de Dibujo Borrable con 4 Sellos para Desarrollo Habilidades Regalo para Niñas Niños 3 4 5 Años
+prodname: 'Pizarra Magnética Infantil Juguetes Educativos 37 * 30 cm Magnético Multicolor Tablero de Dibujo Borrable con 4 Sellos para Desarrollo Habilidades Regalo para Niñas Niños 3 4 5 Años'
 ---
 
 Está [Pizarra Magnética Infantil Juguetes Educativos 37 * 30 cm Magnético Multicolor Tablero de Dibujo Borrable con 4 Sellos para Desarrollo Habilidades Regalo para Niñas Niños 3 4 5 Años](https://www.amazon.es/dp/B07FVNTXWW/?tag=tolees-21) con 34.51 de descuento por 18.98 EUR (original: 28.98 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 47.63
 comparePrice: 88.44 EUR
 inStock: true
-prodname: Rubson 1396742 Silicona líquida impermeabilizante  Blanco  5 Kg
+prodname: 'Rubson 1396742 Silicona líquida impermeabilizante  Blanco  5 Kg'
 ---
 
 Está [Rubson 1396742 Silicona líquida impermeabilizante  Blanco  5 Kg](https://www.amazon.es/dp/B00GDFSEOA/?tag=tolees-21) con 46.14 de descuento por 47.63 EUR (original: 88.44 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.5
 comparePrice: 29.95 EUR
 inStock: true
-prodname: PUMA 655924 04 XL Pantalones  Hombre  Azul  Aquarius/Black   XL
+prodname: 'PUMA 655924 04 XL Pantalones  Hombre  Azul  Aquarius/Black   XL'
 ---
 
 Está [PUMA 655924 04 XL Pantalones  Hombre  Azul  Aquarius/Black   XL](https://www.amazon.es/dp/B077SRPMZR/?tag=tolees-21) con 54.92 de descuento por 13.5 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 116.8
 comparePrice: 174.74 EUR
 inStock: true
-prodname: Dr. Martens 1460 Vegan  Botas unisex  Negro  41 EU
+prodname: 'Dr. Martens 1460 Vegan  Botas unisex  Negro  41 EU'
 ---
 
 Ahora mismo tienes [Dr. Martens 1460 Vegan  Botas unisex  Negro  41 EU](https://www.amazon.es/dp/B004SI1QNU/?tag=tolees-21) a 116.8 EUR (original: 174.74 EUR) (33.16 %  de descuento) en el siguiente enlace!

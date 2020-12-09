@@ -14,7 +14,7 @@ currency: EUR
 price: 22.39
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Adidas CORE18 PRE PNT Sport trousers  Hombre  Black/ White  M
+prodname: 'Adidas CORE18 PRE PNT Sport trousers  Hombre  Black/ White  M'
 ---
 
 Tienes [Adidas CORE18 PRE PNT Sport trousers  Hombre  Black/ White  M](https://www.amazon.es/dp/B076HMRKQ4/?tag=tolees-21) con un 25.24 % de descuento con precio de oferta de 22.39 EUR (original: 29.95 EUR) en el siguiente enlace!

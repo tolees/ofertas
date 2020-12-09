@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Rhythm Paradise Megamix
+prodname: 'Rhythm Paradise Megamix'
 ---
 
 Ahora mismo tienes [Rhythm Paradise Megamix](https://www.amazon.es/dp/B01IQXNPBS/?tag=tolees-21) a 14.95 EUR (original: 29.99 EUR) (50.15 %  de descuento) en el siguiente enlace!

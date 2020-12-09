@@ -14,7 +14,7 @@ currency: EUR
 price: 7.18
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Vero Moda Vmanna 3/4 Blouse Noos suéter  Gris  Light Grey Melange   34  Talla del Fabricante: X-Small  para Mujer
+prodname: 'Vero Moda Vmanna 3/4 Blouse Noos suéter  Gris  Light Grey Melange   34  Talla del Fabricante: X-Small  para Mujer'
 ---
 
 Ahora mismo tienes [Vero Moda Vmanna 3/4 Blouse Noos suéter  Gris  Light Grey Melange   34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B0718XWMVK/?tag=tolees-21) a 7.18 EUR (original: 29.99 EUR) (76.06 %  de descuento) en el siguiente enlace!

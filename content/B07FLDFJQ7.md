@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Negro  Black 02a   M para Hombre
+prodname: 'Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Negro  Black 02a   M para Hombre'
 ---
 
 Está [Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Negro  Black 02a   M para Hombre](https://www.amazon.es/dp/B07FLDFJQ7/?tag=tolees-21) con 52.02 de descuento por 11.99 EUR (original: 24.99 EUR) en el siguiente enlace!

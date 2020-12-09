@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Kayhan Hombre Camisa Royal Paisley White/Bordeaux  L 
+prodname: 'Kayhan Hombre Camisa Royal Paisley White/Bordeaux  L '
 ---
 
 Está [Kayhan Hombre Camisa Royal Paisley White/Bordeaux  L ](https://www.amazon.es/dp/B01LF5OZAO/?tag=tolees-21) con 49.90 de descuento por 19.99 EUR (original: 39.9 EUR) en el siguiente enlace!

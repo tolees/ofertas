@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Looxmeer Correa de Adiestramiento para Perros  5m/10m/20m  Correa Perro Larga  Cuerda para Perros Manos Libres  Correa Resistente Fuerte para Camping Paseo  Negro
+prodname: 'Looxmeer Correa de Adiestramiento para Perros  5m/10m/20m  Correa Perro Larga  Cuerda para Perros Manos Libres  Correa Resistente Fuerte para Camping Paseo  Negro'
 ---
 
 Ahora mismo tienes [Looxmeer Correa de Adiestramiento para Perros  5m/10m/20m  Correa Perro Larga  Cuerda para Perros Manos Libres  Correa Resistente Fuerte para Camping Paseo  Negro](https://www.amazon.es/dp/B07Q1GXLZ9/?tag=tolees-21) a 11.99 EUR (original: 18.99 EUR) (36.86 %  de descuento) en el siguiente enlace!

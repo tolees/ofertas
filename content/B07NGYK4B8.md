@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Barbie - Muñeca y Moto Scooter de juguete con accesorios  Mattel GBK85 
+prodname: 'Barbie - Muñeca y Moto Scooter de juguete con accesorios  Mattel GBK85 '
 ---
 
 Está [Barbie - Muñeca y Moto Scooter de juguete con accesorios  Mattel GBK85 ](https://www.amazon.es/dp/B07NGYK4B8/?tag=tolees-21) con 33.48 de descuento por 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.87
 comparePrice: 23.2 EUR
 inStock: true
-prodname: Dim Slip 100% Coton 3+1  Braguita para Hombre  Géométrique Imp Rose Vichy + Uni Noir 78e  L  Talla del Fabricante: 4   Pack de 4
+prodname: 'Dim Slip 100% Coton 3+1  Braguita para Hombre  Géométrique Imp Rose Vichy + Uni Noir 78e  L  Talla del Fabricante: 4   Pack de 4'
 ---
 
 Tienes [Dim Slip 100% Coton 3+1  Braguita para Hombre  Géométrique Imp Rose Vichy + Uni Noir 78e  L  Talla del Fabricante: 4   Pack de 4](https://www.amazon.es/dp/B07DNWHXRD/?tag=tolees-21) con un 31.59 % de descuento con precio de oferta de 15.87 EUR (original: 23.2 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.25
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Big Star Colton  Vaqueros Tapered para Hombre  Azul W32L34
+prodname: 'Big Star Colton  Vaqueros Tapered para Hombre  Azul W32L34'
 ---
 
 Tienes [Big Star Colton  Vaqueros Tapered para Hombre  Azul W32L34](https://www.amazon.es/dp/B01LSDI7JI/?tag=tolees-21) con un 74.58 % de descuento con precio de oferta de 15.25 EUR (original: 59.99 EUR) en el siguiente enlace!

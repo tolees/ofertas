@@ -14,7 +14,7 @@ currency: EUR
 price: 7.28
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Only & Sons Onssato 5 Multi Clr Knit Noos suéter   Light Grey Melange Stripe   Medium para Hombre
+prodname: 'Only & Sons Onssato 5 Multi Clr Knit Noos suéter   Light Grey Melange Stripe   Medium para Hombre'
 ---
 
 Está [Only & Sons Onssato 5 Multi Clr Knit Noos suéter   Light Grey Melange Stripe   Medium para Hombre](https://www.amazon.es/dp/B07D7Y1YML/?tag=tolees-21) con 75.73 de descuento por 7.28 EUR (original: 29.99 EUR) en el siguiente enlace!

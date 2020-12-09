@@ -14,7 +14,7 @@ currency: EUR
 price: 28.13
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Verde  Ponderosa Pine White 16   38 EU
+prodname: 'Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Verde  Ponderosa Pine White 16   38 EU'
 ---
 
 Ahora mismo tienes [Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Verde  Ponderosa Pine White 16   38 EU](https://www.amazon.es/dp/B07DBVV8HY/?tag=tolees-21) a 28.13 EUR (original: 79.95 EUR) (64.82 %  de descuento) en el siguiente enlace!

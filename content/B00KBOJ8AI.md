@@ -14,7 +14,7 @@ currency: EUR
 price: 48.01
 comparePrice: 71.54 EUR
 inStock: true
-prodname: M MAGEFESA 01OPDINAM06 MAGEFESA 01OPDINAM06-Olla a presión súper rápida Modelo Dynamic 6L  Metal  22 cm
+prodname: 'M MAGEFESA 01OPDINAM06 MAGEFESA 01OPDINAM06-Olla a presión súper rápida Modelo Dynamic 6L  Metal  22 cm'
 ---
 
 Está [M MAGEFESA 01OPDINAM06 MAGEFESA 01OPDINAM06-Olla a presión súper rápida Modelo Dynamic 6L  Metal  22 cm](https://www.amazon.es/dp/B00KBOJ8AI/?tag=tolees-21) con 32.89 de descuento por 48.01 EUR (original: 71.54 EUR) en el siguiente enlace!

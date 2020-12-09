@@ -14,7 +14,7 @@ currency: EUR
 price: 36.15
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Geox D NYDAME A  Zapatillas Altas Mujer  Black C9997  41 EU
+prodname: 'Geox D NYDAME A  Zapatillas Altas Mujer  Black C9997  41 EU'
 ---
 
 Tienes [Geox D NYDAME A  Zapatillas Altas Mujer  Black C9997  41 EU](https://www.amazon.es/dp/B07DJ34FGH/?tag=tolees-21) con un 74.16 % de descuento con precio de oferta de 36.15 EUR (original: 139.9 EUR) en el siguiente enlace!

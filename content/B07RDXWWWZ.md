@@ -14,7 +14,7 @@ currency: EUR
 price: 39.0
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Panasonic EW1311G845 - Irrigador bucal eléctrico portátil de viaje con modo Air In  recargable  3 modos de limpieza  1.400 impulsos por minuto  4x boquillas incluidas  color verde
+prodname: 'Panasonic EW1311G845 - Irrigador bucal eléctrico portátil de viaje con modo Air In  recargable  3 modos de limpieza  1.400 impulsos por minuto  4x boquillas incluidas  color verde'
 ---
 
 Ahora mismo tienes [Panasonic EW1311G845 - Irrigador bucal eléctrico portátil de viaje con modo Air In  recargable  3 modos de limpieza  1.400 impulsos por minuto  4x boquillas incluidas  color verde](https://www.amazon.es/dp/B07RDXWWWZ/?tag=tolees-21) a 39.0 EUR (original: 59.0 EUR) (33.90 %  de descuento) en el siguiente enlace!

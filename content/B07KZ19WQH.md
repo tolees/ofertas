@@ -14,7 +14,7 @@ currency: EUR
 price: 11.72
 comparePrice: 55.99 EUR
 inStock: true
-prodname: Springfield 3.G.M.Trench Antelina Chaqueta  Mujer  Dorado  Tostado 50   One Size  Tamaño del Fabricante:40 
+prodname: 'Springfield 3.G.M.Trench Antelina Chaqueta  Mujer  Dorado  Tostado 50   One Size  Tamaño del Fabricante:40 '
 ---
 
 Está [Springfield 3.G.M.Trench Antelina Chaqueta  Mujer  Dorado  Tostado 50   One Size  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07KZ19WQH/?tag=tolees-21) con 79.07 de descuento por 11.72 EUR (original: 55.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.77
 comparePrice: 11.95 EUR
 inStock: true
-prodname: Bourjois Healthy Mix Base de maquillaje Tono 51 Light  Color claro   - 25 g
+prodname: 'Bourjois Healthy Mix Base de maquillaje Tono 51 Light  Color claro   - 25 g'
 ---
 
 Ahora mismo tienes [Bourjois Healthy Mix Base de maquillaje Tono 51 Light  Color claro   - 25 g](https://www.amazon.es/dp/B01N4EGMTG/?tag=tolees-21) a 4.77 EUR (original: 11.95 EUR) (60.08 %  de descuento) en el siguiente enlace!

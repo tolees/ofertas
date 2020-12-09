@@ -14,7 +14,7 @@ currency: EUR
 price: 29.88
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox D Myria C  Zapatillas Altas para Mujer  Rojo  Dk Burgundy   36 EU
+prodname: 'Geox D Myria C  Zapatillas Altas para Mujer  Rojo  Dk Burgundy   36 EU'
 ---
 
 Ahora mismo tienes [Geox D Myria C  Zapatillas Altas para Mujer  Rojo  Dk Burgundy   36 EU](https://www.amazon.es/dp/B06Y2TR4CM/?tag=tolees-21) a 29.88 EUR (original: 109.9 EUR) (72.81 %  de descuento) en el siguiente enlace!

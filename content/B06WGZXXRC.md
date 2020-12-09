@@ -14,7 +14,7 @@ currency: EUR
 price: 4.95
 comparePrice: 7.5 EUR
 inStock: true
-prodname: PLAYMOBIL- Esquiador  única  9288 
+prodname: 'PLAYMOBIL- Esquiador  única  9288 '
 ---
 
 Está [PLAYMOBIL- Esquiador  única  9288 ](https://www.amazon.es/dp/B06WGZXXRC/?tag=tolees-21) con 34.00 de descuento por 4.95 EUR (original: 7.5 EUR) en el siguiente enlace!

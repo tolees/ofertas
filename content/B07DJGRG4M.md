@@ -14,7 +14,7 @@ currency: EUR
 price: 28.63
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Dockers by Gerli 43st301  Botas Militar para Mujer  Amarillo  Golden Tan 910   37 EU
+prodname: 'Dockers by Gerli 43st301  Botas Militar para Mujer  Amarillo  Golden Tan 910   37 EU'
 ---
 
 Tienes [Dockers by Gerli 43st301  Botas Militar para Mujer  Amarillo  Golden Tan 910   37 EU](https://www.amazon.es/dp/B07DJGRG4M/?tag=tolees-21) con un 52.24 % de descuento con precio de oferta de 28.63 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 139.9
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Motorola Moto G9 Play - Pantalla Max Vision HD+ de 6.5"  procesador Qualcomm Snapdragon 662  sistema de triple cámara de 48MP  batería de 5000 mAH  Dual SIM  4/64GB  Android 10 - Color Verde
+prodname: 'Motorola Moto G9 Play - Pantalla Max Vision HD+ de 6.5"  procesador Qualcomm Snapdragon 662  sistema de triple cámara de 48MP  batería de 5000 mAH  Dual SIM  4/64GB  Android 10 - Color Verde'
 ---
 
 Tienes [Motorola Moto G9 Play - Pantalla Max Vision HD+ de 6.5"  procesador Qualcomm Snapdragon 662  sistema de triple cámara de 48MP  batería de 5000 mAH  Dual SIM  4/64GB  Android 10 - Color Verde](https://www.amazon.es/dp/B08GM9VLL8/?tag=tolees-21) con un 30.05 % de descuento con precio de oferta de 139.9 EUR (original: 199.99 EUR) en el siguiente enlace!

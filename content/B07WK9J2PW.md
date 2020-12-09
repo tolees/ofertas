@@ -14,7 +14,7 @@ currency: EUR
 price: 29.32
 comparePrice: 49.32 EUR
 inStock: true
-prodname: Hobaca GU10 Moderno Oro LED Focos para el techo Downlight Montadas en superficie Lámpara de techo Baño Habitación Iluminación de aplique de pared Mirro Luz de imagen Sala Luz de enfoque de pantalla
+prodname: 'Hobaca GU10 Moderno Oro LED Focos para el techo Downlight Montadas en superficie Lámpara de techo Baño Habitación Iluminación de aplique de pared Mirro Luz de imagen Sala Luz de enfoque de pantalla'
 ---
 
 Tienes [Hobaca GU10 Moderno Oro LED Focos para el techo Downlight Montadas en superficie Lámpara de techo Baño Habitación Iluminación de aplique de pared Mirro Luz de imagen Sala Luz de enfoque de pantalla](https://www.amazon.es/dp/B07WK9J2PW/?tag=tolees-21) con un 40.55 % de descuento con precio de oferta de 29.32 EUR (original: 49.32 EUR) en el siguiente enlace!

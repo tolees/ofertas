@@ -14,7 +14,7 @@ currency: EUR
 price: 57.09
 comparePrice: 110 EUR
 inStock: true
-prodname: Merrell Bare Access Flex  Zapatillas Deportivas para Interior para Hombre  Naranja Tropical Punch  44 EU
+prodname: 'Merrell Bare Access Flex  Zapatillas Deportivas para Interior para Hombre  Naranja Tropical Punch  44 EU'
 ---
 
 Tienes [Merrell Bare Access Flex  Zapatillas Deportivas para Interior para Hombre  Naranja Tropical Punch  44 EU](https://www.amazon.es/dp/B07D5PXH5Q/?tag=tolees-21) con un 48.10 % de descuento con precio de oferta de 57.09 EUR (original: 110 EUR) en el siguiente enlace!

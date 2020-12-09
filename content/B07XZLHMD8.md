@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: FIND - Rellenador de ácido hialurónico 3 en 1  reafirmante  antiojeras y con acción drenante   6 envases de 15 ml
+prodname: 'FIND - Rellenador de ácido hialurónico 3 en 1  reafirmante  antiojeras y con acción drenante   6 envases de 15 ml'
 ---
 
 Ahora mismo tienes [FIND - Rellenador de ácido hialurónico 3 en 1  reafirmante  antiojeras y con acción drenante   6 envases de 15 ml](https://www.amazon.es/dp/B07XZLHMD8/?tag=tolees-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!

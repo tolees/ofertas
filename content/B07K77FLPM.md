@@ -14,7 +14,7 @@ currency: EUR
 price: 62.89
 comparePrice: 85 EUR
 inStock: true
-prodname: Asics Gel-Sonoma 4  Zapatillas de Running para Hombre  Negro  Black/Island Blue 001   43.5 EU
+prodname: 'Asics Gel-Sonoma 4  Zapatillas de Running para Hombre  Negro  Black/Island Blue 001   43.5 EU'
 ---
 
 Está [Asics Gel-Sonoma 4  Zapatillas de Running para Hombre  Negro  Black/Island Blue 001   43.5 EU](https://www.amazon.es/dp/B07K77FLPM/?tag=tolees-21) con 26.01 de descuento por 62.89 EUR (original: 85 EUR) en el siguiente enlace!

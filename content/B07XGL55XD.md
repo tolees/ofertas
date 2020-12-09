@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 30.75 EUR
 inStock: true
-prodname: Journey to the Savage Planet
+prodname: 'Journey to the Savage Planet'
 ---
 
 Ahora mismo tienes [Journey to the Savage Planet](https://www.amazon.es/dp/B07XGL55XD/?tag=tolees-21) a 19.95 EUR (original: 30.75 EUR) (35.12 %  de descuento) en el siguiente enlace!

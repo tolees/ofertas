@@ -14,7 +14,7 @@ currency: EUR
 price: 49.83
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Deconstructed Mid Waist Straight Vaqueros  Azul  lt Aged 8809-424   29W / 34L para Mujer
+prodname: 'G-STAR RAW 3301 Deconstructed Mid Waist Straight Vaqueros  Azul  lt Aged 8809-424   29W / 34L para Mujer'
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Mid Waist Straight Vaqueros  Azul  lt Aged 8809-424   29W / 34L para Mujer](https://www.amazon.es/dp/B01N7WYN7R/?tag=tolees-21) con 50.15 de descuento por 49.83 EUR (original: 99.95 EUR) en el siguiente enlace!

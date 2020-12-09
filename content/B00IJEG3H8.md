@@ -14,7 +14,7 @@ currency: EUR
 price: 11.66
 comparePrice: 25.29 EUR
 inStock: true
-prodname: Campingaz MiniMaxi - Nevera portátil  27.5 x 19.5 x 37 
+prodname: 'Campingaz MiniMaxi - Nevera portátil  27.5 x 19.5 x 37 '
 ---
 
 Tienes [Campingaz MiniMaxi - Nevera portátil  27.5 x 19.5 x 37 ](https://www.amazon.es/dp/B00IJEG3H8/?tag=tolees-21) con un 53.89 % de descuento con precio de oferta de 11.66 EUR (original: 25.29 EUR) en el siguiente enlace!

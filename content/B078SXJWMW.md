@@ -14,7 +14,7 @@ currency: EUR
 price: 18.92
 comparePrice: 45 EUR
 inStock: true
-prodname: Timberland Wild Dunes Synthetic Chanclas Hombre  Verde  Grape Leaf A58   41.5 EU
+prodname: 'Timberland Wild Dunes Synthetic Chanclas Hombre  Verde  Grape Leaf A58   41.5 EU'
 ---
 
 Ahora mismo tienes [Timberland Wild Dunes Synthetic Chanclas Hombre  Verde  Grape Leaf A58   41.5 EU](https://www.amazon.es/dp/B078SXJWMW/?tag=tolees-21) a 18.92 EUR (original: 45 EUR) (57.96 %  de descuento) en el siguiente enlace!

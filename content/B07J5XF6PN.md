@@ -14,7 +14,7 @@ currency: EUR
 price: 79.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Aicok 650W Panificadora  19 Programs Máquina De Hacer Pan con Dispensador  Completamente Automática  Acero Inoxidable  15H Temporizador  para Pan Sin Gluten  Mermelada y Yogur
+prodname: 'Aicok 650W Panificadora  19 Programs Máquina De Hacer Pan con Dispensador  Completamente Automática  Acero Inoxidable  15H Temporizador  para Pan Sin Gluten  Mermelada y Yogur'
 ---
 
 Está [Aicok 650W Panificadora  19 Programs Máquina De Hacer Pan con Dispensador  Completamente Automática  Acero Inoxidable  15H Temporizador  para Pan Sin Gluten  Mermelada y Yogur](https://www.amazon.es/dp/B07J5XF6PN/?tag=tolees-21) con 33.34 de descuento por 79.99 EUR (original: 119.99 EUR) en el siguiente enlace!

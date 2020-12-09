@@ -14,7 +14,7 @@ currency: EUR
 price: 16.36
 comparePrice: 156.02 EUR
 inStock: true
-prodname: 3M 767i Cinta de Vinilo con Franjas de Seguridad  50 mm x 33 m  24 unidades  Rojo/Blanco
+prodname: '3M 767i Cinta de Vinilo con Franjas de Seguridad  50 mm x 33 m  24 unidades  Rojo/Blanco'
 ---
 
 Tienes [3M 767i Cinta de Vinilo con Franjas de Seguridad  50 mm x 33 m  24 unidades  Rojo/Blanco](https://www.amazon.es/dp/B008CNTE0O/?tag=tolees-21) con un 89.51 % de descuento con precio de oferta de 16.36 EUR (original: 156.02 EUR) en el siguiente enlace!

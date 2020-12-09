@@ -14,7 +14,7 @@ currency: EUR
 price: 12.27
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Arteza Rotuladores fosforescentes | 60 subrayadores fosforitos | 30 anchos y 30 finos | 6 colores | Caja de rotuladores fluorescentes | Ideal para aulas y oficinas
+prodname: 'Arteza Rotuladores fosforescentes | 60 subrayadores fosforitos | 30 anchos y 30 finos | 6 colores | Caja de rotuladores fluorescentes | Ideal para aulas y oficinas'
 ---
 
 Tienes [Arteza Rotuladores fosforescentes | 60 subrayadores fosforitos | 30 anchos y 30 finos | 6 colores | Caja de rotuladores fluorescentes | Ideal para aulas y oficinas](https://www.amazon.es/dp/B07FT47NQC/?tag=tolees-21) con un 41.54 % de descuento con precio de oferta de 12.27 EUR (original: 20.99 EUR) en el siguiente enlace!

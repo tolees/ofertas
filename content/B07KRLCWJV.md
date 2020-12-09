@@ -14,7 +14,7 @@ currency: EUR
 price: 10.68
 comparePrice: 17.48 EUR
 inStock: true
-prodname: adidas BASEB Class tre Gorra  Unisex Adulto  Black/White  OSFM
+prodname: 'adidas BASEB Class tre Gorra  Unisex Adulto  Black/White  OSFM'
 ---
 
 Tienes [adidas BASEB Class tre Gorra  Unisex Adulto  Black/White  OSFM](https://www.amazon.es/dp/B07KRLCWJV/?tag=tolees-21) con un 38.90 % de descuento con precio de oferta de 10.68 EUR (original: 17.48 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.17
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Reebok Royal Prime  Zapatillas de Deporte para Mujer   Collegiate Navy/Light Pink/White 000   37 EU
+prodname: 'Reebok Royal Prime  Zapatillas de Deporte para Mujer   Collegiate Navy/Light Pink/White 000   37 EU'
 ---
 
 Ahora mismo tienes [Reebok Royal Prime  Zapatillas de Deporte para Mujer   Collegiate Navy/Light Pink/White 000   37 EU](https://www.amazon.es/dp/B07DLWVP5Z/?tag=tolees-21) a 21.17 EUR (original: 29.95 EUR) (29.32 %  de descuento) en el siguiente enlace!

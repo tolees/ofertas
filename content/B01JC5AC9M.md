@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 37.4 EUR
 inStock: true
-prodname: TERMIX PACK 5 CEPILLOS
+prodname: 'TERMIX PACK 5 CEPILLOS'
 ---
 
 Ahora mismo tienes [TERMIX PACK 5 CEPILLOS](https://www.amazon.es/dp/B01JC5AC9M/?tag=tolees-21) a 22.99 EUR (original: 37.4 EUR) (38.53 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 37.48
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance 99 - Zapatillas de Running para Hombre  Multicolor  Team Royal/black   43 EU
+prodname: 'New Balance 99 - Zapatillas de Running para Hombre  Multicolor  Team Royal/black   43 EU'
 ---
 
 Ahora mismo tienes [New Balance 99 - Zapatillas de Running para Hombre  Multicolor  Team Royal/black   43 EU](https://www.amazon.es/dp/B01N2JIVZ9/?tag=tolees-21) a 37.48 EUR (original: 90 EUR) (58.36 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 32.99 EUR
 inStock: true
-prodname: LEKANI Pendiente
+prodname: 'LEKANI Pendiente'
 ---
 
 Ahora mismo tienes [LEKANI Pendiente](https://www.amazon.es/dp/B07GPNBPBG/?tag=tolees-21) a 20.99 EUR (original: 32.99 EUR) (36.37 %  de descuento) en el siguiente enlace!

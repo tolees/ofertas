@@ -14,7 +14,7 @@ currency: EUR
 price: 18.19
 comparePrice: 39.95 EUR
 inStock: true
-prodname: G-STAR RAW Classic Trunk Boxers  Multicolor  black/grey htr/white   S  Pack de 3  para Hombre
+prodname: 'G-STAR RAW Classic Trunk Boxers  Multicolor  black/grey htr/white   S  Pack de 3  para Hombre'
 ---
 
 Ahora mismo tienes [G-STAR RAW Classic Trunk Boxers  Multicolor  black/grey htr/white   S  Pack de 3  para Hombre](https://www.amazon.es/dp/B01M6BNGF0/?tag=tolees-21) a 18.19 EUR (original: 39.95 EUR) (54.47 %  de descuento) en el siguiente enlace!

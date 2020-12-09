@@ -14,7 +14,7 @@ currency: EUR
 price: 35.79
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Pepe Jeans Thrasher Sparks Bañador  Azul  Denim 000   W25  Talla del Fabricante: 25  para Mujer
+prodname: 'Pepe Jeans Thrasher Sparks Bañador  Azul  Denim 000   W25  Talla del Fabricante: 25  para Mujer'
 ---
 
 Ahora mismo tienes [Pepe Jeans Thrasher Sparks Bañador  Azul  Denim 000   W25  Talla del Fabricante: 25  para Mujer](https://www.amazon.es/dp/B07NC7SQ2N/?tag=tolees-21) a 35.79 EUR (original: 69.9 EUR) (48.80 %  de descuento) en el siguiente enlace!

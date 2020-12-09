@@ -14,7 +14,7 @@ currency: EUR
 price: 64.9
 comparePrice: 115.99 EUR
 inStock: true
-prodname: APC Back-UPS ES700 - BE700G-IT - Sistema de alimentación ininterrumpida SAI - 8 Tomas - Versión Italia
+prodname: 'APC Back-UPS ES700 - BE700G-IT - Sistema de alimentación ininterrumpida SAI - 8 Tomas - Versión Italia'
 ---
 
 Ahora mismo tienes [APC Back-UPS ES700 - BE700G-IT - Sistema de alimentación ininterrumpida SAI - 8 Tomas - Versión Italia](https://www.amazon.es/dp/B004APACPY/?tag=tolees-21) a 64.9 EUR (original: 115.99 EUR) (44.05 %  de descuento) en el siguiente enlace!

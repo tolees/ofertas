@@ -14,7 +14,7 @@ currency: EUR
 price: 58.36
 comparePrice: 90.0 EUR
 inStock: true
-prodname: New Balance 997H Core  Zapatillas Hombre  Gris  Marblehead   42.5 EU
+prodname: 'New Balance 997H Core  Zapatillas Hombre  Gris  Marblehead   42.5 EU'
 ---
 
 Ahora mismo tienes [New Balance 997H Core  Zapatillas Hombre  Gris  Marblehead   42.5 EU](https://www.amazon.es/dp/B07BL2MHJV/?tag=tolees-21) a 58.36 EUR (original: 90.0 EUR) (35.16 %  de descuento) en el siguiente enlace!

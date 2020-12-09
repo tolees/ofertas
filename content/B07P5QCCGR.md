@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: EleLight 2Pack Luz Solar de Antorcha  96 LEDs Impermeable Parpadeo llamas Paisaje Césped Lámpara con Bailando Llamas para Jardín al Aire libre Patio Decoración de Piscina
+prodname: 'EleLight 2Pack Luz Solar de Antorcha  96 LEDs Impermeable Parpadeo llamas Paisaje Césped Lámpara con Bailando Llamas para Jardín al Aire libre Patio Decoración de Piscina'
 ---
 
 Ahora mismo tienes [EleLight 2Pack Luz Solar de Antorcha  96 LEDs Impermeable Parpadeo llamas Paisaje Césped Lámpara con Bailando Llamas para Jardín al Aire libre Patio Decoración de Piscina](https://www.amazon.es/dp/B07P5QCCGR/?tag=tolees-21) a 27.99 EUR (original: 69.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.06
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Oxford 100101228 - Libreta  48 hojas  A4  cuadrícula 4 x 4 mm  con margen  1 unidad
+prodname: 'Oxford 100101228 - Libreta  48 hojas  A4  cuadrícula 4 x 4 mm  con margen  1 unidad'
 ---
 
 Está [Oxford 100101228 - Libreta  48 hojas  A4  cuadrícula 4 x 4 mm  con margen  1 unidad](https://www.amazon.es/dp/B00JMD41UG/?tag=tolees-21) con 52.78 de descuento por 7.06 EUR (original: 14.95 EUR) en el siguiente enlace!

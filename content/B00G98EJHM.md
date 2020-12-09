@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Krups Nespresso Inissia XN1001 - Cafetera monodosis de cápsulas Nespresso  19 bares  apagado automático  color blanco
+prodname: 'Krups Nespresso Inissia XN1001 - Cafetera monodosis de cápsulas Nespresso  19 bares  apagado automático  color blanco'
 ---
 
 Está [Krups Nespresso Inissia XN1001 - Cafetera monodosis de cápsulas Nespresso  19 bares  apagado automático  color blanco](https://www.amazon.es/dp/B00G98EJHM/?tag=tolees-21) con 30.99 de descuento por 69.0 EUR (original: 99.99 EUR) en el siguiente enlace!

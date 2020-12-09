@@ -14,7 +14,7 @@ currency: EUR
 price: 32.27
 comparePrice: 129.95 EUR
 inStock: true
-prodname: adidas I-5923 W  Zapatillas de Gimnasia para Mujer  38 2/3 EU  Morado  Periwinkle/Clear Mint/Core Black 
+prodname: 'adidas I-5923 W  Zapatillas de Gimnasia para Mujer  38 2/3 EU  Morado  Periwinkle/Clear Mint/Core Black '
 ---
 
 Ahora mismo tienes [adidas I-5923 W  Zapatillas de Gimnasia para Mujer  38 2/3 EU  Morado  Periwinkle/Clear Mint/Core Black ](https://www.amazon.es/dp/B07K11QGFB/?tag=tolees-21) a 32.27 EUR (original: 129.95 EUR) (75.17 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 37
 comparePrice: 88.89 EUR
 inStock: true
-prodname: Casio Reloj Mujer de Digital con Correa en Acero Inoxidable LA680WEGA-1ER
+prodname: 'Casio Reloj Mujer de Digital con Correa en Acero Inoxidable LA680WEGA-1ER'
 ---
 
 Tienes [Casio Reloj Mujer de Digital con Correa en Acero Inoxidable LA680WEGA-1ER](https://www.amazon.es/dp/B00EDASRLW/?tag=tolees-21) con un 58.38 % de descuento con precio de oferta de 37 EUR (original: 88.89 EUR) en el siguiente enlace!

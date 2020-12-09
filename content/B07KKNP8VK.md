@@ -14,7 +14,7 @@ currency: EUR
 price: 319.98
 comparePrice: 499.0 EUR
 inStock: true
-prodname: LG 32UK550-B - Monitor 4K UHD de 80 cm  31 5"  con panel VA  3840 x 2160 píxeles  16:9  300 cd/m²  DCI-P3 >95%  3000:1  4 ms  60 Hz  FreeSync  DP x1  HDMI x2  auriculares  altavoz  color negro
+prodname: 'LG 32UK550-B - Monitor 4K UHD de 80 cm  31 5"  con panel VA  3840 x 2160 píxeles  16:9  300 cd/m²  DCI-P3 >95%  3000:1  4 ms  60 Hz  FreeSync  DP x1  HDMI x2  auriculares  altavoz  color negro'
 ---
 
 Está [LG 32UK550-B - Monitor 4K UHD de 80 cm  31 5"  con panel VA  3840 x 2160 píxeles  16:9  300 cd/m²  DCI-P3 >95%  3000:1  4 ms  60 Hz  FreeSync  DP x1  HDMI x2  auriculares  altavoz  color negro](https://www.amazon.es/dp/B07KKNP8VK/?tag=tolees-21) con 35.88 de descuento por 319.98 EUR (original: 499.0 EUR) en el siguiente enlace!

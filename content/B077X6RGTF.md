@@ -14,7 +14,7 @@ currency: EUR
 price: 54.05
 comparePrice: 76.71 EUR
 inStock: true
-prodname: LARNMERN Zapatos de Seguridad con Punta de Acero S3 SRC LM-201 Hombres Anti-aplastamiento A Prueba de Pinchazos Zapatillas Industriales y de Construcción Antiestáticos  Talla 43 EU  Negro
+prodname: 'LARNMERN Zapatos de Seguridad con Punta de Acero S3 SRC LM-201 Hombres Anti-aplastamiento A Prueba de Pinchazos Zapatillas Industriales y de Construcción Antiestáticos  Talla 43 EU  Negro'
 ---
 
 Está [LARNMERN Zapatos de Seguridad con Punta de Acero S3 SRC LM-201 Hombres Anti-aplastamiento A Prueba de Pinchazos Zapatillas Industriales y de Construcción Antiestáticos  Talla 43 EU  Negro](https://www.amazon.es/dp/B077X6RGTF/?tag=tolees-21) con 29.54 de descuento por 54.05 EUR (original: 76.71 EUR) en el siguiente enlace!

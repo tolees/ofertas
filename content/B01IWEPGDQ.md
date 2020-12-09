@@ -14,7 +14,7 @@ currency: EUR
 price: 5.35
 comparePrice: 9.3 EUR
 inStock: true
-prodname: Royal canin - Kitten 400 gr
+prodname: 'Royal canin - Kitten 400 gr'
 ---
 
 Tienes [Royal canin - Kitten 400 gr](https://www.amazon.es/dp/B01IWEPGDQ/?tag=tolees-21) con un 42.47 % de descuento con precio de oferta de 5.35 EUR (original: 9.3 EUR) en el siguiente enlace!

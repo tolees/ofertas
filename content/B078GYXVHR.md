@@ -14,7 +14,7 @@ currency: EUR
 price: 13.81
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Springfield 3083152  Pantalones Cortos para Mujer  Azul  38  Tamaño del fabricante:38 
+prodname: 'Springfield 3083152  Pantalones Cortos para Mujer  Azul  38  Tamaño del fabricante:38 '
 ---
 
 Ahora mismo tienes [Springfield 3083152  Pantalones Cortos para Mujer  Azul  38  Tamaño del fabricante:38 ](https://www.amazon.es/dp/B078GYXVHR/?tag=tolees-21) a 13.81 EUR (original: 19.99 EUR) (30.92 %  de descuento) en el siguiente enlace!

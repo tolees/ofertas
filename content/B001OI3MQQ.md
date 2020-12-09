@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 17.95 EUR
 inStock: true
-prodname: Havaianas Brasil Logo Chanclas Unisex Adulto  Azul  Navy Blue   45/46 EU
+prodname: 'Havaianas Brasil Logo Chanclas Unisex Adulto  Azul  Navy Blue   45/46 EU'
 ---
 
 Está [Havaianas Brasil Logo Chanclas Unisex Adulto  Azul  Navy Blue   45/46 EU](https://www.amazon.es/dp/B001OI3MQQ/?tag=tolees-21) con 33.20 de descuento por 11.99 EUR (original: 17.95 EUR) en el siguiente enlace!

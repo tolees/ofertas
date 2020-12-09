@@ -14,7 +14,7 @@ currency: EUR
 price: 14.22
 comparePrice: 20.79 EUR
 inStock: true
-prodname: Reloj - Yierya - Para - YY-APP
+prodname: 'Reloj - Yierya - Para - YY-APP'
 ---
 
 Tienes [Reloj - Yierya - Para - YY-APP](https://www.amazon.es/dp/B0828NPKTF/?tag=tolees-21) con un 31.60 % de descuento con precio de oferta de 14.22 EUR (original: 20.79 EUR) en el siguiente enlace!

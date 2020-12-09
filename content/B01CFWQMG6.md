@@ -14,7 +14,7 @@ currency: EUR
 price: 12.74
 comparePrice: 59 EUR
 inStock: true
-prodname: Pepe Jeans Pixlette Pg200242 Vaqueros  Negro  8Oz Super Str Blk Jegging V98   16 años para Niñas
+prodname: 'Pepe Jeans Pixlette Pg200242 Vaqueros  Negro  8Oz Super Str Blk Jegging V98   16 años para Niñas'
 ---
 
 Está [Pepe Jeans Pixlette Pg200242 Vaqueros  Negro  8Oz Super Str Blk Jegging V98   16 años para Niñas](https://www.amazon.es/dp/B01CFWQMG6/?tag=tolees-21) con 78.41 de descuento por 12.74 EUR (original: 59 EUR) en el siguiente enlace!

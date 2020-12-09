@@ -14,7 +14,7 @@ currency: EUR
 price: 124.26
 comparePrice: 270 EUR
 inStock: true
-prodname: Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable para hombre  color negro  talla L
+prodname: 'Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable para hombre  color negro  talla L'
 ---
 
 Ahora mismo tienes [Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable para hombre  color negro  talla L](https://www.amazon.es/dp/B01EOX01MU/?tag=tolees-21) a 124.26 EUR (original: 270 EUR) (53.98 %  de descuento) en el siguiente enlace!

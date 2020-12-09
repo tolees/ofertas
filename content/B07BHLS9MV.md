@@ -14,7 +14,7 @@ currency: EUR
 price: 30.01
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Nike Court Royale  Sneaker Mens  Negro  Black/White 010   42.5 EU
+prodname: 'Nike Court Royale  Sneaker Mens  Negro  Black/White 010   42.5 EU'
 ---
 
 Tienes [Nike Court Royale  Sneaker Mens  Negro  Black/White 010   42.5 EU](https://www.amazon.es/dp/B07BHLS9MV/?tag=tolees-21) con un 45.44 % de descuento con precio de oferta de 30.01 EUR (original: 55.0 EUR) en el siguiente enlace!

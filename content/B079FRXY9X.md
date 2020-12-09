@@ -14,7 +14,7 @@ currency: EUR
 price: 12.77
 comparePrice: 87.99 EUR
 inStock: true
-prodname: BravRain Paraguas Resistente al Viento  Paraguas de Viaje Fuerte y Ligero  Paraguas de Fibra de Carbono para Mujeres y Hombres  Paraguas de Lluvia de Pega de Tela de nanofibra  azul real 
+prodname: 'BravRain Paraguas Resistente al Viento  Paraguas de Viaje Fuerte y Ligero  Paraguas de Fibra de Carbono para Mujeres y Hombres  Paraguas de Lluvia de Pega de Tela de nanofibra  azul real '
 ---
 
 Tienes [BravRain Paraguas Resistente al Viento  Paraguas de Viaje Fuerte y Ligero  Paraguas de Fibra de Carbono para Mujeres y Hombres  Paraguas de Lluvia de Pega de Tela de nanofibra  azul real ](https://www.amazon.es/dp/B079FRXY9X/?tag=tolees-21) con un 85.49 % de descuento con precio de oferta de 12.77 EUR (original: 87.99 EUR) en el siguiente enlace!

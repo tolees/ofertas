@@ -14,7 +14,7 @@ currency: EUR
 price: 118.98
 comparePrice: 169.97 EUR
 inStock: true
-prodname: gridinlux. Jarra de Agua Hidrogenada. Hidrogenadora de Iones. Ultra Limpieza  Filtrado Certificado  Aparato Generador de Hidrógeno  Electrolisis  LED  Filtro Magnético y Mineraico  BPA Free
+prodname: 'gridinlux. Jarra de Agua Hidrogenada. Hidrogenadora de Iones. Ultra Limpieza  Filtrado Certificado  Aparato Generador de Hidrógeno  Electrolisis  LED  Filtro Magnético y Mineraico  BPA Free'
 ---
 
 Está [gridinlux. Jarra de Agua Hidrogenada. Hidrogenadora de Iones. Ultra Limpieza  Filtrado Certificado  Aparato Generador de Hidrógeno  Electrolisis  LED  Filtro Magnético y Mineraico  BPA Free](https://www.amazon.es/dp/B07Y8NQRNB/?tag=tolees-21) con 30.00 de descuento por 118.98 EUR (original: 169.97 EUR) en el siguiente enlace!

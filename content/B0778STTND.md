@@ -14,7 +14,7 @@ currency: EUR
 price: 17.26
 comparePrice: 46.95 EUR
 inStock: true
-prodname: XTI 30702  Zapatos con Tacon y Correa de Tobillo para Mujer  Dorado  Gold   36 EU
+prodname: 'XTI 30702  Zapatos con Tacon y Correa de Tobillo para Mujer  Dorado  Gold   36 EU'
 ---
 
 Tienes [XTI 30702  Zapatos con Tacon y Correa de Tobillo para Mujer  Dorado  Gold   36 EU](https://www.amazon.es/dp/B0778STTND/?tag=tolees-21) con un 63.24 % de descuento con precio de oferta de 17.26 EUR (original: 46.95 EUR) en el siguiente enlace!

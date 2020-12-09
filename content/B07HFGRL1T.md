@@ -14,7 +14,7 @@ currency: EUR
 price: 31.87
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Slim Multi Check Shirt  Camisa Hombre  Azul  Sky Captain/ 902   Medium
+prodname: 'Tommy Hilfiger Slim Multi Check Shirt  Camisa Hombre  Azul  Sky Captain/ 902   Medium'
 ---
 
 Está [Tommy Hilfiger Slim Multi Check Shirt  Camisa Hombre  Azul  Sky Captain/ 902   Medium](https://www.amazon.es/dp/B07HFGRL1T/?tag=tolees-21) con 60.11 de descuento por 31.87 EUR (original: 79.9 EUR) en el siguiente enlace!

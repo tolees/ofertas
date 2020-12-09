@@ -14,7 +14,7 @@ currency: EUR
 price: 35.35
 comparePrice: 54.95 EUR
 inStock: true
-prodname: PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat White   47 EU
+prodname: 'PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat White   47 EU'
 ---
 
 Tienes [PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat White   47 EU](https://www.amazon.es/dp/B077M8YVNV/?tag=tolees-21) con un 35.67 % de descuento con precio de oferta de 35.35 EUR (original: 54.95 EUR) en el siguiente enlace!

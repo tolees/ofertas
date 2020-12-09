@@ -14,7 +14,7 @@ currency: EUR
 price: 18.5
 comparePrice: 37 EUR
 inStock: true
-prodname: Sensilis Skin Delight Tratamiento Facial Corrector Fluido Anti manchas - 50 ml
+prodname: 'Sensilis Skin Delight Tratamiento Facial Corrector Fluido Anti manchas - 50 ml'
 ---
 
 Ahora mismo tienes [Sensilis Skin Delight Tratamiento Facial Corrector Fluido Anti manchas - 50 ml](https://www.amazon.es/dp/B01NBCCCB6/?tag=tolees-21) a 18.5 EUR (original: 37 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 39 EUR
 inStock: true
-prodname: Nike M NSW Short JSY Club Shorts  Hombre  Gris Oscuro/Blanco  2XL
+prodname: 'Nike M NSW Short JSY Club Shorts  Hombre  Gris Oscuro/Blanco  2XL'
 ---
 
 Ahora mismo tienes [Nike M NSW Short JSY Club Shorts  Hombre  Gris Oscuro/Blanco  2XL](https://www.amazon.es/dp/B01HGQZK3C/?tag=tolees-21) a 19.95 EUR (original: 39 EUR) (48.85 %  de descuento) en el siguiente enlace!

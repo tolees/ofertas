@@ -14,7 +14,7 @@ currency: EUR
 price: 22.74
 comparePrice: 51 EUR
 inStock: true
-prodname: Swarovski Anillo Luckily  baño de Oro
+prodname: 'Swarovski Anillo Luckily  baño de Oro'
 ---
 
 Está [Swarovski Anillo Luckily  baño de Oro](https://www.amazon.es/dp/B07KWLPWJ9/?tag=tolees-21) con 55.41 de descuento por 22.74 EUR (original: 51 EUR) en el siguiente enlace!

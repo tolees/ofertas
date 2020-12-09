@@ -14,7 +14,7 @@ currency: EUR
 price: 15.98
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield 5Ba Turtle Gg12 Cotton  Jersey para Hombre   Gama Grises 43   Large  Tamaño del Fabricante:L 
+prodname: 'Springfield 5Ba Turtle Gg12 Cotton  Jersey para Hombre   Gama Grises 43   Large  Tamaño del Fabricante:L '
 ---
 
 Tienes [Springfield 5Ba Turtle Gg12 Cotton  Jersey para Hombre   Gama Grises 43   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLFVXP3/?tag=tolees-21) con un 38.51 % de descuento con precio de oferta de 15.98 EUR (original: 25.99 EUR) en el siguiente enlace!

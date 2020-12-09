@@ -14,7 +14,7 @@ currency: EUR
 price: 56.09
 comparePrice: 80.0 EUR
 inStock: true
-prodname: Vans Ward Hi Platform  Sneaker Mujer  Negro   Canvas  Black/True White 1wx   36 EU
+prodname: 'Vans Ward Hi Platform  Sneaker Mujer  Negro   Canvas  Black/True White 1wx   36 EU'
 ---
 
 Ahora mismo tienes [Vans Ward Hi Platform  Sneaker Mujer  Negro   Canvas  Black/True White 1wx   36 EU](https://www.amazon.es/dp/B07MZQ56SS/?tag=tolees-21) a 56.09 EUR (original: 80.0 EUR) (29.89 %  de descuento) en el siguiente enlace!

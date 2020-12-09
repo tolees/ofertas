@@ -14,7 +14,7 @@ currency: EUR
 price: 64.24
 comparePrice: 120 EUR
 inStock: true
-prodname: Nike Air MAX Thea  Zapatillas para Mujer  Gris  Wolf Grey/Black 030   38 EU
+prodname: 'Nike Air MAX Thea  Zapatillas para Mujer  Gris  Wolf Grey/Black 030   38 EU'
 ---
 
 Está [Nike Air MAX Thea  Zapatillas para Mujer  Gris  Wolf Grey/Black 030   38 EU](https://www.amazon.es/dp/B00KM8LGXA/?tag=tolees-21) con 46.47 de descuento por 64.24 EUR (original: 120 EUR) en el siguiente enlace!

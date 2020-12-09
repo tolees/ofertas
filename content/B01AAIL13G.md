@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: adidas ADTB-11608 Rodillo de Masaje  Adultos Unisex  Negro  Talla única
+prodname: 'adidas ADTB-11608 Rodillo de Masaje  Adultos Unisex  Negro  Talla única'
 ---
 
 Ahora mismo tienes [adidas ADTB-11608 Rodillo de Masaje  Adultos Unisex  Negro  Talla única](https://www.amazon.es/dp/B01AAIL13G/?tag=tolees-21) a 6.99 EUR (original: 12.99 EUR) (46.19 %  de descuento) en el siguiente enlace!

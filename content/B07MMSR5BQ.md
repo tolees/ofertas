@@ -14,7 +14,7 @@ currency: EUR
 price: 189
 comparePrice: 259 EUR
 inStock: true
-prodname: Ring Video Doorbell 2 + Chime + Extra Rechargeable Battery
+prodname: 'Ring Video Doorbell 2 + Chime + Extra Rechargeable Battery'
 ---
 
 Tienes [Ring Video Doorbell 2 + Chime + Extra Rechargeable Battery](https://www.amazon.es/dp/B07MMSR5BQ/?tag=tolees-21) con un 27.03 % de descuento con precio de oferta de 189 EUR (original: 259 EUR) en el siguiente enlace!

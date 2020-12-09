@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 58.99 EUR
 inStock: true
-prodname: CELESTIA Mujer Collares Árbol de la Vida de Plata Esterlina  Plata 925 Arbol y Corazón Colgante  Día de la Madre Parentesco Amistad Navidad Regalo de Joyería para Mujeres Niñas  Cadena 46cm
+prodname: 'CELESTIA Mujer Collares Árbol de la Vida de Plata Esterlina  Plata 925 Arbol y Corazón Colgante  Día de la Madre Parentesco Amistad Navidad Regalo de Joyería para Mujeres Niñas  Cadena 46cm'
 ---
 
 Está [CELESTIA Mujer Collares Árbol de la Vida de Plata Esterlina  Plata 925 Arbol y Corazón Colgante  Día de la Madre Parentesco Amistad Navidad Regalo de Joyería para Mujeres Niñas  Cadena 46cm](https://www.amazon.es/dp/B07ZQB5FBY/?tag=tolees-21) con 45.77 de descuento por 31.99 EUR (original: 58.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Máquina Cortapelo Hombres T-Outliner Recortadora Eléctrica Recortadora de Cabello para Hombres con batería recargable de 1200 mAh 4 peines guía Carga USB
+prodname: 'Máquina Cortapelo Hombres T-Outliner Recortadora Eléctrica Recortadora de Cabello para Hombres con batería recargable de 1200 mAh 4 peines guía Carga USB'
 ---
 
 Tienes [Máquina Cortapelo Hombres T-Outliner Recortadora Eléctrica Recortadora de Cabello para Hombres con batería recargable de 1200 mAh 4 peines guía Carga USB](https://www.amazon.es/dp/B08CV4WBXL/?tag=tolees-21) con un 47.15 % de descuento con precio de oferta de 36.99 EUR (original: 69.99 EUR) en el siguiente enlace!

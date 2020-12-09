@@ -14,7 +14,7 @@ currency: EUR
 price: 32.9
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Taurus Mytoast Duplo Legend Tostador  1400 W  Acero Inoxidable  2 Ranuras  Gris
+prodname: 'Taurus Mytoast Duplo Legend Tostador  1400 W  Acero Inoxidable  2 Ranuras  Gris'
 ---
 
 Tienes [Taurus Mytoast Duplo Legend Tostador  1400 W  Acero Inoxidable  2 Ranuras  Gris](https://www.amazon.es/dp/B079MLVDLR/?tag=tolees-21) con un 45.16 % de descuento con precio de oferta de 32.9 EUR (original: 59.99 EUR) en el siguiente enlace!

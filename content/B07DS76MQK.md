@@ -14,7 +14,7 @@ currency: EUR
 price: 28.36
 comparePrice: 82.46 EUR
 inStock: true
-prodname: Reebok Reago Pulse  Zapatillas de Deporte para Hombre   Coal/Black/Field Tan/Porcelain/Foggy Gre 000   42.5 EU
+prodname: 'Reebok Reago Pulse  Zapatillas de Deporte para Hombre   Coal/Black/Field Tan/Porcelain/Foggy Gre 000   42.5 EU'
 ---
 
 Está [Reebok Reago Pulse  Zapatillas de Deporte para Hombre   Coal/Black/Field Tan/Porcelain/Foggy Gre 000   42.5 EU](https://www.amazon.es/dp/B07DS76MQK/?tag=tolees-21) con 65.61 de descuento por 28.36 EUR (original: 82.46 EUR) en el siguiente enlace!

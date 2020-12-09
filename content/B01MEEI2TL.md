@@ -14,7 +14,7 @@ currency: EUR
 price: 43.23
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Gant Slim Jeans Vaqueros  Azul  Dark Blue 960   W38/L32  Talla del Fabricante: 38/32  para Hombre
+prodname: 'Gant Slim Jeans Vaqueros  Azul  Dark Blue 960   W38/L32  Talla del Fabricante: 38/32  para Hombre'
 ---
 
 Tienes [Gant Slim Jeans Vaqueros  Azul  Dark Blue 960   W38/L32  Talla del Fabricante: 38/32  para Hombre](https://www.amazon.es/dp/B01MEEI2TL/?tag=tolees-21) con un 56.77 % de descuento con precio de oferta de 43.23 EUR (original: 99.99 EUR) en el siguiente enlace!

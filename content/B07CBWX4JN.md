@@ -14,7 +14,7 @@ currency: EUR
 price: 11.02
 comparePrice: 59.99 EUR
 inStock: true
-prodname: JACK & JONES Jjiglenn Jjcharlie Am 736 Ltd  Vaqueros Slim para Hombre  Negro Black Denim  W32/L34
+prodname: 'JACK & JONES Jjiglenn Jjcharlie Am 736 Ltd  Vaqueros Slim para Hombre  Negro Black Denim  W32/L34'
 ---
 
 Está [JACK & JONES Jjiglenn Jjcharlie Am 736 Ltd  Vaqueros Slim para Hombre  Negro Black Denim  W32/L34](https://www.amazon.es/dp/B07CBWX4JN/?tag=tolees-21) con 81.63 de descuento por 11.02 EUR (original: 59.99 EUR) en el siguiente enlace!

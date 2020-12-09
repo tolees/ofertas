@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Under Armour Challenger II Track Jacket Chaqueta  Hombre  Negro  Black/Graphite 001   L
+prodname: 'Under Armour Challenger II Track Jacket Chaqueta  Hombre  Negro  Black/Graphite 001   L'
 ---
 
 Ahora mismo tienes [Under Armour Challenger II Track Jacket Chaqueta  Hombre  Negro  Black/Graphite 001   L](https://www.amazon.es/dp/B071VTF3YL/?tag=tolees-21) a 29.95 EUR (original: 64.99 EUR) (53.92 %  de descuento) en el siguiente enlace!

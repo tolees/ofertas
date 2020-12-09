@@ -14,7 +14,7 @@ currency: EUR
 price: 69.59
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Pistola de Masaje Muscular  ALDOM Masajeador de Músculos de Tejido Profundo con 30 Niveles Ajustables  Massage Gun portátil 6 Cabezales de Masaje y Pantalla LCD Silenciosos para Relajación Fatiga
+prodname: 'Pistola de Masaje Muscular  ALDOM Masajeador de Músculos de Tejido Profundo con 30 Niveles Ajustables  Massage Gun portátil 6 Cabezales de Masaje y Pantalla LCD Silenciosos para Relajación Fatiga'
 ---
 
 Tienes [Pistola de Masaje Muscular  ALDOM Masajeador de Músculos de Tejido Profundo con 30 Niveles Ajustables  Massage Gun portátil 6 Cabezales de Masaje y Pantalla LCD Silenciosos para Relajación Fatiga](https://www.amazon.es/dp/B08GHQJ69J/?tag=tolees-21) con un 30.40 % de descuento con precio de oferta de 69.59 EUR (original: 99.99 EUR) en el siguiente enlace!

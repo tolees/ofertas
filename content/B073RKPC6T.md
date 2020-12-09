@@ -14,7 +14,7 @@ currency: EUR
 price: 27.4
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Reebok Speedlux 2.0  Zapatillas de Running para Mujer   Vicious Violet/Vital Blue/White/Silver   38 EU
+prodname: 'Reebok Speedlux 2.0  Zapatillas de Running para Mujer   Vicious Violet/Vital Blue/White/Silver   38 EU'
 ---
 
 Ahora mismo tienes [Reebok Speedlux 2.0  Zapatillas de Running para Mujer   Vicious Violet/Vital Blue/White/Silver   38 EU](https://www.amazon.es/dp/B073RKPC6T/?tag=tolees-21) a 27.4 EUR (original: 44.95 EUR) (39.04 %  de descuento) en el siguiente enlace!

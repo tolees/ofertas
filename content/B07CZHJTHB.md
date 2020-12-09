@@ -14,7 +14,7 @@ currency: EUR
 price: 30.72
 comparePrice: 89.95 EUR
 inStock: true
-prodname: G-STAR RAW Graphic 16 Core Hooded Sweat Sudadera  Gris  Carbid Htr 905   XX-Large para Hombre
+prodname: 'G-STAR RAW Graphic 16 Core Hooded Sweat Sudadera  Gris  Carbid Htr 905   XX-Large para Hombre'
 ---
 
 Tienes [G-STAR RAW Graphic 16 Core Hooded Sweat Sudadera  Gris  Carbid Htr 905   XX-Large para Hombre](https://www.amazon.es/dp/B07CZHJTHB/?tag=tolees-21) con un 65.85 % de descuento con precio de oferta de 30.72 EUR (original: 89.95 EUR) en el siguiente enlace!

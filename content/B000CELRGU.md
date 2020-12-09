@@ -14,7 +14,7 @@ currency: EUR
 price: 13.04
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Krups XS300010 Pastillas limpiadoras para máquinas de café súper automáticas  pack de 10 pastillas  Elimina depósitos y los residuos grasos del café
+prodname: 'Krups XS300010 Pastillas limpiadoras para máquinas de café súper automáticas  pack de 10 pastillas  Elimina depósitos y los residuos grasos del café'
 ---
 
 Está [Krups XS300010 Pastillas limpiadoras para máquinas de café súper automáticas  pack de 10 pastillas  Elimina depósitos y los residuos grasos del café](https://www.amazon.es/dp/B000CELRGU/?tag=tolees-21) con 34.77 de descuento por 13.04 EUR (original: 19.99 EUR) en el siguiente enlace!

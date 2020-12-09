@@ -14,7 +14,7 @@ currency: EUR
 price: 29.88
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Mondial FT06 Freidora  2000 W  3.5 litros  Plata
+prodname: 'Mondial FT06 Freidora  2000 W  3.5 litros  Plata'
 ---
 
 Está [Mondial FT06 Freidora  2000 W  3.5 litros  Plata](https://www.amazon.es/dp/B01ELKSJNE/?tag=tolees-21) con 40.12 de descuento por 29.88 EUR (original: 49.9 EUR) en el siguiente enlace!

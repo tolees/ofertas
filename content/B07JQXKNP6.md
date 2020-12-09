@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 24.62 EUR
 inStock: true
-prodname: Mochila TARGUS GEOLITE Essential 15 6" Negro
+prodname: 'Mochila TARGUS GEOLITE Essential 15 6" Negro'
 ---
 
 Está [Mochila TARGUS GEOLITE Essential 15 6" Negro](https://www.amazon.es/dp/B07JQXKNP6/?tag=tolees-21) con 47.24 de descuento por 12.99 EUR (original: 24.62 EUR) en el siguiente enlace!

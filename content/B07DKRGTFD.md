@@ -14,7 +14,7 @@ currency: EUR
 price: 36.95
 comparePrice: 50.97 EUR
 inStock: true
-prodname: Joules Molly Welly  Botas de Agua para Mujer  Dorado  Gold Botanical Beetroot Gldbotb   36 EU
+prodname: 'Joules Molly Welly  Botas de Agua para Mujer  Dorado  Gold Botanical Beetroot Gldbotb   36 EU'
 ---
 
 Tienes [Joules Molly Welly  Botas de Agua para Mujer  Dorado  Gold Botanical Beetroot Gldbotb   36 EU](https://www.amazon.es/dp/B07DKRGTFD/?tag=tolees-21) con un 27.51 % de descuento con precio de oferta de 36.95 EUR (original: 50.97 EUR) en el siguiente enlace!

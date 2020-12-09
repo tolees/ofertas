@@ -14,7 +14,7 @@ currency: EUR
 price: 21.23
 comparePrice: 28.31 EUR
 inStock: true
-prodname: VICTORY ENDURANCE Total Recovery  Maximiza la recuperación después del entrenamiento  Enriquecido con electrolitos y vitaminas  Sabor Sandía  1250 g 
+prodname: 'VICTORY ENDURANCE Total Recovery  Maximiza la recuperación después del entrenamiento  Enriquecido con electrolitos y vitaminas  Sabor Sandía  1250 g '
 ---
 
 Está [VICTORY ENDURANCE Total Recovery  Maximiza la recuperación después del entrenamiento  Enriquecido con electrolitos y vitaminas  Sabor Sandía  1250 g ](https://www.amazon.es/dp/B01MG1PNIB/?tag=tolees-21) con 25.01 de descuento por 21.23 EUR (original: 28.31 EUR) en el siguiente enlace!

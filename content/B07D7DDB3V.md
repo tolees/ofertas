@@ -14,7 +14,7 @@ currency: EUR
 price: 51.12
 comparePrice: 100 EUR
 inStock: true
-prodname: New Balance 574S v2  Zapatillas para Hombre  Azul  Eclipse/NB White NSA   42 EU
+prodname: 'New Balance 574S v2  Zapatillas para Hombre  Azul  Eclipse/NB White NSA   42 EU'
 ---
 
 Ahora mismo tienes [New Balance 574S v2  Zapatillas para Hombre  Azul  Eclipse/NB White NSA   42 EU](https://www.amazon.es/dp/B07D7DDB3V/?tag=tolees-21) a 51.12 EUR (original: 100 EUR) (48.88 %  de descuento) en el siguiente enlace!

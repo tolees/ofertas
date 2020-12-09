@@ -14,7 +14,7 @@ currency: EUR
 price: 92.94
 comparePrice: 126.21 EUR
 inStock: true
-prodname: Cullmann XCU outdoor DayPack 400+ - Mochila para portátiles y netbooks  Negro  Gris 
+prodname: 'Cullmann XCU outdoor DayPack 400+ - Mochila para portátiles y netbooks  Negro  Gris '
 ---
 
 Ahora mismo tienes [Cullmann XCU outdoor DayPack 400+ - Mochila para portátiles y netbooks  Negro  Gris ](https://www.amazon.es/dp/B00NBT4WWY/?tag=tolees-21) a 92.94 EUR (original: 126.21 EUR) (26.36 %  de descuento) en el siguiente enlace!

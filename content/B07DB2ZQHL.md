@@ -14,7 +14,7 @@ currency: EUR
 price: 33.79
 comparePrice: 64.95 EUR
 inStock: true
-prodname: adidas Predator 18.3 AG J  Botas de fútbol Unisex niño  Amarillo  Amasol/Negbás/Rojsol 000   36 2/3 EU
+prodname: 'adidas Predator 18.3 AG J  Botas de fútbol Unisex niño  Amarillo  Amasol/Negbás/Rojsol 000   36 2/3 EU'
 ---
 
 Ahora mismo tienes [adidas Predator 18.3 AG J  Botas de fútbol Unisex niño  Amarillo  Amasol/Negbás/Rojsol 000   36 2/3 EU](https://www.amazon.es/dp/B07DB2ZQHL/?tag=tolees-21) a 33.79 EUR (original: 64.95 EUR) (47.98 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: OMERIL Corrector Postura Espalda  Corrector de Postura Ajustable y Respirable para Espalda  Hombros y Clavícula  2 Hombreras  Corregir Postura Espalda Recta Soporte para Hombres y Mujer - Actualizado
+prodname: 'OMERIL Corrector Postura Espalda  Corrector de Postura Ajustable y Respirable para Espalda  Hombros y Clavícula  2 Hombreras  Corregir Postura Espalda Recta Soporte para Hombres y Mujer - Actualizado'
 ---
 
 Tienes [OMERIL Corrector Postura Espalda  Corrector de Postura Ajustable y Respirable para Espalda  Hombros y Clavícula  2 Hombreras  Corregir Postura Espalda Recta Soporte para Hombres y Mujer - Actualizado](https://www.amazon.es/dp/B07QMVXGWL/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

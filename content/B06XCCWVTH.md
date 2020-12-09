@@ -14,7 +14,7 @@ currency: EUR
 price: 13.64
 comparePrice: 35 EUR
 inStock: true
-prodname: find. Gingham Embroidered Sudadera para Mujer  Multicolor  Black/white Check   40  Talla del Fabricante: Medium 
+prodname: 'find. Gingham Embroidered Sudadera para Mujer  Multicolor  Black/white Check   40  Talla del Fabricante: Medium '
 ---
 
 Está [find. Gingham Embroidered Sudadera para Mujer  Multicolor  Black/white Check   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B06XCCWVTH/?tag=tolees-21) con 61.03 de descuento por 13.64 EUR (original: 35 EUR) en el siguiente enlace!

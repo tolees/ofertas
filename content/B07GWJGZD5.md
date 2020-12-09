@@ -14,7 +14,7 @@ currency: EUR
 price: 14.9
 comparePrice: 29.99 EUR
 inStock: true
-prodname: 4Gamers - Pro 4-40 Auricular Estéreo Licenciado  40Mm De Diámetro  Micrófono Flexible  Blanco  PS4 
+prodname: '4Gamers - Pro 4-40 Auricular Estéreo Licenciado  40Mm De Diámetro  Micrófono Flexible  Blanco  PS4 '
 ---
 
 Está [4Gamers - Pro 4-40 Auricular Estéreo Licenciado  40Mm De Diámetro  Micrófono Flexible  Blanco  PS4 ](https://www.amazon.es/dp/B07GWJGZD5/?tag=tolees-21) con 50.32 de descuento por 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

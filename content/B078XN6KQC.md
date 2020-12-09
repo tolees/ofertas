@@ -14,7 +14,7 @@ currency: EUR
 price: 48.0
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Swarovski Anillo Attract  Blanco  Baño de Rodio
+prodname: 'Swarovski Anillo Attract  Blanco  Baño de Rodio'
 ---
 
 Ahora mismo tienes [Swarovski Anillo Attract  Blanco  Baño de Rodio](https://www.amazon.es/dp/B078XN6KQC/?tag=tolees-21) a 48.0 EUR (original: 79.0 EUR) (39.24 %  de descuento) en el siguiente enlace!

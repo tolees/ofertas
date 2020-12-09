@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   Medium para Hombre
+prodname: 'Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   Medium para Hombre'
 ---
 
 Tienes [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   Medium para Hombre](https://www.amazon.es/dp/B07C26VDHC/?tag=tolees-21) con un 36.01 % de descuento con precio de oferta de 15.99 EUR (original: 24.99 EUR) en el siguiente enlace!

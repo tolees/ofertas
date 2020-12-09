@@ -14,7 +14,7 @@ currency: EUR
 price: 52.99
 comparePrice: 71.99 EUR
 inStock: true
-prodname: Tenda Nova Mw3 Mesh - AC1200 Router Sistema Wifi De Red En Malla  2 Pack  Dual Banda  Seamless Roaming  Fast Ethernet  Control Parental）
+prodname: 'Tenda Nova Mw3 Mesh - AC1200 Router Sistema Wifi De Red En Malla  2 Pack  Dual Banda  Seamless Roaming  Fast Ethernet  Control Parental）'
 ---
 
 Ahora mismo tienes [Tenda Nova Mw3 Mesh - AC1200 Router Sistema Wifi De Red En Malla  2 Pack  Dual Banda  Seamless Roaming  Fast Ethernet  Control Parental）](https://www.amazon.es/dp/B07CY9XT6P/?tag=tolees-21) a 52.99 EUR (original: 71.99 EUR) (26.39 %  de descuento) en el siguiente enlace!

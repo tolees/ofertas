@@ -14,7 +14,7 @@ currency: EUR
 price: 21.75
 comparePrice: 29.0 EUR
 inStock: true
-prodname: GUESS PENDIENTE GUESS ETERNAL CIRCLES UBE29027
+prodname: 'GUESS PENDIENTE GUESS ETERNAL CIRCLES UBE29027'
 ---
 
 Tienes [GUESS PENDIENTE GUESS ETERNAL CIRCLES UBE29027](https://www.amazon.es/dp/B07XCQJBJ9/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 21.75 EUR (original: 29.0 EUR) en el siguiente enlace!

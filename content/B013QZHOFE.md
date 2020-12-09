@@ -14,7 +14,7 @@ currency: EUR
 price: 52.82
 comparePrice: 75 EUR
 inStock: true
-prodname: New Balance 500  Zapatillas para Hombre  Verde  Green/Grey Sky   44 EU
+prodname: 'New Balance 500  Zapatillas para Hombre  Verde  Green/Grey Sky   44 EU'
 ---
 
 Ahora mismo tienes [New Balance 500  Zapatillas para Hombre  Verde  Green/Grey Sky   44 EU](https://www.amazon.es/dp/B013QZHOFE/?tag=tolees-21) a 52.82 EUR (original: 75 EUR) (29.57 %  de descuento) en el siguiente enlace!

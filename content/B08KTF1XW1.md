@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 399.99 EUR
 inStock: true
-prodname: Móviles Libres  DOOGEE S40 Pro Móvil Resistente  4GB + 64GB SD 256GB   Cámara 13MP+2MP  Cámara Frontal 5MP  4650mAh Movil Antigolpes  Android 10 Smartphone 4G de 5.45" HD+ Pantalla  NFC  Naranja
+prodname: 'Móviles Libres  DOOGEE S40 Pro Móvil Resistente  4GB + 64GB SD 256GB   Cámara 13MP+2MP  Cámara Frontal 5MP  4650mAh Movil Antigolpes  Android 10 Smartphone 4G de 5.45" HD+ Pantalla  NFC  Naranja'
 ---
 
 Tienes [Móviles Libres  DOOGEE S40 Pro Móvil Resistente  4GB + 64GB SD 256GB   Cámara 13MP+2MP  Cámara Frontal 5MP  4650mAh Movil Antigolpes  Android 10 Smartphone 4G de 5.45" HD+ Pantalla  NFC  Naranja](https://www.amazon.es/dp/B08KTF1XW1/?tag=tolees-21) con un 62.50 % de descuento con precio de oferta de 149.99 EUR (original: 399.99 EUR) en el siguiente enlace!

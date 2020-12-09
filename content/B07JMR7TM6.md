@@ -14,7 +14,7 @@ currency: EUR
 price: 7.21
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Habor Termometro de Cocina  5s Lectura Instantánea  5.5   Sonda Larga Con Botón de °C/°F  Termómetro Carne Digital para Agua Líquidos Alimentos Leche
+prodname: 'Habor Termometro de Cocina  5s Lectura Instantánea  5.5   Sonda Larga Con Botón de °C/°F  Termómetro Carne Digital para Agua Líquidos Alimentos Leche'
 ---
 
 Está [Habor Termometro de Cocina  5s Lectura Instantánea  5.5   Sonda Larga Con Botón de °C/°F  Termómetro Carne Digital para Agua Líquidos Alimentos Leche](https://www.amazon.es/dp/B07JMR7TM6/?tag=tolees-21) con 27.83 de descuento por 7.21 EUR (original: 9.99 EUR) en el siguiente enlace!

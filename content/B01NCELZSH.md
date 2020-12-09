@@ -14,7 +14,7 @@ currency: EUR
 price: 23.32
 comparePrice: 80 EUR
 inStock: true
-prodname: Under Armour UA Drift 2  Zapatillas de Running para Hombre  Negro  True Ink/White   44/45 EU
+prodname: 'Under Armour UA Drift 2  Zapatillas de Running para Hombre  Negro  True Ink/White   44/45 EU'
 ---
 
 Tienes [Under Armour UA Drift 2  Zapatillas de Running para Hombre  Negro  True Ink/White   44/45 EU](https://www.amazon.es/dp/B01NCELZSH/?tag=tolees-21) con un 70.85 % de descuento con precio de oferta de 23.32 EUR (original: 80 EUR) en el siguiente enlace!

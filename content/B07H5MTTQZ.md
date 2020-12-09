@@ -14,7 +14,7 @@ currency: EUR
 price: 48.97
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Flex Appeal 3.0  Zapatillas para Mujer  Azul  Blue NVHP   41 EU
+prodname: 'Skechers Flex Appeal 3.0  Zapatillas para Mujer  Azul  Blue NVHP   41 EU'
 ---
 
 Está [Skechers Flex Appeal 3.0  Zapatillas para Mujer  Azul  Blue NVHP   41 EU](https://www.amazon.es/dp/B07H5MTTQZ/?tag=tolees-21) con 29.99 de descuento por 48.97 EUR (original: 69.95 EUR) en el siguiente enlace!

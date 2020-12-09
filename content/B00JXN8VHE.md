@@ -14,7 +14,7 @@ currency: EUR
 price: 32.23
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Negro  996 Full Black   35 EU
+prodname: 'Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Negro  996 Full Black   35 EU'
 ---
 
 Está [Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Negro  996 Full Black   35 EU](https://www.amazon.es/dp/B00JXN8VHE/?tag=tolees-21) con 53.29 de descuento por 32.23 EUR (original: 69.0 EUR) en el siguiente enlace!

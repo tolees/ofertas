@@ -14,7 +14,7 @@ currency: EUR
 price: 521.75
 comparePrice: 715.0 EUR
 inStock: true
-prodname: Roca A2H0416000 Columna Hidromasaje Termostática  Modelo Evolution  Acero Inox
+prodname: 'Roca A2H0416000 Columna Hidromasaje Termostática  Modelo Evolution  Acero Inox'
 ---
 
 Ahora mismo tienes [Roca A2H0416000 Columna Hidromasaje Termostática  Modelo Evolution  Acero Inox](https://www.amazon.es/dp/B00KHMGO4M/?tag=tolees-21) a 521.75 EUR (original: 715.0 EUR) (27.03 %  de descuento) en el siguiente enlace!

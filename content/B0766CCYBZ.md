@@ -14,7 +14,7 @@ currency: EUR
 price: 12.45
 comparePrice: 24.9 EUR
 inStock: true
-prodname: Handbag - Shopper  Shoppers y bolsos de hombro Mujer  Grau  17x28x35 cm  B x H T 
+prodname: 'Handbag - Shopper  Shoppers y bolsos de hombro Mujer  Grau  17x28x35 cm  B x H T '
 ---
 
 Está [Handbag - Shopper  Shoppers y bolsos de hombro Mujer  Grau  17x28x35 cm  B x H T ](https://www.amazon.es/dp/B0766CCYBZ/?tag=tolees-21) con 50.00 de descuento por 12.45 EUR (original: 24.9 EUR) en el siguiente enlace!

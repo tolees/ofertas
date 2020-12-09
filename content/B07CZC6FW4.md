@@ -14,7 +14,7 @@ currency: EUR
 price: 30.91
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azul  Academy/Pitch Gray 408   M
+prodname: 'Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azul  Academy/Pitch Gray 408   M'
 ---
 
 Está [Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azul  Academy/Pitch Gray 408   M](https://www.amazon.es/dp/B07CZC6FW4/?tag=tolees-21) con 31.30 de descuento por 30.91 EUR (original: 44.99 EUR) en el siguiente enlace!

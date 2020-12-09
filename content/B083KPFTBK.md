@@ -14,7 +14,7 @@ currency: EUR
 price: 65.21
 comparePrice: 86.95 EUR
 inStock: true
-prodname: IKOHS Pro-PIRAX - Placa vitrocerámica de inducción  Verde 
+prodname: 'IKOHS Pro-PIRAX - Placa vitrocerámica de inducción  Verde '
 ---
 
 Ahora mismo tienes [IKOHS Pro-PIRAX - Placa vitrocerámica de inducción  Verde ](https://www.amazon.es/dp/B083KPFTBK/?tag=tolees-21) a 65.21 EUR (original: 86.95 EUR) (25.00 %  de descuento) en el siguiente enlace!

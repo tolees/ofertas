@@ -14,7 +14,7 @@ currency: EUR
 price: 275.0
 comparePrice: 399.0 EUR
 inStock: true
-prodname: Yamaha MusicCast YAS 306 - Barra de Sonido en Red  WiFi  Bluetooth  Color Negro
+prodname: 'Yamaha MusicCast YAS 306 - Barra de Sonido en Red  WiFi  Bluetooth  Color Negro'
 ---
 
 Ahora mismo tienes [Yamaha MusicCast YAS 306 - Barra de Sonido en Red  WiFi  Bluetooth  Color Negro](https://www.amazon.es/dp/B01KHHPZKU/?tag=tolees-21) a 275.0 EUR (original: 399.0 EUR) (31.08 %  de descuento) en el siguiente enlace!

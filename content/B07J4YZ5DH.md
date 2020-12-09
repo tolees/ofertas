@@ -14,7 +14,7 @@ currency: EUR
 price: 6.49
 comparePrice: 8.99 EUR
 inStock: true
-prodname: Ex Machina - Edición Horizontal [Blu-ray]
+prodname: 'Ex Machina - Edición Horizontal [Blu-ray]'
 ---
 
 Está [Ex Machina - Edición Horizontal [Blu-ray]](https://www.amazon.es/dp/B07J4YZ5DH/?tag=tolees-21) con 27.81 de descuento por 6.49 EUR (original: 8.99 EUR) en el siguiente enlace!

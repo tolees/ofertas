@@ -14,7 +14,7 @@ currency: EUR
 price: 20.65
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Geox D Sandal Hiver B  Sandalias con Tira Vertical para Mujer  Negro  Black C9999   37 EU
+prodname: 'Geox D Sandal Hiver B  Sandalias con Tira Vertical para Mujer  Negro  Black C9999   37 EU'
 ---
 
 Está [Geox D Sandal Hiver B  Sandalias con Tira Vertical para Mujer  Negro  Black C9999   37 EU](https://www.amazon.es/dp/B07SQPZQ5K/?tag=tolees-21) con 77.03 de descuento por 20.65 EUR (original: 89.9 EUR) en el siguiente enlace!

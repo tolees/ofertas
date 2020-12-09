@@ -14,7 +14,7 @@ currency: EUR
 price: 35.95
 comparePrice: 71.28 EUR
 inStock: true
-prodname: Nike Zapatillas Wmns Court Borough White Black  Deporte Unisex Adulto   Blanco 916794 100   38.5 EU
+prodname: 'Nike Zapatillas Wmns Court Borough White Black  Deporte Unisex Adulto   Blanco 916794 100   38.5 EU'
 ---
 
 Está [Nike Zapatillas Wmns Court Borough White Black  Deporte Unisex Adulto   Blanco 916794 100   38.5 EU](https://www.amazon.es/dp/B06VVRZKQY/?tag=tolees-21) con 49.57 de descuento por 35.95 EUR (original: 71.28 EUR) en el siguiente enlace!

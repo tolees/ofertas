@@ -14,7 +14,7 @@ currency: EUR
 price: 279.46
 comparePrice: 399.0 EUR
 inStock: true
-prodname: Hugo BOSS Reloj para de Cuarzo con Correa en Acero Inoxidable 1513758
+prodname: 'Hugo BOSS Reloj para de Cuarzo con Correa en Acero Inoxidable 1513758'
 ---
 
 Está [Hugo BOSS Reloj para de Cuarzo con Correa en Acero Inoxidable 1513758](https://www.amazon.es/dp/B07XGD33RV/?tag=tolees-21) con 29.96 de descuento por 279.46 EUR (original: 399.0 EUR) en el siguiente enlace!

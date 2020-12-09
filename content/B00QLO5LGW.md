@@ -14,7 +14,7 @@ currency: EUR
 price: 13.11
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Selected Homme Five Rico 1364 Jeans I  Vaqueros para Hombre  Blanco  W32/L34  Talla Fabricante: 32 
+prodname: 'Selected Homme Five Rico 1364 Jeans I  Vaqueros para Hombre  Blanco  W32/L34  Talla Fabricante: 32 '
 ---
 
 Está [Selected Homme Five Rico 1364 Jeans I  Vaqueros para Hombre  Blanco  W32/L34  Talla Fabricante: 32 ](https://www.amazon.es/dp/B00QLO5LGW/?tag=tolees-21) con 86.88 de descuento por 13.11 EUR (original: 99.95 EUR) en el siguiente enlace!

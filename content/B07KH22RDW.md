@@ -14,7 +14,7 @@ currency: EUR
 price: 14.35
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Under Armour UA HG - Pantalón Corto  Mujer  Rosa  Mojo Pink/Metallic Silver 641  XS
+prodname: 'Under Armour UA HG - Pantalón Corto  Mujer  Rosa  Mojo Pink/Metallic Silver 641  XS'
 ---
 
 Ahora mismo tienes [Under Armour UA HG - Pantalón Corto  Mujer  Rosa  Mojo Pink/Metallic Silver 641  XS](https://www.amazon.es/dp/B07KH22RDW/?tag=tolees-21) a 14.35 EUR (original: 25.99 EUR) (44.79 %  de descuento) en el siguiente enlace!

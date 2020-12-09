@@ -14,7 +14,7 @@ currency: EUR
 price: 2.58
 comparePrice: 8.93 EUR
 inStock: true
-prodname: XILOSIN 13mm 5pcs plástico zócalo DC Cargador de la energía del Enchufe de Gato Negro para RC Plano-
+prodname: 'XILOSIN 13mm 5pcs plástico zócalo DC Cargador de la energía del Enchufe de Gato Negro para RC Plano-'
 ---
 
 Ahora mismo tienes [XILOSIN 13mm 5pcs plástico zócalo DC Cargador de la energía del Enchufe de Gato Negro para RC Plano-](https://www.amazon.es/dp/B089LTQ9GN/?tag=tolees-21) a 2.58 EUR (original: 8.93 EUR) (71.11 %  de descuento) en el siguiente enlace!

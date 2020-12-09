@@ -14,7 +14,7 @@ currency: EUR
 price: 144.69
 comparePrice: 204.36 EUR
 inStock: true
-prodname: Tiffen 82PM18 Filtro de Lente de cámara 8 2 cm - Filtro para cámara  8 2 cm  1 Pieza s  
+prodname: 'Tiffen 82PM18 Filtro de Lente de cámara 8 2 cm - Filtro para cámara  8 2 cm  1 Pieza s  '
 ---
 
 Está [Tiffen 82PM18 Filtro de Lente de cámara 8 2 cm - Filtro para cámara  8 2 cm  1 Pieza s  ](https://www.amazon.es/dp/B0017PMGAY/?tag=tolees-21) con 29.20 de descuento por 144.69 EUR (original: 204.36 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 34 EUR
 inStock: true
-prodname: Superdry Vintage Logo Sequin Pop Entry Camiseta de Tirantes  Blanco  Optic 01C   2XS tamaño Fabricante 6  para Mujer
+prodname: 'Superdry Vintage Logo Sequin Pop Entry Camiseta de Tirantes  Blanco  Optic 01C   2XS tamaño Fabricante 6  para Mujer'
 ---
 
 Ahora mismo tienes [Superdry Vintage Logo Sequin Pop Entry Camiseta de Tirantes  Blanco  Optic 01C   2XS tamaño Fabricante 6  para Mujer](https://www.amazon.es/dp/B07MZJT5JV/?tag=tolees-21) a 17.95 EUR (original: 34 EUR) (47.21 %  de descuento) en el siguiente enlace!

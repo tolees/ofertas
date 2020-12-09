@@ -14,7 +14,7 @@ currency: EUR
 price: 27.4
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Suede Bow Wn s  Zapatillas para Mujer  Rosa Magenta Haze 03  38 EU
+prodname: 'Puma Suede Bow Wn s  Zapatillas para Mujer  Rosa Magenta Haze 03  38 EU'
 ---
 
 Ahora mismo tienes [Puma Suede Bow Wn s  Zapatillas para Mujer  Rosa Magenta Haze 03  38 EU](https://www.amazon.es/dp/B07D9ZF4JH/?tag=tolees-21) a 27.4 EUR (original: 89.95 EUR) (69.54 %  de descuento) en el siguiente enlace!

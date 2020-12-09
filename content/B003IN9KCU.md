@@ -14,7 +14,7 @@ currency: EUR
 price: 17.35
 comparePrice: 24.2 EUR
 inStock: true
-prodname: Sub Sports Dual Base Layer Kurzarm - Prenda  Color Rojo/Blanco  Talla XL
+prodname: 'Sub Sports Dual Base Layer Kurzarm - Prenda  Color Rojo/Blanco  Talla XL'
 ---
 
 Está [Sub Sports Dual Base Layer Kurzarm - Prenda  Color Rojo/Blanco  Talla XL](https://www.amazon.es/dp/B003IN9KCU/?tag=tolees-21) con 28.31 de descuento por 17.35 EUR (original: 24.2 EUR) en el siguiente enlace!

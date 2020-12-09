@@ -14,7 +14,7 @@ currency: EUR
 price: 47.9
 comparePrice: 84.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Tommy Jacquard Flatform Sneaker  Zapatillas para Mujer  Azul  Midnight 403   37 EU
+prodname: 'Tommy Hilfiger Tommy Jacquard Flatform Sneaker  Zapatillas para Mujer  Azul  Midnight 403   37 EU'
 ---
 
 Tienes [Tommy Hilfiger Tommy Jacquard Flatform Sneaker  Zapatillas para Mujer  Azul  Midnight 403   37 EU](https://www.amazon.es/dp/B07L3FTQN6/?tag=tolees-21) con un 43.58 % de descuento con precio de oferta de 47.9 EUR (original: 84.9 EUR) en el siguiente enlace!

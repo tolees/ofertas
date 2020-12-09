@@ -14,7 +14,7 @@ currency: EUR
 price: 93.99
 comparePrice: 168.99 EUR
 inStock: true
-prodname: Kivors 3G Tablet de 10.1 Pulgadas IPS HD  Quad Core Processor  2GB RAM  32GB ROM  Android  IPS HD 1280x800  Doble Cámara  Doble Sim  WiFi  Bluetooth 4.0  OTG   Plata 
+prodname: 'Kivors 3G Tablet de 10.1 Pulgadas IPS HD  Quad Core Processor  2GB RAM  32GB ROM  Android  IPS HD 1280x800  Doble Cámara  Doble Sim  WiFi  Bluetooth 4.0  OTG   Plata '
 ---
 
 Ahora mismo tienes [Kivors 3G Tablet de 10.1 Pulgadas IPS HD  Quad Core Processor  2GB RAM  32GB ROM  Android  IPS HD 1280x800  Doble Cámara  Doble Sim  WiFi  Bluetooth 4.0  OTG   Plata ](https://www.amazon.es/dp/B07F7ZLMLD/?tag=tolees-21) a 93.99 EUR (original: 168.99 EUR) (44.38 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 2.28
 comparePrice: 6.5 EUR
 inStock: true
-prodname: Llavero "Per a profes de matrícula"
+prodname: 'Llavero "Per a profes de matrícula"'
 ---
 
 Tienes [Llavero "Per a profes de matrícula"](https://www.amazon.es/dp/B079QDGZM4/?tag=tolees-21) con un 64.92 % de descuento con precio de oferta de 2.28 EUR (original: 6.5 EUR) en el siguiente enlace!

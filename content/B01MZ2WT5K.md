@@ -14,7 +14,7 @@ currency: EUR
 price: 17.23
 comparePrice: 38.95 EUR
 inStock: true
-prodname: BOSS Hugo Brief 3p Co/el  Bañador Hombre  Azul  Open Miscellaneous   Small
+prodname: 'BOSS Hugo Brief 3p Co/el  Bañador Hombre  Azul  Open Miscellaneous   Small'
 ---
 
 Está [BOSS Hugo Brief 3p Co/el  Bañador Hombre  Azul  Open Miscellaneous   Small](https://www.amazon.es/dp/B01MZ2WT5K/?tag=tolees-21) con 55.76 de descuento por 17.23 EUR (original: 38.95 EUR) en el siguiente enlace!

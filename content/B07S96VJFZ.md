@@ -14,7 +14,7 @@ currency: EUR
 price: 8.15
 comparePrice: 13.95 EUR
 inStock: true
-prodname: Control Sensual Dot&lines Preservativos - Caja de Condones con Puntos y Estrías  24 Unidades  Pack Ahorro 
+prodname: 'Control Sensual Dot&lines Preservativos - Caja de Condones con Puntos y Estrías  24 Unidades  Pack Ahorro '
 ---
 
 Tienes [Control Sensual Dot&lines Preservativos - Caja de Condones con Puntos y Estrías  24 Unidades  Pack Ahorro ](https://www.amazon.es/dp/B07S96VJFZ/?tag=tolees-21) con un 41.58 % de descuento con precio de oferta de 8.15 EUR (original: 13.95 EUR) en el siguiente enlace!

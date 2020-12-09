@@ -14,7 +14,7 @@ currency: EUR
 price: 20.09
 comparePrice: 49 EUR
 inStock: true
-prodname: Dickies Rotonda South Camisa  Negro  Black   Small  Tamaño del Fabricante:S  para Hombre
+prodname: 'Dickies Rotonda South Camisa  Negro  Black   Small  Tamaño del Fabricante:S  para Hombre'
 ---
 
 Tienes [Dickies Rotonda South Camisa  Negro  Black   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B011VQRMAM/?tag=tolees-21) con un 59.00 % de descuento con precio de oferta de 20.09 EUR (original: 49 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 76.99 EUR
 inStock: true
-prodname: Aigostar Windmill 30KPW - Batidora americana de vaso  1000W  vaso de cristal de 1 5 litros  2 velocidades  pica hielo  6 cuchillas de acero inoxidable tipo 304. Libre de BPA. Diseño exclusivo
+prodname: 'Aigostar Windmill 30KPW - Batidora americana de vaso  1000W  vaso de cristal de 1 5 litros  2 velocidades  pica hielo  6 cuchillas de acero inoxidable tipo 304. Libre de BPA. Diseño exclusivo'
 ---
 
 Está [Aigostar Windmill 30KPW - Batidora americana de vaso  1000W  vaso de cristal de 1 5 litros  2 velocidades  pica hielo  6 cuchillas de acero inoxidable tipo 304. Libre de BPA. Diseño exclusivo](https://www.amazon.es/dp/B079N8GMXX/?tag=tolees-21) con 51.95 de descuento por 36.99 EUR (original: 76.99 EUR) en el siguiente enlace!

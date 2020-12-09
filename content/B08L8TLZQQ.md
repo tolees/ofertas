@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 15.0 EUR
 inStock: true
-prodname: KKmoon Guantes Invierno Guantes Moto Hombre y Mujer con Pantalla Táctil Diseño Antideslizante Impermeable（Negro XXL）
+prodname: 'KKmoon Guantes Invierno Guantes Moto Hombre y Mujer con Pantalla Táctil Diseño Antideslizante Impermeable（Negro XXL）'
 ---
 
 Tienes [KKmoon Guantes Invierno Guantes Moto Hombre y Mujer con Pantalla Táctil Diseño Antideslizante Impermeable（Negro XXL）](https://www.amazon.es/dp/B08L8TLZQQ/?tag=tolees-21) con un 40.07 % de descuento con precio de oferta de 8.99 EUR (original: 15.0 EUR) en el siguiente enlace!

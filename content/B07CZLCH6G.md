@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Bamboo Cheese Board | Wood Serving Platter | Includes Slide Out Knife Set | M&W
+prodname: 'Bamboo Cheese Board | Wood Serving Platter | Includes Slide Out Knife Set | M&W'
 ---
 
 Ahora mismo tienes [Bamboo Cheese Board | Wood Serving Platter | Includes Slide Out Knife Set | M&W](https://www.amazon.es/dp/B07CZLCH6G/?tag=tolees-21) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!

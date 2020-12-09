@@ -14,7 +14,7 @@ currency: EUR
 price: 275.99
 comparePrice: 379.99 EUR
 inStock: true
-prodname: PUTORSEN® ES12B Marco de Escritorio de pie con Altura Ajustable eléctrica  Escritorio de pie Soltera Motor 2 sección Patas de Acero sólido con tecla de Memoria automática Inteligente Solo Marco-Negro 
+prodname: 'PUTORSEN® ES12B Marco de Escritorio de pie con Altura Ajustable eléctrica  Escritorio de pie Soltera Motor 2 sección Patas de Acero sólido con tecla de Memoria automática Inteligente Solo Marco-Negro '
 ---
 
 Tienes [PUTORSEN® ES12B Marco de Escritorio de pie con Altura Ajustable eléctrica  Escritorio de pie Soltera Motor 2 sección Patas de Acero sólido con tecla de Memoria automática Inteligente Solo Marco-Negro ](https://www.amazon.es/dp/B07QC7BYZX/?tag=tolees-21) con un 27.37 % de descuento con precio de oferta de 275.99 EUR (original: 379.99 EUR) en el siguiente enlace!

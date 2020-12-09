@@ -14,7 +14,7 @@ currency: EUR
 price: 59.95
 comparePrice: 106.0 EUR
 inStock: true
-prodname: Issey Miyake L Eau D Issey Homme Eau de Toilette Vaporizador 200 ml
+prodname: 'Issey Miyake L Eau D Issey Homme Eau de Toilette Vaporizador 200 ml'
 ---
 
 Ahora mismo tienes [Issey Miyake L Eau D Issey Homme Eau de Toilette Vaporizador 200 ml](https://www.amazon.es/dp/B000VOHH8I/?tag=tolees-21) a 59.95 EUR (original: 106.0 EUR) (43.44 %  de descuento) en el siguiente enlace!

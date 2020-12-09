@@ -14,7 +14,7 @@ currency: EUR
 price: 29.63
 comparePrice: 61.86 EUR
 inStock: true
-prodname: Reebok BD5612  Zapatillas de Trail Running para Mujer  Azul  Collegiate Navy/Brave Blue/Gable Grey/Ch   38 EU
+prodname: 'Reebok BD5612  Zapatillas de Trail Running para Mujer  Azul  Collegiate Navy/Brave Blue/Gable Grey/Ch   38 EU'
 ---
 
 Tienes [Reebok BD5612  Zapatillas de Trail Running para Mujer  Azul  Collegiate Navy/Brave Blue/Gable Grey/Ch   38 EU](https://www.amazon.es/dp/B01N9KAFRV/?tag=tolees-21) con un 52.10 % de descuento con precio de oferta de 29.63 EUR (original: 61.86 EUR) en el siguiente enlace!

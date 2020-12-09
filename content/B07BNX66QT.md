@@ -14,7 +14,7 @@ currency: EUR
 price: 40.92
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Youth Parkers Peak Boot  Botas de Senderismo Unisex para Niños  Gris  Cirrus Grey  Rosewater 031   36 EU
+prodname: 'Columbia Youth Parkers Peak Boot  Botas de Senderismo Unisex para Niños  Gris  Cirrus Grey  Rosewater 031   36 EU'
 ---
 
 Está [Columbia Youth Parkers Peak Boot  Botas de Senderismo Unisex para Niños  Gris  Cirrus Grey  Rosewater 031   36 EU](https://www.amazon.es/dp/B07BNX66QT/?tag=tolees-21) con 54.53 de descuento por 40.92 EUR (original: 89.99 EUR) en el siguiente enlace!

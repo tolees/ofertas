@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Spyro Reignited Trilogy
+prodname: 'Spyro Reignited Trilogy'
 ---
 
 Tienes [Spyro Reignited Trilogy](https://www.amazon.es/dp/B07CFMK6C5/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 19.9 EUR (original: 39.99 EUR) en el siguiente enlace!

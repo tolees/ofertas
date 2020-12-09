@@ -14,7 +14,7 @@ currency: EUR
 price: 17.36
 comparePrice: 24.9 EUR
 inStock: true
-prodname: Cranio Creations Blackout: Hong Kong - Italian
+prodname: 'Cranio Creations Blackout: Hong Kong - Italian'
 ---
 
 Está [Cranio Creations Blackout: Hong Kong - Italian](https://www.amazon.es/dp/B07QLXFDLC/?tag=tolees-21) con 30.28 de descuento por 17.36 EUR (original: 24.9 EUR) en el siguiente enlace!

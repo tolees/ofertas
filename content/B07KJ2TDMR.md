@@ -14,7 +14,7 @@ currency: EUR
 price: 98.99
 comparePrice: 169.99 EUR
 inStock: true
-prodname: TP-Link AC1200 Deco M4  2 Pack  - Router  Repetidor de Wi-fi  Mesh Wi-fi Smart sin Interrupción  Dual-Band hasta 260 m²  2 Gigabit  1000 Mbps
+prodname: 'TP-Link AC1200 Deco M4  2 Pack  - Router  Repetidor de Wi-fi  Mesh Wi-fi Smart sin Interrupción  Dual-Band hasta 260 m²  2 Gigabit  1000 Mbps'
 ---
 
 Tienes [TP-Link AC1200 Deco M4  2 Pack  - Router  Repetidor de Wi-fi  Mesh Wi-fi Smart sin Interrupción  Dual-Band hasta 260 m²  2 Gigabit  1000 Mbps](https://www.amazon.es/dp/B07KJ2TDMR/?tag=tolees-21) con un 41.77 % de descuento con precio de oferta de 98.99 EUR (original: 169.99 EUR) en el siguiente enlace!

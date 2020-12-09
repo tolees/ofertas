@@ -14,7 +14,7 @@ currency: EUR
 price: 29.15
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Naf Naf Jhnc62d  Blusa para Mujer   Imprime 487  40
+prodname: 'Naf Naf Jhnc62d  Blusa para Mujer   Imprime 487  40'
 ---
 
 Ahora mismo tienes [Naf Naf Jhnc62d  Blusa para Mujer   Imprime 487  40](https://www.amazon.es/dp/B07FR4LP3Z/?tag=tolees-21) a 29.15 EUR (original: 49.99 EUR) (41.69 %  de descuento) en el siguiente enlace!

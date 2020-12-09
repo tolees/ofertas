@@ -14,7 +14,7 @@ currency: EUR
 price: 72.57
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Swarovski Collar Sparkling Dance Heart  blanco  Baño en tono Oro Rosa
+prodname: 'Swarovski Collar Sparkling Dance Heart  blanco  Baño en tono Oro Rosa'
 ---
 
 Tienes [Swarovski Collar Sparkling Dance Heart  blanco  Baño en tono Oro Rosa](https://www.amazon.es/dp/B06XGFZ1XD/?tag=tolees-21) con un 26.70 % de descuento con precio de oferta de 72.57 EUR (original: 99.0 EUR) en el siguiente enlace!

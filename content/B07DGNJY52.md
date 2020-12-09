@@ -14,7 +14,7 @@ currency: EUR
 price: 69.77
 comparePrice: 187.93 EUR
 inStock: true
-prodname: Timberland Rime Ridge  Botas Clasicas para Hombre  Marrón  Medium Brown Connection 214   41.5 EU
+prodname: 'Timberland Rime Ridge  Botas Clasicas para Hombre  Marrón  Medium Brown Connection 214   41.5 EU'
 ---
 
 Tienes [Timberland Rime Ridge  Botas Clasicas para Hombre  Marrón  Medium Brown Connection 214   41.5 EU](https://www.amazon.es/dp/B07DGNJY52/?tag=tolees-21) con un 62.87 % de descuento con precio de oferta de 69.77 EUR (original: 187.93 EUR) en el siguiente enlace!

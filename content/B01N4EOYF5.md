@@ -14,7 +14,7 @@ currency: EUR
 price: 16.43
 comparePrice: 36.99 EUR
 inStock: true
-prodname: VERO MODA Vmabby 3/4 Top Dnm  Blusa para Mujer  Blanco  Snow White Stripes:Surf The Web   34  Talla del fabricante: X-Small 
+prodname: 'VERO MODA Vmabby 3/4 Top Dnm  Blusa para Mujer  Blanco  Snow White Stripes:Surf The Web   34  Talla del fabricante: X-Small '
 ---
 
 Está [VERO MODA Vmabby 3/4 Top Dnm  Blusa para Mujer  Blanco  Snow White Stripes:Surf The Web   34  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B01N4EOYF5/?tag=tolees-21) con 55.58 de descuento por 16.43 EUR (original: 36.99 EUR) en el siguiente enlace!

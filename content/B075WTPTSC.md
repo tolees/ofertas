@@ -14,7 +14,7 @@ currency: EUR
 price: 94.22
 comparePrice: 480 EUR
 inStock: true
-prodname: Versa 19501329 Sillón tapizado Rhune  89x71x72 cm  Gris y Negro   Butaca  Sofá
+prodname: 'Versa 19501329 Sillón tapizado Rhune  89x71x72 cm  Gris y Negro   Butaca  Sofá'
 ---
 
 Está [Versa 19501329 Sillón tapizado Rhune  89x71x72 cm  Gris y Negro   Butaca  Sofá](https://www.amazon.es/dp/B075WTPTSC/?tag=tolees-21) con 80.37 de descuento por 94.22 EUR (original: 480 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.4
 comparePrice: 11.39 EUR
 inStock: true
-prodname: Ultrasport Basic Noam Camiseta de compresión sin Costuras  Hombre  Blanco  L/XL
+prodname: 'Ultrasport Basic Noam Camiseta de compresión sin Costuras  Hombre  Blanco  L/XL'
 ---
 
 Está [Ultrasport Basic Noam Camiseta de compresión sin Costuras  Hombre  Blanco  L/XL](https://www.amazon.es/dp/B078YHJVLN/?tag=tolees-21) con 26.25 de descuento por 8.4 EUR (original: 11.39 EUR) en el siguiente enlace!

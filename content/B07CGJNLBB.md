@@ -14,7 +14,7 @@ currency: EUR
 price: 154.8
 comparePrice: 229.99 EUR
 inStock: true
-prodname: Samsung 970 EVO  Disco Duro Sólido  1 TB
+prodname: 'Samsung 970 EVO  Disco Duro Sólido  1 TB'
 ---
 
 Está [Samsung 970 EVO  Disco Duro Sólido  1 TB](https://www.amazon.es/dp/B07CGJNLBB/?tag=tolees-21) con 32.69 de descuento por 154.8 EUR (original: 229.99 EUR) en el siguiente enlace!

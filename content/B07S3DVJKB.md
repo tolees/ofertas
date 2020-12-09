@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Depiladora de Cejas  Depiladora Cejas Mujer  Eléctrica Depiladora Cejas  Eyebrow Trimmer  Recortador de Fello de Cejas Sin Dolor para Mujer Depiladora de Cejas Rápida y Segura
+prodname: 'Depiladora de Cejas  Depiladora Cejas Mujer  Eléctrica Depiladora Cejas  Eyebrow Trimmer  Recortador de Fello de Cejas Sin Dolor para Mujer Depiladora de Cejas Rápida y Segura'
 ---
 
 Tienes [Depiladora de Cejas  Depiladora Cejas Mujer  Eléctrica Depiladora Cejas  Eyebrow Trimmer  Recortador de Fello de Cejas Sin Dolor para Mujer Depiladora de Cejas Rápida y Segura](https://www.amazon.es/dp/B07S3DVJKB/?tag=tolees-21) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

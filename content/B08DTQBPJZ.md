@@ -14,7 +14,7 @@ currency: EUR
 price: 2.99
 comparePrice: 14.97 EUR
 inStock: true
-prodname: Cinturón de nylon para hombre  hebilla automática de metal  cinturón de nylon de lona de moda casual
+prodname: 'Cinturón de nylon para hombre  hebilla automática de metal  cinturón de nylon de lona de moda casual'
 ---
 
 Está [Cinturón de nylon para hombre  hebilla automática de metal  cinturón de nylon de lona de moda casual](https://www.amazon.es/dp/B08DTQBPJZ/?tag=tolees-21) con 80.03 de descuento por 2.99 EUR (original: 14.97 EUR) en el siguiente enlace!

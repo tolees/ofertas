@@ -14,7 +14,7 @@ currency: EUR
 price: 19.92
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Only Onlsally Long Nylon Functional Coat Otw Abrigo  Azul  Sky Captain   36  Talla del Fabricante: Small  para Mujer
+prodname: 'Only Onlsally Long Nylon Functional Coat Otw Abrigo  Azul  Sky Captain   36  Talla del Fabricante: Small  para Mujer'
 ---
 
 Está [Only Onlsally Long Nylon Functional Coat Otw Abrigo  Azul  Sky Captain   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B0744NVNTJ/?tag=tolees-21) con 80.08 de descuento por 19.92 EUR (original: 99.99 EUR) en el siguiente enlace!

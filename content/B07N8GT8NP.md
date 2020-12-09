@@ -14,7 +14,7 @@ currency: EUR
 price: 28.7
 comparePrice: 65 EUR
 inStock: true
-prodname: Superga 2288-Vcotw  Sandalias con Punta Cerrada para Mujer  Azul  Blue 944   39 EU
+prodname: 'Superga 2288-Vcotw  Sandalias con Punta Cerrada para Mujer  Azul  Blue 944   39 EU'
 ---
 
 Tienes [Superga 2288-Vcotw  Sandalias con Punta Cerrada para Mujer  Azul  Blue 944   39 EU](https://www.amazon.es/dp/B07N8GT8NP/?tag=tolees-21) con un 55.85 % de descuento con precio de oferta de 28.7 EUR (original: 65 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 84.99
 comparePrice: 119.9 EUR
 inStock: true
-prodname: Alcatel A3 - Tablet de 10.1   HD IPS  WiFi  Procesador QuadCore  1GB de RAM  16 GB de memoria interna  Android 7 ; Blanco
+prodname: 'Alcatel A3 - Tablet de 10.1   HD IPS  WiFi  Procesador QuadCore  1GB de RAM  16 GB de memoria interna  Android 7 ; Blanco'
 ---
 
 Está [Alcatel A3 - Tablet de 10.1   HD IPS  WiFi  Procesador QuadCore  1GB de RAM  16 GB de memoria interna  Android 7 ; Blanco](https://www.amazon.es/dp/B078BMHHNH/?tag=tolees-21) con 29.12 de descuento por 84.99 EUR (original: 119.9 EUR) en el siguiente enlace!

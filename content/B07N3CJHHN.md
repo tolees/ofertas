@@ -14,7 +14,7 @@ currency: EUR
 price: 44.88
 comparePrice: 91 EUR
 inStock: true
-prodname: Munich Sapporo  Zapatillas Unisex Adulto   Verde/Negro 51   45 EU
+prodname: 'Munich Sapporo  Zapatillas Unisex Adulto   Verde/Negro 51   45 EU'
 ---
 
 Está [Munich Sapporo  Zapatillas Unisex Adulto   Verde/Negro 51   45 EU](https://www.amazon.es/dp/B07N3CJHHN/?tag=tolees-21) con 50.68 de descuento por 44.88 EUR (original: 91 EUR) en el siguiente enlace!

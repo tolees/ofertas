@@ -14,7 +14,7 @@ currency: EUR
 price: 17.5
 comparePrice: 37.18 EUR
 inStock: true
-prodname: find. Super Skinny Jeans con Rotos Hombre  Gris  Washed Black   W36/L34
+prodname: 'find. Super Skinny Jeans con Rotos Hombre  Gris  Washed Black   W36/L34'
 ---
 
 Ahora mismo tienes [find. Super Skinny Jeans con Rotos Hombre  Gris  Washed Black   W36/L34](https://www.amazon.es/dp/B0757YPZSR/?tag=tolees-21) a 17.5 EUR (original: 37.18 EUR) (52.93 %  de descuento) en el siguiente enlace!

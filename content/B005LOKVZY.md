@@ -14,7 +14,7 @@ currency: EUR
 price: 18
 comparePrice: 34.88 EUR
 inStock: true
-prodname: Jil Sander Eve - Eau de Toilette para mujer - 30 ml
+prodname: 'Jil Sander Eve - Eau de Toilette para mujer - 30 ml'
 ---
 
 Tienes [Jil Sander Eve - Eau de Toilette para mujer - 30 ml](https://www.amazon.es/dp/B005LOKVZY/?tag=tolees-21) con un 48.39 % de descuento con precio de oferta de 18 EUR (original: 34.88 EUR) en el siguiente enlace!

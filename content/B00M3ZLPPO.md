@@ -14,7 +14,7 @@ currency: EUR
 price: 2.99
 comparePrice: 5.69 EUR
 inStock: true
-prodname: Command 17026CLR - Ganchos mini para decoración con tiras transparente  Pack de 20
+prodname: 'Command 17026CLR - Ganchos mini para decoración con tiras transparente  Pack de 20'
 ---
 
 Tienes [Command 17026CLR - Ganchos mini para decoración con tiras transparente  Pack de 20](https://www.amazon.es/dp/B00M3ZLPPO/?tag=tolees-21) con un 47.45 % de descuento con precio de oferta de 2.99 EUR (original: 5.69 EUR) en el siguiente enlace!

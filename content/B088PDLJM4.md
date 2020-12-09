@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Oh My GIF- Pack de 6  bit Dance Set  Famosa HMY02000 
+prodname: 'Oh My GIF- Pack de 6  bit Dance Set  Famosa HMY02000 '
 ---
 
 Tienes [Oh My GIF- Pack de 6  bit Dance Set  Famosa HMY02000 ](https://www.amazon.es/dp/B088PDLJM4/?tag=tolees-21) con un 33.39 % de descuento con precio de oferta de 19.95 EUR (original: 29.95 EUR) en el siguiente enlace!

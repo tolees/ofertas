@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 30 EUR
 inStock: true
-prodname: Salomon Trail Low Gaiters  Unisex Adulto  Negro  L
+prodname: 'Salomon Trail Low Gaiters  Unisex Adulto  Negro  L'
 ---
 
 Tienes [Salomon Trail Low Gaiters  Unisex Adulto  Negro  L](https://www.amazon.es/dp/B008JFEFJA/?tag=tolees-21) con un 36.83 % de descuento con precio de oferta de 18.95 EUR (original: 30 EUR) en el siguiente enlace!

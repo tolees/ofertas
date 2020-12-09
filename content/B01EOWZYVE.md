@@ -14,7 +14,7 @@ currency: EUR
 price: 110.11
 comparePrice: 230.0 EUR
 inStock: true
-prodname: Helly Hansen Dubliner Parka Chaqueta 3/4 Impermeable  Cortaviento y Transpirable para Hombre para el Uso Diario  Negro  Black 990   M
+prodname: 'Helly Hansen Dubliner Parka Chaqueta 3/4 Impermeable  Cortaviento y Transpirable para Hombre para el Uso Diario  Negro  Black 990   M'
 ---
 
 Tienes [Helly Hansen Dubliner Parka Chaqueta 3/4 Impermeable  Cortaviento y Transpirable para Hombre para el Uso Diario  Negro  Black 990   M](https://www.amazon.es/dp/B01EOWZYVE/?tag=tolees-21) con un 52.13 % de descuento con precio de oferta de 110.11 EUR (original: 230.0 EUR) en el siguiente enlace!

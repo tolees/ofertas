@@ -14,7 +14,7 @@ currency: EUR
 price: 113.3
 comparePrice: 189.99 EUR
 inStock: true
-prodname: Garmin DriveSmart 51 Western EU LMT-S - Navegador GPS con mapas de por Vida y tráfico vía móvil  Pantalla de 5"  Mapa Oeste Europa 
+prodname: 'Garmin DriveSmart 51 Western EU LMT-S - Navegador GPS con mapas de por Vida y tráfico vía móvil  Pantalla de 5"  Mapa Oeste Europa '
 ---
 
 Está [Garmin DriveSmart 51 Western EU LMT-S - Navegador GPS con mapas de por Vida y tráfico vía móvil  Pantalla de 5"  Mapa Oeste Europa ](https://www.amazon.es/dp/B01MYAXRPE/?tag=tolees-21) con 40.37 de descuento por 113.3 EUR (original: 189.99 EUR) en el siguiente enlace!

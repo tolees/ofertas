@@ -14,7 +14,7 @@ currency: EUR
 price: 6.84
 comparePrice: 11.1 EUR
 inStock: true
-prodname: Aladdin - Algodón Limpia Metales  Pack de 3 x 75 g
+prodname: 'Aladdin - Algodón Limpia Metales  Pack de 3 x 75 g'
 ---
 
 Ahora mismo tienes [Aladdin - Algodón Limpia Metales  Pack de 3 x 75 g](https://www.amazon.es/dp/B01LZRWVGF/?tag=tolees-21) a 6.84 EUR (original: 11.1 EUR) (38.38 %  de descuento) en el siguiente enlace!

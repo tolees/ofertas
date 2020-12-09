@@ -14,7 +14,7 @@ currency: EUR
 price: 27.95
 comparePrice: 49.99 EUR
 inStock: true
-prodname: JACK & JONES Jjimarco Jjcharles AKM 570 Black STS Pantalones  W34/L30 para Hombre
+prodname: 'JACK & JONES Jjimarco Jjcharles AKM 570 Black STS Pantalones  W34/L30 para Hombre'
 ---
 
 Tienes [JACK & JONES Jjimarco Jjcharles AKM 570 Black STS Pantalones  W34/L30 para Hombre](https://www.amazon.es/dp/B07FNNMT46/?tag=tolees-21) con un 44.09 % de descuento con precio de oferta de 27.95 EUR (original: 49.99 EUR) en el siguiente enlace!

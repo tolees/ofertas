@@ -14,7 +14,7 @@ currency: EUR
 price: 11.24
 comparePrice: 14.99 EUR
 inStock: true
-prodname: PetSol Limpiador césped Artificial para Perros y Mascotas 3 en 1 Concentrado Hace 30 litros. Desinfectante  Desodorizador  removedor de la orina. Elimina Musgo y Algas. Fragancia Césped Fresco  1L 
+prodname: 'PetSol Limpiador césped Artificial para Perros y Mascotas 3 en 1 Concentrado Hace 30 litros. Desinfectante  Desodorizador  removedor de la orina. Elimina Musgo y Algas. Fragancia Césped Fresco  1L '
 ---
 
 Tienes [PetSol Limpiador césped Artificial para Perros y Mascotas 3 en 1 Concentrado Hace 30 litros. Desinfectante  Desodorizador  removedor de la orina. Elimina Musgo y Algas. Fragancia Césped Fresco  1L ](https://www.amazon.es/dp/B07XJ54KSL/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 11.24 EUR (original: 14.99 EUR) en el siguiente enlace!

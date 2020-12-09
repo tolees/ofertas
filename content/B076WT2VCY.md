@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 28.13 EUR
 inStock: true
-prodname: Disney Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero MK5087
+prodname: 'Disney Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero MK5087'
 ---
 
 Ahora mismo tienes [Disney Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero MK5087](https://www.amazon.es/dp/B076WT2VCY/?tag=tolees-21) a 19.99 EUR (original: 28.13 EUR) (28.94 %  de descuento) en el siguiente enlace!

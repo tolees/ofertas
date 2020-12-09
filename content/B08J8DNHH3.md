@@ -14,7 +14,7 @@ currency: EUR
 price: 649.0
 comparePrice: 898.0 EUR
 inStock: true
-prodname: Xiaomi Mi 10T Pro Pack de Lanzamiento  Pantalla 6.67" FHD+ DotDisplay  8GB+128GB  Cámara de 108MP  Snapdragon 865 5G  5.000mAh con carga 33W  Plata Lunar [versión española] + Scooter Essential
+prodname: 'Xiaomi Mi 10T Pro Pack de Lanzamiento  Pantalla 6.67" FHD+ DotDisplay  8GB+128GB  Cámara de 108MP  Snapdragon 865 5G  5.000mAh con carga 33W  Plata Lunar [versión española] + Scooter Essential'
 ---
 
 Tienes [Xiaomi Mi 10T Pro Pack de Lanzamiento  Pantalla 6.67" FHD+ DotDisplay  8GB+128GB  Cámara de 108MP  Snapdragon 865 5G  5.000mAh con carga 33W  Plata Lunar [versión española] + Scooter Essential](https://www.amazon.es/dp/B08J8DNHH3/?tag=tolees-21) con un 27.73 % de descuento con precio de oferta de 649.0 EUR (original: 898.0 EUR) en el siguiente enlace!

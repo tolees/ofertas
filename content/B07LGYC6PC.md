@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Asmodee - Barony  juego de mesa  BAR01ML 
+prodname: 'Asmodee - Barony  juego de mesa  BAR01ML '
 ---
 
 Tienes [Asmodee - Barony  juego de mesa  BAR01ML ](https://www.amazon.es/dp/B07LGYC6PC/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

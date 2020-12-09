@@ -14,7 +14,7 @@ currency: EUR
 price: 9.49
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Helly Hansen Brand Fleece Active Beanie  cómodo para Actividades al Aire Libre y la Vida Urbana  Unisex Adulto  Negro  STD
+prodname: 'Helly Hansen Brand Fleece Active Beanie  cómodo para Actividades al Aire Libre y la Vida Urbana  Unisex Adulto  Negro  STD'
 ---
 
 Está [Helly Hansen Brand Fleece Active Beanie  cómodo para Actividades al Aire Libre y la Vida Urbana  Unisex Adulto  Negro  STD](https://www.amazon.es/dp/B000PCY3JM/?tag=tolees-21) con 52.55 de descuento por 9.49 EUR (original: 20.0 EUR) en el siguiente enlace!

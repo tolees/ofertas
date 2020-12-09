@@ -14,7 +14,7 @@ currency: EUR
 price: 22.45
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Geox Jr Sandal Kyle B  Sandalias Punta Cerrada para Niños  Verde  Lime/Blue C2302   39 EU
+prodname: 'Geox Jr Sandal Kyle B  Sandalias Punta Cerrada para Niños  Verde  Lime/Blue C2302   39 EU'
 ---
 
 Está [Geox Jr Sandal Kyle B  Sandalias Punta Cerrada para Niños  Verde  Lime/Blue C2302   39 EU](https://www.amazon.es/dp/B07DK4VS3H/?tag=tolees-21) con 62.52 de descuento por 22.45 EUR (original: 59.9 EUR) en el siguiente enlace!

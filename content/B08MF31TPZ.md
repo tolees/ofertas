@@ -14,7 +14,7 @@ currency: EUR
 price: 1.41
 comparePrice: 2.12 EUR
 inStock: true
-prodname: LIGH Portabotellas para Bicicleta Portabotellas de Aluminio Soporte para Vasos de Agua para Bicicleta de Monta?a Soporte para Bebidas para Montar en Bicicleta Accesorios para Bicicletas - Negro
+prodname: 'LIGH Portabotellas para Bicicleta Portabotellas de Aluminio Soporte para Vasos de Agua para Bicicleta de Monta?a Soporte para Bebidas para Montar en Bicicleta Accesorios para Bicicletas - Negro'
 ---
 
 Está [LIGH Portabotellas para Bicicleta Portabotellas de Aluminio Soporte para Vasos de Agua para Bicicleta de Monta?a Soporte para Bebidas para Montar en Bicicleta Accesorios para Bicicletas - Negro](https://www.amazon.es/dp/B08MF31TPZ/?tag=tolees-21) con 33.49 de descuento por 1.41 EUR (original: 2.12 EUR) en el siguiente enlace!

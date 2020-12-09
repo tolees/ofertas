@@ -14,7 +14,7 @@ currency: EUR
 price: 30.9
 comparePrice: 71 EUR
 inStock: true
-prodname: Bvlgari man extreme Eau De Toilette vapo 60 ml
+prodname: 'Bvlgari man extreme Eau De Toilette vapo 60 ml'
 ---
 
 Tienes [Bvlgari man extreme Eau De Toilette vapo 60 ml](https://www.amazon.es/dp/B00P80GOZM/?tag=tolees-21) con un 56.48 % de descuento con precio de oferta de 30.9 EUR (original: 71 EUR) en el siguiente enlace!

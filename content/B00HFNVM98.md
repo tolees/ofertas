@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Las Brujas De Zugarramurdi [Blu-ray]
+prodname: 'Las Brujas De Zugarramurdi [Blu-ray]'
 ---
 
 Ahora mismo tienes [Las Brujas De Zugarramurdi [Blu-ray]](https://www.amazon.es/dp/B00HFNVM98/?tag=tolees-21) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

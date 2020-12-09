@@ -14,7 +14,7 @@ currency: EUR
 price: 39.0
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Reebok Royal Glide Ripple Clip  Zapatillas Clasicos para Hombre  Negro  Black/Gum   41 EU
+prodname: 'Reebok Royal Glide Ripple Clip  Zapatillas Clasicos para Hombre  Negro  Black/Gum   41 EU'
 ---
 
 Tienes [Reebok Royal Glide Ripple Clip  Zapatillas Clasicos para Hombre  Negro  Black/Gum   41 EU](https://www.amazon.es/dp/B073RMSMLS/?tag=tolees-21) con un 39.95 % de descuento con precio de oferta de 39.0 EUR (original: 64.95 EUR) en el siguiente enlace!

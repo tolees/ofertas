@@ -14,7 +14,7 @@ currency: EUR
 price: 7.98
 comparePrice: 12.98 EUR
 inStock: true
-prodname: Oihxse Compatible con Xiaomi Redmi Note 5 Pro/Note 5 Funda Cristal Silicona TPU Suave Ultra-Delgado Protector Estuche Creativa Patrón Protector Anti-Choque Carcasa Cover Pereza A8 
+prodname: 'Oihxse Compatible con Xiaomi Redmi Note 5 Pro/Note 5 Funda Cristal Silicona TPU Suave Ultra-Delgado Protector Estuche Creativa Patrón Protector Anti-Choque Carcasa Cover Pereza A8 '
 ---
 
 Está [Oihxse Compatible con Xiaomi Redmi Note 5 Pro/Note 5 Funda Cristal Silicona TPU Suave Ultra-Delgado Protector Estuche Creativa Patrón Protector Anti-Choque Carcasa Cover Pereza A8 ](https://www.amazon.es/dp/B088BHDXL9/?tag=tolees-21) con 38.52 de descuento por 7.98 EUR (original: 12.98 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: LANGRIA Estantería por módulos  Zapatero en Torre DIY 10 Cubos  Armario por Módulos Almacenamiento para Baño Aparador Habitación Salón Garaje  Blanco Translúcido
+prodname: 'LANGRIA Estantería por módulos  Zapatero en Torre DIY 10 Cubos  Armario por Módulos Almacenamiento para Baño Aparador Habitación Salón Garaje  Blanco Translúcido'
 ---
 
 Tienes [LANGRIA Estantería por módulos  Zapatero en Torre DIY 10 Cubos  Armario por Módulos Almacenamiento para Baño Aparador Habitación Salón Garaje  Blanco Translúcido](https://www.amazon.es/dp/B06XFXVCQL/?tag=tolees-21) con un 52.01 % de descuento con precio de oferta de 23.99 EUR (original: 49.99 EUR) en el siguiente enlace!

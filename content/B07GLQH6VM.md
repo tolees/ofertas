@@ -14,7 +14,7 @@ currency: EUR
 price: 43.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Zanmini Decantador Eléctrico de Vino  Decantar su vino con elegancia y rapidez  Decantador Recargable  Portátil Aireador de Vino  Regalo Navidad
+prodname: 'Zanmini Decantador Eléctrico de Vino  Decantar su vino con elegancia y rapidez  Decantador Recargable  Portátil Aireador de Vino  Regalo Navidad'
 ---
 
 Ahora mismo tienes [Zanmini Decantador Eléctrico de Vino  Decantar su vino con elegancia y rapidez  Decantador Recargable  Portátil Aireador de Vino  Regalo Navidad](https://www.amazon.es/dp/B07GLQH6VM/?tag=tolees-21) a 43.99 EUR (original: 59.99 EUR) (26.67 %  de descuento) en el siguiente enlace!

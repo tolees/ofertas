@@ -14,7 +14,7 @@ currency: EUR
 price: 33.61
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Lee Mom Short Pantalones Cortos  Marfil  Off White EW   W27 para Mujer
+prodname: 'Lee Mom Short Pantalones Cortos  Marfil  Off White EW   W27 para Mujer'
 ---
 
 Tienes [Lee Mom Short Pantalones Cortos  Marfil  Off White EW   W27 para Mujer](https://www.amazon.es/dp/B07FVSS3LQ/?tag=tolees-21) con un 43.94 % de descuento con precio de oferta de 33.61 EUR (original: 59.95 EUR) en el siguiente enlace!

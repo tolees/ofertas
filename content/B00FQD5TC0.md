@@ -14,7 +14,7 @@ currency: EUR
 price: 3.93
 comparePrice: 9.95 EUR
 inStock: true
-prodname: Filtro de Agua Tipo III para Depuradora de Cartucho Bestway 5.678 l/h
+prodname: 'Filtro de Agua Tipo III para Depuradora de Cartucho Bestway 5.678 l/h'
 ---
 
 Tienes [Filtro de Agua Tipo III para Depuradora de Cartucho Bestway 5.678 l/h](https://www.amazon.es/dp/B00FQD5TC0/?tag=tolees-21) con un 60.50 % de descuento con precio de oferta de 3.93 EUR (original: 9.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.76
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Pepe Jeans 45th 03l Camiseta  Marfil  Off White 803   X-Small para Mujer
+prodname: 'Pepe Jeans 45th 03l Camiseta  Marfil  Off White 803   X-Small para Mujer'
 ---
 
 Tienes [Pepe Jeans 45th 03l Camiseta  Marfil  Off White 803   X-Small para Mujer](https://www.amazon.es/dp/B07NC9VBFW/?tag=tolees-21) con un 50.64 % de descuento con precio de oferta de 14.76 EUR (original: 29.9 EUR) en el siguiente enlace!

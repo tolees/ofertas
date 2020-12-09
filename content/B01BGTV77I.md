@@ -14,7 +14,7 @@ currency: EUR
 price: 54.55
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G Star Midge Saddle Mid Straight Wmn  Azul para Mujer  Azul  Dk Aged   33W x 34L
+prodname: 'G Star Midge Saddle Mid Straight Wmn  Azul para Mujer  Azul  Dk Aged   33W x 34L'
 ---
 
 Ahora mismo tienes [G Star Midge Saddle Mid Straight Wmn  Azul para Mujer  Azul  Dk Aged   33W x 34L](https://www.amazon.es/dp/B01BGTV77I/?tag=tolees-21) a 54.55 EUR (original: 99.95 EUR) (45.42 %  de descuento) en el siguiente enlace!

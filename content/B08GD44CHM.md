@@ -14,7 +14,7 @@ currency: EUR
 price: 5.95
 comparePrice: 9.79 EUR
 inStock: true
-prodname: Vive+ Própolis con Jalea Real y Equinácea - 12 Unidades
+prodname: 'Vive+ Própolis con Jalea Real y Equinácea - 12 Unidades'
 ---
 
 Está [Vive+ Própolis con Jalea Real y Equinácea - 12 Unidades](https://www.amazon.es/dp/B08GD44CHM/?tag=tolees-21) con 39.22 de descuento por 5.95 EUR (original: 9.79 EUR) en el siguiente enlace!

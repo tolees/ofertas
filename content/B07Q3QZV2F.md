@@ -14,7 +14,7 @@ currency: EUR
 price: 14.26
 comparePrice: 28.52 EUR
 inStock: true
-prodname: GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo Baño de Natación Piscina León
+prodname: 'GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo Baño de Natación Piscina León'
 ---
 
 Ahora mismo tienes [GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo Baño de Natación Piscina León](https://www.amazon.es/dp/B07Q3QZV2F/?tag=tolees-21) a 14.26 EUR (original: 28.52 EUR) (50.00 %  de descuento) en el siguiente enlace!

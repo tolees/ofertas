@@ -14,7 +14,7 @@ currency: EUR
 price: 31.95
 comparePrice: 49.95 EUR
 inStock: true
-prodname: G-STAR RAW Dunda Polo S/s  Negro  Black 990   Small para Hombre
+prodname: 'G-STAR RAW Dunda Polo S/s  Negro  Black 990   Small para Hombre'
 ---
 
 Está [G-STAR RAW Dunda Polo S/s  Negro  Black 990   Small para Hombre](https://www.amazon.es/dp/B0771BXKYJ/?tag=tolees-21) con 36.04 de descuento por 31.95 EUR (original: 49.95 EUR) en el siguiente enlace!

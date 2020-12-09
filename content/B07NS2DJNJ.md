@@ -14,7 +14,7 @@ currency: EUR
 price: 38.95
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Vans MN Classic PO Hoodie II Sudadera con Capucha  Negro  Black-fwhite Y28   M para Hombre
+prodname: 'Vans MN Classic PO Hoodie II Sudadera con Capucha  Negro  Black-fwhite Y28   M para Hombre'
 ---
 
 Tienes [Vans MN Classic PO Hoodie II Sudadera con Capucha  Negro  Black-fwhite Y28   M para Hombre](https://www.amazon.es/dp/B07NS2DJNJ/?tag=tolees-21) con un 40.08 % de descuento con precio de oferta de 38.95 EUR (original: 65.0 EUR) en el siguiente enlace!

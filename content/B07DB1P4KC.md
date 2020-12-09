@@ -14,7 +14,7 @@ currency: EUR
 price: 24.46
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Mustang Booty  Botines para Mujer  Azul  Navy 820   41 EU
+prodname: 'Mustang Booty  Botines para Mujer  Azul  Navy 820   41 EU'
 ---
 
 Está [Mustang Booty  Botines para Mujer  Azul  Navy 820   41 EU](https://www.amazon.es/dp/B07DB1P4KC/?tag=tolees-21) con 67.36 de descuento por 24.46 EUR (original: 74.95 EUR) en el siguiente enlace!

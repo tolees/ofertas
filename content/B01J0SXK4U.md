@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: LANGRIA Estantería de Malla Metálica con 4 Cestos 1 Balda Superior de Altura Ajustables  Pies Adaptables a la Superficie  75kg Capacidad Máxima  34 x 34 x 130 cm  Plateada 
+prodname: 'LANGRIA Estantería de Malla Metálica con 4 Cestos 1 Balda Superior de Altura Ajustables  Pies Adaptables a la Superficie  75kg Capacidad Máxima  34 x 34 x 130 cm  Plateada '
 ---
 
 Ahora mismo tienes [LANGRIA Estantería de Malla Metálica con 4 Cestos 1 Balda Superior de Altura Ajustables  Pies Adaptables a la Superficie  75kg Capacidad Máxima  34 x 34 x 130 cm  Plateada ](https://www.amazon.es/dp/B01J0SXK4U/?tag=tolees-21) a 19.99 EUR (original: 59.99 EUR) (66.68 %  de descuento) en el siguiente enlace!

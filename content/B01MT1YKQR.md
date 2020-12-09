@@ -14,7 +14,7 @@ currency: EUR
 price: 16.37
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Blend  20702568 - Bermuda para Hombre  Color Azul  76206   Talla XL
+prodname: 'Blend  20702568 - Bermuda para Hombre  Color Azul  76206   Talla XL'
 ---
 
 Está [Blend  20702568 - Bermuda para Hombre  Color Azul  76206   Talla XL](https://www.amazon.es/dp/B01MT1YKQR/?tag=tolees-21) con 59.02 de descuento por 16.37 EUR (original: 39.95 EUR) en el siguiente enlace!

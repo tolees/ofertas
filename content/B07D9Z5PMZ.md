@@ -14,7 +14,7 @@ currency: EUR
 price: 34.48
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Breaker Leather  Zapatillas Unisex Adulto  Blanco White Black 03  38 EU
+prodname: 'Puma Breaker Leather  Zapatillas Unisex Adulto  Blanco White Black 03  38 EU'
 ---
 
 Está [Puma Breaker Leather  Zapatillas Unisex Adulto  Blanco White Black 03  38 EU](https://www.amazon.es/dp/B07D9Z5PMZ/?tag=tolees-21) con 61.67 de descuento por 34.48 EUR (original: 89.95 EUR) en el siguiente enlace!

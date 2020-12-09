@@ -14,7 +14,7 @@ currency: EUR
 price: 7.5
 comparePrice: 12.42 EUR
 inStock: true
-prodname: Nike Training Bib Camiseta  Hombre  Rosa/Negro  Vivid Pink/Black   S/M
+prodname: 'Nike Training Bib Camiseta  Hombre  Rosa/Negro  Vivid Pink/Black   S/M'
 ---
 
 Tienes [Nike Training Bib Camiseta  Hombre  Rosa/Negro  Vivid Pink/Black   S/M](https://www.amazon.es/dp/B01AC6IDO6/?tag=tolees-21) con un 39.61 % de descuento con precio de oferta de 7.5 EUR (original: 12.42 EUR) en el siguiente enlace!

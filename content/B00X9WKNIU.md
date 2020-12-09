@@ -14,7 +14,7 @@ currency: EUR
 price: 10.5
 comparePrice: 19.9 EUR
 inStock: true
-prodname: L Oréal Paris Revitalift Láser Crema de Noche Anti-Edad Triple Acción  Antiarrugas y Multicorrección  50 ml
+prodname: 'L Oréal Paris Revitalift Láser Crema de Noche Anti-Edad Triple Acción  Antiarrugas y Multicorrección  50 ml'
 ---
 
 Tienes [L Oréal Paris Revitalift Láser Crema de Noche Anti-Edad Triple Acción  Antiarrugas y Multicorrección  50 ml](https://www.amazon.es/dp/B00X9WKNIU/?tag=tolees-21) con un 47.24 % de descuento con precio de oferta de 10.5 EUR (original: 19.9 EUR) en el siguiente enlace!

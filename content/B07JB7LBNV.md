@@ -14,7 +14,7 @@ currency: EUR
 price: 55.55
 comparePrice: 83.71 EUR
 inStock: true
-prodname: Crosstour - Cámara Deportiva de 20 MP con WiFi  cámara de Fotos Impermeable  con micrófono Externo y estabilizador  Incluye 2 baterías y Kit de Accesorios para Esquiar y Viaje
+prodname: 'Crosstour - Cámara Deportiva de 20 MP con WiFi  cámara de Fotos Impermeable  con micrófono Externo y estabilizador  Incluye 2 baterías y Kit de Accesorios para Esquiar y Viaje'
 ---
 
 Ahora mismo tienes [Crosstour - Cámara Deportiva de 20 MP con WiFi  cámara de Fotos Impermeable  con micrófono Externo y estabilizador  Incluye 2 baterías y Kit de Accesorios para Esquiar y Viaje](https://www.amazon.es/dp/B07JB7LBNV/?tag=tolees-21) a 55.55 EUR (original: 83.71 EUR) (33.64 %  de descuento) en el siguiente enlace!

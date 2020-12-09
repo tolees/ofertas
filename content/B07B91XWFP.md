@@ -14,7 +14,7 @@ currency: EUR
 price: 34.18
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Dalia Rose  Zapatos de Tacón Mujer  Beige  Nude Patent   37.5 EU
+prodname: 'Clarks Dalia Rose  Zapatos de Tacón Mujer  Beige  Nude Patent   37.5 EU'
 ---
 
 Está [Clarks Dalia Rose  Zapatos de Tacón Mujer  Beige  Nude Patent   37.5 EU](https://www.amazon.es/dp/B07B91XWFP/?tag=tolees-21) con 65.80 de descuento por 34.18 EUR (original: 99.95 EUR) en el siguiente enlace!

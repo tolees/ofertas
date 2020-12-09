@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Russell Hobbs Classics 22760-56 - Exprimidor de Zumo Eléctrico  2 Accesorios  60 W  Acero Inoxidable  Gris
+prodname: 'Russell Hobbs Classics 22760-56 - Exprimidor de Zumo Eléctrico  2 Accesorios  60 W  Acero Inoxidable  Gris'
 ---
 
 Ahora mismo tienes [Russell Hobbs Classics 22760-56 - Exprimidor de Zumo Eléctrico  2 Accesorios  60 W  Acero Inoxidable  Gris](https://www.amazon.es/dp/B00XVRL0WG/?tag=tolees-21) a 19.9 EUR (original: 35.99 EUR) (44.71 %  de descuento) en el siguiente enlace!

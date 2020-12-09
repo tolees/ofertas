@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: OMERIL Linterna Frontal LED  Linterna Cabeza USB Recargable 4000mAh  90° Ajustable y Zoomable Luz Frontal con 3 Modos de Luz  Frontal LED para Camping  Excursión  Pesca  Caza  Ciclismo - IPX4
+prodname: 'OMERIL Linterna Frontal LED  Linterna Cabeza USB Recargable 4000mAh  90° Ajustable y Zoomable Luz Frontal con 3 Modos de Luz  Frontal LED para Camping  Excursión  Pesca  Caza  Ciclismo - IPX4'
 ---
 
 Tienes [OMERIL Linterna Frontal LED  Linterna Cabeza USB Recargable 4000mAh  90° Ajustable y Zoomable Luz Frontal con 3 Modos de Luz  Frontal LED para Camping  Excursión  Pesca  Caza  Ciclismo - IPX4](https://www.amazon.es/dp/B07QZR7GBV/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 17.99 EUR (original: 23.99 EUR) en el siguiente enlace!

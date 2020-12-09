@@ -14,7 +14,7 @@ currency: EUR
 price: 8.95
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Catherine Lansfield Printed Knit Funda Nórdica Algodón  Beige 200 X 200 +  2  65 X 65 cm
+prodname: 'Catherine Lansfield Printed Knit Funda Nórdica Algodón  Beige 200 X 200 +  2  65 X 65 cm'
 ---
 
 Tienes [Catherine Lansfield Printed Knit Funda Nórdica Algodón  Beige 200 X 200 +  2  65 X 65 cm](https://www.amazon.es/dp/B077XVVVN8/?tag=tolees-21) con un 82.06 % de descuento con precio de oferta de 8.95 EUR (original: 49.9 EUR) en el siguiente enlace!

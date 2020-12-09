@@ -14,7 +14,7 @@ currency: EUR
 price: 11.45
 comparePrice: 22.49 EUR
 inStock: true
-prodname: DC Shoes Circle Star tee-Shirt  Hombre  Black  M
+prodname: 'DC Shoes Circle Star tee-Shirt  Hombre  Black  M'
 ---
 
 Tienes [DC Shoes Circle Star tee-Shirt  Hombre  Black  M](https://www.amazon.es/dp/B07KPRG93D/?tag=tolees-21) con un 49.09 % de descuento con precio de oferta de 11.45 EUR (original: 22.49 EUR) en el siguiente enlace!

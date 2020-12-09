@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: eufy Báscula inteligente P1 con Bluetooth  pantalla LED grande  14 mediciones  Peso/Grasa corporal/IMC/Análisis de composición corporal  encendido/apagado automático  ajuste a cero automático
+prodname: 'eufy Báscula inteligente P1 con Bluetooth  pantalla LED grande  14 mediciones  Peso/Grasa corporal/IMC/Análisis de composición corporal  encendido/apagado automático  ajuste a cero automático'
 ---
 
 Ahora mismo tienes [eufy Báscula inteligente P1 con Bluetooth  pantalla LED grande  14 mediciones  Peso/Grasa corporal/IMC/Análisis de composición corporal  encendido/apagado automático  ajuste a cero automático](https://www.amazon.es/dp/B07PZ6B5YP/?tag=tolees-21) a 29.99 EUR (original: 44.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

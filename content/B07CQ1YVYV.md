@@ -14,7 +14,7 @@ currency: EUR
 price: 20.49
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Lee Scarlett Jeans  Azul  High Blue Yon   24W / 33L para Mujer
+prodname: 'Lee Scarlett Jeans  Azul  High Blue Yon   24W / 33L para Mujer'
 ---
 
 Ahora mismo tienes [Lee Scarlett Jeans  Azul  High Blue Yon   24W / 33L para Mujer](https://www.amazon.es/dp/B07CQ1YVYV/?tag=tolees-21) a 20.49 EUR (original: 59.99 EUR) (65.84 %  de descuento) en el siguiente enlace!

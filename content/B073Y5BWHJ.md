@@ -14,7 +14,7 @@ currency: EUR
 price: 32.95
 comparePrice: 79 EUR
 inStock: true
-prodname: Timberland Exeter River Basic Crew Sudadera  Azul  Dark Sapphire 433   Small para Hombre
+prodname: 'Timberland Exeter River Basic Crew Sudadera  Azul  Dark Sapphire 433   Small para Hombre'
 ---
 
 Ahora mismo tienes [Timberland Exeter River Basic Crew Sudadera  Azul  Dark Sapphire 433   Small para Hombre](https://www.amazon.es/dp/B073Y5BWHJ/?tag=tolees-21) a 32.95 EUR (original: 79 EUR) (58.29 %  de descuento) en el siguiente enlace!

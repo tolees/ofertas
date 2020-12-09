@@ -14,7 +14,7 @@ currency: EUR
 price: 7.98
 comparePrice: 11.29 EUR
 inStock: true
-prodname: XDSP Pantalón Corto para Hombre Pantalones Cortos Deportivos para Correr 2 en 1 con Compresión Interna y Bolsillo para Hombres  M 
+prodname: 'XDSP Pantalón Corto para Hombre Pantalones Cortos Deportivos para Correr 2 en 1 con Compresión Interna y Bolsillo para Hombres  M '
 ---
 
 Tienes [XDSP Pantalón Corto para Hombre Pantalones Cortos Deportivos para Correr 2 en 1 con Compresión Interna y Bolsillo para Hombres  M ](https://www.amazon.es/dp/B07VXW4LHS/?tag=tolees-21) con un 29.32 % de descuento con precio de oferta de 7.98 EUR (original: 11.29 EUR) en el siguiente enlace!

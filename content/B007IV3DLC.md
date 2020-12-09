@@ -14,7 +14,7 @@ currency: EUR
 price: 156.37
 comparePrice: 308.29 EUR
 inStock: true
-prodname: Siemens TS22Extrem - Centro Planchado
+prodname: 'Siemens TS22Extrem - Centro Planchado'
 ---
 
 Ahora mismo tienes [Siemens TS22Extrem - Centro Planchado](https://www.amazon.es/dp/B007IV3DLC/?tag=tolees-21) a 156.37 EUR (original: 308.29 EUR) (49.28 %  de descuento) en el siguiente enlace!

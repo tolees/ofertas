@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 40.81 EUR
 inStock: true
-prodname: Bodymax Rubber Hex Dumbells - Mancuernade 7.5kg  color negro
+prodname: 'Bodymax Rubber Hex Dumbells - Mancuernade 7.5kg  color negro'
 ---
 
 Está [Bodymax Rubber Hex Dumbells - Mancuernade 7.5kg  color negro](https://www.amazon.es/dp/B000LAVZ3K/?tag=tolees-21) con 51.02 de descuento por 19.99 EUR (original: 40.81 EUR) en el siguiente enlace!

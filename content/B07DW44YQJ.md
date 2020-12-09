@@ -14,7 +14,7 @@ currency: EUR
 price: 41.21
 comparePrice: 85 EUR
 inStock: true
-prodname: DC Shoes Net  Zapatillas de Skateboard para Hombre  Gris Black/Grey Xsks  40 EU
+prodname: 'DC Shoes Net  Zapatillas de Skateboard para Hombre  Gris Black/Grey Xsks  40 EU'
 ---
 
 Está [DC Shoes Net  Zapatillas de Skateboard para Hombre  Gris Black/Grey Xsks  40 EU](https://www.amazon.es/dp/B07DW44YQJ/?tag=tolees-21) con 51.52 de descuento por 41.21 EUR (original: 85 EUR) en el siguiente enlace!

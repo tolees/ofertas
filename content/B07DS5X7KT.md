@@ -14,7 +14,7 @@ currency: EUR
 price: 25.05
 comparePrice: 52.98 EUR
 inStock: true
-prodname: Reebok Ad Swiftway Run  Zapatillas de Deporte para Hombre   Cool Shadow/Flint Grey/Primal Red/White 000   41 EU
+prodname: 'Reebok Ad Swiftway Run  Zapatillas de Deporte para Hombre   Cool Shadow/Flint Grey/Primal Red/White 000   41 EU'
 ---
 
 Ahora mismo tienes [Reebok Ad Swiftway Run  Zapatillas de Deporte para Hombre   Cool Shadow/Flint Grey/Primal Red/White 000   41 EU](https://www.amazon.es/dp/B07DS5X7KT/?tag=tolees-21) a 25.05 EUR (original: 52.98 EUR) (52.72 %  de descuento) en el siguiente enlace!

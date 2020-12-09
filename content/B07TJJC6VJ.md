@@ -14,7 +14,7 @@ currency: EUR
 price: 15.03
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Superdry Edit DAP  Alpargata para Hombre  Multicolor  Blue Chambray Print T7s   40 EU
+prodname: 'Superdry Edit DAP  Alpargata para Hombre  Multicolor  Blue Chambray Print T7s   40 EU'
 ---
 
 Ahora mismo tienes [Superdry Edit DAP  Alpargata para Hombre  Multicolor  Blue Chambray Print T7s   40 EU](https://www.amazon.es/dp/B07TJJC6VJ/?tag=tolees-21) a 15.03 EUR (original: 59.99 EUR) (74.95 %  de descuento) en el siguiente enlace!

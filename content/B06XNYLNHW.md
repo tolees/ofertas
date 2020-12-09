@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Joma Olimpia III Camisetas Equip. M/C  Hombre  Rojo  S
+prodname: 'Joma Olimpia III Camisetas Equip. M/C  Hombre  Rojo  S'
 ---
 
 Tienes [Joma Olimpia III Camisetas Equip. M/C  Hombre  Rojo  S](https://www.amazon.es/dp/B06XNYLNHW/?tag=tolees-21) con un 56.43 % de descuento con precio de oferta de 6.95 EUR (original: 15.95 EUR) en el siguiente enlace!

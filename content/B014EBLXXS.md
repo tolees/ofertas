@@ -14,7 +14,7 @@ currency: EUR
 price: 131.37
 comparePrice: 180 EUR
 inStock: true
-prodname: Osprey Farpoint 70 Men s Travel Pack with 13L Detachable Daypack - Jasper Red  M/L 
+prodname: 'Osprey Farpoint 70 Men s Travel Pack with 13L Detachable Daypack - Jasper Red  M/L '
 ---
 
 Ahora mismo tienes [Osprey Farpoint 70 Men s Travel Pack with 13L Detachable Daypack - Jasper Red  M/L ](https://www.amazon.es/dp/B014EBLXXS/?tag=tolees-21) a 131.37 EUR (original: 180 EUR) (27.02 %  de descuento) en el siguiente enlace!

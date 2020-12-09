@@ -14,7 +14,7 @@ currency: EUR
 price: 33.93
 comparePrice: 89.95 EUR
 inStock: true
-prodname: adidas Questar Tnd  Zapatillas para Hombre  Negro  Core Black/Footwear White/Grey Five 0   46 EU
+prodname: 'adidas Questar Tnd  Zapatillas para Hombre  Negro  Core Black/Footwear White/Grey Five 0   46 EU'
 ---
 
 Está [adidas Questar Tnd  Zapatillas para Hombre  Negro  Core Black/Footwear White/Grey Five 0   46 EU](https://www.amazon.es/dp/B073RLFHBF/?tag=tolees-21) con 62.28 de descuento por 33.93 EUR (original: 89.95 EUR) en el siguiente enlace!

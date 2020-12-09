@@ -14,7 +14,7 @@ currency: EUR
 price: 31.29
 comparePrice: 110 EUR
 inStock: true
-prodname: Clarks - Contempo North  Bolsos bandolera Mujer  Negro  Black   6x40x27 cm  B x H T 
+prodname: 'Clarks - Contempo North  Bolsos bandolera Mujer  Negro  Black   6x40x27 cm  B x H T '
 ---
 
 Ahora mismo tienes [Clarks - Contempo North  Bolsos bandolera Mujer  Negro  Black   6x40x27 cm  B x H T ](https://www.amazon.es/dp/B07C9G4FYB/?tag=tolees-21) a 31.29 EUR (original: 110 EUR) (71.55 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 55.49 EUR
 inStock: true
-prodname: Vinconie Leggins Cortos Mujer Bragas Pantalon Boxer Encaje Bragas Algodon
+prodname: 'Vinconie Leggins Cortos Mujer Bragas Pantalon Boxer Encaje Bragas Algodon'
 ---
 
 Ahora mismo tienes [Vinconie Leggins Cortos Mujer Bragas Pantalon Boxer Encaje Bragas Algodon](https://www.amazon.es/dp/B07GD4T4YT/?tag=tolees-21) a 20.99 EUR (original: 55.49 EUR) (62.17 %  de descuento) en el siguiente enlace!

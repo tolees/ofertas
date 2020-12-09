@@ -14,7 +14,7 @@ currency: EUR
 price: 26.19
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Lotuscrafts Cojin Zafu Meditación Yoga Zen - Altura 15 cm - Relleno de Espelta - Cubierta en Algodon - Cojin Yoga Zafu - Cojin Suelo Redondo - Meditation Cushion - Certificado Gots
+prodname: 'Lotuscrafts Cojin Zafu Meditación Yoga Zen - Altura 15 cm - Relleno de Espelta - Cubierta en Algodon - Cojin Yoga Zafu - Cojin Suelo Redondo - Meditation Cushion - Certificado Gots'
 ---
 
 Ahora mismo tienes [Lotuscrafts Cojin Zafu Meditación Yoga Zen - Altura 15 cm - Relleno de Espelta - Cubierta en Algodon - Cojin Yoga Zafu - Cojin Suelo Redondo - Meditation Cushion - Certificado Gots](https://www.amazon.es/dp/B014YUSULM/?tag=tolees-21) a 26.19 EUR (original: 34.95 EUR) (25.06 %  de descuento) en el siguiente enlace!

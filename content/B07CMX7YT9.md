@@ -14,7 +14,7 @@ currency: EUR
 price: 18.39
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Wansenda S100 OTG - Memoria flash USB  16 32 64 128GB  USB 2.0  para dispositivos Android  PC/Tableta/Mac  128GB  rojo 
+prodname: 'Wansenda S100 OTG - Memoria flash USB  16 32 64 128GB  USB 2.0  para dispositivos Android  PC/Tableta/Mac  128GB  rojo '
 ---
 
 Tienes [Wansenda S100 OTG - Memoria flash USB  16 32 64 128GB  USB 2.0  para dispositivos Android  PC/Tableta/Mac  128GB  rojo ](https://www.amazon.es/dp/B07CMX7YT9/?tag=tolees-21) con un 26.41 % de descuento con precio de oferta de 18.39 EUR (original: 24.99 EUR) en el siguiente enlace!

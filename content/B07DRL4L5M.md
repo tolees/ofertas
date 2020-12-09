@@ -14,7 +14,7 @@ currency: EUR
 price: 16.1
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Under Armour MK-1 Twist Pantalones Cortos  Hombre   Steel/Graphite   XL
+prodname: 'Under Armour MK-1 Twist Pantalones Cortos  Hombre   Steel/Graphite   XL'
 ---
 
 Ahora mismo tienes [Under Armour MK-1 Twist Pantalones Cortos  Hombre   Steel/Graphite   XL](https://www.amazon.es/dp/B07DRL4L5M/?tag=tolees-21) a 16.1 EUR (original: 35.0 EUR) (54.00 %  de descuento) en el siguiente enlace!

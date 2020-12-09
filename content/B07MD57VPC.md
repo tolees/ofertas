@@ -14,7 +14,7 @@ currency: EUR
 price: 16.87
 comparePrice: 29.99 EUR
 inStock: true
-prodname: MTNG Acuaria  Bolso Bolera para Mujer  Multicolor  Rafia Natu Multic  21x32x45 cm  W x H x L 
+prodname: 'MTNG Acuaria  Bolso Bolera para Mujer  Multicolor  Rafia Natu Multic  21x32x45 cm  W x H x L '
 ---
 
 Ahora mismo tienes [MTNG Acuaria  Bolso Bolera para Mujer  Multicolor  Rafia Natu Multic  21x32x45 cm  W x H x L ](https://www.amazon.es/dp/B07MD57VPC/?tag=tolees-21) a 16.87 EUR (original: 29.99 EUR) (43.75 %  de descuento) en el siguiente enlace!

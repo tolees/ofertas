@@ -14,7 +14,7 @@ currency: EUR
 price: 17.69
 comparePrice: 32.95 EUR
 inStock: true
-prodname: HIKARO Sudadera con Capucha Hombre  Gris  Light Grey   50  Talla del fabricante: Medium 
+prodname: 'HIKARO Sudadera con Capucha Hombre  Gris  Light Grey   50  Talla del fabricante: Medium '
 ---
 
 Está [HIKARO Sudadera con Capucha Hombre  Gris  Light Grey   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDZ7HM/?tag=tolees-21) con 46.31 de descuento por 17.69 EUR (original: 32.95 EUR) en el siguiente enlace!

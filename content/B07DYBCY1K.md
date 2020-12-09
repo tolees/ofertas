@@ -14,7 +14,7 @@ currency: EUR
 price: 8.95
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Quiksilver Molokai Resin Check  Zapatos de Playa y Piscina para Niños   Black/Grey/Yellow Xksy   39 EU
+prodname: 'Quiksilver Molokai Resin Check  Zapatos de Playa y Piscina para Niños   Black/Grey/Yellow Xksy   39 EU'
 ---
 
 Está [Quiksilver Molokai Resin Check  Zapatos de Playa y Piscina para Niños   Black/Grey/Yellow Xksy   39 EU](https://www.amazon.es/dp/B07DYBCY1K/?tag=tolees-21) con 50.25 de descuento por 8.95 EUR (original: 17.99 EUR) en el siguiente enlace!

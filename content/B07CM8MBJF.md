@@ -14,7 +14,7 @@ currency: EUR
 price: 44.23
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Trust Quro - Puntero láser inalámbrico Verde ultrabrillante  Color Negro
+prodname: 'Trust Quro - Puntero láser inalámbrico Verde ultrabrillante  Color Negro'
 ---
 
 Tienes [Trust Quro - Puntero láser inalámbrico Verde ultrabrillante  Color Negro](https://www.amazon.es/dp/B07CM8MBJF/?tag=tolees-21) con un 26.27 % de descuento con precio de oferta de 44.23 EUR (original: 59.99 EUR) en el siguiente enlace!

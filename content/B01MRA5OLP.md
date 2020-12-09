@@ -14,7 +14,7 @@ currency: EUR
 price: 13.45
 comparePrice: 20 EUR
 inStock: true
-prodname: Vans Left Chest Logo tee  Camiseta para Hombre  Blanco  White  Large
+prodname: 'Vans Left Chest Logo tee  Camiseta para Hombre  Blanco  White  Large'
 ---
 
 Tienes [Vans Left Chest Logo tee  Camiseta para Hombre  Blanco  White  Large](https://www.amazon.es/dp/B01MRA5OLP/?tag=tolees-21) con un 32.75 % de descuento con precio de oferta de 13.45 EUR (original: 20 EUR) en el siguiente enlace!

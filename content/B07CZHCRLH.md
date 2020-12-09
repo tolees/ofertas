@@ -14,7 +14,7 @@ currency: EUR
 price: 41.8
 comparePrice: 60 EUR
 inStock: true
-prodname: Asics Patriot 10  Zapatillas de Running para Mujer  Gris  Mid Grey/Frosted Rose 020   40.5 EU
+prodname: 'Asics Patriot 10  Zapatillas de Running para Mujer  Gris  Mid Grey/Frosted Rose 020   40.5 EU'
 ---
 
 Tienes [Asics Patriot 10  Zapatillas de Running para Mujer  Gris  Mid Grey/Frosted Rose 020   40.5 EU](https://www.amazon.es/dp/B07CZHCRLH/?tag=tolees-21) con un 30.33 % de descuento con precio de oferta de 41.8 EUR (original: 60 EUR) en el siguiente enlace!

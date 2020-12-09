@@ -14,7 +14,7 @@ currency: EUR
 price: 10.95
 comparePrice: 23.95 EUR
 inStock: true
-prodname: Cressi Rondinella Aletas  Unisex  Turquesa  47-48
+prodname: 'Cressi Rondinella Aletas  Unisex  Turquesa  47-48'
 ---
 
 Está [Cressi Rondinella Aletas  Unisex  Turquesa  47-48](https://www.amazon.es/dp/B000NRJEE8/?tag=tolees-21) con 54.28 de descuento por 10.95 EUR (original: 23.95 EUR) en el siguiente enlace!

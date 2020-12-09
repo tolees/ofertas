@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Hangsun Máquina de Afeitar Eléctrica IPX7 Impermeable ES1000 Afeitadora Eléctrica Uso en Seco y Húmedo para Hombres Tres Cabezas Giratorias  USB Recargable  Adaptador no incluido 
+prodname: 'Hangsun Máquina de Afeitar Eléctrica IPX7 Impermeable ES1000 Afeitadora Eléctrica Uso en Seco y Húmedo para Hombres Tres Cabezas Giratorias  USB Recargable  Adaptador no incluido '
 ---
 
 Está [Hangsun Máquina de Afeitar Eléctrica IPX7 Impermeable ES1000 Afeitadora Eléctrica Uso en Seco y Húmedo para Hombres Tres Cabezas Giratorias  USB Recargable  Adaptador no incluido ](https://www.amazon.es/dp/B071VWWYGG/?tag=tolees-21) con 37.51 de descuento por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

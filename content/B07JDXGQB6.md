@@ -14,7 +14,7 @@ currency: EUR
 price: 84.99
 comparePrice: 129.98 EUR
 inStock: true
-prodname: Amazon Echo  2.ª generación   tela de color antracita + Amazon Smart Plug  compatible con Alexa
+prodname: 'Amazon Echo  2.ª generación   tela de color antracita + Amazon Smart Plug  compatible con Alexa'
 ---
 
 Tienes [Amazon Echo  2.ª generación   tela de color antracita + Amazon Smart Plug  compatible con Alexa](https://www.amazon.es/dp/B07JDXGQB6/?tag=tolees-21) con un 34.61 % de descuento con precio de oferta de 84.99 EUR (original: 129.98 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Jack & Jones NOS Jacjens Sock 10 Pack Noos  Calcetines para Hombre  Negro  Black Black   Talla única
+prodname: 'Jack & Jones NOS Jacjens Sock 10 Pack Noos  Calcetines para Hombre  Negro  Black Black   Talla única'
 ---
 
 Está [Jack & Jones NOS Jacjens Sock 10 Pack Noos  Calcetines para Hombre  Negro  Black Black   Talla única](https://www.amazon.es/dp/B079KCTDR8/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

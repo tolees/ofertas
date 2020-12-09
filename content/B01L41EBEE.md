@@ -14,7 +14,7 @@ currency: EUR
 price: 14.62
 comparePrice: 31.9 EUR
 inStock: true
-prodname: Havaianas Origine Iii  Alpargatas para Unisex Adulto  Verde  Green   36 EU  34 Brazilian 
+prodname: 'Havaianas Origine Iii  Alpargatas para Unisex Adulto  Verde  Green   36 EU  34 Brazilian '
 ---
 
 Está [Havaianas Origine Iii  Alpargatas para Unisex Adulto  Verde  Green   36 EU  34 Brazilian ](https://www.amazon.es/dp/B01L41EBEE/?tag=tolees-21) con 54.17 de descuento por 14.62 EUR (original: 31.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.82
 comparePrice: 49.99 EUR
 inStock: true
-prodname: MAMALICIOUS Mlkassandra 3/4 Woven KL Dress Vestido  38  Talla del Fabricante: : para Mujer
+prodname: 'MAMALICIOUS Mlkassandra 3/4 Woven KL Dress Vestido  38  Talla del Fabricante: : para Mujer'
 ---
 
 Ahora mismo tienes [MAMALICIOUS Mlkassandra 3/4 Woven KL Dress Vestido  38  Talla del Fabricante: : para Mujer](https://www.amazon.es/dp/B07L1G2PDT/?tag=tolees-21) a 16.82 EUR (original: 49.99 EUR) (66.35 %  de descuento) en el siguiente enlace!

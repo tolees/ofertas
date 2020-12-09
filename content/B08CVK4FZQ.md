@@ -14,7 +14,7 @@ currency: EUR
 price: 14.47
 comparePrice: 24.47 EUR
 inStock: true
-prodname: HelpCuisine® Infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  infusor de flores 
+prodname: 'HelpCuisine® Infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  infusor de flores '
 ---
 
 Está [HelpCuisine® Infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  infusor de flores ](https://www.amazon.es/dp/B08CVK4FZQ/?tag=tolees-21) con 40.87 de descuento por 14.47 EUR (original: 24.47 EUR) en el siguiente enlace!

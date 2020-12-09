@@ -14,7 +14,7 @@ currency: EUR
 price: 38.08
 comparePrice: 98.09 EUR
 inStock: true
-prodname: Liu Jo LJ659SR 704 55 Gafas de Sol  Mustard Tortoise  Mujer
+prodname: 'Liu Jo LJ659SR 704 55 Gafas de Sol  Mustard Tortoise  Mujer'
 ---
 
 Está [Liu Jo LJ659SR 704 55 Gafas de Sol  Mustard Tortoise  Mujer](https://www.amazon.es/dp/B01LW7JQAK/?tag=tolees-21) con 61.18 de descuento por 38.08 EUR (original: 98.09 EUR) en el siguiente enlace!

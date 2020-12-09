@@ -14,7 +14,7 @@ currency: EUR
 price: 37.43
 comparePrice: 89.95 EUR
 inStock: true
-prodname: HUGO Edies  Camisa Hombre  Blanco  Open White 199   Medium
+prodname: 'HUGO Edies  Camisa Hombre  Blanco  Open White 199   Medium'
 ---
 
 Ahora mismo tienes [HUGO Edies  Camisa Hombre  Blanco  Open White 199   Medium](https://www.amazon.es/dp/B07G44FWYS/?tag=tolees-21) a 37.43 EUR (original: 89.95 EUR) (58.39 %  de descuento) en el siguiente enlace!

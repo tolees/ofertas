@@ -14,7 +14,7 @@ currency: EUR
 price: 8.38
 comparePrice: 65 EUR
 inStock: true
-prodname: Closet Structured Pleated Jumpsuit  Mono para Mujer  Crema  36
+prodname: 'Closet Structured Pleated Jumpsuit  Mono para Mujer  Crema  36'
 ---
 
 Está [Closet Structured Pleated Jumpsuit  Mono para Mujer  Crema  36](https://www.amazon.es/dp/B00SWSKHTQ/?tag=tolees-21) con 87.11 de descuento por 8.38 EUR (original: 65 EUR) en el siguiente enlace!

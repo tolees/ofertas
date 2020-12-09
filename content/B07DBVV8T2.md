@@ -14,7 +14,7 @@ currency: EUR
 price: 40.77
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Puma Defy Wn s Zapatillas de Deporte Mujer  Blanco  Peach Bud-Puma White   41 EU  7.5 UK 
+prodname: 'Puma Defy Wn s Zapatillas de Deporte Mujer  Blanco  Peach Bud-Puma White   41 EU  7.5 UK '
 ---
 
 Está [Puma Defy Wn s Zapatillas de Deporte Mujer  Blanco  Peach Bud-Puma White   41 EU  7.5 UK ](https://www.amazon.es/dp/B07DBVV8T2/?tag=tolees-21) con 59.21 de descuento por 40.77 EUR (original: 99.95 EUR) en el siguiente enlace!

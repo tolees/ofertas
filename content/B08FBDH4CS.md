@@ -14,7 +14,7 @@ currency: EUR
 price: 1.99
 comparePrice: 2.99 EUR
 inStock: true
-prodname: CHS Caja de Almacenamiento de máscara portátil  Caja de Almacenamiento de máscara a Prueba de Polvo y Humedad  Caja de Almacenamiento de máscara Resistente al Agua y a la contaminación  Green 
+prodname: 'CHS Caja de Almacenamiento de máscara portátil  Caja de Almacenamiento de máscara a Prueba de Polvo y Humedad  Caja de Almacenamiento de máscara Resistente al Agua y a la contaminación  Green '
 ---
 
 Tienes [CHS Caja de Almacenamiento de máscara portátil  Caja de Almacenamiento de máscara a Prueba de Polvo y Humedad  Caja de Almacenamiento de máscara Resistente al Agua y a la contaminación  Green ](https://www.amazon.es/dp/B08FBDH4CS/?tag=tolees-21) con un 33.44 % de descuento con precio de oferta de 1.99 EUR (original: 2.99 EUR) en el siguiente enlace!

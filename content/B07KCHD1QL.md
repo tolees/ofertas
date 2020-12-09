@@ -14,7 +14,7 @@ currency: EUR
 price: 12.48
 comparePrice: 24 EUR
 inStock: true
-prodname: David Jones - 5926-1  Bolsos bandolera Mujer  Negro  Black   8x18x22 cm  W x H L 
+prodname: 'David Jones - 5926-1  Bolsos bandolera Mujer  Negro  Black   8x18x22 cm  W x H L '
 ---
 
 Ahora mismo tienes [David Jones - 5926-1  Bolsos bandolera Mujer  Negro  Black   8x18x22 cm  W x H L ](https://www.amazon.es/dp/B07KCHD1QL/?tag=tolees-21) a 12.48 EUR (original: 24 EUR) (48.00 %  de descuento) en el siguiente enlace!

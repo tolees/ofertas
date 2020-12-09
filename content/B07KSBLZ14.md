@@ -14,7 +14,7 @@ currency: EUR
 price: 16.49
 comparePrice: 34.95 EUR
 inStock: true
-prodname: hummel First Seamless S/S Jersey  Hombre  Negro  XS/S
+prodname: 'hummel First Seamless S/S Jersey  Hombre  Negro  XS/S'
 ---
 
 Ahora mismo tienes [hummel First Seamless S/S Jersey  Hombre  Negro  XS/S](https://www.amazon.es/dp/B07KSBLZ14/?tag=tolees-21) a 16.49 EUR (original: 34.95 EUR) (52.82 %  de descuento) en el siguiente enlace!

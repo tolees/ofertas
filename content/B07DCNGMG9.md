@@ -14,7 +14,7 @@ currency: EUR
 price: 60.29
 comparePrice: 90 EUR
 inStock: true
-prodname: Nike Wmns Classic Cortez Prem  Zapatillas de Gimnasia para Mujer  Negro Black/Wolf Grey/White 002  39 EU
+prodname: 'Nike Wmns Classic Cortez Prem  Zapatillas de Gimnasia para Mujer  Negro Black/Wolf Grey/White 002  39 EU'
 ---
 
 Está [Nike Wmns Classic Cortez Prem  Zapatillas de Gimnasia para Mujer  Negro Black/Wolf Grey/White 002  39 EU](https://www.amazon.es/dp/B07DCNGMG9/?tag=tolees-21) con 33.01 de descuento por 60.29 EUR (original: 90 EUR) en el siguiente enlace!

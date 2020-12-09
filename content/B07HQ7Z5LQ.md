@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: SCARLET DARKNESS Falda Mujer-Cullote Vintage Gothic Lace Floral Pantalones Talla S Marfil
+prodname: 'SCARLET DARKNESS Falda Mujer-Cullote Vintage Gothic Lace Floral Pantalones Talla S Marfil'
 ---
 
 Tienes [SCARLET DARKNESS Falda Mujer-Cullote Vintage Gothic Lace Floral Pantalones Talla S Marfil](https://www.amazon.es/dp/B07HQ7Z5LQ/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 26.39
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Levi s Mile High Super Skinny Jeans  Más Vale Prevenir Que Curar  24 32 para Mujer
+prodname: 'Levi s Mile High Super Skinny Jeans  Más Vale Prevenir Que Curar  24 32 para Mujer'
 ---
 
 Tienes [Levi s Mile High Super Skinny Jeans  Más Vale Prevenir Que Curar  24 32 para Mujer](https://www.amazon.es/dp/B083SV9ZSL/?tag=tolees-21) con un 78.01 % de descuento con precio de oferta de 26.39 EUR (original: 120.0 EUR) en el siguiente enlace!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.74 % en Worx WX178.1 Taladro Atornillador  20 V '
+title: 'Worx WX178.1 Taladro Atornillador  20 V  al 30.74 % de descuento'
 date: 2020-11-27 13:21:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hjfHb3+EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hjfHb3+EL._SL200_.jpg' ]
@@ -14,15 +14,13 @@ currency: EUR
 price: 137.83
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Worx WX178.1 Taladro Atornillador  20 V  Negro  2 Akkus
+prodname: 'Worx WX178.1 Taladro Atornillador  20 V  Negro  2 Akkus'
 ---
 
-Tienes [Worx WX178.1 Taladro Atornillador  20 V  Negro  2 Akkus](https://www.amazon.es/dp/B071NT6NTJ/?tag=tolees-21) con un 30.74 % de descuento con precio de oferta de 137.83 EUR (original: 199.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Worx WX178.1 Taladro Atornillador  20 V  Negro  2 Akkus](https://www.amazon.es/dp/B071NT6NTJ/?tag=tolees-21) a 137.83 EUR (original: 199.0 EUR) (30.74 %  de descuento) en el siguiente enlace!
 
 [![Worx WX178.1 Taladro Atornillador  20 V ](https://m.media-amazon.com/images/I/41hjfHb3+EL._SL200_.jpg)](https://www.amazon.es/dp/B071NT6NTJ/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B071NT6NTJ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B071NT6NTJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

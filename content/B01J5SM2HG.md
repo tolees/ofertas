@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 59.27 EUR
 inStock: true
-prodname: Julius k9 16IDC-Ant-0 IDC Power Harness  Tamaño 0  Antracita
+prodname: 'Julius k9 16IDC-Ant-0 IDC Power Harness  Tamaño 0  Antracita'
 ---
 
 Tienes [Julius k9 16IDC-Ant-0 IDC Power Harness  Tamaño 0  Antracita](https://www.amazon.es/dp/B01J5SM2HG/?tag=tolees-21) con un 56.15 % de descuento con precio de oferta de 25.99 EUR (original: 59.27 EUR) en el siguiente enlace!

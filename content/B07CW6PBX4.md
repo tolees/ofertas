@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 36.96 EUR
 inStock: true
-prodname: Copechilla cinturon portaherramientas electricista con base doble gruesa PVC portaherramientas cinturon 8 bolsillos engrosamiento impermeable 600D Oxford bolsa portaherramientas cinturon ajustable
+prodname: 'Copechilla cinturon portaherramientas electricista con base doble gruesa PVC portaherramientas cinturon 8 bolsillos engrosamiento impermeable 600D Oxford bolsa portaherramientas cinturon ajustable'
 ---
 
 Tienes [Copechilla cinturon portaherramientas electricista con base doble gruesa PVC portaherramientas cinturon 8 bolsillos engrosamiento impermeable 600D Oxford bolsa portaherramientas cinturon ajustable](https://www.amazon.es/dp/B07CW6PBX4/?tag=tolees-21) con un 59.44 % de descuento con precio de oferta de 14.99 EUR (original: 36.96 EUR) en el siguiente enlace!

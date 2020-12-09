@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Quiero comerme tu Páncreas - Edición Coleccionista [Blu-ray]
+prodname: 'Quiero comerme tu Páncreas - Edición Coleccionista [Blu-ray]'
 ---
 
 Tienes [Quiero comerme tu Páncreas - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B0861ZNZFX/?tag=tolees-21) con un 44.46 % de descuento con precio de oferta de 19.99 EUR (original: 35.99 EUR) en el siguiente enlace!

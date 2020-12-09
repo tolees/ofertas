@@ -14,7 +14,7 @@ currency: EUR
 price: 3.55
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Vero Moda Vmsami LS Highneck Blouse Boo  Camiseta Cuello Alto Mujer  Gris  Light Grey Melange   34  Talla del Fabricante: X-Small 
+prodname: 'Vero Moda Vmsami LS Highneck Blouse Boo  Camiseta Cuello Alto Mujer  Gris  Light Grey Melange   34  Talla del Fabricante: X-Small '
 ---
 
 Ahora mismo tienes [Vero Moda Vmsami LS Highneck Blouse Boo  Camiseta Cuello Alto Mujer  Gris  Light Grey Melange   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B0745NTSGS/?tag=tolees-21) a 3.55 EUR (original: 29.99 EUR) (88.16 %  de descuento) en el siguiente enlace!

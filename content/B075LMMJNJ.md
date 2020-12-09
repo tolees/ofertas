@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Loovara Watergate – Gel lubricante a base de agua | máxima sensibilidad y delicado con la piel | sin sabor ni perfumes | no mancha la ropa de cama | ideal para el sexo y la masturbación
+prodname: 'Loovara Watergate – Gel lubricante a base de agua | máxima sensibilidad y delicado con la piel | sin sabor ni perfumes | no mancha la ropa de cama | ideal para el sexo y la masturbación'
 ---
 
 Está [Loovara Watergate – Gel lubricante a base de agua | máxima sensibilidad y delicado con la piel | sin sabor ni perfumes | no mancha la ropa de cama | ideal para el sexo y la masturbación](https://www.amazon.es/dp/B075LMMJNJ/?tag=tolees-21) con 59.96 de descuento por 9.99 EUR (original: 24.95 EUR) en el siguiente enlace!

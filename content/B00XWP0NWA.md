@@ -14,7 +14,7 @@ currency: EUR
 price: 39
 comparePrice: 65 EUR
 inStock: true
-prodname: Nike NIKE MD RUNNER 2 Zapatillas de running Hombre  Gris/Negro/Blanco  Wolf Grey/Black-White   41 EU
+prodname: 'Nike NIKE MD RUNNER 2 Zapatillas de running Hombre  Gris/Negro/Blanco  Wolf Grey/Black-White   41 EU'
 ---
 
 Ahora mismo tienes [Nike NIKE MD RUNNER 2 Zapatillas de running Hombre  Gris/Negro/Blanco  Wolf Grey/Black-White   41 EU](https://www.amazon.es/dp/B00XWP0NWA/?tag=tolees-21) a 39 EUR (original: 65 EUR) (40.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13
 comparePrice: 18.38 EUR
 inStock: true
-prodname: Pendientes Chapados en Plata 925 de Jade con Facetas Verdes Regalo Para Ella
+prodname: 'Pendientes Chapados en Plata 925 de Jade con Facetas Verdes Regalo Para Ella'
 ---
 
 Está [Pendientes Chapados en Plata 925 de Jade con Facetas Verdes Regalo Para Ella](https://www.amazon.es/dp/B07F8YNFPQ/?tag=tolees-21) con 29.27 de descuento por 13 EUR (original: 18.38 EUR) en el siguiente enlace!

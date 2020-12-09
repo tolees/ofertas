@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Granblue Fantasy Versus
+prodname: 'Granblue Fantasy Versus'
 ---
 
 Tienes [Granblue Fantasy Versus](https://www.amazon.es/dp/B084KCGWHR/?tag=tolees-21) con un 58.49 % de descuento con precio de oferta de 24.9 EUR (original: 59.99 EUR) en el siguiente enlace!

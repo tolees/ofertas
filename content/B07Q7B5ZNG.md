@@ -14,7 +14,7 @@ currency: EUR
 price: 589.99
 comparePrice: 842.98 EUR
 inStock: true
-prodname: Samsung UE49RU8005  Smart TV con Resolución 4K UHD  Wide Viewing Angle  HDR  HDR10+   Procesador 4K  One Remote Control  Apps en Exclusiva y Compatible con Alexa  Ethernet  49
+prodname: 'Samsung UE49RU8005  Smart TV con Resolución 4K UHD  Wide Viewing Angle  HDR  HDR10+   Procesador 4K  One Remote Control  Apps en Exclusiva y Compatible con Alexa  Ethernet  49'
 ---
 
 Tienes [Samsung UE49RU8005  Smart TV con Resolución 4K UHD  Wide Viewing Angle  HDR  HDR10+   Procesador 4K  One Remote Control  Apps en Exclusiva y Compatible con Alexa  Ethernet  49](https://www.amazon.es/dp/B07Q7B5ZNG/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 589.99 EUR (original: 842.98 EUR) en el siguiente enlace!

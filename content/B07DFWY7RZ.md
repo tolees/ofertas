@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Roxy Sugar Baby Mochila Pequeña  Mujer  Blanco/Azul  Medieval Blue Bike Ride   16 l
+prodname: 'Roxy Sugar Baby Mochila Pequeña  Mujer  Blanco/Azul  Medieval Blue Bike Ride   16 l'
 ---
 
 Está [Roxy Sugar Baby Mochila Pequeña  Mujer  Blanco/Azul  Medieval Blue Bike Ride   16 l](https://www.amazon.es/dp/B07DFWY7RZ/?tag=tolees-21) con 44.71 de descuento por 19.9 EUR (original: 35.99 EUR) en el siguiente enlace!

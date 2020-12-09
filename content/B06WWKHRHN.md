@@ -14,7 +14,7 @@ currency: EUR
 price: 67.67
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Columbia Caldorado II  Zapatillas de Trail Running para Mujer  Azul  Aquarium/Zour 307   37.5 EU
+prodname: 'Columbia Caldorado II  Zapatillas de Trail Running para Mujer  Azul  Aquarium/Zour 307   37.5 EU'
 ---
 
 Tienes [Columbia Caldorado II  Zapatillas de Trail Running para Mujer  Azul  Aquarium/Zour 307   37.5 EU](https://www.amazon.es/dp/B06WWKHRHN/?tag=tolees-21) con un 47.93 % de descuento con precio de oferta de 67.67 EUR (original: 129.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Amazfit PowerBuds Dynamic Black
+prodname: 'Amazfit PowerBuds Dynamic Black'
 ---
 
 Tienes [Amazfit PowerBuds Dynamic Black](https://www.amazon.es/dp/B089GXSVXW/?tag=tolees-21) con un 40.09 % de descuento con precio de oferta de 59.9 EUR (original: 99.99 EUR) en el siguiente enlace!

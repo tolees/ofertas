@@ -14,7 +14,7 @@ currency: EUR
 price: 25.85
 comparePrice: 75 EUR
 inStock: true
-prodname: The North Face W FZ Jacket Chaqueta con Cremallera Tanken  Mujer  Bomber Blue  XS
+prodname: 'The North Face W FZ Jacket Chaqueta con Cremallera Tanken  Mujer  Bomber Blue  XS'
 ---
 
 Tienes [The North Face W FZ Jacket Chaqueta con Cremallera Tanken  Mujer  Bomber Blue  XS](https://www.amazon.es/dp/B07BB3TPJV/?tag=tolees-21) con un 65.53 % de descuento con precio de oferta de 25.85 EUR (original: 75 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 79.9
 comparePrice: 129.99 EUR
 inStock: true
-prodname: tado° Termostato Inteligente Cableado - Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo
+prodname: 'tado° Termostato Inteligente Cableado - Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo'
 ---
 
 Tienes [tado° Termostato Inteligente Cableado - Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo](https://www.amazon.es/dp/B01BWUH8W4/?tag=tolees-21) con un 38.53 % de descuento con precio de oferta de 79.9 EUR (original: 129.99 EUR) en el siguiente enlace!

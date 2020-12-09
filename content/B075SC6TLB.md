@@ -14,7 +14,7 @@ currency: EUR
 price: 32.54
 comparePrice: 85.95 EUR
 inStock: true
-prodname: Desigual Shoes_Swan Tigers  Sandalias con Plataforma Plana para Mujer  Azul  5098 Starlight Blue   40 EU
+prodname: 'Desigual Shoes_Swan Tigers  Sandalias con Plataforma Plana para Mujer  Azul  5098 Starlight Blue   40 EU'
 ---
 
 Tienes [Desigual Shoes_Swan Tigers  Sandalias con Plataforma Plana para Mujer  Azul  5098 Starlight Blue   40 EU](https://www.amazon.es/dp/B075SC6TLB/?tag=tolees-21) con un 62.14 % de descuento con precio de oferta de 32.54 EUR (original: 85.95 EUR) en el siguiente enlace!

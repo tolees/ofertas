@@ -14,7 +14,7 @@ currency: EUR
 price: 72.87
 comparePrice: 104.8 EUR
 inStock: true
-prodname: Mannesmann - M12862 - Fresadora de ranuras 900 W
+prodname: 'Mannesmann - M12862 - Fresadora de ranuras 900 W'
 ---
 
 Ahora mismo tienes [Mannesmann - M12862 - Fresadora de ranuras 900 W](https://www.amazon.es/dp/B000B9RKEE/?tag=tolees-21) a 72.87 EUR (original: 104.8 EUR) (30.47 %  de descuento) en el siguiente enlace!

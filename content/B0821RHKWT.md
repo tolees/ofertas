@@ -14,7 +14,7 @@ currency: EUR
 price: 38.5
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Geox B Todo Girl B  Zapatillas para Bebés  Grey  24 EU
+prodname: 'Geox B Todo Girl B  Zapatillas para Bebés  Grey  24 EU'
 ---
 
 Está [Geox B Todo Girl B  Zapatillas para Bebés  Grey  24 EU](https://www.amazon.es/dp/B0821RHKWT/?tag=tolees-21) con 30.00 de descuento por 38.5 EUR (original: 55.0 EUR) en el siguiente enlace!

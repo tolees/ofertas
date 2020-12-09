@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 34.95 EUR
 inStock: true
-prodname: SD Games- Números Locos  SDGNUMLOC01 
+prodname: 'SD Games- Números Locos  SDGNUMLOC01 '
 ---
 
 Está [SD Games- Números Locos  SDGNUMLOC01 ](https://www.amazon.es/dp/B01LXT2XNU/?tag=tolees-21) con 45.78 de descuento por 18.95 EUR (original: 34.95 EUR) en el siguiente enlace!

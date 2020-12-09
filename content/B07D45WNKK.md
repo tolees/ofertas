@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 21.95 EUR
 inStock: true
-prodname: Prime Socks No-Show White 39-42
+prodname: 'Prime Socks No-Show White 39-42'
 ---
 
 Tienes [Prime Socks No-Show White 39-42](https://www.amazon.es/dp/B07D45WNKK/?tag=tolees-21) con un 45.56 % de descuento con precio de oferta de 11.95 EUR (original: 21.95 EUR) en el siguiente enlace!

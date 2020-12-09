@@ -14,7 +14,7 @@ currency: EUR
 price: 19.31
 comparePrice: 69.95 EUR
 inStock: true
-prodname: G-STAR RAW Rovulc Low  Zapatillas para Mujer  Azul  Sea 366   41 EU
+prodname: 'G-STAR RAW Rovulc Low  Zapatillas para Mujer  Azul  Sea 366   41 EU'
 ---
 
 Está [G-STAR RAW Rovulc Low  Zapatillas para Mujer  Azul  Sea 366   41 EU](https://www.amazon.es/dp/B0798CQNHX/?tag=tolees-21) con 72.39 de descuento por 19.31 EUR (original: 69.95 EUR) en el siguiente enlace!

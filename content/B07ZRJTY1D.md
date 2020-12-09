@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 22.94 EUR
 inStock: true
-prodname: Dead By Daylight Nightmare Edition
+prodname: 'Dead By Daylight Nightmare Edition'
 ---
 
 Está [Dead By Daylight Nightmare Edition](https://www.amazon.es/dp/B07ZRJTY1D/?tag=tolees-21) con 43.37 de descuento por 12.99 EUR (original: 22.94 EUR) en el siguiente enlace!

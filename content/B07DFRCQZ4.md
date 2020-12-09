@@ -14,7 +14,7 @@ currency: EUR
 price: 38.71
 comparePrice: 110 EUR
 inStock: true
-prodname: New Balance 996  Zapatillas para Hombre  Rojo  Team Red/Nimbus Cloud LR   46.5 EU
+prodname: 'New Balance 996  Zapatillas para Hombre  Rojo  Team Red/Nimbus Cloud LR   46.5 EU'
 ---
 
 Ahora mismo tienes [New Balance 996  Zapatillas para Hombre  Rojo  Team Red/Nimbus Cloud LR   46.5 EU](https://www.amazon.es/dp/B07DFRCQZ4/?tag=tolees-21) a 38.71 EUR (original: 110 EUR) (64.81 %  de descuento) en el siguiente enlace!

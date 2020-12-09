@@ -14,7 +14,7 @@ currency: EUR
 price: 43.67
 comparePrice: 222.04 EUR
 inStock: true
-prodname: Canon AC1 - Bandeja de impresora  blanco
+prodname: 'Canon AC1 - Bandeja de impresora  blanco'
 ---
 
 Está [Canon AC1 - Bandeja de impresora  blanco](https://www.amazon.es/dp/B001ISRSR6/?tag=tolees-21) con 80.33 de descuento por 43.67 EUR (original: 222.04 EUR) en el siguiente enlace!

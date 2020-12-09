@@ -14,7 +14,7 @@ currency: EUR
 price: 4.44
 comparePrice: 12.58 EUR
 inStock: true
-prodname: Cinturón Negro Segura Del Bebé De 5 Puntos Para Silla De Paseo Arnés Correa Cochecito De Niño Con Errores
+prodname: 'Cinturón Negro Segura Del Bebé De 5 Puntos Para Silla De Paseo Arnés Correa Cochecito De Niño Con Errores'
 ---
 
 Está [Cinturón Negro Segura Del Bebé De 5 Puntos Para Silla De Paseo Arnés Correa Cochecito De Niño Con Errores](https://www.amazon.es/dp/B01D2OYSUI/?tag=tolees-21) con 64.71 de descuento por 4.44 EUR (original: 12.58 EUR) en el siguiente enlace!

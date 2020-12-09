@@ -14,7 +14,7 @@ currency: EUR
 price: 66.28
 comparePrice: 184.8 EUR
 inStock: true
-prodname: Nike Volition EV0879 208 54 Gafas de Sol  Rectangulares  54  Trts/CP Flsh W/Gry
+prodname: 'Nike Volition EV0879 208 54 Gafas de Sol  Rectangulares  54  Trts/CP Flsh W/Gry'
 ---
 
 Tienes [Nike Volition EV0879 208 54 Gafas de Sol  Rectangulares  54  Trts/CP Flsh W/Gry](https://www.amazon.es/dp/B00NPCQL9O/?tag=tolees-21) con un 64.13 % de descuento con precio de oferta de 66.28 EUR (original: 184.8 EUR) en el siguiente enlace!

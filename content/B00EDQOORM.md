@@ -14,7 +14,7 @@ currency: EUR
 price: 19.0
 comparePrice: 36.0 EUR
 inStock: true
-prodname: Fossil Pulsera de Mujer con Acero Inoxidable  Vidrio  Cuero JA6068040
+prodname: 'Fossil Pulsera de Mujer con Acero Inoxidable  Vidrio  Cuero JA6068040'
 ---
 
 Ahora mismo tienes [Fossil Pulsera de Mujer con Acero Inoxidable  Vidrio  Cuero JA6068040](https://www.amazon.es/dp/B00EDQOORM/?tag=tolees-21) a 19.0 EUR (original: 36.0 EUR) (47.22 %  de descuento) en el siguiente enlace!

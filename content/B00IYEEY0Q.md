@@ -14,7 +14,7 @@ currency: EUR
 price: 49.95
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Einhell 4258237 TC-RH 900 Martillo perforador con mecanismo percutor neumático 900 W  240 V  3 funciones  tope de profundidad
+prodname: 'Einhell 4258237 TC-RH 900 Martillo perforador con mecanismo percutor neumático 900 W  240 V  3 funciones  tope de profundidad'
 ---
 
 Tienes [Einhell 4258237 TC-RH 900 Martillo perforador con mecanismo percutor neumático 900 W  240 V  3 funciones  tope de profundidad](https://www.amazon.es/dp/B00IYEEY0Q/?tag=tolees-21) con un 37.52 % de descuento con precio de oferta de 49.95 EUR (original: 79.95 EUR) en el siguiente enlace!

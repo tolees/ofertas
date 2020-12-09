@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 42.95 EUR
 inStock: true
-prodname: Pinypon Hospital de Mascotas  Muñeca y Accesorios  Famosa 700012914 
+prodname: 'Pinypon Hospital de Mascotas  Muñeca y Accesorios  Famosa 700012914 '
 ---
 
 Tienes [Pinypon Hospital de Mascotas  Muñeca y Accesorios  Famosa 700012914 ](https://www.amazon.es/dp/B01B65IVCQ/?tag=tolees-21) con un 34.83 % de descuento con precio de oferta de 27.99 EUR (original: 42.95 EUR) en el siguiente enlace!

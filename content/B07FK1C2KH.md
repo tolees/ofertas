@@ -14,7 +14,7 @@ currency: EUR
 price: 13.93
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Probiótico Probiplus 50 mil millones de UFC garantizados por dosis | 10 cepas efectivas y naturales | 60 cápsulas vegetales | Mejora las defensas y la flora intestinal | Probiplus complex | Nutralie
+prodname: 'Probiótico Probiplus 50 mil millones de UFC garantizados por dosis | 10 cepas efectivas y naturales | 60 cápsulas vegetales | Mejora las defensas y la flora intestinal | Probiplus complex | Nutralie'
 ---
 
 Tienes [Probiótico Probiplus 50 mil millones de UFC garantizados por dosis | 10 cepas efectivas y naturales | 60 cápsulas vegetales | Mejora las defensas y la flora intestinal | Probiplus complex | Nutralie](https://www.amazon.es/dp/B07FK1C2KH/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 13.93 EUR (original: 19.9 EUR) en el siguiente enlace!

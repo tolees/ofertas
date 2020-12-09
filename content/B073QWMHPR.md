@@ -14,7 +14,7 @@ currency: EUR
 price: 28.29
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Reebok Royal EC Ride  Zapatillas para Mujer  Azul  Deep Cobalt/Cali Blue/Vicious Violet/White   38.5 EU
+prodname: 'Reebok Royal EC Ride  Zapatillas para Mujer  Azul  Deep Cobalt/Cali Blue/Vicious Violet/White   38.5 EU'
 ---
 
 Está [Reebok Royal EC Ride  Zapatillas para Mujer  Azul  Deep Cobalt/Cali Blue/Vicious Violet/White   38.5 EU](https://www.amazon.es/dp/B073QWMHPR/?tag=tolees-21) con 48.52 de descuento por 28.29 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 27.95 EUR
 inStock: true
-prodname: IKOHS Exprimidor Eléctrico de Naranjas y cítricos  40 W  Apto para lavavajillas  grisfrecuencia 50-60Hz  Libre de BPA  Cono exprimidor  Filtro de Pulpa  diseño Exclusivo  Salida de Zumo Anti Goteo
+prodname: 'IKOHS Exprimidor Eléctrico de Naranjas y cítricos  40 W  Apto para lavavajillas  grisfrecuencia 50-60Hz  Libre de BPA  Cono exprimidor  Filtro de Pulpa  diseño Exclusivo  Salida de Zumo Anti Goteo'
 ---
 
 Tienes [IKOHS Exprimidor Eléctrico de Naranjas y cítricos  40 W  Apto para lavavajillas  grisfrecuencia 50-60Hz  Libre de BPA  Cono exprimidor  Filtro de Pulpa  diseño Exclusivo  Salida de Zumo Anti Goteo](https://www.amazon.es/dp/B07NZ7SQVY/?tag=tolees-21) con un 32.20 % de descuento con precio de oferta de 18.95 EUR (original: 27.95 EUR) en el siguiente enlace!

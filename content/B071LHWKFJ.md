@@ -14,7 +14,7 @@ currency: EUR
 price: 29
 comparePrice: 69 EUR
 inStock: true
-prodname: Valentino Uomo Acqua Vaporizador Agua de Colonia - 75 ml
+prodname: 'Valentino Uomo Acqua Vaporizador Agua de Colonia - 75 ml'
 ---
 
 Tienes [Valentino Uomo Acqua Vaporizador Agua de Colonia - 75 ml](https://www.amazon.es/dp/B071LHWKFJ/?tag=tolees-21) con un 57.97 % de descuento con precio de oferta de 29 EUR (original: 69 EUR) en el siguiente enlace!

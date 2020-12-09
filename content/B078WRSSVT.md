@@ -14,7 +14,7 @@ currency: EUR
 price: 219.9
 comparePrice: 359.99 EUR
 inStock: true
-prodname: Samsung 860 EVO - Disco estado solido SSD  2 TB  550 megabytes/s  color negro
+prodname: 'Samsung 860 EVO - Disco estado solido SSD  2 TB  550 megabytes/s  color negro'
 ---
 
 Ahora mismo tienes [Samsung 860 EVO - Disco estado solido SSD  2 TB  550 megabytes/s  color negro](https://www.amazon.es/dp/B078WRSSVT/?tag=tolees-21) a 219.9 EUR (original: 359.99 EUR) (38.91 %  de descuento) en el siguiente enlace!

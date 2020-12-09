@@ -14,7 +14,7 @@ currency: EUR
 price: 29
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Easy Summer Slip On  Alpargatas para Hombre  Rojo  Tango Red 611   43 EU
+prodname: 'Tommy Hilfiger Easy Summer Slip On  Alpargatas para Hombre  Rojo  Tango Red 611   43 EU'
 ---
 
 Tienes [Tommy Hilfiger Easy Summer Slip On  Alpargatas para Hombre  Rojo  Tango Red 611   43 EU](https://www.amazon.es/dp/B01MXQTW7D/?tag=tolees-21) con un 41.88 % de descuento con precio de oferta de 29 EUR (original: 49.9 EUR) en el siguiente enlace!

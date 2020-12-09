@@ -14,7 +14,7 @@ currency: EUR
 price: 24.3
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Desigual Jers_pullover - Suéter para Mujer  Negro  Small
+prodname: 'Desigual Jers_pullover - Suéter para Mujer  Negro  Small'
 ---
 
 Tienes [Desigual Jers_pullover - Suéter para Mujer  Negro  Small](https://www.amazon.es/dp/B06XQ3ZP9B/?tag=tolees-21) con un 65.26 % de descuento con precio de oferta de 24.3 EUR (original: 69.95 EUR) en el siguiente enlace!

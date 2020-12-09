@@ -14,7 +14,7 @@ currency: EUR
 price: 2.7
 comparePrice: 4.06 EUR
 inStock: true
-prodname: SZXCX Filtro colador de té práctico Filtro colador de infusor de té de Acero Inoxidable Utensilios para Beber Accesorios para Beber té Uso de Cocina - Plata
+prodname: 'SZXCX Filtro colador de té práctico Filtro colador de infusor de té de Acero Inoxidable Utensilios para Beber Accesorios para Beber té Uso de Cocina - Plata'
 ---
 
 Ahora mismo tienes [SZXCX Filtro colador de té práctico Filtro colador de infusor de té de Acero Inoxidable Utensilios para Beber Accesorios para Beber té Uso de Cocina - Plata](https://www.amazon.es/dp/B08M5CKFC6/?tag=tolees-21) a 2.7 EUR (original: 4.06 EUR) (33.50 %  de descuento) en el siguiente enlace!

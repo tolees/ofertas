@@ -14,7 +14,7 @@ currency: EUR
 price: 32.11
 comparePrice: 55.5 EUR
 inStock: true
-prodname: Carhartt Rugged Flex Straight Tapered Jeans  Superior  W40/L32 para Hombre
+prodname: 'Carhartt Rugged Flex Straight Tapered Jeans  Superior  W40/L32 para Hombre'
 ---
 
 Ahora mismo tienes [Carhartt Rugged Flex Straight Tapered Jeans  Superior  W40/L32 para Hombre](https://www.amazon.es/dp/B07T3B8GVX/?tag=tolees-21) a 32.11 EUR (original: 55.5 EUR) (42.14 %  de descuento) en el siguiente enlace!

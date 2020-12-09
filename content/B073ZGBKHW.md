@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Remington S8598 Keratin Protect - Plancha de Pelo  Cerámica  Digital  Keratina  Sensor de Protección de Calor  Resultados Profesionales  Gris
+prodname: 'Remington S8598 Keratin Protect - Plancha de Pelo  Cerámica  Digital  Keratina  Sensor de Protección de Calor  Resultados Profesionales  Gris'
 ---
 
 Ahora mismo tienes [Remington S8598 Keratin Protect - Plancha de Pelo  Cerámica  Digital  Keratina  Sensor de Protección de Calor  Resultados Profesionales  Gris](https://www.amazon.es/dp/B073ZGBKHW/?tag=tolees-21) a 39.99 EUR (original: 79.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

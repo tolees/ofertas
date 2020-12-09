@@ -14,7 +14,7 @@ currency: EUR
 price: 8.03
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Lee Boxed Logo tee  Camiseta para Hombre  Blanco  White 12   Small
+prodname: 'Lee Boxed Logo tee  Camiseta para Hombre  Blanco  White 12   Small'
 ---
 
 Tienes [Lee Boxed Logo tee  Camiseta para Hombre  Blanco  White 12   Small](https://www.amazon.es/dp/B07FFVDWMG/?tag=tolees-21) con un 73.19 % de descuento con precio de oferta de 8.03 EUR (original: 29.95 EUR) en el siguiente enlace!

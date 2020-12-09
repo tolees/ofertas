@@ -14,7 +14,7 @@ currency: EUR
 price: 12.8
 comparePrice: 28.43 EUR
 inStock: true
-prodname: Anne Möller Hydragps Gel Hydratant Mat - Loción anti-imperfecciones  50 ml
+prodname: 'Anne Möller Hydragps Gel Hydratant Mat - Loción anti-imperfecciones  50 ml'
 ---
 
 Ahora mismo tienes [Anne Möller Hydragps Gel Hydratant Mat - Loción anti-imperfecciones  50 ml](https://www.amazon.es/dp/B00LPLMEKC/?tag=tolees-21) a 12.8 EUR (original: 28.43 EUR) (54.98 %  de descuento) en el siguiente enlace!

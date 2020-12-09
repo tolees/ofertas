@@ -14,7 +14,7 @@ currency: EUR
 price: 67.14
 comparePrice: 90.0 EUR
 inStock: true
-prodname: Levi s 502 Regular Taper Jeans  Azul  Stonewash 95978 0182   32W / 30L para Hombre
+prodname: 'Levi s 502 Regular Taper Jeans  Azul  Stonewash 95978 0182   32W / 30L para Hombre'
 ---
 
 Ahora mismo tienes [Levi s 502 Regular Taper Jeans  Azul  Stonewash 95978 0182   32W / 30L para Hombre](https://www.amazon.es/dp/B079QJWBNK/?tag=tolees-21) a 67.14 EUR (original: 90.0 EUR) (25.40 %  de descuento) en el siguiente enlace!

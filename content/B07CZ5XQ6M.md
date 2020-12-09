@@ -14,7 +14,7 @@ currency: EUR
 price: 46.82
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW Shape High Waist Super Skinny Vaqueros  Negro  Medium Aged 071   26W / 32L para Mujer
+prodname: 'G-STAR RAW Shape High Waist Super Skinny Vaqueros  Negro  Medium Aged 071   26W / 32L para Mujer'
 ---
 
 Ahora mismo tienes [G-STAR RAW Shape High Waist Super Skinny Vaqueros  Negro  Medium Aged 071   26W / 32L para Mujer](https://www.amazon.es/dp/B07CZ5XQ6M/?tag=tolees-21) a 46.82 EUR (original: 139.95 EUR) (66.55 %  de descuento) en el siguiente enlace!

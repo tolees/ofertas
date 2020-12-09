@@ -14,7 +14,7 @@ currency: EUR
 price: 15.95
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Disney Princess - Paquete con Princesas Ariel & Pocahontas  Hasbro E7413ES0 
+prodname: 'Disney Princess - Paquete con Princesas Ariel & Pocahontas  Hasbro E7413ES0 '
 ---
 
 Ahora mismo tienes [Disney Princess - Paquete con Princesas Ariel & Pocahontas  Hasbro E7413ES0 ](https://www.amazon.es/dp/B07WX2TWH8/?tag=tolees-21) a 15.95 EUR (original: 34.99 EUR) (54.42 %  de descuento) en el siguiente enlace!

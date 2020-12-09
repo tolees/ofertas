@@ -14,7 +14,7 @@ currency: EUR
 price: 6.78
 comparePrice: 19.95 EUR
 inStock: true
-prodname: CARPISA ® Mochila mujer a rayas - Wilma
+prodname: 'CARPISA ® Mochila mujer a rayas - Wilma'
 ---
 
 Está [CARPISA ® Mochila mujer a rayas - Wilma](https://www.amazon.es/dp/B07WCCS3M2/?tag=tolees-21) con 66.02 de descuento por 6.78 EUR (original: 19.95 EUR) en el siguiente enlace!

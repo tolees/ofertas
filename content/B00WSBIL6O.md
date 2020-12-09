@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 10.99 EUR
 inStock: true
-prodname: LYNCA LYN-251Z Correa de hombro cuello para cámara SLR y DSLR Canon Nikon Pentax Sony etc. Bohemiavintage
+prodname: 'LYNCA LYN-251Z Correa de hombro cuello para cámara SLR y DSLR Canon Nikon Pentax Sony etc. Bohemiavintage'
 ---
 
 Está [LYNCA LYN-251Z Correa de hombro cuello para cámara SLR y DSLR Canon Nikon Pentax Sony etc. Bohemiavintage](https://www.amazon.es/dp/B00WSBIL6O/?tag=tolees-21) con 27.30 de descuento por 7.99 EUR (original: 10.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 69.0 EUR
 inStock: true
-prodname: OMRON E3 Intense - Electroestimulador para aliviar el dolor muscular sin medicación  electrodos incluidos
+prodname: 'OMRON E3 Intense - Electroestimulador para aliviar el dolor muscular sin medicación  electrodos incluidos'
 ---
 
 Está [OMRON E3 Intense - Electroestimulador para aliviar el dolor muscular sin medicación  electrodos incluidos](https://www.amazon.es/dp/B014RO5MPW/?tag=tolees-21) con 49.29 de descuento por 34.99 EUR (original: 69.0 EUR) en el siguiente enlace!

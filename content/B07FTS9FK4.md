@@ -14,7 +14,7 @@ currency: EUR
 price: 29.05
 comparePrice: 75 EUR
 inStock: true
-prodname: Lee Button Down  Camisa para Hombre  Azul  Dipped Blue La   XX-Large
+prodname: 'Lee Button Down  Camisa para Hombre  Azul  Dipped Blue La   XX-Large'
 ---
 
 Está [Lee Button Down  Camisa para Hombre  Azul  Dipped Blue La   XX-Large](https://www.amazon.es/dp/B07FTS9FK4/?tag=tolees-21) con 61.27 de descuento por 29.05 EUR (original: 75 EUR) en el siguiente enlace!

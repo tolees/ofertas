@@ -14,7 +14,7 @@ currency: EUR
 price: 23.53
 comparePrice: 35.45 EUR
 inStock: true
-prodname: VOGEK crece la luz para plantas de interior con temporizador  lámparas de crecimiento de espectro completo para plántulas con cuello de cisne ajustable y clip de escritorio  3 modos de interruptor
+prodname: 'VOGEK crece la luz para plantas de interior con temporizador  lámparas de crecimiento de espectro completo para plántulas con cuello de cisne ajustable y clip de escritorio  3 modos de interruptor'
 ---
 
 Ahora mismo tienes [VOGEK crece la luz para plantas de interior con temporizador  lámparas de crecimiento de espectro completo para plántulas con cuello de cisne ajustable y clip de escritorio  3 modos de interruptor](https://www.amazon.es/dp/B07YS9SJ8M/?tag=tolees-21) a 23.53 EUR (original: 35.45 EUR) (33.62 %  de descuento) en el siguiente enlace!

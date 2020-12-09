@@ -14,7 +14,7 @@ currency: EUR
 price: 199.99
 comparePrice: 388.99 EUR
 inStock: true
-prodname: Bosch PBD 40 - Taladro de columna  710 W  caja de cartón 
+prodname: 'Bosch PBD 40 - Taladro de columna  710 W  caja de cartón '
 ---
 
 Ahora mismo tienes [Bosch PBD 40 - Taladro de columna  710 W  caja de cartón ](https://www.amazon.es/dp/B005OQEK9W/?tag=tolees-21) a 199.99 EUR (original: 388.99 EUR) (48.59 %  de descuento) en el siguiente enlace!

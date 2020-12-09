@@ -14,7 +14,7 @@ currency: EUR
 price: 4.78
 comparePrice: 7.49 EUR
 inStock: true
-prodname: AmazonBasics - Cable macho de USB 2.0 C a USB 2.0 C   de nailon con trenzado doble | 1 8 m  Rojo
+prodname: 'AmazonBasics - Cable macho de USB 2.0 C a USB 2.0 C   de nailon con trenzado doble | 1 8 m  Rojo'
 ---
 
 Está [AmazonBasics - Cable macho de USB 2.0 C a USB 2.0 C   de nailon con trenzado doble | 1 8 m  Rojo](https://www.amazon.es/dp/B07CWH4ZZ5/?tag=tolees-21) con 36.18 de descuento por 4.78 EUR (original: 7.49 EUR) en el siguiente enlace!

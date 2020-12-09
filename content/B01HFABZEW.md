@@ -14,7 +14,7 @@ currency: EUR
 price: 96.88
 comparePrice: 145 EUR
 inStock: true
-prodname: Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Marrón Earth  43 EU
+prodname: 'Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Marrón Earth  43 EU'
 ---
 
 Tienes [Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Marrón Earth  43 EU](https://www.amazon.es/dp/B01HFABZEW/?tag=tolees-21) con un 33.19 % de descuento con precio de oferta de 96.88 EUR (original: 145 EUR) en el siguiente enlace!

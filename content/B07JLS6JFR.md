@@ -14,7 +14,7 @@ currency: EUR
 price: 19.84
 comparePrice: 39.95 EUR
 inStock: true
-prodname: XTI 48891  Zapatillas para Mujer  Negro  38 EU
+prodname: 'XTI 48891  Zapatillas para Mujer  Negro  38 EU'
 ---
 
 Tienes [XTI 48891  Zapatillas para Mujer  Negro  38 EU](https://www.amazon.es/dp/B07JLS6JFR/?tag=tolees-21) con un 50.34 % de descuento con precio de oferta de 19.84 EUR (original: 39.95 EUR) en el siguiente enlace!

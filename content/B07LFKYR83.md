@@ -14,7 +14,7 @@ currency: EUR
 price: 48.38
 comparePrice: 85 EUR
 inStock: true
-prodname: Pepe Jeans Koko Glam  Zapatillas para Mujer  Plateado  934SILVER 934   41 EU
+prodname: 'Pepe Jeans Koko Glam  Zapatillas para Mujer  Plateado  934SILVER 934   41 EU'
 ---
 
 Está [Pepe Jeans Koko Glam  Zapatillas para Mujer  Plateado  934SILVER 934   41 EU](https://www.amazon.es/dp/B07LFKYR83/?tag=tolees-21) con 43.08 de descuento por 48.38 EUR (original: 85 EUR) en el siguiente enlace!

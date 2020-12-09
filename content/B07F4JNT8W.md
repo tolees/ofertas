@@ -14,7 +14,7 @@ currency: EUR
 price: 15.96
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Puma Ftblnxt Baselayer LS Camisa  Hombre  Negro  XL
+prodname: 'Puma Ftblnxt Baselayer LS Camisa  Hombre  Negro  XL'
 ---
 
 Tienes [Puma Ftblnxt Baselayer LS Camisa  Hombre  Negro  XL](https://www.amazon.es/dp/B07F4JNT8W/?tag=tolees-21) con un 60.05 % de descuento con precio de oferta de 15.96 EUR (original: 39.95 EUR) en el siguiente enlace!

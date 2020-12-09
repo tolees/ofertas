@@ -14,7 +14,7 @@ currency: EUR
 price: 16.32
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Under Armour UA Tech 2.0 1/2 Zip Parte Superior del Calentamiento  Hombre  Azul  Academy 409   XXL
+prodname: 'Under Armour UA Tech 2.0 1/2 Zip Parte Superior del Calentamiento  Hombre  Azul  Academy 409   XXL'
 ---
 
 Tienes [Under Armour UA Tech 2.0 1/2 Zip Parte Superior del Calentamiento  Hombre  Azul  Academy 409   XXL](https://www.amazon.es/dp/B0785VSQRJ/?tag=tolees-21) con un 59.19 % de descuento con precio de oferta de 16.32 EUR (original: 39.99 EUR) en el siguiente enlace!

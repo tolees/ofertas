@@ -14,7 +14,7 @@ currency: EUR
 price: 47
 comparePrice: 95 EUR
 inStock: true
-prodname: Lacoste L1212  Polo Para Hombre  Morado  Perse Ws3   X-Small  Talla del fabricante: 2 
+prodname: 'Lacoste L1212  Polo Para Hombre  Morado  Perse Ws3   X-Small  Talla del fabricante: 2 '
 ---
 
 Ahora mismo tienes [Lacoste L1212  Polo Para Hombre  Morado  Perse Ws3   X-Small  Talla del fabricante: 2 ](https://www.amazon.es/dp/B07FG65FSN/?tag=tolees-21) a 47 EUR (original: 95 EUR) (50.53 %  de descuento) en el siguiente enlace!

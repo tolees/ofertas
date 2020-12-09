@@ -14,7 +14,7 @@ currency: EUR
 price: 29.48
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Side Street-tegu  Zapatillas para Mujer  Negro  Black Blk   39.5 EU
+prodname: 'Skechers Side Street-tegu  Zapatillas para Mujer  Negro  Black Blk   39.5 EU'
 ---
 
 Está [Skechers Side Street-tegu  Zapatillas para Mujer  Negro  Black Blk   39.5 EU](https://www.amazon.es/dp/B07CVGCYH1/?tag=tolees-21) con 54.61 de descuento por 29.48 EUR (original: 64.95 EUR) en el siguiente enlace!

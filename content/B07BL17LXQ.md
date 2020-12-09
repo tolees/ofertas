@@ -14,7 +14,7 @@ currency: EUR
 price: 58.63
 comparePrice: 92.49 EUR
 inStock: true
-prodname: New Balance 997H Core  Zapatillas Hombre  Negro  Black   42 EU
+prodname: 'New Balance 997H Core  Zapatillas Hombre  Negro  Black   42 EU'
 ---
 
 Ahora mismo tienes [New Balance 997H Core  Zapatillas Hombre  Negro  Black   42 EU](https://www.amazon.es/dp/B07BL17LXQ/?tag=tolees-21) a 58.63 EUR (original: 92.49 EUR) (36.61 %  de descuento) en el siguiente enlace!

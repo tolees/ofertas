@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 65 EUR
 inStock: true
-prodname: Helly Hansen Kos Polo  Hombre  Navy  XL
+prodname: 'Helly Hansen Kos Polo  Hombre  Navy  XL'
 ---
 
 Está [Helly Hansen Kos Polo  Hombre  Navy  XL](https://www.amazon.es/dp/B07KGPFQJ5/?tag=tolees-21) con 46.17 de descuento por 34.99 EUR (original: 65 EUR) en el siguiente enlace!

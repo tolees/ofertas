@@ -14,7 +14,7 @@ currency: EUR
 price: 16.9
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Medievil
+prodname: 'Medievil'
 ---
 
 Tienes [Medievil](https://www.amazon.es/dp/B07TC28NVG/?tag=tolees-21) con un 43.65 % de descuento con precio de oferta de 16.9 EUR (original: 29.99 EUR) en el siguiente enlace!

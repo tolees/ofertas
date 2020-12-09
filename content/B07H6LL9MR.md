@@ -14,7 +14,7 @@ currency: EUR
 price: 19.79
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Logobeing Zapatillas Deporte Hombres Running Zapatos Hombre Deportivos Casuales Zapatillas Running Hombre Auriculares Correr en Asfalto Calzado Deportivo Hombre 41 Ejercito Verde 
+prodname: 'Logobeing Zapatillas Deporte Hombres Running Zapatos Hombre Deportivos Casuales Zapatillas Running Hombre Auriculares Correr en Asfalto Calzado Deportivo Hombre 41 Ejercito Verde '
 ---
 
 Tienes [Logobeing Zapatillas Deporte Hombres Running Zapatos Hombre Deportivos Casuales Zapatillas Running Hombre Auriculares Correr en Asfalto Calzado Deportivo Hombre 41 Ejercito Verde ](https://www.amazon.es/dp/B07H6LL9MR/?tag=tolees-21) con un 34.01 % de descuento con precio de oferta de 19.79 EUR (original: 29.99 EUR) en el siguiente enlace!

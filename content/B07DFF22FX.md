@@ -14,7 +14,7 @@ currency: EUR
 price: 9.49
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Figura Pop Ralph 2: Ralph
+prodname: 'Figura Pop Ralph 2: Ralph'
 ---
 
 Tienes [Figura Pop Ralph 2: Ralph](https://www.amazon.es/dp/B07DFF22FX/?tag=tolees-21) con un 40.50 % de descuento con precio de oferta de 9.49 EUR (original: 15.95 EUR) en el siguiente enlace!

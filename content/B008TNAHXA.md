@@ -14,7 +14,7 @@ currency: EUR
 price: 39.0
 comparePrice: 54.0 EUR
 inStock: true
-prodname: Mooer HUSTLE DRIVE - Pedal de efectos
+prodname: 'Mooer HUSTLE DRIVE - Pedal de efectos'
 ---
 
 Está [Mooer HUSTLE DRIVE - Pedal de efectos](https://www.amazon.es/dp/B008TNAHXA/?tag=tolees-21) con 27.78 de descuento por 39.0 EUR (original: 54.0 EUR) en el siguiente enlace!

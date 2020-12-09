@@ -14,7 +14,7 @@ currency: EUR
 price: 36.14
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Uprise Knit  Zapatillas Unisex Adults o  Negro Black-Iron Gate White  39 EU
+prodname: 'Puma Uprise Knit  Zapatillas Unisex Adults o  Negro Black-Iron Gate White  39 EU'
 ---
 
 Está [Puma Uprise Knit  Zapatillas Unisex Adults o  Negro Black-Iron Gate White  39 EU](https://www.amazon.es/dp/B07CRHCJP9/?tag=tolees-21) con 59.82 de descuento por 36.14 EUR (original: 89.95 EUR) en el siguiente enlace!

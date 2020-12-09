@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 33.99 EUR
 inStock: true
-prodname: Injustice 2 - Legendary Edition
+prodname: 'Injustice 2 - Legendary Edition'
 ---
 
 Ahora mismo tienes [Injustice 2 - Legendary Edition](https://www.amazon.es/dp/B07BFB3LXM/?tag=tolees-21) a 21.99 EUR (original: 33.99 EUR) (35.30 %  de descuento) en el siguiente enlace!

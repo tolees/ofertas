@@ -14,7 +14,7 @@ currency: EUR
 price: 18.19
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Iris & Lilly AM8525 sujetadores push up  Negro  Black   100A  Talla del fabricante: 38A   Pack de 2
+prodname: 'Iris & Lilly AM8525 sujetadores push up  Negro  Black   100A  Talla del fabricante: 38A   Pack de 2'
 ---
 
 Tienes [Iris & Lilly AM8525 sujetadores push up  Negro  Black   100A  Talla del fabricante: 38A   Pack de 2](https://www.amazon.es/dp/B076MCXCMR/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 18.19 EUR (original: 25.99 EUR) en el siguiente enlace!

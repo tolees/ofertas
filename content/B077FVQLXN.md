@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Maison & White Almohadas De Baño De Lujo | Almohada Antideslizante Impermeable Home Spa | Soporte De Espalda y Cuello | Reposacabezas Fácil y Limpio
+prodname: 'Maison & White Almohadas De Baño De Lujo | Almohada Antideslizante Impermeable Home Spa | Soporte De Espalda y Cuello | Reposacabezas Fácil y Limpio'
 ---
 
 Está [Maison & White Almohadas De Baño De Lujo | Almohada Antideslizante Impermeable Home Spa | Soporte De Espalda y Cuello | Reposacabezas Fácil y Limpio](https://www.amazon.es/dp/B077FVQLXN/?tag=tolees-21) con 56.02 de descuento por 10.99 EUR (original: 24.99 EUR) en el siguiente enlace!

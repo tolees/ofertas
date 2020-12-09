@@ -14,7 +14,7 @@ currency: EUR
 price: 6.79
 comparePrice: 13.5 EUR
 inStock: true
-prodname: Diadermine - Gel Micelar Let s Talk Pure para Pieles Mixtas/Grasas - Pack de 3 x 50 ml
+prodname: 'Diadermine - Gel Micelar Let s Talk Pure para Pieles Mixtas/Grasas - Pack de 3 x 50 ml'
 ---
 
 Ahora mismo tienes [Diadermine - Gel Micelar Let s Talk Pure para Pieles Mixtas/Grasas - Pack de 3 x 50 ml](https://www.amazon.es/dp/B07JV7XMQ5/?tag=tolees-21) a 6.79 EUR (original: 13.5 EUR) (49.70 %  de descuento) en el siguiente enlace!

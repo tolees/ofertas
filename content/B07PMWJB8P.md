@@ -14,7 +14,7 @@ currency: EUR
 price: 5.73
 comparePrice: 8.49 EUR
 inStock: true
-prodname: EasyULT Caja Externo para Disco Duro de 2.5" con Cable USB 3.0  Externo Carcasa para Disco Duro Soporte UASP SATA III HDD SSD de 2.5"-Negro
+prodname: 'EasyULT Caja Externo para Disco Duro de 2.5" con Cable USB 3.0  Externo Carcasa para Disco Duro Soporte UASP SATA III HDD SSD de 2.5"-Negro'
 ---
 
 Ahora mismo tienes [EasyULT Caja Externo para Disco Duro de 2.5" con Cable USB 3.0  Externo Carcasa para Disco Duro Soporte UASP SATA III HDD SSD de 2.5"-Negro](https://www.amazon.es/dp/B07PMWJB8P/?tag=tolees-21) a 5.73 EUR (original: 8.49 EUR) (32.51 %  de descuento) en el siguiente enlace!

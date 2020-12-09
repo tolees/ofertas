@@ -14,7 +14,7 @@ currency: EUR
 price: 36.03
 comparePrice: 80 EUR
 inStock: true
-prodname: New Balance 220  Zapatillas Unisex Adulto  Naranja  Vintage Orange/White Fd   42.5 EU
+prodname: 'New Balance 220  Zapatillas Unisex Adulto  Naranja  Vintage Orange/White Fd   42.5 EU'
 ---
 
 Tienes [New Balance 220  Zapatillas Unisex Adulto  Naranja  Vintage Orange/White Fd   42.5 EU](https://www.amazon.es/dp/B07DJ21KFR/?tag=tolees-21) con un 54.96 % de descuento con precio de oferta de 36.03 EUR (original: 80 EUR) en el siguiente enlace!

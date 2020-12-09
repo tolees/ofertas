@@ -14,7 +14,7 @@ currency: EUR
 price: 143.61
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Melissa & Doug Cupcake Chef s Kitchen-Pink  Color Rosa  Blanco  14002 
+prodname: 'Melissa & Doug Cupcake Chef s Kitchen-Pink  Color Rosa  Blanco  14002 '
 ---
 
 Tienes [Melissa & Doug Cupcake Chef s Kitchen-Pink  Color Rosa  Blanco  14002 ](https://www.amazon.es/dp/B06XY9KTDW/?tag=tolees-21) con un 28.19 % de descuento con precio de oferta de 143.61 EUR (original: 199.99 EUR) en el siguiente enlace!

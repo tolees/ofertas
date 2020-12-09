@@ -14,7 +14,7 @@ currency: EUR
 price: 11.18
 comparePrice: 21.95 EUR
 inStock: true
-prodname: Joma Skin Pantalones Térmicos  Hombre  Azul  Azul Marino   XS
+prodname: 'Joma Skin Pantalones Térmicos  Hombre  Azul  Azul Marino   XS'
 ---
 
 Tienes [Joma Skin Pantalones Térmicos  Hombre  Azul  Azul Marino   XS](https://www.amazon.es/dp/B00W3RLR3M/?tag=tolees-21) con un 49.07 % de descuento con precio de oferta de 11.18 EUR (original: 21.95 EUR) en el siguiente enlace!

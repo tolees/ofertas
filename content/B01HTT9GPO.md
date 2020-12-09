@@ -14,7 +14,7 @@ currency: EUR
 price: 16.14
 comparePrice: 44.02 EUR
 inStock: true
-prodname: Purina ProPlan Small Age+9 pienso para Perro Adulto Senior Pollo 8 x 700 g
+prodname: 'Purina ProPlan Small Age+9 pienso para Perro Adulto Senior Pollo 8 x 700 g'
 ---
 
 Está [Purina ProPlan Small Age+9 pienso para Perro Adulto Senior Pollo 8 x 700 g](https://www.amazon.es/dp/B01HTT9GPO/?tag=tolees-21) con 63.33 de descuento por 16.14 EUR (original: 44.02 EUR) en el siguiente enlace!

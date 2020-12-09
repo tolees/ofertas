@@ -14,7 +14,7 @@ currency: EUR
 price: 52.45
 comparePrice: 75.0 EUR
 inStock: true
-prodname: CAMPER  Wabi  Herren Flache Hausschuhe  Grau  Dark Gray   39 EU
+prodname: 'CAMPER  Wabi  Herren Flache Hausschuhe  Grau  Dark Gray   39 EU'
 ---
 
 Tienes [CAMPER  Wabi  Herren Flache Hausschuhe  Grau  Dark Gray   39 EU](https://www.amazon.es/dp/B00SALPPWY/?tag=tolees-21) con un 30.07 % de descuento con precio de oferta de 52.45 EUR (original: 75.0 EUR) en el siguiente enlace!

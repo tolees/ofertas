@@ -14,7 +14,7 @@ currency: EUR
 price: 20.15
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Lee Pique  Polo para Hombre  Azul  Dipped Blue La  M
+prodname: 'Lee Pique  Polo para Hombre  Azul  Dipped Blue La  M'
 ---
 
 Ahora mismo tienes [Lee Pique  Polo para Hombre  Azul  Dipped Blue La  M](https://www.amazon.es/dp/B07FTQTG6S/?tag=tolees-21) a 20.15 EUR (original: 39.95 EUR) (49.56 %  de descuento) en el siguiente enlace!

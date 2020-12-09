@@ -14,7 +14,7 @@ currency: EUR
 price: 83.95
 comparePrice: 135.0 EUR
 inStock: true
-prodname: Hunter Original Tall Classic  Botas de Agua para Unisex Adulto  Rojo  Military Red   37 EU
+prodname: 'Hunter Original Tall Classic  Botas de Agua para Unisex Adulto  Rojo  Military Red   37 EU'
 ---
 
 Ahora mismo tienes [Hunter Original Tall Classic  Botas de Agua para Unisex Adulto  Rojo  Military Red   37 EU](https://www.amazon.es/dp/B00K1XBEQ0/?tag=tolees-21) a 83.95 EUR (original: 135.0 EUR) (37.81 %  de descuento) en el siguiente enlace!

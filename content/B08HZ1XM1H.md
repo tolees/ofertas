@@ -14,7 +14,7 @@ currency: EUR
 price: 8.46
 comparePrice: 13.79 EUR
 inStock: true
-prodname: VoJoPi 6 Pares Calcetines Termicos de Mujer  Calcetines Invierno de Lana Frio Extremo  Calcetines Colores Cálidos de Confort Casual  Talla única 35-40
+prodname: 'VoJoPi 6 Pares Calcetines Termicos de Mujer  Calcetines Invierno de Lana Frio Extremo  Calcetines Colores Cálidos de Confort Casual  Talla única 35-40'
 ---
 
 Está [VoJoPi 6 Pares Calcetines Termicos de Mujer  Calcetines Invierno de Lana Frio Extremo  Calcetines Colores Cálidos de Confort Casual  Talla única 35-40](https://www.amazon.es/dp/B08HZ1XM1H/?tag=tolees-21) con 38.65 de descuento por 8.46 EUR (original: 13.79 EUR) en el siguiente enlace!

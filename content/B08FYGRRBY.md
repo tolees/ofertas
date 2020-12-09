@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 46.99 EUR
 inStock: true
-prodname: ENGSWA Collar Mujer Plata de Ley 925 Colgante Nudo de Corazón Regalo para Madre Mamá Abuela Hija Niña Esposa Novia
+prodname: 'ENGSWA Collar Mujer Plata de Ley 925 Colgante Nudo de Corazón Regalo para Madre Mamá Abuela Hija Niña Esposa Novia'
 ---
 
 Tienes [ENGSWA Collar Mujer Plata de Ley 925 Colgante Nudo de Corazón Regalo para Madre Mamá Abuela Hija Niña Esposa Novia](https://www.amazon.es/dp/B08FYGRRBY/?tag=tolees-21) con un 31.92 % de descuento con precio de oferta de 31.99 EUR (original: 46.99 EUR) en el siguiente enlace!

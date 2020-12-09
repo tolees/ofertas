@@ -14,7 +14,7 @@ currency: EUR
 price: 161.91
 comparePrice: 219.99 EUR
 inStock: true
-prodname: Philips 24PFS6855/12 Televisor 24 pulgadas LED  Full HD  HDR 10  Pixel Plus HD  Smart TV  DTS-HD  HDMI modelo 2020/2021  Plateado claro   60 cm
+prodname: 'Philips 24PFS6855/12 Televisor 24 pulgadas LED  Full HD  HDR 10  Pixel Plus HD  Smart TV  DTS-HD  HDMI modelo 2020/2021  Plateado claro   60 cm'
 ---
 
 Tienes [Philips 24PFS6855/12 Televisor 24 pulgadas LED  Full HD  HDR 10  Pixel Plus HD  Smart TV  DTS-HD  HDMI modelo 2020/2021  Plateado claro   60 cm](https://www.amazon.es/dp/B08B6CY7NL/?tag=tolees-21) con un 26.40 % de descuento con precio de oferta de 161.91 EUR (original: 219.99 EUR) en el siguiente enlace!

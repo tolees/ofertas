@@ -14,7 +14,7 @@ currency: EUR
 price: 29.66
 comparePrice: 58.53 EUR
 inStock: true
-prodname: Armand Basi  Agua de perfume para mujeres - 50 ml.
+prodname: 'Armand Basi  Agua de perfume para mujeres - 50 ml.'
 ---
 
 Está [Armand Basi  Agua de perfume para mujeres - 50 ml.](https://www.amazon.es/dp/B001E7SAEQ/?tag=tolees-21) con 49.33 de descuento por 29.66 EUR (original: 58.53 EUR) en el siguiente enlace!

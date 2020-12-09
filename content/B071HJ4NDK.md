@@ -14,7 +14,7 @@ currency: EUR
 price: 20.8
 comparePrice: 54 EUR
 inStock: true
-prodname: Hollister Wave 2 for him eau de toilette spray 100ml
+prodname: 'Hollister Wave 2 for him eau de toilette spray 100ml'
 ---
 
 Ahora mismo tienes [Hollister Wave 2 for him eau de toilette spray 100ml](https://www.amazon.es/dp/B071HJ4NDK/?tag=tolees-21) a 20.8 EUR (original: 54 EUR) (61.48 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 75.99 EUR
 inStock: true
-prodname: Ever-Pretty Vestido de Fiesta Gasa Un Hombro Corte Imperio Plisado sin Mangas para Mujer Morado Oscuro 54
+prodname: 'Ever-Pretty Vestido de Fiesta Gasa Un Hombro Corte Imperio Plisado sin Mangas para Mujer Morado Oscuro 54'
 ---
 
 Está [Ever-Pretty Vestido de Fiesta Gasa Un Hombro Corte Imperio Plisado sin Mangas para Mujer Morado Oscuro 54](https://www.amazon.es/dp/B07KZVBZ4Q/?tag=tolees-21) con 34.22 de descuento por 49.99 EUR (original: 75.99 EUR) en el siguiente enlace!

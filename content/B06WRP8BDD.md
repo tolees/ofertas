@@ -14,7 +14,7 @@ currency: EUR
 price: 929.99
 comparePrice: 1250.61 EUR
 inStock: true
-prodname: Hyundai HY-DHY6000LEK GENERADOR Diesel  14 litros  Negro/Plata
+prodname: 'Hyundai HY-DHY6000LEK GENERADOR Diesel  14 litros  Negro/Plata'
 ---
 
 Ahora mismo tienes [Hyundai HY-DHY6000LEK GENERADOR Diesel  14 litros  Negro/Plata](https://www.amazon.es/dp/B06WRP8BDD/?tag=tolees-21) a 929.99 EUR (original: 1250.61 EUR) (25.64 %  de descuento) en el siguiente enlace!

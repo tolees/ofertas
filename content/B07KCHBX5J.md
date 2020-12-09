@@ -14,7 +14,7 @@ currency: EUR
 price: 13.76
 comparePrice: 34.5 EUR
 inStock: true
-prodname: David Jones - Cm5047  Bolsos totes Mujer  Gris  Grey   13x34x43 cm  W x H L 
+prodname: 'David Jones - Cm5047  Bolsos totes Mujer  Gris  Grey   13x34x43 cm  W x H L '
 ---
 
 Ahora mismo tienes [David Jones - Cm5047  Bolsos totes Mujer  Gris  Grey   13x34x43 cm  W x H L ](https://www.amazon.es/dp/B07KCHBX5J/?tag=tolees-21) a 13.76 EUR (original: 34.5 EUR) (60.12 %  de descuento) en el siguiente enlace!

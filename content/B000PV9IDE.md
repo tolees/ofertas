@@ -14,7 +14,7 @@ currency: EUR
 price: 30.6
 comparePrice: 62.99 EUR
 inStock: true
-prodname: Tristar VE-5933 - Ventilador de suelo con circulador de aire  Metálico  Negro/Plata  30 cm
+prodname: 'Tristar VE-5933 - Ventilador de suelo con circulador de aire  Metálico  Negro/Plata  30 cm'
 ---
 
 Está [Tristar VE-5933 - Ventilador de suelo con circulador de aire  Metálico  Negro/Plata  30 cm](https://www.amazon.es/dp/B000PV9IDE/?tag=tolees-21) con 51.42 de descuento por 30.6 EUR (original: 62.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.19
 comparePrice: 23.59 EUR
 inStock: true
-prodname: Penn State-Opoly
+prodname: 'Penn State-Opoly'
 ---
 
 Tienes [Penn State-Opoly](https://www.amazon.es/dp/B0006HCVTU/?tag=tolees-21) con un 78.00 % de descuento con precio de oferta de 5.19 EUR (original: 23.59 EUR) en el siguiente enlace!

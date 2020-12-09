@@ -14,7 +14,7 @@ currency: EUR
 price: 16.12
 comparePrice: 21.97 EUR
 inStock: true
-prodname: Aloe Vera Puro 500ml - Cultivo controlado 100% ecológico - Hidratante natural - Loción calmante y refrescante para despues del sol - Probado dermatologicamente - Para todo tipo de piel
+prodname: 'Aloe Vera Puro 500ml - Cultivo controlado 100% ecológico - Hidratante natural - Loción calmante y refrescante para despues del sol - Probado dermatologicamente - Para todo tipo de piel'
 ---
 
 Tienes [Aloe Vera Puro 500ml - Cultivo controlado 100% ecológico - Hidratante natural - Loción calmante y refrescante para despues del sol - Probado dermatologicamente - Para todo tipo de piel](https://www.amazon.es/dp/B07PQL7J6J/?tag=tolees-21) con un 26.63 % de descuento con precio de oferta de 16.12 EUR (original: 21.97 EUR) en el siguiente enlace!

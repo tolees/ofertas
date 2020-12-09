@@ -14,7 +14,7 @@ currency: EUR
 price: 8.34
 comparePrice: 11.93 EUR
 inStock: true
-prodname: Umi. by Amazon - Luz nocturna con sensor de oscuridad automático y brillo regulable  3 lm  6 unidades 
+prodname: 'Umi. by Amazon - Luz nocturna con sensor de oscuridad automático y brillo regulable  3 lm  6 unidades '
 ---
 
 Ahora mismo tienes [Umi. by Amazon - Luz nocturna con sensor de oscuridad automático y brillo regulable  3 lm  6 unidades ](https://www.amazon.es/dp/B07V3C8WBG/?tag=tolees-21) a 8.34 EUR (original: 11.93 EUR) (30.09 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 87.7
 comparePrice: 140.15 EUR
 inStock: true
-prodname: Festina F16759/2 - Reloj de cuarzo para hombre  con correa de acero inoxidable  color plateado
+prodname: 'Festina F16759/2 - Reloj de cuarzo para hombre  con correa de acero inoxidable  color plateado'
 ---
 
 Ahora mismo tienes [Festina F16759/2 - Reloj de cuarzo para hombre  con correa de acero inoxidable  color plateado](https://www.amazon.es/dp/B00JOFLKJC/?tag=tolees-21) a 87.7 EUR (original: 140.15 EUR) (37.42 %  de descuento) en el siguiente enlace!

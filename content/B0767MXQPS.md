@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 52.1 EUR
 inStock: true
-prodname: Pack: Narcos 1 + Narcos 2  4 BDs  [Blu-ray]
+prodname: 'Pack: Narcos 1 + Narcos 2  4 BDs  [Blu-ray]'
 ---
 
 Está [Pack: Narcos 1 + Narcos 2  4 BDs  [Blu-ray]](https://www.amazon.es/dp/B0767MXQPS/?tag=tolees-21) con 32.84 de descuento por 34.99 EUR (original: 52.1 EUR) en el siguiente enlace!

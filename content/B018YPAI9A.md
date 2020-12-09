@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 104.06 EUR
 inStock: true
-prodname: Bosch Professional GWS 7-115 E - Amoladora angular  720 W  2800 – 11000 rpm  Ø Disco 115 mm  protección rearranque  en caja 
+prodname: 'Bosch Professional GWS 7-115 E - Amoladora angular  720 W  2800 – 11000 rpm  Ø Disco 115 mm  protección rearranque  en caja '
 ---
 
 Está [Bosch Professional GWS 7-115 E - Amoladora angular  720 W  2800 – 11000 rpm  Ø Disco 115 mm  protección rearranque  en caja ](https://www.amazon.es/dp/B018YPAI9A/?tag=tolees-21) con 42.35 de descuento por 59.99 EUR (original: 104.06 EUR) en el siguiente enlace!

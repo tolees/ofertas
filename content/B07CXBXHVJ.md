@@ -14,7 +14,7 @@ currency: EUR
 price: 13.0
 comparePrice: 25.98 EUR
 inStock: true
-prodname: Forrest Gump [4K UHD + Blu-ray + Blu-ray Extras] [Blu-ray]
+prodname: 'Forrest Gump [4K UHD + Blu-ray + Blu-ray Extras] [Blu-ray]'
 ---
 
 Está [Forrest Gump [4K UHD + Blu-ray + Blu-ray Extras] [Blu-ray]](https://www.amazon.es/dp/B07CXBXHVJ/?tag=tolees-21) con 49.96 de descuento por 13.0 EUR (original: 25.98 EUR) en el siguiente enlace!

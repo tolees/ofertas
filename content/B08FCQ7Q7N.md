@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 18.8 EUR
 inStock: true
-prodname: LNLYY Stranger Things Xiaomi Redmi Note 9 Pro Funda Carcasa Suave Silicona Transparente Case Cover para Xiaomi Redmi Note 9 Pro
+prodname: 'LNLYY Stranger Things Xiaomi Redmi Note 9 Pro Funda Carcasa Suave Silicona Transparente Case Cover para Xiaomi Redmi Note 9 Pro'
 ---
 
 Tienes [LNLYY Stranger Things Xiaomi Redmi Note 9 Pro Funda Carcasa Suave Silicona Transparente Case Cover para Xiaomi Redmi Note 9 Pro](https://www.amazon.es/dp/B08FCQ7Q7N/?tag=tolees-21) con un 57.50 % de descuento con precio de oferta de 7.99 EUR (original: 18.8 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Auricular Bluetooth 5.0  Auricular inalámbrico  micrófono y Caja de Carga incorporados  reducción del Ruido estéreo 3D HD  para Auriculares iPhone/Android/Apple Airpods Pro/Samsung/Huawei Xiaomi
+prodname: 'Auricular Bluetooth 5.0  Auricular inalámbrico  micrófono y Caja de Carga incorporados  reducción del Ruido estéreo 3D HD  para Auriculares iPhone/Android/Apple Airpods Pro/Samsung/Huawei Xiaomi'
 ---
 
 Está [Auricular Bluetooth 5.0  Auricular inalámbrico  micrófono y Caja de Carga incorporados  reducción del Ruido estéreo 3D HD  para Auriculares iPhone/Android/Apple Airpods Pro/Samsung/Huawei Xiaomi](https://www.amazon.es/dp/B08GKW3DL2/?tag=tolees-21) con 30.45 de descuento por 15.99 EUR (original: 22.99 EUR) en el siguiente enlace!

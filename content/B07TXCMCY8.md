@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leather   41.5 EU
+prodname: 'Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leather   41.5 EU'
 ---
 
 Está [Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leather   41.5 EU](https://www.amazon.es/dp/B07TXCMCY8/?tag=tolees-21) con 40.07 de descuento por 59.9 EUR (original: 99.95 EUR) en el siguiente enlace!

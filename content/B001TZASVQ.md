@@ -14,7 +14,7 @@ currency: EUR
 price: 28.1
 comparePrice: 42.4 EUR
 inStock: true
-prodname: Nikka - Whisky Japonés From The Barrel  50 cl
+prodname: 'Nikka - Whisky Japonés From The Barrel  50 cl'
 ---
 
 Tienes [Nikka - Whisky Japonés From The Barrel  50 cl](https://www.amazon.es/dp/B001TZASVQ/?tag=tolees-21) con un 33.73 % de descuento con precio de oferta de 28.1 EUR (original: 42.4 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.9
 comparePrice: 51.58 EUR
 inStock: true
-prodname: BLACK+DECKER KG115K-QS - Amoladora 750W de 115mm
+prodname: 'BLACK+DECKER KG115K-QS - Amoladora 750W de 115mm'
 ---
 
 Está [BLACK+DECKER KG115K-QS - Amoladora 750W de 115mm](https://www.amazon.es/dp/B01CCMV1V0/?tag=tolees-21) con 28.46 de descuento por 36.9 EUR (original: 51.58 EUR) en el siguiente enlace!

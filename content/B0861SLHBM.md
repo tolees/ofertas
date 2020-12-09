@@ -14,7 +14,7 @@ currency: EUR
 price: 7.25
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Garnier Fructis Hair Food Menú Aloe Vera Pack Champú + Acondicionador + Mascarilla para Pelo Normal a Seco - Crea tu Menú Capilar
+prodname: 'Garnier Fructis Hair Food Menú Aloe Vera Pack Champú + Acondicionador + Mascarilla para Pelo Normal a Seco - Crea tu Menú Capilar'
 ---
 
 Tienes [Garnier Fructis Hair Food Menú Aloe Vera Pack Champú + Acondicionador + Mascarilla para Pelo Normal a Seco - Crea tu Menú Capilar](https://www.amazon.es/dp/B0861SLHBM/?tag=tolees-21) con un 27.43 % de descuento con precio de oferta de 7.25 EUR (original: 9.99 EUR) en el siguiente enlace!

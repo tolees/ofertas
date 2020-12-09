@@ -14,7 +14,7 @@ currency: EUR
 price: 35.45
 comparePrice: 74.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Essential Flag Detail Sneaker  Zapatillas para Hombre  Azul  Midnight 403   41 EU
+prodname: 'Tommy Hilfiger Essential Flag Detail Sneaker  Zapatillas para Hombre  Azul  Midnight 403   41 EU'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Essential Flag Detail Sneaker  Zapatillas para Hombre  Azul  Midnight 403   41 EU](https://www.amazon.es/dp/B07L3FRWZN/?tag=tolees-21) a 35.45 EUR (original: 74.9 EUR) (52.67 %  de descuento) en el siguiente enlace!

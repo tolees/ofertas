@@ -14,7 +14,7 @@ currency: EUR
 price: 18.9
 comparePrice: 60 EUR
 inStock: true
-prodname: Kappa MILLA Footwear women - Zapatillas de Deporte de material sintético mujer  Rojo  2529 darkred/coral   37
+prodname: 'Kappa MILLA Footwear women - Zapatillas de Deporte de material sintético mujer  Rojo  2529 darkred/coral   37'
 ---
 
 Ahora mismo tienes [Kappa MILLA Footwear women - Zapatillas de Deporte de material sintético mujer  Rojo  2529 darkred/coral   37](https://www.amazon.es/dp/B00VUQC3VW/?tag=tolees-21) a 18.9 EUR (original: 60 EUR) (68.50 %  de descuento) en el siguiente enlace!

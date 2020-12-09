@@ -14,7 +14,7 @@ currency: EUR
 price: 35.45
 comparePrice: 65 EUR
 inStock: true
-prodname: Nike Legend 7 Academy FG  Zapatillas de Fútbol para Hombre  Negro  Black/Pure Platinum/Lt Crimson 006   42 EU
+prodname: 'Nike Legend 7 Academy FG  Zapatillas de Fútbol para Hombre  Negro  Black/Pure Platinum/Lt Crimson 006   42 EU'
 ---
 
 Ahora mismo tienes [Nike Legend 7 Academy FG  Zapatillas de Fútbol para Hombre  Negro  Black/Pure Platinum/Lt Crimson 006   42 EU](https://www.amazon.es/dp/B0789SKGML/?tag=tolees-21) a 35.45 EUR (original: 65 EUR) (45.46 %  de descuento) en el siguiente enlace!

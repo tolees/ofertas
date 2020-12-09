@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 33.0 EUR
 inStock: true
-prodname: Hasbro Gaming Juego The Game Of Life  Juego De Mesa Para La Familia De 2 A 4 Jugadores  Hasbro E4304105
+prodname: 'Hasbro Gaming Juego The Game Of Life  Juego De Mesa Para La Familia De 2 A 4 Jugadores  Hasbro E4304105'
 ---
 
 Está [Hasbro Gaming Juego The Game Of Life  Juego De Mesa Para La Familia De 2 A 4 Jugadores  Hasbro E4304105](https://www.amazon.es/dp/B07DD3QJ7H/?tag=tolees-21) con 45.61 de descuento por 17.95 EUR (original: 33.0 EUR) en el siguiente enlace!

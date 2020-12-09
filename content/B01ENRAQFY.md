@@ -14,7 +14,7 @@ currency: EUR
 price: 7.59
 comparePrice: 11.68 EUR
 inStock: true
-prodname: Safta Bandolera Minions Oficial Bandolera Pequeña 160x40x180mm
+prodname: 'Safta Bandolera Minions Oficial Bandolera Pequeña 160x40x180mm'
 ---
 
 Está [Safta Bandolera Minions Oficial Bandolera Pequeña 160x40x180mm](https://www.amazon.es/dp/B01ENRAQFY/?tag=tolees-21) con 35.02 de descuento por 7.59 EUR (original: 11.68 EUR) en el siguiente enlace!

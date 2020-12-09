@@ -14,7 +14,7 @@ currency: EUR
 price: 40.94
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Puma Cell Ultimate Point  Zapatillas de Running para Hombre  Gris  Charcoal Gray-Peacoat   39 EU
+prodname: 'Puma Cell Ultimate Point  Zapatillas de Running para Hombre  Gris  Charcoal Gray-Peacoat   39 EU'
 ---
 
 Está [Puma Cell Ultimate Point  Zapatillas de Running para Hombre  Gris  Charcoal Gray-Peacoat   39 EU](https://www.amazon.es/dp/B07DCKKTFT/?tag=tolees-21) con 41.47 de descuento por 40.94 EUR (original: 69.95 EUR) en el siguiente enlace!

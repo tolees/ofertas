@@ -14,7 +14,7 @@ currency: EUR
 price: 14.9
 comparePrice: 29.0 EUR
 inStock: true
-prodname: Huawei Band 4e - Pulsera de actividad de elegante diseño con modo Basket  2 semanas de batería  resistencia al agua 5ATM  sensor de movimiento de 6 ejes  indicador de calorías  Misty Grey
+prodname: 'Huawei Band 4e - Pulsera de actividad de elegante diseño con modo Basket  2 semanas de batería  resistencia al agua 5ATM  sensor de movimiento de 6 ejes  indicador de calorías  Misty Grey'
 ---
 
 Ahora mismo tienes [Huawei Band 4e - Pulsera de actividad de elegante diseño con modo Basket  2 semanas de batería  resistencia al agua 5ATM  sensor de movimiento de 6 ejes  indicador de calorías  Misty Grey](https://www.amazon.es/dp/B07XLMKRCK/?tag=tolees-21) a 14.9 EUR (original: 29.0 EUR) (48.62 %  de descuento) en el siguiente enlace!

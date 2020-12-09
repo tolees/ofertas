@@ -14,7 +14,7 @@ currency: EUR
 price: 11.9
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Dungeons 3 - PS4
+prodname: 'Dungeons 3 - PS4'
 ---
 
 Ahora mismo tienes [Dungeons 3 - PS4](https://www.amazon.es/dp/B0756HZNCN/?tag=tolees-21) a 11.9 EUR (original: 49.99 EUR) (76.20 %  de descuento) en el siguiente enlace!

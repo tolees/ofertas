@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 20.45 EUR
 inStock: true
-prodname: Cecotec ZitrusEasy Basic Exprimidor Naranjas Eléctrico  40 W  Tambor de 1 litro BPA Free  doble sentido de giro  doble cono  cubierta antipolvo  color azul/blanco
+prodname: 'Cecotec ZitrusEasy Basic Exprimidor Naranjas Eléctrico  40 W  Tambor de 1 litro BPA Free  doble sentido de giro  doble cono  cubierta antipolvo  color azul/blanco'
 ---
 
 Ahora mismo tienes [Cecotec ZitrusEasy Basic Exprimidor Naranjas Eléctrico  40 W  Tambor de 1 litro BPA Free  doble sentido de giro  doble cono  cubierta antipolvo  color azul/blanco](https://www.amazon.es/dp/B072VQBBQN/?tag=tolees-21) a 9.9 EUR (original: 20.45 EUR) (51.59 %  de descuento) en el siguiente enlace!

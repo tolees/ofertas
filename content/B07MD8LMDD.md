@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Termómetro digital bluetooth para conocer el estado de cocción de sus asados de carne. 6 sondas largas de lectura. Lectura instantánea. Fácil y seguro de usar sea cual sea el método  barbacoa  horno
+prodname: 'Termómetro digital bluetooth para conocer el estado de cocción de sus asados de carne. 6 sondas largas de lectura. Lectura instantánea. Fácil y seguro de usar sea cual sea el método  barbacoa  horno'
 ---
 
 Ahora mismo tienes [Termómetro digital bluetooth para conocer el estado de cocción de sus asados de carne. 6 sondas largas de lectura. Lectura instantánea. Fácil y seguro de usar sea cual sea el método  barbacoa  horno](https://www.amazon.es/dp/B07MD8LMDD/?tag=tolees-21) a 29.99 EUR (original: 79.99 EUR) (62.51 %  de descuento) en el siguiente enlace!

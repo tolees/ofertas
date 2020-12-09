@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 30.0 EUR
 inStock: true
-prodname: DazSpirit 2.5m LED Luces Estrellas de Navidad Guirnaldas Decorativa Dormitorio con Control Remoto 20 Ganchos - USB o Batería  8 Modos  Caja de Regalo Premium  Impermeable  Interior Exterior  Vistoso
+prodname: 'DazSpirit 2.5m LED Luces Estrellas de Navidad Guirnaldas Decorativa Dormitorio con Control Remoto 20 Ganchos - USB o Batería  8 Modos  Caja de Regalo Premium  Impermeable  Interior Exterior  Vistoso'
 ---
 
 Está [DazSpirit 2.5m LED Luces Estrellas de Navidad Guirnaldas Decorativa Dormitorio con Control Remoto 20 Ganchos - USB o Batería  8 Modos  Caja de Regalo Premium  Impermeable  Interior Exterior  Vistoso](https://www.amazon.es/dp/B08DHXKCDM/?tag=tolees-21) con 46.70 de descuento por 15.99 EUR (original: 30.0 EUR) en el siguiente enlace!

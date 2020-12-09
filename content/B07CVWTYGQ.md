@@ -14,7 +14,7 @@ currency: EUR
 price: 11.98
 comparePrice: 19.98 EUR
 inStock: true
-prodname: Tarjeteros para Tarjetas de Credito Mujer Hombre Piel Carteras de Mujer Hombre  Rosa 
+prodname: 'Tarjeteros para Tarjetas de Credito Mujer Hombre Piel Carteras de Mujer Hombre  Rosa '
 ---
 
 Tienes [Tarjeteros para Tarjetas de Credito Mujer Hombre Piel Carteras de Mujer Hombre  Rosa ](https://www.amazon.es/dp/B07CVWTYGQ/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 11.98 EUR (original: 19.98 EUR) en el siguiente enlace!

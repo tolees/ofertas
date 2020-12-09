@@ -14,7 +14,7 @@ currency: EUR
 price: 28.03
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Superga 2750-cot3strapu  Zapatillas de Gimnasia Unisex Adulto  Negro  Black 999   39.5 EU
+prodname: 'Superga 2750-cot3strapu  Zapatillas de Gimnasia Unisex Adulto  Negro  Black 999   39.5 EU'
 ---
 
 Está [Superga 2750-cot3strapu  Zapatillas de Gimnasia Unisex Adulto  Negro  Black 999   39.5 EU](https://www.amazon.es/dp/B07TYQFRLH/?tag=tolees-21) con 52.49 de descuento por 28.03 EUR (original: 59.0 EUR) en el siguiente enlace!

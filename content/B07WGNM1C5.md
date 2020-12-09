@@ -14,7 +14,7 @@ currency: EUR
 price: 7.27
 comparePrice: 15.99 EUR
 inStock: true
-prodname: AOGUERBE Quitapelos y Rodillos para Mascotas  Cepillo de Limpieza Removedor de Pelaje para Perro y Gato  Mágico Depilación Eliminador de Pelo para Animales Cepillos para Perros
+prodname: 'AOGUERBE Quitapelos y Rodillos para Mascotas  Cepillo de Limpieza Removedor de Pelaje para Perro y Gato  Mágico Depilación Eliminador de Pelo para Animales Cepillos para Perros'
 ---
 
 Ahora mismo tienes [AOGUERBE Quitapelos y Rodillos para Mascotas  Cepillo de Limpieza Removedor de Pelaje para Perro y Gato  Mágico Depilación Eliminador de Pelo para Animales Cepillos para Perros](https://www.amazon.es/dp/B07WGNM1C5/?tag=tolees-21) a 7.27 EUR (original: 15.99 EUR) (54.53 %  de descuento) en el siguiente enlace!

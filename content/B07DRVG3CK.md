@@ -14,7 +14,7 @@ currency: EUR
 price: 200
 comparePrice: 285 EUR
 inStock: true
-prodname: Piquadro Circle Mochila Tipo Casual  36 cm  Rojo  Rosso 
+prodname: 'Piquadro Circle Mochila Tipo Casual  36 cm  Rojo  Rosso '
 ---
 
 Está [Piquadro Circle Mochila Tipo Casual  36 cm  Rojo  Rosso ](https://www.amazon.es/dp/B07DRVG3CK/?tag=tolees-21) con 29.82 de descuento por 200 EUR (original: 285 EUR) en el siguiente enlace!

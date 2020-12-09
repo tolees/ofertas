@@ -14,7 +14,7 @@ currency: EUR
 price: 2.0
 comparePrice: 3.99 EUR
 inStock: true
-prodname: Amscan 9900549  Mantel de Plástico para Mesa  Diseño Cumpleaños  Happy Birthday   137 x 259 cm
+prodname: 'Amscan 9900549  Mantel de Plástico para Mesa  Diseño Cumpleaños  Happy Birthday   137 x 259 cm'
 ---
 
 Tienes [Amscan 9900549  Mantel de Plástico para Mesa  Diseño Cumpleaños  Happy Birthday   137 x 259 cm](https://www.amazon.es/dp/B01DY95NZK/?tag=tolees-21) con un 49.87 % de descuento con precio de oferta de 2.0 EUR (original: 3.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.92
 comparePrice: 35.47 EUR
 inStock: true
-prodname: find. Leather Apron Botas Chukka  Gris Grey  41 EU
+prodname: 'find. Leather Apron Botas Chukka  Gris Grey  41 EU'
 ---
 
 Ahora mismo tienes [find. Leather Apron Botas Chukka  Gris Grey  41 EU](https://www.amazon.es/dp/B07FGKV2BQ/?tag=tolees-21) a 20.92 EUR (original: 35.47 EUR) (41.02 %  de descuento) en el siguiente enlace!

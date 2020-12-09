@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Nier Automata
+prodname: 'Nier Automata'
 ---
 
 Tienes [Nier Automata](https://www.amazon.es/dp/B06XPKL8GS/?tag=tolees-21) con un 60.09 % de descuento con precio de oferta de 19.95 EUR (original: 49.99 EUR) en el siguiente enlace!

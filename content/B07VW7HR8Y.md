@@ -14,7 +14,7 @@ currency: EUR
 price: 48.99
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Dolce Gusto Piccolo XS EDG210.R Cafetera de cápsulas  15 bares de presión  diseño compacto  1400 W  Steel  Rojo
+prodname: 'Dolce Gusto Piccolo XS EDG210.R Cafetera de cápsulas  15 bares de presión  diseño compacto  1400 W  Steel  Rojo'
 ---
 
 Ahora mismo tienes [Dolce Gusto Piccolo XS EDG210.R Cafetera de cápsulas  15 bares de presión  diseño compacto  1400 W  Steel  Rojo](https://www.amazon.es/dp/B07VW7HR8Y/?tag=tolees-21) a 48.99 EUR (original: 79.0 EUR) (37.99 %  de descuento) en el siguiente enlace!

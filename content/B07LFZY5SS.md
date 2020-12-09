@@ -14,7 +14,7 @@ currency: EUR
 price: 25.75
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox D ANNYTAH Moc A  Mocasines Mujer  Azul  Dk Blue C4007   36.5 EU
+prodname: 'Geox D ANNYTAH Moc A  Mocasines Mujer  Azul  Dk Blue C4007   36.5 EU'
 ---
 
 Ahora mismo tienes [Geox D ANNYTAH Moc A  Mocasines Mujer  Azul  Dk Blue C4007   36.5 EU](https://www.amazon.es/dp/B07LFZY5SS/?tag=tolees-21) a 25.75 EUR (original: 99.9 EUR) (74.22 %  de descuento) en el siguiente enlace!

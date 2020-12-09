@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 25.98 EUR
 inStock: true
-prodname: Fesjoy WiFi Repeater Pro Extender 300Mbps Red inalámbrica Router Mejora de señal
+prodname: 'Fesjoy WiFi Repeater Pro Extender 300Mbps Red inalámbrica Router Mejora de señal'
 ---
 
 Ahora mismo tienes [Fesjoy WiFi Repeater Pro Extender 300Mbps Red inalámbrica Router Mejora de señal](https://www.amazon.es/dp/B08DRKXPC9/?tag=tolees-21) a 12.99 EUR (original: 25.98 EUR) (50.00 %  de descuento) en el siguiente enlace!

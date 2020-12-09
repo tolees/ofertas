@@ -14,7 +14,7 @@ currency: EUR
 price: 9.35
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Duracell Ultra AAA con Powerchek  Pilas Alcalinas  Paquete de 12  1 5 Voltios LR03 MN2400
+prodname: 'Duracell Ultra AAA con Powerchek  Pilas Alcalinas  Paquete de 12  1 5 Voltios LR03 MN2400'
 ---
 
 Ahora mismo tienes [Duracell Ultra AAA con Powerchek  Pilas Alcalinas  Paquete de 12  1 5 Voltios LR03 MN2400](https://www.amazon.es/dp/B004BQXSXK/?tag=tolees-21) a 9.35 EUR (original: 14.99 EUR) (37.63 %  de descuento) en el siguiente enlace!

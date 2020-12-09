@@ -14,7 +14,7 @@ currency: EUR
 price: 62.75
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Puma SF Drift Cat 5 Ultra II 306422-03  Zapatillas para Hombre  Noir Blanc  42.5 EU
+prodname: 'Puma SF Drift Cat 5 Ultra II 306422-03  Zapatillas para Hombre  Noir Blanc  42.5 EU'
 ---
 
 Está [Puma SF Drift Cat 5 Ultra II 306422-03  Zapatillas para Hombre  Noir Blanc  42.5 EU](https://www.amazon.es/dp/B07QHNZJLR/?tag=tolees-21) con 37.22 de descuento por 62.75 EUR (original: 99.95 EUR) en el siguiente enlace!

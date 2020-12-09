@@ -14,7 +14,7 @@ currency: EUR
 price: 50
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance 574v2  Zapatillas para Hombre  Beige Hemp Ebe  49 EU
+prodname: 'New Balance 574v2  Zapatillas para Hombre  Beige Hemp Ebe  49 EU'
 ---
 
 Ahora mismo tienes [New Balance 574v2  Zapatillas para Hombre  Beige Hemp Ebe  49 EU](https://www.amazon.es/dp/B06XWVHZ9C/?tag=tolees-21) a 50 EUR (original: 90 EUR) (44.44 %  de descuento) en el siguiente enlace!

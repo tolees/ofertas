@@ -14,7 +14,7 @@ currency: EUR
 price: 52.49
 comparePrice: 74.99 EUR
 inStock: true
-prodname: Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adulto  Azul Navy Blazer Mallard Blue Hawaiian Surf  38 EU
+prodname: 'Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adulto  Azul Navy Blazer Mallard Blue Hawaiian Surf  38 EU'
 ---
 
 Tienes [Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adulto  Azul Navy Blazer Mallard Blue Hawaiian Surf  38 EU](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 52.49 EUR (original: 74.99 EUR) en el siguiente enlace!

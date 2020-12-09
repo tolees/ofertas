@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Magichome Vibrador Masajeador para Mujer con 10 Modos de Vibración Más Fuerte Diseño Ergonómico Recargable y Impermeable  Rosa
+prodname: 'Magichome Vibrador Masajeador para Mujer con 10 Modos de Vibración Más Fuerte Diseño Ergonómico Recargable y Impermeable  Rosa'
 ---
 
 Está [Magichome Vibrador Masajeador para Mujer con 10 Modos de Vibración Más Fuerte Diseño Ergonómico Recargable y Impermeable  Rosa](https://www.amazon.es/dp/B06XDN6ZF6/?tag=tolees-21) con 45.01 de descuento por 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!

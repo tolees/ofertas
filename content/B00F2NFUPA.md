@@ -14,7 +14,7 @@ currency: EUR
 price: 18.16
 comparePrice: 32.52 EUR
 inStock: true
-prodname: Bellota 228-A C.M. - Azada con mango para agricultura y jardinería
+prodname: 'Bellota 228-A C.M. - Azada con mango para agricultura y jardinería'
 ---
 
 Está [Bellota 228-A C.M. - Azada con mango para agricultura y jardinería](https://www.amazon.es/dp/B00F2NFUPA/?tag=tolees-21) con 44.16 de descuento por 18.16 EUR (original: 32.52 EUR) en el siguiente enlace!

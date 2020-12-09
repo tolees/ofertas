@@ -14,7 +14,7 @@ currency: EUR
 price: 5.44
 comparePrice: 13.34 EUR
 inStock: true
-prodname: Edward Mani Di Forbice  SE Rimasterizzata 25o Anniversario  [Italia] [Blu-ray]
+prodname: 'Edward Mani Di Forbice  SE Rimasterizzata 25o Anniversario  [Italia] [Blu-ray]'
 ---
 
 Está [Edward Mani Di Forbice  SE Rimasterizzata 25o Anniversario  [Italia] [Blu-ray]](https://www.amazon.es/dp/B015YDM7IK/?tag=tolees-21) con 59.22 de descuento por 5.44 EUR (original: 13.34 EUR) en el siguiente enlace!

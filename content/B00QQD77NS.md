@@ -14,7 +14,7 @@ currency: EUR
 price: 7.22
 comparePrice: 32.27 EUR
 inStock: true
-prodname: VILA CLOTHES VIMASK BLAZER  Chaqueta de traje Mujer  Multicolor  Black Iris   40  Talla del fabricante: Large 
+prodname: 'VILA CLOTHES VIMASK BLAZER  Chaqueta de traje Mujer  Multicolor  Black Iris   40  Talla del fabricante: Large '
 ---
 
 Está [VILA CLOTHES VIMASK BLAZER  Chaqueta de traje Mujer  Multicolor  Black Iris   40  Talla del fabricante: Large ](https://www.amazon.es/dp/B00QQD77NS/?tag=tolees-21) con 77.63 de descuento por 7.22 EUR (original: 32.27 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.35
 comparePrice: 39.99 EUR
 inStock: true
-prodname: edc by Esprit 106cc1j007 Sudadera  Gris  Light Grey 5   36  Talla del Fabricante: Small  para Mujer
+prodname: 'edc by Esprit 106cc1j007 Sudadera  Gris  Light Grey 5   36  Talla del Fabricante: Small  para Mujer'
 ---
 
 Está [edc by Esprit 106cc1j007 Sudadera  Gris  Light Grey 5   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B01LZB46EL/?tag=tolees-21) con 74.12 de descuento por 10.35 EUR (original: 39.99 EUR) en el siguiente enlace!

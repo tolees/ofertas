@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Luz Nocturna Infantil  Blusea Lampara Nocturna Enchufe con Sensor de Luz Automático  Luz Quitamiedos Infantil para Niños  Habitación Bebé  Dormitorio  Sala  Garaje  Baño  Pasillos  Cocina  1 
+prodname: 'Luz Nocturna Infantil  Blusea Lampara Nocturna Enchufe con Sensor de Luz Automático  Luz Quitamiedos Infantil para Niños  Habitación Bebé  Dormitorio  Sala  Garaje  Baño  Pasillos  Cocina  1 '
 ---
 
 Ahora mismo tienes [Luz Nocturna Infantil  Blusea Lampara Nocturna Enchufe con Sensor de Luz Automático  Luz Quitamiedos Infantil para Niños  Habitación Bebé  Dormitorio  Sala  Garaje  Baño  Pasillos  Cocina  1 ](https://www.amazon.es/dp/B07NBSDPDK/?tag=tolees-21) a 6.99 EUR (original: 13.99 EUR) (50.04 %  de descuento) en el siguiente enlace!

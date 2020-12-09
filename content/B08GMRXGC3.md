@@ -14,7 +14,7 @@ currency: EUR
 price: 25.33
 comparePrice: 59.99 EUR
 inStock: true
-prodname: WRC 9. World Rally Championship 9: The Official Game - Versión Española  PS4 
+prodname: 'WRC 9. World Rally Championship 9: The Official Game - Versión Española  PS4 '
 ---
 
 Está [WRC 9. World Rally Championship 9: The Official Game - Versión Española  PS4 ](https://www.amazon.es/dp/B08GMRXGC3/?tag=tolees-21) con 57.78 de descuento por 25.33 EUR (original: 59.99 EUR) en el siguiente enlace!

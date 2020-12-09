@@ -14,7 +14,7 @@ currency: EUR
 price: 12.14
 comparePrice: 18.97 EUR
 inStock: true
-prodname: ROCKBROS Gafas de Sol Polarizadas con 5 Lentes Intercambiables para Ciclismo Bicicleta Running Deportes Protección UV 400 Anti Viento para Hombre y Mujer
+prodname: 'ROCKBROS Gafas de Sol Polarizadas con 5 Lentes Intercambiables para Ciclismo Bicicleta Running Deportes Protección UV 400 Anti Viento para Hombre y Mujer'
 ---
 
 Está [ROCKBROS Gafas de Sol Polarizadas con 5 Lentes Intercambiables para Ciclismo Bicicleta Running Deportes Protección UV 400 Anti Viento para Hombre y Mujer](https://www.amazon.es/dp/B06XHSR8FT/?tag=tolees-21) con 36.00 de descuento por 12.14 EUR (original: 18.97 EUR) en el siguiente enlace!

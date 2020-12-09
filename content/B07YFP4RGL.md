@@ -14,7 +14,7 @@ currency: EUR
 price: 16.78
 comparePrice: 33.57 EUR
 inStock: true
-prodname: IceUnicorn Zapatos para bebé para aprender a andar  de piel suave  suela de ante antideslizante  color  talla 6-12 meses
+prodname: 'IceUnicorn Zapatos para bebé para aprender a andar  de piel suave  suela de ante antideslizante  color  talla 6-12 meses'
 ---
 
 Está [IceUnicorn Zapatos para bebé para aprender a andar  de piel suave  suela de ante antideslizante  color  talla 6-12 meses](https://www.amazon.es/dp/B07YFP4RGL/?tag=tolees-21) con 50.01 de descuento por 16.78 EUR (original: 33.57 EUR) en el siguiente enlace!

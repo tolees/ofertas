@@ -14,7 +14,7 @@ currency: EUR
 price: 30.15
 comparePrice: 42.85 EUR
 inStock: true
-prodname: KARACTERMANIA Frozen Wind - Maleta Trolley Soft 3D  Multicolor
+prodname: 'KARACTERMANIA Frozen Wind - Maleta Trolley Soft 3D  Multicolor'
 ---
 
 Está [KARACTERMANIA Frozen Wind - Maleta Trolley Soft 3D  Multicolor](https://www.amazon.es/dp/B07ZTPDCFQ/?tag=tolees-21) con 29.64 de descuento por 30.15 EUR (original: 42.85 EUR) en el siguiente enlace!

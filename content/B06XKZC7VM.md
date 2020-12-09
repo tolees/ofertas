@@ -14,7 +14,7 @@ currency: EUR
 price: 27.3
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox D Ophira A  Zapatillas para Mujer  Marrón  Taupe   41 EU
+prodname: 'Geox D Ophira A  Zapatillas para Mujer  Marrón  Taupe   41 EU'
 ---
 
 Tienes [Geox D Ophira A  Zapatillas para Mujer  Marrón  Taupe   41 EU](https://www.amazon.es/dp/B06XKZC7VM/?tag=tolees-21) con un 72.67 % de descuento con precio de oferta de 27.3 EUR (original: 99.9 EUR) en el siguiente enlace!

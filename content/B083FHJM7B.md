@@ -14,7 +14,7 @@ currency: EUR
 price: 23.45
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Lacoste TH2166 Camiseta  Azul Marino  L para Hombre
+prodname: 'Lacoste TH2166 Camiseta  Azul Marino  L para Hombre'
 ---
 
 Ahora mismo tienes [Lacoste TH2166 Camiseta  Azul Marino  L para Hombre](https://www.amazon.es/dp/B083FHJM7B/?tag=tolees-21) a 23.45 EUR (original: 50.0 EUR) (53.10 %  de descuento) en el siguiente enlace!

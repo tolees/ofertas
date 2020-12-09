@@ -14,7 +14,7 @@ currency: EUR
 price: 6.39
 comparePrice: 9.95 EUR
 inStock: true
-prodname: Gliss Long&Sublime by @mypeeptoes  1 pack 
+prodname: 'Gliss Long&Sublime by @mypeeptoes  1 pack '
 ---
 
 Está [Gliss Long&Sublime by @mypeeptoes  1 pack ](https://www.amazon.es/dp/B07D4PX9GG/?tag=tolees-21) con 35.78 de descuento por 6.39 EUR (original: 9.95 EUR) en el siguiente enlace!

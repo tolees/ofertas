@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Dressystar Vestidos Coctel Corto Vintage 50s 60s Manga Corta Rockabilly Elegante Mujer Negro Blanco Lunares B L
+prodname: 'Dressystar Vestidos Coctel Corto Vintage 50s 60s Manga Corta Rockabilly Elegante Mujer Negro Blanco Lunares B L'
 ---
 
 Ahora mismo tienes [Dressystar Vestidos Coctel Corto Vintage 50s 60s Manga Corta Rockabilly Elegante Mujer Negro Blanco Lunares B L](https://www.amazon.es/dp/B01I2NFIS0/?tag=tolees-21) a 26.99 EUR (original: 59.99 EUR) (55.01 %  de descuento) en el siguiente enlace!

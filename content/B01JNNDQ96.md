@@ -14,7 +14,7 @@ currency: EUR
 price: 41.61
 comparePrice: 80 EUR
 inStock: true
-prodname: Volcom Kinkade Pantalones  Hombre  Azul  Vaquero   38
+prodname: 'Volcom Kinkade Pantalones  Hombre  Azul  Vaquero   38'
 ---
 
 Tienes [Volcom Kinkade Pantalones  Hombre  Azul  Vaquero   38](https://www.amazon.es/dp/B01JNNDQ96/?tag=tolees-21) con un 47.99 % de descuento con precio de oferta de 41.61 EUR (original: 80 EUR) en el siguiente enlace!

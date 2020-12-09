@@ -14,7 +14,7 @@ currency: EUR
 price: 17.9
 comparePrice: 32.75 EUR
 inStock: true
-prodname: Tefal Brut - Sarten de aluminio  recubrimiento antiadherente reforzado con minerales  apta para todo tipo de cocinas e inducción  indicador de calor Thermo-Spot - Fabricada en Francia
+prodname: 'Tefal Brut - Sarten de aluminio  recubrimiento antiadherente reforzado con minerales  apta para todo tipo de cocinas e inducción  indicador de calor Thermo-Spot - Fabricada en Francia'
 ---
 
 Está [Tefal Brut - Sarten de aluminio  recubrimiento antiadherente reforzado con minerales  apta para todo tipo de cocinas e inducción  indicador de calor Thermo-Spot - Fabricada en Francia](https://www.amazon.es/dp/B07DGNWTZ3/?tag=tolees-21) con 45.34 de descuento por 17.9 EUR (original: 32.75 EUR) en el siguiente enlace!

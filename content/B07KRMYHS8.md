@@ -14,7 +14,7 @@ currency: EUR
 price: 41.82
 comparePrice: 70.0 EUR
 inStock: true
-prodname: New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Navy White/Navy   42.5 EU
+prodname: 'New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Navy White/Navy   42.5 EU'
 ---
 
 Está [New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Navy White/Navy   42.5 EU](https://www.amazon.es/dp/B07KRMYHS8/?tag=tolees-21) con 40.26 de descuento por 41.82 EUR (original: 70.0 EUR) en el siguiente enlace!

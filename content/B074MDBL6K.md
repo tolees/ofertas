@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 62.68 EUR
 inStock: true
-prodname: La Silla Española Ribadeo Silla de Oficina sin Reposacabezas  Poliéster y Rejilla  Gris  61x58x89 cm
+prodname: 'La Silla Española Ribadeo Silla de Oficina sin Reposacabezas  Poliéster y Rejilla  Gris  61x58x89 cm'
 ---
 
 Está [La Silla Española Ribadeo Silla de Oficina sin Reposacabezas  Poliéster y Rejilla  Gris  61x58x89 cm](https://www.amazon.es/dp/B074MDBL6K/?tag=tolees-21) con 28.21 de descuento por 45.0 EUR (original: 62.68 EUR) en el siguiente enlace!

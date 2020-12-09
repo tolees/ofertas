@@ -14,7 +14,7 @@ currency: EUR
 price: 8.72
 comparePrice: 17.99 EUR
 inStock: true
-prodname: ONLY NOS onlSILVERY S/S V Neck Lurex Top JRS Noos Camiseta  Azul  Night Sky   44  Talla del Fabricante: X-Large  para Mujer
+prodname: 'ONLY NOS onlSILVERY S/S V Neck Lurex Top JRS Noos Camiseta  Azul  Night Sky   44  Talla del Fabricante: X-Large  para Mujer'
 ---
 
 Está [ONLY NOS onlSILVERY S/S V Neck Lurex Top JRS Noos Camiseta  Azul  Night Sky   44  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B06WRP39DL/?tag=tolees-21) con 51.53 de descuento por 8.72 EUR (original: 17.99 EUR) en el siguiente enlace!

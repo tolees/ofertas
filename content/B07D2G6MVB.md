@@ -14,7 +14,7 @@ currency: EUR
 price: 59.4
 comparePrice: 100 EUR
 inStock: true
-prodname: Levi s 6353 Original Fit Vaqueros  Gris  Mlk Warp 2649   33W / 32L para Hombre
+prodname: 'Levi s 6353 Original Fit Vaqueros  Gris  Mlk Warp 2649   33W / 32L para Hombre'
 ---
 
 Ahora mismo tienes [Levi s 6353 Original Fit Vaqueros  Gris  Mlk Warp 2649   33W / 32L para Hombre](https://www.amazon.es/dp/B07D2G6MVB/?tag=tolees-21) a 59.4 EUR (original: 100 EUR) (40.60 %  de descuento) en el siguiente enlace!

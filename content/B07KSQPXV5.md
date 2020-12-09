@@ -14,7 +14,7 @@ currency: EUR
 price: 62.69
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Powder Lite - Chaqueta con capucha  Hombre  Negro  L
+prodname: 'Columbia Powder Lite - Chaqueta con capucha  Hombre  Negro  L'
 ---
 
 Está [Columbia Powder Lite - Chaqueta con capucha  Hombre  Negro  L](https://www.amazon.es/dp/B07KSQPXV5/?tag=tolees-21) con 47.75 de descuento por 62.69 EUR (original: 119.99 EUR) en el siguiente enlace!

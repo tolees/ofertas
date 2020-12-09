@@ -14,7 +14,7 @@ currency: EUR
 price: 30.65
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Tommy Jeans TJM Essential Chino Short Bañador  Blau  Limoges 434   30W x 32L para Hombre
+prodname: 'Tommy Jeans TJM Essential Chino Short Bañador  Blau  Limoges 434   30W x 32L para Hombre'
 ---
 
 Ahora mismo tienes [Tommy Jeans TJM Essential Chino Short Bañador  Blau  Limoges 434   30W x 32L para Hombre](https://www.amazon.es/dp/B07LBLWLMV/?tag=tolees-21) a 30.65 EUR (original: 69.9 EUR) (56.15 %  de descuento) en el siguiente enlace!

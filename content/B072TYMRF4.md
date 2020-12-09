@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Calcetines Invisibles Hombre Calcetines Cortos de Algodon Para Verano  Hombre Respirable Calcetines de Deporte e Informal  Antideslizante  3 Pares
+prodname: 'Calcetines Invisibles Hombre Calcetines Cortos de Algodon Para Verano  Hombre Respirable Calcetines de Deporte e Informal  Antideslizante  3 Pares'
 ---
 
 Tienes [Calcetines Invisibles Hombre Calcetines Cortos de Algodon Para Verano  Hombre Respirable Calcetines de Deporte e Informal  Antideslizante  3 Pares](https://www.amazon.es/dp/B072TYMRF4/?tag=tolees-21) con un 59.28 % de descuento con precio de oferta de 10.99 EUR (original: 26.99 EUR) en el siguiente enlace!

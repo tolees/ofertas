@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 25 EUR
 inStock: true
-prodname: The North Face S/S Simple Dome Camiseta de Manga Corta  Hombre  Garden Green  S
+prodname: 'The North Face S/S Simple Dome Camiseta de Manga Corta  Hombre  Garden Green  S'
 ---
 
 Tienes [The North Face S/S Simple Dome Camiseta de Manga Corta  Hombre  Garden Green  S](https://www.amazon.es/dp/B07MN26ZDN/?tag=tolees-21) con un 40.20 % de descuento con precio de oferta de 14.95 EUR (original: 25 EUR) en el siguiente enlace!

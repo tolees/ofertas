@@ -14,7 +14,7 @@ currency: EUR
 price: 10.79
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Winbang Filtros de café  filtros reutilizables Cápsula de máquina de café compatible con la máquina de café ILLY X9 X8 X7.1 Y5 Y3 Y1.1 Cubierta de cápsula de acero inoxidable
+prodname: 'Winbang Filtros de café  filtros reutilizables Cápsula de máquina de café compatible con la máquina de café ILLY X9 X8 X7.1 Y5 Y3 Y1.1 Cubierta de cápsula de acero inoxidable'
 ---
 
 Tienes [Winbang Filtros de café  filtros reutilizables Cápsula de máquina de café compatible con la máquina de café ILLY X9 X8 X7.1 Y5 Y3 Y1.1 Cubierta de cápsula de acero inoxidable](https://www.amazon.es/dp/B07W4JLQ3S/?tag=tolees-21) con un 32.52 % de descuento con precio de oferta de 10.79 EUR (original: 15.99 EUR) en el siguiente enlace!

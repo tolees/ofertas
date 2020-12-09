@@ -14,7 +14,7 @@ currency: EUR
 price: 77.69
 comparePrice: 180 EUR
 inStock: true
-prodname: BOSS Hugo 0888/S IR 0T8 Gafas de Sol  Negro  Bkivryhvn BK/Grey Blue   49 Unisex-Adulto
+prodname: 'BOSS Hugo 0888/S IR 0T8 Gafas de Sol  Negro  Bkivryhvn BK/Grey Blue   49 Unisex-Adulto'
 ---
 
 Ahora mismo tienes [BOSS Hugo 0888/S IR 0T8 Gafas de Sol  Negro  Bkivryhvn BK/Grey Blue   49 Unisex-Adulto](https://www.amazon.es/dp/B06XKFHTTN/?tag=tolees-21) a 77.69 EUR (original: 180 EUR) (56.84 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 28.95
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Puma NRGY Comet  Zapatillas de Running Unisex Adults o  Azul  Peacoat-Blazing Yellow   41 EU
+prodname: 'Puma NRGY Comet  Zapatillas de Running Unisex Adults o  Azul  Peacoat-Blazing Yellow   41 EU'
 ---
 
 Ahora mismo tienes [Puma NRGY Comet  Zapatillas de Running Unisex Adults o  Azul  Peacoat-Blazing Yellow   41 EU](https://www.amazon.es/dp/B07F2JYRDJ/?tag=tolees-21) a 28.95 EUR (original: 54.95 EUR) (47.32 %  de descuento) en el siguiente enlace!

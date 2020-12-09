@@ -14,7 +14,7 @@ currency: EUR
 price: 30.22
 comparePrice: 65 EUR
 inStock: true
-prodname: Pepe Jeans Sloane  Pantalones Hombre  Azul  Union Blue   W50/L34  Talla del Fabricante: 32 
+prodname: 'Pepe Jeans Sloane  Pantalones Hombre  Azul  Union Blue   W50/L34  Talla del Fabricante: 32 '
 ---
 
 Tienes [Pepe Jeans Sloane  Pantalones Hombre  Azul  Union Blue   W50/L34  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B06XNJMT8Z/?tag=tolees-21) con un 53.51 % de descuento con precio de oferta de 30.22 EUR (original: 65 EUR) en el siguiente enlace!

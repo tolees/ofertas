@@ -14,7 +14,7 @@ currency: EUR
 price: 6.54
 comparePrice: 29.99 EUR
 inStock: true
-prodname: PIECES Pcjane LS Wool Knit Noos suéter  Marrón  Ginger Snap   40  Talla del Fabricante: Large  para Mujer
+prodname: 'PIECES Pcjane LS Wool Knit Noos suéter  Marrón  Ginger Snap   40  Talla del Fabricante: Large  para Mujer'
 ---
 
 Ahora mismo tienes [PIECES Pcjane LS Wool Knit Noos suéter  Marrón  Ginger Snap   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B072LCVVM6/?tag=tolees-21) a 6.54 EUR (original: 29.99 EUR) (78.19 %  de descuento) en el siguiente enlace!

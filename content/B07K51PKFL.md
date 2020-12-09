@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Lámpara LED Uñas 48W Secador de Uñas Semipermanente UV 30 LED Para Manicura Shellac y Gel Sensor Automático 4 temporizadores Base extraíble de ELEHOT  BLANCO 
+prodname: 'Lámpara LED Uñas 48W Secador de Uñas Semipermanente UV 30 LED Para Manicura Shellac y Gel Sensor Automático 4 temporizadores Base extraíble de ELEHOT  BLANCO '
 ---
 
 Tienes [Lámpara LED Uñas 48W Secador de Uñas Semipermanente UV 30 LED Para Manicura Shellac y Gel Sensor Automático 4 temporizadores Base extraíble de ELEHOT  BLANCO ](https://www.amazon.es/dp/B07K51PKFL/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.44
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Dockers by Gerli 43fa302  Botas Militar para Mujer  Gris  Ice 260   39 EU
+prodname: 'Dockers by Gerli 43fa302  Botas Militar para Mujer  Gris  Ice 260   39 EU'
 ---
 
 Está [Dockers by Gerli 43fa302  Botas Militar para Mujer  Gris  Ice 260   39 EU](https://www.amazon.es/dp/B07DJLK81Z/?tag=tolees-21) con 65.90 de descuento por 20.44 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.08
 comparePrice: 6.0 EUR
 inStock: true
-prodname: Avène Eau Thermale Spring Water Crema - 50 ml
+prodname: 'Avène Eau Thermale Spring Water Crema - 50 ml'
 ---
 
 Tienes [Avène Eau Thermale Spring Water Crema - 50 ml](https://www.amazon.es/dp/B005JA1PPA/?tag=tolees-21) con un 48.67 % de descuento con precio de oferta de 3.08 EUR (original: 6.0 EUR) en el siguiente enlace!

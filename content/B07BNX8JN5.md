@@ -14,7 +14,7 @@ currency: EUR
 price: 55.63
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Canyon Point Mid Leather Omni-Tech  Zapatillas de Senderismo para Hombre  Gris  Dark Grey  Madder Brown 089   46 EU
+prodname: 'Columbia Canyon Point Mid Leather Omni-Tech  Zapatillas de Senderismo para Hombre  Gris  Dark Grey  Madder Brown 089   46 EU'
 ---
 
 Tienes [Columbia Canyon Point Mid Leather Omni-Tech  Zapatillas de Senderismo para Hombre  Gris  Dark Grey  Madder Brown 089   46 EU](https://www.amazon.es/dp/B07BNX8JN5/?tag=tolees-21) con un 53.64 % de descuento con precio de oferta de 55.63 EUR (original: 119.99 EUR) en el siguiente enlace!

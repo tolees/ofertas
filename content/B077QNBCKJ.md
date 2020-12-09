@@ -14,7 +14,7 @@ currency: EUR
 price: 15.95
 comparePrice: 22.9 EUR
 inStock: true
-prodname: Urban Classics Block Swim Shorts Bañador de natación  Negro  3XL para Hombre
+prodname: 'Urban Classics Block Swim Shorts Bañador de natación  Negro  3XL para Hombre'
 ---
 
 Tienes [Urban Classics Block Swim Shorts Bañador de natación  Negro  3XL para Hombre](https://www.amazon.es/dp/B077QNBCKJ/?tag=tolees-21) con un 30.35 % de descuento con precio de oferta de 15.95 EUR (original: 22.9 EUR) en el siguiente enlace!

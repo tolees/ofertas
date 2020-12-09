@@ -14,7 +14,7 @@ currency: EUR
 price: 14
 comparePrice: 20 EUR
 inStock: true
-prodname: AURIQUE Pantalón Tiro Caído Mujer  Negro  Black   X-Large
+prodname: 'AURIQUE Pantalón Tiro Caído Mujer  Negro  Black   X-Large'
 ---
 
 Está [AURIQUE Pantalón Tiro Caído Mujer  Negro  Black   X-Large](https://www.amazon.es/dp/B01MZZJQIV/?tag=tolees-21) con 30.00 de descuento por 14 EUR (original: 20 EUR) en el siguiente enlace!

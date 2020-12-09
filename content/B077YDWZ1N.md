@@ -14,7 +14,7 @@ currency: EUR
 price: 6.58
 comparePrice: 15.95 EUR
 inStock: true
-prodname: HIKARO AMA SHIPLEY camisetas  Azul  Aqua   42  Talla del fabricante: Large 
+prodname: 'HIKARO AMA SHIPLEY camisetas  Azul  Aqua   42  Talla del fabricante: Large '
 ---
 
 Tienes [HIKARO AMA SHIPLEY camisetas  Azul  Aqua   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077YDWZ1N/?tag=tolees-21) con un 58.75 % de descuento con precio de oferta de 6.58 EUR (original: 15.95 EUR) en el siguiente enlace!

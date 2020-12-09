@@ -14,7 +14,7 @@ currency: EUR
 price: 26.01
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Breaker Suede  Zapatillas Unisex Adulto  Azul White-Light Sky  40.5 EU
+prodname: 'Puma Breaker Suede  Zapatillas Unisex Adulto  Azul White-Light Sky  40.5 EU'
 ---
 
 Ahora mismo tienes [Puma Breaker Suede  Zapatillas Unisex Adulto  Azul White-Light Sky  40.5 EU](https://www.amazon.es/dp/B07DCHK9GT/?tag=tolees-21) a 26.01 EUR (original: 89.95 EUR) (71.08 %  de descuento) en el siguiente enlace!

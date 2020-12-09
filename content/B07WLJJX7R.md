@@ -14,7 +14,7 @@ currency: EUR
 price: 7.49
 comparePrice: 9.99 EUR
 inStock: true
-prodname: LEGO City Police - Policía: Unidad Canina  Set de Construcción  Incluye Coche de Policía de Juguete  Agente de Policía y Perro Policía  un Escenario de Joyería  y un Ladrón  60241 
+prodname: 'LEGO City Police - Policía: Unidad Canina  Set de Construcción  Incluye Coche de Policía de Juguete  Agente de Policía y Perro Policía  un Escenario de Joyería  y un Ladrón  60241 '
 ---
 
 Ahora mismo tienes [LEGO City Police - Policía: Unidad Canina  Set de Construcción  Incluye Coche de Policía de Juguete  Agente de Policía y Perro Policía  un Escenario de Joyería  y un Ladrón  60241 ](https://www.amazon.es/dp/B07WLJJX7R/?tag=tolees-21) a 7.49 EUR (original: 9.99 EUR) (25.03 %  de descuento) en el siguiente enlace!

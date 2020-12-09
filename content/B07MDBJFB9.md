@@ -14,7 +14,7 @@ currency: EUR
 price: 36.22
 comparePrice: 79.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 1\2  Pantalones cortos para Hombre  Negro  black 990   W33
+prodname: 'G-STAR RAW 3301 1\2  Pantalones cortos para Hombre  Negro  black 990   W33'
 ---
 
 Tienes [G-STAR RAW 3301 1\2  Pantalones cortos para Hombre  Negro  black 990   W33](https://www.amazon.es/dp/B07MDBJFB9/?tag=tolees-21) con un 54.70 % de descuento con precio de oferta de 36.22 EUR (original: 79.95 EUR) en el siguiente enlace!

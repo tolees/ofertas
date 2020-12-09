@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 15 EUR
 inStock: true
-prodname: Joma Katy - Camiseta para Mujer  Color Azul Marino/Blanco  Talla XL
+prodname: 'Joma Katy - Camiseta para Mujer  Color Azul Marino/Blanco  Talla XL'
 ---
 
 Tienes [Joma Katy - Camiseta para Mujer  Color Azul Marino/Blanco  Talla XL](https://www.amazon.es/dp/B010FXL1YA/?tag=tolees-21) con un 53.67 % de descuento con precio de oferta de 6.95 EUR (original: 15 EUR) en el siguiente enlace!

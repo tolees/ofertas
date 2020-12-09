@@ -14,7 +14,7 @@ currency: EUR
 price: 8.52
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield 6Re Organic Structure  Camisa Casual para Hombre   Azul Marino 10   Medium  Tamaño del Fabricante:M 
+prodname: 'Springfield 6Re Organic Structure  Camisa Casual para Hombre   Azul Marino 10   Medium  Tamaño del Fabricante:M '
 ---
 
 Tienes [Springfield 6Re Organic Structure  Camisa Casual para Hombre   Azul Marino 10   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KZ3L6QL/?tag=tolees-21) con un 71.59 % de descuento con precio de oferta de 8.52 EUR (original: 29.99 EUR) en el siguiente enlace!

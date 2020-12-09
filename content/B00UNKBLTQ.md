@@ -14,7 +14,7 @@ currency: EUR
 price: 82.2
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18163/2
+prodname: 'Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18163/2'
 ---
 
 Está [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18163/2](https://www.amazon.es/dp/B00UNKBLTQ/?tag=tolees-21) con 36.28 de descuento por 82.2 EUR (original: 129.0 EUR) en el siguiente enlace!

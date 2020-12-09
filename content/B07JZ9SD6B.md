@@ -14,7 +14,7 @@ currency: EUR
 price: 8.39
 comparePrice: 29.95 EUR
 inStock: true
-prodname: adidas Striped 19 JSY Camiseta de Manga Corta  Hombre  White/Black  1314
+prodname: 'adidas Striped 19 JSY Camiseta de Manga Corta  Hombre  White/Black  1314'
 ---
 
 Está [adidas Striped 19 JSY Camiseta de Manga Corta  Hombre  White/Black  1314](https://www.amazon.es/dp/B07JZ9SD6B/?tag=tolees-21) con 71.99 de descuento por 8.39 EUR (original: 29.95 EUR) en el siguiente enlace!

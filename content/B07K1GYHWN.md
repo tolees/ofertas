@@ -14,7 +14,7 @@ currency: EUR
 price: 54.39
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Adidas Continental 80  Zapatillas de Gimnasia Hombre  Blanco  FTWR White/Scarlet/Collegiate Navy FTWR White/Scarlet/Collegiate Navy   42 EU
+prodname: 'Adidas Continental 80  Zapatillas de Gimnasia Hombre  Blanco  FTWR White/Scarlet/Collegiate Navy FTWR White/Scarlet/Collegiate Navy   42 EU'
 ---
 
 Está [Adidas Continental 80  Zapatillas de Gimnasia Hombre  Blanco  FTWR White/Scarlet/Collegiate Navy FTWR White/Scarlet/Collegiate Navy   42 EU](https://www.amazon.es/dp/B07K1GYHWN/?tag=tolees-21) con 45.61 de descuento por 54.39 EUR (original: 100.0 EUR) en el siguiente enlace!

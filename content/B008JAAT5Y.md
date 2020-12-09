@@ -14,13 +14,15 @@ currency: EUR
 price: 34.0
 comparePrice: 46.75 EUR
 inStock: true
-prodname: Monkey 47 Ginebra - 500 ml
+prodname: 'Monkey 47 Ginebra - 500 ml'
 ---
 
-Ahora mismo tienes [Monkey 47 Ginebra - 500 ml](https://www.amazon.es/dp/B008JAAT5Y/?tag=tolees-21) a 34.0 EUR (original: 46.75 EUR) (27.27 %  de descuento) en el siguiente enlace!
+Está [Monkey 47 Ginebra - 500 ml](https://www.amazon.es/dp/B008JAAT5Y/?tag=tolees-21) con 27.27 de descuento por 34.0 EUR (original: 46.75 EUR) en el siguiente enlace!
 
 [![Monkey 47 Ginebra - 500 ml](https://m.media-amazon.com/images/I/41RthFNKNgL._SL200_.jpg)](https://www.amazon.es/dp/B008JAAT5Y/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008JAAT5Y/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008JAAT5Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

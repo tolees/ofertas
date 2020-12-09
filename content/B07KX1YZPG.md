@@ -14,7 +14,7 @@ currency: EUR
 price: 17.5
 comparePrice: 25 EUR
 inStock: true
-prodname: find. Phrm3557 Jersey Premama Gris  Silver Grey  46  Talla del Fabricante: 2XL 
+prodname: 'find. Phrm3557 Jersey Premama Gris  Silver Grey  46  Talla del Fabricante: 2XL '
 ---
 
 Está [find. Phrm3557 Jersey Premama Gris  Silver Grey  46  Talla del Fabricante: 2XL ](https://www.amazon.es/dp/B07KX1YZPG/?tag=tolees-21) con 30.00 de descuento por 17.5 EUR (original: 25 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.61
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Trucco TT16AQ1  Jersey para Mujer   Blanco Crudo   Medium  Tamaño del Fabricante:M 
+prodname: 'Trucco TT16AQ1  Jersey para Mujer   Blanco Crudo   Medium  Tamaño del Fabricante:M '
 ---
 
 Tienes [Trucco TT16AQ1  Jersey para Mujer   Blanco Crudo   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078GNYNT2/?tag=tolees-21) con un 40.90 % de descuento con precio de oferta de 23.61 EUR (original: 39.95 EUR) en el siguiente enlace!

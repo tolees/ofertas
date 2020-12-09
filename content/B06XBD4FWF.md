@@ -14,7 +14,7 @@ currency: EUR
 price: 10
 comparePrice: 16 EUR
 inStock: true
-prodname: EONAR Mujer Braguita De Bikini Con Lados Cheeky Brasileños Tangas  L Yellow 
+prodname: 'EONAR Mujer Braguita De Bikini Con Lados Cheeky Brasileños Tangas  L Yellow '
 ---
 
 Está [EONAR Mujer Braguita De Bikini Con Lados Cheeky Brasileños Tangas  L Yellow ](https://www.amazon.es/dp/B06XBD4FWF/?tag=tolees-21) con 37.50 de descuento por 10 EUR (original: 16 EUR) en el siguiente enlace!

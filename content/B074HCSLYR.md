@@ -14,7 +14,7 @@ currency: EUR
 price: 23.41
 comparePrice: 79.95 EUR
 inStock: true
-prodname: LPB Woman - Sac  Bolsos totes Mujer  Gris  35x29x45 cm  W x H L 
+prodname: 'LPB Woman - Sac  Bolsos totes Mujer  Gris  35x29x45 cm  W x H L '
 ---
 
 Ahora mismo tienes [LPB Woman - Sac  Bolsos totes Mujer  Gris  35x29x45 cm  W x H L ](https://www.amazon.es/dp/B074HCSLYR/?tag=tolees-21) a 23.41 EUR (original: 79.95 EUR) (70.72 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 35.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Adidas Predator 19.3 In J  Botas de fútbol Unisex para Niños   Rojact/Rojsol/Negbás 000   28 EU
+prodname: 'Adidas Predator 19.3 In J  Botas de fútbol Unisex para Niños   Rojact/Rojsol/Negbás 000   28 EU'
 ---
 
 Tienes [Adidas Predator 19.3 In J  Botas de fútbol Unisex para Niños   Rojact/Rojsol/Negbás 000   28 EU](https://www.amazon.es/dp/B07KLVKYC8/?tag=tolees-21) con un 40.03 % de descuento con precio de oferta de 35.95 EUR (original: 59.95 EUR) en el siguiente enlace!

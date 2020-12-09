@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 17 EUR
 inStock: true
-prodname: Woxter Airbeat BT-9 Black - Auriculares Bluetooth estéreos deportivos y con sujeción  SECURE-FIT . Color Negro.
+prodname: 'Woxter Airbeat BT-9 Black - Auriculares Bluetooth estéreos deportivos y con sujeción  SECURE-FIT . Color Negro.'
 ---
 
 Está [Woxter Airbeat BT-9 Black - Auriculares Bluetooth estéreos deportivos y con sujeción  SECURE-FIT . Color Negro.](https://www.amazon.es/dp/B07FQPZ2JR/?tag=tolees-21) con 41.76 de descuento por 9.9 EUR (original: 17 EUR) en el siguiente enlace!

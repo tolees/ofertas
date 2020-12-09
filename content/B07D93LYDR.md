@@ -14,7 +14,7 @@ currency: EUR
 price: 12.81
 comparePrice: 49.99 EUR
 inStock: true
-prodname: SELECTED HOMME Slhvictor Crew Neck W Noos  suéter para Hombre  Marrón  Tortoise Shell Detail:Twisted W. Black  Small
+prodname: 'SELECTED HOMME Slhvictor Crew Neck W Noos  suéter para Hombre  Marrón  Tortoise Shell Detail:Twisted W. Black  Small'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhvictor Crew Neck W Noos  suéter para Hombre  Marrón  Tortoise Shell Detail:Twisted W. Black  Small](https://www.amazon.es/dp/B07D93LYDR/?tag=tolees-21) a 12.81 EUR (original: 49.99 EUR) (74.37 %  de descuento) en el siguiente enlace!

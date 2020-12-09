@@ -14,7 +14,7 @@ currency: EUR
 price: 16.5
 comparePrice: 33.0 EUR
 inStock: true
-prodname: Under Armour 1257466-090 Camiseta  Hombre  Gris  L
+prodname: 'Under Armour 1257466-090 Camiseta  Hombre  Gris  L'
 ---
 
 Está [Under Armour 1257466-090 Camiseta  Hombre  Gris  L](https://www.amazon.es/dp/B00KXACRF8/?tag=tolees-21) con 50.00 de descuento por 16.5 EUR (original: 33.0 EUR) en el siguiente enlace!

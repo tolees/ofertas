@@ -14,7 +14,7 @@ currency: EUR
 price: 7.65
 comparePrice: 16.0 EUR
 inStock: true
-prodname: Trix Cereal - 10.7 oz
+prodname: 'Trix Cereal - 10.7 oz'
 ---
 
 Ahora mismo tienes [Trix Cereal - 10.7 oz](https://www.amazon.es/dp/B001AS8QPC/?tag=tolees-21) a 7.65 EUR (original: 16.0 EUR) (52.19 %  de descuento) en el siguiente enlace!

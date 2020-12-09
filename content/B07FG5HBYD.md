@@ -14,7 +14,7 @@ currency: EUR
 price: 59.83
 comparePrice: 110 EUR
 inStock: true
-prodname: Lacoste Ph9435  Polo para Hombre  Blanco  White 001  X-Small  Talla del Fabricante: 2 
+prodname: 'Lacoste Ph9435  Polo para Hombre  Blanco  White 001  X-Small  Talla del Fabricante: 2 '
 ---
 
 Está [Lacoste Ph9435  Polo para Hombre  Blanco  White 001  X-Small  Talla del Fabricante: 2 ](https://www.amazon.es/dp/B07FG5HBYD/?tag=tolees-21) con 45.61 de descuento por 59.83 EUR (original: 110 EUR) en el siguiente enlace!

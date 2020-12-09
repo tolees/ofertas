@@ -14,7 +14,7 @@ currency: EUR
 price: 77.0
 comparePrice: 104.99 EUR
 inStock: true
-prodname: Seagate Game Drive  2 TB  Unidad de disco duro externa  HDD portátil  compatible con PS4  STGD2000200 
+prodname: 'Seagate Game Drive  2 TB  Unidad de disco duro externa  HDD portátil  compatible con PS4  STGD2000200 '
 ---
 
 Ahora mismo tienes [Seagate Game Drive  2 TB  Unidad de disco duro externa  HDD portátil  compatible con PS4  STGD2000200 ](https://www.amazon.es/dp/B07PPNSFBK/?tag=tolees-21) a 77.0 EUR (original: 104.99 EUR) (26.66 %  de descuento) en el siguiente enlace!

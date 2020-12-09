@@ -14,7 +14,7 @@ currency: EUR
 price: 27
 comparePrice: 59 EUR
 inStock: true
-prodname: Superga 2750-Cotu Classic  Zapatillas Unisex Adulto  Azul  Blue MD Cobalt   35 EU
+prodname: 'Superga 2750-Cotu Classic  Zapatillas Unisex Adulto  Azul  Blue MD Cobalt   35 EU'
 ---
 
 Está [Superga 2750-Cotu Classic  Zapatillas Unisex Adulto  Azul  Blue MD Cobalt   35 EU](https://www.amazon.es/dp/B015O3IZCC/?tag=tolees-21) con 54.24 de descuento por 27 EUR (original: 59 EUR) en el siguiente enlace!

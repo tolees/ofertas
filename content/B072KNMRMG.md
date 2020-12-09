@@ -14,7 +14,7 @@ currency: EUR
 price: 16.74
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Tamaris 26050  Botas Militar para Mujer  Gris  Fog   40 EU
+prodname: 'Tamaris 26050  Botas Militar para Mujer  Gris  Fog   40 EU'
 ---
 
 Tienes [Tamaris 26050  Botas Militar para Mujer  Gris  Fog   40 EU](https://www.amazon.es/dp/B072KNMRMG/?tag=tolees-21) con un 76.07 % de descuento con precio de oferta de 16.74 EUR (original: 69.95 EUR) en el siguiente enlace!

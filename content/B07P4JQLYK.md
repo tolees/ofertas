@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Superdry Jacob Crew suéter  Gris  Concrete Twist THU   3XL para Hombre
+prodname: 'Superdry Jacob Crew suéter  Gris  Concrete Twist THU   3XL para Hombre'
 ---
 
 Ahora mismo tienes [Superdry Jacob Crew suéter  Gris  Concrete Twist THU   3XL para Hombre](https://www.amazon.es/dp/B07P4JQLYK/?tag=tolees-21) a 35.99 EUR (original: 79.99 EUR) (55.01 %  de descuento) en el siguiente enlace!

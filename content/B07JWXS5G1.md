@@ -14,7 +14,7 @@ currency: EUR
 price: 44.49
 comparePrice: 110 EUR
 inStock: true
-prodname: Lacoste Ph4258 Polo  Azul  Aquarium 07h F8r   X-Small  Talla del Fabricante: 2  para Hombre
+prodname: 'Lacoste Ph4258 Polo  Azul  Aquarium 07h F8r   X-Small  Talla del Fabricante: 2  para Hombre'
 ---
 
 Tienes [Lacoste Ph4258 Polo  Azul  Aquarium 07h F8r   X-Small  Talla del Fabricante: 2  para Hombre](https://www.amazon.es/dp/B07JWXS5G1/?tag=tolees-21) con un 59.55 % de descuento con precio de oferta de 44.49 EUR (original: 110 EUR) en el siguiente enlace!

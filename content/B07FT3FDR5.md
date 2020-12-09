@@ -14,7 +14,7 @@ currency: EUR
 price: 23.48
 comparePrice: 33.99 EUR
 inStock: true
-prodname: Bosch Home and Garden 06039A1100 Linterna UniversalLamp  batería  Sistema de 18 voltios  en Caja de cartón   18 V
+prodname: 'Bosch Home and Garden 06039A1100 Linterna UniversalLamp  batería  Sistema de 18 voltios  en Caja de cartón   18 V'
 ---
 
 Ahora mismo tienes [Bosch Home and Garden 06039A1100 Linterna UniversalLamp  batería  Sistema de 18 voltios  en Caja de cartón   18 V](https://www.amazon.es/dp/B07FT3FDR5/?tag=tolees-21) a 23.48 EUR (original: 33.99 EUR) (30.92 %  de descuento) en el siguiente enlace!

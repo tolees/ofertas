@@ -14,7 +14,7 @@ currency: EUR
 price: 75.63
 comparePrice: 149.95 EUR
 inStock: true
-prodname: G-STAR RAW D-STAQ 3D Skinny  Jeans para Hombre  Azul  lt Vintage Aged Destroy 8969-9114    31W / 32L
+prodname: 'G-STAR RAW D-STAQ 3D Skinny  Jeans para Hombre  Azul  lt Vintage Aged Destroy 8969-9114    31W / 32L'
 ---
 
 Está [G-STAR RAW D-STAQ 3D Skinny  Jeans para Hombre  Azul  lt Vintage Aged Destroy 8969-9114    31W / 32L](https://www.amazon.es/dp/B071ZNHR1T/?tag=tolees-21) con 49.56 de descuento por 75.63 EUR (original: 149.95 EUR) en el siguiente enlace!

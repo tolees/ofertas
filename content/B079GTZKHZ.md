@@ -14,7 +14,7 @@ currency: EUR
 price: 14.69
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Marcos de fotos acrílicas 15 x 20 cm  Marco de bloque de acrílico magnético  Pantalla de fotografía sin marco de escritorio - Paquete de 2
+prodname: 'Marcos de fotos acrílicas 15 x 20 cm  Marco de bloque de acrílico magnético  Pantalla de fotografía sin marco de escritorio - Paquete de 2'
 ---
 
 Está [Marcos de fotos acrílicas 15 x 20 cm  Marco de bloque de acrílico magnético  Pantalla de fotografía sin marco de escritorio - Paquete de 2](https://www.amazon.es/dp/B079GTZKHZ/?tag=tolees-21) con 45.57 de descuento por 14.69 EUR (original: 26.99 EUR) en el siguiente enlace!

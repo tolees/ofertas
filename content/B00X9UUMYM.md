@@ -14,7 +14,7 @@ currency: EUR
 price: 4.5
 comparePrice: 6.59 EUR
 inStock: true
-prodname: Diadermine - Crema de dia Antiarrugas - Cuidado Esencial - 50 ml
+prodname: 'Diadermine - Crema de dia Antiarrugas - Cuidado Esencial - 50 ml'
 ---
 
 Está [Diadermine - Crema de dia Antiarrugas - Cuidado Esencial - 50 ml](https://www.amazon.es/dp/B00X9UUMYM/?tag=tolees-21) con 31.71 de descuento por 4.5 EUR (original: 6.59 EUR) en el siguiente enlace!

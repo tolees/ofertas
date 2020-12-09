@@ -14,7 +14,7 @@ currency: EUR
 price: 5.0
 comparePrice: 9.95 EUR
 inStock: true
-prodname: La Vida Es Bella [DVD]
+prodname: 'La Vida Es Bella [DVD]'
 ---
 
 Ahora mismo tienes [La Vida Es Bella [DVD]](https://www.amazon.es/dp/B00D9KCJ4S/?tag=tolees-21) a 5.0 EUR (original: 9.95 EUR) (49.75 %  de descuento) en el siguiente enlace!

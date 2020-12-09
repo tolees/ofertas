@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Anker PowerWave+ - Base de carga para Apple Watch Serie 4/3/2  carga rápida con iPhone XS/XS Max/XR/X/8 Plus
+prodname: 'Anker PowerWave+ - Base de carga para Apple Watch Serie 4/3/2  carga rápida con iPhone XS/XS Max/XR/X/8 Plus'
 ---
 
 Está [Anker PowerWave+ - Base de carga para Apple Watch Serie 4/3/2  carga rápida con iPhone XS/XS Max/XR/X/8 Plus](https://www.amazon.es/dp/B07PPNKMRZ/?tag=tolees-21) con 25.01 de descuento por 26.99 EUR (original: 35.99 EUR) en el siguiente enlace!

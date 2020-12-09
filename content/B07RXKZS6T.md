@@ -14,7 +14,7 @@ currency: EUR
 price: 50.27
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Levi s Graphic Sport Hoodie Cappuccio  Blu  Goodie Box Tab Baby Blue 0165   X-Small Donna
+prodname: 'Levi s Graphic Sport Hoodie Cappuccio  Blu  Goodie Box Tab Baby Blue 0165   X-Small Donna'
 ---
 
 Tienes [Levi s Graphic Sport Hoodie Cappuccio  Blu  Goodie Box Tab Baby Blue 0165   X-Small Donna](https://www.amazon.es/dp/B07RXKZS6T/?tag=tolees-21) con un 28.19 % de descuento con precio de oferta de 50.27 EUR (original: 70.0 EUR) en el siguiente enlace!

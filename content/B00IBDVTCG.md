@@ -14,7 +14,7 @@ currency: EUR
 price: 35.5
 comparePrice: 50.99 EUR
 inStock: true
-prodname: Remington Pro Air Compact AC5911 - Secador de Pelo Profesional  Secador Iónico  Difusor y Concentradores  2200 W  Ligero y Compacto  Negro
+prodname: 'Remington Pro Air Compact AC5911 - Secador de Pelo Profesional  Secador Iónico  Difusor y Concentradores  2200 W  Ligero y Compacto  Negro'
 ---
 
 Está [Remington Pro Air Compact AC5911 - Secador de Pelo Profesional  Secador Iónico  Difusor y Concentradores  2200 W  Ligero y Compacto  Negro](https://www.amazon.es/dp/B00IBDVTCG/?tag=tolees-21) con 30.38 de descuento por 35.5 EUR (original: 50.99 EUR) en el siguiente enlace!

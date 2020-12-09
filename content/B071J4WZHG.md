@@ -14,7 +14,7 @@ currency: EUR
 price: 24.15
 comparePrice: 69.95 EUR
 inStock: true
-prodname: DC Shoes Harpoon V Botas Clasicas Hombre  Beige  Tan - Solid   45 EU
+prodname: 'DC Shoes Harpoon V Botas Clasicas Hombre  Beige  Tan - Solid   45 EU'
 ---
 
 Está [DC Shoes Harpoon V Botas Clasicas Hombre  Beige  Tan - Solid   45 EU](https://www.amazon.es/dp/B071J4WZHG/?tag=tolees-21) con 65.48 de descuento por 24.15 EUR (original: 69.95 EUR) en el siguiente enlace!

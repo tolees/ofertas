@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: OMERIL Bandas Elasticas Fitness  Cintas Elasticas Fitness con 3 Niveles de Resistencia  3 Piezas Banda Resistencia para Yoga  Pilates  Crossfit  Estiramientos  Entrenamiento de Fuerza  Mujer y Hombre
+prodname: 'OMERIL Bandas Elasticas Fitness  Cintas Elasticas Fitness con 3 Niveles de Resistencia  3 Piezas Banda Resistencia para Yoga  Pilates  Crossfit  Estiramientos  Entrenamiento de Fuerza  Mujer y Hombre'
 ---
 
 Tienes [OMERIL Bandas Elasticas Fitness  Cintas Elasticas Fitness con 3 Niveles de Resistencia  3 Piezas Banda Resistencia para Yoga  Pilates  Crossfit  Estiramientos  Entrenamiento de Fuerza  Mujer y Hombre](https://www.amazon.es/dp/B07T2ZVHLS/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

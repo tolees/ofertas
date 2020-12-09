@@ -14,7 +14,7 @@ currency: EUR
 price: 59.95
 comparePrice: 119.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Straight Fit Jeans  Azul  dk aged 8595-89   34W / 34L para Hombre
+prodname: 'G-STAR RAW 3301 Straight Fit Jeans  Azul  dk aged 8595-89   34W / 34L para Hombre'
 ---
 
 Está [G-STAR RAW 3301 Straight Fit Jeans  Azul  dk aged 8595-89   34W / 34L para Hombre](https://www.amazon.es/dp/B06XCD88SZ/?tag=tolees-21) con 50.02 de descuento por 59.95 EUR (original: 119.95 EUR) en el siguiente enlace!

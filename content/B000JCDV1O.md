@@ -14,7 +14,7 @@ currency: EUR
 price: 10.76
 comparePrice: 30 EUR
 inStock: true
-prodname: Calvin Klein 10662 - Agua de colonia  30 ml
+prodname: 'Calvin Klein 10662 - Agua de colonia  30 ml'
 ---
 
 Ahora mismo tienes [Calvin Klein 10662 - Agua de colonia  30 ml](https://www.amazon.es/dp/B000JCDV1O/?tag=tolees-21) a 10.76 EUR (original: 30 EUR) (64.13 %  de descuento) en el siguiente enlace!

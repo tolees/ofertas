@@ -14,7 +14,7 @@ currency: EUR
 price: 242.21
 comparePrice: 329.99 EUR
 inStock: true
-prodname: WD 4TB My Cloud EX2 Ultra Almacenamiento en Red
+prodname: 'WD 4TB My Cloud EX2 Ultra Almacenamiento en Red'
 ---
 
 Ahora mismo tienes [WD 4TB My Cloud EX2 Ultra Almacenamiento en Red](https://www.amazon.es/dp/B01BIGSSHQ/?tag=tolees-21) a 242.21 EUR (original: 329.99 EUR) (26.60 %  de descuento) en el siguiente enlace!

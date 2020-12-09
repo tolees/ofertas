@@ -14,7 +14,7 @@ currency: EUR
 price: 6.5
 comparePrice: 27.2 EUR
 inStock: true
-prodname: Edding 4500-19 - Caja de 10 marcadores textiles  trazo 2-3 mm  color carmín
+prodname: 'Edding 4500-19 - Caja de 10 marcadores textiles  trazo 2-3 mm  color carmín'
 ---
 
 Está [Edding 4500-19 - Caja de 10 marcadores textiles  trazo 2-3 mm  color carmín](https://www.amazon.es/dp/B004LWOM8O/?tag=tolees-21) con 76.10 de descuento por 6.5 EUR (original: 27.2 EUR) en el siguiente enlace!

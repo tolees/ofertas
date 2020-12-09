@@ -14,7 +14,7 @@ currency: EUR
 price: 5.03
 comparePrice: 7.49 EUR
 inStock: true
-prodname: Monacor WS-60 - Accesorio para micrófono  DM-2500  Negro  Espuma  6 cm  7 cm 
+prodname: 'Monacor WS-60 - Accesorio para micrófono  DM-2500  Negro  Espuma  6 cm  7 cm '
 ---
 
 Tienes [Monacor WS-60 - Accesorio para micrófono  DM-2500  Negro  Espuma  6 cm  7 cm ](https://www.amazon.es/dp/B001PMNF9A/?tag=tolees-21) con un 32.84 % de descuento con precio de oferta de 5.03 EUR (original: 7.49 EUR) en el siguiente enlace!

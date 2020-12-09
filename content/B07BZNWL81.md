@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Maison & White 1500ml Cafetería francesa de prensa | Prensa de café de acero inoxidable | GRATIS filtros adicionales / cucharas de medir
+prodname: 'Maison & White 1500ml Cafetería francesa de prensa | Prensa de café de acero inoxidable | GRATIS filtros adicionales / cucharas de medir'
 ---
 
 Está [Maison & White 1500ml Cafetería francesa de prensa | Prensa de café de acero inoxidable | GRATIS filtros adicionales / cucharas de medir](https://www.amazon.es/dp/B07BZNWL81/?tag=tolees-21) con 42.23 de descuento por 25.99 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Piwoka Cámara Deportiva HD1080P Impermeable 30M acción cámara submarina Pantalla 2" LCD Gran Angular con Multi Accesorios para Deportes  Buceo  Coche  Moto  Bicicleta etc.  Negro 
+prodname: 'Piwoka Cámara Deportiva HD1080P Impermeable 30M acción cámara submarina Pantalla 2" LCD Gran Angular con Multi Accesorios para Deportes  Buceo  Coche  Moto  Bicicleta etc.  Negro '
 ---
 
 Tienes [Piwoka Cámara Deportiva HD1080P Impermeable 30M acción cámara submarina Pantalla 2" LCD Gran Angular con Multi Accesorios para Deportes  Buceo  Coche  Moto  Bicicleta etc.  Negro ](https://www.amazon.es/dp/B08DFTPL1X/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 17.99 EUR (original: 23.99 EUR) en el siguiente enlace!

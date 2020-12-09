@@ -14,7 +14,7 @@ currency: EUR
 price: 199
 comparePrice: 275 EUR
 inStock: true
-prodname: AVERMEDIA Live Gamer 4K  transmite vídeo y Juega con Puerto HDMI 2.0 Game Streaming and Video Capture  4Kp60 HDR  latencia ultrabaja  Grabación a 240 Fps  Iluminación RGB  GC573 
+prodname: 'AVERMEDIA Live Gamer 4K  transmite vídeo y Juega con Puerto HDMI 2.0 Game Streaming and Video Capture  4Kp60 HDR  latencia ultrabaja  Grabación a 240 Fps  Iluminación RGB  GC573 '
 ---
 
 Está [AVERMEDIA Live Gamer 4K  transmite vídeo y Juega con Puerto HDMI 2.0 Game Streaming and Video Capture  4Kp60 HDR  latencia ultrabaja  Grabación a 240 Fps  Iluminación RGB  GC573 ](https://www.amazon.es/dp/B07DHSZC4K/?tag=tolees-21) con 27.64 de descuento por 199 EUR (original: 275 EUR) en el siguiente enlace!

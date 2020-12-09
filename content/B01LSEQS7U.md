@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 33.99 EUR
 inStock: true
-prodname: Aigostar Rob 30IGQ - Hervidor de agua de 1 7 litros  potencia de 2200 W  libre de BPA  acero inoxidable pulido de grado 304 y sistema de protección contra la ebullición en seco. Diseño exclusivo.
+prodname: 'Aigostar Rob 30IGQ - Hervidor de agua de 1 7 litros  potencia de 2200 W  libre de BPA  acero inoxidable pulido de grado 304 y sistema de protección contra la ebullición en seco. Diseño exclusivo.'
 ---
 
 Está [Aigostar Rob 30IGQ - Hervidor de agua de 1 7 litros  potencia de 2200 W  libre de BPA  acero inoxidable pulido de grado 304 y sistema de protección contra la ebullición en seco. Diseño exclusivo.](https://www.amazon.es/dp/B01LSEQS7U/?tag=tolees-21) con 41.19 de descuento por 19.99 EUR (original: 33.99 EUR) en el siguiente enlace!

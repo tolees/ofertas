@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 48.99 EUR
 inStock: true
-prodname: SKM Silla Plegable Camping  Portátil con Bolsa  Capacidad hasta 145kg/320 LB  Ideal para Camping Senderismo Viajes Caza Pesca Jardin Barbacoa
+prodname: 'SKM Silla Plegable Camping  Portátil con Bolsa  Capacidad hasta 145kg/320 LB  Ideal para Camping Senderismo Viajes Caza Pesca Jardin Barbacoa'
 ---
 
 Está [SKM Silla Plegable Camping  Portátil con Bolsa  Capacidad hasta 145kg/320 LB  Ideal para Camping Senderismo Viajes Caza Pesca Jardin Barbacoa](https://www.amazon.es/dp/B07H3PRR7N/?tag=tolees-21) con 46.95 de descuento por 25.99 EUR (original: 48.99 EUR) en el siguiente enlace!

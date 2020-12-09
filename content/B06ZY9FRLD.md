@@ -14,7 +14,7 @@ currency: EUR
 price: 10.44
 comparePrice: 34 EUR
 inStock: true
-prodname: Calvin Klein Hip Brief Slip  Negro  Black   X-Large para Hombre
+prodname: 'Calvin Klein Hip Brief Slip  Negro  Black   X-Large para Hombre'
 ---
 
 Ahora mismo tienes [Calvin Klein Hip Brief Slip  Negro  Black   X-Large para Hombre](https://www.amazon.es/dp/B06ZY9FRLD/?tag=tolees-21) a 10.44 EUR (original: 34 EUR) (69.29 %  de descuento) en el siguiente enlace!

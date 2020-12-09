@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: OurLeeme Mini Máquina de coser eléctrica Máquina portátil de 2 velocidades Máquina de coser automatica portatil Máquina con pedal/Luz/Cortador
+prodname: 'OurLeeme Mini Máquina de coser eléctrica Máquina portátil de 2 velocidades Máquina de coser automatica portatil Máquina con pedal/Luz/Cortador'
 ---
 
 Tienes [OurLeeme Mini Máquina de coser eléctrica Máquina portátil de 2 velocidades Máquina de coser automatica portatil Máquina con pedal/Luz/Cortador](https://www.amazon.es/dp/B07DWSHZSK/?tag=tolees-21) con un 26.68 % de descuento con precio de oferta de 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

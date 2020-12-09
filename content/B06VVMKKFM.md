@@ -14,7 +14,7 @@ currency: EUR
 price: 7.8
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Esprit 057ee1k045  Camiseta Mujer   Navy   34  Talla del Fabricante: X-Small 
+prodname: 'Esprit 057ee1k045  Camiseta Mujer   Navy   34  Talla del Fabricante: X-Small '
 ---
 
 Está [Esprit 057ee1k045  Camiseta Mujer   Navy   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B06VVMKKFM/?tag=tolees-21) con 60.98 de descuento por 7.8 EUR (original: 19.99 EUR) en el siguiente enlace!

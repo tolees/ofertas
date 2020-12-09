@@ -14,7 +14,7 @@ currency: EUR
 price: 30.12
 comparePrice: 85 EUR
 inStock: true
-prodname: New Balance Fresh Foam Arishi Sport  Zapatillas de Running para Hombre  Gris Grey  43 EU
+prodname: 'New Balance Fresh Foam Arishi Sport  Zapatillas de Running para Hombre  Gris Grey  43 EU'
 ---
 
 Está [New Balance Fresh Foam Arishi Sport  Zapatillas de Running para Hombre  Gris Grey  43 EU](https://www.amazon.es/dp/B0751GSLVJ/?tag=tolees-21) con 64.56 de descuento por 30.12 EUR (original: 85 EUR) en el siguiente enlace!

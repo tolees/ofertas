@@ -14,7 +14,7 @@ currency: EUR
 price: 42.99
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Wurkkos Proyector de estrella 4 en 1 Luz nocturna  Proyector de estrella Auraro con altavoz estéreo Bluetooth  Proyector de cielo estrellado con Luna LED para adultos  niños  decoración  regalos
+prodname: 'Wurkkos Proyector de estrella 4 en 1 Luz nocturna  Proyector de estrella Auraro con altavoz estéreo Bluetooth  Proyector de cielo estrellado con Luna LED para adultos  niños  decoración  regalos'
 ---
 
 Tienes [Wurkkos Proyector de estrella 4 en 1 Luz nocturna  Proyector de estrella Auraro con altavoz estéreo Bluetooth  Proyector de cielo estrellado con Luna LED para adultos  niños  decoración  regalos](https://www.amazon.es/dp/B08JPNFC68/?tag=tolees-21) con un 56.58 % de descuento con precio de oferta de 42.99 EUR (original: 99.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 43.0
 comparePrice: 86.08 EUR
 inStock: true
-prodname: Pack El Ala Oeste De Casa Blanca Temporada 1-7 Colección Completa [DVD]
+prodname: 'Pack El Ala Oeste De Casa Blanca Temporada 1-7 Colección Completa [DVD]'
 ---
 
 Tienes [Pack El Ala Oeste De Casa Blanca Temporada 1-7 Colección Completa [DVD]](https://www.amazon.es/dp/B00FF9GVMM/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 43.0 EUR (original: 86.08 EUR) en el siguiente enlace!

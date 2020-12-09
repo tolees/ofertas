@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Ubisoft - Figurina Six Collection Series 2 Sledge
+prodname: 'Ubisoft - Figurina Six Collection Series 2 Sledge'
 ---
 
 Tienes [Ubisoft - Figurina Six Collection Series 2 Sledge](https://www.amazon.es/dp/B07D88ZMHK/?tag=tolees-21) con un 50.13 % de descuento con precio de oferta de 9.95 EUR (original: 19.95 EUR) en el siguiente enlace!

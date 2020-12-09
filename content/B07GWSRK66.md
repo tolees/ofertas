@@ -14,7 +14,7 @@ currency: EUR
 price: 11.49
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre   Middle Grey Melange 758   Medium
+prodname: 'Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre   Middle Grey Melange 758   Medium'
 ---
 
 Está [Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre   Middle Grey Melange 758   Medium](https://www.amazon.es/dp/B07GWSRK66/?tag=tolees-21) con 47.75 de descuento por 11.49 EUR (original: 21.99 EUR) en el siguiente enlace!

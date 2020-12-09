@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Gel Blanqueador de Dientes Teeth Whitening Kit Profesional Blanqueamiento Dientes-10x3ML Gel  1x Luz LED  2x Bandeja Dental  1x Carta de Colores del Diente  5 Para Blanquear Los Dientes
+prodname: 'Gel Blanqueador de Dientes Teeth Whitening Kit Profesional Blanqueamiento Dientes-10x3ML Gel  1x Luz LED  2x Bandeja Dental  1x Carta de Colores del Diente  5 Para Blanquear Los Dientes'
 ---
 
 Está [Gel Blanqueador de Dientes Teeth Whitening Kit Profesional Blanqueamiento Dientes-10x3ML Gel  1x Luz LED  2x Bandeja Dental  1x Carta de Colores del Diente  5 Para Blanquear Los Dientes](https://www.amazon.es/dp/B07MDMKVZ1/?tag=tolees-21) con 42.87 de descuento por 15.99 EUR (original: 27.99 EUR) en el siguiente enlace!

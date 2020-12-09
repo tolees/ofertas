@@ -14,7 +14,7 @@ currency: EUR
 price: 32.04
 comparePrice: 69 EUR
 inStock: true
-prodname: Napapijri Nakuro 2  Pantalones Cortos para Hombre  Azul  Skydiver Blue Bc5  W33  Talla del Fabricante: 30 
+prodname: 'Napapijri Nakuro 2  Pantalones Cortos para Hombre  Azul  Skydiver Blue Bc5  W33  Talla del Fabricante: 30 '
 ---
 
 Está [Napapijri Nakuro 2  Pantalones Cortos para Hombre  Azul  Skydiver Blue Bc5  W33  Talla del Fabricante: 30 ](https://www.amazon.es/dp/B07LBFMRQ4/?tag=tolees-21) con 53.57 de descuento por 32.04 EUR (original: 69 EUR) en el siguiente enlace!

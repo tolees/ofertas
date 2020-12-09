@@ -14,7 +14,7 @@ currency: EUR
 price: 9.39
 comparePrice: 17.95 EUR
 inStock: true
-prodname: Buff Arrow Braga De Cuello  Unisex Adulto  Denim  Talla única
+prodname: 'Buff Arrow Braga De Cuello  Unisex Adulto  Denim  Talla única'
 ---
 
 Está [Buff Arrow Braga De Cuello  Unisex Adulto  Denim  Talla única](https://www.amazon.es/dp/B07KGGM1CH/?tag=tolees-21) con 47.69 de descuento por 9.39 EUR (original: 17.95 EUR) en el siguiente enlace!

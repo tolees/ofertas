@@ -14,7 +14,7 @@ currency: EUR
 price: 79.9
 comparePrice: 160 EUR
 inStock: true
-prodname: Wilson Raqueta de tenis unisex  Para juego de ataque en la línea de fondo  Para jugadores intermedios y expertos  Blade Team 99  Medida 2  Negro/ Verde  WRT73860U2
+prodname: 'Wilson Raqueta de tenis unisex  Para juego de ataque en la línea de fondo  Para jugadores intermedios y expertos  Blade Team 99  Medida 2  Negro/ Verde  WRT73860U2'
 ---
 
 Está [Wilson Raqueta de tenis unisex  Para juego de ataque en la línea de fondo  Para jugadores intermedios y expertos  Blade Team 99  Medida 2  Negro/ Verde  WRT73860U2](https://www.amazon.es/dp/B071XCKPQ6/?tag=tolees-21) con 50.06 de descuento por 79.9 EUR (original: 160 EUR) en el siguiente enlace!

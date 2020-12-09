@@ -14,7 +14,7 @@ currency: EUR
 price: 40.99
 comparePrice: 100.91 EUR
 inStock: true
-prodname: Honeywell CMT701A1006 - Chronotherm Diario Cm701
+prodname: 'Honeywell CMT701A1006 - Chronotherm Diario Cm701'
 ---
 
 Está [Honeywell CMT701A1006 - Chronotherm Diario Cm701](https://www.amazon.es/dp/B003DVCV9Q/?tag=tolees-21) con 59.38 de descuento por 40.99 EUR (original: 100.91 EUR) en el siguiente enlace!

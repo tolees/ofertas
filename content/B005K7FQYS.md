@@ -14,7 +14,7 @@ currency: EUR
 price: 81.99
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Kare Lámpara de Mesa Rectangular Wood Nature  Marron  43 x 10 x 33 cm
+prodname: 'Kare Lámpara de Mesa Rectangular Wood Nature  Marron  43 x 10 x 33 cm'
 ---
 
 Tienes [Kare Lámpara de Mesa Rectangular Wood Nature  Marron  43 x 10 x 33 cm](https://www.amazon.es/dp/B005K7FQYS/?tag=tolees-21) con un 25.40 % de descuento con precio de oferta de 81.99 EUR (original: 109.9 EUR) en el siguiente enlace!

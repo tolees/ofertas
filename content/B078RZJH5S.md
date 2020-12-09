@@ -14,7 +14,7 @@ currency: EUR
 price: 102
 comparePrice: 179 EUR
 inStock: true
-prodname: Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Cuero FTW1163
+prodname: 'Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Cuero FTW1163'
 ---
 
 Está [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Cuero FTW1163](https://www.amazon.es/dp/B078RZJH5S/?tag=tolees-21) con 43.02 de descuento por 102 EUR (original: 179 EUR) en el siguiente enlace!

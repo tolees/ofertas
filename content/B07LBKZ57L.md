@@ -14,7 +14,7 @@ currency: EUR
 price: 17.01
 comparePrice: 29 EUR
 inStock: true
-prodname: Tommy Jeans TJM Tommy Classics tee Camiseta  Verde  Acid Lime 300   S para Hombre
+prodname: 'Tommy Jeans TJM Tommy Classics tee Camiseta  Verde  Acid Lime 300   S para Hombre'
 ---
 
 Ahora mismo tienes [Tommy Jeans TJM Tommy Classics tee Camiseta  Verde  Acid Lime 300   S para Hombre](https://www.amazon.es/dp/B07LBKZ57L/?tag=tolees-21) a 17.01 EUR (original: 29 EUR) (41.34 %  de descuento) en el siguiente enlace!

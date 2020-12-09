@@ -14,7 +14,7 @@ currency: EUR
 price: 44.87
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Braun Age Precision - Termómetro con función de con y sin contacto
+prodname: 'Braun Age Precision - Termómetro con función de con y sin contacto'
 ---
 
 Tienes [Braun Age Precision - Termómetro con función de con y sin contacto](https://www.amazon.es/dp/B07KXXCGQ7/?tag=tolees-21) con un 35.89 % de descuento con precio de oferta de 44.87 EUR (original: 69.99 EUR) en el siguiente enlace!

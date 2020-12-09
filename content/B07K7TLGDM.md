@@ -14,7 +14,7 @@ currency: EUR
 price: 4.65
 comparePrice: 6.52 EUR
 inStock: true
-prodname: APLI Kids- Puzle  16821 
+prodname: 'APLI Kids- Puzle  16821 '
 ---
 
 Tienes [APLI Kids- Puzle  16821 ](https://www.amazon.es/dp/B07K7TLGDM/?tag=tolees-21) con un 28.68 % de descuento con precio de oferta de 4.65 EUR (original: 6.52 EUR) en el siguiente enlace!

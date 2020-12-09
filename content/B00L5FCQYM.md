@@ -14,7 +14,7 @@ currency: EUR
 price: 20.85
 comparePrice: 69 EUR
 inStock: true
-prodname: Dickies Khaki  Pantalones Hombre  Azul  Dark Navy DN   W30/L32
+prodname: 'Dickies Khaki  Pantalones Hombre  Azul  Dark Navy DN   W30/L32'
 ---
 
 Tienes [Dickies Khaki  Pantalones Hombre  Azul  Dark Navy DN   W30/L32](https://www.amazon.es/dp/B00L5FCQYM/?tag=tolees-21) con un 69.78 % de descuento con precio de oferta de 20.85 EUR (original: 69 EUR) en el siguiente enlace!

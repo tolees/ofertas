@@ -14,7 +14,7 @@ currency: EUR
 price: 7.85
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Pop! Vinilo: Men in Black International: Agent H
+prodname: 'Pop! Vinilo: Men in Black International: Agent H'
 ---
 
 Está [Pop! Vinilo: Men in Black International: Agent H](https://www.amazon.es/dp/B07KPHPKQ9/?tag=tolees-21) con 47.63 de descuento por 7.85 EUR (original: 14.99 EUR) en el siguiente enlace!

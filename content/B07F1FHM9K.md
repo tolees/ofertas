@@ -14,7 +14,7 @@ currency: EUR
 price: 12
 comparePrice: 17.04 EUR
 inStock: true
-prodname: Amazon Essentials Ae1811734 Polos Hombre  Azul  Aqua   US  EU XS 
+prodname: 'Amazon Essentials Ae1811734 Polos Hombre  Azul  Aqua   US  EU XS '
 ---
 
 Tienes [Amazon Essentials Ae1811734 Polos Hombre  Azul  Aqua   US  EU XS ](https://www.amazon.es/dp/B07F1FHM9K/?tag=tolees-21) con un 29.58 % de descuento con precio de oferta de 12 EUR (original: 17.04 EUR) en el siguiente enlace!

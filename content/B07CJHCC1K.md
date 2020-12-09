@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: ONLY Onlanne K Mid Waist Coated Jeans Noos  Vaqueros skinny Mujer  Negro  Black Black   W29/L34  Talla fabricante: M 
+prodname: 'ONLY Onlanne K Mid Waist Coated Jeans Noos  Vaqueros skinny Mujer  Negro  Black Black   W29/L34  Talla fabricante: M '
 ---
 
 Ahora mismo tienes [ONLY Onlanne K Mid Waist Coated Jeans Noos  Vaqueros skinny Mujer  Negro  Black Black   W29/L34  Talla fabricante: M ](https://www.amazon.es/dp/B07CJHCC1K/?tag=tolees-21) a 20.99 EUR (original: 39.99 EUR) (47.51 %  de descuento) en el siguiente enlace!

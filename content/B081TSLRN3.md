@@ -14,7 +14,7 @@ currency: EUR
 price: 12.46
 comparePrice: 24.95 EUR
 inStock: true
-prodname: adidas Trefoil Tee  T-shirt para Mujer  Multicolor  Futhyd/White   38
+prodname: 'adidas Trefoil Tee  T-shirt para Mujer  Multicolor  Futhyd/White   38'
 ---
 
 Está [adidas Trefoil Tee  T-shirt para Mujer  Multicolor  Futhyd/White   38](https://www.amazon.es/dp/B081TSLRN3/?tag=tolees-21) con 50.06 de descuento por 12.46 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 55.29
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Keter Excellence Armario bajo  Arena/Gris  97 x 65 x 45 cm
+prodname: 'Keter Excellence Armario bajo  Arena/Gris  97 x 65 x 45 cm'
 ---
 
 Tienes [Keter Excellence Armario bajo  Arena/Gris  97 x 65 x 45 cm](https://www.amazon.es/dp/B00GJ3Q9MA/?tag=tolees-21) con un 60.48 % de descuento con precio de oferta de 55.29 EUR (original: 139.9 EUR) en el siguiente enlace!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 49.90 % en Marca Amazon - Happy Belly - Anís  4x33g'
+title: 'Marca Amazon - Happy Belly - Anís  4x33g al 49.90 % de descuento'
 date: 2020-12-01 09:52:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DEhf6xJUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DEhf6xJUL._SL200_.jpg' ]
@@ -14,14 +14,14 @@ currency: EUR
 price: 2.6
 comparePrice: 5.19 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly - Anís  4x33g
+prodname: 'Marca Amazon - Happy Belly - Anís  4x33g'
 ---
 
-Tienes [Marca Amazon - Happy Belly - Anís  4x33g](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21) con un 49.90 % de descuento con precio de oferta de 2.6 EUR (original: 5.19 EUR) en el siguiente enlace!
+Está [Marca Amazon - Happy Belly - Anís  4x33g](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21) con 49.90 de descuento por 2.6 EUR (original: 5.19 EUR) en el siguiente enlace!
 
 [![Marca Amazon - Happy Belly - Anís  4x33g](https://m.media-amazon.com/images/I/41DEhf6xJUL._SL200_.jpg)](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

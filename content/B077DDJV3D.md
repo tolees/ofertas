@@ -14,7 +14,7 @@ currency: EUR
 price: 13.02
 comparePrice: 18.5 EUR
 inStock: true
-prodname: Wonderlamp W-A000016 Portalámparas Colgante E27  Cobre Brillo  150 X 5 X 10 cm
+prodname: 'Wonderlamp W-A000016 Portalámparas Colgante E27  Cobre Brillo  150 X 5 X 10 cm'
 ---
 
 Está [Wonderlamp W-A000016 Portalámparas Colgante E27  Cobre Brillo  150 X 5 X 10 cm](https://www.amazon.es/dp/B077DDJV3D/?tag=tolees-21) con 29.62 de descuento por 13.02 EUR (original: 18.5 EUR) en el siguiente enlace!

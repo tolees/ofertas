@@ -14,7 +14,7 @@ currency: EUR
 price: 18.25
 comparePrice: 33.61 EUR
 inStock: true
-prodname: Inside 4CJM14CT Pantalones  Azul  WNA  Tamaño del Fabricante:40  para Hombre
+prodname: 'Inside 4CJM14CT Pantalones  Azul  WNA  Tamaño del Fabricante:40  para Hombre'
 ---
 
 Tienes [Inside 4CJM14CT Pantalones  Azul  WNA  Tamaño del Fabricante:40  para Hombre](https://www.amazon.es/dp/B073PCTSS1/?tag=tolees-21) con un 45.70 % de descuento con precio de oferta de 18.25 EUR (original: 33.61 EUR) en el siguiente enlace!

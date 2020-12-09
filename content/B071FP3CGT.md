@@ -14,7 +14,7 @@ currency: EUR
 price: 26.68
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Azul  lt Vintage Aged Destroy 8969-9114   25W / 32L para Mujer
+prodname: 'G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Azul  lt Vintage Aged Destroy 8969-9114   25W / 32L para Mujer'
 ---
 
 Tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Azul  lt Vintage Aged Destroy 8969-9114   25W / 32L para Mujer](https://www.amazon.es/dp/B071FP3CGT/?tag=tolees-21) con un 80.94 % de descuento con precio de oferta de 26.68 EUR (original: 139.95 EUR) en el siguiente enlace!

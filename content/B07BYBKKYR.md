@@ -14,7 +14,7 @@ currency: EUR
 price: 20.49
 comparePrice: 35.45 EUR
 inStock: true
-prodname: Occulto Bañador para Hombre en Muchos Colores Bañadores de Hombre S-3XL S Rojo4
+prodname: 'Occulto Bañador para Hombre en Muchos Colores Bañadores de Hombre S-3XL S Rojo4'
 ---
 
 Tienes [Occulto Bañador para Hombre en Muchos Colores Bañadores de Hombre S-3XL S Rojo4](https://www.amazon.es/dp/B07BYBKKYR/?tag=tolees-21) con un 42.20 % de descuento con precio de oferta de 20.49 EUR (original: 35.45 EUR) en el siguiente enlace!

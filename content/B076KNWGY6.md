@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 36.99 EUR
 inStock: true
-prodname: Cepillo de Limpieza Facial  Limpiador de Cara Giratoria Eléctrico para Remover los Lípidos Adicionales  Puntos Negros y Maquillaje  Viene con 3 Cabezales de Limpieza y un Estuche de Viaje
+prodname: 'Cepillo de Limpieza Facial  Limpiador de Cara Giratoria Eléctrico para Remover los Lípidos Adicionales  Puntos Negros y Maquillaje  Viene con 3 Cabezales de Limpieza y un Estuche de Viaje'
 ---
 
 Tienes [Cepillo de Limpieza Facial  Limpiador de Cara Giratoria Eléctrico para Remover los Lípidos Adicionales  Puntos Negros y Maquillaje  Viene con 3 Cabezales de Limpieza y un Estuche de Viaje](https://www.amazon.es/dp/B076KNWGY6/?tag=tolees-21) con un 45.96 % de descuento con precio de oferta de 19.99 EUR (original: 36.99 EUR) en el siguiente enlace!

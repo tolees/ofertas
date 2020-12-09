@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Compacto Llavero y Organizador Powerdelux Llavero Organizador de Llaves Inteligente Elegante Diseño Negro Ligero KeyCage XD007 Soporte de Llaves Portátil
+prodname: 'Compacto Llavero y Organizador Powerdelux Llavero Organizador de Llaves Inteligente Elegante Diseño Negro Ligero KeyCage XD007 Soporte de Llaves Portátil'
 ---
 
 Tienes [Compacto Llavero y Organizador Powerdelux Llavero Organizador de Llaves Inteligente Elegante Diseño Negro Ligero KeyCage XD007 Soporte de Llaves Portátil](https://www.amazon.es/dp/B07FY54PQG/?tag=tolees-21) con un 78.02 % de descuento con precio de oferta de 10.99 EUR (original: 49.99 EUR) en el siguiente enlace!

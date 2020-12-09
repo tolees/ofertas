@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Wrangler Regular Fit Camel Pantalones  Beige  W31/L32 para Hombre
+prodname: 'Wrangler Regular Fit Camel Pantalones  Beige  W31/L32 para Hombre'
 ---
 
 Está [Wrangler Regular Fit Camel Pantalones  Beige  W31/L32 para Hombre](https://www.amazon.es/dp/B01M8IGLE0/?tag=tolees-21) con 48.31 de descuento por 30.99 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 47.66
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Solar Fuse  Zapatillas para Hombre  Azul  Navy Mesh/PU/Red Trim Nvrd   40 EU
+prodname: 'Skechers Solar Fuse  Zapatillas para Hombre  Azul  Navy Mesh/PU/Red Trim Nvrd   40 EU'
 ---
 
 Tienes [Skechers Solar Fuse  Zapatillas para Hombre  Azul  Navy Mesh/PU/Red Trim Nvrd   40 EU](https://www.amazon.es/dp/B07NYTK3DK/?tag=tolees-21) con un 31.87 % de descuento con precio de oferta de 47.66 EUR (original: 69.95 EUR) en el siguiente enlace!

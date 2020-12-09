@@ -14,7 +14,7 @@ currency: EUR
 price: 3.09
 comparePrice: 8.59 EUR
 inStock: true
-prodname: Hemoton Cesta de Vapor Acero Inoxidable  para Cocinar Al Vapor Dim Sum Bollos Verduras Carne Pescado Arroz  23cm
+prodname: 'Hemoton Cesta de Vapor Acero Inoxidable  para Cocinar Al Vapor Dim Sum Bollos Verduras Carne Pescado Arroz  23cm'
 ---
 
 Ahora mismo tienes [Hemoton Cesta de Vapor Acero Inoxidable  para Cocinar Al Vapor Dim Sum Bollos Verduras Carne Pescado Arroz  23cm](https://www.amazon.es/dp/B086XBP6ZZ/?tag=tolees-21) a 3.09 EUR (original: 8.59 EUR) (64.03 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.98
 comparePrice: 21.79 EUR
 inStock: true
-prodname: MOM Licores - 700 ml
+prodname: 'MOM Licores - 700 ml'
 ---
 
 Está [MOM Licores - 700 ml](https://www.amazon.es/dp/B019QPCR4Q/?tag=tolees-21) con 26.66 de descuento por 15.98 EUR (original: 21.79 EUR) en el siguiente enlace!

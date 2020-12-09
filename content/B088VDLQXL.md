@@ -14,7 +14,7 @@ currency: EUR
 price: 196.99
 comparePrice: 309.99 EUR
 inStock: true
-prodname: Panasonic SC-HTB400EGK - Barra de Sonido 2.1 All-In-One con Subwoofer Integrado  160W  SW 80W  Bluetooth  HDMI  ARC  Entrada Digital Óptica  Montaje en Pared 
+prodname: 'Panasonic SC-HTB400EGK - Barra de Sonido 2.1 All-In-One con Subwoofer Integrado  160W  SW 80W  Bluetooth  HDMI  ARC  Entrada Digital Óptica  Montaje en Pared '
 ---
 
 Está [Panasonic SC-HTB400EGK - Barra de Sonido 2.1 All-In-One con Subwoofer Integrado  160W  SW 80W  Bluetooth  HDMI  ARC  Entrada Digital Óptica  Montaje en Pared ](https://www.amazon.es/dp/B088VDLQXL/?tag=tolees-21) con 36.45 de descuento por 196.99 EUR (original: 309.99 EUR) en el siguiente enlace!

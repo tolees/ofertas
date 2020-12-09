@@ -14,7 +14,7 @@ currency: EUR
 price: 9.03
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Vero Moda Vmcozy Copenhagen Nice LS Cardigan Noos  Chaqueta Punto para Mujer  Gris  Asphalt   42  Talla del Fabricante: X-Large 
+prodname: 'Vero Moda Vmcozy Copenhagen Nice LS Cardigan Noos  Chaqueta Punto para Mujer  Gris  Asphalt   42  Talla del Fabricante: X-Large '
 ---
 
 Ahora mismo tienes [Vero Moda Vmcozy Copenhagen Nice LS Cardigan Noos  Chaqueta Punto para Mujer  Gris  Asphalt   42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01JOWMRXC/?tag=tolees-21) a 9.03 EUR (original: 24.95 EUR) (63.81 %  de descuento) en el siguiente enlace!

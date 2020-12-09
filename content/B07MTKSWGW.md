@@ -14,7 +14,7 @@ currency: EUR
 price: 12.5
 comparePrice: 16.92 EUR
 inStock: true
-prodname: Mighty Beanz - Slammer Time Race Track  Giochi Preziosi MGH06000 
+prodname: 'Mighty Beanz - Slammer Time Race Track  Giochi Preziosi MGH06000 '
 ---
 
 Está [Mighty Beanz - Slammer Time Race Track  Giochi Preziosi MGH06000 ](https://www.amazon.es/dp/B07MTKSWGW/?tag=tolees-21) con 26.12 de descuento por 12.5 EUR (original: 16.92 EUR) en el siguiente enlace!

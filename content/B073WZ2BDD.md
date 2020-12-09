@@ -14,7 +14,7 @@ currency: EUR
 price: 4.48
 comparePrice: 10.0 EUR
 inStock: true
-prodname: Rimmel London Magnifeyes Palette Blush Edition Paleta de Sombras Tono 2 - 14.2 g
+prodname: 'Rimmel London Magnifeyes Palette Blush Edition Paleta de Sombras Tono 2 - 14.2 g'
 ---
 
 Está [Rimmel London Magnifeyes Palette Blush Edition Paleta de Sombras Tono 2 - 14.2 g](https://www.amazon.es/dp/B073WZ2BDD/?tag=tolees-21) con 55.20 de descuento por 4.48 EUR (original: 10.0 EUR) en el siguiente enlace!

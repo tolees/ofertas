@@ -14,7 +14,7 @@ currency: EUR
 price: 32.31
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance 775  Zapatillas de Running  Mujer  Multicolor  Grey/Pink 026   38 EU
+prodname: 'New Balance 775  Zapatillas de Running  Mujer  Multicolor  Grey/Pink 026   38 EU'
 ---
 
 Tienes [New Balance 775  Zapatillas de Running  Mujer  Multicolor  Grey/Pink 026   38 EU](https://www.amazon.es/dp/B0195IMDTS/?tag=tolees-21) con un 64.10 % de descuento con precio de oferta de 32.31 EUR (original: 90 EUR) en el siguiente enlace!

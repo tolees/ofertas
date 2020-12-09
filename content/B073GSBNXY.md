@@ -14,7 +14,7 @@ currency: EUR
 price: 25.72
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Esprit 097ee1g019  Chaqueta Mujer  Gris  Brown Grey 025   Small
+prodname: 'Esprit 097ee1g019  Chaqueta Mujer  Gris  Brown Grey 025   Small'
 ---
 
 Está [Esprit 097ee1g019  Chaqueta Mujer  Gris  Brown Grey 025   Small](https://www.amazon.es/dp/B073GSBNXY/?tag=tolees-21) con 81.63 de descuento por 25.72 EUR (original: 139.99 EUR) en el siguiente enlace!

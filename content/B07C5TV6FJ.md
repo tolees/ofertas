@@ -14,7 +14,7 @@ currency: EUR
 price: 20.29
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Cut Salad Artifact Vegetable Fruit Cutting Bowl Split Maker Kitchen Dicing Machine Fruit Plate Shredder Blue Green
+prodname: 'Cut Salad Artifact Vegetable Fruit Cutting Bowl Split Maker Kitchen Dicing Machine Fruit Plate Shredder Blue Green'
 ---
 
 Está [Cut Salad Artifact Vegetable Fruit Cutting Bowl Split Maker Kitchen Dicing Machine Fruit Plate Shredder Blue Green](https://www.amazon.es/dp/B07C5TV6FJ/?tag=tolees-21) con 30.01 de descuento por 20.29 EUR (original: 28.99 EUR) en el siguiente enlace!

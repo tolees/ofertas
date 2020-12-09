@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 45.9 EUR
 inStock: true
-prodname: Mars Gaming MCL  caja PC  cristal templado  ventilador 12cm  LED 46 efectos
+prodname: 'Mars Gaming MCL  caja PC  cristal templado  ventilador 12cm  LED 46 efectos'
 ---
 
 Tienes [Mars Gaming MCL  caja PC  cristal templado  ventilador 12cm  LED 46 efectos](https://www.amazon.es/dp/B07YSW6NRZ/?tag=tolees-21) con un 47.73 % de descuento con precio de oferta de 23.99 EUR (original: 45.9 EUR) en el siguiente enlace!

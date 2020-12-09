@@ -14,7 +14,7 @@ currency: EUR
 price: 58.08
 comparePrice: 123.17 EUR
 inStock: true
-prodname: DELSEY Paris Belmont Plus Maleta  70 cm  80.5 litros  Rosa
+prodname: 'DELSEY Paris Belmont Plus Maleta  70 cm  80.5 litros  Rosa'
 ---
 
 Está [DELSEY Paris Belmont Plus Maleta  70 cm  80.5 litros  Rosa](https://www.amazon.es/dp/B07N3B8CMN/?tag=tolees-21) con 52.85 de descuento por 58.08 EUR (original: 123.17 EUR) en el siguiente enlace!

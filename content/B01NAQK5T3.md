@@ -14,7 +14,7 @@ currency: EUR
 price: 36.95
 comparePrice: 69.95 EUR
 inStock: true
-prodname: G-STAR RAW Rovulc Denim Low Sneakers  Zapatillas para Mujer  Blanco  White 110   41 EU
+prodname: 'G-STAR RAW Rovulc Denim Low Sneakers  Zapatillas para Mujer  Blanco  White 110   41 EU'
 ---
 
 Ahora mismo tienes [G-STAR RAW Rovulc Denim Low Sneakers  Zapatillas para Mujer  Blanco  White 110   41 EU](https://www.amazon.es/dp/B01NAQK5T3/?tag=tolees-21) a 36.95 EUR (original: 69.95 EUR) (47.18 %  de descuento) en el siguiente enlace!

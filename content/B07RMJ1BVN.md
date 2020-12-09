@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 74.99 EUR
 inStock: true
-prodname: Panasonic TU456 - Teléfono Móvil para Mayores  Pantalla Color TFT 2.4"  botón SOS  compatibilidad audífonos  Resistente a Golpes  Bluetooth  cámara  Color Blanco
+prodname: 'Panasonic TU456 - Teléfono Móvil para Mayores  Pantalla Color TFT 2.4"  botón SOS  compatibilidad audífonos  Resistente a Golpes  Bluetooth  cámara  Color Blanco'
 ---
 
 Tienes [Panasonic TU456 - Teléfono Móvil para Mayores  Pantalla Color TFT 2.4"  botón SOS  compatibilidad audífonos  Resistente a Golpes  Bluetooth  cámara  Color Blanco](https://www.amazon.es/dp/B07RMJ1BVN/?tag=tolees-21) con un 26.67 % de descuento con precio de oferta de 54.99 EUR (original: 74.99 EUR) en el siguiente enlace!

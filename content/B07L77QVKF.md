@@ -14,7 +14,7 @@ currency: EUR
 price: 29.59
 comparePrice: 45.0 EUR
 inStock: true
-prodname: Apple Clear Case  para el iPhone XR 
+prodname: 'Apple Clear Case  para el iPhone XR '
 ---
 
 Ahora mismo tienes [Apple Clear Case  para el iPhone XR ](https://www.amazon.es/dp/B07L77QVKF/?tag=tolees-21) a 29.59 EUR (original: 45.0 EUR) (34.24 %  de descuento) en el siguiente enlace!

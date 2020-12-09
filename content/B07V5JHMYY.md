@@ -14,7 +14,7 @@ currency: EUR
 price: 8.5
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Yulu-#Snapstar Izzy  407251    color/modelo surtido
+prodname: 'Yulu-#Snapstar Izzy  407251    color/modelo surtido'
 ---
 
 Tienes [Yulu-#Snapstar Izzy  407251    color/modelo surtido](https://www.amazon.es/dp/B07V5JHMYY/?tag=tolees-21) con un 57.48 % de descuento con precio de oferta de 8.5 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 73.99
 comparePrice: 145.0 EUR
 inStock: true
-prodname: Lacoste Ah4085 suéter  Azul  Marine/Farine/Marine Gm65   X-Small  Talla del Fabricante: 2  para Hombre
+prodname: 'Lacoste Ah4085 suéter  Azul  Marine/Farine/Marine Gm65   X-Small  Talla del Fabricante: 2  para Hombre'
 ---
 
 Ahora mismo tienes [Lacoste Ah4085 suéter  Azul  Marine/Farine/Marine Gm65   X-Small  Talla del Fabricante: 2  para Hombre](https://www.amazon.es/dp/B07G2V9BDX/?tag=tolees-21) a 73.99 EUR (original: 145.0 EUR) (48.97 %  de descuento) en el siguiente enlace!

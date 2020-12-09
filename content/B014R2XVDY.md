@@ -14,7 +14,7 @@ currency: EUR
 price: 24.09
 comparePrice: 40.0 EUR
 inStock: true
-prodname: Sony MDRXB50APW.CE7 - Auriculares intraurales  Extra Bass  micrófono Integrado   Blanco
+prodname: 'Sony MDRXB50APW.CE7 - Auriculares intraurales  Extra Bass  micrófono Integrado   Blanco'
 ---
 
 Está [Sony MDRXB50APW.CE7 - Auriculares intraurales  Extra Bass  micrófono Integrado   Blanco](https://www.amazon.es/dp/B014R2XVDY/?tag=tolees-21) con 39.78 de descuento por 24.09 EUR (original: 40.0 EUR) en el siguiente enlace!

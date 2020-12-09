@@ -14,7 +14,7 @@ currency: EUR
 price: 15.95
 comparePrice: 25.9 EUR
 inStock: true
-prodname: Colgador de guitarra rosa y ajustable para niñas y chicas – Pack con 2 cierres para correas y 2 púas a juego – Correa para guitarra eléctrica y acústica  ideal como regalo para guitarristas
+prodname: 'Colgador de guitarra rosa y ajustable para niñas y chicas – Pack con 2 cierres para correas y 2 púas a juego – Correa para guitarra eléctrica y acústica  ideal como regalo para guitarristas'
 ---
 
 Está [Colgador de guitarra rosa y ajustable para niñas y chicas – Pack con 2 cierres para correas y 2 púas a juego – Correa para guitarra eléctrica y acústica  ideal como regalo para guitarristas](https://www.amazon.es/dp/B01N1XCEXW/?tag=tolees-21) con 38.42 de descuento por 15.95 EUR (original: 25.9 EUR) en el siguiente enlace!

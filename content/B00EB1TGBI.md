@@ -14,7 +14,7 @@ currency: EUR
 price: 51.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: WMF Lineo Batidora de Varillas  350 W  Acero Inoxidable  5 Velocidades  Cromargan mate/Negro
+prodname: 'WMF Lineo Batidora de Varillas  350 W  Acero Inoxidable  5 Velocidades  Cromargan mate/Negro'
 ---
 
 Ahora mismo tienes [WMF Lineo Batidora de Varillas  350 W  Acero Inoxidable  5 Velocidades  Cromargan mate/Negro](https://www.amazon.es/dp/B00EB1TGBI/?tag=tolees-21) a 51.99 EUR (original: 99.99 EUR) (48.00 %  de descuento) en el siguiente enlace!

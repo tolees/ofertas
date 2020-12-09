@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 60.0 EUR
 inStock: true
-prodname: KUTOOK Pantalones Trekking Hombre Softshell Impermeables y A Prueba de Viento Transpirables Cálidos Pantalones Invierno con Forro Polar para Montaña Escalada Running Gris XL 
+prodname: 'KUTOOK Pantalones Trekking Hombre Softshell Impermeables y A Prueba de Viento Transpirables Cálidos Pantalones Invierno con Forro Polar para Montaña Escalada Running Gris XL '
 ---
 
 Ahora mismo tienes [KUTOOK Pantalones Trekking Hombre Softshell Impermeables y A Prueba de Viento Transpirables Cálidos Pantalones Invierno con Forro Polar para Montaña Escalada Running Gris XL ](https://www.amazon.es/dp/B08HGQJTCL/?tag=tolees-21) a 39.99 EUR (original: 60.0 EUR) (33.35 %  de descuento) en el siguiente enlace!

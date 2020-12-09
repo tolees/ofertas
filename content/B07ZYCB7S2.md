@@ -14,7 +14,7 @@ currency: EUR
 price: 21.49
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Play-Doh - Fabrica de Chocolate - Hasbro E98445L0
+prodname: 'Play-Doh - Fabrica de Chocolate - Hasbro E98445L0'
 ---
 
 Está [Play-Doh - Fabrica de Chocolate - Hasbro E98445L0](https://www.amazon.es/dp/B07ZYCB7S2/?tag=tolees-21) con 34.86 de descuento por 21.49 EUR (original: 32.99 EUR) en el siguiente enlace!

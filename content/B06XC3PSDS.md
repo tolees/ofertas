@@ -14,7 +14,7 @@ currency: EUR
 price: 299.99
 comparePrice: 449.99 EUR
 inStock: true
-prodname: CapitalSports Pilato Pilates Reformer  Banco de Ejercicios  120kg máx  Altura Regulable  Multifuncional  Entrenamiento en casa 
+prodname: 'CapitalSports Pilato Pilates Reformer  Banco de Ejercicios  120kg máx  Altura Regulable  Multifuncional  Entrenamiento en casa '
 ---
 
 Ahora mismo tienes [CapitalSports Pilato Pilates Reformer  Banco de Ejercicios  120kg máx  Altura Regulable  Multifuncional  Entrenamiento en casa ](https://www.amazon.es/dp/B06XC3PSDS/?tag=tolees-21) a 299.99 EUR (original: 449.99 EUR) (33.33 %  de descuento) en el siguiente enlace!

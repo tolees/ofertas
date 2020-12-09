@@ -14,7 +14,7 @@ currency: EUR
 price: 3
 comparePrice: 8.75 EUR
 inStock: true
-prodname: Iwhite Pasta Dental Blanqueadora - 75 ml
+prodname: 'Iwhite Pasta Dental Blanqueadora - 75 ml'
 ---
 
 Ahora mismo tienes [Iwhite Pasta Dental Blanqueadora - 75 ml](https://www.amazon.es/dp/B00J3RKFW4/?tag=tolees-21) a 3 EUR (original: 8.75 EUR) (65.71 %  de descuento) en el siguiente enlace!

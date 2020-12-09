@@ -14,7 +14,7 @@ currency: EUR
 price: 14.13
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Edge Entertainment The Others - Equipo Beta EDGSSN07
+prodname: 'Edge Entertainment The Others - Equipo Beta EDGSSN07'
 ---
 
 Ahora mismo tienes [Edge Entertainment The Others - Equipo Beta EDGSSN07](https://www.amazon.es/dp/B01MS8TU7P/?tag=tolees-21) a 14.13 EUR (original: 34.95 EUR) (59.57 %  de descuento) en el siguiente enlace!

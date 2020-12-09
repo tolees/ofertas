@@ -14,7 +14,7 @@ currency: EUR
 price: 14.43
 comparePrice: 40 EUR
 inStock: true
-prodname: Hurley W One & Only Rashguard L/S LYCRAS  Mujer  Pink Tint  S
+prodname: 'Hurley W One & Only Rashguard L/S LYCRAS  Mujer  Pink Tint  S'
 ---
 
 Ahora mismo tienes [Hurley W One & Only Rashguard L/S LYCRAS  Mujer  Pink Tint  S](https://www.amazon.es/dp/B07KCWVJZ3/?tag=tolees-21) a 14.43 EUR (original: 40 EUR) (63.92 %  de descuento) en el siguiente enlace!

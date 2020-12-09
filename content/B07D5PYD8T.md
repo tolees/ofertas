@@ -14,7 +14,7 @@ currency: EUR
 price: 24.92
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Under Armour Tech 3In 2 Pack Ropa Interior  Hombre  Gris  Mod Jet Gray Light Heather 011   XXL
+prodname: 'Under Armour Tech 3In 2 Pack Ropa Interior  Hombre  Gris  Mod Jet Gray Light Heather 011   XXL'
 ---
 
 Tienes [Under Armour Tech 3In 2 Pack Ropa Interior  Hombre  Gris  Mod Jet Gray Light Heather 011   XXL](https://www.amazon.es/dp/B07D5PYD8T/?tag=tolees-21) con un 28.78 % de descuento con precio de oferta de 24.92 EUR (original: 34.99 EUR) en el siguiente enlace!

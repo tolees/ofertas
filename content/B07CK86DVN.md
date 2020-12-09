@@ -14,7 +14,7 @@ currency: EUR
 price: 1.61
 comparePrice: 57.09 EUR
 inStock: true
-prodname: KingNew Tiny Vial - Botes de plástico vacíos y portátiles  tamaño pequeño  3 g
+prodname: 'KingNew Tiny Vial - Botes de plástico vacíos y portátiles  tamaño pequeño  3 g'
 ---
 
 Está [KingNew Tiny Vial - Botes de plástico vacíos y portátiles  tamaño pequeño  3 g](https://www.amazon.es/dp/B07CK86DVN/?tag=tolees-21) con 97.18 de descuento por 1.61 EUR (original: 57.09 EUR) en el siguiente enlace!

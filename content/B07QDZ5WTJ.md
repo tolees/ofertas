@@ -14,7 +14,7 @@ currency: EUR
 price: 14.2
 comparePrice: 27.95 EUR
 inStock: true
-prodname: Dickie Toys- Toy Story 4 Nave Buzz RC por Cable  Multicolor  3153000 
+prodname: 'Dickie Toys- Toy Story 4 Nave Buzz RC por Cable  Multicolor  3153000 '
 ---
 
 Está [Dickie Toys- Toy Story 4 Nave Buzz RC por Cable  Multicolor  3153000 ](https://www.amazon.es/dp/B07QDZ5WTJ/?tag=tolees-21) con 49.19 de descuento por 14.2 EUR (original: 27.95 EUR) en el siguiente enlace!

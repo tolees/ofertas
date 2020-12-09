@@ -14,7 +14,7 @@ currency: EUR
 price: 60.84
 comparePrice: 149.95 EUR
 inStock: true
-prodname: G-STAR RAW Strett Qlt Jkt Wmn  Chaqueta para Mujer  Naranja  Dore 3383  Small
+prodname: 'G-STAR RAW Strett Qlt Jkt Wmn  Chaqueta para Mujer  Naranja  Dore 3383  Small'
 ---
 
 Está [G-STAR RAW Strett Qlt Jkt Wmn  Chaqueta para Mujer  Naranja  Dore 3383  Small](https://www.amazon.es/dp/B07BJHLHW4/?tag=tolees-21) con 59.43 de descuento por 60.84 EUR (original: 149.95 EUR) en el siguiente enlace!

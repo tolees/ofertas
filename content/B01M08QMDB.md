@@ -14,7 +14,7 @@ currency: EUR
 price: 23.0
 comparePrice: 30.8 EUR
 inStock: true
-prodname: Árbol de Navidad Artificial Arboles C/Soporte Plástico 120-240cm  Blanco  150cm 293Tips 
+prodname: 'Árbol de Navidad Artificial Arboles C/Soporte Plástico 120-240cm  Blanco  150cm 293Tips '
 ---
 
 Tienes [Árbol de Navidad Artificial Arboles C/Soporte Plástico 120-240cm  Blanco  150cm 293Tips ](https://www.amazon.es/dp/B01M08QMDB/?tag=tolees-21) con un 25.32 % de descuento con precio de oferta de 23.0 EUR (original: 30.8 EUR) en el siguiente enlace!

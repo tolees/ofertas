@@ -14,7 +14,7 @@ currency: EUR
 price: 3.11
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Chicco- Sonajero  23.5 X 17 X 0.2 Cm  7893000000 
+prodname: 'Chicco- Sonajero  23.5 X 17 X 0.2 Cm  7893000000 '
 ---
 
 Tienes [Chicco- Sonajero  23.5 X 17 X 0.2 Cm  7893000000 ](https://www.amazon.es/dp/B06X3RLSDT/?tag=tolees-21) con un 68.87 % de descuento con precio de oferta de 3.11 EUR (original: 9.99 EUR) en el siguiente enlace!

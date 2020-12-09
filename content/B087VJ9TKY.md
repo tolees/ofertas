@@ -14,7 +14,7 @@ currency: EUR
 price: 43.49
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Pouring Adventure Chaqueta para Hombre  Azul  Night Tide   M
+prodname: 'Columbia Pouring Adventure Chaqueta para Hombre  Azul  Night Tide   M'
 ---
 
 Tienes [Columbia Pouring Adventure Chaqueta para Hombre  Azul  Night Tide   M](https://www.amazon.es/dp/B087VJ9TKY/?tag=tolees-21) con un 51.67 % de descuento con precio de oferta de 43.49 EUR (original: 89.99 EUR) en el siguiente enlace!

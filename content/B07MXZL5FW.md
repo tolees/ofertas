@@ -14,7 +14,7 @@ currency: EUR
 price: 18.64
 comparePrice: 30 EUR
 inStock: true
-prodname: Salomon Blend Logo SS tee T-Shirt  Hombre  Negro  M
+prodname: 'Salomon Blend Logo SS tee T-Shirt  Hombre  Negro  M'
 ---
 
 Ahora mismo tienes [Salomon Blend Logo SS tee T-Shirt  Hombre  Negro  M](https://www.amazon.es/dp/B07MXZL5FW/?tag=tolees-21) a 18.64 EUR (original: 30 EUR) (37.87 %  de descuento) en el siguiente enlace!

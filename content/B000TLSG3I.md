@@ -14,7 +14,7 @@ currency: EUR
 price: 298.49
 comparePrice: 450.0 EUR
 inStock: true
-prodname: Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Caucho JP2000-08E
+prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Caucho JP2000-08E'
 ---
 
 Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Caucho JP2000-08E](https://www.amazon.es/dp/B000TLSG3I/?tag=tolees-21) con un 33.67 % de descuento con precio de oferta de 298.49 EUR (original: 450.0 EUR) en el siguiente enlace!

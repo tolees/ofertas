@@ -14,7 +14,7 @@ currency: EUR
 price: 7.12
 comparePrice: 12.99 EUR
 inStock: true
-prodname: La Bella Durmiente [Blu-ray]
+prodname: 'La Bella Durmiente [Blu-ray]'
 ---
 
 Tienes [La Bella Durmiente [Blu-ray]](https://www.amazon.es/dp/B00JQY7V3U/?tag=tolees-21) con un 45.19 % de descuento con precio de oferta de 7.12 EUR (original: 12.99 EUR) en el siguiente enlace!

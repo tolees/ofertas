@@ -14,7 +14,7 @@ currency: EUR
 price: 38.57
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Columbia Mujer Pantalón convertible  SATURDAY TRAIL II CONVERTIBLE PANTS  Nailon  Gris oscuro  India Ink   Talla: 2  AK8120
+prodname: 'Columbia Mujer Pantalón convertible  SATURDAY TRAIL II CONVERTIBLE PANTS  Nailon  Gris oscuro  India Ink   Talla: 2  AK8120'
 ---
 
 Tienes [Columbia Mujer Pantalón convertible  SATURDAY TRAIL II CONVERTIBLE PANTS  Nailon  Gris oscuro  India Ink   Talla: 2  AK8120](https://www.amazon.es/dp/B0106VYXVY/?tag=tolees-21) con un 51.76 % de descuento con precio de oferta de 38.57 EUR (original: 79.95 EUR) en el siguiente enlace!

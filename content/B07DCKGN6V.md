@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Breaker LTH  Zapatillas Unisex Adulto  Blanco White  44.5 EU
+prodname: 'Puma Breaker LTH  Zapatillas Unisex Adulto  Blanco White  44.5 EU'
 ---
 
 Ahora mismo tienes [Puma Breaker LTH  Zapatillas Unisex Adulto  Blanco White  44.5 EU](https://www.amazon.es/dp/B07DCKGN6V/?tag=tolees-21) a 24.95 EUR (original: 89.95 EUR) (72.26 %  de descuento) en el siguiente enlace!

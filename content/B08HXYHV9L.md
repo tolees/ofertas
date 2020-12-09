@@ -14,7 +14,7 @@ currency: EUR
 price: 9.27
 comparePrice: 12.37 EUR
 inStock: true
-prodname: USOCUTE 100 Piezas Adultos Protección mascarillas 3 Capas Transpirables
+prodname: 'USOCUTE 100 Piezas Adultos Protección mascarillas 3 Capas Transpirables'
 ---
 
 Tienes [USOCUTE 100 Piezas Adultos Protección mascarillas 3 Capas Transpirables](https://www.amazon.es/dp/B08HXYHV9L/?tag=tolees-21) con un 25.06 % de descuento con precio de oferta de 9.27 EUR (original: 12.37 EUR) en el siguiente enlace!

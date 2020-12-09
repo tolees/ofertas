@@ -14,7 +14,7 @@ currency: EUR
 price: 5.49
 comparePrice: 10 EUR
 inStock: true
-prodname: Yizhet 2uds neopreno manguito protector para vaina inferior de bicicleta  color negro
+prodname: 'Yizhet 2uds neopreno manguito protector para vaina inferior de bicicleta  color negro'
 ---
 
 Tienes [Yizhet 2uds neopreno manguito protector para vaina inferior de bicicleta  color negro](https://www.amazon.es/dp/B01LO70UXO/?tag=tolees-21) con un 45.10 % de descuento con precio de oferta de 5.49 EUR (original: 10 EUR) en el siguiente enlace!

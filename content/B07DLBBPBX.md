@@ -14,7 +14,7 @@ currency: EUR
 price: 18.27
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Springfield 6.T.Ap.Parka Polar Navy P Parka  Gama Azules 19   Tamaño del Fabricante:36  para Mujer
+prodname: 'Springfield 6.T.Ap.Parka Polar Navy P Parka  Gama Azules 19   Tamaño del Fabricante:36  para Mujer'
 ---
 
 Está [Springfield 6.T.Ap.Parka Polar Navy P Parka  Gama Azules 19   Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07DLBBPBX/?tag=tolees-21) con 63.45 de descuento por 18.27 EUR (original: 49.99 EUR) en el siguiente enlace!

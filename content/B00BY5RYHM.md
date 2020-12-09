@@ -14,7 +14,7 @@ currency: EUR
 price: 70.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Samsonite Termo Young Spinner M Maleta  70 cm  69 L  Negro  Black 
+prodname: 'Samsonite Termo Young Spinner M Maleta  70 cm  69 L  Negro  Black '
 ---
 
 Ahora mismo tienes [Samsonite Termo Young Spinner M Maleta  70 cm  69 L  Negro  Black ](https://www.amazon.es/dp/B00BY5RYHM/?tag=tolees-21) a 70.0 EUR (original: 199.0 EUR) (64.82 %  de descuento) en el siguiente enlace!

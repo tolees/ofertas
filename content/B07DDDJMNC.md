@@ -14,7 +14,7 @@ currency: EUR
 price: 40.65
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Furreal Friends Hasbro E0388105 - Lolo  Mi Loro Molón
+prodname: 'Furreal Friends Hasbro E0388105 - Lolo  Mi Loro Molón'
 ---
 
 Está [Furreal Friends Hasbro E0388105 - Lolo  Mi Loro Molón](https://www.amazon.es/dp/B07DDDJMNC/?tag=tolees-21) con 49.16 de descuento por 40.65 EUR (original: 79.95 EUR) en el siguiente enlace!

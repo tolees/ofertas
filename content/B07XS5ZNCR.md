@@ -14,7 +14,7 @@ currency: EUR
 price: 28.82
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Medisana HP 622 almohadilla de calor para el hombro y el cuello  poncho de calor con 6 ajustes de temperatura  protección contra el sobrecalentamiento  desconexión automática  lavable - Gris
+prodname: 'Medisana HP 622 almohadilla de calor para el hombro y el cuello  poncho de calor con 6 ajustes de temperatura  protección contra el sobrecalentamiento  desconexión automática  lavable - Gris'
 ---
 
 Tienes [Medisana HP 622 almohadilla de calor para el hombro y el cuello  poncho de calor con 6 ajustes de temperatura  protección contra el sobrecalentamiento  desconexión automática  lavable - Gris](https://www.amazon.es/dp/B07XS5ZNCR/?tag=tolees-21) con un 42.30 % de descuento con precio de oferta de 28.82 EUR (original: 49.95 EUR) en el siguiente enlace!

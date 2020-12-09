@@ -14,7 +14,7 @@ currency: EUR
 price: 23.49
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Superdry O L Vintage Embroidery L/s tee Camiseta de Tirantes  Blanco  Optic White 26c   XS para Hombre
+prodname: 'Superdry O L Vintage Embroidery L/s tee Camiseta de Tirantes  Blanco  Optic White 26c   XS para Hombre'
 ---
 
 Está [Superdry O L Vintage Embroidery L/s tee Camiseta de Tirantes  Blanco  Optic White 26c   XS para Hombre](https://www.amazon.es/dp/B07FN2MWN8/?tag=tolees-21) con 41.26 de descuento por 23.49 EUR (original: 39.99 EUR) en el siguiente enlace!

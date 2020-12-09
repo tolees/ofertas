@@ -14,7 +14,7 @@ currency: EUR
 price: 23.61
 comparePrice: 45.99 EUR
 inStock: true
-prodname: MTNG Collection 57892  Botas Biker para Mujer  Marrón  Karma Petrolatum Cuero C42793   37 EU
+prodname: 'MTNG Collection 57892  Botas Biker para Mujer  Marrón  Karma Petrolatum Cuero C42793   37 EU'
 ---
 
 Ahora mismo tienes [MTNG Collection 57892  Botas Biker para Mujer  Marrón  Karma Petrolatum Cuero C42793   37 EU](https://www.amazon.es/dp/B07DQTQSHC/?tag=tolees-21) a 23.61 EUR (original: 45.99 EUR) (48.66 %  de descuento) en el siguiente enlace!

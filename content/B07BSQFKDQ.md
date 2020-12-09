@@ -14,7 +14,7 @@ currency: EUR
 price: 49.9
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Colored Check Shirt  Camisa para Hombre   Parisian Blue/Forest Biome/Multi 902  Small
+prodname: 'Tommy Hilfiger Colored Check Shirt  Camisa para Hombre   Parisian Blue/Forest Biome/Multi 902  Small'
 ---
 
 Tienes [Tommy Hilfiger Colored Check Shirt  Camisa para Hombre   Parisian Blue/Forest Biome/Multi 902  Small](https://www.amazon.es/dp/B07BSQFKDQ/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 49.9 EUR (original: 89.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.3
 comparePrice: 10.95 EUR
 inStock: true
-prodname: Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Marino/Blanco   XXS
+prodname: 'Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Marino/Blanco   XXS'
 ---
 
 Ahora mismo tienes [Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Marino/Blanco   XXS](https://www.amazon.es/dp/B06XHVYY54/?tag=tolees-21) a 5.3 EUR (original: 10.95 EUR) (51.60 %  de descuento) en el siguiente enlace!

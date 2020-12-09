@@ -14,7 +14,7 @@ currency: EUR
 price: 8.15
 comparePrice: 14.99 EUR
 inStock: true
-prodname: POP! Vinilo - Harry Potter: Neville Longbottom
+prodname: 'POP! Vinilo - Harry Potter: Neville Longbottom'
 ---
 
 Está [POP! Vinilo - Harry Potter: Neville Longbottom](https://www.amazon.es/dp/B01BO4JUDI/?tag=tolees-21) con 45.63 de descuento por 8.15 EUR (original: 14.99 EUR) en el siguiente enlace!

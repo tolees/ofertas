@@ -14,7 +14,7 @@ currency: EUR
 price: 38.97
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Equalizer-Double Play  Mocasines Hombre  Azul  Navy   39 EU
+prodname: 'Skechers Equalizer-Double Play  Mocasines Hombre  Azul  Navy   39 EU'
 ---
 
 Está [Skechers Equalizer-Double Play  Mocasines Hombre  Azul  Navy   39 EU](https://www.amazon.es/dp/B0167WFMFC/?tag=tolees-21) con 40.00 de descuento por 38.97 EUR (original: 64.95 EUR) en el siguiente enlace!

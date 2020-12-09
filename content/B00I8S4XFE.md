@@ -14,7 +14,7 @@ currency: EUR
 price: 7.87
 comparePrice: 42.99 EUR
 inStock: true
-prodname: Smiffys Disfraz de malicia zombi  con vestido  pecho de látex  delantal y diadema
+prodname: 'Smiffys Disfraz de malicia zombi  con vestido  pecho de látex  delantal y diadema'
 ---
 
 Tienes [Smiffys Disfraz de malicia zombi  con vestido  pecho de látex  delantal y diadema](https://www.amazon.es/dp/B00I8S4XFE/?tag=tolees-21) con un 81.69 % de descuento con precio de oferta de 7.87 EUR (original: 42.99 EUR) en el siguiente enlace!

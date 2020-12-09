@@ -14,7 +14,7 @@ currency: EUR
 price: 12.9
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Simon & Tom - PURE HYDRA - Crema facial de día hidratante con protección SPF15 - 50ML - Alisa y suaviza la piel
+prodname: 'Simon & Tom - PURE HYDRA - Crema facial de día hidratante con protección SPF15 - 50ML - Alisa y suaviza la piel'
 ---
 
 Tienes [Simon & Tom - PURE HYDRA - Crema facial de día hidratante con protección SPF15 - 50ML - Alisa y suaviza la piel](https://www.amazon.es/dp/B01GQHDEK8/?tag=tolees-21) con un 56.86 % de descuento con precio de oferta de 12.9 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 44.95
 comparePrice: 90 EUR
 inStock: true
-prodname: Vans Sk8-hi Suede/Canvas  Zapatillas Unisex Adulto  Marrón  Tiger s Eye/True White   42 EU
+prodname: 'Vans Sk8-hi Suede/Canvas  Zapatillas Unisex Adulto  Marrón  Tiger s Eye/True White   42 EU'
 ---
 
 Está [Vans Sk8-hi Suede/Canvas  Zapatillas Unisex Adulto  Marrón  Tiger s Eye/True White   42 EU](https://www.amazon.es/dp/B06Y5LBH6V/?tag=tolees-21) con 50.06 de descuento por 44.95 EUR (original: 90 EUR) en el siguiente enlace!

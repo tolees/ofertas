@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Semillas Batlle Sustrato ecológio 45l  ecológico
+prodname: 'Semillas Batlle Sustrato ecológio 45l  ecológico'
 ---
 
 Está [Semillas Batlle Sustrato ecológio 45l  ecológico](https://www.amazon.es/dp/B07GNK4T6T/?tag=tolees-21) con 37.62 de descuento por 9.95 EUR (original: 15.95 EUR) en el siguiente enlace!

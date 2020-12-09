@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Riot: Civil Unrest
+prodname: 'Riot: Civil Unrest'
 ---
 
 Está [Riot: Civil Unrest](https://www.amazon.es/dp/B07H6DFT4W/?tag=tolees-21) con 36.01 de descuento por 15.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 85.39
 comparePrice: 175 EUR
 inStock: true
-prodname: Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 830499
+prodname: 'Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 830499'
 ---
 
 Está [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 830499](https://www.amazon.es/dp/B07BXT52QL/?tag=tolees-21) con 51.21 de descuento por 85.39 EUR (original: 175 EUR) en el siguiente enlace!

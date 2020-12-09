@@ -14,7 +14,7 @@ currency: EUR
 price: 21.9
 comparePrice: 34.25 EUR
 inStock: true
-prodname: Timberland Kennebec River  Camiseta para Hombre  Azul  Maritime Blue J38  Medium
+prodname: 'Timberland Kennebec River  Camiseta para Hombre  Azul  Maritime Blue J38  Medium'
 ---
 
 Ahora mismo tienes [Timberland Kennebec River  Camiseta para Hombre  Azul  Maritime Blue J38  Medium](https://www.amazon.es/dp/B079G9KWVZ/?tag=tolees-21) a 21.9 EUR (original: 34.25 EUR) (36.06 %  de descuento) en el siguiente enlace!

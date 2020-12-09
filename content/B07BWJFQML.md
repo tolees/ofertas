@@ -14,7 +14,7 @@ currency: EUR
 price: 14.79
 comparePrice: 24.9 EUR
 inStock: true
-prodname: Eono Essentials – Calcetines de running para hombre y mujer  paquete de 3 uds.   Blanco  tallas 35-38
+prodname: 'Eono Essentials – Calcetines de running para hombre y mujer  paquete de 3 uds.   Blanco  tallas 35-38'
 ---
 
 Está [Eono Essentials – Calcetines de running para hombre y mujer  paquete de 3 uds.   Blanco  tallas 35-38](https://www.amazon.es/dp/B07BWJFQML/?tag=tolees-21) con 40.60 de descuento por 14.79 EUR (original: 24.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.23
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Pepe Jeans Aurelie  Pantalones para Mujer    Blue 551   W24 Taille Fabricant XS
+prodname: 'Pepe Jeans Aurelie  Pantalones para Mujer    Blue 551   W24 Taille Fabricant XS'
 ---
 
 Tienes [Pepe Jeans Aurelie  Pantalones para Mujer    Blue 551   W24 Taille Fabricant XS](https://www.amazon.es/dp/B07CRJB62X/?tag=tolees-21) con un 77.18 % de descuento con precio de oferta de 18.23 EUR (original: 79.9 EUR) en el siguiente enlace!

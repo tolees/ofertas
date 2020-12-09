@@ -14,7 +14,7 @@ currency: EUR
 price: 14.06
 comparePrice: 30 EUR
 inStock: true
-prodname: Burton Vault Camisetas  Hombre  Gray Heather  M
+prodname: 'Burton Vault Camisetas  Hombre  Gray Heather  M'
 ---
 
 Está [Burton Vault Camisetas  Hombre  Gray Heather  M](https://www.amazon.es/dp/B07KGPT4GK/?tag=tolees-21) con 53.13 de descuento por 14.06 EUR (original: 30 EUR) en el siguiente enlace!

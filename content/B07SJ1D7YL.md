@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 40.0 EUR
 inStock: true
-prodname: Levi s Pillsbury  Zapatillas para Hombre  Rojo  R Red 87   44 EU
+prodname: 'Levi s Pillsbury  Zapatillas para Hombre  Rojo  R Red 87   44 EU'
 ---
 
 Está [Levi s Pillsbury  Zapatillas para Hombre  Rojo  R Red 87   44 EU](https://www.amazon.es/dp/B07SJ1D7YL/?tag=tolees-21) con 35.03 de descuento por 25.99 EUR (original: 40.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.49
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Harry Potter Muñeco Ron Weasley Baile de navidad de Harry Potter con accesorios  Mattel GFG15 
+prodname: 'Harry Potter Muñeco Ron Weasley Baile de navidad de Harry Potter con accesorios  Mattel GFG15 '
 ---
 
 Está [Harry Potter Muñeco Ron Weasley Baile de navidad de Harry Potter con accesorios  Mattel GFG15 ](https://www.amazon.es/dp/B07PPD24SV/?tag=tolees-21) con 51.94 de descuento por 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 10.2 EUR
 inStock: true
-prodname: El Mago De Oz Blu-Ray- Iconic [Blu-ray]
+prodname: 'El Mago De Oz Blu-Ray- Iconic [Blu-ray]'
 ---
 
 Ahora mismo tienes [El Mago De Oz Blu-Ray- Iconic [Blu-ray]](https://www.amazon.es/dp/B07HNFBCS7/?tag=tolees-21) a 4.99 EUR (original: 10.2 EUR) (51.08 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.73
 comparePrice: 13.57 EUR
 inStock: true
-prodname: Robocop  Edizione Rimasterizzata  [Italia] [Blu-ray]
+prodname: 'Robocop  Edizione Rimasterizzata  [Italia] [Blu-ray]'
 ---
 
 Ahora mismo tienes [Robocop  Edizione Rimasterizzata  [Italia] [Blu-ray]](https://www.amazon.es/dp/B00GWQGD7U/?tag=tolees-21) a 4.73 EUR (original: 13.57 EUR) (65.14 %  de descuento) en el siguiente enlace!

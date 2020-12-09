@@ -14,7 +14,7 @@ currency: EUR
 price: 2.5
 comparePrice: 5.95 EUR
 inStock: true
-prodname: BRA Junta cafetera con 10 Tazas  Gris  gris A990928
+prodname: 'BRA Junta cafetera con 10 Tazas  Gris  gris A990928'
 ---
 
 Tienes [BRA Junta cafetera con 10 Tazas  Gris  gris A990928](https://www.amazon.es/dp/B013J8CFOS/?tag=tolees-21) con un 57.98 % de descuento con precio de oferta de 2.5 EUR (original: 5.95 EUR) en el siguiente enlace!

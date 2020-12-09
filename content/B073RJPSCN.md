@@ -14,7 +14,7 @@ currency: EUR
 price: 31.32
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Reebok Trainfusion Nine 2.0  Zapatillas de Deporte para Hombre  Rojo  Primal Red/Skull Grey/White/Black   43 EU
+prodname: 'Reebok Trainfusion Nine 2.0  Zapatillas de Deporte para Hombre  Rojo  Primal Red/Skull Grey/White/Black   43 EU'
 ---
 
 Tienes [Reebok Trainfusion Nine 2.0  Zapatillas de Deporte para Hombre  Rojo  Primal Red/Skull Grey/White/Black   43 EU](https://www.amazon.es/dp/B073RJPSCN/?tag=tolees-21) con un 37.30 % de descuento con precio de oferta de 31.32 EUR (original: 49.95 EUR) en el siguiente enlace!

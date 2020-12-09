@@ -14,7 +14,7 @@ currency: EUR
 price: 32.24
 comparePrice: 52.1 EUR
 inStock: true
-prodname: Colgate Max White Expert Complete  Pasta de Dientes  blanqueamiento instantáneo y duradero - Pack 12 uds x 75ml
+prodname: 'Colgate Max White Expert Complete  Pasta de Dientes  blanqueamiento instantáneo y duradero - Pack 12 uds x 75ml'
 ---
 
 Está [Colgate Max White Expert Complete  Pasta de Dientes  blanqueamiento instantáneo y duradero - Pack 12 uds x 75ml](https://www.amazon.es/dp/B08FBVCPMZ/?tag=tolees-21) con 38.12 de descuento por 32.24 EUR (original: 52.1 EUR) en el siguiente enlace!

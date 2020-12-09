@@ -14,7 +14,7 @@ currency: EUR
 price: 2.2
 comparePrice: 3.9 EUR
 inStock: true
-prodname: Lactovit - Gel de Ducha Nutritivo  para Pieles Normales y Secas - 600ml
+prodname: 'Lactovit - Gel de Ducha Nutritivo  para Pieles Normales y Secas - 600ml'
 ---
 
 Está [Lactovit - Gel de Ducha Nutritivo  para Pieles Normales y Secas - 600ml](https://www.amazon.es/dp/B00NUZR2VM/?tag=tolees-21) con 43.59 de descuento por 2.2 EUR (original: 3.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.02
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Puma Court Star FS  Zapatillas Unisex Adulto  Naranja  Dusty Coral-Puma White 05   47 EU
+prodname: 'Puma Court Star FS  Zapatillas Unisex Adulto  Naranja  Dusty Coral-Puma White 05   47 EU'
 ---
 
 Ahora mismo tienes [Puma Court Star FS  Zapatillas Unisex Adulto  Naranja  Dusty Coral-Puma White 05   47 EU](https://www.amazon.es/dp/B07D9TTFXM/?tag=tolees-21) a 22.02 EUR (original: 69.95 EUR) (68.52 %  de descuento) en el siguiente enlace!

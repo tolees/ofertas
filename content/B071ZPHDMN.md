@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 18.94 EUR
 inStock: true
-prodname: Luz Trasera para Bicicleta Recargable USB  Super Brillante Rojo Luz LED Bici de 120 Lúmenes  Impermeable  240 ° Faro Trasero Bici para Máxima Seguridad de Ciclismo
+prodname: 'Luz Trasera para Bicicleta Recargable USB  Super Brillante Rojo Luz LED Bici de 120 Lúmenes  Impermeable  240 ° Faro Trasero Bici para Máxima Seguridad de Ciclismo'
 ---
 
 Tienes [Luz Trasera para Bicicleta Recargable USB  Super Brillante Rojo Luz LED Bici de 120 Lúmenes  Impermeable  240 ° Faro Trasero Bici para Máxima Seguridad de Ciclismo](https://www.amazon.es/dp/B071ZPHDMN/?tag=tolees-21) con un 47.25 % de descuento con precio de oferta de 9.99 EUR (original: 18.94 EUR) en el siguiente enlace!

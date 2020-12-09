@@ -14,7 +14,7 @@ currency: EUR
 price: 30.85
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Columbia Conspiracy IV Outdry  Zapatillas De Deporte para Exterior para Mujer  Rosa  Dark Raspberry/Corange   36.5 EU
+prodname: 'Columbia Conspiracy IV Outdry  Zapatillas De Deporte para Exterior para Mujer  Rosa  Dark Raspberry/Corange   36.5 EU'
 ---
 
 Tienes [Columbia Conspiracy IV Outdry  Zapatillas De Deporte para Exterior para Mujer  Rosa  Dark Raspberry/Corange   36.5 EU](https://www.amazon.es/dp/B0719SZNJY/?tag=tolees-21) con un 69.13 % de descuento con precio de oferta de 30.85 EUR (original: 99.95 EUR) en el siguiente enlace!

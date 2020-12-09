@@ -14,7 +14,7 @@ currency: EUR
 price: 67.62
 comparePrice: 149 EUR
 inStock: true
-prodname: REPLAY Anbass  Pantalones Vaqueros Delgados para Hombre  Gris  Grey Denim 9  W32/L30  Talla del Fabricante: 32 
+prodname: 'REPLAY Anbass  Pantalones Vaqueros Delgados para Hombre  Gris  Grey Denim 9  W32/L30  Talla del Fabricante: 32 '
 ---
 
 Ahora mismo tienes [REPLAY Anbass  Pantalones Vaqueros Delgados para Hombre  Gris  Grey Denim 9  W32/L30  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B071CP1FHN/?tag=tolees-21) a 67.62 EUR (original: 149 EUR) (54.62 %  de descuento) en el siguiente enlace!

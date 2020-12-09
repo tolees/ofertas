@@ -14,7 +14,7 @@ currency: EUR
 price: 39.2
 comparePrice: 120 EUR
 inStock: true
-prodname: Armani Exchange Sandal Nylon Webbing  Sandalias con Punta Abierta para Mujer  Negro  Black 00002   36 EU
+prodname: 'Armani Exchange Sandal Nylon Webbing  Sandalias con Punta Abierta para Mujer  Negro  Black 00002   36 EU'
 ---
 
 Ahora mismo tienes [Armani Exchange Sandal Nylon Webbing  Sandalias con Punta Abierta para Mujer  Negro  Black 00002   36 EU](https://www.amazon.es/dp/B07F6KWQZB/?tag=tolees-21) a 39.2 EUR (original: 120 EUR) (67.33 %  de descuento) en el siguiente enlace!

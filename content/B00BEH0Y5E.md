@@ -14,7 +14,7 @@ currency: EUR
 price: 26.98
 comparePrice: 62.84 EUR
 inStock: true
-prodname: Faro Barcelona 68507 - MOMA Aplique  bombilla incluida  LED  60W  acero y pantalla textil  color negro
+prodname: 'Faro Barcelona 68507 - MOMA Aplique  bombilla incluida  LED  60W  acero y pantalla textil  color negro'
 ---
 
 Tienes [Faro Barcelona 68507 - MOMA Aplique  bombilla incluida  LED  60W  acero y pantalla textil  color negro](https://www.amazon.es/dp/B00BEH0Y5E/?tag=tolees-21) con un 57.07 % de descuento con precio de oferta de 26.98 EUR (original: 62.84 EUR) en el siguiente enlace!

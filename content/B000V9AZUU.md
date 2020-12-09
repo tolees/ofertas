@@ -14,7 +14,7 @@ currency: EUR
 price: 3.68
 comparePrice: 6.15 EUR
 inStock: true
-prodname: TRIXIE Set Higiene Dental  Pasta y cepillos dedos  Perro
+prodname: 'TRIXIE Set Higiene Dental  Pasta y cepillos dedos  Perro'
 ---
 
 Está [TRIXIE Set Higiene Dental  Pasta y cepillos dedos  Perro](https://www.amazon.es/dp/B000V9AZUU/?tag=tolees-21) con 40.16 de descuento por 3.68 EUR (original: 6.15 EUR) en el siguiente enlace!

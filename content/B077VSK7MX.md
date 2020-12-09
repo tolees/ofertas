@@ -14,7 +14,7 @@ currency: EUR
 price: 31.68
 comparePrice: 67.25 EUR
 inStock: true
-prodname: ADIDAS Daily 2.0 Db0161  Zapatillas de Deporte para Hombre   Negro 000   44 2/3 EU
+prodname: 'ADIDAS Daily 2.0 Db0161  Zapatillas de Deporte para Hombre   Negro 000   44 2/3 EU'
 ---
 
 Está [ADIDAS Daily 2.0 Db0161  Zapatillas de Deporte para Hombre   Negro 000   44 2/3 EU](https://www.amazon.es/dp/B077VSK7MX/?tag=tolees-21) con 52.89 de descuento por 31.68 EUR (original: 67.25 EUR) en el siguiente enlace!

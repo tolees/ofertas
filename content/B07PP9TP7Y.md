@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 19.97 EUR
 inStock: true
-prodname: TACKLIFE Manguera de jardín Divisor  1 Way Divisor de jardín válvula de Conector  cómodo Mango de Goma -GHC1A
+prodname: 'TACKLIFE Manguera de jardín Divisor  1 Way Divisor de jardín válvula de Conector  cómodo Mango de Goma -GHC1A'
 ---
 
 Tienes [TACKLIFE Manguera de jardín Divisor  1 Way Divisor de jardín válvula de Conector  cómodo Mango de Goma -GHC1A](https://www.amazon.es/dp/B07PP9TP7Y/?tag=tolees-21) con un 70.01 % de descuento con precio de oferta de 5.99 EUR (original: 19.97 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 132.99
 comparePrice: 300 EUR
 inStock: true
-prodname: Finether-Deshumidificador Digital  Secador Purificador de Aire  16L/Día con Pantalla LCD  Portátil  Silencioso  Bajo Consumo de Electricidad  Ideal para Casa  Baño  Cocina  Blanco
+prodname: 'Finether-Deshumidificador Digital  Secador Purificador de Aire  16L/Día con Pantalla LCD  Portátil  Silencioso  Bajo Consumo de Electricidad  Ideal para Casa  Baño  Cocina  Blanco'
 ---
 
 Ahora mismo tienes [Finether-Deshumidificador Digital  Secador Purificador de Aire  16L/Día con Pantalla LCD  Portátil  Silencioso  Bajo Consumo de Electricidad  Ideal para Casa  Baño  Cocina  Blanco](https://www.amazon.es/dp/B01M5GQUTA/?tag=tolees-21) a 132.99 EUR (original: 300 EUR) (55.67 %  de descuento) en el siguiente enlace!

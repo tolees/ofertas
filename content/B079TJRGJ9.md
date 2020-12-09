@@ -14,7 +14,7 @@ currency: EUR
 price: 9.19
 comparePrice: 39.99 EUR
 inStock: true
-prodname: ESPRIT Collection 058eo1k008  Camiseta Mujer  Verde  Emerald Green 305   Medium
+prodname: 'ESPRIT Collection 058eo1k008  Camiseta Mujer  Verde  Emerald Green 305   Medium'
 ---
 
 Tienes [ESPRIT Collection 058eo1k008  Camiseta Mujer  Verde  Emerald Green 305   Medium](https://www.amazon.es/dp/B079TJRGJ9/?tag=tolees-21) con un 77.02 % de descuento con precio de oferta de 9.19 EUR (original: 39.99 EUR) en el siguiente enlace!

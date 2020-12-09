@@ -14,7 +14,7 @@ currency: EUR
 price: 8.2
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Funko Pop! - Dr. Ian Malcolm Figura de Vinilo  26733 
+prodname: 'Funko Pop! - Dr. Ian Malcolm Figura de Vinilo  26733 '
 ---
 
 Está [Funko Pop! - Dr. Ian Malcolm Figura de Vinilo  26733 ](https://www.amazon.es/dp/B0777DDGZV/?tag=tolees-21) con 48.59 de descuento por 8.2 EUR (original: 15.95 EUR) en el siguiente enlace!

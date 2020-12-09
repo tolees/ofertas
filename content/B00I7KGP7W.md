@@ -14,7 +14,7 @@ currency: EUR
 price: 13.3
 comparePrice: 77.04 EUR
 inStock: true
-prodname: Bolín Bolón 1019094012200 - Saco de carro
+prodname: 'Bolín Bolón 1019094012200 - Saco de carro'
 ---
 
 Está [Bolín Bolón 1019094012200 - Saco de carro](https://www.amazon.es/dp/B00I7KGP7W/?tag=tolees-21) con 82.74 de descuento por 13.3 EUR (original: 77.04 EUR) en el siguiente enlace!

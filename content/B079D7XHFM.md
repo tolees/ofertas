@@ -14,7 +14,7 @@ currency: EUR
 price: 40.09
 comparePrice: 80 EUR
 inStock: true
-prodname: GLOBE Motley Mid  Zapatillas de Deporte para Hombre   Partridge Brown/Gum/Fur 000   43 EU
+prodname: 'GLOBE Motley Mid  Zapatillas de Deporte para Hombre   Partridge Brown/Gum/Fur 000   43 EU'
 ---
 
 Tienes [GLOBE Motley Mid  Zapatillas de Deporte para Hombre   Partridge Brown/Gum/Fur 000   43 EU](https://www.amazon.es/dp/B079D7XHFM/?tag=tolees-21) con un 49.89 % de descuento con precio de oferta de 40.09 EUR (original: 80 EUR) en el siguiente enlace!

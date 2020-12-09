@@ -14,7 +14,7 @@ currency: EUR
 price: 46.35
 comparePrice: 65.34 EUR
 inStock: true
-prodname: Silverline 868581 - Carretilla para cargas pesadas  315 kg 
+prodname: 'Silverline 868581 - Carretilla para cargas pesadas  315 kg '
 ---
 
 Está [Silverline 868581 - Carretilla para cargas pesadas  315 kg ](https://www.amazon.es/dp/B000LFVSAK/?tag=tolees-21) con 29.06 de descuento por 46.35 EUR (original: 65.34 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: HOMFY Protector de Colchón Impermeable 160x200  150x190   Fundas de Colchón Transpirables  Cubre Colchón  Sábana Bajera Ajustable  Fibra de Bambú Ecológica  Anti-Ácaros e Hipoalergénica
+prodname: 'HOMFY Protector de Colchón Impermeable 160x200  150x190   Fundas de Colchón Transpirables  Cubre Colchón  Sábana Bajera Ajustable  Fibra de Bambú Ecológica  Anti-Ácaros e Hipoalergénica'
 ---
 
 Tienes [HOMFY Protector de Colchón Impermeable 160x200  150x190   Fundas de Colchón Transpirables  Cubre Colchón  Sábana Bajera Ajustable  Fibra de Bambú Ecológica  Anti-Ácaros e Hipoalergénica](https://www.amazon.es/dp/B075T2CRXP/?tag=tolees-21) con un 25.94 % de descuento con precio de oferta de 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

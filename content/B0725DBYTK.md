@@ -14,7 +14,7 @@ currency: EUR
 price: 29.11
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Adidas CrazyMove TR M  Zapatillas de Deporte para Hombre  Negro  Negbas/Grpudg/Ftwbla 000   42 EU
+prodname: 'Adidas CrazyMove TR M  Zapatillas de Deporte para Hombre  Negro  Negbas/Grpudg/Ftwbla 000   42 EU'
 ---
 
 Tienes [Adidas CrazyMove TR M  Zapatillas de Deporte para Hombre  Negro  Negbas/Grpudg/Ftwbla 000   42 EU](https://www.amazon.es/dp/B0725DBYTK/?tag=tolees-21) con un 63.59 % de descuento con precio de oferta de 29.11 EUR (original: 79.95 EUR) en el siguiente enlace!

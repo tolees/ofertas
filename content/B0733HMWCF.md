@@ -14,7 +14,7 @@ currency: EUR
 price: 12.19
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Desires Kunta 2 Pantalones  Negro  Black   WNA/L34  Tamaño del Fabricante:S  para Mujer
+prodname: 'Desires Kunta 2 Pantalones  Negro  Black   WNA/L34  Tamaño del Fabricante:S  para Mujer'
 ---
 
 Ahora mismo tienes [Desires Kunta 2 Pantalones  Negro  Black   WNA/L34  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B0733HMWCF/?tag=tolees-21) a 12.19 EUR (original: 39.95 EUR) (69.49 %  de descuento) en el siguiente enlace!

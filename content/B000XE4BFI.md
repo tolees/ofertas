@@ -14,7 +14,7 @@ currency: EUR
 price: 49.95
 comparePrice: 114.08 EUR
 inStock: true
-prodname: Kenzo 17284 - Agua de perfume  100 ml
+prodname: 'Kenzo 17284 - Agua de perfume  100 ml'
 ---
 
 Está [Kenzo 17284 - Agua de perfume  100 ml](https://www.amazon.es/dp/B000XE4BFI/?tag=tolees-21) con 56.21 de descuento por 49.95 EUR (original: 114.08 EUR) en el siguiente enlace!

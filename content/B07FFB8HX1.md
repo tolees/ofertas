@@ -14,7 +14,7 @@ currency: EUR
 price: 10.61
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Only Onlmaye 3/4 V-Neck Dress CC Knt  Vestido para Mujer   Night Sky Stripes:W. Hazelnut Melange  38  Talla del Fabricante: Small 
+prodname: 'Only Onlmaye 3/4 V-Neck Dress CC Knt  Vestido para Mujer   Night Sky Stripes:W. Hazelnut Melange  38  Talla del Fabricante: Small '
 ---
 
 Tienes [Only Onlmaye 3/4 V-Neck Dress CC Knt  Vestido para Mujer   Night Sky Stripes:W. Hazelnut Melange  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07FFB8HX1/?tag=tolees-21) con un 60.69 % de descuento con precio de oferta de 10.61 EUR (original: 26.99 EUR) en el siguiente enlace!

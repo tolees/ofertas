@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: My First Airplane 12 meses + juguete de inteligencia para bebé  juguete de música  luz/sonido para niños y niñas
+prodname: 'My First Airplane 12 meses + juguete de inteligencia para bebé  juguete de música  luz/sonido para niños y niñas'
 ---
 
 Está [My First Airplane 12 meses + juguete de inteligencia para bebé  juguete de música  luz/sonido para niños y niñas](https://www.amazon.es/dp/B01MCTS9P7/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

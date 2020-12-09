@@ -14,7 +14,7 @@ currency: EUR
 price: 47.32
 comparePrice: 72.54 EUR
 inStock: true
-prodname: Grohe Skate Cosmopolitan - Escudo dual  cromado Ref. 38732000
+prodname: 'Grohe Skate Cosmopolitan - Escudo dual  cromado Ref. 38732000'
 ---
 
 Tienes [Grohe Skate Cosmopolitan - Escudo dual  cromado Ref. 38732000](https://www.amazon.es/dp/B002ECZPEI/?tag=tolees-21) con un 34.77 % de descuento con precio de oferta de 47.32 EUR (original: 72.54 EUR) en el siguiente enlace!

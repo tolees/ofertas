@@ -14,7 +14,7 @@ currency: EUR
 price: 72.76
 comparePrice: 110 EUR
 inStock: true
-prodname: Clarks Un Adorn Lace  Zapatos de Cordones Derby para Mujer  Rojo  Rose Combination-   42 EU
+prodname: 'Clarks Un Adorn Lace  Zapatos de Cordones Derby para Mujer  Rojo  Rose Combination-   42 EU'
 ---
 
 Está [Clarks Un Adorn Lace  Zapatos de Cordones Derby para Mujer  Rojo  Rose Combination-   42 EU](https://www.amazon.es/dp/B07FQZ5RKB/?tag=tolees-21) con 33.85 de descuento por 72.76 EUR (original: 110 EUR) en el siguiente enlace!

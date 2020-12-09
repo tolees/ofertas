@@ -14,7 +14,7 @@ currency: EUR
 price: 40.42
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Chaqueta repelente al agua para niño  Gyroslope Jacket  Nailon  Azul  Dark Mountain/Golden Yellow   Talla M  1624361
+prodname: 'Columbia Chaqueta repelente al agua para niño  Gyroslope Jacket  Nailon  Azul  Dark Mountain/Golden Yellow   Talla M  1624361'
 ---
 
 Está [Columbia Chaqueta repelente al agua para niño  Gyroslope Jacket  Nailon  Azul  Dark Mountain/Golden Yellow   Talla M  1624361](https://www.amazon.es/dp/B07CHNZMBK/?tag=tolees-21) con 55.08 de descuento por 40.42 EUR (original: 89.99 EUR) en el siguiente enlace!

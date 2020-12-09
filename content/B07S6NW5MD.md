@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: PUMA R78  Zapatillas Unisex Adulto  Rosa  Bubblegum-High Rise White   36 EU
+prodname: 'PUMA R78  Zapatillas Unisex Adulto  Rosa  Bubblegum-High Rise White   36 EU'
 ---
 
 Tienes [PUMA R78  Zapatillas Unisex Adulto  Rosa  Bubblegum-High Rise White   36 EU](https://www.amazon.es/dp/B07S6NW5MD/?tag=tolees-21) con un 33.36 % de descuento con precio de oferta de 39.95 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.95
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Negro  Black   XL
+prodname: 'Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Negro  Black   XL'
 ---
 
 Ahora mismo tienes [Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Negro  Black   XL](https://www.amazon.es/dp/B07KJV4PD4/?tag=tolees-21) a 10.95 EUR (original: 19.99 EUR) (45.22 %  de descuento) en el siguiente enlace!

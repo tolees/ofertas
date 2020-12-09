@@ -14,7 +14,7 @@ currency: EUR
 price: 236.2
 comparePrice: 599 EUR
 inStock: true
-prodname: Miele Scout RX1 Robot Aspirador  22 W  0.6 litros  Negro
+prodname: 'Miele Scout RX1 Robot Aspirador  22 W  0.6 litros  Negro'
 ---
 
 Ahora mismo tienes [Miele Scout RX1 Robot Aspirador  22 W  0.6 litros  Negro](https://www.amazon.es/dp/B00JLGKMN4/?tag=tolees-21) a 236.2 EUR (original: 599 EUR) (60.57 %  de descuento) en el siguiente enlace!

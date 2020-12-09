@@ -14,7 +14,7 @@ currency: EUR
 price: 50.85
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Vans Ward - Zapatillas para Mujer  Negro  Suede/Canvas/Black/White Iju   42.5 EU
+prodname: 'Vans Ward - Zapatillas para Mujer  Negro  Suede/Canvas/Black/White Iju   42.5 EU'
 ---
 
 Ahora mismo tienes [Vans Ward - Zapatillas para Mujer  Negro  Suede/Canvas/Black/White Iju   42.5 EU](https://www.amazon.es/dp/B078PHC3BG/?tag=tolees-21) a 50.85 EUR (original: 70.0 EUR) (27.36 %  de descuento) en el siguiente enlace!

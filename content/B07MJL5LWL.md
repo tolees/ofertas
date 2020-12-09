@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Maison & White Organizador de racks de hierbas y especias de 3 niveles | Diseño moderno antideslizante independiente | Diseño universal | Solución de almacenamiento de cocina y despensa oro rosa
+prodname: 'Maison & White Organizador de racks de hierbas y especias de 3 niveles | Diseño moderno antideslizante independiente | Diseño universal | Solución de almacenamiento de cocina y despensa oro rosa'
 ---
 
 Está [Maison & White Organizador de racks de hierbas y especias de 3 niveles | Diseño moderno antideslizante independiente | Diseño universal | Solución de almacenamiento de cocina y despensa oro rosa](https://www.amazon.es/dp/B07MJL5LWL/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

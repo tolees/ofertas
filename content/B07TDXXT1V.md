@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 22.99 EUR
 inStock: true
-prodname: KATOOM Pinza Azúcar 10pcs U-Forma Acero Inoxidable Clip Caramelo Mini Pinza para Bombón Dulce Antideslizante Portátil para Boda Cumpleaño Fiesta Cocina Bar Club
+prodname: 'KATOOM Pinza Azúcar 10pcs U-Forma Acero Inoxidable Clip Caramelo Mini Pinza para Bombón Dulce Antideslizante Portátil para Boda Cumpleaño Fiesta Cocina Bar Club'
 ---
 
 Tienes [KATOOM Pinza Azúcar 10pcs U-Forma Acero Inoxidable Clip Caramelo Mini Pinza para Bombón Dulce Antideslizante Portátil para Boda Cumpleaño Fiesta Cocina Bar Club](https://www.amazon.es/dp/B07TDXXT1V/?tag=tolees-21) con un 52.20 % de descuento con precio de oferta de 10.99 EUR (original: 22.99 EUR) en el siguiente enlace!

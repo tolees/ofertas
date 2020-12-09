@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Levi s 222984-733-51  Plimsolls Mujer  White  39 EU
+prodname: 'Levi s 222984-733-51  Plimsolls Mujer  White  39 EU'
 ---
 
 Está [Levi s 222984-733-51  Plimsolls Mujer  White  39 EU](https://www.amazon.es/dp/B07C8FKCVZ/?tag=tolees-21) con 34.86 de descuento por 25.99 EUR (original: 39.9 EUR) en el siguiente enlace!

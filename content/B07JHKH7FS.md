@@ -14,7 +14,7 @@ currency: EUR
 price: 19.24
 comparePrice: 49.99 EUR
 inStock: true
-prodname: JACK & JONES Jfwaustin Denim Stripe Navy Blazer  Zapatillas para Hombre  Azul  46 EU
+prodname: 'JACK & JONES Jfwaustin Denim Stripe Navy Blazer  Zapatillas para Hombre  Azul  46 EU'
 ---
 
 Ahora mismo tienes [JACK & JONES Jfwaustin Denim Stripe Navy Blazer  Zapatillas para Hombre  Azul  46 EU](https://www.amazon.es/dp/B07JHKH7FS/?tag=tolees-21) a 19.24 EUR (original: 49.99 EUR) (61.51 %  de descuento) en el siguiente enlace!

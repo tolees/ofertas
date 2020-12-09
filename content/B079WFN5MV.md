@@ -14,7 +14,7 @@ currency: EUR
 price: 21.35
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  Dark Used Ce5  33W / 34L
+prodname: 'Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  Dark Used Ce5  33W / 34L'
 ---
 
 Está [Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  Dark Used Ce5  33W / 34L](https://www.amazon.es/dp/B079WFN5MV/?tag=tolees-21) con 77.53 de descuento por 21.35 EUR (original: 95 EUR) en el siguiente enlace!

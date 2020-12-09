@@ -14,7 +14,7 @@ currency: EUR
 price: 20.28
 comparePrice: 65 EUR
 inStock: true
-prodname: Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Negro  Black/White/Graphite 001   36.5 EU
+prodname: 'Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Negro  Black/White/Graphite 001   36.5 EU'
 ---
 
 Tienes [Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Negro  Black/White/Graphite 001   36.5 EU](https://www.amazon.es/dp/B07CVZJBRV/?tag=tolees-21) con un 68.80 % de descuento con precio de oferta de 20.28 EUR (original: 65 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.5
 comparePrice: 8.11 EUR
 inStock: true
-prodname: Panini France SA-Álbum + portatarjetas Harry Potter SAGA  2532-009   color/modelo surtido
+prodname: 'Panini France SA-Álbum + portatarjetas Harry Potter SAGA  2532-009   color/modelo surtido'
 ---
 
 Tienes [Panini France SA-Álbum + portatarjetas Harry Potter SAGA  2532-009   color/modelo surtido](https://www.amazon.es/dp/B07YQ3YV5S/?tag=tolees-21) con un 56.84 % de descuento con precio de oferta de 3.5 EUR (original: 8.11 EUR) en el siguiente enlace!

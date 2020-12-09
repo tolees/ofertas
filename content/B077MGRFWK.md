@@ -14,7 +14,7 @@ currency: EUR
 price: 10.18
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Only Onlsiff L/s Long Cardigan CC Knt  Chaqueta Punto para Mujer  Azul Night Sky  42  Talla del Fabricante: Large 
+prodname: 'Only Onlsiff L/s Long Cardigan CC Knt  Chaqueta Punto para Mujer  Azul Night Sky  42  Talla del Fabricante: Large '
 ---
 
 Está [Only Onlsiff L/s Long Cardigan CC Knt  Chaqueta Punto para Mujer  Azul Night Sky  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B077MGRFWK/?tag=tolees-21) con 62.28 de descuento por 10.18 EUR (original: 26.99 EUR) en el siguiente enlace!

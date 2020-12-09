@@ -14,7 +14,7 @@ currency: EUR
 price: 159.99
 comparePrice: 244.79 EUR
 inStock: true
-prodname: Bosch Professional GCL 2-50 - Nivel láser  alcance 20 / 50 m  láser rojo  en maletín 
+prodname: 'Bosch Professional GCL 2-50 - Nivel láser  alcance 20 / 50 m  láser rojo  en maletín '
 ---
 
 Está [Bosch Professional GCL 2-50 - Nivel láser  alcance 20 / 50 m  láser rojo  en maletín ](https://www.amazon.es/dp/B07HL76LXX/?tag=tolees-21) con 34.64 de descuento por 159.99 EUR (original: 244.79 EUR) en el siguiente enlace!

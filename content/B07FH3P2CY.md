@@ -14,7 +14,7 @@ currency: EUR
 price: 37.82
 comparePrice: 70.29 EUR
 inStock: true
-prodname: Levis Footwear and Accessories Vernon Sportswear  Zapatillas para Hombre  Negro  Regular Black 59   40 EU
+prodname: 'Levis Footwear and Accessories Vernon Sportswear  Zapatillas para Hombre  Negro  Regular Black 59   40 EU'
 ---
 
 Ahora mismo tienes [Levis Footwear and Accessories Vernon Sportswear  Zapatillas para Hombre  Negro  Regular Black 59   40 EU](https://www.amazon.es/dp/B07FH3P2CY/?tag=tolees-21) a 37.82 EUR (original: 70.29 EUR) (46.19 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.21
 comparePrice: 29.5 EUR
 inStock: true
-prodname: Bed Head by TIGI Champú ReEnergize 750 ml
+prodname: 'Bed Head by TIGI Champú ReEnergize 750 ml'
 ---
 
 Tienes [Bed Head by TIGI Champú ReEnergize 750 ml](https://www.amazon.es/dp/B01BVVAYMU/?tag=tolees-21) con un 65.39 % de descuento con precio de oferta de 10.21 EUR (original: 29.5 EUR) en el siguiente enlace!

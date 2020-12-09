@@ -14,7 +14,7 @@ currency: EUR
 price: 64.95
 comparePrice: 110 EUR
 inStock: true
-prodname: Pepe Jeans Tami  Parka para Mujer  Azul  Dulwich 594  XL
+prodname: 'Pepe Jeans Tami  Parka para Mujer  Azul  Dulwich 594  XL'
 ---
 
 Tienes [Pepe Jeans Tami  Parka para Mujer  Azul  Dulwich 594  XL](https://www.amazon.es/dp/B079RQHMV5/?tag=tolees-21) con un 40.95 % de descuento con precio de oferta de 64.95 EUR (original: 110 EUR) en el siguiente enlace!

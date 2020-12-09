@@ -14,7 +14,7 @@ currency: EUR
 price: 112.8
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Pulsar Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1
+prodname: 'Pulsar Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1'
 ---
 
 Está [Pulsar Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1](https://www.amazon.es/dp/B07V9TTD8G/?tag=tolees-21) con 43.32 de descuento por 112.8 EUR (original: 199.0 EUR) en el siguiente enlace!

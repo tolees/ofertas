@@ -14,7 +14,7 @@ currency: EUR
 price: 19.05
 comparePrice: 85 EUR
 inStock: true
-prodname: Pepe Jeans Anay PL952002  Vestido para Mujer   Multi 0Aa  Small
+prodname: 'Pepe Jeans Anay PL952002  Vestido para Mujer   Multi 0Aa  Small'
 ---
 
 Ahora mismo tienes [Pepe Jeans Anay PL952002  Vestido para Mujer   Multi 0Aa  Small](https://www.amazon.es/dp/B06XKGQYMD/?tag=tolees-21) a 19.05 EUR (original: 85 EUR) (77.59 %  de descuento) en el siguiente enlace!

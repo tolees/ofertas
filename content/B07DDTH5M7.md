@@ -14,7 +14,7 @@ currency: EUR
 price: 8.72
 comparePrice: 29.99 EUR
 inStock: true
-prodname: ONLY NOS Onlanna L/s Pullover Knt suéter  Rosa  Baroque Rose   38  Talla del Fabricante: Small  para Mujer
+prodname: 'ONLY NOS Onlanna L/s Pullover Knt suéter  Rosa  Baroque Rose   38  Talla del Fabricante: Small  para Mujer'
 ---
 
 Tienes [ONLY NOS Onlanna L/s Pullover Knt suéter  Rosa  Baroque Rose   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07DDTH5M7/?tag=tolees-21) con un 70.92 % de descuento con precio de oferta de 8.72 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 60.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Powerextra Vigilabebé Bebé Monitor Inteligente con LCD 3.5" Cámara Visión Nocturna Cámara Vigilancia Bebé Temperatura Diálogo Canción de cuna Color Blanco
+prodname: 'Powerextra Vigilabebé Bebé Monitor Inteligente con LCD 3.5" Cámara Visión Nocturna Cámara Vigilancia Bebé Temperatura Diálogo Canción de cuna Color Blanco'
 ---
 
 Está [Powerextra Vigilabebé Bebé Monitor Inteligente con LCD 3.5" Cámara Visión Nocturna Cámara Vigilancia Bebé Temperatura Diálogo Canción de cuna Color Blanco](https://www.amazon.es/dp/B07FJQVJM2/?tag=tolees-21) con 39.00 de descuento por 60.99 EUR (original: 99.99 EUR) en el siguiente enlace!

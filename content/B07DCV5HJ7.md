@@ -14,7 +14,7 @@ currency: EUR
 price: 9.4
 comparePrice: 29.99 EUR
 inStock: true
-prodname: JACK & JONES Jornevada Sweat Crew Neck  Sudadera para Hombre  Azul  Total Eclipse Fit:Slim  Medium
+prodname: 'JACK & JONES Jornevada Sweat Crew Neck  Sudadera para Hombre  Azul  Total Eclipse Fit:Slim  Medium'
 ---
 
 Tienes [JACK & JONES Jornevada Sweat Crew Neck  Sudadera para Hombre  Azul  Total Eclipse Fit:Slim  Medium](https://www.amazon.es/dp/B07DCV5HJ7/?tag=tolees-21) con un 68.66 % de descuento con precio de oferta de 9.4 EUR (original: 29.99 EUR) en el siguiente enlace!

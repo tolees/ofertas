@@ -14,7 +14,7 @@ currency: EUR
 price: 16.0
 comparePrice: 29.99 EUR
 inStock: true
-prodname: E-Vitta EVBP001007 - Mochila para Ordenador portátil de 16"  Multicolor
+prodname: 'E-Vitta EVBP001007 - Mochila para Ordenador portátil de 16"  Multicolor'
 ---
 
 Tienes [E-Vitta EVBP001007 - Mochila para Ordenador portátil de 16"  Multicolor](https://www.amazon.es/dp/B01LYFC43B/?tag=tolees-21) con un 46.65 % de descuento con precio de oferta de 16.0 EUR (original: 29.99 EUR) en el siguiente enlace!

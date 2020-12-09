@@ -14,7 +14,7 @@ currency: EUR
 price: 43.49
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Helly Hansen Moss Outdoor Impermeable Chaqueta De Invierno  Hombre  Navy  S
+prodname: 'Helly Hansen Moss Outdoor Impermeable Chaqueta De Invierno  Hombre  Navy  S'
 ---
 
 Está [Helly Hansen Moss Outdoor Impermeable Chaqueta De Invierno  Hombre  Navy  S](https://www.amazon.es/dp/B07F2LXPF4/?tag=tolees-21) con 56.51 de descuento por 43.49 EUR (original: 100.0 EUR) en el siguiente enlace!

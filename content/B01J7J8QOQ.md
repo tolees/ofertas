@@ -14,7 +14,7 @@ currency: EUR
 price: 17.27
 comparePrice: 23.99 EUR
 inStock: true
-prodname: morpilot Funda Coche Perro  Cubierta Asiento Universal Ipermeable Antideslizante para Mascotas  Protector de Asiente de Coche  2 Cinturones de Seguridad Incluidos
+prodname: 'morpilot Funda Coche Perro  Cubierta Asiento Universal Ipermeable Antideslizante para Mascotas  Protector de Asiente de Coche  2 Cinturones de Seguridad Incluidos'
 ---
 
 Tienes [morpilot Funda Coche Perro  Cubierta Asiento Universal Ipermeable Antideslizante para Mascotas  Protector de Asiente de Coche  2 Cinturones de Seguridad Incluidos](https://www.amazon.es/dp/B01J7J8QOQ/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 17.27 EUR (original: 23.99 EUR) en el siguiente enlace!

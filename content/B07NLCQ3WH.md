@@ -14,7 +14,7 @@ currency: EUR
 price: 41.0
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Nike Revolution 5  Running Shoe Womens  Black/Anthracite  36.5 EU
+prodname: 'Nike Revolution 5  Running Shoe Womens  Black/Anthracite  36.5 EU'
 ---
 
 Tienes [Nike Revolution 5  Running Shoe Womens  Black/Anthracite  36.5 EU](https://www.amazon.es/dp/B07NLCQ3WH/?tag=tolees-21) con un 25.45 % de descuento con precio de oferta de 41.0 EUR (original: 55.0 EUR) en el siguiente enlace!

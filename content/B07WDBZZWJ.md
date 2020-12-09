@@ -14,7 +14,7 @@ currency: EUR
 price: 20.25
 comparePrice: 28.95 EUR
 inStock: true
-prodname: MAGRIFIT PIPERINE - Suplemento Para Dieta - Curcuma Con Jengibre Y Pimienta Negra - Enriquecido con Yerba Mate y Probioticos
+prodname: 'MAGRIFIT PIPERINE - Suplemento Para Dieta - Curcuma Con Jengibre Y Pimienta Negra - Enriquecido con Yerba Mate y Probioticos'
 ---
 
 Tienes [MAGRIFIT PIPERINE - Suplemento Para Dieta - Curcuma Con Jengibre Y Pimienta Negra - Enriquecido con Yerba Mate y Probioticos](https://www.amazon.es/dp/B07WDBZZWJ/?tag=tolees-21) con un 30.05 % de descuento con precio de oferta de 20.25 EUR (original: 28.95 EUR) en el siguiente enlace!

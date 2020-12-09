@@ -14,7 +14,7 @@ currency: EUR
 price: 2.08
 comparePrice: 3.15 EUR
 inStock: true
-prodname: TRIXIE Pelota  Caucho Natural  con Sonido  ø5.5 cm  Perro
+prodname: 'TRIXIE Pelota  Caucho Natural  con Sonido  ø5.5 cm  Perro'
 ---
 
 Ahora mismo tienes [TRIXIE Pelota  Caucho Natural  con Sonido  ø5.5 cm  Perro](https://www.amazon.es/dp/B002TDT7PA/?tag=tolees-21) a 2.08 EUR (original: 3.15 EUR) (33.97 %  de descuento) en el siguiente enlace!

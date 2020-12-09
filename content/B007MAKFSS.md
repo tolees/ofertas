@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Cressi Ondina Jr Mask Gafas de Snorkeling  Unisex niños  Azul
+prodname: 'Cressi Ondina Jr Mask Gafas de Snorkeling  Unisex niños  Azul'
 ---
 
 Está [Cressi Ondina Jr Mask Gafas de Snorkeling  Unisex niños  Azul](https://www.amazon.es/dp/B007MAKFSS/?tag=tolees-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

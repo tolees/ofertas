@@ -14,7 +14,7 @@ currency: EUR
 price: 13.04
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield 5Ba AOP Cuello Slim Mel-c/43 Polo  Gris  Dark Grey 43   XS  Tamaño del Fabricante: XS  para Hombre
+prodname: 'Springfield 5Ba AOP Cuello Slim Mel-c/43 Polo  Gris  Dark Grey 43   XS  Tamaño del Fabricante: XS  para Hombre'
 ---
 
 Ahora mismo tienes [Springfield 5Ba AOP Cuello Slim Mel-c/43 Polo  Gris  Dark Grey 43   XS  Tamaño del Fabricante: XS  para Hombre](https://www.amazon.es/dp/B07W85TGDQ/?tag=tolees-21) a 13.04 EUR (original: 25.99 EUR) (49.83 %  de descuento) en el siguiente enlace!

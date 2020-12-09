@@ -14,7 +14,7 @@ currency: EUR
 price: 15.42
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Nanos Chaqueta Cárdigan  Blanco 01  años  Tamaño del Fabricante:10  para Niñas
+prodname: 'Nanos Chaqueta Cárdigan  Blanco 01  años  Tamaño del Fabricante:10  para Niñas'
 ---
 
 Tienes [Nanos Chaqueta Cárdigan  Blanco 01  años  Tamaño del Fabricante:10  para Niñas](https://www.amazon.es/dp/B07HGCG4CV/?tag=tolees-21) con un 80.70 % de descuento con precio de oferta de 15.42 EUR (original: 79.9 EUR) en el siguiente enlace!

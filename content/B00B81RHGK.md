@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.29 EUR
 inStock: true
-prodname: Vileda Premium 2 en 1 - Funda de planchar  tres capas  suave  encaja en cualquier tipo de tabla de entre 110-130 cm de largo y 30-45 cm de ancho  Color Gris y Blanco
+prodname: 'Vileda Premium 2 en 1 - Funda de planchar  tres capas  suave  encaja en cualquier tipo de tabla de entre 110-130 cm de largo y 30-45 cm de ancho  Color Gris y Blanco'
 ---
 
 Ahora mismo tienes [Vileda Premium 2 en 1 - Funda de planchar  tres capas  suave  encaja en cualquier tipo de tabla de entre 110-130 cm de largo y 30-45 cm de ancho  Color Gris y Blanco](https://www.amazon.es/dp/B00B81RHGK/?tag=tolees-21) a 9.99 EUR (original: 15.29 EUR) (34.66 %  de descuento) en el siguiente enlace!

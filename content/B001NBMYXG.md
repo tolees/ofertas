@@ -14,7 +14,7 @@ currency: EUR
 price: 335.99
 comparePrice: 830.06 EUR
 inStock: true
-prodname: Bosch Professional GBH 5-40 DCE - Martillo perforador  8 8 J  Ø máx. hormigón 40 mm  portabrocas SDS max  en maletín 
+prodname: 'Bosch Professional GBH 5-40 DCE - Martillo perforador  8 8 J  Ø máx. hormigón 40 mm  portabrocas SDS max  en maletín '
 ---
 
 Tienes [Bosch Professional GBH 5-40 DCE - Martillo perforador  8 8 J  Ø máx. hormigón 40 mm  portabrocas SDS max  en maletín ](https://www.amazon.es/dp/B001NBMYXG/?tag=tolees-21) con un 59.52 % de descuento con precio de oferta de 335.99 EUR (original: 830.06 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.45
 comparePrice: 18.75 EUR
 inStock: true
-prodname: Under Armour UA Knockout Tank  Camiseta de Tirantes  Camiseta Deportiva para Mujer Mujer  Blanco  White/White/Black  100    S
+prodname: 'Under Armour UA Knockout Tank  Camiseta de Tirantes  Camiseta Deportiva para Mujer Mujer  Blanco  White/White/Black  100    S'
 ---
 
 Está [Under Armour UA Knockout Tank  Camiseta de Tirantes  Camiseta Deportiva para Mujer Mujer  Blanco  White/White/Black  100    S](https://www.amazon.es/dp/B07PT7PFMW/?tag=tolees-21) con 33.60 de descuento por 12.45 EUR (original: 18.75 EUR) en el siguiente enlace!

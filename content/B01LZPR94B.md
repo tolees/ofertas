@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Skechers Women 12615 Low-Top Trainers  Black  Black Mesh/White Trim Bkw   5 UK  38 EU 
+prodname: 'Skechers Women 12615 Low-Top Trainers  Black  Black Mesh/White Trim Bkw   5 UK  38 EU '
 ---
 
 Está [Skechers Women 12615 Low-Top Trainers  Black  Black Mesh/White Trim Bkw   5 UK  38 EU ](https://www.amazon.es/dp/B01LZPR94B/?tag=tolees-21) con 29.95 de descuento por 34.99 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.12
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Quiksilver Pantalón de Chándal  Hombre  Dark Grey Heather  M
+prodname: 'Quiksilver Pantalón de Chándal  Hombre  Dark Grey Heather  M'
 ---
 
 Ahora mismo tienes [Quiksilver Pantalón de Chándal  Hombre  Dark Grey Heather  M](https://www.amazon.es/dp/B077PB9GLP/?tag=tolees-21) a 19.12 EUR (original: 49.99 EUR) (61.75 %  de descuento) en el siguiente enlace!

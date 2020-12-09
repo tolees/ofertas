@@ -14,7 +14,7 @@ currency: EUR
 price: 34.39
 comparePrice: 48.99 EUR
 inStock: true
-prodname: DoubleBlack Carros de Compra Plegable 8 Ruedas Carrito Compra Sube Escaleras
+prodname: 'DoubleBlack Carros de Compra Plegable 8 Ruedas Carrito Compra Sube Escaleras'
 ---
 
 Ahora mismo tienes [DoubleBlack Carros de Compra Plegable 8 Ruedas Carrito Compra Sube Escaleras](https://www.amazon.es/dp/B07XDNPQZK/?tag=tolees-21) a 34.39 EUR (original: 48.99 EUR) (29.80 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 71.5
 comparePrice: 140 EUR
 inStock: true
-prodname: Clarks Clarkdale Bara  Botines Hombre  Verde  Olive Suede   44 EU
+prodname: 'Clarks Clarkdale Bara  Botines Hombre  Verde  Olive Suede   44 EU'
 ---
 
 Está [Clarks Clarkdale Bara  Botines Hombre  Verde  Olive Suede   44 EU](https://www.amazon.es/dp/B06XCDVX58/?tag=tolees-21) con 48.93 de descuento por 71.5 EUR (original: 140 EUR) en el siguiente enlace!

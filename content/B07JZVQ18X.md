@@ -14,7 +14,7 @@ currency: EUR
 price: 5.95
 comparePrice: 14.99 EUR
 inStock: true
-prodname: JACK & JONES Jorgiant tee SS Crew Neck Camiseta  Azul  Total Eclipse Fit: Slim   Large para Hombre
+prodname: 'JACK & JONES Jorgiant tee SS Crew Neck Camiseta  Azul  Total Eclipse Fit: Slim   Large para Hombre'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorgiant tee SS Crew Neck Camiseta  Azul  Total Eclipse Fit: Slim   Large para Hombre](https://www.amazon.es/dp/B07JZVQ18X/?tag=tolees-21) a 5.95 EUR (original: 14.99 EUR) (60.31 %  de descuento) en el siguiente enlace!

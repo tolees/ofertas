@@ -14,7 +14,7 @@ currency: EUR
 price: 28.57
 comparePrice: 45 EUR
 inStock: true
-prodname: The North Face Flyweight Mochila Plegable  Unisex Adulto  Gris  Tin Grey/TNF Black   Talla única
+prodname: 'The North Face Flyweight Mochila Plegable  Unisex Adulto  Gris  Tin Grey/TNF Black   Talla única'
 ---
 
 Tienes [The North Face Flyweight Mochila Plegable  Unisex Adulto  Gris  Tin Grey/TNF Black   Talla única](https://www.amazon.es/dp/B07FKCKR7N/?tag=tolees-21) con un 36.51 % de descuento con precio de oferta de 28.57 EUR (original: 45 EUR) en el siguiente enlace!

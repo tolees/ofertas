@@ -14,7 +14,7 @@ currency: EUR
 price: 45.1
 comparePrice: 99.99 EUR
 inStock: true
-prodname: WMF Diadem Plus Cacerola  Acero Inoxidable Pulido  24 cm
+prodname: 'WMF Diadem Plus Cacerola  Acero Inoxidable Pulido  24 cm'
 ---
 
 Está [WMF Diadem Plus Cacerola  Acero Inoxidable Pulido  24 cm](https://www.amazon.es/dp/B000XG6NCK/?tag=tolees-21) con 54.90 de descuento por 45.1 EUR (original: 99.99 EUR) en el siguiente enlace!

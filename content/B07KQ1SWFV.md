@@ -14,7 +14,7 @@ currency: EUR
 price: 15.95
 comparePrice: 35.99 EUR
 inStock: true
-prodname: DC Apparel Vertigo Cap  Hombre  Black  1SZ
+prodname: 'DC Apparel Vertigo Cap  Hombre  Black  1SZ'
 ---
 
 Tienes [DC Apparel Vertigo Cap  Hombre  Black  1SZ](https://www.amazon.es/dp/B07KQ1SWFV/?tag=tolees-21) con un 55.68 % de descuento con precio de oferta de 15.95 EUR (original: 35.99 EUR) en el siguiente enlace!

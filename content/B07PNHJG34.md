@@ -14,7 +14,7 @@ currency: EUR
 price: 19.98
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Razer Goliathus Extended Stormtrooper Edition: alfombrilla grande y suave para juegos XXL  para mouse Esports con superficie de tela sin fricción  borde acolchado  optimizado para todos los ratones
+prodname: 'Razer Goliathus Extended Stormtrooper Edition: alfombrilla grande y suave para juegos XXL  para mouse Esports con superficie de tela sin fricción  borde acolchado  optimizado para todos los ratones'
 ---
 
 Está [Razer Goliathus Extended Stormtrooper Edition: alfombrilla grande y suave para juegos XXL  para mouse Esports con superficie de tela sin fricción  borde acolchado  optimizado para todos los ratones](https://www.amazon.es/dp/B07PNHJG34/?tag=tolees-21) con 50.04 de descuento por 19.98 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Asmodee Story Cubes Doctor Who - Más versiones disponibles  Multilenguaje  STO05ML    color/modelo surtido
+prodname: 'Asmodee Story Cubes Doctor Who - Más versiones disponibles  Multilenguaje  STO05ML    color/modelo surtido'
 ---
 
 Ahora mismo tienes [Asmodee Story Cubes Doctor Who - Más versiones disponibles  Multilenguaje  STO05ML    color/modelo surtido](https://www.amazon.es/dp/B01KYDC6VS/?tag=tolees-21) a 8.99 EUR (original: 11.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

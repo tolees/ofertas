@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Discos Desmaquillantes Reutilizables Greenzla  20pcs  con bolsa de lavandería lavable y caja redonda para guardarlas |100% algodón de bambú orgánico| Algodones desmaquillantes reutilizables ecológicas
+prodname: 'Discos Desmaquillantes Reutilizables Greenzla  20pcs  con bolsa de lavandería lavable y caja redonda para guardarlas |100% algodón de bambú orgánico| Algodones desmaquillantes reutilizables ecológicas'
 ---
 
 Está [Discos Desmaquillantes Reutilizables Greenzla  20pcs  con bolsa de lavandería lavable y caja redonda para guardarlas |100% algodón de bambú orgánico| Algodones desmaquillantes reutilizables ecológicas](https://www.amazon.es/dp/B07T8BVYGS/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

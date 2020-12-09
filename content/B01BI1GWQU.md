@@ -14,7 +14,7 @@ currency: EUR
 price: 295
 comparePrice: 502.15 EUR
 inStock: true
-prodname: Olimpia Splendid Dolceclima Compact Climatizador Portátil  2300 W  Potencia de sonido: dB  A 63  Plástico  2 Velocidades  Blanco
+prodname: 'Olimpia Splendid Dolceclima Compact Climatizador Portátil  2300 W  Potencia de sonido: dB  A 63  Plástico  2 Velocidades  Blanco'
 ---
 
 Está [Olimpia Splendid Dolceclima Compact Climatizador Portátil  2300 W  Potencia de sonido: dB  A 63  Plástico  2 Velocidades  Blanco](https://www.amazon.es/dp/B01BI1GWQU/?tag=tolees-21) con 41.25 de descuento por 295 EUR (original: 502.15 EUR) en el siguiente enlace!

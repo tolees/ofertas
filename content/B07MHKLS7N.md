@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: iTrunk Protector de Pantalla para dji Osmo Pocket  Vidrio Templado 4 PCS Protector de Lente Accesorios de Película Kit para dji Osmo Pocket Handheld Gimbal Camera
+prodname: 'iTrunk Protector de Pantalla para dji Osmo Pocket  Vidrio Templado 4 PCS Protector de Lente Accesorios de Película Kit para dji Osmo Pocket Handheld Gimbal Camera'
 ---
 
 Ahora mismo tienes [iTrunk Protector de Pantalla para dji Osmo Pocket  Vidrio Templado 4 PCS Protector de Lente Accesorios de Película Kit para dji Osmo Pocket Handheld Gimbal Camera](https://www.amazon.es/dp/B07MHKLS7N/?tag=tolees-21) a 7.99 EUR (original: 19.99 EUR) (60.03 %  de descuento) en el siguiente enlace!

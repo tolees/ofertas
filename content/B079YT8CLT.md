@@ -14,7 +14,7 @@ currency: EUR
 price: 20.89
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Geomag Confetti Construcciones magnéticas y juegos educativos  50 piezas  352   Multicolor
+prodname: 'Geomag Confetti Construcciones magnéticas y juegos educativos  50 piezas  352   Multicolor'
 ---
 
 Está [Geomag Confetti Construcciones magnéticas y juegos educativos  50 piezas  352   Multicolor](https://www.amazon.es/dp/B079YT8CLT/?tag=tolees-21) con 30.25 de descuento por 20.89 EUR (original: 29.95 EUR) en el siguiente enlace!

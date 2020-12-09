@@ -14,15 +14,13 @@ currency: EUR
 price: 10.77
 comparePrice: 17.95 EUR
 inStock: true
-prodname: YAMAMAY® Push up Bra - Minimalist
+prodname: 'YAMAMAY® Push up Bra - Minimalist'
 ---
 
-Está [YAMAMAY® Push up Bra - Minimalist](https://www.amazon.es/dp/B07VF9D1LN/?tag=tolees-21) con 40.00 de descuento por 10.77 EUR (original: 17.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [YAMAMAY® Push up Bra - Minimalist](https://www.amazon.es/dp/B07VF9D1LN/?tag=tolees-21) a 10.77 EUR (original: 17.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![YAMAMAY® Push up Bra - Minimalist](https://m.media-amazon.com/images/I/41mvVF18QvL._SL200_.jpg)](https://www.amazon.es/dp/B07VF9D1LN/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07VF9D1LN/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07VF9D1LN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

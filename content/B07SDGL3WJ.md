@@ -14,7 +14,7 @@ currency: EUR
 price: 16.49
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s June L S  Chanclas para Mujer  Negro  R Black 59   37 EU
+prodname: 'Levi s June L S  Chanclas para Mujer  Negro  R Black 59   37 EU'
 ---
 
 Tienes [Levi s June L S  Chanclas para Mujer  Negro  R Black 59   37 EU](https://www.amazon.es/dp/B07SDGL3WJ/?tag=tolees-21) con un 34.04 % de descuento con precio de oferta de 16.49 EUR (original: 25.0 EUR) en el siguiente enlace!

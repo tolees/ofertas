@@ -14,7 +14,7 @@ currency: EUR
 price: 32.54
 comparePrice: 74.95 EUR
 inStock: true
-prodname: McDavid Hex Thudd  Pantalones Cortos de Baloncesto para Hombre  Negro  M
+prodname: 'McDavid Hex Thudd  Pantalones Cortos de Baloncesto para Hombre  Negro  M'
 ---
 
 Ahora mismo tienes [McDavid Hex Thudd  Pantalones Cortos de Baloncesto para Hombre  Negro  M](https://www.amazon.es/dp/B00BN2ICA4/?tag=tolees-21) a 32.54 EUR (original: 74.95 EUR) (56.58 %  de descuento) en el siguiente enlace!

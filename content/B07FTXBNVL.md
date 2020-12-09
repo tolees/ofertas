@@ -14,7 +14,7 @@ currency: EUR
 price: 13.46
 comparePrice: 24.52 EUR
 inStock: true
-prodname: REAL TECHNIQUES Kit Completo De Brochas
+prodname: 'REAL TECHNIQUES Kit Completo De Brochas'
 ---
 
 Tienes [REAL TECHNIQUES Kit Completo De Brochas](https://www.amazon.es/dp/B07FTXBNVL/?tag=tolees-21) con un 45.11 % de descuento con precio de oferta de 13.46 EUR (original: 24.52 EUR) en el siguiente enlace!

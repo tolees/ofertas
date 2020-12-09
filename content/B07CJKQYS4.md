@@ -14,7 +14,7 @@ currency: EUR
 price: 67.07
 comparePrice: 159 EUR
 inStock: true
-prodname: Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2719
+prodname: 'Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2719'
 ---
 
 Tienes [Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2719](https://www.amazon.es/dp/B07CJKQYS4/?tag=tolees-21) con un 57.82 % de descuento con precio de oferta de 67.07 EUR (original: 159 EUR) en el siguiente enlace!

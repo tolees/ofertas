@@ -14,7 +14,7 @@ currency: EUR
 price: 2.99
 comparePrice: 4.49 EUR
 inStock: true
-prodname: Izas Mijares Camiseta  Mujer  Rojo  XS
+prodname: 'Izas Mijares Camiseta  Mujer  Rojo  XS'
 ---
 
 Tienes [Izas Mijares Camiseta  Mujer  Rojo  XS](https://www.amazon.es/dp/B01DALC7CE/?tag=tolees-21) con un 33.41 % de descuento con precio de oferta de 2.99 EUR (original: 4.49 EUR) en el siguiente enlace!

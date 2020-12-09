@@ -14,7 +14,7 @@ currency: EUR
 price: 3.6
 comparePrice: 11.5 EUR
 inStock: true
-prodname: oodji Ultra Hombre Camiseta de Algodón con Estampado  Negro  ES 46-48 / S
+prodname: 'oodji Ultra Hombre Camiseta de Algodón con Estampado  Negro  ES 46-48 / S'
 ---
 
 Está [oodji Ultra Hombre Camiseta de Algodón con Estampado  Negro  ES 46-48 / S](https://www.amazon.es/dp/B07C2SKSSK/?tag=tolees-21) con 68.70 de descuento por 3.6 EUR (original: 11.5 EUR) en el siguiente enlace!

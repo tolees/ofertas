@@ -14,7 +14,7 @@ currency: EUR
 price: 23.8
 comparePrice: 47.1 EUR
 inStock: true
-prodname: Reebok Speedlux 3.0  Zapatillas de Trail Running para Mujer   We/Black/Twisted Berry 000   37.5 EU
+prodname: 'Reebok Speedlux 3.0  Zapatillas de Trail Running para Mujer   We/Black/Twisted Berry 000   37.5 EU'
 ---
 
 Está [Reebok Speedlux 3.0  Zapatillas de Trail Running para Mujer   We/Black/Twisted Berry 000   37.5 EU](https://www.amazon.es/dp/B07G1K4WLG/?tag=tolees-21) con 49.47 de descuento por 23.8 EUR (original: 47.1 EUR) en el siguiente enlace!

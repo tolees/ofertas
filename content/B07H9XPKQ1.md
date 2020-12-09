@@ -14,7 +14,7 @@ currency: EUR
 price: 139.99
 comparePrice: 219.99 EUR
 inStock: true
-prodname: ZIGLINT Aspirador Escoba Z8  2 en 1 Aspiradora Sin Cable y de Mano con 20 KPa de Alta Succión  4 Accesorios Múltiples para Casa  Coche Filtración HEPA  22.2 V múltiples filtros 
+prodname: 'ZIGLINT Aspirador Escoba Z8  2 en 1 Aspiradora Sin Cable y de Mano con 20 KPa de Alta Succión  4 Accesorios Múltiples para Casa  Coche Filtración HEPA  22.2 V múltiples filtros '
 ---
 
 Está [ZIGLINT Aspirador Escoba Z8  2 en 1 Aspiradora Sin Cable y de Mano con 20 KPa de Alta Succión  4 Accesorios Múltiples para Casa  Coche Filtración HEPA  22.2 V múltiples filtros ](https://www.amazon.es/dp/B07H9XPKQ1/?tag=tolees-21) con 36.37 de descuento por 139.99 EUR (original: 219.99 EUR) en el siguiente enlace!

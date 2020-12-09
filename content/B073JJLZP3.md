@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 5.99 EUR
 inStock: true
-prodname: Philips 8718696706350 Bombilla LED Vela E14  2.2 W  Blanco
+prodname: 'Philips 8718696706350 Bombilla LED Vela E14  2.2 W  Blanco'
 ---
 
 Ahora mismo tienes [Philips 8718696706350 Bombilla LED Vela E14  2.2 W  Blanco](https://www.amazon.es/dp/B073JJLZP3/?tag=tolees-21) a 3.99 EUR (original: 5.99 EUR) (33.39 %  de descuento) en el siguiente enlace!

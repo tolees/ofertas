@@ -14,15 +14,13 @@ currency: EUR
 price: 179
 comparePrice: 327.88 EUR
 inStock: true
-prodname: Acer UM.VT2EE.A01 - Monitor
+prodname: 'Acer UM.VT2EE.A01 - Monitor'
 ---
 
-Está [Acer UM.VT2EE.A01 - Monitor](https://www.amazon.es/dp/B00KAQBJEK/?tag=tolees-21) con 45.41 de descuento por 179 EUR (original: 327.88 EUR) en el siguiente enlace!
+Ahora mismo tienes [Acer UM.VT2EE.A01 - Monitor](https://www.amazon.es/dp/B00KAQBJEK/?tag=tolees-21) a 179 EUR (original: 327.88 EUR) (45.41 %  de descuento) en el siguiente enlace!
 
 [![Acer UM.VT2EE.A01 - Monitor](https://images-eu.ssl-images-amazon.com/images/I/51rkxy1hGtL._SL200_.jpg)](https://www.amazon.es/dp/B00KAQBJEK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00KAQBJEK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00KAQBJEK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

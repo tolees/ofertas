@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 69.4 EUR
 inStock: true
-prodname: Alitoo Auriculares Inalámbricos Bluetooth Estéreo Plegable Auriculares de Diadema con Micrófono Cancelación de Ruido sobre Oreja Cascos para iPhone PC TV Tableta Android MP3 y MP4  White&Lgreen 
+prodname: 'Alitoo Auriculares Inalámbricos Bluetooth Estéreo Plegable Auriculares de Diadema con Micrófono Cancelación de Ruido sobre Oreja Cascos para iPhone PC TV Tableta Android MP3 y MP4  White&Lgreen '
 ---
 
 Está [Alitoo Auriculares Inalámbricos Bluetooth Estéreo Plegable Auriculares de Diadema con Micrófono Cancelación de Ruido sobre Oreja Cascos para iPhone PC TV Tableta Android MP3 y MP4  White&Lgreen ](https://www.amazon.es/dp/B07FPHJXMP/?tag=tolees-21) con 65.43 de descuento por 23.99 EUR (original: 69.4 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.91
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Springfield 4.2.Gym.MD. Daily Joya Sudadera  Mujer  Negro  Negro 1   X-Small  Tamaño del Fabricante:XS 
+prodname: 'Springfield 4.2.Gym.MD. Daily Joya Sudadera  Mujer  Negro  Negro 1   X-Small  Tamaño del Fabricante:XS '
 ---
 
 Tienes [Springfield 4.2.Gym.MD. Daily Joya Sudadera  Mujer  Negro  Negro 1   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07DLD4T1R/?tag=tolees-21) con un 72.35 % de descuento con precio de oferta de 6.91 EUR (original: 24.99 EUR) en el siguiente enlace!

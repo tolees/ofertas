@@ -14,7 +14,7 @@ currency: EUR
 price: 79.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Aingoo Estantería de Abierto 3 Niveles estantería Gabinete de estantería Multiusos de estantería de Almacenamiento con 1 cajón Blanco
+prodname: 'Aingoo Estantería de Abierto 3 Niveles estantería Gabinete de estantería Multiusos de estantería de Almacenamiento con 1 cajón Blanco'
 ---
 
 Ahora mismo tienes [Aingoo Estantería de Abierto 3 Niveles estantería Gabinete de estantería Multiusos de estantería de Almacenamiento con 1 cajón Blanco](https://www.amazon.es/dp/B07GRZB85D/?tag=tolees-21) a 79.99 EUR (original: 119.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

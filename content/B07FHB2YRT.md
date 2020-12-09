@@ -14,7 +14,7 @@ currency: EUR
 price: 36.38
 comparePrice: 95 EUR
 inStock: true
-prodname: Levi s Plus Size 310 Pl Shping SPR Skinny Vaqueros  Azul  Affinity Plus 0021   22S para Mujer
+prodname: 'Levi s Plus Size 310 Pl Shping SPR Skinny Vaqueros  Azul  Affinity Plus 0021   22S para Mujer'
 ---
 
 Está [Levi s Plus Size 310 Pl Shping SPR Skinny Vaqueros  Azul  Affinity Plus 0021   22S para Mujer](https://www.amazon.es/dp/B07FHB2YRT/?tag=tolees-21) con 61.71 de descuento por 36.38 EUR (original: 95 EUR) en el siguiente enlace!

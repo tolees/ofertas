@@ -14,7 +14,7 @@ currency: EUR
 price: 14.17
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Pepe Jeans Marke Camiseta  Azul  Old Navy 584   Small para Hombre
+prodname: 'Pepe Jeans Marke Camiseta  Azul  Old Navy 584   Small para Hombre'
 ---
 
 Tienes [Pepe Jeans Marke Camiseta  Azul  Old Navy 584   Small para Hombre](https://www.amazon.es/dp/B07W14FVSM/?tag=tolees-21) con un 52.61 % de descuento con precio de oferta de 14.17 EUR (original: 29.9 EUR) en el siguiente enlace!

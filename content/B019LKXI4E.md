@@ -14,7 +14,7 @@ currency: EUR
 price: 8.86
 comparePrice: 35 EUR
 inStock: true
-prodname: DC Comics Camiseta Manga Corta Flash Line Logo Verde Militar XL
+prodname: 'DC Comics Camiseta Manga Corta Flash Line Logo Verde Militar XL'
 ---
 
 Está [DC Comics Camiseta Manga Corta Flash Line Logo Verde Militar XL](https://www.amazon.es/dp/B019LKXI4E/?tag=tolees-21) con 74.69 de descuento por 8.86 EUR (original: 35 EUR) en el siguiente enlace!

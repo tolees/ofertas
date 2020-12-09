@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: 【Nuevo】 TP-Link - Bombilla LED Inteligente  Bombilla WiFi  Multicolor  Regulable  E27  8.7W 806lm  Compatible Alexa  Echo y Google Home  [Clase de eficiencia energética A+]  Tapo L530E 
+prodname: '【Nuevo】 TP-Link - Bombilla LED Inteligente  Bombilla WiFi  Multicolor  Regulable  E27  8.7W 806lm  Compatible Alexa  Echo y Google Home  [Clase de eficiencia energética A+]  Tapo L530E '
 ---
 
 Está [【Nuevo】 TP-Link - Bombilla LED Inteligente  Bombilla WiFi  Multicolor  Regulable  E27  8.7W 806lm  Compatible Alexa  Echo y Google Home  [Clase de eficiencia energética A+]  Tapo L530E ](https://www.amazon.es/dp/B08GDC99PX/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 27.83 EUR
 inStock: true
-prodname: Arcos Universal - Cuchillo Usuba  175 mm  estuche 
+prodname: 'Arcos Universal - Cuchillo Usuba  175 mm  estuche '
 ---
 
 Está [Arcos Universal - Cuchillo Usuba  175 mm  estuche ](https://www.amazon.es/dp/B00W1XKQR6/?tag=tolees-21) con 28.17 de descuento por 19.99 EUR (original: 27.83 EUR) en el siguiente enlace!

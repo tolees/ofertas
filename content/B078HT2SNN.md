@@ -14,7 +14,7 @@ currency: EUR
 price: 22.5
 comparePrice: 30 EUR
 inStock: true
-prodname: find. Bermudas Estilo Cargo Hombre  Beige  Stone   50  Talla del Fabricante: Medium 
+prodname: 'find. Bermudas Estilo Cargo Hombre  Beige  Stone   50  Talla del Fabricante: Medium '
 ---
 
 Está [find. Bermudas Estilo Cargo Hombre  Beige  Stone   50  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B078HT2SNN/?tag=tolees-21) con 25.00 de descuento por 22.5 EUR (original: 30 EUR) en el siguiente enlace!

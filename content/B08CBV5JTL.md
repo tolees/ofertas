@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: PERFETSELl 3 Pcs Manteles Halloween Decoracion Mesa Halloween Set Chimenea Tela Decoración Mantel Gótico de Encaje Camino de Mesa de Halloween Tela de Araña de Encaje Negro para Chimeneas/Mesa/Ventana
+prodname: 'PERFETSELl 3 Pcs Manteles Halloween Decoracion Mesa Halloween Set Chimenea Tela Decoración Mantel Gótico de Encaje Camino de Mesa de Halloween Tela de Araña de Encaje Negro para Chimeneas/Mesa/Ventana'
 ---
 
 Ahora mismo tienes [PERFETSELl 3 Pcs Manteles Halloween Decoracion Mesa Halloween Set Chimenea Tela Decoración Mantel Gótico de Encaje Camino de Mesa de Halloween Tela de Araña de Encaje Negro para Chimeneas/Mesa/Ventana](https://www.amazon.es/dp/B08CBV5JTL/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

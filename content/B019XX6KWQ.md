@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Trust GXT 101 - Ratón Iluminado para Gaming  4800 PPP   Negro
+prodname: 'Trust GXT 101 - Ratón Iluminado para Gaming  4800 PPP   Negro'
 ---
 
 Está [Trust GXT 101 - Ratón Iluminado para Gaming  4800 PPP   Negro](https://www.amazon.es/dp/B019XX6KWQ/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

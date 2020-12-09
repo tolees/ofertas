@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: JOGVELO Culotes Ciclismo Hombre  Calzoncillos Ciclismo con Gel Almohadilla Respirable Anti-Choque para Hombre Mujer M
+prodname: 'JOGVELO Culotes Ciclismo Hombre  Calzoncillos Ciclismo con Gel Almohadilla Respirable Anti-Choque para Hombre Mujer M'
 ---
 
 Está [JOGVELO Culotes Ciclismo Hombre  Calzoncillos Ciclismo con Gel Almohadilla Respirable Anti-Choque para Hombre Mujer M](https://www.amazon.es/dp/B07FLVBCZM/?tag=tolees-21) con 46.17 de descuento por 13.99 EUR (original: 25.99 EUR) en el siguiente enlace!

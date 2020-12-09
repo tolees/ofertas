@@ -14,7 +14,7 @@ currency: EUR
 price: 3.49
 comparePrice: 5.99 EUR
 inStock: true
-prodname: PUMA Baby Sock Abs 2P Íntimo  Azul  blue green combo   19-22  Pack de 2  Unisex bebé
+prodname: 'PUMA Baby Sock Abs 2P Íntimo  Azul  blue green combo   19-22  Pack de 2  Unisex bebé'
 ---
 
 Está [PUMA Baby Sock Abs 2P Íntimo  Azul  blue green combo   19-22  Pack de 2  Unisex bebé](https://www.amazon.es/dp/B01KCQPLZA/?tag=tolees-21) con 41.74 de descuento por 3.49 EUR (original: 5.99 EUR) en el siguiente enlace!

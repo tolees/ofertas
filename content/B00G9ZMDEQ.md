@@ -14,7 +14,7 @@ currency: EUR
 price: 13.16
 comparePrice: 64.23 EUR
 inStock: true
-prodname: Limo Slmcon neumático sellador con bomba de tubo Verde verde Talla:3.8 Litres
+prodname: 'Limo Slmcon neumático sellador con bomba de tubo Verde verde Talla:3.8 Litres'
 ---
 
 Está [Limo Slmcon neumático sellador con bomba de tubo Verde verde Talla:3.8 Litres](https://www.amazon.es/dp/B00G9ZMDEQ/?tag=tolees-21) con 79.51 de descuento por 13.16 EUR (original: 64.23 EUR) en el siguiente enlace!

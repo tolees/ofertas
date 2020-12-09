@@ -14,7 +14,7 @@ currency: EUR
 price: 29.3
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Carrera Shire  Zapatillas de Cross para Hombre  Negro  Black 02   43 EU
+prodname: 'Carrera Shire  Zapatillas de Cross para Hombre  Negro  Black 02   43 EU'
 ---
 
 Tienes [Carrera Shire  Zapatillas de Cross para Hombre  Negro  Black 02   43 EU](https://www.amazon.es/dp/B07GJVTM1H/?tag=tolees-21) con un 41.28 % de descuento con precio de oferta de 29.3 EUR (original: 49.9 EUR) en el siguiente enlace!

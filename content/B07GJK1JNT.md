@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 91.99 EUR
 inStock: true
-prodname: Krups Dolce Gusto Infinissima Cafetera de capsulas  1500 W  plástico  Blanco/Negro
+prodname: 'Krups Dolce Gusto Infinissima Cafetera de capsulas  1500 W  plástico  Blanco/Negro'
 ---
 
 Ahora mismo tienes [Krups Dolce Gusto Infinissima Cafetera de capsulas  1500 W  plástico  Blanco/Negro](https://www.amazon.es/dp/B07GJK1JNT/?tag=tolees-21) a 59.99 EUR (original: 91.99 EUR) (34.79 %  de descuento) en el siguiente enlace!

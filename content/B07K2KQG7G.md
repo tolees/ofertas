@@ -14,7 +14,7 @@ currency: EUR
 price: 34.45
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Adidas Falcon Zapatillas de Running Hombre  Gris  Grey Three F17/Grey Six/Shock Cyan Grey Three F17/Grey Six/Shock Cyan   45 EU
+prodname: 'Adidas Falcon Zapatillas de Running Hombre  Gris  Grey Three F17/Grey Six/Shock Cyan Grey Three F17/Grey Six/Shock Cyan   45 EU'
 ---
 
 Tienes [Adidas Falcon Zapatillas de Running Hombre  Gris  Grey Three F17/Grey Six/Shock Cyan Grey Three F17/Grey Six/Shock Cyan   45 EU](https://www.amazon.es/dp/B07K2KQG7G/?tag=tolees-21) con un 31.03 % de descuento con precio de oferta de 34.45 EUR (original: 49.95 EUR) en el siguiente enlace!

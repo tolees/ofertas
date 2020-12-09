@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: HP Carry Sleeve - Funda para portátiles de hasta 14"  ligera y resistente al agua  diseño estampado  cremalleras fiables   negro y plata
+prodname: 'HP Carry Sleeve - Funda para portátiles de hasta 14"  ligera y resistente al agua  diseño estampado  cremalleras fiables   negro y plata'
 ---
 
 Ahora mismo tienes [HP Carry Sleeve - Funda para portátiles de hasta 14"  ligera y resistente al agua  diseño estampado  cremalleras fiables   negro y plata](https://www.amazon.es/dp/B07DZ62JRM/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

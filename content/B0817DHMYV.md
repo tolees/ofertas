@@ -14,7 +14,7 @@ currency: EUR
 price: 63.0
 comparePrice: 85.11 EUR
 inStock: true
-prodname: New Balance Fresh Foam Roav   Zapatillas para Correr de Carretera Hombre  Black  43 EU
+prodname: 'New Balance Fresh Foam Roav   Zapatillas para Correr de Carretera Hombre  Black  43 EU'
 ---
 
 Tienes [New Balance Fresh Foam Roav   Zapatillas para Correr de Carretera Hombre  Black  43 EU](https://www.amazon.es/dp/B0817DHMYV/?tag=tolees-21) con un 25.98 % de descuento con precio de oferta de 63.0 EUR (original: 85.11 EUR) en el siguiente enlace!

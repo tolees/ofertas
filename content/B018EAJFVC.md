@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 34 EUR
 inStock: true
-prodname: Lancôme  Autobronceador facial  SPF 50  - 50 ml.
+prodname: 'Lancôme  Autobronceador facial  SPF 50  - 50 ml.'
 ---
 
 Tienes [Lancôme  Autobronceador facial  SPF 50  - 50 ml.](https://www.amazon.es/dp/B018EAJFVC/?tag=tolees-21) con un 29.56 % de descuento con precio de oferta de 23.95 EUR (original: 34 EUR) en el siguiente enlace!

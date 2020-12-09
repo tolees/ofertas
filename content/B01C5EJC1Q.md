@@ -14,7 +14,7 @@ currency: EUR
 price: 16.64
 comparePrice: 43.19 EUR
 inStock: true
-prodname: Nike Funnelneck Pantalones  Hombre   Negro/Blanco   2XL
+prodname: 'Nike Funnelneck Pantalones  Hombre   Negro/Blanco   2XL'
 ---
 
 Tienes [Nike Funnelneck Pantalones  Hombre   Negro/Blanco   2XL](https://www.amazon.es/dp/B01C5EJC1Q/?tag=tolees-21) con un 61.47 % de descuento con precio de oferta de 16.64 EUR (original: 43.19 EUR) en el siguiente enlace!

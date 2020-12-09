@@ -14,7 +14,7 @@ currency: EUR
 price: 3.63
 comparePrice: 7.25 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly - Mejorana secada y picada  4x8g
+prodname: 'Marca Amazon - Happy Belly - Mejorana secada y picada  4x8g'
 ---
 
 Ahora mismo tienes [Marca Amazon - Happy Belly - Mejorana secada y picada  4x8g](https://www.amazon.es/dp/B07ZDM6DNG/?tag=tolees-21) a 3.63 EUR (original: 7.25 EUR) (49.93 %  de descuento) en el siguiente enlace!

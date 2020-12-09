@@ -14,7 +14,7 @@ currency: EUR
 price: 269.99
 comparePrice: 369.0 EUR
 inStock: true
-prodname: Hisense WFHV9014 - Lavadora Carga Frontal 9 Kg  1400 RPM  15 Programas  Color Blanco  Gran Display LED  Lavado rápido  Bloqueo Infantil
+prodname: 'Hisense WFHV9014 - Lavadora Carga Frontal 9 Kg  1400 RPM  15 Programas  Color Blanco  Gran Display LED  Lavado rápido  Bloqueo Infantil'
 ---
 
 Ahora mismo tienes [Hisense WFHV9014 - Lavadora Carga Frontal 9 Kg  1400 RPM  15 Programas  Color Blanco  Gran Display LED  Lavado rápido  Bloqueo Infantil](https://www.amazon.es/dp/B07HKYXWM6/?tag=tolees-21) a 269.99 EUR (original: 369.0 EUR) (26.83 %  de descuento) en el siguiente enlace!

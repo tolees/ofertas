@@ -14,7 +14,7 @@ currency: EUR
 price: 37.12
 comparePrice: 74.4 EUR
 inStock: true
-prodname: Xiaomi ZBW4485GL - Auriculares Wireless  Bluetooth  Blanco  Talla Única
+prodname: 'Xiaomi ZBW4485GL - Auriculares Wireless  Bluetooth  Blanco  Talla Única'
 ---
 
 Está [Xiaomi ZBW4485GL - Auriculares Wireless  Bluetooth  Blanco  Talla Única](https://www.amazon.es/dp/B07SMSC2KQ/?tag=tolees-21) con 50.11 de descuento por 37.12 EUR (original: 74.4 EUR) en el siguiente enlace!

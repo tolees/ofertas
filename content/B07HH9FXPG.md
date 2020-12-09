@@ -14,7 +14,7 @@ currency: EUR
 price: 52.25
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Tommy Hilfiger New Ivy V-nk Swtr  suéter Mujer  Amarillo  Sunshine Yellow 789   Large  Talla del Fabricante: LG 
+prodname: 'Tommy Hilfiger New Ivy V-nk Swtr  suéter Mujer  Amarillo  Sunshine Yellow 789   Large  Talla del Fabricante: LG '
 ---
 
 Tienes [Tommy Hilfiger New Ivy V-nk Swtr  suéter Mujer  Amarillo  Sunshine Yellow 789   Large  Talla del Fabricante: LG ](https://www.amazon.es/dp/B07HH9FXPG/?tag=tolees-21) con un 47.70 % de descuento con precio de oferta de 52.25 EUR (original: 99.9 EUR) en el siguiente enlace!

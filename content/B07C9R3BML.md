@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 60 EUR
 inStock: true
-prodname: Nike Downshifter 8  Zapatillas de Deporte Unisex Adulto   908984 012  42.5 EU
+prodname: 'Nike Downshifter 8  Zapatillas de Deporte Unisex Adulto   908984 012  42.5 EU'
 ---
 
 Tienes [Nike Downshifter 8  Zapatillas de Deporte Unisex Adulto   908984 012  42.5 EU](https://www.amazon.es/dp/B07C9R3BML/?tag=tolees-21) con un 50.08 % de descuento con precio de oferta de 29.95 EUR (original: 60 EUR) en el siguiente enlace!

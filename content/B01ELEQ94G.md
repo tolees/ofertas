@@ -14,7 +14,7 @@ currency: EUR
 price: 22.39
 comparePrice: 29.99 EUR
 inStock: true
-prodname: HOMCOM Máquina de Algodón de Azúcar Eléctrica Profesional Estilo Retro Regalo Infantil para Fiestas Cumpleaños Acero Inox. Aluminio 450W Cotton Candy Machine 30x30x28cm
+prodname: 'HOMCOM Máquina de Algodón de Azúcar Eléctrica Profesional Estilo Retro Regalo Infantil para Fiestas Cumpleaños Acero Inox. Aluminio 450W Cotton Candy Machine 30x30x28cm'
 ---
 
 Está [HOMCOM Máquina de Algodón de Azúcar Eléctrica Profesional Estilo Retro Regalo Infantil para Fiestas Cumpleaños Acero Inox. Aluminio 450W Cotton Candy Machine 30x30x28cm](https://www.amazon.es/dp/B01ELEQ94G/?tag=tolees-21) con 25.34 de descuento por 22.39 EUR (original: 29.99 EUR) en el siguiente enlace!

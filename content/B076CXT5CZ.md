@@ -14,7 +14,7 @@ currency: EUR
 price: 1562.23
 comparePrice: 2099 EUR
 inStock: true
-prodname: MSI GS63VR 7RG-084XES - Ordenador portátil 15.6   Full-HD  Intel Core i7-7700HQ  16 GB RAM  1TB HDD + 512 GB SSD  Nvidia GeForce GTX 1070 de 8 GB  sin sistema operativo  Negro - Teclado QWERTY Español
+prodname: 'MSI GS63VR 7RG-084XES - Ordenador portátil 15.6   Full-HD  Intel Core i7-7700HQ  16 GB RAM  1TB HDD + 512 GB SSD  Nvidia GeForce GTX 1070 de 8 GB  sin sistema operativo  Negro - Teclado QWERTY Español'
 ---
 
 Está [MSI GS63VR 7RG-084XES - Ordenador portátil 15.6   Full-HD  Intel Core i7-7700HQ  16 GB RAM  1TB HDD + 512 GB SSD  Nvidia GeForce GTX 1070 de 8 GB  sin sistema operativo  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B076CXT5CZ/?tag=tolees-21) con 25.57 de descuento por 1562.23 EUR (original: 2099 EUR) en el siguiente enlace!

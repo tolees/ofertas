@@ -14,7 +14,7 @@ currency: EUR
 price: 14.09
 comparePrice: 30.85 EUR
 inStock: true
-prodname: Berydale Bd310 - Vestido para Mujer  Negro  Schwarz   42  Talla del Fabricante: X-Large 
+prodname: 'Berydale Bd310 - Vestido para Mujer  Negro  Schwarz   42  Talla del Fabricante: X-Large '
 ---
 
 Tienes [Berydale Bd310 - Vestido para Mujer  Negro  Schwarz   42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01MRS9IZS/?tag=tolees-21) con un 54.33 % de descuento con precio de oferta de 14.09 EUR (original: 30.85 EUR) en el siguiente enlace!

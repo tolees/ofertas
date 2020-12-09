@@ -14,7 +14,7 @@ currency: EUR
 price: 6.6
 comparePrice: 26.4 EUR
 inStock: true
-prodname: 226ERS Vegan Gummies  Barritas Energéticas con BCAAs 8:1:1  Mango - 1 unidad
+prodname: '226ERS Vegan Gummies  Barritas Energéticas con BCAAs 8:1:1  Mango - 1 unidad'
 ---
 
 Está [226ERS Vegan Gummies  Barritas Energéticas con BCAAs 8:1:1  Mango - 1 unidad](https://www.amazon.es/dp/B07RC7V2GX/?tag=tolees-21) con 75.00 de descuento por 6.6 EUR (original: 26.4 EUR) en el siguiente enlace!

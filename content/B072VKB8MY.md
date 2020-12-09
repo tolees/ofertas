@@ -14,7 +14,7 @@ currency: EUR
 price: 20.97
 comparePrice: 97.02 EUR
 inStock: true
-prodname: Decora Cuadro Cacerola de Acero Inoxidable – 1/2  32 x 26 x 10 cm  Color Plateado
+prodname: 'Decora Cuadro Cacerola de Acero Inoxidable – 1/2  32 x 26 x 10 cm  Color Plateado'
 ---
 
 Tienes [Decora Cuadro Cacerola de Acero Inoxidable – 1/2  32 x 26 x 10 cm  Color Plateado](https://www.amazon.es/dp/B072VKB8MY/?tag=tolees-21) con un 78.39 % de descuento con precio de oferta de 20.97 EUR (original: 97.02 EUR) en el siguiente enlace!

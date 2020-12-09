@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JFUNE 1200W Termoventiladores y calefactores cerámicos  Mini Calentador de Ventilador eléctrico Calentador de Escritorio Oscilación automática y 2 ajustes de Calor
+prodname: 'JFUNE 1200W Termoventiladores y calefactores cerámicos  Mini Calentador de Ventilador eléctrico Calentador de Escritorio Oscilación automática y 2 ajustes de Calor'
 ---
 
 Ahora mismo tienes [JFUNE 1200W Termoventiladores y calefactores cerámicos  Mini Calentador de Ventilador eléctrico Calentador de Escritorio Oscilación automática y 2 ajustes de Calor](https://www.amazon.es/dp/B07JMJVNSW/?tag=tolees-21) a 12.99 EUR (original: 39.99 EUR) (67.52 %  de descuento) en el siguiente enlace!

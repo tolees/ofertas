@@ -14,7 +14,7 @@ currency: EUR
 price: 13.72
 comparePrice: 19.92 EUR
 inStock: true
-prodname: YoPRO Pack 8 unidades batido 25G de Proteína sabor chocolate de 330 ml - Total 8 x 330 ml
+prodname: 'YoPRO Pack 8 unidades batido 25G de Proteína sabor chocolate de 330 ml - Total 8 x 330 ml'
 ---
 
 Ahora mismo tienes [YoPRO Pack 8 unidades batido 25G de Proteína sabor chocolate de 330 ml - Total 8 x 330 ml](https://www.amazon.es/dp/B0854XWJZN/?tag=tolees-21) a 13.72 EUR (original: 19.92 EUR) (31.12 %  de descuento) en el siguiente enlace!

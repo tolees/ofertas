@@ -14,7 +14,7 @@ currency: EUR
 price: 33.35
 comparePrice: 85 EUR
 inStock: true
-prodname: Dickies Lined Eisenhower-Chaqueta Hombre  Azul  Dark Navy DN   X-Large
+prodname: 'Dickies Lined Eisenhower-Chaqueta Hombre  Azul  Dark Navy DN   X-Large'
 ---
 
 Tienes [Dickies Lined Eisenhower-Chaqueta Hombre  Azul  Dark Navy DN   X-Large](https://www.amazon.es/dp/B002Z2FXWG/?tag=tolees-21) con un 60.76 % de descuento con precio de oferta de 33.35 EUR (original: 85 EUR) en el siguiente enlace!

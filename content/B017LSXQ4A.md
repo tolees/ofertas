@@ -14,7 +14,7 @@ currency: EUR
 price: 26.1
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Braun HC 5010 - Máquina de cortar pelo profesional  cortapelos con 9 longitudes de corte  negro
+prodname: 'Braun HC 5010 - Máquina de cortar pelo profesional  cortapelos con 9 longitudes de corte  negro'
 ---
 
 Ahora mismo tienes [Braun HC 5010 - Máquina de cortar pelo profesional  cortapelos con 9 longitudes de corte  negro](https://www.amazon.es/dp/B017LSXQ4A/?tag=tolees-21) a 26.1 EUR (original: 44.99 EUR) (41.99 %  de descuento) en el siguiente enlace!

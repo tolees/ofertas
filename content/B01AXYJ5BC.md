@@ -14,7 +14,7 @@ currency: EUR
 price: 32.28
 comparePrice: 45.95 EUR
 inStock: true
-prodname: Joma - Anorak Everest Gris para Hombre
+prodname: 'Joma - Anorak Everest Gris para Hombre'
 ---
 
 Tienes [Joma - Anorak Everest Gris para Hombre](https://www.amazon.es/dp/B01AXYJ5BC/?tag=tolees-21) con un 29.75 % de descuento con precio de oferta de 32.28 EUR (original: 45.95 EUR) en el siguiente enlace!

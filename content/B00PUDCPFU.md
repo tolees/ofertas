@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.2 EUR
 inStock: true
-prodname: Brabantia Dispensador de jabón  Matt Steel FPP  0.18 L
+prodname: 'Brabantia Dispensador de jabón  Matt Steel FPP  0.18 L'
 ---
 
 Está [Brabantia Dispensador de jabón  Matt Steel FPP  0.18 L](https://www.amazon.es/dp/B00PUDCPFU/?tag=tolees-21) con 31.54 de descuento por 19.99 EUR (original: 29.2 EUR) en el siguiente enlace!

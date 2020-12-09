@@ -14,7 +14,7 @@ currency: EUR
 price: 84.83
 comparePrice: 129.95 EUR
 inStock: true
-prodname: XL-S Medical Max Strength - Bloqueador de la absorción de Carbohidratos  Azúcares y Grasas - Tratamiento para Adelgazar - Reduce la ingesta de Calorías y Antojos - Pack 2 Meses de Tratamiento
+prodname: 'XL-S Medical Max Strength - Bloqueador de la absorción de Carbohidratos  Azúcares y Grasas - Tratamiento para Adelgazar - Reduce la ingesta de Calorías y Antojos - Pack 2 Meses de Tratamiento'
 ---
 
 Ahora mismo tienes [XL-S Medical Max Strength - Bloqueador de la absorción de Carbohidratos  Azúcares y Grasas - Tratamiento para Adelgazar - Reduce la ingesta de Calorías y Antojos - Pack 2 Meses de Tratamiento](https://www.amazon.es/dp/B07DNBP95Z/?tag=tolees-21) a 84.83 EUR (original: 129.95 EUR) (34.72 %  de descuento) en el siguiente enlace!

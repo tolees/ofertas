@@ -14,7 +14,7 @@ currency: EUR
 price: 22.21
 comparePrice: 59.99 EUR
 inStock: true
-prodname: K-Swiss Aeronaut  Zapatillas para Hombre  Negro Blk/Highrise 060  44 EU
+prodname: 'K-Swiss Aeronaut  Zapatillas para Hombre  Negro Blk/Highrise 060  44 EU'
 ---
 
 Ahora mismo tienes [K-Swiss Aeronaut  Zapatillas para Hombre  Negro Blk/Highrise 060  44 EU](https://www.amazon.es/dp/B07JG15KTM/?tag=tolees-21) a 22.21 EUR (original: 59.99 EUR) (62.98 %  de descuento) en el siguiente enlace!

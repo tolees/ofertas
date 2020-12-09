@@ -14,7 +14,7 @@ currency: EUR
 price: 11.32
 comparePrice: 16.99 EUR
 inStock: true
-prodname: HP - Ratón Inalámbrico HP 200 con Perfil Redondeado  Color Rojo
+prodname: 'HP - Ratón Inalámbrico HP 200 con Perfil Redondeado  Color Rojo'
 ---
 
 Está [HP - Ratón Inalámbrico HP 200 con Perfil Redondeado  Color Rojo](https://www.amazon.es/dp/B00HCYTOV8/?tag=tolees-21) con 33.37 de descuento por 11.32 EUR (original: 16.99 EUR) en el siguiente enlace!

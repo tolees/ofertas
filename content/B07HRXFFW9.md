@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 81.35 EUR
 inStock: true
-prodname: ApolloStar Mujer Pendientes de Chapado en Oro Sparkling Round Cubic Zirconia Stud Pendientes Regalo de la joyería
+prodname: 'ApolloStar Mujer Pendientes de Chapado en Oro Sparkling Round Cubic Zirconia Stud Pendientes Regalo de la joyería'
 ---
 
 Tienes [ApolloStar Mujer Pendientes de Chapado en Oro Sparkling Round Cubic Zirconia Stud Pendientes Regalo de la joyería](https://www.amazon.es/dp/B07HRXFFW9/?tag=tolees-21) con un 87.72 % de descuento con precio de oferta de 9.99 EUR (original: 81.35 EUR) en el siguiente enlace!

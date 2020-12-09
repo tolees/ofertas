@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Westt Torque - Casco De Moto Modular Integral Negro Mate con Doble Visera - Motocicleta Scooter - Certificado ECE
+prodname: 'Westt Torque - Casco De Moto Modular Integral Negro Mate con Doble Visera - Motocicleta Scooter - Certificado ECE'
 ---
 
 Está [Westt Torque - Casco De Moto Modular Integral Negro Mate con Doble Visera - Motocicleta Scooter - Certificado ECE](https://www.amazon.es/dp/B07HY6Y1JG/?tag=tolees-21) con 30.24 de descuento por 89.99 EUR (original: 129.0 EUR) en el siguiente enlace!

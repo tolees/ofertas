@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 94.99 EUR
 inStock: true
-prodname: Philips SoniCare Healthy White HX6762/35 - Pack 2 Cepillos de Dientes Electrico Recargables  2 Cabezales  Cargador  Color Verde y Rosa
+prodname: 'Philips SoniCare Healthy White HX6762/35 - Pack 2 Cepillos de Dientes Electrico Recargables  2 Cabezales  Cargador  Color Verde y Rosa'
 ---
 
 Está [Philips SoniCare Healthy White HX6762/35 - Pack 2 Cepillos de Dientes Electrico Recargables  2 Cabezales  Cargador  Color Verde y Rosa](https://www.amazon.es/dp/B01LNVF8HY/?tag=tolees-21) con 42.11 de descuento por 54.99 EUR (original: 94.99 EUR) en el siguiente enlace!

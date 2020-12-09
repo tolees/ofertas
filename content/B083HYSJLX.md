@@ -14,7 +14,7 @@ currency: EUR
 price: 1.02
 comparePrice: 4.01 EUR
 inStock: true
-prodname: Carcasa del teléfono Half Love Funda Resistente a roturas Carcasa Piezas de protección del teléfono móvil Accesorios para automóviles del vehículo móvil
+prodname: 'Carcasa del teléfono Half Love Funda Resistente a roturas Carcasa Piezas de protección del teléfono móvil Accesorios para automóviles del vehículo móvil'
 ---
 
 Está [Carcasa del teléfono Half Love Funda Resistente a roturas Carcasa Piezas de protección del teléfono móvil Accesorios para automóviles del vehículo móvil](https://www.amazon.es/dp/B083HYSJLX/?tag=tolees-21) con 74.56 de descuento por 1.02 EUR (original: 4.01 EUR) en el siguiente enlace!

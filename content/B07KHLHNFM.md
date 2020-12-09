@@ -14,7 +14,7 @@ currency: EUR
 price: 14.21
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Rosa  Impulse Pink/Metallic Silver 671   XS
+prodname: 'Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Rosa  Impulse Pink/Metallic Silver 671   XS'
 ---
 
 Ahora mismo tienes [Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Rosa  Impulse Pink/Metallic Silver 671   XS](https://www.amazon.es/dp/B07KHLHNFM/?tag=tolees-21) a 14.21 EUR (original: 25.99 EUR) (45.33 %  de descuento) en el siguiente enlace!

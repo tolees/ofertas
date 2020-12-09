@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Zapatillas de Running para Hombre Zapatillas de Deportivos Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado
+prodname: 'Zapatillas de Running para Hombre Zapatillas de Deportivos Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado'
 ---
 
 Ahora mismo tienes [Zapatillas de Running para Hombre Zapatillas de Deportivos Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado](https://www.amazon.es/dp/B07XC5ZHF3/?tag=tolees-21) a 34.99 EUR (original: 69.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.55
 comparePrice: 30.65 EUR
 inStock: true
-prodname: New Balance Heather Tech - Prendas de Punto  Jersey  Femenino  Azul  S  SML  Monótono 
+prodname: 'New Balance Heather Tech - Prendas de Punto  Jersey  Femenino  Azul  S  SML  Monótono '
 ---
 
 Está [New Balance Heather Tech - Prendas de Punto  Jersey  Femenino  Azul  S  SML  Monótono ](https://www.amazon.es/dp/B077X3FQQJ/?tag=tolees-21) con 36.22 de descuento por 19.55 EUR (original: 30.65 EUR) en el siguiente enlace!

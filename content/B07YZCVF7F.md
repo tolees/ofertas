@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
-prodname: SKYSPER Camiseta de Compresión Manga Larga para Hombre Ropa Interior Deportiva Deportes Camisetas de Fitness Transpirable Secado Rápido para Running Fitness Entrenamiento Yoga Ciclismo
+prodname: 'SKYSPER Camiseta de Compresión Manga Larga para Hombre Ropa Interior Deportiva Deportes Camisetas de Fitness Transpirable Secado Rápido para Running Fitness Entrenamiento Yoga Ciclismo'
 ---
 
 Ahora mismo tienes [SKYSPER Camiseta de Compresión Manga Larga para Hombre Ropa Interior Deportiva Deportes Camisetas de Fitness Transpirable Secado Rápido para Running Fitness Entrenamiento Yoga Ciclismo](https://www.amazon.es/dp/B07YZCVF7F/?tag=tolees-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

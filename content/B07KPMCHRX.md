@@ -14,7 +14,7 @@ currency: EUR
 price: 45.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Oneconcept Dartor Diana Electrónica - 26 Juegos y Dardos Recambio - Puerta
+prodname: 'Oneconcept Dartor Diana Electrónica - 26 Juegos y Dardos Recambio - Puerta'
 ---
 
 Está [Oneconcept Dartor Diana Electrónica - 26 Juegos y Dardos Recambio - Puerta](https://www.amazon.es/dp/B07KPMCHRX/?tag=tolees-21) con 42.51 de descuento por 45.99 EUR (original: 79.99 EUR) en el siguiente enlace!

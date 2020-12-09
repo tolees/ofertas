@@ -14,7 +14,7 @@ currency: EUR
 price: 11.37
 comparePrice: 39.99 EUR
 inStock: true
-prodname: PIECES Pcsanni LS Wool Knit Cardigan Noos  Chaqueta Punto para Mujer  Rojo  Winetasting Detail: Melange  38  Talla del Fabricante: Small 
+prodname: 'PIECES Pcsanni LS Wool Knit Cardigan Noos  Chaqueta Punto para Mujer  Rojo  Winetasting Detail: Melange  38  Talla del Fabricante: Small '
 ---
 
 Está [PIECES Pcsanni LS Wool Knit Cardigan Noos  Chaqueta Punto para Mujer  Rojo  Winetasting Detail: Melange  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07F2HTDKS/?tag=tolees-21) con 71.57 de descuento por 11.37 EUR (original: 39.99 EUR) en el siguiente enlace!

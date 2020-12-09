@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 9.9 EUR
 inStock: true
-prodname: Lékué Escalfador de Huevos  Acero Inoxidable  Naranja  9 3 x 11 x 7 5 cm
+prodname: 'Lékué Escalfador de Huevos  Acero Inoxidable  Naranja  9 3 x 11 x 7 5 cm'
 ---
 
 Está [Lékué Escalfador de Huevos  Acero Inoxidable  Naranja  9 3 x 11 x 7 5 cm](https://www.amazon.es/dp/B06XYDFW6W/?tag=tolees-21) con 29.80 de descuento por 6.95 EUR (original: 9.9 EUR) en el siguiente enlace!

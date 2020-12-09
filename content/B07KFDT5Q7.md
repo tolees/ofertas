@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: INTEY Purificador de Aire
+prodname: 'INTEY Purificador de Aire'
 ---
 
 Tienes [INTEY Purificador de Aire](https://www.amazon.es/dp/B07KFDT5Q7/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 15.99 EUR (original: 39.99 EUR) en el siguiente enlace!

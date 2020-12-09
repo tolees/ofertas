@@ -14,7 +14,7 @@ currency: EUR
 price: 9.89
 comparePrice: 25.58 EUR
 inStock: true
-prodname: Escuadrón Suicida  4K Ultra HD + Blu-ray + Copia Digital  [Blu-ray]
+prodname: 'Escuadrón Suicida  4K Ultra HD + Blu-ray + Copia Digital  [Blu-ray]'
 ---
 
 Tienes [Escuadrón Suicida  4K Ultra HD + Blu-ray + Copia Digital  [Blu-ray]](https://www.amazon.es/dp/B01MF8RQ8N/?tag=tolees-21) con un 61.34 % de descuento con precio de oferta de 9.89 EUR (original: 25.58 EUR) en el siguiente enlace!

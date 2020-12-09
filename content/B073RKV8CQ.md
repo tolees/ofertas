@@ -14,7 +14,7 @@ currency: EUR
 price: 29.71
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas Cloudfoam Pure  Zapatillas de Running para Mujer  Negro Core Black/FTWR White  36.5 EU
+prodname: 'adidas Cloudfoam Pure  Zapatillas de Running para Mujer  Negro Core Black/FTWR White  36.5 EU'
 ---
 
 Está [adidas Cloudfoam Pure  Zapatillas de Running para Mujer  Negro Core Black/FTWR White  36.5 EU](https://www.amazon.es/dp/B073RKV8CQ/?tag=tolees-21) con 57.53 de descuento por 29.71 EUR (original: 69.95 EUR) en el siguiente enlace!

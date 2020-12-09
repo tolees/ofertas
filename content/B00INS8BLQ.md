@@ -14,7 +14,7 @@ currency: EUR
 price: 98.35
 comparePrice: 143.28 EUR
 inStock: true
-prodname: Arozzi Gaming Chair Monza [Importación Italiana]
+prodname: 'Arozzi Gaming Chair Monza [Importación Italiana]'
 ---
 
 Está [Arozzi Gaming Chair Monza [Importación Italiana]](https://www.amazon.es/dp/B00INS8BLQ/?tag=tolees-21) con 31.36 de descuento por 98.35 EUR (original: 143.28 EUR) en el siguiente enlace!

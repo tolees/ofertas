@@ -14,7 +14,7 @@ currency: EUR
 price: 899
 comparePrice: 1399 EUR
 inStock: true
-prodname: ASUS ZenBook Pro 15 UX550GD-BN026T - Ordenador Portátil 15.6" FullHD  Intel Core i7-8750H  8 GB RAM  256 GB SSD  NVIDIA GeForce GTX1050 4 GB  Windows 10 Home  Azul - Teclado QWERTY Español
+prodname: 'ASUS ZenBook Pro 15 UX550GD-BN026T - Ordenador Portátil 15.6" FullHD  Intel Core i7-8750H  8 GB RAM  256 GB SSD  NVIDIA GeForce GTX1050 4 GB  Windows 10 Home  Azul - Teclado QWERTY Español'
 ---
 
 Ahora mismo tienes [ASUS ZenBook Pro 15 UX550GD-BN026T - Ordenador Portátil 15.6" FullHD  Intel Core i7-8750H  8 GB RAM  256 GB SSD  NVIDIA GeForce GTX1050 4 GB  Windows 10 Home  Azul - Teclado QWERTY Español](https://www.amazon.es/dp/B07HPL8MC9/?tag=tolees-21) a 899 EUR (original: 1399 EUR) (35.74 %  de descuento) en el siguiente enlace!

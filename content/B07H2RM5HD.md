@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 50.43 EUR
 inStock: true
-prodname: Set de bandas de resistencia para ejercicios 11PC Workout Fitness Bandas de tubo de estiramiento con 5 correas de fitness Anclaje de puerta  manijas  correas de tobillo y bolsa de transporte
+prodname: 'Set de bandas de resistencia para ejercicios 11PC Workout Fitness Bandas de tubo de estiramiento con 5 correas de fitness Anclaje de puerta  manijas  correas de tobillo y bolsa de transporte'
 ---
 
 Ahora mismo tienes [Set de bandas de resistencia para ejercicios 11PC Workout Fitness Bandas de tubo de estiramiento con 5 correas de fitness Anclaje de puerta  manijas  correas de tobillo y bolsa de transporte](https://www.amazon.es/dp/B07H2RM5HD/?tag=tolees-21) a 12.99 EUR (original: 50.43 EUR) (74.24 %  de descuento) en el siguiente enlace!

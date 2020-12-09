@@ -14,7 +14,7 @@ currency: EUR
 price: 12.36
 comparePrice: 29.99 EUR
 inStock: true
-prodname: MTNG 58553 Sandalias de Mujer Beige
+prodname: 'MTNG 58553 Sandalias de Mujer Beige'
 ---
 
 Tienes [MTNG 58553 Sandalias de Mujer Beige](https://www.amazon.es/dp/B07YN9DFW9/?tag=tolees-21) con un 58.79 % de descuento con precio de oferta de 12.36 EUR (original: 29.99 EUR) en el siguiente enlace!

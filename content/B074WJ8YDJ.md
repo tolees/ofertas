@@ -14,7 +14,7 @@ currency: EUR
 price: 519.98
 comparePrice: 1010.33 EUR
 inStock: true
-prodname: Samsung Galaxy Note 8  Smartphone de 6.3"  4G  escáner de iris  Exynos 8895 Octacore 2.3 GHz y 1.7 GHz  64 GB  6 GB de RAM  cámara dual de 12 MP/8MP  Android   dorado  Maple Gold 
+prodname: 'Samsung Galaxy Note 8  Smartphone de 6.3"  4G  escáner de iris  Exynos 8895 Octacore 2.3 GHz y 1.7 GHz  64 GB  6 GB de RAM  cámara dual de 12 MP/8MP  Android   dorado  Maple Gold '
 ---
 
 Ahora mismo tienes [Samsung Galaxy Note 8  Smartphone de 6.3"  4G  escáner de iris  Exynos 8895 Octacore 2.3 GHz y 1.7 GHz  64 GB  6 GB de RAM  cámara dual de 12 MP/8MP  Android   dorado  Maple Gold ](https://www.amazon.es/dp/B074WJ8YDJ/?tag=tolees-21) a 519.98 EUR (original: 1010.33 EUR) (48.53 %  de descuento) en el siguiente enlace!

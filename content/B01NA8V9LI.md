@@ -14,7 +14,7 @@ currency: EUR
 price: 34.81
 comparePrice: 80 EUR
 inStock: true
-prodname: New Balance MRZHLL1  Zapatillas Hombre  Negro  Black/magnet   42 EU
+prodname: 'New Balance MRZHLL1  Zapatillas Hombre  Negro  Black/magnet   42 EU'
 ---
 
 Ahora mismo tienes [New Balance MRZHLL1  Zapatillas Hombre  Negro  Black/magnet   42 EU](https://www.amazon.es/dp/B01NA8V9LI/?tag=tolees-21) a 34.81 EUR (original: 80 EUR) (56.49 %  de descuento) en el siguiente enlace!

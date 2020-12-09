@@ -14,7 +14,7 @@ currency: EUR
 price: 30.49
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Only ONLAVA Faux Leather Biker OTW Noos Chaqueta  Grün  Chinois Green Chinois Green   36 EU para Mujer
+prodname: 'Only ONLAVA Faux Leather Biker OTW Noos Chaqueta  Grün  Chinois Green Chinois Green   36 EU para Mujer'
 ---
 
 Tienes [Only ONLAVA Faux Leather Biker OTW Noos Chaqueta  Grün  Chinois Green Chinois Green   36 EU para Mujer](https://www.amazon.es/dp/B07MKMXSXK/?tag=tolees-21) con un 39.01 % de descuento con precio de oferta de 30.49 EUR (original: 49.99 EUR) en el siguiente enlace!

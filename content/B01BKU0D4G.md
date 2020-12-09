@@ -14,7 +14,7 @@ currency: EUR
 price: 126.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: LG CM2760 - Microcadena con 160W de potencia  Bluetooth  USB   color negro
+prodname: 'LG CM2760 - Microcadena con 160W de potencia  Bluetooth  USB   color negro'
 ---
 
 Tienes [LG CM2760 - Microcadena con 160W de potencia  Bluetooth  USB   color negro](https://www.amazon.es/dp/B01BKU0D4G/?tag=tolees-21) con un 36.68 % de descuento con precio de oferta de 126.0 EUR (original: 199.0 EUR) en el siguiente enlace!

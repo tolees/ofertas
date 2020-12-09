@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 33.95 EUR
 inStock: true
-prodname: Escala de peso de precisión para suelo inalámbrico Bluetooth APP cuerpo analizador Digital Báscula de baño
+prodname: 'Escala de peso de precisión para suelo inalámbrico Bluetooth APP cuerpo analizador Digital Báscula de baño'
 ---
 
 Tienes [Escala de peso de precisión para suelo inalámbrico Bluetooth APP cuerpo analizador Digital Báscula de baño](https://www.amazon.es/dp/B07K7QTCH4/?tag=tolees-21) con un 55.85 % de descuento con precio de oferta de 14.99 EUR (original: 33.95 EUR) en el siguiente enlace!

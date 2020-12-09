@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 35 EUR
 inStock: true
-prodname: Anyoo Hamaca de Algodón para Jardin al Aire Libre de Campaña Portatil Lona Cama Cuerdas Columpio Capacidad 201Kg Peso Ligero con Bolso para Jardín Patio Playa Mochilero Excursionismo …
+prodname: 'Anyoo Hamaca de Algodón para Jardin al Aire Libre de Campaña Portatil Lona Cama Cuerdas Columpio Capacidad 201Kg Peso Ligero con Bolso para Jardín Patio Playa Mochilero Excursionismo …'
 ---
 
 Tienes [Anyoo Hamaca de Algodón para Jardin al Aire Libre de Campaña Portatil Lona Cama Cuerdas Columpio Capacidad 201Kg Peso Ligero con Bolso para Jardín Patio Playa Mochilero Excursionismo …](https://www.amazon.es/dp/B07DCJR39G/?tag=tolees-21) con un 37.17 % de descuento con precio de oferta de 21.99 EUR (original: 35 EUR) en el siguiente enlace!

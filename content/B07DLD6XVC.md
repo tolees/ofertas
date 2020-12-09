@@ -14,7 +14,7 @@ currency: EUR
 price: 31.95
 comparePrice: 55 EUR
 inStock: true
-prodname: Element Cornell Classic Ho Sudaderas  Hombre  Rojo  napa Red   L
+prodname: 'Element Cornell Classic Ho Sudaderas  Hombre  Rojo  napa Red   L'
 ---
 
 Está [Element Cornell Classic Ho Sudaderas  Hombre  Rojo  napa Red   L](https://www.amazon.es/dp/B07DLD6XVC/?tag=tolees-21) con 41.91 de descuento por 31.95 EUR (original: 55 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.32
 comparePrice: 18.5 EUR
 inStock: true
-prodname: Bed Head by TIGI Cera Mate 57 g
+prodname: 'Bed Head by TIGI Cera Mate 57 g'
 ---
 
 Tienes [Bed Head by TIGI Cera Mate 57 g](https://www.amazon.es/dp/B00MI2SVJK/?tag=tolees-21) con un 60.43 % de descuento con precio de oferta de 7.32 EUR (original: 18.5 EUR) en el siguiente enlace!

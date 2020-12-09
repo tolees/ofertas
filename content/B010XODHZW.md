@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Aigostar 177430 - Cable de alimentación de bobina enrollable de 10 metros y 4 enchufes
+prodname: 'Aigostar 177430 - Cable de alimentación de bobina enrollable de 10 metros y 4 enchufes'
 ---
 
 Ahora mismo tienes [Aigostar 177430 - Cable de alimentación de bobina enrollable de 10 metros y 4 enchufes](https://www.amazon.es/dp/B010XODHZW/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

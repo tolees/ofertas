@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Shrek - Temporadas 1-4 [Blu-ray]
+prodname: 'Shrek - Temporadas 1-4 [Blu-ray]'
 ---
 
 Tienes [Shrek - Temporadas 1-4 [Blu-ray]](https://www.amazon.es/dp/B07H9FBYZ6/?tag=tolees-21) con un 48.02 % de descuento con precio de oferta de 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!

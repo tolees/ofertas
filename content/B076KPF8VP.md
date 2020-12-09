@@ -14,7 +14,7 @@ currency: EUR
 price: 1172.11
 comparePrice: 1659 EUR
 inStock: true
-prodname: ASUS GL702VM-BA309T - Ordenador Portátil de 17.3" Full HD IPS  Intel Core i7-7700HQ   16 GB RAM  1 TB HDD + 128 GB SSD  Nvidia GeForce GTX 1060 de 3GB  Windows 10  Metal Negro - Teclado QWERTY Español
+prodname: 'ASUS GL702VM-BA309T - Ordenador Portátil de 17.3" Full HD IPS  Intel Core i7-7700HQ   16 GB RAM  1 TB HDD + 128 GB SSD  Nvidia GeForce GTX 1060 de 3GB  Windows 10  Metal Negro - Teclado QWERTY Español'
 ---
 
 Está [ASUS GL702VM-BA309T - Ordenador Portátil de 17.3" Full HD IPS  Intel Core i7-7700HQ   16 GB RAM  1 TB HDD + 128 GB SSD  Nvidia GeForce GTX 1060 de 3GB  Windows 10  Metal Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B076KPF8VP/?tag=tolees-21) con 29.35 de descuento por 1172.11 EUR (original: 1659 EUR) en el siguiente enlace!

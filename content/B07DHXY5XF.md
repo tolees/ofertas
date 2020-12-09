@@ -14,7 +14,7 @@ currency: EUR
 price: 22.43
 comparePrice: 60 EUR
 inStock: true
-prodname: New Balance 800  Zapatillas Unisex Niños  Negro  Black/Grey BK   40 EU
+prodname: 'New Balance 800  Zapatillas Unisex Niños  Negro  Black/Grey BK   40 EU'
 ---
 
 Está [New Balance 800  Zapatillas Unisex Niños  Negro  Black/Grey BK   40 EU](https://www.amazon.es/dp/B07DHXY5XF/?tag=tolees-21) con 62.62 de descuento por 22.43 EUR (original: 60 EUR) en el siguiente enlace!

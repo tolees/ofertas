@@ -14,7 +14,7 @@ currency: EUR
 price: 74.49
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Helly-Hansen W Crew Midlayer Jacket Chaqueta Impermeable  Mujer  Grey Fog  XL
+prodname: 'Helly-Hansen W Crew Midlayer Jacket Chaqueta Impermeable  Mujer  Grey Fog  XL'
 ---
 
 Tienes [Helly-Hansen W Crew Midlayer Jacket Chaqueta Impermeable  Mujer  Grey Fog  XL](https://www.amazon.es/dp/B07F2LXJHS/?tag=tolees-21) con un 50.34 % de descuento con precio de oferta de 74.49 EUR (original: 150.0 EUR) en el siguiente enlace!

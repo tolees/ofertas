@@ -14,7 +14,7 @@ currency: EUR
 price: 12.95
 comparePrice: 26.78 EUR
 inStock: true
-prodname: Uhlsport Stream 3.0 Classic Pantalones  Todo el año  Unisex  Color Azul Marino y Blanco  tamaño XL
+prodname: 'Uhlsport Stream 3.0 Classic Pantalones  Todo el año  Unisex  Color Azul Marino y Blanco  tamaño XL'
 ---
 
 Está [Uhlsport Stream 3.0 Classic Pantalones  Todo el año  Unisex  Color Azul Marino y Blanco  tamaño XL](https://www.amazon.es/dp/B00VFSCL12/?tag=tolees-21) con 51.64 de descuento por 12.95 EUR (original: 26.78 EUR) en el siguiente enlace!

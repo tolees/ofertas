@@ -14,7 +14,7 @@ currency: EUR
 price: 8.59
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Huawei Mate 30 Lite Funda  MHHQ 2in1 Armadura Combinación A Prueba de Choques Heavy Duty Escudo Cáscara Dura PC + Suave TPU Silicona Rubber Case Cover con soporte para Huawei Mate 30 Lite -Red
+prodname: 'Huawei Mate 30 Lite Funda  MHHQ 2in1 Armadura Combinación A Prueba de Choques Heavy Duty Escudo Cáscara Dura PC + Suave TPU Silicona Rubber Case Cover con soporte para Huawei Mate 30 Lite -Red'
 ---
 
 Tienes [Huawei Mate 30 Lite Funda  MHHQ 2in1 Armadura Combinación A Prueba de Choques Heavy Duty Escudo Cáscara Dura PC + Suave TPU Silicona Rubber Case Cover con soporte para Huawei Mate 30 Lite -Red](https://www.amazon.es/dp/B07XZ84KLZ/?tag=tolees-21) con un 52.25 % de descuento con precio de oferta de 8.59 EUR (original: 17.99 EUR) en el siguiente enlace!

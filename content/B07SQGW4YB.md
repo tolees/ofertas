@@ -14,7 +14,7 @@ currency: EUR
 price: 41.31
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Geox D NYDAME E  Zapatillas Mujer  Beige  Sand C5004   41 EU
+prodname: 'Geox D NYDAME E  Zapatillas Mujer  Beige  Sand C5004   41 EU'
 ---
 
 Ahora mismo tienes [Geox D NYDAME E  Zapatillas Mujer  Beige  Sand C5004   41 EU](https://www.amazon.es/dp/B07SQGW4YB/?tag=tolees-21) a 41.31 EUR (original: 139.9 EUR) (70.47 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.12
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Under Armour Tech Polo  Hombre  Azul  Midnight Navy/Graphite   M
+prodname: 'Under Armour Tech Polo  Hombre  Azul  Midnight Navy/Graphite   M'
 ---
 
 Tienes [Under Armour Tech Polo  Hombre  Azul  Midnight Navy/Graphite   M](https://www.amazon.es/dp/B01GH5JNRW/?tag=tolees-21) con un 37.18 % de descuento con precio de oferta de 25.12 EUR (original: 39.99 EUR) en el siguiente enlace!

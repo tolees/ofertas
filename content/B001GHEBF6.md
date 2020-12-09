@@ -14,7 +14,7 @@ currency: EUR
 price: 9.11
 comparePrice: 18.5 EUR
 inStock: true
-prodname: Aquaglide Lubricante - 100 ml
+prodname: 'Aquaglide Lubricante - 100 ml'
 ---
 
 Tienes [Aquaglide Lubricante - 100 ml](https://www.amazon.es/dp/B001GHEBF6/?tag=tolees-21) con un 50.76 % de descuento con precio de oferta de 9.11 EUR (original: 18.5 EUR) en el siguiente enlace!

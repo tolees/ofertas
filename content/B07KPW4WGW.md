@@ -14,7 +14,7 @@ currency: EUR
 price: 9.85
 comparePrice: 16.7 EUR
 inStock: true
-prodname: Pop! Vinilo: Disney: The Lion King: Scar
+prodname: 'Pop! Vinilo: Disney: The Lion King: Scar'
 ---
 
 Tienes [Pop! Vinilo: Disney: The Lion King: Scar](https://www.amazon.es/dp/B07KPW4WGW/?tag=tolees-21) con un 41.02 % de descuento con precio de oferta de 9.85 EUR (original: 16.7 EUR) en el siguiente enlace!

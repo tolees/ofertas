@@ -14,7 +14,7 @@ currency: EUR
 price: 4.65
 comparePrice: 7.15 EUR
 inStock: true
-prodname: Micrófono del soporte del trípode de escritorio plegable Soporte de micrófono con clip y filtro pop negro
+prodname: 'Micrófono del soporte del trípode de escritorio plegable Soporte de micrófono con clip y filtro pop negro'
 ---
 
 Tienes [Micrófono del soporte del trípode de escritorio plegable Soporte de micrófono con clip y filtro pop negro](https://www.amazon.es/dp/B07L5JWC1K/?tag=tolees-21) con un 34.97 % de descuento con precio de oferta de 4.65 EUR (original: 7.15 EUR) en el siguiente enlace!

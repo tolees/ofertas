@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 30.0 EUR
 inStock: true
-prodname: FITTOO Leggings Push Up Mujer Mallas Pantalones Deportivos Alta Cintura Elásticos Yoga Fitness   Azul Cielo L
+prodname: 'FITTOO Leggings Push Up Mujer Mallas Pantalones Deportivos Alta Cintura Elásticos Yoga Fitness   Azul Cielo L'
 ---
 
 Ahora mismo tienes [FITTOO Leggings Push Up Mujer Mallas Pantalones Deportivos Alta Cintura Elásticos Yoga Fitness   Azul Cielo L](https://www.amazon.es/dp/B08BR8S9DC/?tag=tolees-21) a 18.99 EUR (original: 30.0 EUR) (36.70 %  de descuento) en el siguiente enlace!

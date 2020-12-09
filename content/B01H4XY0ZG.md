@@ -14,7 +14,7 @@ currency: EUR
 price: 38.02
 comparePrice: 56.51 EUR
 inStock: true
-prodname: SONGMICS Perchero metálico con 3 estantes Colgador para la Ropa Bolsos Bufandas 68 8 x 35 2 x 187 cm Color Blanco Crema Carga máxima 70 kg HSR04W
+prodname: 'SONGMICS Perchero metálico con 3 estantes Colgador para la Ropa Bolsos Bufandas 68 8 x 35 2 x 187 cm Color Blanco Crema Carga máxima 70 kg HSR04W'
 ---
 
 Ahora mismo tienes [SONGMICS Perchero metálico con 3 estantes Colgador para la Ropa Bolsos Bufandas 68 8 x 35 2 x 187 cm Color Blanco Crema Carga máxima 70 kg HSR04W](https://www.amazon.es/dp/B01H4XY0ZG/?tag=tolees-21) a 38.02 EUR (original: 56.51 EUR) (32.72 %  de descuento) en el siguiente enlace!

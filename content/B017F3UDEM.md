@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Paquete de 100 preservativos de colores VIBRATISSIMO para una sensación auténtica  real y extra húmeda  testados en Alemania 
+prodname: 'Paquete de 100 preservativos de colores VIBRATISSIMO para una sensación auténtica  real y extra húmeda  testados en Alemania '
 ---
 
 Ahora mismo tienes [Paquete de 100 preservativos de colores VIBRATISSIMO para una sensación auténtica  real y extra húmeda  testados en Alemania ](https://www.amazon.es/dp/B017F3UDEM/?tag=tolees-21) a 15.99 EUR (original: 24.99 EUR) (36.01 %  de descuento) en el siguiente enlace!

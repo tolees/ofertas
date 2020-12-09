@@ -14,7 +14,7 @@ currency: EUR
 price: 25.61
 comparePrice: 53.49 EUR
 inStock: true
-prodname: Bergner BG-7009 Cacerola con Templado y Recubrimiento de cerámica  Apto para inducción con Tapa de Vidrio  de 24 cm  Aluminio Fundido  Marrón  24 x 8 5 cm
+prodname: 'Bergner BG-7009 Cacerola con Templado y Recubrimiento de cerámica  Apto para inducción con Tapa de Vidrio  de 24 cm  Aluminio Fundido  Marrón  24 x 8 5 cm'
 ---
 
 Tienes [Bergner BG-7009 Cacerola con Templado y Recubrimiento de cerámica  Apto para inducción con Tapa de Vidrio  de 24 cm  Aluminio Fundido  Marrón  24 x 8 5 cm](https://www.amazon.es/dp/B00OPW68XC/?tag=tolees-21) con un 52.12 % de descuento con precio de oferta de 25.61 EUR (original: 53.49 EUR) en el siguiente enlace!

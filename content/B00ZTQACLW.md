@@ -14,7 +14,7 @@ currency: EUR
 price: 17.51
 comparePrice: 69.95 EUR
 inStock: true
-prodname: La Strada Braun farbige Stiefeletten - Botas de Material sintético Mujer  Color marrón  Talla 36
+prodname: 'La Strada Braun farbige Stiefeletten - Botas de Material sintético Mujer  Color marrón  Talla 36'
 ---
 
 Está [La Strada Braun farbige Stiefeletten - Botas de Material sintético Mujer  Color marrón  Talla 36](https://www.amazon.es/dp/B00ZTQACLW/?tag=tolees-21) con 74.97 de descuento por 17.51 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Braun HC5090 - Máquina de Cortar Pelo Profesional  Cortapelos con 17 Ajustes de Longitud y Soporte de Carga  Plata/Negro
+prodname: 'Braun HC5090 - Máquina de Cortar Pelo Profesional  Cortapelos con 17 Ajustes de Longitud y Soporte de Carga  Plata/Negro'
 ---
 
 Está [Braun HC5090 - Máquina de Cortar Pelo Profesional  Cortapelos con 17 Ajustes de Longitud y Soporte de Carga  Plata/Negro](https://www.amazon.es/dp/B017LSVKZM/?tag=tolees-21) con 30.76 de descuento por 45.0 EUR (original: 64.99 EUR) en el siguiente enlace!

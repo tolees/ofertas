@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 34 EUR
 inStock: true
-prodname: Superdry Vintage Logo Tropical INFILL E Camiseta  Grigio  Ice Marl 54g   2XS tamaño Fabricante 6  para Mujer
+prodname: 'Superdry Vintage Logo Tropical INFILL E Camiseta  Grigio  Ice Marl 54g   2XS tamaño Fabricante 6  para Mujer'
 ---
 
 Tienes [Superdry Vintage Logo Tropical INFILL E Camiseta  Grigio  Ice Marl 54g   2XS tamaño Fabricante 6  para Mujer](https://www.amazon.es/dp/B07MZDNQ7R/?tag=tolees-21) con un 47.21 % de descuento con precio de oferta de 17.95 EUR (original: 34 EUR) en el siguiente enlace!

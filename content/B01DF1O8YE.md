@@ -14,7 +14,7 @@ currency: EUR
 price: 13.31
 comparePrice: 39.31 EUR
 inStock: true
-prodname: Trlyc Cinturón para vestido de novia con aplique de strass black ribbon
+prodname: 'Trlyc Cinturón para vestido de novia con aplique de strass black ribbon'
 ---
 
 Está [Trlyc Cinturón para vestido de novia con aplique de strass black ribbon](https://www.amazon.es/dp/B01DF1O8YE/?tag=tolees-21) con 66.14 de descuento por 13.31 EUR (original: 39.31 EUR) en el siguiente enlace!

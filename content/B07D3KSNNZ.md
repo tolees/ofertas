@@ -14,7 +14,7 @@ currency: EUR
 price: 162.51
 comparePrice: 225.0 EUR
 inStock: true
-prodname: Playxtrem Sweetie - Cuna de colecho  Color Beige
+prodname: 'Playxtrem Sweetie - Cuna de colecho  Color Beige'
 ---
 
 Ahora mismo tienes [Playxtrem Sweetie - Cuna de colecho  Color Beige](https://www.amazon.es/dp/B07D3KSNNZ/?tag=tolees-21) a 162.51 EUR (original: 225.0 EUR) (27.77 %  de descuento) en el siguiente enlace!

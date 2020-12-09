@@ -14,7 +14,7 @@ currency: EUR
 price: 26.22
 comparePrice: 104.95 EUR
 inStock: true
-prodname: Skechers Outdoors Ultra  Botas Estilo Motero para Mujer  Marrón  Chesnut Csnt   36 EU
+prodname: 'Skechers Outdoors Ultra  Botas Estilo Motero para Mujer  Marrón  Chesnut Csnt   36 EU'
 ---
 
 Ahora mismo tienes [Skechers Outdoors Ultra  Botas Estilo Motero para Mujer  Marrón  Chesnut Csnt   36 EU](https://www.amazon.es/dp/B07CW1LJBW/?tag=tolees-21) a 26.22 EUR (original: 104.95 EUR) (75.02 %  de descuento) en el siguiente enlace!

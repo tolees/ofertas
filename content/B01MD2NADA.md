@@ -14,7 +14,7 @@ currency: EUR
 price: 127
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Taurus Laurent-Microondas  900 W  25 litros Capacidad  14 Niveles de Potencia  Multiples Funciones   Gris
+prodname: 'Taurus Laurent-Microondas  900 W  25 litros Capacidad  14 Niveles de Potencia  Multiples Funciones   Gris'
 ---
 
 Está [Taurus Laurent-Microondas  900 W  25 litros Capacidad  14 Niveles de Potencia  Multiples Funciones   Gris](https://www.amazon.es/dp/B01MD2NADA/?tag=tolees-21) con 29.44 de descuento por 127 EUR (original: 179.99 EUR) en el siguiente enlace!

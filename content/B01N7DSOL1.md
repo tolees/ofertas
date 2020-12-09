@@ -14,7 +14,7 @@ currency: EUR
 price: 57.49
 comparePrice: 120 EUR
 inStock: true
-prodname: Asics Gel-FujiAttack 5  Zapatillas de Trail Running para Hombre   Thunder Blue/Silver/Safety Yellow   42.5 EU
+prodname: 'Asics Gel-FujiAttack 5  Zapatillas de Trail Running para Hombre   Thunder Blue/Silver/Safety Yellow   42.5 EU'
 ---
 
 Tienes [Asics Gel-FujiAttack 5  Zapatillas de Trail Running para Hombre   Thunder Blue/Silver/Safety Yellow   42.5 EU](https://www.amazon.es/dp/B01N7DSOL1/?tag=tolees-21) con un 52.09 % de descuento con precio de oferta de 57.49 EUR (original: 120 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.09
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES PREMIUM Jprstory Knit Crew Neck Noos suéter  Gris  Jet Stream Detail:Twisted W. Black   X-Large para Hombre
+prodname: 'JACK & JONES PREMIUM Jprstory Knit Crew Neck Noos suéter  Gris  Jet Stream Detail:Twisted W. Black   X-Large para Hombre'
 ---
 
 Está [JACK & JONES PREMIUM Jprstory Knit Crew Neck Noos suéter  Gris  Jet Stream Detail:Twisted W. Black   X-Large para Hombre](https://www.amazon.es/dp/B071XJBTRD/?tag=tolees-21) con 72.27 de descuento por 11.09 EUR (original: 39.99 EUR) en el siguiente enlace!

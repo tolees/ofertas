@@ -14,7 +14,7 @@ currency: EUR
 price: 19.94
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Gootior 950XL 951XL Cartuchos de Tinta  Alto Rendimiento Reemplazo para HP 950 951 Compatible con HP Officejet Pro 251dw 276dw 8100 8600 8610 8615 8620 8640  4 Negro  2 Cian  2 Magenta  2 Amarillo 
+prodname: 'Gootior 950XL 951XL Cartuchos de Tinta  Alto Rendimiento Reemplazo para HP 950 951 Compatible con HP Officejet Pro 251dw 276dw 8100 8600 8610 8615 8620 8640  4 Negro  2 Cian  2 Magenta  2 Amarillo '
 ---
 
 Tienes [Gootior 950XL 951XL Cartuchos de Tinta  Alto Rendimiento Reemplazo para HP 950 951 Compatible con HP Officejet Pro 251dw 276dw 8100 8600 8610 8615 8620 8640  4 Negro  2 Cian  2 Magenta  2 Amarillo ](https://www.amazon.es/dp/B082XVDCZM/?tag=tolees-21) con un 31.22 % de descuento con precio de oferta de 19.94 EUR (original: 28.99 EUR) en el siguiente enlace!

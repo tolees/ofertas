@@ -14,7 +14,7 @@ currency: EUR
 price: 11.4
 comparePrice: 19 EUR
 inStock: true
-prodname: Kipling - Trix  Monederos Mujer  Multicolor  Scribble Lines 
+prodname: 'Kipling - Trix  Monederos Mujer  Multicolor  Scribble Lines '
 ---
 
 Ahora mismo tienes [Kipling - Trix  Monederos Mujer  Multicolor  Scribble Lines ](https://www.amazon.es/dp/B07DKF8LYK/?tag=tolees-21) a 11.4 EUR (original: 19 EUR) (40.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 33.49
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Reebok Royal Glide  Zapatillas de deporte  Hombre  Negro  Black / Dhg Solid Grey / Reebok Royal   43 EU
+prodname: 'Reebok Royal Glide  Zapatillas de deporte  Hombre  Negro  Black / Dhg Solid Grey / Reebok Royal   43 EU'
 ---
 
 Está [Reebok Royal Glide  Zapatillas de deporte  Hombre  Negro  Black / Dhg Solid Grey / Reebok Royal   43 EU](https://www.amazon.es/dp/B01CGEUZX4/?tag=tolees-21) con 48.44 de descuento por 33.49 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 55.99
 comparePrice: 85 EUR
 inStock: true
-prodname: Lacoste Lerond Bl 2 CAM  Zapatillas para Hombre  Blanco  Wht 001   42.5 EU
+prodname: 'Lacoste Lerond Bl 2 CAM  Zapatillas para Hombre  Blanco  Wht 001   42.5 EU'
 ---
 
 Tienes [Lacoste Lerond Bl 2 CAM  Zapatillas para Hombre  Blanco  Wht 001   42.5 EU](https://www.amazon.es/dp/B01N1UCPM3/?tag=tolees-21) con un 34.13 % de descuento con precio de oferta de 55.99 EUR (original: 85 EUR) en el siguiente enlace!

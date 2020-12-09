@@ -14,7 +14,7 @@ currency: EUR
 price: 13.37
 comparePrice: 20.13 EUR
 inStock: true
-prodname: Babacom - Cortapelos para perros  sin cable  de bajo ruido para mascotas  recargable y de carga rápida y resistente al agua  con 3 peines  silenciosas y eléctricas para perros  para todas las mascotas
+prodname: 'Babacom - Cortapelos para perros  sin cable  de bajo ruido para mascotas  recargable y de carga rápida y resistente al agua  con 3 peines  silenciosas y eléctricas para perros  para todas las mascotas'
 ---
 
 Tienes [Babacom - Cortapelos para perros  sin cable  de bajo ruido para mascotas  recargable y de carga rápida y resistente al agua  con 3 peines  silenciosas y eléctricas para perros  para todas las mascotas](https://www.amazon.es/dp/B08CGM1TMV/?tag=tolees-21) con un 33.58 % de descuento con precio de oferta de 13.37 EUR (original: 20.13 EUR) en el siguiente enlace!

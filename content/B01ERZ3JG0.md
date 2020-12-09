@@ -14,7 +14,7 @@ currency: EUR
 price: 5.62
 comparePrice: 7.74 EUR
 inStock: true
-prodname: Joma Combi Camiseta Manga Corta  Hombre  Naranja  Coral Fluor   6XS-5XS
+prodname: 'Joma Combi Camiseta Manga Corta  Hombre  Naranja  Coral Fluor   6XS-5XS'
 ---
 
 Tienes [Joma Combi Camiseta Manga Corta  Hombre  Naranja  Coral Fluor   6XS-5XS](https://www.amazon.es/dp/B01ERZ3JG0/?tag=tolees-21) con un 27.39 % de descuento con precio de oferta de 5.62 EUR (original: 7.74 EUR) en el siguiente enlace!

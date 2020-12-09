@@ -14,7 +14,7 @@ currency: EUR
 price: 47.64
 comparePrice: 110 EUR
 inStock: true
-prodname: Clarks Un Cruise Lace  Zapatos de Cordones Derby para Mujer  Negro  Black Leather   41 EU
+prodname: 'Clarks Un Cruise Lace  Zapatos de Cordones Derby para Mujer  Negro  Black Leather   41 EU'
 ---
 
 Ahora mismo tienes [Clarks Un Cruise Lace  Zapatos de Cordones Derby para Mujer  Negro  Black Leather   41 EU](https://www.amazon.es/dp/B079TYB4DQ/?tag=tolees-21) a 47.64 EUR (original: 110 EUR) (56.69 %  de descuento) en el siguiente enlace!

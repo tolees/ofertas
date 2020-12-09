@@ -14,7 +14,7 @@ currency: EUR
 price: 23.93
 comparePrice: 49 EUR
 inStock: true
-prodname: Emporio Armani Underwear 9p400 Bañador  Rojo  Rossol 00074   Medium  Talla del Fabricante: 50  para Hombre
+prodname: 'Emporio Armani Underwear 9p400 Bañador  Rojo  Rossol 00074   Medium  Talla del Fabricante: 50  para Hombre'
 ---
 
 Está [Emporio Armani Underwear 9p400 Bañador  Rojo  Rossol 00074   Medium  Talla del Fabricante: 50  para Hombre](https://www.amazon.es/dp/B07JZWDTKT/?tag=tolees-21) con 51.16 de descuento por 23.93 EUR (original: 49 EUR) en el siguiente enlace!

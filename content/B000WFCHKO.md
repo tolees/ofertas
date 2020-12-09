@@ -14,7 +14,7 @@ currency: EUR
 price: 5.16
 comparePrice: 9.59 EUR
 inStock: true
-prodname: TRIXIE Coral en rama  12 cm  Peces
+prodname: 'TRIXIE Coral en rama  12 cm  Peces'
 ---
 
 Ahora mismo tienes [TRIXIE Coral en rama  12 cm  Peces](https://www.amazon.es/dp/B000WFCHKO/?tag=tolees-21) a 5.16 EUR (original: 9.59 EUR) (46.19 %  de descuento) en el siguiente enlace!

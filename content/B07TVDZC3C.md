@@ -14,7 +14,7 @@ currency: EUR
 price: 14.43
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Superga 2905-cotw Linea Up and Down  Zapatillas de Gimnasia Mujer  Azul  Blue Navy 00g   37 EU
+prodname: 'Superga 2905-cotw Linea Up and Down  Zapatillas de Gimnasia Mujer  Azul  Blue Navy 00g   37 EU'
 ---
 
 Está [Superga 2905-cotw Linea Up and Down  Zapatillas de Gimnasia Mujer  Azul  Blue Navy 00g   37 EU](https://www.amazon.es/dp/B07TVDZC3C/?tag=tolees-21) con 79.09 de descuento por 14.43 EUR (original: 69.0 EUR) en el siguiente enlace!

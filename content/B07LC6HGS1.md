@@ -14,7 +14,7 @@ currency: EUR
 price: 85.99
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Umi. Essentials Silla Elemental de Oficina Silla Administrativa Ergonómica  Gris 
+prodname: 'Umi. Essentials Silla Elemental de Oficina Silla Administrativa Ergonómica  Gris '
 ---
 
 Está [Umi. Essentials Silla Elemental de Oficina Silla Administrativa Ergonómica  Gris ](https://www.amazon.es/dp/B07LC6HGS1/?tag=tolees-21) con 57.00 de descuento por 85.99 EUR (original: 199.99 EUR) en el siguiente enlace!

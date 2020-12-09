@@ -14,7 +14,7 @@ currency: EUR
 price: 9.18
 comparePrice: 15.3 EUR
 inStock: true
-prodname: Marca Amazon – Happy Belly – Galletas de espelta con 5 cereales  4 x 190 g
+prodname: 'Marca Amazon – Happy Belly – Galletas de espelta con 5 cereales  4 x 190 g'
 ---
 
 Está [Marca Amazon – Happy Belly – Galletas de espelta con 5 cereales  4 x 190 g](https://www.amazon.es/dp/B07ZQKZSLJ/?tag=tolees-21) con 40.00 de descuento por 9.18 EUR (original: 15.3 EUR) en el siguiente enlace!

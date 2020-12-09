@@ -14,7 +14,7 @@ currency: EUR
 price: 8.45
 comparePrice: 22.5 EUR
 inStock: true
-prodname: Spalding Logo 2.0 Tank Top - Camiseta de Baloncesto para Hombre  Color Blanco/Negro  Talla XL
+prodname: 'Spalding Logo 2.0 Tank Top - Camiseta de Baloncesto para Hombre  Color Blanco/Negro  Talla XL'
 ---
 
 Ahora mismo tienes [Spalding Logo 2.0 Tank Top - Camiseta de Baloncesto para Hombre  Color Blanco/Negro  Talla XL](https://www.amazon.es/dp/B004TL9ROG/?tag=tolees-21) a 8.45 EUR (original: 22.5 EUR) (62.44 %  de descuento) en el siguiente enlace!

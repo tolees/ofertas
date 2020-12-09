@@ -14,7 +14,7 @@ currency: EUR
 price: 3.68
 comparePrice: 5.66 EUR
 inStock: true
-prodname: Unidad Flash USB con Forma de Dientes Lindo 4G 8G 16G 32G 64G Memoria Flash Stick Disco U portátil Almacenamiento Externo Duradero - Blanco
+prodname: 'Unidad Flash USB con Forma de Dientes Lindo 4G 8G 16G 32G 64G Memoria Flash Stick Disco U portátil Almacenamiento Externo Duradero - Blanco'
 ---
 
 Tienes [Unidad Flash USB con Forma de Dientes Lindo 4G 8G 16G 32G 64G Memoria Flash Stick Disco U portátil Almacenamiento Externo Duradero - Blanco](https://www.amazon.es/dp/B08ND69ZSS/?tag=tolees-21) con un 34.98 % de descuento con precio de oferta de 3.68 EUR (original: 5.66 EUR) en el siguiente enlace!

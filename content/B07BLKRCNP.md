@@ -14,7 +14,7 @@ currency: EUR
 price: 87.49
 comparePrice: 129.99 EUR
 inStock: true
-prodname: WolfWise 4 7M Escalera telescópica  Extensión telescópica de aluminio Escalera multifunción  extensible  330 lb / 150 kg Negro
+prodname: 'WolfWise 4 7M Escalera telescópica  Extensión telescópica de aluminio Escalera multifunción  extensible  330 lb / 150 kg Negro'
 ---
 
 Ahora mismo tienes [WolfWise 4 7M Escalera telescópica  Extensión telescópica de aluminio Escalera multifunción  extensible  330 lb / 150 kg Negro](https://www.amazon.es/dp/B07BLKRCNP/?tag=tolees-21) a 87.49 EUR (original: 129.99 EUR) (32.69 %  de descuento) en el siguiente enlace!

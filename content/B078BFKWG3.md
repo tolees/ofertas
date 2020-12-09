@@ -14,7 +14,7 @@ currency: EUR
 price: 30.53
 comparePrice: 65 EUR
 inStock: true
-prodname: Nike Superfly 6 Club FG/MG  Zapatillas de Fútbol Unisex Adulto  Gris  Wolf Grey/Lt Crimson/Black 060   45 EU
+prodname: 'Nike Superfly 6 Club FG/MG  Zapatillas de Fútbol Unisex Adulto  Gris  Wolf Grey/Lt Crimson/Black 060   45 EU'
 ---
 
 Ahora mismo tienes [Nike Superfly 6 Club FG/MG  Zapatillas de Fútbol Unisex Adulto  Gris  Wolf Grey/Lt Crimson/Black 060   45 EU](https://www.amazon.es/dp/B078BFKWG3/?tag=tolees-21) a 30.53 EUR (original: 65 EUR) (53.03 %  de descuento) en el siguiente enlace!

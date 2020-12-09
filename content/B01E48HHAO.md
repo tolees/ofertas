@@ -14,7 +14,7 @@ currency: EUR
 price: 25
 comparePrice: 65 EUR
 inStock: true
-prodname: Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Rojo  54 EU
+prodname: 'Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Rojo  54 EU'
 ---
 
 Tienes [Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Rojo  54 EU](https://www.amazon.es/dp/B01E48HHAO/?tag=tolees-21) con un 61.54 % de descuento con precio de oferta de 25 EUR (original: 65 EUR) en el siguiente enlace!

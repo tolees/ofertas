@@ -14,7 +14,7 @@ currency: EUR
 price: 26.95
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Corporate Stripe Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   42 EU
+prodname: 'Tommy Hilfiger Corporate Stripe Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   42 EU'
 ---
 
 Está [Tommy Hilfiger Corporate Stripe Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   42 EU](https://www.amazon.es/dp/B07L3FWLP5/?tag=tolees-21) con 32.46 de descuento por 26.95 EUR (original: 39.9 EUR) en el siguiente enlace!

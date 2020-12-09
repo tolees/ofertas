@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 9.18 EUR
 inStock: true
-prodname: Punisher 2. Zona de guerra [DVD]
+prodname: 'Punisher 2. Zona de guerra [DVD]'
 ---
 
 Ahora mismo tienes [Punisher 2. Zona de guerra [DVD]](https://www.amazon.es/dp/B0053CALGS/?tag=tolees-21) a 5.99 EUR (original: 9.18 EUR) (34.75 %  de descuento) en el siguiente enlace!

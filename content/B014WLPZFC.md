@@ -14,7 +14,7 @@ currency: EUR
 price: 5.33
 comparePrice: 7.49 EUR
 inStock: true
-prodname: RH 170160 Martillo Peña Hr M/Fibra Cabeza 20 Mm  0 V
+prodname: 'RH 170160 Martillo Peña Hr M/Fibra Cabeza 20 Mm  0 V'
 ---
 
 Está [RH 170160 Martillo Peña Hr M/Fibra Cabeza 20 Mm  0 V](https://www.amazon.es/dp/B014WLPZFC/?tag=tolees-21) con 28.84 de descuento por 5.33 EUR (original: 7.49 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 399.99 EUR
 inStock: true
-prodname: DOOGEE N30 Moviles  Pantalla de 6.55" DotDisplay  4 GB+128 GB  4G Smartphone Cámara Cuádruple de 16 MP  8MP Frontal Cámara  Procesador Octa-Core  Batería 4500 mAh  Android 10 Telefono Movil  Verde
+prodname: 'DOOGEE N30 Moviles  Pantalla de 6.55" DotDisplay  4 GB+128 GB  4G Smartphone Cámara Cuádruple de 16 MP  8MP Frontal Cámara  Procesador Octa-Core  Batería 4500 mAh  Android 10 Telefono Movil  Verde'
 ---
 
 Ahora mismo tienes [DOOGEE N30 Moviles  Pantalla de 6.55" DotDisplay  4 GB+128 GB  4G Smartphone Cámara Cuádruple de 16 MP  8MP Frontal Cámara  Procesador Octa-Core  Batería 4500 mAh  Android 10 Telefono Movil  Verde](https://www.amazon.es/dp/B08LSSK5D1/?tag=tolees-21) a 149.99 EUR (original: 399.99 EUR) (62.50 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Frankenweenie [Blu-ray]
+prodname: 'Frankenweenie [Blu-ray]'
 ---
 
 Está [Frankenweenie [Blu-ray]](https://www.amazon.es/dp/B00AH9BSIC/?tag=tolees-21) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

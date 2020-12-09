@@ -14,7 +14,7 @@ currency: EUR
 price: 107.4
 comparePrice: 179 EUR
 inStock: true
-prodname: Samsonite Uplite Upright 55-1.7 KG Equipaje de Mano  cm  41 litros  Negro  Black/Gold 
+prodname: 'Samsonite Uplite Upright 55-1.7 KG Equipaje de Mano  cm  41 litros  Negro  Black/Gold '
 ---
 
 Ahora mismo tienes [Samsonite Uplite Upright 55-1.7 KG Equipaje de Mano  cm  41 litros  Negro  Black/Gold ](https://www.amazon.es/dp/B07DM3B1KC/?tag=tolees-21) a 107.4 EUR (original: 179 EUR) (40.00 %  de descuento) en el siguiente enlace!

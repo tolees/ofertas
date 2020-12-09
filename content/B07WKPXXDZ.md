@@ -14,7 +14,7 @@ currency: EUR
 price: 50.34
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Solar Fuse-Lite Joy  Zapatillas Mujer  Negro  BKW Black & White Knit Mesh/Trim   39 EU
+prodname: 'Skechers Solar Fuse-Lite Joy  Zapatillas Mujer  Negro  BKW Black & White Knit Mesh/Trim   39 EU'
 ---
 
 Está [Skechers Solar Fuse-Lite Joy  Zapatillas Mujer  Negro  BKW Black & White Knit Mesh/Trim   39 EU](https://www.amazon.es/dp/B07WKPXXDZ/?tag=tolees-21) con 28.03 de descuento por 50.34 EUR (original: 69.95 EUR) en el siguiente enlace!

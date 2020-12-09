@@ -14,7 +14,7 @@ currency: EUR
 price: 30.4
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Adidas X 17.3 FG  Botas de fútbol para Hombre  Azul/ Aerver/Tinuni/Vealre  000  42 2/3 EU
+prodname: 'Adidas X 17.3 FG  Botas de fútbol para Hombre  Azul/ Aerver/Tinuni/Vealre  000  42 2/3 EU'
 ---
 
 Está [Adidas X 17.3 FG  Botas de fútbol para Hombre  Azul/ Aerver/Tinuni/Vealre  000  42 2/3 EU](https://www.amazon.es/dp/B078FTW7QB/?tag=tolees-21) con 61.98 de descuento por 30.4 EUR (original: 79.95 EUR) en el siguiente enlace!

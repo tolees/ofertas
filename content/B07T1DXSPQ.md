@@ -14,7 +14,7 @@ currency: EUR
 price: 40.95
 comparePrice: 61.57 EUR
 inStock: true
-prodname: Paco Rabanne Paco Rabanne 1 Million Edt Vapo 100 Ml Ts 100 ml
+prodname: 'Paco Rabanne Paco Rabanne 1 Million Edt Vapo 100 Ml Ts 100 ml'
 ---
 
 Está [Paco Rabanne Paco Rabanne 1 Million Edt Vapo 100 Ml Ts 100 ml](https://www.amazon.es/dp/B07T1DXSPQ/?tag=tolees-21) con 33.49 de descuento por 40.95 EUR (original: 61.57 EUR) en el siguiente enlace!

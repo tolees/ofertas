@@ -14,7 +14,7 @@ currency: EUR
 price: 31.91
 comparePrice: 75.63 EUR
 inStock: true
-prodname: Wrangler Texas Original 5 Pocket Straight Leg  Pantalones para Hombre  Beige  Espresso Light 261  W30/L34
+prodname: 'Wrangler Texas Original 5 Pocket Straight Leg  Pantalones para Hombre  Beige  Espresso Light 261  W30/L34'
 ---
 
 Está [Wrangler Texas Original 5 Pocket Straight Leg  Pantalones para Hombre  Beige  Espresso Light 261  W30/L34](https://www.amazon.es/dp/B00CZAOO6E/?tag=tolees-21) con 57.81 de descuento por 31.91 EUR (original: 75.63 EUR) en el siguiente enlace!

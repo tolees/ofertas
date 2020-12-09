@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 46.99 EUR
 inStock: true
-prodname: Sendowtek Mini Ventilador USB Clip 4400mAh Batería Recargable  Ventilador Pequeño USB Personal con función de Banco de Potencia para la Oficina/Hogar/Viajar/Acampar/Cochecito de Bebé Negro 
+prodname: 'Sendowtek Mini Ventilador USB Clip 4400mAh Batería Recargable  Ventilador Pequeño USB Personal con función de Banco de Potencia para la Oficina/Hogar/Viajar/Acampar/Cochecito de Bebé Negro '
 ---
 
 Está [Sendowtek Mini Ventilador USB Clip 4400mAh Batería Recargable  Ventilador Pequeño USB Personal con función de Banco de Potencia para la Oficina/Hogar/Viajar/Acampar/Cochecito de Bebé Negro ](https://www.amazon.es/dp/B07PV7S3MZ/?tag=tolees-21) con 59.59 de descuento por 18.99 EUR (original: 46.99 EUR) en el siguiente enlace!

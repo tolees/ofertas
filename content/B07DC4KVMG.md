@@ -14,7 +14,7 @@ currency: EUR
 price: 26.44
 comparePrice: 50 EUR
 inStock: true
-prodname: LE COQ SPORTIF Courtset Inf Dino  Botas para Bebés  Beige  Olive Night/Vibrant Orange Kaki   21 EU
+prodname: 'LE COQ SPORTIF Courtset Inf Dino  Botas para Bebés  Beige  Olive Night/Vibrant Orange Kaki   21 EU'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Courtset Inf Dino  Botas para Bebés  Beige  Olive Night/Vibrant Orange Kaki   21 EU](https://www.amazon.es/dp/B07DC4KVMG/?tag=tolees-21) a 26.44 EUR (original: 50 EUR) (47.12 %  de descuento) en el siguiente enlace!

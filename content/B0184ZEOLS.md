@@ -14,7 +14,7 @@ currency: EUR
 price: 44.89
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Davenport Waterproof Leather  Oxford para Hombre  Marrón  Elk  Nutmeg   41 EU
+prodname: 'Columbia Davenport Waterproof Leather  Oxford para Hombre  Marrón  Elk  Nutmeg   41 EU'
 ---
 
 Está [Columbia Davenport Waterproof Leather  Oxford para Hombre  Marrón  Elk  Nutmeg   41 EU](https://www.amazon.es/dp/B0184ZEOLS/?tag=tolees-21) con 65.47 de descuento por 44.89 EUR (original: 129.99 EUR) en el siguiente enlace!

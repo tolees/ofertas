@@ -14,7 +14,7 @@ currency: EUR
 price: 95.0
 comparePrice: 164.95 EUR
 inStock: true
-prodname: Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Poliuretano DZ4515
+prodname: 'Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Poliuretano DZ4515'
 ---
 
 Tienes [Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Poliuretano DZ4515](https://www.amazon.es/dp/B07VHXZ1WJ/?tag=tolees-21) con un 42.41 % de descuento con precio de oferta de 95.0 EUR (original: 164.95 EUR) en el siguiente enlace!

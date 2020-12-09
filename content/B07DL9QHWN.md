@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Adidas VL Court 2.0  Zapatillas de Skateboard Mujer  Blanco  FTWR White/FTWR White/Cyber Met. FTWR White/FTWR White/Cyber Met.   42 EU
+prodname: 'Adidas VL Court 2.0  Zapatillas de Skateboard Mujer  Blanco  FTWR White/FTWR White/Cyber Met. FTWR White/FTWR White/Cyber Met.   42 EU'
 ---
 
 Está [Adidas VL Court 2.0  Zapatillas de Skateboard Mujer  Blanco  FTWR White/FTWR White/Cyber Met. FTWR White/FTWR White/Cyber Met.   42 EU](https://www.amazon.es/dp/B07DL9QHWN/?tag=tolees-21) con 39.97 de descuento por 35.99 EUR (original: 59.95 EUR) en el siguiente enlace!

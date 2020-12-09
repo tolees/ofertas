@@ -14,7 +14,7 @@ currency: EUR
 price: 4.8
 comparePrice: 7.4 EUR
 inStock: true
-prodname: Mentos Maxiroll Gigante Frutas  Caramelo Masticable con Zumo de Frutas - Contiene 10 unidades de 38 gr.  Total 380 gr. 
+prodname: 'Mentos Maxiroll Gigante Frutas  Caramelo Masticable con Zumo de Frutas - Contiene 10 unidades de 38 gr.  Total 380 gr. '
 ---
 
 Ahora mismo tienes [Mentos Maxiroll Gigante Frutas  Caramelo Masticable con Zumo de Frutas - Contiene 10 unidades de 38 gr.  Total 380 gr. ](https://www.amazon.es/dp/B01IUQLIP6/?tag=tolees-21) a 4.8 EUR (original: 7.4 EUR) (35.14 %  de descuento) en el siguiente enlace!

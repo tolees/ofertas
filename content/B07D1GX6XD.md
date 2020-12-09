@@ -14,7 +14,7 @@ currency: EUR
 price: 38.66
 comparePrice: 100 EUR
 inStock: true
-prodname: New Balance Fresh Foam Cruz Sockfit  Zapatillas para Mujer  Rosa  Dark Cashmere/Water Vapor Lm2   41.5 EU
+prodname: 'New Balance Fresh Foam Cruz Sockfit  Zapatillas para Mujer  Rosa  Dark Cashmere/Water Vapor Lm2   41.5 EU'
 ---
 
 Está [New Balance Fresh Foam Cruz Sockfit  Zapatillas para Mujer  Rosa  Dark Cashmere/Water Vapor Lm2   41.5 EU](https://www.amazon.es/dp/B07D1GX6XD/?tag=tolees-21) con 61.34 de descuento por 38.66 EUR (original: 100 EUR) en el siguiente enlace!

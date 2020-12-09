@@ -14,7 +14,7 @@ currency: EUR
 price: 69.44
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Sorel Madson Chukka Waterproof  Botas Impermeables para Hombre  Negro  Black 011   44 EU
+prodname: 'Sorel Madson Chukka Waterproof  Botas Impermeables para Hombre  Negro  Black 011   44 EU'
 ---
 
 Ahora mismo tienes [Sorel Madson Chukka Waterproof  Botas Impermeables para Hombre  Negro  Black 011   44 EU](https://www.amazon.es/dp/B01NGYF0FI/?tag=tolees-21) a 69.44 EUR (original: 179.99 EUR) (61.42 %  de descuento) en el siguiente enlace!

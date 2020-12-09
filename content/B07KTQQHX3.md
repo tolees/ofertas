@@ -14,7 +14,7 @@ currency: EUR
 price: 149.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Hugo BOSS Reloj de pulsera 1513668
+prodname: 'Hugo BOSS Reloj de pulsera 1513668'
 ---
 
 Ahora mismo tienes [Hugo BOSS Reloj de pulsera 1513668](https://www.amazon.es/dp/B07KTQQHX3/?tag=tolees-21) a 149.0 EUR (original: 199.0 EUR) (25.13 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.79
 comparePrice: 31.5 EUR
 inStock: true
-prodname: David Jones - 5933-2  Bolsos de mano Mujer  Azul  L.Blue   14x25x22 cm  W x H L 
+prodname: 'David Jones - 5933-2  Bolsos de mano Mujer  Azul  L.Blue   14x25x22 cm  W x H L '
 ---
 
 Está [David Jones - 5933-2  Bolsos de mano Mujer  Azul  L.Blue   14x25x22 cm  W x H L ](https://www.amazon.es/dp/B07KCM44WG/?tag=tolees-21) con 40.35 de descuento por 18.79 EUR (original: 31.5 EUR) en el siguiente enlace!

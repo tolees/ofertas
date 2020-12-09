@@ -14,7 +14,7 @@ currency: EUR
 price: 7.12
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Springfield 4.Fq.Vestido Midi Volant  Vestido para Mujer   Negro 1    Tamaño del Fabricante:36 
+prodname: 'Springfield 4.Fq.Vestido Midi Volant  Vestido para Mujer   Negro 1    Tamaño del Fabricante:36 '
 ---
 
 Ahora mismo tienes [Springfield 4.Fq.Vestido Midi Volant  Vestido para Mujer   Negro 1    Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B07DLS6RPQ/?tag=tolees-21) a 7.12 EUR (original: 35.99 EUR) (80.22 %  de descuento) en el siguiente enlace!

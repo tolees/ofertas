@@ -14,7 +14,7 @@ currency: EUR
 price: 49.33
 comparePrice: 67.69 EUR
 inStock: true
-prodname: KKB Sport Sistema de aro de Baloncesto Ajustable  Soporte para niños  para Interior y Exterior  portería con Ruedas
+prodname: 'KKB Sport Sistema de aro de Baloncesto Ajustable  Soporte para niños  para Interior y Exterior  portería con Ruedas'
 ---
 
 Tienes [KKB Sport Sistema de aro de Baloncesto Ajustable  Soporte para niños  para Interior y Exterior  portería con Ruedas](https://www.amazon.es/dp/B07GGN4YYX/?tag=tolees-21) con un 27.12 % de descuento con precio de oferta de 49.33 EUR (original: 67.69 EUR) en el siguiente enlace!

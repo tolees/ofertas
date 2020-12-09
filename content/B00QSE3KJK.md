@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: 8 uds  2x4  de cabezales de recambio para cepillos de dientes E-Cron. Totalmente compatibles Cabezales Repuestos con Philips Sonicare ProResults Mini  Diamond Clean y otros.
+prodname: '8 uds  2x4  de cabezales de recambio para cepillos de dientes E-Cron. Totalmente compatibles Cabezales Repuestos con Philips Sonicare ProResults Mini  Diamond Clean y otros.'
 ---
 
 Ahora mismo tienes [8 uds  2x4  de cabezales de recambio para cepillos de dientes E-Cron. Totalmente compatibles Cabezales Repuestos con Philips Sonicare ProResults Mini  Diamond Clean y otros.](https://www.amazon.es/dp/B00QSE3KJK/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

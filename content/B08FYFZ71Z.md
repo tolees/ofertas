@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 46.99 EUR
 inStock: true
-prodname: ENGSWA Mujer Metal plateado circonita
+prodname: 'ENGSWA Mujer Metal plateado circonita'
 ---
 
 Ahora mismo tienes [ENGSWA Mujer Metal plateado circonita](https://www.amazon.es/dp/B08FYFZ71Z/?tag=tolees-21) a 31.99 EUR (original: 46.99 EUR) (31.92 %  de descuento) en el siguiente enlace!

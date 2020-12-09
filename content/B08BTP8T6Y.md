@@ -14,7 +14,7 @@ currency: EUR
 price: 349.99
 comparePrice: 499.0 EUR
 inStock: true
-prodname: ASUS Vivo AiO V222GAK-WA043D - Sobremesa todo-en-uno de 21.5" FHD  Pentium Silver J5005  8 GB RAM  256 GB SSD  Endless OS  en inglés   Blanco y Plata - Teclado QWERTY español
+prodname: 'ASUS Vivo AiO V222GAK-WA043D - Sobremesa todo-en-uno de 21.5" FHD  Pentium Silver J5005  8 GB RAM  256 GB SSD  Endless OS  en inglés   Blanco y Plata - Teclado QWERTY español'
 ---
 
 Tienes [ASUS Vivo AiO V222GAK-WA043D - Sobremesa todo-en-uno de 21.5" FHD  Pentium Silver J5005  8 GB RAM  256 GB SSD  Endless OS  en inglés   Blanco y Plata - Teclado QWERTY español](https://www.amazon.es/dp/B08BTP8T6Y/?tag=tolees-21) con un 29.86 % de descuento con precio de oferta de 349.99 EUR (original: 499.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.47
 comparePrice: 83.99 EUR
 inStock: true
-prodname: Ultrasport Advanced Chaqueta softshell para mujer Bibi  chaqueta funcional moderna de dos colores  chaqueta outdoor  Turquesa/Negro  XS
+prodname: 'Ultrasport Advanced Chaqueta softshell para mujer Bibi  chaqueta funcional moderna de dos colores  chaqueta outdoor  Turquesa/Negro  XS'
 ---
 
 Está [Ultrasport Advanced Chaqueta softshell para mujer Bibi  chaqueta funcional moderna de dos colores  chaqueta outdoor  Turquesa/Negro  XS](https://www.amazon.es/dp/B077BD1MLR/?tag=tolees-21) con 82.77 de descuento por 14.47 EUR (original: 83.99 EUR) en el siguiente enlace!

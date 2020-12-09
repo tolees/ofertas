@@ -14,7 +14,7 @@ currency: EUR
 price: 81.37
 comparePrice: 205 EUR
 inStock: true
-prodname: Ecco Whistler  Botas Clasicas para Hombre  Negro  Black 51052   42 EU
+prodname: 'Ecco Whistler  Botas Clasicas para Hombre  Negro  Black 51052   42 EU'
 ---
 
 Ahora mismo tienes [Ecco Whistler  Botas Clasicas para Hombre  Negro  Black 51052   42 EU](https://www.amazon.es/dp/B07CGWRB35/?tag=tolees-21) a 81.37 EUR (original: 205 EUR) (60.31 %  de descuento) en el siguiente enlace!

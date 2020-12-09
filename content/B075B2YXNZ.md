@@ -14,7 +14,7 @@ currency: EUR
 price: 66.0
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Hugo Boss Orange Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 1550043
+prodname: 'Hugo Boss Orange Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 1550043'
 ---
 
 Está [Hugo Boss Orange Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 1550043](https://www.amazon.es/dp/B075B2YXNZ/?tag=tolees-21) con 44.54 de descuento por 66.0 EUR (original: 119.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 65.99 EUR
 inStock: true
-prodname: Recoil - Pistola Spitfire RK45  Juego de Pistolas Laser por GPS   90517 
+prodname: 'Recoil - Pistola Spitfire RK45  Juego de Pistolas Laser por GPS   90517 '
 ---
 
 Tienes [Recoil - Pistola Spitfire RK45  Juego de Pistolas Laser por GPS   90517 ](https://www.amazon.es/dp/B07BQMSS4V/?tag=tolees-21) con un 62.13 % de descuento con precio de oferta de 24.99 EUR (original: 65.99 EUR) en el siguiente enlace!

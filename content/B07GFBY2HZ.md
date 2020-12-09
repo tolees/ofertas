@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Almohada de Viaje Inflable Morpilot Almohadas del Cuello de Terciopelo Suave para Aviones Tren y Automóvil con Tapones para los Oídos y Máscara Compacta y Liviana
+prodname: 'Almohada de Viaje Inflable Morpilot Almohadas del Cuello de Terciopelo Suave para Aviones Tren y Automóvil con Tapones para los Oídos y Máscara Compacta y Liviana'
 ---
 
 Está [Almohada de Viaje Inflable Morpilot Almohadas del Cuello de Terciopelo Suave para Aviones Tren y Automóvil con Tapones para los Oídos y Máscara Compacta y Liviana](https://www.amazon.es/dp/B07GFBY2HZ/?tag=tolees-21) con 60.02 de descuento por 13.99 EUR (original: 34.99 EUR) en el siguiente enlace!

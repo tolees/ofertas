@@ -14,7 +14,7 @@ currency: EUR
 price: 10.45
 comparePrice: 26.95 EUR
 inStock: true
-prodname: Spalding Attack Shorts - Pantalones Cortos de Baloncesto para Hombre  Color Rojo/Blanco  Talla S
+prodname: 'Spalding Attack Shorts - Pantalones Cortos de Baloncesto para Hombre  Color Rojo/Blanco  Talla S'
 ---
 
 Tienes [Spalding Attack Shorts - Pantalones Cortos de Baloncesto para Hombre  Color Rojo/Blanco  Talla S](https://www.amazon.es/dp/B00D9E2APC/?tag=tolees-21) con un 61.22 % de descuento con precio de oferta de 10.45 EUR (original: 26.95 EUR) en el siguiente enlace!

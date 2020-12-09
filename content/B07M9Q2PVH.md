@@ -14,7 +14,7 @@ currency: EUR
 price: 42.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: ieGeek 1080P Cámara de Vigilancia WiFi Cámara IP Interior HD P2P Pan/Tilt  CCTV  Audio Bidireccional  Sensor de Movimiento  Control Remoto Mediante App para iOS  Android y PC
+prodname: 'ieGeek 1080P Cámara de Vigilancia WiFi Cámara IP Interior HD P2P Pan/Tilt  CCTV  Audio Bidireccional  Sensor de Movimiento  Control Remoto Mediante App para iOS  Android y PC'
 ---
 
 Está [ieGeek 1080P Cámara de Vigilancia WiFi Cámara IP Interior HD P2P Pan/Tilt  CCTV  Audio Bidireccional  Sensor de Movimiento  Control Remoto Mediante App para iOS  Android y PC](https://www.amazon.es/dp/B07M9Q2PVH/?tag=tolees-21) con 52.23 de descuento por 42.99 EUR (original: 89.99 EUR) en el siguiente enlace!

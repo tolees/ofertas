@@ -14,7 +14,7 @@ currency: EUR
 price: 36.65
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Melson Raymon  Zapatillas Hombre  Negro  Black Canvas Black   39.5 EU
+prodname: 'Skechers Melson Raymon  Zapatillas Hombre  Negro  Black Canvas Black   39.5 EU'
 ---
 
 Está [Skechers Melson Raymon  Zapatillas Hombre  Negro  Black Canvas Black   39.5 EU](https://www.amazon.es/dp/B07TGCF78H/?tag=tolees-21) con 43.57 de descuento por 36.65 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.91
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Columbia ATS Trail Lf92  Zapatillas De Deporte para Exterior para Mujer  Gris  Titanium MHW/White   37.5 EU
+prodname: 'Columbia ATS Trail Lf92  Zapatillas De Deporte para Exterior para Mujer  Gris  Titanium MHW/White   37.5 EU'
 ---
 
 Ahora mismo tienes [Columbia ATS Trail Lf92  Zapatillas De Deporte para Exterior para Mujer  Gris  Titanium MHW/White   37.5 EU](https://www.amazon.es/dp/B01N9JPBLQ/?tag=tolees-21) a 24.91 EUR (original: 89.95 EUR) (72.31 %  de descuento) en el siguiente enlace!

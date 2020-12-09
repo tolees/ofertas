@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 48.99 EUR
 inStock: true
-prodname: Proyector de Luz Estelar  2 en 1 LED Cambiar Color Reproductor de Música con Bluetooth Temporizador  Lámpara Luces Nocturnas de Nebulosa Giratorio con Control Remoto  Niños/Decoración/Regalo
+prodname: 'Proyector de Luz Estelar  2 en 1 LED Cambiar Color Reproductor de Música con Bluetooth Temporizador  Lámpara Luces Nocturnas de Nebulosa Giratorio con Control Remoto  Niños/Decoración/Regalo'
 ---
 
 Tienes [Proyector de Luz Estelar  2 en 1 LED Cambiar Color Reproductor de Música con Bluetooth Temporizador  Lámpara Luces Nocturnas de Nebulosa Giratorio con Control Remoto  Niños/Decoración/Regalo](https://www.amazon.es/dp/B08JPQB7T5/?tag=tolees-21) con un 26.54 % de descuento con precio de oferta de 35.99 EUR (original: 48.99 EUR) en el siguiente enlace!

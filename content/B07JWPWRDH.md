@@ -14,7 +14,7 @@ currency: EUR
 price: 33.01
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Puma Incite FS Wns  Zapatillas de Deporte para Mujer  Negro Black White  40.5 EU
+prodname: 'Puma Incite FS Wns  Zapatillas de Deporte para Mujer  Negro Black White  40.5 EU'
 ---
 
 Está [Puma Incite FS Wns  Zapatillas de Deporte para Mujer  Negro Black White  40.5 EU](https://www.amazon.es/dp/B07JWPWRDH/?tag=tolees-21) con 49.18 de descuento por 33.01 EUR (original: 64.95 EUR) en el siguiente enlace!

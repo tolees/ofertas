@@ -14,7 +14,7 @@ currency: EUR
 price: 43.95
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Gant Contrast Collar SS Pique  Polo para Mujer  Rojo  Watermelon Red 648  XX-Large
+prodname: 'Gant Contrast Collar SS Pique  Polo para Mujer  Rojo  Watermelon Red 648  XX-Large'
 ---
 
 Tienes [Gant Contrast Collar SS Pique  Polo para Mujer  Rojo  Watermelon Red 648  XX-Large](https://www.amazon.es/dp/B07KPPVW7R/?tag=tolees-21) con un 45.06 % de descuento con precio de oferta de 43.95 EUR (original: 79.99 EUR) en el siguiente enlace!

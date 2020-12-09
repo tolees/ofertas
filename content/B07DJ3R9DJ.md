@@ -14,7 +14,7 @@ currency: EUR
 price: 27.11
 comparePrice: 120 EUR
 inStock: true
-prodname: New Balance Revlite 890v6  Zapatillas de Running para Mujer  Verde  Neon Emerald/Indigo Ne6   36.5 EU
+prodname: 'New Balance Revlite 890v6  Zapatillas de Running para Mujer  Verde  Neon Emerald/Indigo Ne6   36.5 EU'
 ---
 
 Está [New Balance Revlite 890v6  Zapatillas de Running para Mujer  Verde  Neon Emerald/Indigo Ne6   36.5 EU](https://www.amazon.es/dp/B07DJ3R9DJ/?tag=tolees-21) con 77.41 de descuento por 27.11 EUR (original: 120 EUR) en el siguiente enlace!

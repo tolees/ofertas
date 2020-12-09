@@ -14,7 +14,7 @@ currency: EUR
 price: 20.17
 comparePrice: 39.99 EUR
 inStock: true
-prodname: ESPRIT 106EE1F014  Blusa Mujer  Marfil  Off White E110   38
+prodname: 'ESPRIT 106EE1F014  Blusa Mujer  Marfil  Off White E110   38'
 ---
 
 Está [ESPRIT 106EE1F014  Blusa Mujer  Marfil  Off White E110   38](https://www.amazon.es/dp/B01LZAW7EI/?tag=tolees-21) con 49.56 de descuento por 20.17 EUR (original: 39.99 EUR) en el siguiente enlace!

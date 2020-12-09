@@ -14,7 +14,7 @@ currency: EUR
 price: 3.49
 comparePrice: 4.99 EUR
 inStock: true
-prodname: ROYALE AMBREE agua de colonia vaporizador
+prodname: 'ROYALE AMBREE agua de colonia vaporizador'
 ---
 
 Ahora mismo tienes [ROYALE AMBREE agua de colonia vaporizador](https://www.amazon.es/dp/B076Q7GZWY/?tag=tolees-21) a 3.49 EUR (original: 4.99 EUR) (30.06 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 59.99 EUR
 inStock: true
-prodname: JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Azul Sky Captain  Medium
+prodname: 'JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Azul Sky Captain  Medium'
 ---
 
 Está [JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Azul Sky Captain  Medium](https://www.amazon.es/dp/B07DC7FZGJ/?tag=tolees-21) con 50.16 de descuento por 29.9 EUR (original: 59.99 EUR) en el siguiente enlace!

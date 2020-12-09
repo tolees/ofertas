@@ -14,7 +14,7 @@ currency: EUR
 price: 17.49
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Gris  Light Grey Melange   Small para Hombre
+prodname: 'Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Gris  Light Grey Melange   Small para Hombre'
 ---
 
 Tienes [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Gris  Light Grey Melange   Small para Hombre](https://www.amazon.es/dp/B07C26TCPG/?tag=tolees-21) con un 41.68 % de descuento con precio de oferta de 17.49 EUR (original: 29.99 EUR) en el siguiente enlace!

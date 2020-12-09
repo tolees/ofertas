@@ -14,7 +14,7 @@ currency: EUR
 price: 36.02
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW G-bleid Slim Jeans  Faded Azurite C052/B465  32W/ 32L Mens
+prodname: 'G-STAR RAW G-bleid Slim Jeans  Faded Azurite C052/B465  32W/ 32L Mens'
 ---
 
 Está [G-STAR RAW G-bleid Slim Jeans  Faded Azurite C052/B465  32W/ 32L Mens](https://www.amazon.es/dp/B07Z4BQXX5/?tag=tolees-21) con 74.26 de descuento por 36.02 EUR (original: 139.95 EUR) en el siguiente enlace!

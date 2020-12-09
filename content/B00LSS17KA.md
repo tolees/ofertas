@@ -14,7 +14,7 @@ currency: EUR
 price: 27.53
 comparePrice: 40.0 EUR
 inStock: true
-prodname: Fellowes PrivaScreen - Filtro de privacidad para portátil con Pantalla de 14" Pulgadas 16:9  Panorámica   fácil de Colocar y retirar con pestañas Adhesivas
+prodname: 'Fellowes PrivaScreen - Filtro de privacidad para portátil con Pantalla de 14" Pulgadas 16:9  Panorámica   fácil de Colocar y retirar con pestañas Adhesivas'
 ---
 
 Ahora mismo tienes [Fellowes PrivaScreen - Filtro de privacidad para portátil con Pantalla de 14" Pulgadas 16:9  Panorámica   fácil de Colocar y retirar con pestañas Adhesivas](https://www.amazon.es/dp/B00LSS17KA/?tag=tolees-21) a 27.53 EUR (original: 40.0 EUR) (31.17 %  de descuento) en el siguiente enlace!

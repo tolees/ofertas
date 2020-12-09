@@ -14,7 +14,7 @@ currency: EUR
 price: 9.75
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Joma Record Malla Larga  Hombre  Rojo  S
+prodname: 'Joma Record Malla Larga  Hombre  Rojo  S'
 ---
 
 Ahora mismo tienes [Joma Record Malla Larga  Hombre  Rojo  S](https://www.amazon.es/dp/B00VWYK0NA/?tag=tolees-21) a 9.75 EUR (original: 24.95 EUR) (60.92 %  de descuento) en el siguiente enlace!

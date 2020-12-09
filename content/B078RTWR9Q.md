@@ -14,7 +14,7 @@ currency: EUR
 price: 32.9
 comparePrice: 50 EUR
 inStock: true
-prodname: Nike Revolution 4 EU  Zapatillas de Running para Hombre  Negro  Black/White-Anthracite 001   42.5 EU
+prodname: 'Nike Revolution 4 EU  Zapatillas de Running para Hombre  Negro  Black/White-Anthracite 001   42.5 EU'
 ---
 
 Ahora mismo tienes [Nike Revolution 4 EU  Zapatillas de Running para Hombre  Negro  Black/White-Anthracite 001   42.5 EU](https://www.amazon.es/dp/B078RTWR9Q/?tag=tolees-21) a 32.9 EUR (original: 50 EUR) (34.20 %  de descuento) en el siguiente enlace!

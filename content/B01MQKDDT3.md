@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 16.36 EUR
 inStock: true
-prodname: Animales Fantásticos Y Dónde Encontrarlos [DVD]
+prodname: 'Animales Fantásticos Y Dónde Encontrarlos [DVD]'
 ---
 
 Ahora mismo tienes [Animales Fantásticos Y Dónde Encontrarlos [DVD]](https://www.amazon.es/dp/B01MQKDDT3/?tag=tolees-21) a 6.95 EUR (original: 16.36 EUR) (57.52 %  de descuento) en el siguiente enlace!

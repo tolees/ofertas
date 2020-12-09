@@ -14,7 +14,7 @@ currency: EUR
 price: 3.89
 comparePrice: 12.95 EUR
 inStock: true
-prodname: Care Babi1  Bufanda Bebé-Niños  Rosa  Hot Pink   Talla única
+prodname: 'Care Babi1  Bufanda Bebé-Niños  Rosa  Hot Pink   Talla única'
 ---
 
 Está [Care Babi1  Bufanda Bebé-Niños  Rosa  Hot Pink   Talla única](https://www.amazon.es/dp/B01HZAR3KW/?tag=tolees-21) con 69.96 de descuento por 3.89 EUR (original: 12.95 EUR) en el siguiente enlace!

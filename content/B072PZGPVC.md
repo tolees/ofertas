@@ -14,7 +14,7 @@ currency: EUR
 price: 34.87
 comparePrice: 57.95 EUR
 inStock: true
-prodname: Osram Luminaria LED  15 W  Blanco cálido  30 x 60cm
+prodname: 'Osram Luminaria LED  15 W  Blanco cálido  30 x 60cm'
 ---
 
 Está [Osram Luminaria LED  15 W  Blanco cálido  30 x 60cm](https://www.amazon.es/dp/B072PZGPVC/?tag=tolees-21) con 39.83 de descuento por 34.87 EUR (original: 57.95 EUR) en el siguiente enlace!

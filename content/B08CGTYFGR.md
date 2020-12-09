@@ -14,7 +14,7 @@ currency: EUR
 price: 1.64
 comparePrice: 3.63 EUR
 inStock: true
-prodname: Uniqueheart Mobile Phone Screen Magnifier Eyes Protection Display 3D Video Screen Amplifier Folding Enlarged Expand Stand Holder
+prodname: 'Uniqueheart Mobile Phone Screen Magnifier Eyes Protection Display 3D Video Screen Amplifier Folding Enlarged Expand Stand Holder'
 ---
 
 Ahora mismo tienes [Uniqueheart Mobile Phone Screen Magnifier Eyes Protection Display 3D Video Screen Amplifier Folding Enlarged Expand Stand Holder](https://www.amazon.es/dp/B08CGTYFGR/?tag=tolees-21) a 1.64 EUR (original: 3.63 EUR) (54.82 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.23
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Desigual Girl Knit T-Shirt Straps  TS_Summer  Camiseta  Blanco  White 1000   152  Talla del Fabricante: 11/12  para Niñas
+prodname: 'Desigual Girl Knit T-Shirt Straps  TS_Summer  Camiseta  Blanco  White 1000   152  Talla del Fabricante: 11/12  para Niñas'
 ---
 
 Está [Desigual Girl Knit T-Shirt Straps  TS_Summer  Camiseta  Blanco  White 1000   152  Talla del Fabricante: 11/12  para Niñas](https://www.amazon.es/dp/B07GYVBTHZ/?tag=tolees-21) con 59.17 de descuento por 12.23 EUR (original: 29.95 EUR) en el siguiente enlace!

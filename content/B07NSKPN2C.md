@@ -14,7 +14,7 @@ currency: EUR
 price: 6.97
 comparePrice: 9.95 EUR
 inStock: true
-prodname: Pato - Gel Activo recambio colgador para inodoro Marine  limpia y perfuma  2 recambios  Pack de 4 
+prodname: 'Pato - Gel Activo recambio colgador para inodoro Marine  limpia y perfuma  2 recambios  Pack de 4 '
 ---
 
 Tienes [Pato - Gel Activo recambio colgador para inodoro Marine  limpia y perfuma  2 recambios  Pack de 4 ](https://www.amazon.es/dp/B07NSKPN2C/?tag=tolees-21) con un 29.95 % de descuento con precio de oferta de 6.97 EUR (original: 9.95 EUR) en el siguiente enlace!

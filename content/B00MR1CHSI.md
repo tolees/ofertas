@@ -14,7 +14,7 @@ currency: EUR
 price: 61.45
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-Star Arc 3D Low Boyfriend Wmn - Vaquero boyfriend para mujer  Blau  lt aged 424   27W x 28L
+prodname: 'G-Star Arc 3D Low Boyfriend Wmn - Vaquero boyfriend para mujer  Blau  lt aged 424   27W x 28L'
 ---
 
 Ahora mismo tienes [G-Star Arc 3D Low Boyfriend Wmn - Vaquero boyfriend para mujer  Blau  lt aged 424   27W x 28L](https://www.amazon.es/dp/B00MR1CHSI/?tag=tolees-21) a 61.45 EUR (original: 129.95 EUR) (52.71 %  de descuento) en el siguiente enlace!

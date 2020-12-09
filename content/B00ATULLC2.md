@@ -14,7 +14,7 @@ currency: EUR
 price: 54.0
 comparePrice: 78.38 EUR
 inStock: true
-prodname: Invicta Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 14397
+prodname: 'Invicta Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 14397'
 ---
 
 Ahora mismo tienes [Invicta Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 14397](https://www.amazon.es/dp/B00ATULLC2/?tag=tolees-21) a 54.0 EUR (original: 78.38 EUR) (31.10 %  de descuento) en el siguiente enlace!

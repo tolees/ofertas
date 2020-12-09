@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 5.95 EUR
 inStock: true
-prodname: Fackelmann Set 20 Mangas desechables + 3 boquillas 42785  33x19cm
+prodname: 'Fackelmann Set 20 Mangas desechables + 3 boquillas 42785  33x19cm'
 ---
 
 Ahora mismo tienes [Fackelmann Set 20 Mangas desechables + 3 boquillas 42785  33x19cm](https://www.amazon.es/dp/B002FOEV3Q/?tag=tolees-21) a 3.99 EUR (original: 5.95 EUR) (32.94 %  de descuento) en el siguiente enlace!

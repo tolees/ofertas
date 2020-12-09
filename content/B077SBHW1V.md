@@ -14,7 +14,7 @@ currency: EUR
 price: 8.03
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Esprit 038ee1k026  Camisa Manga Larga Mujer   Dark Green 300   XX-Large
+prodname: 'Esprit 038ee1k026  Camisa Manga Larga Mujer   Dark Green 300   XX-Large'
 ---
 
 Está [Esprit 038ee1k026  Camisa Manga Larga Mujer   Dark Green 300   XX-Large](https://www.amazon.es/dp/B077SBHW1V/?tag=tolees-21) con 69.10 de descuento por 8.03 EUR (original: 25.99 EUR) en el siguiente enlace!

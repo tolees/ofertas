@@ -14,7 +14,7 @@ currency: EUR
 price: 10.79
 comparePrice: 15.04 EUR
 inStock: true
-prodname: Kidz Lab K02KL001 Juego-Laboratorio para Diseñar Pelotas Saltarinas
+prodname: 'Kidz Lab K02KL001 Juego-Laboratorio para Diseñar Pelotas Saltarinas'
 ---
 
 Está [Kidz Lab K02KL001 Juego-Laboratorio para Diseñar Pelotas Saltarinas](https://www.amazon.es/dp/B07P6XJK9Q/?tag=tolees-21) con 28.26 de descuento por 10.79 EUR (original: 15.04 EUR) en el siguiente enlace!

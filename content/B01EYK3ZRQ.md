@@ -14,7 +14,7 @@ currency: EUR
 price: 23.83
 comparePrice: 75 EUR
 inStock: true
-prodname: Levi s Sunset 1 Pocket  Camisa Casual Para Hombre  Multicolor  Menthol Cherry Bomb 250   Small
+prodname: 'Levi s Sunset 1 Pocket  Camisa Casual Para Hombre  Multicolor  Menthol Cherry Bomb 250   Small'
 ---
 
 Está [Levi s Sunset 1 Pocket  Camisa Casual Para Hombre  Multicolor  Menthol Cherry Bomb 250   Small](https://www.amazon.es/dp/B01EYK3ZRQ/?tag=tolees-21) con 68.23 de descuento por 23.83 EUR (original: 75 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 70.9
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Einhell Expert TE-CD 18-2 Li-I Kit - Taladro percutor sin cable  batería de litio  1.5 Ah  incluye maletín Bmc  2 velocidades  48 Nm  Power X-Change  luz LED  18 V   color rojo
+prodname: 'Einhell Expert TE-CD 18-2 Li-I Kit - Taladro percutor sin cable  batería de litio  1.5 Ah  incluye maletín Bmc  2 velocidades  48 Nm  Power X-Change  luz LED  18 V   color rojo'
 ---
 
 Tienes [Einhell Expert TE-CD 18-2 Li-I Kit - Taladro percutor sin cable  batería de litio  1.5 Ah  incluye maletín Bmc  2 velocidades  48 Nm  Power X-Change  luz LED  18 V   color rojo](https://www.amazon.es/dp/B00M1WDEOO/?tag=tolees-21) con un 45.44 % de descuento con precio de oferta de 70.9 EUR (original: 129.95 EUR) en el siguiente enlace!

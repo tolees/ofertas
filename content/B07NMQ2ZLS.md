@@ -14,7 +14,7 @@ currency: EUR
 price: 10.72
 comparePrice: 27.93 EUR
 inStock: true
-prodname: Marca Amazon - find. Statement Fairisle Jumper Suéter Mujer  Rojo  RED   42  Label: L
+prodname: 'Marca Amazon - find. Statement Fairisle Jumper Suéter Mujer  Rojo  RED   42  Label: L'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Statement Fairisle Jumper Suéter Mujer  Rojo  RED   42  Label: L](https://www.amazon.es/dp/B07NMQ2ZLS/?tag=tolees-21) a 10.72 EUR (original: 27.93 EUR) (61.62 %  de descuento) en el siguiente enlace!

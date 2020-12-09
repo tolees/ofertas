@@ -14,7 +14,7 @@ currency: EUR
 price: 23.45
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Reebok Classic Nylon  Zapatillas para Hombre  Azul  Weather-Blue Slate/Chalk 0   43 EU
+prodname: 'Reebok Classic Nylon  Zapatillas para Hombre  Azul  Weather-Blue Slate/Chalk 0   43 EU'
 ---
 
 Tienes [Reebok Classic Nylon  Zapatillas para Hombre  Azul  Weather-Blue Slate/Chalk 0   43 EU](https://www.amazon.es/dp/B07D2QCXL2/?tag=tolees-21) con un 70.67 % de descuento con precio de oferta de 23.45 EUR (original: 79.95 EUR) en el siguiente enlace!

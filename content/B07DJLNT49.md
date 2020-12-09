@@ -14,7 +14,7 @@ currency: EUR
 price: 25.72
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Dockers by Gerli 43ln201  Botas Militar para Mujer  Marrón  Schlamm 490   40 EU
+prodname: 'Dockers by Gerli 43ln201  Botas Militar para Mujer  Marrón  Schlamm 490   40 EU'
 ---
 
 Está [Dockers by Gerli 43ln201  Botas Militar para Mujer  Marrón  Schlamm 490   40 EU](https://www.amazon.es/dp/B07DJLNT49/?tag=tolees-21) con 67.83 de descuento por 25.72 EUR (original: 79.95 EUR) en el siguiente enlace!

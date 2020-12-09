@@ -14,7 +14,7 @@ currency: EUR
 price: 12.3
 comparePrice: 30.49 EUR
 inStock: true
-prodname: Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Gris  Grey Seashell G04   46 EU
+prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Gris  Grey Seashell G04   46 EU'
 ---
 
 Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Gris  Grey Seashell G04   46 EU](https://www.amazon.es/dp/B07TTDCL7G/?tag=tolees-21) a 12.3 EUR (original: 30.49 EUR) (59.66 %  de descuento) en el siguiente enlace!

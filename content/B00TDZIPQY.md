@@ -14,7 +14,7 @@ currency: EUR
 price: 59.25
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 18149/1
+prodname: 'Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 18149/1'
 ---
 
 Está [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 18149/1](https://www.amazon.es/dp/B00TDZIPQY/?tag=tolees-21) con 25.00 de descuento por 59.25 EUR (original: 79.0 EUR) en el siguiente enlace!

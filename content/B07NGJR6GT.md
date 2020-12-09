@@ -14,7 +14,7 @@ currency: EUR
 price: 6.89
 comparePrice: 9.4 EUR
 inStock: true
-prodname: Marca Amazon - Solimo Champú revitalizante  protección para el cabello teñido  con queratina  filtro UV y proteínas- Paquete de 4  4 Botellas x 400ml 
+prodname: 'Marca Amazon - Solimo Champú revitalizante  protección para el cabello teñido  con queratina  filtro UV y proteínas- Paquete de 4  4 Botellas x 400ml '
 ---
 
 Está [Marca Amazon - Solimo Champú revitalizante  protección para el cabello teñido  con queratina  filtro UV y proteínas- Paquete de 4  4 Botellas x 400ml ](https://www.amazon.es/dp/B07NGJR6GT/?tag=tolees-21) con 26.70 de descuento por 6.89 EUR (original: 9.4 EUR) en el siguiente enlace!

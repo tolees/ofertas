@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: MOCOCITO Calcetines Cortos Hombre Mujer  Calcetines Tobilleros Negros de algodón  12 Pares de Medias Deportivas Transpirables y Antideslizantes[44-48]
+prodname: 'MOCOCITO Calcetines Cortos Hombre Mujer  Calcetines Tobilleros Negros de algodón  12 Pares de Medias Deportivas Transpirables y Antideslizantes[44-48]'
 ---
 
 Tienes [MOCOCITO Calcetines Cortos Hombre Mujer  Calcetines Tobilleros Negros de algodón  12 Pares de Medias Deportivas Transpirables y Antideslizantes[44-48]](https://www.amazon.es/dp/B08HLZKPFW/?tag=tolees-21) con un 47.39 % de descuento con precio de oferta de 9.99 EUR (original: 18.99 EUR) en el siguiente enlace!

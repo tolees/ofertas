@@ -14,7 +14,7 @@ currency: EUR
 price: 150
 comparePrice: 259.4 EUR
 inStock: true
-prodname: Sparco 00975NRAZ Silla de Despacho  Negro/Azul
+prodname: 'Sparco 00975NRAZ Silla de Despacho  Negro/Azul'
 ---
 
 Tienes [Sparco 00975NRAZ Silla de Despacho  Negro/Azul](https://www.amazon.es/dp/B01MUXQ7SI/?tag=tolees-21) con un 42.17 % de descuento con precio de oferta de 150 EUR (original: 259.4 EUR) en el siguiente enlace!

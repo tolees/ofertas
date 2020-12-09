@@ -14,7 +14,7 @@ currency: EUR
 price: 80
 comparePrice: 166.63 EUR
 inStock: true
-prodname: Diesel Thommer L.30 Vaqueros Slim  Gris  Light Grey 07   W29/L30  Talla del Fabricante: 29  para Hombre
+prodname: 'Diesel Thommer L.30 Vaqueros Slim  Gris  Light Grey 07   W29/L30  Talla del Fabricante: 29  para Hombre'
 ---
 
 Ahora mismo tienes [Diesel Thommer L.30 Vaqueros Slim  Gris  Light Grey 07   W29/L30  Talla del Fabricante: 29  para Hombre](https://www.amazon.es/dp/B076JQYFTV/?tag=tolees-21) a 80 EUR (original: 166.63 EUR) (51.99 %  de descuento) en el siguiente enlace!

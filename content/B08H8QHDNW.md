@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 309.99 EUR
 inStock: true
-prodname: Rowenta XForce 8.50 Aqua RH9695 Aspiradora sin cable  cabezal con luces Led y mopa Aqua  posición Stop&Go  autonomía de hasta 35 minutos  Tecnología Flex
+prodname: 'Rowenta XForce 8.50 Aqua RH9695 Aspiradora sin cable  cabezal con luces Led y mopa Aqua  posición Stop&Go  autonomía de hasta 35 minutos  Tecnología Flex'
 ---
 
 Está [Rowenta XForce 8.50 Aqua RH9695 Aspiradora sin cable  cabezal con luces Led y mopa Aqua  posición Stop&Go  autonomía de hasta 35 minutos  Tecnología Flex](https://www.amazon.es/dp/B08H8QHDNW/?tag=tolees-21) con 35.80 de descuento por 199.0 EUR (original: 309.99 EUR) en el siguiente enlace!

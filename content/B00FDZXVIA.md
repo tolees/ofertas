@@ -14,7 +14,7 @@ currency: EUR
 price: 30.27
 comparePrice: 55.8 EUR
 inStock: true
-prodname: Amefa Cuberterías combinadas  Acero Inoxidable  Blanco  25 cm  1200
+prodname: 'Amefa Cuberterías combinadas  Acero Inoxidable  Blanco  25 cm  1200'
 ---
 
 Ahora mismo tienes [Amefa Cuberterías combinadas  Acero Inoxidable  Blanco  25 cm  1200](https://www.amazon.es/dp/B00FDZXVIA/?tag=tolees-21) a 30.27 EUR (original: 55.8 EUR) (45.75 %  de descuento) en el siguiente enlace!

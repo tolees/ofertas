@@ -14,7 +14,7 @@ currency: EUR
 price: 65.88
 comparePrice: 111.05 EUR
 inStock: true
-prodname: TECHBREY Ventilador de Techo Industrial Plata LED CCT Seleccionable 55W Seleccionable  Cálido-Neutro-Frío 
+prodname: 'TECHBREY Ventilador de Techo Industrial Plata LED CCT Seleccionable 55W Seleccionable  Cálido-Neutro-Frío '
 ---
 
 Ahora mismo tienes [TECHBREY Ventilador de Techo Industrial Plata LED CCT Seleccionable 55W Seleccionable  Cálido-Neutro-Frío ](https://www.amazon.es/dp/B07PZVFDW6/?tag=tolees-21) a 65.88 EUR (original: 111.05 EUR) (40.68 %  de descuento) en el siguiente enlace!

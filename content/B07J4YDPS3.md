@@ -14,7 +14,7 @@ currency: EUR
 price: 45.9
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Princess 162367 Multi Wonder Chef Pro  Cazuela multiusos eléctrica versátil  35 cm de diámetro  7.cm de profundidad  termostato regulable  1800 W  Negro
+prodname: 'Princess 162367 Multi Wonder Chef Pro  Cazuela multiusos eléctrica versátil  35 cm de diámetro  7.cm de profundidad  termostato regulable  1800 W  Negro'
 ---
 
 Tienes [Princess 162367 Multi Wonder Chef Pro  Cazuela multiusos eléctrica versátil  35 cm de diámetro  7.cm de profundidad  termostato regulable  1800 W  Negro](https://www.amazon.es/dp/B07J4YDPS3/?tag=tolees-21) con un 34.42 % de descuento con precio de oferta de 45.9 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 138.99
 comparePrice: 185.99 EUR
 inStock: true
-prodname: Greenworks Motosierra con mango batería G40CS30K2  Li-Ion 40V 4 3 m/s velocidad de cadena 30cm longitud de espada 120ml volumen tanque aceite incluyendo batería de 2Ah y cargador 
+prodname: 'Greenworks Motosierra con mango batería G40CS30K2  Li-Ion 40V 4 3 m/s velocidad de cadena 30cm longitud de espada 120ml volumen tanque aceite incluyendo batería de 2Ah y cargador '
 ---
 
 Está [Greenworks Motosierra con mango batería G40CS30K2  Li-Ion 40V 4 3 m/s velocidad de cadena 30cm longitud de espada 120ml volumen tanque aceite incluyendo batería de 2Ah y cargador ](https://www.amazon.es/dp/B01AY88EKA/?tag=tolees-21) con 25.27 de descuento por 138.99 EUR (original: 185.99 EUR) en el siguiente enlace!

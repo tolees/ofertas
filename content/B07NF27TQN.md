@@ -14,7 +14,7 @@ currency: EUR
 price: 50.34
 comparePrice: 89 EUR
 inStock: true
-prodname: Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18541/3
+prodname: 'Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18541/3'
 ---
 
 Tienes [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18541/3](https://www.amazon.es/dp/B07NF27TQN/?tag=tolees-21) con un 43.44 % de descuento con precio de oferta de 50.34 EUR (original: 89 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 89.07
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Quiksilver Mission Block Jk Chaqueta para Nieve  Hombre  Negro  Anthracite Pattern_1   S
+prodname: 'Quiksilver Mission Block Jk Chaqueta para Nieve  Hombre  Negro  Anthracite Pattern_1   S'
 ---
 
 Está [Quiksilver Mission Block Jk Chaqueta para Nieve  Hombre  Negro  Anthracite Pattern_1   S](https://www.amazon.es/dp/B071J4WRNJ/?tag=tolees-21) con 55.46 de descuento por 89.07 EUR (original: 199.99 EUR) en el siguiente enlace!

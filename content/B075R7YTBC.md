@@ -14,7 +14,7 @@ currency: EUR
 price: 32.1
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance Fresh Foam Cruz v2 Knit  Zapatillas para Hombre  Turquesa  Light Petrol Kn2   45 EU
+prodname: 'New Balance Fresh Foam Cruz v2 Knit  Zapatillas para Hombre  Turquesa  Light Petrol Kn2   45 EU'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Knit  Zapatillas para Hombre  Turquesa  Light Petrol Kn2   45 EU](https://www.amazon.es/dp/B075R7YTBC/?tag=tolees-21) con 64.33 de descuento por 32.1 EUR (original: 90 EUR) en el siguiente enlace!

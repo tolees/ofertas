@@ -14,7 +14,7 @@ currency: EUR
 price: 120.09
 comparePrice: 211.76 EUR
 inStock: true
-prodname: Box Set [Vinilo]
+prodname: 'Box Set [Vinilo]'
 ---
 
 Está [Box Set [Vinilo]](https://www.amazon.es/dp/B01MQ1N5GS/?tag=tolees-21) con 43.29 de descuento por 120.09 EUR (original: 211.76 EUR) en el siguiente enlace!

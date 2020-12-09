@@ -14,7 +14,7 @@ currency: EUR
 price: 27.57
 comparePrice: 76.56 EUR
 inStock: true
-prodname: Reebok Royal Complete 2Lw  Zapatillas de Deporte para Hombre   Dark Brown/Stucco/White/Wild Khaki 000   43 EU
+prodname: 'Reebok Royal Complete 2Lw  Zapatillas de Deporte para Hombre   Dark Brown/Stucco/White/Wild Khaki 000   43 EU'
 ---
 
 Está [Reebok Royal Complete 2Lw  Zapatillas de Deporte para Hombre   Dark Brown/Stucco/White/Wild Khaki 000   43 EU](https://www.amazon.es/dp/B07F8SXHTD/?tag=tolees-21) con 63.99 de descuento por 27.57 EUR (original: 76.56 EUR) en el siguiente enlace!

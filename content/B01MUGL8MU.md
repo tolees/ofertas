@@ -14,7 +14,7 @@ currency: EUR
 price: 49
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Philips PowerPro Compact FC9330/09 - Aspirador con sistema Ciclonico sin Bolsa  Deposito 1.5 L  Facil de Limpiar
+prodname: 'Philips PowerPro Compact FC9330/09 - Aspirador con sistema Ciclonico sin Bolsa  Deposito 1.5 L  Facil de Limpiar'
 ---
 
 Ahora mismo tienes [Philips PowerPro Compact FC9330/09 - Aspirador con sistema Ciclonico sin Bolsa  Deposito 1.5 L  Facil de Limpiar](https://www.amazon.es/dp/B01MUGL8MU/?tag=tolees-21) a 49 EUR (original: 99.99 EUR) (51.00 %  de descuento) en el siguiente enlace!

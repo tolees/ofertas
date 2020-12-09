@@ -14,7 +14,7 @@ currency: EUR
 price: 27.26
 comparePrice: 69.9 EUR
 inStock: true
-prodname: XL-S Medical Captagrasas para Perder Peso  Capta 28% de la Grasa Ingerida  1   Comprimidos para Adelgazar  1 Mes de Tratamiento  180 comprimidos
+prodname: 'XL-S Medical Captagrasas para Perder Peso  Capta 28% de la Grasa Ingerida  1   Comprimidos para Adelgazar  1 Mes de Tratamiento  180 comprimidos'
 ---
 
 Ahora mismo tienes [XL-S Medical Captagrasas para Perder Peso  Capta 28% de la Grasa Ingerida  1   Comprimidos para Adelgazar  1 Mes de Tratamiento  180 comprimidos](https://www.amazon.es/dp/B008JE5FQS/?tag=tolees-21) a 27.26 EUR (original: 69.9 EUR) (61.00 %  de descuento) en el siguiente enlace!

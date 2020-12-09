@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Tianer Kits de Supervivencia de Emergencia 11 en 1  Herramientas de Supervivencia Profesional Kit de Artes de Supervivencia al Aire Libre para Viajar Senderismo Biking Escalada Caza  Kit-1 
+prodname: 'Tianer Kits de Supervivencia de Emergencia 11 en 1  Herramientas de Supervivencia Profesional Kit de Artes de Supervivencia al Aire Libre para Viajar Senderismo Biking Escalada Caza  Kit-1 '
 ---
 
 Está [Tianer Kits de Supervivencia de Emergencia 11 en 1  Herramientas de Supervivencia Profesional Kit de Artes de Supervivencia al Aire Libre para Viajar Senderismo Biking Escalada Caza  Kit-1 ](https://www.amazon.es/dp/B071RXLCCH/?tag=tolees-21) con 68.01 de descuento por 15.99 EUR (original: 49.99 EUR) en el siguiente enlace!

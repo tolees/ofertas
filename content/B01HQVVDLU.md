@@ -14,7 +14,7 @@ currency: EUR
 price: 7.69
 comparePrice: 13.29 EUR
 inStock: true
-prodname: Batman: La Broma Asesina [Blu-ray]
+prodname: 'Batman: La Broma Asesina [Blu-ray]'
 ---
 
 Ahora mismo tienes [Batman: La Broma Asesina [Blu-ray]](https://www.amazon.es/dp/B01HQVVDLU/?tag=tolees-21) a 7.69 EUR (original: 13.29 EUR) (42.14 %  de descuento) en el siguiente enlace!

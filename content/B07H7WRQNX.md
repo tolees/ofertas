@@ -14,7 +14,7 @@ currency: EUR
 price: 165.2
 comparePrice: 299 EUR
 inStock: true
-prodname: McHaus Negra Silla Gaming Pro ergonómica  Ajustable  con reposacabezas y cojín Lumbar  reclinable  PU de Calidad y Acolchado de Espuma de Alta Densidad y Tejido 3D Que minimiza el Sudor  Regulable
+prodname: 'McHaus Negra Silla Gaming Pro ergonómica  Ajustable  con reposacabezas y cojín Lumbar  reclinable  PU de Calidad y Acolchado de Espuma de Alta Densidad y Tejido 3D Que minimiza el Sudor  Regulable'
 ---
 
 Tienes [McHaus Negra Silla Gaming Pro ergonómica  Ajustable  con reposacabezas y cojín Lumbar  reclinable  PU de Calidad y Acolchado de Espuma de Alta Densidad y Tejido 3D Que minimiza el Sudor  Regulable](https://www.amazon.es/dp/B07H7WRQNX/?tag=tolees-21) con un 44.75 % de descuento con precio de oferta de 165.2 EUR (original: 299 EUR) en el siguiente enlace!

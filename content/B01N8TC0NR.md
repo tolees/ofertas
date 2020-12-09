@@ -14,7 +14,7 @@ currency: EUR
 price: 9.74
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Aigostar - Bombilla LED A5 G45  E14  7 W  Luz blanca fría 6400K  560 lúmenes  no regulable - 5 unidades
+prodname: 'Aigostar - Bombilla LED A5 G45  E14  7 W  Luz blanca fría 6400K  560 lúmenes  no regulable - 5 unidades'
 ---
 
 Ahora mismo tienes [Aigostar - Bombilla LED A5 G45  E14  7 W  Luz blanca fría 6400K  560 lúmenes  no regulable - 5 unidades](https://www.amazon.es/dp/B01N8TC0NR/?tag=tolees-21) a 9.74 EUR (original: 12.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

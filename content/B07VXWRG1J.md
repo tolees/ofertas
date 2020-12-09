@@ -14,7 +14,7 @@ currency: EUR
 price: 25.75
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Pepe Jeans Suéter  Multicolor  Multi 0AA   Small para Mujer
+prodname: 'Pepe Jeans Suéter  Multicolor  Multi 0AA   Small para Mujer'
 ---
 
 Está [Pepe Jeans Suéter  Multicolor  Multi 0AA   Small para Mujer](https://www.amazon.es/dp/B07VXWRG1J/?tag=tolees-21) con 63.16 de descuento por 25.75 EUR (original: 69.9 EUR) en el siguiente enlace!

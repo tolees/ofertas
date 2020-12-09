@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 179.9 EUR
 inStock: true
-prodname: Severin KS 9827 - Mini-Frigorífico  70 W  42 l  Blanco
+prodname: 'Severin KS 9827 - Mini-Frigorífico  70 W  42 l  Blanco'
 ---
 
 Está [Severin KS 9827 - Mini-Frigorífico  70 W  42 l  Blanco](https://www.amazon.es/dp/B003GEK2YG/?tag=tolees-21) con 44.42 de descuento por 99.99 EUR (original: 179.9 EUR) en el siguiente enlace!

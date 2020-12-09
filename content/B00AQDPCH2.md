@@ -14,7 +14,7 @@ currency: EUR
 price: 7.85
 comparePrice: 18.35 EUR
 inStock: true
-prodname: L Oreal Paris Make-up Designer Pintalabios 24H Permanente  Color Morado 209 Violet Parfait
+prodname: 'L Oreal Paris Make-up Designer Pintalabios 24H Permanente  Color Morado 209 Violet Parfait'
 ---
 
 Está [L Oreal Paris Make-up Designer Pintalabios 24H Permanente  Color Morado 209 Violet Parfait](https://www.amazon.es/dp/B00AQDPCH2/?tag=tolees-21) con 57.22 de descuento por 7.85 EUR (original: 18.35 EUR) en el siguiente enlace!

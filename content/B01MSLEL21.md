@@ -14,7 +14,7 @@ currency: EUR
 price: 47.45
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W27/L31  Talla del fabricante: 27 
+prodname: 'Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W27/L31  Talla del fabricante: 27 '
 ---
 
 Está [Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W27/L31  Talla del fabricante: 27 ](https://www.amazon.es/dp/B01MSLEL21/?tag=tolees-21) con 47.25 de descuento por 47.45 EUR (original: 89.95 EUR) en el siguiente enlace!

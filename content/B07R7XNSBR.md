@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 84.99 EUR
 inStock: true
-prodname: Columbia Canyon Point Suéter Polar para Hombre
+prodname: 'Columbia Canyon Point Suéter Polar para Hombre'
 ---
 
 Está [Columbia Canyon Point Suéter Polar para Hombre](https://www.amazon.es/dp/B07R7XNSBR/?tag=tolees-21) con 58.83 de descuento por 34.99 EUR (original: 84.99 EUR) en el siguiente enlace!

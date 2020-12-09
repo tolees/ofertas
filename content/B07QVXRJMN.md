@@ -14,7 +14,7 @@ currency: EUR
 price: 31.45
 comparePrice: 43.69 EUR
 inStock: true
-prodname: Tambor Portátil Conjunto de Batería Electrónica - ammoon Digital Enrollar Sensible al Tacto Kit de Batería de Práctica 9 Pastillas de Batería 2 Pedales de Pie para Niños Principiantes  Sin Altavoces 
+prodname: 'Tambor Portátil Conjunto de Batería Electrónica - ammoon Digital Enrollar Sensible al Tacto Kit de Batería de Práctica 9 Pastillas de Batería 2 Pedales de Pie para Niños Principiantes  Sin Altavoces '
 ---
 
 Ahora mismo tienes [Tambor Portátil Conjunto de Batería Electrónica - ammoon Digital Enrollar Sensible al Tacto Kit de Batería de Práctica 9 Pastillas de Batería 2 Pedales de Pie para Niños Principiantes  Sin Altavoces ](https://www.amazon.es/dp/B07QVXRJMN/?tag=tolees-21) a 31.45 EUR (original: 43.69 EUR) (28.02 %  de descuento) en el siguiente enlace!

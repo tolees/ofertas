@@ -14,7 +14,7 @@ currency: EUR
 price: 126.89
 comparePrice: 229.0 EUR
 inStock: true
-prodname: Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Silicona ART3024
+prodname: 'Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Silicona ART3024'
 ---
 
 Está [Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Silicona ART3024](https://www.amazon.es/dp/B07CVNYTSV/?tag=tolees-21) con 44.59 de descuento por 126.89 EUR (original: 229.0 EUR) en el siguiente enlace!

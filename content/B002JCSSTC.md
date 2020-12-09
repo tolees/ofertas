@@ -14,7 +14,7 @@ currency: EUR
 price: 25.49
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Crocs Crocband Unisex  Zuecos Adulto  Negro  43/44 EU
+prodname: 'Crocs Crocband Unisex  Zuecos Adulto  Negro  43/44 EU'
 ---
 
 Está [Crocs Crocband Unisex  Zuecos Adulto  Negro  43/44 EU](https://www.amazon.es/dp/B002JCSSTC/?tag=tolees-21) con 43.34 de descuento por 25.49 EUR (original: 44.99 EUR) en el siguiente enlace!

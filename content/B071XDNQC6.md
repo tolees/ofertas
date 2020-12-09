@@ -14,7 +14,7 @@ currency: EUR
 price: 15.86
 comparePrice: 85.95 EUR
 inStock: true
-prodname: Tamaris 25287  Botas Militar para Mujer  Negro  Black/Pewter   39 EU
+prodname: 'Tamaris 25287  Botas Militar para Mujer  Negro  Black/Pewter   39 EU'
 ---
 
 Está [Tamaris 25287  Botas Militar para Mujer  Negro  Black/Pewter   39 EU](https://www.amazon.es/dp/B071XDNQC6/?tag=tolees-21) con 81.55 de descuento por 15.86 EUR (original: 85.95 EUR) en el siguiente enlace!

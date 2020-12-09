@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 49.0 EUR
 inStock: true
-prodname: WiFi Otoscopio  1080P HD 3 0 Megapíxeles Impermeable Endoscopio Herramienta de Limpieza de Cerumen con 6 Luces LED para Android Smartphone Tablet y iOS iPhone iPad  Blanco 
+prodname: 'WiFi Otoscopio  1080P HD 3 0 Megapíxeles Impermeable Endoscopio Herramienta de Limpieza de Cerumen con 6 Luces LED para Android Smartphone Tablet y iOS iPhone iPad  Blanco '
 ---
 
 Tienes [WiFi Otoscopio  1080P HD 3 0 Megapíxeles Impermeable Endoscopio Herramienta de Limpieza de Cerumen con 6 Luces LED para Android Smartphone Tablet y iOS iPhone iPad  Blanco ](https://www.amazon.es/dp/B089K7GHWM/?tag=tolees-21) con un 26.55 % de descuento con precio de oferta de 35.99 EUR (original: 49.0 EUR) en el siguiente enlace!

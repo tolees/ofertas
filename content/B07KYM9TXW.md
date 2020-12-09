@@ -14,7 +14,7 @@ currency: EUR
 price: 39.26
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Munich Dash  Zapatillas de Deporte Unisex Adulto  Rojo  Granate 36   40 EU
+prodname: 'Munich Dash  Zapatillas de Deporte Unisex Adulto  Rojo  Granate 36   40 EU'
 ---
 
 Está [Munich Dash  Zapatillas de Deporte Unisex Adulto  Rojo  Granate 36   40 EU](https://www.amazon.es/dp/B07KYM9TXW/?tag=tolees-21) con 43.87 de descuento por 39.26 EUR (original: 69.95 EUR) en el siguiente enlace!

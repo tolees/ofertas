@@ -14,7 +14,7 @@ currency: EUR
 price: 69.9
 comparePrice: 95.9 EUR
 inStock: true
-prodname: MyWave Batidora amasadora de 1000W  Bol Acero Inoxidable 4L  5 velocidades con opción Pulse  3 Tipos de Ganchos Diferentes.
+prodname: 'MyWave Batidora amasadora de 1000W  Bol Acero Inoxidable 4L  5 velocidades con opción Pulse  3 Tipos de Ganchos Diferentes.'
 ---
 
 Ahora mismo tienes [MyWave Batidora amasadora de 1000W  Bol Acero Inoxidable 4L  5 velocidades con opción Pulse  3 Tipos de Ganchos Diferentes.](https://www.amazon.es/dp/B07NCYMZ7F/?tag=tolees-21) a 69.9 EUR (original: 95.9 EUR) (27.11 %  de descuento) en el siguiente enlace!

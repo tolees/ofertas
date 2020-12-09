@@ -14,7 +14,7 @@ currency: EUR
 price: 32.0
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Burton Space  Funda Snowboard Unisex Adulto  Negro  True Black   156
+prodname: 'Burton Space  Funda Snowboard Unisex Adulto  Negro  True Black   156'
 ---
 
 Tienes [Burton Space  Funda Snowboard Unisex Adulto  Negro  True Black   156](https://www.amazon.es/dp/B06XBG6F5Q/?tag=tolees-21) con un 41.82 % de descuento con precio de oferta de 32.0 EUR (original: 55.0 EUR) en el siguiente enlace!

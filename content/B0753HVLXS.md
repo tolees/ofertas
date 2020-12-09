@@ -14,7 +14,7 @@ currency: EUR
 price: 32.47
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Adidas Essential Star 3 M  Zapatillas de Deporte para Hombre  Azul  Reauni/Nocmét / Azretr 000   44 EU
+prodname: 'Adidas Essential Star 3 M  Zapatillas de Deporte para Hombre  Azul  Reauni/Nocmét / Azretr 000   44 EU'
 ---
 
 Está [Adidas Essential Star 3 M  Zapatillas de Deporte para Hombre  Azul  Reauni/Nocmét / Azretr 000   44 EU](https://www.amazon.es/dp/B0753HVLXS/?tag=tolees-21) con 40.91 de descuento por 32.47 EUR (original: 54.95 EUR) en el siguiente enlace!

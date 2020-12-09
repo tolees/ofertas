@@ -14,7 +14,7 @@ currency: EUR
 price: 7
 comparePrice: 9.95 EUR
 inStock: true
-prodname: Nalgene Trinkflasche Everyday Bidón con Boca Estrecha 0 5 l  Unisex  Azul  0 5 litros
+prodname: 'Nalgene Trinkflasche Everyday Bidón con Boca Estrecha 0 5 l  Unisex  Azul  0 5 litros'
 ---
 
 Tienes [Nalgene Trinkflasche Everyday Bidón con Boca Estrecha 0 5 l  Unisex  Azul  0 5 litros](https://www.amazon.es/dp/B001NCDE3O/?tag=tolees-21) con un 29.65 % de descuento con precio de oferta de 7 EUR (original: 9.95 EUR) en el siguiente enlace!

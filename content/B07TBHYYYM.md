@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: MICHLEY Toalla Bebe con Capucha  70x70cm Algodón Capa de Baño Bebé for 2-6 Años Seajelly rosa
+prodname: 'MICHLEY Toalla Bebe con Capucha  70x70cm Algodón Capa de Baño Bebé for 2-6 Años Seajelly rosa'
 ---
 
 Ahora mismo tienes [MICHLEY Toalla Bebe con Capucha  70x70cm Algodón Capa de Baño Bebé for 2-6 Años Seajelly rosa](https://www.amazon.es/dp/B07TBHYYYM/?tag=tolees-21) a 26.99 EUR (original: 35.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

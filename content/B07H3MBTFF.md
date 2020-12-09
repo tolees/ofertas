@@ -14,7 +14,7 @@ currency: EUR
 price: 44.19
 comparePrice: 59.99 EUR
 inStock: true
-prodname: TACKLIFE Taladro Percutor 18V  Taladro eléctrico percusión  2.0Ah de Litio  13mm Mandril Automática  2 Velocidades  16 Configuraciones  3 Posiciones Taladrado PCD04C
+prodname: 'TACKLIFE Taladro Percutor 18V  Taladro eléctrico percusión  2.0Ah de Litio  13mm Mandril Automática  2 Velocidades  16 Configuraciones  3 Posiciones Taladrado PCD04C'
 ---
 
 Está [TACKLIFE Taladro Percutor 18V  Taladro eléctrico percusión  2.0Ah de Litio  13mm Mandril Automática  2 Velocidades  16 Configuraciones  3 Posiciones Taladrado PCD04C](https://www.amazon.es/dp/B07H3MBTFF/?tag=tolees-21) con 26.34 de descuento por 44.19 EUR (original: 59.99 EUR) en el siguiente enlace!

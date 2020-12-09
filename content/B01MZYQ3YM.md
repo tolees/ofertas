@@ -14,7 +14,7 @@ currency: EUR
 price: 49.98
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Hidi Holly  Zapatillas para Mujer  Negro  Black Nubuck   37.5 EU
+prodname: 'Clarks Hidi Holly  Zapatillas para Mujer  Negro  Black Nubuck   37.5 EU'
 ---
 
 Tienes [Clarks Hidi Holly  Zapatillas para Mujer  Negro  Black Nubuck   37.5 EU](https://www.amazon.es/dp/B01MZYQ3YM/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!

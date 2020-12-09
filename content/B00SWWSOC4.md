@@ -14,7 +14,7 @@ currency: EUR
 price: 83.95
 comparePrice: 140 EUR
 inStock: true
-prodname: Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Rojo  Red Orbit/White/Black/Parachute Beige 620   45 EU
+prodname: 'Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Rojo  Red Orbit/White/Black/Parachute Beige 620   45 EU'
 ---
 
 Ahora mismo tienes [Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Rojo  Red Orbit/White/Black/Parachute Beige 620   45 EU](https://www.amazon.es/dp/B00SWWSOC4/?tag=tolees-21) a 83.95 EUR (original: 140 EUR) (40.04 %  de descuento) en el siguiente enlace!

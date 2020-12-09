@@ -14,7 +14,7 @@ currency: EUR
 price: 30.9
 comparePrice: 47.76 EUR
 inStock: true
-prodname: Weider 32% Protein Bar  Plátano - 24 Barras
+prodname: 'Weider 32% Protein Bar  Plátano - 24 Barras'
 ---
 
 Tienes [Weider 32% Protein Bar  Plátano - 24 Barras](https://www.amazon.es/dp/B00GSR2XUO/?tag=tolees-21) con un 35.30 % de descuento con precio de oferta de 30.9 EUR (original: 47.76 EUR) en el siguiente enlace!

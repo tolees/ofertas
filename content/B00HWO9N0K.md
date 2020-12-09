@@ -14,7 +14,7 @@ currency: EUR
 price: 40.47
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Superga 2790acotw Linea Up And Down Zapatillas de Gimnasia Mujer  Azul  933 Navy   40 EU
+prodname: 'Superga 2790acotw Linea Up And Down Zapatillas de Gimnasia Mujer  Azul  933 Navy   40 EU'
 ---
 
 Ahora mismo tienes [Superga 2790acotw Linea Up And Down Zapatillas de Gimnasia Mujer  Azul  933 Navy   40 EU](https://www.amazon.es/dp/B00HWO9N0K/?tag=tolees-21) a 40.47 EUR (original: 69.0 EUR) (41.35 %  de descuento) en el siguiente enlace!

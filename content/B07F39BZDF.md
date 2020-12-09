@@ -14,7 +14,7 @@ currency: EUR
 price: 8.8
 comparePrice: 12.07 EUR
 inStock: true
-prodname: find. Suede Zapatillas  Amarillo Ochre/White  45 EU
+prodname: 'find. Suede Zapatillas  Amarillo Ochre/White  45 EU'
 ---
 
 Está [find. Suede Zapatillas  Amarillo Ochre/White  45 EU](https://www.amazon.es/dp/B07F39BZDF/?tag=tolees-21) con 27.09 de descuento por 8.8 EUR (original: 12.07 EUR) en el siguiente enlace!

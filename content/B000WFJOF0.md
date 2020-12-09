@@ -14,7 +14,7 @@ currency: EUR
 price: 3.02
 comparePrice: 7.81 EUR
 inStock: true
-prodname: TRIXIE Comedero Acero Inox  1.8 l  ø20 cm  Perro
+prodname: 'TRIXIE Comedero Acero Inox  1.8 l  ø20 cm  Perro'
 ---
 
 Ahora mismo tienes [TRIXIE Comedero Acero Inox  1.8 l  ø20 cm  Perro](https://www.amazon.es/dp/B000WFJOF0/?tag=tolees-21) a 3.02 EUR (original: 7.81 EUR) (61.33 %  de descuento) en el siguiente enlace!

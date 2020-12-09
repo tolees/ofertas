@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 28.49 EUR
 inStock: true
-prodname: adidas VS Switch 3 I  Zapatillas Unisex Niños  FTWBLA/ROSINT/Tinley  21 EU
+prodname: 'adidas VS Switch 3 I  Zapatillas Unisex Niños  FTWBLA/ROSINT/Tinley  21 EU'
 ---
 
 Ahora mismo tienes [adidas VS Switch 3 I  Zapatillas Unisex Niños  FTWBLA/ROSINT/Tinley  21 EU](https://www.amazon.es/dp/B089QRP9GM/?tag=tolees-21) a 20.99 EUR (original: 28.49 EUR) (26.33 %  de descuento) en el siguiente enlace!

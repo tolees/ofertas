@@ -14,7 +14,7 @@ currency: EUR
 price: 3.49
 comparePrice: 6.5 EUR
 inStock: true
-prodname: Maybelline New York Fit Me - Polvos Compactos Matificantes y Sin Brillos  Tono 130 Buff Beige
+prodname: 'Maybelline New York Fit Me - Polvos Compactos Matificantes y Sin Brillos  Tono 130 Buff Beige'
 ---
 
 Tienes [Maybelline New York Fit Me - Polvos Compactos Matificantes y Sin Brillos  Tono 130 Buff Beige](https://www.amazon.es/dp/B076SJCCMP/?tag=tolees-21) con un 46.31 % de descuento con precio de oferta de 3.49 EUR (original: 6.5 EUR) en el siguiente enlace!

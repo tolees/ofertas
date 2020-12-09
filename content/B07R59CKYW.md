@@ -14,15 +14,13 @@ currency: EUR
 price: 14.99
 comparePrice: 24.69 EUR
 inStock: true
-prodname: Cápsulas Consuelo compatibles con Dolce Gusto* - 96 cápsulas  16x6 
+prodname: 'Cápsulas Consuelo compatibles con Dolce Gusto* - 96 cápsulas  16x6 '
 ---
 
-Está [Cápsulas Consuelo compatibles con Dolce Gusto* - 96 cápsulas  16x6 ](https://www.amazon.es/dp/B07R59CKYW/?tag=tolees-21) con 39.29 de descuento por 14.99 EUR (original: 24.69 EUR) en el siguiente enlace!
+Ahora mismo tienes [Cápsulas Consuelo compatibles con Dolce Gusto* - 96 cápsulas  16x6 ](https://www.amazon.es/dp/B07R59CKYW/?tag=tolees-21) a 14.99 EUR (original: 24.69 EUR) (39.29 %  de descuento) en el siguiente enlace!
 
 [![Cápsulas Consuelo compatibles con Dolce ](https://m.media-amazon.com/images/I/411UdoVGyzL._SL200_.jpg)](https://www.amazon.es/dp/B07R59CKYW/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07R59CKYW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07R59CKYW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

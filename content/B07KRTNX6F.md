@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Columbia Silver Ridge II Short Pantalón Corto  Nailon  Hombre  Verde  Copper Ore   Talla US: W28/L10/  EU W38/L10 
+prodname: 'Columbia Silver Ridge II Short Pantalón Corto  Nailon  Hombre  Verde  Copper Ore   Talla US: W28/L10/  EU W38/L10 '
 ---
 
 Está [Columbia Silver Ridge II Short Pantalón Corto  Nailon  Hombre  Verde  Copper Ore   Talla US: W28/L10/  EU W38/L10 ](https://www.amazon.es/dp/B07KRTNX6F/?tag=tolees-21) con 50.09 de descuento por 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!

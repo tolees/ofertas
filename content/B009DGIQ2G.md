@@ -14,7 +14,7 @@ currency: EUR
 price: 115.5
 comparePrice: 209.0 EUR
 inStock: true
-prodname: Zwilling TWIN POLLUX - Bloque para 5 cuchillos con hoja endurecida al frío Friodur  acero inoxidable
+prodname: 'Zwilling TWIN POLLUX - Bloque para 5 cuchillos con hoja endurecida al frío Friodur  acero inoxidable'
 ---
 
 Tienes [Zwilling TWIN POLLUX - Bloque para 5 cuchillos con hoja endurecida al frío Friodur  acero inoxidable](https://www.amazon.es/dp/B009DGIQ2G/?tag=tolees-21) con un 44.74 % de descuento con precio de oferta de 115.5 EUR (original: 209.0 EUR) en el siguiente enlace!

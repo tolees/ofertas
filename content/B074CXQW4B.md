@@ -14,7 +14,7 @@ currency: EUR
 price: 11.24
 comparePrice: 15.0 EUR
 inStock: true
-prodname: Devir - Exit: El laboratorio secreto  Ed. Español  BGEXIT3 
+prodname: 'Devir - Exit: El laboratorio secreto  Ed. Español  BGEXIT3 '
 ---
 
 Ahora mismo tienes [Devir - Exit: El laboratorio secreto  Ed. Español  BGEXIT3 ](https://www.amazon.es/dp/B074CXQW4B/?tag=tolees-21) a 11.24 EUR (original: 15.0 EUR) (25.07 %  de descuento) en el siguiente enlace!

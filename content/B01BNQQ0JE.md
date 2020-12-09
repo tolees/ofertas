@@ -14,7 +14,7 @@ currency: EUR
 price: 73.71
 comparePrice: 119.79 EUR
 inStock: true
-prodname: Black+Decker BC20BD Cargador 20 Arrancador 40 AMP
+prodname: 'Black+Decker BC20BD Cargador 20 Arrancador 40 AMP'
 ---
 
 Ahora mismo tienes [Black+Decker BC20BD Cargador 20 Arrancador 40 AMP](https://www.amazon.es/dp/B01BNQQ0JE/?tag=tolees-21) a 73.71 EUR (original: 119.79 EUR) (38.47 %  de descuento) en el siguiente enlace!

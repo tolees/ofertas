@@ -14,7 +14,7 @@ currency: EUR
 price: 44.95
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Azul  Navy Leather-   44.5 EU
+prodname: 'Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Azul  Navy Leather-   44.5 EU'
 ---
 
 Ahora mismo tienes [Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Azul  Navy Leather-   44.5 EU](https://www.amazon.es/dp/B07FQR36GN/?tag=tolees-21) a 44.95 EUR (original: 79.95 EUR) (43.78 %  de descuento) en el siguiente enlace!

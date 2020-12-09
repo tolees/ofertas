@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Pop! Voltron - Figura de Vinilo Keith
+prodname: 'Pop! Voltron - Figura de Vinilo Keith'
 ---
 
 Ahora mismo tienes [Pop! Voltron - Figura de Vinilo Keith](https://www.amazon.es/dp/B07DFCBK8T/?tag=tolees-21) a 9.99 EUR (original: 15.95 EUR) (37.37 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 57.79
 comparePrice: 78.9 EUR
 inStock: true
-prodname: Marca Amazon - find. Abrigo Cruzado Mujer  Negro  Black   40  Label: M
+prodname: 'Marca Amazon - find. Abrigo Cruzado Mujer  Negro  Black   40  Label: M'
 ---
 
 Tienes [Marca Amazon - find. Abrigo Cruzado Mujer  Negro  Black   40  Label: M](https://www.amazon.es/dp/B07S6CG7ST/?tag=tolees-21) con un 26.76 % de descuento con precio de oferta de 57.79 EUR (original: 78.9 EUR) en el siguiente enlace!

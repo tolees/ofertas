@@ -14,7 +14,7 @@ currency: EUR
 price: 160.49
 comparePrice: 329.0 EUR
 inStock: true
-prodname: Zwilling 35145-000-0 - Juego de cuchillos con soporte  7 piezas  madera de fresno   autoafilable  cuatro estrellas  color marrón oscuro
+prodname: 'Zwilling 35145-000-0 - Juego de cuchillos con soporte  7 piezas  madera de fresno   autoafilable  cuatro estrellas  color marrón oscuro'
 ---
 
 Está [Zwilling 35145-000-0 - Juego de cuchillos con soporte  7 piezas  madera de fresno   autoafilable  cuatro estrellas  color marrón oscuro](https://www.amazon.es/dp/B07CBN3ZHT/?tag=tolees-21) con 51.22 de descuento por 160.49 EUR (original: 329.0 EUR) en el siguiente enlace!

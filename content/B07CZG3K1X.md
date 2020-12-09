@@ -14,7 +14,7 @@ currency: EUR
 price: 15.25
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Under Armour Armour Mid Keyhole Bra Sujetador Deportivo  Mujer  Azul Coded Blue/High-Vis Yellow 451  L
+prodname: 'Under Armour Armour Mid Keyhole Bra Sujetador Deportivo  Mujer  Azul Coded Blue/High-Vis Yellow 451  L'
 ---
 
 Tienes [Under Armour Armour Mid Keyhole Bra Sujetador Deportivo  Mujer  Azul Coded Blue/High-Vis Yellow 451  L](https://www.amazon.es/dp/B07CZG3K1X/?tag=tolees-21) con un 45.52 % de descuento con precio de oferta de 15.25 EUR (original: 27.99 EUR) en el siguiente enlace!

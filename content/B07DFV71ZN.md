@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Mochila Bullpadel X-Compact Silver
+prodname: 'Mochila Bullpadel X-Compact Silver'
 ---
 
 Ahora mismo tienes [Mochila Bullpadel X-Compact Silver](https://www.amazon.es/dp/B07DFV71ZN/?tag=tolees-21) a 19.9 EUR (original: 29.95 EUR) (33.56 %  de descuento) en el siguiente enlace!

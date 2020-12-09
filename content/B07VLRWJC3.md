@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Evance Kit de Guirnalda de Globos 128 Piezas Guirnalda de Arco de Látex Globos Confeti Blanco y Dorado Lleno Paquete de Globos para Decoración de Boda Cumpleaños Fiesta  128 Piezas 
+prodname: 'Evance Kit de Guirnalda de Globos 128 Piezas Guirnalda de Arco de Látex Globos Confeti Blanco y Dorado Lleno Paquete de Globos para Decoración de Boda Cumpleaños Fiesta  128 Piezas '
 ---
 
 Ahora mismo tienes [Evance Kit de Guirnalda de Globos 128 Piezas Guirnalda de Arco de Látex Globos Confeti Blanco y Dorado Lleno Paquete de Globos para Decoración de Boda Cumpleaños Fiesta  128 Piezas ](https://www.amazon.es/dp/B07VLRWJC3/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

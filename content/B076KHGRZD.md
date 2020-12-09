@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 23.49 EUR
 inStock: true
-prodname: DoGeek Diadema Deportiva 10 piezas Diadema Yoga Estiramiento Elástico Cintas de Pelo Yoga Diademas de Algodón para Adolescentes  Niñas y Mujeres
+prodname: 'DoGeek Diadema Deportiva 10 piezas Diadema Yoga Estiramiento Elástico Cintas de Pelo Yoga Diademas de Algodón para Adolescentes  Niñas y Mujeres'
 ---
 
 Ahora mismo tienes [DoGeek Diadema Deportiva 10 piezas Diadema Yoga Estiramiento Elástico Cintas de Pelo Yoga Diademas de Algodón para Adolescentes  Niñas y Mujeres](https://www.amazon.es/dp/B076KHGRZD/?tag=tolees-21) a 10.99 EUR (original: 23.49 EUR) (53.21 %  de descuento) en el siguiente enlace!

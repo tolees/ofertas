@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Puma Placed Logo - Pack de 2 bóxers para hombre  color verde/gris  talla S
+prodname: 'Puma Placed Logo - Pack de 2 bóxers para hombre  color verde/gris  talla S'
 ---
 
 Tienes [Puma Placed Logo - Pack de 2 bóxers para hombre  color verde/gris  talla S](https://www.amazon.es/dp/B00VPZDXEY/?tag=tolees-21) con un 35.31 % de descuento con precio de oferta de 10.99 EUR (original: 16.99 EUR) en el siguiente enlace!

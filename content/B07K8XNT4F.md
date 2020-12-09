@@ -14,7 +14,7 @@ currency: EUR
 price: 21.0
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Gris  Charcoal/Charcoal 00q   43/44 EU
+prodname: 'Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Gris  Charcoal/Charcoal 00q   43/44 EU'
 ---
 
 Está [Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Gris  Charcoal/Charcoal 00q   43/44 EU](https://www.amazon.es/dp/B07K8XNT4F/?tag=tolees-21) con 29.98 de descuento por 21.0 EUR (original: 29.99 EUR) en el siguiente enlace!

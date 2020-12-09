@@ -14,7 +14,7 @@ currency: EUR
 price: 51.54
 comparePrice: 144.9 EUR
 inStock: true
-prodname: Trangoworld Summit Tw86 Pant. Largo  Hombre  Negro  L
+prodname: 'Trangoworld Summit Tw86 Pant. Largo  Hombre  Negro  L'
 ---
 
 Está [Trangoworld Summit Tw86 Pant. Largo  Hombre  Negro  L](https://www.amazon.es/dp/B07ZDGCDGW/?tag=tolees-21) con 64.43 de descuento por 51.54 EUR (original: 144.9 EUR) en el siguiente enlace!

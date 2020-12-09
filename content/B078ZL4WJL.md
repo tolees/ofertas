@@ -14,7 +14,7 @@ currency: EUR
 price: 24.13
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Supra Factor  Zapatillas Unisex Adulto  Negro  Black/Lt Grey-White 071   42 EU
+prodname: 'Supra Factor  Zapatillas Unisex Adulto  Negro  Black/Lt Grey-White 071   42 EU'
 ---
 
 Ahora mismo tienes [Supra Factor  Zapatillas Unisex Adulto  Negro  Black/Lt Grey-White 071   42 EU](https://www.amazon.es/dp/B078ZL4WJL/?tag=tolees-21) a 24.13 EUR (original: 89.9 EUR) (73.16 %  de descuento) en el siguiente enlace!

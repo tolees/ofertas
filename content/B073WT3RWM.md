@@ -14,7 +14,7 @@ currency: EUR
 price: 48.77
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Adidas Aerobounce M  Zapatillas de Trail Running para Hombre  Azul  Azalre Negbás 000   43 1/3 EU
+prodname: 'Adidas Aerobounce M  Zapatillas de Trail Running para Hombre  Azul  Azalre Negbás 000   43 1/3 EU'
 ---
 
 Tienes [Adidas Aerobounce M  Zapatillas de Trail Running para Hombre  Azul  Azalre Negbás 000   43 1/3 EU](https://www.amazon.es/dp/B073WT3RWM/?tag=tolees-21) con un 51.21 % de descuento con precio de oferta de 48.77 EUR (original: 99.95 EUR) en el siguiente enlace!

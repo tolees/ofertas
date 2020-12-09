@@ -14,7 +14,7 @@ currency: EUR
 price: 8.53
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Springfield 4.Pa.Falda Midi Pencil Falda  Mujer  Negro  Negro 1   44  Tamaño del Fabricante:44 
+prodname: 'Springfield 4.Pa.Falda Midi Pencil Falda  Mujer  Negro  Negro 1   44  Tamaño del Fabricante:44 '
 ---
 
 Ahora mismo tienes [Springfield 4.Pa.Falda Midi Pencil Falda  Mujer  Negro  Negro 1   44  Tamaño del Fabricante:44 ](https://www.amazon.es/dp/B07DL82YDW/?tag=tolees-21) a 8.53 EUR (original: 26.99 EUR) (68.40 %  de descuento) en el siguiente enlace!

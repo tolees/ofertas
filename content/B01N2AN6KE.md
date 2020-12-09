@@ -14,7 +14,7 @@ currency: EUR
 price: 124.99
 comparePrice: 169.99 EUR
 inStock: true
-prodname: Worx WG546E.2 - Soplador  20 V
+prodname: 'Worx WG546E.2 - Soplador  20 V'
 ---
 
 Tienes [Worx WG546E.2 - Soplador  20 V](https://www.amazon.es/dp/B01N2AN6KE/?tag=tolees-21) con un 26.47 % de descuento con precio de oferta de 124.99 EUR (original: 169.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.04
 comparePrice: 180 EUR
 inStock: true
-prodname: Clarks Kensett Daphne  Botas para Mujer  Negro  Black Combi   37.5 EU
+prodname: 'Clarks Kensett Daphne  Botas para Mujer  Negro  Black Combi   37.5 EU'
 ---
 
 Está [Clarks Kensett Daphne  Botas para Mujer  Negro  Black Combi   37.5 EU](https://www.amazon.es/dp/B06XCGQW4Z/?tag=tolees-21) con 72.76 de descuento por 49.04 EUR (original: 180 EUR) en el siguiente enlace!

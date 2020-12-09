@@ -14,7 +14,7 @@ currency: EUR
 price: 20.14
 comparePrice: 55 EUR
 inStock: true
-prodname: DC Shoes Trase V Se  Zapatillas de Skateboard para Niñas  Rosa  Pink Pnk   32 EU
+prodname: 'DC Shoes Trase V Se  Zapatillas de Skateboard para Niñas  Rosa  Pink Pnk   32 EU'
 ---
 
 Ahora mismo tienes [DC Shoes Trase V Se  Zapatillas de Skateboard para Niñas  Rosa  Pink Pnk   32 EU](https://www.amazon.es/dp/B07DW6GSW7/?tag=tolees-21) a 20.14 EUR (original: 55 EUR) (63.38 %  de descuento) en el siguiente enlace!

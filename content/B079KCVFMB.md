@@ -14,7 +14,7 @@ currency: EUR
 price: 11.52
 comparePrice: 15.58 EUR
 inStock: true
-prodname: APLI kids- Pez Juego de Gomets en Caja Metálica  Multicolor  cuadrado  15219 
+prodname: 'APLI kids- Pez Juego de Gomets en Caja Metálica  Multicolor  cuadrado  15219 '
 ---
 
 Tienes [APLI kids- Pez Juego de Gomets en Caja Metálica  Multicolor  cuadrado  15219 ](https://www.amazon.es/dp/B079KCVFMB/?tag=tolees-21) con un 26.06 % de descuento con precio de oferta de 11.52 EUR (original: 15.58 EUR) en el siguiente enlace!

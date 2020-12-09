@@ -14,7 +14,7 @@ currency: EUR
 price: 269.0
 comparePrice: 369.0 EUR
 inStock: true
-prodname: OPPO Reno 2z - Smartphone de 6.5" AMOLED  4G Dual Sim  8GB  128GB  Helio P90 Octalcore  cámara trasera 48 MP + 8 MP  gran angular  + 2 MP + 2 MP  4.000 mAh  Android 9  Blanco  Sky White 
+prodname: 'OPPO Reno 2z - Smartphone de 6.5" AMOLED  4G Dual Sim  8GB  128GB  Helio P90 Octalcore  cámara trasera 48 MP + 8 MP  gran angular  + 2 MP + 2 MP  4.000 mAh  Android 9  Blanco  Sky White '
 ---
 
 Está [OPPO Reno 2z - Smartphone de 6.5" AMOLED  4G Dual Sim  8GB  128GB  Helio P90 Octalcore  cámara trasera 48 MP + 8 MP  gran angular  + 2 MP + 2 MP  4.000 mAh  Android 9  Blanco  Sky White ](https://www.amazon.es/dp/B07Z6LXZG1/?tag=tolees-21) con 27.10 de descuento por 269.0 EUR (original: 369.0 EUR) en el siguiente enlace!

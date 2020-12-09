@@ -14,7 +14,7 @@ currency: EUR
 price: 47
 comparePrice: 66.99 EUR
 inStock: true
-prodname: BOSCH Aspirateur a main EasyVac 12
+prodname: 'BOSCH Aspirateur a main EasyVac 12'
 ---
 
 Tienes [BOSCH Aspirateur a main EasyVac 12](https://www.amazon.es/dp/B01NCMWG5Y/?tag=tolees-21) con un 29.84 % de descuento con precio de oferta de 47 EUR (original: 66.99 EUR) en el siguiente enlace!

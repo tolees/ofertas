@@ -14,7 +14,7 @@ currency: EUR
 price: 15
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Columbia Glacial IV 1/2 Zip Forro Polar con Media Cremallera  Mujer  Negro  Black   M
+prodname: 'Columbia Glacial IV 1/2 Zip Forro Polar con Media Cremallera  Mujer  Negro  Black   M'
 ---
 
 Está [Columbia Glacial IV 1/2 Zip Forro Polar con Media Cremallera  Mujer  Negro  Black   M](https://www.amazon.es/dp/B076V6FLTV/?tag=tolees-21) con 49.98 de descuento por 15 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 37.39
 comparePrice: 55 EUR
 inStock: true
-prodname: Geox JR Sandal Roxanne C  Sandalias con Punta Abierta para Niñas   White/Pink C0406   35 EU
+prodname: 'Geox JR Sandal Roxanne C  Sandalias con Punta Abierta para Niñas   White/Pink C0406   35 EU'
 ---
 
 Ahora mismo tienes [Geox JR Sandal Roxanne C  Sandalias con Punta Abierta para Niñas   White/Pink C0406   35 EU](https://www.amazon.es/dp/B07DK5GSLF/?tag=tolees-21) a 37.39 EUR (original: 55 EUR) (32.02 %  de descuento) en el siguiente enlace!

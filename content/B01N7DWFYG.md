@@ -14,7 +14,7 @@ currency: EUR
 price: 16.61
 comparePrice: 34.95 EUR
 inStock: true
-prodname: adidas Altarun CF K  Zapatillas para Niñas  Blanco  Footwear White/Bold Pink/Mid Grey 0   40 EU
+prodname: 'adidas Altarun CF K  Zapatillas para Niñas  Blanco  Footwear White/Bold Pink/Mid Grey 0   40 EU'
 ---
 
 Tienes [adidas Altarun CF K  Zapatillas para Niñas  Blanco  Footwear White/Bold Pink/Mid Grey 0   40 EU](https://www.amazon.es/dp/B01N7DWFYG/?tag=tolees-21) con un 52.47 % de descuento con precio de oferta de 16.61 EUR (original: 34.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32.14
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Under Armour Performance Polo 2.0  Hombre  Blanco  White/Pitch Gray 100   L
+prodname: 'Under Armour Performance Polo 2.0  Hombre  Blanco  White/Pitch Gray 100   L'
 ---
 
 Ahora mismo tienes [Under Armour Performance Polo 2.0  Hombre  Blanco  White/Pitch Gray 100   L](https://www.amazon.es/dp/B07CZYTZKC/?tag=tolees-21) a 32.14 EUR (original: 54.99 EUR) (41.55 %  de descuento) en el siguiente enlace!

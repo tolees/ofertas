@@ -14,7 +14,7 @@ currency: EUR
 price: 14.31
 comparePrice: 40 EUR
 inStock: true
-prodname: Under Armour HG 2.0 3/4 Leggin  Hombre  Radio Red/Black  2XL
+prodname: 'Under Armour HG 2.0 3/4 Leggin  Hombre  Radio Red/Black  2XL'
 ---
 
 Está [Under Armour HG 2.0 3/4 Leggin  Hombre  Radio Red/Black  2XL](https://www.amazon.es/dp/B077XNTRTG/?tag=tolees-21) con 64.22 de descuento por 14.31 EUR (original: 40 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.86
 comparePrice: 14.99 EUR
 inStock: true
-prodname: JACK & JONES Jcokarl tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit:Reg - Solid Titan Slub  Large
+prodname: 'JACK & JONES Jcokarl tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit:Reg - Solid Titan Slub  Large'
 ---
 
 Tienes [JACK & JONES Jcokarl tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit:Reg - Solid Titan Slub  Large](https://www.amazon.es/dp/B07FQWQXPH/?tag=tolees-21) con un 47.57 % de descuento con precio de oferta de 7.86 EUR (original: 14.99 EUR) en el siguiente enlace!

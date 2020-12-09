@@ -14,7 +14,7 @@ currency: EUR
 price: 45.45
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Clarks Comet Rock  Botas Clasicas para Niños  Marrón  Tan Leather   20 EU
+prodname: 'Clarks Comet Rock  Botas Clasicas para Niños  Marrón  Tan Leather   20 EU'
 ---
 
 Tienes [Clarks Comet Rock  Botas Clasicas para Niños  Marrón  Tan Leather   20 EU](https://www.amazon.es/dp/B07BGCN4MP/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 45.45 EUR (original: 64.95 EUR) en el siguiente enlace!

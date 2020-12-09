@@ -14,7 +14,7 @@ currency: EUR
 price: 20.86
 comparePrice: 65 EUR
 inStock: true
-prodname: ALDO Acemma  Bailarinas con Correa de Tobillo para Mujer  Beige  Rugby Tan 34   36 EU
+prodname: 'ALDO Acemma  Bailarinas con Correa de Tobillo para Mujer  Beige  Rugby Tan 34   36 EU'
 ---
 
 Ahora mismo tienes [ALDO Acemma  Bailarinas con Correa de Tobillo para Mujer  Beige  Rugby Tan 34   36 EU](https://www.amazon.es/dp/B07DHVHF48/?tag=tolees-21) a 20.86 EUR (original: 65 EUR) (67.91 %  de descuento) en el siguiente enlace!

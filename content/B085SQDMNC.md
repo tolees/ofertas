@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 28.25 EUR
 inStock: true
-prodname: ultima Pienso para Gatos Adultos con Salmón 4 x 1.5 kg
+prodname: 'ultima Pienso para Gatos Adultos con Salmón 4 x 1.5 kg'
 ---
 
 Ahora mismo tienes [ultima Pienso para Gatos Adultos con Salmón 4 x 1.5 kg](https://www.amazon.es/dp/B085SQDMNC/?tag=tolees-21) a 19.99 EUR (original: 28.25 EUR) (29.24 %  de descuento) en el siguiente enlace!

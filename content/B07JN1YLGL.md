@@ -14,7 +14,7 @@ currency: EUR
 price: 19.59
 comparePrice: 30 EUR
 inStock: true
-prodname: Morgan 191-msisa.n Camiseta de Manga Larga  Negro Noir  Large  Talla del Fabricante: TL  para Mujer
+prodname: 'Morgan 191-msisa.n Camiseta de Manga Larga  Negro Noir  Large  Talla del Fabricante: TL  para Mujer'
 ---
 
 Tienes [Morgan 191-msisa.n Camiseta de Manga Larga  Negro Noir  Large  Talla del Fabricante: TL  para Mujer](https://www.amazon.es/dp/B07JN1YLGL/?tag=tolees-21) con un 34.70 % de descuento con precio de oferta de 19.59 EUR (original: 30 EUR) en el siguiente enlace!

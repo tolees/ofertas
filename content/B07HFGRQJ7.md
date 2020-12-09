@@ -14,7 +14,7 @@ currency: EUR
 price: 23
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Tommy Logo tee  Camiseta para Hombre  Gris  Cloud Htr 501  XX-Large
+prodname: 'Tommy Hilfiger Tommy Logo tee  Camiseta para Hombre  Gris  Cloud Htr 501  XX-Large'
 ---
 
 Está [Tommy Hilfiger Tommy Logo tee  Camiseta para Hombre  Gris  Cloud Htr 501  XX-Large](https://www.amazon.es/dp/B07HFGRQJ7/?tag=tolees-21) con 42.36 de descuento por 23 EUR (original: 39.9 EUR) en el siguiente enlace!

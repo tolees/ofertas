@@ -14,7 +14,7 @@ currency: EUR
 price: 23.33
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Dockers by Gerli 43ca301  Botas Militar para Mujer  Marrón  Dunkelbraun 380   40 EU
+prodname: 'Dockers by Gerli 43ca301  Botas Militar para Mujer  Marrón  Dunkelbraun 380   40 EU'
 ---
 
 Tienes [Dockers by Gerli 43ca301  Botas Militar para Mujer  Marrón  Dunkelbraun 380   40 EU](https://www.amazon.es/dp/B07DJL9NDH/?tag=tolees-21) con un 61.08 % de descuento con precio de oferta de 23.33 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.49
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Babylon Berlín T1+T2 [Blu-ray]
+prodname: 'Babylon Berlín T1+T2 [Blu-ray]'
 ---
 
 Está [Babylon Berlín T1+T2 [Blu-ray]](https://www.amazon.es/dp/B07YTCN76K/?tag=tolees-21) con 31.26 de descuento por 16.49 EUR (original: 23.99 EUR) en el siguiente enlace!

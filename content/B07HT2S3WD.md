@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: SIMPORDS Brazelete Abierto para Mujer Chapado en Oro Rosa Regalo Madre
+prodname: 'SIMPORDS Brazelete Abierto para Mujer Chapado en Oro Rosa Regalo Madre'
 ---
 
 Ahora mismo tienes [SIMPORDS Brazelete Abierto para Mujer Chapado en Oro Rosa Regalo Madre](https://www.amazon.es/dp/B07HT2S3WD/?tag=tolees-21) a 12.99 EUR (original: 99.99 EUR) (87.01 %  de descuento) en el siguiente enlace!

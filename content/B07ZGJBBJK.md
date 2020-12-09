@@ -14,7 +14,7 @@ currency: EUR
 price: 99.68
 comparePrice: 169.9 EUR
 inStock: true
-prodname: PRETTY SEE Depilacion Luz Pulsada  Maquina Laser Depilacion para Casa con más de 500 000 Pulsos  Depiladora Laser Permanente para Mujer y Hombre  Cuerpo  Bikini y Cara
+prodname: 'PRETTY SEE Depilacion Luz Pulsada  Maquina Laser Depilacion para Casa con más de 500 000 Pulsos  Depiladora Laser Permanente para Mujer y Hombre  Cuerpo  Bikini y Cara'
 ---
 
 Tienes [PRETTY SEE Depilacion Luz Pulsada  Maquina Laser Depilacion para Casa con más de 500 000 Pulsos  Depiladora Laser Permanente para Mujer y Hombre  Cuerpo  Bikini y Cara](https://www.amazon.es/dp/B07ZGJBBJK/?tag=tolees-21) con un 41.33 % de descuento con precio de oferta de 99.68 EUR (original: 169.9 EUR) en el siguiente enlace!

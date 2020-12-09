@@ -14,7 +14,7 @@ currency: EUR
 price: 68.0
 comparePrice: 133.18 EUR
 inStock: true
-prodname: Fossil Reloj de Pulsera AM4481
+prodname: 'Fossil Reloj de Pulsera AM4481'
 ---
 
 Está [Fossil Reloj de Pulsera AM4481](https://www.amazon.es/dp/B00BPJHJYK/?tag=tolees-21) con 48.94 de descuento por 68.0 EUR (original: 133.18 EUR) en el siguiente enlace!

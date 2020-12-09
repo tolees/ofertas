@@ -14,7 +14,7 @@ currency: EUR
 price: 7.82
 comparePrice: 13.49 EUR
 inStock: true
-prodname: Kingston DataTraveler 104  USB 2.0 Flash Drive 64 GB
+prodname: 'Kingston DataTraveler 104  USB 2.0 Flash Drive 64 GB'
 ---
 
 Está [Kingston DataTraveler 104  USB 2.0 Flash Drive 64 GB](https://www.amazon.es/dp/B07MWS6M2N/?tag=tolees-21) con 42.03 de descuento por 7.82 EUR (original: 13.49 EUR) en el siguiente enlace!

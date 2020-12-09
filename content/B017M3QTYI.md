@@ -14,7 +14,7 @@ currency: EUR
 price: 39.17
 comparePrice: 64.64 EUR
 inStock: true
-prodname: Mesko MS4403- Máquina de café
+prodname: 'Mesko MS4403- Máquina de café'
 ---
 
 Ahora mismo tienes [Mesko MS4403- Máquina de café](https://www.amazon.es/dp/B017M3QTYI/?tag=tolees-21) a 39.17 EUR (original: 64.64 EUR) (39.40 %  de descuento) en el siguiente enlace!

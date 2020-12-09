@@ -14,7 +14,7 @@ currency: EUR
 price: 59.5
 comparePrice: 119 EUR
 inStock: true
-prodname: DELSEY Paris U-Lite Classic 2 Equipaje de Mano  55 cm  39 Liters  Rojo  Rouge 
+prodname: 'DELSEY Paris U-Lite Classic 2 Equipaje de Mano  55 cm  39 Liters  Rojo  Rouge '
 ---
 
 Ahora mismo tienes [DELSEY Paris U-Lite Classic 2 Equipaje de Mano  55 cm  39 Liters  Rojo  Rouge ](https://www.amazon.es/dp/B01N20GECP/?tag=tolees-21) a 59.5 EUR (original: 119 EUR) (50.00 %  de descuento) en el siguiente enlace!

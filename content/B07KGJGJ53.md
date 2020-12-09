@@ -14,7 +14,7 @@ currency: EUR
 price: 8.2
 comparePrice: 17.95 EUR
 inStock: true
-prodname: Buff R-Yule Cinta de Pelo  Unisex Adulto  Seaport Blue  Talla única
+prodname: 'Buff R-Yule Cinta de Pelo  Unisex Adulto  Seaport Blue  Talla única'
 ---
 
 Ahora mismo tienes [Buff R-Yule Cinta de Pelo  Unisex Adulto  Seaport Blue  Talla única](https://www.amazon.es/dp/B07KGJGJ53/?tag=tolees-21) a 8.2 EUR (original: 17.95 EUR) (54.32 %  de descuento) en el siguiente enlace!

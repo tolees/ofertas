@@ -14,7 +14,7 @@ currency: EUR
 price: 179.0
 comparePrice: 349.0 EUR
 inStock: true
-prodname: De Longhi EO32752 Horno de sobremesa  2200 W  32 L  grill  convección  acero inoxidable  plástico  negro
+prodname: 'De Longhi EO32752 Horno de sobremesa  2200 W  32 L  grill  convección  acero inoxidable  plástico  negro'
 ---
 
 Está [De Longhi EO32752 Horno de sobremesa  2200 W  32 L  grill  convección  acero inoxidable  plástico  negro](https://www.amazon.es/dp/B00BJ08OIA/?tag=tolees-21) con 48.71 de descuento por 179.0 EUR (original: 349.0 EUR) en el siguiente enlace!

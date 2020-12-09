@@ -14,7 +14,7 @@ currency: EUR
 price: 59
 comparePrice: 120 EUR
 inStock: true
-prodname: LIZA LINE BAÚL de MADERA  Color Topo   Banco de Almacenamiento  Puff  Taburete
+prodname: 'LIZA LINE BAÚL de MADERA  Color Topo   Banco de Almacenamiento  Puff  Taburete'
 ---
 
 Está [LIZA LINE BAÚL de MADERA  Color Topo   Banco de Almacenamiento  Puff  Taburete](https://www.amazon.es/dp/B06XX1PZPF/?tag=tolees-21) con 50.83 de descuento por 59 EUR (original: 120 EUR) en el siguiente enlace!

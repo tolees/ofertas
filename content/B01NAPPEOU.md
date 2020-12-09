@@ -14,7 +14,7 @@ currency: EUR
 price: 8.95
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Tommy Hilfiger WW0WW17638  Camiseta sin Mangas Para Mujer  Multicolor  Snow White/lemon Meringue   X-Small
+prodname: 'Tommy Hilfiger WW0WW17638  Camiseta sin Mangas Para Mujer  Multicolor  Snow White/lemon Meringue   X-Small'
 ---
 
 Está [Tommy Hilfiger WW0WW17638  Camiseta sin Mangas Para Mujer  Multicolor  Snow White/lemon Meringue   X-Small](https://www.amazon.es/dp/B01NAPPEOU/?tag=tolees-21) con 82.06 de descuento por 8.95 EUR (original: 49.9 EUR) en el siguiente enlace!

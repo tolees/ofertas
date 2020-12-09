@@ -14,7 +14,7 @@ currency: EUR
 price: 133.45
 comparePrice: 189.0 EUR
 inStock: true
-prodname: Reloj analógico de cuarzo para hombre Tommy Hilfiger Trent 1791066  correa de piel marrón.
+prodname: 'Reloj analógico de cuarzo para hombre Tommy Hilfiger Trent 1791066  correa de piel marrón.'
 ---
 
 Ahora mismo tienes [Reloj analógico de cuarzo para hombre Tommy Hilfiger Trent 1791066  correa de piel marrón.](https://www.amazon.es/dp/B00MLYDJ10/?tag=tolees-21) a 133.45 EUR (original: 189.0 EUR) (29.39 %  de descuento) en el siguiente enlace!

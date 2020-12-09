@@ -14,7 +14,7 @@ currency: EUR
 price: 100.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Hugo BOSS - Reloj análogico de cuarzo con correa de cuero para hombre - 1513425
+prodname: 'Hugo BOSS - Reloj análogico de cuarzo con correa de cuero para hombre - 1513425'
 ---
 
 Ahora mismo tienes [Hugo BOSS - Reloj análogico de cuarzo con correa de cuero para hombre - 1513425](https://www.amazon.es/dp/B01M1FB1JX/?tag=tolees-21) a 100.0 EUR (original: 199.0 EUR) (49.75 %  de descuento) en el siguiente enlace!

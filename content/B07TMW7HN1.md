@@ -14,7 +14,7 @@ currency: EUR
 price: 29.7
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Clarks Griffin Lane  Zapatos de Cordones Brogue para Mujer  Negro  Black SDE Black SDE   41 EU
+prodname: 'Clarks Griffin Lane  Zapatos de Cordones Brogue para Mujer  Negro  Black SDE Black SDE   41 EU'
 ---
 
 Ahora mismo tienes [Clarks Griffin Lane  Zapatos de Cordones Brogue para Mujer  Negro  Black SDE Black SDE   41 EU](https://www.amazon.es/dp/B07TMW7HN1/?tag=tolees-21) a 29.7 EUR (original: 89.95 EUR) (66.98 %  de descuento) en el siguiente enlace!

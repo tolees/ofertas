@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 50.99 EUR
 inStock: true
-prodname: Awenia Tubos de Resistencia Bandas Elásticas de Resistencia Cintas de Entrenamiento con Agarres Conjunto de Gomas Elasticas de Fitness para Pilates Gimnasio Casa  150Ibs Total  11 Accesorios
+prodname: 'Awenia Tubos de Resistencia Bandas Elásticas de Resistencia Cintas de Entrenamiento con Agarres Conjunto de Gomas Elasticas de Fitness para Pilates Gimnasio Casa  150Ibs Total  11 Accesorios'
 ---
 
 Tienes [Awenia Tubos de Resistencia Bandas Elásticas de Resistencia Cintas de Entrenamiento con Agarres Conjunto de Gomas Elasticas de Fitness para Pilates Gimnasio Casa  150Ibs Total  11 Accesorios](https://www.amazon.es/dp/B07FFKG1PM/?tag=tolees-21) con un 47.07 % de descuento con precio de oferta de 26.99 EUR (original: 50.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7
 comparePrice: 14.9 EUR
 inStock: true
-prodname: Jason Bourne  BD  [Blu-ray]
+prodname: 'Jason Bourne  BD  [Blu-ray]'
 ---
 
 Ahora mismo tienes [Jason Bourne  BD  [Blu-ray]](https://www.amazon.es/dp/B01JA7UXOQ/?tag=tolees-21) a 7 EUR (original: 14.9 EUR) (53.02 %  de descuento) en el siguiente enlace!

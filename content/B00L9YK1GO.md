@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 23.59 EUR
 inStock: true
-prodname: TOPELEK Grabadora CD Externa  Lector de CD/DVD  Disco Identificación Automática  Reproductor CD/DVD para Windows Mac OS Laptop Macbook Air y Otros Sistemas Aspecto Clásico  Ligero y Portátil-Plata
+prodname: 'TOPELEK Grabadora CD Externa  Lector de CD/DVD  Disco Identificación Automática  Reproductor CD/DVD para Windows Mac OS Laptop Macbook Air y Otros Sistemas Aspecto Clásico  Ligero y Portátil-Plata'
 ---
 
 Ahora mismo tienes [TOPELEK Grabadora CD Externa  Lector de CD/DVD  Disco Identificación Automática  Reproductor CD/DVD para Windows Mac OS Laptop Macbook Air y Otros Sistemas Aspecto Clásico  Ligero y Portátil-Plata](https://www.amazon.es/dp/B00L9YK1GO/?tag=tolees-21) a 14.99 EUR (original: 23.59 EUR) (36.46 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15
 comparePrice: 25.38 EUR
 inStock: true
-prodname: Bestway - Nave Espacial X-Fighter Hinchable  91206 
+prodname: 'Bestway - Nave Espacial X-Fighter Hinchable  91206 '
 ---
 
 Ahora mismo tienes [Bestway - Nave Espacial X-Fighter Hinchable  91206 ](https://www.amazon.es/dp/B013YCASZC/?tag=tolees-21) a 15 EUR (original: 25.38 EUR) (40.90 %  de descuento) en el siguiente enlace!

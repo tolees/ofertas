@@ -14,7 +14,7 @@ currency: EUR
 price: 29.83
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Glove Echo  Zapatillas para Mujer  Verde  Khaki Suede-   39.5 EU
+prodname: 'Clarks Glove Echo  Zapatillas para Mujer  Verde  Khaki Suede-   39.5 EU'
 ---
 
 Está [Clarks Glove Echo  Zapatillas para Mujer  Verde  Khaki Suede-   39.5 EU](https://www.amazon.es/dp/B07FSF9JJ1/?tag=tolees-21) con 62.69 de descuento por 29.83 EUR (original: 79.95 EUR) en el siguiente enlace!

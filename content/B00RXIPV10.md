@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 44.0 EUR
 inStock: true
-prodname: Tefal Emotion - Sartén de aluminio de 30 cm  antiadherente Titanium Extra  exterior resistente en acero  aptas para todo tipo de cocinas incluido inducción
+prodname: 'Tefal Emotion - Sartén de aluminio de 30 cm  antiadherente Titanium Extra  exterior resistente en acero  aptas para todo tipo de cocinas incluido inducción'
 ---
 
 Tienes [Tefal Emotion - Sartén de aluminio de 30 cm  antiadherente Titanium Extra  exterior resistente en acero  aptas para todo tipo de cocinas incluido inducción](https://www.amazon.es/dp/B00RXIPV10/?tag=tolees-21) con un 43.20 % de descuento con precio de oferta de 24.99 EUR (original: 44.0 EUR) en el siguiente enlace!

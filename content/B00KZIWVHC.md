@@ -14,7 +14,7 @@ currency: EUR
 price: 43.73
 comparePrice: 110 EUR
 inStock: true
-prodname: Merrell Bare Access ARC 4  Zapatillas de Running para Asfalto para Mujer  Coral/Fuchsia  37 EU
+prodname: 'Merrell Bare Access ARC 4  Zapatillas de Running para Asfalto para Mujer  Coral/Fuchsia  37 EU'
 ---
 
 Está [Merrell Bare Access ARC 4  Zapatillas de Running para Asfalto para Mujer  Coral/Fuchsia  37 EU](https://www.amazon.es/dp/B00KZIWVHC/?tag=tolees-21) con 60.25 de descuento por 43.73 EUR (original: 110 EUR) en el siguiente enlace!

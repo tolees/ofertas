@@ -14,7 +14,7 @@ currency: EUR
 price: 26.98
 comparePrice: 54.0 EUR
 inStock: true
-prodname: Yishi Pendientes Elegante Gota de Agua Cristal Blanco Joya Original Regalo Mujer Chica con Cristal de Swarovski
+prodname: 'Yishi Pendientes Elegante Gota de Agua Cristal Blanco Joya Original Regalo Mujer Chica con Cristal de Swarovski'
 ---
 
 Ahora mismo tienes [Yishi Pendientes Elegante Gota de Agua Cristal Blanco Joya Original Regalo Mujer Chica con Cristal de Swarovski](https://www.amazon.es/dp/B07NHVCDHP/?tag=tolees-21) a 26.98 EUR (original: 54.0 EUR) (50.04 %  de descuento) en el siguiente enlace!

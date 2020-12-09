@@ -14,7 +14,7 @@ currency: EUR
 price: 16.92
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Celio Lessimmo  Polo para Hombre  Azul Navy  Small
+prodname: 'Celio Lessimmo  Polo para Hombre  Azul Navy  Small'
 ---
 
 Tienes [Celio Lessimmo  Polo para Hombre  Azul Navy  Small](https://www.amazon.es/dp/B07D5VPPW6/?tag=tolees-21) con un 52.99 % de descuento con precio de oferta de 16.92 EUR (original: 35.99 EUR) en el siguiente enlace!

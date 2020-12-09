@@ -14,7 +14,7 @@ currency: EUR
 price: 4.59
 comparePrice: 17.23 EUR
 inStock: true
-prodname: Star Wars Set 3 piezas  melamina  Stor 56790   22.1 x 11.7 x 6.9
+prodname: 'Star Wars Set 3 piezas  melamina  Stor 56790   22.1 x 11.7 x 6.9'
 ---
 
 Tienes [Star Wars Set 3 piezas  melamina  Stor 56790   22.1 x 11.7 x 6.9](https://www.amazon.es/dp/B00YUTT4LI/?tag=tolees-21) con un 73.36 % de descuento con precio de oferta de 4.59 EUR (original: 17.23 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.61
 comparePrice: 40.99 EUR
 inStock: true
-prodname: RoC - Concentrado rejuvenecedor anti-arrugas Pro-Correcto Intensivo - Todo tipo de piel - Reduce las líneas finas y arrugas - Retinol ROC® con ácido hialurónico - 30 ml
+prodname: 'RoC - Concentrado rejuvenecedor anti-arrugas Pro-Correcto Intensivo - Todo tipo de piel - Reduce las líneas finas y arrugas - Retinol ROC® con ácido hialurónico - 30 ml'
 ---
 
 Tienes [RoC - Concentrado rejuvenecedor anti-arrugas Pro-Correcto Intensivo - Todo tipo de piel - Reduce las líneas finas y arrugas - Retinol ROC® con ácido hialurónico - 30 ml](https://www.amazon.es/dp/B01CUEH0I8/?tag=tolees-21) con un 57.04 % de descuento con precio de oferta de 17.61 EUR (original: 40.99 EUR) en el siguiente enlace!

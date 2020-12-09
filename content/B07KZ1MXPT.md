@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Springfield 3.T.Ap.Plana Frontal Print Pañuelo Camiseta  Mujer  Azul  Gama Azules 19   One Size  Tamaño del Fabricante:XS 
+prodname: 'Springfield 3.T.Ap.Plana Frontal Print Pañuelo Camiseta  Mujer  Azul  Gama Azules 19   One Size  Tamaño del Fabricante:XS '
 ---
 
 Ahora mismo tienes [Springfield 3.T.Ap.Plana Frontal Print Pañuelo Camiseta  Mujer  Azul  Gama Azules 19   One Size  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07KZ1MXPT/?tag=tolees-21) a 9.99 EUR (original: 17.99 EUR) (44.47 %  de descuento) en el siguiente enlace!

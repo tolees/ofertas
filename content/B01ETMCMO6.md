@@ -14,7 +14,7 @@ currency: EUR
 price: 81.32
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Spiuk Trivium Triathlon Zapatilla  Unisex Adulto  Verde/Negro  46
+prodname: 'Spiuk Trivium Triathlon Zapatilla  Unisex Adulto  Verde/Negro  46'
 ---
 
 Está [Spiuk Trivium Triathlon Zapatilla  Unisex Adulto  Verde/Negro  46](https://www.amazon.es/dp/B01ETMCMO6/?tag=tolees-21) con 26.01 de descuento por 81.32 EUR (original: 109.9 EUR) en el siguiente enlace!

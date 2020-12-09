@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Lifewit Neceser Maquillaje 2 Pisos Bolso para Mujer Profesional Estuche Bolso de Maquillaje Bolsa de Cosméticos Organizador Portátil Funda de Viaje para Cosméticos Joyería/Labial/Cepillo de Sombra
+prodname: 'Lifewit Neceser Maquillaje 2 Pisos Bolso para Mujer Profesional Estuche Bolso de Maquillaje Bolsa de Cosméticos Organizador Portátil Funda de Viaje para Cosméticos Joyería/Labial/Cepillo de Sombra'
 ---
 
 Ahora mismo tienes [Lifewit Neceser Maquillaje 2 Pisos Bolso para Mujer Profesional Estuche Bolso de Maquillaje Bolsa de Cosméticos Organizador Portátil Funda de Viaje para Cosméticos Joyería/Labial/Cepillo de Sombra](https://www.amazon.es/dp/B07CMSBFYN/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

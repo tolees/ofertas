@@ -14,7 +14,7 @@ currency: EUR
 price: 23.38
 comparePrice: 43.71 EUR
 inStock: true
-prodname: Mantona Steady CAM - Estabilizador para cámaras Deportivas  Compatible con GoPro Hero
+prodname: 'Mantona Steady CAM - Estabilizador para cámaras Deportivas  Compatible con GoPro Hero'
 ---
 
 Ahora mismo tienes [Mantona Steady CAM - Estabilizador para cámaras Deportivas  Compatible con GoPro Hero](https://www.amazon.es/dp/B00M3SYNVO/?tag=tolees-21) a 23.38 EUR (original: 43.71 EUR) (46.51 %  de descuento) en el siguiente enlace!

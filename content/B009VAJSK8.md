@@ -14,7 +14,7 @@ currency: EUR
 price: 44.41
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Anita Active Momentum - Sujetador deportivo para mujer  Beige  Desert 753   105E EU
+prodname: 'Anita Active Momentum - Sujetador deportivo para mujer  Beige  Desert 753   105E EU'
 ---
 
 Tienes [Anita Active Momentum - Sujetador deportivo para mujer  Beige  Desert 753   105E EU](https://www.amazon.es/dp/B009VAJSK8/?tag=tolees-21) con un 25.92 % de descuento con precio de oferta de 44.41 EUR (original: 59.95 EUR) en el siguiente enlace!

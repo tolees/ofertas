@@ -14,7 +14,7 @@ currency: EUR
 price: 9.3
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Pecute Cepillo Perros y Gatos Peine para Mascotas Quitar y Remover el Pelo Muerto Carda con Púas Flexible de Acero Inoxidable para Desenredar y Peinar a Mascotas  Reduce 95% de Pelo Suelto Cómodo
+prodname: 'Pecute Cepillo Perros y Gatos Peine para Mascotas Quitar y Remover el Pelo Muerto Carda con Púas Flexible de Acero Inoxidable para Desenredar y Peinar a Mascotas  Reduce 95% de Pelo Suelto Cómodo'
 ---
 
 Está [Pecute Cepillo Perros y Gatos Peine para Mascotas Quitar y Remover el Pelo Muerto Carda con Púas Flexible de Acero Inoxidable para Desenredar y Peinar a Mascotas  Reduce 95% de Pelo Suelto Cómodo](https://www.amazon.es/dp/B01KMB5XPS/?tag=tolees-21) con 28.41 de descuento por 9.3 EUR (original: 12.99 EUR) en el siguiente enlace!

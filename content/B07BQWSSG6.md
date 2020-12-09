@@ -14,7 +14,7 @@ currency: EUR
 price: 22.98
 comparePrice: 80 EUR
 inStock: true
-prodname: New Balance Fresh Foam Zante Pursuit  Zapatillas Deportivas para Interior Unisex Niños  Negro  Black/Silver BK   37 EU
+prodname: 'New Balance Fresh Foam Zante Pursuit  Zapatillas Deportivas para Interior Unisex Niños  Negro  Black/Silver BK   37 EU'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Zante Pursuit  Zapatillas Deportivas para Interior Unisex Niños  Negro  Black/Silver BK   37 EU](https://www.amazon.es/dp/B07BQWSSG6/?tag=tolees-21) a 22.98 EUR (original: 80 EUR) (71.28 %  de descuento) en el siguiente enlace!

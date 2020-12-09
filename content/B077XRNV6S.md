@@ -14,7 +14,7 @@ currency: EUR
 price: 8.59
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour UA Stunt - Pantalón Corto para niño  Niños  1299989-489  Techno Teal/Deceit/Magma Orange  para jóvenes XL
+prodname: 'Under Armour UA Stunt - Pantalón Corto para niño  Niños  1299989-489  Techno Teal/Deceit/Magma Orange  para jóvenes XL'
 ---
 
 Ahora mismo tienes [Under Armour UA Stunt - Pantalón Corto para niño  Niños  1299989-489  Techno Teal/Deceit/Magma Orange  para jóvenes XL](https://www.amazon.es/dp/B077XRNV6S/?tag=tolees-21) a 8.59 EUR (original: 26 EUR) (66.96 %  de descuento) en el siguiente enlace!

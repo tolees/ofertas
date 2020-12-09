@@ -14,7 +14,7 @@ currency: EUR
 price: 34.6
 comparePrice: 53.52 EUR
 inStock: true
-prodname: Bresser Junior - Microscopio  40 x 640 x con iluminación LED con Funcionamiento con Pilas 
+prodname: 'Bresser Junior - Microscopio  40 x 640 x con iluminación LED con Funcionamiento con Pilas '
 ---
 
 Está [Bresser Junior - Microscopio  40 x 640 x con iluminación LED con Funcionamiento con Pilas ](https://www.amazon.es/dp/B07VTQ36XT/?tag=tolees-21) con 35.35 de descuento por 34.6 EUR (original: 53.52 EUR) en el siguiente enlace!

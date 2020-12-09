@@ -14,7 +14,7 @@ currency: EUR
 price: 26.77
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Gris  Anthracite/Anthracite/Black/Sail 001   40.5 EU
+prodname: 'Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Gris  Anthracite/Anthracite/Black/Sail 001   40.5 EU'
 ---
 
 Está [Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Gris  Anthracite/Anthracite/Black/Sail 001   40.5 EU](https://www.amazon.es/dp/B004HKM2AA/?tag=tolees-21) con 61.73 de descuento por 26.77 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3
 comparePrice: 11.95 EUR
 inStock: true
-prodname: Zuru - ZURU FIDGET CUBE Batman  ColorBaby 85168 
+prodname: 'Zuru - ZURU FIDGET CUBE Batman  ColorBaby 85168 '
 ---
 
 Ahora mismo tienes [Zuru - ZURU FIDGET CUBE Batman  ColorBaby 85168 ](https://www.amazon.es/dp/B075JLLLFC/?tag=tolees-21) a 3 EUR (original: 11.95 EUR) (74.90 %  de descuento) en el siguiente enlace!

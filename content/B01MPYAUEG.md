@@ -14,7 +14,7 @@ currency: EUR
 price: 60.97
 comparePrice: 195 EUR
 inStock: true
-prodname: Lacoste BF2288  Chaqueta para Mujer  Azul  Abyssal/Deauville    Talla del Fabricante: 38 
+prodname: 'Lacoste BF2288  Chaqueta para Mujer  Azul  Abyssal/Deauville    Talla del Fabricante: 38 '
 ---
 
 Tienes [Lacoste BF2288  Chaqueta para Mujer  Azul  Abyssal/Deauville    Talla del Fabricante: 38 ](https://www.amazon.es/dp/B01MPYAUEG/?tag=tolees-21) con un 68.73 % de descuento con precio de oferta de 60.97 EUR (original: 195 EUR) en el siguiente enlace!

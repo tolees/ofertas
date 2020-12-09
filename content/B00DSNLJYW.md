@@ -14,7 +14,7 @@ currency: EUR
 price: 39.97
 comparePrice: 77.43 EUR
 inStock: true
-prodname: SteelSeries Apex RAW  teclado para juegos  con retroiluminación blanca  17 Teclas Macro  Disposición Español QWERTY
+prodname: 'SteelSeries Apex RAW  teclado para juegos  con retroiluminación blanca  17 Teclas Macro  Disposición Español QWERTY'
 ---
 
 Está [SteelSeries Apex RAW  teclado para juegos  con retroiluminación blanca  17 Teclas Macro  Disposición Español QWERTY](https://www.amazon.es/dp/B00DSNLJYW/?tag=tolees-21) con 48.38 de descuento por 39.97 EUR (original: 77.43 EUR) en el siguiente enlace!

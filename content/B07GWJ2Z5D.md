@@ -14,7 +14,7 @@ currency: EUR
 price: 8.2
 comparePrice: 49.99 EUR
 inStock: true
-prodname: JACK & JONES PREMIUM Jprchelsea Check Shirt L/s Pre Au  Camisa Hombre   Oatmeal Checks:Slim Fit   Medium
+prodname: 'JACK & JONES PREMIUM Jprchelsea Check Shirt L/s Pre Au  Camisa Hombre   Oatmeal Checks:Slim Fit   Medium'
 ---
 
 Está [JACK & JONES PREMIUM Jprchelsea Check Shirt L/s Pre Au  Camisa Hombre   Oatmeal Checks:Slim Fit   Medium](https://www.amazon.es/dp/B07GWJ2Z5D/?tag=tolees-21) con 83.60 de descuento por 8.2 EUR (original: 49.99 EUR) en el siguiente enlace!

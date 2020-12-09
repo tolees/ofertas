@@ -14,7 +14,7 @@ currency: EUR
 price: 51.73
 comparePrice: 80 EUR
 inStock: true
-prodname: New Balance 420  Zapatillas Unisex Adulto  Gris  Marblehead/Moroccan Tile Mmt   44.5 EU
+prodname: 'New Balance 420  Zapatillas Unisex Adulto  Gris  Marblehead/Moroccan Tile Mmt   44.5 EU'
 ---
 
 Está [New Balance 420  Zapatillas Unisex Adulto  Gris  Marblehead/Moroccan Tile Mmt   44.5 EU](https://www.amazon.es/dp/B07BL2MH9V/?tag=tolees-21) con 35.34 de descuento por 51.73 EUR (original: 80 EUR) en el siguiente enlace!

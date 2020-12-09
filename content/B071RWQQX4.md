@@ -14,7 +14,7 @@ currency: EUR
 price: 34.17
 comparePrice: 128 EUR
 inStock: true
-prodname: Calvin Klein Volise Velvet  Botas para Mujer  Negro  Black   40 EU
+prodname: 'Calvin Klein Volise Velvet  Botas para Mujer  Negro  Black   40 EU'
 ---
 
 Ahora mismo tienes [Calvin Klein Volise Velvet  Botas para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B071RWQQX4/?tag=tolees-21) a 34.17 EUR (original: 128 EUR) (73.30 %  de descuento) en el siguiente enlace!

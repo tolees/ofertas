@@ -14,7 +14,7 @@ currency: EUR
 price: 22.24
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Bugatti 411434603400  Bailarinas para Mujer  Rosa  Rose   39 EU
+prodname: 'Bugatti 411434603400  Bailarinas para Mujer  Rosa  Rose   39 EU'
 ---
 
 Ahora mismo tienes [Bugatti 411434603400  Bailarinas para Mujer  Rosa  Rose   39 EU](https://www.amazon.es/dp/B0761XGGPF/?tag=tolees-21) a 22.24 EUR (original: 79.95 EUR) (72.18 %  de descuento) en el siguiente enlace!

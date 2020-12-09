@@ -14,7 +14,7 @@ currency: EUR
 price: 26.12
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 86070  Bolso de mano para Mujer   Negro   22x22x3 cm  W x H x L 
+prodname: 'XTI 86070  Bolso de mano para Mujer   Negro   22x22x3 cm  W x H x L '
 ---
 
 Tienes [XTI 86070  Bolso de mano para Mujer   Negro   22x22x3 cm  W x H x L ](https://www.amazon.es/dp/B07JKVWQF9/?tag=tolees-21) con un 47.71 % de descuento con precio de oferta de 26.12 EUR (original: 49.95 EUR) en el siguiente enlace!

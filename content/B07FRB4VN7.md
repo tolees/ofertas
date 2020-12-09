@@ -14,7 +14,7 @@ currency: EUR
 price: 15.01
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Vero Moda Vmalia Cable LS O-Neck Blouse Boo  suéter para Mujer  Rosa Misty Rose  38  Talla del Fabricante: Small 
+prodname: 'Vero Moda Vmalia Cable LS O-Neck Blouse Boo  suéter para Mujer  Rosa Misty Rose  38  Talla del Fabricante: Small '
 ---
 
 Está [Vero Moda Vmalia Cable LS O-Neck Blouse Boo  suéter para Mujer  Rosa Misty Rose  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07FRB4VN7/?tag=tolees-21) con 49.95 de descuento por 15.01 EUR (original: 29.99 EUR) en el siguiente enlace!

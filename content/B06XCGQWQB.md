@@ -14,7 +14,7 @@ currency: EUR
 price: 59.97
 comparePrice: 119.95 EUR
 inStock: true
-prodname: G-Star Raw 3301 Straight Jeans  Vaqueros para Hombre  Azul  Dk Aged 8595-89   W28/L30
+prodname: 'G-Star Raw 3301 Straight Jeans  Vaqueros para Hombre  Azul  Dk Aged 8595-89   W28/L30'
 ---
 
 Está [G-Star Raw 3301 Straight Jeans  Vaqueros para Hombre  Azul  Dk Aged 8595-89   W28/L30](https://www.amazon.es/dp/B06XCGQWQB/?tag=tolees-21) con 50.00 de descuento por 59.97 EUR (original: 119.95 EUR) en el siguiente enlace!

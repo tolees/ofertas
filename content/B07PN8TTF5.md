@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 65.99 EUR
 inStock: true
-prodname: Grabadora de Voz BENJIE 16G Grabador de Audio con Sonido Activado  Grabadora de Voz Espia con Soporte de Micrófono Doble Tarjeta TF 32G Ampliar para Conferencias Reuniones Entrevistas Clase
+prodname: 'Grabadora de Voz BENJIE 16G Grabador de Audio con Sonido Activado  Grabadora de Voz Espia con Soporte de Micrófono Doble Tarjeta TF 32G Ampliar para Conferencias Reuniones Entrevistas Clase'
 ---
 
 Ahora mismo tienes [Grabadora de Voz BENJIE 16G Grabador de Audio con Sonido Activado  Grabadora de Voz Espia con Soporte de Micrófono Doble Tarjeta TF 32G Ampliar para Conferencias Reuniones Entrevistas Clase](https://www.amazon.es/dp/B07PN8TTF5/?tag=tolees-21) a 32.99 EUR (original: 65.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 100.95
 comparePrice: 140 EUR
 inStock: true
-prodname: Armani Exchange 8nze74 Chaqueta Punto  Azul  Navy 1510   Small para Hombre
+prodname: 'Armani Exchange 8nze74 Chaqueta Punto  Azul  Navy 1510   Small para Hombre'
 ---
 
 Ahora mismo tienes [Armani Exchange 8nze74 Chaqueta Punto  Azul  Navy 1510   Small para Hombre](https://www.amazon.es/dp/B07D1YPJS5/?tag=tolees-21) a 100.95 EUR (original: 140 EUR) (27.89 %  de descuento) en el siguiente enlace!

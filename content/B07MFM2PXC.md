@@ -14,7 +14,7 @@ currency: EUR
 price: 77.95
 comparePrice: 130.0 EUR
 inStock: true
-prodname: Clarks Un Larvik Peak  Botas clásicas. para Hombre  Piel Negra Negra  43 EU
+prodname: 'Clarks Un Larvik Peak  Botas clásicas. para Hombre  Piel Negra Negra  43 EU'
 ---
 
 Ahora mismo tienes [Clarks Un Larvik Peak  Botas clásicas. para Hombre  Piel Negra Negra  43 EU](https://www.amazon.es/dp/B07MFM2PXC/?tag=tolees-21) a 77.95 EUR (original: 130.0 EUR) (40.04 %  de descuento) en el siguiente enlace!

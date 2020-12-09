@@ -14,7 +14,7 @@ currency: EUR
 price: 499.0
 comparePrice: 849.0 EUR
 inStock: true
-prodname: Fujifilm X-T200 - Kit cámara con Objetivo Intercambiable XC15-45/3.5-5.6 PZ  Color Negro
+prodname: 'Fujifilm X-T200 - Kit cámara con Objetivo Intercambiable XC15-45/3.5-5.6 PZ  Color Negro'
 ---
 
 Ahora mismo tienes [Fujifilm X-T200 - Kit cámara con Objetivo Intercambiable XC15-45/3.5-5.6 PZ  Color Negro](https://www.amazon.es/dp/B08LKY1RKX/?tag=tolees-21) a 499.0 EUR (original: 849.0 EUR) (41.22 %  de descuento) en el siguiente enlace!

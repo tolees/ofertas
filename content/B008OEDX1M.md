@@ -14,7 +14,7 @@ currency: EUR
 price: 2.13
 comparePrice: 3.15 EUR
 inStock: true
-prodname: TESA TAPE 14020002 Pegamento Supergen Clasico 40 ml
+prodname: 'TESA TAPE 14020002 Pegamento Supergen Clasico 40 ml'
 ---
 
 Está [TESA TAPE 14020002 Pegamento Supergen Clasico 40 ml](https://www.amazon.es/dp/B008OEDX1M/?tag=tolees-21) con 32.38 de descuento por 2.13 EUR (original: 3.15 EUR) en el siguiente enlace!

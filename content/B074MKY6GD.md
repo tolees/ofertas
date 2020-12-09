@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 23.9 EUR
 inStock: true
-prodname: Havaianas Brasil Logo Chanclas Unisex adulto  Amarillo  Banana Yellow   37/38 EU
+prodname: 'Havaianas Brasil Logo Chanclas Unisex adulto  Amarillo  Banana Yellow   37/38 EU'
 ---
 
 Tienes [Havaianas Brasil Logo Chanclas Unisex adulto  Amarillo  Banana Yellow   37/38 EU](https://www.amazon.es/dp/B074MKY6GD/?tag=tolees-21) con un 33.10 % de descuento con precio de oferta de 15.99 EUR (original: 23.9 EUR) en el siguiente enlace!

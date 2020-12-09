@@ -14,7 +14,7 @@ currency: EUR
 price: 109.51
 comparePrice: 152.05 EUR
 inStock: true
-prodname: Oral-B Genius 9000N Cepillo de Dientes Eléctrico Tecnología Braun  Rosa Oro
+prodname: 'Oral-B Genius 9000N Cepillo de Dientes Eléctrico Tecnología Braun  Rosa Oro'
 ---
 
 Tienes [Oral-B Genius 9000N Cepillo de Dientes Eléctrico Tecnología Braun  Rosa Oro](https://www.amazon.es/dp/B071HY2FHN/?tag=tolees-21) con un 27.98 % de descuento con precio de oferta de 109.51 EUR (original: 152.05 EUR) en el siguiente enlace!

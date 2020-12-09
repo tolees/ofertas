@@ -14,7 +14,7 @@ currency: EUR
 price: 19.78
 comparePrice: 56.89 EUR
 inStock: true
-prodname: IIIIS-F Zapatillas Hombre Zapatillas Running Hombre Zapatillas Deportivas Hombre de Cordones en Gimnasio
+prodname: 'IIIIS-F Zapatillas Hombre Zapatillas Running Hombre Zapatillas Deportivas Hombre de Cordones en Gimnasio'
 ---
 
 Está [IIIIS-F Zapatillas Hombre Zapatillas Running Hombre Zapatillas Deportivas Hombre de Cordones en Gimnasio](https://www.amazon.es/dp/B077BMDVKD/?tag=tolees-21) con 65.23 de descuento por 19.78 EUR (original: 56.89 EUR) en el siguiente enlace!

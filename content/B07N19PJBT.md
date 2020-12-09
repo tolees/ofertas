@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Lee Jeans Logo tee  Camiseta para Hombre  Azul  Midnight Navy Ma   XX-Large
+prodname: 'Lee Jeans Logo tee  Camiseta para Hombre  Azul  Midnight Navy Ma   XX-Large'
 ---
 
 Tienes [Lee Jeans Logo tee  Camiseta para Hombre  Azul  Midnight Navy Ma   XX-Large](https://www.amazon.es/dp/B07N19PJBT/?tag=tolees-21) con un 56.63 % de descuento con precio de oferta de 12.99 EUR (original: 29.95 EUR) en el siguiente enlace!

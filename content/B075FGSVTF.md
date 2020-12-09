@@ -14,7 +14,7 @@ currency: EUR
 price: 617.34
 comparePrice: 899.0 EUR
 inStock: true
-prodname: Olympus OM-D E-M10 Mark III Kit  Cámara de Sistema Micro 4/3  16 MP  Estabilizador de Imagen de 5 Ejes  Visor Electrónico  + Objetivo M.Zuiko 14-42mm EZ Zoom + M.Zuiko 40-150mm Telezoom  negro
+prodname: 'Olympus OM-D E-M10 Mark III Kit  Cámara de Sistema Micro 4/3  16 MP  Estabilizador de Imagen de 5 Ejes  Visor Electrónico  + Objetivo M.Zuiko 14-42mm EZ Zoom + M.Zuiko 40-150mm Telezoom  negro'
 ---
 
 Está [Olympus OM-D E-M10 Mark III Kit  Cámara de Sistema Micro 4/3  16 MP  Estabilizador de Imagen de 5 Ejes  Visor Electrónico  + Objetivo M.Zuiko 14-42mm EZ Zoom + M.Zuiko 40-150mm Telezoom  negro](https://www.amazon.es/dp/B075FGSVTF/?tag=tolees-21) con 31.33 de descuento por 617.34 EUR (original: 899.0 EUR) en el siguiente enlace!

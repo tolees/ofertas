@@ -14,7 +14,7 @@ currency: EUR
 price: 13.84
 comparePrice: 31.74 EUR
 inStock: true
-prodname: NIVEA Visage Tónico Refrescante para Pieles Normales y Mixtas - 200 ml - 6 unidades
+prodname: 'NIVEA Visage Tónico Refrescante para Pieles Normales y Mixtas - 200 ml - 6 unidades'
 ---
 
 Tienes [NIVEA Visage Tónico Refrescante para Pieles Normales y Mixtas - 200 ml - 6 unidades](https://www.amazon.es/dp/B07GSFWXDS/?tag=tolees-21) con un 56.40 % de descuento con precio de oferta de 13.84 EUR (original: 31.74 EUR) en el siguiente enlace!

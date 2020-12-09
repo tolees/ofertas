@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: BANLVS Smartwatch  Reloj Inteligente Mujer Hombre con Correa Repuesta  Smartwatch Impermeable IP67 con Monitor de Sueño Contador de Caloría Pulsómetros Podómetro para Android iOS
+prodname: 'BANLVS Smartwatch  Reloj Inteligente Mujer Hombre con Correa Repuesta  Smartwatch Impermeable IP67 con Monitor de Sueño Contador de Caloría Pulsómetros Podómetro para Android iOS'
 ---
 
 Ahora mismo tienes [BANLVS Smartwatch  Reloj Inteligente Mujer Hombre con Correa Repuesta  Smartwatch Impermeable IP67 con Monitor de Sueño Contador de Caloría Pulsómetros Podómetro para Android iOS](https://www.amazon.es/dp/B08HLJL2DK/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.94
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Basket Crush Wn s  Zapatillas Mujer  Blanco White-Hibiscus  40.5 EU
+prodname: 'Puma Basket Crush Wn s  Zapatillas Mujer  Blanco White-Hibiscus  40.5 EU'
 ---
 
 Tienes [Puma Basket Crush Wn s  Zapatillas Mujer  Blanco White-Hibiscus  40.5 EU](https://www.amazon.es/dp/B07FPV2DL4/?tag=tolees-21) con un 75.61 % de descuento con precio de oferta de 21.94 EUR (original: 89.95 EUR) en el siguiente enlace!

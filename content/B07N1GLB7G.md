@@ -14,7 +14,7 @@ currency: EUR
 price: 61.52
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Clarks Un Rio Lace  Zapatillas  Negro  Black Leather Black Leather   42 EU
+prodname: 'Clarks Un Rio Lace  Zapatillas  Negro  Black Leather Black Leather   42 EU'
 ---
 
 Está [Clarks Un Rio Lace  Zapatillas  Negro  Black Leather Black Leather   42 EU](https://www.amazon.es/dp/B07N1GLB7G/?tag=tolees-21) con 44.07 de descuento por 61.52 EUR (original: 110.0 EUR) en el siguiente enlace!

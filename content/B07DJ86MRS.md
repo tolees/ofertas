@@ -14,7 +14,7 @@ currency: EUR
 price: 6.81
 comparePrice: 25.95 EUR
 inStock: true
-prodname: United Colors of Benetton Dress Vestido  Turquesa  Turquoise 69e   98  Talla del Fabricante: 2y  para Niñas
+prodname: 'United Colors of Benetton Dress Vestido  Turquesa  Turquoise 69e   98  Talla del Fabricante: 2y  para Niñas'
 ---
 
 Ahora mismo tienes [United Colors of Benetton Dress Vestido  Turquesa  Turquoise 69e   98  Talla del Fabricante: 2y  para Niñas](https://www.amazon.es/dp/B07DJ86MRS/?tag=tolees-21) a 6.81 EUR (original: 25.95 EUR) (73.76 %  de descuento) en el siguiente enlace!

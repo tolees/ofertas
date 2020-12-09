@@ -14,7 +14,7 @@ currency: EUR
 price: 27.41
 comparePrice: 39.95 EUR
 inStock: true
-prodname: BLACK+DECKER CS3652LC-QW - Atornillador de 3.6V  5.5 Nm  con cabezal de angulo recto
+prodname: 'BLACK+DECKER CS3652LC-QW - Atornillador de 3.6V  5.5 Nm  con cabezal de angulo recto'
 ---
 
 Ahora mismo tienes [BLACK+DECKER CS3652LC-QW - Atornillador de 3.6V  5.5 Nm  con cabezal de angulo recto](https://www.amazon.es/dp/B00VVLBOCA/?tag=tolees-21) a 27.41 EUR (original: 39.95 EUR) (31.39 %  de descuento) en el siguiente enlace!

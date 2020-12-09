@@ -14,7 +14,7 @@ currency: EUR
 price: 26
 comparePrice: 59 EUR
 inStock: true
-prodname: El Ganso Oxford Bandera Camisa Casual  Hombre  Azul  Celeste 11   Large  Tamaño del Fabricante:L 
+prodname: 'El Ganso Oxford Bandera Camisa Casual  Hombre  Azul  Celeste 11   Large  Tamaño del Fabricante:L '
 ---
 
 Está [El Ganso Oxford Bandera Camisa Casual  Hombre  Azul  Celeste 11   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07GCHGJ82/?tag=tolees-21) con 55.93 de descuento por 26 EUR (original: 59 EUR) en el siguiente enlace!

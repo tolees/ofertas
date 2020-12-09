@@ -14,7 +14,7 @@ currency: EUR
 price: 71.45
 comparePrice: 131.16 EUR
 inStock: true
-prodname: Replay Anbass  Jeans Hombre  Azul  Blue Denim   W33/L32  Talla del fabricante: 33 
+prodname: 'Replay Anbass  Jeans Hombre  Azul  Blue Denim   W33/L32  Talla del fabricante: 33 '
 ---
 
 Ahora mismo tienes [Replay Anbass  Jeans Hombre  Azul  Blue Denim   W33/L32  Talla del fabricante: 33 ](https://www.amazon.es/dp/B01MXL47TO/?tag=tolees-21) a 71.45 EUR (original: 131.16 EUR) (45.52 %  de descuento) en el siguiente enlace!

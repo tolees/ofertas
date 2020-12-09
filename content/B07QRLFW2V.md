@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 14.94 EUR
 inStock: true
-prodname: Rexona Invisible Aqua Antitranspirante Aerosol para Mujer Antimanchas  0% Alcohol 200 ml - Pack de 6 x 200 ml  Total 1200 ml
+prodname: 'Rexona Invisible Aqua Antitranspirante Aerosol para Mujer Antimanchas  0% Alcohol 200 ml - Pack de 6 x 200 ml  Total 1200 ml'
 ---
 
 Ahora mismo tienes [Rexona Invisible Aqua Antitranspirante Aerosol para Mujer Antimanchas  0% Alcohol 200 ml - Pack de 6 x 200 ml  Total 1200 ml](https://www.amazon.es/dp/B07QRLFW2V/?tag=tolees-21) a 9.99 EUR (original: 14.94 EUR) (33.13 %  de descuento) en el siguiente enlace!

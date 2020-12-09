@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 50 EUR
 inStock: true
-prodname: Bikini Mujer Push-up con Acolchado Bra Trajes de baño Dos Piezas Color Vario con Talla Grande1470 Amarillo Large
+prodname: 'Bikini Mujer Push-up con Acolchado Bra Trajes de baño Dos Piezas Color Vario con Talla Grande1470 Amarillo Large'
 ---
 
 Ahora mismo tienes [Bikini Mujer Push-up con Acolchado Bra Trajes de baño Dos Piezas Color Vario con Talla Grande1470 Amarillo Large](https://www.amazon.es/dp/B07RYJS71K/?tag=tolees-21) a 15.99 EUR (original: 50 EUR) (68.02 %  de descuento) en el siguiente enlace!

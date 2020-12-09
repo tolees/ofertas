@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 16.7 EUR
 inStock: true
-prodname: Luanvi Gama Polo  Hombre  Negro  S
+prodname: 'Luanvi Gama Polo  Hombre  Negro  S'
 ---
 
 Ahora mismo tienes [Luanvi Gama Polo  Hombre  Negro  S](https://www.amazon.es/dp/B06XHKTKQZ/?tag=tolees-21) a 4.99 EUR (original: 16.7 EUR) (70.12 %  de descuento) en el siguiente enlace!

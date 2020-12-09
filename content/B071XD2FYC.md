@@ -14,7 +14,7 @@ currency: EUR
 price: 6.92
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Funko Pop!- Motu S2: Evelyn Figura de Vinilo  21811 
+prodname: 'Funko Pop!- Motu S2: Evelyn Figura de Vinilo  21811 '
 ---
 
 Está [Funko Pop!- Motu S2: Evelyn Figura de Vinilo  21811 ](https://www.amazon.es/dp/B071XD2FYC/?tag=tolees-21) con 56.61 de descuento por 6.92 EUR (original: 15.95 EUR) en el siguiente enlace!

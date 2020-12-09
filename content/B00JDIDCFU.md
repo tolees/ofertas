@@ -14,7 +14,7 @@ currency: EUR
 price: 150.0
 comparePrice: 249.0 EUR
 inStock: true
-prodname: Nissin Digital NFG013C - Flash con zapata para DSLR Canon  negro
+prodname: 'Nissin Digital NFG013C - Flash con zapata para DSLR Canon  negro'
 ---
 
 Tienes [Nissin Digital NFG013C - Flash con zapata para DSLR Canon  negro](https://www.amazon.es/dp/B00JDIDCFU/?tag=tolees-21) con un 39.76 % de descuento con precio de oferta de 150.0 EUR (original: 249.0 EUR) en el siguiente enlace!

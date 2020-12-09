@@ -14,7 +14,7 @@ currency: EUR
 price: 32.53
 comparePrice: 60 EUR
 inStock: true
-prodname: Nike Court Suede  Zapatillas de Gimnasia para Hombre  Azul Deep Royal Blue/Black 405  47.5 EU
+prodname: 'Nike Court Suede  Zapatillas de Gimnasia para Hombre  Azul Deep Royal Blue/Black 405  47.5 EU'
 ---
 
 Está [Nike Court Suede  Zapatillas de Gimnasia para Hombre  Azul Deep Royal Blue/Black 405  47.5 EU](https://www.amazon.es/dp/B07JNCDDS4/?tag=tolees-21) con 45.78 de descuento por 32.53 EUR (original: 60 EUR) en el siguiente enlace!

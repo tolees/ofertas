@@ -14,7 +14,7 @@ currency: EUR
 price: 15.91
 comparePrice: 23.61 EUR
 inStock: true
-prodname: STANLEY FATMAX FMHT0-75081 - Llave ajustable FatMax demolición 4 en 1  250mm
+prodname: 'STANLEY FATMAX FMHT0-75081 - Llave ajustable FatMax demolición 4 en 1  250mm'
 ---
 
 Está [STANLEY FATMAX FMHT0-75081 - Llave ajustable FatMax demolición 4 en 1  250mm](https://www.amazon.es/dp/B01MQGV9TW/?tag=tolees-21) con 32.61 de descuento por 15.91 EUR (original: 23.61 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Razer Goliathus Control Fissure Extended - Suave alfombrilla de ratón para juegos
+prodname: 'Razer Goliathus Control Fissure Extended - Suave alfombrilla de ratón para juegos'
 ---
 
 Está [Razer Goliathus Control Fissure Extended - Suave alfombrilla de ratón para juegos](https://www.amazon.es/dp/B01LQ4BMDM/?tag=tolees-21) con 37.51 de descuento por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

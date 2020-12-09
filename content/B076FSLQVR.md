@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Jurassic World- Mosaurus Dinosaurio de Juguete  Multicolor  Mattel FNG24 
+prodname: 'Jurassic World- Mosaurus Dinosaurio de Juguete  Multicolor  Mattel FNG24 '
 ---
 
 Tienes [Jurassic World- Mosaurus Dinosaurio de Juguete  Multicolor  Mattel FNG24 ](https://www.amazon.es/dp/B076FSLQVR/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

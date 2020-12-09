@@ -14,7 +14,7 @@ currency: EUR
 price: 51.97
 comparePrice: 70.99 EUR
 inStock: true
-prodname: Philips SoniCare Healthy White HX6711/02 - Cepillo de Dientes Electrico Recargable  2 Modos  1 Cabezales  Cargador  Color Verde
+prodname: 'Philips SoniCare Healthy White HX6711/02 - Cepillo de Dientes Electrico Recargable  2 Modos  1 Cabezales  Cargador  Color Verde'
 ---
 
 Está [Philips SoniCare Healthy White HX6711/02 - Cepillo de Dientes Electrico Recargable  2 Modos  1 Cabezales  Cargador  Color Verde](https://www.amazon.es/dp/B01LLH69KK/?tag=tolees-21) con 26.79 de descuento por 51.97 EUR (original: 70.99 EUR) en el siguiente enlace!

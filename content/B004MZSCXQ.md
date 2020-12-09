@@ -14,7 +14,7 @@ currency: EUR
 price: 15.71
 comparePrice: 30 EUR
 inStock: true
-prodname: Nuxe Reve de Miel Crema Facial Ultra-Reconfortante  50ML
+prodname: 'Nuxe Reve de Miel Crema Facial Ultra-Reconfortante  50ML'
 ---
 
 Tienes [Nuxe Reve de Miel Crema Facial Ultra-Reconfortante  50ML](https://www.amazon.es/dp/B004MZSCXQ/?tag=tolees-21) con un 47.63 % de descuento con precio de oferta de 15.71 EUR (original: 30 EUR) en el siguiente enlace!

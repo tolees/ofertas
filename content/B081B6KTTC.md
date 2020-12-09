@@ -14,7 +14,7 @@ currency: EUR
 price: 15.44
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Columbia Firwood Camp II  Polo  Mujer  Azul  Nocturnal Small Stripe   S
+prodname: 'Columbia Firwood Camp II  Polo  Mujer  Azul  Nocturnal Small Stripe   S'
 ---
 
 Tienes [Columbia Firwood Camp II  Polo  Mujer  Azul  Nocturnal Small Stripe   S](https://www.amazon.es/dp/B081B6KTTC/?tag=tolees-21) con un 61.39 % de descuento con precio de oferta de 15.44 EUR (original: 39.99 EUR) en el siguiente enlace!

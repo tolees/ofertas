@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 22 EUR
 inStock: true
-prodname: Umbro Freedom Chaqueta  Hombre  Azul Marino Oscuro  L
+prodname: 'Umbro Freedom Chaqueta  Hombre  Azul Marino Oscuro  L'
 ---
 
 Está [Umbro Freedom Chaqueta  Hombre  Azul Marino Oscuro  L](https://www.amazon.es/dp/B01MQGT1ZN/?tag=tolees-21) con 32.05 de descuento por 14.95 EUR (original: 22 EUR) en el siguiente enlace!

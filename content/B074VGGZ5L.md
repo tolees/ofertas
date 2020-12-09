@@ -14,7 +14,7 @@ currency: EUR
 price: 2.92
 comparePrice: 12.94 EUR
 inStock: true
-prodname: Vallejo 17 ml"AV meca color acrílico aerógrafo color – verde fluorescente
+prodname: 'Vallejo 17 ml"AV meca color acrílico aerógrafo color – verde fluorescente'
 ---
 
 Ahora mismo tienes [Vallejo 17 ml"AV meca color acrílico aerógrafo color – verde fluorescente](https://www.amazon.es/dp/B074VGGZ5L/?tag=tolees-21) a 2.92 EUR (original: 12.94 EUR) (77.43 %  de descuento) en el siguiente enlace!

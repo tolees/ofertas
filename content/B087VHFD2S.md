@@ -14,7 +14,7 @@ currency: EUR
 price: 90.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Powder Lite Chaqueta para Hombre  Gris  Nimbus Grey  City Grey   L
+prodname: 'Columbia Powder Lite Chaqueta para Hombre  Gris  Nimbus Grey  City Grey   L'
 ---
 
 Está [Columbia Powder Lite Chaqueta para Hombre  Gris  Nimbus Grey  City Grey   L](https://www.amazon.es/dp/B087VHFD2S/?tag=tolees-21) con 30.00 de descuento por 90.99 EUR (original: 129.99 EUR) en el siguiente enlace!

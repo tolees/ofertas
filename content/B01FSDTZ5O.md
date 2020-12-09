@@ -14,7 +14,7 @@ currency: EUR
 price: 34.52
 comparePrice: 100 EUR
 inStock: true
-prodname: New Balance 720v4  Zapatillas Deportivas para Interior Hombre  Gris  Thunder/Alpha Orange   42.5 EU
+prodname: 'New Balance 720v4  Zapatillas Deportivas para Interior Hombre  Gris  Thunder/Alpha Orange   42.5 EU'
 ---
 
 Ahora mismo tienes [New Balance 720v4  Zapatillas Deportivas para Interior Hombre  Gris  Thunder/Alpha Orange   42.5 EU](https://www.amazon.es/dp/B01FSDTZ5O/?tag=tolees-21) a 34.52 EUR (original: 100 EUR) (65.48 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.2
 comparePrice: 6.0 EUR
 inStock: true
-prodname: Q Connect KF01087 - Papel para impresora de tinta A4  Blanco  Paquete de 1 x 500 hojas
+prodname: 'Q Connect KF01087 - Papel para impresora de tinta A4  Blanco  Paquete de 1 x 500 hojas'
 ---
 
 Ahora mismo tienes [Q Connect KF01087 - Papel para impresora de tinta A4  Blanco  Paquete de 1 x 500 hojas](https://www.amazon.es/dp/B005VMV6DM/?tag=tolees-21) a 4.2 EUR (original: 6.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Amarillo Wheat Nubuck  42 EU
+prodname: 'Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Amarillo Wheat Nubuck  42 EU'
 ---
 
 Tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Amarillo Wheat Nubuck  42 EU](https://www.amazon.es/dp/B01M25TDER/?tag=tolees-21) con un 35.72 % de descuento con precio de oferta de 89.99 EUR (original: 140.0 EUR) en el siguiente enlace!

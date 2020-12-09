@@ -14,7 +14,7 @@ currency: EUR
 price: 79.0
 comparePrice: 113.42 EUR
 inStock: true
-prodname: MVMT Reloj Analógico para Hombre de Cuarzo con Correa en Cuero D-MT01-GML
+prodname: 'MVMT Reloj Analógico para Hombre de Cuarzo con Correa en Cuero D-MT01-GML'
 ---
 
 Ahora mismo tienes [MVMT Reloj Analógico para Hombre de Cuarzo con Correa en Cuero D-MT01-GML](https://www.amazon.es/dp/B07FD5B9TC/?tag=tolees-21) a 79.0 EUR (original: 113.42 EUR) (30.35 %  de descuento) en el siguiente enlace!

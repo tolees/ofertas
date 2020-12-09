@@ -14,7 +14,7 @@ currency: EUR
 price: 51.6
 comparePrice: 70.0 EUR
 inStock: true
-prodname: CAMPER Wabi  Damen Flache Hausschuhe  Grau  Dark Gray 061   37 EU  4 UK 
+prodname: 'CAMPER Wabi  Damen Flache Hausschuhe  Grau  Dark Gray 061   37 EU  4 UK '
 ---
 
 Está [CAMPER Wabi  Damen Flache Hausschuhe  Grau  Dark Gray 061   37 EU  4 UK ](https://www.amazon.es/dp/B01C7OW6FS/?tag=tolees-21) con 26.29 de descuento por 51.6 EUR (original: 70.0 EUR) en el siguiente enlace!

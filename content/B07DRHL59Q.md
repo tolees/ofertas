@@ -14,7 +14,7 @@ currency: EUR
 price: 158.8
 comparePrice: 240.0 EUR
 inStock: true
-prodname: Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SSB313P1
+prodname: 'Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SSB313P1'
 ---
 
 Tienes [Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SSB313P1](https://www.amazon.es/dp/B07DRHL59Q/?tag=tolees-21) con un 33.83 % de descuento con precio de oferta de 158.8 EUR (original: 240.0 EUR) en el siguiente enlace!

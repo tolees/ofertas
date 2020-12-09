@@ -14,7 +14,7 @@ currency: EUR
 price: 136.99
 comparePrice: 246.99 EUR
 inStock: true
-prodname: Impermeable Creativo Madera Maciza Soporte de Planta Estante Encaje Tres Pisos Estilo rústico Sala de Estar Balcón Jardín 50 * 30 * 95 cm Interior  Color: Marrón 
+prodname: 'Impermeable Creativo Madera Maciza Soporte de Planta Estante Encaje Tres Pisos Estilo rústico Sala de Estar Balcón Jardín 50 * 30 * 95 cm Interior  Color: Marrón '
 ---
 
 Está [Impermeable Creativo Madera Maciza Soporte de Planta Estante Encaje Tres Pisos Estilo rústico Sala de Estar Balcón Jardín 50 * 30 * 95 cm Interior  Color: Marrón ](https://www.amazon.es/dp/B082CFYQVY/?tag=tolees-21) con 44.54 de descuento por 136.99 EUR (original: 246.99 EUR) en el siguiente enlace!

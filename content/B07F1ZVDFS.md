@@ -14,7 +14,7 @@ currency: EUR
 price: 36.98
 comparePrice: 95 EUR
 inStock: true
-prodname: Armani Exchange - Round Zip Wallet  Carteras Mujer  Rojo  Red   10.5x2.5x19 cm  B x H T 
+prodname: 'Armani Exchange - Round Zip Wallet  Carteras Mujer  Rojo  Red   10.5x2.5x19 cm  B x H T '
 ---
 
 Ahora mismo tienes [Armani Exchange - Round Zip Wallet  Carteras Mujer  Rojo  Red   10.5x2.5x19 cm  B x H T ](https://www.amazon.es/dp/B07F1ZVDFS/?tag=tolees-21) a 36.98 EUR (original: 95 EUR) (61.07 %  de descuento) en el siguiente enlace!

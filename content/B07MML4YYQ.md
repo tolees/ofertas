@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 51.09 EUR
 inStock: true
-prodname: WOSTOO Barbacoa portátil Charcoal  minibarbacoa Plegable de carbón carbón  Barbacoa para Picnic  Barbacoa  jardín  Camping  Fiesta  Playa  Exterior  Color Negro
+prodname: 'WOSTOO Barbacoa portátil Charcoal  minibarbacoa Plegable de carbón carbón  Barbacoa para Picnic  Barbacoa  jardín  Camping  Fiesta  Playa  Exterior  Color Negro'
 ---
 
 Ahora mismo tienes [WOSTOO Barbacoa portátil Charcoal  minibarbacoa Plegable de carbón carbón  Barbacoa para Picnic  Barbacoa  jardín  Camping  Fiesta  Playa  Exterior  Color Negro](https://www.amazon.es/dp/B07MML4YYQ/?tag=tolees-21) a 18.99 EUR (original: 51.09 EUR) (62.83 %  de descuento) en el siguiente enlace!

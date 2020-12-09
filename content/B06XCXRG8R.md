@@ -14,7 +14,7 @@ currency: EUR
 price: 6.06
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Cortefiel 5367042  Falda para Mujer  Negro  XL
+prodname: 'Cortefiel 5367042  Falda para Mujer  Negro  XL'
 ---
 
 Está [Cortefiel 5367042  Falda para Mujer  Negro  XL](https://www.amazon.es/dp/B06XCXRG8R/?tag=tolees-21) con 84.85 de descuento por 6.06 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.39
 comparePrice: 99.0 EUR
 inStock: true
-prodname: American Tourister - Road quest bolsa de viaje con ruedas  40 Litros  negro sólido  black   S  55cm-40L 
+prodname: 'American Tourister - Road quest bolsa de viaje con ruedas  40 Litros  negro sólido  black   S  55cm-40L '
 ---
 
 Ahora mismo tienes [American Tourister - Road quest bolsa de viaje con ruedas  40 Litros  negro sólido  black   S  55cm-40L ](https://www.amazon.es/dp/B01C6CSDEY/?tag=tolees-21) a 49.39 EUR (original: 99.0 EUR) (50.11 %  de descuento) en el siguiente enlace!

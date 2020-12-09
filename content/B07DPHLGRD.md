@@ -14,7 +14,7 @@ currency: EUR
 price: 19.58
 comparePrice: 29.99 EUR
 inStock: true
-prodname: AMASAVA Bolsa de maquillaje cosmético para maquillaje Bolsa de almacenamiento con divisiones extraíbles 26.5 * 11.5 * 23.5 cm  Rojo
+prodname: 'AMASAVA Bolsa de maquillaje cosmético para maquillaje Bolsa de almacenamiento con divisiones extraíbles 26.5 * 11.5 * 23.5 cm  Rojo'
 ---
 
 Ahora mismo tienes [AMASAVA Bolsa de maquillaje cosmético para maquillaje Bolsa de almacenamiento con divisiones extraíbles 26.5 * 11.5 * 23.5 cm  Rojo](https://www.amazon.es/dp/B07DPHLGRD/?tag=tolees-21) a 19.58 EUR (original: 29.99 EUR) (34.71 %  de descuento) en el siguiente enlace!

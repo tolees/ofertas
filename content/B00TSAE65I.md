@@ -14,7 +14,7 @@ currency: EUR
 price: 9.1
 comparePrice: 16.56 EUR
 inStock: true
-prodname: Scholl Plantillas Gel Activ Profesional para mujer  para calzado trabajo  absorción de impactos y amortiguación  talla 35.5 - 40.5  1 par  2 plantillas 
+prodname: 'Scholl Plantillas Gel Activ Profesional para mujer  para calzado trabajo  absorción de impactos y amortiguación  talla 35.5 - 40.5  1 par  2 plantillas '
 ---
 
 Tienes [Scholl Plantillas Gel Activ Profesional para mujer  para calzado trabajo  absorción de impactos y amortiguación  talla 35.5 - 40.5  1 par  2 plantillas ](https://www.amazon.es/dp/B00TSAE65I/?tag=tolees-21) con un 45.05 % de descuento con precio de oferta de 9.1 EUR (original: 16.56 EUR) en el siguiente enlace!

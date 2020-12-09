@@ -14,7 +14,7 @@ currency: EUR
 price: 20.06
 comparePrice: 43.42 EUR
 inStock: true
-prodname: Sweetmini - Abrigo de plumas para mujer  Manga larga  Mujer  color rosa  tamaño XL
+prodname: 'Sweetmini - Abrigo de plumas para mujer  Manga larga  Mujer  color rosa  tamaño XL'
 ---
 
 Tienes [Sweetmini - Abrigo de plumas para mujer  Manga larga  Mujer  color rosa  tamaño XL](https://www.amazon.es/dp/B07Z4DYSPJ/?tag=tolees-21) con un 53.80 % de descuento con precio de oferta de 20.06 EUR (original: 43.42 EUR) en el siguiente enlace!

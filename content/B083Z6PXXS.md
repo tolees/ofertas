@@ -14,7 +14,7 @@ currency: EUR
 price: 48.74
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Teclado mecánico para Juegos 60% True RGB con retroiluminación Bluetooth 4.0 con Cable/inalámbrico LED Teclado de computadora para de Dispositivos múltiples portátil  Interruptor marrón-1 
+prodname: 'Teclado mecánico para Juegos 60% True RGB con retroiluminación Bluetooth 4.0 con Cable/inalámbrico LED Teclado de computadora para de Dispositivos múltiples portátil  Interruptor marrón-1 '
 ---
 
 Tienes [Teclado mecánico para Juegos 60% True RGB con retroiluminación Bluetooth 4.0 con Cable/inalámbrico LED Teclado de computadora para de Dispositivos múltiples portátil  Interruptor marrón-1 ](https://www.amazon.es/dp/B083Z6PXXS/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 48.74 EUR (original: 64.99 EUR) en el siguiente enlace!

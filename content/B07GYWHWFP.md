@@ -14,7 +14,7 @@ currency: EUR
 price: 16.71
 comparePrice: 46.17 EUR
 inStock: true
-prodname: Mustang 1/1Slv_0/P_K  Camisa casual para Hombre  Multicolor  Big Check 11198   XL
+prodname: 'Mustang 1/1Slv_0/P_K  Camisa casual para Hombre  Multicolor  Big Check 11198   XL'
 ---
 
 Tienes [Mustang 1/1Slv_0/P_K  Camisa casual para Hombre  Multicolor  Big Check 11198   XL](https://www.amazon.es/dp/B07GYWHWFP/?tag=tolees-21) con un 63.81 % de descuento con precio de oferta de 16.71 EUR (original: 46.17 EUR) en el siguiente enlace!

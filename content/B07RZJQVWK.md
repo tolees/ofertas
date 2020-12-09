@@ -14,7 +14,7 @@ currency: EUR
 price: 28.35
 comparePrice: 50.49 EUR
 inStock: true
-prodname: Kensington K68008EU Candado de Combinación N17 para Ranuras Tipo Wedge  Cabezal Resistente y Cable de Acero al Carbono Resistente al Corte  para Portátiles DELL y Alienware
+prodname: 'Kensington K68008EU Candado de Combinación N17 para Ranuras Tipo Wedge  Cabezal Resistente y Cable de Acero al Carbono Resistente al Corte  para Portátiles DELL y Alienware'
 ---
 
 Ahora mismo tienes [Kensington K68008EU Candado de Combinación N17 para Ranuras Tipo Wedge  Cabezal Resistente y Cable de Acero al Carbono Resistente al Corte  para Portátiles DELL y Alienware](https://www.amazon.es/dp/B07RZJQVWK/?tag=tolees-21) a 28.35 EUR (original: 50.49 EUR) (43.85 %  de descuento) en el siguiente enlace!

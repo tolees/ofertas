@@ -14,7 +14,7 @@ currency: EUR
 price: 6.7
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Dove  Kit para baños - 5 piezas
+prodname: 'Dove  Kit para baños - 5 piezas'
 ---
 
 Ahora mismo tienes [Dove  Kit para baños - 5 piezas](https://www.amazon.es/dp/B07G6ZQZ1J/?tag=tolees-21) a 6.7 EUR (original: 9.99 EUR) (32.93 %  de descuento) en el siguiente enlace!

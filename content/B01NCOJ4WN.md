@@ -14,7 +14,7 @@ currency: EUR
 price: 27.42
 comparePrice: 120 EUR
 inStock: true
-prodname: Converse Chuck Taylor CTAS WP Boot Hi  Zapatillas Unisex Adulto  Clove/Dark Atomic Teal 288  36 EU
+prodname: 'Converse Chuck Taylor CTAS WP Boot Hi  Zapatillas Unisex Adulto  Clove/Dark Atomic Teal 288  36 EU'
 ---
 
 Tienes [Converse Chuck Taylor CTAS WP Boot Hi  Zapatillas Unisex Adulto  Clove/Dark Atomic Teal 288  36 EU](https://www.amazon.es/dp/B01NCOJ4WN/?tag=tolees-21) con un 77.15 % de descuento con precio de oferta de 27.42 EUR (original: 120 EUR) en el siguiente enlace!

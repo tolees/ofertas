@@ -14,7 +14,7 @@ currency: EUR
 price: 7.0
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Kfnire - Conjunto de bebé compuesto de pantalones y sudadera con capucha  diseño de leopardo Rosa 12-18 meses
+prodname: 'Kfnire - Conjunto de bebé compuesto de pantalones y sudadera con capucha  diseño de leopardo Rosa 12-18 meses'
 ---
 
 Está [Kfnire - Conjunto de bebé compuesto de pantalones y sudadera con capucha  diseño de leopardo Rosa 12-18 meses](https://www.amazon.es/dp/B07FXLQ2BJ/?tag=tolees-21) con 49.96 de descuento por 7.0 EUR (original: 13.99 EUR) en el siguiente enlace!

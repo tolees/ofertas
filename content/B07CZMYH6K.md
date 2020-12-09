@@ -14,7 +14,7 @@ currency: EUR
 price: 18.86
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Under Armour Sc30 Short Pantalón Corto  Niños  Verde  Neo Turquoise/Black 361   M
+prodname: 'Under Armour Sc30 Short Pantalón Corto  Niños  Verde  Neo Turquoise/Black 361   M'
 ---
 
 Está [Under Armour Sc30 Short Pantalón Corto  Niños  Verde  Neo Turquoise/Black 361   M](https://www.amazon.es/dp/B07CZMYH6K/?tag=tolees-21) con 46.10 de descuento por 18.86 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.34
 comparePrice: 60.9 EUR
 inStock: true
-prodname: Marca Amazon - find. Square Toe Block Heel Slingback Zapatos de tacón con Punta Cerrada  Negro  Black   36 EU
+prodname: 'Marca Amazon - find. Square Toe Block Heel Slingback Zapatos de tacón con Punta Cerrada  Negro  Black   36 EU'
 ---
 
 Tienes [Marca Amazon - find. Square Toe Block Heel Slingback Zapatos de tacón con Punta Cerrada  Negro  Black   36 EU](https://www.amazon.es/dp/B07Z58WTCW/?tag=tolees-21) con un 91.23 % de descuento con precio de oferta de 5.34 EUR (original: 60.9 EUR) en el siguiente enlace!

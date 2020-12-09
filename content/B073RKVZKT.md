@@ -14,7 +14,7 @@ currency: EUR
 price: 32.69
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas Element V  Zapatillas de Entrenamiento para Mujer  Negro  Core Black/Vapour Grey Metallic/Footwear White 0   38 EU
+prodname: 'adidas Element V  Zapatillas de Entrenamiento para Mujer  Negro  Core Black/Vapour Grey Metallic/Footwear White 0   38 EU'
 ---
 
 Tienes [adidas Element V  Zapatillas de Entrenamiento para Mujer  Negro  Core Black/Vapour Grey Metallic/Footwear White 0   38 EU](https://www.amazon.es/dp/B073RKVZKT/?tag=tolees-21) con un 53.27 % de descuento con precio de oferta de 32.69 EUR (original: 69.95 EUR) en el siguiente enlace!

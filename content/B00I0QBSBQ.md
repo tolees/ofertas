@@ -14,7 +14,7 @@ currency: EUR
 price: 11.97
 comparePrice: 152.99 EUR
 inStock: true
-prodname: Abeba Crawler Zapatos/Blanco Gris S1 Blanco Blanco Talla:36
+prodname: 'Abeba Crawler Zapatos/Blanco Gris S1 Blanco Blanco Talla:36'
 ---
 
 Ahora mismo tienes [Abeba Crawler Zapatos/Blanco Gris S1 Blanco Blanco Talla:36](https://www.amazon.es/dp/B00I0QBSBQ/?tag=tolees-21) a 11.97 EUR (original: 152.99 EUR) (92.18 %  de descuento) en el siguiente enlace!

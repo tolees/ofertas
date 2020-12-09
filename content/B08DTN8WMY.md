@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Solac CE4496 Stillo 20 Bar Cafetera espresso  850 W  1.5 litros  Acero Inoxidable  Negro
+prodname: 'Solac CE4496 Stillo 20 Bar Cafetera espresso  850 W  1.5 litros  Acero Inoxidable  Negro'
 ---
 
 Está [Solac CE4496 Stillo 20 Bar Cafetera espresso  850 W  1.5 litros  Acero Inoxidable  Negro](https://www.amazon.es/dp/B08DTN8WMY/?tag=tolees-21) con 50.08 de descuento por 59.9 EUR (original: 119.99 EUR) en el siguiente enlace!

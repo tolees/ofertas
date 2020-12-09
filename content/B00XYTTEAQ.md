@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 44.89 EUR
 inStock: true
-prodname: Logitech K400 Plus Teclado Inalámbrico con Touchpad para Televisores Conectados a PC  Teclas Especiales Multi-Media  Windows  Android  Ordenador/Tablet  Disposición QWERTY Español  color Negro
+prodname: 'Logitech K400 Plus Teclado Inalámbrico con Touchpad para Televisores Conectados a PC  Teclas Especiales Multi-Media  Windows  Android  Ordenador/Tablet  Disposición QWERTY Español  color Negro'
 ---
 
 Tienes [Logitech K400 Plus Teclado Inalámbrico con Touchpad para Televisores Conectados a PC  Teclas Especiales Multi-Media  Windows  Android  Ordenador/Tablet  Disposición QWERTY Español  color Negro](https://www.amazon.es/dp/B00XYTTEAQ/?tag=tolees-21) con un 44.53 % de descuento con precio de oferta de 24.9 EUR (original: 44.89 EUR) en el siguiente enlace!

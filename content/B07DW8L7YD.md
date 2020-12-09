@@ -14,7 +14,7 @@ currency: EUR
 price: 93.47
 comparePrice: 170 EUR
 inStock: true
-prodname: Salewa MS Speed Beat GTX  Zapatillas de Trail Running para Hombre  Schwarz  Black out/Fluo Yellow 978   44.5 EU
+prodname: 'Salewa MS Speed Beat GTX  Zapatillas de Trail Running para Hombre  Schwarz  Black out/Fluo Yellow 978   44.5 EU'
 ---
 
 Tienes [Salewa MS Speed Beat GTX  Zapatillas de Trail Running para Hombre  Schwarz  Black out/Fluo Yellow 978   44.5 EU](https://www.amazon.es/dp/B07DW8L7YD/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 93.47 EUR (original: 170 EUR) en el siguiente enlace!

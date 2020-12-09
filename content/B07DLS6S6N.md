@@ -14,7 +14,7 @@ currency: EUR
 price: 6.46
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Springfield 6.Ap.Oi18 Ml Puño Boton Camiseta de Manga Larga  Mujer   Varios 98   Medium  Tamaño del Fabricante:M 
+prodname: 'Springfield 6.Ap.Oi18 Ml Puño Boton Camiseta de Manga Larga  Mujer   Varios 98   Medium  Tamaño del Fabricante:M '
 ---
 
 Está [Springfield 6.Ap.Oi18 Ml Puño Boton Camiseta de Manga Larga  Mujer   Varios 98   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLS6S6N/?tag=tolees-21) con 50.27 de descuento por 6.46 EUR (original: 12.99 EUR) en el siguiente enlace!

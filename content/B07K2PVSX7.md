@@ -14,7 +14,7 @@ currency: EUR
 price: 435.0
 comparePrice: 599.0 EUR
 inStock: true
-prodname: Samsung Galaxy A9 - Smartphone de 6.3"  4G  Octa-Core  RAM de 6 GB  Memoria de 128 GB  4 cámaras de 24+5+10+8 MP  Android   Azul
+prodname: 'Samsung Galaxy A9 - Smartphone de 6.3"  4G  Octa-Core  RAM de 6 GB  Memoria de 128 GB  4 cámaras de 24+5+10+8 MP  Android   Azul'
 ---
 
 Ahora mismo tienes [Samsung Galaxy A9 - Smartphone de 6.3"  4G  Octa-Core  RAM de 6 GB  Memoria de 128 GB  4 cámaras de 24+5+10+8 MP  Android   Azul](https://www.amazon.es/dp/B07K2PVSX7/?tag=tolees-21) a 435.0 EUR (original: 599.0 EUR) (27.38 %  de descuento) en el siguiente enlace!

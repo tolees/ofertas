@@ -14,7 +14,7 @@ currency: EUR
 price: 85.06
 comparePrice: 185 EUR
 inStock: true
-prodname: Superdry Core Down Hooded Jacket  Chaqueta Deportiva para Hombre  Azul  Cobalt Fdg   X-Small
+prodname: 'Superdry Core Down Hooded Jacket  Chaqueta Deportiva para Hombre  Azul  Cobalt Fdg   X-Small'
 ---
 
 Ahora mismo tienes [Superdry Core Down Hooded Jacket  Chaqueta Deportiva para Hombre  Azul  Cobalt Fdg   X-Small](https://www.amazon.es/dp/B07FL7YLY2/?tag=tolees-21) a 85.06 EUR (original: 185 EUR) (54.02 %  de descuento) en el siguiente enlace!

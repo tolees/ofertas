@@ -14,7 +14,7 @@ currency: EUR
 price: 18.27
 comparePrice: 69.95 EUR
 inStock: true
-prodname: s.Oliver 26251-31  Botas de Nieve para Mujer   Black 1   38 EU
+prodname: 's.Oliver 26251-31  Botas de Nieve para Mujer   Black 1   38 EU'
 ---
 
 Ahora mismo tienes [s.Oliver 26251-31  Botas de Nieve para Mujer   Black 1   38 EU](https://www.amazon.es/dp/B07BPH2FNM/?tag=tolees-21) a 18.27 EUR (original: 69.95 EUR) (73.88 %  de descuento) en el siguiente enlace!

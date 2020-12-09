@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 50.95 EUR
 inStock: true
-prodname: iFanze-a Electroestimulador Muscular Digital Masaje  electroestimulador tens 2 Electrodos Autoadhesivos  6 Masaje Modos  par Espalda  Cuello  Codo  Hombro  Cintura
+prodname: 'iFanze-a Electroestimulador Muscular Digital Masaje  electroestimulador tens 2 Electrodos Autoadhesivos  6 Masaje Modos  par Espalda  Cuello  Codo  Hombro  Cintura'
 ---
 
 Está [iFanze-a Electroestimulador Muscular Digital Masaje  electroestimulador tens 2 Electrodos Autoadhesivos  6 Masaje Modos  par Espalda  Cuello  Codo  Hombro  Cintura](https://www.amazon.es/dp/B07PVM8YQW/?tag=tolees-21) con 76.55 de descuento por 11.95 EUR (original: 50.95 EUR) en el siguiente enlace!

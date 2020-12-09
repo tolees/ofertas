@@ -14,7 +14,7 @@ currency: EUR
 price: 43.4
 comparePrice: 75 EUR
 inStock: true
-prodname: Vans Era 59  Zapatillas Unisex Adulto  Verde   Double Light Gum  Metal Qk8   40 EU
+prodname: 'Vans Era 59  Zapatillas Unisex Adulto  Verde   Double Light Gum  Metal Qk8   40 EU'
 ---
 
 Está [Vans Era 59  Zapatillas Unisex Adulto  Verde   Double Light Gum  Metal Qk8   40 EU](https://www.amazon.es/dp/B078W5NCNR/?tag=tolees-21) con 42.13 de descuento por 43.4 EUR (original: 75 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.0
 comparePrice: 19.99 EUR
 inStock: true
-prodname: DGY la Mochila Bolsos de Mujer Bolsa de Viaje Mochilas Tipo Casual Mochilas escolares117 Denim pequeña Estrella
+prodname: 'DGY la Mochila Bolsos de Mujer Bolsa de Viaje Mochilas Tipo Casual Mochilas escolares117 Denim pequeña Estrella'
 ---
 
 Ahora mismo tienes [DGY la Mochila Bolsos de Mujer Bolsa de Viaje Mochilas Tipo Casual Mochilas escolares117 Denim pequeña Estrella](https://www.amazon.es/dp/B018G4KDSU/?tag=tolees-21) a 9.0 EUR (original: 19.99 EUR) (54.98 %  de descuento) en el siguiente enlace!

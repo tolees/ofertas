@@ -14,7 +14,7 @@ currency: EUR
 price: 9.0
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Mommy Pockets Mascota Interactiva Modelos Surtidos  BIZAK 35005999 
+prodname: 'Mommy Pockets Mascota Interactiva Modelos Surtidos  BIZAK 35005999 '
 ---
 
 Tienes [Mommy Pockets Mascota Interactiva Modelos Surtidos  BIZAK 35005999 ](https://www.amazon.es/dp/B07SV8GJK1/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 9.0 EUR (original: 17.99 EUR) en el siguiente enlace!

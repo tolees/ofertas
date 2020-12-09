@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Luz de Bicicleta  USB Recargable Luces para Bicicletas  luz de La Bici LED  3 Modos De Iluminación  500LM  Capacidad de la Batería de 4000mAh Impermeable  ángulo de Haz Ancho
+prodname: 'Luz de Bicicleta  USB Recargable Luces para Bicicletas  luz de La Bici LED  3 Modos De Iluminación  500LM  Capacidad de la Batería de 4000mAh Impermeable  ángulo de Haz Ancho'
 ---
 
 Está [Luz de Bicicleta  USB Recargable Luces para Bicicletas  luz de La Bici LED  3 Modos De Iluminación  500LM  Capacidad de la Batería de 4000mAh Impermeable  ángulo de Haz Ancho](https://www.amazon.es/dp/B07DVRZF52/?tag=tolees-21) con 80.01 de descuento por 19.99 EUR (original: 99.99 EUR) en el siguiente enlace!

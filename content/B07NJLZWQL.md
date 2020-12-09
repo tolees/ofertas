@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: World War Z
+prodname: 'World War Z'
 ---
 
 Tienes [World War Z](https://www.amazon.es/dp/B07NJLZWQL/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

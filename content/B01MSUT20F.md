@@ -14,7 +14,7 @@ currency: EUR
 price: 10.6
 comparePrice: 19.95 EUR
 inStock: true
-prodname: adidas Ess Base Tee Camiseta  Hombre  Azul  Maruni/Blanco   S
+prodname: 'adidas Ess Base Tee Camiseta  Hombre  Azul  Maruni/Blanco   S'
 ---
 
 Tienes [adidas Ess Base Tee Camiseta  Hombre  Azul  Maruni/Blanco   S](https://www.amazon.es/dp/B01MSUT20F/?tag=tolees-21) con un 46.87 % de descuento con precio de oferta de 10.6 EUR (original: 19.95 EUR) en el siguiente enlace!

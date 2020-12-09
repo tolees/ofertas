@@ -14,7 +14,7 @@ currency: EUR
 price: 12.33
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Rowenta Elite CF2112F0 - Moldeador rizador de cabello de 16 mm de diámetro de temperatura máxima 180ºC con recubrimiento cerámico iónico y punta fría de seguridad
+prodname: 'Rowenta Elite CF2112F0 - Moldeador rizador de cabello de 16 mm de diámetro de temperatura máxima 180ºC con recubrimiento cerámico iónico y punta fría de seguridad'
 ---
 
 Tienes [Rowenta Elite CF2112F0 - Moldeador rizador de cabello de 16 mm de diámetro de temperatura máxima 180ºC con recubrimiento cerámico iónico y punta fría de seguridad](https://www.amazon.es/dp/B00AR6HQV8/?tag=tolees-21) con un 27.43 % de descuento con precio de oferta de 12.33 EUR (original: 16.99 EUR) en el siguiente enlace!

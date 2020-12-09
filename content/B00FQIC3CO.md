@@ -14,7 +14,7 @@ currency: EUR
 price: 70.89
 comparePrice: 109.9 EUR
 inStock: true
-prodname: BLACK+DECKER ST5530CM-QS - Podadora 3 en 1  cortacésped  cortabordes y bordeadora   550W
+prodname: 'BLACK+DECKER ST5530CM-QS - Podadora 3 en 1  cortacésped  cortabordes y bordeadora   550W'
 ---
 
 Ahora mismo tienes [BLACK+DECKER ST5530CM-QS - Podadora 3 en 1  cortacésped  cortabordes y bordeadora   550W](https://www.amazon.es/dp/B00FQIC3CO/?tag=tolees-21) a 70.89 EUR (original: 109.9 EUR) (35.50 %  de descuento) en el siguiente enlace!

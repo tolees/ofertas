@@ -14,7 +14,7 @@ currency: EUR
 price: 6.13
 comparePrice: 22.95 EUR
 inStock: true
-prodname: Joma Olimpia Camiseta  Hombre  Blanco/Amarillo  S
+prodname: 'Joma Olimpia Camiseta  Hombre  Blanco/Amarillo  S'
 ---
 
 Está [Joma Olimpia Camiseta  Hombre  Blanco/Amarillo  S](https://www.amazon.es/dp/B06Y2ZHQ2Y/?tag=tolees-21) con 73.29 de descuento por 6.13 EUR (original: 22.95 EUR) en el siguiente enlace!

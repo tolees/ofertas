@@ -14,7 +14,7 @@ currency: EUR
 price: 569.55
 comparePrice: 799.99 EUR
 inStock: true
-prodname: 14" FHD | Core i5-8250U | 2X 4GB | 256GB SSD | Intel Graphics | W Pro
+prodname: '14" FHD | Core i5-8250U | 2X 4GB | 256GB SSD | Intel Graphics | W Pro'
 ---
 
 Ahora mismo tienes [14" FHD | Core i5-8250U | 2X 4GB | 256GB SSD | Intel Graphics | W Pro](https://www.amazon.es/dp/B07CXQKH4C/?tag=tolees-21) a 569.55 EUR (original: 799.99 EUR) (28.81 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 35.95
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Asics Gel-Contend 5 SL  Walking Shoe Mens  Black Graphite Grey  44.5 EU
+prodname: 'Asics Gel-Contend 5 SL  Walking Shoe Mens  Black Graphite Grey  44.5 EU'
 ---
 
 Está [Asics Gel-Contend 5 SL  Walking Shoe Mens  Black Graphite Grey  44.5 EU](https://www.amazon.es/dp/B07QVZRWXG/?tag=tolees-21) con 48.64 de descuento por 35.95 EUR (original: 70.0 EUR) en el siguiente enlace!

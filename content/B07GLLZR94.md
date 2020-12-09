@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 35.95 EUR
 inStock: true
-prodname: MEIKAN Calcetines De Deporte  para Hombre  Mujer y niño 5 Pares Calcetines De Corte para Correr  EU44-47/ UK9-11 
+prodname: 'MEIKAN Calcetines De Deporte  para Hombre  Mujer y niño 5 Pares Calcetines De Corte para Correr  EU44-47/ UK9-11 '
 ---
 
 Está [MEIKAN Calcetines De Deporte  para Hombre  Mujer y niño 5 Pares Calcetines De Corte para Correr  EU44-47/ UK9-11 ](https://www.amazon.es/dp/B07GLLZR94/?tag=tolees-21) con 44.51 de descuento por 19.95 EUR (original: 35.95 EUR) en el siguiente enlace!

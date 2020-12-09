@@ -14,7 +14,7 @@ currency: EUR
 price: 7.5
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Jurassic World 2 El Reino Caido [Blu-ray]
+prodname: 'Jurassic World 2 El Reino Caido [Blu-ray]'
 ---
 
 Está [Jurassic World 2 El Reino Caido [Blu-ray]](https://www.amazon.es/dp/B07DNJZD4C/?tag=tolees-21) con 46.39 de descuento por 7.5 EUR (original: 13.99 EUR) en el siguiente enlace!

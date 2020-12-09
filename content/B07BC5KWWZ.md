@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: MAXTOOLS AR200  Carrete con manguera neumática  6 m
+prodname: 'MAXTOOLS AR200  Carrete con manguera neumática  6 m'
 ---
 
 Ahora mismo tienes [MAXTOOLS AR200  Carrete con manguera neumática  6 m](https://www.amazon.es/dp/B07BC5KWWZ/?tag=tolees-21) a 27.99 EUR (original: 49.99 EUR) (44.01 %  de descuento) en el siguiente enlace!

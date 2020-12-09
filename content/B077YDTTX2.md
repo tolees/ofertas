@@ -14,7 +14,7 @@ currency: EUR
 price: 7.38
 comparePrice: 15.95 EUR
 inStock: true
-prodname: HIKARO AMA SHIPLEY camisetas  Azul  Navy   36  Talla del fabricante: X-Small 
+prodname: 'HIKARO AMA SHIPLEY camisetas  Azul  Navy   36  Talla del fabricante: X-Small '
 ---
 
 Tienes [HIKARO AMA SHIPLEY camisetas  Azul  Navy   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B077YDTTX2/?tag=tolees-21) con un 53.73 % de descuento con precio de oferta de 7.38 EUR (original: 15.95 EUR) en el siguiente enlace!

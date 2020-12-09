@@ -14,7 +14,7 @@ currency: EUR
 price: 6.0
 comparePrice: 11.16 EUR
 inStock: true
-prodname: BIC Intesity Medium - Blíster de 12 unidades  rotuladores punta media  0 8 mm   colores surtidos – paquete de rotuladores para dibujar  colorear y escribir
+prodname: 'BIC Intesity Medium - Blíster de 12 unidades  rotuladores punta media  0 8 mm   colores surtidos – paquete de rotuladores para dibujar  colorear y escribir'
 ---
 
 Tienes [BIC Intesity Medium - Blíster de 12 unidades  rotuladores punta media  0 8 mm   colores surtidos – paquete de rotuladores para dibujar  colorear y escribir](https://www.amazon.es/dp/B07NFJZHDY/?tag=tolees-21) con un 46.24 % de descuento con precio de oferta de 6.0 EUR (original: 11.16 EUR) en el siguiente enlace!

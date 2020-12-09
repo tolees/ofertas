@@ -14,7 +14,7 @@ currency: EUR
 price: 18.67
 comparePrice: 90 EUR
 inStock: true
-prodname: Aigle BENYL M  Botas de Goma de Trabajo para Hombre  Marrón  Brun   35 EU
+prodname: 'Aigle BENYL M  Botas de Goma de Trabajo para Hombre  Marrón  Brun   35 EU'
 ---
 
 Ahora mismo tienes [Aigle BENYL M  Botas de Goma de Trabajo para Hombre  Marrón  Brun   35 EU](https://www.amazon.es/dp/B00CAK6BVU/?tag=tolees-21) a 18.67 EUR (original: 90 EUR) (79.26 %  de descuento) en el siguiente enlace!

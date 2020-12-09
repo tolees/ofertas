@@ -14,7 +14,7 @@ currency: EUR
 price: 31.47
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Puma Puma Vikky v2 Zapatillas Mujer  Gris  Silver Gray-White-Puma Silver   39 EU  6 UK 
+prodname: 'Puma Puma Vikky v2 Zapatillas Mujer  Gris  Silver Gray-White-Puma Silver   39 EU  6 UK '
 ---
 
 Tienes [Puma Puma Vikky v2 Zapatillas Mujer  Gris  Silver Gray-White-Puma Silver   39 EU  6 UK ](https://www.amazon.es/dp/B07DCDFWC6/?tag=tolees-21) con un 42.73 % de descuento con precio de oferta de 31.47 EUR (original: 54.95 EUR) en el siguiente enlace!

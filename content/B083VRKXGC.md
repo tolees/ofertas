@@ -14,7 +14,7 @@ currency: EUR
 price: 25.49
 comparePrice: 33.99 EUR
 inStock: true
-prodname: Xnuoyo TSA Mochila para Portátil  15.6 Pulgada Mochila para Computadora Hidrófugo Mochila Escolar con Bolsa Termostática y Bolsillos RFID Mochila Antirrobo para Escuela/Negocios/Hombres/Mujeres
+prodname: 'Xnuoyo TSA Mochila para Portátil  15.6 Pulgada Mochila para Computadora Hidrófugo Mochila Escolar con Bolsa Termostática y Bolsillos RFID Mochila Antirrobo para Escuela/Negocios/Hombres/Mujeres'
 ---
 
 Está [Xnuoyo TSA Mochila para Portátil  15.6 Pulgada Mochila para Computadora Hidrófugo Mochila Escolar con Bolsa Termostática y Bolsillos RFID Mochila Antirrobo para Escuela/Negocios/Hombres/Mujeres](https://www.amazon.es/dp/B083VRKXGC/?tag=tolees-21) con 25.01 de descuento por 25.49 EUR (original: 33.99 EUR) en el siguiente enlace!

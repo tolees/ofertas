@@ -14,7 +14,7 @@ currency: EUR
 price: 139.99
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Braun Series 6 60-N4820cs Afeitadora Eléctrica  máquina de afeitar barba hombre de lámina  Con Base De Carga  2 Accesorios  EasyClick  Uso En Seco Y Mojado  Recargable  Inalámbrica  Gris
+prodname: 'Braun Series 6 60-N4820cs Afeitadora Eléctrica  máquina de afeitar barba hombre de lámina  Con Base De Carga  2 Accesorios  EasyClick  Uso En Seco Y Mojado  Recargable  Inalámbrica  Gris'
 ---
 
 Está [Braun Series 6 60-N4820cs Afeitadora Eléctrica  máquina de afeitar barba hombre de lámina  Con Base De Carga  2 Accesorios  EasyClick  Uso En Seco Y Mojado  Recargable  Inalámbrica  Gris](https://www.amazon.es/dp/B085CYKVY6/?tag=tolees-21) con 29.65 de descuento por 139.99 EUR (original: 199.0 EUR) en el siguiente enlace!

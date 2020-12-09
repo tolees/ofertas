@@ -14,7 +14,7 @@ currency: EUR
 price: 17.45
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s Graphic Camiseta  Blanco  84 Sportswear Logo White 0000   XX-Small para Hombre
+prodname: 'Levi s Graphic Camiseta  Blanco  84 Sportswear Logo White 0000   XX-Small para Hombre'
 ---
 
 Tienes [Levi s Graphic Camiseta  Blanco  84 Sportswear Logo White 0000   XX-Small para Hombre](https://www.amazon.es/dp/B07CXR85GZ/?tag=tolees-21) con un 30.20 % de descuento con precio de oferta de 17.45 EUR (original: 25.0 EUR) en el siguiente enlace!

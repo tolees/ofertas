@@ -14,7 +14,7 @@ currency: EUR
 price: 9.36
 comparePrice: 12.99 EUR
 inStock: true
-prodname: LEIZHAN Memoria USB 3.0 32GB Pendrive OTG 2 in 1 USB Flash Stick para Samsung Huawei Android PC Tableta Mac -32GB（Morado
+prodname: 'LEIZHAN Memoria USB 3.0 32GB Pendrive OTG 2 in 1 USB Flash Stick para Samsung Huawei Android PC Tableta Mac -32GB（Morado'
 ---
 
 Ahora mismo tienes [LEIZHAN Memoria USB 3.0 32GB Pendrive OTG 2 in 1 USB Flash Stick para Samsung Huawei Android PC Tableta Mac -32GB（Morado](https://www.amazon.es/dp/B07S6B6YCX/?tag=tolees-21) a 9.36 EUR (original: 12.99 EUR) (27.94 %  de descuento) en el siguiente enlace!

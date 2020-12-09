@@ -14,7 +14,7 @@ currency: EUR
 price: 29.28
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Dockers by Gerli 39cl013  Botas Mocasines para Hombre  Gris  Asphalt/Blau 236   43 EU
+prodname: 'Dockers by Gerli 39cl013  Botas Mocasines para Hombre  Gris  Asphalt/Blau 236   43 EU'
 ---
 
 Tienes [Dockers by Gerli 39cl013  Botas Mocasines para Hombre  Gris  Asphalt/Blau 236   43 EU](https://www.amazon.es/dp/B07DJG4FL1/?tag=tolees-21) con un 67.45 % de descuento con precio de oferta de 29.28 EUR (original: 89.95 EUR) en el siguiente enlace!

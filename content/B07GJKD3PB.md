@@ -14,7 +14,7 @@ currency: EUR
 price: 26.33
 comparePrice: 54.9 EUR
 inStock: true
-prodname: Carrera Must Mid  Zapatillas de Cross para Hombre  Negro  Black 04   44 EU
+prodname: 'Carrera Must Mid  Zapatillas de Cross para Hombre  Negro  Black 04   44 EU'
 ---
 
 Está [Carrera Must Mid  Zapatillas de Cross para Hombre  Negro  Black 04   44 EU](https://www.amazon.es/dp/B07GJKD3PB/?tag=tolees-21) con 52.04 de descuento por 26.33 EUR (original: 54.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: ORNARTO Funda para Xiaomi Poco X3 NFC  Transparente Delgada Silicona Flexible Ajuste Proteger Caso Absorción de Golpes Parachoques Protective Carcasa para Xiaomi Poco X3 NFC 2020  6 67"
+prodname: 'ORNARTO Funda para Xiaomi Poco X3 NFC  Transparente Delgada Silicona Flexible Ajuste Proteger Caso Absorción de Golpes Parachoques Protective Carcasa para Xiaomi Poco X3 NFC 2020  6 67"'
 ---
 
 Ahora mismo tienes [ORNARTO Funda para Xiaomi Poco X3 NFC  Transparente Delgada Silicona Flexible Ajuste Proteger Caso Absorción de Golpes Parachoques Protective Carcasa para Xiaomi Poco X3 NFC 2020  6 67"](https://www.amazon.es/dp/B08KQ6MWPR/?tag=tolees-21) a 8.99 EUR (original: 19.99 EUR) (55.03 %  de descuento) en el siguiente enlace!

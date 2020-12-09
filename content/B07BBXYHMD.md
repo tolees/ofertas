@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Smartwares Pro Series Kit Confort  Bombillas Inteligentes  luz Blanca Ajustable  2 Unidades
+prodname: 'Smartwares Pro Series Kit Confort  Bombillas Inteligentes  luz Blanca Ajustable  2 Unidades'
 ---
 
 Está [Smartwares Pro Series Kit Confort  Bombillas Inteligentes  luz Blanca Ajustable  2 Unidades](https://www.amazon.es/dp/B07BBXYHMD/?tag=tolees-21) con 41.67 de descuento por 69.99 EUR (original: 119.99 EUR) en el siguiente enlace!

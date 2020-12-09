@@ -14,7 +14,7 @@ currency: EUR
 price: 249.0
 comparePrice: 369.0 EUR
 inStock: true
-prodname: Michael Kors Smartwatch Pantalla táctil para Mujer de Connected con Correa en Acero Inoxidable MKT5080
+prodname: 'Michael Kors Smartwatch Pantalla táctil para Mujer de Connected con Correa en Acero Inoxidable MKT5080'
 ---
 
 Tienes [Michael Kors Smartwatch Pantalla táctil para Mujer de Connected con Correa en Acero Inoxidable MKT5080](https://www.amazon.es/dp/B07TBPV5D9/?tag=tolees-21) con un 32.52 % de descuento con precio de oferta de 249.0 EUR (original: 369.0 EUR) en el siguiente enlace!

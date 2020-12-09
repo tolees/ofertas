@@ -14,7 +14,7 @@ currency: EUR
 price: 16.2
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Weider Vegan Protein  Sabor Chocolate  Proteína 100% vegetal de guisantes  PISANE  y arroz  Sin gluten  Sin lactosa  Sin aceite de palma  750 g
+prodname: 'Weider Vegan Protein  Sabor Chocolate  Proteína 100% vegetal de guisantes  PISANE  y arroz  Sin gluten  Sin lactosa  Sin aceite de palma  750 g'
 ---
 
 Tienes [Weider Vegan Protein  Sabor Chocolate  Proteína 100% vegetal de guisantes  PISANE  y arroz  Sin gluten  Sin lactosa  Sin aceite de palma  750 g](https://www.amazon.es/dp/B016YWDAAY/?tag=tolees-21) con un 32.47 % de descuento con precio de oferta de 16.2 EUR (original: 23.99 EUR) en el siguiente enlace!

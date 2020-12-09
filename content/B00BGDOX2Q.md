@@ -14,7 +14,7 @@ currency: EUR
 price: 12.96
 comparePrice: 27.95 EUR
 inStock: true
-prodname: Alpinestars Ageless Camiseta Clásica  Heather Grey/Negro  S para Hombre
+prodname: 'Alpinestars Ageless Camiseta Clásica  Heather Grey/Negro  S para Hombre'
 ---
 
 Tienes [Alpinestars Ageless Camiseta Clásica  Heather Grey/Negro  S para Hombre](https://www.amazon.es/dp/B00BGDOX2Q/?tag=tolees-21) con un 53.63 % de descuento con precio de oferta de 12.96 EUR (original: 27.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 99.99 EUR
 inStock: true
-prodname: K-Swiss Rinzler SP  Zapatillas para Hombre  Negro Black/White 044  42.5 EU
+prodname: 'K-Swiss Rinzler SP  Zapatillas para Hombre  Negro Black/White 044  42.5 EU'
 ---
 
 Tienes [K-Swiss Rinzler SP  Zapatillas para Hombre  Negro Black/White 044  42.5 EU](https://www.amazon.es/dp/B07FH9HLZ3/?tag=tolees-21) con un 70.05 % de descuento con precio de oferta de 29.95 EUR (original: 99.99 EUR) en el siguiente enlace!

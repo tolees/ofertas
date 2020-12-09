@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Einhell 3433300 GC-EL 2500 E - Aspirador-Soplador Eléctrico  Saco de 40L  Regulador de Velocidad  7000 - 13500 rpm  2500 W  230 - 240 V
+prodname: 'Einhell 3433300 GC-EL 2500 E - Aspirador-Soplador Eléctrico  Saco de 40L  Regulador de Velocidad  7000 - 13500 rpm  2500 W  230 - 240 V'
 ---
 
 Ahora mismo tienes [Einhell 3433300 GC-EL 2500 E - Aspirador-Soplador Eléctrico  Saco de 40L  Regulador de Velocidad  7000 - 13500 rpm  2500 W  230 - 240 V](https://www.amazon.es/dp/B01HSFBT1I/?tag=tolees-21) a 29.99 EUR (original: 44.95 EUR) (33.28 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 33.95 EUR
 inStock: true
-prodname: Tefal Resource Sartén Antiadherente  Inducción  Aluminio 100 % reciclado  Resource  28cm 
+prodname: 'Tefal Resource Sartén Antiadherente  Inducción  Aluminio 100 % reciclado  Resource  28cm '
 ---
 
 Tienes [Tefal Resource Sartén Antiadherente  Inducción  Aluminio 100 % reciclado  Resource  28cm ](https://www.amazon.es/dp/B07GNCPF8Z/?tag=tolees-21) con un 29.46 % de descuento con precio de oferta de 23.95 EUR (original: 33.95 EUR) en el siguiente enlace!

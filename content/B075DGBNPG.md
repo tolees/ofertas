@@ -14,7 +14,7 @@ currency: EUR
 price: 60.74
 comparePrice: 160 EUR
 inStock: true
-prodname: Burton Sadie Chaqueta  Mujer  Negro  True   XL
+prodname: 'Burton Sadie Chaqueta  Mujer  Negro  True   XL'
 ---
 
 Ahora mismo tienes [Burton Sadie Chaqueta  Mujer  Negro  True   XL](https://www.amazon.es/dp/B075DGBNPG/?tag=tolees-21) a 60.74 EUR (original: 160 EUR) (62.04 %  de descuento) en el siguiente enlace!

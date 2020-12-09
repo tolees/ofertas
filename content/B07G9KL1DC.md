@@ -14,7 +14,7 @@ currency: EUR
 price: 9.1
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Esprit 118ee2i013  suéter Hombre  Blanco  Off White 110   Small
+prodname: 'Esprit 118ee2i013  suéter Hombre  Blanco  Off White 110   Small'
 ---
 
 Está [Esprit 118ee2i013  suéter Hombre  Blanco  Off White 110   Small](https://www.amazon.es/dp/B07G9KL1DC/?tag=tolees-21) con 81.80 de descuento por 9.1 EUR (original: 49.99 EUR) en el siguiente enlace!

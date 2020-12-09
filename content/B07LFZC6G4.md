@@ -14,7 +14,7 @@ currency: EUR
 price: 61.27
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Geox D ANNYTAH D  Bailarinas para Mujer  Azul  Navy C4002   35 EU
+prodname: 'Geox D ANNYTAH D  Bailarinas para Mujer  Azul  Navy C4002   35 EU'
 ---
 
 Ahora mismo tienes [Geox D ANNYTAH D  Bailarinas para Mujer  Azul  Navy C4002   35 EU](https://www.amazon.es/dp/B07LFZC6G4/?tag=tolees-21) a 61.27 EUR (original: 89.9 EUR) (31.85 %  de descuento) en el siguiente enlace!

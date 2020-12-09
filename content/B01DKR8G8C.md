@@ -14,7 +14,7 @@ currency: EUR
 price: 49.0
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Piel ES3988
+prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Piel ES3988'
 ---
 
 Ahora mismo tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Piel ES3988](https://www.amazon.es/dp/B01DKR8G8C/?tag=tolees-21) a 49.0 EUR (original: 119.0 EUR) (58.82 %  de descuento) en el siguiente enlace!

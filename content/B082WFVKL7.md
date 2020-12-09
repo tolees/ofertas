@@ -14,7 +14,7 @@ currency: EUR
 price: 259.08
 comparePrice: 369.0 EUR
 inStock: true
-prodname: Samsung Galaxy A51 - Dual SIM  Smartphone de 6.5" Super AMOLED  4 GB RAM  128 GB ROM  cámara Trasera 48.0 MP + 12.0 MP + 5.0 MP + 5 MP  cámara Frontal 32 MP  Azul [Versión española]
+prodname: 'Samsung Galaxy A51 - Dual SIM  Smartphone de 6.5" Super AMOLED  4 GB RAM  128 GB ROM  cámara Trasera 48.0 MP + 12.0 MP + 5.0 MP + 5 MP  cámara Frontal 32 MP  Azul [Versión española]'
 ---
 
 Ahora mismo tienes [Samsung Galaxy A51 - Dual SIM  Smartphone de 6.5" Super AMOLED  4 GB RAM  128 GB ROM  cámara Trasera 48.0 MP + 12.0 MP + 5.0 MP + 5 MP  cámara Frontal 32 MP  Azul [Versión española]](https://www.amazon.es/dp/B082WFVKL7/?tag=tolees-21) a 259.08 EUR (original: 369.0 EUR) (29.79 %  de descuento) en el siguiente enlace!

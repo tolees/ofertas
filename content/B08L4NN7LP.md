@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 90.0 EUR
 inStock: true
-prodname: L Oreal Paris Make-up Designer Calendario De Adviento 2020
+prodname: 'L Oreal Paris Make-up Designer Calendario De Adviento 2020'
 ---
 
 Ahora mismo tienes [L Oreal Paris Make-up Designer Calendario De Adviento 2020](https://www.amazon.es/dp/B08L4NN7LP/?tag=tolees-21) a 49.99 EUR (original: 90.0 EUR) (44.46 %  de descuento) en el siguiente enlace!

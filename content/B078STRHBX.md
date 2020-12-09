@@ -14,7 +14,7 @@ currency: EUR
 price: 150.64
 comparePrice: 294.99 EUR
 inStock: true
-prodname: SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad de Lectura
+prodname: 'SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad de Lectura'
 ---
 
 Está [SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad de Lectura](https://www.amazon.es/dp/B078STRHBX/?tag=tolees-21) con 48.93 de descuento por 150.64 EUR (original: 294.99 EUR) en el siguiente enlace!

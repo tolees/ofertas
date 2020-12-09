@@ -14,7 +14,7 @@ currency: EUR
 price: 58
 comparePrice: 89.95 EUR
 inStock: true
-prodname: adidas Predator 19.3 FG  Zapatillas de Fútbol para Hombre   FTWR White Bold Blue Bb9333   42 EU
+prodname: 'adidas Predator 19.3 FG  Zapatillas de Fútbol para Hombre   FTWR White Bold Blue Bb9333   42 EU'
 ---
 
 Está [adidas Predator 19.3 FG  Zapatillas de Fútbol para Hombre   FTWR White Bold Blue Bb9333   42 EU](https://www.amazon.es/dp/B07FZHWNX6/?tag=tolees-21) con 35.52 de descuento por 58 EUR (original: 89.95 EUR) en el siguiente enlace!

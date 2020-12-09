@@ -14,7 +14,7 @@ currency: EUR
 price: 36.08
 comparePrice: 51.65 EUR
 inStock: true
-prodname: Tommy Hilfiger Livvy 3D  Zapatillas Mujer  Blanco  39 EU
+prodname: 'Tommy Hilfiger Livvy 3D  Zapatillas Mujer  Blanco  39 EU'
 ---
 
 Tienes [Tommy Hilfiger Livvy 3D  Zapatillas Mujer  Blanco  39 EU](https://www.amazon.es/dp/B07ZK25XNH/?tag=tolees-21) con un 30.15 % de descuento con precio de oferta de 36.08 EUR (original: 51.65 EUR) en el siguiente enlace!

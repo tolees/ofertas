@@ -14,7 +14,7 @@ currency: EUR
 price: 44.11
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Levi s 502 Regular Taper Jeans  Azul  Baltic Adapt 0472   31W / 30L para Hombre
+prodname: 'Levi s 502 Regular Taper Jeans  Azul  Baltic Adapt 0472   31W / 30L para Hombre'
 ---
 
 Ahora mismo tienes [Levi s 502 Regular Taper Jeans  Azul  Baltic Adapt 0472   31W / 30L para Hombre](https://www.amazon.es/dp/B07KF51RCH/?tag=tolees-21) a 44.11 EUR (original: 110.0 EUR) (59.90 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.0
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Panasonic ER-GC71 - Cortador de barba / cabello con 39 configuraciones de longitud  para hombres  peinado y cuidado para cabello y barba
+prodname: 'Panasonic ER-GC71 - Cortador de barba / cabello con 39 configuraciones de longitud  para hombres  peinado y cuidado para cabello y barba'
 ---
 
 Está [Panasonic ER-GC71 - Cortador de barba / cabello con 39 configuraciones de longitud  para hombres  peinado y cuidado para cabello y barba](https://www.amazon.es/dp/B01G8JR3TM/?tag=tolees-21) con 47.69 de descuento por 34.0 EUR (original: 65.0 EUR) en el siguiente enlace!

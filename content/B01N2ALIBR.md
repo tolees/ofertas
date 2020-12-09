@@ -14,7 +14,7 @@ currency: EUR
 price: 43.97
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Severin Barbacoa Grill PG 8528 - Barbacoa de Mesa  Superficie de Grill  41 x 26 cm  2.500 W  Negro
+prodname: 'Severin Barbacoa Grill PG 8528 - Barbacoa de Mesa  Superficie de Grill  41 x 26 cm  2.500 W  Negro'
 ---
 
 Está [Severin Barbacoa Grill PG 8528 - Barbacoa de Mesa  Superficie de Grill  41 x 26 cm  2.500 W  Negro](https://www.amazon.es/dp/B01N2ALIBR/?tag=tolees-21) con 26.70 de descuento por 43.97 EUR (original: 59.99 EUR) en el siguiente enlace!

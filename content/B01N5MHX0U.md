@@ -14,7 +14,7 @@ currency: EUR
 price: 97.5
 comparePrice: 195 EUR
 inStock: true
-prodname: Ferrari 0830395 FXX - Reloj de pulsera para hombre
+prodname: 'Ferrari 0830395 FXX - Reloj de pulsera para hombre'
 ---
 
 Está [Ferrari 0830395 FXX - Reloj de pulsera para hombre](https://www.amazon.es/dp/B01N5MHX0U/?tag=tolees-21) con 50.00 de descuento por 97.5 EUR (original: 195 EUR) en el siguiente enlace!

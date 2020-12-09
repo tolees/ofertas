@@ -14,7 +14,7 @@ currency: EUR
 price: 124
 comparePrice: 195 EUR
 inStock: true
-prodname: Guess W0076G2 - Reloj cronógrafo de cuarzo para hombre con correa de piel  color marrón
+prodname: 'Guess W0076G2 - Reloj cronógrafo de cuarzo para hombre con correa de piel  color marrón'
 ---
 
 Está [Guess W0076G2 - Reloj cronógrafo de cuarzo para hombre con correa de piel  color marrón](https://www.amazon.es/dp/B008YLC4EW/?tag=tolees-21) con 36.41 de descuento por 124 EUR (original: 195 EUR) en el siguiente enlace!

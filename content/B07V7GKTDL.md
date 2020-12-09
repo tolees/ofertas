@@ -14,7 +14,7 @@ currency: EUR
 price: 24.81
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Calvin Klein Washed Stripe Stretch Shirt  f  Camisa  Azul  Night Sky Chw   Small para Hombre
+prodname: 'Calvin Klein Washed Stripe Stretch Shirt  f  Camisa  Azul  Night Sky Chw   Small para Hombre'
 ---
 
 Tienes [Calvin Klein Washed Stripe Stretch Shirt  f  Camisa  Azul  Night Sky Chw   Small para Hombre](https://www.amazon.es/dp/B07V7GKTDL/?tag=tolees-21) con un 64.04 % de descuento con precio de oferta de 24.81 EUR (original: 69.0 EUR) en el siguiente enlace!

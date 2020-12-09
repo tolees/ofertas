@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 14.94 EUR
 inStock: true
-prodname: Rexona Desodorante Antitranspirante Invisible en ropa blanca y negra - Pack de 6 x 200 ml  Total: 1200 ml 
+prodname: 'Rexona Desodorante Antitranspirante Invisible en ropa blanca y negra - Pack de 6 x 200 ml  Total: 1200 ml '
 ---
 
 Ahora mismo tienes [Rexona Desodorante Antitranspirante Invisible en ropa blanca y negra - Pack de 6 x 200 ml  Total: 1200 ml ](https://www.amazon.es/dp/B07QSLM7LS/?tag=tolees-21) a 9.99 EUR (original: 14.94 EUR) (33.13 %  de descuento) en el siguiente enlace!

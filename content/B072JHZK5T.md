@@ -14,7 +14,7 @@ currency: EUR
 price: 29.23
 comparePrice: 67 EUR
 inStock: true
-prodname: Asics Aaron  Zapatillas Unisex Adulto  Verde  Aloe/Aloe   39.5 EU
+prodname: 'Asics Aaron  Zapatillas Unisex Adulto  Verde  Aloe/Aloe   39.5 EU'
 ---
 
 Tienes [Asics Aaron  Zapatillas Unisex Adulto  Verde  Aloe/Aloe   39.5 EU](https://www.amazon.es/dp/B072JHZK5T/?tag=tolees-21) con un 56.37 % de descuento con precio de oferta de 29.23 EUR (original: 67 EUR) en el siguiente enlace!

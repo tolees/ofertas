@@ -14,7 +14,7 @@ currency: EUR
 price: 38.47
 comparePrice: 59.95 EUR
 inStock: true
-prodname: adidas Predator 19.3 FG J  Zapatillas de Fútbol para Bebés  Negro Core Black/Active Red  36.5 EU
+prodname: 'adidas Predator 19.3 FG J  Zapatillas de Fútbol para Bebés  Negro Core Black/Active Red  36.5 EU'
 ---
 
 Está [adidas Predator 19.3 FG J  Zapatillas de Fútbol para Bebés  Negro Core Black/Active Red  36.5 EU](https://www.amazon.es/dp/B07JZQBQL7/?tag=tolees-21) con 35.83 de descuento por 38.47 EUR (original: 59.95 EUR) en el siguiente enlace!

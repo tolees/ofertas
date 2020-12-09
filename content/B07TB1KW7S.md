@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 20.9 EUR
 inStock: true
-prodname: Amiibo - Link / Link s Awakening [Colección Zelda]
+prodname: 'Amiibo - Link / Link s Awakening [Colección Zelda]'
 ---
 
 Ahora mismo tienes [Amiibo - Link / Link s Awakening [Colección Zelda]](https://www.amazon.es/dp/B07TB1KW7S/?tag=tolees-21) a 12.99 EUR (original: 20.9 EUR) (37.85 %  de descuento) en el siguiente enlace!

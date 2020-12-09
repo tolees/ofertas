@@ -14,7 +14,7 @@ currency: EUR
 price: 93.49
 comparePrice: 135.0 EUR
 inStock: true
-prodname: Hunter Original Tall Classic  Botas de Agua Unisex Adulto  Azul  Navy RMA   37 EU
+prodname: 'Hunter Original Tall Classic  Botas de Agua Unisex Adulto  Azul  Navy RMA   37 EU'
 ---
 
 Está [Hunter Original Tall Classic  Botas de Agua Unisex Adulto  Azul  Navy RMA   37 EU](https://www.amazon.es/dp/B00K1XAWXQ/?tag=tolees-21) con 30.75 de descuento por 93.49 EUR (original: 135.0 EUR) en el siguiente enlace!

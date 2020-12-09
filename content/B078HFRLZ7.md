@@ -14,7 +14,7 @@ currency: EUR
 price: 7.91
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Springfield 6793665 Camisa  Mujer  Blanco  Blanco   42  Tamaño del Fabricante:42 
+prodname: 'Springfield 6793665 Camisa  Mujer  Blanco  Blanco   42  Tamaño del Fabricante:42 '
 ---
 
 Está [Springfield 6793665 Camisa  Mujer  Blanco  Blanco   42  Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B078HFRLZ7/?tag=tolees-21) con 65.59 de descuento por 7.91 EUR (original: 22.99 EUR) en el siguiente enlace!

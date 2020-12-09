@@ -14,7 +14,7 @@ currency: EUR
 price: 114.9
 comparePrice: 239.0 EUR
 inStock: true
-prodname: BERING Reloj Analógico para Hombre de Energía Solar con Correa en Acero Inoxidable 14440-393  Azul/Azul
+prodname: 'BERING Reloj Analógico para Hombre de Energía Solar con Correa en Acero Inoxidable 14440-393  Azul/Azul'
 ---
 
 Ahora mismo tienes [BERING Reloj Analógico para Hombre de Energía Solar con Correa en Acero Inoxidable 14440-393  Azul/Azul](https://www.amazon.es/dp/B01EYQL96O/?tag=tolees-21) a 114.9 EUR (original: 239.0 EUR) (51.92 %  de descuento) en el siguiente enlace!

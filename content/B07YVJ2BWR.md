@@ -14,7 +14,7 @@ currency: EUR
 price: 75.95
 comparePrice: 108.95 EUR
 inStock: true
-prodname: IKOHS WARMTOW - Toallero Eléctrico Bajo Consumo  500 W  Calentador  Secador de Toallas  Secado Potente  Pantatalla LCD  IP24 antisalpicaduras  Apto para Baños  Programable  Temporizador
+prodname: 'IKOHS WARMTOW - Toallero Eléctrico Bajo Consumo  500 W  Calentador  Secador de Toallas  Secado Potente  Pantatalla LCD  IP24 antisalpicaduras  Apto para Baños  Programable  Temporizador'
 ---
 
 Ahora mismo tienes [IKOHS WARMTOW - Toallero Eléctrico Bajo Consumo  500 W  Calentador  Secador de Toallas  Secado Potente  Pantatalla LCD  IP24 antisalpicaduras  Apto para Baños  Programable  Temporizador](https://www.amazon.es/dp/B07YVJ2BWR/?tag=tolees-21) a 75.95 EUR (original: 108.95 EUR) (30.29 %  de descuento) en el siguiente enlace!

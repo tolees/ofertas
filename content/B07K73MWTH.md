@@ -14,7 +14,7 @@ currency: EUR
 price: 51.3
 comparePrice: 110 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Caspian Adapt 3406   31W / 34L
+prodname: 'Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Caspian Adapt 3406   31W / 34L'
 ---
 
 Tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Caspian Adapt 3406   31W / 34L](https://www.amazon.es/dp/B07K73MWTH/?tag=tolees-21) con un 53.36 % de descuento con precio de oferta de 51.3 EUR (original: 110 EUR) en el siguiente enlace!

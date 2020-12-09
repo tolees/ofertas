@@ -14,7 +14,7 @@ currency: EUR
 price: 7.02
 comparePrice: 61.39 EUR
 inStock: true
-prodname: Evans Extra Wide Tan Slip On  Mocasines para Mujer  Marrón  Brown 210   42 EU
+prodname: 'Evans Extra Wide Tan Slip On  Mocasines para Mujer  Marrón  Brown 210   42 EU'
 ---
 
 Ahora mismo tienes [Evans Extra Wide Tan Slip On  Mocasines para Mujer  Marrón  Brown 210   42 EU](https://www.amazon.es/dp/B06WVD6TH9/?tag=tolees-21) a 7.02 EUR (original: 61.39 EUR) (88.56 %  de descuento) en el siguiente enlace!

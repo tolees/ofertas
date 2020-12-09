@@ -14,7 +14,7 @@ currency: EUR
 price: 3.5
 comparePrice: 5.38 EUR
 inStock: true
-prodname: LIANQI Bolsos de Mujer Bolso de Mensajero de Lona con impresión Bolso de Hombro Bolso de Compras Bolso de cosméticos de Verano para Mujer Bolso Bandolera - Beige
+prodname: 'LIANQI Bolsos de Mujer Bolso de Mensajero de Lona con impresión Bolso de Hombro Bolso de Compras Bolso de cosméticos de Verano para Mujer Bolso Bandolera - Beige'
 ---
 
 Ahora mismo tienes [LIANQI Bolsos de Mujer Bolso de Mensajero de Lona con impresión Bolso de Hombro Bolso de Compras Bolso de cosméticos de Verano para Mujer Bolso Bandolera - Beige](https://www.amazon.es/dp/B08LVSKTB1/?tag=tolees-21) a 3.5 EUR (original: 5.38 EUR) (34.94 %  de descuento) en el siguiente enlace!

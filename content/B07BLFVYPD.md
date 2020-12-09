@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 29.65 EUR
 inStock: true
-prodname: Tucano Smilza bolsa super slim con detalles contrastantes para portátiles de 13"/14"  en negro.
+prodname: 'Tucano Smilza bolsa super slim con detalles contrastantes para portátiles de 13"/14"  en negro.'
 ---
 
 Tienes [Tucano Smilza bolsa super slim con detalles contrastantes para portátiles de 13"/14"  en negro.](https://www.amazon.es/dp/B07BLFVYPD/?tag=tolees-21) con un 59.56 % de descuento con precio de oferta de 11.99 EUR (original: 29.65 EUR) en el siguiente enlace!

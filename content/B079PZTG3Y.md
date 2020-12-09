@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 44.1 EUR
 inStock: true
-prodname: Luz de Bicicleta con LED Potente. Luz Intermitente USB Recargable con 6 Modalidades. Faro para Bici Brillante y Resistente al Agua IPX4  PACK DELANTERA Y TRASERA 
+prodname: 'Luz de Bicicleta con LED Potente. Luz Intermitente USB Recargable con 6 Modalidades. Faro para Bici Brillante y Resistente al Agua IPX4  PACK DELANTERA Y TRASERA '
 ---
 
 Tienes [Luz de Bicicleta con LED Potente. Luz Intermitente USB Recargable con 6 Modalidades. Faro para Bici Brillante y Resistente al Agua IPX4  PACK DELANTERA Y TRASERA ](https://www.amazon.es/dp/B079PZTG3Y/?tag=tolees-21) con un 36.53 % de descuento con precio de oferta de 27.99 EUR (original: 44.1 EUR) en el siguiente enlace!

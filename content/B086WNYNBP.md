@@ -14,7 +14,7 @@ currency: EUR
 price: 4.25
 comparePrice: 19.95 EUR
 inStock: true
-prodname: CARPISA® Riñonera con bolsillo frontal de tela - KEID GLITTER plateado Talla única
+prodname: 'CARPISA® Riñonera con bolsillo frontal de tela - KEID GLITTER plateado Talla única'
 ---
 
 Está [CARPISA® Riñonera con bolsillo frontal de tela - KEID GLITTER plateado Talla única](https://www.amazon.es/dp/B086WNYNBP/?tag=tolees-21) con 78.70 de descuento por 4.25 EUR (original: 19.95 EUR) en el siguiente enlace!

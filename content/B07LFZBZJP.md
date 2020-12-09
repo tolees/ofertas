@@ -14,7 +14,7 @@ currency: EUR
 price: 32.3
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Pepe Jeans North Court  Zapatillas para Hombre  Blanco  800WHITE 800   41 EU
+prodname: 'Pepe Jeans North Court  Zapatillas para Hombre  Blanco  800WHITE 800   41 EU'
 ---
 
 Tienes [Pepe Jeans North Court  Zapatillas para Hombre  Blanco  800WHITE 800   41 EU](https://www.amazon.es/dp/B07LFZBZJP/?tag=tolees-21) con un 46.08 % de descuento con precio de oferta de 32.3 EUR (original: 59.9 EUR) en el siguiente enlace!

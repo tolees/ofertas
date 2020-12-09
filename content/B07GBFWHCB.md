@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Adidas Eezay Flip Flop  Zapatos de Playa y Piscina para Mujer  Nero FTWR White/Core Black  40.5 EU
+prodname: 'Adidas Eezay Flip Flop  Zapatos de Playa y Piscina para Mujer  Nero FTWR White/Core Black  40.5 EU'
 ---
 
 Ahora mismo tienes [Adidas Eezay Flip Flop  Zapatos de Playa y Piscina para Mujer  Nero FTWR White/Core Black  40.5 EU](https://www.amazon.es/dp/B07GBFWHCB/?tag=tolees-21) a 11.95 EUR (original: 19.95 EUR) (40.10 %  de descuento) en el siguiente enlace!

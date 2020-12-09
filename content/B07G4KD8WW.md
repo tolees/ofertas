@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Razer Kraken Tournament Edition Auriculares Gaming  con Cable  Control de Audio y THX Spatial Audio  Alámbrico  Negro
+prodname: 'Razer Kraken Tournament Edition Auriculares Gaming  con Cable  Control de Audio y THX Spatial Audio  Alámbrico  Negro'
 ---
 
 Ahora mismo tienes [Razer Kraken Tournament Edition Auriculares Gaming  con Cable  Control de Audio y THX Spatial Audio  Alámbrico  Negro](https://www.amazon.es/dp/B07G4KD8WW/?tag=tolees-21) a 59.99 EUR (original: 99.99 EUR) (40.00 %  de descuento) en el siguiente enlace!

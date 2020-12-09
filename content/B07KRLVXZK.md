@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: adidas Essentials 3 Bandas Tight Mallas  Mujer  Negro  Black/White   L
+prodname: 'adidas Essentials 3 Bandas Tight Mallas  Mujer  Negro  Black/White   L'
 ---
 
 Está [adidas Essentials 3 Bandas Tight Mallas  Mujer  Negro  Black/White   L](https://www.amazon.es/dp/B07KRLVXZK/?tag=tolees-21) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

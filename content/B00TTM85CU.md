@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 9.05 EUR
 inStock: true
-prodname: Ewent Eminent EW1241 Cable Seguridad combinacion
+prodname: 'Ewent Eminent EW1241 Cable Seguridad combinacion'
 ---
 
 Está [Ewent Eminent EW1241 Cable Seguridad combinacion](https://www.amazon.es/dp/B00TTM85CU/?tag=tolees-21) con 44.86 de descuento por 4.99 EUR (original: 9.05 EUR) en el siguiente enlace!

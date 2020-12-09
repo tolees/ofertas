@@ -14,7 +14,7 @@ currency: EUR
 price: 39.2
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Apple Funda de cuero  para iPhone 11 Pro  - Azul medianoche
+prodname: 'Apple Funda de cuero  para iPhone 11 Pro  - Azul medianoche'
 ---
 
 Está [Apple Funda de cuero  para iPhone 11 Pro  - Azul medianoche](https://www.amazon.es/dp/B07XK1PTW8/?tag=tolees-21) con 28.73 de descuento por 39.2 EUR (original: 55.0 EUR) en el siguiente enlace!

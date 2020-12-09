@@ -14,7 +14,7 @@ currency: EUR
 price: 22.53
 comparePrice: 39.95 EUR
 inStock: true
-prodname: XTI 48862  Sandalias con Plataforma para Mujer  Rosa Nude  37 EU
+prodname: 'XTI 48862  Sandalias con Plataforma para Mujer  Rosa Nude  37 EU'
 ---
 
 Tienes [XTI 48862  Sandalias con Plataforma para Mujer  Rosa Nude  37 EU](https://www.amazon.es/dp/B07JXJXJMD/?tag=tolees-21) con un 43.60 % de descuento con precio de oferta de 22.53 EUR (original: 39.95 EUR) en el siguiente enlace!

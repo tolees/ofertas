@@ -14,7 +14,7 @@ currency: EUR
 price: 13.83
 comparePrice: 26.08 EUR
 inStock: true
-prodname: Energy Up Gel Cafeína Sabor Naranja. Con plus de sodio. Energía inmediata
+prodname: 'Energy Up Gel Cafeína Sabor Naranja. Con plus de sodio. Energía inmediata'
 ---
 
 Ahora mismo tienes [Energy Up Gel Cafeína Sabor Naranja. Con plus de sodio. Energía inmediata](https://www.amazon.es/dp/B00GSR6WZG/?tag=tolees-21) a 13.83 EUR (original: 26.08 EUR) (46.97 %  de descuento) en el siguiente enlace!

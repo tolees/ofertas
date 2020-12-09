@@ -14,7 +14,7 @@ currency: EUR
 price: 8.63
 comparePrice: 13.3 EUR
 inStock: true
-prodname: STANLEY 4-18-226 - Juego de botadores y punzones  6 piezas 
+prodname: 'STANLEY 4-18-226 - Juego de botadores y punzones  6 piezas '
 ---
 
 Ahora mismo tienes [STANLEY 4-18-226 - Juego de botadores y punzones  6 piezas ](https://www.amazon.es/dp/B000X2CYEU/?tag=tolees-21) a 8.63 EUR (original: 13.3 EUR) (35.11 %  de descuento) en el siguiente enlace!

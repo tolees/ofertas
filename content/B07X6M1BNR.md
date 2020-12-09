@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: LIGE Relojes Hombres Cronógrafo Acero Inoxidable Cuarzo Analógico Reloj Vestido Negocios Deporte Impermeable Reloj de Pulsera para Hombres
+prodname: 'LIGE Relojes Hombres Cronógrafo Acero Inoxidable Cuarzo Analógico Reloj Vestido Negocios Deporte Impermeable Reloj de Pulsera para Hombres'
 ---
 
 Está [LIGE Relojes Hombres Cronógrafo Acero Inoxidable Cuarzo Analógico Reloj Vestido Negocios Deporte Impermeable Reloj de Pulsera para Hombres](https://www.amazon.es/dp/B07X6M1BNR/?tag=tolees-21) con 74.62 de descuento por 32.99 EUR (original: 129.99 EUR) en el siguiente enlace!

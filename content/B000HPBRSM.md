@@ -14,7 +14,7 @@ currency: EUR
 price: 9.2
 comparePrice: 12.67 EUR
 inStock: true
-prodname: Verbatim CD-R AZO Data Vinyl  Pack de 10 discos 
+prodname: 'Verbatim CD-R AZO Data Vinyl  Pack de 10 discos '
 ---
 
 Ahora mismo tienes [Verbatim CD-R AZO Data Vinyl  Pack de 10 discos ](https://www.amazon.es/dp/B000HPBRSM/?tag=tolees-21) a 9.2 EUR (original: 12.67 EUR) (27.39 %  de descuento) en el siguiente enlace!

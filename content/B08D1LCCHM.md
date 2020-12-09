@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: amiibo Heroe
+prodname: 'amiibo Heroe'
 ---
 
 Tienes [amiibo Heroe](https://www.amazon.es/dp/B08D1LCCHM/?tag=tolees-21) con un 48.02 % de descuento con precio de oferta de 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!

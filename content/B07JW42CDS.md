@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Lee Extreme Motion Straight Jeans  Trip  31W / 30L para Hombre
+prodname: 'Lee Extreme Motion Straight Jeans  Trip  31W / 30L para Hombre'
 ---
 
 Está [Lee Extreme Motion Straight Jeans  Trip  31W / 30L para Hombre](https://www.amazon.es/dp/B07JW42CDS/?tag=tolees-21) con 57.13 de descuento por 29.99 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Educa- Rápido-Dame Esos 5 Juego de Mesa Familiar  a Partir de 12 años  17914 
+prodname: 'Educa- Rápido-Dame Esos 5 Juego de Mesa Familiar  a Partir de 12 años  17914 '
 ---
 
 Tienes [Educa- Rápido-Dame Esos 5 Juego de Mesa Familiar  a Partir de 12 años  17914 ](https://www.amazon.es/dp/B07D7PMYFN/?tag=tolees-21) con un 56.63 % de descuento con precio de oferta de 12.99 EUR (original: 29.95 EUR) en el siguiente enlace!

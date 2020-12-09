@@ -14,7 +14,7 @@ currency: EUR
 price: 11.34
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES Jjiace Jjharper WW Navy Blazer Ltd Pantalones  Azul  W30/L34 para Hombre
+prodname: 'JACK & JONES Jjiace Jjharper WW Navy Blazer Ltd Pantalones  Azul  W30/L34 para Hombre'
 ---
 
 Tienes [JACK & JONES Jjiace Jjharper WW Navy Blazer Ltd Pantalones  Azul  W30/L34 para Hombre](https://www.amazon.es/dp/B07FQDQ33B/?tag=tolees-21) con un 71.64 % de descuento con precio de oferta de 11.34 EUR (original: 39.99 EUR) en el siguiente enlace!

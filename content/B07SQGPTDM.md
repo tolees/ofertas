@@ -14,7 +14,7 @@ currency: EUR
 price: 65.18
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox U Renan B  Zapatillas para Hombre  Gris  Taupe C6029   42 EU
+prodname: 'Geox U Renan B  Zapatillas para Hombre  Gris  Taupe C6029   42 EU'
 ---
 
 Tienes [Geox U Renan B  Zapatillas para Hombre  Gris  Taupe C6029   42 EU](https://www.amazon.es/dp/B07SQGPTDM/?tag=tolees-21) con un 34.75 % de descuento con precio de oferta de 65.18 EUR (original: 99.9 EUR) en el siguiente enlace!

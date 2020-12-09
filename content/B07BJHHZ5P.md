@@ -14,7 +14,7 @@ currency: EUR
 price: 32.92
 comparePrice: 109.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Deconstructed Slim Jeans  Azul  Rinsed 8968-082   44W / 34L para Hombre
+prodname: 'G-STAR RAW 3301 Deconstructed Slim Jeans  Azul  Rinsed 8968-082   44W / 34L para Hombre'
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Slim Jeans  Azul  Rinsed 8968-082   44W / 34L para Hombre](https://www.amazon.es/dp/B07BJHHZ5P/?tag=tolees-21) con 70.06 de descuento por 32.92 EUR (original: 109.95 EUR) en el siguiente enlace!

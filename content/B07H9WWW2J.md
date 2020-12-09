@@ -14,7 +14,7 @@ currency: EUR
 price: 40.16
 comparePrice: 73.08 EUR
 inStock: true
-prodname: Rockport Slayter Slipon Cognac  Mocasines para Hombre  Marrón  42 EU
+prodname: 'Rockport Slayter Slipon Cognac  Mocasines para Hombre  Marrón  42 EU'
 ---
 
 Está [Rockport Slayter Slipon Cognac  Mocasines para Hombre  Marrón  42 EU](https://www.amazon.es/dp/B07H9WWW2J/?tag=tolees-21) con 45.05 de descuento por 40.16 EUR (original: 73.08 EUR) en el siguiente enlace!

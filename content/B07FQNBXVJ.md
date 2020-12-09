@@ -14,7 +14,7 @@ currency: EUR
 price: 28.1
 comparePrice: 55 EUR
 inStock: true
-prodname: Hurley M Phantom Zen Volley 17  BAÑADORES  Hombre  Black  M
+prodname: 'Hurley M Phantom Zen Volley 17  BAÑADORES  Hombre  Black  M'
 ---
 
 Tienes [Hurley M Phantom Zen Volley 17  BAÑADORES  Hombre  Black  M](https://www.amazon.es/dp/B07FQNBXVJ/?tag=tolees-21) con un 48.91 % de descuento con precio de oferta de 28.1 EUR (original: 55 EUR) en el siguiente enlace!

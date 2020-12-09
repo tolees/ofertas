@@ -14,7 +14,7 @@ currency: EUR
 price: 20.59
 comparePrice: 61.83 EUR
 inStock: true
-prodname: GotechoD Desafío de la Gravedad Coche de Escalada RC Control Remoto Coche Regalo de cumpleaños para niños de 6 a 15 años
+prodname: 'GotechoD Desafío de la Gravedad Coche de Escalada RC Control Remoto Coche Regalo de cumpleaños para niños de 6 a 15 años'
 ---
 
 Ahora mismo tienes [GotechoD Desafío de la Gravedad Coche de Escalada RC Control Remoto Coche Regalo de cumpleaños para niños de 6 a 15 años](https://www.amazon.es/dp/B07QP6WMRD/?tag=tolees-21) a 20.59 EUR (original: 61.83 EUR) (66.70 %  de descuento) en el siguiente enlace!

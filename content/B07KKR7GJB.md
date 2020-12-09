@@ -14,7 +14,7 @@ currency: EUR
 price: 26.6
 comparePrice: 50 EUR
 inStock: true
-prodname: Naf Naf Kenp17 Pantalones  Naranja  Brique 1516   W40  Talla del Fabricante: 40  para Mujer
+prodname: 'Naf Naf Kenp17 Pantalones  Naranja  Brique 1516   W40  Talla del Fabricante: 40  para Mujer'
 ---
 
 Tienes [Naf Naf Kenp17 Pantalones  Naranja  Brique 1516   W40  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07KKR7GJB/?tag=tolees-21) con un 46.80 % de descuento con precio de oferta de 26.6 EUR (original: 50 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 78.16
 comparePrice: 149.95 EUR
 inStock: true
-prodname: MARTINELLI Botín de Piel Zinnia 1386
+prodname: 'MARTINELLI Botín de Piel Zinnia 1386'
 ---
 
 Está [MARTINELLI Botín de Piel Zinnia 1386](https://www.amazon.es/dp/B07PQHLPDT/?tag=tolees-21) con 47.88 de descuento por 78.16 EUR (original: 149.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 41.55
 comparePrice: 95 EUR
 inStock: true
-prodname: El Ganso 2020s180011  Pantalones para Mujer   Azul/Blanco   WNA Tamaño del Fabricante:38 
+prodname: 'El Ganso 2020s180011  Pantalones para Mujer   Azul/Blanco   WNA Tamaño del Fabricante:38 '
 ---
 
 Está [El Ganso 2020s180011  Pantalones para Mujer   Azul/Blanco   WNA Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B074QVHLLP/?tag=tolees-21) con 56.26 de descuento por 41.55 EUR (original: 95 EUR) en el siguiente enlace!

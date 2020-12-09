@@ -14,7 +14,7 @@ currency: EUR
 price: 67.24
 comparePrice: 200 EUR
 inStock: true
-prodname: Burton Covert Chaqueta de Snowboard  Hombre  Verde  Mosstone/Clover   XL
+prodname: 'Burton Covert Chaqueta de Snowboard  Hombre  Verde  Mosstone/Clover   XL'
 ---
 
 Está [Burton Covert Chaqueta de Snowboard  Hombre  Verde  Mosstone/Clover   XL](https://www.amazon.es/dp/B07F7VVKNW/?tag=tolees-21) con 66.38 de descuento por 67.24 EUR (original: 200 EUR) en el siguiente enlace!

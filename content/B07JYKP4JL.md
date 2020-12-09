@@ -14,7 +14,7 @@ currency: EUR
 price: 39.98
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas Deerupt Runner W Zapatillas de Running Mujer  Blanco  Ftwr White/Grey One F17/Clear Mint Ftwr White/Grey One F17/Clear Mint   36 EU
+prodname: 'adidas Deerupt Runner W Zapatillas de Running Mujer  Blanco  Ftwr White/Grey One F17/Clear Mint Ftwr White/Grey One F17/Clear Mint   36 EU'
 ---
 
 Está [adidas Deerupt Runner W Zapatillas de Running Mujer  Blanco  Ftwr White/Grey One F17/Clear Mint Ftwr White/Grey One F17/Clear Mint   36 EU](https://www.amazon.es/dp/B07JYKP4JL/?tag=tolees-21) con 60.00 de descuento por 39.98 EUR (original: 99.95 EUR) en el siguiente enlace!

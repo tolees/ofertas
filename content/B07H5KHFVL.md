@@ -14,7 +14,7 @@ currency: EUR
 price: 37.49
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Mesa Asiento de mesa para bebé – plegable Trona de Viaje Arnés de 5 puntos  Sillita para bebé ajustable a la mesa
+prodname: 'Mesa Asiento de mesa para bebé – plegable Trona de Viaje Arnés de 5 puntos  Sillita para bebé ajustable a la mesa'
 ---
 
 Tienes [Mesa Asiento de mesa para bebé – plegable Trona de Viaje Arnés de 5 puntos  Sillita para bebé ajustable a la mesa](https://www.amazon.es/dp/B07H5KHFVL/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 37.49 EUR (original: 49.99 EUR) en el siguiente enlace!

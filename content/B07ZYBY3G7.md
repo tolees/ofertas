@@ -14,7 +14,7 @@ currency: EUR
 price: 10.89
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Beyblade- Hypersphere Venom Diabolos  Hasbro E7717ES0 
+prodname: 'Beyblade- Hypersphere Venom Diabolos  Hasbro E7717ES0 '
 ---
 
 Tienes [Beyblade- Hypersphere Venom Diabolos  Hasbro E7717ES0 ](https://www.amazon.es/dp/B07ZYBY3G7/?tag=tolees-21) con un 31.89 % de descuento con precio de oferta de 10.89 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 28.83
 comparePrice: 115 EUR
 inStock: true
-prodname: Gadea 40658  Zapatos Oxford Mujer  Multicolor  Charol Blanco/Charol Grey   37 EU
+prodname: 'Gadea 40658  Zapatos Oxford Mujer  Multicolor  Charol Blanco/Charol Grey   37 EU'
 ---
 
 Está [Gadea 40658  Zapatos Oxford Mujer  Multicolor  Charol Blanco/Charol Grey   37 EU](https://www.amazon.es/dp/B01NBHZOTG/?tag=tolees-21) con 74.93 de descuento por 28.83 EUR (original: 115 EUR) en el siguiente enlace!

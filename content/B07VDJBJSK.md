@@ -14,7 +14,7 @@ currency: EUR
 price: 20.16
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Desigual Vest Roseau Vestido  Multicolor  Tutti Fruti 9019   Medium para Mujer
+prodname: 'Desigual Vest Roseau Vestido  Multicolor  Tutti Fruti 9019   Medium para Mujer'
 ---
 
 Ahora mismo tienes [Desigual Vest Roseau Vestido  Multicolor  Tutti Fruti 9019   Medium para Mujer](https://www.amazon.es/dp/B07VDJBJSK/?tag=tolees-21) a 20.16 EUR (original: 79.95 EUR) (74.78 %  de descuento) en el siguiente enlace!

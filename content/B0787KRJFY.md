@@ -14,7 +14,7 @@ currency: EUR
 price: 29.74
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Columbia Meadows Omni-Heat 3D  Botas de Senderismo para Mujer  Gris  Monument  Sunset Red   38 EU
+prodname: 'Columbia Meadows Omni-Heat 3D  Botas de Senderismo para Mujer  Gris  Monument  Sunset Red   38 EU'
 ---
 
 Tienes [Columbia Meadows Omni-Heat 3D  Botas de Senderismo para Mujer  Gris  Monument  Sunset Red   38 EU](https://www.amazon.es/dp/B0787KRJFY/?tag=tolees-21) con un 78.76 % de descuento con precio de oferta de 29.74 EUR (original: 139.99 EUR) en el siguiente enlace!

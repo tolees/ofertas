@@ -14,7 +14,7 @@ currency: EUR
 price: 2.99
 comparePrice: 4.99 EUR
 inStock: true
-prodname: VYPE ePen 3 Cigarrillo electrónico Rojo
+prodname: 'VYPE ePen 3 Cigarrillo electrónico Rojo'
 ---
 
 Tienes [VYPE ePen 3 Cigarrillo electrónico Rojo](https://www.amazon.es/dp/B08FR77JSS/?tag=tolees-21) con un 40.08 % de descuento con precio de oferta de 2.99 EUR (original: 4.99 EUR) en el siguiente enlace!

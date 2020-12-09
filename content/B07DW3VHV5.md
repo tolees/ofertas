@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Altavoz Bluetooth portatiles  KOOHO S7 Altavoz Inalambrico Bluetooth  Bluetooth 4.2 Estéreo Altavoces con Micrófono  Puerto USB  AUX-IN  Llamadas Manos Libres  TF Ranura de La Tarjeta  Rojo
+prodname: 'Altavoz Bluetooth portatiles  KOOHO S7 Altavoz Inalambrico Bluetooth  Bluetooth 4.2 Estéreo Altavoces con Micrófono  Puerto USB  AUX-IN  Llamadas Manos Libres  TF Ranura de La Tarjeta  Rojo'
 ---
 
 Ahora mismo tienes [Altavoz Bluetooth portatiles  KOOHO S7 Altavoz Inalambrico Bluetooth  Bluetooth 4.2 Estéreo Altavoces con Micrófono  Puerto USB  AUX-IN  Llamadas Manos Libres  TF Ranura de La Tarjeta  Rojo](https://www.amazon.es/dp/B07DW3VHV5/?tag=tolees-21) a 35.99 EUR (original: 49.99 EUR) (28.01 %  de descuento) en el siguiente enlace!

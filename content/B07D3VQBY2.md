@@ -14,7 +14,7 @@ currency: EUR
 price: 18.1
 comparePrice: 24.99 EUR
 inStock: true
-prodname: edc by Esprit Rubine Wireless Soft  Sujetador sin Aros Mujer  Negro  Black 001   90A  Talla del Fabricante: 75A 
+prodname: 'edc by Esprit Rubine Wireless Soft  Sujetador sin Aros Mujer  Negro  Black 001   90A  Talla del Fabricante: 75A '
 ---
 
 Ahora mismo tienes [edc by Esprit Rubine Wireless Soft  Sujetador sin Aros Mujer  Negro  Black 001   90A  Talla del Fabricante: 75A ](https://www.amazon.es/dp/B07D3VQBY2/?tag=tolees-21) a 18.1 EUR (original: 24.99 EUR) (27.57 %  de descuento) en el siguiente enlace!

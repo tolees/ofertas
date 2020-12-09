@@ -14,7 +14,7 @@ currency: EUR
 price: 42.62
 comparePrice: 63.98 EUR
 inStock: true
-prodname: Decleor Aroma Svelt Firming Body Crema Cuerpo - 200 ml
+prodname: 'Decleor Aroma Svelt Firming Body Crema Cuerpo - 200 ml'
 ---
 
 Está [Decleor Aroma Svelt Firming Body Crema Cuerpo - 200 ml](https://www.amazon.es/dp/B01DICUTTI/?tag=tolees-21) con 33.39 de descuento por 42.62 EUR (original: 63.98 EUR) en el siguiente enlace!

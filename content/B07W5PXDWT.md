@@ -14,7 +14,7 @@ currency: EUR
 price: 7.49
 comparePrice: 9.99 EUR
 inStock: true
-prodname: LEGO City Great Vehicles - Barredora Urbana  Juguete de Construcción desde 5 Años  con una Minifigura de Conductor para el Camión  Juguete Ciudad de Lego  60249 
+prodname: 'LEGO City Great Vehicles - Barredora Urbana  Juguete de Construcción desde 5 Años  con una Minifigura de Conductor para el Camión  Juguete Ciudad de Lego  60249 '
 ---
 
 Está [LEGO City Great Vehicles - Barredora Urbana  Juguete de Construcción desde 5 Años  con una Minifigura de Conductor para el Camión  Juguete Ciudad de Lego  60249 ](https://www.amazon.es/dp/B07W5PXDWT/?tag=tolees-21) con 25.03 de descuento por 7.49 EUR (original: 9.99 EUR) en el siguiente enlace!

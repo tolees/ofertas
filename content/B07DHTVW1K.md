@@ -14,7 +14,7 @@ currency: EUR
 price: 15.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Quiksilver Everyday Zip Top  Niños  Dark Grey Heather  S
+prodname: 'Quiksilver Everyday Zip Top  Niños  Dark Grey Heather  S'
 ---
 
 Está [Quiksilver Everyday Zip Top  Niños  Dark Grey Heather  S](https://www.amazon.es/dp/B07DHTVW1K/?tag=tolees-21) con 60.12 de descuento por 15.95 EUR (original: 39.99 EUR) en el siguiente enlace!

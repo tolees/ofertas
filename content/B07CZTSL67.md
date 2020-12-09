@@ -14,7 +14,7 @@ currency: EUR
 price: 69.29
 comparePrice: 110.99 EUR
 inStock: true
-prodname: SALOMON Speedcross 4 GTX® Zapatillas De Trail Running Para Hombre
+prodname: 'SALOMON Speedcross 4 GTX® Zapatillas De Trail Running Para Hombre'
 ---
 
 Tienes [SALOMON Speedcross 4 GTX® Zapatillas De Trail Running Para Hombre](https://www.amazon.es/dp/B07CZTSL67/?tag=tolees-21) con un 37.57 % de descuento con precio de oferta de 69.29 EUR (original: 110.99 EUR) en el siguiente enlace!

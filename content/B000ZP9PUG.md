@@ -14,7 +14,7 @@ currency: EUR
 price: 34.2
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Crocs Bistro  Zuecos Unisex Adulto  Azul  Navy   36/37 EU
+prodname: 'Crocs Bistro  Zuecos Unisex Adulto  Azul  Navy   36/37 EU'
 ---
 
 Está [Crocs Bistro  Zuecos Unisex Adulto  Azul  Navy   36/37 EU](https://www.amazon.es/dp/B000ZP9PUG/?tag=tolees-21) con 31.59 de descuento por 34.2 EUR (original: 49.99 EUR) en el siguiente enlace!

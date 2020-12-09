@@ -14,7 +14,7 @@ currency: EUR
 price: 16.49
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Luz led para espejo 230V| Lámparas de baño | Iluminación para espejo de pared | Iluminación para espejo | Aplique de pared para baño | Aplique de baño de 30cm | IP44 | 7.2W | 470lm
+prodname: 'Luz led para espejo 230V| Lámparas de baño | Iluminación para espejo de pared | Iluminación para espejo | Aplique de pared para baño | Aplique de baño de 30cm | IP44 | 7.2W | 470lm'
 ---
 
 Tienes [Luz led para espejo 230V| Lámparas de baño | Iluminación para espejo de pared | Iluminación para espejo | Aplique de pared para baño | Aplique de baño de 30cm | IP44 | 7.2W | 470lm](https://www.amazon.es/dp/B07ZPQJMRV/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 16.49 EUR (original: 29.99 EUR) en el siguiente enlace!

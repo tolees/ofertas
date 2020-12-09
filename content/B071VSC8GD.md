@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 35 EUR
 inStock: true
-prodname: Fullmosa LC-Jan Cuero Correa  7 Colores Correa Compatible Apple Watch/iWatch Series 3  Series 2  Series 1  38mm  42mm  Marrón 38mm
+prodname: 'Fullmosa LC-Jan Cuero Correa  7 Colores Correa Compatible Apple Watch/iWatch Series 3  Series 2  Series 1  38mm  42mm  Marrón 38mm'
 ---
 
 Tienes [Fullmosa LC-Jan Cuero Correa  7 Colores Correa Compatible Apple Watch/iWatch Series 3  Series 2  Series 1  38mm  42mm  Marrón 38mm](https://www.amazon.es/dp/B071VSC8GD/?tag=tolees-21) con un 57.17 % de descuento con precio de oferta de 14.99 EUR (original: 35 EUR) en el siguiente enlace!

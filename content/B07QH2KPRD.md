@@ -14,7 +14,7 @@ currency: EUR
 price: 17.82
 comparePrice: 55.99 EUR
 inStock: true
-prodname: HYLOGY Tensiómetro de Brazo  Monitor de Presión Arterial Digital Automatico con Gran Pantalla LED  Deteccion de Irregular Arritmia  Brazalete 22-42cm  2x90 Memoria y Recargable USB
+prodname: 'HYLOGY Tensiómetro de Brazo  Monitor de Presión Arterial Digital Automatico con Gran Pantalla LED  Deteccion de Irregular Arritmia  Brazalete 22-42cm  2x90 Memoria y Recargable USB'
 ---
 
 Tienes [HYLOGY Tensiómetro de Brazo  Monitor de Presión Arterial Digital Automatico con Gran Pantalla LED  Deteccion de Irregular Arritmia  Brazalete 22-42cm  2x90 Memoria y Recargable USB](https://www.amazon.es/dp/B07QH2KPRD/?tag=tolees-21) con un 68.17 % de descuento con precio de oferta de 17.82 EUR (original: 55.99 EUR) en el siguiente enlace!

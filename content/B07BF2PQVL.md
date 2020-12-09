@@ -14,7 +14,7 @@ currency: EUR
 price: 19.49
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Mazinger Z Infinity Blu-Ray Edición Coleccionistas [Blu-ray]
+prodname: 'Mazinger Z Infinity Blu-Ray Edición Coleccionistas [Blu-ray]'
 ---
 
 Ahora mismo tienes [Mazinger Z Infinity Blu-Ray Edición Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B07BF2PQVL/?tag=tolees-21) a 19.49 EUR (original: 29.99 EUR) (35.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 133.16
 comparePrice: 189.0 EUR
 inStock: true
-prodname: Seiko Reloj de Cuarzo para Hombre con Correa de Acero Inoxidable – SGEG95P1
+prodname: 'Seiko Reloj de Cuarzo para Hombre con Correa de Acero Inoxidable – SGEG95P1'
 ---
 
 Tienes [Seiko Reloj de Cuarzo para Hombre con Correa de Acero Inoxidable – SGEG95P1](https://www.amazon.es/dp/B00IPTTMHK/?tag=tolees-21) con un 29.54 % de descuento con precio de oferta de 133.16 EUR (original: 189.0 EUR) en el siguiente enlace!

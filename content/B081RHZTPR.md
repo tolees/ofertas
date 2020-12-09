@@ -14,7 +14,7 @@ currency: EUR
 price: 42.39
 comparePrice: 62.99 EUR
 inStock: true
-prodname: TACKLIFE Sierra de Calar 800W  0~3000RPM con Láser & LED  6 Cuchillas  6 Velocidad Variable  Bajo Centro de Gravedad  Corte más Preciso  Base de Aluminio  Cambio de Cuchillas Rápido - TJS02A
+prodname: 'TACKLIFE Sierra de Calar 800W  0~3000RPM con Láser & LED  6 Cuchillas  6 Velocidad Variable  Bajo Centro de Gravedad  Corte más Preciso  Base de Aluminio  Cambio de Cuchillas Rápido - TJS02A'
 ---
 
 Tienes [TACKLIFE Sierra de Calar 800W  0~3000RPM con Láser & LED  6 Cuchillas  6 Velocidad Variable  Bajo Centro de Gravedad  Corte más Preciso  Base de Aluminio  Cambio de Cuchillas Rápido - TJS02A](https://www.amazon.es/dp/B081RHZTPR/?tag=tolees-21) con un 32.70 % de descuento con precio de oferta de 42.39 EUR (original: 62.99 EUR) en el siguiente enlace!

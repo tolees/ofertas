@@ -14,7 +14,7 @@ currency: EUR
 price: 13.49
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Pomada natural de llantén - 20ml  extracto de aceite frío  100% natural  acción altamente antifúngica - concentrado puro natural - hecho a mano en EU
+prodname: 'Pomada natural de llantén - 20ml  extracto de aceite frío  100% natural  acción altamente antifúngica - concentrado puro natural - hecho a mano en EU'
 ---
 
 Tienes [Pomada natural de llantén - 20ml  extracto de aceite frío  100% natural  acción altamente antifúngica - concentrado puro natural - hecho a mano en EU](https://www.amazon.es/dp/B07CYNT14Z/?tag=tolees-21) con un 48.10 % de descuento con precio de oferta de 13.49 EUR (original: 25.99 EUR) en el siguiente enlace!

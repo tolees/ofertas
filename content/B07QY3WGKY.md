@@ -14,7 +14,7 @@ currency: EUR
 price: 10.19
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly Almendras pelada troceada 200gr x 5
+prodname: 'Marca Amazon - Happy Belly Almendras pelada troceada 200gr x 5'
 ---
 
 Ahora mismo tienes [Marca Amazon - Happy Belly Almendras pelada troceada 200gr x 5](https://www.amazon.es/dp/B07QY3WGKY/?tag=tolees-21) a 10.19 EUR (original: 16.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

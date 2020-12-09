@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Lintelek Smartwatch de Pantalla táctil Pulsera Actividad con Monitor de Pasos  Calorías  Sueño y Ritmo Cardíaco  Reloj Inteligente Impermeable 5ATM  Reloj Deportivo Compatible con iOS y Android
+prodname: 'Lintelek Smartwatch de Pantalla táctil Pulsera Actividad con Monitor de Pasos  Calorías  Sueño y Ritmo Cardíaco  Reloj Inteligente Impermeable 5ATM  Reloj Deportivo Compatible con iOS y Android'
 ---
 
 Ahora mismo tienes [Lintelek Smartwatch de Pantalla táctil Pulsera Actividad con Monitor de Pasos  Calorías  Sueño y Ritmo Cardíaco  Reloj Inteligente Impermeable 5ATM  Reloj Deportivo Compatible con iOS y Android](https://www.amazon.es/dp/B07XYV8CHW/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

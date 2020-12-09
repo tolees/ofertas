@@ -14,7 +14,7 @@ currency: EUR
 price: 5.59
 comparePrice: 8.99 EUR
 inStock: true
-prodname: Playgro Ring Tower  Stacking Toy Pirámide Rock and Stack  Color Verde  Amarillo  Rojo  Lila  Naranja  40082 
+prodname: 'Playgro Ring Tower  Stacking Toy Pirámide Rock and Stack  Color Verde  Amarillo  Rojo  Lila  Naranja  40082 '
 ---
 
 Tienes [Playgro Ring Tower  Stacking Toy Pirámide Rock and Stack  Color Verde  Amarillo  Rojo  Lila  Naranja  40082 ](https://www.amazon.es/dp/B003SPFKOA/?tag=tolees-21) con un 37.82 % de descuento con precio de oferta de 5.59 EUR (original: 8.99 EUR) en el siguiente enlace!

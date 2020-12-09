@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 297.2 EUR
 inStock: true
-prodname: Altavoz HUAWEI Sound X - Altavoz con Cable con subwoofers Dobles Devialet  Graves a 40 Hz  6 potentes tweeters 360°  Huawei Share  NFC  Bluetooth  Starry Night
+prodname: 'Altavoz HUAWEI Sound X - Altavoz con Cable con subwoofers Dobles Devialet  Graves a 40 Hz  6 potentes tweeters 360°  Huawei Share  NFC  Bluetooth  Starry Night'
 ---
 
 Tienes [Altavoz HUAWEI Sound X - Altavoz con Cable con subwoofers Dobles Devialet  Graves a 40 Hz  6 potentes tweeters 360°  Huawei Share  NFC  Bluetooth  Starry Night](https://www.amazon.es/dp/B08CDT6FDG/?tag=tolees-21) con un 33.04 % de descuento con precio de oferta de 199.0 EUR (original: 297.2 EUR) en el siguiente enlace!

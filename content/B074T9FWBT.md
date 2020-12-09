@@ -14,7 +14,7 @@ currency: EUR
 price: 25.98
 comparePrice: 39.98 EUR
 inStock: true
-prodname: 40L Mens impermeable al aire libre impermeable deportes mochila viajes de senderismo camping bolsa mochila bolsa mejor regalo de Navidad  Azul 
+prodname: '40L Mens impermeable al aire libre impermeable deportes mochila viajes de senderismo camping bolsa mochila bolsa mejor regalo de Navidad  Azul '
 ---
 
 Tienes [40L Mens impermeable al aire libre impermeable deportes mochila viajes de senderismo camping bolsa mochila bolsa mejor regalo de Navidad  Azul ](https://www.amazon.es/dp/B074T9FWBT/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 25.98 EUR (original: 39.98 EUR) en el siguiente enlace!

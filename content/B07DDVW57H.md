@@ -14,7 +14,7 @@ currency: EUR
 price: 15.63
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Rescue Runts- Pastor Alemán  Bandai 18050 
+prodname: 'Rescue Runts- Pastor Alemán  Bandai 18050 '
 ---
 
 Ahora mismo tienes [Rescue Runts- Pastor Alemán  Bandai 18050 ](https://www.amazon.es/dp/B07DDVW57H/?tag=tolees-21) a 15.63 EUR (original: 29.99 EUR) (47.88 %  de descuento) en el siguiente enlace!

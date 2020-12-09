@@ -14,7 +14,7 @@ currency: EUR
 price: 44.98
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Corsair M65 Elite RGB Óptico FPS - Ratón para juegos  18 000 PPP Óptico Sensor  Retroiluminación RGB LED  sistema de peso ajustable   color Blanco
+prodname: 'Corsair M65 Elite RGB Óptico FPS - Ratón para juegos  18 000 PPP Óptico Sensor  Retroiluminación RGB LED  sistema de peso ajustable   color Blanco'
 ---
 
 Tienes [Corsair M65 Elite RGB Óptico FPS - Ratón para juegos  18 000 PPP Óptico Sensor  Retroiluminación RGB LED  sistema de peso ajustable   color Blanco](https://www.amazon.es/dp/B07KM9MBFD/?tag=tolees-21) con un 35.65 % de descuento con precio de oferta de 44.98 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.23
 comparePrice: 14.98 EUR
 inStock: true
-prodname: TOUCHBeauty secador uñas aire  Secador de Uñas Portátil con Aire y Luz LED Ideal para Esmalte de Uñas Regular  Tamaño Mini  Potente Ventilador  Accionado por Baterías AG-0889
+prodname: 'TOUCHBeauty secador uñas aire  Secador de Uñas Portátil con Aire y Luz LED Ideal para Esmalte de Uñas Regular  Tamaño Mini  Potente Ventilador  Accionado por Baterías AG-0889'
 ---
 
 Está [TOUCHBeauty secador uñas aire  Secador de Uñas Portátil con Aire y Luz LED Ideal para Esmalte de Uñas Regular  Tamaño Mini  Potente Ventilador  Accionado por Baterías AG-0889](https://www.amazon.es/dp/B07BBPTW8T/?tag=tolees-21) con 25.03 de descuento por 11.23 EUR (original: 14.98 EUR) en el siguiente enlace!

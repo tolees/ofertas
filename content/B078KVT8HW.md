@@ -14,7 +14,7 @@ currency: EUR
 price: 41.5
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Adidas Climacool M  Zapatillas de Trail Running para Hombre  Gris  Gritre/Negbas/Plamat 000   41 1/3 EU
+prodname: 'Adidas Climacool M  Zapatillas de Trail Running para Hombre  Gris  Gritre/Negbas/Plamat 000   41 1/3 EU'
 ---
 
 Tienes [Adidas Climacool M  Zapatillas de Trail Running para Hombre  Gris  Gritre/Negbas/Plamat 000   41 1/3 EU](https://www.amazon.es/dp/B078KVT8HW/?tag=tolees-21) con un 58.48 % de descuento con precio de oferta de 41.5 EUR (original: 99.95 EUR) en el siguiente enlace!

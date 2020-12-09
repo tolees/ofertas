@@ -14,7 +14,7 @@ currency: EUR
 price: 298.99
 comparePrice: 399.0 EUR
 inStock: true
-prodname: Pikolin Leah - Colchón viscoelástico y espuma HR   150x190  Firmeza Media-Alta  Confort Visco  Calidad Óptima  Protección Higiénica Total
+prodname: 'Pikolin Leah - Colchón viscoelástico y espuma HR   150x190  Firmeza Media-Alta  Confort Visco  Calidad Óptima  Protección Higiénica Total'
 ---
 
 Ahora mismo tienes [Pikolin Leah - Colchón viscoelástico y espuma HR   150x190  Firmeza Media-Alta  Confort Visco  Calidad Óptima  Protección Higiénica Total](https://www.amazon.es/dp/B07YDW4KLR/?tag=tolees-21) a 298.99 EUR (original: 399.0 EUR) (25.07 %  de descuento) en el siguiente enlace!

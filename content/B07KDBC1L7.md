@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Echo Show 5: mantén el contacto con la ayuda de Alexa  blanco
+prodname: 'Echo Show 5: mantén el contacto con la ayuda de Alexa  blanco'
 ---
 
 Ahora mismo tienes [Echo Show 5: mantén el contacto con la ayuda de Alexa  blanco](https://www.amazon.es/dp/B07KDBC1L7/?tag=tolees-21) a 44.99 EUR (original: 89.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32.45
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Pepe Jeans London  Zapatillas Mujer  Azul  Marine   37 EU
+prodname: 'Pepe Jeans London  Zapatillas Mujer  Azul  Marine   37 EU'
 ---
 
 Está [Pepe Jeans London  Zapatillas Mujer  Azul  Marine   37 EU](https://www.amazon.es/dp/B01LZ4GLKZ/?tag=tolees-21) con 34.97 de descuento por 32.45 EUR (original: 49.9 EUR) en el siguiente enlace!

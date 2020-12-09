@@ -14,7 +14,7 @@ currency: EUR
 price: 12.45
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s Vneck Camiseta  Annalise Stripe Sepia Rose  L para Mujer
+prodname: 'Levi s Vneck Camiseta  Annalise Stripe Sepia Rose  L para Mujer'
 ---
 
 Está [Levi s Vneck Camiseta  Annalise Stripe Sepia Rose  L para Mujer](https://www.amazon.es/dp/B07ZVQNMMB/?tag=tolees-21) con 50.20 de descuento por 12.45 EUR (original: 25.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.59
 comparePrice: 99.95 EUR
 inStock: true
-prodname: FILA Disruptor  Zapatillas para Hombre  White  45 EU
+prodname: 'FILA Disruptor  Zapatillas para Hombre  White  45 EU'
 ---
 
 Está [FILA Disruptor  Zapatillas para Hombre  White  45 EU](https://www.amazon.es/dp/B07B3YFKFD/?tag=tolees-21) con 76.40 de descuento por 23.59 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.25
 comparePrice: 6.39 EUR
 inStock: true
-prodname: LIGH Creative USB Flash Drive 32G Pen Drive Memoria USB Externa portátil Impermeable Disco en U a Prueba de Polvo con Llavero - Plata
+prodname: 'LIGH Creative USB Flash Drive 32G Pen Drive Memoria USB Externa portátil Impermeable Disco en U a Prueba de Polvo con Llavero - Plata'
 ---
 
 Tienes [LIGH Creative USB Flash Drive 32G Pen Drive Memoria USB Externa portátil Impermeable Disco en U a Prueba de Polvo con Llavero - Plata](https://www.amazon.es/dp/B08LYXHTFK/?tag=tolees-21) con un 33.49 % de descuento con precio de oferta de 4.25 EUR (original: 6.39 EUR) en el siguiente enlace!

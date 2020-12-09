@@ -14,7 +14,7 @@ currency: EUR
 price: 74.95
 comparePrice: 120 EUR
 inStock: true
-prodname: Asics Gel-Pulse 10 G-TX  Zapatillas de Entrenamiento para Hombre  Morado  Peacoat/Black 400   44 EU
+prodname: 'Asics Gel-Pulse 10 G-TX  Zapatillas de Entrenamiento para Hombre  Morado  Peacoat/Black 400   44 EU'
 ---
 
 Tienes [Asics Gel-Pulse 10 G-TX  Zapatillas de Entrenamiento para Hombre  Morado  Peacoat/Black 400   44 EU](https://www.amazon.es/dp/B07CZ22MVP/?tag=tolees-21) con un 37.54 % de descuento con precio de oferta de 74.95 EUR (original: 120 EUR) en el siguiente enlace!

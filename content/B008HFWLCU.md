@@ -14,7 +14,7 @@ currency: EUR
 price: 34.25
 comparePrice: 81 EUR
 inStock: true
-prodname: Paco Rabanne Lady Million Eau de Toilette Vaporizador 80 ml
+prodname: 'Paco Rabanne Lady Million Eau de Toilette Vaporizador 80 ml'
 ---
 
 Tienes [Paco Rabanne Lady Million Eau de Toilette Vaporizador 80 ml](https://www.amazon.es/dp/B008HFWLCU/?tag=tolees-21) con un 57.72 % de descuento con precio de oferta de 34.25 EUR (original: 81 EUR) en el siguiente enlace!

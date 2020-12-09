@@ -14,7 +14,7 @@ currency: EUR
 price: 5.66
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Real Techniques Expert Face - Brocha de rostro profesional
+prodname: 'Real Techniques Expert Face - Brocha de rostro profesional'
 ---
 
 Está [Real Techniques Expert Face - Brocha de rostro profesional](https://www.amazon.es/dp/B007O7AZBG/?tag=tolees-21) con 43.34 de descuento por 5.66 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 28.13
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Lee Ultimate Shirt Blusa  Beige  Cloud Dancer Ha  Ha  Medium para Mujer
+prodname: 'Lee Ultimate Shirt Blusa  Beige  Cloud Dancer Ha  Ha  Medium para Mujer'
 ---
 
 Ahora mismo tienes [Lee Ultimate Shirt Blusa  Beige  Cloud Dancer Ha  Ha  Medium para Mujer](https://www.amazon.es/dp/B07BPZFGJ7/?tag=tolees-21) a 28.13 EUR (original: 64.95 EUR) (56.69 %  de descuento) en el siguiente enlace!

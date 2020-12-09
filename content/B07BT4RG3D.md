@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 14.24 EUR
 inStock: true
-prodname: Mr. Wonderful Chocolatinas"Razones Por Las Que Mamá Se Lo Merece Todo"  Cartón  Pastel  36x19.5x1.5 cm
+prodname: 'Mr. Wonderful Chocolatinas"Razones Por Las Que Mamá Se Lo Merece Todo"  Cartón  Pastel  36x19.5x1.5 cm'
 ---
 
 Está [Mr. Wonderful Chocolatinas"Razones Por Las Que Mamá Se Lo Merece Todo"  Cartón  Pastel  36x19.5x1.5 cm](https://www.amazon.es/dp/B07BT4RG3D/?tag=tolees-21) con 30.13 de descuento por 9.95 EUR (original: 14.24 EUR) en el siguiente enlace!

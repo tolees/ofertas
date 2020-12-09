@@ -14,7 +14,7 @@ currency: EUR
 price: 41.32
 comparePrice: 70 EUR
 inStock: true
-prodname: The North Face Surgent Halfdome Sudadera con Capucha  Hombre  Gris  TNF Light Grey Heather   S
+prodname: 'The North Face Surgent Halfdome Sudadera con Capucha  Hombre  Gris  TNF Light Grey Heather   S'
 ---
 
 Ahora mismo tienes [The North Face Surgent Halfdome Sudadera con Capucha  Hombre  Gris  TNF Light Grey Heather   S](https://www.amazon.es/dp/B07LHKG1KS/?tag=tolees-21) a 41.32 EUR (original: 70 EUR) (40.97 %  de descuento) en el siguiente enlace!

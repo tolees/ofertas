@@ -14,7 +14,7 @@ currency: EUR
 price: 12.0
 comparePrice: 22.0 EUR
 inStock: true
-prodname: Sebastian Professional - Crema modelante para cabello  52 ml
+prodname: 'Sebastian Professional - Crema modelante para cabello  52 ml'
 ---
 
 Tienes [Sebastian Professional - Crema modelante para cabello  52 ml](https://www.amazon.es/dp/B002BEPMRO/?tag=tolees-21) con un 45.45 % de descuento con precio de oferta de 12.0 EUR (original: 22.0 EUR) en el siguiente enlace!

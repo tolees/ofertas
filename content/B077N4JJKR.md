@@ -14,7 +14,7 @@ currency: EUR
 price: 43.51
 comparePrice: 120 EUR
 inStock: true
-prodname: Asics Fuzex Rush Adapt  Zapatillas de Entrenamiento para Mujer  Azul  Porcelain White/Smoke Blue 1401   39 EU
+prodname: 'Asics Fuzex Rush Adapt  Zapatillas de Entrenamiento para Mujer  Azul  Porcelain White/Smoke Blue 1401   39 EU'
 ---
 
 Ahora mismo tienes [Asics Fuzex Rush Adapt  Zapatillas de Entrenamiento para Mujer  Azul  Porcelain White/Smoke Blue 1401   39 EU](https://www.amazon.es/dp/B077N4JJKR/?tag=tolees-21) a 43.51 EUR (original: 120 EUR) (63.74 %  de descuento) en el siguiente enlace!

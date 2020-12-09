@@ -14,7 +14,7 @@ currency: EUR
 price: 15.04
 comparePrice: 27.95 EUR
 inStock: true
-prodname: BOSS Hip Brief Heritage Slip  Negro  Black 001   X-Large para Hombre
+prodname: 'BOSS Hip Brief Heritage Slip  Negro  Black 001   X-Large para Hombre'
 ---
 
 Ahora mismo tienes [BOSS Hip Brief Heritage Slip  Negro  Black 001   X-Large para Hombre](https://www.amazon.es/dp/B07CZZVNCQ/?tag=tolees-21) a 15.04 EUR (original: 27.95 EUR) (46.19 %  de descuento) en el siguiente enlace!

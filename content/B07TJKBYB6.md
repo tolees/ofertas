@@ -14,7 +14,7 @@ currency: EUR
 price: 5.49
 comparePrice: 10.2 EUR
 inStock: true
-prodname: Ready Player One Blu-Ray - Iconic [Blu-ray]
+prodname: 'Ready Player One Blu-Ray - Iconic [Blu-ray]'
 ---
 
 Tienes [Ready Player One Blu-Ray - Iconic [Blu-ray]](https://www.amazon.es/dp/B07TJKBYB6/?tag=tolees-21) con un 46.18 % de descuento con precio de oferta de 5.49 EUR (original: 10.2 EUR) en el siguiente enlace!

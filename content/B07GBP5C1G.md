@@ -14,7 +14,7 @@ currency: EUR
 price: 1.84
 comparePrice: 7.86 EUR
 inStock: true
-prodname: Spaas Vela Cilindro 60/100 Taupe
+prodname: 'Spaas Vela Cilindro 60/100 Taupe'
 ---
 
 Ahora mismo tienes [Spaas Vela Cilindro 60/100 Taupe](https://www.amazon.es/dp/B07GBP5C1G/?tag=tolees-21) a 1.84 EUR (original: 7.86 EUR) (76.59 %  de descuento) en el siguiente enlace!

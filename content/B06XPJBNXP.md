@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Audio-Technica ATH-AR3iSBK - Auriculares portátiles  Color Negro
+prodname: 'Audio-Technica ATH-AR3iSBK - Auriculares portátiles  Color Negro'
 ---
 
 Ahora mismo tienes [Audio-Technica ATH-AR3iSBK - Auriculares portátiles  Color Negro](https://www.amazon.es/dp/B06XPJBNXP/?tag=tolees-21) a 39.99 EUR (original: 69.0 EUR) (42.04 %  de descuento) en el siguiente enlace!

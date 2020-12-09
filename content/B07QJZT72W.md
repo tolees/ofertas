@@ -14,7 +14,7 @@ currency: EUR
 price: 199.56
 comparePrice: 409.0 EUR
 inStock: true
-prodname: Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Poliuretano DZ7422
+prodname: 'Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Poliuretano DZ7422'
 ---
 
 Tienes [Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Poliuretano DZ7422](https://www.amazon.es/dp/B07QJZT72W/?tag=tolees-21) con un 51.21 % de descuento con precio de oferta de 199.56 EUR (original: 409.0 EUR) en el siguiente enlace!

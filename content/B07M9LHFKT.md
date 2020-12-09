@@ -14,7 +14,7 @@ currency: EUR
 price: 31.45
 comparePrice: 95 EUR
 inStock: true
-prodname: HUGO 50407566 - Cartera para hombre de Cuero Hombre Negro Negro  Black 001  1.5x9.5x11 cm  B x H x T 
+prodname: 'HUGO 50407566 - Cartera para hombre de Cuero Hombre Negro Negro  Black 001  1.5x9.5x11 cm  B x H x T '
 ---
 
 Ahora mismo tienes [HUGO 50407566 - Cartera para hombre de Cuero Hombre Negro Negro  Black 001  1.5x9.5x11 cm  B x H x T ](https://www.amazon.es/dp/B07M9LHFKT/?tag=tolees-21) a 31.45 EUR (original: 95 EUR) (66.89 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.07
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Munich One Indoor  Zapatillas de Deporte Unisex Adulto   Negro 18   44 EU
+prodname: 'Munich One Indoor  Zapatillas de Deporte Unisex Adulto   Negro 18   44 EU'
 ---
 
 Está [Munich One Indoor  Zapatillas de Deporte Unisex Adulto   Negro 18   44 EU](https://www.amazon.es/dp/B07N3CKYGB/?tag=tolees-21) con 55.82 de descuento por 22.07 EUR (original: 49.95 EUR) en el siguiente enlace!

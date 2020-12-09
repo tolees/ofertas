@@ -14,7 +14,7 @@ currency: EUR
 price: 21.55
 comparePrice: 65 EUR
 inStock: true
-prodname: DC Shoes Tonik TX  Zapatillas de Skateboard para Hombre  Rojo  Dark Red DRK   40.5 EU
+prodname: 'DC Shoes Tonik TX  Zapatillas de Skateboard para Hombre  Rojo  Dark Red DRK   40.5 EU'
 ---
 
 Ahora mismo tienes [DC Shoes Tonik TX  Zapatillas de Skateboard para Hombre  Rojo  Dark Red DRK   40.5 EU](https://www.amazon.es/dp/B07DW8N5GX/?tag=tolees-21) a 21.55 EUR (original: 65 EUR) (66.85 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.12
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Cotrell Edge  Zapatos de Cordones Derby Hombre  Negro  Black Smooth Leather   43 EU
+prodname: 'Clarks Cotrell Edge  Zapatos de Cordones Derby Hombre  Negro  Black Smooth Leather   43 EU'
 ---
 
 Tienes [Clarks Cotrell Edge  Zapatos de Cordones Derby Hombre  Negro  Black Smooth Leather   43 EU](https://www.amazon.es/dp/B07B8VX2QM/?tag=tolees-21) con un 54.82 % de descuento con precio de oferta de 36.12 EUR (original: 79.95 EUR) en el siguiente enlace!

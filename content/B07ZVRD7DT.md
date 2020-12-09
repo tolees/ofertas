@@ -14,7 +14,7 @@ currency: EUR
 price: 48.0
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Levi s 721 High Rise Skinny Jeans  Rio Hustle  32W / 32L para Mujer
+prodname: 'Levi s 721 High Rise Skinny Jeans  Rio Hustle  32W / 32L para Mujer'
 ---
 
 Tienes [Levi s 721 High Rise Skinny Jeans  Rio Hustle  32W / 32L para Mujer](https://www.amazon.es/dp/B07ZVRD7DT/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 48.0 EUR (original: 120.0 EUR) en el siguiente enlace!

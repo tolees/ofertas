@@ -14,7 +14,7 @@ currency: EUR
 price: 6.66
 comparePrice: 12.95 EUR
 inStock: true
-prodname: Revlon ColorStay Base de Maquillaje piel normal/seca FPS20  #240 Medium Beige  30ml
+prodname: 'Revlon ColorStay Base de Maquillaje piel normal/seca FPS20  #240 Medium Beige  30ml'
 ---
 
 Está [Revlon ColorStay Base de Maquillaje piel normal/seca FPS20  #240 Medium Beige  30ml](https://www.amazon.es/dp/B00VX6UKP0/?tag=tolees-21) con 48.57 de descuento por 6.66 EUR (original: 12.95 EUR) en el siguiente enlace!

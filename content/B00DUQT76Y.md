@@ -14,7 +14,7 @@ currency: EUR
 price: 41.75
 comparePrice: 58 EUR
 inStock: true
-prodname: Ortega RU5 - Ukelele de concierto  tapa de pícea y fondo y aros de caoba   color natural
+prodname: 'Ortega RU5 - Ukelele de concierto  tapa de pícea y fondo y aros de caoba   color natural'
 ---
 
 Tienes [Ortega RU5 - Ukelele de concierto  tapa de pícea y fondo y aros de caoba   color natural](https://www.amazon.es/dp/B00DUQT76Y/?tag=tolees-21) con un 28.02 % de descuento con precio de oferta de 41.75 EUR (original: 58 EUR) en el siguiente enlace!

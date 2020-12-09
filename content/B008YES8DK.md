@@ -14,7 +14,7 @@ currency: EUR
 price: 13.49
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Pepe Jeans Eggo Long PM501321 Top de manga larga  Blanco  White 800   Small para Hombre
+prodname: 'Pepe Jeans Eggo Long PM501321 Top de manga larga  Blanco  White 800   Small para Hombre'
 ---
 
 Está [Pepe Jeans Eggo Long PM501321 Top de manga larga  Blanco  White 800   Small para Hombre](https://www.amazon.es/dp/B008YES8DK/?tag=tolees-21) con 25.01 de descuento por 13.49 EUR (original: 17.99 EUR) en el siguiente enlace!

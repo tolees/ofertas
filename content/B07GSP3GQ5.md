@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Cortadora de Pelo Nariz y Orejas Depiladora Eléctrica para Mujeres Máquina de Afeitar Portátil 4 en 1 para Afeitarse la Nariz  el oído  las cejas  las patillas Depilación.
+prodname: 'Cortadora de Pelo Nariz y Orejas Depiladora Eléctrica para Mujeres Máquina de Afeitar Portátil 4 en 1 para Afeitarse la Nariz  el oído  las cejas  las patillas Depilación.'
 ---
 
 Ahora mismo tienes [Cortadora de Pelo Nariz y Orejas Depiladora Eléctrica para Mujeres Máquina de Afeitar Portátil 4 en 1 para Afeitarse la Nariz  el oído  las cejas  las patillas Depilación.](https://www.amazon.es/dp/B07GSP3GQ5/?tag=tolees-21) a 15.99 EUR (original: 34.99 EUR) (54.30 %  de descuento) en el siguiente enlace!

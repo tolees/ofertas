@@ -14,7 +14,7 @@ currency: EUR
 price: 1.67
 comparePrice: 3.01 EUR
 inStock: true
-prodname: 1 pieza de Soporte de Mic Anti Choque Accesorios de micrófono de Silicona - azul  como se describe
+prodname: '1 pieza de Soporte de Mic Anti Choque Accesorios de micrófono de Silicona - azul  como se describe'
 ---
 
 Tienes [1 pieza de Soporte de Mic Anti Choque Accesorios de micrófono de Silicona - azul  como se describe](https://www.amazon.es/dp/B07D4GV2VT/?tag=tolees-21) con un 44.52 % de descuento con precio de oferta de 1.67 EUR (original: 3.01 EUR) en el siguiente enlace!

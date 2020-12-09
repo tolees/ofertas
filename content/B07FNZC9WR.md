@@ -14,7 +14,7 @@ currency: EUR
 price: 9.81
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Only Nos Onlmila Lacy L/S Knt Noos Jersey  Verde  Green Gables   40  Talla del Fabricante: L  para Mujer
+prodname: 'Only Nos Onlmila Lacy L/S Knt Noos Jersey  Verde  Green Gables   40  Talla del Fabricante: L  para Mujer'
 ---
 
 Ahora mismo tienes [Only Nos Onlmila Lacy L/S Knt Noos Jersey  Verde  Green Gables   40  Talla del Fabricante: L  para Mujer](https://www.amazon.es/dp/B07FNZC9WR/?tag=tolees-21) a 9.81 EUR (original: 24.99 EUR) (60.74 %  de descuento) en el siguiente enlace!

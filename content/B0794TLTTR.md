@@ -14,7 +14,7 @@ currency: EUR
 price: 14.88
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Final Fantasy XV  Royal Edition PS4
+prodname: 'Final Fantasy XV  Royal Edition PS4'
 ---
 
 Está [Final Fantasy XV  Royal Edition PS4](https://www.amazon.es/dp/B0794TLTTR/?tag=tolees-21) con 70.23 de descuento por 14.88 EUR (original: 49.99 EUR) en el siguiente enlace!

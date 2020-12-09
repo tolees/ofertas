@@ -14,7 +14,7 @@ currency: EUR
 price: 74.9
 comparePrice: 99.9 EUR
 inStock: true
-prodname: TOIMS Reina de Las Nieves: Bicicleta para niña  Color Azul  tamaño 16 Pulgadas
+prodname: 'TOIMS Reina de Las Nieves: Bicicleta para niña  Color Azul  tamaño 16 Pulgadas'
 ---
 
 Tienes [TOIMS Reina de Las Nieves: Bicicleta para niña  Color Azul  tamaño 16 Pulgadas](https://www.amazon.es/dp/B01BN6MKFM/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 74.9 EUR (original: 99.9 EUR) en el siguiente enlace!

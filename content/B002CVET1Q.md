@@ -14,7 +14,7 @@ currency: EUR
 price: 41.44
 comparePrice: 84.2 EUR
 inStock: true
-prodname: Festina Reloj de Pulsera FP1002.07
+prodname: 'Festina Reloj de Pulsera FP1002.07'
 ---
 
 Tienes [Festina Reloj de Pulsera FP1002.07](https://www.amazon.es/dp/B002CVET1Q/?tag=tolees-21) con un 50.78 % de descuento con precio de oferta de 41.44 EUR (original: 84.2 EUR) en el siguiente enlace!

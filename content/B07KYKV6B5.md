@@ -14,7 +14,7 @@ currency: EUR
 price: 12.65
 comparePrice: 22.77 EUR
 inStock: true
-prodname: P Prettyia Lámpara Lupa de Sobremesa Ampliación 2X con 2 Luces LED
+prodname: 'P Prettyia Lámpara Lupa de Sobremesa Ampliación 2X con 2 Luces LED'
 ---
 
 Está [P Prettyia Lámpara Lupa de Sobremesa Ampliación 2X con 2 Luces LED](https://www.amazon.es/dp/B07KYKV6B5/?tag=tolees-21) con 44.44 de descuento por 12.65 EUR (original: 22.77 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.2
 comparePrice: 29.95 EUR
 inStock: true
-prodname: CARPISA ® Shopper mujer con estampado - RAMITA
+prodname: 'CARPISA ® Shopper mujer con estampado - RAMITA'
 ---
 
 Está [CARPISA ® Shopper mujer con estampado - RAMITA](https://www.amazon.es/dp/B07VD9FH2T/?tag=tolees-21) con 65.94 de descuento por 10.2 EUR (original: 29.95 EUR) en el siguiente enlace!

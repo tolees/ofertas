@@ -14,7 +14,7 @@ currency: EUR
 price: 48
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Tommy Hilfiger New Chiara Str Pq Polo SS  Mujer  Rojo  Breton STP/True Red 613   Large  Talla del Fabricante: LG 
+prodname: 'Tommy Hilfiger New Chiara Str Pq Polo SS  Mujer  Rojo  Breton STP/True Red 613   Large  Talla del Fabricante: LG '
 ---
 
 Tienes [Tommy Hilfiger New Chiara Str Pq Polo SS  Mujer  Rojo  Breton STP/True Red 613   Large  Talla del Fabricante: LG ](https://www.amazon.es/dp/B07HH86XSX/?tag=tolees-21) con un 31.33 % de descuento con precio de oferta de 48 EUR (original: 69.9 EUR) en el siguiente enlace!

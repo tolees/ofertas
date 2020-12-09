@@ -14,7 +14,7 @@ currency: EUR
 price: 8.05
 comparePrice: 11.5 EUR
 inStock: true
-prodname: PICSIL Comba ABS Cuerda de Saltar Ligera 28grs de Plástico ABS PVC Pintura Resistente Cable Ajustable 25mm para Alta Velocidad orientada Profesionales Hombres y Mujeres Fitness y Cross Training  Roja 
+prodname: 'PICSIL Comba ABS Cuerda de Saltar Ligera 28grs de Plástico ABS PVC Pintura Resistente Cable Ajustable 25mm para Alta Velocidad orientada Profesionales Hombres y Mujeres Fitness y Cross Training  Roja '
 ---
 
 Tienes [PICSIL Comba ABS Cuerda de Saltar Ligera 28grs de Plástico ABS PVC Pintura Resistente Cable Ajustable 25mm para Alta Velocidad orientada Profesionales Hombres y Mujeres Fitness y Cross Training  Roja ](https://www.amazon.es/dp/B01DPHA1US/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 8.05 EUR (original: 11.5 EUR) en el siguiente enlace!

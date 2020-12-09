@@ -14,7 +14,7 @@ currency: EUR
 price: 9.74
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Llave USB 16 GB Jon Snow - Memoria Flash Drive 2.0 Original Game of Thrones  Tribe FD032505
+prodname: 'Llave USB 16 GB Jon Snow - Memoria Flash Drive 2.0 Original Game of Thrones  Tribe FD032505'
 ---
 
 Está [Llave USB 16 GB Jon Snow - Memoria Flash Drive 2.0 Original Game of Thrones  Tribe FD032505](https://www.amazon.es/dp/B01BFFMPME/?tag=tolees-21) con 51.28 de descuento por 9.74 EUR (original: 19.99 EUR) en el siguiente enlace!

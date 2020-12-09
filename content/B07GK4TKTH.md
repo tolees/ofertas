@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Beurer BF179 - Báscula digital diagnóstica con calculo IMC  de vidrio  pantalla LCD XXL  gran plataforma  35 x 32.5 x 4.5 cm  1.5 kg  color negro
+prodname: 'Beurer BF179 - Báscula digital diagnóstica con calculo IMC  de vidrio  pantalla LCD XXL  gran plataforma  35 x 32.5 x 4.5 cm  1.5 kg  color negro'
 ---
 
 Está [Beurer BF179 - Báscula digital diagnóstica con calculo IMC  de vidrio  pantalla LCD XXL  gran plataforma  35 x 32.5 x 4.5 cm  1.5 kg  color negro](https://www.amazon.es/dp/B07GK4TKTH/?tag=tolees-21) con 55.01 de descuento por 17.99 EUR (original: 39.99 EUR) en el siguiente enlace!

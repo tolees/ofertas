@@ -14,7 +14,7 @@ currency: EUR
 price: 32.92
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Kingston SUV500M8/240G - Disco Duro sólido de 240 GB  M.2 2280 
+prodname: 'Kingston SUV500M8/240G - Disco Duro sólido de 240 GB  M.2 2280 '
 ---
 
 Está [Kingston SUV500M8/240G - Disco Duro sólido de 240 GB  M.2 2280 ](https://www.amazon.es/dp/B07C3YHRW3/?tag=tolees-21) con 26.83 de descuento por 32.92 EUR (original: 44.99 EUR) en el siguiente enlace!

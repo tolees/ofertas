@@ -14,7 +14,7 @@ currency: EUR
 price: 10.74
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Logitech M171 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico  Batería 12 Meses  Ambidiestro  PC/Mac/Portátil  Negro
+prodname: 'Logitech M171 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico  Batería 12 Meses  Ambidiestro  PC/Mac/Portátil  Negro'
 ---
 
 Está [Logitech M171 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico  Batería 12 Meses  Ambidiestro  PC/Mac/Portátil  Negro](https://www.amazon.es/dp/B01A9GXEOI/?tag=tolees-21) con 32.83 de descuento por 10.74 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 110.24
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Neewer Set para Estudio fotográfico y producción de vídeo  Sistema de Soporte de 2 6 m x 3 m con Fondos  reflectores Tipo Paraguas y softbox de 800 W y 5500 K
+prodname: 'Neewer Set para Estudio fotográfico y producción de vídeo  Sistema de Soporte de 2 6 m x 3 m con Fondos  reflectores Tipo Paraguas y softbox de 800 W y 5500 K'
 ---
 
 Está [Neewer Set para Estudio fotográfico y producción de vídeo  Sistema de Soporte de 2 6 m x 3 m con Fondos  reflectores Tipo Paraguas y softbox de 800 W y 5500 K](https://www.amazon.es/dp/B01JRYJ9HY/?tag=tolees-21) con 26.50 de descuento por 110.24 EUR (original: 149.99 EUR) en el siguiente enlace!

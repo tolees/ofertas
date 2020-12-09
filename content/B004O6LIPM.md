@@ -14,7 +14,7 @@ currency: EUR
 price: 27.26
 comparePrice: 65 EUR
 inStock: true
-prodname: Superga 2754 COTU - Zapatillas Unisex  Negro  997   39 EU / 5.5 UK
+prodname: 'Superga 2754 COTU - Zapatillas Unisex  Negro  997   39 EU / 5.5 UK'
 ---
 
 Ahora mismo tienes [Superga 2754 COTU - Zapatillas Unisex  Negro  997   39 EU / 5.5 UK](https://www.amazon.es/dp/B004O6LIPM/?tag=tolees-21) a 27.26 EUR (original: 65 EUR) (58.06 %  de descuento) en el siguiente enlace!

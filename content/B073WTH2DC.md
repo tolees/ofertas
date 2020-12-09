@@ -14,7 +14,7 @@ currency: EUR
 price: 50.91
 comparePrice: 119 EUR
 inStock: true
-prodname: Ocean Eye Gafas de Sol   Marrone   58 Unisex Adulto
+prodname: 'Ocean Eye Gafas de Sol   Marrone   58 Unisex Adulto'
 ---
 
 Tienes [Ocean Eye Gafas de Sol   Marrone   58 Unisex Adulto](https://www.amazon.es/dp/B073WTH2DC/?tag=tolees-21) con un 57.22 % de descuento con precio de oferta de 50.91 EUR (original: 119 EUR) en el siguiente enlace!

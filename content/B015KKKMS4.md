@@ -14,7 +14,7 @@ currency: EUR
 price: 28.92
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Kappa Faro Light  Mocasines Unisex Adulto  Azul  Navy/White 6710   42 EU
+prodname: 'Kappa Faro Light  Mocasines Unisex Adulto  Azul  Navy/White 6710   42 EU'
 ---
 
 Tienes [Kappa Faro Light  Mocasines Unisex Adulto  Azul  Navy/White 6710   42 EU](https://www.amazon.es/dp/B015KKKMS4/?tag=tolees-21) con un 51.76 % de descuento con precio de oferta de 28.92 EUR (original: 59.95 EUR) en el siguiente enlace!

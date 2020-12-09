@@ -14,7 +14,7 @@ currency: EUR
 price: 2.0
 comparePrice: 2.99 EUR
 inStock: true
-prodname: Peppa Pig Peppa Pig-1317 Pelota de 15 cm  Color   Mondo 1317 
+prodname: 'Peppa Pig Peppa Pig-1317 Pelota de 15 cm  Color   Mondo 1317 '
 ---
 
 Está [Peppa Pig Peppa Pig-1317 Pelota de 15 cm  Color   Mondo 1317 ](https://www.amazon.es/dp/B00H1SDQT6/?tag=tolees-21) con 33.11 de descuento por 2.0 EUR (original: 2.99 EUR) en el siguiente enlace!

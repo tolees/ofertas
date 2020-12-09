@@ -14,7 +14,7 @@ currency: EUR
 price: 23.35
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Trswyop Batería Externa 26800mAh  Power Bank [4 Indicadores de Energía LED] Ultra Alta Capacidad Cargador Portátil Móvil con 2 Puertos USB para Smartphones Tabletas y Más
+prodname: 'Trswyop Batería Externa 26800mAh  Power Bank [4 Indicadores de Energía LED] Ultra Alta Capacidad Cargador Portátil Móvil con 2 Puertos USB para Smartphones Tabletas y Más'
 ---
 
 Está [Trswyop Batería Externa 26800mAh  Power Bank [4 Indicadores de Energía LED] Ultra Alta Capacidad Cargador Portátil Móvil con 2 Puertos USB para Smartphones Tabletas y Más](https://www.amazon.es/dp/B07S7DMCM3/?tag=tolees-21) con 61.05 de descuento por 23.35 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.98
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Alicia en el País de las Maravillas  Edición Especial  [DVD]
+prodname: 'Alicia en el País de las Maravillas  Edición Especial  [DVD]'
 ---
 
 Tienes [Alicia en el País de las Maravillas  Edición Especial  [DVD]](https://www.amazon.es/dp/B003JSSK7U/?tag=tolees-21) con un 66.69 % de descuento con precio de oferta de 4.98 EUR (original: 14.95 EUR) en el siguiente enlace!

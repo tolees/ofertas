@@ -14,7 +14,7 @@ currency: EUR
 price: 451.54
 comparePrice: 819 EUR
 inStock: true
-prodname: Suunto - Spartan Ultra Cooper - SS022945000 - Reloj Multideporte GPS - Talla única - Edición especial  COOPER
+prodname: 'Suunto - Spartan Ultra Cooper - SS022945000 - Reloj Multideporte GPS - Talla única - Edición especial  COOPER'
 ---
 
 Tienes [Suunto - Spartan Ultra Cooper - SS022945000 - Reloj Multideporte GPS - Talla única - Edición especial  COOPER](https://www.amazon.es/dp/B01M1BYOJQ/?tag=tolees-21) con un 44.87 % de descuento con precio de oferta de 451.54 EUR (original: 819 EUR) en el siguiente enlace!

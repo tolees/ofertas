@@ -14,7 +14,7 @@ currency: EUR
 price: 11.61
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Educa Borras - Genuine Puzzles  Puzzle 1.500 piezas  Paisaje de tulipanes  18465 
+prodname: 'Educa Borras - Genuine Puzzles  Puzzle 1.500 piezas  Paisaje de tulipanes  18465 '
 ---
 
 Está [Educa Borras - Genuine Puzzles  Puzzle 1.500 piezas  Paisaje de tulipanes  18465 ](https://www.amazon.es/dp/B07VPQ9HQW/?tag=tolees-21) con 27.21 de descuento por 11.61 EUR (original: 15.95 EUR) en el siguiente enlace!

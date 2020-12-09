@@ -14,7 +14,7 @@ currency: EUR
 price: 12.87
 comparePrice: 36 EUR
 inStock: true
-prodname: Tontarelli Set Caja de Almacenamiento 8 Uds. Arianna 4L
+prodname: 'Tontarelli Set Caja de Almacenamiento 8 Uds. Arianna 4L'
 ---
 
 Ahora mismo tienes [Tontarelli Set Caja de Almacenamiento 8 Uds. Arianna 4L](https://www.amazon.es/dp/B00Z0ACE5O/?tag=tolees-21) a 12.87 EUR (original: 36 EUR) (64.25 %  de descuento) en el siguiente enlace!

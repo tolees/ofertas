@@ -14,7 +14,7 @@ currency: EUR
 price: 9.85
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Clementoni - Maletin Educativo Finding Dory  55122.4 
+prodname: 'Clementoni - Maletin Educativo Finding Dory  55122.4 '
 ---
 
 Está [Clementoni - Maletin Educativo Finding Dory  55122.4 ](https://www.amazon.es/dp/B01GHOO0PS/?tag=tolees-21) con 42.02 de descuento por 9.85 EUR (original: 16.99 EUR) en el siguiente enlace!

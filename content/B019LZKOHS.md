@@ -14,7 +14,7 @@ currency: EUR
 price: 229.99
 comparePrice: 389.0 EUR
 inStock: true
-prodname: Candy CDCP 6/E-S - Lavavajillas pequeño  6 servicios  6 Programas  Inicio diferido  Clase A+A  51dB  Color Plata
+prodname: 'Candy CDCP 6/E-S - Lavavajillas pequeño  6 servicios  6 Programas  Inicio diferido  Clase A+A  51dB  Color Plata'
 ---
 
 Tienes [Candy CDCP 6/E-S - Lavavajillas pequeño  6 servicios  6 Programas  Inicio diferido  Clase A+A  51dB  Color Plata](https://www.amazon.es/dp/B019LZKOHS/?tag=tolees-21) con un 40.88 % de descuento con precio de oferta de 229.99 EUR (original: 389.0 EUR) en el siguiente enlace!

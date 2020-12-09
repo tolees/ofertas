@@ -14,7 +14,7 @@ currency: EUR
 price: 57.05
 comparePrice: 150 EUR
 inStock: true
-prodname: Kempa Attack One Contender  Zapatillas de Balonmano para Hombre   Verde Esperanza/Amarillo 000   44.5 EU
+prodname: 'Kempa Attack One Contender  Zapatillas de Balonmano para Hombre   Verde Esperanza/Amarillo 000   44.5 EU'
 ---
 
 Está [Kempa Attack One Contender  Zapatillas de Balonmano para Hombre   Verde Esperanza/Amarillo 000   44.5 EU](https://www.amazon.es/dp/B076HD3HCJ/?tag=tolees-21) con 61.97 de descuento por 57.05 EUR (original: 150 EUR) en el siguiente enlace!

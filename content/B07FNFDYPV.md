@@ -14,7 +14,7 @@ currency: EUR
 price: 164.99
 comparePrice: 350.0 EUR
 inStock: true
-prodname: Zanussi ZHB62670XA Campana extractora de pared de 60 cm  3 velocidades  Acero inoxidable  Nivel de ruido 68 dB A   Salida 150 mm  Iluminación LED  Clase C  Inox
+prodname: 'Zanussi ZHB62670XA Campana extractora de pared de 60 cm  3 velocidades  Acero inoxidable  Nivel de ruido 68 dB A   Salida 150 mm  Iluminación LED  Clase C  Inox'
 ---
 
 Ahora mismo tienes [Zanussi ZHB62670XA Campana extractora de pared de 60 cm  3 velocidades  Acero inoxidable  Nivel de ruido 68 dB A   Salida 150 mm  Iluminación LED  Clase C  Inox](https://www.amazon.es/dp/B07FNFDYPV/?tag=tolees-21) a 164.99 EUR (original: 350.0 EUR) (52.86 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: TWS i12 Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos Bluetooth Headphone Deportivos Estéreo con Mic y Cancelación de Ruido Auriculares Estéreo Adecuado para Android/iOS/iPhone/Samsung
+prodname: 'TWS i12 Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos Bluetooth Headphone Deportivos Estéreo con Mic y Cancelación de Ruido Auriculares Estéreo Adecuado para Android/iOS/iPhone/Samsung'
 ---
 
 Está [TWS i12 Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos Bluetooth Headphone Deportivos Estéreo con Mic y Cancelación de Ruido Auriculares Estéreo Adecuado para Android/iOS/iPhone/Samsung](https://www.amazon.es/dp/B08NHNR4BB/?tag=tolees-21) con 76.93 de descuento por 29.99 EUR (original: 129.99 EUR) en el siguiente enlace!

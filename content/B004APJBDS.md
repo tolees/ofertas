@@ -14,7 +14,7 @@ currency: EUR
 price: 5.35
 comparePrice: 7.9 EUR
 inStock: true
-prodname: Speedo BIOFUSE Tapones para los oídos  Unisex  Azul  Talla Única
+prodname: 'Speedo BIOFUSE Tapones para los oídos  Unisex  Azul  Talla Única'
 ---
 
 Está [Speedo BIOFUSE Tapones para los oídos  Unisex  Azul  Talla Única](https://www.amazon.es/dp/B004APJBDS/?tag=tolees-21) con 32.28 de descuento por 5.35 EUR (original: 7.9 EUR) en el siguiente enlace!

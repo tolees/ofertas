@@ -14,7 +14,7 @@ currency: EUR
 price: 25.16
 comparePrice: 36.34 EUR
 inStock: true
-prodname: Vans Atwood Suede  Sneaker  Deboss Checkerboard Dress Blue/White  38 EU
+prodname: 'Vans Atwood Suede  Sneaker  Deboss Checkerboard Dress Blue/White  38 EU'
 ---
 
 Está [Vans Atwood Suede  Sneaker  Deboss Checkerboard Dress Blue/White  38 EU](https://www.amazon.es/dp/B087S3JKQF/?tag=tolees-21) con 30.76 de descuento por 25.16 EUR (original: 36.34 EUR) en el siguiente enlace!

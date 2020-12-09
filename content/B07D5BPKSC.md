@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Linterna LED Power Bank con haz Impermeable ajustable y recargable Multifuncional luz Lampara Intensidad Cargador incluid para el trabajo/Senderismo/Camping  2600mAh 
+prodname: 'Linterna LED Power Bank con haz Impermeable ajustable y recargable Multifuncional luz Lampara Intensidad Cargador incluid para el trabajo/Senderismo/Camping  2600mAh '
 ---
 
 Ahora mismo tienes [Linterna LED Power Bank con haz Impermeable ajustable y recargable Multifuncional luz Lampara Intensidad Cargador incluid para el trabajo/Senderismo/Camping  2600mAh ](https://www.amazon.es/dp/B07D5BPKSC/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

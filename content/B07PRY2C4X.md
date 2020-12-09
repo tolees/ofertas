@@ -14,7 +14,7 @@ currency: EUR
 price: 14.96
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Cúrcuma Orgánica de 1440 mg con Pimienta Negra y Jengibre -180 Cápsulas Veganas de Alta Resistencia  Suministro para 3 Meses  - Fabricado en el Reino Unido por Nutravita
+prodname: 'Cúrcuma Orgánica de 1440 mg con Pimienta Negra y Jengibre -180 Cápsulas Veganas de Alta Resistencia  Suministro para 3 Meses  - Fabricado en el Reino Unido por Nutravita'
 ---
 
 Ahora mismo tienes [Cúrcuma Orgánica de 1440 mg con Pimienta Negra y Jengibre -180 Cápsulas Veganas de Alta Resistencia  Suministro para 3 Meses  - Fabricado en el Reino Unido por Nutravita](https://www.amazon.es/dp/B07PRY2C4X/?tag=tolees-21) a 14.96 EUR (original: 21.99 EUR) (31.97 %  de descuento) en el siguiente enlace!

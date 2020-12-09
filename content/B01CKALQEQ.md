@@ -14,7 +14,7 @@ currency: EUR
 price: 15.25
 comparePrice: 24.19 EUR
 inStock: true
-prodname: DICKIE de juguete 203748002 – Tren de City Train Vehículo   color/modelo surtido
+prodname: 'DICKIE de juguete 203748002 – Tren de City Train Vehículo   color/modelo surtido'
 ---
 
 Tienes [DICKIE de juguete 203748002 – Tren de City Train Vehículo   color/modelo surtido](https://www.amazon.es/dp/B01CKALQEQ/?tag=tolees-21) con un 36.96 % de descuento con precio de oferta de 15.25 EUR (original: 24.19 EUR) en el siguiente enlace!

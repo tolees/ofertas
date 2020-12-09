@@ -14,7 +14,7 @@ currency: EUR
 price: 4.0
 comparePrice: 6.5 EUR
 inStock: true
-prodname: Bburago Burago Pack 2 Coches colección 1:43-10cm  colores surtidos  2 unidades  18-30002P 
+prodname: 'Bburago Burago Pack 2 Coches colección 1:43-10cm  colores surtidos  2 unidades  18-30002P '
 ---
 
 Ahora mismo tienes [Bburago Burago Pack 2 Coches colección 1:43-10cm  colores surtidos  2 unidades  18-30002P ](https://www.amazon.es/dp/B002AMVW6C/?tag=tolees-21) a 4.0 EUR (original: 6.5 EUR) (38.46 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Jaimie Jacobs Cartera Mágica Flap Boy Magic Wallet Carteras Hombres Cuero auténtico  Negro con Rojo 
+prodname: 'Jaimie Jacobs Cartera Mágica Flap Boy Magic Wallet Carteras Hombres Cuero auténtico  Negro con Rojo '
 ---
 
 Ahora mismo tienes [Jaimie Jacobs Cartera Mágica Flap Boy Magic Wallet Carteras Hombres Cuero auténtico  Negro con Rojo ](https://www.amazon.es/dp/B014EWJHHQ/?tag=tolees-21) a 69.0 EUR (original: 99.0 EUR) (30.30 %  de descuento) en el siguiente enlace!

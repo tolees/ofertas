@@ -14,7 +14,7 @@ currency: EUR
 price: 11.88
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Vero Moda Vmnicky L/s Tie Top D2-1  Blusa Mujer   Night Sky AOP: Dots   36  Talla del Fabricante: Small 
+prodname: 'Vero Moda Vmnicky L/s Tie Top D2-1  Blusa Mujer   Night Sky AOP: Dots   36  Talla del Fabricante: Small '
 ---
 
 Ahora mismo tienes [Vero Moda Vmnicky L/s Tie Top D2-1  Blusa Mujer   Night Sky AOP: Dots   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B076BVHT3T/?tag=tolees-21) a 11.88 EUR (original: 26.99 EUR) (55.98 %  de descuento) en el siguiente enlace!

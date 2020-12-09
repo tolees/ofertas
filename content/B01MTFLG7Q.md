@@ -14,7 +14,7 @@ currency: EUR
 price: 12.55
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Skechers Boulder  Botas para Mujer  Gris  Charcoal  40 EU
+prodname: 'Skechers Boulder  Botas para Mujer  Gris  Charcoal  40 EU'
 ---
 
 Está [Skechers Boulder  Botas para Mujer  Gris  Charcoal  40 EU](https://www.amazon.es/dp/B01MTFLG7Q/?tag=tolees-21) con 84.30 de descuento por 12.55 EUR (original: 79.95 EUR) en el siguiente enlace!

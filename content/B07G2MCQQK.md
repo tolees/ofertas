@@ -14,7 +14,7 @@ currency: EUR
 price: 18.8
 comparePrice: 34.99 EUR
 inStock: true
-prodname: JACK & JONES JACHUEY TRUNKS 5 PACK NOOS Bóxer  Negro  Black Detail   Large  Pack de 5  para Hombre
+prodname: 'JACK & JONES JACHUEY TRUNKS 5 PACK NOOS Bóxer  Negro  Black Detail   Large  Pack de 5  para Hombre'
 ---
 
 Está [JACK & JONES JACHUEY TRUNKS 5 PACK NOOS Bóxer  Negro  Black Detail   Large  Pack de 5  para Hombre](https://www.amazon.es/dp/B07G2MCQQK/?tag=tolees-21) con 46.27 de descuento por 18.8 EUR (original: 34.99 EUR) en el siguiente enlace!

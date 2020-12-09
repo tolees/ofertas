@@ -14,7 +14,7 @@ currency: EUR
 price: 12.68
 comparePrice: 17.42 EUR
 inStock: true
-prodname: Emsa Clip&Close 514170 - Set de 3 conservadores hermético de cristal de borosilicatode 0.5 L  higiénico  no retiene olores ni sabores 100% libre de BPA
+prodname: 'Emsa Clip&Close 514170 - Set de 3 conservadores hermético de cristal de borosilicatode 0.5 L  higiénico  no retiene olores ni sabores 100% libre de BPA'
 ---
 
 Ahora mismo tienes [Emsa Clip&Close 514170 - Set de 3 conservadores hermético de cristal de borosilicatode 0.5 L  higiénico  no retiene olores ni sabores 100% libre de BPA](https://www.amazon.es/dp/B00FX9JLOE/?tag=tolees-21) a 12.68 EUR (original: 17.42 EUR) (27.21 %  de descuento) en el siguiente enlace!

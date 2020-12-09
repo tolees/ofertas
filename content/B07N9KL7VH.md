@@ -14,7 +14,7 @@ currency: EUR
 price: 69.3
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Samsonite Hexa-Packs - Mochila para portátil  Lila  berenjena 
+prodname: 'Samsonite Hexa-Packs - Mochila para portátil  Lila  berenjena '
 ---
 
 Ahora mismo tienes [Samsonite Hexa-Packs - Mochila para portátil  Lila  berenjena ](https://www.amazon.es/dp/B07N9KL7VH/?tag=tolees-21) a 69.3 EUR (original: 99.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

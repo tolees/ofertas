@@ -14,7 +14,7 @@ currency: EUR
 price: 29.75
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Rowenta Access Steam Minute DR7000 Cepillo de vapor de mano para retoques de última hora  para las tareas de planchado diarias y para eliminar olores en los tejidos
+prodname: 'Rowenta Access Steam Minute DR7000 Cepillo de vapor de mano para retoques de última hora  para las tareas de planchado diarias y para eliminar olores en los tejidos'
 ---
 
 Está [Rowenta Access Steam Minute DR7000 Cepillo de vapor de mano para retoques de última hora  para las tareas de planchado diarias y para eliminar olores en los tejidos](https://www.amazon.es/dp/B075FLSFH9/?tag=tolees-21) con 40.49 de descuento por 29.75 EUR (original: 49.99 EUR) en el siguiente enlace!

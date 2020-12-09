@@ -14,7 +14,7 @@ currency: EUR
 price: 31
 comparePrice: 74.2 EUR
 inStock: true
-prodname: adidas X_PLR J  Zapatillas Unisex Niños  Azul  Bright Blue/Core Black/Footwear White 0   39 1/3 EU
+prodname: 'adidas X_PLR J  Zapatillas Unisex Niños  Azul  Bright Blue/Core Black/Footwear White 0   39 1/3 EU'
 ---
 
 Está [adidas X_PLR J  Zapatillas Unisex Niños  Azul  Bright Blue/Core Black/Footwear White 0   39 1/3 EU](https://www.amazon.es/dp/B07D73FLNQ/?tag=tolees-21) con 58.22 de descuento por 31 EUR (original: 74.2 EUR) en el siguiente enlace!

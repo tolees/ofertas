@@ -14,7 +14,7 @@ currency: EUR
 price: 37.87
 comparePrice: 59.74 EUR
 inStock: true
-prodname: Crocs LiteRide Clog Zueco Unisex-adulto  Azul  Marineblau / Weiß   45-46 EU
+prodname: 'Crocs LiteRide Clog Zueco Unisex-adulto  Azul  Marineblau / Weiß   45-46 EU'
 ---
 
 Tienes [Crocs LiteRide Clog Zueco Unisex-adulto  Azul  Marineblau / Weiß   45-46 EU](https://www.amazon.es/dp/B074F7FKRS/?tag=tolees-21) con un 36.61 % de descuento con precio de oferta de 37.87 EUR (original: 59.74 EUR) en el siguiente enlace!

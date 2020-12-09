@@ -14,7 +14,7 @@ currency: EUR
 price: 21.21
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Azul Marino 10   Medium  Tamaño del Fabricante:M  para Hombre
+prodname: 'Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Azul Marino 10   Medium  Tamaño del Fabricante:M  para Hombre'
 ---
 
 Está [Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Azul Marino 10   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KYW5QSK/?tag=tolees-21) con 57.57 de descuento por 21.21 EUR (original: 49.99 EUR) en el siguiente enlace!

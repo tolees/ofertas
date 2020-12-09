@@ -14,7 +14,7 @@ currency: EUR
 price: 388.65
 comparePrice: 570.99 EUR
 inStock: true
-prodname: Core i5-8400 | 4GB | 1TB | Intel Graphics | W Pro
+prodname: 'Core i5-8400 | 4GB | 1TB | Intel Graphics | W Pro'
 ---
 
 Tienes [Core i5-8400 | 4GB | 1TB | Intel Graphics | W Pro](https://www.amazon.es/dp/B07J4WTGN4/?tag=tolees-21) con un 31.93 % de descuento con precio de oferta de 388.65 EUR (original: 570.99 EUR) en el siguiente enlace!

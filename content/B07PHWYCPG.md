@@ -14,7 +14,7 @@ currency: EUR
 price: 22.49
 comparePrice: 32.13 EUR
 inStock: true
-prodname: bouncevi Lanzador automático de Pelotas Juguete para Perros Perro Juguete Interactivo para Tratar lanzadores Pelota de Tenis interactiva Máquina de lanzar Diversión Tirador de Juguetes
+prodname: 'bouncevi Lanzador automático de Pelotas Juguete para Perros Perro Juguete Interactivo para Tratar lanzadores Pelota de Tenis interactiva Máquina de lanzar Diversión Tirador de Juguetes'
 ---
 
 Ahora mismo tienes [bouncevi Lanzador automático de Pelotas Juguete para Perros Perro Juguete Interactivo para Tratar lanzadores Pelota de Tenis interactiva Máquina de lanzar Diversión Tirador de Juguetes](https://www.amazon.es/dp/B07PHWYCPG/?tag=tolees-21) a 22.49 EUR (original: 32.13 EUR) (30.00 %  de descuento) en el siguiente enlace!

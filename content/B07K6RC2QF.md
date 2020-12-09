@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Huevo vibrador con mando a distancia Oh! para los juegos más traviesos de la pareja.  Lila 
+prodname: 'Huevo vibrador con mando a distancia Oh! para los juegos más traviesos de la pareja.  Lila '
 ---
 
 Tienes [Huevo vibrador con mando a distancia Oh! para los juegos más traviesos de la pareja.  Lila ](https://www.amazon.es/dp/B07K6RC2QF/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 26.99 EUR (original: 44.99 EUR) en el siguiente enlace!

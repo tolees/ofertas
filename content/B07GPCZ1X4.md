@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 87.91 EUR
 inStock: true
-prodname: Mymahdi Reproductor de MP3  Bluetooth sin pérdida de 16 GB  Radio FM/Paso a Paso/Graba con una Sola tecla  Máx. hasta 128 GB  Negro
+prodname: 'Mymahdi Reproductor de MP3  Bluetooth sin pérdida de 16 GB  Radio FM/Paso a Paso/Graba con una Sola tecla  Máx. hasta 128 GB  Negro'
 ---
 
 Ahora mismo tienes [Mymahdi Reproductor de MP3  Bluetooth sin pérdida de 16 GB  Radio FM/Paso a Paso/Graba con una Sola tecla  Máx. hasta 128 GB  Negro](https://www.amazon.es/dp/B07GPCZ1X4/?tag=tolees-21) a 39.99 EUR (original: 87.91 EUR) (54.51 %  de descuento) en el siguiente enlace!

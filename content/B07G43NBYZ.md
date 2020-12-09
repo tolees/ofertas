@@ -14,7 +14,7 @@ currency: EUR
 price: 8.5
 comparePrice: 14.95 EUR
 inStock: true
-prodname: BOSS RS Stripe CC  Calcetines para Hombre  Azul  Dark Blue 401  43/46 Pack de 2
+prodname: 'BOSS RS Stripe CC  Calcetines para Hombre  Azul  Dark Blue 401  43/46 Pack de 2'
 ---
 
 Está [BOSS RS Stripe CC  Calcetines para Hombre  Azul  Dark Blue 401  43/46 Pack de 2](https://www.amazon.es/dp/B07G43NBYZ/?tag=tolees-21) con 43.14 de descuento por 8.5 EUR (original: 14.95 EUR) en el siguiente enlace!

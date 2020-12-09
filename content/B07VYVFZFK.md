@@ -14,7 +14,7 @@ currency: EUR
 price: 21.75
 comparePrice: 99.95 EUR
 inStock: true
-prodname: El Naturalista Tülbend  Sandalias con Punta Abierta para Mujer  Marrón Wood Wood  41 EU
+prodname: 'El Naturalista Tülbend  Sandalias con Punta Abierta para Mujer  Marrón Wood Wood  41 EU'
 ---
 
 Ahora mismo tienes [El Naturalista Tülbend  Sandalias con Punta Abierta para Mujer  Marrón Wood Wood  41 EU](https://www.amazon.es/dp/B07VYVFZFK/?tag=tolees-21) a 21.75 EUR (original: 99.95 EUR) (78.24 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 67.5
 comparePrice: 135 EUR
 inStock: true
-prodname: Timberland Bradstreet 3 Eyeblack Iris Nubuck  Náuticos Para Hombre  Azul  Black Iris Nubuck   44 EU
+prodname: 'Timberland Bradstreet 3 Eyeblack Iris Nubuck  Náuticos Para Hombre  Azul  Black Iris Nubuck   44 EU'
 ---
 
 Está [Timberland Bradstreet 3 Eyeblack Iris Nubuck  Náuticos Para Hombre  Azul  Black Iris Nubuck   44 EU](https://www.amazon.es/dp/B01MXWE2FZ/?tag=tolees-21) con 50.00 de descuento por 67.5 EUR (original: 135 EUR) en el siguiente enlace!

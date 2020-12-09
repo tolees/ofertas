@@ -14,7 +14,7 @@ currency: EUR
 price: 13.83
 comparePrice: 49.99 EUR
 inStock: true
-prodname: edc by ESPRIT 116CC1I013  suéter Mujer  Rojo  Dark Red   40  Talla del fabricante: Large 
+prodname: 'edc by ESPRIT 116CC1I013  suéter Mujer  Rojo  Dark Red   40  Talla del fabricante: Large '
 ---
 
 Tienes [edc by ESPRIT 116CC1I013  suéter Mujer  Rojo  Dark Red   40  Talla del fabricante: Large ](https://www.amazon.es/dp/B01LZLWTYO/?tag=tolees-21) con un 72.33 % de descuento con precio de oferta de 13.83 EUR (original: 49.99 EUR) en el siguiente enlace!

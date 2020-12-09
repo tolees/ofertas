@@ -14,7 +14,7 @@ currency: EUR
 price: 67.71
 comparePrice: 149.95 EUR
 inStock: true
-prodname: Gore Wear 100336 Culote  Hombre  Negro  XL
+prodname: 'Gore Wear 100336 Culote  Hombre  Negro  XL'
 ---
 
 Tienes [Gore Wear 100336 Culote  Hombre  Negro  XL](https://www.amazon.es/dp/B0785GNVLY/?tag=tolees-21) con un 54.84 % de descuento con precio de oferta de 67.71 EUR (original: 149.95 EUR) en el siguiente enlace!

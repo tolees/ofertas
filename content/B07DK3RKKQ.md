@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 45 EUR
 inStock: true
-prodname: Geox Jr Ciak Girl J  Zapatillas para Niñas  Blanco  White/Red C0050   34 EU
+prodname: 'Geox Jr Ciak Girl J  Zapatillas para Niñas  Blanco  White/Red C0050   34 EU'
 ---
 
 Tienes [Geox Jr Ciak Girl J  Zapatillas para Niñas  Blanco  White/Red C0050   34 EU](https://www.amazon.es/dp/B07DK3RKKQ/?tag=tolees-21) con un 55.67 % de descuento con precio de oferta de 19.95 EUR (original: 45 EUR) en el siguiente enlace!

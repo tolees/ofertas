@@ -14,7 +14,7 @@ currency: EUR
 price: 12.67
 comparePrice: 19.77 EUR
 inStock: true
-prodname: Alpino - Kit de Modelado Magic Dough 8 x 40 gr
+prodname: 'Alpino - Kit de Modelado Magic Dough 8 x 40 gr'
 ---
 
 Tienes [Alpino - Kit de Modelado Magic Dough 8 x 40 gr](https://www.amazon.es/dp/B00AO0DE6S/?tag=tolees-21) con un 35.91 % de descuento con precio de oferta de 12.67 EUR (original: 19.77 EUR) en el siguiente enlace!

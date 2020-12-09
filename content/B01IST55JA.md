@@ -14,7 +14,7 @@ currency: EUR
 price: 47.27
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Daren Zip Fly  Jeans Hombre  Azul  Clean Splash   W32/L34  Talla del fabricante: 32 
+prodname: 'Lee Daren Zip Fly  Jeans Hombre  Azul  Clean Splash   W32/L34  Talla del fabricante: 32 '
 ---
 
 Ahora mismo tienes [Lee Daren Zip Fly  Jeans Hombre  Azul  Clean Splash   W32/L34  Talla del fabricante: 32 ](https://www.amazon.es/dp/B01IST55JA/?tag=tolees-21) a 47.27 EUR (original: 89.95 EUR) (47.45 %  de descuento) en el siguiente enlace!

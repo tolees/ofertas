@@ -14,7 +14,7 @@ currency: EUR
 price: 5.44
 comparePrice: 7.99 EUR
 inStock: true
-prodname: Trust Primo - Auriculares estéreo con micrófono flexible  color negro
+prodname: 'Trust Primo - Auriculares estéreo con micrófono flexible  color negro'
 ---
 
 Tienes [Trust Primo - Auriculares estéreo con micrófono flexible  color negro](https://www.amazon.es/dp/B01M0V6VPG/?tag=tolees-21) con un 31.91 % de descuento con precio de oferta de 5.44 EUR (original: 7.99 EUR) en el siguiente enlace!

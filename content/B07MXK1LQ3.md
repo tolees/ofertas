@@ -14,7 +14,7 @@ currency: EUR
 price: 58.46
 comparePrice: 110 EUR
 inStock: true
-prodname: Salomon Essential JKT Jacket  Mujer  Verde  Balsam Green   M
+prodname: 'Salomon Essential JKT Jacket  Mujer  Verde  Balsam Green   M'
 ---
 
 Está [Salomon Essential JKT Jacket  Mujer  Verde  Balsam Green   M](https://www.amazon.es/dp/B07MXK1LQ3/?tag=tolees-21) con 46.85 de descuento por 58.46 EUR (original: 110 EUR) en el siguiente enlace!

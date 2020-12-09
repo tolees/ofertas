@@ -14,7 +14,7 @@ currency: EUR
 price: 5.97
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Playtex Invisible Elegance  Bragas para Mujer  Negro  Negro 001   40  Talla del Fabricante 42 
+prodname: 'Playtex Invisible Elegance  Bragas para Mujer  Negro  Negro 001   40  Talla del Fabricante 42 '
 ---
 
 Tienes [Playtex Invisible Elegance  Bragas para Mujer  Negro  Negro 001   40  Talla del Fabricante 42 ](https://www.amazon.es/dp/B00FXPU5MA/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 5.97 EUR (original: 19.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: s.Oliver 13.001.35.5268 Polo  Azul  Blue 5538   Large para Hombre
+prodname: 's.Oliver 13.001.35.5268 Polo  Azul  Blue 5538   Large para Hombre'
 ---
 
 Está [s.Oliver 13.001.35.5268 Polo  Azul  Blue 5538   Large para Hombre](https://www.amazon.es/dp/B07YLD4KW9/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

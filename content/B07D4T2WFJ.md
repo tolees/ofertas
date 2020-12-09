@@ -14,7 +14,7 @@ currency: EUR
 price: 20.17
 comparePrice: 29.24 EUR
 inStock: true
-prodname: Kappa Final II  Zapatillas de Deporte Interior Unisex Niños  Negro  Black/Lime 1133   31 EU
+prodname: 'Kappa Final II  Zapatillas de Deporte Interior Unisex Niños  Negro  Black/Lime 1133   31 EU'
 ---
 
 Ahora mismo tienes [Kappa Final II  Zapatillas de Deporte Interior Unisex Niños  Negro  Black/Lime 1133   31 EU](https://www.amazon.es/dp/B07D4T2WFJ/?tag=tolees-21) a 20.17 EUR (original: 29.24 EUR) (31.02 %  de descuento) en el siguiente enlace!

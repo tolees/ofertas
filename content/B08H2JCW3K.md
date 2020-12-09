@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Papel Kraft para envolver – The Gift Christmas Theme Elements – 15 hojas – 50 x 70 cm por hoja
+prodname: 'Papel Kraft para envolver – The Gift Christmas Theme Elements – 15 hojas – 50 x 70 cm por hoja'
 ---
 
 Tienes [Papel Kraft para envolver – The Gift Christmas Theme Elements – 15 hojas – 50 x 70 cm por hoja](https://www.amazon.es/dp/B08H2JCW3K/?tag=tolees-21) con un 41.68 % de descuento con precio de oferta de 13.99 EUR (original: 23.99 EUR) en el siguiente enlace!

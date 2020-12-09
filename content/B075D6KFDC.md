@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Funda para parrilla y barbacoa GEEKHOM 210D Oxford  147 cm L x 61 cm D x 117 cm H  58  L*24  D*46  H 
+prodname: 'Funda para parrilla y barbacoa GEEKHOM 210D Oxford  147 cm L x 61 cm D x 117 cm H  58  L*24  D*46  H '
 ---
 
 Ahora mismo tienes [Funda para parrilla y barbacoa GEEKHOM 210D Oxford  147 cm L x 61 cm D x 117 cm H  58  L*24  D*46  H ](https://www.amazon.es/dp/B075D6KFDC/?tag=tolees-21) a 13.99 EUR (original: 39.99 EUR) (65.02 %  de descuento) en el siguiente enlace!

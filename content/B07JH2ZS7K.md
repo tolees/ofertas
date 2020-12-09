@@ -14,7 +14,7 @@ currency: EUR
 price: 22.19
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Puma Amplified Sweat Pants TR Pantalones  Hombre  Gris  Medium Gray Heather   XXL
+prodname: 'Puma Amplified Sweat Pants TR Pantalones  Hombre  Gris  Medium Gray Heather   XXL'
 ---
 
 Tienes [Puma Amplified Sweat Pants TR Pantalones  Hombre  Gris  Medium Gray Heather   XXL](https://www.amazon.es/dp/B07JH2ZS7K/?tag=tolees-21) con un 55.58 % de descuento con precio de oferta de 22.19 EUR (original: 49.95 EUR) en el siguiente enlace!

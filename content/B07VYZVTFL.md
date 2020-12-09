@@ -14,7 +14,7 @@ currency: EUR
 price: 45.1
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Energy-Retro Vision  Sandalias con Punta Cerrada Mujer  Rojo Rojo Cuero Azul Marino Blanco Trim Rojo  37 EU
+prodname: 'Skechers Energy-Retro Vision  Sandalias con Punta Cerrada Mujer  Rojo Rojo Cuero Azul Marino Blanco Trim Rojo  37 EU'
 ---
 
 Está [Skechers Energy-Retro Vision  Sandalias con Punta Cerrada Mujer  Rojo Rojo Cuero Azul Marino Blanco Trim Rojo  37 EU](https://www.amazon.es/dp/B07VYZVTFL/?tag=tolees-21) con 35.53 de descuento por 45.1 EUR (original: 69.95 EUR) en el siguiente enlace!

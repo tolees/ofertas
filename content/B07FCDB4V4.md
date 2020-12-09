@@ -14,7 +14,7 @@ currency: EUR
 price: 9.27
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Auriculares Inalámbricos In-Ear  Estuche de Carga  Bluetooth V4.2  Manos Libres con Micrófono  Compatible con iPhone y Android  Color Blanco
+prodname: 'Auriculares Inalámbricos In-Ear  Estuche de Carga  Bluetooth V4.2  Manos Libres con Micrófono  Compatible con iPhone y Android  Color Blanco'
 ---
 
 Está [Auriculares Inalámbricos In-Ear  Estuche de Carga  Bluetooth V4.2  Manos Libres con Micrófono  Compatible con iPhone y Android  Color Blanco](https://www.amazon.es/dp/B07FCDB4V4/?tag=tolees-21) con 53.42 de descuento por 9.27 EUR (original: 19.9 EUR) en el siguiente enlace!

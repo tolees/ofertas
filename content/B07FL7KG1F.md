@@ -14,7 +14,7 @@ currency: EUR
 price: 53.22
 comparePrice: 75 EUR
 inStock: true
-prodname: Superdry Vintage Logo Puff Embrdry Hood  suéter para Mujer  Gris  Ice Marl 54g  X-Large  Talla del Fabricante: 16.0 
+prodname: 'Superdry Vintage Logo Puff Embrdry Hood  suéter para Mujer  Gris  Ice Marl 54g  X-Large  Talla del Fabricante: 16.0 '
 ---
 
 Está [Superdry Vintage Logo Puff Embrdry Hood  suéter para Mujer  Gris  Ice Marl 54g  X-Large  Talla del Fabricante: 16.0 ](https://www.amazon.es/dp/B07FL7KG1F/?tag=tolees-21) con 29.04 de descuento por 53.22 EUR (original: 75 EUR) en el siguiente enlace!

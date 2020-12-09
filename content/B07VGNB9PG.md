@@ -14,7 +14,7 @@ currency: EUR
 price: 17.86
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Desigual TS Julia Camiseta  Negro  Negro 2000   Medium para Mujer
+prodname: 'Desigual TS Julia Camiseta  Negro  Negro 2000   Medium para Mujer'
 ---
 
 Tienes [Desigual TS Julia Camiseta  Negro  Negro 2000   Medium para Mujer](https://www.amazon.es/dp/B07VGNB9PG/?tag=tolees-21) con un 55.29 % de descuento con precio de oferta de 17.86 EUR (original: 39.95 EUR) en el siguiente enlace!

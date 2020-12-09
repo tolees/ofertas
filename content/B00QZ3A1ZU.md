@@ -14,7 +14,7 @@ currency: EUR
 price: 9.49
 comparePrice: 12.95 EUR
 inStock: true
-prodname: Fantasy Flight Games Juego de Tronos - Intriga en Poniente  Edge Entertainment FFHBO08 
+prodname: 'Fantasy Flight Games Juego de Tronos - Intriga en Poniente  Edge Entertainment FFHBO08 '
 ---
 
 Ahora mismo tienes [Fantasy Flight Games Juego de Tronos - Intriga en Poniente  Edge Entertainment FFHBO08 ](https://www.amazon.es/dp/B00QZ3A1ZU/?tag=tolees-21) a 9.49 EUR (original: 12.95 EUR) (26.72 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.37
 comparePrice: 8.5 EUR
 inStock: true
-prodname: Philips AVENT SCF135/06 - Dosificador para leche en polvo  color azul
+prodname: 'Philips AVENT SCF135/06 - Dosificador para leche en polvo  color azul'
 ---
 
 Está [Philips AVENT SCF135/06 - Dosificador para leche en polvo  color azul](https://www.amazon.es/dp/B000MMQO7O/?tag=tolees-21) con 25.06 de descuento por 6.37 EUR (original: 8.5 EUR) en el siguiente enlace!

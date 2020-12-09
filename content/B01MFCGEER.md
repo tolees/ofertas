@@ -14,7 +14,7 @@ currency: EUR
 price: 36.15
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Sinner Gear - Castidad Jaula Corta con Uretral  1 unidad
+prodname: 'Sinner Gear - Castidad Jaula Corta con Uretral  1 unidad'
 ---
 
 Ahora mismo tienes [Sinner Gear - Castidad Jaula Corta con Uretral  1 unidad](https://www.amazon.es/dp/B01MFCGEER/?tag=tolees-21) a 36.15 EUR (original: 99.95 EUR) (63.83 %  de descuento) en el siguiente enlace!

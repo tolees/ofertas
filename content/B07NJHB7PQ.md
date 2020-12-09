@@ -14,7 +14,7 @@ currency: EUR
 price: 6.4
 comparePrice: 15.99 EUR
 inStock: true
-prodname: La Legopelícula 2 Bluray [Blu-ray]
+prodname: 'La Legopelícula 2 Bluray [Blu-ray]'
 ---
 
 Está [La Legopelícula 2 Bluray [Blu-ray]](https://www.amazon.es/dp/B07NJHB7PQ/?tag=tolees-21) con 59.97 de descuento por 6.4 EUR (original: 15.99 EUR) en el siguiente enlace!

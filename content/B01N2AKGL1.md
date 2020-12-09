@@ -14,7 +14,7 @@ currency: EUR
 price: 7.79
 comparePrice: 25.95 EUR
 inStock: true
-prodname: Mick Morrison Mapari Sudadera Negro  Schwarz/Dunkelblau 008  XX-Large
+prodname: 'Mick Morrison Mapari Sudadera Negro  Schwarz/Dunkelblau 008  XX-Large'
 ---
 
 Está [Mick Morrison Mapari Sudadera Negro  Schwarz/Dunkelblau 008  XX-Large](https://www.amazon.es/dp/B01N2AKGL1/?tag=tolees-21) con 69.98 de descuento por 7.79 EUR (original: 25.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 58.49
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Redmond V2  Zapatos de Senderismo Impermeables Hombre  Gris  Rojo  Monument  Red Jasper   42 EU
+prodname: 'Columbia Redmond V2  Zapatos de Senderismo Impermeables Hombre  Gris  Rojo  Monument  Red Jasper   42 EU'
 ---
 
 Ahora mismo tienes [Columbia Redmond V2  Zapatos de Senderismo Impermeables Hombre  Gris  Rojo  Monument  Red Jasper   42 EU](https://www.amazon.es/dp/B07KK2NZM3/?tag=tolees-21) a 58.49 EUR (original: 89.99 EUR) (35.00 %  de descuento) en el siguiente enlace!

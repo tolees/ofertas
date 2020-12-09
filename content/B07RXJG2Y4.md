@@ -14,7 +14,7 @@ currency: EUR
 price: 50.17
 comparePrice: 80.0 EUR
 inStock: true
-prodname: New Balance 373v2  Zapatillas para Hombre  Azul  Navy/White Db2   38 EU
+prodname: 'New Balance 373v2  Zapatillas para Hombre  Azul  Navy/White Db2   38 EU'
 ---
 
 Ahora mismo tienes [New Balance 373v2  Zapatillas para Hombre  Azul  Navy/White Db2   38 EU](https://www.amazon.es/dp/B07RXJG2Y4/?tag=tolees-21) a 50.17 EUR (original: 80.0 EUR) (37.29 %  de descuento) en el siguiente enlace!

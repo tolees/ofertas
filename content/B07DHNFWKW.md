@@ -14,7 +14,7 @@ currency: EUR
 price: 4.35
 comparePrice: 21.28 EUR
 inStock: true
-prodname: BODY MOUSSE EFECTO SUAVE piel seca 200 ml
+prodname: 'BODY MOUSSE EFECTO SUAVE piel seca 200 ml'
 ---
 
 Está [BODY MOUSSE EFECTO SUAVE piel seca 200 ml](https://www.amazon.es/dp/B07DHNFWKW/?tag=tolees-21) con 79.56 de descuento por 4.35 EUR (original: 21.28 EUR) en el siguiente enlace!

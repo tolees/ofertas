@@ -14,7 +14,7 @@ currency: EUR
 price: 60.52
 comparePrice: 82.14 EUR
 inStock: true
-prodname: Saucony Jazz Original Vintage  Zapatillas de Cross para Hombre  Negro  Black / White 10   37.5 EU
+prodname: 'Saucony Jazz Original Vintage  Zapatillas de Cross para Hombre  Negro  Black / White 10   37.5 EU'
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vintage  Zapatillas de Cross para Hombre  Negro  Black / White 10   37.5 EU](https://www.amazon.es/dp/B073BYQJ6K/?tag=tolees-21) a 60.52 EUR (original: 82.14 EUR) (26.32 %  de descuento) en el siguiente enlace!

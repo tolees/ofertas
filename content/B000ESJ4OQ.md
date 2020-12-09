@@ -14,7 +14,7 @@ currency: EUR
 price: 3
 comparePrice: 5.49 EUR
 inStock: true
-prodname: CASIO HL820VER - Calculadora
+prodname: 'CASIO HL820VER - Calculadora'
 ---
 
 Ahora mismo tienes [CASIO HL820VER - Calculadora](https://www.amazon.es/dp/B000ESJ4OQ/?tag=tolees-21) a 3 EUR (original: 5.49 EUR) (45.36 %  de descuento) en el siguiente enlace!

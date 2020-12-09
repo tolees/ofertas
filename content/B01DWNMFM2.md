@@ -14,7 +14,7 @@ currency: EUR
 price: 12.9
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Verbatim PinStripe 128GB USB 3.0  3.1 Gen 1  Conector USB Tipo A Negro unidad flash USB - Memoria USB  128 GB  3.0  3.1 Gen 1   Conector USB Tipo A  Deslizar  3 6 g  Negro 
+prodname: 'Verbatim PinStripe 128GB USB 3.0  3.1 Gen 1  Conector USB Tipo A Negro unidad flash USB - Memoria USB  128 GB  3.0  3.1 Gen 1   Conector USB Tipo A  Deslizar  3 6 g  Negro '
 ---
 
 Está [Verbatim PinStripe 128GB USB 3.0  3.1 Gen 1  Conector USB Tipo A Negro unidad flash USB - Memoria USB  128 GB  3.0  3.1 Gen 1   Conector USB Tipo A  Deslizar  3 6 g  Negro ](https://www.amazon.es/dp/B01DWNMFM2/?tag=tolees-21) con 55.50 de descuento por 12.9 EUR (original: 28.99 EUR) en el siguiente enlace!

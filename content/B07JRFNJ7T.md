@@ -14,7 +14,7 @@ currency: EUR
 price: 14.28
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Atelier GARDEUR ZENE13 Pantalones  Beige  Dunkelbeige 21   W50  Talla del Fabricante: 54  para Mujer
+prodname: 'Atelier GARDEUR ZENE13 Pantalones  Beige  Dunkelbeige 21   W50  Talla del Fabricante: 54  para Mujer'
 ---
 
 Está [Atelier GARDEUR ZENE13 Pantalones  Beige  Dunkelbeige 21   W50  Talla del Fabricante: 54  para Mujer](https://www.amazon.es/dp/B07JRFNJ7T/?tag=tolees-21) con 87.01 de descuento por 14.28 EUR (original: 109.95 EUR) en el siguiente enlace!

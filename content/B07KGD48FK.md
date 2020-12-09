@@ -14,7 +14,7 @@ currency: EUR
 price: 25.06
 comparePrice: 59.95 EUR
 inStock: true
-prodname: BOSS tee 7 Camiseta  Gris  Light/Pastel Grey 441   X-Large para Hombre
+prodname: 'BOSS tee 7 Camiseta  Gris  Light/Pastel Grey 441   X-Large para Hombre'
 ---
 
 Está [BOSS tee 7 Camiseta  Gris  Light/Pastel Grey 441   X-Large para Hombre](https://www.amazon.es/dp/B07KGD48FK/?tag=tolees-21) con 58.20 de descuento por 25.06 EUR (original: 59.95 EUR) en el siguiente enlace!

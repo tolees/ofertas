@@ -14,7 +14,7 @@ currency: EUR
 price: 39.0
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Skagen Reloj Mujer de Analogico con Correa en Chapado en Acero Inoxidable SKW2441
+prodname: 'Skagen Reloj Mujer de Analogico con Correa en Chapado en Acero Inoxidable SKW2441'
 ---
 
 Ahora mismo tienes [Skagen Reloj Mujer de Analogico con Correa en Chapado en Acero Inoxidable SKW2441](https://www.amazon.es/dp/B01BCEQLKU/?tag=tolees-21) a 39.0 EUR (original: 59.0 EUR) (33.90 %  de descuento) en el siguiente enlace!

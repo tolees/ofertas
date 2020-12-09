@@ -14,7 +14,7 @@ currency: EUR
 price: 16.75
 comparePrice: 65 EUR
 inStock: true
-prodname: ALDO Wicardowia  Zapatillas para Mujer  Negro  Jet Black 96   36 EU
+prodname: 'ALDO Wicardowia  Zapatillas para Mujer  Negro  Jet Black 96   36 EU'
 ---
 
 Ahora mismo tienes [ALDO Wicardowia  Zapatillas para Mujer  Negro  Jet Black 96   36 EU](https://www.amazon.es/dp/B07DHVX5JJ/?tag=tolees-21) a 16.75 EUR (original: 65 EUR) (74.23 %  de descuento) en el siguiente enlace!

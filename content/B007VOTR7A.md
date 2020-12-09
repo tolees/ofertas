@@ -14,7 +14,7 @@ currency: EUR
 price: 143.93
 comparePrice: 200.5 EUR
 inStock: true
-prodname: Lacor - 69178 - Armario refrigerador 8 Botellas Black Line 50w 23Litros
+prodname: 'Lacor - 69178 - Armario refrigerador 8 Botellas Black Line 50w 23Litros'
 ---
 
 Está [Lacor - 69178 - Armario refrigerador 8 Botellas Black Line 50w 23Litros](https://www.amazon.es/dp/B007VOTR7A/?tag=tolees-21) con 28.21 de descuento por 143.93 EUR (original: 200.5 EUR) en el siguiente enlace!

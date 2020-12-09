@@ -14,7 +14,7 @@ currency: EUR
 price: 13.86
 comparePrice: 27.0 EUR
 inStock: true
-prodname: CARE OF by PUMA Sudadera con capucha de manga larga para hombre  ajuste alto  Verde  Green   XS  Label: XS
+prodname: 'CARE OF by PUMA Sudadera con capucha de manga larga para hombre  ajuste alto  Verde  Green   XS  Label: XS'
 ---
 
 Ahora mismo tienes [CARE OF by PUMA Sudadera con capucha de manga larga para hombre  ajuste alto  Verde  Green   XS  Label: XS](https://www.amazon.es/dp/B07PS6KTH7/?tag=tolees-21) a 13.86 EUR (original: 27.0 EUR) (48.67 %  de descuento) en el siguiente enlace!

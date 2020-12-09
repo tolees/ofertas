@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 78.99 EUR
 inStock: true
-prodname: UNITED COLORS OF BENETTON. PK2002 Set cristalería 12 Piezas de Vasos de Vidrio  Decorados  33 cl  Cristal  Rayas Multicolor
+prodname: 'UNITED COLORS OF BENETTON. PK2002 Set cristalería 12 Piezas de Vasos de Vidrio  Decorados  33 cl  Cristal  Rayas Multicolor'
 ---
 
 Tienes [UNITED COLORS OF BENETTON. PK2002 Set cristalería 12 Piezas de Vasos de Vidrio  Decorados  33 cl  Cristal  Rayas Multicolor](https://www.amazon.es/dp/B08B3HK4MG/?tag=tolees-21) con un 49.37 % de descuento con precio de oferta de 39.99 EUR (original: 78.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: RioRiva Calcetines cortos De Algodón Calientes De Trabajo Y Ocio Para Hombre Otoño e Invierno Multicolor
+prodname: 'RioRiva Calcetines cortos De Algodón Calientes De Trabajo Y Ocio Para Hombre Otoño e Invierno Multicolor'
 ---
 
 Ahora mismo tienes [RioRiva Calcetines cortos De Algodón Calientes De Trabajo Y Ocio Para Hombre Otoño e Invierno Multicolor](https://www.amazon.es/dp/B07FQCQNMZ/?tag=tolees-21) a 15.99 EUR (original: 25.99 EUR) (38.48 %  de descuento) en el siguiente enlace!

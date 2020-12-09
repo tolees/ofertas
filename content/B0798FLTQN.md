@@ -14,7 +14,7 @@ currency: EUR
 price: 90.95
 comparePrice: 199 EUR
 inStock: true
-prodname: Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable FTW5010
+prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable FTW5010'
 ---
 
 Está [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable FTW5010](https://www.amazon.es/dp/B0798FLTQN/?tag=tolees-21) con 54.30 de descuento por 90.95 EUR (original: 199 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.95
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Columbia Mujer Camiseta  Pilsner Peak Tee  Algodón  Azul  Nocturnal   Talla: XL  1836731
+prodname: 'Columbia Mujer Camiseta  Pilsner Peak Tee  Algodón  Azul  Nocturnal   Talla: XL  1836731'
 ---
 
 Está [Columbia Mujer Camiseta  Pilsner Peak Tee  Algodón  Azul  Nocturnal   Talla: XL  1836731](https://www.amazon.es/dp/B07KRXH84Z/?tag=tolees-21) con 40.13 de descuento por 20.95 EUR (original: 34.99 EUR) en el siguiente enlace!

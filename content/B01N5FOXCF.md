@@ -14,7 +14,7 @@ currency: EUR
 price: 19.18
 comparePrice: 40 EUR
 inStock: true
-prodname: FIND Blusa Semitrasparente con Bajo de Encaje para Mujer   Rosa  Old Rose   36  Talla del Fabricante: X-Small 
+prodname: 'FIND Blusa Semitrasparente con Bajo de Encaje para Mujer   Rosa  Old Rose   36  Talla del Fabricante: X-Small '
 ---
 
 Tienes [FIND Blusa Semitrasparente con Bajo de Encaje para Mujer   Rosa  Old Rose   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B01N5FOXCF/?tag=tolees-21) con un 52.05 % de descuento con precio de oferta de 19.18 EUR (original: 40 EUR) en el siguiente enlace!

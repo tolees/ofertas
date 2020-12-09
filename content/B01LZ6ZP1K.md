@@ -14,7 +14,7 @@ currency: EUR
 price: 22.9
 comparePrice: 30.89 EUR
 inStock: true
-prodname: Cecotec Exprimidor naranjas eléctrico Cecojuicer Zitrus Turbo - Exprimidor  2 Cabezales  Depósito de 500ml  Libre de BPA  Fácil Limpieza  90 W
+prodname: 'Cecotec Exprimidor naranjas eléctrico Cecojuicer Zitrus Turbo - Exprimidor  2 Cabezales  Depósito de 500ml  Libre de BPA  Fácil Limpieza  90 W'
 ---
 
 Ahora mismo tienes [Cecotec Exprimidor naranjas eléctrico Cecojuicer Zitrus Turbo - Exprimidor  2 Cabezales  Depósito de 500ml  Libre de BPA  Fácil Limpieza  90 W](https://www.amazon.es/dp/B01LZ6ZP1K/?tag=tolees-21) a 22.9 EUR (original: 30.89 EUR) (25.87 %  de descuento) en el siguiente enlace!

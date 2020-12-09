@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 26.95 EUR
 inStock: true
-prodname: Mr Wonderful Batería Externa 6000 mAh - 2 Puertos de Carga  Cable Micro USB incluido y Diseño Good Vibes
+prodname: 'Mr Wonderful Batería Externa 6000 mAh - 2 Puertos de Carga  Cable Micro USB incluido y Diseño Good Vibes'
 ---
 
 Está [Mr Wonderful Batería Externa 6000 mAh - 2 Puertos de Carga  Cable Micro USB incluido y Diseño Good Vibes](https://www.amazon.es/dp/B077JSNMNV/?tag=tolees-21) con 63.08 de descuento por 9.95 EUR (original: 26.95 EUR) en el siguiente enlace!

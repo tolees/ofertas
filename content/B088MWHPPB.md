@@ -14,7 +14,7 @@ currency: EUR
 price: 21.45
 comparePrice: 32.7 EUR
 inStock: true
-prodname: Solar viejo reserva bot. 75 cl.  d.o. rioja  - Pack de 3 botellas - 2250 ml
+prodname: 'Solar viejo reserva bot. 75 cl.  d.o. rioja  - Pack de 3 botellas - 2250 ml'
 ---
 
 Está [Solar viejo reserva bot. 75 cl.  d.o. rioja  - Pack de 3 botellas - 2250 ml](https://www.amazon.es/dp/B088MWHPPB/?tag=tolees-21) con 34.40 de descuento por 21.45 EUR (original: 32.7 EUR) en el siguiente enlace!

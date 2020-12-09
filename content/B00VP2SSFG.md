@@ -14,7 +14,7 @@ currency: EUR
 price: 5.25
 comparePrice: 9.9 EUR
 inStock: true
-prodname: Maybelline New York  Máscara de Pestañas Volumen Waterproof  Lash Sensational  Negro  9.4 ml
+prodname: 'Maybelline New York  Máscara de Pestañas Volumen Waterproof  Lash Sensational  Negro  9.4 ml'
 ---
 
 Está [Maybelline New York  Máscara de Pestañas Volumen Waterproof  Lash Sensational  Negro  9.4 ml](https://www.amazon.es/dp/B00VP2SSFG/?tag=tolees-21) con 46.97 de descuento por 5.25 EUR (original: 9.9 EUR) en el siguiente enlace!

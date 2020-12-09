@@ -14,7 +14,7 @@ currency: EUR
 price: 12.11
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Ckeyin® Máscara de Buceo Visión 180 ° Anti-Fugas Anti-Niebla con Soporte de Cámara para Deportes Acuáticos  Negro 2  S/M 
+prodname: 'Ckeyin® Máscara de Buceo Visión 180 ° Anti-Fugas Anti-Niebla con Soporte de Cámara para Deportes Acuáticos  Negro 2  S/M '
 ---
 
 Tienes [Ckeyin® Máscara de Buceo Visión 180 ° Anti-Fugas Anti-Niebla con Soporte de Cámara para Deportes Acuáticos  Negro 2  S/M ](https://www.amazon.es/dp/B07CPFJYXG/?tag=tolees-21) con un 58.23 % de descuento con precio de oferta de 12.11 EUR (original: 28.99 EUR) en el siguiente enlace!

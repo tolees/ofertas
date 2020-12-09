@@ -14,7 +14,7 @@ currency: EUR
 price: 67.19
 comparePrice: 97.36 EUR
 inStock: true
-prodname: Pack Tierra Media Blu-Ray [Blu-ray]
+prodname: 'Pack Tierra Media Blu-Ray [Blu-ray]'
 ---
 
 Ahora mismo tienes [Pack Tierra Media Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JJ6HPSK/?tag=tolees-21) a 67.19 EUR (original: 97.36 EUR) (30.99 %  de descuento) en el siguiente enlace!

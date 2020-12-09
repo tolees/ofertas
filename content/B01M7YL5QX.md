@@ -14,7 +14,7 @@ currency: EUR
 price: 15.56
 comparePrice: 20.8 EUR
 inStock: true
-prodname: adidas Tiro BP Mochila  Unisex Adulto  Azul  Azul/Maruni/Blanco   NS
+prodname: 'adidas Tiro BP Mochila  Unisex Adulto  Azul  Azul/Maruni/Blanco   NS'
 ---
 
 Ahora mismo tienes [adidas Tiro BP Mochila  Unisex Adulto  Azul  Azul/Maruni/Blanco   NS](https://www.amazon.es/dp/B01M7YL5QX/?tag=tolees-21) a 15.56 EUR (original: 20.8 EUR) (25.19 %  de descuento) en el siguiente enlace!

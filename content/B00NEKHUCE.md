@@ -14,7 +14,7 @@ currency: EUR
 price: 98.63
 comparePrice: 163.35 EUR
 inStock: true
-prodname: Bosch Professional 06019E3001 Aspiradora en seco y húmedo  12 V  Azul
+prodname: 'Bosch Professional 06019E3001 Aspiradora en seco y húmedo  12 V  Azul'
 ---
 
 Tienes [Bosch Professional 06019E3001 Aspiradora en seco y húmedo  12 V  Azul](https://www.amazon.es/dp/B00NEKHUCE/?tag=tolees-21) con un 39.62 % de descuento con precio de oferta de 98.63 EUR (original: 163.35 EUR) en el siguiente enlace!

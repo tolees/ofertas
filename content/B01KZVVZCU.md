@@ -14,7 +14,7 @@ currency: EUR
 price: 42.87
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Reazor Edge  Mocasines para Hombre  Negro  Black Leather-   42.5 EU
+prodname: 'Clarks Reazor Edge  Mocasines para Hombre  Negro  Black Leather-   42.5 EU'
 ---
 
 Está [Clarks Reazor Edge  Mocasines para Hombre  Negro  Black Leather-   42.5 EU](https://www.amazon.es/dp/B01KZVVZCU/?tag=tolees-21) con 57.11 de descuento por 42.87 EUR (original: 99.95 EUR) en el siguiente enlace!

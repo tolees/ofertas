@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Siux Pantalon Corto Tour Marino
+prodname: 'Siux Pantalon Corto Tour Marino'
 ---
 
 Está [Siux Pantalon Corto Tour Marino](https://www.amazon.es/dp/B073G1JPFQ/?tag=tolees-21) con 66.78 de descuento por 9.95 EUR (original: 29.95 EUR) en el siguiente enlace!

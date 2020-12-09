@@ -14,7 +14,7 @@ currency: EUR
 price: 23.65
 comparePrice: 53 EUR
 inStock: true
-prodname: PURE VERINO MAN Eau De Toilette 150ML
+prodname: 'PURE VERINO MAN Eau De Toilette 150ML'
 ---
 
 Ahora mismo tienes [PURE VERINO MAN Eau De Toilette 150ML](https://www.amazon.es/dp/B00PT63CZK/?tag=tolees-21) a 23.65 EUR (original: 53 EUR) (55.38 %  de descuento) en el siguiente enlace!

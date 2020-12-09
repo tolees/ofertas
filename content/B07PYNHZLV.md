@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Funda Impermeable Móvil  Zttopo 2 piezas Bolsa Impermeable Universal IPX8 con Tres Tiras Sellado Protección Impermeable para Todos Dispositivos Hasta 6.5 Pulgadas Pantalla Táctil
+prodname: 'Funda Impermeable Móvil  Zttopo 2 piezas Bolsa Impermeable Universal IPX8 con Tres Tiras Sellado Protección Impermeable para Todos Dispositivos Hasta 6.5 Pulgadas Pantalla Táctil'
 ---
 
 Ahora mismo tienes [Funda Impermeable Móvil  Zttopo 2 piezas Bolsa Impermeable Universal IPX8 con Tres Tiras Sellado Protección Impermeable para Todos Dispositivos Hasta 6.5 Pulgadas Pantalla Táctil](https://www.amazon.es/dp/B07PYNHZLV/?tag=tolees-21) a 7.99 EUR (original: 23.99 EUR) (66.69 %  de descuento) en el siguiente enlace!

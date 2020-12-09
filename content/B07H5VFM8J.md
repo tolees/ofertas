@@ -14,7 +14,7 @@ currency: EUR
 price: 41.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Skechers Flex Appeal 3.0-First Insight  Zapatillas  Negro  BKW Black Mesh/Trim   36 EU
+prodname: 'Skechers Flex Appeal 3.0-First Insight  Zapatillas  Negro  BKW Black Mesh/Trim   36 EU'
 ---
 
 Tienes [Skechers Flex Appeal 3.0-First Insight  Zapatillas  Negro  BKW Black Mesh/Trim   36 EU](https://www.amazon.es/dp/B07H5VFM8J/?tag=tolees-21) con un 30.03 % de descuento con precio de oferta de 41.95 EUR (original: 59.95 EUR) en el siguiente enlace!

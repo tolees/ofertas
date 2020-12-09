@@ -14,7 +14,7 @@ currency: EUR
 price: 28.09
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Medisana HU 662 Calefacción bajo la cama  150 x 80 cm  desconexión automática  protección contra sobrecalentamiento  6 ajustes de temperatura  lavable para todos los colchones estándar
+prodname: 'Medisana HU 662 Calefacción bajo la cama  150 x 80 cm  desconexión automática  protección contra sobrecalentamiento  6 ajustes de temperatura  lavable para todos los colchones estándar'
 ---
 
 Ahora mismo tienes [Medisana HU 662 Calefacción bajo la cama  150 x 80 cm  desconexión automática  protección contra sobrecalentamiento  6 ajustes de temperatura  lavable para todos los colchones estándar](https://www.amazon.es/dp/B01AYGUFBS/?tag=tolees-21) a 28.09 EUR (original: 59.95 EUR) (53.14 %  de descuento) en el siguiente enlace!

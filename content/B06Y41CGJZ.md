@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: LANGRIA Cojín del Asiento Ortopédico Viscoelástico  Antideslizante  Asa para Fácil Transporte  Funda Transpirable  Cojín Anti Escaras  Aliviar Presión y Dolor de Coxis  Lumbar  Espalda  Cadera
+prodname: 'LANGRIA Cojín del Asiento Ortopédico Viscoelástico  Antideslizante  Asa para Fácil Transporte  Funda Transpirable  Cojín Anti Escaras  Aliviar Presión y Dolor de Coxis  Lumbar  Espalda  Cadera'
 ---
 
 Está [LANGRIA Cojín del Asiento Ortopédico Viscoelástico  Antideslizante  Asa para Fácil Transporte  Funda Transpirable  Cojín Anti Escaras  Aliviar Presión y Dolor de Coxis  Lumbar  Espalda  Cadera](https://www.amazon.es/dp/B06Y41CGJZ/?tag=tolees-21) con 88.02 de descuento por 5.99 EUR (original: 49.99 EUR) en el siguiente enlace!

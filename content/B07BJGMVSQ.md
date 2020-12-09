@@ -14,7 +14,7 @@ currency: EUR
 price: 7.6
 comparePrice: 13.68 EUR
 inStock: true
-prodname: AXE Desodorante Gold Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 ml
+prodname: 'AXE Desodorante Gold Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 ml'
 ---
 
 Ahora mismo tienes [AXE Desodorante Gold Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 ml](https://www.amazon.es/dp/B07BJGMVSQ/?tag=tolees-21) a 7.6 EUR (original: 13.68 EUR) (44.44 %  de descuento) en el siguiente enlace!

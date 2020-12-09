@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Symphonized Wraith 2.0 Premium Auriculares con Cable  Auriculares aislantes del Ruido sobre la Oreja  de Madera auténtica con micrófono  Arce 
+prodname: 'Symphonized Wraith 2.0 Premium Auriculares con Cable  Auriculares aislantes del Ruido sobre la Oreja  de Madera auténtica con micrófono  Arce '
 ---
 
 Tienes [Symphonized Wraith 2.0 Premium Auriculares con Cable  Auriculares aislantes del Ruido sobre la Oreja  de Madera auténtica con micrófono  Arce ](https://www.amazon.es/dp/B01AQAYRA2/?tag=tolees-21) con un 53.34 % de descuento con precio de oferta de 69.99 EUR (original: 149.99 EUR) en el siguiente enlace!

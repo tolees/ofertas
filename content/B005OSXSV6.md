@@ -14,7 +14,7 @@ currency: EUR
 price: 65.68
 comparePrice: 143.95 EUR
 inStock: true
-prodname: Fetish Fantasy Elite Arnés de Doble Deleite Vibrador  Púrpura - 150 gr
+prodname: 'Fetish Fantasy Elite Arnés de Doble Deleite Vibrador  Púrpura - 150 gr'
 ---
 
 Tienes [Fetish Fantasy Elite Arnés de Doble Deleite Vibrador  Púrpura - 150 gr](https://www.amazon.es/dp/B005OSXSV6/?tag=tolees-21) con un 54.37 % de descuento con precio de oferta de 65.68 EUR (original: 143.95 EUR) en el siguiente enlace!

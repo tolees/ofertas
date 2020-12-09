@@ -14,7 +14,7 @@ currency: EUR
 price: 54.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: HUGO Dicago-u3  Sudadera para Hombre  Negro  Black 001  X-Large
+prodname: 'HUGO Dicago-u3  Sudadera para Hombre  Negro  Black 001  X-Large'
 ---
 
 Está [HUGO Dicago-u3  Sudadera para Hombre  Negro  Black 001  X-Large](https://www.amazon.es/dp/B07CTVXR45/?tag=tolees-21) con 45.02 de descuento por 54.95 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.86
 comparePrice: 33 EUR
 inStock: true
-prodname: Trigema 637170218  Pantalones Cortos para Hombre  Negro  Schwarz 008  W28  Talla del Fabricante: Medium 
+prodname: 'Trigema 637170218  Pantalones Cortos para Hombre  Negro  Schwarz 008  W28  Talla del Fabricante: Medium '
 ---
 
 Está [Trigema 637170218  Pantalones Cortos para Hombre  Negro  Schwarz 008  W28  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07H1HVK5Y/?tag=tolees-21) con 58.00 de descuento por 13.86 EUR (original: 33 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.59
 comparePrice: 33.99 EUR
 inStock: true
-prodname: Olivivi Sacacorchos Electrico  Profesional Automatico Abrelatas de Vino  Abridor Botellas de Vino Inalámbrico con Cortador de Papel  Vertedor  Tapón de Vino Silicona de Vacío y Cable de Datos
+prodname: 'Olivivi Sacacorchos Electrico  Profesional Automatico Abrelatas de Vino  Abridor Botellas de Vino Inalámbrico con Cortador de Papel  Vertedor  Tapón de Vino Silicona de Vacío y Cable de Datos'
 ---
 
 Está [Olivivi Sacacorchos Electrico  Profesional Automatico Abrelatas de Vino  Abridor Botellas de Vino Inalámbrico con Cortador de Papel  Vertedor  Tapón de Vino Silicona de Vacío y Cable de Datos](https://www.amazon.es/dp/B07VWDVMKX/?tag=tolees-21) con 27.66 de descuento por 24.59 EUR (original: 33.99 EUR) en el siguiente enlace!

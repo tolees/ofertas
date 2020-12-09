@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 109.99 EUR
 inStock: true
-prodname: Tobetree MT988 - GPS coches  7" Navegador GPS para coche con Bluetooth Gratis de Mapa de Europa Toda la Vida
+prodname: 'Tobetree MT988 - GPS coches  7" Navegador GPS para coche con Bluetooth Gratis de Mapa de Europa Toda la Vida'
 ---
 
 Ahora mismo tienes [Tobetree MT988 - GPS coches  7" Navegador GPS para coche con Bluetooth Gratis de Mapa de Europa Toda la Vida](https://www.amazon.es/dp/B07S4GTPB4/?tag=tolees-21) a 69.99 EUR (original: 109.99 EUR) (36.37 %  de descuento) en el siguiente enlace!

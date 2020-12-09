@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: loveryoyo Pene Anillo Silicona pene vibrador Mando a Distancia de 10 Speed Pene Anill Vibrador Impermeable y Recargable Juguete Sexual para Hombre Mujer Pareja
+prodname: 'loveryoyo Pene Anillo Silicona pene vibrador Mando a Distancia de 10 Speed Pene Anill Vibrador Impermeable y Recargable Juguete Sexual para Hombre Mujer Pareja'
 ---
 
 Ahora mismo tienes [loveryoyo Pene Anillo Silicona pene vibrador Mando a Distancia de 10 Speed Pene Anill Vibrador Impermeable y Recargable Juguete Sexual para Hombre Mujer Pareja](https://www.amazon.es/dp/B07SCHSCQJ/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

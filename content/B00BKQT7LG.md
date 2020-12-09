@@ -14,7 +14,7 @@ currency: EUR
 price: 99.95
 comparePrice: 149.0 EUR
 inStock: true
-prodname: Daniel Wellington Classic Glasgow  Reloj Azul-Blanco/Plateado  40mm  NATO  para Hombre
+prodname: 'Daniel Wellington Classic Glasgow  Reloj Azul-Blanco/Plateado  40mm  NATO  para Hombre'
 ---
 
 Ahora mismo tienes [Daniel Wellington Classic Glasgow  Reloj Azul-Blanco/Plateado  40mm  NATO  para Hombre](https://www.amazon.es/dp/B00BKQT7LG/?tag=tolees-21) a 99.95 EUR (original: 149.0 EUR) (32.92 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 74.0
 comparePrice: 105.04 EUR
 inStock: true
-prodname: Ice-Watch - ICE dune Black - Reloj nero para Hombre con Correa de silicona - Chrono - 014216  Large 
+prodname: 'Ice-Watch - ICE dune Black - Reloj nero para Hombre con Correa de silicona - Chrono - 014216  Large '
 ---
 
 Tienes [Ice-Watch - ICE dune Black - Reloj nero para Hombre con Correa de silicona - Chrono - 014216  Large ](https://www.amazon.es/dp/B071JR5NNM/?tag=tolees-21) con un 29.55 % de descuento con precio de oferta de 74.0 EUR (original: 105.04 EUR) en el siguiente enlace!

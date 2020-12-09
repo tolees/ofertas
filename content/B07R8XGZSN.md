@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 41.49 EUR
 inStock: true
-prodname: GRIFEMA Irismart - monomando empotrar para bidé WC  agua caliente y fria  con ducha mano  soporte y manguera  Flexo 1 2 m  Cromo
+prodname: 'GRIFEMA Irismart - monomando empotrar para bidé WC  agua caliente y fria  con ducha mano  soporte y manguera  Flexo 1 2 m  Cromo'
 ---
 
 Ahora mismo tienes [GRIFEMA Irismart - monomando empotrar para bidé WC  agua caliente y fria  con ducha mano  soporte y manguera  Flexo 1 2 m  Cromo](https://www.amazon.es/dp/B07R8XGZSN/?tag=tolees-21) a 29.99 EUR (original: 41.49 EUR) (27.72 %  de descuento) en el siguiente enlace!

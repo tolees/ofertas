@@ -14,7 +14,7 @@ currency: EUR
 price: 74.97
 comparePrice: 149.95 EUR
 inStock: true
-prodname: adidas Stabil X  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi/Res Yellow  46 2/3 EU
+prodname: 'adidas Stabil X  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi/Res Yellow  46 2/3 EU'
 ---
 
 Tienes [adidas Stabil X  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi/Res Yellow  46 2/3 EU](https://www.amazon.es/dp/B07JRBMNPL/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 74.97 EUR (original: 149.95 EUR) en el siguiente enlace!

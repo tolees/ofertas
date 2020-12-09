@@ -14,7 +14,7 @@ currency: EUR
 price: 14.97
 comparePrice: 22.45 EUR
 inStock: true
-prodname: Puma Esito 4 Polo  Hombre  Esito 4 Polo  puma Royal-puma White-puma New Navy  Medium
+prodname: 'Puma Esito 4 Polo  Hombre  Esito 4 Polo  puma Royal-puma White-puma New Navy  Medium'
 ---
 
 Tienes [Puma Esito 4 Polo  Hombre  Esito 4 Polo  puma Royal-puma White-puma New Navy  Medium](https://www.amazon.es/dp/B01NBG5E3R/?tag=tolees-21) con un 33.32 % de descuento con precio de oferta de 14.97 EUR (original: 22.45 EUR) en el siguiente enlace!

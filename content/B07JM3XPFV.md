@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Aibrou Camisón Mujer Verano Pijama de Algodón Manga Corta Camisón Vestido Cuello en V Camisones Talla Grande
+prodname: 'Aibrou Camisón Mujer Verano Pijama de Algodón Manga Corta Camisón Vestido Cuello en V Camisones Talla Grande'
 ---
 
 Está [Aibrou Camisón Mujer Verano Pijama de Algodón Manga Corta Camisón Vestido Cuello en V Camisones Talla Grande](https://www.amazon.es/dp/B07JM3XPFV/?tag=tolees-21) con 58.01 de descuento por 20.99 EUR (original: 49.99 EUR) en el siguiente enlace!

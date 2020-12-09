@@ -14,7 +14,7 @@ currency: EUR
 price: 8.39
 comparePrice: 11.89 EUR
 inStock: true
-prodname: TOYMYTOY Bolas de deportes de espuma suave pelota de juego de interior al aire libre para los niños de 12 piezas
+prodname: 'TOYMYTOY Bolas de deportes de espuma suave pelota de juego de interior al aire libre para los niños de 12 piezas'
 ---
 
 Tienes [TOYMYTOY Bolas de deportes de espuma suave pelota de juego de interior al aire libre para los niños de 12 piezas](https://www.amazon.es/dp/B071FZVGSP/?tag=tolees-21) con un 29.44 % de descuento con precio de oferta de 8.39 EUR (original: 11.89 EUR) en el siguiente enlace!

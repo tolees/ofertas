@@ -14,7 +14,7 @@ currency: EUR
 price: 5.95
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Joma Calentador Lycra Record Verde Malla Pirata  Hombre  flúor  S
+prodname: 'Joma Calentador Lycra Record Verde Malla Pirata  Hombre  flúor  S'
 ---
 
 Tienes [Joma Calentador Lycra Record Verde Malla Pirata  Hombre  flúor  S](https://www.amazon.es/dp/B00VWYKJ36/?tag=tolees-21) con un 60.20 % de descuento con precio de oferta de 5.95 EUR (original: 14.95 EUR) en el siguiente enlace!

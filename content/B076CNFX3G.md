@@ -14,7 +14,7 @@ currency: EUR
 price: 41.7
 comparePrice: 110.0 EUR
 inStock: true
-prodname: American Tourister - Bon Air - Spinner Equipaje de mano 55 cm  32 L  Azul  Seaport Blue 
+prodname: 'American Tourister - Bon Air - Spinner Equipaje de mano 55 cm  32 L  Azul  Seaport Blue '
 ---
 
 Ahora mismo tienes [American Tourister - Bon Air - Spinner Equipaje de mano 55 cm  32 L  Azul  Seaport Blue ](https://www.amazon.es/dp/B076CNFX3G/?tag=tolees-21) a 41.7 EUR (original: 110.0 EUR) (62.09 %  de descuento) en el siguiente enlace!

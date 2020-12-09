@@ -14,7 +14,7 @@ currency: EUR
 price: 57.95
 comparePrice: 90 EUR
 inStock: true
-prodname: Helly Hansen Hp Atlantic Fz Hoodie  Sudadera para Hombre  Gris  Gris Oscuro 980   Small
+prodname: 'Helly Hansen Hp Atlantic Fz Hoodie  Sudadera para Hombre  Gris  Gris Oscuro 980   Small'
 ---
 
 Ahora mismo tienes [Helly Hansen Hp Atlantic Fz Hoodie  Sudadera para Hombre  Gris  Gris Oscuro 980   Small](https://www.amazon.es/dp/B07MFYQHG5/?tag=tolees-21) a 57.95 EUR (original: 90 EUR) (35.61 %  de descuento) en el siguiente enlace!

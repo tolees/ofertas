@@ -14,7 +14,7 @@ currency: EUR
 price: 27.95
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Corp Flag tee Camiseta Rojo  Haute Red 611  Medium para Hombre
+prodname: 'Tommy Hilfiger Corp Flag tee Camiseta Rojo  Haute Red 611  Medium para Hombre'
 ---
 
 Está [Tommy Hilfiger Corp Flag tee Camiseta Rojo  Haute Red 611  Medium para Hombre](https://www.amazon.es/dp/B07L3HJWR8/?tag=tolees-21) con 29.95 de descuento por 27.95 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6
 comparePrice: 14.99 EUR
 inStock: true
-prodname: IRIS & LILLY Top Bikini con Forma de Triángulo para Mujer  Verde  Olive/turquoise   Large
+prodname: 'IRIS & LILLY Top Bikini con Forma de Triángulo para Mujer  Verde  Olive/turquoise   Large'
 ---
 
 Tienes [IRIS & LILLY Top Bikini con Forma de Triángulo para Mujer  Verde  Olive/turquoise   Large](https://www.amazon.es/dp/B06XPLZXPF/?tag=tolees-21) con un 59.97 % de descuento con precio de oferta de 6 EUR (original: 14.99 EUR) en el siguiente enlace!

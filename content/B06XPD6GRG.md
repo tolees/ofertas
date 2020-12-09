@@ -14,7 +14,7 @@ currency: EUR
 price: 21.28
 comparePrice: 40 EUR
 inStock: true
-prodname: find. Vaqueros Ajustados para Hombre  Azul  Medium Wash   W34/L30  Talla del fabricante: 34 
+prodname: 'find. Vaqueros Ajustados para Hombre  Azul  Medium Wash   W34/L30  Talla del fabricante: 34 '
 ---
 
 Está [find. Vaqueros Ajustados para Hombre  Azul  Medium Wash   W34/L30  Talla del fabricante: 34 ](https://www.amazon.es/dp/B06XPD6GRG/?tag=tolees-21) con 46.80 de descuento por 21.28 EUR (original: 40 EUR) en el siguiente enlace!

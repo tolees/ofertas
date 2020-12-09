@@ -14,7 +14,7 @@ currency: EUR
 price: 10.95
 comparePrice: 16.0 EUR
 inStock: true
-prodname: Cencibel Smart Casual Mascarilla Vacaciones en Roma Pelicula Moto Vespa Cállate La Boca
+prodname: 'Cencibel Smart Casual Mascarilla Vacaciones en Roma Pelicula Moto Vespa Cállate La Boca'
 ---
 
 Está [Cencibel Smart Casual Mascarilla Vacaciones en Roma Pelicula Moto Vespa Cállate La Boca](https://www.amazon.es/dp/B089RBZVGK/?tag=tolees-21) con 31.56 de descuento por 10.95 EUR (original: 16.0 EUR) en el siguiente enlace!

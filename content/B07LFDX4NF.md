@@ -14,7 +14,7 @@ currency: EUR
 price: 56.4
 comparePrice: 115.0 EUR
 inStock: true
-prodname: Levi s 510 Skinny Vaqueros  Deathcap Light Mid Overt Adv  31W / 34L para Hombre
+prodname: 'Levi s 510 Skinny Vaqueros  Deathcap Light Mid Overt Adv  31W / 34L para Hombre'
 ---
 
 Tienes [Levi s 510 Skinny Vaqueros  Deathcap Light Mid Overt Adv  31W / 34L para Hombre](https://www.amazon.es/dp/B07LFDX4NF/?tag=tolees-21) con un 50.96 % de descuento con precio de oferta de 56.4 EUR (original: 115.0 EUR) en el siguiente enlace!

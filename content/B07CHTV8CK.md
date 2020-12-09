@@ -14,7 +14,7 @@ currency: EUR
 price: 59.88
 comparePrice: 99.95 EUR
 inStock: true
-prodname: BOSS Schino-Regular D Pantalones  Open Beige 299  36W/34L para Hombre
+prodname: 'BOSS Schino-Regular D Pantalones  Open Beige 299  36W/34L para Hombre'
 ---
 
 Está [BOSS Schino-Regular D Pantalones  Open Beige 299  36W/34L para Hombre](https://www.amazon.es/dp/B07CHTV8CK/?tag=tolees-21) con 40.09 de descuento por 59.88 EUR (original: 99.95 EUR) en el siguiente enlace!

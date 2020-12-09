@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Beexcellent GM-1 - Auriculares Gaming para PS4  PC  Xbox one  PlayStation - Psone  Cascos Ruido Reducción de Diademas Cerrados Profesional con Micrófono Limpio Sonido 3.5mm  Azul
+prodname: 'Beexcellent GM-1 - Auriculares Gaming para PS4  PC  Xbox one  PlayStation - Psone  Cascos Ruido Reducción de Diademas Cerrados Profesional con Micrófono Limpio Sonido 3.5mm  Azul'
 ---
 
 Está [Beexcellent GM-1 - Auriculares Gaming para PS4  PC  Xbox one  PlayStation - Psone  Cascos Ruido Reducción de Diademas Cerrados Profesional con Micrófono Limpio Sonido 3.5mm  Azul](https://www.amazon.es/dp/B0711LKKGD/?tag=tolees-21) con 28.01 de descuento por 17.99 EUR (original: 24.99 EUR) en el siguiente enlace!

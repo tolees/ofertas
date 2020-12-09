@@ -14,7 +14,7 @@ currency: EUR
 price: 74.13
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Ronnie Limit  Zapatos de Cordones Brogue  Piel Negra  39.5 EU
+prodname: 'Clarks Ronnie Limit  Zapatos de Cordones Brogue  Piel Negra  39.5 EU'
 ---
 
 Tienes [Clarks Ronnie Limit  Zapatos de Cordones Brogue  Piel Negra  39.5 EU](https://www.amazon.es/dp/B07MQ2GLC3/?tag=tolees-21) con un 25.83 % de descuento con precio de oferta de 74.13 EUR (original: 99.95 EUR) en el siguiente enlace!

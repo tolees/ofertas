@@ -14,7 +14,7 @@ currency: EUR
 price: 31.42
 comparePrice: 55 EUR
 inStock: true
-prodname: Vans Filmore Suede/Canvas  Zapatillas para Niños   Checkerboard  Black/Lapis Blue Vwc  27.5 EU
+prodname: 'Vans Filmore Suede/Canvas  Zapatillas para Niños   Checkerboard  Black/Lapis Blue Vwc  27.5 EU'
 ---
 
 Tienes [Vans Filmore Suede/Canvas  Zapatillas para Niños   Checkerboard  Black/Lapis Blue Vwc  27.5 EU](https://www.amazon.es/dp/B07FXQF3RL/?tag=tolees-21) con un 42.87 % de descuento con precio de oferta de 31.42 EUR (original: 55 EUR) en el siguiente enlace!

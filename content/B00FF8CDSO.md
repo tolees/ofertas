@@ -14,7 +14,7 @@ currency: EUR
 price: 75.0
 comparePrice: 105.0 EUR
 inStock: true
-prodname: Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES3405
+prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES3405'
 ---
 
 Tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES3405](https://www.amazon.es/dp/B00FF8CDSO/?tag=tolees-21) con un 28.57 % de descuento con precio de oferta de 75.0 EUR (original: 105.0 EUR) en el siguiente enlace!

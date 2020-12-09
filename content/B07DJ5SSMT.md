@@ -14,7 +14,7 @@ currency: EUR
 price: 35.98
 comparePrice: 69.95 EUR
 inStock: true
-prodname: United Colors of Benetton Jacket  Chaqueta para Hombre  Negro  Black 100  Medium  Talla del Fabricante: 46 
+prodname: 'United Colors of Benetton Jacket  Chaqueta para Hombre  Negro  Black 100  Medium  Talla del Fabricante: 46 '
 ---
 
 Ahora mismo tienes [United Colors of Benetton Jacket  Chaqueta para Hombre  Negro  Black 100  Medium  Talla del Fabricante: 46 ](https://www.amazon.es/dp/B07DJ5SSMT/?tag=tolees-21) a 35.98 EUR (original: 69.95 EUR) (48.56 %  de descuento) en el siguiente enlace!

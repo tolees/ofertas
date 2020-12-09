@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Disco Duro Externo 1 TB  USB3.0 Protable 2.5" Disco Duro Externo para PC  Mac  MacBook  Xbox One 1TB Negro 
+prodname: 'Disco Duro Externo 1 TB  USB3.0 Protable 2.5" Disco Duro Externo para PC  Mac  MacBook  Xbox One 1TB Negro '
 ---
 
 Tienes [Disco Duro Externo 1 TB  USB3.0 Protable 2.5" Disco Duro Externo para PC  Mac  MacBook  Xbox One 1TB Negro ](https://www.amazon.es/dp/B08LN7T9BM/?tag=tolees-21) con un 30.45 % de descuento con precio de oferta de 47.99 EUR (original: 69.0 EUR) en el siguiente enlace!

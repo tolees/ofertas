@@ -14,7 +14,7 @@ currency: EUR
 price: 57.99
 comparePrice: 116.99 EUR
 inStock: true
-prodname: Echo Show 8  reacondicionado certificado  tela de color antracita - Una pantalla inteligente HD de 8 pulgadas con Alexa
+prodname: 'Echo Show 8  reacondicionado certificado  tela de color antracita - Una pantalla inteligente HD de 8 pulgadas con Alexa'
 ---
 
 Está [Echo Show 8  reacondicionado certificado  tela de color antracita - Una pantalla inteligente HD de 8 pulgadas con Alexa](https://www.amazon.es/dp/B07SNPP6P3/?tag=tolees-21) con 50.43 de descuento por 57.99 EUR (original: 116.99 EUR) en el siguiente enlace!

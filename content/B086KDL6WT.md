@@ -14,7 +14,7 @@ currency: EUR
 price: 9.49
 comparePrice: 13.6 EUR
 inStock: true
-prodname: Listerine - Enjuague Bucal Protección Dientes y Encías  2 x 1000 ml 2 Unidades 2060 g
+prodname: 'Listerine - Enjuague Bucal Protección Dientes y Encías  2 x 1000 ml 2 Unidades 2060 g'
 ---
 
 Tienes [Listerine - Enjuague Bucal Protección Dientes y Encías  2 x 1000 ml 2 Unidades 2060 g](https://www.amazon.es/dp/B086KDL6WT/?tag=tolees-21) con un 30.22 % de descuento con precio de oferta de 9.49 EUR (original: 13.6 EUR) en el siguiente enlace!

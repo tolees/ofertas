@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Panasonic EW1611W503 Irrigador bucal eléctrico Estacionario  tecnología Ultrasónica  10 niveles de potencia  Depósito de gran Tamaño en Espacio compacto  Blanco
+prodname: 'Panasonic EW1611W503 Irrigador bucal eléctrico Estacionario  tecnología Ultrasónica  10 niveles de potencia  Depósito de gran Tamaño en Espacio compacto  Blanco'
 ---
 
 Ahora mismo tienes [Panasonic EW1611W503 Irrigador bucal eléctrico Estacionario  tecnología Ultrasónica  10 niveles de potencia  Depósito de gran Tamaño en Espacio compacto  Blanco](https://www.amazon.es/dp/B06XPCT6MF/?tag=tolees-21) a 59.99 EUR (original: 99.0 EUR) (39.40 %  de descuento) en el siguiente enlace!

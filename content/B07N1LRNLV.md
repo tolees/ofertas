@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Zapatos de Agua para Hombre Mujer Calzado de Natación Buceo Snorkel Piscina Playa Deportes Acuáticos Surf Escarpines
+prodname: 'Zapatos de Agua para Hombre Mujer Calzado de Natación Buceo Snorkel Piscina Playa Deportes Acuáticos Surf Escarpines'
 ---
 
 Está [Zapatos de Agua para Hombre Mujer Calzado de Natación Buceo Snorkel Piscina Playa Deportes Acuáticos Surf Escarpines](https://www.amazon.es/dp/B07N1LRNLV/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

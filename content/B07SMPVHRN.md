@@ -14,7 +14,7 @@ currency: EUR
 price: 125.36
 comparePrice: 180.0 EUR
 inStock: true
-prodname: Asics Gel-Nimbus 22  Zapatillas de Running para Hombre  Amarillo  SafetyYellow/Black 751   42 EU
+prodname: 'Asics Gel-Nimbus 22  Zapatillas de Running para Hombre  Amarillo  SafetyYellow/Black 751   42 EU'
 ---
 
 Tienes [Asics Gel-Nimbus 22  Zapatillas de Running para Hombre  Amarillo  SafetyYellow/Black 751   42 EU](https://www.amazon.es/dp/B07SMPVHRN/?tag=tolees-21) con un 30.36 % de descuento con precio de oferta de 125.36 EUR (original: 180.0 EUR) en el siguiente enlace!

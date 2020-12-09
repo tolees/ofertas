@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 12.95 EUR
 inStock: true
-prodname: Neutrogena Crema de Pies Ultra Hidratante  Pies Secos y Estropeados  2 x 100 ml
+prodname: 'Neutrogena Crema de Pies Ultra Hidratante  Pies Secos y Estropeados  2 x 100 ml'
 ---
 
 Tienes [Neutrogena Crema de Pies Ultra Hidratante  Pies Secos y Estropeados  2 x 100 ml](https://www.amazon.es/dp/B06XTBLKG1/?tag=tolees-21) con un 30.58 % de descuento con precio de oferta de 8.99 EUR (original: 12.95 EUR) en el siguiente enlace!

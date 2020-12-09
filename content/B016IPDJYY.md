@@ -14,7 +14,7 @@ currency: EUR
 price: 56.92
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Daren Zip  Jeans Hombre  Azul  Dark Indigo   W36/L32  Talla del fabricante: 36 
+prodname: 'Lee Daren Zip  Jeans Hombre  Azul  Dark Indigo   W36/L32  Talla del fabricante: 36 '
 ---
 
 Tienes [Lee Daren Zip  Jeans Hombre  Azul  Dark Indigo   W36/L32  Talla del fabricante: 36 ](https://www.amazon.es/dp/B016IPDJYY/?tag=tolees-21) con un 36.72 % de descuento con precio de oferta de 56.92 EUR (original: 89.95 EUR) en el siguiente enlace!

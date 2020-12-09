@@ -14,7 +14,7 @@ currency: EUR
 price: 44.3
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Fred Perry Twin Tipped Shirt Polo  Amarillo  NC Amber Black 904   X-Small para Hombre
+prodname: 'Fred Perry Twin Tipped Shirt Polo  Amarillo  NC Amber Black 904   X-Small para Hombre'
 ---
 
 Está [Fred Perry Twin Tipped Shirt Polo  Amarillo  NC Amber Black 904   X-Small para Hombre](https://www.amazon.es/dp/B07CRMH98K/?tag=tolees-21) con 44.59 de descuento por 44.3 EUR (original: 79.95 EUR) en el siguiente enlace!

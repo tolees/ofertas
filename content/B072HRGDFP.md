@@ -14,7 +14,7 @@ currency: EUR
 price: 54.89
 comparePrice: 130 EUR
 inStock: true
-prodname: Hackett Rinse Wash Nwbg Reg  Pantalones para Hombre  Azul  559dk Denim   W32
+prodname: 'Hackett Rinse Wash Nwbg Reg  Pantalones para Hombre  Azul  559dk Denim   W32'
 ---
 
 Está [Hackett Rinse Wash Nwbg Reg  Pantalones para Hombre  Azul  559dk Denim   W32](https://www.amazon.es/dp/B072HRGDFP/?tag=tolees-21) con 57.78 de descuento por 54.89 EUR (original: 130 EUR) en el siguiente enlace!

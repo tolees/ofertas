@@ -14,7 +14,7 @@ currency: EUR
 price: 21
 comparePrice: 35.9 EUR
 inStock: true
-prodname: Crocs Crocband II Slide U  Chanclas Unisex Adulto  Negro  Black/Graphite   42/43 EU
+prodname: 'Crocs Crocband II Slide U  Chanclas Unisex Adulto  Negro  Black/Graphite   42/43 EU'
 ---
 
 Tienes [Crocs Crocband II Slide U  Chanclas Unisex Adulto  Negro  Black/Graphite   42/43 EU](https://www.amazon.es/dp/B01HQAXC9C/?tag=tolees-21) con un 41.50 % de descuento con precio de oferta de 21 EUR (original: 35.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Polly Pocket avión de POLLYVILLE  Mattel GKL50 
+prodname: 'Polly Pocket avión de POLLYVILLE  Mattel GKL50 '
 ---
 
 Tienes [Polly Pocket avión de POLLYVILLE  Mattel GKL50 ](https://www.amazon.es/dp/B084L1FRPZ/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 8.99 EUR (original: 11.99 EUR) en el siguiente enlace!

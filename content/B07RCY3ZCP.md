@@ -14,7 +14,7 @@ currency: EUR
 price: 11.93
 comparePrice: 19.24 EUR
 inStock: true
-prodname: Marca Amazon - find. Snaffle Leather Loafer Mocasines  Negro Black  41 EU
+prodname: 'Marca Amazon - find. Snaffle Leather Loafer Mocasines  Negro Black  41 EU'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Snaffle Leather Loafer Mocasines  Negro Black  41 EU](https://www.amazon.es/dp/B07RCY3ZCP/?tag=tolees-21) a 11.93 EUR (original: 19.24 EUR) (37.99 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 269.89
 comparePrice: 790 EUR
 inStock: true
-prodname: ANYCALL Amplificadores de Señal Móvil  Tri-Banda Repetidor gsm  2G EGSM 900MHz UMTS 2100MHz LTE 1800MHz para Obtenga Llamadas Señal 3G y 4G en Su Casa/Oficina
+prodname: 'ANYCALL Amplificadores de Señal Móvil  Tri-Banda Repetidor gsm  2G EGSM 900MHz UMTS 2100MHz LTE 1800MHz para Obtenga Llamadas Señal 3G y 4G en Su Casa/Oficina'
 ---
 
 Tienes [ANYCALL Amplificadores de Señal Móvil  Tri-Banda Repetidor gsm  2G EGSM 900MHz UMTS 2100MHz LTE 1800MHz para Obtenga Llamadas Señal 3G y 4G en Su Casa/Oficina](https://www.amazon.es/dp/B07Q7GKH4G/?tag=tolees-21) con un 65.84 % de descuento con precio de oferta de 269.89 EUR (original: 790 EUR) en el siguiente enlace!

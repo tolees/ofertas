@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 59.99 EUR
 inStock: true
-prodname: DC Apparel Circle Star Fleece Top  Hombre  Charcoal Heather/Black  M
+prodname: 'DC Apparel Circle Star Fleece Top  Hombre  Charcoal Heather/Black  M'
 ---
 
 Está [DC Apparel Circle Star Fleece Top  Hombre  Charcoal Heather/Black  M](https://www.amazon.es/dp/B07KQ1WMH7/?tag=tolees-21) con 50.08 de descuento por 29.95 EUR (original: 59.99 EUR) en el siguiente enlace!

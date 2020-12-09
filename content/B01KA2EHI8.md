@@ -14,7 +14,7 @@ currency: EUR
 price: 5.9
 comparePrice: 10.4 EUR
 inStock: true
-prodname: COCONUT OIL DEEP TREAT. CONDITIONER 1KG
+prodname: 'COCONUT OIL DEEP TREAT. CONDITIONER 1KG'
 ---
 
 Ahora mismo tienes [COCONUT OIL DEEP TREAT. CONDITIONER 1KG](https://www.amazon.es/dp/B01KA2EHI8/?tag=tolees-21) a 5.9 EUR (original: 10.4 EUR) (43.27 %  de descuento) en el siguiente enlace!

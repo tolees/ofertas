@@ -14,7 +14,7 @@ currency: EUR
 price: 299.95
 comparePrice: 499.9 EUR
 inStock: true
-prodname: Polar Vantage V Pulsómetro con GPS  Unisex Adulto  Negro  Black   M/L-Circunferencia de la muñeca 155-210 mm
+prodname: 'Polar Vantage V Pulsómetro con GPS  Unisex Adulto  Negro  Black   M/L-Circunferencia de la muñeca 155-210 mm'
 ---
 
 Está [Polar Vantage V Pulsómetro con GPS  Unisex Adulto  Negro  Black   M/L-Circunferencia de la muñeca 155-210 mm](https://www.amazon.es/dp/B07G8GH4DN/?tag=tolees-21) con 40.00 de descuento por 299.95 EUR (original: 499.9 EUR) en el siguiente enlace!

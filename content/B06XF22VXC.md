@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: 5 en 1 Multifunción Mochila Portabebé Ergonómica Portador de Bebé Transpirable Adjustable Fular Portabebés Asiento de Cadera Marsupios Portabebé para Bebé Recién Nacidos   Azul
+prodname: '5 en 1 Multifunción Mochila Portabebé Ergonómica Portador de Bebé Transpirable Adjustable Fular Portabebés Asiento de Cadera Marsupios Portabebé para Bebé Recién Nacidos   Azul'
 ---
 
 Tienes [5 en 1 Multifunción Mochila Portabebé Ergonómica Portador de Bebé Transpirable Adjustable Fular Portabebés Asiento de Cadera Marsupios Portabebé para Bebé Recién Nacidos   Azul](https://www.amazon.es/dp/B06XF22VXC/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

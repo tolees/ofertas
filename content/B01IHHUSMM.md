@@ -14,7 +14,7 @@ currency: EUR
 price: 89.78
 comparePrice: 299 EUR
 inStock: true
-prodname: Cortefiel Traje Hombre Gris Oscuro ES 54
+prodname: 'Cortefiel Traje Hombre Gris Oscuro ES 54'
 ---
 
 Está [Cortefiel Traje Hombre Gris Oscuro ES 54](https://www.amazon.es/dp/B01IHHUSMM/?tag=tolees-21) con 69.97 de descuento por 89.78 EUR (original: 299 EUR) en el siguiente enlace!

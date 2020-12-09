@@ -14,7 +14,7 @@ currency: EUR
 price: 32.5
 comparePrice: 65 EUR
 inStock: true
-prodname: Lee Western Shirt  Camisa para Hombre  Marfil  Bright Red EF  Small
+prodname: 'Lee Western Shirt  Camisa para Hombre  Marfil  Bright Red EF  Small'
 ---
 
 Ahora mismo tienes [Lee Western Shirt  Camisa para Hombre  Marfil  Bright Red EF  Small](https://www.amazon.es/dp/B07FYP38ZR/?tag=tolees-21) a 32.5 EUR (original: 65 EUR) (50.00 %  de descuento) en el siguiente enlace!

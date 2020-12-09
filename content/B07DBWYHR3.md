@@ -14,7 +14,7 @@ currency: EUR
 price: 24.42
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Puma Vikky Stacked Ribbon S  Zapatillas para Mujer  Morado Indigo  38 EU
+prodname: 'Puma Vikky Stacked Ribbon S  Zapatillas para Mujer  Morado Indigo  38 EU'
 ---
 
 Ahora mismo tienes [Puma Vikky Stacked Ribbon S  Zapatillas para Mujer  Morado Indigo  38 EU](https://www.amazon.es/dp/B07DBWYHR3/?tag=tolees-21) a 24.42 EUR (original: 64.95 EUR) (62.40 %  de descuento) en el siguiente enlace!

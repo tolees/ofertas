@@ -14,7 +14,7 @@ currency: EUR
 price: 33.76
 comparePrice: 65 EUR
 inStock: true
-prodname: Pepe Jeans London North Mix  Zapatillas para Hombre  Negro  Black 999   44 EU
+prodname: 'Pepe Jeans London North Mix  Zapatillas para Hombre  Negro  Black 999   44 EU'
 ---
 
 Está [Pepe Jeans London North Mix  Zapatillas para Hombre  Negro  Black 999   44 EU](https://www.amazon.es/dp/B071HRLCJ7/?tag=tolees-21) con 48.06 de descuento por 33.76 EUR (original: 65 EUR) en el siguiente enlace!

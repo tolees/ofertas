@@ -14,7 +14,7 @@ currency: EUR
 price: 35.95
 comparePrice: 60 EUR
 inStock: true
-prodname: Under Armour UA Pantalón  Mujer  Black White  001   XS
+prodname: 'Under Armour UA Pantalón  Mujer  Black White  001   XS'
 ---
 
 Ahora mismo tienes [Under Armour UA Pantalón  Mujer  Black White  001   XS](https://www.amazon.es/dp/B077XQ7GGM/?tag=tolees-21) a 35.95 EUR (original: 60 EUR) (40.08 %  de descuento) en el siguiente enlace!

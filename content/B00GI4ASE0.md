@@ -14,7 +14,7 @@ currency: EUR
 price: 5.6
 comparePrice: 13.63 EUR
 inStock: true
-prodname: I-D-C CID Vd-pe10759t Camiseta de Tirantes  Azul  Blue   X-Large para Hombre
+prodname: 'I-D-C CID Vd-pe10759t Camiseta de Tirantes  Azul  Blue   X-Large para Hombre'
 ---
 
 Ahora mismo tienes [I-D-C CID Vd-pe10759t Camiseta de Tirantes  Azul  Blue   X-Large para Hombre](https://www.amazon.es/dp/B00GI4ASE0/?tag=tolees-21) a 5.6 EUR (original: 13.63 EUR) (58.91 %  de descuento) en el siguiente enlace!

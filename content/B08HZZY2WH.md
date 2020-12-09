@@ -14,7 +14,7 @@ currency: EUR
 price: 14.85
 comparePrice: 19.8 EUR
 inStock: true
-prodname: Garnier Fructis Hair Food Champú Banana Nutritiva  indicado para Pelo Seco - Pack de 4 x 350 ml
+prodname: 'Garnier Fructis Hair Food Champú Banana Nutritiva  indicado para Pelo Seco - Pack de 4 x 350 ml'
 ---
 
 Ahora mismo tienes [Garnier Fructis Hair Food Champú Banana Nutritiva  indicado para Pelo Seco - Pack de 4 x 350 ml](https://www.amazon.es/dp/B08HZZY2WH/?tag=tolees-21) a 14.85 EUR (original: 19.8 EUR) (25.00 %  de descuento) en el siguiente enlace!

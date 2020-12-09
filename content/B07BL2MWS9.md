@@ -14,7 +14,7 @@ currency: EUR
 price: 50
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance 997H  Zapatillas para Mujer  Blanco  Sea Salt/Peony   37 EU
+prodname: 'New Balance 997H  Zapatillas para Mujer  Blanco  Sea Salt/Peony   37 EU'
 ---
 
 Tienes [New Balance 997H  Zapatillas para Mujer  Blanco  Sea Salt/Peony   37 EU](https://www.amazon.es/dp/B07BL2MWS9/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 50 EUR (original: 90 EUR) en el siguiente enlace!

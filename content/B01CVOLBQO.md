@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Memoria Flash USB 3.0 SanDisk Ultra Dual de 64 GB  Velocidad de Lectura de hasta 150 MB/s
+prodname: 'Memoria Flash USB 3.0 SanDisk Ultra Dual de 64 GB  Velocidad de Lectura de hasta 150 MB/s'
 ---
 
 Tienes [Memoria Flash USB 3.0 SanDisk Ultra Dual de 64 GB  Velocidad de Lectura de hasta 150 MB/s](https://www.amazon.es/dp/B01CVOLBQO/?tag=tolees-21) con un 47.09 % de descuento con precio de oferta de 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!

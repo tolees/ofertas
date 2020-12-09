@@ -14,7 +14,7 @@ currency: EUR
 price: 235.98
 comparePrice: 350.0 EUR
 inStock: true
-prodname: Seiko Reloj Cronógrafo para Hombre de Energía Solar con Correa en Acero Inoxidable SSC719P1
+prodname: 'Seiko Reloj Cronógrafo para Hombre de Energía Solar con Correa en Acero Inoxidable SSC719P1'
 ---
 
 Tienes [Seiko Reloj Cronógrafo para Hombre de Energía Solar con Correa en Acero Inoxidable SSC719P1](https://www.amazon.es/dp/B07N7TC6NK/?tag=tolees-21) con un 32.58 % de descuento con precio de oferta de 235.98 EUR (original: 350.0 EUR) en el siguiente enlace!

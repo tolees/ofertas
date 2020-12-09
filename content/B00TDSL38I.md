@@ -14,7 +14,7 @@ currency: EUR
 price: 66.25
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Taylor Shine  Botas Chelsea Mujer  Negro  Black Leather   36 EU
+prodname: 'Clarks Taylor Shine  Botas Chelsea Mujer  Negro  Black Leather   36 EU'
 ---
 
 Tienes [Clarks Taylor Shine  Botas Chelsea Mujer  Negro  Black Leather   36 EU](https://www.amazon.es/dp/B00TDSL38I/?tag=tolees-21) con un 33.72 % de descuento con precio de oferta de 66.25 EUR (original: 99.95 EUR) en el siguiente enlace!

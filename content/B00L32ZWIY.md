@@ -14,7 +14,7 @@ currency: EUR
 price: 7.77
 comparePrice: 27.02 EUR
 inStock: true
-prodname: Columbia Silver Ridge III - Pantalones Cortos para niña  Color Azul  Talla FR : 4 ANS  Talla Fabricante : XS 
+prodname: 'Columbia Silver Ridge III - Pantalones Cortos para niña  Color Azul  Talla FR : 4 ANS  Talla Fabricante : XS '
 ---
 
 Está [Columbia Silver Ridge III - Pantalones Cortos para niña  Color Azul  Talla FR : 4 ANS  Talla Fabricante : XS ](https://www.amazon.es/dp/B00L32ZWIY/?tag=tolees-21) con 71.24 de descuento por 7.77 EUR (original: 27.02 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.1
 comparePrice: 27.26 EUR
 inStock: true
-prodname: Kerastase 57816 - Cuidado capilar  300 ml
+prodname: 'Kerastase 57816 - Cuidado capilar  300 ml'
 ---
 
 Ahora mismo tienes [Kerastase 57816 - Cuidado capilar  300 ml](https://www.amazon.es/dp/B00KTEZMXM/?tag=tolees-21) a 12.1 EUR (original: 27.26 EUR) (55.61 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 43.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Aicok Sandwichera Grill 4-Serving  Panini Grill 2000W  Parrilla Eléctrica con Placas Antiadherentes  Bandeja de Goteo Extraíble  Tapa Flotante y Asa de Toque Frío  Plata
+prodname: 'Aicok Sandwichera Grill 4-Serving  Panini Grill 2000W  Parrilla Eléctrica con Placas Antiadherentes  Bandeja de Goteo Extraíble  Tapa Flotante y Asa de Toque Frío  Plata'
 ---
 
 Ahora mismo tienes [Aicok Sandwichera Grill 4-Serving  Panini Grill 2000W  Parrilla Eléctrica con Placas Antiadherentes  Bandeja de Goteo Extraíble  Tapa Flotante y Asa de Toque Frío  Plata](https://www.amazon.es/dp/B074NZF7GF/?tag=tolees-21) a 43.99 EUR (original: 59.99 EUR) (26.67 %  de descuento) en el siguiente enlace!

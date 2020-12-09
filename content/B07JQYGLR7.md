@@ -14,7 +14,7 @@ currency: EUR
 price: 29.98
 comparePrice: 59.95 EUR
 inStock: true
-prodname: adidas Essence  Zapatillas de Balonmano para Hombre   Core Black/Hi/Res Yellow/Active Red   43 1/3 EU
+prodname: 'adidas Essence  Zapatillas de Balonmano para Hombre   Core Black/Hi/Res Yellow/Active Red   43 1/3 EU'
 ---
 
 Ahora mismo tienes [adidas Essence  Zapatillas de Balonmano para Hombre   Core Black/Hi/Res Yellow/Active Red   43 1/3 EU](https://www.amazon.es/dp/B07JQYGLR7/?tag=tolees-21) a 29.98 EUR (original: 59.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

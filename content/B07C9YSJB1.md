@@ -14,7 +14,7 @@ currency: EUR
 price: 16.16
 comparePrice: 60 EUR
 inStock: true
-prodname: Diadora - Vellón Hoodie FZ 5PALLE para Hombre ES XXL
+prodname: 'Diadora - Vellón Hoodie FZ 5PALLE para Hombre ES XXL'
 ---
 
 Tienes [Diadora - Vellón Hoodie FZ 5PALLE para Hombre ES XXL](https://www.amazon.es/dp/B07C9YSJB1/?tag=tolees-21) con un 73.07 % de descuento con precio de oferta de 16.16 EUR (original: 60 EUR) en el siguiente enlace!

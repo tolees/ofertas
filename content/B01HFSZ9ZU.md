@@ -14,7 +14,7 @@ currency: EUR
 price: 38.89
 comparePrice: 57.49 EUR
 inStock: true
-prodname: Adidas Sneakers  Zapatillas para Hombre  Negro  Core Black/Blue/Footwear White 0   43 1/3 EU
+prodname: 'Adidas Sneakers  Zapatillas para Hombre  Negro  Core Black/Blue/Footwear White 0   43 1/3 EU'
 ---
 
 Está [Adidas Sneakers  Zapatillas para Hombre  Negro  Core Black/Blue/Footwear White 0   43 1/3 EU](https://www.amazon.es/dp/B01HFSZ9ZU/?tag=tolees-21) con 32.35 de descuento por 38.89 EUR (original: 57.49 EUR) en el siguiente enlace!

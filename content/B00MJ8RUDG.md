@@ -14,7 +14,7 @@ currency: EUR
 price: 199.76
 comparePrice: 387.75 EUR
 inStock: true
-prodname: AKRACING AK-K6014-BW - Silla  Negro  Color Blanco  Negro  Color Blanco  Negro  Poliuretano  Poliuretano  Metal 
+prodname: 'AKRACING AK-K6014-BW - Silla  Negro  Color Blanco  Negro  Color Blanco  Negro  Poliuretano  Poliuretano  Metal '
 ---
 
 Está [AKRACING AK-K6014-BW - Silla  Negro  Color Blanco  Negro  Color Blanco  Negro  Poliuretano  Poliuretano  Metal ](https://www.amazon.es/dp/B00MJ8RUDG/?tag=tolees-21) con 48.48 de descuento por 199.76 EUR (original: 387.75 EUR) en el siguiente enlace!

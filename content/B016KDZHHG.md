@@ -14,7 +14,7 @@ currency: EUR
 price: 90.45
 comparePrice: 134.18 EUR
 inStock: true
-prodname: FOREO IRIS Masajeador Iluminador de Ojos - Petal Pink
+prodname: 'FOREO IRIS Masajeador Iluminador de Ojos - Petal Pink'
 ---
 
 Ahora mismo tienes [FOREO IRIS Masajeador Iluminador de Ojos - Petal Pink](https://www.amazon.es/dp/B016KDZHHG/?tag=tolees-21) a 90.45 EUR (original: 134.18 EUR) (32.59 %  de descuento) en el siguiente enlace!

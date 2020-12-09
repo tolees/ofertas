@@ -14,7 +14,7 @@ currency: EUR
 price: 131.94
 comparePrice: 188.48 EUR
 inStock: true
-prodname: Cressi HY788051 - Set regulator de buceo XS COMPACT + AC2 DIN
+prodname: 'Cressi HY788051 - Set regulator de buceo XS COMPACT + AC2 DIN'
 ---
 
 Está [Cressi HY788051 - Set regulator de buceo XS COMPACT + AC2 DIN](https://www.amazon.es/dp/B00D2OQ7CQ/?tag=tolees-21) con 30.00 de descuento por 131.94 EUR (original: 188.48 EUR) en el siguiente enlace!

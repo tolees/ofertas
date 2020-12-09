@@ -14,7 +14,7 @@ currency: EUR
 price: 139.45
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513646
+prodname: 'Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513646'
 ---
 
 Está [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513646](https://www.amazon.es/dp/B07G4RJVWK/?tag=tolees-21) con 29.92 de descuento por 139.45 EUR (original: 199.0 EUR) en el siguiente enlace!

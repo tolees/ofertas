@@ -14,7 +14,7 @@ currency: EUR
 price: 27.01
 comparePrice: 64.95 EUR
 inStock: true
-prodname: adidas CF Lite Racer  Zapatillas para Hombre  Negro  Core Black/Grey/Hi-Res Red 0   44 2/3 EU
+prodname: 'adidas CF Lite Racer  Zapatillas para Hombre  Negro  Core Black/Grey/Hi-Res Red 0   44 2/3 EU'
 ---
 
 Tienes [adidas CF Lite Racer  Zapatillas para Hombre  Negro  Core Black/Grey/Hi-Res Red 0   44 2/3 EU](https://www.amazon.es/dp/B07D9MXR6P/?tag=tolees-21) con un 58.41 % de descuento con precio de oferta de 27.01 EUR (original: 64.95 EUR) en el siguiente enlace!

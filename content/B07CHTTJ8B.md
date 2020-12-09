@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s SS Original Hm tee Camiseta  Cotton + Patch White  M para Hombre
+prodname: 'Levi s SS Original Hm tee Camiseta  Cotton + Patch White  M para Hombre'
 ---
 
 Está [Levi s SS Original Hm tee Camiseta  Cotton + Patch White  M para Hombre](https://www.amazon.es/dp/B07CHTTJ8B/?tag=tolees-21) con 32.20 de descuento por 16.95 EUR (original: 25.0 EUR) en el siguiente enlace!

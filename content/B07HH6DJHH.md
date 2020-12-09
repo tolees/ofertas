@@ -14,7 +14,7 @@ currency: EUR
 price: 22.39
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Báscula Grasa Corporal Báscula de Baño- Báscula Inteligente Bluetooth  Medición de Alta Precisión el Peso Corporal  Porcentaje de Grasa Crporal  Masa Muscular  IMC  Grasa Visceral
+prodname: 'Báscula Grasa Corporal Báscula de Baño- Báscula Inteligente Bluetooth  Medición de Alta Precisión el Peso Corporal  Porcentaje de Grasa Crporal  Masa Muscular  IMC  Grasa Visceral'
 ---
 
 Está [Báscula Grasa Corporal Báscula de Baño- Báscula Inteligente Bluetooth  Medición de Alta Precisión el Peso Corporal  Porcentaje de Grasa Crporal  Masa Muscular  IMC  Grasa Visceral](https://www.amazon.es/dp/B07HH6DJHH/?tag=tolees-21) con 44.01 de descuento por 22.39 EUR (original: 39.99 EUR) en el siguiente enlace!

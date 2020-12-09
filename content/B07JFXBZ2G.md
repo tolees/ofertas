@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 34.82 EUR
 inStock: true
-prodname: KBAYBO 300 ml USB eléctrico difusor de Aire Grano de Madera Humidificador ultrasónico Frio en frío
+prodname: 'KBAYBO 300 ml USB eléctrico difusor de Aire Grano de Madera Humidificador ultrasónico Frio en frío'
 ---
 
 Tienes [KBAYBO 300 ml USB eléctrico difusor de Aire Grano de Madera Humidificador ultrasónico Frio en frío](https://www.amazon.es/dp/B07JFXBZ2G/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 18.99 EUR (original: 34.82 EUR) en el siguiente enlace!

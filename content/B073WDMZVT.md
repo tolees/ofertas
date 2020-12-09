@@ -14,7 +14,7 @@ currency: EUR
 price: 129.99
 comparePrice: 230.0 EUR
 inStock: true
-prodname: Polar M430 Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Multideporte - actividad 24/7 - Negro  M/L
+prodname: 'Polar M430 Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Multideporte - actividad 24/7 - Negro  M/L'
 ---
 
 Está [Polar M430 Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Multideporte - actividad 24/7 - Negro  M/L](https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21) con 43.48 de descuento por 129.99 EUR (original: 230.0 EUR) en el siguiente enlace!

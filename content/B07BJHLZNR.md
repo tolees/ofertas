@@ -14,7 +14,7 @@ currency: EUR
 price: 45
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Straight Vaqueros para Hombre  Blu  rinsed 7209-082   W28/L30 para
+prodname: 'G-STAR RAW 3301 Straight Vaqueros para Hombre  Blu  rinsed 7209-082   W28/L30 para'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Straight Vaqueros para Hombre  Blu  rinsed 7209-082   W28/L30 para](https://www.amazon.es/dp/B07BJHLZNR/?tag=tolees-21) a 45 EUR (original: 99.95 EUR) (54.98 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: FREETOO Riñonera de Marcha Deportiva Bolsa de Cintura para Hombre Grande Impermeable Rinonera con Multi-Pocket Ideal para IR de Excursión Viajes Festivales  Mujer-Rojo 
+prodname: 'FREETOO Riñonera de Marcha Deportiva Bolsa de Cintura para Hombre Grande Impermeable Rinonera con Multi-Pocket Ideal para IR de Excursión Viajes Festivales  Mujer-Rojo '
 ---
 
 Está [FREETOO Riñonera de Marcha Deportiva Bolsa de Cintura para Hombre Grande Impermeable Rinonera con Multi-Pocket Ideal para IR de Excursión Viajes Festivales  Mujer-Rojo ](https://www.amazon.es/dp/B07GVBNDJG/?tag=tolees-21) con 73.38 de descuento por 3.99 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.04
 comparePrice: 30.32 EUR
 inStock: true
-prodname: STANLEY XTHT0-33671 - Flexómetro AutoLock 5m x 32mm  gancho XL magnético
+prodname: 'STANLEY XTHT0-33671 - Flexómetro AutoLock 5m x 32mm  gancho XL magnético'
 ---
 
 Tienes [STANLEY XTHT0-33671 - Flexómetro AutoLock 5m x 32mm  gancho XL magnético](https://www.amazon.es/dp/B00OAFBOJM/?tag=tolees-21) con un 37.20 % de descuento con precio de oferta de 19.04 EUR (original: 30.32 EUR) en el siguiente enlace!

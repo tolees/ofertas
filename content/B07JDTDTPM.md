@@ -14,7 +14,7 @@ currency: EUR
 price: 71.03
 comparePrice: 109 EUR
 inStock: true
-prodname: Lacoste Ch4872 Camisa  Rojo  Salvia/Encrier 98v   X-Large  Talla del Fabricante: 43  para Hombre
+prodname: 'Lacoste Ch4872 Camisa  Rojo  Salvia/Encrier 98v   X-Large  Talla del Fabricante: 43  para Hombre'
 ---
 
 Ahora mismo tienes [Lacoste Ch4872 Camisa  Rojo  Salvia/Encrier 98v   X-Large  Talla del Fabricante: 43  para Hombre](https://www.amazon.es/dp/B07JDTDTPM/?tag=tolees-21) a 71.03 EUR (original: 109 EUR) (34.83 %  de descuento) en el siguiente enlace!

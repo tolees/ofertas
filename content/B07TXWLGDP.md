@@ -14,7 +14,7 @@ currency: EUR
 price: 9.5
 comparePrice: 19.0 EUR
 inStock: true
-prodname: KiplingGleam SMujerMonederosMulticolor  Tie Dye Blue  14x9.5x5.5 Centimeters  B x H x T 
+prodname: 'KiplingGleam SMujerMonederosMulticolor  Tie Dye Blue  14x9.5x5.5 Centimeters  B x H x T '
 ---
 
 Ahora mismo tienes [KiplingGleam SMujerMonederosMulticolor  Tie Dye Blue  14x9.5x5.5 Centimeters  B x H x T ](https://www.amazon.es/dp/B07TXWLGDP/?tag=tolees-21) a 9.5 EUR (original: 19.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

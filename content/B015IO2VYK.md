@@ -14,7 +14,7 @@ currency: EUR
 price: 14.39
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Everbellus Leggings de piel sintética para mujer  talle alto negro negro M
+prodname: 'Everbellus Leggings de piel sintética para mujer  talle alto negro negro M'
 ---
 
 Está [Everbellus Leggings de piel sintética para mujer  talle alto negro negro M](https://www.amazon.es/dp/B015IO2VYK/?tag=tolees-21) con 34.56 de descuento por 14.39 EUR (original: 21.99 EUR) en el siguiente enlace!

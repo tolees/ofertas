@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Vieta Pro Round Up - Altavoz inalámbrico  Bluetooth  radio FM  reproductor USB  entrada micro SD  auxiliar  micrófono integrado  gris
+prodname: 'Vieta Pro Round Up - Altavoz inalámbrico  Bluetooth  radio FM  reproductor USB  entrada micro SD  auxiliar  micrófono integrado  gris'
 ---
 
 Ahora mismo tienes [Vieta Pro Round Up - Altavoz inalámbrico  Bluetooth  radio FM  reproductor USB  entrada micro SD  auxiliar  micrófono integrado  gris](https://www.amazon.es/dp/B07QQXPHXZ/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

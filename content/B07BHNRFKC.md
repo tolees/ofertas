@@ -14,7 +14,7 @@ currency: EUR
 price: 33.49
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Anker A3108011 Altavoz portátil 16 W Altavoz portátil estéreo Gris - Altavoces portátiles  16 W  8 W  Inalámbrico  A2DP AVRCP HFP  MicroUSB  Altavoz portátil estéreo 
+prodname: 'Anker A3108011 Altavoz portátil 16 W Altavoz portátil estéreo Gris - Altavoces portátiles  16 W  8 W  Inalámbrico  A2DP AVRCP HFP  MicroUSB  Altavoz portátil estéreo '
 ---
 
 Tienes [Anker A3108011 Altavoz portátil 16 W Altavoz portátil estéreo Gris - Altavoces portátiles  16 W  8 W  Inalámbrico  A2DP AVRCP HFP  MicroUSB  Altavoz portátil estéreo ](https://www.amazon.es/dp/B07BHNRFKC/?tag=tolees-21) con un 44.17 % de descuento con precio de oferta de 33.49 EUR (original: 59.99 EUR) en el siguiente enlace!

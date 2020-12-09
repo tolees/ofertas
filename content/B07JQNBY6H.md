@@ -14,7 +14,7 @@ currency: EUR
 price: 28.68
 comparePrice: 65 EUR
 inStock: true
-prodname: Morgan 191-ponti.p  Vaqueros Hombre Ajustados para Mujer  Azul Jean Brut  W34  Talla del Fabricante: T34 
+prodname: 'Morgan 191-ponti.p  Vaqueros Hombre Ajustados para Mujer  Azul Jean Brut  W34  Talla del Fabricante: T34 '
 ---
 
 Tienes [Morgan 191-ponti.p  Vaqueros Hombre Ajustados para Mujer  Azul Jean Brut  W34  Talla del Fabricante: T34 ](https://www.amazon.es/dp/B07JQNBY6H/?tag=tolees-21) con un 55.88 % de descuento con precio de oferta de 28.68 EUR (original: 65 EUR) en el siguiente enlace!

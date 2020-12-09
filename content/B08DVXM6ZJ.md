@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 40.09 EUR
 inStock: true
-prodname: Black Pumas - Deluxe Edition [Vinilo]
+prodname: 'Black Pumas - Deluxe Edition [Vinilo]'
 ---
 
 Tienes [Black Pumas - Deluxe Edition [Vinilo]](https://www.amazon.es/dp/B08DVXM6ZJ/?tag=tolees-21) con un 30.18 % de descuento con precio de oferta de 27.99 EUR (original: 40.09 EUR) en el siguiente enlace!

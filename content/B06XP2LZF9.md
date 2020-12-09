@@ -14,7 +14,7 @@ currency: EUR
 price: 3.9
 comparePrice: 8.3 EUR
 inStock: true
-prodname: oodji Ultra Mujer Camiseta Ancha de Algodón  Verde  ES 34 / XXS
+prodname: 'oodji Ultra Mujer Camiseta Ancha de Algodón  Verde  ES 34 / XXS'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta Ancha de Algodón  Verde  ES 34 / XXS](https://www.amazon.es/dp/B06XP2LZF9/?tag=tolees-21) a 3.9 EUR (original: 8.3 EUR) (53.01 %  de descuento) en el siguiente enlace!

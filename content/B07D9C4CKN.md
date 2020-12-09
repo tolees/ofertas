@@ -14,7 +14,7 @@ currency: EUR
 price: 30.96
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Adidas Nemeziz 18.2 FG  Zapatillas de Fútbol para Hombre  Azul Footwear White/Football Blue 0  46 EU
+prodname: 'Adidas Nemeziz 18.2 FG  Zapatillas de Fútbol para Hombre  Azul Footwear White/Football Blue 0  46 EU'
 ---
 
 Tienes [Adidas Nemeziz 18.2 FG  Zapatillas de Fútbol para Hombre  Azul Footwear White/Football Blue 0  46 EU](https://www.amazon.es/dp/B07D9C4CKN/?tag=tolees-21) con un 76.18 % de descuento con precio de oferta de 30.96 EUR (original: 129.95 EUR) en el siguiente enlace!

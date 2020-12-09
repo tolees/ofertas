@@ -14,7 +14,7 @@ currency: EUR
 price: 5.79
 comparePrice: 28.95 EUR
 inStock: true
-prodname: FreeLeben Bomba del Abrebotellas del Vino  Presión del Aire Sacacorchos de Cabeza de Aguja de Teflón con Cortador de Papel de Aluminio Fuera de la Herramienta
+prodname: 'FreeLeben Bomba del Abrebotellas del Vino  Presión del Aire Sacacorchos de Cabeza de Aguja de Teflón con Cortador de Papel de Aluminio Fuera de la Herramienta'
 ---
 
 Está [FreeLeben Bomba del Abrebotellas del Vino  Presión del Aire Sacacorchos de Cabeza de Aguja de Teflón con Cortador de Papel de Aluminio Fuera de la Herramienta](https://www.amazon.es/dp/B07RQSMD6T/?tag=tolees-21) con 80.00 de descuento por 5.79 EUR (original: 28.95 EUR) en el siguiente enlace!

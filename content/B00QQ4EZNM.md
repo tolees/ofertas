@@ -14,7 +14,7 @@ currency: EUR
 price: 10.19
 comparePrice: 24.99 EUR
 inStock: true
-prodname: AUKEY Alfombrilla Ratón Grande Gaming Mouse Pad XL  900x400x4mm  con Superficie Texturizada Impermeable  Base de Goma Antideslizante para Gamers  Oficina  PC  Portátil  Ordenador
+prodname: 'AUKEY Alfombrilla Ratón Grande Gaming Mouse Pad XL  900x400x4mm  con Superficie Texturizada Impermeable  Base de Goma Antideslizante para Gamers  Oficina  PC  Portátil  Ordenador'
 ---
 
 Está [AUKEY Alfombrilla Ratón Grande Gaming Mouse Pad XL  900x400x4mm  con Superficie Texturizada Impermeable  Base de Goma Antideslizante para Gamers  Oficina  PC  Portátil  Ordenador](https://www.amazon.es/dp/B00QQ4EZNM/?tag=tolees-21) con 59.22 de descuento por 10.19 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Tommy Hilfiger H2285ARLOW 1D  Zapatillas para Hombre  Blanco  Bianco   43 EU
+prodname: 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas para Hombre  Blanco  Bianco   43 EU'
 ---
 
 Está [Tommy Hilfiger H2285ARLOW 1D  Zapatillas para Hombre  Blanco  Bianco   43 EU](https://www.amazon.es/dp/B01MSQCIVX/?tag=tolees-21) con 36.58 de descuento por 37.99 EUR (original: 59.9 EUR) en el siguiente enlace!

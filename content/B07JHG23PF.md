@@ -14,7 +14,7 @@ currency: EUR
 price: 58.5
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Ultimate Ears WONDERBOOM -  Altavoz Bluetooth impermeable con conexión  Azul  Deep blue 
+prodname: 'Ultimate Ears WONDERBOOM -  Altavoz Bluetooth impermeable con conexión  Azul  Deep blue '
 ---
 
 Está [Ultimate Ears WONDERBOOM -  Altavoz Bluetooth impermeable con conexión  Azul  Deep blue ](https://www.amazon.es/dp/B07JHG23PF/?tag=tolees-21) con 41.49 de descuento por 58.5 EUR (original: 99.99 EUR) en el siguiente enlace!

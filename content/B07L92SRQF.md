@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 27.08 EUR
 inStock: true
-prodname: Protector de pantalla para ordenador portátil de 14 pulgadas  dureza 9H  cristal templado para Asus/HP/DELL/Acer/Sony/Samsung/Lenovo/All 16:9 Relación de aspecto con antihuellas  transparente
+prodname: 'Protector de pantalla para ordenador portátil de 14 pulgadas  dureza 9H  cristal templado para Asus/HP/DELL/Acer/Sony/Samsung/Lenovo/All 16:9 Relación de aspecto con antihuellas  transparente'
 ---
 
 Está [Protector de pantalla para ordenador portátil de 14 pulgadas  dureza 9H  cristal templado para Asus/HP/DELL/Acer/Sony/Samsung/Lenovo/All 16:9 Relación de aspecto con antihuellas  transparente](https://www.amazon.es/dp/B07L92SRQF/?tag=tolees-21) con 26.18 de descuento por 19.99 EUR (original: 27.08 EUR) en el siguiente enlace!

@@ -14,15 +14,13 @@ currency: EUR
 price: 38.52
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Irvington II Chukka LTR WP  Botas Hombre  Marrón  Cordovan  Pebble   44 EU
+prodname: 'Columbia Irvington II Chukka LTR WP  Botas Hombre  Marrón  Cordovan  Pebble   44 EU'
 ---
 
-Está [Columbia Irvington II Chukka LTR WP  Botas Hombre  Marrón  Cordovan  Pebble   44 EU](https://www.amazon.es/dp/B0787KRCBX/?tag=tolees-21) con 70.37 de descuento por 38.52 EUR (original: 129.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Irvington II Chukka LTR WP  Botas Hombre  Marrón  Cordovan  Pebble   44 EU](https://www.amazon.es/dp/B0787KRCBX/?tag=tolees-21) a 38.52 EUR (original: 129.99 EUR) (70.37 %  de descuento) en el siguiente enlace!
 
 [![Columbia Irvington II Chukka LTR WP  Bot](https://images-eu.ssl-images-amazon.com/images/I/41DlUEWqi3L._SL200_.jpg)](https://www.amazon.es/dp/B0787KRCBX/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0787KRCBX/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0787KRCBX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

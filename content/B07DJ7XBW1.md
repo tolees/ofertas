@@ -14,7 +14,7 @@ currency: EUR
 price: 31.62
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Geox D Tahina 22  Zapatillas para Mujer  Beige  Lt Taupe   39 EU
+prodname: 'Geox D Tahina 22  Zapatillas para Mujer  Beige  Lt Taupe   39 EU'
 ---
 
 Tienes [Geox D Tahina 22  Zapatillas para Mujer  Beige  Lt Taupe   39 EU](https://www.amazon.es/dp/B07DJ7XBW1/?tag=tolees-21) con un 64.83 % de descuento con precio de oferta de 31.62 EUR (original: 89.9 EUR) en el siguiente enlace!

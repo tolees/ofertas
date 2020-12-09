@@ -14,7 +14,7 @@ currency: EUR
 price: 70.03
 comparePrice: 109 EUR
 inStock: true
-prodname: Carrera 5029NS 9A RFE Gafas de sol  Marrón  Light Havana/Blue   49 Unisex-Adulto
+prodname: 'Carrera 5029NS 9A RFE Gafas de sol  Marrón  Light Havana/Blue   49 Unisex-Adulto'
 ---
 
 Tienes [Carrera 5029NS 9A RFE Gafas de sol  Marrón  Light Havana/Blue   49 Unisex-Adulto](https://www.amazon.es/dp/B01BGR4RI6/?tag=tolees-21) con un 35.75 % de descuento con precio de oferta de 70.03 EUR (original: 109 EUR) en el siguiente enlace!

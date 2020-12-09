@@ -14,7 +14,7 @@ currency: EUR
 price: 34.51
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers On-The-go City 3  Zapatillas de Entrenamiento para Hombre  Negro  Black   42.5 EU
+prodname: 'Skechers On-The-go City 3  Zapatillas de Entrenamiento para Hombre  Negro  Black   42.5 EU'
 ---
 
 Está [Skechers On-The-go City 3  Zapatillas de Entrenamiento para Hombre  Negro  Black   42.5 EU](https://www.amazon.es/dp/B06XSL9VTB/?tag=tolees-21) con 46.87 de descuento por 34.51 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: XiXi Pulsera Infinita Personalizada Plata con Nombre y Piedra Grabado Pulseras Ajustables para Hombres y Mujeres Regalo para el Día de San Valentín Cumpleaños Día de la Madre  Color Dorado 
+prodname: 'XiXi Pulsera Infinita Personalizada Plata con Nombre y Piedra Grabado Pulseras Ajustables para Hombres y Mujeres Regalo para el Día de San Valentín Cumpleaños Día de la Madre  Color Dorado '
 ---
 
 Está [XiXi Pulsera Infinita Personalizada Plata con Nombre y Piedra Grabado Pulseras Ajustables para Hombres y Mujeres Regalo para el Día de San Valentín Cumpleaños Día de la Madre  Color Dorado ](https://www.amazon.es/dp/B08F9MY1DX/?tag=tolees-21) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.07
 comparePrice: 55 EUR
 inStock: true
-prodname: Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Azul  Midnight Navy 410   XXL
+prodname: 'Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Azul  Midnight Navy 410   XXL'
 ---
 
 Está [Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Azul  Midnight Navy 410   XXL](https://www.amazon.es/dp/B00QHAQX94/?tag=tolees-21) con 58.05 de descuento por 23.07 EUR (original: 55 EUR) en el siguiente enlace!

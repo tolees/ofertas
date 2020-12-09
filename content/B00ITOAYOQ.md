@@ -14,7 +14,7 @@ currency: EUR
 price: 16.71
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Patrulla Canina - Vehículo de Rescate de Ryder
+prodname: 'Patrulla Canina - Vehículo de Rescate de Ryder'
 ---
 
 Está [Patrulla Canina - Vehículo de Rescate de Ryder](https://www.amazon.es/dp/B00ITOAYOQ/?tag=tolees-21) con 27.32 de descuento por 16.71 EUR (original: 22.99 EUR) en el siguiente enlace!

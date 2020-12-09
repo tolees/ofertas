@@ -14,7 +14,7 @@ currency: EUR
 price: 34.06
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Laina RAE  Zapatos de Tacón para Mujer  Azul  Blush Suede Blush Suede   41 EU
+prodname: 'Clarks Laina RAE  Zapatos de Tacón para Mujer  Azul  Blush Suede Blush Suede   41 EU'
 ---
 
 Tienes [Clarks Laina RAE  Zapatos de Tacón para Mujer  Azul  Blush Suede Blush Suede   41 EU](https://www.amazon.es/dp/B07TLTRJZ1/?tag=tolees-21) con un 65.92 % de descuento con precio de oferta de 34.06 EUR (original: 99.95 EUR) en el siguiente enlace!

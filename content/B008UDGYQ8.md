@@ -14,7 +14,7 @@ currency: EUR
 price: 0.74
 comparePrice: 1.04 EUR
 inStock: true
-prodname: Central Lechera Asturiana - Leche UHT Entera - 1 L
+prodname: 'Central Lechera Asturiana - Leche UHT Entera - 1 L'
 ---
 
 Está [Central Lechera Asturiana - Leche UHT Entera - 1 L](https://www.amazon.es/dp/B008UDGYQ8/?tag=tolees-21) con 28.85 de descuento por 0.74 EUR (original: 1.04 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.88
 comparePrice: 50 EUR
 inStock: true
-prodname: Under Armour Armour Fleece Jogger Pantalones  Niños  Gris  Steel Light Heather/Black 035   XS
+prodname: 'Under Armour Armour Fleece Jogger Pantalones  Niños  Gris  Steel Light Heather/Black 035   XS'
 ---
 
 Ahora mismo tienes [Under Armour Armour Fleece Jogger Pantalones  Niños  Gris  Steel Light Heather/Black 035   XS](https://www.amazon.es/dp/B077XNWRZ3/?tag=tolees-21) a 13.88 EUR (original: 50 EUR) (72.24 %  de descuento) en el siguiente enlace!

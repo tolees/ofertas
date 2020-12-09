@@ -14,7 +14,7 @@ currency: EUR
 price: 61.34
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Sift Lace  Zapatillas  Negro  Leopard Print Leopard Print   35.5 EU
+prodname: 'Clarks Sift Lace  Zapatillas  Negro  Leopard Print Leopard Print   35.5 EU'
 ---
 
 Tienes [Clarks Sift Lace  Zapatillas  Negro  Leopard Print Leopard Print   35.5 EU](https://www.amazon.es/dp/B07TNVLJGN/?tag=tolees-21) con un 38.63 % de descuento con precio de oferta de 61.34 EUR (original: 99.95 EUR) en el siguiente enlace!

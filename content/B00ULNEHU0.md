@@ -14,7 +14,7 @@ currency: EUR
 price: 73.23
 comparePrice: 100 EUR
 inStock: true
-prodname: Sony ZS-PS50 - Boomboxon CD y Radio Am/FM de 4W  estéreo  reproducción Mediante USB y Entrada de Audio   Azul
+prodname: 'Sony ZS-PS50 - Boomboxon CD y Radio Am/FM de 4W  estéreo  reproducción Mediante USB y Entrada de Audio   Azul'
 ---
 
 Ahora mismo tienes [Sony ZS-PS50 - Boomboxon CD y Radio Am/FM de 4W  estéreo  reproducción Mediante USB y Entrada de Audio   Azul](https://www.amazon.es/dp/B00ULNEHU0/?tag=tolees-21) a 73.23 EUR (original: 100 EUR) (26.77 %  de descuento) en el siguiente enlace!

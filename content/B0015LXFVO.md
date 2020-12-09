@@ -14,7 +14,7 @@ currency: EUR
 price: 12.38
 comparePrice: 37.78 EUR
 inStock: true
-prodname: KRAFTWERK 3200 - Carraca reversible con clip 1/4 pulgada
+prodname: 'KRAFTWERK 3200 - Carraca reversible con clip 1/4 pulgada'
 ---
 
 Ahora mismo tienes [KRAFTWERK 3200 - Carraca reversible con clip 1/4 pulgada](https://www.amazon.es/dp/B0015LXFVO/?tag=tolees-21) a 12.38 EUR (original: 37.78 EUR) (67.23 %  de descuento) en el siguiente enlace!

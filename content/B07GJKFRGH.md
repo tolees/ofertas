@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Kit Barba Cuidado Para Hombres  Set Herramientas de Aseo y Recorte Con Champú Barba  Aceite Crecimiento Barba  Bálsamo  Cepillo  Peine  Tijeras  Mejores Regalos para Lui e PaPa
+prodname: 'Kit Barba Cuidado Para Hombres  Set Herramientas de Aseo y Recorte Con Champú Barba  Aceite Crecimiento Barba  Bálsamo  Cepillo  Peine  Tijeras  Mejores Regalos para Lui e PaPa'
 ---
 
 Está [Kit Barba Cuidado Para Hombres  Set Herramientas de Aseo y Recorte Con Champú Barba  Aceite Crecimiento Barba  Bálsamo  Cepillo  Peine  Tijeras  Mejores Regalos para Lui e PaPa](https://www.amazon.es/dp/B07GJKFRGH/?tag=tolees-21) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

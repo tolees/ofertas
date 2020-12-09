@@ -14,7 +14,7 @@ currency: EUR
 price: 11.5
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Piz Buin - Protección Solar  Loción allergy SPF 30 - Protección alta Bote 200 ml
+prodname: 'Piz Buin - Protección Solar  Loción allergy SPF 30 - Protección alta Bote 200 ml'
 ---
 
 Ahora mismo tienes [Piz Buin - Protección Solar  Loción allergy SPF 30 - Protección alta Bote 200 ml](https://www.amazon.es/dp/B003ELDKWC/?tag=tolees-21) a 11.5 EUR (original: 19.9 EUR) (42.21 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 42.49
 comparePrice: 96.99 EUR
 inStock: true
-prodname: ZAFUL Chaquetas Vaqueras de Mujer Chaqueta Corta de Mezclilla con Remache Básica Chaqueta Suelta Jacket Jeans Mujer para Otoño Invierno Primavera  S - L
+prodname: 'ZAFUL Chaquetas Vaqueras de Mujer Chaqueta Corta de Mezclilla con Remache Básica Chaqueta Suelta Jacket Jeans Mujer para Otoño Invierno Primavera  S - L'
 ---
 
 Ahora mismo tienes [ZAFUL Chaquetas Vaqueras de Mujer Chaqueta Corta de Mezclilla con Remache Básica Chaqueta Suelta Jacket Jeans Mujer para Otoño Invierno Primavera  S - L](https://www.amazon.es/dp/B07H3KYBMD/?tag=tolees-21) a 42.49 EUR (original: 96.99 EUR) (56.19 %  de descuento) en el siguiente enlace!

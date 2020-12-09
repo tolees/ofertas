@@ -14,7 +14,7 @@ currency: EUR
 price: 119.92
 comparePrice: 164.54 EUR
 inStock: true
-prodname: BLACK+DECKER BCK24D2S-QW - Taladro Percutor 18V  21.000 ipm  y amoladora 125 mm 18V  con 2 baterías litio 2Ah y bolsa de transporte
+prodname: 'BLACK+DECKER BCK24D2S-QW - Taladro Percutor 18V  21.000 ipm  y amoladora 125 mm 18V  con 2 baterías litio 2Ah y bolsa de transporte'
 ---
 
 Ahora mismo tienes [BLACK+DECKER BCK24D2S-QW - Taladro Percutor 18V  21.000 ipm  y amoladora 125 mm 18V  con 2 baterías litio 2Ah y bolsa de transporte](https://www.amazon.es/dp/B07NFLGYHM/?tag=tolees-21) a 119.92 EUR (original: 164.54 EUR) (27.12 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Zapatillas de Deportivos de Running para Hombre Gimnasia Ligero Sneakers Transpirable con Cordones Zapatillas Deportivas Fitness Atlético Caminar Zapatos 43EU
+prodname: 'Zapatillas de Deportivos de Running para Hombre Gimnasia Ligero Sneakers Transpirable con Cordones Zapatillas Deportivas Fitness Atlético Caminar Zapatos 43EU'
 ---
 
 Está [Zapatillas de Deportivos de Running para Hombre Gimnasia Ligero Sneakers Transpirable con Cordones Zapatillas Deportivas Fitness Atlético Caminar Zapatos 43EU](https://www.amazon.es/dp/B07XFCQSSF/?tag=tolees-21) con 50.01 de descuento por 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!

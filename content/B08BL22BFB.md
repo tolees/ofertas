@@ -14,7 +14,7 @@ currency: EUR
 price: 27.18
 comparePrice: 45.99 EUR
 inStock: true
-prodname: INSMART Irrigador Bucal Portátil  300ML Irrigador Dental Profesional IPX7 Impermeable USB Recargable  3 Modos de Limpieza con 4 Boquillas para Cuidado de Higiene Dental
+prodname: 'INSMART Irrigador Bucal Portátil  300ML Irrigador Dental Profesional IPX7 Impermeable USB Recargable  3 Modos de Limpieza con 4 Boquillas para Cuidado de Higiene Dental'
 ---
 
 Ahora mismo tienes [INSMART Irrigador Bucal Portátil  300ML Irrigador Dental Profesional IPX7 Impermeable USB Recargable  3 Modos de Limpieza con 4 Boquillas para Cuidado de Higiene Dental](https://www.amazon.es/dp/B08BL22BFB/?tag=tolees-21) a 27.18 EUR (original: 45.99 EUR) (40.90 %  de descuento) en el siguiente enlace!

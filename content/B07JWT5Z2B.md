@@ -14,7 +14,7 @@ currency: EUR
 price: 44.1
 comparePrice: 62.99 EUR
 inStock: true
-prodname: Skechers Henrick-Delwood  Zapatillas Altas para Hombre  Marrón  Brown Brn   42.5 EU
+prodname: 'Skechers Henrick-Delwood  Zapatillas Altas para Hombre  Marrón  Brown Brn   42.5 EU'
 ---
 
 Ahora mismo tienes [Skechers Henrick-Delwood  Zapatillas Altas para Hombre  Marrón  Brown Brn   42.5 EU](https://www.amazon.es/dp/B07JWT5Z2B/?tag=tolees-21) a 44.1 EUR (original: 62.99 EUR) (29.99 %  de descuento) en el siguiente enlace!

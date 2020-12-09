@@ -14,7 +14,7 @@ currency: EUR
 price: 163.99
 comparePrice: 249 EUR
 inStock: true
-prodname: Mooer LITTLE MONSTER AC - Pedal de efectos
+prodname: 'Mooer LITTLE MONSTER AC - Pedal de efectos'
 ---
 
 Ahora mismo tienes [Mooer LITTLE MONSTER AC - Pedal de efectos](https://www.amazon.es/dp/B008LXWFRO/?tag=tolees-21) a 163.99 EUR (original: 249 EUR) (34.14 %  de descuento) en el siguiente enlace!

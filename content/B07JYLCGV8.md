@@ -14,7 +14,7 @@ currency: EUR
 price: 49.98
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas Yung-96  Zapatillas de Gimnasia para Hombre - Azul  Azul Royal/FTWR White/Collegiate Navy  - 42 2/3 EU
+prodname: 'adidas Yung-96  Zapatillas de Gimnasia para Hombre - Azul  Azul Royal/FTWR White/Collegiate Navy  - 42 2/3 EU'
 ---
 
 Está [adidas Yung-96  Zapatillas de Gimnasia para Hombre - Azul  Azul Royal/FTWR White/Collegiate Navy  - 42 2/3 EU](https://www.amazon.es/dp/B07JYLCGV8/?tag=tolees-21) con 49.99 de descuento por 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!

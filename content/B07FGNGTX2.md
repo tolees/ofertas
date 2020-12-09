@@ -14,7 +14,7 @@ currency: EUR
 price: 30.66
 comparePrice: 85 EUR
 inStock: true
-prodname: Emporio Armani Underwear Men s Pyjamas  Pantalones de Pijama para Hombre   Rombo Smeraldo/Marin 13685  X-Large
+prodname: 'Emporio Armani Underwear Men s Pyjamas  Pantalones de Pijama para Hombre   Rombo Smeraldo/Marin 13685  X-Large'
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear Men s Pyjamas  Pantalones de Pijama para Hombre   Rombo Smeraldo/Marin 13685  X-Large](https://www.amazon.es/dp/B07FGNGTX2/?tag=tolees-21) a 30.66 EUR (original: 85 EUR) (63.93 %  de descuento) en el siguiente enlace!

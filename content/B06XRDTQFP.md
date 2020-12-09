@@ -14,7 +14,7 @@ currency: EUR
 price: 126.29
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Bosch Hidrolimpiadora de Alta Presión UniversalAquatak 135  1900 W  135 Bares 
+prodname: 'Bosch Hidrolimpiadora de Alta Presión UniversalAquatak 135  1900 W  135 Bares '
 ---
 
 Ahora mismo tienes [Bosch Hidrolimpiadora de Alta Presión UniversalAquatak 135  1900 W  135 Bares ](https://www.amazon.es/dp/B06XRDTQFP/?tag=tolees-21) a 126.29 EUR (original: 199.99 EUR) (36.85 %  de descuento) en el siguiente enlace!

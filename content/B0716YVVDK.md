@@ -14,7 +14,7 @@ currency: EUR
 price: 8.5
 comparePrice: 14.99 EUR
 inStock: true
-prodname: HARRY POTTER- Figura de Vinilo Ginny Weasley   Funko 14942 
+prodname: 'HARRY POTTER- Figura de Vinilo Ginny Weasley   Funko 14942 '
 ---
 
 Ahora mismo tienes [HARRY POTTER- Figura de Vinilo Ginny Weasley   Funko 14942 ](https://www.amazon.es/dp/B0716YVVDK/?tag=tolees-21) a 8.5 EUR (original: 14.99 EUR) (43.30 %  de descuento) en el siguiente enlace!

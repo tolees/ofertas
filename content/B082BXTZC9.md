@@ -14,7 +14,7 @@ currency: EUR
 price: 46.2
 comparePrice: 65.99 EUR
 inStock: true
-prodname: LEVIS FOOTWEAR AND ACCESORIAS JAX XLITE Zapatillas Hombre  Amarillo  42
+prodname: 'LEVIS FOOTWEAR AND ACCESORIAS JAX XLITE Zapatillas Hombre  Amarillo  42'
 ---
 
 Está [LEVIS FOOTWEAR AND ACCESORIAS JAX XLITE Zapatillas Hombre  Amarillo  42](https://www.amazon.es/dp/B082BXTZC9/?tag=tolees-21) con 29.99 de descuento por 46.2 EUR (original: 65.99 EUR) en el siguiente enlace!

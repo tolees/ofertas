@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: PUMA R78  Zapatillas Unisex Adulto  Azul  Palace Blue Black White   37 EU
+prodname: 'PUMA R78  Zapatillas Unisex Adulto  Azul  Palace Blue Black White   37 EU'
 ---
 
 Ahora mismo tienes [PUMA R78  Zapatillas Unisex Adulto  Azul  Palace Blue Black White   37 EU](https://www.amazon.es/dp/B07SD1B3QX/?tag=tolees-21) a 39.95 EUR (original: 59.95 EUR) (33.36 %  de descuento) en el siguiente enlace!

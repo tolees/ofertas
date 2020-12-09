@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Aibrou Sujetador Deportivo para Mujer de Bajo Impacto con Almohadillas Extraíbles Sujetador Deportivo con Relleno Gimnasio Yoga Fitness Ejercicio
+prodname: 'Aibrou Sujetador Deportivo para Mujer de Bajo Impacto con Almohadillas Extraíbles Sujetador Deportivo con Relleno Gimnasio Yoga Fitness Ejercicio'
 ---
 
 Ahora mismo tienes [Aibrou Sujetador Deportivo para Mujer de Bajo Impacto con Almohadillas Extraíbles Sujetador Deportivo con Relleno Gimnasio Yoga Fitness Ejercicio](https://www.amazon.es/dp/B07RS24XYQ/?tag=tolees-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

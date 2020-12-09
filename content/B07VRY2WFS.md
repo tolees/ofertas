@@ -14,7 +14,7 @@ currency: EUR
 price: 35.29
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 High Waist Skinny Ripped Ankle Vaqueros  Azul  Worn In Sapphire Destroyed 8968-B195   W25/L30  Talla del Fabricante: 25W/ 30L  para Mujer
+prodname: 'G-STAR RAW 3301 High Waist Skinny Ripped Ankle Vaqueros  Azul  Worn In Sapphire Destroyed 8968-B195   W25/L30  Talla del Fabricante: 25W/ 30L  para Mujer'
 ---
 
 Tienes [G-STAR RAW 3301 High Waist Skinny Ripped Ankle Vaqueros  Azul  Worn In Sapphire Destroyed 8968-B195   W25/L30  Talla del Fabricante: 25W/ 30L  para Mujer](https://www.amazon.es/dp/B07VRY2WFS/?tag=tolees-21) con un 72.84 % de descuento con precio de oferta de 35.29 EUR (original: 129.95 EUR) en el siguiente enlace!

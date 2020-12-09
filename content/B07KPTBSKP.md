@@ -14,7 +14,7 @@ currency: EUR
 price: 8.38
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Pop! Vinilo: Castlevania: Sypha Belnades
+prodname: 'Pop! Vinilo: Castlevania: Sypha Belnades'
 ---
 
 Ahora mismo tienes [Pop! Vinilo: Castlevania: Sypha Belnades](https://www.amazon.es/dp/B07KPTBSKP/?tag=tolees-21) a 8.38 EUR (original: 13.99 EUR) (40.10 %  de descuento) en el siguiente enlace!

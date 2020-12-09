@@ -14,7 +14,7 @@ currency: EUR
 price: 35
 comparePrice: 70 EUR
 inStock: true
-prodname: MERAKI Chaqueta de Traje Hombre  Gris  Grey 103   54  Talla del fabricante: X-Large 
+prodname: 'MERAKI Chaqueta de Traje Hombre  Gris  Grey 103   54  Talla del fabricante: X-Large '
 ---
 
 Ahora mismo tienes [MERAKI Chaqueta de Traje Hombre  Gris  Grey 103   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B076BWNZXV/?tag=tolees-21) a 35 EUR (original: 70 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.36
 comparePrice: 49.99 EUR
 inStock: true
-prodname: edc by Esprit 048cc2c015  Pantalones Cortos para Hombre  Verde  Olive 360  46  Talla del Fabricante: 30 
+prodname: 'edc by Esprit 048cc2c015  Pantalones Cortos para Hombre  Verde  Olive 360  46  Talla del Fabricante: 30 '
 ---
 
 Ahora mismo tienes [edc by Esprit 048cc2c015  Pantalones Cortos para Hombre  Verde  Olive 360  46  Talla del Fabricante: 30 ](https://www.amazon.es/dp/B078SFMRBH/?tag=tolees-21) a 13.36 EUR (original: 49.99 EUR) (73.27 %  de descuento) en el siguiente enlace!

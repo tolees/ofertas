@@ -14,7 +14,7 @@ currency: EUR
 price: 11.39
 comparePrice: 17.95 EUR
 inStock: true
-prodname: Puma Divecat V2  Zapatos de Playa y Piscina Unisex Adulto  Negro Black White 01  35.5 EU
+prodname: 'Puma Divecat V2  Zapatos de Playa y Piscina Unisex Adulto  Negro Black White 01  35.5 EU'
 ---
 
 Tienes [Puma Divecat V2  Zapatos de Playa y Piscina Unisex Adulto  Negro Black White 01  35.5 EU](https://www.amazon.es/dp/B07DCHJP1H/?tag=tolees-21) con un 36.55 % de descuento con precio de oferta de 11.39 EUR (original: 17.95 EUR) en el siguiente enlace!

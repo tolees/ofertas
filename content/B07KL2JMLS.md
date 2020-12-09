@@ -14,7 +14,7 @@ currency: EUR
 price: 15.28
 comparePrice: 34.95 EUR
 inStock: true
-prodname: adidas ID Stadium tee T-Shirt  Hombre  White  M
+prodname: 'adidas ID Stadium tee T-Shirt  Hombre  White  M'
 ---
 
 Ahora mismo tienes [adidas ID Stadium tee T-Shirt  Hombre  White  M](https://www.amazon.es/dp/B07KL2JMLS/?tag=tolees-21) a 15.28 EUR (original: 34.95 EUR) (56.28 %  de descuento) en el siguiente enlace!

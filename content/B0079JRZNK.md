@@ -14,7 +14,7 @@ currency: EUR
 price: 3.25
 comparePrice: 5.75 EUR
 inStock: true
-prodname: Nortene Trellinet 120230 - Malla para entutorado de plantas y cultivos  2x10 m
+prodname: 'Nortene Trellinet 120230 - Malla para entutorado de plantas y cultivos  2x10 m'
 ---
 
 Está [Nortene Trellinet 120230 - Malla para entutorado de plantas y cultivos  2x10 m](https://www.amazon.es/dp/B0079JRZNK/?tag=tolees-21) con 43.48 de descuento por 3.25 EUR (original: 5.75 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 58.45
 comparePrice: 90 EUR
 inStock: true
-prodname: Asics Fuzetora Twist  Zapatillas de Entrenamiento para Hombre  Gris  Slate Grey/Amber 020   40.5 EU
+prodname: 'Asics Fuzetora Twist  Zapatillas de Entrenamiento para Hombre  Gris  Slate Grey/Amber 020   40.5 EU'
 ---
 
 Está [Asics Fuzetora Twist  Zapatillas de Entrenamiento para Hombre  Gris  Slate Grey/Amber 020   40.5 EU](https://www.amazon.es/dp/B07D1LXSXS/?tag=tolees-21) con 35.06 de descuento por 58.45 EUR (original: 90 EUR) en el siguiente enlace!

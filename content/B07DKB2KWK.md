@@ -14,7 +14,7 @@ currency: EUR
 price: 37.26
 comparePrice: 79 EUR
 inStock: true
-prodname: Kipling - Earthbeat S  Bolsos bandolera Mujer  Blanco  Dazz White 
+prodname: 'Kipling - Earthbeat S  Bolsos bandolera Mujer  Blanco  Dazz White '
 ---
 
 Ahora mismo tienes [Kipling - Earthbeat S  Bolsos bandolera Mujer  Blanco  Dazz White ](https://www.amazon.es/dp/B07DKB2KWK/?tag=tolees-21) a 37.26 EUR (original: 79 EUR) (52.84 %  de descuento) en el siguiente enlace!

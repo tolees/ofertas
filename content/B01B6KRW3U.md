@@ -14,7 +14,7 @@ currency: EUR
 price: 24.22
 comparePrice: 65 EUR
 inStock: true
-prodname: Puma Speed 600 Ignite Wn  Zapatilla para Mujer  Rojo  Red Blast-Royal Blue-White 05   38 EU
+prodname: 'Puma Speed 600 Ignite Wn  Zapatilla para Mujer  Rojo  Red Blast-Royal Blue-White 05   38 EU'
 ---
 
 Tienes [Puma Speed 600 Ignite Wn  Zapatilla para Mujer  Rojo  Red Blast-Royal Blue-White 05   38 EU](https://www.amazon.es/dp/B01B6KRW3U/?tag=tolees-21) con un 62.74 % de descuento con precio de oferta de 24.22 EUR (original: 65 EUR) en el siguiente enlace!

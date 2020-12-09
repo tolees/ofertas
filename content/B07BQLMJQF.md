@@ -14,7 +14,7 @@ currency: EUR
 price: 25.78
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rosa  Pink Skin W6y   43 EU
+prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rosa  Pink Skin W6y   43 EU'
 ---
 
 Tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rosa  Pink Skin W6y   43 EU](https://www.amazon.es/dp/B07BQLMJQF/?tag=tolees-21) con un 56.31 % de descuento con precio de oferta de 25.78 EUR (original: 59.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 39.41
 comparePrice: 75 EUR
 inStock: true
-prodname: New Balance 410  Zapatillas para Mujer  Rojo  NB Burgundy/Sea Salt BBW   37.5 EU
+prodname: 'New Balance 410  Zapatillas para Mujer  Rojo  NB Burgundy/Sea Salt BBW   37.5 EU'
 ---
 
 Ahora mismo tienes [New Balance 410  Zapatillas para Mujer  Rojo  NB Burgundy/Sea Salt BBW   37.5 EU](https://www.amazon.es/dp/B07DJ3JJRW/?tag=tolees-21) a 39.41 EUR (original: 75 EUR) (47.45 %  de descuento) en el siguiente enlace!

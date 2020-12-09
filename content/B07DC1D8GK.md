@@ -14,7 +14,7 @@ currency: EUR
 price: 27.09
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Puma Electron  Zapatillas de Deporte Unisex Adulto  Azul  Surf The Web White-Asphalt-High Risk Red   37 EU
+prodname: 'Puma Electron  Zapatillas de Deporte Unisex Adulto  Azul  Surf The Web White-Asphalt-High Risk Red   37 EU'
 ---
 
 Está [Puma Electron  Zapatillas de Deporte Unisex Adulto  Azul  Surf The Web White-Asphalt-High Risk Red   37 EU](https://www.amazon.es/dp/B07DC1D8GK/?tag=tolees-21) con 54.81 de descuento por 27.09 EUR (original: 59.95 EUR) en el siguiente enlace!

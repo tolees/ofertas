@@ -14,7 +14,7 @@ currency: EUR
 price: 36.11
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Mini Amoladora Eléctrica  TECCPO 200W Multiherramienta  6 Velocidades Variables 40000 RPM Max  120 Accesorios  con bastidor fijo  soporte extensible Mandril  Mandril de 3 garras Caja de almacenamiento
+prodname: 'Mini Amoladora Eléctrica  TECCPO 200W Multiherramienta  6 Velocidades Variables 40000 RPM Max  120 Accesorios  con bastidor fijo  soporte extensible Mandril  Mandril de 3 garras Caja de almacenamiento'
 ---
 
 Ahora mismo tienes [Mini Amoladora Eléctrica  TECCPO 200W Multiherramienta  6 Velocidades Variables 40000 RPM Max  120 Accesorios  con bastidor fijo  soporte extensible Mandril  Mandril de 3 garras Caja de almacenamiento](https://www.amazon.es/dp/B07TZMCFWW/?tag=tolees-21) a 36.11 EUR (original: 49.99 EUR) (27.77 %  de descuento) en el siguiente enlace!

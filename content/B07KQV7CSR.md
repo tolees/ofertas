@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 12.48 EUR
 inStock: true
-prodname: adidas Lin Core GB Sports Bag  Unisex Adulto  Black/Black/White  NS
+prodname: 'adidas Lin Core GB Sports Bag  Unisex Adulto  Black/Black/White  NS'
 ---
 
 Ahora mismo tienes [adidas Lin Core GB Sports Bag  Unisex Adulto  Black/Black/White  NS](https://www.amazon.es/dp/B07KQV7CSR/?tag=tolees-21) a 5.99 EUR (original: 12.48 EUR) (52.00 %  de descuento) en el siguiente enlace!

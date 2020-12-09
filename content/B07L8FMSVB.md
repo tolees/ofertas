@@ -14,7 +14,7 @@ currency: EUR
 price: 247.87
 comparePrice: 349 EUR
 inStock: true
-prodname: OPPO RX17 Neo  Smartphone Libre  6 4"  4GB RAM 128GB 16MP  Android 8.1  Dual SIM/Versión Española  - Azul
+prodname: 'OPPO RX17 Neo  Smartphone Libre  6 4"  4GB RAM 128GB 16MP  Android 8.1  Dual SIM/Versión Española  - Azul'
 ---
 
 Está [OPPO RX17 Neo  Smartphone Libre  6 4"  4GB RAM 128GB 16MP  Android 8.1  Dual SIM/Versión Española  - Azul](https://www.amazon.es/dp/B07L8FMSVB/?tag=tolees-21) con 28.98 de descuento por 247.87 EUR (original: 349 EUR) en el siguiente enlace!

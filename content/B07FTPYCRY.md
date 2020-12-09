@@ -14,7 +14,7 @@ currency: EUR
 price: 13.69
 comparePrice: 59.99 EUR
 inStock: true
-prodname: SELECTED HOMME Slhskinny-Luca Deep Depths Pants W Noos  Pantalones para Hombre  Verde   W36/L34
+prodname: 'SELECTED HOMME Slhskinny-Luca Deep Depths Pants W Noos  Pantalones para Hombre  Verde   W36/L34'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhskinny-Luca Deep Depths Pants W Noos  Pantalones para Hombre  Verde   W36/L34](https://www.amazon.es/dp/B07FTPYCRY/?tag=tolees-21) a 13.69 EUR (original: 59.99 EUR) (77.18 %  de descuento) en el siguiente enlace!

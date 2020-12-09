@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Russell Hobbs 25161-56 Horizon Mix & Go Boost - Batidora de Vaso Individual  400 W  Sin BPA  Blanco y Negro  2 Vasos de 600 ml  2 Tubos Refrigeradores 
+prodname: 'Russell Hobbs 25161-56 Horizon Mix & Go Boost - Batidora de Vaso Individual  400 W  Sin BPA  Blanco y Negro  2 Vasos de 600 ml  2 Tubos Refrigeradores '
 ---
 
 Está [Russell Hobbs 25161-56 Horizon Mix & Go Boost - Batidora de Vaso Individual  400 W  Sin BPA  Blanco y Negro  2 Vasos de 600 ml  2 Tubos Refrigeradores ](https://www.amazon.es/dp/B07G8K2GFP/?tag=tolees-21) con 44.45 de descuento por 24.99 EUR (original: 44.99 EUR) en el siguiente enlace!

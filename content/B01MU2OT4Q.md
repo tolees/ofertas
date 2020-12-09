@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Rieker 71730  Botas para Mujer  Gris  Maus   36 EU
+prodname: 'Rieker 71730  Botas para Mujer  Gris  Maus   36 EU'
 ---
 
 Ahora mismo tienes [Rieker 71730  Botas para Mujer  Gris  Maus   36 EU](https://www.amazon.es/dp/B01MU2OT4Q/?tag=tolees-21) a 18.95 EUR (original: 69.95 EUR) (72.91 %  de descuento) en el siguiente enlace!

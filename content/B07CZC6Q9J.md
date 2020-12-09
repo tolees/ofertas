@@ -14,7 +14,7 @@ currency: EUR
 price: 15.77
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Under Armour UA Qualifier Speedpocket 5   Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black/Reflective 012   XL
+prodname: 'Under Armour UA Qualifier Speedpocket 5   Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black/Reflective 012   XL'
 ---
 
 Tienes [Under Armour UA Qualifier Speedpocket 5   Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black/Reflective 012   XL](https://www.amazon.es/dp/B07CZC6Q9J/?tag=tolees-21) con un 68.45 % de descuento con precio de oferta de 15.77 EUR (original: 49.99 EUR) en el siguiente enlace!

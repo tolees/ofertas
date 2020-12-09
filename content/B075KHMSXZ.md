@@ -14,7 +14,7 @@ currency: EUR
 price: 159
 comparePrice: 220 EUR
 inStock: true
-prodname: Tahe ThermoStyling Pack Plancha para Pelo Profesional Black Edition Millenium 2.0 + Neceser-manta Térmica negro + Spray Protector Térmico 125 ml + Spray Duración Formas 125 ml
+prodname: 'Tahe ThermoStyling Pack Plancha para Pelo Profesional Black Edition Millenium 2.0 + Neceser-manta Térmica negro + Spray Protector Térmico 125 ml + Spray Duración Formas 125 ml'
 ---
 
 Ahora mismo tienes [Tahe ThermoStyling Pack Plancha para Pelo Profesional Black Edition Millenium 2.0 + Neceser-manta Térmica negro + Spray Protector Térmico 125 ml + Spray Duración Formas 125 ml](https://www.amazon.es/dp/B075KHMSXZ/?tag=tolees-21) a 159 EUR (original: 220 EUR) (27.73 %  de descuento) en el siguiente enlace!

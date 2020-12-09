@@ -14,7 +14,7 @@ currency: EUR
 price: 17.76
 comparePrice: 65 EUR
 inStock: true
-prodname: Helly Hansen KOS SS POLO  Polo para Hombre  Gris  981 Ebony   S
+prodname: 'Helly Hansen KOS SS POLO  Polo para Hombre  Gris  981 Ebony   S'
 ---
 
 Tienes [Helly Hansen KOS SS POLO  Polo para Hombre  Gris  981 Ebony   S](https://www.amazon.es/dp/B073RP9RDP/?tag=tolees-21) con un 72.68 % de descuento con precio de oferta de 17.76 EUR (original: 65 EUR) en el siguiente enlace!

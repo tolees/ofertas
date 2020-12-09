@@ -14,7 +14,7 @@ currency: EUR
 price: 22
 comparePrice: 31 EUR
 inStock: true
-prodname: Tommy Hilfiger New Danny Belt - Cinturón para mujer  Masters Black  70 cm
+prodname: 'Tommy Hilfiger New Danny Belt - Cinturón para mujer  Masters Black  70 cm'
 ---
 
 Está [Tommy Hilfiger New Danny Belt - Cinturón para mujer  Masters Black  70 cm](https://www.amazon.es/dp/B01CUF8J7S/?tag=tolees-21) con 29.03 de descuento por 22 EUR (original: 31 EUR) en el siguiente enlace!

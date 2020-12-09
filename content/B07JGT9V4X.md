@@ -14,7 +14,7 @@ currency: EUR
 price: 34.66
 comparePrice: 140 EUR
 inStock: true
-prodname: Armani Exchange Cotton Linen Denim Pantalones  Azul  Navy 1510   W33/L32  Talla del Fabricante: 33  para Hombre
+prodname: 'Armani Exchange Cotton Linen Denim Pantalones  Azul  Navy 1510   W33/L32  Talla del Fabricante: 33  para Hombre'
 ---
 
 Tienes [Armani Exchange Cotton Linen Denim Pantalones  Azul  Navy 1510   W33/L32  Talla del Fabricante: 33  para Hombre](https://www.amazon.es/dp/B07JGT9V4X/?tag=tolees-21) con un 75.24 % de descuento con precio de oferta de 34.66 EUR (original: 140 EUR) en el siguiente enlace!

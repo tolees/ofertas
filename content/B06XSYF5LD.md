@@ -14,7 +14,7 @@ currency: EUR
 price: 17.75
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Pepe Jeans London Blueburn  Pantalones para Niños  Azul  Navy 595-8C41   4 años
+prodname: 'Pepe Jeans London Blueburn  Pantalones para Niños  Azul  Navy 595-8C41   4 años'
 ---
 
 Está [Pepe Jeans London Blueburn  Pantalones para Niños  Azul  Navy 595-8C41   4 años](https://www.amazon.es/dp/B06XSYF5LD/?tag=tolees-21) con 64.43 de descuento por 17.75 EUR (original: 49.9 EUR) en el siguiente enlace!

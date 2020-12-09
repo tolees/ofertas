@@ -14,7 +14,7 @@ currency: EUR
 price: 24.79
 comparePrice: 39.0 EUR
 inStock: true
-prodname: Casio Reloj metálico LA670W4D
+prodname: 'Casio Reloj metálico LA670W4D'
 ---
 
 Tienes [Casio Reloj metálico LA670W4D](https://www.amazon.es/dp/B008PXVU7Q/?tag=tolees-21) con un 36.44 % de descuento con precio de oferta de 24.79 EUR (original: 39.0 EUR) en el siguiente enlace!

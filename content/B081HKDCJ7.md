@@ -14,7 +14,7 @@ currency: EUR
 price: 10.5
 comparePrice: 15.39 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly - Mezcla de fruta y frutos secos 4x200g
+prodname: 'Marca Amazon - Happy Belly - Mezcla de fruta y frutos secos 4x200g'
 ---
 
 Tienes [Marca Amazon - Happy Belly - Mezcla de fruta y frutos secos 4x200g](https://www.amazon.es/dp/B081HKDCJ7/?tag=tolees-21) con un 31.77 % de descuento con precio de oferta de 10.5 EUR (original: 15.39 EUR) en el siguiente enlace!

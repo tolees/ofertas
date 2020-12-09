@@ -14,7 +14,7 @@ currency: EUR
 price: 13.84
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour Ua Pain All Gain SS Camiseta de manga corta  Hombre  Negro  L
+prodname: 'Under Armour Ua Pain All Gain SS Camiseta de manga corta  Hombre  Negro  L'
 ---
 
 Está [Under Armour Ua Pain All Gain SS Camiseta de manga corta  Hombre  Negro  L](https://www.amazon.es/dp/B077GTP8CN/?tag=tolees-21) con 46.77 de descuento por 13.84 EUR (original: 26 EUR) en el siguiente enlace!

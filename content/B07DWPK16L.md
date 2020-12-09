@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LOHOTEK Bolsas al Vacio  Rollos para Envasadora Sellador de Vacío 6 Rollos 20 x 500cm Bolsas Profesional para la Conservación de Alimentos Protector la Comida para Cocina
+prodname: 'LOHOTEK Bolsas al Vacio  Rollos para Envasadora Sellador de Vacío 6 Rollos 20 x 500cm Bolsas Profesional para la Conservación de Alimentos Protector la Comida para Cocina'
 ---
 
 Tienes [LOHOTEK Bolsas al Vacio  Rollos para Envasadora Sellador de Vacío 6 Rollos 20 x 500cm Bolsas Profesional para la Conservación de Alimentos Protector la Comida para Cocina](https://www.amazon.es/dp/B07DWPK16L/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

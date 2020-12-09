@@ -14,7 +14,7 @@ currency: EUR
 price: 14.51
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Only Onlrosetta 7/8 Pullover Knt  suéter Mujer  Negro  Black Detail: W Reversible Sequins   40  Talla del Fabricante: Large 
+prodname: 'Only Onlrosetta 7/8 Pullover Knt  suéter Mujer  Negro  Black Detail: W Reversible Sequins   40  Talla del Fabricante: Large '
 ---
 
 Ahora mismo tienes [Only Onlrosetta 7/8 Pullover Knt  suéter Mujer  Negro  Black Detail: W Reversible Sequins   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B0765ZMBLT/?tag=tolees-21) a 14.51 EUR (original: 29.99 EUR) (51.62 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 50.92
 comparePrice: 70 EUR
 inStock: true
-prodname: The North Face Drew Peak Crew Sudadera  Hombre  Negro  TNF Black   S
+prodname: 'The North Face Drew Peak Crew Sudadera  Hombre  Negro  TNF Black   S'
 ---
 
 Tienes [The North Face Drew Peak Crew Sudadera  Hombre  Negro  TNF Black   S](https://www.amazon.es/dp/B0716WDVVV/?tag=tolees-21) con un 27.26 % de descuento con precio de oferta de 50.92 EUR (original: 70 EUR) en el siguiente enlace!

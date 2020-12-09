@@ -14,7 +14,7 @@ currency: EUR
 price: 36.0
 comparePrice: 60.0 EUR
 inStock: true
-prodname: New Balance Draft Scarpe per Jogging su Strada  Mujer  Negro  Orca   40 EU
+prodname: 'New Balance Draft Scarpe per Jogging su Strada  Mujer  Negro  Orca   40 EU'
 ---
 
 Ahora mismo tienes [New Balance Draft Scarpe per Jogging su Strada  Mujer  Negro  Orca   40 EU](https://www.amazon.es/dp/B07RHS2V7Q/?tag=tolees-21) a 36.0 EUR (original: 60.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

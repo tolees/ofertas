@@ -14,7 +14,7 @@ currency: EUR
 price: 10.8
 comparePrice: 15.47 EUR
 inStock: true
-prodname: Dorothy Perkins Active Shorts Pantalones Cortos Deportivos  Negro  Black 130   44  Talla del Fabricante: 16  para Mujer
+prodname: 'Dorothy Perkins Active Shorts Pantalones Cortos Deportivos  Negro  Black 130   44  Talla del Fabricante: 16  para Mujer'
 ---
 
 Está [Dorothy Perkins Active Shorts Pantalones Cortos Deportivos  Negro  Black 130   44  Talla del Fabricante: 16  para Mujer](https://www.amazon.es/dp/B07LBL8QD6/?tag=tolees-21) con 30.19 de descuento por 10.8 EUR (original: 15.47 EUR) en el siguiente enlace!

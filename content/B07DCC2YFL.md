@@ -14,7 +14,7 @@ currency: EUR
 price: 37.75
 comparePrice: 54.95 EUR
 inStock: true
-prodname: PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat-Gold-Whisper White   37.5 EU
+prodname: 'PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat-Gold-Whisper White   37.5 EU'
 ---
 
 Está [PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat-Gold-Whisper White   37.5 EU](https://www.amazon.es/dp/B07DCC2YFL/?tag=tolees-21) con 31.30 de descuento por 37.75 EUR (original: 54.95 EUR) en el siguiente enlace!

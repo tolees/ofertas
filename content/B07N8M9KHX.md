@@ -14,7 +14,7 @@ currency: EUR
 price: 6.61
 comparePrice: 15.0 EUR
 inStock: true
-prodname: SALOMON XA Pro 1 Par de Calcetines a Media caña  Unisex Adulto  Negro/Azul  Night Sky/Nautical Blue   S  36-38 
+prodname: 'SALOMON XA Pro 1 Par de Calcetines a Media caña  Unisex Adulto  Negro/Azul  Night Sky/Nautical Blue   S  36-38 '
 ---
 
 Ahora mismo tienes [SALOMON XA Pro 1 Par de Calcetines a Media caña  Unisex Adulto  Negro/Azul  Night Sky/Nautical Blue   S  36-38 ](https://www.amazon.es/dp/B07N8M9KHX/?tag=tolees-21) a 6.61 EUR (original: 15.0 EUR) (55.93 %  de descuento) en el siguiente enlace!

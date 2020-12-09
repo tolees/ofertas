@@ -14,7 +14,7 @@ currency: EUR
 price: 8
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Mamma Mia! Una Y Otra Vez [Blu-ray]
+prodname: 'Mamma Mia! Una Y Otra Vez [Blu-ray]'
 ---
 
 Tienes [Mamma Mia! Una Y Otra Vez [Blu-ray]](https://www.amazon.es/dp/B07G3JZY1K/?tag=tolees-21) con un 67.94 % de descuento con precio de oferta de 8 EUR (original: 24.95 EUR) en el siguiente enlace!

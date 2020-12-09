@@ -14,7 +14,7 @@ currency: EUR
 price: 42.88
 comparePrice: 227.13 EUR
 inStock: true
-prodname: Cadena de luces para exterior  cadena de luces  [versión mejorada] OxyLED G40 25 FT cadena de luces para jardín  resistente al agua  50 bombillas  6 bombillas de repuesto  luz amarilla   2 paquetes
+prodname: 'Cadena de luces para exterior  cadena de luces  [versión mejorada] OxyLED G40 25 FT cadena de luces para jardín  resistente al agua  50 bombillas  6 bombillas de repuesto  luz amarilla   2 paquetes'
 ---
 
 Ahora mismo tienes [Cadena de luces para exterior  cadena de luces  [versión mejorada] OxyLED G40 25 FT cadena de luces para jardín  resistente al agua  50 bombillas  6 bombillas de repuesto  luz amarilla   2 paquetes](https://www.amazon.es/dp/B07FR5VKNN/?tag=tolees-21) a 42.88 EUR (original: 227.13 EUR) (81.12 %  de descuento) en el siguiente enlace!

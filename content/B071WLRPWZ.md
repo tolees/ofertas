@@ -14,7 +14,7 @@ currency: EUR
 price: 23.75
 comparePrice: 45.9 EUR
 inStock: true
-prodname: adidas Zapatillas de Deporte para Mujer   Cg3388 Blanco   36.5 EU
+prodname: 'adidas Zapatillas de Deporte para Mujer   Cg3388 Blanco   36.5 EU'
 ---
 
 Está [adidas Zapatillas de Deporte para Mujer   Cg3388 Blanco   36.5 EU](https://www.amazon.es/dp/B071WLRPWZ/?tag=tolees-21) con 48.26 de descuento por 23.75 EUR (original: 45.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.69
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Syberia 3
+prodname: 'Syberia 3'
 ---
 
 Ahora mismo tienes [Syberia 3](https://www.amazon.es/dp/B07GJ2J9BB/?tag=tolees-21) a 18.69 EUR (original: 49.99 EUR) (62.61 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.01
 comparePrice: 22.71 EUR
 inStock: true
-prodname: CARE OF by PUMA Slip on Runner Low-Top Sneakers  Negro  Black-White   39 EU
+prodname: 'CARE OF by PUMA Slip on Runner Low-Top Sneakers  Negro  Black-White   39 EU'
 ---
 
 Tienes [CARE OF by PUMA Slip on Runner Low-Top Sneakers  Negro  Black-White   39 EU](https://www.amazon.es/dp/B07XTQH2G1/?tag=tolees-21) con un 38.31 % de descuento con precio de oferta de 14.01 EUR (original: 22.71 EUR) en el siguiente enlace!

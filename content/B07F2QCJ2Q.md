@@ -14,7 +14,7 @@ currency: EUR
 price: 45.85
 comparePrice: 70 EUR
 inStock: true
-prodname: Helly Hansen HH Logo Hoodie  Hombre  Pepper Green  L
+prodname: 'Helly Hansen HH Logo Hoodie  Hombre  Pepper Green  L'
 ---
 
 Tienes [Helly Hansen HH Logo Hoodie  Hombre  Pepper Green  L](https://www.amazon.es/dp/B07F2QCJ2Q/?tag=tolees-21) con un 34.50 % de descuento con precio de oferta de 45.85 EUR (original: 70 EUR) en el siguiente enlace!

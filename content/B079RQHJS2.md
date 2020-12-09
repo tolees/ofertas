@@ -14,7 +14,7 @@ currency: EUR
 price: 21.88
 comparePrice: 55 EUR
 inStock: true
-prodname: Pepe Jeans Loreto JR  Sudadera para Niñas  Gris  Grey Marl 933   4 años
+prodname: 'Pepe Jeans Loreto JR  Sudadera para Niñas  Gris  Grey Marl 933   4 años'
 ---
 
 Ahora mismo tienes [Pepe Jeans Loreto JR  Sudadera para Niñas  Gris  Grey Marl 933   4 años](https://www.amazon.es/dp/B079RQHJS2/?tag=tolees-21) a 21.88 EUR (original: 55 EUR) (60.22 %  de descuento) en el siguiente enlace!

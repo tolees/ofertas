@@ -14,7 +14,7 @@ currency: EUR
 price: 109.45
 comparePrice: 149.0 EUR
 inStock: true
-prodname: BERING Reloj Analógico para Unisex Adulto de Cuarzo con Correa en Acero Inoxidable 13436-369
+prodname: 'BERING Reloj Analógico para Unisex Adulto de Cuarzo con Correa en Acero Inoxidable 13436-369'
 ---
 
 Tienes [BERING Reloj Analógico para Unisex Adulto de Cuarzo con Correa en Acero Inoxidable 13436-369](https://www.amazon.es/dp/B01GRR0VRG/?tag=tolees-21) con un 26.54 % de descuento con precio de oferta de 109.45 EUR (original: 149.0 EUR) en el siguiente enlace!

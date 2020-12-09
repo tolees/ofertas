@@ -14,7 +14,7 @@ currency: EUR
 price: 7.95
 comparePrice: 14.31 EUR
 inStock: true
-prodname: Homyl 1x Reloj de Entrenamiento con GPS y Registro Actividad con Sensor de Frecuencia Cardíaca para Movíles Inteligentes iOS - Blanco
+prodname: 'Homyl 1x Reloj de Entrenamiento con GPS y Registro Actividad con Sensor de Frecuencia Cardíaca para Movíles Inteligentes iOS - Blanco'
 ---
 
 Ahora mismo tienes [Homyl 1x Reloj de Entrenamiento con GPS y Registro Actividad con Sensor de Frecuencia Cardíaca para Movíles Inteligentes iOS - Blanco](https://www.amazon.es/dp/B07G3TTK2X/?tag=tolees-21) a 7.95 EUR (original: 14.31 EUR) (44.44 %  de descuento) en el siguiente enlace!

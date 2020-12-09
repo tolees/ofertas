@@ -14,7 +14,7 @@ currency: EUR
 price: 26.26
 comparePrice: 80 EUR
 inStock: true
-prodname: New Balance WX715V3  Zapatillas Deportivas para Interior para Mujer  Negro Black  37.5 EU
+prodname: 'New Balance WX715V3  Zapatillas Deportivas para Interior para Mujer  Negro Black  37.5 EU'
 ---
 
 Tienes [New Balance WX715V3  Zapatillas Deportivas para Interior para Mujer  Negro Black  37.5 EU](https://www.amazon.es/dp/B07DFWB6F7/?tag=tolees-21) con un 67.17 % de descuento con precio de oferta de 26.26 EUR (original: 80 EUR) en el siguiente enlace!

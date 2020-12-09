@@ -14,7 +14,7 @@ currency: EUR
 price: 13.37
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Azul  Static Blue/Black 414   S
+prodname: 'Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Azul  Static Blue/Black 414   S'
 ---
 
 Ahora mismo tienes [Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Azul  Static Blue/Black 414   S](https://www.amazon.es/dp/B077YBMLWH/?tag=tolees-21) a 13.37 EUR (original: 26 EUR) (48.58 %  de descuento) en el siguiente enlace!

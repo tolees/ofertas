@@ -14,7 +14,7 @@ currency: EUR
 price: 4.89
 comparePrice: 10.31 EUR
 inStock: true
-prodname: Rimmel London Lip Art gaphic barra de labios Tono 810  8 g
+prodname: 'Rimmel London Lip Art gaphic barra de labios Tono 810  8 g'
 ---
 
 Está [Rimmel London Lip Art gaphic barra de labios Tono 810  8 g](https://www.amazon.es/dp/B07KY47VFK/?tag=tolees-21) con 52.57 de descuento por 4.89 EUR (original: 10.31 EUR) en el siguiente enlace!

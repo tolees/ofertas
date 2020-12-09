@@ -14,7 +14,7 @@ currency: EUR
 price: 12.59
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Ratón inalámbrico  Inphic Slim Silent Click Recargable 2.4G Ratones inalámbricos 1600DPI Mini óptico portátil de viaje wireless mouse para PC Ordenador portátil Mac  Espacio Plata
+prodname: 'Ratón inalámbrico  Inphic Slim Silent Click Recargable 2.4G Ratones inalámbricos 1600DPI Mini óptico portátil de viaje wireless mouse para PC Ordenador portátil Mac  Espacio Plata'
 ---
 
 Tienes [Ratón inalámbrico  Inphic Slim Silent Click Recargable 2.4G Ratones inalámbricos 1600DPI Mini óptico portátil de viaje wireless mouse para PC Ordenador portátil Mac  Espacio Plata](https://www.amazon.es/dp/B07GZKSHGD/?tag=tolees-21) con un 53.35 % de descuento con precio de oferta de 12.59 EUR (original: 26.99 EUR) en el siguiente enlace!

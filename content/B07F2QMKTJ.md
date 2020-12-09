@@ -14,7 +14,7 @@ currency: EUR
 price: 12.5
 comparePrice: 25 EUR
 inStock: true
-prodname: Vans Colorblock tee - Camiseta para Hombre   Amarillo  White-Sunny Lime Tk   X-Large
+prodname: 'Vans Colorblock tee - Camiseta para Hombre   Amarillo  White-Sunny Lime Tk   X-Large'
 ---
 
 Tienes [Vans Colorblock tee - Camiseta para Hombre   Amarillo  White-Sunny Lime Tk   X-Large](https://www.amazon.es/dp/B07F2QMKTJ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 12.5 EUR (original: 25 EUR) en el siguiente enlace!

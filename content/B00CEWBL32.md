@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 27.52 EUR
 inStock: true
-prodname: STANLEY STHT0-62113 - Set de destornilladores  42 piezas
+prodname: 'STANLEY STHT0-62113 - Set de destornilladores  42 piezas'
 ---
 
 Ahora mismo tienes [STANLEY STHT0-62113 - Set de destornilladores  42 piezas](https://www.amazon.es/dp/B00CEWBL32/?tag=tolees-21) a 18.95 EUR (original: 27.52 EUR) (31.14 %  de descuento) en el siguiente enlace!

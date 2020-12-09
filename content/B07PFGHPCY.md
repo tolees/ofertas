@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: NextX Máquina de Burbujas  Máquina Automática para Hacer Burbujas para Niños 1500 Burbujas por Minuto  Juguetes de los Niños para el Baño del Bebé  Fiesta de Cumpleaños  Interior  Boda
+prodname: 'NextX Máquina de Burbujas  Máquina Automática para Hacer Burbujas para Niños 1500 Burbujas por Minuto  Juguetes de los Niños para el Baño del Bebé  Fiesta de Cumpleaños  Interior  Boda'
 ---
 
 Está [NextX Máquina de Burbujas  Máquina Automática para Hacer Burbujas para Niños 1500 Burbujas por Minuto  Juguetes de los Niños para el Baño del Bebé  Fiesta de Cumpleaños  Interior  Boda](https://www.amazon.es/dp/B07PFGHPCY/?tag=tolees-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.3
 comparePrice: 10 EUR
 inStock: true
-prodname: Kong JU04132 Cat Nibble Bitz Fish  Pez
+prodname: 'Kong JU04132 Cat Nibble Bitz Fish  Pez'
 ---
 
 Ahora mismo tienes [Kong JU04132 Cat Nibble Bitz Fish  Pez](https://www.amazon.es/dp/B01N77YGFY/?tag=tolees-21) a 4.3 EUR (original: 10 EUR) (57.00 %  de descuento) en el siguiente enlace!

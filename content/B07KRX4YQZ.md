@@ -14,7 +14,7 @@ currency: EUR
 price: 27.38
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Columbia Sun Ridge Polo  Hombre  Rojo  Tapestry   XS
+prodname: 'Columbia Sun Ridge Polo  Hombre  Rojo  Tapestry   XS'
 ---
 
 Está [Columbia Sun Ridge Polo  Hombre  Rojo  Tapestry   XS](https://www.amazon.es/dp/B07KRX4YQZ/?tag=tolees-21) con 45.23 de descuento por 27.38 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.02
 comparePrice: 65 EUR
 inStock: true
-prodname: The North Face M Warm L/S Zip Neck - Camiseta para hombre  color negro  talla S
+prodname: 'The North Face M Warm L/S Zip Neck - Camiseta para hombre  color negro  talla S'
 ---
 
 Está [The North Face M Warm L/S Zip Neck - Camiseta para hombre  color negro  talla S](https://www.amazon.es/dp/B00MKXUI3E/?tag=tolees-21) con 53.82 de descuento por 30.02 EUR (original: 65 EUR) en el siguiente enlace!

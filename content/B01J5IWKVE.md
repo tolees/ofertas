@@ -14,7 +14,7 @@ currency: EUR
 price: 17.5
 comparePrice: 25.1 EUR
 inStock: true
-prodname: ColorBaby - Futbolín madera sobremesa CBGames  43310 
+prodname: 'ColorBaby - Futbolín madera sobremesa CBGames  43310 '
 ---
 
 Está [ColorBaby - Futbolín madera sobremesa CBGames  43310 ](https://www.amazon.es/dp/B01J5IWKVE/?tag=tolees-21) con 30.28 de descuento por 17.5 EUR (original: 25.1 EUR) en el siguiente enlace!

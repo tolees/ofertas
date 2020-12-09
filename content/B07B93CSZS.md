@@ -14,7 +14,7 @@ currency: EUR
 price: 39.1
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Panasonic RP-BTS35 - Auriculares Deportivos Inalámbricos  Resistente al Agua y Sudor  IPX5  Altavoz Dinámico 9mm  3D Flex Sport  Bluetooth  Carga Rápida  Micrófono  Manos Libres  Color Amarillo
+prodname: 'Panasonic RP-BTS35 - Auriculares Deportivos Inalámbricos  Resistente al Agua y Sudor  IPX5  Altavoz Dinámico 9mm  3D Flex Sport  Bluetooth  Carga Rápida  Micrófono  Manos Libres  Color Amarillo'
 ---
 
 Ahora mismo tienes [Panasonic RP-BTS35 - Auriculares Deportivos Inalámbricos  Resistente al Agua y Sudor  IPX5  Altavoz Dinámico 9mm  3D Flex Sport  Bluetooth  Carga Rápida  Micrófono  Manos Libres  Color Amarillo](https://www.amazon.es/dp/B07B93CSZS/?tag=tolees-21) a 39.1 EUR (original: 79.99 EUR) (51.12 %  de descuento) en el siguiente enlace!

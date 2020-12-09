@@ -14,7 +14,7 @@ currency: EUR
 price: 43.18
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Clarks Un Adorn Zip  Mocasines  Negro  Black Combi-   43 EU
+prodname: 'Clarks Un Adorn Zip  Mocasines  Negro  Black Combi-   43 EU'
 ---
 
 Ahora mismo tienes [Clarks Un Adorn Zip  Mocasines  Negro  Black Combi-   43 EU](https://www.amazon.es/dp/B07FQPLK1X/?tag=tolees-21) a 43.18 EUR (original: 110.0 EUR) (60.75 %  de descuento) en el siguiente enlace!

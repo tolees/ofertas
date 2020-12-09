@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 34.18 EUR
 inStock: true
-prodname: Tazón con Cuchara Taza de Té Japonés Accesorios de Jardinería Vajilla de Exteriores Patio
+prodname: 'Tazón con Cuchara Taza de Té Japonés Accesorios de Jardinería Vajilla de Exteriores Patio'
 ---
 
 Tienes [Tazón con Cuchara Taza de Té Japonés Accesorios de Jardinería Vajilla de Exteriores Patio](https://www.amazon.es/dp/B072FHY7MH/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 18.99 EUR (original: 34.18 EUR) en el siguiente enlace!

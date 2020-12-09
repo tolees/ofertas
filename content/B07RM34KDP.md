@@ -14,7 +14,7 @@ currency: EUR
 price: 17.83
 comparePrice: 28.99 EUR
 inStock: true
-prodname: AGPTEK Candado Disco Moto con 1.5M Cable de Recordatorio  Candado Bloqueo 7mm con Alarma 110DB Antirrobo para Motos  Motocicletas  Bicicletas  Verde
+prodname: 'AGPTEK Candado Disco Moto con 1.5M Cable de Recordatorio  Candado Bloqueo 7mm con Alarma 110DB Antirrobo para Motos  Motocicletas  Bicicletas  Verde'
 ---
 
 Tienes [AGPTEK Candado Disco Moto con 1.5M Cable de Recordatorio  Candado Bloqueo 7mm con Alarma 110DB Antirrobo para Motos  Motocicletas  Bicicletas  Verde](https://www.amazon.es/dp/B07RM34KDP/?tag=tolees-21) con un 38.50 % de descuento con precio de oferta de 17.83 EUR (original: 28.99 EUR) en el siguiente enlace!

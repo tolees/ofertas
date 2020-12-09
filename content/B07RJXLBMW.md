@@ -14,7 +14,7 @@ currency: EUR
 price: 54.05
 comparePrice: 89.22 EUR
 inStock: true
-prodname: adidas Streetcheck  Zapatos de Baloncesto Hombre  Multicolor  Core Black/Core Black/FTWR White Ee9660   44 EU
+prodname: 'adidas Streetcheck  Zapatos de Baloncesto Hombre  Multicolor  Core Black/Core Black/FTWR White Ee9660   44 EU'
 ---
 
 Ahora mismo tienes [adidas Streetcheck  Zapatos de Baloncesto Hombre  Multicolor  Core Black/Core Black/FTWR White Ee9660   44 EU](https://www.amazon.es/dp/B07RJXLBMW/?tag=tolees-21) a 54.05 EUR (original: 89.22 EUR) (39.42 %  de descuento) en el siguiente enlace!

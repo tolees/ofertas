@@ -14,7 +14,7 @@ currency: EUR
 price: 41.49
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Powder Lite Forro Polar híbrido  Mujer  Negro  S
+prodname: 'Columbia Powder Lite Forro Polar híbrido  Mujer  Negro  S'
 ---
 
 Está [Columbia Powder Lite Forro Polar híbrido  Mujer  Negro  S](https://www.amazon.es/dp/B07DYX9PN7/?tag=tolees-21) con 53.89 de descuento por 41.49 EUR (original: 89.99 EUR) en el siguiente enlace!

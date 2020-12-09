@@ -14,7 +14,7 @@ currency: EUR
 price: 28.94
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Uprise Color Shift  Zapatillas Unisex Adults’o  Gris  Iron Gate-Shocking Orange White   39 EU
+prodname: 'Puma Uprise Color Shift  Zapatillas Unisex Adults’o  Gris  Iron Gate-Shocking Orange White   39 EU'
 ---
 
 Tienes [Puma Uprise Color Shift  Zapatillas Unisex Adults’o  Gris  Iron Gate-Shocking Orange White   39 EU](https://www.amazon.es/dp/B07CZ4D1JW/?tag=tolees-21) con un 67.83 % de descuento con precio de oferta de 28.94 EUR (original: 89.95 EUR) en el siguiente enlace!

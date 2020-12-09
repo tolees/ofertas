@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Altavoz Bluetooth  moosen IPX7 Impermeable Altavoz de Ducha Bluetooth Inalámbrico Portátil con FM Radio  Pantalla LED  TWS y Espectáculo de Luces  HD Deep Bass Speaker para Baño Piscina Playa Outdoor
+prodname: 'Altavoz Bluetooth  moosen IPX7 Impermeable Altavoz de Ducha Bluetooth Inalámbrico Portátil con FM Radio  Pantalla LED  TWS y Espectáculo de Luces  HD Deep Bass Speaker para Baño Piscina Playa Outdoor'
 ---
 
 Tienes [Altavoz Bluetooth  moosen IPX7 Impermeable Altavoz de Ducha Bluetooth Inalámbrico Portátil con FM Radio  Pantalla LED  TWS y Espectáculo de Luces  HD Deep Bass Speaker para Baño Piscina Playa Outdoor](https://www.amazon.es/dp/B07X5JHWJ3/?tag=tolees-21) con un 27.28 % de descuento con precio de oferta de 23.99 EUR (original: 32.99 EUR) en el siguiente enlace!

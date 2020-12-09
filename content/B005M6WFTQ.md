@@ -14,7 +14,7 @@ currency: EUR
 price: 64.61
 comparePrice: 163.35 EUR
 inStock: true
-prodname: Grohe Concetto - grifo de bidé  con vaciador automático  1/2"  Ref. 32208001
+prodname: 'Grohe Concetto - grifo de bidé  con vaciador automático  1/2"  Ref. 32208001'
 ---
 
 Ahora mismo tienes [Grohe Concetto - grifo de bidé  con vaciador automático  1/2"  Ref. 32208001](https://www.amazon.es/dp/B005M6WFTQ/?tag=tolees-21) a 64.61 EUR (original: 163.35 EUR) (60.45 %  de descuento) en el siguiente enlace!

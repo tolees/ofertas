@@ -14,7 +14,7 @@ currency: EUR
 price: 25.95
 comparePrice: 50 EUR
 inStock: true
-prodname: Vans Ward Canvas Zapatillas Unisex Niños  Negro   Floral Mesh  Black Vht   27.5
+prodname: 'Vans Ward Canvas Zapatillas Unisex Niños  Negro   Floral Mesh  Black Vht   27.5'
 ---
 
 Tienes [Vans Ward Canvas Zapatillas Unisex Niños  Negro   Floral Mesh  Black Vht   27.5](https://www.amazon.es/dp/B07FXKBWFH/?tag=tolees-21) con un 48.10 % de descuento con precio de oferta de 25.95 EUR (original: 50 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32.21
 comparePrice: 140 EUR
 inStock: true
-prodname: Clarks Christabel Eva  Botas Camperas para Mujer  Marrón  Tan Suede   39.5 EU
+prodname: 'Clarks Christabel Eva  Botas Camperas para Mujer  Marrón  Tan Suede   39.5 EU'
 ---
 
 Ahora mismo tienes [Clarks Christabel Eva  Botas Camperas para Mujer  Marrón  Tan Suede   39.5 EU](https://www.amazon.es/dp/B01D1X6EUM/?tag=tolees-21) a 32.21 EUR (original: 140 EUR) (76.99 %  de descuento) en el siguiente enlace!

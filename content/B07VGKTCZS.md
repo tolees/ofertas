@@ -14,7 +14,7 @@ currency: EUR
 price: 24.7
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Napapijri Vail 3 Pantalones Cortos  Multicolor  Zigzag Blue Fp8 Fp81   Large para Hombre
+prodname: 'Napapijri Vail 3 Pantalones Cortos  Multicolor  Zigzag Blue Fp8 Fp81   Large para Hombre'
 ---
 
 Está [Napapijri Vail 3 Pantalones Cortos  Multicolor  Zigzag Blue Fp8 Fp81   Large para Hombre](https://www.amazon.es/dp/B07VGKTCZS/?tag=tolees-21) con 64.20 de descuento por 24.7 EUR (original: 69.0 EUR) en el siguiente enlace!

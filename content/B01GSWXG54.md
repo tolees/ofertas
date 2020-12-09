@@ -14,7 +14,7 @@ currency: EUR
 price: 12.65
 comparePrice: 20 EUR
 inStock: true
-prodname: Under Armour Slides UA Locker III Chanclas de Hombre  Zapatos para Playa de Secado rápido  Chanclas con Correa Ideales para el Vestuario y la Piscina  Black/Metallic Silver  001   12
+prodname: 'Under Armour Slides UA Locker III Chanclas de Hombre  Zapatos para Playa de Secado rápido  Chanclas con Correa Ideales para el Vestuario y la Piscina  Black/Metallic Silver  001   12'
 ---
 
 Ahora mismo tienes [Under Armour Slides UA Locker III Chanclas de Hombre  Zapatos para Playa de Secado rápido  Chanclas con Correa Ideales para el Vestuario y la Piscina  Black/Metallic Silver  001   12](https://www.amazon.es/dp/B01GSWXG54/?tag=tolees-21) a 12.65 EUR (original: 20 EUR) (36.75 %  de descuento) en el siguiente enlace!

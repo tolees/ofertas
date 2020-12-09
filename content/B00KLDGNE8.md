@@ -14,7 +14,7 @@ currency: EUR
 price: 59.95
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Greencut GS620X - Motosierra de gasolina  62cc - 3 8cv  espada de 20
+prodname: 'Greencut GS620X - Motosierra de gasolina  62cc - 3 8cv  espada de 20'
 ---
 
 Está [Greencut GS620X - Motosierra de gasolina  62cc - 3 8cv  espada de 20](https://www.amazon.es/dp/B00KLDGNE8/?tag=tolees-21) con 25.05 de descuento por 59.95 EUR (original: 79.99 EUR) en el siguiente enlace!

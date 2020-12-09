@@ -14,7 +14,7 @@ currency: EUR
 price: 55.79
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Stafford Park5 - Zapatos Hombre  Marrón  44
+prodname: 'Clarks Stafford Park5 - Zapatos Hombre  Marrón  44'
 ---
 
 Tienes [Clarks Stafford Park5 - Zapatos Hombre  Marrón  44](https://www.amazon.es/dp/B00EPFWY96/?tag=tolees-21) con un 44.18 % de descuento con precio de oferta de 55.79 EUR (original: 99.95 EUR) en el siguiente enlace!

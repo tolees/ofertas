@@ -14,7 +14,7 @@ currency: EUR
 price: 13.77
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Creatina monohidrato pura microfiltrada con vitamina B6 | La única creatina 100% pura | Favorece el crecimiento muscular y la resistencia | Absorción rápida y completa | 30 tomas sabor a sandía
+prodname: 'Creatina monohidrato pura microfiltrada con vitamina B6 | La única creatina 100% pura | Favorece el crecimiento muscular y la resistencia | Absorción rápida y completa | 30 tomas sabor a sandía'
 ---
 
 Ahora mismo tienes [Creatina monohidrato pura microfiltrada con vitamina B6 | La única creatina 100% pura | Favorece el crecimiento muscular y la resistencia | Absorción rápida y completa | 30 tomas sabor a sandía](https://www.amazon.es/dp/B07QDB3KMS/?tag=tolees-21) a 13.77 EUR (original: 19.95 EUR) (30.98 %  de descuento) en el siguiente enlace!

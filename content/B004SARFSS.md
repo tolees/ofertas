@@ -14,7 +14,7 @@ currency: EUR
 price: 5.17
 comparePrice: 7.2 EUR
 inStock: true
-prodname: Hultafors 380010 Cuchillo profesional de acero japonés de 280 mm  incluye funda para el cinturón de plástico extra resistente 
+prodname: 'Hultafors 380010 Cuchillo profesional de acero japonés de 280 mm  incluye funda para el cinturón de plástico extra resistente '
 ---
 
 Ahora mismo tienes [Hultafors 380010 Cuchillo profesional de acero japonés de 280 mm  incluye funda para el cinturón de plástico extra resistente ](https://www.amazon.es/dp/B004SARFSS/?tag=tolees-21) a 5.17 EUR (original: 7.2 EUR) (28.19 %  de descuento) en el siguiente enlace!

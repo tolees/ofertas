@@ -14,7 +14,7 @@ currency: EUR
 price: 25.8
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Russell Hobbs Adventure - Hervidor de agua eléctrico pequeño   2400 W  1 litro  acero inoxidable  Gris  - ref. 24991-70
+prodname: 'Russell Hobbs Adventure - Hervidor de agua eléctrico pequeño   2400 W  1 litro  acero inoxidable  Gris  - ref. 24991-70'
 ---
 
 Está [Russell Hobbs Adventure - Hervidor de agua eléctrico pequeño   2400 W  1 litro  acero inoxidable  Gris  - ref. 24991-70](https://www.amazon.es/dp/B07NDCV4MV/?tag=tolees-21) con 26.26 de descuento por 25.8 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Lego Jurassic World - Classics
+prodname: 'Lego Jurassic World - Classics'
 ---
 
 Ahora mismo tienes [Lego Jurassic World - Classics](https://www.amazon.es/dp/B00WWR60XA/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!

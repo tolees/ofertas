@@ -14,7 +14,7 @@ currency: EUR
 price: 9.75
 comparePrice: 13.95 EUR
 inStock: true
-prodname: Joma Miami Bermuda Deporte de Tenis  Hombre  Marino  2XL-3XL
+prodname: 'Joma Miami Bermuda Deporte de Tenis  Hombre  Marino  2XL-3XL'
 ---
 
 Ahora mismo tienes [Joma Miami Bermuda Deporte de Tenis  Hombre  Marino  2XL-3XL](https://www.amazon.es/dp/B06Y2ZCVK8/?tag=tolees-21) a 9.75 EUR (original: 13.95 EUR) (30.11 %  de descuento) en el siguiente enlace!

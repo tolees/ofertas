@@ -14,7 +14,7 @@ currency: EUR
 price: 18.98
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 48380  Botines para Mujer  Negro  Plomo Plomo   36 EU
+prodname: 'XTI 48380  Botines para Mujer  Negro  Plomo Plomo   36 EU'
 ---
 
 Tienes [XTI 48380  Botines para Mujer  Negro  Plomo Plomo   36 EU](https://www.amazon.es/dp/B07D9BZLWH/?tag=tolees-21) con un 62.00 % de descuento con precio de oferta de 18.98 EUR (original: 49.95 EUR) en el siguiente enlace!

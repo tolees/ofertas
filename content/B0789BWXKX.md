@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 68.72 EUR
 inStock: true
-prodname: SUNLU PETG Filamento 3D 1.75mm 1KG  2.2lb   Filamento de impresora PETG 3D  Precisión dimensional +/- 0.02 mm  1 kg Carrete  1.75 mm  PETG gris
+prodname: 'SUNLU PETG Filamento 3D 1.75mm 1KG  2.2lb   Filamento de impresora PETG 3D  Precisión dimensional +/- 0.02 mm  1 kg Carrete  1.75 mm  PETG gris'
 ---
 
 Ahora mismo tienes [SUNLU PETG Filamento 3D 1.75mm 1KG  2.2lb   Filamento de impresora PETG 3D  Precisión dimensional +/- 0.02 mm  1 kg Carrete  1.75 mm  PETG gris](https://www.amazon.es/dp/B0789BWXKX/?tag=tolees-21) a 29.99 EUR (original: 68.72 EUR) (56.36 %  de descuento) en el siguiente enlace!

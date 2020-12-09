@@ -14,7 +14,7 @@ currency: EUR
 price: 12.32
 comparePrice: 25.98 EUR
 inStock: true
-prodname: Bosch Professional 2607017459 Set Mini X-Line con 7 Brocas  Metal  HSS-G  Accesorios para Taladro Atornillador   Negro/Dorado  27 Piezas
+prodname: 'Bosch Professional 2607017459 Set Mini X-Line con 7 Brocas  Metal  HSS-G  Accesorios para Taladro Atornillador   Negro/Dorado  27 Piezas'
 ---
 
 Está [Bosch Professional 2607017459 Set Mini X-Line con 7 Brocas  Metal  HSS-G  Accesorios para Taladro Atornillador   Negro/Dorado  27 Piezas](https://www.amazon.es/dp/B07CWWLP26/?tag=tolees-21) con 52.58 de descuento por 12.32 EUR (original: 25.98 EUR) en el siguiente enlace!

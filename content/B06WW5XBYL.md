@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Spiuk Ventix Gafas  Unisex Adulto  Azul Mate  Talla Única
+prodname: 'Spiuk Ventix Gafas  Unisex Adulto  Azul Mate  Talla Única'
 ---
 
 Ahora mismo tienes [Spiuk Ventix Gafas  Unisex Adulto  Azul Mate  Talla Única](https://www.amazon.es/dp/B06WW5XBYL/?tag=tolees-21) a 29.9 EUR (original: 59.9 EUR) (50.08 %  de descuento) en el siguiente enlace!

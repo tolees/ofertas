@@ -14,7 +14,7 @@ currency: EUR
 price: 349.99
 comparePrice: 549.99 EUR
 inStock: true
-prodname: Nebula  por Anker  Mars II 300 ANSI lm Proyector portátil con 720p 30-150    DLP Picture  altavoces de 10W  Android 7.1  autofocus de 1 segundo  autonomía de 4 horas  conectividad amplia y Miracast
+prodname: 'Nebula  por Anker  Mars II 300 ANSI lm Proyector portátil con 720p 30-150    DLP Picture  altavoces de 10W  Android 7.1  autofocus de 1 segundo  autonomía de 4 horas  conectividad amplia y Miracast'
 ---
 
 Está [Nebula  por Anker  Mars II 300 ANSI lm Proyector portátil con 720p 30-150    DLP Picture  altavoces de 10W  Android 7.1  autofocus de 1 segundo  autonomía de 4 horas  conectividad amplia y Miracast](https://www.amazon.es/dp/B07CNSS3QX/?tag=tolees-21) con 36.36 de descuento por 349.99 EUR (original: 549.99 EUR) en el siguiente enlace!

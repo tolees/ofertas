@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Viala Cepillo de Limpieza Facial y Masajeador con 3 Cabezales Clásicos  Eléctrico e Impermeable  para Exfoliación Delicada y Profunda  Verde Claro
+prodname: 'Viala Cepillo de Limpieza Facial y Masajeador con 3 Cabezales Clásicos  Eléctrico e Impermeable  para Exfoliación Delicada y Profunda  Verde Claro'
 ---
 
 Está [Viala Cepillo de Limpieza Facial y Masajeador con 3 Cabezales Clásicos  Eléctrico e Impermeable  para Exfoliación Delicada y Profunda  Verde Claro](https://www.amazon.es/dp/B07NQ8VBC6/?tag=tolees-21) con 80.72 de descuento por 26.99 EUR (original: 139.99 EUR) en el siguiente enlace!

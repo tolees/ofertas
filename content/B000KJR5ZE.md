@@ -14,7 +14,7 @@ currency: EUR
 price: 26.64
 comparePrice: 55.18 EUR
 inStock: true
-prodname: GBC WireBind Alambres de Encuadernación  12.5 mm  115 Hojas de Capacidad  A4  Negro  Pack de 100  RG810810
+prodname: 'GBC WireBind Alambres de Encuadernación  12.5 mm  115 Hojas de Capacidad  A4  Negro  Pack de 100  RG810810'
 ---
 
 Tienes [GBC WireBind Alambres de Encuadernación  12.5 mm  115 Hojas de Capacidad  A4  Negro  Pack de 100  RG810810](https://www.amazon.es/dp/B000KJR5ZE/?tag=tolees-21) con un 51.72 % de descuento con precio de oferta de 26.64 EUR (original: 55.18 EUR) en el siguiente enlace!

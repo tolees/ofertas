@@ -14,7 +14,7 @@ currency: EUR
 price: 9.89
 comparePrice: 26 EUR
 inStock: true
-prodname: FIND W13768M t shirt  Blue  18  Manufacturer size: XX-Large 
+prodname: 'FIND W13768M t shirt  Blue  18  Manufacturer size: XX-Large '
 ---
 
 Está [FIND W13768M t shirt  Blue  18  Manufacturer size: XX-Large ](https://www.amazon.es/dp/B06Y4XRXJN/?tag=tolees-21) con 61.96 de descuento por 9.89 EUR (original: 26 EUR) en el siguiente enlace!

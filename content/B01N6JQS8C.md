@@ -14,7 +14,7 @@ currency: EUR
 price: 20.16
 comparePrice: 36.99 EUR
 inStock: true
-prodname: Kingston A400 SSD SA400S37/120G - Disco duro sólido interno 2.5" SATA 120GB
+prodname: 'Kingston A400 SSD SA400S37/120G - Disco duro sólido interno 2.5" SATA 120GB'
 ---
 
 Ahora mismo tienes [Kingston A400 SSD SA400S37/120G - Disco duro sólido interno 2.5" SATA 120GB](https://www.amazon.es/dp/B01N6JQS8C/?tag=tolees-21) a 20.16 EUR (original: 36.99 EUR) (45.50 %  de descuento) en el siguiente enlace!

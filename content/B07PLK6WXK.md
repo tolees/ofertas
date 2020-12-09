@@ -14,7 +14,7 @@ currency: EUR
 price: 28.75
 comparePrice: 60 EUR
 inStock: true
-prodname: Hurley M Phantom Chalet 20  Bañadores  Hombre  Black  28
+prodname: 'Hurley M Phantom Chalet 20  Bañadores  Hombre  Black  28'
 ---
 
 Ahora mismo tienes [Hurley M Phantom Chalet 20  Bañadores  Hombre  Black  28](https://www.amazon.es/dp/B07PLK6WXK/?tag=tolees-21) a 28.75 EUR (original: 60 EUR) (52.08 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.48
 comparePrice: 34.08 EUR
 inStock: true
-prodname: HIKARO Chaqueta con Cremallera y Capucha Hombre  Negro  Black   48  Talla del fabricante: Small 
+prodname: 'HIKARO Chaqueta con Cremallera y Capucha Hombre  Negro  Black   48  Talla del fabricante: Small '
 ---
 
 Tienes [HIKARO Chaqueta con Cremallera y Capucha Hombre  Negro  Black   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YDTT7G/?tag=tolees-21) con un 66.31 % de descuento con precio de oferta de 11.48 EUR (original: 34.08 EUR) en el siguiente enlace!

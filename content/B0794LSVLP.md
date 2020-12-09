@@ -14,7 +14,7 @@ currency: EUR
 price: 8.25
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Esprit 058ee1k031  Camiseta Mujer   Navy 400   X-Large
+prodname: 'Esprit 058ee1k031  Camiseta Mujer   Navy 400   X-Large'
 ---
 
 Ahora mismo tienes [Esprit 058ee1k031  Camiseta Mujer   Navy 400   X-Large](https://www.amazon.es/dp/B0794LSVLP/?tag=tolees-21) a 8.25 EUR (original: 15.99 EUR) (48.41 %  de descuento) en el siguiente enlace!

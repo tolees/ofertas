@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Levi s Housemark Graphic tee Camiseta  Hm Outline Cabernet  XL para Hombre
+prodname: 'Levi s Housemark Graphic tee Camiseta  Hm Outline Cabernet  XL para Hombre'
 ---
 
 Ahora mismo tienes [Levi s Housemark Graphic tee Camiseta  Hm Outline Cabernet  XL para Hombre](https://www.amazon.es/dp/B07LFDNDPL/?tag=tolees-21) a 17.99 EUR (original: 30.0 EUR) (40.03 %  de descuento) en el siguiente enlace!

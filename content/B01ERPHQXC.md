@@ -14,7 +14,7 @@ currency: EUR
 price: 12.45
 comparePrice: 21 EUR
 inStock: true
-prodname: Joma SHT.S0M01 - Falda de tenis para mujer  color Azul  Royal   talla X-Large
+prodname: 'Joma SHT.S0M01 - Falda de tenis para mujer  color Azul  Royal   talla X-Large'
 ---
 
 Está [Joma SHT.S0M01 - Falda de tenis para mujer  color Azul  Royal   talla X-Large](https://www.amazon.es/dp/B01ERPHQXC/?tag=tolees-21) con 40.71 de descuento por 12.45 EUR (original: 21 EUR) en el siguiente enlace!

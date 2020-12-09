@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Auriculares Bluetooth Deportivos  Inalámbricos Magnético écouteur Bluetooth 4.1 In-Ear HiFi Estéreo Cancelación de Ruido Sweatproof IPX4 para iPad  iOS  Android Smartphones
+prodname: 'Auriculares Bluetooth Deportivos  Inalámbricos Magnético écouteur Bluetooth 4.1 In-Ear HiFi Estéreo Cancelación de Ruido Sweatproof IPX4 para iPad  iOS  Android Smartphones'
 ---
 
 Tienes [Auriculares Bluetooth Deportivos  Inalámbricos Magnético écouteur Bluetooth 4.1 In-Ear HiFi Estéreo Cancelación de Ruido Sweatproof IPX4 para iPad  iOS  Android Smartphones](https://www.amazon.es/dp/B07P7PBD3L/?tag=tolees-21) con un 42.44 % de descuento con precio de oferta de 18.99 EUR (original: 32.99 EUR) en el siguiente enlace!

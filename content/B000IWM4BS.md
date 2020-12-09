@@ -14,7 +14,7 @@ currency: EUR
 price: 26.95
 comparePrice: 36.35 EUR
 inStock: true
-prodname: Summer Infant Grow With Me - Barrera de seguridad para cama
+prodname: 'Summer Infant Grow With Me - Barrera de seguridad para cama'
 ---
 
 Tienes [Summer Infant Grow With Me - Barrera de seguridad para cama](https://www.amazon.es/dp/B000IWM4BS/?tag=tolees-21) con un 25.86 % de descuento con precio de oferta de 26.95 EUR (original: 36.35 EUR) en el siguiente enlace!

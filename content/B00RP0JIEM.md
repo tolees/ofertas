@@ -14,7 +14,7 @@ currency: EUR
 price: 8.13
 comparePrice: 18.74 EUR
 inStock: true
-prodname: Callaway 5215086  Gorra de béisbol para Hombre   Ganate/Gris   U
+prodname: 'Callaway 5215086  Gorra de béisbol para Hombre   Ganate/Gris   U'
 ---
 
 Tienes [Callaway 5215086  Gorra de béisbol para Hombre   Ganate/Gris   U](https://www.amazon.es/dp/B00RP0JIEM/?tag=tolees-21) con un 56.62 % de descuento con precio de oferta de 8.13 EUR (original: 18.74 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.97
 comparePrice: 19.97 EUR
 inStock: true
-prodname: Tickas Pulsioxímetro de dedo  mini monitor de SpO2 Monitor de saturación de oxígeno Dispositivo de medición de frecuencia de pulso Lectura rápida de 5 s con cordón
+prodname: 'Tickas Pulsioxímetro de dedo  mini monitor de SpO2 Monitor de saturación de oxígeno Dispositivo de medición de frecuencia de pulso Lectura rápida de 5 s con cordón'
 ---
 
 Tienes [Tickas Pulsioxímetro de dedo  mini monitor de SpO2 Monitor de saturación de oxígeno Dispositivo de medición de frecuencia de pulso Lectura rápida de 5 s con cordón](https://www.amazon.es/dp/B08H8NHLXF/?tag=tolees-21) con un 60.09 % de descuento con precio de oferta de 7.97 EUR (original: 19.97 EUR) en el siguiente enlace!

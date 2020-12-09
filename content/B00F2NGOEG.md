@@ -14,7 +14,7 @@ currency: EUR
 price: 14.39
 comparePrice: 23.1 EUR
 inStock: true
-prodname: Bellota 951-20 CM - RASTRILLO JARDIN
+prodname: 'Bellota 951-20 CM - RASTRILLO JARDIN'
 ---
 
 Está [Bellota 951-20 CM - RASTRILLO JARDIN](https://www.amazon.es/dp/B00F2NGOEG/?tag=tolees-21) con 37.71 de descuento por 14.39 EUR (original: 23.1 EUR) en el siguiente enlace!

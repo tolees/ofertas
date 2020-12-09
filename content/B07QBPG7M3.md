@@ -14,7 +14,7 @@ currency: EUR
 price: 64.49
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW Roxic Tapered Cargo Pantalones  Gris  Asfalt 4893-995   25W / 30L para Hombre
+prodname: 'G-STAR RAW Roxic Tapered Cargo Pantalones  Gris  Asfalt 4893-995   25W / 30L para Hombre'
 ---
 
 Ahora mismo tienes [G-STAR RAW Roxic Tapered Cargo Pantalones  Gris  Asfalt 4893-995   25W / 30L para Hombre](https://www.amazon.es/dp/B07QBPG7M3/?tag=tolees-21) a 64.49 EUR (original: 99.95 EUR) (35.48 %  de descuento) en el siguiente enlace!

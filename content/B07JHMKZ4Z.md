@@ -14,7 +14,7 @@ currency: EUR
 price: 8.04
 comparePrice: 22.87 EUR
 inStock: true
-prodname: New Look Sadie Stripe Blusa  Blanco  White Pattern 19  38  Talla del Fabricante: 10  para Mujer
+prodname: 'New Look Sadie Stripe Blusa  Blanco  White Pattern 19  38  Talla del Fabricante: 10  para Mujer'
 ---
 
 Tienes [New Look Sadie Stripe Blusa  Blanco  White Pattern 19  38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07JHMKZ4Z/?tag=tolees-21) con un 64.84 % de descuento con precio de oferta de 8.04 EUR (original: 22.87 EUR) en el siguiente enlace!

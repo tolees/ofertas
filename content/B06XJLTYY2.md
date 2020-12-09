@@ -14,7 +14,7 @@ currency: EUR
 price: 41.44
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Rowenta Steam Curler CF3810 - Moldeador cabello de 25 mm  pantalla LCD  recubrimiento de cashmere Keratin y aceite de argán  hydraboost vapor  8 temperaturas  iónico  temporizador integrado
+prodname: 'Rowenta Steam Curler CF3810 - Moldeador cabello de 25 mm  pantalla LCD  recubrimiento de cashmere Keratin y aceite de argán  hydraboost vapor  8 temperaturas  iónico  temporizador integrado'
 ---
 
 Tienes [Rowenta Steam Curler CF3810 - Moldeador cabello de 25 mm  pantalla LCD  recubrimiento de cashmere Keratin y aceite de argán  hydraboost vapor  8 temperaturas  iónico  temporizador integrado](https://www.amazon.es/dp/B06XJLTYY2/?tag=tolees-21) con un 30.92 % de descuento con precio de oferta de 41.44 EUR (original: 59.99 EUR) en el siguiente enlace!

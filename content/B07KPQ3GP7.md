@@ -14,7 +14,7 @@ currency: EUR
 price: 14.06
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Gant TG Girls SS T-Shirt Camiseta  Rosa  Summer Rose 659   128  Talla del Fabricante: 122/128  para Niñas
+prodname: 'Gant TG Girls SS T-Shirt Camiseta  Rosa  Summer Rose 659   128  Talla del Fabricante: 122/128  para Niñas'
 ---
 
 Ahora mismo tienes [Gant TG Girls SS T-Shirt Camiseta  Rosa  Summer Rose 659   128  Talla del Fabricante: 122/128  para Niñas](https://www.amazon.es/dp/B07KPQ3GP7/?tag=tolees-21) a 14.06 EUR (original: 29.99 EUR) (53.12 %  de descuento) en el siguiente enlace!

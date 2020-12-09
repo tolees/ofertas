@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Fancii Lámpara Lupa 3x LED Luz Natural Recargable con Pinza Metálica - Lupa Iluminada Lente de Cristal Óptico Ajustable con 3 Posiciones de Luz y Mango de Aluminio Desmontable
+prodname: 'Fancii Lámpara Lupa 3x LED Luz Natural Recargable con Pinza Metálica - Lupa Iluminada Lente de Cristal Óptico Ajustable con 3 Posiciones de Luz y Mango de Aluminio Desmontable'
 ---
 
 Está [Fancii Lámpara Lupa 3x LED Luz Natural Recargable con Pinza Metálica - Lupa Iluminada Lente de Cristal Óptico Ajustable con 3 Posiciones de Luz y Mango de Aluminio Desmontable](https://www.amazon.es/dp/B01MRJ5HU4/?tag=tolees-21) con 25.01 de descuento por 20.99 EUR (original: 27.99 EUR) en el siguiente enlace!

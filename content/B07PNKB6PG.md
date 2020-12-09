@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: With John Coltrane [Vinilo]
+prodname: 'With John Coltrane [Vinilo]'
 ---
 
 Ahora mismo tienes [With John Coltrane [Vinilo]](https://www.amazon.es/dp/B07PNKB6PG/?tag=tolees-21) a 7.99 EUR (original: 14.99 EUR) (46.70 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 1.91
 comparePrice: 2.55 EUR
 inStock: true
-prodname: Ruffles Jamon  Patatas fritas - 295 gr
+prodname: 'Ruffles Jamon  Patatas fritas - 295 gr'
 ---
 
 Tienes [Ruffles Jamon  Patatas fritas - 295 gr](https://www.amazon.es/dp/B084LCL3HZ/?tag=tolees-21) con un 25.10 % de descuento con precio de oferta de 1.91 EUR (original: 2.55 EUR) en el siguiente enlace!

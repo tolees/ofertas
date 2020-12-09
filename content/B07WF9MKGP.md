@@ -14,7 +14,7 @@ currency: EUR
 price: 160.39
 comparePrice: 245.99 EUR
 inStock: true
-prodname: HyperX FURY Black HX430C15FB3K4/32 Memoria RAM 32GB Kit* 4x8GB  3000MHz DDR4 CL15 DIMM  1Rx8
+prodname: 'HyperX FURY Black HX430C15FB3K4/32 Memoria RAM 32GB Kit* 4x8GB  3000MHz DDR4 CL15 DIMM  1Rx8'
 ---
 
 Ahora mismo tienes [HyperX FURY Black HX430C15FB3K4/32 Memoria RAM 32GB Kit* 4x8GB  3000MHz DDR4 CL15 DIMM  1Rx8](https://www.amazon.es/dp/B07WF9MKGP/?tag=tolees-21) a 160.39 EUR (original: 245.99 EUR) (34.80 %  de descuento) en el siguiente enlace!

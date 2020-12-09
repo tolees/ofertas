@@ -14,7 +14,7 @@ currency: EUR
 price: 5.05
 comparePrice: 16.97 EUR
 inStock: true
-prodname: Marca Amazon - find. Camiseta Transpirable Deporte Hombre  Azul  Imperial Blue   S  Label: S
+prodname: 'Marca Amazon - find. Camiseta Transpirable Deporte Hombre  Azul  Imperial Blue   S  Label: S'
 ---
 
 Tienes [Marca Amazon - find. Camiseta Transpirable Deporte Hombre  Azul  Imperial Blue   S  Label: S](https://www.amazon.es/dp/B0779XHGHR/?tag=tolees-21) con un 70.24 % de descuento con precio de oferta de 5.05 EUR (original: 16.97 EUR) en el siguiente enlace!

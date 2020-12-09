@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: SONGMICS Hamaca Ultraligera con Mosquitera  Hamaca Doble Portátil  Nylon Ripstop  Secado Rápido  Correas Multi-Lazo  Capacidad de Carga 300 kg  275 x 140 cm  para Camping  Jardín  Negro y Gris GDC16BG
+prodname: 'SONGMICS Hamaca Ultraligera con Mosquitera  Hamaca Doble Portátil  Nylon Ripstop  Secado Rápido  Correas Multi-Lazo  Capacidad de Carga 300 kg  275 x 140 cm  para Camping  Jardín  Negro y Gris GDC16BG'
 ---
 
 Tienes [SONGMICS Hamaca Ultraligera con Mosquitera  Hamaca Doble Portátil  Nylon Ripstop  Secado Rápido  Correas Multi-Lazo  Capacidad de Carga 300 kg  275 x 140 cm  para Camping  Jardín  Negro y Gris GDC16BG](https://www.amazon.es/dp/B07LGTVQ6C/?tag=tolees-21) con un 36.12 % de descuento con precio de oferta de 22.99 EUR (original: 35.99 EUR) en el siguiente enlace!

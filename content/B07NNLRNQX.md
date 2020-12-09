@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Dragon Ball Sagas Completas Box 1 Ep. 1 A 68 En 16 [DVD]
+prodname: 'Dragon Ball Sagas Completas Box 1 Ep. 1 A 68 En 16 [DVD]'
 ---
 
 Tienes [Dragon Ball Sagas Completas Box 1 Ep. 1 A 68 En 16 [DVD]](https://www.amazon.es/dp/B07NNLRNQX/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

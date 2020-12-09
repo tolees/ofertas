@@ -14,7 +14,7 @@ currency: EUR
 price: 55.79
 comparePrice: 74.39 EUR
 inStock: true
-prodname: Lee Sherpa Jacket Chaqueta Vaquera  Azul  Vintage Worn   Small para Hombre
+prodname: 'Lee Sherpa Jacket Chaqueta Vaquera  Azul  Vintage Worn   Small para Hombre'
 ---
 
 Tienes [Lee Sherpa Jacket Chaqueta Vaquera  Azul  Vintage Worn   Small para Hombre](https://www.amazon.es/dp/B07FJXMXDQ/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 55.79 EUR (original: 74.39 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 31.65
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Negro  Black/Voltage Violet Bv   37.5 EU
+prodname: 'New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Negro  Black/Voltage Violet Bv   37.5 EU'
 ---
 
 Ahora mismo tienes [New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Negro  Black/Voltage Violet Bv   37.5 EU](https://www.amazon.es/dp/B07BL2TJTV/?tag=tolees-21) a 31.65 EUR (original: 90 EUR) (64.83 %  de descuento) en el siguiente enlace!

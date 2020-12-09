@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Disco Duro Externo 2tb Portátil 2.5"  USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  2tb  Azul 
+prodname: 'Disco Duro Externo 2tb Portátil 2.5"  USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  2tb  Azul '
 ---
 
 Está [Disco Duro Externo 2tb Portátil 2.5"  USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  2tb  Azul ](https://www.amazon.es/dp/B08L7BLBPF/?tag=tolees-21) con 46.67 de descuento por 63.99 EUR (original: 119.99 EUR) en el siguiente enlace!

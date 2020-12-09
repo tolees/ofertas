@@ -14,7 +14,7 @@ currency: EUR
 price: 39.6
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Puma Evostripe Move Hooded Jacket Sudadera  Hombre  Gris  Medium Gray Heather   L
+prodname: 'Puma Evostripe Move Hooded Jacket Sudadera  Hombre  Gris  Medium Gray Heather   L'
 ---
 
 Ahora mismo tienes [Puma Evostripe Move Hooded Jacket Sudadera  Hombre  Gris  Medium Gray Heather   L](https://www.amazon.es/dp/B07JHX15PH/?tag=tolees-21) a 39.6 EUR (original: 74.95 EUR) (47.16 %  de descuento) en el siguiente enlace!

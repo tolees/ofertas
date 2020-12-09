@@ -14,7 +14,7 @@ currency: EUR
 price: 16.06
 comparePrice: 28 EUR
 inStock: true
-prodname: Burton Classic Mountain High Camisetas  Hombre  Mood Indigo  XS
+prodname: 'Burton Classic Mountain High Camisetas  Hombre  Mood Indigo  XS'
 ---
 
 Ahora mismo tienes [Burton Classic Mountain High Camisetas  Hombre  Mood Indigo  XS](https://www.amazon.es/dp/B07KGP9FB6/?tag=tolees-21) a 16.06 EUR (original: 28 EUR) (42.64 %  de descuento) en el siguiente enlace!

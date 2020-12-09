@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 13.2 EUR
 inStock: true
-prodname: Pikolin Home - Pack de 2 fundas de almohada cutí  100% algodón satén  45x70cm  Todas las medidas 
+prodname: 'Pikolin Home - Pack de 2 fundas de almohada cutí  100% algodón satén  45x70cm  Todas las medidas '
 ---
 
 Tienes [Pikolin Home - Pack de 2 fundas de almohada cutí  100% algodón satén  45x70cm  Todas las medidas ](https://www.amazon.es/dp/B07BMXTXQJ/?tag=tolees-21) con un 31.89 % de descuento con precio de oferta de 8.99 EUR (original: 13.2 EUR) en el siguiente enlace!

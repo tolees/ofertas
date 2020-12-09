@@ -14,7 +14,7 @@ currency: EUR
 price: 10.98
 comparePrice: 17.94 EUR
 inStock: true
-prodname: Rexona Active Pro+ Desodorante Antitranspirante Frescor  Hombre - Pack de 6 x 200 ml  Total: 1200 ml 
+prodname: 'Rexona Active Pro+ Desodorante Antitranspirante Frescor  Hombre - Pack de 6 x 200 ml  Total: 1200 ml '
 ---
 
 Ahora mismo tienes [Rexona Active Pro+ Desodorante Antitranspirante Frescor  Hombre - Pack de 6 x 200 ml  Total: 1200 ml ](https://www.amazon.es/dp/B07QPB47KF/?tag=tolees-21) a 10.98 EUR (original: 17.94 EUR) (38.80 %  de descuento) en el siguiente enlace!

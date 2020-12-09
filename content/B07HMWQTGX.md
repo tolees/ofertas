@@ -14,7 +14,7 @@ currency: EUR
 price: 14.74
 comparePrice: 30.24 EUR
 inStock: true
-prodname: Jumbo - Forbidden City - Juego de estrategia a partir de 8 años
+prodname: 'Jumbo - Forbidden City - Juego de estrategia a partir de 8 años'
 ---
 
 Tienes [Jumbo - Forbidden City - Juego de estrategia a partir de 8 años](https://www.amazon.es/dp/B07HMWQTGX/?tag=tolees-21) con un 51.26 % de descuento con precio de oferta de 14.74 EUR (original: 30.24 EUR) en el siguiente enlace!

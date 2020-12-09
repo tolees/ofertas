@@ -14,7 +14,7 @@ currency: EUR
 price: 29.45
 comparePrice: 70 EUR
 inStock: true
-prodname: Pepe Jeans Track Short  Pantalones Cortos para Hombre  Azul  Denim   30
+prodname: 'Pepe Jeans Track Short  Pantalones Cortos para Hombre  Azul  Denim   30'
 ---
 
 Ahora mismo tienes [Pepe Jeans Track Short  Pantalones Cortos para Hombre  Azul  Denim   30](https://www.amazon.es/dp/B01MTWEDNL/?tag=tolees-21) a 29.45 EUR (original: 70 EUR) (57.93 %  de descuento) en el siguiente enlace!

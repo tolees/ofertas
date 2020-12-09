@@ -14,7 +14,7 @@ currency: EUR
 price: 14.32
 comparePrice: 28.69 EUR
 inStock: true
-prodname: adidas Own The Run tee Camiseta  Hombre  Gris  Grey/Reflective Silver   L
+prodname: 'adidas Own The Run tee Camiseta  Hombre  Gris  Grey/Reflective Silver   L'
 ---
 
 Está [adidas Own The Run tee Camiseta  Hombre  Gris  Grey/Reflective Silver   L](https://www.amazon.es/dp/B07KL4JPB4/?tag=tolees-21) con 50.09 de descuento por 14.32 EUR (original: 28.69 EUR) en el siguiente enlace!

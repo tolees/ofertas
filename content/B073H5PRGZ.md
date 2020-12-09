@@ -14,7 +14,7 @@ currency: EUR
 price: 134.48
 comparePrice: 209.95 EUR
 inStock: true
-prodname: Cybex Silla de coche grupo 2/3  Solution M-Fix SL  Para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años  Morado  Purple Rain 
+prodname: 'Cybex Silla de coche grupo 2/3  Solution M-Fix SL  Para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años  Morado  Purple Rain '
 ---
 
 Ahora mismo tienes [Cybex Silla de coche grupo 2/3  Solution M-Fix SL  Para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años  Morado  Purple Rain ](https://www.amazon.es/dp/B073H5PRGZ/?tag=tolees-21) a 134.48 EUR (original: 209.95 EUR) (35.95 %  de descuento) en el siguiente enlace!

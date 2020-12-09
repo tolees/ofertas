@@ -14,7 +14,7 @@ currency: EUR
 price: 23.85
 comparePrice: 50.95 EUR
 inStock: true
-prodname: Izas Chaqueta de Punto Lucania
+prodname: 'Izas Chaqueta de Punto Lucania'
 ---
 
 Está [Izas Chaqueta de Punto Lucania](https://www.amazon.es/dp/B00R4JVOUU/?tag=tolees-21) con 53.19 de descuento por 23.85 EUR (original: 50.95 EUR) en el siguiente enlace!

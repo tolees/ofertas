@@ -14,7 +14,7 @@ currency: EUR
 price: 34.97
 comparePrice: 80 EUR
 inStock: true
-prodname: Burton Bonded Crew Sudadera  Hombre  Monument Heather  M
+prodname: 'Burton Bonded Crew Sudadera  Hombre  Monument Heather  M'
 ---
 
 Tienes [Burton Bonded Crew Sudadera  Hombre  Monument Heather  M](https://www.amazon.es/dp/B06X9HHB2B/?tag=tolees-21) con un 56.29 % de descuento con precio de oferta de 34.97 EUR (original: 80 EUR) en el siguiente enlace!

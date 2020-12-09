@@ -14,7 +14,7 @@ currency: EUR
 price: 35.72
 comparePrice: 59.95 EUR
 inStock: true
-prodname: All Black Dildo Fisting  35 cm - 1 unidad
+prodname: 'All Black Dildo Fisting  35 cm - 1 unidad'
 ---
 
 Tienes [All Black Dildo Fisting  35 cm - 1 unidad](https://www.amazon.es/dp/B00HTIWVQ2/?tag=tolees-21) con un 40.42 % de descuento con precio de oferta de 35.72 EUR (original: 59.95 EUR) en el siguiente enlace!

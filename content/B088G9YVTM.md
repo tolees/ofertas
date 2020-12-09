@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 38.99 EUR
 inStock: true
-prodname: Oral-B CrossAction Cabezales de recambio con tecnología CleanMaximiser  Pack de 8
+prodname: 'Oral-B CrossAction Cabezales de recambio con tecnología CleanMaximiser  Pack de 8'
 ---
 
 Está [Oral-B CrossAction Cabezales de recambio con tecnología CleanMaximiser  Pack de 8](https://www.amazon.es/dp/B088G9YVTM/?tag=tolees-21) con 41.04 de descuento por 22.99 EUR (original: 38.99 EUR) en el siguiente enlace!

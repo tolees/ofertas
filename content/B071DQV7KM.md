@@ -14,7 +14,7 @@ currency: EUR
 price: 35.34
 comparePrice: 53.34 EUR
 inStock: true
-prodname: TALIUS Xentinel - Caja Gaming ATX - USB 3.0 - USB 2.0 - Sin Fuente - Blanca
+prodname: 'TALIUS Xentinel - Caja Gaming ATX - USB 3.0 - USB 2.0 - Sin Fuente - Blanca'
 ---
 
 Tienes [TALIUS Xentinel - Caja Gaming ATX - USB 3.0 - USB 2.0 - Sin Fuente - Blanca](https://www.amazon.es/dp/B071DQV7KM/?tag=tolees-21) con un 33.75 % de descuento con precio de oferta de 35.34 EUR (original: 53.34 EUR) en el siguiente enlace!

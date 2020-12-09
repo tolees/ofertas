@@ -14,7 +14,7 @@ currency: EUR
 price: 11.0
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Jesucristo  Pack  [Bly-Ray] [Blu-ray]
+prodname: 'Jesucristo  Pack  [Bly-Ray] [Blu-ray]'
 ---
 
 Tienes [Jesucristo  Pack  [Bly-Ray] [Blu-ray]](https://www.amazon.es/dp/B08HW4F2BJ/?tag=tolees-21) con un 47.59 % de descuento con precio de oferta de 11.0 EUR (original: 20.99 EUR) en el siguiente enlace!

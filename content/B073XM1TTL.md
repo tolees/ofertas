@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: homgeek Batidora de Vaso Individual  Licuadora Portatil 350W para Smoothies  Frutas y Verduras  Incluye 2 Botellas de 600 ml  Cuerpo de Acero Inoxidable  Operación con Solo Botón  Sin BPA  Plata
+prodname: 'homgeek Batidora de Vaso Individual  Licuadora Portatil 350W para Smoothies  Frutas y Verduras  Incluye 2 Botellas de 600 ml  Cuerpo de Acero Inoxidable  Operación con Solo Botón  Sin BPA  Plata'
 ---
 
 Tienes [homgeek Batidora de Vaso Individual  Licuadora Portatil 350W para Smoothies  Frutas y Verduras  Incluye 2 Botellas de 600 ml  Cuerpo de Acero Inoxidable  Operación con Solo Botón  Sin BPA  Plata](https://www.amazon.es/dp/B073XM1TTL/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

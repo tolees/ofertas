@@ -14,7 +14,7 @@ currency: EUR
 price: 29.54
 comparePrice: 70 EUR
 inStock: true
-prodname: Morgan 191-reine.n  Vestido Fiesta Mujer  Rojo Lipstick  38  Talla del Fabricante: T38 
+prodname: 'Morgan 191-reine.n  Vestido Fiesta Mujer  Rojo Lipstick  38  Talla del Fabricante: T38 '
 ---
 
 Tienes [Morgan 191-reine.n  Vestido Fiesta Mujer  Rojo Lipstick  38  Talla del Fabricante: T38 ](https://www.amazon.es/dp/B07JN23KLQ/?tag=tolees-21) con un 57.80 % de descuento con precio de oferta de 29.54 EUR (original: 70 EUR) en el siguiente enlace!

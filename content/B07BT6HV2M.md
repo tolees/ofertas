@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: BULLIANT Hombre Cinturón  Cuero Cinturón Reversible Tamaño Ajuste
+prodname: 'BULLIANT Hombre Cinturón  Cuero Cinturón Reversible Tamaño Ajuste'
 ---
 
 Ahora mismo tienes [BULLIANT Hombre Cinturón  Cuero Cinturón Reversible Tamaño Ajuste](https://www.amazon.es/dp/B07BT6HV2M/?tag=tolees-21) a 17.99 EUR (original: 34.99 EUR) (48.59 %  de descuento) en el siguiente enlace!

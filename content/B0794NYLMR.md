@@ -14,7 +14,7 @@ currency: EUR
 price: 30.67
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Glide 2.0 Ultra  Zapatillas para Hombre  Negro  Black Blk   44 EU
+prodname: 'Skechers Glide 2.0 Ultra  Zapatillas para Hombre  Negro  Black Blk   44 EU'
 ---
 
 Está [Skechers Glide 2.0 Ultra  Zapatillas para Hombre  Negro  Black Blk   44 EU](https://www.amazon.es/dp/B0794NYLMR/?tag=tolees-21) con 52.78 de descuento por 30.67 EUR (original: 64.95 EUR) en el siguiente enlace!

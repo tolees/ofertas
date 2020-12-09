@@ -14,7 +14,7 @@ currency: EUR
 price: 11.5
 comparePrice: 23 EUR
 inStock: true
-prodname: Kipling - Inami S  Monederos Mujer  Multicolor  Colab Print 
+prodname: 'Kipling - Inami S  Monederos Mujer  Multicolor  Colab Print '
 ---
 
 Ahora mismo tienes [Kipling - Inami S  Monederos Mujer  Multicolor  Colab Print ](https://www.amazon.es/dp/B07DK9ZGTC/?tag=tolees-21) a 11.5 EUR (original: 23 EUR) (50.00 %  de descuento) en el siguiente enlace!

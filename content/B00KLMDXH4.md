@@ -14,7 +14,7 @@ currency: EUR
 price: 28.7
 comparePrice: 54.73 EUR
 inStock: true
-prodname: Nike Dry Academy 18 Football Trkst Chandal  Unisex niños  Blanco  White/Black   L
+prodname: 'Nike Dry Academy 18 Football Trkst Chandal  Unisex niños  Blanco  White/Black   L'
 ---
 
 Tienes [Nike Dry Academy 18 Football Trkst Chandal  Unisex niños  Blanco  White/Black   L](https://www.amazon.es/dp/B00KLMDXH4/?tag=tolees-21) con un 47.56 % de descuento con precio de oferta de 28.7 EUR (original: 54.73 EUR) en el siguiente enlace!

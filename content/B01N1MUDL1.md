@@ -14,7 +14,7 @@ currency: EUR
 price: 54.34
 comparePrice: 100 EUR
 inStock: true
-prodname: Under Armour UA Charged Bandit 3  Zapatillas de Running para Hombre   Marathon Red/Cardinal/Black   47 EU
+prodname: 'Under Armour UA Charged Bandit 3  Zapatillas de Running para Hombre   Marathon Red/Cardinal/Black   47 EU'
 ---
 
 Está [Under Armour UA Charged Bandit 3  Zapatillas de Running para Hombre   Marathon Red/Cardinal/Black   47 EU](https://www.amazon.es/dp/B01N1MUDL1/?tag=tolees-21) con 45.66 de descuento por 54.34 EUR (original: 100 EUR) en el siguiente enlace!

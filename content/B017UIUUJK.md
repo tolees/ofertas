@@ -14,7 +14,7 @@ currency: EUR
 price: 201.99
 comparePrice: 287.88 EUR
 inStock: true
-prodname: Classic Blanc - Topper/Sobrecolchón viscoelástico 5 cm  con funda lavable y tratamiento Aloe Vera  firmeza media. 180x200cm-Cama 180  Todas las medidas 
+prodname: 'Classic Blanc - Topper/Sobrecolchón viscoelástico 5 cm  con funda lavable y tratamiento Aloe Vera  firmeza media. 180x200cm-Cama 180  Todas las medidas '
 ---
 
 Tienes [Classic Blanc - Topper/Sobrecolchón viscoelástico 5 cm  con funda lavable y tratamiento Aloe Vera  firmeza media. 180x200cm-Cama 180  Todas las medidas ](https://www.amazon.es/dp/B017UIUUJK/?tag=tolees-21) con un 29.84 % de descuento con precio de oferta de 201.99 EUR (original: 287.88 EUR) en el siguiente enlace!

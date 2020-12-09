@@ -14,7 +14,7 @@ currency: EUR
 price: 37.52
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Frozen 2 - Castillo De Arendelle Portátil  Hasbro E5511EU4 
+prodname: 'Frozen 2 - Castillo De Arendelle Portátil  Hasbro E5511EU4 '
 ---
 
 Tienes [Frozen 2 - Castillo De Arendelle Portátil  Hasbro E5511EU4 ](https://www.amazon.es/dp/B07M59WCMY/?tag=tolees-21) con un 37.46 % de descuento con precio de oferta de 37.52 EUR (original: 59.99 EUR) en el siguiente enlace!

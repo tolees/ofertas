@@ -14,7 +14,7 @@ currency: EUR
 price: 11.5
 comparePrice: 16.95 EUR
 inStock: true
-prodname: Monix Induction Express - Cafetera italiana inducción  aluminio  capacidad 6 tazas  color plata
+prodname: 'Monix Induction Express - Cafetera italiana inducción  aluminio  capacidad 6 tazas  color plata'
 ---
 
 Tienes [Monix Induction Express - Cafetera italiana inducción  aluminio  capacidad 6 tazas  color plata](https://www.amazon.es/dp/B07CTHCSF2/?tag=tolees-21) con un 32.15 % de descuento con precio de oferta de 11.5 EUR (original: 16.95 EUR) en el siguiente enlace!

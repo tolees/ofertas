@@ -14,7 +14,7 @@ currency: EUR
 price: 44.4
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance Nitrel v2  Zapatillas de Running para Asfalto para Hombre  Azul  Galaxy/Polaris/Flame Lg2   42.5 EU
+prodname: 'New Balance Nitrel v2  Zapatillas de Running para Asfalto para Hombre  Azul  Galaxy/Polaris/Flame Lg2   42.5 EU'
 ---
 
 Tienes [New Balance Nitrel v2  Zapatillas de Running para Asfalto para Hombre  Azul  Galaxy/Polaris/Flame Lg2   42.5 EU](https://www.amazon.es/dp/B07B6XLRN1/?tag=tolees-21) con un 50.67 % de descuento con precio de oferta de 44.4 EUR (original: 90 EUR) en el siguiente enlace!

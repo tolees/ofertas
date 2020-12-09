@@ -14,7 +14,7 @@ currency: EUR
 price: 12.6
 comparePrice: 18 EUR
 inStock: true
-prodname: AURIQUE Capri Stripe Leggings Deporte  Gris  Grey Marl/Black   42  Talla del Fabricante: Large 
+prodname: 'AURIQUE Capri Stripe Leggings Deporte  Gris  Grey Marl/Black   42  Talla del Fabricante: Large '
 ---
 
 Tienes [AURIQUE Capri Stripe Leggings Deporte  Gris  Grey Marl/Black   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07D3GGDY7/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 12.6 EUR (original: 18 EUR) en el siguiente enlace!

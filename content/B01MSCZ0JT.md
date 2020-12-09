@@ -14,7 +14,7 @@ currency: EUR
 price: 33.26
 comparePrice: 60 EUR
 inStock: true
-prodname: The North Face Piqué Polo de Manga Corta  Hombre  Blanco  TNF White   S
+prodname: 'The North Face Piqué Polo de Manga Corta  Hombre  Blanco  TNF White   S'
 ---
 
 Ahora mismo tienes [The North Face Piqué Polo de Manga Corta  Hombre  Blanco  TNF White   S](https://www.amazon.es/dp/B01MSCZ0JT/?tag=tolees-21) a 33.26 EUR (original: 60 EUR) (44.57 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32.9
 comparePrice: 43.99 EUR
 inStock: true
-prodname: Tristar RK-6129 - Arrocera  Capacidad 2.2 litros  Función para Mantener el Calor  Apagado Automático  Incluye Taza Medidora  Espátula y Cuchara  900 W
+prodname: 'Tristar RK-6129 - Arrocera  Capacidad 2.2 litros  Función para Mantener el Calor  Apagado Automático  Incluye Taza Medidora  Espátula y Cuchara  900 W'
 ---
 
 Está [Tristar RK-6129 - Arrocera  Capacidad 2.2 litros  Función para Mantener el Calor  Apagado Automático  Incluye Taza Medidora  Espátula y Cuchara  900 W](https://www.amazon.es/dp/B00RXQJDWA/?tag=tolees-21) con 25.21 de descuento por 32.9 EUR (original: 43.99 EUR) en el siguiente enlace!

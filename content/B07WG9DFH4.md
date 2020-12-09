@@ -14,13 +14,15 @@ currency: EUR
 price: 125.99
 comparePrice: 179.99 EUR
 inStock: true
-prodname: KODAK SMILE Classic Cámara Instantánea Digital c/Bluetooth  16MP  35 impresiones p/carga  Incluye papel ZINK 3 5 x 4 25"  marcos con stickers  Azul
+prodname: 'KODAK SMILE Classic Cámara Instantánea Digital c/Bluetooth  16MP  35 impresiones p/carga  Incluye papel ZINK 3 5 x 4 25"  marcos con stickers  Azul'
 ---
 
-Ahora mismo tienes [KODAK SMILE Classic Cámara Instantánea Digital c/Bluetooth  16MP  35 impresiones p/carga  Incluye papel ZINK 3 5 x 4 25"  marcos con stickers  Azul](https://www.amazon.es/dp/B07WG9DFH4/?tag=tolees-21) a 125.99 EUR (original: 179.99 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [KODAK SMILE Classic Cámara Instantánea Digital c/Bluetooth  16MP  35 impresiones p/carga  Incluye papel ZINK 3 5 x 4 25"  marcos con stickers  Azul](https://www.amazon.es/dp/B07WG9DFH4/?tag=tolees-21) con 30.00 de descuento por 125.99 EUR (original: 179.99 EUR) en el siguiente enlace!
 
 [![KODAK SMILE Classic Cámara Instantánea D](https://m.media-amazon.com/images/I/41fNbyJrA9L._SL200_.jpg)](https://www.amazon.es/dp/B07WG9DFH4/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07WG9DFH4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07WG9DFH4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

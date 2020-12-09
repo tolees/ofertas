@@ -14,7 +14,7 @@ currency: EUR
 price: 27.77
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Morton Vaqueros Rectos  Negro  Black Rinse YC47   29W / 34L para Hombre
+prodname: 'Lee Morton Vaqueros Rectos  Negro  Black Rinse YC47   29W / 34L para Hombre'
 ---
 
 Tienes [Lee Morton Vaqueros Rectos  Negro  Black Rinse YC47   29W / 34L para Hombre](https://www.amazon.es/dp/B071GKJQSW/?tag=tolees-21) con un 69.13 % de descuento con precio de oferta de 27.77 EUR (original: 89.95 EUR) en el siguiente enlace!

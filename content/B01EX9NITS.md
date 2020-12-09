@@ -14,7 +14,7 @@ currency: EUR
 price: 8.13
 comparePrice: 16.79 EUR
 inStock: true
-prodname: LEDKIA LIGHTING Plafón LED Circular 24W Blanco Cálido 2800K - 3200K
+prodname: 'LEDKIA LIGHTING Plafón LED Circular 24W Blanco Cálido 2800K - 3200K'
 ---
 
 Ahora mismo tienes [LEDKIA LIGHTING Plafón LED Circular 24W Blanco Cálido 2800K - 3200K](https://www.amazon.es/dp/B01EX9NITS/?tag=tolees-21) a 8.13 EUR (original: 16.79 EUR) (51.58 %  de descuento) en el siguiente enlace!

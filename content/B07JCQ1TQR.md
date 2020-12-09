@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: COMFAST WiFi Repetidor Amplificador de WiFi 300Mbps Extensor de Red WiFi Inalámbrico  Modo Enrutador/Repetidor/Ap  2 4G  Dos Antenas  WPS  Puerto Ethernet  Versión Actualizada 
+prodname: 'COMFAST WiFi Repetidor Amplificador de WiFi 300Mbps Extensor de Red WiFi Inalámbrico  Modo Enrutador/Repetidor/Ap  2 4G  Dos Antenas  WPS  Puerto Ethernet  Versión Actualizada '
 ---
 
 Está [COMFAST WiFi Repetidor Amplificador de WiFi 300Mbps Extensor de Red WiFi Inalámbrico  Modo Enrutador/Repetidor/Ap  2 4G  Dos Antenas  WPS  Puerto Ethernet  Versión Actualizada ](https://www.amazon.es/dp/B07JCQ1TQR/?tag=tolees-21) con 45.01 de descuento por 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 44.95
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Tommy Knit Shiny Rain Boot  Botas de Agua para Mujer  Plateado  Silver 000   38 EU
+prodname: 'Tommy Hilfiger Tommy Knit Shiny Rain Boot  Botas de Agua para Mujer  Plateado  Silver 000   38 EU'
 ---
 
 Tienes [Tommy Hilfiger Tommy Knit Shiny Rain Boot  Botas de Agua para Mujer  Plateado  Silver 000   38 EU](https://www.amazon.es/dp/B07BWP5ZN8/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 44.95 EUR (original: 89.9 EUR) en el siguiente enlace!

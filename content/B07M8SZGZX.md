@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Calcetines deportivos de alto rendimiento para hombres y mujeres  circulación y recuperación  deportes  viajes  correr  caminar  caminar  disipación de calor y absorción de sudor  15-20 mmHg
+prodname: 'Calcetines deportivos de alto rendimiento para hombres y mujeres  circulación y recuperación  deportes  viajes  correr  caminar  caminar  disipación de calor y absorción de sudor  15-20 mmHg'
 ---
 
 Está [Calcetines deportivos de alto rendimiento para hombres y mujeres  circulación y recuperación  deportes  viajes  correr  caminar  caminar  disipación de calor y absorción de sudor  15-20 mmHg](https://www.amazon.es/dp/B07M8SZGZX/?tag=tolees-21) con 65.02 de descuento por 13.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 61.92
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Columbia Hombre Chaqueta impermeable  Inner Limits Jacket  Poliéster  Negro/Azul  Cool Grey Heather/Collegiate Blue   Talla: M  1714181
+prodname: 'Columbia Hombre Chaqueta impermeable  Inner Limits Jacket  Poliéster  Negro/Azul  Cool Grey Heather/Collegiate Blue   Talla: M  1714181'
 ---
 
 Está [Columbia Hombre Chaqueta impermeable  Inner Limits Jacket  Poliéster  Negro/Azul  Cool Grey Heather/Collegiate Blue   Talla: M  1714181](https://www.amazon.es/dp/B07KSQ71YN/?tag=tolees-21) con 38.07 de descuento por 61.92 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 73.67 EUR
 inStock: true
-prodname: Pack: Erase Una Vez + Temporada Completa 1-7 [DVD]
+prodname: 'Pack: Erase Una Vez + Temporada Completa 1-7 [DVD]'
 ---
 
 Ahora mismo tienes [Pack: Erase Una Vez + Temporada Completa 1-7 [DVD]](https://www.amazon.es/dp/B07GWSQJF6/?tag=tolees-21) a 33.99 EUR (original: 73.67 EUR) (53.86 %  de descuento) en el siguiente enlace!

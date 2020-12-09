@@ -14,7 +14,7 @@ currency: EUR
 price: 28.95
 comparePrice: 44.9 EUR
 inStock: true
-prodname: Spiuk Spicy - Gafas de Ciclismo Unisex  Color Naranja Mate/Blanco
+prodname: 'Spiuk Spicy - Gafas de Ciclismo Unisex  Color Naranja Mate/Blanco'
 ---
 
 Está [Spiuk Spicy - Gafas de Ciclismo Unisex  Color Naranja Mate/Blanco](https://www.amazon.es/dp/B00Y8GHYME/?tag=tolees-21) con 35.52 de descuento por 28.95 EUR (original: 44.9 EUR) en el siguiente enlace!

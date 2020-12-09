@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: PUMA Performance Train Light Quarter 2p deporte  Negro  Green/Black 315   39/42  Talla del fabricante: 039   Pack de 2  para Hombre
+prodname: 'PUMA Performance Train Light Quarter 2p deporte  Negro  Green/Black 315   39/42  Talla del fabricante: 039   Pack de 2  para Hombre'
 ---
 
 Tienes [PUMA Performance Train Light Quarter 2p deporte  Negro  Green/Black 315   39/42  Talla del fabricante: 039   Pack de 2  para Hombre](https://www.amazon.es/dp/B07PRN1KBR/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

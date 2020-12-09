@@ -14,7 +14,7 @@ currency: EUR
 price: 14.73
 comparePrice: 19.67 EUR
 inStock: true
-prodname: Geox D Genova C  Bailarinas para Mujer  Azul  Blue C4000   37 EU
+prodname: 'Geox D Genova C  Bailarinas para Mujer  Azul  Blue C4000   37 EU'
 ---
 
 Tienes [Geox D Genova C  Bailarinas para Mujer  Azul  Blue C4000   37 EU](https://www.amazon.es/dp/B07SVXXGRZ/?tag=tolees-21) con un 25.11 % de descuento con precio de oferta de 14.73 EUR (original: 19.67 EUR) en el siguiente enlace!

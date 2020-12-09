@@ -14,7 +14,7 @@ currency: EUR
 price: 13.5
 comparePrice: 45 EUR
 inStock: true
-prodname: FIND 13641 vestido fiesta mujer  Rojo  Red   44  Talla del Fabricante: X-Large 
+prodname: 'FIND 13641 vestido fiesta mujer  Rojo  Red   44  Talla del Fabricante: X-Large '
 ---
 
 Está [FIND 13641 vestido fiesta mujer  Rojo  Red   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01MRXPZZZ/?tag=tolees-21) con 70.00 de descuento por 13.5 EUR (original: 45 EUR) en el siguiente enlace!

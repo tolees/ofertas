@@ -14,7 +14,7 @@ currency: EUR
 price: 7.43
 comparePrice: 11.17 EUR
 inStock: true
-prodname: Longspeed Soporte de grabación de micrófono Profesional Soporte de Soporte de Brazo de suspensión de micrófono para transmisión de Estudio Negro - Negro
+prodname: 'Longspeed Soporte de grabación de micrófono Profesional Soporte de Soporte de Brazo de suspensión de micrófono para transmisión de Estudio Negro - Negro'
 ---
 
 Tienes [Longspeed Soporte de grabación de micrófono Profesional Soporte de Soporte de Brazo de suspensión de micrófono para transmisión de Estudio Negro - Negro](https://www.amazon.es/dp/B08M3J8WNF/?tag=tolees-21) con un 33.48 % de descuento con precio de oferta de 7.43 EUR (original: 11.17 EUR) en el siguiente enlace!

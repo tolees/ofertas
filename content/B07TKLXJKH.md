@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Jaimie Jacobs Cartera Mágica Flap Boy Magic Wallet Carteras Hombres Cuero auténtico  Carbon 
+prodname: 'Jaimie Jacobs Cartera Mágica Flap Boy Magic Wallet Carteras Hombres Cuero auténtico  Carbon '
 ---
 
 Está [Jaimie Jacobs Cartera Mágica Flap Boy Magic Wallet Carteras Hombres Cuero auténtico  Carbon ](https://www.amazon.es/dp/B07TKLXJKH/?tag=tolees-21) con 30.30 de descuento por 69.0 EUR (original: 99.0 EUR) en el siguiente enlace!

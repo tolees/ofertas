@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Soggy Doggy Juego  Perro Que Moja  Giochi Preziosi Spagna GGY00001
+prodname: 'Soggy Doggy Juego  Perro Que Moja  Giochi Preziosi Spagna GGY00001'
 ---
 
 Ahora mismo tienes [Soggy Doggy Juego  Perro Que Moja  Giochi Preziosi Spagna GGY00001](https://www.amazon.es/dp/B06WGP9YJF/?tag=tolees-21) a 12.99 EUR (original: 34.99 EUR) (62.88 %  de descuento) en el siguiente enlace!

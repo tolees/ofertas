@@ -14,7 +14,7 @@ currency: EUR
 price: 5.67
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Resident Evil  Blu-Ray  [Italia] [Blu-ray]
+prodname: 'Resident Evil  Blu-Ray  [Italia] [Blu-ray]'
 ---
 
 Ahora mismo tienes [Resident Evil  Blu-Ray  [Italia] [Blu-ray]](https://www.amazon.es/dp/B01MZXJF1M/?tag=tolees-21) a 5.67 EUR (original: 12.99 EUR) (56.35 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.3
 comparePrice: 41.58 EUR
 inStock: true
-prodname: Marca Amazon - MERAKI Jersey de Algodón con Cremallera Hombre  Gris  Charcoal   M  Label: M
+prodname: 'Marca Amazon - MERAKI Jersey de Algodón con Cremallera Hombre  Gris  Charcoal   M  Label: M'
 ---
 
 Ahora mismo tienes [Marca Amazon - MERAKI Jersey de Algodón con Cremallera Hombre  Gris  Charcoal   M  Label: M](https://www.amazon.es/dp/B07PS6BM9X/?tag=tolees-21) a 14.3 EUR (original: 41.58 EUR) (65.61 %  de descuento) en el siguiente enlace!

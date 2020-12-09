@@ -14,7 +14,7 @@ currency: EUR
 price: 26.71
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Under Armour Fly by Capri Pantalones  Women  Negro  Black   MD
+prodname: 'Under Armour Fly by Capri Pantalones  Women  Negro  Black   MD'
 ---
 
 Está [Under Armour Fly by Capri Pantalones  Women  Negro  Black   MD](https://www.amazon.es/dp/B01COAD5BO/?tag=tolees-21) con 46.53 de descuento por 26.71 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.33
 comparePrice: 53.81 EUR
 inStock: true
-prodname: AmazonBasics – Maleta de mano con ruedas flexible y ligera  56 cm  Gris
+prodname: 'AmazonBasics – Maleta de mano con ruedas flexible y ligera  56 cm  Gris'
 ---
 
 Está [AmazonBasics – Maleta de mano con ruedas flexible y ligera  56 cm  Gris](https://www.amazon.es/dp/B07HG77SBJ/?tag=tolees-21) con 58.50 de descuento por 22.33 EUR (original: 53.81 EUR) en el siguiente enlace!

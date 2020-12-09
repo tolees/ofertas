@@ -14,7 +14,7 @@ currency: EUR
 price: 5.21
 comparePrice: 7.5 EUR
 inStock: true
-prodname: Astor Perfect Stay Fabulous Matte Barra de Labios Tono 500 Daning Berry - 19 gr
+prodname: 'Astor Perfect Stay Fabulous Matte Barra de Labios Tono 500 Daning Berry - 19 gr'
 ---
 
 Tienes [Astor Perfect Stay Fabulous Matte Barra de Labios Tono 500 Daning Berry - 19 gr](https://www.amazon.es/dp/B01MQDK2KF/?tag=tolees-21) con un 30.53 % de descuento con precio de oferta de 5.21 EUR (original: 7.5 EUR) en el siguiente enlace!

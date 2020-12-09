@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: EverVanz Mochila para Laptop  Mujer &Hombre Enrollable Resistente al Agua  Viajes Mochila para Excursiones  Mochila Casual Ligera Bolsa con Estilo para la Escuela
+prodname: 'EverVanz Mochila para Laptop  Mujer &Hombre Enrollable Resistente al Agua  Viajes Mochila para Excursiones  Mochila Casual Ligera Bolsa con Estilo para la Escuela'
 ---
 
 Tienes [EverVanz Mochila para Laptop  Mujer &Hombre Enrollable Resistente al Agua  Viajes Mochila para Excursiones  Mochila Casual Ligera Bolsa con Estilo para la Escuela](https://www.amazon.es/dp/B0829TVFMN/?tag=tolees-21) con un 56.26 % de descuento con precio de oferta de 34.99 EUR (original: 79.99 EUR) en el siguiente enlace!

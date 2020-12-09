@@ -14,7 +14,7 @@ currency: EUR
 price: 15.71
 comparePrice: 27.3 EUR
 inStock: true
-prodname: HIKARO Sudadera con Capucha Hombre  Verde  Khaki   52  Talla del fabricante: Large 
+prodname: 'HIKARO Sudadera con Capucha Hombre  Verde  Khaki   52  Talla del fabricante: Large '
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Capucha Hombre  Verde  Khaki   52  Talla del fabricante: Large ](https://www.amazon.es/dp/B077Z5QHPP/?tag=tolees-21) a 15.71 EUR (original: 27.3 EUR) (42.45 %  de descuento) en el siguiente enlace!

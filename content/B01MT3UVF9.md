@@ -14,7 +14,7 @@ currency: EUR
 price: 7.35
 comparePrice: 11.64 EUR
 inStock: true
-prodname: Durex Gel Intense Orgasmic Estimulador del clítoris - 10 ml
+prodname: 'Durex Gel Intense Orgasmic Estimulador del clítoris - 10 ml'
 ---
 
 Tienes [Durex Gel Intense Orgasmic Estimulador del clítoris - 10 ml](https://www.amazon.es/dp/B01MT3UVF9/?tag=tolees-21) con un 36.86 % de descuento con precio de oferta de 7.35 EUR (original: 11.64 EUR) en el siguiente enlace!

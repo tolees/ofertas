@@ -14,7 +14,7 @@ currency: EUR
 price: 5.96
 comparePrice: 8.6 EUR
 inStock: true
-prodname: Joma Combi Camiseta Manga Corta  Hombre  Verde  Fluor   6XS-5XS
+prodname: 'Joma Combi Camiseta Manga Corta  Hombre  Verde  Fluor   6XS-5XS'
 ---
 
 Tienes [Joma Combi Camiseta Manga Corta  Hombre  Verde  Fluor   6XS-5XS](https://www.amazon.es/dp/B01CSTOOSO/?tag=tolees-21) con un 30.70 % de descuento con precio de oferta de 5.96 EUR (original: 8.6 EUR) en el siguiente enlace!

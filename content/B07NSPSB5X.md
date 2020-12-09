@@ -14,7 +14,7 @@ currency: EUR
 price: 8.95
 comparePrice: 11.97 EUR
 inStock: true
-prodname: Garnier Fructis Liso & Brillo 10 en 1 Crema Sin Aclarado para Pelo Liso  Rebelde  Difícil de Alisar - 3 Unidades x 400 ml
+prodname: 'Garnier Fructis Liso & Brillo 10 en 1 Crema Sin Aclarado para Pelo Liso  Rebelde  Difícil de Alisar - 3 Unidades x 400 ml'
 ---
 
 Tienes [Garnier Fructis Liso & Brillo 10 en 1 Crema Sin Aclarado para Pelo Liso  Rebelde  Difícil de Alisar - 3 Unidades x 400 ml](https://www.amazon.es/dp/B07NSPSB5X/?tag=tolees-21) con un 25.23 % de descuento con precio de oferta de 8.95 EUR (original: 11.97 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
-prodname: LEBE Funda para Samsung Galaxy A10 Cuero Carcasa con Flip Case Cover[Cierre Magnético] [Ranuras para Tarjetas]para Samsung Galaxy A10 / Galaxy M10 -Marrón
+prodname: 'LEBE Funda para Samsung Galaxy A10 Cuero Carcasa con Flip Case Cover[Cierre Magnético] [Ranuras para Tarjetas]para Samsung Galaxy A10 / Galaxy M10 -Marrón'
 ---
 
 Tienes [LEBE Funda para Samsung Galaxy A10 Cuero Carcasa con Flip Case Cover[Cierre Magnético] [Ranuras para Tarjetas]para Samsung Galaxy A10 / Galaxy M10 -Marrón](https://www.amazon.es/dp/B082GF5CHW/?tag=tolees-21) con un 28.59 % de descuento con precio de oferta de 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

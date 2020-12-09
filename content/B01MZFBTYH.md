@@ -14,7 +14,7 @@ currency: EUR
 price: 83.6
 comparePrice: 140 EUR
 inStock: true
-prodname: Wilson Raqueta de Tenis  Six.One Team 95  Unisex  Jugadores intermedios  Rojo/Gris  Tamaño de empuñadura L3
+prodname: 'Wilson Raqueta de Tenis  Six.One Team 95  Unisex  Jugadores intermedios  Rojo/Gris  Tamaño de empuñadura L3'
 ---
 
 Ahora mismo tienes [Wilson Raqueta de Tenis  Six.One Team 95  Unisex  Jugadores intermedios  Rojo/Gris  Tamaño de empuñadura L3](https://www.amazon.es/dp/B01MZFBTYH/?tag=tolees-21) a 83.6 EUR (original: 140 EUR) (40.29 %  de descuento) en el siguiente enlace!

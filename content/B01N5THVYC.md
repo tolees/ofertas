@@ -14,7 +14,7 @@ currency: EUR
 price: 5.58
 comparePrice: 9.87 EUR
 inStock: true
-prodname: Pekebaby 15502000 50 B - Bajera de Cuna  Blanco
+prodname: 'Pekebaby 15502000 50 B - Bajera de Cuna  Blanco'
 ---
 
 Ahora mismo tienes [Pekebaby 15502000 50 B - Bajera de Cuna  Blanco](https://www.amazon.es/dp/B01N5THVYC/?tag=tolees-21) a 5.58 EUR (original: 9.87 EUR) (43.47 %  de descuento) en el siguiente enlace!

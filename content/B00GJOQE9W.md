@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Panasonic EH-NA65-K825 Secador Profesional para Hidratación y Brillo  Tecnología Nanoe Avanzada  2000 W Potente  3 Velocidades y 4 Temperaturas  Botón de Aire Frio  Con Difusor  Negro y Rosa
+prodname: 'Panasonic EH-NA65-K825 Secador Profesional para Hidratación y Brillo  Tecnología Nanoe Avanzada  2000 W Potente  3 Velocidades y 4 Temperaturas  Botón de Aire Frio  Con Difusor  Negro y Rosa'
 ---
 
 Ahora mismo tienes [Panasonic EH-NA65-K825 Secador Profesional para Hidratación y Brillo  Tecnología Nanoe Avanzada  2000 W Potente  3 Velocidades y 4 Temperaturas  Botón de Aire Frio  Con Difusor  Negro y Rosa](https://www.amazon.es/dp/B00GJOQE9W/?tag=tolees-21) a 69.99 EUR (original: 99.0 EUR) (29.30 %  de descuento) en el siguiente enlace!

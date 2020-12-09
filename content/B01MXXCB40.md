@@ -14,7 +14,7 @@ currency: EUR
 price: 5.46
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Vero Moda Vmsally S/s Top Box D2-3 Camiseta  Blanco  Snow White   36  Talla del Fabricante: Small  para Mujer
+prodname: 'Vero Moda Vmsally S/s Top Box D2-3 Camiseta  Blanco  Snow White   36  Talla del Fabricante: Small  para Mujer'
 ---
 
 Está [Vero Moda Vmsally S/s Top Box D2-3 Camiseta  Blanco  Snow White   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B01MXXCB40/?tag=tolees-21) con 63.58 de descuento por 5.46 EUR (original: 14.99 EUR) en el siguiente enlace!

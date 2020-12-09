@@ -14,7 +14,7 @@ currency: EUR
 price: 405.1
 comparePrice: 562.63 EUR
 inStock: true
-prodname: PIKOLIN Colchón viscoelástico 105x190 firmeza Alta  Alta Densidad  Reversible  Gama Alta  Alto 27 cm - Colchones Dardania
+prodname: 'PIKOLIN Colchón viscoelástico 105x190 firmeza Alta  Alta Densidad  Reversible  Gama Alta  Alto 27 cm - Colchones Dardania'
 ---
 
 Tienes [PIKOLIN Colchón viscoelástico 105x190 firmeza Alta  Alta Densidad  Reversible  Gama Alta  Alto 27 cm - Colchones Dardania](https://www.amazon.es/dp/B07LBXP9V4/?tag=tolees-21) con un 28.00 % de descuento con precio de oferta de 405.1 EUR (original: 562.63 EUR) en el siguiente enlace!

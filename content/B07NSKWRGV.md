@@ -14,7 +14,7 @@ currency: EUR
 price: 5.09
 comparePrice: 11.75 EUR
 inStock: true
-prodname: Rimmel London Wonder Luxe Volume Máscara de Pestañas Tono 001 Black  Gama Negros  - 11 ml
+prodname: 'Rimmel London Wonder Luxe Volume Máscara de Pestañas Tono 001 Black  Gama Negros  - 11 ml'
 ---
 
 Está [Rimmel London Wonder Luxe Volume Máscara de Pestañas Tono 001 Black  Gama Negros  - 11 ml](https://www.amazon.es/dp/B07NSKWRGV/?tag=tolees-21) con 56.68 de descuento por 5.09 EUR (original: 11.75 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 649.0
 comparePrice: 900.0 EUR
 inStock: true
-prodname: Sony SEL70350G  Objetivo de Montura E  Supertele Objetivo G F4.5-6.3 OSS con Rango de Ampliación 5X  Motor Lineal de Baja Vibración  SteadyShot Óptico  Resistente al Polvo y Humedad 
+prodname: 'Sony SEL70350G  Objetivo de Montura E  Supertele Objetivo G F4.5-6.3 OSS con Rango de Ampliación 5X  Motor Lineal de Baja Vibración  SteadyShot Óptico  Resistente al Polvo y Humedad '
 ---
 
 Tienes [Sony SEL70350G  Objetivo de Montura E  Supertele Objetivo G F4.5-6.3 OSS con Rango de Ampliación 5X  Motor Lineal de Baja Vibración  SteadyShot Óptico  Resistente al Polvo y Humedad ](https://www.amazon.es/dp/B07X5DGGMQ/?tag=tolees-21) con un 27.89 % de descuento con precio de oferta de 649.0 EUR (original: 900.0 EUR) en el siguiente enlace!

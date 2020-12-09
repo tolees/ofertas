@@ -14,7 +14,7 @@ currency: EUR
 price: 31.38
 comparePrice: 79.38 EUR
 inStock: true
-prodname: New Look Puppy Tooth 5976204  Abrigo para Hombre  Negro  Black Pattern 9  X-Small  Talla del Fabricante: 50 
+prodname: 'New Look Puppy Tooth 5976204  Abrigo para Hombre  Negro  Black Pattern 9  X-Small  Talla del Fabricante: 50 '
 ---
 
 Tienes [New Look Puppy Tooth 5976204  Abrigo para Hombre  Negro  Black Pattern 9  X-Small  Talla del Fabricante: 50 ](https://www.amazon.es/dp/B07JLQV1QM/?tag=tolees-21) con un 60.47 % de descuento con precio de oferta de 31.38 EUR (original: 79.38 EUR) en el siguiente enlace!

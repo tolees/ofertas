@@ -14,7 +14,7 @@ currency: EUR
 price: 30.17
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance Nitrel v2  Zapatillas de Running para Asfalto para Mujer  Azul  Ocean Air/Thunder/Limeade Lo2   36.5 EU
+prodname: 'New Balance Nitrel v2  Zapatillas de Running para Asfalto para Mujer  Azul  Ocean Air/Thunder/Limeade Lo2   36.5 EU'
 ---
 
 Ahora mismo tienes [New Balance Nitrel v2  Zapatillas de Running para Asfalto para Mujer  Azul  Ocean Air/Thunder/Limeade Lo2   36.5 EU](https://www.amazon.es/dp/B07B6XH3CL/?tag=tolees-21) a 30.17 EUR (original: 90 EUR) (66.48 %  de descuento) en el siguiente enlace!

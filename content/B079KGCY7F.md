@@ -14,7 +14,7 @@ currency: EUR
 price: 35.13
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Rider  Vaqueros Slim para Hombre  Azul  Blue Waters CP  W32/L34
+prodname: 'Lee Rider  Vaqueros Slim para Hombre  Azul  Blue Waters CP  W32/L34'
 ---
 
 Tienes [Lee Rider  Vaqueros Slim para Hombre  Azul  Blue Waters CP  W32/L34](https://www.amazon.es/dp/B079KGCY7F/?tag=tolees-21) con un 64.85 % de descuento con precio de oferta de 35.13 EUR (original: 99.95 EUR) en el siguiente enlace!

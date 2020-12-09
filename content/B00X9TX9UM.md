@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 9.0 EUR
 inStock: true
-prodname: Garnier Skin Active Gama Botánica Gel Hidratante Refrescante con Savia de Aloe para Piel Normal - 50 ml
+prodname: 'Garnier Skin Active Gama Botánica Gel Hidratante Refrescante con Savia de Aloe para Piel Normal - 50 ml'
 ---
 
 Está [Garnier Skin Active Gama Botánica Gel Hidratante Refrescante con Savia de Aloe para Piel Normal - 50 ml](https://www.amazon.es/dp/B00X9TX9UM/?tag=tolees-21) con 55.67 de descuento por 3.99 EUR (original: 9.0 EUR) en el siguiente enlace!

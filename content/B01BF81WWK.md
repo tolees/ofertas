@@ -14,7 +14,7 @@ currency: EUR
 price: 12.71
 comparePrice: 23.95 EUR
 inStock: true
-prodname: Berghoff 3700119 Sartén Red 20 cm
+prodname: 'Berghoff 3700119 Sartén Red 20 cm'
 ---
 
 Está [Berghoff 3700119 Sartén Red 20 cm](https://www.amazon.es/dp/B01BF81WWK/?tag=tolees-21) con 46.93 de descuento por 12.71 EUR (original: 23.95 EUR) en el siguiente enlace!

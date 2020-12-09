@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 27.9 EUR
 inStock: true
-prodname: Havaianas Slide Brasil  Sandalias con Punta Abierta Unisex Adulto  Azul  Marine Blue/White   33/34 EU
+prodname: 'Havaianas Slide Brasil  Sandalias con Punta Abierta Unisex Adulto  Azul  Marine Blue/White   33/34 EU'
 ---
 
 Tienes [Havaianas Slide Brasil  Sandalias con Punta Abierta Unisex Adulto  Azul  Marine Blue/White   33/34 EU](https://www.amazon.es/dp/B07FXQ5RPP/?tag=tolees-21) con un 35.52 % de descuento con precio de oferta de 17.99 EUR (original: 27.9 EUR) en el siguiente enlace!

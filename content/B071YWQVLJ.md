@@ -14,7 +14,7 @@ currency: EUR
 price: 22.5
 comparePrice: 44.99 EUR
 inStock: true
-prodname: SPIROGRAPH Super Kit geométrico. Incluye 75 Accesorios  rotuladores y Papel de diseño. A Partir de 8 años. Ref. 41237  Fábrica de Juguetes 41237.0 
+prodname: 'SPIROGRAPH Super Kit geométrico. Incluye 75 Accesorios  rotuladores y Papel de diseño. A Partir de 8 años. Ref. 41237  Fábrica de Juguetes 41237.0 '
 ---
 
 Tienes [SPIROGRAPH Super Kit geométrico. Incluye 75 Accesorios  rotuladores y Papel de diseño. A Partir de 8 años. Ref. 41237  Fábrica de Juguetes 41237.0 ](https://www.amazon.es/dp/B071YWQVLJ/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 22.5 EUR (original: 44.99 EUR) en el siguiente enlace!

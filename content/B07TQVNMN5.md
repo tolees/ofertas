@@ -14,7 +14,7 @@ currency: EUR
 price: 41.93
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Un Costa Lace  Zapatillas  Marrón  British Tan Lea British Tan Lea   44 EU
+prodname: 'Clarks Un Costa Lace  Zapatillas  Marrón  British Tan Lea British Tan Lea   44 EU'
 ---
 
 Tienes [Clarks Un Costa Lace  Zapatillas  Marrón  British Tan Lea British Tan Lea   44 EU](https://www.amazon.es/dp/B07TQVNMN5/?tag=tolees-21) con un 58.05 % de descuento con precio de oferta de 41.93 EUR (original: 99.95 EUR) en el siguiente enlace!

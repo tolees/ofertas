@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Melissa & Doug - Imanes de madera con granja  19279    color/modelo surtido
+prodname: 'Melissa & Doug - Imanes de madera con granja  19279    color/modelo surtido'
 ---
 
 Está [Melissa & Doug - Imanes de madera con granja  19279    color/modelo surtido](https://www.amazon.es/dp/B00TF9UMPK/?tag=tolees-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.45
 comparePrice: 26.53 EUR
 inStock: true
-prodname: Kempa T-Shirt Core Logo - Camiseta de Voleibol para Mujer  Color Gris  Talla 2XL
+prodname: 'Kempa T-Shirt Core Logo - Camiseta de Voleibol para Mujer  Color Gris  Talla 2XL'
 ---
 
 Tienes [Kempa T-Shirt Core Logo - Camiseta de Voleibol para Mujer  Color Gris  Talla 2XL](https://www.amazon.es/dp/B00TZABAJ6/?tag=tolees-21) con un 71.92 % de descuento con precio de oferta de 7.45 EUR (original: 26.53 EUR) en el siguiente enlace!

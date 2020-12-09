@@ -14,7 +14,7 @@ currency: EUR
 price: 35
 comparePrice: 70 EUR
 inStock: true
-prodname: The North Face T92ZWR Jersey de Cuello Redondo Drew Peak  Hombre  Rumba Red  XL
+prodname: 'The North Face T92ZWR Jersey de Cuello Redondo Drew Peak  Hombre  Rumba Red  XL'
 ---
 
 Está [The North Face T92ZWR Jersey de Cuello Redondo Drew Peak  Hombre  Rumba Red  XL](https://www.amazon.es/dp/B07BB4GSYX/?tag=tolees-21) con 50.00 de descuento por 35 EUR (original: 70 EUR) en el siguiente enlace!

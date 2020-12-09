@@ -14,7 +14,7 @@ currency: EUR
 price: 9.5
 comparePrice: 19.0 EUR
 inStock: true
-prodname: Kipling Baroe S  Monederos para Mujer  Verde  Light Aloe   11.5x7x3 cm
+prodname: 'Kipling Baroe S  Monederos para Mujer  Verde  Light Aloe   11.5x7x3 cm'
 ---
 
 Está [Kipling Baroe S  Monederos para Mujer  Verde  Light Aloe   11.5x7x3 cm](https://www.amazon.es/dp/B07TTPCZ6K/?tag=tolees-21) con 50.00 de descuento por 9.5 EUR (original: 19.0 EUR) en el siguiente enlace!

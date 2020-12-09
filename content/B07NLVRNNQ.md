@@ -14,7 +14,7 @@ currency: EUR
 price: 41.0
 comparePrice: 55.0 EUR
 inStock: true
-prodname: NIKE Revolution 5   Zapatillas Hombre  Black/Anthracite  41 EU
+prodname: 'NIKE Revolution 5   Zapatillas Hombre  Black/Anthracite  41 EU'
 ---
 
 Ahora mismo tienes [NIKE Revolution 5   Zapatillas Hombre  Black/Anthracite  41 EU](https://www.amazon.es/dp/B07NLVRNNQ/?tag=tolees-21) a 41.0 EUR (original: 55.0 EUR) (25.45 %  de descuento) en el siguiente enlace!

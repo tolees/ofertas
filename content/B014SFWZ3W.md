@@ -14,7 +14,7 @@ currency: EUR
 price: 89.79
 comparePrice: 144.65 EUR
 inStock: true
-prodname: Clarins Supra Serum Lift Remodelant Multi Intensif - Loción corporal  50 ml
+prodname: 'Clarins Supra Serum Lift Remodelant Multi Intensif - Loción corporal  50 ml'
 ---
 
 Está [Clarins Supra Serum Lift Remodelant Multi Intensif - Loción corporal  50 ml](https://www.amazon.es/dp/B014SFWZ3W/?tag=tolees-21) con 37.93 de descuento por 89.79 EUR (original: 144.65 EUR) en el siguiente enlace!

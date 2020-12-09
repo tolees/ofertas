@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 29 EUR
 inStock: true
-prodname: Curver 189206 - Cesta de ropa Natural Style  con tapa configurable  60 L  color chocolate
+prodname: 'Curver 189206 - Cesta de ropa Natural Style  con tapa configurable  60 L  color chocolate'
 ---
 
 Ahora mismo tienes [Curver 189206 - Cesta de ropa Natural Style  con tapa configurable  60 L  color chocolate](https://www.amazon.es/dp/B003WUXN0Y/?tag=tolees-21) a 19.9 EUR (original: 29 EUR) (31.38 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 59.95
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Puma Mantra Fusefit Desert  Zapatillas de Deporte para Hombre  Negro Black 01  45 EU
+prodname: 'Puma Mantra Fusefit Desert  Zapatillas de Deporte para Hombre  Negro Black 01  45 EU'
 ---
 
 Ahora mismo tienes [Puma Mantra Fusefit Desert  Zapatillas de Deporte para Hombre  Negro Black 01  45 EU](https://www.amazon.es/dp/B07D9YVRRQ/?tag=tolees-21) a 59.95 EUR (original: 109.95 EUR) (45.48 %  de descuento) en el siguiente enlace!

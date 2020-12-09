@@ -14,7 +14,7 @@ currency: EUR
 price: 9.88
 comparePrice: 50 EUR
 inStock: true
-prodname: Tijeras Podar  Tijeras de jardín Kits Tijeras de podar Tree Trimmer with Safety Lock
+prodname: 'Tijeras Podar  Tijeras de jardín Kits Tijeras de podar Tree Trimmer with Safety Lock'
 ---
 
 Ahora mismo tienes [Tijeras Podar  Tijeras de jardín Kits Tijeras de podar Tree Trimmer with Safety Lock](https://www.amazon.es/dp/B07H5DXMGD/?tag=tolees-21) a 9.88 EUR (original: 50 EUR) (80.24 %  de descuento) en el siguiente enlace!

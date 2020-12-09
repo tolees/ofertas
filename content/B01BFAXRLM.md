@@ -14,7 +14,7 @@ currency: EUR
 price: 13.57
 comparePrice: 38.25 EUR
 inStock: true
-prodname: HHG Vestido S
+prodname: 'HHG Vestido S'
 ---
 
 Está [HHG Vestido S](https://www.amazon.es/dp/B01BFAXRLM/?tag=tolees-21) con 64.52 de descuento por 13.57 EUR (original: 38.25 EUR) en el siguiente enlace!

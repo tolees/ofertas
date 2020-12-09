@@ -14,7 +14,7 @@ currency: EUR
 price: 2.99
 comparePrice: 3.99 EUR
 inStock: true
-prodname: Oral-B 3D White Luxe Brillo Glamoroso  Pasta Dentífrica  75 ml
+prodname: 'Oral-B 3D White Luxe Brillo Glamoroso  Pasta Dentífrica  75 ml'
 ---
 
 Tienes [Oral-B 3D White Luxe Brillo Glamoroso  Pasta Dentífrica  75 ml](https://www.amazon.es/dp/B07RYTDB4V/?tag=tolees-21) con un 25.06 % de descuento con precio de oferta de 2.99 EUR (original: 3.99 EUR) en el siguiente enlace!

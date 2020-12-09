@@ -14,7 +14,7 @@ currency: EUR
 price: 10.86
 comparePrice: 28.68 EUR
 inStock: true
-prodname: VERO MODA Vmseven NW S Shape Up Jeans Vi501 Noos Vaqueros Slim  Gris Dark Grey Denim  W22/L34  Talla del Fabricante: Small  para Mujer
+prodname: 'VERO MODA Vmseven NW S Shape Up Jeans Vi501 Noos Vaqueros Slim  Gris Dark Grey Denim  W22/L34  Talla del Fabricante: Small  para Mujer'
 ---
 
 Tienes [VERO MODA Vmseven NW S Shape Up Jeans Vi501 Noos Vaqueros Slim  Gris Dark Grey Denim  W22/L34  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07C3RHDTZ/?tag=tolees-21) con un 62.13 % de descuento con precio de oferta de 10.86 EUR (original: 28.68 EUR) en el siguiente enlace!

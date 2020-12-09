@@ -14,7 +14,7 @@ currency: EUR
 price: 16.65
 comparePrice: 25.95 EUR
 inStock: true
-prodname: Stanley STA7205-XJ - Juego de Brocas  Taladro  Albañilería  Metal  Madera  Acero inoxidable  Negro  100 Piezas
+prodname: 'Stanley STA7205-XJ - Juego de Brocas  Taladro  Albañilería  Metal  Madera  Acero inoxidable  Negro  100 Piezas'
 ---
 
 Ahora mismo tienes [Stanley STA7205-XJ - Juego de Brocas  Taladro  Albañilería  Metal  Madera  Acero inoxidable  Negro  100 Piezas](https://www.amazon.es/dp/B00EKPVT10/?tag=tolees-21) a 16.65 EUR (original: 25.95 EUR) (35.84 %  de descuento) en el siguiente enlace!

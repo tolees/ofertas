@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 34.95 EUR
 inStock: true
-prodname: JIVANER Cartera Monedero Mujer pequeña de Piel con Bloqueo RFID - Billetera  Tarjetero y Cremallera para Monedas - De Cuero auténtico Suave y diseño Elegante
+prodname: 'JIVANER Cartera Monedero Mujer pequeña de Piel con Bloqueo RFID - Billetera  Tarjetero y Cremallera para Monedas - De Cuero auténtico Suave y diseño Elegante'
 ---
 
 Está [JIVANER Cartera Monedero Mujer pequeña de Piel con Bloqueo RFID - Billetera  Tarjetero y Cremallera para Monedas - De Cuero auténtico Suave y diseño Elegante](https://www.amazon.es/dp/B07SN1HK8B/?tag=tolees-21) con 28.61 de descuento por 24.95 EUR (original: 34.95 EUR) en el siguiente enlace!

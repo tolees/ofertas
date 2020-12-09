@@ -14,7 +14,7 @@ currency: EUR
 price: 55.24
 comparePrice: 81.0 EUR
 inStock: true
-prodname: Fila Disruptor  Zapatillas Unisex niños  Blanco  White   35 EU
+prodname: 'Fila Disruptor  Zapatillas Unisex niños  Blanco  White   35 EU'
 ---
 
 Ahora mismo tienes [Fila Disruptor  Zapatillas Unisex niños  Blanco  White   35 EU](https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21) a 55.24 EUR (original: 81.0 EUR) (31.80 %  de descuento) en el siguiente enlace!

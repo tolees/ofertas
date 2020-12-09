@@ -14,7 +14,7 @@ currency: EUR
 price: 25.5
 comparePrice: 87.0 EUR
 inStock: true
-prodname: Calvin Klein Eternity  Eau de Parfum Spray para mujeres  1 paquete  1 x 100 ml 
+prodname: 'Calvin Klein Eternity  Eau de Parfum Spray para mujeres  1 paquete  1 x 100 ml '
 ---
 
 Ahora mismo tienes [Calvin Klein Eternity  Eau de Parfum Spray para mujeres  1 paquete  1 x 100 ml ](https://www.amazon.es/dp/B0009OAGRE/?tag=tolees-21) a 25.5 EUR (original: 87.0 EUR) (70.69 %  de descuento) en el siguiente enlace!

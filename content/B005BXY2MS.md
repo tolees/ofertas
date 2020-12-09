@@ -14,7 +14,7 @@ currency: EUR
 price: 107.47
 comparePrice: 220 EUR
 inStock: true
-prodname: Marmot Minimalist - Chaqueta impermeable para hombre  color negro  talla XL
+prodname: 'Marmot Minimalist - Chaqueta impermeable para hombre  color negro  talla XL'
 ---
 
 Ahora mismo tienes [Marmot Minimalist - Chaqueta impermeable para hombre  color negro  talla XL](https://www.amazon.es/dp/B005BXY2MS/?tag=tolees-21) a 107.47 EUR (original: 220 EUR) (51.15 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 39.78
 comparePrice: 99 EUR
 inStock: true
-prodname: PRODG Samoa Trolley Travel GT Mochila Tipo Casual  51 cm  42 Litros  Verde
+prodname: 'PRODG Samoa Trolley Travel GT Mochila Tipo Casual  51 cm  42 Litros  Verde'
 ---
 
 Tienes [PRODG Samoa Trolley Travel GT Mochila Tipo Casual  51 cm  42 Litros  Verde](https://www.amazon.es/dp/B07DFQXJ6F/?tag=tolees-21) con un 59.82 % de descuento con precio de oferta de 39.78 EUR (original: 99 EUR) en el siguiente enlace!

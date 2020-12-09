@@ -14,7 +14,7 @@ currency: EUR
 price: 64.19
 comparePrice: 130 EUR
 inStock: true
-prodname: Timberland Killington  Botas Clasicas para Hombre  Marrón  Trapper Tan Nubuck D51   43 EU
+prodname: 'Timberland Killington  Botas Clasicas para Hombre  Marrón  Trapper Tan Nubuck D51   43 EU'
 ---
 
 Tienes [Timberland Killington  Botas Clasicas para Hombre  Marrón  Trapper Tan Nubuck D51   43 EU](https://www.amazon.es/dp/B01N6KSUA7/?tag=tolees-21) con un 50.62 % de descuento con precio de oferta de 64.19 EUR (original: 130 EUR) en el siguiente enlace!

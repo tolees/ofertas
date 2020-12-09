@@ -14,7 +14,7 @@ currency: EUR
 price: 18
 comparePrice: 67 EUR
 inStock: true
-prodname: Burberry Brit Rhythm Woman Agua de toilette con vaporizador - 50 ml
+prodname: 'Burberry Brit Rhythm Woman Agua de toilette con vaporizador - 50 ml'
 ---
 
 Está [Burberry Brit Rhythm Woman Agua de toilette con vaporizador - 50 ml](https://www.amazon.es/dp/B00HSR0T8G/?tag=tolees-21) con 73.13 de descuento por 18 EUR (original: 67 EUR) en el siguiente enlace!

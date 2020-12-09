@@ -14,7 +14,7 @@ currency: EUR
 price: 4.59
 comparePrice: 10.95 EUR
 inStock: true
-prodname: Max Factor Volume Infusion Máscara de Pestañas Tono 002 Black brown  Gama marrones  - 13 ml  33250062002 
+prodname: 'Max Factor Volume Infusion Máscara de Pestañas Tono 002 Black brown  Gama marrones  - 13 ml  33250062002 '
 ---
 
 Tienes [Max Factor Volume Infusion Máscara de Pestañas Tono 002 Black brown  Gama marrones  - 13 ml  33250062002 ](https://www.amazon.es/dp/B07G5Q6VJB/?tag=tolees-21) con un 58.08 % de descuento con precio de oferta de 4.59 EUR (original: 10.95 EUR) en el siguiente enlace!

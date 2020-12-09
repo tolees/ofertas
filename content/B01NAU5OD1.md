@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Linterna LED Resistente al Agua con 6 Accesorios y Batería Recargable Ultra Brillante Faroles de 5 Modos Perfecta para Ciclismo  Camping  Montañismo  Senderismo
+prodname: 'Linterna LED Resistente al Agua con 6 Accesorios y Batería Recargable Ultra Brillante Faroles de 5 Modos Perfecta para Ciclismo  Camping  Montañismo  Senderismo'
 ---
 
 Ahora mismo tienes [Linterna LED Resistente al Agua con 6 Accesorios y Batería Recargable Ultra Brillante Faroles de 5 Modos Perfecta para Ciclismo  Camping  Montañismo  Senderismo](https://www.amazon.es/dp/B01NAU5OD1/?tag=tolees-21) a 16.99 EUR (original: 25.99 EUR) (34.63 %  de descuento) en el siguiente enlace!

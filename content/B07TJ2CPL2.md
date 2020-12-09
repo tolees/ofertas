@@ -14,7 +14,7 @@ currency: EUR
 price: 29.96
 comparePrice: 90.0 EUR
 inStock: true
-prodname: Helly Hansen Copenhagen Leather  Zapatillas para Hombre  Marrón  Fossil/Aluminium/Moonbeam 719   41 EU
+prodname: 'Helly Hansen Copenhagen Leather  Zapatillas para Hombre  Marrón  Fossil/Aluminium/Moonbeam 719   41 EU'
 ---
 
 Está [Helly Hansen Copenhagen Leather  Zapatillas para Hombre  Marrón  Fossil/Aluminium/Moonbeam 719   41 EU](https://www.amazon.es/dp/B07TJ2CPL2/?tag=tolees-21) con 66.71 de descuento por 29.96 EUR (original: 90.0 EUR) en el siguiente enlace!

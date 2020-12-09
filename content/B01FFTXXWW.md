@@ -14,7 +14,7 @@ currency: EUR
 price: 6.9
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Woxter i-Case 230 - Carcasa Externa para Disco Duro  2.5"  conexión USB 3.0 con Cable Incluido  sin Tornillos  Color Azul
+prodname: 'Woxter i-Case 230 - Carcasa Externa para Disco Duro  2.5"  conexión USB 3.0 con Cable Incluido  sin Tornillos  Color Azul'
 ---
 
 Ahora mismo tienes [Woxter i-Case 230 - Carcasa Externa para Disco Duro  2.5"  conexión USB 3.0 con Cable Incluido  sin Tornillos  Color Azul](https://www.amazon.es/dp/B01FFTXXWW/?tag=tolees-21) a 6.9 EUR (original: 11.99 EUR) (42.45 %  de descuento) en el siguiente enlace!

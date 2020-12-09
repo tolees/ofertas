@@ -14,7 +14,7 @@ currency: EUR
 price: 32.09
 comparePrice: 52.86 EUR
 inStock: true
-prodname: Targus Terra - Mochila de 15-16"  Color Negro
+prodname: 'Targus Terra - Mochila de 15-16"  Color Negro'
 ---
 
 Tienes [Targus Terra - Mochila de 15-16"  Color Negro](https://www.amazon.es/dp/B005DKVF7E/?tag=tolees-21) con un 39.29 % de descuento con precio de oferta de 32.09 EUR (original: 52.86 EUR) en el siguiente enlace!

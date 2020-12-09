@@ -14,7 +14,7 @@ currency: EUR
 price: 12.8
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Bomba De Aire Sucastle Bomba de Aire Eléctrica 2 in 1 Bomba de Aire Portátil Hinchador Eléctrico con 3 Boquillas Inflador Eléctrico para Colchón de Aire  Botes Inflables  Piscinas Inflables etc.
+prodname: 'Bomba De Aire Sucastle Bomba de Aire Eléctrica 2 in 1 Bomba de Aire Portátil Hinchador Eléctrico con 3 Boquillas Inflador Eléctrico para Colchón de Aire  Botes Inflables  Piscinas Inflables etc.'
 ---
 
 Tienes [Bomba De Aire Sucastle Bomba de Aire Eléctrica 2 in 1 Bomba de Aire Portátil Hinchador Eléctrico con 3 Boquillas Inflador Eléctrico para Colchón de Aire  Botes Inflables  Piscinas Inflables etc.](https://www.amazon.es/dp/B08H8KTKCY/?tag=tolees-21) con un 44.32 % de descuento con precio de oferta de 12.8 EUR (original: 22.99 EUR) en el siguiente enlace!

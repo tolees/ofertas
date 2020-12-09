@@ -14,7 +14,7 @@ currency: EUR
 price: 27.32
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Empire D lux-Burn Bright  Zapatillas para Mujer  Negro  Black BBK   39.5 EU
+prodname: 'Skechers Empire D lux-Burn Bright  Zapatillas para Mujer  Negro  Black BBK   39.5 EU'
 ---
 
 Ahora mismo tienes [Skechers Empire D lux-Burn Bright  Zapatillas para Mujer  Negro  Black BBK   39.5 EU](https://www.amazon.es/dp/B07CVKYVG5/?tag=tolees-21) a 27.32 EUR (original: 64.95 EUR) (57.94 %  de descuento) en el siguiente enlace!

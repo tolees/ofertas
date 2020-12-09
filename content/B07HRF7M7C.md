@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: MR.SIGA - Escoba y recogedor verticales  color azul y gris
+prodname: 'MR.SIGA - Escoba y recogedor verticales  color azul y gris'
 ---
 
 Ahora mismo tienes [MR.SIGA - Escoba y recogedor verticales  color azul y gris](https://www.amazon.es/dp/B07HRF7M7C/?tag=tolees-21) a 26.99 EUR (original: 49.99 EUR) (46.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: SEVERIN Microondas 2 en 1   con Función Grill  Incl. Rejilla de Grill y Plato Giratorio  Ø 24 5cm   700 W  MW 7875  Plateado/Negro
+prodname: 'SEVERIN Microondas 2 en 1   con Función Grill  Incl. Rejilla de Grill y Plato Giratorio  Ø 24 5cm   700 W  MW 7875  Plateado/Negro'
 ---
 
 Ahora mismo tienes [SEVERIN Microondas 2 en 1   con Función Grill  Incl. Rejilla de Grill y Plato Giratorio  Ø 24 5cm   700 W  MW 7875  Plateado/Negro](https://www.amazon.es/dp/B00IKDAPRW/?tag=tolees-21) a 69.99 EUR (original: 99.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

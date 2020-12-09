@@ -14,7 +14,7 @@ currency: EUR
 price: 123.04
 comparePrice: 169.0 EUR
 inStock: true
-prodname: Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS4656IE
+prodname: 'Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS4656IE'
 ---
 
 Está [Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS4656IE](https://www.amazon.es/dp/B07TCQRRWR/?tag=tolees-21) con 27.20 de descuento por 123.04 EUR (original: 169.0 EUR) en el siguiente enlace!

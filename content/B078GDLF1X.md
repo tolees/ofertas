@@ -14,7 +14,7 @@ currency: EUR
 price: 22.31
 comparePrice: 40 EUR
 inStock: true
-prodname: BOSS Typer Camiseta  Azul  Navy 416   Medium para Hombre
+prodname: 'BOSS Typer Camiseta  Azul  Navy 416   Medium para Hombre'
 ---
 
 Está [BOSS Typer Camiseta  Azul  Navy 416   Medium para Hombre](https://www.amazon.es/dp/B078GDLF1X/?tag=tolees-21) con 44.23 de descuento por 22.31 EUR (original: 40 EUR) en el siguiente enlace!

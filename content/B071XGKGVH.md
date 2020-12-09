@@ -14,7 +14,7 @@ currency: EUR
 price: 3.32
 comparePrice: 14.12 EUR
 inStock: true
-prodname: yichahu     aleación      
+prodname: 'yichahu     aleación      '
 ---
 
 Está [yichahu     aleación      ](https://www.amazon.es/dp/B071XGKGVH/?tag=tolees-21) con 76.49 de descuento por 3.32 EUR (original: 14.12 EUR) en el siguiente enlace!

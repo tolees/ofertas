@@ -14,7 +14,7 @@ currency: EUR
 price: 72.65
 comparePrice: 139.95 EUR
 inStock: true
-prodname: adidas Adizero Tempo  Zapatillas de Running para Hombre  Azul  Blue/night Navy/easy Green   42 EU
+prodname: 'adidas Adizero Tempo  Zapatillas de Running para Hombre  Azul  Blue/night Navy/easy Green   42 EU'
 ---
 
 Está [adidas Adizero Tempo  Zapatillas de Running para Hombre  Azul  Blue/night Navy/easy Green   42 EU](https://www.amazon.es/dp/B01N1VJMCB/?tag=tolees-21) con 48.09 de descuento por 72.65 EUR (original: 139.95 EUR) en el siguiente enlace!

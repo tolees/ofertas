@@ -14,7 +14,7 @@ currency: EUR
 price: 67.35
 comparePrice: 90.0 EUR
 inStock: true
-prodname: Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Hombre  Negro  Black 0165   40W / 32L
+prodname: 'Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Hombre  Negro  Black 0165   40W / 32L'
 ---
 
 Tienes [Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Hombre  Negro  Black 0165   40W / 32L](https://www.amazon.es/dp/B002R6LRPM/?tag=tolees-21) con un 25.17 % de descuento con precio de oferta de 67.35 EUR (original: 90.0 EUR) en el siguiente enlace!

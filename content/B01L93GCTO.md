@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Star Wars SW Movie E7 Robot Inteligente R2D2  Multicolor  Hasbro B7493EU0 
+prodname: 'Star Wars SW Movie E7 Robot Inteligente R2D2  Multicolor  Hasbro B7493EU0 '
 ---
 
 Tienes [Star Wars SW Movie E7 Robot Inteligente R2D2  Multicolor  Hasbro B7493EU0 ](https://www.amazon.es/dp/B01L93GCTO/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 39.99 EUR (original: 99.99 EUR) en el siguiente enlace!

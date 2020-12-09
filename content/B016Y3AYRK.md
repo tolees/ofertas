@@ -14,7 +14,7 @@ currency: EUR
 price: 27.97
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Trust Gaming GXT 285 - Teclado Para Gaming  Iluminación LED  PC 
+prodname: 'Trust Gaming GXT 285 - Teclado Para Gaming  Iluminación LED  PC '
 ---
 
 Está [Trust Gaming GXT 285 - Teclado Para Gaming  Iluminación LED  PC ](https://www.amazon.es/dp/B016Y3AYRK/?tag=tolees-21) con 53.38 de descuento por 27.97 EUR (original: 59.99 EUR) en el siguiente enlace!

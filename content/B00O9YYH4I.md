@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 48 EUR
 inStock: true
-prodname: SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin Relleno para Mujer Negro ES:105C  EU 90C 
+prodname: 'SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin Relleno para Mujer Negro ES:105C  EU 90C '
 ---
 
 Ahora mismo tienes [SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin Relleno para Mujer Negro ES:105C  EU 90C ](https://www.amazon.es/dp/B00O9YYH4I/?tag=tolees-21) a 23.99 EUR (original: 48 EUR) (50.02 %  de descuento) en el siguiente enlace!

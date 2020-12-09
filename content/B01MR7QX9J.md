@@ -14,7 +14,7 @@ currency: EUR
 price: 8.67
 comparePrice: 39.99 EUR
 inStock: true
-prodname: edc by Esprit 057cc1i002  suéter Mujer  Azul  Navy   36  Talla del Fabricante: Small 
+prodname: 'edc by Esprit 057cc1i002  suéter Mujer  Azul  Navy   36  Talla del Fabricante: Small '
 ---
 
 Está [edc by Esprit 057cc1i002  suéter Mujer  Azul  Navy   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MR7QX9J/?tag=tolees-21) con 78.32 de descuento por 8.67 EUR (original: 39.99 EUR) en el siguiente enlace!

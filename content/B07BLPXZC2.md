@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Mpow H7 Cascos Bluetooth Diadema  25hrs de Reproducir  Hi-Fi Sonido  Cascos Bluetooth Inalámbricos con Micrófono Incorporado  Auriculares Bluetooth Diadema para TV  Móvil  PC-Negro
+prodname: 'Mpow H7 Cascos Bluetooth Diadema  25hrs de Reproducir  Hi-Fi Sonido  Cascos Bluetooth Inalámbricos con Micrófono Incorporado  Auriculares Bluetooth Diadema para TV  Móvil  PC-Negro'
 ---
 
 Ahora mismo tienes [Mpow H7 Cascos Bluetooth Diadema  25hrs de Reproducir  Hi-Fi Sonido  Cascos Bluetooth Inalámbricos con Micrófono Incorporado  Auriculares Bluetooth Diadema para TV  Móvil  PC-Negro](https://www.amazon.es/dp/B07BLPXZC2/?tag=tolees-21) a 15.99 EUR (original: 32.99 EUR) (51.53 %  de descuento) en el siguiente enlace!

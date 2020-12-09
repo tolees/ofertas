@@ -14,7 +14,7 @@ currency: EUR
 price: 40.99
 comparePrice: 74.99 EUR
 inStock: true
-prodname: Zapatos de Seguridad con Punta de Acero para Hombres  Suela de Goma Anti-Piercing Calzado Industrial y de construcción  41 EU  Gris 
+prodname: 'Zapatos de Seguridad con Punta de Acero para Hombres  Suela de Goma Anti-Piercing Calzado Industrial y de construcción  41 EU  Gris '
 ---
 
 Tienes [Zapatos de Seguridad con Punta de Acero para Hombres  Suela de Goma Anti-Piercing Calzado Industrial y de construcción  41 EU  Gris ](https://www.amazon.es/dp/B07HF1HW4W/?tag=tolees-21) con un 45.34 % de descuento con precio de oferta de 40.99 EUR (original: 74.99 EUR) en el siguiente enlace!

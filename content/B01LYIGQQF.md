@@ -14,7 +14,7 @@ currency: EUR
 price: 12.59
 comparePrice: 35.77 EUR
 inStock: true
-prodname: 2 piezas Cadena de luces LED De pilas 5m 50 LED blanco con Control Remoto y Temporizador  Alambre de cobre impermeable guirnalda de luces  decoración para navidad  fiestas  bodas  jardines  festivales
+prodname: '2 piezas Cadena de luces LED De pilas 5m 50 LED blanco con Control Remoto y Temporizador  Alambre de cobre impermeable guirnalda de luces  decoración para navidad  fiestas  bodas  jardines  festivales'
 ---
 
 Está [2 piezas Cadena de luces LED De pilas 5m 50 LED blanco con Control Remoto y Temporizador  Alambre de cobre impermeable guirnalda de luces  decoración para navidad  fiestas  bodas  jardines  festivales](https://www.amazon.es/dp/B01LYIGQQF/?tag=tolees-21) con 64.80 de descuento por 12.59 EUR (original: 35.77 EUR) en el siguiente enlace!

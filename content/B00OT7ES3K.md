@@ -14,7 +14,7 @@ currency: EUR
 price: 25.3
 comparePrice: 43.91 EUR
 inStock: true
-prodname: Jata TT588 Tostador Horizontal Clásico con Mueble y Parrilla de Acero Inoxidable 3 Barras de Cuarzo Temporizador de 5 Minutos
+prodname: 'Jata TT588 Tostador Horizontal Clásico con Mueble y Parrilla de Acero Inoxidable 3 Barras de Cuarzo Temporizador de 5 Minutos'
 ---
 
 Tienes [Jata TT588 Tostador Horizontal Clásico con Mueble y Parrilla de Acero Inoxidable 3 Barras de Cuarzo Temporizador de 5 Minutos](https://www.amazon.es/dp/B00OT7ES3K/?tag=tolees-21) con un 42.38 % de descuento con precio de oferta de 25.3 EUR (original: 43.91 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 67.27
 comparePrice: 97.14 EUR
 inStock: true
-prodname: Bosch Home and Garden 0603663C01 Bosch Láser verde de líneas cruzadas Quigo  2 pilas 12 m  con trípode  en caja  1 5 V   1.5 V
+prodname: 'Bosch Home and Garden 0603663C01 Bosch Láser verde de líneas cruzadas Quigo  2 pilas 12 m  con trípode  en caja  1 5 V   1.5 V'
 ---
 
 Ahora mismo tienes [Bosch Home and Garden 0603663C01 Bosch Láser verde de líneas cruzadas Quigo  2 pilas 12 m  con trípode  en caja  1 5 V   1.5 V](https://www.amazon.es/dp/B07NXB6PRS/?tag=tolees-21) a 67.27 EUR (original: 97.14 EUR) (30.75 %  de descuento) en el siguiente enlace!

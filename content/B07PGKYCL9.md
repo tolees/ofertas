@@ -14,7 +14,7 @@ currency: EUR
 price: 5.46
 comparePrice: 14.98 EUR
 inStock: true
-prodname: Hairdooz Muñeca Coleccionable Sorpresa  BIZAK 63248522    color/modelo surtido
+prodname: 'Hairdooz Muñeca Coleccionable Sorpresa  BIZAK 63248522    color/modelo surtido'
 ---
 
 Tienes [Hairdooz Muñeca Coleccionable Sorpresa  BIZAK 63248522    color/modelo surtido](https://www.amazon.es/dp/B07PGKYCL9/?tag=tolees-21) con un 63.55 % de descuento con precio de oferta de 5.46 EUR (original: 14.98 EUR) en el siguiente enlace!

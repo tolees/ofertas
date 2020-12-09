@@ -14,7 +14,7 @@ currency: EUR
 price: 19.24
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Marvel Legends - Deluxe Hombre Gigante  Hasbro E88485L0 
+prodname: 'Marvel Legends - Deluxe Hombre Gigante  Hasbro E88485L0 '
 ---
 
 Ahora mismo tienes [Marvel Legends - Deluxe Hombre Gigante  Hasbro E88485L0 ](https://www.amazon.es/dp/B07SZWFPY4/?tag=tolees-21) a 19.24 EUR (original: 30.0 EUR) (35.87 %  de descuento) en el siguiente enlace!

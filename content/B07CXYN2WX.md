@@ -14,7 +14,7 @@ currency: EUR
 price: 12.49
 comparePrice: 25.98 EUR
 inStock: true
-prodname: Salvar Al Soldado Ryan [4K UHD + Blu-ray] [Blu-ray]
+prodname: 'Salvar Al Soldado Ryan [4K UHD + Blu-ray] [Blu-ray]'
 ---
 
 Tienes [Salvar Al Soldado Ryan [4K UHD + Blu-ray] [Blu-ray]](https://www.amazon.es/dp/B07CXYN2WX/?tag=tolees-21) con un 51.92 % de descuento con precio de oferta de 12.49 EUR (original: 25.98 EUR) en el siguiente enlace!

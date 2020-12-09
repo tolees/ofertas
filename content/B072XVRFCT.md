@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Star Wars Zapatillas de Deporte para Niños   Black/Red   31 EU
+prodname: 'Star Wars Zapatillas de Deporte para Niños   Black/Red   31 EU'
 ---
 
 Tienes [Star Wars Zapatillas de Deporte para Niños   Black/Red   31 EU](https://www.amazon.es/dp/B072XVRFCT/?tag=tolees-21) con un 71.98 % de descuento con precio de oferta de 6.99 EUR (original: 24.95 EUR) en el siguiente enlace!

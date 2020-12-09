@@ -14,7 +14,7 @@ currency: EUR
 price: 38.32
 comparePrice: 109 EUR
 inStock: true
-prodname: Tommy Hilfiger Core Cotton-Silk Cneck suéter  Negro  Flag Black 032   X-Large para Hombre
+prodname: 'Tommy Hilfiger Core Cotton-Silk Cneck suéter  Negro  Flag Black 032   X-Large para Hombre'
 ---
 
 Está [Tommy Hilfiger Core Cotton-Silk Cneck suéter  Negro  Flag Black 032   X-Large para Hombre](https://www.amazon.es/dp/B074SHTNJN/?tag=tolees-21) con 64.84 de descuento por 38.32 EUR (original: 109 EUR) en el siguiente enlace!

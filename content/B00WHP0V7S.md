@@ -14,7 +14,7 @@ currency: EUR
 price: 54.5
 comparePrice: 109.67 EUR
 inStock: true
-prodname: Pack The Wire Temporada 1-5 Blu-Ray [Blu-ray]
+prodname: 'Pack The Wire Temporada 1-5 Blu-Ray [Blu-ray]'
 ---
 
 Ahora mismo tienes [Pack The Wire Temporada 1-5 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00WHP0V7S/?tag=tolees-21) a 54.5 EUR (original: 109.67 EUR) (50.31 %  de descuento) en el siguiente enlace!

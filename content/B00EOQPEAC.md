@@ -14,7 +14,7 @@ currency: EUR
 price: 40.29
 comparePrice: 69 EUR
 inStock: true
-prodname: Dicota New York - Pantalones para hombre  Negro  Black   32W x 32L
+prodname: 'Dicota New York - Pantalones para hombre  Negro  Black   32W x 32L'
 ---
 
 Ahora mismo tienes [Dicota New York - Pantalones para hombre  Negro  Black   32W x 32L](https://www.amazon.es/dp/B00EOQPEAC/?tag=tolees-21) a 40.29 EUR (original: 69 EUR) (41.61 %  de descuento) en el siguiente enlace!

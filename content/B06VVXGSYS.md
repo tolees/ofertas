@@ -14,7 +14,7 @@ currency: EUR
 price: 8.47
 comparePrice: 13.11 EUR
 inStock: true
-prodname: Razer Sphex V2 Mini - Alfombrilla de ratón Gaming Ultra Fino para sensores láser y ópticos  Superficie de policarbonato y diseño Chroma
+prodname: 'Razer Sphex V2 Mini - Alfombrilla de ratón Gaming Ultra Fino para sensores láser y ópticos  Superficie de policarbonato y diseño Chroma'
 ---
 
 Está [Razer Sphex V2 Mini - Alfombrilla de ratón Gaming Ultra Fino para sensores láser y ópticos  Superficie de policarbonato y diseño Chroma](https://www.amazon.es/dp/B06VVXGSYS/?tag=tolees-21) con 35.39 de descuento por 8.47 EUR (original: 13.11 EUR) en el siguiente enlace!

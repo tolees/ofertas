@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Waterpik WP-560EU - Irrigador Bucal Recargable Irrigador Dental Portátil  Color Blanco
+prodname: 'Waterpik WP-560EU - Irrigador Bucal Recargable Irrigador Dental Portátil  Color Blanco'
 ---
 
 Tienes [Waterpik WP-560EU - Irrigador Bucal Recargable Irrigador Dental Portátil  Color Blanco](https://www.amazon.es/dp/B073WFQRJL/?tag=tolees-21) con un 54.17 % de descuento con precio de oferta de 54.99 EUR (original: 119.99 EUR) en el siguiente enlace!

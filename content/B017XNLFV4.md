@@ -14,7 +14,7 @@ currency: EUR
 price: 40.65
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Ingenuity Sunny Snuggles - Hamaca con vibración
+prodname: 'Ingenuity Sunny Snuggles - Hamaca con vibración'
 ---
 
 Está [Ingenuity Sunny Snuggles - Hamaca con vibración](https://www.amazon.es/dp/B017XNLFV4/?tag=tolees-21) con 32.24 de descuento por 40.65 EUR (original: 59.99 EUR) en el siguiente enlace!

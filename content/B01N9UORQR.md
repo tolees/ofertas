@@ -14,7 +14,7 @@ currency: EUR
 price: 6.93
 comparePrice: 13.95 EUR
 inStock: true
-prodname: L Oréal Paris Color Riche Mate Pintalabios  Mate Rojo 346 Scarlet Silhouette
+prodname: 'L Oréal Paris Color Riche Mate Pintalabios  Mate Rojo 346 Scarlet Silhouette'
 ---
 
 Ahora mismo tienes [L Oréal Paris Color Riche Mate Pintalabios  Mate Rojo 346 Scarlet Silhouette](https://www.amazon.es/dp/B01N9UORQR/?tag=tolees-21) a 6.93 EUR (original: 13.95 EUR) (50.32 %  de descuento) en el siguiente enlace!

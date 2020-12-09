@@ -14,7 +14,7 @@ currency: EUR
 price: 52.88
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Columbia Canyon Cortavientos  Hombre  Collegiate Navy Heather  L
+prodname: 'Columbia Canyon Cortavientos  Hombre  Collegiate Navy Heather  L'
 ---
 
 Está [Columbia Canyon Cortavientos  Hombre  Collegiate Navy Heather  L](https://www.amazon.es/dp/B01N5GUOWG/?tag=tolees-21) con 47.11 de descuento por 52.88 EUR (original: 99.99 EUR) en el siguiente enlace!

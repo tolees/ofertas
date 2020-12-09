@@ -14,7 +14,7 @@ currency: EUR
 price: 23.49
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Secador de Pelo Profesional  Abody Secador Iónico de 2200W con Boquilla Concentradora de Aire y Difusor  2 Velocidades y 3 Temperaturas  Botón de Aire Frío
+prodname: 'Secador de Pelo Profesional  Abody Secador Iónico de 2200W con Boquilla Concentradora de Aire y Difusor  2 Velocidades y 3 Temperaturas  Botón de Aire Frío'
 ---
 
 Tienes [Secador de Pelo Profesional  Abody Secador Iónico de 2200W con Boquilla Concentradora de Aire y Difusor  2 Velocidades y 3 Temperaturas  Botón de Aire Frío](https://www.amazon.es/dp/B07PM9DKY4/?tag=tolees-21) con un 60.84 % de descuento con precio de oferta de 23.49 EUR (original: 59.99 EUR) en el siguiente enlace!

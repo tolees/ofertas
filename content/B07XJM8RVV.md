@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Crimpadora de Terminales  Meterk Alicates de Terminales Profesional con 1800 pcs 0.25-10.00 mm² Terminales de Cableado Aislados
+prodname: 'Crimpadora de Terminales  Meterk Alicates de Terminales Profesional con 1800 pcs 0.25-10.00 mm² Terminales de Cableado Aislados'
 ---
 
 Está [Crimpadora de Terminales  Meterk Alicates de Terminales Profesional con 1800 pcs 0.25-10.00 mm² Terminales de Cableado Aislados](https://www.amazon.es/dp/B07XJM8RVV/?tag=tolees-21) con 42.51 de descuento por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

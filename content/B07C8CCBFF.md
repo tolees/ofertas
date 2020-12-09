@@ -14,7 +14,7 @@ currency: EUR
 price: 20.15
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES PREMIUM Jprblackpool Shirt L/s Au18 STS  Camisa para Hombre   White AOP:Slim Fit  Small
+prodname: 'JACK & JONES PREMIUM Jprblackpool Shirt L/s Au18 STS  Camisa para Hombre   White AOP:Slim Fit  Small'
 ---
 
 Tienes [JACK & JONES PREMIUM Jprblackpool Shirt L/s Au18 STS  Camisa para Hombre   White AOP:Slim Fit  Small](https://www.amazon.es/dp/B07C8CCBFF/?tag=tolees-21) con un 49.61 % de descuento con precio de oferta de 20.15 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 41.78
 comparePrice: 65 EUR
 inStock: true
-prodname: Superdry - 2 Tone Splatter Montana  Mochilas Hombre  Azul  Cobalt Marl   30x45x15 cm  W x H L 
+prodname: 'Superdry - 2 Tone Splatter Montana  Mochilas Hombre  Azul  Cobalt Marl   30x45x15 cm  W x H L '
 ---
 
 Tienes [Superdry - 2 Tone Splatter Montana  Mochilas Hombre  Azul  Cobalt Marl   30x45x15 cm  W x H L ](https://www.amazon.es/dp/B07FXW7XJH/?tag=tolees-21) con un 35.72 % de descuento con precio de oferta de 41.78 EUR (original: 65 EUR) en el siguiente enlace!

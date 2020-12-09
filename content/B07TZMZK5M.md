@@ -14,7 +14,7 @@ currency: EUR
 price: 28.1
 comparePrice: 38.95 EUR
 inStock: true
-prodname: Funko- Pop Deluxe: Game of Thrones-Hodor Holding The Door Collectible Toy  Multicolor  45053 
+prodname: 'Funko- Pop Deluxe: Game of Thrones-Hodor Holding The Door Collectible Toy  Multicolor  45053 '
 ---
 
 Ahora mismo tienes [Funko- Pop Deluxe: Game of Thrones-Hodor Holding The Door Collectible Toy  Multicolor  45053 ](https://www.amazon.es/dp/B07TZMZK5M/?tag=tolees-21) a 28.1 EUR (original: 38.95 EUR) (27.86 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 55.12
 comparePrice: 75.0 EUR
 inStock: true
-prodname: Vans Old Skool  Zapatillas Unisex Adulto  Blanco  True White W00   36 EU
+prodname: 'Vans Old Skool  Zapatillas Unisex Adulto  Blanco  True White W00   36 EU'
 ---
 
 Está [Vans Old Skool  Zapatillas Unisex Adulto  Blanco  True White W00   36 EU](https://www.amazon.es/dp/B0020MMHAW/?tag=tolees-21) con 26.51 de descuento por 55.12 EUR (original: 75.0 EUR) en el siguiente enlace!

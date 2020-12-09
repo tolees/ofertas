@@ -14,7 +14,7 @@ currency: EUR
 price: 28.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Destornillador Eléctrico  DEKO inalámbrico Batería de uso doméstico Batería recargable Taladro Herramientas de la pistola de poder con antorcha torcida LED  3.6 V 
+prodname: 'Destornillador Eléctrico  DEKO inalámbrico Batería de uso doméstico Batería recargable Taladro Herramientas de la pistola de poder con antorcha torcida LED  3.6 V '
 ---
 
 Está [Destornillador Eléctrico  DEKO inalámbrico Batería de uso doméstico Batería recargable Taladro Herramientas de la pistola de poder con antorcha torcida LED  3.6 V ](https://www.amazon.es/dp/B07DD7FMYL/?tag=tolees-21) con 27.51 de descuento por 28.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.5
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Hunter Killer [DVD]
+prodname: 'Hunter Killer [DVD]'
 ---
 
 Tienes [Hunter Killer [DVD]](https://www.amazon.es/dp/B07NJ1FMQ9/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 7.5 EUR (original: 14.99 EUR) en el siguiente enlace!

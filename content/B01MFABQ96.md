@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: oneConcept V-12 • Equipo estéreo • Minicadena • para niños • Pegatinas • Reproductor de CD con MP3 • FM/Am • USB • MP3 • SD • AUX • Mando a Distancia • Pantalla LCD • Reloj • Montaje en Pared • Azul
+prodname: 'oneConcept V-12 • Equipo estéreo • Minicadena • para niños • Pegatinas • Reproductor de CD con MP3 • FM/Am • USB • MP3 • SD • AUX • Mando a Distancia • Pantalla LCD • Reloj • Montaje en Pared • Azul'
 ---
 
 Ahora mismo tienes [oneConcept V-12 • Equipo estéreo • Minicadena • para niños • Pegatinas • Reproductor de CD con MP3 • FM/Am • USB • MP3 • SD • AUX • Mando a Distancia • Pantalla LCD • Reloj • Montaje en Pared • Azul](https://www.amazon.es/dp/B01MFABQ96/?tag=tolees-21) a 59.99 EUR (original: 89.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

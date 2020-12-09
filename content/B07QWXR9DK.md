@@ -14,7 +14,7 @@ currency: EUR
 price: 30.95
 comparePrice: 56.08 EUR
 inStock: true
-prodname: Columbia Nelson Point - Camiseta para Hombre  Hombre  1772722  Azul Marino  FR : M  Taille Fabricant : 3X 
+prodname: 'Columbia Nelson Point - Camiseta para Hombre  Hombre  1772722  Azul Marino  FR : M  Taille Fabricant : 3X '
 ---
 
 Ahora mismo tienes [Columbia Nelson Point - Camiseta para Hombre  Hombre  1772722  Azul Marino  FR : M  Taille Fabricant : 3X ](https://www.amazon.es/dp/B07QWXR9DK/?tag=tolees-21) a 30.95 EUR (original: 56.08 EUR) (44.81 %  de descuento) en el siguiente enlace!

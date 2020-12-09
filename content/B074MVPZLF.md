@@ -14,7 +14,7 @@ currency: EUR
 price: 24.1
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Reebok Print Lite Rush  Zapatillas de Trail Running para Hombre  Negro  Black/Ash Grey/White 000   45.5 EU
+prodname: 'Reebok Print Lite Rush  Zapatillas de Trail Running para Hombre  Negro  Black/Ash Grey/White 000   45.5 EU'
 ---
 
 Está [Reebok Print Lite Rush  Zapatillas de Trail Running para Hombre  Negro  Black/Ash Grey/White 000   45.5 EU](https://www.amazon.es/dp/B074MVPZLF/?tag=tolees-21) con 67.85 de descuento por 24.1 EUR (original: 74.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 546.16
 comparePrice: 899.0 EUR
 inStock: true
-prodname: Hisense H65A6500  Smart TV VIDAA U  Diseño Metálico  Modo Deportes  4K Ultra HD  HDR  Precision Color  Super Contraste  Remote  WIFI Ethernet USB  65"  Negro
+prodname: 'Hisense H65A6500  Smart TV VIDAA U  Diseño Metálico  Modo Deportes  4K Ultra HD  HDR  Precision Color  Super Contraste  Remote  WIFI Ethernet USB  65"  Negro'
 ---
 
 Ahora mismo tienes [Hisense H65A6500  Smart TV VIDAA U  Diseño Metálico  Modo Deportes  4K Ultra HD  HDR  Precision Color  Super Contraste  Remote  WIFI Ethernet USB  65"  Negro](https://www.amazon.es/dp/B07CMR4QMB/?tag=tolees-21) a 546.16 EUR (original: 899.0 EUR) (39.25 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 611.41
 comparePrice: 966.99 EUR
 inStock: true
-prodname: Lenovo ThinkCentre 10SQ003JSP - Ordenador de sobremesa  Intel Core i7-8700  Memoria DDR4 de 8 GB  245 GB SSD  Windows 10 Pro 
+prodname: 'Lenovo ThinkCentre 10SQ003JSP - Ordenador de sobremesa  Intel Core i7-8700  Memoria DDR4 de 8 GB  245 GB SSD  Windows 10 Pro '
 ---
 
 Ahora mismo tienes [Lenovo ThinkCentre 10SQ003JSP - Ordenador de sobremesa  Intel Core i7-8700  Memoria DDR4 de 8 GB  245 GB SSD  Windows 10 Pro ](https://www.amazon.es/dp/B07J57GPTQ/?tag=tolees-21) a 611.41 EUR (original: 966.99 EUR) (36.77 %  de descuento) en el siguiente enlace!

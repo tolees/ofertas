@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 70.99 EUR
 inStock: true
-prodname: Streets of Rage 4 - Signature Edition
+prodname: 'Streets of Rage 4 - Signature Edition'
 ---
 
 Tienes [Streets of Rage 4 - Signature Edition](https://www.amazon.es/dp/B088GBCY6G/?tag=tolees-21) con un 29.58 % de descuento con precio de oferta de 49.99 EUR (original: 70.99 EUR) en el siguiente enlace!

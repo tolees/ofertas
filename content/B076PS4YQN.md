@@ -14,7 +14,7 @@ currency: EUR
 price: 23.96
 comparePrice: 41.59 EUR
 inStock: true
-prodname: Sharpie 2025161 - Rotuladores permanentes  punta fina  paquete de 24  color negro
+prodname: 'Sharpie 2025161 - Rotuladores permanentes  punta fina  paquete de 24  color negro'
 ---
 
 Tienes [Sharpie 2025161 - Rotuladores permanentes  punta fina  paquete de 24  color negro](https://www.amazon.es/dp/B076PS4YQN/?tag=tolees-21) con un 42.39 % de descuento con precio de oferta de 23.96 EUR (original: 41.59 EUR) en el siguiente enlace!

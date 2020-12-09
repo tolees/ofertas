@@ -14,7 +14,7 @@ currency: EUR
 price: 53.32
 comparePrice: 72.95 EUR
 inStock: true
-prodname: ThunderX3 TK50RD- Teclado gaming mecánico-  12 Perfiles Retroiluminación LED  Switch Rojo  Mayor precisión y rendimiento  respuesta ultra rápida  Color Negro
+prodname: 'ThunderX3 TK50RD- Teclado gaming mecánico-  12 Perfiles Retroiluminación LED  Switch Rojo  Mayor precisión y rendimiento  respuesta ultra rápida  Color Negro'
 ---
 
 Tienes [ThunderX3 TK50RD- Teclado gaming mecánico-  12 Perfiles Retroiluminación LED  Switch Rojo  Mayor precisión y rendimiento  respuesta ultra rápida  Color Negro](https://www.amazon.es/dp/B01FXSX51Y/?tag=tolees-21) con un 26.91 % de descuento con precio de oferta de 53.32 EUR (original: 72.95 EUR) en el siguiente enlace!

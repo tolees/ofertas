@@ -14,7 +14,7 @@ currency: EUR
 price: 2.95
 comparePrice: 4.95 EUR
 inStock: true
-prodname: Joma Nobel Pantalón de equipación  Burdeos  2XS
+prodname: 'Joma Nobel Pantalón de equipación  Burdeos  2XS'
 ---
 
 Tienes [Joma Nobel Pantalón de equipación  Burdeos  2XS](https://www.amazon.es/dp/B00VA8XQ6Q/?tag=tolees-21) con un 40.40 % de descuento con precio de oferta de 2.95 EUR (original: 4.95 EUR) en el siguiente enlace!

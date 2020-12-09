@@ -14,7 +14,7 @@ currency: EUR
 price: 5
 comparePrice: 10.5 EUR
 inStock: true
-prodname: oodji Ultra Mujer Vestido de Silueta Ajustada con Escote Barco  Azul  ES 36 / XS
+prodname: 'oodji Ultra Mujer Vestido de Silueta Ajustada con Escote Barco  Azul  ES 36 / XS'
 ---
 
 Está [oodji Ultra Mujer Vestido de Silueta Ajustada con Escote Barco  Azul  ES 36 / XS](https://www.amazon.es/dp/B074SJFKG7/?tag=tolees-21) con 52.38 de descuento por 5 EUR (original: 10.5 EUR) en el siguiente enlace!

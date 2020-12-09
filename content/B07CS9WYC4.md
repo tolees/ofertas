@@ -14,7 +14,7 @@ currency: EUR
 price: 32.45
 comparePrice: 65 EUR
 inStock: true
-prodname: Pepe Jeans Soho Pantalones  Azul  Blueing 565   29W / 30L para Mujer
+prodname: 'Pepe Jeans Soho Pantalones  Azul  Blueing 565   29W / 30L para Mujer'
 ---
 
 Tienes [Pepe Jeans Soho Pantalones  Azul  Blueing 565   29W / 30L para Mujer](https://www.amazon.es/dp/B07CS9WYC4/?tag=tolees-21) con un 50.08 % de descuento con precio de oferta de 32.45 EUR (original: 65 EUR) en el siguiente enlace!

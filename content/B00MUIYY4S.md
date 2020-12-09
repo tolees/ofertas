@@ -14,7 +14,7 @@ currency: EUR
 price: 57.03
 comparePrice: 149.95 EUR
 inStock: true
-prodname: G-STAR RAW Attacc Straight Jeans  Azul  dk Aged 6566-89   36W / 34L para Hombre
+prodname: 'G-STAR RAW Attacc Straight Jeans  Azul  dk Aged 6566-89   36W / 34L para Hombre'
 ---
 
 Tienes [G-STAR RAW Attacc Straight Jeans  Azul  dk Aged 6566-89   36W / 34L para Hombre](https://www.amazon.es/dp/B00MUIYY4S/?tag=tolees-21) con un 61.97 % de descuento con precio de oferta de 57.03 EUR (original: 149.95 EUR) en el siguiente enlace!

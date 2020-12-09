@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 62.73 EUR
 inStock: true
-prodname: BRA Cacerola cóncava  Negro  28 cm
+prodname: 'BRA Cacerola cóncava  Negro  28 cm'
 ---
 
 Ahora mismo tienes [BRA Cacerola cóncava  Negro  28 cm](https://www.amazon.es/dp/B0148PULVK/?tag=tolees-21) a 33.99 EUR (original: 62.73 EUR) (45.82 %  de descuento) en el siguiente enlace!

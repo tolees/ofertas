@@ -14,7 +14,7 @@ currency: EUR
 price: 22.5
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Geox Jr Ciak Girl a  Zapatillas Altas para Niñas  White/Red C0050  28 EU
+prodname: 'Geox Jr Ciak Girl a  Zapatillas Altas para Niñas  White/Red C0050  28 EU'
 ---
 
 Está [Geox Jr Ciak Girl a  Zapatillas Altas para Niñas  White/Red C0050  28 EU](https://www.amazon.es/dp/B07DK5SKDP/?tag=tolees-21) con 54.91 de descuento por 22.5 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 101.89
 comparePrice: 175 EUR
 inStock: true
-prodname: Vivere UHSDO8-20 - Hamaca con soporte incluido  multicolor  250 cm  doble  diseño Tropical
+prodname: 'Vivere UHSDO8-20 - Hamaca con soporte incluido  multicolor  250 cm  doble  diseño Tropical'
 ---
 
 Tienes [Vivere UHSDO8-20 - Hamaca con soporte incluido  multicolor  250 cm  doble  diseño Tropical](https://www.amazon.es/dp/B00PITYCX4/?tag=tolees-21) con un 41.78 % de descuento con precio de oferta de 101.89 EUR (original: 175 EUR) en el siguiente enlace!

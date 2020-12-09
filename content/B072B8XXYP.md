@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 7.0 EUR
 inStock: true
-prodname: Rimmel London Stay Matte Liquid Lip Colour Barra De Labios Tono 810  Plum This Show   5.5 ml
+prodname: 'Rimmel London Stay Matte Liquid Lip Colour Barra De Labios Tono 810  Plum This Show   5.5 ml'
 ---
 
 Ahora mismo tienes [Rimmel London Stay Matte Liquid Lip Colour Barra De Labios Tono 810  Plum This Show   5.5 ml](https://www.amazon.es/dp/B072B8XXYP/?tag=tolees-21) a 4.99 EUR (original: 7.0 EUR) (28.71 %  de descuento) en el siguiente enlace!

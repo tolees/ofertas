@@ -14,7 +14,7 @@ currency: EUR
 price: 38.95
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers Equalizer-Double Play  Zapatillas sin Cordones Hombre  Negro  BBK Black Engineered Mesh/Trim   41 EU
+prodname: 'Skechers Equalizer-Double Play  Zapatillas sin Cordones Hombre  Negro  BBK Black Engineered Mesh/Trim   41 EU'
 ---
 
 Ahora mismo tienes [Skechers Equalizer-Double Play  Zapatillas sin Cordones Hombre  Negro  BBK Black Engineered Mesh/Trim   41 EU](https://www.amazon.es/dp/B00WR3VRT6/?tag=tolees-21) a 38.95 EUR (original: 64.95 EUR) (40.03 %  de descuento) en el siguiente enlace!

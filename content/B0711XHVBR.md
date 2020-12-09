@@ -14,7 +14,7 @@ currency: EUR
 price: 15.61
 comparePrice: 26.46 EUR
 inStock: true
-prodname: [50 piezas] Mini Pistola de Silicona TOQIBO Pistola de Pegamento con 50 piezas Barras de pegamento Alta temperatura kit de pistola de pegamento con Interruptor de Alimentación 20 vatios  azul 
+prodname: '[50 piezas] Mini Pistola de Silicona TOQIBO Pistola de Pegamento con 50 piezas Barras de pegamento Alta temperatura kit de pistola de pegamento con Interruptor de Alimentación 20 vatios  azul '
 ---
 
 Ahora mismo tienes [[50 piezas] Mini Pistola de Silicona TOQIBO Pistola de Pegamento con 50 piezas Barras de pegamento Alta temperatura kit de pistola de pegamento con Interruptor de Alimentación 20 vatios  azul ](https://www.amazon.es/dp/B0711XHVBR/?tag=tolees-21) a 15.61 EUR (original: 26.46 EUR) (41.01 %  de descuento) en el siguiente enlace!

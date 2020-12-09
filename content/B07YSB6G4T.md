@@ -14,7 +14,7 @@ currency: EUR
 price: 18.05
 comparePrice: 26.99 EUR
 inStock: true
-prodname: TECKIN Tiras LED RGB Wifi 5M 5050 SMD Tira de Luces Colores Inteligente funciona con Alexa Móvil Google Home Multi-Modos para Navidad TV Dormitorio Fiesta y Decoración
+prodname: 'TECKIN Tiras LED RGB Wifi 5M 5050 SMD Tira de Luces Colores Inteligente funciona con Alexa Móvil Google Home Multi-Modos para Navidad TV Dormitorio Fiesta y Decoración'
 ---
 
 Está [TECKIN Tiras LED RGB Wifi 5M 5050 SMD Tira de Luces Colores Inteligente funciona con Alexa Móvil Google Home Multi-Modos para Navidad TV Dormitorio Fiesta y Decoración](https://www.amazon.es/dp/B07YSB6G4T/?tag=tolees-21) con 33.12 de descuento por 18.05 EUR (original: 26.99 EUR) en el siguiente enlace!

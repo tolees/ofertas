@@ -14,7 +14,7 @@ currency: EUR
 price: 14.01
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Under Armour Sc30 Initials SS Camiseta  Niños  Blanco White 100  M
+prodname: 'Under Armour Sc30 Initials SS Camiseta  Niños  Blanco White 100  M'
 ---
 
 Está [Under Armour Sc30 Initials SS Camiseta  Niños  Blanco White 100  M](https://www.amazon.es/dp/B07CZMBMK3/?tag=tolees-21) con 46.09 de descuento por 14.01 EUR (original: 25.99 EUR) en el siguiente enlace!

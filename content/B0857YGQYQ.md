@@ -14,7 +14,7 @@ currency: EUR
 price: 6.98
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Star Wars Ep IV: Una nueva esperanza  Edición remasterizada  2 discos  película + extras  [Blu-ray]
+prodname: 'Star Wars Ep IV: Una nueva esperanza  Edición remasterizada  2 discos  película + extras  [Blu-ray]'
 ---
 
 Está [Star Wars Ep IV: Una nueva esperanza  Edición remasterizada  2 discos  película + extras  [Blu-ray]](https://www.amazon.es/dp/B0857YGQYQ/?tag=tolees-21) con 53.31 de descuento por 6.98 EUR (original: 14.95 EUR) en el siguiente enlace!

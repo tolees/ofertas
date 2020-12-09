@@ -14,7 +14,7 @@ currency: EUR
 price: 165.99
 comparePrice: 249.99 EUR
 inStock: true
-prodname: KidKraft- Cocina de madera de juguete Uptown Elite para niños con tres modos de juego y funciones prácticas   Color Blanco  53437 
+prodname: 'KidKraft- Cocina de madera de juguete Uptown Elite para niños con tres modos de juego y funciones prácticas   Color Blanco  53437 '
 ---
 
 Tienes [KidKraft- Cocina de madera de juguete Uptown Elite para niños con tres modos de juego y funciones prácticas   Color Blanco  53437 ](https://www.amazon.es/dp/B07N4HVRMM/?tag=tolees-21) con un 33.60 % de descuento con precio de oferta de 165.99 EUR (original: 249.99 EUR) en el siguiente enlace!

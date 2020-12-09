@@ -14,7 +14,7 @@ currency: EUR
 price: 42.35
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox D Myria B  Zapatillas Altas para Mujer  Blanco  White/Off White C1352   36 EU
+prodname: 'Geox D Myria B  Zapatillas Altas para Mujer  Blanco  White/Off White C1352   36 EU'
 ---
 
 Está [Geox D Myria B  Zapatillas Altas para Mujer  Blanco  White/Off White C1352   36 EU](https://www.amazon.es/dp/B07SWV2MT8/?tag=tolees-21) con 61.46 de descuento por 42.35 EUR (original: 109.9 EUR) en el siguiente enlace!

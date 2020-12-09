@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Adidas COURTSMASH  Zapatillas de Deporte para Mujer  Blanco  Ftwbla/Plamat/Gridos 000   39 1/3 EU
+prodname: 'Adidas COURTSMASH  Zapatillas de Deporte para Mujer  Blanco  Ftwbla/Plamat/Gridos 000   39 1/3 EU'
 ---
 
 Ahora mismo tienes [Adidas COURTSMASH  Zapatillas de Deporte para Mujer  Blanco  Ftwbla/Plamat/Gridos 000   39 1/3 EU](https://www.amazon.es/dp/B07KTWL1PR/?tag=tolees-21) a 37.99 EUR (original: 54.95 EUR) (30.86 %  de descuento) en el siguiente enlace!

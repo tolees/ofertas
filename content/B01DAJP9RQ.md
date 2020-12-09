@@ -14,7 +14,7 @@ currency: EUR
 price: 17.38
 comparePrice: 37.95 EUR
 inStock: true
-prodname: Izas Frosty Calzado  Unisex adulto  Fucsia  36 EU
+prodname: 'Izas Frosty Calzado  Unisex adulto  Fucsia  36 EU'
 ---
 
 Ahora mismo tienes [Izas Frosty Calzado  Unisex adulto  Fucsia  36 EU](https://www.amazon.es/dp/B01DAJP9RQ/?tag=tolees-21) a 17.38 EUR (original: 37.95 EUR) (54.20 %  de descuento) en el siguiente enlace!

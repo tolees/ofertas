@@ -14,7 +14,7 @@ currency: EUR
 price: 39.9
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers 52399  Zapatillas para Hombre  Azul  Navy   41 EU
+prodname: 'Skechers 52399  Zapatillas para Hombre  Azul  Navy   41 EU'
 ---
 
 Ahora mismo tienes [Skechers 52399  Zapatillas para Hombre  Azul  Navy   41 EU](https://www.amazon.es/dp/B074T2WYRV/?tag=tolees-21) a 39.9 EUR (original: 64.95 EUR) (38.57 %  de descuento) en el siguiente enlace!

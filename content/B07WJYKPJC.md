@@ -14,7 +14,7 @@ currency: EUR
 price: 112.74
 comparePrice: 249.0 EUR
 inStock: true
-prodname: Robot Aspirador Superchef Smart Clean SF421  4 en 1 Aspira  Barre Friega y Pasa la Mopa  Navegación Inteligente Gyroscopica  Batería de Litio 2600mAh  anticaída  Silencioso.
+prodname: 'Robot Aspirador Superchef Smart Clean SF421  4 en 1 Aspira  Barre Friega y Pasa la Mopa  Navegación Inteligente Gyroscopica  Batería de Litio 2600mAh  anticaída  Silencioso.'
 ---
 
 Está [Robot Aspirador Superchef Smart Clean SF421  4 en 1 Aspira  Barre Friega y Pasa la Mopa  Navegación Inteligente Gyroscopica  Batería de Litio 2600mAh  anticaída  Silencioso.](https://www.amazon.es/dp/B07WJYKPJC/?tag=tolees-21) con 54.72 de descuento por 112.74 EUR (original: 249.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.09
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Esprit 117ee1f010  Blusa Mujer   Off White 2 111   42  Talla del Fabricante: 40 
+prodname: 'Esprit 117ee1f010  Blusa Mujer   Off White 2 111   42  Talla del Fabricante: 40 '
 ---
 
 Está [Esprit 117ee1f010  Blusa Mujer   Off White 2 111   42  Talla del Fabricante: 40 ](https://www.amazon.es/dp/B074VCML8Z/?tag=tolees-21) con 67.27 de descuento por 13.09 EUR (original: 39.99 EUR) en el siguiente enlace!

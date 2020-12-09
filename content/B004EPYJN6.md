@@ -14,7 +14,7 @@ currency: EUR
 price: 26.1
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Superga 2750-COTMETU S002HG0  Zapatillas Unisex para Adultos  Dorado Dorado  41
+prodname: 'Superga 2750-COTMETU S002HG0  Zapatillas Unisex para Adultos  Dorado Dorado  41'
 ---
 
 Tienes [Superga 2750-COTMETU S002HG0  Zapatillas Unisex para Adultos  Dorado Dorado  41](https://www.amazon.es/dp/B004EPYJN6/?tag=tolees-21) con un 62.17 % de descuento con precio de oferta de 26.1 EUR (original: 69.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 167.3
 comparePrice: 239.0 EUR
 inStock: true
-prodname: proscenic P11 Aspirador Sin Cable Potente con 450W/25Kpa  Escoba Eléctrica Portátil con Tanque de Agua  Pantalla Táctil  Autonomía de 53 Minutos  4 Cepillos/Alfombra/Cortina/Pelo de Mascotas
+prodname: 'proscenic P11 Aspirador Sin Cable Potente con 450W/25Kpa  Escoba Eléctrica Portátil con Tanque de Agua  Pantalla Táctil  Autonomía de 53 Minutos  4 Cepillos/Alfombra/Cortina/Pelo de Mascotas'
 ---
 
 Está [proscenic P11 Aspirador Sin Cable Potente con 450W/25Kpa  Escoba Eléctrica Portátil con Tanque de Agua  Pantalla Táctil  Autonomía de 53 Minutos  4 Cepillos/Alfombra/Cortina/Pelo de Mascotas](https://www.amazon.es/dp/B08F7FZ5WX/?tag=tolees-21) con 30.00 de descuento por 167.3 EUR (original: 239.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.68
 comparePrice: 21.95 EUR
 inStock: true
-prodname: HIKARO Pantalón Corto Short para Mujer  Azul  Navy   40  Talla del fabricante: Medium 
+prodname: 'HIKARO Pantalón Corto Short para Mujer  Azul  Navy   40  Talla del fabricante: Medium '
 ---
 
 Tienes [HIKARO Pantalón Corto Short para Mujer  Azul  Navy   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YK8SJQ/?tag=tolees-21) con un 60.46 % de descuento con precio de oferta de 8.68 EUR (original: 21.95 EUR) en el siguiente enlace!

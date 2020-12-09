@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 72.96 EUR
 inStock: true
-prodname: Doctor En Alaska - Megapack 2016 [DVD]
+prodname: 'Doctor En Alaska - Megapack 2016 [DVD]'
 ---
 
 Está [Doctor En Alaska - Megapack 2016 [DVD]](https://www.amazon.es/dp/B01AWB6JT2/?tag=tolees-21) con 52.04 de descuento por 34.99 EUR (original: 72.96 EUR) en el siguiente enlace!

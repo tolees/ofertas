@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 43.84 EUR
 inStock: true
-prodname: Super Bomberman R NSW
+prodname: 'Super Bomberman R NSW'
 ---
 
 Está [Super Bomberman R NSW](https://www.amazon.es/dp/B0759CWRMG/?tag=tolees-21) con 43.09 de descuento por 24.95 EUR (original: 43.84 EUR) en el siguiente enlace!

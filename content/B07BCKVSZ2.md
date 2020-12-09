@@ -14,7 +14,7 @@ currency: EUR
 price: 25.68
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Dove Roxana  Botas Chukka para Mujer  Negro  Black Sde   37.5 EU
+prodname: 'Clarks Dove Roxana  Botas Chukka para Mujer  Negro  Black Sde   37.5 EU'
 ---
 
 Ahora mismo tienes [Clarks Dove Roxana  Botas Chukka para Mujer  Negro  Black Sde   37.5 EU](https://www.amazon.es/dp/B07BCKVSZ2/?tag=tolees-21) a 25.68 EUR (original: 99.95 EUR) (74.31 %  de descuento) en el siguiente enlace!

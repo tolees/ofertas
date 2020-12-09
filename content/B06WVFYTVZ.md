@@ -14,7 +14,7 @@ currency: EUR
 price: 17.01
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Esprit - 077ea1v020  Carteras Mujer  Grau  Gunmetal   1x9x14 cm  W x H D 
+prodname: 'Esprit - 077ea1v020  Carteras Mujer  Grau  Gunmetal   1x9x14 cm  W x H D '
 ---
 
 Ahora mismo tienes [Esprit - 077ea1v020  Carteras Mujer  Grau  Gunmetal   1x9x14 cm  W x H D ](https://www.amazon.es/dp/B06WVFYTVZ/?tag=tolees-21) a 17.01 EUR (original: 39.99 EUR) (57.46 %  de descuento) en el siguiente enlace!

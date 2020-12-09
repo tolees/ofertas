@@ -14,7 +14,7 @@ currency: EUR
 price: 4.49
 comparePrice: 5.99 EUR
 inStock: true
-prodname: Puma Quarter Clyde 2p  Calcetines Unisex Niños  Azul  Navy   39-42
+prodname: 'Puma Quarter Clyde 2p  Calcetines Unisex Niños  Azul  Navy   39-42'
 ---
 
 Tienes [Puma Quarter Clyde 2p  Calcetines Unisex Niños  Azul  Navy   39-42](https://www.amazon.es/dp/B00A7CWAR2/?tag=tolees-21) con un 25.04 % de descuento con precio de oferta de 4.49 EUR (original: 5.99 EUR) en el siguiente enlace!

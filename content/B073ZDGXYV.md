@@ -14,7 +14,7 @@ currency: EUR
 price: 35.0
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Remington Keratin Protect Straight CB7480 - Cepillo alisador  Cerdas de Cerámica  Keratina y Aceite de Almendras  Gris y Rosa
+prodname: 'Remington Keratin Protect Straight CB7480 - Cepillo alisador  Cerdas de Cerámica  Keratina y Aceite de Almendras  Gris y Rosa'
 ---
 
 Ahora mismo tienes [Remington Keratin Protect Straight CB7480 - Cepillo alisador  Cerdas de Cerámica  Keratina y Aceite de Almendras  Gris y Rosa](https://www.amazon.es/dp/B073ZDGXYV/?tag=tolees-21) a 35.0 EUR (original: 64.99 EUR) (46.15 %  de descuento) en el siguiente enlace!

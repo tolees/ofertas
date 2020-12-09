@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 29.81 EUR
 inStock: true
-prodname: Lexar lsd64gcb1eu633 Professional Class 10 95 MB/s Tarjeta de Memoria SDHC/SDXC UHS-I  633 X   64 GB
+prodname: 'Lexar lsd64gcb1eu633 Professional Class 10 95 MB/s Tarjeta de Memoria SDHC/SDXC UHS-I  633 X   64 GB'
 ---
 
 Ahora mismo tienes [Lexar lsd64gcb1eu633 Professional Class 10 95 MB/s Tarjeta de Memoria SDHC/SDXC UHS-I  633 X   64 GB](https://www.amazon.es/dp/B07GFSY8NN/?tag=tolees-21) a 16.99 EUR (original: 29.81 EUR) (43.01 %  de descuento) en el siguiente enlace!

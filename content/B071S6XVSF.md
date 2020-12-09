@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
-prodname: ICZI Hub USB 3.0 de 4 Puertos USB 3.0   Adaptador usb 3.0 con Conector Niquelado de Alta Velocidade de Transmisión - Negro
+prodname: 'ICZI Hub USB 3.0 de 4 Puertos USB 3.0   Adaptador usb 3.0 con Conector Niquelado de Alta Velocidade de Transmisión - Negro'
 ---
 
 Está [ICZI Hub USB 3.0 de 4 Puertos USB 3.0   Adaptador usb 3.0 con Conector Niquelado de Alta Velocidade de Transmisión - Negro](https://www.amazon.es/dp/B071S6XVSF/?tag=tolees-21) con 28.59 de descuento por 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

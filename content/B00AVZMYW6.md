@@ -14,7 +14,7 @@ currency: EUR
 price: 30.0
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Vans Atwood  Sneaker Hombre  Negro  Black/White Canvas 187   46 EU
+prodname: 'Vans Atwood  Sneaker Hombre  Negro  Black/White Canvas 187   46 EU'
 ---
 
 Tienes [Vans Atwood  Sneaker Hombre  Negro  Black/White Canvas 187   46 EU](https://www.amazon.es/dp/B00AVZMYW6/?tag=tolees-21) con un 53.85 % de descuento con precio de oferta de 30.0 EUR (original: 65.0 EUR) en el siguiente enlace!

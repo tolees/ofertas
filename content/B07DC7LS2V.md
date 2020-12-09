@@ -14,7 +14,7 @@ currency: EUR
 price: 22.08
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Basket Heart Bio Hacking Wn s  Zapatillas para Mujer  Blanco White Silver  42.5 EU
+prodname: 'Puma Basket Heart Bio Hacking Wn s  Zapatillas para Mujer  Blanco White Silver  42.5 EU'
 ---
 
 Está [Puma Basket Heart Bio Hacking Wn s  Zapatillas para Mujer  Blanco White Silver  42.5 EU](https://www.amazon.es/dp/B07DC7LS2V/?tag=tolees-21) con 75.45 de descuento por 22.08 EUR (original: 89.95 EUR) en el siguiente enlace!

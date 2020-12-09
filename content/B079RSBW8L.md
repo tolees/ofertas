@@ -14,7 +14,7 @@ currency: EUR
 price: 15.43
 comparePrice: 65 EUR
 inStock: true
-prodname: Pepe Jeans Silke  Suéter para Mujer  Azul  Blue 551   Medium
+prodname: 'Pepe Jeans Silke  Suéter para Mujer  Azul  Blue 551   Medium'
 ---
 
 Está [Pepe Jeans Silke  Suéter para Mujer  Azul  Blue 551   Medium](https://www.amazon.es/dp/B079RSBW8L/?tag=tolees-21) con 76.26 de descuento por 15.43 EUR (original: 65 EUR) en el siguiente enlace!

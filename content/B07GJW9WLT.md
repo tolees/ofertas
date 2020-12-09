@@ -14,7 +14,7 @@ currency: EUR
 price: 18.56
 comparePrice: 54.9 EUR
 inStock: true
-prodname: Carrera Must Mid  Zapatillas de Cross para Hombre  Azul  Navy 02   42 EU
+prodname: 'Carrera Must Mid  Zapatillas de Cross para Hombre  Azul  Navy 02   42 EU'
 ---
 
 Ahora mismo tienes [Carrera Must Mid  Zapatillas de Cross para Hombre  Azul  Navy 02   42 EU](https://www.amazon.es/dp/B07GJW9WLT/?tag=tolees-21) a 18.56 EUR (original: 54.9 EUR) (66.19 %  de descuento) en el siguiente enlace!

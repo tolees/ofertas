@@ -14,7 +14,7 @@ currency: EUR
 price: 24.37
 comparePrice: 80 EUR
 inStock: true
-prodname: Levi s Barstow Western Camisa  Gris  Wintercress Dark Heather Gray 246   Small para Hombre
+prodname: 'Levi s Barstow Western Camisa  Gris  Wintercress Dark Heather Gray 246   Small para Hombre'
 ---
 
 Está [Levi s Barstow Western Camisa  Gris  Wintercress Dark Heather Gray 246   Small para Hombre](https://www.amazon.es/dp/B073QXMSFJ/?tag=tolees-21) con 69.54 de descuento por 24.37 EUR (original: 80 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 37.99 EUR
 inStock: true
-prodname: Lifewit Bolsa Térmica Porta Alimentos Bolsa de Almuerzo Aislada Gran Capacidad para Adultos  Hombres  Mujeres  Bento de 3 Vías para Trabajo/Oficina/Escuela/Picnic  Gris
+prodname: 'Lifewit Bolsa Térmica Porta Alimentos Bolsa de Almuerzo Aislada Gran Capacidad para Adultos  Hombres  Mujeres  Bento de 3 Vías para Trabajo/Oficina/Escuela/Picnic  Gris'
 ---
 
 Está [Lifewit Bolsa Térmica Porta Alimentos Bolsa de Almuerzo Aislada Gran Capacidad para Adultos  Hombres  Mujeres  Bento de 3 Vías para Trabajo/Oficina/Escuela/Picnic  Gris](https://www.amazon.es/dp/B07B2VVQ8Y/?tag=tolees-21) con 57.91 de descuento por 15.99 EUR (original: 37.99 EUR) en el siguiente enlace!

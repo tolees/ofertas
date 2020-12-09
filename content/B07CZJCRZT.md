@@ -14,7 +14,7 @@ currency: EUR
 price: 16.27
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Gris  Pitch Gray/Orange Glitch 012   S
+prodname: 'Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Gris  Pitch Gray/Orange Glitch 012   S'
 ---
 
 Tienes [Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Gris  Pitch Gray/Orange Glitch 012   S](https://www.amazon.es/dp/B07CZJCRZT/?tag=tolees-21) con un 45.75 % de descuento con precio de oferta de 16.27 EUR (original: 29.99 EUR) en el siguiente enlace!

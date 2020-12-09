@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 33.95 EUR
 inStock: true
-prodname: Montse Interiors Juego de sábanas Estampado Geométrico Gris  Corfu  para Cama de 90x190/200 
+prodname: 'Montse Interiors Juego de sábanas Estampado Geométrico Gris  Corfu  para Cama de 90x190/200 '
 ---
 
 Está [Montse Interiors Juego de sábanas Estampado Geométrico Gris  Corfu  para Cama de 90x190/200 ](https://www.amazon.es/dp/B07NQGB32Z/?tag=tolees-21) con 41.24 de descuento por 19.95 EUR (original: 33.95 EUR) en el siguiente enlace!

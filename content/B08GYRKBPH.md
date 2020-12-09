@@ -14,7 +14,7 @@ currency: EUR
 price: 23.49
 comparePrice: 53.03 EUR
 inStock: true
-prodname: Hurley M Essentials Sweater  Camelia
+prodname: 'Hurley M Essentials Sweater  Camelia'
 ---
 
 Ahora mismo tienes [Hurley M Essentials Sweater  Camelia](https://www.amazon.es/dp/B08GYRKBPH/?tag=tolees-21) a 23.49 EUR (original: 53.03 EUR) (55.70 %  de descuento) en el siguiente enlace!

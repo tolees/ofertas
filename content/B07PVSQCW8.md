@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Levis Stan Buck Ribbon 230331-733-17 - Zapatillas para hombre  color azul marino  color Azul  talla 46 EU
+prodname: 'Levis Stan Buck Ribbon 230331-733-17 - Zapatillas para hombre  color azul marino  color Azul  talla 46 EU'
 ---
 
 Ahora mismo tienes [Levis Stan Buck Ribbon 230331-733-17 - Zapatillas para hombre  color azul marino  color Azul  talla 46 EU](https://www.amazon.es/dp/B07PVSQCW8/?tag=tolees-21) a 19.95 EUR (original: 39.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 7.18 EUR
 inStock: true
-prodname: Baoblaze Peinetas De Guía De Seguridad De 2 Piezas Para Cortar Y Recortar Herramientas De Aseo Para Adultos Niños  2 Tamaños
+prodname: 'Baoblaze Peinetas De Guía De Seguridad De 2 Piezas Para Cortar Y Recortar Herramientas De Aseo Para Adultos Niños  2 Tamaños'
 ---
 
 Tienes [Baoblaze Peinetas De Guía De Seguridad De 2 Piezas Para Cortar Y Recortar Herramientas De Aseo Para Adultos Niños  2 Tamaños](https://www.amazon.es/dp/B07WXLPN93/?tag=tolees-21) con un 44.43 % de descuento con precio de oferta de 3.99 EUR (original: 7.18 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Pop! Shazam! - Figura de Vinilo Eugene
+prodname: 'Pop! Shazam! - Figura de Vinilo Eugene'
 ---
 
 Tienes [Pop! Shazam! - Figura de Vinilo Eugene](https://www.amazon.es/dp/B07KPSJV1S/?tag=tolees-21) con un 43.64 % de descuento con precio de oferta de 8.99 EUR (original: 15.95 EUR) en el siguiente enlace!

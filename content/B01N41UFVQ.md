@@ -14,7 +14,7 @@ currency: EUR
 price: 29.76
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rojo  Red/White C90   41.5 EU
+prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rojo  Red/White C90   41.5 EU'
 ---
 
 Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rojo  Red/White C90   41.5 EU](https://www.amazon.es/dp/B01N41UFVQ/?tag=tolees-21) con 49.56 de descuento por 29.76 EUR (original: 59.0 EUR) en el siguiente enlace!

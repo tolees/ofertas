@@ -14,7 +14,7 @@ currency: EUR
 price: 14.59
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Case Logic AUA-311BK - Maletín para ordenador portátil
+prodname: 'Case Logic AUA-311BK - Maletín para ordenador portátil'
 ---
 
 Tienes [Case Logic AUA-311BK - Maletín para ordenador portátil](https://www.amazon.es/dp/B009PIORNE/?tag=tolees-21) con un 41.62 % de descuento con precio de oferta de 14.59 EUR (original: 24.99 EUR) en el siguiente enlace!

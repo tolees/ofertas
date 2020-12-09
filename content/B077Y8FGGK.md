@@ -14,7 +14,7 @@ currency: EUR
 price: 23.01
 comparePrice: 44.32 EUR
 inStock: true
-prodname: HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Azul  Denim   36  Talla del fabricante: X-Small 
+prodname: 'HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Azul  Denim   36  Talla del fabricante: X-Small '
 ---
 
 Está [HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Azul  Denim   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B077Y8FGGK/?tag=tolees-21) con 48.08 de descuento por 23.01 EUR (original: 44.32 EUR) en el siguiente enlace!

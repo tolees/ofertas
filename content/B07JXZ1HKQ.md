@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 20.99 EUR
 inStock: true
-prodname: CHOICEOWN Espejo de Viaje Espejo de Maquillaje LED Espejo de Bolsillo Plegable Espejo de Viaje Plegable Ajustable inductivo portátil Recargable 1x / 3X Aumento
+prodname: 'CHOICEOWN Espejo de Viaje Espejo de Maquillaje LED Espejo de Bolsillo Plegable Espejo de Viaje Plegable Ajustable inductivo portátil Recargable 1x / 3X Aumento'
 ---
 
 Está [CHOICEOWN Espejo de Viaje Espejo de Maquillaje LED Espejo de Bolsillo Plegable Espejo de Viaje Plegable Ajustable inductivo portátil Recargable 1x / 3X Aumento](https://www.amazon.es/dp/B07JXZ1HKQ/?tag=tolees-21) con 66.70 de descuento por 6.99 EUR (original: 20.99 EUR) en el siguiente enlace!

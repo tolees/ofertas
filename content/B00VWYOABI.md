@@ -14,7 +14,7 @@ currency: EUR
 price: 6.76
 comparePrice: 13.95 EUR
 inStock: true
-prodname: Joma Pantalon Pirata Vela Royal  Hombre  Azul  XL
+prodname: 'Joma Pantalon Pirata Vela Royal  Hombre  Azul  XL'
 ---
 
 Ahora mismo tienes [Joma Pantalon Pirata Vela Royal  Hombre  Azul  XL](https://www.amazon.es/dp/B00VWYOABI/?tag=tolees-21) a 6.76 EUR (original: 13.95 EUR) (51.54 %  de descuento) en el siguiente enlace!

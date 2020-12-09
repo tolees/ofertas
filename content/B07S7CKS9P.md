@@ -14,7 +14,7 @@ currency: EUR
 price: 12.6
 comparePrice: 17.48 EUR
 inStock: true
-prodname: adidas Fest Bag Tref Mochilla de Deporte  Unisex Adulto  Black  NS
+prodname: 'adidas Fest Bag Tref Mochilla de Deporte  Unisex Adulto  Black  NS'
 ---
 
 Ahora mismo tienes [adidas Fest Bag Tref Mochilla de Deporte  Unisex Adulto  Black  NS](https://www.amazon.es/dp/B07S7CKS9P/?tag=tolees-21) a 12.6 EUR (original: 17.48 EUR) (27.92 %  de descuento) en el siguiente enlace!

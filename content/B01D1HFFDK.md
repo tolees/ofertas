@@ -14,7 +14,7 @@ currency: EUR
 price: 4.25
 comparePrice: 7.35 EUR
 inStock: true
-prodname: Rimmel London Sculpting Pakette Paleta de Maquillaje en polvo  Not So Shy  18.5 g  Tono Goden Bronze
+prodname: 'Rimmel London Sculpting Pakette Paleta de Maquillaje en polvo  Not So Shy  18.5 g  Tono Goden Bronze'
 ---
 
 Tienes [Rimmel London Sculpting Pakette Paleta de Maquillaje en polvo  Not So Shy  18.5 g  Tono Goden Bronze](https://www.amazon.es/dp/B01D1HFFDK/?tag=tolees-21) con un 42.18 % de descuento con precio de oferta de 4.25 EUR (original: 7.35 EUR) en el siguiente enlace!

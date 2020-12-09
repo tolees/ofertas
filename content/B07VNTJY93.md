@@ -14,7 +14,7 @@ currency: EUR
 price: 28.52
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Breese Pantalones para Mujer  Azul  Light Florin Hr   W31/L31  Talla del fabricante : 31/31 
+prodname: 'Lee Breese Pantalones para Mujer  Azul  Light Florin Hr   W31/L31  Talla del fabricante : 31/31 '
 ---
 
 Ahora mismo tienes [Lee Breese Pantalones para Mujer  Azul  Light Florin Hr   W31/L31  Talla del fabricante : 31/31 ](https://www.amazon.es/dp/B07VNTJY93/?tag=tolees-21) a 28.52 EUR (original: 99.95 EUR) (71.47 %  de descuento) en el siguiente enlace!

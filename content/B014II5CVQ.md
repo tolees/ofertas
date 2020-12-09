@@ -14,7 +14,7 @@ currency: EUR
 price: 35.77
 comparePrice: 108 EUR
 inStock: true
-prodname: Dolce & Gabbana Junior DG4238 298987 - gafas de sol Unisex adulto  Negro  Black/Yellow 298987   Talla única  Talla del fabricante: One size 
+prodname: 'Dolce & Gabbana Junior DG4238 298987 - gafas de sol Unisex adulto  Negro  Black/Yellow 298987   Talla única  Talla del fabricante: One size '
 ---
 
 Tienes [Dolce & Gabbana Junior DG4238 298987 - gafas de sol Unisex adulto  Negro  Black/Yellow 298987   Talla única  Talla del fabricante: One size ](https://www.amazon.es/dp/B014II5CVQ/?tag=tolees-21) con un 66.88 % de descuento con precio de oferta de 35.77 EUR (original: 108 EUR) en el siguiente enlace!

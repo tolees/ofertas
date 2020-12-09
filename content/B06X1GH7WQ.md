@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 34.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Bralette Corsetto  Azul  Navy Blazer   XS para Mujer
+prodname: 'Tommy Hilfiger Bralette Corsetto  Azul  Navy Blazer   XS para Mujer'
 ---
 
 Tienes [Tommy Hilfiger Bralette Corsetto  Azul  Navy Blazer   XS para Mujer](https://www.amazon.es/dp/B06X1GH7WQ/?tag=tolees-21) con un 42.72 % de descuento con precio de oferta de 19.99 EUR (original: 34.9 EUR) en el siguiente enlace!

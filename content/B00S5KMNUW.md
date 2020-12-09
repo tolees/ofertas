@@ -14,7 +14,7 @@ currency: EUR
 price: 9.88
 comparePrice: 35.99 EUR
 inStock: true
-prodname: SAFTA Futbol Club Barcelona 711525741 Bolsa de Deporte Infantil
+prodname: 'SAFTA Futbol Club Barcelona 711525741 Bolsa de Deporte Infantil'
 ---
 
 Está [SAFTA Futbol Club Barcelona 711525741 Bolsa de Deporte Infantil](https://www.amazon.es/dp/B00S5KMNUW/?tag=tolees-21) con 72.55 de descuento por 9.88 EUR (original: 35.99 EUR) en el siguiente enlace!

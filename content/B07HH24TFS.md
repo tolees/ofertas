@@ -14,7 +14,7 @@ currency: EUR
 price: 1.49
 comparePrice: 2.49 EUR
 inStock: true
-prodname: Pendientes colgantes geométricos de madera hueca para mujer
+prodname: 'Pendientes colgantes geométricos de madera hueca para mujer'
 ---
 
 Tienes [Pendientes colgantes geométricos de madera hueca para mujer](https://www.amazon.es/dp/B07HH24TFS/?tag=tolees-21) con un 40.16 % de descuento con precio de oferta de 1.49 EUR (original: 2.49 EUR) en el siguiente enlace!

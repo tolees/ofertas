@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 87.99 EUR
 inStock: true
-prodname: hummel hmlaje Zip Jacket Chaqueta  Mujer  201705-7459  Vestir Azul  Extra-Small
+prodname: 'hummel hmlaje Zip Jacket Chaqueta  Mujer  201705-7459  Vestir Azul  Extra-Small'
 ---
 
 Tienes [hummel hmlaje Zip Jacket Chaqueta  Mujer  201705-7459  Vestir Azul  Extra-Small](https://www.amazon.es/dp/B07FGHG9FQ/?tag=tolees-21) con un 54.55 % de descuento con precio de oferta de 39.99 EUR (original: 87.99 EUR) en el siguiente enlace!

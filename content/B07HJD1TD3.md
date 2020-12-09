@@ -14,7 +14,7 @@ currency: EUR
 price: 8.13
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Funko 35593 Pop Vinyl: Animation: Rick & Morty Noob  Multi
+prodname: 'Funko 35593 Pop Vinyl: Animation: Rick & Morty Noob  Multi'
 ---
 
 Tienes [Funko 35593 Pop Vinyl: Animation: Rick & Morty Noob  Multi](https://www.amazon.es/dp/B07HJD1TD3/?tag=tolees-21) con un 49.03 % de descuento con precio de oferta de 8.13 EUR (original: 15.95 EUR) en el siguiente enlace!

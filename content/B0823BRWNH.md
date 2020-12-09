@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s SS Original Hm tee Camiseta  Colony Blue  X-Small para Hombre
+prodname: 'Levi s SS Original Hm tee Camiseta  Colony Blue  X-Small para Hombre'
 ---
 
 Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Colony Blue  X-Small para Hombre](https://www.amazon.es/dp/B0823BRWNH/?tag=tolees-21) a 14.99 EUR (original: 25.0 EUR) (40.04 %  de descuento) en el siguiente enlace!

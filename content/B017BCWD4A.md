@@ -14,7 +14,7 @@ currency: EUR
 price: 10.5
 comparePrice: 15.5 EUR
 inStock: true
-prodname: Lupin vs. Detective Conan - Edición Coleccionistas [BD+DVD+Libro] [Blu-ray]
+prodname: 'Lupin vs. Detective Conan - Edición Coleccionistas [BD+DVD+Libro] [Blu-ray]'
 ---
 
 Ahora mismo tienes [Lupin vs. Detective Conan - Edición Coleccionistas [BD+DVD+Libro] [Blu-ray]](https://www.amazon.es/dp/B017BCWD4A/?tag=tolees-21) a 10.5 EUR (original: 15.5 EUR) (32.26 %  de descuento) en el siguiente enlace!

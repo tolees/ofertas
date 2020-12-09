@@ -14,7 +14,7 @@ currency: EUR
 price: 119.0
 comparePrice: 179.0 EUR
 inStock: true
-prodname: Bosch BBH32551 Flexxo Serie | 4 Aspirador sin cable y de mano  batería de 25.2 V  color blanco
+prodname: 'Bosch BBH32551 Flexxo Serie | 4 Aspirador sin cable y de mano  batería de 25.2 V  color blanco'
 ---
 
 Está [Bosch BBH32551 Flexxo Serie | 4 Aspirador sin cable y de mano  batería de 25.2 V  color blanco](https://www.amazon.es/dp/B07GQSS8RH/?tag=tolees-21) con 33.52 de descuento por 119.0 EUR (original: 179.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
-prodname: CANSHN Funda para iPhone 11  Carcasa Protectora Antigolpes Transparente con Parachoques de TPU Suave Flexible [Slim Delgada] Anti-Choques Compatible para Apple iPhone 11 6 1” - Transparente
+prodname: 'CANSHN Funda para iPhone 11  Carcasa Protectora Antigolpes Transparente con Parachoques de TPU Suave Flexible [Slim Delgada] Anti-Choques Compatible para Apple iPhone 11 6 1” - Transparente'
 ---
 
 Ahora mismo tienes [CANSHN Funda para iPhone 11  Carcasa Protectora Antigolpes Transparente con Parachoques de TPU Suave Flexible [Slim Delgada] Anti-Choques Compatible para Apple iPhone 11 6 1” - Transparente](https://www.amazon.es/dp/B07WW5CFMS/?tag=tolees-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

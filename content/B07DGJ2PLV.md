@@ -14,7 +14,7 @@ currency: EUR
 price: 120.0
 comparePrice: 224.95 EUR
 inStock: true
-prodname: Oral-B Genius 8000N CrossAction - Cepillo Eléctrico  1 Plata Mango Conectado  5 Modos Blanqueado  Sensible  Encías  3 Cabezales  Funda de Viaje Premium
+prodname: 'Oral-B Genius 8000N CrossAction - Cepillo Eléctrico  1 Plata Mango Conectado  5 Modos Blanqueado  Sensible  Encías  3 Cabezales  Funda de Viaje Premium'
 ---
 
 Ahora mismo tienes [Oral-B Genius 8000N CrossAction - Cepillo Eléctrico  1 Plata Mango Conectado  5 Modos Blanqueado  Sensible  Encías  3 Cabezales  Funda de Viaje Premium](https://www.amazon.es/dp/B07DGJ2PLV/?tag=tolees-21) a 120.0 EUR (original: 224.95 EUR) (46.65 %  de descuento) en el siguiente enlace!

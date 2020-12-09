@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 18 EUR
 inStock: true
-prodname: Luanvi Olimpia - Polo de manga corta Hombre  Rojo  L
+prodname: 'Luanvi Olimpia - Polo de manga corta Hombre  Rojo  L'
 ---
 
 Tienes [Luanvi Olimpia - Polo de manga corta Hombre  Rojo  L](https://www.amazon.es/dp/B06XHJMWRD/?tag=tolees-21) con un 55.61 % de descuento con precio de oferta de 7.99 EUR (original: 18 EUR) en el siguiente enlace!

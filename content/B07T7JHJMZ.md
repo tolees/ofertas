@@ -14,7 +14,7 @@ currency: EUR
 price: 21.58
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Anpro 40CM Lámpara Lectura Electrónica LED  Lámpara Ordenador Colgante  Lámpara Escritorio con Alimentación USB  3 Colores Regulables con 84 LEDs  Luz Lectura Libros
+prodname: 'Anpro 40CM Lámpara Lectura Electrónica LED  Lámpara Ordenador Colgante  Lámpara Escritorio con Alimentación USB  3 Colores Regulables con 84 LEDs  Luz Lectura Libros'
 ---
 
 Ahora mismo tienes [Anpro 40CM Lámpara Lectura Electrónica LED  Lámpara Ordenador Colgante  Lámpara Escritorio con Alimentación USB  3 Colores Regulables con 84 LEDs  Luz Lectura Libros](https://www.amazon.es/dp/B07T7JHJMZ/?tag=tolees-21) a 21.58 EUR (original: 29.99 EUR) (28.04 %  de descuento) en el siguiente enlace!

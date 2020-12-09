@@ -14,7 +14,7 @@ currency: EUR
 price: 114.71
 comparePrice: 152.95 EUR
 inStock: true
-prodname: IKOHS PETCARE HD - Comedero automático Perros y Gatos  con Cámara HD 1080P integrada con visión Nocturna e Infrarrojos  Programable  Grabadora de Voz y Altavoz  Programable  con WiFi y App  Blanco 
+prodname: 'IKOHS PETCARE HD - Comedero automático Perros y Gatos  con Cámara HD 1080P integrada con visión Nocturna e Infrarrojos  Programable  Grabadora de Voz y Altavoz  Programable  con WiFi y App  Blanco '
 ---
 
 Tienes [IKOHS PETCARE HD - Comedero automático Perros y Gatos  con Cámara HD 1080P integrada con visión Nocturna e Infrarrojos  Programable  Grabadora de Voz y Altavoz  Programable  con WiFi y App  Blanco ](https://www.amazon.es/dp/B083ZFFLZK/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 114.71 EUR (original: 152.95 EUR) en el siguiente enlace!

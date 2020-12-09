@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Multimetro Digital AoKoZo 21D Automático Polimetro Digital 6000 Cuentas TRUE RMS  Tamaño147*71*45mm 
+prodname: 'Multimetro Digital AoKoZo 21D Automático Polimetro Digital 6000 Cuentas TRUE RMS  Tamaño147*71*45mm '
 ---
 
 Tienes [Multimetro Digital AoKoZo 21D Automático Polimetro Digital 6000 Cuentas TRUE RMS  Tamaño147*71*45mm ](https://www.amazon.es/dp/B085PVTTST/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 38.61
 comparePrice: 79 EUR
 inStock: true
-prodname: Kipling - New Shopper S  Bolsos totes Mujer  Blanco  Dazz White 
+prodname: 'Kipling - New Shopper S  Bolsos totes Mujer  Blanco  Dazz White '
 ---
 
 Ahora mismo tienes [Kipling - New Shopper S  Bolsos totes Mujer  Blanco  Dazz White ](https://www.amazon.es/dp/B07DKHDZV2/?tag=tolees-21) a 38.61 EUR (original: 79 EUR) (51.13 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.98
 comparePrice: 50 EUR
 inStock: true
-prodname: Vans Chapman Stripe  Zapatillas Unisex Niños  Negro  Suede/Canvas   27.5 EU
+prodname: 'Vans Chapman Stripe  Zapatillas Unisex Niños  Negro  Suede/Canvas   27.5 EU'
 ---
 
 Ahora mismo tienes [Vans Chapman Stripe  Zapatillas Unisex Niños  Negro  Suede/Canvas   27.5 EU](https://www.amazon.es/dp/B01MQH6GDQ/?tag=tolees-21) a 24.98 EUR (original: 50 EUR) (50.04 %  de descuento) en el siguiente enlace!

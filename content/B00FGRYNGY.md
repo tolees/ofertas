@@ -14,7 +14,7 @@ currency: EUR
 price: 84.23
 comparePrice: 185 EUR
 inStock: true
-prodname: Philips myLiving Cypress - Lámpara colgante  LED  iluminación de interior  luz blanca cálida  IP20  clase de protección I  4 bombillas  color cromo
+prodname: 'Philips myLiving Cypress - Lámpara colgante  LED  iluminación de interior  luz blanca cálida  IP20  clase de protección I  4 bombillas  color cromo'
 ---
 
 Tienes [Philips myLiving Cypress - Lámpara colgante  LED  iluminación de interior  luz blanca cálida  IP20  clase de protección I  4 bombillas  color cromo](https://www.amazon.es/dp/B00FGRYNGY/?tag=tolees-21) con un 54.47 % de descuento con precio de oferta de 84.23 EUR (original: 185 EUR) en el siguiente enlace!

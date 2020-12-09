@@ -14,7 +14,7 @@ currency: EUR
 price: 14.96
 comparePrice: 30 EUR
 inStock: true
-prodname: The North Face S/S Box tee Camiseta  Hombre  Urban Navy/Fiery Red  XXL
+prodname: 'The North Face S/S Box tee Camiseta  Hombre  Urban Navy/Fiery Red  XXL'
 ---
 
 Está [The North Face S/S Box tee Camiseta  Hombre  Urban Navy/Fiery Red  XXL](https://www.amazon.es/dp/B07M5KPJWN/?tag=tolees-21) con 50.13 de descuento por 14.96 EUR (original: 30 EUR) en el siguiente enlace!

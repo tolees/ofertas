@@ -14,7 +14,7 @@ currency: EUR
 price: 27.4
 comparePrice: 49 EUR
 inStock: true
-prodname: Kipling ESSYLA Bolso Bandolera  21 cm  0.5 Liters  Azul  Active Denim 
+prodname: 'Kipling ESSYLA Bolso Bandolera  21 cm  0.5 Liters  Azul  Active Denim '
 ---
 
 Está [Kipling ESSYLA Bolso Bandolera  21 cm  0.5 Liters  Azul  Active Denim ](https://www.amazon.es/dp/B07DRKVJ94/?tag=tolees-21) con 44.08 de descuento por 27.4 EUR (original: 49 EUR) en el siguiente enlace!

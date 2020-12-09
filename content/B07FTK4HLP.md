@@ -14,7 +14,7 @@ currency: EUR
 price: 13.23
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Lee Button Down Camisa  Marfil  Bright Red EF   Small para Hombre
+prodname: 'Lee Button Down Camisa  Marfil  Bright Red EF   Small para Hombre'
 ---
 
 Está [Lee Button Down Camisa  Marfil  Bright Red EF   Small para Hombre](https://www.amazon.es/dp/B07FTK4HLP/?tag=tolees-21) con 77.93 de descuento por 13.23 EUR (original: 59.95 EUR) en el siguiente enlace!

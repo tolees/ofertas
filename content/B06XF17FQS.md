@@ -14,7 +14,7 @@ currency: EUR
 price: 10.3
 comparePrice: 25.6 EUR
 inStock: true
-prodname: oodji Ultra Hombre Camisa Básica Extra Slim  Blanco  41
+prodname: 'oodji Ultra Hombre Camisa Básica Extra Slim  Blanco  41'
 ---
 
 Está [oodji Ultra Hombre Camisa Básica Extra Slim  Blanco  41](https://www.amazon.es/dp/B06XF17FQS/?tag=tolees-21) con 59.77 de descuento por 10.3 EUR (original: 25.6 EUR) en el siguiente enlace!

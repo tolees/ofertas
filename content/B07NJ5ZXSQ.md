@@ -14,7 +14,7 @@ currency: EUR
 price: 86.25
 comparePrice: 115.0 EUR
 inStock: true
-prodname: American Tourister Wavebreaker Disney - Muppets Spinner Small Equipaje de mano  36 liters  Gris  Kermit Sparkle 
+prodname: 'American Tourister Wavebreaker Disney - Muppets Spinner Small Equipaje de mano  36 liters  Gris  Kermit Sparkle '
 ---
 
 Ahora mismo tienes [American Tourister Wavebreaker Disney - Muppets Spinner Small Equipaje de mano  36 liters  Gris  Kermit Sparkle ](https://www.amazon.es/dp/B07NJ5ZXSQ/?tag=tolees-21) a 86.25 EUR (original: 115.0 EUR) (25.00 %  de descuento) en el siguiente enlace!

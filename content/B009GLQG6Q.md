@@ -14,7 +14,7 @@ currency: EUR
 price: 7.35
 comparePrice: 9.8 EUR
 inStock: true
-prodname: NYX Professional Makeup - Polvos Minerales Fijadores Studio Finishing Powder - Tono Translucent
+prodname: 'NYX Professional Makeup - Polvos Minerales Fijadores Studio Finishing Powder - Tono Translucent'
 ---
 
 Ahora mismo tienes [NYX Professional Makeup - Polvos Minerales Fijadores Studio Finishing Powder - Tono Translucent](https://www.amazon.es/dp/B009GLQG6Q/?tag=tolees-21) a 7.35 EUR (original: 9.8 EUR) (25.00 %  de descuento) en el siguiente enlace!

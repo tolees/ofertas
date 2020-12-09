@@ -14,7 +14,7 @@ currency: EUR
 price: 20.47
 comparePrice: 34.99 EUR
 inStock: true
-prodname: JACK & JONES Jjeoxford Shirt L/s Noos Camisa  Verde  Deep DepthsDeep Depths   Large para Hombre
+prodname: 'JACK & JONES Jjeoxford Shirt L/s Noos Camisa  Verde  Deep DepthsDeep Depths   Large para Hombre'
 ---
 
 Tienes [JACK & JONES Jjeoxford Shirt L/s Noos Camisa  Verde  Deep DepthsDeep Depths   Large para Hombre](https://www.amazon.es/dp/B07F7D3ZWZ/?tag=tolees-21) con un 41.50 % de descuento con precio de oferta de 20.47 EUR (original: 34.99 EUR) en el siguiente enlace!

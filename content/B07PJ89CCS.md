@@ -14,7 +14,7 @@ currency: EUR
 price: 99
 comparePrice: 449 EUR
 inStock: true
-prodname: B&G Energy Viscoinstant - Colchón Viscoelastico Energy Viscoinstant  Todas Las Medidas   80x180 
+prodname: 'B&G Energy Viscoinstant - Colchón Viscoelastico Energy Viscoinstant  Todas Las Medidas   80x180 '
 ---
 
 Está [B&G Energy Viscoinstant - Colchón Viscoelastico Energy Viscoinstant  Todas Las Medidas   80x180 ](https://www.amazon.es/dp/B07PJ89CCS/?tag=tolees-21) con 77.95 de descuento por 99 EUR (original: 449 EUR) en el siguiente enlace!

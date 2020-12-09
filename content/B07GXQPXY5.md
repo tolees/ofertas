@@ -14,7 +14,7 @@ currency: EUR
 price: 25.42
 comparePrice: 69.95 EUR
 inStock: true
-prodname: bugatti 321465095900  Zapatillas para Hombre  Verde  Green 7000   42 EU
+prodname: 'bugatti 321465095900  Zapatillas para Hombre  Verde  Green 7000   42 EU'
 ---
 
 Está [bugatti 321465095900  Zapatillas para Hombre  Verde  Green 7000   42 EU](https://www.amazon.es/dp/B07GXQPXY5/?tag=tolees-21) con 63.66 de descuento por 25.42 EUR (original: 69.95 EUR) en el siguiente enlace!

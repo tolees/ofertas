@@ -14,7 +14,7 @@ currency: EUR
 price: 48.9
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Delson-Clenton  Zapatos de Cordones Oxford para Hombre  Negro Black  41.5 EU
+prodname: 'Skechers Delson-Clenton  Zapatos de Cordones Oxford para Hombre  Negro Black  41.5 EU'
 ---
 
 Ahora mismo tienes [Skechers Delson-Clenton  Zapatos de Cordones Oxford para Hombre  Negro Black  41.5 EU](https://www.amazon.es/dp/B07B9KTWWC/?tag=tolees-21) a 48.9 EUR (original: 69.95 EUR) (30.09 %  de descuento) en el siguiente enlace!

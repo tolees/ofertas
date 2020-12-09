@@ -14,7 +14,7 @@ currency: EUR
 price: 24.13
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Suede Heart Galaxy Wn s  Zapatillas para Mujer  Gris  Gray Violet Silver   38 EU
+prodname: 'Puma Suede Heart Galaxy Wn s  Zapatillas para Mujer  Gris  Gray Violet Silver   38 EU'
 ---
 
 Está [Puma Suede Heart Galaxy Wn s  Zapatillas para Mujer  Gris  Gray Violet Silver   38 EU](https://www.amazon.es/dp/B07DBWWJRV/?tag=tolees-21) con 73.17 de descuento por 24.13 EUR (original: 89.95 EUR) en el siguiente enlace!

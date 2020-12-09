@@ -14,7 +14,7 @@ currency: EUR
 price: 32.45
 comparePrice: 65 EUR
 inStock: true
-prodname: Asics Gel-Rocket 8  Zapatillas Deportivas para Interior para Hombre  Azul  Racer Blue/White 401   46 EU
+prodname: 'Asics Gel-Rocket 8  Zapatillas Deportivas para Interior para Hombre  Azul  Racer Blue/White 401   46 EU'
 ---
 
 Ahora mismo tienes [Asics Gel-Rocket 8  Zapatillas Deportivas para Interior para Hombre  Azul  Racer Blue/White 401   46 EU](https://www.amazon.es/dp/B07D1KY3ZB/?tag=tolees-21) a 32.45 EUR (original: 65 EUR) (50.08 %  de descuento) en el siguiente enlace!

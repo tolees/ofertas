@@ -14,7 +14,7 @@ currency: EUR
 price: 38.85
 comparePrice: 59.95 EUR
 inStock: true
-prodname: BOSS Octopus  Bañador para Hombre  Amarillo  Bright Yellow 731  Small
+prodname: 'BOSS Octopus  Bañador para Hombre  Amarillo  Bright Yellow 731  Small'
 ---
 
 Ahora mismo tienes [BOSS Octopus  Bañador para Hombre  Amarillo  Bright Yellow 731  Small](https://www.amazon.es/dp/B07KGLYK9N/?tag=tolees-21) a 38.85 EUR (original: 59.95 EUR) (35.20 %  de descuento) en el siguiente enlace!

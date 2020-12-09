@@ -14,7 +14,7 @@ currency: EUR
 price: 52.51
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   40.5 EU  7 UK 
+prodname: 'New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   40.5 EU  7 UK '
 ---
 
 Está [New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   40.5 EU  7 UK ](https://www.amazon.es/dp/B06Y2XRYKH/?tag=tolees-21) con 41.66 de descuento por 52.51 EUR (original: 90 EUR) en el siguiente enlace!

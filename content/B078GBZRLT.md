@@ -14,7 +14,7 @@ currency: EUR
 price: 6.2
 comparePrice: 13.2 EUR
 inStock: true
-prodname: oodji Ultra Hombre Polo de Algodón con Bordado Sin Etiqueta  Azul  ES 44 / XS
+prodname: 'oodji Ultra Hombre Polo de Algodón con Bordado Sin Etiqueta  Azul  ES 44 / XS'
 ---
 
 Ahora mismo tienes [oodji Ultra Hombre Polo de Algodón con Bordado Sin Etiqueta  Azul  ES 44 / XS](https://www.amazon.es/dp/B078GBZRLT/?tag=tolees-21) a 6.2 EUR (original: 13.2 EUR) (53.03 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.98
 comparePrice: 31.57 EUR
 inStock: true
-prodname: LifeWheel - Calcetines cortos - para hombre Multicolor 01:multicolor 6 Pairs  Medium
+prodname: 'LifeWheel - Calcetines cortos - para hombre Multicolor 01:multicolor 6 Pairs  Medium'
 ---
 
 Está [LifeWheel - Calcetines cortos - para hombre Multicolor 01:multicolor 6 Pairs  Medium](https://www.amazon.es/dp/B07GNCKHVZ/?tag=tolees-21) con 49.38 de descuento por 15.98 EUR (original: 31.57 EUR) en el siguiente enlace!

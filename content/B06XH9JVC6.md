@@ -14,7 +14,7 @@ currency: EUR
 price: 20.28
 comparePrice: 50 EUR
 inStock: true
-prodname: Helly Hansen HH LIFA Active Crew Camiseta Deporte  Hombre  Negro  XX-Large  Tamaño del Fabricante:2XL 
+prodname: 'Helly Hansen HH LIFA Active Crew Camiseta Deporte  Hombre  Negro  XX-Large  Tamaño del Fabricante:2XL '
 ---
 
 Ahora mismo tienes [Helly Hansen HH LIFA Active Crew Camiseta Deporte  Hombre  Negro  XX-Large  Tamaño del Fabricante:2XL ](https://www.amazon.es/dp/B06XH9JVC6/?tag=tolees-21) a 20.28 EUR (original: 50 EUR) (59.44 %  de descuento) en el siguiente enlace!

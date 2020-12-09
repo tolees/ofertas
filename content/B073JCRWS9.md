@@ -14,7 +14,7 @@ currency: EUR
 price: 40.82
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Cortefiel 4.T.M.Military Coat Abrigo  Mujer  Azul  Marine Blue   Large  Tamaño del fabricante:L 
+prodname: 'Cortefiel 4.T.M.Military Coat Abrigo  Mujer  Azul  Marine Blue   Large  Tamaño del fabricante:L '
 ---
 
 Ahora mismo tienes [Cortefiel 4.T.M.Military Coat Abrigo  Mujer  Azul  Marine Blue   Large  Tamaño del fabricante:L ](https://www.amazon.es/dp/B073JCRWS9/?tag=tolees-21) a 40.82 EUR (original: 99.99 EUR) (59.18 %  de descuento) en el siguiente enlace!

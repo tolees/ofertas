@@ -14,15 +14,13 @@ currency: EUR
 price: 52.5
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Sorel GLACY EXPLORER SHORTIE Botas Mujer  Gris  Quarry   38 EU
+prodname: 'Sorel GLACY EXPLORER SHORTIE Botas Mujer  Gris  Quarry   38 EU'
 ---
 
-Está [Sorel GLACY EXPLORER SHORTIE Botas Mujer  Gris  Quarry   38 EU](https://www.amazon.es/dp/B07KK3GHXK/?tag=tolees-21) con 65.00 de descuento por 52.5 EUR (original: 149.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sorel GLACY EXPLORER SHORTIE Botas Mujer  Gris  Quarry   38 EU](https://www.amazon.es/dp/B07KK3GHXK/?tag=tolees-21) a 52.5 EUR (original: 149.99 EUR) (65.00 %  de descuento) en el siguiente enlace!
 
 [![Sorel GLACY EXPLORER SHORTIE Botas Mujer](https://m.media-amazon.com/images/I/41PHO3zcHNL._SL200_.jpg)](https://www.amazon.es/dp/B07KK3GHXK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KK3GHXK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KK3GHXK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

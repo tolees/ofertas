@@ -14,7 +14,7 @@ currency: EUR
 price: 84.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Pioneer SE-MS7BT-K - Auriculares de tipo diadema  Bluetooth  HiRes  power bass  NFC   color negro
+prodname: 'Pioneer SE-MS7BT-K - Auriculares de tipo diadema  Bluetooth  HiRes  power bass  NFC   color negro'
 ---
 
 Tienes [Pioneer SE-MS7BT-K - Auriculares de tipo diadema  Bluetooth  HiRes  power bass  NFC   color negro](https://www.amazon.es/dp/B01NA6SMTK/?tag=tolees-21) con un 34.62 % de descuento con precio de oferta de 84.99 EUR (original: 129.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.84
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Kempa Premium Messenger Tasche Bolso Bandolera  Unisex Adulto   Negro   24x15x45 cm  W x H x L 
+prodname: 'Kempa Premium Messenger Tasche Bolso Bandolera  Unisex Adulto   Negro   24x15x45 cm  W x H x L '
 ---
 
 Está [Kempa Premium Messenger Tasche Bolso Bandolera  Unisex Adulto   Negro   24x15x45 cm  W x H x L ](https://www.amazon.es/dp/B016NOUIOY/?tag=tolees-21) con 48.31 de descuento por 25.84 EUR (original: 49.99 EUR) en el siguiente enlace!

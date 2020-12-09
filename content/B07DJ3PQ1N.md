@@ -14,7 +14,7 @@ currency: EUR
 price: 31.22
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance Fresh Foam Cruz v2 Silent Rave Pack  Zapatillas para Mujer  Negro  Black/Mineral Green/Guava Dm2   40 EU
+prodname: 'New Balance Fresh Foam Cruz v2 Silent Rave Pack  Zapatillas para Mujer  Negro  Black/Mineral Green/Guava Dm2   40 EU'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Silent Rave Pack  Zapatillas para Mujer  Negro  Black/Mineral Green/Guava Dm2   40 EU](https://www.amazon.es/dp/B07DJ3PQ1N/?tag=tolees-21) con 65.31 de descuento por 31.22 EUR (original: 90 EUR) en el siguiente enlace!

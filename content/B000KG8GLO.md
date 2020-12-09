@@ -14,7 +14,7 @@ currency: EUR
 price: 21.0
 comparePrice: 30.87 EUR
 inStock: true
-prodname: Pyrex Classic Vidrio - Cazuela redonda con tapa  3.5 l
+prodname: 'Pyrex Classic Vidrio - Cazuela redonda con tapa  3.5 l'
 ---
 
 Ahora mismo tienes [Pyrex Classic Vidrio - Cazuela redonda con tapa  3.5 l](https://www.amazon.es/dp/B000KG8GLO/?tag=tolees-21) a 21.0 EUR (original: 30.87 EUR) (31.97 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.84
 comparePrice: 23.06 EUR
 inStock: true
-prodname: CARE OF by PUMA Slip on Court Low-Top Sneakers  Blanco  White-Oatmeal   41 EU
+prodname: 'CARE OF by PUMA Slip on Court Low-Top Sneakers  Blanco  White-Oatmeal   41 EU'
 ---
 
 Está [CARE OF by PUMA Slip on Court Low-Top Sneakers  Blanco  White-Oatmeal   41 EU](https://www.amazon.es/dp/B07XLMF9LH/?tag=tolees-21) con 26.97 de descuento por 16.84 EUR (original: 23.06 EUR) en el siguiente enlace!

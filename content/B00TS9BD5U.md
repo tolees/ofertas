@@ -14,7 +14,7 @@ currency: EUR
 price: 218.29
 comparePrice: 499 EUR
 inStock: true
-prodname: Samyang F1112109101 - Objetivo fotográfico DSLR para Micro Cuatro Tercios  Distancia Focal Fija 12mm  Apertura f/2.8-22 ED AS NCS  Ojo de Pez   Negro
+prodname: 'Samyang F1112109101 - Objetivo fotográfico DSLR para Micro Cuatro Tercios  Distancia Focal Fija 12mm  Apertura f/2.8-22 ED AS NCS  Ojo de Pez   Negro'
 ---
 
 Tienes [Samyang F1112109101 - Objetivo fotográfico DSLR para Micro Cuatro Tercios  Distancia Focal Fija 12mm  Apertura f/2.8-22 ED AS NCS  Ojo de Pez   Negro](https://www.amazon.es/dp/B00TS9BD5U/?tag=tolees-21) con un 56.25 % de descuento con precio de oferta de 218.29 EUR (original: 499 EUR) en el siguiente enlace!

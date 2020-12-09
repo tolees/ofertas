@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Corte Regular Tanga de Malla Transparente Alrededor de la Cintura  Azul  Navy Blazer   38  Talla del Fabricante: M  para Mujer
+prodname: 'Tommy Hilfiger Corte Regular Tanga de Malla Transparente Alrededor de la Cintura  Azul  Navy Blazer   38  Talla del Fabricante: M  para Mujer'
 ---
 
 Está [Tommy Hilfiger Corte Regular Tanga de Malla Transparente Alrededor de la Cintura  Azul  Navy Blazer   38  Talla del Fabricante: M  para Mujer](https://www.amazon.es/dp/B06XBV7XFX/?tag=tolees-21) con 39.75 de descuento por 11.99 EUR (original: 19.9 EUR) en el siguiente enlace!

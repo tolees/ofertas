@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 67.59 EUR
 inStock: true
-prodname: FIYAPOO WiFi Endoscopio 2M  2.0MP  HD 1200P  8mm Impermeable Boroscopio Cámara De Inspección con 8 Led 2M Serpiente Cable y Adaptador USB para Teléfono Android IOS Tableta Dispositivo
+prodname: 'FIYAPOO WiFi Endoscopio 2M  2.0MP  HD 1200P  8mm Impermeable Boroscopio Cámara De Inspección con 8 Led 2M Serpiente Cable y Adaptador USB para Teléfono Android IOS Tableta Dispositivo'
 ---
 
 Ahora mismo tienes [FIYAPOO WiFi Endoscopio 2M  2.0MP  HD 1200P  8mm Impermeable Boroscopio Cámara De Inspección con 8 Led 2M Serpiente Cable y Adaptador USB para Teléfono Android IOS Tableta Dispositivo](https://www.amazon.es/dp/B07K1NWF5L/?tag=tolees-21) a 29.99 EUR (original: 67.59 EUR) (55.63 %  de descuento) en el siguiente enlace!

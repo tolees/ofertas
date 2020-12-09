@@ -14,7 +14,7 @@ currency: EUR
 price: 15.98
 comparePrice: 75.0 EUR
 inStock: true
-prodname: Superga 2578-cotu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White 901   41.5 EU
+prodname: 'Superga 2578-cotu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White 901   41.5 EU'
 ---
 
 Ahora mismo tienes [Superga 2578-cotu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White 901   41.5 EU](https://www.amazon.es/dp/B07TS8X5BK/?tag=tolees-21) a 15.98 EUR (original: 75.0 EUR) (78.69 %  de descuento) en el siguiente enlace!

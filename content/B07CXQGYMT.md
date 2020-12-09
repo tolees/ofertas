@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 20 EUR
 inStock: true
-prodname: Siux ANTIVIBRADOR VIBRASTOP K-2.0 Azul
+prodname: 'Siux ANTIVIBRADOR VIBRASTOP K-2.0 Azul'
 ---
 
 Tienes [Siux ANTIVIBRADOR VIBRASTOP K-2.0 Azul](https://www.amazon.es/dp/B07CXQGYMT/?tag=tolees-21) con un 25.25 % de descuento con precio de oferta de 14.95 EUR (original: 20 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 50.04
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Puma Speed Fusefit  Zapatillas de Entrenamiento para Hombre  Verde  Forest Night-Firecracker 04   42 EU
+prodname: 'Puma Speed Fusefit  Zapatillas de Entrenamiento para Hombre  Verde  Forest Night-Firecracker 04   42 EU'
 ---
 
 Está [Puma Speed Fusefit  Zapatillas de Entrenamiento para Hombre  Verde  Forest Night-Firecracker 04   42 EU](https://www.amazon.es/dp/B07CZ3PSYW/?tag=tolees-21) con 61.49 de descuento por 50.04 EUR (original: 129.95 EUR) en el siguiente enlace!

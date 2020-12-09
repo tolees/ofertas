@@ -14,7 +14,7 @@ currency: EUR
 price: 7.46
 comparePrice: 25.5 EUR
 inStock: true
-prodname: Artesania Cerda Shimmer and Shine - Mochila Infantil  31 cm  Morado
+prodname: 'Artesania Cerda Shimmer and Shine - Mochila Infantil  31 cm  Morado'
 ---
 
 Está [Artesania Cerda Shimmer and Shine - Mochila Infantil  31 cm  Morado](https://www.amazon.es/dp/B07RFSMNZQ/?tag=tolees-21) con 70.75 de descuento por 7.46 EUR (original: 25.5 EUR) en el siguiente enlace!

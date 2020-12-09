@@ -14,7 +14,7 @@ currency: EUR
 price: 11.24
 comparePrice: 21.9 EUR
 inStock: true
-prodname: Duracell - Plus AAA  Pilas Alcalinas  Paquete de 18 con apertura simplificada  1 5 Voltios LR03 MN2400
+prodname: 'Duracell - Plus AAA  Pilas Alcalinas  Paquete de 18 con apertura simplificada  1 5 Voltios LR03 MN2400'
 ---
 
 Tienes [Duracell - Plus AAA  Pilas Alcalinas  Paquete de 18 con apertura simplificada  1 5 Voltios LR03 MN2400](https://www.amazon.es/dp/B06VWDFJ52/?tag=tolees-21) con un 48.68 % de descuento con precio de oferta de 11.24 EUR (original: 21.9 EUR) en el siguiente enlace!

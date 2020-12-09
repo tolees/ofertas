@@ -14,7 +14,7 @@ currency: EUR
 price: 0.01
 comparePrice: 12.29 EUR
 inStock: true
-prodname: AIni Mujer Verano De Playa Vestido De Lino De Verano Vestido Mujer Mujer Camiseta AlgodóN Casual Tallas Grandes Vestido De SeñOras Tallas Grandes Vestidos De Playa
+prodname: 'AIni Mujer Verano De Playa Vestido De Lino De Verano Vestido Mujer Mujer Camiseta AlgodóN Casual Tallas Grandes Vestido De SeñOras Tallas Grandes Vestidos De Playa'
 ---
 
 Tienes [AIni Mujer Verano De Playa Vestido De Lino De Verano Vestido Mujer Mujer Camiseta AlgodóN Casual Tallas Grandes Vestido De SeñOras Tallas Grandes Vestidos De Playa](https://www.amazon.es/dp/B07RBCDQ7R/?tag=tolees-21) con un 99.92 % de descuento con precio de oferta de 0.01 EUR (original: 12.29 EUR) en el siguiente enlace!

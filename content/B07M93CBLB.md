@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 22.5 EUR
 inStock: true
-prodname: Nike M NK Dry tee Backboard T-Shirt de Baloncesto  Hombre  Black  S
+prodname: 'Nike M NK Dry tee Backboard T-Shirt de Baloncesto  Hombre  Black  S'
 ---
 
 Está [Nike M NK Dry tee Backboard T-Shirt de Baloncesto  Hombre  Black  S](https://www.amazon.es/dp/B07M93CBLB/?tag=tolees-21) con 33.56 de descuento por 14.95 EUR (original: 22.5 EUR) en el siguiente enlace!

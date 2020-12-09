@@ -14,7 +14,7 @@ currency: EUR
 price: 164.95
 comparePrice: 249.99 EUR
 inStock: true
-prodname: Garmin Vívomove 3S Sport Reloj Inteligente  Unisex Adulto  Rose Gold/Tundra  Small
+prodname: 'Garmin Vívomove 3S Sport Reloj Inteligente  Unisex Adulto  Rose Gold/Tundra  Small'
 ---
 
 Está [Garmin Vívomove 3S Sport Reloj Inteligente  Unisex Adulto  Rose Gold/Tundra  Small](https://www.amazon.es/dp/B07VZYRXQ3/?tag=tolees-21) con 34.02 de descuento por 164.95 EUR (original: 249.99 EUR) en el siguiente enlace!

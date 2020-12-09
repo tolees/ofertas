@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 109.99 EUR
 inStock: true
-prodname: SUMGOTT Purificador de Aire  Filtro HEPA con 3 Etapas de Filtración  Elimina el 99 99% Alergenos  Polvo  Polen y Mascotas Dander  Purificador de Aire para Casa y Oficina
+prodname: 'SUMGOTT Purificador de Aire  Filtro HEPA con 3 Etapas de Filtración  Elimina el 99 99% Alergenos  Polvo  Polen y Mascotas Dander  Purificador de Aire para Casa y Oficina'
 ---
 
 Está [SUMGOTT Purificador de Aire  Filtro HEPA con 3 Etapas de Filtración  Elimina el 99 99% Alergenos  Polvo  Polen y Mascotas Dander  Purificador de Aire para Casa y Oficina](https://www.amazon.es/dp/B07DS39DDL/?tag=tolees-21) con 36.37 de descuento por 69.99 EUR (original: 109.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.83
 comparePrice: 33 EUR
 inStock: true
-prodname: Emporio Armani CC747  Bóxer para Hombre  Blanco  White  Small  Tamaño del Fabricante:S 
+prodname: 'Emporio Armani CC747  Bóxer para Hombre  Blanco  White  Small  Tamaño del Fabricante:S '
 ---
 
 Tienes [Emporio Armani CC747  Bóxer para Hombre  Blanco  White  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B00UN8RO7G/?tag=tolees-21) con un 55.06 % de descuento con precio de oferta de 14.83 EUR (original: 33 EUR) en el siguiente enlace!

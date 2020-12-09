@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: L-RUN Mens Hiking Shoes Transpirable Antideslizante para Hombre Zapatillas de Deporte al Aire Libre Khaki 41
+prodname: 'L-RUN Mens Hiking Shoes Transpirable Antideslizante para Hombre Zapatillas de Deporte al Aire Libre Khaki 41'
 ---
 
 Tienes [L-RUN Mens Hiking Shoes Transpirable Antideslizante para Hombre Zapatillas de Deporte al Aire Libre Khaki 41](https://www.amazon.es/dp/B07GWDJGQD/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

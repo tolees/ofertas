@@ -14,7 +14,7 @@ currency: EUR
 price: 69.9
 comparePrice: 149.0 EUR
 inStock: true
-prodname: Apple Funda Leather Folio  para el iPhone 11 Pro  - en Negro
+prodname: 'Apple Funda Leather Folio  para el iPhone 11 Pro  - en Negro'
 ---
 
 Está [Apple Funda Leather Folio  para el iPhone 11 Pro  - en Negro](https://www.amazon.es/dp/B07XR9V7SD/?tag=tolees-21) con 53.09 de descuento por 69.9 EUR (original: 149.0 EUR) en el siguiente enlace!

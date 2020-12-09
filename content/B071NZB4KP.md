@@ -14,7 +14,7 @@ currency: EUR
 price: 29.41
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Asics Gel Movimentum  Zapatillas para Mujer  Negro  Black/rich Gold   36 EU
+prodname: 'Asics Gel Movimentum  Zapatillas para Mujer  Negro  Black/rich Gold   36 EU'
 ---
 
 Ahora mismo tienes [Asics Gel Movimentum  Zapatillas para Mujer  Negro  Black/rich Gold   36 EU](https://www.amazon.es/dp/B071NZB4KP/?tag=tolees-21) a 29.41 EUR (original: 89.95 EUR) (67.30 %  de descuento) en el siguiente enlace!

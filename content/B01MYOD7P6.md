@@ -14,7 +14,7 @@ currency: EUR
 price: 22.51
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Puma Pulse Ignite XT Swan Wn s  Zapatillas Deportivas para Interior para Mujer  Blanco White-Quarry 02  37 EU
+prodname: 'Puma Pulse Ignite XT Swan Wn s  Zapatillas Deportivas para Interior para Mujer  Blanco White-Quarry 02  37 EU'
 ---
 
 Está [Puma Pulse Ignite XT Swan Wn s  Zapatillas Deportivas para Interior para Mujer  Blanco White-Quarry 02  37 EU](https://www.amazon.es/dp/B01MYOD7P6/?tag=tolees-21) con 73.50 de descuento por 22.51 EUR (original: 84.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 33.77
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Hilfiger Denim Tommy Jeans Icon Sneaker  Zapatillas para Mujer  Rojo  RWB 020   42 EU
+prodname: 'Hilfiger Denim Tommy Jeans Icon Sneaker  Zapatillas para Mujer  Rojo  RWB 020   42 EU'
 ---
 
 Tienes [Hilfiger Denim Tommy Jeans Icon Sneaker  Zapatillas para Mujer  Rojo  RWB 020   42 EU](https://www.amazon.es/dp/B07L3FMRG8/?tag=tolees-21) con un 66.20 % de descuento con precio de oferta de 33.77 EUR (original: 99.9 EUR) en el siguiente enlace!

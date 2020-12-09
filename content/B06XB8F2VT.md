@@ -14,7 +14,7 @@ currency: EUR
 price: 119.73
 comparePrice: 385 EUR
 inStock: true
-prodname: Jimmy Choo Rosy/S  Gafas de Sol para Mujer  Multicolor  Mtblackpalla Ixa   51
+prodname: 'Jimmy Choo Rosy/S  Gafas de Sol para Mujer  Multicolor  Mtblackpalla Ixa   51'
 ---
 
 Tienes [Jimmy Choo Rosy/S  Gafas de Sol para Mujer  Multicolor  Mtblackpalla Ixa   51](https://www.amazon.es/dp/B06XB8F2VT/?tag=tolees-21) con un 68.90 % de descuento con precio de oferta de 119.73 EUR (original: 385 EUR) en el siguiente enlace!

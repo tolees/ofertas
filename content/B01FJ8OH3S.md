@@ -14,7 +14,7 @@ currency: EUR
 price: 104.99
 comparePrice: 205.7 EUR
 inStock: true
-prodname: Bosch Professional GSS 160 Multi - Lijadora orbital  180W  3 placas Lijadoras 140  160 y Delta  en L-BOXX 
+prodname: 'Bosch Professional GSS 160 Multi - Lijadora orbital  180W  3 placas Lijadoras 140  160 y Delta  en L-BOXX '
 ---
 
 Está [Bosch Professional GSS 160 Multi - Lijadora orbital  180W  3 placas Lijadoras 140  160 y Delta  en L-BOXX ](https://www.amazon.es/dp/B01FJ8OH3S/?tag=tolees-21) con 48.96 de descuento por 104.99 EUR (original: 205.7 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 45 EUR
 inStock: true
-prodname: Helly Hansen W HH LIFA Active Basleayer Pant  Mujer  Graphite Blue  M
+prodname: 'Helly Hansen W HH LIFA Active Basleayer Pant  Mujer  Graphite Blue  M'
 ---
 
 Tienes [Helly Hansen W HH LIFA Active Basleayer Pant  Mujer  Graphite Blue  M](https://www.amazon.es/dp/B06XHC5R9J/?tag=tolees-21) con un 46.78 % de descuento con precio de oferta de 23.95 EUR (original: 45 EUR) en el siguiente enlace!

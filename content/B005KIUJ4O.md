@@ -14,7 +14,7 @@ currency: EUR
 price: 6.55
 comparePrice: 14.5 EUR
 inStock: true
-prodname: Álvarez Gómez - Agua Fresca de Baño Clásica - 750 ml
+prodname: 'Álvarez Gómez - Agua Fresca de Baño Clásica - 750 ml'
 ---
 
 Ahora mismo tienes [Álvarez Gómez - Agua Fresca de Baño Clásica - 750 ml](https://www.amazon.es/dp/B005KIUJ4O/?tag=tolees-21) a 6.55 EUR (original: 14.5 EUR) (54.83 %  de descuento) en el siguiente enlace!

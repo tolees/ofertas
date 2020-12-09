@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Skechers Graceful-Get Connected  Zapatillas  Negro  BBK Black Mesh/Trim   35 EU
+prodname: 'Skechers Graceful-Get Connected  Zapatillas  Negro  BBK Black Mesh/Trim   35 EU'
 ---
 
 Tienes [Skechers Graceful-Get Connected  Zapatillas  Negro  BBK Black Mesh/Trim   35 EU](https://www.amazon.es/dp/B01M10NQCS/?tag=tolees-21) con un 29.95 % de descuento con precio de oferta de 34.99 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.18
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Rieker Frühjahr/Sommer L2814  Zapatillas sin Cordones Mujer  Blanco  Weiss/Jeans/ 80 80   37 EU
+prodname: 'Rieker Frühjahr/Sommer L2814  Zapatillas sin Cordones Mujer  Blanco  Weiss/Jeans/ 80 80   37 EU'
 ---
 
 Ahora mismo tienes [Rieker Frühjahr/Sommer L2814  Zapatillas sin Cordones Mujer  Blanco  Weiss/Jeans/ 80 80   37 EU](https://www.amazon.es/dp/B07TBBPTGQ/?tag=tolees-21) a 19.18 EUR (original: 59.95 EUR) (68.01 %  de descuento) en el siguiente enlace!

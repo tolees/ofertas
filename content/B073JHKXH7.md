@@ -14,7 +14,7 @@ currency: EUR
 price: 12.73
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Cortefiel C5BCB Oxford Liso TBD  Camisa Casual para Hombre  Blanco  White   S  Tamaño del fabricante:S 
+prodname: 'Cortefiel C5BCB Oxford Liso TBD  Camisa Casual para Hombre  Blanco  White   S  Tamaño del fabricante:S '
 ---
 
 Tienes [Cortefiel C5BCB Oxford Liso TBD  Camisa Casual para Hombre  Blanco  White   S  Tamaño del fabricante:S ](https://www.amazon.es/dp/B073JHKXH7/?tag=tolees-21) con un 68.17 % de descuento con precio de oferta de 12.73 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.93
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Puma ESS No.1 Leggings W Pants  Female  Gris  M
+prodname: 'Puma ESS No.1 Leggings W Pants  Female  Gris  M'
 ---
 
 Tienes [Puma ESS No.1 Leggings W Pants  Female  Gris  M](https://www.amazon.es/dp/B01AYDPPXE/?tag=tolees-21) con un 36.79 % de descuento con precio de oferta de 18.93 EUR (original: 29.95 EUR) en el siguiente enlace!

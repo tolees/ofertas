@@ -14,7 +14,7 @@ currency: EUR
 price: 16.76
 comparePrice: 24.99 EUR
 inStock: true
-prodname: JACK & JONES Jcomarko Polo SS  Hombre  Medium  Talla del Fabricante: 
+prodname: 'JACK & JONES Jcomarko Polo SS  Hombre  Medium  Talla del Fabricante: '
 ---
 
 Tienes [JACK & JONES Jcomarko Polo SS  Hombre  Medium  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNFNDTN/?tag=tolees-21) con un 32.93 % de descuento con precio de oferta de 16.76 EUR (original: 24.99 EUR) en el siguiente enlace!

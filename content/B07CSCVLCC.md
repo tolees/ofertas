@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Negro Black 05  36 EU
+prodname: 'Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Negro Black 05  36 EU'
 ---
 
 Ahora mismo tienes [Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Negro Black 05  36 EU](https://www.amazon.es/dp/B07CSCVLCC/?tag=tolees-21) a 35.99 EUR (original: 79.95 EUR) (54.98 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 75.85
 comparePrice: 159.0 EUR
 inStock: true
-prodname: Reloj Pulsar - Hombre PX3127X1
+prodname: 'Reloj Pulsar - Hombre PX3127X1'
 ---
 
 Está [Reloj Pulsar - Hombre PX3127X1](https://www.amazon.es/dp/B074DXDGXT/?tag=tolees-21) con 52.30 de descuento por 75.85 EUR (original: 159.0 EUR) en el siguiente enlace!

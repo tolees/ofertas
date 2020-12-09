@@ -14,7 +14,7 @@ currency: EUR
 price: 74.99
 comparePrice: 169.99 EUR
 inStock: true
-prodname: ibowin® 10.1 Pulgadas 2G RAM 32G ROM 3G Movil Tablet PC 1280x800 IPS Resolución 3G WCDMA y 2G gsm WiFi + Cellular + AGPS Dual SIM Tarjeta - Plata
+prodname: 'ibowin® 10.1 Pulgadas 2G RAM 32G ROM 3G Movil Tablet PC 1280x800 IPS Resolución 3G WCDMA y 2G gsm WiFi + Cellular + AGPS Dual SIM Tarjeta - Plata'
 ---
 
 Está [ibowin® 10.1 Pulgadas 2G RAM 32G ROM 3G Movil Tablet PC 1280x800 IPS Resolución 3G WCDMA y 2G gsm WiFi + Cellular + AGPS Dual SIM Tarjeta - Plata](https://www.amazon.es/dp/B01L8TAFCY/?tag=tolees-21) con 55.89 de descuento por 74.99 EUR (original: 169.99 EUR) en el siguiente enlace!

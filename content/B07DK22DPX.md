@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Geox Baby Kilwi Girl  Zapatillas para Bebés  Azul  Avio C4005   23 EU
+prodname: 'Geox Baby Kilwi Girl  Zapatillas para Bebés  Azul  Avio C4005   23 EU'
 ---
 
 Ahora mismo tienes [Geox Baby Kilwi Girl  Zapatillas para Bebés  Azul  Avio C4005   23 EU](https://www.amazon.es/dp/B07DK22DPX/?tag=tolees-21) a 24.95 EUR (original: 49.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

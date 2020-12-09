@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Los Pilares De La Tierra
+prodname: 'Los Pilares De La Tierra'
 ---
 
 Está [Los Pilares De La Tierra](https://www.amazon.es/dp/B0748NNTNN/?tag=tolees-21) con 75.02 de descuento por 9.99 EUR (original: 39.99 EUR) en el siguiente enlace!

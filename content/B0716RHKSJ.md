@@ -14,7 +14,7 @@ currency: EUR
 price: 56.28
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Columbia Fire Venture Waterproof  Zapatillas De Deporte para Exterior para Mujer  Azul  Blue Heron  Bright Peach   37 EU
+prodname: 'Columbia Fire Venture Waterproof  Zapatillas De Deporte para Exterior para Mujer  Azul  Blue Heron  Bright Peach   37 EU'
 ---
 
 Tienes [Columbia Fire Venture Waterproof  Zapatillas De Deporte para Exterior para Mujer  Azul  Blue Heron  Bright Peach   37 EU](https://www.amazon.es/dp/B0716RHKSJ/?tag=tolees-21) con un 48.81 % de descuento con precio de oferta de 56.28 EUR (original: 109.95 EUR) en el siguiente enlace!

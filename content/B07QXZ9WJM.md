@@ -14,7 +14,7 @@ currency: EUR
 price: 78.54
 comparePrice: 220.0 EUR
 inStock: true
-prodname: Helly Hansen Lifaloft Hooded Insulator Jacket Chaqueta con Capucha  Hombre  Azul  Navy   S
+prodname: 'Helly Hansen Lifaloft Hooded Insulator Jacket Chaqueta con Capucha  Hombre  Azul  Navy   S'
 ---
 
 Tienes [Helly Hansen Lifaloft Hooded Insulator Jacket Chaqueta con Capucha  Hombre  Azul  Navy   S](https://www.amazon.es/dp/B07QXZ9WJM/?tag=tolees-21) con un 64.30 % de descuento con precio de oferta de 78.54 EUR (original: 220.0 EUR) en el siguiente enlace!

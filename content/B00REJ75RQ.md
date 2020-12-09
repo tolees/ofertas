@@ -14,7 +14,7 @@ currency: EUR
 price: 8.26
 comparePrice: 16.34 EUR
 inStock: true
-prodname: Gevavi 6388 PVC Badeschlappen - Zapatillas de casa de Material sintético Unisex Adulto  Color Azul  Talla 42
+prodname: 'Gevavi 6388 PVC Badeschlappen - Zapatillas de casa de Material sintético Unisex Adulto  Color Azul  Talla 42'
 ---
 
 Ahora mismo tienes [Gevavi 6388 PVC Badeschlappen - Zapatillas de casa de Material sintético Unisex Adulto  Color Azul  Talla 42](https://www.amazon.es/dp/B00REJ75RQ/?tag=tolees-21) a 8.26 EUR (original: 16.34 EUR) (49.45 %  de descuento) en el siguiente enlace!

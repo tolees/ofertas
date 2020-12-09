@@ -14,13 +14,15 @@ currency: EUR
 price: 49.37
 comparePrice: 91.33 EUR
 inStock: true
-prodname: Mars Whisky - 700 ml
+prodname: 'Mars Whisky - 700 ml'
 ---
 
-Ahora mismo tienes [Mars Whisky - 700 ml](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21) a 49.37 EUR (original: 91.33 EUR) (45.94 %  de descuento) en el siguiente enlace!
+Está [Mars Whisky - 700 ml](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21) con 45.94 de descuento por 49.37 EUR (original: 91.33 EUR) en el siguiente enlace!
 
 [![Mars Whisky - 700 ml](https://m.media-amazon.com/images/I/51qWPEQteYL._SL200_.jpg)](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00YWMIZL8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

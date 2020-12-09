@@ -14,7 +14,7 @@ currency: EUR
 price: 56.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Tableta Gráfica  VEIKK-A30 Tableta Gráfica Portátil con 8192 Capa Pasiva Lápiz y Tableta 5080 LPI para Mano Izquierda/Derecha  Gesto Inteligente con 4 Teclas Táctiles
+prodname: 'Tableta Gráfica  VEIKK-A30 Tableta Gráfica Portátil con 8192 Capa Pasiva Lápiz y Tableta 5080 LPI para Mano Izquierda/Derecha  Gesto Inteligente con 4 Teclas Táctiles'
 ---
 
 Tienes [Tableta Gráfica  VEIKK-A30 Tableta Gráfica Portátil con 8192 Capa Pasiva Lápiz y Tableta 5080 LPI para Mano Izquierda/Derecha  Gesto Inteligente con 4 Teclas Táctiles](https://www.amazon.es/dp/B07JK7PM2C/?tag=tolees-21) con un 43.00 % de descuento con precio de oferta de 56.99 EUR (original: 99.99 EUR) en el siguiente enlace!

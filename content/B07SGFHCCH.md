@@ -14,7 +14,7 @@ currency: EUR
 price: 239.0
 comparePrice: 325.45 EUR
 inStock: true
-prodname: Braun Series 9 9340s - Afeitadora Eléctrica Hombre Última Generación  Afeitadora Barba Recargable  Inalámbrica  Base de Carga  Funda  Seco/Mojado  Negro
+prodname: 'Braun Series 9 9340s - Afeitadora Eléctrica Hombre Última Generación  Afeitadora Barba Recargable  Inalámbrica  Base de Carga  Funda  Seco/Mojado  Negro'
 ---
 
 Tienes [Braun Series 9 9340s - Afeitadora Eléctrica Hombre Última Generación  Afeitadora Barba Recargable  Inalámbrica  Base de Carga  Funda  Seco/Mojado  Negro](https://www.amazon.es/dp/B07SGFHCCH/?tag=tolees-21) con un 26.56 % de descuento con precio de oferta de 239.0 EUR (original: 325.45 EUR) en el siguiente enlace!

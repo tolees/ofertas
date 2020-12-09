@@ -14,7 +14,7 @@ currency: EUR
 price: 116.4
 comparePrice: 219.0 EUR
 inStock: true
-prodname: Apple Funda de piel  para el MacBook Pro de 15 pulgadas  - Marrón caramelo
+prodname: 'Apple Funda de piel  para el MacBook Pro de 15 pulgadas  - Marrón caramelo'
 ---
 
 Tienes [Apple Funda de piel  para el MacBook Pro de 15 pulgadas  - Marrón caramelo](https://www.amazon.es/dp/B07FKLXM8Y/?tag=tolees-21) con un 46.85 % de descuento con precio de oferta de 116.4 EUR (original: 219.0 EUR) en el siguiente enlace!

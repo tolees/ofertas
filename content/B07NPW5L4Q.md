@@ -14,7 +14,7 @@ currency: EUR
 price: 124.99
 comparePrice: 169.99 EUR
 inStock: true
-prodname: auna TC-386 • Equipo de música Tocadiscos • Minicadena Hi-fi • Radiocasete • Altavoces estéreo • Reproductor de CD • Compatible MP3 • Digitalizador USB • Ranura SD • Radio FM • Control Remoto • Negro
+prodname: 'auna TC-386 • Equipo de música Tocadiscos • Minicadena Hi-fi • Radiocasete • Altavoces estéreo • Reproductor de CD • Compatible MP3 • Digitalizador USB • Ranura SD • Radio FM • Control Remoto • Negro'
 ---
 
 Ahora mismo tienes [auna TC-386 • Equipo de música Tocadiscos • Minicadena Hi-fi • Radiocasete • Altavoces estéreo • Reproductor de CD • Compatible MP3 • Digitalizador USB • Ranura SD • Radio FM • Control Remoto • Negro](https://www.amazon.es/dp/B07NPW5L4Q/?tag=tolees-21) a 124.99 EUR (original: 169.99 EUR) (26.47 %  de descuento) en el siguiente enlace!

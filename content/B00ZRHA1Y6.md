@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 45 EUR
 inStock: true
-prodname: Dakine Wonder Mochila Poliéster Negro  Gris - Mochila para portátiles y netbooks  Poliéster  Negro  Gris  Monótono  600 D  Hombres  Bolsillo Lateral 
+prodname: 'Dakine Wonder Mochila Poliéster Negro  Gris - Mochila para portátiles y netbooks  Poliéster  Negro  Gris  Monótono  600 D  Hombres  Bolsillo Lateral '
 ---
 
 Tienes [Dakine Wonder Mochila Poliéster Negro  Gris - Mochila para portátiles y netbooks  Poliéster  Negro  Gris  Monótono  600 D  Hombres  Bolsillo Lateral ](https://www.amazon.es/dp/B00ZRHA1Y6/?tag=tolees-21) con un 55.67 % de descuento con precio de oferta de 19.95 EUR (original: 45 EUR) en el siguiente enlace!

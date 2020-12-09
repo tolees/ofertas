@@ -14,7 +14,7 @@ currency: EUR
 price: 66.15
 comparePrice: 150 EUR
 inStock: true
-prodname: Armani Exchange - Womans Shopping Bag  Bolsos totes Mujer  Negro  Black   31x11x48 cm  B x H T 
+prodname: 'Armani Exchange - Womans Shopping Bag  Bolsos totes Mujer  Negro  Black   31x11x48 cm  B x H T '
 ---
 
 Está [Armani Exchange - Womans Shopping Bag  Bolsos totes Mujer  Negro  Black   31x11x48 cm  B x H T ](https://www.amazon.es/dp/B07F1D7ZJT/?tag=tolees-21) con 55.90 de descuento por 66.15 EUR (original: 150 EUR) en el siguiente enlace!

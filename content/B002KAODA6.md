@@ -14,7 +14,7 @@ currency: EUR
 price: 32.4
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Crocs Crocband U  Zuecos Unisex Adulto  Blanco  White   42-43 EU
+prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Blanco  White   42-43 EU'
 ---
 
 Ahora mismo tienes [Crocs Crocband U  Zuecos Unisex Adulto  Blanco  White   42-43 EU](https://www.amazon.es/dp/B002KAODA6/?tag=tolees-21) a 32.4 EUR (original: 44.99 EUR) (27.98 %  de descuento) en el siguiente enlace!

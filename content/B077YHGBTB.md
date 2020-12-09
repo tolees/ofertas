@@ -14,7 +14,7 @@ currency: EUR
 price: 46.95
 comparePrice: 75 EUR
 inStock: true
-prodname: Head Tour Team Padel Paletero de Tenis  Negro  S
+prodname: 'Head Tour Team Padel Paletero de Tenis  Negro  S'
 ---
 
 Tienes [Head Tour Team Padel Paletero de Tenis  Negro  S](https://www.amazon.es/dp/B077YHGBTB/?tag=tolees-21) con un 37.40 % de descuento con precio de oferta de 46.95 EUR (original: 75 EUR) en el siguiente enlace!

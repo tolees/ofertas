@@ -14,7 +14,7 @@ currency: EUR
 price: 8.42
 comparePrice: 29.95 EUR
 inStock: true
-prodname: XTI 86088  Bolso de Mano para Mujer  Rosa  Nude   22x22x3 cm  W x H x L 
+prodname: 'XTI 86088  Bolso de Mano para Mujer  Rosa  Nude   22x22x3 cm  W x H x L '
 ---
 
 Está [XTI 86088  Bolso de Mano para Mujer  Rosa  Nude   22x22x3 cm  W x H x L ](https://www.amazon.es/dp/B07JKVWBZ6/?tag=tolees-21) con 71.89 de descuento por 8.42 EUR (original: 29.95 EUR) en el siguiente enlace!

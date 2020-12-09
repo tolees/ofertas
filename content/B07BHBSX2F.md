@@ -14,7 +14,7 @@ currency: EUR
 price: 14.94
 comparePrice: 24.9 EUR
 inStock: true
-prodname: Kipling - Ness  Carteras Mujer  Varios colores  Soft Feather   0.1x20.5x13.5 cm  B x H T 
+prodname: 'Kipling - Ness  Carteras Mujer  Varios colores  Soft Feather   0.1x20.5x13.5 cm  B x H T '
 ---
 
 Está [Kipling - Ness  Carteras Mujer  Varios colores  Soft Feather   0.1x20.5x13.5 cm  B x H T ](https://www.amazon.es/dp/B07BHBSX2F/?tag=tolees-21) con 40.00 de descuento por 14.94 EUR (original: 24.9 EUR) en el siguiente enlace!

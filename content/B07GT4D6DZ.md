@@ -14,7 +14,7 @@ currency: EUR
 price: 14.01
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Sony SRSXB01G - Altavoz inalámbrico portátil  Compacto  Bluetooth  Extra Bass  6h de batería  Resistente al Agua IPX5  Viene con Correa  Color Verde
+prodname: 'Sony SRSXB01G - Altavoz inalámbrico portátil  Compacto  Bluetooth  Extra Bass  6h de batería  Resistente al Agua IPX5  Viene con Correa  Color Verde'
 ---
 
 Está [Sony SRSXB01G - Altavoz inalámbrico portátil  Compacto  Bluetooth  Extra Bass  6h de batería  Resistente al Agua IPX5  Viene con Correa  Color Verde](https://www.amazon.es/dp/B07GT4D6DZ/?tag=tolees-21) con 59.97 de descuento por 14.01 EUR (original: 35.0 EUR) en el siguiente enlace!

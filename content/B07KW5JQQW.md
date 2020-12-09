@@ -14,7 +14,7 @@ currency: EUR
 price: 429.99
 comparePrice: 729.99 EUR
 inStock: true
-prodname: Blackview BV9500 Pro - Móviles Resistentes Walkie-Talkie 4G Smartphone con 10000mah Batería Carga Inlámbrica  6GB+128GB  Dual SIM  Android 8.1  5.7’’FHD  13MP+16MP Cámara [Versión Global]  Negro 
+prodname: 'Blackview BV9500 Pro - Móviles Resistentes Walkie-Talkie 4G Smartphone con 10000mah Batería Carga Inlámbrica  6GB+128GB  Dual SIM  Android 8.1  5.7’’FHD  13MP+16MP Cámara [Versión Global]  Negro '
 ---
 
 Está [Blackview BV9500 Pro - Móviles Resistentes Walkie-Talkie 4G Smartphone con 10000mah Batería Carga Inlámbrica  6GB+128GB  Dual SIM  Android 8.1  5.7’’FHD  13MP+16MP Cámara [Versión Global]  Negro ](https://www.amazon.es/dp/B07KW5JQQW/?tag=tolees-21) con 41.10 de descuento por 429.99 EUR (original: 729.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.48
 comparePrice: 24.97 EUR
 inStock: true
-prodname: Clementoni Ciencia y Juego- Invernadero Ecológico  55375 
+prodname: 'Clementoni Ciencia y Juego- Invernadero Ecológico  55375 '
 ---
 
 Ahora mismo tienes [Clementoni Ciencia y Juego- Invernadero Ecológico  55375 ](https://www.amazon.es/dp/B08BTWSSGY/?tag=tolees-21) a 17.48 EUR (original: 24.97 EUR) (30.00 %  de descuento) en el siguiente enlace!

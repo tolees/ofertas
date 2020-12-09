@@ -14,7 +14,7 @@ currency: EUR
 price: 119.99
 comparePrice: 189.99 EUR
 inStock: true
-prodname: Razer Basilisk Ultimate Ratón Inalámbrico para Juegos  11 Botones Programables Tecnología Hyperspeed  Enfoque Óptico + Sensor  Interruptor Mouse Óptico  Iluminación Croma RGB con Estación de Carga
+prodname: 'Razer Basilisk Ultimate Ratón Inalámbrico para Juegos  11 Botones Programables Tecnología Hyperspeed  Enfoque Óptico + Sensor  Interruptor Mouse Óptico  Iluminación Croma RGB con Estación de Carga'
 ---
 
 Está [Razer Basilisk Ultimate Ratón Inalámbrico para Juegos  11 Botones Programables Tecnología Hyperspeed  Enfoque Óptico + Sensor  Interruptor Mouse Óptico  Iluminación Croma RGB con Estación de Carga](https://www.amazon.es/dp/B07Y8SF6ZY/?tag=tolees-21) con 36.84 de descuento por 119.99 EUR (original: 189.99 EUR) en el siguiente enlace!

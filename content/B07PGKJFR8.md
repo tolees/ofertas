@@ -14,7 +14,7 @@ currency: EUR
 price: 46.52
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable EFV-110D-2AVUEF
+prodname: 'Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable EFV-110D-2AVUEF'
 ---
 
 Tienes [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable EFV-110D-2AVUEF](https://www.amazon.es/dp/B07PGKJFR8/?tag=tolees-21) con un 48.25 % de descuento con precio de oferta de 46.52 EUR (original: 89.9 EUR) en el siguiente enlace!

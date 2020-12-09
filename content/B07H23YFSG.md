@@ -14,7 +14,7 @@ currency: EUR
 price: 4.5
 comparePrice: 25.99 EUR
 inStock: true
-prodname: LANGRIA Caja Joyero  Organizador para Almacenamiento de Joyas Anillos Pendientes  Cajita de Mano con Espejo  Verde
+prodname: 'LANGRIA Caja Joyero  Organizador para Almacenamiento de Joyas Anillos Pendientes  Cajita de Mano con Espejo  Verde'
 ---
 
 Está [LANGRIA Caja Joyero  Organizador para Almacenamiento de Joyas Anillos Pendientes  Cajita de Mano con Espejo  Verde](https://www.amazon.es/dp/B07H23YFSG/?tag=tolees-21) con 82.69 de descuento por 4.5 EUR (original: 25.99 EUR) en el siguiente enlace!

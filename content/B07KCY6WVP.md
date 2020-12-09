@@ -14,7 +14,7 @@ currency: EUR
 price: 18.55
 comparePrice: 45 EUR
 inStock: true
-prodname: Hurley M Icon Stretch Chino 19  Bermudas  Hombre  Khaki  31
+prodname: 'Hurley M Icon Stretch Chino 19  Bermudas  Hombre  Khaki  31'
 ---
 
 Tienes [Hurley M Icon Stretch Chino 19  Bermudas  Hombre  Khaki  31](https://www.amazon.es/dp/B07KCY6WVP/?tag=tolees-21) con un 58.78 % de descuento con precio de oferta de 18.55 EUR (original: 45 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 39.85
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Muvit HD2 - Altavoz Wireless  Tela Gris
+prodname: 'Muvit HD2 - Altavoz Wireless  Tela Gris'
 ---
 
 Ahora mismo tienes [Muvit HD2 - Altavoz Wireless  Tela Gris](https://www.amazon.es/dp/B074KD6XKT/?tag=tolees-21) a 39.85 EUR (original: 69.95 EUR) (43.03 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.56
 comparePrice: 13.9 EUR
 inStock: true
-prodname: Rainbow Six Siege
+prodname: 'Rainbow Six Siege'
 ---
 
 Tienes [Rainbow Six Siege](https://www.amazon.es/dp/B00KW4UWXO/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 5.56 EUR (original: 13.9 EUR) en el siguiente enlace!

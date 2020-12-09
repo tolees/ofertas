@@ -14,7 +14,7 @@ currency: EUR
 price: 15.75
 comparePrice: 45 EUR
 inStock: true
-prodname: Converse Chuck Taylor CTAS Ox Canvas  Zapatillas de Deporte Unisex niño  Azul  Hyper Royal/Bright Poppy/White 483   29 EU
+prodname: 'Converse Chuck Taylor CTAS Ox Canvas  Zapatillas de Deporte Unisex niño  Azul  Hyper Royal/Bright Poppy/White 483   29 EU'
 ---
 
 Tienes [Converse Chuck Taylor CTAS Ox Canvas  Zapatillas de Deporte Unisex niño  Azul  Hyper Royal/Bright Poppy/White 483   29 EU](https://www.amazon.es/dp/B078GMWGL5/?tag=tolees-21) con un 65.00 % de descuento con precio de oferta de 15.75 EUR (original: 45 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Botiquín de Primeros Auxilios de 200 Piezas con Hielo  Manta de Emergencia Máscara de RCP  Survival Tools Kit Bolsa Médica Emergencias para Coche  Hogar  Camping  Caza  Viajes  Aire Libre o Deportes
+prodname: 'Botiquín de Primeros Auxilios de 200 Piezas con Hielo  Manta de Emergencia Máscara de RCP  Survival Tools Kit Bolsa Médica Emergencias para Coche  Hogar  Camping  Caza  Viajes  Aire Libre o Deportes'
 ---
 
 Tienes [Botiquín de Primeros Auxilios de 200 Piezas con Hielo  Manta de Emergencia Máscara de RCP  Survival Tools Kit Bolsa Médica Emergencias para Coche  Hogar  Camping  Caza  Viajes  Aire Libre o Deportes](https://www.amazon.es/dp/B07SQW76XZ/?tag=tolees-21) con un 27.60 % de descuento con precio de oferta de 20.99 EUR (original: 28.99 EUR) en el siguiente enlace!

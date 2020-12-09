@@ -14,7 +14,7 @@ currency: EUR
 price: 11.49
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Levi s Otis Beanie  Gorro de punto Unisex adulto  Negro  Black   Large  Talla del fabricante: L/XL 
+prodname: 'Levi s Otis Beanie  Gorro de punto Unisex adulto  Negro  Black   Large  Talla del fabricante: L/XL '
 ---
 
 Ahora mismo tienes [Levi s Otis Beanie  Gorro de punto Unisex adulto  Negro  Black   Large  Talla del fabricante: L/XL ](https://www.amazon.es/dp/B00D2LRHFA/?tag=tolees-21) a 11.49 EUR (original: 20.0 EUR) (42.55 %  de descuento) en el siguiente enlace!

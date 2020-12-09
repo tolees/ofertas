@@ -14,7 +14,7 @@ currency: EUR
 price: 13.45
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Puma Fundamentals XS II Bag  Unisex Adulto  Forest Night  OSFA
+prodname: 'Puma Fundamentals XS II Bag  Unisex Adulto  Forest Night  OSFA'
 ---
 
 Está [Puma Fundamentals XS II Bag  Unisex Adulto  Forest Night  OSFA](https://www.amazon.es/dp/B07DD5SCVF/?tag=tolees-21) con 46.09 de descuento por 13.45 EUR (original: 24.95 EUR) en el siguiente enlace!

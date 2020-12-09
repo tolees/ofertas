@@ -14,7 +14,7 @@ currency: EUR
 price: 80.82
 comparePrice: 111.6 EUR
 inStock: true
-prodname: Corsair Vengeance 16 GB  DDR4  2666 MHz módulo de - Memoria  DDR4  2666 MHz  16 GB  1 x 16 GB  DDR4  2666 MHz  260-pin SO-DIMM 
+prodname: 'Corsair Vengeance 16 GB  DDR4  2666 MHz módulo de - Memoria  DDR4  2666 MHz  16 GB  1 x 16 GB  DDR4  2666 MHz  260-pin SO-DIMM '
 ---
 
 Tienes [Corsair Vengeance 16 GB  DDR4  2666 MHz módulo de - Memoria  DDR4  2666 MHz  16 GB  1 x 16 GB  DDR4  2666 MHz  260-pin SO-DIMM ](https://www.amazon.es/dp/B07BBQG6FR/?tag=tolees-21) con un 27.58 % de descuento con precio de oferta de 80.82 EUR (original: 111.6 EUR) en el siguiente enlace!

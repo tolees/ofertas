@@ -14,7 +14,7 @@ currency: EUR
 price: 14.9
 comparePrice: 27.03 EUR
 inStock: true
-prodname: Tefal C2640702 - Sartén Efecto Piedra Bruta  color negro
+prodname: 'Tefal C2640702 - Sartén Efecto Piedra Bruta  color negro'
 ---
 
 Tienes [Tefal C2640702 - Sartén Efecto Piedra Bruta  color negro](https://www.amazon.es/dp/B07DGNFZ4T/?tag=tolees-21) con un 44.88 % de descuento con precio de oferta de 14.9 EUR (original: 27.03 EUR) en el siguiente enlace!

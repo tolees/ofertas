@@ -14,7 +14,7 @@ currency: EUR
 price: 5.12
 comparePrice: 25.22 EUR
 inStock: true
-prodname: Royal Canin Comida ligera para perros adultos  1 unidad  195 g
+prodname: 'Royal Canin Comida ligera para perros adultos  1 unidad  195 g'
 ---
 
 Ahora mismo tienes [Royal Canin Comida ligera para perros adultos  1 unidad  195 g](https://www.amazon.es/dp/B00BCDYB7M/?tag=tolees-21) a 5.12 EUR (original: 25.22 EUR) (79.70 %  de descuento) en el siguiente enlace!

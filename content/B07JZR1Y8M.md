@@ -14,7 +14,7 @@ currency: EUR
 price: 419.99
 comparePrice: 849.0 EUR
 inStock: true
-prodname: Apple Watch Series 4  GPS + Cellular  con caja de 44 mm de acero inoxidable en oro y pulsera Milanese Loop en el mismo tono
+prodname: 'Apple Watch Series 4  GPS + Cellular  con caja de 44 mm de acero inoxidable en oro y pulsera Milanese Loop en el mismo tono'
 ---
 
 Está [Apple Watch Series 4  GPS + Cellular  con caja de 44 mm de acero inoxidable en oro y pulsera Milanese Loop en el mismo tono](https://www.amazon.es/dp/B07JZR1Y8M/?tag=tolees-21) con 50.53 de descuento por 419.99 EUR (original: 849.0 EUR) en el siguiente enlace!

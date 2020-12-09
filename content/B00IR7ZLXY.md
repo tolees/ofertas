@@ -14,7 +14,7 @@ currency: EUR
 price: 201.53
 comparePrice: 280.57 EUR
 inStock: true
-prodname: Happy Hop HappyHop 9022. Castillo Hinchable Búsqueda del Dragón.
+prodname: 'Happy Hop HappyHop 9022. Castillo Hinchable Búsqueda del Dragón.'
 ---
 
 Ahora mismo tienes [Happy Hop HappyHop 9022. Castillo Hinchable Búsqueda del Dragón.](https://www.amazon.es/dp/B00IR7ZLXY/?tag=tolees-21) a 201.53 EUR (original: 280.57 EUR) (28.17 %  de descuento) en el siguiente enlace!

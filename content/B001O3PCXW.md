@@ -14,7 +14,7 @@ currency: EUR
 price: 10.8
 comparePrice: 15.72 EUR
 inStock: true
-prodname: BIC Cristal Original Fine - Bolígrafos punta fina  0.8 mm   Caja de 50 unidades  Color Azul
+prodname: 'BIC Cristal Original Fine - Bolígrafos punta fina  0.8 mm   Caja de 50 unidades  Color Azul'
 ---
 
 Está [BIC Cristal Original Fine - Bolígrafos punta fina  0.8 mm   Caja de 50 unidades  Color Azul](https://www.amazon.es/dp/B001O3PCXW/?tag=tolees-21) con 31.30 de descuento por 10.8 EUR (original: 15.72 EUR) en el siguiente enlace!

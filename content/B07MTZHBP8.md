@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: INTEY Detector de Pared con Pantalla LCD para Detecta AC Cable  Azulejos  Metal Tuberías Madera y AC Cable
+prodname: 'INTEY Detector de Pared con Pantalla LCD para Detecta AC Cable  Azulejos  Metal Tuberías Madera y AC Cable'
 ---
 
 Está [INTEY Detector de Pared con Pantalla LCD para Detecta AC Cable  Azulejos  Metal Tuberías Madera y AC Cable](https://www.amazon.es/dp/B07MTZHBP8/?tag=tolees-21) con 68.01 de descuento por 15.99 EUR (original: 49.99 EUR) en el siguiente enlace!

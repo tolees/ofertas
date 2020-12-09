@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Play-Doh Gallina Plumas Divertidas  Hasbro E66475L0 
+prodname: 'Play-Doh Gallina Plumas Divertidas  Hasbro E66475L0 '
 ---
 
 Tienes [Play-Doh Gallina Plumas Divertidas  Hasbro E66475L0 ](https://www.amazon.es/dp/B07V8BPP2H/?tag=tolees-21) con un 36.38 % de descuento con precio de oferta de 13.99 EUR (original: 21.99 EUR) en el siguiente enlace!

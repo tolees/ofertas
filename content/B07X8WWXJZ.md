@@ -14,7 +14,7 @@ currency: EUR
 price: 135.0
 comparePrice: 235.0 EUR
 inStock: true
-prodname: Cerradura electrónica inteligente Remock Lockey Magic con cilindro 30x40 Níquel
+prodname: 'Cerradura electrónica inteligente Remock Lockey Magic con cilindro 30x40 Níquel'
 ---
 
 Está [Cerradura electrónica inteligente Remock Lockey Magic con cilindro 30x40 Níquel](https://www.amazon.es/dp/B07X8WWXJZ/?tag=tolees-21) con 42.55 de descuento por 135.0 EUR (original: 235.0 EUR) en el siguiente enlace!

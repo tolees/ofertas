@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: ViiNA GB Vi-brador Bolas Anales de 10 Frecuencia Pró-stata Masajeador Impermeable
+prodname: 'ViiNA GB Vi-brador Bolas Anales de 10 Frecuencia Pró-stata Masajeador Impermeable'
 ---
 
 Tienes [ViiNA GB Vi-brador Bolas Anales de 10 Frecuencia Pró-stata Masajeador Impermeable](https://www.amazon.es/dp/B0782WJBLZ/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

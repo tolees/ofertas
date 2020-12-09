@@ -14,7 +14,7 @@ currency: EUR
 price: 9.74
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Doctor Strange  Blu-ray 3D + Blu-ray  [Blu-ray]
+prodname: 'Doctor Strange  Blu-ray 3D + Blu-ray  [Blu-ray]'
 ---
 
 Está [Doctor Strange  Blu-ray 3D + Blu-ray  [Blu-ray]](https://www.amazon.es/dp/B01N2YD6NA/?tag=tolees-21) con 35.02 de descuento por 9.74 EUR (original: 14.99 EUR) en el siguiente enlace!

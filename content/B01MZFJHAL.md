@@ -14,7 +14,7 @@ currency: EUR
 price: 34.49
 comparePrice: 86.24 EUR
 inStock: true
-prodname: ASICS 141107-0904 S Mallas  Hombre  Negro  Performance Black   S
+prodname: 'ASICS 141107-0904 S Mallas  Hombre  Negro  Performance Black   S'
 ---
 
 Tienes [ASICS 141107-0904 S Mallas  Hombre  Negro  Performance Black   S](https://www.amazon.es/dp/B01MZFJHAL/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 34.49 EUR (original: 86.24 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.1
 comparePrice: 55.9 EUR
 inStock: true
-prodname: D-Link DPE-301GI Fast Ethernet Gigabit Ethernet adaptador e inyector de PoE - Adaptador/inyector de PoE  Ethernet rápido  Gigabit Ethernet  10 100 1000 Mbit/s  Blanco  IEEE 802.3 IEEE 802.3ab IEEE 802.3af IEEE 802.3at IEEE 802.3u  CE  FCC  VCCI  RCM  32 4 W 
+prodname: 'D-Link DPE-301GI Fast Ethernet Gigabit Ethernet adaptador e inyector de PoE - Adaptador/inyector de PoE  Ethernet rápido  Gigabit Ethernet  10 100 1000 Mbit/s  Blanco  IEEE 802.3 IEEE 802.3ab IEEE 802.3af IEEE 802.3at IEEE 802.3u  CE  FCC  VCCI  RCM  32 4 W '
 ---
 
 Ahora mismo tienes [D-Link DPE-301GI Fast Ethernet Gigabit Ethernet adaptador e inyector de PoE - Adaptador/inyector de PoE  Ethernet rápido  Gigabit Ethernet  10 100 1000 Mbit/s  Blanco  IEEE 802.3 IEEE 802.3ab IEEE 802.3af IEEE 802.3at IEEE 802.3u  CE  FCC  VCCI  RCM  32 4 W ](https://www.amazon.es/dp/B00PVDBBZY/?tag=tolees-21) a 36.1 EUR (original: 55.9 EUR) (35.42 %  de descuento) en el siguiente enlace!

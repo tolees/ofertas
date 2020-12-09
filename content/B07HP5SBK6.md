@@ -14,7 +14,7 @@ currency: EUR
 price: 16.9
 comparePrice: 37 EUR
 inStock: true
-prodname: Emma & Giovanni - Pullover - Top - Mujer  M/L  Verde 
+prodname: 'Emma & Giovanni - Pullover - Top - Mujer  M/L  Verde '
 ---
 
 Tienes [Emma & Giovanni - Pullover - Top - Mujer  M/L  Verde ](https://www.amazon.es/dp/B07HP5SBK6/?tag=tolees-21) con un 54.32 % de descuento con precio de oferta de 16.9 EUR (original: 37 EUR) en el siguiente enlace!

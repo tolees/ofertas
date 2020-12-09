@@ -14,7 +14,7 @@ currency: EUR
 price: 33
 comparePrice: 60 EUR
 inStock: true
-prodname: Under Armour Spectrum Po - Sudadera con capucha para hombre  Azul  Academy/Royal   L
+prodname: 'Under Armour Spectrum Po - Sudadera con capucha para hombre  Azul  Academy/Royal   L'
 ---
 
 Ahora mismo tienes [Under Armour Spectrum Po - Sudadera con capucha para hombre  Azul  Academy/Royal   L](https://www.amazon.es/dp/B077XQMTWG/?tag=tolees-21) a 33 EUR (original: 60 EUR) (45.00 %  de descuento) en el siguiente enlace!

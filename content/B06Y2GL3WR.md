@@ -14,7 +14,7 @@ currency: EUR
 price: 13.61
 comparePrice: 63.69 EUR
 inStock: true
-prodname: Alfombrista Moderna 25 Alfombra  Acrílico  Azul  67 x 135 cm
+prodname: 'Alfombrista Moderna 25 Alfombra  Acrílico  Azul  67 x 135 cm'
 ---
 
 Tienes [Alfombrista Moderna 25 Alfombra  Acrílico  Azul  67 x 135 cm](https://www.amazon.es/dp/B06Y2GL3WR/?tag=tolees-21) con un 78.63 % de descuento con precio de oferta de 13.61 EUR (original: 63.69 EUR) en el siguiente enlace!

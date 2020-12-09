@@ -14,7 +14,7 @@ currency: EUR
 price: 26.24
 comparePrice: 60.99 EUR
 inStock: true
-prodname: Xnuoyo Mochila Antirrobo de Portátil  17 3 Pulgada Mochila antirrobo Impermeable con el Puerto de Carga y Auriculares USB Mochila para Hombre Mujer Oficina Trabajo Diario Negocio Multifuncional  Gris
+prodname: 'Xnuoyo Mochila Antirrobo de Portátil  17 3 Pulgada Mochila antirrobo Impermeable con el Puerto de Carga y Auriculares USB Mochila para Hombre Mujer Oficina Trabajo Diario Negocio Multifuncional  Gris'
 ---
 
 Está [Xnuoyo Mochila Antirrobo de Portátil  17 3 Pulgada Mochila antirrobo Impermeable con el Puerto de Carga y Auriculares USB Mochila para Hombre Mujer Oficina Trabajo Diario Negocio Multifuncional  Gris](https://www.amazon.es/dp/B07G8T8VYT/?tag=tolees-21) con 56.98 de descuento por 26.24 EUR (original: 60.99 EUR) en el siguiente enlace!

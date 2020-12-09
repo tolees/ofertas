@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 57.99 EUR
 inStock: true
-prodname: Planchas para el Pelo  HQQNUO 2 in1 Planchas de Pelo de Vapor/Plancha de Pelo Profesional  Plancha Pelo Vapor para Alisado y Rizado de Cabello con Tanque de Agua y Guante  6 Temperaturas 150º-235º
+prodname: 'Planchas para el Pelo  HQQNUO 2 in1 Planchas de Pelo de Vapor/Plancha de Pelo Profesional  Plancha Pelo Vapor para Alisado y Rizado de Cabello con Tanque de Agua y Guante  6 Temperaturas 150º-235º'
 ---
 
 Está [Planchas para el Pelo  HQQNUO 2 in1 Planchas de Pelo de Vapor/Plancha de Pelo Profesional  Plancha Pelo Vapor para Alisado y Rizado de Cabello con Tanque de Agua y Guante  6 Temperaturas 150º-235º](https://www.amazon.es/dp/B07BDDNS8S/?tag=tolees-21) con 34.49 de descuento por 37.99 EUR (original: 57.99 EUR) en el siguiente enlace!

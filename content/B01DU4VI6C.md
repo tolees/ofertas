@@ -14,7 +14,7 @@ currency: EUR
 price: 8.32
 comparePrice: 23.33 EUR
 inStock: true
-prodname: NICOTOY 5858220 Juguete de Peluche - Juguetes de Peluche  Toy Character  Panda  Bear  Monkey  Elephant  Multi 
+prodname: 'NICOTOY 5858220 Juguete de Peluche - Juguetes de Peluche  Toy Character  Panda  Bear  Monkey  Elephant  Multi '
 ---
 
 Está [NICOTOY 5858220 Juguete de Peluche - Juguetes de Peluche  Toy Character  Panda  Bear  Monkey  Elephant  Multi ](https://www.amazon.es/dp/B01DU4VI6C/?tag=tolees-21) con 64.34 de descuento por 8.32 EUR (original: 23.33 EUR) en el siguiente enlace!

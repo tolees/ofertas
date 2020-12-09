@@ -14,7 +14,7 @@ currency: EUR
 price: 29.91
 comparePrice: 49.99 EUR
 inStock: true
-prodname: adidas Terrex Ax2R K  Zapatillas de Marcha Nórdica Unisex Niños  Azul Cyan/Core Black/Shock Yellow  38 2/3 EU
+prodname: 'adidas Terrex Ax2R K  Zapatillas de Marcha Nórdica Unisex Niños  Azul Cyan/Core Black/Shock Yellow  38 2/3 EU'
 ---
 
 Está [adidas Terrex Ax2R K  Zapatillas de Marcha Nórdica Unisex Niños  Azul Cyan/Core Black/Shock Yellow  38 2/3 EU](https://www.amazon.es/dp/B07J2JHCXL/?tag=tolees-21) con 40.17 de descuento por 29.91 EUR (original: 49.99 EUR) en el siguiente enlace!

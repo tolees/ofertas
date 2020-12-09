@@ -14,7 +14,7 @@ currency: EUR
 price: 13.0
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Diset-62311 Juego Algo Pasa con Mariano  152 cm  62311    color/modelo surtido
+prodname: 'Diset-62311 Juego Algo Pasa con Mariano  152 cm  62311    color/modelo surtido'
 ---
 
 Ahora mismo tienes [Diset-62311 Juego Algo Pasa con Mariano  152 cm  62311    color/modelo surtido](https://www.amazon.es/dp/B071CZHL7C/?tag=tolees-21) a 13.0 EUR (original: 24.95 EUR) (47.90 %  de descuento) en el siguiente enlace!

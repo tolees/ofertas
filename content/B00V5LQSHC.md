@@ -14,7 +14,7 @@ currency: EUR
 price: 13.95
 comparePrice: 27.76 EUR
 inStock: true
-prodname: Kempa - Emotion L/S  Color Rojo  Talla L
+prodname: 'Kempa - Emotion L/S  Color Rojo  Talla L'
 ---
 
 Ahora mismo tienes [Kempa - Emotion L/S  Color Rojo  Talla L](https://www.amazon.es/dp/B00V5LQSHC/?tag=tolees-21) a 13.95 EUR (original: 27.76 EUR) (49.75 %  de descuento) en el siguiente enlace!

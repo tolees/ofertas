@@ -14,7 +14,7 @@ currency: EUR
 price: 5.96
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Springfield 1683632  Bolso maletín para Mujer   Gamma Azules 
+prodname: 'Springfield 1683632  Bolso maletín para Mujer   Gamma Azules '
 ---
 
 Tienes [Springfield 1683632  Bolso maletín para Mujer   Gamma Azules ](https://www.amazon.es/dp/B078HDKKKM/?tag=tolees-21) con un 40.34 % de descuento con precio de oferta de 5.96 EUR (original: 9.99 EUR) en el siguiente enlace!

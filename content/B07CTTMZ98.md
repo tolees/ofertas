@@ -14,7 +14,7 @@ currency: EUR
 price: 21.23
 comparePrice: 50 EUR
 inStock: true
-prodname: HUGO Gionios_sz40 Cinturón  Marrón  Dark Brown 202   130  Talla del Fabricante 115|#679  para Hombre
+prodname: 'HUGO Gionios_sz40 Cinturón  Marrón  Dark Brown 202   130  Talla del Fabricante 115|#679  para Hombre'
 ---
 
 Ahora mismo tienes [HUGO Gionios_sz40 Cinturón  Marrón  Dark Brown 202   130  Talla del Fabricante 115|#679  para Hombre](https://www.amazon.es/dp/B07CTTMZ98/?tag=tolees-21) a 21.23 EUR (original: 50 EUR) (57.54 %  de descuento) en el siguiente enlace!

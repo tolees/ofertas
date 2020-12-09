@@ -14,7 +14,7 @@ currency: EUR
 price: 8.5
 comparePrice: 14.95 EUR
 inStock: true
-prodname: L Oréal Paris Make-up designer 24H Fresh Wear Base de Maquillaje de Larga Duración   Tono 140 Beige Doré- 30 ml
+prodname: 'L Oréal Paris Make-up designer 24H Fresh Wear Base de Maquillaje de Larga Duración   Tono 140 Beige Doré- 30 ml'
 ---
 
 Ahora mismo tienes [L Oréal Paris Make-up designer 24H Fresh Wear Base de Maquillaje de Larga Duración   Tono 140 Beige Doré- 30 ml](https://www.amazon.es/dp/B07DSHXRQM/?tag=tolees-21) a 8.5 EUR (original: 14.95 EUR) (43.14 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 42.95
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Sigma Sport Sigma Faro Delantero Buster 700  Adultos Unisex  Negro  Talla Única
+prodname: 'Sigma Sport Sigma Faro Delantero Buster 700  Adultos Unisex  Negro  Talla Única'
 ---
 
 Tienes [Sigma Sport Sigma Faro Delantero Buster 700  Adultos Unisex  Negro  Talla Única](https://www.amazon.es/dp/B079P9MQMV/?tag=tolees-21) con un 38.60 % de descuento con precio de oferta de 42.95 EUR (original: 69.95 EUR) en el siguiente enlace!

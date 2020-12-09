@@ -14,7 +14,7 @@ currency: EUR
 price: 7.2
 comparePrice: 12 EUR
 inStock: true
-prodname: Kärcher Conector para grifo dos vías  2.645-199.0 
+prodname: 'Kärcher Conector para grifo dos vías  2.645-199.0 '
 ---
 
 Tienes [Kärcher Conector para grifo dos vías  2.645-199.0 ](https://www.amazon.es/dp/B00B17IWPQ/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 7.2 EUR (original: 12 EUR) en el siguiente enlace!

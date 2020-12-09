@@ -14,7 +14,7 @@ currency: EUR
 price: 16.56
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Gioseppo 44276  Shopper para Mujer   Negro/Blan   2x31x39 cm  W x H x L 
+prodname: 'Gioseppo 44276  Shopper para Mujer   Negro/Blan   2x31x39 cm  W x H x L '
 ---
 
 Está [Gioseppo 44276  Shopper para Mujer   Negro/Blan   2x31x39 cm  W x H x L ](https://www.amazon.es/dp/B07KRPBRWV/?tag=tolees-21) con 63.16 de descuento por 16.56 EUR (original: 44.95 EUR) en el siguiente enlace!

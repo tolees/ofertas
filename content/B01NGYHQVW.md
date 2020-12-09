@@ -14,7 +14,7 @@ currency: EUR
 price: 9
 comparePrice: 20.32 EUR
 inStock: true
-prodname: find. Vaqueros Rectos para Hombre  Azul  W33/L34  Talla del fabricante: 33 
+prodname: 'find. Vaqueros Rectos para Hombre  Azul  W33/L34  Talla del fabricante: 33 '
 ---
 
 Tienes [find. Vaqueros Rectos para Hombre  Azul  W33/L34  Talla del fabricante: 33 ](https://www.amazon.es/dp/B01NGYHQVW/?tag=tolees-21) con un 55.71 % de descuento con precio de oferta de 9 EUR (original: 20.32 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 38.45
 comparePrice: 62.95 EUR
 inStock: true
-prodname: Rocks Off El Placer Del Doctor Rocco Intrépido - 1 unidad
+prodname: 'Rocks Off El Placer Del Doctor Rocco Intrépido - 1 unidad'
 ---
 
 Está [Rocks Off El Placer Del Doctor Rocco Intrépido - 1 unidad](https://www.amazon.es/dp/B07KXKFV39/?tag=tolees-21) con 38.92 de descuento por 38.45 EUR (original: 62.95 EUR) en el siguiente enlace!

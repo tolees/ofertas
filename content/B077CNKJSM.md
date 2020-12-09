@@ -14,7 +14,7 @@ currency: EUR
 price: 64.98
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Adidas Power III  Zapatillas de Deporte para Hombre  Negro  Core Black/Footwear White/Matte Gold 0   46 EU
+prodname: 'Adidas Power III  Zapatillas de Deporte para Hombre  Negro  Core Black/Footwear White/Matte Gold 0   46 EU'
 ---
 
 Ahora mismo tienes [Adidas Power III  Zapatillas de Deporte para Hombre  Negro  Core Black/Footwear White/Matte Gold 0   46 EU](https://www.amazon.es/dp/B077CNKJSM/?tag=tolees-21) a 64.98 EUR (original: 129.95 EUR) (50.00 %  de descuento) en el siguiente enlace!

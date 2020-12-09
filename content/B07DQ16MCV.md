@@ -14,7 +14,7 @@ currency: EUR
 price: 19.12
 comparePrice: 55 EUR
 inStock: true
-prodname: Burton Midweight Calzoncillos Térmicos  Mujer  Negro  True   S
+prodname: 'Burton Midweight Calzoncillos Térmicos  Mujer  Negro  True   S'
 ---
 
 Tienes [Burton Midweight Calzoncillos Térmicos  Mujer  Negro  True   S](https://www.amazon.es/dp/B07DQ16MCV/?tag=tolees-21) con un 65.24 % de descuento con precio de oferta de 19.12 EUR (original: 55 EUR) en el siguiente enlace!

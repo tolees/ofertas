@@ -14,7 +14,7 @@ currency: EUR
 price: 34.86
 comparePrice: 69.99 EUR
 inStock: true
-prodname: RIP CURL Yarn DYED Stripe HZ Fleece Sudadera  Hombre  Dark Marle  S
+prodname: 'RIP CURL Yarn DYED Stripe HZ Fleece Sudadera  Hombre  Dark Marle  S'
 ---
 
 Está [RIP CURL Yarn DYED Stripe HZ Fleece Sudadera  Hombre  Dark Marle  S](https://www.amazon.es/dp/B07FZBCCCC/?tag=tolees-21) con 50.19 de descuento por 34.86 EUR (original: 69.99 EUR) en el siguiente enlace!

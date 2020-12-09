@@ -14,7 +14,7 @@ currency: EUR
 price: 18.94
 comparePrice: 55 EUR
 inStock: true
-prodname: Pepe Jeans Traci Belt Cinturón  Negro  Black 999   95  Talla del fabricante: Large  para Mujer
+prodname: 'Pepe Jeans Traci Belt Cinturón  Negro  Black 999   95  Talla del fabricante: Large  para Mujer'
 ---
 
 Ahora mismo tienes [Pepe Jeans Traci Belt Cinturón  Negro  Black 999   95  Talla del fabricante: Large  para Mujer](https://www.amazon.es/dp/B07NC9ZFXL/?tag=tolees-21) a 18.94 EUR (original: 55 EUR) (65.56 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 78.55
 comparePrice: 140 EUR
 inStock: true
-prodname: Salomon Skin Pro 10 Set Backpack  Unisex Adulto  Negro  Black/Bright Red   10 L
+prodname: 'Salomon Skin Pro 10 Set Backpack  Unisex Adulto  Negro  Black/Bright Red   10 L'
 ---
 
 Está [Salomon Skin Pro 10 Set Backpack  Unisex Adulto  Negro  Black/Bright Red   10 L](https://www.amazon.es/dp/B014EBQRHA/?tag=tolees-21) con 43.89 de descuento por 78.55 EUR (original: 140 EUR) en el siguiente enlace!

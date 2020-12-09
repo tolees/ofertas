@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 67.99 EUR
 inStock: true
-prodname: BRA Efficient Orange Set De 3 Sartenes  Aluminio  Negro  20-24-28 cm
+prodname: 'BRA Efficient Orange Set De 3 Sartenes  Aluminio  Negro  20-24-28 cm'
 ---
 
 Tienes [BRA Efficient Orange Set De 3 Sartenes  Aluminio  Negro  20-24-28 cm](https://www.amazon.es/dp/B07FD6ZYHT/?tag=tolees-21) con un 26.47 % de descuento con precio de oferta de 49.99 EUR (original: 67.99 EUR) en el siguiente enlace!

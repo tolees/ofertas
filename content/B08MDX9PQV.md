@@ -14,7 +14,7 @@ currency: EUR
 price: 6.79
 comparePrice: 33.95 EUR
 inStock: true
-prodname: Sasstaids Care Mascarilla Desechable Multicolor 50PC para Hombres Y Mujeres Adultos
+prodname: 'Sasstaids Care Mascarilla Desechable Multicolor 50PC para Hombres Y Mujeres Adultos'
 ---
 
 Está [Sasstaids Care Mascarilla Desechable Multicolor 50PC para Hombres Y Mujeres Adultos](https://www.amazon.es/dp/B08MDX9PQV/?tag=tolees-21) con 80.00 de descuento por 6.79 EUR (original: 33.95 EUR) en el siguiente enlace!

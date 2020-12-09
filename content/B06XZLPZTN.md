@@ -14,7 +14,7 @@ currency: EUR
 price: 90.79
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Tefal Clipso Minut Duo Olla a presión de 5 L de aluminio con 5 sistemas de seguridad y cierre fácil con una sola mano  color gris y rojo
+prodname: 'Tefal Clipso Minut Duo Olla a presión de 5 L de aluminio con 5 sistemas de seguridad y cierre fácil con una sola mano  color gris y rojo'
 ---
 
 Tienes [Tefal Clipso Minut Duo Olla a presión de 5 L de aluminio con 5 sistemas de seguridad y cierre fácil con una sola mano  color gris y rojo](https://www.amazon.es/dp/B06XZLPZTN/?tag=tolees-21) con un 29.62 % de descuento con precio de oferta de 90.79 EUR (original: 129.0 EUR) en el siguiente enlace!

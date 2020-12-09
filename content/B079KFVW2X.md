@@ -14,7 +14,7 @@ currency: EUR
 price: 28.89
 comparePrice: 59.89 EUR
 inStock: true
-prodname: Curren Reloj de Pulsera de Cuero  Cuarzo analógico  diseño clásico de Lujo Classic Business Classic  diseño de Puntero Brillante  con 3 decorati de Color Negro Dial  café 
+prodname: 'Curren Reloj de Pulsera de Cuero  Cuarzo analógico  diseño clásico de Lujo Classic Business Classic  diseño de Puntero Brillante  con 3 decorati de Color Negro Dial  café '
 ---
 
 Está [Curren Reloj de Pulsera de Cuero  Cuarzo analógico  diseño clásico de Lujo Classic Business Classic  diseño de Puntero Brillante  con 3 decorati de Color Negro Dial  café ](https://www.amazon.es/dp/B079KFVW2X/?tag=tolees-21) con 51.76 de descuento por 28.89 EUR (original: 59.89 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 159.99
 comparePrice: 249.0 EUR
 inStock: true
-prodname: Braun Silk-épil Flex 9020 - Depiladora Mujer Eléctrica con Cabezal Flexible para una Depilación Fácil  Mango Antideslizante y Control  Blanco / Dorado
+prodname: 'Braun Silk-épil Flex 9020 - Depiladora Mujer Eléctrica con Cabezal Flexible para una Depilación Fácil  Mango Antideslizante y Control  Blanco / Dorado'
 ---
 
 Tienes [Braun Silk-épil Flex 9020 - Depiladora Mujer Eléctrica con Cabezal Flexible para una Depilación Fácil  Mango Antideslizante y Control  Blanco / Dorado](https://www.amazon.es/dp/B0822YJSLS/?tag=tolees-21) con un 35.75 % de descuento con precio de oferta de 159.99 EUR (original: 249.0 EUR) en el siguiente enlace!

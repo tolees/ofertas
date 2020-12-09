@@ -14,7 +14,7 @@ currency: EUR
 price: 122.2
 comparePrice: 169.0 EUR
 inStock: true
-prodname: Tommy Hilfiger Reloj de Pulsera 1782074
+prodname: 'Tommy Hilfiger Reloj de Pulsera 1782074'
 ---
 
 Está [Tommy Hilfiger Reloj de Pulsera 1782074](https://www.amazon.es/dp/B07KTJCNR1/?tag=tolees-21) con 27.69 de descuento por 122.2 EUR (original: 169.0 EUR) en el siguiente enlace!

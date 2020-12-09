@@ -14,7 +14,7 @@ currency: EUR
 price: 25.87
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Les Tropéziennes par M. Belarbi Ceylan  Botines para Mujer  Negro  Noir 546   39 EU
+prodname: 'Les Tropéziennes par M. Belarbi Ceylan  Botines para Mujer  Negro  Noir 546   39 EU'
 ---
 
 Está [Les Tropéziennes par M. Belarbi Ceylan  Botines para Mujer  Negro  Noir 546   39 EU](https://www.amazon.es/dp/B07BHF8LTV/?tag=tolees-21) con 62.99 de descuento por 25.87 EUR (original: 69.9 EUR) en el siguiente enlace!

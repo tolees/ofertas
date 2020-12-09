@@ -14,7 +14,7 @@ currency: EUR
 price: 1.04
 comparePrice: 2.99 EUR
 inStock: true
-prodname: APLI Kids 12816 - Tijera escolar 13 cm
+prodname: 'APLI Kids 12816 - Tijera escolar 13 cm'
 ---
 
 Tienes [APLI Kids 12816 - Tijera escolar 13 cm](https://www.amazon.es/dp/B00C6ZIV9O/?tag=tolees-21) con un 65.22 % de descuento con precio de oferta de 1.04 EUR (original: 2.99 EUR) en el siguiente enlace!

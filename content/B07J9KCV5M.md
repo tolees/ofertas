@@ -14,7 +14,7 @@ currency: EUR
 price: 73.5
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Powder Lite  Chaqueta con capucha  Mujer  Azul  Dark Nocturnal Sparkler Print  Talla S
+prodname: 'Columbia Powder Lite  Chaqueta con capucha  Mujer  Azul  Dark Nocturnal Sparkler Print  Talla S'
 ---
 
 Ahora mismo tienes [Columbia Powder Lite  Chaqueta con capucha  Mujer  Azul  Dark Nocturnal Sparkler Print  Talla S](https://www.amazon.es/dp/B07J9KCV5M/?tag=tolees-21) a 73.5 EUR (original: 129.99 EUR) (43.46 %  de descuento) en el siguiente enlace!

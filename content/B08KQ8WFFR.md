@@ -14,7 +14,7 @@ currency: EUR
 price: 135.53
 comparePrice: 215.81 EUR
 inStock: true
-prodname: CYGJ Aleación de Acero al Carbono Patinete Luxe con 3 luz LED Intermitente Ruedas de PU Azul Plegable Patinete Oscilacion para Niños Pequeños de 2 a 13 Años
+prodname: 'CYGJ Aleación de Acero al Carbono Patinete Luxe con 3 luz LED Intermitente Ruedas de PU Azul Plegable Patinete Oscilacion para Niños Pequeños de 2 a 13 Años'
 ---
 
 Está [CYGJ Aleación de Acero al Carbono Patinete Luxe con 3 luz LED Intermitente Ruedas de PU Azul Plegable Patinete Oscilacion para Niños Pequeños de 2 a 13 Años](https://www.amazon.es/dp/B08KQ8WFFR/?tag=tolees-21) con 37.20 de descuento por 135.53 EUR (original: 215.81 EUR) en el siguiente enlace!

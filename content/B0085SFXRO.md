@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 12.95 EUR
 inStock: true
-prodname: Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  color azul marino  talla M
+prodname: 'Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  color azul marino  talla M'
 ---
 
 Está [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  color azul marino  talla M](https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21) con 46.02 de descuento por 6.99 EUR (original: 12.95 EUR) en el siguiente enlace!

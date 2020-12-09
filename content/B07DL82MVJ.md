@@ -14,7 +14,7 @@ currency: EUR
 price: 16.76
 comparePrice: 42.99 EUR
 inStock: true
-prodname: Springfield 4.2.T.Ap. Biker PU  Chaqueta para Mujer   Negro 1    Tamaño del Fabricante:38 
+prodname: 'Springfield 4.2.T.Ap. Biker PU  Chaqueta para Mujer   Negro 1    Tamaño del Fabricante:38 '
 ---
 
 Está [Springfield 4.2.T.Ap. Biker PU  Chaqueta para Mujer   Negro 1    Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07DL82MVJ/?tag=tolees-21) con 61.01 de descuento por 16.76 EUR (original: 42.99 EUR) en el siguiente enlace!

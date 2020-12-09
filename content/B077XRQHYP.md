@@ -14,7 +14,7 @@ currency: EUR
 price: 14.23
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour Gorra para Hombre Airvent Core Golf  Radio Red / / Charcoal  890   L/XL
+prodname: 'Under Armour Gorra para Hombre Airvent Core Golf  Radio Red / / Charcoal  890   L/XL'
 ---
 
 Está [Under Armour Gorra para Hombre Airvent Core Golf  Radio Red / / Charcoal  890   L/XL](https://www.amazon.es/dp/B077XRQHYP/?tag=tolees-21) con 45.27 de descuento por 14.23 EUR (original: 26 EUR) en el siguiente enlace!

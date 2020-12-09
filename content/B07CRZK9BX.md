@@ -14,7 +14,7 @@ currency: EUR
 price: 186.15
 comparePrice: 256.99 EUR
 inStock: true
-prodname: Western Digital My Book Disco Duro Externo de Sobremesa de 10 TB  3.5"  USB 3.0  Negro
+prodname: 'Western Digital My Book Disco Duro Externo de Sobremesa de 10 TB  3.5"  USB 3.0  Negro'
 ---
 
 Tienes [Western Digital My Book Disco Duro Externo de Sobremesa de 10 TB  3.5"  USB 3.0  Negro](https://www.amazon.es/dp/B07CRZK9BX/?tag=tolees-21) con un 27.57 % de descuento con precio de oferta de 186.15 EUR (original: 256.99 EUR) en el siguiente enlace!

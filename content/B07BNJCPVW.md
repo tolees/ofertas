@@ -14,7 +14,7 @@ currency: EUR
 price: 26.67
 comparePrice: 72.3 EUR
 inStock: true
-prodname: ASICS - Camiseta sin Costuras para Mujer  Mujer  Color Performance Black Heather  tamaño XS
+prodname: 'ASICS - Camiseta sin Costuras para Mujer  Mujer  Color Performance Black Heather  tamaño XS'
 ---
 
 Ahora mismo tienes [ASICS - Camiseta sin Costuras para Mujer  Mujer  Color Performance Black Heather  tamaño XS](https://www.amazon.es/dp/B07BNJCPVW/?tag=tolees-21) a 26.67 EUR (original: 72.3 EUR) (63.11 %  de descuento) en el siguiente enlace!

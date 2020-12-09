@@ -14,7 +14,7 @@ currency: EUR
 price: 17.01
 comparePrice: 74.99 EUR
 inStock: true
-prodname: Superdry Parker Skirt Falda  Marrón  Brown Check Q21   XXS  Talla del Fabricante:6  para Mujer
+prodname: 'Superdry Parker Skirt Falda  Marrón  Brown Check Q21   XXS  Talla del Fabricante:6  para Mujer'
 ---
 
 Está [Superdry Parker Skirt Falda  Marrón  Brown Check Q21   XXS  Talla del Fabricante:6  para Mujer](https://www.amazon.es/dp/B07QBRPQBH/?tag=tolees-21) con 77.32 de descuento por 17.01 EUR (original: 74.99 EUR) en el siguiente enlace!

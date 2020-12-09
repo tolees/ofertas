@@ -14,7 +14,7 @@ currency: EUR
 price: 5.56
 comparePrice: 8.45 EUR
 inStock: true
-prodname: Trixie Malta para Gatos en Pasta "Inmuno-Pro" - 100 g
+prodname: 'Trixie Malta para Gatos en Pasta "Inmuno-Pro" - 100 g'
 ---
 
 Tienes [Trixie Malta para Gatos en Pasta "Inmuno-Pro" - 100 g](https://www.amazon.es/dp/B000WFJYWI/?tag=tolees-21) con un 34.20 % de descuento con precio de oferta de 5.56 EUR (original: 8.45 EUR) en el siguiente enlace!

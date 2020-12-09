@@ -14,7 +14,7 @@ currency: EUR
 price: 23.49
 comparePrice: 41.98 EUR
 inStock: true
-prodname: OFERTAS DEL DÍA - 180 Cosmetics EL MEJOR suero de ácido hialurónico + péptidos y vitamina C  superpotente  - Recomendado para edades a partir de 40 años
+prodname: 'OFERTAS DEL DÍA - 180 Cosmetics EL MEJOR suero de ácido hialurónico + péptidos y vitamina C  superpotente  - Recomendado para edades a partir de 40 años'
 ---
 
 Tienes [OFERTAS DEL DÍA - 180 Cosmetics EL MEJOR suero de ácido hialurónico + péptidos y vitamina C  superpotente  - Recomendado para edades a partir de 40 años](https://www.amazon.es/dp/B00IS4CPPI/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 23.49 EUR (original: 41.98 EUR) en el siguiente enlace!

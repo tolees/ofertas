@@ -14,7 +14,7 @@ currency: EUR
 price: 10.3
 comparePrice: 22 EUR
 inStock: true
-prodname: Diesel 00CG3J Slip  Hombre  Gris  Grey 02   Large  Tamaño del Fabricante:L 
+prodname: 'Diesel 00CG3J Slip  Hombre  Gris  Grey 02   Large  Tamaño del Fabricante:L '
 ---
 
 Está [Diesel 00CG3J Slip  Hombre  Gris  Grey 02   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B073XQSXYP/?tag=tolees-21) con 53.18 de descuento por 10.3 EUR (original: 22 EUR) en el siguiente enlace!

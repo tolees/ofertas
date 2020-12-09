@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Kitchentour Báscula Digital para Cocina de 500g/0.01g  Balanza Multifuncional de Alta Presición de Alimentos  Joyería y Más con Plantalla LCD Retroilunminada  Baterías Incluidas 
+prodname: 'Kitchentour Báscula Digital para Cocina de 500g/0.01g  Balanza Multifuncional de Alta Presición de Alimentos  Joyería y Más con Plantalla LCD Retroilunminada  Baterías Incluidas '
 ---
 
 Ahora mismo tienes [Kitchentour Báscula Digital para Cocina de 500g/0.01g  Balanza Multifuncional de Alta Presición de Alimentos  Joyería y Más con Plantalla LCD Retroilunminada  Baterías Incluidas ](https://www.amazon.es/dp/B07D7P7MJJ/?tag=tolees-21) a 13.99 EUR (original: 39.99 EUR) (65.02 %  de descuento) en el siguiente enlace!

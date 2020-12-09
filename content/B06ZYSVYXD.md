@@ -14,7 +14,7 @@ currency: EUR
 price: 18.66
 comparePrice: 34 EUR
 inStock: true
-prodname: Emporio Armani Underwear 1112107a717  Bóxer para Hombre   Nero/BLU Elettrico 39920  Medium
+prodname: 'Emporio Armani Underwear 1112107a717  Bóxer para Hombre   Nero/BLU Elettrico 39920  Medium'
 ---
 
 Tienes [Emporio Armani Underwear 1112107a717  Bóxer para Hombre   Nero/BLU Elettrico 39920  Medium](https://www.amazon.es/dp/B06ZYSVYXD/?tag=tolees-21) con un 45.12 % de descuento con precio de oferta de 18.66 EUR (original: 34 EUR) en el siguiente enlace!

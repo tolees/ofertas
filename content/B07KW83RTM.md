@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Mpow Auriculares In Ear con Micrófono  Auriculares con Cable Control  Auriculares Móviles 3.5mm con Sonido Estéreo para Móvil Smart Phone Huawei Samsung Xiaomi iPad Mp3 Mp4
+prodname: 'Mpow Auriculares In Ear con Micrófono  Auriculares con Cable Control  Auriculares Móviles 3.5mm con Sonido Estéreo para Móvil Smart Phone Huawei Samsung Xiaomi iPad Mp3 Mp4'
 ---
 
 Ahora mismo tienes [Mpow Auriculares In Ear con Micrófono  Auriculares con Cable Control  Auriculares Móviles 3.5mm con Sonido Estéreo para Móvil Smart Phone Huawei Samsung Xiaomi iPad Mp3 Mp4](https://www.amazon.es/dp/B07KW83RTM/?tag=tolees-21) a 6.99 EUR (original: 16.99 EUR) (58.86 %  de descuento) en el siguiente enlace!

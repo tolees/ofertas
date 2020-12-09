@@ -14,7 +14,7 @@ currency: EUR
 price: 3
 comparePrice: 9.91 EUR
 inStock: true
-prodname: New Look Slim Suit Trouser  Pantalones de Traje para Hombre  Azul  Mid Blue   W32/L34
+prodname: 'New Look Slim Suit Trouser  Pantalones de Traje para Hombre  Azul  Mid Blue   W32/L34'
 ---
 
 Ahora mismo tienes [New Look Slim Suit Trouser  Pantalones de Traje para Hombre  Azul  Mid Blue   W32/L34](https://www.amazon.es/dp/B01NCP2WL9/?tag=tolees-21) a 3 EUR (original: 9.91 EUR) (69.73 %  de descuento) en el siguiente enlace!

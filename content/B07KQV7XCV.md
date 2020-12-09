@@ -14,7 +14,7 @@ currency: EUR
 price: 42.49
 comparePrice: 159.99 EUR
 inStock: true
-prodname: LOBKIN Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth Mini Twins Estéreo In-Ear Bluetooth 5.0 con Caja de Carga Portátil Y Micrófono Integrado para iPhone y Android  Negro 
+prodname: 'LOBKIN Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth Mini Twins Estéreo In-Ear Bluetooth 5.0 con Caja de Carga Portátil Y Micrófono Integrado para iPhone y Android  Negro '
 ---
 
 Tienes [LOBKIN Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth Mini Twins Estéreo In-Ear Bluetooth 5.0 con Caja de Carga Portátil Y Micrófono Integrado para iPhone y Android  Negro ](https://www.amazon.es/dp/B07KQV7XCV/?tag=tolees-21) con un 73.44 % de descuento con precio de oferta de 42.49 EUR (original: 159.99 EUR) en el siguiente enlace!

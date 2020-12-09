@@ -14,7 +14,7 @@ currency: EUR
 price: 16.45
 comparePrice: 45.99 EUR
 inStock: true
-prodname: MTNG 84463 Deportivas de Hombre Marrón
+prodname: 'MTNG 84463 Deportivas de Hombre Marrón'
 ---
 
 Tienes [MTNG 84463 Deportivas de Hombre Marrón](https://www.amazon.es/dp/B07YL2WCL1/?tag=tolees-21) con un 64.23 % de descuento con precio de oferta de 16.45 EUR (original: 45.99 EUR) en el siguiente enlace!

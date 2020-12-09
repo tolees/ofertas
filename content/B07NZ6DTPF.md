@@ -14,7 +14,7 @@ currency: EUR
 price: 5.97
 comparePrice: 10.7 EUR
 inStock: true
-prodname: Johnson s Pure Protect - Jabón de manos 3 x 300 ml
+prodname: 'Johnson s Pure Protect - Jabón de manos 3 x 300 ml'
 ---
 
 Ahora mismo tienes [Johnson s Pure Protect - Jabón de manos 3 x 300 ml](https://www.amazon.es/dp/B07NZ6DTPF/?tag=tolees-21) a 5.97 EUR (original: 10.7 EUR) (44.21 %  de descuento) en el siguiente enlace!

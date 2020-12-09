@@ -14,7 +14,7 @@ currency: EUR
 price: 27.06
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Reebok Speedlux 2.0  Zapatillas de Running para Mujer   Black/Fresh Blue/White/Silver   38 EU
+prodname: 'Reebok Speedlux 2.0  Zapatillas de Running para Mujer   Black/Fresh Blue/White/Silver   38 EU'
 ---
 
 Ahora mismo tienes [Reebok Speedlux 2.0  Zapatillas de Running para Mujer   Black/Fresh Blue/White/Silver   38 EU](https://www.amazon.es/dp/B073RKV9NH/?tag=tolees-21) a 27.06 EUR (original: 44.95 EUR) (39.80 %  de descuento) en el siguiente enlace!

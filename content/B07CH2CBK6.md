@@ -14,7 +14,7 @@ currency: EUR
 price: 18.88
 comparePrice: 29.99 EUR
 inStock: true
-prodname: HZHY Cinturón Para Hombres  100% Cuero Genuino de Grano Completo Traje Para Jeans & Ropa Casual & Ropa de Trabajo & Ropa Formal  Type 1b  105CM   30" - 35"   
+prodname: 'HZHY Cinturón Para Hombres  100% Cuero Genuino de Grano Completo Traje Para Jeans & Ropa Casual & Ropa de Trabajo & Ropa Formal  Type 1b  105CM   30" - 35"   '
 ---
 
 Ahora mismo tienes [HZHY Cinturón Para Hombres  100% Cuero Genuino de Grano Completo Traje Para Jeans & Ropa Casual & Ropa de Trabajo & Ropa Formal  Type 1b  105CM   30" - 35"   ](https://www.amazon.es/dp/B07CH2CBK6/?tag=tolees-21) a 18.88 EUR (original: 29.99 EUR) (37.05 %  de descuento) en el siguiente enlace!

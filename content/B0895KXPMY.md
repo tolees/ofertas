@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 100.08 EUR
 inStock: true
-prodname: DC Shoes Earl Padded-Chaqueta Acolchonada con Capucha para Hombre  Sudan Brown  S
+prodname: 'DC Shoes Earl Padded-Chaqueta Acolchonada con Capucha para Hombre  Sudan Brown  S'
 ---
 
 Ahora mismo tienes [DC Shoes Earl Padded-Chaqueta Acolchonada con Capucha para Hombre  Sudan Brown  S](https://www.amazon.es/dp/B0895KXPMY/?tag=tolees-21) a 69.99 EUR (original: 100.08 EUR) (30.07 %  de descuento) en el siguiente enlace!

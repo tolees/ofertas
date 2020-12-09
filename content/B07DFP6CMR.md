@@ -14,7 +14,7 @@ currency: EUR
 price: 10.93
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Puma Rebel Up Basic T-Shirt  Hombre  Cotton Black  XXL
+prodname: 'Puma Rebel Up Basic T-Shirt  Hombre  Cotton Black  XXL'
 ---
 
 Está [Puma Rebel Up Basic T-Shirt  Hombre  Cotton Black  XXL](https://www.amazon.es/dp/B07DFP6CMR/?tag=tolees-21) con 56.19 de descuento por 10.93 EUR (original: 24.95 EUR) en el siguiente enlace!

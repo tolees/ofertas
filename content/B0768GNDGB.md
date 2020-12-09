@@ -14,7 +14,7 @@ currency: EUR
 price: 11.24
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield 1402900  Suéter para Hombre  Negro  Black   Large  Tamaño del fabricante:L 
+prodname: 'Springfield 1402900  Suéter para Hombre  Negro  Black   Large  Tamaño del fabricante:L '
 ---
 
 Tienes [Springfield 1402900  Suéter para Hombre  Negro  Black   Large  Tamaño del fabricante:L ](https://www.amazon.es/dp/B0768GNDGB/?tag=tolees-21) con un 62.52 % de descuento con precio de oferta de 11.24 EUR (original: 29.99 EUR) en el siguiente enlace!

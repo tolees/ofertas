@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 16.99 EUR
 inStock: true
-prodname: GEMITTO Algodón Cuerda Natural 90m x 5mm Cuerda de Algodón para Macramé Beige para Decoración Navidad  Trenzado Decoracion Planta Bohemia DIY Hecha a Mano Craft
+prodname: 'GEMITTO Algodón Cuerda Natural 90m x 5mm Cuerda de Algodón para Macramé Beige para Decoración Navidad  Trenzado Decoracion Planta Bohemia DIY Hecha a Mano Craft'
 ---
 
 Está [GEMITTO Algodón Cuerda Natural 90m x 5mm Cuerda de Algodón para Macramé Beige para Decoración Navidad  Trenzado Decoracion Planta Bohemia DIY Hecha a Mano Craft](https://www.amazon.es/dp/B07ZCSGLZQ/?tag=tolees-21) con 29.43 de descuento por 11.99 EUR (original: 16.99 EUR) en el siguiente enlace!

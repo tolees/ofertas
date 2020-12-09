@@ -14,7 +14,7 @@ currency: EUR
 price: 16.66
 comparePrice: 34.95 EUR
 inStock: true
-prodname: adidas Essentials Classics Polo de Tenis  Hombre  Blanco  White   XL
+prodname: 'adidas Essentials Classics Polo de Tenis  Hombre  Blanco  White   XL'
 ---
 
 Tienes [adidas Essentials Classics Polo de Tenis  Hombre  Blanco  White   XL](https://www.amazon.es/dp/B01N0KL1AO/?tag=tolees-21) con un 52.33 % de descuento con precio de oferta de 16.66 EUR (original: 34.95 EUR) en el siguiente enlace!

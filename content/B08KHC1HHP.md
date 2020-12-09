@@ -14,7 +14,7 @@ currency: EUR
 price: 5.49
 comparePrice: 10.99 EUR
 inStock: true
-prodname: La Naranja Mecánica [BD] [Blu-ray]
+prodname: 'La Naranja Mecánica [BD] [Blu-ray]'
 ---
 
 Ahora mismo tienes [La Naranja Mecánica [BD] [Blu-ray]](https://www.amazon.es/dp/B08KHC1HHP/?tag=tolees-21) a 5.49 EUR (original: 10.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

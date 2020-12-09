@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 49.0 EUR
 inStock: true
-prodname: Superga 2750 Jcot Classic  Zapatillas Infantil  Azul Marino  29 EU
+prodname: 'Superga 2750 Jcot Classic  Zapatillas Infantil  Azul Marino  29 EU'
 ---
 
 Tienes [Superga 2750 Jcot Classic  Zapatillas Infantil  Azul Marino  29 EU](https://www.amazon.es/dp/B002VPDMA2/?tag=tolees-21) con un 51.12 % de descuento con precio de oferta de 23.95 EUR (original: 49.0 EUR) en el siguiente enlace!

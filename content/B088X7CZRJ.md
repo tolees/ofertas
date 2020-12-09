@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 21.44 EUR
 inStock: true
-prodname: Jack & Jones JJEBASIC Knit Crew Neck Noos Pullover  Forest Night/Detail:Twisted with Black  L para Hombre
+prodname: 'Jack & Jones JJEBASIC Knit Crew Neck Noos Pullover  Forest Night/Detail:Twisted with Black  L para Hombre'
 ---
 
 Tienes [Jack & Jones JJEBASIC Knit Crew Neck Noos Pullover  Forest Night/Detail:Twisted with Black  L para Hombre](https://www.amazon.es/dp/B088X7CZRJ/?tag=tolees-21) con un 30.08 % de descuento con precio de oferta de 14.99 EUR (original: 21.44 EUR) en el siguiente enlace!

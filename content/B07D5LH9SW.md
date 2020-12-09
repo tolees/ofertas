@@ -14,7 +14,7 @@ currency: EUR
 price: 13.89
 comparePrice: 23.94 EUR
 inStock: true
-prodname: Fantasy sàbana de Cama de fantasía en Microfibra Impresa  Paint  Sìngolo
+prodname: 'Fantasy sàbana de Cama de fantasía en Microfibra Impresa  Paint  Sìngolo'
 ---
 
 Ahora mismo tienes [Fantasy sàbana de Cama de fantasía en Microfibra Impresa  Paint  Sìngolo](https://www.amazon.es/dp/B07D5LH9SW/?tag=tolees-21) a 13.89 EUR (original: 23.94 EUR) (41.98 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.92
 comparePrice: 34.99 EUR
 inStock: true
-prodname: JACK & JONES Jjeoxford Shirt L/s Noos  Camisa para Hombre   Cashmere Blue Stripes: Slim Fit   Medium
+prodname: 'JACK & JONES Jjeoxford Shirt L/s Noos  Camisa para Hombre   Cashmere Blue Stripes: Slim Fit   Medium'
 ---
 
 Está [JACK & JONES Jjeoxford Shirt L/s Noos  Camisa para Hombre   Cashmere Blue Stripes: Slim Fit   Medium](https://www.amazon.es/dp/B07FNLMB19/?tag=tolees-21) con 63.08 de descuento por 12.92 EUR (original: 34.99 EUR) en el siguiente enlace!

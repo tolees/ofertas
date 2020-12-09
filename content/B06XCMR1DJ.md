@@ -14,7 +14,7 @@ currency: EUR
 price: 18.09
 comparePrice: 65 EUR
 inStock: true
-prodname: Pepe Jeans Pixlette  Vaqueros para Niñas  Azul  10Oz Dual Core Indigo T48  4 años
+prodname: 'Pepe Jeans Pixlette  Vaqueros para Niñas  Azul  10Oz Dual Core Indigo T48  4 años'
 ---
 
 Está [Pepe Jeans Pixlette  Vaqueros para Niñas  Azul  10Oz Dual Core Indigo T48  4 años](https://www.amazon.es/dp/B06XCMR1DJ/?tag=tolees-21) con 72.17 de descuento por 18.09 EUR (original: 65 EUR) en el siguiente enlace!

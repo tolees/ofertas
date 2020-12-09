@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 22.63 EUR
 inStock: true
-prodname: Cuidado personal Care Mascarilla 3 Capas de Tela no Reutilizable para Adultos 50PCS
+prodname: 'Cuidado personal Care Mascarilla 3 Capas de Tela no Reutilizable para Adultos 50PCS'
 ---
 
 Está [Cuidado personal Care Mascarilla 3 Capas de Tela no Reutilizable para Adultos 50PCS](https://www.amazon.es/dp/B08LNRCHKL/?tag=tolees-21) con 69.11 de descuento por 6.99 EUR (original: 22.63 EUR) en el siguiente enlace!

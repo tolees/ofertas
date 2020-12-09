@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 3599 EUR
 inStock: true
-prodname: Petsure Cama para Perros Medianos y Grandes 95x70x16cm L  Marrón - Sofá Súper Acogedor y Cómodo para Perros
+prodname: 'Petsure Cama para Perros Medianos y Grandes 95x70x16cm L  Marrón - Sofá Súper Acogedor y Cómodo para Perros'
 ---
 
 Ahora mismo tienes [Petsure Cama para Perros Medianos y Grandes 95x70x16cm L  Marrón - Sofá Súper Acogedor y Cómodo para Perros](https://www.amazon.es/dp/B07MKTY7SJ/?tag=tolees-21) a 30.99 EUR (original: 3599 EUR) (99.14 %  de descuento) en el siguiente enlace!

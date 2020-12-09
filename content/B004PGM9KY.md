@@ -14,7 +14,7 @@ currency: EUR
 price: 298.52
 comparePrice: 402.29 EUR
 inStock: true
-prodname: Logitech Z906 5.1 Sistema de Altavoces Sonido Envolvente THX  Certificado Dolby&DTS  1000 W de Pico  Multi-Dispositivos  Entradas Audio Múltiples  Enchufe EU  PC/PS4/Xbox/TV/Móvil/Tablet
+prodname: 'Logitech Z906 5.1 Sistema de Altavoces Sonido Envolvente THX  Certificado Dolby&DTS  1000 W de Pico  Multi-Dispositivos  Entradas Audio Múltiples  Enchufe EU  PC/PS4/Xbox/TV/Móvil/Tablet'
 ---
 
 Ahora mismo tienes [Logitech Z906 5.1 Sistema de Altavoces Sonido Envolvente THX  Certificado Dolby&DTS  1000 W de Pico  Multi-Dispositivos  Entradas Audio Múltiples  Enchufe EU  PC/PS4/Xbox/TV/Móvil/Tablet](https://www.amazon.es/dp/B004PGM9KY/?tag=tolees-21) a 298.52 EUR (original: 402.29 EUR) (25.79 %  de descuento) en el siguiente enlace!

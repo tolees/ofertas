@@ -14,7 +14,7 @@ currency: EUR
 price: 19.75
 comparePrice: 29.3 EUR
 inStock: true
-prodname: TRESemmé Champú Cuidado Clasico 6 x 855 ML
+prodname: 'TRESemmé Champú Cuidado Clasico 6 x 855 ML'
 ---
 
 Tienes [TRESemmé Champú Cuidado Clasico 6 x 855 ML](https://www.amazon.es/dp/B089HSHRH8/?tag=tolees-21) con un 32.59 % de descuento con precio de oferta de 19.75 EUR (original: 29.3 EUR) en el siguiente enlace!

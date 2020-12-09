@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 76.17 EUR
 inStock: true
-prodname: Bolas de entrenamiento del suelo pélvico de silicona con mando a distancia  bolas de amor inalámbricas con 10 programas de vibración  resistente al agua y recargables  color morado
+prodname: 'Bolas de entrenamiento del suelo pélvico de silicona con mando a distancia  bolas de amor inalámbricas con 10 programas de vibración  resistente al agua y recargables  color morado'
 ---
 
 Ahora mismo tienes [Bolas de entrenamiento del suelo pélvico de silicona con mando a distancia  bolas de amor inalámbricas con 10 programas de vibración  resistente al agua y recargables  color morado](https://www.amazon.es/dp/B07K9NQWWB/?tag=tolees-21) a 21.99 EUR (original: 76.17 EUR) (71.13 %  de descuento) en el siguiente enlace!

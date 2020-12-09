@@ -14,7 +14,7 @@ currency: EUR
 price: 23.21
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Adidas Core18 Pre Jkt Chaqueta de Deporte  Hombre  Negro  Negro/Blanco   M
+prodname: 'Adidas Core18 Pre Jkt Chaqueta de Deporte  Hombre  Negro  Negro/Blanco   M'
 ---
 
 Está [Adidas Core18 Pre Jkt Chaqueta de Deporte  Hombre  Negro  Negro/Blanco   M](https://www.amazon.es/dp/B076HRBVVK/?tag=tolees-21) con 41.90 de descuento por 23.21 EUR (original: 39.95 EUR) en el siguiente enlace!

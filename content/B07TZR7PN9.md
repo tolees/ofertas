@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Tubayia Filtro de té Reutilizable de Acero Inoxidable  Filtro de café Permanente para la mayoría de cafeteras
+prodname: 'Tubayia Filtro de té Reutilizable de Acero Inoxidable  Filtro de café Permanente para la mayoría de cafeteras'
 ---
 
 Está [Tubayia Filtro de té Reutilizable de Acero Inoxidable  Filtro de café Permanente para la mayoría de cafeteras](https://www.amazon.es/dp/B07TZR7PN9/?tag=tolees-21) con 47.39 de descuento por 9.99 EUR (original: 18.99 EUR) en el siguiente enlace!

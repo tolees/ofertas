@@ -14,7 +14,7 @@ currency: EUR
 price: 57.45
 comparePrice: 109.0 EUR
 inStock: true
-prodname: Lacoste ESPARRE BL 1 CMA  Zapatillas Hombre  Blanco  White/White   40 EU
+prodname: 'Lacoste ESPARRE BL 1 CMA  Zapatillas Hombre  Blanco  White/White   40 EU'
 ---
 
 Está [Lacoste ESPARRE BL 1 CMA  Zapatillas Hombre  Blanco  White/White   40 EU](https://www.amazon.es/dp/B07DMF26ZF/?tag=tolees-21) con 47.29 de descuento por 57.45 EUR (original: 109.0 EUR) en el siguiente enlace!

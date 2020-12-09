@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 56.03 EUR
 inStock: true
-prodname: Cabezal de ducha  cabezal de ducha con acabado cromado para el baño de alta presión con 5 pulverizadores potentes diferentes y tubo ultra largo de 60"  soporte de montaje ajustable y cinta de teflón.
+prodname: 'Cabezal de ducha  cabezal de ducha con acabado cromado para el baño de alta presión con 5 pulverizadores potentes diferentes y tubo ultra largo de 60"  soporte de montaje ajustable y cinta de teflón.'
 ---
 
 Tienes [Cabezal de ducha  cabezal de ducha con acabado cromado para el baño de alta presión con 5 pulverizadores potentes diferentes y tubo ultra largo de 60"  soporte de montaje ajustable y cinta de teflón.](https://www.amazon.es/dp/B07KGLZWT7/?tag=tolees-21) con un 67.89 % de descuento con precio de oferta de 17.99 EUR (original: 56.03 EUR) en el siguiente enlace!

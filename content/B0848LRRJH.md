@@ -14,7 +14,7 @@ currency: EUR
 price: 12.49
 comparePrice: 32.0 EUR
 inStock: true
-prodname: Hurley M Natural 2.0 Trucker Hat Gorra  Hombre  dk Smoke Grey  1SIZE
+prodname: 'Hurley M Natural 2.0 Trucker Hat Gorra  Hombre  dk Smoke Grey  1SIZE'
 ---
 
 Ahora mismo tienes [Hurley M Natural 2.0 Trucker Hat Gorra  Hombre  dk Smoke Grey  1SIZE](https://www.amazon.es/dp/B0848LRRJH/?tag=tolees-21) a 12.49 EUR (original: 32.0 EUR) (60.97 %  de descuento) en el siguiente enlace!

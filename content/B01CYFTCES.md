@@ -14,7 +14,7 @@ currency: EUR
 price: 299.25
 comparePrice: 419 EUR
 inStock: true
-prodname: Baby Jogger City Mini 4 - Silla de paseo  color Denim
+prodname: 'Baby Jogger City Mini 4 - Silla de paseo  color Denim'
 ---
 
 Está [Baby Jogger City Mini 4 - Silla de paseo  color Denim](https://www.amazon.es/dp/B01CYFTCES/?tag=tolees-21) con 28.58 de descuento por 299.25 EUR (original: 419 EUR) en el siguiente enlace!

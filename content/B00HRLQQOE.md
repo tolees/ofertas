@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 10.17 EUR
 inStock: true
-prodname: Gembird MHS 001 - Auriculares con micrófono  Negro
+prodname: 'Gembird MHS 001 - Auriculares con micrófono  Negro'
 ---
 
 Tienes [Gembird MHS 001 - Auriculares con micrófono  Negro](https://www.amazon.es/dp/B00HRLQQOE/?tag=tolees-21) con un 31.27 % de descuento con precio de oferta de 6.99 EUR (original: 10.17 EUR) en el siguiente enlace!

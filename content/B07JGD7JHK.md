@@ -14,7 +14,7 @@ currency: EUR
 price: 37.81
 comparePrice: 69.95 EUR
 inStock: true
-prodname: PUMA Cosmic Jacket TZ Chaqueta De Entrenamiento  Mujer  Negro Black  XL
+prodname: 'PUMA Cosmic Jacket TZ Chaqueta De Entrenamiento  Mujer  Negro Black  XL'
 ---
 
 Está [PUMA Cosmic Jacket TZ Chaqueta De Entrenamiento  Mujer  Negro Black  XL](https://www.amazon.es/dp/B07JGD7JHK/?tag=tolees-21) con 45.95 de descuento por 37.81 EUR (original: 69.95 EUR) en el siguiente enlace!

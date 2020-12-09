@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 299.99 EUR
 inStock: true
-prodname: Garmin 735XT Forerunner Reloj multisport con GPS  Unisex adulto  Negro  Black/Grey   M
+prodname: 'Garmin 735XT Forerunner Reloj multisport con GPS  Unisex adulto  Negro  Black/Grey   M'
 ---
 
 Está [Garmin 735XT Forerunner Reloj multisport con GPS  Unisex adulto  Negro  Black/Grey   M](https://www.amazon.es/dp/B01DWIY39A/?tag=tolees-21) con 33.66 de descuento por 199.0 EUR (original: 299.99 EUR) en el siguiente enlace!

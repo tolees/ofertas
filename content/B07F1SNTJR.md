@@ -14,7 +14,7 @@ currency: EUR
 price: 3
 comparePrice: 6 EUR
 inStock: true
-prodname: New Look Crew  Camiseta para Hombre  Rojo  Dark Burgundy 67  Small
+prodname: 'New Look Crew  Camiseta para Hombre  Rojo  Dark Burgundy 67  Small'
 ---
 
 Está [New Look Crew  Camiseta para Hombre  Rojo  Dark Burgundy 67  Small](https://www.amazon.es/dp/B07F1SNTJR/?tag=tolees-21) con 50.00 de descuento por 3 EUR (original: 6 EUR) en el siguiente enlace!

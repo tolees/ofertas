@@ -14,7 +14,7 @@ currency: EUR
 price: 41.24
 comparePrice: 72.46 EUR
 inStock: true
-prodname: Calvin Klein Park 2 SS  Polo para Hombre  Blanco  Bright White  Large  Tamaño del Fabricante:L 
+prodname: 'Calvin Klein Park 2 SS  Polo para Hombre  Blanco  Bright White  Large  Tamaño del Fabricante:L '
 ---
 
 Tienes [Calvin Klein Park 2 SS  Polo para Hombre  Blanco  Bright White  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B071XWWS1D/?tag=tolees-21) con un 43.09 % de descuento con precio de oferta de 41.24 EUR (original: 72.46 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.92
 comparePrice: 49.95 EUR
 inStock: true
-prodname: DKNY Intimates Classic Cotton T-Back T-Shirt Sujetador Cotidiana  Negro  Black BP   85C  Talla del Fabricante: 32C  para Mujer
+prodname: 'DKNY Intimates Classic Cotton T-Back T-Shirt Sujetador Cotidiana  Negro  Black BP   85C  Talla del Fabricante: 32C  para Mujer'
 ---
 
 Tienes [DKNY Intimates Classic Cotton T-Back T-Shirt Sujetador Cotidiana  Negro  Black BP   85C  Talla del Fabricante: 32C  para Mujer](https://www.amazon.es/dp/B077NHLCXN/?tag=tolees-21) con un 80.14 % de descuento con precio de oferta de 9.92 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.18
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Under Armour Streaker 2.0 Racer  Tanque Mujer  Negro  Black/Black/Reflective  001    XS
+prodname: 'Under Armour Streaker 2.0 Racer  Tanque Mujer  Negro  Black/Black/Reflective  001    XS'
 ---
 
 Está [Under Armour Streaker 2.0 Racer  Tanque Mujer  Negro  Black/Black/Reflective  001    XS](https://www.amazon.es/dp/B07CZBYYCM/?tag=tolees-21) con 68.06 de descuento por 11.18 EUR (original: 35.0 EUR) en el siguiente enlace!

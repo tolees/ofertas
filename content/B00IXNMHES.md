@@ -14,7 +14,7 @@ currency: EUR
 price: 67.04
 comparePrice: 118.45 EUR
 inStock: true
-prodname: Olmitos Bear - Cuna parque de viaje plegable
+prodname: 'Olmitos Bear - Cuna parque de viaje plegable'
 ---
 
 Tienes [Olmitos Bear - Cuna parque de viaje plegable](https://www.amazon.es/dp/B00IXNMHES/?tag=tolees-21) con un 43.40 % de descuento con precio de oferta de 67.04 EUR (original: 118.45 EUR) en el siguiente enlace!

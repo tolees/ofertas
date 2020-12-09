@@ -14,7 +14,7 @@ currency: EUR
 price: 422.38
 comparePrice: 707.85 EUR
 inStock: true
-prodname: Bosch Professional GBH 18 V-EC - Martillo perforador a batería  1 7 J  2 baterías x 4 0 Ah  18V  Ø máx. hormigón 18 mm  portabrocas SDS plus  motor EC  en L-BOXX 
+prodname: 'Bosch Professional GBH 18 V-EC - Martillo perforador a batería  1 7 J  2 baterías x 4 0 Ah  18V  Ø máx. hormigón 18 mm  portabrocas SDS plus  motor EC  en L-BOXX '
 ---
 
 Ahora mismo tienes [Bosch Professional GBH 18 V-EC - Martillo perforador a batería  1 7 J  2 baterías x 4 0 Ah  18V  Ø máx. hormigón 18 mm  portabrocas SDS plus  motor EC  en L-BOXX ](https://www.amazon.es/dp/B009ZCZWO8/?tag=tolees-21) a 422.38 EUR (original: 707.85 EUR) (40.33 %  de descuento) en el siguiente enlace!

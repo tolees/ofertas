@@ -14,7 +14,7 @@ currency: EUR
 price: 18.47
 comparePrice: 55.89 EUR
 inStock: true
-prodname: ProfiCook PC-UMS 1085 Batidora de Vaso y picadora de Frutas para Smoothies  frappes  Batidos  350w  350 W  1 Cubic_Feet  1 Decibeles  Acero Inoxidable y Negro
+prodname: 'ProfiCook PC-UMS 1085 Batidora de Vaso y picadora de Frutas para Smoothies  frappes  Batidos  350w  350 W  1 Cubic_Feet  1 Decibeles  Acero Inoxidable y Negro'
 ---
 
 Ahora mismo tienes [ProfiCook PC-UMS 1085 Batidora de Vaso y picadora de Frutas para Smoothies  frappes  Batidos  350w  350 W  1 Cubic_Feet  1 Decibeles  Acero Inoxidable y Negro](https://www.amazon.es/dp/B00XUJLPQQ/?tag=tolees-21) a 18.47 EUR (original: 55.89 EUR) (66.95 %  de descuento) en el siguiente enlace!

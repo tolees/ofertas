@@ -14,7 +14,7 @@ currency: EUR
 price: 68.99
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Woxter Fit Gun 2 Pink Pistola de Masaje Muscular Massage Gun con Batería de Litio y 6 Cabezales Intercambiables  Masajeador de Mano para deportistas  Estimulación Muscular  Alivio del Dolor Muscular
+prodname: 'Woxter Fit Gun 2 Pink Pistola de Masaje Muscular Massage Gun con Batería de Litio y 6 Cabezales Intercambiables  Masajeador de Mano para deportistas  Estimulación Muscular  Alivio del Dolor Muscular'
 ---
 
 Está [Woxter Fit Gun 2 Pink Pistola de Masaje Muscular Massage Gun con Batería de Litio y 6 Cabezales Intercambiables  Masajeador de Mano para deportistas  Estimulación Muscular  Alivio del Dolor Muscular](https://www.amazon.es/dp/B07YSLVH19/?tag=tolees-21) con 42.03 de descuento por 68.99 EUR (original: 119.0 EUR) en el siguiente enlace!

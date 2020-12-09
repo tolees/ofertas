@@ -14,7 +14,7 @@ currency: EUR
 price: 7.6
 comparePrice: 10.65 EUR
 inStock: true
-prodname: Neutrogena Crema Pies Talones Agrietados Hidratación Intensa  50 ml
+prodname: 'Neutrogena Crema Pies Talones Agrietados Hidratación Intensa  50 ml'
 ---
 
 Está [Neutrogena Crema Pies Talones Agrietados Hidratación Intensa  50 ml](https://www.amazon.es/dp/B06XTDTMLX/?tag=tolees-21) con 28.64 de descuento por 7.6 EUR (original: 10.65 EUR) en el siguiente enlace!

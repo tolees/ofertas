@@ -14,7 +14,7 @@ currency: EUR
 price: 149.0
 comparePrice: 279.0 EUR
 inStock: true
-prodname: Fossil Reloj de Bolsillo Digital FTW6014
+prodname: 'Fossil Reloj de Bolsillo Digital FTW6014'
 ---
 
 Tienes [Fossil Reloj de Bolsillo Digital FTW6014](https://www.amazon.es/dp/B07GLBFZT1/?tag=tolees-21) con un 46.59 % de descuento con precio de oferta de 149.0 EUR (original: 279.0 EUR) en el siguiente enlace!

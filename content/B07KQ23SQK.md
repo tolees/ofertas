@@ -14,7 +14,7 @@ currency: EUR
 price: 31.9
 comparePrice: 59.99 EUR
 inStock: true
-prodname: DC Apparel Lanai 22" Boardshort  Hombre  Black Iris  32
+prodname: 'DC Apparel Lanai 22" Boardshort  Hombre  Black Iris  32'
 ---
 
 Ahora mismo tienes [DC Apparel Lanai 22" Boardshort  Hombre  Black Iris  32](https://www.amazon.es/dp/B07KQ23SQK/?tag=tolees-21) a 31.9 EUR (original: 59.99 EUR) (46.82 %  de descuento) en el siguiente enlace!

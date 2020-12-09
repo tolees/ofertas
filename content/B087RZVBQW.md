@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: TP-Link -Bombilla LED Inteligente  Bombilla WiFi sin necesidad de Hub  Blanco Cálido Regulable E27  8.7W 806lm  Compatible Alexa  Echo y Google Home  [Clase de eficiencia energética A+]  Tapo L510E 
+prodname: 'TP-Link -Bombilla LED Inteligente  Bombilla WiFi sin necesidad de Hub  Blanco Cálido Regulable E27  8.7W 806lm  Compatible Alexa  Echo y Google Home  [Clase de eficiencia energética A+]  Tapo L510E '
 ---
 
 Está [TP-Link -Bombilla LED Inteligente  Bombilla WiFi sin necesidad de Hub  Blanco Cálido Regulable E27  8.7W 806lm  Compatible Alexa  Echo y Google Home  [Clase de eficiencia energética A+]  Tapo L510E ](https://www.amazon.es/dp/B087RZVBQW/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

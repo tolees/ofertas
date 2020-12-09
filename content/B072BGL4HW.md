@@ -14,7 +14,7 @@ currency: EUR
 price: 21.05
 comparePrice: 58.01 EUR
 inStock: true
-prodname: Lyle & Scott Polo Shirt  Blanco  White 626   X-Small  Talla del Fabricante: X-Large  para Hombre
+prodname: 'Lyle & Scott Polo Shirt  Blanco  White 626   X-Small  Talla del Fabricante: X-Large  para Hombre'
 ---
 
 Tienes [Lyle & Scott Polo Shirt  Blanco  White 626   X-Small  Talla del Fabricante: X-Large  para Hombre](https://www.amazon.es/dp/B072BGL4HW/?tag=tolees-21) con un 63.71 % de descuento con precio de oferta de 21.05 EUR (original: 58.01 EUR) en el siguiente enlace!

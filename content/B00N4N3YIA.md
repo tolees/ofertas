@@ -14,7 +14,7 @@ currency: EUR
 price: 14.47
 comparePrice: 26.95 EUR
 inStock: true
-prodname: BOSS Mini BM  Slip para Hombre  Negro  Black 001  Small
+prodname: 'BOSS Mini BM  Slip para Hombre  Negro  Black 001  Small'
 ---
 
 Ahora mismo tienes [BOSS Mini BM  Slip para Hombre  Negro  Black 001  Small](https://www.amazon.es/dp/B00N4N3YIA/?tag=tolees-21) a 14.47 EUR (original: 26.95 EUR) (46.31 %  de descuento) en el siguiente enlace!

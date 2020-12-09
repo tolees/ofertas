@@ -14,7 +14,7 @@ currency: EUR
 price: 24.45
 comparePrice: 35 EUR
 inStock: true
-prodname: Levi s Slim 2 Pack Crew tee Camiseta   Fig Purple/Dress Blue 0027   Medium para Hombre
+prodname: 'Levi s Slim 2 Pack Crew tee Camiseta   Fig Purple/Dress Blue 0027   Medium para Hombre'
 ---
 
 Ahora mismo tienes [Levi s Slim 2 Pack Crew tee Camiseta   Fig Purple/Dress Blue 0027   Medium para Hombre](https://www.amazon.es/dp/B07DVLHB76/?tag=tolees-21) a 24.45 EUR (original: 35 EUR) (30.14 %  de descuento) en el siguiente enlace!

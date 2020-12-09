@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Esprit 997ee2i801  suéter Hombre  Gris  Dark Grey 020   Large
+prodname: 'Esprit 997ee2i801  suéter Hombre  Gris  Dark Grey 020   Large'
 ---
 
 Está [Esprit 997ee2i801  suéter Hombre  Gris  Dark Grey 020   Large](https://www.amazon.es/dp/B06ZZYVLSN/?tag=tolees-21) con 50.02 de descuento por 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

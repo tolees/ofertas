@@ -14,7 +14,7 @@ currency: EUR
 price: 32.42
 comparePrice: 85.99 EUR
 inStock: true
-prodname: Quiksilver Everyday Sherpa Sudadera con Capucha  Hombre  Azul  Tapestry Heather BPHH   Small  Tamaño del Fabricante:S 
+prodname: 'Quiksilver Everyday Sherpa Sudadera con Capucha  Hombre  Azul  Tapestry Heather BPHH   Small  Tamaño del Fabricante:S '
 ---
 
 Está [Quiksilver Everyday Sherpa Sudadera con Capucha  Hombre  Azul  Tapestry Heather BPHH   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DV2P6WV/?tag=tolees-21) con 62.30 de descuento por 32.42 EUR (original: 85.99 EUR) en el siguiente enlace!

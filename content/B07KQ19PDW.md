@@ -14,7 +14,7 @@ currency: EUR
 price: 35.45
 comparePrice: 48 EUR
 inStock: true
-prodname: Helly Hansen W Crewline Polo  Mujer  Flag Red  L
+prodname: 'Helly Hansen W Crewline Polo  Mujer  Flag Red  L'
 ---
 
 Ahora mismo tienes [Helly Hansen W Crewline Polo  Mujer  Flag Red  L](https://www.amazon.es/dp/B07KQ19PDW/?tag=tolees-21) a 35.45 EUR (original: 48 EUR) (26.15 %  de descuento) en el siguiente enlace!

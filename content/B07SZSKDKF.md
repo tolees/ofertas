@@ -14,7 +14,7 @@ currency: EUR
 price: 51.83
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Armani Exchange 9 5 Ounces Stretch Mid Wash Vaqueros Skinny  Azul  Indigo Denim 1500   38/L28  Talla del Fabricante: 24  para Mujer
+prodname: 'Armani Exchange 9 5 Ounces Stretch Mid Wash Vaqueros Skinny  Azul  Indigo Denim 1500   38/L28  Talla del Fabricante: 24  para Mujer'
 ---
 
 Ahora mismo tienes [Armani Exchange 9 5 Ounces Stretch Mid Wash Vaqueros Skinny  Azul  Indigo Denim 1500   38/L28  Talla del Fabricante: 24  para Mujer](https://www.amazon.es/dp/B07SZSKDKF/?tag=tolees-21) a 51.83 EUR (original: 95.0 EUR) (45.44 %  de descuento) en el siguiente enlace!

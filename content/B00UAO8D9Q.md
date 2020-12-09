@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Spirella  Azul colección Bali  Portacepillos de Dientes 9 5 cm  Porcelana  Ø9 X 9.5 Cm
+prodname: 'Spirella  Azul colección Bali  Portacepillos de Dientes 9 5 cm  Porcelana  Ø9 X 9.5 Cm'
 ---
 
 Está [Spirella  Azul colección Bali  Portacepillos de Dientes 9 5 cm  Porcelana  Ø9 X 9.5 Cm](https://www.amazon.es/dp/B00UAO8D9Q/?tag=tolees-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

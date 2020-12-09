@@ -14,7 +14,7 @@ currency: EUR
 price: 32.81
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Puma Suede Classic+  Zapatillas Unisex Adulto  Azul  Olympian Blue/White 64   43 EU
+prodname: 'Puma Suede Classic+  Zapatillas Unisex Adulto  Azul  Olympian Blue/White 64   43 EU'
 ---
 
 Está [Puma Suede Classic+  Zapatillas Unisex Adulto  Azul  Olympian Blue/White 64   43 EU](https://www.amazon.es/dp/B011UZLXR2/?tag=tolees-21) con 61.38 de descuento por 32.81 EUR (original: 84.95 EUR) en el siguiente enlace!

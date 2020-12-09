@@ -14,7 +14,7 @@ currency: EUR
 price: 28.12
 comparePrice: 39.95 EUR
 inStock: true
-prodname: XTI 32035  Zapatos con Tira de Tobillo para Mujer  Amarillo  39 EU
+prodname: 'XTI 32035  Zapatos con Tira de Tobillo para Mujer  Amarillo  39 EU'
 ---
 
 Está [XTI 32035  Zapatos con Tira de Tobillo para Mujer  Amarillo  39 EU](https://www.amazon.es/dp/B07JMHQFT2/?tag=tolees-21) con 29.61 de descuento por 28.12 EUR (original: 39.95 EUR) en el siguiente enlace!

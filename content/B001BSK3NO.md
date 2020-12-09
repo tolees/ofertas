@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 16.03 EUR
 inStock: true
-prodname: TP-Link TL-ANT24EC5S - Cable alargador de Antena  5 Metros  Negro
+prodname: 'TP-Link TL-ANT24EC5S - Cable alargador de Antena  5 Metros  Negro'
 ---
 
 Está [TP-Link TL-ANT24EC5S - Cable alargador de Antena  5 Metros  Negro](https://www.amazon.es/dp/B001BSK3NO/?tag=tolees-21) con 25.20 de descuento por 11.99 EUR (original: 16.03 EUR) en el siguiente enlace!

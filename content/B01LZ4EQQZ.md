@@ -14,7 +14,7 @@ currency: EUR
 price: 6
 comparePrice: 13.7 EUR
 inStock: true
-prodname: oodji Ultra Mujer Mono con Acabado en Contraste  Gris  ES 42 / L
+prodname: 'oodji Ultra Mujer Mono con Acabado en Contraste  Gris  ES 42 / L'
 ---
 
 Tienes [oodji Ultra Mujer Mono con Acabado en Contraste  Gris  ES 42 / L](https://www.amazon.es/dp/B01LZ4EQQZ/?tag=tolees-21) con un 56.20 % de descuento con precio de oferta de 6 EUR (original: 13.7 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 319.98
 comparePrice: 519.0 EUR
 inStock: true
-prodname: ASUS ROG Swift PG248Q - Monitor Gaming de 24"  144 Hz nativos  WLED TN  resolución FHD 1920 x 1080  16:9  Brillo 350 CD/m2  Contraste 1.000:1  Respuesta 1 ms GTG  G-Sync 
+prodname: 'ASUS ROG Swift PG248Q - Monitor Gaming de 24"  144 Hz nativos  WLED TN  resolución FHD 1920 x 1080  16:9  Brillo 350 CD/m2  Contraste 1.000:1  Respuesta 1 ms GTG  G-Sync '
 ---
 
 Está [ASUS ROG Swift PG248Q - Monitor Gaming de 24"  144 Hz nativos  WLED TN  resolución FHD 1920 x 1080  16:9  Brillo 350 CD/m2  Contraste 1.000:1  Respuesta 1 ms GTG  G-Sync ](https://www.amazon.es/dp/B01I3KMEAC/?tag=tolees-21) con 38.35 de descuento por 319.98 EUR (original: 519.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 119.0
 comparePrice: 189.0 EUR
 inStock: true
-prodname: Reloj para mujer Tommy Hilfiger 1781645  mecanismo de cuarzo  diseño con varias esferas  correa de silicona.
+prodname: 'Reloj para mujer Tommy Hilfiger 1781645  mecanismo de cuarzo  diseño con varias esferas  correa de silicona.'
 ---
 
 Está [Reloj para mujer Tommy Hilfiger 1781645  mecanismo de cuarzo  diseño con varias esferas  correa de silicona.](https://www.amazon.es/dp/B01BFCLJ3S/?tag=tolees-21) con 37.04 de descuento por 119.0 EUR (original: 189.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 42.99 EUR
 inStock: true
-prodname: KUPVALON Dongle de Pantalla inalámbrica Adaptador 1080P HDMI Medios para Compartir Video de 2.4GHz Receptor  Soporte DLNA/Airplay/Miracast para iOS/Android/Mac/Window/TV/proyector/Monitor
+prodname: 'KUPVALON Dongle de Pantalla inalámbrica Adaptador 1080P HDMI Medios para Compartir Video de 2.4GHz Receptor  Soporte DLNA/Airplay/Miracast para iOS/Android/Mac/Window/TV/proyector/Monitor'
 ---
 
 Está [KUPVALON Dongle de Pantalla inalámbrica Adaptador 1080P HDMI Medios para Compartir Video de 2.4GHz Receptor  Soporte DLNA/Airplay/Miracast para iOS/Android/Mac/Window/TV/proyector/Monitor](https://www.amazon.es/dp/B089GRBTPL/?tag=tolees-21) con 46.52 de descuento por 22.99 EUR (original: 42.99 EUR) en el siguiente enlace!

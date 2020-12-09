@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 34.18 EUR
 inStock: true
-prodname: #N/a Maquinilla de Afeitar de Seguridad de Doble Filo para Hombre con Mango de Madera de 2 Piezas para Afeitado Diario para Hombres
+prodname: '#N/a Maquinilla de Afeitar de Seguridad de Doble Filo para Hombre con Mango de Madera de 2 Piezas para Afeitado Diario para Hombres'
 ---
 
 Está [#N/a Maquinilla de Afeitar de Seguridad de Doble Filo para Hombre con Mango de Madera de 2 Piezas para Afeitado Diario para Hombres](https://www.amazon.es/dp/B08M6HQNY7/?tag=tolees-21) con 44.44 de descuento por 18.99 EUR (original: 34.18 EUR) en el siguiente enlace!

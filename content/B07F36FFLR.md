@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Edge Entertainment- Juego de Cartas  Color  EETCZC01 
+prodname: 'Edge Entertainment- Juego de Cartas  Color  EETCZC01 '
 ---
 
 Está [Edge Entertainment- Juego de Cartas  Color  EETCZC01 ](https://www.amazon.es/dp/B07F36FFLR/?tag=tolees-21) con 59.95 de descuento por 7.99 EUR (original: 19.95 EUR) en el siguiente enlace!

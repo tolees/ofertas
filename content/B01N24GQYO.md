@@ -14,7 +14,7 @@ currency: EUR
 price: 28.17
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Rieker 71731  Botas para Mujer  Negro  Schwarz   38 EU
+prodname: 'Rieker 71731  Botas para Mujer  Negro  Schwarz   38 EU'
 ---
 
 Está [Rieker 71731  Botas para Mujer  Negro  Schwarz   38 EU](https://www.amazon.es/dp/B01N24GQYO/?tag=tolees-21) con 59.73 de descuento por 28.17 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 699 EUR
 inStock: true
-prodname: marckonfort Colchón Viscoelástico Paris 140X190  18 cm de Altura  2 cm de Viscoelástica de 65 Kg/m³  Independencia de lechos  Firmeza Media  Alta Durabilidad
+prodname: 'marckonfort Colchón Viscoelástico Paris 140X190  18 cm de Altura  2 cm de Viscoelástica de 65 Kg/m³  Independencia de lechos  Firmeza Media  Alta Durabilidad'
 ---
 
 Está [marckonfort Colchón Viscoelástico Paris 140X190  18 cm de Altura  2 cm de Viscoelástica de 65 Kg/m³  Independencia de lechos  Firmeza Media  Alta Durabilidad](https://www.amazon.es/dp/B00TZT4C2O/?tag=tolees-21) con 78.54 de descuento por 149.99 EUR (original: 699 EUR) en el siguiente enlace!

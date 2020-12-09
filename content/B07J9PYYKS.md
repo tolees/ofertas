@@ -14,7 +14,7 @@ currency: EUR
 price: 29.28
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Skechers Bobs Squad  Zapatillas para Niñas  Rosa  Light Pink Ltpk   28.5 EU
+prodname: 'Skechers Bobs Squad  Zapatillas para Niñas  Rosa  Light Pink Ltpk   28.5 EU'
 ---
 
 Está [Skechers Bobs Squad  Zapatillas para Niñas  Rosa  Light Pink Ltpk   28.5 EU](https://www.amazon.es/dp/B07J9PYYKS/?tag=tolees-21) con 26.71 de descuento por 29.28 EUR (original: 39.95 EUR) en el siguiente enlace!

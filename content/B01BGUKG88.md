@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Wilson Raqueta de tenis unisex  Para juegos en todas las áreas  Para jugadores aficionados  Surge Power 108  Medida 1  Azul/Blanco
+prodname: 'Wilson Raqueta de tenis unisex  Para juegos en todas las áreas  Para jugadores aficionados  Surge Power 108  Medida 1  Azul/Blanco'
 ---
 
 Ahora mismo tienes [Wilson Raqueta de tenis unisex  Para juegos en todas las áreas  Para jugadores aficionados  Surge Power 108  Medida 1  Azul/Blanco](https://www.amazon.es/dp/B01BGUKG88/?tag=tolees-21) a 44.99 EUR (original: 89.95 EUR) (49.98 %  de descuento) en el siguiente enlace!

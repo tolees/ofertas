@@ -14,15 +14,13 @@ currency: EUR
 price: 25.63
 comparePrice: 120.18 EUR
 inStock: true
-prodname: Tommy Hilfiger CTN Wool Pocket C-NK CF-suéter Hombre Gris  Cloud Htr  Medium
+prodname: 'Tommy Hilfiger CTN Wool Pocket C-NK CF-suéter Hombre Gris  Cloud Htr  Medium'
 ---
 
-Está [Tommy Hilfiger CTN Wool Pocket C-NK CF-suéter Hombre Gris  Cloud Htr  Medium](https://www.amazon.es/dp/B017WRZYPY/?tag=tolees-21) con 78.67 de descuento por 25.63 EUR (original: 120.18 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tommy Hilfiger CTN Wool Pocket C-NK CF-suéter Hombre Gris  Cloud Htr  Medium](https://www.amazon.es/dp/B017WRZYPY/?tag=tolees-21) a 25.63 EUR (original: 120.18 EUR) (78.67 %  de descuento) en el siguiente enlace!
 
 [![Tommy Hilfiger CTN Wool Pocket C-NK CF-s](https://images-eu.ssl-images-amazon.com/images/I/41xtYcJX6CL._SL200_.jpg)](https://www.amazon.es/dp/B017WRZYPY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B017WRZYPY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B017WRZYPY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

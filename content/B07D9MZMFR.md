@@ -14,7 +14,7 @@ currency: EUR
 price: 33.45
 comparePrice: 59.95 EUR
 inStock: true
-prodname: adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Azul  Legend Ink Dark Blue 0   44 EU
+prodname: 'adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Azul  Legend Ink Dark Blue 0   44 EU'
 ---
 
 Tienes [adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Azul  Legend Ink Dark Blue 0   44 EU](https://www.amazon.es/dp/B07D9MZMFR/?tag=tolees-21) con un 44.20 % de descuento con precio de oferta de 33.45 EUR (original: 59.95 EUR) en el siguiente enlace!

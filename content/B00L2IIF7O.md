@@ -14,7 +14,7 @@ currency: EUR
 price: 15.9
 comparePrice: 24.82 EUR
 inStock: true
-prodname: Astan Hogar Ventilador De Pie Nápoles Faan AH-AF20010  Blanco
+prodname: 'Astan Hogar Ventilador De Pie Nápoles Faan AH-AF20010  Blanco'
 ---
 
 Está [Astan Hogar Ventilador De Pie Nápoles Faan AH-AF20010  Blanco](https://www.amazon.es/dp/B00L2IIF7O/?tag=tolees-21) con 35.94 de descuento por 15.9 EUR (original: 24.82 EUR) en el siguiente enlace!

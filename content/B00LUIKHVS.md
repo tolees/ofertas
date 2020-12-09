@@ -14,7 +14,7 @@ currency: EUR
 price: 56.95
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Adidas Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco Running White FTW Running White Fairway  40 2/3 EU
+prodname: 'Adidas Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco Running White FTW Running White Fairway  40 2/3 EU'
 ---
 
 Tienes [Adidas Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco Running White FTW Running White Fairway  40 2/3 EU](https://www.amazon.es/dp/B00LUIKHVS/?tag=tolees-21) con un 43.04 % de descuento con precio de oferta de 56.95 EUR (original: 99.99 EUR) en el siguiente enlace!

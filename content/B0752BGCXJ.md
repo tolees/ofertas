@@ -14,7 +14,7 @@ currency: EUR
 price: 41.03
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW Midge Zip Mid Skinny Wmn  Vaqueros Mujer  Azul  Light Vintage Aged Destroy   W32/L30  Talla del Fabricante: 32/30 
+prodname: 'G-STAR RAW Midge Zip Mid Skinny Wmn  Vaqueros Mujer  Azul  Light Vintage Aged Destroy   W32/L30  Talla del Fabricante: 32/30 '
 ---
 
 Está [G-STAR RAW Midge Zip Mid Skinny Wmn  Vaqueros Mujer  Azul  Light Vintage Aged Destroy   W32/L30  Talla del Fabricante: 32/30 ](https://www.amazon.es/dp/B0752BGCXJ/?tag=tolees-21) con 70.68 de descuento por 41.03 EUR (original: 139.95 EUR) en el siguiente enlace!

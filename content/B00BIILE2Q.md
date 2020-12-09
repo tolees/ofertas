@@ -14,7 +14,7 @@ currency: EUR
 price: 24.41
 comparePrice: 40 EUR
 inStock: true
-prodname: Nike Jr  Magistax  Ola  II  TF  Botas de fútbol Unisex niños  Naranja  Total Crimson/Black-BRT Mango   38 EU
+prodname: 'Nike Jr  Magistax  Ola  II  TF  Botas de fútbol Unisex niños  Naranja  Total Crimson/Black-BRT Mango   38 EU'
 ---
 
 Está [Nike Jr  Magistax  Ola  II  TF  Botas de fútbol Unisex niños  Naranja  Total Crimson/Black-BRT Mango   38 EU](https://www.amazon.es/dp/B00BIILE2Q/?tag=tolees-21) con 38.98 de descuento por 24.41 EUR (original: 40 EUR) en el siguiente enlace!

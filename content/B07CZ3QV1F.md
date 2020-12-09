@@ -14,7 +14,7 @@ currency: EUR
 price: 32.45
 comparePrice: 50.64 EUR
 inStock: true
-prodname: Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Gris  Quarry-Winsome Orchid 10   37 EU
+prodname: 'Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Gris  Quarry-Winsome Orchid 10   37 EU'
 ---
 
 Está [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Gris  Quarry-Winsome Orchid 10   37 EU](https://www.amazon.es/dp/B07CZ3QV1F/?tag=tolees-21) con 35.92 de descuento por 32.45 EUR (original: 50.64 EUR) en el siguiente enlace!

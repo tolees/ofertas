@@ -14,7 +14,7 @@ currency: EUR
 price: 2.42
 comparePrice: 11.21 EUR
 inStock: true
-prodname: Thermobaby - Cepillo limpia biberones
+prodname: 'Thermobaby - Cepillo limpia biberones'
 ---
 
 Ahora mismo tienes [Thermobaby - Cepillo limpia biberones](https://www.amazon.es/dp/B00T7DGJMO/?tag=tolees-21) a 2.42 EUR (original: 11.21 EUR) (78.41 %  de descuento) en el siguiente enlace!

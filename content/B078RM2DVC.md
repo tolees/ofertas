@@ -14,7 +14,7 @@ currency: EUR
 price: 999
 comparePrice: 1506 EUR
 inStock: true
-prodname: Lenovo Yoga 920-13IKB - Ordenador portátil convertible de 13 9" FullHD  Intel Core I5-8250U  8GB RAM  256GB SSD  Windows 10  plata - Teclado QWERTY español
+prodname: 'Lenovo Yoga 920-13IKB - Ordenador portátil convertible de 13 9" FullHD  Intel Core I5-8250U  8GB RAM  256GB SSD  Windows 10  plata - Teclado QWERTY español'
 ---
 
 Está [Lenovo Yoga 920-13IKB - Ordenador portátil convertible de 13 9" FullHD  Intel Core I5-8250U  8GB RAM  256GB SSD  Windows 10  plata - Teclado QWERTY español](https://www.amazon.es/dp/B078RM2DVC/?tag=tolees-21) con 33.67 de descuento por 999 EUR (original: 1506 EUR) en el siguiente enlace!

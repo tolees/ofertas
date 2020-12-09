@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: AIJEESI Auriculares Bluetooth inalámbrico in-Ear Auricular Stereo Deportivos Auriculares con micrófono y Dispositivo de Carga para Android/y Otros Smartphone
+prodname: 'AIJEESI Auriculares Bluetooth inalámbrico in-Ear Auricular Stereo Deportivos Auriculares con micrófono y Dispositivo de Carga para Android/y Otros Smartphone'
 ---
 
 Tienes [AIJEESI Auriculares Bluetooth inalámbrico in-Ear Auricular Stereo Deportivos Auriculares con micrófono y Dispositivo de Carga para Android/y Otros Smartphone](https://www.amazon.es/dp/B07PV5TTH2/?tag=tolees-21) con un 62.87 % de descuento con precio de oferta de 25.99 EUR (original: 69.99 EUR) en el siguiente enlace!

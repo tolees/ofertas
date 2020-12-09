@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 18.5 EUR
 inStock: true
-prodname: Joma - Camiseta brama academy para hombre  Verde Fluor  3XS
+prodname: 'Joma - Camiseta brama academy para hombre  Verde Fluor  3XS'
 ---
 
 Ahora mismo tienes [Joma - Camiseta brama academy para hombre  Verde Fluor  3XS](https://www.amazon.es/dp/B01ES28XJA/?tag=tolees-21) a 9.95 EUR (original: 18.5 EUR) (46.22 %  de descuento) en el siguiente enlace!

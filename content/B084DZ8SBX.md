@@ -14,7 +14,7 @@ currency: EUR
 price: 38.49
 comparePrice: 69.28 EUR
 inStock: true
-prodname: KESOTO Fuente De Alimentación De Carga De La Batería De La Cámara NP-F para La Cámara BMPCC 4K Blackmagic
+prodname: 'KESOTO Fuente De Alimentación De Carga De La Batería De La Cámara NP-F para La Cámara BMPCC 4K Blackmagic'
 ---
 
 Está [KESOTO Fuente De Alimentación De Carga De La Batería De La Cámara NP-F para La Cámara BMPCC 4K Blackmagic](https://www.amazon.es/dp/B084DZ8SBX/?tag=tolees-21) con 44.44 de descuento por 38.49 EUR (original: 69.28 EUR) en el siguiente enlace!

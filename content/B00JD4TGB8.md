@@ -14,7 +14,7 @@ currency: EUR
 price: 144.58
 comparePrice: 199.95 EUR
 inStock: true
-prodname: TomTom Runner Cardio - Reloj GPS para running  color blanco/rojo  talla M
+prodname: 'TomTom Runner Cardio - Reloj GPS para running  color blanco/rojo  talla M'
 ---
 
 Está [TomTom Runner Cardio - Reloj GPS para running  color blanco/rojo  talla M](https://www.amazon.es/dp/B00JD4TGB8/?tag=tolees-21) con 27.69 de descuento por 144.58 EUR (original: 199.95 EUR) en el siguiente enlace!

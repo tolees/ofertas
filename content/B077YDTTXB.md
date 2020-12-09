@@ -14,7 +14,7 @@ currency: EUR
 price: 6.58
 comparePrice: 15.95 EUR
 inStock: true
-prodname: HIKARO AMA SHIPLEY camisetas  Rojo  Red   40  Talla del fabricante: Medium 
+prodname: 'HIKARO AMA SHIPLEY camisetas  Rojo  Red   40  Talla del fabricante: Medium '
 ---
 
 Está [HIKARO AMA SHIPLEY camisetas  Rojo  Red   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDTTXB/?tag=tolees-21) con 58.75 de descuento por 6.58 EUR (original: 15.95 EUR) en el siguiente enlace!

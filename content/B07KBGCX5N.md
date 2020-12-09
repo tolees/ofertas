@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Tommee Tippee Sangenic Sistema avanzado para desechar pañales Twist & Click  Rosa
+prodname: 'Tommee Tippee Sangenic Sistema avanzado para desechar pañales Twist & Click  Rosa'
 ---
 
 Está [Tommee Tippee Sangenic Sistema avanzado para desechar pañales Twist & Click  Rosa](https://www.amazon.es/dp/B07KBGCX5N/?tag=tolees-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 98.98
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Columbia Powder Lite  Chaqueta de longitud media  Mujer  Azul oscuro  Dark Nocturnal  Talla L
+prodname: 'Columbia Powder Lite  Chaqueta de longitud media  Mujer  Azul oscuro  Dark Nocturnal  Talla L'
 ---
 
 Está [Columbia Powder Lite  Chaqueta de longitud media  Mujer  Azul oscuro  Dark Nocturnal  Talla L](https://www.amazon.es/dp/B07RC8KJTN/?tag=tolees-21) con 34.01 de descuento por 98.98 EUR (original: 149.99 EUR) en el siguiente enlace!

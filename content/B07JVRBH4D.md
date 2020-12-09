@@ -14,7 +14,7 @@ currency: EUR
 price: 369.99
 comparePrice: 699.0 EUR
 inStock: true
-prodname: Apple Watch Series 4  GPS + Cellular  con caja de 40 mm de acero inoxidable en negro espacial y correa deportiva negra
+prodname: 'Apple Watch Series 4  GPS + Cellular  con caja de 40 mm de acero inoxidable en negro espacial y correa deportiva negra'
 ---
 
 Está [Apple Watch Series 4  GPS + Cellular  con caja de 40 mm de acero inoxidable en negro espacial y correa deportiva negra](https://www.amazon.es/dp/B07JVRBH4D/?tag=tolees-21) con 47.07 de descuento por 369.99 EUR (original: 699.0 EUR) en el siguiente enlace!

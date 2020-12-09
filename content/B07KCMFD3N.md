@@ -14,7 +14,7 @@ currency: EUR
 price: 15.12
 comparePrice: 37.5 EUR
 inStock: true
-prodname: David Jones - 5915-3  Bolsos de mano Mujer  Gris  Grey   13x26x33 cm  W x H L 
+prodname: 'David Jones - 5915-3  Bolsos de mano Mujer  Gris  Grey   13x26x33 cm  W x H L '
 ---
 
 Está [David Jones - 5915-3  Bolsos de mano Mujer  Gris  Grey   13x26x33 cm  W x H L ](https://www.amazon.es/dp/B07KCMFD3N/?tag=tolees-21) con 59.68 de descuento por 15.12 EUR (original: 37.5 EUR) en el siguiente enlace!

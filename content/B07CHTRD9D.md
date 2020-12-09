@@ -14,7 +14,7 @@ currency: EUR
 price: 108.99
 comparePrice: 327.05 EUR
 inStock: true
-prodname: BOSS Ustin  Chaqueta de Traje para Hombre  Azul  Dark Blue 404   52
+prodname: 'BOSS Ustin  Chaqueta de Traje para Hombre  Azul  Dark Blue 404   52'
 ---
 
 Ahora mismo tienes [BOSS Ustin  Chaqueta de Traje para Hombre  Azul  Dark Blue 404   52](https://www.amazon.es/dp/B07CHTRD9D/?tag=tolees-21) a 108.99 EUR (original: 327.05 EUR) (66.67 %  de descuento) en el siguiente enlace!

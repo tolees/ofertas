@@ -14,7 +14,7 @@ currency: EUR
 price: 10.98
 comparePrice: 29.95 EUR
 inStock: true
-prodname: adidas TASTIGO19 SHO Pantalones Cortos de Deporte  Hombre  White/Black  7-8Y
+prodname: 'adidas TASTIGO19 SHO Pantalones Cortos de Deporte  Hombre  White/Black  7-8Y'
 ---
 
 Está [adidas TASTIGO19 SHO Pantalones Cortos de Deporte  Hombre  White/Black  7-8Y](https://www.amazon.es/dp/B07K1QW4NF/?tag=tolees-21) con 63.34 de descuento por 10.98 EUR (original: 29.95 EUR) en el siguiente enlace!

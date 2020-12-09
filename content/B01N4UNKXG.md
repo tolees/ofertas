@@ -14,7 +14,7 @@ currency: EUR
 price: 32.63
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Cortefiel 1579711  Mono Para Mujer  Multicolor  Several   Medium
+prodname: 'Cortefiel 1579711  Mono Para Mujer  Multicolor  Several   Medium'
 ---
 
 Tienes [Cortefiel 1579711  Mono Para Mujer  Multicolor  Several   Medium](https://www.amazon.es/dp/B01N4UNKXG/?tag=tolees-21) con un 53.38 % de descuento con precio de oferta de 32.63 EUR (original: 69.99 EUR) en el siguiente enlace!

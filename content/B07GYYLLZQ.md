@@ -14,7 +14,7 @@ currency: EUR
 price: 239
 comparePrice: 399 EUR
 inStock: true
-prodname: Porsche Design Shyrt 2.0 Nylon Mochila 14? Azul Oscuro
+prodname: 'Porsche Design Shyrt 2.0 Nylon Mochila 14? Azul Oscuro'
 ---
 
 Tienes [Porsche Design Shyrt 2.0 Nylon Mochila 14? Azul Oscuro](https://www.amazon.es/dp/B07GYYLLZQ/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 239 EUR (original: 399 EUR) en el siguiente enlace!

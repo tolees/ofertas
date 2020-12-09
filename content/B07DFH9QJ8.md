@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 39.95 EUR
 inStock: true
-prodname: adidas Real BP Mochila  Unisex Adultos  S
+prodname: 'adidas Real BP Mochila  Unisex Adultos  S'
 ---
 
 Tienes [adidas Real BP Mochila  Unisex Adultos  S](https://www.amazon.es/dp/B07DFH9QJ8/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 19.95 EUR (original: 39.95 EUR) en el siguiente enlace!

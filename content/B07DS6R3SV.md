@@ -14,7 +14,7 @@ currency: EUR
 price: 15.4
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Reebok Workout Ready Knitted Pantalón Corto  Hombre  Gris  Dark Grey Heather   S
+prodname: 'Reebok Workout Ready Knitted Pantalón Corto  Hombre  Gris  Dark Grey Heather   S'
 ---
 
 Ahora mismo tienes [Reebok Workout Ready Knitted Pantalón Corto  Hombre  Gris  Dark Grey Heather   S](https://www.amazon.es/dp/B07DS6R3SV/?tag=tolees-21) a 15.4 EUR (original: 29.99 EUR) (48.65 %  de descuento) en el siguiente enlace!

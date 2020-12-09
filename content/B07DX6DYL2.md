@@ -14,7 +14,7 @@ currency: EUR
 price: 65.52
 comparePrice: 160 EUR
 inStock: true
-prodname: Helly Hansen Fremont  Botas Slouch para Hombre   Azul Navy 597   46.5 EU
+prodname: 'Helly Hansen Fremont  Botas Slouch para Hombre   Azul Navy 597   46.5 EU'
 ---
 
 Está [Helly Hansen Fremont  Botas Slouch para Hombre   Azul Navy 597   46.5 EU](https://www.amazon.es/dp/B07DX6DYL2/?tag=tolees-21) con 59.05 de descuento por 65.52 EUR (original: 160 EUR) en el siguiente enlace!

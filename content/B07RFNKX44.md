@@ -14,7 +14,7 @@ currency: EUR
 price: 54.95
 comparePrice: 109.99 EUR
 inStock: true
-prodname: Columbia Vitesse  Zapatillas de Deporte  para Mujer  Black  Pure Silver  36 EU
+prodname: 'Columbia Vitesse  Zapatillas de Deporte  para Mujer  Black  Pure Silver  36 EU'
 ---
 
 Tienes [Columbia Vitesse  Zapatillas de Deporte  para Mujer  Black  Pure Silver  36 EU](https://www.amazon.es/dp/B07RFNKX44/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 54.95 EUR (original: 109.99 EUR) en el siguiente enlace!

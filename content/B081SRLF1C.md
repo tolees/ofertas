@@ -14,7 +14,7 @@ currency: EUR
 price: 4.79
 comparePrice: 10.39 EUR
 inStock: true
-prodname: Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce Volante Camiseta Manga Larga Tops Blusa Luckycat  Armada  Pequeña 
+prodname: 'Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce Volante Camiseta Manga Larga Tops Blusa Luckycat  Armada  Pequeña '
 ---
 
 Está [Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce Volante Camiseta Manga Larga Tops Blusa Luckycat  Armada  Pequeña ](https://www.amazon.es/dp/B081SRLF1C/?tag=tolees-21) con 53.90 de descuento por 4.79 EUR (original: 10.39 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.5
 comparePrice: 135.71 EUR
 inStock: true
-prodname: Kronus Unisex konuslight-9 6 Piezas Linterna con Cabeza Ajustable  Color Negro/Rojo  Talla única
+prodname: 'Kronus Unisex konuslight-9 6 Piezas Linterna con Cabeza Ajustable  Color Negro/Rojo  Talla única'
 ---
 
 Ahora mismo tienes [Kronus Unisex konuslight-9 6 Piezas Linterna con Cabeza Ajustable  Color Negro/Rojo  Talla única](https://www.amazon.es/dp/B06ZZLSYTY/?tag=tolees-21) a 25.5 EUR (original: 135.71 EUR) (81.21 %  de descuento) en el siguiente enlace!

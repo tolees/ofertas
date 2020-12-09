@@ -14,7 +14,7 @@ currency: EUR
 price: 35.95
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Luke Vaqueros Tapered  Negro  Black Worn TV   W31/L34  Talla del Fabricante: Taglia Produttore 34/31  para Hombre
+prodname: 'Lee Luke Vaqueros Tapered  Negro  Black Worn TV   W31/L34  Talla del Fabricante: Taglia Produttore 34/31  para Hombre'
 ---
 
 Está [Lee Luke Vaqueros Tapered  Negro  Black Worn TV   W31/L34  Talla del Fabricante: Taglia Produttore 34/31  para Hombre](https://www.amazon.es/dp/B07FK42ZDJ/?tag=tolees-21) con 60.03 de descuento por 35.95 EUR (original: 89.95 EUR) en el siguiente enlace!

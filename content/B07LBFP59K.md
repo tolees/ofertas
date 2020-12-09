@@ -14,7 +14,7 @@ currency: EUR
 price: 40.87
 comparePrice: 97.2 EUR
 inStock: true
-prodname: Love Moschino Sabotd. Capri15 Nastro  Sandalias con Punta Abierta para Mujer  Blanco  Bianco/Verde 10a   35 EU
+prodname: 'Love Moschino Sabotd. Capri15 Nastro  Sandalias con Punta Abierta para Mujer  Blanco  Bianco/Verde 10a   35 EU'
 ---
 
 Ahora mismo tienes [Love Moschino Sabotd. Capri15 Nastro  Sandalias con Punta Abierta para Mujer  Blanco  Bianco/Verde 10a   35 EU](https://www.amazon.es/dp/B07LBFP59K/?tag=tolees-21) a 40.87 EUR (original: 97.2 EUR) (57.95 %  de descuento) en el siguiente enlace!

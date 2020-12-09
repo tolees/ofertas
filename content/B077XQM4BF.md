@@ -14,7 +14,7 @@ currency: EUR
 price: 15.28
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Under Armour Armour Fleece Jogger Pantalones  Hombre  Azul  Academy/Black 408   XXL
+prodname: 'Under Armour Armour Fleece Jogger Pantalones  Hombre  Azul  Academy/Black 408   XXL'
 ---
 
 Está [Under Armour Armour Fleece Jogger Pantalones  Hombre  Azul  Academy/Black 408   XXL](https://www.amazon.es/dp/B077XQM4BF/?tag=tolees-21) con 74.53 de descuento por 15.28 EUR (original: 59.99 EUR) en el siguiente enlace!

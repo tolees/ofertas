@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 77.15 EUR
 inStock: true
-prodname: Disco Duro Externo 1 TB  Type C USB3.1 Portable HDD para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook.  1TB Azul 
+prodname: 'Disco Duro Externo 1 TB  Type C USB3.1 Portable HDD para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook.  1TB Azul '
 ---
 
 Ahora mismo tienes [Disco Duro Externo 1 TB  Type C USB3.1 Portable HDD para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook.  1TB Azul ](https://www.amazon.es/dp/B08KT16XPW/?tag=tolees-21) a 47.99 EUR (original: 77.15 EUR) (37.80 %  de descuento) en el siguiente enlace!

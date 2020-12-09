@@ -14,7 +14,7 @@ currency: EUR
 price: 38.5
 comparePrice: 110 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Stojko Stretch 2416   28W / 32L
+prodname: 'Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Stojko Stretch 2416   28W / 32L'
 ---
 
 Está [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Stojko Stretch 2416   28W / 32L](https://www.amazon.es/dp/B072FVGBKQ/?tag=tolees-21) con 65.00 de descuento por 38.5 EUR (original: 110 EUR) en el siguiente enlace!

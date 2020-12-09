@@ -14,7 +14,7 @@ currency: EUR
 price: 31.84
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Backpedal  Zapatillas Casual para Hombre  Negro  Shark  Mountain Red   41 EU
+prodname: 'Columbia Backpedal  Zapatillas Casual para Hombre  Negro  Shark  Mountain Red   41 EU'
 ---
 
 Está [Columbia Backpedal  Zapatillas Casual para Hombre  Negro  Shark  Mountain Red   41 EU](https://www.amazon.es/dp/B07FGCHL7B/?tag=tolees-21) con 64.62 de descuento por 31.84 EUR (original: 89.99 EUR) en el siguiente enlace!

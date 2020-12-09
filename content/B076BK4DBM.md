@@ -14,7 +14,7 @@ currency: EUR
 price: 5.0
 comparePrice: 18.9 EUR
 inStock: true
-prodname: Moleskine DPE18WN2Y19 - Libreta semanal 18m de edición limitada Peanuts de bolsillo  color verde  AGENDA 18 MOIS EDT LIMITEE 
+prodname: 'Moleskine DPE18WN2Y19 - Libreta semanal 18m de edición limitada Peanuts de bolsillo  color verde  AGENDA 18 MOIS EDT LIMITEE '
 ---
 
 Está [Moleskine DPE18WN2Y19 - Libreta semanal 18m de edición limitada Peanuts de bolsillo  color verde  AGENDA 18 MOIS EDT LIMITEE ](https://www.amazon.es/dp/B076BK4DBM/?tag=tolees-21) con 73.54 de descuento por 5.0 EUR (original: 18.9 EUR) en el siguiente enlace!

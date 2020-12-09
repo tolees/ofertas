@@ -14,7 +14,7 @@ currency: EUR
 price: 12.5
 comparePrice: 19.95 EUR
 inStock: true
-prodname: ZD Paños de Cocina RIZO 100% Algodón Multicolor Rayas Con Dibujo Bordado Pack 12 Toallas de Cocina
+prodname: 'ZD Paños de Cocina RIZO 100% Algodón Multicolor Rayas Con Dibujo Bordado Pack 12 Toallas de Cocina'
 ---
 
 Tienes [ZD Paños de Cocina RIZO 100% Algodón Multicolor Rayas Con Dibujo Bordado Pack 12 Toallas de Cocina](https://www.amazon.es/dp/B07DNF7LGZ/?tag=tolees-21) con un 37.34 % de descuento con precio de oferta de 12.5 EUR (original: 19.95 EUR) en el siguiente enlace!

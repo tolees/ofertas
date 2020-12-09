@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 160 EUR
 inStock: true
-prodname: DAKINE de Split Roller ecuación 100L bolsa de viaje  negro  79 x 44 x 32 cm
+prodname: 'DAKINE de Split Roller ecuación 100L bolsa de viaje  negro  79 x 44 x 32 cm'
 ---
 
 Ahora mismo tienes [DAKINE de Split Roller ecuación 100L bolsa de viaje  negro  79 x 44 x 32 cm](https://www.amazon.es/dp/B01MZ6IER5/?tag=tolees-21) a 39.95 EUR (original: 160 EUR) (75.03 %  de descuento) en el siguiente enlace!

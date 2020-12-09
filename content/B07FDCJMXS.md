@@ -14,7 +14,7 @@ currency: EUR
 price: 30.86
 comparePrice: 155 EUR
 inStock: true
-prodname: Guess Tamara  Botas Altas para Mujer  Negro Black  39 EU
+prodname: 'Guess Tamara  Botas Altas para Mujer  Negro Black  39 EU'
 ---
 
 Tienes [Guess Tamara  Botas Altas para Mujer  Negro Black  39 EU](https://www.amazon.es/dp/B07FDCJMXS/?tag=tolees-21) con un 80.09 % de descuento con precio de oferta de 30.86 EUR (original: 155 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.38
 comparePrice: 9.39 EUR
 inStock: true
-prodname: Bolero Bebida Instantánea sin Azúcar  Sabor Guaraná - Paquete de 24 x 9 gr - Total: 216 gr
+prodname: 'Bolero Bebida Instantánea sin Azúcar  Sabor Guaraná - Paquete de 24 x 9 gr - Total: 216 gr'
 ---
 
 Tienes [Bolero Bebida Instantánea sin Azúcar  Sabor Guaraná - Paquete de 24 x 9 gr - Total: 216 gr](https://www.amazon.es/dp/B00LSS0ZDU/?tag=tolees-21) con un 32.06 % de descuento con precio de oferta de 6.38 EUR (original: 9.39 EUR) en el siguiente enlace!

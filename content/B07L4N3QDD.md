@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Esponja Maquillaje Microfibra Velvet Sponge  Latex-Free  Tecnología De Doble Capa  Difuminado Perfecto De Maquillaje Para Bases  Polvo y Cremas
+prodname: 'Esponja Maquillaje Microfibra Velvet Sponge  Latex-Free  Tecnología De Doble Capa  Difuminado Perfecto De Maquillaje Para Bases  Polvo y Cremas'
 ---
 
 Ahora mismo tienes [Esponja Maquillaje Microfibra Velvet Sponge  Latex-Free  Tecnología De Doble Capa  Difuminado Perfecto De Maquillaje Para Bases  Polvo y Cremas](https://www.amazon.es/dp/B07L4N3QDD/?tag=tolees-21) a 5.99 EUR (original: 14.99 EUR) (60.04 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 129.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: HUAWEI Watch GT 2 - Smartwatch con Caja de 42 mm  hasta 1 Semana de Batería  Pantalla táctil AMOLED 1.2"  GPS  15 Modos Deportivos  Pantalla 3D de Cristal  monitorización cardíaca  Blanco
+prodname: 'HUAWEI Watch GT 2 - Smartwatch con Caja de 42 mm  hasta 1 Semana de Batería  Pantalla táctil AMOLED 1.2"  GPS  15 Modos Deportivos  Pantalla 3D de Cristal  monitorización cardíaca  Blanco'
 ---
 
 Tienes [HUAWEI Watch GT 2 - Smartwatch con Caja de 42 mm  hasta 1 Semana de Batería  Pantalla táctil AMOLED 1.2"  GPS  15 Modos Deportivos  Pantalla 3D de Cristal  monitorización cardíaca  Blanco](https://www.amazon.es/dp/B086D1NBJG/?tag=tolees-21) con un 35.18 % de descuento con precio de oferta de 129.0 EUR (original: 199.0 EUR) en el siguiente enlace!

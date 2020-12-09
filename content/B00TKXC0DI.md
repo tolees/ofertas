@@ -14,7 +14,7 @@ currency: EUR
 price: 44.95
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Theo Klein 8574 Banco de trabajo de 77 piezas  Con destornillador  llave inglesa  alicates  martillo  Medidas 57 cm x 35 cm x 86 cm  Juguete para niños a partir de 3 años
+prodname: 'Theo Klein 8574 Banco de trabajo de 77 piezas  Con destornillador  llave inglesa  alicates  martillo  Medidas 57 cm x 35 cm x 86 cm  Juguete para niños a partir de 3 años'
 ---
 
 Ahora mismo tienes [Theo Klein 8574 Banco de trabajo de 77 piezas  Con destornillador  llave inglesa  alicates  martillo  Medidas 57 cm x 35 cm x 86 cm  Juguete para niños a partir de 3 años](https://www.amazon.es/dp/B00TKXC0DI/?tag=tolees-21) a 44.95 EUR (original: 70.0 EUR) (35.79 %  de descuento) en el siguiente enlace!

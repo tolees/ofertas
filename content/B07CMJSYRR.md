@@ -14,7 +14,7 @@ currency: EUR
 price: 329.0
 comparePrice: 699.0 EUR
 inStock: true
-prodname: Huawei P20 Pro – Smartphone de 6 1"  Kirin 970 AI  6G de RAM  128 GB de memoria interna  Triple Cámara Leica  Android  8.1  Single Sim  Color Azul [Versión española]
+prodname: 'Huawei P20 Pro – Smartphone de 6 1"  Kirin 970 AI  6G de RAM  128 GB de memoria interna  Triple Cámara Leica  Android  8.1  Single Sim  Color Azul [Versión española]'
 ---
 
 Ahora mismo tienes [Huawei P20 Pro – Smartphone de 6 1"  Kirin 970 AI  6G de RAM  128 GB de memoria interna  Triple Cámara Leica  Android  8.1  Single Sim  Color Azul [Versión española]](https://www.amazon.es/dp/B07CMJSYRR/?tag=tolees-21) a 329.0 EUR (original: 699.0 EUR) (52.93 %  de descuento) en el siguiente enlace!

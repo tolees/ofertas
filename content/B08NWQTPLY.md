@@ -14,7 +14,7 @@ currency: EUR
 price: 24.19
 comparePrice: 36.38 EUR
 inStock: true
-prodname: JIAJU Maquinilla de Afeitar eléctrica para el hogar Maquinilla de Afeitar de Alta Potencia Cómoda tecnología de Chapa Excelente maquinilla de Afeitar Impermeable - Negro
+prodname: 'JIAJU Maquinilla de Afeitar eléctrica para el hogar Maquinilla de Afeitar de Alta Potencia Cómoda tecnología de Chapa Excelente maquinilla de Afeitar Impermeable - Negro'
 ---
 
 Está [JIAJU Maquinilla de Afeitar eléctrica para el hogar Maquinilla de Afeitar de Alta Potencia Cómoda tecnología de Chapa Excelente maquinilla de Afeitar Impermeable - Negro](https://www.amazon.es/dp/B08NWQTPLY/?tag=tolees-21) con 33.51 de descuento por 24.19 EUR (original: 36.38 EUR) en el siguiente enlace!

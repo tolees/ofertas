@@ -14,7 +14,7 @@ currency: EUR
 price: 24.32
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Puma Smash Sd  Zapatillas Unisex Adulto  Azul  Blue Depths/White   38 EU
+prodname: 'Puma Smash Sd  Zapatillas Unisex Adulto  Azul  Blue Depths/White   38 EU'
 ---
 
 Está [Puma Smash Sd  Zapatillas Unisex Adulto  Azul  Blue Depths/White   38 EU](https://www.amazon.es/dp/B072J6DKCG/?tag=tolees-21) con 55.74 de descuento por 24.32 EUR (original: 54.95 EUR) en el siguiente enlace!

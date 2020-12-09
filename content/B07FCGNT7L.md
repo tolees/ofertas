@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Alicate Pelacables Automático Profesional Multifuncional Automático de Alambre Cable Crimpadora Autoajustable Pelacables Alicates de Corte Herramienta de Terminal AWG 24-10  0 2~6 0 mm² 
+prodname: 'Alicate Pelacables Automático Profesional Multifuncional Automático de Alambre Cable Crimpadora Autoajustable Pelacables Alicates de Corte Herramienta de Terminal AWG 24-10  0 2~6 0 mm² '
 ---
 
 Tienes [Alicate Pelacables Automático Profesional Multifuncional Automático de Alambre Cable Crimpadora Autoajustable Pelacables Alicates de Corte Herramienta de Terminal AWG 24-10  0 2~6 0 mm² ](https://www.amazon.es/dp/B07FCGNT7L/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

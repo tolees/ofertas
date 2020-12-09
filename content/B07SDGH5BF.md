@@ -14,7 +14,7 @@ currency: EUR
 price: 8.69
 comparePrice: 14.49 EUR
 inStock: true
-prodname: Marca Amazon - Happy Belly Select - Bolsitas de té de hierbas selecto con limón y jengibre  4x15 pirámides
+prodname: 'Marca Amazon - Happy Belly Select - Bolsitas de té de hierbas selecto con limón y jengibre  4x15 pirámides'
 ---
 
 Está [Marca Amazon - Happy Belly Select - Bolsitas de té de hierbas selecto con limón y jengibre  4x15 pirámides](https://www.amazon.es/dp/B07SDGH5BF/?tag=tolees-21) con 40.03 de descuento por 8.69 EUR (original: 14.49 EUR) en el siguiente enlace!

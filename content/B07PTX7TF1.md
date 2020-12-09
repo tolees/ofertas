@@ -14,7 +14,7 @@ currency: EUR
 price: 6.79
 comparePrice: 10.99 EUR
 inStock: true
-prodname: nonda Adaptador USB C a USB 3.0  USB Tipo-C a USB  Adaptador Thunderbolt 3 a USB hembra para MacBook Pro 2019/2018/2017  MacBook Air 2018  Surface Go y más dispositivos tipo C
+prodname: 'nonda Adaptador USB C a USB 3.0  USB Tipo-C a USB  Adaptador Thunderbolt 3 a USB hembra para MacBook Pro 2019/2018/2017  MacBook Air 2018  Surface Go y más dispositivos tipo C'
 ---
 
 Ahora mismo tienes [nonda Adaptador USB C a USB 3.0  USB Tipo-C a USB  Adaptador Thunderbolt 3 a USB hembra para MacBook Pro 2019/2018/2017  MacBook Air 2018  Surface Go y más dispositivos tipo C](https://www.amazon.es/dp/B07PTX7TF1/?tag=tolees-21) a 6.79 EUR (original: 10.99 EUR) (38.22 %  de descuento) en el siguiente enlace!

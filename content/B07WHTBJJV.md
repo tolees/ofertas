@@ -14,7 +14,7 @@ currency: EUR
 price: 48.99
 comparePrice: 67.26 EUR
 inStock: true
-prodname: Bresser 7002533 - Pluviómetro  Color Madera
+prodname: 'Bresser 7002533 - Pluviómetro  Color Madera'
 ---
 
 Está [Bresser 7002533 - Pluviómetro  Color Madera](https://www.amazon.es/dp/B07WHTBJJV/?tag=tolees-21) con 27.16 de descuento por 48.99 EUR (original: 67.26 EUR) en el siguiente enlace!

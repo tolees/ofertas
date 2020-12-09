@@ -14,7 +14,7 @@ currency: EUR
 price: 21.94
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Puma One 17.4 IT  Zapatillas de Fútbol para Hombre  Blanco  White-Black-Fiery Coral   44.5 EU
+prodname: 'Puma One 17.4 IT  Zapatillas de Fútbol para Hombre  Blanco  White-Black-Fiery Coral   44.5 EU'
 ---
 
 Está [Puma One 17.4 IT  Zapatillas de Fútbol para Hombre  Blanco  White-Black-Fiery Coral   44.5 EU](https://www.amazon.es/dp/B071HNWB4W/?tag=tolees-21) con 56.08 de descuento por 21.94 EUR (original: 49.95 EUR) en el siguiente enlace!

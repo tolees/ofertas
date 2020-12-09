@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 65.99 EUR
 inStock: true
-prodname: DC Shoes Star - Sudadera con Capucha Y Cremallera para Hombre Sudadera con Capucha Y Cremallera  Hombre  Heather Grey  M
+prodname: 'DC Shoes Star - Sudadera con Capucha Y Cremallera para Hombre Sudadera con Capucha Y Cremallera  Hombre  Heather Grey  M'
 ---
 
 Tienes [DC Shoes Star - Sudadera con Capucha Y Cremallera para Hombre Sudadera con Capucha Y Cremallera  Hombre  Heather Grey  M](https://www.amazon.es/dp/B0895LCBXZ/?tag=tolees-21) con un 60.62 % de descuento con precio de oferta de 25.99 EUR (original: 65.99 EUR) en el siguiente enlace!

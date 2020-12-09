@@ -14,7 +14,7 @@ currency: EUR
 price: 82.6
 comparePrice: 118.0 EUR
 inStock: true
-prodname: TOUS Capazo Brunock Chain de Lona en color marino
+prodname: 'TOUS Capazo Brunock Chain de Lona en color marino'
 ---
 
 Tienes [TOUS Capazo Brunock Chain de Lona en color marino](https://www.amazon.es/dp/B07DDKLZ27/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 82.6 EUR (original: 118.0 EUR) en el siguiente enlace!

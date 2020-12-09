@@ -14,7 +14,7 @@ currency: EUR
 price: 92.0
 comparePrice: 129.0 EUR
 inStock: true
-prodname: JBL Flip 5 - Altavoz inalámbrico portátil con Bluetooth  speaker resistente al agua  IPX7   JBL PartyBoost  hasta 12h de reproducción con sonido de calidad  gris
+prodname: 'JBL Flip 5 - Altavoz inalámbrico portátil con Bluetooth  speaker resistente al agua  IPX7   JBL PartyBoost  hasta 12h de reproducción con sonido de calidad  gris'
 ---
 
 Está [JBL Flip 5 - Altavoz inalámbrico portátil con Bluetooth  speaker resistente al agua  IPX7   JBL PartyBoost  hasta 12h de reproducción con sonido de calidad  gris](https://www.amazon.es/dp/B07SRBG4YM/?tag=tolees-21) con 28.68 de descuento por 92.0 EUR (original: 129.0 EUR) en el siguiente enlace!

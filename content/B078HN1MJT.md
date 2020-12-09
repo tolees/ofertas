@@ -14,7 +14,7 @@ currency: EUR
 price: 73.09
 comparePrice: 115 EUR
 inStock: true
-prodname: Trussardi Jeans Running  Zapatillas de Gimnasia para Hombre  Azul  BLU  Blue/Bordeaux  7779   U602   45 EU
+prodname: 'Trussardi Jeans Running  Zapatillas de Gimnasia para Hombre  Azul  BLU  Blue/Bordeaux  7779   U602   45 EU'
 ---
 
 Ahora mismo tienes [Trussardi Jeans Running  Zapatillas de Gimnasia para Hombre  Azul  BLU  Blue/Bordeaux  7779   U602   45 EU](https://www.amazon.es/dp/B078HN1MJT/?tag=tolees-21) a 73.09 EUR (original: 115 EUR) (36.44 %  de descuento) en el siguiente enlace!

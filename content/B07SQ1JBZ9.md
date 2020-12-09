@@ -14,7 +14,7 @@ currency: EUR
 price: 25.49
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Monster Jam Estadio Arena  BIZAK 61925878 
+prodname: 'Monster Jam Estadio Arena  BIZAK 61925878 '
 ---
 
 Tienes [Monster Jam Estadio Arena  BIZAK 61925878 ](https://www.amazon.es/dp/B07SQ1JBZ9/?tag=tolees-21) con un 43.34 % de descuento con precio de oferta de 25.49 EUR (original: 44.99 EUR) en el siguiente enlace!

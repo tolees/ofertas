@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Triple Canyon Pantalón de Senderismo para Hombre  Verde  Stone Green   W34/L30
+prodname: 'Columbia Triple Canyon Pantalón de Senderismo para Hombre  Verde  Stone Green   W34/L30'
 ---
 
 Está [Columbia Triple Canyon Pantalón de Senderismo para Hombre  Verde  Stone Green   W34/L30](https://www.amazon.es/dp/B087RCMG5K/?tag=tolees-21) con 58.90 de descuento por 36.99 EUR (original: 89.99 EUR) en el siguiente enlace!

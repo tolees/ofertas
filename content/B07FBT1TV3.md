@@ -14,7 +14,7 @@ currency: EUR
 price: 41.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Skechers Flex Appeal 3.0-First Insight  Zapatillas Mujer  Negro  BKRG Black Mesh/Trim   39 EU
+prodname: 'Skechers Flex Appeal 3.0-First Insight  Zapatillas Mujer  Negro  BKRG Black Mesh/Trim   39 EU'
 ---
 
 Está [Skechers Flex Appeal 3.0-First Insight  Zapatillas Mujer  Negro  BKRG Black Mesh/Trim   39 EU](https://www.amazon.es/dp/B07FBT1TV3/?tag=tolees-21) con 30.03 de descuento por 41.95 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 31.58
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Puma Evotouch 3 LTH AG  Botas de fútbol para Hombre  Blanco White-True Blue Danube 01  42 EU
+prodname: 'Puma Evotouch 3 LTH AG  Botas de fútbol para Hombre  Blanco White-True Blue Danube 01  42 EU'
 ---
 
 Está [Puma Evotouch 3 LTH AG  Botas de fútbol para Hombre  Blanco White-True Blue Danube 01  42 EU](https://www.amazon.es/dp/B01MSIHR58/?tag=tolees-21) con 54.85 de descuento por 31.58 EUR (original: 69.95 EUR) en el siguiente enlace!

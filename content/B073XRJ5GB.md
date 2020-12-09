@@ -14,7 +14,7 @@ currency: EUR
 price: 8.34
 comparePrice: 22 EUR
 inStock: true
-prodname: Diesel Umbr-Andre SS 2018  Slip para Hombre  Azul/Gris Medium
+prodname: 'Diesel Umbr-Andre SS 2018  Slip para Hombre  Azul/Gris Medium'
 ---
 
 Ahora mismo tienes [Diesel Umbr-Andre SS 2018  Slip para Hombre  Azul/Gris Medium](https://www.amazon.es/dp/B073XRJ5GB/?tag=tolees-21) a 8.34 EUR (original: 22 EUR) (62.09 %  de descuento) en el siguiente enlace!

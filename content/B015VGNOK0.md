@@ -14,7 +14,7 @@ currency: EUR
 price: 8.85
 comparePrice: 16.95 EUR
 inStock: true
-prodname: Miles del Futuro Mochila Preescolar  Color Naranja  6.44 litros
+prodname: 'Miles del Futuro Mochila Preescolar  Color Naranja  6.44 litros'
 ---
 
 Ahora mismo tienes [Miles del Futuro Mochila Preescolar  Color Naranja  6.44 litros](https://www.amazon.es/dp/B015VGNOK0/?tag=tolees-21) a 8.85 EUR (original: 16.95 EUR) (47.79 %  de descuento) en el siguiente enlace!

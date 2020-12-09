@@ -14,7 +14,7 @@ currency: EUR
 price: 76.64
 comparePrice: 119.95 EUR
 inStock: true
-prodname: Einhell TH-AC 190/6 OF - Compresor de aire  8 bar  depósito 6 l  aspiración 185 l /min  1100 W  230 V  color rojo y negro
+prodname: 'Einhell TH-AC 190/6 OF - Compresor de aire  8 bar  depósito 6 l  aspiración 185 l /min  1100 W  230 V  color rojo y negro'
 ---
 
 Tienes [Einhell TH-AC 190/6 OF - Compresor de aire  8 bar  depósito 6 l  aspiración 185 l /min  1100 W  230 V  color rojo y negro](https://www.amazon.es/dp/B00K1BY3TW/?tag=tolees-21) con un 36.11 % de descuento con precio de oferta de 76.64 EUR (original: 119.95 EUR) en el siguiente enlace!

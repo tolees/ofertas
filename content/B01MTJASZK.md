@@ -14,7 +14,7 @@ currency: EUR
 price: 79
 comparePrice: 159 EUR
 inStock: true
-prodname: LG FH2 - Altavoz inalámbrico Mini Trolley  Bluetooth  50 W  15 horas autonomía  Color negro
+prodname: 'LG FH2 - Altavoz inalámbrico Mini Trolley  Bluetooth  50 W  15 horas autonomía  Color negro'
 ---
 
 Ahora mismo tienes [LG FH2 - Altavoz inalámbrico Mini Trolley  Bluetooth  50 W  15 horas autonomía  Color negro](https://www.amazon.es/dp/B01MTJASZK/?tag=tolees-21) a 79 EUR (original: 159 EUR) (50.31 %  de descuento) en el siguiente enlace!

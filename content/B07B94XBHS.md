@@ -14,7 +14,7 @@ currency: EUR
 price: 3.0
 comparePrice: 4.0 EUR
 inStock: true
-prodname: La Casa de los Aromas  Aceite Esencial Aroma Rosas para Humidificador o Difusor de Aroma …
+prodname: 'La Casa de los Aromas  Aceite Esencial Aroma Rosas para Humidificador o Difusor de Aroma …'
 ---
 
 Tienes [La Casa de los Aromas  Aceite Esencial Aroma Rosas para Humidificador o Difusor de Aroma …](https://www.amazon.es/dp/B07B94XBHS/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 3.0 EUR (original: 4.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 26.7
 comparePrice: 70 EUR
 inStock: true
-prodname: Burton Brighton Camisetas  Hombre  Tandori Tunnel Plaid  S
+prodname: 'Burton Brighton Camisetas  Hombre  Tandori Tunnel Plaid  S'
 ---
 
 Está [Burton Brighton Camisetas  Hombre  Tandori Tunnel Plaid  S](https://www.amazon.es/dp/B07KGPPZW8/?tag=tolees-21) con 61.86 de descuento por 26.7 EUR (original: 70 EUR) en el siguiente enlace!

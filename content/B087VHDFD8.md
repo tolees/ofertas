@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Columbia Fast Trek II Forro Polar con Cremallera  Hombre  Azul  Bluestone  Collegiate Navy   M
+prodname: 'Columbia Fast Trek II Forro Polar con Cremallera  Hombre  Azul  Bluestone  Collegiate Navy   M'
 ---
 
 Está [Columbia Fast Trek II Forro Polar con Cremallera  Hombre  Azul  Bluestone  Collegiate Navy   M](https://www.amazon.es/dp/B087VHDFD8/?tag=tolees-21) con 44.01 de descuento por 27.99 EUR (original: 49.99 EUR) en el siguiente enlace!

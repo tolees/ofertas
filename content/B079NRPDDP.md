@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Caja de Luz LED Regulable SIKIWIND A4 Tableros de Dibujo de Seguimiento Ultradelgada con Cable de Alimentación USB para 5D Pintura de Diamante DIY - Dibujo de Artistas y Animación etc Azul 
+prodname: 'Caja de Luz LED Regulable SIKIWIND A4 Tableros de Dibujo de Seguimiento Ultradelgada con Cable de Alimentación USB para 5D Pintura de Diamante DIY - Dibujo de Artistas y Animación etc Azul '
 ---
 
 Tienes [Caja de Luz LED Regulable SIKIWIND A4 Tableros de Dibujo de Seguimiento Ultradelgada con Cable de Alimentación USB para 5D Pintura de Diamante DIY - Dibujo de Artistas y Animación etc Azul ](https://www.amazon.es/dp/B079NRPDDP/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

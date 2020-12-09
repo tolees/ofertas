@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 27.95 EUR
 inStock: true
-prodname: Kappa Trooper Light Ice  Zapatillas para Niñas  Azul  Navy/Pink 6722   26 EU
+prodname: 'Kappa Trooper Light Ice  Zapatillas para Niñas  Azul  Navy/Pink 6722   26 EU'
 ---
 
 Está [Kappa Trooper Light Ice  Zapatillas para Niñas  Azul  Navy/Pink 6722   26 EU](https://www.amazon.es/dp/B07D4T9FGQ/?tag=tolees-21) con 32.20 de descuento por 18.95 EUR (original: 27.95 EUR) en el siguiente enlace!

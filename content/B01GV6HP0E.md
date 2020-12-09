@@ -14,7 +14,7 @@ currency: EUR
 price: 84.89
 comparePrice: 115.0 EUR
 inStock: true
-prodname: Logitech K780 Teclado Inalámbrico Multi-Dispositivos para Windows  Apple  Android o Chrome  2 4 GHz y Bluetooth  Tamaño Normal  PC/Mac/Portátil/Smartphone/Tablet  Disposición QWERTY UK  Color Negro
+prodname: 'Logitech K780 Teclado Inalámbrico Multi-Dispositivos para Windows  Apple  Android o Chrome  2 4 GHz y Bluetooth  Tamaño Normal  PC/Mac/Portátil/Smartphone/Tablet  Disposición QWERTY UK  Color Negro'
 ---
 
 Está [Logitech K780 Teclado Inalámbrico Multi-Dispositivos para Windows  Apple  Android o Chrome  2 4 GHz y Bluetooth  Tamaño Normal  PC/Mac/Portátil/Smartphone/Tablet  Disposición QWERTY UK  Color Negro](https://www.amazon.es/dp/B01GV6HP0E/?tag=tolees-21) con 26.18 de descuento por 84.89 EUR (original: 115.0 EUR) en el siguiente enlace!

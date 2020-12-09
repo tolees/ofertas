@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 6.95 EUR
 inStock: true
-prodname: Slender Man [DVD]
+prodname: 'Slender Man [DVD]'
 ---
 
 Tienes [Slender Man [DVD]](https://www.amazon.es/dp/B07K7MS5SD/?tag=tolees-21) con un 28.20 % de descuento con precio de oferta de 4.99 EUR (original: 6.95 EUR) en el siguiente enlace!

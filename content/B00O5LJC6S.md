@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Only Onlroyal High Sk Jeans Pim600 Noos  Jeans Skinny para Mujer  Negro  Black   XS  Talla Fabricante:32 
+prodname: 'Only Onlroyal High Sk Jeans Pim600 Noos  Jeans Skinny para Mujer  Negro  Black   XS  Talla Fabricante:32 '
 ---
 
 Está [Only Onlroyal High Sk Jeans Pim600 Noos  Jeans Skinny para Mujer  Negro  Black   XS  Talla Fabricante:32 ](https://www.amazon.es/dp/B00O5LJC6S/?tag=tolees-21) con 33.26 de descuento por 19.99 EUR (original: 29.95 EUR) en el siguiente enlace!

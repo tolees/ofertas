@@ -14,7 +14,7 @@ currency: EUR
 price: 20.62
 comparePrice: 30.57 EUR
 inStock: true
-prodname: CMP Thuban  Botas Militar Unisex Niños   Merlot C952   29 EU
+prodname: 'CMP Thuban  Botas Militar Unisex Niños   Merlot C952   29 EU'
 ---
 
 Ahora mismo tienes [CMP Thuban  Botas Militar Unisex Niños   Merlot C952   29 EU](https://www.amazon.es/dp/B07MJGJ6W3/?tag=tolees-21) a 20.62 EUR (original: 30.57 EUR) (32.55 %  de descuento) en el siguiente enlace!

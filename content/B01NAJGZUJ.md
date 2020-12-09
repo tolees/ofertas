@@ -14,7 +14,7 @@ currency: EUR
 price: 7.5
 comparePrice: 15 EUR
 inStock: true
-prodname: FIND ER1940 camisetas  Verde  Olive   42  Talla del Fabricante: Large 
+prodname: 'FIND ER1940 camisetas  Verde  Olive   42  Talla del Fabricante: Large '
 ---
 
 Ahora mismo tienes [FIND ER1940 camisetas  Verde  Olive   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01NAJGZUJ/?tag=tolees-21) a 7.5 EUR (original: 15 EUR) (50.00 %  de descuento) en el siguiente enlace!

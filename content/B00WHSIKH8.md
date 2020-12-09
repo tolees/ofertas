@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Las bolas chinas"SingleBall" de AMOR Vibratissimo® de color púrpura y controlables mediante una aplicación móvil garantizan momentos de auténtico placer
+prodname: 'Las bolas chinas"SingleBall" de AMOR Vibratissimo® de color púrpura y controlables mediante una aplicación móvil garantizan momentos de auténtico placer'
 ---
 
 Está [Las bolas chinas"SingleBall" de AMOR Vibratissimo® de color púrpura y controlables mediante una aplicación móvil garantizan momentos de auténtico placer](https://www.amazon.es/dp/B00WHSIKH8/?tag=tolees-21) con 50.06 de descuento por 19.95 EUR (original: 39.95 EUR) en el siguiente enlace!

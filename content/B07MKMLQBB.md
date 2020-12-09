@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Barra de Sonido  GIARIDE Bluetooth V5.0 Altavoz de Cine en casa con Cable e inalámbrico soundbar con Control Remoto  3.5mm Aux  Ranura para Tarjeta TF  Radio FM para PC  Tabletas  TV
+prodname: 'Barra de Sonido  GIARIDE Bluetooth V5.0 Altavoz de Cine en casa con Cable e inalámbrico soundbar con Control Remoto  3.5mm Aux  Ranura para Tarjeta TF  Radio FM para PC  Tabletas  TV'
 ---
 
 Está [Barra de Sonido  GIARIDE Bluetooth V5.0 Altavoz de Cine en casa con Cable e inalámbrico soundbar con Control Remoto  3.5mm Aux  Ranura para Tarjeta TF  Radio FM para PC  Tabletas  TV](https://www.amazon.es/dp/B07MKMLQBB/?tag=tolees-21) con 55.56 de descuento por 39.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.2
 comparePrice: 35.95 EUR
 inStock: true
-prodname: United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable   Righe Grigie/Nere 914   Talla única  Talla del Fabricante: X-Small 
+prodname: 'United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable   Righe Grigie/Nere 914   Talla única  Talla del Fabricante: X-Small '
 ---
 
 Tienes [United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable   Righe Grigie/Nere 914   Talla única  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07KTPVTP3/?tag=tolees-21) con un 79.97 % de descuento con precio de oferta de 7.2 EUR (original: 35.95 EUR) en el siguiente enlace!

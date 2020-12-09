@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 42.41 EUR
 inStock: true
-prodname: Mario & Sonic en las Olimpiadas de Tokyo 2020
+prodname: 'Mario & Sonic en las Olimpiadas de Tokyo 2020'
 ---
 
 Ahora mismo tienes [Mario & Sonic en las Olimpiadas de Tokyo 2020](https://www.amazon.es/dp/B07SV3LLYF/?tag=tolees-21) a 29.95 EUR (original: 42.41 EUR) (29.38 %  de descuento) en el siguiente enlace!

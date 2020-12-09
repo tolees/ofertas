@@ -14,7 +14,7 @@ currency: EUR
 price: 7.45
 comparePrice: 14.87 EUR
 inStock: true
-prodname: Trespass Nuko Bolsa Nevera  Unisex Adulto   tst   Talla Única
+prodname: 'Trespass Nuko Bolsa Nevera  Unisex Adulto   tst   Talla Única'
 ---
 
 Tienes [Trespass Nuko Bolsa Nevera  Unisex Adulto   tst   Talla Única](https://www.amazon.es/dp/B01FSURJ2S/?tag=tolees-21) con un 49.90 % de descuento con precio de oferta de 7.45 EUR (original: 14.87 EUR) en el siguiente enlace!

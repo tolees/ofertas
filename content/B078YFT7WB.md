@@ -14,7 +14,7 @@ currency: EUR
 price: 26.34
 comparePrice: 54 EUR
 inStock: true
-prodname: Lorus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable RG205NX9
+prodname: 'Lorus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable RG205NX9'
 ---
 
 Tienes [Lorus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable RG205NX9](https://www.amazon.es/dp/B078YFT7WB/?tag=tolees-21) con un 51.22 % de descuento con precio de oferta de 26.34 EUR (original: 54 EUR) en el siguiente enlace!

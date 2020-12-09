@@ -14,7 +14,7 @@ currency: EUR
 price: 33.95
 comparePrice: 58.5 EUR
 inStock: true
-prodname: Lancome - La Vie Est Belle - Eau de Parfum para mujer - 30 ml
+prodname: 'Lancome - La Vie Est Belle - Eau de Parfum para mujer - 30 ml'
 ---
 
 Está [Lancome - La Vie Est Belle - Eau de Parfum para mujer - 30 ml](https://www.amazon.es/dp/B008SBKTZ4/?tag=tolees-21) con 41.97 de descuento por 33.95 EUR (original: 58.5 EUR) en el siguiente enlace!

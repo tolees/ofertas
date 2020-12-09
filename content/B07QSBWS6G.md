@@ -14,7 +14,7 @@ currency: EUR
 price: 9.51
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Pop Disney: Frozen 2 - Anna  Multicolor  Estándar
+prodname: 'Pop Disney: Frozen 2 - Anna  Multicolor  Estándar'
 ---
 
 Está [Pop Disney: Frozen 2 - Anna  Multicolor  Estándar](https://www.amazon.es/dp/B07QSBWS6G/?tag=tolees-21) con 36.39 de descuento por 9.51 EUR (original: 14.95 EUR) en el siguiente enlace!

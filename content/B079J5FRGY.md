@@ -14,7 +14,7 @@ currency: EUR
 price: 29.05
 comparePrice: 60 EUR
 inStock: true
-prodname: Asics Patriot 10 Zapatillas de Running Hombre  Gris  Mid Grey/Race Blue 020   45 EU
+prodname: 'Asics Patriot 10 Zapatillas de Running Hombre  Gris  Mid Grey/Race Blue 020   45 EU'
 ---
 
 Ahora mismo tienes [Asics Patriot 10 Zapatillas de Running Hombre  Gris  Mid Grey/Race Blue 020   45 EU](https://www.amazon.es/dp/B079J5FRGY/?tag=tolees-21) a 29.05 EUR (original: 60 EUR) (51.58 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.0
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Nike Stefan Janoski  GS   Zapatillas de Skateboarding Niños  Negro  Black / White-Gum Med Brown   38
+prodname: 'Nike Stefan Janoski  GS   Zapatillas de Skateboarding Niños  Negro  Black / White-Gum Med Brown   38'
 ---
 
 Ahora mismo tienes [Nike Stefan Janoski  GS   Zapatillas de Skateboarding Niños  Negro  Black / White-Gum Med Brown   38](https://www.amazon.es/dp/B00M4DAIOY/?tag=tolees-21) a 36.0 EUR (original: 60.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

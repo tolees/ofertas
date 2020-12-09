@@ -14,7 +14,7 @@ currency: EUR
 price: 96.61
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Hoover SCM1600 - Vaporeta  Potencia 1600W  5 bares  Lista en 9min  Autonomía 30min  Capacidad 1 5L  Múltiples accesorios incluidos  Color Rojo
+prodname: 'Hoover SCM1600 - Vaporeta  Potencia 1600W  5 bares  Lista en 9min  Autonomía 30min  Capacidad 1 5L  Múltiples accesorios incluidos  Color Rojo'
 ---
 
 Está [Hoover SCM1600 - Vaporeta  Potencia 1600W  5 bares  Lista en 9min  Autonomía 30min  Capacidad 1 5L  Múltiples accesorios incluidos  Color Rojo](https://www.amazon.es/dp/B00EP8HVXM/?tag=tolees-21) con 35.59 de descuento por 96.61 EUR (original: 149.99 EUR) en el siguiente enlace!

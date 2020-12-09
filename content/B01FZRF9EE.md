@@ -14,7 +14,7 @@ currency: EUR
 price: 42.39
 comparePrice: 85 EUR
 inStock: true
-prodname: Mizuno Mizuno Synchro Mx - Zapatillas de running Mujer  color Gris - Grey  Quarry/White/Strawberry Pink   talla 38 EU  5 UK 
+prodname: 'Mizuno Mizuno Synchro Mx - Zapatillas de running Mujer  color Gris - Grey  Quarry/White/Strawberry Pink   talla 38 EU  5 UK '
 ---
 
 Está [Mizuno Mizuno Synchro Mx - Zapatillas de running Mujer  color Gris - Grey  Quarry/White/Strawberry Pink   talla 38 EU  5 UK ](https://www.amazon.es/dp/B01FZRF9EE/?tag=tolees-21) con 50.13 de descuento por 42.39 EUR (original: 85 EUR) en el siguiente enlace!

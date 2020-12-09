@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Aigostar - Bombilla LED A5 G45  E27  5 W equivalente a 40 W  400lm  Luz calida 3000K  no regulable - 5 unidades [Clase de eficiencia energética A+]
+prodname: 'Aigostar - Bombilla LED A5 G45  E27  5 W equivalente a 40 W  400lm  Luz calida 3000K  no regulable - 5 unidades [Clase de eficiencia energética A+]'
 ---
 
 Tienes [Aigostar - Bombilla LED A5 G45  E27  5 W equivalente a 40 W  400lm  Luz calida 3000K  no regulable - 5 unidades [Clase de eficiencia energética A+]](https://www.amazon.es/dp/B00P47MZZC/?tag=tolees-21) con un 28.59 % de descuento con precio de oferta de 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.27
 comparePrice: 65 EUR
 inStock: true
-prodname: Vans Sk8-hi Zip  Zapatillas de Entrenamiento Unisex Niños  Hueso  Star Glitter   34 EU
+prodname: 'Vans Sk8-hi Zip  Zapatillas de Entrenamiento Unisex Niños  Hueso  Star Glitter   34 EU'
 ---
 
 Tienes [Vans Sk8-hi Zip  Zapatillas de Entrenamiento Unisex Niños  Hueso  Star Glitter   34 EU](https://www.amazon.es/dp/B01NCMKVHT/?tag=tolees-21) con un 68.82 % de descuento con precio de oferta de 20.27 EUR (original: 65 EUR) en el siguiente enlace!

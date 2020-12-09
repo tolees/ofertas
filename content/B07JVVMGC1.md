@@ -14,7 +14,7 @@ currency: EUR
 price: 36.74
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Asics Jolt 2  Zapatillas de Deporte para Hombre  Negro  Black/Dark Grey   42.5 EU
+prodname: 'Asics Jolt 2  Zapatillas de Deporte para Hombre  Negro  Black/Dark Grey   42.5 EU'
 ---
 
 Está [Asics Jolt 2  Zapatillas de Deporte para Hombre  Negro  Black/Dark Grey   42.5 EU](https://www.amazon.es/dp/B07JVVMGC1/?tag=tolees-21) con 26.52 de descuento por 36.74 EUR (original: 50.0 EUR) en el siguiente enlace!

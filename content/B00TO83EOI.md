@@ -14,7 +14,7 @@ currency: EUR
 price: 89.0
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Reloj para hombre Tommy Hilfiger 1791104  mecanismo de cuarzo  diseño con varias esferas  correa de acero inoxidable.
+prodname: 'Reloj para hombre Tommy Hilfiger 1791104  mecanismo de cuarzo  diseño con varias esferas  correa de acero inoxidable.'
 ---
 
 Ahora mismo tienes [Reloj para hombre Tommy Hilfiger 1791104  mecanismo de cuarzo  diseño con varias esferas  correa de acero inoxidable.](https://www.amazon.es/dp/B00TO83EOI/?tag=tolees-21) a 89.0 EUR (original: 199.0 EUR) (55.28 %  de descuento) en el siguiente enlace!

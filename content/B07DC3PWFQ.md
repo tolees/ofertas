@@ -14,7 +14,7 @@ currency: EUR
 price: 25.27
 comparePrice: 45 EUR
 inStock: true
-prodname: LE COQ SPORTIF Deauville PS Sport Dusty Coral  Zapatillas Unisex Niños  Beige Rose Pale  32 EU
+prodname: 'LE COQ SPORTIF Deauville PS Sport Dusty Coral  Zapatillas Unisex Niños  Beige Rose Pale  32 EU'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Deauville PS Sport Dusty Coral  Zapatillas Unisex Niños  Beige Rose Pale  32 EU](https://www.amazon.es/dp/B07DC3PWFQ/?tag=tolees-21) a 25.27 EUR (original: 45 EUR) (43.84 %  de descuento) en el siguiente enlace!

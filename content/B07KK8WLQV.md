@@ -14,7 +14,7 @@ currency: EUR
 price: 28.22
 comparePrice: 38.99 EUR
 inStock: true
-prodname: TOPERSUN 2PCS WiFi Enchufe Enchufe del Interruptor Enchufe Inteligente con Control Remoto Compatible con Amazon Alexa Echo y Google Home IFTTT
+prodname: 'TOPERSUN 2PCS WiFi Enchufe Enchufe del Interruptor Enchufe Inteligente con Control Remoto Compatible con Amazon Alexa Echo y Google Home IFTTT'
 ---
 
 Está [TOPERSUN 2PCS WiFi Enchufe Enchufe del Interruptor Enchufe Inteligente con Control Remoto Compatible con Amazon Alexa Echo y Google Home IFTTT](https://www.amazon.es/dp/B07KK8WLQV/?tag=tolees-21) con 27.62 de descuento por 28.22 EUR (original: 38.99 EUR) en el siguiente enlace!

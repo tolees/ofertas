@@ -14,7 +14,7 @@ currency: EUR
 price: 38.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: SteelSeries Rival 310  Ratón de Juego Óptico  Iluminación RGB  6 Botones  Laterales de Goma  Memoria Integrada  PC/Mac  Negro
+prodname: 'SteelSeries Rival 310  Ratón de Juego Óptico  Iluminación RGB  6 Botones  Laterales de Goma  Memoria Integrada  PC/Mac  Negro'
 ---
 
 Está [SteelSeries Rival 310  Ratón de Juego Óptico  Iluminación RGB  6 Botones  Laterales de Goma  Memoria Integrada  PC/Mac  Negro](https://www.amazon.es/dp/B073XMJMWJ/?tag=tolees-21) con 44.29 de descuento por 38.99 EUR (original: 69.99 EUR) en el siguiente enlace!

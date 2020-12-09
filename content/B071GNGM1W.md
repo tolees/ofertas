@@ -14,7 +14,7 @@ currency: EUR
 price: 29.85
 comparePrice: 79.95 EUR
 inStock: true
-prodname: adidas Tubular Shadow J  Zapatillas de Deporte Unisex niños  Gris  Gridos Balcri   37.5 EU
+prodname: 'adidas Tubular Shadow J  Zapatillas de Deporte Unisex niños  Gris  Gridos Balcri   37.5 EU'
 ---
 
 Ahora mismo tienes [adidas Tubular Shadow J  Zapatillas de Deporte Unisex niños  Gris  Gridos Balcri   37.5 EU](https://www.amazon.es/dp/B071GNGM1W/?tag=tolees-21) a 29.85 EUR (original: 79.95 EUR) (62.66 %  de descuento) en el siguiente enlace!

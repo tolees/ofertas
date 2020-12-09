@@ -14,7 +14,7 @@ currency: EUR
 price: 11.57
 comparePrice: 32.61 EUR
 inStock: true
-prodname: Isla de baño Cotoons primera edad  Smoby 110608 
+prodname: 'Isla de baño Cotoons primera edad  Smoby 110608 '
 ---
 
 Tienes [Isla de baño Cotoons primera edad  Smoby 110608 ](https://www.amazon.es/dp/B01DXM18YI/?tag=tolees-21) con un 64.52 % de descuento con precio de oferta de 11.57 EUR (original: 32.61 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.34
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Carrera Beverly Mix  Zapatillas de Cross para Hombre  Negro  Black 04   43 EU
+prodname: 'Carrera Beverly Mix  Zapatillas de Cross para Hombre  Negro  Black 04   43 EU'
 ---
 
 Está [Carrera Beverly Mix  Zapatillas de Cross para Hombre  Negro  Black 04   43 EU](https://www.amazon.es/dp/B07GJW9N4C/?tag=tolees-21) con 57.23 de descuento por 21.34 EUR (original: 49.9 EUR) en el siguiente enlace!

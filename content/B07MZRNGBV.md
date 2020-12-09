@@ -14,7 +14,7 @@ currency: EUR
 price: 19.98
 comparePrice: 29.99 EUR
 inStock: true
-prodname: SCARLET DARKNESS Trajes de baño Sexy para Mujer Monokini Cross Back Deep Wine Red S
+prodname: 'SCARLET DARKNESS Trajes de baño Sexy para Mujer Monokini Cross Back Deep Wine Red S'
 ---
 
 Ahora mismo tienes [SCARLET DARKNESS Trajes de baño Sexy para Mujer Monokini Cross Back Deep Wine Red S](https://www.amazon.es/dp/B07MZRNGBV/?tag=tolees-21) a 19.98 EUR (original: 29.99 EUR) (33.38 %  de descuento) en el siguiente enlace!

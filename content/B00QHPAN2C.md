@@ -14,7 +14,7 @@ currency: EUR
 price: 9.83
 comparePrice: 19 EUR
 inStock: true
-prodname: Joma Wind - Chubasquero para Hombre  Color Azul Marino  Talla XL
+prodname: 'Joma Wind - Chubasquero para Hombre  Color Azul Marino  Talla XL'
 ---
 
 Está [Joma Wind - Chubasquero para Hombre  Color Azul Marino  Talla XL](https://www.amazon.es/dp/B00QHPAN2C/?tag=tolees-21) con 48.26 de descuento por 9.83 EUR (original: 19 EUR) en el siguiente enlace!

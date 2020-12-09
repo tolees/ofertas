@@ -14,7 +14,7 @@ currency: EUR
 price: 7.66
 comparePrice: 11.97 EUR
 inStock: true
-prodname: Café Royal Espresso Forte 48 cápsulas compatibles con Nescafé* Dolce Gusto* Intensidad: 8 de 10  Pack de 3 x 16 cápsulas 
+prodname: 'Café Royal Espresso Forte 48 cápsulas compatibles con Nescafé* Dolce Gusto* Intensidad: 8 de 10  Pack de 3 x 16 cápsulas '
 ---
 
 Está [Café Royal Espresso Forte 48 cápsulas compatibles con Nescafé* Dolce Gusto* Intensidad: 8 de 10  Pack de 3 x 16 cápsulas ](https://www.amazon.es/dp/B074P6JFQZ/?tag=tolees-21) con 36.01 de descuento por 7.66 EUR (original: 11.97 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.87
 comparePrice: 99 EUR
 inStock: true
-prodname: Calvin Klein Jeans Seren Coated Cn Swea  Suéter para Mujer  Negro  Ck Black 099   Medium
+prodname: 'Calvin Klein Jeans Seren Coated Cn Swea  Suéter para Mujer  Negro  Ck Black 099   Medium'
 ---
 
 Tienes [Calvin Klein Jeans Seren Coated Cn Swea  Suéter para Mujer  Negro  Ck Black 099   Medium](https://www.amazon.es/dp/B06XWHPQPY/?tag=tolees-21) con un 73.87 % de descuento con precio de oferta de 25.87 EUR (original: 99 EUR) en el siguiente enlace!

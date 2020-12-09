@@ -14,7 +14,7 @@ currency: EUR
 price: 50.87
 comparePrice: 75 EUR
 inStock: true
-prodname: New Balance 410  Zapatillas Unisex Adulto  Verde  Chalkboard/White AC   41.5 EU
+prodname: 'New Balance 410  Zapatillas Unisex Adulto  Verde  Chalkboard/White AC   41.5 EU'
 ---
 
 Ahora mismo tienes [New Balance 410  Zapatillas Unisex Adulto  Verde  Chalkboard/White AC   41.5 EU](https://www.amazon.es/dp/B07DJ3PQVL/?tag=tolees-21) a 50.87 EUR (original: 75 EUR) (32.17 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Funko- Pop Rocks Duran-Andy Taylor Collectible Toy  Multicolor  41230 
+prodname: 'Funko- Pop Rocks Duran-Andy Taylor Collectible Toy  Multicolor  41230 '
 ---
 
 Está [Funko- Pop Rocks Duran-Andy Taylor Collectible Toy  Multicolor  41230 ](https://www.amazon.es/dp/B07TWHJ1TF/?tag=tolees-21) con 39.87 de descuento por 8.99 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 2.99
 comparePrice: 3.99 EUR
 inStock: true
-prodname: EasyULT Adaptador USB C a USB 3.0 [3 Pack]  Cable OTG USB Tipo C a USB 3.0 Adaptador OTG USB 3.1 Tipo C 5Gbps  para MacBook Pro 2017/2016  ChromeBook Pixel  Galaxy s8
+prodname: 'EasyULT Adaptador USB C a USB 3.0 [3 Pack]  Cable OTG USB Tipo C a USB 3.0 Adaptador OTG USB 3.1 Tipo C 5Gbps  para MacBook Pro 2017/2016  ChromeBook Pixel  Galaxy s8'
 ---
 
 Está [EasyULT Adaptador USB C a USB 3.0 [3 Pack]  Cable OTG USB Tipo C a USB 3.0 Adaptador OTG USB 3.1 Tipo C 5Gbps  para MacBook Pro 2017/2016  ChromeBook Pixel  Galaxy s8](https://www.amazon.es/dp/B086PCKHH2/?tag=tolees-21) con 25.06 de descuento por 2.99 EUR (original: 3.99 EUR) en el siguiente enlace!

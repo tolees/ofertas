@@ -14,7 +14,7 @@ currency: EUR
 price: 10.46
 comparePrice: 29.95 EUR
 inStock: true
-prodname: G-STAR RAW Civita Slim T-Shirt Camiseta  Rosa  pyg 7176   X-Small para Mujer
+prodname: 'G-STAR RAW Civita Slim T-Shirt Camiseta  Rosa  pyg 7176   X-Small para Mujer'
 ---
 
 Está [G-STAR RAW Civita Slim T-Shirt Camiseta  Rosa  pyg 7176   X-Small para Mujer](https://www.amazon.es/dp/B07MDBJ88L/?tag=tolees-21) con 65.08 de descuento por 10.46 EUR (original: 29.95 EUR) en el siguiente enlace!

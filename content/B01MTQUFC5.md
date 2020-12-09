@@ -14,7 +14,7 @@ currency: EUR
 price: 39.9
 comparePrice: 85 EUR
 inStock: true
-prodname: Asics Nitrofuze  Zapatillas de Deporte para Hombre  Azul  Indigo Blue/Silver/Imperial   45 EU
+prodname: 'Asics Nitrofuze  Zapatillas de Deporte para Hombre  Azul  Indigo Blue/Silver/Imperial   45 EU'
 ---
 
 Ahora mismo tienes [Asics Nitrofuze  Zapatillas de Deporte para Hombre  Azul  Indigo Blue/Silver/Imperial   45 EU](https://www.amazon.es/dp/B01MTQUFC5/?tag=tolees-21) a 39.9 EUR (original: 85 EUR) (53.06 %  de descuento) en el siguiente enlace!

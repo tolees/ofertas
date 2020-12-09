@@ -14,7 +14,7 @@ currency: EUR
 price: 3.16
 comparePrice: 5.69 EUR
 inStock: true
-prodname: 1pieza de Razuradora con doble Cara de PDA con 3 Capas 5 Cuchillas para Hombres Maquillaje Belleza
+prodname: '1pieza de Razuradora con doble Cara de PDA con 3 Capas 5 Cuchillas para Hombres Maquillaje Belleza'
 ---
 
 Está [1pieza de Razuradora con doble Cara de PDA con 3 Capas 5 Cuchillas para Hombres Maquillaje Belleza](https://www.amazon.es/dp/B07DNFYFBC/?tag=tolees-21) con 44.46 de descuento por 3.16 EUR (original: 5.69 EUR) en el siguiente enlace!

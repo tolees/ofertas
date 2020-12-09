@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Under Armour Mk1 Terry Short Pantalones  Hombre  Marrón  Silt Brown/Black 221   M
+prodname: 'Under Armour Mk1 Terry Short Pantalones  Hombre  Marrón  Silt Brown/Black 221   M'
 ---
 
 Está [Under Armour Mk1 Terry Short Pantalones  Hombre  Marrón  Silt Brown/Black 221   M](https://www.amazon.es/dp/B07KH33WTP/?tag=tolees-21) con 46.68 de descuento por 23.99 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.82
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Kipling Seoul Mochila Escolar  Multicolor  Dew Azule 
+prodname: 'Kipling Seoul Mochila Escolar  Multicolor  Dew Azule '
 ---
 
 Tienes [Kipling Seoul Mochila Escolar  Multicolor  Dew Azule ](https://www.amazon.es/dp/B07YQF1FKS/?tag=tolees-21) con un 70.72 % de descuento con precio de oferta de 27.82 EUR (original: 95.0 EUR) en el siguiente enlace!

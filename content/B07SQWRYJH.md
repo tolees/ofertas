@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Pop TV: La Casa de Papel - Nairobi
+prodname: 'Pop TV: La Casa de Papel - Nairobi'
 ---
 
 Está [Pop TV: La Casa de Papel - Nairobi](https://www.amazon.es/dp/B07SQWRYJH/?tag=tolees-21) con 38.09 de descuento por 9.9 EUR (original: 15.99 EUR) en el siguiente enlace!

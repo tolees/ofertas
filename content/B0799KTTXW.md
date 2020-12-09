@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 37.99 EUR
 inStock: true
-prodname: FLOUREON Batería Externa Solar Batería de Emergencia Cargador Solar a Prueba de Agua 10000mAh con 2 Puertos USB Brújula y Antorcha LED para Smartphones Samsung iPhone y Tablet - Azul
+prodname: 'FLOUREON Batería Externa Solar Batería de Emergencia Cargador Solar a Prueba de Agua 10000mAh con 2 Puertos USB Brújula y Antorcha LED para Smartphones Samsung iPhone y Tablet - Azul'
 ---
 
 Ahora mismo tienes [FLOUREON Batería Externa Solar Batería de Emergencia Cargador Solar a Prueba de Agua 10000mAh con 2 Puertos USB Brújula y Antorcha LED para Smartphones Samsung iPhone y Tablet - Azul](https://www.amazon.es/dp/B0799KTTXW/?tag=tolees-21) a 14.99 EUR (original: 37.99 EUR) (60.54 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.12
 comparePrice: 49.94 EUR
 inStock: true
-prodname: ICHI Erin IZARO Vaqueros  10001 Black  W27/L32  27  para Mujer
+prodname: 'ICHI Erin IZARO Vaqueros  10001 Black  W27/L32  27  para Mujer'
 ---
 
 Tienes [ICHI Erin IZARO Vaqueros  10001 Black  W27/L32  27  para Mujer](https://www.amazon.es/dp/B00XXLMGAK/?tag=tolees-21) con un 67.72 % de descuento con precio de oferta de 16.12 EUR (original: 49.94 EUR) en el siguiente enlace!

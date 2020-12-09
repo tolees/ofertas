@@ -14,7 +14,7 @@ currency: EUR
 price: 6.29
 comparePrice: 20.95 EUR
 inStock: true
-prodname: Twins Luisa  vestido Bebé-Niñas  Multicolor  Mehrfarbig   62
+prodname: 'Twins Luisa  vestido Bebé-Niñas  Multicolor  Mehrfarbig   62'
 ---
 
 Ahora mismo tienes [Twins Luisa  vestido Bebé-Niñas  Multicolor  Mehrfarbig   62](https://www.amazon.es/dp/B01LPO5VMG/?tag=tolees-21) a 6.29 EUR (original: 20.95 EUR) (69.98 %  de descuento) en el siguiente enlace!

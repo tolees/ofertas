@@ -14,7 +14,7 @@ currency: EUR
 price: 21.37
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Cortefiel 3.T.M.Camisero Denim Bord  Mujer  Azul  Blue   Medium  Tamaño del fabricante:M 
+prodname: 'Cortefiel 3.T.M.Camisero Denim Bord  Mujer  Azul  Blue   Medium  Tamaño del fabricante:M '
 ---
 
 Está [Cortefiel 3.T.M.Camisero Denim Bord  Mujer  Azul  Blue   Medium  Tamaño del fabricante:M ](https://www.amazon.es/dp/B073JDF1ZQ/?tag=tolees-21) con 69.47 de descuento por 21.37 EUR (original: 69.99 EUR) en el siguiente enlace!

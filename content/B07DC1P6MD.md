@@ -14,7 +14,7 @@ currency: EUR
 price: 41.99
 comparePrice: 59.95 EUR
 inStock: true
-prodname: PUMA Vikky Stacked L  Zapatillas Mujer  Blanco White White  37 EU
+prodname: 'PUMA Vikky Stacked L  Zapatillas Mujer  Blanco White White  37 EU'
 ---
 
 Ahora mismo tienes [PUMA Vikky Stacked L  Zapatillas Mujer  Blanco White White  37 EU](https://www.amazon.es/dp/B07DC1P6MD/?tag=tolees-21) a 41.99 EUR (original: 59.95 EUR) (29.96 %  de descuento) en el siguiente enlace!

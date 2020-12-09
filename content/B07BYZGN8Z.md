@@ -14,7 +14,7 @@ currency: EUR
 price: 43.25
 comparePrice: 130 EUR
 inStock: true
-prodname: Hackett London HKT 1 Rugby  Polo para Hombre  Marfil  Chalk 837  S
+prodname: 'Hackett London HKT 1 Rugby  Polo para Hombre  Marfil  Chalk 837  S'
 ---
 
 Está [Hackett London HKT 1 Rugby  Polo para Hombre  Marfil  Chalk 837  S](https://www.amazon.es/dp/B07BYZGN8Z/?tag=tolees-21) con 66.73 de descuento por 43.25 EUR (original: 130 EUR) en el siguiente enlace!

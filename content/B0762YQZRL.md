@@ -14,7 +14,7 @@ currency: EUR
 price: 40.77
 comparePrice: 64.9 EUR
 inStock: true
-prodname: Weider Mega Mass 4000 Sabor Fresa  4000 g . 69% de hidratos.Enriquecido con Vitaminas y Minerales. Con menos azúcares
+prodname: 'Weider Mega Mass 4000 Sabor Fresa  4000 g . 69% de hidratos.Enriquecido con Vitaminas y Minerales. Con menos azúcares'
 ---
 
 Está [Weider Mega Mass 4000 Sabor Fresa  4000 g . 69% de hidratos.Enriquecido con Vitaminas y Minerales. Con menos azúcares](https://www.amazon.es/dp/B0762YQZRL/?tag=tolees-21) con 37.18 de descuento por 40.77 EUR (original: 64.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 50.99 EUR
 inStock: true
-prodname: shenkey Chaleco de señal de giro LED  Chaleco reflectante LED con indicador de dirección: control remoto  luces de giro  USB recargable  fácil instalación para ciclismo Luz de advertencia
+prodname: 'shenkey Chaleco de señal de giro LED  Chaleco reflectante LED con indicador de dirección: control remoto  luces de giro  USB recargable  fácil instalación para ciclismo Luz de advertencia'
 ---
 
 Tienes [shenkey Chaleco de señal de giro LED  Chaleco reflectante LED con indicador de dirección: control remoto  luces de giro  USB recargable  fácil instalación para ciclismo Luz de advertencia](https://www.amazon.es/dp/B07KZBJJP8/?tag=tolees-21) con un 35.30 % de descuento con precio de oferta de 32.99 EUR (original: 50.99 EUR) en el siguiente enlace!

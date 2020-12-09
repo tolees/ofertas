@@ -14,7 +14,7 @@ currency: EUR
 price: 7.52
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Puma ftblNXT Graphic Core Shirt  Hombre  Peacoat/Dark Denim  S
+prodname: 'Puma ftblNXT Graphic Core Shirt  Hombre  Peacoat/Dark Denim  S'
 ---
 
 Tienes [Puma ftblNXT Graphic Core Shirt  Hombre  Peacoat/Dark Denim  S](https://www.amazon.es/dp/B07DFRKPCC/?tag=tolees-21) con un 74.89 % de descuento con precio de oferta de 7.52 EUR (original: 29.95 EUR) en el siguiente enlace!

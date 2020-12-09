@@ -14,7 +14,7 @@ currency: EUR
 price: 19.67
 comparePrice: 79.94 EUR
 inStock: true
-prodname: Tamaris 25125  Botas Militar para Mujer  Marrón  Pepper 324   37 EU
+prodname: 'Tamaris 25125  Botas Militar para Mujer  Marrón  Pepper 324   37 EU'
 ---
 
 Ahora mismo tienes [Tamaris 25125  Botas Militar para Mujer  Marrón  Pepper 324   37 EU](https://www.amazon.es/dp/B01FXATEK8/?tag=tolees-21) a 19.67 EUR (original: 79.94 EUR) (75.39 %  de descuento) en el siguiente enlace!

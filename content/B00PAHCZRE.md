@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 74.74 EUR
 inStock: true
-prodname: Puma Faas 300 S v2 Wn s - Zapatillas de running de material sintético para mujer  Weiß  Wht/F.Pink   36
+prodname: 'Puma Faas 300 S v2 Wn s - Zapatillas de running de material sintético para mujer  Weiß  Wht/F.Pink   36'
 ---
 
 Ahora mismo tienes [Puma Faas 300 S v2 Wn s - Zapatillas de running de material sintético para mujer  Weiß  Wht/F.Pink   36](https://www.amazon.es/dp/B00PAHCZRE/?tag=tolees-21) a 22.99 EUR (original: 74.74 EUR) (69.24 %  de descuento) en el siguiente enlace!

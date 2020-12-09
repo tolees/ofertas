@@ -14,7 +14,7 @@ currency: EUR
 price: 114.44
 comparePrice: 156.06 EUR
 inStock: true
-prodname: Festina Reloj de Pulsera F20397/3
+prodname: 'Festina Reloj de Pulsera F20397/3'
 ---
 
 Tienes [Festina Reloj de Pulsera F20397/3](https://www.amazon.es/dp/B07F18KHWR/?tag=tolees-21) con un 26.67 % de descuento con precio de oferta de 114.44 EUR (original: 156.06 EUR) en el siguiente enlace!

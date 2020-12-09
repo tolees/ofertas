@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: WIN.MAX Tirantes Ancho 35 mm X-Forma con 4 Clips Extra Fuerte Elástico y Longitud Ajustable Diferentes Estilos Tela Gruesa Una Talla Para Todos  Puntos blancos y negros 
+prodname: 'WIN.MAX Tirantes Ancho 35 mm X-Forma con 4 Clips Extra Fuerte Elástico y Longitud Ajustable Diferentes Estilos Tela Gruesa Una Talla Para Todos  Puntos blancos y negros '
 ---
 
 Tienes [WIN.MAX Tirantes Ancho 35 mm X-Forma con 4 Clips Extra Fuerte Elástico y Longitud Ajustable Diferentes Estilos Tela Gruesa Una Talla Para Todos  Puntos blancos y negros ](https://www.amazon.es/dp/B085ZL7QJN/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

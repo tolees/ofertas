@@ -14,7 +14,7 @@ currency: EUR
 price: 22.95
 comparePrice: 45.95 EUR
 inStock: true
-prodname: Vest_Lincoln  Vestido Niñas   Navy 5000 
+prodname: 'Vest_Lincoln  Vestido Niñas   Navy 5000 '
 ---
 
 Tienes [Vest_Lincoln  Vestido Niñas   Navy 5000 ](https://www.amazon.es/dp/B079SSTJZS/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 22.95 EUR (original: 45.95 EUR) en el siguiente enlace!

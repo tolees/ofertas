@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 66.0 EUR
 inStock: true
-prodname: NIKE Wmns Tanjun  Zapatillas de Running para Mujer  Negro  Black / Black-White   39 EU
+prodname: 'NIKE Wmns Tanjun  Zapatillas de Running para Mujer  Negro  Black / Black-White   39 EU'
 ---
 
 Ahora mismo tienes [NIKE Wmns Tanjun  Zapatillas de Running para Mujer  Negro  Black / Black-White   39 EU](https://www.amazon.es/dp/B01CRKZH5I/?tag=tolees-21) a 47.99 EUR (original: 66.0 EUR) (27.29 %  de descuento) en el siguiente enlace!

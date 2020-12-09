@@ -14,7 +14,7 @@ currency: EUR
 price: 14.06
 comparePrice: 39.4 EUR
 inStock: true
-prodname: Urns UK Chelsea Design 72 cremación Cenizas Joyas Colgante de Acero con Cadena  Plata
+prodname: 'Urns UK Chelsea Design 72 cremación Cenizas Joyas Colgante de Acero con Cadena  Plata'
 ---
 
 Ahora mismo tienes [Urns UK Chelsea Design 72 cremación Cenizas Joyas Colgante de Acero con Cadena  Plata](https://www.amazon.es/dp/B01C5TFMU6/?tag=tolees-21) a 14.06 EUR (original: 39.4 EUR) (64.31 %  de descuento) en el siguiente enlace!

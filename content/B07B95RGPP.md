@@ -14,7 +14,7 @@ currency: EUR
 price: 44.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Verona Trish  Botas Slouch para Mujer  Marrón  Dark TanLea   39 EU
+prodname: 'Clarks Verona Trish  Botas Slouch para Mujer  Marrón  Dark TanLea   39 EU'
 ---
 
 Está [Clarks Verona Trish  Botas Slouch para Mujer  Marrón  Dark TanLea   39 EU](https://www.amazon.es/dp/B07B95RGPP/?tag=tolees-21) con 55.03 de descuento por 44.95 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.98
 comparePrice: 51.99 EUR
 inStock: true
-prodname: Braun Satin Hair 7 CU710 - Rizador de pelo con tecnología iónica  tenacillas con control de temperatura personalizado  color negro
+prodname: 'Braun Satin Hair 7 CU710 - Rizador de pelo con tecnología iónica  tenacillas con control de temperatura personalizado  color negro'
 ---
 
 Ahora mismo tienes [Braun Satin Hair 7 CU710 - Rizador de pelo con tecnología iónica  tenacillas con control de temperatura personalizado  color negro](https://www.amazon.es/dp/B002AKKCRY/?tag=tolees-21) a 18.98 EUR (original: 51.99 EUR) (63.49 %  de descuento) en el siguiente enlace!

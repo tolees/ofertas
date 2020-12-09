@@ -14,7 +14,7 @@ currency: EUR
 price: 2.66
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Jakks Pacific - Who s Your Llama  figuras coleccionables surtidas sorpresa  86276 
+prodname: 'Jakks Pacific - Who s Your Llama  figuras coleccionables surtidas sorpresa  86276 '
 ---
 
 Está [Jakks Pacific - Who s Your Llama  figuras coleccionables surtidas sorpresa  86276 ](https://www.amazon.es/dp/B07MXX3RZC/?tag=tolees-21) con 73.37 de descuento por 2.66 EUR (original: 9.99 EUR) en el siguiente enlace!

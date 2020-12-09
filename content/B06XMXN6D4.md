@@ -14,7 +14,7 @@ currency: EUR
 price: 7.24
 comparePrice: 16.57 EUR
 inStock: true
-prodname: Apache Gaming Raton óptico   6 botones  cable USB   Rojo
+prodname: 'Apache Gaming Raton óptico   6 botones  cable USB   Rojo'
 ---
 
 Tienes [Apache Gaming Raton óptico   6 botones  cable USB   Rojo](https://www.amazon.es/dp/B06XMXN6D4/?tag=tolees-21) con un 56.31 % de descuento con precio de oferta de 7.24 EUR (original: 16.57 EUR) en el siguiente enlace!

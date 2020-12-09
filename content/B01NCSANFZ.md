@@ -14,7 +14,7 @@ currency: EUR
 price: 124.0
 comparePrice: 189.0 EUR
 inStock: true
-prodname: Reloj para hombre Tommy Hilfiger 1791352.
+prodname: 'Reloj para hombre Tommy Hilfiger 1791352.'
 ---
 
 Está [Reloj para hombre Tommy Hilfiger 1791352.](https://www.amazon.es/dp/B01NCSANFZ/?tag=tolees-21) con 34.39 de descuento por 124.0 EUR (original: 189.0 EUR) en el siguiente enlace!

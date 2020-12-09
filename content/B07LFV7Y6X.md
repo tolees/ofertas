@@ -14,7 +14,7 @@ currency: EUR
 price: 469.99
 comparePrice: 749.99 EUR
 inStock: true
-prodname: WORX WR130E - Robot Cortacésped Landroid S 300 Wifi
+prodname: 'WORX WR130E - Robot Cortacésped Landroid S 300 Wifi'
 ---
 
 Está [WORX WR130E - Robot Cortacésped Landroid S 300 Wifi](https://www.amazon.es/dp/B07LFV7Y6X/?tag=tolees-21) con 37.33 de descuento por 469.99 EUR (original: 749.99 EUR) en el siguiente enlace!

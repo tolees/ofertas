@@ -14,7 +14,7 @@ currency: EUR
 price: 32.0
 comparePrice: 57.39 EUR
 inStock: true
-prodname: Renberg Olla 32X25CM 20L C/T Alexander Acer.INOX  Acero  Diámetro 32 cm - 20 L
+prodname: 'Renberg Olla 32X25CM 20L C/T Alexander Acer.INOX  Acero  Diámetro 32 cm - 20 L'
 ---
 
 Ahora mismo tienes [Renberg Olla 32X25CM 20L C/T Alexander Acer.INOX  Acero  Diámetro 32 cm - 20 L](https://www.amazon.es/dp/B019OKBGK4/?tag=tolees-21) a 32.0 EUR (original: 57.39 EUR) (44.24 %  de descuento) en el siguiente enlace!

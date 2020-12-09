@@ -14,7 +14,7 @@ currency: EUR
 price: 6.81
 comparePrice: 27.99 EUR
 inStock: true
-prodname: DC Super Hero Girls- Wonder Woman Disney Muñeca  Color Rojo/Azul  Mattel DTR13 
+prodname: 'DC Super Hero Girls- Wonder Woman Disney Muñeca  Color Rojo/Azul  Mattel DTR13 '
 ---
 
 Ahora mismo tienes [DC Super Hero Girls- Wonder Woman Disney Muñeca  Color Rojo/Azul  Mattel DTR13 ](https://www.amazon.es/dp/B01DUK4VTW/?tag=tolees-21) a 6.81 EUR (original: 27.99 EUR) (75.67 %  de descuento) en el siguiente enlace!

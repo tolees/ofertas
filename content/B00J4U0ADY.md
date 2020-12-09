@@ -14,7 +14,7 @@ currency: EUR
 price: 15.22
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Meliconi Traveler Sleeve - Funda para Tablet de 8"
+prodname: 'Meliconi Traveler Sleeve - Funda para Tablet de 8"'
 ---
 
 Está [Meliconi Traveler Sleeve - Funda para Tablet de 8"](https://www.amazon.es/dp/B00J4U0ADY/?tag=tolees-21) con 39.10 de descuento por 15.22 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.23
 comparePrice: 14.01 EUR
 inStock: true
-prodname: Firefox [Francia] [Blu-ray]
+prodname: 'Firefox [Francia] [Blu-ray]'
 ---
 
 Ahora mismo tienes [Firefox [Francia] [Blu-ray]](https://www.amazon.es/dp/B01N3LCQF1/?tag=tolees-21) a 6.23 EUR (original: 14.01 EUR) (55.53 %  de descuento) en el siguiente enlace!

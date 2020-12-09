@@ -14,7 +14,7 @@ currency: EUR
 price: 9.16
 comparePrice: 12.48 EUR
 inStock: true
-prodname: Meiqils Baby Groot Maceta Figura de acción con Forma de Maceta y lápiz para niños Figuras de la Olla de Galaxy Modelo de bebé Lindo Juguete Pen Pot
+prodname: 'Meiqils Baby Groot Maceta Figura de acción con Forma de Maceta y lápiz para niños Figuras de la Olla de Galaxy Modelo de bebé Lindo Juguete Pen Pot'
 ---
 
 Ahora mismo tienes [Meiqils Baby Groot Maceta Figura de acción con Forma de Maceta y lápiz para niños Figuras de la Olla de Galaxy Modelo de bebé Lindo Juguete Pen Pot](https://www.amazon.es/dp/B077XVQXQ8/?tag=tolees-21) a 9.16 EUR (original: 12.48 EUR) (26.60 %  de descuento) en el siguiente enlace!

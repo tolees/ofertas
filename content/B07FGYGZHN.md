@@ -14,7 +14,7 @@ currency: EUR
 price: 53.45
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Columbia Pantalón de esquí impermeable para hombre  Ride On Pant  Nailon  Azul  Dark Mountain   Talla XL  1748081
+prodname: 'Columbia Pantalón de esquí impermeable para hombre  Ride On Pant  Nailon  Azul  Dark Mountain   Talla XL  1748081'
 ---
 
 Tienes [Columbia Pantalón de esquí impermeable para hombre  Ride On Pant  Nailon  Azul  Dark Mountain   Talla XL  1748081](https://www.amazon.es/dp/B07FGYGZHN/?tag=tolees-21) con un 46.54 % de descuento con precio de oferta de 53.45 EUR (original: 99.99 EUR) en el siguiente enlace!

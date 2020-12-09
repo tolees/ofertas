@@ -14,7 +14,7 @@ currency: EUR
 price: 37.45
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Suecos Alma  Zapatillas de Deporte Unisex Adulto  Azul  Blue   43 EU
+prodname: 'Suecos Alma  Zapatillas de Deporte Unisex Adulto  Azul  Blue   43 EU'
 ---
 
 Está [Suecos Alma  Zapatillas de Deporte Unisex Adulto  Azul  Blue   43 EU](https://www.amazon.es/dp/B01ELRLZ5Q/?tag=tolees-21) con 46.42 de descuento por 37.45 EUR (original: 69.9 EUR) en el siguiente enlace!

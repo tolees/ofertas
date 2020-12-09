@@ -14,7 +14,7 @@ currency: EUR
 price: 10.42
 comparePrice: 32.95 EUR
 inStock: true
-prodname: Tuc Tuc Prenda Vaquera Graphic Falda  Niñas  Gris  Gris 09   12 años  Tamaño del Fabricante:12A 
+prodname: 'Tuc Tuc Prenda Vaquera Graphic Falda  Niñas  Gris  Gris 09   12 años  Tamaño del Fabricante:12A '
 ---
 
 Tienes [Tuc Tuc Prenda Vaquera Graphic Falda  Niñas  Gris  Gris 09   12 años  Tamaño del Fabricante:12A ](https://www.amazon.es/dp/B07GBF8SQP/?tag=tolees-21) con un 68.38 % de descuento con precio de oferta de 10.42 EUR (original: 32.95 EUR) en el siguiente enlace!

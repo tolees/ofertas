@@ -14,7 +14,7 @@ currency: EUR
 price: 13.07
 comparePrice: 38.44 EUR
 inStock: true
-prodname: Li-Ning Mujer Chaqueta Jessie  otoño/Invierno  Mujer  Color Negro  tamaño XL
+prodname: 'Li-Ning Mujer Chaqueta Jessie  otoño/Invierno  Mujer  Color Negro  tamaño XL'
 ---
 
 Tienes [Li-Ning Mujer Chaqueta Jessie  otoño/Invierno  Mujer  Color Negro  tamaño XL](https://www.amazon.es/dp/B01KIKMS9W/?tag=tolees-21) con un 66.00 % de descuento con precio de oferta de 13.07 EUR (original: 38.44 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.95
 comparePrice: 5.95 EUR
 inStock: true
-prodname: Pyramid International Stranger Things - Tech Stickers
+prodname: 'Pyramid International Stranger Things - Tech Stickers'
 ---
 
 Está [Pyramid International Stranger Things - Tech Stickers](https://www.amazon.es/dp/B07RTXB3ZY/?tag=tolees-21) con 33.61 de descuento por 3.95 EUR (original: 5.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.5
 comparePrice: 38.0 EUR
 inStock: true
-prodname: Vans SS20 Mochila Antigua SKOOL III OS Classic Camo
+prodname: 'Vans SS20 Mochila Antigua SKOOL III OS Classic Camo'
 ---
 
 Ahora mismo tienes [Vans SS20 Mochila Antigua SKOOL III OS Classic Camo](https://www.amazon.es/dp/B07QL1L5RV/?tag=tolees-21) a 17.5 EUR (original: 38.0 EUR) (53.95 %  de descuento) en el siguiente enlace!

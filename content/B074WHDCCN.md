@@ -14,7 +14,7 @@ currency: EUR
 price: 6.49
 comparePrice: 12.32 EUR
 inStock: true
-prodname: Matar A Un Ruiseñor - Edición Metálica Limitada [Blu-ray]
+prodname: 'Matar A Un Ruiseñor - Edición Metálica Limitada [Blu-ray]'
 ---
 
 Ahora mismo tienes [Matar A Un Ruiseñor - Edición Metálica Limitada [Blu-ray]](https://www.amazon.es/dp/B074WHDCCN/?tag=tolees-21) a 6.49 EUR (original: 12.32 EUR) (47.32 %  de descuento) en el siguiente enlace!

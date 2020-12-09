@@ -14,7 +14,7 @@ currency: EUR
 price: 84.38
 comparePrice: 124.99 EUR
 inStock: true
-prodname: Braun Minipimer MQ745 Aperitif - Batidora de mano  750 W  accesorio picadora 350 ml  varillas  picador hielo  vaso medidor 0.6 l  negro y plata
+prodname: 'Braun Minipimer MQ745 Aperitif - Batidora de mano  750 W  accesorio picadora 350 ml  varillas  picador hielo  vaso medidor 0.6 l  negro y plata'
 ---
 
 Ahora mismo tienes [Braun Minipimer MQ745 Aperitif - Batidora de mano  750 W  accesorio picadora 350 ml  varillas  picador hielo  vaso medidor 0.6 l  negro y plata](https://www.amazon.es/dp/B00EQB0ZY0/?tag=tolees-21) a 84.38 EUR (original: 124.99 EUR) (32.49 %  de descuento) en el siguiente enlace!

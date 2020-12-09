@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Crocs Sanrah Strappy Wedge  Mujer Sandalia  Negro  Black   38-39 EU
+prodname: 'Crocs Sanrah Strappy Wedge  Mujer Sandalia  Negro  Black   38-39 EU'
 ---
 
 Ahora mismo tienes [Crocs Sanrah Strappy Wedge  Mujer Sandalia  Negro  Black   38-39 EU](https://www.amazon.es/dp/B01HQAURYU/?tag=tolees-21) a 23.95 EUR (original: 39.99 EUR) (40.11 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 52.0
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Swarovski Pendientes de Aro Stone  Blanco  Baño de Rodio
+prodname: 'Swarovski Pendientes de Aro Stone  Blanco  Baño de Rodio'
 ---
 
 Está [Swarovski Pendientes de Aro Stone  Blanco  Baño de Rodio](https://www.amazon.es/dp/B078SBNNTY/?tag=tolees-21) con 47.47 de descuento por 52.0 EUR (original: 99.0 EUR) en el siguiente enlace!

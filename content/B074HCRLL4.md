@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: PUMA FOOTIE Calcetines  Blanco  White 300   43-46  Pack de 3  para Hombre
+prodname: 'PUMA FOOTIE Calcetines  Blanco  White 300   43-46  Pack de 3  para Hombre'
 ---
 
 Tienes [PUMA FOOTIE Calcetines  Blanco  White 300   43-46  Pack de 3  para Hombre](https://www.amazon.es/dp/B074HCRLL4/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

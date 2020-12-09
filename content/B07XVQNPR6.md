@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Esprit 119ee1f007 Blusa  Negro  Black 001   36  Talla del Fabricante: 34  para Mujer
+prodname: 'Esprit 119ee1f007 Blusa  Negro  Black 001   36  Talla del Fabricante: 34  para Mujer'
 ---
 
 Tienes [Esprit 119ee1f007 Blusa  Negro  Black 001   36  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B07XVQNPR6/?tag=tolees-21) con un 62.52 % de descuento con precio de oferta de 14.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.18
 comparePrice: 28.95 EUR
 inStock: true
-prodname: Theo Klein 3903 Tractor John Deere  Con cargador frontal y contrapeso  Desmontable en piezas individuales  Medidas: 24.5 cm x 9.5 cm x 12 cm  Juguete para niños a partir de 3 años
+prodname: 'Theo Klein 3903 Tractor John Deere  Con cargador frontal y contrapeso  Desmontable en piezas individuales  Medidas: 24.5 cm x 9.5 cm x 12 cm  Juguete para niños a partir de 3 años'
 ---
 
 Tienes [Theo Klein 3903 Tractor John Deere  Con cargador frontal y contrapeso  Desmontable en piezas individuales  Medidas: 24.5 cm x 9.5 cm x 12 cm  Juguete para niños a partir de 3 años](https://www.amazon.es/dp/B00TKXCT8Y/?tag=tolees-21) con un 33.75 % de descuento con precio de oferta de 19.18 EUR (original: 28.95 EUR) en el siguiente enlace!

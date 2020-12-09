@@ -14,7 +14,7 @@ currency: EUR
 price: 15.39
 comparePrice: 22.51 EUR
 inStock: true
-prodname: X-Men: Fénix Oscura Blu-Ray [Blu-ray]
+prodname: 'X-Men: Fénix Oscura Blu-Ray [Blu-ray]'
 ---
 
 Está [X-Men: Fénix Oscura Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07SRXNM5M/?tag=tolees-21) con 31.63 de descuento por 15.39 EUR (original: 22.51 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.0
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Pack: Monstruos Clásicos Universal  BD  [Blu-ray]  9 PELÍCULAS 
+prodname: 'Pack: Monstruos Clásicos Universal  BD  [Blu-ray]  9 PELÍCULAS '
 ---
 
 Tienes [Pack: Monstruos Clásicos Universal  BD  [Blu-ray]  9 PELÍCULAS ](https://www.amazon.es/dp/B07XFMBVFX/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 20.0 EUR (original: 39.99 EUR) en el siguiente enlace!

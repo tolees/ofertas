@@ -14,7 +14,7 @@ currency: EUR
 price: 15.08
 comparePrice: 29.11 EUR
 inStock: true
-prodname: Lansay 33131 Kit de Manualidades para niños - Kits de Manualidades para niños  Chica  6 año s   Niño  305 mm  85 mm  260 mm 
+prodname: 'Lansay 33131 Kit de Manualidades para niños - Kits de Manualidades para niños  Chica  6 año s   Niño  305 mm  85 mm  260 mm '
 ---
 
 Está [Lansay 33131 Kit de Manualidades para niños - Kits de Manualidades para niños  Chica  6 año s   Niño  305 mm  85 mm  260 mm ](https://www.amazon.es/dp/B06XJ57XGH/?tag=tolees-21) con 48.20 de descuento por 15.08 EUR (original: 29.11 EUR) en el siguiente enlace!

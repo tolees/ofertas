@@ -14,7 +14,7 @@ currency: EUR
 price: 17.59
 comparePrice: 111 EUR
 inStock: true
-prodname: Nike Wmns Blazer Mid Lth Vntg  Zapatillas para Mujer  Multicolor  Black/Volt-Wolf Grey-Anthracite 004   40.5 EU
+prodname: 'Nike Wmns Blazer Mid Lth Vntg  Zapatillas para Mujer  Multicolor  Black/Volt-Wolf Grey-Anthracite 004   40.5 EU'
 ---
 
 Tienes [Nike Wmns Blazer Mid Lth Vntg  Zapatillas para Mujer  Multicolor  Black/Volt-Wolf Grey-Anthracite 004   40.5 EU](https://www.amazon.es/dp/B00MPPOO28/?tag=tolees-21) con un 84.15 % de descuento con precio de oferta de 17.59 EUR (original: 111 EUR) en el siguiente enlace!

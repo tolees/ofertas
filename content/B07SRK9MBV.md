@@ -14,7 +14,7 @@ currency: EUR
 price: 40.64
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox D AIRELL B  Zapatillas  Gris  Lt Grey C1010   35 EU
+prodname: 'Geox D AIRELL B  Zapatillas  Gris  Lt Grey C1010   35 EU'
 ---
 
 Ahora mismo tienes [Geox D AIRELL B  Zapatillas  Gris  Lt Grey C1010   35 EU](https://www.amazon.es/dp/B07SRK9MBV/?tag=tolees-21) a 40.64 EUR (original: 99.9 EUR) (59.32 %  de descuento) en el siguiente enlace!

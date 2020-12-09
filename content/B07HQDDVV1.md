@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: E-YOOSO Teclado y Mouse Inalámbricos con LAYOUT Español Silencioso con 3 DPI Ajustable Diseño Ultra Delgado  para Windows Mac PS4 XBOX Oficina y Hogar[Clase de Eficiencia Energética A +++]
+prodname: 'E-YOOSO Teclado y Mouse Inalámbricos con LAYOUT Español Silencioso con 3 DPI Ajustable Diseño Ultra Delgado  para Windows Mac PS4 XBOX Oficina y Hogar[Clase de Eficiencia Energética A +++]'
 ---
 
 Ahora mismo tienes [E-YOOSO Teclado y Mouse Inalámbricos con LAYOUT Español Silencioso con 3 DPI Ajustable Diseño Ultra Delgado  para Windows Mac PS4 XBOX Oficina y Hogar[Clase de Eficiencia Energética A +++]](https://www.amazon.es/dp/B07HQDDVV1/?tag=tolees-21) a 9.99 EUR (original: 59.99 EUR) (83.35 %  de descuento) en el siguiente enlace!

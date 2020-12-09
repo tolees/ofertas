@@ -14,7 +14,7 @@ currency: EUR
 price: 33.9
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Roxy Here You Are Mix Mochila Mediana  Mujer  Gris/Negro  True Black Dots for Days   23.5 l
+prodname: 'Roxy Here You Are Mix Mochila Mediana  Mujer  Gris/Negro  True Black Dots for Days   23.5 l'
 ---
 
 Ahora mismo tienes [Roxy Here You Are Mix Mochila Mediana  Mujer  Gris/Negro  True Black Dots for Days   23.5 l](https://www.amazon.es/dp/B07DHV3FJH/?tag=tolees-21) a 33.9 EUR (original: 49.99 EUR) (32.19 %  de descuento) en el siguiente enlace!

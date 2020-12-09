@@ -14,7 +14,7 @@ currency: EUR
 price: 23.2
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Mustang Schnür-Stiefelette  Botas Clasicas para Hombre  Negro  Schwarz 9   44 EU
+prodname: 'Mustang Schnür-Stiefelette  Botas Clasicas para Hombre  Negro  Schwarz 9   44 EU'
 ---
 
 Está [Mustang Schnür-Stiefelette  Botas Clasicas para Hombre  Negro  Schwarz 9   44 EU](https://www.amazon.es/dp/B07D9VWS2D/?tag=tolees-21) con 76.79 de descuento por 23.2 EUR (original: 99.95 EUR) en el siguiente enlace!

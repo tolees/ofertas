@@ -14,7 +14,7 @@ currency: EUR
 price: 5.53
 comparePrice: 11.6 EUR
 inStock: true
-prodname: Quantum Mechanix Star Trek Discovery - Insignia de operaciones
+prodname: 'Quantum Mechanix Star Trek Discovery - Insignia de operaciones'
 ---
 
 Está [Quantum Mechanix Star Trek Discovery - Insignia de operaciones](https://www.amazon.es/dp/B074ZMGFW2/?tag=tolees-21) con 52.33 de descuento por 5.53 EUR (original: 11.6 EUR) en el siguiente enlace!

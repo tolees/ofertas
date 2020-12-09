@@ -14,7 +14,7 @@ currency: EUR
 price: 91.58
 comparePrice: 200.0 EUR
 inStock: true
-prodname: Timberland Radford 6-Inch Waterproof  Botas Chukka Hombre  Negro Black Nubuck  41 EU
+prodname: 'Timberland Radford 6-Inch Waterproof  Botas Chukka Hombre  Negro Black Nubuck  41 EU'
 ---
 
 Tienes [Timberland Radford 6-Inch Waterproof  Botas Chukka Hombre  Negro Black Nubuck  41 EU](https://www.amazon.es/dp/B072WWD8LD/?tag=tolees-21) con un 54.21 % de descuento con precio de oferta de 91.58 EUR (original: 200.0 EUR) en el siguiente enlace!

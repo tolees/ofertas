@@ -14,7 +14,7 @@ currency: EUR
 price: 4.85
 comparePrice: 11.57 EUR
 inStock: true
-prodname: IBILI 450726 - Sarten para Castañas 26 Cm
+prodname: 'IBILI 450726 - Sarten para Castañas 26 Cm'
 ---
 
 Ahora mismo tienes [IBILI 450726 - Sarten para Castañas 26 Cm](https://www.amazon.es/dp/B00IZNEBAY/?tag=tolees-21) a 4.85 EUR (original: 11.57 EUR) (58.08 %  de descuento) en el siguiente enlace!

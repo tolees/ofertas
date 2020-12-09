@@ -14,7 +14,7 @@ currency: EUR
 price: 12.49
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Magic Kidchen - Heladera mágica  Funtastic 03201 
+prodname: 'Magic Kidchen - Heladera mágica  Funtastic 03201 '
 ---
 
 Tienes [Magic Kidchen - Heladera mágica  Funtastic 03201 ](https://www.amazon.es/dp/B01GDZL7AW/?tag=tolees-21) con un 37.39 % de descuento con precio de oferta de 12.49 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 31.47
 comparePrice: 46.22 EUR
 inStock: true
-prodname: Naf Naf GHNR44-Vestido Mujer Azul  Bleu Marine 567  38  Talla del Fabricante: 38 
+prodname: 'Naf Naf GHNR44-Vestido Mujer Azul  Bleu Marine 567  38  Talla del Fabricante: 38 '
 ---
 
 Ahora mismo tienes [Naf Naf GHNR44-Vestido Mujer Azul  Bleu Marine 567  38  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B071HPPB6M/?tag=tolees-21) a 31.47 EUR (original: 46.22 EUR) (31.91 %  de descuento) en el siguiente enlace!

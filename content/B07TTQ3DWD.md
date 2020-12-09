@@ -14,7 +14,7 @@ currency: EUR
 price: 21.92
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Wrangler SS Rainbow tee Camiseta  Verde  Peacock Green 082   Medium para Hombre
+prodname: 'Wrangler SS Rainbow tee Camiseta  Verde  Peacock Green 082   Medium para Hombre'
 ---
 
 Tienes [Wrangler SS Rainbow tee Camiseta  Verde  Peacock Green 082   Medium para Hombre](https://www.amazon.es/dp/B07TTQ3DWD/?tag=tolees-21) con un 37.28 % de descuento con precio de oferta de 21.92 EUR (original: 34.95 EUR) en el siguiente enlace!

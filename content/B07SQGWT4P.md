@@ -14,7 +14,7 @@ currency: EUR
 price: 43.53
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox D SUZZIE B  Zapatillas Mujer  Marfil  Off White/Lt Blue C0160   40 EU
+prodname: 'Geox D SUZZIE B  Zapatillas Mujer  Marfil  Off White/Lt Blue C0160   40 EU'
 ---
 
 Tienes [Geox D SUZZIE B  Zapatillas Mujer  Marfil  Off White/Lt Blue C0160   40 EU](https://www.amazon.es/dp/B07SQGWT4P/?tag=tolees-21) con un 60.39 % de descuento con precio de oferta de 43.53 EUR (original: 109.9 EUR) en el siguiente enlace!

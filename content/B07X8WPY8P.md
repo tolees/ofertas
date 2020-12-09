@@ -14,7 +14,7 @@ currency: EUR
 price: 129.0
 comparePrice: 235.0 EUR
 inStock: true
-prodname: Cerradura electrónica inteligente Remock Lockey Magic con cilindro 35x35 Latón
+prodname: 'Cerradura electrónica inteligente Remock Lockey Magic con cilindro 35x35 Latón'
 ---
 
 Está [Cerradura electrónica inteligente Remock Lockey Magic con cilindro 35x35 Latón](https://www.amazon.es/dp/B07X8WPY8P/?tag=tolees-21) con 45.11 de descuento por 129.0 EUR (original: 235.0 EUR) en el siguiente enlace!

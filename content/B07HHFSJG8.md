@@ -14,7 +14,7 @@ currency: EUR
 price: 35.27
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Lee Slim Western Blusa  Azul  Heather Blue LI   X-Large para Mujer
+prodname: 'Lee Slim Western Blusa  Azul  Heather Blue LI   X-Large para Mujer'
 ---
 
 Está [Lee Slim Western Blusa  Azul  Heather Blue LI   X-Large para Mujer](https://www.amazon.es/dp/B07HHFSJG8/?tag=tolees-21) con 52.94 de descuento por 35.27 EUR (original: 74.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.0
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Zapatillas de Casa para Mujer Invierno Interior Exterior Antideslizantes Slippers Morado 39
+prodname: 'Zapatillas de Casa para Mujer Invierno Interior Exterior Antideslizantes Slippers Morado 39'
 ---
 
 Ahora mismo tienes [Zapatillas de Casa para Mujer Invierno Interior Exterior Antideslizantes Slippers Morado 39](https://www.amazon.es/dp/B07W4PK8FR/?tag=tolees-21) a 18.0 EUR (original: 27.99 EUR) (35.69 %  de descuento) en el siguiente enlace!

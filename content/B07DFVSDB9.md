@@ -14,7 +14,7 @@ currency: EUR
 price: 28.27
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Puma Ignite 3/4 Tight W Pants  Mujer  Black  M
+prodname: 'Puma Ignite 3/4 Tight W Pants  Mujer  Black  M'
 ---
 
 Tienes [Puma Ignite 3/4 Tight W Pants  Mujer  Black  M](https://www.amazon.es/dp/B07DFVSDB9/?tag=tolees-21) con un 37.11 % de descuento con precio de oferta de 28.27 EUR (original: 44.95 EUR) en el siguiente enlace!

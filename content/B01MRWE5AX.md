@@ -14,7 +14,7 @@ currency: EUR
 price: 29.97
 comparePrice: 49.97 EUR
 inStock: true
-prodname: KLIM™ Wind + Base de refrigeración para portátil + La más Potente + Refrigerador portátil de 4 Ventiladores a 1200 RPM con Soporte + Compatible con Todos los tamaños + Verde + Nueva VERSIÓN 2020
+prodname: 'KLIM™ Wind + Base de refrigeración para portátil + La más Potente + Refrigerador portátil de 4 Ventiladores a 1200 RPM con Soporte + Compatible con Todos los tamaños + Verde + Nueva VERSIÓN 2020'
 ---
 
 Ahora mismo tienes [KLIM™ Wind + Base de refrigeración para portátil + La más Potente + Refrigerador portátil de 4 Ventiladores a 1200 RPM con Soporte + Compatible con Todos los tamaños + Verde + Nueva VERSIÓN 2020](https://www.amazon.es/dp/B01MRWE5AX/?tag=tolees-21) a 29.97 EUR (original: 49.97 EUR) (40.02 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.93
 comparePrice: 160 EUR
 inStock: true
-prodname: Clarks Clarkdale Axel  Botas Slouch para Mujer  Marrón  Dark Tan Suede   36 EU
+prodname: 'Clarks Clarkdale Axel  Botas Slouch para Mujer  Marrón  Dark Tan Suede   36 EU'
 ---
 
 Ahora mismo tienes [Clarks Clarkdale Axel  Botas Slouch para Mujer  Marrón  Dark Tan Suede   36 EU](https://www.amazon.es/dp/B07B9BYMXZ/?tag=tolees-21) a 29.93 EUR (original: 160 EUR) (81.29 %  de descuento) en el siguiente enlace!

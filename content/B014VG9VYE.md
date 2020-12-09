@@ -14,7 +14,7 @@ currency: EUR
 price: 25.86
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Clarks Couture Bloom  Bailarinas para Mujer  Negro  Black Patent   37.5 EU
+prodname: 'Clarks Couture Bloom  Bailarinas para Mujer  Negro  Black Patent   37.5 EU'
 ---
 
 Está [Clarks Couture Bloom  Bailarinas para Mujer  Negro  Black Patent   37.5 EU](https://www.amazon.es/dp/B014VG9VYE/?tag=tolees-21) con 63.03 de descuento por 25.86 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 106.89
 comparePrice: 159.0 EUR
 inStock: true
-prodname: Bosch Hidrolimpiadora de Alta Presión UniversalAquatak 130  1700 W  130 Bares 
+prodname: 'Bosch Hidrolimpiadora de Alta Presión UniversalAquatak 130  1700 W  130 Bares '
 ---
 
 Ahora mismo tienes [Bosch Hidrolimpiadora de Alta Presión UniversalAquatak 130  1700 W  130 Bares ](https://www.amazon.es/dp/B06XRFXDZ4/?tag=tolees-21) a 106.89 EUR (original: 159.0 EUR) (32.77 %  de descuento) en el siguiente enlace!

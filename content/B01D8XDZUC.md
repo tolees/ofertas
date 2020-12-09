@@ -14,7 +14,7 @@ currency: EUR
 price: 190.42
 comparePrice: 261.04 EUR
 inStock: true
-prodname: ITCPOWER IT-GPH50 Motobomba gasolina alta presión  4780 W
+prodname: 'ITCPOWER IT-GPH50 Motobomba gasolina alta presión  4780 W'
 ---
 
 Ahora mismo tienes [ITCPOWER IT-GPH50 Motobomba gasolina alta presión  4780 W](https://www.amazon.es/dp/B01D8XDZUC/?tag=tolees-21) a 190.42 EUR (original: 261.04 EUR) (27.05 %  de descuento) en el siguiente enlace!

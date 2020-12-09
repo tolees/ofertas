@@ -14,7 +14,7 @@ currency: EUR
 price: 173.64
 comparePrice: 234.52 EUR
 inStock: true
-prodname: HP CE401YC - Tóner 507A XL  color cian
+prodname: 'HP CE401YC - Tóner 507A XL  color cian'
 ---
 
 Ahora mismo tienes [HP CE401YC - Tóner 507A XL  color cian](https://www.amazon.es/dp/B00TJ2BC2A/?tag=tolees-21) a 173.64 EUR (original: 234.52 EUR) (25.96 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 124.03
 comparePrice: 260 EUR
 inStock: true
-prodname: Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Olympian Blue  L
+prodname: 'Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Olympian Blue  L'
 ---
 
 Tienes [Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Olympian Blue  L](https://www.amazon.es/dp/B06XHGPDTC/?tag=tolees-21) con un 52.30 % de descuento con precio de oferta de 124.03 EUR (original: 260 EUR) en el siguiente enlace!

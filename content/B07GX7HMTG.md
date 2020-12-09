@@ -14,7 +14,7 @@ currency: EUR
 price: 25.2
 comparePrice: 50 EUR
 inStock: true
-prodname: New Balance MC Season UPF Polo  Mujer  Gris  Arctic Sky   M
+prodname: 'New Balance MC Season UPF Polo  Mujer  Gris  Arctic Sky   M'
 ---
 
 Está [New Balance MC Season UPF Polo  Mujer  Gris  Arctic Sky   M](https://www.amazon.es/dp/B07GX7HMTG/?tag=tolees-21) con 49.60 de descuento por 25.2 EUR (original: 50 EUR) en el siguiente enlace!

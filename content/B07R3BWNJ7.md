@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Hawiton Pijama Hombre Verano Corto Manga Corta Conjunto de Pijamas Algodón Camiseta y Pantalones Corto de a Cuadros
+prodname: 'Hawiton Pijama Hombre Verano Corto Manga Corta Conjunto de Pijamas Algodón Camiseta y Pantalones Corto de a Cuadros'
 ---
 
 Ahora mismo tienes [Hawiton Pijama Hombre Verano Corto Manga Corta Conjunto de Pijamas Algodón Camiseta y Pantalones Corto de a Cuadros](https://www.amazon.es/dp/B07R3BWNJ7/?tag=tolees-21) a 24.99 EUR (original: 49.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

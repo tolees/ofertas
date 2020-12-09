@@ -14,7 +14,7 @@ currency: EUR
 price: 199.45
 comparePrice: 329 EUR
 inStock: true
-prodname: Suunto - Spartan Trainer Wrist HR - SS023408000 - Amber  Ámbar  - Talla única
+prodname: 'Suunto - Spartan Trainer Wrist HR - SS023408000 - Amber  Ámbar  - Talla única'
 ---
 
 Está [Suunto - Spartan Trainer Wrist HR - SS023408000 - Amber  Ámbar  - Talla única](https://www.amazon.es/dp/B077TNDRVX/?tag=tolees-21) con 39.38 de descuento por 199.45 EUR (original: 329 EUR) en el siguiente enlace!

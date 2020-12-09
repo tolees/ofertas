@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 59.89 EUR
 inStock: true
-prodname: Energy Sistem Earphones Style 6 True Wireless  Auriculares inalambricos  True Wireless Stereo  Easy Connect  Charging Case -Negro
+prodname: 'Energy Sistem Earphones Style 6 True Wireless  Auriculares inalambricos  True Wireless Stereo  Easy Connect  Charging Case -Negro'
 ---
 
 Ahora mismo tienes [Energy Sistem Earphones Style 6 True Wireless  Auriculares inalambricos  True Wireless Stereo  Easy Connect  Charging Case -Negro](https://www.amazon.es/dp/B07LGMGZQL/?tag=tolees-21) a 39.99 EUR (original: 59.89 EUR) (33.23 %  de descuento) en el siguiente enlace!

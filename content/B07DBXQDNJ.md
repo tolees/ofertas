@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Puma Epic Flip v2  Chanclas Unisex Adulto  Verde  ELM-Olivine   37 EU
+prodname: 'Puma Epic Flip v2  Chanclas Unisex Adulto  Verde  ELM-Olivine   37 EU'
 ---
 
 Está [Puma Epic Flip v2  Chanclas Unisex Adulto  Verde  ELM-Olivine   37 EU](https://www.amazon.es/dp/B07DBXQDNJ/?tag=tolees-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

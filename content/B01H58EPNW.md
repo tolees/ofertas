@@ -14,7 +14,7 @@ currency: EUR
 price: 11.11
 comparePrice: 43.13 EUR
 inStock: true
-prodname: Blend 20701278  Jersey para Hombre  Black/ 70155 L
+prodname: 'Blend 20701278  Jersey para Hombre  Black/ 70155 L'
 ---
 
 Está [Blend 20701278  Jersey para Hombre  Black/ 70155 L](https://www.amazon.es/dp/B01H58EPNW/?tag=tolees-21) con 74.24 de descuento por 11.11 EUR (original: 43.13 EUR) en el siguiente enlace!

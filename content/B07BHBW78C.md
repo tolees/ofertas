@@ -14,7 +14,7 @@ currency: EUR
 price: 41.65
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Kipling Gabbie S  Bolsos Bandolera para Mujer  Negro  Lively Black   29x22x16.5 cm
+prodname: 'Kipling Gabbie S  Bolsos Bandolera para Mujer  Negro  Lively Black   29x22x16.5 cm'
 ---
 
 Está [Kipling Gabbie S  Bolsos Bandolera para Mujer  Negro  Lively Black   29x22x16.5 cm](https://www.amazon.es/dp/B07BHBW78C/?tag=tolees-21) con 47.87 de descuento por 41.65 EUR (original: 79.9 EUR) en el siguiente enlace!

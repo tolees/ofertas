@@ -14,7 +14,7 @@ currency: EUR
 price: 10.0
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Under Armour Prototype Logos Pantalones Cortos  Niños  Azul  YSM
+prodname: 'Under Armour Prototype Logos Pantalones Cortos  Niños  Azul  YSM'
 ---
 
 Tienes [Under Armour Prototype Logos Pantalones Cortos  Niños  Azul  YSM](https://www.amazon.es/dp/B07H1GXXHQ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 10.0 EUR (original: 20.0 EUR) en el siguiente enlace!

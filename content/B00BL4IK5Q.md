@@ -14,7 +14,7 @@ currency: EUR
 price: 0.99
 comparePrice: 1.52 EUR
 inStock: true
-prodname: SOS Arroz Redondo - 1 kg
+prodname: 'SOS Arroz Redondo - 1 kg'
 ---
 
 Está [SOS Arroz Redondo - 1 kg](https://www.amazon.es/dp/B00BL4IK5Q/?tag=tolees-21) con 34.87 de descuento por 0.99 EUR (original: 1.52 EUR) en el siguiente enlace!

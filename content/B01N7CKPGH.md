@@ -14,7 +14,7 @@ currency: EUR
 price: 11.9
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Patrulla Canina - Copy Machine  Simba 9413054 
+prodname: 'Patrulla Canina - Copy Machine  Simba 9413054 '
 ---
 
 Ahora mismo tienes [Patrulla Canina - Copy Machine  Simba 9413054 ](https://www.amazon.es/dp/B01N7CKPGH/?tag=tolees-21) a 11.9 EUR (original: 39.99 EUR) (70.24 %  de descuento) en el siguiente enlace!

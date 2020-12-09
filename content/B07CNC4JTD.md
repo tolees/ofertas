@@ -14,7 +14,7 @@ currency: EUR
 price: 14.06
 comparePrice: 26.5 EUR
 inStock: true
-prodname: HOM Classic Mini Briefs  Bañador Hombre  Rojo  Bordeaux 00zq   Large
+prodname: 'HOM Classic Mini Briefs  Bañador Hombre  Rojo  Bordeaux 00zq   Large'
 ---
 
 Ahora mismo tienes [HOM Classic Mini Briefs  Bañador Hombre  Rojo  Bordeaux 00zq   Large](https://www.amazon.es/dp/B07CNC4JTD/?tag=tolees-21) a 14.06 EUR (original: 26.5 EUR) (46.94 %  de descuento) en el siguiente enlace!

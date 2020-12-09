@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 30.16 EUR
 inStock: true
-prodname: Pantalón Corto Deportivo para Mujer  Running Pantalones cortos de yoga con bolsillo lateral   Fitness Mallas Deportivas  Polainas de yoga Fitness  Morado  XL 
+prodname: 'Pantalón Corto Deportivo para Mujer  Running Pantalones cortos de yoga con bolsillo lateral   Fitness Mallas Deportivas  Polainas de yoga Fitness  Morado  XL '
 ---
 
 Tienes [Pantalón Corto Deportivo para Mujer  Running Pantalones cortos de yoga con bolsillo lateral   Fitness Mallas Deportivas  Polainas de yoga Fitness  Morado  XL ](https://www.amazon.es/dp/B07FS3FYY4/?tag=tolees-21) con un 50.30 % de descuento con precio de oferta de 14.99 EUR (original: 30.16 EUR) en el siguiente enlace!

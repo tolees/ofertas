@@ -14,7 +14,7 @@ currency: EUR
 price: 35
 comparePrice: 50 EUR
 inStock: true
-prodname: FIND Croc Embellished Leather Botines  Negro Black  40 EU
+prodname: 'FIND Croc Embellished Leather Botines  Negro Black  40 EU'
 ---
 
 Está [FIND Croc Embellished Leather Botines  Negro Black  40 EU](https://www.amazon.es/dp/B07G1DXPKN/?tag=tolees-21) con 30.00 de descuento por 35 EUR (original: 50 EUR) en el siguiente enlace!

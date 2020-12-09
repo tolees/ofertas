@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 31.99 EUR
 inStock: true
-prodname: Selvim Anillo de Luz LED  Aro de Luz Fotográfica con Soporte para Móviles de Brazo Flexible a 360°  3 Modos de Luz y 10 Brillos  6" con 64 Bombillas para Selfie  Maquillaje  TIK tok  Youtube
+prodname: 'Selvim Anillo de Luz LED  Aro de Luz Fotográfica con Soporte para Móviles de Brazo Flexible a 360°  3 Modos de Luz y 10 Brillos  6" con 64 Bombillas para Selfie  Maquillaje  TIK tok  Youtube'
 ---
 
 Ahora mismo tienes [Selvim Anillo de Luz LED  Aro de Luz Fotográfica con Soporte para Móviles de Brazo Flexible a 360°  3 Modos de Luz y 10 Brillos  6" con 64 Bombillas para Selfie  Maquillaje  TIK tok  Youtube](https://www.amazon.es/dp/B07YB2YRTL/?tag=tolees-21) a 15.99 EUR (original: 31.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

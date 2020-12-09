@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 40.96 EUR
 inStock: true
-prodname: Pablosky Sandalias con Punta Abierta para Niñas   Blanco 462500   28 EU
+prodname: 'Pablosky Sandalias con Punta Abierta para Niñas   Blanco 462500   28 EU'
 ---
 
 Tienes [Pablosky Sandalias con Punta Abierta para Niñas   Blanco 462500   28 EU](https://www.amazon.es/dp/B07MQDBVPZ/?tag=tolees-21) con un 26.88 % de descuento con precio de oferta de 29.95 EUR (original: 40.96 EUR) en el siguiente enlace!

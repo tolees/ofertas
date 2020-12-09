@@ -14,7 +14,7 @@ currency: EUR
 price: 19.93
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Quiksilver Everyday Shorts  Hombre  Virtual Pink  M
+prodname: 'Quiksilver Everyday Shorts  Hombre  Virtual Pink  M'
 ---
 
 Ahora mismo tienes [Quiksilver Everyday Shorts  Hombre  Virtual Pink  M](https://www.amazon.es/dp/B07KJWVP76/?tag=tolees-21) a 19.93 EUR (original: 29.99 EUR) (33.54 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.32
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Levi s kids Nn15527 22 Sweat Shirt  Sudadera Niñas  Gris  Light China Grey 22   3 años  Talla del Fabricante: 3Y 
+prodname: 'Levi s kids Nn15527 22 Sweat Shirt  Sudadera Niñas  Gris  Light China Grey 22   3 años  Talla del Fabricante: 3Y '
 ---
 
 Ahora mismo tienes [Levi s kids Nn15527 22 Sweat Shirt  Sudadera Niñas  Gris  Light China Grey 22   3 años  Talla del Fabricante: 3Y ](https://www.amazon.es/dp/B07K5N4QVS/?tag=tolees-21) a 30.32 EUR (original: 69.95 EUR) (56.65 %  de descuento) en el siguiente enlace!

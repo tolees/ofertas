@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 208.65 EUR
 inStock: true
-prodname: Umi. Essentials Silla Oficina  Silla de Escritorio  Silla administrtiva Ergonómica Negro 
+prodname: 'Umi. Essentials Silla Oficina  Silla de Escritorio  Silla administrtiva Ergonómica Negro '
 ---
 
 Tienes [Umi. Essentials Silla Oficina  Silla de Escritorio  Silla administrtiva Ergonómica Negro ](https://www.amazon.es/dp/B07MCTNKQ2/?tag=tolees-21) con un 56.87 % de descuento con precio de oferta de 89.99 EUR (original: 208.65 EUR) en el siguiente enlace!

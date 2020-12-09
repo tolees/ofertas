@@ -14,7 +14,7 @@ currency: EUR
 price: 45.46
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Reebok Speed Her TR  Zapatillas de Deporte para Mujer   Face-Almost Gry/Smok 0   38.5 EU
+prodname: 'Reebok Speed Her TR  Zapatillas de Deporte para Mujer   Face-Almost Gry/Smok 0   38.5 EU'
 ---
 
 Ahora mismo tienes [Reebok Speed Her TR  Zapatillas de Deporte para Mujer   Face-Almost Gry/Smok 0   38.5 EU](https://www.amazon.es/dp/B07DCVG26W/?tag=tolees-21) a 45.46 EUR (original: 99.95 EUR) (54.52 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.98
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Cámara IP WiFi  LXMIMI HD 1080P Cámara de Vigilancia con Visión Nocturna Detección de Movimiento Audio de 2 Vías Cámara Seguridad y Inalámbrica Cámara Dome para Bebé Mascotas Perros Casa
+prodname: 'Cámara IP WiFi  LXMIMI HD 1080P Cámara de Vigilancia con Visión Nocturna Detección de Movimiento Audio de 2 Vías Cámara Seguridad y Inalámbrica Cámara Dome para Bebé Mascotas Perros Casa'
 ---
 
 Ahora mismo tienes [Cámara IP WiFi  LXMIMI HD 1080P Cámara de Vigilancia con Visión Nocturna Detección de Movimiento Audio de 2 Vías Cámara Seguridad y Inalámbrica Cámara Dome para Bebé Mascotas Perros Casa](https://www.amazon.es/dp/B07H8FX8BF/?tag=tolees-21) a 49.98 EUR (original: 199.99 EUR) (75.01 %  de descuento) en el siguiente enlace!

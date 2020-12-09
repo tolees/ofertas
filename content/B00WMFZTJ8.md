@@ -14,7 +14,7 @@ currency: EUR
 price: 11.45
 comparePrice: 25 EUR
 inStock: true
-prodname: DC Comics Distressed Flash Logo Camiseta  Rojo  Rot   7-8 años  128/130 cm  para Niños
+prodname: 'DC Comics Distressed Flash Logo Camiseta  Rojo  Rot   7-8 años  128/130 cm  para Niños'
 ---
 
 Tienes [DC Comics Distressed Flash Logo Camiseta  Rojo  Rot   7-8 años  128/130 cm  para Niños](https://www.amazon.es/dp/B00WMFZTJ8/?tag=tolees-21) con un 54.20 % de descuento con precio de oferta de 11.45 EUR (original: 25 EUR) en el siguiente enlace!

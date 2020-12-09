@@ -14,7 +14,7 @@ currency: EUR
 price: 15.13
 comparePrice: 149.99 EUR
 inStock: true
-prodname: SELECTED HOMME Slhslim-mylocreed Navy Check TRS B Noos  Pantalones de Traje para Hombre  Blazer  W28  Talla del Fabricante: 42 
+prodname: 'SELECTED HOMME Slhslim-mylocreed Navy Check TRS B Noos  Pantalones de Traje para Hombre  Blazer  W28  Talla del Fabricante: 42 '
 ---
 
 Está [SELECTED HOMME Slhslim-mylocreed Navy Check TRS B Noos  Pantalones de Traje para Hombre  Blazer  W28  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07D1HSTJN/?tag=tolees-21) con 89.91 de descuento por 15.13 EUR (original: 149.99 EUR) en el siguiente enlace!

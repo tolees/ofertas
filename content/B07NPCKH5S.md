@@ -14,7 +14,7 @@ currency: EUR
 price: 20.01
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Disney Princess 98879 Style Collection - Monedero y teléfono de Juguete  diseño de Cruz  Multicolor
+prodname: 'Disney Princess 98879 Style Collection - Monedero y teléfono de Juguete  diseño de Cruz  Multicolor'
 ---
 
 Ahora mismo tienes [Disney Princess 98879 Style Collection - Monedero y teléfono de Juguete  diseño de Cruz  Multicolor](https://www.amazon.es/dp/B07NPCKH5S/?tag=tolees-21) a 20.01 EUR (original: 26.99 EUR) (25.86 %  de descuento) en el siguiente enlace!

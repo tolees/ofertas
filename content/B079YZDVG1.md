@@ -14,7 +14,7 @@ currency: EUR
 price: 22.5
 comparePrice: 52.6 EUR
 inStock: true
-prodname: oodji Ultra Hombre Chaqueta Entallada con Bolsillos de Parche  Azul  48
+prodname: 'oodji Ultra Hombre Chaqueta Entallada con Bolsillos de Parche  Azul  48'
 ---
 
 Tienes [oodji Ultra Hombre Chaqueta Entallada con Bolsillos de Parche  Azul  48](https://www.amazon.es/dp/B079YZDVG1/?tag=tolees-21) con un 57.22 % de descuento con precio de oferta de 22.5 EUR (original: 52.6 EUR) en el siguiente enlace!

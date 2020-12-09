@@ -14,7 +14,7 @@ currency: EUR
 price: 40.7
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW Rovic Zip 3D Tapered  Pantalones para Hombre  Beige  Dune 239   W35/L30
+prodname: 'G-STAR RAW Rovic Zip 3D Tapered  Pantalones para Hombre  Beige  Dune 239   W35/L30'
 ---
 
 Está [G-STAR RAW Rovic Zip 3D Tapered  Pantalones para Hombre  Beige  Dune 239   W35/L30](https://www.amazon.es/dp/B01BGTVWD2/?tag=tolees-21) con 59.28 de descuento por 40.7 EUR (original: 99.95 EUR) en el siguiente enlace!

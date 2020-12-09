@@ -14,7 +14,7 @@ currency: EUR
 price: 13.3
 comparePrice: 19 EUR
 inStock: true
-prodname: Amazon Essentials Straight-Fit Cargo Pant casual-pants  Dark Khaki  36W x 28L
+prodname: 'Amazon Essentials Straight-Fit Cargo Pant casual-pants  Dark Khaki  36W x 28L'
 ---
 
 Está [Amazon Essentials Straight-Fit Cargo Pant casual-pants  Dark Khaki  36W x 28L](https://www.amazon.es/dp/B07F2CXMGV/?tag=tolees-21) con 30.00 de descuento por 13.3 EUR (original: 19 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 40.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Columbia Cascade Ridge II Chaqueta Softshell para hombre
+prodname: 'Columbia Cascade Ridge II Chaqueta Softshell para hombre'
 ---
 
 Ahora mismo tienes [Columbia Cascade Ridge II Chaqueta Softshell para hombre](https://www.amazon.es/dp/B07DYX9NS3/?tag=tolees-21) a 40.99 EUR (original: 99.99 EUR) (59.01 %  de descuento) en el siguiente enlace!

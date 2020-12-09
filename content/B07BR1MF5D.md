@@ -14,7 +14,7 @@ currency: EUR
 price: 5
 comparePrice: 9.8 EUR
 inStock: true
-prodname: oodji Ultra Mujer Top de Tejido Texturizado con Decoración Étnica  38 / S
+prodname: 'oodji Ultra Mujer Top de Tejido Texturizado con Decoración Étnica  38 / S'
 ---
 
 Está [oodji Ultra Mujer Top de Tejido Texturizado con Decoración Étnica  38 / S](https://www.amazon.es/dp/B07BR1MF5D/?tag=tolees-21) con 48.98 de descuento por 5 EUR (original: 9.8 EUR) en el siguiente enlace!

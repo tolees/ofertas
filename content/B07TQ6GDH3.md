@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Double Pack: Assassin’s Creed Odyssey + Assassin’s Creed Origins
+prodname: 'Double Pack: Assassin’s Creed Odyssey + Assassin’s Creed Origins'
 ---
 
 Está [Double Pack: Assassin’s Creed Odyssey + Assassin’s Creed Origins](https://www.amazon.es/dp/B07TQ6GDH3/?tag=tolees-21) con 50.19 de descuento por 24.9 EUR (original: 49.99 EUR) en el siguiente enlace!

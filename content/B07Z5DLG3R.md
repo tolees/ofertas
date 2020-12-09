@@ -14,7 +14,7 @@ currency: EUR
 price: 9.68
 comparePrice: 49.95 EUR
 inStock: true
-prodname: G-STAR RAW Gyre Knot Cap Sleeve Camisa  Deep True Blue Modernist C340/B700  X-Small para Mujer
+prodname: 'G-STAR RAW Gyre Knot Cap Sleeve Camisa  Deep True Blue Modernist C340/B700  X-Small para Mujer'
 ---
 
 Está [G-STAR RAW Gyre Knot Cap Sleeve Camisa  Deep True Blue Modernist C340/B700  X-Small para Mujer](https://www.amazon.es/dp/B07Z5DLG3R/?tag=tolees-21) con 80.62 de descuento por 9.68 EUR (original: 49.95 EUR) en el siguiente enlace!

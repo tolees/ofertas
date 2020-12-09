@@ -14,7 +14,7 @@ currency: EUR
 price: 32.24
 comparePrice: 60 EUR
 inStock: true
-prodname: Emporio Armani Underwear 9p424 Bañador  Turquesa  Turchese 00032   Large  Talla del Fabricante: 52  para Hombre
+prodname: 'Emporio Armani Underwear 9p424 Bañador  Turquesa  Turchese 00032   Large  Talla del Fabricante: 52  para Hombre'
 ---
 
 Está [Emporio Armani Underwear 9p424 Bañador  Turquesa  Turchese 00032   Large  Talla del Fabricante: 52  para Hombre](https://www.amazon.es/dp/B07K1HVPK4/?tag=tolees-21) con 46.27 de descuento por 32.24 EUR (original: 60 EUR) en el siguiente enlace!

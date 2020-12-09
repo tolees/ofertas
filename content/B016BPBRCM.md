@@ -14,7 +14,7 @@ currency: EUR
 price: 7.95
 comparePrice: 40 EUR
 inStock: true
-prodname: Kitchen Artist Soporte de utensilios de cocina 5 Piezas
+prodname: 'Kitchen Artist Soporte de utensilios de cocina 5 Piezas'
 ---
 
 Está [Kitchen Artist Soporte de utensilios de cocina 5 Piezas](https://www.amazon.es/dp/B016BPBRCM/?tag=tolees-21) con 80.12 de descuento por 7.95 EUR (original: 40 EUR) en el siguiente enlace!

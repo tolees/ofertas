@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Puma Wired  Zapatillas Unisex Adults’o  Azul Peacoat White  46 EU
+prodname: 'Puma Wired  Zapatillas Unisex Adults’o  Azul Peacoat White  46 EU'
 ---
 
 Ahora mismo tienes [Puma Wired  Zapatillas Unisex Adults’o  Azul Peacoat White  46 EU](https://www.amazon.es/dp/B07CSCDXMF/?tag=tolees-21) a 29.95 EUR (original: 59.95 EUR) (50.04 %  de descuento) en el siguiente enlace!

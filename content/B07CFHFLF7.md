@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   Large para Hombre
+prodname: 'Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   Large para Hombre'
 ---
 
 Tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   Large para Hombre](https://www.amazon.es/dp/B07CFHFLF7/?tag=tolees-21) con un 42.02 % de descuento con precio de oferta de 14.49 EUR (original: 24.99 EUR) en el siguiente enlace!

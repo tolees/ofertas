@@ -14,7 +14,7 @@ currency: EUR
 price: 15.04
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Cortefiel C7Ck Popelin Peach Vichy  Camisa Casual para Hombre   Azul Marino 10   XX-Large  Tamaño del Fabricante:XXL 
+prodname: 'Cortefiel C7Ck Popelin Peach Vichy  Camisa Casual para Hombre   Azul Marino 10   XX-Large  Tamaño del Fabricante:XXL '
 ---
 
 Está [Cortefiel C7Ck Popelin Peach Vichy  Camisa Casual para Hombre   Azul Marino 10   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B07KZ6GGMP/?tag=tolees-21) con 69.91 de descuento por 15.04 EUR (original: 49.99 EUR) en el siguiente enlace!

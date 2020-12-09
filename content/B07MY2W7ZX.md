@@ -14,7 +14,7 @@ currency: EUR
 price: 6.4
 comparePrice: 9.2 EUR
 inStock: true
-prodname: Clementoni- 3 Puzzles 48 Piezas Spider-Man  Multicolor  25238.1 
+prodname: 'Clementoni- 3 Puzzles 48 Piezas Spider-Man  Multicolor  25238.1 '
 ---
 
 Está [Clementoni- 3 Puzzles 48 Piezas Spider-Man  Multicolor  25238.1 ](https://www.amazon.es/dp/B07MY2W7ZX/?tag=tolees-21) con 30.43 de descuento por 6.4 EUR (original: 9.2 EUR) en el siguiente enlace!

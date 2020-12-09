@@ -14,7 +14,7 @@ currency: EUR
 price: 16.58
 comparePrice: 35 EUR
 inStock: true
-prodname: Volcom Scribe DD SS Camiseta  Hombre  Rosa  Salmon   M
+prodname: 'Volcom Scribe DD SS Camiseta  Hombre  Rosa  Salmon   M'
 ---
 
 Ahora mismo tienes [Volcom Scribe DD SS Camiseta  Hombre  Rosa  Salmon   M](https://www.amazon.es/dp/B078VRZT4B/?tag=tolees-21) a 16.58 EUR (original: 35 EUR) (52.63 %  de descuento) en el siguiente enlace!

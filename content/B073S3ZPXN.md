@@ -14,7 +14,7 @@ currency: EUR
 price: 26.25
 comparePrice: 39.08 EUR
 inStock: true
-prodname: find. Botines Chelsea para Hombre  Marrón  Tan   46 EU
+prodname: 'find. Botines Chelsea para Hombre  Marrón  Tan   46 EU'
 ---
 
 Está [find. Botines Chelsea para Hombre  Marrón  Tan   46 EU](https://www.amazon.es/dp/B073S3ZPXN/?tag=tolees-21) con 32.83 de descuento por 26.25 EUR (original: 39.08 EUR) en el siguiente enlace!

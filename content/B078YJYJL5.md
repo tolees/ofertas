@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 68.24 EUR
 inStock: true
-prodname: Plancha de pelo glättb ürste Ion cerámica con infrarrojos MCH Completo Tecnología de cerámica 30S de 130 a 230 °C eléctrica plancha alisadora para cabello alisado para corta larga grosor fina pelo
+prodname: 'Plancha de pelo glättb ürste Ion cerámica con infrarrojos MCH Completo Tecnología de cerámica 30S de 130 a 230 °C eléctrica plancha alisadora para cabello alisado para corta larga grosor fina pelo'
 ---
 
 Tienes [Plancha de pelo glättb ürste Ion cerámica con infrarrojos MCH Completo Tecnología de cerámica 30S de 130 a 230 °C eléctrica plancha alisadora para cabello alisado para corta larga grosor fina pelo](https://www.amazon.es/dp/B078YJYJL5/?tag=tolees-21) con un 76.57 % de descuento con precio de oferta de 15.99 EUR (original: 68.24 EUR) en el siguiente enlace!

@@ -14,15 +14,13 @@ currency: EUR
 price: 57.02
 comparePrice: 83.72 EUR
 inStock: true
-prodname: Orbegozo CT 23105 Ventilador de Techo  Madera y Oro Viejo
+prodname: 'Orbegozo CT 23105 Ventilador de Techo  Madera y Oro Viejo'
 ---
 
-Está [Orbegozo CT 23105 Ventilador de Techo  Madera y Oro Viejo](https://www.amazon.es/dp/B007PRWC0W/?tag=tolees-21) con 31.89 de descuento por 57.02 EUR (original: 83.72 EUR) en el siguiente enlace!
+Ahora mismo tienes [Orbegozo CT 23105 Ventilador de Techo  Madera y Oro Viejo](https://www.amazon.es/dp/B007PRWC0W/?tag=tolees-21) a 57.02 EUR (original: 83.72 EUR) (31.89 %  de descuento) en el siguiente enlace!
 
 [![Orbegozo CT 23105 Ventilador de Techo  M](https://images-eu.ssl-images-amazon.com/images/I/31wjV3MquaL._SL200_.jpg)](https://www.amazon.es/dp/B007PRWC0W/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B007PRWC0W/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B007PRWC0W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

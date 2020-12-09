@@ -14,7 +14,7 @@ currency: EUR
 price: 62.79
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Funny Dream  Zapatos de Cordones Derby Mujer  Negro  Black Leather   36 EU
+prodname: 'Clarks Funny Dream  Zapatos de Cordones Derby Mujer  Negro  Black Leather   36 EU'
 ---
 
 Tienes [Clarks Funny Dream  Zapatos de Cordones Derby Mujer  Negro  Black Leather   36 EU](https://www.amazon.es/dp/B000U6URAC/?tag=tolees-21) con un 37.18 % de descuento con precio de oferta de 62.79 EUR (original: 99.95 EUR) en el siguiente enlace!

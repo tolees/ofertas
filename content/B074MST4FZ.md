@@ -14,7 +14,7 @@ currency: EUR
 price: 13.34
 comparePrice: 28 EUR
 inStock: true
-prodname: find. Jersey Largo de Punto Mujer  Negro  Black   42  Talla del Fabricante: Large 
+prodname: 'find. Jersey Largo de Punto Mujer  Negro  Black   42  Talla del Fabricante: Large '
 ---
 
 Está [find. Jersey Largo de Punto Mujer  Negro  Black   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B074MST4FZ/?tag=tolees-21) con 52.36 de descuento por 13.34 EUR (original: 28 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.74
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Cressi 1946 Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Negro/Rojo  37
+prodname: 'Cressi 1946 Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Negro/Rojo  37'
 ---
 
 Está [Cressi 1946 Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Negro/Rojo  37](https://www.amazon.es/dp/B07JP1VTYC/?tag=tolees-21) con 57.52 de descuento por 12.74 EUR (original: 29.99 EUR) en el siguiente enlace!

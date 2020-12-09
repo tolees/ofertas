@@ -14,7 +14,7 @@ currency: EUR
 price: 25.53
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Gant 3-Pack Trunk Seasonal Solid Camiseta sin Mangas  Azul  College Blue 436   Small para Hombre
+prodname: 'Gant 3-Pack Trunk Seasonal Solid Camiseta sin Mangas  Azul  College Blue 436   Small para Hombre'
 ---
 
 Tienes [Gant 3-Pack Trunk Seasonal Solid Camiseta sin Mangas  Azul  College Blue 436   Small para Hombre](https://www.amazon.es/dp/B07KPQ85JL/?tag=tolees-21) con un 36.16 % de descuento con precio de oferta de 25.53 EUR (original: 39.99 EUR) en el siguiente enlace!

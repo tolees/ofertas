@@ -14,7 +14,7 @@ currency: EUR
 price: 19.81
 comparePrice: 35.18 EUR
 inStock: true
-prodname: B Baosity 2 Piezas Pro Salon Scissor Shear Stand Holder Hair Styling Tool Soporte Socket
+prodname: 'B Baosity 2 Piezas Pro Salon Scissor Shear Stand Holder Hair Styling Tool Soporte Socket'
 ---
 
 Ahora mismo tienes [B Baosity 2 Piezas Pro Salon Scissor Shear Stand Holder Hair Styling Tool Soporte Socket](https://www.amazon.es/dp/B08KHZSR5F/?tag=tolees-21) a 19.81 EUR (original: 35.18 EUR) (43.69 %  de descuento) en el siguiente enlace!

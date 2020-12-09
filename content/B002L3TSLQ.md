@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 52.06 EUR
 inStock: true
-prodname: Logitech R400 Presentador Inalámbrico  2 4 GHz con Receptor USB  Puntero Láser Digital Rojo  Distancia de 30 Metros  6 Botones  Controles Intuitivos  Indicador de Batería  Compatible con PC  Negro
+prodname: 'Logitech R400 Presentador Inalámbrico  2 4 GHz con Receptor USB  Puntero Láser Digital Rojo  Distancia de 30 Metros  6 Botones  Controles Intuitivos  Indicador de Batería  Compatible con PC  Negro'
 ---
 
 Tienes [Logitech R400 Presentador Inalámbrico  2 4 GHz con Receptor USB  Puntero Láser Digital Rojo  Distancia de 30 Metros  6 Botones  Controles Intuitivos  Indicador de Batería  Compatible con PC  Negro](https://www.amazon.es/dp/B002L3TSLQ/?tag=tolees-21) con un 61.60 % de descuento con precio de oferta de 19.99 EUR (original: 52.06 EUR) en el siguiente enlace!

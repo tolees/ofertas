@@ -14,7 +14,7 @@ currency: EUR
 price: 14.65
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Kappa Amun II  Zapatillas Unisex Adulto  Gris  L`Grey/White 1410   36 EU
+prodname: 'Kappa Amun II  Zapatillas Unisex Adulto  Gris  L`Grey/White 1410   36 EU'
 ---
 
 Está [Kappa Amun II  Zapatillas Unisex Adulto  Gris  L`Grey/White 1410   36 EU](https://www.amazon.es/dp/B07KRNKC1K/?tag=tolees-21) con 63.33 de descuento por 14.65 EUR (original: 39.95 EUR) en el siguiente enlace!

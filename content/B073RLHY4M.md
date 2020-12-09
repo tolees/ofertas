@@ -14,7 +14,7 @@ currency: EUR
 price: 27.19
 comparePrice: 53.05 EUR
 inStock: true
-prodname: Relaxdays – 10021786 Cestas  bambú  MDF  Natural  22 x 32 x 17 5 cm
+prodname: 'Relaxdays – 10021786 Cestas  bambú  MDF  Natural  22 x 32 x 17 5 cm'
 ---
 
 Tienes [Relaxdays – 10021786 Cestas  bambú  MDF  Natural  22 x 32 x 17 5 cm](https://www.amazon.es/dp/B073RLHY4M/?tag=tolees-21) con un 48.75 % de descuento con precio de oferta de 27.19 EUR (original: 53.05 EUR) en el siguiente enlace!

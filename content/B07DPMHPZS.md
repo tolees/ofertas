@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: 2 Pack Bastón de Senderismo Bastón Trekking Extensible Bastón Plegable Senderismo  Aleación de Aluminio 3 tramos Anti-Choque Agarre Ajustable Correa de Muñeca para Trekking Senderismo y Esquí Negro
+prodname: '2 Pack Bastón de Senderismo Bastón Trekking Extensible Bastón Plegable Senderismo  Aleación de Aluminio 3 tramos Anti-Choque Agarre Ajustable Correa de Muñeca para Trekking Senderismo y Esquí Negro'
 ---
 
 Tienes [2 Pack Bastón de Senderismo Bastón Trekking Extensible Bastón Plegable Senderismo  Aleación de Aluminio 3 tramos Anti-Choque Agarre Ajustable Correa de Muñeca para Trekking Senderismo y Esquí Negro](https://www.amazon.es/dp/B07DPMHPZS/?tag=tolees-21) con un 44.01 % de descuento con precio de oferta de 27.99 EUR (original: 49.99 EUR) en el siguiente enlace!

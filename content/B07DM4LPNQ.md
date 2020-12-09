@@ -14,7 +14,7 @@ currency: EUR
 price: 199.24
 comparePrice: 275 EUR
 inStock: true
-prodname: Michael Kors - Junie Medium Shoulder Bag  Shoppers y bolsos de hombro Mujer  Marrón  Maroon   12.7x25.4x34.2 cm  B x H T 
+prodname: 'Michael Kors - Junie Medium Shoulder Bag  Shoppers y bolsos de hombro Mujer  Marrón  Maroon   12.7x25.4x34.2 cm  B x H T '
 ---
 
 Ahora mismo tienes [Michael Kors - Junie Medium Shoulder Bag  Shoppers y bolsos de hombro Mujer  Marrón  Maroon   12.7x25.4x34.2 cm  B x H T ](https://www.amazon.es/dp/B07DM4LPNQ/?tag=tolees-21) a 199.24 EUR (original: 275 EUR) (27.55 %  de descuento) en el siguiente enlace!

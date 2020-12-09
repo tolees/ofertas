@@ -14,7 +14,7 @@ currency: EUR
 price: 299.9
 comparePrice: 419.99 EUR
 inStock: true
-prodname: Gigabyte GeForce RTX 2060 Mini ITX OC 6G
+prodname: 'Gigabyte GeForce RTX 2060 Mini ITX OC 6G'
 ---
 
 Tienes [Gigabyte GeForce RTX 2060 Mini ITX OC 6G](https://www.amazon.es/dp/B07MQ9CLMQ/?tag=tolees-21) con un 28.59 % de descuento con precio de oferta de 299.9 EUR (original: 419.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.73
 comparePrice: 49.99 EUR
 inStock: true
-prodname: JACK & JONES Jjemark Knit Crew Neck Noos suéter  Verde  Deep Depths Detail: Melange   X-Small para Hombre
+prodname: 'JACK & JONES Jjemark Knit Crew Neck Noos suéter  Verde  Deep Depths Detail: Melange   X-Small para Hombre'
 ---
 
 Está [JACK & JONES Jjemark Knit Crew Neck Noos suéter  Verde  Deep Depths Detail: Melange   X-Small para Hombre](https://www.amazon.es/dp/B07FQRF1VY/?tag=tolees-21) con 78.54 de descuento por 10.73 EUR (original: 49.99 EUR) en el siguiente enlace!

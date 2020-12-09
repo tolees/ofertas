@@ -14,7 +14,7 @@ currency: EUR
 price: 101.95
 comparePrice: 169.99 EUR
 inStock: true
-prodname: Columbia Lake 22  Chaqueta de plumas larga  Mujer  Azul oscuro Nocturnal   Talla XS
+prodname: 'Columbia Lake 22  Chaqueta de plumas larga  Mujer  Azul oscuro Nocturnal   Talla XS'
 ---
 
 Está [Columbia Lake 22  Chaqueta de plumas larga  Mujer  Azul oscuro Nocturnal   Talla XS](https://www.amazon.es/dp/B07RCP9XGL/?tag=tolees-21) con 40.03 de descuento por 101.95 EUR (original: 169.99 EUR) en el siguiente enlace!

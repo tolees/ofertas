@@ -14,7 +14,7 @@ currency: EUR
 price: 53.99
 comparePrice: 85.0 EUR
 inStock: true
-prodname: Mobiclinic  Modelo Alhambra  Rollator de 4 ruedas  Andador para minusválidos  mayores  adultos o ancianos  ayuda para caminar  aluminio  ligero  plegable  con asiento y 4 ruedas  gris
+prodname: 'Mobiclinic  Modelo Alhambra  Rollator de 4 ruedas  Andador para minusválidos  mayores  adultos o ancianos  ayuda para caminar  aluminio  ligero  plegable  con asiento y 4 ruedas  gris'
 ---
 
 Ahora mismo tienes [Mobiclinic  Modelo Alhambra  Rollator de 4 ruedas  Andador para minusválidos  mayores  adultos o ancianos  ayuda para caminar  aluminio  ligero  plegable  con asiento y 4 ruedas  gris](https://www.amazon.es/dp/B077XC4MPX/?tag=tolees-21) a 53.99 EUR (original: 85.0 EUR) (36.48 %  de descuento) en el siguiente enlace!

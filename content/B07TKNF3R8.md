@@ -14,7 +14,7 @@ currency: EUR
 price: 63.67
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Un Costa Lace  Zapatillas  Azul  Navy Leather Navy Leather   43 EU
+prodname: 'Clarks Un Costa Lace  Zapatillas  Azul  Navy Leather Navy Leather   43 EU'
 ---
 
 Tienes [Clarks Un Costa Lace  Zapatillas  Azul  Navy Leather Navy Leather   43 EU](https://www.amazon.es/dp/B07TKNF3R8/?tag=tolees-21) con un 36.30 % de descuento con precio de oferta de 63.67 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.92
 comparePrice: 26.05 EUR
 inStock: true
-prodname: Marca Amazon - MERAKI Chaqueta con Cuello Chal de Algodón Hombre  Azul  Navy Denim   M  Label: M
+prodname: 'Marca Amazon - MERAKI Chaqueta con Cuello Chal de Algodón Hombre  Azul  Navy Denim   M  Label: M'
 ---
 
 Está [Marca Amazon - MERAKI Chaqueta con Cuello Chal de Algodón Hombre  Azul  Navy Denim   M  Label: M](https://www.amazon.es/dp/B07PNRHGTM/?tag=tolees-21) con 31.21 de descuento por 17.92 EUR (original: 26.05 EUR) en el siguiente enlace!

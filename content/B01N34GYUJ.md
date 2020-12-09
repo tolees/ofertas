@@ -14,7 +14,7 @@ currency: EUR
 price: 19.19
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Sacacorchos Electrico  TURATA Abrelatas Electrico Profesional  Abridor Botellas de Vino con Cortador de Papel  Vertedor  Tapón de Vino Silicona de Vacío y Cable de Datos
+prodname: 'Sacacorchos Electrico  TURATA Abrelatas Electrico Profesional  Abridor Botellas de Vino con Cortador de Papel  Vertedor  Tapón de Vino Silicona de Vacío y Cable de Datos'
 ---
 
 Tienes [Sacacorchos Electrico  TURATA Abrelatas Electrico Profesional  Abridor Botellas de Vino con Cortador de Papel  Vertedor  Tapón de Vino Silicona de Vacío y Cable de Datos](https://www.amazon.es/dp/B01N34GYUJ/?tag=tolees-21) con un 36.01 % de descuento con precio de oferta de 19.19 EUR (original: 29.99 EUR) en el siguiente enlace!

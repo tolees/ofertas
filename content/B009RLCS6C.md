@@ -14,7 +14,7 @@ currency: EUR
 price: 66.66
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Braun Satin Hair 7 ST780 - Plancha de pelo profesional con tecnología SensoCare  placa de cerámica y definidor de rizos  color negro
+prodname: 'Braun Satin Hair 7 ST780 - Plancha de pelo profesional con tecnología SensoCare  placa de cerámica y definidor de rizos  color negro'
 ---
 
 Está [Braun Satin Hair 7 ST780 - Plancha de pelo profesional con tecnología SensoCare  placa de cerámica y definidor de rizos  color negro](https://www.amazon.es/dp/B009RLCS6C/?tag=tolees-21) con 33.33 de descuento por 66.66 EUR (original: 99.99 EUR) en el siguiente enlace!

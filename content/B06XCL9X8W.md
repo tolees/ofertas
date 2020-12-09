@@ -14,7 +14,7 @@ currency: EUR
 price: 28.46
 comparePrice: 120 EUR
 inStock: true
-prodname: Clarks Orabella Anna  Botas para Mujer  Morado  Burg Suede   41.5 EU
+prodname: 'Clarks Orabella Anna  Botas para Mujer  Morado  Burg Suede   41.5 EU'
 ---
 
 Está [Clarks Orabella Anna  Botas para Mujer  Morado  Burg Suede   41.5 EU](https://www.amazon.es/dp/B06XCL9X8W/?tag=tolees-21) con 76.28 de descuento por 28.46 EUR (original: 120 EUR) en el siguiente enlace!

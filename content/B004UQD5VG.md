@@ -14,7 +14,7 @@ currency: EUR
 price: 25.66
 comparePrice: 89 EUR
 inStock: true
-prodname: Superga 2095- SUEU  Zapatillas de deporte Unisex  Beige  Beige/Sand   36 EU
+prodname: 'Superga 2095- SUEU  Zapatillas de deporte Unisex  Beige  Beige/Sand   36 EU'
 ---
 
 Está [Superga 2095- SUEU  Zapatillas de deporte Unisex  Beige  Beige/Sand   36 EU](https://www.amazon.es/dp/B004UQD5VG/?tag=tolees-21) con 71.17 de descuento por 25.66 EUR (original: 89 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.37
 comparePrice: 7.95 EUR
 inStock: true
-prodname: L Oreal Paris Colorista Hair Make Up Rose Gold
+prodname: 'L Oreal Paris Colorista Hair Make Up Rose Gold'
 ---
 
 Ahora mismo tienes [L Oreal Paris Colorista Hair Make Up Rose Gold](https://www.amazon.es/dp/B07BR9HHBN/?tag=tolees-21) a 5.37 EUR (original: 7.95 EUR) (32.45 %  de descuento) en el siguiente enlace!

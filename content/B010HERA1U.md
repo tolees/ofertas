@@ -14,7 +14,7 @@ currency: EUR
 price: 43.84
 comparePrice: 179.95 EUR
 inStock: true
-prodname: GORE BIKE WEAR Cubrepantalones largos para la lluvia Ciclismo  Súper Ligeros  GORE-TEX Active  LADY Pants  Talla 42  negro  PGDLEL990006
+prodname: 'GORE BIKE WEAR Cubrepantalones largos para la lluvia Ciclismo  Súper Ligeros  GORE-TEX Active  LADY Pants  Talla 42  negro  PGDLEL990006'
 ---
 
 Tienes [GORE BIKE WEAR Cubrepantalones largos para la lluvia Ciclismo  Súper Ligeros  GORE-TEX Active  LADY Pants  Talla 42  negro  PGDLEL990006](https://www.amazon.es/dp/B010HERA1U/?tag=tolees-21) con un 75.64 % de descuento con precio de oferta de 43.84 EUR (original: 179.95 EUR) en el siguiente enlace!

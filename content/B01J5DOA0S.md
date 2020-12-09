@@ -14,7 +14,7 @@ currency: EUR
 price: 139.99
 comparePrice: 219.99 EUR
 inStock: true
-prodname: Diablo X-One Gaming Silla de Oficina Mecanismo de inclinación cojin Lumbar y Almohada Cuero sintético selección de Color  Negro/Azul   129 x 75 x 51
+prodname: 'Diablo X-One Gaming Silla de Oficina Mecanismo de inclinación cojin Lumbar y Almohada Cuero sintético selección de Color  Negro/Azul   129 x 75 x 51'
 ---
 
 Ahora mismo tienes [Diablo X-One Gaming Silla de Oficina Mecanismo de inclinación cojin Lumbar y Almohada Cuero sintético selección de Color  Negro/Azul   129 x 75 x 51](https://www.amazon.es/dp/B01J5DOA0S/?tag=tolees-21) a 139.99 EUR (original: 219.99 EUR) (36.37 %  de descuento) en el siguiente enlace!

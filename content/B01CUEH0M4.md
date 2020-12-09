@@ -14,7 +14,7 @@ currency: EUR
 price: 17.75
 comparePrice: 25.49 EUR
 inStock: true
-prodname: ROC Pro Preserve - Crema Protectora  Anti Sequedad  Textura Rica  50 ml
+prodname: 'ROC Pro Preserve - Crema Protectora  Anti Sequedad  Textura Rica  50 ml'
 ---
 
 Tienes [ROC Pro Preserve - Crema Protectora  Anti Sequedad  Textura Rica  50 ml](https://www.amazon.es/dp/B01CUEH0M4/?tag=tolees-21) con un 30.36 % de descuento con precio de oferta de 17.75 EUR (original: 25.49 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 54.49
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Columbia Good Ways Jacket Chaqueta Impermeable  Aislamiento térmico sintético Hi-Loft  Hombre  Black  S
+prodname: 'Columbia Good Ways Jacket Chaqueta Impermeable  Aislamiento térmico sintético Hi-Loft  Hombre  Black  S'
 ---
 
 Tienes [Columbia Good Ways Jacket Chaqueta Impermeable  Aislamiento térmico sintético Hi-Loft  Hombre  Black  S](https://www.amazon.es/dp/B010NLLTVO/?tag=tolees-21) con un 58.07 % de descuento con precio de oferta de 54.49 EUR (original: 129.95 EUR) en el siguiente enlace!

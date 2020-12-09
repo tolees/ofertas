@@ -14,7 +14,7 @@ currency: EUR
 price: 45.99
 comparePrice: 137.99 EUR
 inStock: true
-prodname: Asics Gt-2000 5  Zapatillas de Running para Mujer   Regatta Flash Coral/Indigo Blue   37.5 EU
+prodname: 'Asics Gt-2000 5  Zapatillas de Running para Mujer   Regatta Flash Coral/Indigo Blue   37.5 EU'
 ---
 
 Tienes [Asics Gt-2000 5  Zapatillas de Running para Mujer   Regatta Flash Coral/Indigo Blue   37.5 EU](https://www.amazon.es/dp/B06ZXZL7DS/?tag=tolees-21) con un 66.67 % de descuento con precio de oferta de 45.99 EUR (original: 137.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.39
 comparePrice: 79.95 EUR
 inStock: true
-prodname: adidas X 17.3 AG  Botas de fútbol para Hombre  Negro  Negbas/Rojsol/Narsol   46 EU
+prodname: 'adidas X 17.3 AG  Botas de fútbol para Hombre  Negro  Negbas/Rojsol/Narsol   46 EU'
 ---
 
 Ahora mismo tienes [adidas X 17.3 AG  Botas de fútbol para Hombre  Negro  Negbas/Rojsol/Narsol   46 EU](https://www.amazon.es/dp/B071JNMK6K/?tag=tolees-21) a 49.39 EUR (original: 79.95 EUR) (38.22 %  de descuento) en el siguiente enlace!

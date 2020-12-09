@@ -14,7 +14,7 @@ currency: EUR
 price: 9.2
 comparePrice: 49 EUR
 inStock: true
-prodname: Carrément Beau Robe Vestido  Marfil  Offwhite 117   10 años  Talla del Fabricante: 10A  para Niñas
+prodname: 'Carrément Beau Robe Vestido  Marfil  Offwhite 117   10 años  Talla del Fabricante: 10A  para Niñas'
 ---
 
 Ahora mismo tienes [Carrément Beau Robe Vestido  Marfil  Offwhite 117   10 años  Talla del Fabricante: 10A  para Niñas](https://www.amazon.es/dp/B07JWYFRBG/?tag=tolees-21) a 9.2 EUR (original: 49 EUR) (81.22 %  de descuento) en el siguiente enlace!

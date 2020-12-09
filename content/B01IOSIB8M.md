@@ -14,7 +14,7 @@ currency: EUR
 price: 7.19
 comparePrice: 12.0 EUR
 inStock: true
-prodname: Vans Benched  Mochila Casual  44 cm  12 L  Mujer  Negro  Onyx 
+prodname: 'Vans Benched  Mochila Casual  44 cm  12 L  Mujer  Negro  Onyx '
 ---
 
 Está [Vans Benched  Mochila Casual  44 cm  12 L  Mujer  Negro  Onyx ](https://www.amazon.es/dp/B01IOSIB8M/?tag=tolees-21) con 40.08 de descuento por 7.19 EUR (original: 12.0 EUR) en el siguiente enlace!

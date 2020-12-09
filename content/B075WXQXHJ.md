@@ -14,7 +14,7 @@ currency: EUR
 price: 13.48
 comparePrice: 18.85 EUR
 inStock: true
-prodname: L-CARNITINA PURA | Pérdida de peso y potente quemador de grasa deportivo | Código Nacional Farmacia 194556.3 | Aporte de energía  resistencia y recuperación | 120 Cápsulas | Navit Plus
+prodname: 'L-CARNITINA PURA | Pérdida de peso y potente quemador de grasa deportivo | Código Nacional Farmacia 194556.3 | Aporte de energía  resistencia y recuperación | 120 Cápsulas | Navit Plus'
 ---
 
 Ahora mismo tienes [L-CARNITINA PURA | Pérdida de peso y potente quemador de grasa deportivo | Código Nacional Farmacia 194556.3 | Aporte de energía  resistencia y recuperación | 120 Cápsulas | Navit Plus](https://www.amazon.es/dp/B075WXQXHJ/?tag=tolees-21) a 13.48 EUR (original: 18.85 EUR) (28.49 %  de descuento) en el siguiente enlace!

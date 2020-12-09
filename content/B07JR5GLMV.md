@@ -14,7 +14,7 @@ currency: EUR
 price: 6.0
 comparePrice: 9.95 EUR
 inStock: true
-prodname: INTEX 58075NP - Hinchable pelota Sandía
+prodname: 'INTEX 58075NP - Hinchable pelota Sandía'
 ---
 
 Está [INTEX 58075NP - Hinchable pelota Sandía](https://www.amazon.es/dp/B07JR5GLMV/?tag=tolees-21) con 39.70 de descuento por 6.0 EUR (original: 9.95 EUR) en el siguiente enlace!

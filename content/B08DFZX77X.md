@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 45.99 EUR
 inStock: true
-prodname: J.Endéar Pulsera Mujer Piedras Naturales  Pulseras de Cuentas Piedras Preciosas Naturales 8mm  Pulsera Corazón Amistad con Charm Corazón en Plata de Primera Ley
+prodname: 'J.Endéar Pulsera Mujer Piedras Naturales  Pulseras de Cuentas Piedras Preciosas Naturales 8mm  Pulsera Corazón Amistad con Charm Corazón en Plata de Primera Ley'
 ---
 
 Está [J.Endéar Pulsera Mujer Piedras Naturales  Pulseras de Cuentas Piedras Preciosas Naturales 8mm  Pulsera Corazón Amistad con Charm Corazón en Plata de Primera Ley](https://www.amazon.es/dp/B08DFZX77X/?tag=tolees-21) con 43.49 de descuento por 25.99 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 111.66 EUR
 inStock: true
-prodname: Disco Duro Externo 2 TB  USB3.0 Ultra Slim HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Negro 
+prodname: 'Disco Duro Externo 2 TB  USB3.0 Ultra Slim HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Negro '
 ---
 
 Está [Disco Duro Externo 2 TB  USB3.0 Ultra Slim HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Negro ](https://www.amazon.es/dp/B08KZJJJH5/?tag=tolees-21) con 42.69 de descuento por 63.99 EUR (original: 111.66 EUR) en el siguiente enlace!

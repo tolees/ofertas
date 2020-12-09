@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: GuangYang Juego Te de Porcelana Blanca Alivio Vintage Diseno con Lineas de Oro 6 Piezas 10OZ 330ml
+prodname: 'GuangYang Juego Te de Porcelana Blanca Alivio Vintage Diseno con Lineas de Oro 6 Piezas 10OZ 330ml'
 ---
 
 Ahora mismo tienes [GuangYang Juego Te de Porcelana Blanca Alivio Vintage Diseno con Lineas de Oro 6 Piezas 10OZ 330ml](https://www.amazon.es/dp/B07FVN2WHZ/?tag=tolees-21) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.06
 comparePrice: 13.42 EUR
 inStock: true
-prodname: 2012  Steelbook  [Italia] [Blu-ray]
+prodname: '2012  Steelbook  [Italia] [Blu-ray]'
 ---
 
 Ahora mismo tienes [2012  Steelbook  [Italia] [Blu-ray]](https://www.amazon.es/dp/B06Y3QH6HF/?tag=tolees-21) a 6.06 EUR (original: 13.42 EUR) (54.84 %  de descuento) en el siguiente enlace!

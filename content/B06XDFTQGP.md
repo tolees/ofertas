@@ -14,7 +14,7 @@ currency: EUR
 price: 6
 comparePrice: 8.7 EUR
 inStock: true
-prodname: Garnier Skin Active - Pure Active Sensitive  Crema Hidratante Facial de Día  Anti-Imperfecciones  para Pieles Sensibles - 50 ml
+prodname: 'Garnier Skin Active - Pure Active Sensitive  Crema Hidratante Facial de Día  Anti-Imperfecciones  para Pieles Sensibles - 50 ml'
 ---
 
 Ahora mismo tienes [Garnier Skin Active - Pure Active Sensitive  Crema Hidratante Facial de Día  Anti-Imperfecciones  para Pieles Sensibles - 50 ml](https://www.amazon.es/dp/B06XDFTQGP/?tag=tolees-21) a 6 EUR (original: 8.7 EUR) (31.03 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Case Logic WMBP115GY - Mochila para Ordenador portátil de hasta 15.6"
+prodname: 'Case Logic WMBP115GY - Mochila para Ordenador portátil de hasta 15.6"'
 ---
 
 Ahora mismo tienes [Case Logic WMBP115GY - Mochila para Ordenador portátil de hasta 15.6"](https://www.amazon.es/dp/B00CLIDKZG/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

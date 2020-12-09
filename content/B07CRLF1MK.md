@@ -14,7 +14,7 @@ currency: EUR
 price: 23.15
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Puma Mega NRGY Heather Knit Jr  Zapatillas Unisex Niños  Azul  Strong Blue White   37 EU
+prodname: 'Puma Mega NRGY Heather Knit Jr  Zapatillas Unisex Niños  Azul  Strong Blue White   37 EU'
 ---
 
 Tienes [Puma Mega NRGY Heather Knit Jr  Zapatillas Unisex Niños  Azul  Strong Blue White   37 EU](https://www.amazon.es/dp/B07CRLF1MK/?tag=tolees-21) con un 57.87 % de descuento con precio de oferta de 23.15 EUR (original: 54.95 EUR) en el siguiente enlace!

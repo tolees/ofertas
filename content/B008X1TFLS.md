@@ -14,7 +14,7 @@ currency: EUR
 price: 8.77
 comparePrice: 14.57 EUR
 inStock: true
-prodname: Selene Sujetador Deportivo Confort Negro 95B
+prodname: 'Selene Sujetador Deportivo Confort Negro 95B'
 ---
 
 Tienes [Selene Sujetador Deportivo Confort Negro 95B](https://www.amazon.es/dp/B008X1TFLS/?tag=tolees-21) con un 39.81 % de descuento con precio de oferta de 8.77 EUR (original: 14.57 EUR) en el siguiente enlace!

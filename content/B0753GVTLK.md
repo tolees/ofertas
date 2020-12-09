@@ -14,7 +14,7 @@ currency: EUR
 price: 8.39
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Parasol Hjuns. Parasol para parabrisas frontal de coche  con diseño de dibujos animados  130 cm x 70 cm  negro 
+prodname: 'Parasol Hjuns. Parasol para parabrisas frontal de coche  con diseño de dibujos animados  130 cm x 70 cm  negro '
 ---
 
 Tienes [Parasol Hjuns. Parasol para parabrisas frontal de coche  con diseño de dibujos animados  130 cm x 70 cm  negro ](https://www.amazon.es/dp/B0753GVTLK/?tag=tolees-21) con un 35.41 % de descuento con precio de oferta de 8.39 EUR (original: 12.99 EUR) en el siguiente enlace!

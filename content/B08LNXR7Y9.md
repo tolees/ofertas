@@ -14,7 +14,7 @@ currency: EUR
 price: 409.45
 comparePrice: 629.95 EUR
 inStock: true
-prodname: CREATE IKOHS NETBOT LS27 - Robot Aspirador Inteligente láser 2700Pa  Blanco 
+prodname: 'CREATE IKOHS NETBOT LS27 - Robot Aspirador Inteligente láser 2700Pa  Blanco '
 ---
 
 Está [CREATE IKOHS NETBOT LS27 - Robot Aspirador Inteligente láser 2700Pa  Blanco ](https://www.amazon.es/dp/B08LNXR7Y9/?tag=tolees-21) con 35.00 de descuento por 409.45 EUR (original: 629.95 EUR) en el siguiente enlace!

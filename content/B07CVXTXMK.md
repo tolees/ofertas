@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 347.44 EUR
 inStock: true
-prodname: HAMSWAN Freidora Sin Aceite  [Regalos] Freidora de Aire Caliente  Antiadherente Sartén sin Grasa Más Saludable con Capcidad Desmontable  Temporizador Manual  Control de Temperatura y Recetas
+prodname: 'HAMSWAN Freidora Sin Aceite  [Regalos] Freidora de Aire Caliente  Antiadherente Sartén sin Grasa Más Saludable con Capcidad Desmontable  Temporizador Manual  Control de Temperatura y Recetas'
 ---
 
 Ahora mismo tienes [HAMSWAN Freidora Sin Aceite  [Regalos] Freidora de Aire Caliente  Antiadherente Sartén sin Grasa Más Saludable con Capcidad Desmontable  Temporizador Manual  Control de Temperatura y Recetas](https://www.amazon.es/dp/B07CVXTXMK/?tag=tolees-21) a 49.99 EUR (original: 347.44 EUR) (85.61 %  de descuento) en el siguiente enlace!

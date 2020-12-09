@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Adidas Lite Racer Cln K  Zapatillas de deporte Unisex niños  Negro  Negbás/Gridos/Ftwbla 000   31 EU
+prodname: 'Adidas Lite Racer Cln K  Zapatillas de deporte Unisex niños  Negro  Negbás/Gridos/Ftwbla 000   31 EU'
 ---
 
 Está [Adidas Lite Racer Cln K  Zapatillas de deporte Unisex niños  Negro  Negbás/Gridos/Ftwbla 000   31 EU](https://www.amazon.es/dp/B07FCVPWXN/?tag=tolees-21) con 31.06 de descuento por 30.99 EUR (original: 44.95 EUR) en el siguiente enlace!

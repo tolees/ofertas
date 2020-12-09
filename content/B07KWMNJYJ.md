@@ -14,7 +14,7 @@ currency: EUR
 price: 10
 comparePrice: 27.82 EUR
 inStock: true
-prodname: New Look Boyfriend 6082215  Chaqueta Punto para Mujer  Gris  Light Grey 2  36  Talla del Fabricante: 51 
+prodname: 'New Look Boyfriend 6082215  Chaqueta Punto para Mujer  Gris  Light Grey 2  36  Talla del Fabricante: 51 '
 ---
 
 Tienes [New Look Boyfriend 6082215  Chaqueta Punto para Mujer  Gris  Light Grey 2  36  Talla del Fabricante: 51 ](https://www.amazon.es/dp/B07KWMNJYJ/?tag=tolees-21) con un 64.05 % de descuento con precio de oferta de 10 EUR (original: 27.82 EUR) en el siguiente enlace!

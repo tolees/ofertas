@@ -14,7 +14,7 @@ currency: EUR
 price: 8.63
 comparePrice: 11.59 EUR
 inStock: true
-prodname: Ratón Inalámbrico Recargable  Silencioso Infame Ratón óptico Silencioso Click Mini  Ultra Delgado 1600 dpi para Computadora Portátil  PC  Portátil  Computadora  Macbook  Plata Clara 
+prodname: 'Ratón Inalámbrico Recargable  Silencioso Infame Ratón óptico Silencioso Click Mini  Ultra Delgado 1600 dpi para Computadora Portátil  PC  Portátil  Computadora  Macbook  Plata Clara '
 ---
 
 Está [Ratón Inalámbrico Recargable  Silencioso Infame Ratón óptico Silencioso Click Mini  Ultra Delgado 1600 dpi para Computadora Portátil  PC  Portátil  Computadora  Macbook  Plata Clara ](https://www.amazon.es/dp/B0757LNVBT/?tag=tolees-21) con 25.54 de descuento por 8.63 EUR (original: 11.59 EUR) en el siguiente enlace!

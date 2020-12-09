@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Joma - Camiseta Record II Woman Rosa-Negro s/m para Mujer
+prodname: 'Joma - Camiseta Record II Woman Rosa-Negro s/m para Mujer'
 ---
 
 Ahora mismo tienes [Joma - Camiseta Record II Woman Rosa-Negro s/m para Mujer](https://www.amazon.es/dp/B01ERXJR5Y/?tag=tolees-21) a 6.95 EUR (original: 15.95 EUR) (56.43 %  de descuento) en el siguiente enlace!

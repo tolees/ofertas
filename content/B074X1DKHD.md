@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 36.28 EUR
 inStock: true
-prodname: CID Justice League Movie-Cyborg Symbol Camiseta  Negro Black  Medium para Hombre
+prodname: 'CID Justice League Movie-Cyborg Symbol Camiseta  Negro Black  Medium para Hombre'
 ---
 
 Tienes [CID Justice League Movie-Cyborg Symbol Camiseta  Negro Black  Medium para Hombre](https://www.amazon.es/dp/B074X1DKHD/?tag=tolees-21) con un 75.22 % de descuento con precio de oferta de 8.99 EUR (original: 36.28 EUR) en el siguiente enlace!

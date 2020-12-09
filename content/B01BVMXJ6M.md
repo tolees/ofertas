@@ -14,7 +14,7 @@ currency: EUR
 price: 28.75
 comparePrice: 40.65 EUR
 inStock: true
-prodname: Shunga Kit Tickle Me  Color Rosa/Negro - 235 gr
+prodname: 'Shunga Kit Tickle Me  Color Rosa/Negro - 235 gr'
 ---
 
 Ahora mismo tienes [Shunga Kit Tickle Me  Color Rosa/Negro - 235 gr](https://www.amazon.es/dp/B01BVMXJ6M/?tag=tolees-21) a 28.75 EUR (original: 40.65 EUR) (29.27 %  de descuento) en el siguiente enlace!

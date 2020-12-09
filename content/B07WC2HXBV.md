@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 49.28 EUR
 inStock: true
-prodname: Tommy Hilfiger SF Medium Drawstring Bañador  Azul  Pitch Blue   Small  Talla del Fabricante:  para Hombre
+prodname: 'Tommy Hilfiger SF Medium Drawstring Bañador  Azul  Pitch Blue   Small  Talla del Fabricante:  para Hombre'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger SF Medium Drawstring Bañador  Azul  Pitch Blue   Small  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07WC2HXBV/?tag=tolees-21) a 32.99 EUR (original: 49.28 EUR) (33.06 %  de descuento) en el siguiente enlace!

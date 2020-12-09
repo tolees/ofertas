@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: tado° Cabezal Termostático Inteligente de - Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo
+prodname: 'tado° Cabezal Termostático Inteligente de - Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo'
 ---
 
 Está [tado° Cabezal Termostático Inteligente de - Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo](https://www.amazon.es/dp/B01LXPJG23/?tag=tolees-21) con 25.00 de descuento por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!

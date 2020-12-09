@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Plug Anale massaggiatore prostatico  impermeabile  con telecomando  stimolatore anale portatile  Della Prostata Stimolatore Per Massaggi
+prodname: 'Plug Anale massaggiatore prostatico  impermeabile  con telecomando  stimolatore anale portatile  Della Prostata Stimolatore Per Massaggi'
 ---
 
 Está [Plug Anale massaggiatore prostatico  impermeabile  con telecomando  stimolatore anale portatile  Della Prostata Stimolatore Per Massaggi](https://www.amazon.es/dp/B07HB2NRDQ/?tag=tolees-21) con 28.01 de descuento por 17.99 EUR (original: 24.99 EUR) en el siguiente enlace!

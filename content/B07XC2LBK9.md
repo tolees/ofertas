@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 18.69 EUR
 inStock: true
-prodname: Lovecraft s Untold Stories
+prodname: 'Lovecraft s Untold Stories'
 ---
 
 Tienes [Lovecraft s Untold Stories](https://www.amazon.es/dp/B07XC2LBK9/?tag=tolees-21) con un 47.03 % de descuento con precio de oferta de 9.9 EUR (original: 18.69 EUR) en el siguiente enlace!

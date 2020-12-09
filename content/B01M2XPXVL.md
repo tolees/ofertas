@@ -14,7 +14,7 @@ currency: EUR
 price: 75.72
 comparePrice: 129 EUR
 inStock: true
-prodname: JBL E55BT - Auriculares Bluetooth supraaurales plegables con cable y control remoto universal  batería de hasta 20 h  blanco
+prodname: 'JBL E55BT - Auriculares Bluetooth supraaurales plegables con cable y control remoto universal  batería de hasta 20 h  blanco'
 ---
 
 Está [JBL E55BT - Auriculares Bluetooth supraaurales plegables con cable y control remoto universal  batería de hasta 20 h  blanco](https://www.amazon.es/dp/B01M2XPXVL/?tag=tolees-21) con 41.30 de descuento por 75.72 EUR (original: 129 EUR) en el siguiente enlace!

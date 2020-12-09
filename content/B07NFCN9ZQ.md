@@ -14,7 +14,7 @@ currency: EUR
 price: 38.21
 comparePrice: 62.83 EUR
 inStock: true
-prodname: Casio Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable MQ-24MG-1EEF
+prodname: 'Casio Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable MQ-24MG-1EEF'
 ---
 
 Tienes [Casio Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable MQ-24MG-1EEF](https://www.amazon.es/dp/B07NFCN9ZQ/?tag=tolees-21) con un 39.19 % de descuento con precio de oferta de 38.21 EUR (original: 62.83 EUR) en el siguiente enlace!

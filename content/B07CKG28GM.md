@@ -14,7 +14,7 @@ currency: EUR
 price: 15.23
 comparePrice: 22.39 EUR
 inStock: true
-prodname: Inside 6sves21&  Vestido Mujer  Negro  Black 1   Medium
+prodname: 'Inside 6sves21&  Vestido Mujer  Negro  Black 1   Medium'
 ---
 
 Tienes [Inside 6sves21&  Vestido Mujer  Negro  Black 1   Medium](https://www.amazon.es/dp/B07CKG28GM/?tag=tolees-21) con un 31.98 % de descuento con precio de oferta de 15.23 EUR (original: 22.39 EUR) en el siguiente enlace!

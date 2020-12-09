@@ -14,7 +14,7 @@ currency: EUR
 price: 13.0
 comparePrice: 26.0 EUR
 inStock: true
-prodname: Under Armour UA Tech 2.0 Tanque  Hombre  Gris  L
+prodname: 'Under Armour UA Tech 2.0 Tanque  Hombre  Gris  L'
 ---
 
 Tienes [Under Armour UA Tech 2.0 Tanque  Hombre  Gris  L](https://www.amazon.es/dp/B07CZMDLVT/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 13.0 EUR (original: 26.0 EUR) en el siguiente enlace!

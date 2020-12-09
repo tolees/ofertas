@@ -14,7 +14,7 @@ currency: EUR
 price: 22.92
 comparePrice: 40 EUR
 inStock: true
-prodname: Salomon Gorra
+prodname: 'Salomon Gorra'
 ---
 
 Ahora mismo tienes [Salomon Gorra](https://www.amazon.es/dp/B01HNYDRD2/?tag=tolees-21) a 22.92 EUR (original: 40 EUR) (42.70 %  de descuento) en el siguiente enlace!

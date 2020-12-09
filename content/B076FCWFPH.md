@@ -14,7 +14,7 @@ currency: EUR
 price: 84.95
 comparePrice: 119.95 EUR
 inStock: true
-prodname: AfterShokz Trekz Air  Auriculares de Conducción Ósea Inalámbricos Bluetooth con Micrófono Resistentes al Sudor para el Deporte  Azul Medianoche
+prodname: 'AfterShokz Trekz Air  Auriculares de Conducción Ósea Inalámbricos Bluetooth con Micrófono Resistentes al Sudor para el Deporte  Azul Medianoche'
 ---
 
 Está [AfterShokz Trekz Air  Auriculares de Conducción Ósea Inalámbricos Bluetooth con Micrófono Resistentes al Sudor para el Deporte  Azul Medianoche](https://www.amazon.es/dp/B076FCWFPH/?tag=tolees-21) con 29.18 de descuento por 84.95 EUR (original: 119.95 EUR) en el siguiente enlace!

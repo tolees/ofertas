@@ -14,7 +14,7 @@ currency: EUR
 price: 6.2
 comparePrice: 10.55 EUR
 inStock: true
-prodname: Pattex 100%  pegamento multimaterial transparente  botella 50gr
+prodname: 'Pattex 100%  pegamento multimaterial transparente  botella 50gr'
 ---
 
 Ahora mismo tienes [Pattex 100%  pegamento multimaterial transparente  botella 50gr](https://www.amazon.es/dp/B00BFXVF00/?tag=tolees-21) a 6.2 EUR (original: 10.55 EUR) (41.23 %  de descuento) en el siguiente enlace!

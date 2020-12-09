@@ -14,7 +14,7 @@ currency: EUR
 price: 248.52
 comparePrice: 380.0 EUR
 inStock: true
-prodname: Sony WH1000XM3 - Auriculares inalámbricos Noise Cancelling  Bluetooth  compatible con Alexa y Google Assistant  30h de batería  óptimo para trabajar en casa  llamadas manos libres   plata
+prodname: 'Sony WH1000XM3 - Auriculares inalámbricos Noise Cancelling  Bluetooth  compatible con Alexa y Google Assistant  30h de batería  óptimo para trabajar en casa  llamadas manos libres   plata'
 ---
 
 Ahora mismo tienes [Sony WH1000XM3 - Auriculares inalámbricos Noise Cancelling  Bluetooth  compatible con Alexa y Google Assistant  30h de batería  óptimo para trabajar en casa  llamadas manos libres   plata](https://www.amazon.es/dp/B07GDR2PH9/?tag=tolees-21) a 248.52 EUR (original: 380.0 EUR) (34.60 %  de descuento) en el siguiente enlace!

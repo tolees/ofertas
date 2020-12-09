@@ -14,7 +14,7 @@ currency: EUR
 price: 37.31
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW Rackam Rovic  Zapatillas para Hombre  Verde  Combat 723   41 EU
+prodname: 'G-STAR RAW Rackam Rovic  Zapatillas para Hombre  Verde  Combat 723   41 EU'
 ---
 
 Ahora mismo tienes [G-STAR RAW Rackam Rovic  Zapatillas para Hombre  Verde  Combat 723   41 EU](https://www.amazon.es/dp/B07GPR1J1Q/?tag=tolees-21) a 37.31 EUR (original: 99.95 EUR) (62.67 %  de descuento) en el siguiente enlace!

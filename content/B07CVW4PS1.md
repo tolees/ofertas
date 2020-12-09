@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Fdit Grifo Monomando para Fregadero de Cocina  Grifo de Agua de plástico ABS para Lavabo de baño  bañera o Piscina
+prodname: 'Fdit Grifo Monomando para Fregadero de Cocina  Grifo de Agua de plástico ABS para Lavabo de baño  bañera o Piscina'
 ---
 
 Tienes [Fdit Grifo Monomando para Fregadero de Cocina  Grifo de Agua de plástico ABS para Lavabo de baño  bañera o Piscina](https://www.amazon.es/dp/B07CVW4PS1/?tag=tolees-21) con un 46.50 % de descuento con precio de oferta de 6.95 EUR (original: 12.99 EUR) en el siguiente enlace!

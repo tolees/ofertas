@@ -14,7 +14,7 @@ currency: EUR
 price: 2.98
 comparePrice: 7.42 EUR
 inStock: true
-prodname: San Ignacio Bonn Cuchillo panero  Acero Inoxidable  Negro  20 cm
+prodname: 'San Ignacio Bonn Cuchillo panero  Acero Inoxidable  Negro  20 cm'
 ---
 
 Ahora mismo tienes [San Ignacio Bonn Cuchillo panero  Acero Inoxidable  Negro  20 cm](https://www.amazon.es/dp/B01N8SZYH8/?tag=tolees-21) a 2.98 EUR (original: 7.42 EUR) (59.84 %  de descuento) en el siguiente enlace!

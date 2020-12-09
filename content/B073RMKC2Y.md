@@ -14,7 +14,7 @@ currency: EUR
 price: 22.7
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Reebok Princess EB  Zapatillas de Deporte para Mujer  Blanco  Chalk/Seaside Greywhite   35 EU
+prodname: 'Reebok Princess EB  Zapatillas de Deporte para Mujer  Blanco  Chalk/Seaside Greywhite   35 EU'
 ---
 
 Ahora mismo tienes [Reebok Princess EB  Zapatillas de Deporte para Mujer  Blanco  Chalk/Seaside Greywhite   35 EU](https://www.amazon.es/dp/B073RMKC2Y/?tag=tolees-21) a 22.7 EUR (original: 74.95 EUR) (69.71 %  de descuento) en el siguiente enlace!

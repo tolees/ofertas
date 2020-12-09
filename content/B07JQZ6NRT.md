@@ -14,7 +14,7 @@ currency: EUR
 price: 24.98
 comparePrice: 49.95 EUR
 inStock: true
-prodname: adidas Court Stabil Jr Zapatillas de Balonmano Unisex Niños  Negro  Core Black/Hi/Res Yellow/Active Red Core Black/Hi/Res Yellow/Active Red   33 EU  1 UK 
+prodname: 'adidas Court Stabil Jr Zapatillas de Balonmano Unisex Niños  Negro  Core Black/Hi/Res Yellow/Active Red Core Black/Hi/Res Yellow/Active Red   33 EU  1 UK '
 ---
 
 Ahora mismo tienes [adidas Court Stabil Jr Zapatillas de Balonmano Unisex Niños  Negro  Core Black/Hi/Res Yellow/Active Red Core Black/Hi/Res Yellow/Active Red   33 EU  1 UK ](https://www.amazon.es/dp/B07JQZ6NRT/?tag=tolees-21) a 24.98 EUR (original: 49.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

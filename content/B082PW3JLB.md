@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: POWEROWL Cargador de Pilas Recargables AA AAA con 8 Ranuras  Inteligente Cargador de Pilas con Pantalla LCD  Puerto USB  Sin Pilas 
+prodname: 'POWEROWL Cargador de Pilas Recargables AA AAA con 8 Ranuras  Inteligente Cargador de Pilas con Pantalla LCD  Puerto USB  Sin Pilas '
 ---
 
 Tienes [POWEROWL Cargador de Pilas Recargables AA AAA con 8 Ranuras  Inteligente Cargador de Pilas con Pantalla LCD  Puerto USB  Sin Pilas ](https://www.amazon.es/dp/B082PW3JLB/?tag=tolees-21) con un 26.93 % de descuento con precio de oferta de 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!

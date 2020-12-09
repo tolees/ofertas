@@ -14,7 +14,7 @@ currency: EUR
 price: 41.87
 comparePrice: 61.99 EUR
 inStock: true
-prodname: Levi s 721 High Rise Skinny Jeans  Long Shot  23W / 28L para Mujer
+prodname: 'Levi s 721 High Rise Skinny Jeans  Long Shot  23W / 28L para Mujer'
 ---
 
 Está [Levi s 721 High Rise Skinny Jeans  Long Shot  23W / 28L para Mujer](https://www.amazon.es/dp/B07TTR57XW/?tag=tolees-21) con 32.46 de descuento por 41.87 EUR (original: 61.99 EUR) en el siguiente enlace!

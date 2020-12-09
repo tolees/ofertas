@@ -14,7 +14,7 @@ currency: EUR
 price: 2.17
 comparePrice: 2.9 EUR
 inStock: true
-prodname: Valor  Chocolate Negro 70% con Almendras 0% Azúcares Añadidos - 150 gr.
+prodname: 'Valor  Chocolate Negro 70% con Almendras 0% Azúcares Añadidos - 150 gr.'
 ---
 
 Está [Valor  Chocolate Negro 70% con Almendras 0% Azúcares Añadidos - 150 gr.](https://www.amazon.es/dp/B01IUXTVHQ/?tag=tolees-21) con 25.17 de descuento por 2.17 EUR (original: 2.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.18
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Funko - Dave Tourist figura de vinilo  colección de POP  seria Despicable Me 3  13426 
+prodname: 'Funko - Dave Tourist figura de vinilo  colección de POP  seria Despicable Me 3  13426 '
 ---
 
 Tienes [Funko - Dave Tourist figura de vinilo  colección de POP  seria Despicable Me 3  13426 ](https://www.amazon.es/dp/B06XCLHNW7/?tag=tolees-21) con un 38.76 % de descuento con precio de oferta de 9.18 EUR (original: 14.99 EUR) en el siguiente enlace!

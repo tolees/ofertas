@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Muselinas Organicas para Bebe  Toallitas para bebé de muselina  Toalla Facial Infantil  Bebé Pañuelo Para Niños  100% Algodón de Dibujos Muselinas de Algodón para Bebé  Bebé Pañuelo Para Niños
+prodname: 'Muselinas Organicas para Bebe  Toallitas para bebé de muselina  Toalla Facial Infantil  Bebé Pañuelo Para Niños  100% Algodón de Dibujos Muselinas de Algodón para Bebé  Bebé Pañuelo Para Niños'
 ---
 
 Ahora mismo tienes [Muselinas Organicas para Bebe  Toallitas para bebé de muselina  Toalla Facial Infantil  Bebé Pañuelo Para Niños  100% Algodón de Dibujos Muselinas de Algodón para Bebé  Bebé Pañuelo Para Niños](https://www.amazon.es/dp/B083DFLZSQ/?tag=tolees-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

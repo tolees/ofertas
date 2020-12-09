@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LOFIR Gilrs Cotton Socks Toddler Crew Novelty Socks for Kids 3-13 Years
+prodname: 'LOFIR Gilrs Cotton Socks Toddler Crew Novelty Socks for Kids 3-13 Years'
 ---
 
 Ahora mismo tienes [LOFIR Gilrs Cotton Socks Toddler Crew Novelty Socks for Kids 3-13 Years](https://www.amazon.es/dp/B07MDYYW8R/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

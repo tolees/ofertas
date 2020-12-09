@@ -14,7 +14,7 @@ currency: EUR
 price: 145.0
 comparePrice: 279.0 EUR
 inStock: true
-prodname: Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513689
+prodname: 'Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513689'
 ---
 
 Tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513689](https://www.amazon.es/dp/B07ND98GBT/?tag=tolees-21) con un 48.03 % de descuento con precio de oferta de 145.0 EUR (original: 279.0 EUR) en el siguiente enlace!

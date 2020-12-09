@@ -14,7 +14,7 @@ currency: EUR
 price: 13.45
 comparePrice: 29.99 EUR
 inStock: true
-prodname: DC Shoes Star tee-Shirt  Hombre  Racing Red  L
+prodname: 'DC Shoes Star tee-Shirt  Hombre  Racing Red  L'
 ---
 
 Tienes [DC Shoes Star tee-Shirt  Hombre  Racing Red  L](https://www.amazon.es/dp/B07KPRGCYG/?tag=tolees-21) con un 55.15 % de descuento con precio de oferta de 13.45 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Mujer  Negro  Rojo  Black  Black Cherry   39 EU
+prodname: 'Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Mujer  Negro  Rojo  Black  Black Cherry   39 EU'
 ---
 
 Tienes [Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Mujer  Negro  Rojo  Black  Black Cherry   39 EU](https://www.amazon.es/dp/B07KK2QHN3/?tag=tolees-21) con un 36.00 % de descuento con precio de oferta de 63.99 EUR (original: 99.99 EUR) en el siguiente enlace!

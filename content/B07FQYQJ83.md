@@ -14,7 +14,7 @@ currency: EUR
 price: 28.02
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Clarks Tunsil Ace  Zapatillas para Hombre  Negro  Black Textile-   39.5 EU
+prodname: 'Clarks Tunsil Ace  Zapatillas para Hombre  Negro  Black Textile-   39.5 EU'
 ---
 
 Está [Clarks Tunsil Ace  Zapatillas para Hombre  Negro  Black Textile-   39.5 EU](https://www.amazon.es/dp/B07FQYQJ83/?tag=tolees-21) con 53.26 de descuento por 28.02 EUR (original: 59.95 EUR) en el siguiente enlace!

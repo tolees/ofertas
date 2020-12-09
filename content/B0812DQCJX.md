@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 23.9 EUR
 inStock: true
-prodname: L Oréal Paris Dermo Expertise Cofre Golden Age  Incluye Contorno de Ojos Antiojeras y Crema de Día Fortificante Pieles Maduras y Apagadas - 430 g
+prodname: 'L Oréal Paris Dermo Expertise Cofre Golden Age  Incluye Contorno de Ojos Antiojeras y Crema de Día Fortificante Pieles Maduras y Apagadas - 430 g'
 ---
 
 Tienes [L Oréal Paris Dermo Expertise Cofre Golden Age  Incluye Contorno de Ojos Antiojeras y Crema de Día Fortificante Pieles Maduras y Apagadas - 430 g](https://www.amazon.es/dp/B0812DQCJX/?tag=tolees-21) con un 37.45 % de descuento con precio de oferta de 14.95 EUR (original: 23.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 55.38
 comparePrice: 99.95 EUR
 inStock: true
-prodname: JACK & JONES Jjiglenn Jjfox Bl 683 Noos  Jeans Hombre  Azul  Blue Denim   W34/L34  Talla del fabricante: 34 
+prodname: 'JACK & JONES Jjiglenn Jjfox Bl 683 Noos  Jeans Hombre  Azul  Blue Denim   W34/L34  Talla del fabricante: 34 '
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiglenn Jjfox Bl 683 Noos  Jeans Hombre  Azul  Blue Denim   W34/L34  Talla del fabricante: 34 ](https://www.amazon.es/dp/B01LZ4Q8QK/?tag=tolees-21) a 55.38 EUR (original: 99.95 EUR) (44.59 %  de descuento) en el siguiente enlace!

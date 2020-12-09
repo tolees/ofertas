@@ -14,7 +14,7 @@ currency: EUR
 price: 4.6
 comparePrice: 7.1 EUR
 inStock: true
-prodname: oodji Ultra Mujer Calcetines de Algodón  Pack de 6   Multicolor  ES 35-37 / S
+prodname: 'oodji Ultra Mujer Calcetines de Algodón  Pack de 6   Multicolor  ES 35-37 / S'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Calcetines de Algodón  Pack de 6   Multicolor  ES 35-37 / S](https://www.amazon.es/dp/B07JCC4LRN/?tag=tolees-21) a 4.6 EUR (original: 7.1 EUR) (35.21 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 139.83
 comparePrice: 196.06 EUR
 inStock: true
-prodname: Ubiquiti UAP-AC-PRO - Punto de acceso  color blanco
+prodname: 'Ubiquiti UAP-AC-PRO - Punto de acceso  color blanco'
 ---
 
 Ahora mismo tienes [Ubiquiti UAP-AC-PRO - Punto de acceso  color blanco](https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21) a 139.83 EUR (original: 196.06 EUR) (28.68 %  de descuento) en el siguiente enlace!

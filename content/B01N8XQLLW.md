@@ -14,7 +14,7 @@ currency: EUR
 price: 8.37
 comparePrice: 25 EUR
 inStock: true
-prodname: Umbro RCD Mallorca Training Pantalón de fútbol  Hombre  Negro  Black/Flame Scarlet   XXL
+prodname: 'Umbro RCD Mallorca Training Pantalón de fútbol  Hombre  Negro  Black/Flame Scarlet   XXL'
 ---
 
 Ahora mismo tienes [Umbro RCD Mallorca Training Pantalón de fútbol  Hombre  Negro  Black/Flame Scarlet   XXL](https://www.amazon.es/dp/B01N8XQLLW/?tag=tolees-21) a 8.37 EUR (original: 25 EUR) (66.52 %  de descuento) en el siguiente enlace!

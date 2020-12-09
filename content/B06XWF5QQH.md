@@ -14,7 +14,7 @@ currency: EUR
 price: 13.59
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Marco Fotos para Recién Nacido - Newlemo Marcos de Huellas de Manos y Pies con Arcilla de Seguridad - Regalos Originales para Bebés y Niños
+prodname: 'Marco Fotos para Recién Nacido - Newlemo Marcos de Huellas de Manos y Pies con Arcilla de Seguridad - Regalos Originales para Bebés y Niños'
 ---
 
 Ahora mismo tienes [Marco Fotos para Recién Nacido - Newlemo Marcos de Huellas de Manos y Pies con Arcilla de Seguridad - Regalos Originales para Bebés y Niños](https://www.amazon.es/dp/B06XWF5QQH/?tag=tolees-21) a 13.59 EUR (original: 20.99 EUR) (35.25 %  de descuento) en el siguiente enlace!

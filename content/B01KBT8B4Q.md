@@ -14,7 +14,7 @@ currency: EUR
 price: 35.7
 comparePrice: 69 EUR
 inStock: true
-prodname: Lacoste Sport Straightset Bl 1 Spj  Zapatillas Bajos Unisex Niños  Negro  Blk   37 EU
+prodname: 'Lacoste Sport Straightset Bl 1 Spj  Zapatillas Bajos Unisex Niños  Negro  Blk   37 EU'
 ---
 
 Tienes [Lacoste Sport Straightset Bl 1 Spj  Zapatillas Bajos Unisex Niños  Negro  Blk   37 EU](https://www.amazon.es/dp/B01KBT8B4Q/?tag=tolees-21) con un 48.26 % de descuento con precio de oferta de 35.7 EUR (original: 69 EUR) en el siguiente enlace!

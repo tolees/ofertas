@@ -14,7 +14,7 @@ currency: EUR
 price: 28.48
 comparePrice: 39.95 EUR
 inStock: true
-prodname: adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Dark Blue/White  3XL
+prodname: 'adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Dark Blue/White  3XL'
 ---
 
 Ahora mismo tienes [adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Dark Blue/White  3XL](https://www.amazon.es/dp/B07K1SFGYJ/?tag=tolees-21) a 28.48 EUR (original: 39.95 EUR) (28.71 %  de descuento) en el siguiente enlace!

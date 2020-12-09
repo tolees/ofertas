@@ -14,7 +14,7 @@ currency: EUR
 price: 83.5
 comparePrice: 148.5 EUR
 inStock: true
-prodname: Love Moschino - Borsa Pin Grain Pu  Shoppers y bolsos de hombro Mujer  Marrón  Cammello   8x17x21 cm  B x H T 
+prodname: 'Love Moschino - Borsa Pin Grain Pu  Shoppers y bolsos de hombro Mujer  Marrón  Cammello   8x17x21 cm  B x H T '
 ---
 
 Tienes [Love Moschino - Borsa Pin Grain Pu  Shoppers y bolsos de hombro Mujer  Marrón  Cammello   8x17x21 cm  B x H T ](https://www.amazon.es/dp/B07DPK9GMH/?tag=tolees-21) con un 43.77 % de descuento con precio de oferta de 83.5 EUR (original: 148.5 EUR) en el siguiente enlace!

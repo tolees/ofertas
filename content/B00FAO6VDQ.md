@@ -14,7 +14,7 @@ currency: EUR
 price: 120.24
 comparePrice: 209.95 EUR
 inStock: true
-prodname: Cybex - Silla de coche grupo 2/3 Solution X-Fix  para coches con ISOFIX  15-36kg  desde los 3 hasta los 12 años aprox.  Gris  Gray Rabbit 
+prodname: 'Cybex - Silla de coche grupo 2/3 Solution X-Fix  para coches con ISOFIX  15-36kg  desde los 3 hasta los 12 años aprox.  Gris  Gray Rabbit '
 ---
 
 Está [Cybex - Silla de coche grupo 2/3 Solution X-Fix  para coches con ISOFIX  15-36kg  desde los 3 hasta los 12 años aprox.  Gris  Gray Rabbit ](https://www.amazon.es/dp/B00FAO6VDQ/?tag=tolees-21) con 42.73 de descuento por 120.24 EUR (original: 209.95 EUR) en el siguiente enlace!

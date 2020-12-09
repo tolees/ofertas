@@ -14,7 +14,7 @@ currency: EUR
 price: 22.45
 comparePrice: 58.26 EUR
 inStock: true
-prodname: Skechers Skyline-Woodmist  Zapatillas para Hombre  Blanco  White Wht   45.5 EU
+prodname: 'Skechers Skyline-Woodmist  Zapatillas para Hombre  Blanco  White Wht   45.5 EU'
 ---
 
 Ahora mismo tienes [Skechers Skyline-Woodmist  Zapatillas para Hombre  Blanco  White Wht   45.5 EU](https://www.amazon.es/dp/B07CTSYFFF/?tag=tolees-21) a 22.45 EUR (original: 58.26 EUR) (61.47 %  de descuento) en el siguiente enlace!

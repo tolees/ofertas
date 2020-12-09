@@ -14,7 +14,7 @@ currency: EUR
 price: 10.76
 comparePrice: 14.39 EUR
 inStock: true
-prodname: Funko- Pop Games: Mortal Kombat-Scorpion Collectible Toy  Multicolor  45110 
+prodname: 'Funko- Pop Games: Mortal Kombat-Scorpion Collectible Toy  Multicolor  45110 '
 ---
 
 Ahora mismo tienes [Funko- Pop Games: Mortal Kombat-Scorpion Collectible Toy  Multicolor  45110 ](https://www.amazon.es/dp/B07TVDQNM4/?tag=tolees-21) a 10.76 EUR (original: 14.39 EUR) (25.23 %  de descuento) en el siguiente enlace!

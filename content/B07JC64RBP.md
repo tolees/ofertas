@@ -14,7 +14,7 @@ currency: EUR
 price: 14.2
 comparePrice: 30 EUR
 inStock: true
-prodname: Nike Classic Soft Bra Sports  Mujer  Carbon Heather/Anthracite/Whit  M
+prodname: 'Nike Classic Soft Bra Sports  Mujer  Carbon Heather/Anthracite/Whit  M'
 ---
 
 Ahora mismo tienes [Nike Classic Soft Bra Sports  Mujer  Carbon Heather/Anthracite/Whit  M](https://www.amazon.es/dp/B07JC64RBP/?tag=tolees-21) a 14.2 EUR (original: 30 EUR) (52.67 %  de descuento) en el siguiente enlace!

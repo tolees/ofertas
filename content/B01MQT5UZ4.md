@@ -14,7 +14,7 @@ currency: EUR
 price: 8.6
 comparePrice: 16.8 EUR
 inStock: true
-prodname: Dr. Schar Gnocchi Pasta - 300 gr  pack de 6  - [Pack de 6]
+prodname: 'Dr. Schar Gnocchi Pasta - 300 gr  pack de 6  - [Pack de 6]'
 ---
 
 Ahora mismo tienes [Dr. Schar Gnocchi Pasta - 300 gr  pack de 6  - [Pack de 6]](https://www.amazon.es/dp/B01MQT5UZ4/?tag=tolees-21) a 8.6 EUR (original: 16.8 EUR) (48.81 %  de descuento) en el siguiente enlace!

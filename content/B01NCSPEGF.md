@@ -14,7 +14,7 @@ currency: EUR
 price: 16.79
 comparePrice: 33.59 EUR
 inStock: true
-prodname: ASICS STORMER GS - Color - Azul  Talla Calzado ES - 39.5
+prodname: 'ASICS STORMER GS - Color - Azul  Talla Calzado ES - 39.5'
 ---
 
 Tienes [ASICS STORMER GS - Color - Azul  Talla Calzado ES - 39.5](https://www.amazon.es/dp/B01NCSPEGF/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 16.79 EUR (original: 33.59 EUR) en el siguiente enlace!

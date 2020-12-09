@@ -14,7 +14,7 @@ currency: EUR
 price: 18.47
 comparePrice: 26.28 EUR
 inStock: true
-prodname: Skechers Zinger 2.0  Zapatillas Mujer  Azul Malla Amarillo Duraleather Trim BLYL  39 EU
+prodname: 'Skechers Zinger 2.0  Zapatillas Mujer  Azul Malla Amarillo Duraleather Trim BLYL  39 EU'
 ---
 
 Tienes [Skechers Zinger 2.0  Zapatillas Mujer  Azul Malla Amarillo Duraleather Trim BLYL  39 EU](https://www.amazon.es/dp/B07VVDWPJ2/?tag=tolees-21) con un 29.72 % de descuento con precio de oferta de 18.47 EUR (original: 26.28 EUR) en el siguiente enlace!

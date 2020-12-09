@@ -14,7 +14,7 @@ currency: EUR
 price: 7.57
 comparePrice: 13.3 EUR
 inStock: true
-prodname: Amazon Essentials – Pantalón chino sin pinzas en la parte delantera  resistente a las arrugas  de corte recto para hombre  Verde  Olive   35W x 30L
+prodname: 'Amazon Essentials – Pantalón chino sin pinzas en la parte delantera  resistente a las arrugas  de corte recto para hombre  Verde  Olive   35W x 30L'
 ---
 
 Ahora mismo tienes [Amazon Essentials – Pantalón chino sin pinzas en la parte delantera  resistente a las arrugas  de corte recto para hombre  Verde  Olive   35W x 30L](https://www.amazon.es/dp/B07FHB1S3G/?tag=tolees-21) a 7.57 EUR (original: 13.3 EUR) (43.08 %  de descuento) en el siguiente enlace!

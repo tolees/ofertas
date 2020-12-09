@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 25 EUR
 inStock: true
-prodname: 14 en 1 Protoboard con Soporte RAB para Arduino UNOR3  Mega 2560 y Raspberry Pi 3 2 1 Model B+ RPI Zero W y Zero  UA032 
+prodname: '14 en 1 Protoboard con Soporte RAB para Arduino UNOR3  Mega 2560 y Raspberry Pi 3 2 1 Model B+ RPI Zero W y Zero  UA032 '
 ---
 
 Tienes [14 en 1 Protoboard con Soporte RAB para Arduino UNOR3  Mega 2560 y Raspberry Pi 3 2 1 Model B+ RPI Zero W y Zero  UA032 ](https://www.amazon.es/dp/B07CGD2HLD/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 13.99 EUR (original: 25 EUR) en el siguiente enlace!

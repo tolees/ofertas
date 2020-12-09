@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 13.99 EUR
 inStock: true
-prodname: MEACELL® XL Copas Masaje Cuerpo Ventosa Silicona Anti celulitis Eliminar estrias muslos gluteos abdomen brazos Hombre y mujer Masajeador Anticelulítico
+prodname: 'MEACELL® XL Copas Masaje Cuerpo Ventosa Silicona Anti celulitis Eliminar estrias muslos gluteos abdomen brazos Hombre y mujer Masajeador Anticelulítico'
 ---
 
 Tienes [MEACELL® XL Copas Masaje Cuerpo Ventosa Silicona Anti celulitis Eliminar estrias muslos gluteos abdomen brazos Hombre y mujer Masajeador Anticelulítico](https://www.amazon.es/dp/B071F1HNXN/?tag=tolees-21) con un 29.24 % de descuento con precio de oferta de 9.9 EUR (original: 13.99 EUR) en el siguiente enlace!

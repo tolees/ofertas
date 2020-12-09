@@ -14,7 +14,7 @@ currency: EUR
 price: 23.42
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Wrangler Chino  Pantalones para Hombre  Marrón  Camel Washed 49j     Talla del Fabricante: W30/L34 
+prodname: 'Wrangler Chino  Pantalones para Hombre  Marrón  Camel Washed 49j     Talla del Fabricante: W30/L34 '
 ---
 
 Tienes [Wrangler Chino  Pantalones para Hombre  Marrón  Camel Washed 49j     Talla del Fabricante: W30/L34 ](https://www.amazon.es/dp/B078HCYSJ2/?tag=tolees-21) con un 72.43 % de descuento con precio de oferta de 23.42 EUR (original: 84.95 EUR) en el siguiente enlace!

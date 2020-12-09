@@ -14,7 +14,7 @@ currency: EUR
 price: 120.95
 comparePrice: 249 EUR
 inStock: true
-prodname: Napapijri  Alcan  Chaqueta para Hombre
+prodname: 'Napapijri  Alcan  Chaqueta para Hombre'
 ---
 
 Tienes [Napapijri  Alcan  Chaqueta para Hombre](https://www.amazon.es/dp/B079JZPPLT/?tag=tolees-21) con un 51.43 % de descuento con precio de oferta de 120.95 EUR (original: 249 EUR) en el siguiente enlace!

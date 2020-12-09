@@ -14,7 +14,7 @@ currency: EUR
 price: 31.95
 comparePrice: 64.95 EUR
 inStock: true
-prodname: XTI Botín Motera BAS034470 para Mujer Marrón 36
+prodname: 'XTI Botín Motera BAS034470 para Mujer Marrón 36'
 ---
 
 Está [XTI Botín Motera BAS034470 para Mujer Marrón 36](https://www.amazon.es/dp/B08HR3T7BQ/?tag=tolees-21) con 50.81 de descuento por 31.95 EUR (original: 64.95 EUR) en el siguiente enlace!

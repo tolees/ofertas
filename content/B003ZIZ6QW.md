@@ -14,7 +14,7 @@ currency: EUR
 price: 8.42
 comparePrice: 12.4 EUR
 inStock: true
-prodname: Termix C·Ramic Cepillo de pelo redondo Ø12 transparente- Con cerámica que aporta un brillo extra al cabello y evita el encrespamiento.
+prodname: 'Termix C·Ramic Cepillo de pelo redondo Ø12 transparente- Con cerámica que aporta un brillo extra al cabello y evita el encrespamiento.'
 ---
 
 Tienes [Termix C·Ramic Cepillo de pelo redondo Ø12 transparente- Con cerámica que aporta un brillo extra al cabello y evita el encrespamiento.](https://www.amazon.es/dp/B003ZIZ6QW/?tag=tolees-21) con un 32.10 % de descuento con precio de oferta de 8.42 EUR (original: 12.4 EUR) en el siguiente enlace!

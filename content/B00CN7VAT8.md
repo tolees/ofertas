@@ -14,7 +14,7 @@ currency: EUR
 price: 19.92
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Star Wars - Disfraz de Yoda Deluxe para mascota  Talla S perro  Rubie s 887893-S 
+prodname: 'Star Wars - Disfraz de Yoda Deluxe para mascota  Talla S perro  Rubie s 887893-S '
 ---
 
 Está [Star Wars - Disfraz de Yoda Deluxe para mascota  Talla S perro  Rubie s 887893-S ](https://www.amazon.es/dp/B00CN7VAT8/?tag=tolees-21) con 26.19 de descuento por 19.92 EUR (original: 26.99 EUR) en el siguiente enlace!

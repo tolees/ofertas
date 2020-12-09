@@ -14,7 +14,7 @@ currency: EUR
 price: 10.27
 comparePrice: 45 EUR
 inStock: true
-prodname: Superdry Field Retro tee  Camiseta de Tirantes para Hombre  Azul  Pitch Navy Upu  Large
+prodname: 'Superdry Field Retro tee  Camiseta de Tirantes para Hombre  Azul  Pitch Navy Upu  Large'
 ---
 
 Tienes [Superdry Field Retro tee  Camiseta de Tirantes para Hombre  Azul  Pitch Navy Upu  Large](https://www.amazon.es/dp/B07FL5BY7P/?tag=tolees-21) con un 77.18 % de descuento con precio de oferta de 10.27 EUR (original: 45 EUR) en el siguiente enlace!

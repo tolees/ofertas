@@ -14,7 +14,7 @@ currency: EUR
 price: 70.64
 comparePrice: 114.95 EUR
 inStock: true
-prodname: SALOMON X-Mission 3 Zapatillas De Trail Running Para Mujer
+prodname: 'SALOMON X-Mission 3 Zapatillas De Trail Running Para Mujer'
 ---
 
 Ahora mismo tienes [SALOMON X-Mission 3 Zapatillas De Trail Running Para Mujer](https://www.amazon.es/dp/B07KW96BCQ/?tag=tolees-21) a 70.64 EUR (original: 114.95 EUR) (38.55 %  de descuento) en el siguiente enlace!

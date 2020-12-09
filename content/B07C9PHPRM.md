@@ -14,7 +14,7 @@ currency: EUR
 price: 27.36
 comparePrice: 139 EUR
 inStock: true
-prodname: REPLAY Luz  Vaqueros Skinny Mujer  Gris  Light Grey Denim 10   W32/L30
+prodname: 'REPLAY Luz  Vaqueros Skinny Mujer  Gris  Light Grey Denim 10   W32/L30'
 ---
 
 Ahora mismo tienes [REPLAY Luz  Vaqueros Skinny Mujer  Gris  Light Grey Denim 10   W32/L30](https://www.amazon.es/dp/B07C9PHPRM/?tag=tolees-21) a 27.36 EUR (original: 139 EUR) (80.32 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.13
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Wrangler Western Denim Shirt  Camisa Vaquera para Hombre  Azul  Rinse Indigo We  Small
+prodname: 'Wrangler Western Denim Shirt  Camisa Vaquera para Hombre  Azul  Rinse Indigo We  Small'
 ---
 
 Tienes [Wrangler Western Denim Shirt  Camisa Vaquera para Hombre  Azul  Rinse Indigo We  Small](https://www.amazon.es/dp/B06Y1CQJ7Y/?tag=tolees-21) con un 55.15 % de descuento con precio de oferta de 29.13 EUR (original: 64.95 EUR) en el siguiente enlace!

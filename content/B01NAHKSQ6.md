@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 55 EUR
 inStock: true
-prodname: Under Armour Rapid  Zapatillas de Running para Mujer  Negro  Black White 001   42.5 EU
+prodname: 'Under Armour Rapid  Zapatillas de Running para Mujer  Negro  Black White 001   42.5 EU'
 ---
 
 Está [Under Armour Rapid  Zapatillas de Running para Mujer  Negro  Black White 001   42.5 EU](https://www.amazon.es/dp/B01NAHKSQ6/?tag=tolees-21) con 54.64 de descuento por 24.95 EUR (original: 55 EUR) en el siguiente enlace!

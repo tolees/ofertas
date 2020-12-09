@@ -14,7 +14,7 @@ currency: EUR
 price: 49.17
 comparePrice: 81.82 EUR
 inStock: true
-prodname: Pack James Bond Daniel Craig - Incluye: Casino Royale + Skyfall + Quantum of Solace + Spectre 4k Uhd [Blu-ray]
+prodname: 'Pack James Bond Daniel Craig - Incluye: Casino Royale + Skyfall + Quantum of Solace + Spectre 4k Uhd [Blu-ray]'
 ---
 
 Ahora mismo tienes [Pack James Bond Daniel Craig - Incluye: Casino Royale + Skyfall + Quantum of Solace + Spectre 4k Uhd [Blu-ray]](https://www.amazon.es/dp/B07XW6QWCG/?tag=tolees-21) a 49.17 EUR (original: 81.82 EUR) (39.90 %  de descuento) en el siguiente enlace!

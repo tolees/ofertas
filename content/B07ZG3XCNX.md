@@ -14,7 +14,7 @@ currency: EUR
 price: 25.9
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Axe Pack Auriculares Gaming Bodysprays 150 ml Ice Chill y Dark Temptation + Gel de Ducha 250 ml
+prodname: 'Axe Pack Auriculares Gaming Bodysprays 150 ml Ice Chill y Dark Temptation + Gel de Ducha 250 ml'
 ---
 
 Está [Axe Pack Auriculares Gaming Bodysprays 150 ml Ice Chill y Dark Temptation + Gel de Ducha 250 ml](https://www.amazon.es/dp/B07ZG3XCNX/?tag=tolees-21) con 25.98 de descuento por 25.9 EUR (original: 34.99 EUR) en el siguiente enlace!

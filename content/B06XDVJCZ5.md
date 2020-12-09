@@ -14,7 +14,7 @@ currency: EUR
 price: 60.13
 comparePrice: 147.09 EUR
 inStock: true
-prodname: Helly Hansen W Marion  Botas para Mujer   Negro   42 EU
+prodname: 'Helly Hansen W Marion  Botas para Mujer   Negro   42 EU'
 ---
 
 Está [Helly Hansen W Marion  Botas para Mujer   Negro   42 EU](https://www.amazon.es/dp/B06XDVJCZ5/?tag=tolees-21) con 59.12 de descuento por 60.13 EUR (original: 147.09 EUR) en el siguiente enlace!

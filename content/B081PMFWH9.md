@@ -14,7 +14,7 @@ currency: EUR
 price: 9.54
 comparePrice: 12.99 EUR
 inStock: true
-prodname: MOSISO Funda Dura Compatible con 2020 2019 MacBook Pro 16 Pulgadas con Touch Bar A2141  Ultra Delgado Carcasa Rígida Protector de Plástico Cubierta  Aireado Azul
+prodname: 'MOSISO Funda Dura Compatible con 2020 2019 MacBook Pro 16 Pulgadas con Touch Bar A2141  Ultra Delgado Carcasa Rígida Protector de Plástico Cubierta  Aireado Azul'
 ---
 
 Está [MOSISO Funda Dura Compatible con 2020 2019 MacBook Pro 16 Pulgadas con Touch Bar A2141  Ultra Delgado Carcasa Rígida Protector de Plástico Cubierta  Aireado Azul](https://www.amazon.es/dp/B081PMFWH9/?tag=tolees-21) con 26.56 de descuento por 9.54 EUR (original: 12.99 EUR) en el siguiente enlace!

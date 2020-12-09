@@ -14,7 +14,7 @@ currency: EUR
 price: 19.19
 comparePrice: 27.0 EUR
 inStock: true
-prodname: Jennifer Lopez 3414200140003 Glow Eau de Toilette 100 ml
+prodname: 'Jennifer Lopez 3414200140003 Glow Eau de Toilette 100 ml'
 ---
 
 Tienes [Jennifer Lopez 3414200140003 Glow Eau de Toilette 100 ml](https://www.amazon.es/dp/B004EHMDPA/?tag=tolees-21) con un 28.93 % de descuento con precio de oferta de 19.19 EUR (original: 27.0 EUR) en el siguiente enlace!

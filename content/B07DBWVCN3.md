@@ -14,7 +14,7 @@ currency: EUR
 price: 44.84
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Hybrid NX Daylight  Zapatillas de Running para Hombre  Negro Black-Fizzy Yellow-Orange Pop  45 EU
+prodname: 'Puma Hybrid NX Daylight  Zapatillas de Running para Hombre  Negro Black-Fizzy Yellow-Orange Pop  45 EU'
 ---
 
 Ahora mismo tienes [Puma Hybrid NX Daylight  Zapatillas de Running para Hombre  Negro Black-Fizzy Yellow-Orange Pop  45 EU](https://www.amazon.es/dp/B07DBWVCN3/?tag=tolees-21) a 44.84 EUR (original: 89.95 EUR) (50.15 %  de descuento) en el siguiente enlace!

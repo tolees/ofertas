@@ -14,7 +14,7 @@ currency: EUR
 price: 0.99
 comparePrice: 1.5 EUR
 inStock: true
-prodname: Rayen - Funda de ropa para armario. Pack de 3 bolsas transperentes para guardar ropa. Protectores de ropa antipolvo. 65 x 150 cm. Transparente
+prodname: 'Rayen - Funda de ropa para armario. Pack de 3 bolsas transperentes para guardar ropa. Protectores de ropa antipolvo. 65 x 150 cm. Transparente'
 ---
 
 Está [Rayen - Funda de ropa para armario. Pack de 3 bolsas transperentes para guardar ropa. Protectores de ropa antipolvo. 65 x 150 cm. Transparente](https://www.amazon.es/dp/B00L4ZNHPU/?tag=tolees-21) con 34.00 de descuento por 0.99 EUR (original: 1.5 EUR) en el siguiente enlace!

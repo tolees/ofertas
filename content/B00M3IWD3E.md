@@ -14,7 +14,7 @@ currency: EUR
 price: 69.29
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable A045-1920-00  Plata
+prodname: 'Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable A045-1920-00  Plata'
 ---
 
 Tienes [Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable A045-1920-00  Plata](https://www.amazon.es/dp/B00M3IWD3E/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 69.29 EUR (original: 99.0 EUR) en el siguiente enlace!

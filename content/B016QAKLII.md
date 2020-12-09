@@ -14,7 +14,7 @@ currency: EUR
 price: 11.64
 comparePrice: 17.99 EUR
 inStock: true
-prodname: adidas Parma 16 SHO Sport Shorts  Hombre  Dark Blue/White  M
+prodname: 'adidas Parma 16 SHO Sport Shorts  Hombre  Dark Blue/White  M'
 ---
 
 Está [adidas Parma 16 SHO Sport Shorts  Hombre  Dark Blue/White  M](https://www.amazon.es/dp/B016QAKLII/?tag=tolees-21) con 35.30 de descuento por 11.64 EUR (original: 17.99 EUR) en el siguiente enlace!

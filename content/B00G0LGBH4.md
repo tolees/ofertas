@@ -14,7 +14,7 @@ currency: EUR
 price: 23.92
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Remington XR1330 HyperFlex - Afeitadora rotativa  tecnología HyperFlex  cabezales ActiveContour XL  cortador de precisión ComfortTrim
+prodname: 'Remington XR1330 HyperFlex - Afeitadora rotativa  tecnología HyperFlex  cabezales ActiveContour XL  cortador de precisión ComfortTrim'
 ---
 
 Tienes [Remington XR1330 HyperFlex - Afeitadora rotativa  tecnología HyperFlex  cabezales ActiveContour XL  cortador de precisión ComfortTrim](https://www.amazon.es/dp/B00G0LGBH4/?tag=tolees-21) con un 76.06 % de descuento con precio de oferta de 23.92 EUR (original: 99.9 EUR) en el siguiente enlace!

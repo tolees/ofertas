@@ -14,7 +14,7 @@ currency: EUR
 price: 12.21
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Cortefiel Camisa Lisa Estructura Camisa Casual  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:5 
+prodname: 'Cortefiel Camisa Lisa Estructura Camisa Casual  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:5 '
 ---
 
 Ahora mismo tienes [Cortefiel Camisa Lisa Estructura Camisa Casual  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:5 ](https://www.amazon.es/dp/B078WT9GCT/?tag=tolees-21) a 12.21 EUR (original: 49.99 EUR) (75.58 %  de descuento) en el siguiente enlace!

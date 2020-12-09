@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s The Original tee Camiseta  Grey  Cotton + Patch Medium Grey Heather Emb 0015   X-Small para Hombre
+prodname: 'Levi s The Original tee Camiseta  Grey  Cotton + Patch Medium Grey Heather Emb 0015   X-Small para Hombre'
 ---
 
 Está [Levi s The Original tee Camiseta  Grey  Cotton + Patch Medium Grey Heather Emb 0015   X-Small para Hombre](https://www.amazon.es/dp/B07TNLXT4M/?tag=tolees-21) con 48.04 de descuento por 12.99 EUR (original: 25.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 38
 comparePrice: 74.99 EUR
 inStock: true
-prodname: Taurus NEW-948 700 Vitara 3000 New-Aspiradora con Bolsa  diseño Compacto  Sistema Energy Eco  Filtro Lavable  Capacidad 2 l   Blanco  Azul y Negro  700 W  2 litros  80 Decibelios
+prodname: 'Taurus NEW-948 700 Vitara 3000 New-Aspiradora con Bolsa  diseño Compacto  Sistema Energy Eco  Filtro Lavable  Capacidad 2 l   Blanco  Azul y Negro  700 W  2 litros  80 Decibelios'
 ---
 
 Tienes [Taurus NEW-948 700 Vitara 3000 New-Aspiradora con Bolsa  diseño Compacto  Sistema Energy Eco  Filtro Lavable  Capacidad 2 l   Blanco  Azul y Negro  700 W  2 litros  80 Decibelios](https://www.amazon.es/dp/B01HO4SEZC/?tag=tolees-21) con un 49.33 % de descuento con precio de oferta de 38 EUR (original: 74.99 EUR) en el siguiente enlace!

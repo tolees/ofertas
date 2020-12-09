@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Pack 1-8: Viernes 13 [DVD]
+prodname: 'Pack 1-8: Viernes 13 [DVD]'
 ---
 
 Tienes [Pack 1-8: Viernes 13 [DVD]](https://www.amazon.es/dp/B08HMMKQLN/?tag=tolees-21) con un 49.98 % de descuento con precio de oferta de 15.0 EUR (original: 29.99 EUR) en el siguiente enlace!

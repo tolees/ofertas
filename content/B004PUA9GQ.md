@@ -14,7 +14,7 @@ currency: EUR
 price: 36.41
 comparePrice: 62.79 EUR
 inStock: true
-prodname: Grohe Mecanismo aquadimer Ref. 12433000
+prodname: 'Grohe Mecanismo aquadimer Ref. 12433000'
 ---
 
 Tienes [Grohe Mecanismo aquadimer Ref. 12433000](https://www.amazon.es/dp/B004PUA9GQ/?tag=tolees-21) con un 42.01 % de descuento con precio de oferta de 36.41 EUR (original: 62.79 EUR) en el siguiente enlace!

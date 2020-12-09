@@ -14,7 +14,7 @@ currency: EUR
 price: 27.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Crocs Specialist II Vent Clog  Zuecos Unisex Adulto  Blanco  White 100   36/37 EU
+prodname: 'Crocs Specialist II Vent Clog  Zuecos Unisex Adulto  Blanco  White 100   36/37 EU'
 ---
 
 Está [Crocs Specialist II Vent Clog  Zuecos Unisex Adulto  Blanco  White 100   36/37 EU](https://www.amazon.es/dp/B07CN8WHMR/?tag=tolees-21) con 30.11 de descuento por 27.95 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.5
 comparePrice: 100 EUR
 inStock: true
-prodname: Burton Barnstorm Pantalón de Snowboard  Niños  Verde  Olive Branch   L
+prodname: 'Burton Barnstorm Pantalón de Snowboard  Niños  Verde  Olive Branch   L'
 ---
 
 Tienes [Burton Barnstorm Pantalón de Snowboard  Niños  Verde  Olive Branch   L](https://www.amazon.es/dp/B07DPY7L3W/?tag=tolees-21) con un 79.50 % de descuento con precio de oferta de 20.5 EUR (original: 100 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.26
 comparePrice: 79 EUR
 inStock: true
-prodname: Superga 2750  Zapatillas Unisex Adulto  Beige  36 EU
+prodname: 'Superga 2750  Zapatillas Unisex Adulto  Beige  36 EU'
 ---
 
 Ahora mismo tienes [Superga 2750  Zapatillas Unisex Adulto  Beige  36 EU](https://www.amazon.es/dp/B003MEHQS0/?tag=tolees-21) a 30.26 EUR (original: 79 EUR) (61.70 %  de descuento) en el siguiente enlace!

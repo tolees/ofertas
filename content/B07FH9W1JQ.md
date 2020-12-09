@@ -14,7 +14,7 @@ currency: EUR
 price: 9.8
 comparePrice: 14 EUR
 inStock: true
-prodname: Amazon Essentials Classic-fit 7\" Print Short Pantalones Cortos  Azul  Navy Anchor Nav   W34  
+prodname: 'Amazon Essentials Classic-fit 7\" Print Short Pantalones Cortos  Azul  Navy Anchor Nav   W34  '
 ---
 
 Está [Amazon Essentials Classic-fit 7\" Print Short Pantalones Cortos  Azul  Navy Anchor Nav   W34  ](https://www.amazon.es/dp/B07FH9W1JQ/?tag=tolees-21) con 30.00 de descuento por 9.8 EUR (original: 14 EUR) en el siguiente enlace!

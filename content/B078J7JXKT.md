@@ -14,7 +14,7 @@ currency: EUR
 price: 39.0
 comparePrice: 57.95 EUR
 inStock: true
-prodname: Jata BT199 Batidora de Varilla Inox con Doble Cuchilla de Titanium y Todos los Accesorios Incluidos Regulador electrónico de Velocidad Pie Desmontable de Acero Inoxidable 1000 W
+prodname: 'Jata BT199 Batidora de Varilla Inox con Doble Cuchilla de Titanium y Todos los Accesorios Incluidos Regulador electrónico de Velocidad Pie Desmontable de Acero Inoxidable 1000 W'
 ---
 
 Está [Jata BT199 Batidora de Varilla Inox con Doble Cuchilla de Titanium y Todos los Accesorios Incluidos Regulador electrónico de Velocidad Pie Desmontable de Acero Inoxidable 1000 W](https://www.amazon.es/dp/B078J7JXKT/?tag=tolees-21) con 32.70 de descuento por 39.0 EUR (original: 57.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 15.55 EUR
 inStock: true
-prodname: Puma One 5 – Espinilleras  otoño/Invierno  Unisex Adulto  Color Shocking Orange-Puma Black-Puma White  tamaño Medium
+prodname: 'Puma One 5 – Espinilleras  otoño/Invierno  Unisex Adulto  Color Shocking Orange-Puma Black-Puma White  tamaño Medium'
 ---
 
 Ahora mismo tienes [Puma One 5 – Espinilleras  otoño/Invierno  Unisex Adulto  Color Shocking Orange-Puma Black-Puma White  tamaño Medium](https://www.amazon.es/dp/B07F2DLGLY/?tag=tolees-21) a 6.95 EUR (original: 15.55 EUR) (55.31 %  de descuento) en el siguiente enlace!

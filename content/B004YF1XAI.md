@@ -14,7 +14,7 @@ currency: EUR
 price: 90.27
 comparePrice: 155.99 EUR
 inStock: true
-prodname: Bosch PEX 400 AE - Lijadora excéntrica  diámetro 125 mm  350 W  color negro y verde
+prodname: 'Bosch PEX 400 AE - Lijadora excéntrica  diámetro 125 mm  350 W  color negro y verde'
 ---
 
 Ahora mismo tienes [Bosch PEX 400 AE - Lijadora excéntrica  diámetro 125 mm  350 W  color negro y verde](https://www.amazon.es/dp/B004YF1XAI/?tag=tolees-21) a 90.27 EUR (original: 155.99 EUR) (42.13 %  de descuento) en el siguiente enlace!

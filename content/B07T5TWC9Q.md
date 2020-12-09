@@ -14,7 +14,7 @@ currency: EUR
 price: 38.95
 comparePrice: 53.14 EUR
 inStock: true
-prodname: KitHome - Estanteria Almacenaje 4 Baldas  180x120x45cm  275Kg por Balda  Negro y MDF  MAX 4B12045275K
+prodname: 'KitHome - Estanteria Almacenaje 4 Baldas  180x120x45cm  275Kg por Balda  Negro y MDF  MAX 4B12045275K'
 ---
 
 Tienes [KitHome - Estanteria Almacenaje 4 Baldas  180x120x45cm  275Kg por Balda  Negro y MDF  MAX 4B12045275K](https://www.amazon.es/dp/B07T5TWC9Q/?tag=tolees-21) con un 26.70 % de descuento con precio de oferta de 38.95 EUR (original: 53.14 EUR) en el siguiente enlace!

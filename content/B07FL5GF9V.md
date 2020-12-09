@@ -14,7 +14,7 @@ currency: EUR
 price: 52.45
 comparePrice: 86.23 EUR
 inStock: true
-prodname: Superdry World Wide Ticket Type Hood  Sudadera para Hombre  Gris  Dark Marl 14q  X-Large
+prodname: 'Superdry World Wide Ticket Type Hood  Sudadera para Hombre  Gris  Dark Marl 14q  X-Large'
 ---
 
 Está [Superdry World Wide Ticket Type Hood  Sudadera para Hombre  Gris  Dark Marl 14q  X-Large](https://www.amazon.es/dp/B07FL5GF9V/?tag=tolees-21) con 39.17 de descuento por 52.45 EUR (original: 86.23 EUR) en el siguiente enlace!

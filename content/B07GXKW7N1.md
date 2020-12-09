@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: spaire Vapor alisador de cabello 2 en 1 - Plancha con vapor profesional cerámica Flat Curl y plancha H/L Temperatura ajustable Profesional Auto Apagado con 7 ml Reservorio de agua anti Static
+prodname: 'spaire Vapor alisador de cabello 2 en 1 - Plancha con vapor profesional cerámica Flat Curl y plancha H/L Temperatura ajustable Profesional Auto Apagado con 7 ml Reservorio de agua anti Static'
 ---
 
 Ahora mismo tienes [spaire Vapor alisador de cabello 2 en 1 - Plancha con vapor profesional cerámica Flat Curl y plancha H/L Temperatura ajustable Profesional Auto Apagado con 7 ml Reservorio de agua anti Static](https://www.amazon.es/dp/B07GXKW7N1/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

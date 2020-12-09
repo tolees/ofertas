@@ -14,7 +14,7 @@ currency: EUR
 price: 98.0
 comparePrice: 139.95 EUR
 inStock: true
-prodname: Bose® SoundLink Color II - Altavoz Bluetooth  Negro
+prodname: 'Bose® SoundLink Color II - Altavoz Bluetooth  Negro'
 ---
 
 Ahora mismo tienes [Bose® SoundLink Color II - Altavoz Bluetooth  Negro](https://www.amazon.es/dp/B01HETFQKS/?tag=tolees-21) a 98.0 EUR (original: 139.95 EUR) (29.97 %  de descuento) en el siguiente enlace!

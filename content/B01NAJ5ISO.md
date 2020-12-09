@@ -14,7 +14,7 @@ currency: EUR
 price: 81.14
 comparePrice: 170 EUR
 inStock: true
-prodname: Helly Hansen W Crew Hooded Midlayer Chaqueta  Mujer  Negro  Small
+prodname: 'Helly Hansen W Crew Hooded Midlayer Chaqueta  Mujer  Negro  Small'
 ---
 
 Ahora mismo tienes [Helly Hansen W Crew Hooded Midlayer Chaqueta  Mujer  Negro  Small](https://www.amazon.es/dp/B01NAJ5ISO/?tag=tolees-21) a 81.14 EUR (original: 170 EUR) (52.27 %  de descuento) en el siguiente enlace!

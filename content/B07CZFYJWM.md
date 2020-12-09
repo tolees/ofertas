@@ -14,7 +14,7 @@ currency: EUR
 price: 29.32
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Under Armour Armour Fly Fast Capri Leggings  Mujer  Gris  Pitch Gray/Reflective 012   XS
+prodname: 'Under Armour Armour Fly Fast Capri Leggings  Mujer  Gris  Pitch Gray/Reflective 012   XS'
 ---
 
 Está [Under Armour Armour Fly Fast Capri Leggings  Mujer  Gris  Pitch Gray/Reflective 012   XS](https://www.amazon.es/dp/B07CZFYJWM/?tag=tolees-21) con 46.68 de descuento por 29.32 EUR (original: 54.99 EUR) en el siguiente enlace!

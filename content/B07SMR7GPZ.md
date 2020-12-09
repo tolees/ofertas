@@ -14,7 +14,7 @@ currency: EUR
 price: 11.19
 comparePrice: 19.99 EUR
 inStock: true
-prodname: HOMIEE Bolso para Laptop Fieltro y Bolsa de Cuero PU  Estuche Protector para MacBook Pro/Acer/DELL/Lenovo/HP/Chromebook Maletín Portátil para Negocios Ultra Delgado de 15.6 Pulgadas Azul
+prodname: 'HOMIEE Bolso para Laptop Fieltro y Bolsa de Cuero PU  Estuche Protector para MacBook Pro/Acer/DELL/Lenovo/HP/Chromebook Maletín Portátil para Negocios Ultra Delgado de 15.6 Pulgadas Azul'
 ---
 
 Ahora mismo tienes [HOMIEE Bolso para Laptop Fieltro y Bolsa de Cuero PU  Estuche Protector para MacBook Pro/Acer/DELL/Lenovo/HP/Chromebook Maletín Portátil para Negocios Ultra Delgado de 15.6 Pulgadas Azul](https://www.amazon.es/dp/B07SMR7GPZ/?tag=tolees-21) a 11.19 EUR (original: 19.99 EUR) (44.02 %  de descuento) en el siguiente enlace!

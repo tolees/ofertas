@@ -14,7 +14,7 @@ currency: EUR
 price: 7.93
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Esprit 037ee1f035  Blusa Mujer   Light Blue   44
+prodname: 'Esprit 037ee1f035  Blusa Mujer   Light Blue   44'
 ---
 
 Ahora mismo tienes [Esprit 037ee1f035  Blusa Mujer   Light Blue   44](https://www.amazon.es/dp/B01N7IY7NT/?tag=tolees-21) a 7.93 EUR (original: 39.99 EUR) (80.17 %  de descuento) en el siguiente enlace!

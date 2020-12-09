@@ -14,7 +14,7 @@ currency: EUR
 price: 42.54
 comparePrice: 369 EUR
 inStock: true
-prodname: Boudier & Cie Reloj analogico para Hombre de Cuarzo con Correa en Piel BC15SA3
+prodname: 'Boudier & Cie Reloj analogico para Hombre de Cuarzo con Correa en Piel BC15SA3'
 ---
 
 Tienes [Boudier & Cie Reloj analogico para Hombre de Cuarzo con Correa en Piel BC15SA3](https://www.amazon.es/dp/B00PY3NGZY/?tag=tolees-21) con un 88.47 % de descuento con precio de oferta de 42.54 EUR (original: 369 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.44
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Funko- Assassin S Creed Movie Ojeda Figura de Vinilo  11532 
+prodname: 'Funko- Assassin S Creed Movie Ojeda Figura de Vinilo  11532 '
 ---
 
 Ahora mismo tienes [Funko- Assassin S Creed Movie Ojeda Figura de Vinilo  11532 ](https://www.amazon.es/dp/B01LEJBPTK/?tag=tolees-21) a 9.44 EUR (original: 14.95 EUR) (36.86 %  de descuento) en el siguiente enlace!

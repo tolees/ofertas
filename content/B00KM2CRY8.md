@@ -14,7 +14,7 @@ currency: EUR
 price: 1.1
 comparePrice: 1.6 EUR
 inStock: true
-prodname: Semillas Ecológicas Hortícolas - Tomate tres cantos gigante rosa - ECO - Batlle
+prodname: 'Semillas Ecológicas Hortícolas - Tomate tres cantos gigante rosa - ECO - Batlle'
 ---
 
 Está [Semillas Ecológicas Hortícolas - Tomate tres cantos gigante rosa - ECO - Batlle](https://www.amazon.es/dp/B00KM2CRY8/?tag=tolees-21) con 31.25 de descuento por 1.1 EUR (original: 1.6 EUR) en el siguiente enlace!

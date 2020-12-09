@@ -14,7 +14,7 @@ currency: EUR
 price: 49.5
 comparePrice: 77 EUR
 inStock: true
-prodname: Merrell All out Crush 2  Zapatillas de Running para Asfalto para Hombre  Negro  Black/Speed Green   42 EU
+prodname: 'Merrell All out Crush 2  Zapatillas de Running para Asfalto para Hombre  Negro  Black/Speed Green   42 EU'
 ---
 
 Ahora mismo tienes [Merrell All out Crush 2  Zapatillas de Running para Asfalto para Hombre  Negro  Black/Speed Green   42 EU](https://www.amazon.es/dp/B071WMXKG3/?tag=tolees-21) a 49.5 EUR (original: 77 EUR) (35.71 %  de descuento) en el siguiente enlace!

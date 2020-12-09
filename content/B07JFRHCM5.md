@@ -14,7 +14,7 @@ currency: EUR
 price: 8.38
 comparePrice: 100 EUR
 inStock: true
-prodname: Roblue Silla Plegable Exterior Taburete Camping para Senderismo Pesca Viaje jardín BBQ 26 * 26 * 24 cm
+prodname: 'Roblue Silla Plegable Exterior Taburete Camping para Senderismo Pesca Viaje jardín BBQ 26 * 26 * 24 cm'
 ---
 
 Tienes [Roblue Silla Plegable Exterior Taburete Camping para Senderismo Pesca Viaje jardín BBQ 26 * 26 * 24 cm](https://www.amazon.es/dp/B07JFRHCM5/?tag=tolees-21) con un 91.62 % de descuento con precio de oferta de 8.38 EUR (original: 100 EUR) en el siguiente enlace!

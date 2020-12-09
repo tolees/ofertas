@@ -14,7 +14,7 @@ currency: EUR
 price: 4.75
 comparePrice: 9.25 EUR
 inStock: true
-prodname: Protect Home Cebo Antihormigas Granulado  Azul
+prodname: 'Protect Home Cebo Antihormigas Granulado  Azul'
 ---
 
 Ahora mismo tienes [Protect Home Cebo Antihormigas Granulado  Azul](https://www.amazon.es/dp/B00GXL8RAK/?tag=tolees-21) a 4.75 EUR (original: 9.25 EUR) (48.65 %  de descuento) en el siguiente enlace!

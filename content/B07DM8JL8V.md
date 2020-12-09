@@ -14,7 +14,7 @@ currency: EUR
 price: 6.91
 comparePrice: 39.99 EUR
 inStock: true
-prodname: PIECES Pcfortuna LS Wool Knit Noos  suéter para Mujer  Rosa  Peachskin Detail: Melange  42  Talla del Fabricante: Large 
+prodname: 'PIECES Pcfortuna LS Wool Knit Noos  suéter para Mujer  Rosa  Peachskin Detail: Melange  42  Talla del Fabricante: Large '
 ---
 
 Tienes [PIECES Pcfortuna LS Wool Knit Noos  suéter para Mujer  Rosa  Peachskin Detail: Melange  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07DM8JL8V/?tag=tolees-21) con un 82.72 % de descuento con precio de oferta de 6.91 EUR (original: 39.99 EUR) en el siguiente enlace!

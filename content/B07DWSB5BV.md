@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: YOUNGDO Báscula Grasa Corporal 30*30  Báscula de Baño  Báscula Inteligente Bluetooth hasta 180 kg con 19 Datos del Cuerpo para 8 Usuarios  Peso  Grasa  Músculo  Agua  etc.  Blanco
+prodname: 'YOUNGDO Báscula Grasa Corporal 30*30  Báscula de Baño  Báscula Inteligente Bluetooth hasta 180 kg con 19 Datos del Cuerpo para 8 Usuarios  Peso  Grasa  Músculo  Agua  etc.  Blanco'
 ---
 
 Tienes [YOUNGDO Báscula Grasa Corporal 30*30  Báscula de Baño  Báscula Inteligente Bluetooth hasta 180 kg con 19 Datos del Cuerpo para 8 Usuarios  Peso  Grasa  Músculo  Agua  etc.  Blanco](https://www.amazon.es/dp/B07DWSB5BV/?tag=tolees-21) con un 32.01 % de descuento con precio de oferta de 33.99 EUR (original: 49.99 EUR) en el siguiente enlace!

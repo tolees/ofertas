@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 34.26 EUR
 inStock: true
-prodname: Mars Gaming MK215 - Teclado Gaming de Membrana  Software Dual  programable  5 Teclas para Macros  4 perfiles  4 Teclas Multimedia  RGB 7 Colores  antighosting  Teclas Desmontables y Extras  USB 
+prodname: 'Mars Gaming MK215 - Teclado Gaming de Membrana  Software Dual  programable  5 Teclas para Macros  4 perfiles  4 Teclas Multimedia  RGB 7 Colores  antighosting  Teclas Desmontables y Extras  USB '
 ---
 
 Tienes [Mars Gaming MK215 - Teclado Gaming de Membrana  Software Dual  programable  5 Teclas para Macros  4 perfiles  4 Teclas Multimedia  RGB 7 Colores  antighosting  Teclas Desmontables y Extras  USB ](https://www.amazon.es/dp/B015CYHY5M/?tag=tolees-21) con un 27.32 % de descuento con precio de oferta de 24.9 EUR (original: 34.26 EUR) en el siguiente enlace!

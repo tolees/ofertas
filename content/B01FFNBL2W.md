@@ -14,7 +14,7 @@ currency: EUR
 price: 20.0
 comparePrice: 40.0 EUR
 inStock: true
-prodname: Under Armour Heatgear 2.0 3/4 Leggings pantalón Largo  Hombre  Negro  Black/Graphite   S
+prodname: 'Under Armour Heatgear 2.0 3/4 Leggings pantalón Largo  Hombre  Negro  Black/Graphite   S'
 ---
 
 Ahora mismo tienes [Under Armour Heatgear 2.0 3/4 Leggings pantalón Largo  Hombre  Negro  Black/Graphite   S](https://www.amazon.es/dp/B01FFNBL2W/?tag=tolees-21) a 20.0 EUR (original: 40.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

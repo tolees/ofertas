@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Gran Turismo Sport PlayStation Hits
+prodname: 'Gran Turismo Sport PlayStation Hits'
 ---
 
 Ahora mismo tienes [Gran Turismo Sport PlayStation Hits](https://www.amazon.es/dp/B07YY2JXGZ/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!

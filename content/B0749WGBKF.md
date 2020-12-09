@@ -14,7 +14,7 @@ currency: EUR
 price: 11.9
 comparePrice: 18.98 EUR
 inStock: true
-prodname: Los Sims 4 - Edición Estándar
+prodname: 'Los Sims 4 - Edición Estándar'
 ---
 
 Ahora mismo tienes [Los Sims 4 - Edición Estándar](https://www.amazon.es/dp/B0749WGBKF/?tag=tolees-21) a 11.9 EUR (original: 18.98 EUR) (37.30 %  de descuento) en el siguiente enlace!

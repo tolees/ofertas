@@ -14,7 +14,7 @@ currency: EUR
 price: 46.77
 comparePrice: 80 EUR
 inStock: true
-prodname: DC Shoes Lynnfield TX Se  Zapatillas de Skateboard para Hombre  Marrón  Brn/Aqua Cbq   40 EU
+prodname: 'DC Shoes Lynnfield TX Se  Zapatillas de Skateboard para Hombre  Marrón  Brn/Aqua Cbq   40 EU'
 ---
 
 Ahora mismo tienes [DC Shoes Lynnfield TX Se  Zapatillas de Skateboard para Hombre  Marrón  Brn/Aqua Cbq   40 EU](https://www.amazon.es/dp/B07DGJSFDH/?tag=tolees-21) a 46.77 EUR (original: 80 EUR) (41.54 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.73
 comparePrice: 38 EUR
 inStock: true
-prodname: INTEX 56207 - Piscina Easy Set con diseño de Planes  183 x 51 cm
+prodname: 'INTEX 56207 - Piscina Easy Set con diseño de Planes  183 x 51 cm'
 ---
 
 Tienes [INTEX 56207 - Piscina Easy Set con diseño de Planes  183 x 51 cm](https://www.amazon.es/dp/B00GOCJEYG/?tag=tolees-21) con un 61.24 % de descuento con precio de oferta de 14.73 EUR (original: 38 EUR) en el siguiente enlace!

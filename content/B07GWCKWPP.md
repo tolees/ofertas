@@ -14,7 +14,7 @@ currency: EUR
 price: 53.29
 comparePrice: 78 EUR
 inStock: true
-prodname: 1ª equipación Réplica - Real Betis Balompié  2018/2019 - Kappa Kombat Replica Home - Hombre M
+prodname: '1ª equipación Réplica - Real Betis Balompié  2018/2019 - Kappa Kombat Replica Home - Hombre M'
 ---
 
 Está [1ª equipación Réplica - Real Betis Balompié  2018/2019 - Kappa Kombat Replica Home - Hombre M](https://www.amazon.es/dp/B07GWCKWPP/?tag=tolees-21) con 31.68 de descuento por 53.29 EUR (original: 78 EUR) en el siguiente enlace!

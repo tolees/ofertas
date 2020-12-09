@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 58.88 EUR
 inStock: true
-prodname: Marvel Ultimate Alliance 3
+prodname: 'Marvel Ultimate Alliance 3'
 ---
 
 Está [Marvel Ultimate Alliance 3](https://www.amazon.es/dp/B07NQPJLCP/?tag=tolees-21) con 45.67 de descuento por 31.99 EUR (original: 58.88 EUR) en el siguiente enlace!

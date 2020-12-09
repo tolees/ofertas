@@ -14,7 +14,7 @@ currency: EUR
 price: 78.26
 comparePrice: 121.92 EUR
 inStock: true
-prodname: Unidad Flash de Lexar JumpDrive Fingerprint F35 256GB USB 3.0
+prodname: 'Unidad Flash de Lexar JumpDrive Fingerprint F35 256GB USB 3.0'
 ---
 
 Ahora mismo tienes [Unidad Flash de Lexar JumpDrive Fingerprint F35 256GB USB 3.0](https://www.amazon.es/dp/B07TFMCLZL/?tag=tolees-21) a 78.26 EUR (original: 121.92 EUR) (35.81 %  de descuento) en el siguiente enlace!

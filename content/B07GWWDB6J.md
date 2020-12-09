@@ -14,7 +14,7 @@ currency: EUR
 price: 9.3
 comparePrice: 27.75 EUR
 inStock: true
-prodname: New Look Crew  suéter para Hombre  Rojo  Dark Burgundy  Small  Talla del Fabricante: 51 
+prodname: 'New Look Crew  suéter para Hombre  Rojo  Dark Burgundy  Small  Talla del Fabricante: 51 '
 ---
 
 Está [New Look Crew  suéter para Hombre  Rojo  Dark Burgundy  Small  Talla del Fabricante: 51 ](https://www.amazon.es/dp/B07GWWDB6J/?tag=tolees-21) con 66.49 de descuento por 9.3 EUR (original: 27.75 EUR) en el siguiente enlace!

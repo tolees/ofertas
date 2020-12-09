@@ -14,7 +14,7 @@ currency: EUR
 price: 21.52
 comparePrice: 89 EUR
 inStock: true
-prodname: Nautica French Terry  Sudadera para Hombre  Azul  Navy 4nv   Small  Tamaño del Fabricante:S 
+prodname: 'Nautica French Terry  Sudadera para Hombre  Azul  Navy 4nv   Small  Tamaño del Fabricante:S '
 ---
 
 Está [Nautica French Terry  Sudadera para Hombre  Azul  Navy 4nv   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07D5PTVC5/?tag=tolees-21) con 75.82 de descuento por 21.52 EUR (original: 89 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.5
 comparePrice: 12.99 EUR
 inStock: true
-prodname: La Mujer en la Luna [Blu-ray]
+prodname: 'La Mujer en la Luna [Blu-ray]'
 ---
 
 Tienes [La Mujer en la Luna [Blu-ray]](https://www.amazon.es/dp/B08KQ8S9QM/?tag=tolees-21) con un 49.96 % de descuento con precio de oferta de 6.5 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 79.88
 comparePrice: 119.99 EUR
 inStock: true
-prodname: CHORTAU Árbol de Navidad 180cm con piñas y Bayas  800 Puntas Ramas Árbol Artificial  Verde  Material de PVC  Ignífugo  Impermeable 1.8M Árbol de Navidad con Soporte de Metal  Decoración navideña
+prodname: 'CHORTAU Árbol de Navidad 180cm con piñas y Bayas  800 Puntas Ramas Árbol Artificial  Verde  Material de PVC  Ignífugo  Impermeable 1.8M Árbol de Navidad con Soporte de Metal  Decoración navideña'
 ---
 
 Tienes [CHORTAU Árbol de Navidad 180cm con piñas y Bayas  800 Puntas Ramas Árbol Artificial  Verde  Material de PVC  Ignífugo  Impermeable 1.8M Árbol de Navidad con Soporte de Metal  Decoración navideña](https://www.amazon.es/dp/B08FX8TCL8/?tag=tolees-21) con un 33.43 % de descuento con precio de oferta de 79.88 EUR (original: 119.99 EUR) en el siguiente enlace!

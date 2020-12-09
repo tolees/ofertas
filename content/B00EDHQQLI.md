@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 12.23 EUR
 inStock: true
-prodname: Lavazza Café en Grano Tostado Crema e Gusto  Café Espresso Arábica y Robusta  Paquete de 1 Kg
+prodname: 'Lavazza Café en Grano Tostado Crema e Gusto  Café Espresso Arábica y Robusta  Paquete de 1 Kg'
 ---
 
 Está [Lavazza Café en Grano Tostado Crema e Gusto  Café Espresso Arábica y Robusta  Paquete de 1 Kg](https://www.amazon.es/dp/B00EDHQQLI/?tag=tolees-21) con 26.49 de descuento por 8.99 EUR (original: 12.23 EUR) en el siguiente enlace!

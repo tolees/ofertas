@@ -14,7 +14,7 @@ currency: EUR
 price: 22.4
 comparePrice: 44.15 EUR
 inStock: true
-prodname: Reebok Wor Myt Engineered Tight Mallas  Mujer  crucob  2XS
+prodname: 'Reebok Wor Myt Engineered Tight Mallas  Mujer  crucob  2XS'
 ---
 
 Está [Reebok Wor Myt Engineered Tight Mallas  Mujer  crucob  2XS](https://www.amazon.es/dp/B07KGJS8HQ/?tag=tolees-21) con 49.26 de descuento por 22.4 EUR (original: 44.15 EUR) en el siguiente enlace!

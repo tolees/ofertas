@@ -14,7 +14,7 @@ currency: EUR
 price: 33.55
 comparePrice: 90 EUR
 inStock: true
-prodname: New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Azul  Smoke Blue/Light Petrol Es   49 EU
+prodname: 'New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Azul  Smoke Blue/Light Petrol Es   49 EU'
 ---
 
 Tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Azul  Smoke Blue/Light Petrol Es   49 EU](https://www.amazon.es/dp/B076BQRWNH/?tag=tolees-21) con un 62.72 % de descuento con precio de oferta de 33.55 EUR (original: 90 EUR) en el siguiente enlace!

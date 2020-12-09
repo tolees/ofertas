@@ -14,7 +14,7 @@ currency: EUR
 price: 49
 comparePrice: 79.2 EUR
 inStock: true
-prodname: Reloj FOSSIL - Hombre FS5325
+prodname: 'Reloj FOSSIL - Hombre FS5325'
 ---
 
 Ahora mismo tienes [Reloj FOSSIL - Hombre FS5325](https://www.amazon.es/dp/B01N4PBRX4/?tag=tolees-21) a 49 EUR (original: 79.2 EUR) (38.13 %  de descuento) en el siguiente enlace!

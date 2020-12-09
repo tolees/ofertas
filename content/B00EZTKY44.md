@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 30.16 EUR
 inStock: true
-prodname: MyProtein Impact Whey Proteína de Suero  Sabor Latte - 1000 gr
+prodname: 'MyProtein Impact Whey Proteína de Suero  Sabor Latte - 1000 gr'
 ---
 
 Está [MyProtein Impact Whey Proteína de Suero  Sabor Latte - 1000 gr](https://www.amazon.es/dp/B00EZTKY44/?tag=tolees-21) con 40.35 de descuento por 17.99 EUR (original: 30.16 EUR) en el siguiente enlace!

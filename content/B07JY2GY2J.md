@@ -14,7 +14,7 @@ currency: EUR
 price: 11.2
 comparePrice: 25.77 EUR
 inStock: true
-prodname: Amazon Essentials 2-Pack Long-Sleeve Active tee Athletic-Shirts  Charcoal Heather/Light Pink  Large
+prodname: 'Amazon Essentials 2-Pack Long-Sleeve Active tee Athletic-Shirts  Charcoal Heather/Light Pink  Large'
 ---
 
 Ahora mismo tienes [Amazon Essentials 2-Pack Long-Sleeve Active tee Athletic-Shirts  Charcoal Heather/Light Pink  Large](https://www.amazon.es/dp/B07JY2GY2J/?tag=tolees-21) a 11.2 EUR (original: 25.77 EUR) (56.54 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 57.59
 comparePrice: 99.94 EUR
 inStock: true
-prodname: adidas Handball Spezial  Zapatillas de Gimnasia para Hombre  Negro  Core Black/FTWR White/gum5 Core Black/FTWR White/gum5   39 EU
+prodname: 'adidas Handball Spezial  Zapatillas de Gimnasia para Hombre  Negro  Core Black/FTWR White/gum5 Core Black/FTWR White/gum5   39 EU'
 ---
 
 Está [adidas Handball Spezial  Zapatillas de Gimnasia para Hombre  Negro  Core Black/FTWR White/gum5 Core Black/FTWR White/gum5   39 EU](https://www.amazon.es/dp/B07JYLGKW4/?tag=tolees-21) con 42.38 de descuento por 57.59 EUR (original: 99.94 EUR) en el siguiente enlace!

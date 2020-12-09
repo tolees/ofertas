@@ -14,7 +14,7 @@ currency: EUR
 price: 25.51
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Under Armour Armour Sport Jacket  Chaqueta Deportiva para Mujer  Chaqueta Ligera y Funcional Mujer  Negro  XL
+prodname: 'Under Armour Armour Sport Jacket  Chaqueta Deportiva para Mujer  Chaqueta Ligera y Funcional Mujer  Negro  XL'
 ---
 
 Está [Under Armour Armour Sport Jacket  Chaqueta Deportiva para Mujer  Chaqueta Ligera y Funcional Mujer  Negro  XL](https://www.amazon.es/dp/B07PPXRXXJ/?tag=tolees-21) con 57.48 de descuento por 25.51 EUR (original: 60.0 EUR) en el siguiente enlace!

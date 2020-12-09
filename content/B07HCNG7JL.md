@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Entrenamiento en Suspensión Anoopsyche Entrenador de Suspensión de Fitness Pro Ejercicio para Fortalecimiento Resistencia y Tonificación Muscular Juego de Accesorios para Ejercicio Carga Hasta 500kg
+prodname: 'Entrenamiento en Suspensión Anoopsyche Entrenador de Suspensión de Fitness Pro Ejercicio para Fortalecimiento Resistencia y Tonificación Muscular Juego de Accesorios para Ejercicio Carga Hasta 500kg'
 ---
 
 Tienes [Entrenamiento en Suspensión Anoopsyche Entrenador de Suspensión de Fitness Pro Ejercicio para Fortalecimiento Resistencia y Tonificación Muscular Juego de Accesorios para Ejercicio Carga Hasta 500kg](https://www.amazon.es/dp/B07HCNG7JL/?tag=tolees-21) con un 36.67 % de descuento con precio de oferta de 37.99 EUR (original: 59.99 EUR) en el siguiente enlace!

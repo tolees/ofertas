@@ -14,7 +14,7 @@ currency: EUR
 price: 5.2
 comparePrice: 13.84 EUR
 inStock: true
-prodname: Buey ox-s245002 estándar casco de seguridad  color amarillo
+prodname: 'Buey ox-s245002 estándar casco de seguridad  color amarillo'
 ---
 
 Tienes [Buey ox-s245002 estándar casco de seguridad  color amarillo](https://www.amazon.es/dp/B00JFY4MLK/?tag=tolees-21) con un 62.43 % de descuento con precio de oferta de 5.2 EUR (original: 13.84 EUR) en el siguiente enlace!

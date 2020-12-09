@@ -14,7 +14,7 @@ currency: EUR
 price: 60.99
 comparePrice: 100.5 EUR
 inStock: true
-prodname: Orbegozo HO 321 321-Horno eléctrico  1450 W  1450 W  32 litros  Negro
+prodname: 'Orbegozo HO 321 321-Horno eléctrico  1450 W  1450 W  32 litros  Negro'
 ---
 
 Está [Orbegozo HO 321 321-Horno eléctrico  1450 W  1450 W  32 litros  Negro](https://www.amazon.es/dp/B0079WCHEO/?tag=tolees-21) con 39.31 de descuento por 60.99 EUR (original: 100.5 EUR) en el siguiente enlace!

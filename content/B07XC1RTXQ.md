@@ -14,7 +14,7 @@ currency: EUR
 price: 84.99
 comparePrice: 165.58 EUR
 inStock: true
-prodname: Philips Hue Bluetooth Pack 2 Bombillas Inteligentes LED E27 y Puente  Luz Blanca y de Colores  Compatible con Alexa y Google Home
+prodname: 'Philips Hue Bluetooth Pack 2 Bombillas Inteligentes LED E27 y Puente  Luz Blanca y de Colores  Compatible con Alexa y Google Home'
 ---
 
 Ahora mismo tienes [Philips Hue Bluetooth Pack 2 Bombillas Inteligentes LED E27 y Puente  Luz Blanca y de Colores  Compatible con Alexa y Google Home](https://www.amazon.es/dp/B07XC1RTXQ/?tag=tolees-21) a 84.99 EUR (original: 165.58 EUR) (48.67 %  de descuento) en el siguiente enlace!

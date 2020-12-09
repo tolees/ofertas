@@ -14,7 +14,7 @@ currency: EUR
 price: 52.49
 comparePrice: 69.99 EUR
 inStock: true
-prodname: HP Pavilion 600 - Auriculares Gaming  Sonido 7.1 Surround  Almohadillas cómodas  iluminación LED Verde  micrófono con Brazo Ajustable  Negro y Verde
+prodname: 'HP Pavilion 600 - Auriculares Gaming  Sonido 7.1 Surround  Almohadillas cómodas  iluminación LED Verde  micrófono con Brazo Ajustable  Negro y Verde'
 ---
 
 Está [HP Pavilion 600 - Auriculares Gaming  Sonido 7.1 Surround  Almohadillas cómodas  iluminación LED Verde  micrófono con Brazo Ajustable  Negro y Verde](https://www.amazon.es/dp/B07H7C8HMZ/?tag=tolees-21) con 25.00 de descuento por 52.49 EUR (original: 69.99 EUR) en el siguiente enlace!

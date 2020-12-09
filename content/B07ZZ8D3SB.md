@@ -14,7 +14,7 @@ currency: EUR
 price: 10.96
 comparePrice: 17.99 EUR
 inStock: true
-prodname: MOSOTECH Scrunchies Gasa Elástico  20pcs Coleteros de Tela Coloridas  Crunchies Pelo de Flexible  Gomas del Pelo para Niña/Mujer  Adecuado para Deportes  Fiestas  Escuelas  Viajes  etc
+prodname: 'MOSOTECH Scrunchies Gasa Elástico  20pcs Coleteros de Tela Coloridas  Crunchies Pelo de Flexible  Gomas del Pelo para Niña/Mujer  Adecuado para Deportes  Fiestas  Escuelas  Viajes  etc'
 ---
 
 Ahora mismo tienes [MOSOTECH Scrunchies Gasa Elástico  20pcs Coleteros de Tela Coloridas  Crunchies Pelo de Flexible  Gomas del Pelo para Niña/Mujer  Adecuado para Deportes  Fiestas  Escuelas  Viajes  etc](https://www.amazon.es/dp/B07ZZ8D3SB/?tag=tolees-21) a 10.96 EUR (original: 17.99 EUR) (39.08 %  de descuento) en el siguiente enlace!

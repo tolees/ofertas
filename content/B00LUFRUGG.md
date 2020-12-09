@@ -14,7 +14,7 @@ currency: EUR
 price: 1.64
 comparePrice: 7.95 EUR
 inStock: true
-prodname: Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Pocket Aces 
+prodname: 'Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Pocket Aces '
 ---
 
 Ahora mismo tienes [Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Pocket Aces ](https://www.amazon.es/dp/B00LUFRUGG/?tag=tolees-21) a 1.64 EUR (original: 7.95 EUR) (79.37 %  de descuento) en el siguiente enlace!

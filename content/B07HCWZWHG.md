@@ -14,7 +14,7 @@ currency: EUR
 price: 129.73
 comparePrice: 199 EUR
 inStock: true
-prodname: Haverland OSYRIS-20 - Placa Bajo Consumo  2000 de Potencia  1 Elementos  Programable  Termostato Electrónico Digital LCD  Limitador Térmico
+prodname: 'Haverland OSYRIS-20 - Placa Bajo Consumo  2000 de Potencia  1 Elementos  Programable  Termostato Electrónico Digital LCD  Limitador Térmico'
 ---
 
 Tienes [Haverland OSYRIS-20 - Placa Bajo Consumo  2000 de Potencia  1 Elementos  Programable  Termostato Electrónico Digital LCD  Limitador Térmico](https://www.amazon.es/dp/B07HCWZWHG/?tag=tolees-21) con un 34.81 % de descuento con precio de oferta de 129.73 EUR (original: 199 EUR) en el siguiente enlace!

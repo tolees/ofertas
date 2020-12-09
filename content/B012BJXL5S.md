@@ -14,7 +14,7 @@ currency: EUR
 price: 49.6
 comparePrice: 74.9 EUR
 inStock: true
-prodname: Impresora Multifuncional Canon PIXMA MG3650 Blanca Wifi de inyección de tinta
+prodname: 'Impresora Multifuncional Canon PIXMA MG3650 Blanca Wifi de inyección de tinta'
 ---
 
 Está [Impresora Multifuncional Canon PIXMA MG3650 Blanca Wifi de inyección de tinta](https://www.amazon.es/dp/B012BJXL5S/?tag=tolees-21) con 33.78 de descuento por 49.6 EUR (original: 74.9 EUR) en el siguiente enlace!

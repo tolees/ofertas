@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 32.9 EUR
 inStock: true
-prodname: Recarga compatible multicapa con tratamiento inodoro para Sangenic Tommee Tippee y Angelcare para pañales + rollo de cartón para rellenar fácil
+prodname: 'Recarga compatible multicapa con tratamiento inodoro para Sangenic Tommee Tippee y Angelcare para pañales + rollo de cartón para rellenar fácil'
 ---
 
 Ahora mismo tienes [Recarga compatible multicapa con tratamiento inodoro para Sangenic Tommee Tippee y Angelcare para pañales + rollo de cartón para rellenar fácil](https://www.amazon.es/dp/B00TXIC59O/?tag=tolees-21) a 22.99 EUR (original: 32.9 EUR) (30.12 %  de descuento) en el siguiente enlace!

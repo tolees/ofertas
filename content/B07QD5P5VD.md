@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Monopoly- Millenials  Multicolor  única  Hasbro E4989105 
+prodname: 'Monopoly- Millenials  Multicolor  única  Hasbro E4989105 '
 ---
 
 Está [Monopoly- Millenials  Multicolor  única  Hasbro E4989105 ](https://www.amazon.es/dp/B07QD5P5VD/?tag=tolees-21) con 44.42 de descuento por 15.0 EUR (original: 26.99 EUR) en el siguiente enlace!

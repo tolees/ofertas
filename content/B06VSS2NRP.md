@@ -14,7 +14,7 @@ currency: EUR
 price: 32.71
 comparePrice: 50.18 EUR
 inStock: true
-prodname: SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB en un extremo y un conector USB 3.0  256 GB
+prodname: 'SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB en un extremo y un conector USB 3.0  256 GB'
 ---
 
 Está [SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB en un extremo y un conector USB 3.0  256 GB](https://www.amazon.es/dp/B06VSS2NRP/?tag=tolees-21) con 34.81 de descuento por 32.71 EUR (original: 50.18 EUR) en el siguiente enlace!

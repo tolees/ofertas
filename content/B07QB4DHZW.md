@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Hellblade: Senua’s Sacrifice | Xbox One - Código de descarga
+prodname: 'Hellblade: Senua’s Sacrifice | Xbox One - Código de descarga'
 ---
 
 Está [Hellblade: Senua’s Sacrifice | Xbox One - Código de descarga](https://www.amazon.es/dp/B07QB4DHZW/?tag=tolees-21) con 66.69 de descuento por 9.99 EUR (original: 29.99 EUR) en el siguiente enlace!

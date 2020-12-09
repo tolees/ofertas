@@ -14,7 +14,7 @@ currency: EUR
 price: 43.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Barbie Ambulancia Hospital 2 en 1  accesorios de muñecas  Mattel FRM19 
+prodname: 'Barbie Ambulancia Hospital 2 en 1  accesorios de muñecas  Mattel FRM19 '
 ---
 
 Está [Barbie Ambulancia Hospital 2 en 1  accesorios de muñecas  Mattel FRM19 ](https://www.amazon.es/dp/B079JBMVFW/?tag=tolees-21) con 37.15 de descuento por 43.99 EUR (original: 69.99 EUR) en el siguiente enlace!

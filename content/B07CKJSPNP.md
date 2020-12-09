@@ -14,7 +14,7 @@ currency: EUR
 price: 35.28
 comparePrice: 139.9 EUR
 inStock: true
-prodname: El Naturalista N5172 Lux Suede-Doble FAZ Kaki/Lichen  Botines para Mujer  Verde  38 EU
+prodname: 'El Naturalista N5172 Lux Suede-Doble FAZ Kaki/Lichen  Botines para Mujer  Verde  38 EU'
 ---
 
 Tienes [El Naturalista N5172 Lux Suede-Doble FAZ Kaki/Lichen  Botines para Mujer  Verde  38 EU](https://www.amazon.es/dp/B07CKJSPNP/?tag=tolees-21) con un 74.78 % de descuento con precio de oferta de 35.28 EUR (original: 139.9 EUR) en el siguiente enlace!

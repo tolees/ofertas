@@ -14,7 +14,7 @@ currency: EUR
 price: 6.97
 comparePrice: 10.7 EUR
 inStock: true
-prodname: Hawaiian Tropic Satin Protection SPF 15 - Crema Solar Spray con vitaminas C y E  180 ml
+prodname: 'Hawaiian Tropic Satin Protection SPF 15 - Crema Solar Spray con vitaminas C y E  180 ml'
 ---
 
 Está [Hawaiian Tropic Satin Protection SPF 15 - Crema Solar Spray con vitaminas C y E  180 ml](https://www.amazon.es/dp/B00BPUKX5Q/?tag=tolees-21) con 34.86 de descuento por 6.97 EUR (original: 10.7 EUR) en el siguiente enlace!

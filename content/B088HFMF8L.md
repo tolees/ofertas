@@ -14,7 +14,7 @@ currency: EUR
 price: 19.78
 comparePrice: 39.56 EUR
 inStock: true
-prodname: luosh Japanese Matcha Starter Kit Fit  licuadora de bambú Tradicional de Matcha  Cuchara de té y Estante para la Ceremonia Tradicional del té japonés o para el Uso Diario
+prodname: 'luosh Japanese Matcha Starter Kit Fit  licuadora de bambú Tradicional de Matcha  Cuchara de té y Estante para la Ceremonia Tradicional del té japonés o para el Uso Diario'
 ---
 
 Está [luosh Japanese Matcha Starter Kit Fit  licuadora de bambú Tradicional de Matcha  Cuchara de té y Estante para la Ceremonia Tradicional del té japonés o para el Uso Diario](https://www.amazon.es/dp/B088HFMF8L/?tag=tolees-21) con 50.00 de descuento por 19.78 EUR (original: 39.56 EUR) en el siguiente enlace!

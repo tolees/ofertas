@@ -14,7 +14,7 @@ currency: EUR
 price: 2.9
 comparePrice: 5.7 EUR
 inStock: true
-prodname: Rimmel London Stay Matte Powder Polvos de maquillaje Tono 5 - 14 gr
+prodname: 'Rimmel London Stay Matte Powder Polvos de maquillaje Tono 5 - 14 gr'
 ---
 
 Ahora mismo tienes [Rimmel London Stay Matte Powder Polvos de maquillaje Tono 5 - 14 gr](https://www.amazon.es/dp/B006EHWDEE/?tag=tolees-21) a 2.9 EUR (original: 5.7 EUR) (49.12 %  de descuento) en el siguiente enlace!

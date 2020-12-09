@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 39.95 EUR
 inStock: true
-prodname: PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Electric Blue Lemonade  M
+prodname: 'PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Electric Blue Lemonade  M'
 ---
 
 Está [PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Electric Blue Lemonade  M](https://www.amazon.es/dp/B07XGWH7R6/?tag=tolees-21) con 47.46 de descuento por 20.99 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.58 EUR
 inStock: true
-prodname: Grabadora de DVD/CD Externa  USB 3.0 y Tipo C Lector de DVD/CD Externo Portátil para Laptops  Notebook y Sobremesa  Compatible con Windows XP / 2003 / Vista / 7/8.1/10，Linux，Mac OS - Negro
+prodname: 'Grabadora de DVD/CD Externa  USB 3.0 y Tipo C Lector de DVD/CD Externo Portátil para Laptops  Notebook y Sobremesa  Compatible con Windows XP / 2003 / Vista / 7/8.1/10，Linux，Mac OS - Negro'
 ---
 
 Está [Grabadora de DVD/CD Externa  USB 3.0 y Tipo C Lector de DVD/CD Externo Portátil para Laptops  Notebook y Sobremesa  Compatible con Windows XP / 2003 / Vista / 7/8.1/10，Linux，Mac OS - Negro](https://www.amazon.es/dp/B07SXK5Y2P/?tag=tolees-21) con 32.42 de descuento por 19.99 EUR (original: 29.58 EUR) en el siguiente enlace!

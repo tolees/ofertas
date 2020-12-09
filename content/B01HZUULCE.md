@@ -14,7 +14,7 @@ currency: EUR
 price: 48.8
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW Bronson Mid Waist Skinny Chino Pantalones  Azul  Mazarine Blue 4213   24W / 32L para Mujer
+prodname: 'G-STAR RAW Bronson Mid Waist Skinny Chino Pantalones  Azul  Mazarine Blue 4213   24W / 32L para Mujer'
 ---
 
 Tienes [G-STAR RAW Bronson Mid Waist Skinny Chino Pantalones  Azul  Mazarine Blue 4213   24W / 32L para Mujer](https://www.amazon.es/dp/B01HZUULCE/?tag=tolees-21) con un 51.18 % de descuento con precio de oferta de 48.8 EUR (original: 99.95 EUR) en el siguiente enlace!

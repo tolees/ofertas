@@ -14,7 +14,7 @@ currency: EUR
 price: 13.41
 comparePrice: 25.52 EUR
 inStock: true
-prodname: Thames & Kosmos Kahuna
+prodname: 'Thames & Kosmos Kahuna'
 ---
 
 Está [Thames & Kosmos Kahuna](https://www.amazon.es/dp/B00T0GY9GG/?tag=tolees-21) con 47.45 de descuento por 13.41 EUR (original: 25.52 EUR) en el siguiente enlace!

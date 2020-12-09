@@ -14,7 +14,7 @@ currency: EUR
 price: 10.52
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Vero Moda Vmlou LS Top A  Blusa Mujer  Blanco  Snow White Snow White   38  Talla del Fabricante: Small 
+prodname: 'Vero Moda Vmlou LS Top A  Blusa Mujer  Blanco  Snow White Snow White   38  Talla del Fabricante: Small '
 ---
 
 Está [Vero Moda Vmlou LS Top A  Blusa Mujer  Blanco  Snow White Snow White   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07BFTNCD1/?tag=tolees-21) con 52.16 de descuento por 10.52 EUR (original: 21.99 EUR) en el siguiente enlace!

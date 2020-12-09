@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 16.88 EUR
 inStock: true
-prodname: Ant-Man - Edición Coleccionista [Blu-ray]
+prodname: 'Ant-Man - Edición Coleccionista [Blu-ray]'
 ---
 
 Tienes [Ant-Man - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B075KRWWV8/?tag=tolees-21) con un 29.21 % de descuento con precio de oferta de 11.95 EUR (original: 16.88 EUR) en el siguiente enlace!

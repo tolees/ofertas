@@ -14,7 +14,7 @@ currency: EUR
 price: 75.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Amzdeal Grifo Termostatico Ducha  Mezclador Termostático Ducha 20-50℃  Griferia Termostatica Ducha con el Botón de Seguridad 38 ℃  Plateado/Dolphin-01
+prodname: 'Amzdeal Grifo Termostatico Ducha  Mezclador Termostático Ducha 20-50℃  Griferia Termostatica Ducha con el Botón de Seguridad 38 ℃  Plateado/Dolphin-01'
 ---
 
 Tienes [Amzdeal Grifo Termostatico Ducha  Mezclador Termostático Ducha 20-50℃  Griferia Termostatica Ducha con el Botón de Seguridad 38 ℃  Plateado/Dolphin-01](https://www.amazon.es/dp/B07FMQ6Z8B/?tag=tolees-21) con un 41.54 % de descuento con precio de oferta de 75.99 EUR (original: 129.99 EUR) en el siguiente enlace!

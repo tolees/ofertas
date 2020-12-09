@@ -14,7 +14,7 @@ currency: EUR
 price: 8.5
 comparePrice: 12.8 EUR
 inStock: true
-prodname: Grandi Giochi LLD21000 - Reloj LOL Surprise  accesorios de joyas  modelos y colores surtidos  multicolor
+prodname: 'Grandi Giochi LLD21000 - Reloj LOL Surprise  accesorios de joyas  modelos y colores surtidos  multicolor'
 ---
 
 Tienes [Grandi Giochi LLD21000 - Reloj LOL Surprise  accesorios de joyas  modelos y colores surtidos  multicolor](https://www.amazon.es/dp/B07KR92NYQ/?tag=tolees-21) con un 33.59 % de descuento con precio de oferta de 8.5 EUR (original: 12.8 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.97
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Marvel Figura de Vinilo Gladiator Hulk Funko 13773
+prodname: 'Marvel Figura de Vinilo Gladiator Hulk Funko 13773'
 ---
 
 Tienes [Marvel Figura de Vinilo Gladiator Hulk Funko 13773](https://www.amazon.es/dp/B072YZ4VPM/?tag=tolees-21) con un 26.82 % de descuento con precio de oferta de 10.97 EUR (original: 14.99 EUR) en el siguiente enlace!

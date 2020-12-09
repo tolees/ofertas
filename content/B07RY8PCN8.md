@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: SHUIBIAN Kit de pintura 5D de diamantes  Punto de cruz diamante adorno con cristales de imitación de diamante  para decoración de pared 40 x 30 cm
+prodname: 'SHUIBIAN Kit de pintura 5D de diamantes  Punto de cruz diamante adorno con cristales de imitación de diamante  para decoración de pared 40 x 30 cm'
 ---
 
 Tienes [SHUIBIAN Kit de pintura 5D de diamantes  Punto de cruz diamante adorno con cristales de imitación de diamante  para decoración de pared 40 x 30 cm](https://www.amazon.es/dp/B07RY8PCN8/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.79
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim S55   W36/L30
+prodname: 'Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim S55   W36/L30'
 ---
 
 Está [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim S55   W36/L30](https://www.amazon.es/dp/B06XCMPTK7/?tag=tolees-21) con 67.59 de descuento por 30.79 EUR (original: 95 EUR) en el siguiente enlace!

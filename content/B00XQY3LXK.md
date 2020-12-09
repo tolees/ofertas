@@ -14,7 +14,7 @@ currency: EUR
 price: 49.95
 comparePrice: 85 EUR
 inStock: true
-prodname: Pepe Jeans Spike  Vaqueros para Hombre  Azul  Fonce Denim H05   W33/L34
+prodname: 'Pepe Jeans Spike  Vaqueros para Hombre  Azul  Fonce Denim H05   W33/L34'
 ---
 
 Está [Pepe Jeans Spike  Vaqueros para Hombre  Azul  Fonce Denim H05   W33/L34](https://www.amazon.es/dp/B00XQY3LXK/?tag=tolees-21) con 41.24 de descuento por 49.95 EUR (original: 85 EUR) en el siguiente enlace!

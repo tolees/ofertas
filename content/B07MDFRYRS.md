@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Wangel Portarrollo para Papel Higiénico  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  Negro
+prodname: 'Wangel Portarrollo para Papel Higiénico  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  Negro'
 ---
 
 Ahora mismo tienes [Wangel Portarrollo para Papel Higiénico  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  Negro](https://www.amazon.es/dp/B07MDFRYRS/?tag=tolees-21) a 14.99 EUR (original: 28.99 EUR) (48.29 %  de descuento) en el siguiente enlace!

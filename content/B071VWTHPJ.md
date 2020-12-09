@@ -14,7 +14,7 @@ currency: EUR
 price: 83.99
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Roxy Jetty Block Jk Chaqueta para Nieve  Mujer  Gris  Peacoat Pattern_1   S
+prodname: 'Roxy Jetty Block Jk Chaqueta para Nieve  Mujer  Gris  Peacoat Pattern_1   S'
 ---
 
 Tienes [Roxy Jetty Block Jk Chaqueta para Nieve  Mujer  Gris  Peacoat Pattern_1   S](https://www.amazon.es/dp/B071VWTHPJ/?tag=tolees-21) con un 58.00 % de descuento con precio de oferta de 83.99 EUR (original: 199.99 EUR) en el siguiente enlace!

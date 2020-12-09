@@ -14,7 +14,7 @@ currency: EUR
 price: 32.54
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Gris Sage M38  37 EU
+prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Gris Sage M38  37 EU'
 ---
 
 Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Gris Sage M38  37 EU](https://www.amazon.es/dp/B002WGHYTK/?tag=tolees-21) con 44.85 de descuento por 32.54 EUR (original: 59.0 EUR) en el siguiente enlace!

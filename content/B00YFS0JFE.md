@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 40.0 EUR
 inStock: true
-prodname: Nike Tanjun  PS  - Zapatillas para niño  color negro / blanco  talla 35
+prodname: 'Nike Tanjun  PS  - Zapatillas para niño  color negro / blanco  talla 35'
 ---
 
 Ahora mismo tienes [Nike Tanjun  PS  - Zapatillas para niño  color negro / blanco  talla 35](https://www.amazon.es/dp/B00YFS0JFE/?tag=tolees-21) a 18.95 EUR (original: 40.0 EUR) (52.62 %  de descuento) en el siguiente enlace!

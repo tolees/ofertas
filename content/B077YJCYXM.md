@@ -14,7 +14,7 @@ currency: EUR
 price: 17.97
 comparePrice: 29.95 EUR
 inStock: true
-prodname: HIKARO Sudadera con Capucha y Logo Mujer  Azul  Aqua   40  Talla del fabricante: Medium 
+prodname: 'HIKARO Sudadera con Capucha y Logo Mujer  Azul  Aqua   40  Talla del fabricante: Medium '
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Capucha y Logo Mujer  Azul  Aqua   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YJCYXM/?tag=tolees-21) a 17.97 EUR (original: 29.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

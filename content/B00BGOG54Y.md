@@ -14,7 +14,7 @@ currency: EUR
 price: 7.64
 comparePrice: 15.3 EUR
 inStock: true
-prodname: Altabebe AL7010-03 - Parasol con protección UV para carrito o silla de paseo  color beige
+prodname: 'Altabebe AL7010-03 - Parasol con protección UV para carrito o silla de paseo  color beige'
 ---
 
 Ahora mismo tienes [Altabebe AL7010-03 - Parasol con protección UV para carrito o silla de paseo  color beige](https://www.amazon.es/dp/B00BGOG54Y/?tag=tolees-21) a 7.64 EUR (original: 15.3 EUR) (50.07 %  de descuento) en el siguiente enlace!

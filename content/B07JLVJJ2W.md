@@ -14,7 +14,7 @@ currency: EUR
 price: 124
 comparePrice: 189 EUR
 inStock: true
-prodname: NEWCHEF Batería de Cocina de Aluminio Fundido  27 piezas  Juego de Utensilios de Cocina Antiadherentes  con Protectores de Silicona  Apto para Cocinas de Inducción  Libre PFOA
+prodname: 'NEWCHEF Batería de Cocina de Aluminio Fundido  27 piezas  Juego de Utensilios de Cocina Antiadherentes  con Protectores de Silicona  Apto para Cocinas de Inducción  Libre PFOA'
 ---
 
 Está [NEWCHEF Batería de Cocina de Aluminio Fundido  27 piezas  Juego de Utensilios de Cocina Antiadherentes  con Protectores de Silicona  Apto para Cocinas de Inducción  Libre PFOA](https://www.amazon.es/dp/B07JLVJJ2W/?tag=tolees-21) con 34.39 de descuento por 124 EUR (original: 189 EUR) en el siguiente enlace!

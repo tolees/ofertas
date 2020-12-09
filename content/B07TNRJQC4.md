@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Superdry OL Vintage Emb Crew Camiseta  Gris  Desert Hint Teal Marl T7o   M para Hombre
+prodname: 'Superdry OL Vintage Emb Crew Camiseta  Gris  Desert Hint Teal Marl T7o   M para Hombre'
 ---
 
 Tienes [Superdry OL Vintage Emb Crew Camiseta  Gris  Desert Hint Teal Marl T7o   M para Hombre](https://www.amazon.es/dp/B07TNRJQC4/?tag=tolees-21) con un 48.02 % de descuento con precio de oferta de 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!

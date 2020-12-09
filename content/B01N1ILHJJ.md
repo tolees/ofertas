@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 63.24 EUR
 inStock: true
-prodname: Asics Gel-Contend 4  Zapatillas de Deporte Mujer  Negro  Black/silver/flash Coral   37 EU
+prodname: 'Asics Gel-Contend 4  Zapatillas de Deporte Mujer  Negro  Black/silver/flash Coral   37 EU'
 ---
 
 Tienes [Asics Gel-Contend 4  Zapatillas de Deporte Mujer  Negro  Black/silver/flash Coral   37 EU](https://www.amazon.es/dp/B01N1ILHJJ/?tag=tolees-21) con un 63.65 % de descuento con precio de oferta de 22.99 EUR (original: 63.24 EUR) en el siguiente enlace!

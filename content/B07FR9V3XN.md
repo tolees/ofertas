@@ -14,7 +14,7 @@ currency: EUR
 price: 22.55
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Negro  Black-   39 EU
+prodname: 'Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Negro  Black-   39 EU'
 ---
 
 Ahora mismo tienes [Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Negro  Black-   39 EU](https://www.amazon.es/dp/B07FR9V3XN/?tag=tolees-21) a 22.55 EUR (original: 89.95 EUR) (74.93 %  de descuento) en el siguiente enlace!

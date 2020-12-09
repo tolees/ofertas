@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 14.77 EUR
 inStock: true
-prodname: Globos de helicóptero Globos de verano de fiesta Globos de aire de vuelo para niños con 24 globos 12 Pack
+prodname: 'Globos de helicóptero Globos de verano de fiesta Globos de aire de vuelo para niños con 24 globos 12 Pack'
 ---
 
 Ahora mismo tienes [Globos de helicóptero Globos de verano de fiesta Globos de aire de vuelo para niños con 24 globos 12 Pack](https://www.amazon.es/dp/B072ZBMFXX/?tag=tolees-21) a 8.99 EUR (original: 14.77 EUR) (39.13 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.54
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Mayoral 3186  Polo para Niños  Negro  Tinta 57  2 años  Tamaño del Fabricante:2 
+prodname: 'Mayoral 3186  Polo para Niños  Negro  Tinta 57  2 años  Tamaño del Fabricante:2 '
 ---
 
 Está [Mayoral 3186  Polo para Niños  Negro  Tinta 57  2 años  Tamaño del Fabricante:2 ](https://www.amazon.es/dp/B07HKV3Y8T/?tag=tolees-21) con 67.20 de descuento por 7.54 EUR (original: 22.99 EUR) en el siguiente enlace!

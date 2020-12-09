@@ -14,7 +14,7 @@ currency: EUR
 price: 87.95
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW Lanc 3D Tapered  Jeans para Hombre  Azul  lt Aged Heavy Stone 9438-9399   36W / 32L
+prodname: 'G-STAR RAW Lanc 3D Tapered  Jeans para Hombre  Azul  lt Aged Heavy Stone 9438-9399   36W / 32L'
 ---
 
 Está [G-STAR RAW Lanc 3D Tapered  Jeans para Hombre  Azul  lt Aged Heavy Stone 9438-9399   36W / 32L](https://www.amazon.es/dp/B07B4SSZDX/?tag=tolees-21) con 37.16 de descuento por 87.95 EUR (original: 139.95 EUR) en el siguiente enlace!

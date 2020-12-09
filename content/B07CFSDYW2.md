@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 25 EUR
 inStock: true
-prodname: Pepe Jeans Dion  Camiseta para Hombre  Azul  Dk Blue 581  Large
+prodname: 'Pepe Jeans Dion  Camiseta para Hombre  Azul  Dk Blue 581  Large'
 ---
 
 Ahora mismo tienes [Pepe Jeans Dion  Camiseta para Hombre  Azul  Dk Blue 581  Large](https://www.amazon.es/dp/B07CFSDYW2/?tag=tolees-21) a 14.95 EUR (original: 25 EUR) (40.20 %  de descuento) en el siguiente enlace!

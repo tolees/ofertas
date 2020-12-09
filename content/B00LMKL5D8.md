@@ -14,7 +14,7 @@ currency: EUR
 price: 13.55
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Quiksilver Carver Suede M Sndl Tkd0 - Chancletas para hombre  color marrón  tan solid   talla 43
+prodname: 'Quiksilver Carver Suede M Sndl Tkd0 - Chancletas para hombre  color marrón  tan solid   talla 43'
 ---
 
 Ahora mismo tienes [Quiksilver Carver Suede M Sndl Tkd0 - Chancletas para hombre  color marrón  tan solid   talla 43](https://www.amazon.es/dp/B00LMKL5D8/?tag=tolees-21) a 13.55 EUR (original: 29.99 EUR) (54.82 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Mujer Mini Vestido Foral Fuera de Hombros Verano Vestidos Acampanados Bohemios Amarillo XS
+prodname: 'Mujer Mini Vestido Foral Fuera de Hombros Verano Vestidos Acampanados Bohemios Amarillo XS'
 ---
 
 Tienes [Mujer Mini Vestido Foral Fuera de Hombros Verano Vestidos Acampanados Bohemios Amarillo XS](https://www.amazon.es/dp/B07RWHZV75/?tag=tolees-21) con un 78.29 % de descuento con precio de oferta de 4.99 EUR (original: 22.99 EUR) en el siguiente enlace!

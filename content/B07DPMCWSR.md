@@ -14,7 +14,7 @@ currency: EUR
 price: 26.66
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox D Myria C  Zapatillas Altas para Mujer  Negro  Black C9999   35 EU
+prodname: 'Geox D Myria C  Zapatillas Altas para Mujer  Negro  Black C9999   35 EU'
 ---
 
 Está [Geox D Myria C  Zapatillas Altas para Mujer  Negro  Black C9999   35 EU](https://www.amazon.es/dp/B07DPMCWSR/?tag=tolees-21) con 75.74 de descuento por 26.66 EUR (original: 109.9 EUR) en el siguiente enlace!

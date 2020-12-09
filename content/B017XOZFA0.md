@@ -14,7 +14,7 @@ currency: EUR
 price: 130.06
 comparePrice: 260 EUR
 inStock: true
-prodname: Helly Hansen Salt Power Jacket  Hombre  Red  S
+prodname: 'Helly Hansen Salt Power Jacket  Hombre  Red  S'
 ---
 
 Está [Helly Hansen Salt Power Jacket  Hombre  Red  S](https://www.amazon.es/dp/B017XOZFA0/?tag=tolees-21) con 49.98 de descuento por 130.06 EUR (original: 260 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 44.06
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Puma Vista  Zapatillas de Deporte Unisex Adulto  Rojo  Cordovan White-Silver Gray   44 EU
+prodname: 'Puma Vista  Zapatillas de Deporte Unisex Adulto  Rojo  Cordovan White-Silver Gray   44 EU'
 ---
 
 Tienes [Puma Vista  Zapatillas de Deporte Unisex Adulto  Rojo  Cordovan White-Silver Gray   44 EU](https://www.amazon.es/dp/B07DBXQHJS/?tag=tolees-21) con un 32.16 % de descuento con precio de oferta de 44.06 EUR (original: 64.95 EUR) en el siguiente enlace!

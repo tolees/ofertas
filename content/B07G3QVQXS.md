@@ -14,7 +14,7 @@ currency: EUR
 price: 16.02
 comparePrice: 21.69 EUR
 inStock: true
-prodname: SLx - Amplificador de señal de TV con Filtro 4G Integrado. Único
+prodname: 'SLx - Amplificador de señal de TV con Filtro 4G Integrado. Único'
 ---
 
 Ahora mismo tienes [SLx - Amplificador de señal de TV con Filtro 4G Integrado. Único](https://www.amazon.es/dp/B07G3QVQXS/?tag=tolees-21) a 16.02 EUR (original: 21.69 EUR) (26.14 %  de descuento) en el siguiente enlace!

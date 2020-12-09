@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: POWERADD EnergyCell 20000mAh Powerbank con Power Delivery  PD18W Batería Externa con Puerto USB C  Carga Rápida para iPhone Samsung Huawei y Otros Dispositivos Inteligentes- Negro
+prodname: 'POWERADD EnergyCell 20000mAh Powerbank con Power Delivery  PD18W Batería Externa con Puerto USB C  Carga Rápida para iPhone Samsung Huawei y Otros Dispositivos Inteligentes- Negro'
 ---
 
 Ahora mismo tienes [POWERADD EnergyCell 20000mAh Powerbank con Power Delivery  PD18W Batería Externa con Puerto USB C  Carga Rápida para iPhone Samsung Huawei y Otros Dispositivos Inteligentes- Negro](https://www.amazon.es/dp/B07K7MFY5V/?tag=tolees-21) a 15.99 EUR (original: 26.99 EUR) (40.76 %  de descuento) en el siguiente enlace!

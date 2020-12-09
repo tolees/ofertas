@@ -14,7 +14,7 @@ currency: EUR
 price: 19.05
 comparePrice: 65 EUR
 inStock: true
-prodname: New Balance Fuel Core 5000  Zapatillas Deportivas para Interior Unisex Niños  Negro  Black/UV Blue LB   39 EU
+prodname: 'New Balance Fuel Core 5000  Zapatillas Deportivas para Interior Unisex Niños  Negro  Black/UV Blue LB   39 EU'
 ---
 
 Está [New Balance Fuel Core 5000  Zapatillas Deportivas para Interior Unisex Niños  Negro  Black/UV Blue LB   39 EU](https://www.amazon.es/dp/B07DJ61LXX/?tag=tolees-21) con 70.69 de descuento por 19.05 EUR (original: 65 EUR) en el siguiente enlace!

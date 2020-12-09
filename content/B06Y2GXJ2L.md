@@ -14,7 +14,7 @@ currency: EUR
 price: 124.15
 comparePrice: 190 EUR
 inStock: true
-prodname: Ray-Ban 3570 Gafas de Sol  Gold Shiny Black  58 Unisex-Adulto
+prodname: 'Ray-Ban 3570 Gafas de Sol  Gold Shiny Black  58 Unisex-Adulto'
 ---
 
 Está [Ray-Ban 3570 Gafas de Sol  Gold Shiny Black  58 Unisex-Adulto](https://www.amazon.es/dp/B06Y2GXJ2L/?tag=tolees-21) con 34.66 de descuento por 124.15 EUR (original: 190 EUR) en el siguiente enlace!

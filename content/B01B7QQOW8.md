@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Urban Classics Cargo Jogging Pants Pantalones  Verde  olive 176   XL para Hombre
+prodname: 'Urban Classics Cargo Jogging Pants Pantalones  Verde  olive 176   XL para Hombre'
 ---
 
 Tienes [Urban Classics Cargo Jogging Pants Pantalones  Verde  olive 176   XL para Hombre](https://www.amazon.es/dp/B01B7QQOW8/?tag=tolees-21) con un 49.92 % de descuento con precio de oferta de 24.99 EUR (original: 49.9 EUR) en el siguiente enlace!

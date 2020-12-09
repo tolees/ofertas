@@ -14,7 +14,7 @@ currency: EUR
 price: 17.5
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Triumph Triaction Wellness F Sujetador  Blanco  White 03   95C para Mujer
+prodname: 'Triumph Triaction Wellness F Sujetador  Blanco  White 03   95C para Mujer'
 ---
 
 Está [Triumph Triaction Wellness F Sujetador  Blanco  White 03   95C para Mujer](https://www.amazon.es/dp/B01MZ1XX5B/?tag=tolees-21) con 49.93 de descuento por 17.5 EUR (original: 34.95 EUR) en el siguiente enlace!

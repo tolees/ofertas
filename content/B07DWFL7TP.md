@@ -14,7 +14,7 @@ currency: EUR
 price: 14.97
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Lico Ron  Zapatillas para Hombre  Gris Grau/Marine  37 EU
+prodname: 'Lico Ron  Zapatillas para Hombre  Gris Grau/Marine  37 EU'
 ---
 
 Tienes [Lico Ron  Zapatillas para Hombre  Gris Grau/Marine  37 EU](https://www.amazon.es/dp/B07DWFL7TP/?tag=tolees-21) con un 70.03 % de descuento con precio de oferta de 14.97 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.95
 comparePrice: 80 EUR
 inStock: true
-prodname: GlobeEncore-2  Zapatillas de Skateboard Hombre  Varios colores  Navy / Yellow   45 EU
+prodname: 'GlobeEncore-2  Zapatillas de Skateboard Hombre  Varios colores  Navy / Yellow   45 EU'
 ---
 
 Tienes [GlobeEncore-2  Zapatillas de Skateboard Hombre  Varios colores  Navy / Yellow   45 EU](https://www.amazon.es/dp/B01MYSB9PU/?tag=tolees-21) con un 65.06 % de descuento con precio de oferta de 27.95 EUR (original: 80 EUR) en el siguiente enlace!

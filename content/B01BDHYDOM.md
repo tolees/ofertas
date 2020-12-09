@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 45.99 EUR
 inStock: true
-prodname: Erima GmbH Razor 2.0 Polo de Tenis  Unisex Adulto  Curacao/Negro/Blanco  XL
+prodname: 'Erima GmbH Razor 2.0 Polo de Tenis  Unisex Adulto  Curacao/Negro/Blanco  XL'
 ---
 
 Tienes [Erima GmbH Razor 2.0 Polo de Tenis  Unisex Adulto  Curacao/Negro/Blanco  XL](https://www.amazon.es/dp/B01BDHYDOM/?tag=tolees-21) con un 34.79 % de descuento con precio de oferta de 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!

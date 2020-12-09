@@ -14,7 +14,7 @@ currency: EUR
 price: 6.89
 comparePrice: 12.58 EUR
 inStock: true
-prodname: Max Factor 53047 Skin Luminizer Base de Maquillaje - 30 ml
+prodname: 'Max Factor 53047 Skin Luminizer Base de Maquillaje - 30 ml'
 ---
 
 Está [Max Factor 53047 Skin Luminizer Base de Maquillaje - 30 ml](https://www.amazon.es/dp/B00MN99HOG/?tag=tolees-21) con 45.23 de descuento por 6.89 EUR (original: 12.58 EUR) en el siguiente enlace!

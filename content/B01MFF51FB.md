@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 35 EUR
 inStock: true
-prodname: G-STAR RAW Duko Belt Cinturón  Negro Black 406  115 para Hombre
+prodname: 'G-STAR RAW Duko Belt Cinturón  Negro Black 406  115 para Hombre'
 ---
 
 Ahora mismo tienes [G-STAR RAW Duko Belt Cinturón  Negro Black 406  115 para Hombre](https://www.amazon.es/dp/B01MFF51FB/?tag=tolees-21) a 23.95 EUR (original: 35 EUR) (31.57 %  de descuento) en el siguiente enlace!

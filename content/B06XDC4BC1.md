@@ -14,7 +14,7 @@ currency: EUR
 price: 4.15
 comparePrice: 6.95 EUR
 inStock: true
-prodname: L Oréal Paris Men Expert Hydra Sensitive Gel Limpiador Calmante para Piel Sensible - 150 ml
+prodname: 'L Oréal Paris Men Expert Hydra Sensitive Gel Limpiador Calmante para Piel Sensible - 150 ml'
 ---
 
 Está [L Oréal Paris Men Expert Hydra Sensitive Gel Limpiador Calmante para Piel Sensible - 150 ml](https://www.amazon.es/dp/B06XDC4BC1/?tag=tolees-21) con 40.29 de descuento por 4.15 EUR (original: 6.95 EUR) en el siguiente enlace!

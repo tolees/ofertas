@@ -14,7 +14,7 @@ currency: EUR
 price: 10.0
 comparePrice: 27.0 EUR
 inStock: true
-prodname: Kiwisac Mochila Infantil The Pirates Boy Niño | Mochila Infantil para Guardar Comida  para Guardería y Viajes  Color Negro  23 x 11 x 25 cm
+prodname: 'Kiwisac Mochila Infantil The Pirates Boy Niño | Mochila Infantil para Guardar Comida  para Guardería y Viajes  Color Negro  23 x 11 x 25 cm'
 ---
 
 Tienes [Kiwisac Mochila Infantil The Pirates Boy Niño | Mochila Infantil para Guardar Comida  para Guardería y Viajes  Color Negro  23 x 11 x 25 cm](https://www.amazon.es/dp/B079HC8XYM/?tag=tolees-21) con un 62.96 % de descuento con precio de oferta de 10.0 EUR (original: 27.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.5
 comparePrice: 45.0 EUR
 inStock: true
-prodname: Under Armour Vanish Woven Short Pantalón Corto  Hombre  Negro  Black/Jet Gray 001   M
+prodname: 'Under Armour Vanish Woven Short Pantalón Corto  Hombre  Negro  Black/Jet Gray 001   M'
 ---
 
 Está [Under Armour Vanish Woven Short Pantalón Corto  Hombre  Negro  Black/Jet Gray 001   M](https://www.amazon.es/dp/B07CZ8X4FV/?tag=tolees-21) con 50.00 de descuento por 22.5 EUR (original: 45.0 EUR) en el siguiente enlace!

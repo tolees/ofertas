@@ -14,7 +14,7 @@ currency: EUR
 price: 51.43
 comparePrice: 99 EUR
 inStock: true
-prodname: Pepe Jeans Zulia Mono  Rojo  Francois Red 240   X-Large para Mujer
+prodname: 'Pepe Jeans Zulia Mono  Rojo  Francois Red 240   X-Large para Mujer'
 ---
 
 Tienes [Pepe Jeans Zulia Mono  Rojo  Francois Red 240   X-Large para Mujer](https://www.amazon.es/dp/B07NCBCZTL/?tag=tolees-21) con un 48.05 % de descuento con precio de oferta de 51.43 EUR (original: 99 EUR) en el siguiente enlace!

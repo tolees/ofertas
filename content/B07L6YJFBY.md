@@ -14,7 +14,7 @@ currency: EUR
 price: 45.49
 comparePrice: 100.0 EUR
 inStock: true
-prodname: FitFlop Rally Sneakers  Zapatillas sin Cordones Mujer  Silver  Silver 011   36 EU
+prodname: 'FitFlop Rally Sneakers  Zapatillas sin Cordones Mujer  Silver  Silver 011   36 EU'
 ---
 
 Tienes [FitFlop Rally Sneakers  Zapatillas sin Cordones Mujer  Silver  Silver 011   36 EU](https://www.amazon.es/dp/B07L6YJFBY/?tag=tolees-21) con un 54.51 % de descuento con precio de oferta de 45.49 EUR (original: 100.0 EUR) en el siguiente enlace!

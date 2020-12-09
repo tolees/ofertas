@@ -14,7 +14,7 @@ currency: EUR
 price: 119.0
 comparePrice: 161.99 EUR
 inStock: true
-prodname: Dremel 4000 - Multiherramienta  175 W  kit con eje flexible  65 accesorios y 4 complementos  velocidad variable 5.000 - 35.000 rpm para tallar  grabar  fresar  amolar  limpiar  pulir  cortar y lijar
+prodname: 'Dremel 4000 - Multiherramienta  175 W  kit con eje flexible  65 accesorios y 4 complementos  velocidad variable 5.000 - 35.000 rpm para tallar  grabar  fresar  amolar  limpiar  pulir  cortar y lijar'
 ---
 
 Ahora mismo tienes [Dremel 4000 - Multiherramienta  175 W  kit con eje flexible  65 accesorios y 4 complementos  velocidad variable 5.000 - 35.000 rpm para tallar  grabar  fresar  amolar  limpiar  pulir  cortar y lijar](https://www.amazon.es/dp/B0156XTGGO/?tag=tolees-21) a 119.0 EUR (original: 161.99 EUR) (26.54 %  de descuento) en el siguiente enlace!

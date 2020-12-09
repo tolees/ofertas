@@ -14,7 +14,7 @@ currency: EUR
 price: 24.46
 comparePrice: 60 EUR
 inStock: true
-prodname: Nike Court Borough Mid Wntr GS  Zapatos de Baloncesto para Niños  Negro Black/Gum Lt Brown 002  40 EU
+prodname: 'Nike Court Borough Mid Wntr GS  Zapatos de Baloncesto para Niños  Negro Black/Gum Lt Brown 002  40 EU'
 ---
 
 Ahora mismo tienes [Nike Court Borough Mid Wntr GS  Zapatos de Baloncesto para Niños  Negro Black/Gum Lt Brown 002  40 EU](https://www.amazon.es/dp/B07DCMQYRG/?tag=tolees-21) a 24.46 EUR (original: 60 EUR) (59.23 %  de descuento) en el siguiente enlace!

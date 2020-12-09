@@ -14,7 +14,7 @@ currency: EUR
 price: 22.48
 comparePrice: 31.46 EUR
 inStock: true
-prodname: Adidas Nizza C  Zapatos de Baloncesto Unisex Niños  Rojo  Trascaftwwhtftwwht   33 EU
+prodname: 'Adidas Nizza C  Zapatos de Baloncesto Unisex Niños  Rojo  Trascaftwwhtftwwht   33 EU'
 ---
 
 Ahora mismo tienes [Adidas Nizza C  Zapatos de Baloncesto Unisex Niños  Rojo  Trascaftwwhtftwwht   33 EU](https://www.amazon.es/dp/B078MNMMS9/?tag=tolees-21) a 22.48 EUR (original: 31.46 EUR) (28.54 %  de descuento) en el siguiente enlace!

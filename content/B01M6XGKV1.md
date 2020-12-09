@@ -14,7 +14,7 @@ currency: EUR
 price: 22.7
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Munchkin Asiento infantil elevador portátil  azul/gris
+prodname: 'Munchkin Asiento infantil elevador portátil  azul/gris'
 ---
 
 Ahora mismo tienes [Munchkin Asiento infantil elevador portátil  azul/gris](https://www.amazon.es/dp/B01M6XGKV1/?tag=tolees-21) a 22.7 EUR (original: 39.99 EUR) (43.24 %  de descuento) en el siguiente enlace!

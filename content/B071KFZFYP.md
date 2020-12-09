@@ -14,7 +14,7 @@ currency: EUR
 price: 9.87
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Funko Pop!- Motu S2: Merman Figura de vinilo  21808    color/modelo surtido
+prodname: 'Funko Pop!- Motu S2: Merman Figura de vinilo  21808    color/modelo surtido'
 ---
 
 Tienes [Funko Pop!- Motu S2: Merman Figura de vinilo  21808    color/modelo surtido](https://www.amazon.es/dp/B071KFZFYP/?tag=tolees-21) con un 38.12 % de descuento con precio de oferta de 9.87 EUR (original: 15.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.31
 comparePrice: 34.99 EUR
 inStock: true
-prodname: JACK & JONES Jcofade Sweat Crew Neck Sudadera  White  Small para Hombre
+prodname: 'JACK & JONES Jcofade Sweat Crew Neck Sudadera  White  Small para Hombre'
 ---
 
 Está [JACK & JONES Jcofade Sweat Crew Neck Sudadera  White  Small para Hombre](https://www.amazon.es/dp/B07JNVPFSW/?tag=tolees-21) con 73.39 de descuento por 9.31 EUR (original: 34.99 EUR) en el siguiente enlace!

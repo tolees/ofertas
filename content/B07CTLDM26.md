@@ -14,7 +14,7 @@ currency: EUR
 price: 22.81
 comparePrice: 70 EUR
 inStock: true
-prodname: Under Armour Ripple  Zapatillas de Running para Mujer  Negro  Black/Pitch Gray/Purple Prime 006   43 EU
+prodname: 'Under Armour Ripple  Zapatillas de Running para Mujer  Negro  Black/Pitch Gray/Purple Prime 006   43 EU'
 ---
 
 Tienes [Under Armour Ripple  Zapatillas de Running para Mujer  Negro  Black/Pitch Gray/Purple Prime 006   43 EU](https://www.amazon.es/dp/B07CTLDM26/?tag=tolees-21) con un 67.41 % de descuento con precio de oferta de 22.81 EUR (original: 70 EUR) en el siguiente enlace!

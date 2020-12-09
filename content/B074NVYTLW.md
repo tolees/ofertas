@@ -14,7 +14,7 @@ currency: EUR
 price: 13.18
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Esprit 087ee1i006  suéter Mujer   Terracotta 5 809   Small
+prodname: 'Esprit 087ee1i006  suéter Mujer   Terracotta 5 809   Small'
 ---
 
 Está [Esprit 087ee1i006  suéter Mujer   Terracotta 5 809   Small](https://www.amazon.es/dp/B074NVYTLW/?tag=tolees-21) con 67.04 de descuento por 13.18 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 64.95 EUR
 inStock: true
-prodname: urBeats3 con cable de Lightning - Auriculares  cable antienredos  auriculares magnéticos  controles y micrófono integrados - PPMU9A2:URBEATS 3 PLATA SATINADA
+prodname: 'urBeats3 con cable de Lightning - Auriculares  cable antienredos  auriculares magnéticos  controles y micrófono integrados - PPMU9A2:URBEATS 3 PLATA SATINADA'
 ---
 
 Está [urBeats3 con cable de Lightning - Auriculares  cable antienredos  auriculares magnéticos  controles y micrófono integrados - PPMU9A2:URBEATS 3 PLATA SATINADA](https://www.amazon.es/dp/B07HFHFJ8R/?tag=tolees-21) con 49.21 de descuento por 32.99 EUR (original: 64.95 EUR) en el siguiente enlace!

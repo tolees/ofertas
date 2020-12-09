@@ -14,7 +14,7 @@ currency: EUR
 price: 13.21
 comparePrice: 21.29 EUR
 inStock: true
-prodname: Apli Paper 11475 Papel Fotografico A4 Everyday 180GR 100H
+prodname: 'Apli Paper 11475 Papel Fotografico A4 Everyday 180GR 100H'
 ---
 
 Tienes [Apli Paper 11475 Papel Fotografico A4 Everyday 180GR 100H](https://www.amazon.es/dp/B000GYHX8C/?tag=tolees-21) con un 37.95 % de descuento con precio de oferta de 13.21 EUR (original: 21.29 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 79.95
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero BM8530-11XE
+prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero BM8530-11XE'
 ---
 
 Ahora mismo tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero BM8530-11XE](https://www.amazon.es/dp/B07FLB5JWP/?tag=tolees-21) a 79.95 EUR (original: 119.0 EUR) (32.82 %  de descuento) en el siguiente enlace!

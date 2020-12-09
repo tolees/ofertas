@@ -14,7 +14,7 @@ currency: EUR
 price: 48.91
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Flex Advantage 3.0-Stally  Zapatillas Deportivas Hombre  Multicolor  GYBK Blue & Black Mesh/Black Trim   41 EU
+prodname: 'Skechers Flex Advantage 3.0-Stally  Zapatillas Deportivas Hombre  Multicolor  GYBK Blue & Black Mesh/Black Trim   41 EU'
 ---
 
 Ahora mismo tienes [Skechers Flex Advantage 3.0-Stally  Zapatillas Deportivas Hombre  Multicolor  GYBK Blue & Black Mesh/Black Trim   41 EU](https://www.amazon.es/dp/B079RKVL2M/?tag=tolees-21) a 48.91 EUR (original: 69.95 EUR) (30.08 %  de descuento) en el siguiente enlace!

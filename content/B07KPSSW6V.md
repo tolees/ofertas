@@ -14,7 +14,7 @@ currency: EUR
 price: 11.85
 comparePrice: 15.95 EUR
 inStock: true
-prodname: Pop! Vinilo: Castlevania: Trevor Belmont
+prodname: 'Pop! Vinilo: Castlevania: Trevor Belmont'
 ---
 
 Tienes [Pop! Vinilo: Castlevania: Trevor Belmont](https://www.amazon.es/dp/B07KPSSW6V/?tag=tolees-21) con un 25.71 % de descuento con precio de oferta de 11.85 EUR (original: 15.95 EUR) en el siguiente enlace!

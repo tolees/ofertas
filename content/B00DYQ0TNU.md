@@ -14,7 +14,7 @@ currency: EUR
 price: 12.44
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Sheridan s Coffee layered Likör - 1 x 0.5 l
+prodname: 'Sheridan s Coffee layered Likör - 1 x 0.5 l'
 ---
 
 Ahora mismo tienes [Sheridan s Coffee layered Likör - 1 x 0.5 l](https://www.amazon.es/dp/B00DYQ0TNU/?tag=tolees-21) a 12.44 EUR (original: 17.99 EUR) (30.85 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 99.0
 comparePrice: 195.0 EUR
 inStock: true
-prodname: Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 1513331
+prodname: 'Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 1513331'
 ---
 
 Ahora mismo tienes [Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 1513331](https://www.amazon.es/dp/B01BEYT0C4/?tag=tolees-21) a 99.0 EUR (original: 195.0 EUR) (49.23 %  de descuento) en el siguiente enlace!

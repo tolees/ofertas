@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: WMF Gourmet Colador  Acero Inoxidable Pulido
+prodname: 'WMF Gourmet Colador  Acero Inoxidable Pulido'
 ---
 
 Tienes [WMF Gourmet Colador  Acero Inoxidable Pulido](https://www.amazon.es/dp/B000WGJ7YM/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

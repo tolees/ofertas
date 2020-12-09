@@ -14,7 +14,7 @@ currency: EUR
 price: 24.57
 comparePrice: 74.08 EUR
 inStock: true
-prodname: Burton Menswear London Green Two Tone Lightweight Hooded Padded Jacket  Chaqueta para Hombre  Verde  XX-Large
+prodname: 'Burton Menswear London Green Two Tone Lightweight Hooded Padded Jacket  Chaqueta para Hombre  Verde  XX-Large'
 ---
 
 Ahora mismo tienes [Burton Menswear London Green Two Tone Lightweight Hooded Padded Jacket  Chaqueta para Hombre  Verde  XX-Large](https://www.amazon.es/dp/B07GWKGL3W/?tag=tolees-21) a 24.57 EUR (original: 74.08 EUR) (66.83 %  de descuento) en el siguiente enlace!

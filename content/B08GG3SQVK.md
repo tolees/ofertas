@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 29.75 EUR
 inStock: true
-prodname: Gintan Tabla de Cortar 3 in 1 Multifunción Tabla de Cortar Plegable Tabla de Cortar Cocina Cesta de Drenaje con Colador y Toalla para Cocina Frutas Verduras  Verde 
+prodname: 'Gintan Tabla de Cortar 3 in 1 Multifunción Tabla de Cortar Plegable Tabla de Cortar Cocina Cesta de Drenaje con Colador y Toalla para Cocina Frutas Verduras  Verde '
 ---
 
 Ahora mismo tienes [Gintan Tabla de Cortar 3 in 1 Multifunción Tabla de Cortar Plegable Tabla de Cortar Cocina Cesta de Drenaje con Colador y Toalla para Cocina Frutas Verduras  Verde ](https://www.amazon.es/dp/B08GG3SQVK/?tag=tolees-21) a 15.99 EUR (original: 29.75 EUR) (46.25 %  de descuento) en el siguiente enlace!

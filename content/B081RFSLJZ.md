@@ -14,7 +14,7 @@ currency: EUR
 price: 6.68
 comparePrice: 9.68 EUR
 inStock: true
-prodname: 5 pulgadas de ancho punta roja útil mango madera cepillo negro filamento pintura al óleo pintura cepillo
+prodname: '5 pulgadas de ancho punta roja útil mango madera cepillo negro filamento pintura al óleo pintura cepillo'
 ---
 
 Tienes [5 pulgadas de ancho punta roja útil mango madera cepillo negro filamento pintura al óleo pintura cepillo](https://www.amazon.es/dp/B081RFSLJZ/?tag=tolees-21) con un 30.99 % de descuento con precio de oferta de 6.68 EUR (original: 9.68 EUR) en el siguiente enlace!

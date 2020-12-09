@@ -14,7 +14,7 @@ currency: EUR
 price: 297.99
 comparePrice: 479.99 EUR
 inStock: true
-prodname: Philips BRI954/00 Lumea Prestige - Depiladora Luz Pulsada para la Depilación Permanente del Vello Visible en Casa con 3 Cabezales: Cuerpo  Cara y Zonas Precisión  Blanco y Rosa
+prodname: 'Philips BRI954/00 Lumea Prestige - Depiladora Luz Pulsada para la Depilación Permanente del Vello Visible en Casa con 3 Cabezales: Cuerpo  Cara y Zonas Precisión  Blanco y Rosa'
 ---
 
 Está [Philips BRI954/00 Lumea Prestige - Depiladora Luz Pulsada para la Depilación Permanente del Vello Visible en Casa con 3 Cabezales: Cuerpo  Cara y Zonas Precisión  Blanco y Rosa](https://www.amazon.es/dp/B01MY8A1HZ/?tag=tolees-21) con 37.92 de descuento por 297.99 EUR (original: 479.99 EUR) en el siguiente enlace!

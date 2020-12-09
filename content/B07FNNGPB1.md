@@ -14,7 +14,7 @@ currency: EUR
 price: 7.04
 comparePrice: 12.99 EUR
 inStock: true
-prodname: JACK & JONES Jacmix Solid Trunks Noos Bóxer  Negro Black  X-Large para Hombre
+prodname: 'JACK & JONES Jacmix Solid Trunks Noos Bóxer  Negro Black  X-Large para Hombre'
 ---
 
 Tienes [JACK & JONES Jacmix Solid Trunks Noos Bóxer  Negro Black  X-Large para Hombre](https://www.amazon.es/dp/B07FNNGPB1/?tag=tolees-21) con un 45.80 % de descuento con precio de oferta de 7.04 EUR (original: 12.99 EUR) en el siguiente enlace!

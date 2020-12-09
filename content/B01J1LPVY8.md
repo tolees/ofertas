@@ -14,7 +14,7 @@ currency: EUR
 price: 27.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: crocs Baya  Zuecos Unisex Adulto  Rojo  Pepper   39/40 EU
+prodname: 'crocs Baya  Zuecos Unisex Adulto  Rojo  Pepper   39/40 EU'
 ---
 
 Tienes [crocs Baya  Zuecos Unisex Adulto  Rojo  Pepper   39/40 EU](https://www.amazon.es/dp/B01J1LPVY8/?tag=tolees-21) con un 30.11 % de descuento con precio de oferta de 27.95 EUR (original: 39.99 EUR) en el siguiente enlace!

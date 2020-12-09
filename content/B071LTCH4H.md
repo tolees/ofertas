@@ -14,7 +14,7 @@ currency: EUR
 price: 32.0
 comparePrice: 60.0 EUR
 inStock: true
-prodname: New Balance Pc574v1 Zapatillas Unisex Niños  Negro  Black/grey   30.5 EU  12 UK 
+prodname: 'New Balance Pc574v1 Zapatillas Unisex Niños  Negro  Black/grey   30.5 EU  12 UK '
 ---
 
 Ahora mismo tienes [New Balance Pc574v1 Zapatillas Unisex Niños  Negro  Black/grey   30.5 EU  12 UK ](https://www.amazon.es/dp/B071LTCH4H/?tag=tolees-21) a 32.0 EUR (original: 60.0 EUR) (46.67 %  de descuento) en el siguiente enlace!

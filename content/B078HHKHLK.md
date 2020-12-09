@@ -14,7 +14,7 @@ currency: EUR
 price: 17.61
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Springfield Cárdigan Jacquard  Gama Azules   Medium  Tamaño del Fabricante:M  para Mujer
+prodname: 'Springfield Cárdigan Jacquard  Gama Azules   Medium  Tamaño del Fabricante:M  para Mujer'
 ---
 
 Tienes [Springfield Cárdigan Jacquard  Gama Azules   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078HHKHLK/?tag=tolees-21) con un 55.96 % de descuento con precio de oferta de 17.61 EUR (original: 39.99 EUR) en el siguiente enlace!

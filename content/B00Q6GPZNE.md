@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 35 EUR
 inStock: true
-prodname: CRZ YOGA - Sujetador Deportivo Yoga Cruzados Espalda Sin Aros para Mujer Azul Claro M
+prodname: 'CRZ YOGA - Sujetador Deportivo Yoga Cruzados Espalda Sin Aros para Mujer Azul Claro M'
 ---
 
 Está [CRZ YOGA - Sujetador Deportivo Yoga Cruzados Espalda Sin Aros para Mujer Azul Claro M](https://www.amazon.es/dp/B00Q6GPZNE/?tag=tolees-21) con 48.60 de descuento por 17.99 EUR (original: 35 EUR) en el siguiente enlace!

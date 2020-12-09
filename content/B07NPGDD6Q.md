@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 300 EUR
 inStock: true
-prodname: Teclast A10H-tablet 10.1 Pulgadas Android 7.0 Quad Core 2GB RAM +16GB ROM MTK8163  Dual Camera 2.0MP + 0.3MP y Dual WiFi 
+prodname: 'Teclast A10H-tablet 10.1 Pulgadas Android 7.0 Quad Core 2GB RAM +16GB ROM MTK8163  Dual Camera 2.0MP + 0.3MP y Dual WiFi '
 ---
 
 Tienes [Teclast A10H-tablet 10.1 Pulgadas Android 7.0 Quad Core 2GB RAM +16GB ROM MTK8163  Dual Camera 2.0MP + 0.3MP y Dual WiFi ](https://www.amazon.es/dp/B07NPGDD6Q/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 89.99 EUR (original: 300 EUR) en el siguiente enlace!

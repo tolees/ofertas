@@ -14,7 +14,7 @@ currency: EUR
 price: 54.95
 comparePrice: 99 EUR
 inStock: true
-prodname: Lacoste Masters 119 2 SMA  Zapatillas para Hombre  Blanco  Wht/Grn 082   44 EU
+prodname: 'Lacoste Masters 119 2 SMA  Zapatillas para Hombre  Blanco  Wht/Grn 082   44 EU'
 ---
 
 Tienes [Lacoste Masters 119 2 SMA  Zapatillas para Hombre  Blanco  Wht/Grn 082   44 EU](https://www.amazon.es/dp/B07DHTH8MH/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 54.95 EUR (original: 99 EUR) en el siguiente enlace!

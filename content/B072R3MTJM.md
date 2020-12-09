@@ -14,7 +14,7 @@ currency: EUR
 price: 53.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha  Hombre  Azul  Collegiate Navy   Talla M
+prodname: 'Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha  Hombre  Azul  Collegiate Navy   Talla M'
 ---
 
 Ahora mismo tienes [Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha  Hombre  Azul  Collegiate Navy   Talla M](https://www.amazon.es/dp/B072R3MTJM/?tag=tolees-21) a 53.99 EUR (original: 129.99 EUR) (58.47 %  de descuento) en el siguiente enlace!

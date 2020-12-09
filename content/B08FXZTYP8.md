@@ -14,7 +14,7 @@ currency: EUR
 price: 21.0
 comparePrice: 29.97 EUR
 inStock: true
-prodname: Skip Ultimate Detergente Capsulas 3en1 Higiene Total 30 lav - Pack de 3
+prodname: 'Skip Ultimate Detergente Capsulas 3en1 Higiene Total 30 lav - Pack de 3'
 ---
 
 Tienes [Skip Ultimate Detergente Capsulas 3en1 Higiene Total 30 lav - Pack de 3](https://www.amazon.es/dp/B08FXZTYP8/?tag=tolees-21) con un 29.93 % de descuento con precio de oferta de 21.0 EUR (original: 29.97 EUR) en el siguiente enlace!

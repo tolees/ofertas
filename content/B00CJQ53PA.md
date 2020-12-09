@@ -14,7 +14,7 @@ currency: EUR
 price: 6.73
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Star Wars - Disfraz de Darth Vader para mascota  Talla S perro  Rubie s 887852-S 
+prodname: 'Star Wars - Disfraz de Darth Vader para mascota  Talla S perro  Rubie s 887852-S '
 ---
 
 Tienes [Star Wars - Disfraz de Darth Vader para mascota  Talla S perro  Rubie s 887852-S ](https://www.amazon.es/dp/B00CJQ53PA/?tag=tolees-21) con un 75.06 % de descuento con precio de oferta de 6.73 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 73.69
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Thule TSSB316DSH - Bolsa con Varios Compartimentos para Ordenador de 15.6"  Color Gris Oscuro
+prodname: 'Thule TSSB316DSH - Bolsa con Varios Compartimentos para Ordenador de 15.6"  Color Gris Oscuro'
 ---
 
 Ahora mismo tienes [Thule TSSB316DSH - Bolsa con Varios Compartimentos para Ordenador de 15.6"  Color Gris Oscuro](https://www.amazon.es/dp/B01NCOY7ZB/?tag=tolees-21) a 73.69 EUR (original: 99.95 EUR) (26.27 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.58
 comparePrice: 14.37 EUR
 inStock: true
-prodname: Juegos de Bolos Exterior Interior Juego de 12 Pcs Las Pinos de Bolos para los Niños Sobre 3 Años.
+prodname: 'Juegos de Bolos Exterior Interior Juego de 12 Pcs Las Pinos de Bolos para los Niños Sobre 3 Años.'
 ---
 
 Ahora mismo tienes [Juegos de Bolos Exterior Interior Juego de 12 Pcs Las Pinos de Bolos para los Niños Sobre 3 Años.](https://www.amazon.es/dp/B06XFWGPP3/?tag=tolees-21) a 8.58 EUR (original: 14.37 EUR) (40.29 %  de descuento) en el siguiente enlace!

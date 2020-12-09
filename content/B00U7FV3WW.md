@@ -14,7 +14,7 @@ currency: EUR
 price: 16.1
 comparePrice: 23.0 EUR
 inStock: true
-prodname: WOOMAX-Cubo 100 bloques de madera   Colorbaby 40993 
+prodname: 'WOOMAX-Cubo 100 bloques de madera   Colorbaby 40993 '
 ---
 
 Ahora mismo tienes [WOOMAX-Cubo 100 bloques de madera   Colorbaby 40993 ](https://www.amazon.es/dp/B00U7FV3WW/?tag=tolees-21) a 16.1 EUR (original: 23.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 70.4
 comparePrice: 129 EUR
 inStock: true
-prodname: Dickies Curtis  Parka para Hombre  Negro  X-Small
+prodname: 'Dickies Curtis  Parka para Hombre  Negro  X-Small'
 ---
 
 Ahora mismo tienes [Dickies Curtis  Parka para Hombre  Negro  X-Small](https://www.amazon.es/dp/B00O42VIFQ/?tag=tolees-21) a 70.4 EUR (original: 129 EUR) (45.43 %  de descuento) en el siguiente enlace!

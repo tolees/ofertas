@@ -14,7 +14,7 @@ currency: EUR
 price: 24
 comparePrice: 55.2 EUR
 inStock: true
-prodname: Las Mulas Sauvignon Blanc  Vino Blanco  6 botellas de 75 cl - Total: 450 cl
+prodname: 'Las Mulas Sauvignon Blanc  Vino Blanco  6 botellas de 75 cl - Total: 450 cl'
 ---
 
 Tienes [Las Mulas Sauvignon Blanc  Vino Blanco  6 botellas de 75 cl - Total: 450 cl](https://www.amazon.es/dp/B01N0GOTKI/?tag=tolees-21) con un 56.52 % de descuento con precio de oferta de 24 EUR (original: 55.2 EUR) en el siguiente enlace!

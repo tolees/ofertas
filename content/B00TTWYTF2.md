@@ -14,7 +14,7 @@ currency: EUR
 price: 12.5
 comparePrice: 21.0 EUR
 inStock: true
-prodname: NATURA ESSENZIALE Ginseng Leo - 60 comprimidos - Ayuda a conseguir relaciones sexuales satisfactorias - Complemento alimenticio con Panax Ginseng  con propiedades vigorizantes y energizantes.
+prodname: 'NATURA ESSENZIALE Ginseng Leo - 60 comprimidos - Ayuda a conseguir relaciones sexuales satisfactorias - Complemento alimenticio con Panax Ginseng  con propiedades vigorizantes y energizantes.'
 ---
 
 Está [NATURA ESSENZIALE Ginseng Leo - 60 comprimidos - Ayuda a conseguir relaciones sexuales satisfactorias - Complemento alimenticio con Panax Ginseng  con propiedades vigorizantes y energizantes.](https://www.amazon.es/dp/B00TTWYTF2/?tag=tolees-21) con 40.48 de descuento por 12.5 EUR (original: 21.0 EUR) en el siguiente enlace!

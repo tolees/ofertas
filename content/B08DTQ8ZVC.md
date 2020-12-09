@@ -14,7 +14,7 @@ currency: EUR
 price: 32.24
 comparePrice: 42.99 EUR
 inStock: true
-prodname: Motast Smartwatch  Reloj Inteligente Pantalla TFT de 1 4”  Pulsera Actividad con Monitor de Sueño Contador  Pulsómetro  Cronómetros  Calorías  Podómetro  Fotografía Remota  IP67 Impermeable
+prodname: 'Motast Smartwatch  Reloj Inteligente Pantalla TFT de 1 4”  Pulsera Actividad con Monitor de Sueño Contador  Pulsómetro  Cronómetros  Calorías  Podómetro  Fotografía Remota  IP67 Impermeable'
 ---
 
 Ahora mismo tienes [Motast Smartwatch  Reloj Inteligente Pantalla TFT de 1 4”  Pulsera Actividad con Monitor de Sueño Contador  Pulsómetro  Cronómetros  Calorías  Podómetro  Fotografía Remota  IP67 Impermeable](https://www.amazon.es/dp/B08DTQ8ZVC/?tag=tolees-21) a 32.24 EUR (original: 42.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

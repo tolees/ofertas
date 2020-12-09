@@ -14,7 +14,7 @@ currency: EUR
 price: 62.5
 comparePrice: 125 EUR
 inStock: true
-prodname: New Balance Summit KOM  Zapatillas de Running para Asfalto para Hombre  Naranja  Flame/Black FB   42 EU
+prodname: 'New Balance Summit KOM  Zapatillas de Running para Asfalto para Hombre  Naranja  Flame/Black FB   42 EU'
 ---
 
 Ahora mismo tienes [New Balance Summit KOM  Zapatillas de Running para Asfalto para Hombre  Naranja  Flame/Black FB   42 EU](https://www.amazon.es/dp/B075XLVCLS/?tag=tolees-21) a 62.5 EUR (original: 125 EUR) (50.00 %  de descuento) en el siguiente enlace!

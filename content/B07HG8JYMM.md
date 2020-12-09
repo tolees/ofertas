@@ -14,7 +14,7 @@ currency: EUR
 price: 18.45
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Project Highrise - Architect s Edition
+prodname: 'Project Highrise - Architect s Edition'
 ---
 
 Ahora mismo tienes [Project Highrise - Architect s Edition](https://www.amazon.es/dp/B07HG8JYMM/?tag=tolees-21) a 18.45 EUR (original: 39.99 EUR) (53.86 %  de descuento) en el siguiente enlace!

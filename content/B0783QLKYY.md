@@ -14,7 +14,7 @@ currency: EUR
 price: 33.41
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Puma Mega Nrgy Knit Wn s  Zapatillas de Deporte para Mujer  Rosa  Soft Fluo Peach White   42.5 EU
+prodname: 'Puma Mega Nrgy Knit Wn s  Zapatillas de Deporte para Mujer  Rosa  Soft Fluo Peach White   42.5 EU'
 ---
 
 Tienes [Puma Mega Nrgy Knit Wn s  Zapatillas de Deporte para Mujer  Rosa  Soft Fluo Peach White   42.5 EU](https://www.amazon.es/dp/B0783QLKYY/?tag=tolees-21) con un 55.42 % de descuento con precio de oferta de 33.41 EUR (original: 74.95 EUR) en el siguiente enlace!

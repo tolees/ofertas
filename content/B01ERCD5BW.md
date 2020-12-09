@@ -14,7 +14,7 @@ currency: EUR
 price: 14.16
 comparePrice: 32 EUR
 inStock: true
-prodname: Tabac  Agua de perfume para mujeres - 290 ml.
+prodname: 'Tabac  Agua de perfume para mujeres - 290 ml.'
 ---
 
 Está [Tabac  Agua de perfume para mujeres - 290 ml.](https://www.amazon.es/dp/B01ERCD5BW/?tag=tolees-21) con 55.75 de descuento por 14.16 EUR (original: 32 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 43.99
 comparePrice: 65.71 EUR
 inStock: true
-prodname: Monix Quick - Olla a Presión Rápida de 6 Litros  Tamaño 22 cm  Braisogona M560002 
+prodname: 'Monix Quick - Olla a Presión Rápida de 6 Litros  Tamaño 22 cm  Braisogona M560002 '
 ---
 
 Ahora mismo tienes [Monix Quick - Olla a Presión Rápida de 6 Litros  Tamaño 22 cm  Braisogona M560002 ](https://www.amazon.es/dp/B008KO2BKU/?tag=tolees-21) a 43.99 EUR (original: 65.71 EUR) (33.05 %  de descuento) en el siguiente enlace!

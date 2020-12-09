@@ -14,7 +14,7 @@ currency: EUR
 price: 15.68
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Springfield Jersey Rayas Flor Jersey  Mujer  Gris  Gama Grises   Large  Tamaño del Fabricante:L 
+prodname: 'Springfield Jersey Rayas Flor Jersey  Mujer  Gris  Gama Grises   Large  Tamaño del Fabricante:L '
 ---
 
 Está [Springfield Jersey Rayas Flor Jersey  Mujer  Gris  Gama Grises   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B078HFZH2G/?tag=tolees-21) con 41.90 de descuento por 15.68 EUR (original: 26.99 EUR) en el siguiente enlace!

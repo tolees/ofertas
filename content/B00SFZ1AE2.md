@@ -14,7 +14,7 @@ currency: EUR
 price: 234.65
 comparePrice: 429.0 EUR
 inStock: true
-prodname: BlackBerry Classic - Smartphone de 3.5"  Qualcomm MSM 8960 1.5 GHz  cámara de 8 MP  S.O. BlackBerry 10  teclado QWERTY 
+prodname: 'BlackBerry Classic - Smartphone de 3.5"  Qualcomm MSM 8960 1.5 GHz  cámara de 8 MP  S.O. BlackBerry 10  teclado QWERTY '
 ---
 
 Tienes [BlackBerry Classic - Smartphone de 3.5"  Qualcomm MSM 8960 1.5 GHz  cámara de 8 MP  S.O. BlackBerry 10  teclado QWERTY ](https://www.amazon.es/dp/B00SFZ1AE2/?tag=tolees-21) con un 45.30 % de descuento con precio de oferta de 234.65 EUR (original: 429.0 EUR) en el siguiente enlace!

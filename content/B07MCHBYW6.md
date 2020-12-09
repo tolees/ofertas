@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: MiMiya Electroestimulador Muscular Abdominales Cinturón Electroestimulador Abdominal USB Recargable EMS Muscular y masajeador Masajeador Eléctrico Cinturón para Hombre& Mujer 14 PCs Gel de reemplazo
+prodname: 'MiMiya Electroestimulador Muscular Abdominales Cinturón Electroestimulador Abdominal USB Recargable EMS Muscular y masajeador Masajeador Eléctrico Cinturón para Hombre& Mujer 14 PCs Gel de reemplazo'
 ---
 
 Está [MiMiya Electroestimulador Muscular Abdominales Cinturón Electroestimulador Abdominal USB Recargable EMS Muscular y masajeador Masajeador Eléctrico Cinturón para Hombre& Mujer 14 PCs Gel de reemplazo](https://www.amazon.es/dp/B07MCHBYW6/?tag=tolees-21) con 60.01 de descuento por 39.99 EUR (original: 99.99 EUR) en el siguiente enlace!

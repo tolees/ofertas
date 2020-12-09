@@ -14,7 +14,7 @@ currency: EUR
 price: 48.74
 comparePrice: 64.99 EUR
 inStock: true
-prodname: PUPPY KITTY 7L comedero automático para Perros y Gatos  Alimentador automático con Temporizador con hasta 4 Comidas por día  Pantalla LCD y función de grabación de Sonido  Negro .
+prodname: 'PUPPY KITTY 7L comedero automático para Perros y Gatos  Alimentador automático con Temporizador con hasta 4 Comidas por día  Pantalla LCD y función de grabación de Sonido  Negro .'
 ---
 
 Ahora mismo tienes [PUPPY KITTY 7L comedero automático para Perros y Gatos  Alimentador automático con Temporizador con hasta 4 Comidas por día  Pantalla LCD y función de grabación de Sonido  Negro .](https://www.amazon.es/dp/B07R5MJ4FS/?tag=tolees-21) a 48.74 EUR (original: 64.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

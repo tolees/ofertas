@@ -14,7 +14,7 @@ currency: EUR
 price: 65.4
 comparePrice: 122.13 EUR
 inStock: true
-prodname: BOSS Zaster Chaqueta  Verde  Dark Green 302   X-Large para Hombre
+prodname: 'BOSS Zaster Chaqueta  Verde  Dark Green 302   X-Large para Hombre'
 ---
 
 Tienes [BOSS Zaster Chaqueta  Verde  Dark Green 302   X-Large para Hombre](https://www.amazon.es/dp/B07CHQKWKT/?tag=tolees-21) con un 46.45 % de descuento con precio de oferta de 65.4 EUR (original: 122.13 EUR) en el siguiente enlace!

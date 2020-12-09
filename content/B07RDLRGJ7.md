@@ -14,7 +14,7 @@ currency: EUR
 price: 17.49
 comparePrice: 24.56 EUR
 inStock: true
-prodname: Salomon Sense CSWP K  Zapatillas de Senderismo Unisex Niños  Verde  Forest Night/Black/Mermaid   30 EU
+prodname: 'Salomon Sense CSWP K  Zapatillas de Senderismo Unisex Niños  Verde  Forest Night/Black/Mermaid   30 EU'
 ---
 
 Tienes [Salomon Sense CSWP K  Zapatillas de Senderismo Unisex Niños  Verde  Forest Night/Black/Mermaid   30 EU](https://www.amazon.es/dp/B07RDLRGJ7/?tag=tolees-21) con un 28.79 % de descuento con precio de oferta de 17.49 EUR (original: 24.56 EUR) en el siguiente enlace!

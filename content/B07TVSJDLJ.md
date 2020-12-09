@@ -14,7 +14,7 @@ currency: EUR
 price: 103.99
 comparePrice: 211.18 EUR
 inStock: true
-prodname: Tefal Heritage Cacerola 29 cm  Hierro Fundido  7 5 litros  Tapa potenciadora de condensación  retención del Calor  Fuego Lento  guisos  caramelización  Apto para Todo Tipo de cocinas  Cast Iron
+prodname: 'Tefal Heritage Cacerola 29 cm  Hierro Fundido  7 5 litros  Tapa potenciadora de condensación  retención del Calor  Fuego Lento  guisos  caramelización  Apto para Todo Tipo de cocinas  Cast Iron'
 ---
 
 Ahora mismo tienes [Tefal Heritage Cacerola 29 cm  Hierro Fundido  7 5 litros  Tapa potenciadora de condensación  retención del Calor  Fuego Lento  guisos  caramelización  Apto para Todo Tipo de cocinas  Cast Iron](https://www.amazon.es/dp/B07TVSJDLJ/?tag=tolees-21) a 103.99 EUR (original: 211.18 EUR) (50.76 %  de descuento) en el siguiente enlace!
