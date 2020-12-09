@@ -14,10 +14,12 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans London Foster Itaka  Zapatillas para Mujer  Dorado  Bronze 864   39 EU](https://www.amazon.es/dp/B079RFP2ND/?tag=tolees-21) a 33.95 EUR (original: 85 EUR) (60.06 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans London Foster Itaka  Zapatillas para Mujer  Dorado  Bronze 864   39 EU](https://www.amazon.es/dp/B079RFP2ND/?tag=tolees-21) con 60.06 de descuento por 33.95 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![Pepe Jeans London Foster Itaka  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41uu5m7EWjL._SL200_.jpg)](https://www.amazon.es/dp/B079RFP2ND/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079RFP2ND/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079RFP2ND/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -14,10 +14,12 @@ comparePrice: 11.63 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Aquoral Multidosis Gotas Oftalmologicas Lubricantes  10 ml](https://www.amazon.es/dp/B00WEOR8HI/?tag=tolees-21) a 6.02 EUR (original: 11.63 EUR) (48.24 %  de descuento) en el siguiente enlace!
+Está [Aquoral Multidosis Gotas Oftalmologicas Lubricantes  10 ml](https://www.amazon.es/dp/B00WEOR8HI/?tag=tolees-21) con 48.24 de descuento por 6.02 EUR (original: 11.63 EUR) en el siguiente enlace!
 
 [![Aquoral Multidosis Gotas Oftalmologicas ](https://m.media-amazon.com/images/I/31VeolSkQcL._SL200_.jpg)](https://www.amazon.es/dp/B00WEOR8HI/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00WEOR8HI/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00WEOR8HI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

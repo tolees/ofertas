@@ -14,12 +14,10 @@ comparePrice: 7.1 EUR
 inStock: true
 ---
 
-Está [Scitec 0728633103751  Fórmulas de Pre-Entrenamiento  49.6 gr](https://www.amazon.es/dp/B004EPYBHK/?tag=tolees-21) con 31.27 de descuento por 4.88 EUR (original: 7.1 EUR) en el siguiente enlace!
+Ahora mismo tienes [Scitec 0728633103751  Fórmulas de Pre-Entrenamiento  49.6 gr](https://www.amazon.es/dp/B004EPYBHK/?tag=tolees-21) a 4.88 EUR (original: 7.1 EUR) (31.27 %  de descuento) en el siguiente enlace!
 
 [![Scitec 0728633103751  Fórmulas de Pre-En](https://images-eu.ssl-images-amazon.com/images/I/41GuPsnkmbL._SL200_.jpg)](https://www.amazon.es/dp/B004EPYBHK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B004EPYBHK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B004EPYBHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

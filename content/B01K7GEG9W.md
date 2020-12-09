@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech M220 Ratón Inalámbrico  Botones al 26.93 % de descuento'
-date: 2020-12-06 04:30:45
+date: 2020-12-09 01:46:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/3115GGHfAWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3115GGHfAWL._SL200_.jpg' ]
 comments: true

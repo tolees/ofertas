@@ -14,12 +14,10 @@ comparePrice: 23.0 EUR
 inStock: true
 ---
 
-Está [Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Azul  Midnight Navy/Graphite/White 410   S/M](https://www.amazon.es/dp/B0714CKVSR/?tag=tolees-21) con 50.00 de descuento por 11.5 EUR (original: 23.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Azul  Midnight Navy/Graphite/White 410   S/M](https://www.amazon.es/dp/B0714CKVSR/?tag=tolees-21) a 11.5 EUR (original: 23.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Under Armour Men s Blitzing 3.0 Cap Gorr](https://m.media-amazon.com/images/I/41zUst2XOTL._SL200_.jpg)](https://www.amazon.es/dp/B0714CKVSR/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0714CKVSR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0714CKVSR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

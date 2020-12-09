@@ -14,12 +14,10 @@ comparePrice: 109 EUR
 inStock: true
 ---
 
-Está [Lacoste Sport Fit 318 3 SPW  Zapatillas para Mujer  Gris  Lt Gry/Wht 2q5   40 EU](https://www.amazon.es/dp/B07CZ7M1WC/?tag=tolees-21) con 52.76 de descuento por 51.49 EUR (original: 109 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Sport Fit 318 3 SPW  Zapatillas para Mujer  Gris  Lt Gry/Wht 2q5   40 EU](https://www.amazon.es/dp/B07CZ7M1WC/?tag=tolees-21) a 51.49 EUR (original: 109 EUR) (52.76 %  de descuento) en el siguiente enlace!
 
 [![Lacoste Sport Fit 318 3 SPW  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/31%2Bs2R%2Bof4L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ7M1WC/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CZ7M1WC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CZ7M1WC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -14,10 +14,12 @@ comparePrice: 159.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Led Lenser H14R.2- Linterna frontal LED](https://www.amazon.es/dp/B00GGQEUDA/?tag=tolees-21) a 85.0 EUR (original: 159.9 EUR) (46.84 %  de descuento) en el siguiente enlace!
+Está [Led Lenser H14R.2- Linterna frontal LED](https://www.amazon.es/dp/B00GGQEUDA/?tag=tolees-21) con 46.84 de descuento por 85.0 EUR (original: 159.9 EUR) en el siguiente enlace!
 
 [![Led Lenser H14R.2- Linterna frontal LED](https://m.media-amazon.com/images/I/417cUeNqtXL._SL200_.jpg)](https://www.amazon.es/dp/B00GGQEUDA/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00GGQEUDA/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00GGQEUDA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
