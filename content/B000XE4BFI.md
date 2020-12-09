@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.21 % en Kenzo 17284 - Agua de perfume  100 ml'
-date: 2020-12-08 02:03:29
+date: 2020-12-09 02:06:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vmr1EML7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vmr1EML7L._SL200_.jpg' ]
 comments: true

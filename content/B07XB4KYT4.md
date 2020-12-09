@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.24 % en Corny - Barritas de Proteínas de Caramel'
+title: 'Corny - Barritas de Proteínas de Caramel al 36.24 % de descuento'
 date: 2020-12-01 19:38:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ARxitSBtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ARxitSBtL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Tienes [Corny - Barritas de Proteínas de Caramelo y Frutos Secos  Sin Azúcar Añadido ni Aceite de Palma - 12 x 45 gr](https://www.amazon.es/dp/B07XB4KYT4/?tag=tolees-21) con un 36.24 % de descuento con precio de oferta de 12.72 EUR (original: 19.95 EUR) en el siguiente enlace!
+Está [Corny - Barritas de Proteínas de Caramelo y Frutos Secos  Sin Azúcar Añadido ni Aceite de Palma - 12 x 45 gr](https://www.amazon.es/dp/B07XB4KYT4/?tag=tolees-21) con 36.24 de descuento por 12.72 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![Corny - Barritas de Proteínas de Caramel](https://m.media-amazon.com/images/I/51ARxitSBtL._SL200_.jpg)](https://www.amazon.es/dp/B07XB4KYT4/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07XB4KYT4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07XB4KYT4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

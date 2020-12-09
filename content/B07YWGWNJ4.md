@@ -14,12 +14,10 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Gran Turismo Sport Spec II](https://www.amazon.es/dp/B07YWGWNJ4/?tag=tolees-21) con 40.31 de descuento por 17.9 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gran Turismo Sport Spec II](https://www.amazon.es/dp/B07YWGWNJ4/?tag=tolees-21) a 17.9 EUR (original: 29.99 EUR) (40.31 %  de descuento) en el siguiente enlace!
 
 [![Gran Turismo Sport Spec II](https://m.media-amazon.com/images/I/51q5qwDkCyL._SL200_.jpg)](https://www.amazon.es/dp/B07YWGWNJ4/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07YWGWNJ4/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07YWGWNJ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

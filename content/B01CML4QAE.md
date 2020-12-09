@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.56 % en Theo Klein 8394 Maletín Ixolino de Bosch'
-date: 2020-12-07 16:49:35
+date: 2020-12-09 02:09:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZM3EtAQdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZM3EtAQdL._SL200_.jpg' ]
 comments: true
