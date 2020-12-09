@@ -14,10 +14,12 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Fast Trek II Forro Polar con Cremallera  Hombre  Rojo  Red Jasper   M](https://www.amazon.es/dp/B07V5KJKL6/?tag=tolees-21) a 35.98 EUR (original: 49.99 EUR) (28.03 %  de descuento) en el siguiente enlace!
+Está [Columbia Fast Trek II Forro Polar con Cremallera  Hombre  Rojo  Red Jasper   M](https://www.amazon.es/dp/B07V5KJKL6/?tag=tolees-21) con 28.03 de descuento por 35.98 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Columbia Fast Trek II Forro Polar con Cr](https://m.media-amazon.com/images/I/41NO4Mk+W0L._SL200_.jpg)](https://www.amazon.es/dp/B07V5KJKL6/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07V5KJKL6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07V5KJKL6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -14,10 +14,12 @@ comparePrice: 40.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 500  Zapatillas Unisex Niños  Azul  Navy/Blue BB   26 EU](https://www.amazon.es/dp/B01MS8UEOP/?tag=tolees-21) a 24.8 EUR (original: 40.0 EUR) (38.00 %  de descuento) en el siguiente enlace!
+Está [New Balance 500  Zapatillas Unisex Niños  Azul  Navy/Blue BB   26 EU](https://www.amazon.es/dp/B01MS8UEOP/?tag=tolees-21) con 38.00 de descuento por 24.8 EUR (original: 40.0 EUR) en el siguiente enlace!
 
 [![New Balance 500  Zapatillas Unisex Niños](https://m.media-amazon.com/images/I/41+9++FH8PL._SL200_.jpg)](https://www.amazon.es/dp/B01MS8UEOP/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MS8UEOP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MS8UEOP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

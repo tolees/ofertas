@@ -14,10 +14,12 @@ comparePrice: 25.48 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Oréal  Maquillaje en polvo - 15 gr.](https://www.amazon.es/dp/B019ORDK6A/?tag=tolees-21) a 5.53 EUR (original: 25.48 EUR) (78.30 %  de descuento) en el siguiente enlace!
+Está [L Oréal  Maquillaje en polvo - 15 gr.](https://www.amazon.es/dp/B019ORDK6A/?tag=tolees-21) con 78.30 de descuento por 5.53 EUR (original: 25.48 EUR) en el siguiente enlace!
 
 [![L Oréal  Maquillaje en polvo - 15 gr.](https://images-eu.ssl-images-amazon.com/images/I/410ehcTb69L._SL200_.jpg)](https://www.amazon.es/dp/B019ORDK6A/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B019ORDK6A/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B019ORDK6A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

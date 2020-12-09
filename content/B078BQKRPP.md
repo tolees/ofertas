@@ -14,10 +14,12 @@ comparePrice: 170 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brooks Glycerin 16  Zapatillas de Running para Hombre   Black/Orange/Grey 069   44 EU](https://www.amazon.es/dp/B078BQKRPP/?tag=tolees-21) a 118.9 EUR (original: 170 EUR) (30.06 %  de descuento) en el siguiente enlace!
+Está [Brooks Glycerin 16  Zapatillas de Running para Hombre   Black/Orange/Grey 069   44 EU](https://www.amazon.es/dp/B078BQKRPP/?tag=tolees-21) con 30.06 de descuento por 118.9 EUR (original: 170 EUR) en el siguiente enlace!
 
 [![Brooks Glycerin 16  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/51EcrlckjeL._SL200_.jpg)](https://www.amazon.es/dp/B078BQKRPP/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078BQKRPP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078BQKRPP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -14,10 +14,12 @@ comparePrice: 190 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Invicta 6977 Pro Diver - Scuba Reloj para Hombre acero inoxidable Cuarzo Esfera negro](https://www.amazon.es/dp/B003MYUQKA/?tag=tolees-21) a 113.26 EUR (original: 190 EUR) (40.39 %  de descuento) en el siguiente enlace!
+Está [Invicta 6977 Pro Diver - Scuba Reloj para Hombre acero inoxidable Cuarzo Esfera negro](https://www.amazon.es/dp/B003MYUQKA/?tag=tolees-21) con 40.39 de descuento por 113.26 EUR (original: 190 EUR) en el siguiente enlace!
 
 [![Invicta 6977 Pro Diver - Scuba Reloj par](https://images-eu.ssl-images-amazon.com/images/I/51XusIrPCYL._SL200_.jpg)](https://www.amazon.es/dp/B003MYUQKA/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B003MYUQKA/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B003MYUQKA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

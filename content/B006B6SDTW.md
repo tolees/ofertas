@@ -14,10 +14,12 @@ comparePrice: 7.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [OGX  Acondicionador Aceite de Argán de Marruecos  Cabellos Secos y Dañados  385 ml](https://www.amazon.es/dp/B006B6SDTW/?tag=tolees-21) a 5.88 EUR (original: 7.9 EUR) (25.57 %  de descuento) en el siguiente enlace!
+Está [OGX  Acondicionador Aceite de Argán de Marruecos  Cabellos Secos y Dañados  385 ml](https://www.amazon.es/dp/B006B6SDTW/?tag=tolees-21) con 25.57 de descuento por 5.88 EUR (original: 7.9 EUR) en el siguiente enlace!
 
 [![OGX  Acondicionador Aceite de Argán de M](https://m.media-amazon.com/images/I/41EfoF+mDQL._SL200_.jpg)](https://www.amazon.es/dp/B006B6SDTW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B006B6SDTW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B006B6SDTW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

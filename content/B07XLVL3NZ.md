@@ -14,10 +14,12 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Trials of Mana](https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21) a 24.9 EUR (original: 49.99 EUR) (50.19 %  de descuento) en el siguiente enlace!
+Está [Trials of Mana](https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21) con 50.19 de descuento por 24.9 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Trials of Mana](https://m.media-amazon.com/images/I/51pjWNfQ-TL._SL200_.jpg)](https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

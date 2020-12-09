@@ -14,10 +14,12 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Air Max Motion Lw Se  Zapatillas de Gimnasia para Hombre  Gris  Black/Pure Gris Platinum/Dark Grey 010   40.5 EU](https://www.amazon.es/dp/B071NMSJG7/?tag=tolees-21) a 52.4 EUR (original: 99.99 EUR) (47.59 %  de descuento) en el siguiente enlace!
+Está [Nike Air Max Motion Lw Se  Zapatillas de Gimnasia para Hombre  Gris  Black/Pure Gris Platinum/Dark Grey 010   40.5 EU](https://www.amazon.es/dp/B071NMSJG7/?tag=tolees-21) con 47.59 de descuento por 52.4 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Nike Air Max Motion Lw Se  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/516xSu2e6XL._SL200_.jpg)](https://www.amazon.es/dp/B071NMSJG7/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B071NMSJG7/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071NMSJG7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
