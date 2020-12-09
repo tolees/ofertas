@@ -17,10 +17,12 @@ inStock: true
 prodname: 'The Witcher 3: Wild Hunt - Game Of The Year Edition'
 ---
 
-Ahora mismo tienes [The Witcher 3: Wild Hunt - Game Of The Year Edition](https://www.amazon.es/dp/B01J2K2OFW/?tag=tolees-21) a 19.95 EUR (original: 50.99 EUR) (60.87 %  de descuento) en el siguiente enlace!
+Está [The Witcher 3: Wild Hunt - Game Of The Year Edition](https://www.amazon.es/dp/B01J2K2OFW/?tag=tolees-21) con 60.87 de descuento por 19.95 EUR (original: 50.99 EUR) en el siguiente enlace!
 
 [![The Witcher 3: Wild Hunt - Game Of The Y](https://m.media-amazon.com/images/I/61xtg4ItezL._SL200_.jpg)](https://www.amazon.es/dp/B01J2K2OFW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01J2K2OFW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01J2K2OFW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

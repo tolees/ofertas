@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lacoste L1212  Polo Para Hombre  Azul  Olympe S5M   Small  Talla del fabricante: 3 '
 ---
 
-Ahora mismo tienes [Lacoste L1212  Polo Para Hombre  Azul  Olympe S5M   Small  Talla del fabricante: 3 ](https://www.amazon.es/dp/B01MQWON15/?tag=tolees-21) a 68.48 EUR (original: 105.45 EUR) (35.06 %  de descuento) en el siguiente enlace!
+Está [Lacoste L1212  Polo Para Hombre  Azul  Olympe S5M   Small  Talla del fabricante: 3 ](https://www.amazon.es/dp/B01MQWON15/?tag=tolees-21) con 35.06 de descuento por 68.48 EUR (original: 105.45 EUR) en el siguiente enlace!
 
 [![Lacoste L1212  Polo Para Hombre  Azul  O](https://images-eu.ssl-images-amazon.com/images/I/41mpFhXZtWL._SL200_.jpg)](https://www.amazon.es/dp/B01MQWON15/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MQWON15/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MQWON15/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

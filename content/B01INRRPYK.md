@@ -17,12 +17,10 @@ inStock: true
 prodname: 'CEYS 501619 Cola madera profesional  Azul  0'
 ---
 
-Está [CEYS 501619 Cola madera profesional  Azul  0](https://www.amazon.es/dp/B01INRRPYK/?tag=tolees-21) con 28.37 de descuento por 5.05 EUR (original: 7.05 EUR) en el siguiente enlace!
+Ahora mismo tienes [CEYS 501619 Cola madera profesional  Azul  0](https://www.amazon.es/dp/B01INRRPYK/?tag=tolees-21) a 5.05 EUR (original: 7.05 EUR) (28.37 %  de descuento) en el siguiente enlace!
 
 [![CEYS 501619 Cola madera profesional  Azu](https://m.media-amazon.com/images/I/31Tf9k8IwWL._SL200_.jpg)](https://www.amazon.es/dp/B01INRRPYK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01INRRPYK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01INRRPYK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WONNIE 10.5” Reproductor de DVD para Rep al 42.11 % de descuento'
-date: 2020-12-08 16:18:15
+date: 2020-12-09 22:43:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BpEx7sjGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BpEx7sjGL._SL200_.jpg' ]
 comments: true

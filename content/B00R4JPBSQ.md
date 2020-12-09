@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roca A5A8125C00 Victoria - Mezclador mon al 25.24 % de descuento'
-date: 2020-12-07 22:11:52
+date: 2020-12-09 22:46:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31v1Kwu6fUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31v1Kwu6fUL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Adaptador wifi USB inalámbrico C al 47.63 % de descuento'
-date: 2020-12-08 16:22:49
+date: 2020-12-09 22:42:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WV5Kf8T-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WV5Kf8T-L._SL200_.jpg' ]
 comments: true

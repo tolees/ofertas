@@ -17,10 +17,12 @@ inStock: true
 prodname: 'ARTEZA Pintura acrílica para pouring paint | Botes de 60 ml | 32 colores surtidos | No necesita mezcla | Pinturas acrílicas fluidas para verter sobre lienzo  vidrio  papel  madera  azulejos y piedras'
 ---
 
-Ahora mismo tienes [ARTEZA Pintura acrílica para pouring paint | Botes de 60 ml | 32 colores surtidos | No necesita mezcla | Pinturas acrílicas fluidas para verter sobre lienzo  vidrio  papel  madera  azulejos y piedras](https://www.amazon.es/dp/B07YGTXZSR/?tag=tolees-21) a 44.37 EUR (original: 59.4 EUR) (25.30 %  de descuento) en el siguiente enlace!
+Está [ARTEZA Pintura acrílica para pouring paint | Botes de 60 ml | 32 colores surtidos | No necesita mezcla | Pinturas acrílicas fluidas para verter sobre lienzo  vidrio  papel  madera  azulejos y piedras](https://www.amazon.es/dp/B07YGTXZSR/?tag=tolees-21) con 25.30 de descuento por 44.37 EUR (original: 59.4 EUR) en el siguiente enlace!
 
 [![ARTEZA Pintura acrílica para pouring pai](https://m.media-amazon.com/images/I/510cdBNzG2L._SL200_.jpg)](https://www.amazon.es/dp/B07YGTXZSR/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07YGTXZSR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07YGTXZSR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

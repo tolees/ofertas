@@ -17,12 +17,10 @@ inStock: true
 prodname: 'NIKE Brasilia Bolsa de Gimnasio  Unisex Adulto  Rosa  Rush Pink/Black/White   MISC'
 ---
 
-Está [NIKE Brasilia Bolsa de Gimnasio  Unisex Adulto  Rosa  Rush Pink/Black/White   MISC](https://www.amazon.es/dp/B07KR1KYDD/?tag=tolees-21) con 50.17 de descuento por 14.95 EUR (original: 30.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [NIKE Brasilia Bolsa de Gimnasio  Unisex Adulto  Rosa  Rush Pink/Black/White   MISC](https://www.amazon.es/dp/B07KR1KYDD/?tag=tolees-21) a 14.95 EUR (original: 30.0 EUR) (50.17 %  de descuento) en el siguiente enlace!
 
 [![NIKE Brasilia Bolsa de Gimnasio  Unisex ](https://m.media-amazon.com/images/I/41hElMl-8gL._SL200_.jpg)](https://www.amazon.es/dp/B07KR1KYDD/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KR1KYDD/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KR1KYDD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'MARTINELLI Bota de Piel Warren 1456'
 ---
 
-Está [MARTINELLI Bota de Piel Warren 1456](https://www.amazon.es/dp/B07PQHLK7N/?tag=tolees-21) con 43.07 de descuento por 62.59 EUR (original: 109.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [MARTINELLI Bota de Piel Warren 1456](https://www.amazon.es/dp/B07PQHLK7N/?tag=tolees-21) a 62.59 EUR (original: 109.95 EUR) (43.07 %  de descuento) en el siguiente enlace!
 
 [![MARTINELLI Bota de Piel Warren 1456](https://m.media-amazon.com/images/I/41ATj1sp1oL._SL200_.jpg)](https://www.amazon.es/dp/B07PQHLK7N/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07PQHLK7N/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07PQHLK7N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

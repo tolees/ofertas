@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Star Wars: El Despertar De La Fuerza  Blu-ray 3D  [Blu-ray]'
 ---
 
-Ahora mismo tienes [Star Wars: El Despertar De La Fuerza  Blu-ray 3D  [Blu-ray]](https://www.amazon.es/dp/B01L7BM7HY/?tag=tolees-21) a 11.95 EUR (original: 39.59 EUR) (69.82 %  de descuento) en el siguiente enlace!
+Está [Star Wars: El Despertar De La Fuerza  Blu-ray 3D  [Blu-ray]](https://www.amazon.es/dp/B01L7BM7HY/?tag=tolees-21) con 69.82 de descuento por 11.95 EUR (original: 39.59 EUR) en el siguiente enlace!
 
 [![Star Wars: El Despertar De La Fuerza  Bl](https://images-eu.ssl-images-amazon.com/images/I/51NIwIj3gRL._SL200_.jpg)](https://www.amazon.es/dp/B01L7BM7HY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01L7BM7HY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01L7BM7HY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

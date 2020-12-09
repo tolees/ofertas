@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Skechers Graceful-Get Connected  Zapatillas para Mujer  Gris  Grey/Turquoise   35 EU'
 ---
 
-Ahora mismo tienes [Skechers Graceful-Get Connected  Zapatillas para Mujer  Gris  Grey/Turquoise   35 EU](https://www.amazon.es/dp/B01M1C6RFY/?tag=tolees-21) a 34.95 EUR (original: 49.95 EUR) (30.03 %  de descuento) en el siguiente enlace!
+Está [Skechers Graceful-Get Connected  Zapatillas para Mujer  Gris  Grey/Turquoise   35 EU](https://www.amazon.es/dp/B01M1C6RFY/?tag=tolees-21) con 30.03 de descuento por 34.95 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![Skechers Graceful-Get Connected  Zapatil](https://m.media-amazon.com/images/I/41JCc1CofhL._SL200_.jpg)](https://www.amazon.es/dp/B01M1C6RFY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01M1C6RFY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M1C6RFY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

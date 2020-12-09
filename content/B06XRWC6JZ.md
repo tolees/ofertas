@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.66 % en deAO Cocinita "Mi Pequeño Chef" con Cara'
-date: 2020-12-08 16:18:10
+date: 2020-12-09 22:42:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/514EYC9a3lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514EYC9a3lL._SL200_.jpg' ]
 comments: true

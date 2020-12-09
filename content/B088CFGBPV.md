@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Streets of Rage 4'
 ---
 
-Está [Streets of Rage 4](https://www.amazon.es/dp/B088CFGBPV/?tag=tolees-21) con 39.13 de descuento por 24.95 EUR (original: 40.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Streets of Rage 4](https://www.amazon.es/dp/B088CFGBPV/?tag=tolees-21) a 24.95 EUR (original: 40.99 EUR) (39.13 %  de descuento) en el siguiente enlace!
 
 [![Streets of Rage 4](https://m.media-amazon.com/images/I/51gfUg5p72L._SL200_.jpg)](https://www.amazon.es/dp/B088CFGBPV/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B088CFGBPV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B088CFGBPV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

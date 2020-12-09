@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 711 Skinny Jeans Modello Aderente al 31.65 % de descuento'
-date: 2020-12-08 22:15:06
+date: 2020-12-09 22:50:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg' ]
 comments: true

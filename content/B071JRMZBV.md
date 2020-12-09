@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Fallout 4 VR'
 ---
 
-Está [Fallout 4 VR](https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21) con 66.41 de descuento por 20.15 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fallout 4 VR](https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21) a 20.15 EUR (original: 59.99 EUR) (66.41 %  de descuento) en el siguiente enlace!
 
 [![Fallout 4 VR](https://images-eu.ssl-images-amazon.com/images/I/51KsQNVXcUL._SL200_.jpg)](https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
