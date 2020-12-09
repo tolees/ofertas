@@ -14,10 +14,12 @@ comparePrice: 12.82 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Beverly Hills Cop - Un piedipiatti a Beverly Hills [Italia] [Blu-ray]](https://www.amazon.es/dp/B005YJMB9K/?tag=tolees-21) a 4.33 EUR (original: 12.82 EUR) (66.22 %  de descuento) en el siguiente enlace!
+Está [Beverly Hills Cop - Un piedipiatti a Beverly Hills [Italia] [Blu-ray]](https://www.amazon.es/dp/B005YJMB9K/?tag=tolees-21) con 66.22 de descuento por 4.33 EUR (original: 12.82 EUR) en el siguiente enlace!
 
 [![Beverly Hills Cop - Un piedipiatti a Bev](https://images-eu.ssl-images-amazon.com/images/I/51RbQv5KPcL._SL200_.jpg)](https://www.amazon.es/dp/B005YJMB9K/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B005YJMB9K/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B005YJMB9K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

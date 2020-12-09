@@ -14,10 +14,12 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [My Hero Academia. Dos Héroes - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B08JJDWTT2/?tag=tolees-21) a 17.5 EUR (original: 34.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Está [My Hero Academia. Dos Héroes - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B08JJDWTT2/?tag=tolees-21) con 49.99 de descuento por 17.5 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![My Hero Academia. Dos Héroes - Edición C](https://m.media-amazon.com/images/I/61LehMF-1aL._SL200_.jpg)](https://www.amazon.es/dp/B08JJDWTT2/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B08JJDWTT2/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B08JJDWTT2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -14,10 +14,12 @@ comparePrice: 689 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Viewsonic PS501X - XGA  1024x768   3500 lumens  22000:1 contrast  exclusive SuperColor technology  0.61 short throw ratio  27dB noise level  Eco mode   2W speaker  3D compatible  1x HDMI  2x VGA in  1x VGA out  1x USB type A  Power   1x RS232  5 000/15 000 lamp life](https://www.amazon.es/dp/B07B7NLKX7/?tag=tolees-21) a 195.16 EUR (original: 689 EUR) (71.67 %  de descuento) en el siguiente enlace!
+Está [Viewsonic PS501X - XGA  1024x768   3500 lumens  22000:1 contrast  exclusive SuperColor technology  0.61 short throw ratio  27dB noise level  Eco mode   2W speaker  3D compatible  1x HDMI  2x VGA in  1x VGA out  1x USB type A  Power   1x RS232  5 000/15 000 lamp life](https://www.amazon.es/dp/B07B7NLKX7/?tag=tolees-21) con 71.67 de descuento por 195.16 EUR (original: 689 EUR) en el siguiente enlace!
 
 [![Viewsonic PS501X - XGA  1024x768   3500 ](https://images-eu.ssl-images-amazon.com/images/I/41Snl-N%2BLIL._SL200_.jpg)](https://www.amazon.es/dp/B07B7NLKX7/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07B7NLKX7/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B7NLKX7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

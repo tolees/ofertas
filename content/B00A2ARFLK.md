@@ -14,10 +14,12 @@ comparePrice: 3.79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LIDA Jabón 100% Natural Glicerina - 600 ml](https://www.amazon.es/dp/B00A2ARFLK/?tag=tolees-21) a 2.75 EUR (original: 3.79 EUR) (27.44 %  de descuento) en el siguiente enlace!
+Está [LIDA Jabón 100% Natural Glicerina - 600 ml](https://www.amazon.es/dp/B00A2ARFLK/?tag=tolees-21) con 27.44 de descuento por 2.75 EUR (original: 3.79 EUR) en el siguiente enlace!
 
 [![LIDA Jabón 100% Natural Glicerina - 600 ](https://m.media-amazon.com/images/I/41U-AG-W4eL._SL200_.jpg)](https://www.amazon.es/dp/B00A2ARFLK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00A2ARFLK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00A2ARFLK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
