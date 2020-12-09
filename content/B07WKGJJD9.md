@@ -14,10 +14,12 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dockers by Gerli 44SV009-790660  Zapatillas Hombre  Azul Navy 660  42 EU](https://www.amazon.es/dp/B07WKGJJD9/?tag=tolees-21) a 19.53 EUR (original: 39.95 EUR) (51.11 %  de descuento) en el siguiente enlace!
+Está [Dockers by Gerli 44SV009-790660  Zapatillas Hombre  Azul Navy 660  42 EU](https://www.amazon.es/dp/B07WKGJJD9/?tag=tolees-21) con 51.11 de descuento por 19.53 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![Dockers by Gerli 44SV009-790660  Zapatil](https://m.media-amazon.com/images/I/41ywsujSODL._SL200_.jpg)](https://www.amazon.es/dp/B07WKGJJD9/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07WKGJJD9/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07WKGJJD9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

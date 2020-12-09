@@ -14,10 +14,12 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour CC Scramble Stripe Polo  Hombre  Azul Petrol Blue/Thunder 407  M](https://www.amazon.es/dp/B07KH8VQVY/?tag=tolees-21) a 21.19 EUR (original: 49.99 EUR) (57.61 %  de descuento) en el siguiente enlace!
+Está [Under Armour CC Scramble Stripe Polo  Hombre  Azul Petrol Blue/Thunder 407  M](https://www.amazon.es/dp/B07KH8VQVY/?tag=tolees-21) con 57.61 de descuento por 21.19 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Under Armour CC Scramble Stripe Polo  Ho](https://images-eu.ssl-images-amazon.com/images/I/41XvFs57VJL._SL200_.jpg)](https://www.amazon.es/dp/B07KH8VQVY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KH8VQVY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KH8VQVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

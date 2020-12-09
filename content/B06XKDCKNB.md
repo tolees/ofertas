@@ -14,10 +14,12 @@ comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Alcatel A3 - Smartphone Pantalla de 5"  4G  cámara de 13MP y frontal de 5MP  1.5GB RAM  16GB ROM  Android   negro](https://www.amazon.es/dp/B06XKDCKNB/?tag=tolees-21) a 69 EUR (original: 159.99 EUR) (56.87 %  de descuento) en el siguiente enlace!
+Está [Alcatel A3 - Smartphone Pantalla de 5"  4G  cámara de 13MP y frontal de 5MP  1.5GB RAM  16GB ROM  Android   negro](https://www.amazon.es/dp/B06XKDCKNB/?tag=tolees-21) con 56.87 de descuento por 69 EUR (original: 159.99 EUR) en el siguiente enlace!
 
 [![Alcatel A3 - Smartphone Pantalla de 5"  ](https://images-eu.ssl-images-amazon.com/images/I/41YlfFBKs5L._SL200_.jpg)](https://www.amazon.es/dp/B06XKDCKNB/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XKDCKNB/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XKDCKNB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

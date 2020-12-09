@@ -14,12 +14,10 @@ comparePrice: 7.38 EUR
 inStock: true
 ---
 
-Está [Batiste "Dry Shampoo Medium Brown" Champú Seco - 200 ml](https://www.amazon.es/dp/B017P1SKJY/?tag=tolees-21) con 59.49 de descuento por 2.99 EUR (original: 7.38 EUR) en el siguiente enlace!
+Ahora mismo tienes [Batiste "Dry Shampoo Medium Brown" Champú Seco - 200 ml](https://www.amazon.es/dp/B017P1SKJY/?tag=tolees-21) a 2.99 EUR (original: 7.38 EUR) (59.49 %  de descuento) en el siguiente enlace!
 
 [![Batiste "Dry Shampoo Medium Brown" Champ](https://m.media-amazon.com/images/I/41J9ZdLLNiL._SL200_.jpg)](https://www.amazon.es/dp/B017P1SKJY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B017P1SKJY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B017P1SKJY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

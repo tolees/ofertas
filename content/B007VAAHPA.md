@@ -14,12 +14,10 @@ comparePrice: 16.88 EUR
 inStock: true
 ---
 
-Está [Drive [Blu-ray]](https://www.amazon.es/dp/B007VAAHPA/?tag=tolees-21) con 64.51 de descuento por 5.99 EUR (original: 16.88 EUR) en el siguiente enlace!
+Ahora mismo tienes [Drive [Blu-ray]](https://www.amazon.es/dp/B007VAAHPA/?tag=tolees-21) a 5.99 EUR (original: 16.88 EUR) (64.51 %  de descuento) en el siguiente enlace!
 
 [![Drive [Blu-ray]](https://m.media-amazon.com/images/I/51yxv7flfdL._SL200_.jpg)](https://www.amazon.es/dp/B007VAAHPA/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B007VAAHPA/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B007VAAHPA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

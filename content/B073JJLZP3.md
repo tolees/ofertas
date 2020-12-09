@@ -14,12 +14,10 @@ comparePrice: 5.99 EUR
 inStock: true
 ---
 
-Está [Philips 8718696706350 Bombilla LED Vela E14  2.2 W  Blanco](https://www.amazon.es/dp/B073JJLZP3/?tag=tolees-21) con 33.39 de descuento por 3.99 EUR (original: 5.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Philips 8718696706350 Bombilla LED Vela E14  2.2 W  Blanco](https://www.amazon.es/dp/B073JJLZP3/?tag=tolees-21) a 3.99 EUR (original: 5.99 EUR) (33.39 %  de descuento) en el siguiente enlace!
 
 [![Philips 8718696706350 Bombilla LED Vela ](https://images-eu.ssl-images-amazon.com/images/I/21zwV0RML%2BL._SL200_.jpg)](https://www.amazon.es/dp/B073JJLZP3/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073JJLZP3/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B073JJLZP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
