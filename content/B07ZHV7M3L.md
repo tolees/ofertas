@@ -14,10 +14,12 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Life Is Strange 2](https://www.amazon.es/dp/B07ZHV7M3L/?tag=tolees-21) a 9.99 EUR (original: 19.9 EUR) (49.80 %  de descuento) en el siguiente enlace!
+Está [Life Is Strange 2](https://www.amazon.es/dp/B07ZHV7M3L/?tag=tolees-21) con 49.80 de descuento por 9.99 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![Life Is Strange 2](https://m.media-amazon.com/images/I/517K+qLOVQL._SL200_.jpg)](https://www.amazon.es/dp/B07ZHV7M3L/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07ZHV7M3L/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07ZHV7M3L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

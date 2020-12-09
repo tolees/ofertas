@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas Tiro 19 Polyester Jacke Chaqueta  al 30.01 % de descuento'
-date: 2020-12-07 16:10:04
+title: 'adidas Tiro 19 Polyester Jacke Chaqueta  al 40.01 % de descuento'
+date: 2020-12-09 08:01:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41q45FVyZ2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41q45FVyZ2L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FZKYH3R
 description:
-actualPrice: 27.99 EUR
+actualPrice: 23.99 EUR
 comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Black/White  M](https://www.amazon.es/dp/B07FZKYH3R/?tag=tolees-21) a 27.99 EUR (original: 39.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Black/White  M](https://www.amazon.es/dp/B07FZKYH3R/?tag=tolees-21) a 23.99 EUR (original: 39.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
 [![adidas Tiro 19 Polyester Jacke Chaqueta ](https://m.media-amazon.com/images/I/41q45FVyZ2L._SL200_.jpg)](https://www.amazon.es/dp/B07FZKYH3R/?tag=tolees-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.98 % en Tommy Hilfiger Original Stretch Shirt Ca'
-date: 2020-12-08 08:06:49
+date: 2020-12-09 08:32:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+dDgHgCZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+dDgHgCZL._SL200_.jpg' ]
 comments: true

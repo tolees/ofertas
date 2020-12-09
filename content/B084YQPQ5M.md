@@ -14,10 +14,12 @@ comparePrice: 302.26 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Huawei P40 Lite - Smartphone 128GB  6GB RAM  Dual Sim  Emerald Green](https://www.amazon.es/dp/B084YQPQ5M/?tag=tolees-21) a 219.0 EUR (original: 302.26 EUR) (27.55 %  de descuento) en el siguiente enlace!
+Está [Huawei P40 Lite - Smartphone 128GB  6GB RAM  Dual Sim  Emerald Green](https://www.amazon.es/dp/B084YQPQ5M/?tag=tolees-21) con 27.55 de descuento por 219.0 EUR (original: 302.26 EUR) en el siguiente enlace!
 
 [![Huawei P40 Lite - Smartphone 128GB  6GB ](https://m.media-amazon.com/images/I/316f9jH19BL._SL200_.jpg)](https://www.amazon.es/dp/B084YQPQ5M/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B084YQPQ5M/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B084YQPQ5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

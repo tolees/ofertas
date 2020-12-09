@@ -14,10 +14,12 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kaporal Ricky - Botas para Mujer  Color Negro  Noir   Talla 40](https://www.amazon.es/dp/B00X1F6OCY/?tag=tolees-21) a 28.57 EUR (original: 79 EUR) (63.84 %  de descuento) en el siguiente enlace!
+Está [Kaporal Ricky - Botas para Mujer  Color Negro  Noir   Talla 40](https://www.amazon.es/dp/B00X1F6OCY/?tag=tolees-21) con 63.84 de descuento por 28.57 EUR (original: 79 EUR) en el siguiente enlace!
 
 [![Kaporal Ricky - Botas para Mujer  Color ](https://images-eu.ssl-images-amazon.com/images/I/41K20vULu-L._SL200_.jpg)](https://www.amazon.es/dp/B00X1F6OCY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00X1F6OCY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00X1F6OCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

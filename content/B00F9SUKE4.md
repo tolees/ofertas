@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs 20562-56 - SteamGlide Prof al 40.01 % de descuento'
-date: 2020-12-08 08:25:32
+date: 2020-12-09 08:33:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wtUjwpsfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wtUjwpsfL._SL200_.jpg' ]
 comments: true

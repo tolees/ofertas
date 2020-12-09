@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.20 % en Levi s Relaxed Graphic tee Camiseta  Whi'
-date: 2020-12-08 02:08:41
+date: 2020-12-09 08:35:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+Jp-8pCSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+Jp-8pCSL._SL200_.jpg' ]
 comments: true

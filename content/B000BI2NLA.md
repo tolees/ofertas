@@ -14,12 +14,10 @@ comparePrice: 24.93 EUR
 inStock: true
 ---
 
-Está [Wild Republic 64167 Eco Expedition Dino Dig - Figuras articulables de Dinosaurios  8 Unidades ](https://www.amazon.es/dp/B000BI2NLA/?tag=tolees-21) con 50.78 de descuento por 12.27 EUR (original: 24.93 EUR) en el siguiente enlace!
+Ahora mismo tienes [Wild Republic 64167 Eco Expedition Dino Dig - Figuras articulables de Dinosaurios  8 Unidades ](https://www.amazon.es/dp/B000BI2NLA/?tag=tolees-21) a 12.27 EUR (original: 24.93 EUR) (50.78 %  de descuento) en el siguiente enlace!
 
 [![Wild Republic 64167 Eco Expedition Dino ](https://images-eu.ssl-images-amazon.com/images/I/51%2BEKw0K-aL._SL200_.jpg)](https://www.amazon.es/dp/B000BI2NLA/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B000BI2NLA/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B000BI2NLA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

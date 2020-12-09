@@ -14,10 +14,12 @@ comparePrice: 74.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Silver Ridge II Pantalones de Senderismo Convertibles  Hombre  Beige  Tusk   W30/L34](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21) a 27.72 EUR (original: 74.99 EUR) (63.04 %  de descuento) en el siguiente enlace!
+Está [Columbia Silver Ridge II Pantalones de Senderismo Convertibles  Hombre  Beige  Tusk   W30/L34](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21) con 63.04 de descuento por 27.72 EUR (original: 74.99 EUR) en el siguiente enlace!
 
 [![Columbia Silver Ridge II Pantalones de S](https://m.media-amazon.com/images/I/31G+0YcBVSL._SL200_.jpg)](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
