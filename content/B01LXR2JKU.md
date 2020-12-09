@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Bosch EasyDrill 12 - Taladro atornillador a batería  12 V  con batería integrada  Cargador  Punta de destornillador '
 ---
 
-Está [Bosch EasyDrill 12 - Taladro atornillador a batería  12 V  con batería integrada  Cargador  Punta de destornillador ](https://www.amazon.es/dp/B01LXR2JKU/?tag=tolees-21) con 33.94 de descuento por 59.45 EUR (original: 89.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch EasyDrill 12 - Taladro atornillador a batería  12 V  con batería integrada  Cargador  Punta de destornillador ](https://www.amazon.es/dp/B01LXR2JKU/?tag=tolees-21) a 59.45 EUR (original: 89.99 EUR) (33.94 %  de descuento) en el siguiente enlace!
 
 [![Bosch EasyDrill 12 - Taladro atornillado](https://m.media-amazon.com/images/I/51lZIpELVEL._SL200_.jpg)](https://www.amazon.es/dp/B01LXR2JKU/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01LXR2JKU/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01LXR2JKU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

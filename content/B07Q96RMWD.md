@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Far Cry New Dawn - Ultimate Edition  Bundle Far Cry New Dawn Deluxe + Far Cry 5 Gold '
 ---
 
-Está [Far Cry New Dawn - Ultimate Edition  Bundle Far Cry New Dawn Deluxe + Far Cry 5 Gold ](https://www.amazon.es/dp/B07Q96RMWD/?tag=tolees-21) con 80.00 de descuento por 24.0 EUR (original: 119.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Far Cry New Dawn - Ultimate Edition  Bundle Far Cry New Dawn Deluxe + Far Cry 5 Gold ](https://www.amazon.es/dp/B07Q96RMWD/?tag=tolees-21) a 24.0 EUR (original: 119.99 EUR) (80.00 %  de descuento) en el siguiente enlace!
 
 [![Far Cry New Dawn - Ultimate Edition  Bun](https://m.media-amazon.com/images/I/519CmIY9umL._SL200_.jpg)](https://www.amazon.es/dp/B07Q96RMWD/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07Q96RMWD/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07Q96RMWD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

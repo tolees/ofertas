@@ -17,12 +17,10 @@ inStock: true
 prodname: 'The North Face M Premium Piquet Polo de Manga Corta  Hombre  Negro  Black   L'
 ---
 
-Está [The North Face M Premium Piquet Polo de Manga Corta  Hombre  Negro  Black   L](https://www.amazon.es/dp/B01AS0NFL2/?tag=tolees-21) con 31.75 de descuento por 40.95 EUR (original: 60 EUR) en el siguiente enlace!
+Ahora mismo tienes [The North Face M Premium Piquet Polo de Manga Corta  Hombre  Negro  Black   L](https://www.amazon.es/dp/B01AS0NFL2/?tag=tolees-21) a 40.95 EUR (original: 60 EUR) (31.75 %  de descuento) en el siguiente enlace!
 
 [![The North Face M Premium Piquet Polo de ](https://images-eu.ssl-images-amazon.com/images/I/41y%2B1aE4hkL._SL200_.jpg)](https://www.amazon.es/dp/B01AS0NFL2/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01AS0NFL2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01AS0NFL2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
