@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.00 % en Columbia Woodburn II  Zapatillas Hombre '
-date: 2020-12-08 14:05:47
+date: 2020-12-09 14:30:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41izmzDecXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41izmzDecXL._SL200_.jpg' ]
 comments: true

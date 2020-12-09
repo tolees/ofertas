@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.01 % en Disco Duro Externo 1tb Portátil 2.5" USB'
-date: 2020-12-08 08:31:43
+date: 2020-12-09 14:50:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AT+Q00Y5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AT+Q00Y5L._SL200_.jpg' ]
 comments: true

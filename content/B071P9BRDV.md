@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Max Factor Colour Elixir Honey Lacquer Gloss Brillo de Labios Tono 35 Blooming Berry - 28 gr'
 ---
 
-Está [Max Factor Colour Elixir Honey Lacquer Gloss Brillo de Labios Tono 35 Blooming Berry - 28 gr](https://www.amazon.es/dp/B071P9BRDV/?tag=tolees-21) con 61.64 de descuento por 4.22 EUR (original: 11.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Max Factor Colour Elixir Honey Lacquer Gloss Brillo de Labios Tono 35 Blooming Berry - 28 gr](https://www.amazon.es/dp/B071P9BRDV/?tag=tolees-21) a 4.22 EUR (original: 11.0 EUR) (61.64 %  de descuento) en el siguiente enlace!
 
 [![Max Factor Colour Elixir Honey Lacquer G](https://m.media-amazon.com/images/I/315SBoqhjKL._SL200_.jpg)](https://www.amazon.es/dp/B071P9BRDV/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071P9BRDV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B071P9BRDV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

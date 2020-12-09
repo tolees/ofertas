@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Figura Pop Game of Thrones: GENDRY'
 ---
 
-Está [Figura Pop Game of Thrones: GENDRY](https://www.amazon.es/dp/B07DFF22GV/?tag=tolees-21) con 45.45 de descuento por 8.7 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Figura Pop Game of Thrones: GENDRY](https://www.amazon.es/dp/B07DFF22GV/?tag=tolees-21) a 8.7 EUR (original: 15.95 EUR) (45.45 %  de descuento) en el siguiente enlace!
 
 [![Figura Pop Game of Thrones: GENDRY](https://m.media-amazon.com/images/I/41xr5a5YXSL._SL200_.jpg)](https://www.amazon.es/dp/B07DFF22GV/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DFF22GV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DFF22GV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
